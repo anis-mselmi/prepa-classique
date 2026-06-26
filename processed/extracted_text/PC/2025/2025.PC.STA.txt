@@ -1,0 +1,4071 @@
+Recommandations aux candidats 
+ 
+Aucun autre document n'est autorisé. 
+ 
+Seules les calculatrices de poche non programmables sont autorisées. 
+ 
+Il n’est fourni au candidat qu’une seule et unique copie du «Dossier document réponses » qui doit 
+être rendu en totalité, à la fin de l’épreuve, même sans réponses. 
+ 
+Le document réponses doit être rendu en intégralité (aucune feuille ne doit être supprimée). 
+ 
+Toute suppression de feuilles du document réponses est considérée comme tentative de fraude. 
+République Tunisienne 
+Ministère de l’Enseignement Supérieur 
+et de la Recherche Scientifique 
+Concours Nationaux d’Entrée aux Cycles 
+de Formation d’Ingénieurs 
+Session 2025 
+ 
+ 
+ 
+ 
+المناظرات 
+ الوطنية للدخول إلى مراحل تكوين
+المهندسين 
+ دورة2025
+ 
+ 
+Concours de Mathématiques – Physique & Physique – Chimie 
+Épreuve des Systèmes Techniques Automatisés 
+ 
+ 
+ 
+Date :  Jeudi 29 mai 2025 
+Heure : 08H00  
+Durée : 3 Heures 
+L’épreuve comporte trois parties : 
+A- Conception Mécanique  
+B- Mécanique des Solides Indéformables  
+C- Automatique  
+Le sujet de l’épreuve remis au candidat comporte deux dossiers : 
+1- Mise en situation, Données et Hypothèses 
+2- Document Réponses 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025          Page 2/10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dossier 
+Mise en situation, Données et Hypothèses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ce dossier comporte 10 pages numérotées de 1 à 10  
+ 
+ 
+Mise en situation 
+Pages 3/10 et 5/10 
+ 
+Données et hypothèses 
+ 
+ 
+A- Conception Mécanique  
+Page 6/10  
+ 
+B-  Mécanique des Solides Indéformables 
+Pages 7/10 à 9/10 
+ 
+C- Automatique 
+Page 10/10 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC                                Épreuve S.T.A                             Mise en situation, Données & Hypothèses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025          Page 3/10 
+ETUDE D’UNE MACHINE DE ROTO- MOULAGE   
+1- Mise en Situation 
+Le roto-moulage est une technique de fabrication des articles en plastique creux, figure 
+1, également connu sous le nom de moulage par rotation. C’est un procédé de fabrication 
+dans lequel un objet creux est obtenu en chauffant une matière plastique dans un moule, 
+généralement en aluminium ou en acier.  
+La matière plastique sous forme de poudre est d’abord dosée puis chargée dans le moule. 
+Ce dernier est ensuite chauffé tout en étant mis en rotation autour de deux axes 
+orthogonaux, ce qui permet à la matière plastique fondue de se répartir de façon 
+homogène et de recouvrir toute la surface intérieure du moule. 
+Le moule est enfin refroidi, ce qui entraîne la solidification du plastique et ainsi la 
+formation du produit final. Ce procédé est largement utilisé dans la production de divers 
+produits tels que des conteneurs, des réservoirs industriels, des composants automobiles 
+etc… 
+La figure 2 montre les étapes principales du procédé de roto-moulage : 
+ Etape (a) : dosage et chargement du moule. 
+ Etape (b) : chauffage et mise en rotation du moule. 
+ Etape (c) : refroidissement du moule. 
+ Etape (d) : éjection de la pièce. 
+ 
+La machine de roto-moulage, objet de cette étude (figure 3), appartient à la catégorie 
+connue sous le nom « tout en un ». Ce type de machine se caractérise par des éléments de 
+chauffage et de refroidissement intégrés directement dans le moule. Ce dernier est 
+d’abord chauffé en un temps relativement court, puis entrainé en rotation autour de deux 
+axes perpendiculaires. Cette conception permet de contrôler automatiquement le 
+processus de roto-moulage, d’accélérer la production et d’améliorer l’efficacité 
+énergétique. 
+ 
+ 
+ 
+ 
+Figure 1 : Exemples de produits fabriqués par roto-moulage 
+ 
+(a) 
+(b) 
+(c) 
+(d) 
+Figure 2 : Principales étapes du procédé de roto-moulage 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC                                Épreuve S.T.A                             Mise en situation, Données & Hypothèses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025          Page 4/10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3 : Schéma cinématique minimal de la machine de roto-moulage (moule fermé) 
+ 
+La machine de roto-moulage représentée par le schéma cinématique de la figure 3 est 
+composée de deux unités principales : 
+ Une unité d’ouverture et/ou de fermeture du moule (figures 3 et 4) : Elle 
+permet d’assurer la fermeture et l’ouverture automatique du moule (4) afin 
+faciliter le démoulage des pièces une fois le processus de roto-moulage est terminé. 
+ Une unité de rotation (figures 3 et 6) : Durant le processus de roto-moulage, 
+cette unité permet la rotation du moule (4) autour de deux axes perpendiculaires, 
+grâce à un moteur M1 et une chaine de transmission (P1, P2, 6, 8, 9). 
+ 
+𝑥 0 
+(4) 
+(P1) 
+O 
+D 
+(P2) 
+I 
+H 
+(9) 
+(0) 
+M 
+J 
+(3) 
+𝑀1 
+(0) 
+(6) 
+E 
+G 
+F 
+(8) 
+(5) 
+𝑦 4 
+(7) 
+M2 
+B 
+C 
+(1) 
+(2) 
+P 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC                                Épreuve S.T.A                             Mise en situation, Données & Hypothèses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025          Page 5/10 
+L’épreuve comporte trois parties : 
+A. Conception Mécanique (C.M) dont les objectifs sont :  
+1) Faire une analyse fonctionnelle et structurelle de la machine de roto-moulage, 
+2) Identifier et caractériser un élément de transmission. 
+ 
+B. Mécanique des Solides Indéformables (M.S.I) dont les objectifs sont : 
+1) Déterminer le temps nécessaire pour l’ouverture du moule (4), 
+2) Déterminer l’expression du couple exercé par le moteur (M2) pour assurer la 
+fermeture du moule (4), 
+3) Déterminer l’expression du couple nécessaire pour faire actionner l’unité de rotation, 
+4) Déterminer la relation entre les rotations principale et secondaire du système, 
+5) Déterminer l’expression du couple délivré par le moteur (M1). 
+ 
+C. Automatique dont les objectifs sont : 
+1) Faire une étude séquentielle pour la préparation du matériau pour le procédé de 
+roto-moulage, 
+2) Etudier la commande du moteur d’entrainement du tapis Tp1. 
+ 
+NB : Les trois parties A, B et C sont indépendantes et utilisent des notations 
+indépendantes. 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC Épreuve STA           Conception mécanique         Mise en situation, Données & Hypothèses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025          Page 6/10 
+2-Données et Hypothèses 
+Partie A : Conception Mécanique  
+ 
+ Principe de fonctionnement de l’unité de rotation (figure 3) :  
+L’énergie électrique alimente un moteur (M1) par un contacteur (KM1). Ce dernier 
+entraîne, par l’intermédiaire d’un système poulies-courroie (P1, P2) et d’un réducteur à 
+engrenages coniques (6,8), la rotation du moule (4) suivant deux axes.  
+ 
+ Principe de fonctionnement de l’unité de fermeture (figures 3 et 4):  
+L’énergie électrique alimente un moteur (M2) par un contacteur (KM2). Ce dernier 
+entraîne par l’intermédiaire d’un système vis (2) - écrou (1), la translation du couvercle 
+(3) assurant ainsi l’ouverture et/ou la fermeture du moule (4). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC Épreuve STA                       M.S.I                                   Mise en situation, Données & Hypothèses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025          Page 7/10 
+Partie B : Mécanique des Solides Indéformables (M.S.I) 
+Description de l’unité de fermeture et d’ouverture du moule (figure 4) 
+Le moteur (M2), délivrant un couple moteur Cm2 et tournant à une vitesse m2, entraîne 
+en rotation l’écrou (1) qui, à son tour entraine la translation de la vis (2) solidaire au 
+couvercle (3) assurant ainsi l’ouverture et/ou la fermeture du moule (4). 
+Il est à noter que, pendant la phase d’ouverture et/ou de fermeture du moule (4), le 
+moteur (M1) est à l’arrêt, le moyeu (7) est par conséquent fixe. L’ensemble {E2}={(4),(6)} 
+est supposé bloqué. De même un système de freinage (non représenté) permet de bloquer 
+la rotation de (5) par rapport à (7).   
+Le repère 
+)
+R0
+0
+0
+0
+(O,x , y , z
+lié à (7) est supposé galiléen. 
+La figure 5 montre le graphe des liaisons 
+correspondant à l’unité d’ouverture et de 
+fermeture du moule.  
+{E1} = {(2), (3))} 
+ 
+ 
+ 
+ 
+ 
+Figure 5 : Graphe des liaisons de l’unité 
+d’ouverture et de fermeture du moule  
+(Configuration moule ouvert) 
+L 5-E1 : glissière d’axe 
+0
+(C,y ) 
+L E1-1 : hélicoïdale d’axe 
+0
+(B,y ) 
+L 1- 5: pivot d’axe 
+0
+(K,y )  
+L 7-E 2 : pivot d’axe 
+0
+(E,y ) 
+L 5-7 : pivot d’axe 
+0
+(A,y )  
+A est le centre de la liaison L 5-7  ( figure 6) 
+On désigne par : 
+ p : le pas de la vis (2) , p=5mm. 
+  : le paramètre de translation de 
+l’ensemble {E1} au cours de son 
+mouvement par rapport (5) tel que  
+0
+
+ND
+y  
+  : l’angle de rotation de l’écrou (1) 
+par 
+rapport 
+à 
+(5) 
+tel 
+que
+0
+1 5
+
+
+( / )
+y . 
+2
+m est 
+la 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+LE1-1 
+L 5 -E1 
+L 1- 5 
+E1 
+7 
+L 5-7 
+5 
+E2 
+L 7-E2 
+𝑥 0 
+(4) 
+O 
+D 
+M 
+(3) 
+(0) 
+(6) 
+E 
+F 
+(5) 
+𝑦 0 
+(7) 
+M2 
+B 
+C 
+(1) 
+(2) 
+P 
+N 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC Épreuve STA                       M.S.I                                   Mise en situation, Données & Hypothèses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025          Page 8/10 
+vitesse angulaire de l’arbre moteur 
+(M2). 
+Figure 4 : Unité de fermeture et 
+d’ouverture du moule (moule ouvert) 
+ 
+Description de l’unité de rotation (Figure 6) 
+La figure 6 présente une modélisation simplifiée de l’unité de rotation faisant montrer la 
+rotation du moule autour des deux axes perpendiculaires
+0
+(O,x ) et 
+4
+(O,y ). Durant le 
+fonctionnement de la machine, le moule (4) est fermé et forme avec le couvercle (3) un 
+ensemble qui sera noté : (S4 )= {(3), (4)}.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 6 : Schéma cinématique de l’unité de rotation 
+On désigne par : 
+ 
+0
+R
+0
+0
+0
+(O,x , y , z )  : le repère, supposé galiléen, lié au bâti (0). 
+ 
+7
+R
+7
+7
+7
+(O,x , y , z ) : le repère lié au moyeu (7). 
+ 
+4
+4
+4
+4
+R (O,x , y , z ) : le repère lié au solide (S4 ) 
+  : le paramètre de la rotation principale, tel que 
+7
+
+0
+7
+0
+=( y , y )=( z , z ) . 
+  : le paramètre de la rotation secondaire, tel que 
+7
+4
+7
+4
+=( z , z )=( x , x ) . 
+ 
+𝑥 0 
+𝑦 0 
+Bâti (0) 
+𝑥 4 
+𝑦 4 
+𝑧 4 
+𝑧 7 
+(7) 
+(4) 
+𝑧 7 
+𝜃 
+𝜃 
+(3) 
+𝐺4 
+𝑂 
+𝑔  = -g 𝑦 0 
++ 
+E 
+A 
+H 
+𝛼 
+(𝑆4)
+𝑥 4 
+𝑥 7 
+𝑧 4 
+𝑦 4=𝑦 7 
+𝜃 
+𝜃 
+𝑧 7 
+𝑧 0 
+𝑥 0=𝑥 7 
+𝑦 7 = 𝑦 4 
+𝑦 0 
+𝛼 
+𝛼 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC Épreuve STA                       M.S.I                                   Mise en situation, Données & Hypothèses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025          Page 9/10 
+Pour l’ensemble du mécanisme, les masses de tous les solides sont négligées sauf celles 
+des solides (7) et (S4). 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC Épreuve STA                       M.S.I                                   Mise en situation, Données & Hypothèses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025          Page 10/10 
+Description de la chaine de transmission (Figure 7) 
+La rotation principale est assurée par un moteur électrique (M1) et un système poulies-
+courroie ((P1)-(P2)) de rapport de réduction 
+1r , alors que la rotation secondaire provient 
+d’un engrenage conique ((6)-( 8)), (figures 3 et 7). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 7: Schéma cinématique de la chaîne de transmission 
+ 
+On pose :  
+ 
+7
+1
+1
+
+m
+r =
+   
+1
+m est la vitesse de rotation délivrée par le moteur (M1) tel que 
+1
+1
+
+
+
+m
+P .  
+7
+est la vitesse de rotation du moyeu principal (7) tel que 
+7
+2
+9
+
+
+
+
+
+
+
+P
+. 
+ J1 : le moment d’inertie de l’ensemble 1={arbre moteur M1 ,P1} par rapport à son axe 
+de rotation 
+0
+( J, x ). 
+ J2 : le moment d’inertie de l’ensemble 2={arbre (9), P2} par rapport à l’axe 
+0
+(I, x ). 
+ 
+𝑥 0 
+𝑀1 
+(P1) 
+(P2) 
+I 
+H 
+(8) 
+(9) 
+(0) 
+𝑥 0 
+J 
+F 
+G 
+(6) 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC       Épreuve S.T.A           Automatique                   Mise en situation, Données & Hypothèses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025          Page 11/10 
+Partie C : Automatique 
+ Broyage et coloration pour la préparation des matériaux pour le roto-moulage 
+Le broyage et la coloration dans le processus de roto-moulage sont deux étapes importantes de la 
+préparation des matériaux. La matière plastique se présente d’abord sous forme de granulés 
+d’environ 3 mm de diamètre. 
+Pour préparer la matière, les granulés doivent être réduits en particules très fines, figure 8, et qui 
+peuvent être mélangées à sec avec des pigments (colorants) ou d’autres additifs pour créer des 
+propriétés spécifiques. 
+Figure 8 : Broyage et coloration pour la préparation des matériaux pour le roto-moulage 
+Le broyage est un processus de préparation des matériaux qui consiste à réduire la taille des 
+granulés de plastique en poudre. Cette opération s’effectue à l’aide d’un broyeur qui utilise des 
+lames rotatives à grande vitesse pour hacher les granulés en très petits morceaux.  
+Le procédé de mélange à sec peut être utilisé dans la préparation de la poudre de plastique pour 
+le processus de roto-moulage. Il consiste à mélanger la résine plastique avec d’autres ingrédients, 
+tels que les pigments (colorants), les charges, les stabilisateurs et les inhibiteurs d’UV, sous forme 
+sèche.  
+Cette opération peut être réalisée à l’aide d’ une machine de mélange à sec, qui comprend 
+généralement une chambre de mélange, une vis sans fin et une goulotte d’évacuation. Les 
+ingrédients sont ajoutés à la chambre de mélange, où ils sont mélangés par la vis sans fin, puis 
+évacués par la goulotte. Le processus de mélange à sec permet d’ obtenir un mélange cohérent et 
+homogène, nécessaire pour obtenir une couleur homogène et d’autres propriétés dans le produit 
+fini. La poudre mélangée peut être utilisée pour le roto-moulage . 
+ 
+ 
+Matière prête pour le rotomoulage 
+Granulés dans le broyeur 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 1/22 
+ 
+ 
+ 
+ 
+ 
+ 
+DOSSIER 
+ 
+DOCUMENT REPONSES 
+ 
+ 
+ 
+ 
+ Ce dossier comporte 22 pages numérotées de 1 à 22. 
+ Un seul dossier document réponses est fourni au candidat et doit 
+être rendu en totalité, même sans réponses, à la fin de l’épreuve.  
+ Le renouvellement de ce dossier est interdit. 
+ 
+ 
+ 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC         Épreuve S.T.A          Partie A : Conception mécanique            Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 2/22 
+ 
+Partie A : Conception Mécanique  
+ 
+A1 –A4. En se référant au texte explicatif du fonctionnement du système (page 6 du 
+document technique) et au schéma cinématique de la figure 3, répondre aux 
+questions suivantes :  
+A1 – Donner le nom et justifier le choix des liaisons suivantes : 
+Liaison en B : ……………………………………………………………………………………………………………… 
+……………………………………………………………………………………..…………………………………………….. 
+Liaison en C : ……………………………………………………………………………………………………………… 
+……………………………………………………………………………………..…………………………………………….. 
+A2 – Compléter le tableau ci-dessous :   
+ 
+Unité de rotation 
+Unité de fermeture 
+Pré-actionneur 
+…………..………………………………… …………..………………………………… 
+actionneur 
+…………..………………………………… …………..………………………………… 
+Transmetteur 
+de puissance 
+…………..………………………………… …………..………………………………… 
+effecteur 
+…………..………………………………… …………..………………………………… 
+A3 – Compléter le diagramme correspondant à la chaîne d’énergie de l’unité de rotation. 
+ 
+ 
+ 
+ 
+A4 – Compléter le diagramme correspondant à la chaîne d’énergie de l’unité de fermeture 
+ 
+ 
+ 
+………………
+………….... 
+………..…
+…………... 
+…………
+…………... 
+Energie 
+électrique 
+Energie 
+électrique 
+Alimenter 
+………... 
+Transmettre 
+…………….. 
+Fermer/ 
+ouvrir 
+…………. 
+Energie 
+mécanique 
+……………… 
+…………………
+………………… 
+………… 
+………………
+………………. 
+…………
+…………... 
+…………
+…………... 
+…………
+…………... 
+Energie 
+électrique 
+Energie 
+électrique 
+Alimenter 
+………… 
+Transmettre 
+……………. 
+Tourner 
+…...……… 
+Energie 
+mécanique 
+…........……… 
+…........……… 
+……………….. 
+………………. 
+…...……… 
+…………
+…………... 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC         Épreuve S.T.A          Partie A : Conception mécanique            Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 3/22 
+ 
+A5 –A11. On considère le dessin ci-dessous d’une partie d’une roue à denture droite. 
+On donne : le nombre de dents Z = 21, le module m=2mm ; et un facteur k = 10.  
+ 
+On demande de compléter le tableau suivant : 
+ 
+Num 
+Nom & symbole 
+Expression 
+valeur 
+ 
+1 
+Largeur de la roue 
+(b) 
+b = k.m 
+b =10*2=20 mm 
+A5 
+2 
+Pas au primitif ( p) 
+………………………. 
+………………………. 
+A6 
+3 
+Saillie (ha) 
+………………………. 
+………………………. 
+A7 
+4 
+Creux (hf) 
+………………………. 
+………………………. 
+A8 
+5 
+Hauteur de la dent 
+(h) 
+………………………. 
+………………………. 
+A9 
+6 
+Diamètre primitif (d)  ………………………. 
+………………………. 
+A10 
+7 
+Diamètre des têtes 
+(da)  
+………………………. 
+………………………. 
+A11 
+8 
+Diamètre des pieds  
+(df)  
+………………………. 
+………………………. 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC         Épreuve S.T.A          Partie A : Conception mécanique            Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 4/22 
+ 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC                     Épreuve S.T.A -               Partie B : M.S.I.                         Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 5/22 
+ 
+Partie B : Mécanique des Solides Indéformables (M.S.I.) 
+B-1 - Étude de l’unité de fermeture et/ou d’ouverture du moule (figure 4). 
+ Étude statique 
+L’objectif de l’étude statique est de déterminer l’expression du couple fourni par le 
+moteur (M2) pour la fermeture du moule (4). 
+On suppose que :  
+ Toutes les liaisons sont parfaites,  
+ Tous les solides sont homogènes.  
+ La notation 
+
+
+
+
+
+
+
+
+
+
+
+
+i
+j
+ 0
+ij
+ij
+ij
+ij
+Q
+ij
+ij
+Q
+X
+L
+Y
+M
+Z
+N
+=
+B
+ est adoptée pour présenter le torseur des 
+actions mécaniques de liaison qu’exerce un solide (i) sur un solide (j) en un point Q, 
+exprimé dans la base 
+0
+B
+0
+0
+0
+(x , y , z ). 
+ L’action du moteur (M2) sur l’écrou (1) (de filetage droit) au point B est modélisée par 
+le torseur suivant : 
+
+B
+B
+m2
+0
+0
+C
+y
+
+
+
+
+
+
+
+
+
+2
+ 0
+M
+1
+=
+B
+.  
+ Tous les solides de l’unité de fermeture et/ou d’ouverture du moule (4) sont supposés 
+de masses négligeables. 
+ Pendant la phase de fermeture du moule (4), les actions exercées par l’ensemble {E1} 
+sur (4) sont modélisées par le torseur suivant 
+
+1
+D
+D
+E
+4
+D
+D
+N
+M
+y
+
+
+
+
+
+
+
+
+
+ 0
+0
+=
+B
+. 
+ Pendant l’ouverture et la fermeture du moule, l’arbre du moteur M2 tourne à une 
+vitesse de rotation Nm2, (Nm2=100tr/mn). 
+1. Ecrire les torseurs des actions mécaniques des liaisons indiquées dans le tableau 
+ci-dessous : 
+Liaisons 
+Torseurs des actions mécaniques dans 
+0
+B
+0
+0
+0
+(x , y , z ) 
+1
+5
+L
+ 
+
+
+1
+5
+.......................
+.......................
+.......................
+.......................
+.......................
+.......................
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E
+C
+ 0
+C
+B
+ 
+1 1
+L 
+ 
+
+
+1 1
+.......................
+.......................
+.......................
+.......................
+.......................
+.......................
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E
+B
+ 0
+B
+B
+ 
+1 5
+L  
+
+
+1 5
+.......................
+.......................
+.......................
+.......................
+.......................
+.......................
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+B
+ 0
+B
+B
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC                     Épreuve S.T.A -               Partie B : M.S.I.                         Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 6/22 
+ 
+2. Pour la liaison 
+1 1
+L, donner l’expression de la composante du moment suivant 
+l’axe 
+)
+0
+(B, y
+ en fonction de la composante de la force suivant l’axe 
+)
+0
+(B, y
+ et du 
+pas de filetage. 
+……………………………………………….……………………………………………………………………………
+……………………………………………………….……………………………………………………………………
+………………………………………………………………………………………………………………………………
+……………………………………………………………………………………………………………………………… 
+3. On suppose que (5) est fixe, écrire l’équation scalaire issue de l’application du 
+théorème du moment statique à l’écrou (1) en projection sur l’axe  
+)
+0
+(B, y
+. 
+………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………
+……………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+4. Le moule est fermé, écrire l’équation scalaire déduite de l’application du 
+théorème de la résultante statique à l’ensemble {E1} en projection sur l’axe 
+)
+0
+(B, y
+. 
+………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+5. Déduire l’expression du couple 
+m2
+C
+ du moteur (M2) en fonction de la force de 
+fermeture du moule ND. 
+………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………..… 
+…………………………………………………………………………………………………………………………… 
+ Étude cinématique  
+L’objectif de cette étude est de déterminer le temps nécessaire pour l’ouverture du moule 
+(4). 
+m2
+C
+= …..…..…………………………….……… 
+ ………………...…..…………… 
+ ………………...…..…………… 
+ …………………………………...…..…………… 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC                     Épreuve S.T.A -               Partie B : M.S.I.                         Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 7/22 
+ 
+6. Déterminer le torseur cinématique 
+
+
+B
+(1/5)
+ du solide (1) au point P au cours de 
+son mouvement par rapport à (5),  
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 0
+P
+P
+.......................................................................................
+(1/5)
+=
+.......................................................................................
+B
+ 
+7. Déterminer le torseur cinématique 
+
+
+1
+D
+(E /5)
+de l’ensemble (E1) au point D au 
+cours de son mouvement par rapport à l’ensemble (5). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 0
+1
+D
+D
+.......................................................................................
+(E /5)
+=
+.......................................................................................
+B
+ 
+8. Déterminer le torseur cinématique 
+
+
+1
+B
+(1/E )
+de l’ensemble (E1) au point B au 
+cours de son mouvement par rapport à l’ensemble (5). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 0
+1
+B
+B
+.......................................................................................
+(1/ E )
+=
+.......................................................................................
+B
+ 
+9. Donner la relation liant la vitesse linéaire de la vis (2) à la vitesse de rotation de 
+l’écrou (1) . 
+……………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………… 
+ 
+10. Afin de faciliter l’opération de démoulage, le couvercle (3) doit s’éloigner du 
+moule d’une distance
+0
+500mm
+
+. Déterminer l’expression du temps t nécessaire 
+à l’ouverture du moule en fonction  de 
+0,
+
+ 
+m2
+
+ et le pas p . 
+……………………………………………………………………………………………………………………………… 
+……………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+11. Calculer le temps t. 
+………………………………………………………………………………………………………………………………
+……………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+t = ………………………..…………….……… 
+=………...…..…………… 
+t = ………………s 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC                     Épreuve S.T.A -               Partie B : M.S.I.                         Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 8/22 
+ 
+B-2-Etude cinématique et dynamique de l’unité de rotation (figures 3 et 6) 
+L’objectif de cette partie est de déterminer l’expression du couple, au niveau de l’arbre (9), (noté 
+Cm7 ) nécessaire pour faire actionner l’unité de rotation. 
+On suppose que : 
+ Le repère 
+0
+R
+0
+0
+0
+(O,x , y , z ) est lié au bâti (0) est supposé galiléen. 
+ Le moyeu principal (7) de masse m7 et de centre d’inertie G7 situé sur l’axe 
+0
+(O, x )
+est en liaison pivot parfaite d’axe 
+0
+(O, x ) avec le bâti (0). Le repère 
+7
+R
+7
+7
+7
+(O,x , y , z )
+est lié à (7), on désigne par  (rotation principale) le paramètre de rotation tel que
+7
+
+0
+7
+0
+=( y , y )=( z , z )  (figure 6) . La matrice d’inertie du moyeu (7) en O, dans la 
+base 
+7
+7
+7
+7
+(x , y , z )
+B
+ est définie par : 
+
+7
+7
+7
+7
+O
+7
+7
+(x ,y ,z )
+A
+0
+0
+I (7)
+0
+B
+0
+0
+0
+C
+
+
+
+
+
+
+
+
+
+
+ 
+ Le solide (S4 ) de masse m4 et de centre d’inertie G4 est en liaison pivot parfaite d’axe 
+4
+(O,y )  avec le moyeu principal (7). Le repère 
+4
+4
+4
+4
+R (O,x , y , z ) est lié à (S4 ), on 
+désigne par  (rotation secondaire) le paramètre de rotation tel que 
+
+7
+4
+7
+4
+=( z , z )=( x , x ) .
+4
+4
+
+OG
+a x . La matrice d’inertie du solide (S4) en O, dans la 
+base 
+4
+4
+4
+4
+(x , y , z )
+B
+ est définie par : 
+
+4
+4
+4
+4
+O
+4
+4
+4
+(x ,y ,z )
+A
+0
+0
+I (S )
+0
+B
+0
+0
+0
+C
+
+
+
+
+
+
+
+
+
+
+ 
+ Le couple (au niveau de l’arbre 9) appliqué sur le moyeu principal (7) de la machine 
+est noté :  
+m7
+m7
+0
+C
+C
+
+ x . 
+ 
+12. Déterminer le torseur cinématique 
+
+4
+
+O
+(S /0)
+du solide (S4) au point O au cours de son 
+mouvement par rapport au bâti (0). (exprimé dans la base 
+4
+4
+4
+4
+(x , y , z )
+B
+) : 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+
+
+
+4
+O
+.....................................................................................................................
+(S /0)
+=
+..........................................................................
+4
+
+
+
+
+
+
+
+
+
+
+B
+O
+   
+............................................
+ 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC                     Épreuve S.T.A -               Partie B : M.S.I.                         Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 9/22 
+ 
+13. Déterminer le moment cinétique du solide (S4) au point O dans son mouvement par 
+rapport au bâti (0) : 
+
+
+O
+4
+S / 0
+
+(exprimé dans la base 
+4
+4
+4
+4
+(x , y , z )
+B
+) :  
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+
+
+4
+0 
+O S /
+................................................................................................................................  
+14. Déterminer la projection sur 
+0x   du moment dynamique du solide (S4) au point O dans 
+son mouvement par rapport au bâti (0) : 
+
+
+0
+O
+4
+.
+S / 0
+x 
+. 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+
+
+0
+4
+0 
+O
+.
+S /
+................................................................................................................................
+x
+ 
+15. Déterminer la projection sur 
+0x  du moment dynamique du solide (7) au point O dans son 
+mouvement par rapport au bâti (0) : 
+
+
+0
+O
+.
+7 / 0
+x 
+. 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+
+
+0
+7 0 
+O
+.
+/
+................................................................................................................................
+x
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC                     Épreuve S.T.A -               Partie B : M.S.I.                         Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 10/22 
+ 
+16. Déterminer le moment des efforts extérieurs appliqués  à l’ensemble Σ={S4 ,7} au point 
+O en projection sur 
+0x  : 
+
+
+0.M
+x
+.  
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+
+
+0
+
+.M
+................................................................................................................................
+x
+ 
+17. En appliquant le théorème du moment dynamique à l’ensemble Σ={S4 ,7} au point O en 
+projection sur 
+0x , déduire l’expression du couple 
+m7
+C
+ en fonction de α, θ, leurs dérivées 
+et des données du mécanisme.  
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+7 
+m
+......................................................................................................................................
+C
+ 
+ 
+B-3- Étude de la chaine de transmission (figures 3 et 7)  
+ Étude cinématique 
+L’objectif de cette étude est de déterminer la relation entre la rotation principale  et la 
+rotation secondaire  du système. 
+On suppose que : 
+ Le repère 
+0
+R
+0
+0
+0
+(O,x , y , z ) est lié au bâti (0) est supposé galiléen. 
+ Le rayon de la roue (6) est noté R6. 
+ Le rayon de la roue (8) est noté R8. 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC                     Épreuve S.T.A -               Partie B : M.S.I.                         Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 11/22 
+ 
+18. Déterminer le torseur cinématique 
+
+
+F
+(6/0)
+de la roue (6) au point F au cours de son 
+mouvement par rapport au bâti (0). (exprimé dans la base 
+7
+7
+7
+7
+(x , y , z )
+B
+) : 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+
+
+
+F
+.....................................................................................................................
+(6/0)
+=
+...........................................................................
+7
+
+
+
+
+
+
+
+
+
+
+B
+F
+   
+...........................................
+ 
+19. En utilisant la condition de roulement sans glissement entre les roues (6) et (8) au point 
+G, déterminer une relation entre la vitesse de rotation principale  et la vitesse de 
+rotation secondaire. 
+…………………………………………………………………………………………………………………………… 
+……………………………………………………………………………………………………………………………… 
+……………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+.......................................................................................................
+ 
+ Étude énergétique  
+L’objectif de cette étude est de déterminer l’expression du couple Cm1 délivré par le moteur (M1). 
+On suppose que : 
+ Le repère 
+0
+R
+0
+0
+0
+(O,x , y , z ) est lié au bâti (0) est supposé galiléen. 
+ Les poulies (P1) et (P2) sont en liaisons pivots d’axe 
+0
+x  avec le bâti (0) aux points J et 
+I respectivement.  
+ L’action mécanique du moteur (M1) sur la poulie (P1)  est modélisé par un torseur 
+couple de moment : 
+m1
+m1
+0
+C
+C
+
+ x . 
+ L’action mécanique de la partie réceptrice de la machine sur la poulie (P2) est 
+modélisée par un torseur couple de moment : 
+m7
+m7
+0
+C
+C
+
+ x . 
+ Les courroies sont supposées inextensibles et de masse négligeables. 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC                     Épreuve S.T.A -               Partie B : M.S.I.                         Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 12/22 
+ 
+20.  Déterminer l’énergie cinétique du système 
+
+
+3
+1
+2
+,
+
+dans son mouvement par 
+rapport au bâti (0) en fonction de 
+1J , 
+2J , 1r  et 
+1
+
+
+
+m  (Voir figure 7). 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+
+
+3
+0
+
+
+C
+E
+/
+....................................................................................................... 
+21. Déterminer la puissance développée par les actions mécaniques extérieures s’exerçant 
+sur le système 
+3
+ au cours de son mouvement par rapport au bâti (0). 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+
+
+3
+3
+0
+
+
+P
+/
+................................................................................................................................
+ 
+22. Déterminer la puissance développée par les actions mécaniques intérieures s’exerçant 
+au système 
+3
+ au cours de son mouvement par rapport au bâti (0). 
+
+
+int
+3
+............................
+
+
+P
+ 
+23. Appliquer le théorème de l’énergie cinétique et déterminer une expression du couple 
+moteur  
+m1
+C
+en fonction de 
+m7
+C
+,
+1J , 
+2J , 1r  et 
+1
+
+
+
+m . 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+1 
+m
+................................................................................................................................
+C
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC                          Épreuve S.T.A         Partie C : Automatique            Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 13/22 
+ 
+Partie C : Automatique 
+Section C-1. Étude séquentielle pour la préparation du matériau pour le roto-
+moulage 
+1. 
+Présentation du système 
+Le système automatisé, figure c1, permet de préparer la matière première (granulés, 
+colorants et additifs) en vue de l’utiliser dans le processus de roto-moulage.  
+Trois produits (P1, P2, P3) sont placés dans des réservoirs différents : 
+- P1 : Plastique pur sous forme de granulés. 
+- P2 : additif (composé organique). 
+- P3 : Colorant. 
+Les trois réservoirs sont équipés de trois électrovannes A, B et C qui déversent les 
+produits dans les bascules de pesage BD et BE. 
+La dose de chacun des trois produits est déterminée par pesage sur les bascules BD et 
+BE dont les réservoirs sont équipés d’électrovannes D et E. Ces électrovannes 
+permettent le déversement des différents produits dans le broyeur. 
+La bascule BD fournit les deux informations suivantes : 
+- S0 = 1 : bascule BD vide. 
+- S1 = 1 : bascule BD chargée par un poids prédéterminé du granulé P1. 
+La bascule BE fournit les trois informations suivantes : 
+- S2 = 1 : bascule BE vide. 
+- S3 = 1 : bascule BE chargée par un poids prédéterminé de l’additif P2. 
+- S4 = 1 : bascule BE chargée par un poids prédéterminé des deux produits P2 et P3. 
+2. 
+Description du cycle de fonctionnement  
+2.1. 
+Etat initial du système  
+ Les bascules de pesage BD et BE sont vides. 
+ La tige du vérin à double effet V1 est sortante (l11 = 1). 
+ Le broyeur est vide (S5 = 0 ; S5 étant un capteur optique placé au fond du broyeur non 
+représenté sur la figure c1). 
+ Le pot d’alimentation de la vis d’Archimède est vide (S6 = 0, non représenté sur la figure 
+c1)  
+Remarque : le bouton poussoir de départ cycle “Dcy” commande en même temps l’unité 
+de broyage et celle du mélange des produits. 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC                          Épreuve S.T.A         Partie C : Automatique            Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 14/22 
+ 
+2.2. 
+Unité 1 : Fonctionnement de l’unité de broyage 
+Une impulsion sur le bouton de départ cycle, Dcy, provoque les opérations suivantes : 
+ Ouverture de l’électrovanne A (KA = 1) jusqu’à l’obtention du poids désiré du 
+produit P1. 
+ Fermeture de l’électrovanne A et ouverture de l’électrovanne D (KD = 1) jusqu’à 
+l’écoulement total du produit P1 dans le broyeur, ce qui entraîne la fermeture de 
+l’électrovanne D. 
+ Mise en marche du moteur Mt1 du broyeur à grande vitesse (KM1 = 1) durant un 
+temps t1. 
+ 
+L’écoulement du temps t1 implique la fin du broyage.  
+2.3. 
+Unité 2 : Mélange des différents produits  
+L’impulsion sur le bouton Dcy, provoque les opérations suivantes: 
+ Ouverture de l’électrovanne B (KB=1) jusqu’à l’obtention du poids désiré du produit 
+P2. 
+ Fermeture de l’électrovanne B et ouverture de l’électrovanne C (KC = 1) jusqu’à 
+l’obtention du poids désiré (P2 + P3). 
+ Fermeture de l’électrovanne C et attente de la fin du temps t1 (fin du broyage). 
+Dès que le moteur Mt1 a fini le broyage des granulés (produit P1, voir paragraphe 2.2), 
+c’est à dire le temps t1 s’est écoulé (le temps de broyage est supérieur à celui de la pesée 
+de P2 + P3), on aura alors : 
+ Rotation du moteur Mt1 à petite vitesse (KM2 = 1) et ouverture de l’électrovanne E 
+(KE = 1) jusqu’à l’écoulement total des produits (P2 + P3) dans le broyeur. 
+ Mise en rotation du moteur Mt2 à petite vitesse (KM3 = 1), et ouverture de la vanne 
+X (KX = 1) pour vider le produit (P1+P2+P3) dans le pot d’alimentation de la vis 
+d’Archimède, Mt1 continu sa rotation jusqu’à ce que le broyeur soit vide (S5= 0). 
+ Fermeture de la vanne X et arrêt de Mt1, le moteur Mt2 continu sa rotation et 
+s’arrêtera après un nombre de tours prédéterminé signalé par un capteur c. 
+Lorsque le moteur Mt2 effectue le nombre de tours prédéterminé (c =1), le système 
+s’arrête. Le mélange est alors fini et la matière première est prête pour être remplie dans 
+des sacs appropriés. 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC                          Épreuve S.T.A         Partie C : Automatique            Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 15/22 
+ 
+ 
+Figure c1. Système de préparation de la matière première pour le roto-moulage 
+ 
+ 
+ 
+KB 
+KC 
+C 
+B 
+Colorant  
+P3 
+Additif  
+P2 
+Granulés 
+P1 
+A 
+KA 
+BE 
+BD 
+KD 
+KE 
+S0
+S1
+S2
+S3
+S4
+Broyeur 
+Palette de broyage 
+et malaxage 
+Pot d’alimentation 
+X 
+Mt2 
+Capteur ‘c’ pour détecter le 
+nombre de tours 
+Vis d’Archimède 
+Mt1 
+Dcy 
+D 
+E 
+KX 
+V1 
+Buse de 
+remplissage 
+Tp1 : arrivée des sacs vides  
+Tapis Tp1  
+Tapis Tp2  
+Tp2 : Evacuation des sacs  
+remplis et cousus 
+Fermeture des 
+sacs par couture 
+Unité de 
+Fermeture des 
+sacs par couture 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC                          Épreuve S.T.A         Partie C : Automatique            Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 16/22 
+ 
+C1. Compléter le GRAFCET du point de vue commande du système de broyage (Unité 1). 
+10 
+ 
+11 
+12 
+ 
+13 
+CI1 . X20 . Dcy 
+……..…. 
+……..…… 
+……..…. 
+……..…… 
+……..…. 
+…….… 
+……….… 
+ 
+ 
+C2. Compléter le GRAFCET de point de vue commande de l’unité de mélange (Unité 2). 
+20 
+ 
+21 
+22 
+ 
+23 
+ 
+24 
+ 
+25
+ 
+26
+CI2 . X10. Dcy 
+…… …. 
+KB 
+… … 
+…. …. 
+…… …… 
+… …… 
+…….…. 
+…. 
+…….…. 
+…… …… 
+… 
+…….…. 
+KM3 
+…….…. 
+….. 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC                          Épreuve S.T.A         Partie C : Automatique            Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 17/22 
+ 
+C3-C4. Proposer les expressions logiques (4 variables au moins) des deux conditions 
+initiales CI1 et CI2.  
+C3 : CI1 = ..................................................................................................................... 
+C4: CI2 = ..................................................................................................................... 
+Section C-2. Commande du moteur d’entraînement du tapis Tp1 
+L’objectif de cette partie est d’asservir la vitesse linéaire du tapis Tp1, afin de garantir une 
+bonne fermeture des sacs remplis par couture. 
+1. Présentation 
+La translation du tapis Tp1 est obtenue à l’aide d’un moteur électrique (Mc) qui entraîne 
+en rotation à travers un réducteur à poulies-courroie, le tambour qui déplace le tapis. La 
+figure c2 présente le système d’entraînement du tapis Tp1. 
+Figure c2 : Système d’entraînement du tapis Tp1 
+ 
+Le schéma de principe de la transmission du mouvement est donné par la Figure c3. 
+Figure c3 : Principe de la transmission du mouvement. 
+ 
+2. Étude de l’asservissement de vitesse du tapis Tp1 
+L’objectif de cette étude est de choisir un correcteur pour satisfaire le cahier des charges 
+suivant : 
+- 
+Un temps de réponse minimal ; 
+- 
+Aucun dépassement ; 
+- 
+Les perturbations sont sans effet sur la stabilité ; 
+- 
+Stabilité assurée avec M ≥ 45° et MG ≥ 15 dB ; 
+- 
+Erreur statique de position nulle. 
+ 
+Moteur électrique 
+MC 
+Réducteur à 
+poulies - courroie 
+Tambour 
++  
+Tapis Tp1 
+Vitesse de rotation du 
+moteur  
+Vitesse de rotation du 
+Tambour  
+Vitesse de translation 
+du Tapis  
+V 
+ɷ 
+ ɷr 
+Tapis Tp1  
+Tapis Tp2  
+Tp2 : Evacuation des 
+sacs remplis et cousus 
+Fermeture des 
+sacs par 
+couture 
+Unité de 
+Fermeture des 
+sacs par couture 
+Unité de 
+remplissage des 
+sacs  
+Tapis Tp1 : arrivée des 
+sacs  vides  
+Tambour 
+d’entrainement 
+Du tapis Tp1 
+(de diamètre D) 
+Mc 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC                          Épreuve S.T.A         Partie C : Automatique            Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 18/22 
+ 
+Le schéma fonctionnel de l’asservissement de vitesse du tapis est donné par la figure c4. 
+Ka
+Ky
+Ω(p)
+Correcteur
+E(p)
+Ft(p)
+U(p)
+I(p)
+Vc(p)
+Uc(p)
++-
++-
+Cm(p)
+Cr(p)
++ -
+Ωr(p)
+V(p)
+Kc
+Moteur
+electrique
+Transmission
+de mouvement
+Figure c4 : schéma fonctionnel de l’asservissement de vitesse du tapis 
+ 
+Le fonctionnement du moteur est décrit par les équations suivantes : 
+u(t) = Ri(t) + L
+di(t)
+dt + e(t) ∶la tension d′alimentation du moteur                       (1) 
+e(t) = Ke ω(t): la force contre électromotrice                                                            (2) 
+J
+dω(t)
+dt
+= cm(t) −cr(t) −fω(t) : équation du mouvement                                         (3) 
+cm(t) = Km i(t) : le couple moteur                                                                                     (4) 
+avec : 
+Vc : vitesse de consigne. 
+Uc : tension d’entrée . 
+i(t): le courant de l′induit . 
+R et L sont respectivement la résistance et l’inductance de l’induit du moteur. 
+Km et Ke sont respectivement les constantes du couple moteur et de la force contre 
+électromotrice (Km = Ke). 
+(t) : la vitesse de rotation du moteur. 
+Ft(t) : effort résistant appliqué sur le tapis par les sacs remplis . 
+cr(t): le couple résistant ramené sur l’axe du rotor résultant de l’effort Ft 
+cr(t) = 0.5 r.D.Ft(t)                                                                                                               (5) 
+r est le rapport de réduction entre le moteur Mc et le tambour du tapis Tp1 de diamètre 
+D (figure c2). 
+Remarques :  
+ La transformée de laplace de Ft (t) est Ft(p). 
+ Toutes les conditions initiales sont nulles. 
+C5. Ecrire les équations de (1 à 5) dans le domaine de Laplace         
+(1) : ............................................................................................................................................................................ 
+(2) : ............................................................................................................................................................................ 
+(3) : ........................................................................................................................................................................... 
+(4) : ........................................................................................................................................................................... 
+(5) : ............................................................................................................................................................................ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC                          Épreuve S.T.A         Partie C : Automatique            Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 19/22 
+ 
+C6-C7. En admettant que la transmission est sans glissement, écrire les relations entre : 
+C6. V(t) et r(t) : .................................................................................................................................................  
+....................................................................................................................................................................................... 
+C7. r(t) et  (t) ................................................................................................................................................... 
+……………………………………………………………………………………................................................................. 
+C8. Compléter le schéma bloc de la figure c5 en négligeant l’inductance « L » et le 
+frottement « f ».   
+ 
+ 
+Ka 
+ 
+….. 
+ 
+Ky 
+Ω(p) 
+ 
+C(p) 
+ 
+… 
+ 
+… 
+ 
+.. 
+ 
+… 
+E(p) 
+ 
+Ft(p) 
+U(p) 
+I(p) 
+Vc(p) 
+Uc(p) 
++ - 
++ - 
+Cm(p) 
+Cr(p) 
++ - 
+ 
+.. 
+Ωr(p) 
+ 
+.. 
+V(p) 
+ 
+….. 
+Figure c5 : Schéma bloc du système asservi 
+ 
+On veut mettre le schéma de la figure c5, sous la forme de la figure c6. Déterminer les 
+différentes fonctions de transfert suivantes : (sans détails de calcul). 
+ 
+ 
+V(p) 
+ 
+Ft(p) 
+ 
+Ɛ(p) 
+ 
+Vc(p) 
+ 
+H2(p) 
++ 
+- 
++ 
+- 
+ 
+C(p) 
+ 
+H1(p) 
+ 
+H3(p) 
++ -
+ 
+H4(p) 
+ 
+H5(p) 
+ 
+U(p) 
+- 
+ 
+Figure c6: Schéma bloc du système simplifié 
+ 
+C9. H1(p) ?:        
+H1(p) = ........................................................……...................................................................... 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC                          Épreuve S.T.A         Partie C : Automatique            Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 20/22 
+ 
+C10. H2(p) ?:         
+H2(p) = .................................................………..................................................................... 
+ 
+C11. H3(p) ?:         
+H3(p) = ..............................................……........................................................................... 
+ 
+C12. H4(p) ?:         
+H4(p) = ...............................................................................................................................  
+ 
+C13. H5(p) ?:         
+H5(p) = ................................................................................................................................. 
+ 
+Dans la suite du sujet on prendra : 
+H1(p) = K1   ;   H2(p) =  K2  ;    H3(p) =  K3 / p  ;   H4(p) =  K4   et    H5(p) = K5   = 1  
+Où les constantes Kn  sont  positifs,  n ={1,2,3,4,5} 
+On donne : V(p) = T1(p) Vc(p) -  T2(p) Ft (p) 
+C14-C15. On veut déterminer la fonction de transfert T1(p) en fonction des Kn . 
+C14. Compléter le schéma de la figure c7  
+ 
+ 
+………… 
+ 
+Ɛ(p) 
+ 
+Vc(p) 
+ 
+………………………………. 
+ 
+V(p) 
++ 
+- 
+ 
+Figure c7 : schéma fonctionnel simplifié vis à vis de la consigne  
+ 
+C15. Donner alors l’expression de T1(p) 
+....................................................................................................................................................................................... 
+....................................................................................................................................................................................... 
+....................................................................................................................................................................................... 
+T1(p) = ....................................................................................................................................................................... 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC                          Épreuve S.T.A         Partie C : Automatique            Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 21/22 
+ 
+C16-C17. Détermination de la fonction de transfert T2(p) en fonction des Kn .  
+C16. Compléter le schéma de la figure c8.  
+- ……… 
+ 
+V(p) 
+- Ft(p) 
+….. 
+…. 
+ …… 
+- 
++ 
++ 
++ 
+ 
+Figure c8 : schéma fonctionnel simplifié vis à vie de la perturbation 
+ 
+C17. Donner alors l’expression de T2(p) 
+....................................................................................................................................................................................... 
+....................................................................................................................................................................................... 
+....................................................................................................................................................................................... 
+T2(p) = ...................................................................................................................................................................... 
+ 
+C18. Dites pourquoi si le système est stable vis à vis de la consigne Vc(p) il est aussi stable 
+par rapport à la perturbation. (on ne vous demande pas d’étudier la stabilité). 
+....................................................................................................................................................................................... 
+....................................................................................................................................................................................... 
+Dans ce qui suit on prendra C(p) = Kp 
+ 
+C19. En justifiant la réponse, le système est il stable ? 
+....................................................................................................................................................................................... 
+C20. Déterminer, en le justifiant, l’erreur statique unitaire de position Ɛp(∞) 
+ 
+Ɛp (∞) = .................................................................................................................................................................... 
+....................................................................................................................................................................................... 
+C21. En justifiant la réponse, le choix du correcteur C(p) = Kp est il acceptable ? 
+....................................................................................................................................................................................... 
+....................................................................................................................................................................................... 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC                          Épreuve S.T.A         Partie C : Automatique            Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 22/22 
+ 
+Dans ce qui suit on prendra : 
+ 𝐶(p) =
+𝐾𝑖
+p   
+et 
+ Ft(p) = 0    
+ Le moteur possède la fonction de transfert : 𝑯𝒎(𝐩) =
+𝑲𝒙
+𝟏+ 𝛕𝐩  
+ Le schéma bloc est celui de la figure c10  
+ 
+ 
++ 
+- 
+ 
+Ɛ(p) 
+ 
+Vc(p) 
+ 
+V(p) 
+ 
+ 
+K6  
+ 
+U(p) 
+ 
+ 
+Figure c10 : schéma fonctionnel de l’asservissent de vitesse du tapis  
+ 
+C22. Déterminer la fonction de transfert (FT) en boucle ouverte TBO(p). En déduire, son 
+gain statique KBO , son ordre et sa classe .       
+ 
+TBO(p) = ........................................…………………............................................................................................... 
+KBO = .................................. ..................................………......................................................................................  
+Ordre = ........... ...................................…………………..................................................................................... 
+Classe = ...........................................…………………............................................................................................... 
+ 
+C23. Déterminer la FT en boucle fermée TBf (p) en fonction de KBO et τ, la mettre sous 
+forme canonique. 
+TBf (p) = ....................................................................................................................................... 
+ 
+Forme canonique :   TBf (p) = 
+…………………………………..
+𝟏+ ………………………………………. 
+24. En justifiant la réponse, le système est il stable ? 
+…………………………………………………………………………………………………………………………………
+……………………………………………………….………………………………………….……………………………… 
+C25. Déterminer, en le justifiant, l’erreur statique unitaire de position Ɛp (∞) 
+................................................................................................................................................................................... 
+..................................................................................................................................................................................... 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC                          Épreuve S.T.A         Partie C : Automatique            Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 23/22 
+ 
+C26. Quelle relation doit exister entre KBO et τ, pour avoir un asservissement le plus 
+rapide mais sans dépassement ? 
+………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………… 
+C27-C28. Déterminer la marge du gain MG et la marge de Phase M pour  τ = 0.01s  . 
+C27. MG =?  
+....................................................................................................................................................................................... 
+MG = ................................................. 
+C28. M = ?  
+………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………… 
+M = ………………………….......... 
+C29. Préciser, en le justifiant, si le cahier des charges est respecté pour le choix d’un 
+correcteur de type intégral pur. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………… 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 1/22 
+ 
+ 
+ 
+ 
+ 
+ 
+DOSSIER 
+ 
+DOCUMENT REPONSES 
+ 
+ 
+ 
+ 
+ Ce dossier comporte 22 pages numérotées de 1 à 22. 
+ Un seul dossier document réponses est fourni au candidat et doit 
+être rendu en totalité, même sans réponses, à la fin de l’épreuve.  
+ Le renouvellement de ce dossier est interdit. 
+ 
+ 
+ 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC         Épreuve S.T.A          Partie A : Conception mécanique            Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 2/22 
+ 
+Partie A : Conception Mécanique  
+ 
+A1 –A4. En se référant au texte explicatif du fonctionnement du système (page 6 du 
+document technique) et au schéma cinématique de la figure 3, répondre aux 
+questions suivantes :  
+A1 – Donner le nom et justifier le choix des liaisons suivantes : 
+Liaison en B : ……………………………………………………………………………………………………………… 
+……………………………………………………………………………………..…………………………………………….. 
+Liaison en C : ……………………………………………………………………………………………………………… 
+……………………………………………………………………………………..…………………………………………….. 
+A2 – Compléter le tableau ci-dessous :   
+ 
+Unité de rotation 
+Unité de fermeture 
+Pré-actionneur 
+…………..………………………………… …………..………………………………… 
+actionneur 
+…………..………………………………… …………..………………………………… 
+Transmetteur 
+de puissance 
+…………..………………………………… …………..………………………………… 
+effecteur 
+…………..………………………………… …………..………………………………… 
+A3 – Compléter le diagramme correspondant à la chaîne d’énergie de l’unité de rotation. 
+ 
+ 
+ 
+ 
+A4 – Compléter le diagramme correspondant à la chaîne d’énergie de l’unité de fermeture 
+ 
+ 
+ 
+………………
+………….... 
+………..…
+…………... 
+…………
+…………... 
+Energie 
+électrique 
+Energie 
+électrique 
+Alimenter 
+………... 
+Transmettre 
+…………….. 
+Fermer/ 
+ouvrir 
+…………. 
+Energie 
+mécanique 
+……………… 
+…………………
+………………… 
+………… 
+………………
+………………. 
+…………
+…………... 
+…………
+…………... 
+…………
+…………... 
+Energie 
+électrique 
+Energie 
+électrique 
+Alimenter 
+………… 
+Transmettre 
+……………. 
+Tourner 
+…...……… 
+Energie 
+mécanique 
+…........……… 
+…........……… 
+……………….. 
+………………. 
+…...……… 
+…………
+…………... 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC         Épreuve S.T.A          Partie A : Conception mécanique            Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 3/22 
+ 
+A5 –A11. On considère le dessin ci-dessous d’une partie d’une roue à denture droite. 
+On donne : le nombre de dents Z = 21, le module m=2mm ; et un facteur k = 10.  
+ 
+On demande de compléter le tableau suivant : 
+ 
+Num 
+Nom & symbole 
+Expression 
+valeur 
+ 
+1 
+Largeur de la roue 
+(b) 
+b = k.m 
+b =10*2=20 mm 
+A5 
+2 
+Pas au primitif ( p) 
+………………………. 
+………………………. 
+A6 
+3 
+Saillie (ha) 
+………………………. 
+………………………. 
+A7 
+4 
+Creux (hf) 
+………………………. 
+………………………. 
+A8 
+5 
+Hauteur de la dent 
+(h) 
+………………………. 
+………………………. 
+A9 
+6 
+Diamètre primitif (d)  ………………………. 
+………………………. 
+A10 
+7 
+Diamètre des têtes 
+(da)  
+………………………. 
+………………………. 
+A11 
+8 
+Diamètre des pieds  
+(df)  
+………………………. 
+………………………. 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC         Épreuve S.T.A          Partie A : Conception mécanique            Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 4/22 
+ 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC                     Épreuve S.T.A -               Partie B : M.S.I.                         Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 5/22 
+ 
+Partie B : Mécanique des Solides Indéformables (M.S.I.) 
+B-1 - Étude de l’unité de fermeture et/ou d’ouverture du moule (figure 4). 
+ Étude statique 
+L’objectif de l’étude statique est de déterminer l’expression du couple fourni par le 
+moteur (M2) pour la fermeture du moule (4). 
+On suppose que :  
+ Toutes les liaisons sont parfaites,  
+ Tous les solides sont homogènes.  
+ La notation 
+
+
+
+
+
+
+
+
+
+
+
+
+i
+j
+ 0
+ij
+ij
+ij
+ij
+Q
+ij
+ij
+Q
+X
+L
+Y
+M
+Z
+N
+=
+B
+ est adoptée pour présenter le torseur des 
+actions mécaniques de liaison qu’exerce un solide (i) sur un solide (j) en un point Q, 
+exprimé dans la base 
+0
+B
+0
+0
+0
+(x , y , z ). 
+ L’action du moteur (M2) sur l’écrou (1) (de filetage droit) au point B est modélisée par 
+le torseur suivant : 
+
+B
+B
+m2
+0
+0
+C
+y
+
+
+
+
+
+
+
+
+
+2
+ 0
+M
+1
+=
+B
+.  
+ Tous les solides de l’unité de fermeture et/ou d’ouverture du moule (4) sont supposés 
+de masses négligeables. 
+ Pendant la phase de fermeture du moule (4), les actions exercées par l’ensemble {E1} 
+sur (4) sont modélisées par le torseur suivant 
+
+1
+D
+D
+E
+4
+D
+D
+N
+M
+y
+
+
+
+
+
+
+
+
+
+ 0
+0
+=
+B
+. 
+ Pendant l’ouverture et la fermeture du moule, l’arbre du moteur M2 tourne à une 
+vitesse de rotation Nm2, (Nm2=100tr/mn). 
+1. Ecrire les torseurs des actions mécaniques des liaisons indiquées dans le tableau 
+ci-dessous : 
+Liaisons 
+Torseurs des actions mécaniques dans 
+0
+B
+0
+0
+0
+(x , y , z ) 
+1
+5
+L
+ 
+
+
+1
+5
+.......................
+.......................
+.......................
+.......................
+.......................
+.......................
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E
+C
+ 0
+C
+B
+ 
+1 1
+L 
+ 
+
+
+1 1
+.......................
+.......................
+.......................
+.......................
+.......................
+.......................
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E
+B
+ 0
+B
+B
+ 
+1 5
+L  
+
+
+1 5
+.......................
+.......................
+.......................
+.......................
+.......................
+.......................
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+B
+ 0
+B
+B
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC                     Épreuve S.T.A -               Partie B : M.S.I.                         Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 6/22 
+ 
+2. Pour la liaison 
+1 1
+L, donner l’expression de la composante du moment suivant 
+l’axe 
+)
+0
+(B, y
+ en fonction de la composante de la force suivant l’axe 
+)
+0
+(B, y
+ et du 
+pas de filetage. 
+……………………………………………….……………………………………………………………………………
+……………………………………………………….……………………………………………………………………
+………………………………………………………………………………………………………………………………
+……………………………………………………………………………………………………………………………… 
+3. On suppose que (5) est fixe, écrire l’équation scalaire issue de l’application du 
+théorème du moment statique à l’écrou (1) en projection sur l’axe  
+)
+0
+(B, y
+. 
+………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………
+……………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+4. Le moule est fermé, écrire l’équation scalaire déduite de l’application du 
+théorème de la résultante statique à l’ensemble {E1} en projection sur l’axe 
+)
+0
+(B, y
+. 
+………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+5. Déduire l’expression du couple 
+m2
+C
+ du moteur (M2) en fonction de la force de 
+fermeture du moule ND. 
+………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………..… 
+…………………………………………………………………………………………………………………………… 
+ Étude cinématique  
+L’objectif de cette étude est de déterminer le temps nécessaire pour l’ouverture du moule 
+(4). 
+m2
+C
+= …..…..…………………………….……… 
+ ………………...…..…………… 
+ ………………...…..…………… 
+ …………………………………...…..…………… 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC                     Épreuve S.T.A -               Partie B : M.S.I.                         Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 7/22 
+ 
+6. Déterminer le torseur cinématique 
+
+
+B
+(1/5)
+ du solide (1) au point P au cours de 
+son mouvement par rapport à (5),  
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 0
+P
+P
+.......................................................................................
+(1/5)
+=
+.......................................................................................
+B
+ 
+7. Déterminer le torseur cinématique 
+
+
+1
+D
+(E /5)
+de l’ensemble (E1) au point D au 
+cours de son mouvement par rapport à l’ensemble (5). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 0
+1
+D
+D
+.......................................................................................
+(E /5)
+=
+.......................................................................................
+B
+ 
+8. Déterminer le torseur cinématique 
+
+
+1
+B
+(1/E )
+de l’ensemble (E1) au point B au 
+cours de son mouvement par rapport à l’ensemble (5). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 0
+1
+B
+B
+.......................................................................................
+(1/ E )
+=
+.......................................................................................
+B
+ 
+9. Donner la relation liant la vitesse linéaire de la vis (2) à la vitesse de rotation de 
+l’écrou (1) . 
+……………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………… 
+ 
+10. Afin de faciliter l’opération de démoulage, le couvercle (3) doit s’éloigner du 
+moule d’une distance
+0
+500mm
+
+. Déterminer l’expression du temps t nécessaire 
+à l’ouverture du moule en fonction  de 
+0,
+
+ 
+m2
+
+ et le pas p . 
+……………………………………………………………………………………………………………………………… 
+……………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+11. Calculer le temps t. 
+………………………………………………………………………………………………………………………………
+……………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+t = ………………………..…………….……… 
+=………...…..…………… 
+t = ………………s 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC                     Épreuve S.T.A -               Partie B : M.S.I.                         Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 8/22 
+ 
+B-2-Etude cinématique et dynamique de l’unité de rotation (figures 3 et 6) 
+L’objectif de cette partie est de déterminer l’expression du couple, au niveau de l’arbre (9), (noté 
+Cm7 ) nécessaire pour faire actionner l’unité de rotation. 
+On suppose que : 
+ Le repère 
+0
+R
+0
+0
+0
+(O,x , y , z ) est lié au bâti (0) est supposé galiléen. 
+ Le moyeu principal (7) de masse m7 et de centre d’inertie G7 situé sur l’axe 
+0
+(O, x )
+est en liaison pivot parfaite d’axe 
+0
+(O, x ) avec le bâti (0). Le repère 
+7
+R
+7
+7
+7
+(O,x , y , z )
+est lié à (7), on désigne par  (rotation principale) le paramètre de rotation tel que
+7
+
+0
+7
+0
+=( y , y )=( z , z )  (figure 6) . La matrice d’inertie du moyeu (7) en O, dans la 
+base 
+7
+7
+7
+7
+(x , y , z )
+B
+ est définie par : 
+
+7
+7
+7
+7
+O
+7
+7
+(x ,y ,z )
+A
+0
+0
+I (7)
+0
+B
+0
+0
+0
+C
+
+
+
+
+
+
+
+
+
+
+ 
+ Le solide (S4 ) de masse m4 et de centre d’inertie G4 est en liaison pivot parfaite d’axe 
+4
+(O,y )  avec le moyeu principal (7). Le repère 
+4
+4
+4
+4
+R (O,x , y , z ) est lié à (S4 ), on 
+désigne par  (rotation secondaire) le paramètre de rotation tel que 
+
+7
+4
+7
+4
+=( z , z )=( x , x ) .
+4
+4
+
+OG
+a x . La matrice d’inertie du solide (S4) en O, dans la 
+base 
+4
+4
+4
+4
+(x , y , z )
+B
+ est définie par : 
+
+4
+4
+4
+4
+O
+4
+4
+4
+(x ,y ,z )
+A
+0
+0
+I (S )
+0
+B
+0
+0
+0
+C
+
+
+
+
+
+
+
+
+
+
+ 
+ Le couple (au niveau de l’arbre 9) appliqué sur le moyeu principal (7) de la machine 
+est noté :  
+m7
+m7
+0
+C
+C
+
+ x . 
+ 
+12. Déterminer le torseur cinématique 
+
+4
+
+O
+(S /0)
+du solide (S4) au point O au cours de son 
+mouvement par rapport au bâti (0). (exprimé dans la base 
+4
+4
+4
+4
+(x , y , z )
+B
+) : 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+
+
+
+4
+O
+.....................................................................................................................
+(S /0)
+=
+..........................................................................
+4
+
+
+
+
+
+
+
+
+
+
+B
+O
+   
+............................................
+ 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC                     Épreuve S.T.A -               Partie B : M.S.I.                         Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 9/22 
+ 
+13. Déterminer le moment cinétique du solide (S4) au point O dans son mouvement par 
+rapport au bâti (0) : 
+
+
+O
+4
+S / 0
+
+(exprimé dans la base 
+4
+4
+4
+4
+(x , y , z )
+B
+) :  
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+
+
+4
+0 
+O S /
+................................................................................................................................  
+14. Déterminer la projection sur 
+0x   du moment dynamique du solide (S4) au point O dans 
+son mouvement par rapport au bâti (0) : 
+
+
+0
+O
+4
+.
+S / 0
+x 
+. 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+
+
+0
+4
+0 
+O
+.
+S /
+................................................................................................................................
+x
+ 
+15. Déterminer la projection sur 
+0x  du moment dynamique du solide (7) au point O dans son 
+mouvement par rapport au bâti (0) : 
+
+
+0
+O
+.
+7 / 0
+x 
+. 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+
+
+0
+7 0 
+O
+.
+/
+................................................................................................................................
+x
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC                     Épreuve S.T.A -               Partie B : M.S.I.                         Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 10/22 
+ 
+16. Déterminer le moment des efforts extérieurs appliqués  à l’ensemble Σ={S4 ,7} au point 
+O en projection sur 
+0x  : 
+
+
+0.M
+x
+.  
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+
+
+0
+
+.M
+................................................................................................................................
+x
+ 
+17. En appliquant le théorème du moment dynamique à l’ensemble Σ={S4 ,7} au point O en 
+projection sur 
+0x , déduire l’expression du couple 
+m7
+C
+ en fonction de α, θ, leurs dérivées 
+et des données du mécanisme.  
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+7 
+m
+......................................................................................................................................
+C
+ 
+ 
+B-3- Étude de la chaine de transmission (figures 3 et 7)  
+ Étude cinématique 
+L’objectif de cette étude est de déterminer la relation entre la rotation principale  et la 
+rotation secondaire  du système. 
+On suppose que : 
+ Le repère 
+0
+R
+0
+0
+0
+(O,x , y , z ) est lié au bâti (0) est supposé galiléen. 
+ Le rayon de la roue (6) est noté R6. 
+ Le rayon de la roue (8) est noté R8. 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC                     Épreuve S.T.A -               Partie B : M.S.I.                         Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 11/22 
+ 
+18. Déterminer le torseur cinématique 
+
+
+F
+(6/0)
+de la roue (6) au point F au cours de son 
+mouvement par rapport au bâti (0). (exprimé dans la base 
+7
+7
+7
+7
+(x , y , z )
+B
+) : 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+
+
+
+F
+.....................................................................................................................
+(6/0)
+=
+...........................................................................
+7
+
+
+
+
+
+
+
+
+
+
+B
+F
+   
+...........................................
+ 
+19. En utilisant la condition de roulement sans glissement entre les roues (6) et (8) au point 
+G, déterminer une relation entre la vitesse de rotation principale  et la vitesse de 
+rotation secondaire. 
+…………………………………………………………………………………………………………………………… 
+……………………………………………………………………………………………………………………………… 
+……………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+.......................................................................................................
+ 
+ Étude énergétique  
+L’objectif de cette étude est de déterminer l’expression du couple Cm1 délivré par le moteur (M1). 
+On suppose que : 
+ Le repère 
+0
+R
+0
+0
+0
+(O,x , y , z ) est lié au bâti (0) est supposé galiléen. 
+ Les poulies (P1) et (P2) sont en liaisons pivots d’axe 
+0
+x  avec le bâti (0) aux points J et 
+I respectivement.  
+ L’action mécanique du moteur (M1) sur la poulie (P1)  est modélisé par un torseur 
+couple de moment : 
+m1
+m1
+0
+C
+C
+
+ x . 
+ L’action mécanique de la partie réceptrice de la machine sur la poulie (P2) est 
+modélisée par un torseur couple de moment : 
+m7
+m7
+0
+C
+C
+
+ x . 
+ Les courroies sont supposées inextensibles et de masse négligeables. 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC                     Épreuve S.T.A -               Partie B : M.S.I.                         Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 12/22 
+ 
+20.  Déterminer l’énergie cinétique du système 
+
+
+3
+1
+2
+,
+
+dans son mouvement par 
+rapport au bâti (0) en fonction de 
+1J , 
+2J , 1r  et 
+1
+
+
+
+m  (Voir figure 7). 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+
+
+3
+0
+
+
+C
+E
+/
+....................................................................................................... 
+21. Déterminer la puissance développée par les actions mécaniques extérieures s’exerçant 
+sur le système 
+3
+ au cours de son mouvement par rapport au bâti (0). 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+
+
+3
+3
+0
+
+
+P
+/
+................................................................................................................................
+ 
+22. Déterminer la puissance développée par les actions mécaniques intérieures s’exerçant 
+au système 
+3
+ au cours de son mouvement par rapport au bâti (0). 
+
+
+int
+3
+............................
+
+
+P
+ 
+23. Appliquer le théorème de l’énergie cinétique et déterminer une expression du couple 
+moteur  
+m1
+C
+en fonction de 
+m7
+C
+,
+1J , 
+2J , 1r  et 
+1
+
+
+
+m . 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………… 
+1 
+m
+................................................................................................................................
+C
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC                          Épreuve S.T.A         Partie C : Automatique            Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 13/22 
+ 
+Partie C : Automatique 
+Section C-1. Étude séquentielle pour la préparation du matériau pour le roto-
+moulage 
+1. 
+Présentation du système 
+Le système automatisé, figure c1, permet de préparer la matière première (granulés, 
+colorants et additifs) en vue de l’utiliser dans le processus de roto-moulage.  
+Trois produits (P1, P2, P3) sont placés dans des réservoirs différents : 
+- P1 : Plastique pur sous forme de granulés. 
+- P2 : additif (composé organique). 
+- P3 : Colorant. 
+Les trois réservoirs sont équipés de trois électrovannes A, B et C qui déversent les 
+produits dans les bascules de pesage BD et BE. 
+La dose de chacun des trois produits est déterminée par pesage sur les bascules BD et 
+BE dont les réservoirs sont équipés d’électrovannes D et E. Ces électrovannes 
+permettent le déversement des différents produits dans le broyeur. 
+La bascule BD fournit les deux informations suivantes : 
+- S0 = 1 : bascule BD vide. 
+- S1 = 1 : bascule BD chargée par un poids prédéterminé du granulé P1. 
+La bascule BE fournit les trois informations suivantes : 
+- S2 = 1 : bascule BE vide. 
+- S3 = 1 : bascule BE chargée par un poids prédéterminé de l’additif P2. 
+- S4 = 1 : bascule BE chargée par un poids prédéterminé des deux produits P2 et P3. 
+2. 
+Description du cycle de fonctionnement  
+2.1. 
+Etat initial du système  
+ Les bascules de pesage BD et BE sont vides. 
+ La tige du vérin à double effet V1 est sortante (l11 = 1). 
+ Le broyeur est vide (S5 = 0 ; S5 étant un capteur optique placé au fond du broyeur non 
+représenté sur la figure c1). 
+ Le pot d’alimentation de la vis d’Archimède est vide (S6 = 0, non représenté sur la figure 
+c1)  
+Remarque : le bouton poussoir de départ cycle “Dcy” commande en même temps l’unité 
+de broyage et celle du mélange des produits. 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC                          Épreuve S.T.A         Partie C : Automatique            Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 14/22 
+ 
+2.2. 
+Unité 1 : Fonctionnement de l’unité de broyage 
+Une impulsion sur le bouton de départ cycle, Dcy, provoque les opérations suivantes : 
+ Ouverture de l’électrovanne A (KA = 1) jusqu’à l’obtention du poids désiré du 
+produit P1. 
+ Fermeture de l’électrovanne A et ouverture de l’électrovanne D (KD = 1) jusqu’à 
+l’écoulement total du produit P1 dans le broyeur, ce qui entraîne la fermeture de 
+l’électrovanne D. 
+ Mise en marche du moteur Mt1 du broyeur à grande vitesse (KM1 = 1) durant un 
+temps t1. 
+ 
+L’écoulement du temps t1 implique la fin du broyage.  
+2.3. 
+Unité 2 : Mélange des différents produits  
+L’impulsion sur le bouton Dcy, provoque les opérations suivantes: 
+ Ouverture de l’électrovanne B (KB=1) jusqu’à l’obtention du poids désiré du produit 
+P2. 
+ Fermeture de l’électrovanne B et ouverture de l’électrovanne C (KC = 1) jusqu’à 
+l’obtention du poids désiré (P2 + P3). 
+ Fermeture de l’électrovanne C et attente de la fin du temps t1 (fin du broyage). 
+Dès que le moteur Mt1 a fini le broyage des granulés (produit P1, voir paragraphe 2.2), 
+c’est à dire le temps t1 s’est écoulé (le temps de broyage est supérieur à celui de la pesée 
+de P2 + P3), on aura alors : 
+ Rotation du moteur Mt1 à petite vitesse (KM2 = 1) et ouverture de l’électrovanne E 
+(KE = 1) jusqu’à l’écoulement total des produits (P2 + P3) dans le broyeur. 
+ Mise en rotation du moteur Mt2 à petite vitesse (KM3 = 1), et ouverture de la vanne 
+X (KX = 1) pour vider le produit (P1+P2+P3) dans le pot d’alimentation de la vis 
+d’Archimède, Mt1 continu sa rotation jusqu’à ce que le broyeur soit vide (S5= 0). 
+ Fermeture de la vanne X et arrêt de Mt1, le moteur Mt2 continu sa rotation et 
+s’arrêtera après un nombre de tours prédéterminé signalé par un capteur c. 
+Lorsque le moteur Mt2 effectue le nombre de tours prédéterminé (c =1), le système 
+s’arrête. Le mélange est alors fini et la matière première est prête pour être remplie dans 
+des sacs appropriés. 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC                          Épreuve S.T.A         Partie C : Automatique            Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 15/22 
+ 
+ 
+Figure c1. Système de préparation de la matière première pour le roto-moulage 
+ 
+ 
+ 
+KB 
+KC 
+C 
+B 
+Colorant  
+P3 
+Additif  
+P2 
+Granulés 
+P1 
+A 
+KA 
+BE 
+BD 
+KD 
+KE 
+S0
+S1
+S2
+S3
+S4
+Broyeur 
+Palette de broyage 
+et malaxage 
+Pot d’alimentation 
+X 
+Mt2 
+Capteur ‘c’ pour détecter le 
+nombre de tours 
+Vis d’Archimède 
+Mt1 
+Dcy 
+D 
+E 
+KX 
+V1 
+Buse de 
+remplissage 
+Tp1 : arrivée des sacs vides  
+Tapis Tp1  
+Tapis Tp2  
+Tp2 : Evacuation des sacs  
+remplis et cousus 
+Fermeture des 
+sacs par couture 
+Unité de 
+Fermeture des 
+sacs par couture 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC                          Épreuve S.T.A         Partie C : Automatique            Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 16/22 
+ 
+C1. Compléter le GRAFCET du point de vue commande du système de broyage (Unité 1). 
+10
+11
+12
+13
+CI1 . X20 . Dcy
+…S1….
+…KA…
+…S0..….
+…KD…
+…t1/x13.….
+…KM 1.…
+…T1.…
+ 
+ 
+C2. Compléter le GRAFCET de point de vue commande de l’unité de mélange (Unité 2). 
+20
+21
+22
+23
+24
+25
+26
+CI2 . X10. Dcy
+…S3 ….
+KB
+…t1/x13 …
+…S4….
+… KC…
+... KM 2...
+…S2….
+KM2.
+…S5.….
+…KM3…
+KX
+…c.….
+KM3
+… c ….
+. KE..
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC                          Épreuve S.T.A         Partie C : Automatique            Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 17/22 
+ 
+C3-C4. Proposer les expressions logiques (4 variables au moins) des deux conditions 
+initiales CI1 et CI2.  
+C3 : CI1 =                   ......              S0   l11   S5   S6          ...... 
+C4 : CI2 =                   ......              S2   l11   S5   S6          ...... 
+Section C-2. Commande du moteur d’entraînement du tapis Tp1 
+L’objectif de cette partie est d’asservir la vitesse linéaire du tapis Tp1, afin de garantir une 
+bonne fermeture des sacs remplis par couture. 
+1. Présentation 
+La translation du tapis Tp1 est obtenue à l’aide d’un moteur électrique (Mc) qui entraîne 
+en rotation à travers un réducteur à poulies-courroie, le tambour qui déplace le tapis. La 
+figure c2 présente le système d’entraînement du tapis Tp1. 
+Figure c2 : Système d’entraînement du tapis Tp1 
+ 
+Le schéma de principe de la transmission du mouvement est donné par la Figure c3. 
+Figure c3 : Principe de la transmission du mouvement. 
+ 
+2. Étude de l’asservissement de vitesse du tapis Tp1 
+L’objectif de cette étude est de choisir un correcteur pour satisfaire le cahier des charges 
+suivant : 
+- 
+Un temps de réponse minimal ; 
+- 
+Aucun dépassement ; 
+- 
+Les perturbations sont sans effet sur la stabilité ; 
+- 
+Stabilité assurée avec M ≥ 45° et MG ≥ 15 dB ; 
+- 
+Erreur statique de position nulle. 
+ 
+Moteur électrique 
+MC 
+Réducteur à 
+poulies - courroie 
+Tambour 
++  
+Tapis Tp1 
+Vitesse de rotation du 
+moteur  
+Vitesse de rotation du 
+Tambour  
+Vitesse de translation 
+du Tapis  
+V 
+ɷ 
+ ɷr 
+Tapis Tp1  
+Tapis Tp2  
+Tp2 : Evacuation des 
+sacs remplis et cousus 
+Fermeture des 
+sacs par 
+couture 
+Unité de 
+Fermeture des 
+sacs par couture 
+Unité de 
+remplissage des 
+sacs  
+Tapis Tp1 : arrivée des 
+sacs  vides  
+Tambour 
+d’entrainement 
+Du tapis Tp1 
+(de diamètre D) 
+Mc 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC                          Épreuve S.T.A         Partie C : Automatique            Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 18/22 
+ 
+Le schéma fonctionnel de l’asservissement de vitesse du tapis est donné par la figure c4. 
+Ka
+Ky
+Ω(p)
+Correcteur
+E(p)
+Ft(p)
+U(p)
+I(p)
+Vc(p)
+Uc(p)
++-
++-
+Cm(p)
+Cr(p)
++ -
+Ωr(p)
+V(p)
+Kc
+Moteur
+electrique
+Transmission
+de mouvement
+Figure c4 : schéma fonctionnel de l’asservissement de vitesse du tapis 
+ 
+Le fonctionnement du moteur est décrit par les équations suivantes : 
+u(t) = Ri(t) + L
+di(t)
+dt + e(t) ∶la tension d′alimentation du moteur                       (1) 
+e(t) = Ke ω(t): la force contre électromotrice                                                            (2) 
+J
+dω(t)
+dt
+= cm(t) −cr(t) −fω(t) : équation du mouvement                                         (3) 
+cm(t) = Km i(t) : le couple moteur                                                                                     (4) 
+avec : 
+Vc : vitesse de consigne. 
+Uc : tension d’entrée . 
+i(t): le courant de l′induit . 
+R et L sont respectivement la résistance et l’inductance de l’induit du moteur. 
+Km et Ke sont respectivement les constantes du couple moteur et de la force contre 
+électromotrice (Km = Ke). 
+(t) : la vitesse de rotation du moteur. 
+Ft(t) : effort résistant appliqué sur le tapis par les sacs remplis . 
+cr(t): le couple résistant ramené sur l’axe du rotor résultant de l’effort Ft 
+cr(t) = 0.5 r.D.Ft(t)                                                                                                               (5) 
+r est le rapport de réduction entre le moteur Mc et le tambour du tapis Tp1 de diamètre 
+D (figure c2). 
+Remarques :  
+ La transformée de laplace de Ft (t) est Ft(p). 
+ Toutes les conditions initiales sont nulles. 
+C5. Ecrire les équations de (1 à 5) dans le domaine de Laplace         
+(1) : U(p) = RI(p) + Lp I(p) + E(p)     ......................................................................................................... 
+(2) : (p) = Ke Ω(p)                                       .......................................................................................................... 
+(3) 
+: 
+JpΩ(p) = Cm(p) −Cr(p) −f Ω(p)      
+........................................................................................................ 
+(4) : Cm(p) = Km I(p)                                   ......................................................................................................... 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC                          Épreuve S.T.A         Partie C : Automatique            Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 19/22 
+ 
+(5) : Cr(p) = 0.5 r.D.Ft(p)                           ......................................................................................................... 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC                          Épreuve S.T.A         Partie C : Automatique            Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 20/22 
+ 
+C6-C7. En admettant que la transmission est sans glissement, écrire les relations entre : 
+C6. V(t) et r(t) : .................................................................................................................................................  
+ V(t) = 0.5 D r(t) ............................  V(p) = r   Ωr(p)   ......              ....(ne pas utiliser R) ............... 
+C7. r(t) et  (t) ................................................................................................................................................... 
+ r(t) = r   (t) ………………………     Ωr(p) = r   Ω(p) .............. (r minuscule obligatoire) .……… 
+C8. Compléter le schéma bloc de la figure c5 en négligeant l’inductance « L » et le 
+frottement « f ».   
+Ka
+Ke
+Ky
+Ω(p)
+C(p)
+1/R
+Km
+1/jp.
+0.5 r D
+E(p)
+Ft(p)
+U(p)
+I(p)
+Vc(p)
+Uc(p)
++-
++-
+Cm(p)
+Cr(p)
++ -
+r
+Ωr(p)
+0.5D
+V(p)
+Kc
+Figure c5 : Schéma bloc du système asservi 
+ 
+On veut mettre le schéma de la figure c5, sous la forme de la figure c6. Déterminer les 
+fonctions de transfert suivantes : (sans détails de calcul). 
+ 
+ 
+V(p) 
+ 
+Ft(p) 
+ 
+Ɛ(p) 
+ 
+Vc(p) 
+ 
+H2(p) 
++ 
+- 
++ 
+- 
+ 
+C(p) 
+ 
+H1(p) 
+ 
+H3(p) 
++ -
+ 
+H4(p) 
+ 
+H5(p) 
+ 
+U(p) 
+- 
+ 
+Figure c6: Schéma bloc du système simplifié 
+ 
+C9. H1(p) :        
+H1(p) = ...................................................Ka . Ky ...................................................... 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC                          Épreuve S.T.A         Partie C : Automatique            Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 21/22 
+ 
+C10. H2(p) :         
+H2(p) = ...............................................
+𝟐.𝑲𝒎
+𝒓.𝑹.𝑫...................(attention pas de R²)............................... 
+ 
+C11. H3(p) :         
+H3(p) = .....................................  .
+𝒓² 𝑫² 
+𝟒.𝒋.𝒑  …........................................................................... 
+C12. H4(p) :         
+H4(p) = ........................................
+𝟐.𝑲𝒎
+𝒓.𝑫  ............................................................................ 
+C13. H5(p) :         
+H5(p) = ............................................
+𝑲𝒄
+𝑲𝒂.  .
+𝟐.
+𝒓.𝑫  ........................................................................ 
+ 
+Dans la suite du sujet on prendra : 
+H1(p) = K1   ;   H2(p) =  K2  ;    H3(p) =  K3 / p  ;   H4(p) =  K4   et    H5(p) = K5   = 1  
+Où les constantes Kn  sont  strictement positifs,  n ={1,2,3,4,5} 
+On donne : V(p) = T1(p) Vc(p) -  T2(p) Ft (p) 
+C14-C15. On veut déterminer la fonction de transfert T1(p) en fonction des Kn . 
+C14. Compléter le schéma de la figure c7 . 
+K5 =1
+Ɛ(p)
+Vc(p)
+V(p)
++
+-
+ 
+Figure c7 : schéma fonctionnel simplifié vis à vis de la consigne  
+ 
+C15. Donner alors l’expression de T1(p) 
+....................................................................................................................................................................................... 
+....................................................................................................................................................................................... 
+....................................................................................................................................................................................... 
+T1(p) = ............. 
+𝑪(𝒑) 𝑲𝟏𝑲𝟐𝑲𝟑
+𝐩 +𝑪(𝒑) 𝑲𝟏𝑲𝟐𝑲𝟑𝑲𝟓 + 𝑲𝟐𝑲𝟑𝑲𝟒  =     
+𝑪(𝒑) 𝑲𝟏𝑲𝟐𝑲𝟑
+𝐩 +𝑪(𝒑) 𝑲𝟏𝑲𝟐𝑲𝟑 + 𝑲𝟐𝑲𝟑𝑲𝟒    ............................ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC                          Épreuve S.T.A         Partie C : Automatique            Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 22/22 
+ 
+C16-C17. Détermination de la fonction de transfert T2(p) en fonction des Kn .  
+C16. Compléter le schéma de la figure c8. 
+-K1 K5C(p)
+V(p)
+- Ft(p)
+K3 / p
+K2
+K4
+-
++
++
++
+ Figure c8 : schéma fonctionnel simplifié vis à vie de la perturbation 
+ 
+C17. Donner alors l’expression de T2(p) 
+....................................................................................................................................................................................... 
+....................................................................................................................................................................................... 
+....................................................................................................................................................................................... 
+T2(p) = .......................................      .
+𝑲𝟑
+𝐩 +𝑪(𝒑) 𝑲𝟏𝑲𝟐𝑲𝟑 + 𝑲𝟐𝑲𝟑𝑲𝟒     .. .......................................... 
+ 
+C18. Dites pourquoi si le système est stable vis à vis de la consigne Vc(p) il est aussi stable 
+par rapport à la perturbation. (on ne vous demande pas d’étudier la stabilité). 
+  ...........................même équation caractéristique ............................. 
+ 
+Dans ce qui suit on prendra C(p) = Kp > 0  et   Ft(p) = 0 
+ 
+C19. En justifiant la réponse, le système est il stable ? 
+............................................ système de premier ordre, toujours stable..................................... 
+C20. Déterminer, en le justifiant, l’erreur statique unitaire de position Ɛp(∞) 
+ 
+Ɛp (∞) =   
+𝟏
+𝟏 +𝑲𝒑 𝑲𝟏𝑲𝟐𝑲𝟑   ................... car le système est  de classe 0. ........................... 
+ ........................... .................................................................................................................................................. 
+C21. En justifiant la réponse, le choix du correcteur C(p) = Kp est il acceptable ? 
+.................Non le choix du correcteur C(p) = Kp n’ est pas acceptable  car  l’erreur 
+statique unitaire de position Ɛp(∞) n’est pas nulle. ........... 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC                          Épreuve S.T.A         Partie C : Automatique            Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 23/22 
+ 
+Dans ce qui suit on prendra : 
+ 𝐶(p) =
+𝐾𝑖
+p   
+et 
+ Ft(p) = 0  ,  Ki > 0 
+ Le moteur possède la fonction de transfert : 𝑯𝒎(𝐩) =
+𝑲𝒙
+𝟏+ 𝛕𝐩  
+ Le schéma bloc est celui de la figure c10  
+ 
+ 
++ 
+- 
+ 
+Ɛ(p) 
+ 
+Vc(p) 
+ 
+V(p) 
+ 
+ 
+K6  
+ 
+U(p) 
+ 
+ 
+Figure c10 : schéma fonctionnel de l’asservissent de vitesse du tapis  
+ 
+C22. Déterminer la fonction de transfert (FT) en boucle ouverte TBO(p). En déduire, son 
+gain statique KBO , son ordre et sa classe .       
+ 
+TBO(p) = ........................................………   
+ 𝑲𝟔 𝑲𝒊 𝑲𝒙
+𝐩(𝟏+ 𝛕𝐩)  .................................................................................. 
+KBO = .................................. ........................... 𝑲𝟔 𝑲𝒊 𝑲𝒙 ....................................................................................... 
+Ordre = ........... ...................................……………   2       ....................................................................................... 
+Classe = ...........................................……………… 1 ............................................................................................... 
+ 
+C23. Déterminer la FT en boucle fermée TBf (p) en fonction de KBO et τ, la mettre sous 
+forme canonique. 
+TBf (p) = ....................................................................................................................................... 
+Forme canonique : TBf (p) = 
+𝟏
+𝟏 + 
+𝟏
+𝑲𝟔 𝑲𝒊 𝑲𝒙 𝐩  +  
+𝝉
+𝑲𝟔 𝑲𝒊 𝑲𝒙 𝐩²  = 
+𝟏
+𝟏 + 
+𝟏
+ 𝑲𝑩𝑶
+ 𝐩  +  
+𝝉
+𝑲𝑩𝑶 𝐩²
+ 
+24. En justifiant la réponse, le système est il stable ? 
+……… Oui le système est toujours stable il est de deuxième ordre à coefficients tjrs 
+positifs ……………………………………………………………………………………………………………………… 
+C25. Déterminer, en le justifiant, l’erreur statique unitaire de position Ɛp (∞) 
+...........  Ɛp(∞)= 0; car le système est de classe 1   .......................................................................... 
+................................................................................................................................................................................... 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours MP-PC                          Épreuve S.T.A         Partie C : Automatique            Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025      Page 24/22 
+ 
+C26. Quelle relation doit exister entre KBO et τ, pour avoir un asservissement le plus 
+rapide mais sans dépassement ? 
+un asservissement le plus rapide et sans dépassement ξ = 1. ....................................... 
+ …  ω²0 =  
+𝑲𝑩𝑶
+𝝉
+       
+…  2  ξ  /  ω0 =  
+𝟏
+𝑲𝑩𝑶  ====>  ω0 =  2 KBO ……………………………………… 
+====>  
+𝑲𝑩𝑶
+𝝉
+ =  4 K²BO          ====>  
+𝟏
+𝟒𝝉 =   KBO  …………………………………………… …… 
+C27-C28. Déterminer la marge du gain MG et la marge de Phase M pour  τ = 0.01s  . 
+C27. MG =?  
+.............................................. c’est un système de deuxième ordre   fondamentale ....................... 
+MG = ...................... ∞ .................. 
+C28. M = ?  
+………  M = 180° + Arg TBO (jω1) = 90° -Arc tg (τ ω1 )  ……………………………… 
+ω1  / …………………Module de TBO (jω1) = 1…………… (on prendra KBO = 25)………………… 
+………………………………………………………………………………………………………………………………… 
+…………………………………………………… ω1 = 24.3 rad /s  …………………………………………… 
+………………………………………………………………………………………………………………………………… 
+ 
+M = ……………76.3°…….......... 
+C29. Préciser, en le justifiant, si le cahier des charges est respecté pour le choix d’un 
+correcteur de type intégral pur. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+… oui, le cahier  des charges est respecté pour le choix d’un correcteur 𝑪(𝐩) =
+𝑲𝒊
+𝐩  
+: …………………………………………………………………………………………………… 
+Stabilité assurée et les perturbations sont sans effet ; 
+La marge de phase M  ≥ 45° et la marge de gain MG ≥ 15 dB ; 
+Erreur statique de position nulle; 
+Le  temps de réponse est minimal sans dépassement ; 
+BIB-IPEIS
+BIB-IPEIS

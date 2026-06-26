@@ -1,0 +1,3144 @@
+Concours Technologie - Session Juin 2022                                    Epreuve de Physique                                                             Page 1/8 
+REPUBLIQUE TUNISIENNE 
+Ministère de l’Enseignement Supérieur 
+et de la Recherche Scientifique 
+ 
+ 
+Concours Nationaux d’Entrée aux 
+Cycles de Formation d’Ingénieurs  
+Session 2022 
+ 
+ 
+ 
+المناظرات
+ 
+الوطنية
+ 
+للدخول
+ 
+  إلى
+مراحل
+ 
+تكوين
+ 
+المهندسين 
+ 
+دورة
+ 2
+202
+ 
+ 
+Concours Technologie 
+Epreuve de Physique 
+ 
+Date : 06 Juin 2022          Heure : 8 H00             Durée : 4 H          Nbre pages : 08 
+ 
+Barème : Problème 1 : 14 pts  ;   Problème 2 : 06 pts                                                     
+ 
+ 
+• L’usage d’une calculatrice non programmable est autorisé. 
+• Tout résultat fourni dans l'énoncé peut être admis et utilisé par la suite, même s'il n'a pas été 
+démontré par les candidats.  
+• Si, au cours de l’épreuve, un candidat repère ce qui lui semble être une erreur d’énoncé, il le signale 
+sur sa copie et poursuit sa composition en expliquant les raisons des initiatives qu’il est amené à 
+prendre. 
+• L’épreuve comporte deux problèmes indépendants. 
+ 
+ 
+ 
+Données : 
+ 
+L’espace est rapporté à un référentiel galiléen (Oxyz) de base orthonormée directe 
+(
+)
+,
+,
+x
+y
+z
+u u u
+. On note (
+)
+,
+,
+ru u u
+
+la base des coordonnées sphériques. 
+• Le vide est caractérisé par sa permittivité électrique 
+9
+1
+0
+1 10  F.m
+36
+−
+−
+=
+
+ et sa perméabilité 
+magnétique 
+7
+1
+0
+4  10  H.m
+−
+−
+= 
+ 
+• Célérité de la lumière dans le vide : 
+8
+1
+c
+3 10 m s−
+=
+
+ 
+• 
+(
+)
+(
+)
+(
+)
+1
+p
+q
+p
+q
+p
+q
+2
+cos .cos
+cos
+cos
+=
++
++
+−
+  
+• 
+a
+b
+a
+b
+a
+b
+2
+2
+2
+cos
+cos
+cos
+.cos
++
+−
+
+
+
+
++
+=
+
+
+
+
+
+
+
+
+ 
+• 
+3
+0
+4
+3
+sin
+d
+=
+
+
+
+
+ 
+• On note j le nombre complexe j tel que 
+2j
+1
+= − 
+ 
+ 
+ 
+ 
+ 
+
+Concours Technologie - Session Juin 2022                                    Epreuve de Physique                                                             Page 2/8 
+Problème 1 :  
+ 
+Première Partie : Haut-parleur électrodynamique 
+ 
+Un haut-parleur électrodynamique, comporte un aimant permanent lié au châssis, 
+créant dans l’entrefer un champ magnétique B, radial et de norme constante au niveau de la 
+bobine (Figure 1). Sa partie mobile, est formée d’une membrane solidaire à une bobine.  
+ 
+Dans un modèle simplifié, ce haut-parleur est représenté par des rails de Laplace horizontaux, 
+espacés d'une distance ℓ, plongés dans un champ magnétique stationnaire et uniforme 
+z
+B
+B u
+=
+ (Figure 2). 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+La partie mobile du haut-parleur possède une masse m0, une résistance R et une inductance L. 
+Ses petits mouvements de translation de vitesse 
+x
+x
+dx(t)
+v
+v(t) u
+u
+dt
+=
+=
+ suivant la direction 
+(x’x) sont représentés par ceux d'une tige T solidaire à une membrane (figure 2).  
+Cette partie mobile du haut-parleur est maintenue par une liaison élastique modélisée par un 
+ressort unique de constante de raideur k. Elle est aussi soumise à une force d’amortissement 
+visqueux vf
+ v
+= −
+, où  est un coefficient positif.  
+ 
+Une tension variable E(t) délivrée par un générateur à basses fréquences, permet de faire 
+circuler un courant d’intensité I(t) dans la tige. 
+ 
+1. Rappeler brièvement le principe de fonctionnement d’un haut-parleur électrodynamique. 
+E(t) 
+x’ 
+x 
+I(t) 
+I(t) 
+Figure 1 
+B 
+B 
+Membrane 
+Aimant 
+Bobine 
+E(t) 
+L 
+R 
+x’ 
+x 
+longueur 
+au repos x(t) 
+k 
+● 
+● 
+x
+u  
+y
+u  
+z
+u  
+B  
+I(t) 
+ℓ 
+tige T 
+Figure 2 
+
+Concours Technologie - Session Juin 2022                                    Epreuve de Physique                                                             Page 3/8 
+2. Déterminer l’expression de la résultante des forces de Laplace 
+Lap
+F
+, exercée sur la partie 
+mobile, en fonction de B, I(t) et ℓ.  
+3.  En déduire l'équation mécanique (EM) de ce dispositif liant x(t) et ses dérivées à I(t). 
+4. Déterminer la force électromotrice 
+B
+e (t) induite par le déplacement de la tige en fonction 
+de B, v(t) et ℓ. 
+5. En déduire l'équation électrique (EE) du dispositif liant I(t) et sa dérivée première à v(t). 
+ 
+La tension délivrée par le générateur est maintenant une tension sinusoïdale s'écrivant en 
+notation complexe 
+j t
+E(t)
+U e 
+=
+. 
+ 
+6. Déterminer les deux équations liant les amplitudes complexes U, I et V des grandeurs 
+respectives E(t), I(t) et v(t). 
+7. Sachant que l’impédance complexe Z du haut-parleur est définie par U
+Z I
+=
+, déterminer 
+son expression et montrer qu’elle peut s'écrire sous la forme 
+e
+m
+Z
+Z
+Z
+=
++
+. Les grandeurs 
+e
+Z  et 
+m
+Z  sont appelées respectivement impédance électrique (
+e
+Z
+R
+jL
+=
++
+) et 
+impédance motionnelle du haut-parleur dont on donnera l'expression. 
+8. L'impédance 
+m
+Z  est équivalente à une association en parallèle de trois éléments 
+m
+R , 
+m
+C  
+et 
+m
+L . Exprimer ces éléments en fonction des données. 
+9. En déduire le schéma électrique équivalent du haut-parleur. 
+10. En utilisant l’équation (EE), établir le bilan de puissance électrique et interpréter ses 
+différents termes. 
+11. En utilisant l’équation (EM), établir le bilan de puissance mécanique et interpréter ses 
+différents termes. 
+12. En déduire une relation exprimant le bilan de puissance du dispositif. 
+13. Déterminer l’expression de la puissance moyenne 
+g
+
+
+P
+fournie par le générateur. 
+Conclure. 
+14. En supposant que l’énergie mécanique moyenne est entièrement transformée en énergie 
+acoustique, préciser le terme correspondant à la puissance utile.  
+En déduire l’expression du rendement  du haut-parleur. 
+ 
+Deuxième Partie : Modulation et démodulation d’amplitude  
+ 
+La modulation est apparue nécessaire pour transmettre un signal informatif 
+(téléphonique, radio, …) d’un point à un autre (point à point), ou d’un point vers un ensemble 
+de sites distants (multipoints) en adaptant ce signal au canal de transmission par une 
+transposition en hautes fréquences. 
+ 
+15. Donner l’intervalle de fréquences correspondant au domaine audible. 
+16. Donner un ordre de grandeur de la taille d’une antenne demi-onde, nécessaire à la 
+transmission du signal électrique obtenu par conversion de l’onde sonore.  
+Justifier alors la nécessité de la modulation. 
+ 
+
+Concours Technologie - Session Juin 2022                                    Epreuve de Physique                                                             Page 4/8 
+Modulation d’amplitude  
+ 
+Le signal électrique e(t) (signal informatif de basse fréquence) à transmettre fait varier 
+l’amplitude de l’onde porteuse p(t) (onde haute fréquence).  
+La tension modulée en amplitude s(t) est obtenue grâce à un multiplieur caractérisé par le 
+coefficient de multiplication k0 positif (figure 3). 
+ 
+ 
+ 
+ 
+ 
+ 
+On s’intéresse au cas où le signal informatif est une tension alternative sinusoïdale s’écrivant 
+sous la forme 
+(
+)
+(
+)
+0
+e(t)
+U
+1 mcos 2
+t
+f
+=
++
+
+, m est un réel positif appelé taux de modulation. 
+La porteuse est un signal sinusoïdal qui s’écrit :  
+(
+)
+p
+p(t)
+U cos 2
+t
+pf
+=
+
+, avec 
+pf
+f
+
+. 
+17. Montrer que le signal modulé s’écrit sous la forme :  
+(
+)
+0
+s(t) = S
+1 mcos 2
+t
+cos(2
+t)
+p
+f
+f
++
+
+
+
+
+
+
+ 
+         où S0 est une constante à exprimer en fonction des données.  
+18. Exprimer le taux de modulation m en fonction des valeurs maximale 
+max
+s
+et minimale 
+min
+s
+de l'amplitude de s(t).  
+19. Représenter l’allure du signal modulé s(t) dans les deux cas : m
+1
+ et m
+1
+ . 
+20. Représenter le spectre de s(t). 
+ 
+Démodulation par détection d’enveloppe  
+ 
+Le signal modulé transmis par voie hertzienne est capté par l’antenne de la chaîne de 
+réception. La démodulation est l’opération qui consiste à récupérer le signal d’origine e(t) qui 
+contient l’information. 
+Un simple circuit électronique composé d’une diode idéale D, d’une capacité C et d’une 
+résistance 
+d
+R , permet de récupérer l’information transmise contenue dans l’enveloppe 
+(figure 4). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+21. Expliquer qu'une détection d'enveloppe permet de restituer le signal informatif e(t).  
+Ceci est-il toujours possible ? Justifier votre réponse. 
+22. En faisant un raisonnement qualitatif selon l’état passant ou bloqué de la diode, établir 
+une inégalité liant 
+d
+τ
+R C
+=
+ et 
+p
+p
+1
+T = f  permettant d’obtenir en sortie la tension approchée 
+(
+)
+inf
+0
+v
+(t)
+V 1 mcos 2
+t
+f
++
+
+
+
+
+
+.  
+Figure 3 
+p(t) 
+ e(t) 
+s(t) 
+diode D 
+s(t) 
+vinf(t) 
+Rd 
+C 
+Figure 4 
+
+Concours Technologie - Session Juin 2022                                    Epreuve de Physique                                                             Page 5/8 
+ 
+23. On suppose que la diode se trouve à l’état passant. Déterminer l'expression de l'intensité 
+Di (t)  traversant la diode en fonction de 
+inf
+v
+(t) et 
+inf
+dv
+(t)
+dt
+. 
+24. En déduire que l'intensité traversant la diode peut être mise sous la forme : 
+(
+)
+0
+D
+d
+V
+i (t)
+1
+gcos 2
+t
+R
+f
+
+
+=
++
+
++ 
+
+ avec g > 0 . 
+ Expliciter g  en fonction de m,  et ω
+π
+= 2
+f . 
+   Exprimer tan en fonction de  et ω. 
+25. Lorsque la diode est passante, l’intensité du courant ne peut être que strictement positive. 
+On se place dans le cas où m
+1
+. 
+Déduire que la constante de temps 
+d
+τ
+R C
+=
+ du filtre doit être inférieure à une certaine 
+valeur que l'on exprimera en fonction de m  et ω. 
+26. En déduire la double inégalité vérifiée par . Commenter ce résultat lorsque m se 
+rapproche de 1. 
+ 
+Démodulation par détection synchrone  
+ 
+Pour ce mode de démodulation, il est nécessaire de disposer d'un oscillateur local 
+synchrone avec la porteuse délivrant le signal 
+'
+p
+p'(t) = U cos(2
+t)
+pf
+
+.  
+La tension u(t) est obtenue à la sortie d’un multiplieur caractérisé par le coefficient de 
+multiplication k0 positif, en multipliant p'(t)  par le signal modulé s(t)  (figure 5). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+27. Donner l’expression développée de u(t) faisant apparaitre les fréquences présentes. 
+28. Représenter le spectre de ce signal. 
+29. Le signal u(t) est appliqué à l’entrée d’un filtre passe – bas.  
+29.1. Justifier la nature du filtre utilisé. 
+29.2. Donner l’expression du signal v(t) à la sortie du filtre. 
+30. Quel avantage présente la démodulation par détection synchrone par rapport à celle par 
+détection d’enveloppe ? 
+31. Proposer un moyen simple permettant de récupérer un signal de la forme 
+(
+)
+'
+0
+e'(t)
+U cos 2
+t
+f
+=
+
+ à partir du signal v(t). 
+ 
+Troisième Partie : rayonnement d’une antenne demi-onde  
+ 
+Le signal modulé est utilisé pour alimenter une antenne demi-onde par le courant 
+(
+)
+(
+)
+0
+2
+i z,t
+I cos
+z cos
+t
+
+
+
+=
+
+
+
+
+
+
+, où I0 est une constante et 2
+c
+
+
+=
+
+. Cette antenne, constituée 
+d’un fil métallique rectiligne de longueur 2
+, est confondue avec l’axe (Oz) (Figure 6).  
+Figure 5 
+p’(t) 
+ s (t) 
+u(t) 
+v(t) 
+
+Concours Technologie - Session Juin 2022                                    Epreuve de Physique                                                             Page 6/8 
+ 
+ 
+32. Représenter le courant i( ,t
+0)
+z
+=
+ en fonction de z. Commenter. 
+33. Le champ électrique de l’onde produite par l’antenne demi-onde dans la zone de 
+rayonnement s’écrit : 
+0
+0
+cos
+cos
+I
+1
+2
+2
+E(M,t)
+sin
+t
+r
+2
+c r
+sin
+u
+
+
+
+
+
+
+
+
+
+
+
+= −
+
+−
+
+
+
+
+
+
+
+. 
+     Déterminer le champ magnétique de cette onde rayonnée. 
+34.  En déduire la moyenne temporelle du vecteur de Poynting . 
+35.  Déterminer la puissance électromagnétique moyenne 
+m
+P  rayonnée par l’antenne demi-
+onde à travers une sphère de centre O et de rayon r .  
+On adoptera l’approximation 
+2
+cos
+cos
+0 957sin
+2
+,
+
+
+
+
+
+
+
+
+
+. 
+36. La résistance de rayonnement 
+r
+R  de l’antenne est définie par 
+2
+0
+1
+2
+m
+r
+P
+R I
+=
+.  Déterminer 
+l’expression de 
+r
+R  et Calculer sa valeur. 
+37. L’antenne demi-onde d’une chaine de réception est connectée à un poste de télévision à 
+l’aide d’un câble coaxial d’impédance caractéristique 
+75
+c
+Z =
+. Commenter ce choix.  
+38. La source de l’onde rayonnée est caractérisée par sa directivité 
+max
+2
+D
+4
+r
+m
+P
+
+=
+
+, où 
+max
+
+ est la moyenne temporelle du vecteur de Poynting dans la direction du maximum 
+de rayonnement.  
+38.1. Calculer la directivité Da de l’antenne demi-onde étudiée. 
+38.2. Déterminer la directivité Dp d’un dipôle oscillant placé au point O, de moment 
+dipolaire 
+0
+p
+p cos(
+t)
+zu
+=
+
+, rayonnant une onde électromagnétique de champ 
+électrique 
+2
+0
+2
+0
+p
+sin
+2
+E
+cos
+t
+r
+4
+c
+r
+u
+
+
+
+
+
+=−
+−
+
+
+
+
+
+
+. Commenter. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+z 
+O 
+r 
+ 
+Figure 6 
+ • M 
+4
+
+−
+ 
+4
+
++
+ 
+P(0,0,z)   
+
+Concours Technologie - Session Juin 2022                                    Epreuve de Physique                                                             Page 7/8 
+Problème 2 :  
+ 
+Préliminaires  
+ 
+On considère deux ondes lumineuses monochromatiques de pulsations respectives 
+1
+ 
+et 
+2
+, d'amplitudes réelles respectives 
+01
+s  et 
+02
+s
+, se propageant dans le vide et décrites, en un 
+point M et à l'instant t, par les vibrations lumineuses suivantes : 
+ 
+(
+)
+(
+)
+(
+)
+1
+01
+1
+1
+s
+M t
+s
+t
+M
+,
+cos
+=
+
+−
+  et 
+(
+)
+(
+)
+(
+)
+2
+02
+2
+2
+s
+M t
+s
+t
+M
+,
+cos
+=
+
+−
+  
+ 
+On rappelle que l'intensité lumineuse est donnée par la relation (
+)
+2s
+M t
+I M
+(
+, )
+=
+.    
+1. Rappeler les conditions nécessaires pour observer le phénomène d'interférence. Comment 
+réaliser expérimentalement ces conditions ? 
+2. Dans les conditions d'interférence, déterminer la vibration lumineuse (
+)
+s M t,
+ résultante de 
+la superposition de deux ondes monochromatiques en un point M à l'instant t. 
+3. En déduire que l'intensité lumineuse I(M) résultante en M s'écrit : 
+(
+)
+(
+)
+cos
+
+
+
+
+
+
+
+
+= + +
+
+
+ 
+ où 
+1I  et 
+2I  sont les intensités des vibrations prises séparément et (
+)
+(
+)
+(
+)
+
+
+
+
+
+
+= 
+−
+ le 
+déphasage entre les deux ondes considérées. 
+Tracer la courbe donnant (
+)
+M
+I
+ en fonction de (
+)
+
+
+. 
+4. Définir et donner l'expression du contraste C  de la figure d'interférence.  Dans quelle 
+situation le contraste est-il maximal ?  
+ 
+Miroirs de Fresnel  
+ 
+Le dispositif interférentiel des miroirs de Fresnel est formé par deux miroirs plans 
+identiques 
+1
+M  et 
+2
+M  présentant une arête commune  passant par O et faisant entre eux un 
+angle  très faible. Il est éclairé par une source S  ponctuelle et monochromatique de 
+longueur d'onde 
+0
+  dans le vide, placée à la distance d
+SO
+=
+ de (figure 7). 
+ 
+On note 
+1S  et 
+2
+S  les images de S  par rapport à 
+1
+M  et 
+2
+M respectivement. On observe 
+les interférences sur un écran perpendiculaire au plan médiateur de 
+
+1
+2
+S S
+ et placé à la 
+distance L
+OO'
+=
+ de . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 7 : Miroirs de Fresnel 
+ 
+O 
+S ● 
+M2 
+α 
+O' 
+M1 
+d 
+L 
+
+Concours Technologie - Session Juin 2022                                    Epreuve de Physique                                                             Page 8/8 
+5. Reproduire la figure 7 sur votre copie et représenter soigneusement le champ 
+d'interférence. 
+6. S'agit-il d'un dispositif à division d'amplitude ou à division du front d'onde ? Justifier votre 
+réponse. 
+7. Indiquer et représenter le dispositif interférentiel équivalent à ce système. 
+8. Etablir la distance 
+1
+2
+S S
+a =
+ en fonction de  et d. 
+9. Etablir la différence de marche (
+)
+M
+
+ entre les deux ondes se superposant en un point M 
+de l'écran en fonction de , d, x  et L ;  x  étant l'abscisse du point M. 
+10. Pour 
+1
+2
+0
+I
+I
+I
+=
+=
+, déterminer l'intensité lumineuse ( )
+I x  au point M. 
+11. Déterminer l'interfrange i et la largeur approximative h du champ d'interférence.  
+En déduire une estimation du nombre de franges brillantes N observées sur l'écran.  
+Calculer i, h et N. 
+On donne : 
+0
+500nm
+=
+, d
+0 5m
+,
+=
+, L
+2 5m
+,
+=
+ et 
+3
+6 10 rad
+.
+−
+=
+. 
+12. Le dispositif est à présent éclairé par une lampe à vapeur de sodium qui émet 
+essentiellement deux radiations de même intensité notée 
+0I  et de longueurs d'ondes très 
+proches 
+1
+589 0nm
+,
+=
+ et 
+2
+1
+589 6nm
+,
+= + =
+ (doublet jaune) avec  
+1
+. 
+On note 
+1
+2
+m
+2
++ 
+
+=
+ et on fera l'approximation 
+2
+1
+2
+m
+
+ . 
+12.1. Montrer que l'intensité lumineuse résultante en un point M de l'écran peut se mettre 
+sous la forme : 
+( )
+( )
+(
+)
+m
+4παd
+4
+1
+cos λ
+d
+L
+0
+I x = I
++V x
+x
++
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+où 
+( )
+V x  est une fonction à expliciter. 
+12.2. Que représente ( )
+V x ? 
+12.3. Déterminer le contraste de la figure d'interférence. 
+12.4. Tracer le graphe de ( )
+I x . Décrire le phénomène observé. 
+12.5. Déterminer la position de la première annulation du contraste. Conclure. 
+12.6. Proposer un dispositif interférentiel permettant de mesurer expérimentalement . 
+13. La source S  émet maintenant de la lumière blanche comportant toutes les radiations de 
+longueurs d'onde comprises entre 400 nm et 800 nm. 
+13.1. Décrire les franges observées sur l'écran. 
+13.2. On place parallèlement aux franges, la fente d'entrée d'un spectroscope, supposée très 
+fine, à une distance 
+1 5 mm
+x
+,
+=
+de la frange centrale. 
+Décrire l'aspect du spectre obtenu. 
+Déterminer les longueurs d'onde des radiations éteintes de ce spectre.   
+ 
+ 
+ 
+Fin de l’Epreuve 
+
+                                                                1                                                          Corrigé T 2022 
+REPUBLIQUE TUNISIENNE 
+Ministère de l’Enseignement Supérieur et 
+de la Recherche Scientifique 
+ 
+Concours Nationaux d’Entrée aux 
+Cycles de Formation d’Ingénieurs  
+Session 2022 
+ 
+ 
+ 
+المناظرات
+ 
+الوطنية
+ 
+للدخول
+ 
+  إلى
+مراحل
+ 
+تكوين
+ 
+المهندسين 
+ 
+دورة
+ 2
+202
+ 
+Concours Technologie 
+Corrigé de l’épreuve de Physique 
+ 
+Problème 1 (70 / 100) : 
+ 
+Question  
+Barème 
+ 
+1. 
+La bobine, parcourue par un courant I(t) et plongée dans un champ magnétique, 
+est soumise à la force de Laplace. Au cours de son mouvement elle entraine avec 
+elle la membrane dont elle est solidaire. Le mouvement de cette membrane dans 
+l’air engendre de faibles variations de pression et génère ainsi une onde sonore. Le 
+dispositif joue le rôle d’un haut parleur. 
+ 
+ 
+1 
+2. 
+L
+z
+x
+L
+x
+dF
+I(t)d
+Bu =I(t)Bd  u
+ F
+B I(t) u
+=
+
+
+=
+ 
+1,5 
+ 
+3. 
+RFD projetée selon Ox : 
+2
+0
+2
+d x
+dx
+m
+kx
+B I(t)
+dt
+dt
++ 
++
+=
+      (EM) 
+ 
+1,5 
+ 
+4. 
+fem : 
+B
+B
+B
+d
+e
+ 
+ e
+B v(t)
+dt
+
+= −
+
+= −
+ ; 
+x
+v
+d (t )
+(t )
+dt
+=
+  
+ 
+1,5 
+ 
+5. 
+Loi des mailles : 
+dI(t)
+E(t)
+L
+RI(t)
+B v(t)
+dt
+=
++
++
+  (EE) 
+1,5 
+ 
+6. 
+A partir de (EM) : 
+0
+k
+V
+j m
+B I
+
+
+
+
++
+−
+=
+
+
+
+
+
+
+
+
+
+ 
+A partir de (EE) : 
+(
+)
+U
+R
+jL
+I
+B V
+=
++
+
++
+ 
+ 
+ 
+ 
+1 
++ 
+1 
+ 
+7. 
+ 
+ 
+U
+ZI
+=
+   
+2
+2
+0
+B
+Z
+R
+jL
+k
+j m
+=
++
++
+
+
++
+−
+
+
+
+
+
+ 
+e
+m
+Z
+Z
+Z
+=
++
+, avec 
+e
+Z
+R
+jL  
+=
++
+ et  
+2
+2
+m
+0
+B
+Z
+k
+j m
+=
+
+
++
+−
+
+
+
+
+
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+1 
+ 
+ 
+8. 
+0
+m
+2
+2
+2
+2
+2
+2
+m
+m
+m
+m
+1
+k
+1
+1
+ 
+j
+ 
+j C
+Z
+R
+jL
+B
+B
+j
+B
+
+
+=
++
++
+=
++
++
+
+
+  
+ avec 
+2
+2
+m
+B
+ R =
+
+ ; 
+0
+m
+2
+2
+m
+C
+B
+=
+ et  
+2
+2
+m
+B
+L
+k
+=
+ 
+ 
+1 
+0,5 
+0,5 
+0,5 
+
+                                                                2                                                          Corrigé T 2022 
+ 
+ 
+ 
+ 
+9. 
+Schéma électrique équivalent du haut-parleur : 
+ 
+ 
+ 
+ 
+ 
+1,5 
+ 
+ 
+ 
+10. 
+(EE)  
+2
+2
+d
+1
+E(t)I(t)
+LI (t)
+RI (t)
+B I(t)v(t)
+dt
+2
+
+
+=
++
++
+
+
+
+
+ 
+E(t)I(t) : puissance instantanée délivrée par le générateur 
+(
+)
+2
+mag
+d
+1
+d
+LI (t)
+W
+dt
+2
+dt
+
+=
+
+
+
+
+ : puissance instantanée emmagasinée par la bobine 
+2
+RI (t)  : puissance instantanée dissipée par effet Joule 
+L
+B
+B I(t)v(t)
+F .v
+e I(t)
+=
+= −
+ : puissance instantanée de la force de Laplace 
+1 
+ 
+0,5 
+ 
+0,5 
+ 
+0,5 
+ 
+0,5 
+ 
+ 
+ 
+ 
+ 
+11.  
+(EM)  
+2
+2
+2
+0
+d
+1
+1
+m v
+kx
+v (t)
+B I(t)v(t)
+dt
+2
+2
+
+
++
++ 
+=
+
+
+
+
+ 
+2
+c
+0
+dE
+d
+1 m v
+dt
+2
+dt
+
+=
+
+
+
+
+ : puissance cinétique instantanée 
+pe
+2
+dE
+d
+1 kx
+dt
+2
+dt
+
+=
+
+
+
+
+ : puissance élastique instantanée 
+2
+v (t)
+
+ : puissance instantanée dissipée par la force d’amortissement fluide 
+L
+B I(t)v(t)
+F .v
+=
+ : puissance instantanée de la force de Laplace 
+ 
+1 
+ 
+0,5 
+ 
+0,5 
+ 
+0,5 
+ 
+0,5 
+ 
+ 
+ 
+12. 
+Bilan de puissance : 
+mag
+pe
+2
+2
+c
+dW
+dE
+dE
+E(t)I(t)
+RI (t)
+v (t)
+dt
+dt
+dt
+=
++
++
++
++ 
+, qu’on peut 
+écrire sous la forme 
+hp
+2
+2
+dW
+E(t)I(t)
+RI (t)
+v (t)
+dt
+=
++
++ 
+ ,  
+avec 
+hp
+mag
+c
+pe
+W
+W
+E
+E
+=
++
++
+l’énergie du haut-parleur. 
+ 
+ 
+1,5 
+ 
+ 
+ 
+13. 
+En régime sinusoïdal de période T on a 
+hp
+0
+hp
+0
+W (t
+T)
+W (t )
++
+=
+, d’où 
+0
+0
+t
+T
+hp
+2
+2
+g
+t
+dW
+1
+E(t).I(t)
+RI
+v
+dt
+T
+dt
++ 
+
+
+=
+=
++
++ 
+
+
+
+
+
+P
+ 
+ 
+2
+2
+g
+R
+I
+v
+
+=
+
++
+
+P
+ 
+La puissance électrique moyenne fournie par le générateur au haut parleur sert à 
+compenser les pertes. 
+ 
+ 
+ 
+2 
+ 
+ 
+0,5 
+14. 
+Puissance utile permettant de générer une onde sonore 
+2
+u
+v
+=
+
+P
+ 
+Le rendement est 
+2
+2
+v
+1
+u
+g
+g
+g
+R I
+
+=
+=
+= −
+P
+P
+P
+P
+  
+0,5 
+ 
+1 
+15. 
+Fréquences du domaine audible : 
+
+
+20
+20
+f
+Hz,
+kHz
+
+  
+1 
+16. 
+On a : 2
+2
+c
+f
+=
+ , ce qui donne 
+
+
+7 5
+7500
+2
+, km,
+km
+
+ 
+Ces dimensions ne sont pas réalisables en pratique. Il est donc nécessaire de 
+moduler ces signaux par transposition en hautes fréquences. 
+ 
+1,5 
+ 
+1 
+17. 
+(
+)
+(
+)
+0
+0 1
+2
+2
+p
+s(t )
+k e(t )p(t )
+S
+mcos
+ft
+cos
+f t
+=
+=
++
+
+
+
+
+
+
+ , 
+0
+0
+0
+p
+S
+k U U
+=
+  
+1+0,5 
+R 
+L 
+Rm 
+Lm Cm 
+
+                                                                3                                                          Corrigé T 2022 
+18. 
+(
+)
+0 1
+max
+s
+S
+m
+=
++
+ , 
+(
+)
+0 1
+min
+s
+S
+m
+=
+−
+, soit 
+max
+min
+max
+min
+s
+s
+m
+s
+s
+−
+=
++
+  
+1,5 
+ 
+ 
+ 
+ 
+ 
+19. 
+Pour m < 1(ex :
+0 5
+m
+,
+=
+) 
+ 
+ 
+ 
+Pour m > 1(ex : 
+2
+m =
+) 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
++ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20. 
+(
+)
+(
+)
+0
+m
+m
+( )
+cos(2
+)
+cos 2 (
+) t
+cos 2 (
+) t
+2
+2
+p
+p
+p
+s t
+S
+f t
+f
+f
+f
+f
+
+
+=
++
+−
++
++
+
+
+
+
+
+
+
+  
+Spectre : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1,5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+21. 
+L’amplitude du signal modulé varie au rythme de la basse fréquence du signal 
+informatif e(t). La détection d’enveloppe permet de récupérer cette amplitude sous 
+forme d’un signal proportionnel à e(t). 
+Comme la diode, supposée idéale, bloque la partie négative du signal modulé, cette 
+détection n’est valable que si 
+1
+m . 
+ 
+1 
+ 
+0,5 
+ 
+ 
+ 
+22. 
+A chaque alternance positive de s(t), la diode est passante et le condensateur se 
+charge sous la tension vinf (t )
+s(t )
+=
+.  
+Lorsque s(t) devient inférieuur à vinf(t), la diode se bloque et le condensateur se 
+décharge dans la résistance avec une constante de temps 
+d
+R C
+=
+jusqu’à la crête 
+suivante.  
+La démodulation est correcte si la décharge est plus lente que l’évolution du signal 
+porteur : 
+d
+p
+R C
+T
+=
+
+. 
+Le signal approché obtenu est 
+(
+)
+inf
+0
+v
+( )
+1 mcos 2
+t
+t
+V
+f
++
+
+
+
+
+
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+1 
+23. 
+Diode passante : la loi des nœuds s’écrit 
+v
+v
+d
+inf
+inf
+D
+R
+C
+d
+(t )
+d
+(t )
+i
+i
+i
+C
+R
+dt
+=
++
+=
++
+  
+1,5 
+ 
+ 
+ 
+24. 
+En prenant 
+(
+)
+inf
+0
+v
+( )
+1 mcos 2
+t
+t
+V
+f
++
+
+
+
+
+
+ on aura : 
+(
+)
+(
+)
+0 1
+cos 2
+t
+2
+sin 2
+t
+D
+d
+d
+V
+i
+m
+f
+m
+f R C
+f
+R
+=
++
+−
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+Amplitude 
+Fréquence 
+S0 
+0
+2
+mS   
+pf   
+pf
+f
+−
+  
+pf
+f
++
+  
+s(t) 
+t 
+s(t) 
+t 
+
+                                                                4                                                          Corrigé T 2022 
+En 
+développant 
+la 
+forme 
+donnée 
+et 
+en 
+identifiant, 
+on 
+trouve 
+(
+)
+0
+( )
+1
+cos 2
+D
+d
+V
+i
+t
+g
+f t
+R 
+
+=
++
++
+
+
+
+
+, avec 
+(
+)
+2
+1
+g
+m
+=
++ 
+ et tan=   
+ 
+1 + 1 
+25. 
+1
+m , 
+0
+1
+Di
+g
+
+
+ soit 
+2
+2
+1
+1
+2
+m
+m T
+m
+m
+−
+−
+
+=
+
+
+  
+1,5 
+26. 
+On déduit que : 
+2
+1
+2
+p
+m
+T
+T
+m
+−
+
+
+ 
+Lorsque 
+1
+m→ , 
+2
+1
+2
+m T
+m
+−
+
+ devient très faible et réduit pratiquement à néant le 
+choix de 
+d
+R C
+=
+  
+1 
+ 
+ 
+1 
+ 
+27. 
+0
+0
+( )
+'( ) ( )
+'' [1
+cos(2
+)
+cos(4
+)
+cos(2 (2
+) )
+cos(2 (2
+) )]
+2
+2
+p
+p
+p
+u t
+k p t s t
+U
+m
+f t
+f t
+m
+m
+f
+f t
+f
+f t
+=
+=
++
++
++
+−
++
++
+
+
+
+
+      ,      
+0
+0
+0
+p
+1
+''
+'
+2
+U
+k S U
+=
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+28. 
+Spectre : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1,5 
+29.1. 
+Le signal informatif est un signal basse fréquence  il peut être récupéré par un 
+filtre passe-bas de fréquence de coupure 
+cf  vérifiant :
+2
+c
+p
+f
+f
+f
+f
+
+
+−
+  
+1 
+29.2. 
+(
+)
+0
+v( )
+1 mcos 2
+t
+t
+V
+f
+=
++
+
+
+
+
+
+, où 
+0
+V
+cte
+=
+  
+1 
+30. 
+Avantage : la démodulation est correcte pour un taux de modulation supérieur ou 
+inférieur à 1 
+1 
+31. 
+Un filtre passe haut de fréquence de coupure 
+c
+f '
+f
+
+, par exemple un circuit 
+(
+)
+C',R'  .  
+ 
+1 
+ 
+32. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Il s’agit du mode fondamental du courant pouvant circuler dans l’antenne (ondes 
+stationnaires de courant) 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+0,5 
+ 
+33. 
+L’onde rayonnée est localement plane :  
+0
+2
+0
+cos
+cos
+(M,t)
+1
+2
+2
+(M,t)
+sin
+2
+sin
+r
+I
+u
+E
+B
+t
+r
+u
+c
+c
+r
+
+
+
+
+
+
+
+
+
+=
+= −
+−
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+1,5 
+0
+amplitude
+U ''
+  
+Fréquence 
+1 
+m   
+2
+pf
+2
+pf
+f
+−
+  
+2
+pf
+f
++
+  
+2
+m   
+2
+m   
+f   
+0   
+0
+i( z,t
+)
+=
+  
+z   
+4
+  
+4
+
+−
+  
+
+                                                                5                                                          Corrigé T 2022 
+ 
+34. 
+2
+2
+0
+2
+2
+2
+0
+0
+cos
+cos
+1
+2
+8
+sin
+r
+I
+E
+B
+u
+µ
+c r
+
+
+
+
+
+
+
+=
+=
+
+
+
+
+
+ 
+ 
+2 
+35. 
+(
+)
+2
+2
+2
+3
+0
+0
+0
+0
+0
+0 957
+0 305
+4
+m
+sphère
+I
+I
+P
+.dS
+,
+sin
+d
+,
+c
+c
+
+=
+
+=
+=
+
+
+
+
+  
+ 
+2 
+36. 
+2
+0
+1
+2
+m
+r
+P
+R I
+=
+  
+0
+0 61
+r
+,
+R
+c
+=
+
+ ; Application numérique : 
+73 2
+rR
+,
+=
+   
+1,5 
+0,5 
+37. 
+En affinant le modèle d’émission de l’antenne, on trouve une résistance de 
+rayonnement
+75
+r
+c
+R
+Z
+=
+. Cette valeur correspond aussi à l’impédance d’entrée 
+du poste de télévision. Il s’agit de réaliser une adaptation d’impédance. 
+ 
+1 
+ 
+38.1. 
+max
+2
+4
+1,64
+a
+m
+D
+r
+P
+
+=
+=
+
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+38.2. 
+Pour un dipôle oscillant on a : 
+2
+0
+2
+0
+sin
+cos
+4
+p
+r
+E
+t
+u
+c
+r
+c
+
+
+
+
+
+
+
+
+
+=−
+−
+
+
+
+
+
+
+
+
+ donc 
+2
+4
+2
+4
+2
+2
+0
+0
+2
+3
+2
+2
+3
+2
+max
+0
+0
+0
+sin
+1
+(
+)
+32
+2
+32
+r
+r
+E
+p
+p
+u
+u
+c
+c
+r
+c r
+
+
+
+
+
+
+
+
+=
+=
+
+
+=
+
+=
+=
+ et 
+4
+2
+4
+2
+2
+3
+0
+0
+2
+3
+3
+0
+0
+0
+0
+sin
+32
+12
+m
+p
+p
+P
+d
+d
+c
+c
+=
+=
+
+
+
+
+
+
+
+
+
+
+
+ 
+2
+4
+2
+3
+0
+0
+2
+3
+2
+4
+2
+0
+0
+4
+12
+1
+3
+1,5
+32
+2
+p
+r
+p
+c
+D
+c
+r
+p
+=
+=
+=
+
+
+
+
+
+ 
+ On trouve que 
+a
+p
+D
+D
+
+ : l’antenne demi-onde est plus directive que le dipôle 
+oscillant. 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+0,5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+                                                                6                                                          Corrigé T 2022 
+Problème 2 (30 / 100) : 
+1. 
+• Les deux sources doivent être synchrones 𝜔1 = 𝜔2. 
+• Les deux sources doivent être mutuellement cohérentes càd que le 
+déphasage entre les deux sources doit être constant au cours du temps en 
+un point M.  
+ Pour réaliser expérimentalement ces conditions, on réalise deux sources 
+secondaires à partir d'une même source primaire en utilisant un dispositif 
+interférentiel et on veille à ce que la différence de marche δ n'excède pas la 
+longueur typique de cohérence temporelle de la source. 
+0,5 
+ 
+0,5 
+ 
+ 
+1 
+2. 
+      𝑠(𝑀, 𝑡) = s1(M, t) + s2(M, t) 
+                   = s01 cos(ωt −φ1(M)) + s02 cos(ωt −φ2(M))  
+ 
+0,5 
+3. 
+  𝑠2(𝑀, 𝑡) = 𝑆01
+2 (cos (ωt −φ1(M)))
+2
++ 𝑆02
+2 (cos (ωt −φ2(M)))
+2
++ 
+2s01s02 cos (ωt −φ1(M)) cos (ωt −φ2(M)) 
+cos(ωt −φ1(M))  cos(ωt −φ2(M)) =
+1
+2 [cos (2ωt −(φ1(M) +
+φ2(M)))] + cos ((φ2(M) −φ1(M))) 
+𝐼(𝑀) = 〈𝑠2(𝑀, 𝑡)〉=
+𝑆01
+2
+2 +
+𝑆02
+2
+2 + 𝑆01𝑆02 cos ((φ2(M) −φ1(M)))    
+𝐼(𝑀) = 𝐼1 + 𝐼2 + 2√𝐼1𝐼2 cos 𝜑(𝑀) avec 𝜑(𝑀) = φ2(M) −φ1(M) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+4. 
+   Le contraste est défini par : 
+𝐶 = 𝐼𝑚𝑎𝑥−𝐼𝑚𝑖𝑛
+𝐼𝑚𝑎𝑥+ 𝐼𝑚𝑖𝑛
+= 2√𝐼1𝐼2
+(𝐼1 + 𝐼2) 
+ Le contraste est maximal pour 𝐼1 = 𝐼2  = 𝐼0    𝐶 = 1. 
+ 
+ 
+0,5+0,5 
+ 
+0,5 
+5. 
+Champ d’interférence : la zone hachurée représente le champ d’interférence 
+ 
+ 
+ 
+ 
+ 
+1,5 
+6. 
+  Il s’agit d’un système à division du front d’onde. Les deux ondes qui interfèrent 
+au point M sont issues de deux faisceaux différents provenant de la même source 
+primaire. 
+ 
+0,5+1 
+(M) 
+0 
+2π 
+4π 
+-2π 
+- 4π 
+Imin 
+Imax 
+I(M) 
+
+                                                                7                                                          Corrigé T 2022 
+7. 
+Le système est équivalent au dispositif des trous d’Young  
+ 
+ 
+ 
+ 
+S1 et S2 sont deux sources secondaires synchrones et mutuellement cohérentes. 
+0,5 
+ 
+0,5 
+ 
+ 
+0,5 
+8. 
+Par construction S, 𝑆1 et 𝑆2 sont sur un même cercle de centre O.  
+OS1=OS2=OS=d. 
+De plus, l'angle 𝑆1𝑆𝑆2
+̂ = 𝛼. Le théorème de l'angle au centre donne : 𝑆1𝑂𝑆2
+̂ =
+2𝛼. Ainsi, la distance a est donnée par : 
+𝑎
+2 = 𝑑tan 𝛼. Comme α est très faible, on 
+peut écrire 𝑎= 2 𝑑 𝛼 
+ 
+ 
+1 
+9. 
+  𝛿(𝑀) =
+𝑎 𝑥
+𝐿+𝑑=
+2 𝛼 𝑑 𝑥
+𝐿+𝑑  (démonstration) 
+ 
+1 
+10. 
+        𝐼(𝑀) = 𝐼1 + 𝐼2 + 2√𝐼1𝐼2 cos 𝜑(𝑀) 
+     avec 𝜑(𝑀) =
+2𝜋𝛿
+𝜆0  =
+2 𝜋 𝛼 𝑑 𝑥
+𝜆0(𝐿+𝑑)  
+𝐼(𝑥) = 2𝐼0 [1 + cos (
+4𝜋 𝛼 𝑑 𝑥
+𝜆0(𝑑+𝐿))]  
+ 
+ 
+1 
+11. 
+        𝑖=
+𝜆0(𝑑+𝐿)
+2 𝛼 𝑑 ; ℎ= 2𝛼𝐿; 𝑁= 2𝐸(
+ℎ
+2𝑖) + 1 
+     AN: 𝑖 = 0.25 𝑚𝑚, ℎ= 3𝑐𝑚; 𝑁 = 121. 
+ 
+ 
+0,5x6 
+12.1. 
+   𝐼1(𝑥) = 2𝐼0 [1 + cos (
+4𝜋 𝛼 𝑑 𝑥
+𝜆1(𝑑+𝐿))] 
+   𝐼2(𝑥) = 2𝐼0 [1 + cos (
+4𝜋 𝛼 𝑑 𝑥
+𝜆2(𝑑+𝐿))] 
+Les deux radiations sont incohérentes entre elles => 𝐼(𝑥) = 𝐼1(𝑥) + 𝐼2(𝑥) 
+   𝐼(𝑥) = 4𝐼0 [1 + cos (
+𝜋 𝛿 ∆𝜆
+𝜆𝑚
+2
+) cos (
+2 𝜋 𝛿
+𝜆𝑚)]. 
+ C'est de la forme : 
+  𝐼(𝑥) = 4𝐼0 [1 + 𝑉(𝑥) cos (
+4 𝜋 𝛼 𝑑  𝑥
+𝜆𝑚(𝑑+𝐿))] avec 𝑉(𝑥) = cos (
+𝜋 𝛿 ∆𝜆
+𝜆𝑚
+2 ). 
+ 
+ 
+0,5 
+0,5 
+ 
+0,5 
+1 
+ 
+0,5 
+ 
+12.2. 
+  𝑉(𝑥) représente le facteur de visibilité. 
+1 
+12.3. 
+    𝐼𝑚𝑎𝑥 = 4𝐼0 (1 + |𝑉(𝑥)|)   et   𝐼𝑚𝑖𝑛 = 4𝐼0 (1 −|𝑉(𝑥)|)            𝐶= |𝑉(𝑥)| 
+1 
+12.4. 
+  On observe des oscillations périodiques entre une coïncidence et une anti-
+coïncidence :  c'est le phénomène de battement. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+On observe un brouillage périodique.  
+0,5 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0,5 
+I(x)/I0 
+x 
+−x1 
+x1 
+Anti - coïncidence 
+Coïncidence 
+ 
+ 
+ 
+x2 
+S1 ●  
+S2 ●  
+●  
+O  
+O’ 
+d  
+L  
+M  
+x  
+
+                                                                8                                                          Corrigé T 2022 
+12.5. 
+    𝐶= |cos (
+𝜋 𝛿 ∆𝜆
+𝜆𝑚
+2
+)| = 0  𝑥1 =
+(𝑑+𝐿)
+4 𝛼 𝑑 ∆𝜆𝜆𝑚
+2  
+    𝑥1 = 14.47 𝑐𝑚 
+   𝑥1 ≫ℎ/2   On ne peut pas observer le phénomène de battement.  
+ 
+0,5+0,5 
+ 
+0,5+0,5 
+12.6. 
+  En pratique, on peut déterminer ∆𝜆 en utilisant le Michelson, Fabry-Pérot. 
+ 
+1 
+13.1. 
+  ∀ λ, on a en 𝑥= 0, une frange brillante blanche. Pour 𝑥 proche de zéro, on 
+observe des franges irisées. Plus loin, on a un brouillage de la figure d’interférence. 
+C’est le blanc d’ordre supérieur. 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+13.2. 
+ Le spectre est cannelé  Il y a des radiations absentes (les cannelures). 
+ 
+ Une radiation éteinte δ= 𝑝𝜆 avec p demi-entier. 
+   𝜆1 ≤𝜆≤𝜆2  
+2 𝛼 𝑑 𝑥
+𝜆2(𝐿+𝑑) ≤𝑝≤
+2 𝛼 𝑑 𝑥
+𝜆1(𝐿+𝑑)  3. 75 ≤𝑝≤7.5 , soit 
+    𝑝1 = 4.5 => 𝜆𝑝1 = 666.6 𝑛𝑚 
+𝑝2 = 5.5 => 𝜆𝑝2 = 545.4 𝑛𝑚 
+𝑝3 = 6.5 => 𝜆𝑝3 = 461.5 𝑛𝑚  
+𝑝4 = 7.5 => 𝜆𝑝4 = 400 𝑛𝑚 
+ 
+ 
+0,5 
+ 
+ 
+ 
+0,5 
+0,5 
+0,5 
+0,5 
+ 
+ 
+ 
+ 
+ 

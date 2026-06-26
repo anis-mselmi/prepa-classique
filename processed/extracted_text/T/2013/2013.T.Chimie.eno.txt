@@ -1,0 +1,37 @@
+--- page 1 ---
+#siUT Prf; CrlomQus 8 Sax* Goes ' 8 76528s
+Barème
+Problème I Problème II Problème III
+5,0 pts 8,0 pts 7,0 pts
+Instructions
+Cette épreuve comporte 9 pages. Tout résultat doit être écrit dans les cadres adéquats. L'usage des calculatrices électroniques de poche non programmables est autorisé Aucun échange entre les candidats n'est autorisé. Les résultats numériques sans unité ou avec une unité fausse ne seront pas comptabilisés: En cas de besoin utiliser les pages vides en fin du cahier. Dans ce cas; il faut le signaler dans la case allouée à la réponse remise en fin de cahier.
+Données relatives à lensemble du sujet
+Masses molaires (en g.mol-') de For Au = 197 et du nickel Ni = 59. Masses volumiques en phase liquide (en g.cm de For = 17,31 et du nickel = 7,81 . Paramètre de la maille cubique de For a 2 4,08 a.
+mode de réseau cubique primitifP centré [ à faces centrées F
+conditions de diffraction aucune h+k+lz 2n (pair) hk et / tous_pairs ou tous impairs
+A 298 K : Potentiels redox standard
+couples Eo
+Au IAu(sd) 1,498 = 10 7TT Produit de solubilité de Au(OH)3(sd) Ks
+H' IHz(g) 0
+Oz(gyHzO 1,230
+Produit ionique de Feau Ke = 10-14 RxT -xLn(x) = 0,06x logio (x) (en Volt) F
+Lor se trouve à Fétat métallique dans la nature, on dit à Fétat natif parce qu'il ne se fabrique pas, contrairement par exemple au fer qui se fabrique à partir des minerais de fer naturels (oxydes de fer). L'or se trouve partout sur notre planète, mais en très faible quantité c 'est un matériau très rare. Le symbole < Au > de For vient du latin < aurum 9  A température ambiante, Vor, de couleur jaune très caractéristique; est le métal le plus malléable.
+Concours Technologie Session Juin 2013
+
+--- page 2 ---
+Situt Preparatons CibloTheque Problème I : Cristallographie Su9je } 05 Afin de déterminer   la structure cristalline dun solide, on peut utiliser méthodé de Debye-Scherrer qui consiste à sonder un échantillon cristallin poudreux en dirigeant sur celui-ci un faisceau monochromatique de rayons X laisceau poudre Les microcristaux; dont la taille peut varier entre 0,01 et incident 0,001 mm; sont orientés de façon aléatoire à Fintérieur de l'échantillon: Chaque microcristal orienté favorablement créé un rayon diffracté formant un angle @ avec Faxe démission du faisceau incident (fig ci- contre). Le rayonnement diffracté est alors analysé par un détecteur pouvant tourner autour dune monture circulaire centrée sur Véchantillon (chambre de Debye-Scherrer) . Le signal reçu présente un ensemble de raies réparties symétriquement par rapport aux orifices dentrée et de sortie du faisceau incident. 1) Donner la relation entre le paramètre < a > dune maille cubique et la distance entre deux_plans réticulaires consécutifs appartenant à la même famille hkl:
+2) En déduire la relation entre Fangle 0 et les indices de Miller h, k et / caractérisant les plans réticulaires responsables du signal reçu.
+3) Eor cristallise selon une maille cubique. La raie correspondant aux indices de Miller (111) est obtenue pour une réflexion de premier ordre pour Fangle @ = 38,149 dans le cas dun faisceau de longueur donde ^ = 1,54 %. Donner ]expression puis calculer le paramètre < a ) de maille.
+4) L expérience montre que, pour For, les  plans indices de Miller (100) et (110) ne diffractent pas_les rayons X. Quel est alors le mode de réseau correspondant ?
+2
+Concours Technologie Session Juin 2013
+
+--- page 3 ---
+Bstitvr PREf/ Crvonequi Ouo Gax 945455
+5) En déduire le rayon métallique_de_Lor
+Préciser les coordonnées_réduites_des plus_grands_sites dans la maille de Lor.
+7) On remplace tous les atomes dor < Au ) qui n'occupent pas les sommets du cube par des atomes dun élément < X >. 7.1) Représenter en perspective la nouvelle maille obtenue et son contenu:
+7.2) Déterminer la formule chimique du nouveau composé.
+73) Quel est le rayon maximum de < Xv pour lequel les atomes d'or deviennent tangents ?
+- 3
+Concours Technologie Session Juin 2013

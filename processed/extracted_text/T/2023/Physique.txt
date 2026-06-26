@@ -1,0 +1,6085 @@
+ 
+Concours Technologie - Session Juin 2023 
+Epreuve de Physique 
+Page 1/8 
+REPUBLIQUE TUNISIENNE 
+Ministère de l’Enseignement Supérieur et 
+de la Recherche Scientifique 
+ 
+ 
+Concours Nationaux d’Entrée aux 
+Cycles de Formation d’Ingénieurs  
+Session 2023 
+ 
+ 
+ 
+المناظرات الوطنية للدخول 
+إلى مراحل تكوين المهندسين 
+دورة 3
+202
+ 
+ 
+Concours Technologie 
+Epreuve de Physique 
+ 
+Date : 05 Juin 2023 
+Heure : 8 H00 
+Durée : 4 H 
+Nbre pages : 8 
+ 
+L’usage d’une calculatrice non programmable est autorisé. 
+Tout résultat fourni dans l’énoncé peut être admis et utilisé par la suite, même s’il n’a pas été démontré par le 
+candidat. 
+Si, au cours de l’épreuve, un candidat repère ce qui lui semble être une erreur d’énoncé, il le signale sur sa copie 
+et poursuit sa composition en expliquant les raisons des initiatives qu’il est amené à prendre. 
+L’épreuve comporte trois problèmes indépendants. 
+Première partie : Dipôle électrique et moment dipolaire 
+Des expériences physico-chimiques montrent que les corps neutres peuvent interagir via des forces de 
+nature électrique, dites dipolaires. Dans cette partie, nous étudions le dipôle électrique sous différents 
+aspects.  
+Dipôle électrostatique 
+On considère un dipôle électrostatique constitué par deux 
+charges ponctuelles fixes − q et +q situées respectivement aux 
+points A et B distantes de a (figure 1), a et q étant des quantités 
+positives. 
+Q1. Donner l'expression du moment dipolaire électrique p  en 
+fonction de q, a et 
+zu . Montrer que l’étude du dipôle peut se 
+faire dans le plan méridien (
+)
+,
+,
+r
+M u u.  
+Q2. Donner l’expression du potentiel électrostatique créé par 
+le dipôle en un point M en fonction de q, a, la permittivité 
+diélectrique du vide 
+0
+, 
+Br
+BM
+=
+ et 
+Ar
+AM
+=
+. Montrer que le potentiel électrostatique en un point 
+(
+)
+,
+M r , s’écrit dans le cadre de l’approximation dipolaire (
+)
+r
+a
+
+ sous la forme  
+(
+)
+2
+0
+cos
+4
+p
+V M
+r
+
+
+=
+. 
+Q3. En déduire les composantes du champ électrostatique 
+(
+)
+E M  créé par ce dipôle en coordonnées 
+sphériques. Montrer que celui-ci peut se mettre sous la forme vectorielle : 
+(
+)
+(
+)
+(
+)
+3
+0
+1
+3
+.
+4
+r
+r
+E M
+p u
+u
+p
+r
+
+=
+−
+. 
+Comparer l’évolution de ce champ dans l’espace à celle d’un champ coulombien créé par une charge 
+ponctuelle. 
+Figure 1 
+x 
+z 
+O 
+ 
+B (+q) 
+A (-q) 
+ 
+ 
+r 
+M 
+ 
+y 
+ 
+ 
+
+ 
+Concours Technologie - Session Juin 2023 
+Epreuve de Physique 
+Page 2/8 
+On donne le gradient en coordonnées sphériques d’une fonction f  :  
+1
+1
+sin
+r
+f
+f
+f
+grad f
+u
+u
+u
+r
+r
+r
+
+
+
+
+
+
+
+
+=
++
++
+
+
+
+ 
+Q4. Déterminer les équations polaires des surfaces équipotentielles et des lignes de champ. Tracer dans 
+un plan méridien, l’allure des lignes de champ et des équipotentielles. 
+Polarisation par orientation  
+La configuration géométrique de la molécule d’eau est représentée 
+sur la figure 2. La différence d’électronégativité entre l’atome 
+d’oxygène et l’atome d’hydrogène fait que les électrons des 
+liaisons covalentes OH de la molécule d’eau sont attirés plus par 
+l’atome d’oxygène. Tout se passe comme si l’atome d’oxygène 
+portait une fraction de charges négative (-2 ) et chaque atome 
+d’hydrogène portait une fraction de charges positive (+ ). La 
+molécule d’eau est dite polaire.  
+Q5. Montrer que la molécule d’eau possède un moment dipolaire permanent 
+0
+p
+p u
+=
+  (
+)
+1
+u =
+. 
+Placée dans un champ électrique stationnaire 
+(
+)
+(
+)
+0
+z
+E M
+E
+M u
+=
+, une molécule d’eau subit l’action de 
+forces de nature électrique. L’énergie potentielle d’interaction de la molécule d’eau avec le champ 
+électrique est donnée par : 
+(
+)
+(
+)
+0
+0
+.
+cos
+p
+W
+p E M
+p E
+M
+
+= −
+= −
+ ;  est l’angle que fait le moment 
+dipolaire p  avec le champ électrique 
+(
+)
+E M . 
+Q6. Quelles sont les effets mécaniques du champ électrique sur la molécule d’eau ? Expliquer le fait 
+qu’un filet d’eau pure soit attiré par une règle en plastique frottée sur un tissu de laine. Y a-t-il une 
+déviation d’un filet d’eau entre les armatures d’un condensateur plan ? Justifier votre réponse. 
+On considère une enceinte fermée contenant de la vapeur d’eau à une température constante T. À 
+l’intérieur de l’enceinte règne un champ électrique stationnaire et uniforme 
+0
+z
+E
+E u
+=
+.  
+En absence de champ électrique, les dipôles électriques des molécules d’eau s’orientent dans toutes les 
+directions d’une façon aléatoire sous l’effet de l’agitation thermique. Par application d’un champ 
+électrique stationnaire et uniforme 
+0
+z
+E
+E u
+=
+, les dipôles des molécules tendent à s’orienter dans la 
+direction du champ. Il s’établit un équilibre statistique entre l’effet des forces électriques et celui de 
+l’agitation thermique.  
+On suppose dans la suite, que le module du moment dipolaire d’une molécule d’eau soit constant. La 
+probabilité pour que le moment dipolaire d’une molécule soit orienté dans une direction comprise entre 
+ et 
+d
+
+
++
+ s’écrit :  
+0
+0
+exp
+cos
+B
+p E
+d
+C
+d
+k T
+
+
+
+=
+
+
+
+
+
+P
+ 
+avec 
+2 sin
+d
+d
+
+
+=
+, 
+B
+k  est la constante de Boltzmann et C est une constante.  
+H (+ ) 
+O (-2 ) 
+ 
+H (+ ) 
+Figure 2 
+ 
+z 
+ 
+
+ 
+Concours Technologie - Session Juin 2023 
+Epreuve de Physique 
+Page 3/8 
+Q7. Que représente le terme 
+0
+0
+exp
+cos
+B
+p E
+k T
+
+
+
+
+
+
+
+ ? 
+Q8. Donner la condition de normalisation. En déduire la constante de normalisation C. On 
+pose 
+0
+0
+B
+p E
+u
+k T
+=
+ et 
+cos
+t
+u
+
+=
+. 
+Q9. Montrer alors que la composante moyenne du moment dipolaire selon (Oz) s’écrit sous la forme : 
+( )
+0
+zp
+p L u
+=
+ ; ( )
+( )
+1
+coth
+L u
+u
+u
+=
+−
+ est la fonction de Langevin. 
+Q10.  On note n le nombre de molécule d’eau par unité de volume.  
+• Déterminer le moment dipolaire par unité de volume 
+vp . 
+• Etudier le cas des basses températures. Commenter. 
+• Montrer que dans le cas des hautes températures, le moment dipolaire par unité de volume se 
+réduit à :
+vp
+T
+
+=
+ où  est une constante à déterminer. Commenter. 
+On donne : 
+( )
+1
+coth
+3
+u
+u
+u
+=
++
+ au voisinage de zéro. 
+Q11. Tracer l’allure de la courbe de variation du moment dipolaire volumique 
+vp en fonction de u. 
+Rayonnement dipolaire - Diffusion d’un rayonnement 
+Nous étudions dans cette partie la production d’une onde électromagnétique par un dipôle électrique 
+oscillant. Cette étude permet de comprendre les aspects de la diffusion d’un rayonnement par un atome. 
+On considère le système de deux charges ponctuelles -q et +q (Figure 1). La charge -q est désormais fixe 
+à l’origine O, la charge +q est située en un point S mobile sur l’axe Oz tel que 
+(
+)
+cos
+OS
+a
+t
+
+=
+ ; a et  
+représentent respectivement l’amplitude et la pulsation des oscillations. 
+Le système constitue un dipôle électrique oscillant qui crée une onde électromagnétique de pulsation  
+en un point M repéré par les coordonnées sphériques (
+)
+, ,
+r  ; (
+)
+,
+,
+ru u u
+
+ désignent les vecteurs 
+unitaires associés. On suppose que la distance r
+OM
+=
+ est très grande devant a.  
+Q12. Sachant que la charge +q est animée d’un mouvement non relativiste, quelle est l’approximation 
+satisfaite par la longueur d’onde  de l’onde émise par le dipôle oscillant ? 
+Q13. Les expressions des vecteurs champ électrique et magnétique de l’onde créée par le dipôle en un 
+point 
+(
+)
+, ,
+M r sont : 
+(
+)
+(
+)
+3
+2
+3
+2
+2
+0
+0
+2
+1
+,
+2cos
+sin
+4
+,
+sin
+4
+r
+p
+p
+p
+p
+p
+E M t
+u
+u
+r
+r c
+r
+r c
+rc
+p
+p
+B M t
+u
+r
+rc
+
+
+
+
+
+
+
+
+•
+•
+••
+•
+••
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=
++
++
++
++
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=
++
+
+
+
+
+
+
+ 
+p, p
+•  et p
+••  dépendent de la variable 
+r
+t
+c
+
+
+−
+
+
+
+
+ ; p
+•  et p
+••  désignent respectivement la dérivée première et 
+seconde par rapport au temps du moment dipolaire p. 
+
+ 
+Concours Technologie - Session Juin 2023 
+Epreuve de Physique 
+Page 4/8 
+Montrer que ces expressions sont en accord avec la symétrie du problème. 
+Q14. Définir la zone de rayonnement du dipôle et déduire les expressions des champs électrique et 
+magnétique simplifiées dans cette zone. Décrire la structure de l’onde rayonnée. 
+Q15. Déterminer le vecteur de Poynting 
+(
+)
+,
+M t
+
+, ainsi que sa valeur moyenne temporelle. 
+Q16. Montrer que l’intensité du rayonnement définie par (
+)
+(
+)
+,
+I M
+M t
+=
+
+, s’écrit sous la forme : 
+(
+)
+( )
+2
+0
+,
+sin
+I r
+I
+r
+
+
+=
+ ; 
+( )
+0I
+r  est une fonction à déterminer. Représenter le diagramme du rayonnement 
+dipolaire. Déterminer la puissance moyenne totale rayonnée par le dipôle. 
+ 
+L’interaction d’un champ électrique variable avec la matière, induit des dipôles électriques oscillants. Le 
+rayonnement de ces dipôles redistribue alors le signal incident. On étudie l’interaction d’une onde 
+électromagnétique incidente plane de champ électrique 
+(
+)
+0
+i
+t kx
+i
+z
+E
+E e
+u
+−
+=
+avec un milieu dilué (de faible 
+densité de particules), non magnétique (µ = µ0), linéaire, homogène et isotrope. Chaque électron d’un 
+atome, de masse m, de charge q
+e
+= − est repéré par rapport au noyau par 
+0
+i t
+z
+z e 
+=
+. 
+Q17. Montrer que dans le cadre de l’approximation non relativiste, l’effet du champ magnétique est 
+négligeable devant celui du champ électrique. 
+Q18. En adoptant le modèle de l’électron élastiquement lié, l’équation du mouvement de l’électron 
+s’écrit en notation complexe : 
+2
+0
+0
+i t
+m z
+m z m
+z
+eE e 
+
+••
+•
++
++
+= −
+  
+ est une constante positive, z
+•  et z
+••  étant respectivement la dérivée première et seconde de z par rapport 
+au temps. 
+Interpréter les différents termes de cette équation. 
+Q19. Déterminer la solution de cette équation en régime forcé. En déduire l’amplitude complexe du 
+moment dipolaire induit et le mettre sous la forme 
+( )
+0
+0
+0
+p
+E
+
+=
+ ; ( )
+ est la polarisabilité complexe 
+à la pulsation . 
+Q20. En déduire la puissance moyenne totale rayonnée par le dipôle oscillant P. Montrer que P est 
+proportionnelle au flux surfacique incident 
+0
+ : 
+( )
+0
+P
+
+=
+    où    
+( )
+( )
+4
+2
+1
+6
+c
+
+
+
+
+
+
+=
+
+
+
+
+ 
+Le coefficient de proportionnalité 
+( )
+ représente la section efficace de diffusion totale. 
+Q21. Pour les radiofréquences, l’infrarouge et la lumière visible, la pulsation  est très faible devant  
+0
+. Déterminer dans ce cas, la variation de la section efficace  en fonction de . En déduire une 
+interprétation de la couleur bleue du ciel. 
+Q22. Dans le domaine des rayons X, la pulsation  est très grande devant 
+0
+. Donner l’expression de la 
+section efficace. Commenter. 
+Q23. Tracer l’allure de la variation de  en fonction . 
+
+ 
+Concours Technologie - Session Juin 2023 
+Epreuve de Physique 
+Page 5/8 
+Deuxième partie : Spectroscopie et filtrage interférentiel  
+On se propose d’étudier les interférences lumineuses des vibrations transmises à travers une cavité 
+optique formée par une lame d’air (d’indice 
+1
+n = ) d’épaisseur e. Celle-ci est limitée par deux faces 
+traitées fortement réfléchissantes. Le coefficient de réflexion en amplitude sur les faces traitées est r 
+(supposé réel). On pose 
+2
+R
+r
+=
+. 
+Le dispositif est éclairé par une source étendue placée à distance finie, émettant une lumière 
+monochromatique de longueur d’onde dans le vide λ. La figure d’interférence est observée sur un écran 
+(E) placé dans le plan focal image d’une lentille convergente (L) de focale f’ (figure 3). 
+ 
+Caractéristiques des interférences observées 
+Q24. Compléter la marche des rayons lumineux transmis à travers la lame d’air et qui interférent en un 
+point M de l’écran. Expliquer l’intérêt de limiter l’inclinaison θ. 
+Q25. Déterminer le déphasage  entre deux vibrations successivement transmises. Justifier que les 
+franges observées sont des anneaux. 
+Q26. On désigne par 
+1
+A  l’amplitude complexe de la première vibration transmise. 
+• Exprimer l’amplitude 
+n
+A  associée à la nième vibration transmise en fonction de 
+1
+A , R, n et φ. En 
+déduire l’amplitude de la vibration résultante en fonction de 
+1
+A , R et φ. 
+• Montrer que l’intensité au point M de l’écran (E) est de la forme : 
+( )
+max
+2
+1
+sin
+2
+I
+I
+m
+
+
+=
+
+
++
+
+
+
+
+, avec 
+(
+)
+2
+4
+1
+R
+m
+R
+=
+−
+ 
+Q27. Dans l’approximation de petits angles, exprimer le rayon 
+k
+ de l’anneau brillant d’ordre k en 
+fonction de k, , e et f ’. Les anneaux sont-ils équidistants ? Justifier. 
+Q28. Exprimer en fonction de R, le contraste C, défini par : 
+max
+min
+max
+min
+I
+I
+C
+I
+I
+−
+=
++
+, où 
+max
+I
+ et 
+min
+I
+ désignent 
+respectivement l’intensité maximale et minimale. Tracer l’allure de la courbe 
+( )
+C R .  
+Faire l’application numérique pour 
+0,04
+R =
+ (faces non traitées) ; 
+0,80
+R =
+ puis 
+0,95
+R =
+. Commenter 
+les valeurs obtenues. 
+En pratique, seuls les derniers cas sont représentatifs des interféromètres réels. 
+e 
+θ 
+(E) 
+(L) 
+f ' 
+Figure 3 
+
+ 
+Concours Technologie - Session Juin 2023 
+Epreuve de Physique 
+Page 6/8 
+Q29. Sur la figure 4, on a tracé la courbe 
+( )
+max
+I
+I
+  pour 
+trois valeurs différentes du coefficient R. 
+Tracer l’allure de la courbe ( )
+I , où ρ désigne le rayon 
+polaire mesuré sur l’écran par rapport au centre des 
+anneaux.  
+On se placera dans le seul cas où R est proche de 1. 
+Q30. Déterminer en fonction de R, la largeur à mi-hauteur 
+1/2
+
+
+ de la courbe ( )
+I , au voisinage d’un 
+maximum, en déduire la largeur à mi-hauteur 
+1/2
+
+
+  correspondante de la courbe ( )
+I . 
+Q31. On définit la finesse F de l’appareil par :
+1/2
+2
+F
+
+
+= 
+ .  
+• Exprimer F en fonction de R. Discuter sa variation avec R. Calculer F dans le cas où 
+0,95
+R =
+. 
+• Calculer la finesse dans le cas des anneaux observés avec le dispositif de Michelson. Conclure. 
+Spectroscopie interférentielle - Pouvoir de résolution 
+Considérons une source qui émet deux raies de longueurs d’onde voisines λ et 
+
++ 
+. On pourrait donc 
+observer deux maximas d’intensité pour le même ordre d’interférence k pour deux anneaux brillants de 
+rayons voisins ρ et 
+
++ . 
+Q32. Déterminer 
+
+ en fonction de k, , e, f ’ et 
+
+. 
+Q33. On admet que les deux raies λ et 
+
++ 
+ ne sont résolues que si 
+1/2
+
+
+
+
+. 
+• À quelle condition sur 
+
+
+ les deux raies sont-elles vues séparées ? Que vaut l’écart minimal 
+min
+
+
+ ? 
+• En déduire le pouvoir de résolution défini par 
+min
+R
+
+
+= 
+, que l’on calculera en fonction de F et  
+k. Dans quelle zone de la figure d’interférences, la résolution est meilleure ? Justifier. 
+Q34. On se place dans le cas d’une cavité d’épaisseur 
+0,1
+e
+mm
+=
+ et une finesse F de l’ordre de 60. 
+Discuter si les deux raies du sodium 589,0nm  et 589,6nm  sont résolues ?  
+Q35. On rappelle que la finesse F est interprétée comme le nombre de vibrations qui interférent 
+effectivement à la sortie de la cavité. Que peut-on conclure quant à la résolution des dispositifs 
+interférentiels à deux ondes ? 
+Filtre interférentiel 
+Pour obtenir de la lumière quasi-monochromatique à partir d’une source de lumière blanche, on utilise 
+un filtre interférentiel. Il est constitué d’une lame transparente d’épaisseur e et d’indice 
+1,37
+n =
+. Sur 
+chaque face est déposée une couche fortement réfléchissante telle que 
+0,95
+R =
+. Le filtre est éclairé en 
+incidence normale. 
+Figure 4 
+
+ 
+Concours Technologie - Session Juin 2023 
+Epreuve de Physique 
+Page 7/8 
+Q36. Faire un schéma du filtre interférentiel et représenter un rayon lumineux incident et les deux 
+premiers rayons transmis.  
+Déterminer la différence de chemin optique  entre deux rayons successifs sortant de la cavité. En 
+déduire leur différence de phase en fonction de la longueur d’onde dans le vide λ.  
+Q37. A quelle condition ces deux vibrations interfèrent-elles constructivement ? Comparer cette 
+condition avec celle de la résonnance d’une cavité en électromagnétisme.  
+Q38. Pour un filtre d’épaisseur 
+350
+e
+nm
+=
+, éclairé en lumière blanche (
+)
+400
+750
+nm
+nm
+
+
+
+, montrer 
+qu’une seule longueur d’onde 
+k
+ sera transmise par le filtre dont on déterminera sa valeur. Quelle est la 
+couleur associée ? Justifier le nom de filtre interférentiel donné à la cavité. 
+Q39. Calculer la bande passante 
+
+ du filtre. En déduire la longueur de cohérence de la lumière obtenue. 
+Q40. Quelles seraient les longueurs d’onde transmises à travers le filtre et les couleurs associées si on 
+double son épaisseur ?  
+Troisième partie : États stationnaires d’une particule quantique 
+Préliminaire 
+Une particule quantique de masse m est soumise à un potentiel unidimensionnel 
+( )
+V x . La fonction 
+d'onde 
+(
+)
+,x t
+
+ associée, décrivant l’état de la particule, obéit à l'équation de Schrödinger :  
+(
+)
+( )
+(
+)
+(
+)
+2
+2
+2
+,
+,
+,
+2
+x t
+x t
+V x
+x t
+i
+m
+x
+t
+
+
+−
++
+
+=
+
+
+ 
+où 
+ désigne la constante de Planck réduite : 
+34
+1,05.10
+.
+2
+h
+J s
+
+−
+=
+=
+. 
+On s’intéresse à des états stationnaires de la forme  
+(
+)
+( )
+( )
+,x t
+x f t
+
+
+=
+ 
+Q41. Que représente la fonction d'onde d'une particule ? Qu'appelle-t-on densité de probabilité de 
+présence ? Le principe de superposition est-il applicable pour ? Justifier. 
+Q42. Déterminer les équations différentielles vérifiées par ( )
+x
+
+ et 
+( )
+f t . On introduira une constante E 
+homogène à une énergie. Déterminer la fonction 
+( )
+f t .  
+Exprimer la densité de probabilité . En déduire l’origine de la dénomination « état stationnaire ». 
+On se place dans le cas d’une particule libre.  
+Q43. Déterminer l'expression de ( )
+x
+
+, en déduire 
+(
+)
+,x t
+
+. Comment qualifie-t-on l'onde obtenue ? 
+Retrouver la relation de De Broglie traduisant la dualité onde corpuscule qui lie la longueur d’onde λ et 
+l’impulsion p. 
+Q44. Pourquoi cette fonction d'onde ne peut représenter l'état d'une particule réelle ? Quel modèle de 
+fonction d’onde doit-on alors utiliser ? 
+Q45. Exprimer puis calculer la longueur d’onde λ dans le cas d’un électron (
+)
+,e m
+−
+ accéléré sous la 
+tension 
+1
+U
+kV
+=
+. On donne : 
+31
+9,1.10
+m
+kg
+−
+=
+ et 
+19
+1,6.10
+e
+C
+−
+=
+. 
+Quelle application utilisant le comportement ondulatoire d’un tel faisceau électronique peut-on  
+envisager ? 
+
+ 
+Concours Technologie - Session Juin 2023 
+Epreuve de Physique 
+Page 8/8 
+Falaise de Potentiel 
+On se propose d’étudier le comportement d’une particule quantique qui 
+aborde une falaise de potentiel (figure 5). Cette particule de masse m et 
+d'énergie 
+0
+E 
+ arrive, en provenance de −, à une falaise de potentiel 
+de profondeur 
+0
+V  située en 
+0
+x =
+. Le potentiel 
+( )
+V x  est donné par : 
+( )
+(
+)
+(
+)
+0
+0
+0
+1
+0
+2
+pour
+x
+région
+V x
+V
+pour
+x
+région
+
+
+= −
+
+
+ 
+Q46. Décrire le comportement d'une particule classique dans de telles conditions.  
+On cherche des solutions de la fonction d’onde 
+(
+)
+,x t
+
+ décrivant l’état stationnaire de la particule 
+quantique. 
+Q47. Etablir l’équation différentielle vérifiée par ( )
+x
+
+. Montrer que ( )
+x
+
+ a pour expression : 
+( )
+(
+)
+(
+)
+(
+)
+( )
+(
+)
+(
+)
+(
+)
+1
+1
+1
+1
+1
+2
+2
+2
+2
+2
+exp
+exp
+1
+exp
+exp
+2
+x
+A
+ik x
+B
+ik x
+région
+x
+A
+ik x
+B
+ik x
+région
+
+
+=
++
+−
+
+=
++
+−
+
+ 
+1A , 
+1
+B , 
+2
+A  et 
+2
+B  sont des constantes d’intégration.  
+On exprimera les termes 
+1k  et 
+2k  en fonction de m, E, 
+0
+V  et 
+. Justifier que la constante 
+2
+B  est nulle. 
+Q48. Conditions aux limites et coefficient de réflexion et de transmission en amplitude. 
+• Écrire les conditions aux limites en 
+0
+x =
+.  
+• En déduire les coefficients de réflexion et de transmission en amplitude 
+1
+1
+B
+r
+A
+=
+ et 
+2
+1
+A
+t
+A
+=
+. 
+• Exprimer r et t en fonction de E et 
+0
+V . Commenter. 
+Q49. On définit la densité de courant de probabilité par 
+2
+k
+J
+m
+= 
+ ; k  est le vecteur d’onde associé.  
+• Exprimer les courants de probabilité 
+iJ , 
+rJ  et 
+tJ  associés respectivement aux ondes incidente, 
+réfléchie et transmise. 
+• On définit la probabilité de réflexion R comme le rapport des modules des courants de probabilité 
+rJ  et 
+iJ . Exprimer R en fonction de 
+0
+E
+u
+V
+=
+.  
+• Tracer et commenter l’allure de la courbe 
+( )
+R u . 
+• Approximer R en fonction de E et 
+0
+V  dans le cas où 
+0
+E
+V
+
+. 
+Q50. Deux particules incidentes de masses 
+a
+m  et 
+b
+m  arrivent à la falaise de potentiel à la même vitesse, 
+avec les énergies respectives 
+a
+E  et 
+b
+E  très grandes par rapport à 
+0
+V . 
+Comparer les probabilités de réflexion 
+a
+R  et 
+b
+R  dans le cas où 
+a
+b
+m
+m
+
+. Conclure.  
+Le résultat est-il modifié si les particules proviennent depuis la région (2) pour aller à la région (1) ? 
+Justifier votre réponse. 
+x 
+V(x) 
+ 
+0 
+Figure 5 
+(région 1) 
+(région 2) 
+
+Corrigé de L’épreuve de Physique - Concours Technologie – Session 2023 
+ 1/11 
+ 
+Concours Technologie 
+CORRIGÉ DE L’ÉPREUVE DE PHYSIQUE 
+ 
+ 
+Première partie : Dipôle électrique et moment dipolaire 
+Dipôle électrostatique 
+Q1.  
+Moment dipolaire électrique : 
+z
+p
+qau
+=
+ 
+Le système est invariant par rotation autour de autour de (oz) (axe du dipôle)   
+→ Le champ et le potentiel créé par le dipôle sont indépendants de l’angle  
+→ L’étude du dipôle peut se faire dans le plan méridien (
+)
+,
+,
+r
+M u u
+ 
+Q2.  
+D’après le principe de superposition, le potentiel créé par le dipôle en un point M est : 
+(
+)
+(
+)
+(
+)
+A
+B
+V M
+V
+M
+V
+M
+=
++
+ 
+(
+)
+0
+0
+0
+1
+1
+4
+4
+4
+B
+A
+B
+A
+q
+q
+q
+V M
+r
+r
+r
+r
+
+
+
+
+
+−
+
+=
++
+=
+−
+
+
+
+
+avec 
+Ar
+AM
+=
+ et 
+Br
+BM
+=
+ 
+Dans le cadre de l’approximation dipolaire (
+)
+r
+a
+
+ : 
+2
+z
+r
+a
+AM
+AO
+OM
+u
+ru
+=
++
+=
++
+ 
+2
+2
+2
+2
+2
+2
+cos
+1
+cos
+4
+4
+A
+a
+a
+a
+r
+r
+ar
+r
+r
+r
+
+
+
+
+
+=
++
++
+=
++
++
+
+
+
+
+ 
+1
+2
+2
+2
+1
+1 1
+cos
+4
+A
+a
+a
+r
+r
+r
+r
+
+−
+
+
+
+=
++
++
+
+
+
+
+1
+1 1
+cos
+2
+A
+a
+r
+r
+r
+
+
+
+
+−
+
+
+
+
+ 
+De même 1
+1 1
+cos
+2
+B
+a
+r
+r
+r
+
+
+
++
+
+
+
+
+ 
+D’où (
+)
+0
+1 1
+cos
+1
+cos
+4
+2
+2
+q
+a
+a
+V M
+r
+r
+r
+
+
+
+
+
+
+
++
+−
+−
+
+
+
+
+
+
+
+
+ 
+(
+)
+2
+2
+0
+0
+cos
+cos
+4
+4
+qa
+p
+V M
+r
+r
+
+
+
+
+
+=
+ 
+Q3.  
+Champ électrique créé par le dipôle : 
+(
+)
+(
+)
+1
+,
+r
+V
+V
+E M
+grad V r
+u
+u
+r
+r
+
+
+
+
+
+= −
+= −
+−
+
+
+ 
+(
+)
+3
+3
+0
+0
+2 cos
+sin
+4
+4
+r
+p
+p
+E M
+u
+u
+r
+r
+
+
+
+
+
+
+=
++
+ 
+(
+)
+(
+)
+3
+0
+1
+2 cos
+sin
+4
+r
+E M
+p
+u
+p
+u
+r
+
+
+
+
+=
++
+ avec 
+cos
+sin
+z
+r
+p
+pu
+p
+u
+p
+u
+
+
+=
+=
+−
+ 
+D’où 
+(
+)
+(
+)
+(
+)
+3
+0
+1
+2 cos
+cos
+sin
+cos
+4
+r
+r
+E M
+p
+p
+u
+p
+u
+p
+u
+r
+
+
+
+
+
+
+=
++
++
+−
+ 
+(
+)
+(
+)
+(
+)
+3
+3
+0
+0
+1
+1
+3 cos
+3 .
+4
+4
+r
+r
+E M
+p
+u
+p
+p u
+p
+r
+r
+
+
+
+
+=
+−
+=
+−
+ 
+Le champ électrique créé par le dipôle varie en 
+3
+1
+r  alors qu’un champ coulombien créé par une charge 
+ponctuelle varie en 
+2
+1
+r . 
+REPUBLIQUE TUNISIENNE 
+Ministère de l’Enseignement Supérieur et 
+de la Recherche Scientifique 
+ 
+Concours Nationaux d’Entrée aux 
+Cycles de Formation d’Ingénieurs  
+Session 2023 
+ 
+ 
+ 
+المناظرات الوطنية للدخول 
+إلى مراحل تكوين المهندسين 
+دورة 3
+202
+ 
+x 
+z 
+O 
+ 
+B (+q) 
+A (-q) 
+ 
+ 
+r 
+M 
+ 
+y 
+ 
+ 
+rB 
+rA 
+
+Corrigé de L’épreuve de Physique - Concours Technologie – Session 2023 
+ 2/11 
+Q4.  
+• 
+Les surfaces équipotentielles sont définies par : V
+cte
+=
+ 
+ 
+2
+0
+cos
+4
+p
+V
+cte
+r
+
+
+=
+=
+ 
+cos
+r
+K
+
+=
+ ; K est cte 
+• 
+Le champ électrique est tangent en tout point aux lignes de champ. 
+0
+E
+d
+
+=
+ 
+0
+0
+0
+0
+0
+r
+E
+dr
+E
+rd
+
+
+
+
+=
+   
+0
+r
+rE d
+E dr
+
+
+
+−
+=
+ 
+3
+3
+0
+0
+2 cos
+sin
+0
+4
+4
+p
+p
+r
+d
+dr
+r
+r
+
+
+
+
+
+
+−
+=
+ 
+ 
+cos
+2 sin
+dr
+d
+r
+
+
+
+
+=
+  
+ 
+ 
+( )
+(
+)
+ln
+2ln sin
+r
+cte
+
+
+=
++
+ 
+ 
+2
+.sin
+r
+cte
+
+
+=
+    Équation polaire des lignes de champ 
+Allure des lignes de champ et des équipotentielles 
+ 
+Polarisation par orientation 
+Q5.  
+Le barycentre des charges positives est distinct de celui des charges négatives. Il est sur la 
+bissectrice de HOH  dans la direction du vecteur unitaire u  
+→ La molécule d’eau est polaire de moment dipolaire 
+0
+p
+p u
+=
+ 
+Q6.  
+Actions du champ 
+(
+)
+0
+z
+E M
+E u
+=
+ sur la molécule d’eau : 
+• Force électrique 
+(
+)
+(
+)
+0
+0
+.
+.
+cos
+p
+F
+grad W
+grad
+p E
+grad p E
+
+= −
+=
+=
+ 
+• Un moment 
+p
+E
+=
+
+ 
+• Sous l’effet du champ électrique non uniforme créé par les charges électriques sur la surface de 
+la règle frottée, les molécules du filet d’eau sont soumises à des forces électriques de résultante 
+(
+)
+(
+)
+0.
+cos
+F
+grad p E M
+
+=
+ dirigée dans le sens de l’augmentation du champ électrique. 
+• Entre les armatures d’un condensateur plan, le champ électrique est uniforme. Par conséquent, 
+un filet d’eau entre les armatures d’un condensateur plan ne subit aucune déviation. 
+(
+)
+0
+0
+.
+cos
+0
+F
+grad p E
+
+=
+=
+ 
+Q7.  
+Le terme 
+0
+0
+exp
+cos
+exp
+p
+B
+B
+W
+p E
+k T
+k T
+
+
+
+
+
+=
+−
+
+
+
+
+
+
+
+
+ représente le facteur de Boltzmann. 
+Q8.  
+La condition de normalisation s’écrit : 
+1
+espace
+d
+=
+
+P
+  
+0
+0
+0
+exp
+cos
+2 sin
+1
+B
+p E
+C
+d
+k T
+
+
+
+
+
+
+
+=
+
+
+
+
+
+ 
+On pose 
+0
+0
+B
+p E
+u
+k T
+=
+ et t
+u cos
+=
+ ;  
+0
+0
+0
+exp
+cos
+2 sin
+1
+B
+p E
+C
+d
+k T
+
+
+
+
+
+
+=
+
+
+
+
+
+   
+(
+) (
+)
+1
+1
+2
+exp
+cos
+cos
+1
+C
+u
+d
+
+
+
+−
+−
+=
+
+ 
+2
+e
+1
+u
+t
+u
+C
+dt
+u
+
+−
+−
+=
+
+ 
+(
+)
+2
+1
+u
+u
+C e
+e
+u
+
+−
+
+−
+=   
+( )
+4
+1
+C sh u
+u
+
+
+=  
+( )
+4
+u
+C
+sh u
+
+
+=
+ 
+équipotentielles
+lignes de 
+champ
+
+Corrigé de L’épreuve de Physique - Concours Technologie – Session 2023 
+ 3/11 
+Q9.  
+Composante moyenne du moment dipolaire selon (Oz) : 
+0
+0
+0
+0
+cos . exp
+cos
+.2 sin
+z
+z
+espace
+B
+p E
+p
+p d
+p
+C
+d
+k T
+
+
+
+
+
+
+
+=
+=
+
+
+
+
+
+
+P
+ 
+( )
+0
+0
+0
+0
+0
+1
+2
+cos exp
+cos
+.sin
+e .
+2
+u
+t
+z
+u
+B
+p E
+p
+p
+p
+C
+d
+t
+dt
+k T
+u
+sh u
+
+
+
+
+
+−
+
+
+
+=
+=
+
+
+
+
+
+
+ 
+( )(
+)
+0
+e
+e .
+2 .
+u
+u
+t
+t
+z
+u
+u
+p
+p
+t
+dt
+u sh u
+−
+−
+
+
+
+=
+−
+
+
+
+ 
+( )
+(
+) (
+)
+(
+)
+0
+e
+e
+2 .
+u
+u
+u
+u
+z
+p
+p
+u
+e
+e
+u sh u
+−
+−
+
+=
++
+−
+−
+ 
+( )
+( )
+0
+0
+1
+coth
+zp
+p
+u
+p L u
+u
+
+
+
+=
+−
+=
+
+
+
+
+ avec ( )
+( )
+1
+coth
+L u
+u
+u
+=
+−
+ 
+Q10.  
+Moment dipolaire par unité de volume : 
+( )
+( )
+0
+0
+1
+coth
+z
+P
+n p
+np L u
+np
+u
+u
+
+
+=
+=
+=
+−
+
+
+
+
+ 
+Pour les basses températures 
+0
+0
+0
+0
+1
+B
+B
+p E
+k T
+p E
+u
+k T
+
+
+
+→
+=
+
+
+
+
+
+ : 
+( )
+coth
+1
+1
+0
+u
+u
+
+
+ 
+0
+P
+np
+→
+=
+ : tous les dipôles sont orientés dans la direction et le sens du champ appliqué. 
+L’énergie d’agitation thermique est négligeable devant l’énergie potentielle d’interaction champ dipôle. 
+ 
+Pour les hautes températures 
+0
+0
+0
+0
+1
+B
+B
+p E
+k T
+p E
+u
+k T
+
+
+
+→
+=
+
+
+
+
+
+ : 
+( )
+1
+coth
+3
+u
+u
+u +
+ 
+2
+0
+0
+0
+3
+3 B
+np
+u
+P
+np
+E
+k T
+→
+=
+=
+ 
+Sous l’effet de l’agitation thermique, les dipôles ont tendance de s’orienter dans toutes les directions de 
+l’espace d’une façon équiprobable. Lorsque la température augmente, le moment dipolaire par unité de 
+volume diminue. 
+Pour les hautes températures, le moment dipolaire par unité de volume est proportionnel au champ 
+électrique. 
+Q11.  
+Rayonnement dipolaire - Diffusion d’un rayonnement 
+Q12.  
+Le mouvement de la charge q est non-relativiste 
+v
+c
+→
+ 
+(
+)
+sin
+z
+dOS
+v
+a
+t u
+dt
+
+
+=
+= −
+ ;  
+max
+v
+a
+c
+
+=
+
+ 
+c
+a
+
+
+
+  
+a
+
+
+
+ 
+Q13.  
+Le plan (
+)
+,
+,
+r
+M u u est un plan de symétrie paire pour le dipôle. 
+(
+) (
+)
+(
+)
+(
+)
+(
+)
+(
+)
+,
+,
+,
+,
+,
+,
+,
+,
+r
+r
+r
+r
+E M t
+E u
+E u
+E M t
+M u u
+B M t
+B u
+B M t
+M u u
+
+
+
+
+
+
+
+
+=
++
+
+
+
+→
+→
+
+
+=
+⊥
+
+
+
+
+ 
+D’autre part, le dipôle reste invariant par rotation autour de (
+)
+Oz  
+(
+)
+,
+E M t
+→
+ et 
+(
+)
+,
+B M t  sont 
+indépendants de . 
+D’où 
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+,
+, ,
+, ,
+,
+, ,
+r
+r
+E M t
+E
+r
+t u
+E
+r
+t u
+B M t
+B
+r
+t u
+
+
+
+
+
+
+
+
+=
++
+
+=
+
+ 
+0
+0,2
+0,4
+0,6
+0,8
+1
+1,2
+0
+10
+20
+30
+40
+P/n
+u
+
+Corrigé de L’épreuve de Physique - Concours Technologie – Session 2023 
+ 4/11 
+Q14.  
+La zone de rayonnement est la zone située à très grande distance du dipôle tel que r
+OM
+
+=
+
+ 
+ 
+(
+)
+2
+2
+1
+1
+1
+1
+r
+r
+kr
+k r
+kr
+c
+
+
+→
+→
+→
+
+
+
+ 
+Par conséquent : 
+2
+2
+3
+P
+P
+P
+rc
+r c
+r
+
+
+ 
+La composante radiale du champ électrique est négligeable devant la composante orthoradiale. 
+Ainsi 
+2
+0
+0
+1
+sin
+4
+sin
+4
+P
+E
+u
+rc
+P
+B
+u
+rc
+
+
+
+
+
+
+
+
+
+
+
+ 
+2
+0
+2
+0
+2
+0
+0
+sin
+cos
+4
+sin
+cos
+4
+P
+r
+E
+t
+u
+rc
+c
+P
+r
+B
+t
+u
+c
+c
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+−
+−
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+−
+−
+
+
+
+
+
+
+
+
+
+
+ 
+Donc 
+r
+E
+B
+E
+k
+u
+c
+B
+k
+
+
+⊥
+
+⊥
+=
+
+
+
+⊥
+
+ ; 
+ru
+E
+k
+E
+B
+c
+
+
+
+=
+=
+ 
+Dans la zone de rayonnement, l’onde possède localement la structure d’une onde plane progressive.  
+ 
+Q15.  
+Vecteur de Poynting : 
+(
+)
+(
+)
+(
+)
+2
+4
+2
+2
+0
+2
+3
+2
+0
+0
+,
+,
+sin
+,
+cos
+16
+r
+E M t
+B M t
+P
+r
+M t
+t
+u
+c
+r
+c
+
+
+
+
+
+
+
+
+
+
+
+=
+=
+−
+
+
+
+
+
+
+
+
+ 
+(
+)
+2
+4
+2
+0
+2
+3
+2
+0
+sin
+,
+32
+r
+P
+M t
+u
+c
+r
+
+
+
+
+=
+ 
+Q16.  
+Intensité du rayonnement : 
+( )
+2
+4
+2
+2
+0
+0
+2
+3
+2
+0
+sin
+sin
+32
+P
+I
+I
+r
+c r
+
+
+
+
+=
+
+=
+=
+ avec 
+( )
+2
+4
+0
+0
+2
+3
+2
+0
+32
+P
+I
+r
+c r
+
+
+=
+ 
+Diagramme de rayonnement dipolaire : 
+ 
+Puissance moyenne totale rayonnée par le dipôle : 
+2
+4
+2
+2
+2
+2
+0
+2
+3
+2
+0
+0
+0
+sin
+.
+sin
+32
+sphère
+P
+P
+d S
+r
+d d
+c
+r
+
+
+
+
+
+
+=
+
+=
+
+
+ 
+2
+4
+0
+3
+0
+12
+P
+P
+c
+
+
+
+=
+ 
+Q17.  
+• Force électrique exercée par l’onde incidente sur une charge q : 
+e
+i
+F
+qE
+=
+ 
+• Force magnétique exercée par l’onde incidente sur une charge q animée d’un mouvement de vitesse 
+v  : 
+(
+)
+m
+i
+i
+F
+q E
+v
+B
+=
++
+
+ 
+Rapport des modules des forces électrique et magnétique : 
+1
+m
+i
+i
+e
+i
+i
+F
+qv
+B
+B
+v
+v
+c
+F
+qE
+E
+
+=
+
+=
+ D’où l’action du champ magnétique sur une charge non relativiste est 
+négligeable devant celui du champ électrique.  
+Q18.  
+En adoptant le modèle de l’électron élastiquement lié, l’équation du mouvement de l’électron s’écrit : 
+2
+i t
+0
+0
+m z
+m z m
+z
+eE e
+••
+•
+
++
++
+
+= −
+ 
+• 
+m z
+•
+− : Force dissipative due aux pertes d’énergie par rayonnement 
+• 
+2
+0
+m
+z
+
+−
+ : Force de rappel liant l’électron au noyau dans le modèle de l’électron 
+élastiquement lié 
+• 
+0
+i t
+eE e 
+−
+ : force électrique exercée par l’onde incidente 
+z
+՜𝑃
+
+𝐼(𝑟, 𝜃)
+
+Corrigé de L’épreuve de Physique - Concours Technologie – Session 2023 
+ 5/11 
+Q19.  
+Équation du mouvement de l’électron :  
+2
+i t
+0
+0
+m z
+m z m
+z
+eE e
+••
+•
+
++
++
+
+= −
+ 
+ 
+(
+)
+2
+2
+i t
+0
+0
+eE
+i
+z
+e
+m
+
+−+ 
+= −
+ en régime forcé 
+ 
+(
+)
+i t
+0
+2
+2
+0
+eE
+z
+e
+m
+i
+
+
+= −
+−+ 
+ 
+Moment dipolaire induit : 
+(
+)
+(
+)
+( )
+2
+0
+0
+2
+2
+0
+i t
+i t
+z
+z
+z
+e E
+p
+e
+zu
+e u
+p
+e u
+m
+i
+
+
+
+
+
+
+=
+−
+=
+=
+−
++ 
+ 
+( )
+(
+)
+( )
+2
+0
+0
+0
+0
+2
+2
+0
+e E
+p
+E
+m
+i
+
+
+
+
+
+=
+=
+−
++ 
+  avec ( )
+(
+)
+2
+2
+2
+0
+0
+e
+m
+i
+=
+
+−+ 
+ 
+Q20.  
+D’après (17.c. ), la puissance totale rayonnée par le dipôle est : 
+2
+4
+0
+3
+0
+12
+P
+P
+c
+
+
+=
+ 
+( )
+(
+)
+( )
+2
+2
+4
+2
+4
+0
+0
+0
+0
+3
+3
+0
+12
+12
+E
+E
+P
+c
+c
+
+
+
+
+
+
+
+
+=
+=
+ 
+(
+)
+(
+)
+(
+)
+4
+2
+4
+0
+2
+3
+2
+2
+2
+2
+0
+0
+12
+e E
+P
+m
+c
+
+
+
+
+
+
+=
+−
++ 
+ 
+Flux surfacique incident : 
+2
+2
+0
+0
+0
+0
+0
+0
+2
+2
+i
+i
+i
+E
+B
+E
+c E
+c
+
+
+
+
+=
+
+=
+=
+=
+ 
+Puissance totale rayonnée :  
+ 
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+( )
+4
+2
+4
+4
+4
+0
+0
+0
+2
+3
+2
+2
+4
+2
+2
+2
+2
+2
+2
+2
+2
+0
+0
+0
+0
+12
+6
+e E
+e
+P
+m
+c
+m
+c
+
+
+
+
+
+
+
+
+
+
+
+=
+=
+=
+
+−
++ 
+−
++ 
+ 
+Avec 
+( )
+(
+)
+(
+)
+(
+)
+( )
+4
+4
+4
+2
+2
+2
+4
+2
+2
+2
+2
+0
+0
+1
+6
+6
+e
+m
+c
+c
+
+
+
+
+
+
+
+
+
+
+
+=
+=
+
+
+
+
+−
++ 
+ : section efficace de diffusion 
+Q21.  
+( )
+(
+)
+(
+)
+(
+)
+4
+4
+2
+2
+4
+2
+2
+2
+2
+0
+0
+6
+e
+m
+c
+
+
+
+
+
+
+=
+−
++ 
+ 
+Pour des fréquences relativement basses (
+)
+0
+
+
+
+ ; 
+( )
+4
+4
+2
+2
+4
+4
+0
+0
+6
+e
+m
+c
+
+
+
+
+=
+ 
+La section efficace de diffusion est proportionnelle à 
+4
+ 
+Les particules de l’atmosphère excité par le rayonnement solaire se comporte comme des dipôles 
+électriques oscillants qui diffusent une puissance proportionnelle à 
+4
+. Par conséquent, la puissance 
+diffusée dans le bleu (
+)
+0,4
+B
+m
+
+
+=
+est 16 fois plus importante que dans le rouge (
+)
+0,4
+R
+m
+
+
+=
+., ce qui 
+explique la couleur bleue du ciel. 
+Q22.  
+Pour les rayons X, (
+)
+0
+
+
+
+ ; 
+( )
+4
+0
+2
+2
+4
+0
+6
+e
+cte
+m
+c
+
+
+
+
+=
+=
+=
+ 
+Dans le domaine des rayons X, la puissance diffusée est indépendante de . 
+Q23.  
+Variation de  en fonction de . 
+ 
+ 
+0
+1
+2
+3
+4
+0
+0,5
+1
+1,5
+2
+2,5
+()/
+
+max/
+r
+
+Corrigé de L’épreuve de Physique - Concours Technologie – Session 2023 
+ 6/11 
+Deuxième partie : Spectroscopie et filtrage interférentiel 
+Caractéristiques des interférences observées 
+Q24.  
+L’inclinaison  doit être faible afin de 
+satisfaire les conditions de Gauss de 
+l’optique géométrique dans le but d’obtenir 
+une figure nette sur l’écran. 
+Q25.  
+• La différence de marche entre deux vibrations successives (1) et 
+(2) est :  
+2
+1
+2
+L
+L
+AB
+AH
+=
+−
+=
+−
+ 
+2
+.sin
+cos
+e
+AC
+
+
+
+
+=
+−
+ 
+2
+2 tan .sin
+cos
+e
+e
+
+
+
+
+
+=
+−
+(
+)
+2
+2
+1
+sin
+2 cos
+cos
+e
+e
+
+
+
+
+
+=
+−
+=
+ 
+• Le déphasage φ entre deux vibrations successivement 
+transmises : 
+2
+2
+cos
+e
+
+
+
+
+
+
+
+=
+=
+ 
+Le déphasage ne dépend que de  → l’intensité lumineuse sur l’écran ne dépend que de . 
+Un ensemble de points ayant même intensité lumineuse est caractérisé par une inclinaison  constante. 
+Par conséquent, les franges d’interférence sont des anneaux circulaires concentriques. 
+Q26.  
+Les amplitudes complexes des différents rayons transmis dans la direction  : 
+(
+)
+2
+1
+2
+2
+3
+1
+1
+1
+1
+j
+j
+j n
+n
+n
+A
+A Re
+A
+A R e
+A
+A R
+e
+
+
+
+−
+−
+=
+=
+=
+ L’amplitude complexe de la vibration résultante : 
+(
+)
+1
+1
+1
+0
+Re
+1
+Re
+n
+j
+i
+j
+i
+i
+A
+A
+A
+A
+
+
+
+
+=
+=
+=
+=
+= −
+
+
+ 
+Intensité lumineuse résultante : 
+2
+2
+2
+1
+1
+1
+2
+2
+2
+1
+2 cos
+1
+2 cos
+1
+Re j
+A
+A
+I
+I
+A
+R
+R
+R
+R
+
+
+
+=
+=
+=
+=
++
+−
++
+−
+−
+ 
+(
+)
+1
+1
+2
+2
+2
+2
+1
+4 sin
+1
+2
+1
+2sin
+2
+2
+I
+I
+I
+R
+R
+R
+R
+
+
+
+=
+=
+
+
+
+
+
+
+−
++
++
+−
+−
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+(
+)
+(
+)
+1
+2
+max
+2
+2
+2
+1
+4
+1
+sin
+1
+sin
+2
+2
+1
+I
+R
+I
+I
+R
+m
+R
+
+
+−
+
+=
+=
+
+
+
+
++
++
+
+
+
+
+
+
+
+
+−
+ Avec 
+(
+)
+(
+)
+1
+max
+2
+2
+1
+4
+1
+I
+I
+R
+R
+m
+R
+
+=
+
+−
+
+
+=
+
+−
+
+ 
+Q27.  
+Les 
+anneaux 
+brillants 
+sont 
+tels 
+que : 
+ 
+2k
+
+
+=
+ 
+(
+)
+k
+
+
+=
+2
+2 cos
+2
+1
+2
+k
+k
+e
+e
+k
+
+
+
+
+
+
+=
+−
+=
+
+
+
+
+ 
+2 1
+2
+k
+k e
+
+
+
+
+
+=
+−
+
+
+
+
+ Or 
+'tan
+'
+f
+f
+
+
+
+=
+ Donc 
+'
+' 2 1
+2
+k
+k
+f
+f
+k e
+
+
+
+
+
+=
+=
+−
+
+
+
+
+ 
+2
+2
+2
+1
+'
+k
+k
+f
+e
+
+
++
+−
+=
+  
+(
+)
+2
+1
+1
+'
+k
+k
+k
+k
+f
+e
+
+
+
+
+
++
++
+
+−
+=
++
+  
+Au fur et à mesure qu’on s’éloigne du centre, les anneaux se resserrent. 
+e 
+θ 
+(E) 
+(L) 
+f ' 
+M 
+e 
+θ 
+A 
+B 
+C 
+H 
+θ 
+(1) 
+(2) 
+
+Corrigé de L’épreuve de Physique - Concours Technologie – Session 2023 
+ 7/11 
+Q28.  
+Contraste :  
+max
+min
+max
+min
+I
+I
+C
+I
+I
+−
+=
++
+ avec 
+max
+min
+1
+I
+I
+m
+= +
+ 
+ 
+ 
+1
+1
+1
+1
+1
+1
+m
+C
+m
+−+
+
+=
++ +
+ 
+2
+2
+2
+1
+m
+R
+C
+m
+R
+
+=
+=
++
++
+ 
+• Si 
+0
+R →
+ ; 
+0
+C →
+ 
+• Si 
+1
+R → ; 
+1
+C → 
+R 
+0,04 
+0,8 
+0,95 
+C 
+0,08 
+0,975 
+0,998 
+• Avec des surfaces non traitées (R=0,04), les franges ne sont pas bien visibles (figure brouillée) 
+•  Avec des surfaces traitées (
+)
+0,8
+R 
+ ; les anneaux d’interférence sont bien contrastés 
+Q29.  
+Les anneaux se resserrent en s’éloignant du centre 
+Q30.  
+max
+2
+I
+I =
+  
+max
+max
+2
+2
+1
+sin
+2
+I
+I
+m
+
+
+=
+
+
++
+
+
+
+
+  
+2
+1
+sin
+2
+m
+
+
+
+
+=
+
+
+
+
+ 
+Au voisinage d’un maximum d’ordre k ; 
+1/2
+2
+2
+k
+
+
+
+
+=
+
+ 
+2
+1/2
+1
+sin
+4
+k
+m
+
+
+
+
+
+
+=
+
+
+
+
+  
+1/2
+1
+4
+m
+
+
+
+ 
+(
+)
+1/2
+2 1
+4
+R
+m
+R
+
+−
+
+=
+  
+D’autre part 
+2
+2
+2
+2
+4
+4
+4
+cos
+1
+1
+2
+2
+'
+e
+e
+e
+f
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=
+=
+=
+−
+=
+−
+
+
+
+
+
+
+
+
+ 
+2
+4
+'
+e
+d
+d
+f
+
+
+
+
+
+
+=
+  
+1/2
+1/2
+2
+4
+'
+e
+f
+
+
+
+
+
+
+=
+
+  
+2
+2
+1/2
+1/2
+'
+' 1
+4
+2
+f
+f
+R
+e
+e
+R
+
+
+
+
+
+
+−
+
+=
+
+=
+ 
+Q31.  
+(
+)
+1/2
+2 1
+R
+R
+
+−
+
+=
+ 
+La finesse de l’appareil est :
+1/2
+2
+F
+
+
+= 
+ 
+1
+R
+F
+R
+
+
+=
+−
+ 
+En augmentant R , la finesse de l’appareil augmente. 
+• 
+Pour 
+1
+R  ; F
+R
+
+=
+ 
+• 
+Pour R  proche de 1 ; 
+1
+1
+F
+R
+
+=
+
+−
+ 
+A.N : pour 
+0,95
+R =
+ ; 
+61,2
+F =
+ 
+L’interféromètre de Michelson est un dispositif interférentiel à deux ondes. 
+L’intensité lumineuse qui résulte de la superposition des deux ondes est : 
+( )
+(
+)
+0
+2
+1
+cos
+I
+I
+
+
+=
++
+ 
+max
+0
+4
+I
+I
+I
+=
+=
+ 
+2k
+
+
+
+=
+ ; k 
+ ; ( )
+m
+I
+2
+ax
+I =
+1/2
+cos 2
+0
+2
+k
+
+
+
+
+
+
+
+=
+
+
+
+
+1/2
+
+
+
+=
+ 
+D’où la finesse de l’interféromètre de Michelson : 
+1/2
+2
+2
+61
+F
+
+
+=
+=
+
+
+ 
+Les anneaux obtenus par le dispositif de Fabry – Perot sont beaucoup plus fins que ceux obtenus par 
+l’interféromètre de Michelson. 
+0
+0,2
+0,4
+0,6
+0,8
+1
+1,2
+0
+0,02
+0,04
+0,06
+0,08
+I/Imax
+(m)
+0
+0,2
+0,4
+0,6
+0,8
+1
+1,2
+0
+0,5
+1
+C
+R
+
+Corrigé de L’épreuve de Physique - Concours Technologie – Session 2023 
+ 8/11 
+Spectroscopie interférentielle - Pouvoir de résolution 
+Q32.  
+L’intensité est maximale (
+)
+max
+I
+I
+=
+ pour 
+2k
+
+
+=
+ (
+)
+k
+
+
+=
+ avec k 
+ 
+k
+
+
+=
+ 
+2 cos
+e
+k
+
+
+
+=
+ 
+ 
+2
+2
+'2
+2
+1
+2
+1
+2
+2
+e
+e
+k
+f
+
+
+
+
+
+
+
+
+−
+=
+−
+=
+
+
+
+
+
+
+
+
+ 
+ 
+'2
+2 e
+d
+kd
+f
+
+
+
+
+=
+  
+'2
+2
+f
+k
+e
+
+
+
+
+
+=
+ 
+Q33.  
+1/2
+
+
+
+
+ 
+'2
+2' 1
+2
+2
+f
+f
+R
+k
+e
+e
+R
+
+
+
+
+
+−
+
+
+   
+1
+R
+k
+kF
+R
+
+
+
+
+
+=
+
+−
+ 
+Les deux raies sont vues séparées à l’ordre k si et seulement si 
+min
+kF
+
+
+
+
+
+= 
+ 
+Pouvoir de résolution : 
+min
+1
+R
+R
+kF
+k
+R
+
+
+
+=
+=
+=
+
+−
+ 
+La résolution est maximale pour 
+max
+k
+k
+=
+  2 cos
+e
+
+
+
+
+
+
+
+
+ est max 
+0
+
+ 
+max
+2e
+k
+ 
+Donc la résolution au voisinage du centre de la figure d’interférences 
+Q34.  
+Pour 
+0,1
+e
+mm
+=
+ et 
+60
+F =
+ ; 
+min
+kF
+
+
+
+=
+ 
+Au voisinage du centre 
+min
+max
+k
+F
+
+
+
+=
+ avec 
+max
+2e
+k
+
+
+
+
+
+
+
+ 
+2
+min
+2eF
+
+
+
+=
+ 
+A.N : 
+min
+0,029nm
+
+
+ 
+Pour le doublet du sodium : 
+2
+1
+min
+0,6nm
+
+
+
+
+
+=
+−
+=
+
+. Donc ce doublet est résolu. 
+Q35.  
+Pour les dispositifs interférentiels à deux ondes, la finesse est 
+2
+F =
+ qui très inférieure à celle de la cavité 
+étudiée. D’où le pouvoir de résolution pour un dispositif interférentiel à deux ondes est relativement 
+faible 
+Filtre interférentiel 
+Q36.  
+Différence de marche : 
+2ne
+=
+ 
+Déphasage : 
+2
+4 ne
+
+
+
+
+
+=
+=
+ 
+Q37.  
+• 
+L’interférence est constructive si et seulement si : 
+k
+
+
+=
+ ; 
+*
+k 
+ 2ne
+k
+=
+ 
+• 
+Dans le cas d’une cavité électromagnétique résonante de largeur e : 
+Le champ électrique est tel que :   
+(
+)
+(
+)
+0,
+,
+0
+E
+t
+E e t
+=
+=
+ 
+sin
+0
+e
+c
+
+
+
+
+=
+
+
+
+
+ 
+2
+e
+k
+
+
+
+
+=
+ 
+2e
+k
+
+=
+ ; 
+*
+k 
+ (
+)
+2
+;
+1
+ne
+k
+n
+
+=
+=
+ 
+Q38.  
+Une longueur d’onde 
+k
+ ne sera transmise que si elle donne des interférences constructives 
+ 
+2
+k
+ne
+k
+
+=
+ 
+2
+k
+ne
+k
+
+
+=
+  
+or 400
+750
+k
+nm
+
+
+
+ 
+ 
+2
+400
+750
+ne
+nm
+k
+
+
+
+  
+2
+2
+750
+400
+ne
+ne
+k
+
+
+
+  
+1,27
+2,39
+2
+k
+k
+
+
+
+
+=
+ 
+Donc 
+2
+k
+ne
+
+
+=
+=
+  A.N : 
+2
+479,5nm
+=
+ qui correspond à une radiation bleue 
+Le filtre ne laisse passer que les raies 
+k
+ donnant des interférences constructives à la sortie de la lame. 
+Le filtrage est basé sur le phénomène d’interférences. D’où le nom de filtrage interférentiel. 
+(1) 
+(2) 
+e 
+
+Corrigé de L’épreuve de Physique - Concours Technologie – Session 2023 
+ 9/11 
+Q39.  
+• La bande passante du filtre est défini par l’intervalle 
+
+1
+2
+,
+
+ tel que : 
+ 
+(
+)
+(
+)
+max
+1
+2
+2
+I
+I
+I
+
+
+=
+=
+ 
+(
+)
+1/2
+2 1
+4
+R
+m
+R
+
+−
+
+=
+  or 
+4
+2
+e
+k
+
+
+
+
+=
+=
+ au voisinage du centre ;(
+)
+2
+k =
+ 
+ 
+d
+d
+
+
+
+
+
+= −
+1/2
+2k
+
+
+
+
+
+
+
+
+
+
+=
+=
+  
+1/2
+2k
+kF
+
+
+
+
+
+
+
+=
+=
+  
+A.N :   
+479,5
+3,9
+2
+61
+nm
+
+
+=
+=
+
+   
+• La longueur de cohérence 
+c  est : 
+2
+c
+c
+
+
+
+=
+=
+
+
+  
+5
+5,9.10
+c
+m
+−
+=
+ 
+Q40.  
+En doublant l’épaisseur de la lame (
+)
+'
+2
+e
+e
+=
+ et en faisant le même raisonnement que celle de la question 
+(Q38), on obtient : 2,54
+4,8
+k
+
+
+ 
+Il y a deux valeurs possibles de k (3 et 4), ce qui correspond aux radiations de longueur d’onde 
+3
+639,3nm
+=
+(rouge) et 
+4
+479,5nm
+=
+(bleu). 
+ 
+Troisième partie : États stationnaires d’une particule quantique 
+Préliminaire 
+Q41.  
+• La fonction d’onde d’une particule est une représentation mathématique de l’état quantique de la 
+particule. Elle représente l’amplitude de probabilité de présence de la particule.  
+• La densité de probabilité de présence de la particule est le carré du module de la fonction d’onde 
+(
+)
+(
+)
+(
+)
+(
+)
+2
+*
+,
+,
+,
+,
+x t
+x t
+x t
+x t
+
+= 
+= 
+
+. 
+• La fonction d’onde qui résulte de la superposition de deux états stationnaires (1) et (2) est : 
+1
+2
+= +   
+La densité de probabilité est : 
+(
+)
+2
+2
+2
+2
+*
+1
+2
+1
+2
+1
+2
+1
+2
+2Re
+
+
+
+= 
+= + 
+= 
++ 
++
+
+
++
+ 
+Le principe de superposition n’est pas applicable pour . 
+Q42.  
+La fonction d’onde qui décrit l’évolution d’une particule dans un état stationnaire
+(
+)
+( ) ( )
+,x t
+x f t
+
+
+=
+. 
+L’équation de Schrödinger s’écrit : 
+( )
+( )
+( ) ( ) ( )
+( )
+( )
+2
+2
+2
+2
+d
+x
+df t
+f t
+V x
+x f t
+i
+x
+m
+dx
+dt
+
+
+
+−
++
+=
+ 
+( )
+( )
+( )
+( )
+( )
+2
+2
+2
+1
+1
+2
+d
+x
+df t
+V x
+i
+m
+x
+dx
+f t
+dt
+
+
+−
++
+=
+ 
+( )
+( )
+( )
+( )
+( )
+2
+2
+2
+1
+2
+1
+d
+x
+V x
+E
+m
+x
+dx
+df t
+i
+E
+f t
+dt
+
+
+−
++
+=
+
+
+
+
+=
+
+ ;  
+E est une constante homogène à une énergie 
+( )
+E
+i
+t
+i t
+f t
+Ae
+Ae
+
+−
+−
+
+=
+=
+ ; A est une constante qu’on peut choisir égale à 1 et 
+(
+)
+E E
+
+
+=
+=
+  
+Densité de probabilité de présence : 
+(
+)
+( )
+( )
+2
+2
+,x t
+x
+x
+
+
+
+= 
+=
+=
+ 
+La densité de de probabilité de présence est indépendante du temps d’où la dénomination d’état 
+stationnaire.  
+Q43.  
+Dans le cas d’une particule libre 
+0
+V =
+ ; ( )
+x
+
+ est solution de l’équation : 
+( )
+( )
+2
+2
+2
+2
+0
+d
+x
+mE
+x
+dx
+
+
++
+=
+ 
+Cette équation s’écrit sous la forme : 
+( )
+( )
+2
+2
+2
+0
+d
+x
+k
+x
+dx
+
+
++
+=
+ ; 
+2
+2
+2mE
+k =
+ 
+Cette équation n’a de solution acceptable que lorsque 
+0
+E 
+. La solution de cette équation différentielle 
+est de la forme : ( )
+ikx
+ikx
+x
+Ae
+Be
+
+−
+=
++
+ .d’où La fonction d’onde : 
+(
+)
+(
+)
+(
+)
+,
+i kx
+t
+i kx
+t
+x t
+Ae
+Be
+
+
+−
+−
++
+
+=
++
+ ; 
+E
+=
+ 
+Il s’agit d’une superposition de deux ondes planes progressive et monochromatique. La première se 
+propage dans le sens des x croissants et la deuxième se propage dans le sens des x décroissants.  
+Le potentiel est nul 
+0
+V =
+. L’énergie de la particule se réduit à son énergie cinétique. 
+2
+2
+2
+2
+2
+p
+k
+E
+m
+m
+=
+=
+ 
+h
+p
+k
+
+
+=
+=
+ : Relation de Louis De Broglie 
+
+Corrigé de L’épreuve de Physique - Concours Technologie – Session 2023 
+ 10/11 
+Q44.  
+Cette fonction d’onde n’est pas normalisable. En effet : 
+2 dx
++
+−
+
+ diverge 
+Une onde plane ne peut pas représenter l’état d’une particule réelle. On représente alors l’état d’une 
+particule par un paquet d’ondes sous forme d’une combinaison linéaire d’Ondes Planes Progressives et 
+Monochromatiques. 
+Q45.  
+Longueur d’onde associée à l’électron : 
+2
+h
+h
+p
+mE
+=
+=
+ avec E
+eU
+=
+  
+Donc 
+2
+h
+meU
+=
+ 
+A.N : 
+0,39A
+=
+ cette longueur d’onde est de l’ordre des dimensions des atomes. On peut envisager la 
+diffraction d’un faisceau homocinétique d’électrons sur un cristal (expérience de Davisson et Germer 1927) 
+Falaise de Potentiel 
+Q46.  Une particule classique ayant une énergie 
+0
+E 
+ ne peut que traverser la falaise pour passer dans la région 
+2 et continuer son mouvement dans le sens des x croissants. 
+Q47.  
+L’équation différentielle vérifiée par ( )
+x
+
+ s’écrit sous la forme générale : 
+( )
+( )
+(
+) ( )
+2
+2
+2
+2
+d
+x
+m E
+V x
+x
+dx
+
+
+= −
+−
+ 
+Soit : 
+( )
+( )
+( )
+(
+)
+( )
+(
+)
+( )
+( )
+(
+)
+2
+1
+2
+1
+1
+1
+2
+2
+2
+2
+0
+2
+2
+2
+2
+2
+2
+2
+1
+2
+2
+d
+x
+mE
+x
+k
+x
+région
+dx
+d
+x
+m E
+V
+x
+k
+x
+région
+dx
+
+
+
+
+
+
+
+= −
+= −
+
++
+
+= −
+= −
+
+ avec 
+(
+)
+1
+0
+2
+2
+2
+mE
+k
+m E
+V
+k
+
+=
+
++
+
+=
+
+ 
+Les solutions de ces équations différentielles sont de la forme : 
+( )
+(
+)
+(
+)
+(
+)
+( )
+(
+)
+(
+)
+(
+)
+1
+1
+1
+1
+1
+2
+2
+2
+2
+2
+exp
+exp
+1
+exp
+exp
+2
+x
+A
+ik x
+B
+ik x
+région
+x
+A
+ik x
+B
+ik x
+région
+
+
+
+=
++
+−
+
+=
++
+−
+
+ 
+La fonction d’onde 
+(
+)
+(
+)
+2
+2
+exp
+B
+i k x
+t
+
+−
++
+ caractérise une onde qui se propage dans le sens des x négatifs.  
+En absence de particule provenant de +, l’onde associée à la particule ne peut se propager que dans le 
+sens des x positifs. 
+2
+0
+B
+
+=
+ 
+Q48.  
+Continuité de la fonction ( )
+x
+
+ et de sa dérivée en 
+0
+x =
+. 
+(
+)
+1
+1
+2
+1
+1
+1
+2
+2
+A
+B
+A
+k
+A
+B
+k A
++
+=
+
+−
+=
+
+ 
+1
+1
+2
+1
+1
+2
+2
+1
+1
+1
+2
+2
+B
+k
+k
+r
+A
+k
+k
+A
+k
+t
+A
+k
+k
+−
+=
+=
+
++
+
+
+=
+=
+
++
+
+ 
+0
+0
+0
+1
+1
+1
+1
+2
+1
+1
+V
+E
+r
+V
+E
+t
+V
+E
+
+−
++
+
+=
+
++
++
+
+
+
+=
+
++
++
+
+ 
+Dans la région (1), la particule est caractérisée par une fonction d’onde qui résulte de la superposition 
+d’une onde incidente et une onde réfléchie. 
+Q49.  
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+1
+1
+1
+1
+2
+2
+,
+exp
+,
+exp
+,
+exp
+i
+r
+t
+x t
+A
+i k x
+t
+onde incidente
+x t
+B
+i k x
+t
+onde réfléchie
+x t
+A
+i k x
+t
+onde transmise
+
+
+
+
+=
+−
+
+=
+−
++
+
+
+=
+−
+
+ 
+Densités de courant de probabilité : 
+(
+)
+2
+2
+1
+1
+1
+2
+2
+2
+2
+1
+1
+1
+2
+1
+1
+1
+1
+2
+2
+2
+2
+2
+2
+2
+1
+2
+2
+1
+2
+1
+2
+4
+i
+i
+r
+r
+t
+t
+k
+k
+J
+A
+m
+m
+k
+k
+k
+k
+k
+J
+B
+A
+m
+m
+k
+k
+m
+k
+k
+k
+k
+J
+A
+A
+m
+m
+m
+k
+k
+
+
+= 
+=
+
+
+
+
+−
+
+= −
+= −
+= −
+
+
+
++
+
+
+
+
+
+= 
+=
+=
+
++
+
+ 
+
+Corrigé de L’épreuve de Physique - Concours Technologie – Session 2023 
+ 11/11 
+Probabilité de réflexion :  
+2
+2
+1
+2
+1
+2
+2
+1
+2
+1
+r
+i
+J
+B
+k
+k
+R
+r
+k
+k
+J
+A
+
+
+−
+=
+=
+=
+= 
+
++
+
+
+ 
+2
+2
+0
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+V
+u
+E
+R
+V
+u
+E
+
+
+
+
+−
++
+−
++
+
+
+
+
+
+
+
+
+
+=
+=
+
+
+
+
++
++
++
++
+
+
+
+
+
+
+
+
+ 
+Pour 
+0
+u →
+ ; 
+1
+R → : la particule reste dans la région 1 
+Pour u → ; 
+0
+R →
+ : la particule passe dans la région 2 
+Pour 
+0
+E
+V
+
+ ;  
+1
+u  
+2
+2
+2
+0
+2
+2
+1
+1
+1
+1
+1
+1
+1
+2
+1
+16
+16
+1
+1
+1
+1
+1
+2
+V
+u
+u
+R
+u
+E
+u
+u
+
+
+
+
+
+
+−
++
+−
++
+
+
+
+
+
+
+
+
+
+
+
+
+→
+=
+=
+
+
+
+
+
+
++
++
++
++
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Q50.  
+2
+1
+a
+b
+b
+a
+R
+m
+R
+m
+
+
+=
+
+
+
+
+
+ pour 
+a
+b
+m
+m
+
+ la probabilité de réflexion dépend de la masse de la particule.  
+En envoyant un faisceau de particules de masse m, le faisceau de particules réfléchi est plus riche en 
+particules de faible masse. En répétant l’expérience plusieurs fois, on arrive à séparer les deux types de 
+particules. 
+Si les particules proviennent depuis la région 2, on obtient la même probabilité de réflexion. 
+ 
+0
+0,2
+0,4
+0,6
+0,8
+1
+1,2
+0
+0,5
+1
+1,5
+2
+u
+R

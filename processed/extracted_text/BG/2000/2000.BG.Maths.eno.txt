@@ -1,0 +1,39 @@
+--- page 1 ---
+Epreuve de Mathématiques 2000
+REPUBLIQUE TUNISIENNE
+Ministère de /Enseignement Supérieur
+  Concours Nationaux dEntrée aux (prepara7   Cycles de Formation dIngénieurs (UuP toire Session : Juin 2000  (Geedfkesûe } 5  4 etudes 5 04gmss' Concours en Biologie et Géologie Epreuve de Mathématiques
+Duréc 3 H
+Date 5 Juin 2000
+Heure 8 H
+Nb pages 3
+Barème : Es: 4 pts; Pb J: I : 2 pts; I: 3 pts; I : 3 pts Pb 2; I : 2 pts ; I: 2pts;I: 4 pts
+Une grande importance sera attachée à la rigueur du raisonnement; à la clarté et soin de la présentation 1cst rappelé que tout résultat énoncé dans le texte peut être utilisé pour traiter la suite, même s'il n'a pu être démontré
+L usage des calculatrices est strictement interdit.
+ ` EXERCICE Soit f 1endomorphisme de IR' dont la matrice par rapport à la base canonique B = e1,e2,e3) de IR' est donnée par 4 2 A = 2 3 2
+=3 =1
+ 
+1) Montrer que f est un automorphisme de IR? 2) Vérifier que A-6A 3 2+1lA 46 I, = 0 I3 désigne Videndité de IR' En déduire A-'  . 3) Soit V1 = e1+ €2 ~2e3- Calculer fV1). Que peut-on conclure? 4) Déterminer le polynôme caractéristique de la matrice A  5) Déterminer en utilisant 3) les valeurs propres et les vecteurs propres de la matrice A En déduire que A est semblable à une matrice diagonale.
+ .
+
+--- page 2 ---
+Epreuve de Mathématiques 2000  `   
+PROBLEME 1
+Partic I Soit R un réel positif et D() la partie de IR? définie par D(R) = {(x,y) eIR? / x? +y? < R?} 1) Calculer lintégrale double I(R) = JfcR) exp(-(x' + y'))&rdy 2) Montrer   alors que l'intégrale Jfæ: exp(-(Y_ + y?))bdy =1
+3) En déduire que l'intégrale
+Jr exp(-Y)& = vr RR
+Partie I On considère le couple de variables aléatoires X et Y dont la densité de probabilité est donnée par la fonction fx,y) définie sur IR? par fxy) = exp( (œx?+ By))) où & et B sont des réels stictement positifs. 1) Montrer que les réels a et B vérifient la relation aB = 12 2) Calculer lespérance mathématique E(XY) du couple (X Y) 3) Déterminer les densités marginales fx{x) et fxly) des variables aléatoires X et Y. 4) Calculer ECX), E(Y); VCX),V(Y), Que peut-on dire des deux variables aléatoires X et Y?
+Partie II Dans cette partie on prend a=B, et on considère la suite (X,) n de variables aléatoires X.de même densité que la variable aléatoire X citée dans la partie I Pour n € IN*, on pose Xu + Xz + L+X Z 2 n 1) Déterminer à. 2) Calculer E(Z ) et V(Z ) 3) Soit a un réel strictement positif a) En utilisant [inégalité de Tcheybechev montrer que PÙZ, ~E(ZJ|za)< A(n) où A(n) est une fonction de n à déterminer. b) En déduire que Pdz,~ E(Z)| 2a) tend vers 0 lorsque n tend vers + %
+PKQBLEMEI
+Lebut de ce problème est de calculer la somme de la série de terme général U,' n € IN définie par cos(m) (1) U,= [ dx 0 1+1 _21 cos x
+où 1 e RR 0 <1 < 1.
+2
+
+--- page 3 ---
+Epruve de Mathématiques 2000
+Partic I 1) Montrer que Un est bien définie 2) a) Montrer que pour tout a > 0, on a 4+o dt 30 a2 +t2
+1 2a b) En effectuant le changement de variables t = tg ( en déduire que T Uo = 1 - 12 3) Montrer que (1+ 22)Uo -21U, = T en déduire la valeur de U 
+Partie I Dans cette partie on veut établir une relation de récurrence liant les termes Ua-1, Ua-2 et Uz:
+1) Déterminer deux réels 2 et b teis que pour tout x € [ O,r], on a : coS X 6 =a+ 1+2 22 cos x 1+2 _ 21 cos x 2) Montrer que pour n 2 2, on a cos((n-I)x) cosx Un +Un-2 =25 d 1+22 _21 cosx 3) En déduire que pour tout n 2 2, on a 1+2 Un +Un-2 = Un-1 1 Partie I
+1+22 Soit E = { (Va) aeN / Vo et V, données; V n 22, V +Vn 4-2 = Vr 1 1) Montrer que E est un sous-espace vectoriel de [espace vectoriel des suites réelles. 2) On considère la suite numérique (V.) n € N de terme général Va = r. Montrer que si (Va) ne N € E, alors r vérifie une équation du second dégré dont les racines seront notées F1 et F2. 3) Montrer que les deux suites ( r") eN et (r )a € N forment une famille libre de E. On suppose qu' elles forment une base de E. 4) a) Montrer que la suite (U.) n € N dont le terme général est donnée par (1) appartient à E et qu'il existe deux réels k1, kze RR tels que U = k1r" + kzrz b) Calculer kiet kz et en déduire que pour tout n € IN; on a RX U = 1 -22 c) Calculer Zu n2o
+3

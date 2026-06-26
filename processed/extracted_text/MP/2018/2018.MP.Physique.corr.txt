@@ -1,0 +1,715 @@
+1-
+1-
+2-
+Etude des trous d'Youn2 
+Corrigé MP Physique 
+Problème 1 (35 pts) 
+Deux sources indépendantes sont incohérentes car la différence de phase entre les deux ondes dépend 
+du temps et par conséquent on ne peut pas obtenir un phénomène d'interférences 
+C'est un dispositif à division de front d'onde car il sépare spatialement le faisceau provenant de la 
+source principale en deux faisceaux. 
+· 
+b-L'inte~ité au pointM est I = §..§.* = s; [1+~-1ip][i+lf"]=210 [l+cosrp] 
+c- La différence de marche 8 = (S2M)-(S1M)= ax donc rp= 2m5 = Ztrax 
+1 
+1 
+1 
+1 
+1 
+D 
+Â 
+:W 
+; 
+·········--··1=:,d:.==I,ë=s==uan=g=e=s=-a~fin:=t=ern=ere=n=·c,-,,:.e=s··==so=n=t::;:des=s=egm=en""··=1s=a;:::e:::,;_dr;::o::;ife=p==ïir=·il:::-:l:::::efi:::::ës=a=·::::'.:r=ax=e=o~·y:::::_èar=·=tr1=ne=d~.èp=·=ën=-ra=qu=·=e=a=e=r-.=. =:f=i.·-··················-·-·. '. 
+3-
+5-
+"j,.: 
+X. 
+e- Franges brillantes : J = 111UJX = 410 ➔ rp=2ntr avec n eZ d'où xn = nÂD Franges obscures : 
+a 
+I = Iwm = O ➔ rp=(2m+I)tr avec meZ d'où :x"' (Zm+l)ÂD. 
+2a 
+. 
+. 
+ÂD 
+. 
+J..,D 0.510-3 .103 l 
+f-
+L'mterfrange l = xn+1-xn =-.AN: l =--=·----·= mm 
+a 
+a 
+QS 
+g- La frange centrale est caractérisée par 8 = 0 ➔ 
+x = 0 . C'est une frangé brillante . 
+. La :füru.re res~ µic~g~e çar 1~. différeilce c:le marche est incharu!:ée. 
+. ............ . 
+La fente fine peut être assimilée à une infinité de sources ponctuelles dont chacune va donner la même 
+figure d'interférences par conséquent les intensités vont s'ajouter. Il en résulte alors une augmentation 
+de la luminosité des franges brillantes. 
+a-
+8'= (S'S2M)--,-(S'S1M)=ax + ax'. La frange centrale ~sttel que ô = 0 ➔ x0 =- Dx' 
+D 
+d 
+d 
+brillantes: 
+8= nÂ= axn + ax' => x =nJ,,D - x'D d'où 
+l'interfrange 
+..... ~ F~g~ . 
+.. .. 
+.. ··•·-··· .. D .. _ .d 
+.n 
+.a.. 
+d 
+··········· -
+i'=xn+i -Xn = ÂD . Le déplacement de la source S ne modifie pas la valeur de l'interfrange mais 
+a 
+seulement la position de la frange centrale. Le déplacement de la source S suivant la direction des 
+x déplace en bloc la figure d'interférence dans le sens opposé. 
+1 
+1 
+1 
+1 
+1 
+1 
+2 
+1 
+·r··· 
+1 
+II-
+Influence de la lar2eur de la fente source : Cohérence spatiale 
+7-
+a-la fente de largeur e contribue par une intensité lumineuse 10 donc la fente élémentaire de largeur 
+dx' 
+"b 
+· 
+· ' él' 
+· 
+d'I 
+1 dx' 
+E 
+tili" 
+t (3 b 
+t 5 ) 
+1 
+· 
+· va contri uer par mtens1te 
+ementalre 
+O = 0 -· -
+• 
+n u 
+san: 
+· -
+· e · a : 
+· 
+e 
+dx' 
+2rcr5' 2rc a.x ax' 
+dl=2dl0 [1+cosq,]=210 [l+cosrp]7 avec q,=2
+=;:(D + D.)• 
+1 
+b- l'intensité 
+totale 
+I 
+au 
+point 
+M: 
+1 
+C 
+2 
+21t a.x a:x' 
+dx' 
+I= J 2Jo[l+cos(-y(D +7))]T 
+C 
+2 
+J,,d 
+z 
+1 
+
+I = 2/0[l+V(.C)cos(2;;)], V(C)=sinc(;:/). V(t) est le facteur visibilité. 
+c-
+. Pour C ➔O on al ➔ 
+210[1 +cos(2;;)] on retrouve l'intensité d'une fente très fine. 
+1 
+1 
+1 
+e- La longueur de cohérence spatiale est Ls = e 
+O = Mi 
+A.N. : Ls = 0.5 mm 
+1 
+! 
+...... ·---·------------·-·-··-----a··--------·-··--·-·-·--·----·· -·-·--·············--·--·r-
+f-
+V( f, = L_.)=0 ➔ I = 210 Ainsi on obtient un éclairement uniforme de l'écran. Brouillage des 
+franges d'interférences. 
+m-
+Influence de la la11?eur spectrale d'une raie : Cohérence temporelle 
+8-
+f,
+vz 
+. 
+2trôv dv 
+· . 
+trôlw 
+2trôv0 
+a- l= 
+210[l+cos(-)]-. =210[.l+smc( .. )cos(------)]· 
+v1 
+c 
+.6.v . 
+c 
+c 
+21rôv 
+. 
+trôAv -
+1rô.6.v 
+1=210[l+V(P)cos( 
+0 )] ➔ V(P)=smc(--) et P'=---
+c 
+.. 
+C 
+C 
+b- Si .6.v ➔O V(,B)=sinc(trô/w) ➔1, onQbtient: I =2/ofl+cos(2trôvo)], on retrouve 
+C 
+. 
+;. 
+. 
+. 
+. 
+C 
+l'e~essionde i•intën;ité pour~~;hl~·;_onochr~~tiq~~·--··· ... --,·····-··----· ····--··- ------·-- --···· .. 
+~ V(,8)=0 ➔ P'=ntr , neff 
+1.2 V(fl'.)r-- •• 
+· 
+; 
+: 
+l 
+: 
+, 
+, 
+. ·001.s.·60 :s:~:i.:.••··.--_·_--_·_·.·_:.·_.;_:.··.··.·.---... ·· .... i:!'.· ............. i,: 
+! 
+. 
+. 
+1. . 
+. ~.: ... \ 
+............ : 
+.............. ; .............. ) .............. ; 
+:; :~.·~:::·. ~\li.:L~·-·•:b:i_j ..... -.:·=:·:·~J::~13:l ... 
+o.o 
+, 
+~ A 
+i ~·····r··---7 
+-0.2~===-=======a==='=='===' 
+. 
+. 
+··c .. 
+d- La première valeur qui annule V(P) est P' = tr ➔ Lt = ô =-. . 
+. . 
+. .6.v 
+e- Pourlah1mièreblancheonâ .ô.V=V1-V2=...:.. 
+C 
+c(À.z.,.;Âi) .··. 
+Âi 
+Âi 
+Âi~ 
+AN: Pour la lumière blanche .6. v =3, 75 1014 Hz et · Lt == ô =~=0,8µm .-Pour le laser 
+..... ·. 
+Av 
+C 
+3108 
+-
+· 
+·· 
+-
+Lt =-=-8-= 3 m . Plus Av augmente plus la longueur de cohérence temporelle Lt diminue. 
+Av 
+10 
+La longueur de cohérence la plus grande est c'est celle qui correspond aux raies les plus 
+monochromatiques tel que les lasers. 
+Il est difficile d'observer le phénomène d'interférence avec la lumière blanche alors que c'est facile 
+avec le laser. 
+J..D' 
+C 
+f- Il faut que f.< C0 =-- et Av<-. 
+a 
+ô 
+2 
+1 
+!. 
+,. 
+; 
+2 
+0,5 
+1 
+1 
+1 
+1 
+1 
+
+Problème 2 ( 65 pts) 
+1-
+Partie préliminaire 
+1-
+p( x) = j'P(x,t)!2 est la densité de probabilité de présence de la particule. La probabilité de trouver la· 
+l 
+-
+1 
+particule dans l'espace tout entier est égale à 1 donc: f_, l'P(x,t)j
+2 dx =1. l'I'(x,t)I est [ï . 
+1 
+a-On a p( x) = j"I'(x,t}l2 = jq,<x}j2 est indépendant du temps donc l'état est stationnaire. La fonction 
+1 
+li
+2 d
+2 (x) 
+1 
+f/J vérifie l'équation: --
+<p 2 + V(x) <p(x) = E<p(x) 
+2m dx 
+b- Si V(x) = Va l'équation devient: d
+2
+<p~x) + 2~ ( E-Va) <p(x) = 0 
+dx 
+h 
+2-
+• Si E > Va la solution de cette équation est de la forme q,( x} = Aeikx + Be-ikx oùAetB 
+1 
+·--·--· -·- •••-•-~----- -•--• •• -• •-••-h••••----•--•-•-
+----·-----
+-~------,.·--··-.. --- ---------
+. 2m E-V. 
+deux constantes complexes et k = ✓ ( n2 °) 
+----------- ····r 
+• Si E < Va la solution est de la forme <p(x) =A' éx + B 'e-qx , où A ' et B' deux constantes 
+1 
+complexes et q = ~ '2m(Va~E) 
+--
+-
+-
+.. 
+.. 
+,? 
+Il- Particule Libre 
+3-
+2 
+La particule est libre donc· V (x)= 0 , sein énergie totale est égale son énergie cinétique E = Ec = f 
+m 
+1 
+4- .. 
+. q,( X) ..... Aeiix + Be ~ikx a~e~ A-e~ B ~ux coris~tes ~omplexes et i ===· 1
+21: ' 
+on a 
+. - . 
+1 
+_,!, 
+E 
+E 
+-i(-t-kx) 
+-J(-t+kx) 
+'P ( X, t) = (f) (X) e Il . donc: 'P(x,t)= Ae 
+h 
++Be 
+h 
+➔ 
+··•-· 
+..... 
+Donc œ= E et k= ✓z,;,i 
+i 
+'I'(x,t) = A e-i(ax-Ja) + B e-t(œt+Ja) 
+.... ,: 
+li 
+t,,2 
+.. 
+5.;;-
+Là solütioïi-dè-l'èqûation de 'I'{x~t) est üne somriïe de dë~-onclëiplâiies;le-pièmiér-tërine correspond à . 
+... --- ---·-·--- -
+·1 
+une O.P.P.H qui se propage dans le sens des x croissants. Le deuxième terme correspond à une O.P.P.H 
+. 
+dansl 
+.. . 
+On k2 2mE 
+E 
+.do 
+1 
+1a· 
+dedisp 
+. 
+qm se propage 
+es sens mverse. 
+a 
+= -
+2-
+et - = OJ ce qui 
+nne. are tion 
+ers1on 
+'li 
+Ti 
+( k) . hk2 
+- pi 
+h2 k2 . . . 
+k h 21r 
+h . . . 
+. . 
+-. . 
+.. , 
+. . • 
+1 
+OJ 
+= -
+. E = -
+= -- ➔ 
+p = h = -
+= - . ·Cette relation est appelee relation de De 
+1 
+2m 
+2m 
+2m 
+. À 
+À 
+h 
+1 
+Broglie : En MQ à chaque particule d'impulsion p on associe une onde de longueur d'onde Â = -:-. 
+.. 
+. 
+. 
+. 
+. 
+. 
+. 
+p 
+6-
+p(x} ={ Ji:e'9i ,e-i(œt-kx) +Ji;_eiDi ·e-1(ax+Ja) )x( Jp;e-19i .J<œt-Irx) +Jp;_e-iDi .J(at+kr)) 
+1 
+➔ p(x) =Pi+ Pi+ 2./AA cos(2kx+01 -02 ) 
+7-
+Pmïn =f>t+P2-2.JAA 
+Pl" 
+1 
+Pmax = P1 + P2 + 2./AA 
+1rill 
+.TS/I; 
+La densité de probabilité varie de façon sinusoïdale il y a 
+cles zones où elle est maximale p = Pmax et des zones où 
+elle est minimale p = Pmm, le phénomène d'interférences 
+- -------
+-----. - -
+-
+....... 
+entre l'onde qui se propage dans le sens des x croissants et 
+Cl 
+·1 
+celle qui se propage dans le sens inverse. 
+.. 3 
+~~~- -------
+- ---
+-
+------- ----
+
+8-
+Laprobabilitétotaleest=I= 1 car J: p(x)dx=J:(p1 +A +i{AA cos(2kx+{'1-02))dx diverge, 
+ce qui n'est pas acceptable physiquement, la particule libre ne peut pas être présentée par une onde plane. 
+Il faut décrire la particule par un oaauet d'ondes (suœroosition d'ondes Dianes de pulsations différentes). 
+a- 'P(x,0)= b f
+07trdk= [Af~inc(M x). efko:i< 
+v2tr:Mc koz · 
+vi;: · 
+2 
+( ) M . 2(Mx) 
+b- px =-smc -
+2tr 
+2 
+() 
+2ntr 
+• 
+p X =O ➔xn = M . nez 
+M 
+P. =p(0}=-
+0 
+2tr 
+p(z) 
+1 
+-;;;-
+1. 0 
+0~ 
+0.016 
+X 
+. -9;;;--· ... 
+-
+b- f]1i1(x,t}l2 dx ne diverge pas oii vérifie bien qu'il est égal à I.En effet:. 
+J~ M sinc2 (Mx) dx = ~ j sinc2 ( u) du = 1 avec u = '1.kx . Donc le paquet d'onde peut 
+. 
+-0:, 2tr 
+2 
+tr O 
+2 
+teprésëiitet l'état d'une uarticule libre puisqu'il est nônilalisable. 
+4,r 
+.. 
+. . 4trli 
+· 
+. 
+c- tu= .Xi -x_l = M ➔ 
+Ax · M = 4,r ➔tu· Ap = 4trli ➔tu= tJ.p . ➔ 
+On ne peut pas mesurer 
+simultanément avec autant de préçision quel' on veut la pQsition e~ la vitesse de la particule. Ceci e~ 
+.. . ... ..... 
+~~p~ti~l~ ~Y~J'iné~~ d~ !Je~~e,nl>f3f_g : ~: t\J'.~.i _ . . . .. .. _ . . 
+. . 
+..... ... _ . .. ...... . .. .. _· . 
+10-
+tzk1 
+d(J) 
+lik 
+(J) 
+lik 
+V . . 
+. 
+Ona: {1}=- ➔v =-=- et v =-=-=.-1.. p=nk=mv =mv ➔v =v où v 
+2m 
+g 
+dk 
+m 
+91
+k2m 
+2 
+g 
+g 
+est la vitesse de la particule en mécanique classique. Donc le paquet d' ondè qui se propage à la vitesse 
+V représente bien Ïa particÜle Ïibre~ .. . 
+.. . . . 
+. . . . . . " . . . . 
+. . 
+. . . .. . . 
+g 
+m- Effet tunnel 
+. 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+2 
+1 
+1 
+1 
+11- · ·La résolui:i()]l dès équation$ de·Schrôdinger-dans-les 11'o~·régipns· donne : -· --·--·-------- -- -· ··-·-·--·-.:_·---- · -- ·· -- · --· ·- · ·· · · · ·· · 
+-
+Ré~on I : rpix) .-.A1ikx + 
+B1e-ikx a~ec A1 et B1 deux ~onstantes compl~xes. 
+-
+Région n : .rpll (~) = Aileqx t Bne.-qx avec Au et. Bu. deux constantes compl~xes, 
+-
+Région m : f/Jm(x) = Am<fk-x avec À0 est une constante complexe, 
+12-
+La fonction d'onde ainsi que sa dérivée première par rapport à x·sorit continues eri x = 
+0 et x =a. ce qui 
+donne un système de 4 équations à 5 inconnues (les constates d'intégrations). 
+A1 +B1 =A0 +BII ·. 
+ik(A1 ~B; )=q(Au~J:J; r····· 
+Aae'la + Bae-qa = Àmeilra 
+q( A0 eqa -B0 è-qa) = ikAme-fka 
+R représente la probabilité de réflexion de la particule sur la barrière et T la probabilité de transmission de 
+la particule à travers la barrière de potentiel ou probabilité pour que la particule franchit la barrière. 
+4 
+1 
+1 
+1 
+2 
+J 
+1 
+1 
+1 
+
+14-
+On doit avoir R + T = I , puisque la particule est soit réfléchie soit transmise ; la somme des probabilités 
+=l. 
+Pour l'électron on obtient T = O. 78 qui représente une probabilité de passage de~ 80 % . Donc 
+l'électron est délocalisé dans l'atome et peut franchir la barrière de potentiel atomique. Dans les mêmes 
+conditions, un proton a une probabilité T = 10-
+19
+• Cette probabilité est très faible à cause de l'effet de 
+masse. Autrement dit, un proton ou un noyau occupent un site bien déterminé (figé) dans un atome ou 
+une molécule. 
+a-(Va-E) >0 et (Vo-2E)2 ~O 
+➔Vo
+2 ~4E(Vo-E) ➔ (Va
+2 
+) ~1 
+· 
+4E Va-E. 
+e2qa 
+v.,2 
+( 
+0 
+)sinh
+2 (qa)»l 
+4E Va-E 
+ainsi T = ( 
+· V/ · sinh2 ( a))-
+1 
+4E(Vo-E) 
+q 
+Donc 
+1 
+1 
+1 
+qa » I ➔ sinh2 ( qa) = -
+» I 
+. -·--1~-==-=·==·~···====:::.:-==4=====· :±:=:·:::..:···=· :;::s=o:::i~=-T==:=.::l 6:::E::::::(V:=;,=;=E=)=e=-2=.:~:::-==T.=o=e=-2=qa=··===t.==-·=·-=i· --·--····-·i 
+\ 
+E(V. -E) 
+dT. 
+V. 
+15-
+b- T.(E)=16 
+° 
+➔ -
+0 =O ➔E=i 
+o 
+-v,2 
+dE 
+2 
+0 
+➔Ta =4. T;,(E=O)=O 
+➔Ta(E=V)=O 
+max 
+Pour E '?..0.. on a Ta =:=.O donc T = 0 .:. la particule ne franchit 
+pas la barrière puisqu'elle est immobile. Pour E = Va on 
+obtient Ta= 0, mais l'approximation de la barrière épaisse 
+n'est plus valable en revenant à l'expression initiale de T on 
+. 
+[7\. 
+... b 
+½ 
+v, . 
+trouve T.➔l et c'est normal la particule passe avec une·.·· 
+~ 
+proêbe deL·- - -~ · • 
+- -· -· 
+. • 
+.. {~>=T.J:F:. ~;,:.JF~¾:~~ 
+c- In(r;,) ~.In(Ta)=.1 ➔ln(!) =l!!(I'o)-2q{J, =)-2qa, puisqu~. qa:;$>1 ➔Jil(T) =~2qa 
+iv..:· Ràmoacnvité a·---- -
+. . -~~ .1:-8.~?h1ti~~ .~e _l_'équa~on d
+2 
+ç,~r~ +?7 ( E + Va} {0(7'.) ==.O est : . q,(r) ~ 4~~: +)Je-ikr. . 
+,.·:·.· 
+_ . 
+. .... --··"--'. ......... ................ dr_ ....... n .... ---.......... ............................. _................ 
+-- ................... . 
+16-
+k = \ Zm( E + 17a) .Condition aux limites : q,(r = 0) = 0 ➔A+ B = 0. Ce qui donne: 
+;,,2 
+q,(x)=Dsin(kx)Lannrmalisationde ,p : ]j,p(r{ir=I ➔ID!'~ =l ➔D=: ~ 
+o 
+v-~· 
+b- La condition q,(r = Yo) = 0 ➔ sin( k 1ô) = 0 donc kn = ntr, n EN* 
+..... 
+. 
+. 
+1ô 
+;,.2k2 
+ri2nzrc2 
+En = ---Va = 
+2 -Va. L'énergie de la particule est quantifiée 
+2m 
+2mr0 
+a-La particule a. peut franchir la barrière oar effet tunnel. 
+b- K =2(Z-2)e2 =4,62xl0-36C2 ➔ V max =_!S_=74,25MeV 
+17-
+41r&o1ô 
+. 
+c-
+1j est donné par la relation V ( 1j) = E ➔ 
+1i = _!_ = 6, 50 x 10-14 m 
+4tœ0E 
+a- Entre r et r + dr , le potentiel peut être approximé par une barrière rectangulaire d'épaisseur dr et de 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+18-
+hauteur V(r). La probabilité pour que la particule traverse cette barrière correspond à la probabilité 
+2 · 
+T(r) d'être arrivée en r multipliée par la probabilité de franchir la barrière rectangulaire d'épaisseur 
+5 
+L i 
+
+dr qui est - e-iqdr 
+➔ 
+T(r + dr) = T(r)e-iqdr ➔ In(T(r +dr)) = ln (T(r) )-2qdr. 
+• b-
+1n(T(r+dr))-1n(T(r))=-2qdr ➔~=-2q ona q= f2ma(:~)~E) · 
+q==!_ 2m (_!5__-E} ➔ dlnT =-~-
+1
+2m (~-E) En intégrant sur toute la barrière: 
+h ~ 
+a 47rô0r 
+dr 
+ri' 
+a 4m.0r 
+.-----
+2 
+2 f 'i 
+( 
+K 
+J 
+2 ~ 
+f" ( 
+K 
+J 
+➔lnT=--J, 2m ---E dr=--v2maEJ, 
+--·-1 dr 
+t,, ro' 
+a 41reor 
+fz 
+a 
+11J' 4msoEr 
+19-
+c-
+Dans une seconde la particule effectue n rebonds sur la bàrriète d'énergie potentielle à chaque 
+··· ·· ·· - reoond elle ·a tmè probabilité· T de sortir dü··n.oyàii Donc ·peiiâant iliïe seë9ndë .. èllë a-unë>probâbilite- --
+0,5 
+0,5 
+0,5 
+n T, d'où la probabilité par unité de temps d'émettre une particule a. est f3 = n T 
+1 
+a;.. Le·. nombre de désintégration par seconde pour un noyau est· _/3 = n · T, Donc le nombre de noyaux 
+..... _ 
+__ ........ N.(t)_:_~Ï!nJ.ri,~~ ~ .8-.J.Y'I~)#t. __ p~~~Ll!l;le durée· d( ~~ _CF.ri do!IP.~: N(~±#t) ~lf_(f.)= ;;;;,f!._NJt.).4t · 
+, 
+dN 
+: 
+➔ dt =-/JN(t) 
+·····a~ /J=nxT=2xl021-x2xl()-39 =4x10-18s-1 • Cettèvaletifest1ië-m.êrtïeotâr~~qüe·1a~aiëur·· -·•· 
+·· 
+exnérimentale ce aui valide le modèle de Gamow. 
+20-
+b- L'intégration de l'équation précédente: donne N(t) =N0e-Pt. N(tJ.)= N(O) ➔ 
+2 
+2 
+(tJ.J 
+(1n2 ) 
+-
+b 
+.. c"'. Jn. t:- =ln pn =ln(Jn2)-1n(T)=ln(Jn2)-a+ ✓
+E 
+-1. 
+La loi de demi-vie obtenue précédemment indique qu'elle est proportionnelle à E 2 ce qui est prouvé 
+exnérimentalement. 
+· 
+6 
+1. ·- .. -----~-- . 
+f :: ..... 
+1 
+1 
+0,5 

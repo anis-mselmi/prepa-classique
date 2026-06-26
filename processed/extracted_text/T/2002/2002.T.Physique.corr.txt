@@ -1,0 +1,100 @@
+--- page 1 ---
+Corrigé et barème de l'épreuve de PHYSIQUE Concours Technologie- # Biblktheque PROBLEME 1 ; 6 'Dwngenieuss^ Question Corrigé Barème
+Le rayon incident traverse (L1) et passe par son foyer image F' 1 . Pour L; on utilise un foyer secondaire objet ou image. Vérifier que la distance OzF'= 2 cm
+Fz F
+2
+F1l F' en utilisant la formule de conjugaison; on trouve O2F'_f' (f" h) f'+f'2-h h=fî+f z (0,5) le système (S) est afocal (0,5)
+3
+f2 = Df, = =8 cm h = 10 cm (1,5) d Vérifier que sur le tracé F', est confondu avec Fz.
+Fz
+2
+4
+F1
+(0,5)
+5
+Relation de dispersion k =@ (0,5) C
+ki= 2rl cos8o ux-singo uz et kz=21 Ux (0,5) 1 1
+É=[E1(Mt) + Ez(Mt)]Zy (0,25) 9 B=1 E1(M,t) sin0o U x + ((E1(Mt)cos8o + Ez(Mt)) uz
+6
+(0,75)
+R-l EtEz (E1 coseo+Ez) ux-E1 sin@o U z (0,5) Ho c (Rx) = [Ej1 coseo + E{2 + Eo,Eo2(1 +coseo)cos?E(zsine + x(1 coseo))] 2Hoc R (Ry) = 0 (1,5) KRz) = sing [Ek1+ EoxEo2 cos25(zsin0 + x1 - ~coseo)) 2Hoc dPm = R ds U x ds [E;icoseo+E82 + Eo,Eo2(1 +coseo)cos?z(z sine  (1,5) x=0 2Hoc' Si on suppose que €o est faiblez on trquve dPm = ds [E?1+E32+2 Eo1Eoz cos 2(0)F (0,5) 2Hoc [E;, +Eæ2+2 Eo1Eozcos 22(z8 (0,5) 2poc - Hoc  € EM 41 = I2 = Eoz (0,5) 2hoc Zuoc Sur la plaque photographique, on obtient un systeme de franges rectilignes parallèles à (oy)
+7
+2
+8
+2
+9
+10
+Corrigé et barème de Pépreuve de Physique session 2002
+Concours Technologie
+pege 1/3
+F1   Fz
+
+--- page 2 ---
+20 =a 18 +aBl, 18-1 (0,75) a1 = 2a B 18-V2 142 E8L puisque I1= 3 21 est proportionnelle à El- (0,25) ZHoc Principe d 'Huygens-Fresnel la lumière se propage de proche en proche, tout point atteint par la vibration se comporte comme une source secondaire émettant des ondes sphériques . (1) Les sources secondaires sont cohérentes et elles interfèrent.
+11
+Ia
+La = 1o sin: (zb2) (1)
+12
+(0,5)
+3
+On observe dans la direction de Fonde incidente (0=0), une tache principale très intense de largeur angulaire 24 entourée de taches secondaires b d'intensités faibles. (0,5)
+4 2 b b
+6
+A = % (a0 sincl (zb0)+21 sinc- I(-80)+ 9l sinc Ib 40+00 )} (1,5) 2 2 A amplitude direction des maxima Onde [rbe 0 Y aosinc  Onde 2 Y aLsinc 1(0-80) +80 2 Onde3 7 aLsinc 4b(0+00) 400 2
+(0,75)
+13
+3
+8o
+(0,75)
+Dans le cas où b>>1, les amplitudes des trois ondes diffractées deviennent Yao,7 Ya;/2 et Ya,/2, c est à dire des constantes (indépendantes de 0). (1,5) Elles se propagent respectivement dans les directions   0 = 0, +80 et ~00- L'onde 2, damplitude Ya,/2 et se propageant dans la direction +0c, est analogue à /onde objet E1 puisqu'elle se propage dans la même direction avec une amplitude (1,5) proportionnelle à celle de Ei dans la question 11, on a montré que a1 est proportionnelle à Eci
+3
+14
+PROBLEME 2
+1 = M2 = cl2f 11 =150 km l2 =150 m (0,5) Pour émettre-des signaux BF, il faut utiliser des antennes très longues. problème_technique. (0,5)
+COS Icose Dans une région limitée de_lespace (variations négligeables de-r et 0), la quantité sing demeure constante: (1)
+2
+Les champs s 'écrivent alors
+É (Mt)= Eo sin @ 4) ue 3 B (Mt)=Eo sin @ (4) Uq C
+B=@E B=E C
+2
+(1)
+B et E vibrent en phase
+Corrigé et barème de Fépreuve de Physique session 2002
+Concours Technologie
+page 2/3
+
+--- page 3 ---
+Ho ci' CoSI cos0) Le vecteur de poynting $ écrit R = sin 2@ (-) U r (0,75) 4 1 2 2 [ sing
+3
+Ho c i8 cosl (Zcose) Ur (0,25) 8 1 I 2 sing
+Sa valeur moyenne dans le temps s écrit R
+cos Icose Hoc i8 Léquation de Findicatrice s écrit g(0) = Il<R>ll = 8 1 2 2 I sing
+(0,25)
+4
+A une distance r fixée; le maximum de puissance est obtenu en des points du plan (xoy). Sur [axe de lantenne; la puissance reçue est nulle (0,75) cos Icos0 i8 i3 FI cosl Ho c Ho c [Ecoso) 2 T r2 sine d0 d0 1,22 Pm = Hoi8 c . (1) 8 12 r2 sin8 4 z J0 sin0 41
+5
+1,5
+Cette puissance est indépendante du rayon de la sphère considérée . Lair, assimilé au vide, est don non absorbant . R
+(0,5)
+R
+6
+Ve
+Vs
+Vc(t) = R: VA(t) RzVB(t) (1) Ru Rz S(t) = + Rs VA(t) + Rz Ve(t) (0,5) R1 Rz Pour réalise un sommateur; il faut avoir Rp = Rz = R3. (0,5) VB(t) = k Vm Vp cos(2rfnt)cos (2ufpt) VA(t) = Vp cos(2rfpt) S(t) =VA(t) + VB(t) 1= Vp[l+ a cos(2ufnt)] cos(2rfpt) (1,5) 3a=kVm (0,5) S(t) = @vp Vp cos(2ufpt) + cos[2r(f;+,)t] + %Y2 cos[2æ(f,-f)t] 71) 2 2 fp = 820 kHz Vp =50 mV a =0,8 (1,5) fn =3 kHz Spectre du signal modulé
+7
+2
+8
+2
+9
+2,5
+(1,5j
+3
+10
+{p-fmar
+fp-fmin
+fpHmin
+Tfp+fmar
+Pour le signal Sm(t), fz = 5.103 Hz, f; = 200 Hz = 8 = 0,92 ~ 1 (0,5) Pour le signal S(t) fz = 106 +5I03 Hz fi = 106 45I0} Hz = ô = 10-2 << 1. (0,5) Le spectre du signal modulé est donc très étroit = propagation avec moins de distorsion: (0,5)
+Corrigé et barème de Fépreuve de Physique session 2002
+Concours Technologie
+page 3/3

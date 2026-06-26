@@ -1,0 +1,678 @@
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+l 
+8 
+9 
+10 
+11 
+Corrige physique 
+PT Juin 2019 
+Probleme 1 
+d2x(t) 
+dx(t) 
+MdtZ = -kx(t)-adt+ F0 cos(rot) 
+d2x(t) 
+(1)0 dx(t) 
+2 
+2 
+F 
+k 
+Mw 
+dtZ + 0 dt + ro0 x(t) = ro0 e(t) avec e(t) = ; cos(rot) ; ro~ =Met Q = 7 
+dzx(t) 
+dtZ + roi x(t) = 0 => x(t) = Xo cos(ro0t) 
+Ec(t) = ½ M (~~t))2 = }MID~zj sin2(ro0t) ; Ep(t) = ikx2(t) = ½kx5 cos2(ro0t) 
+Em = Ec(t) + Ep(t) =; kx5 est conservee 
+-ro2!(t) + jro ';; !(t) + ro~ x(t) = ro5 e(t) 
+!Ct)= 
+e(t) 
+' 
+a,Z 
+• 6l 
+l~JQ 
+mo 
+mo 
+F0/k 
+( 
+2)2 
+2 
+Xo = 
+: passe par un maximum.lorsque 1 -
+(I) 2 
++ 
+~ 2 minimal 
+( 
+m2)2 a,2 
+(1)0 
+Q (1)0 
+1-;z + Q2m2 
+0 
+0 
+(1)2 
+( 
+) 
+( 
+2 
+u 
+' 
+. 
+1 
+(1)2 
+On pose u = 2 et f u = 1 - u) + 2 alors f (u) = 0 pour u = 1 - -
+= 2 > 0 
+(1)0 
+Q 
+2Q2 
+(1)0 
+Q > :Z. et la resonance aura lieu pour lLl = w0 .J 1 - 2~2 
+X 
+Fo/k 
+Fo 1 
+·-
+o max = 1 ~ 
+~ Qk orsque Q » 1 
+Ql~ 
+X 
+Xomax 
+= Xomax alors Q2(1- u)2 + U = 2 
+Xo(m1) = Xo(ro2) = 
+07 => 
+( m2r 2 
+.fi 
+Q2 1--
+~ 
+-
+m~ 
+m~ 
+u2 - 2u ( 1 - -
+1-) + 1 - 2- = 0 alors l = 2-( 1 + 2...) et 
+2Q2 
+Q2 
+Q2 
+4Q2 
+1 
+1 J 
+1 
+1 
+( 
+hl 
+00
+0 
+u12 = 1 - -
++ -
+1 + -
+~ 1 + - => ro12 = ro0 1 + -
+et .£\ro = -
+' 
+2Q2 - Q 
+4Q2 
+-
+Q 
+' 
+-
+2 
+Q 
+Em= ikX5 cos2 (rot+ cp) + ½MoiX~ sin2(rot+ q>) 
+d!; = -kroX5 cos(rot + cp) sin(rot + <p) + Mro3X~ cos(rot + cp) sin(rot + cp) 
+{~;1> = O: l'energie mecanique est conservee: l'energie re9ue de la part de la force 
+excitatrice est entierement dissipee a travers la force de frottem.ent. 
+dFT. = i(t)di /\ B = i(t)d) llA /\ B Ur = -Bi(t)dl U,, => F1. = -Bii(t) Uy 
+M d::~t) = -kx(t) - a ~:t) - Bii(t) : equation mecanique (EM) 
+La bobine, mobile dans un champ B stationnaire, sera le siege d'une fem induite 
+donnee par la loi de Faraday. 
+E(t) = Bt ~~t) alors u(t) = Ri(t) + L d:~) - Bt ~~t) : equation electrique (EE) 
+(EE)* i(t) => u(t)i(t) = Ri2 (t) + 2. ( !. Li2{t) )- Bti(t) dx(t) 
+dt 2 
+dt 
+(EM)* dx(t) => 2-(!. M (cix(t)/) = -2-(!.kx2 (t) )- a (cix{t)r _ Bti(t) cix(t) 
+dt 
+dt 2 
+dt 
+dt 2 
+dt 
+dt 
+D'ou: u(t)i(t) = 2-(!. Li2(t) + !.kx2(t) + !. M (dx(t))2) + Ri2(t) + a(dx(t)/ 
+dt 2 
+2 
+2 
+dt 
+dt 
+De la forme: u(t)i(t) =~~+Pe + Pm 
+W =; Li2(t) + ½kx2 (t) + ;M (~~t~)2 est l'energie totale dusysteme 
+(~~) = 0 et(u(t)i(t)) = (Ri2(t)) + {a(~~t)/} ; lapuissancemoyenne foumie est 
+en partie convertie en puissance sonore, l'autre partie est dissipee par effetjoule. 
+----- --
+75 
+2 
+1 
+2 
+2 
+l 
+2 
+1 
+2 
+2 
+2 
+2 . 
+1 
+1 
+2 
+3 
+2 
+3 
+1 
+1 
+2 
+1 
+2 
+1 
+
+12 
+13.1 
+13.2 
+13.3 
+13.4 
+14.1 
+14.2.a 
+14.2.b 
+14.2.c 
+15 
+1.1 
+1.2 
+1.3 
+1.4 
+On definit le rendement du haut parleur comme TJ = < tt> > = 
+(Pm> 
+u t i(t) 
+(Pe)+(Pm) 
+On pourra ameliorer le rendement en minirrrisant les pertes par effet Joule. 
+Le gain maximal H0 obtenu a la resonance pour w = ro0 • 
+·-r~~li\ ~ 
+. ... 
+. En BF: x = ~ « 1; G(ro) ~ H0 _Qx et gdB = 
+"'--;.<:,-"··· •• 
+OOo 
+"~ •~u :r.a<~axc·:c, 
+20 log H0 -
+20 log Q + 20 logx : droite de pente 
++20dB1dec 
+En HF: x = ~ » 1 ; G(ro) ~ HQo 
+et gdB = 
+Ctlo · 
+X 
+20logH0 - 20logQ- 20logx: droite de pente 
+-20 dB/dee 
+C'est un filtre asse bande 
+On pose x = : pour que G(x) = J Ho 
+2 = ~ ~ 
+x2 ± .:. - 1 = 0 
+o ~----
+1+Q2( x-¼) 
+Q 
+x12 = ± 
+1Q + ../1 + 1/(4Q2 ) alors fix= ~m =~et done Aro= 
+000 
+• 
+2 
+Ct) 
+Q 
+Le spectre de Ve(t) comporte une composante continue ~
+0 et des harmoniques de 
+frequences impaires du fondamental f. 
+1 ere composante :
+0 
+: frequence nulle ; 
+2cmc composante 2v0 sin(2nft) : frequence f; 
+'II 
+imc composante 2V0 !.sin(3x2nft): frequence 3f; 
+'II 3 
+4eme composante 
+2v0 !sin(Sx2nft) : frequence Sf 
+TC 5 
+1 
+V0 = 2V et T = - = 500 µs donne f = 2 kHz 
+spectre de v.(t) 
+V,/2 
+2V,/tt 
+2V,/(3n} 
+2V,/(5n} 
+.__,.__~31,---~s,-- fr 
+.....,. .... :L·· 
+-
+Le filtre selectionne le fondamental du signal 
+carre qui est une sinusoYde a la meme 
+frequence f et d'amplitude 
+2v0 H0 = 6V 
+. 
+1t 
+, 
+3 
+-1 
+611: 
+311: 
+ro0 = 211:f = 4n 10 rad. s 
+et H0 = -
+= -
+= 4 7 
+2V 
+2 
+' 
+. 
+H0 
+H0oo0 1 
+v 
+Pourro » ro · HGro) ~ '.""7ii" =--:- = ~~ 
+0 ' -
+JQ-
+Q 
+)Ctl 
+V 
+. 
+"'O 
+_e 
+v5 (t) = H~o f ve(t)dt : la tension de sortie est l'integrale du signal d'entree. 
+Le signal d'entree etant de forme carree alors le signal de sortie sera triangulaire. 
+Probleme 2 
+..... 
+-, 
+-
+..... 
+ia -
+..... 
+ai!. 
+div E = 0 ; div B = 0 ; rot E = - at et rot B = ~ 
+Eo at alors : 
+--+ 
+1 a2E 
+--+ 
+AE---=0 
+('.2 nt2 
+-
+..... 
+o2E 
+..... 
+w2 
+A E = -(~2 + k2)E et-= -c1l2E ~ 
+k 2 =--{32 
+ilt2 
+,,2 
+E = Eo cos(~y) ei(wt-kz}ux = Eo ei(wt-f3y-kz)i1x + Eo ei(wt+f3y-kz)ux 
+2 
+2 
+E1 
+E2 
+k1 = ~Uy + kuz et k2 = -~Uy + kuz · 
+B _ k111F\ _ Eci i(rot-(3y-kz) [ku _ ~- ] 
+1 -
+w 
+-
+2w e 
+Y 
+Uz 
+2 
+2 
+2 
+2 
+2 
+1 
+1 
+1 
+1 
+1 
+2 
+1 
+1 
+2 
+3 
+2 
+2 
+2 
+3 
+1 
+2 
+125 
+2 
+1 
+3 
+2 
+2 
+3 
+
+B2 = k2AE2 = ~ei(wt+~y-kz)[ki1 + ~u J 
+w 
+2w 
+Y 
+z 
+2.1 
+E = E ei(rot-kz) (u + iau ) . 
+0 
+X 
+y , 
+en notation reelle: Ex = E0 cos(rot - kz) et Ey = -aE0 sin(rot - kz) 
+2 
+Ei + E: 
+1 
+' t l'' 
+ti 
+d' 
+Ir 
+' · 
+· · 
+E2 
+2E2 = 
+: c es 
+equa on 
+une e tpse rapportee aces axes pnnctpaux. 
+o 
+ex 
+o 
+Pour a = 0 : polarisation rectiligne le long de Ox. 
+Pour a = ·1 : polarisation circulaires. 
+3 
+Sinon la polarisation est elliptiaue. 
+2.2 
+E /\ !EJ 
+,= -awE~uz: a> 0: polarisation droite; a< 0: polarisation gauche 
+3 
+t lt,-,n 
+2.3.a 
+E' = -Eo ei(rot+kz) (ux + iauv) 
+2 
+2.3.b 
+Ercs = E + E' = Ea ( ei(wt-kz) - ei(rot+kz))(i1x + iauy) = 2E0 sin kz eiwt(-iux + auy: 
+3 
+L'onde resultante est stationnaire 
+1 
+3.1 
+E-~~ = -2iEn sin kz ei00trr,, 
+2 
+3.2 
+E · = -2iE sin kz ei00trr - E ( e-ikz - eikz)ei00trr - E ei(rot-kz)iJ -E ei(rot+kz)iJ 
+2 
+res 
+o 
+x-
+o 
+x-
+o 
+x 
+o 
+x 
+E1 
+E2 
+E1 = Eoei(rot-kz)rrx et E~ = -Eoei(rot+kz)llx 
+2 
+verifient bien la condition au limite sur le miroir parfait E, (0, t) + E? (0, t) = 0 
+3.3.a 
+_. 
+--+ 
+1t 
+C 
+Eres (z = -d) = 0 => sin kd = 0 => kd = mn => km = m-;;- et Vm = m ?ti 
+3 
+3.3.b 
+Onde stationnaire resonante dans la cavite 
+1 
+3.3.c 
+C 
+!::.v = Vm+1 -Vm = ,n = v1 = 500 MHz etv2 = 2v1 = 1 GHz 
+2 
+4.1 
+E = _e_2 = 5,1 1011 V. m-1 
+3 
+4ltEo3n 
+4.2 
+E = ~ 
+= J~2P_l_ = 3 1 kv.m-1 
+3 
+O 
+1tE0cD2 
+cD2 41tE0 
+' 
+4.3 
+W 
+7 
+.J32P 
+1 
+10 
+-1 
+3 
+P = -
+= 10 Wet E0 = -- = 9,810 
+V. m 
+,: 
+cD2 4nE0 
+4.4 
+E0 = 9,8 1010 V. m-1 est de meme ordre de grandeur que la champ de cohe~ion intra-
+2 
+atomique (5,1 1011 V. m-1 ). On peut done aboutir a un effet non lineaire avec un laser 
+impulsionnel. 
+5.1 
+• Dualite : la lumiere peut etre assimilee a une onde EM ou un corpuscule. 
+1 
+• Aspect ondulatoire: experience d'interference ou de diffraction 
+1 
+Aspect corpusculaire: experience de l'e:ffet photoelectrique. 
+1 
+5.2.a 
+lq,(x, t) 12 : densite de probabilite de presence de la particule 
+2 
+Dimensions de li.ll(x,t)I estL-1/ 2. 
+1 
+5.2.b 
+On associe a toute particule de masse m et de quantite de mouvement p = mv, une 
+I 
+onde de matiere de longueur d'onde A=~=~-
+p2 _ h2k2 
+2 
+E=-=-· 
+p 
+mv 
+2m 
+2m' 
+E = hw alors w = Fi.k
+2 
+: la relation est non lineaire, cela entraine l'etalement du 
+2 
+2m 
+oaauet d'onde de la particule au cours de son deplacement. 
+2 
+5.3.a 
+p(x) = bv(x, t)l 2 = lcp(x)l 2 est independante du temps, l' etat est al ors stationnaire. 
+2 
+5.3.b 
+cp(x = 0) = cp(x = L) = 0 
+2 
+5.3.c 
+Fi.2 ct2cp(x) _ E ( ) 
+d2cp(x) + zmE 
+( ) _ 0 . 
+1 
+----- -
+c.p X =>--
+-c.p X -
+2m dx2 
+dx2 
+fi.2 
+. 
+. 
+✓zmE 
+./ZmE 
+c.p(x) = Asm (-Fi.-x) + Bcos (-h-x) 
+2 
+( ) 
+. (Y2IDE ) 
+Avec c.p(x = 0) = 0 alors B=O => c.p x = Asm -Fi.-x 
+2 
+L 
+AZ J.L . 2(./ZmE )dx 
+1 A2 ~ = 1 =>A= ✓2/L 
+2 
+J0 lq,(x, t)l 2dx = 1 
+0 sm -,;--x 
+= 
+5.3.d 
+✓1/L . 
+./2mE 
+✓zmE 
+(nttfi.)
+2 
+2 
+c.p(x = L) = 
+sm (--x) = 0 => --L = nn => E0 = --
+Fi. 
+Fi. 
+2mL2 
+1 
+la quantification de l'energie est due au confinement de la particule. 
+
+6.1 
+1 
+ko~ · 
+! 
+Ak 
+· 
+3 
+ljl(x, O) = ✓ AkJ, .J e1kxdk = -sine (-x) e1kox 
+21t 
+ko--:;-
+21t 
+2 
+6.2 
+2 
+Ak . 
+2 (Ak ) 
+:2! 
+2 
+p(x) = l'l'(X, O)I = -smc -x 
+.. 
+21t 
+2 
+} \_ 
+p(x) = 0 ~ 
+Xn = 2:; ou n E IW 
+2 
+Ak 
+et p0 = p(O) = -21t 
+0.016 
+2 
+-4x/lJJ< 
+-2%14;( 
+0 
+2::/t,J( 
+42."Ak • 
+6.3 
+L+:1\jl(X, O)l2dx ne diverge pas et on verifie bien qu'il est egal a 1. 
+l 
+Ak f+co . 2 (~k :) 
+2 f,+co . 2 
+Ak 
+3 
+-
+smc -x dx = -
+smc (u) du = 1 avec u = -x 
+21t -co 
+2 
+.,,. 0 
+2 
+6.4 
+.21t 
+2,r 
+L\x . 
+41t 
+x+ = ·~ ; x_ = - ~ ; 
+= X+ - x_ = ~ 
+1 
+~ L\x. -6.k = 41t et L\x. -6.p = 41th : inegalite de Heisenberg. 
+2 
+On ne peut pas connaitre simultanement avec precision la position et la vitesse de la 
+1 
+particule. 
+7 
+jth = -AgradT; A en W. m-1. K-1 
+3 
+En !'absence de source inteme et en regime stationnaire AT= 0 
+1 
+8 
+d2T 
+( ) 
+T2-T1 
+➔ 
+A dT-. 
+. S 
+"(T 
+)$ 
+dz2 = 0 ~ 
+T Z = -L-z + T1 ; ]th = -
+dz Uz; <l>th = ]th = L 1 - T2 
+3 
+R 
+_ Ti-T2 _ L 
+th-----
+41th 
+,..S 
+2 
+9 
+( 
+) 
+Tp-Tf 
+1 
+<l>cv = hS Tp - Tf et Rev = 
+<%In, = hS 
+3 
+10 
+Une association en serie de trois resistances : R = Rth + 2Rcv = 1
+1
+,;, + :,;, 
+3 
+11.l 
+MT+q=O 
+1 
+11.2 
+;i.. d ( dT) 
+dT . q 2 
+q 2 
+3 
+-- r- +q=O~ r-+-r +A=O~ T(r)=--r +Aln(r)+B 
+r dr 
+dr 
+dr 
+2}.. 
+4,.. 
+1 
+En r = 0 la temperature doit etre finie ~ A = 0 
+T(r = r0) = T0 ~ 
+B = T0 + 4: r5 et T(r) = T0 + :~ ( 1- ;;) 
+2 
+11.3 
+A 
+2 
+-ro 
+0 
+ro 
+11.4 
+2 
+T(r = O) -T0 = qro =OT: c'est la difference de temperature maxim.ale entre le centre 
+4:il. 
+2 
+et la surface du barreau. 
+' 
+11.5 
+2 
+3 
+6T = 22. : plus A est grand, plus la chaleur est evacuee vers l'exterieur du cristal. 
+4:1. 
+11.6 
+A dT 
+qro 
+2 
+5 
+3 
+<l>th = - S- = 2m0L~ = m 0qL = 0, 3 W 
+dr 
+2 

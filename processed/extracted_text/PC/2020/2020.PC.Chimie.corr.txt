@@ -1,0 +1,1995 @@
+Session Juillet 2020 
+Page 1 sur 16 
+Instructions 
+• Cette épreuve comporte 14 pages + 2 pages vide.  
+• Tout résultat doit être écrit dans les cadres adéquats. 
+• L'usage des calculatrices électroniques de poche non programmables est autorisé. 
+• Aucun échange entre les candidats n'est autorisé. 
+• Tout calcul doit être précédé d’une expression littérale.  
+• Les résultats numériques sans unité ou avec une unité fausse ne seront pas comptabilisés. 
+• En cas de besoin utiliser la page vide en fin de cahier. Dans ce cas, il faut le signaler dans la case 
+allouée à la réponse remise en fin de cahier. 
+• Si au cours de l’épreuve, un candidat repère ce qui lui semble être une erreur d’énoncé, il la signale 
+sur sa copie et poursuit sa composition en indiquant les raisons des initiatives qu’il est amené à prendre. 
+ 
+ 
+ 
+ 
+ 
+ 
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 16 PAGES 
+NUMEROTÉES 1 sur 16, 2 sur 16, …, 16 sur 16. 
+ 
+ 
+ 
+Concours Physique et Chimie 
+Chimie inorganique 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Page 2 sur 16 
+Épreuve de chimie section PC 
+Année : 2019-20120 
+Notations et données numériques 
+États des constituants physicochimiques : 
+• (sd) solide ; (liq) liquide ; (g) gazeux 
+Lorsque aucune mention n'est spécifiée, les ions sont supposés implicitement en solution aqueuse. 
+Les gaz sont considérés comme parfaits. 
+Notations :  
+• xi : la fraction molaire de « i » dans la phase liquide. 
+• yi : la fraction molaire de « i » en phase vapeur. 
+• 
+ip
+σ  : pression de vapeur saturante de « i ». 
+• 
+i
+ϕ
+µ  : potentiel chimique du constituant « i » dans la phase φ. 
+• L’exposant * signifie corps pur. 
+• ESH : électrode standard à hydrogène. 
+Constantes physiques : 
+• Constante des gaz parfaits : R = 8,314 J.mol-1.K-1. 
+• Constante d'Avogadro : NA = 6,02×1023 mol-1. 
+• Constante de Faraday : F = 96500 C.mol-1. 
+• Pression standard : p 
+1
+.
+bar
+=
+ 
+• Concentration standard : C 
+1
+1
+.
+.
+mol L−
+=
+ 
+Formules brutes :  cyclohexane = (C6H12) ; acétate d’éthyle = (C4H8O2). 
+Données numériques : 
+• Masse molaire atomique (en g.mol-1) de : C = 12,00 . 
+• Rayon covalent (pm) : C = 71. 
+Les paramètres de l’équation d’Antoine : 
+Numéro repère 
+Composé 
+α 
+β 
+κ 
+(1) 
+Cyclohexane 
+15,75 
+2766,63 
+-50,50 
+(2) 
+Acétate d’éthyle 
+16,15 
+2790,50 
+-57,15 
+À 298K, 
+• Potentiels chimiques standard 
+Entité 
+Ba(sd) 
+Ba2+ 
+Ba(OH)2۰8H2O(sd) 
+ 
+BaO2(sd) 
+H2O(liq) 
+HO- 
+H+ 
+iµ 
+1
+(
+.
+)
+kJ mol −
+ 
+0 
+-561,0 
+-2794,4 
+-582,4 
+-237,2 
+-157,3 
+0 
+• Potentiels standard d’électrodes (à pH = 0) 
+Couple 
+2( )
+g
+H
+H
++
+ 
+2
+(
+)
+sd
+Ba
+Ba
++
+ 
+2(
+)
+2
+2
+(
+)
+8
+sd
+BaO
+Ba OH
+H O
+•
+ 
+E (
+)
+/
+/
+(
+/
+)
+Ox red
+en V
+ESH  
+0 
+-2,91 
+1,63 
+Couple 
+2
+2(
+)
+sd
+BaO
+Ba +  
+2
+2
+(
+)
+(
+)
+8
+sd
+Ba OH
+H O Ba
+•
+ 
+E (
+)
+/
+/
+(
+/
+)
+Ox red
+en V
+ESH  
+2,35 
+-2,19 
+• Produit ionique de l’eau Ke =10-14. 
+• 
+( )
+( )
+10
+0,06
+log
+(
+ )
+R T
+Ln x
+x
+en V
+F
+×
+×
+=
+×
+. 
+Conversions :  
+(
+)
+(
+)
+273
+T K
+C
+= θ °
++
+ ;   
+1 bar = 750 mmHg 
+Unité : [J.C-1] = [Volt] 
+ 
+
+ 
+Page 3 sur 16 
+Épreuve de chimie section PC 
+Année : 2019-20120 
+Problème : cristallographie 
+Le carbone graphite « Cgra » possède une structure en feuillets, la distance entre les plans d’empilement est de 
+335 pm. 
+1) Donner une représentation en perspective de la maille du graphite et de son contenu. 
+ 
+2) Quelle est la nature des liaisons entre les atomes de carbone proches voisins :  
+• D’un même feuillet ?  
+L’atome de carbone est tétravalent. Chaque atome de carbone présente 4 liaisons covalentes. Dans 
+un feuillet chaque atome de carbone présente 2 liaisons simples et une double. 
+Les électrons de la double liaison sont délocalisés sur tout le plan. 
+• De deux feuillets voisins ? 
+La cohésion entre ces feuillets est assurée par les forces de Van der Waals. 
+3) Donner les coordonnées réduites des atomes de carbone dans cette structure. 
+Les coordonnées réduites des atomes « Cgra » sont : (0,0,0) ; (0,0,1/2) ; (1/3,2/3,0) et (2/3,1/3,1/2). 
+4) Définir, puis déterminer le motif dans cette structure. 
+Le motif est la plus petite entité chimique qui par translations permises génère la totalité de la maille et par 
+conséquent tout le réseau cristallin  
+ Il est formé par quatre atomes de coordonnées (0a,0b,0c) ; (0a,0b,1/2c) ; (1/3a,2/3b,0c) et 
+(2/3a,1/3b,1/2c). 
+5) Quel est le mode de réseau ? Justifier la réponse. 
+Le mode est P : car seule les translation , ,
+a b c
+
+ permettent de générer tout le réseau.  
+D’après les réseaux de Bravais le système hexagonal contient un seul mode qui est le mode P.  
+6) Quelle est la coordinence du graphite ? 
+La coordinence du graphite est 3, car chaque atome possède 3atomes proches voisins. 
+7) Représenter la trace des atomes de « Cgra » contenus dans le premier plan après celui passant par l’origine 
+de la famille (110). Préciser clairement la tangence entre les atomes. 
+ 
+
+ 
+Page 4 sur 16 
+Épreuve de chimie section PC 
+Année : 2019-20120 
+8) Donner l’expression du paramètre « a » de la maille, en fonction du rayon de l’atome de carbone Rc. 
+3
+4
+cos
+4
+2
+3
+6
+2
+C
+C
+C
+a
+b
+R
+R
+R
+π
+
+
+=
+=
+×
+×
+=
+×
+×
+=
+×
+×
+
+
+
+
+ 
+9) Donner l’expression puis calculer  
+9-a) la compacité de la structure. 
+( )
+3
+4
+3
+atom
+C
+maille
+n
+C
+R
+V
+π
+ς
+×
+×
+×
+=
+ 
+(
+)
+2
+2
+2
+maille
+c
+c
+2
+3
+V
+a
+c sin
+2
+3
+R
+c
+6
+3
+R
+c
+3
+2
+π
+
+
+
+
+=
+× ×
+=
+×
+×
+× ×
+=
+×
+×
+×
+
+
+
+
+
+
+
+
+
+
+ et c =2×h=2×335=670 pm 
+(
+)
+3
+2
+4
+4
+8
+8
+71
+3
+0 17
+6
+3
+9
+3
+9
+3
+670
+C
+c
+c
+R
+R
+,
+R
+c
+c
+π
+π
+π
+ς
+×
+×
+×
+×
+×
+×
+×
+=
+=
+=
+=
+×
+×
+×
+×
+×
+×
+×
+ 
+9-b) la masse volumique du carbone graphite solide. 
+La masse volumique s’écrit : 
+( )
+( )
+2
+6
+3
+atom
+C
+atom
+C
+A
+maille
+A
+c
+n
+C
+M
+n
+C
+M
+N
+V
+N
+R
+c
+ρ
+×
+×
+=
+=
+×
+× ×
+×
+×
+ 
+(
+)
+3
+2
+23
+10
+10
+4 12
+1 93
+6 02 10
+6
+3
+77 10
+670 10
+,
+g.cm
+,
+ρ
+−
+−
+−
+×
+=
+=
+×
+× ×
+×
+×
+×
+×
+ 
+ 
+ 
+ 
+
+ 
+Page 5 sur 16 
+Épreuve de chimie section PC 
+Année : 2019-20120 
+Problème : équilibres de phases 
+Partie 1 : corps purs 
+1) Donner la relation de Clapeyron associée à la courbe de vaporisation d’un corps pur. Donner la signification 
+des termes qui apparaissent dans cette relation. 
+(
+)
+*
+vap
+m
+*,vap
+*,liq
+m
+m
+H
+dp
+dT
+T
+V
+V
+σ
+∆
+=
+×
+−
+ 
+*
+vap
+m
+H
+∆
+ : enthalpie molaire de vaporisation. 
+T : température de vaporisation 
+*,vap
+m
+V
+: volume molaire du corps pur dans la phase vapeur. 
+*,liq
+m
+V
+ : volume molaire du corps pur dans la phase liquide 
+ 
+2) Un très grand nombre de relations ont été proposées pour représenter l’évolution de la pression de vapeur 
+saturante d’un corps pur liquide avec la température ; elles se distinguent par l’étendue du domaine couvert, 
+leur aptitude à permettre une extrapolation fiable à l’extérieur de ce domaine, en particulier vers les faibles 
+températures. Parmi ces relations : 
+2-a) La fonction de type (A) : 
+(
+)
+F
+Ln p
+E
+T
+σ =
++
+   où E et F sont deux constantes, la pression est exprimée en 
+mmHg et la température en Kelvin. 
+i) Montrer ; en donnant les approximations utilisées ; que la pression de vapeur saturante pσ d’un 
+corps pur est une fonction de la température de type (A). 
+ 
+Les approximations utilisées : 
+*
+vap
+m
+H
+cte
+∆
+=
+ 
+*,
+*,
+*,
+*,
+*,
+>>
+⇒
+−
+≈
+vap
+liq
+vap
+liq
+vap
+m
+m
+m
+m
+m
+V
+V
+V
+V
+V
+  
+Le gaz se comporte comme un gaz parfait : 
+*,vap
+m
+R T
+V
+pσ
+×
+=
+ 
+*
+2
+vap
+m
+vap
+H
+dp
+p
+dT
+R T
+σ
+σ
+∆
+
+
+=
+×
+
+
+×
+
+
+ 
+2
+2
+1
+1
+*
+2
+p
+T
+vap
+m
+p
+T
+H
+dp
+dT
+p
+R
+T
+σ
+σ
+σ
+σ
+∆
+
+=
+×
+
+
+
+
+∫
+∫
+ 
+ 
+Au voisinage de 
+vap
+T  : 
+*
+2
+vap
+p
+vap
+m
+p
+T
+H
+dp
+dT
+p
+R
+T
+σ
+σ
+σ
+∆
+
+=
+×
+
+
+
+
+∫
+
+
+T∫
+ 
+p
+Ln p
+σ
+
+*
+vap
+m
+vap
+H
+1
+R
+T
+∆
+
+=
+×
+
+
+
+
+
+1
+T
+
+
+−
+
+
+
+
+
+
+ 
+(
+)
+*
+vap
+m
+vap
+H
+Ln p
+R
+T
+σ
+∆
+=
+×
+
+*
+vap
+m
+H
+R
+Ln p
+T
+
+
+∆
+
+
+
+
+
+
+−
++
+
+(
+)  
+ 
+ii) Identifier les constantes E et F, puis donner leurs équations aux dimensions. 
+*
+vap
+m
+vap
+H
+E
+R
+T
+∆
+=
+×
+
+Ln p
++
+
+(
+)         Sans unité  
+*
+vap
+m
+H
+F
+R
+
+
+∆
+= −
+
+
+
+
+
+   Unité K 
+
+ 
+Page 6 sur 16 
+Épreuve de chimie section PC 
+Année : 2019-20120 
+2-b) La fonction de type (B) appelée équation d’Antoine: 
+(
+)
+Ln p
+T
+σ
+β
+α
+κ
+=
+−
++
+. Dans cette équation, la 
+pression est exprimée en mmHg et la température en Kelvin. 
+Cette relation permet d’atteindre une excellente précision pour des intervalles de pressions toujours aux 
+environs de la pression atmosphérique. 
+Sachant que les pressions de vapeurs saturantes de cyclohexane (1) et d’acétate d’éthyle (2) liquides suivent 
+la relation d’Antoine, déterminer la température de vaporisation de chacun des deux constituants (1) et (2) 
+sous la pression 0,15 bar. 
+(
+)
+T
+Ln pσ
+β
+κ
+α
+=
+−
+−
+ 
+0,15
+112,5
+p
+bar
+mmHg
+σ =
+=
+ 
+Pour le cyclohexane (1) : 
+(
+)
+1
+1
+2766,63
+50,50
+301,39
+28,25
+15,75
+112,5
+vap
+vap
+T
+K
+C
+Ln
+θ
+=
++
+=
+⇒
+=
+°
+−
+ 
+Pour l’acétate d’éthyle (2) : 
+(
+)
+2
+2
+2790,50
+57,15
+301,35
+28,20
+16,15
+112,5
+vap
+vap
+T
+K
+C
+Ln
+θ
+=
++
+=
+⇒
+=
+°
+−
+ 
+Partie 2 : diagrammes binaires 
+La figure ci-dessous représente le diagramme d’équilibre de phases liquide-vapeur du binaire cyclohexane 
+(1) – acétate d’éthyle (2) à 27°C. 
+ 
+1) Indexer totalement le diagramme  
+Domaine(I) : liquide 
+Domaine (II) : liquide=vapeur 
+Domaine (III) : vapeur 
+ 
+Courbe (1) : courbe de bulle (vaporisation). 
+Courbe (2) : courbe de Rosée 
+Z : point azéotrope 
+
+ 
+Page 7 sur 16 
+Épreuve de chimie section PC 
+Année : 2019-20120 
+2) D’après le diagramme, les deux liquides (1) et (2) présentent-ils une miscibilité nulle, partielle ou totale ?  
+D’après l’allure du diagramme, les deux liquides sont miscibles en toutes proportions.  
+ 
+3) Les mélanges liquide entre (1) et (2) sont-ils idéaux ? Justifier la réponse. 
+Les mélanges (1)-(2) ne sont pas idéaux car : 
+• 
+Pour les mélanges idéaux la courbe de vaporisation p = f(x1) sera une droite (loi de Raoult). 
+• 
+Présence de l’azéotrope  
+4) Les mélanges de (1) et (2) se font-ils avec absorption ou dégagement de chaleur ? Justifier la réponse. 
+Le diagramme présente un maximum de pression (azéotrope positive), c’est-à-dire écart positif par rapport 
+à la loi de Raoult   ∆melHm > 0  le système absorbe de la chaleur. 
+5) Citer au moins trois propriétés du mélange liquide dont le point représentatif est situé en Z.  
+• Le mélange bout à une température constante. Il se comporte comme un corps pur. 
+• 
+La vapeur émise à l’équilibre a la même composition que le liquide (x1)z = (y1) z 
+• 
+La composition de l’azéotrope varie avec un changement de la température et/ou la pression. 
+6) En se basant sur le graphique ci-dessous y1=f(x1), déterminer les coordonnées ((x1)z,(y1)z) du point 
+représentatif du mélange situé en Z pour une pression p = 0,15 bar. 
+ 
+Il suffit de tracer la droite x1=y1  l’intersection avec la courbe donne la position de l’azéotrope  
+x1=y1 = 0,51 
+
+ 
+Page 8 sur 16 
+Épreuve de chimie section PC 
+Année : 2019-20120 
+7) Soit un mélange cyclohexane (1) -acétate d’éthyle (2) de composition 90% molaire en cyclohexane à la 
+température 27°C. Ce mélange, initialement gazeux, est comprimé (on fait augmenter la pression). 
+7-a) À quelle pression apparaitra la première goutte de liquide et quelle sera sa composition ? 
+p = 0,154 bar  
+x1 = 0,97 
+7-b) Quelle sera la composition du gaz après avoir liquéfié 50 % du mélange initial ? 
+À p = 0,16 bar ; nL = nV  y1 = 0,85 
+7-c) Tracer l’allure de la courbe d’analyse de pression, pour une compression isotherme de 0,14 bar 
+jusqu’à 0,19 bar. Commenter les accidents thermiques aux points particuliers.  
+ 
+7-d) Représenter sur le diagramme par deux couleurs différentes les chemins suivis par les points 
+représentatifs des phases liquide et vapeur au cours de cette compression. 
+À Répondre sur le diagramme page 6 
+ 
+ 
+ 
+
+ 
+Page 9 sur 16 
+Épreuve de chimie section PC 
+Année : 2019-20120 
+Partie 3 : du diagramme isotherme au diagramme isobare 
+1) En utilisant des informations de la figure ci-dessous et éventuellement quelques résultats obtenus dans les 
+parties 1 et 2, tracer le plus précisément possible, le diagramme d’équilibre liquide-vapeur isobare du système 
+binaire cyclohexane (1) et acétate d’éthyle (2) sous une pression de 0,15 bar.  
+ 
+ 
+ 
+0,10
+0,11
+0,12
+0,13
+0,14
+0,15
+0,16
+0,17
+0,18
+0,19
+0,20
+0,10
+0,11
+0,12
+0,13
+0,14
+0,15
+0,16
+0,17
+0,18
+0,19
+0,20
+0
+0,1
+0,2
+0,3
+0,4
+0,5
+0,6
+0,7
+0,8
+0,9
+1
+pression /bar
+fraction molaire
+27°C
+23°C
+25°C
+acétate d'éthyle
+cyclohexane
+21,4°C
+
+ 
+Page 10 sur 16 
+Épreuve de chimie section PC 
+Année : 2019-20120 
+2) Indiquer la nature des différentes phases présentent dans les domaines. 
+À répondre sur le diagramme  
+3) Lors de la distillation fractionnée d’un mélange cyclohexane (1) et acétate d’éthyle (2) à 20% molaire en 
+cyclohexane. 
+3-a) Quelle température peut-on mesurer en tête de colonne ? 
+En tête de la colonne, on récupère le distillat qui est l’azéotrope sa température de vaporisation  
+θaz = 21,4°C 
+ 
+3-b) Quelle est la composition du distillat et celle du résidu de la distillation ? 
+Le distillat de composition (x1)Az = 0,51.  
+Le résidu de la distillation est l’acétate d’éthyle pure. 
+ 
+ 
+ 
+
+ 
+Page 11 sur 16 
+Épreuve de chimie section PC 
+Année : 2019-20120 
+Problème : diagramme de Pourbaix 
+On se propose de construire le diagramme de Pourbaix du baryum à 298K et sous pression constante égale à 
+1 bar. 
+On considère seulement les entités chimiques suivantes :  Ba(sd), Ba2+, Ba(OH)2۰8H2O(sd) et BaO2(sd). 
+La concentration totale en élément dissous est égale à la concentration de tracé Ctra = 10-1 mol.L-1. 
+Les potentiels d’électrodes font référence à l’électrode standard à hydrogène (ESH). 
+1) Donner le nombre d’oxydation de l’élément baryum dans les entités chimiques précédemment considérées. 
+Présenter les résultats dans un tableau ordonné par valeurs croissantes du nombre d’oxydation. 
+ 
+2)  
+2-a) Établir l’expression du produit de solubilité Ks du solide Ba(OH)2۰8H2O (sd) en fonction des potentiels 
+chimiques standards. 
+(
+)
+2
+2
+2
+2 8
+2
+8
+Ba OH
+H O
+Ba
+HO
+H O
++
+−
+•
+=
++
++
+ 
+À l’équilibre, 
+2
+2
+s
+K
+Ba
+HO
++
+−
+
+
+
+
+=
+×
+
+
+
+ 
+ 
+rG
+∆
+
+i
+i
+ν
+µ
+=
+×
+
+(
+)
+s
+i
+R T
+Ln K
+= −×
+×
+∑
+ 
+(
+)
+i
+i
+s
+Ln K
+ν
+µ
+×
+= −
+
+(
+)
+2
+(
+)
+2 8
+sd
+Ba OH
+H O
+i
+R T
+µ
+•
+=
+×
+∑
+
+2
+Ba
+µ
++
+−
+
+2
+HO
+µ
+−
+−×
+
+2
+(
+)
+8
+liq
+H O
+µ
+−×
+
+R T
+×
+ 
+2-b) Calculer sa valeur. 
+Application numérique : 
+(
+)
+3
+2794,40
+561,00
+2 157,30
+8 237,20
+8,51
+8,314 10
+298
+s
+Ln K
+−
+−
++
++ ×
++ ×
+=
+= −
+×
+×
+ 
+(
+)
+4
+8,51
+2 10
+s
+K
+Exp
+−
+=
+−
+=
+×
+  pKs =3,7 
+
+ 
+Page 12 sur 16 
+Épreuve de chimie section PC 
+Année : 2019-20120 
+3)  
+3-a) Établir l’expression du pH de début de précipitation de Ba(OH)2۰8H2O (sd). 
+(
+)
+2
+2
+2
+2 8
+2
+8
+Ba OH
+H O
+Ba
+HO
+H O
++
+−
+•
+=
++
++
+                pKs = 3,7 (question 2-b) 
+À l’équilibre, 
+2
+2
+s
+K
+Ba
+HO
++
+−
+
+
+
+
+=
+×
+
+
+
+ 
+2
+2
+e
+s
+K
+K
+Ba
+H
++
++
+
+
+
+
+
+
+=
+×
+
+
+
+
+
+
+
+
+
+ 
+(
+)
+(
+)
+2
+10
+1
+log
+2
+e
+s
+pH
+pK
+pK
+Ba +
+
+
+=
+−
+×
++
+
+
+ 
+(
+)
+(
+)
+10
+1
+14
+3,7
+log
+2
+tra
+pH
+C
+=
+−
+×
++
+ 
+3-b) Calculer sa valeur 
+Application numérique : 
+(
+)
+1
+14
+3,7 1
+12,65
+2
+pH =
+−
+×
+−
+=
+ 
+4) Écrire les équations bilans des réactions associées aux différents couples redox mis en jeu et exprimer leurs 
+potentiels d’électrodes en fonction du pH. 
+Couple (1) 
+(
+)
+2
+2
+2
+2
+2
+2( )
+2( )
+2
+2( )
+2
+2
+:
+4
+2
+2
+:
+:
+2
+2
+:
+:
+4
+2
+2
+2
+D
+g
+g
+G
+g
+D
+G
+BaO
+Ba
+BaO
+H
+e
+Ba
+H O
+réduction
+H
+H
+H
+H
+e
+oxydation
+Bilan BaO
+H
+H
+Ba
+H
+H O
+n
++
++
++
+−
++
++
+−
++
++
++
++
++
+=
++
+=
++
++
++
+=
++
++
+=
+ 
+Le potentiel d’électrode : 
+(
+)
+2
+2
+E BaO
+Ba
+E
++ =
+(
+)
+4
+2
+2
+10
+2
+0,06
+log
+2
+D
+H
+BaO
+Ba
+Ba
++
++
++
+
+
+
+
+
+
+
+
++
+×
+
+
+
+
+
+
+
+
+ 
+(
+)
+2
+2
+E BaO
+Ba
+E
++ =
+(
+)
+(
+)
+( )
+2
+2
+2
+10
+0,03 log
+0,12
+1
+BaO
+Ba
+Ba
+pH
++
++
+
+
+−
+×
+−
+×
+
+
+ 
+(
+)
+(
+)
+( )
+2
+2
+10
+2,35
+0,03 log
+0,12
+1
+tra
+E BaO
+Ba
+C
+pH
++ =
+−
+×
+−
+×
+ 
+ 
+ 
+Couple (2) 
+(
+)
+(
+)
+(
+)
+(
+)
+2
+2
+2
+2
+2
+2
+2
+2( )
+2( )
+2( )
+2
+2
+2
+2
+8
+:
+8
+2
+2
+8
+:
+:
+2
+2
+                                           :
+ 
+:
+2
+8
+8
+2
+2
+D
+g
+g
+G
+g
+D
+G
+BaO
+Ba OH
+H O
+BaO
+H O
+H
+e
+Ba OH
+H O
+réduction
+H
+H
+H
+H
+e
+oxydation
+Bilan BaO
+H
+H O
+H
+Ba OH
+H O
+H
+n
++
+−
++
++
+−
++
++
+•
++
++
++
+=
+•
+=
++
++
++
++
+=
+•
++
+=
+ 
+Le potentiel d’électrode : 
+(
+)
+(
+)
+2
+2
+2
+8
+E BaO
+Ba OH
+H O
+E
+•
+=
+
+(
+)
+(
+)
+(
+)
+2
+2
+2
+10
+2
+0,06
+8
+log
+2
+D
+BaO
+Ba OH
+H O
+H +
+
+
+•
++
+×
+
+
+ 
+(
+)
+(
+)
+( )
+2
+2
+2 8
+1,63
+0,06
+2
+E BaO
+Ba OH
+H O
+pH
+•
+=
+−
+×
+ 
+ 
+
+ 
+Page 13 sur 16 
+Épreuve de chimie section PC 
+Année : 2019-20120 
+Couple (3) 
+(
+)
+2
+2
+2( )
+2( )
+2
+2( )
+:
+2
+:
+:
+2
+2
+:
+:
+2
+2
+g
+g
+g
+Ba
+Ba
+Ba
+e
+Ba
+réduction
+H
+H
+H
+H
+e
+oxydation
+Bilan Ba
+H
+Ba
+H
+n
++
++
+−
++
++
+−
++
++
++
+=
+=
++
++
+=
++
+=
+ 
+Le potentiel d’électrode : 
+(
+)
+2
+E Ba
+Ba
+E
++
+=
+(
+)
+(
+)
+( )
+2
+2
+10
+0,06
+log
+3
+2
+Ba
+Ba
+Ba
++
++
+
+
++
+×
+
+
+ 
+(
+)
+2
+E Ba
+Ba
+E
++
+=
+(
+)
+(
+)
+2
+10
+0,03 log
+tra
+Ba
+Ba
+C
++
++
+×
+ 
+(
+)
+(
+)
+2
+1
+10
+2,91 0,03 log
+10
+2,94
+E Ba
+Ba
+V
++
+−
+= −
++
+×
+= −
+ 
+Couple (4) 
+(
+)
+(
+)
+(
+)
+(
+)
+2
+2
+2
+2
+2
+2( )
+2( )
+2( )
+2
+2
+8
+:
+8
+2
+2
+10
+:
+:
+2
+2
+                                           :
+ 
+                  :
+8
+2
+2
+2
+D
+g
+g
+G
+g
+D
+G
+Ba OH
+H O Ba
+Ba OH
+H O
+H
+e
+Ba
+H O
+réduction
+H
+H
+H
+H
+e
+oxydation
+Bilan
+Ba OH
+H O
+H
+H
+Ba
+H
+n
++
+−
++
++
+−
++
++
+•
+•
++
++
+=
++
+=
++
+•
++
++
+=
++
+=
+ 
+Le potentiel d’électrode : 
+(
+)
+(
+)
+2
+2
+8
+E Ba OH
+H O Ba
+E
+•
+=
+
+(
+)
+(
+)
+(
+)
+2
+2
+10
+2
+0,06
+8
+log
+2
+D
+Ba OH
+H O Ba
+H +
+
+
+•
++
+×
+
+
+ 
+(
+)
+(
+)
+( )
+2
+2 8
+2,19
+0,06
+4
+E Ba OH
+H O Ba
+pH
+•
+= −
+−
+×
+ 
+5) Tracer et indexer le diagramme E-pH du baryum. 
+ 
+
+ 
+Page 14 sur 16 
+Épreuve de chimie section PC 
+Année : 2019-20120 
+6) Identifier les zones d’immunité, de passivation et de corrosion du baryum. 
+BaO2 et Ba(OH)2.8H2O : passivation 
+Ba : immunité 
+Ba2+ : corrosion 
+ 
+ 
+ 
+
+ 
+Page 15 sur 16 
+Épreuve de chimie section PC 
+Année : 2019-20120 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Page 16 sur 16 
+Épreuve de chimie section PC 
+Année : 2019-20120 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,488 @@
+République Tunisienne
+Ministère de l’Enseignement Supérieur
+et de la Recherche Scientiﬁque
+Concours Nationaux d’Entrée aux Cycles
+de Formation d’Ingénieurs
+Session 2020
+Concours Mathématiques et Physique
+Corrigé de l’épreuve de Mathématiques II
+Questions préliminaires
+1.
+(a)
+• Soit k ∈N et X ∈ker(M −αIn)k. On a
+(M −αIn)k+1X = (M −αIn)(M −αIn)kX = 0.
+Donc X ∈ker(M −αIn)k+1.
+• La suite d’entiers naturels (dimker(M −αIn)k)k∈N est croissante et majorée par
+n, par suite elle est stationnaire. Ainsi,
+∃p ∈N/∀k ≥p,dimker(M −αIn)k = dimker(M −αIn)p.
+Puisque pour tout k ≥p,ker(M −αIn)p ⊂ker(M −αIn)k alors
+∀k ≥p,ker(M −αIn)k = ker(M −αIn)p.
+(b) Montrons le résultat par récurrence.
+Soit i ∈N⋆et HR(i) : ker(M −αIn)k0 = ker(M −αIn)k0+i.
+• Initialisation : Par hypothèse, ker(M −αIn)k0 = ker(M −αIn)k0+i. Donc HR(1) est
+vraie.
+• Hérédité : Soit i ∈N⋆. Supposons que HR(i) est vraie et montrons que HR(i + 1)
+est vraie.
+On sait déjà que ker(M −αIn)k0 ⊂ker(M −αIn)k0+i+1.
+Réciproquement, si X ∈ker(M −αIn)k0+i+1 alors
+(M −αIn)X ∈ker(M −αIn)k0+i
+=
+HR(i) ker(M −αIn)k0.
+Ainsi, X ∈ker(M −αIn)k0+1 = ker(M −αIn)k0.
+(c) Notons χM(X) =
+∏
+λ∈SpC(M)
+(X −λ)mλ, le polynôme caractéristique de la matrice M.
+D’après le théorème de Cayley-Hamilton, Cn = kerχM(M). De plus, d’après le lemme
+de décomposition des noyaux, on a
+kerχM(M) =
+M
+λ∈SpC(M)
+ker(M −λIn)mλ .
+
+Concours Mathématiques et Physique
+Corrigé de l’épreuve de Mathématiques II
+Page 2 sur 8
+D’où le résultat.
+(d) Notons λ1,...,λp les valeurs propres complexes distinctes de M.
+• Supposons que M est diagonalisable dans Mn(C). Dans ce cas, il existe une ma-
+trice Q ∈GLn(C) telle que
+M = Qdiag(λ1Imλ1,...,λpImλp)Q−1.
+Ainsi,
+M −λ1In = Qdiag(0Mmλ1 (C),(λ2 −λ1)Imλ2,...,(λp −λ1)Imλp)Q−1.
+et
+(M −λ1In)2 = Qdiag(0Mmλ1 (C),(λ2 −λ1)2Imλ2,...,(λp −λ1)2Imλp)Q−1.
+D’où, dimker(M −λ1In) = mλ1 = dimker(M −λ1In)2.
+Comme ker(M −λ1In) ⊂ker(M −λ1In)2 alors ker(M −λ1In) = ker(M −λ1In)2.
+De la même manière, on montre que ker(M −λiIn) = ker(M −λiIn)2 pour tout
+i ∈⟦1, p⟧.
+• Supposons que pour tout λ ∈SpC(M),ker(M −λIn) = ker(M −λIn)2.
+D’après la question 1-b, on a :
+∀λ ∈SpC(M),∀k ∈N⋆, ker(M −λIn) = ker(M −λIn)k.
+En particulier,
+∀λ ∈SpC(M), ker(M −λIn) = ker(M −λIn)mλ.
+Ainsi, d’après la question 1-c, on a
+Cn =
+M
+λ∈SpC(M)
+ker(M −λIn).
+La matrice M est alors diagonalisable dans Mn(C).
+2.
+(a) Notons u =
+n
+∑
+k=1
+ukek et v =
+n
+∑
+k=1
+vkek. On a
+< u,v >=
+n
+∑
+k=1
+n
+∑
+l=1
+ukvl < ek,el >=t UMV,
+avec U = MatB(u) et v = MatB(v).
+(b) La matrice M est clairement symétrique.
+Si U ∈Rn \ {0} alors tUMU =< u,u >> 0 avec u ∈E \ {0} tel que U = MatB(u).
+3.
+(a) D’après le théorème spectral, la matrice S est diagonalisable dans Mn(R). On consi-
+dère alors λ une valeur propre de S et U ∈Rn \ {0} un vecteur propre associé. On a
+alors
+λtUU =t USU = 0 et tUU , 0.
+
+Concours Mathématiques et Physique
+Corrigé de l’épreuve de Mathématiques II
+Page 3 sur 8
+Donc, λ = 0.
+(b) La matrice S est diagonalisable dans Mn(R) et SpR(S) = {0}, donc S = 0.
+Partie I : Cas où A est diagonalisable dans Mn(C) et à valeurs propres imaginaires
+A-Exemple
+1. On a A2 = −I2. Ainsi,
+∀k ∈N,∀t ∈R,(tA)2k = (−1)kt2kI2 et (tA)2k+1 = (−1)kt2k+1A.
+2. Soit t ∈R. On a
+etA =
++∞
+∑
+k=0
+(tA)2k
+(2k)! +
++∞
+∑
+k=0
+(tA)2k+1
+(2k + 1)! = (
++∞
+∑
+k=0
+(−1)kt2k
+(2k)!
+)I2 + (
++∞
+∑
+k=0
+(−1)kt2k+1
+(2k + 1)! )A =
+
+
+
+cost
+−sint
+sint
+cost
+
+
+
+3. Soit ϕ une solution de (E). Il existe alors X0 =
+
+
+
+x
+y
+
+
+∈C2 tel que :
+∀t ∈R, ϕ(t) = etAX0 =
+
+
+
+xcost −ysint
+xsint + ycost
+
+
+.
+Par suite, pour tout t ∈R,∥ϕ(t)∥∞≤|x| + |y|. La fonction ϕ est alors bornée sur R.
+B-Généralisation
+1.
+(a) On a
+etAV = ( lim
+N7→+∞
+N
+∑
+k=0
+tkAk
+k! )V.
+Comme l’application Mn(C) →Cn; M 7→MV est continue car elle est linéaire sur un
+espace de dimension ﬁnie, alors
+( lim
+N7→+∞
+N
+∑
+k=0
+tkAk
+k! )V =
+lim
+N7→+∞((
+N
+∑
+k=0
+tkAk
+k! )V).
+Par suite,
+etAV =
+lim
+N7→+∞(
+N
+∑
+k=0
+tkAk
+k! V) =
+lim
+N7→+∞(
+N
+∑
+k=0
+tkλk
+k! V) = ( lim
+N7→+∞
+N
+∑
+k=0
+tkλk
+k! )V = etλV.
+
+Concours Mathématiques et Physique
+Corrigé de l’épreuve de Mathématiques II
+Page 4 sur 8
+(b) Comme dimSE = n, il suﬃt de montrer que la famille (ϕ1,..., ϕn) engendre SE.
+Pour tout k ∈⟦1,n⟧, ϕk ∈SE.
+Soit ϕ une solution quelconque de (E). Il existe alors X ∈Cn tel que ϕ(t) = etAX.
+Comme (V1,...,Vn) engendre Cn, alors
+X = α1V1 + ... + αnVn,
+où α1,...,αn sont des scalaires.
+Par suite, pour tout t ∈R, on a :
+ϕ(t) = α1etAV1 + ... + αnetAVn = α1etλ1V1 + ... + αnetλnVn.
+On déduit que
+ϕ = α1ϕ1 + ... + αnϕn.
+D’où le résultat.
+(c) Soit ϕ une solution de (E) et ∥.∥une norme quelconque sur Cn.
+Il existe des scalaires α1,...,αn tels que
+∀t ∈R, ϕ(t) =
+n
+∑
+k=1
+αketλkVk.
+Ainsi,
+∀t ∈R,∥ϕ(t)∥≤
+n
+∑
+k=1
+|αk|∥Vk∥.
+La solution ϕ est alors bornée sur R.
+2.
+(a) Soit ϕ la solution de (E) déﬁnie par
+∀t ∈R, ϕ(t) = etAV0 = etλV0.
+Par hypothèse, la fonction ϕ est bornée sur R. Comme ∥ϕ(t)∥= etRe(λ)∥V0∥, alors
+Re(λ) = 0.
+(b)
+i. Pour tout t ∈R, on a
+etAw = etλet(A−λIn)w = etλ(w + t(A −λIn)w +
++∞
+∑
+k=2
+tk
+k!(A −λIn)kw) = etλ(w + tv).
+ii. Par hypothèse, la solution de (E), ϕ(t) = etAw est bornée sur R. Si v , 0 alors
+∥ϕ(t)∥= etRe(λ)∥w + tv∥= ∥w + tv∥7→+∞,t →+∞.
+Ce qui est absurde. Par suite, (A −λIn)w = 0.
+On a montré alors que ker(A −λIn)2 ⊂ker(A −λIn).
+
+Concours Mathématiques et Physique
+Corrigé de l’épreuve de Mathématiques II
+Page 5 sur 8
+iii. D’après la question précédente, on a
+ker(A −λIn) ⊂ker(A −λIn)2 ⊂ker(A −λIn).
+Ainsi,
+∀λ ∈SpC(A),ker(A −λIn) = ker(A −λIn)2.
+D’après la question 1-d de la partie préliminaire, la matrice A est alors diagona-
+lisable dans Mn(C).
+C-Application
+1. On a
+teA =t ( lim
+N7→+∞
+N
+∑
+k=0
+Ak
+k! ).
+Par continuité de l’application linéaire Mn(R) →Mn(R); M 7→t M, on a
+teA =
+lim
+N7→+∞
+t(
+N
+∑
+k=0
+Ak
+k! ) =
+lim
+N7→+∞
+N
+∑
+k=0
+(tA)k
+k!
+=
+lim
+N7→+∞
+N
+∑
+k=0
+(−A)k
+k!
+= e−A = (eA)−1.
+Par conséquent, la matrice eA est orthogonale.
+2. Soit s ∈R. On a :
+∥esAU∥2 =t U
+tesAesAU.
+Comme sA ∈ASn(R) alors esA ∈On(R). Ainsi,
+∥esAU∥2 =t UU = ∥U∥2.
+3. D’après la question précédente, si A ∈ASn(R) alors les solutions de (E) sont bornées sur
+R. Par suite, d’après la partie précédente, A est diagonalisable dans Mn(C) et SpC(A) ⊂
+{ia,a ∈R}.
+Partie II : Cas où les valeurs propres de A sont de parties réelles strictement néga-
+tives
+1. Soit λ une valeur propre de A et V un vecteur propre associé. On considère ϕ la solution
+de (E) déﬁnie par
+∀t ∈R, ϕ(t) = etAV = eλtV.
+Par hypothèse, etRe(λ)∥V∥= ∥ϕ(t)∥7→0,t →+∞.
+Ainsi, Re(λ) < 0.
+2.
+(a) On a
+∀i ∈⟦1,r⟧,∀k ≥mi,(A −λiIn)kUi = 0.
+
+Concours Mathématiques et Physique
+Corrigé de l’épreuve de Mathématiques II
+Page 6 sur 8
+Ainsi,
+et(A−λiIn)Ui =
+mi−1
+∑
+k=0
+tk
+k!(A −λiIn)kUi +
++∞
+∑
+k=mi
+tk
+k!(A −λiIn)kUi =
+mi−1
+∑
+k=0
+tk
+k!(A −λiIn)kUi.
+(b) Pour t ∈R, on a :
+etAUi = et(A−λiIn)+tλiInUi = etλi
+mi−1
+∑
+k=0
+tk
+k!(A −λiIn)kUi.
+(c) Soit i ∈⟦1,r⟧et k ∈⟦0,mi −1⟧.
+Comme l’application linéaire Cn →Cn;X 7→(A −λiIn)kX est continue, alors il existe
+une constante Ci,k > 0 telle que :
+∀X ∈Cn,∥(A −λiIn)kX∥≤Ci,k∥X∥.
+On pose alors C = max{Ck,i,i ∈⟦1,r⟧,k ∈⟦0,mi −1⟧}.
+(d)
+• Soit t ∈R. On a
+∥etAUi∥= ∥etλi
+mi−1
+∑
+k=0
+tk
+k!(A −λiIn)kUi∥≤etRe(λi)
+mi−1
+∑
+k=0
+|t|k
+k! ∥(A −λiIn)kUi∥.
+En utilisant la question précédente, on obtient
+∥etAUi∥≤etRe(λi)C
+mi−1
+∑
+k=0
+|t|k
+k! ∥Ui∥≤etRe(λi)C
+mi−1
+∑
+k=0
+mi −1
+k
+
+|t|k∥Ui∥= CetRe(λi)(1+ |t|)mi−1∥Ui∥
+• Comme U = U1 + ... + Ur alors
+∥etAU∥≤
+r
+∑
+i=1
+∥etAUi∥≤
+r
+∑
+i=1
+CetRe(λi)(1 + |t|)mi−1∥Ui∥.
+Comme mi ≤n pour tout i ∈⟦1,r⟧, alors
+∥etAU∥≤C(1 + |t|)n−1(
+r
+∑
+i=1
+etRe(λi))max
+1≤i≤r∥Ui∥.
+(e) Comme Re(λi) < 0 pour tout i ∈⟦1,r⟧, alors lim
+t7→+∞(1 + |t|)n−1etRe(λi) = 0.
+On déduit alors que
+∀U ∈Cn, lim
+t7→+∞∥etAU∥= 0.
+3.
+(a) La fonction t 7→(1 + |t|)n−1etRe(λ)eta est continue sur R+ et tend vers 0 lorsque t tend
+vers +∞. Donc elle est bornée sur R+.
+
+Concours Mathématiques et Physique
+Corrigé de l’épreuve de Mathématiques II
+Page 7 sur 8
+(b) D’après la question précédente, il existe une constante C1 > 0 telle que
+∀t ≥0,(1 + |t|)n−1(
+r
+∑
+i=1
+etRe(λi)) = (1 + |t|)n−1(
+r
+∑
+i=1
+etRe(λi))etae−ta ≤C1e−at.
+Par suite,
+∀U ∈Cn,∀t ∈R+,∥etAU∥≤C
+′e−at,
+avec C
+′ = CC1.
+Partie III : Application à l’équation de Lyapunov
+1. Soit (U,V) ∈Rn × Rn. Soit a > 0 vériﬁant Re(λ) < −a pour tout λ ∈SpC(A). D’après la
+partie précédente, on a
+∥etAU∥≤C1e−at et ∥etAV∥≤C2e−at
+où C1 et C2 sont des constantes.
+Ainsi, d’après l’inégalité de Cauchy-Schwarz, on a
+| < etAU,etAV > | ≤∥etAU∥.∥etAV∥≤C1C2e−2at.
+Comme la fonction t 7→e−2at est continue sur [0,+∞[ et e−2at
+=
+t7→+∞o
+
+1
+t2
+
+alors elle est
+intégrable sur [0,+∞[.
+On conclut alors que t 7→< etAU,etAV > est intégrable sur [0,+∞[ et que Φ est bien déﬁnie.
+2.
+• Il est clair que Φ est une forme bilinéaire symétrique positive.
+• Soit U ∈Rn tel que Φ(U,U) = 0. Dans ce cas, la fonction t 7→∥etAU∥2 est continue,
+positive et d’intégrale nulle, donc pour tout t ≥0,etAU = 0. En choisissant t = 0, on
+trouve que U = 0. Ainsi, Φ est déﬁnie.
+On conclut alors que Φ est un produit scalaire sur Rn.
+3.
+• Première méthode
+Comme Φ est bilinéaire et IdRn : U 7→U est diﬀérentiable alors q est diﬀérentiable et
+on a : ∀U ∈Rn,∀H ∈Rn,
+dq(U).H = Φ(dIRn(U).H,U) + Φ(U,dIRn(U).H) = Φ(H,U) + Φ(U, H) = 2Φ(U, H).
+• Deuxième méthode
+Soit ψ : Rn →Rn × Rn,U 7→(U,U). Comme q = Φ ◦ψ, Φ et ψ sont diﬀérentiables alors
+q est aussi diﬀérentiable et on a : ∀U ∈Rn,∀H ∈Rn,
+dq(U).H = dΦ(ψ(U)).(dψ(U).H) = dΦ(U,U)(H, H) = Φ(U, H) + Φ(H,U) = 2Φ(U, H).
+• Troisième méthode
+Soit (U, H) ∈Rn × Rn. On a :
+q(U + H) −q(U) = Φ(U, H) + Φ(H,U) + Φ(H, H).
+
+Concours Mathématiques et Physique
+Corrigé de l’épreuve de Mathématiques II
+Page 8 sur 8
+Par équivalence des normes en dimension ﬁnie, Φ(H, H) ≤β∥H∥2. Par suite,
+Φ(H, H) =
+H7→0 o(∥H∥).
+On conclut que q est diﬀérentiable et que dq(U).H = Φ(U, H) + Φ(H,U) = 2Φ(U, H).
+4. Pour tout t ∈R, f (t) =< etAU,etAU >. Comme la fonction t 7→etAU est dérivable sur R et
+sa dérivée est la fonction t 7→AetAU alors f est dérivable sur R et on a :
+∀t ∈R, f ′(t) =< AetAU,etAU > + < etAU, AetAU >= 2 < AetAU,etAU > .
+5. On sait que 0 ≤f (t) ≤Ce−2ta avec C > 0 et a > 0. Par suite, lim
+t7→+∞f (t) = 0. On déduit alors
+que :
+2Φ(U, AU) =
+Z +∞
+0
+f ′(t)dt = −f (0) = −∥U∥2.
+6.
+(a) On munit Rn du produit scalaire Φ. En appliquant la deuxième question de la partie
+préliminaire, on a :
+∀(U,V) ∈Rn × Rn,Φ(U,V) =t UBV.
+En particulier, pour tout U ∈Rn, on a
+Φ(U, AU) =t UBAU.
+Par suite, pour tout U ∈Rn, on a
+2Φ(U, AU) = Φ(U, AU) + Φ(AU,U) =t UBAU +t (AU)BU =t UBAU +t UtABU.
+On conclut que, −tUU = −∥U∥2 = 2Φ(U, AU) =t UBAU +t UtABU.
+(b) Toujours d’après la question 2-a de la partie préliminaire, la matrice B ∈S++
+n
+.
+D’après la question précédente, on a :
+∀U ∈Rn,t U(BA +t AB + In)U = 0.
+Comme la matrice BA +t AB + In ∈Sn(R) alors d’après la question 2-b de la partie
+préliminaire, BA +t AB + In = 0. D’où le résultat.

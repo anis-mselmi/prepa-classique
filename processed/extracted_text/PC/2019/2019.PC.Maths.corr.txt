@@ -1,0 +1,960 @@
+République Tunisienne
+Ministère de l’Enseignement Supérieur
+et de la Recherche Scientiﬁque
+Concours Nationaux d’Entrée aux Cycles
+de Formation d’Ingénieurs
+Session 2019
+ـﺔّﺍاﻟﺗﻭوﻧﺳﻳﯾـ  ـــﺔّﻭوﺭرﻳﯾُﺍاﻟﺟﻣﻬﮭ
+ﺍاﻟﻣﻧﺎﻅظﺭرﺍاﺕت  ﺍاﻟﻭوﻁطﻧﻳﯾﺔ  ﻟﻠﺩدﺧــﻭوﻝل
+ﺇإﻟﻰ  ﻣﺭرﺍاﺣـﻝل  ﺗﻛﻭوﻳﯾـﻥن  ﺍاﻟﻣﻬﮭﻧﺩدﺳﻳﯾـﻥن
+  ﺩدﻭوﺭرﺓة2017
+9 
+Concours Physique et Chimie
+Corrigé de l’épreuve de Mathématiques
+Problème 1
+Partie I :
+Pour tout entier naturel n, on pose un = R 1
+0 −ln(t)tndt et I = R 1
+0
+ln(t)
+t2−1dt.
+1. On pose f (t) = ln(t)
+t2−1. On a :
+• f est continue sur ]0,1[.
+• f (t) ⇠
+0 −ln(t) et R 1
+2
+0 ln(t)dt converge.
+• f (t) ⇠
+1
+1
+2 et R 1
+1
+2
+1
+2dt converge.
+En utilisant le critère d’équivalence, on en déduit l’existence de I.
+2. On a lim
+t!0+g(t) = 0, lim
+t!1−g(t) = −1
+2 et g est continue sur ]0,1[. Alors g se prolonge par conti-
+nuité sur [0,1] par la fonction ˜g déﬁnie sur [0,1] par :
+˜g(t) =
+8
+>
+>
+>
+>
+>
+<
+>
+>
+>
+>
+>
+:
+g(t),
+si t 2]0,1[,
+0,
+si t = 0,
+−1
+2,
+si t = 1.
+Il existe alors M > 0 tel que 8x 2 [0,1],| ˜g(t)| M.
+3. On a :
+&&&&&I −
+n
+Â
+k=0
+u2k
+&&&&&
+=
+|
+Z 1
+0 t2n+2 ln(t)
+1 −t2 dt|
+=
+|
+Z 1
+0 t2n+1g(t)dt| M
+Z 1
+0 t2n+1dt =
+M
+2n + 2.
+4. Une intégration par parties donne un =
+1
+(n+1)2. On obtient ainsi :
+&&&&&I −
+n
+Â
+k=0
+1
+(2k + 1)2
+&&&&& =
+M
+2n + 2.
+
+Concours Physique et Chimie
+Corrigé de l’épreuve de Mathématiques
+Page 2 sur 10
+Par passage à la limite quand n ! +• on obtient :
++•
+Â
+n=0
+1
+(2n + 1)2 = I.
+Partie II :
+1. On pose j(x,t) =
+arctan( x
+t )
+(1+t2) . j est continue sur R⇥]0,+•[. On sait que 8t > 0, et x 2 R,
+|j(x,t)| 
+p
+2
+1+t2 et que R +•
+0
+p
+2
+1+t2 dt converge alors F est déﬁnie et continue sur R.
+F(1) = R +•
+0
+p
+2 −arctan(t)
+(1+t2)
+dt =
+h
+p
+2 arctan(t) −1
+2 arctan2(t)
+i+•
+0
+= p2
+8 .
+2. j est de classe C1 sur ]0,+•[⇥]0,+•[ et
+∂j
+∂x (x,t)
+=
+1
+t(1 + t2)
+⇣
+1 +
++ x
+t
+,2⌘
+=
+t
+(1 + t2)(t2 + x2).
+Soit a > 0. On a pour tout x ≥a,
+&&&&
+∂j
+∂x (x,t)
+&&&& 
+t
+(1 + t2)(t2 + a2) = Y(t).
+Y est continue sur [0,+•[ , de plus Y(t) ⇠+•
+1
+t3. D’où F est de classe C1 sur ]0,+•[ et pour
+tout x > 0 tel que x , 1, on a :
+∂j
+∂x (x,t) =
+1
+1 −x2
+✓
+t
+(1 + t2) −
+t
+(t2 + x2)
+◆
+.
+Donc
+F0 (x)
+=
+Z +•
+0
+∂j
+∂x (x,t)dt
+=
+1
+1 −x2
+Z +•
+0
+t
+(t2 + x2) −
+t
+(1 + t2)dt.
+3. Un calcul simple montre que F0(x) = ln(x)
+x2−1. Comme F(0) = 0 alors
+F(x) =
+Z x
+0
+ln(t)
+t2 −1dt.
+
+Concours Physique et Chimie
+Corrigé de l’épreuve de Mathématiques
+Page 3 sur 10
+4. On a I = F(1) = p2
+8 . Par suite
++•
+Â
+n=0
+1
+(2n+1)2 = p2
+8 .
+D’autre part,
++•
+Â
+n=0
+1
+n2 =
++•
+Â
+n=0
+1
+(2n+1)2 +
++•
+Â
+n=0
+1
+(2n)2 et donc
++•
+Â
+n=0
+1
+n2 = 4
+3
++•
+Â
+n=0
+1
+(2n+1)2 = p2
+6 .
+5. On a :
+F1 =
+1
+X (X + 1)2
+=
+1 + X −X
+X (X + 1)2 =
+1
+X(X + 1) −
+1
+(X + 1)2
+=
+1
+X −
+1
+X + 1 −
+1
+(X + 1)2.
+6. On a :
++•
+Â
+n=1
+1
+n(n + 1)2
+=
++•
+Â
+n=1
+⇣1
+n −
+1
+n + 1 −
+1
+(n + 1)2
+⌘
+=
++•
+Â
+n=1
+⇣1
+n −
+1
+n + 1
+⌘
+−
++•
+Â
+n=1
+1
+(n + 1)2 = 2 −p2
+6 .
+Partie III :
+1. On a :
+P(X = n)
+=
++•
+Â
+k=0
+P(X = n,Y = k) =
++•
+Â
+k=0
+l
+(n + 1)k+3
+=
+l
+(n + 1)3
++•
+Â
+k=0
+1
+(n + 1)k
+=
+l
+n(n + 1)2.
+Comme
++•
+Â
+n=1
+P(X = n) = 1 on en déduit que l =
+1
+2−p2
+6
+.
+2. La série de terme général nP(X = n) =
+l
+(n + 1)2 est convergente, donc X admet une espé-
+
+Concours Physique et Chimie
+Corrigé de l’épreuve de Mathématiques
+Page 4 sur 10
+rance E(X) et
+E(X)
+=
++•
+Â
+n=1
+nP(X = n)
+=
++•
+Â
+n=1
+l
+(n + 1)2
+=
+l
+✓p2
+6 −1
+◆
+=
+p2
+6 −1
+2 −p2
+6
+.
+3. La série de terme général n2P(X = n) =
+ln
+(n + 1)2 est divergente, donc X n’admet pas de
+variance.
+4. Pour k 2 N,
+P(Y = k)
+=
++•
+Â
+n=1
+P(X = n,Y = k)
+=
++•
+Â
+n=1
+l
+(n + 1)k+3
+=
+l
++•
+Â
+n=2
+1
+nk+3 = l(H (k + 3) −1).
+5. On a :
++•
+Â
+k=0
+P(Y = k) =
++•
+Â
+k=0
+l(H(k + 3) −1) = l
++•
+Â
+k=3
+(H(k) −1) = 1. Alors :
++•
+Â
+k=3
+(H(k) −1) = 1
+l = 2 −p2
+6 .
+On en déduit que
++•
+Â
+k=2
+(H (k) −1) = 1.
+6. On a
++•
+Â
+n=2
++ 2
+n
+,x = 1 +
++•
+Â
+n=3
++ 2
+n
+,x .
+On pose un(x) =
++ 2
+n
+,x = exln( 2
+n) 4
+n2 pour x ≥2. Donc la série Âun(x) converge normalement
+donc uniformément sur [2,+•[. On en déduit alors que
+lim
+x!+•
++•
+Â
+n=2
+✓2
+n
+◆x
+= 1 + lim
+x!+•
++•
+Â
+n=3
+✓2
+n
+◆x
+= 1.
+
+Concours Physique et Chimie
+Corrigé de l’épreuve de Mathématiques
+Page 5 sur 10
+7. D’après la question précédente H(x) −1
+⇠
+x!+• 2−x. Par conséquent vk = P(Y = k)
+⇠
+k!+•
+l2−(k+3).
+8. Les séries de termes généraux kP(Y = k) = lk
+2k+3 et k2P(Y = k) = lk2
+2k+3 sont convergentes,
+donc Y admet une espérance et une variance.
+Problème 2
+Partie I :
+1. Soit A =
++
+aij
+,
+1i,jn 2 Mn(R). On note tA =
++
+bij
+,
+1i,jn , avec bij = aji pour tout (i, j). On
+note tA.A =
++
+cij
+,
+1i,jn . On a alors cij =
+n
+Â
+k=1
+bikakj =
+n
+Â
+k=1
+akiakj. D’où :
+Tr(tA.A) =
+n
+Â
+i=1
+cii =
+n
+Â
+i=1
+n
+Â
+k=1
+(aki)2 = Â
+1i,jn
++
+aij
+,2 .
+2. Soit A =
+0
+B
+@
+a
+b
+c
+d
+1
+C
+A 2 SO2(R) alors
+8
+>
+<
+>
+:
+tA.A = I,
+det(A) = 1,
+et par suite
+8
+>
+>
+>
+>
+>
+<
+>
+>
+>
+>
+>
+:
+a2 + b2 = 1,
+c2 + d2 = 1,
+ad −bc = 1.
+Donc
+8
+>
+>
+>
+>
+>
+<
+>
+>
+>
+>
+>
+:
+9b 2 R/a = cosb, b = sinb,
+9q 2 R/c = sinq, d = cosq,
+cos(q + b) = 1 ) 9k 2 Z/q + b = 2kp,
+ainsi
+8
+>
+<
+>
+:
+cosb = cos(2kp −q) = cosq,
+sinb = sin(2kp −q) = −sinq,
+et par suite A est de la forme
+0
+B
+@
+cosq
+−sinq
+sinq
+cosq
+1
+C
+A/q 2 R}.
+
+Concours Physique et Chimie
+Corrigé de l’épreuve de Mathématiques
+Page 6 sur 10
+3. Soient q1 et q2 deux réels. On a :
+Rq1.Rq2
+=
+0
+B
+@
+cosq1
+−sinq1
+sinq1
+cosq1
+1
+C
+A
+0
+B
+@
+cosq2
+−sinq2
+sinq2
+cosq2
+1
+C
+A
+=
+0
+B
+@
+cos(q1 + q2)
+−sin(q1 + q2)
+sin(q1 + q2)
+cos(q1 + q2)
+1
+C
+A = Rq1+q2.
+Un raisonnement par récurrence montre que pour tout entier naturel k on a : (Rq)k = Rkq.
+Partie II :
+On considère l’application f : SLn(R) ! R; A 7! Tr(tA.A).
+1. Dans cette question n = 2.
+(a) On a (a −d)2 ≥0 alors a2 + d2 ≥2ad. De la même manière on aura −2bc b2 + c2.
+Donc pour A =
+0
+B
+@
+a
+b
+c
+d
+1
+C
+A 2 SL2(R), on a :
+a2 + b2 + c2 + d2 ≥2(ad −bc) = 2.
+C’est à dire f (A) 2 [2,+•[.
+(b) Si f (A) = 2 alors a2 + b2 + c2 + d2 = 2 = 2(ad −bc) alors
+(a −d)2 + (b + c)2 = 0.
+Donc a = d et b = −c. Comme det A = 1 alors a2 + b2 = 1 donc il existe q 2 R telle que
+A =
+0
+B
+@
+cosq
+−sinq
+sinq
+cosq
+1
+C
+A ; c’est à dire A 2 SO2(R).
+La condition suﬃsante est triviale.
+(c) On a f (Mx) = 2 + x2. On en déduit que 8y ≥2, y = f (Mp
+y−2).
+Par suite Imf = [2,+•[.
+2. Soit A 2 SLn(R) et X1,X2,...,Xn les colonnes de A.
+
+Concours Physique et Chimie
+Corrigé de l’épreuve de Mathématiques
+Page 7 sur 10
+(a) On utilise la question 1. de la partie I, on trouve :
+f (A) = Â
+1i,jn
++
+xij
+,2 = Â
+1in
+kXik2.
+(b) En utilisant l’inégalité de Hadamard, on a :
+1 = |det(A)| kX1k ... kXnk,
+donc 1 
+n
+’
+i=1
+kXik2. Par suite, 1 
+n
+s
+n
+’
+i=1
+kXik2.
+(c) Par l’inégalité arithmético-géométrique on obtient :
+1 
+n
+s
+n
+’
+i=1
+kXik2 kX1k2+...+kXnk2
+n
+= f (A)
+n .
+Donc f (A) ≥n et par suite Imf ⇢[n,+•[.
+(d) Si f (A) = n alors 1 
+n
+s
+n
+’
+i=1
+kXik2 kX1k2+...+kXnk2
+n
+= 1 et par suite det(A) = 1 et
+n
+s
+n
+’
+i=1
+kXik2 =
+kX1k2+...+kXnk2
+n
+.
+C’est les cas des égalités dans les inégalités de Hadamard et l’inégalité arithmético-
+géométrique, on en déduit que la famille {X1, ... ,Xn} est orthonormale.
+(e) Si A 2 f −1({n}) alors f (A) = n et par suite det(A) = 1 et la famille X1,X2,...,Xn des
+colonnes de A est orthonormale. Donc A 2 SOn(R).
+Réciproquement si A 2 SOn(R) f (A) = Tr(tA.A) = n.
+(f) D’après la question II)2)b) on a Im( f ) ⇢[n,•[. Réciproquement en s’inspirant de la
+question II)1)d) nous considérons la matrice
+My = In + py −nE12, on obtient f (My) = y, donc Imf = [n,+•[.
+Partie III :
+1. Soit A 2 Sn(R).
+(a) A est symétrique à coeﬃcients réels donc d’après le théorème spectral il existe P 2
+On(R) et D = diag(l1,l2, ··· ,ln) diagonale tel que A = P.D.tP.
+
+Concours Physique et Chimie
+Corrigé de l’épreuve de Mathématiques
+Page 8 sur 10
+(b) Comme D = (diag( 3pl1, 3pl2, ··· ,
+3p
+ln)3 =: D3
+1.
+M = P.D1.tP répond à la question. Ceci montre aussi que l’application h est surjective.
+2. Soit M et N 2 Sn(R) tels que h(M) = h(N) = A. Soit
+7
+l1,l2,...,lp
+ 
+l’ensemble des valeurs
+propres de M.
+(a) Pour tout i 2 {1,2,..., p} et X , 0 tel que X 2 Eli(M) on a :
+MX = liX ) M3X = AX = l3
+i X ) X 2 El3
+i (A).
+Par suite on a : Eli(M) ⇢El3
+i (A).
+(b) Le fait que M 2 Sn(R) alors Rn =
+p
+⊕
+i=1Eli(M).
+D’autre part on a : Eli(M) ⇢El3
+i (A) et en utilisant le fait que si i , j, l3
+i , l3
+j alors
+Rn =
+p
+⊕
+i=1Eli(M) =
+p
+⊕
+i=1El3
+i (A).
+Par suite
+p
+Â
+i=1
+[dim(El3
+i (A)) −dim(Eli(M))] = 0 et en utilisant la question III)2)a) on en
+déduit que 8i 2 {1,··· , p} dim(El3
+i (A)) = dim(Eli(M)) et on conclut que 8i 2 {1,··· , p}
+El3
+i (A) = Eli(M).
+(c) D’après la question précédente, on en déduit que l’ensemble des valeurs propres de
+A est
+n
+l3
+1,l3
+2,...,l3
+p
+o
+.
+Soit a une valeur propre de N alors a3 est une valeur propre de N3 = A. Ainsi 9i 2
+{1,··· , p} tel que a3 = l3
+i et par la suite a = li est une valeur propre de M.
+(d) D’après ce qui précède 8i 2 {1,··· , p} Eli(M) = Eli(N) alors M = N. On conclut que
+l’application h est injective et par suite h est bijective.
+3. Il est clair que −1 et 8 sont les valeurs propres de A et E−1 = vect{
+0
+B
+@
+1
+−1
+1
+C
+A} et E8 = vect{
+0
+B
+@
+1
+1
+1
+C
+A}.
+Soit P =
+0
+B
+@
+1
+p
+2
+1
+p
+2
+−1
+p
+2
+1
+p
+2
+1
+C
+A.
+M = P
+0
+B
+@
+−1
+0
+0
+2
+1
+C
+A tP =
+0
+B
+@
+1
+2
+3
+2
+3
+2
+1
+2
+1
+C
+A répond à la question.
+
+Concours Physique et Chimie
+Corrigé de l’épreuve de Mathématiques
+Page 9 sur 10
+Partie IV :
+1. Soit A 2 A2(R).
+(a) A =
+0
+B
+@
+0
+−a
+a
+0
+1
+C
+A. Si a > 0, alors A = aR p
+2 . sinon A = −aR−p
+2 . Donc il existe l 2 R+ tel
+que A = lR p
+2 ou bien A = lR−p
+2 .
+(b) Soit q 2 R tel que gp(Rq) = R p
+2 ) (Rq)p = Rpq = R p
+2 .
+q = p
+2p répond à la question.
+(c) S’il existe l 2 R+ tel que A = lR p
+2 . On choisit M =
+pp
+lR p
+2p.
+S’il existe l 2 R+ tel que A = lR−p
+2 . On choisit M =
+pp
+lR−p
+2p.
+2. Soit S 2 S2(R). On sait qu’il existe P 2 O2(R). Soit D =
+0
+B
+@
+l1
+0
+0
+l2
+1
+C
+A tels que S = P.D.P−1 .
+(a) S’il existe M 2 M2(R) tel que M2p = D alors M.D = M.M2p = M2p+1 = D.M.
+(b) Si l1 , l2 et M =
+0
+B
+@
+a
+b
+c
+d
+1
+C
+A, alors
+MD =
+0
+B
+@
+al1
+bl2
+cl1
+dl2
+1
+C
+A = DM =
+0
+B
+@
+al1
+bl1
+cl2
+dl2
+1
+C
+A.
+Donc b = c = 0, par suite M est une matrice diagonale.
+(c) On suppose que l1 < 0 et qu’il existe M 2 M2(R) tel que M2p = D.
+On raisonne par l’absurde et on suppose que l1 , l2 alors d’aprés la question pré-
+cédente, M =
+0
+B
+@
+a
+0
+0
+d
+1
+C
+A, donc M2p =
+0
+B
+@
+a2p
+0
+0
+d2p
+1
+C
+A, d’où l1 = a2p < 0. Absurde. On
+conclut que l1 = l2
+
+Concours Physique et Chimie
+Corrigé de l’épreuve de Mathématiques
+Page 10 sur 10
+3. On a
+⇣
+aR p
+2
+⌘2
+= −a2I2. Si l1 = l2 et l1 < 0 alors D = l1I2 = −l2I2, avec l = p−l1.
+D =
+⇣
+lR p
+2
+⌘2
+=
+⇣⇣
+pp
+lR p
+2p
+⌘p⌘2
+=
+⇣
+pp
+lR p
+2p
+⌘2p
+.
+4. A 2 Im
++
+g2p
+,
+si et seulement si ( {l1,l2} ⇢[0,+•[ ou bien l1 = l2 < 0.).
+Fin de l’épreuve

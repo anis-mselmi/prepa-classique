@@ -1,0 +1,1602 @@
+République Tunisienne
+MINISTERE DE L’ENSEIGNEMENT
+SUPERIEUR ET DE LA
+RECHERCHE SCIENTIFIQUE
+Signature des enseignants
+S
+Concours Nationaux d’Entrée
+aux Cycles de Formation
+d’Ingénieurs
+Session : 2022
+Concours : MP & PC
+Epreuve de : Systèmes Techniques
+Automatisés
+Date : Vendredi 03 Juin 2022 à 8h
+Durée : 3 heures
+Concours Nationaux d’Entrée
+aux Cycles de Formation
+d’Ingénieurs
+Session : 2022
+Concours : Mathématiques et Physique
+& Physique et Chimie
+Epreuve de : Systèmes Techniques
+Automatisés
+Date : Vendredi 03 Juin 2022 à 8h
+Durée : 3 Heures
+Nom : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Prénom : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Date & lieu de naissance :. . . . . . . . . . . . . . . . . . . . . . . . . . .
+Etablissement d’origine :. . . . . . . . . . . . . . . . . . . . . . . . . . . .
+N◦C.I.N ou N◦du Passeport pour les étrangers :
+Série :
+Identifiant :
+01
+Nombre de
+cahiers remis
+NE RIEN ÉCRIRE ICI
+01
+Nombre de
+cahiers remis
+NE RIEN ÉCRIRE ICI
+
+REPUBLIQUE TUNISIENNE
+Ministère de l’Enseignement
+Supérieur et de la
+Recherche Scientifique
+Concours Nationaux d’Entrée aux
+Cycles de Formation d’Ingénieurs
+Session 2022
+Concours Mathématiques-Physique & Physique-Chimie
+Epreuve de
+Systèmes Techniques Automatisés
+Date : Vendredi 03 Juin 2022
+Heure : 8 H
+Durée : 3 heures
+L’épreuve comporte trois parties :
+A - Conception mécanique
+(02 pts)
+B - Mécanique des solides indéformables
+(09 pts)
+C - Automatique
+(09 pts)
+Le sujet de l’épreuve remis au candidat comporte trois dossiers :
+1er : "Mise en situation, Données et Hypothèses",
+2`eme : Trois documents techniques "DT-01, DT-02 et DT-03".
+3`eme : "Document Réponses" contenant les questions à traiter.
+N.B.
+⋆Aucun autre document n’est autorisé.
+⋆Seules les calculatrices de poche non programmables sont autorisées.
+⋆Un seul et unique document réponses est fourni au candidat et doit être rendu en totalité, à la fin
+de l’épreuve, même sans réponses. Aucune feuille, du document réponses, ne doit être supprimée
+(cet acte est considéré comme étant une tentative de fraude).
+
+Dossier
+Mise en situation
+Données et Hypothèses
+Ce dossier comporte 8 pages :
+⋆Mise en situation : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . page 1/8
+⋆Données et hypothèses partie A-Conception mécanique : . . . . . . . . page 2/8
+⋆Données et hypothèses partie B-MSI : . . . . . . . . . . . . . . . . . . . . . . . . . . . page 3/8
+⋆Données et hypothèses partie C-Automatique : . . . . . . . . . . . . . . . . . . page 7/8
+
+Concours MP-PC
+Épreuve S.T.A.
+Mise en situation, Données et Hypothèses
+ROBOT QUADRUPÈDE
+Mise en situation
+Le secteur des robots quadrupèdes (à quatre jambes) est un marché en pleine expansion. Il
+touche de nombreux domaines d’activités sécuritaires ou industriels ainsi que le domaine
+de la santé. Ces robots sont capables d’effectuer des tâches particulièrement difficiles pour
+l’être humain. En effet, ils peuvent se faufiler dans des espaces réduits ou explorer des envi-
+ronnements hostiles et à hauts risques pour la santé des vivants.
+Le robot mobile (figure 1), objet de notre étude, est un système quadrupède léger et auto-
+nome. Il s’agit d’un prototype permettant d’étudier les algorithmes de contrôle des mouve-
+ments et leur stabilité.
+Ce robot utilise quatre jambes identiques pour avancer. La marche est animée par douze
+moto-réducteurs (3 moteurs/jambe). Deux de ces actionneurs interviennent directement
+dans la cinématique plane d’une jambe et le troisième joue le rôle d’une épaule permettant
+le basculement autour de la direction de roulis comme illustré sur la figure (1).
+Moto-réducteur 2
+(7)
+Moto-réducteur 1
+(6)
+Moto-réducteur 3
+de l'épaule
+(8)
+axe de l'épaule (Direction de 
+roulis)
+FIGURE 1 ± Robot quadrupède
+En mode d’avance normale, les jambes en diagonale effectuent simultanément un mouve-
+ment identique et sont ainsi en phase. Les jambes de l’autre diagonale effectuent, quant-à-
+elles, le mouvement en quadrature de phase. Ainsi, ce mouvement alterné des deux paires
+en diagonale empêche le basculement complet et la chute du robot.
+L’étude proposée est composée de quatre parties :
+1. Une analyse fonctionnelle du système.
+2. La mécanique des solides indéformables où on s’intéresse à l’étude géométrique, ciné-
+matique, dynamique et énergétique du mouvement d’une jambe.
+3. L’étude de l’afficheur de l’état de charge de la batterie.
+4. L’étude de l’asservissement du couple moteur et de la position angulaire d’une jambe.
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2022
+0 Page : 1|8
+
+Concours MP-PC
+Épreuve S.T.A.
+Mise en situation, Données et Hypothèses
+Partie A - Conception Mécanique : Analyse fonctionnelle
+On donne le digramme des chaînes d’énergie et d’information figure (2). Dans ce diagramme,
+les chaînes d’énergie correspondent à l’ensemble "jambe avec son épaule". Comme le robot
+dispose de quatre jambes identiques, la description se limitera à une seule parmi elles. Il est
+à rappeler aussi que ce quadrupède est conçu pour être autonome, ce qui impose une source
+Capteur de présence
+Antenne radio
+C1
+Acquérir
+Acquérir
+Acquérir
+C2
+Acquérir
+Gérer la  commande du 
+Robot Quadrupède
+Carte de commade
+Centrale inertielle
+Acquérir
+A
+Communiquer
+Capteur de charge
+Acquérir
+Chaîne d'informations
+Chaîne d'énergie d'une jambe
+Alimenter
+E1
+Distribuer l'énergie 
+électrique
+Distribuer l'énergie 
+électrique
+Distribuer l'énergie 
+électrique
+Ampliﬁcateur
+Ampliﬁcateur
+Ampliﬁcateur
+F1
+Moteur (8)
+F2
+Moteur (7)
+F3
+Moteur (6)
+Adapter l'énergie
+mécanique
+B1
+Adapter l'énergie
+mécanique
+B2
+Adapter l'énergie
+mécanique
+B3
+Adapter l'énergie
+mécanique
+Articulation de l'épaule
+et support moteurs
+Adapter l'énergie
+mécanique
+Bielle (4) et biellette (3)
+Adapter l'énergie
+mécanique
+Jambe supérieure (1)
+et jambe inférieure (2)
+Agir
+Pied d'appui
+d'une jambe
+Position initiale
+Position ﬁnale
+Obstacles
+Consignes
+par signal
+radio
+Ordres
+Informations
+à destination 
+de l'utilisateur
+Energie électrique
+ distribuée
+E2
+E3
+I1
+I2
+FIGURE 2 ± Diagramme des chaînes d’énergie et d’information
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2022
+0 Page : 2|8
+
+Concours MP-PC
+Épreuve S.T.A.
+Mise en situation, Données et Hypothèses
+d’énergie transportable. Le choix des batteries en Lithium s’impose, elles doivent ainsi être
+chargées suffisamment bien avant leur utilisation. Nous allons étudier le circuit combina-
+toire responsable du contrôle de l’afficheur de l’état de charge de celles-ci dans la première
+section de la partie automatique. Par ailleurs, nous allons voir, dans la partie asservisse-
+ment de ce concours, que les différentes configurations que peut avoir le robot nécessitent
+un contrôle du couple moteur (à travers l’asservissement du courant d’induit) et aussi le
+contrôle de la position angulaire de l’arbre de sortie. Avec ces deux asservissements, le ro-
+bot sera capable de maintenir son équilibre quelque soit la consigne imposée.
+Partie B - Mécanique des solides indéformables : Étude du pre-
+mier pas du mouvement cyclique d’une jambe
+B.1 Présentation
+Cette partie est consacrée à l’étude du comportement mécanique du système de solides qui
+composent une des jambes du robot. Ce système, présenté par le schéma cinématique de la
+figure 3, est composé de quatre solides. Les solides (1) et (2) sont désignés respectivement
+par jambe supérieure et jambe inférieure. Les solides (3) et (4) sont dénommés biellette et
+bielle.
+L’animation de la jambe dans son plan est réalisée grâce à deux moteurs fixés sur le corps
+du robot (10) comme l’illustrent les documents DT-01 et DT-02. Le premier moteur (6) anime
+en rotation la jambe supérieure (1), le second moteur (7) fait tourner la bielle (4). Ces deux
+rotations s’effectuent autour du même axe (C, z0).
+B.2 Définition des repères, des paramètres et données de l’étude
+Le mouvement du robot sera décrit dans le repère R0(O, x0, y0, z0) supposé galiléen. Comme
+les quatre solides composant la jambe se déplacent dans des plans parallèles, cela per-
+met d’admettre que le mécanisme de la jambe est un système plan confondu avec le plan
+(O, x0, y0) appelé plan sagittale de la jambe.
+On associe à la jambe supérieure (1) et à la bielle (4) les repères respectifs R1(C, x1, y1, z0)
+et R4(C, x4, y4, z0) comme l’illustre le schéma cinématique de la figure 3 et le document
+technique DT-03.
+Les paramètres représentatifs d’un cycle de marche d’une jambes sont :
+Ð La rotation α de (1) imposée par le moteur (6) autour de l’axe (C, z0), avec
+α = (x0, x1) = (y0, y1) avec 0 ≤α ≤π
+Ð La rotation β de (4) imposée par le moteur (7) autour de l’axe (C, z0), avec
+β = (x0, x4) = (y0, y4) avec 0 ≤β ≤π.
+Le mouvement du point C dans le plan sagittale est défini par les déplacements λ et µ,
+tel que : OC = λx0 + µy0. Les paramètres α, β, λ et µ évoluent au cours du temps. Les
+caractéristiques dimensionnelles de la jambe sont définies par les constantes a, b, c et l’angle
+de déviation δ. On les défini comme suit :
+AC = ED = ax1, AE = CD = by4, AB = c et δ = ( \
+BA, y4),
+avec a = 130 mm, b = 35 mm, c = 135 mm et δ = 7◦.
+Il est à noter que les points A, B et E ne sont pas sur le même alignement et les points A, C,
+D et E forment un parallélogramme.
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2022
+0 Page : 3|8
+
+Concours MP-PC
+Épreuve S.T.A.
+Mise en situation, Données et Hypothèses
+B.3 Cycle de marche d’une jambe
+Le pas effectué par une jambe est réalisé en deux étapes. Durant la première, l’extrémité B
+de la jambe décrit le trajet (B0,B1) comme l’illustre le document technique DT-03. Cette étape
+est réalisée en faisant varier simultanément les angles α et β pour passer de la configuration
+de référence, caractérisée par α = α0 et β = β0 correspondant à la position d’appui B0, à une
+nouvelle configuration obtenue avec α = α1 et β = β1 associée à B1.
+La seconde étape est réalisée en maintenant la jambe inférieure (2) appuyée au sol à la po-
+sition B1 et en inversant conjointement le sens des rotations. En effet, durant le retour de
+nouveau à (α0, β0), tout en ayant le contact maintenu en B1, le sol se comporte comme un
+obstacle au mouvement de l’extrémité B de la jambe inférieure (voir DT-03). Cela engendre
+un mouvement de la jambe autour du point d’appui B1 provocant des déplacements de l’en-
+semble des solides constituants la jambe (en particulier le point C, centre de la liaison de la
+jambe avec le corps avant (10) du robot).
+O
+3
+2
+1
+0
+4
+4
+ 10  
+ 10  
+1
+ 10  
+Pivot en avant plan
+Pivot en arrière plan
+détail
+FIGURE 3 ± Schéma Cinématique d’une jambe
+x0
+y0
+z0
+x1
+y1
+z0
+α
+α
+x0
+y0
+z0
+x4
+y4
+z0
+β
+β
+FIGURE 4 ± Représentation plane des rotations
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2022
+0 Page : 4|8
+
+Concours MP-PC
+Épreuve S.T.A.
+Mise en situation, Données et Hypothèses
+B.4 Étude Cinématique
+On considère la seconde étape du cycle de marche de la jambe pour laquelle les paramètres
+α et β évoluent respectivement de α1 à α0 et de β1 à β0. On rappelle que durant cette se-
+conde étape l’extrémité B de la jambe se trouve appuyée contre le sol et bloquée à la posi-
+tion B1(x1, 0). On admettra que durant cette phase, les vitesses de rotation imposées par les
+moteurs (6) et (7) sont constantes, elles sont telles que :
+.α = ω1 et
+.
+β = ω4
+On introduit les points particuliers G1 et G2 liés respectivement aux solides (1) et (2) dont
+les positions sont définies par :
+AG1 = a
+2x1 et AG2 = −hx4
+B.5 Étude dynamique et énergétique
+Le tableau qui suit récapitule les résultats relatifs aux calculs des vitesses et des accélérations
+des centres d’inertie G1 et G2.
+Centre d’inertie
+Vitesses
+Accélérations
+G1
+VG1/R0 =
+.
+λx0 + .µy0 −a
+2
+.αy1
+ΓG1/R0 =
+..
+λx0 + ..µy0 + a
+2
+.α2x1
+G2
+VG2/R0 =
+.
+λx0 + .µy0 −a .αy1 −h
+.
+βy4
+ΓG2/R0 =
+..
+λx0 + ..µy0 + a .α2x1 + h
+.
+β
+2x4
+Tous les solides composants la jambe sont soumis à leurs propres poids :
+Pi = −migy0 avec i = 1 et 2
+où g est l’accélération de la pesanteur.
+L’action mécanique combinée du corps du robot et du moteur (6) s’appliquant à la jambe
+supérieure (1) est représentée, dans la base B0(x0, y0, z0), par le torseur :
+{T (10→1)}C =
+
+
+
+X1
+Y1
+−
+−
+−
+C1m
+
+
+
+C
+B0
+où C1m est le couple développé par le moteur (6).
+L’action mécanique combinée du corps avant (10) du robot et du moteur (7) s’appliquant à
+la bielle (4) est représentée dans la base B0(x0, y0, z0) , par le torseur :
+{T (10→4)}C =
+
+
+
+X4
+Y4
+−
+−
+−
+C4m
+
+
+
+C
+B0
+Où C4m est le couple développé par le moteur (7).
+Lorsque la jambe inférieure (2) est en contact avec le sol, elle sera soumise en B à une action
+mécanique exprimée dans la base B0(x0, y0, z0) par le torseur :
+{T (0→2)}B =
+
+
+
+T0
+N0
+−
+−
+−
+0
+
+
+
+B
+B0
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2022
+0 Page : 5|8
+
+Concours MP-PC
+Épreuve S.T.A.
+Mise en situation, Données et Hypothèses
+Toutes les liaisons internes de la jambe sont supposées parfaites. Les caractéristiques iner-
+tielles des solides (1), (2), (3) et (4) composants la jambe du robot sont précisées dans le
+tableau qui suit :
+Solide
+Centre d’inertie
+Masse
+Matrice centrale d’inertie
+1
+G1
+m1
+
+IG1
+ =
+
+
+I1
+0
+0
+0
+J1
+0
+0
+0
+J1
+
+
+(x1,y1,z0)
+2
+G2
+m2
+[IG2] =
+
+
+I2
+−F2
+0
+−F2
+J2
+0
+0
+0
+J2
+
+
+(x4,y4,z0)
+3 et 4
+Les masses et les termes d’inertie des solides (3) et (4)
+seront supposés négligeables par rapport à ceux des solides
+(1) et (2).
+N.B. Hypothèse :
+Les hypothèses retenues resteront valable pour la cinématique, la dynamique et l’énergé-
+tique, en effet :
+1. On considèrera la seconde étape du cycle de marche.
+2. Les paramètres α et β évoluent respectivement de α1 à α0 et de β1 à β0.
+3. L’extrémité B de la jambe se trouve bloquée à la position B1(x1, 0)
+4. Les vitesses de rotation sont constantes.
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2022
+0 Page : 6|8
+
+Concours MP-PC
+Épreuve S.T.A.
+Mise en situation, Données et Hypothèses
+Partie C - Automatique
+C.1 Étude de l’afficheur de l’état de charge de la batterie
+Le robot est muni d’un afficheur dédié à l’information sur
+l’état de charge de la batterie. En effet, cet afficheur utilise
+trois modules à 14 segments (figure 5) pour illustrer quatre
+états différents :
+Ð batterie faible en affichant (LOW),
+Ð batterie moyennement chargée en affichant (MED),
+Ð batterie en pleine charge en affichant (HIG),
+Ð au moindre soucis de communication entre la bat-
+terie et le système de contrôle du robot, l’affichage
+bascule en mode erreur en affichant (ERR).
+Les quatorze segments d’un module sont numérotés de a à
+m comme le montre la figure 5. Le système gère l’affichage
+par deux signaux x et y et les états sont codés en binaire
+naturel. On se limitera à l’étude des fonctions du premier
+module dans ses quatre états possibles affichant respecti-
+vement L, M, H et E.
+g1 g2
+a
+module à étudier
+FIGURE 5 ± Afficheur de
+batterie à 3 modules à 14
+segments chacun
+C.2 Étude du système de commande d’une jambe
+La commande du mouvement du robot dans ses différentes configurations (simple marche,
+tourner à droite ou à gauche, monter un escalier, ... ) nécessite à la fois le contrôle des couples
+moteur (à travers le contrôle du courant i(t) = cm(t)/Km) et le contrôle de la position angu-
+laire des solides composant la jambe. On peut schématiser un des motoréducteurs (6) ou (7)
+avec ses variables entrées-sorties comme l’illustre la figure 6.
+Motoréducteur
+v(t)
+cr(t)
+i(t)
+θ(t)
+FIGURE 6 ± Entrées-sorties du motoréducteur.
+Le système qu’on désire étudier est un moteur à courant continu accouplé à une charge
+mécanique. Son fonctionnement est décrit par les équations suivantes :
+v(t)
+=
+ri(t) + ℓdi(t)
+dt
++ e(t)
+(1)
+cm(t)
+=
+Jdωm(t)
+dt
++ f ωm(t) + cr(t)
+(2)
+e(t)
+=
+Keωm(t)
+(3)
+cm(t)
+=
+Kmi(t)
+(4)
+θ(t)
+=
+Z
+ωm(t)dt
+(5)
+Où : v(t), i(t), e(t), cm(t), ωm(t) et cr(t) sont respectivement la tension d’alimentation du
+moteur, son courant d’induit, sa force contre-électromotrice, son couple moteur, sa vitesse
+angulaire et le couple résistant.
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2022
+0 Page : 7|8
+
+Concours MP-PC
+Épreuve S.T.A.
+Mise en situation, Données et Hypothèses
+ℓ, r, f, Km, Ke et J sont respectivement l’inductance, la résistance de l’induit, le coefficient de
+frottement visqueux, le coefficient de couple, le coefficient de la force contre-électromotrice
+et l’inertie équivalente ramenée à l’arbre de ce moteur.
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2022
+0 Page : 8|8
+
+
+
+
+
+
+Dossier
+DOCUMENT REPONSES
+⋇Ce dossier comporte 16 pages numérotées de 1 à 16
+▷Partie A ± Conception mécanique : . . . . . . . . . . . . . . . . . . . . . . page 1/16
+▷Partie B ± Mécanique des Solides Indéformables : . . . . . . . page 2/16
+▷Partie C ± Automatique : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .page 9/16
+⋇Un seul dossier "document réponses" est fourni au candidat et doit être
+rendu à la fin de l’épreuve, en totalité, même sans réponses.
+⋇Le renouvellement ou la reproduction de ce dossier sont strictement
+interdits.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Concours MP-PC
+Épreuve S.T.A.
+Partie A : Conception Mécanique
+Document Réponses
+Partie A :
+Conception Mécanique
+A.1: En se basant sur le diagramme des chaînes d’énergie et d’information 2 compléter le
+tableau 1.
+TABLEAU 1 ± Tableau des désignations du diagramme des chaînes d’énergie
+et d’information à compléter
+Chaîne d’information
+Référence
+Désignation
+A
+Afficheur de l’état de charge
+C1
+Capteur de courant (couple)
+C2
+Capteur de position
+I1
+Courant d’induit
+I2
+Position angulaire ( ou rotation moteur)
+Chaîne d’énergie
+Référence
+Désignation
+F1, F2, F3
+Transformer l’énergie électrique en énergie mécanique
+B1, B2, B3
+Réducteur
+E1
+Batterie
+E2
+Énergie mécanique de rotation
+E3
+Énergie mécanique adaptée
+A.2: En se basant sur les documents techniques "DT-01" et "DT-02", compléter le tableau
+suivant en spécifiant élément de : guidage, transmission ou liaison (cocher la case corres-
+pondante).
+Élément de :
+Référence
+guidage
+transmission
+liaison
+Cannelures (16)
+□
+□
+⊠
+Coussinets (17)
+⊠
+□
+□
+Engrenages (18)
+□
+⊠
+□
+Écrou (19)
+□
+□
+⊠
+Roulement (20)
+⊠
+□
+□
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2022
+0 Page : 1|16
+
+Concours MP-PC
+Épreuve S.T.A.
+Partie B : M.S.I.
+Document Réponses
+Partie B :
+Mécanique des Solides Indéformables
+B.1 Étude géométrique
+B.1:
+Exprimer, en fonction des paramètres du système, les vecteurs position des points A
+et B, dans le repère R0(O, x0, y0, z0).
+OA = OC + CA
+OA = λx0 + µy0 −ax1
+xA = λ −a cos(α)
+yA = µ −a sin(α)
+OB = OA + AB
+OB = λx0 + µy0 −ax1 −c sin(δ)x2 −c cos(δ)y2
+xB = λ −a cos(α) + c sin(β −δ)
+yB = µ −a sin(α) −c cos(β −δ)
+B.2:
+Déduire l’équation traduisant le contact avec le sol, de l’extrémité B de la jambe infé-
+rieure.
+µ −a sin(α) −c cos(β −δ) = 0
+B.3: Pour quelles valeurs de α et β, µ est maximale (µMax)?
+sin(α) = 1 et cos(β −δ) = 1
+d’où
+α = π/2 et β = δ
+Quelle est donc sa valeur numérique?
+µMax = a + c = 130 + 135
+AN : µMax = 265mm.
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2022
+0 Page : 2|16
+
+Concours MP-PC
+Épreuve S.T.A.
+Partie B : M.S.I.
+Document Réponses
+On se propose d’analyser le premier cycle de marche d’une jambe en considérant la configu-
+ration de référence réalisée avec α =α0 = 30o et β=β0=δ (lorsque l’extrémité B coïncide avec
+B0(x0, 0)). On supposera le paramètre λ = λ0 constant tout au long de l’étape 1 de ce cycle
+de marche (voir DT-03).
+B.4:
+Déterminer les expressions simplifiées de x0 et µ0 (valeur du paramètre µ), associés à
+la configuration de référence, puis calculer µ0.
+x0 = λ0 −a cos(α0) = λ0 −a
+√
+3
+2 .
+µ0 = a sin(α0) + c cos(β0 −δ) = 1
+2a + c
+x0 = λ0 −a
+√
+3
+2
+µ0 = 1
+2a + c
+AN : µ0 = 200mm
+B.5: Pour que le contact de l’extrémité B avec le sol se déplace de B0(x0, 0) à B1(x1, 0) durant
+la première étape, on fait varier simultanément α et β, de α0 à α1 et de β0 à β1. Exprimer :
+a. x1 en fonction de λ0, α1 et β1
+x1 = λ0 −a cos(α1) + c sin(β1 −δ)
+b. µ1 (paramètre µ pour la configuration en B1(x1, 0)) en fonction de α1 et β1
+µ1 = a sin(α1) + c cos(β1 −δ)
+c. Le pas Pa effectué par l’extrémité B de la jambe inférieure (Pa = x1 −x0) en fonction de
+α1, β1 et des caractéristiques dimensionnelles.
+Pa = x1 −x0 = a (cos(α0) −cos(α1)) + c (sin(β1 −δ) −sin(β0 −δ))
+= a
+ √
+3
+2 −cos(α1)
+!
++ c sin(β1 −δ)
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2022
+0 Page : 3|16
+
+Concours MP-PC
+Épreuve S.T.A.
+Partie B : M.S.I.
+Document Réponses
+Pa = a
+√
+3/2 −cos(α1)
+
++ c sin(β1 −δ)
+Dans la position de contact réalisé en B1(x1, 0), l’extrémité B se trouve bloquée par le sol.
+A partir de cette position, la seconde étape du cycle de marche est amorcée, en inversant
+le sens des deux rotations dans un ordre prédéfini garantissant le maintien de contact en
+B1. Cela permet à la jambe de retrouver une nouvelle configuration avec les angles α0 et β0
+moyennant une actualisation des paramètres λ et µ qui passent de λ0 à λa et de µ1 à µa (Voir
+DT-03).
+B.6: Écrire les relations exprimant les paramètres actualisés λa et µa notamment en fonction
+de α1 et β1.
+Le contact est maintenu fixe en B1, en passant de la configuration définie par (α1, β1) à
+celle réalisée par (α0, β0). De ce fait, on écrit :
+xB = x1 = λ0 −a cos α1 + c sin(β1 −δ) = λa −a cos α0 + c sin(β0 −δ) = λa −a
+√
+3
+2
+ainsi on a : λa = λ0 + a(
+√
+3
+2 −cos α1) + c sin(β1 −δ)
+par ailleurs : µ = a sin α1 + c cos(β1 −δ) = 0 et µa = a sin α0 + c cos(β0 −δ)
+il vient alors : µa = a
+2 + c
+λa = λ0 + a(
+√
+3
+2 −cos α1) + c sin(β1 −δ)
+µa = a
+2 + c
+B.2 Étude Cinématique
+B.7: Exprimer, dans la base B0(x0, y0, z0), les vitesses de rotation par rapport à R0(O, x0, y0, z0),
+des solides (1), (2), (3) et (4).
+Ω1/0 = ω1z
+Ω2/0 = ω4z
+Ω3/0 = ω1z
+Ω4/0 = ω4z
+B.8:
+Utiliser les résultats de la question (B.1 ) pour exprimer
+.
+λ et .µ en fonction de α, β et
+de leurs vitesses. En déduire ..µ et
+..
+λ.
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2022
+0 Page : 4|16
+
+Concours MP-PC
+Épreuve S.T.A.
+Partie B : M.S.I.
+Document Réponses
+.µ = −cω4 sin(β −δ) + aω1 cos α
+..µ = −aω2
+1 sin α −cω2
+4 cos(β −δ)
+.
+λ = −(cω4 cos(β −δ) + aω1 sin α)
+..
+λ = −aω2
+1 cos α + cω2
+4 sin(β −δ)
+B.3 Étude dynamique et énergétique
+B.9: Montrer que l’expression vectorielle de l’action qu’exerce la jambe (2) sur la biellette
+(3) au point E est de la forme :
+R(2→3) = X23x1
+(3) étant de masse négligeable, PFD ≡PFS
+ainsi ME(Å3→3) = ✘✘✘✘✘✘
+✿0
+ME(2→3) +✘✘✘✘✘✘
+✿0
+MD(4→3) + R(4→3) ∧DE =
+B1
+
+X43
+Y43
+−
+∧
+B1
+
+−a
+0
+−
+= aY43z0 = 0
+on a donc
+Y43 = 0 ;
+par ailleurs
+R(Å3→3) = 0 = R(4→3) + R(2→3) = (X23 + X43)x1 + (✚✚
+❃0
+Y43 + Y23)y1
+alors
+Y23 = 0
+d’où
+R(2→3) = X23x1
+B.10: Appliquer les théorèmes de la résultante et du moment dynamiques au sous-ensemble
+formé par les solides (3) et (4). En déduire les inconnus de force X23, X4 et Y4 en fonction du
+couple C4m.
+(3) et (4) étant de masses négligeables, PFD ≡PFS
+ainsi R(10→4) + R(2→3) = 0
+en projection dans la base B0 :
+X23 cos α + X4 = 0
+et
+X23 sin α + Y4 = 0
+par ailleurs
+MC(3∪4→3∪4) = MC(10→4) + MC(2→3) = 0
+or
+MC(2→3) = ✘✘✘✘✘✘
+✿0
+ME(2→3) + R(2→3) ∧EC = R(2→3) ∧[ED + DC] = X23x1 ∧[ax1 −by4]
+= −bX23 cos(β −α)z0
+ainsi
+MC(3∪4→3∪4) = −bX23 cos(β −α)z0 + C4mz0 = 0
+d’où X23 =
+C4m
+b cos(β −α)
+et
+Y4 = −
+C4m sin α
+b cos(β −α)
+et
+X4 = −C4m cos α
+b cos(β −α)
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2022
+0 Page : 5|16
+
+Concours MP-PC
+Épreuve S.T.A.
+Partie B : M.S.I.
+Document Réponses
+X23 =
+C4m
+b cos(β −α)
+X4 = −C4m cos α
+b cos(β −α)
+Y4 = −
+C4m sin α
+b cos(β −α)
+B.11: Appliquer le théorème de la résultante dynamique au sous-ensemble formé par les
+solides (1) et (2). En déduire les inconnus de force X1 et Y1 en fonction de T0, N0, C4m et des
+paramètres du mouvement.
+R(1∪2→1∪2) = m1ΓG1/R0 + m2ΓG2/R0
+R(10→1) + R(0→2) + R(3→2) + R(g→1∪2) = m1ΓG1/R0 + m2ΓG2/R0
+par projection sur B0
+X1 + T0 −X23 cos α = (m1 + m2)
+..
+λ + ( m1
+2 + m2)aω2
+1 cos α + m2hω2
+4 cos β
+Y1 + N0 −X23 sin α −(m1 + m2)g = (m1 + m2)..µ + ( m1
+2 + m2)aω2
+1 sin α + m2hω2
+4 sin β
+en remplaçant X23 par son expression :
+X1 = −T0 +
+C4m cos α
+b cos(β −α) + (m1 + m2)
+..
+λ + ( m1
+2 + m2)aω2
+1 cos α + m2hω2
+4 cos β
+Y1 = −N0 +
+C4m sin α
+b cos(β −α) + (m1 + m2)[g + ..µ] + ( m1
+2 + m2)aω2
+1 sin α + m2hω2
+4 sin β
+B.12:
+Calculer la puissance développée par l’action de pesanteur sur la jambe dans son
+mouvement par rapport à R0(O, x0, y0, z0).
+Seule les pièces (1) et (2) ont une masse : P(g→1∪2/0) = P(g→1/0) + P(g→2/0)
+P(g→1/0) = {T (g→1)}G1 {V1/0}G1 = −m1g( .µ −a
+2ω1 cos α)
+P(g→2/0) = {T (g→2)}G2 {V2/0}G2 = −m2g( .µ −aω1 cos α −hω4 cos β)
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2022
+0 Page : 6|16
+
+Concours MP-PC
+Épreuve S.T.A.
+Partie B : M.S.I.
+Document Réponses
+B.13: Exprimer la puissance développée par les forces transmises par les liaisons extérieures
+de la jambe.
+Notons ici l’ensemble Jambe par J
+alors P( ÅJ→J/0) = P(10→1/0) + P(10→4/0) + P(sol→2/0)
+P(10→1/0) = {T (10→1)}C {V1/0}C =
+
+
+
+X1
+Y1
+−
+−
+−
+C1m
+
+
+
+C
+B0
+
+
+−
+−
+ω1
+.
+λ.µ
+−
+
+
+
+C
+B0
+=
+.
+λX1 + .µY1 + C1mω1
+P(10→4/0) = {T (10→4)}C {V4/0}C =
+
+
+
+X4
+Y4
+−
+−
+−
+C4m
+
+
+
+C
+B0
+
+
+−
+−
+ω4
+.
+λ.µ
+−
+
+
+
+C
+B0
+=
+.
+λX4 + .µY4 + C4mω4
+P(sol→2/0) = 0
+B.14: Quelle est la puissance développée par les forces transmises par les liaisons intérieures
+de la jambe? Justifier.
+Toutes les liaisons pivot sont des liaisons parfaites alors les puissances mutuelles in-
+terne sont toutes nulles P(1↔2) = P(3↔2) = P(3↔4) = 0
+B.15: Exprimer en fonction des caractéristiques dimensionnelles, des paramètres et de leurs
+dérivées, l’énergie cinétique de la jambe dans son mouvement par rapport au repère.
+seules (1) et (2) ont une masse : alors Ec(J/0) = Ec(1/0) + Ec(2/0)
+Ec(1/0) = 1
+2 {V1/0}G1 {C1/0}G1
+avec
+{C1/0}G1 =
+n
+m1VG1/0
+[IG1]Ω1/0
+o
+G1
+Ec(1/0) = 1
+2[m1(VG1/0)2 + J1ω2
+1] = 1
+2
+h
+m1
+n
+(
+.
+λ + a
+2ω1 sin α)2 + ( .µ −a
+2ω1 cos α)2o
++ J1ω2
+1
+i
+Ec(2/0) = 1
+2 {V2/0}G2 {C2/0}G2
+avec
+{C2/0}G2 =
+n
+m2VG2/0
+[IG2]Ω2/0
+o
+G2
+Ec(2/0) = 1
+2[m2(VG2/0)2 + J2ω2
+2]
+= 1
+2
+h
+m2
+n
+(
+.
+λ + aω1 sin α + hω4 sin β)2 + ( .µ −aω1 cos α −hω4 cos β)2o
++ J2ω2
+2
+i
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2022
+0 Page : 7|16
+
+Concours MP-PC
+Épreuve S.T.A.
+Partie B : M.S.I.
+Document Réponses
+B.16:
+Écrire l’équation issue du théorème de l’énergie cinétique appliqué à la jambe dans
+son mouvement par rapport à R0(O, x0, y0, z0).
+dEc(1∪2/0)
+dt
+= P((1∪2)→(1∪2)/0) + Pint(1∪2∪3∪4)
+dEc(1∪2/0)
+dt
+= m1
+h
+(
+.
+λ + a
+2ω1 sin α)(
+..
+λ + a
+2ω2
+1 cos α) + ( .µ −a
+2ω1 cos α)(..µ + a
+2ω2
+1 sin α)
+i
++m2
+h
+(
+.
+λ + aω1 sin α + hω4 sin β)(
+..
+λ + aω2
+1 cos α + hω2
+4 cos β)
+i
++m2
+( .µ −aω1 cos α −hω4 cos β)(..µ + aω2
+1 sin α + hω2
+4 sin β)
+
+= (X1 + X4)
+.
+λ + (Y1 + Y4) .µ + C4mω4 + C1mω1 −m1g( .µ −a
+2ω1 cos α)
+−m2g( .µ −aω1 cos α −hω4 cos β)
+B.17:
+Conclure, sans faire de calcul, quant à la résolution du problème proposé et la déter-
+mination des inconnues d’actions mécaniques.
+Les inconnus sont huit X1, X4, Y1, Y4, T0, N0, C4m, C1m
+Les équations sont cinq :2eq(B.10) ; 2eq(B.11) ; 1eq(B.16)
+c’est insuffisant, il faut faire l’équilibre dynamique global du robot pour déduire T0 et
+N0 ainsi que le théorème du Moment dynamique de (1) et (2) pour venir à bout des
+inconnues.
+Il serait aussi nécessaire de considérer les configurations dynamiques les plus contrai-
+gnantes pour les jambes, afin de remonter aux inconnus du problème.
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2022
+0 Page : 8|16
+
+Concours MP-PC
+Épreuve S.T.A.
+Partie C : Automatique
+Document Réponses
+Partie C :
+Automatique
+C.1 Étude de l’afficheur de l’état de charge de la batterie
+C.1: Compléter la table de vérité correspondant au fonctionnement du premier module de
+l’afficheur.
+Entrées
+Sorties
+x
+y
+a
+b
+c
+d
+e
+f
+g1
+g2
+h
+i
+j
+k
+l
+m
+L
+0
+0
+0
+0
+0
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+M
+0
+1
+0
+1
+1
+0
+1
+1
+0
+0
+1
+0
+1
+0
+0
+0
+H
+1
+0
+0
+1
+1
+0
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+E
+1
+1
+1
+0
+0
+1
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+C.2: Donner les expressions simplifiées des sorties non constantes uniquement.
+a = x.y
+;
+b = Åx.y + x. Åy = c
+;
+d = Åx. Åy + x.y
+g1 = g2 = x
+;
+h = Åx.y = j
+C.3: Compléter le logigramme figure (C.1), uniquement pour les sorties non constantes,
+en utilisant exclusivement des portes "NAND" à deux entrées.
+x     y
+FIGURE C.1 ± Logigramme du premier module de l’afficheur
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2022
+0 Page : 9|16
+
+Concours MP-PC
+Épreuve S.T.A.
+Partie C : Automatique
+Document Réponses
+C.2 Modélisation du motoréducteur
+C.4: Écrire les équations, de (1) à (5) du système, décrites dans le document "Mise en situa-
+tion, Données et Hypothèses" dans le domaine de Laplace (avec conditions initiales nulles).
+V(p) = rI(p) + ℓpI(p) + E(p)
+;
+Cm(p) = JpΩm(p) + f Ωm(p) + Cr(p)
+E(p) = KeΩm(p)
+;
+Cm(p) = KmI(p)
+;
+θ(p) = 1
+pΩm(p)
+C.5: Compléter le schéma fonctionnel de la figure C.2.
+−
++
+V(p)
+1
+r + ℓp
+I(p)
+Km
+−+
+1
+f + Jp
+Cr(p)
+Ke
+1
+p
+θ(p)
+FIGURE C.2 ± Schéma-bloc du moteur
+C.6: Pour Cr(p) = 0, déterminer la fonction de transfert en boucle fermée G1(p) = I(p)
+V(p).
+G1(p) =
+1
+ℓp + r
+1 +
+KmKe
+(ℓp + r)(Jp + f )
+=
+(Jp + f )
+(ℓp + r)(Jp + f ) + KeKm
+C.7: Dans le cas où V(p) = 0, représenter le schéma-bloc d’entrée Cr(p) et de sortie I(p)
++
+−
+Cr(p)
+1
+Jp+ f
+Ke
+−1
+ℓp + r
+I(p)
+Km
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2022
+0 Page : 10|16
+
+Concours MP-PC
+Épreuve S.T.A.
+Partie C : Automatique
+Document Réponses
+C.8: Pour V(p) = 0, déterminer la fonction de transfert en boucle fermée G2(p) = I(p)
+Cr(p).
+G2(p) =
+Ke
+(ℓp + r)(Jp + f )
+1 +
+KeKm
+(ℓp + r)(Jp + f )
+=
+Ke
+(ℓp + r)(Jp + f ) + KeKm
+C.9: Déduire l’expression du courant I(p) = f (V(p), Cr(p))
+par le principe de superposition : I(p) = G1(p) · V(p) + G2(p) · Cr(p)
+I(p) =
+(Jp + f )
+(ℓp + r)(Jp + f ) + KeKm
+· V(p) +
+Ke
+(ℓp + r)(Jp + f ) + KeKm
+· Cr(p)
+C.3 Étude de la boucle d’asservissement de courant
+Dans ce qui suit on considère que Cr(p) = 0. La boucle d’asservissement de courant est don-
+née par le schéma de la figure (C.3) avec K1 et τ1 sont des constantes strictement positives.
+Nous utilisons un capteur de courant de gain Kc.
+−
++
+Ic(p)
+K1
+1+τ1p
+ε(p)
+G1(p)
+V(p)
+I(p)
+Kc
+FIGURE C.3 ± Boucle d’asservissement de courant
+C.10: Déterminer la fonction de transfert en boucle ouverte T1(p).
+T1(p) =
+K1
+1 + τ1p · G1(p) · Kc =
+K1Kc(Jp + f )
+(1 + τ1p)[(ℓp + r)(Jp + f ) + KeKm]
+C.11: Quelle est la classe du système? Justifier.
+le système est de classe 0 car il n’y a pas d’intégrateur dans la boucle ouverte.
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2022
+0 Page : 11|16
+
+Concours MP-PC
+Épreuve S.T.A.
+Partie C : Automatique
+Document Réponses
+C.12: Calculer l’erreur statique de position si Ic(t) = 0.5Γ(t) où Γ(t) représente l’échelon
+unitaire.
+le gain de la boucle ouverte étant GBO =
+K1Kc f
+r f + KeKm
+,
+il s’en suit que l’erreur statique de position sur le courant : εcp(∞) =
+0.5
+1 + GBO
+C.13: Quelle est la condition sur τ1 pour compenser le zéro de la fonction de transfert de la
+boucle ouverte T1(p) de l’asservissement de courant?
+pour compenser le pôle de T1(p) on doit avoir τ1 = J
+f
+On aura ainsi T1(p) =
+K1Kc f
+(ℓp + r)(Jp + f ) + KeKm
+C.14: Déterminer, dans ce cas, la fonction de transfert en boucle fermée H1(p).
+H1(p) =
+K1 f
+(ℓp + r)(Jp + f ) + KeKm
+1 +
+K1Kc f
+(ℓp + r)(Jp + f ) + KeKm
+=
+K1 f
+(ℓp + r)(Jp + f ) + KeKm + K1Kc f
+C.15: Étudier ainsi la stabilité de l’asservissement de courant en fonction de K1.
+H1(p) =
+K1 f
+(ℓp + r)(Jp + f ) + KeKm + K1Kc f =
+K1 f
+Jℓp2 + (ℓf + rJ)p + r f + KeKm + K1Kc f
+Il s’agit ainsi d’un système du second ordre dont les coefficient sont issus d’une mo-
+délisation physique (tous positifs) et que K1 est aussi strictement positif. Ce système
+sera toujours stable.
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2022
+0 Page : 12|16
+
+Concours MP-PC
+Épreuve S.T.A.
+Partie C : Automatique
+Document Réponses
+C.4 Étude de la boucle d’asservissement de position
+Dans ce qui suit, on s’intéresse à la sortie position angulaire et toujours avec un couple
+résistant Cr(p) = 0.
+Le système de fonction de transfert G(p) est commandé par un régulateur R2(p) comme le
+montre le schéma de la figure (C.4) :
+−
++
+R2(p)
+G(p)
+θc(p)
+θ(p)
+FIGURE C.4 ± Boucle d’asservissement de la position
+Pour une correction proportionnelle, R2(p) = K2 = 1, des essais harmoniques sur le système
+ayant la fonction de transfert en boucle ouverte T2(p) = R2(p)G(p) ont donné les résultats
+présentés sur le tableau suivant :
+ω[rad/s]
+0.05
+0.1
+0.2
+0.5
+0.8
+1.1
+1.3
+1.5
+1.8
+2
+2.5
+|T2(jω)|[dB]
+26
+20
+16
+13
+11.5
+8.5
+6.2
+4
+2.4
+0
+-5
+Arg{T2(jω)}[◦]
+-92
+-105
+-112
+-128
+-136
+-146
+-154
+-162
+-166
+-172
+-180
+C.16: Exploiter le tableau ci-dessus pour déterminer les marges de gain et de phase du
+système, justifier.
+|T2(jω)| = 0dB −→∆ϕ = 180 + Arg(T2(jω)) = 8◦
+Arg(T2(jω)) = −180◦−→∆G = −|T2(jω)| = 5dB
+C.17: Conclure quant-à la stabilité du système.
+Les marges sont positives, le système est stable.
+C.18: Quelle est la valeur de l’erreur statique de position unitaire?
+d’après les valeurs des phases à (ω →0) on peut deviner que le système présente une
+intégration (Arg(T2(jω)) →90◦), ainsi le système est de classe 1 et l’erreur statique de
+position va être nulle.
+Dans ce qui suit, nous allons considérer R2(p) = K2 = 6.25 et G(p) =
+80
+p(p + 0.5)(p + 20).
+Ainsi nous avons une erreur statique de 2% en réponse à une rampe unitaire. Nous désirons
+conserver une telle performance, mais le système est instable.
+C.19: En se référant aux diagrammes de Bode de la figure C.5, expliquer où apparait cette
+instabilité.
+Comme illustré sur les diagrammes de Bode, les marges sont négatives.
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2022
+0 Page : 13|16
+
+Concours MP-PC
+Épreuve S.T.A.
+Partie C : Automatique
+Document Réponses
+FIGURE C.5 ± Diagrammes de bode de la boucle d’asservissement de position.
+Afin de rendre le système stable, on utilise le correcteur schématisé par le circuit électrique
+de la figure (C.6) :
+l
+FIGURE C.6 ± Schéma électrique du régulateur.
+C.20: Déterminer la fonction de transfert du correcteur R2(p) = U(p)
+ε(p) et la mettre sous la
+forme : K p + a
+p + b tout en précisant K, a et b.
+ε(t) = ldi(t)
+dt
++ Ri(t) + Ldi(t)
+dt
+et u(t) = Ri(t) + Ldi(t)
+dt
+la transformée de Laplace
+donne
+ε(p) = (l + L)pI(p) + RI(p) = ((l + L)p + Rp)I(p)
+U(p) = RI(p) + LpI(p) = (R + Lp)I(p)
+)
+U(p)
+ε(p) =
+Lp + R
+(l + L)p + R
+d’où R2(p) =
+Lp + R
+(l + L)p + R =
+L
+(l + L)
+p + (R/L)
+p + (R/(l + L))
+ainsi K =
+L
+(l + L) ; a = R/L ; b = R/(l + L)
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2022
+0 Page : 14|16
+
+Concours MP-PC
+Épreuve S.T.A.
+Partie C : Automatique
+Document Réponses
+C.21: Calculer la valeur de l’inductance L si R = 1Ωet a = 20.
+a = R/L d’où L = R/a
+A.N.
+L = 1/20 = 0.05H
+C.22: Déterminer la nouvelle fonction de transfert en boucle ouverte T2(p) et celle en boucle
+fermée H(p)
+T2(p) = R2(p)G(p) = K(p + a)
+(p + b)
+80
+p(p + 0.5)(p + 20) =
+80K
+p(p + b)(p + 0.5)
+H(p) =
+T2(p)
+1 + T2(p) =
+80K
+p(p + b)(p + 0.5) + 80K
+C.23: Étudier la stabilité du système en boucle fermée en fonction de K et b pour a = 20.
+Le dénominateur de H(p) est D(p) = p3 + (b + 0.5)p2 + 0.5bp + 80K
+ainsi pour satisfaire la première condition du critère de Routh K > 0 et b > 0
+pour la deuxième condition on dresse le tableau:
+p3
+1
+0.5b
+0
+p2
+b + 0.5
+80K
+0
+p
+A
+0
+1
+80K
+avec A = ((b + 0.5)0.5b −80K)
+(b + 0.5)
+> 0 ce qui donne K < 0.5b(b + 0.5)
+80
+Le système est stable ssi b > 0
+et
+0 < K < 0.5b(b + 0.5)
+80
+C.24: Représenter le domaine de stabilité K = f (b).
+Domaine 
+de stabilité
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2022
+0 Page : 15|16
+
+Concours MP-PC
+Épreuve S.T.A.
+Partie C : Automatique
+Document Réponses
+Dans la suite il faut faire abstraction à l’origine électrique du correcteur, on gardera seule-
+ment sa forme K p+a
+p+b.
+C.25: Calculer la valeur de K qui assure une marge de gain de 14dB si b = 40.
+T2(p) =
+80K
+p3 + 40, 5p2 + 20p
+T2(jω) =
+80K
+−40.5ω2 + j(20ω −ω3)
+|T2(jω)|dB = 20 log
+80K
+p
+(−40.5ω2)2 + (20ω −ω3)2
+Arg(T2(jω)) = −arctan(ω3 −20ω
+40.5ω2 ) = −arctan(ω2 −20
+40.5ω )
+Arg(T2(jωa)) = −180 =⇒ω2
+a −20
+40.5ωa
+= 0
+ainsi ωa =
+√
+20 rad/s
+MG = 14dB = −20 log
+80K
+40.5ω2a
+= −20 log
+80K
+40.5 × 20
+Ce qui donne : K = 40.5 × 20
+80
+× 10−0.7 Soit K = 2.02
+C.26: Calculer l’erreur statique de position et de traînage unitaire pour b = 40.
+FTBO: T2(P) =
+80K
+p(p + 0, 5)(p + 40)
+système de classe 1 =⇒ϵp(∞) = 0
+et ϵv(∞) = 1
+4K
+C.27: Pour quelle valeur de K a-t-on une erreur de traînage de 2%?
+ϵv(∞) = 0, 02 = 1
+4K =⇒K = 12, 5
+C.28: Conclure quant aux performances du système vis à vis de cette correction.
+Le système est instable aucune performance n’est à considérer.
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2022
+0 Page : 16|16

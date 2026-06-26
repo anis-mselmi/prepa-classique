@@ -1,0 +1,38 @@
+--- page 1 ---
+Problème 1:
+1
+Conducteur ec équilibre.si le courant volumique est nul (J=o)= E=6 V = Cte : charges en surface 2 Eo = gradVc ; Vo = - Ec z ~ Cte ; Vs = - Eo F cosg _ Vs 3.a 4V(r.8) = 0 3.b V(r = R8) =Vsi V(r>>R8) = Ec T cost V, 4.2 En écrivant 4V(r,8) = 0 et en divisant par f.g on obtient Æ-2r si2 0 dE f(:) d d sin€ g(0) d6 d0
+2
+15
+C'est de la forme : F(r) = G(0) VG,8) ~ 5 une constante B / F(r) = G(0) = B. 4.b Pourr>R V ~ -Er cos8 + V > g(0) = cos8. En remplaçant_E on trouve B = 2 4.c L'équation différentielle vérifée par f(r) sécrit : r f" + 2rf -2f = 0. En cherchant des solutions de type ri on trouve m = 1 ou m = -2 4.d V(r,0) = A + cos8 a 1 + 7J; V(r_+,0) = - Eo r cos8 + Vs ~ A = Vs et a = -E R V(-RO) = Vs ~ b =-aR' = ER V(r,0) = Vs + Eo 7-r |cose.
+15
+5.a E=- gradv = E=E +2R cos8
+Ep = Eo ~1-R sin8
+5.b Eo = Eo (cos8 Mr -sin8 4) = E= E0 +Edipôlc avec p Areo R'E kz 2 5.c E(r=RO) = 3 Eo cos8 4; = 51, > 0 =3 EoEo cos8 €o 5.d dEc=_ 0 dS -(",), or par symétrie Ec est suivant (Oz) . ATEoR 2 3 dEz = R? sin0 dedo (cos8). Par intégration sur toute la sphère; on trouve Ec = - Ec 0, = - E0 _ 4æEoR Résultat prévisible à l'intérieur de la spbère conductrice en équilibre E=Ec+Eo=0 divE-0 ; divB =0 rotE =- #B rotB Hoo@E ât ôt Au voisinage dun conducteur parfait; on a: . = 9 n et B = Ho js ^n = Er = 0 et Bx = 0. €0 5=(Eox(x,v)ux +Eoy  (x,y)uy ) .exp[i(kz_ @t)] @= (Box(x,v)ux 4 Bov (x,v)uy ) .exp[i(kz @t)] divE= @Ez+- @v- @Eo âoy 2 =03 =03 div Eo =0. TyT âx ôy âx êy æ =~ikEy ioBx {irs 5 rCyrrfaarjlier 3* VgigNfuD @c- JotE 4 5 =ikEx ioB! 4} 3 êx âEo doz # expi(kz @t) êx êy Or TOtEo= = @o_ ~Es uz = TOtEo =0 êx ôy 8.a FotEo=0=  Ya(xy) ; Eo =gradyo divEo =0 = Auo =0 15 8.b Condition aux limites 5o eSt aux parois du guide ; Ec = 'gradyo 3 E0 est _ auX sufaces équi '  15 En out point des parois du guide Yc reste alors constante 8.c Yo Cte = Eo =0 Cemode (IEM pe peut pas se_propager dans le_ guide
+
+--- page 2 ---
+9.a
+k1 = @( sina Ux + cosa Uz ) 3 kz = @(_ sina Ux7 +cosa Uz )
+9.b
+0
+0
+E=Eo {exp[i[ _ (x.sina+zcosa) -@t]] - p exp[i[ _ (-xsina+zcosa) -@t] ]} ù, C C E est tangent aux plans x = 0 et x = 1 3 E(x=0) = E(x=a) = 0 0 @ E(x=0) = Eo {exp[i[_ zcosa-@t]]- P exp[i[ _ zcosa-@t]]} *, = 0 C c Cette équation écrite pour z = 0 et t = 0, donne p = -1. 0 3 E=2iE sin(kox sina) exp[i(ko z cosa @t)] 6,' avec ko C
+2,5
+9.c
+DC 2 E(xza) = 0 3ka sina = nI sina = a0 10.a L'onde résultante se_propage suivant les Z croissants_ 10.b 2 2 2 0 209 DIC kg = ko cosa k? =k? cos? a = k?(l-sin= B a) = avec @a C ? a 2,5 La propagation est possible si k2 >0 càd si @>@a. Le guide ne laisse pas se propager (coupe) les pulsations infërieures à @c 2 pulsation de coupure 1l V, V, =c? ; V? = @ = 4s =c '11-% 2 kg 0 02 2 V1 03
+12
+@B E2 IotE = _ 3Bz = 2 sina cos(koxsina) exp(ikozcosa-@t) la composante de B suivant la direction ôt C de propagation est non nulle = londe n'est pas IM
+2
+Problème 2:
+Diviseurs du front donde les rayons qui interfèrent en M S2 correspondent à deux rayons distincts issus de la source. La source est ponctuelle, on observe alors des interférences pon localisées (pas de problème de cohérence spatiale) S1 6 = (SM1 (SM) SJz + JzIz +IzM SI1 IjJi -JM 6 =S'J2 + JMM -SJ -JjM 2 De point de vue différence de marche; on peut considérer la figure ci-contre (M':) e qui fait apparaître une lame dair d'éppaisseur e (MJ 3.2 1 = SzM = SiM; SzE 2(d+e)+D-d)= D+d-Ze ; SjE = D-d 8 = V@+d)? +(2e) _4e(D+d) -X? V(D-d)- +X? 2e X En posant €1 et €z un DL à l'ordre deux donne D-d D-d 1 1 1 1 5 =D+d)[1+- (82-62+261)-5(462 14 €, ez) -1 - ez]=D-d)(& 9; €) 2 8 2 2 X? On touve ô = Ce 2(D-d)-  3.b I=Cte = 5 =Cte = Y=Cte. La smetie de revclution autcur de l'axe SE anneaux concentriques ( centre E) ~e P = Por ~1 ; Po 2
+Pz Po
+X
+SXn = (D-d) Pz-Pz = (D+d) (2 =1) 2(D-j)- Po Yze
+
+--- page 3 ---
+6
+AX, =Xorl7 Xa (D+d) V22 +3 V2n +1 ) = D+d) 2(-2 1) = D+d 2e 2o VI - e 2n 2 Ve n 7.2 1 Le centre des anneaux se translate de la même distance l< 1Xo = D-d 4 8 Ye n 7.b D->œ pas de limitation pour ! Les franges obtenues sur un écran placé à l'infini gardent ur bon contraste 8.a On observe dans le plan focal image de la lentille se qu'on observerait sur un écran placé à linfini 8.b vcir figure ci contre. 8.c Les rayons qui interferent en M proviennent dun même rayon incident diviseur damplitude. (L' 8.d tg8 5 mu 1 Bma Pmz Po ~(8-0)-2e 3395,5 M ^ 2 Pui P(0 = @ma) = Zecose max 3391,2 on observe anneaux brillants 1 9 Problème de cohérence temporelle 10.a 22(sin 0 ux +cos0 Gz 3 Ki = K1 = 22(sin0 Ux cos8 uz kz = 24(sin(e +20) Hx cos(8 + 2c) uz A 10.b 2I 2 0 = (kz-k,)ozM x[sin(0 + 2a)-sin 0] + zcos0 -cos(0 + 2c)]} ll.a 2a 2 Pour 8 et a faibles; un DL donne P= [x+ (a+0) z] 1 Il.b 40 I=2lo 1+cos[ (x+z(a+0))]
+12.a 212 Ara 4ra Jx d= d0 1+cos[ (x+z(a+8))] 3 I(xz,8) = 2lo 1+ sin: z 80 cos (x+az) 280 1 1 12.b En tout point du plan z = 0, le contraste reste bon (C = I) et ceci F 0. 12.c 412 1 I(xz 0,80) l+cos X franges rectilignes ; i = 2a 12.d En s'éloignant de ce plan le contraste diminue et les franges disparaissen Avec une source étendue; les franges sont localisées au voisinage du coin: 13 1 OA f = 3OA = = ~ 25 cm OA OA f f =~ OA OA à'yvl Y = =4 iee2 =li; a = = 5,9 !0- rad OA Ziicran
+3
+2 2
+5

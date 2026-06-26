@@ -1,0 +1,2493 @@
+Session Juillet 2020 
+Page 1 sur 16 
+Instructions 
+• Cette épreuve comporte 14 pages + 2 pages vides.  
+• Tout résultat doit être écrit dans les cadres adéquats. 
+• L'usage des calculatrices électroniques de poche non programmables est autorisé. 
+• Aucun échange entre les candidats n'est autorisé. 
+• Tout calcul doit être précédé d’une expression littérale.  
+• Les résultats numériques sans unité ou avec une unité fausse ne seront pas comptabilisés. 
+• En cas de besoin utiliser la page vide en fin de cahier. Dans ce cas, il faut le signaler 
+dans la case allouée à la réponse remise en fin de cahier. 
+• Si au cours de l’épreuve, un candidat repère ce qui lui semble être une erreur d’énoncé, 
+il la signale sur sa copie et poursuit sa composition en indiquant les raisons des 
+initiatives qu’il est amené à prendre. 
+ 
+ 
+ 
+ 
+ 
+ 
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 16 PAGES 
+NUMEROTÉES 1 sur 16, 2 sur 16, …, 16 sur 16. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Concours Biologie et Géologie 
+Chimie inorganique 
+
+ 
+Page 2 sur 16 
+Épreuve de chimie section BG 
+Année : 2019-2020 
+Notations et données numériques 
+États des constituants physicochimiques : 
+(sd) solide ; (liq) liquide ; (g) gazeux 
+Lorsque aucune mention n'est spécifiée, les ions sont supposés implicitement en solution aqueuse. 
+Les gaz sont considérés comme parfaits. 
+Notations :  
+• L’exposant * signifie corps pur. 
+• L’exposant  signifie standard. 
+• xi : la fraction molaire de « i » dans la phase liquide. 
+• yi : la fraction molaire de « i » en phase vapeur. 
+• 
+ipσ  : pression de vapeur saturante de « i ». 
+• 
+i
+ϕ
+µ  : potentiel chimique du constituant « i » dans la phase φ. 
+• ESH : électrode standard à hydrogène. 
+Constantes physiques : 
+• Constante des gaz parfaits : R = 8,314 J.mol-1.K-1. 
+• Constante de Faraday : F = 96500 C.mol-1. 
+• Pression standard : p 
+1
+.
+bar
+=
+ 
+• Concentration standard : C 
+1
+1
+.
+.
+mol L−
+=
+ 
+Données numériques : 
+Masse molaire de l’eau : 18 g.mol-1  
+Températures de vaporisations standard: 
+• 
+vap
+T ( )
+351,4
+B
+K
+=
+ 
+• 
+vap
+T ( )
+373,0
+A
+K
+=
+ 
+ 
+À 298 K, 
+• Les potentiels chimiques standard :  
+Entité 
+Ba(sd) 
+H2O(liq) 
+H+ 
+H2(g) 
+iµ 
+1
+(
+.
+)
+kJ mol −
+ 
+0 
+-237,2 
+0 
+0 
+• 
+( )
+( )
+10
+0,06
+log
+(
+ )
+R T
+Ln x
+x
+en V
+F
+×
+×
+=
+×
+. 
+• La pression de vapeur saturante de l’eau vaut 23,80 mmHg.  
+Conversion : (
+)
+(
+)
+273.
+T K
+C
+= θ °
++
+ 
+Unité : [J.C-1] = [Volt] 
+ 
+ 
+ 
+
+ 
+Page 3 sur 16 
+Épreuve de chimie section BG 
+Année : 2019-2020 
+Problème : étude des équilibres liquide-vapeur 
+Partie 1 : Corps purs 
+1) Montrer ; en donnant les hypothèses utilisées ; que la pression d’équilibre entre la phase liquide et la 
+phase vapeur d’un corps pur s’écrit sous la forme :  
+p
+Ln
+p
+σ
+
+vap
+m
+H
+∆
+
+=
+
+
+
+
+
+1
+eb
+R
+T
+×
+
+1
+T
+
+
+−
+
+
+
+
+ 
+Où la pression est exprimée en bar et la température en kelvin. 
+La relation de Clapeyron :  
+(
+)
+*
+*,
+*,
+vap
+m
+vap
+liq
+vap
+m
+m
+H
+dp
+dT
+T
+V
+V
+∆
+
+
+=
+
+
+×
+−
+
+
+ 
+Les approximations utilisées : 
+*
+vap
+m
+H
+cte
+∆
+=
+ 
+*,
+*,
+*,
+*,
+*,
+>>
+⇒
+−
+≈
+vap
+liq
+vap
+liq
+vap
+m
+m
+m
+m
+m
+V
+V
+V
+V
+V
+  
+Le gaz se comporte comme un gaz parfait : 
+*,
+×
+=
+vap
+m
+R T
+V
+p
+ 
+*
+2
+vap
+m
+vap
+H
+dp
+p
+dT
+R T
+∆
+
+
+=
+×
+
+
+×
+
+
+ 
+2
+2
+1
+1
+*
+2
+P
+T
+vap
+m
+P
+T
+H
+dp
+dT
+p
+R
+T
+∆
+
+=
+×
+
+
+
+
+∫
+∫
+ 
+Au voisinage de 
+eb
+T  : 
+p
+dp
+p
+
+
+
+
+
+
+
+p
+vap
+m
+H
+σ
+∆
+=
+∫
+
+2
+eb
+T
+dT
+R
+T
+×
+
+T∫
+ 
+p
+Ln p
+σ
+
+vap
+m
+H
+∆
+
+=
+
+
+
+
+
+eb
+1
+R
+T
+×
+
+1
+T
+
+
+−
+
+
+
+
+ 
+2) Sur la Fig. 1, on donne la superposition des courbes de vaporisation de deux corps purs A et B. 
+ 
+Fig.1 : Courbes de vaporisation de deux corps purs A et B 
+2-a) Associer chacune des courbes (1) et (2) aux corps purs correspondant A et B. Justifier la réponse. 
+Courbe (1) : correspond au corps pur B  
+vap
+T ( )
+351,4
+B
+K
+=
+ 
+Courbe (2) : correspond au corps pur A  
+vap
+T ( )
+373,0
+A
+K
+=
+ 
+ 
+
+ 
+Page 4 sur 16 
+Épreuve de chimie section BG 
+Année : 2019-2020 
+2-b) Montrer que l’on peut procéder de deux manières différentes pour savoir lequel des deux 
+composés est le plus volatil ? Quel est alors le composé le plus volatil ? 
+À pression fixe, celui qui a la température de vaporisation la plus faible est le plus volatil. 
+À température fixe, celui qui a la pression de vapeur saturante la plus forte est le plus volatil. 
+Le composé le plus volatil est le corps pur B 
+2-c) Tracer l’allure de la courbe d’analyse thermique lorsqu’on refroidit le corps pur B de la 
+température 375 K jusqu’à la température 339 K à une pression constante p = 1 bar. 
+Indiquer sur chaque branche : 
+• La nature des phases en présence. 
+• La variance F. 
+Préciser sur chaque branche de la courbe et aux points particuliers les phénomènes observés. 
+Partie 2 : Condition d’équilibre d’un mélange à plusieurs constituants 
+1) Donner la définition d’un système fermé. 
+Un système fermé est un système qui n’échange pas la matière avec l’extérieur. 
+ 
+2) Donner l’expression de la différentielle de l’enthalpie libre pour un système fermé contenant plusieurs 
+constituants dans une phase ϕ. 
+dG
+V
+dp
+S
+dT
+ϕ
+ϕ
+ϕ
+=
+×
+−
+×
+ 
+3) Donner l’expression de la différentielle de l’enthalpie libre pour un système ouvert contenant plusieurs 
+constituants dans une phase ϕ. 
+i
+i
+i
+dG
+V
+dp
+S
+dT
+dn
+ϕ
+ϕ
+ϕ
+ϕ
+ϕ
+=
+×
+−
+×
++
+µ ×
+∑
+ 
+
+ 
+Page 5 sur 16 
+Épreuve de chimie section BG 
+Année : 2019-2020 
+4) Soit un système fermé contenant plusieurs constituants dans deux phases : liquide et vapeur en équilibre. 
+Dans ce système chaque phase est considérée comme ouverte à l'autre puisqu'il y a transfert de la matière. 
+4-a) Établir l’expression de la différentielle de l’enthalpie libre dG de ce système, sachant que son 
+enthalpie libre s’écrit : 
+liq
+vap
+G
+G
+G
+=
++
+ 
+liq
+liq
+liq
+liq
+liq
+i
+i
+i
+dG
+S
+dT
+V
+dp
+dn
+= −
+×
++
+×
++
+µ
+×
+∑
+ 
+vap
+vap
+vap
+vap
+vap
+i
+i
+i
+dG
+S
+dT
+V
+dp
+dn
+= −
+×
++
+×
++
+µ
+×
+∑
+ 
+liq
+vap
+dG
+dG
+dG
+=
++
+ 
+liq
+liq
+liq
+liq
+vap
+vap
+vap
+vap
+i
+i
+i
+i
+i
+i
+dG
+S
+dT
+V
+dp
+dn
+S
+dT
+V
+dp
+dn
+= −
+×
++
+×
++
+µ
+×
+−
+×
++
+×
++
+µ
+×
+∑
+∑
+ 
+(
+)
+(
+)
+liq
+vap
+liq
+vap
+liq
+liq
+vap
+vap
+i
+i
+i
+i
+i
+i
+dG
+S
+S
+dT
+V
+V
+dp
+dn
+dn
+= −
++
+×
++
++
+×
++
+µ
+×
++
+µ
+×
+∑
+∑
+ 
+liq
+liq
+vap
+vap
+i
+i
+i
+i
+i
+i
+dG
+S dT
+V dp
+dn
+dn
+= −×
++
+×
++
+µ
+×
++
+µ
+×
+∑
+∑
+ 
+4-b) Montrer à partir de l’expression précédente que la condition d’équilibre entre la phase liquide et 
+la phase vapeur conduit à l’égalité des potentiels chimique 
+(
+)
+1,....,
+liq
+vap
+i
+i
+i
+N
+µ
+= µ
+=
+. 
+Le système est fermé : dG
+S dT
+V dp
+= −×
++
+×
+ 
+La relation précédente devienne : 
+liq
+liq
+vap
+vap
+i
+i
+i
+i
+i
+i
+dn
+dn
+0
+µ
+×
++
+µ
+×
+=
+∑
+∑
+ 
+Or 
+liq
+vap
+i
+i
+dn
+dn
+= −
+ (système fermé : tout ce qui est perdue d'une phase et gagné par l'autre). 
+Il vient alors 
+(
+)
+liq
+vap
+liq
+i
+i
+i
+i
+dn
+0
+µ
+−µ
+×
+=
+∑
+ avec 
+0
+liq
+i
+dn
+≠
+ 
+D'où la condition d'équilibre : 
+(
+)
+1,....,
+liq
+vap
+i
+i
+i
+N
+µ
+= µ
+=
+ 
+ 
+ 
+ 
+ 
+
+ 
+Page 6 sur 16 
+Épreuve de chimie section BG 
+Année : 2019-2020 
+Partie 3 : système binaire A-B 
+La figure ci-dessous représente le diagramme d’équilibre de phases liquide-vapeur du système binaire A-B à 
+la température T = 355 K. 
+ 
+Fig.2 : Diagramme d’équilibre liquide-vapeur isotherme du système A-B 
+1) Les mélanges en phase liquide A-B sont-ils idéaux ou non ? Justifier la réponse. 
+De l’allure du diagramme (courbe de bulle est une droite) on peut conclure que les mélanges sont bien 
+idéaux. 
+2) Que peut-on dire à propos des interactions intermoléculaires A-A, B-B et A-B ? 
+Les interactions A-A, B-B et A-B sont identiques. 
+3) Les mélanges A-B se font-ils avec absorption ou dégagement de chaleur ? Justifier la réponse. 
+Les mélanges se font sans absorption ni dégagement de chaleur (athermique). 
+4) Établir l’expression de chacune des courbes suivantes : 
+• Vaporisation : 
+Dans le cas idéal, l’équilibre liquide vapeur d’un 
+mélange binaire se traduit par le système 
+d’équation suivant : 
+( )
+( )
+A
+A
+A
+B
+B
+B
+A
+B
+A
+B
+x
+p
+y
+p
+1
+x
+p
+y
+p
+2
+x
+x
+1
+y
+y
+1
+σ
+σ
+
+×
+=
+×
+
+×
+=
+×
+
++
+=
+
+
++
+=
+
+           (I)  
+( ) ( )
+A
+A
+B
+B
+1
+2 :
+p
+x
+p
+x
+p
+σ
+σ
++
+=
+×
++
+×
+ 
+(
+)
+(
+)
+B
+B
+A
+A
+B
+p
+x
+p
+p
+p
+f x
+σ
+σ
+σ
+=
+×
+−
++
+=
+ 
+
+ 
+Page 7 sur 16 
+Épreuve de chimie section BG 
+Année : 2019-2020 
+• Rosée : 
+( )
+( )
+A
+A
+A
+B
+B
+B
+y
+x
+p
+1
+p
+y
+x
+p
+2
+p
+σ
+σ
+
+=
+×
+
+
+=
+×
+
+ 
+(
+)
+A
+B
+A
+B
+A
+B
+y
+y
+x
+x
+1
+p
+p
+p
+σ
+σ
+
+
++
+= =
+×
++
+
+
+
+
+ 
+A
+B
+A
+B
+1
+p
+y
+y
+p
+p
+σ
+σ
+= 
+
++
+
+
+
+
+ 
+(
+)
+(
+)
+(
+)
+A
+B
+B
+B
+B
+B
+A
+p
+p
+p
+f y
+p
+y
+p
+p
+σ
+σ
+σ
+σ
+σ
+×
+=
+=
+−
+×
+−
+ 
+5) Démontrer qu’à une température donnée, la phase vapeur sera plus riche en composé le plus volatil que la 
+phase liquide en équilibre. 
+De la question partie A-2-b)  B est plus volatil que A  
+B
+A
+p
+p
+σ
+σ
+>
+ 
+Du système d’équation (I) on peut tirer : 
+B
+B
+B
+y
+p
+x
+p
+σ
+=
+ 
+B
+A
+p
+p
+p
+p
+σ
+σ
+>
+ 
+B
+A
+B
+B
+A
+B
+y
+y
+1
+y
+x
+x
+1
+x
+−
+>
+=
+−
+ 
+B
+B
+B
+B
+1
+x
+1
+y
+x
+y
+−
+−
+>
+
+B
+B
+1
+1
+1
+1
+x
+y
+−>
+−
+ 
+B
+B
+y
+x
+>
+ 
+La phase vapeur est plus riche que la phase liquide en B (composé le plus volatil). 
+6) À quelle pression commence la vaporisation, d’un mélange liquide de fraction molaire 
+B
+x
+0,7
+=
+ à la 
+température 355 K ? 
+p = 0,96 bar 
+7) À quelle pression commence à se liquéfier une vapeur de fraction molaire 
+B
+y
+0,7
+=
+à la température  
+355 K ? 
+p = 0,84 bar 
+
+ 
+Page 8 sur 16 
+Épreuve de chimie section BG 
+Année : 2019-2020 
+8) Un mélange de fraction molaire 
+B
+y
+0,7
+=
+est porté à la pression de 0,92 bar à la température 355 K.  
+Déterminer la quantité de matière B transformées en liquide sous la pression 0,92 bar, sachant que le mélange 
+initial contient 20 moles de B.  
+ 
+0,8
+0,7
+1,67
+0,7
+0,64
+liq
+vap
+n
+n
+−
+=
+=
+−
+ (1) 
+Le mélange initial : 
+20
+0,7
+vap
+B
+B
+vap
+vap
+init
+init
+n
+y
+n
+n
+
+
+
+
+=
+=
+=
+
+
+
+
+
+
+
+
+ (
+)
+20
+28,57
+0,7
+vap
+init
+n
+mol
+=
+=
+ 
+28,57
+liq
+vap
+n
+n
+mol
++
+=
+ (2) 
+De (1) et (2)  
+10,70
+vap
+n
+mol
+=
+ et 
+17,87
+liq
+n
+mol
+=
+ 
+0,64
+0,64
+17,87 0,64
+11,44
+liq
+liq
+liq
+B
+B
+B
+liq
+n
+x
+n
+n
+mol
+n
+=
+=
+⇒
+=
+×
+=
+×
+=
+ 
+Partie 4 : du diagramme isotherme au diagramme isobare 
+Sur la Fig. 3, on donne la superposition de trois diagrammes d’équilibre liquide-vapeur isothermes du même 
+système A-B. 
+ 
+Fig.3 : Diagrammes binaires isothermes du système A-B 
+1) Comment expliquer le décalage vers le haut, des courbes de vaporisation et de rosée lorsque la température 
+augmente ? 
+La pression de vapeur saturante augmente en fonction de la température. 
+D’où le décalage vers le haut des courbes de vaporisation et de Rosée.  
+
+ 
+Page 9 sur 16 
+Épreuve de chimie section BG 
+Année : 2019-2020 
+2) En utilisant des informations de la figure Fig. 3 et éventuellement quelques résultats obtenus dans les 
+parties 1 et 3. 
+2-a) tracer le plus précisément possible sur la fig. 4, le diagramme d’équilibre liquide-vapeur isobare 
+(p = 1 bar) du système A-B. 
+2-b) Indexer totalement ce diagramme. 
+À répondre sur la fig. 4.  
+ 
+Fig.4 : Diagramme binaire isobare du système A-B 
+3) On procède à une distillation fractionnée d’un mélange A–B à 30% molaire en A. Qu’obtient–on comme 
+résidu et comme distillât ? 
+Quel que soit la composition, on obtient le B comme distillat (le composé le plus volatil) et le A comme 
+résidu. 
+ 
+ 
+ 
+ 
+
+ 
+Page 10 sur 16 
+Épreuve de chimie section BG 
+Année : 2019-2020 
+Problème : tonométrie 
+On s'intéresse à la modification de la pression d'ébullition pour un solvant « S » lorsque on ajoute une faible 
+quantité d'un soluté « E » à ce solvant liquide.  
+• La solution obtenue est considérée comme idéale. 
+• Le soluté « E » est supposé non volatil ce qui fait que la phase vapeur ne contient que le constituant 
+S(vap). 
+1) Donner l’expression du potentiel chimique du constituant « S » dans la phase liquide. 
+liq
+S
+S
+µ
+µ
+=
+
+(
+)
+, ( )
+liq
+s
+T
+R T
+Ln x
++
+×
+×
+ 
+2) Donner l’expression du potentiel chimique du constituant « S » dans la phase vapeur. 
+vap
+S
+S
+µ
+µ
+=
+,
+( )
+vap
+Sp
+T
+R T
+Ln
+p
++
+×
+×
+
+
+
+
+
+
+
+ 
+3) Écrire la condition d'équilibre du solvant « S » entre les deux phases.  
+liq
+vap
+S
+S
+µ
+µ
+=
+ 
+4) Déterminer la relation donnant la pression totale, « p » de la vapeur, en équilibre avec le liquide en fonction 
+de la fraction molaire de « S » dans la phase liquide notée « xS ». 
+S
+µ 
+(
+)
+, ( )
+liq
+S
+S
+T
+R T
+Ln x
+µ
++
+×
+×
+=
+,
+( )
+vap
+Sp
+T
+R T
+Ln
+p
++
+×
+×
+
+
+
+
+
+
+
+ 
+Seul « S » en phase vapeur : p = pS 
+ 
+S
+µ , ( )
+liq
+S
+T
+µ
+−
+,
+( )
+vap
+p
+T
+R T
+Ln
+p
+=
+×
+×
+
+(
+)
+S
+Ln x
+
+
+
+−
+
+
+
+
+
+
+
+
+ 
+S
+µ , ( )
+liq
+S
+T
+µ
+−
+,
+( )
+vap
+S
+T
+p
+Ln
+R T
+x
+p
+=
+×
+×
+
+
+
+
+
+
+
+ 
+S
+p
+x
+p
+=
+×
+
+S
+Exp µ
+×
+, ( )
+liq
+S
+T
+µ
+−
+,
+( )
+vap T
+R T
+
+
+
+
+
+
+
+
+×
+
+
+
+
+ 
+ 
+( )
+S
+S
+p
+x
+p
+T
+σ
+=
+×
+ 
+5) Exprimer la diminution de la pression 
+S
+p
+p
+p
+σ
+δ
+=
+−
+ en fonction de la fraction molaire de « E » dans la 
+phase liquide « xE » et de la pression de vapeur saturante de « S » notée « 
+Spσ  ».  
+(
+)
+1
+S
+S
+S
+S
+S
+S
+E
+S
+p
+p
+p
+p
+x
+p
+p
+x
+x
+p
+σ
+σ
+σ
+σ
+σ
+δ
+=
+−
+=
+−
+×
+=
+×
+−
+=
+×
+ 
+ 
+
+ 
+Page 11 sur 16 
+Épreuve de chimie section BG 
+Année : 2019-2020 
+6) On dissout 6 g d'un composé « E » solide dans 50 g d’eau à 25°C et on mesure la pression de vapeur au-
+dessus de la solution, soit p = 23,65 mmHg.  
+Déduire de cette mesure la masse molaire du composé « E ». 
+23,80
+23,65
+0,15
+p
+mmHg
+δ
+=
+−
+=
+ 
+liq
+E
+S
+liq
+liq
+S
+E
+n
+p
+p
+n
+n
+σ
+δ
+
+
+=
+×
+
+
++
+
+
+  
+liq
+liq
+E
+S
+n
+n
+<<
+  
+liq
+E
+S
+liq
+S
+n
+p
+p
+n
+σ
+δ
+
+
+=
+×
+
+
+
+
+ 
+liq
+E
+S
+S
+liq
+E
+S
+m
+M
+p
+p
+M
+m
+σ
+δ
+
+
+×
+=
+×
+
+
+×
+
+
+ 
+liq
+E
+S
+E
+S
+liq
+S
+m
+M
+M
+p
+p
+m
+σ
+δ
+
+
+×
+=
+×
+
+
+×
+
+
+ 
+Application numérique : 
+1
+6 18
+23,80
+342,7
+.
+0,15 50
+E
+M
+g mol −
+×
+
+
+=
+×
+=
+
+
+×
+
+
+ 
+ 
+Problème : thermodynamique des réactions électrochimiques 
+1) Écrire l’expression de l’enthalpie libre G d’un système à plusieurs constituants en fonction de la quantité 
+de matière « ni » et du potentiel chimique « µi » de chaque constituant « i ». 
+i
+i
+i
+G
+n
+=
+×
+∑
+µ  (Théorème d’Euler) 
+2) Considérons l’équation associée à une réaction chimique quelconque : 
+A
+B
+c
+A
+B
+C
+ν
+ν
+ν
++
+=
+ 
+2-a) Donner une expression de l’avancement ξ de cette réaction. 
+(0)
+i
+i
+i
+n
+n
+ξ
+ν
+−
+=
+ 
+2-b) Établir l’expression de l’enthalpie libre de la réaction 
+rG
+∆
+ en fonction des potentiels chimiques 
+des constituants. 
+i
+i
+i
+G
+n
+=
+×
+∑
+µ  
+(0)
+i
+i
+i
+n
+n
+ν
+ξ
+=
++
+×
+ 
+(
+)
+(0)
+i
+r
+i
+i
+i
+i
+i
+i
+i
+i
+i
+n
+G
+n
+µ
+ν
+ξ
+µ
+ν
+µ
+ξ
+ξ
+
+
+
+
+∂
+∂
+∆
+=
+×
+=
++
+×
+×
+=
+×
+
+
+
+
+∂
+∂
+
+
+
+
+∑
+∑
+∑
+ 
+3) Qu’est-ce qu’une réaction d’oxydoréduction ? 
+Une réaction d’oxydoréduction est une réaction chimique d’échange d’électrons. 
+
+ 
+Page 12 sur 16 
+Épreuve de chimie section BG 
+Année : 2019-2020 
+4) Schématiser la cellule électrochimique qui permet de déterminer le potentiel d’électrode associé au couple 
+Ba2+/Ba(sd).  
+ 
+5) Écrire les demi-équations rédox qui ont lieu dans chaque demi-cellule puis l’équation bilan (1) de la 
+réaction. 
+(
+)
+( )
+2
+2
+(
+)
+(
+)
+2( )
+2( )
+2
+2( )
+:
+2
+:
+:
+2
+2
+:
+:
+2
+2
+1
+sd
+sd
+g
+g
+g
+Ba
+Ba
+Ba
+e
+Ba
+réduction
+H
+H
+H
+H
+e
+oxydation
+Bilan Ba
+H
+Ba
+H
+n
++
++
+−
++
++
+−
++
++
++
+=
+=
++
++
+=
++
+=
+ 
+5-a) Donner les expressions de l’enthalpie libre standard de cette réaction. : 
+i) en fonction des potentiels chimiques standards. 
+rG
+∆
+
+i
+i
+=
+ν ×µ 
+i∑
+ 
+ii) en fonction de la force électromotrice standard de la cellule. 
+rG
+∆
+
+n
+F
+E
+= −×
+×
+
+2
+F
+E
+= −×
+×
+ 
+5-b) Calculer les grandeurs standard (
+rH
+∆
+, 
+rS
+∆
+ et 
+rG
+∆
+) de cette réaction à 298 K, en utilisant les 
+grandeurs thermodynamiques suivantes : 
+À 298 K :  
+Entité « i » 
+Ba(sd) 
+Ba2+ 
+H+ 
+H2(g) 
+,
+m i
+S 
+1
+1
+( .
+.
+)
+J mol
+K
+−
+−
+ 
+62,50 
+9,62 
+0 
+130,70 
+,
+f
+m i
+H
+∆
+
+1
+(
+.
+)
+kJ mol −
+ 
+0 
+-537,6 
+0 
+0 
+ 
+rH
+∆
+
+f
+m
+H
+= ∆
+(
+)
+,
+2
+f
+m
+Ba sd
+H
++ ×∆
+(
+)
+,
+f
+m
+H
+aq
+H
++
+−∆
+(
+)
+2 ,
+f
+m
+Ba
+aq
+H
++
+−∆
+(
+)
+2,
+H
+g  
+rH
+∆
+
+1
+0
+2 0
+537,6
+0
+537,6
+.
+kJ mol −
+=
++ × +
+−
+=
+ 
+rS
+∆
+
+m
+S
+=
+(
+)
+,
+2
+m
+Ba sd
+S
++ ×
+(
+)
+,
+m
+H
+aq
+S
++
+−
+(
+)
+2 ,
+m
+Ba
+aq
+S
++
+−
+(
+)
+2,
+H
+g  
+rS
+∆
+
+1
+1
+62,5
+2 0
+9,62 130,7
+77,82 .
+.
+J mol
+K
+−
+−
+=
++ × −
+−
+= −
+ 
+rG
+∆
+
+r
+m
+H
+= ∆
+
+r
+m
+T
+S
+−
+×∆
+ 
+rG
+∆
+
+(
+)
+3
+1
+537,6
+298
+77,82 10
+560,79
+.
+kJ mol
+−
+−
+=
+−
+× −
+×
+=
+ 
+
+ 
+Page 13 sur 16 
+Épreuve de chimie section BG 
+Année : 2019-2020 
+5-c) Déduire à 298 K, la valeur du potentiel chimique standard de Ba2+. 
+rG
+∆
+
+,
+Ba sd
+µ
+=
+
+,
+2
+H
+aq
+µ
++
++ ×
+
+2 ,
+Ba
+aq
+µ
++
+−
+
+2 ,
+H
+g
+µ
+−
+
+ 
+rG
+∆
+
+2 ,
+Ba
+aq
+µ
++
+= −
+
+2
+1
+,
+560,79
+.
+Ba
+aq
+kJ mol
+µ
++
+−
+=
+⇒
+
+1
+561
+.
+kJ mol −
+−
+
+ 
+ 
+5-d) Quelle est la relation entre la force électromotrice standard de la cellule de la question 4) et le potentiel 
+standard d’électrode associé au couple Ba2+/Ba(sd) ? 
+La force électromotrice standard de la cellule s’écrit : E 
+E
+=
+(
+)
+2
+(
+)
+sd
+Ba
+Ba
+E
++
+−
+(
+)
+2( )
+g
+H
+H
++
+ 
+ 
+5-e) Calculer la valeur du potentiel standard d’électrode associé au couple Ba2+/Ba . 
+2
+2( )
+(
+)
+2
+g
+sd
+Ba
+H
+Ba
+H
++
++
++
+=
++
+ 
+rG
+∆
+
+2
+F
+E
+= −×
+×
+
+1
+561
+.
+kJ mol −
+=
+ (Question 5-b) 
+E 
+E
+=
+(
+)
+2
+Ba
+Ba
+E
++
+−
+(
+)
+2( )
+r
+g
+G
+H
+H
++
+∆
+= −
+
+2
+F
+×
+ 
+E (
+)
+2
+rG
+Ba
+Ba
++
+∆
+= −
+
+2
+F
+×
+ 
+Application numérique : 
+E (
+)
+3
+2
+561 10
+2,91
+2 96500
+Ba
+Ba
+V
++
+−
+×
+=
+= −
+×
+ 
+5-f) Donner les expressions de l’enthalpie libre de la réaction (1) : 
+i) en fonction de l’enthalpie libre standard de la réaction. 
+r
+r
+G
+G
+∆
+= ∆
+
+( )
+r
+R T
+Ln Q
+G
++
+×
+×
+= ∆
+
+C
+R T
+Ln
++
+×
+×
+
+2
+[
+]
+Ba +
+
+
+
+
+
+
+ 
+ii) en fonction de la force électromotrice de la cellule. 
+2
+rG
+n
+F
+E
+F
+E
+∆
+= −×
+×
+= −×
+×
+ 
+5-g) Quelle est la relation entre la force électromotrice de la cellule de la question 4) et le potentiel d’électrode 
+associé au couple Ba2+/Ba(sd) ? 
+La force électromotrice de la cellule s’écrit : 
+(
+)
+(
+)
+2
+2( )
+g
+E
+E Ba
+Ba
+E H
+H
++
++
+=
+−
+ 
+ 
+5-h) Établir la relation entre la force électromotrice et la force électromotrice standard de cette cellule. 
+r
+r
+G
+G
+∆
+= ∆
+
+C
+R T
+Ln
++
+×
+×
+
+2
+[
+]
+Ba +
+
+
+
+
+
+
+  
+2
+2
+F
+E
+F
+E
+−×
+×
+= −×
+×
+
+C
+R T
+Ln
++
+×
+×
+
+2
+[
+]
+Ba +
+
+
+
+
+
+
+ 
+E
+E
+=
+
+2
+R T
+C
+Ln
+F
+×
+−
+×
+×
+
+2
+[
+]
+Ba +
+
+
+
+
+
+
+ 
+ 
+
+ 
+Page 14 sur 16 
+Épreuve de chimie section BG 
+Année : 2019-2020 
+5-i) Déduire de la relation précédente l’expression du potentiel d’électrode associé au couple Ba2+/Ba(sd).  
+(
+)
+(
+)
+2
+2( )
+g
+E Ba
+Ba
+E H
+H
+E
++
++
+−
+=
+(
+)
+2
+Ba
+Ba
+E
++
+−
+(
+)
+(
+)
+2( )
+2
+g
+R T
+C
+H
+H
+Ln
+F
++
+×
+−
+×
+×
+
+2
+[
+]
+Ba +
+
+
+
+
+
+
+ 
+(
+)
+2
+E Ba
+Ba
+E
++
+=
+(
+)
+2
+2
+R T
+C
+Ba
+Ba
+Ln
+F
++
+×
+−
+×
+×
+
+2
+[
+]
+Ba +
+
+
+
+
+
+
+ 
+ 
+FIN DE L’ÉPREUVE 
+ 
+ 
+
+ 
+Page 15 sur 16 
+Épreuve de chimie section BG 
+Année : 2019-2020 
+ 
+ 
+ 
+
+ 
+Page 16 sur 16 
+Épreuve de chimie section BG 
+Année : 2019-2020 
+ 

@@ -1,0 +1,66 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de ['Enseignement Supérieur Concours nationaux d'entrée aux cycles dc formation d'ingénieurs Session 2006
+44142/ad) Uksiesis Uaw Yibyi Bubliji :hnitJiiusjlyji 2006 n
+Concours Biologie et Géologie Epreuve de Physique
+Date Jeudi 08 Juin 2006
+Heure : 8 H
+Durée : 3 H
+Nbre pages 04
+Barème : Problème 1 : 08 / 20
+Problème 2 : 12 / 20
+L'usage dune calculatrice non programmable est autorisé
+L'épreuve comporte deux problèmes indépendants. Le candidat peut les résoudre dans l'ordre qui lui convient; en respectant néanmoins la numérotation des questions.
+Problème !
+Un réservoir cylindrique ouvert de hauteur H = 1,5 m et de rayon R = 0,5 m contient de leau de masse volumique constante P = 103 kg.m ' sur une hauteur Yo = 1 m. L'eau est surmontée dair à la pression atmosphérique extérieure Po = 105 Pa. (Figure 1). y
+PFl? PARSSR 2 bibliotheque ) 3 CwëEMivss$
+Po
+Figure 1
+air
+H Yo
+Po
+GH
+y(0')
+X
+
+1 Vidange d'un réservoir d'eau
+On perce la surface latérale du réservoir dun petit orifice circulaire 0 de rayon r = 5 mm très faible par rapport à R ( r < R ) et situé à une distance y(O') = 0,3 m du fond du réservoir. Le système est maintenu à température constante qui est celle de [extérieure- On donne le champ de pesanteur g = 10 m.s 42 19) a) Rappeler léquation de Bernoulli . b) Préciser les hypothèses de sa validité.
+Dans la suite du   problème, on supposera satisfaites ces hypothèses:
+Concours Biologie et Géologie Session Juin 2006
+Epreuve de Physique
+Page 1/4
+
+--- page 2 ---
+29) Calculer la vitesse initiale du liquide à lorifice 0" 39) Calculer le débit volumique en litres par seconde. 40 Pour une hauteur y de /eau à un instant t quelconque; montrer que la vitesse de leau v(O') àlorifice 0' s'écrit v(O') = 2g(y-y(O')) _ 59) Quel est le temps nécessaire au vidange du réservoir ?
+II- Compression isotherme de lair
+On revient à létat initial et on ferme ce cylindre par un piston de masse négligeable pouvant se déplacer sans frottement.   Le cylindre renferme une quantité dair supposé gaz parfait à la température To = 300 K surmontant leau. Les parois du cylindre ainsi que le piston sont supposés parfaitement perméables à [échange thermique: Le piston se trouve initialement à la hauteur H = 1,5 m du fond du cylindre, et lorifice 0 est fermé On supposera que 1eau est incompressible. 19) Préciser les grandeurs thermodynamiques (P1, V1, T1) de létat initial de lair. 29) A partir de F'état initial, on réalise une compression réversible de lair. Létat déquilibre atteint par /air est caractérisé par une pression P2 = 1,10 Po (Figure 2) Dans la suite du problème; le piston sera bloqué dans cette position.
+Figure 2
+air comprimé
+H Yol
+Po
+a) Déterminer dans cet état d'équilibre; le volume Vz et la température Tz de lair comprimé dans le cylindre. b) Calculer le travail W, léchange thermique Q et la variation dénergie interne AU échangés au cours de la compression de Fair. Représenter cette transformation sur un diagramme de Clapeyron III- Vitesse d'éjection de Peau surmontée dair comprimé
+Le piston étant toujours bloqué, on ouvre lorifice 0
+19) Calculer la vitesse initiale v'(0') d'éjection de leau par [orifice 29) Pendant lécoulement de leau, lair au dessus de leau se détend. On se propose de déterminer la vitesse déjection V1 de Peau lorsque la pression de [air comprimé est Ps = 1,05 Po. a) Déterminer le volume V3 de lair surmontant 1eau. En déduire la hauteur deau y' 0 b) Calculer alors la vitesse v1 déjection de leau par lorifice 0
+Concours Biologie et Géologie Session Juin 2006
+Epreuve de Physique
+Page 2/4
+
+--- page 3 ---
+Problème 2
+On réalise le montage classique détude de la diffraction à infini. La source est une fente F émettant une onde damplitude constante, disposée dans le plan focal objet dune lentille convergente L1 centrée sur laxe optique et perpendiculaire à celui ci (Figure 1). On observe le phénomène de diffraction dans le plan focal image d'une lentille convergente L2; centrée sur laxe optique du système; et dont la distance focale est f: Dans tout le problème; on se limite au cas de rayons peu inclinés par rapport à laxe du système. Entre les deux lentilles Lj et L2, on peut disposer différents diaphragmes D perpendiculaires à ['axe optique.
+X D
+X
+LI
+L2
+M
++a/2 P
+Figure 1
+-a/2
+7888681216824068801
+écran dobservation
+L 'amplitude complexe de londe diffractée en un point Mde lécran dobservation s'écrit
+A(M) =2 exp (jp (X))dX 2
+où dX représente un élément de longueur sur laxe OX entourant un point P de louverture, et p le déphasage de londe issue de P par rapport à lorigine des phases prise au point 0 ao désigne une constante. Lintensité lumineuse I est définie par la relation I = AA* où 4* désigne le complexe conjugué de A.
+I- Préliminaire La source lumineuse est monochromatique de longueur donde 1. Le diaphragme D est constitué dune fente de largeur a très petite par rapport à sa longueur, et perpendiculaire au plan de la figure 1. 19) Quels sont les rôles des deux lentilles L1 et L2 ? 29) Décrire brièvement le phénomène observé sur 1écran. 39) a) Montrer que le déphasage @ s'écrit 0 = 21*X 1 f b) En déduire que lamplitude A1 de Tonde diffactée par la fente au point Mde Ta X sin 1 f lécran dobservation s'écrit A1 =Ao Ta X 1 c Donner /expression de lintensité I(x) ainsi que les positions des minima d'intensité
+Concours Biologie et Géologie Session Juin 2006
+Epreuve de Physique
+Page 3/4

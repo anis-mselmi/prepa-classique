@@ -1,0 +1,24 @@
+--- page 1 ---
+INSTRUCTIONS
+Cette épreuve comporte deux parties indépendantes. La première partie (chimie inorganique) comporte 12 pages (pl-pl2) . La deuxième partie (chimie organique) comporte 10 pages (pl3-p22) Tout résultat doit être écrit dans les cadres adéquats. Seul V'usage des calculatrices électroniques de poche non programmables est autorisé Les résultats numériques sans unité ou avec une unité   fausse ne seront pas comptabilisés. Aucun échange entre les candidats n'est autorisé. En cas de besoin   utiliser  les pages vides en fin du cahier. Dans ce caS , il faut  le signaler dans la case allouée à la réponse remise en fin de cahier.
+2v
+
+--- page 2 ---
+PARTIE I : CHIMIE INORGANIQUE
+BAREME
+Problème I Problème II Problème III
+3,375 pts 3,500 pts 3,125 pts
+DONNEES RELATIVES A L'ENSEMBLE DU SUJET (CHIMIE INORGANIQUE) Constante d Avogadro NA ' 6,023x1023 mo]-' Masses molaires (en g.1 mol-/ de For Au = 197 et du chrome Cr = 52 Electronégativités selon Pauling de For Au " 2,54 et de loxygène 0 = 3,44. Masse volumique de For solide p =19,3gcm Paramètre de la maille cubique de or a 4,08 a A 298 K :
+Potentiels standard d'oxydoréduction
+Couple Eo V) Au /AU(sd) 1,692 Au Au 1,401 AuzO3(sdyAu 1,422 AuOz(d YAu,O3(sd) 2,465 AuzOs(sdyAusd) 1,511 RxT x Ln(x) = 0,06x logio ' (x) (Volt) F
+En cristallographie les nombres négatifs sont notés avec une barre dessus  Exemple : -5 = 5
+2
+Concours Physique et Chimie Session Juin 2013
+
+--- page 3 ---
+PROBLEME [ : CRISTALLOGRAPHIE
+usttur Gepsarus _ Cuonhrur  QusMDe Sax' CRISTAUX METALLIQUES 1) Ecrire la relation de Bragg et préciser la signification de chaque terme 2 x duk * sin ( @hkt) = np * ^ dhkI distance entre deux plans réticulaires consécutifs de la famille <hkl> @hkl :angle entre le faisceau incident et les plans réticulaires (hkl). np ordre de diffraction. 1 longueur d'onde du RX 2) Donner la relation qui permet le calcul de la distance entre deux plans réticulaires consécutifs en fonction du paramètre < a > dune maille cubique: dhw Vh? + k? + /2 3) Lor cristallise dans une structure cubique. La diffraction dun rayonnement   X de longueur donde 1 = 1,54 1 sur Félément falsceau Incident falsceau rellechi < Au > donne une réflexion du premier ordre pour la famille de plans (111) avec un angle entre le faisceau incident et le faisceau réfléchi égal à 0 38,149 Donner 1expression puis dhkl calculer le paramètre < a > de maille.
+np * 2 a XVh? + k? +/2 2xsin (0/2) 1.54 a X v3 = 4.08 A 2xsin (1907) 4) Quel est le mode de réseau de lor ? natom (Au)x M Au p = NA * a pxN A Xa natom (Au) = MAu 19,3x6,023x1023 x (4,08x10-8 n aloinl (Au) = 249 mode (F) 197
+5) En déduire_le_rayon métallique de lor. Dans un réseau cubique à faces   centrées, les atomes dor sont   tangents   suivant la diagonale dune face du cube ax v2 = 4x7Au ax v2 4,08x v2 FAu = =1,44 A
+3
+Concours Physique et Chimie Session Juin 2013

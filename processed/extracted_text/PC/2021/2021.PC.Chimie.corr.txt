@@ -1,0 +1,3037 @@
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+Session Juin 2021 
+Page 1 sur 12 
+CONSIGNES  
+ Cette épreuve comporte 12 pages.  
+ Tout résultat doit être écrit dans les cadres adéquats. 
+ L'usage des calculatrices électroniques de poche non programmables est autorisé. 
+ Aucun échange entre les candidats n'est autorisé. 
+ Tout calcul doit être précédé d’une expression littérale.  
+ Les résultats numériques sans unité ou avec une unité fausse ne seront pas comptabilisés. 
+ En cas de besoin utiliser la page vide en fin de cahier. Dans ce cas, il faut le signaler 
+dans la case allouée à la réponse remise en fin de cahier. 
+ Ne joindre aucun brouillon.  
+ Si au cours de l’épreuve, un candidat repère ce qui lui semble être une erreur d’énoncé, 
+il la signale sur sa copie et poursuit sa composition en indiquant les raisons des 
+initiatives qu’il est amené à prendre. 
+ 
+ 
+ 
+ 
+ 
+ 
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 12 PAGES 
+NUMEROTÉES 1 sur 12, 2 sur 12, …, 12 sur 12. 
+ 
+ 
+ 
+Concours Physique et Chimie 
+Chimie inorganique 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Page 2 sur 12 
+Épreuve de chimie section PC 
+Année : 2020-20121 
+Notations et données numériques 
+États des constituants physicochimiques : 
+ (sd) solide ; (liq) liquide ; (g) gazeux 
+Lorsque aucune mention n'est spécifiée, les ions sont supposés implicitement en solution aqueuse. 
+Les gaz sont considérés comme parfaits. 
+Notations :  
+ xi : la fraction molaire de « i » dans la phase liquide. 
+ yi : la fraction molaire de « i » en phase vapeur. 
+ 
+ip : pression de vapeur saturante de « i ». 
+ 
+i
+
+ : potentiel chimique du constituant « i » dans la phase φ. 
+ L’exposant * signifie corps pur. 
+ L’exposant cd signifie phase condensée. 
+ L’exposant  signifie standard. 
+ ESH : électrode standard à hydrogène. 
+Constantes physiques : 
+ Constante des gaz parfaits : R = 8,314 J.mol-1.K-1. 
+ Constante d'Avogadro : NA = 6,02×1023 mol-1. 
+ Constante de Faraday : F = 96500 C.mol-1. 
+ Pression standard : p
+1
+.
+bar
+
+ 
+ Concentration standard : C
+1
+1
+.
+.
+mol L
+
+ 
+Données numériques : 
+ Masses molaires atomiques (g.mol-1) : N = 14,0 ; Na = 23,0. 
+ Electronégativité dans l’échelle de Pauling : Li= 0,98 et N = 3,04. 
+À 298 K, 
+ Potentiel redox standard à pH = 0 : E 
+
+2
+4(
+)
+4
+(
+)
+0,916
+/
+aq
+aq
+N H
+NH OH
+V
+ESH
+
+ 
+ Produit ionique de l’eau Ke =10-14. 
+ Constante d’acidité : 
+
+
+10
+4(
+)
+4
+(
+)
+5,37 10
+a
+aq
+aq
+K
+NH
+NH OH
+
+
+
+
+ 
+ La constante de Nernst : 
+
+R T F
+Ln(10)
+0,06 V  
+
+
+
+ 
+Equation aux dimensions : 
+[J.C-1] = V 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Page 3 sur 12 
+Épreuve de chimie section PC 
+Année : 2020-20121 
+Problème : Tableau périodique-liaison chimique 
+La famille des pnictogènes est constituée des éléments chimiques suivants : l’azote N, le 
+phosphore P, l’arsenic As, l’antimoine Sb et le bismuth Bi. 
+1) Déterminer le nombre d’électrons de valence des pnictogènes. 
+De la structure électronique de l’azote : 7N : 1s2 2s2 2p3 
+Configuration de la couche de valence du groupe :  ns2np3 
+Nv =5 
+2) Trouver le numéro de la colonne (groupe) des pnictogènes dans le tableau de la classification 
+périodique des éléments chimiques. 
+5 + 10 = 15ème colonne 
+3) L’antimoine est le quatrième pnictogène.  
+3-a) Déduire son numéro atomique. 
+Z = 33 + 18 =51 
+3-b) À quelle période appartient-il ? 
+2ème période N ; 3ème période P ; 4ème période As et la 5ème période Sb 
+4) Classer par ordre décroissant l’électronégativité de Pauling des éléments : Bi, N et As de la 
+famille des pnictogènes. 
+L’électronégativité décroît en descendant dans une colonne et de droite à gauche dans une 
+ligne : N est l’élément le plus électronégatif donc dans l’ordre : N > As > Bi 
+5) Qu'est-ce que le caractère métallique ? Comment évolue le caractère métallique pour la famille des 
+pnictogènes ? 
+Le caractère métallique dépend de la capacité d'un élément à perdre ses électrons de valence externes. 
+Ces éléments sont de plus en plus métalliques au fur et à mesure qu'on descend le long de la colonne 
+6) Quels sont les corps moléculaires dans la liste suivante : N2, Bi et Li3N ? Justifier la réponse. 
+Le corps moléculaire est  N2 Il forme des liaisons covalentes. 
+Bi est un métal (les atomes de Bi sont liés par la liaison métallique) 
+Li3N est ionique (liaison ionique : alcalin et l’azote  grande différence d’électronégativité
+2,06
+P
+
+
+
+ 
+Cristallographie 
+Le sodium forme avec l’azote un composé ionique de formule NauNv qui cristallise dans une structure de 
+symétrie cubique.  
+Les traces des ions dans les premiers plans après ceux passant par l’origine des différentes familles de plans 
+réticulaires sont données ci-dessous : 
+ 
+
+ 
+Page 4 sur 12 
+Épreuve de chimie section PC 
+Année : 2020-20121 
+1) Donner une représentation en perspective de la maille cubique et son contenu. 
+ 
+ 
+2) Donner la projection de la maille et de son contenu sur le plan 
+
+,a b
+
+ 
+ 
+3) Déterminer la formule chimique de ce composé et le nombre de motifs. Justifier la réponse. 
+Un cristal ionique est électriquement neutre, 
+d’où la formule chimique : Na3N  
+
+
+3
+1
+8
+1
+8
+ion
+n
+N 
+
+ 
+
+
+1
+12
+3
+4
+ion
+n
+Na
+
+
+ 
+Le motif est Na3N et le nombre de motif est 1 
+4) Quelles sont les translations permises ? 
+En considérant le motif Na3N, on peut retrouver la totalité des ions dans le cristal en appliquant les 
+translations permises : ,
+et 
+a b
+c
+
+
+ 
+5) Déduire le mode de ce réseau. 
+Le mode de réseau est P 
+6) En se limitant à la maille de la question 1), représenter la rangée 1 2 2
+
+
+
+. 
+Le vecteur directeur de la rangée : 
+2
+2
+r
+a
+b
+c
+
+
+
+
+
+ 
+En se limitant à la maille le vecteur directeur de la rangée s‘écrit : 
+1
+'
+2
+r
+a
+b
+c
+
+
+
+
+
+
+
+
+ 
+Un changement d’origine permet O en O’ permet de dessiner la rangée (voir la question 1). 
+
+ 
+Page 5 sur 12 
+Épreuve de chimie section PC 
+Année : 2020-20121 
+7) Déterminer la distance entre deux ions consécutifs appartenant à cette rangée.  
+Considérons le triangle O’AB rectangle en B : 
+
+
+
+
+
+
+
+2
+2
+2
+2
+2
+'
+'
+'
+O A
+O B
+BA
+O B
+a
+
+
+
+
+ 
+Considérons le triangle O’CB rectangle en C :  
+
+
+
+
+
+2
+2
+2
+2
+2
+2
+5
+'
+'
+2
+4
+a
+a
+O B
+O C
+CB
+a
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+2
+2
+2
+2
+5
+9
+3
+'
+   
+     
+'
+4
+4
+2
+a
+a
+a
+O A
+a
+O A
+
+
+
+
+
+
+
+
+ 
+8) Donner la coordinence des ions N3- par rapport aux ions Na+. Justifier la réponse. 
+Chaque anion N3- est entouré par 6 cations Na+ : la coordinence est 6 
+9) Donner les indices de Miller des quatre premières familles de plans réticulaires diffractant les RX de 
+longueur d’onde  =154 pm. 
+Mode P  tous les plans diffractent les RX 
+h²+k²+l² 
+1 
+2 
+3 
+4 
+hkl 
+100 
+110 
+111 
+200 
+ 
+10) Parmi ces quatre familles de plans, il y a une pour laquelle tous les indices de Miller sont impairs pour 
+laquelle l’angles de diffraction du premier ordre vaut 
+16,38
+
+. Donner l’expression puis calculer : 
+10-a) le paramètre « a » de la maille ; 
+La relation de Bragg : 
+
+
+2
+sin
+hkl
+hkl
+d
+
+
+
+
+
+ 
+Pour un système cubique : 
+2
+2
+2
+hkl
+a
+d
+h
+k
+l
+
+
+
+ 
+
+
+2
+2
+2
+2
+sin
+hkl
+a
+h
+k
+l
+
+
+
+
+
+
+
+ 
+
+
+2
+2
+2
+2 sin
+hkl
+a
+h
+k
+l
+
+
+
+
+
+
+
+ 
+Application numérique : 
+
+
+154
+3
+473
+2 sin 16,38
+a
+pm
+
+
+
+
+ 
+10-b) la masse volumique de ce composé. 
+La masse volumique s’écrit : 
+3
+3
+motif
+Na N
+A
+n
+M
+N
+a
+
+
+
+
+ 
+Application numérique : 
+
+
+
+
+3
+3
+23
+10
+1
+3 23 14
+1,3 .
+6,02 10
+473 10
+g cm
+
+
+
+
+
+
+
+
+
+
+
+ 
+Problème : étude de l’équilibre liquide-vapeur du diazote pur 
+1) Rappeler la définition du potentiel chimique d’un corps pur dans une phase , 
+* ,
+
+à partir de l’enthalpie 
+libre du corps pur 
+*,
+G
+. 
+*,
+*,
+*,
+m
+G
+G
+n
+
+
+
+
+
+
+
+ 
+2) Soit un système fermé contenant une certaine quantité d’un corps pur dans une phase . Donner l’expression 
+de la différentielle de son l’enthalpie libre molaire 
+*,
+m
+dG .
+ 
+*,
+*,
+*,
+m
+m
+d
+V
+dp S
+dT
+
+
+
+
+
+
+
+
+ 
+
+ 
+Page 6 sur 12 
+Épreuve de chimie section PC 
+Année : 2020-20121 
+3) Établir l’expression du potentiel chimique d’un corps pur en phase condensée à une température T en 
+fonction de la pression p et du potentiel chimique standard : 
+T
+,cd à la température T, en supposant que son 
+volume molaire 
+*,cd
+m
+V
+ indépendant de la pression. 
+De la question précédente : 
+*,cd
+*,cd
+*,cd
+m
+m
+d
+V
+dp S
+dT
+
+
+
+
+
+ 
+*,cd
+*,cd
+*,cd
+T
+p
+d
+dp
+dT
+p
+T
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Par identification 
+*,cd
+*,cd
+m
+T
+V
+p
+
+
+
+
+
+
+
+
+
+  
+*,cd
+*,cd
+m
+d
+V
+dp
+
+
+
+ 
+En intégrant : 
+T
+*,cd
+d
+
+
+
+*,cd
+,cd
+*,cd
+m
+p V
+dp
+
+
+
+
+
+p
+ 
+*,cd
+T
+
+,cd
+*,cd
+m
+V
+p
+p
+
+
+
+
+
+ 
+Nous supposons dans la suite du problème que le terme en 
+*,cd
+m
+V
+est négligeable. 
+4) Donner l’expression du potentiel chimique d’un gaz parfait pur à une température T en fonction de la 
+pression p, de la pression de référence pet du potentiel chimique standard : 
+T
+,g. 
+*,g
+T
+
+,g
+p
+R T Ln p
+
+
+
+
+
+
+
+
+
+
+ 
+5) Soit un système fermé contenant du diazote dans deux phases (liquide et gaz) en équilibre.  
+5-a) Quelle est la relation entre les potentiels chimiques du diazote pur à l’équilibre ? 
+À l’équilibre entre les deux phases liquide-vapeur : 
+*,liq
+*,g
+
+ 
+5-b) Trouver l’expression du logarithme népérien de la pression d’équilibre 
+liq
+p  entre la phase liquide 
+et la phase gazeuse du diazote pur : 
+liq
+Ln p
+p
+
+
+
+, en fonction des potentiels chimiques standard 
+T
+,liq 
+et 
+T
+,g du diazote pur.  
+Des questions 3 et 4)  
+T
+,liq
+T
+
+liq
+,g
+p
+R T Ln p
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+liq
+p
+Ln p
+
+
+T
+1
+R
+
+
+
+
+
+
+
+
+
+
+
+,liq
+T
+,g
+T
+
+
+
+
+
+
+ 
+5-c) À partir de la relation 
+
+
+2
+G T
+H
+T
+T
+
+
+
+
+
+
+
+
+, exprimer 
+
+
+
+
+
+T
+T
+
+
+
+
+
+
+
+
+
+ ; on notera 
+m
+H, l’enthalpie 
+molaire standard. 
+
+
+
+
+
+m
+T
+H
+T
+
+
+
+
+
+
+
+
+
+
+2
+T
+ 
+5-d) Montrer à partir des deux questions précédentes que la différentielle de la pression d’équilibre, en 
+fonction de la température T suit la loi différentielle : 
+liq
+d Ln p
+p
+
+
+
+
+vap
+m
+H
+dT
+
+
+
+
+
+
+2
+R
+T
+
+ 
+
+ 
+Page 7 sur 12 
+Épreuve de chimie section PC 
+Année : 2020-20121 
+Où 
+vap
+m
+H
+
+, désigne l’enthalpie molaire standard de vaporisation du diazote, supposée indépendante 
+de la température T. 
+liq
+p
+Ln p
+
+
+T
+1
+R
+
+
+
+
+
+
+
+
+
+
+
+,liq
+T
+,g
+T
+
+
+
+
+
+
+ 
+liq
+p
+d Ln p
+
+
+T
+1
+d
+dT
+R
+dT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,liq
+T
+,g
+T
+
+
+
+
+
+
+ 
+De la question 5-c) : 
+
+
+
+
+
+m
+T
+H
+T
+
+
+
+
+
+
+
+
+
+
+2
+T
+ 
+ 
+liq
+p
+d Ln
+p
+
+
+T
+1
+d
+dT
+R
+dT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,liq
+T
+d
+T
+dT
+
+
+
+
+
+
+
+
+,g
+T
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+liq
+p
+d Ln
+p
+
+
+m
+H
+1
+dT
+R
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,liq
+m
+2
+H
+T
+
+,g
+2
+T
+
+
+
+
+
+
+ 
+liq
+d Ln p
+p
+
+
+
+
+vap
+m
+H
+dT
+
+
+
+
+
+
+2
+R
+T
+
+ 
+5-e) Montrer qu’on peut exprimer la pression de vapeur saturante du diazote pur en fonction de la 
+température sous la forme : 
+liq
+p
+Ln p
+
+
+B
+A
+T
+
+
+
+
+
+
+
+
+
+ 
+A et B sont des constantes. 
+liq
+p
+d Ln p
+
+
+vap
+m
+H
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+dT
+R
+T
+
+ 
+liq
+p
+dLn
+p
+
+
+p
+
+
+
+
+
+
+
+
+
+p 
+liq
+p
+p
+
+
+vap
+m
+H
+
+
+
+
+2
+eb
+T
+dT
+R
+T
+
+
+T
+ 
+liq
+p
+Ln p
+
+
+p
+Ln
+
+
+
+
+
+
+
+
+
+p
+vap
+m
+H
+
+
+
+
+
+
+
+
+1
+eb
+R
+T
+
+
+1
+T
+
+
+
+
+
+
+
+ 
+ 
+liq
+p
+Ln
+p
+
+
+vap
+m
+H
+
+
+
+
+
+
+
+
+
+
+
+eb
+R
+T
+
+
+vap
+m
+H
+
+
+
+
+
+
+
+
+
+
+
+R
+T
+
+
+
+
+
+
+
+ 
+De la forme : 
+liq
+p
+Ln p
+
+
+B
+A
+T
+
+
+
+
+
+
+
+
+
+ 
+5-f) Sachant que l’enthalpie molaire standard de vaporisation de N2(liq) : 
+vap
+m
+H
+
+
+1
+5,6kJ.mol
+
+et la 
+température de vaporisation standard : 
+vap
+T 
+77,34 K
+
+, déterminer les valeurs des constantes A et B 
+lorsque la pression est exprimée en bar et la température absolue T en K. 
+vap
+m
+H
+A
+
+
+
+eb
+R T
+
+
+
+
+
+
+
+
+
+
+ 
+Application numérique : 
+3
+5,6
+8,709
+8,314 10
+77,34
+A
+
+
+
+
+
+
+
+
+
+
+
+ 
+vap
+m
+H
+B
+
+
+
+R
+ 
+Application numérique : 
+3
+5,6
+673,563
+8,314 10
+B
+K
+
+
+
+
+ 
+Il vient alors,  
+liq
+p
+Ln p
+
+
+673,563
+8,709
+T
+
+
+
+
+
+
+
+
+
+ (1) 
+
+ 
+Page 8 sur 12 
+Épreuve de chimie section PC 
+Année : 2020-20121 
+Problème : Diagramme d’équilibre liquide-solide 
+On envisage de tracer sous la pression de 1 bar, le diagramme de phases d’équilibre solide-liquide de système 
+eau(H2O)-hydrazine(N2H4). 
+On dispose des informations suivantes : 
+ Les mélanges eau - hydrazine : 
+o Sont totalement non solubles à l’état solide. 
+o Donnent un diagramme d'équilibre présentant un composé défini : le monohydrate d’hydrazine 
+N2H4•H2O(sd). 
+ Les températures de fusion de l’eau, l’hydrazine et du monohydrate d'hydrazine sont respectivement 
+273 ; 275 et 222 K. 
+Sur ce diagramme binaire on peut noter : 
+o Pour 
+2
+4
+0 20
+N H
+x
+,
+
+, la formation d'un composé défini qui se décompose à une température 193 K 
+inférieure à sa température de fusion. 
+o L’existence de deux points eutectiques : le premier à une température T = 186 K pour une 
+composition 28% molaire en hydrazine, le second à T = 219 K pour 56 % mole en hydrazine. 
+o L'existence d’un point péritectique à T = 193 K, pour 
+2
+4
+0 26
+N H
+x
+,
+
+. 
+1) Tracer l’allure du diagramme sur la figure ci-dessous.  
+ 
+2) Déterminer la formule chimique du composé défini à 20% molaire d’hydrazine. Écrire la formule sous la 
+forme 
+
+
+
+2
+4
+2
+u
+N H
+v H O
+
+ 
+Le composé défini de formule générale : 
+
+
+
+2
+4
+2
+u
+N H
+v H O
+
+  
+2
+4
+0,2
+N H
+u
+x
+u
+v
+
+
+
+   
+
+
+0,2
+u
+v
+u
+
+
+
+  
+0,2
+1
+0,8
+4
+u
+v 
+
+ 
+D’où la formule : N2H4•4H2O(sd)  
+3) Indiquer la nature de fusion de chacun des composés définis. 
+N2H4•4H2O(sd) : à fusion non congruente. 
+N2H4•H2O(sd). : à fusion congruente. 
+4) Indiquer sur le diagramme la nature des phases présentes dans trois domaines de votre choix. 
+Répondre sur le diagramme de la question 1) 
+
+ 
+Page 9 sur 12 
+Épreuve de chimie section PC 
+Année : 2020-20121 
+5) Donner la nature de chacune des transformations obtenues à 186 K, 219 K et à 193 K et les équations 
+correspondantes. 
+À 186 K, transformation eutectique :  
+N2H4•4H2O(sd) + N2H4•H2O(sd) = liquide (C : 28% en hydrazine) :N2H4 (sol. aqueuse)) 
+À 219K : transformation eutectique : 
+N2H4•H2O(sd) + N2H4(sd) = liquide (E : 56% en hydrazine :N2H4 (sol. Aqueuse)) 
+À 193 K, transformation péritectique : 
+N2H4•4H2O(sd)= liquide (B) : 26% en hydrazine : N2H4 (sol. Aqueuse) + H2O(sd) 
+6) À quoi sont dues les ruptures de pente observées sur les courbes d’analyse thermique, lors du chauffage d’un 
+mélange binaire ? 
+Lors d’un chauffage, le changement d’état qui a lieu est la fusion (endothermique), il consomme de la 
+chaleur ce qui ralentit le chauffage. Une rupture de pente apparaît sur la courbe d’analyse thermique. 
+7) Comment justifier que l’on observe parfois des paliers de température sur les courbes d’analyse thermique ? 
+Les courbes d'analyse thermique sont enregistrées lors de chauffage ou refroidissement isobares. Ce faisant, 
+l’expérimentateur utilise un degré de liberté du système. 
+Un palier de température est donc observé si l’opérateur fixe la pression pour un système monovariant il 
+utilise tous les degrés de liberté du système. La température reste alors fixée, ne disposant pas de degré de 
+liberté pour varier. 
+8) Donner les allures des courbes d’analyse thermique de chauffage jusqu’à 280 K des systèmes représentés 
+par les points M1 et M2 sur le diagramme. 
+ 
+Problème : électrochimie 
+I- Constantes d’équilibres associées aux réactions acido-basique 
+En solution aqueuse, l’acide
+2
+2
+6
+N H
+ est un diacide dont les constantes d'acidité à 25°C, sont respectivement 
+égales à Ka1 = 10-0,30 et Ka2 = 10-7,9. 
+1) Écrire l’équation de la réaction mettant en jeu le couple 
+2
+2
+6(
+)
+2
+4(
+)
+aq
+aq
+N H
+N H
+
+. 
+2
+2
+6(
+)
+2
+4(
+)
+2
+aq
+aq
+N H
+N H
+H
+
+
+
+
+ 
+2) S’agit-il d’une réaction d’oxydo-réduction ? Justifier la réponse. 
+Non, car aucun élément ne change de degré d’oxydation. 
+3) Écrire la loi d’action de masse correspondant à cette réaction. 
+À l’équilibre,  K 
+2
+4
+2
+2
+6(
+)
+2
+aq
+N H
+H
+N H
+H
+C
+a
+a
+a
+
+
+
+
+
+
+
+2
+2
+4
+eq
+N H
+C
+
+
+
+
+
+
+
+
+2
+2
+6
+eq
+N H
+C
+
+
+
+
+
+
+
+
+eq
+
+
+
+
+
+
+ 
+
+ 
+Page 10 sur 12 
+Épreuve de chimie section PC 
+Année : 2020-20121 
+4) Déterminer la valeur de sa constante d’équilibre. 
+1
+2
+2
+6(
+)
+2
+5 (
+)
+(
+)
+aq
+aq
+aq
+a
+N H
+N H
+H
+K
+
+
+
+
+
+ 
+2
+2
+5(
+)
+2
+4(
+)
+(
+)
+aq
+aq
+aq
+a
+N H
+N H
+H
+K
+
+
+
+
+ 
+2
+2
+6(
+)
+2
+4(
+)
+2
+aq
+aq
+N H
+N H
+H
+K
+
+
+
+
+
+1
+2
+0,3
+7,9
+8,2
+9
+10
+10
+10
+6,3 10
+a
+a
+K
+K
+
+
+
+
+
+
+
+
+
+
+
+ 
+II- Détermination des potentiels standard d’oxydoréduction : 
+On donne à 298 K, les potentiels redox standard à pH = 0 : 
+Couple 
+2
+2( )
+2
+6(
+)
+g
+aq
+N
+N H
+
+ 
+2(
+)
+4 (
+)
+g
+aq
+N
+NH 
+ 
+E 
+
+/
+/
+( /
+)
+Ox red
+en V ESH  
+-0,196 
+0,275 
+5) Écrire l’équation-bilan de la réaction associée à chacun de ces deux couples redox. 
+2
+2( )
+2
+6(
+)
+g
+aq
+N
+N H
+
+ :  La demi-équation : 
+2
+2( )
+2
+6
+6
+4
+g
+N
+H
+e
+N H
+
+
+
+
+
+
+ 
+L’équation-bilan : 
+2(
+2
+2( )
+2
+6
+)
+6
+4
+2
+g
+g
+D
+G
+N
+H
+N
+H
+H
+H
+
+
+
+
+
+
+
+   (n = 4) 
+2(
+)
+4 (
+)
+g
+aq
+N
+NH 
+ :  La demi-équation : 
+2(
+)
+D
+4 (
+)
+8
+6
+2
+g
+aq
+N
+H
+e
+NH
+
+
+
+
+
+
+ 
+L’équation-bilan : 
+2(
+)
+2(
+)
+D
+4 (
+)
+8
+3
+2
+6
+aq
+g
+G
+g
+N
+NH
+H
+H
+H 
+
+
+
+
+
+
+   (n = 6) 
+6) Déduire la valeur du potentiel redox standard du couple 
+2
+2
+6(
+)
+4 (
+)
+aq
+aq
+N H
+NH
+
+
+. 
+2(
+2
+2( )
+2
+6
+)
+6
+4
+2
+g
+g
+D
+G
+N
+H
+N
+H
+H
+H
+
+
+
+
+
+
+
+  (1) 
+2(
+)
+2(
+)
+D
+4 (
+)
+8
+3
+2
+6
+aq
+g
+G
+g
+N
+NH
+H
+H
+H 
+
+
+
+
+
+
+  (2) 
+2
+2
+6(
+)
+4 (
+)
+aq
+aq
+N H
+NH
+
+
+ : La demi-équation : 
+2
+2
+6(
+)
+4 (
+)
+2
+2
+2
+aq
+D
+aq
+N H
+H
+e
+NH
+
+
+
+
+
+
+
+ 
+L’équation-bilan : 
+2(
+2
+2
+6(
+)
+4 (
+)
+)
+2
+2
+2
+g
+aq
+aq
+G
+D
+N H
+H
+NH
+H
+H
+
+
+
+
+
+
+
+
+ (3)   (n = 2) 
+Nous remarquons que : 
+3
+rG
+
+
+2
+rG
+
+
+1
+rG
+
+ 
+3
+2
+F
+E
+
+
+
+2
+6
+F
+E
+
+
+
+1
+4
+F
+E
+
+
+
+ 
+3
+E 
+2
+3
+E
+
+
+
+1
+2
+E
+
+
+ 
+Application numérique : 
+3
+E 
+3 0,275
+2
+0,196
+1,217 V
+
+
+
+
+
+ 
+On donne à 298 K, les potentiels chimiques standard des entités : 
+Entités 
+2
+5(
+)
+aq
+N H 
+ 
+4(
+)
+aq
+NH 
+ 
+2( )
+g
+H
+ 
+(aq)
+H  
+
+
+1
+.
+kJ mol 
+ 
+80,6 
+-78,0 
+0 
+0 
+7) Montrer que l’expression du potentiel standard redox du couple redox 
+2
+5(
+)
+4(
+)
+aq
+aq
+N H
+NH
+
+
+ s’écrit en 
+fonction des potentiels chimiques standard des différentes entités qui apparaissent dans l’équation-bilan de 
+la réaction associée à ce couple. Calculer sa valeur. 
+2
+5(
+)
+4(
+)
+aq
+aq
+N H
+NH
+
+
+ 
+La demi-équation : 
+2
+5(
+)
+4 (
+)
+3
+2
+2
+aq
+D
+aq
+N H
+H
+e
+NH
+
+
+
+
+
+
+
+ 
+L’équation-bilan : 
+2(
+2
+5(
+)
+)
+)
+4 (
+2
+3
+2
+g
+aq
+aq
+G
+D
+N H
+H
+NH
+H
+H
+
+
+
+
+
+
+
+
+ (4)   (n = 2) 
+4
+rG
+
+
+i
+i
+
+
+
+
+
+4
+2
+i
+F
+E
+
+
+
+ 
+4
+E 
+i
+i
+
+
+
+
+
+4(
+)
+2
+2
+aq
+NH
+i
+F
+
+
+
+
+
+
+
+(
+)
+2
+aq
+H
+
+
+
+
+2
+5(
+)
+aq
+N H
+
+
+
+
+(
+)
+3
+aq
+H
+
+
+
+
+2(
+)
+g
+H
+
+
+
+2
+F
+
+ 
+Application numérique : 
+4
+E 
+
+
+3
+1
+1
+2
+78,0
+2 0 80,6
+3 0
+0
+1,226 10
+.
+1,226 .
+1,226
+2 96500
+kJ C
+J C
+V
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+Page 11 sur 12 
+Épreuve de chimie section PC 
+Année : 2020-20121 
+III- Étude du diagramme de Pourbaix 
+On se propose d’étudier le diagramme potentiel-pH simplifié de l’azote à 298 K, pour une concentration 
+totale en atomes d’azote dissous Ctra = 0,10 mol.L-1. 
+8) Déterminer le nombre (degré) d’oxydation de l’atome d’azote dans chacune des entités suivantes :   
+2
+4(
+)
+aq
+N H
+, 
+2
+5(
+)
+aq
+N H 
+, 
+2
+2
+6(
+)
+aq
+N H
+
+ 
+4(
+)
+aq
+NH 
+ et 
+4
+(
+)
+aq
+NH OH
+. 
+ 
+2
+4(
+) :  n.o(N) = -II
+aq
+N H
+; 
+2
+5(
+) :  n.o(N) = -II
+aq
+N H 
+ ; 
+2
+2
+6(
+) :  n.o(N) = -II
+aq
+N H
+
+ 
+4(
+) :  n.o(N) = -III
+aq
+NH 
+ ; 
+4
+(
+) :  n.o(N) = -III
+aq
+NH OH
+ 
+9) Classer ces entités par nombre d’oxydation croissant en fonction de pH et déterminer les valeurs des pH 
+limitant les frontières verticaux. 
+La frontière verticale entre 
+2
+2
+6(
+)
+aq
+N H
+
+ et 
+2
+5(
+)
+aq
+N H 
+ 
+2
+2
+6(
+)
+2
+5(
+)
+(
+)
+aq
+aq
+aq
+N H
+N H
+H
+
+
+
+
+
+  
+1
+0,3
+a
+pH
+pK
+
+
+ 
+La frontière verticale entre 
+2
+5(
+)
+aq
+N H 
+ et 
+2
+4(
+)
+aq
+N H
+ 
+2
+5(
+)
+2
+4(
+)
+aq
+aq
+N H
+N H
+H
+
+
+
+
+ 
+1
+7,9
+a
+pH
+pK
+
+
+ 
+La frontière verticale entre
+4(
+)
+aq
+NH 
+ et 
+4
+(
+)
+aq
+NH OH
+ 
+4(
+)
+2
+4
+(
+)
+(
+)
+aq
+aq
+aq
+NH
+H O
+NH OH
+H
+
+
+
+
+
+ 
+
+
+4
+10
+4
+5,37 10
+a
+NH OH
+H
+K
+NH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+4
+10
+10
+4
+log
+log
+a
+NH OH
+pK
+H
+NH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+4
+10
+4
+log
+a
+NH OH
+pK
+pH
+NH 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+4
+10
+4
+log
+a
+NH OH
+pH
+pK
+NH 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  pH = 9,27 
+ 
+ 
+10) Identifier les différents couples redox mis en jeu. 
+Couple (1) : 
+2
+2
+6(
+)
+4(
+)
+aq
+aq
+N H
+NH
+
+
+ 
+Couple (2) : 
+2
+5(
+)
+4(
+)
+aq
+aq
+N H
+NH
+
+
+ 
+Couple (3) : 
+2
+4(
+)
+4(
+)
+aq
+aq
+N H
+NH 
+ 
+Couple (4) : 
+2
+4(
+)
+4
+(
+)
+aq
+aq
+N H
+NH OH
+ 
+
+ 
+Page 12 sur 12 
+Épreuve de chimie section PC 
+Année : 2020-20121 
+11) Indexer le diagramme ci-dessous en affectant les entités dans les domaines correspondants. 
+ 
+12) Déterminer l’expression numérique de la frontière séparant les domaines (3) et (5) en fonction du pH. 
+Couple : 
+2
+4(
+)
+4
+(
+)
+aq
+aq
+N H
+NH OH
+ 
+La demi-équation :  
+2
+4(
+)
+2
+4
+(
+)
+2
+2
+2
+2
+aq
+D
+aq
+N H
+H O
+H
+e
+NH OH
+
+
+
+
+
+
+ 
+L’équation-bilan : 
+2
+2
+4(
+)
+2
+(
+( )
+4
+)
+2
+2
+2
+2
+g
+q
+D
+aq
+G
+a
+N H
+H O
+H
+NH OH
+H
+H 
+
+
+
+
+
+
+ 
+Le potentiel redox : 
+
+
+2
+4(
+)
+4
+(
+)
+aq
+aq
+E N H
+NH OH
+E
+
+
+
+2
+4(
+)
+4
+(
+)
+10
+0,06
+log
+2
+D
+aq
+aq
+H
+C
+N H
+NH OH
+
+
+
+
+
+
+
+
+2
+2
+4
+N H
+C
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4
+NH OH
+C 
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+2
+4
+2
+4(
+)
+4
+(
+)
+10
+2
+4
+0,916
+0,03 log
+0,06
+aq
+aq
+N H
+E N H
+NH OH
+pH
+NH OH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Convention de frontière :  
+
+4
+2
+4
+2
+NH OH
+N H
+
+
+
+
+ 
+Concentration de tracé : 
+
+
+2
+4
+4
+2
+tra
+C
+N H
+NH OH
+
+
+
+
+
+
+ 
+
+
+4
+2
+tra
+C
+NH OH 
+ ; 
+2
+4
+4
+tra
+C
+N H
+
+
+
+
+ 
+
+
+
+
+2
+4(
+)
+4
+(
+)
+10
+0,916 0,03 log
+0,06
+aq
+aq
+tra
+E N H
+NH OH
+C
+pH
+
+
+
+
+
+ 
+
+
+
+
+1
+2
+4(
+)
+4
+(
+)
+10
+0,916 0,03 log
+10
+0,06
+aq
+aq
+E N H
+NH OH
+pH
+
+
+
+
+
+
+ 
+
+
+2
+4(
+)
+4
+(
+)
+0,946 0,06
+aq
+aq
+E N H
+NH OH
+pH
+
+
+
+ 
+FIN DE L’ÉPREUVE 

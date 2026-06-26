@@ -1,0 +1,3458 @@
+Session Juin 2021 
+Page 1 sur 12 
+CONSIGNES 
+ Cette épreuve comporte 12 pages  
+ Tout résultat doit être écrit dans les cadres adéquats. 
+ L'usage des calculatrices électroniques de poche non programmables est autorisé. 
+ Aucun échange entre les candidats n'est autorisé. 
+ Tout calcul doit être précédé d’une expression littérale.  
+ Les résultats numériques sans unité ou avec une unité fausse ne seront pas comptabilisés. 
+ En cas de besoin utiliser la page vide en fin de cahier. Dans ce cas, il faut le signaler 
+dans la case allouée à la réponse remise en fin de cahier. 
+ Ne joindre aucun brouillon.  
+ Si au cours de l’épreuve, un candidat repère ce qui lui semble être une erreur d’énoncé, 
+il la signale sur sa copie et poursuit sa composition en indiquant les raisons des 
+initiatives qu’il est amené à prendre. 
+ 
+ 
+ 
+ 
+ 
+ 
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 12 PAGES 
+NUMEROTÉES 1 sur 12, 2 sur 12, …, 12 sur 12. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Concours Mathématiques et 
+physique 
+
+ 
+Page 2 sur 12 
+Épreuve de chimie section MP 
+Année : 2020-2021 
+Notations et données numériques 
+États des constituants physicochimiques : 
+(sd) solide ; (liq) liquide ; (g) gazeux 
+Lorsque aucune mention n'est spécifiée, les ions sont supposés implicitement en solution aqueuse. 
+Les gaz sont considérés comme parfaits. 
+Les enthalpies de changements d’état sont supposées indépendantes de la température. 
+Notations :  
+ xi : la fraction molaire de « i » dans la phase liquide. 
+ yi : la fraction molaire de « i » en phase vapeur. 
+ 
+ip : pression de vapeur saturante de « i ». 
+ 
+i
+
+ : potentiel chimique du constituant « i » dans la phase φ. 
+ L’exposant * signifie corps pur. 
+ L’exposant  signifie standard. 
+ ESH : électrode standard à hydrogène. 
+Constantes physiques : 
+ Constante des gaz parfaits : R = 8,314 J.mol-1.K-1. 
+ Constante d'Avogadro : NA = 6,02×1023 mol-1. 
+ Constante de Faraday : F = 96500 C.mol-1. 
+ Pression standard : p 
+1
+.
+bar
+
+ 
+ Pression atmosphérique : 
+1
+1
+.
+p
+atm
+bar
+
+
+ 
+ Concentration standard : C 
+1
+1
+.
+.
+mol L
+
+ 
+Données numériques : 
+ Masses molaires atomiques (g.mol-1) :  N = 14,01 ; Fe = 55,85. 
+ Le rayon atomique (pm) :  N = 75.  
+ Electronégativité dans l’échelle de Pauling : Na = 0,93 et N = 3,04. 
+ Masses volumiques de N2 pur (supposées indépendantes de la température et de la pression) : 
+o  Solide 
+2
+3
+1 026
+*,sd
+N
+,
+g.cm
+
+
+
+. 
+o Liquide 
+2
+3
+0 808
+*,liq
+N
+,
+g.cm
+
+
+
+. 
+ 
+À 298 K, 
+ Potentiel standard redox à pH = 0 : E 
+
+2( )
+4 (
+)
+0,275
+/
+g
+aq
+N
+NH
+V
+ESH
+
+
+ 
+ Produit ionique de l’eau Ke =10-14. 
+ Constante d’acidité : 
+
+
+12
+4(
+)
+3( )
+9,55 10
+a
+aq
+g
+K
+NH
+NH
+
+
+
+
+ 
+ 
+
+
+2
+2
+2(
+)
+2
+2
+13,27
+sd
+Fe OH
+H
+Fe
+H O pK
+
+
+
+
+
+
+ 
+ La constante de Nernst : 
+
+R T F
+Ln(10)
+0,06 V  
+
+
+
+ 
+Conversion :  
+ 
+( )
+(
+)
+273,15
+T K
+C
+
+
+ 
+Equation aux dimensions : 
+ [J.C-1] = V 
+ 
+ 
+ 
+
+ 
+Page 3 sur 12 
+Épreuve de chimie section MP 
+Année : 2020-2021 
+Tableau périodique- cohésion cristalline 
+La famille des pnictogènes est constituée des éléments chimiques suivants : l’azote N, le 
+phosphore P, l’arsenic As, l’antimoine Sb et le bismuth Bi. 
+1) Trouver le numéro de la colonne (groupe) des pnictogènes dans le tableau de la classification 
+périodique des éléments chimiques. 
+De la structure électronique de l’azote : 7N : 1s2 2s2 2p3 
+Le nombre d’électrons de valence = 5 
+Les pnictogènes constituent le groupe 15. 
+2) Classer par ordre décroissant l’électronégativité de Pauling des éléments : Bi, N et As de la 
+famille des pnictogènes. 
+L’électronégativité augmente dans une colonne du bas vers le haut : 
+(N) > (As) > (Bi) 
+3) Qu'est-ce que le caractère métallique ? Comment évolue le caractère métallique pour la famille 
+des pnictogènes ? 
+Le caractère métallique est la capacité d'un élément à perdre ses électrons de valence. 
+Ces éléments sont de plus en plus métalliques au fur et à mesure qu'on descend le long de la 
+colonne. 
+4) Quels sont les corps moléculaires dans la liste suivante : N2, Bi et Na3N ? Justifier la réponse. 
+Seul N2 est un corps moléculaire car entre les atomes d’azote les liaisons sont covalentes. 
+ 
+Bi est un métal (les atomes de Bi sont liés par la liaison métallique). 
+Na3N est ionique (liaison ionique : alcalin et l’azote  grande différence 
+d’électronégativité (
+2,11)
+P
+
+
+
+ 
+5) Quelle grandeur physique nous donne une mesure indicative de la cohésion dans un cristal ? 
+La température de fusion. 
+6) Sous la pression atmosphérique, le diazote bout à la température -196°C alors que le bismuth bout à 1564°C. 
+Expliquer pourquoi ? 
+N2 est une molécule apolaire, la cohésion entre les molécules est assurée par les forces de dispersion de 
+London (FDL) qui sont très faibles. 
+Bi est un métal, les forces de cohésion sont beaucoup plus fortes (liaison métallique). 
+Cristallographie 
+Le fer existe à l’état solide sous plusieurs variétés allotropiques, dont le fer  qui cristallise dans une structure 
+cubique à faces centrées. 
+1) Etablir l’expression donnant le rayon atomique 
+Fe
+R
+ du fer en fonction de la masse volumique du  
+fer solide.  
+La masse volumique s’écrit : 
+
+
+3
+atom
+Fe
+A
+n
+Fe
+M
+N
+a
+
+
+
+
+ 
+Il vient alors, 
+
+
+3
+atom
+Fe
+A
+n
+Fe
+M
+a
+N
+
+
+
+
+   (1) 
+Dans un réseau CFC, les atomes sont tangents selon la 
+diagonale d’une face :
+2
+4
+Fe
+a
+R
+
+
+
+
+ 
+D’où, 
+4
+2
+Fe
+R
+a
+
+
+
+ (2) 
+ 
+En remplaçant le paramètre ‘a’ par son 
+expression (2) dans (1) : 
+ 
+
+
+3
+4
+2
+Fe
+atom
+Fe
+A
+R
+n
+Fe
+M
+N
+
+
+
+
+
+
+ 
+D’où l’expression du rayon : 
+
+
+3
+2
+4
+atom
+Fe
+Fe
+A
+n
+Fe
+M
+R
+N
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+Page 4 sur 12 
+Épreuve de chimie section MP 
+Année : 2020-2021 
+2) Calculer sa valeur en picomètre sachant que  = 8,2 g.cm-3. 
+8
+3
+23
+4 55,85
+2
+1,26 10
+126
+6,02 10
+8,2
+4
+Fe
+R
+cm
+pm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+3) Compléter la figure ci-dessous par le contenu de la maille du réseau cubique à faces centrées du fer . 
+ 
+4) Donner l’expression numérique de la distance entre deux plans réticulaires consécutifs appartenant à la 
+famille de plans (111). 
+Pour un système cubique : 
+2
+2
+2
+hkl
+a
+d
+h
+k
+l
+
+
+
+  
+111
+3
+a
+d
+
+ 
+5) Représenter sur la figure de la question 3), le premier et le deuxième plan réticulaire après celui passant 
+par l’origine de la famille (111). Justifier la réponse. 
+Représentation : (Cf. figure de la question 3). 
+Justification : la distance entre le plan passant par l’origine et le premier plan est 
+
+3 3
+a
+ et entre le 
+premier plan et le deuxième est de : 
+
+3 3
+a
+ 
+6) En utilisant deux symboles différents, localiser sur la figure ci-dessous les positions des différents sites 
+dans la maille fer . Donner leurs nombres. 
+ 
+Nombre de sites (T) = 8 
+Nombre de sites (O ) = 4 
+7) Établir l’expression puis calculer l’habitabilité (la taille maximale) des sites les plus volumineux en 
+fonction du rayon de l’atome de fer . 
+Les sites les plus volumineux sont les sites (O) : 
+Habitabilité des sites (O) : 
+Suivant une arête du cube on a : 
+2
+Fe
+Oct
+a
+R
+R
+
+
+ (1) 
+ 
+Maille cubique à faces centrées : 
+2
+4
+Fe
+a
+R
+
+
+
+
+ (2)  
+ 
+De (2)  
+4
+2
+Fe
+R
+a
+
+
+
+ 
+Dans 
+(1) 
+ 
+2
+Fe
+Oct
+Fe
+R
+R
+R
+
+
+
+
+
+ 
+ 
+
+
+2
+1
+0,414
+0,414 126
+52,16
+Oct
+Fe
+Fe
+Oct
+R
+R
+R
+R
+pm
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+Page 5 sur 12 
+Épreuve de chimie section MP 
+Année : 2020-2021 
+Alliage Fe-N 
+Le fer forme avec l’azote un alliage (E) de formule FeuNv qui cristallise dans une structure de symétrie cubique.  
+Les traces des atomes dans les premiers plans après ceux passant par l’origine des différentes familles de plans 
+réticulaires sont données ci-dessous : 
+ 
+8) Donner une représentation en perspective de la maille et de son contenu. 
+ 
+ 
+9) Donner la coordinence de N par rapport à Fe et représenter sur la figure de la question précédente le polyèdre 
+de coordination. 
+N occupe le site octaédrique, sa coordinence est 6. 
+Le polyèdre de coordination est un octaèdre (voir figure question 8). 
+10) Déterminer la formule du composé (E). 
+
+
+
+
+1
+1
+8
+6
+4
+8
+2
+1
+atom
+atom
+n
+Fe
+n
+N
+
+
+
+
+ 
+La formule : 
+4
+(
+)
+sd
+Fe N
+ 
+11) De quel type d’alliage s’agit-il ? Justifier et commenter la réponse. 
+Il s’agit d’un alliage d’insertion. 
+Justification : 
+ Fe est un métal et N est un non métal. 
+ Les rayons de N (75 pm) et Fe (126 pm) sont très différents. 
+75
+0,595
+126
+N
+Fe
+R
+R
+
+
+
+ : Le rayon des atomes de soluté ne dépasse pas 60% du rayon des atomes de 
+solvant  Alliage d’insertion avec une déformation de la maille. 
+
+ 
+Page 6 sur 12 
+Épreuve de chimie section MP 
+Année : 2020-2021 
+12) Donner l’expression puis calculer la masse volumique du composé (E), sachant que le nouveau paramètre 
+de la maille est égal à 378,9 pm. 
+La masse volumique s’écrit : 
+
+
+
+
+3
+atom
+Fe
+atom
+N
+A
+n
+Fe
+M
+n
+N
+M
+N
+a
+
+
+
+
+
+
+ 
+Application numérique : 
+
+
+3
+3
+23
+10
+4 55,85 1 14,01
+7,25 .
+6,02 10
+378,9 10
+g cm
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+Etude thermodynamique du diazote pur 
+I- On considère l’équilibre de changement d’état liquide-gaz du diazote N2(liq) = N2(g) 
+La pression, exprimée en bar est reliée à la température absolue T en K par la relation : 
+liq
+p
+Ln
+p
+
+
+673,563
+8,709
+T
+
+
+
+
+
+
+
+
+
+
+ (1) 
+1) Montrer que l’expression (1) est une forme de la relation de Van’t Hoff appliqué à l’équilibre de changement 
+d’état liquide-gaz du diazote. 
+Loi de van’t Hoff : 
+T
+dLnK 
+r
+m
+H
+dT
+
+
+
+2
+R T
+
+ 
+N2(liq) = N2(g)     
+vap
+m
+H
+
+   à l’équilibre, 
+T
+K 
+2
+N
+p
+p
+
+
+liq
+eq
+p
+p
+
+
+
+
+
+
+
+
+                        
+liq
+p
+dLn
+p
+
+
+vap
+m
+H
+dT
+
+
+
+
+
+
+
+
+
+
+2
+R T
+
+ 
+Si on intègre cette relation sur un intervalle de température où 
+vap
+m
+H
+
+ est considérée comme constante : 
+liq
+p
+d Ln
+p
+
+
+p
+Ln
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+p 
+liq
+p
+Ln
+p
+
+
+
+
+
+
+
+
+
+
+vap
+m
+H
+
+
+
+
+
+
+
+
+
+
+
+
+2
+eb
+T
+dT
+R
+T
+
+
+T
+ 
+liq
+p
+Ln
+p
+
+
+p
+Ln
+
+
+
+
+
+
+
+
+
+
+p 
+vap
+m
+H
+
+
+
+
+
+
+
+
+1
+eb
+R
+T
+
+
+1
+T
+
+
+
+
+
+
+
+ 
+liq
+p
+Ln
+p
+
+
+vap
+m
+H
+
+
+
+
+
+
+
+
+
+
+
+eb
+R T
+
+
+vap
+m
+H
+
+
+
+
+
+
+
+
+
+
+R
+T
+
+
+
+
+
+
+
+ 
+De la forme : 
+liq
+p
+Ln
+p
+
+
+B
+A
+T
+
+
+
+
+
+
+
+
+
+
+ 
+2) Déterminer pour le diazote : 
+2-a) L’enthalpie molaire standard de vaporisation 
+vap
+m
+H
+
+. 
+Par identification expression (1) et l’expression de la question 1) 
+vap
+m
+H
+B
+
+
+
+673,563 K
+R
+
+
+
+
+
+
+
+
+
+ 
+vap
+m
+H
+
+
+3
+1
+673,563
+673,563 8,314 10
+5,6kJ.mol
+R
+
+
+
+
+
+
+
+
+ 
+
+ 
+Page 7 sur 12 
+Épreuve de chimie section MP 
+Année : 2020-2021 
+2-b) La température d’ébullition 
+eb
+T . 
+Par identification expression (1) et l’expression de la question 1) 
+vap
+m
+H
+A
+
+
+
+eb
+R T
+
+
+8,709
+
+ 
+De la question précédente : 
+vap
+m
+H
+
+
+1
+5,6 kJ.mol
+
+ 
+eb
+T 
+vap
+m
+H
+
+
+
+3
+5,6
+77,34
+195,81
+8,709
+8,314 10
+8,709
+K
+C
+R
+
+
+
+
+
+
+
+
+ 
+Ou bien : on applique l’équation (1) pour 
+liq
+p
+p
+
+ 
+673,563
+0
+8,709
+eb
+T
+
+
+
+eb
+T
+
+
+673,563
+77,34
+8,709
+K
+
+
+ 
+II- On considère l’équilibre de changement d’état solide-gaz du diazote N2(sd) = N2(g) 
+La pression, exprimée en bar est reliée à la température absolue T en K par la relation : 
+sd
+p
+Ln
+p
+
+
+F
+E
+T
+
+
+
+
+
+
+
+ (2) 
+3) Déterminer les valeurs des constantes E et F, sachant que l’enthalpie molaire standard de fusion de 
+N2(sd) : 
+fus
+m
+H
+
+
+1
+0,71 kJ.mol
+
+et la température de sublimation standard : 
+sub
+T 
+75,43 K
+
+. 
+Puisque la courbe de sublimation à la même forme que 
+la courbe de vaporisation.  
+De la question 1) : 
+sd
+p
+Ln
+p
+
+
+sub
+m
+H
+
+
+
+
+
+
+
+
+
+sub
+R T
+
+
+sub
+m
+H
+
+
+
+
+
+
+
+
+R
+T
+
+
+
+
+
+ 
+De la forme :  
+sd
+p
+Ln
+p
+
+
+F
+E
+T
+
+
+
+
+
+
+
+ 
+Il vient alors : 
+sub
+m
+H
+E
+
+
+
+sub
+R T
+
+
+
+
+
+
+
+
+ 
+Autour du point triple : 
+sub
+m
+H
+
+
+vap
+m
+H
+
+
+fus
+m
+H
+
+ 
+Application numérique :  
+sub
+m
+H
+
+
+1
+5,6
+0,71
+6,31
+.
+kJ mol 
+
+
+
+ 
+D’où 
+3
+6,31
+10,062
+8,314 10
+75,43
+E
+
+
+
+
+
+
+
+
+
+
+
+ 
+sub
+m
+H
+F
+
+
+
+R
+ 
+3
+6,31
+758,961
+8,314 10
+F
+K
+
+
+
+
+ 
+D’où  
+sd
+p
+Ln
+p
+
+
+758,961
+10,062
+T
+
+
+
+
+
+
+
+ 
+4) Déterminer les coordonnées du point triple du diazote. 
+Au 
+point 
+triple : 
+sd
+liq
+p
+p
+
+
+
+ 
+
+758,961
+673,563
+10,062
+8,709
+pt
+pt
+T
+T
+
+
+
+ 
+
+
+758,961 673,563
+63,12
+10,062
+8,709
+pt
+T
+K
+
+
+
+
+ 
+ 
+Dans (1) 
+pt
+p
+Ln
+p 
+673,563
+8,709
+pt
+T
+
+
+
+
+
+
+
+
+
+
+ 
+pt
+p
+Ln
+p 
+673,563
+8,709
+1,962
+63,12
+
+
+
+
+
+
+
+
+
+
+
+ 
+pt
+p
+p
+
+
+
+
+1,962
+0,14
+exp
+bar
+
+
+
+ 
+
+ 
+Page 8 sur 12 
+Épreuve de chimie section MP 
+Année : 2020-2021 
+III- On considère l’équilibre de changement d’état solide-liquide du diazote N2(sd) = N2(liq). 
+5-a) Quelle relation doit vérifier les potentiels chimiques de N2 pur en son point de fusion ? 
+Au point de fusion : 
+2
+N
+
+2
+,liq
+N
+,sd  
+5-b) Établir en ce point, l’expression donnant l’entropie molaire de fusion en fonction de la 
+température.  
+À l’équilibre, 
+2
+N
+
+2
+,liq
+N
+,sd  
+m
+H ,liq
+m
+T
+S
+
+
+,liq
+m
+H
+
+,sd
+m
+T
+S
+
+
+,sd  
+fus
+m
+S
+
+
+
+2,
+fus
+m
+H
+N
+sd
+
+
+
+
+2,
+fus
+N
+sd
+T 
+
+2,
+N
+sd
+ 
+5-c) Calculer sa valeur sachant que la température de fusion standard du diazote 
+fus
+T 
+63,3
+.
+K
+
+ 
+fus
+m
+S
+
+
+
+3
+1
+1
+2
+0,71
+,
+11,22 10
+.
+.
+63,3
+N
+sd
+kJ mol
+K
+
+
+
+
+
+
+ 
+6) Donner l’expression puis calculer : 
+6-a) Le volume molaire de diazote liquide. 
+
+
+2
+2
+*,
+3
+*
+2
+0,808 .
+,liq
+N
+liq
+N
+m
+M
+g cm
+V
+N
+
+
+
+
+ 
+
+
+2
+2
+*
+3
+1
+2
+*,
+28,02
+,
+34,68
+.
+0,808
+N
+m
+liq
+N
+M
+V
+N liq
+cm mol
+
+
+
+
+
+ 
+6-b) Le volume molaire de diazote solide. 
+
+
+2
+2
+*,
+3
+*
+2
+1,026 .
+,
+N
+sd
+N
+m
+M
+g cm
+V
+N
+sd
+
+
+
+
+ 
+
+
+2
+2
+*
+3
+1
+2
+*,
+28,02
+,
+27,31
+.
+1,026
+N
+m
+sd
+N
+M
+V
+N
+sd
+cm mol
+
+
+
+
+
+ 
+7) Quel est le signe de la pente de la courbe d’équilibre N2(sd) = N2(liq)  ? Justifier la réponse. 
+La pente de la courbe de fusion : 
+
+
+*
+*,
+*,
+fus
+m
+liq
+sd
+fus
+m
+m
+H
+dp
+dT
+V
+V
+T
+
+
+
+
+
+
+
+
+
+
+ 
+Le signe de la pente dépend du signe de la différence 
+*,
+*,
+liq
+sd
+m
+m
+V
+V
+
+, puisque 
+*
+0
+fus
+m
+H
+
+
+ 
+De la question 6) 
+*,
+*,
+liq
+sd
+m
+m
+V
+V
+
+ donc la pente est positive. 
+
+ 
+Page 9 sur 12 
+Épreuve de chimie section MP 
+Année : 2020-2021 
+Electrochimie 
+I- Constantes d’équilibres associées aux réactions acido-basique 
+On donne à 298 K, les potentiels standard redox à pH = 0 : 
+Couple 
+3(
+)
+2(
+)
+aq
+aq
+HNO
+HNO
+ 
+3(
+)
+2(
+)
+aq
+aq
+NO
+HNO
+
+ 
+E 
+
+/
+ 
+( /
+)
+Ox red en V ESH  
+0,98 
+0,94 
+1) Écrire l’équation-bilan de la réaction associée à chacun de ces deux couples redox. 
+3(
+)
+2(
+)
+aq
+aq
+HNO
+HNO
+ :  La demi-équation : 
+3(aq)
+2(
+)
+2
+2
+2
+aq
+HNO
+H
+e
+HNO
+H O
+
+
+
+
+
+
+ 
+L’équation-bilan : 
+3(aq)
+2( )
+2(
+)
+2
+2
+2
+D
+g
+aq
+G
+HNO
+H
+H
+HNO
+H O
+H
+
+
+
+
+
+
+
+   (n = 2) 
+3(
+)
+2(
+)
+aq
+aq
+NO
+HNO
+
+ :  La demi-équation : 
+3(
+)
+2(
+)
+2
+3
+2
+aq
+aq
+NO
+H
+e
+HNO
+H O
+
+
+
+
+
+
+
+ 
+L’équation-bilan : 
+3(
+)
+2(
+)
+2(
+)
+2
+3
+2
+aq
+D
+g
+aq
+G
+NO
+H
+H
+HNO
+H O
+H
+
+
+
+
+
+
+
+
+   (n = 2) 
+2) Déduire de la question précédente, l’expression de la constante d’équilibre de la réaction associée au couple 
+3(
+)
+3(
+)
+aq
+aq
+HNO
+NO
+puis calculer sa valeur. 
+3(
+)
+3(
+)
+(
+)
+aq
+aq
+aq
+HNO
+NO
+H
+
+
+
+
+(3) 
+3(aq)
+2( )
+2(
+)
+2
+2
+2
+D
+g
+aq
+G
+HNO
+H
+H
+HNO
+H O
+H
+
+
+
+
+
+
+
+ (1) 
+3(
+)
+2(
+)
+2(
+)
+2
+3
+2
+aq
+D
+g
+aq
+G
+NO
+H
+H
+HNO
+H O
+H
+
+
+
+
+
+
+
+
+  (2) 
+Nous constatons que : (3) = (1) – (2) 
+3
+rG
+
+
+1
+rG
+
+
+2
+rG
+
+ 
+
+
+1
+2
+a
+R T
+Ln K
+F
+E
+
+
+
+
+
+2
+2
+F
+E
+
+
+ 
+ 
+
+
+1
+2
+a
+R T
+Ln K
+E
+F
+
+
+
+
+
+
+2
+E
+
+ 
+
+
+10
+1
+0,03 log
+a
+K
+E
+
+
+
+
+2
+E
+
+ 
+
+
+1
+10
+log
+a
+E
+K
+
+
+2
+E
+
+
+0,03
+ 
+Application numérique : 
+
+
+10
+0,98
+0,94
+log
+1,33
+0,03
+a
+K
+
+
+
+ 
+1,33
+10
+21,38
+a
+K 
+
+ 
+II- Détermination des potentiels standard d’oxydoréduction : 
+On donne à 298 K, les potentiels chimiques standard des entités : 
+Entités « i » 
+2(g)
+N
+ 
+3(
+)
+aq
+NO
+ 
+(
+)
+aq
+H 
+ 
+2( )
+g
+H
+ 
+2
+(
+)
+liq
+H O
+ 
+i
+
+1
+.
+kJ mol 
+ 
+0 
+-110,9 
+0 
+0 
+-237,2 
+3) Montrer que l’expression du potentiel standard redox du couple 
+3 (
+)
+2(
+)
+aq
+g
+NO
+N
+
+ s’écrit en fonction des 
+potentiels chimiques standard des différentes entités qui apparaissent dans l’équation-bilan de la réaction 
+associée à ce couple. Calculer sa valeur. 
+La demi-équation : 
+3 (
+)
+D
+2(
+)
+2
+2
+12
+10
+6
+aq
+g
+NO
+H
+e
+N
+H O
+
+
+
+
+
+
+
+ 
+L’équation bilan : 
+3 (
+)
+D
+2(
+)
+2(
+)
+2
+2
+12
+5
+10
+6
+aq
+g
+g
+G
+NO
+H
+H
+N
+H
+H O
+
+
+
+
+
+
+
+
+  (n=10) 
+rG
+
+
+i
+i
+
+
+
+
+
+10
+i
+F
+E
+
+
+
+
+
+rG
+
+
+10
+E
+
+
+
+
+3 (
+)
+2( )
+aq
+g
+NO
+N
+E
+
+
+
+
+
+
+(
+)
+2( )
+10
+aq
+g
+H
+H
+E
+
+
+
+
+
+3 (
+)
+2( )
+aq
+g
+NO
+N
+
+ 
+E 
+
+3 (
+)
+2( )
+i
+i
+aq
+g
+NO
+N
+
+
+
+
+
+
+2(
+)
+10
+g
+N
+i
+F
+
+
+
+
+
+(
+)
+10
+aq
+H
+
+
+
+
+
+2
+6
+H O
+
+
+
+3(
+)
+2
+aq
+NO
+
+
+
+
+(
+)
+12
+aq
+H
+
+
+
+
+
+2(
+)
+5
+g
+H
+
+
+
+10 F
+
+ 
+E 
+
+2
+3 (
+)
+2( )
+6
+H O
+aq
+g
+NO
+N
+
+
+
+
+
+3(
+)
+2
+aq
+NO
+
+
+
+
+10 F
+
+ 
+Application numérique : 
+E 
+
+
+
+
+
+3
+1
+3 (
+)
+2( )
+6
+237,2
+2
+110,9
+1,24 10
+.
+1,24
+10
+96500
+aq
+g
+NO
+N
+kJ C
+V
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+ 
+Page 10 sur 12 
+Épreuve de chimie section MP 
+Année : 2020-2021 
+III- Étude des diagrammes de Pourbaix 
+On se propose d’étudier dans un domaine de pH compris entre -2 et 16, le diagramme potentiel-pH simplifié 
+de l’azote à 298 K, pour une concentration totale en atomes d’azote dissous Ctra = 0,10 mol.L-1 et des pressions 
+partielles égales à 1 bar pour les espèces gazeuses. Tous les gaz seront supposés avoir le comportement des 
+gaz parfaits. 
+4) Déterminer le nombre (degré) d’oxydation de l’atome d’azote dans chacune des entités suivantes :   
+3(
+)
+aq
+HNO
+, 
+3(
+)
+aq
+NO
+, 
+4(
+)
+aq
+NH 
+, 
+3(g)
+NH
+ et 
+2( )
+g
+N
+  
+3(
+) : n.o(N) = 
+aq
+H NO
+V  ; 
+3(
+) : n.o(N) = 
+aq
+NO
+V
+
+ 
+4(
+) :  n.o(N) = -III
+aq
+NH 
+ ; 
+3(g) :  n.o(N) = -III
+NH
+ 
+2( ) :  n.o(N) = 0
+g
+N
+ 
+5) Classer ces entités par nombre d’oxydation croissant en fonction de pH et déterminer les valeurs de pH 
+limitant les frontières verticaux. 
+La frontière verticale entre : 
+3(
+)
+aq
+HNO
+ et 
+3(
+)
+aq
+NO
+ : 
+
+
+3
+3(
+)
+3(
+)
+(
+)
+3
+aq
+aq
+aq
+a
+NO
+H
+HNO
+NO
+H
+K
+HNO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+3
+10
+3
+log
+a
+NO
+pK
+pH
+HNO
+
+
+
+
+
+
+
+ 
+
+
+3
+10
+3
+log
+a
+NO
+pH
+pK
+HNO
+
+
+
+
+
+
+
+ 
+C.F : 
+
+
+3
+3
+NO
+HNO
+
+
+
+
+
+ 
+
+a
+pH
+pK
+
+ 
+ 
+De la question 2) partie I. 
+1,33
+a
+pK 
+ 
+D’où,  
+1,33
+pH 
+ 
+La frontière verticale entre :  
+4(
+)
+aq
+NH 
+ et 
+3(g)
+NH
+ 
+3
+12
+4(
+)
+3(g)
+(
+)
+4
+9,55 10
+NH
+aq
+aq
+a
+p
+H
+NH
+NH
+H
+K
+NH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3
+10
+10
+4
+log
+log
+NH
+a
+p
+pK
+H
+NH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+3
+10
+4
+log
+NH
+a
+p
+pK
+pH
+NH 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+3
+10
+4
+log
+NH
+a
+p
+pH
+pK
+NH 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+C.F : 
+1
+4
+0,1
+.
+tra
+C
+NH
+mol L
+
+
+
+
+
+
+
+
+ et 
+3
+1
+ 
+NH
+p
+bar
+
+ 
+ 
+10
+1
+1
+11,02
+log
+12,02
+10
+pH
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+6) Identifier les différents couples redox mis en jeu. 
+Couple (1) : 
+3(
+)
+2( )
+aq
+g
+HNO
+N
+ 
+ 
+Couple (2) : 
+3 (
+)
+2(
+)
+aq
+g
+NO
+N
+
+ 
+Couple (3) : 
+2(
+)
+4 (
+)
+g
+aq
+N
+NH 
+ 
+ 
+Couple (4) : 
+2(
+)
+3 (g)
+g
+N
+NH
+ 
+ 
+
+ 
+Page 11 sur 12 
+Épreuve de chimie section MP 
+Année : 2020-2021 
+Sur le diagramme ci-dessous, on a superposé le diagramme de Pourbaix du fer (Ctra = 0,10 mol.L-1) en traits 
+discontinus sur celui de l’azote en traits gras.  
+ 
+7) Indexer le diagramme de l’azote en affectant les entités dans les domaines correspondants. 
+Domaine (1) : 
+3(
+)
+aq
+HNO
+  
+Domaine (2) : 
+3 (
+)
+aq
+NO
+ 
+Domaine (3) : 
+2( )
+g
+N
+ 
+Domaine (4) : 
+4(
+)
+aq
+NH 
+ 
+Domaine (5) : 
+3 (g)
+NH
+ 
+8) Déterminer l’expression numérique de la frontière séparant les domaines (3) et (4) en fonction du pH. 
+Couple (3) :  
+2(
+)
+4 (
+)
+g
+aq
+N
+NH 
+ :  
+La demi-équation : 
+2(
+)
+D
+4 (
+)
+8
+6
+2
+g
+aq
+N
+H
+e
+NH
+
+
+
+
+
+
+ 
+L’équation bilan : 
+2(
+)
+D
+2(
+)
+4 (
+)
+8
+3
+2
+6
+g
+g
+aq
+G
+N
+H
+H
+NH
+H
+
+
+
+
+
+
+
+ 
+Le potentiel redox s’écrit : 
+
+
+2( )
+4 (
+)
+g
+aq
+E N
+NH
+E
+
+
+
+
+2( )
+4 (
+)
+10
+0,06
+log
+6
+D
+g
+aq
+H
+C
+N
+NH
+
+
+
+
+
+
+
+
+
+2
+8
+N
+p
+p
+
+
+
+
+
+
+
+
+
+4
+NH
+C
+
+
+
+
+
+
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+2( )
+4 (
+)
+g
+aq
+E N
+NH
+E
+
+
+
+
+2
+2( )
+4 (
+)
+10
+0,06
+log
+6
+N
+g
+aq
+p
+p
+N
+NH 
+
+
+
+4
+NH
+C
+
+
+
+
+
+
+10
+2
+0,06
+log
+6
+D
+H
+C
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+2( )
+4 (
+)
+g
+aq
+E N
+NH
+E
+
+
+
+
+2
+2( )
+4 (
+)
+10
+0,01 log
+N
+g
+aq
+p
+p
+N
+NH 
+
+
+
+4
+NH
+C
+
+
+
+
+
+
+2
+0,08
+pH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+Page 12 sur 12 
+Épreuve de chimie section MP 
+Année : 2020-2021 
+Concentration de tracé : 
+1
+4
+0,1
+.
+tra
+C
+NH
+mol L
+
+
+
+
+
+
+
+
+ 
+Convention de frontière : 
+2
+1
+ 
+N
+p
+bar
+
+ 
+
+
+
+
+2
+2( )
+4 (
+)
+10
+0,275
+0,01 log
+10
+0,08
+g
+aq
+E N
+NH
+pH
+
+
+
+
+
+
+
+ 
+
+
+2( )
+4 (
+)
+0,295
+0,08
+g
+aq
+E N
+NH
+pH
+
+
+
+
+ 
+9) Établir l’expression du pH de la frontière verticale entre les entités Fe2+ et Fe(OH)2(sd) puis calculer sa 
+valeur. 
+
+
+2
+2
+2(
+)
+2
+2
+13,27
+sd
+Fe OH
+H
+Fe
+H O pK
+
+
+
+
+
+
+ 
+À l’équilibre, 
+2
+2
+Fe
+K
+H
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+2
+10
+10
+log
+2 log
+pK
+Fe
+H
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+2
+10
+log
+2
+pK
+Fe
+pH
+
+
+
+
+
+
+
+ 
+
+
+
+
+2
+10
+1
+log
+2
+pH
+Fe
+pK
+
+
+
+
+
+
+
+
+ 
+
+
+1
+1 13,27
+7,14
+2
+pH 
+
+
+ 
+10) Déduire la valeur du produit de solubilité de Fe(OH)2(sd). 
+
+
+2
+2(
+)
+2
+sd
+Fe OH
+Fe
+HO
+
+
+
+
+ 
+À l’équilibre, 
+2
+2
+s
+K
+Fe
+HO
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+2
+10
+log
+2
+2
+s
+e
+pK
+Fe
+pK
+pH
+
+
+
+
+
+
+
+
+ 
+
+
+10
+log
+2
+2
+s
+tra
+e
+pK
+C
+pK
+pH
+
+
+
+ 
+
+
+1
+10
+log
+10
+2 14
+2 7,14
+14,72
+s
+pK
+
+
+
+
+
+ 
+14,72
+10
+s
+K
+
+
+ 
+IV- Utilisation des diagrammes de Pourbaix 
+11) Que se passe-t-il, si on plonge une lame de fer dans une solution d’acide nitrique de concentration  
+0,1 mol.L-1 ?  
+ 
+ 
+ 
+pH ≤ -1,33 : dégagement 
+de diazote 
+-1,33 ≤ pH ≤ 7,14 : 
+dégagement de diazote. 
+pH  7,14 ; dégagement de diazote et un dépôt du 
+solide Fe(OH)2 sur la lame du fer. . 
+12) Déterminer la ou les entité(s) susceptible(s) d’être réduite(s) par l’hydroxyde ferreux. Écrire la ou les 
+équation(s)-bilan(s) de(s) réaction(s) correspondante(s). 
+Pour pH ≥ 7,14  seul NO3- est susceptible d’être réduit par Fe(OH)2. 
+
+
+
+
+2
+3(
+)
+2(
+)
+1
+sd
+sd
+Fe OH
+H
+e
+Fe OH
+H O
+
+
+
+
+
+
+ 
+2(
+)
+3 (
+)
+2
+2
+12
+10
+6
+g
+aq
+NO
+H
+e
+N
+H O
+
+
+
+
+
+
+
+ 
+
+
+
+
+2( )
+3 (
+)
+2
+2(
+)
+3(
+)
+2
+10
+2
+4
+10
+g
+aq
+sd
+sd
+NO
+Fe OH
+H
+H O
+N
+Fe OH
+
+
+
+
+
+
+
+ 
+ 
+En milieux basique : 
+
+
+
+
+2( )
+3 (
+)
+2
+2(
+)
+3(
+)
+2
+10
+6
+10
+2
+g
+aq
+sd
+sd
+NO
+Fe OH
+H O
+N
+Fe OH
+HO
+
+
+
+
+
+
+
+ 
+FIN DE L’ÉPREUVE 

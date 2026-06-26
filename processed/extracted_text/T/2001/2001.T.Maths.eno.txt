@@ -1,0 +1,51 @@
+--- page 1 ---
+RÉPUBLIQUE TUNISIENNE *ww Ministère de FEnseignement Supérieur
+InSnTUT 2 9 CIBLCTHEQUE 2 Eiudfes  Dunseuss SFx
+Concours Nationaux d'Entrée aux Cycles de Formation dIngénieurs Session: Juin 2001
+Concours en Technologie Épreuve de Mathématiques
+Durée: 4H Date: 7 Juin 2001 gHeure Nb pages: ; Barême: Ex: 4pts Pb Partie I: 4,5pts Partie II: 6pts, Partie Iil: 5,5pts
+Lusage des calculatrices est strictement interdit. Une grande importance sera attachée à la rigueur du raisonnement; à la clarté de la rédaction et au soin de la présentation. Il est rappelé que tout résultat énoncé dans le sujet peut être utilisé pour traiter la suite, même s'il n'a pu être démontre.
+Exercice.
+Soit   R[X] Fespace vectoriel des polynômes à coefficients réels et soit R[X] celui des polynômes de degré au plus égal à n [+% Pour P = Q € RX} on pose PIQ >= P(s)Q(z)e ~I dz. 1) Montrer que < / > définit un produit scalaire sur R[X} (On vérifera l'existence de lintégrale ci-dessus.) 2) On pose pour n € N,
+Ln (z) = er [r"e-2] . 'n! dx"
+(1)
+Vérifier que
+Ln(z) = Ê(fc:* 60:; k!
+1 /
+
+--- page 2 ---
+3) Soit P € RX] et n € N. En utilisant l'égalité (1) établir (Z1) +0 < Ln/P > = e-Ix"P(n)(z)dz. n!
+4) Montrer que pour tout entier n la famille (Lo, L1, Ln) est une base orth normale de R[X] 5) Réciproquement soit une suite (en)n eN d'éléments de R[X] possédant les pro priétés suivantes 1 , si i) V (m; n) € N? m = n < en em >= Snm = 0 si m + n (symbole de Kronecker)  ii) Vn € N, degré(en) = n. iii) Vn € N, en (0) 2 0- Montrer que Vn € N: en = Ln' Les polynômes Ln , n € N sont appelés les polynômes de Laguerre:
+Problème
+Partie I. Soit ) un nombre réel appartenant à Jo, 1[ On pose 40 t-1 tÀ-1 I(a) = J 1 +zdt J(A) = J' dt. 1 +t 1) Justifier l'existence de I et J et montrer que
+I(A) = J()+ J(1 _ A)
+2) a) En utilisant le théorème de convergence dominée montrer que +0 J(A) = EGI)" n=0  + }
++0 (~1)"-1 d) Etablir que I(A) = +21 n51 n2 _ }2 7 3) Soit fx la fonction 2T-périodique définie par
+fs(t) = cos(At)
+pour tout t € [~T, T]
+2/5
+
+--- page 3 ---
+a) Chercher les coefficients de Fourier trigonométriques de fA- b) Montrer que pour tout t € R sin(u}) +0 fx(t) = 1 + 2X2 4222-7 cos(nt)]: T X n=1 n2 _ )2
+c) Calculer les sommes suivantes
++0 (~1)"-1 n2 =12 n=1
+40
++o 2 n=1 In2 =42]
+n2 ~ 42 n=1
+T
+4) En déduire que I(A) = sin(zA) ~ Partie II. On considère la fonction Gamma définie par
++0 e-ttr-1dt.
+T(z) =
+1) a) Montrer que la fonction T est bien définie pour 2 > 0 et que
+Vr > 0, T(z+1) = 2F(z)
++0 b) Sachant que €~t? dt = montrer que F(2) =vu. 2 c) Soient œ, B ,2 des réels strictement posi Itifs. Montrer que
++0 Bx6 e ~zt8 to-1 dt =1(g)
+2) Soient Q , B des réels strictement positifs et h : [0, +%[  €
+une fonction
+continue en 0 On suppose qu'il existe %o > 0 tel que
++0 e ~Iot8 't"-1|h(t) ldt < +0
+a) Soit n > 0 Montrer que V s > Io Vt > 7;
+exp(-It') < exp(-rot?) exp(-(I  I)nf)
+b) En déduire que V z > Io
++0 1J e~2tB t"-1(h(t) - h(O))dt| < J"e-z ta-'Jh(*) ~ h(O)ldt +0 e-(r-2)nf e ~Iotb 't9-1 (|h(t)| + |h(0) l)dt.
+3 / ~

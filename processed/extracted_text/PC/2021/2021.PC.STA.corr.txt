@@ -1,0 +1,1404 @@
+République Tunisienne
+MINISTERE DE L’ENSEIGNEMENT
+SUPERIEUR ET DE LA
+RECHERCHE SCIENTIFIQUE
+Signature des enseignants
+S
+Concours Nationaux d’Entrée
+aux Cycles de Formation
+d’Ingénieurs
+Session : 2021
+Concours : MP & PC
+Epreuve de : Systèmes Techniques
+Automatisés
+Date : Mercredi 23 Juin 2021 à 8h
+Durée : 3 heures
+Concours Nationaux d’Entrée
+aux Cycles de Formation
+d’Ingénieurs
+Session : 2021
+Concours : Mathématiques et Physique
+& Physique et Chimie
+Epreuve de : Systèmes Techniques
+Automatisés
+Date : Mercredi 23 Juin 2021 à 8h
+Durée : 3 Heures
+Nom : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Prénom : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Date & lieu de naissance :. . . . . . . . . . . . . . . . . . . . . . . . . . .
+Etablissement d’origine :. . . . . . . . . . . . . . . . . . . . . . . . . . . .
+N◦C.I.N ou N◦du Passeport pour les étrangers :
+Série :
+Identiﬁant :
+01
+Nombre de
+cahiers remis
+NE RIEN ÉCRIRE ICI
+01
+Nombre de
+cahiers remis
+NE RIEN ÉCRIRE ICI
+
+Dossier
+DOCUMENT REPONSES
+⋇Ce dossier comporte 19 pages numérotées de 1 à 19
+▷Partie A – Conception mécanique : . . . . . . . . . . . . . . . . . . pages de 1 à 3
+▷Partie B – Mécanique des Solides Indéformables : . . pages de 4 à 12
+▷Partie C – Automatique : . . . . . . . . . . . . . . . . . . . . . . . . . .pages de 13 à 19
+⋇Un seul dossier "document réponses" est fourni au candidat et doit être
+rendu à la ﬁn de l’épreuve, en totalité, même sans réponses.
+⋇Le renouvellement ou la reproduction de ce dossier sont strictement
+interdits.
+
+Concours MP-PC
+Epreuve S.T.A.
+Partie A : Conception Mécanique
+Document Réponses
+Partie A :
+Conception Mécanique
+A.1: Compléter l’actigramme niveau A0 du cinquième poste dédié au sertissage (ﬁgure ??).
+A0
+A1
+A3
+Poste de sertissage
+A2
+We
+Wh
+Galets de Sertissage
+Moteur
+Mouvement
+ de
+rotation
+vérin
+ordres
+reglages
+effort
+presseur
+Compte rendus
+Bruit
+rotules serties
+rotules non
+serties
+sertir
+transformer  
+We en Wm
+transformer  
+Wh en Wm
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2021
+0 Page : 1|19
+
+Concours MP-PC
+Epreuve S.T.A.
+Partie A : Conception Mécanique
+Document Réponses
+A partir du schéma cinématique du poste de sertissage (ﬁgure 4) du document "Mise en
+situation, Données et Hypothèse", on demande de :
+S2
+galets de
+sertissage
+S1
+A
+B
+A.2: Donner la désignation de chacune des liaisons en (A) et (B).
+(A) : liaison rotule de centre A
+(B) : laison linéaire annulaire d’axe (B,⃗y0)
+A.3:
+Montrer par un calcul statique que la liaison équivalente entre
+S1 et S2 est une liaison pivot d’axe (A,⃗y0).
+Soit
+
+T 1(S1→S2)
+	
+A =
+
+
+
+XA
+YA
+ZA
+0
+0
+0
+
+
+
+A
+le torseur de la liaison rotule en A.
+De même
+
+T 2(S1→S2)
+	
+B =
+
+
+
+XB
+0
+ZB
+0
+0
+0
+
+
+
+B
+le torseur de la linéaire annulaire.
+Comme les liaisons sont en parallèle entre S1 et S2 alors on obtient le torseur de la
+liaison équivalente par :
+{T eq(S1→S2)}A =
+n
+T 1(S1→S2)
+o
+A +
+n
+T 2(S1→S2)
+o
+A
+avec
+
+T 2(S1→S2)
+	
+A =
+
+
+
+XB
+0
+ZB
+XB
+0
+ZB
+∧
+0
+BA
+0
+
+
+
+A
+=
+
+
+
+XB
+0
+ZB
+−ZBBA
+0
+XBBA
+
+
+
+A
+ainsi
+{T eq(S1→S2)}A =
+
+
+
+XB + XA
+YA
+ZB + ZA
+−ZBBA
+0
+XBBA
+
+
+
+A
+qui correspond au torseur d’une liaison pivot autours de (A,⃗y0)
+A.4:
+Par quels moyens peut-on réaliser cette liaison pivot entre S1 et S2 ? (Proposer deux
+exemples de solutions technologiques.)
+On peut réaliser cette liaison par un montage de roulements ou par des coussinets.
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2021
+0 Page : 2|19
+
+Concours MP-PC
+Epreuve S.T.A.
+Partie A : Conception Mécanique
+Document Réponses
+A.5: Cocher la case qui correspond à la bonne réponse.
+Les cannelures constituent une solution technologique permettant le guidage en :
+translation 4
+rotation 2
+A.6: Compléter, sur le schéma cinématique de la ﬁgure ci-dessous, la liaison entre S1 et S3.
+S6
+S3
+S0
+Moteur
+S0
+S4
+S1
+S5
+courroie
+S2
+A.7: Déterminer le rapport des vitesses de rotation ρ = N1
+N6
+. Faire l’application numérique.
+ρ = N1
+N6
+= (−1)n Z6 · Z5b
+Z5a · Z4
+· d
+D
+= 20 × 20
+30 × 30 × 60
+120 = 2
+9
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2021
+0 Page : 3|19
+
+Concours MP-PC
+Epreuve S.T.A.
+Partie B : M.S.I.
+Document Réponses
+Partie B :
+Mécanique des Solides Indéformables
+B.1 Étude Cinématique
+L’objectif de cette étude cinématique est d’exprimer les vitesses et les accélérations en translation des
+coulisseaux (2) et (3) en fonction de la vitesse et de l’accélération angulaire à l’entrée du mécanisme
+de transfert.
+B.1:
+Déterminer les torseurs cinématiques des solides qui suivent dans leurs mouvements
+par rapport au bâti (0) :
+a. le solide (1) au point A, l’exprimer dans la base B1(⃗x1,⃗y1,⃗z0), en fonction de L, .
+θ :
+{V1/0}A =
+
+
+
+
+
+.
+θ⃗z0
+L.
+θ⃗y1
+
+
+
+
+
+A
+b. le solide (2) au point A, l’exprimer dans la base B1(⃗x1,⃗y1,⃗z0), en fonction de L, .
+θ :
+{V2/0}A =
+
+
+
+
+
+⃗0
+L.
+θ⃗y1
+
+
+
+
+
+A
+c. le solide (3) au point C, l’exprimer dans la base B0(⃗x0,⃗y0,⃗z0), en fonction de .µ :
+{V3/0}C =
+
+
+
+
+
+⃗0
+.µ⃗x0
+
+
+
+
+
+C
+B.2:
+Exprimer, dans la base B0(⃗x0,⃗y0,⃗z0), le vecteur position de A en fonction de d, µ et λ.
+En déduire la vitesse de A appartenant au solide (2) dans son mouvement par rapport au
+bâti (0) en fonction de .µ et .
+λ :
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2021
+0 Page : 4|19
+
+Concours MP-PC
+Epreuve S.T.A.
+Partie B : M.S.I.
+Document Réponses
+−→
+OA = −→
+OC + −→
+CB + −→
+BA = µ⃗x0 + (λ + a −d)⃗y0
+d’où −→
+V(A∈2/0) = .µ⃗x0 + .
+λ⃗y0
+−→
+OA = µ⃗x0 + (λ + a −d)⃗y0
+−→
+V(A∈2/0) = .µ⃗x0 + .
+λ⃗y0
+B.3: En déduire les expressions de .µ et .
+λ en fonction de L, .
+θ et θ :
+L’égalité des deux expressions de −→
+V(A∈2/0) ⇒L.
+θ⃗y1 = .µ⃗x0 + .
+λ⃗y0
+Ainsi, par projection sur la base B0(⃗x0,⃗y0,⃗z0), on déduit :
+.µ = −L.
+θ sin θ
+.
+λ = L.
+θ cos θ
+On se propose d’analyser l’effet de la périodicité de θ, sur le couple Cm développé par le mo-
+teur, en considérant la ﬁgure B.1 illustrant approximativement la variation de θ en fonction
+du temps où T est sa période.
+0
+t
+T/2
+T
+π
+θ
+FIGURE B.1 – Évolution de l’angle de rotation θ en fonction du temps
+B.4:
+Déterminer, en fonction de t et de la période T, les expressions de θ(t) correspondant
+respectivement à la première demi-période (0 ≤t ≤T/2) et la seconde (T/2 ≤t ≤T).
+Première demi-période (0 ≤t ≤T/2)
+:
+θ(t) = 2π
+T t
+Deuxième demi-période (T/2 ≤t ≤T)
+:
+θ(t) = 2π(1 −t
+T)
+B.5: En déduire la vitesse .
+θ associée à la première demi-période (0 ≤t ≤T/2) et la seconde
+(T/2 ≤t ≤T). Déduire que ..
+θ est nulle sur une période.
+Première demi-période (0 ≤t ≤T/2)
+:
+.
+θ(t) = 2π
+T
+Deuxième demi-période (T/2 ≤t ≤T)
+:
+.
+θ(t) = −2π
+T ,
+sur une période .
+θ(t) est constante donc ..
+θ (t) = 0.
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2021
+0 Page : 5|19
+
+Concours MP-PC
+Epreuve S.T.A.
+Partie B : M.S.I.
+Document Réponses
+B.2 Étude dynamique et énergétique
+L’étude énergétique et dynamique vise à déterminer le couple développé par le moteur (M) ainsi que
+les expressions analytiques des actions extérieures s’appliquant au système Σ = {1, 2, 3}
+B.2.1 Données et hypothèses
+✓θ(t) est périodique ( ﬁgure B.1) et ..
+θ est nulle.
+✓L’accélération de la pesanteur est déﬁnie par : ⃗g = −g⃗y0 avec g est une constante
+positive.
+✓L’action du moteur (M) sur (1) est modélisée par le torseur couple :
+{T (Moteur→1)}O =
+
+⃗0
+Cm⃗z0
+
+O
+✓Les masses des solides (1), (2) et (3) sont désignées respectivement par mi avec i = 1, 2, 3.
+Sachant que le coulisseau (2) intègre toutes les pièces qui lui sont solidaires y compris
+le système de préhension (la masse de la rotule est négligée).
+✓Les centres d’inertie Gi de ces solides sont déﬁnis par les expressions vectorielles
+suivantes :
+−→
+OG1 = L
+2⃗x1 ; −→
+AG2 = −b⃗y0 ; −→
+CG3 =⃗0
+où b représente une constante dimensionnelle positive.
+✓Toutes les liaisons sont supposées parfaites.
+✓Il convient de retenir, pour ce problème plan, la notation représentant le torseur des
+actions mécaniques qu’exerce un solide (i) sur un solide (j) au point Q "centre géo-
+métrique de la liaison", exprimé dans la base B0(⃗x0,⃗y0,⃗z0)
+{T (i→j)}Q =
+
+
+
+Xij
+Yij
+−
+−
+−
+Nij
+
+
+
+Q
+B0
+✓La manivelle (1) est représentée par le solide de la ﬁgure B.2.
+A
+FIGURE B.2 – Géométrie de la manivelle 1
+B.6: Donner, après justiﬁcation, la forme de la matrice d’inertie de la manivelle (1) au point
+G1 dans la base B1(⃗x1,⃗y1,⃗z0). Cette matrice sera notée [IG1(1)].
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2021
+0 Page : 6|19
+
+Concours MP-PC
+Epreuve S.T.A.
+Partie B : M.S.I.
+Document Réponses
+[IG1(1)] =
+
+
+IG1x
+0
+0
+0
+IG1y
+0
+0
+0
+IG1z
+
+car :
+(G1,⃗x1,⃗y1) est un plan de symétrie matérielle ⇒(G1,⃗z0) axe principal d’inertie
+⇒Les produit d’inertie Ixz = Iyz = 0
+(G1,⃗x1,⃗z0) est un plan de symétrie matérielle ⇒(G1,⃗y1) axe principal d’inertie
+⇒Les produit d’inertie Ixy = Iyz = 0
+N.B. Dans la suite on notera par Iz le moment d’inertie de (1) par rapport à l’axe (G1,⃗z0).
+B.7: Déterminer les torseurs cinétiques et dynamiques des solides suivants dans leurs mou-
+vements par rapport au bâti (0) :
+a. Le solide (1) au point G1 ; l’exprimer dans la base B1(⃗x1,⃗y1,⃗z0) en fonction de m1, Iz, L, θ
+et ses dérivées.
+{C1/0}G1 =
+
+
+
+
+
+
+
+m1
+L
+2
+.
+θ⃗y1
+Iz
+.
+θ⃗z0
+
+
+
+
+
+
+
+G1
+{D1/0}G1 =
+
+
+
+
+
+
+
+−m1
+L
+2
+.
+θ
+2⃗x1
+⃗0
+
+
+
+
+
+
+
+G1
+b. Le solide (2) au point G2 ; l’exprimer dans la base B1(⃗x1,⃗y1,⃗z0) en fonction de m2, L, θ et
+ses dérivées.
+−→
+V(G2/0) = −→
+V(A∈2/0) = L.
+θ⃗y1
+⃗σG2(2/0) =⃗0 car −→
+Ω2/0 =⃗0
+⃗δG2(2/0) =
+d⃗σG2(2/0)
+dt
+
+R0
+=⃗0
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2021
+0 Page : 7|19
+
+Concours MP-PC
+Epreuve S.T.A.
+Partie B : M.S.I.
+Document Réponses
+{C2/0}G2 =
+
+
+
+
+
+m2L.
+θ⃗y1
+⃗0
+
+
+
+
+
+G2
+{D2/0}G2 =
+
+
+
+
+
+−m2L.
+θ
+2⃗x1
+⃗0
+
+
+
+
+
+G2
+c. Le solide (3) au point G3 ; l’exprimer dans la base B0(⃗x0,⃗y0,⃗z0) en fonction de m3 , L, θ et
+ses dérivées.
+{C3/0}G3 =
+
+
+
+
+
+m3 .µ⃗x0 = −m3L.
+θ sin θ⃗x0
+⃗0
+
+
+
+
+
+G3
+{D3/0}G3 =
+
+
+
+
+
+m3..µ⃗x0 = −m3L.
+θ
+2 cos θ⃗x0
+⃗0
+
+
+
+
+
+G3
+B.8: Déterminer l’expression de l’énergie cinétique du système Σ = {1, 2, 3} dans son mou-
+vement par rapport au bâti (0).
+Ec(Σ/0) = Ec(1/0) + Ec(2/0) + Ec(3/0) avec
+Ec(1/0) = 1
+2 {V1/0}G1 {C1/0}G1 = 1
+2(Iz + m1
+L2
+4 ).
+θ
+2
+Ec(2/0) = 1
+2m2
+−→
+V(G2/0)
+2 = 1
+2m2L2 .
+θ
+2
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2021
+0 Page : 8|19
+
+Concours MP-PC
+Epreuve S.T.A.
+Partie B : M.S.I.
+Document Réponses
+Ec(3/0) = 1
+2m3
+−→
+V(G3/0)
+2 = 1
+2m3L2 .
+θ
+2(sin θ)2
+Ec(Σ/0) = 1
+2
+.
+θ
+2 
+Iz + m1
+L2
+4 + m2L2 + m3L2(sin θ)2
+
+B.9: Compléter sur la ﬁgure B.3, l’inventaire des actions mécaniques extérieures appliquées
+au système Σ = {1, 2, 3}.
+action extérieure 
+actions mutuelles intérieures au système 
+Σ
+0
+FIGURE B.3 – Diagramme des actions mécaniques
+B.10:
+Écrire les torseurs des actions extérieures et intérieures au système (Σ) en leur point
+d’application respectif, en les exprimant dans la base B0(⃗x0,⃗y0,⃗z0).
+Les torseurs des actions extérieures à (Σ)
+{T (Moteur→1)}O =
+
+⃗0
+Cm⃗z0
+
+O
+; {T (0→1)} =
+
+
+
+X01
+Y01
+−
+−
+−
+0
+
+
+
+O
+B0
+;
+{T (0→3)}C =
+
+
+
+0
+Y03
+−
+−
+−
+N03
+
+
+
+C
+B0
+; {T (⃗g→1)}G1 =
+
+
+
+0
+−m1g
+−
+−
+−
+0
+
+
+
+G1
+B0
+;
+{T (⃗g→2)}G2 =
+
+
+
+0
+−m2g
+−
+−
+−
+0
+
+
+
+G2
+B0
+; {T (⃗g→3)}G3 =
+
+
+
+0
+−m3g
+−
+−
+−
+0
+
+
+
+G3
+B0
+;
+Les torseurs des actions intérieures de (Σ)
+{T (2→1)}A =
+
+
+
+X21
+Y21
+−
+−
+−
+0
+
+
+
+A
+B0
+; {T (2→3)}B =
+
+
+
+X23
+0
+−
+−
+−
+N23
+
+
+
+B
+B0
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2021
+0 Page : 9|19
+
+Concours MP-PC
+Epreuve S.T.A.
+Partie B : M.S.I.
+Document Réponses
+B.11:
+Déterminer les puissances développées par les actions mécaniques extérieures et in-
+térieures s’exerçant au système (Σ) dans son mouvement par rapport au bâti (0).
+P( ¯Σ→Σ/0) = P(Mot→1/0) + P(0→1/0) + P(0→3/0) + P(⃗g→1/0) + P(⃗g→2/0) + P(⃗g→3/0)
+P(Mot→1/0) = Cm
+.
+θ
+P(0→1/0) = P(0→3/0) = 0 (Liaisons parfaites de puissances mutuelles)
+P(⃗g→1/0) = −m1g⃗y0 · L
+2
+.
+θ⃗y1 = −m1g L
+2
+.
+θ cos θ
+P(⃗g→2/0) = −m2g⃗y0 · L.
+θ⃗y1 = −m2gL.
+θ cos θ
+P(⃗g→3/0) = −m3g⃗y0 · .µ⃗x0 = 0
+P( ¯Σ→Σ/0) =
+
+Cm −(m1
+2 + m2)gL cos θ
+ .
+θ
+Pint(Σ) = 0
+B.12:
+Appliquer le théorème de l’énergie cinétique au système (Σ) dans son mouvement
+par rapport au bâti (0) pour déduire l’expression du couple Cm développé par le moteur.
+dEc(Σ/0)
+dt
+= P( ¯Σ→Σ/0) + Pint(Σ)
+⇒.
+θ
+3m3L2 cos θ sin θ =
+
+Cm −(m1
+2 + m2)gL cos θ
+ .
+θ
+Soit : .
+θ
+2m3L2 cos θ sin θ =
+
+Cm −(m1
+2 + m2)gL cos θ
+
+D’où : Cm = .
+θ
+2m3L2 cos θ sin θ + (m1
+2 + m2)gL cos θ
+= 1
+2
+.
+θ
+2m3L2 sin 2θ + (m1
+2 + m2)gL cos θ
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2021
+0 Page : 10|19
+
+Concours MP-PC
+Epreuve S.T.A.
+Partie B : M.S.I.
+Document Réponses
+Cm = 1
+2
+.
+θ
+2m3L2 sin 2θ + (m1
+2 + m2)gL cos θ
+B.13: Montrer que les extremums du couple Cm développé par le moteur sont solutions de
+l’équation : cos 2θ
+sin θ = (m1/2) + m2
+m3
+gT2
+4π2L
+dCm
+dθ
+= .
+θ
+2m3L2 cos 2θ −(m1
+2 + m2)gL sin θ
+Les extrémums du couple Cm développé par le moteur correspondent aux solutions de
+dCm
+dθ
+= 0 ce qui donne :
+.
+θ
+2m3L2 cos 2θ −(m1
+2 + m2)gL sin θ = 0
+⇒
+cos 2θ =
+(m1
+2 + m2)
+m3
+g sin θ
+.
+θ
+2L
+avec .
+θ
+2 = 4π2
+T2
+D’où :
+cos 2θ
+sin θ = (m1/2) + m2
+m3
+gT2
+4π2L
+B.14:
+Écrire les équations scalaires issues de l’application du théorème de la résultante
+dynamique pour le système (Σ) et les projeter sur ⃗x0 et ⃗y0 :
+⃗R( ¯Σ→Σ) = m1⃗Γ(G1/0) + m2⃗Γ(G2/0) + m3⃗Γ(G3/0)
+En projection sur ⃗x0 : X01 = −
+m1
+2 + m2 + m3
+
+L.
+θ
+2 cos θ
+En projection sur ⃗y0 : Y01 + Y03 −(m1 + m2 + m3)g = −(m1
+2 + m2)L.
+θ
+2 sin θ
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2021
+0 Page : 11|19
+
+Concours MP-PC
+Epreuve S.T.A.
+Partie B : M.S.I.
+Document Réponses
+B.15:
+Écrire l’équation scalaire issue de l’application du théorème de la résultante dyna-
+mique appliqué au solide (3) dans son mouvement par rapport à (0) en projection sur ⃗y0 :
+⃗R(¯3→3) = m3⃗Γ(G3/0)
+En projection sur ⃗y0 : Y03 −m3g = 0
+B.16:
+Écrire l’équation scalaire issue de l’application du théorème du moment dynamique
+en O appliqué au système (Σ) dans son mouvement par rapport à (0) :
+⃗
+MO( ¯Σ→Σ) = ⃗δO(Σ/0)
+tel que :
+⃗
+MO( ¯Σ→Σ) =
+⃗
+MO(Mot→1) +
+⃗
+MO(0→1) +
+⃗
+MO(0→3) +
+⃗
+MO(⃗g→1) +
+⃗
+MO(⃗g→2) +
+⃗
+MO(⃗g→3)
+où :
+⃗
+MO(Mot→1) = Cm⃗z0
+;
+⃗
+MO(0→1) =⃗0
+⃗
+MO(0→3) = N03⃗z0 + −→
+OC ∧Y03⃗y0 = N03⃗z0 + (µ⃗x0 −d⃗y0) ∧Y03⃗y0 = (N03 + µY03)⃗z0
+⃗
+MO(⃗g→1) = −−→
+OG1 ∧(−m1g⃗y0) = L
+2⃗x1 ∧(−m1g⃗y0) = −m1g L
+2 cos θ⃗z0
+⃗
+MO(⃗g→2) = −−→
+OG2 ∧(−m2g⃗y0) = (L⃗x1 −b⃗y0) ∧(−m2g⃗y0) = −m2gL cos θ⃗z0
+⃗
+MO(⃗g→3) = −→
+OC ∧(−m3g⃗y0) = (µ⃗x0 −d⃗y0) ∧(−m3g⃗y0) = −µm3g⃗z0
+Soit
+⃗
+MO( ¯Σ→Σ) =
+h
+Cm + N03 + µY03 −gL cos θ(m1
+2 + m2 + m3)
+i
+⃗z0
+⃗δO(1/0) = ⃗δG1(1/0) + −→
+OG1 ∧m1⃗Γ(G1/0) = L
+2⃗x1 ∧−m1
+L
+2
+.
+θ
+2⃗x1 =⃗0
+⃗δO(2/0) = ⃗δG2(2/0) + −→
+OG2 ∧m2⃗Γ(G2/0) = (L⃗x1 −b⃗y0) ∧−m2L.
+θ
+2⃗x1 = −m2bL.
+θ
+2 cos θ⃗z0
+⃗δO(3/0) = ⃗δG3(3/0) + −→
+OG3 ∧m3⃗Γ(G3/0) = (µ⃗x0 −d⃗y0) ∧−m3L.
+θ
+2 cos θ⃗x0 = −m3dL.
+θ
+2 cos θ⃗z0
+In ﬁne
+Cm + N03 + µY03 −gL cos θ(m1
+2 + m2 + m3) = −(m2b + m3d)L.
+θ
+2 cos θ
+B.17:
+Utiliser les réponses aux questions B.14, B.15 et B.16 pour déterminer les actions mé-
+caniques, engendrées par les liaisons, sur le système (Σ).
+D’après ce qui précède :
+X01 = −
+m1
+2 + m2 + m3
+
+L.
+θ
+2 cos θ
+Y01 =
+m1
+2 + m2
+
+L.
+θ
+2 sin θ −Y03 + (m1 + m2 + m3)g
+en remplaçant Y03 = m3g
+Y01 =
+m1
+2 + m2
+
+L.
+θ
+2 sin θ + (m1 + m2)g
+N03 = −(m2b + m3d)L.
+θ
+2 cos θ + gL cos θ
+m1
+2 + m2 + m3
+
+−µY03 −Cm
+avec µ = L cos θ
+N03 = −(m2b + m3d)L.
+θ
+2 cos θ + gL cos θ
+m1
+2 + m2
+
+−Cm
+En remplaçant le couple moteur par son expression :
+Cm = .
+θ
+2m3L2 sin θ cos θ + (m1
+2 + m2)gL cos θ
+et après simpliﬁcation :
+N03 = −(m2b + m3d + m3L sin θ)L.
+θ
+2 cos θ
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2021
+0 Page : 12|19
+
+Concours MP-PC
+Epreuve S.T.A.
+Partie C : Automatique
+Document Réponses
+Partie C :
+Automatique
+C.1 Étude du capteur de position angulaire
+C.1: En se référant à la ﬁgure C.1 compléter le
+code Gray (BR) de la table de vérité ci-contre,
+où G0 représente le bit du poids le plus faible.
+1
+0
+t
+1
+0
+t
+1
+0
+t
+FIGURE C.1 – Chronogramme des trois si-
+gnaux G0, G1 et G2
+Tableau 1 – Table de vérité du
+transcodeur à 3 entrées (G0, G1 et
+G2) et 3 sorties (B0, B1 et B2)
+Code (Gray ou BR)
+Code (BN)
+G2
+G1
+G0
+B2
+B1
+B0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+1
+0
+1
+1
+0
+1
+0
+0
+1
+0
+0
+1
+1
+1
+1
+0
+1
+0
+0
+1
+1
+1
+1
+0
+1
+1
+0
+1
+1
+1
+0
+1
+0
+0
+1
+1
+1
+C.2:
+Compléter les tableaux de Karnaugh des sorties B0, B1 et B2, placer les groupements
+et déterminer les équations simpliﬁées en fonction des entrées du transcodeur sous forme
+de somme de produit.
+— Sortie B0 :
+B0 = G2 ¯G1 ¯G0 + ¯G2 ¯G1G0 + G2G1G0 + ¯G2G1 ¯G0
+— Sortie B1 :
+B1 = G2 ¯G1 + ¯G2G1
+— Sortie B2 :
+B2 = G2
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2021
+0 Page : 13|19
+
+Concours MP-PC
+Epreuve S.T.A.
+Partie C : Automatique
+Document Réponses
+C.3:
+: On veut minimiser le nombre d’opérateurs logiques. Une solution consiste à utiliser
+des fonctions logiques de type « ou exclusif » à deux entrées. Cette solution nécessitera
+seulement deux opérateurs. Compléter sur la ﬁgure C.2 le logigramme relatif aux sorties du
+transcodeur étudié.
+ 
+ 
+ 
+ 
+FIGURE C.2 – Logigramme du transcodeur en « ou exclusif »
+C.2 Étude séquentielle du système
+C.4: Compléter les Grafcet de point de vue commande des ﬁgures C.3 et C.4
+1
+Dcy · (conditions initiales)
+M10
+M20
+M30
+M40
+M50
+M60
+M70
+M80
+1
+2
+KM
+¯P.Pr
+P.Pr
+FIGURE C.3 – Grafcet de point de vue commande du système d’assemblage des rotules
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2021
+0 Page : 14|19
+
+Concours MP-PC
+Epreuve S.T.A.
+Partie C : Automatique
+Document Réponses
+N. B. : La normalisation de la commande d’un actionneur bistable Vn exige pour :
+— l’activation,
+Vn := 1,
+— la désactivation, Vn := 0.
+E50
+51
+52
+53
+S50
+V5 := 1
+L51
+KM5
+2s/X52
+V5 := 0
+L50
+KM5
+T5
+1
+E60
+61
+62
+63
+64
+65
+66
+S60
+V61 := 1
+L611
+V62 := 0
+L620
+KM61
+n1
+KM62
+n2
+V62 := 1
+L621
+V61 := 0
+L610
+KA
+KA
+KA
+KA
+KA
+1
+FIGURE C.4 – Grafcet des macro-étapes M50 et M60 relatifs au fonctionnement des postes 5 et 6
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2021
+0 Page : 15|19
+
+Concours MP-PC
+Epreuve S.T.A.
+Partie C : Automatique
+Document Réponses
+Asservissement de vitesse du plateau
+A partir du schéma fonctionnel de l’asservissement de vitesse donné par la ﬁgure 10 et en
+appliquant le théorème de superposition, la sortie du système s’écrit sous la forme :
+Ωch(p) = H1(p)Ωr(p) −H2(p)Cr(p)
+avec H1(p) = Ωch(p)
+Ωr(p)
+
+Cr(p)=0
+et H2(p) = Ωch(p)
+Cr(p)
+
+Ωr(p)=0
+C.5: Pour R(p) = K, déterminer l’expression de la fonction de transfert H1(p).
+H1(p) = Ωch(p)
+Ωr(p)
+
+Cr(p)=0
+avec R(p) = K
+H1(p) =
+K ·
+10
+10 + p ·
+0.2
+p + 1
+1 + K ·
+10
+10 + p ·
+0.2
+p + 1
+=
+2K
+2K + (10 + p).(1 + p)
+H1(p) =
+2K
+2K + 10 + 11p + p2
+C.6: On considère Cr(p) nul et R(p) = K = 1, mettre H1(p) sous la forme canonique
+suivante :
+H1(p) =
+Km
+1 + 2ξp
+ω0
++ p2
+ω2
+0
+H1 =
+2K
+2K + 10 + 11p + p2 =
+2
+12 + 11p + p2
+=
+1/6
+1 + (11/12)p + (1/12)p2
+H1(p) =
+0.166
+1 + (0.916)p + (0.0833)p2
+C.7: En déduire les paramètres Km, ω0 et ξ
+Km = 1/6 = 0.166
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2021
+0 Page : 16|19
+
+Concours MP-PC
+Epreuve S.T.A.
+Partie C : Automatique
+Document Réponses
+ω2
+0 = 12 ⇒= ω0 =
+√
+12
+2ξ
+ω0
+= 11
+12 ⇒ξ = 11ω0
+24
+ω0 = 2
+√
+3 ≈3.464 rad.s−1
+ξ = 11
+√
+3
+12
+≈1.587
+C.8: Que peut-on dire du premier dépassement "D1"? Justiﬁer.
+Dépassement nul (D1 = 0)
+car
+ξ > 1 ou système hyper-amorti ou apériodique.
+C.9: A partir des ﬁgures 10 et 11, donner les expressions des fonctions de transfert en Boucle
+ouverte T1(p) et T2(p) respectivement des asservissements de vitesse et de position (avec
+R(p) = K et Cr(p) = 0).
+T1(p) =
+2K
+(10 + p)(p + 1)
+T2(p) =
+2K
+p(10 + p)(p + 1)
+C.10: A partir des courbes de la ﬁgure C.5, tracées pour R(p) = 1, identiﬁer les diagrammes
+des gains ||T1(jω)||dB et ||T2(jω)||dB ainsi que ceux des arguments ϕ1(jω) et ϕ2(jω).
+FIGURE C.5 – Diagrammes de bode
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2021
+0 Page : 17|19
+
+Concours MP-PC
+Epreuve S.T.A.
+Partie C : Automatique
+Document Réponses
+C.11: Déterminer la bande passante de l’asservissement de vitesse.
+à partir de la courbe de Bode en boucle ouverte la bande à 0dB est indéﬁnie. Bp n’est pas déﬁnie
+C.12: Que devient cette bande passante pour l’asservissement de position?
+à partir de la courbe de Bode en boucle ouverte la bande à 0dB est Bp =]0, 0.2]rad.s−1
+C.13: Déterminer les marges de gain et de phase relatives aux fonctions T1(jω) et T2(jω).
+MG1dB = ∞
+MG2dB = 34.8
+Mϕ1(◦) = inde f inie
+Mϕ2(◦) = 75
+C.14: Conclure sur la stabilité de chaque asservissement.
+Les deux systèmes sont stables.
+C.15: Pour l’asservissement de position, et en exploitant les diagrammes de Bode de la ﬁ-
+gure C.5, déterminer la valeur du gain critique de stabilité KC ?
+soit ω1 telle que ϕ2(ω1) = −180◦.
+Pour cette même pulsation ω1 la courbe de gain nous indique
+une marge de gain critique de 34.8 dB
+il vient alors : ∥T2(jω1)∥dB + 20 log Kc = 0 dB
+d’où : Kc = 10
+34.8
+20
+KC = 55
+C.16: Pour l’asservissement de position, déterminer la valeur de K qui garanti une marge
+de phase Mϕ = 60◦.
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2021
+0 Page : 18|19
+
+Concours MP-PC
+Epreuve S.T.A.
+Partie C : Automatique
+Document Réponses
+Pour Mϕ = 60◦⇒Arg(φ2(ω2)) = −120◦⇒ω2 ≈0.51rad.s−1
+∥T2(jω2)∥dB + 20 log K = 0 dB
+avec
+∥T2(jω2)∥dB = 9 dB
+K = 10
+9
+20 = 2.818
+K = 2.818
+C.17: Déterminer l’erreur de position unitaire de l’asservissement de vitesse pour K = 1.
+Système de classe α = 0 ⇒ε1p(∞) =
+1
+1 + GainFTBO
+=
+1
+1 + 0.2
+ε1p(∞) = 1
+1.2 = 0, 833
+C.18: Déterminer l’erreur de position unitaire de l’asservissement de position pour K = 1.
+Système de classe α = 1 ⇒ε2p(∞) = 0
+ε2p(∞) = 0
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2021
+0 Page : 19|19

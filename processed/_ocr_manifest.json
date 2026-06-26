@@ -1,0 +1,254 @@
+[
+ {
+  "filepath": "MP/2000/2000.MP.Maths I.eno.pdf",
+  "chars": 2944,
+  "seconds": 54.0,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2001/2001.MP.Physique.eno.pdf",
+  "chars": 5835,
+  "seconds": 57.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2000/2000.MP.Chimie.eno.pdf",
+  "chars": 3218,
+  "seconds": 36.2,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2006/2006.MP.Maths I.eno.pdf",
+  "chars": 2504,
+  "seconds": 47.6,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2010/2010.MP.Physique.corr.pdf",
+  "chars": 1014,
+  "seconds": 58.6,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2008/2008.MP.Chimie.corr.pdf",
+  "chars": 3714,
+  "seconds": 52.2,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2019/2019.MP.Maths.eno.pdf",
+  "chars": 3802,
+  "seconds": 73.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2014/2014.MP.Maths I.eno.pdf",
+  "chars": 3179,
+  "seconds": 51.1,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2016/2016.MP.Physique.corr.pdf",
+  "chars": 3300,
+  "seconds": 51.1,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2000/2000.PC.Maths.eno.pdf",
+  "chars": 2508,
+  "seconds": 48.5,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2002/2002.PC.Physique.corr.pdf",
+  "chars": 1873,
+  "seconds": 69.4,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2004/2004.PC.Chimie.eno.pdf",
+  "chars": 4522,
+  "seconds": 55.7,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2007/2007.PC.Maths.eno.pdf",
+  "chars": 3352,
+  "seconds": 52.6,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2006/2006.PC.Physique.eno.pdf",
+  "chars": 5445,
+  "seconds": 58.5,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2008/2008.PC.Chimie.eno.pdf",
+  "chars": 5300,
+  "seconds": 57.4,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2015/2015.PC.Maths.eno.pdf",
+  "chars": 4024,
+  "seconds": 54.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2017/2017.PC.Physique.corr.pdf",
+  "chars": 4785,
+  "seconds": 63.1,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2013/2013.PC.Chimie.corr.pdf",
+  "chars": 2345,
+  "seconds": 47.0,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "BG/2000/2000.BG.Maths.eno.pdf",
+  "chars": 3278,
+  "seconds": 53.1,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "BG/2000/2000.BG.Physique.eno.pdf",
+  "chars": 6639,
+  "seconds": 66.0,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "BG/2004/2004.BG.Chimie.eno.pdf",
+  "chars": 5435,
+  "seconds": 60.4,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "BG/2007/2007.BG.Maths.eno.pdf",
+  "chars": 3353,
+  "seconds": 54.8,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "BG/2006/2006.BG.Physique.eno.pdf",
+  "chars": 4455,
+  "seconds": 54.8,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "BG/2008/2008.BG.Chimie.eno.pdf",
+  "chars": 5887,
+  "seconds": 60.7,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "BG/2019/2019.BG.Mathsmatique.eno.pdf",
+  "chars": 3943,
+  "seconds": 58.4,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "BG/2013/2013.BG.Physique.eno.pdf",
+  "chars": 5350,
+  "seconds": 66.8,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "BG/2018/2018.BG.Chimie.corr.pdf",
+  "chars": 1111,
+  "seconds": 45.2,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2001/2001.T.Maths.eno.pdf",
+  "chars": 2387,
+  "seconds": 49.0,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2002/2002.T.Physique.corr.pdf",
+  "chars": 3696,
+  "seconds": 57.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2000/2000.T.Chimie.eno.pdf",
+  "chars": 3276,
+  "seconds": 39.2,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2006/2006.T.Maths.eno.pdf",
+  "chars": 3421,
+  "seconds": 56.8,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2007/2007.T.Physique.corr.pdf",
+  "chars": 4014,
+  "seconds": 60.6,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2006/2006.T.Chimie.eno.pdf",
+  "chars": 4345,
+  "seconds": 59.8,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2015/2015.T.Maths.eno.pdf",
+  "chars": 4006,
+  "seconds": 57.1,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2017/2017.T.Physique.corr.pdf",
+  "chars": 3972,
+  "seconds": 62.0,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2013/2013.T.Chimie.eno.pdf",
+  "chars": 3273,
+  "seconds": 51.6,
+  "method": "easyocr",
+  "ok": true
+ }
+]

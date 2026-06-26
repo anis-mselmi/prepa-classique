@@ -1,0 +1,61 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de PEnseignement Supérieur
+Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs Session Juin 2007
+Concours   Physique Chimie
+Epreuve de Mathématiques
+Durée : 4 H
+Date : 04 Juin 2007
+Heure : 8 H
+Nb pages : 4
+Barème :
+PI: 4.5 pts.
+P I: 4.5 pts .
+P III : 6 pts.
+P IV : 5 pts.
+Une grande importance sera attachée à la rigueur du raisonnement; à la clarté et au soin de la présentation. Lusage des calculatrices n'est pas autorisé. Il est rappelé que tout résultat énoncé dans le texte peut être utilisé pour traiter la suite, même s'il n'a pu être démontré.
+Partie I
+On note I a,b = (I+x) -1 (1 - x) b-1dx , où a , b € IR . 41
+Ll.
+Discuter; suivant les valeurs de a et b , 1existence de I a,6
+1.2.
+Montrer que Ia,6
+2 9+6-1 B(a,b) , où B est [application définie pour tout a , b e R+ par  B(a,b) = Jo ta-'(1 -t) b-1 dt. Soit a b € IR + Wasywtu Comparer B (a,b) et B(b,a) 4 @umrque Fr6s Montrer que B(a+l,b) + B(a,b+1) 2 B(a,b) u8s Stax"
+13.
+13.1.
+1.3.2.
+1.3.3.
+Montrer que bB(a+1,b) - a B(a,b+1) = 0 . 2 Montrer que B(a+1,b) 2 B(a,b ) a + b 4a b Montrer que I a+1 ,6+1 Ia,b - (a + b ) (a+b+l ) En déduire I n+l. 2-1 pour tout   entier naturel n
+13.4.
+135.
+[.3.6
+
+--- page 2 ---
+I4
+On considère la fonction T définie sur IR + par T ( a ) =
+t '-le =[ dt 
+141.
+Montrer que T ( a ) = lim n B(a,n+1) , pour tout a € IR n -+0
+1.4.2. Montrer que T ( b ) = lim b n B(a+n+1,b) , pour tout a , b € RR+ n-+0 F(a) T(b) 14.3. En déduire que pour tout a , b eR+ B(a,b ) = I(a+b) 144 En déduire que F 2)-/z
+Partie II
+On suppose que a € Jo,1 [ F+o du [ll. Montrer que   B(a,1-a) = Jo 1-a u (I+u)
+du Il.2. Montrer que B(a,1-a) = J(a) + J ( 1 - a) où J (a ) = fo u 1-a (I+u)
+Il.3. A laide dun développement de exprimer J ( a ) comme somme I+u dune série convergente. 1 00 (-1)" Il.4. Montrer que   B(a,1-a) = + 2a a 2 n=1 a ~0 2 I.2. On considère la fonction <2' 2r-périodique telle que fa (t) = cos (at) , t e [-T;r ]
+IL2.1. Déterminer la série de Fourier de  fa et étudier sa convergence. I.2.2. En déduire que T 1 (-1)" 1 0 + 2a et Tcotg ( ra ) = + 2a sin ( ra ) a a2 _n2 2 a2 _n2 n=l n=l
+T
+[.2.3. Montrer que Ia, 1-a sin ( ra ) O IL3. On pose Y(a) = Log (1 _ 23) 1=l n IL3.1. Montrer que Y est de classe cl sur ]o,1 [ et calculer Y '( a ) IL3.2. En déduire que   Y(a ) Log (a Ia,1-a
+Dans la suite, on désigne par IR [X] Fespace vectoriel des polynômes à coefficients réels et par R n [X] le sous-espace vectoriel des polynômes de degré au plus n neIN On note E 1ensemble des fonctions continues sur  [-1,1] à valeurs dans RR On munit E 1 + t du produit scalaire défini pour tout fet g de E par (f/g)= [: f (t)g(t )dt_ a étant =t un réel compris strictement entre -l et 1 On note la norme associée.
+
+--- page 3 ---
+PARTIE H
+On note $ 1endomorphisme de IR [X] défini pour tout élément P de IR [X] par 9(P) = (x? -1 )P" + 2(X-œ ) P' Soit n un entier naturel.
+IIL1.1. Montrer que @ induit par restriction un endomorphisme de IR n [X] qu' on notera Qn. IIL1.2. Ecrire la matrice de @ n dans la base canonique ( 1 , X , . X" ) de IR n [X] et déterminer les valeurs propres de @n.
+IIL.1.3. Prouver que @ n est diagonalisable et qu'il existe une unique base de vecteurs propres ( Po , P1 , Pn ) de @ n telle que pour tout k =0,1,n Pk est de degré k et a pour coefficient dominant 1
+IIL1.4. Calculer Po et P1.
+IILL.5. Pour n2 2 et k = 2,- ,n , on note a k le coefficient de Xk-1 dans Pk- Montrer que ak ==0 (~I)n!(1-x On utilisera sans démonstration le fait que P = 4'[1+x)" (1-x)"-] (2n)! 1+x dx "
+III.2.1. En appliquant la formule de Leibnitz; montrer que pour tout k = 0 , 1 n-1 dk +x)n+a '(1-x) -c] s'annule en 1 et en =l dxk III2.2. A laide de n intégrations par parties; montrer que pour tout polynôme Q de IR [X] n! (P /Q) = [(1+x) + (1 -x)"- Q6(x) dx (2n)! IIL2.3. En déduire que la famille ( Pk ) keN est orthogonale. (n!) III.2.4. Montrer que P I (2n)! n+a +1,n =a+1 IIL.3.1. Montrer que pour n non nul, Pn+2 -XPn+1 est orthogonal à IRn-1[X] IIL3.2. En déduire qu'il existe un réel Yn+l tel que Pn+2 =XP +1 =1n+1 P
+Pa+l
+IL3.3. Montrer que Yn+1
+P
+(n +a
+III.3.4. Montrer que Pn+2 = XPn+1
++I)(n_a+I)P (2n +1)(2n +3)  (2n)! II.+. Pour à = 0, on note L , = P 2 ' ( n!) 2n +3 n +1 III.4.1. Montrer que Lo = 1, L1 =X et L,+2 = XLa+1 L n+2 n + 2 2  III.4.2. Montrer que  |L.l = 2n + 1

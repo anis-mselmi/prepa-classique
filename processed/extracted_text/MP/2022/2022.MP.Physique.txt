@@ -1,0 +1,5652 @@
+ 
+Concours Mathématiques et Physique - Session Juin 2022 Épreuve de Physique 
+Page 1/8 
+ 
+REPUBLIQUE TUNISIENNE 
+Ministère de l’Enseignement Supérieur 
+et de la Recherche Scientifique 
+ 
+Concours Nationaux d’Entrée aux 
+Cycles de Formation d’Ingénieurs  
+Session 2022 
+ 
+ 
+ 
+المناظرات
+ 
+الوطنية
+ 
+للدخول
+ 
+إلى
+ 
+مراحل
+ 
+تكوين
+ 
+المهندسين
+ 
+دورة
+ 2
+202
+ 
+ 
+Concours Mathématiques et Physique 
+Epreuve de Physique 
+Date : 06 juin 2022 
+Heure : 8H 
+Durée : 4H 
+Nombre de pages : 8 
+Barème : 
+ Problème 1 : 13 pts 
+Problème 2 : 7 pts 
+ 
+L’usage d’une calculatrice non programmable est autorisé. 
+Tout résultat fourni dans l’énoncé peut être admis et utilisé par la suite, même s’il n’a pas été démontré par les 
+candidats. 
+Si, au cours de l’épreuve, un candidat repère ce qui lui semble être une erreur d’énoncé, il le signale sur sa copie 
+et poursuit sa composition en expliquant les raisons des initiatives qu’il est amené à prendre. 
+L’épreuve comporte deux problèmes indépendants. 
+Données : 
+• Rayon du soleil : 
+695 500
+s
+R
+km
+=
+ 
+• Distance soleil – point de Lagrange L2 : 
+151 500 000
+d
+km
+=
+ 
+• Température de la surface du soleil : 
+5800
+sT
+K
+=
+ 
+• Constante de Stefan : 
+8
+2
+4
+5,67.10 Wm K
+
+−
+−
+−
+=
+ 
+• 
+Célérité de la lumière dans le vide : 
+8
+1
+3.10
+.
+c
+m s−
+=
+ 
+Problème 1 : Ondes et cavités 
+Partie I : Réflexion normale sur un conducteur parfait – Cavité résonante 
+Une onde plane progressive monochromatique (OPPM) de pulsation ω, 
+polarisée rectilignement, se propage dans le vide dans le sens des x 
+croissants. Le champ électrique associé, s’écrit en notation complexe : 
+(
+)
+(
+)
+0
+,
+exp
+i
+y
+E
+x t
+E
+j
+t
+kx u
+
+=
+−
+ ; k
+c
+
+=
+  (
+)
+2
+1
+j = −
+ 
+Elle arrive en x = 0, sur la surface plane d’un miroir métallique, supposé 
+un conducteur parfait et donne naissance à une onde réfléchie (Figure 1) :  
+(
+)
+(
+)
+0
+,
+exp
+r
+r
+y
+E
+x t
+E
+j
+t
+kx u
+
+=
++
+ 
+On note
+0
+0
+r
+E
+rE
+=
+, où r désigne le coefficient de réflexion en amplitude. 
+Le conducteur est fixe dans le référentiel terrestre 
+(
+)
+, , ,
+R O x y z  supposé 
+galiléen. 
+1. Définir un conducteur parfait. Justifier que le champ électromagnétique à l’intérieur est nul. 
+y 
+O 
+vide 
+Figure 1 
+Onde incidente 
+Onde réfléchie 
+Conducteur parfait 
+x 
+
+ 
+Concours Mathématiques et Physique - Session Juin 2022 Épreuve de Physique 
+Page 2/8 
+On désigne par σ la charge surfacique et 
+sj le courant surfacique pouvant exister sur la surface 
+0
+x =
+.  
+On rappelle que les relations de passage vérifiées par le champ électromagnétique à la traversée de 
+l’interface séparant deux milieux notés 1 et 2 s’écrivent : 
+2
+1
+12
+0
+E
+E
+n
+
+
+−
+=
+ et  
+2
+1
+0
+12
+s
+B
+B
+j
+n
+
+−
+=
+
+ 
+où 
+12
+n  désigne un vecteur unitaire normal à la surface de séparation dirigé de 1 vers 2. 
+2. Montrer que la densité de charge surfacique  est nulle. Justifier la continuité du champ électrique à 
+la traversée de la surface 
+0
+x =
+. En déduire le coefficient de réflexion r. 
+Onde stationnaire 
+3. On s’intéresse à la superposition de l’onde incidente et de l’onde réfléchie dans le demi-espace
+0.
+x 
+ 
+3.a. Déterminer le champ électromagnétique résultant 
+(
+)
+(
+)
+(
+)
+,
+,
+,
+E x t
+B x t
+ dans la région 
+0
+x 
+ . 
+3.b. Justifier que ce champ est celui d’une onde stationnaire. 
+3.c. Déterminer en fonction de la longueur d’onde λ les positions des plans nodaux pour le champ 
+électrique E . 
+3.d. Définir et donner le sens physique du vecteur de Poynting . Calculer sa moyenne temporelle dans 
+le cas de l’onde résultante. Commenter. 
+4. Expliquer qualitativement l’apparition d’un courant surfacique 
+sj  sur la surface 
+0
+x =
+ du conducteur 
+tout en justifiant sa direction. Déterminer l’expression de 
+sj . 
+Force et Pression électromagnétique 
+5. On montre que le champ électromagnétique exerce sur une surface dS du miroir une force dF  dont 
+l’expression est donnée par :
+(
+)
+1
+0,
+2
+s
+dF
+j
+B x
+t dS
+=
+
+=
+. 
+5.a. Expliciter dF , en déduire qu’une pression P s’exerce sur le miroir dont on déterminera la valeur 
+moyenne P  appelée pression de radiation. Exprimer P  en fonction de la densité volumique moyenne 
+d’énergie électromagnétique 
+iu
+ de l’onde incidente.  
+5.b. Calculer P  dans le cas d’un laser, supposée une OPPM, de puissance moyenne 
+3mW
+=
+P
+ et dont 
+la section droite est 
+2
+1
+s
+mm
+=
+.  
+Cavité résonante 
+6. Un deuxième conducteur plan parfait est placé de sorte que sa surface 
+réfléchissante située en x
+L
+= −, soit parallèle à celle du conducteur précédent 
+située en 
+0
+x =
+ (Figure 2).  
+6.a. Pour L fixée, quelles sont les conditions de quantification, faisant 
+intervenir un entier n, que doivent satisfaire k et ω pour qu’une cavité d’onde 
+stationnaire soit ainsi constituée ? On parlera de cavité résonante. 
+6.b. Ecrire dans ce cas, l’expression du champ électrique 
+(
+)
+,
+n
+E
+E
+x t
+=
+ dans la 
+cavité résonante. 
+6.c.  Représenter en fonction de x, l’allure de 
+(
+)
+,
+n
+E
+x t  à 
+2
+n
+t
+
+
+=
+ et à 
+3
+2
+n
+t
+
+
+=
+, pour n = 1, 2 et 3. 
+ 
+x 
+y 
+O 
+Figure 2 
+ 
+-L 
+
+ 
+Concours Mathématiques et Physique - Session Juin 2022 Épreuve de Physique 
+Page 3/8 
+Partie II : Radar à effet Doppler  
+Un radar de contrôle routier est un instrument de mesure de la vitesse des véhicules circulant sur la voie 
+publique, à l'aide d'ondes électromagnétiques de longueurs d’onde de l'ordre du centimètre. Il est utilisé 
+afin d'identifier les contrevenants aux limites de vitesse. On se propose d’étudier son principe de 
+fonctionnement. 
+Le radar, fixe dans le référentiel galiléen 
+(
+)
+, , ,
+R O x y z , émet des ondes électromagnétiques qui se 
+réfléchissent sur le véhicule. Ces ondes sont captées par un récepteur incorporé dans le radar. On 
+modélise le véhicule cible par un conducteur parfait perpendiculaire à l’axe (Ox) en translation rectiligne 
+supposée uniforme dans le sens des x croissants. 
+On note V  la vitesse du référentiel (
+)'
+R
+ lié à la 
+cible par rapport au référentiel terrestre ( )
+R  
+(Figure 3). À l’instant t, la surface réfléchissante 
+centrée sur O’ est repérée par rapport à ( )
+R , par 
+'
+cible
+x
+OO
+Vt
+=
+=
+. 
+ 
+L’émetteur situé en O, contenu dans le radar, émet une onde supposée plane progressive et 
+monochromatique de fréquence 
+if . Cette onde se réfléchit sur la cible mobile et revient vers le radar. La 
+fréquence 
+rf  de l’onde réfléchie est différente de celle de l’onde incidente : c’est l’effet Doppler. 
+On se propose de déterminer la relation entre la vitesse V  de la cible et la différence de fréquences des 
+deux ondes.  
+On note (
+)
+,
+E B  le champ électromagnétique dans ( )
+R , et (
+)
+',
+'
+E B
+ le champ dans (
+)'
+R
+.  
+7.a. Justifier que (
+)'
+R
+ est galiléen. 
+7.b. Ecrire l’expression de la force de Lorentz dans ( )
+R  puis dans (
+)'
+R
+ subie par une particule de charge 
+q animée d’une vitesse v  dans le référentiel ( )
+R  et 'v  dans le référentiel (
+)'
+R
+. 
+On rappelle que d’après la loi de composition des vitesses, on a :
+'
+v
+v
+V
+=
++
+.  
+En utilisant l’invariance de la force par changement de référentiels, montrer que les champs 
+'
+E  et 
+'
+B  se 
+déduisent des champs  E  et B  par les relations : 
+'
+E
+E
+V
+B
+=
++
+
+ et 
+'
+B
+B
+=
+. 
+8. Dans le référentiel ( )
+R  les champs électriques des ondes incidente et réfléchie s’écrivent 
+respectivement :  
+(
+)
+0
+,
+cos 2
+i
+i
+y
+x
+E x t
+E
+f
+t
+u
+c
+
+
+
+
+
+=
+−
+
+
+
+
+
+
+
+
+ et 
+(
+)
+0
+,
+cos 2
+r
+r
+y
+x
+E
+x t
+rE
+f
+t
+u
+c
+
+
+
+
+
+=
++
+
+
+
+
+
+
+
+
+ 
+En déduire les expressions des champs électriques 
+(
+)
+'
+,
+iE
+x t  et 
+(
+)
+'
+,
+r
+E
+x t . 
+9. On rappelle que le champ électromagnétique à l’intérieur d’un conducteur parfait est nul. 
+On supposera que dans le référentiel (
+)'
+R
+ la composante tangentielle du champ électrique est continue 
+à la traversée de l’interface air/cible. 
+9.a. Exprimer 
+(
+)
+'
+,
+i
+cible
+E
+x
+t  et 
+(
+)
+'
+,
+r
+cible
+E
+x
+t . En déduire la fréquence 
+rf   et le coefficient de réflexion r en 
+fonction de 
+if , V et c. 
+x 
+O’ 
+(R’) 
+(R) 
+O 
+y 
+Figure 3 
+Radar 
+fixe  
+Véhicule mobile (cible) 
+Onde incidente 
+Onde réfléchie 
+ 
+
+ 
+Concours Mathématiques et Physique - Session Juin 2022 Épreuve de Physique 
+Page 4/8 
+9.b. Comme V
+c
+
+ et en faisant un développement limité au premier ordre en V
+c , montrer que la 
+variation de fréquence s’écrit 
+2
+i
+r
+i
+V
+f
+f
+f
+c
+−
+. 
+9.c. Exprimer au premier ordre en V
+c , le coefficient de réflexion r et retrouver sa valeur dans le cas où la 
+surface réfléchissante est immobile. 
+10. Quelle est la vitesse du véhicule mesurée par le radar sachant qu’il détecte une variation de fréquence 
+égale à 4kHz  dans le cas où le signal incident est de fréquence 24GHz  ? 
+11. Calculer l’incertitude absolue 
+V
+
+ sur la vitesse mesurée sachant que l’incertitude relative sur la 
+différence de fréquence détectée est de 5% pour une limitation de vitesse de 110
+/
+km h .  
+Cette incertitude est, à l’avantage du conducteur, décomptée de la vitesse enregistrée. Le conducteur qui 
+roule à 118
+/
+km h  est-t-il en infraction ? 
+12. L’estimation de la vitesse du véhicule est réalisée au moyen de la transformée de Fourier rapide 
+appliquée à un échantillonnage du signal sinusoïdal de fréquence 
+D
+i
+r
+f
+f
+f
+=
+−
+. 
+Sachant que la gamme des vitesses mesurables par le radar est 
+
+10
+/ , 180
+/
+km h
+km h , donner la valeur 
+minimale de la fréquence d'échantillonnage 
+,min
+éf
+ nécessaire à assurer toute la gamme des vitesses 
+mesurables. On prendra 
+24
+if
+GHz
+=
+. 
+Partie III : Analogie avec la corde vibrante 
+On assimile la corde d’une guitare à une corde inextensible sans raideur 
+de masse linéique 
+1
+3,2mg cm
+
+−
+=
+, tendue par une tension de module 
+0T . Au repos, elle se confond avec l’axe Ox . La corde de longueur L 
+est attachée aux points d’abscisses x
+L
+= − et 
+0
+x =
+ (Figure 4).  
+On prendra 
+0
+105
+T
+N
+=
+ et 
+65
+L
+cm
+=
+. 
+On étudie les vibrations de la corde dans le plan (
+)
+xOy . Les petits mouvements transversaux sont selon 
+Oy, de part et d’autre de la position 
+0
+y =
+. On cherche à exploiter l’analogie entre l’élongation (
+)
+,
+y x t  
+de la corde vibrante fixée à ses deux extrémités et le champ électrique 
+(
+)
+,
+E x t  dans la cavité résonante.  
+13. Quelles sont les conditions aux limites vérifiées par (
+)
+,
+y x t  ?  
+Pour la suite, on admet que (
+)
+,
+y x t  vérifie l’équation aux dérivées partielles suivante :  
+(
+)
+(
+)
+2
+2
+2
+2
+0
+,
+,
+0
+y x t
+y x t
+x
+T
+t
+
+
+
+−
+=
+
+
+ 
+14. De quel type d’équation s’agit-t-il ? Quelle hypothèse énergétique conduit à ce type d’équation ? 
+15. Analyser la dimension physique du terme 
+0T
+. Que représente ce terme vis-à-vis de la propagation 
+d’une onde le long de la corde ? 
+16. Quel est le terme correspondant à 
+0T
+ pour une OPPM dans le vide ?  
+17. Calculer la vitesse de propagation v de l’onde le long de la corde.  
+- L
+0
+x
+y
+Figure 4 
+
+ 
+Concours Mathématiques et Physique - Session Juin 2022 Épreuve de Physique 
+Page 5/8 
+18. Les conditions aux limites imposent une quantification de la pulsation 
+1
+n
+n
+
+
+=
+ pour n = 1, 2 …etc. 
+Par analogie avec l’onde électromagnétique dans la cavité résonante, expliciter 
+1
+ en fonction de v et L. 
+En déduire la valeur de la fréquence 
+1f  correspondante. 
+19. Pour l’onde de pulsation 
+n
+, l’élongation s’écrit : 
+(
+)
+(
+)
+0
+1
+,
+sin
+sin
+n
+n
+y
+x t
+Y
+n
+x
+n
+t
+L
+
+
+
+
+=
+
+
+
+
+ 
+où 
+0n
+Y  représente l’amplitude de cette onde. 
+Montrer que cette expression est compatible avec l’équation de propagation et les conditions aux limites. 
+Partie IV : États liés d’une particule dans un puits de potentiel  
+On se propose d’étudier le cas d’une particule quantique de 
+masse m dans un puits de potentiel fini symétrique. Le potentiel 
+est pris égal à zéro à l’intérieur du puits de largeur L et égal à 
+0
+V  à l'extérieur (Figure 5). L’état stationnaire de la particule 
+d’énergie 
+0
+E
+V
+
+ 
+est 
+décrit 
+par 
+la 
+fonction 
+d'onde 
+(
+)
+( )
+,
+exp
+E
+x t
+x
+i
+t
+
+
+
+
+=
+−
+
+
+
+
+, 
+solution 
+de 
+l’équation 
+de 
+Schrödinger : 
+(
+)
+( )
+(
+)
+(
+)
+2
+2
+2
+,
+,
+,
+2
+x t
+x t
+V x
+x t
+i
+m
+x
+t
+
+
+−
++
+
+=
+
+
+, où 
+2
+h
+
+=
+ est la constante de Planck 
+réduite. 
+On posera : 
+(
+)
+0
+1
+2
+q
+m V
+E
+=
+−
+; 
+1
+2
+k
+mE
+=
+, et on désignera par 
+( )
+1 x
+
+, 
+( )
+2 x
+
+ et 
+( )
+3 x
+
+ les fonctions 
+d’onde, respectivement dans les régions 
+2
+L
+x −
+, 
+2
+2
+L
+L
+x
+−
+
+
+ et 
+2
+L
+x 
+. 
+20. Décrire le comportement dynamique d’une particule classique ayant l’énergie 
+0
+E
+V
+
+ en précisant la 
+différence avec celui de la particule quantique étudiée. 
+21. Écrire l'équation de Schrödinger indépendante du temps dans les différentes régions. Déduire les 
+solutions physiquement acceptables en justifiant votre réponse.  
+Le potentiel 
+( )
+V x  est une fonction paire. Par conséquent, les solutions physiques sont symétriques 
+( )
+s x
+
+ ou antisymétriques 
+( )
+a x
+
+. Elles s'écrivent : 
+( )
+( )
+( )
+(
+)
+( )
+1
+2
+3
+cos
+qx
+s
+s
+s
+qx
+s
+x
+Ae
+x
+x
+B
+kx
+x
+Ae
+
+
+
+
+−
+
+=
+
+=
+
+
+=
+
+  et  
+( )
+( )
+( )
+(
+)
+( )
+1
+2
+3
+sin
+qx
+a
+a
+a
+qx
+a
+x
+Ae
+x
+x
+C
+kx
+x
+Ae
+
+
+
+
+−
+
+=
+
+=
+
+
+= −
+
+  
+A, B et C étant des constantes d’intégration. 
+22. Écrire les équations de raccordement en 
+2
+L
+x =
+. En déduire les conditions de quantification de 
+l'énergie selon la parité de la fonction d’onde. 
+23. On se place dans le cas où 
+0
+E
+V
+
+. 
+23.a. Que deviennent les conditions de quantification ? Montrer alors qu'on retrouve les énergies du puits 
+infini 
+2
+1
+n
+E
+n E
+=
+ pour n = 1, 2 …etc., tout en exprimant 
+1
+E  en fonction de h, m et L. 
+V(x) 
+𝐸< 𝑉0 
+0 
+𝐿/2 
+−𝐿/2 
+V0 
+x 
+1 
+2 
+3 
+Figure 5 
+
+ 
+Concours Mathématiques et Physique - Session Juin 2022 Épreuve de Physique 
+Page 6/8 
+23.b. En écrivant dans ce cas les solutions 
+( )
+s x
+
+ et 
+( )
+a x
+
+ dans les différentes régions, identifier 
+l’analogie avec la cavité électromagnétique et avec la corde vibrante. 
+23.c. Tracer l'allure de la fonction d'onde et de la densité de probabilité de présence dans les cas :  
+n = 1, 2 et 3. 
+23.d. Donner un exemple de système physique qui peut être modélisé par un puits infini. 
+Problème 2 : Étude du Bouclier thermique du télescope spatial James-Webb 
+Développé par la NASA en coopération avec l'agence spatiale européenne (ESA) et de 
+l'agence spatiale canadienne (ASC), James-Webb est le plus grand et le plus onéreux 
+télescope jamais lancé dans l’espace (Figure 6). Le lancement du télescope spatial 
+James-Webb (JWST) a eu lieu le 25 décembre 2021.  
+A 1,5 million de kilomètres de la terre dans le sens antisolaire, le télescope James-
+Webb a atteint son orbite finale le 24 janvier 2022, au point de Lagrange L2, depuis 
+laquelle il pourra observer les premières galaxies de l’univers. Le télescope est destiné 
+à faire des observations du cosmos dans l’infrarouge proche et une partie du domaine 
+visible (longueurs d’onde allant de 0,6 à 28 µm). 
+Les instruments scientifiques du télescope ne peuvent fonctionner qu’à de très 
+basses températures, d’où la nécessité d’un bouclier thermique qui évite les 
+perturbations par les radiations solaires. 
+Dans cette première partie du problème, nous supposons que le bouclier thermique 
+est constitué par une seule couche homogène parallélépipédique d’un superisolant 
+de faible conductivité thermique , de section S, d’épaisseur e, de masse volumique 
+ et de capacité thermique massique C (Figure 7).  
+La température du matériau ne dépend que de la seule variable d’espace x et de t. 
+On néglige les transferts thermiques à travers les parois parallèles à l’axe (Ox). 
+1. Énoncer la loi de Fourier en précisant les significations et les unités des 
+différentes grandeurs. 
+2. À l’aide d’un bilan d’énergie sur une tranche comprise entre les abscisses x et x
+dx
++
+, établir l’équation 
+de la conduction thermique régissant la variation de la température 
+(
+)
+,
+T x t  à l’intérieur de la couche 
+isolante. 
+On se place dans la suite du problème en régime stationnaire. 
+3. Donner la loi de variation de la température ( )
+T x  en supposant que les deux faces de la couche sont 
+maintenues aux températures ( )
+1
+0
+T
+T
+=
+ et ( )
+1
+'.
+T e
+T
+=
+ En déduire la densité de flux thermique 
+th
+J  
+4. Déduire la puissance thermique 
+th
+P  traversant une section S de la couche isolante. 
+5. Par analogie avec la résistance électrique d’un conducteur ohmique, définir et donner l’expression de 
+la résistance thermique 
+th
+R  de la couche isolante. 
+Le bouclier thermique du télescope se trouvant au point de Lagrange L2, reçoit un flux solaire sous une 
+incidence normale à travers sa surface située en 
+0
+x =
+.  
+On suppose que le soleil se comporte comme un corps noir sphérique de rayon 
+s
+R  à la température 
+sT . 
+Le bouclier thermique constitué par la seule couche isolante, émet un rayonnement thermique à travers 
+ses deux faces comme un corps noir.  
+x 
+e 
+O 
+Figure 7 
+() 
+Figure 6 
+
+ 
+Concours Mathématiques et Physique - Session Juin 2022 Épreuve de Physique 
+Page 7/8 
+On rappelle que la loi de Stefan stipule que la puissance surfacique rayonnée par un corps noir est 
+proportionnelle à la puissance quatrième de sa température  
+4
+dP
+T
+dS
+
+=
+ ,   étant la constante de Stefan. 
+6.  Déterminer la puissance totale P rayonnée par le soleil en fonction de , 
+s
+R  et 
+sT . 
+7. Déterminer la puissance solaire reçue par unité de surface du bouclier 
+0
+ en fonction ,  
+s
+R ,
+sT  et la distance d entre le soleil et le point de Lagrange L2. 
+8. On suppose que le bouclier absorbe intégralement le flux solaire incident. Établir une relation entre 
+les températures des deux faces du bouclier 
+1T  et 
+1'
+T  en faisant un bilan thermique qui traduit l’équilibre 
+radiatif du système. 
+9. Sachant que la densité de flux thermique est continue à la traversée de la deuxième face du bouclier, 
+établir une deuxième relation entre 
+1T  et 
+1'
+T . 
+10. En déduire que la température 
+1'
+T  vérifie l’équation suivante : 
+( )
+( )
+1
+2
+4
+4
+4
+4
+1
+1
+1
+'
+'
+'
+s
+s
+R
+T
+T
+T
+T
+e
+d
+
+
+
+
+
+
+
+
+
+
+=
+−
+−
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+11. La résolution du système d’équations permet de représenter la variation de 
+1T  et 
+1'
+T  en fonction de 
+l’épaisseur e de la couche du super-isolant (Figure 8). 
+Interpréter ces deux courbes en étudiant les deux cas limites (couche de très faible épaisseur et couche 
+très épaisse) et conclure quant à l’efficacité d’un bouclier thermique constituée d’une seule couche 
+isolante assurant le bon fonctionnement des instruments du télescope. 
+On envisage l’étude d’un bouclier thermique constitué de deux couches de très 
+faibles épaisseurs. 
+On suppose que la surface du bouclier est perpendiculaire à la direction du 
+soleil. Les deux faces de chaque couche sont à la même température (Figure 9). 
+La première couche reçoit un flux solaire surfacique 
+0
+ et un flux surfacique 
+émis par la deuxième couche. Cette dernière reçoit un flux émis par la première 
+couche seulement. Chacune des deux couches émet un flux thermique par 
+rayonnement par ces deux faces. 
+12. Établir un bilan thermique à l’équilibre radiatif, pour chaque couche. 
+13. En déduire la valeur de la température 
+2T  de la deuxième couche. Conclure. 
+x 
+ 
+ 
+ 
+Figure 9 
+100
+150
+200
+250
+300
+350
+400
+450
+0
+0,05
+0,1
+0,15
+0,2
+T1
+T2
+Figure 8
+e (m)
+T(K)
+𝑇1
+𝑇1
+′
+
+ 
+Concours Mathématiques et Physique - Session Juin 2022 Épreuve de Physique 
+Page 8/8 
+Le télescope sera aveuglé si on ne le protège pas des rayonnements du soleil, de la terre, de la lune et de 
+son propre électronique produisant des rayonnements thermiques. Le bouclier thermique de JWST est 
+constitué de cinq couches, aussi fines qu’un cheveu humain et de la taille d’un court de tennis, faites de 
+polyimide de type kapton (un matériau résistant et stable dans une large plage de température  
+(entre −269°C et 452°C)).  
+14. Faire des bilans thermiques pour la première couche, la nième couche (n = 2, 3 ou 4) et pour la 
+cinquième couche. 
+15. En déduire qu’on aboutit à l’équation matricielle  AX
+B
+=
+ 
+où  
+2
+1
+0
+0
+0
+1
+2
+1
+0
+0
+0
+1
+2
+1
+0
+0
+0
+1
+2
+1
+0
+0
+0
+1
+2
+A
+−
+
+
+
+
+−
+−
+
+
+
+
+=
+−
+−
+
+
+−
+−
+
+
+
+
+−
+
+
+ ; 
+4
+1
+4
+2
+4
+3
+4
+4
+4
+5
+T
+T
+X
+T
+T
+T
+
+
+
+
+
+
+
+
+=
+
+
+
+
+
+
+
+
+ et 
+0
+0
+0
+0
+0
+B
+
+
+
+
+
+
+
+
+
+
+= 
+
+
+
+
+
+
+
+
+
+ 
+16. La matrice inverse de A est : 
+1
+5
+4
+3
+2
+1
+4
+8
+6
+4
+2
+1 3
+6
+9
+6
+3
+6 2
+4
+6
+8
+4
+1
+2
+3
+4
+5
+A−
+
+
+
+
+
+
+
+
+=
+
+
+
+
+
+
+
+
+ 
+Calculer les températures 
+1T  et 
+5T  de la première et la cinquième couche respectivement. Conclure. 
+ 
+En réalité, la première couche a un revêtement spécial en silicium 
+traité qui permet de réfléchir une partie du rayonnement solaire. Le 
+coefficient d’absorption du rayonnement solaire par cette couche est 
+noté .  
+On suppose que chacune des couches rayonne comme un corps noir 
+et absorbe une fraction  du rayonnement infrarouge provenant des 
+couches voisines (Figure 10). 
+17. Faire un bilan thermique pour chaque couche traduisant 
+l’équilibre radiatif et monter qu’on obtient un système de cinq équations qui s’écrit sous la forme 
+matricielle : 
+'
+'
+A X
+B
+=
+  
+où A’ et B’ sont respectivement une matrice et un vecteur à déterminer. 
+18. La résolution du système d’équation précédent, nous permettra de déterminer les températures des 
+différentes couches. En particulier, les températures de la première et de la cinquième couche sont 
+données par : 
+4
+2
+4
+0
+1
+4
+2
+4
+4
+0
+5
+4
+2
+16
+12
+32
+6
+32
+32
+6
+32
+T
+T
+
+
+
+
+
+
+
+
+
+
+
+
+
++
+−
+=
+
++
+−
+
+
+
+=
+
++
+−
+
+ 
+Calculer 
+1T  et 
+5T  pour  = 0,9 et  = 0,3. Commenter. 
+ 
+Figure 10 
+Rayonnement solaire 
+
+ 
+Eléments de réponse et barème - Concours Mathématiques et Physique – Session 2022 
+ 1/6 
+ 
+REPUBLIQUE TUNISIENNE 
+Ministère de l’Enseignement Supérieur et de 
+la Recherche Scientifique 
+ 
+Concours Nationaux d’Entrée aux Cycles de 
+Formation d’Ingénieurs  
+Session 2022 
+ 
+ 
+ 
+ المناظرات
+ 
+الوطنية
+ 
+للدخول 
+ 
+  إلى
+مراحل
+ 
+تكوين
+ 
+المهندسين 
+ 
+دورة
+ 2022
+ 
+Éléments de réponse et Barème  
+Concours MP2022 
+Problème 1 (65 pts) 
+Partie I : Réflexion normale sur un conducteur parfait – Cavité résonante (22 pts) 
+1. 
+3 pts 
+Conductivité électrique est considérée comme infinie (→). 
+• *
+2
+.
+P
+j E
+E
+
+=
+=
+ (Loi d’Ohm locale j
+E
+
+=
+) finie 
+0
+E
+→
+=
+  
+**Autre réponse acceptée : j
+E
+
+=
+ finie 
+0
+E
+→
+=
+ 
+• 
+( )
+B
+rot E
+t
+
+= − ; 
+0
+E =
+ dans un conducteur parfait 
+0
+B
+t
+
+→
+=
+
+ abs de champ stationnaire 
+0
+B
+→
+=
+ 
+1 
+1 
+1 
+2. 
+2 pts 
+À la traversée de l’interface vide du milieu conducteur : (
+)
+(
+)
+0
+0
+0
+x
+E x
+E x
+u
+
+
++
+−
+→
+−
+→
+=
+  
+E  est nul dans le conducteur parfait (
+)
+0
+0
+0
+j t
+r
+y
+x
+E
+E
+e
+u
+u
+t
+
+
+
++
+= −
+ et 
+0
+=
+. 
+• 
+(
+)
+(
+)
+0
+0
+0
+0
+x
+E x
+E x
+u
+
+
++
+−
+→
+−
+→
+=
+=
+(
+)
+(
+)
+0
+0
+E x
+E x
++
+−
+
+→
+=
+→
+ 
+E
+→
+ est continu 
+• (
+)
+0
+0
+0
+0
+j t
+r
+y
+x
+E
+E
+e
+u
+u
+t
+
+
+
++
+= −
+=
+
+0
+0
+0
+r
+E
+E
+
++
+=
+0
+0
+1
+r
+E
+r
+E
+
+=
+= − 
+1 
+0,5 
+0,5 
+3.a. 
+2 pts 
+• 
+(
+)
+(
+)
+(
+)
+0,
+0,
+0,
+i
+r
+E x
+t
+E x
+t
+E
+x
+t
+
+=
+
++
+
+ 
+(
+)
+(
+)
+0
+0,
+2
+sin
+j t
+y
+E x
+t
+jE
+kx e
+u
+
+
+
+= −
+ 
+ Soit en notation réelle : 
+(
+)
+(
+)
+(
+)
+0
+0,
+2
+sin
+sin
+y
+E x
+t
+E
+kx
+t u
+
+
+=
+ 
+• M.F. : 
+( )
+B
+rot E
+j B
+t
+
+
+= −
+= −
+
+(
+)
+0
+2
+cos
+j t
+z
+E
+B
+kx e
+u
+c
+
+
+=
+ ; 
+(
+)
+(
+)
+0
+2
+cos
+cos
+z
+E
+B
+kx
+t u
+c
+
+=
+ 
+1 
+1 
+3.b. 
+1 pt 
+Oscillation du champ sans guère de propagation dans l’espace. Absence d’un terme de propagation de 
+la forme 
+(
+)
+f
+t
+kx
+−
+ → onde stationnaire. 
+1 
+3.c. 
+1 pt 
+Plans nodaux : (
+)
+,
+0
+p
+E x
+t
+t
+=
+  
+(
+)
+sin
+0
+p
+kx
+
+=
+;
+P
+kx
+p
+p
+
+
+= −
+
+2
+px
+p
+p
+k
+
+
+
+= −
+= −
+ 
+1 
+3.d. 
+2 pts 
+Vecteur de Poynting : direction et sens de propagation de l’énergie électromagnétique. 
+Son flux à travers une surface est égal à la puissance électromagnétique véhiculée à travers cette 
+surface.
+0
+E
+B
+
+
+
+=
+ ; 
+*
+0
+1
+0
+2
+E
+B
+Réel
+
+
+
+
+
+=
+=
+
+
+
+
+ ; pas de propagation de l’énergie électromagnétique 
+0,5 
+3× 
+0,5 
+4. 
+2 pts 
+Les forces électriques sont à l’origine de mouvements sinusoïdaux des électrons libres surfaciques, 
+d’où apparition d’un courant surfacique de densité 
+sj  dans la même direction que le champ électrique 
+de l’onde incidente (
+)
+y
+u
+ qui est à l’origine de l’onde réfléchie. 
+A l’interface vide - conducteur : (
+)
+(
+)
+0
+0
+0
+s
+x
+B x
+B x
+j
+u
+
++
+−
+→
+−
+→
+=
+
+(
+)
+0
+0
+2
+cos
+s
+y
+E
+j
+t u
+c
+
+
+
+=
+ 
+1 
+1 
+5.a. 
+3 pts 
+• 
+( )
+(
+)
+(
+)
+2
+2
+0
+0
+1
+0,
+2
+cos
+2
+s
+x
+dF
+j
+t
+B x
+t dS
+E
+t dSu
+
+
+=
+
+=
+=
+  
+Force surfacique (pression de radiation) :
+(
+)
+2
+2
+0
+0
+2
+cos
+P
+dF
+dS
+E
+t
+
+
+=
+=
+2
+0
+0
+P
+E
+
+
+=
+ 
+• 
+2
+2
+0
+0
+2
+2
+i
+i
+i
+E
+B
+u
+
+
+=
++
+ 
+(
+)
+2
+2
+0
+0 cos
+iu
+E
+t
+
+
+
+=
+ 
+2
+0
+0
+2
+i
+E
+u
+
+
+=
+  Par conséquent : 
+2
+i
+P
+u
+=
+ 
+1,5 
+0,5 
+1 
+5.b. 
+1 pt 
+Cas d’un laser P
+3 mW
+=
+ ; 
+2
+1
+S
+mm
+=
+ : 
+2
+0
+0
+2
+i
+E
+S
+c
+
+
+=
+=
+P
+ 
+2
+P
+cS
+→
+= P  ; A.N :
+5
+2.10
+P
+Pa
+−
+=
+ 
+0,5 
+0,5 
+6.a. 
+1 pt 
+(
+)
+,
+0
+E x
+L t
+t
++
+→−
+=
+ 
+(
+)
+sin
+0
+kL
+
+=
+ 
+n
+n
+k
+k
+L
+
+
+=
+=
+ 
+n
+n c
+L
+
+
+
+
+=
+=
+ ; 
+*
+n
+ 
+1 
+
+ 
+Eléments de réponse et barème - Concours Mathématiques et Physique – Session 2022 
+ 2/6 
+6.b. 
+1 pt 
+Champ électrique à l’intérieur de la cavité : 
+(
+)
+0
+,
+2
+sin
+sin
+n
+y
+n
+n c
+E
+x t
+E
+x
+t u
+L
+L
+
+
+
+
+
+
+=
+
+
+
+
+
+
+
+
+ 
+1 
+6.c. 
+3 pts 
+0
+,
+2
+sin
+2
+n
+y
+n
+n
+E
+x t
+E
+x u
+L
+
+
+
+
+
+
+
+=
+=
+
+
+
+
+
+
+
+
+ et 
+0
+3
+,
+2
+sin
+2
+n
+y
+n
+n
+E
+x t
+E
+x u
+L
+
+
+
+
+
+
+
+=
+= −
+
+
+
+
+
+
+
+
+ 
+ 
+3× 
+1 
+Partie II : Radar à effet Doppler (16 pts) 
+7.a. 
+1 pt 
+Tout référentiel en mouvement de translation rectiligne uniforme par rapport à un référentiel galiléen 
+est aussi galiléen. (R’) est alors un référentiel galiléen. 
+1 
+7.b. 
+2 pts 
+Force de Lorentz : 
+(
+)
+( )
+F
+q E
+v
+B
+dans
+R
+=
++
+
+ et 
+(
+)
+(
+)
+'
+'
+'
+'
+'
+F
+q E
+v
+B
+dans
+R
+=
++
+
+ 
+Invariance de la force par changement de référentiel : 
+'
+F
+F
+=
+ 
+(
+)
+(
+)
+'
+'
+'
+q E
+v
+B
+q E
+v
+B
+
++
+
+=
++
+
+'
+E
+E
+V
+B
+
+=
++
+
+ et 
+'
+B
+B
+=
+ 
+1 
+1 
+8. 
+2 pts 
+• 
+Dans le référentiel (R) : 
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+0
+0
+,
+cos 2
+/
+,
+cos 2
+/
+i
+i
+y
+r
+r
+y
+E
+x t
+E
+f t
+x c
+u
+E
+x t
+rE
+f
+t
+x c
+u
+
+
+
+=
+−
+
+=
++
+
+ et 
+(
+)
+(
+)
+(
+)
+(
+)
+0
+0
+cos 2
+/
+cos 2
+/
+i
+i
+i
+i
+z
+r
+i
+r
+r
+z
+k
+E
+E
+B
+f t
+x c
+u
+c
+k
+E
+E
+B
+r
+f
+t
+x c
+u
+c
+
+
+
+
+
+
+=
+=
+−
+
+
+
+=
+= −
++
+
+ 
+• 
+Dans le référentiel (R’) :  
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+'
+0
+'
+0
+,
+1
+cos 2
+/
+,
+1
+cos 2
+/
+i
+i
+i
+i
+y
+r
+r
+r
+r
+y
+E
+x t
+E
+V
+B
+V c E
+f t
+x c
+u
+E
+x t
+E
+V
+B
+r
+V c E
+f
+t
+x c
+u
+
+
+
+=
++
+
+=
+−
+−
+
+=
++
+
+=
++
++
+
+ 
+1 
+1 
+9.a. 
+2 pts 
+(
+)
+(
+)
+(
+)
+(
+)
+'
+0
+,
+1
+cos 2
+1
+i
+cible
+i
+y
+E x
+t
+V c E
+f
+V c t u
+
+=
+−
+−
+ ;  
+(
+)
+(
+)
+(
+)
+(
+)
+'
+0
+,
+1
+cos 2
+1
+r
+cible
+r
+y
+E
+x
+t
+r
+V c E
+f
+V c t u
+
+=
++
++
+ 
+(
+)
+(
+)
+(
+)
+'
+'
+'
+,
+,
+,
+0
+cible
+i
+cible
+r
+cible
+E x
+t
+E x
+t
+E
+x
+t
+=
++
+=
+ 
+t
+ 
+1
+1
+V c
+r
+V c
+−
+
+= −+
+ et 
+1
+1
+r
+i
+V c
+f
+f
+V c
+−
+= +
+ 
+1 
+1 
+9.b. 
+2 pts 
+Pour V
+c  ; 
+(
+)
+2
+1
+1
+1
+r
+i
+i
+V c
+f
+f
+V c
+f
+V c
+−
+=
+−
++
+ 
+(
+)
+1
+2
+r
+i
+f
+V c f
+
+−
+  
+2
+i
+r
+i
+V
+f
+f
+f
+c
+
+−
+ 
+2 
+9.c. 
+2 pts 
+Pour V
+c  ; 
+(
+)
+2
+1
+1
+1
+V c
+r
+V c
+V c
+−
+= −
+−
+−
++
+(
+)
+1
+2
+r
+V c
+
+−
+−
+  
+Pour une surface réfléchissante et immobile (
+)
+0
+V =
+ , on retrouve 
+1
+r = − 
+1,5 
+0,5 
+10. 
+1 pt 
+2
+i
+r
+i
+V
+f
+f
+f
+c
+−
+ 
+2
+i
+r
+i
+f
+f
+c
+V
+f
+−
+
+=
+ ; A.N :  
+1
+25
+.
+90
+/
+V
+m s
+km h
+−
+=
+=
+ 
+1 
+11. 
+2 pts 
+2
+i
+r
+i
+f
+f
+c
+V
+f
+−
+=
+ 
+(
+)
+i
+r
+i
+r
+f
+f
+V
+V
+f
+f
+
+−
+
+
+=
+−
+ 
+(
+)
+i
+r
+i
+r
+f
+f
+V
+V
+f
+f
+
+−
+
+=
+−
+ ; A.N : 
+5,5
+/
+V
+km h
+
+=
+ 
+Le conducteur est en infraction (118
+/
+km h  est supérieure à 
+115,5
+/
+V
+V
+km h
++ 
+=
+) 
+1 
+0,5 
+0,5 
+12. 
+2 pts 
+2
+D
+i
+r
+i
+V
+f
+f
+f
+f
+c
+=
+−
+ ; la valeur maximale de 
+Df  est : 
+max
+max
+2
+D
+i
+V
+f
+f
+c
+ 
+Condition de Shannon : 
+,max
+,min
+2
+e
+D
+e
+f
+f
+f
+
+=
+ 
+max
+,min
+4
+e
+i
+V
+f
+f
+c
+
+=
+ ; A.N : 
+,min
+16
+ef
+kHz
+=
+ 
+0,5 
+1 
+0,5 
+Partie III : Analogie avec la corde vibrante (10 pts) 
+13.  
+1 pt 
+Conditions aux limites : (
+)
+(
+)
+0,
+,
+0
+y x
+t
+y x
+L t
+t
+=
+=
+= −
+=
+ 
+1 
+14. 
+2 pts 
+L’équation aux dérivées partielles vérifiée par (
+)
+,
+y x t  : 
+(
+)
+(
+)
+2
+2
+2
+2
+0
+,
+,
+0
+y x t
+y x t
+x
+T
+t
+
+
+
+−
+=
+
+
+  
+Cette équation est appelée équation de d’Alembert 
+Pour établir cette équation, on suppose que les forces dissipatives sont négligeables 
+1 
+1 
+n=1 
+n=2 
+n=3 
+
+ 
+Eléments de réponse et barème - Concours Mathématiques et Physique – Session 2022 
+ 3/6 
+15. 
+1,5 pts 
+(
+)
+(
+)
+2
+2
+0
+2
+2
+,
+,
+y x t
+T
+t
+y x t
+x
+
+
+
+= 
+
+ 
+
+
+1
+0
+.
+T
+LT
+vitesse
+
+−
+
+
+
+=
+=
+
+
+
+
+
+
+ elle s’exprime en 
+1
+.
+m s−. 
+Elle représente la vitesse de propagation de l’onde le long de la corde vibrante.  
+1 
+0,5 
+16. 
+1 pt 
+Le terme correspondant à 
+0T
+
+ pour une OPPM dans le vide est la célérité de propagation de la lumière 
+dans le vide 
+0
+0
+1
+c
+
+=
+. 
+1 
+17. 
+1 pt 
+Pour 
+1
+4
+1
+3,2
+.
+3,210
+.
+mg cm
+kg m
+
+−
+−
+−
+=
+=
+ ;  
+0
+105
+T
+N
+=
+ 
+La vitesse de propagation de l’onde est : 
+1
+0
+4
+105
+572,8 .
+3,210
+T
+m s
+
+−
+−
+=
+=
+=
+v
+ 
+1 
+18. 
+2 pts 
+Par analogie avec une O.E.M. dans une cavité résonante, la pulsation 
+1
+ est 
+1
+L
+
+= v  
+A.N : 
+1
+1
+572,8
+2768,47
+.
+0,65
+rad s
+
+
+−
+
+=
+=
+  soit une fréquence de 
+1
+440,6
+f
+Hz
+=
+ 
+1 
+1 
+19. 
+1,5 pts 
+(
+)
+(
+)
+0,
+1
+,
+sin
+sin
+n
+n
+y
+x t
+Y
+n
+x
+n
+t
+L
+
+
+
+
+=
+
+
+
+
+ 
+(
+)
+2
+2
+2
+2
+2
+1
+2
+n
+n
+n
+n
+y
+n
+y
+x
+L
+y
+n
+y
+t
+
+
+
+
+
+= −
+
+
+
+
+
+= −
+
+ 
+2
+2
+2
+2
+2
+2
+1
+2
+2
+2
+0
+0
+n
+n
+n
+n
+y
+y
+n
+n
+y
+y
+T
+t
+T
+L
+x
+
+
+
+
+
+
+= −
+= −
+= +
+
+
+2
+2
+2
+2
+0
+0
+n
+n
+y
+y
+x
+T
+t
+
+
+
+
+−
+=
+
+
+ 
+D’autre part : 
+(
+)
+(
+0, )
+,
+0
+n
+n
+y
+x
+t
+y
+x
+L t
+=
+=
+= −
+=
+, D’où l’expression de 
+ny  est compatible avec l’équation 
+de propagation et les conditions aux limites. 
+1 
+0,5 
+Partie IV : États liés d’une particule dans un puits de potentiel (17 pts) 
+20. 
+2 pts 
+Une particule classique ayant une énergie 
+0
+E
+V
+
+ ne peut se trouver que dans la région (2) où le 
+potentiel est nul. En 
+2
+L
+x = 
+, l’énergie cinétique de la particule se transforme intégralement en énergie 
+potentielle, la vitesse de la particule s’annule et elle rebrousse chemin en restant piégée dans cette 
+zone. 
+Une particule quantique peut se trouver dans les régions (1) et (3) interdites pour une particule 
+classique. La probabilité de présence d’une particule quantique à l’extérieur du puits est non nulle. 
+2 
+21. 
+3 pts 
+Équation de Schrödinger indépendante du temps : 
+( )
+( )
+( )
+( )
+( )
+( )
+2
+1
+2
+1
+2
+2
+2
+2
+2
+2
+2
+3
+2
+3
+2
+0
+(1)
+0
+(2)
+0
+(3)
+d
+x
+q
+x
+région
+dx
+d
+x
+k
+x
+région
+dx
+d
+x
+q
+x
+région
+dx
+
+
+
+
+
+
+
+−
+=
+
+
+
++
+=
+
+
+
+−
+=
+
+
+  
+( )
+( )
+( )
+1
+1
+1
+2
+2
+2
+3
+3
+3
+2
+2
+2
+2
+qx
+qx
+ikx
+ikx
+qx
+qx
+L
+x
+Ae
+B e
+pour
+x
+L
+L
+x
+A e
+B e
+pour
+x
+L
+x
+A e
+B e
+pour
+x
+
+
+
+−
+−
+−
+
+=
++
+−
+
+
+
+=
++
+−
+
+
+
+
+
+=
++
+
+
+ 
+Le module de la fonction d’onde ne peut être que finie. Par conséquent 
+1
+3
+0
+B
+A
+=
+=
+. 
+( )
+( )
+( )
+1
+1
+2
+2
+2
+3
+3
+2
+2
+2
+2
+qx
+jkx
+jkx
+qx
+L
+x
+Ae
+pour x
+L
+L
+x
+A e
+B e
+pour
+x
+L
+x
+B e
+pour x
+
+
+
+−
+−
+
+=
+−
+
+
+
+=
++
+−
+
+
+
+
+
+=
+
+
+ 
+3 × 
+0,5 
+3 × 
+0,5 
+
+ 
+Eléments de réponse et barème - Concours Mathématiques et Physique – Session 2022 
+ 4/6 
+22. 
+4 pts 
+La fonction d’onde ( )
+x
+
+ et sa dérivée 
+( )
+' x
+
+ sont continues en 
+2
+L
+x =
+. 
+Les équations de raccordement en 
+2
+L
+x =
+ s’écrivent : 
+2
+3
+'
+'
+2
+3
+2
+2
+2
+2
+L
+L
+L
+L
+
+
+
+
+
+
+
+
+
+=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=
+
+
+
+
+
+
+
+
+
+
+ 
+• 
+Cas des fonctions d’onde symétriques : 
+2
+2
+cos
+2
+sin
+2
+L
+q
+L
+q
+L
+B
+k
+Ae
+L
+kB
+k
+qAe
+−
+−
+
+
+=
+
+
+
+
+
+
+
+
+
+−
+= −
+
+
+
+
+
+
+ 
+tan
+2
+L
+q
+k
+k
+
+
+
+=
+
+
+
+
+ 
+• 
+Cas des fonctions d’onde antisymétriques : 
+2
+2
+sin
+2
+cos
+2
+L
+q
+L
+q
+L
+C
+k
+Ae
+L
+kC
+k
+qAe
+−
+−
+
+
+= −
+
+
+
+
+
+
+
+
+
+
+=
+
+
+
+
+
+
+ 
+cotan
+2
+L
+q
+k
+k
+
+
+
+= −
+
+
+
+
+ 
+1 
+1,5 
+1,5 
+23.a. 
+3 pts 
+Dans le cas où 
+0
+E
+V
+
+ (Puits infini) : 
+1
+q
+q
+k
+k
+
+
+ 
+(
+)
+*
+tan
+cos
+0
+2
+1
+;
+2
+2
+2
+cotan
+sin
+0
+;
+2
+2
+p
+p
+kL
+kL
+k
+k
+p
+p
+L
+kL
+kL
+p
+k
+k
+p
+L
+
+
+
+
+
+
+
+→+
+
+→
+
+=
+=
++
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+→−
+→
+
+=
+=
+
+
+
+
+
+
+
+
+
+
+
+  
+*
+;
+n
+k
+k
+n
+n
+L
+
+
+=
+=
+
+ 
+Or 
+2
+2
+2mE
+k =
+ 
+d’où 
+2
+2
+2
+2
+2
+1
+2
+2
+8
+n
+n
+h
+E
+E
+k
+n
+n E
+m
+mL
+=
+=
+=
+=
+ ;  
+2
+1
+2
+8
+h
+E
+mL
+=
+ 
+2 
+1 
+23.b. 
+2 pts 
+( )
+( )
+(
+)
+( )
+1
+2
+3
+0
+cos
+2
+1
+0
+s
+s
+s
+x
+x
+x
+B
+p
+L
+x
+
+
+
+
+
+=
+
+
+
+=
++
+
+
+
+
+
+
+
+=
+
+  et 
+( )
+( )
+( )
+1
+2
+3
+0
+sin 2
+0
+a
+a
+a
+x
+x
+x
+C
+p
+L
+x
+
+
+
+
+
+=
+
+
+
+=
+
+
+
+
+
+
+
+=
+
+ 
+Par changement de variable 
+2
+L
+X
+x
+=
+−
+, la fonction d’onde à l’intérieur du puits s’écrit sous la forme 
+(
+)
+*
+2
+sin
+;
+X
+X
+D
+n
+n
+L
+
+
+
+
+=
+
+
+
+
+
+. Cette expression est analogue à celle de l’amplitude du champ 
+électrique à l’intérieur d’une cavité électromagnétique résonante et à celle de l’amplitude de l’élongation 
+d’une corde vibrante. 
+2 
+23.c. 
+2 pts 
+ 
+2 × 
+1 
+23.d. 
+1 pt 
+• 
+Un semi conducteur (GaAs) situé entre deux couches d’isolant supposé parfait (AlGaAs) peut 
+ête modélisé par un puits de potentiel infini.  
+• 
+Toute particule quantique placée dans un potentiel de la forme 
+( )
+2
+2
+1
+2
+V x
+m
+x
+
+=
+, se comporte 
+comme un oscillateur harmonique. On peut modéliser ce système par une particule placée dans 
+un puits de potentiel infini. 
+1 
+ 
+-0,7
+-0,5
+-0,3
+-0,1
+0,1
+0,3
+0,5
+0,7
+E2
+E3
+r(x)
+n=3
+n=2
+n=1
+x/L
+
+ 
+Eléments de réponse et barème - Concours Mathématiques et Physique – Session 2022 
+ 5/6 
+Problème 2 : Étude du Bouclier thermique du télescope spatial James-Webb (35 pts) 
+1. 
+3 pts 
+Loi de Fourier : 
+( )
+th
+J
+grad T
+
+= −
+ ; 
+th
+J  : la densité de flux thermique ; T : température en un point M 
+du milieu 
+ est une constante positive appelée conductivité thermique. Cette constante ne dépend que de la 
+nature du milieu.  
+th
+J  s’exprime en W.m-2, T en K et  en W.m-1.K-1. 
+1 
+1 
+1 
+2. 
+2 pts 
+Bilan thermique pour une tranche comprise entre x  et x
+dx
++
+: 
+( )
+(
+)
+th
+th
+J
+x S
+J
+x
+dx S dt
+SdxCdT
+r
+
+−
++
+
+=
+
+
+ 
+th
+J
+Sdxdt
+SdxCdT
+x
+r
+
+−
+=
+
+ 
+2
+2
+T
+T
+C
+x
+t
+
+r
+
+
+
+=
+
+ 
+2
+2
+T
+T
+t
+C
+x
+
+r
+
+
+
+=
+
+
+ 
+1 
+1 
+3. 
+1,5 pts 
+En régime stationnaire, l’équation de la conduction thermique dans la couche isolante s’écrit : 
+2
+2
+0
+(
+0)
+d T
+T
+dx
+t
+
+
+=
+=
+
+ 
+( )
+T x
+ax
+b
+
+=
++
+ 
+Conditions aux limites : 
+(
+)
+(
+)
+1
+1'
+0
+T x
+T
+T x
+e
+T
+
+=
+=
+
+=
+=
+
+ 
+1
+1
+1
+'
+b
+T
+T
+T
+a
+e
+=
+
+
+−
+=
+
+ Donc ( )
+1
+1
+1
+'
+T
+T
+T x
+x
+T
+e
+−
+=
++
+ 
+Densité de flux thermique dans la couche isolante : 
+( )
+1
+1'
+th
+x
+x
+dT x
+T
+T
+J
+u
+u
+dx
+e
+
+
+−
+= −
+=
+ 
+0,5 
+0,5 
+0,5 
+4. 
+1 pt 
+Puissance thermique traversant une section S de la couche isolante  
+(
+)
+2
+1
+1'
+.
+th
+th
+S
+S
+P
+J d S
+T
+T
+e
+
+=
+=
+−
+
+ 
+1 
+5. 
+1 pt 
+La résistance électrique est égale au rapport de la différence de potentiel par l’intensité de courant qui 
+traverse le dipôle.  
+En transfert thermique, l’équivalent de la différence de potentiel est la différence de température et 
+l’équivalent de l’intensité de courant électrique est la puissance thermique. 
+Par analogie électrique-thermique, on définit la résistance thermique comme étant le rapport de la 
+différence de température par la puissance thermique traversant le système étudié. 
+Soit 
+1
+1'
+th
+th
+T
+T
+e
+R
+P
+S
+
+−
+=
+=
+ 
+1 
+6. 
+1 pt 
+Puissance surfacique rayonnée par le soleil : 
+4
+s
+s
+M
+T
+
+=
+ 
+Puissance totale rayonnée par le soleil : 
+4
+2
+. 4
+soleil
+s
+s
+surface soleil
+P
+T
+R
+
+
+=
+ 
+1 
+7. 
+1 pt 
+L’unité de surface du bouclier reçoit une fraction 
+2
+1
+4 d
+
+ de la puissance rayonnée par le soleil. 
+Puissance solaire reçue par unité de surface du bouclier : 
+2
+4
+0
+2
+2
+1
+.4
+s
+soleil
+s
+R
+P
+T
+d
+d 
+
+=
+=
+ 
+1 
+8. 
+2 pts 
+Puissance surfacique rayonnée par le bouclier à travers sa surface orientée vers le soleil : 
+4
+1
+1
+P
+T
+
+=
+ 
+Puissance surfacique rayonnée par le bouclier à travers sa deuxième surface : 
+( )
+4
+1
+1'
+'
+P
+T
+
+=
+ 
+Bilan thermique du bouclier à l’équilibre radiatif : 
+0
+1
+1'
+P
+P
+=
++
+ 
+( )
+2
+4
+4
+4
+1
+1
+2
+'
+s
+s
+R
+T
+T
+T
+d 
+
+
+
+=
++
+ 
+( )
+( )
+2
+4
+4
+4
+1
+1
+2
+'
+s
+s
+R
+T
+T
+T
+I
+d
+
++
+=
+ 
+2 
+9. 
+1 pt 
+Continuité de la densité de flux thermique au niveau de la deuxième face du bouclier : 
+( )
+4
+1
+0
+'
+x
+dT
+T
+dx
+
+
+=
+
+
+= −
+
+
+
+  
+( )
+(
+)
+4
+1
+1
+1
+'
+'
+T
+T
+T
+II
+e
+
+
+−
+
+=
+ 
+1 
+10. 
+2 pts ( )
+I  et (
+)
+II  
+( )
+( )
+( )
+2
+4
+4
+4
+1
+1
+2
+1
+2
+4
+4
+4
+4
+1
+1
+1
+2
+'
+'
+'
+'
+s
+s
+s
+s
+R
+T
+T
+T
+d
+R
+T
+T
+T
+T
+e
+d
+
+
+
+=
+−
+
+
+
+
+
+
+
+
+
+
+=
+−
+−
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+2 
+
+ 
+Eléments de réponse et barème - Concours Mathématiques et Physique – Session 2022 
+ 6/6 
+11. 
+2 pts 
+Pour de très faibles épaisseurs (
+)
+1
+e
+mm
+
+, les deux faces de la couche isolante sont pratiquement à la 
+même température (
+)
+330
+T
+K . La différence de température entre les deux faces augmente au fur et à 
+mesure que l’épaisseur augmente. La température de la face ensoleillée atteint une valeur limite lorsque 
+l’épaisseur 
+de 
+la 
+couche 
+tend 
+vers 
+l’infini.  
+(
+1
+392
+T
+K  lorsque 
+5
+e
+cm
+
+).  Même pour des couches très épaisses, la température de la deuxième face 
+n’est pas assez basse pour permettre le bon fonctionnement du télescope dans l’infrarouge. La 
+température de fonctionnement ne doit pas dépasser 223 C
+−
+
+. 
+2×1 
+12. 
+2 pts 
+Bilan thermique à l’équilibre radiatif pour la première couche : 
+2
+2
+4
+4
+4
+4
+4
+4
+2
+1
+2
+1
+2
+2
+s
+s
+s
+s
+R
+R
+ST
+ST
+ST
+T
+T
+T
+d
+d
+
+
+
+
+
+
+
++
+=
+
++
+=
+
+
+
+
+
+
+
+
+ 
+Bilan thermique à l’équilibre radiatif pour la deuxième couche : 
+4
+4
+4
+4
+1
+2
+1
+2
+2
+2
+T
+T
+T
+T
+
+
+=
+
+=
+ 
+1 
+1 
+13. 
+3 pts 
+2
+4
+4
+4
+2
+1
+4
+4
+1
+2
+2
+2
+s
+s
+R
+T
+T
+T
+d
+T
+T
+
+
+
+
++
+=
+
+
+
+
+
+
+=
+
+ 
+2
+4
+4
+4
+2
+2
+4
+s
+s
+R
+T
+T
+T
+d
+
+
+
++
+=
+
+
+
+
+ 
+2
+1
+4
+1
+3
+s
+s
+R
+T
+T
+d
+
+=
+ 
+A.N : 
+2
+298,6
+T
+K
+=
+ ; Température très grande par rapport à la température de fonctionnement du 
+télescope. 
+2 
+1 
+14. 
+3 pts 
+Bilan thermique de la première couche  
+2
+4
+4
+4
+4
+4
+0
+0
+2
+1
+1
+2
+2
+2
+s
+s
+R
+S
+ST
+ST
+T
+T
+T
+d
+
+
+
+
+
+
+
++
+=
+
+−
+=
+=
+
+
+
+
+, 
+Pour la nième couche (n=2 ; 3 ou 4) : 
+4
+4
+4
+4
+4
+4
+1
+1
+1
+1
+2
+2
+0
+n
+n
+n
+n
+n
+n
+ST
+ST
+ST
+T
+T
+T
+
+
+
+−
++
+−
++
+=
++
+−
++
+−
+=
+ 
+et pour la 5ième couche : 
+4
+4
+4
+4
+5
+4
+4
+5
+2
+2
+0
+ST
+ST
+T
+T
+
+
+=
+−
++
+=
+ 
+1 
+1 
+1 
+15. 
+2 pts 
+4
+4
+1
+2
+0
+4
+4
+4
+1
+2
+3
+4
+4
+4
+2
+3
+4
+4
+4
+4
+3
+4
+5
+4
+4
+4
+5
+2
+/
+2
+0
+2
+0
+2
+0
+2
+0
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+
+
+−
+= 
+−
++
+−
+=
+−
++
+−
+=
+
+−
++
+−
+=
+−
++
+=
+
+ 
+AX
+B
+
+=
+ Où  
+2
+1
+0
+0
+0
+1
+2
+1
+0
+0
+0
+1
+2
+1
+0
+0
+0
+1
+2
+1
+0
+0
+0
+1
+2
+A
+−
+
+
+
+
+−
+−
+
+
+=
+−
+−
+
+
+−
+−
+
+
+−
+
+
+ ; 
+4
+1
+4
+2
+4
+3
+4
+4
+4
+5
+T
+T
+X
+T
+T
+T
+
+
+
+
+
+
+= 
+
+
+
+
+
+
+
+ et 
+0
+0
+0
+0
+0
+B
+
+
+
+
+
+
+
+
+= 
+
+
+
+
+
+
+
+
+
+ 
+2 
+16. 
+2,5 pts 
+1
+AX
+B
+X
+A B
+−
+=
+
+=
+ 
+4
+1
+0
+4
+2
+4
+3
+4
+4
+4
+5
+/
+5
+4
+3
+2
+1
+4
+8
+6
+4
+2
+0
+1 3
+6
+9
+6
+3
+0
+6 2
+4
+6
+8
+4
+0
+1
+2
+3
+4
+5
+0
+T
+T
+T
+T
+T
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+1
+1
+4
+4
+0
+4
+0
+1
+1
+1
+1
+4
+0
+4
+4
+0
+5
+5
+5
+5
+5
+6
+6
+61
+1
+1
+6
+6
+6
+s
+s
+s
+s
+R
+T
+T
+T
+d
+R
+T
+T
+T
+d
+
+
+
+
+
+
+
+
+
+
+
+
+
+=
+=
+=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=
+
+
+
+
+=
+=
+
+
+
+
+
+
+
+
+
+
+
+ 
+A.N : 
+1
+5
+375,47
+251,09
+T
+K
+T
+K
+=
+=
+ 
+5T  est très grande ce qui empêche le bon fonctionnement du télescope. 
+1 
++ 
+1 
+0,5 
+17. 
+3 pts 
+Bilan thermique de la 1ère couche :
+(
+)
+2
+4
+4
+4
+4
+4
+0
+2
+1
+1
+2
+0
+2
+2
+/
+/
+s
+s
+S
+ST
+ST
+T
+T
+T
+R
+d
+
+
+
+
+
+
+
+
++
+=
+
+−
+=
+=
+
+ 
+Pour la nième couche (n=2 ; 3 ou 4) : 
+4
+4
+4
+4
+4
+4
+1
+1
+1
+1
+2
+2
+0
+n
+n
+n
+n
+n
+n
+ST
+ST
+ST
+T
+T
+T
+
+
+
+
+
+−
++
+−
++
+=
++
+−
++
+−
+=
+ 
+et pour la 5ième couche : 
+4
+4
+4
+4
+5
+4
+4
+5
+2
+2
+0
+ST
+ST
+T
+T
+
+
+
+=
+−
++
+=
+ 
+D’où 
+4
+4
+1
+2
+0
+4
+4
+4
+1
+2
+3
+4
+4
+4
+2
+3
+4
+4
+4
+4
+3
+4
+5
+4
+4
+4
+5
+2
+/
+2
+0
+2
+0
+2
+0
+2
+0
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+
+
+
+
+
+
+
+
+
+
+
+−
+= 
+−
++
+−
+=
+−
++
+−
+=
+
+−
++
+−
+=
+−
++
+=
+
+'
+'
+A X
+B
+
+=
+ où 
+2
+0
+0
+0
+2
+0
+0
+'
+0
+2
+0
+0
+0
+2
+0
+0
+0
+2
+A
+
+
+
+
+
+
+
+
+−
+
+
+
+
+−
+−
+
+
+=
+−
+−
+
+
+−
+−
+
+
+−
+
+
+ et 
+0 /
+0
+'
+0
+0
+0
+B
+
+
+
+
+
+
+
+
+
+= 
+
+
+
+
+
+ 
+0,5 
+1 
+0,5 
+1 
+18. 
+2 pts 
+1
+1
+4
+2
+4
+2
+4
+4
+0
+1
+4
+2
+4
+2
+1
+1
+4
+4
+4
+4
+0
+5
+4
+2
+4
+2
+16
+12
+16
+12
+32
+6
+32
+32
+6
+32
+32
+6
+32
+32
+6
+32
+s
+s
+s
+s
+R
+T
+T
+d
+R
+T
+T
+d
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++
+−
++
+−
+
+=
+=
+
+
+
+
+
++
+−
++
+−
+
+
+
+
+
+
+
+
+
+
+
+
+=
+=
+
+
+
+
+
++
+−
++
+−
+
+
+
+
+
+
+  
+A.N : 
+1
+5
+323,75
+49,41
+T
+K
+T
+K
+=
+=
+ Le bouclier permet de protéger le télescope des rayonnements solaires et 
+maintenir une température assez basse. 
+1 
+1 
+ 

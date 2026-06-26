@@ -1,0 +1,3171 @@
+Session Juin 2023 
+Page 1 sur 16 
+CONSIGNES 
+• Cette épreuve comporte 15 pages + 1 page vide 
+• Tout résultat doit être écrit dans les cadres adéquats. 
+• L'usage des calculatrices électroniques de poche non programmables est autorisé. 
+• Aucun échange entre les candidats n'est autorisé. 
+• Tout calcul doit être précédé d’une expression littérale.  
+• Les résultats numériques sans unité ou avec une unité fausse ne seront pas comptabilisés. 
+• En cas de besoin utiliser la page 16 vide. Dans ce cas, il faut le signaler dans la case 
+allouée à la réponse remise en fin de cahier. 
+• Ne joindre aucun brouillon.  
+• Si au cours de l’épreuve, un candidat repère ce qui lui semble être une erreur d’énoncé, 
+il la signale sur sa copie et poursuit sa composition en indiquant les raisons des 
+initiatives qu’il est amené à prendre. 
+ 
+ 
+ 
+ 
+ 
+ 
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 16 PAGES 
+NUMEROTÉES 1 sur 16, 2 sur 16, …, 16 sur 16. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cette épreuve comporte 47 questions réparties sur quatre problèmes différents.  
+Les questions regroupées dans chaque problème contiennent plusieurs parties à noter. 
+Par exemple, la question Q25-Q26 de la page 11 sera divisée en deux parties Q25 et Q26. 
+Nous vous souhaitons bonne chance et espérons que vous pourrez faire ressortir le meilleur de 
+vous-même dans cette épreuve. 
+ 
+ 
+ 
+ 
+Concours Physique et Chimie 
+Chimie inorganique 
+
+ 
+Page 2 sur 16 
+Épreuve de chimie section PC 
+Année : 2022-2023 
+Notations et données numériques 
+États des constituants physicochimiques : 
+(sd) solide ; (liq) liquide ; (g) gazeux 
+Lorsque aucune mention n'est spécifiée, les ions sont supposés implicitement en solution aqueuse. 
+Les gaz sont considérés comme parfaits. 
+Les enthalpies de changements d’état sont supposées indépendantes de la température. 
+Notations :  
+• xi : la fraction molaire de « i » dans la phase liquide. 
+• %
+iw
+: le pourcentage massique de « i » dans la phase φ. 
+• L’exposant 
+ signifie standard. 
+• ESH : électrode standard à hydrogène. 
+Constantes physiques : 
+• Constante des gaz parfaits : R = 8,314 J.mol-1.K-1. 
+• Constante d'Avogadro : NA = 6,02×1023 mol-1. 
+• Constante de Faraday : F = 96485 C.mol-1. 
+• Pression standard : p
+1
+.
+bar
+=
+ 
+• Concentration standard : C
+1
+1
+.
+.
+mol L−
+=
+ 
+Données numériques : 
+• Masses molaires atomiques (g.mol-1) :  
+V = 50,94 ; Se = 78,96 ; Cu = 63,55 ;As = 75,00 ; Si =28,00. 
+• Les numéros atomiques Z : H = 1 ; O = 8. 
+À 298 K, 
+• Potentiels standard redox à pH = 0 :  
+o E (
+)
+3
+4(
+)
+2
+3(
+)
+AsO
+H AsO
+0,91
+/
+aq
+aq
+V
+ESH
+−
+−
+=
+ 
+o E (
+)
+2
+3(
+)
+(
+)
+H AsO
+As
+0,43
+/
+aq
+sd
+V
+ESH
+−
+=
+ 
+o E (
+)
+2
+4(
+)
+2
+3(
+)
+HAsO
+H AsO
+0,57
+/
+aq
+aq
+V
+ESH
+−
+−
+=
+ 
+• La constante de Nernst : (
+)
+R
+T F
+Ln(10)
+0,059 V  
+
+
+=
+ 
+Une partie du tableau périodique des éléments chimiques 
+ 
+ 
+ 
+ 
+L'arsenic est un élément chimique métalloïde ayant pour symbole « As » et pour numéro 
+atomique, 33. Il se trouve naturellement dans la croûte terrestre, mais peut également être 
+produit par des activités humaines telles que l'exploitation minière, la fusion et la combustion 
+de combustibles fossiles. 
+L'arsenic est une substance toxique qui peut causer de graves problèmes de santé s'il est ingéré 
+ou inhalé en grandes quantités. Il peut être présent dans l'eau, les aliments et les sols 
+contaminés. Une exposition prolongée à l'arsenic peut causer des lésions cutanées, le cancer, 
+les maladies cardiovasculaires et d'autres problèmes de santé. 
+ 
+ 
+
+ 
+Page 3 sur 16 
+Épreuve de chimie section PC 
+Année : 2022-2023 
+Problème I : atomistique-liaison chimique 
+Q1) Donner la structure électronique de l’arsenic « 33As » dans son état fondamental.  
+ 
+Q2) Quel est le nombre d’électrons de valence ? Justifier la réponse. 
+ 
+Q3) Quelle est sa position (ligne, colonne) dans la classification périodique ? Justifier la 
+réponse. 
+ 
+• Donner pour l’ion dihydrogénoarséniate H2AsO4- : 
+Q4) Un schéma de Lewis, sachant que l’atome As est l’atome central. 
+ 
+H2AsO4- 
+Schéma de 
+Lewis 
+ 
+
+ 
+Page 4 sur 16 
+Épreuve de chimie section PC 
+Année : 2022-2023 
+• Préciser la notation (la formule) de Gillespie, la figure de répulsion, la géométrie et la 
+forme de la molécule selon la méthode V.S.E.P.R.  
+Q5) Notation de 
+Gillespie 
+ 
+ 
+Q6) Figure de 
+répulsion 
+ 
+Q7) Géométrie 
+spatiale  
+ 
+Q8) Forme de la 
+molécule 
+ 
+ 
+ 
+ 
+
+ 
+Page 5 sur 16 
+Épreuve de chimie section PC 
+Année : 2022-2023 
+Problème II :  cristallographie 
+Le sélénium « Se » est placé juste après l’arsenic « As » dans la classification périodique des 
+éléments chimiques. Il donne avec le cuivre « Cu » et le vanadium « V » un composé 
+intermétallique qui cristallise dans le système cubique avec un paramètre de maille a = 556,36 
+pm.  
+Les coordonnées réduites des atomes sont les suivantes : 
+• Se : (1/4,1/4,1/4) ; (3/4,3/4,1/4) ; (1/4,3/4,3/4) et (3/4,1/4,3/4) 
+• Cu : (1/2,1/2,0) ; (1/2,0,1/2) et (0,1/2,1/2) 
+Q9) Donner une représentation en perspective la maille et de son contenu, sachant que l’atome 
+de vanadium est situé au centre de la maille. 
+ 
+Q10) Représenter la projection cotée de la maille et de son contenu sur le plan (𝑎⃗,𝑏⃗⃗) passant 
+par l’origine. 
+ 
+
+ 
+Page 6 sur 16 
+Épreuve de chimie section PC 
+Année : 2022-2023 
+Q11) Représenter sur la figure de la question Q9), le 1er plan après celui passant par l’origine 
+de la famille (110). Justifier la réponse. 
+ 
+Q12) Représenter la trace des atomes dans le plan (110) de la question précédente. 
+ 
+Q13) Donner les expressions des distances les plus courtes : dV-Cu  et dCu-Se en fonction du 
+paramètre « a » de la maille. 
+ 
+ 
+Q14) Quelle est la coordinence de chacun des atomes «V» et «Cu» ? Justifier chacune des 
+réponses. 
+Coordinence de V =  
+ 
+Coordinence de Cu =  
+Q15) Déterminer la formule traduisant le contenu de la maille. 
+ 
+
+ 
+Page 7 sur 16 
+Épreuve de chimie section PC 
+Année : 2022-2023 
+Q16) Donner l’expression puis calculer la masse volumique du cristal. 
+ 
+Problème III : diagramme binaire liquide-solide 
+Les alliages Si-As ont des propriétés intéressantes pour une variété d'applications électroniques, 
+notamment pour la fabrication de transistors à haute vitesse, de cellules solaires à haut rendement et 
+de détecteurs de rayonnement infrarouge. 
+Nous envisageons dans ce problème de compléter puis étudier, le diagramme d’équilibre 
+solide-liquide du système Si-As, sous une pression constante (p = 1bar). 
+ 
+ 
+
+ 
+Page 8 sur 16 
+Épreuve de chimie section PC 
+Année : 2022-2023 
+Pour cela, nous disposons des informations suivantes : 
+• Le diagramme binaire liquide-solide de Si-As montre : 
+➢ Que le silicium n’est pas miscible dans l’arsenic, tandis que l’arsenic est 
+partiellement miscible dans le silicium. 
+➢ La présence de deux composés définis. 
+o L’un de ces composés définis a pour formule AsSi et son point de fusion 
+congruente est à 1200°C. 
+o Le deuxième, de composition 84% massique en As, se décompose à la 
+température 977°C en donnant le composé défini AsSi(sd) et un liquide de 
+composition 90% massique en As. 
+• Nous disposons aussi de quelques courbes d’analyse thermique de refroidissement sous 
+la pression de 1 bar : 
+ 
+Q17) Déterminer la composition (%wAs) du composé défini AsSi. 
+ 
+
+ 
+Page 9 sur 16 
+Épreuve de chimie section PC 
+Année : 2022-2023 
+Q18) Déterminer la formule du composé défini de composition (%wAs) = 84%. 
+ 
+• En se basant sur le réseau de courbes d’analyse thermique, le diagramme incomplet, la 
+description du diagramme de la page 8 et les questions précédentes, préciser les coordonnées 
+de chacun des points particuliers : 
+Q19) Points eutectiques, point péritectique et solubilité maximale. 
+1 
+ 
+2 
+ 
+3 
+ 
+4 
+ 
+Q20) Composés définis et points de fusion des corps purs. 
+1 
+ 
+2 
+ 
+3 
+ 
+4 
+ 
+
+ 
+Page 10 sur 16 
+Épreuve de chimie section PC 
+Année : 2022-2023 
+Q21-Q22) Placer tous les points qui manquent sur le diagramme ci-dessous. 
+Q23) Compléter le diagramme en traçant les courbes qui manquent. Justifier l’allure du 
+diagramme du coté de As. 
+Justification : 
+ 
+Q24) Préciser la nature des phases dans chacun des domaines (I) et (II). 
+Domaine (I) :  
+ 
+Domaine (II) :  
+ 
+ 
+ 
+
+ 
+Page 11 sur 16 
+Épreuve de chimie section PC 
+Année : 2022-2023 
+Q25-Q26) Expliciter la transformation (nom et équation) ayant lieu sur chacun des paliers de 
+températures 1097°C et 977°C. 
+À 1097°C,  
+ 
+À 977°C,  
+• Un mélange « As-Si » liquide de masse 22 g dont la composition %wAs = 40% est refroidit 
+de 1450°C jusqu’à (1097 + )°C. 
+Q27) Quelles sont les phases présentes à (1097 + )°C ? 
+ 
+Q28) Donner la composition en arsenic de chacune d’elles. 
+ 
+Q29) Déterminer la masse de chaque phase. 
+ 
+Q30) Déduire la masse de l’arsenic dans chaque phase. 
+ 
+ 
+
+ 
+Page 12 sur 16 
+Épreuve de chimie section PC 
+Année : 2022-2023 
+Problème IV : diagramme de Pourbaix 
+Le diagramme de Pourbaix de l’arsenic « As » fait intervenir les entités chimiques suivantes : 
+3
+4(
+)
+H AsO
+aq  ; 
+3
+3(
+)
+H AsO
+aq   
+2
+4(
+)
+H AsO
+aq
+−
+ ; 
+2
+3(
+)
+H AsO
+aq
+−
+ ; 
+2
+4(
+)
+HAsO
+aq
+−
+ ; 
+3
+4(
+)
+AsO
+aq
+−
+ et 
+(
+)
+As sd . 
+Les conventions adoptées pour le tracé de ce diagramme sont : 
+• La concentration totale en élément « As » dissous est gale à Ctra = 10-1 mol.L-1. 
+• À la frontière qui sépare les deux domaines de deux entités dissoutes, les concentrations 
+en élément « As » dans chacune des entités sont les mêmes. 
+ 
+• Indexation du diagramme de Pourbaix : 
+Q31-Q36) Donner le nombre (degré) d’oxydation de l’atome d’arsenic dans chacune 
+des entités suivantes : 
+Entité 
+n.o (As) 
+Entité 
+n.o (As) 
+3
+4(
+)
+H AsO
+aq  
+ 
+2
+4(
+)
+HAsO
+aq
+−
+ 
+ 
+3
+3(
+)
+H AsO
+aq  
+ 
+3
+4(
+)
+AsO
+aq
+−
+ 
+ 
+2
+4(
+)
+H AsO
+aq
+−
+ 
+ 
+2
+3(
+)
+H AsO
+aq
+−
+ 
+ 
+ 
+ 
+
+ 
+Page 13 sur 16 
+Épreuve de chimie section PC 
+Année : 2022-2023 
+Q37-Q42) Attribuer les entités 
+3
+4(
+)
+H AsO
+aq  ; 
+3
+3(
+)
+H AsO
+aq   
+2
+4(
+)
+H AsO
+aq
+−
+ ; 
+2
+3(
+)
+H AsO
+aq
+−
+ ; 
+2
+4(
+)
+HAsO
+aq
+−
+ ; 
+3
+4(
+)
+AsO
+aq
+−
+ et 
+(
+)
+As sd .à chacun des domaines numérotés de (1) à (7) sur le 
+diagramme.  
+ 
+Domaine (1) 
+Domaine (2) 
+Domaine (3) 
+Domaine (4) 
+ 
+ 
+ 
+ 
+Domaine (5) 
+Domaine (6) 
+ 
+2
+3(
+)
+H AsO
+aq
+−
+ 
+Domaine (7) 
+ 
+ 
+Q43) Montrer que l’expression numérique de la frontière séparant les domaines (4) et (6) 
+s’écrit en fonction du potentiel standard du couple mis en jeu et du pH. 
+ 
+• La dismutation est un type particulier de réaction redox, dans laquelle une entité chimique 
+instable joue à la fois le rôle d'oxydant dans un couple et de réducteur dans un autre couple 
+réagit sur elle-même pour donner des entités plus stables. 
+Q44) Écrire l’équation de la réaction modélisant la dismutation de H2AsO3-sachant que 
+cette entité est l’oxydant du couple 
+2
+3(
+)
+(
+)
+H AsO
+As
+aq
+sd
+−
+ et le réducteur du couple 
+3
+4(
+)
+2
+3(
+)
+AsO
+H AsO
+aq
+aq
+−
+−
+. 
+ 
+
+ 
+Page 14 sur 16 
+Épreuve de chimie section PC 
+Année : 2022-2023 
+Q45) Retrouver par le calcul la valeur du pH à partir duquel H2AsO3- se dismute, sachant 
+que : 
+(
+)
+2
+3(
+)
+2
+3(
+)
+(
+)
+10
+H AsO
+H AsO
+As
+0,43
+0,0196 log
+aq
+aq
+sd
+E
+C
+−
+−
+
+
+
+
+=
++
+
+(
+)
+0,079
+pH
+
+
+
+−
+
+
+
+
+
+ 
+ 
+Q46-47) Établir l’expression donnant le potentiel redox standard du couple AsO43-(aq)/As(sd) en 
+fonction de 
+(
+)
+2
+3
+4(
+)
+4(
+)
+a
+aq
+aq
+pK
+HAsO
+AsO
+−
+−
+ et des potentiels standards rédox des couples  
+HAsO42-(aq)/H2AsO3-(aq) et H2AsO3-(aq)/As(sd). Calculer sa valeur. 
+ 
+
+ 
+Page 15 sur 16 
+Épreuve de chimie section PC 
+Année : 2022-2023 
+ 
+ 
+FIN DE L’ÉPREUVE 
+ 
+ 
+
+ 
+Page 16 sur 16 
+Épreuve de chimie section PC 
+Année : 2022-2023 
+Page vide 
+ 
+
+Session Juin 2023 
+Page 1 sur 16 
+CONSIGNES 
+• Cette épreuve comporte 15 pages + 1 page vide 
+• Tout résultat doit être écrit dans les cadres adéquats. 
+• L'usage des calculatrices électroniques de poche non programmables est autorisé. 
+• Aucun échange entre les candidats n'est autorisé. 
+• Tout calcul doit être précédé d’une expression littérale.  
+• Les résultats numériques sans unité ou avec une unité fausse ne seront pas comptabilisés. 
+• En cas de besoin utiliser la page 16 vide. Dans ce cas, il faut le signaler dans la case 
+allouée à la réponse remise en fin de cahier. 
+• Ne joindre aucun brouillon.  
+• Si au cours de l’épreuve, un candidat repère ce qui lui semble être une erreur d’énoncé, 
+il la signale sur sa copie et poursuit sa composition en indiquant les raisons des 
+initiatives qu’il est amené à prendre. 
+ 
+ 
+ 
+ 
+ 
+ 
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 16 PAGES 
+NUMEROTÉES 1 sur 16, 2 sur 16, …, 16 sur 16. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cette épreuve comporte 47 questions réparties sur quatre problèmes différents.  
+Les questions regroupées dans chaque problème contiennent plusieurs parties à noter. 
+Par exemple, la question Q25-Q26 de la page 11 sera divisée en deux parties Q25 et Q26. 
+Nous vous souhaitons bonne chance et espérons que vous pourrez faire ressortir le meilleur de 
+vous-même dans cette épreuve. 
+ 
+ 
+ 
+ 
+Concours Physique et Chimie 
+Chimie inorganique 
+
+ 
+Page 2 sur 16 
+Épreuve de chimie section PC 
+Année : 2022-2023 
+Notations et données numériques 
+États des constituants physicochimiques : 
+(sd) solide ; (liq) liquide ; (g) gazeux 
+Lorsque aucune mention n'est spécifiée, les ions sont supposés implicitement en solution aqueuse. 
+Les gaz sont considérés comme parfaits. 
+Les enthalpies de changements d’état sont supposées indépendantes de la température. 
+Notations :  
+• xi : la fraction molaire de « i » dans la phase liquide. 
+• %
+iw
+: le pourcentage massique de « i » dans la phase φ. 
+• L’exposant 
+ signifie standard. 
+• ESH : électrode standard à hydrogène. 
+Constantes physiques : 
+• Constante des gaz parfaits : R = 8,314 J.mol-1.K-1. 
+• Constante d'Avogadro : NA = 6,02×1023 mol-1. 
+• Constante de Faraday : F = 96485 C.mol-1. 
+• Pression standard : p
+1
+.
+bar
+=
+ 
+• Concentration standard : C
+1
+1
+.
+.
+mol L−
+=
+ 
+Données numériques : 
+• Masses molaires atomiques (g.mol-1) :  
+V = 50,94 ; Se = 78,96 ; Cu = 63,55 ;As = 75,00 ; Si =28,00. 
+• Les numéros atomiques Z : H = 1 ; O = 8. 
+À 298 K, 
+• Potentiels standard redox à pH = 0 :  
+o E (
+)
+3
+4(
+)
+2
+3(
+)
+AsO
+H AsO
+0,91
+/
+aq
+aq
+V
+ESH
+−
+−
+=
+ 
+o E (
+)
+2
+3(
+)
+(
+)
+H AsO
+As
+0,43
+/
+aq
+sd
+V
+ESH
+−
+=
+ 
+o E (
+)
+2
+4(
+)
+2
+3(
+)
+HAsO
+H AsO
+0,57
+/
+aq
+aq
+V
+ESH
+−
+−
+=
+ 
+• La constante de Nernst : (
+)
+R
+T F
+Ln(10)
+0,059 V  
+
+
+=
+ 
+Une partie du tableau périodique des éléments chimiques 
+ 
+ 
+ 
+ 
+L'arsenic est un élément chimique métalloïde ayant pour symbole « As » et pour numéro 
+atomique, 33. Il se trouve naturellement dans la croûte terrestre, mais peut également être 
+produit par des activités humaines telles que l'exploitation minière, la fusion et la combustion 
+de combustibles fossiles. 
+L'arsenic est une substance toxique qui peut causer de graves problèmes de santé s'il est ingéré 
+ou inhalé en grandes quantités. Il peut être présent dans l'eau, les aliments et les sols 
+contaminés. Une exposition prolongée à l'arsenic peut causer des lésions cutanées, le cancer, 
+les maladies cardiovasculaires et d'autres problèmes de santé. 
+ 
+ 
+
+ 
+Page 3 sur 16 
+Épreuve de chimie section PC 
+Année : 2022-2023 
+Problème I : atomistique-liaison chimique 
+Q1) Donner la structure électronique de l’arsenic « 33As » dans son état fondamental.  
+33As : 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p3 ou bien [18Ar] 4s2 3d10 4p3 
+Q2) Quel est le nombre d’électrons de valence ? Justifier la réponse. 
+Les électrons de valence sont les électrons 4s et 4p : il en possède donc 5. 
+Les électrons de valence sont ceux qui occupent les orbitales atomiques d’énergies les plus 
+hautes (le plus souvent, ceux qui ont le nombre quantique principal le plus grand). 
+Q3) Quelle est sa position (ligne, colonne) dans la classification périodique ? Justifier la 
+réponse. 
+De la question Q1) ➔Son nombre quantique principal le plus élevé est n = 4 : As est dans 
+la quatrième période. 
+Il a une sous-couche 4p en cours de remplissage : il appartient donc au bloc p. Le numéro 
+de la colonne s’obtient en ajoutant 10 au nombre d’électrons de valence (de la question 
+Q2 ; Nv = 5) et plus précisément à la colonne 15. 
+ 
+L'arsenic appartient donc à la 4ème période et la 15ème colonne du tableau périodique. 
+• Donner pour l’ion dihydrogénoarséniate H2AsO4- : 
+Q4) Un schéma de Lewis, sachant que l’atome As est l’atome central. 
+ 
+H2AsO4- 
+Schéma de 
+Lewis 
+ 
+ 
+ 
+ 
+
+ 
+Page 4 sur 16 
+Épreuve de chimie section PC 
+Année : 2022-2023 
+• Préciser la notation (la formule) de Gillespie, la figure de répulsion, la géométrie et la 
+forme de la molécule selon la méthode V.S.E.P.R.  
+Q5) Notation de 
+Gillespie 
+ 
+AX4E0 ou AX4 
+Q6) Figure de 
+répulsion 
+Tétraèdre 
+Q7) Géométrie 
+spatiale  
+ 
+Q8) Forme de la 
+molécule 
+Tétraédrique 
+ 
+ 
+ 
+
+ 
+Page 5 sur 16 
+Épreuve de chimie section PC 
+Année : 2022-2023 
+Problème II :  cristallographie 
+Le sélénium « Se » est placé juste après l’arsenic « As » dans la classification périodique des 
+éléments chimiques. Il donne avec le cuivre « Cu » et le vanadium « V » un composé 
+intermétallique qui cristallise dans le système cubique avec un paramètre de maille a = 556,36 
+pm.  
+Les coordonnées réduites des atomes sont les suivantes : 
+• Se : (1/4,1/4,1/4) ; (3/4,3/4,1/4) ; (1/4,3/4,3/4) et (3/4,1/4,3/4) 
+• Cu : (1/2,1/2,0) ; (1/2,0,1/2) et (0,1/2,1/2) 
+Q9) Donner une représentation en perspective la maille et de son contenu, sachant que l’atome 
+de vanadium est situé au centre de la maille. 
+ 
+Q10) Représenter la projection cotée de la maille et de son contenu sur le plan (𝑎⃗,𝑏⃗⃗) passant 
+par l’origine. 
+ 
+
+ 
+Page 6 sur 16 
+Épreuve de chimie section PC 
+Année : 2022-2023 
+Q11) Représenter sur la figure de la question Q9), le 1er plan après celui passant par l’origine 
+de la famille (110). Justifier la réponse. 
+Le plan (110) coupe l’axe des x en 1 ; l’axe des y en 1 et l’axe des z à   
+Q12) Représenter la trace des atomes dans le plan (110) de la question précédente. 
+ 
+Q13) Donner les expressions des distances les plus courtes : dV-Cu  et dCu-Se en fonction du 
+paramètre « a » de la maille. 
+2
+V Cu
+a
+d −
+=
+ 
+3
+4
+Cu Se
+a
+d
+−
+
+=
+ 
+Q14) Quelle est la coordinence de chacun des atomes «V» et «Cu» ? Justifier chacune des 
+réponses. 
+Coordinence de V : 4 car il est entouré de 4 Se  
+ 
+Coordinence de Cu : 4 car il est entouré de 4 Se 
+Q15) Déterminer la formule traduisant le contenu de la maille. 
+( )
+1
+atom
+n
+V =  
+(
+)
+4
+atom
+n
+Se =  
+(
+)
+1
+6
+3
+2
+atom
+n
+Cu = 
+=  
+La formule cristallographique : Cu3Se4V 
+
+ 
+Page 7 sur 16 
+Épreuve de chimie section PC 
+Année : 2022-2023 
+Q16) Donner l’expression puis calculer la masse volumique du cristal. 
+La masse volumique s’écrit : 
+3
+3
+4
+Cu
+Se
+V
+A
+M
+M
+M
+N
+a
+
+
++ 
++
+=
+
+ 
+Application numérique : 
+(
+)
+3
+3
+3
+3
+23
+10
+3 63,55
+4 78,96
+50,94
+5,38 .
+5,38 10
+.
+6,02 10
+556,36 10
+g cm
+kg m
+
+−
+−
+−
+
++ 
++
+=
+=
+=
+
+
+
+
+ 
+Problème III : diagramme binaire liquide-solide 
+Les alliages Si-As ont des propriétés intéressantes pour une variété d'applications électroniques, 
+notamment pour la fabrication de transistors à haute vitesse, de cellules solaires à haut rendement et 
+de détecteurs de rayonnement infrarouge. 
+Nous envisageons dans ce problème de compléter puis étudier, le diagramme d’équilibre 
+solide-liquide du système Si-As, sous une pression constante (p = 1bar). 
+ 
+ 
+
+ 
+Page 8 sur 16 
+Épreuve de chimie section PC 
+Année : 2022-2023 
+Pour cela, nous disposons des informations suivantes : 
+• Le diagramme binaire liquide-solide de Si-As montre : 
+➢ Que le silicium n’est pas miscible dans l’arsenic, tandis que l’arsenic est 
+partiellement miscible dans le silicium. 
+➢ La présence de deux composés définis. 
+o L’un de ces composés définis a pour formule AsSi et son point de fusion 
+congruente est à 1200°C. 
+o Le deuxième, de composition 84% massique en As, se décompose à la 
+température 977°C en donnant le composé défini AsSi(sd) et un liquide de 
+composition 90% massique en As. 
+• Nous disposons aussi de quelques courbes d’analyse thermique de refroidissement sous 
+la pression de 1 bar : 
+ 
+Q17) Déterminer la composition (%wAs) du composé défini AsSi. 
+Le composé défini de formule AsSi 
+0,5
+As
+As
+As
+Si
+n
+x
+n
+n
+=
+=
++
+ 
+1 mol de mélange ➔ nAs =0,5 mol ➔ 
+0,5 75
+37,5
+As
+As
+As
+m
+n
+M
+g
+=
+
+=
+
+=
+ 
+                             ➔nSi = 0,5 mol ➔ 
+0,5 28
+14,0
+Si
+Si
+Si
+m
+n
+M
+g
+=
+
+=
+
+=
+ 
+37,5
+0,73
+37,5 14,0
+As
+As
+As
+Si
+m
+w
+m
+m
+=
+=
+=
++
++
+ ➔ %wAs = 73% 
+Ou bien 
+De la formule AsSi 
+1
+As
+n
+mol
+=
+ et 
+1
+Si
+n
+mol
+=
+ 
+As
+As
+As
+As
+As
+Si
+Si
+n
+M
+w
+n
+M
+n
+M
+
+=
+
++
+
+ 
+ 
+1
+1
+1
+As
+As
+As
+Si
+M
+w
+M
+M
+
+= 
++ 
+ 
+Application numérique : 
+1 75
+0,73
+1 75 1 28
+As
+w
+
+=
+=
+
++ 
+ 
+
+ 
+Page 9 sur 16 
+Épreuve de chimie section PC 
+Année : 2022-2023 
+Q18) Déterminer la formule du composé défini de composition (%wAs) = 84%. 
+0,84
+As
+As
+As
+Si
+m
+w
+m
+m
+=
+=
++
+ 
+1 g de mélange ➔ mAs =0,84 g ➔ 
+3
+0,84
+11,2 10
+75
+As
+As
+As
+m
+n
+mol
+M
+−
+=
+=
+=
+
+ 
+                          ➔mSi = 0,16 g ➔ 
+3
+0,16
+5,71 10
+28
+Si
+Si
+Si
+m
+n
+mol
+M
+−
+=
+=
+=
+
+ 
+0,66
+As
+As
+As
+Si
+n
+x
+n
+n
+=
+=
++
+ 
+Le composé défini de formule AsuSiv 
+0,66
+As
+u
+x
+u
+v
+=
+=
++
+ ➔ 
+(
+)
+0,66
+u
+u
+v
+=
+
++
+➔ 
+(
+)
+1 0,66
+0,66
+u
+v
+
+−
+=
+➔ 
+(
+)
+0,66
+2
+1 0,66
+1
+u
+v =
+
+−
+ 
+Le composé défini de formule As2Si (voir page 16, d’autres méthodes) 
+• En se basant sur le réseau de courbes d’analyse thermique, le diagramme incomplet, la 
+description du diagramme de la page 8 et les questions précédentes, préciser les coordonnées 
+de chacun des points particuliers : 
+Q19) Points eutectiques, point péritectique et solubilité maximale. 
+1 
+Point de coordonné (65%,1097°C) c’est un point eutectique à partir de la 
+courbe d’analyse thermique. 
+2 
+Point de coordonné (95%,797°C) c’est un point eutectique à partir de la 
+courbe d’analyse thermique. 
+3 
+Point de coordonné (90%,977°C) c’est un point péritectique à partir de la 
+description page 8. 
+4 
+Le point représentatif de la solubilité maximale de As dans Si est de 
+coordonnée (%wAs = 10%, 1097°C) à partir du diagramme incomplet. 
+Q20) Composés définis et points de fusion des corps purs. 
+1 
+Le composé défini AsSi à fusion congruente (énoncé) situé à 73% 
+(question Q17) et son point de fusion est de 1200°C(énoncé) 
+2 
+Le composé défini As2Si (question Q18) à fusion non congruente situé à 
+84% (énoncé) et il se décompose à la température 977°C (courbe d’analyse 
+thermique) 
+3 
+Point de coordonné (100%,831°C) c’est un point de fusion de As à partir de 
+la courbe d’analyse thermique. 
+4 
+Point de coordonné (0%,1414°C) c’est un point de fusion de Si à partir du 
+diagramme incomplet. 
+
+ 
+Page 10 sur 16 
+Épreuve de chimie section PC 
+Année : 2022-2023 
+Q21-Q22) Placer tous les points qui manquent sur le diagramme ci-dessous. 
+Q23) Compléter le diagramme en traçant les courbes qui manquent. Justifier l’allure du 
+diagramme du coté de As. 
+Justification : 
+L’allure du diagramme du côté As est justifiée par le fait que le silicium Si est totalement 
+non miscible dans As (énoncé). 
+Q24) Préciser la nature des phases dans chacun des domaines (I) et (II). 
+Domaine (I) : liquide. 
+ 
+Domaine (II) : S : solution solide de As dans Si. 
+ 
+ 
+ 
+
+ 
+Page 11 sur 16 
+Épreuve de chimie section PC 
+Année : 2022-2023 
+Q25-Q26) Expliciter la transformation (nom et équation) ayant lieu sur chacun des paliers de 
+températures 1097°C et 977°C. 
+À 1097°C, 
+(
+)
+(
+)
+(
+)
+(
+)
+%
+65%
+%
+10%
+As
+sd
+As
+sd
+liquide
+w
+S
+w
+AsSi
+
+=
+=
+=
++
+ : transformation eutectique 
+À 977°C, 
+(
+)
+2
+(
+)
+(
+)
+%
+90%
+sd
+As
+sd
+As Si
+liquide
+w
+AsSi
+=
+=
++
+ : transformation péritectique 
+ 
+• Un mélange « As-Si » liquide de masse 22 g dont la composition %wAs = 40% est refroidit 
+de 1450°C jusqu’à (1097 + )°C. 
+Q27) Quelles sont les phases présentes à (1097 + )°C ? 
+Les phases présentes à (1097 + )°C sont 
+(
+)
+sd
+S
+ et liquide. 
+Q28) Donner la composition en arsenic de chacune d’elles. 
+La composition en As dans la phase S : %
+10%
+sd
+As
+w
+=
+ 
+La composition en As dans la phase liquide : %
+65%
+liq
+As
+w
+=
+ 
+Q29) Déterminer la masse de chaque phase. 
+ 
+40 10
+1,2
+65
+40
+22
+liq
+liq
+m
+m
+m
+m
+g
+
+
+
+−
+=
+=
+
+−
+
+
++
+=
+
+ ➔ 
+10
+12
+liq
+m
+g
+m
+g
+
+
+=
+
+=
+
+ 
+Q30) Déduire la masse de l’arsenic dans chaque phase. 
+%
+100
+10%
+As
+As
+m
+w
+m
+
+
+
+=
+
+=
+ 
+10
+0,1 10
+1,0
+100
+As
+m
+m
+g
+
+
+=
+
+=
+
+=
+ 
+%
+100
+65%
+liq
+liq
+As
+As
+liq
+m
+w
+m
+=
+
+=
+ 
+65%
+0,65 12
+7,8
+100
+liq
+liq
+As
+m
+m
+g
+=
+
+=
+
+=
+ 
+
+ 
+Page 12 sur 16 
+Épreuve de chimie section PC 
+Année : 2022-2023 
+Problème IV : diagramme de Pourbaix 
+Le diagramme de Pourbaix de l’arsenic « As » fait intervenir les entités chimiques suivantes : 
+3
+4(
+)
+H AsO
+aq  ; 
+3
+3(
+)
+H AsO
+aq   
+2
+4(
+)
+H AsO
+aq
+−
+ ; 
+2
+3(
+)
+H AsO
+aq
+−
+ ; 
+2
+4(
+)
+HAsO
+aq
+−
+ ; 
+3
+4(
+)
+AsO
+aq
+−
+ et 
+(
+)
+As sd . 
+Les conventions adoptées pour le tracé de ce diagramme sont : 
+• La concentration totale en élément « As » dissous est gale à Ctra = 10-1 mol.L-1. 
+• À la frontière qui sépare les deux domaines de deux entités dissoutes, les concentrations 
+en élément « As » dans chacune des entités sont les mêmes. 
+ 
+• Indexation du diagramme de Pourbaix : 
+Q31-Q36) Donner le nombre (degré) d’oxydation de l’atome d’arsenic dans chacune 
+des entités suivantes : 
+Entité 
+n.o (As) 
+Entité 
+n.o (As) 
+3
+4(
+)
+H AsO
+aq  
+V 
+2
+4(
+)
+HAsO
+aq
+−
+ 
+V 
+3
+3(
+)
+H AsO
+aq  
+III 
+3
+4(
+)
+AsO
+aq
+−
+ 
+V 
+2
+4(
+)
+H AsO
+aq
+−
+ 
+V 
+2
+3(
+)
+H AsO
+aq
+−
+ 
+III 
+ 
+ 
+
+ 
+Page 13 sur 16 
+Épreuve de chimie section PC 
+Année : 2022-2023 
+Q37-Q42) Attribuer les entités 
+3
+4(
+)
+H AsO
+aq  ; 
+3
+3(
+)
+H AsO
+aq   
+2
+4(
+)
+H AsO
+aq
+−
+ ; 
+2
+3(
+)
+H AsO
+aq
+−
+ ; 
+2
+4(
+)
+HAsO
+aq
+−
+ ; 
+3
+4(
+)
+AsO
+aq
+−
+ et 
+(
+)
+As sd .à chacun des domaines numérotés de (1) à (7) sur le 
+diagramme.  
+ 
+Domaine (1) 
+Domaine (2) 
+Domaine (3) 
+Domaine (4) 
+3
+4(
+)
+H AsO
+aq  
+2
+4(
+)
+H AsO
+aq
+−
+ 
+2
+4(
+)
+HAsO
+aq
+−
+ 
+3
+4(
+)
+AsO
+aq
+−
+ 
+Domaine (5) 
+Domaine (6) 
+3
+3(
+)
+H AsO
+aq  
+2
+3(
+)
+H AsO
+aq
+−
+ 
+Domaine (7) 
+(
+)
+As sd  
+ 
+ 
+Q43) Montrer que l’expression numérique de la frontière séparant les domaines (4) et (6) 
+s’écrit en fonction du potentiel standard du couple mis en jeu et du pH. 
+3
+4(
+)
+2
+3(
+)
+2
+AsO
+4
+2
+H AsO
+aq
+D
+aq
+H
+e
+H O
+−
++
+−
+−
++
++
+=
++
+ : réduction 
+2( )
+2
+2
+:
+g
+G
+H
+H
+e
+oxydation
++
+−
+=
++
+ 
+L’équation-bilan :  
+3
+4(
+)
+2( )
+2
+3(
+)
+2
+AsO
+4
+H AsO
+2
+aq
+D
+g
+aq
+G
+H
+H
+H
+H O
+−
++
+−
++
++
++
+=
++
++
+ (n=2) 
+ 
+La Loi de Nernst s’écrit : 
+(
+)
+3
+4(
+)
+2
+3(
+)
+AsO
+H AsO
+aq
+aq
+E
+E
+−
+−
+=
+(
+)
+4
+3
+4
+3
+4(
+)
+2
+3(
+)
+10
+2
+3
+AsO
+0,059
+AsO
+H AsO
+log
+2
+H AsO
+D
+aq
+aq
+H
+−
++
+−
+−
+−
+
+
+
+
+
+
+
+
+
+
+
+
+
++
+
+
+
+
+
+
+
+
+
+ 
+(
+)
+3
+4(
+)
+2
+3(
+)
+AsO
+H AsO
+aq
+aq
+E
+E
+−
+−
+=
+(
+)
+(
+)
+4
+3
+4(
+)
+2
+3(
+)
+10
+0,059
+AsO
+H AsO
+log
+2
+aq
+aq
+D
+H
+−
+−
++
+
+
++
+
+
+
+ 
+(
+)
+3
+4(
+)
+2
+3(
+)
+AsO
+H AsO
+aq
+aq
+E
+E
+−
+−
+=
+(
+)
+3
+4(
+)
+2
+3(
+)
+AsO
+H AsO
+0,118
+aq
+aq
+pH
+−
+−
+−
+
+ 
+(
+)
+3
+4(
+)
+2
+3(
+)
+AsO
+H AsO
+0,91 0,118
+aq
+aq
+E
+pH
+−
+−
+=
+−
+
+ 
+• La dismutation est un type particulier de réaction redox, dans laquelle une entité chimique 
+instable joue à la fois le rôle d'oxydant dans un couple et de réducteur dans un autre couple 
+réagit sur elle-même pour donner des entités plus stables. 
+Q44) Écrire l’équation de la réaction modélisant la dismutation de H2AsO3-sachant que 
+cette entité est l’oxydant du couple 
+2
+3(
+)
+(
+)
+H AsO
+As
+aq
+sd
+−
+ et le réducteur du couple 
+3
+4(
+)
+2
+3(
+)
+AsO
+H AsO
+aq
+aq
+−
+−
+. 
+Le diagramme montre que la dismutation à lieu en milieu basique 
+2
+3(
+)
+(
+)
+H AsO
+As
+aq
+sd
+−
+ : 
+2
+3(
+)
+2
+(
+)
+(
+)
+H AsO
+3
+As
+4
+aq
+sd
+aq
+H O
+e
+HO
+−
+−
+−
++
++
+=
++
+ : réduction (milieu basique) 
+3
+4(
+)
+2
+3(
+)
+AsO
+H AsO
+aq
+aq
+−
+−
+ : 
+3
+2
+3(
+)
+4(
+)
+2
+H AsO
+4
+AsO
+3
+2
+aq
+aq
+HO
+H O
+e
+−
+−
+−
+−
++
+=
++
++
+ : oxydation (milieu basique) 
+L’équation de dismutation de H2AsO3- en milieu basique est la suivante : 
+3
+2
+3(
+)
+(
+)
+4(
+)
+2
+5H AsO
+4
+2As
+3
+7
+aq
+sd
+aq
+HO
+AsO
+H O
+−
+−
+−
++
+=
++
++
+ (Milieu basique) 
+
+ 
+Page 14 sur 16 
+Épreuve de chimie section PC 
+Année : 2022-2023 
+Q45) Retrouver par le calcul la valeur du pH à partir duquel H2AsO3- se dismute, sachant 
+que : 
+(
+)
+2
+3(
+)
+2
+3(
+)
+(
+)
+10
+H AsO
+H AsO
+As
+0,43
+0,0196 log
+aq
+aq
+sd
+E
+C
+−
+−
+
+
+
+
+=
++
+
+(
+)
+0,079
+pH
+
+
+
+−
+
+
+
+
+
+ 
+Pour cette valeur de pH : (
+)
+(
+)
+3
+2
+3(
+)
+(
+)
+4(
+)
+2
+3(
+)
+H AsO
+As
+AsO
+H AsO
+aq
+sd
+aq
+aq
+E
+E
+−
+−
+−
+=
+ 
+2
+3(
+)
+10
+H AsO
+0,43
+0,079
+0,02 log
+aq
+pH
+C
+−
+
+
+
+
+−
+
++
+
+0,91 0,118
+pH
+
+
+
+=
+−
+
+
+
+
+
+ 
+10
+0,43
+0,079
+0,02 log
+tra
+C
+pH
+C
+−
+
++
+
+0,91 0,118
+pH
+
+=
+−
+
+
+
+
+
+ 
+(
+)
+10
+0,118
+0,079
+0,91 0,43
+0,02 log
+tra
+C
+pH
+C
+
+−
+=
+−
+−
+
+
+
+
+
+
+
+ 
+10
+0,91 0,43
+0,02 log
+tra
+C
+C
+pH
+−
+−
+
+=
+(
+)
+0,118
+0,079
+
+
+
+
+
+
+−
+ 
+Application numérique 
+(
+)
+1
+10
+10
+0,91 0,43
+0,02 log
+1
+12,82
+0,118
+0,079
+pH
+−
+
+
+−
+−
+
+
+
+
+
+=
+=
+−
+ 
+(Voir page 16, une autre méthode) 
+Q46-47) Établir l’expression donnant le potentiel redox standard du couple AsO43-(aq)/As(sd) en 
+fonction de 
+(
+)
+2
+3
+4(
+)
+4(
+)
+a
+aq
+aq
+pK
+HAsO
+AsO
+−
+−
+ et des potentiels standards rédox des couples  
+HAsO42-(aq)/H2AsO3-(aq) et H2AsO3-(aq)/As(sd). Calculer sa valeur. 
+2
+3
+4(
+)
+4(
+)
+(
+)
+1
+                                 :
+aq
+aq
+aq
+r
+HAsO
+AsO
+H
+G
+−
+−
++
+=
++
+
+(
+)
+a
+R T
+Ln K
+= −
+
+ 
+2
+4(
+)
+(
+)
+2( )
+2
+3(
+)
+(
+)
+2
+2
+3
+2
+:
+aq
+D aq
+g
+aq
+G aq
+r
+HAsO
+H
+H
+H AsO
+H
+H O
+G
+−
++
+−
++
++
++
+=
++
++
+
+2
+2
+F
+E
+= −
+
+ 
+2
+3(
+)
+(
+)
+2( )
+(
+)
+(
+)
+2
+3
+3
+4
+3
+3
+:
+2
+aq
+D aq
+g
+sd
+G aq
+r
+H AsO
+H
+H
+As
+H
+H O
+G
+−
++
++
++
++
+=
++
++
+
+3
+3 F
+E
+= −
+
+ 
+3
+4(
+)
+(
+)
+2( )
+(
+)
+(
+)
+2
+4
+5
+8
+As
+5
+4
+:
+2
+aq
+D aq
+g
+sd
+G aq
+r
+AsO
+H
+H
+H
+H O
+G
+−
++
++
++
++
+=
++
++
+
+5 F
+E
+= −
+
+(
+)
+3
+4(
+)
+(
+)
+aq
+sd
+AsO
+As
+−
+ 
+Nous remarquons que : (4) = (-1) + (2) + (3) 
+4
+rG
+
+1
+rG
+= −
+2
+rG
++ 
+3
+rG
++ 
+ 
+5 F
+E
+−
+
+(
+)
+(
+)
+3
+4(
+)
+(
+)
+2
+2
+aq
+sd
+a
+AsO
+As
+R T
+Ln K
+F
+E
+−
+=
+
+
+−
+
+3
+3 F
+E
+−
+
+ 
+E (
+)
+(
+)
+2
+3
+4(
+)
+(
+)
+2
+a
+aq
+sd
+R T
+Ln K
+F
+E
+AsO
+As
+−
+
+
+−
+
+=
+3
+3 F
+E
+−
+
+5 F
+−
+E (
+)
+(
+)
+3
+4(
+)
+(
+)
+2
+1
+2
+5
+5
+aq
+sd
+a
+R T
+AsO
+As
+Ln K
+E
+F
+−
+
+= −
+
++
+
+
+
+3
+3 E
++ 
+(
+)  
+ 
+
+ 
+Page 15 sur 16 
+Épreuve de chimie section PC 
+Année : 2022-2023 
+E (
+)
+(
+)
+3
+4(
+)
+(
+)
+10
+2
+0,059
+1
+log
+2
+5
+5
+aq
+sd
+a
+AsO
+As
+K
+E
+−
+= −
+
++
+
+
+3
+3 E
++ 
+(
+)  
+E (
+)
+3
+4(
+)
+(
+)
+2
+0,059
+1
+2
+5
+5
+aq
+sd
+a
+AsO
+As
+pK
+E
+−
+=
+
++
+
+
+3
+3 E
++ 
+(
+)   
+ 
+Du diagramme pKa = pH = 11,6 
+E (
+)
+(
+)
+3
+4(
+)
+(
+)
+0,059
+1
+11,6
+2 0,57
+3 0,43
+0,62
+/
+5
+5
+aq
+sd
+AsO
+As
+V ESH
+−
+=
+
++
+
+
++ 
+=
+ 
+FIN DE L’ÉPREUVE 
+ 
+ 
+
+ 
+Page 16 sur 16 
+Épreuve de chimie section PC 
+Année : 2022-2023 
+Page vide 
+Q18)  
+2ème méthode : 
+(
+)
+As
+As
+As
+As
+As
+As
+Si
+As
+As
+Si
+Si
+As
+Si
+As
+Si
+n
+m
+M
+m
+x
+n
+n
+m
+M
+m
+M
+m
+m
+M
+M
+=
+=
+=
++
++
++
+
+ 
+(
+)
+(
+) (
+)
+0,66
+1
+As
+As
+As
+As
+Si
+As
+Si
+As
+As
+As
+Si
+w
+w
+x
+w
+w
+M
+M
+w
+w
+M
+M
+=
+=
+=
++
+
++
+−
+
+ 
+Le composé défini de formule AsuSiv 
+0,66
+As
+u
+x
+u
+v
+=
+=
++
+ ➔ 
+(
+)
+0,66
+u
+u
+v
+=
+
++
+➔ 
+(
+)
+0,66
+2
+1 0,66
+1
+u
+v =
+
+−
+ 
+D’où la formule : As2Si 
+ 
+3ème méthode 
+0,84
+As
+As
+As
+Si
+m
+w
+m
+m
+=
+=
++
+ 
+0,16
+Si
+Si
+As
+Si
+m
+w
+m
+m
+=
+=
++
+ 
+As
+As
+As
+As
+Si
+Si
+Si
+Si
+w
+m
+n
+M
+w
+m
+n
+M
+
+=
+=
+
+ ➔ 
+As
+As
+Si
+Si
+Si
+As
+n
+w
+M
+n
+w
+M
+
+
+=
+
+
+
+
+ 
+Le composé défini de formule AsuSiv 
+ 
+As
+As
+Si
+Si
+Si
+As
+n
+w
+M
+u
+v
+n
+w
+M
+
+
+=
+=
+
+
+
+
+ 
+Application numérique : 
+0,84
+28
+2
+0,16
+75
+1
+u
+v
+
+
+=
+
+
+
+
+ 
+D’où la formule : As2Si 
+ 
+Q45) 2ème méthode : 
+(
+)
+2
+3(
+)
+2
+3(
+)
+(
+)
+10
+H AsO
+H AsO
+As
+0,43
+0,0196 log
+aq
+aq
+sd
+E
+C
+−
+−
+
+
+
+
+=
++
+
+(
+)
+0,079
+pH
+
+
+
+−
+
+
+
+
+
+ 
+2
+3(
+)
+10
+H AsO
+0,079
+0,43
+0,0196 log
+aq
+pH
+C
+−
+
+
+
+
+
+=
++
+
+(
+)
+(
+)
+2
+3(
+)
+(
+)
+H AsO
+As
+aq
+sd
+E
+−
+
+
+
+−
+
+
+
+
+ 
+2
+3(
+)
+10
+H AsO
+0,43
+0,0196 log
+aq
+C
+pH
+−
+
+
+
+
++
+
+=
+(
+)
+(
+)
+2
+3(
+)
+(
+)
+H AsO
+As
+0,079
+aq
+sd
+E
+−
+
+
+
+−
+
+
+
+
+ 
+Du diagramme (
+)
+(
+)
+3
+2
+3(
+)
+(
+)
+4(
+)
+2
+3(
+)
+H AsO
+As
+AsO
+H AsO
+0,6
+/
+aq
+sd
+aq
+aq
+E
+E
+V
+ESH
+−
+−
+−
+=
+−
+ 
+1
+10
+10
+0,43
+0,0196 log
+C
+pH
+−
++
+
+(
+)
+0,6
+12,8
+0,079
+
+
+
++
+
+
+
+
+=
+ 

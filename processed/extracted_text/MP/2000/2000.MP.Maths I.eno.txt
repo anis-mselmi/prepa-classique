@@ -1,0 +1,50 @@
+--- page 1 ---
+RÉPUBLIQUE TUNISIENNE *x*
+(nstitut] preparatoie 2 BibLIOtHEQUE Ministère de 1'Enseignement Supérieur Yetudes 5 Coaceneurs  Concours Nationaux d'Entrée aux Cycles de Formation d'Ingénicurs Session Juin 2000
+Concours en Mathématiques et Physique Épreuve de Mathématiques I
+Durée 4H Barême
+Date 5 Juin 2000 Partie I : 6pts Partie II 7pts.
+8Heure Partie III 7pts
+vb zeges 4
+Lusage des calculatrices est strictement interdit. Une grande importance sera attachée à la rigueur du raisonnement, à la clarté de la rédaction et au soin de la présentation. Il est rappelé que tout résultat énoncé dans le sujet peut être utilisé pour traiter la suite, même ;il n'a ?" être démontré
+Pour la suite on note E Vespace des fonctions continues de R dans R dériv- ables en 0, E' le sous-espace de E formé des fonctions dc . lasse €' et E le sous- espace de E' formé des fonctions de classe €2 sur R*
+Partie [
+Pour f € E on pose T(f) = F la fonction définie sur R par
+cos( x ~ t)f (t)dt si I # 0
+F(r) = I f (0)
+si I = 0
+1. a) Montrer que pour I # 0 et f € E,
+sin I (1) T(f)(r) = F(r) = 9 2 J' f() cos tdt + J f() sin tdt. I b) En déduire que T(f) est continue sur R Y2 Soit f € E, montrer que lim F' (r) existe et en déduire que F € E' et donner la valeur I=0 de F' (0) 43. Calculer T(f). pour f(r) = |z| Que peut-on conclure ?
+
+--- page 2 ---
+OBo
+Jul
+b) Calculer f' en utilisant la relation (1) et en déduire que T est injective sur E 7 Soit 9 € E' et (2 f (r) = J tg(t)dt 2 Ig (r) _ g(I). a) Montrer que f € E et T(f) = 9. b) En deduire que T est un isomorphisme de E dans E' 8 . Soit ; = E' montrer que F = TUf) est dans E et que F verifie sur R [équation diférentielle fy ~ 2y _ Iy = f' 9 Donner les solutions dans E de !équation différentielle ry ~ 2y = Iy = 0. ( On pourra poser : = Iy
+Partie II
+1 Soit f € E et , € R' On suppose que T(f) = )f . Montrer que a) f € E b) f vérifie sur R [équation différentielle 21 = 1 (Dx) . Iy 4 y' _ Iy = 0
+Si A = 1, alors f(0) = 0. 2 Inversement a) Montrer que si f € E" solution dans R: de léquation (D1). alors T(f) = f . ( On pourra prendre après justification g € E telle que T(g) = f.) b) Montrer que si f € E solution dans R' de ]équation (Dx). avec ) = 1 et f(0) = 0 alors T(f) = Mf 3 Donner les fonctions f de E" qui vérifient T(f) = !f . 1 4 Montrer que pour tout réel ) + avec n € N et X = Téquation Dx admet une 2n + 1 solution développable en série entière dont on précisera son rayon de convergence. {On ne demande pas de calculer les coefficients de ce développement) _ 5 Soit n € N. Donner une série entière de la forme Lo 1 Un (z) = I2n OxIk avec ao = n! k=0
+qui converge sur R et telle que T(yn) 1 Un. 2n =1
+2
+
+--- page 3 ---
+Four toul n € 1. onl aenmlt les tonctions ( Jn )nez contnues SUI Æ par
+o (=1) * 2k Jo(I) = Uo( z) = I 4(RO)" 1=0
+Un = (2I)" J,. J_n (r) =  -1)n Jn. si n € Y
+Montrer que DOUI tout n 2 Z. la ioncrion Jn es ane solution Sur F de ! équation diférentielle
+121)
+ru (r) _ Iy(I _ 1- ~ "";y(I) = i)
+8 a ) Pour -out & = R développer en serie entiere là fonction I b) En déduire que
+(os(.x sin #
+Jo{I) =
+cos(r sin 0) d0
+2k (2k) ! sin tat = 7 4*7k9)2
+On rappelle que
+Partie III
+(On convient de noter ~ 1 @n 2 @n _ 2 @n pour toute suite Van )nez si les deux séries nez 7l=0 =x 90 Inz0 In et 2-x On sont convergentes.) 1 a) Montrer en utilisant les relarions de la question II-6-b) que pour tout n = Z.
+IJn-1 2nJn = IJn-i = 0.
+b) Vérifier aussi que pour tout n € Z.
+1 J' = ~nJn - IJn-1 et IJ' = nJn ~TJJ nl _1 :
+On définit Fapplication U sur R? par
+~oc ine U(I.0) = Jn (x)e' n ==
+2 Montrer que v est de classe €! suI R? (On pourra montrer que cette série. ainls! que les deu séries obtenues en dérivant terme à terme respectivement par rapport à 0 et par rapport & I convergent uniformément sur [ - 4,4] x R. pour tout 4 > 0.)
+3

@@ -1,0 +1,3358 @@
+Session Juin 2025 
+Page 1 sur 12 
+CONSIGNES  
+Format et rédaction : 
+• Cette épreuve est composée de 12 pages. 
+• Tous les résultats doivent être inscrits dans les espaces réservés à cet effet. 
+Calculs et matériel autorisé : 
+• Vous êtes autorisé(e) à utiliser des calculatrices électroniques de poche non programmables. 
+• Chaque calcul doit être précédé d'une expression littérale. 
+Communication et restrictions : 
+• Aucun échange de réponses ou de matériel n'est autorisé entre les candidats. 
+• Les réponses numériques doivent inclure des unités correctes pour être prises en compte. 
+• Toutes les réponses doivent être justifiées. 
+Utilisation de l'espace disponible : 
+• En cas de besoin, utiliser la page vide à la fin du cahier. Signaler son utilisation dans l'espace 
+réservé à la réponse finale. 
+Brouillons et corrections : 
+• Aucun brouillon ne doit être joint à votre copie. 
+• Si le candidat constate une anomalie dans l’énoncé durant l’épreuve, il est tenu de la noter sur 
+sa copie et de poursuivre sa composition en explicitant les modifications qu’il a été amené à 
+effectuer. 
+ 
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 12 PAGES NUMÉROTÉES  
+1 sur 12, 2 sur 12, …, 12 sur 12. 
+ 
+Concours Technologique 
+ 
+ 
+ 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Session Juin 2025 
+Page 2 sur 12 
+Recommandations, notations et données numériques 
+• Lorsque aucune mention n'est spécifiée, les ions sont supposés implicitement en solution 
+aqueuse. 
+• Les mélanges liquides ou solides sont supposés idéaux. 
+• Les enthalpies de changements d’état sont supposées indépendantes de la température. 
+• Dans un souci d’allègement, on utilisera la notation H+ de préférence à la notation H3O+. 
+Notations et symboles :  
+• États physiques : :(sd) solide ; (liq) liquide ; (g) gazeux. 
+• L’exposant cd, signifie « condensé ».  
+• L’exposant 
+ signifie standard. 
+• 
+ix : la fraction molaire de « i » dans la phase . 
+• 
+i
+
+ : potentiel chimique du constituant « i » dans la phase φ. 
+• ESH : électrode standard à hydrogène. 
+Constantes physiques : 
+• Constante des gaz parfaits : R = 8,314 J.mol-1.K-1. 
+• Constante d'Avogadro : NA = 6,02×1023 mol-1. 
+• Constante de Faraday : F = 96485 C.mol-1. 
+• Pression standard : p
+1
+.
+bar
+=
+ 
+• Concentration standard : C
+1
+1
+.
+.
+mol L−
+=
+ 
+Données numériques : 
+• Électronégativités (échelle de Pauling) : Ru = 2,20 ; O = 3,44 . 
+À 298 K, 
+• La constante d’autoprotolyse de l’eau : Ke =10-14 
+• La constante de Nernst : (
+)
+R T F
+Ln(10)
+0,059 V  
+
+
+=
+ 
+• Potentiels redox standard à pH = 0 :  
+E
+( ) ( )
+(
+)
+2
+1
+0 4900
+,
+V / ESH
+=
+ 
+E
+(
+)
+(
+)
+(
+)
+2
+4
+4
+8
+ 
+0 6,
+V / ESH
+RuO
+aq / RuO
+aq
+−
+−
+=
+ 
+• Potentiel redox standard à pH = 14 :  
+E (
+)
+2
+0 401
+O ( g ) HO ( aq )
+,
+V / ESH
+−
+=
+  
+ 
+ 
+ 
+Le ruthénium (symbole Ru) est un métal précieux de couleur blanc argenté découvert en 1808. Son 
+nom vient du latin « Ruthenia » qui signifie « Russie ». Grâce à ses propriétés uniques, il est utilisé dans 
+divers domaines comme la catalyse ou l'électronique.  
+Le ruthénium de configuration électronique fondamentale [36Kr]5s14d7 et de masse molaire atomique 
+moyenne de 101,07 g.mol-1, présente des propriétés chimiques et physiques uniques. 
+ 
+ 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 3 sur 12 
+Épreuve de chimie section T 
+Année : 2024-2025 
+Problème 1 : atomistique-liaison chimique 
+Le but de ce problème est d'analyser les caractéristiques du ruthénium en comparaison avec d'autres 
+éléments chimiques, tout en explorant ses interactions avec d'autres substances. 
+A. Étude structurale  
+Q1) Identifier la position (ligne, colonne) du ruthénium dans le tableau périodique. Déduire cette 
+position à partir de sa configuration électronique et justifier. 
+ 
+Q2) Associer le ruthénium à un bloc et une famille dans la classification périodique. Illustrer la réponse 
+avec des arguments électroniques. 
+ 
+Le rubidium « Rb » est un métal alcalin et le Xénon « Xe » est un gaz rare. Ces deux éléments 
+appartiennent à la même période (ligne) que le ruthénium « Ru » dans la classification périodique des 
+éléments chimiques.  
+Q3) Calculer les numéros atomiques de 'Rb' et de 'Xe'. 
+  
+Q4) Déterminer si l'atome de ruthénium est paramagnétique ou diamagnétique. Représenter les cases 
+quantiques associées à la couche de valence. 
+ 
+En présence du dioxygène, le ruthénium se transforme en tétroxyde de ruthénium RuO4. 
+Q5) Analyser la nature de la liaison entre le ruthénium et l'oxygène en termes de caractère ionique et 
+covalent. 
+ 
+À l’état solide, RuO4 est un cristal de couleur jaune, qui présente un faible point de fusion ; ne conduit 
+pas le courant électrique (isolant), il est peu soluble dans les solvants polaires. Par contre  il est très 
+soluble dans les solvants apolaires tel que : le tétrachlorométhane « CCl4 ». 
+Q6) À quelle catégorie de solide cristallin appartient RuO4 ?  
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 4 sur 12 
+Épreuve de chimie section T 
+Année : 2024-2025 
+B. Mise en solution du tétroxyde de ruthénium dans l’eau 
+Q7) Décrire les étapes de la dissolution de 10 g de RuO4 dans 500 mL d'eau. Expliquer ce qui se passe 
+au niveau moléculaire. 
+ 
+Q8) Écrire l'équation chimique de la dissolution de RuO4(sd). 
+ 
+Q9) Classer l'eau et le cyclohexane selon leur caractère polaire ou apolaire. 
+Justifier la réponse avec leurs structures moléculaires.  
+ 
+Q10) Comparer qualitativement la solubilité de RuO4(sd) dans l'eau et dans le cyclohexane. Expliquer 
+les différences observées en fonction des interactions soluté-solvant. 
+ 
+Problème 2 : cristallographie-diagramme liquide-solide 
+Le but de ce problème est d’analyser les structures cristallines et d’interpréter des données physico-
+chimiques afin d’étudier les propriétés thermodynamiques des alliages. 
+A. Étude de la structure cristalline du ruthénium 
+Le ruthénium (Ru) à l'état solide cristallise dans un système hexagonal compact. La figure ci-dessous 
+présente une vue de dessus selon l’axe c d'une partie du réseau hexagonal ainsi que son contenu. 
+Pour décrire le réseau hexagonal, il est nécessaire de choisir une origine appropriée. Cette origine doit 
+être cohérente avec la position des atomes dans le réseau. 
+Q11) Sur la figure, choisir une origine et dessiner les vecteurs de base (𝑎⃗, 𝑏⃗) de la maille hexagonale. 
+Ces vecteurs doivent être orientés de manière à permettre la localisation des atomes de ruthénium 
+(Ru) aux coordonnées réduites suivantes : (0,0) et (2/3,1/3).  
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 5 sur 12 
+Épreuve de chimie section T 
+Année : 2024-2025 
+Q12) La figure ci-dessus peut représenter une projection du réseau hexagonal sur le plan défini par les 
+vecteurs 𝑎⃗ et 𝑏⃗. À partir de cette projection, identifier tous les atomes de ruthénium (Ru) qui se trouvent 
+dans la maille hexagonale. Pour chaque atome de Ru identifié, préciser les côtes. 
+À répondre sur la figure. 
+Q13) Donner une représentation en perspective de la maille obtenue et de son contenu. 
+ 
+Sur la figure de la question précédente  
+Q14) Montrer la direction des plans compacts (par des flèches). 
+À répondre sur la figure. 
+Q15) Encercler le motif cristallographique. Justifier le choix de ce motif. 
+ 
+Q16) Donner l’expression puis calculer la masse volumique du ruthénium solide, Sachant que le 
+volume de la maille est de 26,95×10-30 m3. 
+ 
+B. Alliages Ru-Re 
+On s’intéresse maintenant aux alliages du ruthénium (Ru) avec le rhénium (Re). 
+Le rhénium « Re » cristallise dans un réseau hexagonal compact. 
+Les caractéristiques physico-chimiques des éléments Ru et Re sont regroupées dans le tableau ci-
+dessous : 
+Caractéristique 
+Ru 
+Re 
+Structure cristallographique 
+Hexagonale compacte 
+Hexagonale compacte 
+Rayon métallique 
+134 pm 
+137 pm 
+Point de fusion  
+2334°C 
+3186°C 
+Électronégativité (échelle de Pauling) 
+2,2 
+1,9 
+fus
+m
+H
+
+1
+/
+.
+kJ mol − 
+24,0 
+32,2 
+Q17) Les alliages Ru-Re sont-ils d’insertion ou de substitution ? Justifier la réponse.  
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 6 sur 12 
+Épreuve de chimie section T 
+Année : 2024-2025 
+Q18) Dessiner une allure pour le diagramme liquide-solide du 
+binaire Ru-Re sous la pression p = 1bar. Préciser les valeurs des 
+points particuliers et les phases présentes dans les différentes 
+parties du diagramme (°C) = f(xRe). 
+Nous supposerons pour la suite du problème que tous les 
+mélanges sont idéaux. 
+Nous portons 10 mol de l’alliage de fraction molaire en Ru  
+(
+0 50
+sd
+Ru
+x
+,
+=
+) à 2757°C. Nous obtenons alors deux phases en 
+équilibre : une phase liquide et une phase solide. 
+Nous souhaitons déterminer la fraction molaire de Ru de 
+chacune des deux phases, puis déduire la quantité de matière de 
+chacune d’elles à cette même température. 
+Donner les expressions des potentiels chimiques d’un constituant « i » dans le mélange binaire, 
+sachant que ces propriétés sont rapportées à l’état standard et qu’on néglige le terme en 
+*,
+,
+cd
+m i
+V
+. 
+Q19) Dans la phase liquide.  
+ 
+Q20) Dans la phase solide.  
+ 
+Q21) Quelle relation doit vérifier les potentiels chimiques de « i » à l’équilibre ? 
+ 
+Q22) Montrer que le logarithme népérien du rapport 
+liq
+i
+sd
+i
+x
+x
+des fractions molaires de « i » dans les 
+phases liquide et solide s’écrit en fonction de l’enthalpie libre molaire standard de fusion de « i » 
+sous la forme : 
+f
+liq
+i
+sd
+m
+i
+us
+x
+Ln x
+G
+
+= −
+
+
+
+
+
+( )i
+R T
+
+ 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 7 sur 12 
+Épreuve de chimie section T 
+Année : 2024-2025 
+Q23) Donner l’expression de la loi de Van’t Hoff appliquée à l’équilibre i(sd) = i(liq). 
+ 
+Q24) Montrer que l’expression du logarithme népérien du rapport 
+liq
+i
+sd
+i
+x
+x
+des fractions molaires de 
+« i » dans les phases liquide et solide s’écrit en fonction de l’enthalpie molaire standard de 
+fusion de « i » sous la forme : 
+m
+liq
+s
+i
+fu
+sd
+i
+x
+L
+x
+H
+n
+=
+
+
+
+
+
+( )
+1
+fus
+i
+R
+T
+
+( )
+1
+i
+T
+
+
+−
+
+
+
+
+
+
+ 
+ 
+Q25) En se basant sur les questions précédentes, déterminer les valeurs de la fraction molaire 
+de Ru pour chacune des deux phases. (Donner les résultats à trois chiffres après la virgule). 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 8 sur 12 
+Épreuve de chimie section T 
+Année : 2024-2025 
+Q26) Déterminer alors, la quantité de matière de chacune des phases liquide et solide obtenues 
+à 2757°C. 
+ 
+Problème 3 : diagrammes de Pourbaix 
+L'objectif de ce problème est d'explorer le comportement chimique du ruthénium en milieu chlorure à 
+travers l'analyse de son diagramme potentiel-pH. 
+Partie I 
+On considère le diagramme potentiel-pH du ruthénium en milieu chlorure.  
+ 
+   
+Fig.1 : Diagramme de Pourbaix du ruthénium Ctra = x mol.L-1 . 
+Le diagramme potentiel-pH du ruthénium ci-dessus fait intervenir les entités suivantes :  
+Ru (sd), RuO4 (aq), 
+(
+)
+4
+2
+10
+Ru OCl
+aq
+−
+
+
+
+
+, RuO2(H2O)2 (sd), 
+(
+)
+4
+RuO
+aq
+−
+, 
+(
+)
+2
+4
+RuO
+aq
+−
+ et 
+(
+)
+(
+)
+2
+5
+2
+RuCl
+H O
+aq .
+−
+
+
+
+
+ 
+Q27) Compléter le tableau ci-dessus en indiquant le degré d’oxydation de Ru dans chacune des 
+entités. 
+Entité 
+État 
+physique 
+Couleur 
+Degré 
+d’oxydation 
+de Ru 
+Ru 
+(sd) 
+Blanc argenté 
+0 
+RuO4 
+(aq) 
+Jaune 
+ 
+4
+RuO− 
+(aq) 
+Vert 
+ 
+2
+4
+RuO − 
+(aq) 
+Orange 
+ 
+RuO2(H2O)2 
+(sd) 
+Bleu-noir 
+ 
+[RuCl5(H2O)]2- 
+(aq) 
+Jaune 
+ 
+[Ru2OCl10]4- 
+(aq) 
+Brun-rouge 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 9 sur 12 
+Épreuve de chimie section T 
+Année : 2024-2025 
+Q28) Classer horizontalement les entités ayant le même degré d’oxydation selon leurs propriétés. 
+Justifier la réponse. 
+ 
+Q29) Attribuer les entités à chacun des 
+domaines. 
+Q30) Qualifier chacun des domaines ci-dessous, 
+comme zone de corrosion, d'immunité ou de 
+passivation. 
+Domaine 
+Entité 
+(1) 
+ 
+(2) 
+ 
+(3) 
+ 
+(4) 
+ 
+Domaine 
+Zone de  
+(1) 
+ 
+(3) 
+ 
+(4) 
+ 
+Q31) En milieu basique, RuO42-(aq) subit une dismutation. Écrire les demi-réactions redox et 
+l’équation bilan de dismutation. 
+ 
+En se basant sur le diagramme de Pourbaix du ruthénium Fig.1 et sachant que la concentration en ions 
+chlorure [Cl-] vaut 1 mol.L-1. 
+Q32) Déterminer la valeur de la concentration du tracé x, de ce diagramme. 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 10 sur 12 
+Épreuve de chimie section T 
+Année : 2024-2025 
+Q33) Déterminer la valeur la constante d'équilibre de la réaction impliquant les entités (3) et (4) 
+du diagramme, étant donné que le pH à la frontière verticale qui les sépare est de 2,08. 
+ 
+Partie II 
+Dans cette partie nous souhaitons étudier le comportement du tétroxyde de ruthénium dans un milieu 
+alcalin. 
+ 
+Fig.2 : superposition des digrammes de Pourbaix de la Fig.1 et de l’eau. 
+Q34) Écrire l’équation chimique ; notée (A) ; traduisant le comportement d’une solution aqueuse de 
+RuO4(aq) dans un milieu basique (NaOH, 10-4 mol.L-1) aéré. Veiller à ce que le coefficient 
+stœchiométrique de RuO₄(aq) soit égal à 2 dans l’équation bilan. 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 11 sur 12 
+Épreuve de chimie section T 
+Année : 2024-2025 
+Q35) Prévoir le(s) phénomène(s) observé(s). 
+ 
+À 298K, les valeurs des potentiels chimiques standard des différentes entités : 
+Entité « i » 
+RuO4(aq) 
+RuO4-(aq) 
+RuO42-(aq) H2O(liq) H+(aq) 
+HO-(aq) O2(g) H2(g) 
+i
+1
+kJ.mol− 
+-147,7 
+-234,3 
+-299,6 
+-237,2 
+0 
+-157,3 
+0 
+0 
+Q36) Donner l’expression puis calculer la valeur de l’enthalpie libre standard de la réaction (A). 
+ 
+Q37) Déterminer la valeur du potentiel standard rédox E (
+)
+4
+4
+RuO ( aq ) RuO ( aq )
+−
+. 
+ 
+ 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 12 sur 12 
+Épreuve de chimie section T 
+Année : 2024-2025 
+Problème 4 : courbes i-E  
+Ce problème explore les principes de l'électrochimie à travers l'analyse du couple redox RuO4-/ RuO42- 
+Q38) Écrire la demi-équation de réduction relative au couple RuO4-(aq)/ RuO42-(aq). 
+ 
+Q39) Écrire l’équation bilan permettant la détermination du potentiel d’électrode de ce système par 
+rapport à l’électrode standard à hydrogène. 
+ 
+Q40) Analyser et justifier l’allure de la courbe intensité potentiel d’un mélange de 0,15 mol.L-1 en RuO4- 
+et 3×10-2 mol.L-1 en RuO42-.  
+Considérer que le système RuO4-/ RuO42- est un système lent. 
+• Surtension anodique à courant nul sur l’électrode de platine : 0,a (RuO4-/ RuO42-) est de 
+0,50V/ESH à pH = 0. 
+• Surtension cathodique à courant nul sur l’électrode de platine : 0,c (RuO4-/ RuO42-) est de 
+0,25V/ESH  à pH =0.  
+ 
+FIN DE L’ÉPREUVE 
+BIB-IPEIS
+BIB-IPEIS
+
+Session Juin 2025 
+Page 1 sur 12 
+CONSIGNES  
+Format et rédaction : 
+• Cette épreuve est composée de 12 pages. 
+• Tous les résultats doivent être inscrits dans les espaces réservés à cet effet. 
+Calculs et matériel autorisé : 
+• Vous êtes autorisé(e) à utiliser des calculatrices électroniques de poche non programmables. 
+• Chaque calcul doit être précédé d'une expression littérale. 
+Communication et restrictions : 
+• Aucun échange de réponses ou de matériel n'est autorisé entre les candidats. 
+• Les réponses numériques doivent inclure des unités correctes pour être prises en compte. 
+• Toutes les réponses doivent être justifiées. 
+Utilisation de l'espace disponible : 
+• En cas de besoin, utiliser la page vide à la fin du cahier. Signaler son utilisation dans l'espace 
+réservé à la réponse finale. 
+Brouillons et corrections : 
+• Aucun brouillon ne doit être joint à votre copie. 
+• Si le candidat constate une anomalie dans l’énoncé durant l’épreuve, il est tenu de la noter sur 
+sa copie et de poursuivre sa composition en explicitant les modifications qu’il a été amené à 
+effectuer. 
+ 
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 12 PAGES NUMÉROTÉES  
+1 sur 12, 2 sur 12, …, 12 sur 12. 
+ 
+Concours Technologique 
+ 
+ 
+ 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Session Juin 2025 
+Page 2 sur 12 
+Recommandations, notations et données numériques 
+• Lorsque aucune mention n'est spécifiée, les ions sont supposés implicitement en solution 
+aqueuse. 
+• Les mélanges liquides ou solides sont supposés idéaux. 
+• Les enthalpies de changements d’état sont supposées indépendantes de la température. 
+• Dans un souci d’allègement, on utilisera la notation H+ de préférence à la notation H3O+. 
+Notations et symboles :  
+• États physiques : :(sd) solide ; (liq) liquide ; (g) gazeux. 
+• L’exposant cd, signifie « condensé ».  
+• L’exposant ○ signifie standard. 
+• 
+ixϕ  : la fraction molaire de « i » dans la phase ϕ. 
+• 
+i
+ϕ
+µ  : potentiel chimique du constituant « i » dans la phase φ. 
+• ESH : électrode standard à hydrogène. 
+Constantes physiques : 
+• Constante des gaz parfaits : R = 8,314 J.mol-1.K-1. 
+• Constante d'Avogadro : NA = 6,02×1023 mol-1. 
+• Constante de Faraday : F = 96485 C.mol-1. 
+• Pression standard : p○
+1
+.
+bar
+=
+ 
+• Concentration standard : C○
+1
+1
+.
+.
+mol L−
+=
+ 
+Données numériques : 
+• Électronégativités (échelle de Pauling) : Ru = 2,2 ; O = 3,44 . 
+À 298 K, 
+• La constante d’autoprotolyse de l’eau : Ke =10-14 
+• La constante de Nernst : (
+)
+R T F
+Ln(10)
+0,059 V  
+×
+×
+=
+ 
+• Potentiels redox standard à pH = 0 :  
+E ○( ) ( )
+(
+)
+2
+1
+0 4900
+,
+V / ESH
+=
+ 
+E ○
+(
+)
+(
+)
+(
+)
+2
+4
+4
+8
+ 
+0 6,
+V / ESH
+RuO
+aq / RuO
+aq
+−
+−
+=
+ 
+• Potentiel redox standard à pH = 14 :  
+E ○(
+)
+2
+0 401
+O ( g ) HO ( aq )
+,
+V / ESH
+−
+=
+  
+ 
+ 
+ 
+Le ruthénium (symbole Ru) est un métal précieux de couleur blanc argenté découvert en 1808. Son 
+nom vient du latin « Ruthenia » qui signifie « Russie ». Grâce à ses propriétés uniques, il est utilisé dans 
+divers domaines comme la catalyse ou l'électronique.  
+Le ruthénium de configuration électronique fondamentale [36Kr]5s14d7 et de masse molaire atomique 
+moyenne de 101,07 g.mol-1, présente des propriétés chimiques et physiques uniques. 
+ 
+ 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 3 sur 12 
+Épreuve de chimie section T 
+Année : 2024-2025
+Problème 1 : atomistique-liaison chimique 
+Le but de ce problème est d'analyser les caractéristiques du ruthénium en comparaison avec d'autres 
+éléments chimiques, tout en explorant ses interactions avec d'autres substances. 
+A. Étude structurale  
+Q1) Identifier la position (ligne, colonne) du ruthénium dans le tableau périodique. Déduire cette 
+position à partir de sa configuration électronique et justifier. 
+Le ruthénium appartient à la 5ᵉ période et au groupe 8 du tableau périodique. Cela se déduit de sa 
+configuration électronique [36Kr]5s14d7. 
+Le nombre d’électrons de valence NV = 8  8ème colonne. 
+Le plus grand n = 5  5ème ligne. 
+Q2) Associer le ruthénium à un bloc et une famille dans la classification périodique. Illustrer la réponse 
+avec des arguments électroniques. 
+Le ruthénium est un élément du bloc d en raison de ses électrons de valence d. Il appartient à la 
+famille des métaux de transition du groupe 8 car Il présente une sous couche électronique « d » 
+incomplète. 
+Le rubidium « Rb » est un métal alcalin et le Xénon « Xe » est un gaz rare. Ces deux éléments 
+appartiennent à la même période (ligne) que le ruthénium « Ru » dans la classification périodique des 
+éléments chimiques.  
+Q3) Calculer les numéros atomiques de 'Rb' et de 'Xe'. 
+De la configuration électronique   Z(Ru) = 36 +8 = 44  
+De la question Q1)  Ru apparient à la 8ème colonne. 
+Rb est un alcalin (1ère colonne)  Z(Rb) = 44 – 7 =37 
+Xe est un gaz rare (18ème colonne)  Z(Xe) = 44 + 10 =54 
+ 
+Q4) Déterminer si l'atome de ruthénium est paramagnétique ou diamagnétique. Représenter les cases 
+quantiques associées à la couche de valence. 
+ 
+Le ruthénium est paramagnétique en raison de la présence d’électrons non appariés dans les 
+orbitales 4d et 5s. 
+En présence du dioxygène, le ruthénium se transforme en tétroxyde de ruthénium RuO4. 
+Q5) Analyser la nature de la liaison entre le ruthénium et l'oxygène en termes de caractère ionique et 
+covalent. 
+Les liaisons dans RuO4 ont une nature covalente polaire (à caractère ionique), car la différence 
+d’électronégativité entre le ruthénium et l’oxygène 
+3 44
+2 20
+1 24
+,
+,
+,
+∆χ =
+−
+=
+. Les électrons de liaison 
+seront légèrement attirés par l’oxygène. 
+À l’état solide, RuO4 est un cristal de couleur jaune, qui présente un faible point de fusion ; ne conduit 
+pas le courant électrique (isolant), il est peu soluble dans les solvants polaires. Par contre  il est très 
+soluble dans les solvants apolaires tel que : le tétrachlorométhane « CCl4 ». 
+Q6) À quelle catégorie de solide cristallin appartient RuO4 ?  
+RuO4 appartient à la catégorie des solides moléculaires en raison de son faible point de fusion et par 
+le fait qu’il est un isolant et sa faible solubilité dans les solvants polaires. 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 4 sur 12 
+Épreuve de chimie section T 
+Année : 2024-2025
+B. Mise en solution du tétroxyde de ruthénium dans l’eau 
+Q7) Décrire les étapes de la dissolution de 10 g de RuO4 dans 500 mL d'eau. Expliquer ce qui se passe 
+au niveau moléculaire. 
+RuO4(sd) est sous forme moléculaire (neutre), la mise en solution se déroule en deux étapes 
+seulement : 
+• La solvatation : le soluté RuO4 s’entoure de molécules d’eau.  
+• La dispersion : Le mouvement permanent des molécules de solvant dû à l’agitation 
+thermique permet ensuite aux molécules solvatées de se disperser dans l’ensemble de la 
+solution. 
+ 
+Q8) Écrire l'équation chimique de la dissolution de RuO4(sd). 
+RuO4(sd) = RuO4(aq) 
+Le tétroxyde de ruthénium reste sous forme moléculaire en solution. 
+Q9) Classer l'eau et le cyclohexane selon leur caractère polaire ou apolaire. 
+Justifier la réponse avec leurs structures moléculaires.  
+• L’eau est polaire en raison de sa géométrie coudée et des dipôles 
+associés aux liaisons O−H.  
+• 
+Le cyclohexane, molécule symétrique, est apolaire. 
+Q10) Comparer qualitativement la solubilité de RuO4(sd) dans l'eau et dans le cyclohexane. Expliquer 
+les différences observées en fonction des interactions soluté-solvant. 
+RuO4 est plus soluble dans le cyclohexane en raison de la compatibilité des interactions 
+cyclohexane-RuO4 (solvant apolaire- soluté apolaire), contrairement aux interactions eau-RuO4 
+(solvant polaire- soluté apolaire). 
+ 
+Problème 2 : cristallographie-diagramme liquide-solide 
+Le but de ce problème est d’analyser les structures cristallines et d’interpréter des données physico-
+chimiques afin d’étudier les propriétés thermodynamiques des alliages. 
+A. Étude de la structure cristalline du ruthénium 
+Le ruthénium (Ru) à l'état solide cristallise dans un système hexagonal compact. La figure ci-dessous 
+présente une vue de dessus selon l’axe c d'une partie du réseau hexagonal ainsi que son contenu. 
+Pour décrire le réseau hexagonal, il est nécessaire de choisir une origine appropriée. Cette origine doit 
+être cohérente avec la position des atomes dans le réseau. 
+Q11) Sur la figure, choisir une origine et dessiner les vecteurs de base ⃗, ⃗ de la maille hexagonale. 
+Ces vecteurs doivent être orientés de manière à permettre la localisation des atomes de ruthénium 
+(Ru) aux coordonnées réduites suivantes : (0,0) et (2/3,1/3).  
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 5 sur 12 
+Épreuve de chimie section T 
+Année : 2024-2025
+Q12) La figure ci-dessus peut représenter une projection du réseau hexagonal sur le plan défini par les 
+vecteurs ⃗ et ⃗. À partir de cette projection, identifier tous les atomes de ruthénium (Ru) qui se trouvent 
+dans la maille hexagonale. Pour chaque atome de Ru identifié, préciser les côtes. 
+À répondre sur la figure. 
+Q13) Donner une représentation en perspective de la maille obtenue et de son contenu. 
+  
+Sur la figure de la question précédente  
+Q14) Montrer la direction des plans compacts (par des flèches). 
+À répondre sur la figure. 
+Q15) Encercler le motif cristallographique. Justifier le choix de ce motif. 
+Le motif cristallographique est formé par deux atomes de Ru de coordonnées réduites 
+(0,0,0) et (2/3,1/3,1/2) car  
+• La maille hc est mode P. (Réseau de Bravais). 
+• 
+Les translations permises pour le mode P sont ⃗, ⃗ 
+ ⃗. 
+Q16) Donner l’expression puis calculer la masse volumique du ruthénium solide, Sachant que le 
+volume de la maille est de 26,95×10-30 m3. 
+La masse volumique s’écrit : 
+(
+)
+atom
+Ru
+A
+maille
+n
+Ru
+M
+N
+V
+×
+ρ =
+×
+ 
+Application numérique : 
+3
+3
+3
+23
+30
+2 101 07 10
+12 46 10
+6 02 10
+26 95 10
+,
+,
+kg.m
+,
+,
+−
+−
+−
+×
+×
+ρ =
+=
+×
+×
+×
+×
+ 
+B. Alliages Ru-Re 
+On s’intéresse maintenant aux alliages du ruthénium (Ru) avec le rhénium (Re). 
+Le rhénium « Re » cristallise dans un réseau hexagonal compact. 
+Les caractéristiques physico-chimiques des éléments Ru et Re sont regroupées dans le tableau ci-
+dessous : 
+Caractéristique 
+Ru 
+Re 
+Structure cristallographique 
+Hexagonale compacte 
+Hexagonale compacte 
+Rayon métallique 
+134 pm 
+137 pm 
+Point de fusion  
+2334°C 
+3186°C 
+Électronégativité (échelle de Pauling) 
+2,2 
+1,9 
+fus
+m
+H
+∆
+○
+1
+/
+.
+kJ mol − 
+24,0 
+32,2 
+Q17) Les alliages Ru-Re sont-ils d’insertion ou de substitution ? Justifier la réponse.  
+Les alliages Ru-Re sont de substitution.  
+• Les deux éléments ont des tailles voisines. 
+• Ils ont la même structure cristallographique (h.c.). 
+• Ils ont des électronégativités voisines. 
+Ils froment une série continue d’alliages, sur tout l’intervalle de compositions. 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 6 sur 12 
+Épreuve de chimie section T 
+Année : 2024-2025
+Q18) Dessiner une allure pour le diagramme liquide-solide du 
+binaire Ru-Re sous la pression p = 1bar. Préciser les valeurs des 
+points particuliers et les phases présentes dans les différentes 
+parties du diagramme θ(°C) = f(xRe). 
+Nous supposerons pour la suite du problème que tous les 
+mélanges sont idéaux. 
+Nous portons 10 mol de l’alliage de fraction molaire en Ru  
+(
+0 50
+sd
+Ru
+x
+,
+=
+) à 2757°C. Nous obtenons alors deux phases en 
+équilibre : une phase liquide et une phase solide. 
+Nous souhaitons déterminer la fraction molaire de Ru de 
+chacune des deux phases, puis déduire la quantité de matière de 
+chacune d’elles à cette même température. 
+Donner les expressions des potentiels chimiques d’un constituant « i » dans le mélange binaire, 
+sachant que ces propriétés sont rapportées à l’état standard et qu’on néglige le terme en 
+*,
+,
+cd
+m i
+V
+. 
+Q19) Dans la phase liquide.  
+liq
+i
+i
+≈
+○
+µ
+µ
+( )
+(
+)
+,
+liq
+i
+liq
+R T
+Ln x
+T
+×
+×
++
+ 
+Q20) Dans la phase solide.  
+i
+sd
+i
+≈
+○
+µ
+µ
+( )
+(
+)
+,
+sd
+sd
+i
+R T
+L
+T
+n x
+×
+×
++
+ 
+Q21) Quelle relation doit vérifier les potentiels chimiques de « i » à l’équilibre ? 
+Pour chaque constituant « i »  :
+liq
+sd
+i
+i
+=
+µ
+µ
+ 
+Q22) Montrer que le logarithme népérien du rapport 
+liq
+i
+sd
+i
+x
+x
+des fractions molaires de « i » dans les 
+phases liquide et solide s’écrit en fonction de l’enthalpie libre molaire standard de fusion de « i » 
+sous la forme : 
+f
+liq
+i
+sd
+m
+i
+us
+x
+Ln x
+G
+
+= −
+
+∆
+
+
+
+○( )i
+R T
+×
+ 
+i
+○
+µ
+( )
+(
+)
+,
+liq
+i
+liq
+i
+R T
+Ln x
+T +
+×
+×
+=
+○
+µ
+( )
+(
+)
+,
+sd
+sd
+i
+R T
+L
+T
+n x
+×
+×
++
+ 
+liq
+sd
+i
+i
+ix
+R T
+Ln x
+
+
+×
+×
+=
+
+
+
+
+○
+µ
+( )
+,sd
+i
+T −
+○
+µ
+( )
+,liq T  
+liq
+i
+s
+i
+i
+d
+x
+Ln x
+
+=
+
+
+
+
+○
+µ
+( )
+,sd
+i
+T −
+○
+µ
+( )
+,liq T
+R T
+×
+ 
+iµ ○
+( )
+,
+,
+sd
+m i
+T
+H
+=
+○,
+,
+sd
+m i
+T
+S
+−
+×
+○,sd  
+iµ ○
+( )
+,
+,
+liq
+m i
+T
+H
+=
+○,
+,
+liq
+m i
+T
+S
+−
+×
+○,liq  
+,
+liq
+i
+sd
+i
+i
+m
+H
+x
+Ln x
+
+=
+
+
+
+
+○,
+,
+sd
+m i
+T
+S
+−
+×
+○
+(
+)
+,
+,
+sd
+m i
+H
+−
+○,
+,
+liq
+m i
+T
+S
+−
+×
+○
+(
+)
+,liq
+R T
+×
+ 
+,
+liq
+i
+sd
+i
+i
+m
+H
+x
+Ln x
+
+=
+
+
+
+
+○,
+,
+sd
+m i
+H
+−
+○
+(
+)
+,
+,
+liq
+m i
+T S
+−
+○,
+,
+sd
+m i
+S
+−
+○
+(
+)
+,liq
+fus
+m
+H
+R T
+∆
+= −
+×
+○( )
+fus
+m
+i
+T
+S
+−
+×∆
+○( )i
+R T
+×
+ 
+Ou bien  
+r
+m
+G
+∆
+○
+i
+i
+i
+ν
+µ
+=
+×
+
+○ 
+fus
+m
+G
+∆
+○( )
+i
+i
+µ
+=
+○,liq
+iµ
+−
+○,sd  
+f
+liq
+i
+sd
+m
+i
+us
+x
+Ln x
+G
+
+=
+
+∆
+−
+
+
+
+○( )i
+R T
+×
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 7 sur 12 
+Épreuve de chimie section T 
+Année : 2024-2025
+Q23) Donner l’expression de la loi de Van’t Hoff appliquée à l’équilibre i(sd) = i(liq). 
+dLn K ○
+(
+)
+fus
+m
+d
+H
+T
+∆
+=
+○( )
+2
+i
+R T
+×
+ 
+Q24) Montrer que l’expression du logarithme népérien du rapport 
+liq
+i
+sd
+i
+x
+x
+des fractions molaires de 
+« i » dans les phases liquide et solide s’écrit en fonction de l’enthalpie molaire standard de 
+fusion de « i » sous la forme : 
+m
+liq
+s
+i
+fu
+sd
+i
+x
+L
+x
+H
+n
+=
+
+
+
+∆
+
+○( )
+1
+fus
+i
+R
+T
+×
+○( )
+1
+i
+T
+
+
+−
+
+
+
+
+
+
+ 
+(
+)
+(
+)
+sd
+liq
+i
+i
+=
+ À l’équilibre, K ○
+liq
+i
+sd
+i
+eq
+x
+x
+
+
+= 
+
+
+
+ 
+De la question Q23)  
+liq
+i
+sd
+i
+eq
+fus
+m
+dL
+dT
+H
+n
+x
+x
+
+
+
+
+∆
+
+
+
+
+
+=
+
+
+
+○( )
+2
+i
+R T
+×
+ 
+( )
+1
+liq
+i
+sd
+i
+Ln
+L
+x
+liq
+x
+fus
+m
+i
+sd
+i
+eq
+n
+d n
+H
+L
+x
+x
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=
+
+
+∆
+
+
+
+
+
+
+
+
+
+○( )
+2
+fus
+T
+i
+T
+dT
+R
+×
+○
+T
+ 
+ 
+ 
+liq
+fus
+m
+i
+sd
+i
+eq
+L
+x
+n
+H
+x
+
+∆
+
+
+
+
+
+=
+
+
+
+
+
+
+
+○( )
+2
+fus
+T
+T
+T
+R
+d
+i
+
+
+
+
+
+
+×
+○( )
+T
+i
+
+ 
+liq
+fus
+m
+i
+sd
+i
+eq
+L
+x
+n
+H
+x
+
+∆
+
+
+
+
+
+=
+
+
+
+
+
+
+
+○( )
+1
+fus
+i
+R
+T
+×
+○
+1
+( )i
+T
+
+
+−
+
+
+
+
+
+
+ 
+Q25) En se basant sur les questions précédentes, déterminer les valeurs de la fraction molaire 
+de Ru pour chacune des deux phases. (Donner les résultats à trois chiffres après la virgule). 
+De la question précédente  
+liq
+fus
+m
+Ru
+sd
+Ru
+eq
+L
+H
+x
+n
+x
+∆
+
+
+
+
+
+
+
+=
+
+
+
+
+
+
+○(
+)
+1
+fus
+Ru
+R
+T
+×
+○
+1
+(
+)
+Ru
+T
+
+
+−
+
+
+
+
+
+
+ et  
+Re
+Re
+liq
+fus
+m
+sd
+eq
+L
+H
+x
+n
+x
+∆
+
+
+
+
+
+
+
+=
+
+
+
+
+
+
+○(
+)
+Re
+1
+fus
+R
+T
+×
+○(
+)
+1
+Re
+T
+
+
+−
+
+
+
+
+
+
+ 
+Application numérique : 
+3
+24
+1
+1
+0,155
+8,314 10
+2607
+3030
+liq
+Ru
+sd
+Ru
+eq
+x
+L
+x
+n
+−
+
+
+
+
+×
+−
+=
+
+
+=
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Re
+3
+Re
+32,2
+1
+1
+0,159
+8,314 10
+3459
+3030
+liq
+sd
+eq
+L
+x
+n
+x
+−
+
+
+
+
+
+
+
+×
+−
+= −
+
+
+
+
+×
+=
+
+
+
+
+
+
+
+ 
+Re
+Re
+1,167
+0,853
+liq
+Ru
+sd
+Ru
+liq
+sd
+x
+x
+x
+x
+
+=
+
+
+
+
+
+
+
+=
+
+
+
+
+
+  
+1,167
+1
+0,853
+1
+liq
+Ru
+sd
+Ru
+liq
+Ru
+sd
+Ru
+x
+x
+x
+x
+
+=
+
+
+
+
+
+
+−
+
+=
+
+
+
+−
+
+
+
+ (
+)
+(
+)
+1,167
+1
+0,853
+1
+liq
+sd
+Ru
+Ru
+liq
+sd
+Ru
+Ru
+x
+x
+x
+x
+
+=
+×
+
+−
+=
+×
+−
+
+ 
+La résolution de ce système d’équation donne : 
+0,468
+sd
+Ru
+x
+=
+ et 
+0,546
+liq
+Ru
+x
+=
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 8 sur 12 
+Épreuve de chimie section T 
+Année : 2024-2025
+Q26) Déterminer alors, la quantité de matière de chacune des phases liquide et solide obtenues 
+à 2757°C. 
+En appliquant la règle des segments inverses : 
+0,546
+0,500
+1,438
+0,500
+0,468
+10
+sd
+liq
+sd
+liq
+n
+n
+n
+n
+mol
+
+−
+=
+=
+
+−
+
+
++
+=
+
+ 
+1,438
+10
+sd
+liq
+sd
+liq
+n
+n
+n
+n
+mol
+
+=
+×
+
++
+=
+
+  
+10
+6,95
+2, 438
+liq
+n
+mol
+=
+=
+ et 
+10
+6,95
+3,05
+sd
+n
+mol
+=
+−
+=
+ 
+Problème 3 : diagrammes de Pourbaix 
+L'objectif de ce problème est d'explorer le comportement chimique du ruthénium en milieu chlorure à 
+travers l'analyse de son diagramme potentiel-pH. 
+Partie I 
+On considère le diagramme potentiel-pH du ruthénium en milieu chlorure.  
+ 
+   
+Fig.1 : Diagramme de Pourbaix du ruthénium Ctra = x mol.L-1 . 
+Le diagramme potentiel-pH du ruthénium ci-dessus fait intervenir les entités suivantes :  
+Ru (sd), RuO4 (aq), 
+(
+)
+4
+2
+10
+Ru OCl
+aq
+−
+
+
+
+
+, RuO2(H2O)2 (sd), 
+(
+)
+4
+RuO
+aq
+−
+, 
+(
+)
+2
+4
+RuO
+aq
+−
+ et 
+(
+)
+(
+)
+2
+5
+2
+RuCl
+H O
+aq .
+−
+
+
+
+
+ 
+Q27) Compléter le tableau ci-dessus en indiquant le degré d’oxydation de Ru dans chacune des 
+entités. 
+Entité 
+État 
+physique 
+Couleur 
+Degré 
+d’oxydation 
+de Ru 
+Ru 
+(sd) 
+Blanc argenté 
+0 
+RuO4 
+(aq) 
+Jaune 
+VIII 
+4
+RuO − 
+(aq) 
+Vert 
+VII 
+2
+4
+RuO − 
+(aq) 
+Orange 
+VI 
+RuO2(H2O)2 
+(sd) 
+Bleu-noir 
+IV 
+[RuCl5(H2O)]2- 
+(aq) 
+Jaune 
+III 
+[Ru2OCl10]4- 
+(aq) 
+Brun-rouge 
+IV 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 9 sur 12 
+Épreuve de chimie section T 
+Année : 2024-2025
+Q28) Classer horizontalement les entités ayant le même degré d’oxydation selon leurs propriétés. 
+Justifier la réponse. 
+Les entités présentant le même nombre d’oxydation sont : 
+(
+)
+4
+2
+10
+Ru OCl
+aq
+−
+
+
+
+
+et 
+(
+)
+2
+2
+2
+RuO
+H O
+( sd ) 
+(
+)
+(
+)
+(
+) (
+)
+(
+)
+(
+)
+4
+2
+10
+2
+2
+2
+2
+7
+2
+10
+6
+Ru OCl
+aq
+H O liq
+RuO
+H O
+sd
+Cl
+aq
+H
+aq
+−
+−
++
+
+
++
+=
++
++
+
+
+ 
+       Acide                                                           base 
+Lorsque le pH augmente pour le système initialement à 
+l’équilibre, la concentration [H+] diminue dans la solution et la 
+réaction évolue dans le sens direct. 
+Q29) Attribuer les entités à chacun des domaines. 
+Q30) Qualifier chacun des domaines ci-dessous, 
+comme zone de corrosion, d'immunité ou de 
+passivation. 
+Domaine 
+Entité 
+(1) 
+Ru (sd) 
+(2) 
+[RuCl5(H2O)]2-(aq) 
+(3) 
+RuO2(H2O)2 (sd) 
+(4) 
+[Ru2OCl10]4-(aq) 
+Domaine 
+Zone de  
+(1) 
+Immunité 
+(3) 
+Passivation 
+(4) 
+Corrosion 
+Q31) En milieu basique, RuO42-(aq) subit une dismutation. Écrire les demi-réactions redox et 
+l’équation bilan de dismutation. 
+2
+4
+RuO ( aq )
+−
+ se dismute avec apparition d’un nouvel couple
+(
+)
+4
+2
+2
+2
+RuO ( aq ) RuO
+H O
+( sd )
+−
+ 
+(
+)
+2
+4
+2
+2
+2
+4
+2
+RuO ( aq )
+H ( aq )
+e
+RuO
+H O
+( sd )
+−
++
+−
++
++
+=
+ 
+2
+4
+4
+1
+RuO ( aq )
+RuO ( aq )
+e
+−
+−
+−
+=
++
+ 
+(
+)
+2
+4
+2
+2
+4
+2
+3
+4
+2
+RuO ( aq )
+H ( aq )
+RuO
+H O
+( sd )
+RuO ( aq )
+−
++
+−
++
+=
++
+ 
+(
+)
+2
+4
+2
+2
+2
+4
+2
+3
+4
+2
+4
+RuO ( aq )
+H O(liq )
+RuO
+H O
+( sd )
+RuO ( aq )
+HO ( aq )
+−
+−
+−
++
+=
++
++
+ 
+En se basant sur le diagramme de Pourbaix du ruthénium Fig.1 et sachant que la concentration en ions 
+chlorure [Cl-] vaut 1 mol.L-1. 
+Q32) Déterminer la valeur de la concentration du tracé x, de ce diagramme. 
+Du diagramme 
+( ) ( )
+(
+)
+2
+1
+0 4703
+E
+,
+V / ESH
+=
+ 
+De la question Q29) le couple (2)/(1) correspond à 
+(
+)
+2
+5
+2
+RuCl
+H O
+( aq ) Ru( sd )
+−
+
+
+
+
+ 
+(
+)
+2
+5
+2
+2
+3
+5
+RuCl
+H O
+( aq )
+e
+Ru( sd )
+Cl ( aq )
+H O
+−
+−
+−
++
+=
++
++
+
+
+
+
+ 
+2
+1
+1
+3
+2 H ( g )
+H (aq)
+e
++
+−
+
+
+=
++
+×
+
+
+
+
+ 
+(
+)
+2
+5
+2
+2
+2
+3
+5
+3
+2
+RuCl
+H O
+( aq )
+H ( g )
+Ru( sd )
+Cl ( aq )
+H O
+H ( aq )
+−
+−
++
++
+=
++
++
++
+
+
+
+
+ 
+E
+E
+=
+○
+(
+)
+2
+5
+2
+10
+5
+0 059
+3
+RuCl
+H O
+,
+log
+Cl
+−
+−
+
+
+
+
+
+
+
+
+
+
+
+
++
+×
+
+
+
+
+
+
+
+
+
+
+ 
+(
+)
+2
+5
+2
+tra
+RuCl
+H O
+C
+−
+
+=
+
+
+
+
+
+
+ 
+10
+51
+tra
+E
+E
+C
+log
+−
+
+=
+
+
+
+
+○
+(
+) 3
+0 059
+,
+×   
+10
+E E
+tra
+C
+−
+=
+○
+(
+) 3
+0 059
+,
+
+
+×
+
+
+
+
+
+
+
+: 
+ Application numérique  
+(
+)
+0 4703 0 4900
+3
+0 059
+1
+1
+10
+10
+,
+,
+,
+tra
+C
+mol.L
+−
+×
+
+
+
+
+−
+−
+
+
+=
+=
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 10 sur 12 
+Épreuve de chimie section T 
+Année : 2024-2025
+Q33) Déterminer la valeur la constante d'équilibre de la réaction impliquant les entités (3) et (4) 
+du diagramme, étant donné que le pH à la frontière verticale qui les sépare est de 2,08. 
+De la question Q28)  
+(
+)
+(
+)
+(
+) (
+)
+(
+)
+(
+)
+4
+2
+10
+2
+2
+2
+2
+7
+2
+10
+6
+Ru OCl
+aq
+H O liq
+RuO
+H O
+sd
+Cl
+aq
+H
+aq
+−
+−
++
+
+
++
+=
++
++
+
+
+ 
+À l’équilibre, K ○
+10
+6
+4
+2
+10
+Cl
+H
+Ru OCl
+−
++
+−
+
+
+
+
+×
+
+
+
+
+=
+
+
+
+
+ 
+2 08
+1
+1
+4
+1
+2
+10
+10
+10
+1
+0 1
+0 05
+2
+2
+pH
+,
+tra
+H
+mol.L
+Cl
+mol.L
+C
+,
+Ru OCl
+,
+mol.L
++
+−
+−
+−
+−
+−
+−
+−
+
+=
+=
+
+
+
+=
+
+
+
+=
+=
+=
+
+
+ 
+Application numérique : 
+K ○
+(
+)
+6
+2 08
+12
+1
+10
+6 62 10
+0 05
+,
+,
+,
+−
+−
+×
+=
+=
+×
+ 
+Partie II 
+Dans cette partie nous souhaitons étudier le comportement du tétroxyde de ruthénium dans un milieu 
+alcalin. 
+ 
+Fig.2 : superposition des digrammes de Pourbaix de la Fig.1 et de l’eau. 
+Q34) Écrire l’équation chimique ; notée (A) ; traduisant le comportement d’une solution aqueuse de 
+RuO4(aq) dans un milieu basique (NaOH, 10-4 mol.L-1). Veiller à ce que le coefficient stœchiométrique 
+de RuO₄(aq) soit égal à 2 dans l’équation bilan. 
+[HO-] =10-4 mol.L-1  pOH = 4  pH =10 
+D’après le diagramme à pH = 10, RuO4(aq) est réduit par les ions HO- 
+4
+4
+1
+RuO ( aq )
+e
+RuO ( aq )
+−
+−
++
+=
+ 
+2
+2
+4
+2
+4
+HO
+O ( g )
+H O
+e
+−
+−
+=
++
++
+ 
+4
+4
+2
+2
+4
+4
+4
+2
+RuO ( aq )
+HO ( aq )
+RuO ( aq )
+H O(liq )
+O ( g )
+−
+−
++
+=
++
++
+    
+4
+4
+2
+2
+1
+2
+2
+2
+2
+RuO ( aq )
+HO ( aq )
+RuO ( aq )
+H O(liq )
+O ( g )
+−
+−
++
+=
++
++
+ (A) 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 11 sur 12 
+Épreuve de chimie section T 
+Année : 2024-2025
+Q35) Prévoir le(s) phénomène(s) observé(s). 
+On observe, un dégagement de dioxygène avec apparition de la couleur verte de RuO4-(aq). 
+À 298K, les valeurs des potentiels chimiques standard des différentes entités : 
+Entité « i » 
+RuO4(aq) 
+RuO4-(aq) 
+RuO42-(aq) H2O(liq) H+(aq) 
+HO-(aq) O2(g) H2(g) 
+iµ ○
+1
+kJ.mol− 
+-147,7 
+-234,3 
+-299,6 
+-237,2 
+0 
+-157,3 
+0 
+0 
+Q36) Donner l’expression puis calculer la valeur de l’enthalpie libre standard de la réaction (A). 
+rG
+∆
+○
+2
+=
+×µ ○(
+)
+4
+1
+RuO ( aq )
+−
++ ×µ ○(
+)
+2
+1
+2
+H O(liq ) +
+×µ ○(
+)
+2
+2
+O ( g ) −× µ ○(
+)
+4
+RuO ( aq ) + µ ○(
+)
+(
+)
+HO ( aq )
+−
+Application numérique : 
+rG
+∆
+○
+(
+) (
+)
+(
+)
+1
+2
+234 3
+237 2
+0
+2
+147 7 157 3
+95 8
+,
+,
+,
+,
+, kJ.mol−
+=
+× −
++ −
++
+−× −
+−
+= −
+ 
+Q37) Déduire alors la valeur du potentiel standard rédox E ○(
+)
+4
+4
+RuO ( aq ) RuO ( aq )
+−
+. 
+rG
+∆
+○
+2
+F
+E
+= −×
+×
+○  
+Avec E ○
+E
+=
+○(
+)
+4
+4
+RuO ( aq ) RuO ( aq )
+E
+−
+−
+○(
+)
+2
+O ( g ) HO ( aq )
+−
+ 
+rG
+∆
+○
+2
+F
+E
+= −×
+×
+○(
+)
+4
+4
+RuO ( aq ) RuO ( aq )
+E
+−
+−
+○(
+)
+2
+O ( g ) HO ( aq )
+−
+
+
+
+ 
+E ○(
+)
+4
+4
+RuO ( aq ) RuO ( aq )
+E
+−
+=
+○(
+)
+2
+rG
+O ( g ) HO ( aq )
+−
+∆
+−
+○
+2 F
+×
+ 
+Application numérique : 
+E ○(
+)
+(
+)
+3
+4
+4
+95 8 10
+0 401
+0 897
+0 9
+2 96485
+,
+RuO ( aq ) RuO ( aq )
+,
+,
+V / ESH
+, V / ESH
+−
+−
+×
+=
+−
+=
+×
+≃
+ 
+ 
+ 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 12 sur 12 
+Épreuve de chimie section T 
+Année : 2024-2025
+Problème 4 : courbes i-E  
+Ce problème explore les principes de l'électrochimie à travers l'analyse du couple redox RuO4-/ RuO42- 
+Q38) Écrire la demi-équation de réduction relative au couple RuO4-/ RuO42-  
+(
+)
+(
+)
+2
+4
+4
+1
+RuO
+aq
+e
+RuO
+aq
+−
+−
+−
++
+=
+ 
+Q39) Écrire l’équation bilan permettant la détermination du potentiel d’électrode de ce système par 
+rapport à l’électrode standard à hydrogène. 
+(
+)
+(
+)
+2
+4
+4
+1
+RuO
+aq
+e
+RuO
+aq
+−
+−
+−
++
+=
+ 
+2( )
+2
+(
+)
+2
+g
+H
+H
+aq
+e
++
+−
+=
++
+ 
+--------------------------------------------------- 
+2
+4
+2
+4
+2
+(
+)
+( )
+2
+(
+)
+2
+(
+)
+RuO
+aq
+H
+g
+RuO
+aq
+H
+aq
+−
+−
++
++
+=
++
+ 
+Q40) Analyser et justifier l’allure de la courbe intensité potentiel d’un mélange de 1,5×10-3 mol.L-1 en 
+RuO4- et 3×10-4 mol.L-1 en RuO42-.  
+Considérer que le système RuO4-/ RuO42- est un système lent. 
+• Surtension anodique à courant nul sur l’électrode de platine : η0,a (RuO4-/ RuO42-) est de 0,50V. 
+• Surtension cathodique à courant nul sur l’électrode de platine : η0,c (RuO4-/ RuO42-) est de 0,25V.  
+th
+E
+E
+=
+○
+2
+4
+10
+2
+2
+4
+RuO
+0,059
+log
+2
+RuO
+−
+−
+
+
+
+
+
+
+
+
++
+×
+
+
+
+
+
+
+
+
+ 
+E ○
+E
+=
+○(
+)
+2
+4
+4
+RuO
+RuO
+E
+−
+−−
+○(
+)
+2
+H
+H (g)
+E
++
+=
+○(
+)
+2
+4
+4
+RuO
+RuO
+−
+− 
+E ○(
+)
+2
+4
+4
+0,68V / ESH
+RuO /  RuO
+−
+−
+=
+, à pH = 0. 
+(
+)
+(
+)
+2
+3
+th
+10
+2
+4
+1,5 10
+0,059
+E
+0,68
+log
+0,72 V / ESH
+2
+3 10
+−
+−
+
+
+×
+
+
+=
++
+×
+=
+
+
+×
+
+
+ 
+,0
+a
+mes
+th
+E
+E
+η
+=
+−
+  
+,0
+0,72 0,50 1,22
+/
+mes
+th
+a
+E
+E
+V ESH
+=
++η
+=
++
+=
+ 
+,0
+c
+mes
+th
+E
+E
+η
+=
+−
+ 
+,0
+0,72 0,25
+0,47
+/
+mes
+th
+c
+E
+E
+V ESH
+=
++η
+=
+−
+=
+ 
+ 
+Justification 
+L’intensité limite de diffusion du palier de chacune de 
+ces vagues redox est proportionnelle au nombre 
+d’électrons échangés, à la concentration en solution 
+et au coefficient de diffusion de l’entité transformée à 
+l’électrode. 
+Le nombre d’électrons échangés est le même. 
+Les coefficients de diffusion de RuO4- et de RuO42- sont 
+équivalents : 
+On constate en effet expérimentalement que : 
+(
+)
+(
+)
+2
+2
+,Re
+4
+4
+,
+4
+4
+0
+0
+1
+5
+1
+D
+d
+D ox
+i
+RuO
+RuO
+i
+RuO
+RuO
+e
+C
+e
+C
+−
+−
+−
+−
+−
+−
+→
+→
+≈
+× ×
+×
+
+(
+)
+(
+)
+2
+2
+,Re
+4
+4
+,
+4
+4
+5
+D
+d
+D ox
+i
+RuO
+RuO
+i
+RuO
+RuO
+−
+−
+−
+−
+→
+≈×
+→
+ 
+FIN DE L’ÉPREUVE 
+BIB-IPEIS
+BIB-IPEIS

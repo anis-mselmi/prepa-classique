@@ -1,0 +1,1966 @@
+REPUBLIQUE TUNISIENNE
+Ministère de l’Enseignement
+Supérieur et de la
+Recherche Scientiﬁque
+Concours Nationaux d’Entrée aux
+Cycles de Formation d’Ingénieurs
+Session 2020
+Concours Mathématiques-Physique & Physique-Chimie
+Epreuve de
+Systèmes Techniques Automatisés
+Date : Samedi 18 Juillet 2020
+Heure : 8 H
+Durée : 3 heures
+L’épreuve comporte trois parties :
+A - Conception mécanique
+(03 pts)
+B - Mécanique des solides indéformables
+(09 pts)
+C - Automatique
+(08 pts)
+Le sujet de l’épreuve remis au candidat comporte trois dossiers :
+1er : "Mise en situation, Données et Hypothèses",
+2`eme : Trois documents techniques DT-01, DT-02 et DT-03.
+3`eme : "Document Réponses" contenant les questions à traiter.
+N.B.
+⋆Aucun autre document n’est autorisé.
+⋆Seules des calculatrices de poche non programmables sont autorisées.
+⋆Un seul et unique document réponses est fourni au candidat et doit être rendu en totalité, à la ﬁn
+de l’épreuve, même sans réponses. Aucune feuille du document réponses ne doit être supprimée
+(cet acte est considéré comme étant une tentative de fraude).
+
+Dossier
+Mise en situation, Données
+et Hypothèses
+Ce dossier comporte 10 pages :
+⋆Mise en situation : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . pages de 1 à 4
+⋆Données et hypothèses partie A-Conception mécanique : . . . . . . . . . . .page 4
+⋆Données et hypothèses partie B-MSI : . . . . . . . . . . . . . . . . . . . . . . . . . .pages 5 à 7
+⋆Données et hypothèses partie C-Automatique : . . . . . . . . . . . . pages de 8 à 10
+
+Concours MP-PC
+Epreuve S.T.A.
+Mise en situation, Données et Hypothèses
+PRESSE D’INJECTION DE MATIÈRE PLASTIQUE
+Mise en situation
+Le système présenté par le document technique DT-01 est une "presse d’injection" 80 Tonnes
+qui permet l’obtention de pièces moulées par injection de la matière plastique (polymère).
+Ce procédé de moulage s’effectue selon les trois étapes suivantes :
+— chauffer et porter à l’état fondu la matière plastique,
+— injecter, sous haute pression, cette matière fondue dans un moule comportant l’em-
+preinte de la pièce désirée,
+— refroidir rapidement le moule aﬁn de ramener la matière plastique injectée à l’état
+solide.
+Ces étapes, bien qu’elles peuvent paraître simples dans leur description, présentent des com-
+plexités sur le plan physico-technique. En effet, chaque type de matière plastique à injecter
+doit faire objet de consignes de chauffage, de pression et de vitesse de refroidissement en
+bonne adéquation. Cela permet d’éviter les défauts de fabrication et satisfaire les propriétés
+de résistance ﬁnales désirées.
+Dans cette épreuve, nous proposons l’étude de la presse d’injection illustrée par la ﬁgure 1.
+Cette presse est constituée des sous-systèmes suivants :
+— une unité d’alimentation en pression hydraulique,
+— un automate programmable,
+— une unité de plastiﬁcation équipée d’un système de régulation de température,
+— une unité de fermeture et de verrouillage du moule,
+— un moule d’injection doté de système de refroidissement.
+Unité de fermeture et de verrouillage
+Unité de 
+plastification 
+/ injection
+Pupitres de commande
+Emplacement du moule d'injection
+FIGURE 1 – Sous-systèmes de la presse d’injection
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2020
+0 Page : 1|10
+
+Concours MP-PC
+Epreuve S.T.A.
+Mise en situation, Données et Hypothèses
+Diagramme SADT
+La ﬁgure 2 représente l’actigramme SADT niveau A-0 de la presse d’injection proposée à
+l’étude. Cet actigramme permet de cerner la fonction globale de la machine ainsi que les
+données de contrôle, les entrées et les sorties secondaires.
+Presse d'injection
+Pièce moulée 
+par injection
+Matière 
+première 
+Ordres
+Programmes
+Réglages
+Energie  Electrique
+Informations
+& Bruit
+Mouler des pièces 
+plastiques par injection
+colorant
+déchets
+Eau froide
+FIGURE 2 – Actigramme niveau (A-0) de la presse d’injection
+Description de l’unité de plastiﬁcation
+L’élément principal de cette presse d’injection est l’unité de plastiﬁcation (voir ﬁgure 1).
+C’est le sous-système qui permet la préparation et l’injection de la matière plastique. Il se
+compose, comme l’indique la ﬁgure 3, d’une trémie de stockage de la matière première sous
+forme de poudre, de granulé ou de lentilles.
+Cette matière passe en premier lieu dans un cylindre pour être emprisonnée entre la paroi
+de celui-ci et une longue vis ayant des ﬁlets à pas variable. La matière conﬁnée sera chauffée
+et mise sous pression pour être ensuite prête à l’injection.
+Durant le cycle d’injection, la vis en rotation avance sous l’action d’un vérin pour permettre
+l’injection de la matière fondue à travers une buse dans l’empreinte du moule .
+buse
+FIGURE 3 – Unité de plastiﬁcation
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2020
+0 Page : 2|10
+
+Concours MP-PC
+Epreuve S.T.A.
+Mise en situation, Données et Hypothèses
+La ﬁgure 4 présente le cycle d’injection développé en trois phases :
+— accostage et dosage de la matière avec moule fermé (ﬁgure 4-a),
+— remplissage de l’empreinte du moule et compactage de la matière plastique suivie
+d’un refroidissement (ﬁgure 4-b),
+— ouverture du moule et éjection de la pièce ﬁnie accompagnée du recul de la vis pour
+reprendre un nouveau cycle d’injection.
+plastique en granulé
+moule
+système de chauffage
+vis piston
+canalisation de 
+refroidissement à l'eau
+pièce obtenue
+mouvement d'avance
+ lors de l'injection
+mouvement de 
+rotation continue
+mouvement de recul
+après injection
+(a)
+(b)
+(c)
+FIGURE 4 – Schématisation simpliﬁée des étapes d’injection
+Unité de fermeture et de verrouillage
+L’unité de fermeture et de verrouillage est destinée au positionnement et à la ﬁxation de
+moules pouvant avoir différentes tailles et d’en assurer ensuite le cycle de fermeture, de
+verrouillage et d’ouverture.
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2020
+0 Page : 3|10
+
+Concours MP-PC
+Epreuve S.T.A.
+Mise en situation, Données et Hypothèses
+Cette unité est composée de deux plateaux, l’un est mobile (plateau mobile) et l’autre est
+ﬁxe. La partie mobile se déplace en respectant un proﬁl de vitesses bien déterminé au cours
+d’un cycle d’injection.
+Cette unité sert aussi à appliquer la force de fermeture et à centrer les deux parties du moule
+lors de sa fermeture.
+Le moule et le système de refroidissement
+Aﬁn d’augmenter la cadence de production, le moule doit être refroidi rapidement pour
+solidiﬁer en un minimum de temps la matière injectée dans l’empreinte.
+Le refroidissement est assuré par une circulation d’eau froide à travers des canalisations
+percées à l’intérieur du moule.
+Partie A - Conception Mécanique :
+Système de réglage de l’unité de fermeture
+La ﬁgure 5 présente le schéma cinématique simpliﬁé du système de réglage de l’unité de
+fermeture et de verrouillage. Ce système permet le réglage de la position du sommier (9C)
+avant le démarrage de la production (opération nécessaire lors d’un changement de moule). Le
+mouvement de translation de ce sommier s’effectue à faible vitesse, il est produit par un
+moteur électrique rotatif (16C) et un mécanisme de transmission/transformation de mou-
+vement.
+Moteur 
+Sommier 9C
+Partie non concernée par l'étude de conception
+16C
+38C
+10C
+18C
+FIGURE 5 – schématisation du système de réglage de la position du sommier (9C)
+Notons que ce sommier (9C) sera considéré ﬁxe et solidaire du bâti dans la partie B de cette
+épreuve.
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2020
+0 Page : 4|10
+
+Concours MP-PC
+Epreuve S.T.A.
+Mise en situation, Données et Hypothèses
+Partie B - Mécanique des solides indéformables :
+Unité de fermeture et de verrouillage du moule
+B.1 Présentation
+L’étude porte sur l’unité de fermeture et de verrouillage mécanique à double genouillères
+illustrée par la ﬁgure 6. Cette unité est constituée d’un mécanisme permettant au moule
+d’occuper trois positions :
+— position d’ouverture du moule (ﬁgure 6-a)
+— position intermédiaire (ﬁgure 6-b)
+— position de fermeture et de verrouillage (ﬁgure 6-c)
+Colonne de guidage
+M1
+M2
+Plateau mobile (5)
+Plateau fixe
+Genouillère (4)
+Bielle (3)
+Biellette (2)
+Croisillon
+Sommier à position 
+réglable
+Vérin
+Mécanisme de réglage du sommier 
+lors du changement de moule
+FIGURE 6 – Conﬁgurations possibles du mécanisme de verrouillage.
+(Pour une meilleure visibilité, des pièces en avant plan ont été cachées.)
+B.2 Repères, paramètres et données
+Le mécanisme de fermeture et de verrouillage de la presse d’injection représenté par le
+schéma cinématique minimal ﬁgure 7 est constitué de :
+— un croisillon solidaire d’une tige de vérin hydraulique, formant le solide (1) en liaison
+pivot glissant d’axe (O,⃗x0) avec le bâti (0).
+— un plateau mobile (5) en liaison glissière d’axe (I,⃗x0) avec le bâti (0) (cette liaison est
+équivalente à la liaison de (5) avec les quatre colonnes de guidage et la liaison appui
+plan avec (0)).
+— deux sous-systèmes (S) et (S′) identiques de point de vue constituants et symétriques
+par rapport au plan (O,⃗x0,⃗z0). Le sous-système (S) est composé de :
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2020
+0 Page : 5|10
+
+Concours MP-PC
+Epreuve S.T.A.
+Mise en situation, Données et Hypothèses
+⋆deux billettes placées symétriquement par rapport au plan (O,⃗x0,⃗y0). Cette symé-
+trie permet de modéliser ces deux billettes par un seul solide (2) situé dans le plan
+de symétrie.
+⋆une bielle (3) située dans le plan (O,⃗x0,⃗y0).
+⋆deux genouillères placées de part et d’autre du plan (O,⃗x0,⃗y0). Elles seront mo-
+délisées par le solide (4) situé dans ce même plan.
+Du point de vue liaisons :
+⋆le solide (2) est articulé au solide (1) au point B,
+⋆la bielle (3) est articulée d’une part en C au bâti (0) et d’autre part en D au solide
+(2),
+⋆le solide (4) est articulé en F au plateau mobile (5) et en E à la bielle (3).
+Le moule est composé de deux parties (M1) et (M2) ﬁxées respectivement sur le plateau
+mobile (5) et le plateau ﬁxe solidaire du bâti (0).
+Les symétries que possède le mécanisme de fermeture et de verrouillage des moules, per-
+mettent de simpliﬁer l’étude en ne traitant que le sous-système (S).
+On convient d’appeler équipage mobile l’ensemble (Σ1) déﬁni par : Σ1 = {(1), (2), (3), (4), (5)}
+FIGURE 7 – Schéma cinématique du mécanisme de fermeture
+Tous les mouvements des solides formants (Σ1) sont déﬁnis par rapport au repère R0(O,⃗x0,⃗y0,⃗z0)
+lié au bâti (0) de la presse. Ce repère sera supposé galiléen ayant pour axe vertical ascendant
+(O,⃗y0).
+Le mouvement de translation du solide (1) par rapport au bâti (0) est paramétré par λ.
+Le mouvement de translation du plateau (5) par rapport au bâti (0), est paramétré par µ.
+On associe aux solides (2), (3) et (4) de l’équipage mobile (Σ1), les repères suivants :
+— R2(B,⃗x2,⃗y2,⃗z0) lié au solide (2) tel que sa rotation par rapport au bâti (0) est déﬁnie
+par l’angle α = (⃗x0,⃗x2) = (⃗y0,⃗y2).
+— R3(C,⃗x3,⃗y3,⃗z0) lié à la bielle (3) tel que sa rotation par rapport au bâti (0) est déﬁnie
+par l’angle β = (⃗x0,⃗x3) = (⃗y0,⃗y3).
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2020
+0 Page : 6|10
+
+Concours MP-PC
+Epreuve S.T.A.
+Mise en situation, Données et Hypothèses
+— R4(F,⃗x4,⃗y4,⃗z0) repère lié au solide (4) tel que sa rotation par rapport au bâti (0) est
+déﬁnie par l’angle : γ = (⃗x0,⃗x4) = (⃗y0,⃗y4).
+La Figure 8 représente de façon approxima-
+tive le cycle de fermeture et de verrouillage
+du moule. Ce cycle s’effectue en quatre étapes
+I, II, III et IV. La fermeture du moule est
+réalisée avec une avance uniformément accé-
+lérée (étape I) suivie d’une avance à vitesse
+constante V (étape II ); le mouvement d’ap-
+proche est réalisé avec une avance uniformé-
+ment décélérée (étape III ); l’étape IV corres-
+pond à la phase de verrouillage et d’injection.
+I
+II
+III
+IV
+FIGURE 8 – Cycle de fermeture et de ver-
+rouillage
+Données du problème
+Les paramètres et les données géométriques de l’équipage mobile sont déﬁnis par les rela-
+tions vectorielles suivantes :
+−→
+OA = λ⃗x0 ; −→
+OG = µ⃗x0 ; −→
+AB = a⃗y0 ; −→
+BD = R⃗x2 ; −→
+DC = d⃗y3 ; −→
+ED = c⃗y3 ; −→
+EF = h⃗y4 ; −→
+IG = L⃗y0.
+où
+— a, R, c, d, h et L sont des caractéristiques dimensionnelles (constantes) de l’équipage
+mobile,
+— α, β, γ, µ et λ sont les paramètres de l’équipage mobile (variables de conﬁguration).
+L’accélération de la pesanteur est déﬁnie par : ⃗g = −g⃗y0.
+L’action du vérin sur (1), au point A, est modélisée par le torseur :
+{T (V ´erin→1)}A =
+ Fv⃗x0
+⃗0
+
+A
+Hypothèses
+H1 La liaison équivalente entre le plateau (5) et le bâti (0) est une glissière d’axe (I,⃗x0).
+Cette liaison se caractérise aussi par un frottement de glissement de coefﬁcient f, cela
+engendre une action mécanique représentée au point de contact I par le torseur :
+{T (0→5)}I =
+
+
+
+X05
+Y05
+−
+−
+−
+N05
+
+
+
+I
+B0
+Toutes les autres liaisons de l’équipage mobile seront supposées parfaites.
+H2 Compte tenu de l’importance de la masse M du plateau (5) devant les masses respec-
+tives des composants (1), (2), (3) et (4), celles-ci seront négligées. Les forces d’inerties
+associées à ces solides seront considérées négligeables par rapport aux forces transmis-
+sibles par les liaisons.
+N.B. Il convient de retenir, pour ce problème plan, la notation :
+{T (i→j)}Q =
+
+
+
+Xij
+Yij
+−
+−
+−
+Nij
+
+
+
+Q
+B0
+pour représenter le torseur des actions mécaniques en un point Q, qu’exerce un solide (i)
+sur un solide (j) exprimé dans la base B0(⃗x0,⃗y0,⃗z0).
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2020
+0 Page : 7|10
+
+Concours MP-PC
+Epreuve S.T.A.
+Mise en situation, Données et Hypothèses
+Partie C - Automatique : Étude du vérin d’injection
+C.1 Étude combinatoire du déplacement du vérin d’injection
+Dans cette partie, on s’intéresse au système de mesure du déplacement linéaire du vérin
+d’injection. Une crémaillère est solidaire de la tige de ce vérin, entraine en rotation l’axe
+d’un codeur incrémental par le biais d’un pignon qui lui est solidaire ( Figure 9(a)).
+Le codeur incrémental est à trois voies. Il produit trois signaux x, y et z selon les positions
+des 3 pistes respectives A,B et C ( Figure 9(b)). Ces signaux permettent de caractériser le sens
+de déplacement et les deux niveaux de vitesses (lente et rapide) du vérin d’injection.
+base à ressort
+pignon
+crémaillère
+flasque de fixation
+codeur 
+incrémental
+(a) Dispositif de transformation du déplacement li-
+néaire
+piste A
+piste B
+piste C
+(b) Compteur incrémental à 3 voies
+FIGURE 9 – Système de mesure de déplacement linéaire
+Un système combinatoire placé à la sortie de la roue codeuse du codeur incrémental génère
+une fonction F(x, y, z) pour commander la servovalve via un calculateur. Dans notre cas les
+grandeurs binaires à l’entrée de ce système sont respectivement x, y et z représentant les 3
+bits de sortie de la roue codeuse (Figure 10).
+Le fonctionnement du système combinatoire de la ﬁgure 10, ayant trois entrées binaires x, y
+et z ainsi que la sortie F(x, y, z), est représenté par le chronogramme ﬁgure 11 où x est le bit
+du poids fort alors que z est le bit du poids faible :
+C.2 Étude de l’asservissement électro-hydraulique du vérin d’injection
+Mise en situation
+L’objectif de cette partie est la modélisation et la commande en pression du vérin de la vis
+d’injection. En effet, les conditions thermodynamiques du matériau à l’injection doivent sa-
+tisfaire des conditions strictes de pression, de température et de volume. C’est pour cela que
+le vérin d’injection doit être asservi en pression et qu’il est important de s’informer de sa
+vitesse de translation d’une manière continue.
+Dans ce cadre, nous présentons sur la ﬁgure 12 la synoptique de la commande du système
+électro-hydraulique objet de l’étude.
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2020
+0 Page : 8|10
+
+Concours MP-PC
+Epreuve S.T.A.
+Mise en situation, Données et Hypothèses
+Roue codeuse
+Système 
+combinatoire
+x 
+y
+z
+F(x,y,z)
+FIGURE 10 – Synoptique du
+système combinatoire
+1
+0
+x
+t
+1
+0
+y
+t
+1
+0
+z
+t
+1
+0
+F(x,y,z)
+t
+FIGURE 11 – Chronogramme de fonctionnement du
+système combinatoire
+Vérin 
+mesure 
+de la
+pression
+information
+sur le
+déplacement
+Chambre 2 
+Chambre 1
+FIGURE 12 – Synoptique de la commande du système électro-hydraulique d’injection :
+1. Distributeur proportionnel 4/3 (Servovalve proportionnelle électro-hydraulique à 3 étages); 2. Vérin
+hydraulique à double effet; 3. Vis d’injection; 4. Capteur de déplacement; 5. Ampliﬁcateur.
+Explication qualitative du fonctionnement
+Par une commande de tension u(t), une force électromagnétique F créée par le solénoïde
+permet de déplacer d’une distance z(t) le tiroir d’un distributeur. La pression P1 dans la
+chambre 1 du vérin va augmenter et la pression P2 dans la chambre 2 va diminuer (mise au
+refoulement de la chambre 2).
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2020
+0 Page : 9|10
+
+Concours MP-PC
+Epreuve S.T.A.
+Mise en situation, Données et Hypothèses
+Cette pression P1 sera transmise à la vis de plastiﬁcation et va générer une pression d’injec-
+tion au niveau de la buse. La pression d’injection est mesurée d’une manière continue par
+un capteur de pression et l’information est systématiquement envoyée au calculateur aﬁn
+de permettre sa régulation.
+Modélisation de la servovalve électro-hydraulique
+Le schéma de principe de la servovalve électro-hydraulique à trois étages (dite aussi dis-
+tributeur électro-hydraulique proportionnel 4/3) est donné par la ﬁgure 13. Le solénoïde,
+de résistance R et d’inductance L, engendre une force électromagnétique proportionnelle au
+courant i(t)
+F(t) = ke · i(t)
+(1)
+Cette force entraîne le déplacement z(t) du tiroir de la servovalve.
+L’équation électrique décrivant le fonctionnement du solénoïde est donnée par :
+Ri(t) + Ldi(t)
+dt
+= u(t)
+(2)
+L’équation décrivant le mouvement du tiroir de la servovalve est donnée par :
+ms
+d2z(t)
+dt2
++ fs
+dz(t)
+dt
++ ksz(t) = F(t)
+(3)
+où ms désigne la masse du tiroir de la servovalve, fs le coefﬁcient de frottement visqueux et
+ks la raideur du ressort de rappel.
+ressort
+solénoïde
+tiroir
+FIGURE 13 – Servovalve électro-hydraulique.
+La pression P1(t) au niveau de la chambre (1) du vérin est proportionnelle à la position z(t)
+du tiroir.
+P1(t) = kv · z(t)
+(4)
+De même, la pression au niveau de la buse P(t) est aussi proportionnelle à la pression du
+vérin :
+P(t) = kb · P1(t)
+(5)
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2020
+0 Page : 10|10
+
+République Tunisienne
+MINISTERE DE L’ENSEIGNEMENT
+SUPERIEUR ET DE LA
+RECHERCHE SCIENTIFIQUE
+Signature des enseignants
+S
+Concours Nationaux d’Entrée
+aux Cycles de Formation
+d’Ingénieurs
+Session : 2020
+Concours : MP & PC
+Epreuve de : Systèmes Techniques
+Automatisés
+Date : Samedi 18 Juillet 2020 à 8h
+Durée : 3 heures
+Concours Nationaux d’Entrée
+aux Cycles de Formation
+d’Ingénieurs
+Session : 2020
+Concours : Mathématiques et Physique
+& Physique et Chimie
+Epreuve de : Systèmes Techniques
+Automatisés
+Date : Samedi 18 Juillet 2020 à 8h
+Durée : 3 Heures
+Nom : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Prénom : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Date & lieu de naissance :. . . . . . . . . . . . . . . . . . . . . . . . . . .
+Etablissement d’origine :. . . . . . . . . . . . . . . . . . . . . . . . . . . .
+N◦C.I.N ou N◦du Passeport pour les étrangers :
+Série :
+Identiﬁant :
+01
+Nombre de
+cahiers remis
+NE RIEN ÉCRIRE ICI
+01
+Nombre de
+cahiers remis
+NE RIEN ÉCRIRE ICI
+
+Dossier
+DOCUMENT REPONSES
+⋇Ce dossier comporte 22 pages numérotées de 1 à 22
+▷Partie A – Conception mécanique : . . . . . . . . . . . . . . . . . . . . . . . . . page 1
+▷Partie B – Mécanique des Solides Indéformables : . . pages de 2 à 16
+▷Partie C – Automatique : . . . . . . . . . . . . . . . . . . . . . . . . . .pages de 17 à 22
+⋇Un seul dossier réponse est fourni au candidat et doit être rendu à la
+ﬁn de l’épreuve, en totalité, même sans réponses.
+⋇Le renouvellement ou la reproduction de ce dossier sont strictement
+interdits.
+
+Concours MP-PC
+Epreuve S.T.A.
+Partie A : Conception Mécanique
+Document Réponses
+Partie A :
+Conception Mécanique
+A.1: Qu’appelle-t-on le type de transmission du mouvement entre (16C) et (10C)?
+Il s’agit d’une transmission par engrenage.
+A.2: On considère les données suivantes :
+nombre de dents du pignon du motoréducteur
+Z38C = 10 dents
+nombre de dents de la grande roue
+Z18C = 100 dents
+nombre de dents des quatre roues identiques
+Z10C = 30 dents
+pas du système vis-écrou
+p = 3mm
+vitesse de rotation de l’arbre de sortie du motoréducteur
+N = 30tr/min
+Calculer la vitesse de translation du sommier (9C).
+Le rapport de transmission :
+r = Z38C × Z18C
+Z18C × Z10C
+= Z38C
+Z18C
+= 10
+30 = 0.3
+ainsi la vitesse de translation :
+v = p.N.r = 3 × 30 × 1
+3 = 30 mm/min = .5 mm/s
+A.3:
+Le système de réglage contient quatre roues identiques (10C) avec quatre systèmes
+vis-écrou entre (10C) et (11C). Pourquoi le concepteur ne s’est-il pas limité à une seule roue
+et un seul système vis-écrou?
+Pour mieux répartir la charge transmise et limiter l’usure des roues d’engrenage
+A.4: Si l’on se limite à un seul système vis-écrou (10C)-(11C) capable de transmettre l’effort
+nécessaire à la translation du sommier (9C) et on remplace les 3 autres par des paliers lisses,
+cette solution conduit à un inconvénient majeur, lequel? Quel est alors le risque encouru?
+Blocage de l’ensemble par arcboutement (coincement/blocage). On risque de casser les
+pièces impliquées dans cette transmission de mouvement.
+A.5: Donner la fonction de la pièce (35C) dans le mécanisme de fermeture et de verrouillage
+("Détail A" du DT-02). En se basant sur ses hachures, de quel matériau s’agit-il?
+Palier lisse, fonction : guidage en rotation. Il s’agit d’un alliage de cuivre.
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2020
+0 Page : 1|22
+
+Concours MP-PC
+Epreuve S.T.A.
+Partie B : M.S.I.
+Document Réponses
+Partie B :
+Mécanique des Solides Indéfor-
+mables
+Nota : Les parties B.2 et B.3 peuvent être traitées indépendamment l’une de l’autre.
+B.1 Étude Cinématique
+L’objectif de l’étude cinématique consiste à établir la loi entrée-sortie des vitesses (relation
+exprimant le rapport des vitesses
+  ˙µ/ ˙λ
+
+en fonction des paramètres géométriques du méca-
+nisme).
+B.1:
+Déterminer, dans la base B0(⃗x0,⃗y0,⃗z0), les torseurs cinématiques, dans leur mouve-
+ment par rapport au bâti (0), des solides suivants :
+a. le solide (1) au point A :
+{V1/0}A =
+ ⃗0
+˙λ⃗x0
+
+A
+{V1/0}A =
+
+
+
+
+
+0
+0
+0
+
+˙λ
+0
+0
+
+
+
+
+
+A
+B0
+b. le solide (2) au point B, puis au point D :
+{V2/0}B =
+ ˙α⃗z0
+˙λ⃗x0
+
+B
+{V2/0}D =
+
+˙α⃗z0
+˙λ⃗x0 + ˙α⃗z0 ∧R⃗x2 = ˙λ⃗x0 + R˙α⃗y2
+
+D
+{V2/0}B =
+
+
+
+
+
+0
+0
+˙α
+
+˙λ
+0
+0
+
+
+
+
+
+B
+B0
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2020
+0 Page : 2|22
+
+Concours MP-PC
+Epreuve S.T.A.
+Partie B : M.S.I.
+Document Réponses
+{V2/0}D =
+
+
+
+
+
+0
+0
+˙α
+
+˙λ −R˙α sin α
+R˙α cos α
+0
+
+
+
+
+
+D
+B0
+c. le solide (3) au point D, en passant par C :
+{V3/0}D =
+(
+˙β⃗z0
+˙β⃗z0 ∧−→
+CD = ˙β⃗z0 ∧(−d⃗y3) = d ˙β⃗x3
+)
+D
+{V3/0}D =
+
+
+
+
+
+
+
+0
+0
+˙β
+
+d ˙β cos β
+d ˙β sin β
+0
+
+
+
+
+
+
+
+D
+B0
+B.2: En déduire :
+a. la vitesse angulaire ˙α en fonction de ( ˙λ, R, β et (α −β))
+−→
+V D∈2/3 =⃗0 ⇒−→
+V D∈2/0 = −→
+V D∈3/0
+ainsi, par projection dans la base B0(⃗x0,⃗y0,⃗z0) on en déduit :
+ ˙λ −R˙α sin α = d ˙β cos β
+R˙α cos α = d ˙β sin β
+⇒tan β =
+R˙α cos α
+˙λ −R˙α sin α
+⇒˙α =
+˙λ tan β
+R(cos α + tan β sin α) =
+˙λ sin β
+R cos(α −β)
+˙α =
+˙λ sin β
+R cos(α −β)
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2020
+0 Page : 3|22
+
+Concours MP-PC
+Epreuve S.T.A.
+Partie B : M.S.I.
+Document Réponses
+b. la vitesse angulaire ˙β en fonction de (d, α, (α −β) et ˙λ)
+˙β = R˙α cos α
+d sin β =
+˙λ cos α
+d cos(α −β)
+˙β =
+˙λ cos α
+d cos(α −β)
+B.3:
+Déterminer, dans la base B0(⃗x0,⃗y0,⃗z0), les torseurs cinématiques, dans leur mouve-
+ments par rapport au bâti (0), des solides suivants :
+a. le solide (3) au point E, en passant par C :
+{V3/0}E =
+
+˙β⃗z0
+(c + d) ˙β⃗x3
+
+E
+{V3/0}E =
+
+
+
+
+
+
+
+0
+0
+˙β
+
+(c + d) ˙β cos β
+(c + d) ˙β sin β
+0
+
+
+
+
+
+
+
+E
+B0
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2020
+0 Page : 4|22
+
+Concours MP-PC
+Epreuve S.T.A.
+Partie B : M.S.I.
+Document Réponses
+b. le solide (4) au point F, en passant par E :
+{V4/0}E =
+
+−˙γ⃗z0
+(c + d) ˙β⃗x3
+
+E
+Au point F :
+−→
+V F∈4/0 = −→
+V E∈4/0 + −→
+Ω4/0 ∧−→
+EF = (c + d) ˙β⃗x3 −˙γ⃗z0 ∧h⃗y4 = (c + d) ˙β⃗x3 + h ˙γ⃗x4
+{V4/0}F =
+
+
+
+
+
+
+
+0
+0
+−˙γ
+
+(c + d) ˙β cos β + h ˙γ cos γ
+(c + d) ˙β sin β −h ˙γ sin γ
+0
+
+
+
+
+
+
+
+F
+B0
+c. le solide (4) au point F en fonction de ˙γ et ˙µ :
+−→
+V F∈4/0 = −→
+V F∈4/5
+| {z }
+=⃗0
++−→
+V F∈5/0 = −→
+V G∈5/0 = ˙µ⃗x0
+{V4/0}F =
+
+
+
+
+
+0
+0
+−˙γ
+
+˙µ
+0
+0
+
+
+
+
+
+F
+B0
+B.4: En déduire les relations exprimant :
+a. la vitesse de translation, ˙µ, du plateau mobile (5) par rapport au bâti (0) en fonction de (c,
+d, h, β, ˙β, γ et ˙γ)
+Par projection de −→
+V F∈4/0 sur ⃗x0 on en déduit : ˙µ = (c + d) ˙β cos β + h ˙γ cos γ
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2020
+0 Page : 5|22
+
+Concours MP-PC
+Epreuve S.T.A.
+Partie B : M.S.I.
+Document Réponses
+˙µ =
+(c + d) ˙β cos β + h ˙γ cos γ
+b. l’accélération ¨µ, de (5) par rapport au bâti (0), en fonction de ( ¨β, ˙β, β, ¨γ, ˙γ, γ, c, d et h).
+Par dérivation par rapport au temps de la vitesse ˙µ = (c + d) ˙β cos β + h ˙γ cos γ on aura
+:
+¨µ = (c + d)
+h
+¨β cos β −˙β2 sin β
+i
++ h
+h
+¨γ cos γ −˙γ2 sin γ
+i
+¨µ = (c + d)
+ ¨β cos β −˙β2 sin β
+ + h
+ ¨γ cos γ −˙γ2 sin γ
+
+c. la vitesse angulaire ˙γ en fonction de (c, d, h, β, ˙β et γ)
+Par projection de −→
+V F∈4/0 sur ⃗y0 on en déduit :
+0 = (c + d) ˙β sin β −h ˙γ sin γ
+˙γ =
+(c + d) sin β
+h sin γ
+˙β
+B.5: Déduire le rapport des vitesses
+  ˙µ/ ˙λ
+
+en fonction de (c, d, α, β, et γ).
+On a : ˙µ = (c + d) ˙β cos β + h ˙γ cos γ et ˙γ = (c + d) sin β
+h sin γ
+˙β ainsi :
+˙µ = (c + d) ˙β cos β + h cos γ(c + d) sin β
+h sin γ
+˙β = (c + d)
+sin γ [cos β sin γ + cos γ sin β] ˙β
+= (c + d) sin(β + γ)
+sin γ
+˙β
+Or ˙β =
+˙λ cos α
+d cos(α −β). D’où : ˙µ = (c + d) sin(β + γ) cos α
+d sin γ cos(α −β)
+˙λ ⇒˙µ
+˙λ = (c + d) sin(β + γ) cos α
+d sin γ cos(α −β)
+˙µ
+˙λ =
+(c + d) sin(β + γ) cos α
+d sin γ cos(α −β)
+B.6:
+Donner la relation entre les valeurs critiques βc et γc (des angles β et γ) réalisant
+l’alignement des points C, E et F (position de verrouillage du moule)
+L’alignement des points C, E et F entraîne ⃗y3 = −⃗y4 ⇒⃗y3 ∧⃗y4 =⃗0 ⇒
+sin(β + γ) = 0 ⇒β + γ = π
+βc + γc
+=
+π
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2020
+0 Page : 6|22
+
+Concours MP-PC
+Epreuve S.T.A.
+Partie B : M.S.I.
+Document Réponses
+B.7: Vériﬁer que, dans cette position de verrouillage, la vitesse de translation ˙µ du plateau
+mobile (5) par rapport au bâti (0) est nulle ( ˙µ = 0)
+Pour cette situation : sin(βc + γc) = 0 ⇒˙µ
+˙λ = 0
+il s’en suit : ˙µ = 0
+B.2 Étude dynamique
+On se propose de déterminer les efforts transmissibles par l’équipage mobile pendant la
+phase de fermeture et de verrouillage, en considérant l’hypothèse H2 page (7/10) du dossier
+"Mise en situation, Données et Hypothèses".
+B.8:
+Les efforts extérieurs appliqués sur le solide (2) par le solide (1) en B et par le solide
+(3) en D sont notés respectivement par ⃗FB et ⃗FD :
+a. En appliquant le théorème de la résultante dynamique au solide (2) au cours de son
+mouvement par rapport au bâti (0), montrer que ⃗FB = −⃗FD
+⃗R(¯2→2) =⃗0 = ⃗R(1→2) + ⃗R(3→2) ⇒⃗FB = −⃗FD
+b. En appliquant le théorème du moment dynamique, au point B, au solide (2) au cours de
+son mouvement par rapport au bâti (0), déduire la ligne d’action des deux forces ⃗FB et
+⃗FD ?
+⃗
+MB(¯2→2) =⃗0 ⇒
+⃗
+MB(1→2) +
+⃗
+MB(3→2) =⃗0 ⇒−→
+BD ∧⃗FD =⃗0 ⇒−→
+BD//⃗FD
+Ainsi, la ligne d’action des deux forces ⃗FB et ⃗FD est la droite (BD)
+c. Exprimer ⃗FB et ⃗FD dans la base (⃗x2,⃗y2,⃗z0) en fonction de FB (intensité de ⃗FB).
+D’après ce qui précède ⃗FB = −⃗FD = FB⃗x2
+⃗FB = FB⃗x2
+et ⃗FD = −FB⃗x2
+B.9: On cherche à déterminer l’intensité FB de la force ⃗FB.
+a. En considérant le graphe ci-contre représentant le bilan des
+actions mécaniques extérieures appliquées au solide (1),
+écrire les torseurs associés à ces actions en leur point d’ap-
+plication. Les exprimer dans la base B0(⃗x0,⃗y0,⃗z0).
+vérin
+2
+2'
+0
+1
+Action de (2) sur (1) en B : {T (2→1)}B =
+ −FB⃗x2
+0
+
+B
+=
+
+
+
+−FB cos α
+−FB sin α
+0
+
+0
+0
+0
+
+
+
+B
+B0
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2020
+0 Page : 7|22
+
+Concours MP-PC
+Epreuve S.T.A.
+Partie B : M.S.I.
+Document Réponses
+Action de (2’) sur (1) en B′ : {T (2′→1)}′
+B =
+ −FB⃗x′
+2
+0
+
+B
+=
+
+
+
+−FB cos α
+FB sin α
+0
+
+0
+0
+0
+
+
+
+B
+B0
+Action de (0) sur (1) en A : {T (0→1)}A =
+
+
+
+0
+Y01
+0
+
+0
+0
+N01
+
+
+
+A
+B0
+Action du vérin sur (1) en A : {T (v´erin→1)}A =
+
+
+
+Fv
+0
+0
+
+0
+0
+0
+
+
+
+A
+B0
+b. Écrire les équations scalaires qui découlent du théorème de la résultante dynamique ap-
+pliqué au solide (1) au cours de son mouvement par rapport au bâti (0). En déduire l’in-
+tensité FB en fonction de l’intensité Fv de l’action du vérin sur (1) et de l’angle α.
+⃗R(¯1→1) =⃗0 ⇒⃗R(2→1) + ⃗R(2′→1) + ⃗R(0→1) + ⃗R(v´erin→1) =⃗0
+Ainsi par projection sur ⃗x0 : Fv −2FB cos α = 0 ⇒FB =
+Fv
+2 cos α
+par projection sur ⃗y0 : Y01 = 0
+FB =
+Fv
+2 cos α
+B.10:
+Détermination de l’intensité FE de l’action du solide (3) sur le solide (4) au point E.
+Par analogie avec l’étude précédente, on montre que l’expression vectorielle de l’effort ⃗FE
+s’exprime en fonction de son intensité par : ⃗FE = FE⃗y4.
+a. Donner l’expression de l’effort ⃗FF exercé au point F par le plateau mobile (5) sur le solide
+(4) en fonction de FE .
+⃗R(¯4→4) =⃗0 ⇒⃗R(3→4) + ⃗R(5→4) =⃗0 ⇔⃗FE + ⃗FF =⃗0 ⇒⃗FF = −⃗FE = −FE⃗y4
+⃗FF =
+−FE⃗y4
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2020
+0 Page : 8|22
+
+Concours MP-PC
+Epreuve S.T.A.
+Partie B : M.S.I.
+Document Réponses
+b. Écrire les torseurs des actions mécaniques extérieures appliquées au plateau mobile (5)
+en leur point d’application. Les exprimer dans la base B0(⃗x0,⃗y0,⃗z0).
+Action de (4) sur (5) en F {T (4→5)}F =
+ FE⃗y4
+⃗0
+
+F
+=
+
+
+
+FE sin γ
+FE cos γ
+0
+
+0
+0
+0
+
+
+
+F
+B0
+Action de (4’) sur (5) en F′ {T (4′→5)}F′ =
+ FE⃗y′
+4
+⃗0
+
+F
+=
+
+
+
+FE sin γ
+−FE cos γ
+0
+
+0
+0
+0
+
+
+
+F′
+B0
+Action de (0) sur (5) en I {T (0→5)}I =
+
+
+
+X01
+Y05
+0
+
+0
+0
+N05
+
+
+
+I
+B0
+Action de la pesanteur sur (5) en G : {T (g→5)}G =
+
+
+
+0
+−Mg
+0
+
+0
+0
+0
+
+
+
+G
+B0
+c. Écrire les équations scalaires issues du théorème de la résultante dynamique appliqué au
+plateau mobile (5) au cours de son mouvement par rapport au bâti (0) en projection sur
+la base B0(⃗x0,⃗y0,⃗z0).
+⃗R(¯5→5) = M ¨µ⃗x0
+par projection sur ⃗x0 : 2FE sin γ + X05 = M ¨µ
+par projection sur ⃗y0 : Y05 = Mg > 0
+d. Déduire l’expression de l’intensité FE en fonction de (f, M, g, γ et ¨µ).
+On a : 2FE sin γ + X05 = M ¨µ ⇒2FE sin γ = M ¨µ −X05
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2020
+0 Page : 9|22
+
+Concours MP-PC
+Epreuve S.T.A.
+Partie B : M.S.I.
+Document Réponses
+Or d’après la loi de Coulomb pour le frottement de glissement :
+X05 = −fY05 = −f Mg
+On en déduit : 2FE sin γ = M ¨µ + f Mg ⇒FE = M( ¨µ + f g)
+2 sin γ
+FE =
+M( ¨µ + f g)
+2 sin γ
+B.11:
+Détermination de l’intensité de l’effort ⃗Fv transmis par la pression du vérin au solide
+(1).
+a. Écrire les torseurs des actions mécaniques extérieures appliquées au solide (3) en leur
+point d’application. Les exprimer dans la base B0(⃗x0,⃗y0,⃗z0).
+Action de (0) sur (3) en C :{T (0→3)}C =
+ ⃗FC
+⃗0
+
+C
+=
+
+
+
+X03
+Y03
+0
+
+0
+0
+0
+
+
+
+C
+B0
+Action de (2) sur (3) en C :
+{T (2→3)}D =
+ ⃗R(2→3)
+⃗0
+
+D
+=
+ −FD⃗x2
+⃗0
+
+D
+=
+ FB⃗x2
+⃗0
+
+D
+=
+
+
+
+FB cos α
+FB sin α
+0
+
+0
+0
+0
+
+
+
+D
+B0
+Action de (4) sur (3) en C :
+{T (4→3)}E =
+ ⃗R(4→3)
+⃗0
+
+E
+=
+ −FE⃗y4
+⃗0
+
+E
+=
+
+
+
+−FE sin γ
+−FE cos γ
+0
+
+0
+0
+0
+
+
+
+E
+B0
+b. En appliquant le théorème de la résultante dynamique au solide (3) au cours de son mou-
+vement par rapport au bâti (0), déterminer en fonction FE, Fv et α, l’expression vectorielle
+de ⃗FC (effort exercé par le bâti (0) sur le solide (3) au point C : ⃗FC = ⃗F03)
+⃗R(¯3→3) =⃗0 ⇒⃗FC = −FB⃗x2 + FE⃗y4
+avec FB =
+Fv
+2 cos α
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2020
+0 Page : 10|22
+
+Concours MP-PC
+Epreuve S.T.A.
+Partie B : M.S.I.
+Document Réponses
+d’où
+⃗FC = −
+Fv
+2 cos α⃗x2 + FE⃗y4
+Dans la base B0 :
+⃗FC =
+
+−Fv
+2 + FE sin γ
+
+⃗x0 +
+
+−Fv
+2 tan α + FE cos γ
+
+⃗y0
+⃗FC =
+−
+Fv
+2 cos α⃗x2 + FE⃗y4
+c. Écrire l’équation scalaire qui découle du théorème du moment dynamique, au point C,
+appliqué au solide (3) au cours de son mouvement par rapport au bâti (0) qui exprime Fv
+en fonction de FE et les paramètres (α, β, γ, c et d).
+⃗
+MC(¯3→3) =⃗0 ⇒
+Fv
+2 cos α⃗x2 ∧d⃗y3 −FE⃗y4 ∧(c + d)⃗y3 =⃗0
+⇒
+d cos(β −α)
+2 cos α
+Fv −(c + d) sin(β + γ)FE
+
+⃗z0 =⃗0
+on en déduit :
+Fv = (c + d)2 cos α sin(β + γ)
+d cos(β −α)
+FE
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2020
+0 Page : 11|22
+
+Concours MP-PC
+Epreuve S.T.A.
+Partie B : M.S.I.
+Document Réponses
+Fv = (c + d)2 cos α sin(β + γ)
+d cos(β −α)
+FE
+d. Déduire l’expression de Fv en fonction de (f, M, g, ¨µ, α, β, γ, c et d).
+Nous avons : FE = M( ¨µ + f g)
+2 sin γ
+en l’injectant dans la relation précédente on aura :
+Fv = (c + d) cos α sin(β + γ)
+d sin γ cos(β −α)
+M( ¨µ + f g)
+Fv =
+(c + d) cos α sin(β + γ)
+d sin γ cos(β −α)
+M( ¨µ + f g)
+e. Déduire de nouveau Fv en fonction de (f, M, g, ¨µ) et du rapport des vitesses
+  ˙µ/ ˙λ
+
+.
+D’après l’étude cinématique : (c + d) cos α sin(β + γ)
+d sin γ cos(β −α)
+= ˙µ
+˙λ
+par suite :
+Fv = ˙µ
+˙λ M( ¨µ + f g)
+Fv =
+˙µ
+˙λ M( ¨µ + f g)
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2020
+0 Page : 12|22
+
+Concours MP-PC
+Epreuve S.T.A.
+Partie B : M.S.I.
+Document Réponses
+f. Pour les trois étapes I, II et III du cycle de fermeture du moule (Figure 7), donner l’ex-
+pression de l’accélération ¨µ en fonction de la vitesse V et du temps.
+Étape I
+¨µ = V
+t1
+Étape II
+¨µ = 0
+Étape III
+¨µ = −
+V
+t3 −t2
+B.12: Sachant que pendant la phase d’injection, l’action combinée de verrouillage et d’in-
+jection sur le plateau mobile (5) (notée Pi), en son centre d’inertie G, est modélisée par le
+torseur :
+{T (Pi→5)}G =
+ −Fi⃗x0
+⃗0
+
+G
+donner l’expression de FE en fonction de (Fi et γ).
+Au moment de l’opération d’injection, l’application du théorème de la résultante dy-
+namique au solide (5) en équilibre par rapport au bâti (0) en projection sur ⃗x0 donne :
+2FE sin γ −Fi = 0
+FE =
+Fi
+2 sin γ
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2020
+0 Page : 13|22
+
+Concours MP-PC
+Epreuve S.T.A.
+Partie B : M.S.I.
+Document Réponses
+B.3 Étude énergétique
+Cette partie sera consacrée à l’étude de l’effet engendré par la prise en compte de la masse
+des genouillères (solides (4) et (4′)) sur l’action développée par le vérin électro-hydraulique
+(17C) pendant le cycle de fermeture du moule tout en conservant l’hypothèse H2 pour les
+autres solides.
+Le solide (4) sera assimilé à une barre homogène de section constante, de longueur h, de
+masse m et de centre d’inertie G4. On admettra que sa matrice centrale d’inertie a pour
+expression :
+[IG4(4)] =
+
+
+mh2
+12
+0
+0
+0
+0
+0
+0
+0
+mh2
+12
+
+
+(⃗x4,⃗y4,⃗z0)
+B.13:
+Déterminer la vitesse du centre d’inertie G4 du solide (4) par rapport au bâti, l’expri-
+mer en fonction de ( ˙µ, ˙γ et h)
+−→
+V G4∈4/0 = −→
+V F∈4/0 + −→
+Ω4/0 ∧−−→
+FG4 = ˙µ⃗x0 −˙γ⃗z0 ∧(−h
+2⃗y4) = ˙µ⃗x0 −h
+2 ˙γ⃗x4
+−→
+V G4/0 =
+˙µ⃗x0 −h
+2 ˙γ⃗x4
+B.14:
+Déterminer l’expression de l’énergie cinétique du solide (4) au cours de son mouve-
+ment par rapport au bâti (0).
+Ec4/0 = 1
+2
+(
+−→
+Ω4/0
+−→
+V G4∈4/0
+)
+G4
+
+m−→
+V G4∈4/0
+⃗σG4(4/0)
+
+G4
+avec⃗σG4(4/0) = [IG4(4)]−→
+Ω4/0
+Ec4/0 = 1
+2
+(
+−˙γ⃗z0
+˙µ⃗x0 −h
+2 ˙γ⃗x4
+)
+G4
+
+
+
+
+
+m( ˙µ⃗x0 −h
+2 ˙γ⃗x4)
+−mh2
+12 ˙γ⃗z0
+
+
+
+
+
+G4
+ainsi après simpliﬁcation on aura :
+Ec4/0 =
+m
+2
+h2
+3 ˙γ2 + ˙µ2 −h ˙µ ˙γ cos γ
+
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2020
+0 Page : 14|22
+
+Concours MP-PC
+Epreuve S.T.A.
+Partie B : M.S.I.
+Document Réponses
+B.15: Déterminer l’expression de l’énergie cinétique de l’ensemble (E) formé par le plateau
+mobile (5) et les deux solides (4) et (4’) au cours de son mouvement par rapport au bâti (0).
+EcE/0 = Ec4/0 + Ec4′/0 + Ec5/0
+Ec4/0 = Ec4′/0 = m
+2
+h2
+3 ˙γ2 + ˙µ2 −h ˙µ ˙γ cos γ
+
+et Ec5/0 = M
+2 ˙µ2
+On en déduit
+EcE/0 = ( M
+2 + m) ˙µ2 + mh2
+3
+˙γ2 −mh ˙µ ˙γ cos γ
+Ec(E/0) = ( M
+2 + m) ˙µ2 + mh2
+3
+˙γ2 −mh ˙µ ˙γ cos γ
+La ﬁgure ci-dessous schématise le graphe des actions mécaniques intérieures et extérieures
+s’exerçant sur les solides formant le système de fermeture du moule (Σ).
+Actions extérieures
+4 ; 4’
+5
+2 ; 2’
+1
+3 ; 3’
+Corps du 
+vérin
+0
+Actions mutuelles intérieures au système
+B.16:
+Déterminer la puissance développée par les actions mécaniques extérieures et inté-
+rieures s’exerçant sur le système (Σ) en mouvement par rapport au bâti (0).
+P( ¯Σ→Σ/0) = P(v´erin→1/0) + P(0→1/0) + P(0→3/0) + P(0→3′/0)
++P(0→5/0) + P(g→5/0) + P(g→4/0) + P(g→4′/0)
+avec :
+P(v´erin→1/0) = ˙λFv
+P(0→1/0) = P(0→3/0) = P(0→3′/0) = 0 liaisons parfaites
+P(0→5/0) = −f Mg ˙µ
+P(g→5/0) = −Mg⃗y0 · ˙µ⃗x0 = 0
+P(g→4/0) =
+
+˙µ⃗x0 −h
+2 ˙γ⃗x4
+
+· (−mg⃗y0) = −mg h
+2 ˙γsinγ
+P(g→4′/0) =
+
+˙µ⃗x0 + h
+2 ˙γ⃗x′
+4
+
+· (−mg⃗y0) = mg h
+2 ˙γsinγ
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2020
+0 Page : 15|22
+
+Concours MP-PC
+Epreuve S.T.A.
+Partie B : M.S.I.
+Document Réponses
+D’où :
+P( ¯Σ→Σ/0) = ˙λFv −f Mg ˙µ
+Pint(Σ) = 0 car toutes les liaisons internes au système sont considérées parfaites.
+P( ¯Σ→Σ/0) =
+˙λFv −f Mg ˙µ
+Pint(Σ) =
+0
+B.17: En appliquant le théorème de l’énergie cinétique au système (Σ) au cours de son mou-
+vement par rapport au bâti (0), déduire l’expression de la force Fv. Que devient cette expres-
+sion en négligeant la masse m du solide (4)?
+dEcΣ/0
+dt
+= P( ¯Σ→Σ/0) + Pint(Σ)
+2
+ M
+2 + m
+
+˙µ ¨µ + 2
+3mh2 ˙γ ¨γ −mh( ¨µ ˙γ cos γ + ˙µ ¨γ cos γ −˙µ ˙γ2 sin γ) = ˙λFv −f Mg ˙µ
+Fv = 1
+˙λ
+
+f Mg ˙µ + 2
+ M
+2 + m
+
+˙µ ¨µ + 2
+3mh2 ˙γ ¨γ −mh( ¨µ ˙γ cos γ + ˙µ ¨γ cos γ −˙µ ˙γ2 sin γ)
+
+Expression de Fv en tenant compte de m
+Fv = 1
+˙λ
+
+f Mg ˙µ + 2
+ M
+2 + m
+
+˙µ ¨µ + 2
+3mh2 ˙γ ¨γ −mh( ¨µ ˙γ cos γ + ˙µ ¨γ cos γ −˙µ ˙γ2 sin γ)
+
+Expression de Fv en négligeant m
+Fv =
+˙µ
+˙λ M( f g + ¨µ)
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2020
+0 Page : 16|22
+
+Concours MP-PC
+Epreuve S.T.A.
+Partie C : Automatique
+Document Réponses
+Partie C :
+Automatique
+C.1 Étude du système combinatoire à la sortie du codeur
+On désire caractériser le déplacement linéaire de la charge entraînée par le vérin électro-
+hydraulique au moyen du codeur (ﬁgure 9(a)).
+C.1: A partir de la ﬁgure 11, compléter la table de vérité relative à ce système combinatoire.
+x
+y
+z
+F(x, y, z)
+0
+0
+0
+0
+0
+1
+0
+0
+1
+1
+2
+0
+1
+0
+0
+3
+0
+1
+1
+0
+4
+1
+0
+0
+1
+5
+1
+0
+1
+1
+6
+1
+1
+0
+1
+7
+1
+1
+1
+0
+C.2: En déduire les deux expressions canoniques en somme de produits (∑∏) et en produit
+de sommes (∏∑) de la fonction F(x, y, z).
+F(x, y, z) = ¯x ¯yz + x ¯y¯z + x ¯yz + xy¯z = ∑(1, 4, 5, 6)
+= (x + y + z)(x + ¯y + z)(x + ¯y + ¯z)( ¯x + ¯y + ¯z) = Π(0, 2, 3, 7)
+C.3: Compléter le tableau de Karnaugh de la fonction F(x, y, z).
+xy
+00
+01
+11
+10
+z
+0
+0
+0
+1
+1
+1
+1
+0
+0
+1
+F
+C.4: Déterminer l’expression simpliﬁée en produit de sommes de F(x, y, z)
+¯F(x, y, z) = ¯x¯z + yz ⇒F(x, y, z) = (x + z)( ¯y + ¯z)
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2020
+0 Page : 17|22
+
+Concours MP-PC
+Epreuve S.T.A.
+Partie C : Automatique
+Document Réponses
+C.5: Tracer le logigramme de F(x, y, z) en utilisant des NOR à 2 entrées.
+x y z
+F(x, y, z)
+C.2 Étude de l’asservissement du vérin électro-hydraulique
+d’injection
+C.6:
+Écrire les équations (1) et (2) décrivant le fonctionnement du solénoïde dans le do-
+maine de Laplace.
+(1) ⇒F(p) = keI(p)
+(2) ⇒(R + Lp)I(p) = U(p)
+C.7: En déduire la fonction de transfert G1(p) = F(p)
+U(p).
+G1(p) = F(p)
+U(p) =
+ke
+R + Lp
+C.8:
+Écrire l’équation (3) décrivant le mouvement du tiroir de la servovalve dans le do-
+maine de Laplace.
+(3) ⇒(msp2 + fsp + ks)Z(p) = F(p)
+C.9: En déduire la fonction de transfert G2(p) = Z(p)
+F(p).
+G2(p) = Z(p)
+F(p) =
+1
+msp2 + fsp + ks
+C.10: Montrer que la fonction de transfert de l’ensemble {solénoïde, tiroir} est de la forme :
+T1(p) = Z(p)
+U(p) =
+k0ω2
+0
+(1 + τep)(p2 + 2ξω0p + ω2
+0)
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2020
+0 Page : 18|22
+
+Concours MP-PC
+Epreuve S.T.A.
+Partie C : Automatique
+Document Réponses
+T1(p) = Z(p)
+F(p) . F(p)
+U(p) =
+ke
+Rms
+(1 + L
+R p)(p2 + fs
+ms
+p + ks
+ms
+)
+C.11: En déduire les expressions de (k0, ω0, τe et ξ ) en fonction de (R, L, ke, ms, fs et ks).
+
+
+
+
+
+
+
+k0ω2
+0 = ke/Rms
+τe = L/R
+ω2
+0 = ks/ms
+2ξω0 = fs/ms
+ω0 = √
+ks/ms
+τe = L/R
+k0 = ke/ksR
+ξ =
+0.5fs
+√
+msks
+C.12:
+Déterminer les paramètres (τe, k0, ω0 et ξ) de la fonction de transfert T1(p) sachant
+que ks = 10 N/m, ke = 10 N/A, L = 0.1 H, ms = 0.4 Kg, fs = 2.8 N.s/m et R = 10 Ω.
+τe = 0, 01s
+k0 = 0, 1
+ω0 = 5 rd/s
+ξ = 0, 7
+C.13: En négligeant l’inductance du solénoïde, montrer que la fonction de transfert de l’en-
+semble {solénoïde, tiroir} est donnée par :
+T2(p) =
+2.5
+(p2 + 7p + 25)
+si L = 0 ⇒T2(p) =
+0, 1 × 25
+p2 + 2 × 0, 7 × 5p + 25 soit
+T2(p) =
+2.5
+(p2 + 7p + 25)
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2020
+0 Page : 19|22
+
+Concours MP-PC
+Epreuve S.T.A.
+Partie C : Automatique
+Document Réponses
+Commande du système électro-hydraulique
+Le système de commande est donné par le schéma fonctionnel suivant :
+−
++
+Pc(p)
+C(p)
+ε(p)
+T2(p)
+kv
+kb
+P1(p)
+U(p)
+P(p)
+Pc(p) et ε(p) désignent respectivement la consigne et le signal d’erreur. On supposera que
+le produit : kv · kb = 1N/m3.
+On cherche à concevoir un correcteur C(p) permettant de garantir au système les perfor-
+mances suivantes :
+performances
+exigences
+stabilité
+système stable
+précision
+erreur statique de position unitaire nulle
+Cas d’un correcteur proportionnel C(p) = K
+C.14: Pour quelles valeurs de K, le système est stable en boucle fermée?
+p2 + 7p + 25 + 2, 5K = 0 le système est stable si et seulement si
+25 + 2, 5K > 0
+soit K > −10
+C.15: Déterminer l’erreur statique de position unitaire en fonction de K, faire l’application
+numérique pour K = 10.
+F.T.B.O. T(p) =
+2, 5K
+p2 + 7p + 25
+système de classe 0 ⇒εp(∞) =
+25
+25 + 2.5K
+pour K = 10 ⇒εp(∞) = 0, 5
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2020
+0 Page : 20|22
+
+Concours MP-PC
+Epreuve S.T.A.
+Partie C : Automatique
+Document Réponses
+C.16: Pour cette même valeur de K calculer le dépassement et le temps de pic.
+F.T.B.F.
+H(p) =
+25
+p2 + 7p + 50
+ω0 =
+√
+50 rd/s
+ξ =
+7
+2
+√
+50 = 0, 5
+D% = 100 exp(−
+π · 0, 5
+p
+1 −0, 52) = 16, 3%
+tpic =
+π
+p
+50(1 −0, 52)
+= 0, 51s
+C.17: Conclure quant aux performances obtenues par ce correcteur.
+Correcteur non performant car l’erreur statique de position unitaire n’est pas nulle.
+Cas d’un correcteur intégral C(p) = 90
+p
+C.18: Avec ce correcteur peut-on assurer une erreur statique de position nulle? Conclure
+quant à l’efﬁcacité de ce correcteur pour ce système.
+F.T.B.O. : T(p) =
+225
+p(p2 + 7p + 25)
+l’introduction d’une intégration dans la boucle entrave à la stabilité du système, d’où
+la nécessité de la vériﬁer en premier lieu.
+L’équation caractéristique est p3 + 7p2 + 25p + 225 = 0
+— la première condition de Routh est vériﬁée.
+— le tableau de Routh :
+p3
+1
+25
+p2
+7
+225
+p1
+−7, 14
+p0
+225
+le système est donc instable avec ce correcteur intégral
+Comme la stabilité n’est pas vériﬁée on ne peu tolérer ce correcteur.
+Cas d’un correcteur C(p) = K1( p + K2
+p
+) où K1 et K2 sont des constantes positives
+C.19: De quel type de correcteur s’agit-il? Donner ses paramètres caractéristiques.
+C(p) = K1( p + K2
+p
+) = K1(1 + K2
+p ) il s’agit d’un correcteur PI avec Kp = K1 et Ki = K2
+ou bien C(p) = Kp +
+1
+τip ce qui fait Kp = K1 et 1
+τi = K1K2
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2020
+0 Page : 21|22
+
+Concours MP-PC
+Epreuve S.T.A.
+Partie C : Automatique
+Document Réponses
+C.20: Étudier la stabilité du système en boucle fermée en fonction de K1 et K2, en déduire le
+domaine de stabilité dans le plan K2 = f (K1);
+F.T.B.O. : T(p) = 2, 5K1(p + K2)
+p(p2 + 7p + 25)
+L’équation caractéristique : p3 + 7p2 + (25 + 2, 5K1)p + 2, 5K1K2 = 0
+La condition (1) de Routh :
+K1K2 > 0 ; 25 + 2, 5K1 > 0 ⇒K1 > 0K2 > 0 condition déjà vériﬁée.
+Le tableau de Routh :
+p3
+1
+25 + 2, 5K1
+p2
+7
+2, 5K1K2
+p1
+25 + 2, 5K1 −0, 3571K1K2
+p0
+2.5K1K2
+Le système est stable si et seulement si :
+25 + 2, 5K1 −0, 3571K1K2 > 0 ⇒K2 < 70
+K1
++ 7
+K1
+K2
+7
+0
+C.21: Déterminer les erreurs statiques de position et de vitesse unitaires.
+F.T.B.O. : T(p) = 2, 5K1(p + K2)
+p(p2 + 7p + 25)
+Le système est de classe 1 ⇒εp(∞) = 0
+εv(∞) =
+10
+K1K2
+C.22: Conclure quant aux performances garanties par ce correcteur dans ce cas de ﬁgure.
+Ce correcteur satisfait les performances recherchées.
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs
+Session 2020
+0 Page : 22|22

@@ -1,0 +1,3387 @@
+Session Juin 2023 
+Page 1 sur 12 
+CONSIGNES  
+• Cette épreuve comporte 12 pages   
+• Tout résultat doit être écrit dans les cadres adéquats. 
+• L'usage des calculatrices électroniques de poche non programmables est autorisé. 
+• Aucun échange entre les candidats n'est autorisé. 
+• Tout calcul doit être précédé d’une expression littérale.  
+• Les résultats numériques sans unité ou avec une unité fausse ne seront pas comptabilisés. 
+• Ne joindre aucun brouillon.  
+• Si au cours de l’épreuve, un candidat repère ce qui lui semble être une erreur d’énoncé, 
+il la signale sur sa copie et poursuit sa composition en indiquant les raisons des 
+initiatives qu’il est amené à prendre. 
+ 
+ 
+ 
+ 
+ 
+ 
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 12 PAGES 
+NUMEROTÉES 1 sur 12, 2 sur 12, …, 12 sur 12. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cette épreuve comporte 46 questions réparties sur cinq problèmes différents.  
+Les questions regroupées dans chaque problème contiennent plusieurs parties à noter. 
+Par exemple, la question Q4-Q5 de la page 3 sera divisée en deux parties Q4 et Q5. 
+Nous vous souhaitons bonne chance et espérons que vous pourrez faire ressortir le meilleur de 
+vous-même dans cette épreuve. 
+ 
+ 
+ 
+ 
+ 
+ 
+Concours Biologie et Géologie 
+Chimie inorganique 
+
+ 
+Page 2 sur 12 
+Épreuve de chimie section BG 
+Année : 2022-2023
+Notations et données numériques 
+États des constituants physicochimiques : 
+(sd) solide ; (liq) liquide ; (g) gazeux 
+Lorsque aucune mention n'est spécifiée, les ions sont supposés implicitement en solution 
+aqueuse. 
+Les gaz sont considérés comme parfaits. 
+Notations :  
+• L’exposant * signifie corps pur. 
+• L’exposant 
+ signifie standard. 
+• xi : la fraction molaire de « i » dans la phase liquide. 
+• yi : la fraction molaire de « i » en phase vapeur. 
+• 
+ip
+ : pression de vapeur saturante de « i ». 
+• 
+i
+
+ : potentiel chimique du constituant « i » dans la phase φ. 
+• ESH : électrode standard à hydrogène. 
+Constantes physiques : 
+• Constante des gaz parfaits : R = 8,314 J.mol-1.K-1. 
+• Constante de Faraday : F = 96485 C.mol-1. 
+• Pression standard : p
+1
+.
+bar
+=
+ 
+• Concentration standard : C
+1
+1
+.
+.
+mol L−
+=
+ 
+Données numériques : 
+• Masses molaires atomiques (g.mol-1) :Sb = 122; As = 75. 
+• Points de fusions (°C) : As = 810,00 ; Sb = 630,76. 
+• Numéro atomique Z : F = 9. 
+ 
+À 298 K, 
+• Produit ionique de l’eau Ke =10-14. 
+• 
+(
+)
+(
+)
+(
+)
+2
+5(
+)
+10
+6(aq)
+6(aq)
+:
+2
+8,3
+2 log
+sd
+Sb O
+Sb OH
+pH
+Sb OH
+−
+−
+
+
+
+=
++ 
+
+ 
+• 
+(
+)
+2
+3(
+)
+2(aq)
+:
+sd
+Sb OH
+Sb O
++
+2
+pK
+2,1
+= −
+ 
+• 
+(
+)
+2
+3(
+)
+4(aq) :
+sd
+Sb O
+Sb OH
+−
+3
+pK
+23,7
+=
+ 
+• La constante de Nernst : (
+)
+R
+T F
+Ln(10)
+0,06 V  
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Page 3 sur 12 
+Épreuve de chimie section BG 
+Année : 2022-2023
+Problème I : atomistique-liaison chimique 
+Dans le tableau périodique des éléments chimiques, l’antimoine « Sb » appartient 
+à la même colonne de l’azote 7N.  
+Q1) Déterminer la position (ligne et colonne) de l’antimoine dans la classification 
+périodique des éléments chimiques. 
+ 
+• 
+Q2) Écrire la configuration électronique de l’antimoine dans son état fondamental. 
+ 
+Q3) Déduire le schéma de sa couche de valence en utilisant les électrons dans les cases 
+quantiques. 
+ 
+Q4-Q5) Préciser les nombres quantiques associés aux orbitales de valence. 
+ 
+
+ 
+Page 4 sur 12 
+Épreuve de chimie section BG 
+Année : 2022-2023
+ 
+• Pour chacune des molécules suivantes :   
+ 
+SbF3 
+SbF5 
+Q6-Q7) Donner le schéma 
+de Lewis 
+ 
+ 
+ 
+Q8) Déduire la notation (la 
+formule) de Gillespie (type 
+V.S.E.P.R.)  
+ 
+ 
+Q9) La figure de répulsion 
+ 
+ 
+Q10) Représenter la 
+géométrie spatiale selon la 
+méthode VSEPR. 
+ 
+ 
+Problème II : cinétique chimique  
+Considérons à 298 K, l’équation-bilan de la réaction chimique suivante : 
+3
+4(
+)
+3
+(
+)
+(
+)
+2(
+)
+3(
+)
+2
+(
+)
+2
+3
+4
+aq
+aq
+aq
+aq
+aq
+liq
+H AsO
+H O
+I
+HAsO
+I
+H O
++
+−
+−
++
++
+→
++
++
+  (1) 
+Dans le tableau suivant, vous trouverez les données cinétiques expérimentales, indiquant la 
+vitesse initiale de la réaction (1) en fonction des concentrations initiales des réactifs. 
+Vitesse initiale×10-5 
+
+
+3
+4
+H AsO  
+3
+H O+
+
+
+
+ 
+I −
+
+
+
+ 
+mol.L-1.s-1 
+mol.L-1 
+mol.L-1 
+mol.L-1 
+3,7 
+10-3 
+10-2 
+0,10 
+7,4 
+10-3 
+10-2 
+0,20 
+7,4 
+2×10-3 
+10-2 
+0,10 
+3,7 
+2×10-3 
+5×10-3 
+0,20 
+Q11) Écrire la loi de vitesse correspondante à cette réaction. 
+ 
+
+ 
+Page 5 sur 12 
+Épreuve de chimie section BG 
+Année : 2022-2023
+• En utilisant les données expérimentales, déterminer l’ordre partiel de la réaction par rapport 
+au réactif : 
+Q12) I- 
+ 
+Q13) H3O+ 
+ 
+Q14) H3AsO4 
+ 
+Q15) Quel est l’ordre global de la réaction ?  
+ 
+Problème III : thermodynamique 
+Dans ce problème les gaz sont supposés parfaits et les mélanges liquides sont supposés 
+idéaux. 
+vap
+m
+H
+
+: Enthalpie standard de vaporisation considérée comme indépendante de la 
+température. 
+Partie A : Étude du corps pur A : 
+Considérons un système fermé composé d’un corps pur désigné par "A", présent 
+simultanément sous les deux phases liquide et vapeur. 
+Q16) Donner la relation de définition du potentiel chimique du corps pur « A » dans la phase 
+liquide. 
+ 
+Q17) Donner l’expression du potentiel chimique d’un 
+corps pur liquide en fonction de l’enthalpie molaire et 
+l’entropie molaire de ce même corps dans la même 
+phase. 
+ 
+
+ 
+Page 6 sur 12 
+Épreuve de chimie section BG 
+Année : 2022-2023
+Q18-Q19) Donner l’expression du potentiel chimique du corps pur « A » :  
+• Dans la phase liquide, en négligeant le terme en 
+*,liq
+m
+V
+ : 
+ 
+• Dans la phase vapeur : 
+ 
+Q20) Quelle relation doivent vérifier les potentiels chimiques de « A » à l’équilibre ? 
+ 
+• 
+Q21) Déduire des questions précédentes l’expression de la pression d’équilibre entre 
+la phase liquide et la phase vapeur d’un corps pur. 
+ 
+ 
+Q22) Qu’appelle-t-on cette pression ? 
+ 
+Partie B : propriétés colligatives 
+À une certaine quantité de A pur liquide, on ajoute 
+une petite quantité de B pur liquide, non volatil, 
+sous une pression constante : p = 1 bar. Lorsque 
+l'équilibre est atteint, la phase vapeur ne contient 
+que A pur en présence de la solution. 
+Q23) Donner l’expression du potentiel chimique 
+de A dans la phase liquide, après l’ajout du soluté 
+B, si les propriétés sont rapportées à l’état 
+standard : 
+ 
+Q24) Quelle relation doivent vérifier les potentiels chimiques de A à l’équilibre ? 
+ 
+Q25) Montrer en se basant sur les questions précédentes, que le logarithme népérien de la 
+fraction molaire de A dans la phase liquide s’écrit en fonction de l’enthalpie libre molaire 
+standard de vaporisation de A sous la forme : 
+(
+)
+v p
+m
+A
+a
+L
+G
+n x
+
+=
+R T
+
+ 
+
+ 
+Page 7 sur 12 
+Épreuve de chimie section BG 
+Année : 2022-2023
+ 
+ 
+Q26) Montrer que l’expression du logarithme népérien de la fraction molaire de « A » dans la 
+phase liquide s’écrit en fonction de l’enthalpie molaire standard de vaporisation de « A » sous 
+la forme : 
+(
+)
+v p
+m
+A
+a
+L
+H
+n x
+
+=
+1
+1
+p
+vap
+va
+T
+R
+T
+
+−
+
+
+
+
+
+
+
+
+ 
+ 
+
+ 
+Page 8 sur 12 
+Épreuve de chimie section BG 
+Année : 2022-2023
+Q27) Écrire l’expression de la fraction molaire du soluté B « xB », en admettant que la solution 
+obéit aux lois des solutions diluées. 
+ 
+Q28) Déduire l’expression de la fraction molaire du soluté B « xB » en fonction de 
+vap
+vap
+vap
+T
+T
+T
+
+=
+−
+, 
+vap
+m
+H
+
+ et 
+vap
+T
+. 
+ 
+ 
+ 
+Q29) Monter que la constante ébullioscopique Kb du solvant « A » peut s’exprimer en fonction 
+de la molalité du soluté « B » 
+B
+M  sous la forme : 
+vap
+b
+B
+T
+K
+
+= M
+ 
+ 
+ 
+
+ 
+Page 9 sur 12 
+Épreuve de chimie section BG 
+Année : 2022-2023
+Problème IV : équilibres chimiques 
+Considérons le couple 
+(
+)
+2
+5(
+)
+6(aq)
+sd
+Sb O
+Sb OH
+−
+dont la concentration de 
+(
+)6(aq)
+Sb OH
+−
+à l’équilibre est 
+donnée par :  
+(
+)
+(
+)
+10
+6(aq)
+log
+4,15
+Sb OH
+pH
+−
+
+=
+−
+
+
+ à 298 K. 
+Q30) Écrire l’équation de la réaction associée à ce couple. 
+ 
+Q31) S’agit-il d’une réaction d’oxydo-réduction ? Justifier la réponse. 
+ 
+Q32) Montrer qu’à 298 K, la constante d’équilibre associée à cette réaction vaut 10-8,3. 
+ 
+
+ 
+Page 10 sur 12 
+Épreuve de chimie section BG 
+Année : 2022-2023
+Problème V : diagramme E-pH 
+Le diagramme potentiel-pH de l’antimoine a été tracé à 298K, pour une concentration de 
+tracé notée Ctra, en ne considérant que les entités suivantes :  
+(
+)
+(
+)
+(
+)
+(
+)
+2
+3(
+)
+2
+5(
+)
+2(
+)
+4(
+)
+6(
+)
+,
+,
+,
+,
+,
+sd
+sd
+sd
+aq
+aq
+aq
+Sb
+Sb O
+Sb O
+Sb OH
+Sb OH
+Sb OH
++
+−
+−
+. 
+ 
+Q33-Q38) Donner le nombre (degré) d’oxydation de l’atome d’antimoine dans chacune des 
+entités sus indiquées.  
+Entité 
+n.o (Sb) 
+Entité 
+n.o (Sb) 
+(
+)
+sd
+Sb
+ 
+ 
+(
+)2(
+)
+aq
+Sb OH
++
+ 
+ 
+2
+3(
+)
+sd
+Sb O
+ 
+ 
+(
+)4(
+)
+aq
+Sb OH
+−
+ 
+ 
+2
+5(
+)
+sd
+Sb O
+ 
+ 
+(
+)6(
+)
+aq
+Sb OH
+−
+ 
+ 
+ 
+ 
+ 
+
+ 
+Page 11 sur 12 
+Épreuve de chimie section BG 
+Année : 2022-2023
+• Nous souhaitons attribuer à chacun des domaines numérotés de (1) à (6) l’entité 
+correspondante. 
+Q39) Pour chacun des degrés d’oxydation, classer les entités en fonction du pH 
+(classement horizontal). Justifier à chaque fois la réponse. 
+ 
+Q40-Q41) Attribuer les entités à chacun des domaines. 
+ 
+Domaine (1) 
+Domaine (2) 
+ 
+ 
+Domaine (3) 
+Domaine (4) 
+Domaine (5) 
+(
+)2(
+)
+aq
+Sb OH
++
+ 
+ 
+ 
+Domaine (6) 
+ 
+Q42) Déterminer la concentration Ctra utilisée pour tracer le diagramme de la page 10. 
+ 
+
+ 
+Page 12 sur 12 
+Épreuve de chimie section BG 
+Année : 2022-2023
+Q43-Q44) Déterminer la (les) valeur(s) de(s) pH limitant la (les) frontière(s) verticale(s). 
+ 
+ 
+• 
+Q45) Montrer que l’expression de la frontière séparant les domaines (1) et (3) s’écrit en 
+fonction du potentiel standard rédox du couple mis en jeux et du pH. 
+ 
+Q46) À l’aide du diagramme E-pH de la page 10, estimer la valeur du potentiel standard 
+rédox du couple (1)/(3) de la question précédente. 
+ 
+ 
+FIN DE L’ÉPREUVE 
+ 
+
+Session Juin 2023 
+Page 1 sur 12 
+CONSIGNES  
+• Cette épreuve comporte 12 pages   
+• Tout résultat doit être écrit dans les cadres adéquats. 
+• L'usage des calculatrices électroniques de poche non programmables est autorisé. 
+• Aucun échange entre les candidats n'est autorisé. 
+• Tout calcul doit être précédé d’une expression littérale.  
+• Les résultats numériques sans unité ou avec une unité fausse ne seront pas comptabilisés. 
+• Ne joindre aucun brouillon.  
+• Si au cours de l’épreuve, un candidat repère ce qui lui semble être une erreur d’énoncé, 
+il la signale sur sa copie et poursuit sa composition en indiquant les raisons des 
+initiatives qu’il est amené à prendre. 
+ 
+ 
+ 
+ 
+ 
+ 
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 12 PAGES 
+NUMEROTÉES 1 sur 12, 2 sur 12, …, 12 sur 12. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cette épreuve comporte 46 questions réparties sur cinq problèmes différents.  
+Les questions regroupées dans chaque problème contiennent plusieurs parties à noter. 
+Par exemple, la question Q4-Q5 de la page 3 sera divisée en deux parties Q4 et Q5. 
+Nous vous souhaitons bonne chance et espérons que vous pourrez faire ressortir le meilleur de 
+vous-même dans cette épreuve. 
+ 
+ 
+ 
+ 
+ 
+ 
+Concours Biologie et Géologie 
+Chimie inorganique 
+
+ 
+Page 2 sur 12 
+Épreuve de chimie section BG 
+Année : 2022-2023
+Notations et données numériques 
+États des constituants physicochimiques : 
+(sd) solide ; (liq) liquide ; (g) gazeux 
+Lorsque aucune mention n'est spécifiée, les ions sont supposés implicitement en solution 
+aqueuse. 
+Les gaz sont considérés comme parfaits. 
+Notations :  
+• L’exposant * signifie corps pur. 
+• L’exposant 
+ signifie standard. 
+• xi : la fraction molaire de « i » dans la phase liquide. 
+• yi : la fraction molaire de « i » en phase vapeur. 
+• 
+ip
+ : pression de vapeur saturante de « i ». 
+• 
+i
+
+ : potentiel chimique du constituant « i » dans la phase φ. 
+• ESH : électrode standard à hydrogène. 
+Constantes physiques : 
+• Constante des gaz parfaits : R = 8,314 J.mol-1.K-1. 
+• Constante de Faraday : F = 96485 C.mol-1. 
+• Pression standard : p
+1
+.
+bar
+=
+ 
+• Concentration standard : C
+1
+1
+.
+.
+mol L−
+=
+ 
+Données numériques : 
+• Masses molaires atomiques (g.mol-1) :Sb = 122; As = 75. 
+• Points de fusions (°C) : As = 810,00 ; Sb = 630,76. 
+• Numéro atomique Z : F = 9. 
+ 
+À 298 K, 
+• Produit ionique de l’eau Ke =10-14. 
+• 
+(
+)
+(
+)
+(
+)
+2
+5(
+)
+10
+6(aq)
+6(aq)
+:
+2
+8,3
+2 log
+sd
+Sb O
+Sb OH
+pH
+Sb OH
+−
+−
+
+
+
+=
++ 
+
+ 
+• 
+(
+)
+2
+3(
+)
+2(aq)
+:
+sd
+Sb OH
+Sb O
++
+2
+pK
+2,1
+= −
+ 
+• 
+(
+)
+2
+3(
+)
+4(aq) :
+sd
+Sb O
+Sb OH
+−
+3
+pK
+23,7
+=
+ 
+• La constante de Nernst : (
+)
+R
+T F
+Ln(10)
+0,06 V  
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Page 3 sur 12 
+Épreuve de chimie section BG 
+Année : 2022-2023
+Problème I : atomistique-liaison chimique 
+Dans le tableau périodique des éléments chimiques, l’antimoine « Sb » appartient 
+à la même colonne de l’azote 7N.  
+Q1) Déterminer la position (ligne et colonne) de l’antimoine dans la classification 
+périodique des éléments chimiques. 
+La structure électronique de l’atome d’azote est : 7N : 1s2 2s2 2p3. 
+L’azote appartient à 2ème ligne et à la 15ème colonne. 
+Puisque Sb appartient à la même famille que l’azote ➔ 15ème colonne. 
+De la figure ci-contre ➔ Sb appartient à 5ème ligne 
+ 
+Sb appartient à la 5ème ligne et 15ème colonne. 
+Q) 
+Q2) Écrire la configuration électronique de l’antimoine dans son état fondamental. 
+Le numéro atomique de Sb : Z = 7 + 8 +18+18 = 51 
+51Sb : 1s22s22p63s23p63d104s24p64d105s25p3 
+51Sb : [36Kr]4d105s25p3 
+Ou bien 
+Puisque Sb appartient à la même famille que l’azote, il appartient à la 15ème colonne 
+et il présente la même couche de valence :  5s2 5p3 
+51Sb : 1s22s22p63s23p63d104s24p64d105s25p3 
+Q3) Déduire le schéma de sa couche de valence en utilisant les électrons dans les cases 
+quantiques. 
+La couche de valence est : 5s 5p 
+D’après la règle de Hund, le remplissage des sous-couches 5s 5p est le suivant : 
+ 
+ 
+Q4-Q5) Préciser les nombres quantiques associés aux orbitales de valence. 
+Les nombres quantiques associés aux orbitales de valence de l'antimoine sont : 
+ • Pour l’orbitale 5s : n = 5, l = 0, ml peut prendre la valeur 0. 
+ • Pour les orbitales 5p : n = 5, l = 1, ml peut prendre les valeurs -1, 0, ou +1. 
+ 
+
+ 
+Page 4 sur 12 
+Épreuve de chimie section BG 
+Année : 2022-2023
+• Pour chacune des molécules suivantes :   
+ 
+SbF3 
+SbF5 
+Q6-Q7) Donner le schéma 
+de Lewis 
+9F: 1s2 2s2 2p5   
+ 
+ 
+ 
+ 
+Q8) Déduire la notation (la 
+formule) de Gillespie (type 
+V.S.E.P.R.)  
+AX3E1 
+AX5E0 
+Q9) La figure de répulsion 
+Tétraèdre 
+Bipyramide trigonale 
+Q10) Représenter la 
+géométrie spatiale selon la 
+méthode VSEPR. 
+ 
+Problème II : cinétique chimique  
+Considérons à 298 K, l’équation-bilan de la réaction chimique suivante : 
+3
+4(
+)
+3
+(
+)
+(
+)
+2(
+)
+3(
+)
+2
+(
+)
+2
+3
+4
+aq
+aq
+aq
+aq
+aq
+liq
+H AsO
+H O
+I
+HAsO
+I
+H O
++
+−
+−
++
++
+→
++
++
+  (1) 
+Dans le tableau suivant, vous trouverez les données cinétiques expérimentales, indiquant la 
+vitesse initiale de la réaction (1) en fonction des concentrations initiales des réactifs. 
+Vitesse initiale×10-5 
+
+
+3
+4
+H AsO  
+3
+H O+
+
+
+
+ 
+I −
+
+
+
+ 
+mol.L-1.s-1 
+mol.L-1 
+mol.L-1 
+mol.L-1 
+3,7 
+10-3 
+10-2 
+0,10 
+7,4 
+10-3 
+10-2 
+0,20 
+7,4 
+2×10-3 
+10-2 
+0,10 
+3,7 
+2×10-3 
+5×10-3 
+0,20 
+Q11) Écrire la loi de vitesse correspondante à cette réaction. 
+La vitesse v s’exprime en fonction des concentrations des réactifs par une relation de la 
+forme :  
+
+
+3
+4
+3
+3
+4
+3
+H AsO
+H O
+I
+m
+m
+m
+v
+k
+H AsO
+H O
+I
++
+−
++
+−
+
+
+
+
+=
+
+
+
+
+
+
+
+ 
+k étant la constante de vitesse de la réaction. 
+mH3AsO4, mH3O+ et mI- les ordres partiels par rapport aux réactifs H3AsO4, H3O+ et I- 
+respectivement. 
+ 
+
+ 
+Page 5 sur 12 
+Épreuve de chimie section BG 
+Année : 2022-2023
+• En utilisant les données expérimentales, déterminer l’ordre partiel de la réaction par rapport 
+au réactif : 
+Q12) I- 
+(
+)
+(
+)
+(
+)
+3
+4
+3
+3
+2
+1
+10
+10
+0,10
+H AsO
+H O
+I
+m
+m
+m
+v
+k
++
+−
+−
+−
+=
+
+
+
+ 
+(
+)
+(
+)
+(
+)
+3
+4
+3
+3
+2
+2
+10
+10
+0,20
+H AsO
+H O
+I
+m
+m
+m
+v
+k
++
+−
+−
+−
+= 
+
+
+ 
+(
+)
+(
+)
+1
+2
+0,10
+1
+3,7
+0,5
+2
+7,4
+0,20
+I
+I
+I
+m
+m
+m
+v
+v
+−
+−
+−
+
+
+=
+=
+=
+
+
+
+
+=0,5 ➔ mI- = 1 
+Q13) H3O+ 
+(
+)
+(
+)
+(
+)
+3
+4
+3
+1
+3
+2
+3
+2 10
+10
+0,10
+H AsO
+H O
+m
+m
+v
+k
++
+−
+−
+=
+
+
+
+
+ 
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+3
+4
+3
+3
+3
+4
+3
+3
+3
+4
+3
+2
+3
+2 10
+5 10
+0,20
+3,7
+0,5
+2
+0,5
+7,4
+2 10
+10
+0,10
+H AsO
+H O
+H O
+H AsO
+H O
+m
+m
+m
+m
+m
+k
+v
+v
+k
++
++
++
+−
+−
+−
+−
+
+
+
+
+
+=
+=
+
+=
+=
+
+
+
+
+➔  𝑚𝐻3𝑂+  = 2 
+Q14) H3AsO4 
+(
+)
+(
+)
+(
+)
+3
+4
+3
+1
+3
+2
+3
+2 10
+10
+0,10
+H AsO
+H O
+m
+m
+v
+k
++
+−
+−
+=
+
+
+
+
+ 
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+3
+4
+3
+3
+4
+3
+4
+3
+1
+3
+2
+3
+1
+3
+2
+1
+2 10
+10
+0,10
+7,4
+2
+2
+3,7
+10
+10
+0,10
+H AsO
+H O
+H AsO
+H AsO
+H O
+m
+m
+m
+m
+m
+k
+v
+v
+k
++
++
+−
+−
+−
+−
+
+
+
+
+=
+=
+=
+=
+
+
+
+ ➔ mH3AsO4 = 1 
+Q15) Quel est l’ordre global de la réaction ?  
+L’ordre globale de la réaction = mH3AsO4+ mH3O+ + mI-  = 4 
+Problème III : thermodynamique 
+Dans ce problème les gaz sont supposés parfaits et les mélanges liquides sont supposés 
+idéaux. 
+vap
+m
+H
+
+: Enthalpie standard de vaporisation considérée comme indépendante de la 
+température. 
+Partie A : Étude du corps pur A : 
+Considérons un système fermé composé d’un corps pur désigné par "A", présent 
+simultanément sous les deux phases liquide et vapeur. 
+Q16) Donner la relation de définition du potentiel chimique du corps pur « A » dans la phase 
+liquide. 
+*,
+*,
+*,
+liq
+liq
+liq
+m
+liq
+G
+G
+n
+
+=
+=
+ 
+Q17) Donner l’expression du potentiel chimique d’un 
+corps pur liquide en fonction de l’enthalpie molaire et 
+l’entropie molaire de ce même corps dans la même 
+phase. 
+*,
+*,
+*,
+liq
+liq
+liq
+m
+m
+H
+T
+S
+
+=
+−
+
+ 
+
+ 
+Page 6 sur 12 
+Épreuve de chimie section BG 
+Année : 2022-2023
+Q18-Q19) Donner l’expression du potentiel chimique du corps pur « A » :  
+• Dans la phase liquide, en négligeant le terme en 
+*,liq
+m
+V
+ : 
+*,liq
+
+
+=
+( )
+,
+*,
+liq
+liq
+m
+T
+V
+p
+p
++
+
+−
+(
+)  
+*,liq
+T
+
+
+,liq  
+• Dans la phase vapeur : 
+*,vap
+
+
+=
+( )
+,vap
+p
+T
+R T
+Ln
+p
++
+
+
+
+
+
+
+
+
+ 
+Q20) Quelle relation doivent vérifier les potentiels chimiques de « A » à l’équilibre ? 
+*,
+*,
+liq
+vap
+
+
+=
+ 
+• 
+Q21) Déduire des questions précédentes l’expression de la pression d’équilibre entre 
+la phase liquide et la phase vapeur d’un corps pur. 
+
+( )
+,liq T
+
+=
+( )
+,vap
+p
+T
+R T
+Ln
+p
++
+
+
+
+
+
+
+
+
+ 
+p
+p
+=
+Exp 
+
+( )
+,liq T
+
+−
+( )
+( )
+,vap T
+p
+T
+R T
+
+
+=
+
+
+
+
+
+ 
+Q22) Qu’appelle-t-on cette pression ? 
+Pression de vapeur saturante 
+Partie B : propriétés colligatives 
+À une certaine quantité de A pur liquide, on ajoute 
+une petite quantité de B pur liquide, non volatil, 
+sous une pression constante : p = 1 bar. Lorsque 
+l'équilibre est atteint, la phase vapeur ne contient 
+que A pur en présence de la solution. 
+Q23) Donner l’expression du potentiel chimique 
+de A dans la phase liquide, après l’ajout du soluté 
+B, si les propriétés sont rapportées à l’état 
+standard : 
+liq
+A
+A
+
+
+
+( )
+(
+)
+,
+A
+liq
+R T
+n
+T
+L
+x
++
+
+
+ 
+Q24) Quelle relation doivent vérifier les potentiels chimiques de A à l’équilibre ? 
+À l’équilibre liquide/vapeur, on a l’égalité des potentiels chimiques du solvant A dans 
+chaque phase :
+*,
+liq
+vap
+A
+A
+
+
+=
+, car dans la phase vapeur le A est pur 
+Q25) Montrer en se basant sur les questions précédentes, que le logarithme népérien de la 
+fraction molaire de A dans la phase liquide s’écrit en fonction de l’enthalpie libre molaire 
+standard de vaporisation de A sous la forme : 
+(
+)
+v p
+m
+A
+a
+L
+G
+n x
+
+=
+R T
+
+ 
+
+ 
+Page 7 sur 12 
+Épreuve de chimie section BG 
+Année : 2022-2023
+La phase vapeur en équilibre avec la phase liquide est constituée par « A » pur, 
+À l’équilibre, 
+A
+
+( )
+(
+)
+,liq
+A
+R T
+n x
+T
+L
+
+
+
+=
++
+( )
+,vap
+p
+T
+R T
+Ln
+p
++
+
+
+
+
+
+
+
+
+ 
+P = 1bar, 
+A
+
+( )
+(
+)
+,liq
+A
+A
+R T
+x
+T
+Ln
+
+
+
+=
++
+( )
+,vap T  
+(
+)
+A
+A
+Ln x
+
+=
+( )
+,vap
+A
+T
+
+−
+( )
+,liq T
+R T
+
+ 
+De la question Q17) partie A) ➔ 
+(
+)
+m
+A
+Ln x
+H
+=
+,vap
+m
+T
+S
+−
+
+(
+)
+,vap
+m
+H
+−
+,liq
+m
+T
+S
+−
+
+(
+)
+,liq
+R T
+
+ 
+(
+)
+m
+A
+Ln x
+H
+=
+,vap
+m
+H
+−
+(
+)
+,liq
+m
+T
+S
+−
+
+,vap
+m
+S
+−
+(
+)
+,liq
+R T
+
+ 
+(
+)
+v p
+m
+A
+a
+L
+H
+n x
+
+=
+vap
+m
+T
+S
+−
+
+vap
+m
+R T
+G
+
+=
+
+R T
+
+
+
+
+
+
+
+
+
+ 
+ 
+Q26) Montrer que l’expression du logarithme népérien de la fraction molaire de « A » dans la 
+phase liquide s’écrit en fonction de l’enthalpie molaire standard de vaporisation de « A » sous 
+la forme : 
+(
+)
+v p
+m
+A
+a
+L
+H
+n x
+
+=
+1
+1
+p
+vap
+va
+T
+R
+T
+
+−
+
+
+
+
+
+
+
+
+ 
+(
+)
+( )
+sol
+g
+A
+A
+=
+ À l’équilibre, K
+A
+p
+x
+p
+=
+
+
+
+
+
+
+
+ 
+Loi de Van’t Hoff : 
+dLn K
+(
+)
+vap
+m
+H
+dT
+
+=
+2
+R T
+
+ 
+A
+p
+dLn x
+p
+
+vap
+m
+H
+dT
+
+
+
+
+
+
+=
+2
+R T
+
+ 
+P = 1 bar, 
+1
+A
+vap
+m
+d Ln x
+H
+dT
+
+
+
+
+
+
+
+
+
+
+
+
+=
+2
+R T
+
+ ➔ 
+(
+)
+A
+vap
+m
+d Ln x
+H
+dT
+
+
+
+
+
+−
+=
+2
+R T
+
+➔ 
+(
+)
+A
+vap
+m
+d Ln x
+H
+dT
+
+
+
+
+= −
+2
+R T
+
+ 
+Ou bien  
+(
+)
+vap
+m
+A
+G
+d Ln x
+d
+dT
+dT
+
+
+
+=
+
+vap
+m
+T
+H
+R
+
+= −
+
+
+
+
+
+
+
+2
+R T
+
+ Relation de Gibbs Helmholtz 
+ 
+(
+)
+(
+)
+0
+A
+L
+v
+A
+ap
+n x
+m
+d
+H
+Ln x
+
+= −
+
+
+
+
+2
+vap
+T
+dT
+R
+T
+
+
+T
+ ➔ 
+(
+)
+v p
+m
+A
+a
+L
+H
+n x
+
+=
+1
+1
+vap
+vap
+R
+T
+T
+
+−
+
+
+
+
+
+
+
+
+ 
+
+ 
+Page 8 sur 12 
+Épreuve de chimie section BG 
+Année : 2022-2023
+Q27) Écrire l’expression de la fraction molaire du soluté B « xB », en admettant que la solution 
+obéit aux lois des solutions diluées. 
+xB ➔ 0 et xA ➔ 1 
+(
+)
+(
+)
+1
+A
+B
+B
+Ln x
+Ln
+x
+x
+=
+−
+−
+ 
+a
+B
+v p
+m
+x
+H
+
+=
+1
+vap
+R
+T
+
+1
+vap
+T
+
+
+−
+
+
+
+
+
+
+ 
+Q28) Déduire l’expression de la fraction molaire du soluté B « xB » en fonction de 
+vap
+vap
+vap
+T
+T
+T
+
+=
+−
+, 
+vap
+m
+H
+
+ et 
+vap
+T
+. 
+a
+B
+v p
+m
+x
+H
+
+=
+vap
+vap
+T
+T
+R
+−
+
+vap
+T
+vap
+T
+
+
+
+
+
+
+
+
+
+ 
+a
+B
+v p
+m
+x
+H
+
+=
+vap
+vap
+T
+R
+T
+
+
+vap
+T
+
+
+
+
+
+
+
+
+
+ 
+vap
+vap
+T
+T
+
+ 
+a
+B
+v p
+m
+x
+H
+
+=
+vap
+vap
+T
+R
+T
+
+
+(
+)
+2
+
+
+
+
+
+
+
+
+ 
+Q29) Monter que la constante ébullioscopique Kb du solvant « A » peut s’exprimer en fonction 
+de la molalité du soluté « B » 
+B
+M  sous la forme : 
+vap
+b
+B
+T
+K
+
+= M
+ 
+De la question précédente,  
+vap
+vap
+R
+T
+T
+
+
+=
+(
+)
+2
+vap
+m
+H
+
+B
+x
+
+
+
+
+
+
+
+
+ 
+L
+B
+B
+L
+L
+B
+A
+L
+L
+A
+B
+L
+L
+B
+B
+A
+B
+A
+B
+L
+L
+A
+A
+n
+x
+n
+n
+A solvant et B soluté : n
+n
+n
+n
+M
+x
+M
+n
+m
+1000
+=
++
+
+
+=
+
+=
+
+M
+ 
+vap
+vap
+R
+T
+T
+
+
+=
+(
+)
+2
+vap
+m
+H
+
+B
+1000
+A
+M
+
+
+
+
+
+
+
+
+
+
+M  
+B
+vap
+b
+T
+K
+
+=
+M  
+➔ 
+vap
+b
+B
+T
+K
+
+= M
+ 
+
+ 
+Page 9 sur 12 
+Épreuve de chimie section BG 
+Année : 2022-2023
+Problème IV : équilibres chimiques 
+Considérons le couple 
+(
+)
+2
+5(
+)
+6(aq)
+sd
+Sb O
+Sb OH
+−
+dont la concentration de 
+(
+)6(aq)
+Sb OH
+−
+à l’équilibre 
+est donnée par :  
+(
+)
+(
+)
+10
+6(aq)
+log
+4,15
+Sb OH
+pH
+−
+
+=
+−
+
+
+ à 298 K. 
+Q30) Écrire l’équation de la réaction associée à ce couple. 
+(
+)
+2
+5(
+)
+6(aq) :
+sd
+Sb O
+Sb OH
+−
+(
+)
+2
+5(
+)
+2
+6(aq)
+7
+2
+2
+sd
+Sb O
+H O
+Sb OH
+H
+−
++
++
+=
++
+ 
+Q31) S’agit-il d’une réaction d’oxydo-réduction ? Justifier la réponse. 
+Non,  
+Car aucun élément ne change de degré d’oxydation. 
+Il s’agit d’une réaction d’échange de protons➔ couple (acide/base). 
+Q32) Montrer qu’à 298 K, la constante d’équilibre associée à cette réaction vaut 10-8,3. 
+ 
+La constante d'équilibre s’écrit en omettant C  : 
+1
+K
+(
+)
+2
+2
+6(aq)
+H
+Sb OH
+−
++
+
+
+
+
+=
+
+
+
+
+ 
+10
+1
+log
+K
+−
+(
+)
+(
+)
+(
+)
+2
+2
+10
+10
+6(aq)
+log
+log
+H
+Sb OH
+−
++
+
+
+
+
+
+
+= −
+−
+
+
+
+
+
+
+
+ 
+1
+pK
+(
+)
+(
+)
+10
+6(aq)
+2
+2 log
+pH
+Sb OH
+−
+
+
+= 
+−
+
+ 
+Il vient alors, 
+(
+)
+(
+)
+1
+10
+6(aq)
+log
+pK
+Sb OH
+pH
+−
+
+=
+−
+
+
+2
+ 
+Par identification % à l’expression : 
+À 298 K, 
+(
+)
+(
+)
+10
+6(aq)
+log
+4,15
+Sb OH
+pH
+−
+
+=
+−
+
+
+ 
+1
+pK
+4,15
+2
+=
+ 
+ 
+1
+pK
+8,3
+=
+ ➔ 
+1
+K
+8,3
+10−
+=
+ 
+ 
+
+ 
+Page 10 sur 12 
+Épreuve de chimie section BG 
+Année : 2022-2023
+Problème V : diagramme E-pH 
+Le diagramme potentiel-pH de l’antimoine a été tracé à 298K, pour une concentration de 
+tracé notée Ctra, en ne considérant que les entités suivantes :  
+(
+)
+(
+)
+(
+)
+(
+)
+2
+3(
+)
+2
+5(
+)
+2(
+)
+4(
+)
+6(
+)
+,
+,
+,
+,
+,
+sd
+sd
+sd
+aq
+aq
+aq
+Sb
+Sb O
+Sb O
+Sb OH
+Sb OH
+Sb OH
++
+−
+−
+. 
+ 
+Q33-Q38) Donner le nombre (degré) d’oxydation de l’atome d’antimoine dans chacune des 
+entités sus indiquées.  
+Entité 
+n.o (Sb) 
+Entité 
+n.o (Sb) 
+(
+)
+sd
+Sb
+ 
+0 
+(
+)2(
+)
+aq
+Sb OH
++
+ 
+III 
+2
+3(
+)
+sd
+Sb O
+ 
+III 
+(
+)4(
+)
+aq
+Sb OH
+−
+ 
+III 
+2
+5(
+)
+sd
+Sb O
+ 
+V 
+(
+)6(
+)
+aq
+Sb OH
+−
+ 
+V 
+ 
+ 
+ 
+
+ 
+Page 11 sur 12 
+Épreuve de chimie section BG 
+Année : 2022-2023
+• Nous souhaitons attribuer à chacun des domaines numérotés de (1) à (6), l’entité 
+correspondante. 
+Q39) Pour chacun des degrés d’oxydation, classer les entités en fonction du pH 
+(classement horizontal). Justifier à chaque fois la réponse. 
+• Le nombre d’oxydation de Sb dans les entités 
+2
+5(
+)
+sd
+Sb O
+ et 
+(
+)4(
+)
+aq
+Sb OH
+−
+ est le 
+même : 
+(
+)
+2
+5(
+)
+2
+6(
+)
+7
+2
+2
+sd
+aq
+Sb O
+H O
+Sb OH
+H
+−
++
++
+=
++
+ ➔ 
+2
+5(
+) :
+sd
+Sb O
+acide et 
+(
+)6(
+) :
+aq
+Sb OH
+base
+−
+ 
+ 
+• Le nombre d’oxydation de Sb dans les entités 
+2
+3(
+)
+sd
+Sb O
+ et 
+(
+)4(
+)
+aq
+Sb OH
+−
+ est le 
+même : 
+(
+)
+2
+3(
+)
+2
+4(
+)
+5
+2
+2
+sd
+aq
+Sb O
+H O
+Sb OH
+H
+−
++
++
+=
++
+➔ 
+2
+3(
+) :
+sd
+Sb O
+acide et 
+(
+)4(
+) :
+aq
+Sb OH
+base
+−
+ 
+ 
+ 
+Q40-Q41) Attribuer les entités à chacun des domaines. 
+ 
+Domaine (1) 
+Domaine (2) 
+2
+5(
+)
+sd
+Sb O
+ 
+(
+)6(
+)
+aq
+Sb OH
+−
+ 
+Domaine (3) 
+Domaine (4) 
+Domaine (5) 
+(
+)2(
+)
+aq
+Sb OH
++
+ 
+2
+3(
+)
+sd
+Sb O
+ 
+(
+)4(
+)
+aq
+Sb OH
+−
+ 
+Domaine (6) 
+(
+)
+sd
+Sb
+ 
+Q42) Déterminer la concentration Ctra utilisée pour tracer le diagramme de la page 10. 
+Du diagramme, la frontière entre 
+(
+)
+2
+5(
+)
+6(aq)
+sd
+Sb O
+Sb OH
+−
+ est située à pH = 2,15 
+En plus, des données (page2), ou Problème IV page 9) : 
+La concentration de 
+(
+)6(aq)
+Sb OH
+−
+ est reliée au pH par la relation : 
+(
+)
+(
+)
+10
+6(aq)
+2
+8,3
+2 log
+pH
+Sb OH
+−
+
+
+
+=
++ 
+
+ 
+La convention de frontière : 
+(
+)6(aq)
+tra
+Sb OH
+C
+−
+
+=
+
+
+ 
+(
+)
+10
+8,3
+log
+2,15
+2
+tra
+pH
+C
+=
++
+=
+ ➔ 
+(
+)
+10
+log
+2,15
+4,15
+2
+tra
+C
+=
+−
+= − 
+D’où, Ctra = 10-2 mol.L-1 
+
+ 
+Page 12 sur 12 
+Épreuve de chimie section BG 
+Année : 2022-2023
+Q43-Q44) Déterminer la(les) valeur(s) de(s) pH limitant la (les) frontière(s) verticale(s). 
+(
+)
+2
+3(
+)
+2(aq)
+:
+sd
+Sb OH
+Sb O
++
+2
+pK
+2,1
+= −
+ 
+(
+)
+2
+3(
+)
+2
+2(aq)
+2
+2
+sd
+Sb OH
+Sb O
+H O
+H
++
++
+=
++
++
+ 
+À l’équilibre, 
+2
+K
+(
+)
+2
+2
+2(aq)
+H
+Sb OH
++
++
+
+
+
+
+=
+
+
+
+
+ 
+10
+2
+log
+K
+−
+(
+)
+(
+)
+(
+)
+2
+2
+10
+10
+2(aq)
+log
+log
+H
+Sb OH
++
++
+
+
+
+
+
+
+= −
++
+
+
+
+
+
+
+
+ 
+2
+pK
+(
+)
+10
+2
+2 log
+tra
+pH
+C
+=
+
++ 
+ 
+2
+2
+pH
+pK
+
+=
+(
+)
+10
+2 log
+tra
+C
+−
+ 
+2
+pK
+pH =
+(
+)
+10
+log
+2
+tra
+C
+−
+ 
+(
+)
+2
+2
+10
+2,1
+log
+10
+0,95
+2
+pH
+−
+−
+=
+−
+=
+ 
+ 
+(
+)
+2
+3(
+)
+4(aq) :
+sd
+Sb O
+Sb OH
+−
+3
+pK
+23,7
+=
+ 
+(
+)
+2
+3(
+)
+2
+4(aq)
+5
+2
+2
+sd
+Sb O
+H O
+Sb OH
+H
+−
++
++
+=
++
+ 
+La constante d'équilibre s’écrit en omettant C
+ : 
+3
+K
+(
+)
+2
+2
+4(aq)
+H
+Sb OH
+−
++
+
+
+
+
+=
+
+
+
+
+ 
+ 
+10
+3
+log
+K
+−
+(
+)
+(
+)
+(
+)
+2
+2
+10
+10
+4(aq)
+log
+log
+H
+Sb OH
+−
++
+
+
+
+
+
+
+= −
+−
+
+
+
+
+
+
+
+
+ 
+3
+pK
+(
+)
+10
+2
+2 log
+tra
+pH
+C
+=
+
+−
+ 
+3
+pK
+pH =
+(
+)
+10
+log
+2
+tra
+C
++
+ 
+ 
+(
+)
+2
+3
+10
+23,7
+log
+10
+9,85
+2
+pH
+−
+=
++
+=
+ 
+• 
+Q45) Montrer que l’expression de la frontière séparant les domaines (1) et (3) s’écrit en 
+fonction du potentiel standard rédox du couple mis en jeux et du pH. 
+Couple (1) : 
+(
+)
+2
+5(
+)
+2(aq)
+sd
+Sb O
+Sb OH
++
+ 
+(
+)
+2
+5(
+)
+2
+2(aq)
+2( )
+6
+4
+2
+:
+                         
+2
+2
+:
+sd
+D
+g
+G
+Sb O
+H
+e
+Sb OH
+H O réduction
+H
+H
+e
+oxydation
++
++
+−
++
+−
++
++
+=
++
+=
++
+ 
+Bilan : 
+(
+)
+2( )
+2
+5(
+)
+2
+2(aq)
+6
+2
+2
+4
+g
+sd
+D
+G
+Sb O
+H
+H
+Sb OH
+H
+H O
++
++
++
++
++
+=
++
++
+ 
+Le potentiel d’électrode : 
+(
+)
+(
+)
+2
+5(
+)
+2(aq)
+sd
+E Sb O
+Sb OH
+E
++
+=
+(
+)
+(
+)
+(
+)
+6
+2
+5(
+)
+10
+2
+2(aq)
+2(aq)
+0,06
+log
+4
+D
+sd
+H
+Sb O
+Sb OH
+Sb OH
++
++
++
+
+
+
+
+
+
+
+
++
+
+
+
+
+
+
+
+
+
+
+
+ 
+(
+)
+(
+)
+2
+5(
+)
+2(aq)
+sd
+E Sb O
+Sb OH
+E
++
+=
+(
+)
+(
+)
+(
+)
+2
+5(
+)
+10
+2(aq)
+0,03 log
+0,09
+sd
+tra
+Sb O
+Sb OH
+C
+pH
++
+−
+
+−
+
+ 
+Q46) À l’aide du diagramme E-pH de la page 10, estimer la valeur du potentiel standard 
+rédox du couple (1)/(3) de la question précédente. 
+À pH = 0 ➔ 0,74
+E
+=
+(
+)
+(
+)
+(
+)
+2
+2
+5(
+)
+10
+2(aq)
+0,03 log
+10
+sd
+Sb O
+Sb OH
++
+−
+−
+
+ 
+E
+(
+)
+(
+)
+2
+5(
+)
+2(aq)
+0,74
+0,06
+0,68
+sd
+Sb O
+Sb OH
+V
++
+=
+−
+=
+ 
+ 
+FIN DE L’ÉPREUVE 
+ 

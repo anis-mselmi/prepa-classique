@@ -1,0 +1,6804 @@
+ 
+Concours Physique et Chimie - Session Juin 2023 
+Epreuve de Physique 
+Page 1/8 
+REPUBLIQUE TUNISIENNE 
+Ministère de l’Enseignement Supérieur et 
+de la Recherche Scientifique 
+ 
+ 
+Concours Nationaux d’Entrée aux 
+Cycles de Formation d’Ingénieurs  
+Session 2023 
+ 
+ 
+ 
+المناظرات الوطنية للدخول 
+إلى مراحل تكوين المهندسين 
+دورة 
+2023
+ 
+ 
+Concours Physique et Chimie 
+Epreuve de Physique 
+ 
+Date : 05 Juin 2023 
+Heure : 8 H00 
+Durée : 4 H 
+Nbre pages : 8 
+L’usage d’une calculatrice non programmable est autorisé. 
+Tout résultat fourni dans l’énoncé peut être admis et utilisé par la suite, même s’il n’a pas été démontré par le 
+candidat. 
+Si, au cours de l’épreuve, un candidat repère ce qui lui semble être une erreur d’énoncé, il le signale sur sa 
+copie et poursuit sa composition en expliquant les raisons des initiatives qu’il est amené à prendre. 
+L’épreuve comporte trois parties indépendantes. 
+Données  
+Formulaire Mathématique  
+ Célérité de la lumière dans le vide : 
+8
+1
+310
+c
+.
+ms
+
+ 
+ Compressibilité isentropique de l’eau :
+10
+1
+4 310
+S
+,
+Pa
+
+
+
+
+ 
+ Masse volumique de l’eau de mer :
+3
+3
+0
+10 kg m
+
+
+
+ 
+ Viscosité dynamique de l’eau de mer : 
+3
+10
+Pl
+
+
+
+ 
+ Constante des gaz parfaits : 
+1
+1
+8 314
+R
+,
+J K
+mol
+
+
+
+ 
+ Masse molaire de l’ammoniac : 
+1
+17
+A
+M
+g mol
+
+ 
+ Rapport des capacités thermiques : 
+1 33
+p
+v
+c / c
+,
+
+
+ 
+ 
+
+
+div grad f
+f
+
+
+ 
+ 
+
+
+0
+rot grad f
+
+ 
+ 
+
+
+
+
+rot rotu
+grad divu
+u
+
+
+
+ 
+ 
+
+
+div f u
+f divu
+u.grad f
+
+
+ 
+ 
+Première partie : Cartographie sur terre 
+Le Lidar, acronyme de (Light Detection and Ranging), est une technologie de mesure à distance 
+utilisant un rayonnement laser. Il envoie des impulsions Laser rapides vers un objet, puis mesure le 
+temps qu'il faut à ces impulsions pour rebondir sur l'objet et retourner au dispositif. Le lidar peut 
+déterminer la distance à l'objet avec une très grande précision. 
+Préliminaires : Ondes électromagnétiques dans le vide 
+On considère une onde électromagnétique se propageant dans le vide dépourvu de charges et de 
+courants. Le champ électrique de cette onde s’écrit en notation complexe : 
+
+
+
+
+0
+y
+E M,t
+E exp j
+t
+kz u
+
+
+
+  où 
+0
+E  et k sont des réels positifs. 
+Q1. Quelle est la nature de cette onde et quelles sont ses propriétés ? 
+Q2. Écrire les équations de Maxwell sous leurs formes locales. Que deviennent ces équations dans le 
+vide dépourvu de charges et de courants.  
+Q3. Établir l’équation de propagation du champ 
+
+
+E M,t  dans le vide dépourvu de charges et de 
+courants. En déduire la relation de dispersion. Le vide est-il un milieu dispersif ? Justifier votre 
+réponse. 
+
+ 
+Concours Physique et Chimie - Session Juin 2023 
+Epreuve de Physique 
+Page 2/8 
+z = 0 
+z = h 
+z 
+z + dz 
+Figure 1 
+Q4. Déterminer l’expression du champ magnétique 
+
+
+B M,t  en notation réelle. En déduire l’expression 
+du vecteur de Poynting 
+
+
+M,t
+
+ ainsi que sa valeur moyenne 
+
+
+M,t
+
+.  
+Quelle est la signification physique du flux de 
+
+
+M,t
+
+ à travers une surface S ? 
+Lidar atmosphérique embarqué 
+Le Lidar atmosphérique peut être utilisé à bord d'un avion ou d'un ballon stratosphérique pour des 
+applications telles que la mesure de la hauteur et de la structure des couches de nuages, la 
+détermination de la densité et de la distribution de la pollution de l'air, la 
+mesure de la vitesse et de la direction des vents et la reconnaissance des gaz 
+atmosphériques tels que le dioxyde de carbone et le méthane.  
+La source Laser d’un Lidar à bord d’un avion, émet un faisceau laser de 
+section S et de puissance moyenne surfacique 
+0 vers le sol (figure 1). La 
+puissance du faisceau est atténuée sous l’effet de la diffusion 
+atmosphérique. On note z
+
+ la puissance moyenne surfacique du faisceau 
+à la côte z. L’axe des z est orienté suivant la verticale descendante. 
+Une molécule de la couche atmosphérique située entre z  et z
+d z
+
+, excitée 
+par le faisceau Laser, diffuse une puissance proportionnelle à la puissance 
+moyenne surfacique du faisceau laser : 
+
+diff
+p
+z
+
+
+ avec 
+
+ est une 
+fonction de la pulsation  et des caractéristiques de la molécule.  
+Q5. Montrer que la puissance moyenne diffusée par une couche de l’atmosphère située entre z  et 
+z
+d z
+
+ et excitée par le faisceau Laser, s’écrit sous la forme : 
+
+
+diff
+d
+z
+n z
+z S dz
+
+
+P
+ où 
+n z  
+est le nombre de molécules par unité de volume à la côte z. 
+Q6. En utilisant un bilan de puissance sur l’élément de volume de section S et situé entre z  et z
+d z
+
+ : 
+ Montrer que l’équation différentielle vérifiée par z
+
+ s’écrit sous la forme : 
+
+
+d
+z
+z
+z
+dz
+
+
+
+
+ où z
+
+ est une fonction à déterminer. 
+ En déduire que z
+
+ s’écrit sous la forme : 
+
+0
+0
+z
+z
+exp
+u du
+
+
+
+
+
+
+
+
+
+
+
+
+. 
+Q7. Une impulsion Laser émise à l’instant 
+0t  et diffusée par une molécule située à la côte z est reçue 
+par le lidar à l’instant 
+0
+t
+t
+t
+
+
+
+. Pour éviter la superposition des signaux dus aux différentes 
+impulsions rediffusées par les molécules d’air au niveau de la surface du sol à la côte h , la durée entre 
+deux impulsions successives est supérieure au temps nécessaire à une impulsion pour rebondir sur la 
+surface du sol et retourner au dispositif. 
+ Quelle est la durée de propagation 
+t
+ de cette impulsion ? On suppose que la vitesse de propagation 
+c est constante en tout point du milieu. 
+ Déterminer la fréquence maximale d’émission des impulsions pour que le Lidar puisse sonder 
+l’atmosphère jusqu’à une altitude de 10 km. 
+ Le signal reçu à la date t par le Lidar a été diffusé par des molécules se trouvant dans un cylindre de 
+volume S
+z
+. Calculer 
+z
+ sachant que le lidar émet des impulsions de durée 
+7
+t
+ns
+
+. 
+Commenter. 
+
+ 
+Concours Physique et Chimie - Session Juin 2023 
+Epreuve de Physique 
+Page 3/8 
+Q8. La puissance rétrodiffusée par le volume S
+z
+ est proportionnelle à la puissance diffusée 
+
+diff z
+P
+. 
+Cette puissance rétrodiffusée retourne vers le détecteur de surface A en traversant à nouveau 
+l’atmosphère. La puissance reçue par le détecteur est proportionnelle à la puissance diffusée 
+
+diff z
+P
+ et 
+à l’angle solide 
+2
+A
+z
+
+ sous lequel est vue la surface A du détecteur à partir du volume S
+z
+ : 
+ Justifier que la puissance diffusée par le volume S
+z
+ sondé par l’impulsion laser et situé à la 
+côte z, s’écrit sous la forme : 
+
+
+
+diff z
+z
+z
+z
+
+
+
+
+P
+. 
+ Montrer que la puissance reçue par le détecteur s’écrit sous la forme : 
+
+
+0
+2
+0
+2
+z
+reçue
+A
+K
+S ct
+z exp
+u du
+z
+
+
+
+
+
+
+
+
+
+
+
+
+P
+ ; K est une constante. 
+ Déterminer l’utilité du signal reçu par le détecteur. 
+Deuxième partie : Propagation des ondes acoustiques dans les milieux marins 
+Dans notre ère, les technologies de communications émergent dans un flux sans fin et sont 
+constamment améliorées pour répondre aux besoins variés des industries et des applications. Les 
+communications sous-marines sont cruciales pour de nombreuses applications, notamment la recherche 
+océanique, la surveillance de la sécurité maritime ainsi que pour l'exploration pétrolière et gazière. 
+L’eau de l’océan est considérée comme un fluide homogène de compressibilité isentropique constante
+S
+. Les champs de pression et de masse volumique caractérisant le fluide à l’équilibre sont supposés 
+uniformes (
+0P ,
+0
+). La vitesse du fluide est supposée uniformément nul 
+0
+V 
+ en tout point du milieu. 
+Les champs de pression 
+
+
+P M ,t , de masse volumique 
+
+
+M ,t
+
+ et de vitesse 
+
+v M ,t  sont perturbés 
+par la présence d’une onde acoustique : 
+
+
+
+
+0
+P M ,t
+P
+p M ,t
+
+
+ et 
+
+
+
+0
+M ,t
+M ,t
+
+
+
+
+
+. 
+Modèle de propagation des ondes acoustiques sans pertes 
+On suppose que l’écoulement du fluide est parfait et on se place dans le cadre de l’approximation de 
+l’acoustique linéaire. On négligera l’effet du champ de pesanteur. 
+Q9. Donner l’approximation de l’acoustique linéaire. 
+Q10. Rappeler la définition d’un écoulement parfait et préciser les conséquences de cette hypothèse. 
+Q11. Rappeler l’équation d’Euler et déduire la relation linéarisée :  
+
+
+
+
+0
+v M ,t
+grad p M ,t
+t
+
+
+
+ 
+ (éq I) 
+Q12. Les champs de masse volumique et de vitesse sont reliés par  
+
+
+
+
+
+
+
+0
+M ,t
+div
+M ,t v M ,t
+t
+
+
+
+
+
+
+. 
+Donner la signification physique de cette relation et effectuer sa linéarisation (éq II). 
+Q13. On 
+rappelle 
+que 
+la 
+compressibilité 
+isentropique 
+est 
+décrite 
+par 
+le 
+coefficient
+
+
+
+
+
+
+1
+S
+S
+M ,t
+M ,t
+p M ,t
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+. Etablir une relation linéaire (éq III) liant 
+
+
+M ,t
+
+, 
+
+p M ,t , 
+0
+ et 
+S
+. 
+Q14. Etablir l’équation de propagation vérifiée par la perturbation 
+
+p M ,t . En déduire l’expression de 
+la célérité ca des ondes acoustiques. Calculer la valeur de ca dans le cas où la propagation se produit 
+dans l’eau. 
+
+ 
+Concours Physique et Chimie - Session Juin 2023 
+Epreuve de Physique 
+Page 4/8 
+Q15. Comparer cette célérité à celles des ondes acoustiques dans les gaz et dans les solides. Interpréter. 
+Q16. Montrer que l’écoulement de l’eau de l’océan est irrotationnel en présence de l’onde acoustique.  
+En déduire l’équation de propagation du champ de vitesse 
+
+v M ,t . 
+Q17. Montrer qu’à partir des trois équations régissant l’écoulement du fluide, on obtient :  
+
+
+
+
+
+
+
+
+0
+a
+e M ,t
+div
+M ,t
+t
+
+
+
+
+
+ avec 
+
+
+
+
+
+a M ,t
+p M ,t v M ,t
+
+
+ 
+Où 
+
+e M ,t  est une grandeur dont on déterminera l’expression. Donner les significations physiques et 
+les dimensions de 
+
+e M ,t  et 
+
+
+a M ,t
+
+. 
+Dans la suite, on considère une onde acoustique plane harmonique, de pulsation , se propageant dans 
+l’eau de l’océan suivant une direction, de vecteur unitaire u , tel que : 
+a
+k
+u
+c
+
+
+. 
+Q18. Préciser le caractère transversal ou longitudinal des ondes acoustiques. Justifier votre réponse. 
+Q19. Donner l’expression de 
+
+
+p M ,t  associée à cette onde acoustique progressive. On note 
+m
+p  son 
+amplitude. Déterminer l’expression du champ de vitesse correspondant 
+
+
+v M ,t . Que représente le 
+coefficient de proportionnalité entre 
+
+
+p M ,t  et 
+
+v M ,t ?  
+Q20. Donner les expressions de 
+
+e M ,t  et de 
+
+
+a M ,t
+
+ pour l’onde acoustique plane progressive 
+harmonique. En déduire la vitesse de propagation de l’énergie acoustique. 
+Validité et discussion de certaines hypothèses adoptées 
+Les ondes acoustiques (sonores et ultrasonores) utilisées par les Sonars pour cartographier les fonds 
+marins ou pour détecter les sous-marins ont des fréquences comprises entre 3kHz  et 300kHz . 
+L’intensité acoustique I est définie par : 
+
+
+a
+I
+M ,t
+
+
+, où 
+
+
+a M ,t
+
+ représente la valeur 
+moyenne temporelle de 
+
+
+a M ,t
+
+. L’intensité acoustique exprimée en décibel est définie par :  
+10
+dB
+ref
+I
+I
+og I
+
+
+
+
+
+
+
+
+
+, où 
+ref
+I
+ est l’intensité de référence ou seuil de l’audible associée à une surpression 
+acoustique harmonique d’amplitude 
+6
+10
+m,ref
+p
+Pa
+
+
+. 
+On cherche à vérifier à l’aide de quelques ordres de grandeurs la validité de certaines 
+approximations adoptées. On considère une onde acoustique plane progressive harmonique de 
+fréquence 
+10
+f
+kHz
+
+ et d’intensité 
+100
+dB
+I
+dB
+
+. 
+Q21. Déterminer la valeur de l’amplitude 
+m
+p  de la surpression acoustique associée à cette onde. 
+En déduire la valeur de l’amplitude 
+m
+ de la perturbation de la masse volumique. Conclure à propos 
+de l’hypothèse de l’acoustique linéaire. 
+Q22. Pour linéariser l’équation d’Euler, l’accélération convective est supposée négligeable par rapport 
+à l’accélération locale. En déduire une condition imposée à la vitesse 
+
+
+v M ,t  pour laquelle cette 
+approximation est valable. Evaluer l’amplitude 
+mv  du champ de vitesses et la comparer à la célérité ca 
+de l’onde. Conclure.  
+
+ 
+Concours Physique et Chimie - Session Juin 2023 
+Epreuve de Physique 
+Page 5/8 
+Pour les questions de Q23 à Q25, on tient compte de l’effet de pesanteur où 
+z
+g
+gu
+
+. On note 
+
+
+Oz  l’axe vertical descendant. L’origine O est située à la surface libre de l’eau de l’océan. 
+Q23. En se basant sur la relation fondamentale de l’hydrostatique, déterminer la loi de variation de la 
+pression statique 
+
+stat
+P
+z  en fonction de la profondeur z dans l’océan. On note 
+0P  la pression à sa 
+surface et on suppose que l’eau est incompressible. 
+Q24. En présence de l’onde acoustique, le champ de pression est : 
+
+
+
+
+
+stat
+P M ,t
+P
+z
+p M ,t
+
+
+. 
+Montrer que l’équation (éq I) obtenue à la question Q11 doit être corrigée sous la forme : 
+
+
+
+
+
+
+0
+v M ,t
+grad p M ,t
+M ,t g
+t
+
+
+
+
+
+
+. 
+Déterminer la condition sur la fréquence f  de l’onde acoustique pour pouvoir négliger le terme 
+correctif. 
+Q25.  Conclure à propos de l’effet de la pesanteur sur la propagation horizontale ou verticale de l’onde 
+acoustique. 
+Atténuation des ondes acoustiques dans l’océan 
+Dans cette partie, on tient compte de la viscosité de l’eau de l’océan considérée comme un 
+fluide newtonien. L’équation d’Euler est remplacée alors par l’équation de Navier-Stockes :  
+
+
+
+
+
+
+
+
+
+
+
+
+
+v M ,t
+M ,t
+v M ,t grad v M ,t
+grad p M ,t
+v M ,t
+t
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+où  est la viscosité dynamique de l’eau de l’océan et  est l’opérateur laplacien. 
+L’équation de conservation de la masse ainsi que l’équation liant 
+
+
+p M ,t  et 
+
+
+M ,t
+
+ restent 
+inchangées. 
+Q26. Linéariser l’équation de Navier-Stockes en tenant compte de l’approximation de l’acoustique 
+linéaire. 
+Q27. En exploitant les équations régissant l’écoulement de l’eau de l’océan, montrer que le champ 
+
+
+p M ,t  obéit à l’équation de propagation suivante : 
+
+
+
+
+
+
+
+
+2
+0
+2
+2
+1
+0
+a
+p M ,t
+p M ,t
+p M ,t
+c
+t
+t
+
+
+
+
+
+
+
+
+
+
+ 
+où c est la célérité de l’onde acoustique et 
+0 est une constante homogène à une durée à exprimer en 
+fonction de 
+S
+ et . Déterminer la valeur de 
+0. Conclure. 
+Q28. On cherche des solutions sous la forme de pseudo ondes planes progressives harmoniques se 
+propageant suivant l’axe 
+
+Oz  dans le sens des z croissants. Le champ de surpression s’ecrit en 
+représentation complexe sous la forme : 
+
+
+
+m
+p z,t
+p exp j
+t
+k z
+
+
+
+, où k  est à priori complexe. 
+Déterminer la relation de dispersion. 
+Q29. Sachant que le développement limité à l’ordre 2 de la fonction 
+
+1
+2
+2
+1
+3
+1
+1
+2
+8
+x
+x
+x
+
+
+
+
+ pour
+0
+1
+x
+
+
+, déterminer l’expression approchée du nombre d’onde 
+
+
+1
+2
+k
+k
+j k
+
+
+
+
+
+ avec 
+1k  et 
+2k  sont des réels positifs. Donner l’interprétation physique des termes 
+1k  et 
+2k . 
+
+ 
+Concours Physique et Chimie - Session Juin 2023 
+Epreuve de Physique 
+Page 6/8 
+Q30. Relier la vitesse de phase v de l’onde à la célérité ca de l’onde acoustique. Conclure.  
+Dans le domaine de fréquence de fonctionnement du Sonar, déterminer la variation relative maximale 
+des vitesses 
+a
+a
+v
+c
+c
+
+ . Conclure. 
+Q31. Exprimer le champ de surpression en notation réelle
+
+
+p z,t . Décrire le comportement de l’onde. 
+A partir de quelle profondeur , l’amplitude de 
+
+
+p z,t  se réduit d’un facteur e ?   
+Calculer  pour les fréquences suivantes :
+3
+f
+kHz
+
+ et 
+300
+f
+kHz
+
+.  
+Q32. Déterminer l’expression du taux d’atténuation de l’intensité acoustique 
+dB
+d I
+d z
+
+. 
+Quelle relation existe-t-elle entre  et ? Calculer la valeur de , exprimé en 
+1
+dB.km pour les 
+fréquences 
+3
+f
+kHz
+
+ et 
+300
+f
+kHz
+
+. Commenter.  
+Q33. Pour une onde acoustique émise par un Sonar de fréquence 
+30
+f
+kHz
+
+ et d’intensité
+60
+dB
+I
+dB
+
+, 
+déterminer la profondeur limite de l’océan pour que le signal acoustique de retour soit reçu par ce 
+Sonar. 
+Troisième partie : Système de réfrigération fonctionnant à l'ammoniac 
+On se propose d’étudier quelques aspects relatifs à l’ammoniac en tant qu’un corps pur ainsi que son 
+utilisation entant que fluides frigorifiques.  
+Diagramme de phase de l’ammoniac  
+Les équilibres solide 
+ gaz et liquide 
+ gaz de l’ammoniac sont régies respectivement par les lois 
+empiriques suivantes : 
+ Pour la sublimation : 
+
+0
+3754
+16 41
+sP T
+n
+,
+P
+T
+
+
+
+
+
+
+
+ avec 
+0
+1
+P
+r
+ba
+
+ 
+ Pour la vaporisation : 
+
+0
+3063
+12 87
+vP T
+n
+,
+P
+T
+
+
+
+
+
+
+
+. 
+Où 
+sP  et 
+vP  représentent respectivement les pressions des équilibres solide 
+ gaz et liquide 
+ gaz, 
+exprimées en bar. T  est la température exprimée en Kelvin ( K ).  
+Les coordonnées 
+
+C
+C
+T ,P
+ du point critique C du corps pur ammoniac sont : 
+405 40
+C
+T
+,
+K
+
+ et
+113 33
+CP
+,
+bar
+
+. 
+Pour déterminer l’enthalpie massique 
+
+1
+2 T
+
+ de changement de phase 
+
+1
+2
+
+ d’un corps pur à la 
+température T , on utilise l’équation de Clapeyron : 
+
+
+
+1
+2
+2
+1
+T
+dp
+dT
+T v
+v
+
+
+
+, où 
+1v  et 
+2v  désignent les 
+volumes massiques du corps pur respectivement dans les phases (1) et (2). 
+Q34. Définir le point triple du corps pur ammoniac et déterminer ses coordonnées 
+
+T
+T
+T ,P
+. 
+Q35. Tracer le diagramme de phase 
+
+P
+P T
+
+ de l’ammoniac. Préciser les zones où le corps pur est à 
+l’état solide, liquide ou vapeur. Définir le point critique et caractériser brièvement une compression 
+isotherme 
+C
+T
+T
+
+. 
+
+ 
+Concours Physique et Chimie - Session Juin 2023 
+Epreuve de Physique 
+Page 7/8 
+Q36. Exprimer le volume massique 
+gv  de la phase gazeuse de l’ammoniac se comportant comme un 
+gaz parfait en fonction de T  et P .  
+Justifier qu’on peut négliger le volume massique d’une phase condensée 
+c , solide ou liquide, devant 
+celui d’une phase gazeuse 
+g . 
+Q37. Etablir l’expression de 
+
+c
+g T
+
+ en fonction de d P
+dT , P , T  et R  puis en fonction de 
+
+d n P
+dT
+, 
+T  et R . 
+Q38. Calculer les enthalpies massiques de vaporisation 
+
+vap T , de sublimation 
+
+sub T  et de fusion 
+
+fus T  au point triple. On suppose que 
+1
+2
+ est indépendante de la température T . 
+Etude d’une machine frigorifique 
+On considère une machine frigorifique utilisant l’ammoniac comme un fluide frigorifique.  
+La figure 2 décrit le fonctionnement d’une machine 
+frigorifique réelle. Elle comporte un compresseur, un 
+condenseur, un détendeur et un évaporateur. 
+Dans cette partie on néglige le travail des forces de 
+pesanteur ainsi que la variation d’énergie cinétique d’une 
+unité de masse du fluide devant les autres quantités 
+d’énergies échangées. 
+Q39. Pour un fluide en écoulement stationnaire, le premier 
+principe de la thermodynamique, relatif à l’unité de masse 
+s’écrit sous la forme : 
+2
+2
+f
+u
+th
+c
+h
+g z
+w
+q
+
+
+
+
+
+
+
+
+
+
+
+
+,  
+avec h  l’enthalpie massique du système, 
+fc  la vitesse macroscopique du fluide, z  l’altitude et g  
+l’accélération de la pesanteur. Que représente les grandeurs thermodynamiques 
+u
+w  et 
+th
+q ? 
+Que devient cette équation en respectant les hypothèses de l’énoncé ? 
+Le fluide utilisé décrit un cycle de transformations schématisé par le 
+digramme entropique 
+
+T ,s  sur lequel la courbe de saturation est 
+représentée en pointillé (figure 3). 
+ A l’état gazeux, l’ammoniac se comporte comme un gaz parfait. 
+ A la sortie de l’évaporateur, l’ammoniac se trouve en phase 
+vapeur saturante : Etat (1) (
+1T ,
+1P ).  
+ L’ammoniac 
+subit 
+ensuite, 
+dans 
+le 
+compresseur, 
+une 
+transformation qui l’amène à l’état (2) (
+2
+T ,
+2P ).  
+ La vapeur subit, dans le condenseur, une transformation à pression constante jusqu’à l’état (3). 
+Ensuite, elle se condense jusqu’à  la liquéfaction totale (état 4). 
+ Dans le détendeur, l’ammoniac liquide subit une détente isenthalpique qui le ramène à l’état (5) 
+(
+5T , 
+5
+1
+P
+P
+
+). Pendant cette phase, le fluide ne reçoit aucun travail mécanique utile. 
+ La vaporisation du liquide restant se termine dans l’évaporateur pour retrouver l’état (1). 
+On note x  la fraction massique en vapeur du corps pur. 
+s 
+T 
+ 
+ 
+ 
+1 
+3 
+4 
+5 
+2
+Figure 3 
+C 
+Compresseur 
+Détendeur 
+Evaporateur 
+Condenseur 
+Figure 2 
+
+ 
+Concours Physique et Chimie - Session Juin 2023 
+Epreuve de Physique 
+Page 8/8 
+Q40. Reproduire le diagramme de la figure 3, nommer les deux parties de la courbe de saturation et 
+préciser l’état physique du fluide dans les différentes régions du diagramme entropique
+
+T ,s . Indiquer 
+sur ce même diagramme la nature des différentes transformations réalisées lors du cycle. 
+Q41. Représenter le cycle de transformations sur le diagramme de Clapeyron 
+
+P,v , v  est le volume 
+massique du fluide. 
+Q42. Justifier que la transformation ayant lieu dans le détendeur est isenthalpique. 
+Q43. Donner les valeurs numériques des fractions massiques en vapeur 
+1x , 
+3x  et 
+4x  respectivement 
+aux états (1), (3) et (4).   
+ 
+ 
+ 
+ 
+ 
+Q44. En exploitant les propriétés de la transformation entre les états (1) et (2), déterminer l’expression 
+de la température 
+2T  en fonction de 
+1T , 
+1P , 
+2P  et . Calculer la température 
+2T  à la fin de la 
+compression.  
+Q45. Exprimer la variation de l’enthalpie massique 
+2
+3
+h
+
+ entre les états (2) et (3) en fonction de 
+2T , 
+3T , 
+A
+M , R et . Calculer la température 
+3T  à la fin du refroidissement de la vapeur d’ammoniac. 
+Q46. Exprimer la variation d’enthalpie massique 
+5
+1
+h
+
+ en fonction de 
+5x  et 
+
+1
+vap T
+. En déduire 
+l’expression de 
+5x  et calculer sa valeur.  
+On donne : 
+
+
+1
+1
+1
+1450
+–
+vap
+vap
+h
+T
+T
+ 
+ kJ.kg
+
+
+
+. 
+Q47. Au cours de quelle transformation du cycle, le transfert thermique massique 
+fq  est reçu par le 
+fluide ?  Exprimer 
+fq  en fonction des enthalpies massiques du fluide et calculer sa valeur. 
+Q48. A quelle étape du cycle de transformation, le transfert thermique massique 
+cq  est cédé par le 
+fluide ? Déterminer son expression ainsi que sa valeur.  
+Q49. Calculer le travail massique utile de compression 
+u
+w  lors du cycle. 
+Q50. Déterminer l’expression de l’efficacité  du réfrigérateur réel. Calculer sa valeur. 
+Comparer  à l’efficacité théorique du cycle de Carnot 
+c
+ pour les températures des sources chaude et 
+froide 
+cT  et 
+fT  respectivement. Commenter. 
+Etat 
+1 
+2 
+3 
+4 
+5 
+T     
+
+K  
+1
+263
+T 
+ 
+2
+T  
+3T  
+4
+T  
+5T  
+P  
+
+bar  
+1
+2 9
+P
+,
+
+ 
+2
+10
+P 
+ 
+3
+10
+P 
+ 
+4
+10
+P 
+ 
+5
+2 9
+P
+,
+
+ 
+x  
+1x  
+2x  
+3x  
+4x  
+5x  
+h 
+
+1
+kJ kg 
+ 
+1 1450
+h 
+ 
+2
+1620
+h 
+ 
+3
+1490
+h 
+ 
+4
+320
+h 
+ 
+5
+320
+h 
+ 
+
+ 
+Corrigé de l’Epreuve de Physique - Concours Physique et Chimie – Session 2023 
+ 1/10 
+ 
+REPUBLIQUE TUNISIENNE 
+Ministère de l’Enseignement Supérieur et de 
+la Recherche Scientifique 
+ 
+Concours Nationaux d’Entrée aux 
+Cycles de Formation d’Ingénieurs  
+Session 2023 
+ 
+ 
+ 
+المناظرات الوطنية للدخول 
+إلى مراحل تكوين المهندسين 
+دورة 
+2023
+ 
+Concours Physique et Chimie 
+CORRIGÉ DE L’ÉPREUVE DE PHYSIQUE 
+PREMIERE PARTIE : CARTOGRAPHIE SUR TERRE 
+Préliminaires : Ondes électromagnétiques dans le vide 
+Q1.  
+
+
+
+
+0
+y
+E M,t
+E exp j
+t
+kz u
+
+
+
+ : champ électrique d’une onde plane progressive et monochromatique. 
+Cette onde se propage suivant la direction de l’axe 
+
+Oz  dans le sens des z croissants. Elle est polarisée 
+rectilignement suivant 
+
+Oy . 
+Q2.  
+ 
+Équations de Maxwell : 
+
+
+
+
+
+
+
+
+0
+0
+0
+0
+. .
+. .
+. .
+. .
+divB
+M
+divE
+M G
+E
+rotB
+j
+M A
+B
+rotE
+M F
+t
+t
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+Dans le vide dépourvu de charges et de courants 
+
+0 ;
+0
+j
+
+
+
+, les équations de Maxwell s’écrivent : 
+
+
+
+
+
+
+
+
+0
+0
+2
+0
+. .
+0
+. .
+1
+. .
+. .
+divE
+M G
+divB
+M
+B
+E
+E
+rotE
+M F
+rotB
+M A
+t
+t
+c
+t
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Q3.  
+
+
+. . :
+B
+M F
+rotE
+t
+
+ 
+
+
+B
+rot rotE
+rot
+t
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+grad divE
+E
+rot B
+t
+
+
+
+
+
+
+
+
+
+2
+0
+. .
+2
+1
+. .
+1
+divE
+M G
+E
+rot B
+M A
+t
+c
+E
+E
+t c
+t
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+2
+2
+2
+1
+0
+E
+E
+c
+t
+
+
+
+
+
+ 
+2
+2
+2
+2
+E
+k E
+E
+E
+t
+
+
+
+
+
+
+ donc 
+2
+2
+2
+1
+0
+E
+E
+c
+t
+
+
+
+
+
+ 
+2
+2
+2
+k
+c
+
+
+
+ 
+k
+c
+
+
+
+. 
+Le vide est un milieu non dispersif. En effet, la vitesse de phase 
+c
+k
+
+
+
+
+v
+ est une constante qui ne dépend 
+pas de  
+Q4.  
+
+
+. .
+zu
+E
+B
+k
+E
+rotE
+M F
+B
+t
+c
+
+
+
+
+
+
+
+
+
+ 
+
+
+0 exp
+x
+E
+B
+j
+t
+kz u
+c
+
+
+
+
+ 
+Soit en notation réelle : 
+
+
+0 cos
+x
+E
+B
+t
+kz u
+c
+
+
+
+ 
+Vecteur de Poynting : 
+0
+E
+B
+
+
+
+  
+Donc 
+
+
+
+
+2
+2
+2
+2
+0
+0
+0
+0
+0
+cos
+cos
+z
+z
+E
+E
+B
+t
+kz u
+c
+E
+t
+kz u
+c
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+2
+2
+2
+0
+0
+0
+0 cos
+2
+z
+z
+E
+c
+E
+t
+kz
+u
+c
+u
+
+
+
+
+
+
+ 
+Le vecteur de Poynting représente la densité de flux liée à la propagation de l’onde électromagnétique. Le 
+flux du vecteur de Poynting à travers une surface S est égal à la puissance véhiculée par l'onde à travers S.  
+
+ 
+Corrigé de l’Epreuve de Physique - Concours Physique et Chimie – Session 2023 
+ 2/10 
+Lidar atmosphérique embarqué 
+Q5.  
+La puissance moyenne diffusée par une couche de l’atmosphère située entre z et z
+d z
+
+est : 
+
+
+diff
+diff
+d
+z
+dN z p
+
+P
+ avec 
+
+
+dN z
+n z S dz
+
+ est le nombre de molécules dans un volume de surface S, 
+de longueur dz est située à la côte z.  
+
+
+
+diff
+diff
+d
+z
+n z p
+S dz
+n z
+z S dz
+
+
+
+P
+ 
+Q6.  
+Bilan de puissance sur l’élément de volume de section S et situé entre z  et z
+d z
+
+ : 
+
+
+
+
+diff
+z S
+z
+dz S
+d
+z
+
+
+
+
+P
+ 
+
+
+diff
+d
+z S dz
+d
+z
+dz
+
+
+P
+ 
+
+
+
+d
+z
+n z
+z
+z
+z
+dz
+
+
+
+
+
+
+
+ ; 
+
+z
+n z
+
+
+
+ 
+
+
+d
+z
+z
+z
+dz
+
+
+
+
+   
+
+
+
+0
+0
+z
+z
+d
+u du
+u du
+u
+
+
+
+
+
+
+
+ 
+
+
+0
+0
+z
+z
+Ln
+u du
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+0
+0
+exp
+z
+z
+u du
+
+
+
+
+
+
+. 
+Q7.  
+Durée de propagation de l’impulsion : 
+2z
+t
+c
+
+. 
+Pour éviter la superposition des signaux, la période d’émissions des impulsions doit être supérieure à la durée 
+de maximale de propagation des impulsions : 
+2
+max
+h
+t
+c
+
+
+    
+2
+imp
+max
+h
+T
+t
+c
+
+
+
+. 
+La fréquence d’émission des impulsions est telle que : 
+1
+2
+imp
+imp,max
+imp
+c
+f
+f
+T
+h
+
+
+
+ 
+A.N : 
+15
+imp,max
+f
+kHz
+
+ 
+Au cours de la durée lt , l’impulsion interagit avec les molécules situées en z et z
+z
+ tel que 
+l
+z
+ct
+
+ ; A.N : 
+2 1
+z
+, m
+
+. Cette valeur est relativement faible, ce qui permet de supposer 
+n z  constante entre z et z
+z
+. 
+Q8.  
+
+
+
+
+diff
+diff
+d
+z
+n z p
+S dz
+n z
+z S dz
+z
+z S dz
+
+
+
+
+
+
+P
+ 
+
+
+diff z
+z
+z S z
+
+
+
+
+
+P
+ 
+ La puissance diffusée par le volume S z
+ revient vers le détecteur en traversant de nouveau l’atmosphère  
+ La puissance reçue est proportionnelle à l’angle solide sous lequel est vue la surface A du détecteur 
+
+
+
+
+
+
+
+
+
+2
+2
+0
+0
+exp
+exp
+z
+z
+reçue
+diff
+A
+A
+z
+K
+z
+u du
+K
+z
+z
+u du S z
+z
+z
+
+
+
+
+
+
+
+
+
+
+
+P
+P
+. 
+
+
+
+
+
+0
+2
+0
+2
+z
+reçue
+l
+A
+z
+K
+S ct
+z exp
+u du
+z
+
+
+
+
+
+
+P
+. 
+L’étude du signal reçu permet de remonter à la fonction 
+
+z
+
+ et donc à la composition de l’atmosphère. 
+DEUXIEME PARTIE : PROPAGATION DES ONDES ACOUSTIQUES DANS LES MILIEUX 
+MARINS 
+Modèle de propagation des ondes acoustiques sans pertes 
+Q9.  
+L’approximation de l’acoustique linéaire consiste à négliger les perturbations dues à la présence de l’onde 
+acoustique : 
+
+0
+,
+p M t
+P
+
+, 
+
+0
+,
+M t
+
+
+
+ et 
+
+,
+v M t
+c
+. 
+Q10.  
+Un écoulement parfait est un écoulement où tous les phénomènes diffusifs (viscosité, diffusion thermique) 
+sont négligés : l’écoulement est alors adiabatique et réversible donc isentropique. 
+Q11.  
+Equation d’Euler en négligeant l’effet de pesanteur : 
+
+
+
+
+
+
+
+
+
+
+
+,
+,
+,
+.
+,
+,
+v M t
+M t
+v M t
+grad v M t
+grad P M t
+t
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+,
+.
+,
+v M t
+grad v M t est un terme infiniment petit d’ordre 2 à négliger. Par contre, 
+
+
+,
+v M t
+t
+
+
+ est un terme 
+
+ 
+Corrigé de l’Epreuve de Physique - Concours Physique et Chimie – Session 2023 
+ 3/10 
+infiniment petit d’ordre 1    
+
+
+
+
+
+
+
+
+
+
+0
+0
+,
+,
+,
+,
+v M t
+v M t
+M t
+grad p M t
+t
+t
+
+
+
+
+
+
+
+
+
+ 
+   
+
+
+
+
+0
+,
+,
+v M t
+grad p M t
+t
+
+
+
+.              (I) 
+Q12.  
+Il s’agit de l’équation de continuité ou équation locale de conservation de la masse. 
+
+
+
+
+
+
+
+
+
+
+
+0
+0
+,
+,
+,
+0
+M t
+div
+M t
+v M t
+t
+
+
+
+
+
+
+
+
+
+
+      
+
+
+
+
+0
+,
+,
+0
+M t
+divv M t
+t
+
+
+
+
+
+
+.  (II) 
+Q13.  
+On cherche la variation de  autour de 
+0
+ lorsque la pression P  varie lors de l’évolution isentropique. 
+
+
+
+
+0
+0
+0
+0
+S
+S
+P
+P
+P
+P
+P
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ;
+
+
+0
+,
+M t
+
+
+
+
+
+ 
+et 
+
+
+0
+,
+P
+P
+p M t
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+0
+0
+,
+,
+,
+,
+S
+S
+M t
+p M t
+M t
+p M t
+
+
+
+
+
+
+
+
+ 
+
+
+
+0
+,
+,
+S
+M t
+p M t
+
+
+
+
+  (III). 
+Q14.  
+On applique l’operateur divergence à l’équation (I) :  
+
+
+
+
+
+
+0
+,
+,
+v M t
+div
+div grad p M t
+t
+
+
+
+
+
+
+
+
+  
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+0
+0
+0
+2
+0
+,
+,
+1
+,
+,
+S
+M t
+p M t
+divv M t
+p M t
+t
+t
+t
+t
+II
+III
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+. 
+ 
+
+
+
+
+2
+0
+2
+,
+,
+0
+S
+p M t
+p M t
+t
+
+
+
+
+
+
+
+. Il s’agit de l’équation de propagation d’Alembert. 
+On pose 
+2
+0
+1
+a
+S
+c
+
+
+
+  
+0
+1
+a
+S
+c
+
+
+
+. 
+Dimension de 
+2
+ac  : 
+2
+1
+2
+2
+2
+3
+a
+M T
+L
+c
+L T
+M L
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+ac
+LT 
+
+; c est homogène à une vitesse. 
+0
+1
+a
+S
+c
+
+
+
+ 
+représente donc la vitesse de l’onde acoustique dans le milieu considéré. 
+A.N : 
+10
+1
+4,310
+S
+Pa
+
+
+
+
+ et 
+3
+3
+0
+10 kg m
+
+
+
+  
+1
+0
+1
+1525
+a
+S
+c
+ms
+
+
+
+
+
+. 
+En pratique, la célérité de l’onde acoustique dans l’océan dépend de la température, de la pression et de la 
+salinité du milieu. Il en résulte qu’elle varie ente 
+1
+1450mset 
+1
+1530ms. 
+Q15.  
+La célérité de l’onde acoustique dans l’air est de l’ordre de 
+1
+340ms et dans le solides est de l’ordre de 
+quelques milliers de
+1
+ms
+1
+4000ms
+
+). Les variations de
+0
+et
+S expliquent ces différences : l’air est moins 
+dense que l’eau mais beaucoup plus compressible : la célérité dans l’air est plus faible. Pour les solides, la 
+densité 
+est 
+plus 
+grande 
+que 
+celle 
+de 
+l’eau 
+mais 
+la 
+compressibilité 
+est 
+plus 
+faible : 
+
+
+
+
+
+
+a
+a
+a
+c
+ai
+c
+eau
+c
+solide
+r 
+
+.   
+Q16.  
+On applique l’operateur rotationnel à l’équation (I) :  
+
+
+
+
+
+
+0
+,
+,
+v M t
+grad p M t
+t
+rot
+rot
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+0
+,
+,
+0
+rot
+rot
+v M t
+grad p M t
+t
+
+
+
+
+ ;   
+car 
+
+
+0
+grad
+rot
+f
+
+     
+
+
+
+,
+v M
+ro
+t
+K t
+t
+
+. 
+Le champ de vitesse 
+
+,
+v M t  décrivant l’onde acoustique dépend à la fois de l’espace et du temps. Il est 
+nécessaire de choisir 
+
+0
+K t 
+ 
+
+
+,
+0
+v
+ot
+M t
+r
+
+. 
+L’écoulement de l’eau en présence de l’onde est irrotationnel. 
+Puisque 
+
+
+
+
+
+
+,
+0
+v M t
+grad divv
+ro
+t
+v
+t ro
+
+
+
+
+  
+
+
+grad divv
+v
+
+
+. 
+On dérive par rapport au temps l’équation (I), 
+
+
+
+
+
+
+0
+,
+,
+v M t
+grad p M t
+t
+t
+t
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+Corrigé de l’Epreuve de Physique - Concours Physique et Chimie – Session 2023 
+ 4/10 
+
+
+
+
+
+
+
+2
+0
+0
+2
+0
+0
+1
+1
+S
+S
+v
+p
+grad
+grad
+grad
+divv
+t
+t
+t
+III
+II
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+2
+0
+2
+1
+1
+S
+S
+v
+grad
+divv
+v
+t
+
+
+
+
+
+
+
+
+  
+
+
+
+
+2
+0
+2
+,
+,
+0
+S
+v M t
+v M t
+t
+
+
+
+
+
+
+
+. 
+Q17.  
+On part de l’équation (I)   
+
+
+2
+0
+0
+1
+.
+2
+v
+v
+v
+v
+grad p
+v grad p
+t
+t
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+. 
+Puisque 
+
+
+.
+div pv
+pdivv
+v grad p
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+0
+0
+0
+1
+1
+.
+S p
+v grad p
+div pv
+pdivv
+div pv
+p
+div pv
+p
+t
+t
+II
+III
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+2
+2
+0
+1
+1
+2
+2
+S
+v
+div pv
+p
+t
+t
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+2
+2
+0
+1
+1
+0
+2
+2
+S
+v
+p
+div pv
+t
+
+
+
+
+
+
+
+
+
+
+
+. 
+Cette équation traduit le bilan local de l’énergie acoustique. 
+En faisant une identification, on trouve : 
+
+
+
+
+
+2
+2
+0
+1
+1
+,
+,
+,
+2
+2
+S
+e M t
+v
+M t
+p
+M t
+
+
+
+
+. 
+* 
+
+,
+e M t  : constitue l’énergie acoustique volumique, exprimée en 
+3
+J m. 
+
+
+
+
+2
+0
+1
+,
+,
+2
+ce
+M t
+v
+M t
+
+
+ l’énergie cinétique volumique due à l’écoulement du fluide. 
+
+
+
+
+2
+1
+,
+,
+2
+p
+S
+e
+M t
+p
+M t
+
+
+ l’énergie potentielle volumique due à la compression du fluide. 
+*
+
+
+
+
+
+,
+,
+,
+a M t
+p M t v M t
+
+
+ : densité de flux d’énergie acoustique, exprimée en 
+2
+W m. 
+Q18.  
+Les ondes acoustiques planes harmoniques sont des ondes longitudinales. En présence d’une onde 
+acoustique, le fluide subit un écoulement irrotationnel : 
+
+
+,
+0
+v
+ot
+M t
+r
+
+  
+ 
+
+
+
+
+,
+,
+0
+v M t
+j k
+v M t
+rot
+
+
+
+.  
+ k  et 
+
+,
+v M t  sont colinéaires : 
+
+
+
+,
+,
+v M t
+v M t u
+
+, u  vecteur unitaire de la direction de propagation. 
+Q19.  
+La perturbation de la pression, s’écrit : 
+
+
+
+m
+m
+a
+p M ,t
+p cos
+t
+k r
+p cos
+t
+u r
+c
+
+
+
+
+
+
+
+
+
+
+
+
+
+. 
+Le champ de vitesse est de même forme que la perturbation de la pression  
+
+
+,
+exp
+m
+a
+v M
+v
+j
+u
+c
+r
+t
+t
+u
+
+
+
+
+
+
+
+
+
+
+ ; 
+
+
+exp
+m
+m
+v
+v
+j
+
+
+. 
+Eq.I : 
+
+
+
+
+0
+,
+,
+v M t
+grad p M t
+t
+
+
+
+ 
+
+
+
+
+
+
+0
+,
+,
+j
+v M t
+j k p M t
+
+
+
+. 
+ 
+
+
+
+0
+1
+,
+,
+a
+v M t
+u p M t
+c
+
+
+ 
+
+
+
+0
+0
+1
+m
+a
+a
+a
+p
+v M ,t
+p M ,t u
+cos
+t
+u r
+u
+c
+c
+c
+
+
+
+
+
+
+
+
+
+
+
+
+
+. 
+
+
+m
+a
+v M ,t
+v cos
+t
+u r
+u
+c
+
+
+
+
+
+
+
+
+
+
+ ; 
+0
+m
+m
+a
+p
+v
+c
+
+
+. 
+
+
+
+
+
+
+0
+0
+,
+,
+,
+a
+a
+c
+c
+p M t
+v M t u
+v M t
+
+
+
+
+, 
+en faisant l’analogie avec l’électrocinétique, le coefficient de proportionnalité 
+0
+ac
+
+ est homogène à une 
+impédance : C’est l’impédance acoustique 
+0
+a
+a
+c
+Z
+
+
+ exprimée en 
+2
+1
+kg m
+s
+
+.    
+Q20.  
+
+
+2
+2
+2
+2
+2
+2
+0
+0
+0
+1
+1
+1
+1
+2
+2
+2
+2
+m
+S
+S
+m
+a
+a
+a
+p
+e M ,t
+v
+p
+cos
+t
+u r
+p cos
+t
+u r
+c
+c
+c
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  ; 
+0
+1
+a
+S
+c
+
+
+
+. 
+ 
+
+2
+2
+S
+m
+a
+e M ,t
+p cos
+t
+u r
+c
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+2
+1
+,
+2
+S
+m
+e M t
+p
+
+
+. 
+
+
+
+
+
+2
+2
+0
+m
+a
+a
+m
+S
+m
+a
+a
+a
+a
+p
+c
+M ,t
+p M ,t v M ,t
+p cos
+t
+u r
+cos
+t
+u r
+u
+p cos
+t
+u r
+u
+c
+c
+c
+c
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+. 
+
+ 
+Corrigé de l’Epreuve de Physique - Concours Physique et Chimie – Session 2023 
+ 5/10 
+
+
+
+
+2
+1
+,
+,
+2
+a
+a
+S
+m
+a
+c
+M t
+p
+u
+M t
+u
+
+
+
+
+
+ ;  
+
+
+
+
+2
+1
+,
+,
+2
+a
+a
+a
+S
+m
+c
+c
+M t
+p
+e M t
+
+
+
+
+. 
+
+
+
+
+,
+,
+a
+a
+M t
+c
+e M t
+
+
+ : vitesse de propagation de l’énergie acoustique d’une onde acoustique p.p.h. 
+Validité et discussion de certaines hypothèses adoptées
+Q21.  
+On a :
+
+
+2
+1
+,
+2
+a
+a
+S
+m
+c
+I
+M t
+p
+
+
+
+
+   et 
+
+
+2
+,
+,
+1
+,
+2
+a
+ref
+a ref
+S
+m ref
+c
+I
+M t
+p
+
+
+
+
+ 
+
+
+
+
+2
+2
+,
+,
+10
+10
+20
+20
+120
+m
+m
+m
+ref
+m ref
+m ref
+p
+p
+I
+I dB
+og
+og
+og
+og p
+I
+p
+p
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+120
+20
+m
+I dB
+og p
+
+
+  pour  
+
+100
+I dB
+dB
+
+  
+
+
+1
+m
+og p
+  et  
+1
+10
+m
+p
+Pa
+
+
+. 
+D’après l’équation (III)   
+8
+3
+0
+2
+1
+4,310
+m
+S
+m
+m
+a
+p
+p
+kg m
+c
+
+
+
+
+
+
+
+
+ . 
+Ces valeurs montrent bien que : 
+0
+m
+
+
+
+ et 
+0
+m
+p
+P
+
+.  L’approximation de l’acoustique linéaire est vérifiée.  
+Q22.  
+La linéarisation de l’équation d’Euler consiste à négliger l’accélération convective 
+
+.
+v grad v  devant celle 
+locale 
+v
+t
+
+ ; 
+
+2
+.
+1
+a
+v grad v
+v
+v
+v
+t
+v T
+c
+
+
+
+
+
+
+ 
+a
+v
+c
+
+ c’est le cas d’un écoulement subsonique. 
+D’après l’équation d’Euler 
+8
+1
+0
+6,5610
+m
+m
+a
+p
+v
+ms
+c
+
+
+
+
+
+ 
+m
+a
+v
+c
+
+ : l’hypothèse est largement vérifiée. 
+Q23.  
+L’équation fondamentale de la statique de fluide, s’écrit : 
+
+
+stat
+g
+gradP M
+gradP
+
+
+
+. 
+
+stat
+z
+z
+dP
+z
+gu
+u
+dz
+
+
+ 
+
+stat
+dP
+z
+g dz
+
+
+. 
+Pour les fluides incompressibles 
+0
+
+
+
+, on obtient la relation : 
+
+0
+0
+stat
+P
+z
+P
+g z
+
+
+
+. 
+Q24.  
+En tenant compte de l’effet de pesanteur, l’équation d’Euler s’écrit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+,
+,
+,
+.
+,
+,
+,
+v M t
+M t
+v M t
+grad v M t
+grad P M t
+M t g
+t
+
+
+
+
+
+
+
+
+
+
+
+
+. 
+
+
+
+
+
+
+
+
+0
+0
+,
+,
+,
+stat
+P M t
+P
+M
+p M t
+P
+g z
+p M t
+
+
+
+
+
+
+, 
+
+
+
+
+
+
+
+
+
+
+0
+0
+0
+0
+,
+,
+,
+,
+z
+gradP M t
+grad P
+g z
+p M t
+gu
+grad p M t
+g
+grad p M t
+
+
+
+
+
+
+
+
+
+
+Dans le cadre de 
+l’approximation de l’acoustique linéaire, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+0
+0
+,
+,
+,
+,
+,
+v M t
+g
+grad p M t
+M t
+g
+grad p M t
+M t g
+t
+
+
+
+
+
+
+
+
+
+
+
+
+
+. 
+Enfin : 
+
+
+
+
+
+
+0
+,
+,
+,
+v M t
+grad p M t
+M t g
+t
+
+
+
+
+
+
+. 
+La conservation de la masse ne dépend pas de la pression. L’équation correspondante reste donc inchangée. 
+Si on néglige les variations de 
+S avec la pression, la relation liant et p  reste la même. 
+Le terme correctif  
+
+,
+M t g
+
+ dû à l’effet de pesanteur est négligeable par rapport à 
+
+
+,
+grad p M t  lorsque 
+
+
+
+
+,
+1
+,
+M t g
+grad p M t
+
+  
+
+
+
+
+
+
+
+
+0
+2
+,
+,
+1
+,
+/
+,
+S
+a
+M t g
+p M t g
+g
+p M t
+c
+grad p M t
+
+
+
+
+
+
+
+  
+2
+1
+a
+a
+g
+g
+c f
+c
+
+
+. 
+
+3
+6,4210
+a
+g
+f
+Hz
+c
+
+
+
+. Les ondes acoustiques vérifient largement cette condition. 
+C’est la saison pour laquelle il est possible de néglige l’effet de pesanteur lors de la propagation des ondes 
+acoustiques. 
+Q25.  En tenant compte des hypothèses adoptées, les caractéristiques de l’onde acoustique sont pratiquement non 
+affectées lorsque la propagation est faite suivant les directions verticale ou horizontale. 
+
+ 
+Corrigé de l’Epreuve de Physique - Concours Physique et Chimie – Session 2023 
+ 6/10 
+Atténuation d’une onde acoustique dans l’océan 
+Q26.  
+La linéarisation du terme de gauche de l’équation de Navier-Stockes est identique à celui de l’équation 
+d’Euler. Le terme de droite contient un facteur supplémentaire 
+
+
+,
+v M t
+
+ infiniment petit d’ordre 1.  
+
+
+
+
+
+
+0
+,
+,
+,
+v M t
+grad p M t
+v M t
+t
+
+
+
+
+
+
+. 
+Q27.  
+Les équations caractérisant l’écoulement réel en présence de l’onde acoustique sont :    
+
+
+
+
+
+
+0
+,
+,
+,
+v M t
+grad p M t
+v M t
+t
+
+
+
+
+
+
+     (I’)  ,   
+
+
+
+
+0
+,
+,
+0
+M t
+divv M t
+t
+
+
+
+
+
+
+          (II)   
+ et   
+
+
+
+0
+,
+,
+S
+M t
+p M t
+
+
+
+
+        (III)   
+On applique l’opérateur divergence à l’équation de Navier-Stockes linéarisée : 
+ 
+
+
+
+
+
+
+
+
+0
+divv
+div grad p
+divv
+p
+divv
+t
+
+
+
+
+
+
+
+
+
+
+ 
+D’autre part, 
+
+
+0
+0
+0
+1
+1
+S
+S
+p
+divv
+p
+t
+t
+t
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+0
+S
+S
+p
+p
+p
+t
+t
+t
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+. 
+ 
+
+
+
+
+
+
+
+
+2
+0
+2
+,
+,
+,
+0
+S
+S
+p M t
+p M t
+p M t
+t
+t
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ; 
+0
+2
+1
+S
+ac
+
+
+
+. 
+Le produit 
+S
+
+
+ est homogène à une durée. On pose 
+0
+S
+
+
+
+
+ en seconde. 
+A.N : 
+3
+1
+1
+10
+kg m s
+
+
+
+
+
+, 
+10
+1
+4,310
+S
+Pa
+
+
+
+
+  
+13
+0
+4,310
+S
+s
+
+
+
+
+
+
+. 
+La valeur faible de 
+0
+ montre que l’écoulement d’eau de l’océan est de faible viscosité. 
+Q28.  
+
+
+
+
+
+
+
+
+2
+0
+2
+,
+,
+,
+0
+S
+S
+p z t
+p z t
+p z t
+t
+t
+
+
+
+
+
+
+
+
+
+
+
+
+
+    (*)    ;   
+
+
+
+m
+p z,t
+p exp j
+t
+k z
+
+
+
+. 
+
+
+
+
+2
+,
+,
+p z t
+k p z t
+
+
+ ; 
+
+
+
+
+
+
+2
+,
+,
+p z t
+j
+k p z t
+t 
+
+
+
+
+ et 
+
+
+
+
+2
+2
+2
+,
+,
+p z t
+p z t
+t
+
+
+
+
+. 
+(*)  
+
+
+
+
+
+
+
+
+2
+2
+2
+0
+2
+1
+,
+,
+,
+0
+a
+k
+p z t
+p z t
+j
+k
+p z t
+c
+
+
+
+
+
+
+
+
+
+ ;  
+
+,
+0
+p z t 
+, 
+
+
+2
+2
+2
+0
+2
+0
+a
+k
+j
+k
+c
+
+
+
+
+
+
+  
+
+
+2
+2
+2
+0
+1
+1
+a
+k
+c
+j
+
+
+
+
+ ;  k 
+. 
+Q29.  
+On réalise un développement limité à l’ordre 2 de 
+2
+k dans le cas où le fluide faiblement visqueux 
+0
+1
+. 
+
+
+
+
+2
+2
+1
+2
+0
+2
+2
+0
+1
+1
+1
+a
+a
+k
+j
+c
+j
+c
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+1
+2
+2
+2
+0
+0
+0
+0
+1
+3
+1
+1 2
+8
+a
+a
+k
+j
+j
+j
+c
+c
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+. 
+2
+2
+0
+0
+1
+2
+3
+1
+8
+2
+a
+k
+j
+k
+j k
+c
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+2
+2
+1
+0
+3
+1
+8
+a
+k
+c
+
+
+
+
+
+
+
+
+
+
+ et 
+0
+2
+2
+a
+k
+c
+
+
+
+.  
+La propagation est faite suivant les z croissants, en plus 
+1k  et 
+2k  sont de même signe : 
+1
+0
+k 
+ et 
+2
+0
+k 
+. 
+2
+2
+1
+0
+3
+1
+8
+a
+k
+c
+
+
+
+
+
+
+
+
+
+
+ et  
+2
+0
+2
+2
+a
+k
+c
+
+
+. 
+Le terme 
+1k  décrit le comportement de l’onde lors de la propagation dans l’océan puisqu’il est lié à la vitesse 
+de phase 
+
+1
+v
+Re k
+k
+
+
+
+
+
+. La dépendance de la vitesse de phase avec la pulsation montre que le milieu de 
+propagation est dispersif. Le terme 
+2k  est lié à l’absorption de l’onde lors de la propagation dans le milieu.  
+Q30.  
+1
+2
+2
+2
+2
+0
+0
+1
+3
+3
+1
+1
+8
+8
+a
+a
+c
+v
+c
+k
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ : La vitesse de phase est fonction de la pulsation. A priori, 
+le milieu de propagation est dispersif. 
+2
+2
+2
+2
+0
+0
+1
+3
+3
+1
+8
+8
+a
+a
+a
+a
+a
+v
+c
+c
+c
+c
+c
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+. Dans le domaine de fonctionnement du Sonar, la fréquence 
+
+ 
+Corrigé de l’Epreuve de Physique - Concours Physique et Chimie – Session 2023 
+ 7/10 
+maximale
+300
+2
+f
+kHz
+
+
+
+
+  
+5
+1
+6 10 rad s
+
+
+
+
+. 
+ 
+2
+2
+12
+0
+3
+0,2510
+1
+8
+a
+a
+v
+c
+c
+
+
+
+
+
+
+. 
+Dans la gamme de fréquence utilisée pour les Sonars, variation relative des vitesses est très faible. Le 
+caractère dispersif du milieu est pratiquement négligeable : 
+a
+v
+c
+
+.  
+Q31.  
+
+
+
+
+
+
+1
+2
+m
+p z,t
+p exp j
+t
+k
+jk
+z
+
+
+
+
+  
+
+
+
+
+
+2
+1
+m
+p z,t
+p exp
+k z exp j
+t
+k z
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+2
+1
+1
+m
+m
+p z,t
+Re p z,t
+p exp
+k z cos
+t
+k z
+p
+z cos
+t
+k z
+
+
+
+
+
+
+
+
+. 
+L’expression de la surpression montre qu’elle décrit une onde acoustique progressive sans dispersion et dont 
+l’amplitude ne cesse de décroitre à cause de la présence du terme 
+
+
+2
+exp
+k z
+
+. 
+Si z
+
+
+ 
+
+
+2
+1
+m
+m
+m
+p
+p
+z
+p exp
+exp
+k
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+2
+2
+0
+2
+1
+ac
+k
+
+
+
+
+ : distance caractéristique d’amortissement.   
+A.N : si 
+3
+1
+6
+10 rad s
+
+
+
+
+ 
+1
+2
+0
+2
+19963,1
+ac
+km
+
+
+
+
+ et pour 
+5
+1
+6
+10 rad s
+
+
+
+
+  
+2
+2
+0
+2
+1,996
+ac
+km
+
+
+
+
+. 
+Q32.  
+On a : 
+
+
+
+
+
+
+
+
+2
+2
+2
+2
+1
+2
+a
+a
+S
+a
+S
+m
+I
+M ,t
+c
+p
+z,t
+c
+p exp
+k z cos
+t
+k z
+
+
+
+
+
+
+
+
+
+, 
+  
+
+
+2
+2
+1
+2
+2
+a
+S
+m
+I z
+c
+p exp
+k z
+
+
+
+ 
+
+
+
+2
+2
+2
+10
+2
+ref
+m
+m,
+p
+I dB
+og
+exp
+k z
+p
+
+
+
+
+
+
+
+
+
+
+, 
+ 
+
+
+
+
+
+2
+20
+10
+2
+re
+m
+m,
+f
+p
+I dB
+og
+og exp
+k z
+p
+
+
+
+
+
+
+
+
+
+
+
+  
+
+2
+,
+20
+20
+10
+m
+ref
+m
+p
+k
+I dB
+og
+z
+p
+n
+
+
+
+
+
+
+
+
+
+
+  
+
+
+2
+2
+0
+0
+20
+10
+10 2
+10
+a
+a
+d I dB
+c
+d z
+n
+c
+n
+
+
+
+
+
+
+
+2
+0
+10
+10
+a
+d I dB
+c
+d z
+n
+
+
+
+
+. 
+2
+0
+10
+10
+ac
+n
+
+
+ ; 
+2
+0
+2
+ac
+
+
+
+  
+20
+1
+10
+n
+
+
+
+. 
+ A.N :   *
+3
+1
+6
+10 rad s
+
+
+
+
+  
+2
+7
+1
+4
+1
+0
+10
+4,3510
+4,3510
+10
+a
+dBm
+dBkm
+n
+c
+
+
+
+
+
+
+
+
+
+. 
+*
+5
+1
+6
+10 rad s
+
+
+
+
+  
+2
+3
+1
+1
+0
+10
+4,3510
+4,35
+10
+a
+dBm
+dBkm
+c
+n
+
+
+
+
+
+
+
+
+. 
+Le taux d’atténuation de l’intensité acoustique est nettement plus important pour les fréquences élevées du 
+domaine de fonctionnement du Sonar. Surtout pour les eaux profondes des océans, l’opération de 
+cartographie est faite avec des Sonars utilisant des basses fréquences pour minimiser l’amortissement de 
+l’onde acoustique se propageant dans l’eau de l’océan.  
+Q33.  
+30
+f
+kHz
+
+ 
+5
+1
+6
+10 rad s
+
+
+
+
+  
+2
+1
+0
+10
+4,4
+10
+a
+dBkm
+c
+n
+
+
+
+
+
+ 
+
+
+2
+60
+I dB
+h
+dB
+
+
+
+ 
+
+
+60
+6,82
+2
+2. 4,4
+I dB
+h
+km
+
+
+
+
+.   
+TROISIEME PARTIE : SYSTEME DE REFRIGERATION FONCTIONNANT A L'AMMONIAC 
+Diagramme de phase de l’ammoniac 
+Q34.  
+Le point triple T 
+
+,
+T
+T
+T P
+ est l’état où les phases du corps pur coexistent en équilibre. 
+Au point triple, on a : 
+
+
+
+
+T
+s
+T
+v
+T
+P
+P T
+P T
+
+
+.  
+ 
+
+
+
+
+0
+0
+3754
+3063
+16,41
+12,87
+s
+T
+v
+T
+T
+T
+P T
+P T
+n
+n
+P
+T
+P
+T
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+. 
+ 
+3754
+3063
+16,41
+12,87
+T
+T
+T
+T
+
+
+
+  
+691
+3,54
+TT
+
+  
+195,2
+TT
+K
+
+. 
+
+ 
+Corrigé de l’Epreuve de Physique - Concours Physique et Chimie – Session 2023 
+ 8/10 
+
+
+0
+3063
+12,87
+v
+T
+T
+P T
+n
+P
+T
+
+
+
+
+
+
+
+  
+
+
+
+
+0
+3063
+exp 12,87
+0,0595
+v
+T
+s
+T
+T
+P T
+P T
+P
+r
+ba
+T
+
+
+
+
+
+
+
+
+
+
+. 
+Q35.  
+* Le gaz est stable pour les basses pressions et 
+aux hautes températures. 
+* Le solide est stable pour les hautes pressions et 
+aux bases températures. 
+* (1) : courbe d’équilibre solide – vapeur 
+(sublimation). 
+* (2) : courbe d’équilibre liquide – vapeur 
+(vaporisation). 
+* (3) : courbe d’équilibre solide – liquide 
+(fusion). 
+ C : point critique et T : point triple. 
+ 
+Au point critique C, le liquide et le gaz ont les mêmes propriétés, le changement d’état liquide – vapeur 
+s’y produit sans chaleur latente (
+
+
+0
+vap
+C
+T
+T
+
+
+). 
+Q36.  
+Pour un gaz parfait, l’équation d’état s’écrit : 
+1
+g
+g
+a
+P
+Pv
+T
+M
+R
+
+
+  
+g
+a
+v
+P
+R T
+M
+
+. 
+Puisque 1
+1
+g
+c
+c
+c
+v
+v
+
+
+
+
+
+  
+g
+c
+v
+v
+
+. La phase condensée peut solide ou liquide.  
+Ainsi, le volume massique d’une phase condensée est négligeable devant celui d’une phase gazeuse. 
+Q37.  
+La transformation entre les phases condensée et gazeuse obéit à l’équation de Clapeyron :   
+
+
+
+2
+c
+g
+g
+c
+g
+a
+dP
+dP
+T
+dP
+T
+T v
+v
+T v
+dT
+dT
+M
+P dT
+R
+
+
+
+
+ 
+ 
+
+
+
+2
+2
+c
+g
+a
+a
+d
+nP
+T
+dP
+T
+T
+M
+P d
+R
+T
+M
+dT
+R
+
+
+
+.
+ 
+Q38.  
+Au point triple, l’enthalpie massique de vaporisation, s’écrit : 
+ 
+
+
+
+
+
+
+2
+2
+1
+2
+3063
+3063
+1498
+v
+T
+g
+T
+T
+T
+a
+a
+T
+a
+d
+nP
+T
+T
+T
+T
+R
+kJ kg
+M
+dT
+M
+T
+M
+R
+R
+
+
+
+
+
+
+
+.
+
+
+
+
+
+
+2
+2
+1
+2
+3754
+3754
+1835,9
+s
+T
+s
+g
+T
+T
+T
+a
+a
+T
+a
+d
+nP
+T
+T
+T
+T
+kJ kg
+M
+dT
+M
+M
+R
+T
+R
+R
+
+
+
+
+
+
+
+. 
+On réalise un cycle contournant le point triple : 
+ 
+
+
+
+
+
+
+0
+vap
+T
+sub
+T
+fus
+T
+T
+T
+T
+
+
+
+  
+
+
+
+
+
+
+1
+1835,9 1498
+337,9
+fus
+T
+sub
+T
+vap
+T
+T
+T
+T
+kJ kg
+
+
+
+
+
+. 
+Etude d’une machine frigorifique 
+Q39.  
+Les grandeurs thermodynamiques 
+u
+w  et 
+th
+q  représentent respectivement le travail utile massique autre 
+celui de la pression et le transfert thermique massique. 
+Lors du cycle de transformations de la machine frigorifique, le travail des forces de pesanteur 
+pm
+e
+g z
+
+ 
+ainsi que la variation d’énergie cinétique 
+2
+2
+f
+cm
+c
+e
+
+ subie par une unité de masse du fluide sont 
+négligeables. Il en résulte que le premier principe relatif à un système ouvert, s’écrit : 
+u
+th
+h
+w
+q
+
+
+. 
+
+ 
+Corrigé de l’Epreuve de Physique - Concours Physique et Chimie – Session 2023 
+ 9/10 
+Q40.  
+* La transformation (1)  (2) :  
+Compression isentropique.  
+* La transformation (2)  (3) :  
+Refroidissement isobare dans le condenseur. 
+* La transformation (3)  (4) :  
+Condensation isobare. 
+* La transformation (4)  (5) :  
+Détente isenthalpique.  
+* La transformation (5)  (1) :  
+Vaporisation isobare. 
+Q41.  
+ 
+Q42.  
+La transformation (4)  (5) dans le détendeur est adiabatique (
+0
+th
+q 
+) et sans échange de travail utile 
+ (
+0
+u
+w 
+) 
+4
+5
+0
+h
+
+
+ 
+4
+5
+h
+h
+cte
+
+
+. Cette transformation est isenthalpique.  
+Q43.  
+A l’état (1), la totalité du corps pur est sous forme vapeur 
+1
+1
+x , 
+A l’état (3), le corps pur est sous forme vapeur 
+3
+1
+x , 
+A l’état (4), situe sur la courbe d’ébullition, le corps pur est sous forme liquide 
+4
+0
+x 
+.   
+Q44.  
+La transformation (1)  (2) est isentropique (adiabatique est réversible) ; Elle obéit à la loi de Laplace 
+1
+1
+1
+1
+2
+2
+P
+T
+e
+T
+P
+ct
+
+
+
+
+
+
+
+
+  
+1
+1
+2
+2
+1
+P
+T
+T
+P
+
+
+
+
+
+
+
+
+
+
+ : température 
+2T  à la fin de la compression isentropique. 
+On a : 1
+0,30
+0,23
+1,30
+
+
+
+
+
+
+  
+2
+1
+1
+0.23
+1
+2
+2,9
+263
+349,6
+10
+P
+T
+T
+K
+P
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+. 
+Q45.  
+La vapeur à l’état (2) subit, dans le condenseur, une transformation à pression cte jusqu’au l’état (3). 
+
+
+2
+3
+3
+2
+p
+h
+c
+T
+T
+
+
+
+ ; 
+p
+v
+A
+R
+c
+c
+M
+
+
+ et 
+p
+v
+c
+c
+
+  
+
+1
+p
+v
+A
+R
+c
+c
+M
+
+
+
+
+
+.
+
+
+
+
+2
+3
+3
+2
+1
+A
+R
+h
+T
+T
+M
+
+
+
+
+
+
+. 
+
+
+
+
+2
+3
+3
+2
+1
+A
+R
+h
+T
+T
+M
+
+
+
+
+
+
+  
+
+
+3
+2
+2
+3
+1
+A
+M
+T
+T
+h
+R
+
+
+
+
+
+
+
+ ;  
+ 
+5
+1
+2
+3
+3
+2
+1490 1620
+1,3010
+h
+h
+h
+J kg
+
+
+
+
+
+
+
+  
+3
+288,2
+T
+K
+
+. 
+Q46.  
+A l’état (5), le corps pur est constitué de deux phases (liquide + gaz) dont  la fraction massique en 
+vapeur est 
+5x . Le liquide restant dans l’évaporateur se transforme totalement en vapeur à la température 
+1T . 
+
+
+
+
+5
+1
+1
+5
+1
+5
+1
+vap
+vap
+h
+x
+T
+x
+T
+
+
+
+
+. 
+
+
+
+
+5
+1
+1
+5
+1
+5
+1
+vap
+vap
+h
+x
+T
+x
+T
+
+
+
+
+  
+
+
+1
+5
+1
+5
+1
+vap
+vap
+T
+h
+x
+T
+
+
+
+
+ ;  
+5
+1
+1
+5
+1450
+320
+1130
+h
+h
+h
+
+
+
+
+
+
+  
+5
+0,22
+x 
+.      
+Q47.  
+Le fluide reçoit de l'énergie thermique de la part du milieu extérieur dont la température est supérieure à 
+la température 
+1T  du fluide situé dans l’évaporateur (le transfert thermique est réalisé du corps le plus 
+chaud vers le corps le plus froid). Ce transfert thermique massique 
+fq  est effectué lors de la 
+transformation (5)  (1).  
+ 
+ 
+s 
+T 
+ 
+ 
+ 
+1 
+3 
+4 
+5 
+ 
+2 
+C 
+0 
+Vapeu
+Liquide + vapeur 
+Liquide 
+Courbe 
+de rosée 
+Courbe 
+d’ébullition 
+C
+1 
+2 
+3 
+4 
+5 
+P 
+v 
+0 
+
+ 
+Corrigé de l’Epreuve de Physique - Concours Physique et Chimie – Session 2023 
+ 10/10 
+1
+5
+1
+1
+5
+1130
+fq
+h
+h
+h
+kJ kg
+
+
+
+
+
+
+
+. 
+Q48.  
+Lors des transformations (isobares) (2)  (3) et (3)  (4) la température du fluide dans le condenseur 
+est plus élevée que l’extérieur. Le transfert thermique est fait vers l’extérieur. 
+
+
+
+
+
+
+1
+2
+3
+3
+4
+3
+2
+4
+3
+130
+1170
+1300
+0
+cq
+h
+h
+h
+h
+h
+h
+kJ kg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+. 
+0
+cq 
+, le transfert thermique est cédé au milieu extérieur. 
+Q49.  
+Lors 
+du 
+cycle 
+de 
+transformation 
+du 
+cycle 
+frigorifique, 
+on 
+a : 
+1
+2
+2
+3
+3
+4
+4
+5
+5
+1
+0
+cycle
+h
+h
+h
+h
+h
+h
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+. 
+La transformation (1)  (2) dans le compresseur est isentropique :
+1
+2
+u
+h
+w
+
+
+ ; 
+0
+th
+q 
+. 
+Les transformations (2)  (3) et (3)  (4) : 
+2
+4
+c
+h
+q
+
+
+. 
+La transformation (4)  (5) est isenthalpique :
+4
+5
+0
+h
+
+
+. 
+La transformation (5)  (1) : 
+5
+1
+f
+h
+q
+
+
+. 
+ 
+0
+cycle
+u
+c
+f
+h
+w
+q
+q
+
+
+
+
+
+  
+
+
+
+
+
+
+1
+1300
+1130
+170
+u
+c
+f
+J g
+w
+q
+q
+k k
+
+
+
+
+
+
+
+. 
+Q50.  
+L’efficacité est le rapport entre la grandeur énergétique valorisable sur l'énergie dépensée. 
+1130
+6,65
+170
+f
+f
+r
+u
+c
+f
+q
+q
+w
+q
+q
+
+
+
+
+
+. 
+Pour un cycle de Carnot, constitué par deux isentropiques et deux isothermes, le premier et deuxième 
+principe de la thermodynamique, s’écrivent : 
+0
+u
+c
+f
+w
+q
+q
+
+
+
+ et  
+0
+f
+c
+c
+f
+q
+q
+T
+T
+
+
+ ; 
+cT  et 
+fT  sont respectivement les températures des sources chaude et 
+froide respectivement. 
+L’efficacité idéale de Carnot est : 
+f
+f
+f
+c
+u
+c
+f
+c
+f
+q
+q
+T
+w
+q
+q
+T
+T
+
+
+
+
+
+,  
+3
+288,2
+cT
+T
+K
+
+
+ et 
+1
+263
+fT
+T
+K
+
+
+   
+10,44
+f
+c
+r
+c
+f
+T
+T
+T
+
+
+
+
+
+
+. 
+L'efficacité de Carnot 
+c
+ devrait être plus grande que celle 
+r
+ puisqu'il n'y a aucune source 
+d'irréversibilité dans le cycle, contrairement au cycle réel qui comprend au moins les irréversibilités de 
+l'étape (2)  (3) (échange thermique entre deux sources à températures différentes), et de l'étape (4)  
+(5) (détente de Joule-Thomson). 
+ 

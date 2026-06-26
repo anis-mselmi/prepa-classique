@@ -1,0 +1,489 @@
+REPUBLIQUE TUNISIENNE 
+Ministère de l'Enseignement Supérieur et de la 
+Recherche Scientifique 
+Concours Nationaux d'Entrée aux Cycles de 
+Formation d'ingénieurs 
+Session 2020 
+Date : Lundi 20 Juillet 2020 
+Barème: 
+Partie 1 : 10 pts 
+Concours Technologie 
+Epreuve de Physique 
+Heure :8 H 
+Durée :4 H 
+':t -
+)-··;~.J,-tJ 
+- ~ --~ 
+Jµ ~Jll ..:.l_;l;I.WI 
+~lr.).!.JS.~IJ""c)! 
+2020 •JJ~ 
+Nb pages :08 
+P~rtie 2 : 10 pts. 
+L'usage d'une calculatrice non programmable est autorisé. L'épreuve comporte deux parties indépendantes, le candidat peut les 
+résoudre dans l'ordre qui lui convient en respectant néanmoins la numérotation des questions. Un candidat peut toujours se 
+servir d'un résultat fourni par l'énoncé pour continuer sa composition. 
+Données: 
+R = 8,31 J. mo1-1. K-1 
+rot(rotA) = grad(div.Â) - M 
+cos(p + q) = cos p cos q - sinp sin q 
+e = 1,6 10-19 C 
+ë0 ::::: 8,8510-12 F. m-1 
+. p+q. p-q 
+cosp-cosq = -2sm~sm~ 
+fi = !:_ = 1 05 X 10-34 J · S 
+c = 3 108m. s-1 
+p+q 
+p-q 
+2,r 
+' 
+cos p + cos q = 2 cos~ cos~ 
++oo 
++oo 
++oo 
+f 
+e-z
+2 dz = .Ji 
+f e-z
+2 sin(yz) dz = 0 
+e-z
+2 cos(yz) dz = .Jrëe-7 
+f 
+y2 
+-oo 
+-oo 
+-oo 
+Partie 1 : Onde électromagnétique et action mécanique : 
+On considère une lumière incidente assimilée à une onde électromagnétique plane, monochromatique, 
+progressive, de pulsation w et de vecteur d'onde ki = ke"; se propageant dans le vide, et rencontrant une 
+surface plane (supposée infinie) du conducteur parfait se trouvant dans la partie de l'espace z > O. 
+(Figure 1). Le champ électrique correspondant Eine est donné en notation complexe par: 
+lnc = E0ei(wt-kz)e; 
+avec E0 et k sont deux constantes positives et i 2 = -1. 
+z 
+0 
+L 
+Figure 1 
+Concours Technologie-Session 2020 
+Epreuve de Physique 
+Page 1/8 
+
+On donne sans démonstration les relations de passage du champ électromagnétique à travers une surface 
+séparant deux milieux (1) et (2) en un point M, avec~ le vecteur normal unitaire de cette surface orienté de 
+1 vers 2: 
+~ Le champ électrique subit une discontinuité à la traversée de la surface, lorsqu'une densité de charge 
+surfacique cr est présente en M, la relation s'écrit: E°;(M+) - "f;(M-) = ~~ 
+Eo 
+~ Le champ magnétique subit une discontinuité à la traversée de la surface, lorsqu'un courant de surface 
+de vecteur densité de courant surfacique J; est présent en M, la relation s'écrit : 
+--+ 
++ 
+--+ 
+-
+_,. 
+--+ 
+B2(M )- B1 (M ) = µ0Js A n12 
+1. Définir la notion de conducteur parfait. Quelle est la valeur du champ électromagnétique à l'intérieur 
+du conducteur parfait ? Justifier. 
+2. Une onde réfléchie dans l'espace z < 0 apparait, quelle est l'origine de cette onde ? 
+3. Déterminer les expressions des champs suivants : inc le champ magnétique incident, b le champ 
+électrique réfléchi et "ffr le champ magnétique réfléchi. 
+4. Donner en notation réelle les deux champs électrique et magnétique résultants Ê(z, t) et B(z, t). 
+Comment on qualifie cette onde résultante ? 
+5. Etablir les expressions de la densité surfacique de charge O" et le vecteur densité surfacique de courant 
+J;. 
+6. En théorie ondulatoire, la force de Laplace induite exercée sur l'élément de surface dS est telle que 
+dFL = JsdS A Binc(Z = o-). 
+6.1. 
+Pourquoi dans l'expression de la force de Laplace induite on a pris uniquement Bine et pas Br ? 
+6.2. 
+Calculer la valeur moyenne temporelle (lldFLII> à laquelle est soumise l'élément de surface 
+métallique dS. En déduire l'expression de f3 = <lld:;11> appelée pression de radiation. 
+7. On se propose de retrouver la pression de radiation en utilisant une autre méthode basée sur la théorie 
+corpusculaire : 
+7.1. 
+Donner l'expression de la quantité de mouvement p d'un photon de fréquence v =~et de célérité 
+2rr 
+ê = ce;. 
+7.2. 
+On suppose que tous les photons incidents sont réfléchis et que l'énergie du photon n'est pas 
+affectée. Donner la variation de la quantité de mouvement pour un photon b.p = p - p' 
+(voir Figure 2). 
+z 
+·-······· .. -·-------··-·--······-··---• 
+Figure 2 
+Concours Technologie-Session 2020 
+Epreuve de Physique 
+Page 2/8 
+
+7.3. 
+Soit n le nombre de photons incident par unité de volume, quelle est le nombre r de photons qui 
+arrivent sur une surface élémentaire dS pendant un intervalle de temps dt ? Dans ce cas, déduire la 
+quantité de mouvement totale o2p fournie à la cible. 
+7.4. 
+Donner l'expression de la force de radiation oF exercée sur dS pendant dt. 
+7.5. 
+Déterminer la valeur moyenne temporelle P' = <llôPII>. Conclure en comparant p et P'. 
+dS 
+8. En se basant sur les résultats des questions précédentes, donner la surface minimale l:md'une voile 
+solaire permettant à un vaisseau spatial de masse M = 982 Kg d'échapper à l'attraction solaire. 
+Données : Distance vaisseau-soleil: d = 1,5 108 km; Puissance solaire: P5 = 3,82 1026 W; Masse du 
+soleil : m5 = 2 1030 kg ; Constante de gravitation : G = 6,67 10-11 SI 
+* La norme de la force gravitationnelle qui s'exerce entre deux corps A et B distants de d s'écrit : 
+IIFA/BII = IIFB/AII = G m!r:"
+8 Où Gest la constante universelle de gravitation. 
+Figure3 
+9. 
+En réalité le milieu occupant le demi-espacez> 0 n'est pas un conducteur parfait mais un conducteur 
+métallique réel. Sous l'effet d'un champ électrique incident de la forme g=füeiwt, les particules de ce 
+milieu se mettent en mouvement à une vitesse de dérive notée v . Dans le cadre du modèle de Drude, 
+les collisions aléatoires que subissent les charges du conducteur sont équivalentes à une force de 
+frottement visqueux proportionnelle à la vitesse de la forme f= -:y où m est la masse de l'électron 
+et T la durée moyenne entre deux collisions. 
+Le métal est considéré comme un milieu neutre, homogène, ayant la même permittivité et la même 
+perméabilité que celles du vide. On néglige l'apport magnétique sur les forces exercées sur l'électron. Soit 
+N le nombre de porteurs de charge dans un mètre cube du métal. 
+9.1. 
+Exprimer y en fonction de m, T, e, w et g. 
+9.2. 
+Sachant que le vecteur densité de courant volumique vérifie la loi d'Ohm locale, déduire que la 
+conductivité y = ~ 
+et exprimer y 0en fonction de N, e, m et T. Que représente y O ? 
+-
+l+IWT 
+9.3. 
+On suppose maintenant que l'onde électromagnétique dans ce milieu est de la forme : 
+g = f(z)eiwt e;, écrire les équations de Maxwell dans ce milieu. 
+9.4. 
+En déduire l'équation aux dérivées partielles vérifiée par le champ électrique. 
+Concours Technologie-Session 2020 
+Epreuve de Physique 
+Page3/8 
+
+9.5. 
+9.6. 
+9.7. 
+9.8. 
+9.9. 
+9.10. 
+9.11. 
+Montrer que f(z) vérifie l'équation suivante: dd
+2
+fz~z) + (l)c: n2f(z) = 0 Où n2 = 1- i 
+T(l)i 
+avec 
+(1)(1+Ï(l)T) 
+w~ = Ne
+2 
+• Quelle est la signification physique de n ? 
+E0m 
+Onposen = n' - in". Exprimer f(z). 
+On suppose que n' > 0 et E0 = f (z = 0), donnerla solution complète de l'onde électromagnétique 
+qui se propage dans le sens des z croissants dans ce milieu. 
+A quel phénomène physique n" est lié ? 
+Le milieu est-il dispersif? Justifier. 
+Déterminer alors la valeur moyenne temporelle du vecteur de Poynting de cette onde. 
+Ecrire la puissance moyenne qui traverse une section S perpendiculaire à (Oz) sous la forme: 
+P(z) = P0e-az où a un coefficient à déterminer en fonction den", w etc. Que représente a? 
+Partie 2 : Elargissement spectral des raies 
+Une lampe spectrale ou à décharge est constituée d'un tube ou d'une ampoule en verre contenant un gaz (ou 
+de la vapeur atomique) sous haute ou basse pression. En faisant y circuler un courant électrique, elle émet de 
+façon discontinue une lumière composée de plusieurs raies. Par son passage dans le gaz, le courant électrique 
+est à l'origine de nombreuses collisions permettant l'excitation des atomes qui émettront à leur tour des 
+photons appelés aussi quanta de rayonnement électromagnétique. 
+Dans cette partie on s'intéresse à l'étendu spectrale des raies d'émission de la lumière émise par les lampes à 
+décharges. Dans un premier temps on étudie la contribution de l'effet Doppler à l'élargissement spectral de la 
+raie. Dans un second temps, on propose un protocole expérimental permettant une mesure de cette largeur. 
+I. 
+Elargissement spectral d'une raie d'émission par effet Doppler 
+La fréquence du rayonnement émis par l'atome en mouvement est en général différente de celle reçue par un 
+photodétecteur fixe dans le référentiel R(D, x, y, z)du laboratoire, supposé galiléen. Ce changement apparent 
+de la fréquence ou encore ce décalage de fréquence est connu sous le nom de l'effet Doppler. 
+1. Effet Doppler 
+On présente ici un modèle simplifié qui rend compte de cet effet conduisant à l'élargissement spectral du 
+rayonnement émis par la lampe et détecté par un photodétecteur. 
+On suppose que le gaz d'atomes est un gaz parfait monoatomique à une dimension où chaque atome est 
+susceptible de se déplacer uniquement selon l'axe (Dx) de vecteur unitaire Ûx. 
+Dans le cas où l'atome se déplace vers les x positifs à une vitesse constante Yx = Vxûx, et le photodétecteur 
+est toujours fixe (voir Figure 4), cet atome émet un rayonnement de période T0 correspondant à la fréquence 
+v0 et se propageant à la vitesse de la lumière c. 
+0 ... 
+photo-détecteur [D] 
+x(t) 
+... 
+atome : émetteur [E] 
+Figure 4 
+) 
+X 
+1.1. 
+On désigne part et t + T O les instants du début et de la fm du signal périodique émis par l'atome. 
+Soient t' et t' + T les instants du début et de la fin du même signal reçu par le photodétecteur. 
+Concoun Technologie-Session 2020 
+Epreuve de Physique 
+Page4/8 
+
+Exprimer les instantst' et t' + T, en fonction de t, T0, x(t), x(t + T0) etc. En déduire que la période 
+T du signal à la réception s'écrit sous la forme: T = T0 ( 1 + :x). 
+1.2. 
+Sachant que Vx « c ; montrer que la fréquence v du rayonnement reçu par le photodétecteur 
+peut se mettre sous la formev = v0 ( 1 - ; ) . 
+1.3. 
+Application: on suppose que la fréquence du rayonnement émis par l'atome est 
+v0 = 5A9 1014 Hz. Celle-ci correspond à la fréquence centrale de la raie verte du mercure. 
+a. Exprimer la :fréquence v1 du rayonnement détecté lorsqu'il est émis par un atome ayant la vitesse 
+Vx = u (u > 0). Dans le cas où l'atome a une vitesse Vx = -u, exprimer la fréquence v2 du 
+rayonnement détecté. 
+b. Déduire le décalage Doppler ll.vvoppler = v2 - v1 en fonction de u, v0 etc. Evaluer ll.vvoppler 
+et vérifier que ll.vvoppler « v0 . On donne u = 102 m. s-1 • 
+2. Intensité spectrale d'une raie 
+On considère une lampe spectrale contenant de la vapeur monoatomique de masse molaire M à la température 
+T supposée constante. Chaque atome constitue une source mobile suivant (Ox)qui émet un rayonnement à la 
+fréquence v0 . On place un photodétecteur pour mesurer l'intensité lumineuse du rayonnement émis dans la 
+direction (Ox). 
+On admet que la population des atomes du gaz obéit à la loi de distribution des vitesses de Maxwell. 
+Si N désigne le nombre total d'atomes, alors dN qui représente le nombre d'atomes dont la composante de 
+vitesse est comprise entre Vx et Vx + dVx, est donné par: 
+dN = N j 2;:T exp [- ~;;] dVx Où R est la constante des gaz parfaits 
+2.1. 
+En tenant compte du décalage Doppler étudié précédemment (1.2), exprimer la vitesse Vx en 
+fonction de la fréquence v détectée. Déduire la variation dVx en fonction de dv. 
+2.2. 
+En admettant que l'intensité élémentaire dis du rayonnement reçu par le photodétecteur s'écrit 
+sous la forme dis= adNoù a est une constante, exprimer dis qui correspond à l'intervalle spectral 
+[v,v + dv]. 
+2.3. 
+On appelle distribution spectrale de la source, la fonction f ( v) = :~. Mettre f ( v) sous la forme 
+f (V) = {J exp [-e~:o) 
+2
+] et exprimer {J et fl.v en fonction des données. 
+2.4. 
+Evaluer ll.v dans le cas de la raie verte dumercure pour les températures T1 = 1000 K 
+et T2 = 2000 K. Commenter ces valeurs obtenues. 
+On donne : M = 200,6 g. mo1-1. 
+II. 
+Détermination expérimentale de la largeur spectrale 
+On propose dans cette deuxième partie une méthode de mesure de la largeur spectrale de la raie verte du 
+mercure reposant sur une mesure interférométrique utilisant l'interféromètre de Michelson: 
+Concoun Technologie-Session 2020 
+Epreuve de Physique 
+Page5/8 
+
+3. L'interféromètre de Michelson 
+L'interféromètre de Michelson (Figure 5), réglé en lame d'air à faces parallèles d'épaisseur x, est constitué : 
+~ De deux miroirs plans [M1] et [M2]. Le miroir [M1] est fixe et situé à une distance d 0 = 001alors que 
+[M2] peut subir un mouvement de translation suivant l'axe (Ox), perpendiculairement au plan de sa 
+surface. La translation est commandée par un moteur et les plans contenant les deux miroirs restent 
+orthogonaux. 
+~ D'une lame séparatrice [sp] semi-réfléchissante supposée d'épaisseur nulle, n'introduisant aucun 
+déphasage, inclinée à 45 degré par rapport à l'axe (Ox). 
+Le Michelson, plongé dans l'air d'indice supposé égal à 1, est éclairé par la raie verte du mercure 
+considérée ici comme une source étendue et parfaitement monochromatique de fréquence v. 
+s 
+[M1Ji;.;;;.;;;:;;.;;;~;;;;;.;;.:;;;;;;..;;.i._ 
+1 
+1 
+[Sp] 
+1 
+' 
+1 
+1 
+1 
+1 
+' 
+1 
+~d0 
+' 
+1 
+..C:-·--------------------
+[M' z ] "--;;;.;; .. 
+~;;;;;.;..:.;.:;.;;;;;i_ -r 
+1 :x 
+[M1Ji....:::.:;;.-,$;.;;;;.~...:.::;~-{. 
+rayon 
+incident 
+: 
+d0 +x 
+1t 
+observation 
+Figure 5 
+Figure 6 
+3.1. 
+On considère un rayon incident (SO) issu de la source qui fait l'angle i avec l'axe des x. Faire 
+une figure soignée et montrer qu'un tel rayon, dédoublé par la séparatrice, donnera à la sortie (côté 
+observation) deux rayons CD et@. 
+3.2. 
+Les conditions d'interférence sont-elles vérifiées par les rayons CD et@. Justifier. 
+3.3. 
+En se basant sur la Figure 6 (où [M' 2] désigne le symétrique du miroir [M2] par rapport à la 
+séparatrice [sp]), montrer que l'intensité d'interférence s'écrit sous la forme suivante : 
+I(M) = ~ [ 1 + cos (4:V x cos i )] où /0 est l'intensité maximale. 
+3.4. 
+En utilisant un diaphragme à iris et une lentille convergente(L0). Proposer un protocole 
+expérimental qui permet à l'aide d'un miroir plan et de la lampe spectrale de positionner ces éléments 
+afin de former un faisceau de lumière parallèle l'axe (Ox) émergent de la lentille. 
+3.5. 
+L'interféromètre est éclairé maintenant par une source ponctuelle placée au foyer objet d'une 
+lentille convergente {L0) d'axe (Ox). Le faisceau sortant du Michelson est focalisé à l'aide d'une 
+lentille convergeant(L) sur un photo-détecteur placé au foyer image F' de celle-ci (Figure 7). 
+Concours Technologie-Session 2020 
+Epreuve de Physique 
+Page 6/8 
+
+3.5.a. 
+Donner l'expression de l'intensité l 
+en F' reçue par le photo-détecteur en 
+fonction de 10 , x, v etc. 
+3.5.b. 
+L'origine des temps t = 0 est prise 
+au moment du contact optique pour lequel 
+x = 0 et on suppose que le miroir M2 est 
+entrainé par un moteur avec une vitesse 
+constante Vm. Exprimer l'intensité l en F' en 
+fonction de 10 , t, v, Vm etc. 
+.,;œ -+------'\------------
+[L.] 
+: 
+4. Mesure de la largeur de la raie spectrale 
++--'--+ (L] 
+1 
+1 
+1 
+1 ,F' 
+photo-détecteur 
+Figure 7 
+[M,] 
+On reprend le dispositif de la question précédente 3.5 où la source est ponctuelle mais n'est plus considérée 
+parfaitement monochromatique. Celle-ci présente une distribution spectrale étudiée en 2.3. 
+4.1. 
+En se servant de la question 3.5.a, donner l'intensité élémentaire dl en F' reçue par le photo-
+détecteur pour cet intervalle de fréquence [ v , v + dv] sachant qu'elle est proportionnelle à f ( v) dv. 
+4.2. 
+La fonction f(v) ayant des valeurs quasi-nulles pour v < 0 ce qui permet d'étendre les 
+intégrales comprenant cette fonction de JR+ à JR. En utilisant les données fournies en début d'énoncé, 
+calculer l'intensité totale détectée et la mettre sous la forme suivante : 
+max 
+- -
+TCX 
+I 
+[ 
+(zx)
+2 
+(4 
+)] 
+l(x) = - 2-
+1 + e 
+Le 
+cos -c-v0 
+Où lmax l'intensité correspondante à x = O. 
+Expliciter L, en fonction de la largeur spectrale !iv et de c. 
+On souhaite tracer l'interférogramrne, en utilisant une table traçante, correspondant à la source étudiée, c'est-
+à-dire la courbe I(x) mesurée par le photo-détecteur lorsqu'on fait varier l'épaisseur x de la lame d'air à l'aide 
+d'un moteur entrainant le miroir [M2] à la vitesse constante Vm. 
+Le principe de fonctionnement de la table traçante consiste à faire défiler le papier millimétré à une vitesse 
+Vt ; un stylet se déplace transversalement au défilement du papier et trace une courbe dont l'ordonnée est 
+proportionnelle à un signal électrique provenant du photodétecteur. On obtient ainsi sur le papier millimétré 
+une courbe Y(X) dont l'abscisse est proportionnelle au temps et l'ordonnée est proportionnelle à l'intensité 
+lumineuse détectée (Figure 8). 
+L'enregistrement est obtenu en mettant en marche simultanément le moteur et la table traçante à partir de la 
+position donnant le contact optique. 
+4.3. 
+Mettre Y(X) sous la forme: 
+Y(X) = Y0 [ 1 + e -(e,.:f cos ( 2rr ~)] où Y0 est une constante 
+Concours Technologie-Session 2020 
+Epreuve de Physique 
+Page 7/8 
+
+Donner les expressions de !J.X en fonction de Vm, Ve et Le d'une part et celle de X0 en fonction de Vm, 
+Vt, v0 etc d'autre part. 
+4.4. 
+Les deux tracés fournis à la Figure 8 ont été obtenus à l'aide d'une lampe spectrale identique 
+à celle étudiée en 2.3. L'un des deux tracés correspond à la lampe fonctionnant à T1 = 1000 K, l'autre 
+correspond à la lampe fonctionnant à une température T2 = 2000 K. 
+Préciser à quel tracé correspond chaque température. Déduire de la forme des tracés, la valeur de Le 
+et de Llv dans chacun des deux cas. On donne: Ve= 0,5 mm. min-1 et Vm = 0,5 µm. s-1 . 
+Y(X}/YO 
+1 
+i : . 
+Tracé 1 
+X 
+O,Olm 
+0,02m 
+0,03m 
+0,05m 
+0,06m 
+0,07m 
+0,08m 
+0,09m 
+1 
+1 
+f 
+! 
+.. î .. 
+l 
+( 
+1 
+1 
+l 
+t 
+! 
+! 
+1 
+1 
+l 
+' 
+! 
+i 
+l 
+i 
+! 
+1 
+f ! 
+i 
+r 
+1 
+1 
+' ! 
+' 
+f 
+l 
+1 
+f 
+.... 1 
+1 
+1 
+1 
+Tracé 2 
+i 
+1 
+' 
+i 
+! 
+1 
+' 
+. · 1 
+1 
+J 
+1 
+1 
+' 
+1 
+1 
+1 
+1 
+! 
+1 
+' 
+! 
+X 
+O,Olm 
+0,02m 
+0,03m 
+0,04m 
+0,05m 
+0,06m 
+0,07m 
+0,08m 
+0,09m 
+Figure 8 
+Concours Technologie-Session 2020 
+Epreuve de Physique 
+Page 8/8 

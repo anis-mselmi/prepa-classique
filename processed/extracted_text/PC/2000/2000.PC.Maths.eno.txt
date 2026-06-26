@@ -1,0 +1,36 @@
+--- page 1 ---
+RÉPUBLIQUE TUNISIENNE xxk Ministère de l'Enseignement Supérieur
+(Bielojheque ) Udes ) Diof;) WEURs
+Concours Nationaux dEntrée aux Cycles de Formation d'Ingénieurs Session: Juin 2000
+Concours en Physique et Chimie Épreuve de Mathématiques
+Durée: 4H Date: 5 Juin 2000 Heure: 8H Nb pages: Barème: Problème 1: I:3pts. II:pts, III: 3pts: Problème 2: I:6pts. Il:pts
+L'usage des calculatrices est strictement interdit. Une grande importance sera attachée à la rigueur du raisonnement, à la clarté de la rédaction et au soin de la présentation. Il est rappelé que tout résultat énoncé dans le sujet peut être utilisé pour traiter la suite, même s'il n'a pu être démontré 
+Le long de ce sujet. on désignera par M un entier naturel tel que N 2 2 (e1. ex) la base canonique de Rv > le produit scalaire euclidien sur RY défini par
+V N < Ily > = Iiyi, 81 I = Tiei et U = Eyie; i=1 il i=1
+M(N, R) Tespace des matrices carrées réelles dordre N.
+
+--- page 2 ---
+Problème 1 Soit J = (aj)sijsv € M(V. R) la matrice diagcnale telle que 011 = 1. Qa = =1, pour 2 < i < N.
+Partie [ 1/ Montrer que VI; y € RY < I| Jy > = I1y1 Ex? I,Yi. 2/ Soit 4 = M(V; R) vérifiant la propriété suivante (P) YI,y € Rv Ax| J Ay = < I Jy >
+Montrer qu on & [' équivalence entre les trois propriétés suivantes: 2) 4 verife la propriété (P) ii) YI € RY < Ar  JAx > = < I| Js > iii) : AJ4 = J. 4 étant la matrice transposée de 4 (ie.7 2." = R' < iz:: > =< c;'.y > . 6, Soit Gv {4 = M(V R)/ 4 verifie la propreté 15) i) Soit 4 = Gv, montrer que |det.41 = 1 Ji) Montrer que Gv est un grcupe pcur ia multiclication des mnatrices. Partie II Dans cette partie on prend . = 2 1 / a) Montrer que
+0 eb 6 ca
+G2 
+;€ € {-1,1} 0.6 € R er 2? ~62 =1 (
+b) En déduire que
+61 ch(t) €2 sh(t) G2 = {( €; € {=1,1}i =1, 2 3; 64 = €16263: ( € R €3 sh(t) €4 ch(t)
+ch(t) sh(t) A(t) = sh(t) ch(t)
+2/ On pose G? t€ R Montrer que G2 est un sous-groupe de G2. 6 Soit : = R trouver P inversible-tel aue P-1 A(t)P soit diagcnale. C Montrer que Gz est isomorphe au groupe ( R -) 3/ Soit B =
+a Calculer  BP p = N 6 Montrer que
+t*3* 7t € R 4(t, = @n ~3 8=
+
+--- page 3 ---
+Eartie I Dans cette partie. on prend V=3. Mez = sh(t}e; - ch(t)ez 1/ Deternuner ! ensembie des matrices V de G3 vérifiant Me; = 23. 1 (t) = U(t) 2 / Rescuare le systere différentiel V (t) = z(t) 2(t) = 0 2 3 / Soit 4 = 2 2 1 2 2 Montrer que 4 € G; b Diagonaliser 4 et calculer 4P p €N C Trouver un vecteur V = {0.6.€ : 0 . b, c €Nnon tous nuls. tel que
+< V JV >= 0
+Dcnnez une nerhoce pour constr_ire à Partir de V une infinité de solutions Ce { equation €€ Fermlac: avec I,U.~ €N
+Probleme 2 Pactie [ Soit !o une fonct:on coztinue à valeurs réelles, de classe Cl par morceauxinpe (e et 2--periodique. telle que "o(0) = 2o(=) ~ 0 1/ 2) Montrer que
+2 où 'bk = T
+5 I € R 20(=) = Ebx sin( kz) , k=l b} Montrer que Limk ~ixbk = 0.
+uo( x)sin(kz) dx.
+2 / Pour (z.t) €  T] x {0 +oo [; on-considère la fonction Cc u(zt) = Soke-(ke_1)t sin(kz) kzl
+Montrer que. Polir cout & > 0 et tout p €N Jim k? bxie-(k2+l)a = 0 x
+b) En déduire que " est de ciasse C~ sur {0. Tixjo; +x[ Montrer que '1 est solution du systène: 92 2,t) 2 (I.t) _u(I.t) = 0. Ys 2 (0, T!, Ft > 0 15) at '2{I,0) = "o() "r =  0 T! '(0, ') = '(;,t)= u. 7t 2 0.

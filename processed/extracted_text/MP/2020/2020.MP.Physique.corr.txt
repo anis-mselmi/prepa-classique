@@ -1,0 +1,690 @@
+Corrigé Epreuve de Physique -Concours MP 2020 
+Problème 1 
+I-
+1 Diffusion de Rayleigh. 
+1) 
+1 -
+) 
+kü, /\ /J.Ü, 
+Eo 
+;(œl-ia)e-
+B(M t = 
+--e 
+y 
+-
+' 
+{J) 
+C 
+2) 
+1 
+e 
+B' 
+e E
+2 
+u..,(M,t) =...9..E' +-=e0E 2 =e0E! cos
+2((J)f-kx) ~ (u..,)=_!L_!L 
+3) 
+4) 
+5) 
+6) 
+7) 
+8) 
+9) 
+10) 
+2 
+2µ0 
+2 
+-
+Ê/\B Ê/\(k/\Ë) 
+E
+2
+_ 
+-
+-
+-
+-
+• 
+• 
+IT=--= 
+-e, =e0E 2cu, =u.., v,, avec v, =ce, la vitesse de propagation de 
+!'ri 
+µoOJ 
+µ,c 
+l'énergie électromagnétique dans le vide. 
+{tp) = If (n). dS = (JJnJJ) = e0cE; = _E__ = I 
+2 
+2µ0c 
+Approximation dipolaire: la dimension du dipôle est très faible devant la distance OM = r. 
+La zone de rayonnement est définie par : r » il. . 
+Le plan (M,ë,,ë0 ) est un plan de symétrie paire donc B qui est perpendiculaire à ce plan est suivant 
+_ B-(M ) _ 
+)10 sin B 
+2 1w(1-~)-
+eF. _ 
+,t -----p00J e 
+eF. 
+4,rrc 
+E-
+2 k /\ll_ 
+k-
+ro -
+E-
+n-
+!'ri sin B 
+2 tœ(t--LJ-
+_ = -c --,avec =-e,~_=c~e0 =----p00Je 
+•e0 • 
+(J) 
+C 
+4,rr 
+(fi)=_!_Re(§_/\B') µ0p~sin
+2
+B a>4ë. 
+2 
+!'ri 
+32,r2r 2c 
+' 
+p = ,f{ 
+(fi) 
+2 
+• 
+µ, p' 4 
+' 
+'H',p1,.,. 
+·r smBdBdrpë =~ 
+' 
+12,rc . 
+Masse des noyaux» masse des électrons ~ 
+On néglige le mouvement des noyaux. 
+!. 
+vB 
+v 
+L 
+· l 
+"dé ' 
+l · · 
+_a= -
+-
+- « 1 . es particu es cons1 
+rees sont non re ativ1stes. 
+f. 
+E 
+C 
+70 
+0,5 
+0,5 
+0,5 
+0,5 
+Dans le cas où il. » OA "' l 0-10 m on néglige le terme spatial dans l'expression du champ électrique I O,S 
+11) 
+12) 
+incident (kx- 2; OA ~ O)~!i,(M,t) "'Eo e'"" ë,. 
+d
+2 0A 
+-
+-
+-
+RFD: m.-2-=qE+F,.+Fr 
+dt 
+(J) -
+-
+-
+qEe'"' 
+Régime forcé: m ,(ro!-(J)2 +i-)OA = q!J. ~ OA 
+O 
+ë,. 
+r 
+m,((J)i-ro2 +i~) 
+.. 
+q' Eoe''" 
+ë, ~ p 0 = Ill = 
+q' Eo 
+. Dans le visible (J) - 1015 rd· s-1 
+( 
+2 
+2 
+• a>) 
+a>2 
+m lllo -œ +1-
+m (al'-ai)2 +-
+r 
+o 
+r2 
+Ê=qOA 
+2 
+2 
+a, 
+2 
+q'Eo 
+~œ «œ0 et -«œ0 ~ Po =--
+2 • 
+-. 
+ma>o 
+1 
+0,5 
+13) 
+14) 
+15) 
+16) 
+17) 
+II. 
+18) 
+p =~= q o 
+œ =~!!3_ p ac a,4 ~~= œbJ,., 
+= ~ 
+::16 La 
+2 
+4 
+4E2 
+4 
+•E' 
+4 
+p 
+( J ( 
+~ J 
+' 
+12,re0c3 
+l2,re0m;c
+3 {t): 
+12,rc m~ œ: · ' 
+P,_ 
+w, •• ,. 
+Ài,1.,, 
+• 
+l 
+puissance diffusée est donc 16 fois plus intense dans le bleu que dans le rouge, ce qui explique que 
+l 
+le ciel est bleu. 
+L'onde EM observée par diffusion de Rayleigh dans mie direction perpendiculaire au Soleil est 
+polarisée rectilignement. En effet la lumière solaire incidente non polarisée, présente toutes les 
+directions de polarisation perpendiculaires à son vecteur de propagation que l'on suppose ici être ë,. 
+1 
+Ainsi elle induit des dipôles vibrants dans toutes ces directions. Mais on sait qu'un dipôle oscillant 
+n'envoie pas de rayonnement dans sa propre direction. Ainsi, la composante P, ne donne pas 
+d'onde dans la direction ëY . Dans cette direction le champ électrique est uniquement dû à la 
+composante p, du dipôle : ce champ est polarisé rectilignement dans la direction de ë,. 
+.Y 
+i 
+.• ), / 
+s .. JdJ 
+,. 
+. ··r-: 
+" 
+,>:) j 
+./ 
+·(t,,..-1 
+!-~ 
+1 
+!/ 
+.·~ 
+.• ( 
+:) 
+' ' 
+/ 
+,, V 
+, t ' "t:7 : 
+1 
+d-~ 
+vV . • 
+;(î 
+ry r ·· ... Jï .. -
+'(1 ~ 
+1 Î' / .-· 
+~~Çrt 
+,)<: .. , 
+vl .. :·., 
+Figure 1 
+E' 
+/lriq4E; @• 
+µ;q4 
+{/}4 
+D'après la question 4) P, = -
+0-S, P,. 
+---P 
+1 
+2µ0c 
+12,rcm; œ: 
+6,rm:s CV: •· 
+Faisons le bilan de puissance dans le cylindre de section S d'axe Ox situé entre x et x+dx : La 
+puissance solaire qui entre dans ce volume en x est P,(x)et la puissance solaire sortante en x+dx 
+est P,(x+ dx). La puissance diffusée par les molécules d'air de ce volume est: P, xNSdx donc: 
+dP 
+2 4 œ4 
+dP 
+P 
+61rm;W: 
+2 
+P,(x)=P,(x+dx)+P,.xNSdx~--1 dx= J-loq 2 -;:P,Ndx~--1.=---1. avec .f. 
+dx 
+6,rm, œ, 
+dx 
+.f. 
+µ;q4Nœ4 • 
+P,(x) = P., exp(-f) . .f. est la distance caractéristique de l'atténuation de l'onde. 
+l 
+i .,01., = 24km et i ,..,. = 2, 0 x 102 km . On remarque que i roup > i .,.,., donc les courtes longueurs 
+l 
+d'ondes (bleu) sont plus absorbées par l'atmosphère que le rouge. Au soleil couchant, quand l'onde 
+a traversé mie couche d'atmosphère suffisamment épaisse, le bleu est très atténué alors que le rouge 
+1 
+l'est beaucoup moins. La lumière arrivant directement du soleil couchant est donc rouge. 
+Elargissement Doppler. 
+La molécule a une composante de vitesse v, comprise entre -oo et +oo . On a : 
+f 
+r ( mv2) 
+~ ~ 
+l 
+dP(v )=l~ 
+Aexp ---' dv =l~A __ 
+B_=I~A= --. 
+' 
+_., 
+2k8T 
+' 
+m 
+2,rkBT 
+2 
+
+t 9) 
+a) On a vz = ~(v-v0 ) et dvz = ~dv. La probabilité pour que la radiation émise par un molécule 
+Vo 
+Vo 
+ait, pour l'observateur, une fréquence apparente égale à v à dvprès est donc: 
+dP(v)=A'exp(-
+mc
+2 
+2 (v-v0 )2Jdv. 
+2kBTv0 
+c) Graphe delv(v) 
+Figure 2 
+;~1 < '": 
+'·'" 
+!,., 
+~ 
+m. 
+Mesure de la lan~eur d'une raie spectrale. 
+20) 
+L'image M; de M 1 par la séparatrice est parallèle à M 2 : l'interféromètre est utilisé en lame d'air 
+d'épaisseur e. <5 = 2e. 
+yf 
+M'1---L--... 
+[ . i e 
+M:, 
+., ... 
+. 
+faisc= illcidcnt 
+• 
+. . ~ / 
+Figure 3 
+-
+f/ 
+-------,,j,.,-71';/0.,t----.r-:;% 
+s.,/, 
+di,tecteur 
+1 
+1 
+2 
+1 
+1 
+0,5 
+1 
+1 
+1 
+b) J=Jv
+2~(1+cos(2m5vJ)dv=~[v+-c sin(2m5vJ]v
+2 = 
+lo [ 1/m( ~vt(2,rôvoJ] 
+v, 2.6.v 
+c 
+2.6.v 
+21rô 
+c 
+2 
+trôAv 
+c 
+2 
+v, 
+--
+c 
+3 
+
+Donc I = ~ (1 + sine (1Z' t ) cos {21Z' v; o) ) avec L = -=-. On a v = ~ ~ Av = c A~ = c ~ 
+• 
+e 
+Av 
+Â 
+Â 
+~ 
+~L =-=-= l; . C = sinc(1Z'ô) 
+e Av 
+M 
+Le 
+23) 
+Allure de 1(8) : 
+24) 
+25) 
+26) 
+27) 
+28) 
+29) 
+I 
+Figure 4 
+~--. 
+0 
+On remarque que pour 8 = Le !max = /min et le franges d'interférence disparaissent C = 0. 
+On a p = 8 = ôv ~ dp = ôdv. La variation Ap de l'ordre d'interférence entre le centre du spectre v0 
+Â 
+C 
+C 
+l' 
+, . é 
+Av 
+A,., 
+8 Av L 
+fr 
+. "bl 
+1 
+~ 
+c 
+et extrem1t v0 +- vaut <->y = -- . es anges restent vis1 es pour Ap < - ~ u < -
+= Le . 
+2 
+2c 
+2 
+Av 
+Le : longueur de cohérence temporelle (longueur du train d'onde), en fait pour 8 > Le le contraste 
+kievient faible et on observe plus d'interférences. Pour une onde monochromatique Le = oo. 
+Au brouillage Le =ô=2e~ e=2,037mm. Le=-=-~ Av=~=73,6GHz .M= l; =0,058nm. 
+Av 
+4 
+4 
+~ 
+. e 
+21Z' ~ 21Z' 
+. e 
+u=asm , <p=-u=-asm . 
+À 
+À 
+1 
+-iNtp 
+4 = 4 +,& +4 + ... + 4N = 4i (l+e-itp +e-i2,p + ... +e-i(N-1),p) = 4i 1-e -i,p 
+-e 
+1~ 
+i]g_ 
+N 
+-1<N,_1J,p e 2 - e - 2 
+-1<N-1)1P sin( -1.) 
+A= ,te 
+= À e -Y-
+2 
+-
+~ 
+/.f. 
+-j.f. 
+"'"O 
+• ('P) . 
+e 2 -e 2 
+sm 2 
+• 2(Ntp) 
+· 2(Ntp) 
+l=A·A· =A; sm T 
+=l sm T 
+. 
+-
+-
+sin2{-f) 
+o sin2(f) 
+l(<p) est périodique de période 21Z'. l(<p) = /.max est maximum pour <p = 2m1Z'OU 8 = mÂ, 
+~ 
+sinBmax = mÂ, me Z (interférences constructive). Minimums pour l(<p) = 0 ~ sin( Ni)= 0 et 
+a 
+sin( f) '* 0 ~ N <p = n1Z' soit <p = 2n1Z' . sin Bmin = 2nÂ , n non multiple de N : dans l'intervalle 
+2 
+N 
+a 
+<p E [ 0, 21Z'] n E { 1, 2, · ·, N -1} 
+30) Le maximum principal J(O) = /max = N 2 / 0 • Pour <p = 2n + 1
+1Z', n E z• on a les maximums secondaires. 
+N 
+4 
+1 
+1 
+2 
+1 
+1 
+1 
+1 
+0,5 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+------- --~- ----- __ -_--_--_-_---:-=_~-~~====----------------------
+
+1er max secondaire rp = ~ 
+,r ~ 
+N 
+2ème max secondaire pour rp = 2-tr ~ 
+N 
+1 
+. 2(3,r) 
+N2 l 
+. 2(5,r) 
+Nzl 
+I' =I Slll T =--0 =0 0451 
+l" = l sm 2 
+= --0 = 0 0 l 61 
+1 
+0 · 2(k) 
+(3")2 
+' 
+max 
+2 
+0 • 2(.it!..) 
+csii-)2 
+' 
+max 
+Slll 2N 
+2 
+Slil 2N 
+2 
+1 
+I' 
+l" 
+~-
+1 =0,045 «l. 
+~-
+2 =0 016«1. 
+]max 
+I 
+' 
+max 
+Les intensités des max. secondaires sont négligeables devant Jmax. 
+1 
+31) Pour N assez grand on observe des pics étroits de largeur 4
+1Z" . 
+N 
+--
+1 : ------ ------------- -----.. -- ... --...... 
+' 
+I ( q,) 
+2 
+Figure 5 
+l"'"" 
+0 : ______ 
+-------
+1 
+-2,,r 
+0 
++2.,r 
+rp 
+32) 
+Lorsque la lumière est polychromatique, toutes les longueurs d'onde sont regroupées à l'ordre zéro 
+(pic central polychromatique). Aux ordres supérieurs, les différentes longueurs d'ondes qui composent 
+1 
+la lumière sont d'autant plus déviées que les ordres augmentent : on observe différents groupes de pics 
+colorés pour chaQue ordre d'interférence. 
+33) a)Pour un pic donné (m fixe) on a: rp = 2.1Z" t5 et t5 = mÂ ~ dt5 = mdÂ ~ drp = 2,r dt5 = 2mtr d)., 
+À 
+À 
+À 
+2 
+AÂ 
+~ 
+11rp = 2m1Z"-. 
+À 
+b) 
+2.1Z" 
+111 
+21Z" 
+À 
+11rp~-~2mtr-~-~11~ =-. 
+2 
+N 
+À 
+N 
+mN 
+À, 
+c) N=--=4862. 
+1 
+AÂmin 
+d) On retrouve le même ordre de grandeur pour ~ 
+. Mais le réseau est plus efficace pour la 
+0,5 
+mesure de la largeur spectrale. Le pouvoir de résolution du réseau peut augmenter lorsque N et m 
+0,5 
+au2mentent, alors que le pouvoir de résolution du Michelson est limité. 
+Problème2 
+30 
+1) 
+~ Transfert par conduction : le transfert d'énergie se fait de proche en proche dans un matériau sans 
+déplacement globale de matière : Les particules du secteur le plus chaud se heurtent vivement entre 
+0,5 
+elles et transmettent leur énergie de vibration aux particules voisines : diffusion progressive de 
+l'agitation thermique dans la matière 
+0,5 
+- Transfert par convection : transfert de chaleur entre un solide et un fluide mobile à son contact : 
+transfert thermique qui accompagne les déplacements macroscopiques de la matière dans le fluide. 
+0,5 
+- Transfert par rayonnement : Les particules excitées émettent des ondes électromagnétiques (photons) qui 
+véhiculent de l'énergie. 
+2) 
+a) j(z,t) est en W · m-2. Loi de Fourier: la densité de flux thermique échangée par conduction est 
+0,5 
+proportionnelle au gradient de température: J =-Âgrad.T =-À~: ëz. À est la conductivité 
+0,5 
+thermique du matériau. 
+5 
+
+3) 
+b) dU = C dT = pcSdz :~dt= 8Q = 
+8Qe -8Q, = j(z)Sdt-j(z+dz)Sdt =-! Sdzdt ~ 
+ôj 
+ar a2r pc ar 
+- ôz = p C ôt ~ ôz2 = T ôt · 
+a) En régime stationnaire: d
+2
+~ = 0 ~ T(z) = Az+B, AetB deux constantes. 
+dz 
+r/J(O) = j(O)S =-Â dT s =-ÂSA=,/Jo ~A=-A. T(L) =~ =AL+B ~B=TL +AL. 
+dz 
+).,S 
+J.,S 
+T(z) =jg__(L-z)+TL 
+).,S 
+L 
+z 
+4) 
+Le flux de chaleur se propage suivant z, et la température intérieure T ( z) = Cz + D, puisque on est 
+. 
+' . 
+. 
+. 
+d
+2
+T 
+O D' 
+' 1 
+d" . 
+limi" 
+touJours en regrme stationnarre -
+2 = . 
+apres es con 1tions aux 
+tes on trouve 
+dz 
+T -1: 
+-
+dT 
+7: -T 
+T, -T 
+T(z)= e 
+0 z+'.fo~j(z)=-Â-ëz=Â O 
+eëzetrjJ(z)=j(z)S=ÂS O 
+e. 
+e 
+dz 
+e 
+e 
+Interprétation : le flux de chaleur ne dépend pas de z, le flux entrant est égal au flux sortant ce qui 
+vérifie la conservation du flux dans le cas du régime permanent en absence de dissipation. 
+5) 
+T,-T 
+. 
+a) 
+En z=e-ona rjJ(e-)=ÂS O 
+e .En z=e+ona rjJ(e+)=hS(T:-T00 ) c'estlalmdeNewton.La 
+e 
+~ontinuité du flux thermique impose : rjJ( e-) = r/J( e +) ~ Â Ta - T. = h ( T. -T00 ) ~ (h + Â) T. = )., Ta + hT00 • 
+e 
+e 
+e 
+( 
+)., 
+J 
+)., 
+-7;, +hT00 
+hS-('.fo-T00 ) 
+T, -T 
+b) Première méthode· ,1,=hS(T-T )=hS e 
+T 
+= 
+e 
+= 
+0 
+"' 
+·'I' 
+e 
+00 
+)., 
+"' 
+)., 
+e 
+1 
+h+-
+h+-
+-+-
+e 
+e 
+ÂS 
+hS 
+6 
+1 
+0,5 
+1 
+0,5 
+2 
+1 
+1 
+0,5 
+0,5 
+1,5 
+1 
+~--------~-------,--,--c-c============-==~-------------

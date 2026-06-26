@@ -1,0 +1,122 @@
+--- page 1 ---
+Corrigé PT (Session 2017)
+Problème 1 Symétrie B(M,t) = B(r,t)Çz ; $ B.d = h(Bint Bext = Ho n i h Bint = ào n i iz B2 Um #(4)<i2 2ko 2 ère B2 1 HoN2  T a2 N2 T a2 1 méthode Um = SsS di = "i2 = 2 Liz 2 4L = Ho 2p0 2èm méthode @p = NB. (T a2)7z = Npo (B)iza: = Li = L = Ho "2z02 Q1 =L1 i1 + Miz 92 = Lz i2 + Mi1 e1 = 40 = ~L1 di _ M di2 dt dt dt e2 = _ 402 = ~Lz di2 _ M 9i2 dt dt dt e = -e1 ~e2 = (L1 + L2 + 2M)d = Le = L1 + 12 + 2M dt =-e1 = =L1 @" + M 92 = L2 42+ M % di2 = L1-M di1 e ~e2 dt dt dt dt dt Lz -M dt e = (L1 + M4s-M)4 = 41l2_M2 di1 L2-M dt Lz -M dt e = (L2 + M'2M)4 = 412442 L1-M) dt L1-M dt di = di1 + di2 = Lz_M L1-M 4 Z1tlz_2M e dt dt dt L1L2-MZ 2112-M7)e = L1Lz -M2 e = 41l2 M2 d = Le = 11l2 M2 L1+L2-2M dt L1+L2-2M
+4Opt 2x0,5
+1
+2.a
+1
+2.b
+1,5
+1,5
+3.a
+2x0,5
+3.b
+0,5
+0,5
+4.a
+2x1
+4.b
+0,5
+0,5
+1
+4.c
+M = 0 ; disposition série Le = L1 + L2 disposition parallèle = L1lz Le L1+L2 Relations similaires au cas de /association des résistances
+0,5
+0,5
+0,5
+0,5
+5.a
+ut @
+2
+5.b
+= "(t) u(t) [R + jLwoli1 = 61 = Uo =1 = = Lwg et tan 41 R+jLwo R VR2 +L?wg 4(t) u(t) = R + j (Lwo ~z)]iz =i2 = R+j(Lwo Cwo Lwo7 =12 = Uo/ R2 + Loo 1) Cog Cwo et tan @2 R
+1+2x0,5
+5.c
+1
+2x0,5
+5.d
+On pourra obtenir I1 = I2 à condition que Luo =
+Lwo donc 2Lwo = CWo Cwo tan (1 tan @2 =-1 = Loo =Rdoù C = 2RWo
+5.e
+De plus Q1 P2  2 Uo I1 = I2 = RvzZ 41 = 2 = T 42
+1
+0,5
+0,5
+
+--- page 2 ---
+5f
+Uo Le système (S1) engendre le champ B1(t) = B i (t)ix = B cos (@ot ")7x Rvz 4 Uo Le système (S2) engendre le champ Bz(t) = Biz(t)i, = B Rp cos (Wot + 4)7, Uo alors 6 = B "a[cos(t - ?)5z + cos(ot + ?)4,] B = BUo sin (t + 4)ix + cos (@ot + 4)5,] et Bo = BUg Rvz Rv2 5.g B = Bo |sin (@ot + 4)iz + cos (Wot + 4)7,] lextrémité de B décrit la trajectoire dun cercle de rayon Bo et le champ B tourne à la vitesse angulaire W autour de Oz. 6.a a(t) = (0 - W)t + &o q = m ^B = m Bo sin[(0o @)t + œoJiz 6.b (I(t)) # 0 seulement si 0 = 0 alors (,(t)) = m Bo sin (ao) 7z Le moteur ne peut tourner qu'à la vitesse angulaire @ de linduit appelée vitesse de [synchronisation; doù l'appellation de moteur synchrone. B = Ho i 1z = Ho V 1z 8 @ = NzBS = Ho "N2 _ sv 9 e = d4 = V2 NiN2 SdVa dt ~Ho rl dt 10 Vz est proportionnelle à la dérivée de V1 ; ce comportement dérivateur du circuit peut être vérifié expérimentalement en alimentant le circuit à laide dun signal triangulaire; alors on récupère à la sortie un signal carré. Il.a Z_Vz = 1 Vs = Vz alors V = 1+j2Vz avec 0o R+Zc 1+jRCW RC W0 Ilb Lorsque W > 0 Vs ~ @V2 = 0 J Vzdt sortie est proportionnelle à l'intégrale de Vz jw %s ~ w f _d2dt = ~009 + Cte dt Il.c La tension de sortie Vs est limage du flux   magnétique. Ce circuit K qualifié  de fluxmètre > permet alors de mesurer le flux magnétique.
+1
+1
+0,5 0,5
+1 1
+1
+1
+1
+1
+1
+1
+1
+2x1
+1
+1
+1
+Problème 2 rot @ 0ü div E = 0 div B = 0 ; = rot | = 10 dt c2 dt rot rot E) = grad(divm) - AE = ~AE = 2 (rot 4) = ~ 9 (42) =-1 926 dt dt c2 dt2 doù AE ~ 1 920 = 0 c2 dt2 @? AE = ~kZl alors k} = on retient k1 =" c2 @4 = 7 ^M=ikz ^4 kzAE rot @ = = iw6 alors @ = k2 Eot e ~i(t-kz*)uz dt W Mion > mélectron le courant dû aux ions est donc négligeable devant celui dû aux électrons div m = 7.E = ikz7x-@ = 0 = p = 0 la charge volumique est alors nulle. m d5 = ~el - eù ^ B dt nll < " = " <" < 1 :on peut donc négliger la force magnétique Fm devant celle électrique. TFeT E V4 m % = ~el 3 ~imou = ~e@="=-i_e@ dt mw
+6Opt
+2
+2
+3
+1
+4.a
+1
+4.b
+1
+4.c
+1
+4.d
+1
+1
+4.e
+1
+
+--- page 3 ---
+4.f
+i noe2 noe2 j = no(-e)@ = mw @=y'== mw Yimaginaire pure = j et @ sont en quadrature de phase : (J.E) = 0 : en moyenne il n'y a pas dissipation dénergie dans le milieu donc pas datténuation au cours de la propagation: div @ = 0 div E = 0 ; rot E 04 rot 4 = Ho (zE+€o'5 dt dt ~AE 05 rot(rot E) = = 1 024 = AE 1 024 @5 = O ~HoYdt c2 dt2 c2 @t2 HoY Mt 02 @2 noe2 @2 noe2 @2 ~02 k? = = noe2 poY(-io) Ho = = k2 = avec w? = c2 c2 m c2 c2 Eom c2 Eom Seulement lorsque @ > @p ; k2 > 0 alors kz est réel et il y aura propagation Le plasma se comporte alors comme un filtre passe haut de pulsation de coupure @ = Wp - Pour W > kz = 1 - % décrit une OPPM dans un milieu transparent Wp @2 qui reste dispersif. = = Vg = d = 22k2 = c w} Vq 1 kz dk2 W 02
+1
+3x0,5
+5.a
+0,5
+1
+5.b
+1,5
+5.c
+0,5 0,5
+5.d
+1
+5.e
+2x0,5
+5f
+V, dépend de w 3 le plasma est alors dispersif. Lorsque 0 > @p => Vq ~ c : le plasma se comportera alors comme du vide_ k2 < 0 = k2 = ip où p = " " _ 1 c Vwz @(x,t) 2 Eote-px e-iwt '7y structure d'une onde évanescente E(x,t) ~n"@x = Eote e ~i@t-"?*)uy = = 9 V, n/ n' L'existence dune partie imaginaire de Tindice complexe est liée à Tatténuation de Tonde par le ~n "W facteur e =X Dans le cas de notre modèle plasma il y aura deux cas 1 = "} Pour 0 > @p ; n' = n 2 0 : 02 propagation sans atténuation. "} @ Pour 0 < @p n = =1;n' = 0 : onde évanescente. Vwz La partie réelle n' de Findice n'est pas toujours supérieur à 1 comme en optique. @i = Eoe-i(ot-kix)uy ; @; E9e-ilot-kax)iz @ = rEoe-i(ot+kiz)iy ; B = ~ rEo e-i(ot+kax)7z q = tEoe-i(ot-kzx)Ty Bt = k2tEoe-i(ot-k2x)1z W Continuité du champ électrique en x = 0 :1 + 2=t Continuité du champ magnétique en x = 0 : 1 _ 2 = ckets k2t W k1 2k1 k1_k2 t = r= k1+k2 k1+k2 R = Ilzr) I +)l Ré(kz = 2 Icl et T = I+l Ilzi)ll Ili>ll k1
+0,5 0,5
+1
+5h
+2x0,5
+6.a
+1
+6.b
+0,5
+6.c
+1
+6.d
+0,5
+0,5
+0,5
+1
+1
+1
+8
+0,5 0,5
+2x0,5
+2x1
+4.8
+58

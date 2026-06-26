@@ -1,0 +1,23 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE PREPA RaratoiRe  Ministère de Fenseignement Supérieur 5 bibliotheque | Concours  Nationaur d'Entrée aux 2 Cycles de Formation dIngénieurs Yetudes W ConCenieurs ` Session: Juin 2000
+Concours en Mathématiques et Physique
+Epreuve de Chimie
+Durée : 2 Heures
+Date 6 Juin 2000
+Heure 8 H
+Nb pages 2
+Barème: Problème I: 5 points Problème II: 5 points Problème III: 10 points Les candidats sont tenus de Justlfler leurs réponses au molns en quelques Iignes. L'éprcuvc comporte trols problèmcs (), (I) et (0) indépcndante.
+PRQBLEME I
+On dispose des données suivantes valables à 259C: Produit de solubilité de Ni(OH) 2 (sd) Ks = 10-16 Potentiel normal (standard) rédox: EP{NiO2 (sd) /Ni2O3 (sd)} = 1,43 V EP {Ni2O3 (sd) /Ni2+} = 1,75 V; EP{H+fH2 (g)} = 0,00 V. Le produit ionique de /eau Ke est égal à 10-14 Le rapport (2,303 RT)F est égal à 0,06 V.
+19) Déterminer la valeur du potentiel standard (normal) d'électrode du couple NiO2 (sd)Ni2+. 29 Une pile à un seul compartiment est constituée de deux électrodes métalliques inertes; l'une recouverte d' un dépôt de Ni203 solide et l'autre d'un dépôt de NiO2 (sd), plongeant toutes les deux dans une solution acidifiée de nitrate de nickel de concentration molaire égale à 0,01 molL-1 a) Symboliser la pile ainsi constituée. b) Ecrire l'équation chimique de la réaction associée à cette pile. c) Etablir ['expression de la f.é.m de cette pile en fonction du pH. d) Sous quelle condition de pH observe-t-on la réaction de dismutation du Nickel quand la pile débite du courant ? 3% On ajoute dans ce compartiment, sans variation de volume, de la soude concentrée de telle sorte que le PH final se stabilise à la valeur 8
+page1 / 2
+
+--- page 2 ---
+a) Que se passe-t-il ? b) Avec ces nouvelles conditions, quelle réaction se produit quand la pile débite du courant ? c) On ajoute une faible quantité de Ni(OH) 2 (sd). Cette addition a-t-elle une influence sur la valeur de la f.é.m de la pile ?
+PROBLEME II
+Le molybdène donne lieu à un fluorure de structure cubique dont le paramètre de maille est: a = 3,898 a Le molybdène occupe le centre de la maille et les ions fluorure occupent le centre des faces. 19) Proposer une représentation en perspective de cette maille 29) Donner la projection côtée de cette maille sur le plan (xoy) 39) Quelle est la formule de ce fluorure ? 40) Calculer la masse volumique (en g.cm-3) de ce composé. 59 Déterminer la coordinence de chaque ion 69) Quelle est la nature de la Jiaison Mo-F dans ce composé sachant que les rayons de l'ion fluorure et de Tion molybdène valent 1,36 A et0,62 A rspectivement ?
+Données:
+Masses molaires atomiques en g.mol-l: Mo = 95,94 F =19,00. Nombre d'Avogadro NA = 6,02. 1023
+PRQBLEME III A) Les pressions de vapeur du chloroforme pur (A) et du méthanol pur (B) sont données par les deux relations suivantes: Pour le chlorofomme CHCI3 logoP(A) = 7,77 -1170,97/(0+ 90,76); Pour le méthanol CH3OH log1oP(B) = 8,212 1582,27/(0 + 128,32) où la température € est exprimée en 'Cet la pression P est exprimée en bar. A-1) Calculer les températures d'ébullition du chloroforme et du méthanol sous l2 pression de : bar. A-2) Expliquer la différence entrc les valeurs trouvées pour les températures d'ébullition des deux corps purs.
+B) Le diagramme liquide-vapeur méthanol-chlorofore présente un point azéotropique à la température 0 = 52,5 C. La fraction molaire de ['azéotrope est égale à 0,35 en méthanol. B-1) Donner [allure de ce diagramme sous la pression de 1 bar. B-2) On procède à une distillation fractionnée d'un mélange méthanol chlorofone à 709 molaire en méthanol. Qu'obtient-on comme résidu et comme distillât ? B-3) Comment peut-on différencier un mélange azéotropique d'un corps pur ? B-4) Représenter sur le même schéma que celui de la question B-1) l'allure qu'aurait le diagramme si l'étude est faite sous la pression de 0,5 bar.
+page2/ 2

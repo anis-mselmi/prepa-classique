@@ -1,0 +1,522 @@
+1 
+2 
+3 
+4 
+5 
+6.1 
+6.2 
+7.1 
+7.2 
+7.3 
+7.4 
+7.5 
+8 
+9.1 
+9.2 
+Partie 1 : 
+y--Hlo; 
+J = yE alors E = 0 et B = O. 
+Epreuve de Physique 
+Corrigé T 2020 
+Quand l'onde incidente arrive sur le conducteur, elle met en mouvement les charges à 
+l'interface et crée donc un courant surfacique };(source). Ce courant est l'origine de l'onde 
+ravonnée selon les z <O. 
+B· _ Eo i(wt--kz)-+ 
+me -
+ce 
+ey. 
+Ê- + Ê 1 
+= 0 => E 
+= -E · Ê = -E ei(wt+kz)ë 
+t 
+r z=o-
+Or 
+o , r 
+o 
+x· 
+-+ 
+Eo 
+'( t k )--> 
+Br=-;eiw+zey, 
+Ê(z, t) = Ëi + Êr = E0(cos(wt - kz) - cos(wt - kz)) e";= 2E0sinwtsinkze"; 
+-+ 
+~ 
+-+ 
+E 
+~ Eo 
+--+ 
+B(z, t) =Bi+ Br= co (cos(wt- kz) + cos(wt - kz)) ey= 2-;;coswtcoskzey 
+Onde stationnaire. 
+a=O 
+_.Ü 2Eo 
+-+ 
+....... 
+-
+....... 
+2 Eo 
+_, 
+- - coswtey =µ0J5 A ez => Js = -
+coswtex 
+C 
+UnC 
+L'onde va exercer une force sur le plan, on a pris uniquement Bine dans le calcul de la 
+force de Laplace induite et pas Br, car Js n'est pas en effet soumise à Br, puisque c'est le 
+courant qui crée le champ. 
+-+ 
+Eo 
+_ 
+E0 
+_ 
+2 (E0 ) 2 
+_ 
+dFL = 2-coswtex A-coswteydS = -
+-
+(coswt)2ezdS 
+µ0c 
+c 
+µ0 
+c 
+1 E 
+2 
+(i!dFill> = -(~) dS 
+µO 
+C 
+a 
+<lldhll> 
+1 (Eo) 2 
+· 
+d 
+d. · 
+/J = ----;;;- = un -;; 
+pression e ra iat10n 
+.... 
+... 
+.... , 
+hv--+ 
+Llp = p - p = 2 -
+ez 
+C 
+f = ncdtdS 
+et o2p = 2hvndtdS"ë; 
+ISF = 2hvn. dS e; 
+P' = 2hvn ; on a hvn: densité d'énergie incidente par unité de volume. 
+Le facteur 2 c'est pour la densité totale (incidente et réfléchie) 
+ainsi P' = µém 
+Or P = :n (E: f = E0E/ = µém conclusion : /3' = /3 
+Force de gravitation : f = G ms2M, f = /3Lm => Lm = G msM 
+d 
+. 
+d 2EoE/ 
+l'(n}·II = !, Ea2 = !,E cE 2 
+I 
+2 µoc 
+2 o o 
+P5 
+1 
+E 2 
+E 2 
+P5 
+'t' 
+G m5M 
+G m 5M2n:c • 
+-dz = -ëoC o ; ëo o = -2- => ""m = 
+Ps 
+, 
+471: 
+2 
+2n:d C 
+d 2EoE/ 
+AN: Lm ~ 0,6 km2 
+dV 
+m ...
+......... 
+m .... 
+-+ 
+_,. 
+er 
+-+ 
+m- = --v- eE 
+==> zwmv = --v - eE 
+==> v = -
+E 
+~ 
+T 
+T 
+~+~ 
+... 
+N ... 
+Ne2T 
+E_, 
+E_, 
+Ne 2T 
+J - -
+ev -
+- y 
+==> y - ---
+m(1+iwT) 
+m(l+iwT) 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+0,5 
+1 
+1 
+1 
+1 
+1,5 
+1 
+2 
+1 
+1 
+1 
+2 
+3 
+1,5 
+2 
+
+Ne2r 1 
+d .. , 
+. 
+et y O = --;;- : a con uct1vite statique 
+9.3 
+... 
+__. 
+_.... 
+as 
+-
+..... 
+.... 
+aÈ 
+MG. divE = 0 ;Mjlux divB = 0; MF. rotE = - nt ; MA. rot B = µ 0J + ë0µ0 nt 
+9.4 
+9.5 
+d2f(z) 
+w2 
+. 
+d2f(z) 
+w2 ( 
+. y ) 
+--- +-f(z)-µ 0iwyf(z) = 0 =>---+- 1-i- f(z) = 0 
+dz2 
+c2 -
+_ 
+dzZ 
+c2 
+wE0 
+-
+d 2 f(z) 
+w 2 
+"-;2 + ,.2 n 2 f (z) = 0 
+9.6 
+Eq. caractéristique donner = +in~ => f (z) = Aei7(n'-in'?z + Be-i7(n'-in'?z 
+C 
+-
+L'OEM se propage vers les z croissants=> A = 0 
+=> f(z) = Be-i7(n'-in'')z 
+9.7 
+9.8 
+n" est lié au phénomène d'absorption 
+9.9 
+Le milieu est dispersif 
+v<p = :, ; v<p dépend de w (n'en dépend) donc 
+9.10 
+-----.~ 
+-+ 
+-+ 
+Eo 
+wn 11 z 
+Cù 
+-+ 
+rotE = -iwB => B = -(n' - in")e-c 
+exp i(wt - -n' z)uy 
+C 
+C 
+, 
+2 -z~n"z 
+et< R >= n Eoe 
+c 
+Ü 
+2cu~ 
+z 
+9.11 
+Lr 
+2 -z~n"z 
+2 
+w 
+11 
+P( ) _ 
+Eoe 
+c 
+d d 
+_ SE0 
+-2-n z _ n 
+-az 
+z -
+X y - -- e 
+C 
+-
+roe 
+2cµ 0 
+2cµo 
+s 
+Avec a = 2 ~ n" : coefficient d'absorption 
+r 
+Partie 2: 
+1.1 
+t' = t + x(t). 
+C I 
+t' + T = t + To + x(t+To) 
+C 
+T = To + x(t+To;-x(t) = To + ;'To = ( 1 + ;-) To 
+1.2 
+V= Vo ( 1 + :x: rl ~ Vo ( 1 - :x:) 
+1.3.a 
+V1 = v0 (1-;) etv2 = v0 (1 +;) 
+1.3.b 
+2u 
+!iVDoppler = V2 -
+V1 = ~Vo 
+!iVDoppler = 3,66 108 Hz 
+fiVDonvler « Vo 
+2.1 
+( 
+V) 
+vo-V 
+Cd 
+v = v0 1 -
+2 
+alors Vx = c -- et dVx = - -
+v 
+C 
+Vn 
+Vn 
+2.2 
+c ~ [ 
+MV}] 
+dl = adN = -a-N -
+exp -- dv 
+s 
+Vo 
+2rcRT 
+2RT 
+z 
+e-Vof 
+c ~ [ 
+Mc
+2 e-Vo/J 
+V. = c2 -
+alors dl = -a-N -- exp -- -
+dv 
+x 
+vo 
+s 
+Vo 
+211:RT 
+2RT 
+Vo 
+2.3 
+f(v) =dis= -a..:....N J 
+M 
+exp [-e-v0)
+2
+] et on pose donc: 
+dv 
+Vo 
+2TCRT 
+~V 
+C ~ Vo~ 
+P=-a-N -et!iv=-
+-
+Vo 
+2rrRT 
+c 
+M 
+2.4 
+/ivCTi) = 5,27 108 Hz 
+0,5 
+2 
+2,5 
+2,5 
+2,5 
+1,5 
+1 
+0,5 
+1,5 
+1 
+2 
+2 
+1 
+0,5 
+0,5 
+1 
+2 
+2xl,5 
+1 
+1 
+1 
+2+1 
+1 
+1+1 
+1 
+1+1 
+1 
+
+Llv(Tz) = 7,45 108 Hz 
+1 
+Llv « v0 : la lumière n'est émise qu'autour de v0 . L'élargissement est plus intense pour 
+1 
+les températures les plus élevées. 
+3.1 
+[M',] 
+ii 
+~X 
+[M,] 
+, 
+3 
+0 
+--),X 
+s 
+i 1 
+;: 
+--------
+,, 
+rayon 
+,, 
+incident 
+[Sp] 
+©'@ 
+[M,] 
+:. 
+3.2 
+Oui. Ces deux rayons sont obtenus par division d'amplitude d'un rayon primaire sont synchrones 
+1 
+et cohérents et peuvent donc interférer. 
+2 
+3.3 
+~.,~. 
+. 
+. 
+' 
+'X 
+[M] 
+: 
+K 
+: 
+! 
+fi_..... 
+_-...., 
+2 
+o(M) = l]K - IH = 2x cos i 
+Î"' 
+CD 
+~ 
+l (M) = ~ f 1 + cos ( 
+4:V x cos i) l 
+1 
+3.4 
+On peut diaphragmer la source et construire 
+[L0 ] 
+ensuite 
+l'image 
+du 
+diaphragme 
+par 
+Î\ 
+, 
+' 
+l'association de la lentille accolée au miroir 
+s K_--
+.. 
+-----------
+2 
+plan au même plan que l'objet, alors le 
+F 
+diaphragme se trouve au foyer objet de la 
+V 
+f. 
+Ir 
+-
+lentille (L 0 ) : méthode d'auto collimation. 
+~--------~ 
+miroir plan 
+3.5.a 
+l(F') = ~ r1 + cos (
+4:V x )l 
+2 
+3.5.b 
+x(t) = Vmt alors l(F') = ~ r 1 + cos (
+4
+rr:vm t) l 
+2 
+4.1 
+dl(F') = f(v)dv [ 1 + COS e:x V) J = /3 exp r- (v~:o) 
+21 [ 
+1 + COS ( 
+4
+:x V) J dv 
+2 
+4.2 
+J 
+J+oo 
+[ c-V l] 
++oo 
+[ (V-V /] 
+(47rX ) 
+I(F') = 
+dl(F') = f3 _00 exp -
+l1v 
+O 
+dv + f3 J_ 00 exp -
+l1v 
+O 
+cos -e-v dv 
+v-v0 
+4rrx 
+En posant z = --alors v = v0 + z. Llv et dv = Llv. dz; y= -Llv 
+f1V 
+e 
+I(F') = (3,/nLlv { 1 + exp [- 4rr
+2
+(~~)
+2
+x
+2J cos (
+4:x v 0)} 
+3 
+1 
+On doit donc poser : Le = .... :,, 
+4.3 
+V 
+1 
+x = Vm t et X = Vit =) x = ....?EX 
+Vt 
+Y(X) = Y0 [ 1 + e -G;~x/ cos ( 2rr ~)] 
+1 
+On doit donc poser : LlX = ~ 
+Le et X0 = ~..:.. 
+2V-
+2V= Vn 
+2 
+4.4 
+Le trace 1 correspond à T1 = 1000 K alors que le tracé 2 correspond à T2 = 2000 K 
+1 
+Le contraste s'affaiblit en dessous de 0,5 =) e-(:X)
+2 = ~=)X = tJXJin(2) 
+On relève sur le tracé 1 : 
+X1 == 66 mm=) !),.X1 = 79,3 mm et Lc(T) = ZVm !J.X1 == 9,5 mm et Llvcr1) = _e_ = 1010 Hz 
+1 
+1 
+Vt 
+rrLc1 
+On relève sur le tracé 2 : 
+X2 = 22 mm=:> M 2 = 26,4 mm et Lc(T) = ZVm M 2 = 3,1 mm et Llvcr2) = _c_ = 3 1010 Hz 
+1 
+2 
+V, 
+rrLr, 

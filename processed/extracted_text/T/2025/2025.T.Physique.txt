@@ -1,0 +1,2934 @@
+Concours Mathématiques – Physique & Technologie        Session Juin 2025          Epreuve de Physique          Page 1 sur 32 
+REPUBLIQUE TUNISIENNE 
+Ministère de l’Enseignement Supérieur et de la 
+Recherche Scientifique 
+ 
+ 
+Concours Nationaux d’Entrée aux Cycles de 
+Formation d’Ingénieurs  
+Session 2025 
+ 
+ 
+ 
+المناظرات الوطنية للدخول 
+إلى مراحل تكوين المهندسين 
+دورة 5
+202
+ 
+ 
+ 
+Concours 
+Mathématiques – Physique & Technologie 
+ 
+ 
+Epreuve de Physique 
+ 
+ 
+ 
+ 
+Date : 02 Juin 2025 
+Heure : 8 H00 
+Durée : 4 H 
+ 
+ 
+ Cette épreuve comporte 30 pages. 
+ Il n’est fourni au candidat qu’une seule copie qui doit être rendue à la fin de l’épreuve, même 
+sans réponses.  
+ L’usage d’une calculatrice non programmable est autorisé.  
+ L’épreuve comporte quatre parties indépendantes. 
+ Tout résultat fourni dans l’énoncé peut être admis et utilisé par la suite, même s’il n’a pas été 
+démontré par le candidat. 
+ Les résultats numériques sans unité ou avec une unité fausse ne seront pas comptabilisés. 
+ Si, au cours de l’épreuve, un candidat repère ce qui lui semble être une erreur d’énoncé, il le 
+signale sur sa copie et poursuit sa composition en expliquant les raisons des initiatives qu’il est 
+amené à prendre. 
+ Si l’espace consacré à la réponse d’une question semble insuffisant, le candidat peut utiliser 
+la feuille à la fin de l’épreuve en signalant le numéro de la question.    
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Mathématiques – Physique & Technologie        Session Juin 2025          Epreuve de Physique          Page 2 sur 32 
+Données numériques : 
+Vitesse de la lumière dans le vide : 
+1
+8
+.
+10
+.3
+
+
+s
+m
+c
+  
+Perméabilité magnétique du vide : 
+1
+7
+0
+.
+10
+.
+4
+
+
+
+m
+H
+π
+μ
+ 
+Permittivité absolue du vide : 
+2
+0
+0
+/
+1
+c
+μ
+ε 
+  
+Conductivité électrique de l’acier : 
+1
+6
+.
+10
+.6
+
+
+m
+S
+γ
+  
+Constante de Stefan : 
+4
+2
+8
+.
+.
+10
+.
+67
+,5
+
+
+
+
+K
+m
+W
+σSt
+  
+Grandeurs apparaissant dans l’équation de la chaleur, relatives à l’acier : 
+3
+.
+7850
+
+
+m
+kg
+ρ
+          ;    
+1
+1.
+.
+640
+
+
+
+K
+kg
+J
+c
+              ;    
+1
+1.
+.
+46
+
+
+
+K
+m
+W
+λ
+         
+Conventions : 
+- La grandeur complexe associée à une grandeur réelle X  est notée X . 
+- Le complexe conjugué de grandeur X  est noté 
+*
+X . 
+Formulaire : 
+0
+)
+(
+
+X
+rot
+div
+ 
+)
+sin(
+)
+cos(
+)
+cos(
+)
+sin(
+)
+sin(
+b
+a
+b
+a
+b
+a
+
+
+
+     ;      
+)
+sin(
+)
+cos(
+)
+cos(
+)
+sin(
+)
+sin(
+b
+a
+b
+a
+b
+a
+
+
+
+ 
+)
+sin(
+)
+sin(
+)
+cos(
+)
+cos(
+)
+cos(
+b
+a
+b
+a
+b
+a
+
+
+
+    ;       
+)
+sin(
+)
+sin(
+)
+cos(
+)
+cos(
+)
+cos(
+b
+a
+b
+a
+b
+a
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Mathématiques – Physique & Technologie        Session Juin 2025          Epreuve de Physique          Page 3 sur 32 
+Première Partie : Q.C.M. 
+Cocher la ou les cases correspondantes aux bonnes réponses. 
+Q1. On cherche à échantillonner le signal 
+)
+2
+sin(
+)
+(
+0 t
+fπ
+t
+s
+
+, où 
+kHz
+f
+1
+0 
+ sans perte d’information.  
+Dans quel cas le critère de Shannon est-il vérifié : 
+ La période d’échantillonnage est égale à 0,1 ms. 
+ La période d’échantillonnage est égale à 0,1 s. 
+ La fréquence d’échantillonnage est égale à 1 kHz. 
+ La fréquence d’échantillonnage est égale à 100 kHz. 
+Q2. On considère l’onde électromagnétique dans le vide de champ électrique, en notation complexe : 
+ikz
+t
+ω
+i
+y
+x
+e
+e
+u
+i
+u
+E
+E
+
+
+
+)
+(
+0
+, avec k  un réel positif. Son champ magnétique vaut : 
+ 
+)
+(
+0
+)
+(
+kz
+t
+ω
+i
+y
+x
+e
+u
+i
+u
+c
+E
+i
+B
+
+
+
+
+ 
+ 
+)
+(
+0
+)
+(
+kz
+t
+ω
+i
+x
+y
+e
+u
+i
+u
+c
+E
+B
+
+
+
+ 
+ 
+]
+)
+cos(
+)
+[sin(
+0
+y
+x
+u
+kz
+t
+u
+kz
+t
+c
+E
+B
+
+
+
+
+
+
+ 
+ 
+]
+)
+sin(
+)
+[cos(
+0
+y
+x
+u
+kz
+t
+u
+kz
+t
+c
+E
+B
+
+
+
+
+
+
+ 
+Q3. Une onde progressive plane, monochromatique, de pulsation ω  et de vecteur d’onde k , se propage 
+dans le vide dans le demi-espace 
+0
+
+x
+. Elle rencontre sous une incidence normale, un milieu 
+parfaitement conducteur occupant le demi-espace 
+0
+
+x
+. Les composantes du champ électrique de 
+l’onde incidente s’écrivent : 
+)
+cos(
+)
+cos(
+0
+0
+0
+φ
+t
+ω
+kx
+E
+t
+ω
+kx
+E
+E
+z
+y
+i
+
+
+
+
+ 
+Les composantes du champ électrique réfléchi s’écrivent : 
+ 
+)
+cos(
+)
+cos(
+0
+0
+0
+φ
+t
+ω
+kx
+E
+t
+ω
+kx
+E
+E
+z
+y
+r
+
+
+
+
+ 
+ 
+)
+cos(
+)
+cos(
+0
+0
+0
+φ
+t
+ω
+kx
+E
+t
+ω
+kx
+E
+E
+z
+y
+r
+
+
+
+
+
+
+
+
+ 
+ 
+)
+cos(
+)
+cos(
+0
+0
+0
+t
+ω
+kx
+E
+φ
+t
+ω
+kx
+E
+E
+z
+y
+r
+
+
+
+
+
+
+
+ 
+ 
+)
+cos(
+)
+cos(
+0
+0
+0
+φ
+t
+ω
+kx
+E
+φ
+t
+ω
+kx
+E
+E
+z
+y
+r
+
+
+
+
+
+
+
+ 
+Q4. On interpose un analyseur entre une source émettant une lumière polarisée elliptiquement et un 
+écran. Après un tour complet de l’analyseur, on observe sur l’écran : 
+ deux minimums d’intensité. 
+ 
+une tache lumineuse invariante.   
+ deux extinctions totales de lumière. 
+ 
+deux maximums d’intensité. 
+O 
+x
+u  
+y
+u  
+x
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Mathématiques – Physique & Technologie        Session Juin 2025          Epreuve de Physique          Page 4 sur 32 
+Q5. Un paquet d’onde est un groupe d’ondes monochromatiques qui s’étale sur une largeur spectrale 
+ν
+Δ . Ce paquet d’onde possède une largeur de cohérence 
+c.  
+Les franges d’interférence sont observables si la différence de marche : 
+ 
+c
+δ
+
+
+ 
+ 
+c
+δ
+
+
+ 
+ 
+c
+δ
+
+
+ 
+ 
+c
+δ
+
+
+ 
+Q6. Une particule quantique de masse m  est piégée dans un puits de potentiel infini de largeur L .  
+La 
+particule 
+est 
+dans 
+état 
+stationnaire 
+d’énergie, 
+caractérisé 
+par 
+la 
+fonction 
+d’onde 
+)
+/
+exp(
+)
+(
+)
+,
+(
+
+t
+iE
+x
+t
+x
+n
+n
+n
+
+
+
+
+, où 
+n
+E  désigne les niveaux d’énergie possibles de la particule, n étant un 
+nombre entier non nul :  
+ 
+1
+E
+n
+En 
+ 
+ 
+1
+2 E
+n
+En 
+ 
+ 
+2
+2
+2
+1
+2mL
+π
+E
+
+
+ 
+ 
+2
+2
+1
+2mL
+E
+
+
+ 
+Q7. L’état d’une particule quantique de masse m , d’énergie E  et de quantité de mouvement 
+x
+x
+x
+u
+k
+u
+p
+p
+
+
+
+ est représenté par la fonction d’onde 
+))
+(
+exp(
+)
+,
+(
+0
+Et
+x
+p
+i
+ψ
+t
+x
+ψ
+x 
+
+
+. 
+ La vitesse de phase 
+x
+φ
+p
+E
+v 
+ 
+ 
+La vitesse de phase 
+E
+p
+v
+x
+φ 
+ 
+ La vitesse de groupe 
+m
+E
+vg 
+ 
+ 
+La vitesse de groupe 
+m
+k
+vg
+
+
+ 
+Q8. Soit un système où les particules indépendantes occupent des états d’énergie 
+iE  et 
+i
+j
+E
+E 
+ : 
+ 
+i
+j
+B
+E
+E
+T
+k
+
+
+ : la population de l’état d’énergie 
+j
+E  est négligeable par rapport à celle de
+iE . 
+ 
+i
+j
+B
+E
+E
+T
+k
+
+
+ : la population de l’état d’énergie 
+iE  est négligeable par rapport à celle de
+j
+E . 
+ 
+i
+j
+B
+E
+E
+T
+k
+
+
+ : la population de l’état d’énergie 
+iE  est beaucoup plus grande que celle de 
+j
+E . 
+ 
+i
+j
+B
+E
+E
+T
+k
+
+
+ : les populations de deux états 
+iE  et 
+j
+E  sont égales. 
+Q9. Pour un système composé de N particules indépendantes pouvant occuper deux états d’énergie 
+ε
+E
+
+
+1
+ et 
+ε
+E 
+2
+, l’énergie moyenne du système est donnée par :  
+ 
+
+
+
+
+
+
+
+T
+k
+N
+B
+
+tanh
+ 
+ 
+
+
+
+
+
+
+
+T
+k
+N
+N
+B
+
+
+tanh
+ 
+ 
+
+
+
+
+
+
+
+T
+k
+N
+N
+B
+
+tanh
+ 
+ 
+
+
+
+
+
+
+
+T
+k
+N
+B
+
+tanh
+ 
+Q10. La capacité thermique molaire d’un solide dans le modèle d’Einstein classique à haute 
+température est : 
+ 
+R
+Cvm
+2
+5
+
+ 
+ 
+R
+Cvm
+2
+7
+
+ 
+ 
+R
+Cvm
+3
+
+ 
+ 
+nR
+Cvm
+3
+
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Mathématiques – Physique & Technologie        Session Juin 2025          Epreuve de Physique          Page 5 sur 32 
+Deuxième Partie : Chauffage par induction d'une plaque 
+La trempe de l’acier, qui consiste en un chauffage suivi d’un refroidissement rapide d’une plaque 
+d’acier, assure l’augmentation de la dureté en surface de la plaque.  
+Un milieu conducteur en acier de conductivité électrique γ   s’étend dans le demi-espace 
+0
+
+z
+.  
+A l’extérieur du conducteur, le champ magnétique est uniforme et varia sinusoïdalement dans le temps : 
+y
+u
+t
+ω
+B
+B
+)
+cos(
+0
+
+  (Figure 1). 
+Figure 1 
+I. Propriétés des champs dans le conducteur 
+Q11. Écrire les quatre équations de Maxwell dans ce conducteur ohmique. On ne fera intervenir que la 
+densité de courant volumique 
+)
+,
+(
+t
+M
+j
+, le champ magnétique 
+)
+,
+(
+t
+M
+B
+, la densité volumique de charge 
+)
+,
+(
+t
+M
+ρ
+ et les constantes c , 
+0
+μ  et γ . 
+ 
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Mathématiques – Physique & Technologie        Session Juin 2025          Epreuve de Physique          Page 6 sur 32 
+Q12. On se place en régime sinusoïdal, on associe alors à toute grandeur dépendant du temps un 
+complexe en 
+)
+exp(
+t
+ω
+i
+.  
+Réécrire les équations de Maxwell entre 
+)
+,
+(
+t
+M
+j
+, 
+)
+,
+(
+t
+M
+B
+ et 
+)
+,
+(
+t
+M
+ρ
+ en simplifiant les dérivées 
+partielles par rapport au temps. 
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+Q13. Justifier que 
+)
+,
+(
+t
+M
+ρ
+ est nulle. 
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+Q14. En partant des équations écrites précédemment, trouver à quelle condition on peut négliger le 
+courant de déplacement devant le courant de conduction ?  Montrer que la condition peut s’écrire sous 
+la forme 
+1
+
+ωτ
+.  
+Donner l’expression de τ  et son unité. Calculer sa valeur numérique. Vérifier que l’approximation 
+proposée est valable si la fréquence du champ utilisée est inférieure au MHz. 
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Mathématiques – Physique & Technologie        Session Juin 2025          Epreuve de Physique          Page 7 sur 32 
+ 
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+Dans la suite du problème, on prendra 
+0
+)
+,
+(
+
+t
+M
+ρ
+ dans le milieu conducteur et on suppose que le 
+courant de déplacement est négligeable devant le courant de conduction. 
+Q15. Écrire les équations de Maxwell entre 
+)
+,
+(
+t
+M
+j
+ et 
+)
+,
+(
+t
+M
+B
+. 
+Justifier qu’il n’y a plus que deux équations de Maxwell indépendantes et donner leurs noms. 
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Mathématiques – Physique & Technologie        Session Juin 2025          Epreuve de Physique          Page 8 sur 32 
+Q16. On cherche dans le conducteur une solution de ces équations de la forme :  
+y
+y
+u
+z
+k
+t
+ω
+i
+B
+u
+t
+z
+B
+t
+z
+B
+)
+(
+exp
+'
+)
+,
+(
+)
+,
+(
+0
+
+
+
+ 
+où 
+'
+0
+B  et k  peuvent être complexes. 
+Déterminer la forme que doit alors prendre la densité de courant 
+)
+,
+(
+t
+z
+j
+ en fonction de k , 
+)
+,
+(
+t
+z
+B
+ et 
+0
+μ . 
+Établir alors l’expression de 
+2
+k  en fonction de 
+0
+μ , γ  et ω . 
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+II. Cas du conducteur infini 
+Le conducteur occupe tout le demi-espace 
+0
+
+z
+  (Figure 1). 
+Détermination de B et j  
+Q17. Déterminer les deux expressions possibles de k . Justifier le choix 
+δ
+i
+k
+
+1
+, avec δ  est une 
+grandeur dont on donnera l’expression en fonction de 
+0
+μ , γ  et ω .  
+Donner pour k  une seconde expression en utilisant la notation exponentielle.  
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Mathématiques – Physique & Technologie        Session Juin 2025          Epreuve de Physique          Page 9 sur 32 
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+Q18. Rappeler la relation de passage pour B  en 
+0
+
+z
+. Montrer que 
+0
+0'
+B
+B 
+. 
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Mathématiques – Physique & Technologie        Session Juin 2025          Epreuve de Physique          Page 10 sur 32 
+Q19. Établir les expressions réelles 
+)
+,
+(
+t
+z
+B
+ et 
+)
+,
+(
+t
+z
+j
+ (utiliser la notation δ  pour exprimer ces résultats). 
+L’une des grandeurs est en cosinus et l’autre fait intervenir un sinus. 
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+ 
+Q20. Préciser l’unité de δ . Quel nom donne-t-on à cette grandeur ? Justifier cette nomination. 
+ 
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+Q21. Application numérique : calculer δ  pour le conducteur considéré aux fréquences 
+Hz
+f
+100
+1 
+  
+et 
+kHz
+f
+125
+2 
+. Conclure. 
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Mathématiques – Physique & Technologie        Session Juin 2025          Epreuve de Physique          Page 11 sur 32 
+Détermination de la puissance surfacique reçue 
+Q22. Donner l’expression de la puissance volumique 
+τ
+d
+dPJ  cédée par effet Joule au conducteur. 
+Déterminer sa valeur moyenne temporelle.  
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+Q23. Exprimer alors la puissance moyenne temporelle 
+JP  cédée par effet Joule à un cylindre d’axe 
+parallèle à Oz, de longueur infinie et de section S, découpé dans le conducteur. 
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+Q24. En déduire la puissance thermique moyenne 
+0
+ reçue par unité de surface du conducteur.  
+On écrira le résultat sous la forme 
+
+
+
+2
+0
+0
+B
+Ks
+
+ et l’on précisera l’expression de 
+s
+K . 
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+Q25. Déterminer la valeur moyenne temporelle du vecteur de Poynting 
+)
+,
+0
+(
+t
+z
+π
+
+
+.  
+Comparer son module à 
+0
+φ . Commenter. 
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Mathématiques – Physique & Technologie        Session Juin 2025          Epreuve de Physique          Page 12 sur 32 
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+Q26. Application numérique : calculer 
+0
+ pour la fréquence 
+kHz
+f
+125
+2 
+ et un champ magnétique 
+extérieur d’amplitude 
+T
+B
+5,0
+0 
+. 
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+Autre méthode de détermination de la puissance surfacique reçue 
+ 
+Q27. Quel est le courant élémentaire 
+I
+d  qui 
+traverse un rectangle élémentaire (Figure 2) 
+parallèle au plan yOz, de côtés élémentaires dy  
+et dz , orienté selon 
+x
+u ? (On exprimera le 
+résultat en fonction de k , 
+)
+,
+(
+t
+z
+B
+ et 
+0
+μ ) . 
+ 
+ 
+Figure 2 
+ 
+………………………………………………………………………………………………………………………………………………………………… 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Mathématiques – Physique & Technologie        Session Juin 2025          Epreuve de Physique          Page 13 sur 32 
+Q28. Déterminer le courant total 
+)
+exp(
+0
+t
+ω
+i
+I
+I 
+ qui traverse un ruban de largeur 
+
+
+y
+Δ
+ s’étendant sur 
+toute la profondeur du conducteur (
+
+
+z
+Δ
+). Exprimer 
+0I  en fonction de 
+0
+μ ,  et 
+0
+B . 
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+Q29. On n’envisage ici que le cas où ce même courant 
+)
+exp(
+0
+t
+ω
+i
+I
+I 
+ serait uniformément réparti sur 
+une épaisseur δ . 
+Quelle serait alors l’expression de la densité volumique de courant 
+)
+exp(
+'
+'
+0
+t
+ω
+i
+j
+j 
+, le courant étant nul 
+en tout point en dehors de la couche d’épaisseur δ  ? 
+Exprimer 
+'
+0
+
+, la puissance thermique moyenne cédée par effet joule au conducteur par unité de surface 
+dans le cadre de cette hypothèse. Comparer 
+'
+0
+
+ et 
+0
+. Commenter. 
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Mathématiques – Physique & Technologie        Session Juin 2025          Epreuve de Physique          Page 14 sur 32 
+III. Plaque conductrice d’épaisseur finie 
+Le conducteur est maintenant compris entre les deux plans 
+0
+
+z
+ et 
+a
+z
+2
+
+. Il est d’extension infinie 
+dans les directions Ox et Oy. A l’extérieur, de part et d’autre de la plaque, le champ magnétique s’écrit 
+toujours 
+y
+u
+t
+ω
+B
+B
+)
+cos(
+0
+
+. 
+Détermination de B 
+Q30. Montrer que 
+)
+,
+(
+t
+z
+B
+ dans la plaque peut maintenant s’écrire sous la forme : 
+
+
+y
+u
+t
+ω
+i
+z
+k
+D
+z
+k
+C
+t
+z
+B
+)
+exp(
+)
+exp(
+)
+exp(
+)
+,
+(
+0
+0
+
+
+
+, avec 
+δ
+i
+k
+
+1
+0
+. 
+ 
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+Q31. Préciser les nouvelles conditions aux limites. 
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+Q32. Après calculs, on trouve pour le champ magnétique dans le conducteur l’expression suivante :  
+y
+u
+t
+ω
+i
+a
+k
+ch
+a
+z
+k
+ch
+B
+t
+z
+B
+)
+exp(
+]
+[
+)]
+(
+[
+)
+,
+(
+0
+0
+0
+
+
+ 
+La fonction 
+)
+(u
+ch
+ étant définie de manière usuelle par 
+
+
+u
+u
+e
+e
+u
+ch
+
+
+2
+1
+)
+(
+.  
+Montrer que cette expression de 
+)
+,
+(
+t
+z
+B
+ vérifie les conditions aux limites. 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Mathématiques – Physique & Technologie        Session Juin 2025          Epreuve de Physique          Page 15 sur 32 
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+Détermination de j 
+Q33. En utilisant l’équation de Maxwell appropriée, déduire l’expression de vecteur densité de courant 
+volumique 
+)
+,
+(
+t
+z
+j
+. 
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+Q34. La plaque conductrice étudiée a pour épaisseur a
+2 , avec ici 
+δ
+a 
+2
+, ce qui revient à écrire 
+1
+0
+
+a
+k
+. Justifier que l’on peut aussi écrire 
+1
+)
+(
+0
+
+a
+z
+k
+ et en déduire l’expression approchée de 
+)
+,
+(
+t
+z
+j
+ au premier ordre non nul en 
+δ
+/
+1
+. 
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Mathématiques – Physique & Technologie        Session Juin 2025          Epreuve de Physique          Page 16 sur 32 
+Détermination de la puissance volumique moyenne reçue 
+35. Déterminer la puissance moyenne temporelle 
+JP  cédée par effet Joule dans la portion de plaque de 
+section S et d’épaisseur a
+2 . (On peut utiliser 
+2
+.
+*
+2
+j
+j
+j
+
+ , puis intégrer la puissance volumique sur tout 
+le volume de la portion considérée). 
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+ 
+Q36. Déterminer la puissance volumique moyenne 
+Vp . On écrira le résultat sous la forme 
+2
+2
+0 δ
+ω
+B
+K
+p
+V
+V 
+ et l’on précisera l’expression de 
+V
+K . 
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+Q37. Calculer 
+Vp  pour 
+Hz
+f
+100
+
+ et pour un champ magnétique extérieur d’amplitude 
+T
+B
+5,2
+0 
+, 
+lorsque la largeur de la plaque d’acier est 
+mm
+a
+3
+2 
+. 
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Mathématiques – Physique & Technologie        Session Juin 2025          Epreuve de Physique          Page 17 sur 32 
+Troisième Partie : traitement thermique de la plaque 
+I. Temps caractéristiques des échanges 
+Pour une plaque chauffée en contact avec l’air extérieur, peuvent se développer trois types d’échanges 
+thermiques : 
+ La conduction. 
+ Les échanges conducto-convectifs. 
+ Le rayonnement. 
+Loi de Fourier 
+En absence des autres types d’échanges thermiques, la conduction obéit à l’équation de la chaleur
+V
+p
+T
+t
+T
+c
+
+
+
+
+
+
+
+. 
+Q38. Que représentent les grandeurs ρ , c , λ  et 
+Vp  dans l’équation de la chaleur ? 
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+Q39. Déterminer la dimension du coefficient D  de diffusivité thermique (
+c
+ρ
+λ
+D 
+). 
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+ 
+Q40. En déduire une durée caractéristique 
+F
+τ  pour la diffusion sur une longueur égale à a
+2  en fonction 
+de D  et a  puis en fonction de ρ , c , λ  et a . 
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Mathématiques – Physique & Technologie        Session Juin 2025          Epreuve de Physique          Page 18 sur 32 
+Loi de Newton 
+L’échange thermique par conducto-convection obéit à la loi de Newton : 
+
+
+ext
+T
+T
+h
+
+
+int
+
+. 
+Q41. Que représente  dans la loi de Newton ? Dans quel sens l’échange modélisé par cette loi 
+s’effectue-t-il ? 
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+On considère une barre cylindrique de surface de base S  et d’épaisseur a
+2  à la température initiale 
+0T , 
+plongée dans un milieu de température 
+aT  avec lequel elle échange de l’énergie uniquement par 
+transfert conducto-convectif caractérisé par h.  
+La surface d’échange est S  (le reste de la barre est supposé isolé). A chaque instant la barre est 
+considérée comme isotherme à la température 
+)
+(t
+T
+. 
+Q42. Établir l’équation différentielle vérifiée par 
+)
+(t
+T
+. 
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+Q43. En déduire alors un temps caractéristique 
+N
+τ  pour une épaisseur égale à a
+2  en fonction de ρ , c , 
+h   et a . 
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+Loi de Stefan 
+On considère une barre cylindrique de surface de base S  et d’épaisseur a
+2  à la température initiale 
+0T , 
+plongée dans un milieu de température 
+aT . Elle échange de l’énergie uniquement par transfert radiatif 
+qui obéit à la loi de Stefan : 
+4
+T
+St
+
+
+.  
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Mathématiques – Physique & Technologie        Session Juin 2025          Epreuve de Physique          Page 19 sur 32 
+La surface d’échange est S . La barre et l’extérieur rayonnent tous deux selon la loi de Stefan.  
+A chaque instant la barre est considérée comme isotherme à la température 
+)
+(t
+T
+. 
+Q44. Établir l’équation différentielle pour 
+)
+(t
+T
+. 
+……………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………………………………………………… 
+Q45. On suppose que T  est proche de 
+aT . En déduire que le temps caractéristique 
+Sτ  pour les échanges 
+radiatifs pour une épaisseur égale à a
+2  s’écrit : 
+3
+2
+a
+St
+S
+T
+σ
+a
+c
+ρ
+τ 
+ 
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+Q46. Applications numériques : compléter les tableaux suivants : 
+Données supplémentaires : 
+C
+Ta
+
+700
+     ;      Pour les transferts conducto-convectifs acier-air : 
+1
+2.
+.
+10
+
+
+
+K
+m
+W
+h
+. 
+Expérience n°1 
+mm
+a
+3
+2 
+ 
+.
+........
+..........
+
+F
+
+  
+.........
+..........
+
+N
+τ
+  
+.........
+..........
+
+Sτ
+ 
+ 
+Expérience n°2 
+mm
+a
+20
+2 
+ 
+.
+........
+..........
+
+F
+
+  
+.........
+..........
+
+N
+τ
+  
+.........
+..........
+
+Sτ
+  
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Mathématiques – Physique & Technologie        Session Juin 2025          Epreuve de Physique          Page 20 sur 32 
+Q47. Quel est 1e type de transfert qui prédomine dans l’acier ? 
+ 
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+Pour la suite, afin de simplifier le modèle étudié, on ne tient plus compte du rayonnement mais on prend 
+pour h  la valeur numérique : 
+1
+2.
+.
+30
+
+
+
+K
+m
+W
+h
+. 
+II. Chauffage de la plaque 
+Une plaque conductrice en acier d’épaisseur a
+2  (comprise entre les plans 
+0
+
+z
+ et 
+a
+z
+2
+
+) est soumise 
+pendant une durée déterminée à un champ magnétique variable de pulsation ω  (avec 
+fπ
+ω
+2
+
+).  
+Les courants qui se développent au sein de la plaque engendrent un échauffement par effet Joule qui 
+sera décrite comme suit : 
+ Si la plaque est de faible épaisseur (
+mm
+a
+3
+2 
+), elle s’échauffera sous l’effet d’une puissance 
+volumique calorifique uniformément répartie en son volume 
+2
+2
+0 δ
+ω
+B
+K
+p
+V
+V 
+, avec 
+6,0
+
+V
+K
+ 
+(dans les unités S.I); 
+T
+B
+5,2
+0 
+, 
+Hz
+f
+100
+
+ et 
+mm
+δ
+5,
+20
+
+. 
+ Si la plaque est de grande épaisseur (
+mm
+a
+20
+2 
+), la chaleur est produite au niveau de la 
+surface, de part et d’autre de la plaque en  
+0
+
+z
+ et 
+a
+z
+2
+
+.  La puissance thermique par unité de 
+surface s’écrivant 
+
+
+
+2
+0
+0
+B
+KS
+
+ avec 
+6
+10
+.2,0
+
+S
+K
+ (dans les unités S.I.) ; 
+T
+B
+5,0
+0 
+, 
+kHz
+f
+125
+
+ et 
+mm
+δ
+58
+,0
+
+. 
+Expérience n°1 : chauffage d’une plaque mince 
+La Figure 3 schématise l’installation permettant le chauffage de la plaque d’acier d’épaisseur a
+2  et de 
+surface S  (de volume 
+aS
+2
+), défilant à vitesse constante entre deux inducteurs fixes et parallèles à la 
+plaque. 
+ 
+Figure 3 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Mathématiques – Physique & Technologie        Session Juin 2025          Epreuve de Physique          Page 21 sur 32 
+Q48. Exprimer la puissance thermique totale 
+TP  créée au sein de la plaque par les inducteurs en 
+fonction de 
+Vp , S  et a . 
+………………………………………………………………………………………………………………………………………………………………… 
+A chaque instant la température est uniforme au sein de la plaque. La plaque glisse entre les deux 
+inducteurs qui provoquent son échauffement, elle est entourée d’air à la température uniforme  
+et constante 
+C
+Ta
+
+700
+. 
+Q49. Effectuer un bilan d’énergie pour toute la plaque pendant dt  (en négligeant la surface latérale par 
+rapport aux surfaces de bases).  
+En déduire l’équation différentielle vérifiée par 
+)
+(t
+T
+ en faisant apparaitre une constante de temps. 
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+Q50. Résoudre cette équation. La plaque étant initialement à la température 
+aT . 
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………………………………………………
+……………………………………………………………………………………………………………………………………………………………….… 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Mathématiques – Physique & Technologie        Session Juin 2025          Epreuve de Physique          Page 22 sur 32 
+Q51. Déterminer l’élévation limite de température que peut provoquer ce procédé. Application 
+numérique.  
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+Q52. Combien de temps faut-il pour atteindre une température de 
+C
+
+910
+? 
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+Expérience n°2 : chauffage d’une plaque épaisse 
+Tout effet thermique autre que la diffusion est ici négligé. On étudie uniquement l’échauffement de la 
+paroi située en 
+0
+
+z
+ (on ne tient pas compte du phénomène identique se produisant au niveau de la 
+paroi 
+a
+z
+2
+
+.  
+La plaque est considérée comme un conducteur thermique semi-infini occupant tout le demi-espace 
+0
+
+z
+ et recevant de l’extérieur un flux surfacique constant 
+0φ  à travers sa paroi (
+0
+
+z
+). L’extérieur est 
+toujours constitué d’air à la température 
+C
+Ta
+
+700
+ qui est aussi la température initiale de la plaque. 
+Q53. Quelle est la grandeur qui, au sein du conducteur, indique la valeur de la densité de flux  
+thermique ? Quelle en est l’expression ? 
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Mathématiques – Physique & Technologie        Session Juin 2025          Epreuve de Physique          Page 23 sur 32 
+Q54. Écrire l’équation vérifiée par 
+aT
+t
+z
+T
+t
+z
+θ
+
+
+)
+,
+(
+)
+,
+(
+ dans le conducteur (en faisant apparaître la 
+diffusivité thermique D ). 
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+Q55. Établir la condition aux limites vérifiée pour 
+)
+,
+(
+t
+z
+θ
+ imposée par le flux en 
+0
+
+z
+. 
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+Q56. La résolution de cette équation repose sur les fonctions suivantes : 
+ν
+d
+e
+π
+u
+f
+u
+ν
+
+
+
+
+2
+2
+)
+(
+    (avec 
+2
+2
+)
+(
+u
+e
+π
+u
+f
+du
+d
+
+
+
+ et 
+1
+)
+0
+(
+
+f
+) 
+)
+(
+.
+1
+)
+(
+)
+(
+2
+u
+f
+u
+e
+π
+ν
+d
+ν
+f
+u
+g
+u
+u
+
+
+
+
+
+
+    (avec
+)
+(
+)
+(
+u
+f
+u
+g
+du
+d
+
+
+) 
+Toutes ces fonctions décroissent exponentiellement quand u tend vers l’infini. 
+La solution de l’équation de la chaleur, dans les conditions de l’expérience, s’écrit : 
+)
+2
+(
+.
+)
+,
+(
+)
+,
+(
+t
+D
+z
+g
+t
+D
+A
+T
+t
+z
+T
+t
+z
+θ
+a 
+
+
+ 
+où  A  est une constante. Exprimer A  en fonction de 
+0
+ et λ  puis donner sa valeur numérique et son 
+unité. 
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Mathématiques – Physique & Technologie        Session Juin 2025          Epreuve de Physique          Page 24 sur 32 
+ 
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+Q57. Calculer 
+)
+0
+(
+g
+ et en déduire la température de surface de la plaque en fonction du temps et de 
+0
+. 
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+Q58. Evaluer la durée maximale d’exposition de la plaque au champ magnétique, sachant que la 
+température de l’air est 
+C
+Ta
+
+27
+ et que la plaque ne doit pas atteindre son point de  
+fusion (
+C
+
+1536
+). 
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+Quatrième Partie : Etude de l’effet Zeeman avec un interféromètre de Michelson 
+Dans le modèle de Thomson de l’atome d’hydrogène, le mouvement de l’électron en l’absence de 
+champ extérieur est celui d’un oscillateur harmonique de pulsation 
+0
+ω  sous l’action de la force de 
+rappel.  
+Si on considère une situation où l’atome est placé dans un champ magnétique uniforme constant 
+0
+B , 
+l’électron subit en plus une force magnétique.  
+Le rayonnement de l’atome change, c’est l’effet Zeeman. 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Mathématiques – Physique & Technologie        Session Juin 2025          Epreuve de Physique          Page 25 sur 32 
+I. Interféromètre de Michelson 
+L’interféromètre est constitué d’une lame semi réfléchissante 
+(séparatrice SP) et de deux miroirs plans M1 et M2 
+perpendiculaires l’un à l’autre. La lame SP est inclinée de 45° 
+par rapport aux normales à M1 et M2.  
+L’interféromètre est plongé dans l’air.  
+On ne tiendra compte, ni des inconvénients liés à l'épaisseur 
+non négligeable de la séparatrice (qui sont supposés 
+parfaitement corrigés grâce à une lame compensatrice), ni 
+d’éventuels changements de phase par réflexion. L’indice de 
+l’air sera pris égal à 1.  
+On utilise comme source étendue une lampe spectrale  
+de symétrie de révolution autour de l’axe SO parallèle à  
+l’axe Ox.  
+On observe en lumière monochromatique dans le plan focal 
+d’une lentille mince convergente L d’axe optique Oy et de 
+distance focale 
+m
+f
+1
+'
+. 
+ 
+Figure 4 
+Q59. On part de la situation où les deux bras sont égaux (
+2
+1
+OA
+OA 
+). Qu’observe-t-on ? 
+………………………………………………………………………………………………………………………………………………………………… 
+Q60. On déplace M2 normalement à son plan d’une distance 
+mm
+e
+050
+,1
+
+ dans la direction des x
+positifs. 
+Montrer, à l’aide d’un schéma indiquant les trajets des deux rayons qui interfèrent en sortie, que le 
+phénomène d’interférence observé est analogue à celui d’une lame d’air à faces parallèles. 
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Mathématiques – Physique & Technologie        Session Juin 2025          Epreuve de Physique          Page 26 sur 32 
+Q61. Déterminer la différence de marche, ainsi que le rayon du premier anneau brillant correspondant à 
+une raie incidente de longueur d’onde 
+nm
+λ
+1,
+434
+0 
+. 
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+II. Raie quasi-monochromatique 
+La source primaire est maintenant une lampe à hydrogène. A l’aide d’un filtre interférentiel on 
+sélectionne la radiation de longueur d’onde 
+0λ . 
+Cette radiation n’est pas rigoureusement monochromatique, on admet que l’intensité lumineuse 
+spectrale émise 
+)
+(ν
+Iν
+ est constante (égale à 
+ν
+I
+Δ
+0 ) entre 
+2
+/
+0
+1
+
+
+
+
+
+
+ et 
+2
+/
+0
+2
+
+
+
+
+
+
+, où 
+0ν  est la 
+fréquence centrale de la raie (Figure 5). 
+Figure 5 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Mathématiques – Physique & Technologie        Session Juin 2025          Epreuve de Physique          Page 27 sur 32 
+Q62. Déterminer l’intensité lumineuse détectée 
+)
+(e
+I
+ au foyer F' de la lentille pour une distance 
+1
+2
+OA
+OA
+e
+
+
+. On notera 
+max
+I
+ l’intensité pour 
+0
+
+e
+. 
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+Q63. On enregistre 
+)
+(e
+I
+ en fonction du déplacement e  à l’aide d’un photomultiplicateur. 
+Déterminer le facteur de visibilité V  des franges d’interférence en fonction de la distance e , de 
+ν
+Δ   
+et de la vitesse de la lumière dans le vide c . (On définit V  par la relation 
+min
+max
+min
+max
+I
+I
+I
+I
+V
+
+
+
+, où 
+max
+I
+ étant 
+l’intensité maximale et 
+min
+I
+l’intensité minimale). 
+ Pour quelle valeur de e , le facteur de visibilité V  s’annule-t-il pour la première fois ? 
+ Donner l’allure de la courbe d’enregistrement obtenue. 
+ Montrer alors que l’on peut déterminer la longueur de cohérence 
+ν
+c
+Lc
+Δ
+/
+
+ de la radiation. 
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Mathématiques – Physique & Technologie        Session Juin 2025          Epreuve de Physique          Page 28 sur 32 
+III. Intensité en présence de l’effet Zeeman 
+ 
+On soumet maintenant la lampe à hydrogène à un 
+champ magnétique intense et on sélectionne à l’aide 
+d’un filtre interférentiel les radiations de fréquence 
+ν
+ν
+ν
+Δ
+0
+1
+
+
+ et 
+ν
+ν
+ν
+Δ
+0
+2
+
+
+ dues à l’effet Zeeman.  
+Pour simplifier, on admettra que les deux raies ont la 
+même intensité d’émission 
+0I  et qu’elles sont 
+rigoureusement monochromatiques (Figure 6). 
+ 
+Figure 6 
+Q64. Déterminer l’intensité 
+)
+(e
+I
+ au foyer F' de la lentille en fonction du déplacement 
+1
+2
+OA
+OA
+e
+
+
+. 
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+Q65. Tracer l’allure de la courbe 
+)
+(e
+I
+. En déduire l’expression de ν
+Δ . 
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Mathématiques – Physique & Technologie        Session Juin 2025          Epreuve de Physique          Page 29 sur 32 
+IV. Détection par un photomultiplicateur 
+Le photomultiplicateur placé au foyer de la lentille dans le montage du Michelson transforme le flux 
+lumineux qu’il reçoit en un signal électrique. Un système de traitement du signal permet la 
+détermination des fréquences 
+0ν  et ν
+Δ .  
+Du point de vue électrique, le photomultiplicateur (noté PM sur la Figure 7) se comporte comme une 
+source idéale de courant 
+)
+(t
+i
+ en parallèle avec un condensateur de capacité 
+F
+C
+12
+0
+10
+.
+15
+
+
+. 
+Afin de prélever une tension 
+)
+(t
+u
+ proportionnelle à ce courant, on charge le photomultiplicateur par une 
+résistance 
+Ω
+50
+
+r
+. 
+ 
+Figure 7 
+ 
+Q66. On étudie la réponse de ce système à un échelon de courant : la source idéale de courant délivre 
+une intensité 
+0I  constante à partir de l’instant 
+0
+
+t
+. 
+ Établir l’équation différentielle vérifiée par 
+)
+(t
+u
+. 
+ Résoudre cette équation en considérant la condition initiale 
+0
+)
+0
+(
+
+u
+ et évaluer 
+Rt
+ (exprimé en 
+ns), le temps de réponse à 
+%
+5
+ du photomultiplicateur (temps que met le système pour atteindre 
+le régime définitif à 
+%
+5
+ près). 
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Mathématiques – Physique & Technologie        Session Juin 2025          Epreuve de Physique          Page 30 sur 32 
+Q67. Le chariot du Michelson se déplace à une vitesse constante V  telle que :  
+t
+V
+OA
+OA
+t
+e
+
+
+
+
+1
+2
+)
+(
+ 
+La source de courant délivre un courant 
+)
+(t
+i
+ proportionnel à l’intensité lumineuse 
+)
+(t
+I
+ que le détecteur 
+reçoit. 
+Montrer que pour des temps d’évolution très supérieurs à 
+Rt , la tension 
+)
+(t
+u
+ reproduit fidèlement les 
+variations de l’intensité. 
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+Q68. Le système de traitement du signal (n’est pas étudié ici) montre qu’entre deux annulations du 
+contraste, le nombre de maximums est 
+4464
+
+N
+ correspondant à un déplacement 
+mm
+e
+2721
+,0
+Δ 
+. 
+Calculer les valeurs des fréquences 
+0ν  et ν
+Δ . 
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+Q69. Quel est l’ordre de grandeur de la vitesse de chariotage permettant de détecter les différents 
+maximums ?  
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+ 
+Fin de l’épreuve 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Mathématiques – Physique & Technologie        Session Juin 2025          Epreuve de Physique          Page 31 sur 32 
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Mathématiques – Physique & Technologie        Session Juin 2025          Epreuve de Physique          Page 32 sur 32 
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+…………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………….……………… 
+………………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………………… 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+BIB-IPEIS
+BIB-IPEIS
+
+BIB-IPEIS
+BIB-IPEIS
+
+BIB-IPEIS
+BIB-IPEIS
+
+BIB-IPEIS
+BIB-IPEIS
+
+BIB-IPEIS
+BIB-IPEIS
+
+BIB-IPEIS
+BIB-IPEIS
+
+BIB-IPEIS
+BIB-IPEIS
+
+BIB-IPEIS
+BIB-IPEIS
+
+BIB-IPEIS
+BIB-IPEIS
+
+BIB-IPEIS
+BIB-IPEIS
+
+BIB-IPEIS
+BIB-IPEIS
+
+BIB-IPEIS
+BIB-IPEIS
+
+BIB-IPEIS
+BIB-IPEIS
+
+BIB-IPEIS
+BIB-IPEIS
+
+BIB-IPEIS
+BIB-IPEIS
+
+BIB-IPEIS
+BIB-IPEIS
+
+BIB-IPEIS
+BIB-IPEIS
+
+BIB-IPEIS
+BIB-IPEIS
+
+BIB-IPEIS
+BIB-IPEIS
+
+BIB-IPEIS
+BIB-IPEIS
+
+BIB-IPEIS
+BIB-IPEIS
+
+BIB-IPEIS
+BIB-IPEIS
+
+BIB-IPEIS
+BIB-IPEIS
+
+BIB-IPEIS
+BIB-IPEIS
+
+BIB-IPEIS
+BIB-IPEIS
+
+BIB-IPEIS
+BIB-IPEIS
+
+BIB-IPEIS
+BIB-IPEIS
+
+BIB-IPEIS
+BIB-IPEIS
+
+BIB-IPEIS
+BIB-IPEIS

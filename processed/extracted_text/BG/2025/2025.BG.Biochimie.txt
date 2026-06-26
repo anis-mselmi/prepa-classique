@@ -1,0 +1,996 @@
+Concours Biologie et Géologie - Session Juin 2025 
+Epreuve de Biochimie, Biologie Cellulaire & Génétique 
+Page 1/17 
+ 
+ 
+REPUBLIQUE TUNISIENNE 
+Ministère de l'Enseignement Supérieur  
+et de la Recherche Scientifique  
+ 
+Concours Nationaux d’Entrée aux 
+Cycles de Formation d’Ingénieurs 
+Session 2025 
+ 
+ 
+ 
+ 
+Concours Biologie & Géologie 
+Epreuve de Biochimie, Biologie Cellulaire & Génétique 
+ 
+Date : Jeudi 29 Mai 2025 
+     Heure : 8 H 
+    Durée : 2 H 
+Nb pages : 17 
+ 
+ 
+ Lire attentivement les énoncés des épreuves de Biochimie et de Génétique (17 pages) 
+ Répondre directement sur le cahier réponses. 
+ L’utilisation de la calculatrice est autorisée. 
+ Aucun échange entre candidats n’est autorisé  
+ Les questions de Biochimie sont numérotées de B.1. à B.19. et les questions de Génétique sont 
+numérotées de G.1. à G.16.  
+ Pour un résultat exprimé avec des unités, il faut mettre la valeur avec l’unité. En d’autres termes, si 
+vous ne mettez pas les unités quand c’est nécessaire, même si la valeur est correcte, les points ne 
+seront pas accordés. 
+ 
+ 
+المناظرات الوطنية للدخول  
+إلى مراحل تكوين المهندسين  
+ دورة 2025
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie et Géologie - Session Juin 2025 
+Epreuve de Biochimie, Biologie Cellulaire & Génétique 
+Page 2/17 
+ 
+ 
+EPREUVE DE BIOCHIMIE 
+ 
+EXERCICE I : 
+ 
+Les alpha amylases sont des enzymes couramment utilisées en industries agroalimentaires.  
+On procède à la caractérisation des paramètres cinétiques d’une alpha-amylase isolée à partir d’une 
+bactérie dans des conditions croissantes de substrat, l’amidon (mM), en l’absence ou en présence d’un 
+inhibiteur, la phaséolamine. La vitesse initiale est exprimée en mM/s. 
+ 
+B1. Quelle condition expérimentale primordiale doit remplir la concentration en substrat pour mesurer 
+l'activité enzymatique ?  
+ 
+ 
+ 
+ 
+ 
+ 
+B2. Quelle conséquence a cette condition expérimentale sur la production de produit en début de la 
+réaction? Comment appelle-t-on l'état qui s'établit dans ces conditions ? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B3. Définir la constante de Michaelis d’une enzyme. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B4. Définir la vitesse maximale d’une enzyme. 
+ 
+ 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie et Géologie - Session Juin 2025 
+Epreuve de Biochimie, Biologie Cellulaire & Génétique 
+Page 3/17 
+ 
+ 
+ 
+ 
+ 
+ 
+Les résultats sont présentés dans le graphe suivant de Lineweaver et Burk, en l’absence ou en 
+présence de l’Inhibiteur (0.1 mM). 
+ 
+Dans une première série d’expériences, on considère le tracé en absence de l’inhibiteur. 
+  
+B5. Est-ce que cette enzyme obéit à une cinétique de Michaelis-Menten ? Justifier la réponse en vous 
+basant sur la forme mathématique de l'équation de Michaelis-Menten et sa transformation en équation 
+de Lineweaver-Burk. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie et Géologie - Session Juin 2025 
+Epreuve de Biochimie, Biologie Cellulaire & Génétique 
+Page 4/17 
+ 
+ 
+ 
+ 
+ 
+B6. Déterminer la valeur du Km de l’enzyme. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B7. Déterminer la valeur de la Vmax de l’enzyme. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dans une seconde série d’expériences, un inhibiteur est ajouté à une concentration de 0.1 mM en 
+présence de l’enzyme. Les résultats sont illustrés par la courbe avec un symbole carré. 
+ 
+B8. Déterminer le type d’inhibition en justifiant la réponse.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie et Géologie - Session Juin 2025 
+Epreuve de Biochimie, Biologie Cellulaire & Génétique 
+Page 5/17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B9. Dans ce cas, où se fixe l’inhibiteur sur l’enzyme?  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EXERCICE II : 
+On considère les disaccharides A, B et C suivants : 
+ 
+A :
+Le sophorose    → 
+β-D-Glucopyranosyl-(1→2)-D-Glucopyranose 
+B :
+L’isomaltose      → 
+α-D-Glucopyranosyl-(1→6)-D-Glucopyranose 
+C :
+Le gentiobiose   → 
+β-D-Glucopyranosyl-(1→6)-D-Glucopyranose 
+ 
+B10. Donner la structure du sophorose en représentation cyclique de Haworth. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B11. Donner la structure de l’isomaltose en représentation cyclique de Haworth.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie et Géologie - Session Juin 2025 
+Epreuve de Biochimie, Biologie Cellulaire & Génétique 
+Page 6/17 
+ 
+ 
+ 
+B12. Donner la structure du gentiobiose en représentation cyclique de Haworth.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B13. Déterminer le (ou les) disacharide (s) réducteur(s). Justifier la réponse  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B14. Quelle expérience simple permettrait de mettre en évidence leur pouvoir réducteur en laboratoire?  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B15. Quels sont les produits (noms et structures chimiques) obtenus après per-méthylation suivie d’une 
+hydrolyse douce du sophorose ?  
+ 
+ 
+ 
+ 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie et Géologie - Session Juin 2025 
+Epreuve de Biochimie, Biologie Cellulaire & Génétique 
+Page 7/17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B16. Quels sont les produits (noms et structures chimiques) obtenus après per-méthylation suivie d’une 
+hydrolyse douce de l’isomaltose ?  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B17. Quels sont les produits (noms et structures) obtenus après per-méthylation suivie d’une hydrolyse 
+douce du gentiobiose ?  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie et Géologie - Session Juin 2025 
+Epreuve de Biochimie, Biologie Cellulaire & Génétique 
+Page 8/17 
+ 
+ 
+ 
+ 
+ 
+ 
+B18. Citer la ou les enzymes capables d’hydrolyser les disaccharides A, B et C.  
+ 
+A : …………………………………………………………………………………….. 
+ 
+ 
+ 
+B : …………………………………………………………………………………….. 
+ 
+ 
+ 
+C : …………………………………………………………………………………….. 
+ 
+B19. Après hydrolyse enzymatique du sophorose (A), le monosaccharide obtenu est soumis à une 
+oxydation douce par le brome en milieu alcalin.  
+Écrire l’équation chimique de cette réaction d’oxydation.  
+Justifier la réponse en décrivant le mécanisme de l'oxydation et en expliquant en quoi consiste 
+précisément cette réaction d'oxydation douce appliquée au monosaccharide obtenu. 
+Nommer et écrire la formule du produit formé selon la représentation de Fisher. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie et Géologie - Session Juin 2025 
+Epreuve de Biochimie, Biologie Cellulaire & Génétique 
+Page 9/17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie et Géologie - Session Juin 2025 
+Epreuve de Biochimie, Biologie Cellulaire & Génétique 
+Page 10/17 
+ 
+ 
+EPREUVE DE GENETIQUE 
+ 
+χ²(ddl =1 et α =5%) = 3,84; χ²(ddl =2 et α =5%) = 5.99 ; χ²(ddl =3 et α =5%) = 7,81 ; χ²(ddl =4 et α =5%) = 9,49 ; χ²(ddl =5 
+et α =5%) = 11,07 
+ 
+EXERCICE I : 
+Chez la drosophile, on s’intéresse à l’étude génétique de deux mutations. La première mutation 
+touche la taille des ailes « ailes miniatures » comparée à la forme sauvage avec une taille normale des 
+ailes. La deuxième mutation concerne la coloration du corps « coloration claire » par rapport à la 
+coloration noire sauvage. Le croisement d’une femelle sauvage par un mâle double mutant donne une 
+F1 100% sauvage. 
+Le croisement entre les drosophiles de la F1 a donné la descendance ci-dessous : 
+752 ♀ [+] 
+248 ♀ [corps clair] 
+374 ♂ [+] 
+124 ♂ [corps clair] 
+130 ♂ [ailes miniatures ; corps clair] 
+380 ♂ [ailes miniatures] 
+ 
+G1. Quel est le déterminisme génétique du caractère taille des ailes ? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie et Géologie - Session Juin 2025 
+Epreuve de Biochimie, Biologie Cellulaire & Génétique 
+Page 11/17 
+ 
+ 
+G2. Quel est le déterminisme génétique du caractère couleur du corps ? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+G3. Quels sont les génotypes des parents et des individus de la F1 ? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie et Géologie - Session Juin 2025 
+Epreuve de Biochimie, Biologie Cellulaire & Génétique 
+Page 12/17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+G4. Donner une interprétation chromosomique complète du 2ème croisement (F2). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie et Géologie - Session Juin 2025 
+Epreuve de Biochimie, Biologie Cellulaire & Génétique 
+Page 13/17 
+ 
+ 
+G5. Préciser les phénotypes et leurs proportions, chez les mâles et les femelles de la F2. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+G6. Vérifier les résultats obtenus avec les effectifs expérimentaux, en utilisant le test Chi carré. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ G7-G8-G9. Donner les résultats en F1 et en F2 du croisement d’un mâle pure [+] par une femelle 
+double mutée. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie et Géologie - Session Juin 2025 
+Epreuve de Biochimie, Biologie Cellulaire & Génétique 
+Page 14/17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+G10. Quelle remarque pouvez-vous faire en comparant les résultats de ce croisement en F1 et en F2 
+par rapport au croisement précédent ? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EXERCICE II : 
+ 
+Chez une bactérie, on dispose de la séquence d’un polypeptide P qui fait 168 acides aminés. La 
+séquence ci-dessous représente une partie du brin transcrit de l’ADN, codant pour les acides aminés 
+n° 79 à n° 89. 
+3’ ……. CCGCCCATGATCGAAATAGATTTACGCCTTGGACCT ……. 5’ 
+ 
+G11. Donner la séquence de l’ARNm transcrit à partir de cette partie de la molécule d’ADN.  
+G12. Définir le cadre de lecture ouvert donnant la protéine en question. 
+G13. Traduire la séquence de l’ARNm. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie et Géologie - Session Juin 2025 
+Epreuve de Biochimie, Biologie Cellulaire & Génétique 
+Page 15/17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chez un mutant m1, le nucléotide G souligné est remplacé par C. Alors que, chez un autre mutant 
+m2, le nucléotide A souligné est remplacé par C.  
+G14 – G15. Pour chacun des mutants m1 et m2, donner la séquence de la protéine mutée et préciser 
+la nature de la mutation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie et Géologie - Session Juin 2025 
+Epreuve de Biochimie, Biologie Cellulaire & Génétique 
+Page 16/17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Un troisième mutant m3 possède la séquence protéique suivante : 
+ 
+NH2 ….Arg– Val– Leu– Ala– Leu– Leu– Asn– Ala– Glu– Pro– Gly….. COOH 
+ 
+G16. Expliquer comment cette protéine a été obtenue en précisant le site et la nature de la mutation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie et Géologie - Session Juin 2025 
+Epreuve de Biochimie, Biologie Cellulaire & Génétique 
+Page 17/17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table du Code Génétique 
+ 
+ 
+ 
+PREMIER 
+NUCLEOTIDE
+DEUXIEME NUCLEOTIDE
+TROISIEME 
+NUCLEOTIDE
+U 
+C 
+A 
+G 
+UUU
+PHE
+UCU
+SER
+UAU TYR
+UGU
+CYS
+U
+U
+UUC
+UCC
+UAC
+UGC
+C
+UUA
+LEU
+UCA
+UAA
+NS
+UGA
+NS
+A
+UUG
+UCG
+UAG
+NS
+UGG
+TRP
+G
+CUU
+LEU
+CCU
+PRO
+CAU
+HIS CGU
+ARG
+U
+C
+CUC
+CCC
+CAC
+CGC
+C
+CUA
+CCA
+CAA GLN CGA
+A
+CUG
+CCG
+CAG
+CGG
+G
+AUU
+ACU
+THR
+AAU
+ASN
+AGU
+SER
+U
+A
+AUC
+ILE
+ACC
+AAC
+AGC
+C
+AUA
+ACA
+AAA
+LYS
+AGA ARG
+A
+AUG MET ACG
+AAG
+AGG
+G
+GUU
+VAL
+GCU
+ALA
+GAU
+ASP
+GGU
+GLY
+U
+G
+GUC
+GCC
+GAC
+GGC
+C
+GUA
+GCA
+GAA GLU GGA
+A
+GUG
+GCG
+GAG
+GGG
+G
+ 
+BIB-IPEIS
+BIB-IPEIS

@@ -1,0 +1,2754 @@
+Session Juin 2023 
+Page 1 sur 16 
+CONSIGNES  
+• Cette épreuve comporte 15 pages + 1 page vide.  
+• Tout résultat doit être écrit dans les cadres adéquats. 
+• L'usage des calculatrices électroniques de poche non programmables est autorisé. 
+• Aucun échange entre les candidats n'est autorisé. 
+• Tout calcul doit être précédé d’une expression littérale.  
+• Les résultats numériques sans unité ou avec une unité fausse ne seront pas comptabilisés. 
+• En cas de besoin utiliser la page (16) vide à la fin du cahier. Dans ce cas, il faut le 
+signaler dans la case allouée à la réponse remise en fin de cahier. 
+• Ne joindre aucun brouillon.  
+• Si au cours de l’épreuve, un candidat repère ce qui lui semble être une erreur d’énoncé, 
+il la signale sur sa copie et poursuit sa composition en indiquant les raisons des 
+initiatives qu’il est amené à prendre. 
+ 
+ 
+ 
+ 
+ 
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 16 PAGES 
+NUMEROTÉES 1 sur 16, 2 sur 16, …, 16 sur 16. 
+ 
+ 
+ 
+Concours Mathématiques et 
+physique 
+ 
+ 
+Cette épreuve comporte 46 questions réparties sur trois problèmes différents.  
+Les questions regroupées dans chaque problème contiennent plusieurs parties à noter. 
+Par exemple, la question Q21-Q23 de la page 10 sera divisée en trois parties Q21, Q22 et 
+Q23. 
+Nous vous souhaitons bonne chance et espérons que vous pourrez faire ressortir le meilleur de 
+vous-même dans cette épreuve. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Page 2 sur 16 
+Épreuve de chimie section MP 
+Année : 2022-2023 
+Notations et données numériques 
+États des constituants physicochimiques : 
+(sd) solide ; (liq) liquide ; (g) gazeux 
+Lorsque aucune mention n'est spécifiée, les ions sont supposés implicitement en solution 
+aqueuse. 
+Les gaz sont considérés comme parfaits. 
+Notations :  
+• 
+iw
+: la fraction massique de « i » dans la phase φ. 
+• L’exposant 
+ signifie standard. 
+• ESH : électrode standard à hydrogène. 
+Constantes physiques : 
+• Constante des gaz parfaits : R = 8,314 J.mol-1.K-1. 
+• Constante d'Avogadro : NA = 6,02×1023 mol-1. 
+• Constante de Faraday : F = 96485 C.mol-1. 
+• Pression standard : p
+1
+.
+bar
+=
+ 
+• Concentration standard : C
+1
+1
+.
+.
+mol L−
+=
+ 
+Données numériques : 
+• Masses molaires atomiques (g.mol-1) : As = 75 ; Ge =73 ; In =115 ; O = 16. 
+• 
+Les numéros atomiques Z : H = 1 ; O =8. 
+Données thermodynamiques dans les conditions standards : 
+i 
+(
+)
+aq
+H +  
+2
+3(
+)
+sd
+Sb O
+ 
+2
+(
+)
+liq
+H O
+ 
+i
+1
+/
+.
+kJ mol− 
+0 
+-769,9 
+-237,2 
+À 298 K, 
+• 
+(
+)
+(
+)
+(
+)
+2
+5(
+)
+10
+6(aq)
+6(aq)
+:
+2
+8,3
+2 log
+sd
+Sb O
+Sb OH
+pH
+Sb OH
+−
+−
+
+
+
+=
++ 
+
+ 
+• 
+(
+)
+2
+3(
+)
+4(aq) :
+sd
+Sb O
+Sb OH
+−
+3
+pK
+23,7
+=
+ 
+• La constante de Nernst : (
+)
+R
+T F
+Ln(10)
+0,06 V  
+
+
+ 
+ 
+Cette épreuve traite l'élément arsenic et ses voisins l'indium, l'antimoine et le germanium. Ces 
+éléments, présentent des propriétés similaires, mais aussi des différences importantes qui les 
+rendent intéressantes à étudier. L'arsenic, par exemple, est un élément toxique et cancérigène, 
+mais il est également utilisé dans diverses applications industrielles telles que la fabrication 
+de semi-conducteurs et de pesticides. L'indium est un métal rare utilisé dans la production 
+d'écrans plats et de cellules solaires, tandis que l'antimoine est un semi-métal utilisé dans les 
+batteries et les alliages. Le germanium est quant à lui utilisé dans la production de fibres 
+optiques et de semi-conducteurs.  
+Au cours de cette épreuve, vous serez invités à explorer les propriétés chimiques et physiques 
+de ces éléments de point de vue structurel et thermodynamique, ainsi que leur comportement 
+vis-à-vis de la corrosion. 
+ 
+ 
+
+ 
+Page 3 sur 16 
+Épreuve de chimie section MP 
+Année : 2022-2023 
+Problème I : atomistique-cristallographie 
+Q1) Donner la structure électronique de l’arsenic « 33As » dans son état fondamental.  
+ 
+Q2) Quel est le nombre d’électrons de valence ? Justifier la réponse. 
+ 
+Q3) Quelle est sa position (ligne, colonne) dans la classification périodique ? Justifier la 
+réponse. 
+ 
+Q4) Ci-contre une partie du tableau périodique des éléments 
+chimiques. 
+Déterminer le numéro atomique de chacun des éléments : germanium 
+« Ge » et indium « In ». On expliquera brièvement le raisonnement. 
+ 
+Q5) L’indium présente un degré d’oxydation (III), quelle est la formule chimique de l’oxyde 
+d’indium correspondant à cet état d’oxydation ? Justifier la réponse. 
+ 
+
+ 
+Page 4 sur 16 
+Épreuve de chimie section MP 
+Année : 2022-2023 
+• L'oxyde d'indium, est un cristal ionique qui 
+cristallise dans un système cubique de paramètre 
+« a », dont la représentation en perspective est 
+donnée ci-contre. 
+Le 1/8 de la maille de l'oxyde d'indium est décrit 
+comme la structure de la fluorine où les ions oxyde 
+occupant seulement 75% des sites tétraédriques 
+comme indiqué sur la figure ci-dessous : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Q6) Déterminer la formule traduisant le contenu de la maille de cet oxyde.  
+ 
+ 
+ 
+Q7) En déduire le nombre de groupements (unités) formulaires par maille. 
+ 
+Q8) Quel est le mode du réseau sachant que seuls les plans réticulaires dont les indices 
+de Miller obéissent à la relation h + k + l = 2n (pair) diffractent les rayons X ? 
+ 
+
+ 
+Page 5 sur 16 
+Épreuve de chimie section MP 
+Année : 2022-2023 
+Q9) Quelle est la coordinence des ions O2- par rapport aux ions In3+ ? Justifier la réponse. 
+ 
+Q10) Donner la relation qui relie la longueur de l’arête de la maille, aux rayons ioniques 
+des deux entités, sachant que les ions de signes contraires sont tangents.  
+ 
+Q11) Les données radio-cristallographiques montrent que la longueur de l’arête est  
+a = 1012 pm. Sachant que le rayon ionique de l'ion O2- est : 
+2
+O
+R
+−= 140 pm, en déduire la 
+valeur du rayon ionique 
+3
+In
+R
++  des ions In3+.  
+ 
+• Donner l’expression puis calculer : 
+Q12) La compacité de la structure. 
+ 
+
+ 
+Page 6 sur 16 
+Épreuve de chimie section MP 
+Année : 2022-2023 
+Q13) La masse volumique de cet oxyde. 
+ 
+• L’acide orthoarsénieux est un composé chimique de formule H₃AsO3.  
+Q14) Représenter le schéma de Lewis de cette molécule, sachant que « As » est 
+l’atome central. 
+ 
+H3AsO3 
+Schéma de 
+Lewis 
+ 
+Q15) Préciser la notation (la formule) de Gillespie et la figure de répulsion.  
+ Notation de 
+Gillespie 
+ 
+ Figure de 
+répulsion 
+ 
+
+ 
+Page 7 sur 16 
+Épreuve de chimie section MP 
+Année : 2022-2023 
+Q16) Préciser la géométrie et la forme de cette molécule selon la méthode V.S.E.P.R.  
+Géométrie 
+spatiale 
+ 
+ Forme de la 
+molécule 
+ 
+ 
+Problème II : diagramme binaire liquide-solide 
+Les alliages As-Ge peuvent être utilisés pour diverses applications dans l'industrie, notamment 
+dans les domaines de l'électronique, de l'optique et des capteurs. Les propriétés des alliages 
+As-Ge, telles que leur conductivité élevée, leur faible résistivité et leur transparence dans 
+l'infrarouge, les rendent utiles pour de nombreuses applications. 
+Nous envisageons dans ce problème de compléter puis étudier, le diagramme d’équilibre 
+solide-liquide du système Ge-As, sous une pression constante (p = 1bar).  
+
+ 
+Page 8 sur 16 
+Épreuve de chimie section MP 
+Année : 2022-2023 
+Pour cela, nous disposons des informations suivantes : 
+Le diagramme binaire liquide-solide de As-Ge montre que : 
+• L'arsenic n'est pas miscible dans le germanium, tandis que le germanium est 
+partiellement miscible dans l’arsenic. 
+• La solubilité maximale de Ge dans As est de wGe = 0,21 à la température 749°C. 
+• La présence de deux composés définis à fusions congruentes. 
+o L’un de ces composés définis a pour formule AsGe et son point de fusion est à 
+762°C. 
+o Le deuxième est situé à la composition wAs = 0,69 et son point de fusion est à 
+756°C 
+Nous disposons aussi de quelques courbes d’analyse thermique de refroidissement sous la 
+pression de 1 bar : 
+ 
+Q17) Déterminer la composition (wAs) du composé défini AsGe. 
+ 
+
+ 
+Page 9 sur 16 
+Épreuve de chimie section MP 
+Année : 2022-2023 
+Q18) Déterminer la formule du composé défini de composition wAs = 0,69. 
+ 
+• En se basant sur le réseau de courbes d’analyse thermique, le diagramme incomplet, la 
+description du diagramme de la page 8 et les questions précédentes, préciser les coordonnées 
+de chacun des points particuliers : 
+Q19) Points eutectiques et solubilité maximale. 
+• 1- 
+• 2-  
+• 3- 
+• 4-  
+Q20) Composés définis et points de fusion des corps purs.  
+• 1-  
+• 2-  
+• 3-  
+• 4-  
+
+ 
+Page 10 sur 16 
+Épreuve de chimie section MP 
+Année : 2022-2023 
+Q21-Q23) Placer tous les points qui manquent sur le diagramme ci-dessous. 
+ 
+Q24) Compléter le diagramme en traçant les courbes qui manquent. Justifier l’allure du 
+diagramme du coté de As. 
+Justification : 
+ 
+Q25) Préciser la nature des phases dans chacun des domaines (I) et (II). 
+Domaine (I) :  
+Domaine (II) :  
+Q26) Expliciter la transformation (nom et équation) ayant lieu sur le palier de température 
+754°C. 
+ 
+938,3
+754°C
+650
+680
+710
+740
+770
+800
+830
+860
+890
+920
+950
+650
+670
+690
+710
+730
+750
+770
+790
+810
+830
+850
+870
+890
+910
+930
+950
+970
+0,00
+0,05
+0,10
+0,15
+0,20
+0,25
+0,30
+0,35
+0,40
+0,45
+0,50
+0,55
+0,60
+0,65
+0,70
+0,75
+0,80
+0,85
+0,90
+0,95
+1,00
+Température /°C
+Température /°C
+fraction massique
+p = 1 bar
+Ge
+As
+(I)
+(II)
+
+ 
+Page 11 sur 16 
+Épreuve de chimie section MP 
+Année : 2022-2023 
+• 35 g d’un mélange liquide de composition wAs = 0,75 est refroidit de 810°C jusqu’à 710°C. 
+Q27) Quelles sont les phases présentes à 710°C ? 
+ 
+Q28) Donner la composition en arsenic dans chacune d’elles. 
+ 
+Q29) Déterminer la masse de chaque phase. 
+ 
+Q30) Déduire la masse de l’arsenic dans chaque phase. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Page 12 sur 16 
+Épreuve de chimie section MP 
+Année : 2022-2023 
+Problème III : diagramme de Pourbaix 
+Le diagramme potentiel-pH de l’antimoine fait intervenir les entités suivantes : 
+(
+)
+(
+)
+(
+)
+(
+)
+2
+3(
+)
+2
+5(
+)
+2(
+)
+4(
+)
+6(
+)
+,
+,
+,
+,
+,
+sd
+sd
+sd
+aq
+aq
+aq
+Sb
+Sb O
+Sb O
+Sb OH
+Sb OH
+Sb OH
++
+−
+−
+. 
+Ce diagramme a été tracé à 298K, pour une concentration de tracé notée Ctra. 
+ 
+Q31-Q36) Donner le nombre (degré) d’oxydation de l’atome d’antimoine dans chacune des 
+entités sus indiquées.  
+Entité 
+n.o (Sb) 
+Entité 
+n.o (Sb) 
+(
+)
+sd
+Sb
+ 
+ 
+(
+)2(
+)
+aq
+Sb OH
++
+ 
+ 
+2
+3(
+)
+sd
+Sb O
+ 
+ 
+(
+)4(
+)
+aq
+Sb OH
+−
+ 
+ 
+2
+5(
+)
+sd
+Sb O
+ 
+ 
+(
+)6(
+)
+aq
+Sb OH
+−
+ 
+ 
+ 
+ 
+ 
+
+ 
+Page 13 sur 16 
+Épreuve de chimie section MP 
+Année : 2022-2023 
+• Nous souhaitons attribuer à chacun des domaines numérotés de (1) à (6) l’entité 
+correspondante. 
+Q37) Pour chacun des degrés d’oxydation, classer les entités en fonction du pH 
+(classement horizontal). Justifier à chaque fois la réponse. 
+ 
+Q38-Q39) Attribuer les entités à chacun des domaines. 
+ 
+Domaine (1) 
+Domaine (2) 
+ 
+ 
+Domaine (3) 
+Domaine (4) 
+Domaine (5) 
+(
+)2(
+)
+aq
+Sb OH
++
+ 
+ 
+ 
+Domaine (6) 
+ 
+Q40) Déterminer la concentration Ctra utilisée pour tracer le diagramme de la page 12. 
+ 
+
+ 
+Page 14 sur 16 
+Épreuve de chimie section MP 
+Année : 2022-2023 
+•  
+Q41) Montrer que l’expression de la frontière séparant les domaines (1) et (3) s’écrit en 
+fonction du potentiel standard rédox du couple mis en jeu et du pH. 
+ 
+Q42) À l’aide du diagramme E-pH de la page 12, estimer la valeur du potentiel standard 
+rédox du couple (1)/(3) de la question précédente. 
+ 
+Q43) Déterminer la valeur de la constante d'équilibre de la réaction impliquant les entités (4) 
+et (5) du diagramme, étant donné que le pH à la frontière verticale qui les sépare est de 9,85. 
+ 
+
+ 
+Page 15 sur 16 
+Épreuve de chimie section MP 
+Année : 2022-2023 
+Q44) Donner l’expression puis calculer la valeur de l’enthalpie libre standard de cette 
+réaction à 298 K. 
+ 
+Q45) Donner l’expression de l’enthalpie libre standard de cette réaction à l'aide des 
+grandeurs thermodynamiques appropriées données au début de l’énoncé. 
+ 
+Q46) Déterminer la valeur du potentiel chimique standard 
+(
+)
+(
+)
+4 ,
+Sb OH
+aq
+−
+. 
+ 
+ 
+ 
+ 
+ 
+FIN DE L’ÉPREUVE 
+ 
+ 
+
+ 
+Page 16 sur 16 
+Épreuve de chimie section MP 
+Année : 2022-2023 
+Page vide 
+ 
+
+Session Juin 2023 
+Page 1 sur 16 
+CONSIGNES  
+• Cette épreuve comporte 15 pages + 1 page vide.  
+• Tout résultat doit être écrit dans les cadres adéquats. 
+• L'usage des calculatrices électroniques de poche non programmables est autorisé. 
+• Aucun échange entre les candidats n'est autorisé. 
+• Tout calcul doit être précédé d’une expression littérale.  
+• Les résultats numériques sans unité ou avec une unité fausse ne seront pas comptabilisés. 
+• En cas de besoin utiliser la page (16) vide à la fin du cahier. Dans ce cas, il faut le 
+signaler dans la case allouée à la réponse remise en fin de cahier. 
+• Ne joindre aucun brouillon.  
+• Si au cours de l’épreuve, un candidat repère ce qui lui semble être une erreur d’énoncé, 
+il la signale sur sa copie et poursuit sa composition en indiquant les raisons des 
+initiatives qu’il est amené à prendre. 
+ 
+ 
+ 
+ 
+ 
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 16 PAGES 
+NUMEROTÉES 1 sur 16, 2 sur 16, …, 16 sur 16. 
+ 
+ 
+ 
+Concours Mathématiques et 
+physique 
+ 
+ 
+Cette épreuve comporte 46 questions réparties sur trois problèmes différents.  
+Les questions regroupées dans chaque problème contiennent plusieurs parties à noter. 
+Par exemple, la question Q21-Q23 de la page 10 sera divisée en trois parties Q21, Q22 et 
+Q23. 
+Nous vous souhaitons bonne chance et espérons que vous pourrez faire ressortir le meilleur de 
+vous-même dans cette épreuve. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Page 2 sur 16 
+Épreuve de chimie section MP 
+Année : 2022-2023 
+Notations et données numériques 
+États des constituants physicochimiques : 
+(sd) solide ; (liq) liquide ; (g) gazeux 
+Lorsque aucune mention n'est spécifiée, les ions sont supposés implicitement en solution 
+aqueuse. 
+Les gaz sont considérés comme parfaits. 
+Notations :  
+• 
+iw
+: la fraction massique de « i » dans la phase φ. 
+• L’exposant 
+ signifie standard. 
+• ESH : électrode standard à hydrogène. 
+Constantes physiques : 
+• Constante des gaz parfaits : R = 8,314 J.mol-1.K-1. 
+• Constante d'Avogadro : NA = 6,02×1023 mol-1. 
+• Constante de Faraday : F = 96485 C.mol-1. 
+• Pression standard : p
+1
+.
+bar
+=
+ 
+• Concentration standard : C
+1
+1
+.
+.
+mol L−
+=
+ 
+Données numériques : 
+• Masses molaires atomiques (g.mol-1) : As = 75 ; Ge =73 ; In =115 ; O = 16. 
+• 
+Les numéros atomiques Z : H = 1 ; O =8. 
+Données thermodynamiques dans les conditions standards : 
+i 
+(
+)
+aq
+H +  
+2
+3(
+)
+sd
+Sb O
+ 
+2
+(
+)
+liq
+H O
+ 
+i
+1
+/
+.
+kJ mol− 
+0 
+-769,9 
+-237,2 
+À 298 K, 
+• 
+(
+)
+(
+)
+(
+)
+2
+5(
+)
+10
+6(aq)
+6(aq)
+:
+2
+8,3
+2 log
+sd
+Sb O
+Sb OH
+pH
+Sb OH
+−
+−
+
+
+
+=
++ 
+
+ 
+• 
+(
+)
+2
+3(
+)
+4(aq) :
+sd
+Sb O
+Sb OH
+−
+3
+pK
+23,7
+=
+ 
+• La constante de Nernst : (
+)
+R
+T F
+Ln(10)
+0,06 V  
+
+
+ 
+ 
+Cette épreuve traite l'élément arsenic et ses voisins l'indium, l'antimoine et le germanium. Ces 
+éléments, présentent des propriétés similaires, mais aussi des différences importantes qui les 
+rendent intéressantes à étudier. L'arsenic, par exemple, est un élément toxique et cancérigène, 
+mais il est également utilisé dans diverses applications industrielles telles que la fabrication 
+de semi-conducteurs et de pesticides. L'indium est un métal rare utilisé dans la production 
+d'écrans plats et de cellules solaires, tandis que l'antimoine est un semi-métal utilisé dans les 
+batteries et les alliages. Le germanium est quant à lui utilisé dans la production de fibres 
+optiques et de semi-conducteurs.  
+Au cours de cette épreuve, vous serez invités à explorer les propriétés chimiques et physiques 
+de ces éléments de point de vue structurel et thermodynamique, ainsi que leur comportement 
+vis-à-vis de la corrosion. 
+ 
+ 
+
+ 
+Page 3 sur 16 
+Épreuve de chimie section MP 
+Année : 2022-2023 
+Problème I : atomistique-cristallographie 
+Q1) Donner la structure électronique de l’arsenic « 33As » dans son état fondamental.  
+33As : 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p3 ou bien [18Ar] 4s2 3d10 4p3 
+ 
+Q2) Quel est le nombre d’électrons de valence ? Justifier la réponse. 
+Les électrons de valence sont les électrons 4s et 4p : il en possède donc 5. 
+Les électrons de valence sont ceux qui occupent les orbitales atomiques d’énergies les plus 
+hautes (le plus souvent, ceux qui ont le nombre quantique principal le plus grand). 
+Q3) Quelle est sa position (ligne, colonne) dans la classification périodique ? Justifier la 
+réponse. 
+De la question Q1) ➔Son nombre quantique principal le plus élevé est n = 4 : As est dans la 
+quatrième période. 
+Il a une sous-couche 4p en cours de remplissage : il appartient donc au bloc p. Le numéro de 
+la colonne s’obtient en ajoutant 10 au nombre d’électrons de valence (de la question Q2 ; 
+Nv = 5) et plus précisément à la colonne 15. 
+ 
+L'arsenic appartient donc à la 4ème période et la 15ème colonne du tableau périodique. 
+Q4) Ci-contre une partie du tableau périodique des éléments 
+chimiques. 
+Déterminer le numéro atomique de chacun des éléments : germanium 
+« Ge » et indium « In ». On expliquera brièvement le raisonnement. 
+Ge appartient à la même période que l’arsenic et il est placer juste 
+avant donc Z = 32. 
+L’indium appartient à la ligne suivante et il est au-dessous du Ga 
+dont Z=31. 
+Le numéro atomique de l’indium sera Z = 31 + 18 =49 
+Q5) L’indium présente un degré d’oxydation (III), quelle est la formule chimique de l’oxyde 
+d’indium correspondant à cet état d’oxydation ? Justifier la réponse. 
+Nous chercherons la formule d’un oxyde. Un oxyde est un composé dont le degré 
+d’oxydation de l’oxygène est (-II). 
+La formule chimique de l’oxyde d’indium sera : In2O3 
+
+ 
+Page 4 sur 16 
+Épreuve de chimie section MP 
+Année : 2022-2023 
+• L'oxyde d'indium, est un cristal ionique qui 
+cristallise dans un système cubique de paramètre 
+« a », dont la représentation en perspective est 
+donnée ci-contre. 
+Le 1/8 de la maille de l'oxyde d'indium est décrit 
+comme la structure de la fluorine où les ions oxyde 
+occupant seulement 75% des sites tétraédriques 
+comme indiqué sur la figure ci-dessous : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Q6) Déterminer la formule traduisant le contenu de la maille de cet oxyde.  
+Dans le 1/8 de la maille : 
+(
+)
+3
+1
+1
+8
+6
+4
+8
+2
+ion
+n
+In + = 
++ 
+=  
+(
+)
+2
+6
+ion
+n
+O −=  
+Pour la maille totale : 
+(
+)
+3
+4 8
+32
+ion
+n
+In + =
+=
+ 
+(
+)
+2
+6 8
+48
+ion
+n
+O −= =
+ 
+La formule traduisant le contenu de la maille est In32O48 
+Q7) En déduire le nombre de groupements (unités) formulaires par maille. 
+L’unité formulaire est In2O3 
+D’après la question précédente, le nombre d’unités formulaires est 16(In2O3). 
+ 
+Q8) Quel est le mode du réseau sachant que seuls les plans réticulaires dont les indices 
+de Miller obéissent à la relation h + k + l = 2n (pair) diffractent les rayons X ? 
+Le mode de réseau est I. 
+
+ 
+Page 5 sur 16 
+Épreuve de chimie section MP 
+Année : 2022-2023 
+Q9) Quelle est la coordinence des ions O2- par rapport aux ions In3+ ? Justifier la réponse. 
+La coordinence de O2- = 4 car il est entouré de 4 ions In3+ proches voisins. 
+ 
+Q10) Donner la relation qui relie la longueur de l’arête de la maille, aux rayons ioniques 
+des deux entités, sachant que les ions de signes contraires sont tangents.  
+Les anions et les cations se touchent selon la grande diagonale du petit cube d’arête 
+a/4 : 
+3
+2
+3
+8
+In
+O
+a
+R
+R
++
+−
+
++
+=
+ 
+Il vient alors,  
+(
+)
+3
+2
+8
+3
+In
+O
+a
+R
+R
++
+−
+=
+
++
+ 
+ 
+Q11) Les données radiocristallographiques montrent que la longueur de l’arête est  
+a = 1012 pm. Sachant que le rayon ionique de l'ion O2- est : 
+2
+O
+R
+−= 140 pm, en déduire la 
+valeur du rayon ionique 
+3
+In
+R
++  des ions In3+.  
+3
+2
+3
+8
+In
+O
+a
+R
+R
++
+−
+
++
+=
+ 
+3
+2
+3
+8
+In
+O
+a
+R
+R
++
+−
+
+=
+−
+ 
+Application numérique : 
+3
+1012
+3
+140
+79
+8
+In
+R
+pm
++
+
+=
+−
+=
+ 
+• Donner l’expression puis calculer : 
+Q12) La compacité de la structure. 
+La compacité s’écrit : 
+(
+)
+(
+)
+3
+2
+3
+3
+2
+3
+3
+4
+4
+3
+3
+ion
+ion
+In
+O
+n
+In
+R
+n
+O
+R
+a
+
+
+
++
+−
++
+−
+
+
+
++
+
+
+
+=
+ 
+Application numérique : 
+(
+)
+(
+)
+(
+)
+3
+3
+3
+4
+4
+32
+79
+48
+140
+3
+3
+0,60
+1012
+
+
+
+
+
+
++
+
+
+
+=
+=
+ 
+
+ 
+Page 6 sur 16 
+Épreuve de chimie section MP 
+Année : 2022-2023 
+Q13) La masse volumique de cet oxyde. 
+La masse volumique s’écrit : 
+(
+)
+2
+3
+2
+3
+3
+uf
+In O
+A
+n
+In O
+M
+N
+a
+
+
+=
+
+ 
+Application numérique : 
+(
+)
+(
+)
+3
+3
+23
+10
+16
+2 115 3 16
+7,13 .
+6,02 10
+1012 10
+g cm
+
+−
+−
+
+
++ 
+=
+=
+
+
+
+ 
+• L’acide orthoarsénieux est un composé chimique de formule H₃AsO3.  
+Q14) Représenter le schéma de Lewis de cette molécule, sachant que « As » est 
+l’atome central. 
+ 
+H3AsO3 
+Schéma de 
+Lewis 
+ 
+ 
+Q15) Préciser la notation (la formule) de Gillespie et la figure de répulsion.  
+ Notation de 
+Gillespie 
+AX3E1 
+ Figure de 
+répulsion 
+Tétraèdre 
+
+ 
+Page 7 sur 16 
+Épreuve de chimie section MP 
+Année : 2022-2023 
+Q16) Préciser la géométrie et la forme de cette molécule selon la méthode V.S.E.P.R.  
+Géométrie 
+spatiale 
+ 
+ Forme de la 
+molécule 
+Pyramide trigonal  
+ 
+Problème II : diagramme binaire liquide-solide 
+Les alliages As-Ge peuvent être utilisés pour diverses applications dans l'industrie, notamment 
+dans les domaines de l'électronique, de l'optique et des capteurs. Les propriétés des alliages 
+As-Ge, telles que leur conductivité élevée, leur faible résistivité et leur transparence dans 
+l'infrarouge, les rendent utiles pour de nombreuses applications. 
+Nous envisageons dans ce problème de compléter puis étudier, le diagramme d’équilibre 
+solide-liquide du système Ge-As, sous une pression constante (p = 1bar).  
+
+ 
+Page 8 sur 16 
+Épreuve de chimie section MP 
+Année : 2022-2023 
+Pour cela, nous disposons des informations suivantes : 
+Le diagramme binaire liquide-solide de As-Ge montre que : 
+• L'arsenic n'est pas miscible dans le germanium, tandis que le germanium est 
+partiellement miscible dans l’arsenic. 
+• La solubilité maximale de Ge dans As est de wGe = 0,21 à la température 749°C. 
+• La présence de deux composés définis à fusions congruentes. 
+o L’un de ces composés définis a pour formule AsGe et son point de fusion est à 
+762°C. 
+o Le deuxième est situé à la composition wAs = 0,69 et son point de fusion est à 
+756°C 
+Nous disposons aussi de quelques courbes d’analyse thermique de refroidissement sous la 
+pression de 1 bar : 
+ 
+Q17) Déterminer la composition (wAs) du composé défini AsGe. 
+Le composé défini de formule AsGe 
+0,5
+As
+As
+As
+Si
+n
+x
+n
+n
+=
+=
++
+ 
+1 mol de mélange ➔ nAs =0,5 mol ➔ 
+0,5 75
+37,5
+As
+As
+As
+m
+n
+M
+g
+=
+
+=
+
+=
+ 
+                             ➔nGe = 0,5 mol ➔ 
+0,5 73
+36,5
+Ge
+Ge
+Ge
+m
+n
+M
+g
+=
+
+=
+
+=
+ 
+37,5
+0,51
+37,5
+36,5
+As
+As
+As
+Ge
+m
+w
+m
+m
+=
+=
+=
++
++
+ 
+
+ 
+Page 9 sur 16 
+Épreuve de chimie section MP 
+Année : 2022-2023 
+Q18) Déterminer la formule du composé défini de composition wAs = 0,69. 
+0,69
+As
+As
+As
+Si
+m
+w
+m
+m
+=
+=
++
+ 
+1 g de mélange ➔ mAs =0,69 g ➔ 
+3
+0,69
+9,2 10
+75
+As
+As
+As
+m
+n
+mol
+M
+−
+=
+=
+=
+
+ 
+                          ➔mGe = 0,31 g ➔ 
+3
+0,31
+4,25 10
+73
+Ge
+Ge
+Ge
+m
+n
+mol
+M
+−
+=
+=
+=
+
+ 
+9,2
+0,68
+9,2
+4,25
+As
+As
+As
+Si
+n
+x
+n
+n
+=
+=
+=
++
++
+ 
+Le composé défini de formule AsuGev 
+0,68
+As
+u
+x
+u
+v
+=
+=
++
+ ➔ 
+(
+)
+0,68
+u
+u
+v
+=
+
++
+➔ 
+(
+)
+1 0,68
+0,68
+u
+v
+
+−
+=
+➔ 
+(
+)
+0,68
+2
+1 0,68
+1
+u
+v =
+=
+−
+ 
+Le composé défini de formule As2Ge 
+(voir page 16, d’autres méthodes) 
+• En se basant sur le réseau de courbes d’analyse thermique, le diagramme incomplet, la 
+description du diagramme de la page 8 et les questions précédentes, préciser les coordonnées 
+de chacun des points particuliers : 
+Q19) Points eutectiques et solubilité maximale. 
+• 1- Point de coordonné (0,40,754°C) c’est un point eutectique à partir des 
+courbes d’analyse thermique. 
+• 2- Point de coordonné (0,60,750°C) c’est un point eutectique à partir de la 
+courbe d’analyse thermique. 
+• 3-Point de coordonné (0,73,749°C) c’est un point eutectique à partir de la 
+courbe d’analyse thermique. 
+• 4- Le point représentatif de la solubilité maximale de Ge dans As est de 
+coordonnée (wAs = 1-wGe= 1-0,21=0,79, 749°C). (Énoncé) 
+Q20) Composés définis et points de fusion des corps purs.  
+• 1- Le composé défini AsGe à fusion congruente situé à wAs = 0,51 (question 
+Q17) et son point de fusion est de 762°C(énoncé) 
+• 2- Le composé défini As2Ge à fusion congruente situé à wAs = 0,69 et son point 
+de fusion est de 756°C(énoncé) 
+• 3- Point de coordonné (1, 831°C) c’est un point de fusion de As à partir de la 
+courbe d’analyse thermique. 
+• 4- Point de coordonné (0, 938,3°C) c’est un point de fusion de Ge à partir du 
+diagramme. 
+
+ 
+Page 10 sur 16 
+Épreuve de chimie section MP 
+Année : 2022-2023 
+Q21-Q23) Placer tous les points qui manquent sur le diagramme ci-dessous. 
+Q24) Compléter le diagramme en traçant les courbes qui manquent. Justifier l’allure du 
+diagramme du coté de As. 
+Justification : 
+L’allure du diagramme du coté As est justifié par le fait que le germanium Ge est 
+partiellement miscible dans As (énoncé). 
+Q25) Préciser la nature des phases dans chacun des domaines (I) et (II). 
+Domaine (I) : liquide 
+Domaine (II) : Ge(sd) et composé défini AsGe(sd). 
+Q26) Expliciter la transformation (nom et équation) ayant lieu sur le palier de température 
+754°C. 
+À 754°C, transformation eutectique : 
+(
+)
+(
+)
+(
+)
+0,4
+As
+sd
+sd
+liquide w
+Ge
+AsGe
+=
+=
++
+ 
+
+ 
+Page 11 sur 16 
+Épreuve de chimie section MP 
+Année : 2022-2023 
+• 35 g d’un mélange liquide de composition wAs = 0,75 est refroidit de 810°C jusqu’à 710°C. 
+Q27) Quelles sont les phases présentes à 710°C ? 
+Les phases présentes à 710°C sont 
+(
+)
+sd
+S
+ et As2Ge(sd). 
+Q28) Donner la composition en arsenic dans chacune d’elles. 
+La composition en As dans la première phase solide : 
+(
+)
+sd
+S
+ : 
+0,83
+S
+As
+w
+=
+ 
+La composition en As dans la phase deuxième phase solide As2Ge(sd): 
+2
+0,69
+sd
+As
+w
+=
+ 
+Q29) Déterminer la masse de chaque phase. 
+ 
+2
+2
+0,75
+0,69
+0,75
+0,83
+0,75
+35
+S
+As Ge
+S
+As Ge
+m
+m
+m
+m
+g
+
+
+
+−
+=
+=
+
+−
+
+
++
+=
+
+➔ 
+2
+15
+20
+S
+As Ge
+m
+g
+m
+g
+
+
+=
+
+=
+
+ 
+Q30) Déduire la masse de l’arsenic dans chaque phase. 
+0,83
+S
+S
+As
+As
+S
+m
+w
+m
+
+
+
+=
+=
+ 
+0,83
+0,83 15
+12,45
+S
+S
+As
+m
+m
+g
+
+
+=
+
+=
+
+=
+ 
+2
+2
+2
+0,69
+As Ge
+As Ge
+As
+As
+As Ge
+m
+w
+m
+=
+=
+ 
+2
+2
+0,69
+0,69 20
+13,80
+As Ge
+As Ge
+As
+m
+m
+g
+=
+
+=
+
+=
+ 
+ 
+ 
+ 
+
+ 
+Page 12 sur 16 
+Épreuve de chimie section MP 
+Année : 2022-2023 
+Problème III : diagramme de Pourbaix 
+Le diagramme potentiel-pH de l’antimoine fait intervenir les entités suivantes : 
+(
+)
+(
+)
+(
+)
+(
+)
+2
+3(
+)
+2
+5(
+)
+2(
+)
+4(
+)
+6(
+)
+,
+,
+,
+,
+,
+sd
+sd
+sd
+aq
+aq
+aq
+Sb
+Sb O
+Sb O
+Sb OH
+Sb OH
+Sb OH
++
+−
+−
+. 
+Ce diagramme a été tracé à 298K, pour une concentration de tracé notée Ctra. 
+ 
+Q31-Q36) Donner le nombre (degré) d’oxydation de l’atome d’antimoine dans chacune des 
+entités sus indiquées.  
+Entité 
+n.o (Sb) 
+Entité 
+n.o (Sb) 
+(
+)
+sd
+Sb
+ 
+0 
+(
+)2(
+)
+aq
+Sb OH
++
+ 
+III 
+2
+3(
+)
+sd
+Sb O
+ 
+III 
+(
+)4(
+)
+aq
+Sb OH
+−
+ 
+III 
+2
+5(
+)
+sd
+Sb O
+ 
+V 
+(
+)6(
+)
+aq
+Sb OH
+−
+ 
+V 
+ 
+ 
+ 
+
+ 
+Page 13 sur 16 
+Épreuve de chimie section MP 
+Année : 2022-2023 
+• Nous souhaitons attribuer à chacun des domaines numérotés de (1) à (6) l’entité 
+correspondante. 
+Q37) Pour chacun des degrés d’oxydation, classer les entités en fonction du pH 
+(classement horizontal). Justifier à chaque fois la réponse. 
+Pour un même d.o, on classe les entités selon leurs propriétés acido-basiques : 
+• Le nombre d’oxydation de Sb dans les entités 
+2
+5(
+)
+sd
+Sb O
+ et 
+(
+)4(
+)
+aq
+Sb OH
+−
+ est le 
+même : 
+(
+)
+2
+5(
+)
+2
+6(
+)
+7
+2
+2
+sd
+aq
+Sb O
+H O
+Sb OH
+H
+−
++
++
+=
++
+ ➔ 
+2
+5(
+) :
+sd
+Sb O
+acide et 
+(
+)6(
+) :
+aq
+Sb OH
+base
+−
+ 
+ 
+• Le nombre d’oxydation de Sb dans les entités 
+2
+3(
+)
+sd
+Sb O
+ et 
+(
+)4(
+)
+aq
+Sb OH
+−
+ est le 
+même : 
+(
+)
+2
+3(
+)
+2
+4(
+)
+5
+2
+2
+sd
+aq
+Sb O
+H O
+Sb OH
+H
+−
++
++
+=
++
+➔ 
+2
+3(
+) :
+sd
+Sb O
+acide et 
+(
+)4(
+) :
+aq
+Sb OH
+base
+−
+ 
+ 
+ 
+Q38-Q39) Attribuer les entités à chacun des domaines. 
+ 
+Domaine (1) 
+Domaine (2) 
+2
+5(
+)
+sd
+Sb O
+ 
+(
+)6(
+)
+aq
+Sb OH
+−
+ 
+Domaine (3) 
+Domaine (4) 
+Domaine (5) 
+(
+)2(
+)
+aq
+Sb OH
++
+ 
+2
+3(
+)
+sd
+Sb O
+ 
+(
+)4(
+)
+aq
+Sb OH
+−
+ 
+Domaine (6) 
+(
+)
+sd
+Sb
+ 
+Q40) Déterminer la concentration Ctra utilisée pour tracer le diagramme de la page 12. 
+Du diagramme, la frontière entre 
+(
+)
+2
+5(
+)
+6(aq)
+sd
+Sb O
+Sb OH
+−
+ est située à pH = 2,15 
+En plus, des données (page2), la concentration de 
+(
+)6(aq)
+Sb OH
+−
+ est reliée au pH par la relation : 
+(
+)
+(
+)
+10
+6(aq)
+2
+8,3
+2 log
+pH
+Sb OH
+−
+
+
+
+=
++ 
+
+ 
+La convention de frontière : 
+(
+)6(aq)
+tra
+Sb OH
+C
+−
+
+=
+
+
+ 
+(
+)
+10
+8,3
+log
+2,15
+2
+tra
+pH
+C
+=
++
+=
+ ➔ 
+(
+)
+10
+log
+2,15
+4,15
+2
+tra
+C
+=
+−
+= − 
+D’où, Ctra = 10-2 mol.L-1 
+
+ 
+Page 14 sur 16 
+Épreuve de chimie section MP 
+Année : 2022-2023 
+•  
+Q41) Montrer que l’expression de la frontière séparant les domaines (1) et (3) s’écrit en 
+fonction du potentiel standard rédox du couple mis en jeu et du pH. 
+Couple (1) : 
+(
+)
+2
+5(
+)
+2(aq)
+sd
+Sb O
+Sb OH
++
+ 
+(
+)
+2
+5(
+)
+2
+2(aq)
+2( )
+6
+4
+2
+:
+                         
+2
+2
+:
+sd
+D
+g
+G
+Sb O
+H
+e
+Sb OH
+H O réduction
+H
+H
+e
+oxydation
++
++
+−
++
+−
++
++
+=
++
+=
++
+ 
+Bilan : 
+(
+)
+2( )
+2
+5(
+)
+2
+2(aq)
+6
+2
+2
+4
+g
+sd
+D
+G
+Sb O
+H
+H
+Sb OH
+H
+H O
++
++
++
++
++
+=
++
++
+ 
+Le potentiel d’électrode : 
+(
+)
+(
+)
+2
+5(
+)
+2(aq)
+sd
+E Sb O
+Sb OH
+E
++
+=
+(
+)
+(
+)
+(
+)
+6
+2
+5(
+)
+10
+2
+2(aq)
+2(aq)
+0,06
+log
+4
+D
+sd
+H
+Sb O
+Sb OH
+Sb OH
++
++
++
+
+
+
+
+
+
+
+
++
+
+
+
+
+
+
+
+
+
+
+
+ 
+(
+)
+(
+)
+2
+5(
+)
+2(aq)
+sd
+E Sb O
+Sb OH
+E
++
+=
+(
+)
+(
+)
+(
+)
+2
+5(
+)
+10
+2(aq)
+0,03 log
+0,09
+sd
+tra
+Sb O
+Sb OH
+C
+pH
++
+−
+
+−
+
+ 
+Q42) À l’aide du diagramme E-pH de la page 12, estimer la valeur du potentiel standard 
+rédox du couple (1)/(3) de la question précédente. 
+À pH = 0 ➔ 0,74
+E
+=
+(
+)
+(
+)
+(
+)
+2
+2
+5(
+)
+10
+2(aq)
+0,03 log
+10
+sd
+Sb O
+Sb OH
++
+−
+−
+
+ 
+E
+(
+)
+(
+)
+2
+5(
+)
+2(aq)
+0,74
+0,06
+0,68
+sd
+Sb O
+Sb OH
+V
++
+=
+−
+=
+ 
+Q43) Déterminer la valeur de la constante d'équilibre de la réaction impliquant les entités (4) 
+et (5) du diagramme, étant donné que le pH à la frontière verticale qui les sépare est de 9,85. 
+De la question Q37) ➔ 
+(
+)
+2
+3(
+)
+2
+4(aq)
+5
+2
+2
+sd
+Sb O
+H O
+Sb OH
+H
+−
++
++
+=
++
+ 
+À l’équilibre, 
+3
+K
+(
+)
+2
+2
+4(aq)
+H
+Sb OH
+−
++
+
+
+
+
+=
+
+
+
+
+ 
+10
+3
+log
+K
+−
+(
+)
+(
+)
+(
+)
+2
+2
+10
+10
+4(aq)
+log
+log
+H
+Sb OH
+−
++
+
+
+
+
+
+
+= −
+−
+
+
+
+
+
+
+
+ 
+10
+3
+log
+K
+−
+(
+)
+(
+)
+10
+2
+2 log
+tra
+pH
+C
+=
+
+−
+ 
+3
+K
+(
+)
+10
+2
+2 log
+10
+tra
+pH
+C
+−
++ 
+=
+ 
+Application numérique : 
+3
+K
+(
+)
+2
+10
+2 9,85 2 log
+10
+23,7
+10
+10
+−
+−
++ 
+−
+=
+=
+ 
+Ce qui confirme (données page 2) : 
+(
+)
+2
+3(
+)
+4(aq) :
+sd
+Sb O
+Sb OH
+−
+3
+pK
+23,7
+=
+  
+
+ 
+Page 15 sur 16 
+Épreuve de chimie section MP 
+Année : 2022-2023 
+Q44) Donner l’expression puis calculer la valeur de l’enthalpie libre standard de cette 
+réaction à 298 K. 
+r
+T
+G
+
+R T
+Ln K
+= −
+
+(
+) 
+Application numérique : 
+r
+T
+G
+
+(
+)
+3
+23,7
+1
+8,314 10
+298
+10
+135,20
+.
+Ln
+kJ mol
+−
+−
+−
+= −
+
+
+
+=
+ 
+298
+r
+K
+G
+
+(
+)
+1
+23,7
+8,314 298
+10
+135204,2 .J mol
+Ln
+−
+−
+= −
+
+
+=
+ 
+Q45) Donner l’expression de l’enthalpie libre standard de cette réaction à l'aide des 
+grandeurs thermodynamiques appropriées données au début de l’énoncé. 
+r
+T
+G
+
+i
+i
+
+
+=
+
+2
+i
+
+=
+
+
+(
+)
+(
+)
+4 ,
+2
+Sb OH
+aq
+
+−
++ 
+(
+)
+,
+H
+aq
+
++
+−
+(
+)
+2
+3,
+5
+Sb O sd
+
+−
+(
+)
+2 ,
+H O liq  
+Q46) Déterminer la valeur du potentiel chimique standard 
+(
+)
+(
+)
+4 ,
+Sb OH
+aq
+−
+. 
+
+(
+)
+(
+)
+4 ,
+r
+T
+G
+Sb OH
+aq
+−
+
+=
+
++
+(
+)
+2
+3,
+5
+Sb O sd
+
++ 
+(
+)
+2 ,
+2
+H O liq
+
+−
+(
+)
+,
+2
+H
+aq
++
+ 
+Application numérique 
+
+(
+)
+(
+)
+(
+)
+1
+4
+135,20
+769,9
+5
+237,2
+2 0
+,
+910,35
+.
+2
+Sb OH
+aq
+kJ mol
+−
+−
+−
++ −
+−
+=
+= −
+ 
+ 
+ 
+ 
+ 
+FIN DE L’ÉPREUVE 
+ 
+ 
+
+ 
+Page 16 sur 16 
+Épreuve de chimie section MP 
+Année : 2022-2023 
+Page vide 
+Q18)  
+2ème méthode : 
+(
+)
+As
+As
+As
+As
+As
+As
+Ge
+As
+As
+Ge
+Ge
+As
+Ge
+As
+Ge
+n
+m
+M
+m
+x
+n
+n
+m
+M
+m
+M
+m
+m
+M
+M
+=
+=
+=
++
++
++
+
+ 
+(
+)
+(
+) (
+)
+0,67
+1
+As
+As
+As
+As
+Ge
+As
+Ge
+As
+As
+As
+Ge
+w
+w
+x
+w
+w
+M
+M
+w
+w
+M
+M
+=
+=
+=
++
+
++
+−
+
+ 
+Le composé défini de formule AsuGev 
+0,67
+As
+u
+x
+u
+v
+=
+=
++
+ ➔ 
+(
+)
+0,67
+u
+u
+v
+=
+
++
+➔ 
+(
+)
+0,67
+2
+1 0,67
+1
+u
+v =
+=
+−
+ 
+D’où la formule : As2Ge 
+3ème méthode 
+0,69
+As
+As
+As
+Ge
+m
+w
+m
+m
+=
+=
++
+ 
+0,31
+Ge
+Ge
+As
+Ge
+m
+w
+m
+m
+=
+=
++
+ 
+As
+As
+As
+As
+Ge
+Ge
+Ge
+Ge
+w
+m
+n
+M
+w
+m
+n
+M
+
+=
+=
+
+ ➔ 
+As
+As
+Ge
+Ge
+Ge
+As
+n
+w
+M
+n
+w
+M
+
+
+=
+
+
+
+
+ 
+Le composé défini de formule AsuSiv 
+ 
+As
+As
+Ge
+Ge
+Ge
+As
+n
+w
+M
+u
+v
+n
+w
+M
+
+
+=
+=
+
+
+
+
+ 
+Application numérique : 
+0,69
+73
+2
+0,31
+75
+1
+u
+v
+
+
+=
+
+
+
+
+ 
+D’où la formule : As2Ge 
+ 

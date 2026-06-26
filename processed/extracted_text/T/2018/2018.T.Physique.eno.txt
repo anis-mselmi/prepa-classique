@@ -1,0 +1,489 @@
+REPUBLIQUE TUNISIENNE 
+Ministère de l'Enseignement Supérieur et de la 
+Recherche Scientifique 
+Concours Nationaux d'Entrée aux Cycles de 
+Formation d'ingénieurs 
+Session 2018 
+Concours Technologie 
+Epreuve de Physique 
+Date : Lundi 04 Juin 2018 
+Heure: 8 H 
+Durée: 4 H 
+Nombre de pages : 8 
+Barème : Problème 1 : 12 pts , 
+Problème 2 : 8 pts 
+L'usage d'une calculatrice non programmable est autorisé. 
+L'épreuve comporte deux problèmes indépendants, le candidat peut les résoudre dans l'ordre qui lui 
+convient, en respectant néanmoins la numérotation des questions. 
+Un candidat peut toujours se servir d'un résultat fourni par l'énoncé pour continuer sa composition. 
+Données utiles et notations 
+• 
+Un point M de l'espace est repéré par ses coordonnées cartésiennes (x, y, z) dans la base orthonormée 
+directe ( Ûx, Ûy, Ûz ); 
+• 
+Célérité de la lumière dans le vide : c = 3 108 m. s-1 ; 
+• 
+Permittivité électrique du vide : t:0 = -
+1
+- 10-9 F. m-1 ; 
+36rr 
+• 
+On note par j le nombre complexe tel que j 2 = -1 ; 
+• 
+Pour un champ vectoriel W, on rappelle que : roi(roiW) = grcÏd( divW) - ~w; 
+• 
+L'expression de la valeur moyenne dans le temps du vecteur de Poynting associé à une onde 
+électromagnétique cJi.., fil s'écrit : (rr) = 
+2
+:
+0 Ré@. AB_•) où B_• désigne le complexe conjugué de B_, et Ré 
+désigne la partie réelle d'une grandeur complexe. 
+Problème 1 
+Guide d'onde à section rectangulaire 
+On étudie dans cette partie la propagation d'une onde électromagnétique hyperfréquence de 
+pulsation w dans un guide d'onde de section rectangulaire (figure 1). Cette onde se propage suivant 
+l'axe Oz en se réfléchissant sur ses faces internes formées de matériaux parfaitement conducteurs 
+dans lesquels le champ électrique de l'onde s'annule. 
+L'espace interne du guide est l'air ayant les mêmes propriétés 
+que le vide. 
+Les dimensions de ce guide sont a suivant Ox, et b suivant Oy. 
+Le champ électrique de cette onde peut s'écrire sous la forme: 
+Ê = Eo(x,y) ei(wt-kgz) Ûx 
+Figure 1 
+E0 (x, y) est une fonction dont on demandera à déterminer dans la suite du problème, et kg est un 
+réel positif. 
+Concours Technologie 
+Session 2018 
+Epreuve de Physique 
+Page 1/8 
+
+1-
+Cette onde est-elle plane? Est-elle progressive? Donner son vecteur d'onde et préciser sa 
+polarisation. 
+2-
+Ecrire les équations de Maxwell dans l'espace vide du guide. 
+3-
+Montrer que le champ Ê est indépendant de x. 
+4-
+Ecrire l'équation de propagation du champ Ê et déduire l'équation différentielle vérifiée 
+wz 
+par E0(y). On posera : 0 2 = 7z"- kf 
+5-
+Déterminer l'expression de E0(y) dans le cas où fl 2 > 0 et qui satisfait les conditions aux limites 
+en y = 0 et y= b (on introduira un entier m). 
+En déduire que l'expression de Ê peut se mettre sous la forme: 
+Ê = 2j EO sin(ily) ej(wt-kgz) Ûx avec EO est une constante réelle. 
+6-
+Etablir l'équation de dispersion du guide en fonction de kg, b, c, w et m. Le guide est-il dispersif? 
+Justifier. 
+7- A quelle condition sur la pulsation w de l'onde a-t-on propagation? En déduire la pulsation de 
+coupure lùcm du guide. On donnera également cette condition en fonction de la longueur d'onde 
+À. 
+8- A chaque valeur de mon associe un mode propagation : 
+a-
+Exprimer la vitesse de phase v<p de l'onde en fonction de w, cet lùcm· 
+b- Trouver la vitesse de groupe Vg en fonction de c, Àcm et À. 
+c-
+Exprimer la relation entre À, la longueur d'onde du guide Àg et la longueur d'onde de coupure 
+Àcm-
+9-
+On choisit un guide dont le côté : b = 22,86 ± 0,04 mm. 
+a-
+Déterminer la fréquence de coupure et la longueur d'onde associée pour les modes suivants: 
+m = 1 et 2. Calculer les incertitudes sur À.ci et la fréquence Vci· 
+b- A quelle condition sur la longueur d'onde a-t-on propagation uniquement du mode m = 1 ? 
+c-
+L'onde se propageant dans le guide est émise par une diode Gunn dont la fréquence varie 
+entre 8,5 et 11 GHz. Quel est parmi les modes m = 1 et 2 celui qui est transmis par ce guide ? 
+10- Exprimer le champ magnétique B de l'onde. Qu'elle est sa composante transversale? Justifier 
+l'expression« onde transverse électrique». 
+11- Montrer que le champ magnétique B obtenu vérifie l'équation de Maxwell-Flux. 
+12-0n se propose de déterminer l'impédance Z du guide définie par Z = µ0 EJ.. où EJ.et BJ. désignent 
+BJ.. 
+respectivement les composantes transverses du champ électrique et du champ magnétique. 
+Exprimer Z et donner son unité. 
+13- L'onde se propageant dans ce guide résulte de la superposition de deux ondes planes se 
+propageant symétriquement à l'axe Oz, et de vecteurs d'ondes k1 et k2 faisant respectivement les 
+angles 0 et -0 cet axe. Les expressions des champs électriques de ces ondes peuvent s'écrire sous 
+la forme: 
+Êi = -Eo ej(wt-k.sin0.y-k.cos0.z) Ûx 
+Êz = Eo ej(wt+k.sin0.y-k.cos0.z) Ûx 
+a-
+Représenter ce guide sur une figure faisant montrer les vecteurs d'ondes k1 et k2 • Exprimer 
+ces vecteurs et donner leur norme. On notera k cette norme. 
+b-
+Le champ résultant Ê de la superposition de Ê1 et Ê2 doit vérifier une condition aux limites sur 
+une paroi du guide. 
+Exprimer cette condition et déduire une relation entre À, b, 0 et l'entier m. 
+c-
+Exprimer la vitesse de phase de cette onde. 
+14- Dans la suite du problème, on choisit un guide de dimensions a= À/3 et b = 3À/4. 
+a-
+Vérifier que seul le modem = 1 peut se propager. 
+b- Exprimer pour ce mode les vitesses v<p et Vg en fonction de c. 
+Concours Technologie 
+Session 2018 
+Epreuve de Physique 
+Page 2/8 
+
+15- Soit R le vecteur de Poynting de l'onde dans le guide. 
+a-
+Calculer sa valeur moyenne temporelle (R). 
+_, 
+1 rb 
+b-
+On définit la valeur moyenne de (R) dans l'espace par: Rmay = b Jo (R)dy 
+Déterminer Rmoy en fonction de E0 et Vg-
+c-
+En déduire la puissance moyenne totale P transportée dans le guide. 
+d- A la fréquence v = 10 GHz, on transporte une puissance moyenne de 10 mW. Calculer 
+l'amplitude E0 du champ électrique. 
+16- On définit la densité moyenne d'énergie électromagnétique dans l'espace et dans le temps par: 
+'[.,1/. 
+= 2;_ rb (<EoE2} + <~>) d • 
+moy 
+b Jo 
+2 
+2µ 0 
+Y 
+a-
+Déterminer Wmoy· 
+b- Qu'elle est la signification physique du rapport 1J = Rmoy ? Comparer 17 à vg. Conclure. 
+Wmoy 
+Modes de résonance d'une cavité fermée 
+X 
+' 
+On considère une cavité fermée parallélépipédique, 
+vide, et de dimension (2a, 2a, d). Le champ électrique 
+solution des équations de Maxwell satisfaisant aux 
+conditions aux limites sur les parois de la cavité 
+supposées parfaitement conductrices est de la forme : 
+la //,,J.-------------------------- -----
+y 
+d 
+{
+Ex = Eox cos(kxx) sin(kyy) sin(kzz) sin(wt) 
+Ey = E0y sin(kxx) cos(kyy) sin(kzz) sin(wt) 
+Ez = E02 sin(kxx) sin(kyy) cos(kzz) sin(wt) 
+17- Quelle est la nature de l'onde décrite par ces composantes? 
+18- Rappeler l'équation de propagation dans l'espace vide de la cavité. En déduire la relation de 
+dispersion. 
+19- On se propose de déterminer les fréquences des modes de résonnance de cette cavité. 
+a-
+On considère l'interface x = 2a, quelles sont les composantes qui doivent s'annuler sur cette 
+interface? En déduire la composante kx du vecteur d'onde k en fonction d'un nombre 
+entier m. 
+b-
+En déduire de la même manière les composantes ky et kz de ce vecteur, respectivement en 
+fonction des deux entiers n et q. 
+c-
+Exprimer les fréquences Vmnq des modes de résonnance de la cavité. 
+20- L'expression approchée de Vmnq peut se mettre sous la forme: 
+Vmnq = q zcd [ 1 + m:t (~)'] 
+a-
+A quelle condition sur m et n, obtient-on des modes longitudinaux (k. suivant Oz) ? Donner 
+l'expression de la fréquence Vooq· 
+b-
+En déduire la différence de fréquence entre deux modes longitudinaux successifs. 
+21- Les pertes d'énergie électromagnétique dans la cavité précédente ont différentes origines (parois 
+non parfaitement conductrices, pertes par diffusion, par absorption, ... ). Ces pertes peuvent être 
+quantifiées en calculant le facteur de qualité Q de cette cavité défini par : 
+Concours Technologie 
+Session 2018 
+Epreuve de Physique 
+Page 3/8 
+
+w 0! 
+Q = 1!;1 
+M est la variation de l'intensité/ de l'onde après un aller-
+retour d'un rayon lumineux dans la cavité, M est le temps 
+d'un aller-retour et w 0 est la pulsation de l'onde. 
+:e 
+aller-retour 
+Soit 9{1 et 9{2 les coefficients de réflexion en énergie respectivement sur les parois localisées en 
+z = 0 et z = d. On se placera dans les conditions de Gauss. 
+a-
+Exprimer l'intensité I' de l'onde après un aller-retour dans la cavité. En déduire Lli. 
+b- Exprimer Llt. 
+c-
+Calculer Q pour 9{1 = 0, 994 , 9{2 = 0, 980, d = 30 cm et À0 = 0,63 µm. 
+22- Ces pertes peuvent aussi être traduites en termes de relaxation d'énergie (perte d'intensité). 
+a-
+Quel est le signe de dl ? Réécrire l'expression de Q pour un intervalle de temps dt. 
+dt 
+b- Sachant que Q est positif, montrer que l'intensité de l'onde peut s'écrire sous la forme : 
+I = Io e-t/Tc 
+/ 0 est l'intensité de l'onde dans la cavité à t = O. Exprimer Tc en fonction de w0 et Q. 
+c-
+Donner une interprétation physique de Tc. Calculer sa valeur pour les valeurs numériques 
+précédentes. 
+23- Cette expression de l'intensité de l'onde permet d'écrire le champ électrique associé sous la 
+forme: 
+E(t) = E0 eiwot e-t/21:c 
+, la dépendance spatiale est omise. 
+Pour passer de l'espace des temps à l'espace des fréquences, on calcule la transformée de Fourier 
+de E(t) définie par: 
+E(w) = .2:... f"' E(t) e-jwt dt 
+2rr o 
+a-
+Calculer E(w). 
+b- Montrer que l'intensité spectrale I(w) = E(w).E*(w) peut s'écrire sous la forme: 
+c-
+Tracer l'allure de J(w). 
+I(w) = E~ 
+1 
+2 
+47r2 (w-wo)z+(-1 ) 
+2Tç 
+d- Montrer que la largeur à mi-hauteur de I(w) exprimant sa largeur spectrale s'écrit: Llv = -
+1-. 
+2rr Tc 
+e-
+On définit la longueur de cohérence d'une source par : Le = CTc· 
+i-
+Calculer Le pour les sources suivantes et commenter les valeurs obtenues. 
+► Lampe à vapeur de mercure de largeur spectrale Llv = 10 GHz. 
+► Laser He-Ne de fréquence v0 = 4,741014 Hz de largeur spectrale tw = 1,5 GHz. 
+► Laser à C02 de fréquence v0 = 2,83 1013 Hz et de largeur spectrale ôv = 10 KHz. 
+ii-
+Calculer les longueurs d'onde de ces lasers. A quel domaine de fréquence 
+appartiennent-ils ? 
+Concours Technologie 
+Session 2018 
+Epreuve de Physique 
+Page4/8 
+
+Problème 2 
+Interface entre deux milieux transparents 
+On s'intéresse dans cette partie à la réflexion et à la transmission en incidence normale d'une onde 
+électromagnétique incidente sur une interface plane infinie (plan d'équation x = 0) séparant deux 
+milieux transparents 1 et 2 d'indices de réfraction respectifs n1 et n 2 constants (figure 2). 
+1 Milieu 1 1 
+1 Milieu 2 1 
+Onde incidente 
+Onde transmise 
+► 
+► 
+• - - - - - - - - - - - - - -.. x 
+0 
+Onde réfléchie 
+Figure 2 
+L'onde électromagnétique incidente supposée plane monochromatique de pulsation w provenant 
+du milieu 1 se propagaeant dans le sens des x croissants arrive à l'interface x = O. Selon les lois de 
+Descartes, celle-ci donnera naissance à une onde plane réfléchie dans le milieu 1 et à une onde 
+plane transmise dans le milieu 2. On admettra que ces deux ondes possèdent la même pulsation 
+que celle de l'onde incidente. 
+On prendra comme expression : 
+• 
+du champ électrique associé à l'onde incidente: ff_t = E0 Ûy exp ~- (wt - n1 ; x )]. 
+• 
+du champ électrique associé à l'onde réfléchie: & = Enr exp V ( wt + n 1 ;x)]. 
+• 
+du champ électrique associé à l'onde transmise : J1 = §Jt exp V ( wt - n2 ; x)]. 
+L'amplitude E0 est supposée réelle, alors que les vecteurs §Jr et &t sont à priori complexes. 
+1-
+Exprimer les vecteurs d'onde ki, kr et kt des ondes incidente, réfléchie et transmise. 
+2-
+Déterminer, sous la forme d'un produit vectoriel, les champs magnétiques 'i , §i. et l associés 
+aux trois ondes. 
+3-
+En admettant la continuité des champs électrique et magnétique à l'interface x = 0, déduire deux 
+équations reliant §J = E0 Ûy, §ir et &t-
+4-
+Exprimer alors §ir et Ent en fonction de & , n 1 et n 2 . On pourra utiliser la formule : 
+â A (b J\ ë) = (â. ë)b - (â. "E)ë. 
+5-
+Préciser l'état de polarisation des ondes réfléchie et transmise et discuter de l'existence d'éventuel 
+déphasage de ces ondes par rapport à l'onde incidente. 
+6-
+On définit les coefficients de réflexion !. et de transmission !. en amplitude pour le champ 
+électrique par: r = &ir et t = &it_ Exprimer r et t en fonction de n1 et n 2 • 
+-
+&i 
+-
+&i 
+--
+7-
+Exprimer la valeur moyenne du vecteur de Poynting (rri) de l'onde incidente en fonction de c, E0, 
+IE01, n1 et Ûx, -
+,_ 
+8-
+Déterminer de _:même les expressions de (rrr) et (rrt) des valeurs moyennes des vecteurs de 
+Poynting associ~es respectivement aux ondes réfléchie et transmise. 
+9-
+On définit les coefficients de réflexion R et de transmission T en puissance, ou encore en intensité, 
+à l'interface x = 0 par : 
+Exprimer R et T en fonction de n1 et n 2 . Vérifier que R + T = 1. Que traduit cette relation? 
+Concours Technologie 
+Session 2018 
+Epreuve de Physique 
+Page 5/8 
+
+Interférences d'ondes multiples transmises par une lame 
+On considère, dans cette partie, une lame mince transparente d'épaisseur e et d'indice n supposé 
+constant. 
+Cette lame, située dans l'air d'indice 1, est 
+éclairée par une source lumineuse supposée 
+monochromatique de longueur d'onde dans le 
+vide À (figure 3). 
+Cette 
+lame 
+donnera 
+des 
+franges 
+d'égale 
+inclinaison à l'infini qu'on peut observer sur un 
+écran placé dans le plan focal image d'une lentille 
+convergente de distance focale image f'. 
+Figure 3 
+écran 
+f' 
+~------------
+lentille 
+10- Pour un rayon issu de la source sous l'incidence i, déterminer la différence de marche o(M) en un 
+point M de l'écran entre deux rayons consécutifs transmis par la lame (figure 4). Montrer que le 
+déphasage correspondant s'écrit: <p = 
+2
+).rr 2ne cos 0 où 0 désigne l'angle de réfraction dans la 
+lame. 
+Figure 4 
+11- On désigne par r1 et t1 les coefficients de réflexion et de transmission en amplitude du dioptre 
+air/lame, et r2 et t 2 ceux du dioptre lame/air. 
+On ne s'intéressera pas aux rayons émergents de la lame par réflexion. On note E0 l'amplitude de 
+l'onde incidente associée au rayon incident. La phase de la 1ère onde transmise par la lame est prise 
+comme origine des phases. 
+L'amplitude complexe de cette onde est: !b = t 1 t 2 E0 . 
+La 2ème onde transmise aura pour amplitude complexe : !b. = t1 rJ: t2 e-jcp E0 .... 
+On admettra que les coefficients de réflexion R et de transmission T en intensité sont les mêmes pour 
+les deux dioptres: R = rl = rJ: et T = t1t2 . On a toujours la relation: R + T = 1. 
+L'amplitude de l'onde transmise de rang N s'écrit: 
+liN = RN-1 T Eo e-j(N-1)cp 
+a-
+Quelle est la condition sur le coefficient R pour que les amplitudes réelles des ondes transmises 
+successives soient presque égales ? 
+b- Exprimer l'amplitude complexe lb résultante de la superposition de toutes les ondes 
+transmises par la lame. On pourra utiliser le résultat : 
+I:=o(aN) = -
+1
+-
+lorsque lal < 1. 
+-
+1-a 
+-
+12- Exprimer l'intensité J = §..r.!J.j, résultante en un point M de l'écran sous la forme: 
+1 
+I = 10------
+1 + m sin2 (f) 
+Donner les expressions de / 0 et m. On pourra utiliser l'identité: 1 - cos(2x) = 2sin2 (x). 
+13- Pour quelles valeurs de <p l'intensité l est-elle maximale ? Exprimer les intensités; maximale lmax 
+et minimale lmin de I. 
+Concours Technologie 
+Session 2018 
+Epreuve de Physique 
+Page 6/8 
+
+La figure 5 donne un exemple de tracé de l'évolution de la courbe d'intensité I pour trois valeurs du 
+coefficient de réflexion en intensité: R = 0,5; R = 0,9 et R = 0,99. 
+I / '• 
+1 -----
+Figure 5 
+Un interféromètre réel : le Fabry-Perot 
+L'interféromètre de Fabry-Perot (figure 6) est un instrument constitué de deux lames de verres dont 
+les faces en regard sont planes, parallèles et très réfléchissantes. Elles limitent une lame d'air 
+d'épaisseur e et d'indice n = 1. Les lames de verre sont légèrement prismatiques afin d'éviter 
+d'éventuelles 
+réflexions 
+parasites. 
+L'interféromètre 
+éclairé 
+par 
+une 
+source 
+supposée 
+monochromatique de longueur d'onde dans le vide À. est souvent utilisé dans le montage suivant: 
+écran 
+f' 
+étendue 
+~------------
+lentille 
+Figure 6 
+L'écran d'observation étant placé au plan focal image de la lentille convergente de distance focale 
+image f'. 
+14- Donner la différence de phase entre deux rayons transmis consécutifs et justifier que les franges 
+d'interférences sont des anneaux. 
+15-Soit p0 l'ordre d'interférences au centre de ces anneaux. On supposera que p0 = q + e avec q 
+entier et e appelé excédent fractionnaire, est un réel tel que O < e < 1. 
+a-
+Exprimer le rayon Pk sur l'écran du kème anneau brillant compté à partir du centre, en 
+supposant que l'angle l'incidence ik correspondant est petit. 
+Xz 
+On prendra : cos x ~ 1 - -
+et tg x ~ x lorsque x est proche de zéro. 
+2 
+b- Application numérique: évaluer le rayon p2 sur l'écran du 2ème anneau brillant. On donne 
+f' = 50 cm; e = 10 mm et À.= 546,1 nm. 
+16- Le contraste des franges d'interférences est défini par: C = lmax-~min_ 
+lmax+ min 
+a-
+En se reportant à la question 13, exprimer C en fonction de m puis en fonction de R. 
+b- Calculer C dans les cas suivants: R = 0,5; R = 0,9 et R = 0,99. 
+17- On cherche à déterminer la finesse '.F de l'instrument. 
+a-
+On définit la largeur à mi-hauteur !::.<p des pics d'intensité indiquée à la figure 5 par : 
+I(!::.<p/2) = 10/2. 
+En se limitant au cas où le coefficient R est proche de 1 et en utilisant l'identité sin x ~ x, 
+2(1-R) 
+montrer que : fl<p = ..fR. • 
+Concours Technologie 
+Session 2018 
+Epreuve de Physique 
+Page 7/8 
+
+b- On définit la finesse 'F de l'instrument par 'F = zn. Exprimer 'F en fonction de R . 
+.6cp 
+c-
+Evaluer 'F pour les cas R = 0,5; R = 0,9 et R = 0,99. Quel est l'intérêt d'avoir une finesse 
+élevée? 
+d-
+Quel est parmi les paramètres « contraste» et «finesse», celui qui permet de mieux 
+caractériser l'instrument? 
+18- L'interféromètre de la figure 6 étant éclairé par une onde lumineuse monochromatique de 
+longueur d'onde À.. On observe sur l'écran des anneaux dont le rayon p vérifie la relation : 
+Pz= !'2 (z-r~) 
+L'entier p désigne l'ordre d'interférences de l'anneau. 
+En mesurant le carré des rayons des anneaux à différents ordres, proposer une méthode pratique 
+permettant de déterminer la longueur d'onde À. connaissant les valeurs de f' et e. 
+19- L'interféromètre de la figure 6 étant éclairé par une source émettant deux longueurs d'onde très 
+voisines (cas du doublet jaunt! du Sodium) : À et À+ LU où LU « À. Chacune des longueurs d'onde 
+a son propre système d'anneaux. 
+On admet qu'on pourra distinguer les deux systèmes d'anneaux, à l'ordre p, à condition que la 
+différence de phase entre eux est plus grande que la largeur à mi-hauteur /J(() d'un anneau définie 
+précédemment. 
+a-
+Donner alors la plus petite différence de longueur d'onde /Jilmin mesurable en fonction de À, 'F 
+etp. 
+b- On définit le pouvoir de résolution de l'instrument par :R. = --f---. Exprimer :R en fonction 
+11Amin 
+de p et'F. 
+20- Un filtre interférentiel est constitué d'une lame transparente d'indice net d'épaisseur e du même 
+ordre de grandeur que la longueur d'onde qu'il laisse passer. 
+Cette lame est entourée de deux couches fortement réfléchissantes. li s'agit d'un interféromètre 
+de Fabry-Perot de faible épaisseur et avec un indice n * 1. 
+Eclairé en incidence normale par un faisceau parallèle de lumière blanche, un tel filtre laisse passer 
+2rr 
+toutes les longueurs d'onde À telles que: 1 2ne = 2rr p 
+Le domaine visible correspond au spectre électromagnétique de longueurs d'onde comprises entre 
+400 et 800 nm. 
+a-
+Dans le cas d'une lame de cryolite d'indice n = 1,365 et d'épaisseur e = 0,5 µm, quelles sont 
+les longueurs d'onde passante dans le domaine visible? 
+b- Pour n'en laisser passer qu'une seule dans le domaine visible, il faut diminuer l'épaisseur e. 
+Avec e = 0,25 µm, quelle est la longueur d'onde passante dans le domaine visible? 
+c-
+Pour cette épaisseur, et en se référant au résultat de la question 19, calculer la bande passante 
+/J.À du filtre pour R = 0, 97. 
+<fin. de l'ép11:.eu.ve 
+Concours Technologie 
+Session 2018 
+Epreuve de Physique 
+Page 8/8 

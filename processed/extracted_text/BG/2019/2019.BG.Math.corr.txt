@@ -1,0 +1,1023 @@
+République Tunisienne
+Ministère de l’Enseignement Supérieur
+et de la Recherche Scientiﬁque
+Concours Nationaux d’Entrée aux Cycles
+de Formation d’Ingénieurs
+Session 2019
+ـﺔّﺍاﻟﺗﻭوﻧﺳﻳﯾـ  ـــﺔّﻭوﺭرﻳﯾُﺍاﻟﺟﻣﻬﮭ
+ﺍاﻟﻣﻧﺎﻅظﺭرﺍاﺕت  ﺍاﻟﻭوﻁطﻧﻳﯾﺔ  ﻟﻠﺩدﺧــﻭوﻝل
+ﺇإﻟﻰ  ﻣﺭرﺍاﺣـﻝل  ﺗﻛﻭوﻳﯾـﻥن  ﺍاﻟﻣﻬﮭﻧﺩدﺳﻳﯾـﻥن
+  ﺩدﻭوﺭرﺓة2017
+9 
+Concours Biologie et Géologie
+Corrigé de l’épreuve de Mathématiques
+Exercice 1
+1. la matrice de f dans la base canonique B,
+A =
+0
+B
+B
+B
+B
+B
+@
+1
+2
+0
+1
+2
+0
+1
+0
+1
+2
+0
+1
+2
+1
+C
+C
+C
+C
+C
+A
+.
+2. Pour que f soit une projection il faut que A2 = A.
+3.
+(a)
+det(u1, u2, u3) =
+'''''''''''
+1
+1
+1
+1
+−2
+0
+1
+1
+−1
+'''''''''''
+= 6 , 0,
+les vecteurs u1, u2 et u3 sont linéairement indépendents et cardB0 = 3, d’où B0 est une
+base de R3.
+(b) Soit P la matrice de passage de B à B0,
+P =
+0
+B
+B
+B
+B
+B
+@
+1
+1
+1
+1
+−2
+0
+1
+1
+−1
+1
+C
+C
+C
+C
+C
+A
+et P−1 = 1
+6
+0
+B
+B
+B
+B
+B
+@
+2
+2
+2
+1
+−2
+1
+3
+0
+−3
+1
+C
+C
+C
+C
+C
+A
+la matrice de passage de B0 à B.
+
+Concours Biologie et Géologie
+Corrigé de l’épreuve de Mathématiques
+Page 2 sur 9
+(c) On a
+P−1Au = 1
+6
+0
+B
+B
+B
+B
+B
+@
+2
+2
+2
+1
+−2
+1
+3
+0
+−3
+1
+C
+C
+C
+C
+C
+A
+1
+2
+0
+B
+B
+B
+B
+B
+@
+1
+0
+1
+0
+2
+0
+1
+0
+1
+1
+C
+C
+C
+C
+C
+A
+0
+B
+B
+B
+B
+B
+@
+x
+y
+z
+1
+C
+C
+C
+C
+C
+A
+= 1
+6
+0
+B
+B
+B
+B
+B
+@
+2x + 2y + 2z
+x −2y + z
+0
+1
+C
+C
+C
+C
+C
+A
+,
+1
+6
+⇣
+2x + 2y + 2z, x −2y + z, 0
+⌘
+les coordonnées de f (u) dans B0.
+4.
+(a) On a :
+f (u1) = Au1 = u1, d’où u1 est le vecteur propre de f, associé à la valeur propre 1.
+f (u2) = Au2 = u2, d’où u2 est le vecteur propre de f, associé à la valeur propre 1.
+f (u3) = Au3 = 0, d’où u3 est le vecteur propre de f, associé à la valeur propre 0.
+(b) La matrice de f relativement à la base B0 est donner par :
+A0 =
+0
+B
+B
+B
+B
+B
+@
+1
+0
+0
+0
+1
+0
+0
+0
+0
+1
+C
+C
+C
+C
+C
+A
+.
+5.
+(a) 0 est la valeur propre associée au vecteur propre u3 donc Kerf = vect{e1 −e3}.
+(b) On a dim(Imf)=2, Imf = {v0 2 R3 /9 v, f (v) = v0}; c.à.d
+Av = v0 ) x0 = z0
+et
+y0 2 R
+v0 = x0
+0
+B
+B
+B
+B
+B
+@
+1
+0
+1
+1
+C
+C
+C
+C
+C
+A
++ y0
+0
+B
+B
+B
+B
+B
+@
+0
+1
+0
+1
+C
+C
+C
+C
+C
+A
+d’où Imf = vect{e1 + e3,e2}. Les vecteurs e1 + e3 et e2 sont indépendants, forment une
+base de Imf d’équation : x −z = 0.
+(c) on a :
+< e1 −e3,e1 + e3 >=<
+0
+B
+B
+B
+B
+B
+@
+1
+0
+−1
+1
+C
+C
+C
+C
+C
+A
+,
+0
+B
+B
+B
+B
+B
+@
+1
+0
+1
+1
+C
+C
+C
+C
+C
+A
+>= 0,
+
+Concours Biologie et Géologie
+Corrigé de l’épreuve de Mathématiques
+Page 3 sur 9
+< e1 −e3,e2 >=<
+0
+B
+B
+B
+B
+B
+@
+1
+0
+−1
+1
+C
+C
+C
+C
+C
+A
+,
+0
+B
+B
+B
+B
+B
+@
+0
+1
+0
+1
+C
+C
+C
+C
+C
+A
+>= 0.
+Le Kerf est orthogonal à Imf.
+6.
+(a) f est projection orthogonale sur Im( f ) parallèlement à Ker( f ). Im( f ) est le plan P
+d’équation : x −z = 0.
+(b) f (v) est caractérisé comme étant l’unique vecteur de P minimisant la distance de v à
+P
+kv −f (v)k = min
+u2P kv −uk
+f (v) = 1
+2(5e1 + 4e2 + 5e3) = u0.
+7. On considère la fonction suivante : h : R2 −! R, déﬁnie par :
+h(x,y) = (x + y −1)2 + (y −2)2 + (x + y −4)2.
+(a) h(x,y) = (x + y −1)2 + (y −2)2 + (x + y −4)2 = kw −vk2.
+(b) On a : w = (x + y)e1 + ye2 + (x + y)e3 = (x + y)(e1 + e3) + ye2, d’où w 2Imf.
+(c) Les points critiques de la fonction h sont les solutions du système :
+∂h
+∂x(x,y)
+=
+4x + 4y −10 = 0
+∂h
+∂y(x,y)
+=
+4x + 6y −14 = 0,
+ce qui donne x = 1
+2 et y = 2.
+∂2 h
+∂x2(x,y) = 4,
+∂2 h
+∂y2 (x,y) = 6,
+∂2 h
+∂x∂y(x,y) = 4,
+d’où s2 −rt = 16 −24 = −8 < 0 et r = 4 > 0, donc le point a0 = (1
+2,2) est un minimum
+et u0 = 1
+2(5e1 + 4e2 + 5e3).
+Exercice 2
+1.
+(a) La fonction de répartition de U est donnée par :
+FU(x) =
+8
+>
+>
+>
+>
+>
+<
+>
+>
+>
+>
+>
+:
+1
+six ≥a,
+x
+a
+si x 2]0,a],
+0
+sinon.
+
+Concours Biologie et Géologie
+Corrigé de l’épreuve de Mathématiques
+Page 4 sur 9
+La variable aléatoire U suit la loi uniforme sur l’intervalle ]0,a],
+(b) Par déﬁnition on a : E(U) = a et V(U) = a2
+12.
+2.
+(a) On a : U 2]0,a] ) U
+a 2]0,1] ) ln
+⇣
+U
+a
+⌘
+2] −•,0], d’où
+X = a
+r
+−ln
+⇣
+U
+a
+⌘
+2 [0,+•[ est bien déﬁnie.
+(b) On considère une variable aléatoire U
+a suivant la loi uniforme sur l’intervalle, ]0;1].
+Soit FX la fonction de répartition de X = a
+r
+−ln
+⇣
+U
+a
+⌘
+. Pour tout x 2 R, on a :
+- Si x 0, FX(x) = 0.
+- Si x > 0 on a :
+FX(x)
+=
+P(X x)
+=
+P
+⇣r
+−ln(U
+a ) x
+a
+⌘
+car a > 0
+=
+P
+⇣
+−ln(U
+a ) (x
+a )2⌘
+=
+P
+⇣
+ln(U
+a ) ≥−x2
+a2
+⌘
+=
+P
+⇣
+U ≥aexp(−x2
+a2 )
+⌘
+=
+1 −FU
+⇣
+aexp(−x2
+a2 )
+⌘
+.
+Comme U est à densité, FU est continue sur R et C1 sur R \ {0;a} donc FX est continue
+sur R et C1 là où aexp(−x2
+a2 ) , 0 et , a i.e. en x , 0.
+Donc X est à densité :
+fX(x) = a2x
+a2 exp(−x2
+a2 )F0
+U
+⇣
+aexp(−x2
+a2 )
+⌘
+= a2x
+a2 exp(−x2
+a2 ) fU
+⇣
+aexp(−x2
+a2 )
+⌘
+et comme aexp(−x2
+a2 ) 2]0;a] pour tout x 2 R alors :
+fX(x) =
+8
+>
+<
+>
+:
+2x
+a2 exp(−x2
+a2 )
+si x > 0
+0
+si x 0.
+(c) Par le changement de variables x = at, dx = adt,
+Z +•
+0
+e−x2
+a2 dx = a
+Z +•
+0
+e−t2dt = a
+pp
+2 .
+(d) E(X) =
+Z +•
+−• x fX(x)dx =
+Z +•
+0
+2x2
+a2 e−x2
+a2 dx.
+Par intégration par parties avec u(x) = x : u0(x) = 1,
+
+Concours Biologie et Géologie
+Corrigé de l’épreuve de Mathématiques
+Page 5 sur 9
+v0(x) = 2x
+a2 e−x2
+a2 : v(x) = −e−x2
+a2 et u et v sont C1 sur [0;t].
+Z t
+0
+2x2
+a2 e−x2
+a2 dx
+=
+h
+−xe−x2
+a2
+it
+0 +
+Z t
+0 e−x2
+a2 dx.
+=
+−te−t2
+a2 +
+Z t
+0 e−x2
+a2 dx.
+d’où
+E(X)
+=
+lim
+t!+•
+⇣
+−te−t2
+2a2 +
+Z t
+0 e−x2
+a2 dx
+⌘
+=
+Z +•
+0
+e−x2
+a2 dx = a
+pp
+2 .
+3.
+(a) Soit FY la fonction de répartition de Y = X2
+a . Pour tout x 2 R, on a :
+- Si y 0, FY(y) = 0.
+- Si y > 0 on a :
+FY(y)
+=
+P(Y y)
+=
+P
+⇣
+X2 ay
+⌘
+car a > 0
+=
+P
+⇣
+X pay
+⌘
+=
+1 −FX
+⇣pay
+⌘
+.
+Comme X est à densité, FX est continue sur R et C1 sur R \ {0}. Donc FY est continue
+sur R et C1 sur R \ {0}. Donc Y est à densité :
+fY(y)
+=
+a
+2 pay fX
+⇣pay)
+⌘
+=
+a
+2 pay
+2 pay
+a2
+e−ay
+a2
+alors :
+fY(y) =
+8
+>
+<
+>
+:
+1
+a exp(−y
+a)
+si x > 0
+0
+six 0,
+d’où Y suit la loi exponentielle de paramètre 1
+a.
+(b) Par déﬁnition E(Y) = a = E( X2
+a ), donc E(X2) = a2.
+(c) On a : V(X) = E(X2) −E(X)2 = a2 −p
+4 a2 = 4 −p
+4
+a2.
+
+Concours Biologie et Géologie
+Corrigé de l’épreuve de Mathématiques
+Page 6 sur 9
+4.
+(a) On a Sn =
+2
+n pp
+n
+Â
+k=1
+Xk, donc Sn a une espérance et
+E(Sn)
+=
+2
+n pp
+n
+Â
+k=1
+E(Xk)
+=
+2
+n pp
+n
+Â
+k=1
+a
+pp
+2
+=
+2
+n pp na
+pp
+2
+= a.
+Donc le biais de Sn comme estimateur de a est : ba(Sn) = E(Sn) −a = 0,
+Sn est un estimateur sans biais de a.
+(b) Comme les (Xk) sont indépendantes alors :
+V(Sn)
+=
+⇣
+2
+n pp
+⌘2
+n
+Â
+k=1
+V(Xk)
+=
+⇣
+2
+n pp
+⌘2
+n
+Â
+k=1
+4 −p
+4
+a2
+=
+4
+n2p n4 −p
+4
+a2 = 4 −p
+np a2.
+(c) d’où ra(Sn) = V(Sn) −b2
+a(Sn) = V(Sn), alors
+lim
+n!+•ra(Sn) = lim
+n!+•V(Sn) = 0.
+Sn est un estimateur convergent de a.
+5.
+(a) L’inégalité de Bienayme-Tchebychev appliquée à Sn s’écrit :
+8# > 0, P
+⇣
+|Sn −E(Sn)| ≥#
+⌘
+V(Sn)
+#2
+.
+Finalement :
+8# > 0, P
+⇣
+|Sn −a| ≥#
+⌘
+4 −p
+p
+a2
+n#2.
+Comme on suppose a < 1, on peut prolonger :
+8# > 0, P
+⇣
+|Sn −a| ≥#
+⌘
+4 −p
+p
+1
+n#2 1
+n#2,
+car
+4 −p
+4
+< 1.
+On en déduit : 8# > 0, 1 −P
+⇣
+|Sn −a| < #
+⌘
+1
+n#2. Ceci donne alors :
+8# > 0, P
+⇣
+|Sn −a| < #
+⌘
+≥1 −1
+n#2.
+(b) Comme (|Sn −a| < #) ⇢(|Sn −a| #), on obtient, par croissance de la probabilite :
+P
+⇣
+|Sn −a| #
+⌘
+≥1 −1
+n#2,
+soit :
+P
+⇣
+−# a −Sn #
+⌘
+≥1 −1
+n#2.
+
+Concours Biologie et Géologie
+Corrigé de l’épreuve de Mathématiques
+Page 7 sur 9
+On a donc :
+P
+⇣
+Sn −# a Sn + #
+⌘
+≥1 −1
+n#2.
+On peut aﬃrmer que l’intervalle [Sn −#,Sn + #] est un intervalle de conﬁance pour a,
+avec un niveau de conﬁance au moins égal à 1 −1
+n#2. Il suﬃt de choisir # = 1
+10, ce qui
+donne :
+P
+⇣
+Sn −1
+10 a Sn + 1
+10
+⌘
+≥1 −100
+n .
+Avec n = 2000, 1 −100
+n = 19
+20 = 95% on obtient :
+[Sn −1
+10,Sn + 1
+10] est un intervalle de conﬁance pour a, avec un niveau de conﬁance
+au moins égal à 95%.
+Exercice 3
+1.
+(a) 8 n 2 N⇤, on a :
+P(X = n)
+=
+n
+Â
+k=0
+P(X = n \ Y = k)
+=
+n
+Â
+k=0
+Ck
+npk+1(1 −p)2n−k−1
+=
+p(1 −p)n−1
+n
+Â
+k=0
+Ck
+npk(1 −p)n−k
+=
+p(1 −p)n−1.
+Donc X suit la loi géométrique de paramètre p.
+(b) Pour k = 0,on a :
+P(Y = 0)
+=
++•
+Â
+n=1
+P(Y = 0 \ X = n)
+=
++•
+Â
+n=1
+C0
+np(1 −p)2n−1
+=
+p
+1 −p
++•
+Â
+n=1
+(1 −p)2n
+=
+p
+1 −p
+(1 −p)2
+1 −(1 −p)2
+=
+1 −p
+2 −p
+
+Concours Biologie et Géologie
+Corrigé de l’épreuve de Mathématiques
+Page 8 sur 9
+8 k ≥1, on a :
+P(Y = k)
+=
++•
+Â
+n=k
+Ck
+npk+1(1 −p)2n−k−1
+=
+pk+1
++•
+Â
+n=k
+Ck
+n(1 −p)2n−2k+k−1
+=
+pk+1(1 −p)k−1
++•
+Â
+n=k
+Ck
+n(1 −p)2(n−k)
+=
+pk+1(1 −p)k−1
++•
+Â
+n=0
+Ck
+n+k(1 −p)2n
+=
+pk+1(1 −p)k−1
+1
+(1 −(1 −p)2)k+1
+=
+pk+1(1 −p)k−1
+(2p −p2)k+1
+=
+(1 −p)k−1
+(2 −p)k+1.
+(c) La loi conditionnelle de Y sachant (X = n) est donnée par :
+Si 8 k > n on a P(Y = k/X = n) = 0.
+Si k n,
+P(Y = k/X = n)
+=
+P(Y = k \ X = n)
+P(X = n)
+=
+Ck
+npk+1(1 −p)2n−k−1
+p(1 −p)n−1
+=
+Ck
+npk(1 −p)n−k.
+La loi conditionnelle de Y sachant (X = n) est une loi Binomiale B(n, p).
+(d)
+E(Y)
+=
++•
+Â
+k=0
+kP(Y = k) =
++•
+Â
+k=1
+kP(Y = k)
+=
++•
+Â
+k=1
+k(1 −p)k−1
+(2 −p)k+1
+=
+1
+(2 −p)2
++•
+Â
+k=1
+k
+21 −p
+2 −p
+3k−1
+=
+1
+(2 −p)2
+1
+(1 −1−p
+2−p)2 = 1.
+
+Concours Biologie et Géologie
+Corrigé de l’épreuve de Mathématiques
+Page 9 sur 9
+E(Y(Y −1))
+=
++•
+Â
+k=2
+k(k −1)P(Y = k)
+=
+1 −p
+(2 −p)3
++•
+Â
+k=2
+k(k −1)(1 −p
+2 −p)k−2
+=
+1 −p
+(2 −p)3
+2
+(1 −1−p
+2−p)3 = 2(1 −p).
+On a donc E(Y(Y −1)) = E(Y2) −E(Y) = 2(1 −p) = E(Y2) −E(Y)2 = V(Y).
+2.
+(a) U et V sont indépendantes alors E(Z) = E(U)E(V) = l 1
+l = 1
+(b) Comme U(w) = {0,1} et V(w) = N⇤on a :
+P(Z = 0)
+=
++•
+Â
+k=1
+P(U = 0 \ V = k)
+=
++•
+Â
+k=1
+P(U = 0)P(V = k)
+=
++•
+Â
+k=1
+(1 −l)l(1 −l)k−1
+=
+l(1 −l)
++•
+Â
+k=1
+(1 −l)k−1 = (1 −l).
+De plus, pour k ≥1, on a :
+P(Z = k) = P(U = 1 \ V = k) = P(U = 1)P(V = k) = l2(1 −l)k−1.
+(c) P(Z = 0) = P(Y = 0) alors 1 −l = 1 −p
+2 −p d’où l =
+1
+2 −p,
+et on vériﬁe que :
+P(Z = k) =
+1
+(2 −p)2(1 −
+1
+2 −p)k−1 = (1 −p)k−1
+(2 −p)k+1 = P(Y = k).

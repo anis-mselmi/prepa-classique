@@ -1,0 +1,719 @@
+Correction Concours Physique 
+·. ,-. ~-·-, 
+PT 2018 
+-· 
+·. ·-
+··• 
+_, 
+,,, 
+~ 
+-
+Problème 1 
+60pt 
+1 
+L'onde n'est pas plane, elle est progressive de vecteur d'onde k = kgUz et de 
+polarisation rectiligne selon Ox. 
+3x0,5 
+2 
+A l'intérieur de l'espace vide du guide: divÈ = O; divB = O; riilÈ = - 08 ; riif:Ë = 1
+2 ôË 
+1 
+· 
+Ôt 
+C Ôt 
+3 
+divË-::- 0 ~ V.Ë = 0 ~ 
+ôEx = 0 ~ 
+ôEo(x,y) = 0 ~ 
+E0(x y)= E0 (y) 
+2x0,5 
+ÔX 
+ÔX 
+' 
+-•·--·· ·-
+·-· -
+4 
+llE _ 1 ïiË _ O ~ 
+ô
+2Ex + ô
+2Ex _ 1 ô
+2Ex = O ~ 
+d
+2E0 (y) + ("t _ k2) E (y) _ O 
+3x0,5 
+c2 at2 
+ôy2 
+ôz2 
+c2 ôt2 
+dy2 
+c2 
+g 
+0 
+5 
+a;;~)+ 0 2E0 (y) = O ~ 
+E0(y) = a eiriy + ~ e-jny 
+1 
+E0(y == O) = O ~ 
+~ == ~a alors E0 (y) = 2ja sin(ny); Oh posera alors a = E0 
+E0(y = b) = 0 ~ sin(ilb) = 0 ~ 
+ilb = mn: ~n = 11J.n 
+2.Jc(),5 
+b 
+alors Ë = 2jE0 sin (~n: y) ei(wt..:..kgz) Ûx 
+0,5 
+6 
+d:zEoCY) + (w2 - k2) E (y) = 0 ~ 
+k2 = wz - (mnf 
+1 
+dy 2 
+c2 
+g 
+O 
+g 
+c2 
+b 
+La relation entre kg et w est non linéaire, le guide est donc dispersif. 
+2x0,5 
+7 
+La propagation n'est possible que si ki > 0 ~ 
+1 
+mnc 
+d' , 
+me · 
+d' , À. 
+.. c 
+2b 
+À. 
+<.ù > -
+= l.ùcm 
+OU V > b = Vcm 
+OU 
+= - < .- = 
+cm 
+b 
+2 
+V 
+m 
+2x0,5 
+8.a 
+Cù ✓ e=r 
+Cù 
+C 
+kg=-;; 
+0
+1- -;;;-
+=> v~ =kg=,/,-(";:')' 
+1 
+S;b v = ~ 
+= c2 kg·= E:. = c.J1-- -Gi )2 
+--
+... 
+... 
+1 
+g 
+dkg 
+w 
+Vqi 
+cm 
+8.c 
+Cù ✓ 
+(Won/ 
+2n: 
+2n: ✓ G 
+À / 
+1 
+1 
+1 
+1 
+k =-1- -
+alors-=-1- -
+ouencore-=---
+g 
+c 
+w 
+Àg 
+À 
+· 
+cm 
+Ài 
+À2 
+Àk 
+9.a 
+modem= 1 : Vc1 = ;b = 6,56 GHz et À.ci = 2b = 45,72 mm 
+0,5 
+C 
+modem = 2 : Vc2 = b = 13,12 GHz et Àc2 = b = 22,86 mm 
+0,5 
+·c 
+llil.c1 = 2/lb = 0,08 mm et llvc1 = 2b2 !J.b ~ 0,02 GHz 
+0,5 
+9.b 
+Avoir le seul le mode m = 1 dans le guide, il faut que : Àc2 < il. < À.ci ~ 
+b < il. < 2b 
+1 
+9.c 
+Vc1 = 6,56 GHz< v E [8,5 GHz, 11 GHz]< Vc2 = 13,12 GHz: seul le modem= 1 
+1 
+pourra se propager. 
+10 --
+ôB 
+-
+..... 
+. -
+ôE 
+. 
+ôE 
+. 
+rotE = --~ VAE = -JwB~- = -JwByet- = J<.ùBz 
+ôt 
+iJz 
+iJy 
+B = j 2Eokg sin (mn y) ei(wt-kgz) et B = 2Eomn cos (mn y) ei(wt-kgz) 
+Y 
+w 
+b 
+z 
+bw 
+b 
+2x0,5 
+Sa composante transversale est alors By. L'onde est TE et non TM car le champ magnétique 
+0,5 
+\ 
+
+n'est pas transverse, Il possède une composante Bz longitudinale . 
+11 
+• --+ 
+· 
+-+ .. -+ . 
+éJB.. 
+ÔBz 
+divB=O ~ 
+V.B =O~.:.::.i:.a +-
+8 = 0: 
+:· 
+y 
+z 
+!.... (j 2Eokg sin (mn Y) ei(wt-kgz)) + !.... (2Eomn COS (mn Y) ei(wt-kgz)) = 0 : M-Flux est vérifiée 
+ôy 
+w 
+b 
+ôz 
+bw 
+b 
+12 
+13.a 
+... 
+( 
+-+ 
+... ) 
+k1 = k. sin 8 Uy + cos 8 Uz 
+k2 = k( - sin 0 Ûy + cos 8 üz) 
+llk1II = IJk2II = k =; 
+13.b Ë = Êi + Ë2 = Eo el(wt-k.costJz) (- e-Jk..sinlJ.y + eJk.si.nO.y )üx 
+~ Ë = 2jE0 sin(k.sin0.y) eJ(wt-k..cosB.z) Ûx 
+Ë(y = b,z,t) = Ô ~ 
+sin(k.sin0. b) = 0 ~ 
+k.sin0.b = mrc ~ 
+2bsin0 = mÀ. 
+13.c 
+(JJ 
+C 
+vrp = 1<.coïi0 = coso · ·· 
+l.4.a 
+À = ~·b ~ 
+b < À. = 1 b < 2b : seul le"mode m == l peut se propager: 
+3 
+3 
+14.b 
+15.a Ë = 2jE0 sin (~y) ei(wt-,-kgz) Üx; 
+jj 
+. 2Eokg . (n: ) 
+J(wt-k.gz)- + 2Eon: 
+(n: ) J(wt-kgz)-+ 
+= J -;;;-sm -; y e 
+Uy 
+pw cos ;; y e 
+Uz 
+(R 
+.... ) . Ré(ËIIB*) 
+2E8k.g • 2(11: ) ..:.. 
+=__. ___ =--Sin -y Uz 
+2µ 0 
+µ 0w 
+b 
+= 2EoE3c
+2 sjn2 .(·~by)···Üz.=2EoE~vgsin2 (~by)ilz 
+Vq,.. 
+. 
+. 
+.. 
+. 
+15.b 
+i rh ) 
+2 
+2 
+i f.b . 2 (n: ) d 
+E2 
+Rmoy =;; Jo (R dy = E0E0 vg;; 0 sm -;Y y= e0 0 Vg 
+15.c 
+15.d 
+cZ 
+.,/s 
+~·p 
+-
+ab=-.-; Vg =-c etE0 = , ~~ 
+150,Vm 1 
+4V2 
+3 
+Eci11gab 
+16.a 
+l&.b 
+71 = ~ 
+n'est autre que la vitesse de propagation de l'énergie moyenne. 
+Wmoy 
+Rmoy 
+T/ = -- = Vg : l'énergie moyenne se propage donc à la vitesse de groupe. 
+Wmoy 
+17 
+Ces composantes décrivent une structure d'onde stationnaire. 
+.. 
+0,5 
+1 
+2x0,5 
+2x0,5 
+0,5 
+2x0,5 
+1 
+1 
+2x0;5 
+2 
+1,5 
+1 
+1 
+1 
+1 
+1 
+0,5 
+1 
+1 
+... 
+
+18 
+.... 
+1 a2Ë 
+.... 
+w 2 
+ÂE - -- = O ==> k 2 + k 2 + k 2 = -
+c2 at2 
+x 
+Y 
+z 
+c2 
+•.:,.;_--,;-· 
+19.a 
+Les CL sut x == 2a concerne les composantes tangentielles Ey et Ez 
+-· 
+mn 
+==> sin(kx2a) = 0 ==> kx = -2a 
+19.b k 
+nn t k 
+qn 
+y=~e z=-;; 
+19.c 
+. 
+20.a 
+modes longitudinaux==> kx = ky = 0 => m = n = 0 et v00q = q 2: 
+20.b 
+. 
+C 
+ÂV = Voo(q+l) -
+Vooq = 2d 
+21.a 
+21.b 
+Ât = 2d 
+,. 
+·.C 
+21.c 
+22.a 
+22.b 
+dl 
+w 
+dl 
+1 
+. 
+'-.!.. 
+Q 
+- + _!1.1 = 0 => - + -1 = 0 ==> I = /0e 1:c avec Tc = -
+dt 
+Q 
+dt 
+Tc 
+Wo 
+22.c 
+Tc est. Ul'le durée caract~ristique de décroissance de l~inten~ité 
+Q -. -
+1 
+2d 
+77 2 -
+Tc=-= ·.. 
+= , ns 
+Wo 
+l-!Jî1!Jî2 C 
+23.a 
+E(w) = E0 J.'D e[i(w0-cu) 2~Jt dt= __ 
+E~o. ~---1-.,... 
+2,r O 
+2,r j(w0-w)-
+1 
+23.b 
+/((J)) = E((J)).E*((J)) = E~z . 
+-. 
+1 ( 1 )2 
+411: (w-wo)2+ -
+21:'c 
+2Tc 
+l(œ) 
+1 ... ---------Th 
+fi\ 
+1' 
+/ : 
+I , , 
+J l \ 
+--
+·-
+a, 
+23.d 
+1 
+I 
+. 2 Gl )2 
+1 
+1 
+/((J)) = Imax 
+< _ )2 ; I(w) = ~ 
+=> ((J) - w0) = -
+=> Â(J) = -et ÂV = -
+l+ w Wo 
+2 
+Tc 
+Tc 
+27TTc 
+(2;/ 
+. 
+23.e 
+C 
+i) 
+Mercure : Le = -- = 4,77 mm 
+. 
+211:.âv 
+C 
+..... 
+He-Ne : L = -
+= 3 18 cm 
+. 
+· 
+C 
+2:ir.6v 
+1 
+C 
+C02: Le = ~ 
+= 4,77 km 
+.. -
+.. 
+La longueur de cohérence est d'autant plus grande que la largeur spectrale Âv est petite. 
+ii) · 
+ÀHe-Ne = .f... = · 0,633 µm ==> domaine visible 
+Vo 
+À.co = .f... = 10,60 µm => domaine infrarouge 
+2 
+~ 
+. 
+3 
+2x0,5 
+0,5 
+0,5 
+2x0,5 
+1 
+2x0,5 
+1 
+2x0,5 
+1 
+1;5 
+2x0,5 
+1,5 
+0,5 
+0,5 
+1,5 
+1 
+2x0,5 
+1 
+0,5 
+0,5 
+0,5 
+0,5 
+2x0,5 
+2x0,5 
+
+1 
+2 
+3 
+5 
+6 
+8 
+9 
+.·,_' 
+0 d 
+· 
+"d 
+t 
+k.... 
+(d .... 
+'fi ;, h" 
+k-
+(d ... 
+t 
+. 
+k... 
+(ù -
+n es: me, en e: i = n1 -ux; re ec ,e: r = -n1 -ux; ransm1se: t = n2 -ux 
+C 
+C 
+. 
+C 
+Continuité de E: Êi(O, t) + §,.(0, t) = Et(O, t) ==> Êo + Ê.or = Ê.ot CD 
+Continuité de B :§J(O, t) + !(O, t) = i(O,t) ==>n1Üxl\Êo - n1ù.r /\""H.or = n2 Ûx A.iot@ 
+Les ondes réfléchie et transmise ont le même état de polarisation que l'onde incidente.· 
+Cas où n1 > n2,les ondes réfléchie ëtfransmisë soriferl-phas~~v~~ I'ond~indde_rffë: ---
+40pt 
+3x0,5 
+3x0,5 
+1 
+1 
+0,5 
+Cas où n1 < n2, l'éinâe réfléchie ëst ë,fopposition de phase ·avec y.o_ndë inëidë~te; alors 
+oï5 
+que l'onde transmise est en phase avec l'onde incidente. 
+fül.r . n1-n2 t.t 
+fült 
+2. n. i 
+0 
+r=-=--e =-=--.-
+,5 
+-
+fü, 
+n1 +nz 
+- . 
+fü, 
+n1 +n2 
+R _.1rrnr>II _ M _ lr12 ·=(7½::?ii)
+2 et T _ ll{nr>fl - n2M _ n2 ·1tl2 -
+4n1n2 
+2x0,5 
+If (7rt>II 
+Eg 
+-
+n1 +n2 
+fl{ïrt)II 
+n1 
+E"B 
+n1 -
+·· (n1·+n2)2 
+~~-·-. ·, -·· 
+R + T = 1 traduit la conservation de la puissance à l'interface x = 0 
+o,s 
+10 
+ô(M) = (l]K) - JH = 2(11) - IH; I] = co:e et 2(/J) = c::~ 
+. 29 
+IH = JK. sin i = JK. n sin0 avec IK = 2e tg0 ==> IH = 2ne sm 9. 
+cos 
+) 
+2-ne ( 
+•. 
+• 2 
+) 
+2-n:8(M) 
+2ir 
+ô(M =~ 1-sm 0 = 2necos0 ==> <p =-1-=-;2necos0 
+ll.a jgN+1lflgi= R: 
+pour que les amplitudes réelles soient voisine, il suffit que le coefficient R soit proche de 1. 
+11.b 
+fü,(M) = !b + fü + ··· + §, + ··· = TE0(1 + Re-i<p + R2e-i2<p +•··+RN e-jN<p + ... ) 
+( 
+· )N 
+1 
+b(M):::: TEo L~=o Re-J<p = TEo 1-Re•i<fJ 
+12 
+l(M) = E (M) E*(M) = T2E2 
+1 
+·. 
+1 
+= T2E2 
+1 
+~ 
+. ~ 
+O 1-Re-l</J 1-Re+J<p 
+O l+R2 -2Rcos<p 
+I(M) = r2E2 
+1 
+= r2E2 
+1 
+= r
+2Ei 
+1 
+O (1-R)2 +2R(l-cos<p) 
+O (1-R)Z+4Rsinz(P.) 
+(1-R)2 1+_!!!__sinz(P.) 
+2 
+(1-R)Z 
+2 
+2 
+1 
+2 
+1 
+
+( ) 
+1 
+2 
+. 
+4R 
+2x0,5 
+I M = 10 
+e') avec/0 = E0 etm = --2 
+-
+1+msin2 -
+· 
+(1-R) 
+, ., ...... , 
+.. . 
+2 
+. 
+:-
+-·-
+. ·-
+:-'],,,,,·,. 
+:.,:,.-_ 
+13 
+Î(M) = Imax = 10 lorsque sin.!= 0 ===> <p = 2rrp où p e 7l 
+0,5 
+2 
+1 
+2x0,5 
+Imax = Io et lmin = Io -l+m 
+14 
+D'après la question 10 : <p = 
+2
+; 2ne cos 0 avec n = 1 et 0 = i ===> <p = 2; 2e cosi 
+0,5 
+<p ne dépend gue de l'angle i, les anneaux sont dits d'égale inclinaison. On observe des 
+0,5 
+anneaux concentriques dont l'axe est celui de la lentille qui garantit une symétrie de révolution. 
+15.a 
+L' 
+d . 
+2e 
+' 0 
+1 
+or re Po est au centre Po = T = q + E ou < e < 
+L'ordre du 1er anneau brillant est p1 = Po - e; du 2ème anneau brillant: p2 = Po - e - 1 
+L'ordre du kème anneau brillant est Pk. = Po - e - (k - 1) = p0 cos ik. ~ Po ( 1 - i:) 
+ii = zPo-Pk = 2E+(k.-l) = ~(e + (k-1)), tgik. = !!!. ~ ik.d'où Pk. = rj~(e + (k-1)) 
+2 
+Po 
+Po 
+e 
+fr 
+e 
+15.b Po=~= 36623,33 ===> e = 0~33; P2 = f'j;(e + 1) = 4,26mm 
+1,5 
+16.a 1 
+l 
+lo 
+. 
+m 
+4R 
+2R 
+max = Io et min = -
+le contraste C = -
+avec m = -- =>- C = --
+· 
+l+m 
+2+m 
+(1-R)2 
+1+R2 
+2x0,5 
+16.b R = 0,5 ➔ C = 0,8 ; R = 0,9 ➔ C = 0,94; R = 0,99 ➔ C = 1 
+0,5 
+17.a 1(~:) = ~=>-msin2 e:) = 1 =>- sin2.('1:) = l =>-il:~ lm 
+/J. 
+4 
+2(1~R) 
+2 
+(f) = .Jiii = .Jïi. 
+~ 
+17.b J: = 271' = 1e-./R 
+0,5 
+/J<p 
+1-R 
+17.c 
+R = 0,5 ➔ J: = 4,44 ; R = 0,9 ➔ J: = 29,8; R = 0,99 ➔ J: = 312,6 
+0,5 
+Une finesse élevée sera très utile dans la séparation de deux raies spectrales voisines. 
+0,5 
+17.d 
+P~urR _= 0,9 et R = 0,99 les contrastes sont proches (0,94 et 1) alors que la finesse des 
+1 
+franges des deux cas est nettement différente. Il vaut mieux caractériser l'instrument par 
+sa finesse. 
+18 
+En repérant le carré des rayons des anneaux à partir de l'anneau d'ordre p: 
+1er anneau ➔ pf = /'2 (2- (p-1);) = f'2 (2-p;) + f'2 ; 
+2ème anneau ➔ p~ = f' 2 ( 2 - (p - 2) ;) = f' 2 ( 2 - p ;) + 2 /'2; 
+Nème anneau P1 = /'2 ( 2 - (p - N) ;) = f'2 ( 2 - p ;) + N f'2 ; 
+En traçant P1 en fonction du rang N, on trace une droite de pente f'2 ~- La mesure de 
+2 
+e 
+cette pente permet d'accéder à il connaissant f' et e. 
+19.a 
+La différence de phase due à la variation de il est : /J.<p = 211:ô ~; = 211:p ~ 
+2tt 
+,djl, 
+2tt 
+À. 
+2 
+/J.<p > -=>- 211:p- > -=>- /J.il > - = /J.ilm- . 
+-:p 
+À-J' 
+-pJ' 
+m 
+19.b 
+Le pouvoir de résolution :R. = .d~- = p:F 
+1 
+m 
+20.a il=~ les longueurs d'ondes transmises sont alors: 1,365 µm; 0,6825 µm; 0,455 µm; 
+p 
+0,341 µm ... 
+1,5 
+.. 
+
+Il y a donc 2 longueurs d'onde passante dans le domaine visible 0,6825 µm_; 0,455 µm. 
+20.b-
+Pogr"':é = O;i$µm, les longueurs d'onde passantes sont:- 0,6825 µm_{_Q,341 µm; 
+... 
+-·· 
+--"·· 
+. -~---
+, .. " 
+.. 
+0,227 µm ... : on a donc une seule longueur d'onde passante. 0,6825 µm .dans le visible. 
+20.c 
+À. 
+TC../R. 
+Pour p = 1, A.il.= - avec :P = -
+= 103 pour R = 0,97 =>Al= 6,62 nm. 
+~ 
+1-R 
+. 
+---------
+-
+1,5 
+1 
+f l 

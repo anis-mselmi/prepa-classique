@@ -1,0 +1,7368 @@
+Concours Physique et Chimie  - Session Juin 2022                                    Epreuve de Physique                                                                      Page 1 / 8 
+ 
+REPUBLIQUE TUNISIENNE 
+Ministère de l'Enseignement Supérieur et de la 
+Recherche Scientifique 
+  
+Concours Nationaux d’Entrée aux Cycles 
+de Formation d’Ingénieurs 
+Session 2022 
+ 
+ 
+ 
+ 
+Concours Physique et Chimie 
+Epreuve de Physique 
+ 
+ 
+Date : Lundi 06 Juin 2022           Heure : 8 H00             Durée : 4 H          Nbre pages : 8 
+ 
+Barème :  Problème 1 :   12  pts ;  Problème 2 :   08  pts 
+ 
+L’usage d’une calculatrice non programmable est autorisé 
+L’épreuve est constituée de deux problèmes indépendants. 
+Un candidat peut toujours se servir d’un résultat fourni par l’énoncé pour continuer sa composition. 
+ 
+ 
+On donne : 
+12
+1
+0
+8 85 10
+,
+ 
+ F m
+ε
+−
+−
+=
+ et 
+7
+1
+0
+12 5610
+,
+ H m
+µ
+−
+−
+=
+. 
+Pour un champ vectoriel U
+
+ : 
+(
+)
+(
+)
+rot rotU
+grad div U
+U
+∆
+=
+−
+
+
+
+
+
+. 
+Problème 1 : Phénomènes de Diffusion 
+Ce problème s’intéresse à l’étude de différents phénomènes de diffusion régis par le même type 
+d’équation et dont les comportements sont analogues mais avec la diversité de leurs manifestations. 
+On étudiera la diffusion des ondes électromagnétiques dans les conducteurs puis la diffusion thermique 
+dans le sol terrestre. On s’intéressera ensuite à la diffusion de la quantité de mouvement lors d’un 
+écoulement particulier d’un fluide visqueux. 
+L’espace est rapporté à un référentiel galiléen 
+(
+)
+O,x,y,z
+R
+ de base orthonormée directe (
+)
+x
+y
+z
+u ,u ,u
+
+
+
+. 
+ 
+Partie I : Diffusion des ondes électromagnétiques dans les conducteurs 
+ 
+Une onde électromagnétique incidente plane 
+harmonique se propage dans le vide vers les z croissants  
+dans le demi-espace 
+0
+z <
+. En notation complexe, le 
+champ électrique associé, s’écrit :  
+(
+)
+(
+)
+0
+0
+x
+E z,t
+E u exp j
+t - k z
+ω
+=
+
+
+, avec 
+0
+E  et 
+0k  sont des 
+réels positifs. En arrivant à la surface 
+0
+z =
+, l’onde 
+rencontre un milieu conducteur occupant le demi-espace 
+0
+z >
+ (figure 1). 
+ 
+Ce conducteur, de conductivité électrique statique 
+0
+γ , est caractérisé par la permittivité électrique et la 
+perméabilité magnétique du vide (
+)
+0
+0
+,
+ε
+µ
+.  
+1- Ecrire les équations de Maxwell dans un conducteur.  
+2- Dans le modèle classique, la conduction électrique est assurée par le mouvement d’ensemble des 
+électrons de masse 
+e
+m  et de charge 
+eq
+e
+= −.  
+ اﻟﻤﻨﺎظﺮات اﻟﻮطﻨﯿﺔ ﻟﻠﺪﺧﻮل
+ 
+ إﻟﻰ ﻣﺮاﺣﻞ
+ﺗﻜﻮﯾﻦ
+ 
+اﻟﻤﮭﻨﺪﺳﯿﻦ 
+ 
+دورة
+  2022
+ 
+Métal 
+(
+,
+,
+) 
+Onde 
+incidente 
+Onde 
+transmise 
+z 
+Oy 
+x 
+Figure 1 
+vide 
+
+Concours Physique et Chimie  - Session Juin 2022                                    Epreuve de Physique                                                                      Page 2 / 8 
+ 
+En régime sinusoïdal établi, ils effectuent des oscillations forcées de même pulsation que celle du 
+champ électrique transmis 
+(
+)
+t
+E
+z,t
+
+ dans le conducteur. Il en résulte un courant volumique (
+)
+J z,t
+
+ dans 
+le conducteur, de la forme : 
+(
+)
+( )
+(
+)
+t
+J z,t
+E
+z,t
+γ ω
+=
+
+
+  avec   ( )
+0
+1
+1
+j
+γ
+γ ω
+ωτ
+= +
+ 
+; 
+1τ  étant une constante 
+du temps caractéristique des interactions entre les électrons mobiles et leur environnement. 
+Indiquer la condition pour que la loi d’Ohm 
+0
+t
+J
+E
+γ
+=
+
+ reste valable dans le conducteur, appelé 
+conducteur ohmique. 
+A.N : On donne pour le cuivre 
+14
+1
+2 4 10
+,
+s
+τ
+−
+=
+. Préciser les domaines du spectre électromagnétique où 
+cette condition est vérifiée.  
+On se place dans la suite, dans le cas d’un conducteur ohmique. 
+3-1 En exploitant l’équation de conservation de la charge électrique, établir l’équation différentielle 
+vérifiée par la densité volumique de charge 
+(
+)
+e z,t
+ρ
+ dans le conducteur.  
+3-2- On suppose que, pour une position fixée, 
+(
+)
+0
+0
+e
+e
+z,t
+ρ
+ρ
+=
+=
+. Trouver la loi de variation de
+(
+)
+e z,t
+ρ
+. 
+Exprimer la durée caractéristique 
+2
+τ  de la décroissance de la densité 
+(
+)
+e z,t
+ρ
+.  
+A.N : Calculer 
+2
+τ  dans le cas du cuivre 
+(
+)
+7
+1
+0
+5 710
+Cu
+,
+S m
+γ
+−
+=
+. Conclure.  
+3-3- Que devient l’équation de Maxwell-Gauss dans le conducteur. Commenter. 
+4- Comparer le courant de déplacement 
+D
+J
+
+ à celui de conduction J
+
+ dans un conducteur ohmique. 
+5- Etablir l’équation de propagation dans un conducteur ohmique vérifiée par le champ électrique 
+(
+)
+t
+E
+z,t
+
+. Quelle différence entre l’équation obtenue et celle de d’Alembert ? Commenter. 
+6- On cherche une solution de l’équation de propagation précédente sous la forme 
+(
+)
+(
+)
+0
+t
+t
+x
+E
+z,t
+E u exp j
+t
+k z
+ω
+ϕ
+=
+−
+−
+
+
+, où 
+0
+0
+t
+E
+>
+ représente l’amplitude du champ dans le conducteur, 
+k  le nombre d’onde complexe et ϕ  le déphasage par rapport à l’onde incidente en 
+0
+z =
+.  
+Etablir la relation de dispersion ( )
+k ω . 
+7- Ecrire le nombre d’onde complexe sous la forme : 
+1
+2
+k
+k
+j k
+=
+−
+, où 
+1k  et 
+2k  sont des réels positifs à 
+déterminer. Déduire, en notation réelle, l’expression du champ électrique 
+(
+)
+tE
+z,t
+
+. Commenter. 
+8- Déterminer la distance 
+em
+δ
+ caractéristique de la variation de l’amplitude du champ 
+(
+)
+tE
+z,t
+
+. 
+Qu’appelle-t-on cette distance ? Déterminer la vitesse de phase vϕ  de l’onde dans le conducteur. 
+Pour le cuivre, calculer 
+em
+δ
+ et vϕ  relatives aux fréquences : 
+100
+f
+Hz
+=
+ et 
+100
+f
+MHz
+=
+. Conclure. 
+9- Déterminer le champ magnétique 
+(
+)
+t
+B
+z,t
+
+ associé à 
+(
+)
+t
+E
+z,t
+
+ dans le conducteur ohmique.  
+Déduire le vecteur de Poynting 
+(
+)
+t z,t
+Π
+
+ ainsi que sa valeur moyenne 
+(
+)
+t z,t
+Π
+
+ en 
+0
+z =
+ et en 
+5
+em
+z
+δ
+=
+. En déduire la puissance moyenne 
+transférée
+P
+ transférée à un volume cylindrique du 
+conducteur, de longueur 
+5
+em
+h
+δ
+=
+ et de section S  située dans le plan ( xOy ). 
+10- Exprimer la puissance volumique moyenne 
+(
+)
+v z,t
+p
+ reçue par les charges du conducteur.  
+Déduire la puissance moyenne 
+reçue
+P
+ reçue par les charges contenues dans le volume cylindrique 
+précédent. Conclure.  
+11- Découpage d’un métal : Une source laser de type YAG-Nd3+ émet un faisceau cylindrique de façon 
+continue, de longueur d’onde 
+1 064
+,
+m
+λ
+µ
+=
+, de puissance 
+700
+i
+W
+=
+P
+ et de diamètre 
+0 5, mm
+Φ =
+.  
+
+Concours Physique et Chimie  - Session Juin 2022                                    Epreuve de Physique                                                                      Page 3 / 8 
+ 
+Il atteint une plaque métallique en Cuivre d’épaisseurs d  sous incidence normale. 
+11-1- Définir l’enthalpie massique de fusion 
+fL . Déterminer la variation de l’enthalpie 
+H
+∆
+ lors du 
+chauffage et de la fusion du métal dans un volume cylindrique d’épaisseur d et de même section que le 
+faisceau laser. Faire l’application numérique. 
+Cette plaque est animée d’un mouvement de translation rectiligne et uniforme à la vitesse V 
+perpendiculaire à la direction du faisceau laser. L’objectif de ce processus est le découpage de la pièce.  
+11-2- Sachant que le coefficient de réflexion en puissance à la surface du métal est 
+0 72
+R
+,
+=
+, calculer 
+la puissance 
+tP  absorbée par le métal. 
+11-3- En admettant que la puissance absorbée est totalement convertie en puissance thermique, établir 
+le bilan d’énergie dans la zone ciblée de la plaque en mouvement. Déterminer l’expression de la vitesse 
+maximale 
+m
+V  de la plaque. Calculer 
+m
+V . En pratique, on obtient une valeur plus faible. Commenter.   
+Pour le cuivre, on donne :  
+la masse volumique 
+3
+8960
+Cu
+ kg m
+ρ
+−
+=
+, la capacité thermique 
+1
+1
+395 0
+Cu
+c
+,  J  K kg
+−
+−
+=
+, la température 
+de fusion 
+1357 6
+fT
+,  K
+=
+, l’enthalpie massique de fusion 
+1
+205 4
+fL
+,  kJ kg −
+=
+ et l’épaisseur de la plaque 
+2
+d
+ mm
+=
+. 
+Avant le perçage, la température de la plaque est 
+0
+293
+T
+ K
+=
+. 
+Partie II : Diffusion des ondes thermiques dans le sol terrestre 
+ 
+La température au-dessus du sol varie de façon journalière (nuit/jour) et annuelle (été/hiver). On 
+cherche à déterminer la loi de fluctuation de la température autour d’une valeur moyenne 
+0T . Deux 
+applications seront envisagées : L’enterrement des canalisations d’eau et l’implantation des caves. 
+La surface du sol coïncide avec le plan horizontal, 
+de côte 
+0
+z =
+. L’axe (Oz ) est orienté suivant la 
+verticale descendante. Le sol occupe alors la zone 
+de l’espace 
+0
+z >
+ (figure 2). Ce milieu est 
+caractérisé par sa conductivité thermique λ , sa 
+masse volumique ρ  et sa capacité calorifique 
+massique c, supposées constantes.  
+ 
+A une profondeur z, le champ de température est noté 
+(
+)
+T z,t . Le phénomène étudié est supposé 
+invariant par translation le long des axes ( Ox ) et (Oy ). 
+A la surface de la Terre, la température est régie par la loi de variation 
+(
+)
+( )
+0
+0
+T z
+,t
+t
+T
+θ
+=
++
+=
+ avec 
+( )
+(
+)
+0 cos
+t
+t
+θ
+θ
+ω
+=
+, où 
+0
+θ  est l’amplitude de la fluctuation ( )t
+θ
+ de la température. 
+12- Justifier le fait qu’on peut se limiter à l’étude de variations sinusoïdales de la température. 
+13- On désigne par 
+th
+J
+ le vecteur densité de flux thermique. Enoncer la loi de Fourier relative à la 
+conduction thermique. Préciser les conditions de sa validité et donner les unités des grandeurs utilisées 
+dans le système international (SI). 
+14- Ecrire le flux thermique élémentaire 
+th
+δϕ  traversant une surface dS . Déduire le flux thermique 
+th
+ϕ  
+à travers une surface S. 
+15- On s’intéresse à une tranche du sol de surface horizontale de section S  comprise entre les côtes z  
+et z
+d z
++
+.  
+Déterminer l’énergie thermique élémentaire 
+2
+th
+Q
+δ
+ reçue par cette tranche entre les instants t  et t
+dt
++
+. 
+x 
+z 
+Oy 
+Sol terrestre
+ 
+Air 
+Figure 2 
+
+Concours Physique et Chimie  - Session Juin 2022                                    Epreuve de Physique                                                                      Page 4 / 8 
+ 
+16- En appliquant le premier principe de la thermodynamique à la tranche décrite précédemment, 
+montrer que l’équation de la conduction thermique à une dimension s’écrit sous la forme  
+(
+)
+(
+)
+2
+2
+th
+T z,t
+T z,t
+D
+t
+z
+∂
+∂
+=
+∂
+∂
+ . 
+Que représente le coefficient 
+th
+D ? Préciser son expression et sa dimension. 
+Quelle différence entre l’équation obtenue et  celle de d’Alembert ?  
+17 - On cherche des solutions de l’équation de propagation en notation complexe sous la forme 
+(
+)
+(
+)
+(
+)
+0
+0
+0
+T
+z,t
+T
+T z
+ex
+,t
+p j
+t
+k z
+θ
+θ
+ω
++
++
+−
+=
+=
+, où k  est le nombre d’onde à priori complexe.  
+17-1- Déterminer la relation de dispersion 
+( )
+k ω . En déduire l’expression de k  sous la forme 
+1
+2
+k
+k
+jk
+=
+−
+ où 
+1k  et 
+2k  sont des réels positifs.  
+17-2- Déterminer l’expression de la solution réelle 
+(
+)
+T z,t . Quels phénomènes physiques traduisent 
+1k
+et 
+2k ? Décrire le comportement de l’onde thermique dans le sol. 
+18- Évaluer la vitesse de phase vϕ  de l’onde thermique ainsi que sa profondeur de pénétration 
+th
+δ . 
+Commenter. 
+19- Calculer les grandeurs vϕ  et 
+th
+δ  dans les cas où l’on s’intéresse aux variations journalières  
+(
+1
+JT
+ jour
+=
+) de la température puis aux variations annuelles (
+1
+A
+T
+ an
+=
+). Conclure. 
+On donne les caractéristiques du sol : 
+3
+3
+3 15 10
+,
+ 
+kg m
+ρ
+−
+=
+, 
+1
+1
+870
+c
+J K kg
+−
+−
+=
+ et 
+1 80
+,
+SI
+λ =
+. 
+20- Représenter les variations spatiales de la fluctuation de la température 
+(
+)
+z,t
+θ
+ à un instant t fixé. 
+Interpréter la courbe obtenue. 
+21-1- Sachant que la SONEDE enterre les canalisations d’eau à une profondeur de l’ordre de 80 
+centimètres. Justifier l’utilité de ce choix.  
+21-2- Les caves de Matmata sont implantées à une profondeur de l’ordre 5 mètres. Justifier ce choix. 
+Partie III : Phénomène de diffusion dans les fluides en écoulement 
+On considère une plaque rigide et plane de 
+dimensions supposées infinies suivant les directions 
+(Ox ) et (Oy ) d’un référentiel galiléen 
+(
+)
+O,x,y,z
+R
+. 
+La plaque est confondue avec le plan ( xOy ). Un 
+fluide visqueux et incompressible, de viscosité 
+dynamique η  et de masse volumique ρ , est déposé 
+sur cette plaque sur une épaisseur h  suffisamment 
+élevée. Tout se passe comme si le fluide occupe le 
+demi-espace 
+0
+z >
+ (figure 3).  
+Le champ de pesanteur est supposé uniforme. 
+ 
+ 
+La plaque est animée d’un mouvement d’oscillations harmoniques suivant l’axe ( Ox ) à la 
+pulsation ω . Sa vitesse peut s’écrire sous la forme 
+(
+)
+0
+v plaque
+x
+V cos
+t u
+ω
+=
+
+. 
+Cette vibration longitudinale de la plaque génère un écoulement du fluide visqueux dont le champ de 
+vitesse, à une position
+(
+)
+M x,y,z  du fluide s’écrit (
+)
+(
+)
+v
+v
+x
+M ,t
+M ,t u
+=
+
+. 
+22- En analysant les invariances du système, préciser les variables dont dépendent les champs de 
+vitesse et de pression. 
+23- Ecrire les forces volumiques et surfaciques appliquées sur une particule fluide en écoulement réel. 
+x 
+z 
+Oy 
+Liquide visqueux 
+ 
+h 
+ 
+Plaque 
+oscillante 
+Figure 3 
+
+Concours Physique et Chimie  - Session Juin 2022                                    Epreuve de Physique                                                                      Page 5 / 8 
+ 
+24- Expliquer brièvement l’origine de l’écoulement du fluide visqueux.   
+25- En appliquant le principe fondamental de la dynamique à une particule fluide en écoulement réel, 
+retrouver l’équation de Navier-Stokes   
+𝜌𝜌൬
+∂vሬ⃗(𝑀𝑀,𝑡𝑡)
+∂𝑡𝑡
++ ൫vሬ⃗(𝑀𝑀, 𝑡𝑡). 𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔
+ሬሬሬሬሬሬሬሬሬሬ⃗൯ vሬ⃗(𝑀𝑀, 𝑡𝑡)൰= 𝜌𝜌𝑔𝑔⃗−𝑔𝑔𝑔𝑔𝑔𝑔𝑔𝑔
+ሬሬሬሬሬሬሬሬሬሬ⃗𝑝𝑝(𝑀𝑀, 𝑡𝑡) + 𝜂𝜂Δvሬ⃗(𝑀𝑀, 𝑡𝑡) , où 𝑔𝑔⃗= −𝑔𝑔𝑢𝑢ሬ⃗𝑧𝑧. 
+26- Montrer que le terme convectif de l’accélération est nul pour cet écoulement.  
+27- Montrer que le champ de pression 
+(
+)
+p M ,t  dans le fluide en écoulement est une fonction affine de 
+la variable z. Sachant qu’au-delà de la hauteur h, la pression est identique à celle de l’atmosphère 
+0P , 
+déterminer 
+(
+)
+p M ,t . 
+28- Montrer que le champ de vitesse satisfait l’équation différentielle suivante 
+(
+)
+(
+)
+2
+2
+v
+v
+c
+M ,t
+M ,t
+t
+z
+ν
+∂
+∂
+=
+∂
+∂
+
+
+       (*) 
+Que représente 
+c
+ν ? Préciser son expression, son unité et sa signification physique. 
+29- On cherche une solution de l’équation (*) décrivant le champ de vitesse sous la forme  
+(
+)
+( )
+(
+)
+v
+x
+z,t
+f
+z exp j
+t u
+ω
+=
+
+ 
+29-1- Déduire l’équation différentielle à laquelle obéit la fonction 
+( )
+f
+z .  
+Déterminer sa solution générale. On pose 
+2
+c
+f
+ν
+δ
+ω
+=
+. 
+29-2- En utilisant les conditions aux limites, déterminer en notation réelle l’expression du champ de 
+vitesse (
+)
+v z,t
+
+ dans le fluide visqueux.  
+29-3- Commenter l’expression du champ de vitesse obtenue (
+)
+v z,t
+
+.  
+Que représente la grandeur 
+f
+δ ? Préciser son unité. 
+30- Pour réaliser une étude comparative du phénomène de diffusion, on considère deux fluides :  
+l’eau (
+3
+10
+eau
+Pl
+η
+−
+=
+et
+3
+3
+10
+eau
+kg m
+ρ
+−
+=
+) et le miel (
+10
+miel
+Pl
+η
+=
+et 
+3
+3
+1 4 10
+miel
+,
+kg m
+ρ
+−
+=
+). Pour une 
+fréquence d’oscillations de la plaque 
+5
+f
+Hz
+=
+, calculer la valeur de 
+f
+δ  dans les deux cas. Conclure. 
+31- Les roches en fusion contenues dans le manteau terrestre constituent un fluide extrêmement 
+visqueux de viscosité cinématique 
+c
+ν  de l’ordre de 
+2
+10
+SI
+−
+. Déduire une caractéristique des ondes 
+sismiques de cisaillement qui peuvent se produire au niveau du manteau terrestre pour des fréquences 
+de quelques hertz (
+5
+f
+Hz
+=
+). 
+Problème 2 : Filtrage par interférométrie 
+Partie I : Etude d’une lame à faces parallèles 
+ On considère une lame mince de verre à faces 
+parallèles d’épaisseur e et d’indice de réfraction 
+1 5
+n
+,
+=
+ 
+plongée dans l’air (figure 1). 
+La lame est éclairée sous un angle d’incidence i par une 
+source étendue monochromatique, de longueur d’onde λ , 
+de pulsation ω , émettant une vibration lumineuse  
+(
+)
+(
+)
+0
+s M ,t
+s exp j
+t
+k SM
+ω
+=
+−
+
+
+ où 
+0s  est l’amplitude 
+supposée constante. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+i 
+RI 
+RT2 
+RT1 
+e 
+θ 
+θ 
+I2 
+I1 
+J1 
+J2 
+S 
+i 
+ 
+ 
+RR1 
+RR2 
+i 
+Figure 1 
+ 
+
+Concours Physique et Chimie  - Session Juin 2022                                    Epreuve de Physique                                                                      Page 6 / 8 
+ 
+Le rayon lumineux incident est réfléchi plusieurs fois sur les faces internes de la lame et donne par la 
+suite des rayons réfléchis (RR) et des rayons transmis (RT) dans l’air. 
+On supposera que les coefficients de réflexion et de transmission en amplitudes complexes sont les 
+mêmes qu’en incidence normale et s’écrivent pour un rayon qui se propage d’un milieu d’indice 
+1n  
+vers un autre d’indice 
+2n  différents sous la forme suivante :    
+1
+2
+1
+2
+12
+1
+2
+n
+n
+r
+r
+n
+n
+→
+−
+=
+=
++
+  et  
+1
+1
+2
+12
+1
+2
+2n
+t
+t
+n
+n
+→=
+=
++
+ 
+Etude des amplitudes des ondes en un point M à l’infini : Cas d’une lame non traitée  
+1- Déterminer les amplitudes des trois premières vibrations lumineuses successives transmises en 
+fonction de 
+0s , 21
+r , 12
+t  et 21
+t  . 
+2- Déterminer, de même, les amplitudes des trois premières vibrations lumineuses successives 
+réfléchies en fonction de 
+0s , 12r , 21
+r , 12
+t  et 21
+t . 
+3- Reproduire et remplir le tableau ci-dessous sur votre copie et calculer les amplitudes des vibrations 
+lumineuses en fonction de 
+0s . On rappelle que l’indice de la lame est 
+1 5
+n
+,
+=
+ et celui de l’air est 
+0
+1
+n = . 
+Commenter les résultats obtenus. 
+ 
+Amplitudes des vibrations lumineuses réfléchies 
+1r
+s
+= … 
+2r
+s
+=… 
+3r
+s
+= … 
+Amplitudes des vibrations lumineuses transmises 
+1ts = … 
+2t
+s
+=… 
+3t
+s
+= … 
+4-1- Si on considère les interférences éventuelles des deux premières ondes transmises, doit-on 
+s’attendre à un contraste proche de l’unité ? Justifier votre réponse. 
+4-2- Mêmes questions pour les interférences des deux premières ondes réfléchis par la lame. 
+5- De quel type d’interféromètre une telle lame peut-elle être qualifiée ? S’agit-il d’une interférence à 
+deux ondes ou à ondes multiples ? 
+           Etude des phases des ondes transmises en un point M à l’infini : Cas d’une lame traitée  
+Pour diminuer les pertes, on augmente le pouvoir réflecteur de la lame en déposant sur chacune de ses 
+faces une mince couche semi-réfléchissante non absorbante d’un diélectrique.  
+On s’intéresse pour la suite au phénomène d’interférence entre les multiples ondes transmises par la 
+lame.  
+6- Montrer que la différence de marche en un point M à l’infini entre deux ondes transmises 
+successives est : (
+)
+2
+M
+n e cos
+δ
+θ
+=
+, où θ  est l’angle de réfraction du rayon incident dans la lame, en 
+déduire le déphasage (
+)
+M
+ϕ
+ entre ces deux ondes transmises. Faire un schéma explicatif.  
+7- A quelle condition obtient-on des interférences constructives ? Montrer que, pour une incidence 
+normale, les seules longueurs d’ondes transmises par la lame vérifient : 
+2n e
+k
+λ =
+, où 
+*
+k ∈฀. 
+8- L’épaisseur de la lame considérée est 
+200
+e
+nm
+=
+. Quelle valeur de l’entier k  permet de sélectionner 
+une vibration lumineuse de longueur d’onde 
+kλ  appartenant au domaine du visible correspondant à 
+l’intervalle spectrale [
+]
+400
+, 800
+nm
+nm  ? Citer une application de ce phénomène.   
+Partie II : Etude de l’interféromètre à ondes multiples de Fabry-Pérot 
+L’interféromètre à ondes multiples de Fabry-Pérot est un instrument constitué de deux surfaces 
+planes traitées, parallèles, limitant une lame d’air d’épaisseur e et d’indice 
+0
+1
+n = . 
+ 
+
+Concours Physique et Chimie  - Session Juin 2022                                    Epreuve de Physique                                                                      Page 7 / 8 
+ 
+Tous les coefficients de réflexion en amplitude valent r et ceux de transmission t. 
+Le Fabry-Pérot est éclairé dans les mêmes conditions qu’en Partie I. 
+Etude de l’intensité transmise par le Fabry-Pérot  
+9- Expliquer pourquoi on place l’écran d’observation dans le plan focal image d’une lentille 
+convergente. Faire un schéma.  
+10- Donner, sans faire de calcul, la différence de marche 
+(
+)
+M
+δ
+ entre deux ondes transmises 
+successives en un point M  de l’écran, en déduire la différence de phase (
+)
+M
+ϕ
+ et la nature des franges 
+d’interférence. 
+11- Montrer que l’amplitude complexe de la 
+ième
+N
+ onde transmise s’écrit : 
+( )
+(
+)
+(
+)
+1
+0
+1
+N
+N
+s
+s R
+T exp
+j N
+ϕ
+ϕ
+−
+=
+−
+−
+, avec  
+2
+R
+r
+=
+, 
+2
+T
+t
+=
+et 
+1
+R
+T
++
+= . L’origine des phases est prise au 
+niveau de la première onde transmise.  
+12- Montrer que l’amplitude complexe totale transmise 
+( )
+Ts
+ϕ  s’écrit :  
+( )
+(
+)
+0
+1
+T
+s T
+s
+R exp
+j
+ϕ
+ϕ
+= −
+−
+.   On donne : 
+0
+1
+1
+q
+q
+α
+α
++∞
+=
+= −
+∑
+ lorsque 
+1
+α < . 
+13- Exprimer l’intensité résultante transmise 
+( )
+( )
+( )
+*
+T
+T
+I
+s
+s
+ϕ
+ϕ
+ϕ
+=
+ en un point M de l’écran 
+d’observation sous la forme  
+(
+)
+( )
+0
+2
+1
+2
+I
+I M
+I
+m sin
+ϕ
+ϕ
+=
+=
+
+
++
+
+
+
+
+, expliciter les expressions de 
+0I  et du 
+facteur m  en fonction de 
+0s , T  et R . On donne : 
+(
+)
+2
+1
+2
+2
+cos
+x
+sin x
+−
+=
+. 
+14- Pour quelles valeurs de ϕ  l’intensité ( )
+I ϕ  est-elle maximale ?  
+Dans la suite, on se place dans le cas des surfaces à pouvoir de réflexion important (
+1
+R ≈ et 
+1
+T << ). 
+La transmission du Fabry-Pérot 
+( )
+FP
+T
+ϕ  est définie 
+par ( )
+( )
+0
+FP
+I
+I T
+ϕ
+ϕ
+=
+ dont l’allure est représentée 
+par la  figure 2. 
+15- Donner les expressions de 
+max
+FP
+T
+ et 
+min
+FP
+T
+. 
+On définit la finesse du Fabry-Pérot par 
+2π
+δϕ
+=
+F
+ ; 
+δϕ  est la largeur à mi-hauteur d’un pic d’intensité 
+maximale (voir la figure 2). 
+16- Déterminer la largeur à mi-hauteur δ ϕ  d’un pic 
+d’intensité d’ordre d’interférence k en fonction du 
+coefficient de réflexion R . Pour 
+1
+R ≈, montrer que 
+la finesse devient 
+T
+π
+฀
+F
+. Commenter. 
+ 
+    
+Pour la suite, on se place dans le cadre où l’épaisseur e et l’angle d’incidence i sont fixés. 
+17- On appelle intervalle spectral libre (ISL), l’intervalle de fréquence 
+ISL
+∆ν
+ entre deux pics successifs 
+d’intensité maximale. Montrer que  
+2
+ISL
+c
+e cosi
+∆ν
+=
+ , c étant la célérité de la lumière dans le vide. 
+ 
+ 
+Figure 2 
+
+Concours Physique et Chimie  - Session Juin 2022                                    Epreuve de Physique                                                                      Page 8 / 8 
+ 
+18- La résolution en fréquence du Fabry-Pérot 
+FP
+δν
+ est donnée par la largeur à mi-hauteur en 
+fréquence d’un pic d’intensité.  
+Exprimer 
+FP
+δν
+ en fonction de la finesse F  et de l'intervalle spectral libre 
+ISL
+∆ν
+. 
+19- Quel est le pouvoir de résolution 
+0
+FP
+FP
+ν
+δν
+=
+R
+ du Fabry-Pérot pour un pic d’intensité de l'ordre 
+d’interférence 
+0p  et de fréquence 
+0
+ν ? Donner une interprétation physique de la finesse F . 
+20-1- Application numérique : Donner le pouvoir de résolution pour un Fabry-Pérot d’épaisseur 
+2
+e
+mm
+=
+ et de finesse 
+150
+=
+F
+ éclairé en incidence normale. On prendra
+0
+500 nm
+λ =
+. 
+20-2- Déterminer la largeur L d'un réseau de périodicité 
+1200
+n
+traits / mm
+=
+ et qui diffracte dans 
+l'ordre 
+1
+k =  permettant d’atteindre la même résolution. 
+On rappelle que le pouvoir de résolution d’un réseau s’écrit 
+R
+k N
+=
+R
+, N étant le nombre de fentes. 
+20-3- Pour le même pouvoir de résolution, lequel de ces deux spectroscopes est le plus pratique ?  
+Justifier votre réponse. 
+            Filtrage de fréquence d’une raie parasite   
+Une application du Fabry-Pérot consiste à filtrer spectralement la lumière incidente. On peut ainsi se 
+débarrasser de certaines raies gênantes. 
+Pour la suite, on se placera en incidence normale. 
+On considère le doublet de Sodium caractérisé par 
+les deux raies de longueurs d’ondes 
+1
+589 0, nm
+λ =
+ 
+et 
+2
+589 6, nm
+λ =
+, d’intensités respectives 
+01
+I  et 
+02
+I
+ 
+très proches. On se propose d’éliminer la deuxième 
+raie de fréquence 
+2
+ν . Pour cela on choisit un 
+intervalle spectral libre 
+ISL
+∆ν
+ tel que les raies 
+1
+ν  et 
+2
+ν  correspondent respectivement à un pic et à un 
+minimum de transmission (figure 3). 
+ 
+Dans cette situation on a : 
+(
+)
+2
+1
+2
+2
+ISL
+∆ν
+∆ν
+ν
+ν
+=
+=
+−
+. 
+21- Comment choisir l'épaisseur 
+0e  du Fabry-Pérot de manière à éliminer le plus efficacement possible 
+la raie de longueur d’onde 
+2
+589 6, nm
+λ =
+ ? Exprimer 
+0e  en fonction de 
+1λ , 
+2
+λ  et 
+2
+1
+∆λ
+λ
+λ
+=
+−
+. 
+22- Exprimer les intensités des deux raies à la sortie du Fabry-Pérot 
+(
+)
+1
+1
+I ν
+ et 
+(
+)
+2
+2
+I
+ν
+ en fonction de 
+01
+I , 
+02
+I
+, 
+max
+FP
+T
+ et 
+min
+FP
+T
+. 
+23- Que vaut, en fonction de m , le rapport d'intensité entre les deux raies à la sortie du Fabry-Pérot ? 
+En déduire une valeur de m  permettant d'avoir un rapport 
+( )
+(
+)
+1
+1
+4
+2
+2
+10
+I
+I
+ν
+ν
+=
+.  
+Déduire la valeur du coefficient de réflexion R . 
+24- Que vaut alors la finesse F  du Fabry-Pérot ? Evaluer sa résolution en longueur d’onde 
+FP
+δλ
+? 
+Commenter. 
+ 
+ 
+Fin de l’épreuve 
+Transmission 
+du Fabry-
+Pérot 
+Raie 
+parasite 
+ 
+Figure 3 
+
+Corrigé de l’épreuve de Physique Concours Physique et Chimie                 
+ 
+ 
+                                                1/11 
+REPUBLIQUE TUNISIENNE 
+Ministère de l'Enseignement Supérieur et de la 
+Recherche Scientifique 
+  
+Concours Nationaux d’Entrée aux Cycles 
+de Formation d’Ingénieurs 
+Session 2022 
+ 
+ 
+ 
+Correction de l’épreuve de Physique 
+Concours Physique Chimie 
+Session Juin 2022 
+ 
+Problème 1 : Phénomènes de Diffusion  
+Partie I- Diffusion des ondes électromagnétiques dans les conducteurs 
+1- 
+En général, les équations de Maxwell dans le conducteur s’écrivent : 
+
+
+
+
+0
+e M ,t
+divE M ,t
+
+
+
+   (1),  
+
+
+0
+divB M ,t 
+   (2),  
+
+
+
+
+B M ,t
+rotE M ,t
+t
+
+
+
+   (3)  et 
+
+
+
+
+
+
+0
+0
+E M ,t
+rot B M ,t
+J M ,t
+t
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ (4). 
+ 
+ 
+  0,5 
+ 
+  x 4 
+ 
+2- 
+La loi d’Ohm classique est vérifiée si 
+0
+0
+1
+1
+j
+
+
+
+
+
+
+
+   
+1
+1
+ 
+1
+1
+
+
+
+. 
+A.N : 
+1
+13
+1
+1
+4 210 r
+,
+ad s
+
+
+
+
+
+ ; les domines des ondes radios, T.V, télécommunications 
+et relativement I.R peuvent garantir cette condition. 
+ 
+ 
+  0,5 
+ 
+  0,5 
+3-1- 
+L’équation de conservation de la charge : 
+
+
+
+
+0
+e M ,t
+div J M ,t
+t
+
+
+
+
+
+. 
+(1)  
+
+
+
+
+
+
+0
+0
+0
+e
+e
+M ,t
+M ,t
+divE M ,t
+t
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+0
+0
+0
+e
+e
+M ,t
+M ,t
+t
+
+
+
+
+
+
+
+. 
+ 
+ 
+  1,5 
+3-2- 
+A une position M fixée, 
+0
+0
+2
+e
+e
+d
+dt
+dt
+
+
+
+
+
+
+
+ , 
+0
+2
+0
+
+
+
+
+ ;  homogène à une durée. 
+
+
+
+
+
+0
+2
+2
+0
+e
+e
+e
+t
+t
+M ,t
+M ,
+exp
+exp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.  
+A.N : 
+12
+19
+0
+2
+7
+0
+8 8510
+1 5510
+5 710
+,
+,
+s
+,
+
+
+
+
+
+
+
+
+, la durée décrivant la décroissance de la densité 
+de charge est très faible. Instantanément, la densité de charge est considérée nulle. 
+ 
+ 
+ 
+  1 
+ 
+ 
+ 
+ 0,5 
+3-3- 
+Puisque 
+
+
+0
+e M ,t
+
+
+, le milieu conducteur contient d’autant de charges positives que 
+négatives : 
+
+
+
+
+0
+e
+e
+ions
+
+
+
+
+
+
+
+
+
+  
+
+
+0
+divE M ,t 
+ ; en présence d’une onde 
+électromagnétique, le conducteur demeure neutre. 
+ 
+ 
+  1 
+4- 
+Dans le conducteur ohmique, on doit se limiter au domaine de pulsation où  
+1
+13
+4 210
+,
+rad s
+
+
+
+.  
+* 
+
+
+
+0
+J M ,t
+E M ,t
+
+
+  
+
+
+
+
+0
+J M ,t
+E M ,t
+
+
+. 
+* 
+
+
+
+
+
+
+0
+0
+D
+E M ,t
+J
+M ,t
+j
+E M ,t
+t
+
+
+
+
+
+
+  
+
+
+
+
+0
+D
+J
+M ,t
+E M ,t
+
+
+. 
+
+
+
+
+
+18
+0
+0
+2
+1
+6 44 10
+1
+D
+J M ,t
+,
+J
+M ,t
+
+
+
+
+
+
+
+  puisque 
+1
+13
+4 210
+,
+rad s
+
+
+
+. 
+ 
+ 
+ 
+ 0,5 
+ 
+ 
+    
+   
+   1 
+انمناظرات انىطنية نهدخىل
+ 
+إنى مراحم تكىين
+ 
+انمهندسين
+ 
+دورة
+  2022
+ 
+
+Corrigé de l’épreuve de Physique Concours Physique et Chimie                 
+ 
+ 
+                                                2/11 
+
+
+
+
+D
+J M ,t
+J
+M ,t
+
+ Dans ce domaine de pulsation, le courant de conduction est 
+dominant par rapport à celui de déplacement. 
+5- 
+En tenant compte des conditions précédentes, les équations de Maxwell dans le 
+conducteur se réduisent à :  
+
+
+0
+divE M ,t 
+   (1),  
+
+
+0
+divB M ,t 
+   (2),  
+
+
+
+
+B M ,t
+rotE M ,t
+t
+
+
+
+   (3)  et 
+
+
+
+
+0
+0
+rot B M ,t
+E M ,t
+
+
+ (4). 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4
+0
+0
+rot rotE M ,t
+E M ,t
+rot B M ,t
+E M ,t
+t
+t
+
+
+
+
+
+
+
+
+
+. 
+ 
+
+
+
+
+0
+0
+E M ,t
+E M ,t
+t
+
+
+
+
+
+, enfin : 
+
+
+
+
+0
+0
+0
+E M ,t
+E M ,t
+t
+
+
+
+
+
+ (*) . 
+C’est l’équation de diffusion de l’onde E.M dans le conducteur puisqu’elle relie des 
+dérivées partielles spatiales à des dérivées partielles temporelles du champ 
+
+
+t
+E
+z,t . 
+Cette équation de diffusion traduit le caractère irréversible du phénomène à cause de la 
+dissipation de l’énergie. Elle est donc différente de celle de d’Alembert.  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  1 
+ 
+ 
+ 
+  
+ 0,5 
+6- 
+
+
+
+
+
+
+0
+0
+t
+t
+t
+x
+x
+E
+z,t
+E u exp j
+t
+k z
+E u exp j
+t
+k z
+
+
+
+
+
+
+
+
+, 
+(*)  
+
+
+
+
+2
+0
+0
+0
+t
+t
+k E
+z,t
+j
+E
+z,t
+
+
+
+
+
+    
+2
+0
+0
+0
+0
+2
+k
+j
+exp
+j 
+
+
+
+
+
+
+
+
+
+
+
+ . 
+ 
+ 
+  1,5 
+7- 
+2
+0
+0
+2
+k
+exp
+j 
+
+
+
+
+
+
+
+
+
+ 
+
+
+0
+0
+0
+0
+1
+4
+2
+k
+exp
+j
+j
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+1
+2
+k
+k
+j k
+
+
+, avec 
+0
+0
+1
+2
+2
+k
+k
+
+
+
+ . On choisit le signe (+) puisque la propagation 
+est faite suivant les z croissants.  
+Enfin : 
+1
+2
+k
+k
+j k
+
+
+ ; 
+0
+0
+1
+2
+2
+k
+k
+
+
+
+. 
+
+
+
+
+
+
+
+
+
+
+0
+1
+2
+0
+2
+1
+t
+t
+x
+t
+x
+E
+z,t
+E u exp j
+t
+k
+j k
+z
+E u exp
+k z exp j
+t
+k z
+
+
+
+
+
+
+
+
+
+
+
+
+. 
+ 
+
+
+
+
+
+
+
+
+
+
+0
+2
+1
+t
+t
+x
+t
+E
+z,t
+E u exp
+k z cos
+t
+k z
+E
+z
+e
+,t
+
+
+
+
+
+
+
+R
+. 
+L’amplitude du champ électrique de l’onde E.M décroit lors de la propagation.  
+ 
+ 
+ 
+   
+  1 
+ 
+   
+  
+ 
+ 
+  1 
+8- 
+
+
+
+
+
+
+
+
+
+0
+2
+1
+0
+1
+t
+t
+x
+t
+x
+E z,t
+E u exp
+k z cos
+t
+k z
+E
+z u cos
+t
+k z
+
+
+
+
+
+
+
+
+
+
+
+. 
+La décroissance de l’amplitude
+
+0t
+E
+z  est due à la présence du facteur 
+
+
+2
+exp
+k z
+
+. 
+Si 
+2
+1
+z
+k
+
+ 
+
+0
+0
+2
+1
+1
+t
+t
+E
+E
+z
+k
+exp
+
+
+
+
+
+
+
+
+ cette distance caractéristique, décrivant la 
+décroissance, est appelée profondeur de pénétration 
+2
+0
+0
+1
+2
+em
+k
+
+
+
+
+   en m.  
+
+
+tE
+z,t  décrit une onde E.M progressive. La vitesse de la phase associée, s’écrit : 
+
+1
+0
+0
+2
+v
+k
+e k
+
+
+
+
+
+
+
+
+R
+, exprimée en 
+1
+ms. 
+A.N : 
+7
+1
+0
+5 710
+,
+S m
+
+
+
+ et 
+7
+0
+12 5610
+,
+SI
+
+
+
+ 
+*
+100
+f
+Hz
+
+  
+3
+0
+0
+2
+6 67 10
+6 67
+em
+,
+m
+,
+mm
+
+
+
+
+
+
+ et 
+1
+0
+0
+2
+4 19
+v
+,
+ms
+
+
+
+
+
+
+. 
+*
+8
+10
+f
+Hz
+
+
+6
+6 6710
+6 67
+em
+,
+m
+,
+m
+
+
+
+
+
+ et 
+3
+1
+4 1910
+v
+,
+ms
+
+
+
+ 
+ 
+ 
+ 
+ 
+  
+0,25 
+ 
+ 
+   
+  
+0,25 
+ 
+ 
+ 
+ 
+  
+ 0,5 
+  
+ 0,5 
+ 
+
+Corrigé de l’épreuve de Physique Concours Physique et Chimie                 
+ 
+ 
+                                                3/11 
+La propagation de l’onde E.M dans le conducteur est dispersive 
+
+v
+f
+
+
+
+. 
+L’atténuation de l’onde est importante pour les pulsations élevées. 
+ 
+  0,5 
+9- 
+Il s’agit d’une pseudo-onde plane progressive harmonique, 
+
+
+t
+B
+z,t  s’écrit : 
+
+
+
+
+
+
+
+
+
+
+1
+2
+0
+2
+1
+t
+z
+t
+x
+t
+k
+E
+z,t
+k
+j k
+u
+E u exp
+k z exp j
+t
+k z
+B
+z,t
+
+
+
+
+
+
+
+
+
+
+
+
+. 
+
+
+
+
+
+
+
+
+
+
+
+
+0
+1
+y
+1
+2
+1
+t
+t
+t
+k E exp
+k z
+B z,t
+u
+cos
+t
+k z
+sin
+t
+k z
+B
+e
+z,t
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R
+. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+2
+1
+0
+2
+2
+1
+1
+1
+0
+2
+t
+t
+t
+t
+z
+E
+z,t
+B
+z,t
+z,t
+k E exp
+k z
+      
+u
+cos
+t
+k z
+cos
+t
+k z
+sin
+t
+k z
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+2
+2
+1
+0
+2
+0
+0
+0
+2
+1
+1
+2
+2
+2
+t
+t
+t
+z
+z
+em
+em
+k E exp
+k z
+E
+z
+z,t
+u
+exp
+u
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+; 
+2
+0
+0
+1
+2
+em
+k
+
+
+
+
+. 
+
+
+2
+0
+0
+1
+0
+2
+t
+t
+z
+em
+E
+z
+,t
+u
+
+
+
+
+  et 
+
+
+
+
+2
+0
+0
+1
+5
+10
+2
+t
+t
+em
+z
+em
+E
+z
+,t
+exp
+u
+
+
+
+
+
+
+. 
+
+
+
+
+
+
+
+
+0
+5
+f
+transf
+t
+ext
+t
+z
+t
+em
+z
+S
+S
+S
+z,t
+dS n
+z
+,t
+dS
+u
+z
+,t
+dS u
+
+
+
+
+
+
+
+
+
+
+
+
+
+P
+. 
+
+
+
+
+
+
+2
+2
+2
+0
+0
+0
+0
+0
+0
+1
+1
+1
+10
+1
+10
+2
+2
+2
+t
+t
+t
+transf
+em
+em
+em
+E
+E
+E
+S
+exp
+S
+exp
+S
+
+
+
+
+
+
+
+
+
+P
+. 
+
+
+10
+1
+exp 
+  
+2
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+1
+2
+2
+2
+8
+t
+t
+transf
+t
+em
+em
+E
+E
+S
+S
+E
+S
+
+
+
+
+
+
+
+
+P
+. 
+ 
+ 
+ 
+ 
+  0,5 
+ 
+ 
+ 
+ 
+  0,5 
+ 
+  
+           
+0,25 
+ 
+ 
+ 0,25 
+ 0.25 
+   
+ 
+  
+ 
+ 
+ 0,75 
+10- 
+
+
+
+
+
+
+
+
+
+
+2
+2
+2
+0
+0
+0
+1
+2
+v
+t
+t
+t
+em
+z
+z,t
+J z,t E
+z,t
+E
+z,t
+E exp
+cos
+t
+k z
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+p
+ 
+  
+
+
+2
+0
+0
+1
+2
+2
+v
+t
+em
+z
+z,t
+E exp
+
+
+
+
+
+
+
+
+
+
+p
+.  
+
+
+5
+2
+0
+0
+0
+5
+1
+2
+2
+em
+em
+ue
+v
+t
+z
+S
+re
+m
+ç
+V
+e
+z
+z,t
+d
+S
+E exp
+d z
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+P
+p
+ 
+
+
+5
+2
+2
+0
+0
+0
+0
+0
+1
+2
+10
+1
+2
+2
+4
+em
+em
+em
+e
+t
+t
+em
+reçu
+z
+S E
+exp
+S E
+exp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+P
+ 
+  
+2
+2
+0
+0
+0
+0
+0
+4
+8
+e
+em
+e
+t
+r ç
+t
+u
+S E
+S E
+
+
+
+
+
+P
+ .  
+On peut vérifier aisément que : 
+2
+0
+0
+0
+8
+f
+re
+e
+çu
+t
+trans
+S E
+
+
+
+
+P
+P
+.  
+Ce résultat constitue le bilan d’énergie électromagnétique dans le volume du conducteur. 
+0
+reçu
+em
+e
+transf
+dU
+dt
+
+
+
+P
+P
+ : l’énergie E.M moyenne reçue par le conducteur est 
+entièrement dissipée par effet Joule.  
+ 
+ 
+ 
+ 0,5 
+ 
+ 
+ 
+  
+ 
+ 
+   
+   1 
+ 
+ 
+ 
+ 
+ 
+  
+ 0,5 
+11-1- 
+fL : Energie thermique massique nécessaire pour changer de l’état thermodynamique 
+d’un cops pur de l’état solide à l’état liquide à pression et température constantes. 
+Le métal subit un chauffage de la température 
+0T  jusqu’à la température de fusion 
+fT .  
+Le volume du métal qui a subit la fusion 
+S d
+
+.  
+ 
+    
+   1 
+ 
+ 
+ 
+
+Corrigé de l’épreuve de Physique Concours Physique et Chimie                 
+ 
+ 
+                                                4/11 
+
+
+0
+Cu
+Cu
+f
+f
+H
+S d c
+T
+T
+L
+
+
+
+
+
+
+
+
+ , avec 
+2
+4
+S
+
+
+
+.   A.N : 
+2 2024
+H
+,
+J
+
+
+. 
+ 0,75 
+ 0,25 
+11-2- Puissance transmise dans le conducteur : 
+
+
+
+
+7
+1
+1
+700
+1 6
+R
+0
+9
+2
+i
+i
+t
+T
+W
+,
+
+
+
+
+
+
+P
+P
+P
+. 
+  
+  1 
+11-3-  La puissance E.M absorbée par le conducteur est automatiquement dissipée par effet 
+Joule c-à-d en puissance thermique. 
+Pendant la durée dt , la plaque métallique se déplace de la distance 
+m
+d
+V dt
+
+. Le 
+volume du métal découpé correspondant est : 
+m
+d
+d
+d
+V d .
+dt
+
+
+
+
+
+.  
+Le bilan d’énergie associé, s’écrit : 
+
+
+
+
+0
+1 R
+Cu
+m
+Cu
+f
+f
+i
+V d .
+dt c
+T
+T
+L
+dt
+
+
+
+
+
+
+
+
+
+
+P
+. 
+ 
+
+
+
+
+0
+R
+1
+i
+m
+Cu
+Cu
+f
+f
+V
+d
+c
+T
+T
+L
+
+
+
+
+
+
+
+
+
+
+P
+ .        A.N : 
+1
+3 49
+m
+V
+,
+cm s
+
+. 
+En pratique, la valeur de 
+m
+V  est plus faible. Ce comportement s’explique par le fait 
+qu’une partie de l’énergie absorbée par la plaque est transférée par conduction à 
+l’extérieur de la zone cible.  
+ 
+ 
+ 
+ 
+    
+ 
+    1 
+  
+  0,5 
+ 
+ 
+  0,5 
+Partie II : Diffusion des ondes thermiques dans le sol terrestre 
+12- 
+Lorsqu’il s’agit d’un phénomène physique qui obéit à une réponse linéaire, grâce au 
+théorème de Fourier, tout signal périodique peut se décomposer en une somme de 
+fonctions sinusoïdales. Les variations journalières ou annuelles de la température de 
+l’atmosphère constituent des exemples des variations sinusoïdales.  
+ 
+ 
+  1 
+13- 
+Loi phénoménologique de Fourier : 
+
+
+th
+J
+gradT M ,t
+
+
+. 
+th
+J  densité de flux thermique, exprimée en 
+2
+W m, 
+
+T M ,t  champ de température, en K. 
+ conductivité thermique, exprimée en 
+1
+1
+W m
+K
+
+. 
+Conditions de validité : 
+* La loi de Fourier est valide dans l’hypothèse d’un faible gradient de température.  
+* La loi est linéaire si l’on suppose que  est indépendante de la température. 
+* Enfin, pour pouvoir utiliser la loi de Fourier, il faut que le matériau soit isotrope sinon 
+la conductivité thermique  varie selon la direction du transfert thermique. 
+* Variation non rapide de la température en fonction du temps. 
+ 
+ 0,5 
+ 
+ 0,5 
+  
+ 
+0,25 
+0,25 
+0,25 
+ 
+0,25 
+14- 
+Flux thermique élémentaire à travers une surface dS  : 
+th
+th
+J
+dS n
+
+. 
+Pour une surface S, 
+
+
+
+th
+th
+S
+t
+J
+M ,t dS n
+
+
+ ; n  vecteur unitaire normal à la surface S. 
+ 
+ 0,5 
+ 
+ 0,5 
+15- 
+Pendant la durée dt , l’énergie thermique transférée à traves S, s’écrit : 
+
+
+
+
+th
+th
+th
+S
+Q
+t
+t dt
+J
+M ,t dS n dt
+
+
+
+
+. 
+Le transfert thermique effectué suivant (Oz)  
+
+
+th
+th
+z
+z
+T z,t
+J
+J u
+u
+z
+
+
+
+
+. 
+   
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+th
+th
+ext
+tranhe
+th
+z
+z
+th
+z
+S z d z
+S z
+Q
+t
+J
+M ,t dS n
+dt
+            
+J
+z
+d z,t u
+dS u
+dt
+J
+z,t
+dS u
+dt
+
+
+
+
+
+
+
+
+
+
+ 
+On néglige le flux à travers la surface latérale.  
+
+
+
+
+
+
+
+
+
+2
+th
+th
+th
+th
+S
+J
+z,t
+Q
+t
+J
+z
+d z,t
+J
+z,t
+dS dt
+S d z dt
+z
+
+
+
+
+
+
+
+
+. 
+ 
+ 
+ 
+ 
+  
+          
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  1 
+ 
+
+Corrigé de l’épreuve de Physique Concours Physique et Chimie                 
+ 
+ 
+                                                5/11 
+En tenant compte de la loi de Fourier, 
+
+
+
+
+
+
+
+2
+2
+2
+th
+th
+J
+z,t
+T z,t
+T z,t
+Q
+t
+S d z dt
+S d z dt
+S d z dt
+z
+z
+z
+z
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+. 
+
+
+
+2
+2
+2
+th
+T z,t
+Q
+t
+d dt
+z
+
+
+
+
+
+
+ ; d
+S d z
+
+ : volume de la tranche. 
+ 
+  
+ 
+ 0,5 
+16- 
+L’énergie interne relative à la tranche est : 
+
+
+
+
+U
+dm cT z,t
+d cT z,t
+
+
+
+
+.  
+Premier principe appliqué à la tanche élémentaire de volume d subit une 
+transformation élémentaire pendant dt  échangeant 
+2W
+
+et 
+2
+th
+Q
+
+ avec l’extérieur : 
+
+
+
+
+
+
+
+
+
+
+
+2
+2
+th
+d
+U
+U t
+dt
+U t
+d c T z,t
+dt
+T z,t
+Q
+W
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+2
+2
+th
+T z,t
+d c
+dt
+Q
+W
+t
+
+
+
+
+
+
+
+. 
+Ce bilan d’énergie élémentaire est fait à volume constant 
+2
+0
+pression
+W
+
+
+. En plus, il n y a 
+pas des termes sources 
+2
+0
+autres
+W
+
+
+  
+
+
+
+
+2
+2
+2
+th
+T z,t
+T z,t
+d c
+dt
+Q
+d dt
+t
+z
+
+
+
+
+
+
+
+
+
+
+. 
+ 
+
+
+
+
+2
+2
+T z,t
+T z,t
+t
+c
+z
+
+
+
+
+
+
+
+   (*)   équation de propagation de l’onde thermique. 
+th
+D
+c
+
+
+
+ : c’est le coefficient de diffusion thermique, exprimé en 
+2
+1
+m s. 
+L’équation (*) est linéaire. Elle est irréversible car variante par renversement du temps. 
+Elle est différente de celle de D’Alembert. La solution de cette équation décrit une 
+pseudo onde plane dont le nombre d’onde est à priori complexe. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0,5 
+   
+ 
+ 
+ 
+ 
+  
+0,75 
+ 
+ 0,5 
+ 
+ 
+0,25 
+17-1-  Les solutions sont de la forme :  
+
+
+
+0
+0
+T
+exp j
+t
+k z
+T z,t
+
+
+
+
+
+. 
+
+
+
+
+T z,t
+z,t
+t
+j
+
+
+
+ et  
+
+
+
+
+
+
+
+
+2
+2
+2
+2T z,t
+z,t
+z,t
+jk
+k
+z
+
+
+
+
+
+
+ 
+(*) 
+
+
+
+
+
+2
+t
+j
+z,t
+z
+k
+,
+c
+
+
+
+
+
+
+
+  
+2
+c
+k
+j 
+
+
+ ; relation de dispersion.  
+2
+2
+k
+exp
+j
+c
+
+
+
+
+
+
+
+
+
+
+
+  
+1
+1
+2
+2
+k
+j
+c
+
+
+
+
+
+
+
+
+
+
+, 
+1
+2
+2
+2
+th
+k
+c
+k
+D
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+1
+2
+1
+2
+k
+j
+k
+j k
+c
+
+
+
+
+
+
+, on choisit (+) car la propagation est faite suivant 
+les z 
+ (
+
+0
+e k 
+R
+).  Enfin : 
+
+
+
+
+1
+1
+2
+2
+th
+k
+j
+j
+c
+D
+
+
+
+
+
+
+
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+  1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0,5 
+17-2- 
+
+
+
+
+
+
+
+
+
+
+0
+1
+1
+0
+0
+2
+0
+2
+T
+exp j
+t
+z
+T
+exp
+z exp j
+t
+z
+T z,t
+k
+j k
+k
+k
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+0
+1
+0
+2
+T
+exp
+z
+t
+z
+T z,t
+T z,t
+k
+e
+cos
+k
+
+
+
+
+
+
+
+R
+
+
+
+
+
+
+
+
+
+0
+2
+0
+1
+1
+z,t
+exp
+z
+t
+z
+z
+t
+z
+k
+cos
+k
+cos
+k
+
+
+
+
+
+
+
+
+
+
+. 
+Lors de la propagation de 
+
+
+T z,t , les fluctuations 
+
+z,t
+
+ autour de la valeur moyenne 
+0T  subissent une décroissance à cause de la présence du facteur 
+
+
+2
+exp
+z
+k
+
+.  
+Il en résulte que 
+1k  est lié au phénomène de propagation qui peut être dispersive et le 
+terme 
+2k  indique l’amortissement de l’amplitude de l’onde thermique. 
+ 
+ 
+ 
+  1 
+ 
+ 
+ 
+ 0,5 
+18- 
+* Vitesse de phase : 
+
+1
+2
+c
+v
+k
+e k
+
+
+
+
+
+
+
+
+
+R
+, exprimée en 
+1
+ms. 
+ 
+0,75 
+
+Corrigé de l’épreuve de Physique Concours Physique et Chimie                 
+ 
+ 
+                                                6/11 
+* La distance caractéristique 
+th
+ de la décroissance de 
+
+
+z,t
+
+, appelée de même 
+profondeur de pénétration, est définie pour laquelle l’amplitude 
+0
+ est divisée par 
+
+1
+exp
+. 
+
+
+
+
+
+0
+0
+0
+2
+1
+th
+th
+e
+z
+k
+exp
+xp
+
+
+
+
+
+
+
+
+
+
+2
+1
+2
+th
+k
+c
+
+
+
+
+
+ , exprimée en m. 
+ 
+ 
+ 
+0,75 
+ 
+19- 
+A.N : 
+3
+3
+3 15 10
+,
+ 
+kg m
+
+
+
+, 
+1
+1
+870
+c
+J K kg
+
+
+
+ et  
+1
+1
+1 80
+,
+W m
+K
+
+
+
+
+ 
+* Variations journalières : 
+86400
+JT
+s
+
+  
+5
+1
+7 2710
+J
+,
+a s
+r d
+
+
+
+
+. 
+ 
+2
+0 1344
+13 44
+J
+J
+th,
+,
+m
+,
+cm
+c
+
+
+
+
+
+
+
+  et  
+5
+1
+2
+0 98 10
+J
+,J
+v
+,
+ms
+c
+
+
+
+
+
+
+
+
+. 
+* Variations annuelles : 
+31536000
+A
+T
+s
+
+  
+7
+1
+1 9910
+A
+,
+a s
+r d
+
+
+
+
+.  
+2 57
+th,A
+,
+m
+
+
+   et   
+6
+1
+0 46 10
+,A
+v
+,
+ms
+
+
+
+
+. 
+- On remarque que 
+th,J
+th,A
+
+
+
+ ; Les variations journalières de la température pénètrent 
+moins profondément dans le sol que les variations annuelles : Le sol se comporte comme 
+un filtre passe bas.  
+- La vitesse de phase décroit avec la pulsation. Ainsi, les variations journalières de la 
+température pénètrent plus vite dans le sol que les variations annuelles.  
+ 
+ 
+ 
+ 
+  
+0,75 
+   
+  
+ 
+0,75 
+ 
+ 
+ 0,5 
+20- 
+Représentation de la fonction d’onde 
+
+T z,t  pour différents instants fixés. 
+Il s’agit d’une variation sinusoïdale autour de la valeur moyenne 
+0T  muni d’une 
+décroissance exponentielle. L’aspect sinusoïdal est peu visible sur la courbe car la 
+longueur 
+d’amortissement 
+th
+ 
+est 
+plus 
+faible 
+que 
+la 
+longueur 
+d’onde :
+1
+2
+2
+2
+2
+th
+k
+c
+
+
+
+
+
+
+
+
+
+
+. 
+ 
+ 
+ 
+ 
+ 
+  1 
+ 
+ 
+ 
+ 
+ 
+   
+ 0,5 
+21-1- Pour les variations journalières de la température, la profondeur de pénétration est : 
+13 44
+th,J
+,
+cm
+
+
+. Au-delà de quelques 
+th,J
+
+, L’atténuation de la fluctuation 
+
+z,t
+
+ de la 
+température est importante de telle sorte qu’on peut supposer que la température ne varie 
+plus. C’est la raison pour laquelle les canalisations sont enterrées à cette profondeur. 
+ 
+ 
+  1 
+21-2- Pour les variations annuelles de la température, la profondeur de pénétration est : 
+2 57
+th,A
+,
+m
+
+
+. A une profondeur de quelques 
+th,A
+
+, les variations annuelles de la 
+température ne sont plus appréciables. Pour cette raison les caves sont creusées à des 
+profondeurs de l’ordre de 5 mètres.  
+ 
+  
+  1 
+Partie III : Phénomène de diffusion en dynamique des fluides 
+22- 
+Suivant les directions 
+
+Ox  et 
+
+Oy , les dimensions du fluide sont supposées infinies. Le 
+champ de vitesses 
+
+
+v M ,t  est invariant lors des translations des plans de symétrie  
+
+
+xO z  et
+
+yO z  respectivement suivant les axes 
+
+Oy  et 
+
+Ox . 
+
+v M ,t  ne dépend ni 
+de y ni x : 
+
+
+
+v
+v
+M ,t
+z,t
+
+ et 
+
+
+
+v
+v
+x
+M ,t
+z,t u
+
+. 
+De même pour le champ de pression 
+
+
+
+
+P M ,t
+P z,t
+
+. 
+ 
+ 
+ 
+   1 
+ 
+ 
+  0,5 
+
+Corrigé de l’épreuve de Physique Concours Physique et Chimie                 
+ 
+ 
+                                                7/11 
+23- 
+Le fluide est en écoulement réel. Les forces volumiques et surfaciques appliquées sur une 
+particule fluide sont : 
+* Force volumique de pesanteur : 
+vf
+g
+
+
+. 
+* Equivalent volumique de la force surfacique de pression : 
+
+
+s,P
+f
+gradP z,t
+
+. 
+* Equivalent volumique de la force de viscosité :
+
+
+
+
+2
+2
+v
+v
+s,Visco
+x
+x
+z,t
+f
+z,t u
+u
+z
+
+
+
+
+
+.  
+ 
+ 
+ 0,5 
+ 
+ 0,5 
+ 
+ 0,5 
+24- 
+Lorsque la plaque est mise en mouvement, les particules de fluide de la couche de fluide 
+au-dessus de la plaque s’accroche et se mettent en mouvement. Il y a diffusion de la 
+quantité de mouvement dans la mesure où c’est l’hétérogénéité du champ des vitesses qui 
+est à l’origine de la mise en mouvement de toutes les couches de fluide. Cette diffusion  
+tend à homogénéiser le plus possible le champ de vitesses, compte tenu des conditions 
+aux limites. Elle s’effectue dans la direction (Oz), perpendiculairement à l’écoulement. 
+ 
+ 
+ 
+  1,5 
+25- 
+On applique le PFD à une particule fluide en écoulement visqueux. 
+ 
+
+
+
+
+
+
+
+
+
+v
+v
+v
+v
+ext
+paticule
+v
+s
+D
+z,t
+z,t
+dF
+dF
+dF
+dm
+d
+z,t grad
+z,t
+Dt
+t
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+. 
+
+
+
+
+
+
+
+
+
+
+
+
+v
+v
+v
+v
+z,t
+d
+z,t grad
+z,t
+g d
+gradP z,t d
+z,t d
+t
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+v
+v
+v
+v
+z,t
+z,t grad
+z,t
+g
+gradP z,t
+z,t
+t
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  (*).  
+Equation de Navier-Stokes. 
+
+
+
+
+
+
+
+
+
+
+v
+v
+v
+v
+x
+x
+z,t grad
+z,t
+z,t u grad
+z,t u
+
+ : accélération convective. 
+ 
+ 
+ 
+ 
+ 
+ 1,5 
+26- 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+v
+v
+v
+v
+v
+0
+x
+x
+z,t
+z,t grad
+z,t
+z,t
+z,t u
+z,t
+u
+x
+x
+
+
+
+
+
+
+
+
+
+
+
+
+
+. 
+  L’accélération convective est nulle. 
+ 
+  1 
+27- 
+On projette l’équation (*) suivant la direction (Oz). 
+
+
+0
+P z,t
+g
+z
+
+
+
+
+
+
+ car 
+
+
+v
+0
+z
+z,t
+t
+
+
+
+
+
+
+
+
+
+ et 
+
+
+
+
+v
+0
+z
+z,t
+
+
+. 
+ 
+
+
+P z,t
+g
+z
+
+
+
+
+ 
+
+
+P z,t
+g z
+K t
+
+
+
+. 
+Pour  z
+h
+
+  
+
+
+0
+P z,t
+P
+g h
+K t
+
+
+
+
+  
+
+0
+K t
+P
+g h
+
+
+
+. 
+Enfin : 
+
+
+
+
+0
+P z,t
+P z
+g h
+z
+P
+
+
+
+
+
+ ; 
+P z  varie linéairement en fonction de z. 
+ 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ 
+ 0,5 
+28- 
+La projection de l’équation (*) suivant la direction (Ox) aboutit à : 
+
+
+
+
+
+
+2
+2
+v
+v
+v
+x
+x
+x
+z,t
+z,t
+u
+z,t u
+u
+t
+z
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+2
+2
+v
+v
+c
+z,t
+z,t
+t
+z
+
+
+
+
+
+
+  (**) ;  
+c
+
+
+
+
+:  constitue la viscosité cinématique, exprimée en 
+2
+1
+m s. 
+On obtient une grandeur comparable au coefficient de diffusion thermique 
+th
+D . Ce 
+résultat provient d’un mécanisme microscopique (agitation thermique) associé aux 
+phénomènes de transport diffusif de la quantité de mouvement dans les fluides visqueux. 
+c
+visc
+D
+
+ décrit donc l’aptitude à la diffusion de la quantité de mouvement. 
+ 
+ 
+ 0,5 
+ 
+ 
+ 0,5 
+ 
+ 
+ 0,5 
+29-1- En notation complexe, la solution de l’équation (**) est de la forme : 
+
+
+
+
+
+v
+x
+z,t
+f z exp j
+t u
+
+
+ ;  
+ 
+ 
+ 
+
+Corrigé de l’épreuve de Physique Concours Physique et Chimie                 
+ 
+ 
+                                                8/11 
+
+
+
+
+
+2
+2
+2
+2
+v
+x
+d f z
+z,t
+exp j
+t u
+z
+d z
+
+
+
+
+  et 
+
+
+
+
+
+
+v
+x
+z,t
+j
+f z exp j
+t u
+t
+
+
+
+
+
+. 
+Dans l’équation (**)    
+
+
+
+
+
+
+
+
+2
+2
+0
+c
+x
+x
+d f z exp j
+t u
+j
+f z exp j
+t u
+d z
+
+
+
+
+
+
+. 
+  
+
+
+2
+2
+0
+c
+d f z
+j
+f z
+d z
+
+
+
+
+ , équation différentielle de second ordre. 
+Polynôme caractéristique : 
+2
+0
+c
+j
+r
+
+
+
+
+  
+2
+2
+c
+c
+j
+r
+exp j
+
+
+
+
+
+
+
+  
+ 
+
+
+1
+2
+4
+2
+c
+c
+r
+exp j
+j
+
+
+
+
+
+
+
+
+. 
+
+
+
+
+
+
+1
+2
+1
+1
+2
+2
+c
+c
+f z
+A exp
+j z
+A exp
+j z
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+1
+2
+v
+2
+2
+2
+2
+x
+x
+c
+c
+c
+c
+z,t
+A exp
+z exp j
+t
+z
+u
+A exp
+z exp j
+t
+z
+u
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+1A  et 
+2
+A  sont des constantes d’intégration.  
+ 
+ 
+ 
+ 
+ 
+ 
+  1 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+  
+  1 
+ 
+ 
+29-2- 
+Le terme 
+1
+2
+2
+c
+c
+A exp
+z exp j
+t
+z
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ peut diverger si z augmente. Pour 
+éliminer cette condition, on choisit
+1
+0
+A 
+.   
+D’où : 
+
+2
+v
+2
+2
+x
+c
+c
+z,t
+A exp
+z
+exp j
+t
+z
+u
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+. 
+Les particules de fluide, en contact immédiat avec la plaque oscillante, sont en 
+écoulement à la vitesse 
+
+
+
+
+
+2
+0
+v
+0
+plaque
+x
+x
+z
+,t
+A exp j t u
+v
+V exp j
+t u
+
+
+
+
+
+
+   
+ 
+2
+0
+A
+V
+
+. 
+ 
+
+0
+v
+2
+2
+x
+c
+c
+z,t
+V exp
+z
+exp j
+t
+z
+u
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+. 
+
+
+
+
+
+
+0
+v
+v
+2
+2
+x
+c
+c
+z,t
+z,t
+V exp
+z
+cos
+t
+z
+u
+e
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R
+. 
+ 
+ 
+ 
+ 
+   
+  
+ 0,5 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+  1 
+29-3- 
+
+
+
+0
+0
+v
+v
+2
+2
+2
+x
+x
+c
+c
+c
+z,t
+V exp
+z
+cos
+t
+z
+u
+z cos
+t
+z
+u
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+. 
+Le champ de vitesses 
+
+
+v z,t  décrit une pseudo onde plane progressive ; L’amplitude 
+
+0
+v
+z  décroit exponentiellement (facteur 
+2
+c
+exp
+z
+
+
+
+
+
+
+
+
+
+
+
+). La propagation est faite à 
+une vitesse de phase v qui dépend à priori de la pulsation  donc dispersive. 
+On caractérise la décroissance de l’amplitude par la distance caractéristique 
+f
+ pour 
+laquelle l’amplitude 
+
+0
+v
+z  est divisée par 
+
+1
+exp
+.   
+
+
+
+
+0
+0
+0
+v
+1
+2
+f
+f
+c
+z
+V exp
+V exp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+1
+2
+f
+c
+
+
+  
+2
+c
+f
+
+
+
+
+   en m. 
+ 
+ 
+ 
+  1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0,5 
+30- 
+On a : 
+2
+2
+c
+f
+
+
+
+
+
+
+
+. 
+ 
+ 
+ 
+
+Corrigé de l’épreuve de Physique Concours Physique et Chimie                 
+ 
+ 
+                                                9/11 
+Cas de l’eau : 
+
+
+3
+2
+0 2510
+0 25
+eau
+f
+eau
+eau
+,
+m
+,
+mm
+
+
+
+
+
+
+
+. 
+Cas du miel : 
+
+
+2
+0 0213
+21 3
+miel
+f
+miel
+miel
+,
+m
+, mm
+
+
+
+
+
+
+. 
+La mise en mouvement d’un fluide sous l’effet d’un couplage visqueux est d’autant 
+plus rapide que sa viscosité η est grande pour des  masses volumiques comparables. 
+Pour l’eau, la longueur de diffusion d’une perturbation de vitesse est de l’ordre de 
+0,25 mm. Dans ce cas, l’effet de la diffusion est négligeable.  
+ 
+ 0,5 
+ 
+ 
+ 0,5 
+ 
+ 
+ 0,5 
+31- 
+2
+2
+210
+0 025
+25
+2
+5
+c
+f
+,
+m
+mm
+
+
+
+
+
+
+
+
+
+ ; Pratiquement, les ondes sismiques de 
+cisaillement ne se propagent pas dans le manteau terrestre. 
+   
+  1 
+Problème 2 : Filtrage par interférométrie 
+Partie I : Etude d’une lame à faces parallèles 
+1- 
+1
+12
+21
+0
+ts
+t t s
+
+ ; 
+21
+2
+2
+12
+21
+0
+t
+s
+t t r s
+
+ ;  
+21
+4
+3
+12
+21
+0
+t
+s
+t t r s
+
+. 
+0,5  
+x 3 
+2- 
+1
+12
+0
+r
+s
+r
+s
+
+  ;   
+2
+12
+21 21
+0
+r
+s
+t t r s
+
+;   
+21
+3
+3
+12
+21
+0
+r
+s
+t t r s
+
+ 
+0,5  
+x 3 
+3-  
+Amplitudes des vibrations réfléchies 
+1
+0
+0,2
+r
+s
+s
+
+ 
+2
+0
+0,19
+r
+s
+s
+
+ 
+3
+0
+0,0076
+r
+s
+s
+
+ 
+Amplitudes des vibrations transmises 
+1
+0
+0,96
+ts
+s
+
+ 
+2
+0
+0,0038
+t
+s
+s
+
+ 
+3
+0
+0,0015
+t
+s
+s
+
+ 
+ 
+3
+0
+r
+s
+
+
+ ;   
+2
+3
+0
+t
+t
+s
+s
+
+
+
+. 
+ 
+ 
+0,25 
+ 
+x  7 
+4-1-   
+1
+2
+t
+t
+s
+s
+
+
+0
+C 
+. 
+ 0,5 
+4-2-   
+1
+2
+r
+r
+s
+s
+
+
+
+1
+C . 
+ 0,5 
+5- 
+La lame est un dispositif interférentiel par division d’amplitude, l’interférence est à deux 
+ondes.  
+0,25  
+x 2 
+6-   
+
+
+
+
+
+
+
+
+
+
+
+
+1 2
+1
+1 2
+1
+2
+2
+1
+1
+2
+2
+;
+2
+2
+;
+cos
+2
+;
+sin
+sin
+2
+;
+cos
+M
+n J I
+J H
+n e
+n J I
+J J
+e tg
+J H
+J J
+n
+ne
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+2
+cos
+M
+ne
+
+
+
+ 
+
+
+4
+necos
+M
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 0,5 
+ x 7   
+7- 
+On a des interférences constructives si : 
+
+2
+M
+k
+
+
+
+ avec k 
+  
+Pour 
+0
+i 
+  
+0
+
+ ; 
+
+4
+2
+ne
+M
+k
+
+
+
+
+
+
+   
+2ne
+k
+
+  avec 
+*
+k 
+. 
+ 
+  1  
+  
+  1 
+8- 
+1
+600 nm
+
+ pour 
+1
+k  ; la seule longueur d’onde transmise dans le domaine du visible. 
+  Il s’agit d’un filtre interférentiel.   
+ 
+ 
+ 0,5 
+ 
+ 0,5 
+ 
+Partie II : Etude de l’interféromètre à ondes multiples de Fabry-Pérot : 
+i 
+RI 
+RT2 
+RT1 
+e 
+ 
+ 
+ 
+I2 
+I1 
+J1 
+J2 
+S 
+i 
+ 
+ 
+i 
+H 
+
+Corrigé de l’épreuve de Physique Concours Physique et Chimie                 
+ 
+ 
+                                                10/11 
+9- 
+Les rayons transmis par le Fabry-
+Pérot sont 
+parallèles, 
+la 
+figure 
+d’interférence est alors localisée à 
+l’infini ou dans le plan focal image 
+d’une lentille convergente.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 0,5 
+ 
+  
+ 0,5 
+10- 
+On a une lame d’air ;
+1
+n 
+ 
+i
+ ; 
+ 
+
+2
+M
+ecosi
+
+
+ 
+
+
+4
+e cosi
+M
+
+
+
+
+ 
+
+
+M
+cte
+
+
+i
+cst
+
+ ; franges d’égale inclinaison, donc des anneaux d’interférences.  
+ 
+0,25   
+ 
+ 0,5     
+x  3 
+11- 
+On a : 
+2
+1
+0
+0
+s
+t s
+T s
+
+
+ 
+            
+
+
+
+
+2
+2
+2
+0
+0
+s
+t r exp
+j
+s
+T Rexp
+j
+s
+
+
+
+
+
+
+ 
+            
+
+
+
+
+2
+4
+2
+3
+0
+0
+2
+2
+s
+t r exp
+j
+s
+T R exp
+j
+s
+
+
+
+
+
+
+ 
+            
+
+
+1
+0
+1
+( N
+)
+N
+s
+T R
+exp
+j( N
+)
+s
+
+
+
+
+
+ 
+ 
+ 0,5 
+x 4 
+12- 
+L’amplitude totale transmise est : 
+1
+2
+3
+T
+q
+s
+s
+s
+s
+s
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+2
+0
+1
+q
+j
+j
+j
+Ts
+s T
+Re
+Re
+Re
+
+
+
+
+
+
+
+
+
+
+
+
+. 
+  
+
+
+
+
+
+
+
+
+
+0
+0
+0
+1
+q
+T
+T
+q
+T
+s
+M
+s
+s T
+Rexp
+j
+s
+Rexp
+j
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 0,5 
+ 
+ 0,5 
+13- 
+
+
+
+
+
+
+
+
+
+
+2
+2
+0
+1
+1
+1
+*
+T
+T
+I M
+s s
+s T
+Rexp
+j
+Rexp j
+
+
+
+
+
+
+
+  
+
+
+
+
+2
+2
+0
+2
+1
+1
+2
+1
+s T
+R
+R
+cos
+
+
+
+
+ . 
+
+
+2
+2
+0
+2
+2
+1
+1
+4
+2
+s T
+R
+R sin
+
+
+
+
+
+
+
+
+
+
+ 
+
+0
+2
+1
+2
+I
+I M
+msin
+
+
+
+
+
+
+
+
+
+  ;   
+2
+0
+0
+I
+s
+
+   ;  
+
+
+2
+4
+1
+R
+m
+R
+
+
+. 
+ 
+ 
+  1 
+ 
+ 0,5 
+ x 2 
+14- 
+L’intensité lumineuse est maximale pour : 
+
+2
+M
+k
+
+
+
+  avec k 
+. 
+ 0,5 
+15- 
+ 
+
+2
+1
+1
+2
+FP
+T
+msin
+
+
+
+
+
+
+
+
+
+
+       
+max
+1
+FP
+T
+  et  
+min
+1
+1
+FP
+T
+m
+
+. 
+  
+0,5 
+ x 3 
+16- 
+La largeur à mi-hauteur d’un pic d’intensité d’ordre k est donnée pour : 
+2
+2
+k
+
+
+
+
+
+ ; on a alors :  
+
+2
+1
+1
+2
+1
+4
+FP
+T
+m sin
+k
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+2
+1
+4
+sin
+m
+
+
+
+
+
+
+
+   
+1
+4
+4
+sin
+m
+
+
+
+
+
+
+
+
+
+, 
+
+
+2 1
+4
+R
+m
+R
+
+
+
+
+. 
+ La finesse : 
+
+
+2
+1
+R
+R
+
+
+
+
+
+
+ ;  pour 
+1
+R , 
+T
+
+
+. 
+ La finesse dépend uniquement des caractéristiques des miroirs, elle est indépendante 
+ 
+ 0,5      
+x 2 
+ 
+ 
+ 0,5 
+ 0,5  
+ x 2 
+ 0,25 
+ 
+ 
+Ecran 
+
+Corrigé de l’épreuve de Physique Concours Physique et Chimie                 
+ 
+ 
+                                                11/11 
+des conditions d’utilisation (l’angle d’incidence i). 
+17- 
+
+4
+4
+e cosi
+ecosi
+c
+
+
+
+
+
+
+
+.   
+ Entre deux pics d’intensité successifs : 
+2
+
+
+
+
+, 
+ Pour e et i fixées, on a : 
+4
+ISL
+ecosi
+c
+
+
+
+
+
+
+ 
+2
+ISL
+c
+e cosi
+
+
+
+. 
+ 
+ 0,5  
+x 4 
+18- 
+On peut écrire : 
+4
+2
+ISL
+ecosi
+c
+
+
+
+
+
+
+
+
+
+. 
+La largeur à mi-hauteur s’écrit alors : 
+2
+FP
+ISL
+
+
+
+
+
+
+. 
+La finesse : 
+2
+ISL
+FP
+
+
+
+
+
+
+
+ISL
+FP
+
+
+
+
+
+. 
+ 
+ 0,5  
+ 
+ 0,5 
+   
+ 0,5  
+19- 
+
+
+0
+0
+0
+2
+2
+ISL
+p
+
+
+
+
+
+
+
+
+ 
+
+ 
+0
+0
+ISL
+p
+
+
+
+. 
+0
+0
+FP
+FP
+ISL
+
+
+
+
+
+
+
+  
+0
+FP
+p
+
+
+. 
+La finesse 
+peut être interpréter comme étant le nombre d’ondes qui interfèrent. 
+  
+0,5 
+ 
+   1 
+0,25 
+20-1 
+En incidence normale : 
+0
+i 
+, 
+0
+0
+2e
+p
+
+
+   
+0
+2
+FP
+e
+
+
+
+ ,    A.N : 
+6
+1,210
+FP
+
+
+. 
+ 0,5 
+x 2 
+20-2 
+Pour le réseau : 
+R
+k N
+
+, avec 
+1
+k  et N
+L n
+
+ L
+n
+
+
+,  A.N : 
+1
+L
+m
+
+. 
+ 0,5 
+ x 2 
+20-3 
+Dans les conditions du laboratoire, on ne peut pas concevoir un réseau de largeur 
+1
+L
+m
+
+  
+permettant d’avoir un pouvoir de résolution aussi élevé, le Fabry-Pérot est beaucoup plus 
+pratique. 
+ 
+  1 
+21- 
+
+
+1
+2
+2
+ISL
+
+
+
+
+
+
+   
+2
+1
+0
+1
+2
+2
+1
+1
+1
+2
+2
+2
+c
+c
+c
+e
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+2
+1
+0
+4
+e
+
+
+
+
+.                  A.N : 
+0
+144,7
+e
+µm
+
+. 
+ 
+  0,5 
+   
+  0,5 
+  0,5 
+22- 
+
+max
+1
+1
+01
+01
+FP
+I
+I
+T
+I
+
+
+
+   et  
+
+
+min
+02
+2
+2
+02
+1
+FP
+I
+I
+I
+T
+m
+
+
+
+.  
+  0,5 
+ x 2 
+23- 
+ 
+
+
+
+
+
+1
+1
+4
+01
+2
+2
+02
+1
+10
+I
+I
+m
+I
+I
+
+
+
+
+
+ ; 
+ 
+01
+02
+I
+I
+
+  
+4
+10
+m 
+  
+
+4
+1
+R
+m
+
+,      A.N : 
+0,98
+R 
+. 
+  
+ 0,5 
+ 
+ 0,5 
+ 
+0,5 
+x 2  
+24- 
+ 
+
+
+
+
+157
+1
+1
+R
+R
+R
+
+
+
+
+
+
+
+ . 
+ 
+2
+2
+2
+0
+2
+ISL
+FP
+FP
+c
+c
+e
+
+
+
+
+
+
+
+
+
+  
+ ;       A.N  :  
+2
+0,76 10
+FP
+nm
+
+
+
+. 
+ La résolution en longueur d’onde est très faible d’où la très grande capacité du Fabry-
+Pérot à séparer des raies ayant des longueurs d’ondes très voisines. 
+  
+ 0,5 
+ 
+ 0,5     
+x 2 
+ 
+ 0,5 
+ 

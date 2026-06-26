@@ -1,0 +1,509 @@
+1-
+-----
+2-
+3-
+4-
+5-
+6-
+Corrigé Concours Physique 
+BG 2018 
+a- Le vecteur j(M, t) est un flux surfacique de conduction il s'exprime en 
+wm-Z, son flux est une puissance qui s'exprime en Watt. 
+b-
+( 
+• [j 
+î(x. t) 
+/(x + dx. t) 
+1 ➔ 
+1 
+f 
+' 
+, 
+X 
+x+dx 
+er principe : dU = oW + oQ 
+oroW = 0 
+dU 
+8Q 
+_=..;:::;__- = <Pentr-==-.<f>sort-On_a_;_dU = dudV-eLdtl_;;;;_Sdx 
+dt 
+dt 
+Sdx du= -SU(x + dx, t) - j(x, t)) 
+dt du 
+aj 
+. 
+du 
+aJ 
+(1) 
+ç=> Sdx- = -S-dx s01t · -
+= --
+A1-
+rlv 
+' 
+A1-
+;Jy 
+-
+c-Loi de Fourier: Îrh = -lnradT 
+l s'exprime en: WK- 1m-2 
+d- dU = pSdxdu = CpSdxdT ⇒ u = u0 + CpT 
+d(uo+CpT) 
+a ar 
+e- On remplace dans l'eq (1): 
+= À-(-) 
+dt 
+ax ax 
+C ar _ À a2r 
+ô2T(x,t) _ 1 oT(x,t) 
+P ;i,. -
+;:;:z ç:=> ~ 
+- n ~ 
+f- D : c'est coefficient de diffusion thermique, on déduit que D = 2:.. et elle 
+----
+--
+------
+--
+Cp 
+s'exprime en: m2s-1 
+E 
+, ... dT 
+0 
+a2r 
+a-
+n regime stationnarre : dt = 
+⇒-=O 
+éJxZ 
+T(x) = ax + b -
+on à T(O) = T1 = b et T(L) = T2 
+T(x) = r2~r1 x + T1 
+Û 
+' 
+➔( ) 
+À éJT-+ 
+➔( ) 
+ÂT1-T2-+ 
+b-
+na J X = -
+;::ux ⇒ J X = 
+-
+1_-Ux 
+a- On a : <Ptn = Jf j. dS = jS ⇒ c/Jth = ~ (T 1 - T z) 
+b- Par analogie avec la loi d'ohm : Rth = (T~~~2) = ! 
+a- Le flux convectif: </Jcv = h(T - T a)S 
+(T-T a) 
+1 
+b- c/Jcv = -- ⇒ R,v = -
+Rrn 
+hS 
+( ) 
+To-T10 
+a-T1 x =--x+T0 
+L1 
+( ) 
+Tzo-To 
+b-T2 x =--x+T0 
+L2 
+C 
+➔( ) 
+Â T10-To--+ 
+c- Dans 
+a : J X = 
+1 ~Ux 
+C 
+➔( ) 
+À To-T20 __,. 
+Dans 
+b : J X = 
+z ~Ux 
+d p 
+· · , d 
+h 
+· 
+O 
+À T10-To 
+À To-Tzo 
+-
+ar continmte u courant t enruque en x = 
+on a : 1-- = 
+2 -L -
+L1 
+2 
+A1T10+AzT20 
+T -
+L1 
+L2 
+o-
+~+À2 
+L1 Lz 
+a- AN : T1 = 300 K et L1 = L2 
+Y, 
+il1T1o+À2Tzo 
+⇒ o= 
+il1 +il2 
+Main bois 
+Main acier 
+Sensation chaud T20 = 373 K 
+T0 = 367 K 
+T' 0 =367K 
+Sensation froid T20 = 283 K 
+T0 = 308 K 
+T'0 =285K 
+1.5 
+2 
+----~ 
+1 
+2 
+2 
+1,S 
+2 
+1 
+2 
+1 
+2 
+1 
+2 
+2 
+1 
+1 
+2 
+1 
+1 
+f 
+
+b- Lorsqu'il fait chaud au toucher on sent l'acier plus chaud que le bois 
+(367 K > 367 K) et lorsqu'il fait fi;oid on sent l'acier plus froid que le bois 
+1 
+. 
+(285 K < 308 K) . 
+---
+7-
+a- La constante A s'exprime en Ohm net B s'exprime en Kelvin K 
+2 
+b-
+·-
+... , ~ 
+,r 
+'· ' \, 
+.. 
+>-, · .. 
+3 
+·• 
+"' "'-
+·• 
+. ''>--..._ 
+t 
+...,__ ·----,._____ 
+.. 
+-~ 
+·--=--:-.:._ . 
+.. 
+; 
+. . . 
+. 
+~ 
+. _,. 
+. 
+,,.._, 
+-
+c- On trace la courbe Ln(R) = f(l/T) la pente de la droite donne B et 
+--2-
+l'ordonnée à l'origine donne A. 
+· 
+· - · 
+----· 
+8-
+B(2-) 
+-B(2-) 
+B(~.!_) 
+a-Ro = Ae To d'où A= Rae 
+To ⇒ R = Rne 
+T To 
+2 
+dR 
+B 
+s(.!.-2-) 
+B 
+B 
+2 
+b-- = --Rae r To = --R ⇒ a(T) = --
+dT 
+7'2 
+T2 
+rZ 
+c- La thermistance est une CTN 
+1 
+. 
+d- a(T0 ) = -~ = -7,213.10-2K-1 
+Tn 
+0.5 
+9-
+B 
+a-dR = --
+2 R0dT 
+2 
+Tn 
+1 
+b-t::..T =-!::.R = ±0.012 K 
+aRn 
+0.5 
+10-
+a- La résistance interne d'un voltmètre numérique est très grande. On pourra 
+0.5 
+dans la suite la considérer comme infinie. 
+b- La règle du diviseur de tension permet d'écrire 
+r 
+U=-E 
+R+r 
+2 
+E = Ro+rU0 = 10V 
+r 
+11-
+rE 
+dU 
+. 
+2 
+R = - - r ⇒ dR = -rE-2 avec dR = aR0dT ce qm nous donne: 
+U 
+Uo 
+rE 
+t::.T= ---z!::.U = ±0.0056K 
+1 
+aRoUn 
+12-
+.!.+_E_ 
+E 0 
+a- UAB = UA - UB 
+U 
+R1 R1 
+E U 
+x+R 
+RE 
+on a : A = 11 = - ; B = 11 = -
+-+-
+2 
+-+-
+R+X 
+2 
+R1 R1 
+X R 
+1 
+R 
+ER-X 
+.. 
+UAB = E(-;- R4-J.,.) ⇒ U AB = 1. (y.co) 
+b- UAB = 0 ⇒ X = Xo = R = Rn = 11sn 
+1 
+13-
+a- UAB = ~(-l + ZXo )E ⇒ dUAB = -E ( Xo,)2 dR 
+2 
+2 
+R+L 
+R+~ 
+b- Au voisinage de T0 , on obtient, avec R = X0 = R0 : dUAB = - _!__ dR 
+-
+---· 
+4R0 
+--···-· .. --i--
+aE 
+a(To)E 
+il.U AB = - 4 il.T = kil.T avec k = - -
+4-
+c- il.UAB = ±0,01 mV nous donne : il.T = ±5, 6 10-s K 
+0.5 
+14-
+a- T1 = Ta donc R = Ra = X0 ; U AB = ! Œ-x) la résistance X est fixé à X0 ; 
+2 
++R 
+U = ! (R-Xo) ==> 2UAB _ l = -2Xo ⇒ R = 
+2Xo 
+_ X = 114 0S!1 
+AB 
+Z X +R 
+E 
+R+X 
+_ zu AB 
+a 
+. 
+1 
+. 
+O 
+O 
+1 
+E 
+0.5 
+1 
+1 
+B(--) 
+R 
+(1 
+1 ) 
+1 
+1 
+R 
+1 
+R=R0 e rro ⇒Ln-=B ---
+⇒-=-(Ln-+-) 
+0.5 
+Ro 
+T 
+T o 
+T 
+B 
+Ro 
+T 0 
+⇒ T = 300.llK 
+b- b..T à pour origine l'échauffement par effet joule dissipé dans la résistance on 
+2 
+à T > T1 
+-----··------
+
+15-
+a- Bilan thermique : Pedt - cf>edt = mCdT => ~: = Pe:,:e 
+2 
+b- En régime permanent : Pe = cf>e => Pe = ha (T1 - T0) 
+2 
+, 
+E 
+. 
+c-
+On a: RIR = ;- + UAs => IR= 43.4 mA , 
+2 
+d- Pe = RJJ ⇒ 
+Pe = 0.216W 
+1 
+hg=:~= 1.97WK-1 
+1 
+16-
+Le p~emier principe dU = ôQ + ôWrecu ⇒ ôQ = dU - V0dq 
+2 
+Le2=eprincipe ôQ ~ TdS ⇒ dU - Vdq ~ TdS 
+17-
+a- dF = dU - TdS - SdT - V0 dq ~ 0 ⇒ dF = dF - d(V0 q) ~ 0 
+F=F-V0 q; 
+une variation de la tension de OV à V0 on a : 
+2 
+⇒ dF = ôQ + ôWrecu -TdS-SdT- Vd q - qdV 
+. 
+·-
+-
+~ 
+1 
+2 
+⇒ dF = TdS + Vdq -TdS- Vd q - qdV = -qdV d'où :F = -_;CV0 
+b- La variation de la fonction évolue en diminuant d'où F est un potentiel 
+1 
+thermodynamique 
+18-
+-
+aP 
+aP 
+-
+aft 
+a- dF = 8 )vdT+ 8 )rdV et dF = -S dT- qdV ⇒-)v = -S et 
+r 
+v 
+ar 
+aft 
+-)r = -q 
+av 
+2 
+La différentielle est totale exacte 
+82
+: = azp ⇒ 
+a(q))v = a;5))r = ~ 
+ar v 
+avar 
+ar 
+v 
+r 
+a(cv) 
+i 
+a(c) 
+À 
+ace) 
+. 
+_1 
+Orq =CV ⇒ il7' )v =-:;: ⇒V il7' )v =-:;: ⇒À= TV aT s'exprime en]. V 
+b -
+ôQ = T0dS ⇒ ôQ = T0 (!:. dT + ~dV) = Â.dV 
+Ta 
+To 
+2 
+ôQ -
+T, va(c) dV Q -
+liJ(C)T V z -
+1 lV 
+⇒ -
+o ;i:;:-
+- ;wr o o - ; 
+o 
+19-
+0;~) < 0 ⇒ Q < 0 quantité de chaleur fournie par le condensateur au liquide à 
+1 
+fin de maintenir sa température constante. 
+20-
+a-dP = -pgdz 
+f~ dP = - J; pgdz ==> P - P0 = -pgz + pgh 
+2 
+P = -pgz + (pgh+P0 ) = az + b 
+b = pgh+P0 et a= -pg 
+La pression augmente dans les profondeurs 
+b- A 60m la pression P = 7. 105 Pa 
+1 
+c- Le plongeur doit monter par palier à fin d'éviter des variations brusques de 
+2 
+pression pouvant affecter les poumons. 
+d- Le modèle de gaz parfait n'est pas applicable pour les irrandes pressions. 
+2 
+21-
+P, = P2 + p_q(h2 - h1 ) ⇒ !iP = 2p_q!ih 
+2 
+22-
+Ona: C1 = f3 + a(h1) et C2 = /3 + ah2) 
+2 
+C7 - C1 = a(h7 - h1) = 2a!ih 
+C1 + C2 = 2/3 + a2h0 = 2(/3 + ah0) 
+2 
+23-
+e 
+V 
+z1 
+Z2e 
+V 
+e 
+a-
+S = -1-1 = -- ; A == -
+-+-
+Z1+Z2 
+2 
+Z1 Zz 
+(1 
+Z2 ) 
+e (z-Z1) 
+3 
+s == VA - Vs = e - - --
+<=) VA - V8 = - --
+2 
+Z1+Z2 
+2 Z1+Z2 
+s = :.cCi-C1); VA - Vs =0 donc C1 = C2 = C 
+2 c, +c, 
+b 
+- e {z -Ci) 
+-
+e 
+( C 
+C ) 
+- S - 2 C1 +C, ⇒ 
+S -
+4(8+ahn) 
+2 -
+1 
+2 
+c- s = VA - Vs = e (fJ a 
+,) !ih 
+1 
+2 
++ahn 
+d- tih = 3,410-4m 
+1 
+3 

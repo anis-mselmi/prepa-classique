@@ -1,0 +1,1999 @@
+ 
+ 
+Recommandations aux candidats 
+ 
+Aucun autre document n'est autorisé. 
+ 
+Seules les calculatrices de poche non programmables sont autorisées. 
+ 
+Il n’est fourni au candidat qu’une seule et unique copie du «Dossier document réponses » qui doit 
+être rendu en totalité, à la fin de l’épreuve, même sans réponses. 
+ 
+Le document réponses doit être rendu en intégralité (aucune feuille ne doit être supprimée). 
+ 
+Toute suppression de feuilles du document réponses est considérée comme tentative de fraude. 
+ 
+République Tunisienne 
+Ministère de l’Enseignement 
+Supérieur et de la Recherche 
+Scientifique 
+Concours Nationaux d’Entrée aux 
+Cycles de Formation d’Ingénieurs 
+Session 2025 
+ 
+ 
+ 
+ 
+ 
+المناظرات 
+ الوطنية للدخول إلى مراحل تكوين
+المهندسين 
+ دورة2025
+ 
+ 
+Concours de Technologie 
+Épreuve de Conception & Fabrication Mécanique 
+ 
+Date : Mardi 04 Juin 2025 
+Heure : 08H 00  
+Durée : 4 Heures 
+L’épreuve comporte deux parties : 
+A- Conception mécanique)  
+B- Fabrication mécanique (09  
+Le sujet de l’épreuve remis au candidat comporte trois dossiers : 
+1- Mise en situation, Données et Hypothèses 
+2- Documents Techniques (DT-01 à DT-05)  
+3- Document Réponses 
+ 
+
+ 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025               Page 2/12 
+ 
+ 
+ 
+Dossier 
+Mise en situation, Données et Hypothèses 
+ 
+ 
+ 
+ 
+ 
+Ce dossier comporte 12 pages, numérotées de 1 à 12 
+et 5 documents techniques DT-01 à DT- 05. 
+ 
+ 
+ 
+Mise en situation 
+Page 3/12 
+ 
+Documents Techniques 
+DT-01 à DT-05 
+ 
+Données et hypothèses 
+ 
+ 
+A- Conception Mécanique  
+Pages 4/12 à 7/12 
+ 
+B- Fabrication Mécanique 
+Pages 8/12 à 1/12 
+ 
+
+Concours Technologie Épreuve C.F.M     Conception Mécanique    Mise en situation, Données & Hypothèses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025               Page 3/12 
+ÉTUDE D’UNE EXTRUDEUSE 
+1- Mise en Situation 
+L’extrusion plastique est un procédé en continu qui consiste à faire fondre un polymère (sous 
+forme de pâte) à l’aide d’une vis sans fin, de le pousser à travers une matrice pour le refroidir et le 
+couper en longueur. L’extrusion plastique avec une extrudeuse monovis utilise qu’une seule vis 
+pour écraser la matière plastique et la modeler. Le processus d’extrusion commence par 
+l’alimentation de granulés de plastique, pouvant provenir de sources recyclées, dans l’extrudeuse. 
+Les granulés de plastique sont ensuite fondus par la friction d’une vis rotative. Le plastique fondu 
+(pâte) est ensuite conduit vers une filière qui est conçue pour donner au matériau sa forme 
+spécifique, des fils par exemples. 
+On se propose, dans ce sujet, d’étudier les différents systèmes de transmission de puissance 
+permettant l’entraînement de la vis de l’extrudeuse.  
+Principe de fonctionnement  
+Le document (DT-01) représente le dessin d’ensemble du mécanisme d’entraînement de la vis 
+de l’extrudeuse. Le moteur électrique (1) entraîne, par l’intermédiaire de la poulie (2) et les 
+courroies (3), la rotation de la poulie (67) qui est normalement embrayée à (16). Ce dernier 
+transmet le mouvement et la puissance à l’arbre de sortie (38) par l’intermédiaire d’un train 
+épicycloïdal (16, 17, 49, 52), un système pignons-chaîne (21, 23, 45) et un couple d’engrenages 
+cylindrique à dentures droites (27, 41). L’alimentation de l’électroaimant (8) entraîne le freinage 
+du pignon-arbré (16). 
+Le mécanisme d’entraînement comporte : 
+ 
+Un moteur électrique ; 
+ 
+Un système poulies-courroies (02, 03, 67) 
+ 
+Un embrayage à disque (55, 58, 59) ; 
+ 
+Un frein à disque (8, 57, 58) ; 
+ 
+Un réducteur à engrenages (16, 17, 49, 52) ; 
+ 
+Une transmission par chaîne (21, 23, 45). 
+L’épreuve comporte deux parties : 
+A. Conception Mécanique dont l’objectif est de : 
+1. Analyser les solutions technologiques adoptées pour ce système ;  
+2. Choisir un système de transmission de mouvement et de puissance poulies-courroies ; 
+3. Étudier l’embrayage-frein à disque ; 
+4. Etudier la transmission par engrenages ; 
+5. Etudier la transmission par chaînes ; 
+6. Etudier l’extrusion d’un fil en matière plastique ; 
+7. Calculer la durée de vie des roulements type (BC) ; 
+8. Compléter le guidage en rotation de l’arbre de sortie (38). 
+ 
+B. Fabrication Mécanique dont l’objectif est de :  
+1. Étude des matériaux et Procédé d’élaboration du brut du pignon-arbré (16); 
+2. Élaboration partielle de l'Avant-Projet d'Étude de Fabrication (APEF) du pignon-arbré 
+(16) ; 
+3. Etude de la coupe ; 
+4. Mise en forme du couvercle (63). 
+
+Concours Technologie Épreuve C.F.M     Conception Mécanique    Mise en situation, Données & Hypothèses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025               Page 4/12 
+2-Données et Hypothèses 
+Partie A : Conception Mécanique  
+Les données nécessaires pour répondre aux différentes questions sont reportées dans les 
+tableaux et les figures ci-après. 
+Remarque : Certaines dimensions utiles aux calculs doivent être prisent directement du dessin 
+d’ensemble DT-01 (à l’échelle 1 :1). 
+Tableau A-1 : données. 
+Moteur 
+électrique usuel 
+couple de 
+démarrage normal 
+ Puissance Pm = 3Kw 
+ Fréquence de rotation Nm = 1455 tr/mn  
+Poulies-courroies 
+(2, 3, 67) 
+ Rendement de transmission poulies-courroies : pc =1 
+ Coefficient de frottement entre courroies et poulies : f = 0,3 
+ Le demi angle au sommet de la courroie : β = 20 ° 
+ Le diamètre primitif de la petite poulie (2) : d2 = 90 mm 
+ Le diamètre primitif de la grande poulie (67) : D67 = 125 mm  
+ L’entraxe souhaité entre (2) et (67) : E′= 420  1mm 
+Embrayage à 
+disque ( 58, 59)  
+ Rayon extérieur de la garniture (R59) à mesurer directement sur DT-01 
+ Rayon intérieur de la garniture (r59) à mesurer directement sur DT-01 
+ Coefficient de frottement moyen entre (58) et (59) est f1 = 0.3 
+ Pression de contact admissible entre les disques Padm = 1 MPa 
+ Rendement : emb = 1 
+Frein à disque  
+(8, 57, 58) 
+ Rayon extérieur de la garniture (R57) à mesurer directement sur DT-01 
+ Rayon intérieur de la garniture (r57) à mesurer directement sur DT-01 
+ Coefficient de frottement moyen entre (57) et (58) est f1 = 0.3 
+Engrenage 
+(27, 41) 
+ Roues dentées de module m =1.5 mm 
+ Rendement : e = 0.95 
+ Z27= 24 dents,                       Z41 = 48 dents 
+Train épicycloïdal  
+(16, 17, 49, 52) 
+ Rendement global : g = 0.9 
+ Roues dentées de module : m =1.5 mm 
+ Entraxe : a = 45 mm. 
+ Rapport :  𝒓𝟏= 
+𝑵𝟒𝟗
+𝑵𝟏𝟔= 𝟏/𝟓 
+ Z16 , Z17  et Z52 : nombre de dents à déterminer 
+Ressort  (55) 
+ Force du ressort : Fr = 300 N. 
+Transmission par 
+chaines  
+(21, 23, 45)  
+ Rendement de transmission par chaîne : ch =0.95 
+  Nombre des dents : Z45 = 15 dents ; Z21 = 30 dents  
+ Entraxe des roues (21) et (45) : a = 52 mm 
+ Pas au primitif : p = 6.35 mm 
+Service  
+Nombre d’heures de fonctionnement est 16h/jour (couple uniforme) 
+ Expression de la longueur théorique d’une courroie (ou d’une chaîne) :  
+
+
+
+
+2
+2
+2
+4
+p
+p
+p
+p
+th
+D
+d
+D
+d
+L
+E
+E
+
+
+
+
+
+
+
+ 
+ 
+
+Concours Technologie Épreuve C.F.M     Conception Mécanique    Mise en situation, Données & Hypothèses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025               Page 5/12 
+Tableau A-2 : Facteurs de service « S » 
+ 
+U : Uniforme ; V : Variable ; TV : Très variable 
+Tableau A-3 : Sections des courroies et facteur d’arc 
+ 
+ 
+
+Concours Technologie Épreuve C.F.M     Conception Mécanique    Mise en situation, Données & Hypothèses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025               Page 6/12 
+Tableau A-4 : Puissance brute (P0) transmissible par courroie et le facteur de correction de 
+longueur CL 
+ 
+ 
+Tableau A-5 : Longueurs primitives des courroies 
+ 
+ 
+ 
+
+Concours Technologie Épreuve C.F.M     Conception Mécanique    Mise en situation, Données & Hypothèses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025               Page 7/12 
+Tableau A-6 : Données pour le calcul des roulements 
+ 
+ 
+ 
+Figure A-1 : Roue d’une transmission par chaine 
+
+Concours Technologie                         Épreuve C.F.M                     Mise en situation, Données & Hypothèses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025               Page 8/12 
+Partie B : Fabrication Mécanique 
+Cette partie est composée de quatre sections désignées successivement par :  
+1. Étude des matériaux et Procédé d’élaboration du brut du pignon-arbré (16); 
+2. Élaboration partielle de l'Avant-Projet d'Étude de Fabrication (APEF) du pignon-arbré 
+(16) ; 
+3. Etude de la coupe ; 
+4. Mise en forme du couvercle (63).. 
+Section B.I- Étude des matériaux  
+L’objectif principal de cette section est de : 
+ Choix et caractérisation des matériaux,  
+On a réalisé un essai de traction sur une éprouvette normalisée, prélevée du matériau choisi, de 
+longueur utile initiale L0 = 100 mm ; et de diamètre initial d0 = 10 mm. Au cours de l’essai de 
+traction ; le matériau passe par différents domaines. Le tableau (Tableau B-1) présente les trois 
+décharges effectuées à partir de trois niveaux de chargement différents. 
+ 
+Tableau B-1 : Caractéristiques de différents niveaux de décharges 
+Domaine 
+Force limite atteinte 
+avant décharge (N) 
+Longueur limite atteinte 
+avant décharge (mm) 
+Longueur après suppression 
+de la charge (mm) 
+Elastique 
+F1 = 37 287  
+L1 = 100,228 
+L0 = 100 
+Elasto-plastique 
+F2 = 45 844  
+L2 = 102,620 
+L’2 = 102 
+Rupture 
+F3 = 61 622  
+- 
+Lfinale = 121 
+ 
+La courbe de traction (Figure B-1) décrit l’évolution de la contrainte appliquée sur l’éprouvette 
+en fonction de la déformation enregistrée du matériau testé. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure B-1 : Courbe de traction du matériau de l’arbre (16) 
+ 
+ Procédé d’élaboration du brut de pignon-arbré (16)  
+ 
+
+Concours Technologie                         Épreuve C.F.M                     Mise en situation, Données & Hypothèses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025               Page 9/12 
+Section B.II - Élaboration du brut et de l'Avant-Projet d'étude de Fabrication du 
+pignon-arbré (16) 
+Dans cette section, on se propose d’étudier l’obtention du brut et l’usinage du pignon-arbré (16) 
+représenté par le document DT-03 et les tableaux B-2 et B-3. 
+Nous voulons réaliser une série de 200 pièces. Nous supposons que le brut de cet arbre est élaboré 
+par un procédé de forgeage par refoulage à partir d’une barre cylindrique de diamètre de 25mm. 
+La réalisation du pignon-arbré (16) est effectuée sur des machines-outils conventionnelles et 
+que la gamme prévisionnelle de fabrication comporte 6 phases indiquées dans les Tableaux B-2 
+et B3. 
+ 
+Tableau B-2. Gamme prévisionnelle de fabrication proposée 
+Phases 
+Opérations 
+Procédés 
+Phase 10 
+Contrôle des pièces brutes 
+ 
+Phase 20 
+Usinage des surfaces : F1 ; D1 ; F3 ; T1 ; F2 ; C1  
+Tournage 
+Phase 30 
+Usinage des surfaces : D2 ; C2 ; D3 ; D4 ; F4 ; F5 ; F6  
+Tournage 
+Phase 40 
+Usinage des surfaces : F9 ; D8 ; D5 ; D6 ; F7 ; F8  
+Tournage 
+Phase 50 
+Usinage des surfaces : F10 ; F11 ; F12 
+Fraisage 
+Phase 60 
+Usinage de la surface : D7  
+Fraisage 
+Phase 70 
+Contrôle final des  pièces usinées 
+ 
+ 
+ 
+ 
+
+Concours Technologie                         Épreuve C.F.M                     Mise en situation, Données & Hypothèses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025               Page 10/12 
+Tableau B-3. Croquis des différentes phases 
+Phase 
+CROQUIS 
+Phase 10 : 
+Contrôle du brut 
+ 
+ 
+ 
+ 
+ 
+Phase 20  
+ 
+ 
+ 
+ 
+ 
+Phase 30  
+ 
+ 
+ 
+ 
+ 
+ 
+Phase 40  
+ 
+ 
+ 
+ 
+ 
+ 
+Phase 50  
+ 
+ 
+ 
+ 
+ 
+ 
+Phase 60  
+ 
+ 
+ 
+ 
+ 
+Phase 70  
+Contrôle final  
+ 
+DT-03 
+ 
+ 
+
+Concours Technologie                         Épreuve C.F.M                     Mise en situation, Données & Hypothèses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025               Page 11/12 
+Section B-III. Etude de la coupe 
+Dans cette section, on s’intéresse à l’étude de la coupe associée à une opération d’usinage 
+du pignon-arbré (16). L’opération consiste à effectuer le taillage des dents de l’engrenage 
+du pignon-arbré (16) à l’aide d’une fraise module montée horizontalement sur la broche 
+de la fraiseuse (Figure B-2). On s’intéresse au calcul :  
+ Du temps d’usinage, 
+ Et de la durée de vie de l’outil. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure B-2 : Schéma du montage d’usinage 
+ 
+Les paramètres de coupe sont reportés dans le tableau B-4 : 
+ 
+Tableau B-4 : Paramètres de coupe utilisés 
+Machine 
+Fraiseuse 
+Pm = 2 Kw 
+= 0,6 
+ 
+Montage 
+en 
+l’air 
+sur 
+diviseur 
+ 
+ 
+ 
+Outil 
+Fraise module en ARS 
+Df = 56 mm 
+m = 1.5 mm 
+Zf = 15 dents 
+Vc = 20 m/mn 
+fZ = 0,03 mm/dent/tr 
+KS = 345 daN/mm2 
+Pièce 
+Pignon à denture droite 
+dp = 36 mm 
+Z16 = 24 dents m = 1.5 mm 
+b = 12 mm 
+aa = 2.36 mm 
+ar = 3.37 mm 
+ 
+ 
+ 
+b 
+ar 
+aa 
+
+Concours Technologie                         Épreuve C.F.M                     Mise en situation, Données & Hypothèses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs             Session 2025               Page 12/12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure B-3: Positions limites de la fraise en début et fin de l’opération de taillage 
+ 
+Section B-IV. Mise en forme du couvercle (63) 
+L’objectif de cette partie est d’étudier la production de 200 couvercles (63). Le couvercle 
+représenté par le dessin de définition (DT-04) est obtenu à partir d’une tôle en acier S235 JR 
+d’épaisseur 2 mm. La spécificité de cette pièce exige son obtention sur une presse hydraulique 
+par les opérations suivantes : 
+ 
+1) Découpage d’un flan de diamètre Df ; 
+2) Emboutissage du flan ; 
+3) Perçage des trous sur l’embouti. 
+ 
+Les surfaces élémentaires en emboutissage sont données dans le document technique (DT-05). 
+ 
+NB : Pour le calcul des surfaces élémentaires, les côtes du couvercle seront considérées par 
+rapport à la fibre moyenne.   
+ 
+ 
+Fraise en position initiale 
+Fraise en position finale 
+α=28.4° 
+Pignon-arbré (16) 
+Point début du taillage 
+Point fin du taillage 
+b 
+ar 
+X 
+X 
+
+17
+18
+19
+27
+20
+22
+21
+23
+25
+28 29
+31
+39
+32
+35
+36
+40
+41
+34
+43
+44
+45
+47
+48
+49
+50
+42
+33
+14
+15
+16
+51
+67
+59
+58
+57
+8
+9
+10
+12
+11
+13
+54
+55
+60
+56
+61
+64
+66
+63
+62
+2
+3
+6
+4
+5
+7
+1
+F
+F
+24
+26
+30
+37
+38
+46
+52
+53
+65
+18
+69
+68
+F-F
+Seule la trappe de
+visite est représentée
+70
+A
+B
+A
+H
+B
+G
+D
+E
+C
+F
+B
+G
+A
+H
+3
+3
+2
+2
+4
+4
+1
+1
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs 
+Mécanisme
+d'entraînement
+Echelle 1:1
+Session 2025
+DT-01
+Concours Techno - Epreuve C.F.M
+Etude d'une Extrudeuse
+Format A3
+
+70
+8
+Vis de fixation
+69
+1
+Cache 
+S235 JR
+Tôle
+68
+1
+Joint 
+67
+1
+Poulie receptrice
+EN AW-1050A
+66
+1
+Roulement à billes type 15 BC 02
+SKF
+65
+1
+Vis H M8
+64
+1
+Rondelle Grower
+63
+1
+Couvercle
+S 235
+62
+1
+Anneau élastique
+61
+1
+Bague
+60
+1
+Roulement à billes type 15 BC 02
+SKF
+59
+1
+Garniture embrayage
+Ferodo
+58
+1
+Disque
+S 235
+57
+1
+Garniture frein
+Ferodo
+56
+1
+Clavette parallèle
+55
+4
+Ressort
+51 Si 7
+54
+1
+Cage à aiguilles Type NES  
+53
+1
+Anneau élastique
+52
+3
+Satellite
+35 Cr Mo 4
+51
+1
+Joint plat
+50
+1
+Coussinet
+Cu Sn 8
+49
+1
+Bras porte-salettlite
+EN-GJL-250
+Moulé
+48
+1
+Clavette parallèle
+47
+1
+Roulement à billes type 15 BE 32
+SKF
+46
+1
+Joint plat
+45
+1
+Pignon arbré
+35 Cr Mo 4
+44
+1
+Anneau élastique
+Rep
+Nbre
+Désignation
+Matériaux
+Obs.
+43
+1
+Roulement à billes type 20 BC 10
+SKF
+42
+1
+Bague
+41
+1
+Roue dentée
+35 Cr Mo 4
+40
+1
+Bague
+39
+1
+Couvercle
+S 235
+38
+1
+Arbre de sortie
+35 Cr Mo 4
+37
+1
+Joint à lèvres type AS, 25 x 36 x 6
+36
+1
+Joint plat
+35
+1
+Roulement à billes type 20 BC 10
+34
+2
+Clavette parallèle
+33
+1
+Couvercle
+S 235
+32
+1
+Joint plat
+31
+1
+Boîtier
+GE 360
+Moulé
+30
+1
+Joint plat
+29
+1
+Anneau élastique pour arbre
+28
+1
+Roulement à billes type 17 BC 10
+SKF
+27
+1
+Pignon arbré
+35 Cr Mo 4
+26
+1
+Roulement à billes type 20 BC 10
+SKF
+25
+1
+Clavette parallèle
+24
+1
+Carter
+GE 360
+Moulé
+23
+1
+Chaîne
+22
+1
+Bouchon de vidange
+21
+1
+Roue de chaîne
+35 Cr Mo 4
+20
+1
+Rondelle frein
+19
+1
+Ecrou à encoches type KM – M20
+18
+1
+Carter intermédiaire
+GE 360
+Moulé
+17
+1
+Couronne 
+35 Cr Mo 4
+16
+1
+Pignon arbré
+15
+1
+Anneau élastique pour alésage
+14
+1
+Roulement à billes type 20 BC 03
+SKF
+13
+1
+Bague
+12
+1
+Roulement à billes type 20 BC 02
+SKF
+11
+1
+Plateau
+S 235
+10
+1
+Carter
+GE 360
+Moulé
+9
+1
+Support Electro-aimant
+8
+1
+Electro-aimant
+7
+1
+Clavette parallèle
+6
+1
+Vis H M10- 25
+5
+1
+Rondelle Grower
+4
+1
+Rondelle plate
+3
+2
+Courroie trapézoïdale
+2
+1
+Poulie motrice
+EN AW-1050A
+1
+1
+Arbre moteur
+35 Cr Mo 4
+Rep
+Nbre
+Désignation
+Matériaux
+Obs.
+DT-02
+Session 2025
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs 
+Mécanisme d'entraînement
+Concours Technologie - Epreuve C.F.M
+DT-02
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs 
+Concours Technologie - Epreuve C.F.M
+Session 2025
+Mécanisme d'entraînement
+
+ 
+
+ 
+ 
+DT-05 
+ 
+ 
+𝟒𝑺
+𝝅 
+𝟒𝑺
+𝝅 
+
+Tolérances générales : ISO 2768-mk
+Matière: S235 JR
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs 
+Session 2025
+Concours Techno - Epreuve C.F.M
+Mécanisme d'Entraînement
+Format A4
+Couvercle (63)
+Echelle 2:1
+DT-04
+51
+3
+35
+46
+A
+A
+11.5
+2
+3
+R
+5
+R
+3
+R
+5
+R
+4
+R
+4
+R
+33
+d=
+51
+D=
+1.5
+9.5
+A-A
+Fibre neutre
+
+ 
+ 
+ 
+ 
+ 
+DOSSIER 
+ 
+DOCUMENT REPONSES 
+ 
+ 
+ 
+ Ce dossier comporte 21 pages numérotées de 1 à 21. 
+ Un seul dossier document réponse est fourni au candidat et doit être 
+rendu en totalité, même sans réponses, à la fin de l’épreuve.  
+ Le renouvellement de ce dossier est interdit 
+
+Concours Technologie   - Épreuve C.F.M              Partie A : Conception Mécanique           Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs          Session 2025                  Page 2/21 
+Partie A : Conception Mécanique 
+ Section A.I- Étude technologique   
+ 
+B.9- 
+A.1. Compléter le tableau ci-dessous. 
+Pièces/entité 
+Rôle 
+Ressort (55) 
+………….……………………………………………………………..…………………………………………...……… 
+Bobine (8) 
+………….……………………………………………………………..…………………………………………...……… 
+Joint (37)  
+………….……………………………………………………………..…………………………………………...……… 
+Nervure 
+dans (10)  
+………….……………………………………………………………..…………………………………………...……… 
+B.10- 
+A.2. Comment est assurée la lubrification du mécanisme. 
+…………………………………….......................................................................………………………………………………………...… 
+ 
+B.11- 
+A.3. Compléter le Tableau ci-dessous, en précisant les ajustements entre les pièces 
+suivantes : 
+Pièces 
+Ajustement 
+31/33 
+………….. H7/h6…………….. 
+12/16 
+………………………………………………………………………………………………………………………… 
+49/50 
+………………………………………………………………………………………………………………………… 
+17/10 
+………………………………………………………………………………………………………………………… 
+58/16 
+………………………………………………………………………………………………………………………… 
+B.12- 
+A.4. En se basant sur le document technique (DT-01), compléter le diagramme fonctionnel 
+associé à la chaîne de transmission de puissance entre le moteur et l’arbre de sortie (38). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Moteur 
+électrique 
+………………………
+……………………… 
+………………………
+……………………… 
+………………………………
+……………………..………
+………………………………
+………………………….…
+…………………………………
+………………………….………
+Arbre de sortie (38) 
+………………………
+……………………… 
+(16) 
+
+Concours Technologie   - Épreuve C.F.M              Partie A : Conception Mécanique           Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs          Session 2025                  Page 3/21 
+Section A.II- Etude du système poulies-courroies (2, 3, 67) 
+On schématise la transmission par : 
+ 
+ 
+ 
+ 
+A.5. Calculer l’angle d’enroulement m de la courroie (3) sur la petite poulie motrice. 
+…………………………………………………………………………………………..…………………………………………………………………….…… 
+…………………………………………………………………………………………..…………………………………………………………………….……
+…………………………………………………………………………………………..…………………………………………………………………….…… 
+A.6. Calculer la tension sur le brin mou de la courroie, si on considère que la masse de la courroie est 
+négligeable. 
+………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………..……………………………………  
+A.7. Calculer la tension sur le brin tendu de la courroie. 
+…………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………… 
+A.8. Calculer la tension de pose T0 à installer lors du montage de la courroie. 
+………………………………………………………………………………………………………………………………………… 
+A.9. Déterminer, en se référant au tableau A-2, le facteur de service «S»  puis calculer la puissance 
+totale à transmettre dans ces conditions de service (nommée puissance corrigée Pc). 
+………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………… 
+A. 10. Choisir, en se référant au tableau A-3, les sections de courroie convenables en fonction de Nm et 
+Pc : .……………………………………………………….…………………………………………… 
+ m =……………… rd 
+ T  = …………….…  N 
+ T0 = …….….……  N 
+Pc = ………………kW 
+Sections : ………………………………………… 
+S = ……………… 
+  t  = ………….…..  N 
+ 
+ 
+ 
+2 
+m 
+3 
+67 
+r2 
+2 
+R67 
+E’ 
+
+Concours Technologie   - Épreuve C.F.M              Partie A : Conception Mécanique           Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs          Session 2025                  Page 4/21 
+Dans la suite, on utilise la courroie de type SPZ 
+A.11. Calculer la longueur théorique Lth de la courroie correspondante à la transmission et choisir une 
+longueur standard Lp. 
+………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………
+……………………………………………………………………….…………………………………………… 
+……………………………………………………………………………Choix : 
+A.12. Calculer la nouvelle valeur de l’entraxe E. 
+…………………………………………………………………………………………………..………………………………………
+…………………………………………………………………………………………………..………………………………………
+………………………………………………………………………………………………………………………………………….. 
+……………………………………………………………………………………..……………………………..……. 
+A.13. Déterminer, en se basant sur le tableau A-3, le facteur d’arc a et le facteur de longueur CL 
+(on prendra toujours la valeur approchée juste supérieure). 
+…………………………………………………………………………………………………..……………………………………… 
+A.14. Déterminer, en se basant sur le tableau A-4, la puissance brute transmissible par une 
+seule courroie P0. 
+…………………………………………………………………………………………………..……………………………………… 
+A.15. Déterminer le nombre de courroies n nécessaire pour cette transmission. 
+……………………………………………………………………………………………..………………… 
+Section A.III- Etude de l’embrayage-frein. 
+Supposons que la pression entre les surfaces frottantes reste constante, 
+A.16. Calculer le couple d’adhérence (Cad) de l’embrayage. 
+………….…………………………………………………………………………………………………………..…………………… 
+………….…………………………………………………………………………………………………………..…………………… 
+…………………….……………………………………………………………………………………………………………………… 
+A.17. Calculer la pression p de contact exercée sur la garniture (59) et conclure. 
+…………………….………………………………………………………………….………………………………………………… 
+…………………….…………………………………………………………………………………………………………………… 
+Conclusion : …………………………………………………………………..………………………………………………… 
+Lp =……………………….…mm 
+Lth =…………….……….…mm 
+E =………….…………….…mm 
+n =…………….…… 
+Cad =…………….……………… Nm 
+CL = ……..……… 
+a = ……………… 
+P =……………….……………… MPa 
+P0 = ……..……kW 
+
+Concours Technologie   - Épreuve C.F.M              Partie A : Conception Mécanique           Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs          Session 2025                  Page 5/21 
+A.18. Supposons que l’inertie des parties tournantes du récepteur Ir =1.5 kgm2 et le système 
+doit s’arrêter en un temps t =10s. Calculer le couple de freinage (Cf) nécessaire pour arrêter le 
+système.  
+…………………….………………………………………………………………….………………………………………………… 
+…………………….…………………………………………………………………………………………………………………… 
+………………………………………………………………………………………..………………………………………………… 
+A.19.  En déduire l’effort presseur (Np) entre (57) et (58). 
+…………………….………………………………………………………………….………………………………………………… 
+…………………….…………………………………………………………………………………………………………………… 
+A.20.  Calculer l’effort Fbo que doit exercer la bobine (8) pour assurer le freinage. 
+…………………….………………………………………………………………………….…………………..…………………… 
+…………………….……………………………………………………………………………………………………………… 
+ Section A.IV- Etude du train épicycloïdal (16, 17, 49, 52) 
+A.21. Exprimer le rapport de transmission 
+𝑁49
+𝑁16 en fonction du nombres de dents du train en 
+utilisant la relation de Willis. 
+…………………………………………………………………………………………..…………… 
+……………………………………………………….……………………………………………………………… 
+………………………………………………………………………………………………………………………..…………..……  
+A.22. Etablir une relation entre les nombres de dents du train traduisant la condition 
+géométrique d’engrènement. 
+………………………………………………………………………..…………………..…………… 
+……………………………………….……………………………………………………………… 
+……………………………………………………….…………………………………………….. 
+A.23.  Ecrire la relation, entre les nombres des dents du train, déduite de la condition de 
+montage des roues du train. 
+………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………… 
+Fbo =……………………… N 
+Cf =………….……………… Nm 
+NP =………...……………… N 
+…………………………………………………………………… 
+…………………………………………………………………… 
+…………………………………………………………………… 
+
+Concours Technologie   - Épreuve C.F.M              Partie A : Conception Mécanique           Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs          Session 2025                  Page 6/21 
+A.24- Calculer les nombres de dents Z16 et Z17 et Z52 pour ce train. 
+……………………………………………………………………………………………………………………….………………… 
+……………………………………………………………………………………………………………………….………………… 
+……………………………………………………………………………………………………………………….………………… 
+……………………………………………………………………………………………………………………….………………… 
+……………………………………………………………………………………………………………………….………………… 
+……………………………………………………………………………………………….………………………………………… 
+Section A.V- Etude de la transmission par chaîne (21, 23, 45) (figure A-1 ; page 7/12) 
+A.25. Donner l’expression puis calculer la vitesse linéaire V de la chaîne. 
+………………………………………………….………………………………………………..…………………….………………… 
+………………………………………………………………………………………………………………………………………… 
+A.26. Exprimer puis calculer l’angle du pas  en fonction du nombre des dents du pignon (45). 
+………………………………………………………..……………………………………………………………………………………………… 
+A.27. Exprimer puis calculer le diamètre d primitif du pignon (45) en fonction de l’angle du pas . 
+………………………….………………………………………………..…………………………..…………………………………… 
+………………………………………………………………………………………………………………………………………….. 
+A.28. Donner l’expression puis calculer l’angle d’enroulement 45 du pignon (45). 
+………………………………………………………………..……………………………………………………………………………………… 
+……………………………………………………………………………………………….…………………………………………………….. 
+A.29. Calculer la longueur primitive théorique de la chaîne Lpt. 
+………………………………………………………………..……………………………………..………………………………………………… 
+…………………………………………………………………………………………………………………………………………………….. 
+ Section A.VI- Etude de l’extrusion d’un fil en matière plastique 
+A.30. Calculer la vitesse N38 de l’arbre de sortie (38) (vitesse de la vis d’Archimède). 
+………………………………………………………………………………………………………………………………………………….. 
+………………………………………………………………………………………………………………………………………………….. 
+ 
+ 
+Z52 =…………………dents 
+Z17 =………….……dents 
+Z16 = …………..…… dents 
+V =………………… m/s 
+ =…..………… degrés 
+d=………..………… mm 
+Lpt =………..………… mm 
+45 =…..………… degrés 
+N38 =……..………… tr/mn 
+
+Concours Technologie   - Épreuve C.F.M              Partie A : Conception Mécanique           Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs          Session 2025                  Page 7/21 
+A.31. Calculer la puissance P38 au niveau de l’arbre de sortie (38). 
+………………………………………………………………………………………………………………………………………………….. 
+………………………………………………………………………………………………………………………………………………….. 
+On donne la géométrie de la vis (voir figure ci-dessous) : 
+Diamètre intérieur du fourreau D = 25 mm ; diamètre du corps de la vis d = 22 mm ; Pas de la vis 
+p=12mm ; La longueur de la vis l = 336 mm, l’épaisseur «e» est supposé négligeable. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A.32. Calculer le nombre n de filets de cette vis. 
+………………………………………………………………………..…………………..…………… 
+……………………………………………………………………………………………………….. 
+……………………………………………………………………………………………………….. 
+A.33. Calculer le volume V de la pâte, supposée incompressible, par pas. 
+………………………………………………………………………………………………………. 
+……………………………………………………………………………………………………….. 
+On suppose que le diamètre du fil à la sortie de la buse est db =2 mm. 
+A.34. Calculer la longueur du fil produite par un tour de la vis. 
+..……………………………………………………………………………………………………….. 
+……………………………………………………………………………………………………….. 
+A.35. Calculer le temps t nécessaire pour produire une bobine de 1000 m. 
+……………………………………………………………………………………………………….. 
+A.36. Calculer l’angle d’inclinaison de la vis . 
+………………………………………………………………………..…………………..…………… 
+…………………………………………………………………………………………………………
+………………………………………………………….…………………………….. 
+P38 =……..………… W 
+n =……..……………… 
+V=……..……………mm3 
+t = ……..………………mn 
+L =……..………………mm/tr 
+ =……..………… degrés 
+ 
+H 
+D 
+p 
+d 
+e 
+Fourreau 
+Vis 
+
+Concours Technologie   - Épreuve C.F.M              Partie A : Conception Mécanique           Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs          Session 2025                  Page 8/21 
+ Section A.VII- Etude de la durée de vie des roulements (60 et 66) 
+A.37. Modéliser les roulements (12) et (14) en complétant les liaisons en A et en B dans la figure ci-
+dessous. 
+ 
+ 
+On donne les torseurs des actions mécaniques aux points A et B. 
+
+
+0
+0
+1250
+0
+870
+0
+A
+L
+A
+A
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ............................................ 
+
+858
+0
+1930
+0
+90
+0
+
+
+
+
+
+
+
+
+
+
+
+
+B
+L
+B
+B
+
+    (Les forces en N) 
+A.38. Calculer, pour chacune des deux liaisons, l’effort axial Fa et l’effort radial Fr. 
+………………………………………………………………………………………………………………………………………………….. 
+………………………………………………………………………………………………………………………………………………….. 
+………………………………………………………………………………………………………………………………………………….. 
+………………………………………………………………………………………………………………………………………………….. 
+………………………………………………………………………………………………………………………………………………….. 
+A.39. Déterminer les valeurs des coefficients X et Y pour le roulement (12) (liaison en A) (utiliser le 
+tableau A-6) : ……………………………………………………………………………………………………………………………………. 
+………………………………………………………………………………………………………...………………………………………… 
+A.40. Déterminer la charge équivalente P12 appliquée sur le roulement (12). 
+ ………………………………….…………………………………………………………………………….. 
+A.41. Calculer la durée de vie en heures de fonctionnement L10h du roulement (12). 
+………………………………………………………………………………………………………………………………………………….. 
+…………………………………..…………………………………………………………………… 
+A.42. Déterminer les valeurs des coefficients X et Y pour le roulement (14) (liaison en B). 
+………………………………………………………………………………………………………………………………………………….. 
+……………………….. ...................................................................................................................................................................  
+A.43. Déterminer la charge équivalente P14 appliquée sur le roulement (14). 
+…………………………………………………………..…………………………………………………………………………………………..… 
+……………………………………………………………………………………………………………………………………………………… 
+ P12 = ………………………..N 
+ L10h = ………………………..heures 
+ 
+(16) 
+A 
+B 
+ 
+(10) 
+(10) 
+FrA = …….……..….N 
+FaA = …….……..….N 
+FrB = …….……..….N 
+FaB = …….……..….N 
+ Y = ……….. 
+ X  = …….…….. 
+P14 = ………………………..N 
+Y = ………….. 
+X = ….……….. 
+e = ………….. 
+
+Concours Technologie   - Épreuve C.F.M              Partie A : Conception Mécanique           Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs          Session 2025                  Page 9/21 
+A.44. Calculer la durée de vie en heures de fonctionnement L10h du roulement (14). 
+………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………………………………..…… 
+………………………………………………………………………………………………….….………….. 
+A.45. Interpréter les résultats des durées de vie obtenues. 
+………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………… 
+……………………………………………………………………………………………………...………….…………………………….……… 
+ 
+ Section A.VIII - Étude graphique  
+ 
+Étude de conception : L’arbre (38) est soumis à une charge axiale exercée par la vis d’Archimède, on 
+se propose alors de remplacer les roulements existants par des roulements à rouleaux coniques 
+et de prévoir un roue-arbrée à la place de la solution existante. 
+On donne le dessin incomplet d’un montage et on demande de :  
+A.46. Compléter le montage des roulements à rouleaux coniques. 
+A.47. Compléter la liaison roue-arbré (41) avec l’arbre (38). 
+A.48. Prévoir l’étanchéité du système. 
+A.49. Indiquer, dans le tableau ci-après, les ajustements nécessaires pour les solutions proposées. 
+ 
+ 
+ 
+ L10h = ………………………..heures 
+
+Concours Technologie   - Épreuve C.F.M              Partie A : Conception Mécanique           Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs          Session 2025                  Page 10/21 
+ 
+A.49. 
+id 
+Ajustement 
+Ajustements pour les roulements (71) et (72) 
+(1) 
+…………………………………………………………. 
+(2) 
+…………………………………………………………. 
+Ajustements pour le joint (37) 
+(3) 
+…………………………………………………………. 
+(4) 
+…………………………………………………………. 
+Ajustements pour le couvercle (39) 
+(5) 
+…………………………………………………………. 
+ 
+ 
+
+Concours Technologie   - Épreuve C.F.M              Partie B : Fabrication Mécanique           Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs          Session 2025                  Page 11/21 
+Partie B : Fabrication Mécanique 
+ Section B.I Etude des matériaux 
+B-1 – B-4 Désignation des matériaux : 
+Donner la signification des désignations normalisées de chacun des matériaux mentionnés dans 
+les tableaux suivants : 
+ B-1. Matériau : EN-GJMB-480-8 
+Type de 
+matériau 
+EN 
+GJMB 
+480 
+8 
+………………………… 
+………………………… 
+Préfixe 
+…………………………………….…… 
+…………………………………….…… 
+……………………………… 
+……………………………… 
+………………… 
+………………… 
+ 
+ B-2. Matériau : EN AC-Al Cu4 Mg Ti 
+Type de 
+matériau 
+EN AC 
+Al 
+Cu 4 
+Mg Ti 
+………………………… 
+………………………… 
+Préfixe 
+…………………………………….…… 
+…………………………………….…… 
+…………………………… 
+……………………………… 
+………………… 
+………………… 
+ 
+ B-3. Matériau : 4340 [36 Cr Ni Mo 6-4] 
+Type de 
+matériau 
+4340 
+36 
+Cr Ni Mo 
+6 - 4 
+………………………… 
+………………………… 
+Code 
+commercial 
+……………………… 
+……………………… 
+…………………………………. 
+…………………………………. 
+…………………………………. 
+6 : ……………………………… 
+4 : ……………………………… 
+……………………………………. 
+ 
+ B-4. Matériau : [S 235 JR] 
+Type de matériau 
+JR 
+S 
+235 
+Acier doux 
+Limite de l’énergie 
+de rupture (27 J) 
+……………………………………. 
+……………………………………. 
+………………………………………… 
+………………………………………… 
+ 
+B-5. En se référant aux exigences fonctionnelles imposées sur le pignon-arbré (16), proposer un 
+matériau qui lui convient au mieux parmi les quatre matériaux indiqués dans les questions B-1 
+– B-4. Justifier votre réponse : 
+Choix : ..……………………………………………………………………………………………………………………………………..…………. 
+Justification : …………………………………………………………………………………….………………………………………………… 
+…………………..………………………………………………………………………………………………………………………………………… 
+ 
+
+Concours Technologie   - Épreuve C.F.M              Partie B : Fabrication Mécanique           Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs          Session 2025                  Page 12/21 
+B-6. L’obtention du brut du pignon-arbré (16) peut-il être obtenu par l’un des procédés suivants ? 
+Répondre dans le tableau suivant en cochant le procédé correspondant. 
+ 
+Procédé 
+Réponse 
+Moulage en sable par gravité 
+……………………. 
+Mécano-soudure (assemblage par soudure de deux parties) 
+……………………. 
+Usinage dans la masse 
+……………………. 
+Forgeage 
+……………………. 
+ 
+Caractérisation du matériau 
+En s’appuyant sur les résultats expérimentaux du Tableau B-1 : 
+ 
+B-7. Calculer le module d’Young E du matériau choisi (domaine élastique) : 
+……………………………………………………………………………………………………………………………………….………..…………. 
+………………………………………………………………………………………………………………………………………………..…………. 
+………………………………………………………………………………………………………………………………………………..…………. 
+………………………………………………………………………………………………………………………………………………..…………. 
+ 
+B-8. Calculer la déformation élasto-plastique (p) atteinte après le deuxième chargement 
+(domaine élasto-plastique): 
+…………………………………………………………………………………………………………………………………………………..…………. 
+…………………………………………………………………………………………………………………………………………………..…………. 
+…………………………………………………………………………………………………………………………………………………..…………. 
+ 
+B-9. Calculer la contrainte à la rupture r : 
+………………………………………………………………………………………………………………………………………………..…………. 
+…………………………………………………………………………………………………………………………………………………..…………. 
+…………………………………………………………………………………………………………………………………………………..…………. 
+ 
+B-10. Calculer l’allongement permanent A : 
+…………………………………………………………………………………………………………………………………………………..…………. 
+………………………………………………………………………………………………………………………………………………..…………. 
+ 
+ 
+E = ……………….… (GPa) 
+p = …………………..….… 
+r = ……………….… (MPa) 
+A = ……………….… (%) 
+
+Concours Technologie   - Épreuve C.F.M              Partie B : Fabrication Mécanique           Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs          Session 2025                  Page 13/21 
+ Procédé d’élaboration du brut du pignon-arbré (16) : 
+On suppose que le brut du pignon-arbré (16) est obtenu par forgeage. Pour des raisons 
+économiques, cette pièce initialement débitée à partir d’une barre de diamètre 25 mm, subit une 
+opération de refoulage afin d’augmenter le diamètre nécessaire à la réalisation des dents du 
+pignon (Figure B-2). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure B-2. Différentes étapes de l’opération de refoulage 
+ 
+ 
+B-11. Citer deux avantages des pièces obtenues par forgeage en comparaison à celles obtenues 
+par usinage à partir de barres. 
+Avantage 1 : ……………………………………………………………………………………………………………………………..…………. 
+…………………………………………………………………………………………………………………………………………………..…………. 
+Avantage 2 : ……………………………………………………………………………………………………………………………..…………. 
+…………………………………………………………………………………………………………………………………………………..…………. 
+ 
+B-12. Quels sont les effets de la formation des fibres dans le matériau au cours du procédé de 
+forgeage ? 
+…………………………………………………………………………………………………………………………………………………..…………. 
+…………………………………………………………………………………………………………………………………………………..…………. 
+ 
+B-13. En se basant sur le dessin de définition du pignon-arbré (16) (Document DT-03), 
+représenter sur la figure ci-dessous, les surépaisseurs d’usinage afin d’obtenir sa forme brute. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+d0 
+h0 
+h1 
+d1 
+B1 
+B2 
+
+Concours Technologie   - Épreuve C.F.M              Partie B : Fabrication Mécanique           Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs          Session 2025                  Page 14/21 
+B-14. Indiquer, sur la Figure ci-dessous, les dimensions du brut nécessaires pour l’usinage du 
+pignon-arbré (16). On impose une surépaisseur d’usinage égale à 1 mm. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B-15.  En appliquant le principe de la conservation du volume de la pièce avant et après refoulage, 
+déterminer la longueur initiale (L0) de la pièce découpée à partir d’une barre de diamètre 25 mm.  
+…………………………………………………………………………………………………………………………………………………..…………. 
+…………………………………………………………………………………………………………………………………………………..…………. 
+…………………………………………………………………………………………………………………………………………………..…………. 
+…………………………………………………………………………………………………………………………………………………..…………. 
+…………………………………………………………………………………………………………………………………………………..…………. 
+………………………………………………………………………………………………………………………………………………..…………. 
+ 
+ 
+B1 
+B2 
+…….. 
+…………… 
+………………. 
+……… 
+L0 = ……………….…mm 
+
+Concours Technologie   - Épreuve C.F.M              Partie B : Fabrication Mécanique           Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs          Session 2025                  Page 15/21 
+Section B.II. Élaboration partielle de l'Avant-Projet d'Étude de Fabrication (APEF) du 
+pignon-arbré (16). 
+Analyse du dessin de définition (DT-03) : 
+B-16 – B-19. Compléter le tableau suivant en précisant le type et la désignation de chacune 
+des conditions géométriques suivantes :  
+ 
+Tolérances géométriques 
+Type 
+Interprétations 
+B-16 
+ 
+………………. 
+………………. 
+…………………………………………………………… 
+…………………………………………………………… 
+……………………………………………………………
+…………………………………………………………… 
+B-17 
+ 
+………………. 
+………………. 
+…………………………………………………………… 
+…………………………………………………………… 
+……………………………………………………………
+…………………………………………………………… 
+B-18 
+ 
+………………. 
+………………. 
+…………………………………………………………… 
+…………………………………………………………… 
+……………………………………………………………
+…………………………………………………………… 
+B-19 
+ 
+………………. 
+………………. 
+…………………………………………………………… 
+…………………………………………………………… 
+……………………………………………………………
+…………………………………………………………… 
+B-20 – B-21. Compléter le tableau suivant : 
+ 
+Spécification 
+Type 
+Explication 
+B-20 
+18H7 
+………………. 
+………………. 
+……………………………………………………………… 
+……………………………………………………………… 
+……………………………………………………………… 
+B-21 
+ 
+………………. 
+………………. 
+……………………………………………………………… 
+……………………………………………………………… 
+……………………………………………………………… 
+ 
+Etude partielle de la phase 20 : (Usinage des surfaces : F1 ; D1 ; F3 ; T1 ; F2; C1) 
+B-22. Préciser le type de montage d’usinage pour la phase 20. 
+…………………………………………………………………………………………………………………………………………..…………. 
+………………..………………………………………………………………………………………………………………………..…………. 
+ 
+ 
+
+Concours Technologie   - Épreuve C.F.M              Partie B : Fabrication Mécanique           Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs          Session 2025                  Page 16/21 
+B-23. A partir des spécifications dimensionnelles et géométriques indiquées sur le document 
+DT-03 du pignon-arbré (16), représenter sur la figure ci-dessous l’isostatisme adéquat pour 
+la phase 20. 
+B-24. Compléter sur la figure ci-dessus les côtes de fabrication correspondantes à cette 
+phase 20. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B-25. Donner la liste des opérations d’usinage dans l’ordre chronologique prévues pour la 
+phase 20. 
+Opération 1 : ………………………………………………………………………………………………………...…………. 
+Opération 2 : ……………………..…………………………………………………………………………………..…………. 
+Opération 3 : ………………………………………………………………………………………………………...…………. 
+Opération 4 :………………………………………………………………………………………………………………….…..…………. 
+B-26. Identifier les outils d’usinage nécessaires à la réalisation des opérations de la phase 
+20.  
+Outil 1 :…………………………………………………………………………………………………………………..…………. 
+Outil 2 :…………………………………………………………………………………………………………………..…………. 
+Outil 3 :…………………………………………………………………………………………………………………..…………. 
+Outil 4 :…………………………………………………………………………………………………………………..…………. 
+B-27. Indiquer les instruments de mesure et de contrôle utilisés pour vérifier la conformité 
+des côtes réalisées. 
+…………………………………………………………………………………………………………………………………………..…………. 
+…………………………………………………………………………………………………………………………………………..…………. 
+ 
+ 
+Cf1=…………
+Cf2=…………
+Cf3=…………
+Cf4=…………
+Cf5=……… 
+Cf6=……… 
+B2 
+B1 
+ 
+D1 
+C1 
+F3 
+F2 
+T1 
+F1 
+
+Concours Technologie   - Épreuve C.F.M              Partie B : Fabrication Mécanique           Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs          Session 2025                  Page 17/21 
+ Etude partielle de la phase 30 : (Usinage des surfaces : D2 ; C2 ; D3 ; D4 ; F4 ; F5 ; F6) 
+B-28. Quel type de montage d’usinage retenu pour cette phase 30 ?  
+……………………………………………………………………………………………………………………………………………………… 
+B-29. A partir des spécifications dimensionnelles et géométriques indiquées sur le document 
+DT-03, représenter sur la figure ci-dessous l’isostatisme adéquat pour la phase 30. 
+B-30. Représenter, sur la même figure ci-dessous, les côtes de fabrication relatives à cette 
+phase 30.  
+ 
+ 
+ 
+ 
+ 
+ 
+Traçage des côtes:  
+…………………………………………………………………………………………………………………………………………..…………. 
+…………………………………………………………………………………………………………………………………………..…………. 
+…………………………………………………………………………………………………………………………………………..…………. 
+…………………………………………………………………………………………………………………………………………..…………. 
+………………………………………………………………………………………………………………………………………..…………. 
+…………………………………………………………………………………………………………………………………………..…………. 
+B-31. Donner les côtes de fabrication en effectuant le transfert de côtes si nécessaire. 
+Calcul des côtes : 
+…………………….…….………………………………………………………………………………………….…………………..…………. 
+…………………………………………………………………………………………………………………………………………..…………. 
+…………………………………………………………………………………………………………………………………………..…………. 
+…………………………………………………………………………………………………………………………………………..…………. 
+………………………………………………………………………………..………………………………………………………..…………. 
+…………………………………………………………………………………………………………………………………………..…………. 
+B-32. Rappelons qu’il s’agit d’un travail sériel, indiquer pour la même pièce, le nombre 
+d’outils de chariotage. 
+ 
+ 
+F6 
+D4 
+F5 
+D3 
+F4 D2 
+C2 
+
+Concours Technologie   - Épreuve C.F.M              Partie B : Fabrication Mécanique           Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs          Session 2025                  Page 18/21 
+Section B-III. Etude de la coupe (en phase 60 : Usinage de la surface D7) 
+ Temps d’usinage : 
+B-33. Donner l’expression de la vitesse d’avance Vf en fonction de la vitesse de coupe Vc , du 
+diamètre Df et les autres paramètres. 
+………………………………………………………………………………………………………………………..…………. 
+B-34. Calculer la valeur de Vf en utilisant les données du tableau B-4 ;  
+…………………………………………………………………………………………………………………………………………………..…………. 
+…………………………………………………………………………………………………………………………………………………..…………. 
+B-35. Montrer, en utilisant la Figure B-3, que la course de la fraise (C) pour assurer l’usinage d’un 
+seul creux est donnée par :  
+
+
+
+
+
+
+
+
+
+r
+f
+a
+D
+tg
+b
+C
+2
+.
+.
+2
+
+ 
+………………………………………………………………………………………………………………………………………………..…………. 
+………………………………………………………………………………………………………………………………………………..…………. 
+………………………………………………………………………………………………………………………………………………..…………. 
+…………………………………………………… …………………………………………………………………………………………..…………. 
+B-36. Soit TC1 le temps effectif réservé pour l’usinage d’un seul creux, d’une denture du pignon-
+arbré (16) de largeur (b) en une seule passe. Donner l’expression de TC1 en fonction de la vitesse 
+de coupe Vc et les différents paramètres. 
+…………………………………………………………………………………………………………………………………………………..…………. 
+…………………………………………………………………………………………………………………………………………………..…………. 
+…………………………………………………………………………………………………………………………………………………..…………. 
+B-37. Calculer le temps TC1. 
+…………………………………………………………………………………………………………………………………………………..…………. 
+…………………………………………………………………………………………………………………………………………………..…………. 
+…………………………………………………………………………………………………………………………………………………..…………. 
+B-38. Calculer l’angle de rotation () que doit faire la pièce sur le diviseur pour passer d’un creux 
+à un autre. 
+………………………………………………………………………………………………………………………………………………..…………. 
+……………………………………………………………………………………………………………………………………………..…………. 
+B-39. Calculer le temps effectif d’usinage TC de l’ensemble des dents du pignon arbré. 
+…………………………………………………………………………………………………………………………………………………..…………. 
+…………………………………………………………………………………………………………………………………………………..…………. 
+ 
+ 
+Vf = …………….… mm/mn 
+TC1 = ………….…….… mn 
+ = ………….…….… ° 
+TC = ………….…….… mn 
+
+Concours Technologie   - Épreuve C.F.M              Partie B : Fabrication Mécanique           Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs          Session 2025                  Page 19/21 
+ Calcul de la durée de vie de l’outil : 
+On utilise une fraise module en acier rapide supérieur comme un outil multiple de coupe. La durée 
+de vie d’une seule dent de la fraise (T0) est donnée par la relation suivante : 
+To = 2,03 . 106 . Vc- 4,2 (en mn) 
+ 
+B-40. Calculer la durée de vie Tf de la fraise module  
+………………………………………………………………………………………………………………………………………………..…………. 
+…………………………………………………………………………………………………………………………………………………..…………. 
+On se propose d’usiner un lot de 200 pièces  
+B-41. Calculer le temps effectif d’usinage TC200 de l’ensemble des pièces. 
+………………………………………………………………………………………………………………………………………………..…………. 
+…………………………………………………………………………………………………………………………………………………..…………. 
+B-42. Déterminer le nombre de fraises (nf) pour garantir l’usinage de 200 pièces. 
+………………………………………………………………………………………………………………………………………………..…………. 
+………………………………………………………………………………………………………………………………………………..…………. 
+B-43. Déterminer la nouvelle vitesse de coupe V’c qui assure, avec les mêmes conditions 
+imposées, l’usinage de 200 pièces avec seulement 8 fraises module. 
+…………………………………………………………………………………………………………………………………………………..…………. 
+……………………………………………………………………………………………..…………………………………………………..…………. 
+…………………………………………………………………………………………………………………………………………………..…………. 
+……………………………………………………………………………………………..…………………………………………………..…………. 
+…………………………………………………………………………………………………………………………………………………..…………. 
+……………………………………………………………………………………………..…………………………………………………..…………. 
+…………………………………………………………………………………………………………………………………………………..…………. 
+……………………………………………………………………………………………..…………………………………………………..…………. 
+…………………………………………………………………………………………………………………………………………………..…………. 
+…………………………………………………………………………………………………………………………………………………..…………. 
+………………………………………………………………………………………………………………………………………………..…………. 
+………………………………………………………………………………………………………………………………………………..…………. 
+………………………………………………………………………………………………………………………………………………..…………. 
+………………………………………………………………………………………………………………………………………………..…………. 
+………………………………………………………………………………………………………………………………………………..…………. 
+ 
+ 
+Tf = ………….…….… mn 
+TC200 = ………….…….… mn 
+nf = ………….…….…  
+V’C = …………….… m/mn 
+
+Concours Technologie   - Épreuve C.F.M              Partie B : Fabrication Mécanique           Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs          Session 2025                  Page 20/21 
+ Section B-IV. Mise en forme du couvercle (63) (DT-04): 
+B-44 à B-48. En se servant du document technique (DT-05) ; compléter le Tableau ci-dessous 
+en décomposant la forme du couvercle (63) en surfaces élémentaires ? 
+ 
+ 
+Questions 
+Croquis de la surface 
+élémentaire 
+Expression 
+analytique  
+(
+4
+𝜋 Si) 
+Calcul 
+B-44 
+ 
+ 
+ 
+ 
+ 
+ 
+…………………………… 
+…………………………… 
+……………………………….………………….. 
+……………………………….………………….. 
+B-45 
+ 
+ 
+ 
+ 
+ 
+ 
+…………………….……… 
+…………………………… 
+……………………………….………………….. 
+……………………………….………………….. 
+B-46 
+ 
+ 
+ 
+ 
+ 
+ 
+…………………………… 
+…………………………… 
+……………………………….………………….. 
+……………………………….………………….. 
+B-47 
+ 
+ 
+ 
+ 
+ 
+ 
+…………………………… 
+…………………………… 
+……………………………….………………….. 
+……………………………….………………….. 
+B-48 
+ 
+ 
+ 
+ 
+ 
+ 
+…………………………… 
+…………………………… 
+……………………………….………………….. 
+……………………………….………………….. 
+ 
+B-49. Calculer le diamètre du flan (Df)  
+…………………………………………………………………………………………………………………………………………………..…………. 
+………………………………………………………………………………………………………………………………………………..…………. 
+…………………………………………………………………………………………………………………………………………………..…………. 
+B-50. Calculer l’effort du poinçonnage (Fp) nécessaire pour assurer le découpage du flan 
+circulaire sachant que la résistance à la rupture du matériau S235 JR est Rr = 350 MPa. 
+………………………………………………………………………………………………………………………………………………..…………. 
+………………………………………………………………………………………………………………………………………………..…………. 
+……………………………………………………………………………………………………………………………………………..…………. 
+Df = ………………….… mm 
+FP = …………………….… N 
+
+Concours Technologie   - Épreuve C.F.M              Partie B : Fabrication Mécanique           Document Réponses 
+Concours nationaux d’entrée aux cycles de formation d’ingénieurs          Session 2025                  Page 21/21 
+B-51. Calculer l’effort d’emboutissage (FE) nécessaire pour emboutir la partie cylindrique en une 
+seule passe.  
+…………………………………………………………………………………………………………………………………………………..…………. 
+………………………………………………………………………………………………………………………………………………..…………. 
+………………………………………………………………………………………………………………………………………………..…………. 
+B-52. Calculer l’effort du serre flan (Fsf) : 
+…………………………………………………………………………………………………………………………………………………..…………. 
+………………………………………………………………………………………………………………………………………………..…………. 
+…………………………………………………………………………………………………………………………………………………..…………. 
+B-53. Calculer l’effort du poinçonnage (Fp4) nécessaire pour réaliser les 4 trous. 
+…………………………………………………………………………………………………………………………………………………………… 
+………………………………………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………………………………..…………. 
+B-54. On rappelle que les opérations de poinçonnage et d’emboutissage sont réalisées sur une 
+presse hydraulique de 20 tonnes. En justifiant, conclure sur la capacité de la presse. 
+………………………………………………………………………………………………………………………………………………..…………. 
+…………………………………………………………………………………………………………………………………………………..…………. 
+………………………………………………………………………………………………………………………………………………..…………. 
+…………………………………………………………………………………………………………………………………………………..…………. 
+………………………………………………………………………………………………………………………………………………..…………. 
+…………………………………………………………………………………………………………………………………………………..…………. 
+ 
+ 
+Fsf = …………………….… N 
+FP4 = ………………….… N 
+FE = …………………….…N 
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,257 @@
+REPUBLIQUE TUNISIENNE
+Ministère de I'Ensei8neûent Superieur el de la
+Recherche Scienlil'ique
+Concours Nâtionaux d'Entrée aux Cycles
+de Formation d'lngénieurs
+Session 2019
+(L'utilisation de la calculatrice est autorisée)
+Epreuve de Biochimie
+La séquence en acides aminés d'un peptide P doit être déterminée. A cette fin, différents
+traitements du peptide sont réalisés suivant les étapes suivantes :
+1. Le peptide P est traité à pH alcalin par l'isothiocyanate de phényle (PITC). Ce
+traitement a abouti à la formation du PTH-Val.
+a. Que permet de mettre en évidence cette réaction? Quel est le nom de cette
+méthode ?
+b. lnterpréterl'expérience.
+2. Le traitement de P par la trypsine a donné les trois fragments peptidiques suivânts:
+Gly-Leu
+Val-Met-Asp-Lys
+Val-Gly-Thr-Met-Arg
+a. Quel est le rôle de la trypsine ?
+b. lnterpréter l'expérience en précisant les hypothèses possibles quand à la
+résolution de la séquence du peptide P.
+3. Le traitement de P par le bromure de cyanogène donne trois fragments avec les
+séquences suivantes:
+Arg-Val-Met
+Val-Gly-Thr-Met
+Asp-Lys-Gly-Val
+a. Quelle est l'action du bromure de cyanogène?
+b. lnterpréter l'expérience en précisant la ou les hypothèse(s) possible(s) et leur
+acceptation ou rejet, quand à la résolution de la séquence.
+c. Déduire la séquence complète du peptide P et donner sa structure chimique.
+Date Vendredi 14 Juin 2019 Heure : 8 H 
+Durée : 2 H 
+Nbr pages :3
+Barème :
+Concours Biologic et Géologie - Session Juin 2019
+Epreuve de Biorhimie,
+Biologie Cellulaire, Génétique
+Page 1/3
+{- - r'lJr Â--,-â4J'
+üi_\+jlÀi:r1.Ëui
+ddë§#JÉ
+JÉ.$ Â,j!_ Jr ér.rârj.rr
+'ùr+.lr lrJ§ Àlr. Jl
+2nt9 L.ÿ
+Concours Biologie & Géologie
+Epreuve de Biochimie, Biologie cellulaire et Génétique
+Exercice 1 (8 points)
+
+Soit Ie lipide « L » suivant :
+c palmitoléyl p linoleoyl glycérophosphorylsérine
+1. Donner la structure chimique développée du lipide "1" ?
+2. Quelle est l'action des phospholipases A1 et A2 sur ce composé ? lndiquer les noms des
+produits libérés.
+3. Les acides gras libérés, après action de ces phospholipases, ont subi une oxydation
+permanganique en milieu alcalin.
+a. Rappeler le principe de l'oxydation d'un lipide par des ions permanganates
+b. lndiquer les structures chimiques des produits libérés.
+4. Par ailleurs, les acides gras libérés après action de ces phospholipases, ont subi un
+traitement par le réactif de Wijs.
+a, Que permet de mettre en évidence cette réaction ?
+b. Calculer l'indice d'iode des acides gras libérés.
+(on donne les PM en g.mol 1 de I = 727, H=1, o = 16 et c =12).
+Epreuve de Génétique
+Exercice 1 (11 points)
+1. Etablir la carte génétique.
+2. Ecrire les génotypes de Sr, Sz, et S.
+3. Prévoir, sous forme de spores et sous forme de tétrades, les résultats des
+croisements S x Sr et S x Sz en précisant les différentes associations et leurs
+pourcentages ainsi que les différents types de tétrades et leurs pourcentages.
+4. Prévoir, sous forme de spores, les résultats du croisement Sr x Sz en précisant les
+différentes associations et leurs pourcentaBes.
+Exercice 2 (9 points)
+La séquence de la souche sauvage du gène de la lactamase a été déterminée chez la
+bactérie f. coli. Dans le tableau ci-dessous, une partie de cette séquence codant de l'acide
+aminé numéro 40 à l'acide aminé numéro 47 a été reportée.
+Concours Biologie el Geologie - Session Juin 2l}l9
+EpreuYe de Riochimie,
+Biologi€ CellulÀire, Génétique
+P^ge a3
+1. Recopier le ta bleau sur votre copie et com pléter-le en vous aidant du code
+génétique. Préciser le sens de la transcription et l'orientation de chaque molécule en
+justifiant vos réponses.
+Par ailleurs, trois souches mutantes pour ce gène, notées m1, m2 et m3 ont été
+sélectionnées à partir de la souche sauvage. Les séquences des protéines non fonctionnelles
+codées par ce gène ont été définies chez ces trois mutants.
+40 
+42
+m1 N H2..... Lys-Leu-Leu COOH
+mz
+m3
+40 
+47
+NH2 ....lle-Val-Val-lle-Tyr-Arg-Thr-Ala....COOH
+40 
+43
+NH2 ....Asn-Gln-Asp-Arg....COOH
+2, Par comparaison avec la souche sauvage et en vous aidant du code génétique,
+déterminer la nature motéculaire de la mutation qui a induit respectivement chacun
+de ces trois mutants ainsi que la séquence d'ARNm correspondante.
+Table du Code Génétique
+PREMIER
+NUCLEOTIDE
+DEUXIEME NUC
+.TROISIEME
+NUCLEO'TIDE
+U
+A
+(;
+Ll
+UUU
+UUC
+PHE
+UCU
+UCC
+UCA
+UCG
+SER
+UAU
+UAC
+TYR
+UGU
+UGC
+U
+C
+À
+G
+UUA
+UUG
+I,EI.]
+UAA
+UAG
+NS
+NS
+T]GA NS
+UGG TRP
+C
+CUU
+CUC
+CUA
+CUG
+LEU
+CCU
+CCC
+CCA
+CCG
+PRO
+CAU
+CAC
+IIIS
+CGU
+CGC
+CGA
+CGG
+ARG
+U
+C
+A
+G
+CAA
+CAG
+GLN
+AUU
+AUC ILE
+AUA
+ACU
+ACC
+ACA
+ACG
+'THR
+AAU
+^Âc
+ASN
+AGU
+AGC
+SIiR
+U
+C
+A
+G
+AAA
+AAG
+I,YS
+AGA
+AGG
+ARG
+AUG }IET
+G
+GUU
+GUC
+GUA
+GUG
+VAI-
+GCU
+GCC
+GCA
+GCG
+ALA
+GAU
+GAC
+ASP
+GGU
+GGC
+GGA
+GGG
+GI,Y
+U
+C
+A
+G
+GAA
+GA(;
+GLU
+Concours Biologie et Céologie ' Session Juin 2Ol9
+Epreuve de Biochimie,
+Biologi€ Cellulaire, Génétique
+Psge 3/3
+sens
+sen s
+ADN
+double brin
+Brin
+A
+T
+A
+Brin
+G
+T
+A
+A
+A
+ARN m
+c.c
+A
+G
+U
+ARNt
+C
+A.U
+A
+U
+Cha ines en acides amines
+Arg
+Asn
+cys
+Exercice 2 (12 points)
+Chez un ascomycète à tétrades ordonnées, on dispose de deux souches mutantes Sr, Sz
+et de la souche sauvage S, La souche 51 est auxotrophe pour l'adénine [ade-] et la mutation
+(a) conduisant à ce phénotype est très proche du centromère du chromosome 1. La souche
+52 est auxotrophe pour la cytosine et la biotine [cyt'bio']. La mutation (c) responsable dè
+l'auxotrophie pour la cytosine est à 22cM du centromère du chromosome 1 alors que la
+mutation (b) responsable de l'auxotrophie pour Ia biotine est très proche du centromère du
+chromosome 3.
+C
+CYS
+G..
+..c

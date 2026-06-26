@@ -1,0 +1,43 @@
+--- page 1 ---
+#STiTVT rrparatoire ) Cauoiheswe 87ucss ` 0 oess '4393145296ad1 Ujbzts {ukÉ
+REPUBLIQUE TUNISIENNE Ministère de V'Enseignement Supérieur et de Ia Recherche Scientifique
+Concours Nationaux d'Entrée aux Cycles de Formation d'Ingénieurs Session 2013
+dsn Sibji Lijiliji unnsedl iusJal>u 2013 6,9'
+Concours Biologie et Géologie Epreuve de Physique
+Date : Jeudi 06 Juin 2013 Heure 8 H Barème : Problème 1 : 13/20
+Durée 3 H
+Nbre pages 04 Problème 2 7/20
+1 'usage dune calculatrice non programmable est autorisé
+L'épreuve est constituée de deux   problèmes   indépendants
+Un candidat peut toujours se servir d'un résultat fourni par F'énoncé pour continuer sa composition.
+Problème 1
+AEcoulement d'un fluide parfait dans un_canal
+On   considère un écoulement   incompressible et stationnaire d'eau dans un canal horizontal à section rectangulaire de largeur / parallèlement à (Oy) et de longueur supposée infinie suivant (Ox) (voir figure] ) H L'espace est rapporté   au référentiel @ (Oxyz) de base orthonormée directe u,,k,,kz) Figure 1 L'eau du canal, assimilée à un fluide parfait; de masse volumique uniforme P, surmontée dair à la pression atmosphérique Po=105 Pa, s'écoule; dans la direction (Ox) à la vitesse 7 = vu supposée uniforme sur une section du canal. Le champ de pesanteur est supposé uniforme. On note H la hauteur deau dans le canal . 1. Ecrire l'équation de conservation de la masse. 2. Que devient cette équation dans le cas de Técoulement d'eau ? Quelle est la conséquence sur le débit volumique Q ? 3. Déterminer Q en fonction des données du problème. 4. Ecrire le théorème de Bernoulli et préciser les hypothèses de sa validité. v2 5. On note e = gH + Que représente e ? Que   peut-on dire de sa valeur ? 2 6. Déterminer, dans ce cas; l'expression de Qen fonction de e et H. 7. On note Qm Je débit maximal dans  le canal.  Déterminer Qm ainsi que la hauteur   Hm correspondante . Concours Biologie et Géologie-Session Juin 2013 Epreuve de Physique Page 1/4
+
+--- page 2 ---
+PEPAr Siiiut Mle!
+BUJTERUe 4lss DLGES
+8. Représenter la variation de Qen fonction de H dans un intervalle de H qu'on précisera: 9. Montrer que pour chaque valeur Q du débit vérifiant Q < Qm il y a deux valeurs possibles de H. En notant H, et Hz ces valeurs telles que H1 < H2, déterminer les vitesses v et V2 correspondantes. 10. Comparer les vitesses vp et v2. Ce résultat était-il prévisible ? Justifier. 11. L'un de ces régimes est appelé fluvial et lautre torrentiel. Attribuer chacun des couples (H1, vi) et (Hz v2) au régime correspondant en justifiant votre choix.
+B Ecoulement réel : Écoulement &'un fluide visqueux 1 On   considère un fluide visqueux, de viscosité dynamique n et de masse volumique p, en écoulement incompressible entre lentrée et la sortie dun tuyau cylindrique horizontal de rayon a et de longueur L sous T'effet  d'une différence de pression P =P On négligera la pesanteur dans la suite du problème. Le débit volumique Qv est donné par la loi de Poiseuille Ta P P Qv = 8n 1 12.  Quelles sont les hypothèses de validité de cette loi ? 13. Vérifier l'homogénéité dimensionnelle de cette loi. 14. Commenter le sens de variation de la perte de charge P P en fonction des différents paramètres. 15. Rappeler   lexpression du nombre de Reynolds. Pour  quelles valeurs de a la   loi de Poiseuille reste-t- elle vérifiée dans le tuyau cylindrique ? On donne dans le cas du sang: 7 = 2.10 53 Poiseuille; P = 1,03.10'kg m Vm =0,2m.s où Vm est la vitesse moyenne découlement. 16. La résistance hydrodynamique, notée Rh; est reliée au débit volumique Qv par la relation P = P = RnQv 16.2. Déterminer Rh. 16.b. Expliciter   brièvement une analogie  avec un problème  d'électrocinétique etdonner Fanalogue électrique de P P et Q 
+IL. On étudie, maintenant, l'écoulement incompressible et stationnaire du même fluide dans un   tronçon   cylindrique constitué de trois   cylindres   de même   longueur 0 et de rayons respectifs a1 02 et a3 (voir figure 2) P1 Pz PB PA 02 a1 03
+SA
+SB
+51
+52
+(
+Figure 2
+PA, Pv Pz et PB sont; respectivement, les pressions au niveau des sections $4, S1, S2 et SB du tronçon cylindrique. Concours Biologie et Géologie-Session Juin 2013 Epreuve de Physique Page 2/4
+
+--- page 3 ---
+AsfuT CitPnstoirs , j0s} On note Q4, Qu, Q2et QB les débits traversant; respectivement, Jes sections $4 s1 52 et $B du tronçon cylindrique. On suppose que la loi de Poiseuille est vérifiée dans les trois cylindres. 17. Justifier que le débit volumique se  conserve dans le tronçon cylindrique: 18. Enstuticisane 1a cconservation du débit, établir Texpression de la différence de pression B - P du cylindre central en fonction de Pa - Pr 19. Retrouver le résultat précédent par analogie électrocinétique. Application Etude d'un anévrisme est un fluide visqueux, de viscosité n et de masse volumique p, en écoulement Le sang laminaire et stationnaire sous T'effet dune différence de pression PA - Pe incompressible, exercée entre l'entrée et la sortie dune artère La perte de charge PA Pr est supposée constante dans la suite. PA PB est   modélisée   par un cylindre de   rayon a et de Une   artère saine longueur L (voir figure 3) On note Rho sa résistance hydrodynamique. On appelle; anévrisme; une dilatation localisée dune artère. Une coupe dune artère atteinte d'anévrisme est représentée sur la figure 4. Figure 3 Le tiers central de cette artère possède un rayon b > @. PA, Plas Pza et PB sont, respectivement; les pressions au niveau des sections $4 S1 82et SB: des trois portions de lartère siège On note Rh" Rhz et Rh3 les résistances hydrodynamiques danévrisme P1a Pza PA PB b Ja a
+SB
+SA
+S1
+S2
+L 3
+L 3
+L
+Figure 4
+3
+20.  Déterminer la résistance hydrodynamique Rno et le débit volumique Q de l'artère saine: les résistances hydrodynamiques RhI, Rh2 et Rh3 de lartère atteinte danévrisme 21. Exprimer en fonction de Rho. 22.  Déterminer lexpression de la différence de pression   Pa Pa du tiers central de l'artère siège d'anévrisme en fonction de la perte de charge P^ - P,- Déterminer le débit volumique Qa de lartère siège danévrisme en fonction de Q,a, et b 23. PA PB un effet   possible de lanévrisme sur   la 24. En comparant Pa Pa à évoquer 3 personne. Problème 2
+Un réseau transmission est composé de N fentes identiques;, fines; de largeur e; parallèles eUdiséæs pæ talpss 8soéseau). Le réseau est éclairé par un faisceau de rayons parallèles monochromatique de longueur donde ^ sous une incidence i. Concours Biologie et Géologie-Session Juin 2013 Epreuve de Physique Page 3/4

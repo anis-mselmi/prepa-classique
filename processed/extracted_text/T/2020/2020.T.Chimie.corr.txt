@@ -1,0 +1,2153 @@
+Session Juillet 2020 
+Page 1 sur 16 
+Instructions 
+• Cette épreuve comporte 14 pages + 2 pages vides. 
+• Tout résultat doit être écrit dans les cadres adéquats. 
+• L'usage des calculatrices électroniques de poche non programmables est autorisé. 
+• Aucun échange entre les candidats n'est autorisé. 
+• Tout calcul doit être précédé d’une expression littérale.  
+• Les résultats numériques sans unité ou avec une unité fausse ne seront pas comptabilisés. 
+• En cas de besoin utiliser la page vide en fin de cahier. Dans ce cas, il faut le signaler 
+dans la case allouée à la réponse remise en fin de cahier. 
+• Si au cours de l’épreuve, un candidat repère ce qui lui semble être une erreur d’énoncé, 
+il la signale sur sa copie et poursuit sa composition en indiquant les raisons des 
+initiatives qu’il est amené à prendre. 
+ 
+ 
+ 
+ 
+ 
+ 
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 16 PAGES 
+NUMEROTÉES 1 sur 16, 2 sur 16, …, 16 sur 16. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Concours Technologique 
+
+ 
+Page 2 sur 16 
+Épreuve de chimie section T 
+Année : 2019-2020 
+Notations et données numériques 
+États des constituants physicochimiques : 
+(sd) solide ; (liq) liquide ; (g) gazeux 
+Lorsque aucune mention n'est spécifiée, les ions sont supposés implicitement en solution aqueuse. 
+Les gaz sont considérés comme parfaits. 
+Notations :  
+• xi : la fraction molaire de « i » dans la phase liquide. 
+• yi : la fraction molaire de « i » en phase vapeur. 
+• 
+ip
+σ  : pression de vapeur saturante de « i ». 
+• 
+i
+ϕ
+µ  : potentiel chimique du constituant « i » dans la phase φ. 
+• L’exposant * signifie corps pur. 
+• L’exposant  signifie standard. 
+• ESH : électrode standard à hydrogène. 
+Constantes physiques : 
+• Constante des gaz parfaits : R = 8,314 J.mol-1.K-1. 
+• Constante d'Avogadro : NA = 6,02×1023 mol-1. 
+• Constante de Faraday : F = 96500 C.mol-1. 
+• Pression standard : p 
+1
+.
+bar
+=
+ 
+• Concentration standard : C 
+1
+1
+.
+.
+mol L−
+=
+ 
+Formules brutes :  
+Méthanol = (CH3-OH) ; N-hexane = (C6H14); Acétone =(C3H6O); Chloroforme = (CHCl3). 
+Données numériques : 
+• Masses molaires (en g.mol-1) :  
+Be= 9,01 ; CH4O = 32,04 ; C6H14= 86,18 ;CHCl3 =119,38 ; C3H6O = 58,08. 
+• Les moments dipolaires µ (en D) :  
+chloroforme = 1,02 ; acétone =2,88 ; méthanol = 1,66 ; N-hexane = 0. 
+À 298K,  
+• Potentiels standard d’électrodes à pH = 0 : 
+Couple 
+2( )
+g
+H
+H
++
+ 
+2( )
+2
+g
+O
+H O  
+E (
+)
+/
+/
+(
+/
+)
+Ox red
+en V
+ESH  
+0 
+1,23 
+• Produit ionique de l’eau Ke =10-14. 
+• 
+( )
+( )
+10
+0,06
+log
+(
+ )
+R T
+Ln x
+x
+en V
+F
+×
+×
+=
+×
+. 
+Conversions :  
+(
+)
+(
+)
+273,15
+T K
+C
+= θ °
++
+ 
+1 bar = 750 mmHg 
+Unités :  
+[J.C-1] = [Volt] 
+ 
+ 
+ 
+
+ 
+Page 3 sur 16 
+Épreuve de chimie section T 
+Année : 2019-2020 
+Problème : cristallographie 
+Le béryllium « symbole Be » cristallise dans une structure hexagonale compacte. Pour décrire la structure du 
+béryllium, on suppose que l’hypothèse d'un empilement compact de plans de sphères dures tangentes est 
+correcte. 
+1) Donner une représentation en perspective de la maille et de son contenu. 
+ 
+2) Quel est la séquence d’empilement des plans compacts dans le réseau hexagonal compact ? 
+AB-AB 
+3) En se limitant à une seule maille, dessiner en précisant la tangence entre les atomes, un plan de compacité 
+maximale. 
+ 
+4) Donner les coordonnées réduites des atomes de « Be » dans cette structure. 
+Les coordonnées réduites des atomes de « Be » sont : (0,0,0) et (2/3,1/3,1/2). 
+5) Définir, puis déterminer le motif dans cette structure. 
+Le motif est la plus petite entité chimique qui par translations permises génère la totalité du contenu de la 
+maille et par conséquent tout le réseau cristallin.  
+ Il est formé par deux atomes : l’atome de coordonnée (0a,0b,0c) et la deuxième de coordonnées 
+(2/3a,1/3b,1/2c). 
+6) Quel est le mode de réseau ? Justifier la réponse. 
+Le mode est P : car seule les translation , ,
+a b c
+
+ permettent de générer tout le réseau.  
+D’après les réseaux de Bravais le système hexagonal contient un seul mode qui est le mode P.  
+7) Représenter la trace des atomes de « Be » contenus dans le premier plan après celui passant par l’origine 
+de la famille (110). Préciser la tangence entre les atomes. 
+ 
+
+ 
+Page 4 sur 16 
+Épreuve de chimie section T 
+Année : 2019-2020 
+8) Déterminer la valeur du rapport (c/a) idéal d'un empilement hexagonal compact. 
+c
+2 h
+=
+×
+ 
+avec h : la hauteur d’un tétraèdre régulier de côté « a » : 
+2
+h
+a
+3
+=
+×  
+c
+2
+2
+1,633
+a
+3
+=
+×
+
+ 
+9) Comparer la valeur du rapport (c/a) expérimental à celle obtenue à la question précédente, sachant que les 
+paramètres de la maille sont : a = 228,7 pm et c = 358,3 pm. Conclure. 
+c
+358,3
+1,57
+1,633
+a
+228,7
+=
+=
+<
+  Empilement hexagonale non idéal.  
+La maille est déformée (aplatie selon l’axe c). 
+10) Donner l’expression puis calculer, la masse volumique du béryllium solide. 
+La masse volumique s’écrit : 
+(
+)
+sd
+atom
+Be
+Be
+A
+maille
+n
+Be
+M
+N
+V
+ρ
+×
+=
+×
+ 
+2
+2
+2
+3
+sin
+3
+2
+maille
+V
+a
+c
+a
+c
+π
+
+
+=
+× ×
+=
+×
+×
+
+
+
+
+ 
+2
+(
+)
+3
+2
+sd
+atom
+Be
+Be
+A
+n
+Be
+M
+N
+a
+c
+ρ
+×
+=
+×
+× ×
+ 
+Application numérique : 
+(
+)
+3
+2
+23
+10
+10
+2 9,01
+1,86 .
+3
+6,02 10
+228,7 10
+358,3 10
+2
+sd
+Be
+g cm
+ρ
+−
+−
+−
+×
+=
+=
+×
+×
+×
+×
+×
+×
+ 
+Problème : diagramme de Pourbaix 
+Compte tenu des données thermodynamiques suivantes, à 298 K : 
+Entités 
+Sr(sd) 
+Sr2+ 
+Sr(OH)2(sd)  
+H2O(liq) 
+H2(g) 
+H+ 
+HO- 
+µ (
+)
+1
+.
+kJ mol −
+ 
+0 
+-558,60 
+-881,20 
+-236,96 
+0 
+0 
+-157,30 
+1) Trouver l’expression puis calculer : 
+1-a) Le produit de solubilité de Sr(OH)2(sd). 
+2
+2(
+)
+(
+)
+2
+sd
+Sr OH
+Sr
+HO
++
+−
+=
++
+ 
+À l’équilibre, 
+2
+2
+s
+K
+Sr
+HO
++
+−
+
+
+
+
+=
+×
+
+
+
+ 
+rG
+∆
+
+i
+i
+ν
+µ
+=
+×
+
+(
+)
+s
+i
+R T
+Ln K
+= −×
+×
+∑
+ 
+(
+)
+i
+i
+s
+Ln K
+ν
+µ
+×
+= −
+
+(
+)2(
+)
+sd
+Sr OH
+i
+R T
+µ
+=
+×
+∑
+
+2
+Sr
+µ
++
+−
+
+2
+HO
+µ
+−
+−×
+
+R T
+×
+ 
+Application numérique : 
+(
+)
+3
+881,2
+558,6
+2 157,30
+3,23
+8,314 10
+298
+s
+Ln K
+−
+−
++
++ ×
+=
+= −
+×
+×
+ 
+(
+)
+3,23
+0,04
+s
+K
+Exp
+=
+−
+=
+ 
+
+ 
+Page 5 sur 16 
+Épreuve de chimie section T 
+Année : 2019-2020 
+1-b) Les potentiels standard d’électrodes des différents couples Sr(II)/Sr(0). 
+Couple (1) Sr2+/Sr :  
+• Demi-équation électronique 
+Sr2++ 2e- = Sr 
+ 
+• Équation bilan : 
+Sr2++ H2(g) = Sr + 2H+            
+1
+rG
+∆
+
+1
+2
+F
+E
+= −×
+×
+ 
+1
+rG
+∆
+
+1
+2
+F
+E
+= −×
+×
+
+(
+)
+sd
+Sr
+= µ 
+2
+H +
++ ×µ 
+2
+Sr +
+−µ 
+2(
+)
+g
+H
+−µ 
+(
+)  
+1
+E 
+E
+=
+(
+)
+2
+Sr
+Sr
+E
++
+−
+(
+)
+(
+)
+2( )
+sd
+Sr
+g
+H
+H
++
+µ
+= −
+
+2
+H +
++ ×µ 
+2
+Sr +
+−µ 
+2(
+)
+g
+H
+−µ 
+(
+)
+2
+F
+×
+ ;             
+Application numérique : 
+E (
+)
+(
+)
+3
+2
+0
+2 0
+558,6
+0
+10
+2,89
+2 96500
+Sr
+Sr
+V
++
++ × +
+−
+×
+= −
+= −
+×
+ 
+Couple (2) Sr(OH)2(sd)/Sr :  
+• Demi-équation électronique 
+Sr(OH)2(sd)  + 2H+ + 2e- = Sr + 2H2O 
+ 
+• Équation bilan : 
+Sr(OH)2(sd)  + 2H+D + H2(g) = Sr +2H+G+ 2H2O 
+ 
+2
+rG
+∆
+
+2
+2
+F
+E
+= −×
+×
+
+(
+)
+sd
+Sr
+= µ 
+2
+D
+H +
++ ×µ 
+2
+2
+H O
++ ×µ 
+2(
+)
+(
+)
+sd
+Sr OH
+−µ 
+2
+G
+H +
+−×µ 
+2(
+)
+g
+H
+−µ 
+(
+)  
+2
+E 
+E
+=
+(
+)
+2
+(
+)
+Sr OH
+Sr
+E
+−
+(
+)
+(
+)
+2( )
+sd
+Sr
+g
+H
+H
++
+µ
+= −
+
+2
+D
+H +
++ ×µ 
+2
+2
+H O
++ ×µ 
+2(
+)
+(
+)
+sd
+Sr OH
+−µ 
+2
+G
+H +
+−×µ 
+2(
+)
+g
+H
+−µ 
+(
+)
+2
+F
+×
+ 
+Application numérique : 
+E (
+)
+(
+)
+3
+2
+0
+2 0
+2 236,96
+881,2
+2 0
+0
+10
+(
+)
+2,11
+2 96500
+Sr OH
+Sr
+V
++ × −×
++
+−× −
+×
+= −
+= −
+×
+ 
+2) Déterminer les expressions des potentiels d’électrodes pour les différents couples Sr(II)/Sr(0). 
+Couple (1) Sr2+/Sr :   Sr2++ H2(g) = Sr + 2H+ 
+(
+)
+2
+2
+ESH
+Sr
+Sr
+E
+E Sr
+Sr
+E
+E
++
++
+=
+−
+=
+
+ESH
+E
+−
+
+(
+)
+2
+10
+0,06
+log
+2
+Sr
+C
++
+
+
+
+
++
+×
+
+(
+)
+2
+H
+p
+p
+×
+
+(
+)
+H
+C
++
+
+
+
+
+
+(
+)
+
+
+
+
+
+
+
+
+ 
+2
+2
+Sr
+Sr
+Sr
+Sr
+E
+E
++
++
+=
+
+2
+10
+0,06
+log
+2
+Sr
+C
++
+
+
++
+×
+
+
+
+(
+)
+(
+)  
+ 
+Couple (2) Sr(OH)2(sd)/Sr :  Sr(OH)2(sd)  + 2H+D + H2(g) = Sr +2H+G+ 2H2O 
+ 
+(
+)
+(
+)
+(
+)2(
+)
+2(
+)
+sd
+ESH
+Sr OH
+Sr
+sd
+E
+E Sr OH
+Sr
+E
+E
+=
+−
+=
+
+ESH
+E
+−
+
+(
+)
+10
+0,06
+log
+2
+D
+H
+C
++
+
+
+
+
++
+×
+
+(
+)
+2
+2
+H
+p
+p
+×
+
+(
+)
+G
+H
+C
++
+
+
+
+
+
+(
+)
+2
+
+
+
+
+
+
+
+
+
+
+ 
+(
+)
+(
+)
+(
+)2(
+)
+2(
+)
+sd
+Sr OH
+Sr
+sd
+E Sr OH
+Sr
+E
+=
+
+10
+0,06
+log
+2
+D
+H
+C
++
+
+
++
+×
+
+
+
+(
+)
+(
+)
+2
+ 
+(
+)
+(
+)
+(
+)2(
+)
+2(
+)
+sd
+Sr OH
+Sr
+sd
+E Sr OH
+Sr
+E
+=
+
+0,06
+pH
+−
+×
+ 
+
+ 
+Page 6 sur 16 
+Épreuve de chimie section T 
+Année : 2019-2020 
+3) Tracer et indexer le diagramme E-pH du strontium pour une concentration de tracé Ctra = 10-2 mol.L-1. 
+1-Classement les entités en fonction de leur nombre d’oxydation 
+ 
+ 
+ 
+2-Calcul de pH des frontières verticales : 
+Calcul de pH : 
+2
+2(
+)
+(
+)
+2
+sd
+Sr OH
+Sr
+HO
++
+−
+=
++
+ 
+(
+)
+(
+)
+2
+10
+1
+log
+2
+e
+s
+pH
+pK
+pK
+Sr +
+
+
+=
+−
+×
++
+
+
+ 
+Application numérique : 
+(
+)
+(
+)
+2
+10
+1
+14
+1,4
+log
+10
+14,3
+2
+pH
+−
+=
+−
+×
++
+=
+ 
+3-Équations des frontières horizontales et obliques : 
+Couple (1) Sr2+/Sr :   
+2
+2
+Sr
+Sr
+Sr
+Sr
+E
+E
++
++
+=
+
+10
+0,03 log
+tra
+C
+C
++
+×
+
+(
+)
+(
+)
+2,89
+0,03 ( 2)
+2,95V
+= −
++
+× −
+= −
+ 
+Couple (2) Sr(OH)2(sd)/Sr :  
+(
+)
+(
+)
+2(
+)
+2(
+)
+sd
+sd
+Sr OH
+Sr
+Sr OH
+Sr
+E
+E
+=
+
+0,06
+2,11 0,06
+pH
+pH
+−
+×
+= −
+−
+×
+ 
+ 
+4- Diagramme de Pourbaix du strontium 
+ 
+Diagrammes de Pourbaix de l’eau (en traits discontinus) et du strontium  
+
+ 
+Page 7 sur 16 
+Épreuve de chimie section T 
+Année : 2019-2020 
+4) Quelles frontières ne seraient pas modifiées si l’on changeait la concentration de tracé ? 
+C’est la frontière associée au couple Sr(OH)2(sd)/Sr . 
+5) Le strontium solide peut-il être attaqué en solution aqueuse ? Justifier la réponse. 
+Le strontium Sr n’a pas de domaine commun avec l’eau ; il doit donc être attaqué par l’eau. 
+Pour les pH > 14,3 une couche d’hydroxyde Sr(OH)2(sd) peut le protéger. 
+ 
+Problème : équilibres liquide-vapeur des corps purs 
+Fig. 1 : Courbe de vaporisation du méthanol pur 
+1) Préciser la nature des phases dans les domaines (I) et (II) pour le méthanol pur. 
+Domaine(I) : méthanol en phase liquide 
+ 
+Domaine (II) : méthanol en phase vapeur 
+ 
+
+ 
+Page 8 sur 16 
+Épreuve de chimie section T 
+Année : 2019-2020 
+2) Donner la relation de Clapeyron associée à la courbe de vaporisation. Donner la signification des termes 
+qui apparaissent dans cette relation. 
+(
+)
+*
+vap
+m
+*,vap
+*,liq
+m
+m
+H
+dp
+dT
+T
+V
+V
+∆
+=
+×
+−
+ 
+*
+vap
+m
+H
+∆
+ : enthalpie de vaporisation molaire. 
+T : température de vaporisation 
+*,vap
+m
+V
+: volume molaire du corps pur dans la phase vapeur. 
+*,liq
+m
+V
+ : volume molaire du corps pur dans la phase liquide 
+3) Montrer ; en donnant les approximations utilisées ; que la pression de vapeur saturante d’un corps pur est 
+une fonction de la température du type : 
+p
+Ln p
+σ
+
+B
+A
+T
+
+=
+−
+
+
+
+
+ 
+Dans cette expression la pression est exprimée en bar, la température en Kelvin et A, B sont des constantes.  
+Les approximations utilisées : 
+*
+vap
+m
+H
+cte
+∆
+=
+ 
+*,
+*,
+*,
+*,
+*,
+>>
+⇒
+−
+≈
+vap
+liq
+vap
+liq
+vap
+m
+m
+m
+m
+m
+V
+V
+V
+V
+V
+  
+Le gaz se comporte comme un gaz parfait : 
+*,
+×
+=
+vap
+m
+R T
+V
+p
+ 
+*
+2
+vap
+m
+vap
+H
+dp
+p
+dT
+R T
+∆
+
+
+=
+×
+
+
+×
+
+
+ 
+2
+2
+1
+1
+*
+2
+P
+T
+vap
+m
+P
+T
+H
+dp
+dT
+p
+R
+T
+∆
+
+=
+×
+
+
+
+
+∫
+∫
+ 
+Au voisinage de 
+vap
+T  : 
+p
+dp
+p
+
+
+
+
+
+
+
+*
+2
+vap
+p
+vap
+m
+T
+H
+dT
+R
+T
+σ
+∆
+=
+×
+∫
+
+T∫
+ 
+p
+Ln p
+σ
+
+*
+vap
+m
+vap
+H
+1
+R
+T
+∆
+
+=
+×
+
+
+
+
+
+1
+T
+
+
+−
+
+
+
+
+
+
+ 
+p
+Ln p
+σ
+
+*
+vap
+m
+vap
+H
+R
+T
+∆
+
+=
+
+
+×
+
+
+
+*
+vap
+m
+H
+R
+T
+
+
+∆
+
+
+
+
+
+
+−
+ 
+ 
+3-a) Identifier les constantes A et B, puis donner leurs équations aux dimensions. 
+*
+vap
+m
+vap
+H
+A
+R
+T
+∆
+=
+×
+        Sans unité 
+*
+vap
+m
+H
+B
+R
+
+
+∆
+= 
+
+
+
+
+
+   Unité K 
+
+ 
+Page 9 sur 16 
+Épreuve de chimie section T 
+Année : 2019-2020 
+3-b) Sachant que la pression de vapeur saturante du « méthanol » s’écrit sous la forme : 
+p
+Ln p
+σ
+
+4484,6
+13,257
+T
+
+=
+−
+
+
+
+
+ 
+i) Déterminer la température de vaporisation standard du méthanol. 
+vap
+4484,6
+0
+13,257
+T
+=
+−
+
+ 
+vap
+T 
+4484,6
+338,3 K
+13,257
+=
+=
+ 
+ii) Déterminer l’enthalpie molaire de vaporisation du méthanol. 
+*
+vap
+m
+H
+B
+4484,6 K
+R
+
+
+∆
+=
+=
+
+
+
+
+
+
+ 
+*
+3
+1
+vap
+m
+H
+4484,6
+R
+4484,6 8,314 10
+37,28 kJ.mol
+−
+−
+∆
+=
+×
+=
+×
+×
+=
+ 
+4) On considère sur la figure ci-dessous, la superposition des courbes de vaporisations de N-hexane pur et du 
+méthanol pur.  
+ 
+Fig. 2 : Superposition des courbes de vaporisation du méthanol pur et du N-hexane pur 
+Le point B est appelé le point de Bancroft qui présente l’intersection entre deux courbes de pression de 
+vapeur saturante dans le plan (p, θ) 
+Autrement dit, il s'agit d'une condition de température et de pression à laquelle les deux espèces ont la même 
+pression de vapeur saturante. 
+
+ 
+Page 10 sur 16 
+Épreuve de chimie section T 
+Année : 2019-2020 
+4-a) Donner l'expression générale de la variance F d'un système et donner la signification de chaque 
+terme. 
+2
+F
+C
+k
+r
+ϕ
+=
++
+−
+−
+− 
+C : nombre de constituants. 
+φ : nombre de phases. 
+k : nombre d’équilibres chimiques indépendants. 
+r : le nombre de relations supplémentaires auxquelles les variables intensives indépendantes sont 
+susceptible d’être soumises. 
+4-b) Dans le cas d’un corps pur, calculer la variance : 
+i) sur la courbe de vaporisation ; 
+1
+2
+2
+0
+0
+1
+F = +
+−
+−
+−
+=  
+ii) dans les domaines ; 
+1
+2 1 0
+0
+2
+F = +
+−−
+−
+=
+ 
+iii) au point B. 
+1
+2
+2
+0 1
+0
+F = +
+−
+−
+−=
+ ,  r = 1 car 
+(
+)
+(
+)
+1
+2
+46,6
+46,6
+0,47
+B
+p
+C
+p
+C
+p
+bar
+σ
+σ
+°
+=
+°
+=
+=
+ 
+5) Montrer que l’on peut procéder de deux manières différentes pour savoir lequel des deux composés est le 
+plus volatil.  
+À pression fixe, celui qui a la température de vaporisation la plus faible est le plus volatil. 
+À température fixe, celui qui a la pression de vapeur saturante la plus forte est le plus volatil. 
+6) Quel est alors le composé le plus volatil, le N-hexane ou le méthanol ? 
+Pour θ < θB  
+1
+2
+p
+p
+σ
+σ
+>
+  N-hexane est plus volatil. 
+Pour θ = θB  
+1
+2
+p
+p
+σ
+σ
+=
+  N-hexane et méthanol ont même volatilité. 
+Pour θ > θB  
+1
+2
+p
+p
+σ
+σ
+<
+  méthanol est plus volatil. 
+Problème : étude des équilibre liquide-vapeur dans un système 
+binaire 
+1) Qu’est-ce qu’un mélange idéal ? 
+Un mélange est dit idéal si, au niveau microscopique il se présente comme un liquide pur, les interactions 
+entre molécules différentes et molécules identiques étant égales. 
+2)  
+2-a) Quelle loi suive un mélange liquide idéal en équilibre avec un mélange de gaz parfaits pour tout 
+l’intervalle de composition ? Donner la signification de tous les termes qui apparaissent dans cette 
+loi. 
+La loi de Raoult : 
+i
+i
+i
+p
+x
+pσ
+=
+×
+ 
+pi : la pression partielle de « i » dans la phase vapeur surmontant le liquide. 
+xi : la fraction molaire de « i » dans la phase liquide. 
+:
+ipσ la pression de vapeur saturante du constituant « i ». C’est la pression d’équilibre entre la phase 
+liquide et vapeur d’un corps pur. 
+
+ 
+Page 11 sur 16 
+Épreuve de chimie section T 
+Année : 2019-2020 
+2-b) Démontrer cette loi en utilisant les expressions des potentiels chimiques. 
+Condition d’équilibre : 
+liq
+vap
+i
+i
+i
+µ
+µ
+=
+∀
+ 
+
+iµ
+( )
+(
+)
+,
++
+×
+×
+=
+
+liq
+i
+i
+T
+R T
+Ln x
+µ
+( )
+,
++
+×
+×
+
+vap
+ip
+T
+R T
+Ln
+p
+
+
+
+
+
+ 
+×
+
+i
+i
+p
+x
+p
+exp
+
+=
+
+
+
+
+
+µ
+( )
+,
+−
+
+liq
+i
+T
+µ
+( )
+,
+
+
+
+
+×
+
+
+vap T
+R T
+ 
+exp
+=
+
+i
+ip
+µ
+( )
+,
+−
+
+liq
+i
+T
+µ
+( )
+,
+
+×
+
+
+×
+
+
+
+vap T
+p
+R T
+×
+ix  
+La loi de Raoult : 
+( )
+=
+×
+i
+i
+i
+p
+x
+p
+T
+σ
+ 
+3) Considérons le système binaire chloroforme (1) - acétone (2). 
+3-a) En supposant que le mélange liquide : chloroforme (1) - acétone (2) est idéal dans tout le domaine de 
+composition. 
+i) Établir les expressions des courbes d’équilibres liquide-vapeur p = f(x1) et p = f(y1). 
+( )
+( )
+1
+1
+1
+2
+2
+2
+1
+2
+1
+2
+x
+p
+y
+p
+1
+x
+p
+y
+p
+2
+x
+x
+1
+y
+y
+1
+σ
+σ
+
+×
+=
+×
+
+×
+=
+×
+
++
+=
+
+
++
+=
+
+ 
+(1) + (2)   
+1
+1
+2
+2
+p
+x
+p
+x
+p
+σ
+σ
+=
+×
++
+×
+ 
+(
+)
+(
+)
+(
+)
+1
+1
+1
+2
+1
+1
+2
+2
+1
+1
+p
+x
+p
+x
+p
+x
+p
+p
+p
+f
+x
+σ
+σ
+σ
+σ
+σ
+=
+×
++
+−
+×
+=
+×
+−
++
+=
+ 
+1
+1
+1
+y
+p
+x
+pσ
+×
+=
+ 
+(
+)
+1
+1
+2
+2
+1
+y
+p
+p
+p
+p
+p
+p
+σ
+σ
+σ
+σ
+
+
+×
+=
+×
+−
++
+
+
+
+
+ 
+(
+)
+1
+1
+2
+2
+1
+1
+y
+p
+p
+p
+p
+p
+σ
+σ
+σ
+σ
+
+
+
+
+−
+×
+−
+=
+
+
+
+
+
+
+
+
+
+
+ 
+(
+)
+(
+)
+(
+)
+2
+2
+1
+1
+1
+1
+1
+2
+1
+1
+2
+1
+1
+p
+p
+p
+p
+f
+y
+p
+y
+p
+p
+y
+p
+p
+p
+σ
+σ
+σ
+σ
+σ
+σ
+σ
+σ
+σ
+×
+=
+=
+=
+
+
+−
+×
+−
+
+
+−
+×
+−
+
+
+
+
+
+
+
+
+ 
+ii) Représenter sur figure 3 (page 12), la courbe p = f(x1) ainsi obtenue. 
+À répondre sur la Figure 3 
+
+ 
+Page 12 sur 16 
+Épreuve de chimie section T 
+Année : 2019-2020 
+3-b) Des mesures effectuées à 25°C, fournissent les pressions partielles de chloroforme (1) et de l’acétone (2) 
+dans la phase vapeur surmontant la phase liquide pour des compositions exprimées dans l’échelle des fractions 
+molaire x1 variables. 
+Le diagramme ci-dessous donne (en trait continu) les variations de ces pressions partielles p1 et p2 en fonction 
+de la fraction molaire en phase liquide x1.  
+ 
+Fig. 3 : mélanges liquides en équilibre avec les vapeurs  
+i) Les mélanges en phase liquide entre (1) et (2) sont-ils réellement idéaux ? Justifier la réponse.  
+De l’allure du diagramme ci-dessus on peut dire que le mélange liquide n’est pas idéal. 
+Car si le mélange était idéal, la courbe de vaporisation p=f(x1) sera une droite (loi de Raoult). 
+ii) Comparer les interactions homogènes (1)-(1), (2)-(2) et hétérogènes (1)-(2) dans les mélanges en phase 
+liquide. 
+Les interactions (1)-(2) sont plus fortes que les interactions (1)-(1) et (2)-(2) 
+La pression de vapeur est plus faible que s’il s’agissait d’un mélange idéal : 
+1
+1
+1
+p
+x
+pσ
+<
+×
+(Loi de Raoult). 
+iii) Quelles sont les valeurs des pressions de vapeur saturante de (1) et de (2) à 25°C ? 
+Pour le chloroforme pur : 
+1
+194,65
+p
+mmHg
+σ =
+. 
+Pour l’acétone méthanol pur : 
+2
+229,89
+p
+mmHg
+σ =
+ 
+
+ 
+Page 13 sur 16 
+Épreuve de chimie section T 
+Année : 2019-2020 
+iv) Les mélanges de (1) et (2) se font-ils avec absorption ou dégagement de chaleur ? Justifier la réponse. 
+Écart négatif par rapport à la loi de Raoult  
+0
+mel
+m
+H
+∆
+<
+, le mélange se fait avec dégagement de chaleur. 
+ 
+4) On souhaite tracer l’allure du diagramme d’équilibre liquide-vapeur isotherme (à 25°C) du système  
+chloroforme (1) - acétone (2). 
+4-a) Déduire de la fig. 3, s’il doit apparaître dans ce diagramme un maximum ou un minimum de 
+pression (noté Az). Justifier la réponse. 
+Écart négatif par rapport à la loi de Raoult  azéotrope négative  minimum de pression 
+4-b) Citer trois propriétés du mélange liquide dont le point représentatif est situé en Az.  
+Le mélange bout à une température constante. Il se comporte comme un corps pur. 
+La vapeur émise à l’équilibre a la même composition que le liquide (x1)Az = (y1)Az 
+La fraction molaire de l’azéotrope varie avec un changement de pression et/ou la température. 
+4-c) En se basant sur le graphique ci-dessous, déterminer les coordonnées (xAz,yAz) du point 
+représentatif du mélange Az.  
+ 
+Fig. 4 : fractions molaires de la phase vapeur en fonction des fractions molaires en phase liquide 
+Il suffit de tracer la droite x=y et l’intersection avec la courbe donne les coordonnées de l’azéotrope. 
+x1 = y1 = 0,62 
+
+ 
+Page 14 sur 16 
+Épreuve de chimie section T 
+Année : 2019-2020 
+4-d) En utilisant les figures 3 et 4 et éventuellement quelques résultats obtenus précédemment, tracer 
+le plus précisément possible l’allure du diagramme binaire isotherme (à θ = 25°C).  
+4-e) Indiquer la nature des différentes phases présentent dans tous les domaines. 
+De la figure 3  
+1
+194,65
+p
+mmHg
+σ =
+ 
+2
+229,89
+p
+mmHg
+σ =
+ 
+ x1 =0,10   p = 205,49+10,81 = 2016,3 mmHg 
+ x1 =0,20   p = 178,91+24,30 = 203,21 mmHg 
+ x1 =0,40   p = 123,29+59,18 = 182,47 mmHg 
+ x1 =0,60   p = 102,82+70,92 =173,74 mmHg 
+ x1 =0,62   p = 107,52+66,14 =173,66 mmHg 
+ x1 =0,80   p = 150,57+28,46 =179,03 mmHg 
+De la figure 4 :  
+(Courbe de bulle) x1 = 0,1  (courbe de rosée) y1 = 0,05 
+(Courbe de bulle) x1 = 0,2  (courbe de bulle) y1 = 0,12 
+ 
+ 
+Fig. 5 : diagramme d’équilibre liquide-vapeur isotherme du système  
+chloroforme (1) - acétone (2). 
+ 
+FIN DE L’ÉPREUVE 
+ 
+ 
+
+ 
+Page 15 sur 16 
+Épreuve de chimie section T 
+Année : 2019-2020 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Page 16 sur 16 
+Épreuve de chimie section T 
+Année : 2019-2020 
+ 
+ 

@@ -1,0 +1,1346 @@
+République Tunisienne
+Ministère de l’Enseignement Supérieur
+et de la Recherche Scientiﬁque
+Concours Nationaux d’Entrée aux Cycles
+de Formation d’Ingénieurs
+Session 2019
+ـﺔّﺍاﻟﺗﻭوﻧﺳﻳﯾـ  ـــﺔّﻭوﺭرﻳﯾُﺍاﻟﺟﻣﻬﮭ
+ﺍاﻟﻣﻧﺎﻅظﺭرﺍاﺕت  ﺍاﻟﻭوﻁطﻧﻳﯾﺔ  ﻟﻠﺩدﺧــﻭوﻝل
+ﺇإﻟﻰ  ﻣﺭرﺍاﺣـﻝل  ﺗﻛﻭوﻳﯾـﻥن  ﺍاﻟﻣﻬﮭﻧﺩدﺳﻳﯾـﻥن
+  ﺩدﻭوﺭرﺓة2017
+9 
+Concours Mathématiques et Physique
+Corrigé de l’épreuve de Mathématiques I
+Exercice 1
+1. Montrer que, pour tout A 2 Mp (R), les applications
+dA :
+Mp (R) −! Mp (R), N 7−! NA
+et
+gA :
+Mp (R) −! Mp (R), N 7−! AN,
+sont continues.
+Comme dA et gA sont des applications linéaires sur l’espace vectoriel de dimension ﬁnie
+Mp (R) alors elles sont continues.
+2. Montrer que la suite (Un)n2N admet au moins une valeur d’adhérence dans Mp (R).
+La suite (Mn)n2N est bornée donc il existe c > 0 tel que, pour tout n 2 N, kMnk c. Donc,
+pour tout n 2 N,
+kUnk =
+1
+n + 1
+!!!!!
+n
+Â
+k=0
+Mk
+!!!!! 
+1
+n + 1
+n
+Â
+k=0
+!!!Mk!!! 
+1
+n + 1
+n
+Â
+k=0
+c = c.
+Donc la suite (Un)n2N est bornée dans l’espace vectoriel normé de dimension ﬁnie Mp (R).
+Cela permet alors de conclure que la suite (Un)n2N admet au moins une valeur d’adhérence
+dans Mp (R).
+3. Montrer que, pour tout n 2 N,
+MUn = UnM = Un +
+1
+n + 1
+⇣
+Mn+1 −Ip
+⌘
+.
+Soit n 2 N. On voit que Un est un polynôme en M. Donc MUn = UnM. D’autre part
+MUn =
+1
+n + 1
+n
+Â
+k=0
+Mk+1 =
+1
+n + 1
+n+1
+Â
+k=1
+Mk =
+1
+n + 1
+ 
+n
+Â
+k=0
+Mk + Mn+1 −Ip
+!
+=
+1
+n + 1
+n
+Â
+k=0
+Mk +
+1
+n + 1
+⇣
+Mn+1 −Ip
+⌘
+= Un +
+1
+n + 1
+⇣
+Mn+1 −Ip
+⌘
+.
+D’où le résultat démandé.
+4.
+(a) Montrer que ML = LM = L.
+Comme L est une valeur d’adhérence de la suite (Un)n2N alors on peut en extraire
+une sous suite
+⇣
+Uj(n)
+⌘
+n2N qui converge vers L. D’après la question précédente, pour
+
+Concours Mathématiques et Physique
+Corrigé de l’épreuve de Mathématiques I
+Page 2 sur 12
+tout n 2 N,
+MUj(n) = Uj(n)M = Uj(n) +
+1
+j(n) + 1
+⇣
+Mj(n)+1 −Ip
+⌘
+.
+(*)
+Observons maintenant que
+⊙MUj(n) = gM
+⇣
+Uj(n)
+⌘
+−!
+n!+• gM (L) = ML car gM est continue et Uj(n) −!
+n!+• L.
+⊙Uj(n)M = dM
+⇣
+Uj(n)
+⌘
+−!
+n!+• dM (L) = ML car dM est continue et Uj(n) −!
+n!+• L.
+⊙Pour tout n 2 N,
+!!!!
+1
+j(n) + 1
+⇣
+Mj(n)+1 −Ip
+⌘!!!! =
+1
+j(n) + 1
+!!!
+⇣
+Mj(n)+1 −Ip
+⌘!!!
+
+1
+j(n) + 1
+⇣!!!Mj(n)+1!!! +
+!!Ip
+!!
+⌘
+
+1
+j(n) + 1
+&
+c +
+!!Ip
+!!'
+.
+Comme
+1
+j(n)+1
+&
+c +
+!!Ip
+!!' −!
+n!+• 0 alors
+1
+j(n)+1
+⇣
+Mj(n)+1 −Ip
+⌘
+−!
+n!+• 0.
+En faisant tendre n vers +• dans (*), on obtient ML = LM = L.
+(b) En déduire que, pour tout n 2 N, UnL = LUn = L.
+On montre, par récurrence sur k 2 N, que MkL = LMk = L. Donc
+UnL =
+1
+n + 1
+n
+Â
+k=0
+MkL =
+1
+n + 1
+n
+Â
+k=0
+L = L et
+LUn =
+1
+n + 1
+n
+Â
+k=0
+LMk =
+1
+n + 1
+n
+Â
+k=0
+L = L.
+5. Montrer que L1 = L2.
+Comme L1 est une valeur d’adhérence de (Un)n2N alors on peut en extraire une sous suite
+⇣
+Uj(n)
+⌘
+n2N qui converge vers L1.
+Comme L2 est une valeur d’adhérence de (Un)n2N alors, en utilisant la question précé-
+dente, UnL2 = L2Un = L2 pour tout n 2 N. En particulier
+Uj(n)L2 = L2Uj(n) = L2.
+(**)
+Vu que Uj(n)L2 = dL2
+⇣
+Uj(n)
+⌘
+−!
+n!+• dL2 (L1) = L1L2 (car dL2 est continue et Uj(n) −!
+n!+• L1)
+et que L2Uj(n) = gL2
+⇣
+Uj(n)
+⌘
+−!
+n!+• gL2 (L1) = L2L1 (car gL2 est continue et Uj(n) −!
+n!+• L1)
+alors le passage à la limite dans (**) montre que L1L2 = L2L1 = L2.
+En permutant les rôles de L1 et L2 on obtient aussi L2L1 = L1L2 = L1. Il s’en suit que L1 = L2.
+6. Montrer alors que la suite (Un)n2N est convergente.
+Les questions 2) et 5) montrent que la suite (Un)n2N admet une seule valeur d’adhérence
+dans Mp (R). Comme de plus elle est bornée alors elle converge.
+
+Concours Mathématiques et Physique
+Corrigé de l’épreuve de Mathématiques I
+Page 3 sur 12
+Exercice 2
+1. Montrer que µ + l > 0.
+On a p1 = (µ + l) p0 donc µ + l = p1
+p0
+≥0. Si µ + l = 0 alors p1 = 0 et donc, en utilisant la
+relation de récurrence, pk = 0 pour tout k ≥1. Il vient que 1 =
++•
+Â
+k=0
+pk = p0 2 ]0,1[ ce qui est
+absurde. Donc µ + l > 0.
+2.
+(a) Montrer que 8k 2 N, pk = lk
+k! p0.
+Récurrence sur k.
+(b) Exprimer
++•
+Â
+k=0
+pk en fonction de l et de p0.
+La série Â
+k≥0
+pk converge et
++•
+Â
+k=0
+pk = p0
++•
+Â
+k=0
+lk
+k! = p0el.
+(c) En déduire que X suit la loi de Poisson P (l).
+On a
++•
+Â
+k=0
+pk =
++•
+Â
+k=0
+P(X = k) = 1 donc p0el = 1 et p0 = e−l. On en déduit que, pour tout
+k ≥0, P(X = k) = lk
+k! e−l. Donc X suit la loi de Poisson P (l).
+(d) Donner alors son espérance et sa variance.
+Comme X suit la loi de Poisson P (l) alors E(X) = V (X) = l.
+3. Montrer que pour tout k 2 N⇤,
+pk = p0
+a(a −1)...(a −k + 1)
+k!
+(−µ)k .
+Récurrence sur k 2 N⇤.
+4.
+(a) Montrer que µ < 0.
+a = −µ+l
+µ
+2 N donc −µ+l
+µ
+≥0. Comme µ + l > 0 alors −µ > 0 et µ < 0.
+(b) Montrer que, pour tout k 2 N,
+pk =
+8
+>
+>
+>
+<
+>
+>
+>
+:
+p0Ck
+a (−µ)k
+si
+k a,
+0
+si
+k > a.
+Pour tout k a,
+pk = p0
+a(a −1)...(a −k + 1)
+k!
+(−µ)k = p0Ck
+a (−µ)k .
+
+Concours Mathématiques et Physique
+Corrigé de l’épreuve de Mathématiques I
+Page 4 sur 12
+Pour k > a
+pk = p0
+a(a −1)...(a −k + 1)
+k!
+(−µ)k
+= p0
+(−µ)k
+k!
+k−1
+’
+i=0
+(a −i)
+|        {z        }
+=0
+= 0.
+(c) Calculer
+a
+Â
+k=0
+pk en fonction de p0, µ et a. En déduire que p0 = (1 −µ)−a .
+On a
+a
+Â
+k=0
+pk = p0
+a
+Â
+k=0
+Ck
+a (−µ)k = p0 (1 −µ)a .
+D’autre part
+a
+Â
+k=0
+pk =
++•
+Â
+k=0
+pk = 1 donc p0 (1 −µ)a = 1 d’où p0 = (1 −µ)−a .
+(d) Montrer alors que X suit la loi binomiale B
+⇣
+a, −µ
+1−µ
+⌘
+.
+On a X (W) = {0,1,...a} et, pour tout k 2 {0,1,...a},
+P(X = k) = p0Ck
+a (−µ)k
+= Ck
+a (−µ)k (1 −µ)−a
+= Ck
+a
+✓−µ
+1 −µ
+◆k ✓
+1 −−µ
+1 −µ
+◆a−k
+.
+Donc X suit la loi binomiale B
+⇣
+a, −µ
+1−µ
+⌘
+.
+(e) Donner son espérance et sa variance.
+Comme X suit la loi binomiale B
+⇣
+a, −µ
+1−µ
+⌘
+alors
+E(X) = a −µ
+1 −µ = µ + l
+1 −µ et V (X) = a −µ
+1 −µ
+✓
+1 −−µ
+1 −µ
+◆
+=
+µ + l
+(1 −µ)2.
+5.
+(a) Montrer que G est bien déﬁnie et continue sur [−1,1].
+On pose, pour tout k ≥0, fk : [−1,1] ! R;t 7! pktk. Les fk sont continues sur [−1,1].
+De plus, pour tout t 2 [−1,1], | fk (t)| pk et Â
+k≥0
+pk converge. On en déduit que la série
+de fonctions Â
+k≥0
+fk converge normalement et donc uniformément sur [−1,1]. D’après
+le théorème de continuité G =
++•
+Â
+k=0
+fk est bien déﬁnie et continue sur [−1,1].
+(b) Montrer que le rayon de convergence de la série entière Â pkzk est
+1
+|µ| et que
+8t 2
+i
+−1
+|µ| , 1
+|µ|
+h
+,
++•
+Â
+k=0
+pktk = p0 (1 −µt)a .
+
+Concours Mathématiques et Physique
+Corrigé de l’épreuve de Mathématiques I
+Page 5 sur 12
+Soit z 2 C⇤. Alors
+444 pk+1zk+1
+pkzk
+444 =
+444µ +
+l
+k+1
+444|z| −!
+k!+• |µ||z|. D’aprè la règle de d’Alembert
+Si |z| <
+1
+|µ| alors |µ||z| < 1 et donc Â pkzk converge absolument et
+Si |z| >
+1
+|µ| alors |µ||z| > 1 et donc Â pkzk diverge grossièrement.
+On en déduit que le rayon de convergence de la série entière Â pkzk est
+1
+|µ|.
+Si t 2
+i
+−1
+|µ|, 1
+|µ|
+h
+alors |−µt| < 1 et
++•
+Â
+k=0
+pktk = p0 +
++•
+Â
+k=1
+p0
+a(a −1)...(a −k + 1)
+k!
+(−µt)k
+= p0
+ 
+1 +
++•
+Â
+k=1
+a(a −1)...(a −k + 1)
+k!
+(−µt)k
+!
+= p0 (1 −µt)a .
+(c) Déduire que µ 2 [−1,1[ et que p0 = (1 −µ)−a .
+La série entière Â pkzk converge pour z = 1, donc son rayon de convergence
+1
+|µ| ≥1.
+Donc |µ| 1. Supposons que µ = 1. Alors
+8t 2 ]−1,1[ : G(t) =
++•
+Â
+k=0
+pktk = p0 (1 −t)a .
+Comme G est continue en 1 alors
+1 = G(1) = lim
+t!1 p0 (1 −t)a =
+8
+>
+>
+>
+<
+>
+>
+>
+:
+0
+si a > 0.
++•
+si a < 0.
+ce qui est absurde. Donc µ 2 [−1,1[. De plus
+8t 2 ]−1,1[ : G(t) =
++•
+Â
+k=0
+pktk = p0 (1 −µt)a .
+et par continuité en 1
+1 = G(1) = lim
+t!1 p0 (1 −µt)a = p0 (1 −µ)a .
+On en déduit que p0 = (1 −µ)−a .
+(d) Montrer que G est deux fois dérivable en 1.
+On a
+8t 2 ]−1,1[ : G(t) =
++•
+Â
+k=0
+pktk = p0 (1 −µt)a .
+
+Concours Mathématiques et Physique
+Corrigé de l’épreuve de Mathématiques I
+Page 6 sur 12
+qui se prolonge par continuité au segment [−1,1] :
+8t 2 [−1,1] : G(t) =
++•
+Â
+k=0
+pktk = p0 (1 −µt)a .
+Donc G est deux fois dérivable en 1.
+(e) En déduire que X admet une espérance ﬁnie E(X) et une variance ﬁnie V (X) qu’on déter-
+minera.
+Comme G est deux fois dérivable en 1 alors X admet une espérance ﬁnie E(X) et une
+variance ﬁnie V (X) données par
+E(X) = G0 (1) et
+V (X) = E
+⇣
+X2⌘
+−E(X)2
+= E(X (X −1)) + E(X) −E(X)2
+= G00 (1) + G0 (1) −
+&
+G0 (1)
+'2 .
+D’autre part 8t 2 [−1,1]
+G0 (t) = −µp0a(1 −lt)a−1 = (µ + l) p0 (1 −µt)a−1 .
+G00 (t) = −µ(µ + l)(a −1) p0 (1 −µt)a−2 .
+Donc
+G0 (1) = (µ + l) p0 (1 −µ)a−1 = µ + l
+1 −µ .
+G00 (1) = −µ(µ + l)(a −1) p0 (1 −µ)a−2 = (µ + l)(2µ + l)
+(1 −µ)2
+.
+On en déduit que
+E(X) = µ + l
+1 −µ .
+V (X) = G00 (1) + G0 (1) −
+&
+G0 (1)
+'2
+= (µ + l)(2µ + l)
+(1 −µ)2
++ µ + l
+1 −µ −
+✓µ + l
+1 −µ
+◆2
+= (µ + l)(2µ + l) + (µ + l)(1 −µ) −(µ + l)2
+(1 −µ)2
+= (µ + l)(2µ + l + 1 −µ −µ −l)
+(1 −µ)2
+= (µ + l)
+(1 −µ)2.
+
+Concours Mathématiques et Physique
+Corrigé de l’épreuve de Mathématiques I
+Page 7 sur 12
+Problème
+Partie 1
+1. Montrer que g est continue, bornée et paire sur R.
+On pose f (x,t) = e−x2(1+t2)
+1+t2
+, (x,t) 2 R2.
+La fonction f est continue sur R2 et vériﬁe pour tout (x,t), 0 f (x,t) 
+1
+1+t2, or la fonction
+t 7!
+1
+1+t2 est continue et est intégrable sur R puisque f (t) ⇠
+±•
+1
+t2. Donc f est continue sur R.
+On a pour tout (x,t) 2 R2, 0 e−x2(1+t2)
+1+t2
+
+1
+1+t2 donc pour tout x 2 R,
+0 g(x) R +•
+0
+1
+1+t2 dt = M. Donc g est bornée sur R.
+Pour tout x 2 R, −x 2 R et g(−x) = R +•
+0
+e−(−x)2(1+t2)
+1+t2
+dt = g(x). Ainsi g est paire.
+2. Calculer g(0) et montrer que
+lim
+x7!+• g(x) = 0.
+On a d’une part, g(0) = R +•
+0
+1
+1+t2 dt = [arctant]+•
+0
+= p
+2 . D’autre part, pour tout réel x,
+0 g(x) = e−x2 R +•
+0
+e−x2t2
+1+t2 dt e−x2 R +•
+0
+dt
+1+t2 = p
+2 e−x2
+7!
+x7!+• 0.
+3. Montrer que g est de classe C1 sur ]0,+•[ et donner l’expression de sa dérivé en fonction de
+l’intégrale de Gauss I = R +•
+0
+e−t2dt.
+— Pour tout x > 0, t 7−! e−x2(1+t2)
+1+t2
+est intégrable sur R et pour tout t 2 R+, x 7−! e−x2(1+t2)
+1+t2
+est de classe C1 sur ]0,+•[ et on a pour tout (x,t) 2 R+⇥]0,+•[, ∂f
+∂x(x,t) = −2xe−x2(1+t2).
+— Pour tout x > 0, t 7−! −2xe−x2(1+t2) est continue par morceaux sur R+.
+— Soit [a,b] ⇢]0,+•[,
+444 ∂f
+∂x(x,t)
+444 = 2xe−x2(1+t2) 2be−a2t2 : intégrable sur R+.
+Donc g est de classe C1 sur ]0,+•[ et on a :
+g0(x) = −2xR +•
+0
+e−x2(1+t2)dt = −2xe−x2 R +•
+0
+e−x2t2dt =
+u=xt −2e−x2 R +•
+0
+e−u2 = −2Ie−x2.
+4. En déduire que
+8x 2 R, g(x) = p
+2 −2I
+Z |x|
+0
+e−u2du.
+On a pour tout x > 0, g0(x) = −2Ie−x2, donc g(x) = c −2I R x
+0 e−u2du, c 2 R.
+Comme g est continue en 0 et g(0) = p
+2 , alors c = p
+2 .
+D’où, pour tout réel positif x, g(x) = p
+2 −2I R x
+0 e−u2du.
+Par parité, on aura g(x) = p
+2 −2I R |x|
+0
+e−u2du, 8x 2 R.
+5. En déduire la valeur de I.
+La fonction u 7−! e−u2 est intégrable sur [0,+•[ et limx7!+• g(x) = 0, donc
+0 = limx7!+• g(x) = p
+2 −2I2. Ainsi, par positivité de I, on aura I =
+pp
+2 .
+6. La fonction g est elle dérivable en 0?
+La fonction g est continue sur R+ et dérivable sur ]0,+•[.
+De plus limx7!0+ g0(x) = −2I = −pp.
+
+Concours Mathématiques et Physique
+Corrigé de l’épreuve de Mathématiques I
+Page 8 sur 12
+De même, g est continue sur R−et, par parité, dérivable sur ] −•,0[ et sa dérivée vaut
+2Ie−x2. Donc limx7!0−g0(x) = 2I = pp.
+On conclut que g est dérivable à droite et à gauche en 0 et que g0
+d(0) = −pp et pp = g0
+g(0).
+La fonction g est donc non dérivable en 0.
+7. Tracer l’allure de la courbe de g dans un repère orthonormé.
+Partie 2
+1. Calculer un, n 2 N⇤.
+Pour tout n 2 N⇤, on a
+un = 1
+n
+R 1
+0
+t+n−n
+t+n dt = 1
+n
+R 1
+0
+&
+1 −
+n
+t+n
+'
+dt = 1
+n −ln(1 + 1
+n).
+2. Montrer que la série Ân≥1 un est convergente. On note g sa somme.
+On a un = 1
+n −ln(1 + 1
+n) = 1
+n −
+⇣
+1
+n −
+1
+2n2 + o( 1
+n2)
+⌘
+=
+1
+2n2 + o( 1
+n2).
+Comme Ân≥1
+1
+n2 converge, on aura la convergence de Ân≥1 un.
+3. Exprimer Ân
+k=1 uk en fonction de gn et déduire que limn7!+• gn = g.
+Ân
+k=1 uk = Ân
+k=1(1
+k −ln(1 + 1
+k)) = Ân
+k=1
+1
+k −Ân
+k=1(ln(k + 1) −ln(k)) = Ân
+k=1
+1
+k −ln(n + 1) =
+gn −ln(1 +
+1
+n).
+Donc (gn)n est convergente et sa limite est g.
+4. Montrer que 8k ≥2,
+1
+2k(k+1) uk 
+1
+2k(k−1).
+Soit k ≥2 et t 2 [0,1]. On a k t + k 1 + k )
+t
+k+1 
+t
+t+k t
+k.
+On intègre sur [0,1] et on multiple par 1
+k, on obtient
+1
+2k(k+1) uk 
+1
+2k2 
+1
+k(k−1).
+5. En déduire que pour tout entier non nul n,
+1
+2n+2 Â+•
+k=n+1 uk 1
+2n..
+Le deux séries Âk≥1
+1
+2k(k+1) et Âk≥2
+1
+k(k−1) sont convergentes et on a
+8k ≥2,
+1
+k(k + 1) = 1
+k −
+1
+k + 1
+et
+1
+k(k −1) =
+1
+k −1 −1
+k.
+Soit n ≥1 et N > n. On a ÂN
+k=n+1(1
+k −
+1
+k+1) =
+1
+n+1 −
+1
+N+1 et ÂN
+k=n+1(
+1
+k−1 −1
+k) = 1
+n −1
+N.
+On eﬀectue la somme de k = n + 1 à k = N dans l’encadrement de la question précédente,
+
+Concours Mathématiques et Physique
+Corrigé de l’épreuve de Mathématiques I
+Page 9 sur 12
+on obtient :
+1
+2(
+1
+n+1 −
+1
+N+1) ÂN
+k=n+1 uk 1
+2( 1
+n −1
+N).
+On fait tendre N vers +•, on aura :
+1
+2(n+1) Â+•
+k=1 uk 1
+2n.
+6. Montrer que pour tout n 2 N⇤, 0 g −Sn 
+1
+2n(n+1), où Sn = Ân
+k=1 uk +
+1
+2(n+1).
+On remplace Â+•
+k=n+1 uk par g −Ân
+k=1 uk et on retranche
+1
+2n+2, de l’encadrement de la ques-
+tion 5., on obtient :
+0 g −Ân
+k=1 uk −
+1
+2(n+1) 1
+2n −
+1
+2(n+1) =
+1
+2n(n+1).
+7. Déterminer un entier N 2 N⇤pour lequel SN est une valeur approchée de g à 10−3 près.
+Pour que SN réalise une approximation de g à 10−3 près, il suﬃt que
+1
+2N(N+1) 10−3 donc
+N(N + 1) ≥500. L’entier N = 22 convient.
+Partie 3
+1. Montrer que G est de classe C• sur R et exprimer ses dérivées successives sous forme intégrale.
+On pose F : R2 −! C (t,x) 7! e−t2e−itx.
+— la fonction F admet des dérivées partielles par rapport à x à tout ordre dont l’expres-
+sion est ∂nF
+∂xn (t,x) = (−it)nF(x,t).
+— Pour tout t 2 R,n 2 N, x 7! ∂nF
+∂xn (t,x) est continue sur R.
+— Pour tout x 2 R,n 2 N, t 7! ∂nF
+∂xn (t,x) est continue par morceaux sur R.
+— Pour tout n 2 N, (t,x) 2 R2,
+444 ∂nF
+∂xn (x,t)
+444 = |t|ne−t2 et t 7! |t|ne−t2 est continue par mor-
+ceaux et intégrable sur R car négligeable devant 1
+t2 au voisinage de ±•.
+Donc, G est de classe C• sur R et ses dérivées successives sont données par
+8n 2 N, 8x 2 R,
+G(n)(x) =
+Z +•
+−• (−it)ne−t2e−itxdt.
+2. Montrer que G satisfait une équation diﬀérentielle linéaire homogène d’ordre 1.
+Pour tout x 2 R,
+G0(x) = R +•
+−• −ite−t2e−itxdt =
+I.P.P.
+h
+i
+2e−t2e−itxi+•
+−• −1
+2
+R +•
+−• xe−t2e−itxdt = −x
+2G(x),
+puisque limx7!±• | i
+2e−t2e−itx| = limx7!±• 1
+2e−t2 = 0.
+3. Résoudre l’équation diﬀérentielle obtenue et déduire que G(x) = ppe−x2
+4 .
+La fonction G est solution, R de l’équation diﬀérentielle y0 = −x
+2y, dont la solution générale
+est y(x) = le−R x
+0
+t
+2dt = le−x2
+4 . Comme G(0) = R +•
+−• e−t2dt = 2R +•
+0
+e−t2dt = pp, d’après la
+première partie. On conclut que G(x) = ppe−x2
+4 .
+
+Concours Mathématiques et Physique
+Corrigé de l’épreuve de Mathématiques I
+Page 10 sur 12
+4. En développant G en série entière sur R, montrer que 8m 2 N, G(2m)(0) = pp (−1)m(2m)!
+m!4m
+.
+Le développement en série entière su R est donné par : G(x) = pp Â+•
+n=0
+(−1)nx2n
+4nn!
+.
+Donc 8m 2 N,
+G(2m)(0)
+(2m)!
+= pp (−1)m
+m!4m
+5.
+(a) Montrer que la fonction t 7! t2m(1 + t2
+n )−n est intégrable sur R si et seulement si n > m.
+La fonction t 7! t2m(1 + t2
+n )−n est continue par morceaux sur R pour tout n ≥1 et on
+a t2m(1 + t2
+n )−n
+⇠
+t7!±•
+1
+nn
+1
+t2n−2m. Cette dernière fonction est intégrable au voisinage de
+±• si, et seulement si, 2n −2m > 1.
+Donc t 7! t2m(1 + t2
+n )−n est intégrable sur R si et seulement si n > m.
+(b) Soit t 2 R ﬁxé. En étudiant les variations de gt : x 7! −xln
+⇣
+1 + t2
+x
+⌘
+sur [1,+•[, montrer que la
+suite
+⇣
+(1 + t2
+n )−n⌘
+n≥1 est décroissante.
+Soit t 2 R. La fonction gt est indéﬁniment dérivable sur [1,+•[ et on a :
+g0
+t(x) =
+t2
+x+t2 −ln(1 + t2
+x ) et g00
+t (x) =
+t4
+x(x+t2)2.
+Comme g00
+t ≥0 sur [1,+•[, donc g0
+t est croissante sur [1,+•[, de plus sa limite en +•
+est 0 donc elle est négative et par suite gt est décroissante sur [1,+•[.
+En particulier, pour tout entier non nul n, on a gt(n + 1) gt(n), donc egt(n+1) egt(n).
+La suite
+⇣
+(1 + t2
+n )−n⌘
+n≥1 est donc décroissante.
+(c) Montrer alors que limn7!+•
+R +•
+−• t2m(1 + t2
+n )−ndt =
+pp(2m)!
+m!4m
+.
+On énoncera avec précision le théorème du cours utilisé.
+La suite des fonctions continues par morceaux
+⇣
+t2m(1 + t2
+n )−n⌘
+n converge simplement
+sur R vers la fonction t 7! t2me−t2 qui est continue par morceaux.
+De plus pour tout entier n ≥m + 1, 0 t2m(1 + t2
+n )−n fm(t) = t2m(1 +
+t2
+m+1)−m−1.
+La fonction fm est continue par morceaux sur R et est intégrable au voisinage de ±•
+car équivalente à
+1
+(m+1)m+1
+1
+t2 au voisinage de ±•.
+D’après le théorème de la convergence dominée,
+limn7!+•
+R +•
+−• t2m(1 + t2
+n )−ndt = R +•
+−• t2me−t2dt = (−1)mG2m(0) = pp (2m)!
+m!4m .
+Énoncé T.C.D. : Soit ( fn)n≥n0 une suite des fonctions de I vers K. Si
+— Les fonctions fn sont continues par morceaux sur I.
+— La suite ( fn)n converge simplement sur I vers une fonction f continue par morceaux
+sur I.
+— Il existe une fonction f continue par morceaux et intégrable sur I et telle que
+8n ≥n0, | fn(t)| f(t), 8t 2 I.
+Alors f et fn sont intégrables et on a limn7!+•
+R
+I fn = R
+I f.
+6. Montrer que pour tout n > m ≥0,
+R +•
+−• t2m(1 + t2
+n )−ndt = nm+ 1
+2 Jn;m, où
+Jn;m =
+Z +•
+−•
+u2m
+(1 + u2)n du.
+
+Concours Mathématiques et Physique
+Corrigé de l’épreuve de Mathématiques I
+Page 11 sur 12
+On a R +•
+−• t2m(1 + t2
+n )−ndt
+=
+u=
+tpn
+nm+ 1
+2 R +•
+−• u2m(1 + u2)−m = nm+ 1
+2 Jn;m.
+7. Montrer que pour tout n > m ≥0, Jn+1;m = (1 −2m+1
+2n )Jn;m.
+Pour n > m ≥0, on a Jn+1;m −Jn;m = −R +•
+−•
+u2m+2
+(1+u2)n+1 du. On eﬀectue un intégration par par-
+ties dans la dernière intégrale en posant, X = u2m+1, Y0 =
+u
+(1+u2)n+1, on obtient :
+Jn+1;m −Jn;m =
+1
+2n
+u2m+1
+(1 + u2)n
+8+•
+−•
+|                    {z                    }
+=0
+−2m+1
+2n
+R •
+−•
+u2m
+(1+u2)n du = −2m+1
+2n Jn;m.
+8. Montrer que pour tout m 2 N⇤, Jm+1;m = 2m−1
+2m Jm;m−1.
+On eﬀectue une intégration par parties dans l’intégrale Jm+1;m = R +•
+−•
+u2m
+(1+u2)m+1 du, en po-
+sant X0 =
+u
+(1+u2)m+1 et Y = u2m−1, on obtient :
+Jm+1;m =
+1
+2m
+u2m−1
+(1 + u2)m
+8+•
+−•
+|                     {z                     }
+=0
++ 2m−1
+2m
+R •
+−•
+u2m−2
+(1+u2)m du = 2m−1
+2m Jm;m−1.
+9. En déduire une expression simpliﬁée de Jm+1;m, m 2 N, à l’aide des factorielles.
+Soit m 2 N, on a
+Jm+1;m = 2m−1
+2m Jm;m−1
+Jm;m−1 = 2m−3
+2m−2 Jm−1;m−2
+...
+J2;1 = 1
+2 J1;0.
+Donc Jm+1;m = (2m−1)(2m−3)···3·1
+2m(2m−2)···4·2
+J1;0 =
+(2m)!
+(2mm!)2 J1;0. Or J1;0 = R +•
+−•
+du
+1+u2 = p.
+D’où, Jm+1;m =
+(2m)!
+(2mm!)2 p.
+10. Montrer alors que pour tout n > m + 1,
+Z +•
+−• t2m(1 + t2
+n )−ndt = nm+ 1
+2 p(2m)!
+4m(m!)2
+n−1
+’
+k=m+1
+✓
+1 −2m + 1
+2k
+◆
+.
+Soit n > m + 1. Pour m ﬁxé, on réitère l’égalité de la question 8. de k = m + 1 jusqu’à k = n,
+Jn;m = (1 −2m+1
+2(n−1))Jn−1;m
+Jn−1;m = (1 −2m+1
+2(n−2))Jn−2;m
+...
+Jm+2;m = (1 −
+2m+1
+2(m+1))Jm+1;m.
+Par multiplication terme à terme, on obtient : Jn;m = Jm+1;m ’n−1
+k=m+1(1 −2m+1
+2k ).
+D’après la question précédente, on aura : Jn;m = p (2m)!
+(2mm!)2 ’n−1
+k=m+1(1 −2m+1
+2k ).
+La formule demandée découle de la question 6.
+
+Concours Mathématiques et Physique
+Corrigé de l’épreuve de Mathématiques I
+Page 12 sur 12
+11. Donner le développement en série entière de f (t) = ln(1 −t) et préciser l’intervalle de validité.
+ln(1 −t) = −Â+•
+n=1
+tn
+n , t 2] −1,1[.
+12. Montrer que pour tout m 2 N⇤,
+ln(p) = 2ln(m!) + (2m + 1)
+⇣
+g −
+m
+Â
+k=1
+1
+k
+⌘
++ 2
++•
+Â
+k=m+1
+•
+Â
+p=2
+(m + 1
+2)p
+pkp
+.
+Puisque limn7!+•
+R +•
+−• t2m(1 + t2
+n )−ndt =
+pp(2m)!
+m!4m
+; donc d’après les questions précédentes,
+on aura
+limn7!+•
+⇣
+nm+ 1
+2 ’n−1
+k=m+1(1 −2m+1
+2k )
+⌘
+=
+m!
+pp, donc, en appliquant le logarithme, on obtient :
+limn7!+•
+✓
+(2m + 1)lnn + 2Ân−1
+k=m+1 ln(1 −m+ 1
+2
+k )
+◆
+= 2lnm! −lnp.
+Or 8k ≥m + 1, ln(1 −m+ 1
+2
+k ) = −Â•
+p=1
+(m+ 1
+2)p
+pkp
+puisque m+ 1
+2
+k
+2]0,1[. D’où,
+2lnm! −lnp
+=
+lim
+n7!+•
+ 
+(2m + 1)lnn −2
+n−1
+Â
+k=m+1
+•
+Â
+p=1
+(m + 1
+2)p
+pkp
+!
+=
+lim
+n7!+•
+ 
+(2m + 1)lnn −2
+n−1
+Â
+k=m+1
+m + 1
+2
+k
+−2
+n−1
+Â
+k=m+1
+•
+Â
+p=2
+(m + 1
+2)p
+pkp
+!
+=
+lim
+n7!+•
+ 
+(2m + 1)
+ 
+m
+Â
+k=1
+1
+k −gn + 1
+n
+!
+−2
+n−1
+Â
+k=m+1
+•
+Â
+p=2
+(m + 1
+2)p
+pkp
+!
+=
+(2m + 1)(
+m
+Â
+k=1
+1
+k −g) −2
++•
+Â
+k=m+1
+•
+Â
+p=2
+(m + 1
+2)p
+pkp
+.
+13. Montrer que
+ln(p) = g +
+•
+Â
+p=2
+z(p)
+p2p−1 ,
+où z(s) =
+•
+Â
+n=1
+1
+ns , s > 1.
+L’égalité de la question 10. est valable pour m = 0, on obtient, en passant à la limite :
+pp = limn7!+•
+⇣pnp ’n−1
+k=1(1 −1
+2k)
+⌘
+, ce qui donne, lnp = g + 2Â+•
+k=1 Â•
+p=2
+1
+p2pkp.
+La famille
+⇣
+1
+p2pkp
+⌘
+k≥1,p≥2 est sommable puisque à termes positifs, la série
+Âk≥1
+1
+p2pkp =
+1
+p2p Âk≥1
+1
+kp est convergente (p ≥2), sa somme vaut z(p)
+p2p et la série Âp≥2
+z(p)
+p2p est
+convergente puisque 0 z(p)
+p2p z(2)
+p2p : terme général d’une série convergente.
+Ainsi, par permutation des sommes :
+lnp = g + 2Â+•
+p=2 Â•
+k=1
+1
+p2pkp = g + Â+•
+p=2
+1
+p2p−1 Â•
+k=1
+1
+kp = g + Â•
+p=2
+z(p)
+p2p−1.

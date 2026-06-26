@@ -1,0 +1,74 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Eluunzlere Cc IEnvignerent SUpCIcUI,
+4sal iuyanji
+qulel ÆYly (ldl 4lal 0ly JLil =lsul H,2)
+'kl Re-berhe Sciedtufque de Tecbplogies de 1'Ltormauou e&L CCOiCIuod
+Cononrs Natlonanr d'Entrée a1Y Cycks de Formatbn d'Ingelenr; Seslan 214
+JxuibjiaBi Znji djsj 2014601
+
+Concours Mathématiques et Physique Epreuve de Mathématiques I
+Date : Lundi 2 Juin 2014
+Heure : 8 H Durée : 4 heures Nb pages :
+Une grande importance sera attachée à la rigueur du raisonnement, à la clarté et au soin de la présentation. L'usage des calculatrices n'est pas autorisé Il est rappelé que tout résultat énoncé dans le terte peut être utilisé pour traiter la suite, même 5'il r'a pu être démontré N.B Le sujet comporte deux problèmes , totalement indépendants.
+Problème I
+Partie 1 Dans cette partie; on s'intéresse à calculer Vintégrale de Gauss définie par: Too 7t? = e dt.
+1 Justifier ]'existence de [
+~rt e
+2. Montrer que la fonction t
+est intégrable sur J0, + o[ si et seulement Vi(t + 1)
+si, I 2 0. On pose, alors,
+Loo
+rt e
+f(z) =
+dt , I 2 0 Vi(t + 1) 3. Montrer que f est continue Sur R+: 4 Montrer que f (0) = T. 5 Montrer que lim f(z) = 0 IF+o 6. Montrer que f est de classe €C1 sur R: et qu'elle vérifie Véquation différentielle
+
+O: y = y = _ Vz
+2 ~u € du. Vu
+où & =
+7 Résoudre Féquation différentielle (1) ( On donnera une solution particulière sous forme intégrale ) 8 . En déduire que :
+Fz > 0. € ~r f(z) = TT = Q
+dt .
+V" 9 Déterminer alors la valeur de @ e déduire que [ = 2
+Concours Mathématiques et Physique Session Juin 2014
+Epreuve de Mlathematiques
+Page l
+
+--- page 2 ---
+Partie II
+On pose
+Loo
+dx In ' n € N (r2 4 1)2+1 ' 1 Justifier l'existence de In et calculer Io.  2 Montrer que la suite ( In)nzo est décroissante et que lim In = 0 nl ' Foo 3. Montrer que la série E(-1)"Ir est convergente et calculer sa somme n20 4  Montrer que la série In est divergente. n20 5. Montrer que; pour tout entier n > 1, 2n In ~ LIn-1 2n 6 En déduire que, pour tout n € N (2n)! In 5 22n (n!)2 2 7. Montrer que; pour tout n € N +00 dt Vn + 1 In = (1 + n+i )n+1 2 8 Pour t > 0 fixé, étudier les variations de la fonction: I + ~ sln 1+2 sUr R+ et I déduire que t2 ~Tl ] 1 Vn € N; 1 + < n+1) 1 _ t2' 9 Montrer alors que: lim Vn +1 In = YI Tu +Loc 2 10. En déduire la formule de Wallis
+22n (nl)? 1 = lim nI + +o0 (2n)! Vn
+(2)
+Partie III
+On pose; pour tout entier non nul n, Un = (n + I)In(n) = n In(n') . 2 1 Montrer que : 1 Un Un= 1 Ti ' Loo 12n2 2 En déduire que la suite (un )nz1 est convergente. On note € sa limite 3 Montrer que n! e-{ nn _ 4e-n nA+o 4 En utilisant la formule de Wallis (2) , moutrer que { = 1 In(2z) 2 5 En déduire la formule de Stirling
+(3)
+n! ni"e-n V2Tnl. Fl +1oo
+Concours Mathématiques et Physique Session Juin 2014
+Épreuve de Mathématiques [
+Pag? 2 4
+
+--- page 3 ---
+6 En utilisant léquivalence clonnée par la formule (3), et en remarquant que 1 mnontrer que 72 " ,+o n = 1 7l
+In( v27) + Un ni ' +oo 12n 7 En déduire la formule asymptotique
+n! = n"e-nv2Tn 1 4 +0(4) 12n2 n
+Problème II
+Partie [
+On considère les fonctions
+< 71, = o(
+R +o 1 2 nI 7= [
+el
+F : R _ R
+si f = 0. eI 1 1 si 1 = 0.
+1
+1 . Montrer que Ç est de classe Co sur J1, + o[ et exprimer ses dérivées successIveS comme sommes de séries de fonctions. 2 Montrer que lim   ((x) = 1_ IFoo +00 3 (1n+2 est bien définie sur J0, + oo[ et que: Montrer que 0 I . + nr n =1 Vz > 1 0(r) = (1 -21-2) ç(z) 1 4 Montrer que la fonction z 5 'écrit, sur R. cornme somme dune série entière F(z) 5 En déduire que F est de classe C? sur R
+Partie II
+Pour tout k € N. on considère le k-ième nombre de Bernoulli défini par
+bk = F(*) (0) ,
+où F(k) dlésigue la dérivée dordre k de F, avec la convention F(O) = F 1 Vérifier que bo =1 et que b1 2 1 2 Montrer que la fonction G : 1 F , F(z) + I est paire sur R et déduire que 2 Fk € N' b2k+1 = 0 3. Soit n 4/ entier naturel supérieur ou égal à 2 En dérivant n-fois la formule Vz € R. (ez " 1)F(z) = U . mlontrer que
+nl
+C" bn-k = 0, où Cn kun = k)!
+Caleuler b2 et b4.
+Concours Mathomotiqques et Physique Session Juiu 201 !
+Épreuve de Mathematiquos
+Paso 3 |

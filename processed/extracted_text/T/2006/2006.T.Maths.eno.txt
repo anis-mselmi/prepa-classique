@@ -1,0 +1,33 @@
+--- page 1 ---
+REPUBLIQUE TUNISENNE Ministère de [Enseignement Supérieur Concours nationaux dentrée aur cycles de formation d'ingénieurs Session 2006
+18sH1 {i2s4sd!  bkWlêsts dsis uibsi eLaii imanias ixssulc r 2006 39 Gon Concours Technologie   Epreuve de Mathématiques  Jnatlfe? d0, sfudes;< Prvpororgire d0 Cociquf8  fex biblio(hequi 
+Durée : 4 H
+Date : 5 Juin 2006
+Heure : 8 H
+Nb pages : 4
+Barème :
+Exercice : 5 pts.
+Problème ( I : 5 pts. II : 5 pts. III : 5 pts.
+Une grande importance sera attachée à la rigueur du raisonnement; à la clarté et au soin de la présentation. L'usage des calculatrices n'est pas autorisé Il est rappelé que tout résultat énoncé dans le texte peut être utilisé pour traiter la suite, même s'il n'a pu être démontré.
+I 1 2 1 8 81483thccue Arrivé le Al6 /08
+Exercice
+Pour tout ne Z, on définit les applications   In 2 R >R par c2r V reR cos(nt)e rcos(t) In(r) = dt J0
+1/ Montrer que pour tout   n € Z, In est de classe C 0 sur R et que pour tout r €R, c2I In'(r) = cos(nt) cos(t)ercos(t) dt et 2r 2/ En intégrant deux fois par parties cos(nt)sin 2 (t)e rcos(t) dt déduire de la question Jo précédente que In est solution sur J;+œ[ de léquation différentielle Sfax IPEI y"(r)+/W2_ 7? +I)y(r) = 0 (1) r 2 111300000065 3/ En utilisant la définition de In (r) montrer que pour tout ne Z, on a : 1c r k V reR , In(r) = 2 ( @ cos(nt )(cos(t)) * dt) _ k=0 k!
+
+--- page 2 ---
+4/ On suppose que neN_
+c2I a) Montrer que si 0 <k < n alors Jo cos(nt )(cos(t)) * dt = 0 c21 b) Calculer; pour   k 2 n , cos(nt )(cos(t)) * dt_ J0 +co (r/2) n+2p c) En déduire que VneN ,V r € R In(r) = 27 p=0 p'(n+ p)! 5/ Montrer que   In(r) > 0 pour tout r > 0 et  pour tout n ez
+6/ a) Montrer que r = In(r) J dt est une solution de léquation ( 1 ) t(In(t))2 b) En déduire que toute solution sur Jo;+o[ de ( 1 ) est de la forme
+y(r) = In (r)  œ + B dt où Q et B sont deux constantes réelles. t(In (t))2 c) Trouver toutes les solutions de ( 1 ) sur   Jo;+o[ qui sont prolongeables par continuité en 0 +
+Problème
+Dans ce problème E =R[x] désigne Fespace vectoriel des polynômes à coefficients réels et désigne Papplication définie sur E par A(P)(X) = P(X +1) - P(X)
+Partie [
+Pour tout   entier naturel n
+on note En le sous espace vectoriel de E constitué  des polynômes de degré inférieur ou égal à n. On désigne par B=(ek )osksn la base canonique de En où ek =xXk 0<k <n. On considère   (hk )kzo la famille de polynômes définie par ho =1 et hx = X(X-I)-(X -k +l) , pour   k 21. 1/ a) Montrer que est un endomorphisme de E b) Déterminer le noyau de 4 c) Déterminer l'image de 2/ Expliciter   A(hk ) pour tout entier  k 3/ Soit n un entier naturel. a) Montrer que B =(hk )ozkzn est une base de En ' b) Montrer que En est stable par 4 4/ On désigne  par 6   Vendomorphisme induit par A sur En a) Déterminer la matrice A de 6 dans la base B b) On définit par récurrence sur lentier p 1endomorphisme 5P par
+2
+
+--- page 3 ---
+0 @ = IdEn et pour tout entier p 2 0 9P+l = 9P 0 (   Montrer que si p e {L,n} alors   6P (En) cEn-p  , c) Montrer   que pour tous entiers naturels p et k on a : 0 , si p > k pP (hk) = k(k ~1_ (k - p +I)hk-p , si k z p  d) Déterminer An puis An+] 5/ Soit P un polynôme dans   En et (a0,01, @n ) ses composantes dans la base B @* (P)6o) k Montrer que @k = k! Application Déterminer le polynôme P dans E3 tel que P(O) = 7 P(I) = 21 P(2) = 29 P(3) = 25
+Partie II
+1/ On considère un polynôme P € E de degré p 2 0 et de coefficient dominant 0 p a) Montrer qu'il existe un unique polynôme Qe E vérifiant i) Q'=P ; ii) [ %)dt = 20 On précisera le degré et le coefficient dominant de Q en fonction de p et de 0 p b) En déduire qu'on peut définir par récurrence la suite de polynômes (Bn)neN par : i1) Bo =1 ; i2) Vn21, B' n =nBn-1 3 i3) Vn 21, J Bn(t)dt = 0 c) Déterminer pour n € N le degré et le coefficient dominant du polynôme Bn Les polynômes Bn s? 'appellent les polynômes de Bernouilli. On définit ensuite les nombres de Bernouilli par pour tout neN_ bn = Bn (0) 2/ a) Montrer que pour tout n€ N Bn(X) = Ec"bn-kXk k=0 b) Expliciter B1 B2 B3 et B4 , ainsi que les nombres b1 b2 b3 et b4 3/ Montrer par récurrence que pour tout neN Bn(X) = (~1)" Bn (1 - X)- 4/a) Montrer par récurrence que pour tout   n€ N , Bn(X) = 2"-1| Bn 64x)+B,(2(X+1] b) Montrer que pour tout   p€N B2p+(4) = 0 c) En déduire que pour tout p € N* bzp+l =0 d) Montrer que pour tout n2 2 Bn (1) = Bn (0)
+3

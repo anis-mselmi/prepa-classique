@@ -1,0 +1,126 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE
+4aj)s2suji "kueibats gLs1 Jsial Gibji a1 jLLiji bnndiel jxs Jal>u 2016 6,>
+Ministère de /Enseigncment Supérieur ct de la Recherche Scicntifique
+Concours Nationaux d'Entrée aux Cycles de Formation dIngénieurs Session 2016
+Concours Mathématiques et Physique Corrigé de lépreuve de Physique
+Problème 1 (5pts) LEtude d'un doublet (12 Spts) p=qNP = 2aqu, Lunité en SI est le coulomb-mètre (C.m). =92 +r2 +2arcos0 ~ r2 + 2ar cos0 V(M) = 9(-1+4) ; ATeo Y =a +r2 ~ 2ar cos 0 ~r? _2ar cos0 ~4l~%cose) Y; + 2ar 'cos0]2 41+%cose| |v(M) = Pcos € Y2 Ir2 _ 2ar cos0 ATE0' ~Oz axe Sym. Translation E=E(r,0) . -(Oz,M) plan de symétrie E(M) = E, (r,0)u, + E;(r,0)4 E= MVur 1v soit : E = 2pcosP ur + psin 0 gradV 2 #r (0 70' "0 r ATeor Ateor 2cos0 EaAde = 0 Ln r = 2Lnlsinel , soit = Yo sin sin0 rd0 Equation des surfaces équipotentielles V =Cte r = Y Vlcos0
+1 0,5
+1 .
+2
+2
+0,5
+3
+4
+5
+W =
+ATEoa R= Fv +Fr =-q00 +ql R=0
+6.1
+Le dipôle est donc soumis à un couple de force. 4i = ON^FN +OP^ Fv =-q(ON ~OPAEo K,o = p A ù Ep =-qVw +qVp =9(Vp -Vs) = -af E, . d soit E =-pEo dE2 9 =0 = énergie minimale, donc stable = pEo sin + = 0 = dy (v = 7 = énergie maximale, donc instable
+0,5
+6.2
+
+6.3
+6.4
+Corrigé concours MP 2016
+Epreuve de physique
+Page 1/6
+
+--- page 2 ---
+Etude de la molécule de dioxyde de_carbone en régime statiquc(lOSpts) We = Lav = Z(qV +q2Vz +q,v;) = E4(V -2V,+V;) 2 2 2
+2
+79 2 9 29 3q 29 V =V; = - + 2= Vz = W = Cest 8Teoa ATeoa 8teoa ATEoa 8TEoa une_énergie attractive assurant la cohésion de la molécule W =-2,7 eV
+7.1
+0.5
+7.2
+8.1
+p(CO2) = P;+ pp = qa ].~qa 4, =0 (P qa 4: p =~qa 4z) H2O, HCl et NH, ont un moment dipolaire non nul puisque leurs centres de gravité_des charges positives et négatives ne coïncident pas. V(M) 9 2 = 1 4T€0 Yz 3qa ~3q'a? Er = (1-3cos? 0) Ep = sin 20 ATeo' ATEo' *  0 = 1 9 2 V(M) = 2 4T€o Vrz +a2 Vr? +a? V(M)~-9 2 V(M) = q4' 4TE0 2r2 ATz or Interaction de la molécule COz avec une onde électromagnétique (6Spts) W(x,t) = Eoe kx e'(u '~kx)1, [B] = L-' (B est l'inverse d'une longueur) . I ~ (Ese *)? ~ E} e ~2k2X = Ioe ~Pox soit 80 2k2 k, = n" =8 2n2w soit : 80 2
+8.2
+15
+9
+1
+10.1
+2
+10.2
+0,5
+11.
+12.1
+0.5
+1
+12.2
+0,5
+10 I = Ie -nl  soit : 80 10
+Logl0 L
+12.3
+AN : 80 = 2,3.10 m
+1,5
+8 kz = = 1,15 10-1 m 2
+c8 X8 nz " = = 7,9 10-1 2w 4T
+1
+12.4
+IV- Leffet de Serre
+IV-L. 13.
+Equilibre radiatif de la Terre sans atmosphère (8 Spts) Un corps noir est un corps qui absorbe 1 'intégralité   du rayonnement électromagnétique qu'il reçoit; Ps =oT où 0 est la constante de Stefan.
+14.
+4
+La puissance émise par le soleil est Ps = oTs x 4nRs
+15.1
+Ps Po ATd2
+AN|Ps 3,867.102 W
+1+l
+Corrigé concours MP 2016
+Epreuve de physique
+Page 2/6
+
+--- page 3 ---
+Ps TR? Ps 4Td2 4TRZ
+Ps = P2 Ps AN Ps 342W.m-2 167d2 4
+15.2
+1+0 5
+soit Ps 4s = oTf Tt A.N Tt 278, 6K Comparée à la réalité, cette valeur de Tr est trop basse
+1
+15.3
++0.5
+0.5
+IV-2.
+Modèle parfait de leffet de serre atmosphérique (Spts) Bilan radiatif pour ]atmosphère PT = oT; = 297 = 2oT4 Bilan radiatif pour la terre Ps +oT: = oT;
+1
+1
+16.1
+Ps T = 0
+278,6K
+Tr = (2)4T, = 331,3K
+1+1
+Comparée_à la réalité_cette valeur de Tr est trop élevée Ps; (1 0, 225)4s AN Ps; 265W.m On refait le même bilan radiatif avec le nouveau flux surfacique @s,
+0.5
+16.2
+16.3
+4s
+T
+=
+261,5K
+Tr = (2)4 T, =31K
+1+l
+On constate une nette   amélioration de la valeur de Tr Modèle plus réaliste de Veffet de serre atmosphérique (Z Spts) Equations traduisant les équilibres radiatifs ~Pour la terre (I ~ 9)Ps; + EoTA = oTf (1) Pour latmosphère Q4s +eoTf = 2eoT   (2) car 8 = € .
+0.5
+IV-3.
+1
+17.
+Tt
+Ps; ~(2-:( A.N T, = 287,4K
+1+0, 5
+Ie+1-0) Ta = € 2 -E
+Ps
+AN 1  253,6K
+2+0, 5
+La valeur de la température Tr est très proche de la valeur réelle, ce qui confirme la validité du modèle utilisé. PT = oT; AN PT 390W.m
+0,5
+18
+0.5+ 0.5 Variation de la température de la terre en fonction de la concentration de COz_ (LSpts) Le gaz CO2 absorbe une partie du rayonnement infrarouge qu'il reçoit de la terre. Par ailleurs une fraction de ce rayonnement   absorbée est 0,5 renvoyée_vers la terre doù lappellation de gaz à effet de serre. IAT 0,53K 0.5 AT = 1,6K 0,5
+I[V-4.
+19.
+20.1
+20.2
+Corrigé concours MP 2016
+Epreuve de physique
+Page 3/6

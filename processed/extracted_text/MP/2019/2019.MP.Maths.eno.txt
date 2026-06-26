@@ -1,0 +1,63 @@
+--- page 1 ---
+République Tunisienne Ministère de PEnseignement Supérieur et de la Recherche Scientifique Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs Session 2019
+4j2 9 42 {2*u?)govpe Guajega Lijubji @1blJji 0iJi 0485 12l> ) 2019 *9'
+Concours Physique et Chimie Epreuve de Mathématiques
+Date: Lundi 10 juin 2019 Heure: 8H Durée 4H Nbre de pages : 4 Barème Problème 1 : 9 points Problème 2 1l points
+La qualité de la rédaction et de la présentation; la clarté et la précision des raisonnements entreront pour une part importante dans Fappré- ciation des copies. Lusage des calculatrices n'est pas autorisé. Tout résultat fourni dans lénoncé peut être admis et utilisé par la suite, même s'il n'a pas été démontré.
+Problème 1
+Partie I :
+Pour tout entier naturel n, on pose un = ~JIn(t) t"at et 1 = J I()dt:. t2 1 1. Justifier lexistence de I. 2. Soit g la fonction définie sur ]0,1 [ par 8 (t) = {In (4 . Montrer que 8 se prolonge par continuité sur 1 _ t2 [0,1] et qu'il existe M > 0 tel que |g(t)| < M; pour tout t ej0,1[ 3 En déduire que pour tout entier naturel n, on a 
+M 2n + 2'
+U2k k=0
+n
++0
+1
+4. Calculer un en fonction de n et en déduire que =L k=0 (2k + 1)2
+Partie II
++0
+Soit H la fonction définie pour x > 1 par H(x) =M1 On considère la fonction F définie par n=1 nx
++0 arctan (I2 F (x) = dt. (1 + t2)
+On rappelle que pour tout réel t > 0, on a : arctan (t) + arctan (2) =z 1. Justifier que F est définie et continue sur R et calculer F (1) 2 Montrer que F est de classe Cl sur ]0,+%[ et que pour tout réel x > 0 tel que x # 1 on a :
+1
++0
+t
+F' (x) = 1 - x2 Jo
+dt. t2 + x2 1+t2
+
+--- page 2 ---
+Concours Pbysique et Chimie
+Epreuve de Mathématiques
+Page 2 sur 4
+3 En déduire que, pour tout réel y €J0,1[ on a : F() = J' J(xdz x2 _ 1 Tt2 +0 1 4 En déduire que I = et conclure que 8 n2 6 n=1
+5 Décomposer en éléments simples la fraction rationnelle R = X(X+1)5 +0 1 Tt2 6 En déduire que =2 n(n+1)2 6 n=1
+Partie III Soit (@, T ,P) un espace probabilisé, ^ € Rt et (X,Y) un couple de variables aléatoires sur Q x Q à valeurs dans N* x N, vérifiant pour tout (n,k) € N* x N,
+1
+P(X=n,Y =k) = (n+1)745' 1 1 Calculer pour n € N* , P (X =n) et en déduire que ^ = 2 = 4 2 Justifier que X admet une espérance E (X) et Calculer E (X) _  ` s 3. Justifier que X nadmet pas de variance. 1 [ 4 Calculer pour k € N, P(Y =k) en fonction de H (k +3) _ +o 5 En déduire que E(H(k) = 1) = 1. k=2 +0 ( 2 6 Montrer que lim 2 =l X-++0 n=2 n 7 En déduire un équivalent de la suite de terme général v = P(Y = k), quand k - +0. 8 Montrer que Y admet une espérance et une variance
+Problème 2
+Pour n € N, n > 2, on note Mn(R) Yespace vectoriel réel des matrices carrées dordre n et In sa matrice identité. Pour A € Mn (R), det(A) le déterminant de A, 'A : la transposée de A et Tr (A) la trace de A. Pour tout réel ^ et toute matrice A € Mn(R), Ex (A) = ker ( A AIn) _ GLn(R) = {A € Mn(R)/ det( A) +0} - Sn(R) = {A € Mn (R)/ #A = A} et An(R) = {Ae Mn(R)/ #A= -A} On(R) = {A€ Mn(R)/ tAA = In} et SOn(R) = {A€ On(R)/ det(A) = 1} SLn(R) = {A€ Mn(R)/ det(A) = 1} Une matrice diagonale, dont les valeurs diagonales sont 41, À2, - An, est notée diag (A1, À2, v   An) R" est muni de la norme euclidienne associée au produit scalaire usuel () -
+
+--- page 3 ---
+Concours_Physique et Chimie
+Epreuve de Mathématiques
+Page 3 gur 4
+On admet les deux résultats suivants Vinégalité arithmético-géométrique Soit X1, X2, Xn' n réels strictement positifs. Alors X1 + X2 + + Xn X1X2 Xn n
+De plus, ily & égalité si et seulement si x1 = X2 = = Xn. Linégalité de Hadamard Soit A € GLn(R) et X1, Xz, - Xn les vecteurs colonnes de A. Alors
+Idet(A)| < IlX1 IlIl Xz /l Ilxn Il'
+(**) -
+De plus, il y a égalité, si et seulement si, la famille (X1, Xz, - ,Xn) est orthogonale.
+Partie I.
+2 1. Montrer que si A = (aij)isijsn € Mn(R) alors Tr('AA) = (aij) es I<i,j<n  2 cos0 sin0 2. Pour 0 € R, on note Re =: Justifier que SO2(R) = {Re ; 0 € R}   sin0 cos0 3 Soient 01 et 02 deux réels. Calculer le produit R0 [ Rez' e En déduire que, pour tout entier naturel k et 0 € R, on a : (Rp)k = Rke.
+Partie II On considère lapplication : f : SLn(R) =+ R AF + Tr('AA) . 1. Dans cette question; on suppose que n = 2
+7 
+a
+b
+(a) Soit A =
+€ SL2(R) Vérifier que 2ad < 02 + d2 et ~2bc < b2 + c2 et en déduire que
+3. . 
+f(A) € [2,+0[ (b) Montrer que f (A) = 2, si et seulement si, A € SO2(R) 1
+1 X
+(c) En utilisant la matrice Mx = 0 1
+x € R,justifier que Imf = [2,+0[
+2 Dans cette question, on suppose que n 2 2 Soit A € SLn(R) et X1, Xz, . .  ,Xn les vecteurs colonnes de A.
+(a) Vérifier que : f (A) = Zllxill? . i=l
+(b) En utilisant linégalité de Hadamard (**), montrer que 1 < #ux;? (c) En déduire, par Yinégalité arithmético-géométrique (*) , que f(A) 2 n. Conclure que Imf € [n,+o[ (d) Montrer que si f(A) = n, alors la famille {X1 Xz, '    Xn} est orthonormale. (e) Conclure que f-~1({n}) = SOn(R). (f) Montrer que Imf = [n,+o[

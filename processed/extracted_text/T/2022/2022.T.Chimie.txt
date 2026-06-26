@@ -1,0 +1,2052 @@
+Page 1 sur 3 
+ 
+DOCUMENT ANNEXE 
+ 
+ 
+ 
+ 
+Magnésium 
+Le magnésium doit son nom à la ville grecque de Magnesia. Cet élément existe en grande 
+partie dans les profondeurs du manteau terrestre, mais on le trouve également dans l'eau de 
+mer et dans de nombreux minéraux de la croûte terrestre.  
+Le magnésium a de nombreuses applications importantes. Les alliages de 
+magnésium sont non seulement solides, mais aussi légers, et sont donc 
+utilisés dans toute une série d'objets, des roues de voiture aux appareils 
+photo.  
+ 
+ 
+Depuis des siècles, de nombreux minéraux de magnésium d'origine naturelle sont utilisés dans 
+la médecine traditionnelle. Le carbonate de magnésium, ou magnésie, réagit avec l'acide de 
+l'estomac pour calmer les indigestions. 
+Le chauffage de la magnésie produit de l'oxyde de magnésium, qui est l'un 
+des ingrédients du ciment 
+Les composés de magnésium sont également utilisés dans les feux 
+d'artifice, et ils brûlent à chaud avec une flamme blanche.  
+Les sels composés de magnésium, appelés sels d'Epsom, du nom de 
+l'endroit en Angleterre où ils ont été exploités pour la première fois, agissent comme un 
+relaxant musculaire. Le silicate de magnésium, connu sous le nom de talc, est un minéral mou 
+utilisé dans les poudres corporelles. 
+Concours Technologique 
+
+ 
+Page 2 sur 3 
+Épreuve de chimie section T 
+Année : 2021-2022 
+Notations et données numériques 
+États des constituants physicochimiques : 
+(sd) solide ; (liq) liquide ; (g) gazeux 
+Lorsque aucune mention n'est spécifiée, les ions sont supposés implicitement en solution aqueuse. 
+Notations :  
+• xi : la fraction molaire de « i » dans la phase liquide. 
+• yi : la fraction molaire de « i » en phase vapeur. 
+• 
+ip
+σ  : pression de vapeur saturante de « i ». 
+• 
+i
+ϕ
+µ  : potentiel chimique du constituant « i » dans la phase φ. 
+• L’exposant * signifie corps pur. 
+• L’exposant  signifie standard. 
+• ESH : électrode standard à hydrogène. 
+Constantes physiques : 
+• Constante des gaz parfaits : R = 8,314 J.mol-1.K-1. 
+• Constante d'Avogadro : NA = 6,02×1023 mol-1. 
+• Constante de Faraday : F = 96485 C.mol-1. 
+• Pression standard : p 
+1
+.
+bar
+=
+ 
+• Pression atmosphérique : 
+1
+1
+.
+p
+atm
+bar
+=
+≈
+ 
+• Concentration standard : C 
+1
+1
+.
+.
+mol L−
+=
+ 
+Données numériques : 
+• Le numéro atomique du magnésium est Z=12. 
+• Les masses atomiques en (g.mol-1) : Mg = 24,31 ; Cu = 63,55. 
+• Capacités calorifiques molaires standard supposées indépendantes de la température : 
+p
+C
+(
+)
+1
+1
+.
+.
+J K
+mol
+−
+−
+ 
+Mg(sd) =24,87; Mg(liq) = 30,96; Mg(vap) = 20,8. 
+ 
+• Point de fusion du magnésium : 650°C. 
+• Point d’ébullition du magnésium : 1090°C. 
+• Enthalpie molaire standard de fusion :
+fus
+m
+H
+∆
+(
+)
+1
+,
+8,954
+.
+Mg sd
+kJ mol −
+=
+. 
+• Enthalpie molaire standard de vaporisation :
+vap
+m
+H
+∆
+(
+)
+1
+,
+127,4
+.
+Mg liq
+kJ mol −
+=
+. 
+ 
+ 
+Conversion :  
+• 
+(
+)
+(
+)
+273
+T K
+C
+= θ °
++
+ 
+ 
+On suppose que  
+• Les gaz sont parfaits. 
+• Les enthalpies de changements d’état sont supposées indépendantes de la température. 
+ 
+ 
+ 
+ 
+
+ 
+Page 3 sur 3 
+Épreuve de chimie section T 
+Année : 2021-2022 
+ 
+Diagramme d’équilibre solide-liquide 
+ 
+ 
+ 
+FIGURE 1 
+ 
+ 
+
+Session Juin 2022 
+Page 1 sur 8 
+CONSIGNES 
+• Cette épreuve comporte un document réponses (8 pages) et un document annexe (3 
+pages). 
+• Il faut rendre seulement le document réponses. 
+• Tout résultat doit être écrit dans les cadres adéquats. 
+• L'usage des calculatrices électroniques de poche non programmables est autorisé. 
+• Aucun échange entre les candidats n'est autorisé. 
+• Tout calcul doit être précédé d’une expression littérale.  
+• Les résultats numériques sans unité ou avec une unité fausse ne seront pas comptabilisés. 
+• En cas de besoin utiliser la page vide en fin de cahier. Dans ce cas, il faut le signaler 
+dans la case allouée à la réponse remise en fin de cahier. 
+• Ne joindre aucun brouillon.  
+• Si au cours de l’épreuve, un candidat repère ce qui lui semble être une erreur d’énoncé, 
+il la signale sur sa copie et poursuit sa composition en indiquant les raisons des 
+initiatives qu’il est amené à prendre. 
+ 
+ 
+ 
+ 
+ 
+ 
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 8 PAGES NUMEROTÉES 
+1 sur 8, 2 sur 8, …, 8 sur 8. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(DOCUMENT RÉPONSES) 
+ 
+ 
+ 
+ 
+ 
+Concours Technologique 
+
+ 
+Page 2 sur 8 
+Épreuve de chimie section T 
+Année : 2021-2022 
+Problème : étude des propriétés physiques des éléments chimiques 
+Dans le tableau périodique des éléments chimiques, les propriétés de ces éléments varient selon des tendances 
+périodiques.  
+1) Compléter le tableau ci-dessous en indiquant si la propriété (augmente ou diminue) lorsque le numéro 
+atomique augmente dans une période. 
+Propriété 
+Variation 
+Électronégativité 
+ 
+Énergie d’ionisation 
+ 
+Rayon atomique 
+ 
+2) Chacune des lettres suivantes correspondent à un élément du tableau périodique. 
+ 
+2-a) Identifier la famille qui regroupe les éléments suivants : 
+A et B :  
+D et E :  
+T et R :  
+ 
+2-b) Identifier le(s) élément(s) qui sont de bons conducteurs, malléables, ductiles et ont un point de 
+fusion élevé (variables). Justifier la réponse. 
+ 
+2-c) Identifier le(s) élément(s) qui sont cassants, non malléables et ont des points de fusion et 
+d'ébullition très élevés.  Justifier la réponse. 
+ 
+2-d) Identifier le(s) élément(s) qui ne conduisent pas l'électricité à l'état solide ou liquide et ont une 
+faible dureté mécanique et un faible point de fusion.  Justifier la réponse. 
+ 
+2-e) Classer les éléments (cristaux) A, L et Z par point de fusion croissante.  
+ 
+
+ 
+Page 3 sur 8 
+Épreuve de chimie section T 
+Année : 2021-2022 
+2-f) Quels sont parmi A, D, Q, T et R, les pairs d’éléments susceptibles de donner des cristaux ioniques 
+de formule MX ?  
+ 
+2-g) Quels sont parmi les éléments suivants A, B, D, E ceux qui sont plus susceptibles de donner des 
+oxydes ioniques de formule chimique M2O ? 
+  
+Problème : corps pur 
+1) Soit n moles d’un corps pur dans un état physique donné.  
+1-a) Donner l’expression de définition de la capacité calorifique molaire d’un corps pur à pression 
+constante 
+*
+p
+C . 
+ 
+1-b) Qu’appelle-t-on la quantité de chaleur nécessaire pour faire passer une mole d’un corps pur d’un 
+état physique à un autre. 
+ 
+2) Le graphique ci-contre représente l’allure de la 
+courbe 
+d’analyse 
+thermique 
+obtenue 
+expérimentalement après chauffage du magnésium 
+solide sous la pression 1 bar. 
+2-a) 
+Que 
+représentent 
+les 
+températures 
+symbolisées par (i) et (ii) sur la figure ci-contre.  
+(i)  
+ 
+(ii)  
+2-b) Quelle est la valeur de chacune de ces 
+températures ? 
+(i)  
+ 
+(ii)  
+2-c) Préciser les phases en présence sur les tronçons (b) et (d) de la courbe. 
+(b)  
+ 
+(d)  
+
+ 
+Page 4 sur 8 
+Épreuve de chimie section T 
+Année : 2021-2022 
+2-d) Que s’est-il passé à l’état microscopique pour que la température augmente au début de 
+l’expérience puis après un certain temps elle demeure constante sur tout le palier IJ ?  
+ 
+2-e) Qu’appelle-t-on le potentiel chimique du magnésium relatif au tronçon : 
+(a) :  
+ 
+(e) :  
+2-f) Quelle relation doit vérifier les potentiels chimiques du magnésium sur chacun des paliers IJ et 
+KL ? 
+Sur le palier IJ,  
+ 
+Sur le palier KL,  
+2-g) À partir de la courbe d’analyse thermique (page 3), Quelles sont les informations qui pourront 
+être utiles si nous souhaitons tracer le diagramme des phases p = f(θ) du magnésium pur ?  
+ 
+2-h) Donner l’expression puis calculer la quantité de chaleur nécessaire pour transformer 0,5 mol de 
+magnésium de l’état solide à l’état vapeur, sur l’intervalle de température [25-1100] °C et sous la 
+pression de 1 bar. 
+ 
+Problème : équilibre liquide-vapeur 
+Les températures et les enthalpies molaires standards de vaporisation du calcium liquide et du magnésium 
+liquide sont : 
+  
+vap
+θ
+ 
+vap
+m
+H
+∆
+ 
+Unité 
+°C 
+kJ.mol-1 
+Mg 
+1090 
+127,4 
+Ca 
+1484 
+153,6 
+Considérons un mélange Mg-Ca liquide idéal, à l’équilibre avec leur phase vapeur supposée parfaite à la 
+température 1350°C et sous une pression p = 1 bar. 
+
+ 
+Page 5 sur 8 
+Épreuve de chimie section T 
+Année : 2021-2022 
+Établir l’expression puis calculer la composition à l’équilibre de : 
+1) la phase liquide xCa. 
+ 
+ 
+ 
+2) La phase vapeur yCa . 
+ 
+ 
+Problème : étude du binaire Cuivre Magnésium 
+Le diagramme de cristallisation du binaire cuivre (Cu) – magnésium (Mg), sous une pression de 1 bar, donné 
+sur la figure 1 du document annexe, montre l’existence de deux composés définis. 
+1) Donner la fraction massique (pondérale)
+Mg
+w
+ de chacun de ces deux composés définis. 
+Pour le composé défini C1 :  
+Pour le composé défini C2 :  
+
+ 
+Page 6 sur 8 
+Épreuve de chimie section T 
+Année : 2021-2022 
+2) Déterminer la valeur de la fraction molaire 
+Mg
+x
+ pour le composé défini C1. 
+ 
+3) Déduire la formule de ce composé solide. 
+ 
+4) Indiquer la nature de sa fusion. 
+ 
+5) Donner la nature des phases dans les domaines numérotés de (I) à (III) sur la figure 1. 
+ 
+6) Écrire l’équation de la transformation qui a lieu à la température 762 K. 
+ 
+7) Donner le nom de cette transformation. 
+ 
+8) On refroidit 60 g d’un mélange liquide contenant 85% massique de Mg de 950 K jusqu’à 800 K. 
+8-a) Préciser la température de début de solidification de ce mélange. 
+ 
+8-b) Déterminer la nature et les masses des phases présentes à 800 K. 
+ 
+ 
+ 
+
+ 
+Page 7 sur 8 
+Épreuve de chimie section T 
+Année : 2021-2022 
+9) On introduit dans une enceinte maintenue à une température de 700 K, un solide dont la fraction pondérale 
+en Mg est égale 0,68 puis on chauffe le mélange jusqu’à la température de 950 K. Donner l’allure de la courbe 
+d’analyse thermique. Préciser les températures des accidents thermiques. 
+ 
+ 
+Problème : cristallographie 
+Le solide C1 cité dans le problème précédent, cristallise dans un système cubique de paramètre a = 703,01 pm.  
+• Les atomes de magnésium ont une structure identique à celle du carbone diamant. 
+• Les sites tétraédriques qui ne sont pas occupés par les atomes de Mg sont occupé par un assemblage 
+d’atomes Cu4 (4 atomes de cuivre tangents assemblés en tétraèdre).  
+1) Représenter le contenu de la maille ci-dessous. On symbolise le centre de gravité du tétraèdre formé par les 
+quatre atomes de cuivre par un triangle et les atomes de magnésium par un cercle. 
+ 
+2) Quel est l’axe de symétrie de plus haut ordre caractérisant cette structure. Donner sa position. 
+ 
+3) En se limitant à une seule maille : 
+3-a) Représenter les rangées 111
+
+
+
+ et 111
+
+
+
+. Justifier la réponse. 
+ 
+ 
+3-b) Donner les indices de Miller correspondant au plan contenant les rangées 111
+
+
+
+ et 111
+
+
+
+. 
+ 
+
+ 
+Page 8 sur 8 
+Épreuve de chimie section T 
+Année : 2021-2022 
+3-c) Représenter la trace des atomes sur ce plan en précisant la longueur de chacune de ces arêtes. 
+ 
+4) Déterminer la formule traduisant le contenu de la maille. 
+ 
+5) Déduire le nombre d’unités formulaires C1 par maille. 
+ 
+6) On réalise la diffraction de rayons X sur une poudre du cristal C1 à l’aide d’un diffractomètre équipé d’un 
+tube à RX de longueur d’onde λ. 
+Le tableau ci-contre donne les angles de diffraction de premier ordre ainsi 
+que les indices de Miller des plans qui diffractent ces rayons X. 
+6-a) Déterminer la longueur d’onde λ du RX. 
+ 
+6-b) Quel est le mode de réseau ? Justifier la réponse. 
+ 
+7) Donner l’expression puis calculer la masse volumique de ce composé. 
+ 
+FIN DE L’ÉPREUVE 
+h 
+k 
+l 
+2θ° 
+1 
+1 
+1 
+21,87 
+2 
+2 
+0 
+36,09 
+3 
+1 
+1 
+42,63 
+2 
+2 
+2 
+44,581 
+4 
+0 
+0 
+51,98 
+3 
+3 
+1 
+57,011 
+4 
+2 
+2 
+64,891 
+5 
+1 
+1 
+69,371 
+4 
+4 
+0 
+76,581 
+5 
+3 
+1 
+80,782 
+6 
+2 
+0 
+87,73 
+5 
+3 
+3 
+91,871 
+6 
+2 
+2 
+93,161 
+4 
+4 
+4 
+98,731 
+5 
+5 
+1 
+102,913 
+6 
+4 
+2 
+110,049 
+7 
+3 
+1 
+114,612 
+
+Session Juin 2022 
+Page 1 sur 8 
+CONSIGNES 
+• Cette épreuve comporte un document réponses (8 pages) et un document annexe (3 
+pages). 
+• Il faut rendre seulement le document réponses. 
+• Tout résultat doit être écrit dans les cadres adéquats. 
+• L'usage des calculatrices électroniques de poche non programmables est autorisé. 
+• Aucun échange entre les candidats n'est autorisé. 
+• Tout calcul doit être précédé d’une expression littérale.  
+• Les résultats numériques sans unité ou avec une unité fausse ne seront pas comptabilisés. 
+• En cas de besoin utiliser la page vide en fin de cahier. Dans ce cas, il faut le signaler 
+dans la case allouée à la réponse remise en fin de cahier. 
+• Ne joindre aucun brouillon.  
+• Si au cours de l’épreuve, un candidat repère ce qui lui semble être une erreur d’énoncé, 
+il la signale sur sa copie et poursuit sa composition en indiquant les raisons des 
+initiatives qu’il est amené à prendre. 
+ 
+ 
+ 
+ 
+ 
+ 
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 8 PAGES NUMEROTÉES 
+1 sur 8, 2 sur 8, …, 8 sur 8. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(DOCUMENT RÉPONSES) 
+ 
+ 
+ 
+ 
+ 
+Concours Technologique 
+
+ 
+Page 2 sur 8 
+Épreuve de chimie section T 
+Année : 2021-2022 
+Problème : étude des propriétés physiques des éléments chimiques 
+Dans le tableau périodique des éléments chimiques, les propriétés de ces éléments varient selon des tendances 
+périodiques.  
+1) Compléter le tableau ci-dessous en indiquant si la propriété (augmente ou diminue) lorsque le numéro 
+atomique augmente dans une période. 
+Propriété 
+Variation 
+Électronégativité 
+Augmente 
+Énergie d’ionisation 
+Augmente 
+Rayon atomique 
+Diminue 
+2) Chacune des lettres suivantes correspondent à un élément du tableau périodique. 
+ 
+2-a) Identifier la famille qui regroupe les éléments suivants : 
+A et B : famille des métaux alcalins 
+D et E : famille des métaux alcalino-terreux 
+T et R : famille des halogènes 
+ 
+2-b) Identifier le(s) élément(s) qui sont de bons conducteurs, malléables, ductiles et ont un point de 
+fusion élevé (variables). Justifier la réponse. 
+A, B, D, E, G (cristaux métalliques) 
+ 
+2-c) Identifier le(s) élément(s) qui sont cassants, non malléables et ont des points de fusion et 
+d'ébullition très élevés.  Justifier la réponse. 
+L et J : (cristaux covalents) 
+ 
+2-d) Identifier le(s) élément(s) qui ne conduisent pas l'électricité à l'état solide ou liquide et ont une 
+faible dureté mécanique et un faible point de fusion.  Justifier la réponse. 
+Q, T, R et Z (cristaux moléculaire) 
+ 
+2-e) Classer les éléments (cristaux) A, L et Z par point de fusion croissante.  
+Z< A< L 
+ 
+
+ 
+Page 3 sur 8 
+Épreuve de chimie section T 
+Année : 2021-2022 
+2-f) Quels sont parmi A, D, Q, T et R, les pairs d’éléments susceptibles de donner des cristaux ioniques 
+de formule MX ? 
+A et T 
+A et R 
+D et Q 
+2-g) Quels sont parmi les éléments suivants A, B, D, E ceux qui sont plus susceptibles de donner des 
+oxydes ioniques de formule chimique M2O ? 
+A2O 
+B2O  
+Problème : corps pur 
+1) Soit n moles d’un corps pur dans un état physique donné.  
+1-a) Donner l’expression de définition de la capacité calorifique molaire d’un corps pur à pression 
+constante 
+*
+p
+C . 
+La capacité calorifique molaire à pression constante 
+*
+p
+C  est définit par l’expression suivante : 
+*
+*
+*
+m
+p
+p
+p
+H
+1
+H
+C
+n
+T
+T
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+*
+p
+C  dépend de l’état physique du corps pur et de la température. 
+1-b) Qu’appelle-t-on la quantité de chaleur nécessaire pour faire passer une mole d’un corps pur d’un 
+état physique à un autre. 
+La chaleur latente ou enthalpie molaire de changement d’état d’un corps pur. 
+2) Le graphique ci-contre représente l’allure de la 
+courbe 
+d’analyse 
+thermique 
+obtenue 
+expérimentalement après chauffage du magnésium 
+solide sous la pression 1 bar. 
+2-a) 
+Que 
+représentent 
+les 
+températures 
+symbolisées par (i) et (ii) sur la figure ci-contre.  
+(i) La température de vaporisation standard 
+ 
+(ii) La température de fusion standard 
+2-b) Quelle est la valeur de chacune de ces 
+températures ? 
+(i) 1090 °C  
+ 
+(ii) 650°C 
+2-c) Préciser les phases en présence sur les tronçons (b) et (d) de la courbe. 
+(b) Mg(sd) et Mg(liq) 
+ 
+(d) Mg(liq) et Mg(vap) 
+
+ 
+Page 4 sur 8 
+Épreuve de chimie section T 
+Année : 2021-2022 
+2-d) Que s’est-il passé à l’état microscopique pour que la température augmente au début de 
+l’expérience puis après un certain temps elle demeure constante sur tout le palier IJ ?  
+À l’état solide, les atomes de magnésium sont régulièrement disposés dans le réseau cristallin et 
+vibrent autour de leurs positions moyenne.  
+Lorsqu'on fournit de l’énergie thermique ou chaleur au solide, celle-ci est transformée en énergie 
+cinétique, l’agitation des molécules croit, la température s’élève et les forces intermoléculaires 
+s’affaiblit. 
+Lorsque la température de fusion est atteinte, toute l’énergie thermique fournie est utilisée pour 
+vaincre les forces intermoléculaires, l’agitation thermique atteint son maximum et la température 
+reste constante. 
+2-e) Qu’appelle-t-on le potentiel chimique du magnésium relatif au tronçon : 
+(a) : Potentiel chimique standard du magnésium solide 
+( )
+T
+µ
+(
+)
+,
+Mg sd  
+(e) : Potentiel chimique standard du magnésium vapeur 
+( )
+T
+µ
+(
+)
+,
+Mg vap  
+2-f) Quelle relation doit vérifier les potentiels chimiques du magnésium sur chacun des paliers IJ et 
+KL ? 
+Sur le palier IJ, on a un équilibre solide-liquide :  
+(
+fus
+T
+µ
+)
+
+(
+)
+(
+,
+fus
+T
+Mg sd
+µ
+=
+)
+
+(
+)
+,
+Mg liq  
+Sur le palier KL, on a un équilibre liquide-vapeur :  
+( vap
+T
+µ
+)
+
+(
+)
+(
+,
+vap
+T
+Mg liq
+µ
+=
+)
+
+(
+)
+,
+Mg vap  
+2-g) À partir de la courbe d’analyse thermique (page 3), Quelles sont les informations qui pourront 
+être utiles si nous souhaitons tracer le diagramme des phases p = f(θ) du magnésium pur ?  
+Les coordonnées du point de fusion (
+fus
+θ
+, p
+) et du point d’ébullition (
+eb
+θ
+, p
+). 
+2-h) Donner l’expression puis calculer la quantité de chaleur nécessaire pour transformer 0,5 mol de 
+magnésium de l’état solide à l’état vapeur, sur l’intervalle de température [25-1100] °C et sous la 
+pression de 1 bar. 
+1
+2
+3
+4
+5
+Q
+Q
+Q
+Q
+Q
+Q
+=
++
++
++
++
+ 
+0,5
+p
+Q
+C
+=
+×
+(
+) (
+)
+,
+650
+25
+0,5
+fus
+m
+Mg sd
+H
+×
+−
++
+×∆
+(
+)
+,
+0,5
+p
+Mg sd
+C
++
+×
+(
+) (
+)
+,
+1090
+650
+0,5
+vap
+m
+Mg liq
+H
+×
+−
++
+×∆
+(
+)
+,
+0,5
+p
+Mg liq
+C
++
+×
+(
+) (
+)
+,
+1100 1090
+Mg vap ×
+−
+ 
+Application numérique : 
+(
+)
+(
+)
+(
+)
+3
+3
+3
+0,5 24,87 10
+650
+25
+0,5 8,954
+0,5 30,96 10
+1090
+650
+0,5 127,4
+0,5 20,8 10
+1100 1090
+82,86
+Q
+kJ
+−
+−
+−
+=
+×
+×
+×
+−
++
+×
++
+×
+×
+×
+−
++
+×
++
+×
+×
+×
+−
+=
+ 
+Problème : équilibre liquide-vapeur 
+Les températures et les enthalpies molaires standards de vaporisation du calcium liquide et du magnésium 
+liquide sont : 
+  
+vap
+θ
+ 
+vap
+m
+H
+∆
+ 
+Unité 
+°C 
+kJ.mol-1 
+Mg 
+1090 
+127,4 
+Ca 
+1484 
+153,6 
+Considérons un mélange Mg-Ca liquide idéal, à l’équilibre avec leur phase vapeur supposée parfaite à la 
+température 1350°C et sous une pression p = 1 bar. 
+
+ 
+Page 5 sur 8 
+Épreuve de chimie section T 
+Année : 2021-2022 
+Établir l’expression puis calculer la composition à l’équilibre de : 
+1) la phase liquide xCa. 
+( )
+( )
+( )
+( )
+1
+2
+1
+3
+1
+4
+Mg
+Mg
+Mg
+Ca
+Ca
+Ca
+Mg
+Ca
+Mg
+Ca
+p
+x
+p
+p
+x
+p
+x
+x
+y
+y
+σ
+σ
+
+=
+×
+
+=
+×
+
+
++
+=
+
+
++
+=
+
+ 
+ 
+(1) + (2)  
+Mg
+Ca
+Mg
+Mg
+Ca
+Ca
+p
+p
+p
+x
+p
+x
+p
+σ
+σ
+=
++
+=
+×
++
+×
+ 
+De (3)  
+(
+)
+1
+Ca
+Mg
+Ca
+Ca
+p
+x
+p
+x
+p
+σ
+σ
+=
+−
+×
++
+×
+ 
+(
+)
+Mg
+Ca
+Ca
+Mg
+p
+p
+x
+p
+p
+σ
+σ
+σ
+=
++
+×
+−
+  
+Mg
+Ca
+Ca
+Mg
+p
+p
+x
+p
+p
+σ
+σ
+σ
+−
+=
+−
+ 
+Détermination de la pression de vapeur 
+saturante des corps purs : 
+De 
+la 
+relation 
+de 
+Clapeyron : 
+vap
+m
+H
+dp
+dT
+∆
+=
+
+(
+)
+*,
+*,
+vap
+liq
+m
+m
+T
+V
+V
+×
+−
+ 
+Les enthalpies de changements d’état sont supposées 
+indépendantes de la température. 
+ 
+*,
+*,
+*,
+*,
+*,
+*,
+vap
+liq
+vap
+liq
+vap
+m
+m
+m
+m
+m
+vap
+m
+V
+V
+V
+V
+V
+R T
+V
+p
+
+>>
+⇒
+−
+=
+
+×
+
+=
+
+ 
+Relation de Clausius-Clapeyron : 
+vap
+m
+H
+dp
+dT
+∆
+=
+
+2
+p
+R T
+×
+×
+ 
+  
+vap
+m
+H
+dp
+p
+∆
+=
+
+2
+dT
+R T
+×
+×
+ 
+Intégration : 
+p
+dp
+p
+
+p
+vap
+m
+H
+σ
+∆
+=
+∫
+
+,
+2
+vap i
+T
+dT
+R T
+×
+×
+
+T∫
+ 
+ 
+ip
+Ln
+p
+σ
+
+vap
+m
+H
+∆
+
+=
+
+
+
+
+
+,
+1
+vap i
+R
+T
+×
+
+1
+T
+
+
+
+
+−
+
+
+
+
+ 
+ip
+p
+σ =
+
+exp
+vap
+m
+H
+∆
+×
+
+,
+1
+vap i
+R
+T
+×
+
+1
+T
+
+
+
+
+
+
+
+
+−
+
+
+
+
+
+
+
+
+ 
+Pour le magnésium pur : 
+ 
+(
+)
+(
+)
+3
+127,4
+1
+1
+1 exp
+6,06
+8,314 10
+1090
+273
+1350
+273
+Mg
+p
+bar
+σ
+−
+
+
+
+
+= ×
+×
+−
+=
+
+
+
+
+
+
+×
++
++
+
+
+
+
+
+
+ 
+Pour le calcium pur 
+(
+)
+(
+)
+3
+153,6
+1
+1
+1 exp
+0,42
+8,314 10
+1484
+273
+1350
+273
+Ca
+p
+bar
+σ
+−
+
+
+
+
+= ×
+×
+−
+=
+
+
+
+
+
+
+×
++
++
+
+
+
+
+
+
+ 
+1 6,06
+0,90
+0,42
+6,06
+Ca
+x
+−
+=
+=
+−
+ 
+2) La phase vapeur yCa . 
+( )
+( )
+( )
+( )
+1
+2
+1
+3
+1
+4
+Mg
+Mg
+Mg
+Mg
+Ca
+Ca
+Ca
+Ca
+Mg
+Ca
+Mg
+Ca
+p
+x
+p
+y
+p
+p
+x
+p
+y
+p
+x
+x
+y
+y
+σ
+σ
+
+=
+×
+=
+×
+
+=
+×
+=
+×
+
+
++
+=
+
+
++
+=
+
+ 
+ 
+Ca
+Ca
+Ca
+Ca
+p
+x
+p
+y
+p
+p
+σ
+×
+=
+=
+ 
+0,90 0,42
+0,38
+1
+Ca
+y
+×
+=
+=
+ 
+Problème : étude du binaire Cuivre Magnésium 
+Le diagramme de cristallisation du binaire cuivre (Cu) – magnésium (Mg), sous une pression de 1 bar, donné 
+sur la figure 1 du document annexe, montre l’existence de deux composés définis. 
+1) Donner la fraction massique (pondérale) 
+Mg
+w
+ de chacun de ces deux composés définis. 
+Pour le composé défini C1 : 
+0,16
+Mg
+w
+=
+ 
+Pour le composé défini C2 : 
+0,43
+Mg
+w
+=
+ 
+
+ 
+Page 6 sur 8 
+Épreuve de chimie section T 
+Année : 2021-2022 
+2) Déterminer la valeur de la fraction molaire 
+Mg
+x
+ pour le composé défini C1. 
+0,16
+Mg
+Mg
+Mg
+Cu
+m
+w
+m
+m
+=
+=
++
+ 
+Pour 1 g de mélange  
+0,16
+Mg
+m
+g
+=
+  
+3
+1
+0,16
+6,58 10
+24,31 .
+Mg
+Mg
+Mg
+m
+g
+n
+mol
+M
+g mol
+−
+−
+=
+=
+=
+×
+ 
+                                          
+0,84
+Cu
+m
+g
+=
+ 
+3
+1
+0,84
+13,22 10
+63,55 .
+Cu
+Cu
+Cu
+m
+g
+n
+mol
+M
+g mol
+−
+−
+=
+=
+=
+×
+ 
+3
+3
+3
+6,58 10
+0,33
+6,58 10
+13,22 10
+Mg
+Mg
+Mg
+Cu
+n
+x
+n
+n
+−
+−
+−
+×
+=
+=
+=
++
+×
++
+×
+ 
+3) Déduire la formule de ce composé solide. 
+La formule du composé défini C1 : MguCuv 
+0,33
+Mg
+u
+x
+v
+u
+=
+=
++
+  
+(
+)
+0,33
+u
+v
+u
+=
+×
++
+ 
+(
+)
+1 0,33
+0,33
+u
+v
+×
+−
+=
+×  
+0,33
+1
+0,67
+2
+u
+v =
+=
+ 
+La formule : MgCu2 
+4) Indiquer la nature de sa fusion. 
+Fusion congruente. 
+5) Donner la nature des phases dans les domaines numérotés de (I) à (III) sur la figure 1. 
+(I) liquide 
+(II) solide α : solution solide de Mg dans Cu + liquide 
+(III) solide α et composé défini C1 
+6) Écrire l’équation de la transformation qui a lieu à la température 762 K. 
+Liquide (wMg = 0,68) = CuMg2(sd)  + Mg(sd) 
+7) Donner le nom de cette transformation. 
+Transformation eutectique. 
+8) On refroidit 60 g d’un mélange liquide contenant 85% massique de Mg de 950 K jusqu’à 800 K. 
+8-a) Préciser la température de début de solidification de ce mélange. 
+D’après le diagramme la température de début de solidification : 850 K 
+ 
+8-b) Déterminer la nature et les masses des phases présentes à 800 K. 
+À 800 K, les phases présentes sont : liquide et 
+Mg(sd). 
+1 0,85
+0,15
+1,5
+0,85
+0,75
+0,1
+60
+liq
+sd
+Mg
+liq
+sd
+Mg
+m
+m
+m
+m
+g
+
+−
+=
+=
+=
+
+−
+
+
++
+=
+
+   
+ 
+1,5
+60
+liq
+sd
+Mg
+liq
+sd
+Mg
+m
+m
+m
+m
+g
+
+=
+×
+
++
+=
+
+ 
+60
+24
+2,5
+sd
+Mg
+m
+g
+=
+=
+ 
+60
+24
+36
+liq
+m
+g
+=
+−
+=
+ 
+
+ 
+Page 7 sur 8 
+Épreuve de chimie section T 
+Année : 2021-2022 
+9) On introduit dans une enceinte maintenue à une température de 700 K, un solide dont la fraction pondérale 
+en Mg est égale 0,68 puis on chauffe le mélange jusqu’à la température de 950 K. Donner l’allure de la courbe 
+d’analyse thermique. Préciser le(s) température(s) de(s) accident(s) thermique(s). 
+ 
+ 
+Problème : cristallographie 
+Le solide C1 cité dans le problème précédent, cristallise dans un système cubique de paramètre a = 703,01 pm.  
+• Les atomes de magnésium ont une structure identique à celle du carbone diamant. 
+• Les sites tétraédriques qui ne sont pas occupés par les atomes de Mg sont occupé par un assemblage 
+d’atomes Cu4 (4 atomes de cuivre tangents assemblés en tétraèdre).  
+1) Représenter le contenu de la maille ci-dessous. On symbolise le centre de gravité du tétraèdre formé par les 
+quatre atomes de cuivre par un triangle et les atomes de magnésium par un cercle. 
+  
+2) Quel est l’axe de symétrie de plus haut ordre caractérisant cette structure. Donner sa position. 
+L’axe de symétrie A3. C’est la grande diagonale de la maille 
+3) En se limitant à une seule maille : 
+3-a) Représenter les rangées 111
+
+
+
+ et 111
+
+
+
+. Justifier la réponse. 
+La rangée 111
+
+
+
+ : 1r
+a
+b
+c
+= −−
++
+
+
+
+
+ 
+La rangée 111
+
+
+
+ : 2r
+a
+b
+c
+= −+
++
+
+
+
+
+ 
+3-b) Donner les indices de Miller correspondant au plan contenant les rangées 111
+
+
+
+ et 111
+
+
+
+. 
+Le plan coupe l’axe des x en 1, l’axe des y à infini et l’axe des z en 1 
+C’est le pan (101) 
+
+ 
+Page 8 sur 8 
+Épreuve de chimie section T 
+Année : 2021-2022 
+3-c) Représenter la trace des atomes sur ce plan en précisant la longueur de chacune de ces arêtes. 
+ 
+4) Déterminer la formule traduisant le contenu de la maille. 
+(
+)
+1
+1
+8
+6
+4
+8
+8
+2
+atom
+n
+Mg = ×
++ ×
++
+=
+ 
+(
+)
+4 4
+16
+atom
+n
+Cu =
+×
+=
+ 
+La formule cristallographique : Mg8Cu16 
+5) Déduire le nombre d’unité formulaire C1 par maille. 
+Le nombre d’unités formulaires : 8×(MgCu2) 
+6) On réalise la diffraction de rayons X sur une poudre du cristal C1 à l’aide d’un diffractomètre équipé d’un 
+tube à RX de longueur d’onde λ. 
+Le tableau ci-contre donne les angles de diffraction de premier ordre ainsi 
+que les indices de Miller des plans qui diffractent ces rayons X. 
+6-a) Déterminer la longueur d’onde λ du RX. 
+La relation de Braag : 
+(
+)
+2
+sin
+hkl
+hkl
+D
+d
+n
+×
+×
+θ
+=
+×λ (1), diffraction 
+de premier ordre nD = 1 
+Pour un cristal cubique : 
+2
+2
+2
+hkl
+a
+d
+h
+k
+l
+=
++
++
+ (2) 
+(2) dans (1)  
+(
+)
+2
+2
+2
+2
+sin
+hkl
+a
+h
+k
+l
+λ =
+×
+×
+θ
++
++
+  
+Pour n’importe quel plan réticulaire de la liste on applique : 
+Par exemple pour le plan (111) 
+703,01
+21,87
+2
+sin
+154
+2
+3
+pm
+
+
+λ =
+×
+×
+=
+
+
+
+
+ 
+6-b) Quel est le mode de réseau ? Justifier la réponse. 
+Le mode de réseau est F, car seuls les plans dont les indices de 
+Miller sont de même parité diffractent. 
+7) Donner l’expression puis calculer la masse volumique de ce composé. 
+La masse volumique s’écrit :
+(
+)
+(
+)
+3
+atom
+Mg
+atom
+Cu
+A
+n
+Mg
+M
+n
+Cu
+M
+N
+a
+ρ
+×
++
+×
+=
+×
+ 
+Application numérique : 
+(
+)
+3
+3
+23
+10
+7
+2
+3
+4,31
+0
+6
+1
+3,
+8
+16
+5,79 .
+6,02 10
+0 ,
+1
+5
+0
+5
+g cm
+ρ
+−
+−
+×
++
+×
+=
+=
+×
+×
+×
+ 
+FIN DE L’ÉPREUVE 
+h 
+k 
+l 
+2θ° 
+1 
+1 
+1 
+21,87 
+2 
+2 
+0 
+36,09 
+3 
+1 
+1 
+42,63 
+2 
+2 
+2 
+44,581 
+4 
+0 
+0 
+51,98 
+3 
+3 
+1 
+57,011 
+4 
+2 
+2 
+64,891 
+5 
+1 
+1 
+69,371 
+4 
+4 
+0 
+76,581 
+5 
+3 
+1 
+80,782 
+6 
+2 
+0 
+87,73 
+5 
+3 
+3 
+91,871 
+6 
+2 
+2 
+93,161 
+4 
+4 
+4 
+98,731 
+5 
+5 
+1 
+102,913 
+6 
+4 
+2 
+110,049 
+7 
+3 
+1 
+114,612 

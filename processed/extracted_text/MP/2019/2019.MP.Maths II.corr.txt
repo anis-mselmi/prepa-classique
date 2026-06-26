@@ -1,0 +1,662 @@
+République Tunisienne
+Ministère de l’Enseignement Supérieur
+et de la Recherche Scientiﬁque
+Concours Nationaux d’Entrée aux Cycles
+de Formation d’Ingénieurs
+Session 2019
+ـﺔّﺍاﻟﺗﻭوﻧﺳﻳﯾـ  ـــﺔّﻭوﺭرﻳﯾُﺍاﻟﺟﻣﻬﮭ
+ﺍاﻟﻣﻧﺎﻅظﺭرﺍاﺕت  ﺍاﻟﻭوﻁطﻧﻳﯾﺔ  ﻟﻠﺩدﺧــﻭوﻝل
+ﺇإﻟﻰ  ﻣﺭرﺍاﺣـﻝل  ﺗﻛﻭوﻳﯾـﻥن  ﺍاﻟﻣﻬﮭﻧﺩدﺳﻳﯾـﻥن
+  ﺩدﻭوﺭرﺓة2017
+9 
+Concours Mathématiques et Physique
+Corrigé de l’épreuve de Mathématiques II
+I.1.1. Sn(R) est le noyau de l’endomorphisme M 7−! M −tM et An(R) est le noyau de l’endo-
+morphisme M 7−! M + tM donc Sn(R) et An(R) sont des sous-espaces vectoriels de Mn(R).
+Soit A 2 Sn(R) \ An(R). On a A = tA = −A donc A = 0. On a :
+8M 2 Mn(R),
+M = M + tM
+2
++ M −tM
+2
+.
+Mais M + tM
+2
+2 Sn(R) et M −tM
+2
+2 An(R) donc Mn(R) = Sn(R) ⊕An(R).
+I.1.2. Soient A,B 2 Mn(R). On a hA,Bi = Tr( tAB) = Tr( t( tAB)) = Tr( tBA) = hB, Ai.
+Soient A1, A2,B 2 Mn(R) et a 2 R. On a
+haA1 + A2,Bi = Tr( t(aA1 + A2)B) = Tr((a tA1 + tA2)B) = aTr( tA1B) + Tr( tA2B) = ahA1,Bi + hA2,Bi.
+Soit A 2 Mn(R). On note Cij les coeﬃcients de la matrice tAA. Pour tout 1 i n, on a
+Cii =
+n
+Â
+j=1
+tAijAji =
+n
+Â
+j=1
+A2
+ji. Ainsi hA, Ai =
+n
+Â
+i=1
+n
+Â
+j=1
+A2
+ji ≥0 et hA, Ai = 0 , A = 0. Alors, h., .i est un
+produit scalaire sur Mn(R).
+I.1.3. Soit A 2 Sn(R). Pour tout B 2 An(R) ,
+hA,Bi = Tr(AB) = Tr( t(AB)) = Tr( tB tA) = −Tr(BA) = −Tr(AB) = −hA,Bi .
+Alors, hA,Bi = 0 et par suite, Sn(R) ⇢An(R)?.
+Mais dimSn(R) = dimMn(R) −dimAn(R) = dimAn(R)? donc Sn(R) = An(R)?.
+I.2.1. In 2 On(R) et si U 2 On(R) alors U est inversible et U−1 = tU. Soit (U1 , U2) 2 On(R)2 . On
+a t(U1U−1
+2 )(U1U−1
+2 ) = U2 tU1U1 tU2 = U2 tU2 = In donc U1U−1
+2
+2 On(R).
+Par conséquent, On(R) est un sous-groupe de GLn(R).
+I.2.2. Puisque U 2 On(R), les colonnes de U sont des vecteurs unitaires dans Rn. Ainsi, pour
+tout j 2 {1,2,...,n} on a
+n
+Â
+i=1
+U2
+ij = 1 donc pour tous i, j 2 {1,2,...,n}, |Uij| 1.
+I.2.3. Pour tout U 2 On(R),
+sup
+1i,jn
+|Uij| 1. Mn(R) est de dimension ﬁnie donc toutes les
+normes sur Mn(R) sont équivalentes et alors On(R) est borné dans Mn(R).
+On considère les applications
+f
+:
+Mn(R)
+−!
+Mn(R),
+`
+:
+Mn(R)
+−!
+Mn(R) ⇥Mn(R),
+A
+7−!
+tAA
+A
+7−!
+( tA, A)
+
+Concours Mathématiques et Physique
+Corrigé de l’épreuve de Mathématiques II
+Page 2 sur 6
+b
+:
+Mn(R) ⇥Mn(R)
+−!
+Mn(R)
+(A,B)
+7−!
+AB
+On a, f = b ◦`. Mais ` est linéaire et b est bilinéaire donc elles sont continues. Alors, f est conti-
+nue. D’autre part, On(R) = f −1({In}) et {In} est un fermé de Mn(R) donc On(R) est un fermé
+de Mn(R). Mn(R) est de dimension ﬁnie et On(R) est un fermé borné de Mn(R) donc On(R)
+est un compact de Mn(R).
+I.2.4.a. On a pour tout 1 i n (MX)ii = x2
+i et donc Tr(MX) =
+n
+Â
+i=1
+x2
+i = 1. Les vecteurs colonnes
+de la matrice MX sont colinéaires au vecteur X =
+0
+B
+B
+B
+@
+x1
+...
+xn
+1
+C
+C
+C
+A, par suite rg(MX) 1. De plus MX
+est non nulle puisque sa trace est non nulle donc rg(MX) = 1.
+I.2.4.b. On a t(MX) = t(X tX) = X tX = MX donc MX est symétrique réelle et alors MX est diagona-
+lisable dans Mn(R). Puisque MX est de rang 1, 0 est une valeur propre de MX de multiplicité
+égale au moins à n −1. La somme des valeurs propres de MX est égale à sa trace= 1 donc 1
+est aussi une valeur propre de MX. Par conséquent, MX est semblable à la matrice diagonale
+D = diag(0,0,...,0,1).
+I.2.4.c. On a tUXUX = t(In −2MX)(In −2MX) = (In −2MX)(In −2MX) = In −4MX + 4M2
+X.
+Mais M2
+X = X tXX tX et tXX = (X|X) = 1 donc M2
+X = MX et par suite, tUXUX = In. La matrice
+UX est alors orthogonale.
+Autrement : Il existe P 2 On(R) telle que MX = Pdiag(0,0,...,0,1) tP donc UX = Pdiag(1,1,..,1,−1) tP.
+Par suite UX est produit des trois matrices orthogonales donc elle est orthogonale.
+De plus U2
+X = In par suite UX représente une symétrie orthogonale.
+I.3.1. En utilisant la continuité de l’application linéaire A −! tA on obtient
+e
+tM =
+lim
+N−!+•
+N
+Â
+k=0
+( tM)k
+k!
+=
+lim
+N−!+•
+t
+N
+Â
+k=0
+(M)k
+k!
+= t(eM)
+En utilisant la continuité de l’application linéaire A −! PAP−1 on obtient
+ePMP−1 =
+lim
+N−!+•
+N
+Â
+k=0
+(PMP−1)k
+k!
+=
+lim
+N−!+•
+N
+Â
+k=0
+PMkP−1
+k!
+= P
+ 
+lim
+N−!+•
+N
+Â
+k=0
+Mk
+k!
+!
+P−1 = PeMP−1 .
+I.3.2. Soit A 2 Mn(R) une matrice diagonalisable. Il existe l1,l2,..,lk des réels distincts et
+P 2 GLn(R) tels que
+A = P
+0
+B
+B
+B
+B
+B
+B
+B
+@
+l1In1
+0
+0
+l2In2
+.
+0
+lkInk
+1
+C
+C
+C
+C
+C
+C
+C
+A
+P−1 .
+
+Concours Mathématiques et Physique
+Corrigé de l’épreuve de Mathématiques II
+Page 3 sur 6
+Par conséquent, on a
+eA = P
+0
+B
+B
+B
+B
+B
+B
+B
+@
+el1In1
+0
+0
+el2In2
+.
+0
+elk Ink
+1
+C
+C
+C
+C
+C
+C
+C
+A
+P−1 .
+Donc eA est diagonalisable. Soit Q un polynôme interpolateur de Lagrange tel que Q(eli) = li
+pour tout 1 i k. Ainsi on obtient
+Q(eA) = PQ
+0
+B
+B
+B
+B
+B
+B
+B
+@
+el1In1
+0
+0
+el2In2
+.
+0
+elk Ink
+1
+C
+C
+C
+C
+C
+C
+C
+A
+P−1 = P.
+0
+B
+B
+B
+B
+B
+B
+B
+@
+Q(el1)In1
+0
+0
+Q(el2)In2
+.
+0
+Q(elk)Ink
+1
+C
+C
+C
+C
+C
+C
+C
+A
+P−1 = A.
+I.3.3. Soit S une matrice symétrique. On a t(eS) = e
+tS = eS donc eS 2 Sn(R). D’après le théorème
+spectral, S est diagonalisable. D’aprés la question précédente, eS est diagonalisable et ses va-
+leurs propres sont les exponentielles des valeurs propres de S donc sont toutes positives. Par
+suite eS est symétrique positive .
+I.3.4. Soit A une matrice antisymétrique. On a tAA = −A2 = A tA. Par conséquent,
+t(eA)eA = e
+tAeA = e( tA+A) = e0 = In donc eA 2 On(R).
+II.1.1. Soient D = diag(D11,D22,...,Dnn) une matrice diagonale avec Dii ≥0, pour tout
+i 2 {1,2,...,n} et U =
+)
+Uij
+*
+1i,jn 2 On(R). On a Tr(UD) =
+n
+Â
+i=1
+DiiUii. Mais, pour tout i 2 {1,2,...,n},
+−1 Uii 1 donc Tr(UD) 
+n
+Â
+i=1
+Dii = Tr(D).
+II.1.2. S est symétrique réelle donc il existe P 2 On(R) et D = diag(D11,D22,...,Dnn) telles que
+S = PD tP. De plus, S est positive donc, pour tout i 2 {1,2,...,n},
+Dii ≥0. Mais, pour tout
+U 2 On(R),
+tPUP 2 On(R) donc Tr(US) = Tr( tPUPD) Tr(D) = Tr(S).
+II.2.1. On considère les applications
+g
+:
+R
+−!
+Mn(R),
+`
+:
+Mn(R)
+−!
+R
+x
+7−!
+exA
+M
+7−!
+Tr(MS)
+On sait que g est dérivable sur R et que, pour tout x 2 R, g0(x) = AexA. Mais f = ` ◦g et ` est
+linéaire donc f est dérivable sur R et on a
+8x 2 R,
+f 0(x) = `(g0(x)) = Tr(AexAS).
+II.2.2. Soit x 2 R. xA est antisymétrique donc exA 2 On(R), et alors on a
+8x 2 R,
+f (x) = Tr(exAS) Tr(S) = f (0).
+Par conséquent, f possède un maximum en 0 donc f 0(0) = 0 et alors Tr(AS) = 0. On obtient,
+
+Concours Mathématiques et Physique
+Corrigé de l’épreuve de Mathématiques II
+Page 4 sur 6
+hS, Ai = hA,Si = Tr( tAS) = −Tr(AS) = 0.
+II.2.3. D’après ce qui précède, pour tout A 2 An(R), hS, Ai = 0. Alors, S 2 An(R)? = Sn(R).
+II.2.4. 0n a Tr(UXS) = Tr(S) −2Tr(MXS) = Tr(S) −2Tr(SX tX), mais SX = lX donc Tr(UXS) =
+Tr(S) −2lTr(MX) = Tr(S) −2l.
+II.2.5. UX 2 On(R) donc 2l = Tr(S) −Tr(UXS) ≥0 et alors toutes les valeurs propres de S sont
+positives donc S 2 S+
+n (R).
+III.1. On considère l’application
+j
+:
+On(R)
+−!
+R
+U
+7−!
+Tr(UA)
+j est la restriction, sur On(R) , d’une application linéaire de Mn(R) dans R donc j est continue
+sur On(R). Mais On(R) est compact donc j est bornée et atteint son maximum en une matrice
+U0 2 On(R).
+III.2. Soit U 2 On(R). On a Tr(US) = Tr(UU0A) = j(UU0) j(U0) = Tr(S). On déduit de la
+partie II que S 2 S+
+n (R).
+III.3. On a S = U0A 2 S+
+n (R) . On pose O = U−1
+0
+= tU0 , O 2 On(R) et A = OS.
+III.4. On a A = OS où O 2 On(R) et S 2 S+
+n (R). On sait qu’il existe V 2 On(R) et D une matrice
+diagonale à coeﬃcients positifs telles que S = tVDV. En posant, U = O tV on trouve que l’on a
+U 2 On(R) et A = UDV.
+III.5. Les éléments de O2(R) sont de la forme Rq =
+0
+@ cosq
+−sinq
+sinq
+cosq
+1
+A ou bien sq =
+0
+@ cosq
+sinq
+sinq
+−cosq
+1
+A ,
+où q 2 R. On a Tr(RqA) = 2sinq et Tr(sqA) = 2cosq. Ainsi, pour tout U 2 O2(R) ,
+Tr(UA) 2 = Tr(s0A) donc max{Tr(UA) | U 2 O2(R)} = 2.
+Posons S = s0A =
+0
+@ 1
+1
+1
+1
+1
+A. Les valeurs propres de S sont 0 et 2. Si P =
+0
+B
+B
+B
+B
+@
+1
+p
+2
+1
+p
+2
+−1
+p
+2
+1
+p
+2
+1
+C
+C
+C
+C
+A
+alors
+A = s0P
+0
+@ 0
+0
+0
+2
+1
+A tP . On trouve ainsi une décomposition en valeurs singulières de A, A = UDV
+avec U = s0P =
+0
+B
+B
+B
+B
+@
+1
+p
+2
+1
+p
+2
+1
+p
+2
+−1
+p
+2
+1
+C
+C
+C
+C
+A
+, D =
+0
+@ 0
+0
+0
+2
+1
+A et V = tP =
+0
+B
+B
+B
+B
+@
+1
+p
+2
+−1
+p
+2
+1
+p
+2
+1
+p
+2
+1
+C
+C
+C
+C
+A
+.
+IV.1.1. Supposons que A est inversible. On a AA−1 = A−1A = In donc AA−1 et A−1A sont symé-
+triques. D’autre part, AA−1A = A et A−1AA−1 = A−1 donc A−1 est une pseudo-inverse de A.
+IV.1.2. On considère la matrice, D? =
+0
+@ 0n−k
+0
+0
+D−1
+1
+1
+A. On a DD? = D?D =
+0
+@ 0n−k
+0
+0
+Ik
+1
+A qui est
+symétrique. D’autre part,
+
+Concours Mathématiques et Physique
+Corrigé de l’épreuve de Mathématiques II
+Page 5 sur 6
+DD?D =
+0
+@ 0n−k
+0
+0
+D1
+1
+A
+0
+@ 0n−k
+0
+0
+D−1
+1
+1
+A
+0
+@ 0n−k
+0
+0
+D1
+1
+A =
+0
+@ 0n−k
+0
+0
+D1
+1
+A = D ,
+et
+D?DD? =
+0
+@ 0n−k
+0
+0
+D−1
+1
+1
+A
+0
+@ 0n−k
+0
+0
+D1
+1
+A
+0
+@ 0n−k
+0
+0
+D−1
+1
+1
+A =
+0
+@ 0
+0
+0
+D−1
+1
+1
+A = D?
+donc
+D? est une pseudo-inverse de D.
+IV.1.3. Si A = 0 alors A est une pseudo-inverse d’elle même. Supposons que A , 0. Il existe une
+matrice diagonale à coeﬃcients positifs D = diag(0,...,0,Di+1,i+1,...,Dn,n) et deux matrices or-
+thogonales U et V telles ques A = UDV.
+Posons D? = diag(0,...,0,D−1
+i+1,i+1,...,D−1
+n,n) et A? = tVD? tU. Ainsi on a, AA? = UDD? tU et A?A =
+tVD?DV. AA? et A?A sont symétriques. D’autre part,
+AA?A = UDV tVD? tUUDV = UDD?DV = UDV = A
+et
+A?AA? = tVD? tUUDV tVD? tU = tVD?DD? tU = tVD? tU = A?. Par conséquent, A? est une pseudo-
+inverse de A.
+IV.1.4.a. On pose F = ImA = {AX | X 2 Rn}. On sait que le projeté orthogonal de b, pF(b), sur F
+vériﬁe, kpF(b) −bk = inf{kAX −bk | X 2 Rn} donc il existe X0 2 Rn tel que
+kAX0 −bk = inf{kAX −bk | X 2 Rn}.
+IV.1.4.b. Soit X 2 Rn. Pour tout h 2 Rn , on a
+j(X + h) = (AX −b + Ah|AX −b + Ah) = j(X) + (AX −b|Ah) + (Ah|AX −b) + (Ah|Ah) .
+On a, d’une part, (AX −b|Ah) + (Ah|AX −b) = 2(AX −b|Ah) = 2
+) tAAX −tAb|h
+*
+et d’autre
+part, (Ah|Ah) = kAhk2 Ckhk2 où C est une constante positive.
+Posons `(h) = 2
+) tAAX −tAb|h
+*
+et, pour h , 0, #(h) = (Ah|Ah)
+khk
+. ` est une application linéaire
+de Rn dans R et #(h) −!
+h!0 0. Il vient
+j(X + h) = j(X) + `(h) + khk#(h).
+Par conséquent, j est diﬀérentiable sur Rn et on a :
+8h 2 Rn ,
+dj(X).h = 2
+) tAAX −tAb|h
+*
+.
+IV.1.4.c. j possède un minimum en X0 donc dj(X0) = 0 et alors on a :
+8h 2 Rn ,
+) tAAX0 −tAb|h
+* = 0.
+Par conséquent, on a tAAX0 = tAb. Mais AA? est symétrique donc
+AA?b = t(A?) tAb = t(A?) tAAX0 = t(AA?)AX0 = AA?AX0 = AX0 .
+Finalement on trouve
+inf{kAX −bk | X 2 Rn} = kAA?b −bk.
+IV.2.1. Soit D = diag(D11,...,Dnn) une matrice diagonale. S’il existe i0 2 {1,...,n} tel que |Di0i0| >
+1 alors |Di0i0|k −!
+k!+• +•. La suite
+)
+Dk*
+k2N est bornée si et seulement si, pour tout k 2 N et tout
+i 2 {1,...,n}, la suite (Dk
+ii)k2N est bornée. Ce qui équivaut à |Dii| 1, pour tout i 2 {1,2,..,n}.
+
+Concours Mathématiques et Physique
+Corrigé de l’épreuve de Mathématiques II
+Page 6 sur 6
+IV.2.2. Si D 2 G alors D est inversible et D−1 2 G. Par suite pour tout i 2 {1,...,n}, |Dii| 1 et
++++ 1
+Dii
++++ 1. Ainsi on a, |Di,i| = 1, pour tout i 2 {1,2,..,n}.
+IV.2.3. Soit A 2 G. On écrit A = UDV une décomposition en valeurs singulières de A. Puisque
+U,V 2 On(R) et On(R) ⇢G, on a D = tUA tV 2 G. Comme D est diagonale à coeﬃcients positifs,
+d’après la question précédente, Dii = 1, pour tout i 2 {1,...,n} , et donc D = In. Par suite A =
+UV 2 On(R) et alors G = On(R).

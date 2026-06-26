@@ -1,0 +1,537 @@
+REPUBLIQUE TUNISIENNE 
+Ministère de l'Enseignement Supérieur et de la 
+Recherche Scientifique 
+Concours Nationaux d'Entrée aux Cycles 
+de Formation d'ingénieurs 
+Session 2018 
+Concours Physique et Chimie 
+Epreuve de Physique 
+Date : Lundi 04 Juin 2018 
+Heure: 8 H 
+Durée: 4 H 
+Barème: Problème 1: 14 pts , Problème 2: 6 pts 
+L'usage d'une calculatrice non programmable est autorisé. 
+Nombre de pages : 8 
+L'épreuve comporte deux problèmes indépendants, le candidat peut les résoudre dans l'ordre qui lui 
+convient, en respectant néanmoins la numérotation des questions. 
+Un candidat peut toujours se servir d'un résultat fourni par l'énoncé pour continuer sa composition. 
+Données 
+h = 6,62 x 10-34Js 
+E = -
+1
+-
+X 10-9Fm-1 
+0 
+36n 
+rot(rotû) = graddivû - tiû 
+ke = 1,38 X 10-23JK-1 
+µ0 = 4n: X 10-7Hm-1 
+(a- b) 
+(a+ b) 
+sin a - sin b = 2 sin - 2-
+cos - 2 -
+Problème N°1 
+e = 1,6 X 10-19C 
+j2 = -1 
+ex - e-x 
+sinhx=---
+2 
+L'analyse spectrale de la lumière émise par des corps célestes nous informe sur les 
+conditions physiques (température, vitesse, ... ) et la composition chimique de leurs 
+environnements astrophysiques. 
+A- Le modèle moléculaire 
+La cohésion de deux édifices moléculaires ou atomiques est due à l'existence de forces de 
+nature électromagnétique. Considérons une molécule polaire A- B isolée, où A et B 
+représentent deux atomes supposés ponctuels et de charges qA = -q8 = q = 0,6e. 
+On supposera que l'atome A est pratiquement immobile par rapport à l'atome B et on notera 
+AB= xÜx le vecteur position et m la masse de la particule B (figure 1). 
+La force d'interaction F entre ces deux atomes dérive de l'énergie potentielle suivante: 
+U(x) =~+ QAQB 
+A 
+x0 
+41te0x . ' 
+avec a une constante positive et n un entier naturel supérieur 
+à un. 
+1- Donner la dimension du paramètre a. 
+Figure 1 
+2- Discuter le comportement de U(x) aux limites lorsque x ➔ 0 et x ➔ oo. Montrer 
+l'existence d'un minimum en x = x0 • En déduire l'expression de a sous la forme: 
+2 
+a= xn-1_Q_ 
+O 
+4xn&0 
+3- Représenter l'allure de U(x). 
+Concours Physique et Chimie 
+Session 2018 
+Epreuve de Physique 
+Page 1/8 
+
+4- Déterminer la force d'interaction F dérivant de U(x). Dans quels domaines de distances la 
+force d'interaction est-elle attractive ou répulsive? 
+5- Déterminer l'énergie de dissociation Ect définie par Ect = U(x ➔ oo) - U(x ➔ x0). 
+6- L'énergie potentielle peut être développée au voisinage de x0 en série de Taylor: 
+U(x) = U(x = x0) + (x - x0) (dU) + ~ (x - x0)2 (d
+2
+~) + ... 
+dx xo 
+2 
+dx 
+Xo 
+a- Montrer qu'à l'ordre deux U(x) = ~ k(x - x0)2 - Ect. 
+2 
+En déduire que k peut s'écrire: k = (n-l)i;2. Calculer k pour n = 10 et x0 = 0,13 nm. 
+4TTEoXo 
+b- En posant X(t) = x(t) - x0, montrer que l'équation différentielle du mouvement de la 
+particule B est celle d'un oscillateur harmonique : 
+d2X 
+dt2 + w5X = 0 
+Exprimer la pulsation propre w 0 en fonction de k et m. 
+c- Calculer w 0 ainsi que la longueur d'onde Ào associée à cette pulsation. Dans quel 
+domaine du spectre électromagnétique Ào est-elle située ? On donne m = 1,6 7 10-27kg. 
+7- Sous l'action d'un champ électrique g = E0éùot Üx, la particule subit des oscillations 
+forcées. On suppose que cette particule est freinée par une force de frottement visqueux 
+Fr = -m ~, où v est la vitesse de la particule et -r est une constante positive. 
+a- Etablir l'équation différentielle vérifiée par X(t). 
+b- En régime sinusoïdal forcé, la solution complexe est de la forme: ~(t) = KMeiwot. 
+Exprimer l'amplitude ~M des oscillations en fonction de E0, q, w0, met -r. Calculer l~MI 
+pour E0 = 103Vm-1 et -r = 10-8s. Comparer x0 et l~MI• Commenter. 
+B- Etude du fond diffus cosmologique 
+Le fond diffus cosmologique est le nom donné au rayonnement électromagnétique issu de 
+l'univers au moment de sa création. Ce rayonnement est assimilable à celui d'un corps noir 
+de température T. 
+8- Définir un corps noir. 
+9- Pour ce type de rayonnement, la longueur d'onde Àm correspondant au maximum 
+d'émission est liée à la température T par la loi de Wien: 
+Àm X T = 2898 µmK. 
+a- Déterminer la longueur d'onde du rayonnement cosmologique pour T = 3 K. Dans quel 
+domaine spectral se trouve cette émission ? 
+b- Calculer Àm pour une étoile de température de surface T = 6000K, et pour le corps 
+humain. Expliquer la vision nocturne par des jumelles infrarouges. 
+C- Réflexion d'une onde plane sur un conducteur 
+Une onde plane progressive monochromatique se propageant suivant les x croissants dans le 
+demi espace vide x < 0, 
+rencontre en incidence normale la surface plane (yOz) d'un 
+conducteur occupant le demi espace x > O. Le conducteur présente une conductivité 
+électrique y= 6,3 107 .n-1m-1 . Il possède les mêmes propriétés électriques et magnétiques 
+que celles du vide (e = E0 , µ = µ0 ). On note !!. l'indice complexe du conducteur. L'onde 
+incidente donne naissance à une onde transmise et à une onde réfléchie (figure 2). 
+Concours Physique et Chimie 
+Session 2018 
+Epreuve de Physique 
+Page 2/8 
+
+Les champs électriques des trois ondes sont: 
+{ 
+Îï = Eoei(wt-kx)üy 
+Ê = E ei(wt+kx)ü 
+_r 
+_or 
+y 
+, 
+Ê = E ei(wt-_!stx)ü 
+_t 
+_ot 
+y 
+Onde incidente Y 
+:,,~~::·}L:.;~0 ;:;,'.; 
+-
+Onde réfiêcllîe 
+k 
+w k 
+w 
+, 
+i 
+avec = - , t = n - ou c = ~ 
+c 
+-
+-c 
+yEoµo 
+Figure 2 
+10- Déterminer les expressions des champs magnétiques complexes associés à ces ondes. 
+11-Ecrire les équations de Maxwell dans le conducteur. Montrer que le conducteur 
+électriquement neutre. 
+est 
+12- Dans quel domaine de fréquences, peut-on négliger le courant de déplacement devant le 
+courant de conduction ? Dans la suite, on se placera dans ce domaine de fréquence. 
+13- Etablir l'équation de propagation du champ électrique Ît· 
+14-Montrer que l'équation de dispersion peut s'écrire sous la forme: k? = -iyµ0w. 
+15-0n pose ô = j 
+2 
+; en déduire l'indice complexe en fonction de w, c, et ô. 
+yµow 
+16-Exprimer le champ électrique transmis sous la forme: ÎtCx, t) = !fote :ei(wt :)Ûy. 
+Quelle est la nature de l'onde ? Quelle est la signification physique de ô ? 
+17-Calculer è5 pour une fréquence radio de 100 MHz et pour une fréquence optique de 
+1014Hz. Commenter les valeurs obtenues. · 
+18-Les champs électriques et magnétiques de ces ondes sont continus à l'interface x = O. 
+Déterminer les coefficients de réflexion !: et de transmission ! en amplitude, définis par 
+Eor 
+Eot 
+f.'. 
+• 
+d 1·· d" 
+L 
+. 
+f.'. 
+• 
+d 
+s: 
+r = =- et t = =- en 1onct1on e m 1cc n. es exprimer en 1onctton e w, c, et u. 
+-
+Eo 
+-
+Eo 
+-
+19- Un conducteur parfait est un conducteur dont la conductivité électrique est infinie. 
+a- Que vaut ô pour un tel conducteur ? 
+b- Déduire alors son coefficient de réflexion. 
+c- Déterminer le champ électromagnétique (g, ~) résultant de l'onde incidente et de l'onde 
+réfléchie dans le demi-espace x < O. Caractériser l'onde résultante. 
+d- Déterminer l'expression du vecteur de Poynting TI de cette onde ainsi que sa valeur 
+moyenne {rè} au cours du temps. Commenter. 
+e- Déterminer la moyenne temporelle de la densité d'énergie électromagnétique < Uem >. 
+D- Expansion de l'Univers 
+D'un point de vue thermodynamique, l'univers est assimilé à une enceinte sphérique de rayon 
+R et de volume V subissant une évolution isentropique. On modélise le rayonnement émis 
+par cet univers par un « gaz de photons » de température Tet de pression de radiation p. 
+20- La densité volumique moyenne d'énergie électromagnétique totale de ce rayonnement est 
+de la forme : u = A T4 où A est une constante. 
+L'équation d'état de ce gaz s'écrit : p = 'i· 
+a- En appliquant le premier principe de la thermodynamique, montrer que : 
+V4u 3 = C où C est une constante. 
+b- Montrer que· Je produit R T est constant. En déduire qu'au cours de son expansion 
+! 'univers se refroidit. 
+c- Montrer alors que la longueur d'onde du rayonnement du fond cosmique assimilé à un 
+corps noir est proportionnelle au rayon R de l'univers. 
+Concours Physique et Chimie 
+Session 2018 
+Epreuve de Physique 
+Page 3/8 
+
+E- Effet Doppler en astrophysique 
+L'effet Doppler permet d'estimer la vitesse d'approche ou d'éloignement des étoiles 
+observées depuis la Terre. 
+Soit un détecteur D fixe en un point Ode l'espace (figure 3), une source S se déplace le long 
+de l'axe Ox à la vitesse constante V= Vûx, V étant positif ou négatif avec IVI « c, où c est 
+la célérité de la lumière dans le vide. L'abscisse x(t) représente la distance entre D et S. 
+La source S émet un signal lumineux, 
+sous forme d'impulsions, de période 
+T et de fréquence v ; ce signal se 
+déplace à la vitesse c. 
+D 
+0 
+-
+S 
+V 
+x(t) 
+Figure 3 
+21- A un instant t1 = Os, pris comme origine des temps, la source S se trouvant en x1 = d, 
+émet une 1ère impulsion (impulsion " 1 "). 
+a- A quel instant t~ , cette impulsion atteint-elle le détecteur D ? 
+b- A l'instant t 2 = T, la source S émet une 2ème impulsion (impulsion "2 "). Quelle est la 
+nouvelle position x2 de S à cet instant ? 
+c-
+A quel instant t;, l'impulsion " 2 " atteint-elle D ? En déduire la durée T' entre les 
+réceptions des impulsions " 1" et" 2 " en fonction de T, V et c. 
+d- Exprimer la fréquence v' mesurée par le détecteur en fonction de V, cet v. 
+e-
+En déduire l'expression du décalage Doppler /J.v = v' - v. Soient À et À
+1 les longueurs 
+d' 
+d 
+• ' 
+• 
+, 
+1 
+À
+1 -À 
+V 
+on e assoc1ees respectivement av et v , montrer que : -À- = ;-
+F- Mesure de la vitesse d'éloignement d'une étoile 
+22-L'atome d'hydrogène est l'élément le plus abondant dans l'univers. Son énergie est 
+quantifiée par le nombre quantique principal n selon l'équation : En = -
+13
+;
+6 eV. 
+n 
+L'atome se désexcite de l'état n = 4 vers l'état n = 2 en émettant un photon. Calculer la 
+fréquence v et la longueur d'onde À de l'onde (raie Hp) associée à ce photon. Cette onde 
+, électromagnétique est-elle dans le visible, l'infra-rouge 
+leV = 1,6 X 10-19J. 
+B-
+Cette partie du problème est consacrée à la 
+ou l'ultra-violet ? On donne 
+' 
+a' : 
+mesure du décalage en fréquence à l'aide d'un 
+réseau constitué de N fentes fines identiques 
+périodiquement espacées de a (figure 4). Il est 
+éclairé sous incidence normale par une onde 
+plane monochromatique de longueur d'onde À 
+provenant d'une source S à l'infini. Les rayons 
+émergent du réseau avec un angle 0 vers un 
+· M · fi · 
+') · 
+, 
+Figure 4 
+pomt 
+m miment e oigne. 
+a- Déterminer la différence de marche è5 = (SSp+iM)- (SSpM) entre deux ondes passant 
+par deux fentes consécutives Sp et Sp+l en fonction de a et 0. 
+b- Soit Ap = A0éPP l'amplitude complexe au point M de l'onde issue de SP. On prendra 
+pour origine des phases celle de l'onde passant par la première fente ( <p1 = 0). Exprimer 
+l'amplitude complexe A résultante de la superposition de N ondes en fonction de A0 , N 
+et du déphasage cp = 
+2
+; o. 
+Concours Physique et Chimie 
+Session 2018 
+Epreuve de Physique 
+Page 4/8 
+
+c- En déduire l'expression de l'intensité I = IAl
+2
+• 
+d- En utilisant la construction de Fresnel, déterminer les valeurs du déphasage <p lorsque 
+les interférences sont constructives. En déduire la relation : 
+a sin 8 = mÀ 
+L'entier relatif m est l'ordre d'interférence. 
+24-Le spectre de la source est en réalité composé par deux longueurs d'onde, 
+-
+11,=486,1 nm de la raie Hp de l'atome d'hydrogène (source au repos par rapport à la 
+Terre), 
+À
+1 =À+ /::,,11, de la même raie Hp provenant de l'étoile en mouvement par rapport à la 
+Terre. flÀ est le décalage par effet Doppler. 
+a- Sachant que deux pics d'interférence associés à À et À, = À+ flÀ ne peuvent être résolus 
+à l'ordre m = 1 que si flÀ > ~- Combien de fentes doivent être éclairées pour pouvoir 
+N 
+détecter un écart /::,,11, = 10-1 nm à l'ordre 1 pour la radiation Hp ? 
+b- Dire si l'étoile s'approche ou s'éloigne de la Terre; justifier. Déterminer la vitesse de 
+l'étoile par rapport à la Terre (en km.s-1). 
+c- La loi de Hubble établit la relation entre la distance d d'une galaxie par rapport à la 
+Terre et sa vitesse d'éloignement V selon la loi : 
+V= H X d. 
+Quelle est la dimension de la constante H ? Sachant que la galaxie est située à la distance 
+d = 2,5 x 1019km de la terre, en déduire la valeur de H. 
+d- L'inverse de la constante de Hubble est la durée de l'expansion de l'univers, déduire une 
+estimation de son âge. 
+G- Mesure de la largeur d'une raie spectrale 
+On étudie dans cette partie une méthode de mesure interférométrique de la largeur spectrale 
+!::..À de la raie Hp, mettant en œuvre l'interféromètre de Michelson._ 
+Ce dispositif est constitué (figure 5) : 
+y t 
+; 
+- de deux miroirs plans réfléchissants M1 et 
+M2 orthogonaux. M1 est en mouvement de 
+translation suivant 0x; M2 reste fixe. 
+-
+d'une 
+lame 
+semi-réfléchissante 
+Sp, 
+supposée infiniment mince qui divise la 
+lumière incidente en deux faisceaux, l'un est 
+transmis sans déviation, et l'autre est 
+réfléchi. Cette lame, de coefficient de 
+réflexion en énergie R = 0,5, est inclinée à 
+45° par rapport à l'axe 0x. L'ensemble est 
+placé dans eair d'indice n = 1. 
+M2 !!!!!!!!!!!!l!!!!!!!!!!!I 
+o, 
+fais-ce-au_in-ci
+4
+de-nt_/--,4L:-/ ____ 
+01
+-1~ 
+Sp 
+..__...._ _ 
+_..L 
+F'il 
+détecteur 
+Figure 5 
+Les positiops des miroirs sont données par les distances 001 = .f + e et 002 = .f. On 
+éclaire l'interféromètre avec un faisceau de lumière parallèle en incidence normale sur les 
+miroirs. En sortie de cet interféromètre, on place une lentille convergente L de manière à ce 
+que tous les rayons émergeants se focalisent sur le détecteur placé au foyer image F' de L. 
+Concours Physique et Chimie 
+Session 2018 
+Epreuve de Physique 
+Page 5/8 
+
+25-Représenter la marche des rayons lumineux issus du faisceau incident et arrivant sur le 
+détecteur en utilisant les deux« voies» de l'interféromètre. Justifier l'appellation de lame 
+d'air que l'on donne à ce dispositif. 
+26- Exprimer les intensités 11 et 12 des deux ondes arrivant sur le détecteur en fonction de 
+l'intensité 10 du faisceau incident. Pourquoi choisit-on R = 0,5 pour la séparatrice Sp? 
+27-En réalité la séparatrice Sp n'est pas parfaitement mince, le dispositif expérimental réel 
+comporte alors, en plus de la séparatrice, une 2ème lame parallèle à Sp. Qu'appelle t-on 
+cette lame ? Quel est son rôle ? 
+28-Déterminer la différence de chemin optique cS entre les deux ondes. Déduire l'ordre 
+d'interférence p, défini par: p = i" 
+29-Dans le cas d'une source parfaitement monochromatique de longueur d'onde À, exprimer 
+l'intensité I reçue par le détecteur en fonction de e, À et l'intensité 10 . 
+30- On enregistre l'interférogramme I en fonction de la différence de marche. Tracer l'allure 
+de l'intensité I en fonction de e. 
+31-L'interféromètre est maintenant éclairé par une source qui 
+possède un élargissement spectral. Pour simplifier les 
+calculs, la source lumineuse est supposée présenter un 
+spectre rectangulaire de largeur !J.v = v2 - v1 et centré 
+1 
+:6 , 
+V1 +Vz 
+sur 
+a 
+requence v0 = ---2 -
+(figure 6). On notera 
+dl 0 = ~ dv l'intensité de la source dans l'intervalle de 
+tw 
+fréquences comprises entre v et v + dv 
+1., 
+' 
+Av 
+a- Donner l'intensité dl reçue par le détecteur correspondant à dv. 
+tn, 
+~--·······i> 
+Figure 6 
+b- Montrer que l'intensité I intégrée sur l'intervalle !J.v peut se mettre sous la forme: 
+I ( 
+sin ( n i ) 
+v 
+) 
+I ~ ; 1+ n-( cos(zn; 6) 
+Donner Le en fonction de !J.v et c. 
+'Il 
+c- L'exprimer en fonction de la longueur d'onde moyenne À0 et l'intervalle en longueur 
+d'onde LU. 
+d- Représenter l'interférogramme I(cS) dans le cas où !J.v « v0 . 
+e- À l'aide d'un critère semi-quantitatif sur l'ordre d'interférences p, montrer que le 
+contraste des franges d'interférence reste bon si la différence de marche 8 obéit à 
+l'inégalité: 8 ~ Le. Qu'appelle-t-on la grandeur Le? Préciser sa signification physique. 
+32-0n fait croître la différence de marche jusqu'à l'annulation du contraste (brouillage), on 
+mesure Le= 4,074 mm. De quelle distance e a-t-on déplacé le miroir M1 ? Calculer !J.À 
+pour Ào = 486,2 nm. Calculer Le pour un laser He-Ne de largeur spectrale !J.v = 10 MHz. 
+Que vaut Le dans le cas d'une source parfaitement monochromatique? 
+33-Dans l'hypothèse de la théorie cinétique des gaz, les atomes d'hydrogène émetteurs de la 
+raie Hp se déplacent à la vitesse moyenne Vm = js::T mesurée par rapport à l'étoile, où 
+k8 est la constante de Boltzmann et m = 1,67 x 10-27kg la masse de l'atome d'hydrogène. 
+a- Montrer, en utilisant l'expression du décalage Doppler calculée à la question 21-e, que 
+la raie Hp aura une largeur !J.À = 2Ào v;. 
+b- Calculer alors la température T de la surface de l'étoile. 
+Concours Physique et Chimie 
+Session 2018 
+Epreuve de Physique 
+Page 6/8 
+
+A- Caractère ondulatoire des électrons 
+Dans un canon électronique (figure 7), les électrons d'un 
+filament électrique constituant la cathode sont arrachés 
+avec une vitesse négligeable. Ils sont ensuite accélérés 
+sous une tension U = 2 V entre la cathode et l'anode. 
+1- Préciser sur le schéma du canon la direction et le sens 
+du champ électrique Ë entre ces électrodes. 
+Cathode 
+Anode 
+Filament l 
+\ v,. 
+::::=::s,. ----------------
+\ 
+1 
+Figure 7 
+2- Exprimer en fonction de m (masse de l'électron), U et e (charge élémentaire) la vitesse Vs 
+acquise en sortie du canon par les électrons en utilisant le théorème de l'énergie cinétique. 
+3- On donne m = 9,1 x 10-31kg, calculer la longueur d'onde À associée au faisceau 
+d'électrons. 
+B- Effet tunnel 
+Une source émet des électrons qui arrivent depuis le domaine x < 0 sur une barrière de 
+potentiel rectangulaire unidimensionnelle de hauteur V0 et de largeur L (figure 8) définie 
+par: 
+V(x) = {V0 pour O < x < L 
+0 
+ailleurs 
+._ V(x) 
+l 
+' 
+Ces électrons ont une énergie E < V0 et sont 
+décrits par une fonction d'onde électronique 
+stationnaire : 
+(1) ,l:I 
+.Et 
+0 
+L 
+\jJ(x, t) = <p(x)e-
+1T. 
+Figure 8 
+4- Quel serait le comportement classique de ces électrons ? 
+5- Cette fonction d'onde vérifie l'équation de Schrodinger: 
+h2 a2tJ,(x, t) 
+atJ,(x, t) 
+2m 
+axz 
++ V(x)tJ,(x, t) = ih 
+at 
+a- Que représente le carré du module de la fonction d'onde lw(x, t)l
+2
+? 
+(Ill) 
+.. 
+X 
+b- Ecrire les équations différentielles vérifiées par la fonction <p(x) dans les régions (1), (II) 
+et (III). 
+6- On cherche des solutions des équations précédentes sous la forme suivante : 
+{ 
+<p (x) = A eikx + B e-ikx 
+I 
+_l 
+_l 
+<pu(x) = the~x + !!.ze-~x 
+<pm(x) = ~3eikx + _!he-ikx 
+a- Exprimer k et~ en fonction de E, met V0 . 
+b-
+Expliquer pourquoi le coefficient ~ 3 doit-il être nul ? Que représentent les différents 
+termes présents dans les trois sSolutions ? 
+7- Ecrire, au niveau de la barrière, les conditions de continuité de la fonction <p(x) et de sa 
+dérivée. 
+8- On rappelle que le module du courant de probabilité associé aux électrons est: 
+J = lwcx, t)l2 :. 
+Concours Physique et Chimie 
+Session 2018 
+Epreuve de Physique 
+Page 7/8 
+
+a- Quelle est la signification physique de J ? Donner sa dimension. 
+b- On rappelle que le facteur de transmission T de la barrière de potentiel est le rapport 
+entre le courant de probabilité transmis et le courant de probabilité incident. Exprimer 
+T en fonction de ~ 1 et ~ 3 . 
+9- Le facteur T peut se mettre sous la forme : 
+1 
+T=-----------
+v.z 
+1 + 4E(Vo ~ E) sinh
+2(PL) 
+a- Dans le cas d'une barrière épaisse (PL» 1), montrer que T peut s'écrire: 
+2L 
+T ~ T0e-6 
+Exprimer T0 en fonction de V0 et E, puis 
+è5 en fonction de p. Quelle est la 
+signification physique de è5 ? 
+b- Que vaut T pour les cas suivants: (V0 - E) ➔ oo, L ➔ oo et m ➔ oo? Commenter. 
+c- Des électrons d'énergie E = 2 eV arrivent sur une barrière de potentiel V0 = 4 eV. 
+Evaluer o. 
+d- Calculer T pour les largeurs L1 = 0,3 nm et L2 = 3 nm. Conclure. 
+e- Vérifier que l'approximation de la barrière épaisse est justifiée pour L2 = 3 nm. 
+10- Pour explorer la surface d'un échantillon conducteur, on lui approche la pointe fine 
+métallique d'un microscope à effet tunnel. Il en résulte une barrière de potentiel de largeur 
+L entre la pointe et l'échantillon, et un "courant tunnel" de la forme: 
+-2L 
+I = I
+0e_s __ 
+La variation relative minimale du courant que peut déceler le microscope est 2%, 
+déterminer la variation LlL correspondante, définissant la résolution du microscope. On 
+donne è5 = 0,6 nm. 
+efi.n de lep'C.eWle 
+Concours Physique et Chimie 
+Session 2018 
+Epreuve de Physique 
+Page 8/8 
+---------------

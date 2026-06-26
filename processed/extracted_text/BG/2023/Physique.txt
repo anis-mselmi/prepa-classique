@@ -1,0 +1,4194 @@
+ 
+Concours Biologie et Géologie - Session Juin 2023 Epreuve de Physique 
+Page 1/7 
+REPUBLIQUE TUNISIENNE 
+Ministère de l’Enseignement Supérieur et 
+de la Recherche Scientifique 
+ 
+ 
+Concours Nationaux d’Entrée aux 
+Cycles de Formation d’Ingénieurs  
+Session 2023 
+ 
+ 
+ 
+المناظرات الوطنية للدخول 
+إلى مراحل تكوين المهندسين 
+دورة 3
+202
+ 
+ 
+Concours Biologie et Géologie 
+Epreuve de Physique 
+ 
+Date : 05 Juin 2023 
+Heure : 8 H00 
+Durée : 3 H 
+Nbre pages : 7 
+ 
+L’usage d’une calculatrice non programmable est autorisé. 
+Tout résultat fourni dans l’énoncé peut être admis et utilisé par la suite, même s’il n’a pas été démontré par le 
+candidat. 
+Si, au cours de l’épreuve, un candidat repère ce qui lui semble être une erreur d’énoncé, il le signale sur sa copie 
+et poursuit sa composition en expliquant les raisons des initiatives qu’il est amené à prendre. 
+L’épreuve comporte trois problèmes indépendants. 
+Première partie : Diffusion thermique – Diffusion de particules  
+On rappelle que dans le système de coordonnées cylindriques : 
+(
+)
+1
+, ,
+r
+z
+f
+f
+f
+grad f r
+z
+u
+u
+u
+r
+r
+z
+
+
+
+
+
+
+=
++
++
+
+
+
+ 
+Thermorégulation d’un mammifère marin 
+La loi phénoménologique de Fourier, relative à la diffusion thermique, traduit la proportionnalité entre 
+la densité de flux thermique 
+th
+J  et le gradient de température : 
+th
+J
+grad T
+
+= −
+ 
+Q1. Donner les unités de la densité de flux thermique 
+th
+th
+J
+J
+=
+ et de la conductivité thermique λ dans 
+le système international des unités (SI). Justifier le signe " −" figurant dans cette loi.   
+Q2. Citer, en électrocinétique, la loi semblable à celle de Fourier tout en précisant les grandeurs 
+analogues à 
+th
+J , λ, T et au flux thermique 
+th
+. 
+On se place en régime stationnaire. Le problème étudié est à symétrie cylindrique, par conséquent : 
+( )
+T
+T r
+=
+ et 
+( )
+th
+th
+r
+J
+J
+r u
+=
+. 
+Un mamifère marin est modélisé par un cylindre de longueur 
+L, couvert par une couche de graisse de conductivité 
+thermique λ et d’épaisseur e comprise entre 
+0r  et 
+0r
+e
++
+ 
+(figure 1). Cette couche permet de réduire les pertes 
+thermiques. Son épaisseur peut varier selon la saison. 
+On note 
+iT  la température interne (
+)
+0
+r
+r
+
+ de l’animal 
+supposée uniforme et 
+eT  la température pour 
+0
+r
+r
+e
+
++ . 
+ 
+L 
+z 
+Couche 
+de graisse (λ) 
+Figure 1 
+ 
+
+ 
+Concours Biologie et Géologie - Session Juin 2023 Epreuve de Physique 
+Page 2/7 
+Q3. En appliquant le premier principe de la thermodynamique sur le volume cylindrique de graisse de 
+longueur L compris entre r et r
+dr
++
+, montrer que : 
+( )
+th
+A
+J
+r
+r
+=
+ où A est une constante. 
+En déduire l’expression de la température ( )
+T r  dans la région 0
+0
+r
+r
+r
+e
+
+
++ . 
+Q4. Exprimer la puissance thermique 
+th
+ qui traverse le cylindre de rayon r et de longueur L dans le 
+sens des r croissants. 
+En déduire que la résistance thermique de la couche de graisse s’écrit : 
+0
+0
+1
+2
+th
+r
+e
+R
+Ln
+L
+r
+
+
+
++
+=
+
+
+
+
+. 
+Q5. En plus de la couche de graisse, un jeune mammifère est protégé 
+naturellement contre le froid par une paroi supplémentaire d’épaisseur e' 
+(figure 2) et de conductivité '. 
+Déterminer puis calculer sa résistance thermique totale 
+tot
+R . 
+Ecrire en fonction de 
+iT , 
+eT  et 
+tot
+R , la puissance thermique 
+th
+ transférée 
+vers le milieu extérieur. En déduire l’énergie thermique 
+th
+Q  perdue dans 
+une durée t
+.  
+Sachant que les besoins métaboliques de ce jeune mammifère est de 500 kcal par jour. Combien de 
+calories au minimum, sa nourriture devrait lui apporter au total en une journée afin de remplir tous ses 
+besoins ? 
+On donne : 
+60
+L
+cm
+=
+, 
+0
+10
+r
+cm
+=
+, 
+2
+e
+cm
+=
+, 
+2
+7.10 SI
+
+−
+=
+, 
+'
+1
+e
+cm
+=
+, 
+2
+'
+2.10 SI
+
+−
+=
+, 
+36
+iT
+C
+=
+
+, 
+0
+eT
+C
+= 
+ et 1
+4,18
+cal
+J
+=
+. 
+Collecte de nutriments par une bactérie  
+Pour assurer son métabolisme, une bactérie a besoin de consommer en permanence des nutriments. Leur 
+absorption se produit à travers des pores membranaires, répartis à la surface.  
+Dans le cas d’une bactérie immobile, la collection de nutriments se fait par diffusion depuis le milieu 
+environnant jusqu’à sa surface. On se propose de modéliser ce processus afin de définir une concentration 
+minimale de nutriments, au-dessous de laquelle la bactérie ne peut plus veiller à ses besoins. 
+Données numériques :  
+– Coefficient de diffusion du glucose dans l’eau : 
+9
+2
+1
+10
+D
+m s
+−
+−
+=
+ 
+– Caractéristiques typiques d’une bactérie E. Coli :  
+• Rayon du corps : 
+1
+R
+m
+
+=
+ 
+• Consommation de glucose par unité de volume de bactérie et par unité 
+de temps : 
+3
+1
+0
+10
+.
+.
+A
+mol m
+s
+−
+−
+=
+ 
+On assimile la bactérie à une sphère de rayon R (figure 3) et on suppose 
+qu’elle absorbe des nutriments de façon isotrope à sa surface.  
+Dans le milieu extérieur, les nutriments migrent vers la bactérie avec un 
+coefficient de diffusion D.  
+On note (
+)
+3
+,
+.
+c M t
+mol m−
+
+
+
+ la concentration en nutriments en un point M, au temps t, et on note c la 
+concentration des nutriments loin de la bactérie.  
+Figure 2 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3 
+R 
+Bactérie  
+
+ 
+Concours Biologie et Géologie - Session Juin 2023 Epreuve de Physique 
+Page 3/7 
+Q6. On rappelle que la loi de Fick reliant la concentration molaire des particules (
+)
+,
+c M t  et la densité 
+de courant correspondant s’écrit : 
+(
+)
+(
+)
+,
+,
+p
+J
+M t
+D grad c M t
+= −
+ 
+Préciser la dimension de la densité de courant 
+(
+)
+,
+p
+J
+M t .  
+On se placera dans un système de coordonnées sphériques centré sur la bactérie.  
+Q7. Expliquer brièvement que la densité de courant molaire s’écrit sous la forme 
+(
+)
+(
+)
+,
+,
+.
+p
+p
+r
+J
+M t
+J
+r t u
+=
+Justifier que 
+(
+)
+,
+p
+J
+r t  est négative. 
+La récolte de nutriments par la bactérie est caractérisée par un flux 
+( )
+1
+0
+.
+r
+mol s−
+
+
+
+
+, correspondant au 
+nombre de moles de nutriments entrant par unité de temps dans une sphère de rayon r centrée sur la 
+bactérie.  
+Au niveau de la surface de la bactérie, le flux 
+( )
+0 R
+
+ entrant permet d’assurer l’activité métabolique. 
+Celle-ci est caractérisée par la quantité de nutriments, notée A, consommée par unité de temps et de 
+volume de la bactérie. 
+On se place dans la suite en régime stationnaire. 
+Q8. En faisant un bilan de matière sur une tranche comprise entre les surfaces sphériques de rayons r et 
+r
+dr
++
+, montrer que 
+( )
+0 r
+
+ est une constante indépendante de r notée 
+0
+. 
+Q9. Exprimer le flux de nutriments 
+0
+ collecté par la bactérie en fonction de sa consommation en 
+nutriments A et de son rayon R.  
+Q10. Justifier que ce flux rentrant de nutriments s’exprime sous la forme : 
+( )
+2
+0
+4
+dc r
+D
+r
+dr
+
+=
+. 
+Q11. En déduire que la concentration s’écrit sous la forme : ( )
+0
+4
+c r
+c
+Dr
+
+
+
+=
+−
+ 
+Q12. Exprimer ( )
+c R  en fonction de c, D, R et A et en déduire la quantité maximale 
+max
+A
+ que peut 
+collecter une telle bactérie pour c donnée. 
+Q13. En utilisant les données numériques concernant la consommation volumique normale 
+0
+A  en 
+glucose et le rayon R d’une bactérie E. Coli, déterminer la concentration en glucose minimale 
+,min
+c
+ dans 
+le milieu pour qu’une bactérie puisse y survivre.  
+Deuxième partie : Détection et mesure des amplitudes des ondes sismiques 
+Un séisme est un phénomène géologique qui se produit lorsqu'il y a une libération très rapide d'énergie 
+accumulée dans les plaques tectoniques terrestres, ce qui génère des vibrations ou des ondes sismiques 
+qui se propagent à travers la croûte terrestre. La surveillance sismique et la préparation aux 
+tremblements de terre sont essentielles pour réduire les risques pour la vie. Le séisme de magnitude 7,8 
+qui a frappé le sud-est de la Turquie et le nord de la Syrie le 6 février 2023 a couté la vie à plus de  
+50 000 personnes. 
+
+ 
+Concours Biologie et Géologie - Session Juin 2023 Epreuve de Physique 
+Page 4/7 
+Sismographe vertical 
+Un sismographe est un instrument scientifique utilisé pour mesurer les vibrations et les ondes sismiques 
+générées par les tremblements de terre. Les ondes mécaniques produites par un séisme sont de différentes 
+natures. Les ondes volumiques (ondes Primaire et Secondaire) sont les plus rapides et ont des fréquences 
+qui varient entre 0,2 et 10 Hz. A l’inverse, les ondes surfaciques (ondes de Love et de Rayleigh) sont les 
+plus lentes mais les plus dévastatrices, avec des fréquences allant de 2 mHz à 0,2 Hz. 
+Le sismographe étudié dans cette partie est constitué d’un bâti 
+rigide de hauteur h, solidaire au sol, auquel est suspendu une 
+masse m par l’intermédiaire d’un ressort de masse négligeable, de 
+raideur k et de longueur à vide 
+0
+L  et d'un amortisseur de 
+coefficient de frottement  (figure 4).  
+Lorsqu'une onde sismique traverse le sol, elle déclenche un 
+mouvement de vibration vertical de la masse m.  
+Une secousse sismique sinusoïdale de pulsation ω crée un 
+mouvement vertical du sol repéré par la cote 
+( )
+(
+)
+0 cos
+S
+Z
+t
+Z
+t
+
+=
+ 
+dans un référentiel (O,X,Y,Z)supposé galiléen, ce qui 
+déclenche un mouvement de la masse m par rapport au sol, caractérisé par la fonction ( )
+z t .  
+A un instant t, le ressort a pour longueur 
+( )
+L t . L’amortisseur exerce sur la masse m une force de 
+frottement visqueux   
+( )
+z
+dz t
+f
+e
+dt
+
+= −
+. 
+Q14. Déterminer, en l'absence de secousse sismique, la longueur du ressort à l'équilibre 
+éq
+L  en fonction 
+de 
+0
+L , k, m et g. En déduire la côte de la masse 
+éq
+z
+ repérée par rapport au bâti. 
+On note ( )
+( )
+éq
+u t
+z t
+z
+=
+−
+ l’écart par rapport à la position d’équilibre de la masse m. 
+Q15. Montrer que l'équation différentielle vérifiée par ( )
+u t  lors d’une secousse sismique s’écrit sous la 
+forme : 
+( )
+( )
+( )
+( )
+2
+2
+2
+0
+0
+2
+S
+d u t
+du t
+u t
+Z
+t
+dt
+Q
+dt
+
+
+
++
++
+=
+ 
+où 
+0
+ et Q  sont deux constantes à exprimer en fonction de k, m et . Donner les significations physiques 
+et les dimensions de ces deux grandeurs. 
+Q16. On se place en régime permanent sinusoïdal et on utilise la notation complexe : 
+(
+)
+0 exp
+u
+U
+j
+t
+
+
+=
++
+ avec 
+2
+1
+j = −. Écrire l’équation du mouvement de la masse m en notation complexe. 
+En déduire l’expression de la fonction de transfert du sismographe 
+(
+)
+S
+u
+H
+j
+Z
+=
+.  
+Q17. Quelle est la nature du filtre qui décrit le comportement du sismographe ? justifier votre réponse. 
+Q18. Montrer que l’expression de l’amplitude maximale 
+0
+U  de la réponse verticale ( )
+u t  est donnée par 
+(
+)
+2
+0
+0
+2
+2
+2
+2
+1
+x
+U
+Z
+x
+x
+Q
+=
+−
++
+ avec 
+0
+x
+
+
+=
+. 
+k 
+ 
+m 
+h 
+ 
+L(t) 
+Z 
+O 
+X 
+Figure 4 
+z(t) 
+
+ 
+Concours Biologie et Géologie - Session Juin 2023 Epreuve de Physique 
+Page 5/7 
+Q19.  Quelles sont les deux conditions portant sur la fréquence et 
+les rapports k
+m  et 
+m
+ pour que l’amplitude maximale 
+0
+U  soit 
+égale à l’amplitude 
+0
+Z  du sol. Déterminer dans ce cas le 
+déphasage entre le mouvement de la masse m et celui du sol. 
+Q20. La variation du rapport 
+0
+0
+U
+Z  en fonction de x est représentée 
+sur la figure 5 pour différentes valeurs de Q.  
+Les sismologues choisissent un facteur Q égal à 0,707. Justifier le 
+choix de cette valeur. 
+Filtrage du signal de sortie du sismographe 
+La vibration de la masse m est amplifiée et enregistrée par un 
+mécanisme 
+de 
+mesure 
+ou 
+un 
+transducteur.  
+Afin de supprimer les parasites de hautes fréquences du signal en 
+sortie du sismographe, on utilise un filtre passif constitué par un 
+circuit RLC série (figure 6). 
+Les signaux d’entrée et de sortie s’écrivent respectivement en 
+notation complexe : ( )
+0
+j t
+e t
+E e 
+=
+ et ( )
+(
+)
+0
+j
+t
+s t
+S e
+
+
++
+=
+. 
+Q21. Donner les circuits équivalents en hautes et basses fréquences. En déduire la nature du filtre. 
+Q22. Montrer que le signal ( )
+s t  vérifie l’équation différentielle : 
+( )
+( )
+( )
+( )
+2
+2
+2
+0
+0
+0
+2
+d s t
+ds t
+s t
+e t
+dt
+Q
+dt
+
+
+
++
++
+=
+ 
+où 
+0
+ et Q  sont deux constantes à exprimer en fonction de R , L et C. 
+Q23. Montrer que la fonction de transfert de ce filtre s’écrit sous la forme :  
+(
+)
+( )
+( )
+2
+0
+0
+1
+1
+s t
+H
+j
+e t
+j Q
+
+
+
+
+
+=
+=
+
+
+−
++
+
+
+
+
+ 
+Quel est l’ordre de ce filtre ? 
+Q24. Exprimer le module de la fonction de transfert de ce filtre en fonction de , 
+0
+ et Q. 
+Q25. Déterminer l’expression du Gain en décibels 
+dB
+G
+. Donner les équations des asymptotes de 
+dB
+G
+ 
+aux basses et aux hautes fréquences et préciser les pentes de ces asymptotes. 
+Q26. Sachant que la valeur maximale de 
+dB
+G
+ est nulle pour 
+1
+2
+Q 
+, définir et déterminer la pulsation 
+de coupure 
+c
+ du filtre dans ce cas. Montrer en particulier que 
+0
+c
+
+
+=
+ pour 
+1
+2
+Q =
+. 
+Q27. Tracer l’allure du diagramme de Bode en amplitude pour 
+1
+2
+Q =
+ et 
+1,4
+Q =
+. 
+e(t) 
+s(t) 
+L 
+R 
+C 
+Figure 6 
+0
+0,5
+1
+1,5
+0
+1
+2
+3
+𝐻𝑗𝜔
+𝑥
+Q = 0,4
+Figure 5
+Q = 1,4
+Q = 1
+Q = 0,707
+Q = 0,6
+
+ 
+Concours Biologie et Géologie - Session Juin 2023 Epreuve de Physique 
+Page 6/7 
+Troisième partie : Voyage dans l’atmosphère avec un ballon-sonde  
+Inventé en 1892 par Gustave Hermite, le ballon-sonde est depuis devenu un moyen incontournable pour 
+la recherche spatiale, les prévisions météorologiques et d’autres fins scientifiques. Un ballon-sonde est 
+constitué généralement d'une fine pellicule de plastique remplie d'hélium. Lorsque le ballon monte dans 
+l'atmosphère, il se dilate en raison de la diminution de la pression atmosphérique. Le ballon finit par 
+atteindre un point où il ne peut plus se dilater et éclate. Les ballons-sondes peuvent atteindre des hauteurs 
+allant jusqu'à 40 kilomètres au-dessus de la surface de la terre. 
+Dans cette partie, on s’intéresse à l’étude de la montée d’un ballon dans la couche la plus basse de 
+l’atmosphère, appelée troposphère, qui s’étend jusqu’à une dizaine de kilomètres d’altitude.  
+Pression dans l’atmosphère 
+L’atmosphère terrestre est assimilée à un gaz parfait, de masse molaire 
+1
+29
+a
+M
+ g mol −
+=
+. Le champ de 
+pesanteur terrestre est supposé uniforme : 
+z
+g
+g u
+= −
+ avec 
+2
+9,81 .
+g
+m s−
+=
+ et 
+zu un vecteur unitaire de l’axe 
+Oz orienté suivant la verticale ascendante. Son origine O est choisie au niveau de la surface du sol où la 
+pression est 
+0
+1 00
+P
+,
+ bar
+=
+, la température de l’air est 
+0
+290
+T
+ K
+=
+ et sa masse volumique 
+est 
+3
+0
+1 30
+,
+ kg m
+
+−
+=
+. 
+On suppose que la pression P et la masse volumique 
+a
+ de l’air ne dépendent que de l’altitude z. 
+• Modèle de l’atmosphère isotherme 
+Dans un premier temps, on suppose que l’atmosphère est isotherme à la température 
+0T .  
+Q28. Établir le bilan des forces s’exerçant sur une tranche d’air 
+cylindrique au repos de section S et comprise entre les altitudes z et z
+dz
++
+ 
+(figure 7). En déduire une équation reliant 
+( )
+dP z
+dz
+ et 
+( )
+a z
+
+. 
+Q29. Ecrire l’équation d’état d’un gaz parfait faisant intervenir la masse 
+volumique 
+( )
+a z
+
+. 
+Q30. Montrer que la pression atmosphérique 
+( )
+P z  s’écrit sous la forme : 
+( )
+0
+z
+P z
+P exp
+H
+
+
+=
+−
+
+
+
+
+ avec H est une constante dont on donnera sa 
+signification physique, son expression et sa valeur numérique. 
+La constante des gaz parfaits est : 
+1
+1
+8,314 .
+.
+R
+J K
+mol
+−
+−
+=
+ 
+Q31. Déterminer la valeur de la pression à l’altitude 
+10
+z
+km
+=
+. La comparer à la valeur expérimentale
+(
+)
+10
+0 26
+exp
+P
+z
+km
+,
+bar
+=
+=
+. Conclure.  
+• Modèle de l’atmosphère à gradient de température 
+Afin d’améliorer ce modèle, on suppose que la température n’est plus uniforme. Elle obéit à la loi 
+suivante :  
+( )
+(
+)
+0 1
+T z
+T
+a z
+=
+−
+ avec 
+6
+1
+22 6 10
+a
+,  
+m
+−
+−
+=
+. 
+ 
+Sol  
+z 
+Figure 7 
+z 
+ 
+ 
+O 
+
+ 
+Concours Biologie et Géologie - Session Juin 2023 Epreuve de Physique 
+Page 7/7 
+Q32. Montrer que la nouvelle loi de variation de la pression atmosphérique 
+( )
+P z , dans la couche 
+troposphérique, s’écrit : ( )
+(
+)
+0 1
+P z
+P
+a z
+
+=
+−
+ où 
+0
+a
+M g
+aRT
+=
+. 
+Q33. Calculer la nouvelle valeur de la pression à l’altitude 
+10
+z
+ km
+=
+. Conclure.  
+Q34. Déterminer l’expression de la masse volumique de l’air 
+( )
+a z
+
+ à l’altitude z . 
+Ascension d’un ballon-sonde dans la troposphère 
+On souhaite étudier l'atmosphère à l’aide d’un ballon-sonde rempli d'hélium et équipé d'une nacelle 
+contenant des instruments de mesure. Le ballon est partiellement gonflé au sol avec un volume 
+3
+0
+500
+V
+ m
+=
+ d’hélium. 
+La masse du ballon-sonde, constitué par la nacelle et l’enveloppe dépourvu d’hélium, est 
+500
+m
+ kg
+=
+. 
+L'enveloppe est suffisamment extensible pour garantir un équilibre mécanique et thermique entre 
+l'hélium et le milieu extérieur. Par conséquent, la pression et la température à l’intérieur du ballon sont 
+égales à celles de l’air à la côte z. 
+Q35. Montrer que la densité relative de l’hélium par rapport à l’air 
+H
+a
+e
+d
+
+
+=
+ est constante lors de 
+l’ascension du ballon. Calculer d sachant que la masse molaire de l’hélium est 
+1
+4
+He
+M
+ g mol −
+=
+. 
+Q36. Donner l’expression de la force de poussée d’Archimède  auquel est soumis le ballon-sonde. 
+Q37. On appelle force d’ascension 
+a
+F  la somme de toutes les forces extérieures s’exerçant sur le ballon 
+en mouvement rectiligne le long de l’axe (Oz). En négligeant les forces de frottement de l’air, déterminer 
+l’expression de 
+a
+F  au niveau du sol en fonction de m, g, d et 
+0
+. 
+Q38. A quelle condition le ballon s’élève-t-il ? En utilisant les données numériques, montrer que cette 
+condition est vérifiée. 
+Q39. Exprimer le volume de l’hélium 
+( )
+V z  contenu dans le ballon au cours de l’ascension. 
+Q40. Calculer l’altitude maximale 
+max
+z
+ lorsque le volume atteint sa valeur maximale 
+3
+1000
+max
+V
+ m
+=
+. 
+
+Corrigé de l’Epreuve de Physique - Concours Biologie et Géologie – Session 2023 
+ 1/6 
+ 
+REPUBLIQUE TUNISIENNE 
+Ministère de l’Enseignement Supérieur et 
+de la Recherche Scientifique 
+ 
+Concours Nationaux d’Entrée aux 
+Cycles de Formation d’Ingénieurs  
+Session 2023 
+ 
+ 
+ 
+المناظرات الوطنية للدخول 
+إلى مراحل تكوين المهندسين 
+دورة 3
+202
+ 
+Concours Biologie et Géologie 
+CORRIGÉ DE L’ÉPREUVE DE PHYSIQUE 
+ 
+Première partie : Diffusion thermique – Diffusion de particules 
+Thermorégulation d’un mammifère marin 
+Q1. 
+Dans le système international, 
+th
+J  s’exprime en 
+2
+.
+W m
+− et  en 
+1
+1
+.
+.
+W m
+K
+−
+− 
+Le signe ( )
+−  qui figure dans la loi de Fourier traduit le fait que le flux thermique est orienté dans le 
+sens des températures décroissantes. 
+Q2. 
+En électrocinétique, la loi semblable à la loi de Fourier est la loi d’Ohm. La densité de courant 
+volumique dans un conducteur Ohmique est : j
+E
+gradV
+
+
+=
+= −
+ où  est la conductivité électrique. 
+Analogie électrique - thermique 
+Grandeurs électriques 
+Grandeurs thermiques 
+J  : densité volumique de courant électrique 
+th
+J  : densité de flux thermique 
+ : conductivité électrique 
+ : conductivité thermique 
+V : potentiel électrique 
+T : température 
+2
+.
+S
+I
+J d S
+= 
+ : intensité de courant électrique 
+2
+.
+th
+th
+S
+J
+d S
+
+= 
+ : flux thermique 
+Q3. 
+Par application du premier principe de la thermodynamique sur le volume cylindrique de longueur L 
+compris entre r et r
+dr
++
+ en régime stationnaire, on obtient : 
+(
+)
+( )
+( )
+(
+)
+0
+dU
+U t
+dt
+U t
+Q r
+r
+dr
+
+
+=
++
+−
+=
+−
++
+=
+  
+( )
+(
+)
+(
+)
+2
+2
+0
+th
+th
+rL J
+r
+r
+dr L J
+r
+dr
+
+
+
+−
++
++
+=
+  
+( )
+(
+)
+0
+th
+d
+r J
+r
+dr
+
+=
+  
+( )
+th
+r J
+r
+A
+
+=
+ 
+( )
+th
+A
+J
+r
+r
+
+=
+ ; A
+cte
+=
+ 
+( )
+th
+A
+J
+r
+r
+=
+  
+dT
+A
+dr
+r
+
+−
+=
+ 
+T
+Lnr
+
+
+
+=
++
+ ;  et  sont des constantes. 
+En tenant compte des conditions aux limites : ( )
+0
+i
+T r
+T
+=
+ et (
+)
+0
+e
+T r
+e
+T
++
+=
+, on obtient : 
+(
+)
+( )
+0
+0
+e
+i
+T
+T
+Ln r
+e
+Ln r
+
+−
+=
++
+−
+ et 
+(
+)
+( )
+(
+)
+( )
+0
+0
+0
+0
+i
+e
+T Ln r
+e
+T Ln r
+Ln r
+e
+Ln r
+
++
+−
+=
++
+−
+ 
+Ainsi : ( )
+(
+)
+( )
+( )
+(
+)
+( )
+(
+)
+( )
+0
+0
+0
+0
+0
+0
+0
+0
+0
+i
+e
+e
+i
+e
+i
+i
+T Ln r
+e
+T Ln r
+T
+T
+T
+T
+r
+T r
+Ln r
+T
+Ln
+Ln r
+e
+Ln r
+Ln r
+e
+Ln r
+r
+r
+e
+Ln
+r
++
+−
+
+
+−
+−
+=
++
+=
++
+
+
++
+−
++
+−
+
+
++
+
+
+
+
+
+
+ 
+Q4. 
+Puissance thermique 
+th
+ traversant un cylindre de rayon r et de longueur L : 
+2
+.
+2
+2
+2
+th
+th
+S
+dT
+J
+d S
+rL
+rL
+L
+dr
+r
+
+
+
+
+
+
+
+=
+= −
+= −
+= −
+
+  
+(
+)
+( )(
+)
+0
+0
+2
+th
+i
+e
+L
+T
+T
+Ln r
+e
+Ln r
+
+
+=
+−
++
+−
+ 
+La résistance thermique est : 
+(
+)
+( )
+0
+0
+0
+1
+2
+2
+i
+e
+th
+th
+e
+Ln
+r
+Ln r
+e
+Ln r
+T
+T
+R
+L
+L
+
+
+
+
++
+
+
++
+−
+−
+
+
+=
+=
+=
+
+ 
+
+Corrigé de l’Epreuve de Physique - Concours Biologie et Géologie – Session 2023 
+ 2/6 
+Q5. 
+Résistance de la couche supplémentaire de conductivité 
+'
+ et d’épaisseur e' : 
+0
+'
+1
+'
+'
+2
+'
+th
+e
+Ln
+r
+e
+R
+L
+
+
+
++
+
+
++
+
+
+=
+ 
+Le système est équivalent à deux dipôles thermiques montés en série. La résistance thermique total est : 
+ 
+0
+0
+'
+1
+1
+'
+2
+2
+'
+tot
+th
+th
+e
+e
+Ln
+Ln
+r
+r
+e
+R
+R
+R
+L
+L
+
+
+
+
+
+
++
++
+
+
+
+
++
+
+
+
+
+=
++
+=
++
+ ; A.N : 
+1
+1,75
+.
+tot
+R
+K W −
+=
+ 
+Puissance thermique 
+th
+ transférée vers le milieu extérieur : 
+i
+e
+th
+tot
+T
+T
+R
+−
+
+=
+ ; A.N : 
+20,57
+th
+W
+
+=
+ 
+Energie thermique 
+th
+Q  perdue dans une durée 
+t
+ : 
+th
+th
+Q
+t
+=   
+A.N : en une journée 
+6
+1,78.10
+425,18
+th
+Q
+J
+kcal
+=
+=
+ 
+En plus de ces besoins métaboliques journaliers, l’apport énergétique du jeune mammifère permet de 
+compenser les pertes thermiques. 
+met
+th
+W
+W
+Q
+=
++
+ ; A.N : 
+6
+925,18
+3,87.10
+W
+kcal
+J
+=
+=
+ 
+ 
+Collecte de nutriments par une bactérie 
+Q6. 
+(
+)
+,
+p
+J
+M t  s’exprime dans le système international en 
+2
+1
+.
+.
+mol m
+s
+−
+−  
+Q7 
+Le système possède une symétrie sphérique. Il est invariant par rotation autour du point O. Par conséquent 
+(
+)
+,
+c M t  ne dépend que de la variable d’espace r dans le système de coordonnées sphériques et du temps 
+t. La densité de courant 
+(
+)
+(
+)
+(
+)
+,
+,
+,
+p
+P
+r
+J
+M t
+D grad c M t
+J
+r t u
+= −
+=
+ 
+Sachant que le gradient de concentration est orienté dans le sens du vecteur 
+ru (selon les 
+concentrations croissantes, 
+(
+)
+,
+p
+J
+r t  est alors négative. 
+Q8. 
+Bilan de matière sur une tranche comprise entre les surfaces sphériques de rayons r et r
+dr
++
+pendant dt : 
+(
+)
+( )
+0
+0
+0
+r
+dr
+r
+dt
+
++
+−
+
+=
+
+
+  
+( )
+0
+0
+d
+r dr dt
+dr
+
+
+=  
+( )
+0
+0
+r
+cte
+
+= =
+ 
+Q9. 
+Le flux de nutriments est : 
+( )
+3
+0
+0
+4
+3
+R
+R A
+
+= 
+=
+  
+Q10. Le flux de nutriments collecté par la bactérie est : 
+( )
+( )
+( )
+2
+2
+0
+0
+.
+4
+S
+dc r
+r
+J r d S
+D
+r
+dr
+
+
+= −
+=
+= 
+
+ 
+Q11. 
+( )
+2
+0
+4
+dc r
+D
+r
+dr
+
+=
+ 
+( )
+0
+2
+4
+dc r
+dr
+Dr
+
+
+
+=
+ 
+( )
+0
+4
+c r
+Dr
+
+
+
+
+= −
++
+ 
+Or (
+)
+c r
+c
+→=
+ 
+c
+
+
+
+=
+ d’où ( )
+0
+4
+c r
+c
+Dr
+
+
+
+=
+−
+ 
+Q12. 
+( )
+0
+3
+0
+4
+4
+3
+c R
+c
+D R
+R A
+
+
+
+
+
+=
+−
+
+=
+
+ 
+( )
+2
+3
+R A
+c R
+c
+D
+
+
+=
+−
+ 
+La consommation en nutriments est maximale lorsque ( )
+c R  est nulle.  
+( )
+2
+max
+0
+3
+R A
+c R
+c
+D
+
+=
+−
+=
+ 
+max
+2
+3D
+A
+c
+R
+
+
+=
+ 
+Q13. 
+Pour une consommation volumique en glucose égale à 
+0
+A : ( )
+2
+0
+3
+R A
+c R
+c
+D
+
+=
+−
+ 
+Pour une concentration ( )
+c R  nulle, la concentration à l’infini est minimale. 
+Soit : ( )
+2
+0
+,min
+0
+3
+R A
+c R
+c
+D
+
+=
+−
+=
+ 
+2
+0
+,min
+3
+R A
+c
+D
+
+
+=
+. 
+A.N : 
+3
+3
+,min
+3,3.10
+.
+c
+mol m
+−
+−
+
+=
+ 
+
+Corrigé de l’Epreuve de Physique - Concours Biologie et Géologie – Session 2023 
+ 3/6 
+Deuxième partie : Détection et mesure des amplitudes des ondes sismiques 
+Sismographe vertical 
+Q14. 
+A l’équilibre : 
+(
+)
+0
+0
+éq
+z
+mg
+k L
+L
+e
+−
+−
+−
+=
+ 
+0
+éq
+mg
+L
+L
+k
+
+=
++
+ 
+La position de la masse par rapport au bâti : 
+0
+éq
+éq
+mg
+z
+H
+L
+H
+L
+k
+=
+−
+=
+−
+−
+ 
+Q15. 
+Appliquons la RFD à la masse m dans le référentiel galiléen R : 
+(
+)
+( )
+( )
+( )
+(
+)
+2
+0
+2
+( )
+z
+z
+S
+z
+dz t
+d
+mg
+k L
+L t
+e
+e
+m
+z t
+Z
+t
+e
+dt
+dt
+
+−
+−
+−
+−
+=
++
+ avec ( )
+( )
+L t
+H
+z t
+=
+−
+ 
+( )
+( )
+( )
+( )
+(
+)
+2
+0
+2
+S
+dz t
+mg
+d
+k z t
+H
+L
+m
+z t
+Z
+t
+k
+dt
+dt
+
+
+
+
+
+−
+−
+−
+−
+−
+=
++
+
+
+
+
+
+
+
+
+ 
+( )
+(
+)
+( )
+(
+)
+( )
+(
+)
+( )
+2
+2
+2
+2
+éq
+S
+éq
+éq
+d z t
+z
+d Z
+t
+d
+k z t
+z
+m
+z t
+z
+m
+dt
+dt
+dt
+
+−
+−
+−
+−
+−
+−
+=
+ 
+( )
+( )
+( )
+( )
+2
+2
+2
+2
+S
+d u t
+du t
+d Z
+t
+k u t
+dt
+m
+dt
+m
+dt
+
+
++
++
+= −
+ or 
+( )
+(
+)
+0 cos
+S
+Z
+t
+Z
+t
+
+=
+ 
+Donc 
+( )
+( )
+( )
+( )
+2
+2
+2
+0
+0
+2
+S
+d u t
+du t
+u t
+Z
+t
+dt
+Q
+dt
+
+
+
++
++
+=
+ où 
+0
+Q
+m
+
+
+=
+ et 
+2
+0
+k
+m
+=
+ 
+0
+k
+m
+=
+ : pulsation propre du système exprimé en 
+1
+.
+rad s− dans le système international 
+1
+Q
+mk
+
+=
+ : facteur de qualité ; grandeur adimensionnel 
+Q16. 
+En régime sinusoïdal forcé : 
+(
+)
+0 exp
+u
+U
+j
+t
+
+
+=
++
+ 
+En injectant cette solution dans l’équation différentielle du mouvement, on obtient : 
+( )
+( )
+( )
+( )
+2
+2
+2
+0
+0
+S
+u t
+j
+u t
+u t
+Z
+t
+Q
+
+
+
+
+
+−
++
++
+=
+ 
+(
+)
+( )
+( )
+2
+2
+2
+0
+0
+S
+j
+u t
+Z
+t
+Q
+
+
+
+
+
+
+
+
+−
++
+=
+
+
+
+
+  
+(
+)
+( )
+( )
+(
+)
+2
+2
+2
+0
+0
+S
+u t
+H
+j
+Z
+t
+j
+Q
+
+
+
+
+
+
+
+=
+=
+−
++
+ 
+(
+)
+2
+2
+0
+2
+2
+0
+0
+1
+H
+j
+j
+Q
+
+
+
+
+
+
+
+
+=
+
+
+−
++
+
+
+
+
+ 
+Q17. 
+La fonction de transfert qui décrit le comportement du sismographe correspond à celle d’un filtre passe 
+haut .  En effet : 
+(
+)
+0
+lim
+0
+H
+j
+
+
+→
+=
+  et 
+(
+)
+lim
+1
+H
+j
+
+
+→
+= − le filtre ne laisse passer que les hautes fréquences  
+Q18. 
+(
+)
+( )
+( )
+2
+2
+0
+2
+2
+0
+0
+1
+S
+u t
+H
+j
+Z
+t
+j
+Q
+
+
+
+
+
+
+
+=
+=
+
+
+−
++
+
+
+
+
+  
+(
+)
+(
+)
+2
+2
+2
+0
+0
+2
+2
+2
+2
+2
+0
+2
+2
+2
+0
+0
+1
+1
+U
+x
+H
+j
+Z
+x
+x
+Q
+Q
+
+
+
+
+
+
+
+
+=
+=
+=
+
+
+
+
+−
++
+−
++
+
+
+
+
+
+
+
+
+  
+ 
+(
+)
+2
+0
+0
+2
+2
+2
+2
+1
+x
+U
+Z
+x
+x
+Q
+
+=
+−
++
+ avec 
+0
+x
+
+
+=
+ 
+Q19. 
+• 
+0
+0
+U
+Z
+=
+ pour (
+2
+1
+x  et 
+2
+x
+x
+Q
+
+)   (
+2
+2
+0
+
+
+
+ et 
+0
+Q
+
+
+)   (
+2
+k
+m
+
+ et 
+m
+
+
+) 
+• La fonction de transfert s’écrit :
+(
+)
+(
+)
+2
+2
+1
+x
+H
+j
+j
+x
+x
+Q
+=
+−
++
+ avec 
+0
+x
+
+
+=
+ 
+Dans le cas où (
+2
+1
+x  et 
+2
+x
+x
+Q
+
+) ; 
+(
+)
+1
+j
+H
+j
+e 
+= −=
+. Le déphasage entre le mouvement de la masse 
+m et celui du sol est égal à . 
+
+Corrigé de l’Epreuve de Physique - Concours Biologie et Géologie – Session 2023 
+ 4/6 
+Q20. 
+Le choix d'un facteur de qualité de 0,707 pour les sismographes est lié à la réponse en fréquence de ces 
+instruments. Le facteur de qualité est choisi pour optimiser la réponse de l'instrument aux ondes sismiques. 
+D’après la figure 5, un facteur de qualité de 0,707 permet d’atteindre rapidement un rapport 
+0
+0
+U
+Z
+ égal à 1.  
+Le sismographe reproduit fidèlement les secousses sismiques pour 
+2
+x 
+ . 
+Filtrage du signal de sortie du sismographe 
+Q21. 
+Circuits équivalents : 
+A basses fréquences 
+0
+→
+ ;  
+0
+L
+Z
+jL
+=
+→
+ et 
+1
+C
+Z
+jC
+=
+→ 
+A hautes fréquences → ;  
+L
+Z
+jL
+=
+→ et 
+1
+0
+C
+Z
+jC
+=
+→
+ 
+Le circuit ne laisse passer que les signaux de basses fréquences. Il s’agit d’un filtre passe bas 
+Q22. 
+Appliquons la loi des mailles : 
+( )
+( )
+( )
+( )
+q t
+di t
+e t
+Ri t
+L
+dt
+C
+=
++
++
+ avec ( )
+( )
+q t
+s t
+C
+=
+ et ( )
+( )
+( )
+dq t
+ds t
+i t
+C
+dt
+dt
+=
+=
+ 
+( )
+( )
+( )
+( )
+2
+2
+ds t
+d s t
+e t
+RC
+LC
+s t
+dt
+dt
+
+=
++
++
+ 
+( )
+( )
+( )
+( )
+2
+2
+1
+1
+d s t
+ds t
+R
+s t
+e t
+dt
+L
+dt
+LC
+LC
+
++
++
+=
+ 
+( )
+( )
+( )
+( )
+2
+2
+2
+0
+0
+0
+2
+d s t
+ds t
+s t
+e t
+dt
+Q
+dt
+
+
+
+
++
++
+=
+ avec 
+2
+0
+0
+0
+1
+1
+1
+LC
+LC
+R
+L
+Q
+Q
+L
+R
+C
+
+
+
+
+
+=
+=
+
+
+
+
+
+
+
+
+=
+=
+
+
+
+
+  
+Q23. 
+( )
+( )
+( )
+( )
+2
+2
+2
+0
+0
+0
+2
+d s t
+ds t
+s t
+e t
+dt
+Q
+dt
+
+
+
++
++
+=
+  
+( )
+( )
+( )
+( )
+2
+2
+2
+0
+0
+0
+s t
+j
+s t
+s t
+e t
+Q
+
+
+
+
+
+−
++
++
+=
+ 
+ 
+ 
+(
+)
+( )
+( )
+2
+0
+2
+2
+2
+0
+0
+0
+0
+1
+1
+s t
+H
+j
+e t
+j
+j
+Q
+Q
+
+
+
+
+
+
+
+
+
+
+
+=
+=
+=
+
+
+−
++
+−
++
+
+
+
+
+ 
+La fonction de transfert est celle d’un filtre passe bas du second ordre. 
+Q24. 
+(
+)
+2
+2
+2
+0
+0
+1
+1
+H
+j
+Q
+
+
+
+
+
+=
+
+
+
+
+
+
+
+
+−
++
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Q25. 
+(
+)
+(
+)
+20log
+dB
+G
+H j
+=
+ 
+2
+2
+2
+2
+2
+2
+0
+0
+0
+0
+1
+20log
+10log
+1
+1
+dB
+G
+Q
+Q
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=
+= −
+−
++
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+−
++
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+• 
+Pour les basses fréquences : 
+0
+dB
+G
+ asymptote horizontale (pente nulle) 
+• 
+Pour les basses fréquences : 
+0
+40log
+dB
+G
+
+
+
+
+−
+
+
+
+
+ asymptote oblique de pente 40
+/
+dB décade
+−
+ 
+Q26. 
+La pulsation de coupure 
+c
+ correspond à la pulsation à laquelle le gain chute de 3 décibels par rapport à 
+sa valeur maximale.  
+(
+)
+,max
+0
+3
+dB
+c
+dB
+G
+G
+
+=
+=
+−
+  
+(
+)
+2
+2
+2
+0
+0
+1
+1
+2
+1
+c
+c
+c
+H
+j
+Q
+
+
+
+
+
+
+=
+=
+
+
+
+
+
+
+
+
+−
++
+
+
+
+
+
+
+
+
+
+
+
+
+  
+2
+2
+2
+0
+0
+1
+2
+c
+c
+Q
+
+
+
+
+
+
+
+
+
+
+
+
+
+−
++
+=
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+e(t) 
+R 
+s(t)=e(t) 
+i=0 
+e(t) 
+R 
+s(t)=0 
+
+Corrigé de l’Epreuve de Physique - Concours Biologie et Géologie – Session 2023 
+ 5/6 
+ 
+4
+2
+2
+0
+0
+1
+2
+1
+0
+c
+c
+Q
+
+
+
+
+
+
+
+
+
+
+
++
+−
+−=
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+2
+0
+2
+2
+1
+1
+1
+1
+1
+2
+2
+c
+Q
+Q
+
+
+
+
+
+=
+−
++
++
+−
+
+
+
+
+ 
+Pour 
+1
+2
+Q =
+ ; 
+2
+1
+2
+Q =
+ 
+0
+c
+
+
+→
+=
+ 
+Q27. 
+Troisième partie : Voyage dans l’atmosphère avec un ballon-sonde 
+Pression dans l’atmosphère 
+Q28. 
+Bilan des forces s’exerçant sur une tranche d’air cylindrique au repos de section S et comprise entre les 
+altitudes z et z
+dz
++
+ :  
+( )
+(
+)
+0
+a
+P z S
+P z
+dz S
+gSdz
+
+−
++
+−
+=
+ 
+( )
+( )
+0
+a
+dP z dz
+z gdz
+dz
+
+−
+−
+=
+ 
+( )
+( )
+a
+dP z
+z g
+dz
+
+
+= −
+ 
+Q29. 
+Équation d’état d’un gaz parfait pour une masse m d’air correspondant à un nombre de mole n et un 
+volume ( )
+( )
+a
+m
+V z
+z
+
+=
+ à l’altitude z : ( ) ( )
+0
+P z V z
+nRT
+=
+ 
+( )
+( )
+0
+a
+a
+m
+m
+P z
+RT
+z
+M
+
+
+=
+ 
+( )
+( )
+0
+a
+a
+RT
+P z
+z
+M
+
+
+=
+ 
+Q30. 
+( )
+( )
+( )
+( )
+( )
+( )
+0
+0
+a
+a
+a
+a
+dP z
+z g
+dP z
+M g
+dz
+P z
+RT
+dz
+RT
+P z
+z
+M
+
+
+
+= −
+
+
+= −
+
+
+=
+
+  
+La solution de cette équation différentielle est de la forme : ( )
+0
+exp
+a
+M g
+P z
+A
+z
+RT
+
+
+=
+−
+
+
+
+
+ ; A
+cte
+=
+  
+Or à l’altitude 
+0
+z =
+ ; 
+( )
+0
+0
+P
+P
+=
+ 
+0
+A
+P
+→
+=
+ D’où : ( )
+0
+0
+0
+exp
+exp
+a
+M g
+z
+P z
+P
+z
+P
+RT
+H
+
+
+
+
+=
+−
+=
+−
+
+
+
+
+
+
+
+
+ ;
+0
+a
+RT
+H
+M g
+=
+ 
+H possède la dimension d’une longueur qui caractérise la diminution de la pression en fonction de 
+l’altitude.  A.N : 
+8475
+H
+m
+=
+ 
+Q31. 
+A l’altitude 
+10
+z
+h
+km
+=
+=
+, la pression est 
+( )
+0 exp
+h
+P h
+P
+H
+
+
+=
+−
+
+
+
+
+ ; A.N : (
+)
+10
+0,307
+P z
+km
+bar
+=
+=
+ 
+La différence entre la valeur expérimentale (0,26bar ) et la valeur calculée (0,307bar ) est due au modèle 
+de l’atmosphère isotherme utilisé. Ce modèle ne décrit pas correctement la variation de la pression 
+atmosphérique. En effet, la variation de la température n’est pas négligeable dans l’atmosphère. 
+Q32. 
+Modèle de l’atmosphère à gradient de température : ( )
+(
+)
+0 1
+T z
+T
+a z
+=
+−
+ ; 
+6
+1
+22,6.10
+a
+m
+−
+−
+=
+ 
+En utilisant l’équation fondamentale de l’hydrostatique et l’équation d’état d’un gaz parfait, on obtient : 
+( )
+( )
+( )
+( )
+( )
+( )
+( )
+( )
+a
+a
+a
+a
+dP z
+z g
+dP z
+M g
+dz
+P z
+RT z
+dz
+RT z
+P z
+z
+M
+
+
+
+= −
+
+
+= −
+
+
+=
+
+ 
+( )
+( )
+(
+)
+0 1
+a
+dP z
+M g
+dz
+P z
+RT
+az
+
+= −
+−
+ 
+( )
+(
+)
+0
+1
+a
+M g
+aRT
+P z
+D
+az
+
+=
+−
+ ; D
+cte
+=
+ Or 
+(
+)
+0
+0
+P z
+P
+=
+=
+ 
+0P
+D
+
+=
+ d’où 
+( )
+(
+)
+0 1
+P z
+P
+az
+
+=
+−
+ avec 
+0
+a
+M g
+aRT
+=
+ 
+-20
+-15
+-10
+-5
+0
+5
+10
+15
+0,1
+1
+10
+log(/0
+GdB
+-40dB/décade
+Q=1,4
+Q=0,707
+
+Corrigé de l’Epreuve de Physique - Concours Biologie et Géologie – Session 2023 
+ 6/6 
+Q33. 
+A.N : 
+5,22
+=
+ ; A l’altitude 
+10
+z
+km
+=
+ ; (
+)
+10
+0,263
+P
+km
+bar
+=
+ 
+La valeur calculée en utilisant le modèle de l’atmosphère à gradient de température est en bonne 
+concordance avec la valeur expérimentale. 
+Q34. 
+L’équation d’état d’un gaz parfait s’écrit : ( )
+( )
+( )
+1
+1
+a
+a
+P z
+RT z
+z
+M
+
+=
+  
+
+( )
+( )
+( )
+(
+)
+(
+)
+(
+)
+1
+0
+0
+0
+0
+1
+1
+1
+a
+a
+a
+a
+M P z
+P
+a z
+M
+M P
+z
+a z
+RT z
+R
+T
+a z
+RT
+
+
+
+−
+−
+=
+=
+=
+−
+−
+ 
+Ascension d’un ballon-sonde dans la troposphère 
+Q35. 
+Puisque l’hélium est en équilibre thermique et mécanique avec l’air atmosphérique, les pressions et les 
+températures de l’hélium et de l’air sont identiques. 
+A l’altitude z, on a : 
+( )
+( )
+( )
+a
+a
+M P z
+z
+RT z
+
+=
+ et 
+( )
+( )
+( )
+He
+He
+M
+P z
+z
+RT z
+
+=
+. 
+ 
+( )
+( )
+( )
+( )
+( )
+( )
+He
+He
+He
+a
+a
+a
+z
+M
+P z
+RT z
+M
+d
+z
+RT z
+M P z
+M
+
+
+=
+=
+=
+. A.N : 
+4
+0 138
+29
+d
+,
+=
+=
+ 
+Q36. 
+Force de poussée d’Archimède auquel est soumis le ballon-sonde : 
+a
+He
+a
+He
+z
+V
+g
+V
+g u
+
+
+
+= −
+=
+ ; 
+( )
+He
+V
+V z
+=
+ est le volume de l’hélium contenu dans le ballon à l’altitude z. 
+Q37. 
+Force ascensionnelle résultante de toutes les forces s’exerçant sur le ballon- sonde : 
+a
+B
+He
+He
+a
+F
+P
+P
+m g
+m
+g
+m g
+
+=
++
++
+=
++
+−
+ 
+ 
+( )
+( )
+a
+He
+z
+a
+z
+F
+m g
+V z g u
+V z g u
+
+
+= −
+−
++
+. 
+Au niveau du sol :  
+(
+)
+0
+0
+V z
+V
+=
+=
+et 
+(
+)
+0
+0
+a z
+
+
+=
+=
+, 
+donc 
+(
+)
+0
+0
+0
+a
+He
+z
+a
+z
+F
+z
+m g
+V g u
+V g u
+
+
+=
+= −
+−
++
+ 
+
+(
+)
+(
+)
+(
+)
+0
+0
+0
+0
+0
+1
+a
+z
+a
+z
+a
+z
+z
+F
+z
+m g u
+d
+V g u
+V g u
+V
+d
+m g u
+
+
+
+=
+= −
+−
++
+=
+−
+−
+. 
+Q38. 
+Le ballon-sonde s’élève du sol si la force de poussée d’Archimède est plus importante que le poids total 
+du ballon, c’est-à-dire que la force d’ascension 
+a
+F  est dirigée suivant 
+zu
++
+. 
+(
+)
+(
+)
+(
+)
+0
+0
+0
+1
+0
+a
+F
+z
+V
+d
+m g
+
+=
+=
+−
+−
+
+ 
+(
+)
+0
+0 1
+mg
+V
+d
+
+
+
+−
+ 
+ Au niveau du sol, la valeur algébrique de cette force est : 
+(
+)
+0
+591 5
+0
+a
+F
+z
+, N
+=
+=
+
+. 
+Par conséquent, le ballon peut s’élever. 
+Q39. 
+Au cours de l’ascension, la masse de l’hélium dans l’enveloppe reste constante, soit : 
+(
+)
+( )
+( )
+0
+0
+He
+He
+He
+m
+z
+V
+z V z
+
+
+=
+=
+=
+  
+( )
+( )
+0
+0
+a
+d
+V
+d
+z V z
+
+
+=
+  
+( )
+( )
+0
+0
+a
+V
+V z
+z
+
+
+=
+. 
+D’après Q34-, on a : 
+( )
+(
+)
+(
+)(
+)
+(
+)
+1
+1
+1
+0
+0
+0
+1
+0 1
+1
+a
+a
+a
+M P
+z
+a z
+z
+a z
+a z
+RT
+
+
+
+
+
+
+−
+−
+−
+=
+−
+=
+=
+−
+=
+−
+. 
+donc 
+( )
+(
+)
+1
+0 1
+V z
+V
+a z
+
+−
+=
+−
+ 
+Q40. 
+A l’altitude maximale 
+max
+z
+,  
+(
+)
+(
+)
+1
+0 1
+max
+max
+max
+V z
+V
+V
+a z
+
+−
+=
+=
+−
+  
+1
+1
+0
+1
+max
+max
+V
+a z
+V
+
+−
+
+
+−
+= 
+
+
+
+ 
+
+1
+1
+0
+1 1
+max
+max
+V
+z
+a
+V
+
+−
+
+
+
+
+
+
+=
+−
+
+
+
+
+
+
+
+
+
+. ; A.N : 
+6702 3
+6 7
+max
+z
+, m
+, km
+=
+ 
+ 

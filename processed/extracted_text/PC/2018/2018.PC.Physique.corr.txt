@@ -1,0 +1,810 @@
+Correction Concours Physique 
+PC 20018 
+Problème N°1(70 points) 
+A-Modèle moléculaire 
+10 points 
+1/ 
+a s'exprime en J · m-n_ 
+O.Spt 
+[a]= [U][x-n] = ML2T- 2L-n = ML2-nr-2 
+2/ 
+Six ➔ 0 alors U(x) ➔ oo; si x ➔ 
+cx.i alors U(x) ➔ O. 
+(0.5) 
+1.Spts 
+au 
+na 
+q 2 
+4nnae _1_ 
+(1) 
+-
+= - -
++ -- = 0 =>X= Xo = (--0)n-1 
+dx 
+;i:n+l 
+41tl!oz2 
+q2 
+' 
+2 
+soit : a = xn-l _q_ 
+0 
+'47ml! 
+3/ 
+!l!ftJ 
+0~1 " 
+O.Spt 
+h 
+i' 
+C 
+\ 
+'j> X.. 
+{\ 
+f ~-··_,., 
+· ~  
+: · .. -
+4/ 
+) 
+au 
+na 
+q2 
+F(x = - ax = xn+l -
+41reoz2 =>F X =- - 0---
+q2 (xn-1 
+1 ) 
+( ) 
+41reo xn+1 
+z2 • 
+lpt 
+n-1 
+- La force est attractive si F < 0 => ;:+1 < ; 2 => x"(f-1 < xn-1 => x > x0 (carn > 
+1). 
+- La force est répulsive si F > 0, soit alors pour x < Xn • 
+5/ 
+Ea = U(:i ➔ oo) - U(x ➔ x0 ) = -U(x = x0), 
+0.5pt 
+ce qui vient : 
+a 
+q2 
+q2 
+( 
+1) 
+Ea=--+--=-- 1--
+xl; 
+41re0x0 
+41re0x0 
+n 
+6/a/. Puisque--E,r:= -U(x·=·x,j)·et (!lll)-·--= · 0 (un minimum); .. -· --- ·--···- ----------- ----•.-· -- . .. 
+--~- - 1.5pts 
+/ 
+ax xo 
+1 
+· (a2u) 
+alors à l'ordre 2 on aura : U(x) = -Ea + - (x - x0 ) 2 -
+2 
+2 
+dx 
+zo (0.5) 
+Enposantk = e
+2
+~) 
+, Uvient: U(x) = -:-Ea +~k(x c-x0)2 
+•. 
+ax 
+~ 
+2 
+__ 
+(azu) 
+q2 
+k= -
+=--(n-1) 
+dx2 xo 
+41tEo,t'o 
+(0.5) 
+Pourn = 10 on a: k = 441,71 Nm-1 
+(0.5) 
+b/- ~RFD:-mx=-~k(x=x0)-=-+·m(x·~ x0)== ·..:c.k(x~ x0)"➔--- ----- - · 
+--· ............ ···-···-····--·------ ·tpt····· 
+mX+kX=O ➔ d2X 
+k 
+l 
+-+-X=O=>ro0 = -
+dt2 
+m 
+m 
+;, 
+c/ 
+m0 = 
+2;,,c = 51,43 1013s-~ => 10 = 3,66µm E IR 
+1. \\,'\'--1~ ) 
+lpt 
+7/a/ 
+x 
+·· 
+X 
+mx = -m-:;-k(x-x0)-qE ➔ mX = -m:;:--kX-qE 
+lpt 
+b/ 
+En notation complexe on a: 
+1.5pts 
+-mw2X = -im wo X - kX - qE 
+o_ 
+, -
+-
+=> 
+X= i~ = i q,Ea eiwat 
+-
+m.,° 
+mwo 
+(0.5) 
+Xm = q,Eo = 0.0011 nm ~ ~ « Xo; 
+· 
+·mw0 
+· 
+·· 
+·· 
+·· · 
+··100·· ··· · 
+... 
+d'où la validité du modèle de l'oscillateur harmonique. (1) 
+B- Etude du fond diffus cosmolo2ioue 
+3.5 points 
+8/ 
+Un corps noir est un corps aui absorbe toute l'énergie électromaimétique qu'il reçoit. 
+lpt 
+9/a/ 
+2898 
+• 
+1m =--;- = 966 µm = 0,97mm (ondes Radio) 
+lpt 
+b/ 
+Àm = 2898 = 0483 m 
+6000 
+' 
+µ 
+( dans le visible) 
+1.5pts 
+2898 
+• 
+1m = -;:;;- = 9,348 µm : un corps humain émet dans l'IR 
+C- Réflexion d'une onde plane sur un conducteur 
+18 points 
+10/ 
+'jj. = Eo ei(wt-kx)ü 
+1.5pts 
+~ 
+C 
+Z 
+... 
+k 
+.... 
+B = -~ei<t,)t+1cx)ü 
+B =-1\E soit: 
+Cd 
+~ 
+C 
+Z 
+B _ g,,t i(wt-&x)-+ 
+~ - !!-;::-e 
+Uz 
+1 
+' 
+' ! 
+... 
+r 
+
+11/ 
+•. ,-'+. 
+p. 
+• .... 
+--
+8~ _.... 
+-
+8~ 
+1.Spts -
+divË,t:= ta; dt!!!t~~ 0; rot~= -Tt; rotftt = µ0y~ + e0µ0 8t 
+-,,, 
+,--· 
+--
+-
+. 
+ôEt 
+-
+--
+-:> 
+\ 
+div~ = 0 => - = 0 => p = 0 
+(0.5) 
+ÔV 
+12/ 
+jD « rEc ➔ WEo «Y ➔ f « _L = 1019s-1 
+lpt 
+27rEo 
+13/ 
+-
+lpt 
+~-
+_____. 
+...... 
+..... 
+arotïi 
+---+ 
+-
+-
+..... 
+aË 
+-+ 
+rotrot~ = graddiv§ - /:J.§ => -
+at!!$ = graddiv§ -Il§=> /:J.§ - ~y a~= 0 
+14/ 
+(-ikc)2-iwµ0y = 0 o/!fj = -iyµ0w.j 
+lpt 
+15/ 
+2 
+(1-t)2 
+k 
+-(1 
+') ✓c.J/loY 
+- 1-f 
+c.J 
+& =-2-wµoy ➔ c=+ -l ~-=+T=!!; 
+lpt 
+L'onde se propage suivant les x > 0, on prend alors la solution: & = 
+1;t 
+et donc l'indice 
+1-i 
+n=c-
+-
+,_,,: 
+tM 
+--+ 
+i(œHc m 
+.... 
+i.(œt=,_~. 
+...! j.(œ~ 
+_!;_t -
+!!cite 
+~tx Uy - gt - liote 
+. 
+Uy = §0te lie 
+Uy 
+1 '-pts 
+C'est une onde progressive atténuée. 8 représente la profondeur de pénétration. 
+17/ 
+o(lO0MHz) = 15,9um, o(ovtique) = 15,9nm 
+lpt 
+18/ 
+{ ,-. 
+2.5pts 
+[i(X = 0) + Êr(X = 0) = Êc(X = 0) { 1 + !: = !_ 
+!: = 1+; 
+-
+-+ 
+-+ 
+1 
+-
+t 
+2 
+(2) 
+f 
+tCX = 0) + B (x = 0) = B c(.i = 0) 
+- !: - !!:.... 
+t = -
+[ 
+T 
+'"'." 
+1+!!; 
+T = C.liô'-c(1-i) 
+t= 
+2c.JÔ 
+(0.5) 
+-
+c.Jô+c(l-i)' 
+c.Jô+c(l-i) 
+19/ 
+al o=➔0 
+0.5 
+1 b/ 
+,-c(l-i) 
+0.5 
+lpt 
+r=--=-1 
+-
++c(l-i) 
+cl 
+~ 
+➔ 
+-+ 
+• 
+• 
+it&.'lt .... 
+E = !h, + Ër = 2lE0tSlnkx e 
+Uy 
+2.Spts 
+rotË = -iwB ➔ 2ikE0tCoskx eic.Jtüz = -iwB 
+· (2) 
+--> 
+-2 
+. 
+· 
+E 
+· 
+·· .. ·. 
+. 
+· 
+· 
+---B··-=--=kE·-,:coskx-e""tü--=~~2..Elcoskx-eitùtü----C'est·une onde-stationnaire ·-· .. --- -~-~----
+--
+t.l 
+Ot 
+Z 
+· C · 
+Z 
+. 
+• 
+(0.5) 
+dl 
+--
+2 
+. 
+{ïi) =Ô 
+1.5pts 
+n = ~ 
+= 4~ coskx sinkx sinwt coswtüz => 
+,= 
+l'o 
+Jlo 
+Alors pas de propagation de l'énergie électromagnétique; 
+e/ 
+- E2 
+B2 
+.. 
+. 1 
+2 
+... . 
+1 
+lpt 
+< u >=< E0 2 + 2 >= 2e0E0t
+2 sin2kx Ï + -. -2 E0/cos
+2 kx 2 
+~ 
+~c 
+. 
+Soit < U .. >= EoEa, 2 
+·-
+D- -EXPansfo1iae l'Univers 
+-·----~----- --·-·- -- -·-~-·-·· -- .... -----·--·- --·-· 
+.. 
+·• 
+··-----··----- '1. points ___ -
+"··- ·-··· 
+20/a/ 
+<u> 
+l.Spts 
+dU = d(<u >V)= ow+oQ = -pdV = --· -dV 
+3 
+<u > dV + Vd <u >= -~dV ➔ ~dV + Vd <u >= 0 ➔ 4dv + 3d<u> = 
+3 
+3 
+V 
+<u> 
+0 ➔ 4lnV + 3ln < u >= cte donc V4 < u > 3= C 
+b/ 
+(!.:,rR3 
+1.Spts 
+V4 < u > 3= C ➔ -)4(Ax T4)3 = C ➔ R12T12 = cte 
+3 
+. 
+enfin R X T = C' Si R augmente alors T dimunie 
+cl 
+. R x T-= constante 
+et À... x T = este 
+=> ,l,,. = cte R 
+. ·-· ... ~ ... 
+···-
+lpt. 
+E- Effet Doppler en astrophvsique 
+6points 
+21/a/. à/ 
+I 
+d 
+t1 =;, 
+lpt 
+b/ :X2 =: d + VT 
+lpt 
+~pt 
+cl 
+t; = 
+Xz + t2 = tf + !!-+ T T' = t; - tf = T(l + ! ) 
+1.Spts 
+r 
+r 
+r· 
+dl 
+~=~(l+;) ➔JRifI;f}' 
+lpt 
+V 
+V 
+C 
+·',:,:;•9:P,·; 
+e/ 
+l:J.v=v'-v=-v! 
+(0.5) 
+1.Spts 
+C 
+. 
+. 
+T' = T(l +;) 
+l' 
+l 
+V 
+l 1 
+V 
+l 1-l 
+V 
+(1) 
+➔ -;- = ;(1 + ;) ➔ 7 = 1 +; donc"""'T" =; 
+F- Mesure de la vitesse d'éloi2nement d'une étoile 
+10 points 
+22/ 
+E4 - E2 = hv =>V= 6,181014Hz eu=;= 0,485 10-6m E Vis 
+l.Spts 
+23/a/ 
+8 = (Sv+1M)- (SvM) = a sine-
+lpt 
+2 
+
+b/ 
+lpt 
+cl 
+I . N '
+2 
+2 
+stn-2 tp ) 
+I = 141 = A/ ---:-tp 
+\ Stnz , 
+lpt 
+dl 
+Les interférences sont totalement constructives lorsque tous les vecteurs de 
+1.5pts 
+Fresnel sont colinéaires. 
+-+- -+- -+- -+- -+--+--+-
+Alors la phase tp. doit être multiple de 2n : tp = 2mn 
+(1) 
+tp = Zmn = z:ô = zna:inB ⇒ a sin 8 = m,l 
+(O.?) 
+24/a/ 
+0.5pt 
+b/ 
+A 1 :> O ⇒ :[__~ 0, donc..r.étoile..s.:éloigne..deJa.Iette-Çl--~~---------+--'"P1~L<1----1f---------r 
+V = c~ = 61,7 k:ms- 1 (1) 
+cl 
+H = 0.2510-17 est l'inverse du temps 
+l1>t 
+dl 
+1 
+d 
+Ti= v = 41017 s = 13 milliar.ds ans 
+0.5pt 
+G- Mesure de la la11?eur .d'u,ne raie spectrale .. 
+. .18 ooints 
+25/ 
+YÎ 
+M'1. ---!---• ... 
+1 
+.;, e 
+faisceau incident 
+. .\ 
+- i 
+~! 
+F 
+- L 
+... déteéteur 
+. -
+.... --
+26/ 
+27/ 
+28/ 
+29/ 
+30/ 
+31/a/ 
+b/ 
+L'image M' 1 de M1 par la séparatrice est parallèle au miroir M2 : on dit que 
+l'interféromètre est utilisé en lame d'air d'épaisseur e. (0.5) 
+I 
+lo 
+1 = l2 = 4 . 
+(1) 
+Pour un R quelconque on aura : 11 = 12 = R(l - R)l0 • L'intensité des rayons est 
+maximale si a~;
+2 = 0 => 1 - 2R = 0 donc R = 0,5 
+(0.5) 
+Le rôle de la compensatrice est de compenser la différence de marche 
+suoolémentaire causée par l'épaisseur non négligeable de la séparatrice. 
+6 
+2e 
+/j=2e ⇒p=1=1· 
+10 / 
+2n8) 
+10 { 
+4ne\ 
+I = 2 ,d 1 + cos-;- = 2 1 + cos-;-) 
+1( 
+2no\ 
+10 
+/ 
+2nv8\ 
+dl = d/0 2 1 + cos T) = 711,; \ 1 + cos---;:-J dv 
+I 1v
+2 
+2nv8) 
+I = 2lv 'v1 
+( 1 + cos-c- dv 
+3 
+1.5pts 
+1.5pts 
+lpt 
+1.5pts 
+lpt 
+lpt 
+lpt 
+2pts 
+
+: 
+. 
+6.llv 
+J, [ 
+C •'htvor 
+Jo ( 
+sm{n-, ) 
+v, ) 
+I =-- v+--sin-- · =·- 1+ 
+cos(2n-c5) 
+2.6v 
+2nô 
+C 
+vl 
+2 
+1t 6.llv 
+C 
+C 
+( 
+. ( 8) 
+) 
+e 
+I 
+Slll 1tï;"" 
+V 
+En posant Le = - , on écrit alors I = ~ 1 + --6-c- cos ( 2n .2. c5) 
+~ 
+2 
+-
+C 
+L.-
+cl 
+C 
+4J. 
+,U 
+C 
+~ 
+lpt 
+V = Î => Llv = C ;i_z ;:.,: C ~ doncL =-=-
+e 
+/J.v 
+,U 
+dl 
+,.,.. 
+~ 
+lpt 
+~· 
+), 
+\{;~'!t_'\DP<fiYi 
+. Le 
+1 . 
+.. 
+e/ 
+La variation .6p112 de l'ordre d'interférence entre les fréquences v0 et v0 + Il: 
+1.Spts 
+I 
+.. , d 
+.a 
+8/J.v 
+couvrant a m01tie u spectre vaut : 
+p112 = -2e 
+· 
+· · 
+· 
+1 
+e 
+Les franges restent visibles dès que Llp112 < - => 8 < - = Le . 
+2 
+/J.v 
+Le est la longueur de cohére11ce temporelle. 
+Le est la différence de ;tl)al"che maxitnale au-delà de laquelle il n'y a pas 
+.interférence (Le est la longueur du train d'onde). 
+32/ 
+2e = L~ => è == 2,037mm 
+2pts 
+Le = ~ => LU = 0,058nm 
+Pour le laser He-Ne : Le = 30 m. ' Pour une onde monochromatique: L,. = oo. 
+33/a/ 
+La vitesse V des atomes sur la direction Détecteur-Source (l'axe Ox sur la figure 
+1.Spts 
+3 de l'énoncé) prend toutes les valeurs possibles entre +vm et - Vm: 
+· :Alors;·pour V= -+vm;-on· aura un-décalag~Doppler·:··--:-~- - Az~.:lo-=-~ --·· 
+-~----
+·-· -· --- . 
+Pour V = -vm, lui correspond un décalag~ Doppler : li~.:lo = - ~ 
+Alors l'élargissement total de la raie est : LU = À.2 -
+À.1 = 2.À.0 ""' 
+;= 
+r 
+b/ 
+~ 
+O.Spt 
+·Bk8 T 
+Vm= --
+T;,,,: 15 000K 
+'\i 7rmH 
+····-. 
+•·· 
+4 
+
+Problème N°2 (30 points) 
+-· 
+-
+A- Caractère ondulatoire des électrons 
+4 points 
+1/ 
+,atftodt 
+..... 
+lpt 
+:'ilament 1 
+E 
+I Vs 
+7 -
+r 
+-, 
+2/ 
+AEc = W(Fe1ec) = J;-eË. ëfi 
+2pts 
+⇒ ~mVa2 - 0 = -e(Uc - Ua) = eU => Ys = ff 
+2 
+· 
+· 
+m 
+3/ 
+J2eU 
+7 
+-1 
+h 
+h 
+lpt 
+A.N : Ys = -
+= 0,6 10 ms 
+À. = - = - = 0 12nm 
+m 
+p 
+mVs 
+' 
+B- Effet tunnel 
+26 points 
+-4/- -€1assiquement-hrconset vation dei'-én-ergie-interdÎtlroréte-ctr<>:rrs-de-frmëbiï ia 
+.1.:,pts 
+barrière en x=O, ils vont rebondir et repartent avec la vitesse oooosée. 
+5/a/ 
+ltP(x, t)( est la densité de probabilité de présence de l'électron; 
+1.Spts 
+b/ 
+,,_2 a2q;i(x) 
+3pts 
+-
+= Eq;i(x) 
+2m 
+ax2 
+f,_2 az<pu(x) . 
+- 2m 
+axz 
++ Vo<fJ11 = E<pu(x) 
+, 
+,,_z az<pw(x) = E<pm(x) 
+- /Tri 
+;i.,..2 
+6/a/ k = ,/ZmE et {3 = ,/2m(Y0-E) 
+3pts 
+r, 
+~-
+b/ 
+Dans la région m, il n'ya pas de réflexion ⇒ ~ = 0 jl) 
+.. }p_~ 
+&. e tu : onde incidente 
+· 
+· · ·· 
+· 
+· · · · · 
+!b_e-1.kx: onde réfléchie 
+(0.5x4) 
+4:z_ePx + fhe-Px: ondes évanescentes 
+fu e iu: onde transmise 
+7/ -- l <pï(0) ::;: <1'11(0) { 
+·&.+lb: = 4:z. +~ 
+. 
+2pts 
+'Pu(L) = <Pm(L) 4:z.ePL + §J.e-PL = fueikL 
+et 
+. 
+.. · {!\~~~ = 
+<f!'.i!(il){p/k(~L +~) :P~)~ i-~~ikL 
+<p 11 
+-
+<p m 
+4:z.e 
+- §J.e 
+- z fue 
+8/a/ 
+le courant de probabilité s'interprète comme un flux d'électrons. J s'exnrime en s-1 
+1.Spts 
+b/ 
+T= l!i2 
+1.Spts 
+9/a/ 
+eflL_e-fiL 
+efiL 
+e2fiL 
+alors: T"" 
+l 
+3pts 
+sh{3L = 
+,,,,_⇒ sh2({3L) = -
+, 
+V~ 
+2{JL "" 
+2 
+2 
+4 
+l + 16E(Vo-E) e 
+1 
+2L S "tT -
+16B(Yo-E) t O -~ 
+_ 16B(Y0-B) -2/JL _ T 6 
+2 
+-
+2 
+e 
+-
+oe 
+01 
+0 -
+2 
+e 
+- P 
+Vo 
+ezfiL 
+Vo 
+Vo 
+16E(Vo-E) 
+o : profondeur de pénétration dans la barrière 
+b/ 
+(V0 -E) ➔oo => P ➔oodoncT ➔0 
+lpt 
+L ➔ oo ⇒ e-zpL ➔ o donc r ➔ 0 
+m ➔oo:> {3 ➔oodoncT ➔0 
+Pour les trois cas on tend vers le cas classiC1ue. 
+cl 
+o ""0,1nm 
+lpt 
+d/ 
+Pour L1 = 0,3 nm => T "" 10-2 
+PourL2 = 3nm =>T"" 10-zo 
+1.5pts 
+T décroît très raoidement avec L. 
+el 
+PL "" 30 l'approximation est vérifiée 
+lpt 
+10/ 
+~ = ~ = 0 02 => AL = ..2- = 6 10-12 m 
+1.Spts 
+J 
+1' 
+1 
+enn 
+5 

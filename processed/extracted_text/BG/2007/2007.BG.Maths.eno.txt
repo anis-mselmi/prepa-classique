@@ -1,0 +1,51 @@
+--- page 1 ---
+Insritu: Frspmratolro & Jdos wud;$ . a8oiburs Cv 88a Bielu; :equi 4Lsi5i/481 &Ul=l[els Esybeyb Jsulyajlj ùhniJusjyj 2007*)>
+REPUBLIQUE TUNISIENNE
+Ministère de [Enseignement
+Supérieur, de la Recherche Scientifique et de la Technologie Concours petionaux dcntrec aux cycles dc formadion d'ingénicurs Sceslou 2007
+1 . P 2 1  8 B'Soti; : JE 494 Arrive Ie A9/06/08
+Concours en Biologie et Géologie Epreuve de mathématiques
+Durée: 3 heures Date: 04 Juin 2007 Heure: 8H Nbre de page 03 Barème: Exercice:  6 points Problème: 14 points
+Unc 9rande importance sera attachée à la rigueur du raisonnement, à la clarté et au soin de la présentation L'usage des calculatrices n'est pas autorisé. Il est rappelé que tout résultat  énoncé dans le texte paut être utilisé pour traiter la suite, même s'il w'a pu être démontré.
+Exercice
+On munit R3 de la base canonique (e1,e2,e3) ct on considère Pendomorphisme f de C(R?) défini dans la base canonique, par sa matrice 2 1 A 2 1
+1. a) Montrer quc 1 et 2 sont les denx valeurs propres dc A Préciser leurs multiplicités. b) Montrer que A est diagonalisable. 22 a) Déterminer une base de vecteurs propres (01, "2, v3) de f , telle quc la troisième compososante de chacun des vecteurs soit égalc à 1_ b) En déduire unc matrice inversible P telle que A = PDP-' , où D est  une mnatrice diagonale. c) Calculer P- 3 Calculer A" pour tout; n € N. 4 Soit æo, y0, z0 des réels.  On considère les suites réelles (æn), (Un), (zn) de premiers termcs respectifs z0, %0, z0 et telles quc En | 1 5(21n + yn zn), = (En + 2yn zn) , wstrur Preprratoire _ Un+1 3 BIBUOTHEQUE 2n+1 = {(æn + yn) nx5 Sx ETUDEs  DIGEMEUS
+
+--- page 2 ---
+Ex;rimr 2n- :n. *n PI fou:ioIl (e 7 et de fo. Yo. 20: Suit K.1.Z 'ros variables aléatoircs discrètes à valeurs dans Y et telles que
+P(I = n) = In P(Y = n) = Yn P(Z = n) = Zn. n € V
+a) Déterminer It). VO. %0) . b} Déterminer la loi de X ~ 1 ainsi que son espérance. Calculer Fesperance de
+Problème
+ereparatoipe  8 Aux E Etuoes ~
+Partie 1
+On rappellc que
+00
+~I2 Vn e dr = 2
+1 En faisant "n changement de variable. montrer quc
+O € SI dx = VT- VI
+2 Montrer que
+7
+7? dx
+pour tout a > 0
+0
+Partie 2
+Soit !.Y. }; un conplc & variables aléatoires admettant comme densité la fonctiou f1x) iéfinic sur R? par 2l+2 2e si y 2 0 f(x;Y (I.y) = 0 sinon 1 Déterminer la densité marginale de X. 2 a) Donncr la fonction de répartition de la variable aléatoire Z = 2Arctg(X) b) Déduire que Z suit une loi uniforme sur 1, 1[ 3. Soit Z1. Z2 deux variables aléatoires réellcs indépcndantes, de même densité de probabilité que la variable aléatoire Z Déterminer la densité de probabilité de la variable aléatoire Z1 + Z2. 4 à) Mlontrer que pour tout t € ;0. 1[ 0 < min(t. 1 ~ t) < ! h) Donner la loi de la variable aléatoire L = IZ|: c) Déterminer la fonction de répartition de la variable aléatoire min( L.1 ~ L) . En déduire la loi de min( L. 1 L) .
+4272 8 #SWOTAFêHE N 86uetva Ar
+2
+
+--- page 3 ---
+"1 et telles que
+Partie 3
+n €Y
+Déterminer la loi marginale de YJ 2) Préciser la loi de X sachant que Y = Y . avec y > 0 'alculer la fonction de répartition de Y à laide dc la fonction de répartition de :a loi normale centrée réduite. Jéterminer la densité de probabilité de la variable aléatoire oient U et V deux variables aléatoires indépendantes dc méme densité de probabilité que la variable aléatoire vY 9) Montrer que la variable aléatoire T = U2 + V2 suit la loi exponentielle de paramètre ! b) Déterminer la {onction génératrice de moments @T de I. 2) Effectuer le développement en série entière de QT sur 2, 2 1) En déduirc le moment dordre n de T. 2) Donner la valeur de +00 Jo xre ~IdI )n considère la suite (Tn)n de variables aléatoires indépendantcs. de mene densité de probabilité que la variable aléatoire T
+{
+On pose Sn = Tk. n € N' k=l Sn 1) Montrer que 2") converge vers une loi qu 'on préciser:. 2v n 2) Que vaut lim P Sn > 2n) ? 1 Soit  un réel strictement positif.  En utilisant Finégaliré ve Tchébychev. Ilun[ter que pour {out entier naturel n. il existe A(n) tel que
+0
+P(lSn 2n} < nA) 2 A(n).
+lensité la fonction jv4 ; En déduire que lin P(iSn 2n: < nA) = 1.
+{
+2 Z = Arctg(.X; T
+e même densité de
+Z1 + Z2.
+oire min( L.l L) .
+3

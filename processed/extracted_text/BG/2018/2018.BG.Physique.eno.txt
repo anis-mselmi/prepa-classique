@@ -1,0 +1,334 @@
+REPUBLIQUE TUNISIENNE 
+Ministère de l'Enseignement Supérieur et de la 
+Recherche Scientifique 
+Concours Nationaux d'Entrée aux Cycles 
+de Formation d'ingénieurs 
+Session 2018 
+Concours Biologie et Géologie 
+Epreuve de Physique 
+Date : Lundi 04 Juin 2018 
+Heure: 8 H 
+Durée : 3 H 
+Nombre de pages : 6 
+Barème : Partie I: 7 pts , Partie II: 7 pts, 
+Partie III: 2 pts, Partie IV: 4 pts 
+L'usage d'une calculatrice non programmable est autorisé. 
+L'épreuve comporte quatre parties indépendantes. Le candidat peut les résoudre dans l'ordre qui lui 
+convient, en respectant néanmoins la numérotation des questions. 
+Un candidat peut toujours se servir d'un résultat fourni par l'énoncé pour continuer sa composition. 
+1- Phénomènes de Transport 
+On considère un fil métallique cylindrique 
+homogène, d'axe Ox, de section S, de longueur 
+L et de rayon a très 
+petit par rapport à L 
+( figure 
+1 ). Ce fil possède une capacité 
+thermique massique C, une masse volumique p 
+et une conductivité thermique À. 
+t I 
+p. c. À 
+a - -
+L 
+Figure 1 
+) 
+X 
+1- Les parois latérales du fil sont parfaitement calorifugées. La température dans le fil 
+T(x, t) est considérée uniforme sur la section du fil et ne dépend que de l'abscisse x et du 
+temps t. Ce fil est siège d'un phénomène de conduction thermique décrit par le vecteur 
+densité de courant thermique J = j(x, t)Ûx, où Ûx est le vecteur unitaire de l'axe Ox. 
+a- Quelle est la dimension de J? Quelle est la grandeur donnée par son flux à travers la 
+section du fil ? Quelle est la dimension de cette grandeur ? 
+b- En faisant un bilan thermique pendant un intervalle de temps dt sur un tronçon du fil 
+de longueur dx,. montrer que les variations temporelles de l'énergie interne volumique 
+u(x, t) du fil sont reliées aux variations spatiales de J par : 
+du(x, t) 
+dj(x, t) 
+dt 
+dX 
+c- Rappeler la loi de Fourier, quelle est la dimension de À? 
+d- Déterminer à une constante additive près u0, l'expression de l'énergie interne 
+volumique u(x, t) en fonction de C, T(x, t) et de p. 
+e- Montrer que T(x, t) vérifie l'équation aux dérivées partielles suivante : 
+d2T(x, t) 
+1 dT(x, t) 
+dx2 
+D 
+dt 
+f- Qu'appelle-t-on D? Donner son expression en fonction de p, Cet À. Quelle est sa 
+dimension? 
+Concours Biologie et Géologie 
+Session 2018 
+Epreuve de Physique 
+Pagel/6 
+
+2- Dans la suite, On se place en régime stationnaire. 
+a-
+Déterminer l'expression de T(x) en fonction deT1, 
+T2, L et x; avec 
+T(x = 0) = T 1 , T(x = L) = T 2 avec T 1 > T 2• Représenter graphiquement T(x). 
+b-
+En déduire l'expression du vecteur densité de courant thermique J(x). 
+3- On se propose dans cette question de déterminer la résistance thermique du fil. 
+a- Déterminer l'expression du flux thermique <Pth. 
+b- Une analogie entre les grandeurs électriques et les grandeurs thermiques dégagée sur 
+la base des lois de Fourier et d'Ohm, permet d'écrire: l:!.T = <PthRth où Rth est la 
+résistance thermique. Exprimer alors Rth· 
+4- Lorsqu'un corps solide à la température T est plongé dans un fluide ambiant de 
+température Ta, un transfert conducto-convectif a lieu au niveau de la surface S de ce 
+corps. 
+a- Exprimer le flux thermique conducto-convectif c/J,v (compté positivement dans le sens 
+sortant du corps) en fonction de T, Ta, S et le coefficient d'échange thermique par 
+convection h. 
+b- En déduire l'expression de la résistance thermique de convection Rcv. 
+5- Dans cette question on cherche à expliquer, pourquoi un opérateur touchant un objet en 
+bois et un autre en acier portés à la même température, a la sensation que le bois est plus 
+chaud que l'acier. 
+Pour apporter une réponse à cette question, 
+on considère deux cylindres C1 et C2 de 
+même section S, de même axe Ox, de 
+conductivités thermiques respectives 11 
+et À.2 et de longueurs respectives L1 et L2 . 
+Les deux cylindres sont mis bout à bout, le 
+contact se fait en x = 0 (figure 2). 
+1io'---C-1,_l_1 ____ 
+C_2_,l_2_..., Tw 
+--+_------+------+---)➔ X 
+0 
+Figure 2 
+On maintient les extrémités x = -L1 et x = L2 aux températures respectives T10 et T20 . 
+On suppose que le régime stationnaire est établi et on note T O la température en x = O. 
+a- Exprimer la température T 1 (x) dans C1 en fonction de T 0 , T 10 et L1. 
+b- Exprimer de même la température T 2 (x) dans C2 en fonction de T O , T 02 et L2. 
+c-
+Exprimer le vecteur densité de courant thermique dans chacun des deux cylindres. 
+d- En déduire la température T 0 en fonction de T 10, T 20, L1, L2, 11 et 12. 
+6- La température de la main de l'opérateur est T 10 = 37°C. 
+a- Calculer T O pour un contact main-bois, puis T O pour un contact main-acier dans les 
+deux cas suivants : T 20 = 100°C (sensation du chaud) ; T 20 = 10°C (sensation du 
+froid). On prendra L1 = L2 et on utilisera les valeurs suivantes des conductivités 
+thermiques: 
+1 Corps 
+À(W.K-1.m-1) 
+b- Commenter les résultats obtenus. 
+1 Acier 
+100 
+II- Régulation de température, utilisation d'une thermistance 
+Une thermistance est une résistance électrique sensible à la température. On trouve deux 
+types de thermistances : une thermistance à coefficient de température positif ayant une 
+résistance qui augmente avec la température et une thermistance à coefficient de température 
+négatif possédant une résistance qui diminue avec la température. 
+Concours Biologie et Géologie 
+Session 2018 
+Epreuve de Physique 
+Page2/6 
+
+7- Considérons une thermistance dont la variation de la résistance en fonction de la 
+température est donnée par la loi: 
+1 
+R(T) = Ae8 Cr) 
+A et B sont des constantes positives caractéristiques de la thermistance et T la température 
+absolue exprimée en Kelvin. 
+a- Quelle est la dimension des constantes A et B ? Justifier. 
+b- Représenter l'allure de la courbe R(T). 
+c- Proposer une méthode pratique permettant de déterminer A et B graphiquement à 
+partir de mesures expérimentales de R(T). 
+8- Soit R0 la résistante de cette thermistance à la température T 0 • 
+a- Montrer que: 
+R(T) = R0e8(i ;o) . 
+b- Déterminer en fonction de B et T, le coefficient de la thermistance défini par : 
+(T) = _1_ (dR(T)) 
+a 
+R(T) 
+dT 
+c- Identifier le type de la thermistance considérée. 
+d-
+On fixe dans la suite du problème T O = 300K et R0 = 115, 0 n. Calculer a(T 0). 
+On donne B = 6492 K. 
+9- Au voisinage de T 0, la température de la thermistance peut varier très légèrement de dT. 
+a- Montrer que R(T) varie alors de dR = -R0 ~ dT. 
+To 
+b- Cette variation, exprimant la sensibilité de la thermistance, peut être évaluée en terme 
+d'incertitude sur la mesure de R; calculer l'incertitude !:::.T sur la mesure de la 
+température pour !:::.R = 0, 1 n. 
+10-La thermistance de résistance R est intégrée dans le 
+circuit de la figure 3. Ce circuit est alimenté par un 
+générateur de tension constante E. La résistance r vaut 
+100, 0 n. La tension U aux bornes der est mesurée à 
+E 
+l'aide d'un voltmètre numérique (V). 
+a- Quel est l'ordre de grandeur de la résistance interne 
+de ce voltmètre ? 
+b- Exprimer alors la tension U en fonction der, R et E. 
+Le voltmètre affiche la valeur U0=4,651Và T0 . 
+Calculer la tension E. 
+Figure 3 
+11-La variation de tension obtenue autour de T O est !:::.U = 1mV. Déterminer la variation de 
+température !:::.T de la thermistance en fonction de !:::.U, r, R0, U O et T 0 . Effectuer 
+l'application numérique. 
+12- La thermistance est intégrée dans le circuit de la figure 4 constituant un pont de 
+Wheatstone. X est une résistance variable. On donne R1=100, 0 n, E=10, 00 V. 
+E (R-X) 
+a- Montrer que la tension entre A et B peut s'écrire: U AB = 2 X+R 
+b- Lorsque la température de la thermistance est T O , on règle la valeur de la résistance 
+X à X0 pour que la tension U AB soit nulle (pont à l'équilibre). Déterminer Xo. 
+Pour les questions qui suivent, on fixe X à X 0 . 
+Concours Biologie et Géologie 
+Session 2018 
+Epreuve de Physique 
+Page3/6 
+
+13- Dans le but de tester la sensibilité du pont, on part 
+de U AB = 0, et on fait varier la température T de 
+11T autour de T O , la tension entre A et B devient 
+f:lU AB· 
+a- En différentiant l'expression de U AB par rapport 
+à R, exprimer dU AB en fonction de E et R 0 . 
+b- En déduire f:lU AB sous la forme : 
+f:lU AB = kf:lT 
+avec 
+k = - a(To)E. 
+4-
+c- Evaluer f:lT pour f:lU AB = 0, 01 mV. 
+14-La thermistance est placée dans une enceinte 
+thermostatée contenant un fluide à la température 
+T O = 300K (figure 5). 
+a- Une fois l'équilibre thermique est atteint dans 
+l'enceinte, on mesure la tension U AB, on obtient 
+une valeur négative U AB = -20mV. Calculer la 
+résistance de la thennistance, puis en déduire sa 
+température T 1 . 
+b- Justifier l'écart de températures entre T 1 et T 0 . 
+X t 
+,'Y 
+E 
+A 
+R 
+Figure 4 
+Figure 5 
+15-On note P e la puissance électrique dissipée par effet joule dans la thermistance. On 
+suppose que la chaleur thermique échangée par convection entre la thermistance et le 
+fluide s'exprime par: </>e = h9 (T 1 - T 0) avec h9 un coefficient d'échange thermique 
+par convection exprimé en W.K- 1. On désigne par m la masse de la thermistance et C 
+sa capacité thermique massique considérée indépendante de la température. 
+a- En faisant un bilan thermique de la thermistance sur une durée dt, établir l'équation 
+différentielle vérifiée par T. 
+b- En régime stationnaire, exprimer la puissance P e en fonction de hg, T O et T 1• 
+c-
+Calculer l'intensité de courant circulant dans la thermistance. 
+d- En déduire la valeur numérique de P e, puis celle de hg. 
+III- Etude thermodynamique de la charge d'un condensateur 
+On considère un condensateur de capacité C placé dans un fluide. On le charge à l'aide d'un 
+générateur de tension V O à température et pression fixées. A l'équilibre thermodynamique le 
+système (condensateur + fluide) est caractérisé par les variables d'état : pression P, 
+temperature T, volume T, entropie S, charge électrique q et la tension V. Ce processus de 
+charge est supposé réversible et le condensateur est initialement non chargé. 
+16-Soit oWe = Vdq le travail électrostatique élémentaire fourni par le générateur au 
+condensateur lorsqu'il est sous une tension V et quand sa charge varie de dq = C dV 
+avec C = C(T) . Dans la suite, le travail des forces de pression sera négligé. 
+Soit U l'énergie interne du système, en appliquant le Ier et le 2ème principes de la 
+thermodynamique, montrer que : 
+dU - Vdq::; TdS 
+17- Pour étudier l'évolution réversible de la charge du condensateur au cours de laquelle la 
+tension V passe progressivement de zéro à V 0, il est possible d'utiliser la fonction 
+potentiel thermodynamique généralisée F = U - TS - qV où Tet V sont les variables 
+d'état de F. 
+Concours Biologie et Géologie 
+Session 2018 
+Epreuve de Physique 
+Page4/6 
+
+a- En supposant que F(V = O) = 0, montrer qu'à température constante, on a : 
+~ 
+1 
+Z 
+F(V0 ) = --CV0 . 
+z 
+b- Justifier alors l'hypothèse que Fest un potentiel thermodynamique. 
+18- Soit a et 1 les coefficients calorimétriques du fluide, les variations de S et de F 
+s'écrivent : 
+dS = ~ dT + !: dV 
+T 
+T 
+dF = -SdT - qdV 
+a- Montrer que 1 = TV (:i)v. Quelle est l'unité de À? 
+b- La température T du fluide est fixée à T 0 . Montrer que la quantité de chaleur Q 
+échangée avec le milieu extérieur s'écrit: Q = i lV 0. 
+19- Lorsque la charge du condensateur est réversible à pression et température constantes, le 
+fluide dégage de la chaleur vers l'extérieur pour maintenir sa température. On suppose 
+que (:~)v < O. Déduire alors l'évolution de la température du fluide dans le cas d'une 
+charge adiabatique réversible. 
+IV Mesure de la pression d'un fluide 
+20- Un réservoir de forme cylindrique (figure 6) de section S est rempli avec un liquide de 
+masse volumique p jusqu'à une hauteur h. Un point N du liquide est repéré par ses 
+coordonnées cartésiennes 
+dans un 
+repère 
+orthonormé 
+R(O, x, y, z), tel 
+que 
+l'axe Oz coïncide avec la verticale, la cote h étant prise au niveau de la surface libre du 
+liquide. On note PO la pression atmosphérique en z = h. 
+a- Montrer que la pression en un point N de cote z peut s'écrire: 
+P= az+b 
+Les constantes a et b sont à déterminer. Comment évolue la 
+pression avec la profondeur du liquide ? 
+b- Déterminer la pression P à une profondeur de 60 m dans 
+l'eau, comparer P à P0. On donne: 9 = 9, 81 ms-z, 
+p = 103kgm-3 et P0 = 105Pa. 
+N ----
+z 
+h 
+z 
+-0 
+Figure 6 
+c- Expliquer pourquoi un plongeur se trouvant à une profondeur de 60m dans l'eau a des 
+soucis sérieux pendant la phase de remontée. 
+d- Pour calculer le volume d'oxygène dans les poumons, on utilise généralement le modèle 
+des gaz parfaits, ce modèle est-il applicable à cette profondeur? Justifier. 
+21-Considérons les deux réservoirs communicants (1) et (2) de la figure 7. Initialement l'eau 
+remplit les deux réservoirs à la même hauteur h0• 
+Lorsqu'on applique une pressions P 1 à la surface libre du réservoir (1), et une pression 
+Pz à la surface libre du réservoir (2) les hauteurs deviennent respectivement h1 et hz 
+(figure 7). On note hz - h1 = 21::.h, et h1 + hz = 2h0 • Exprimer la différence de 
+pression l::.P = Pz - P 1 en fonction de la dénivellation !::.h. 
+Concours Biologie et Géologie 
+Session 2018 
+Epreuve de Physique 
+PageS/6 
+
+t---P_z_+T----t---1··--- 2&1 .1 
++ 
+Figure 7 
+22-On souhaite mesurer l:lh. Pour ceci, on plonge dans le réservoir (1) un condensateur plan 
+de capacité C1 et dans le réservoir (2) un condensateur plan de capacité C2 formé chacun 
+par deux armatures de forme rectangulaire de longueur L suivant l'axe Oz des réservoirs. 
+Le fluide supposé isolant est repéré par la hauteur h avec O :::; h :::; L. La capacité du 
+condensateur varie linéairement avec la hauteur h selon la loi : 
+C(h) = ah+ P où a et (J sont des constantes réelles positives. 
+a- Montrer que C 2 - C 1 est proportionnel à l:lh . 
+b- Exprimer C 1 + C 2 en fonction de h0 
+23- Les deux capacités sont connectées aux bornes 
+du pont de Sauty comme l'indique la figure 8. La 
+tension e à l'entrée du circuit est sinusoïdale de 
+pulsation w et de tension maximale em: 
+e = emsin (wt) 
+a- Montrer que la tension s peut se mettre sous la 
+forme: 
+e C2 - C1 
+s=----
+2 C1 + Cz 
+Déduire la condition sur C1 et C2 à l'équilibre. 
+Figure 8 
+R 
+R 
+b- On se place hors équilibre, en déduire que la tension de sortie s est proportionnelle à la 
+différence C2 - C1. 
+c- Exprimer la relation entre la tension de sortie s et h2 - h1. 
+d- Calculer l:lh pour a= 11181, 8 10-12 F. m-1, p = 141, 54 10-12F, 
+e = 6 V, s = 1 mVet 2h0 = 1m. Conclure. 
+rf in. de l'ép'r.eu.ve 
+Concours Biologie et Géologie 
+Session 2018 
+Epreuve de Physique 
+Page6/6 
+-- ---------- -------

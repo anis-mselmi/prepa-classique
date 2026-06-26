@@ -1,0 +1,47 @@
+--- page 1 ---
+REPUBLIQUE TUNISEENNE Mnistère de [Enseignement Superieur Coocourr nuffona dcatrte n Ocla de formatlon d'ngtnieur Sessfon 2006
+4gisi @arlas Cf?QabBu 45 uug 2006 *
+Concours Mathématiques et Physique Epreuve de Mathématiques I Xvas 558027432 2 8 1 8
+Durée : 4 Heures
+Date : 5 Juin 2006
+Heure : 8 H Nb pages 5
+Barème :
+Partie I: 5.5 pts Partie II: 4.5 Pts Partie III: 5.5 pts Partie IV: 4.5
+Une grande importance sera attachée à la rigueur du raisonnement; à la clerté et au soin de la présentation. L 'usage des calculatrices n'est pas autorisé. I est rappelé que tout résultat énoncé dans le terte peut être utilisé pour traiter la suite, même s'il n'a pu être démontré
+Partie I
+On pose
+2 @(æ) = VT
+~t2 e dt.
+1w Montrer que @ est de classe C1 et impaire sur R 2' Montrer que $ est développable en série entière au voisinage de 0. Déterminer ce développement. Préciser le rayon de convergence. 3 à- Montrer que lapplication v I "(z) 62? '@(z) vérife une équation différentielle du premier ordre que l'on déterminere. b En déduire que Vz € R, 7r? Co e 22n+1 n! @(z) = I 2n+1 7 (2n+ 1) 1=0 4' 2 Montrer que Ys € R, e-r'(1+t2) @?(z) =1 _ 4 dt. T 1+t2
+
+--- page 2 ---
+b  Montrer que
+~12(1+t2) e lim dt = 0 I~toc Jo 1 + t2
+C- En déduire que
+1o0 ~t? VT e dt = 2
+5 a- Vérifer que VI € R,
+2 1 _ @(z) = v
+~t2 e dt .
+b- En déduire que
+e
+1 ~ 4(x) 1F+9 VTI
+6' Soit SP(@) la transformée de Laplace de & définie par 100 S ($)(z) = e-It @(t)dt.
+Montrer que 4 (@) est bien définie sur ]0. + o[ et que Vr > 0; 2 1 S($)(z) e4 (1 -0(5)) I
+1oo e ~It? 2 dt est continue sur R_ et dérivable 7 Montrer que la fonction f(I) = a- i 0 1 _ t2 sur R: b- Montrer que Vx 2 0, f(z) = er (1 @(vz))
+Partie II
+On pose
+w(z) =e-r? I € R Soit ( Hn)neN la suite des fonctions définies sur R par: Ho(z) = 1 Hn(z) = (~I)rer? 0(n)(z), n € N
+où +(n) désigne la dérivée d'ordre n de w 10 Calculer H (z), H2(r) et Hs(z) 2 a- Montrer que Vn € N, VI € R, HZ (I) = 2cH (z) _ Hn+ (z) fonction polynômiale. Préciser le degré et le b  Montrer que Vn € N. Hn est une coefficient dominant de Hn'
+2
+
+--- page 3 ---
+C- Montrer que H,(~I) = (~1)"H (z) En déduire la valeur de H2n+1 (0) . 3' Soit G(z,t) = e2rt-t? I € R, t € R. à- Soit I € R Justifer pourquoi t 1 G(z.t) est développable en série entière au voisinage de 0. Préciser le rayon de convergence b - En remarquant que G(I,t) = @*? ~(x t)  montrer que Vz € R;
+1co Hn G(z,t) = ((f)t" n! 7=0
+C- Montrer que Vn € N.
+H2n (0) = (~1) (2n)! n!
+d- Vérifier que V (z,t) € R?
+#G 0t (2,t) = 2( - t)G(z;t) = 0. e En déduire que Vn € N, VI € R
+Hn+1(z) ~ 2zHn(r) + 2nHp-1(z) =s 0 f- Montrer alors que Vn € N, Vr € R;
+Hn(r) = 2nHn- (æ) g- Montrer que Vn € N, Vr € R, H? (z) 2rHn(r) + 2nHn(s) = 0. Partie III On pose 120 g(x) = e-t? e?itz dt. 0o 1< a- Quel est le domaine de définition de 9 b- Montrer que g est de classe Cœ sur son domaine de définition Expriner ses dérivées successives sous formes intégrales. C- Montrer que 9 vérifie une équation différentielle du premier ordre que Pon déter - minera et que Vr € R g(z) = W(z) = e2? d- Montrer que Vn € N, Hr € R,
+oo Hv(z) = (~1)"(2i)" @2? e-t?t"e2itzdt. VT o0 2' à- Montrer que Vn € N, Vz € R, 22n+1 +00 HznU (z) = (~1)" @2? e-t? t2n cos(2rt)dt.
+3

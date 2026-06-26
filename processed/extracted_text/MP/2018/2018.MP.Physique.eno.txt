@@ -1,0 +1,490 @@
+REPUBLIQUE TUNISIENNE 
+Ministère de l'Enseignement Supérieur et de la 
+Recherche Scientifique 
+Concours Nationaux d'Entrée aux Cycles 
+de Formation d'ingénieurs 
+Session 2018 
+@J~t~l~ 
+~J!; 
+Concours Mathématiques et Physique 
+Epreuve de Physique 
+Date : Lundi 04 Juin 2018 
+Heure: 8H 
+Durée: 4 H 
+Barème: Problème 1: 7 pt , Problème 2: 13 pts 
+L'usage d'une calculatrice non programmable est autorisé. 
+J,...i1I ~_,li .:.l)riU,..11 
+~I 
+Ù',S. J>.I.>- i,IJ 
+2018 ÏJJ,1 
+Nombre de pages : 8 
+L'épreuve comporte deux problèmes indépendants, le candidat peut les résoudre dans l'ordre qui lui 
+convient, en respectant néanmoins la numérotation des questions. 
+Un candidat peut toujours se servir d'un résultat fourni par l'énoncé pour continuer sa composition. 
+Données 
+e"-e-x 
+. 
+sinx 
+(a- b) 
+(a+ b) 
+sinh(x)=--
+smc(x)=--
+sin a - sin b = 2 sin - 2-
+cos - 2-
+2 
+X 
+e = 1,6xl0-
+19C 
+e: =-1-xl0-9 Fm-1 
+0 
+36;r 
+leV= 1,6 xl0-
+19 J 
+' l MeV= 10
+6eV 
+fi = ..!!._ = 1 05 X 10-34 J • S 
+2,r 
+' 
+c = 3xl08ms-1 
+i2=-1 
+Problème 1 : Optique ondulatoire 
+Le rôle d'un dispositif interférentiel est de dédoubler une source primaire pour en donner 
+dans la plupart des cas deux sources secondaires S1 et S2 pouvant aboutir à des 
+interférences constructives ou destructives. 
+1- Etude des trous d'Young 
+1- Expliquer la raison pour laquelle il faut partir d'une seule source primaire S et non 
+de deux sources indépendantes S1 et S2. 
+2- On s'intéressera dans ce qui suit au dispositif 
+d'Young. S'agit-il d'un dispositif à division de 
+front d'ondes ou à division d'amplitudes? 
+Justifier. 
+3- Comme le montre la figure 1 qui se trouve 
+dans le plan xOz, on dispose d'une source 
+primaire S, supposée monochromatique et 
+ponctuelle de longueur d'onde Â. et de deux 
+trous S1 et S2 symétriques par rapport à O' tel 
+que S1S2 = a ; l'axe Oy étant perpendiculaire 
+au plan de la figure 1. 
+Concours Mathématiques et Physique 
+Session 2018 
+x' 
+S' 
+y 
+D 
+Figure 1 
+Epreuve de Physique 
+Page 1/8 
+X 
+M 
+0 
+
+On observe le phénomène d'interférences en un point M repéré par son abscisse x sur 
+un écran situé dans le plan xOy à une distance D=OO'. Dans tout le problème, on se 
+place dans le cas où a«D et lxl«D. 
+Les deux vibrations scalaires issues de S 1 et S2 s'écrivent en notation complexe: 
+S = S ei(œt-ç't) et S = S ei(œl-ff>;) 
+_!. 
+0 
+2 
+0 
+a-Calculer la vibration résultante §. au point Men fonction de S0 , OJ, rp2 et rp, où 
+rp= rp2 -rp1 est le déphasage entre les deux ondes. 
+b-En déduire l'intensité J =§....~ .. .* en fonction de rp et 10 =S;. 
+c- Exprimer la différence de marche ô au point M entre les deux ondes en fonction 
+de a, x et D. En déduire l'expression de <p. 
+d-Quelle est la nature des franges d'interférences observées sur l'écran et indiquer 
+leur direction ? Justifier votre réponse. 
+e- Déterminer les positions des franges brillantes et des franges obscures. 
+f- Exprimer l'interfrange i. Calculer i pour a =0,Smm, D=lm et 2=0,Sµm. 
+g-Déterminer la position de la frange centrale et préciser si elle est brillante où 
+obscure. 
+4- On déplace la source S parallèlement à Oy d'une faible distance par rapport à D. Que 
+devient la figure d'interférences? Commenter. 
+5- On remplace la source S par une fente fine parallèle à Oy, décrire la nouvelle figure 
+d'interférences. 
+6- On déplace maintenant la source S parallèlement à Ox jusqu'au point S' repéré par 
+son abscisse x' tel que lx'l<<d avec d = SO' (figure 1). 
+a-Calculer la nouvelle différence de marche o' entre les deux ondes au point Men 
+fonction de x, x ', a, D et d. Déterminer la nouvelle position x0 de la frange 
+centrale. 
+b-Exprimer la nouvelle interfrange i'. Expliquer ce qui se passe au niveau de la 
+figure d'interférences. 
+Il- Influence de la largeur de la fente source : Cohérence spatiale 
+On remplace maintenant la source S par une fente source fine F parallèle à Oy de 
+largeur .e, et on remplace également les trous d'Young S1 et S2 par deux fentes fines 
+F 1 et F2 parallèles entre elles et parallèles à Oy. 
+La fente F est située dans le plan médiateur 
+de F 1 et F2. La largeur 
+/!, 
+peut varier 
+moyennant une vis micrométrique. 
+7- L'intensité élémentaire dl en un point M 
+de l'écran émise par une fente élémentaire 
+de largeur dx ' repérée par son abscisse x' 
+(figure 2) s'écrit: 
+dx' 
+dl= 210 (1 +cosq,)7 
+a- Justifier l'expression de dl. Exprimer <p 
+en fonction de x et x '. 
+Concours Mathématiques et Physique 
+Session 2018 
+x' 
+0 
+y 
+••••••• d ••••• r 
+2 -----· D -------······• 
+Figure 2 
+Epreuve de Physique 
+Page2/8 
+X 
+M 
+z 
+
+b- En déduire l'intensité totale I au point M. Montrer qu'elle peut se mettre sous la 
+fonne: 
+1=210 [l+V(f) .cos<p] 
+Exprimer V(f). Quel nom donne-t-on à cette fonction ? 
+c- Quelle est la valeur de V(f) quand I! ➔0 ? Conclure. 
+d- Donner les valeurs de f, qui annulent V(e) et tracer son allure. 
+e- En déduire la longueur de cohérence spatiale L_, en fonction de À., d et a. Calculer 
+sa valeur pour À.= 500nm, d = 50 cm et a= 0,5 mm. 
+f- Décrire qualitativement la figure d'interférences pour f =Ls. 
+III- Influence de la largeur spectrale de la source : Cohérence temporelle. 
+On agit de nouveau sur le dispositif de fentes d'Young pour retrouver la fente fine de la 
+partie (I) ; F étant toujours dans le plan médiateur de F 1 et F2. 
+8- On éclaire F à l'aide d'une source polychromatique de profil spectral rectangulaire 
+Iv(v) et de largeur Av comme l'indique la figure 3, où v est la fréquence de l'onde 
+V +v 
+dans l'intervalle [v" v2 ]. On pose Av=v2 -v1 et v0 =-1--2 • Soit dv une largeur 
+2 
+spectrale élémentaire dans cet intervalle. L'intensité élémentaire au point M créée par 
+dv s'écrit sous la fonne : dl = 210 (1 + cos <p) d v 
+~V 
+lv 
+a- En déduire que l'intensité totale au point M peut 
+s'écrire sousla forme: 
+dv 
+11 ' -----------·r--------. 
+1 = 210 [ 1 + V (p') . cos <p] 
+Exprimer vun I où fJ' est à écrire en fonction de 
+Av 
+b-Que devient l'expression de/ quand Av ➔0? 
+Commenter. 
+iiv 
+c- Déterminer les valeurs de fJ' qui annulent 
+o 
+V(fJ') et tracer son allure. 
+Vt 
+vo 
+d-En déduire la longueur de cohérence temporelle 
+Figure 3 
+L, en fonction de c et Av. 
+y, 
+e- Calculer L1 pour la lumière blanche d'intervalle spectral 0, 4- 0, 75 µm , et pour 
+un laser de largeur spectrale 100 NfHz . Commenter. 
+f- On dispose maintenant d'une fente de largeur f et d'une raie de largeur Av. 
+Quelles sont les conditions sur ces grandeurs pour observer des franges 
+d'interférences? 
+Concours Mathématiques et Physique 
+Session 2018 
+Epreuve de Physique 
+Page3/8 
+V 
+
+1 / 
+Problème 2 : Evolution d'une particule quantique dans un potentiel 
+I- Partie Préliminaire 
+On s'intéresse dans ce problème à une particule quantique de masse m astreinte à se 
+déplacer suivant l'axeOxde vecteur unitaire Ux. A cette particule on associe une fonction 
+d'onde 'f'(x,t) qui décrit son état à l'instant t. 
+Lorsque la particule possède une énergie potentielle V(x), la fonction d'onde 'f'(x,t) est 
+solution de l'équation de Schrôdinger: 
+ti2 a2'1'(:,t) + V(x)'I'(x,t) = in 8'-I'(x,t) 
+2m 
+ax 
+ôt 
+1- On pose p(x) =l'f'(x,t)l2. Que représente cette grandeur? Pourquoi doit-on avoir 
+r 
+J':P(x,t)l2 dx = 1? En déduire la dimension de l'f'(x,t)I. 
+2- Dans tout le problème on cherchera des fonctions d'ondes relatives à des états 
+stationnaires d'énergie E définies par: 
+.E 
+':P(x,t) = <p(x) e-,-,,i 
+a- Pourquoi un tel état est appelé "état stationnaire" ? Déterminer l'équation de 
+Schrodinger indépendante du temps vérifiée par <p ( x) . 
+b- En considérant le cas où V(x) =Va, avec Va est une constante réelle, trouver les 
+solutions possibles <p(x) en comparant E à V0 • 
+II- Particule Libre 
+Considérons une particule libre de masse m, d'impulsion p évoluant suivant Ox. 
+, 
+p1 
+3- . Montrer que son énergie s'écrit: E = 
+2m. 
+4~ Montrer que la fonction d'onde 'l'(x,t) de la particule libre s'écrit sous la forme: 
+1 
+• 
+: 
+':P(x,t) = A e-t(aJi-kx) + B e-i(aJi+kx) 
+A et B sont deux constantes complexes ; w et k deux constantes positives à exprimer 
+en fonction de E, li et m . 
+5- Interpréter la forme générale de 'l'(x,t). Ecrire la relation de dispersion exprimant OJ 
+en fonction de k. En déduire la relation entre la longueur d'onde À associée à cette 
+particule et son impulsion p . Commenter. 
+6- Sachant qu'on peut écrire les constantes complexes A et B sous la forme suivante : 
+A= fp;i°' et B = .fp;e;02 avec p1 , p 1 , 01 et 02 sont des constantes réelles. Montrer 
+que: 
+p ( x) = p1 + p1 + 2.j p1p 2 cos ( 2kx + 01 - 01 ) • 
+7- Tracer l'allure de p(x) et interpréter. 
+8- Pourquoi la solution 'l'(x,t) trouvée dans la question (4) ne décrit pas la réalité? Que 
+peut-on proposer ? 
+Concours Mathématiques et Physique 
+Session 2018 
+Epreuve de Physique 
+Page4/8 
+
+9- En réalité l'état quantique de la particule libre est décrit par un paquet d'ondes défini 
+par: 
+'-l'(x,t) = _l_J- g(k )e-i(m(k)1-kx)dk 
+Ji;_, 
+avec g(k)={~ 
+a- On pose k0 = k1 + k2 et M = k2 -kl' détenniner \J'(x, 0). 
+2 
+ailleurs 
+b- En déduire la densité de probabilité p( x) = l'l'(x, 0)12. Déterminer les valeurs qui 
+annulent p(x) et tracer ensuite la courbe p(x) 04 p 0 = p(x = 0). 
+Po 
+. 
+c- Montrer que 'l'(x,O) représente bien l'état d'une pa11icule libre à l'instant t=O. 
+r=(sin U )
+2 
+1C 
+On donne : Jo 
+-u-
+du = 2 
+d- On pose Ax =x 1 -x _, où x I et x _1 sont les premières valeurs de x qui annulent 
+p(x) de part et d'autre de l'origine des abscisses: Calculer le produit !)x.Afc. En 
+déduire l'expression de Ax · 6,,p. Quel nom donne-t-on à cette relation ? 
+Commenter. 
+10- En utilisant la relation de dispersion, détenniner la vitesse de groupe v g et la vitesse 
+de phase v rp • Quelle est la relation entre v g et l'impulsion p ? Conclure. 
+III- Effet tunnel 
+La particule d'énergie E venant de la région I (x < 0) évolue dans un potentiel V(x) défini 
+par (figure 4) : 
+V ( x) = {r:i si O < x < a 
+0 
+ailleurs 
+On suppose que O < E < v:i et on 
+cherche les états stationnaires de cette 
+particule 
+dans 
+les 
+trois 
+régions 
+(région I : x < 0, région II : 0 < x < a 
+et région III : x >a). 
+E 
+I 
+V(x) 
+Voi-------. 
+E 
+II 
+III 
+X 
+0 
+a 
+Figure 4 
+11- On pose k ="" et q = 2m(;2-E). Trouver les solutions <p(x) dans chaque 
+région. On introduira les constantes d'intégration A1 , B1 , A11 , 
+B11 
+et Am, 
+correspondantés_ respectivement aux régions I, II et III. 
+12- En appliqUàrÎt 1es conditions aux limites aux interfaces x = 0 et x =a, écrire un 
+système de quatre équations dont les inconnus sont A1 , B1 , Au , Bu et Am . Quelle 
+condition supplémentaire permet d'établir une cinquième équation? 
+Concours Mathématiques et Physique 
+Session 2018 
+Epreuve de Physique 
+Page 5/8 
+
+, . 
+. 
+IP, Il 
+Il], Il _ ~ 
+~ 
+13- On defimt les coefficients R = Il]; Il 
+et T = jj7; 
+11
+, ou J;, J, 
+-
+et j, sont les vecteurs 
+densité de courant de probabilité liés respectivement à l'onde incidente, réfléchie 
+dans la région (1) et transmise dans la région III. 
+On rappelle que le vecteur densité de courant de probabilité d'une onde plane de 
+vecteur d'onde k s'écrit : 
+J =l'P(x,t)l2 nk 
+m 
+Exprimer R et T en fonction des constantes d'intégration. Que représentent ces 
+coefficients? Pourquoi doit-on avoir R + T = 1 ? 
+14- La résolution du système d'équations précédent donne: 
+1 
+T =---------
+v2 
+1+ 
+( 
+0 
+)sinh
+2(qa) 
+4E ~-E 
+Calculer T dans le cas d'une barrière de potentiel atomique de hauteur ~ = 2, 00 eV 
+et de largeur a= 0, 1 nrn pour les particules suivantes : 
+-
+Un électron d'énergie E = 1,00 eV et de masse m. =9,11 10-
+31 Kg. 
+-
+Un proton d'énergie E=l,00eVde masse mP==-2000 m,. 
+Commenter. 
+15- Une barrière est dite épaisse si a» <5 = _!_ . 
+q 
+E(V -E) 
+a- Montrer que dans ce cas on a : T = I;, e-zqa avec l'o = 16 
+° 2 
+• 
+Vo 
+b- Tracer l'allure de Ta ( E) et discuter les cas limites E = 0 et E = Vo . Calculer la 
+valeur moyenne de T0 définie par : 
+(Ta)=: s:
+0
+Ta(E)dE 
+0 
+c- En supposant que pour E -:t:- 0 et E -:t:- Vo, ln l'o :::: ln (l'o), montrer que ln T ==- -2qa . 
+IV- Radioactivité a 
+L'exemple le plus célèbre de l'effet tunnel est celui de l'émission des particules a (;He) 
+de masse ma = 6, 64 x 10-
+27 kg par des noyaux lourds radioactifs dont l'interprétation a été 
+proposée par le physicien russe Georges Gamow. Ces particules sont émises avec une 
+énergie 4 s. Es. 9 Me V. 
+A l'intérieur du noyau de rayon r0 la particule a est soumise à l'interaction nucléaire forte 
+de courte portée modélisée par un puits de potentiel de profondeur ~ > 0 (figure 5). 
+Concours Mathématiques et Physique 
+Session 2018 
+Epreuve de Physique 
+Page 6/8 
+
+Une fois que la particule a quitté le noyau (r > r0 ), son énergie potentielle se réduit 
+uniquement à son énergie potentielle coulombienne : V(r) = _Ji__ où K = 2(Z-2)e2 • z 
+47l"&0 r 
+est le numéro atomique de l'atome radioactif. 
+Dans la suite on se 
+place dans le cas 
+unidimensionnel suivant ü, . La particule a est 
+représentée par la fonction d'onde 'I'(r,t) qui 
+vérifie l'équation de Schrodinger: 
+Îl
+2 8
+2\J'(r,t) · V( )u1( 
+) 
+•j;. ô'I'(r,t) 
+-----+ r r r t =iri 
+2m 
+ôr2 
+' 
+ôt 
+16- 1er cas: La particule est piégée dans le puits de 
+potentiel et possède une énergie E < 0 . On se 
+propose de déterminer les niveaux d'énergie et 
+les états liés de cette particule. 
+On suppose que ce puits est tel que : 
+V(r)=t~ 
+si O < r < r0 
+ailleurs 
+V(r) 
+Vmax 
+potentiel coulombien 
+E<O 
+potentiel nucléaire 
+Figure 5 
+r· 
+a- Sachant que la fonction d'onde de la particule hors du puits est nulle, montrer que la 
+solution de l'équation de Schrodinger indépendante du temps pour O < r < r0 est : 
+ç,(r) = D sin ( kr) , où D est une constante à exprimer. Exprimer k en fonction de 
+E et V0 • 
+b- Montrer que kn = n7l", où n est un entier positif. En déduire l'expression de 
+ro 
+l'énergie En correspondante. Commenter. 
+17- 2ème cas : La particule ex. possède maintenant une énergie E > 0, 
+a- Justifier qu'elle a la possibilité de franchir la barrière de potentiel située entre A et B 
+(Figure 5). 
+b- Pour l'uranium 2;:ude rayon r0 =3,50x10-
+15 m, l'énergie Edes particules émises 
+est de 4, 00 Me V. Calculer en Me V la hauteur V max de la barrière. 
+c- Déterminer le rayon r1 correspondant au point B. 
+18- Etant donné que la barrière de potentiel n'a 
+pas la forme simple que celle étudiée dans la 
+section 
+III, 
+on 
+peut, 
+pour 
+r0 < r < 'i, 
+approcher 
+la 
+fonction V(r) 
+par 
+une 
+succession de barrières rectangulaires de 
+hauteur V (r) et de largeur dr suffisamment 
+épaisses pour que l'approximation de la 
+question 15-c soit valable (figure 6). 
+V(r) 
+Concours Mathématiques et Physique 
+Session 2018 
+' 
+;. ..... 
+t 
+Figure 6 
+Epreuve de Physique 
+r 
+Page 7/8 
+
+a- Montrer que: ln(T(r+dr))= 1n(T(r))-2qdr. ------
+b- En déduire la relation suivante : ln T =_If 2m°' (__E_ -E) dr 
+n r,, 
+41Z'eor 
+c- On admet que : [J( > 
+1) dr =r, (; - 2ff.} en déduire que : 
+b 
+lnT = a--
+(Loi de Gamow). 
+✓
+E 
+Exprimer a et b en fonction des données du problème. 
+19- Typiquement, pour le noyau d'uranium 
+2::u, on trouve T = 2 x 10-
+39
+• Par ailleurs, la 
+particule a effectue des allers-retours (oscillations) dans le puits de potentiel nucléaire 
+de largeur r0 à une vitesse moyenne v . 
+a- En négligeant l'énergie potentielle de la particule devant son énergie cinétique, 
+montrer que : v ~ f. 
+Calculer sa valeur. 
+b- Montrer que la durée moyenne entre deux rebonds successifs de la particule sur la 
+barrière s'écrit: tm =r0~. En déduire le nombre n de rebonds par unité de 
+temps. Calculer sa valeur numérique. 
+c- Montrer que la probabilité par unité de temps d'émission d'une particule a est: 
+/3 = n · T avec /3 est la constante radioactive de l'élément radioactif. 
+20- Soit N(t) le nombre de noyaux radioactifs à l'instant t, et N0 ce nombre à t = 0. 
+a- Justifier que: dN =-fJN(t). 
+dt 
+b- Calculer la valeur de /3 pour l'uranium 2;:u. Comparer cette valeur à celle 
+mesurée Pexp = 5 X l o-lB s . Commenter. 
+c- Le temps de demi-vie t112 (ou période radioactive) de l'élément radioactif est 
+défini par: N(ti) = No . Exprimer t112 en fonction de /3. 
+2 
+2 
+d- En déduire en utilisant la loi de Gamow 
+que : ln ( ;~ ) = ln ( ln 2 )-a+ !k · 
+Commenter ce résultat. 
+Concours Mathématiques et Physique 
+Session 2018 
+Epreuve de Physique 
+Page8/8 

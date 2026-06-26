@@ -1,0 +1,3059 @@
+Session Juin 2025 
+Page 1 sur 12 
+CONSIGNES  
+Format et rédaction : 
+• Cette épreuve est composée de 11 pages + 1 page vide. 
+• Tous les résultats doivent être inscrits dans les espaces réservés à cet effet. 
+Calculs et matériel autorisé : 
+• Vous êtes autorisé(e) à utiliser des calculatrices électroniques de poche non programmables. 
+• Chaque calcul doit être précédé d'une expression littérale. 
+Communication et restrictions : 
+• Aucun échange de réponses ou de matériel n'est autorisé entre les candidats. 
+• Les réponses numériques doivent inclure des unités correctes pour être prises en compte. 
+• Toutes les réponses doivent être justifiées. 
+Utilisation de l'espace disponible : 
+• En cas de besoin, utiliser la page vides à la fin du cahier. Signaler son utilisation dans l'espace 
+réservé à la réponse finale. 
+Brouillons et corrections : 
+• Aucun brouillon ne doit être joint à votre copie. 
+• Si le candidat constate une anomalie dans l’énoncé durant l’épreuve, il est tenu de la noter sur 
+sa copie et de poursuivre sa composition en explicitant les modifications qu’il a été amené à 
+effectuer. 
+ 
+ 
+ 
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 12 PAGES NUMÉROTÉES  
+1 sur 12, 2 sur 12, …, 12 sur 12. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Concours Biologie et Géologie 
+Chimie inorganique 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 2 sur 12 
+Épreuve de chimie section BG 
+Année : 2024-2025 
+Recommandations, notations et données numériques 
+• États des constituants physicochimiques :(sd) solide ; (liq) liquide ; (g) gazeux. 
+• Lorsque aucune mention n'est spécifiée, les ions sont supposés implicitement en solution 
+aqueuse. 
+• Les mélanges liquides ou solides sont supposés idéaux. 
+• Les enthalpies de changements d’état sont supposées indépendantes de la température. 
+• Dans un souci d’allègement, on utilisera la notation H+ de préférence à la notation H3O+. 
+Notations :  
+• L’exposant 
+ signifie standard. 
+• ESH : électrode standard à hydrogène.  
+• xi : la fraction molaire de « i » dans la phase liquide. 
+• 
+i
+
+ : potentiel chimique du constituant « i » dans la phase φ. 
+Constantes physiques : 
+• Constante des gaz parfaits : R = 8,314 J.mol-1.K-1. 
+• Constante d'Avogadro : NA = 6,02×1023 mol-1. 
+• Constante de Faraday : F = 96485 C.mol-1. 
+• Pression standard : p
+1
+.
+bar
+=
+ 
+• Concentration standard : C
+1
+1
+.
+.
+mol L−
+=
+ 
+Données numériques : 
+• Masse molaire atomique (g.mol-1) : Pt = 195,05. 
+• Numéros atomiques (Z) :  H = 1 ; O = 8. 
+• Électronégativités (échelle de Pauling) : Ru = 2,20 ; O = 3,44 ; H = 2,20. 
+À 298 K, 
+• La constante de Nernst : (
+)
+R
+T F
+Ln(10)
+0,059 V.  
+
+
+=
+ 
+• La constante d’autoprotolyse de l’eau : Ke = 10-14. 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 3 sur 12 
+Épreuve de chimie section BG 
+Année : 2024-2025 
+Problème I : atomistique-liaison chimique 
+A. Étude structurale  
+Le Ruthénium est un élément chimique de symbole Ru, de configuration électronique 
+dans son état fondamental : [36Kr] 5s1 4d7 .  
+Q1) Déterminer le numéro atomique du ruthénium. 
+ 
+Q2) Déterminer la position (ligne, colonne) du ruthénium dans le tableau périodique des éléments 
+chimiques. Justifier la réponse. 
+ 
+Q3) À quel bloc et à quelle famille appartient-il ? Justifier la réponse. 
+ 
+Q4) L’atome de ruthénium est-il para ou diamagnétique ? Représenter les cases quantiques relatives 
+à la couche de valence. 
+ 
+En présence du dioxygène, le ruthénium se transforme en tétroxyde de ruthénium RuO4. 
+Q5) Analyser la nature de la liaison entre le ruthénium et l'oxygène en termes de caractère ionique et 
+covalent. 
+ 
+Q6) Donner une structure de Lewis de la molécule RuO4. 
+ 
+Q7) Préciser la notation (la formule) de Gillespie et la figure de répulsion. 
+ 
+Q8) Donner une représentation spatiale de cette molécule. 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 4 sur 12 
+Épreuve de chimie section BG 
+Année : 2024-2025 
+ À l’état solide, RuO4 est un cristal de couleur jaune, qui présente un faible point de fusion ; ne conduit 
+pas le courant électrique (isolant), il est peu soluble dans les solvants polaires. Par contre  il est très 
+soluble dans les solvants apolaires tel que : le tétrachlorométhane « CCl4 ». 
+Q9) À quelle catégorie de solide cristallin appartient RuO4 ? 
+ 
+Q10) Identifier le(s) type(s) de forces qui assurent la cohésion du cristal RuO4. Justifier la réponse. 
+ 
+B. Mise en solution du tétroxyde de ruthénium dans l’eau 
+Q11) Décrire les étapes de la dissolution de 10 g de RuO4 dans 500 mL d'eau. Expliquer ce qui se passe 
+au niveau moléculaire. 
+ 
+Q12) Écrire l'équation chimique de la dissolution de RuO4(sd). 
+ 
+Q13) Classer l'eau et le cyclohexane selon leur caractère polaire ou apolaire. Justifier la réponse avec 
+leurs structures moléculaires.  
+ 
+Q14) Comparer qualitativement la solubilité de RuO4(sd) dans l'eau et dans le cyclohexane. Expliquer 
+les différences observées en fonction des interactions soluté-solvant. 
+ 
+Problème II : cristallographie 
+Le ruthénium forme avec le rhodium, le palladium, l’osmium, l’iridium et le platine, 
+l’ensemble des « platinoïdes ».  
+Le platine (Pt) est un métal noble cristallisant dans le système cubique de 
+paramètre a = 392 pm ;  = 21,5 g.cm-3 étant sa masse volumique. 
+Q15) Quel est le mode du réseau de bravais correspondant ? 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 5 sur 12 
+Épreuve de chimie section BG 
+Année : 2024-2025 
+Q16) Donner les coordonnées réduites des atomes de platine. 
+ 
+Q17) Dessiner les traces des atomes de la maille du Pt dans le premier plan après celui passant par 
+l’origine de la famille (110) en précisant la tangence entre les atomes.  
+ 
+Q18) Représenter sur la même figure, une projection cotée des positions des sites octaédriques et 
+tétraédriques sur le plan passant par l’origine de la famille (001). 
+ 
+Q19) Donner l’expression puis calculer le rayon atomique RPt du platine.  
+ 
+Q20) Établir en fonction du rayon de l’atome de « Pt » puis calculer la taille maximale Roct (habitabilité) 
+que doit présenter un atome susceptible d’occuper (sans déformation) les sites octaédriques du 
+réseau.  
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 6 sur 12 
+Épreuve de chimie section BG 
+Année : 2024-2025 
+Problème III : diagramme d’équilibre solide-liquide 
+Le 
+diagramme 
+binaire 
+solide-liquide, 
+sous 
+une 
+pression 
+p 
+= 
+1bar, 
+des 
+mélanges  
+Thorium (Th)- Ruthénium (Ru) est représenté sur la figure ci-dessous. 
+ 
+  
+Q21) D’après l’allure du diagramme, indiquer si la miscibilité est nulle, partielle ou totale : 
+À l’état liquide : 
+À l’état solide :  
+Q22) Déterminer la formule chimique du composé défini à 66,7% molaire en « Ru ». 
+ 
+Q23) Préciser la nature de sa fusion. 
+ 
+Q24) Indiquer la nature des phases en présence dans les domaines (1) et (2). 
+Domaine (1) :  
+Domaine (2) :  
+Q25) Indiquer le nom donné au point de composition 73% et à la température 1580°C. 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 7 sur 12 
+Épreuve de chimie section BG 
+Année : 2024-2025 
+Q26) Indiquer deux propriétés remarquables du mélange correspondant.  
+ 
+Q27) Écrire l’équation de la transformation obtenue à 1580°C et donner le nom de cette 
+transformation. 
+ 
+Q28) Considérons, à 1200°C et sous la pression 1bar, un mélange composé de 8 mol de « Ru » et 2 mol 
+de « Th ». Indiquer dans quel domaine du diagramme se trouve le point représentatif du système. 
+ 
+Q29) Calculer la quantité de matière de chacune des phases présentes en ce point. 
+ 
+ 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 8 sur 12 
+Épreuve de chimie section BG 
+Année : 2024-2025 
+L’équation de la branche liquidus relative à l’équilibre entre un mélange liquide et le solide « Th » pur 
+est décrite par la relation : 
+(
+)
+fus
+m
+Th
+H
+Ln x
+
+=
+(
+)
+1
+fus
+Th
+R
+T
+
+(
+)
+1
+Th
+T
+
+
+−
+
+
+
+
+
+
+ 
+Où xTh désigne la fraction molaire de « Th » dans le mélange liquide et 
+fus
+m
+H
+
+(
+)
+Th  l’enthalpie standard 
+molaire de fusion de « Th » à son point de fusion. 
+Q30) Montrer que pour des solutions très diluées de « Ru » dans « Th », considérée comme le solvant, 
+xRu s’écrit, à l’aide d’une approximation, sous la forme :  
+fus
+m
+Ru
+H
+x
+
+=
+(
+)
+fus
+Th
+T
+R
+T
+
+
+(
+)
+(
+)
+2
+Th
+ 
+Avec 
+fus
+T
+T
+
+=
+(
+)
+Th
+T
+−
+ où T est la température d’apparition des cristaux de « Th » pur lors du 
+refroidissement du mélange Ru-Th de fraction molaire xRu en « Ru ». 
+ 
+Soient mi la masse du constituant « i » dans le mélange et Mi sa masse molaire.  
+Q31) Quelle est la relation entre T ,
+
+mRu, mTh, MRu et MTh ? 
+ 
+Q32) Que devient cette relation quand il s’agit d’une solution diluée de « Ru » dans « Th » ? 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 9 sur 12 
+Épreuve de chimie section BG 
+Année : 2024-2025 
+Q33) La grandeur 
+fus
+cr
+R
+T
+K
+
+=
+(
+)
+(
+)
+2
+fus
+m
+Th
+H
+
+(
+)
+Th
+M
+Th
+
+ est appelée constante cryoscopique de « Th ». On 
+démontre que T
+ peut s’écrire sous la forme 
+cr
+T
+K
+
+=
+. Déterminer l’expression de  et préciser 
+sa signification. 
+ 
+Problème IV : diagramme de Pourbaix 
+On considère le diagramme potentiel-pH du ruthénium Ru à 298K. Ce diagramme fait intervenir : 
+• Les espèces solides suivantes : 
+(
+)
+(
+)
+(
+)
+(
+) (
+)
+4
+2
+2
+3
+2
+ et 
+Ru sd , RuO
+sd , RuO
+H O sd
+Ru OH
+sd .
+•
+ 
+• Les entités en phases aqueuses suivantes : 
+(
+)
+(
+)
+(
+)
+2
+5
+4
+4
+ et
+HRuO
+aq , RuO
+aq
+RuO
+aq .
+−
+−
+−
+ 
+ 
+Fig. superposition des diagrammes de Pourbaix du ruthénium et de l’eau 
+ 
+Q34) Donner le degré d’oxydation de Ru dans chacune des entités suivantes : 
+Entités 
+(
+)
+4
+RuO
+sd  
+(
+)
+2
+2
+2
+RuO
+H O sd
+•
+ 
+(
+)
+3
+Ru(OH ) sd  
+n.o(Ru) 
+ 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 10 sur 12 
+Épreuve de chimie section BG 
+Année : 2024-2025 
+Q35) Classer ces entités par nombre d’oxydation croissant. 
+ 
+Q36) Classer horizontalement les entités ayant le même degré d’oxydation selon leurs propriétés. 
+Justifier la réponse. 
+ 
+Q37) Attribuer les entités à chacun des domaines.  
+Domaine 
+Entité 
+(1) 
+ 
+(2) 
+ 
+(3) 
+ 
+Q38) Déterminer la valeur de la constante d’équilibre associée au couple (1)/HRuO5-(aq).  
+ 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 11 sur 12 
+Épreuve de chimie section BG 
+Année : 2024-2025 
+Q39) En milieu basique, RuO42-(aq) subit une dismutation. Écrire les demi-réactions redox et 
+l’équation bilan de dismutation. 
+ 
+ 
+Q40) Que se passe-t-il si on plonge une lame de Ru(sd) dans une solution aqueuse aérée ? Justifier la 
+réponse. 
+ 
+Q41) Discuter la stabilité de l’ion RuO4-(aq) en présence d’une solution aqueuse. Écrire les équations-
+bilans des réactions correspondantes selon les valeurs de pH. 
+ 
+ 
+FIN DE L’ÉPREUVE 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 12 sur 12 
+Épreuve de chimie section BG 
+Année : 2024-2025 
+ 
+ 
+ 
+ 
+ 
+ 
+Page vide 
+BIB-IPEIS
+BIB-IPEIS
+
+Session Juin 2025 
+Page 1 sur 12 
+CONSIGNES  
+Format et rédaction : 
+• Cette épreuve est composée de 11 pages + 1 page vide. 
+• Tous les résultats doivent être inscrits dans les espaces réservés à cet effet. 
+Calculs et matériel autorisé : 
+• Vous êtes autorisé(e) à utiliser des calculatrices électroniques de poche non programmables. 
+• Chaque calcul doit être précédé d'une expression littérale. 
+Communication et restrictions : 
+• Aucun échange de réponses ou de matériel n'est autorisé entre les candidats. 
+• Les réponses numériques doivent inclure des unités correctes pour être prises en compte. 
+• Toutes les réponses doivent être justifiées. 
+Utilisation de l'espace disponible : 
+• En cas de besoin, utiliser la page vides à la fin du cahier. Signaler son utilisation dans l'espace 
+réservé à la réponse finale. 
+Brouillons et corrections : 
+• Aucun brouillon ne doit être joint à votre copie. 
+• Si le candidat constate une anomalie dans l’énoncé durant l’épreuve, il est tenu de la noter sur 
+sa copie et de poursuivre sa composition en explicitant les modifications qu’il a été amené à 
+effectuer. 
+ 
+ 
+ 
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 12 PAGES NUMÉROTÉES  
+1 sur 12, 2 sur 12, …, 12 sur 12. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Concours Biologie et Géologie 
+Chimie inorganique 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 2 sur 12 
+Épreuve de chimie section BG 
+Année : 2024-2025
+Recommandations, notations et données numériques 
+• États des constituants physicochimiques :(sd) solide ; (liq) liquide ; (g) gazeux. 
+• Lorsque aucune mention n'est spécifiée, les ions sont supposés implicitement en solution 
+aqueuse. 
+• Les mélanges liquides ou solides sont supposés idéaux. 
+• Les enthalpies de changements d’état sont supposées indépendantes de la température. 
+• Dans un souci d’allègement, on utilisera la notation H+ de préférence à la notation H3O+. 
+Notations :  
+• L’exposant 
+ signifie standard. 
+• ESH : électrode standard à hydrogène.  
+• xi : la fraction molaire de « i » dans la phase liquide. 
+• 
+i
+
+ : potentiel chimique du constituant « i » dans la phase φ. 
+Constantes physiques : 
+• Constante des gaz parfaits : R = 8,314 J.mol-1.K-1. 
+• Constante d'Avogadro : NA = 6,02×1023 mol-1. 
+• Constante de Faraday : F = 96485 C.mol-1. 
+• Pression standard : p
+1
+.
+bar
+=
+ 
+• Concentration standard : C
+1
+1
+.
+.
+mol L−
+=
+ 
+Données numériques : 
+• Masse molaire atomique (g.mol-1) : Pt = 195,05. 
+• Numéros atomiques (Z) :  H = 1 ; O = 8. 
+• Électronégativités (échelle de Pauling) : Ru = 2,20 ; O = 3,44 ; H = 2,20. 
+À 298 K, 
+• La constante de Nernst : (
+)
+R
+T F
+Ln(10)
+0,059 V.  
+
+
+=
+ 
+• La constante d’autoprotolyse de l’eau : Ke = 10-14. 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 3 sur 12 
+Épreuve de chimie section BG 
+Année : 2024-2025
+Problème I : atomistique-liaison chimique 
+A. Étude structurale  
+Le Ruthénium est un élément chimique de symbole Ru, de configuration électronique 
+dans son état fondamental : [36Kr] 5s1 4d7 .  
+Q1) Déterminer le numéro atomique du ruthénium. 
+Z = 36 +8 = 44 
+Q2) Déterminer la position (ligne, colonne) du ruthénium dans le tableau périodique des éléments 
+chimiques. Justifier la réponse. 
+Ru : [36Kr] 5s1 4d7 
+Le nombre d’électrons de valence NV = 8 ➔ 8ème colonne 
+Le plus grand n = 5 ➔ 5ème ligne 
+ 
+Q3) À quel bloc et à quelle famille appartient-il ? Justifier la réponse. 
+Le ruthénium appartient au bloc d.  
+Il fait partie de la famille des métaux de transition.  
+« Il a une sous couche électronique « d » incomplète. » 
+Q4) L’atome de ruthénium est-il para ou diamagnétique ? Représenter les cases quantiques relatives 
+à la couche de valence. 
+ 
+Le ruthénium possède quatre électrons célibataires ➔ élément paramagnétique. 
+En présence du dioxygène, le ruthénium se transforme en tétroxyde de ruthénium RuO4. 
+Q5) Analyser la nature de la liaison entre le ruthénium et l'oxygène en termes de caractère ionique et 
+covalent. 
+3 44
+2 20
+1 24
+,
+,
+,
+=
+−
+=
+ ➔ La liaison est covalente. 
+Les électrons de liaison seront légèrement attirés par l’oxygène (la liaison est covalente à caractère 
+ionique). C’est une liaison covalente polaire. 
+ 
+Q6) Donner une structure de Lewis de la molécule RuO4. 
+ 
+Q7) Préciser la notation (la formule) de Gillespie et la figure de répulsion. 
+Notation de Gillespie : AX4 
+Figure de répulsion : Tétraèdre 
+Q8) Donner une représentation spatiale de cette molécule. 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 4 sur 12 
+Épreuve de chimie section BG 
+Année : 2024-2025
+ À l’état solide, RuO4 est un cristal de couleur jaune, qui présente un faible point de fusion ; ne conduit 
+pas le courant électrique (isolant), il est peu soluble dans les solvants polaires. Par contre  il est très 
+soluble dans les solvants apolaires tel que : le tétrachlorométhane « CCl4 ». 
+Q9) À quelle catégorie de solide cristallin appartient RuO4 ? 
+RuO4 est un cristal moléculaire. 
+Q10) Identifier le(s) type(s) de forces qui assurent la cohésion du cristal RuO4. Justifier la réponse. 
+RuO4 est une molécule apolaire ➔ Forces de dispersions de London. 
+B. Mise en solution du tétroxyde de ruthénium dans l’eau 
+Q11) Décrire les étapes de la dissolution de 10 g de RuO4 dans 500 mL d'eau. Expliquer ce qui se passe 
+au niveau moléculaire. 
+RuO4(sd) est sous forme moléculaire (neutre), la mise en solution se déroule en 
+deux étapes : 
+• 
+La solvatation : le soluté RuO4 s’entoure de molécules d’eau.   
+• 
+La dispersion : Le mouvement permanent des molécules de solvant dû à 
+l’agitation thermique permet ensuite aux molécules solvatées de se 
+disperser dans l’ensemble de la solution. 
+ 
+Q12) Écrire l'équation chimique de la dissolution de RuO4(sd). 
+RuO4(sd) = RuO4(aq) 
+Q13) Classer l'eau et le cyclohexane selon leur caractère polaire ou apolaire. Justifier la réponse avec 
+leurs structures moléculaires.  
+• L’eau est polaire en raison de sa géométrie coudée et des dipôles associés aux liaisons O−H.  
+• Le cyclohexane, molécule symétrique, est apolaire. 
+Q14) Comparer qualitativement la solubilité de RuO4(sd) dans l'eau et dans le cyclohexane. Expliquer 
+les différences observées en fonction des interactions soluté-solvant. 
+RuO4 est plus soluble dans le cyclohexane en raison de la compatibilité des interactions 
+cyclohexane-RuO4 (solvant apolaire- soluté apolaire), contrairement aux interactions eau-RuO4 
+(solvant polaire- soluté apolaire). 
+ 
+Problème II : cristallographie 
+Le ruthénium forme avec le rhodium, le palladium, l’osmium, l’iridium et le platine, 
+l’ensemble des « platinoïdes ».  
+Le platine (Pt) est un métal noble cristallisant dans le système cubique de 
+paramètre a = 392 pm ;  = 21,5 g.cm-3 étant sa masse volumique. 
+Q15) Quel est le mode du réseau de bravais correspondant ? 
+La masse volumique s’écrit : 
+(
+)
+3
+atom
+Pt
+A
+n
+Pt
+M
+N
+a
+
+
+=
+
+ 
+(
+)
+3
+A
+atom
+Pt
+N
+a
+n
+Pt
+M
+
+
+=
+ 
+Application numérique : 
+(
+)
+(
+)
+3
+23
+10
+21,5 6,02 10
+392 10
+3,998
+4
+195
+atom
+n
+Pt
+−
+
+
+
+
+=
+=
+ ➔ le mode de réseau est F. 
+Q16) Donner les coordonnées réduites des atomes de platine. 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 5 sur 12 
+Épreuve de chimie section BG 
+Année : 2024-2025
+Pt : (0,0,0) ; (1/2,1/2,0) ; (1/2,0,1/2) et (0,1/2,1/2) 
+Q17) Dessiner les traces des atomes de la maille du Pt dans le premier plan après celui passant par 
+l’origine de la famille (110) en précisant la tangence entre les atomes. 
+ 
+Q18) Représenter sur la même figure, une projection cotée des positions des sites octaédriques et 
+tétraédriques sur le plan passant par l’origine de la famille (001). 
+ 
+Q19) Donner l’expression puis calculer le rayon atomique RPt du platine.  
+Les atomes de platine sont tangents selon la diagonale d’une face du cube de paramètre aPt : 
+2
+4
+Pt
+Pt
+a
+R
+
+=
+
+ 
+2
+392
+2
+138,6
+4
+4
+Pt
+Pt
+a
+R
+pm
+
+
+=
+=
+=
+ 
+Q20) Établir en fonction du rayon de l’atome de « Pt » puis calculer la taille maximale Roct (habitabilité) 
+que doit présenter un atome susceptible d’occuper (sans déformation) les sites octaédriques du 
+réseau.  
+Habitabilité des sites (O) : 
+Suivant une arête du cube on a : 
+2
+Pt
+Oct
+a
+R
+R
++
+=
+ (1) 
+Maille cubique à faces centrées : 
+2
+4
+Pt
+a
+R
+
+=
+
+ (2)  
+De (2) ➔ 
+4
+2
+Pt
+R
+a
+
+=
+ 
+Dans (1) ➔ 
+2
+Pt
+Oct
+Pt
+R
+R
+R
++
+=
+
+ ➔ 
+(
+)
+2 1
+0,414
+Oct
+Pt
+Pt
+R
+R
+R
+=
+−
+
+=
+
+ 
+Application numérique : 
+0,414 138,6
+57,38
+Oct
+R
+pm
+=
+
+=
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 6 sur 12 
+Épreuve de chimie section BG 
+Année : 2024-2025
+Problème III : diagramme d’équilibre solide-liquide 
+Le diagramme binaire solide-liquide, sous une pression p = 1bar, des mélanges Thorium (Th)- 
+Ruthénium (Ru) est représenté sur la figure ci-dessous. 
+ 
+  
+Q21) D’après l’allure du diagramme, indiquer si la miscibilité est nulle, partielle ou totale : 
+À l’état liquide : miscibilité totale. 
+À l’état solide : miscibilité nulle. 
+Q22) Déterminer la formule chimique du composé défini à 66,7% molaire en « Ru ». 
+La formule générale du composé défini : RuuThv 
+100
+66 67
+sd
+Ru
+u
+%x
+,
+%
+v
+u
+=
+
+=
++
+ 
+0 67
+u
+,
+v
+u =
++
+ ➔ 
+(
+)
+0 67
+u
+,
+v
+u
+=
+
++
+➔ 
+(
+)
+0 67
+0 67
+2
+1 0 67
+0 33
+1
+u
+,
+,
+v
+,
+,
+=
+=
+=
+−
+ 
+D’où la formule : Ru2Th 
+Q23) Préciser la nature de sa fusion. 
+Ru2Th est un composé défini à fusion congruente. 
+Q24) Indiquer la nature des phases en présence dans les domaines (1) et (2). 
+Domaine (1) : liquide + Ru2Th(sd) 
+Domaine (2) : Ru(sd) + Ru2Th(sd) 
+Q25) Indiquer le nom donné au point de composition 73% et à la température 1580°C. 
+Point eutectique 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 7 sur 12 
+Épreuve de chimie section BG 
+Année : 2024-2025
+Q26) Indiquer deux propriétés physiques remarquables du mélange correspondant.  
+En ce point,  
+• La courbe d’analyse thermique reste constante pendant un certain temps (Pallier) ➔ le 
+mélange se comporte comme un corps pur lors de sa fusion. 
+• Point de fusion inférieure à celles des deux corps purs. 
+ 
+Q27) Écrire l’équation de la transformation obtenue à 1580°C et donner le nom de cette 
+transformation. 
+À 1580°C, Ru(sd) + Ru2Th(sd) = liquide (73% molaire en Ru) : Transformation eutectique  
+Q28) Considérons, à 1200°C et sous la pression 1bar, un mélange composé de 8 mol de « Ru » et 2 mol 
+de « Th ». Indiquer dans quel domaine du diagramme se trouve le point représentatif du système. 
+100
+sd
+sd
+Ru
+Ru
+sd
+sd
+Th
+Ru
+n
+%x
+n
+n
+=
+
++
+ 
+Application numérique : 
+8
+100
+80
+2 8
+sd
+Ru
+%x
+%
+=
+
+=
++
+ 
+Le point représentatif du système appartient au domaine (2). 
+Q29) Calculer la quantité de matière de chacune des phases présentes en ce point. 
+La règle des segments inverses : 
+(
+)
+(
+)
+2
+2
+80
+66 67
+0 67
+100
+80
+10
+sd
+Ru
+Ru Th ( sd )
+Ru Th ( sd )
+sd
+Ru
+n
+,
+,
+n
+n
+n
+mol
++
++
+
+−
+=
+=
+
+−
+
+
++
+=
+
+ 
+(
+)
+(
+)
+2
+2
+0 67
+10
+Ru Th ( sd )
+sd
+Ru
+Ru Th ( sd )
+sd
+Ru
+n
+,
+n
+n
+n
+mol
++
++
+
+=
+
+
++
+=
+
+ 
+(
+)
+2
+10
+5 99
+1 67
+Ru Th ( sd )
+n
+,
+mol
+,
++
+=
+=
+ 
+(
+)
+2
+10
+10
+5 99
+4 01
+Ru Th ( sd )
+sd
+Ru
+n
+n
+,
+,
+mol
++
+=
+−
+=
+−
+=
+ 
+ 
+(
+)
+2
+2
+5 99
+2
+3
+3
+Ru Th ( sd )
+sd
+Th Ru
+n
+,
+n
+mol
++
+=
+=
+
+ 
+ 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 8 sur 12 
+Épreuve de chimie section BG 
+Année : 2024-2025
+L’équation de la branche liquidus relative à l’équilibre entre un mélange liquide et le solide « Th » pur 
+est décrite par la relation : 
+(
+)
+fus
+m
+Th
+H
+Ln x
+
+=
+(
+)
+1
+fus
+Th
+R
+T
+
+(
+)
+1
+Th
+T
+
+
+−
+
+
+
+
+
+
+ 
+Où xTh désigne la fraction molaire de « Th » dans le mélange liquide et 
+fus
+m
+H
+
+(
+)
+Th  l’enthalpie standard 
+molaire de fusion de « Th » à son point de fusion. 
+Q30) Montrer que pour des solutions très diluées de « Ru » dans « Th », considérée comme le solvant, 
+xRu s’écrit, à l’aide d’une approximation, sous la forme :  
+fus
+m
+Ru
+H
+x
+
+=
+(
+)
+fus
+Th
+T
+R
+T
+
+
+(
+)
+(
+)
+2
+Th
+ 
+Avec 
+fus
+T
+T
+
+=
+(
+)
+Th
+T
+−
+ où T est la température d’apparition des cristaux de « Th » pur lors du 
+refroidissement du mélange Ru-Th de fraction molaire xRu en « Ru ». 
+1
+th
+Ru
+x
+x
+= −
+ 
+fus
+T
+T
+=
+(
+)
+Th
+T
+−
+ 
+On remplace ces deux relations dans l’équation du liquidus : 
+(
+)
+1
+fus
+m
+Ru
+H
+Ln
+x
+
+−
+=
+(
+)
+1
+fus
+Th
+R
+T
+
+(
+)
+1
+fus
+Th
+T
+−
+(
+)
+Th
+T
+
+
+
+
+
+
+−
+
+
+ 
+En considérant, 
+Ru
+Th
+x
+x
+
+ et 
+fus
+T
+T
+
+
+(
+)
+Th , on effectue un 
+développement limité : 
+fus
+m
+Ru
+H
+x
+
+−
+(
+)
+1
+fus
+Th
+R
+T
+
+(
+)
+1
+fus
+Th
+T
+−
+(
+)
+1
+fus
+T
+Th
+T
+
+
+−
+(
+)
+Th
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+fus
+m
+Ru
+H
+x
+
+−
+(
+)
+1
+1
+fus
+Th
+T
+R
+T
+
+
+−
++
+(
+)
+fus
+m
+H
+Th
+
+
+
+
+
+= −
+
+
+
+
+
+
+
+
+
+
+
+
+(
+)
+fus
+Th
+R
+T
+
+(
+)
+(
+)
+2
+T
+Th
+
+ 
+On trouve :  
+fus
+m
+Ru
+H
+x
+
+=
+(
+)
+fus
+Th
+R
+T
+
+(
+)
+(
+)
+2
+T
+Th
+
+ 
+2ème méthode : 
+Arrangement de l’équation de la branche 
+liquidus : 
+(
+)
+fus
+m
+Th
+H
+Ln x
+
+=
+(
+)
+fus
+Th
+T
+T
+R
+−
+
+(
+)
+fus
+Th
+T
+(
+)
+Th
+T
+
+
+
+
+
+
+
+
+
+ 
+On obtient : 
+(
+)
+fus
+m
+Th
+H
+Ln x
+
+= −
+(
+)
+fus
+Th
+T
+R
+T
+
+
+(
+)
+Th
+T
+
+
+
+
+
+
+
+
+
+ 
+Approximations : 
+En considérant, 
+Ru
+Th
+x
+x
+
+ et xRu ➔ 0 
+(
+)
+(
+)
+1
+Th
+Ru
+Ru
+Ln x
+Ln
+x
+x
+=
+−
+−
+ 
+fus
+T
+(
+)
+Th
+T  ➔ 
+fus
+T
+(
+)
+fus
+Th
+T
+T
+
+(
+)
+(
+)
+2
+Th
+ 
+On remplace ces deux relations dans 
+l’équation du liquidus : 
+fus
+m
+Ru
+H
+x
+
+=
+(
+)
+fus
+Th
+T
+R
+T
+
+
+(
+)
+(
+)
+2
+Th
+ 
+Soient mi la masse du constituant « i » dans le mélange et Mi sa masse molaire.  
+Q31) Quelle est la relation entre T ,
+
+mRu, mTh, MRu et MTh ? 
+liq
+liq
+liq
+Ru
+Ru
+Ru
+Ru
+Th
+Ru
+liq
+liq
+liq
+liq
+liq
+liq
+Ru
+Th
+Ru
+Ru
+Th
+Th
+Ru
+Th
+Th
+Ru
+n
+m
+M
+m
+M
+x
+n
+n
+m
+M
+m
+M
+m
+M
+m
+M
+
+=
+=
+=
++
++
+
++
+
+ 
+liq
+fus
+m
+Ru
+Th
+liq
+liq
+Ru
+Th
+Th
+Ru
+H
+m
+M
+m
+M
+m
+M
+
+
+=
+
++
+
+(
+)
+fus
+Th
+R
+T
+
+(
+)
+(
+)
+2
+T
+Th
+
+ 
+Q32) Que devient cette relation quand il s’agit d’une solution diluée de « Ru » dans « Th » ? 
+Quand il s’agit d’une solution diluée de Ru, on a alors 
+liq
+liq
+Ru
+Th
+n
+n
+
+ et donc :  
+liq
+liq
+fus
+m
+Ru
+Ru
+Th
+Ru
+liq
+liq
+Th
+Th
+Ru
+H
+n
+m
+M
+x
+n
+m
+M
+
+
+=
+=
+
+(
+)
+fus
+Th
+R
+T
+
+(
+)
+(
+)
+2
+T
+Th
+
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 9 sur 12 
+Épreuve de chimie section BG 
+Année : 2024-2025
+Q33) La grandeur 
+fus
+cr
+R
+T
+K
+
+=
+(
+)
+(
+)
+2
+fus
+m
+Th
+H
+
+(
+)
+Th
+M
+Th
+
+ est appelée constante cryoscopique de « Th ». On 
+démontre que T
+ peut s’écrire sous la forme 
+cr
+T
+K
+
+=
+. Déterminer l’expression de  et préciser 
+sa signification. 
+fus
+m
+Ru
+H
+x
+
+=
+(
+)
+fus
+Th
+R
+T
+
+(
+)
+(
+)
+2
+liq
+th
+Ru
+Th
+liq
+cr
+Th
+Ru
+M
+T
+m
+M
+T
+K
+m
+M
+Th
+
+
+
+=
+=
+
+ 
+On obtient 
+liq
+Ru
+liq
+cr
+Th
+Ru
+m
+T
+K
+m
+M
+
+=
+
+ ➔ 
+liq
+Ru
+cr
+liq
+Th
+Ru
+m
+T
+K
+m
+M
+
+=
+
+
+ 
+liq
+Ru
+liq
+liq
+Ru
+Ru
+Ru
+liq
+liq
+liq
+Th
+Ru
+Th
+Th
+m
+M
+m
+n
+m
+M
+m
+m
+
+
+
+
+
+
+=
+=
+=
+
+ C’est la quantité de matière du soluté par kg de solvant : c’est la 
+molalité de Ru. 
+Problème IV : diagramme de Pourbaix 
+On considère le diagramme potentiel-pH du ruthénium Ru à 298K. Ce diagramme fait intervenir : 
+• Les espèces solides suivantes : 
+(
+)
+(
+)
+(
+)
+(
+) (
+)
+4
+2
+2
+3
+2
+ et 
+Ru sd , RuO
+sd , RuO
+H O sd
+Ru OH
+sd .
+•
+ 
+• Les entités en phases aqueuses suivantes : 
+(
+)
+(
+)
+(
+)
+2
+5
+4
+4
+ et
+HRuO
+aq , RuO
+aq
+RuO
+aq .
+−
+−
+−
+ 
+ 
+Fig. superposition des diagrammes de Pourbaix du ruthénium et de l’eau 
+ 
+Q34) Donner le degré d’oxydation de Ru dans chacune des entités suivantes : 
+Entités 
+(
+)
+4
+RuO
+sd  
+(
+)
+2
+2
+2
+RuO
+H O sd
+•
+ 
+(
+)
+3
+Ru(OH ) sd  
+n.o(Ru)  
+VIII 
+IV 
+III 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 10 sur 12 
+Épreuve de chimie section BG 
+Année : 2024-2025
+Q35) Classer ces entités par nombre d’oxydation croissant. 
+ 
+Q36) Classer horizontalement les entités ayant le même degré d’oxydation selon leurs propriétés. 
+Justifier la réponse. 
+4
+2
+5
+RuO ( sd )
+H O(liq )
+HRuO ( aq )
+H ( aq )
+−
++
++
+=
++
+ 
+D’après la loi de modération, lorsque [H+] 
+diminue (pH augmente) la réaction évolue dans 
+le sens direct  
+ 
+(
+)
+(
+)
+4
+5
+RuO
+sd
+HO
+aq
+HRuO ( aq )
+−
+−
++
+=
+ 
+D’après la loi de modération, lorsque [HO-] 
+augmente (pH augmente) la réaction évolue 
+dans le sens direct  
+ 
+Q37) Attribuer les entités à chacun des domaines.  
+Domaine 
+Entité 
+(1) 
+4
+RuO ( sd ) 
+(2) 
+2
+2
+2
+RuO
+H O( sd )
+•
+ 
+(3) 
+3
+Ru(OH ) ( sd ) 
+Q38) Déterminer la valeur de la constante d’équilibre associée au couple (1)/HRuO5-(aq).  
+4
+2
+5
+RuO ( sd )
+H O(liq )
+HRuO ( aq )
+H ( aq )
+−
++
++
+=
++
+ 
+À l’équilibre, K
+5
+HRuO
+H
+C
+−
++
+
+
+
+
+
+
+
+
+
+=
+(
+)
+2
+ 
+K
+10 pH
+tra
+C
+C
+−
+
+=
+(
+)
+2
+ 
+Application numérique : 
+K
+( )
+1
+111
+12 1
+2
+10
+10
+10
+1
+,
+,
+−
+−
+−
+
+=
+=
+ 
+ 
+(
+)
+(
+)
+4
+5
+RuO
+sd
+HO
+aq
+HRuO ( aq )
+−
+−
++
+=
+ 
+À l’équilibre, K
+5
+HRuO
+HO
+−
+−
+
+
+
+
+=
+
+
+
+
+ 
+K
+5
+e
+HRuO
+H
+K
+C
+−
++
+
+
+
+
+
+
+
+
+
+=
+(
+)
+2
+ 
+K
+10 pH
+tra
+e
+C
+K
+C
+−
+
+=
+(
+)
+2  
+Application numérique : 
+K
+( )
+1
+111
+1 9
+2
+14
+10
+10
+10
+10
+1
+,
+,
+−
+−
+−
+
+=
+=
+
+ 
+ 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 11 sur 12 
+Épreuve de chimie section BG 
+Année : 2024-2025
+Q39) En milieu basique, RuO42-(aq) subit une dismutation. Écrire les demi-réactions redox et 
+l’équation bilan de dismutation. 
+2
+4
+2
+2
+4
+2
+2
+RuO ( aq )
+H ( aq )
+e
+RuO
+H O( sd )
+−
++
+−
++
++
+=
+•
+ 
+2
+4
+4
+1
+RuO ( aq )
+RuO ( aq )
+e
+−
+−
+−
+=
++
+ 
+2
+4
+2
+2
+4
+3
+4
+2
+2
+RuO ( aq )
+H ( aq )
+RuO
+H O( sd )
+RuO ( aq )
+−
++
+−
++
+=
+•
++
+ 
+En milieu basique : 
+2
+4
+2
+2
+2
+4
+3
+4
+2
+2
+4
+RuO ( aq )
+H O(liq )
+RuO
+H O( sd )
+RuO ( aq )
+HO ( aq )
+−
+−
+−
++
+=
+•
++
++
+ 
+ 
+Q40) Que se passe-t-il si on plonge une lame de Ru(sd) dans une solution aqueuse aérée ? Justifier la 
+réponse. 
+(
+)
+2
+3
+3
+3
+3
+Ru( sd )
+H O(liq )
+Ru OH
+( sd )
+H ( aq )
+e
++
+−
++
+=
++
++
+ 
+2
+2
+4
+4
+2
+O ( g )
+H ( aq )
+e
+H O(liq )
++
+−
++
++
+=
+ 
+(
+)
+2
+2
+3
+4
+6
+3
+4
+Ru( sd )
+H O(liq )
+O ( g )
+Ru OH
+( sd )
++
++
+=
+ 
+Corrosion de Ru(sd) en Ru(OH)3(sd) 
+3
+2
+2
+2
+2
+1
+Ru(OH ) ( sd )
+H O(liq )
+RuO
+H O( sd )
+H ( aq )
+e
++
+−
++
+=
+•
++
++
+ 
+2
+2
+4
+4
+2
+O ( g )
+H ( aq )
+e
+H O(liq )
++
+−
++
++
+=
+ 
+3
+2
+2
+2
+2
+4
+2
+4
+2
+Ru(OH ) ( sd ) O ( g )
+H O(liq )
+RuO
+H O( sd )
++
++
+=
+•
+ 
+Corrosion de Ru(OH)3(sd) en 
+2
+2
+2
+RuO
+H O( sd )
+•
+ 
+ 
+Q41) Discuter la stabilité de l’ion RuO4-(aq) en présence d’une solution aqueuse. Écrire les équations-
+bilans des réactions correspondantes selon les valeurs de pH. 
+RuO4- est instable dans l’eau, le domaine de stabilité de cet ion est disjoint avec le domaine de stabilité de 
+l’eau. 
+RuO4- dans une solution aqueuse aéré à 6,41 <pH < 7 (milieu acide)  
+4
+2
+2
+4
+3
+2
+RuO ( aq )
+H ( aq )
+e
+RuO
+H O( sd )
+−
++
+−
++
++
+=
+•
+ 
+2
+2
+2
+4
+4
+H O(liq )
+O ( g )
+H ( aq )
+e
++
+−
+=
++
++
+ 
+4
+2
+2
+2
+2
+4
+6
+4
+4
+2
+3
+RuO ( aq )
+H O(liq )
+H ( aq )
+RuO
+H O( sd )
+O ( g )
+−
++
++
++
+=
+•
++
+ 
+ 
+RuO4- dans une solution aqueuse aéré à 7 <pH < 11,74 (milieu basique) 
+4
+2
+2
+2
+2
+4
+10
+4
+2
+3
+4
+RuO ( aq )
+H O(liq )
+RuO
+H O( sd )
+O ( g )
+HO ( aq )
+−
+−
++
+=
+•
++
++
+ 
+RuO4- dans une solution aqueuse aéré à pH > 11,74 (milieu basique) 
+2
+4
+4
+1
+RuO ( aq )
+e
+RuO ( aq )
+−
+−
+−
++
+=
+ 
+2
+2
+2
+4
+4
+H O(liq )
+O ( g )
+H ( aq )
+e
++
+−
+=
++
++
+ 
+2
+4
+2
+4
+2
+4
+2
+4
+4
+RuO ( aq )
+H O(liq )
+RuO ( aq )
+O ( g )
+H ( aq )
+−
+−
++
++
+=
++
++
+ 
+ 
+(
+)
+2
+4
+4
+2
+2
+4
+4
+4
+2
+RuO ( aq )
+HO
+aq
+RuO ( aq )
+O ( g )
+H O(liq )
+−
+−
+−
++
+=
++
++
+ 
+FIN DE L’ÉPREUVE 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 12 sur 12 
+Épreuve de chimie section BG 
+Année : 2024-2025
+ 
+ 
+ 
+ 
+ 
+ 
+Page vide 
+BIB-IPEIS
+BIB-IPEIS
+
+Page 1 sur 12 
+Concours Biologie et Géologie- Session Juin 2025 
+Instructions 
+ Cette épreuve comporte 12 pages dont deux blanches. 
+ Les quatre (04) problèmes sont indépendants. 
+ Tout résultat doit être écrit dans les cadres correspondants. 
+ Aucun échange entre les candidats n'est autorisé. 
+ Si au cours de l’épreuve, un candidat repère ce qui lui semble être une erreur 
+d’énoncé, il la signale sur sa copie et poursuit sa composition en indiquant les raisons 
+des initiatives qu’il est amené à prendre. 
+ 
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 14 PAGES 
+NUMEROTÉES 1 sur 12, 2 sur 12, ……, 12 sur 12. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Concours Biologie et Géologie 
+Chimie organique 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 2 sur 12 
+Concours Biologie et Géologie- Session Juin 2025 
+Remarques, notations et données numériques 
+ Numéros atomiques Z : H = 1, C = 6, N = 7, O = 8, Cl = 17 
+ Le groupe phényle peut être noté : C6H5-, Ph- ou  
+ Déplacements chimiques approximatifs en RMN 1H de quelques groupes : 
+ 
+Protons  CH3                   ppm 
+Protons  CH2                    ppm 
+Protons  CH                  ppm 
+CH3-C                       0.96-1,4 
+CH3-C-O                         1.3 
+CH3-C=C                        1.6 
+CH3-Ar                      2.1-2.3 
+CH3-CO-R                 2-2.2 
+CH3-NH2                   2.1-2.3 
+CH3-O                            3.3   
+CH3-C-Cl                  1.4-1.6 
+CH3-C-Br                  1.6-1.9 
+CH3-C-I                     1.8-2 
+CH2-C                               1.3 
+CH2-C-O                           1.9 
+CH2-C=C                          2.3 
+CH2-Ar                            2.6-2.8 
+CH2-CO-R                      2.3-2.4 
+CH2-N                             2.4-3 
+CH2-O                             3.2-3.4 
+CH2-O-CO                      4.1-4.3 
+CH2-Cl                            3.6-3.7 
+CO-CH2-Ar                     3.5-4.1 
+CH2-I                              3.2-3.3 
+CH-R                            1.5 
+CH-C-O                        2.0 
+CH-C=C                       2.6 
+CH-Ar                          3.0 
+CH-CO-R                     2.7 
+CH-N                            2.8 
+CH-O                            3.7-3.9 
+CH-Cl                           4.1-4.3 
+CH-Br                           4.2-4.4 
+CH-I                              4.3-5.4 
+CH-Aromatique (Ph)    6,4-8,5 
+Tables Infra-Rouge 
+Liaison 
+Nombre d’ondes en cm-1 
+1600-0650 
+ 
+2100-2220 
+O-H libre 
+3500-3700 
+C-O-C (éthers, esters) 
+1050-1260 
+C=O amides  
+1630-1710 
+C=O cétones, aldéhydes 
+1650-1740 
+C=O acides carboxyliques 
+1660-1740 
+C=O esters 
+1700-1750 
+C=O halogénures d’acides 
+1785-1815 
+N-H  amines (primaires, 
+secondaires)  
+3100-3500 
+ 
+ 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 3 sur 12 
+Concours Biologie et Géologie- Session Juin 2025 
+H 
+0,25 + 0,2  
+ 
+H0,25 + 0,2  
+ 
+ 
+ 
+Problème I : 
+À partir de la première formule, compléter pour chacun des composés suivants les différentes 
+projections : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 4 sur 12 
+Concours Biologie et Géologie- Session Juin 2025 
+ 
+H + 0,2  
+ 
+ 
+5 
+ 
+ 
+ 
+ 
+5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Problème II : 
+Un conformère chaise du 1,3-diméthylcyclohexane noté (A), est dessiné ci-dessous : 
+ 
+Q5. Indiquer dans (A) si les groupes méthyles sont axiaux ou équatoriaux. 
+ 
+ 
+Q6. Déduire sa configuration géométrique Cis ou Trans. 
+ 
+ 
+Q7. Ajouter les groupes méthyles et les atomes d’hydrogène sur les liaisons du conformère (B). 
+ 
+ 
+ 
+ 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 5 sur 12 
+Concours Biologie et Géologie- Session Juin 2025 
+5 
+ 
+ 
+5 
+ 
+5 
+ 
+5 
+Q8. Est-ce que la configuration géométrique de (B) a changé par rapport à (A) ? Justifier. 
+ 
+ 
+Il existe une autre configuration géométrique du 1,3-diméthylcyclohexane correspondant à deux 
+autres conformères (C) et (D) en équilibre.  
+Q9.  Dessiner ces conformères en plaçant les méthyles sur les mêmes carbones 1 et 3. 
+ 
+ 
+ 
+ 
+ 
+ 
+Parmi les quatre conformères (A), (B), (C) et (D), désigner celui qui est :  
+Q10. Le plus stable (énergie la plus faible). 
+ 
+ 
+ 
+Q11. Le moins stable (énergie la plus élevée).  
+ 
+ 
+Q12. Dessiner la projection de Newman de (A) selon les axes C1→C6 et C3→C4. 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 6 sur 12 
+Concours Biologie et Géologie- Session Juin 2025 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Problème III : 
+On considère un composé A de formule brute C8H14.  
+Q13. Calculer le nombre d’insaturations de A.  
+ 
+ 
+ 
+ 
+A subit la transformation suivante pour donner B.  
+ 
+Le composé B peut aussi être synthétisé de la manière suivante : 
+ 
+ 
+Q14. Identifier les produits C puis B. 
+ 
+ 
+ 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 7 sur 12 
+Concours Biologie et Géologie- Session Juin 2025 
+0,25pt + 0,25pt 
+                       0 
+ 
+ 
+ 
+Q15. En déduire la structure de A. 
+ 
+ 
+ 
+ 
+ 
+Q16. Ecrire la réaction spécifique générale permettant de mettre en évidence la fonction chimique 
+dans B. 
+ 
+ 
+ 
+ 
+ 
+ 
+Q17. Détailler le mécanisme de formation de C. 
+ 
+ 
+ 
+ 
+ 
+         
+     
+ 
+   Dans des conditions particulières, A subi une transformation pour donner D, un isomère de chaîne 
+de A. L’ozonolyse de D donne la cyclopentanone et la propanone. 
+Q18. Ecrire la structure de D. 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 8 sur 12 
+Concours Biologie et Géologie- Session Juin 2025 
+ 
+ 
+0,25 + 0,2 
+ 
+ 
+ 
+ 
+5 + 0,2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Q19. A et D sont-ils chiraux ? Justifier. 
+ 
+ 
+ 
+Problème IV : 
+Pour déterminer la formule semi-développée d’un composé Y de formule brute C10H11IO, on analyse 
+son spectre de RMN 1H ci-dessous : 
+ 
+Ce spectre fait apparaître les signaux suivants : 
+ Un doublet vers 2.23 ppm (3H) 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 9 sur 12 
+Concours Biologie et Géologie- Session Juin 2025 
+ 
+  
+ 
+0,25 + 0,2 
+ 
+ 
+ 
+ 
+  
+ 
+0,25 + 0,2 
+ 
+ 
+ Un singulet vers 3.71 ppm (2H) 
+ Un quadruplet vers 5.19 (1H) 
+ Un multiplet centré à 7.25 (5H) 
+ 
+D’autre part, sur le spectre Infrarouge de Y on note la présence d’une absorption vers 1710 cm-1. 
+Q20. A quelle fonction de Y pourrait correspondre cette absorption ?  
+ 
+ 
+Q21. A partir de ces données, proposer une structure chimique possible de Y. 
+ 
+ 
+ 
+ 
+ 
+.  
+ 
+En présence de AlI3 et de benzène, Y se transforme en Z.  
+Q22. Donner la structure de Z. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 10 sur 12 
+Concours Biologie et Géologie- Session Juin 2025 
+ 
+  
+   Q23. De quel type de mécanisme réactionnel s’agit-il ?  
+ 
+ 
+ 
+ 
+ 
+FIN DE L’EPREUVE 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 11 sur 12 
+Concours Biologie et Géologie- Session Juin 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+ 
+Page 12 sur 12 
+Concours Biologie et Géologie- Session Juin 2025 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+BIB-IPEIS
+BIB-IPEIS
+
+BIB-IPEIS
+BIB-IPEIS
+
+BIB-IPEIS
+BIB-IPEIS
+
+BIB-IPEIS
+BIB-IPEIS
+
+BIB-IPEIS
+BIB-IPEIS
+
+BIB-IPEIS
+BIB-IPEIS
+
+BIB-IPEIS
+BIB-IPEIS
+
+BIB-IPEIS
+BIB-IPEIS
+
+BIB-IPEIS
+BIB-IPEIS
+
+BIB-IPEIS
+BIB-IPEIS

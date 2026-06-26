@@ -1,0 +1,1820 @@
+Concours Biologie & Géologie-Session Juin 2025 
+Epreuve de Physique 
+Page 1/16 
+REPUBLIQUE TUNISIENNE 
+Ministère de l’Enseignement Supérieur et de 
+la Recherche Scientifique 
+ 
+ 
+Concours Nationaux d’Entrée aux 
+Cycles de Formation d’Ingénieurs  
+Session 2025 
+ 
+ 
+ 
+المناظراتالوطنيةللدخول 
+إلىمراحلتكوينالمهندسين 
+دورة2025 
+ 
+ 
+ 
+Concours 
+Biologie & Géologie 
+ 
+ 
+Epreuve de Physique 
+ 
+ 
+ 
+ 
+Date : 02 Juin 2025 
+Heure : 8 H00 
+Durée : 3H 
+ 
+ 
+ Cette épreuve comporte 16 pages. 
+ Il n’est fourni au candidat qu’une seule et unique copie qui doit être rendue à la fin de l’épreuve 
+même sans réponses. 
+ L’usage d’une calculatrice non programmable est autorisé. 
+ L’épreuve comporte cinq parties. 
+ Tout résultat fourni dans l’énoncé peut être admis et utilisé par la suite, même s’il n’a pas été 
+démontré par le candidat. 
+ Les résultats numériques sans unité ou avec une unité fausse ne seront pas comptabilisés. 
+ Si, au cours de l’épreuve, un candidat repère ce qui lui semble être une erreur d’énoncé, il le 
+signale sur sa copie et poursuit sa composition en expliquant les raisons des initiatives qu’il est 
+amené à prendre. 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie & Géologie-Session Juin 2025 
+Epreuve de Physique 
+Page 2/16 
+Première Partie : Q.C.M. 
+Cocher la ou les cases correspondant aux bonnes réponses. 
+Q1. Un gaz parfait subit une détente de Joule-Gay-Lussac qualifiée de détente irréversible iso-
+énergétique. La variation de son entropie ΔS est : 
+▢∆𝑆< 0 
+ 
+▢∆𝑆= 0 
+ 
+▢∆𝑆> 0 
+Q2. 1 kg d’eau liquide, pris à T=90°C, reçoit à pression atmosphérique une quantité de chaleur 
+Q=2315 kJ. On donne : l’enthalpie massique de vaporisation de l’eau à 100°C : ℓ𝑣=
+2315 𝑘𝐽. 𝑘𝑔−1, 
+la 
+capacité 
+thermique 
+massique 
+de 
+l’eau 
+liquide 
+saturante : 
+𝑐ℓ=
+4,18 𝑘𝐽. 𝑘𝑔−1. 𝐾−1. Dites si : 
+▢ l’eau va s’évaporer totalement 
+▢la quantité majeure va s’évaporer 
+▢seule une petite quantité va s’évaporer 
+Q3. Unemachine motrice ditherme fonctionne selon le cycle idéal de Carnot. T1 est la température 
+de la source chaude. T2 celle de la source froide. Le rendement η de cette machine est : 
+▢1 −
+𝑇1
+𝑇2 
+▢1 −
+𝑇2
+𝑇1 
+▢1 +
+𝑇1
+𝑇2 
+▢1 +
+𝑇2
+𝑇1 
+Q4. On considère un gaz qui traverse une tuyère horizontale, rigide et calorifugée. ρ, het v sont la 
+masse volumique, l’enthalpie massique et la vitesse du gaz. Les indices ‘e’ et ‘s’ réfèrent aux 
+paramètres à l’entrée et à la sortie de la tuyère.Le régime est stationnaire et l’écoulement est 
+incompressible. La vitesse à la sortie, vs>>ve, est : 
+▢𝑣𝑠= √2𝜌(ℎ𝑠−ℎ𝑒) 
+▢𝑣𝑠= √2(ℎ𝑠−ℎ𝑒) 
+▢𝑣𝑠= √2(ℎ𝑠−ℎ𝑒)/𝜌 
+▢𝑣𝑠= √2(ℎ𝑒−ℎ𝑠) 
+Q5. Laquelle des formes d’équations suivantes décrit un phénomène de transportdiffusif ? 
+▢
+𝜕𝑓(𝑥,𝑡)
+𝜕𝑡
+= 𝐴
+𝜕2𝑓(𝑥,𝑡)
+𝜕𝑥2  
+▢
+𝜕2𝑓(𝑥,𝑡)
+𝜕𝑡2
+= 𝐴
+𝜕2𝑓(𝑥,𝑡)
+𝜕𝑥2
++ 𝑃𝑐𝑟 
+▢
+𝜕𝑓(𝑥,𝑡)
+𝜕𝑥
+= 𝐴
+𝜕2𝑓(𝑥,𝑡)
+𝜕𝑡2
++ 𝑃𝑐𝑟 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie & Géologie-Session Juin 2025 
+Epreuve de Physique 
+Page 3/16 
+Q6. Dans un modèle simplifié, la colonne vertébrale peut être assimilée à unlevierprenant appui sur 
+le sacrum (A). Les différents muscles du dos sont équivalents à un muscle unique agissant en C. 
+L'ensemble tronc-bras a soncentre de gravitésitué en B et représente 60% du poids de l'individu, qui 
+pèse 80 kg. La tête représente 7% du poids de l'individu.𝑅⃗ estla réaction du point d'appui A. 
+Que vaut laforceT exercée par les muscles 
+dorsaux ? On donne : 𝑔= 10 𝑚. 𝑠−2. 
+▢T =235 N 
+▢T =1150 N 
+▢T =2315 N 
+Q7. Deux pendules simplessont constitués d’un fil de 1 𝑚auquel est attaché une masse de 1 kg pour 
+le premier et 2 kg pour le deuxième. Les deux pendulessonten oscillationslibres de faibles 
+amplitudes et de fréquences f1 et f2, respectivement. Dites si:  
+▢f1=2 f2 
+▢f2= 2f1 
+▢f1 = f2 
+Q8. On considère uneplanète ayant une trajectoire 
+elliptique autour du soleil. Sa vitesse est: 
+▢ la même partout sur la trajectoire 
+▢maximale en aphélie. 
+▢maximale en périhélie.  
+Deuxième Partie : Mécanique des fluides réels et écoulements sanguins 
+Le système cardiovasculaire a pour rôle d’approvisionner 
+les tissus et les organes en oxygène et en nutriments essentiels à 
+leur bon fonctionnement, tout en éliminant les déchets produits 
+par leur métabolisme. Il doit doncassurer la circulation du sang 
+depuis les artères jusqu’aux capillaires. 
+La circulation du sang dans une artère peut être 
+modélisée par l’écoulement d'un fluide visqueux, incompressible 
+et homogène dans une conduite cylindrique de rayon R et de 
+longueur L (Figure 1). On suppose que l’écoulement est 
+laminaire et que le régime permanent est atteint. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1 
+Pour les applications numériques, on donne la masse volumique du sang est ρ=103 kg.m-3 et 
+laviscosité dynamique η = 4 10-3Pa.s. 
+ 
+ 
+ 
+ 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie & Géologie-Session Juin 2025 
+Epreuve de Physique 
+Page 4/16 
+Mécanique des fluides visqueux 
+ 
+Q9. On donne l’expression du nombre de Reynolds ;Re = 𝐿𝑈/𝜇 où L et U sont identiques à une 
+longueur et une vitesse caractérisant, respectivement, la géométrie et la cinématique de 
+l’écoulement. 𝜇= 𝜂/𝜌estla viscosité cinématique du fluide et 𝜌 la masse volumique du fluide. 
+Donner la signification physique de Re. 
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------- 
+Q10. Donner l’expression de Re pour un écoulement dans une conduite cylindrique de diamètre 
+dainsi que les différents régimes d’écoulement qui s’établissent selon les valeurs de Re. 
+Schématiser l’allure de l’écoulement dans chaque cas. 
+-----------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------- 
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------- 
+Dans une telle conduite, l’expression de la vitesse d’un fluide newtonien etincompressible en 
+écoulement laminaire et stationnaireest : 
+𝑣 (𝑟) = 𝑣 𝑚𝑎𝑥(1 −𝑟2
+𝑅2) 
+(1) 
+où𝑣 𝑚𝑎𝑥=
+1
+4 𝜂(
+Δ𝑃
+𝐿) 𝑅2𝑢⃗ 𝑥est la vitesse maximale du fluide dans la section de la conduite ;               
+Δ𝑃= 𝑃(0) −𝑃(𝐿) > 0 est la perte de pression le long de la conduite ;r est la variable cylindrique. 
+ 
+Q11. Définir un fluide newtonien, un écoulement laminaire et un écoulement stationnaire. Que 
+représente le rapport (
+Δ𝑃
+𝐿)  ? 
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------- 
+Q12. Préciser les conditions aux limites que vérifie l’expression(1).Tracer les profils de vitesse 
+dans ce cas et dans le casd’écoulement turbulent. 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie & Géologie-Session Juin 2025 
+Epreuve de Physique 
+Page 5/16 
+Conditions aux limites 
+----------------------------------------
+----------------------------------------
+----------------------------------------
+---------------------------- 
+Laminaire 
+ 
+Turbulent 
+ 
+Q13. Définir et exprimer le débit volumique𝑄(loi de Poiseuille) en fonction de 𝑣𝑚𝑎𝑥 et R. 
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------- 
+Q14. Le nombre de Re s’exprime en fonction de la vitesse moyenne, 𝑣𝑚𝑜𝑦, du fluide dans la 
+conduite. Exprimer cette vitesse en fonction de 𝑣𝑚𝑎𝑥. 
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------- 
+Q15. Définir la résistance hydraulique, RH, de la conduite et l’exprimer en fonction de 𝑄 et ∆𝑝. En 
+déduire son expression en fonction de R, L et 𝜂. 
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------ 
+Q16. Trouver une analogie avec le phénomène deconduction électrique (préciser les différentes 
+grandeurs d’analogie). 
+Analogie 
+Hydraulique 
+Electrique 
+--------------------------------------------------------------
+--------------------------------------------------------------
+--------------------------------------------------------------
+--------------------------------------------------------------
+--------------------------------------------------------------
+--------------------------------------------------------------
+--------------------------- 
+--------------------------------------------------------------
+--------------------------------------------------------------
+--------------------------------------------------------------
+--------------------------------------------------------------
+--------------------------------------------------------------
+--------------------------------------------------------------
+--------------------------- 
+Modélisation d’une sténose 
+Q17. Une artère saine étant modélisée par un tube cylindrique de rayon R et de longueur Lsoumis à 
+∆𝑝.Calculer le débit Q, puis la vitesse moyenne du sang,𝑣𝑚𝑜𝑦, dans cette artère. Calculer Re et 
+conclure sur la nature de l’écoulement. 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie & Géologie-Session Juin 2025 
+Epreuve de Physique 
+Page 6/16 
+1 
+2 
+3 
+O 
+x1 
+x2 
+x3 
+On donne R=6 mm, L=8 cm et ∆𝑝= 40 Pa. 
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------- 
+Une sténose est unrétrécissement de l'artère (et des vaisseaux sanguins), généralement dû à une 
+athérosclérose(accumulation de graisse et calcium dans la paroi). Cette accumulation forme une 
+plaque qui s'épaississe progressivement et affecte la circulation du sang (Figure 2).Une 
+modélisation simple est représentée sur la Figure 3. 
+ 
+Figure 2 
+ 
+ 
+ 
+ 
+ 
+ 
+On donne R=6 mm, Rs=2mm, 2L=7cm, Ls=1cm. 
+Figure 3 
+Q18. Le régime étant stationnaire, que peut-on dire des débits volumiques Q1, Q2, Q3 dans les zones 
+①, ② et ③et Q dans l’artère. Comparer, en le justifiant, les vitesses moyennes de l’écoulement 
+dans les 3 zones. 
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------ 
+Q19. Calculer la résistance, 𝑅𝐻,2de la zone sténosée (zone 2) et la résistance 𝑅𝐻,1 + 𝑅𝐻,3 somme 
+des résistances des zones 1 et 3. 
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------- 
+Q20. Exprimer la résistance hydraulique totale, RH,t, en fonction de Q et de ∆𝑝= 𝑝(𝑥= 0) −𝑝(𝑥=
+𝑥3), puis l’exprimer en fonction de 𝑅𝐻,1 , 𝑅𝐻,2 et 𝑅𝐻,3. Calculer RH,t . 
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie & Géologie-Session Juin 2025 
+Epreuve de Physique 
+Page 7/16 
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------- 
+Q21. Proposer une analogie électrique avec cette situation. Qu’appelle-t-on le circuit proposé ? En 
+déduire l’expression de la différence de pression, ∆𝑝𝑠= 𝑝(𝑥1) −𝑝(𝑥2),au niveau de la sténose en 
+fonction des résistances hydrauliques des 3 zones RH,1 ,RH,sténose=RH,2 , RH,3 et∆𝑝. 
+ 
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------ 
+Q22. En utilisant l’analogie proposée, expliquer l’effet de la sténose sur la circulation sanguine si le 
+système cardio-vasculaire maintient le même gradient de pression Δ𝑝= 𝑝(0) −𝑝(𝑥3) = 40 Pa 
+(valeur sans sténose). 
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------- 
+Q23. Dans la réalité, le cœur doit assurer les mêmes besoins en oxygène et en nutriments demandés 
+par l’organisme. De ce fait il doit maintenir le même débit volumique du sang circulant dans le 
+système sain. Dire comment ceci affecte le cœur (il est possible d’analyser la situation par analogie 
+avec l’électricité) 
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------- 
+Q24. Calculerle nouveau gradient de pression,∆𝑝′, assurant le débit nécessaireQ. En déduire la 
+chute de pression,∆𝑝𝑠, dans la zone de sténose. Calculer la vitesse moyenne,𝑣𝑚𝑜𝑦,𝑠,correspondante, 
+puis calculer Re dans cette zone. Conclure en ce qui concerne le régime d’écoulement qui s’établit. 
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie & Géologie-Session Juin 2025 
+Epreuve de Physique 
+Page 8/16 
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+----------------------------- 
+Troisième Partie : Mesure de la vitesse par effet Doppler 
+La détection d’une sténose chez un patient passe par une estimation de la vitesse 
+d’écoulement du sang. Une technique de mesure de la vitesse du sang est l’échographie Doppler. Le 
+principe de cette technique repose sur le décalage de fréquence d’une onde reçue/émise par un 
+récepteur/émetteur mobile, ici les hématies (globules rouges). 
+Une sonde à ultrason, jouant le rôle d’émetteur et de récepteur en même temps, est 
+positionnée sur la peau et émet des ultrasonsde célérité c et de fréquencef0. L’onde incidente fait un 
+angle θ avec le vaisseau à explorer (Figure 4). Cette onde est reçue par les hématies, circulant à la 
+vitesse v<<c dans les artères, puis réfléchie vers la sonde. La mesure du décalage total de fréquence 
+entre les ondes émises et reçues (par réflexion sur l’hématie) permet d’estimer la vitesse v. 
+ 
+ 
+ 
+Figure 4. Principe de la mesure d’une vitesse d’écoulement sanguin par effet Doppler 
+On considère que pendant la période T0 de l'onde ultrasonore ; 
+ L’angle𝜃∈[0,
+𝜋
+2],entre le faisceau d'ultrasons et le vecteur vitesse 𝑣 , reste constant et 
+par suite seule la composante de vitesse v.cos(θ) contribue à la variation de la distance 
+sonde-hématie. 
+ La vitessevreste constante et l’hématie est animée par un mouvement rectiligne 
+uniforme. 
+ 
+On considère la situation de la Figure 5: une source fixe à l’origine de l’axe 𝑂𝑥 émet une onde 
+de fréquence fset de célérité c.Un récepteur mobile à la vitesse algébrique,très inférieur à cet 
+x
+Source fixe 
+fréquence fs 
+Récepteur mobile 
+fréquence fr 
+𝑢⃗  
+Figure 5 
+f0 + Δf 
+f0  
+Réception 
+f0 + Δf 
+Emission f0  
+Signal  
+Doppler Δf 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie & Géologie-Session Juin 2025 
+Epreuve de Physique 
+Page 9/16 
+supposée constante, perçoit cette onde à la fréquence fr.Posons 𝑢⃗ = 𝑢 𝑒𝑥
+⃗⃗⃗⃗⃗  : siu>0 le récepteur 
+s’éloigne et si u<0 il se rapproche. 
+Q25. Montrer que la fréquence perçue par le récepteur s’écrit𝑓𝑟= 𝑓𝑠(1 −
+𝑢
+𝑐). On rappelle le 
+développement limité de premier ordre (1 + 𝜀)𝛼= 1 + 𝛼𝜀 quand𝜀→0. 
+ 
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+------------------ 
+Q26. En déduire l’expression de la fréquence, 𝑓1, perçue par l’hématie et l’expression de la 
+fréquence, 𝑓2, de l’onde reçue par la sonde en provenance de l’hématie en fonction de, 𝑓1. Montrer 
+alors que : 
+𝑓2 = 𝑓0 (1 −
+2𝑣 𝑐𝑜𝑠(𝜃)
+𝑐
+). 
+𝑣< 0, rapprochement ; 𝑣> 0, éloignement  
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------- 
+Q27. Discuter le signe du décalage Doppler ∆𝑓= 𝑓2 −𝑓0 suivant que l’hématie s’éloigne ou se 
+rapproche de la sonde. 
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie & Géologie-Session Juin 2025 
+Epreuve de Physique 
+Page 10/16 
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+----- 
+Q28. Calculer ∆𝑓 dans l’artère saine et dans la zone de sténose dans le cas d’un rapprochement à la 
+sonde. Commenter. 
+On donnec = 1,5 km.s-1 ;f0 = 4 MHz ; 𝜃= 20°. 
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------- 
+Q29. L’analyse spectrale des fréquences Doppler peut conduire à différents types de signaux : 
+aucun signal, un spectre fréquentiel très large, un spectre étroit. Décrire la situation de santé du 
+patient dans chaque cas. 
+--------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------- 
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------- 
+ 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie & Géologie-Session Juin 2025 
+Epreuve de Physique 
+Page 11/16 
+QuatrièmePartie : Filtrage 
+En pratique le récepteur du scanner Doppler reçoit un signal composé de différentes 
+fréquences ; en particulier la fréquence f0 réfléchie sur les organes immobiles. Pour filtrer le signal 
+et ne garder que la composante liée à la vitesse de l’hématie on utilise un filtre passif. Le 
+diagramme de Bode en gain de ce filtre est présenté sur la figure 6. 
+ 
+Figure 6 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie & Géologie-Session Juin 2025 
+Epreuve de Physique 
+Page 12/16 
+Q30. En déduire la nature du filtre correspondant. Donner les valeurs asymptotiques du Gdb etla 
+valeur du gain maximal. 
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------- 
+Q31. Tracer sur la Figure6le digramme asymptotique. Déterminer l’ordre du filtre, les valeurs des 
+fréquences propre, f0, et de coupure à 𝐺𝑑𝐵
+𝑚𝑎𝑥−3𝑑𝐵, fc. Donner la bande passante. 
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------- 
+Q32. Proposer un circuit électrique dont le gain correspond à celui de la Figure 6 et 
+donnerl’expression de la fonction de transfert complexe 𝐻(𝑗𝜔) correspondante. 
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------- 
+Q33. Quelle est l’utilité de ce filtre dans l’application actuelle (se rapporter à la question Q28). 
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------- 
+Cinquième Partie : Ondes acoustiques et échographie 
+Lors de l'échographie, plusieurs problèmes d’ordre technique peuvent être rencontrés. Parmi 
+eux, la difficulté de propagation de l’onde ultrasonore à travers des couches de propriétés sonores 
+très différentes. On se propose dans cette partie d'étudier l’origine du problème et la possibilité d’y 
+remédier. 
+Propagation des ondes acoustiques 
+On considère un fluide parfait au repos macroscopique, caractérisé par une pression P0 et une 
+masse volumique ρ0,tous deux uniformes. Le passage d'une onde sonore dans ce fluide perturbe cet 
+état d’équilibre. Ainsi, leschamps locaux de pression, de masse volumique et de vitesse deviennent 
+en un point M du fluide et à chaque instant (pour un problème unidirectionnel suivant Ox ): 
+𝑃(𝑥, 𝑡) = 𝑃0 + 𝑝(𝑥, 𝑡)
+𝜌(𝑥, 𝑡) = 𝜌0 + 𝜇(𝑥, 𝑡)
+𝑣 (𝑥, 𝑡) = 𝑣(𝑥, 𝑡)𝑒𝑥
+⃗⃗⃗ 
+ 
+ 
+avec 
+ 
+𝑝(𝑥, 𝑡) ≪ 𝑃0
+𝜇(𝑥, 𝑡) ≪𝜌0
+𝑣(𝑥, 𝑡) ≪𝑐    
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie & Géologie-Session Juin 2025 
+Epreuve de Physique 
+Page 13/16 
+oùp(x,t), μ(x,t) et v(x,t) sont, respectivement, la surpression, la masse volumique et la vitesse 
+acoustiques, causés par le passage de l’onde. c est la célérité de l’onde dans le fluide considéré. 
+Dans toute cette partie, on considère la propagation d’une onde plane progressive harmonique 
+(OPPH) dans le cadre de l’approximation de l’acoustique linéaire. 
+Q34. Bien que l’OPPH soit une onde idéale, purement hypothétique, elle est d’un grand intérêt pour 
+la physique des ondes. Donner l’expression d’une OPPHde surpression en notations réelle et 
+complexe (définir chaque terme). Donner son utilité. Citer un exemple d’exploitation de cette onde. 
+ 
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+----- 
+L'impédance acoustique complexe d'un milieu est définie par le rapport Z = p(x,t)/v(x,t). 
+Pour une OPPH elle peut se réduire à𝑍=
+𝑝
+𝑣=
+𝑃𝑚
+𝑉𝑚=
+𝑃𝑚
+𝑉𝑚. On montre la relation liant la surpression 
+acoustique à la vitesse ‘acoustique’ dues au passage de l’onde sonore :
+𝜕𝑣(𝑥,𝑡)
+𝜕𝑡
+= −
+1
+𝜌0
+𝜕𝑝(𝑥,𝑡)
+𝜕𝑥 
+(équation d’Euler linéarisée). 
+Q35. Définir la notion d’impédance en physique. Pour une OPPH, l’impédance acoustique est 
+purement réelle. Montrer qu’elle est égale à𝑍= ±𝜌0𝑐, selon que la propagation se fait dans le sens 
+desx croissants ou décroissants. 
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+----- 
+Réflexion et transmission des ondes acoustiques 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie & Géologie-Session Juin 2025 
+Epreuve de Physique 
+Page 14/16 
+On considèredeux milieux non dissipatifs d’impédances acoustiques𝑍1 = 𝜌01𝑐1 et 𝑍2 =
+ 𝜌02𝑐2,initialement au repos. La pression initiale est P0 uniforme dans les deux milieux. Une OPPH 
+incidente se propage dans le domaine x<0 dans le sens desx croissants (Figure7). 
+Au niveau d’un dioptre acoustique imperméable,fixeen x = 0,cette onde subit une transmission 
+dans le domaine x> 0 etune réflexion dans le domaine x<0.{𝑝𝑖(𝑥, 𝑡), 𝑣𝑖 (𝑥, 𝑡)},{𝑝𝑡(𝑥, 𝑡), 𝑣𝑡 (𝑥, 𝑡)}et 
+{𝑝𝑟(𝑥, 𝑡), 𝑣𝑟(𝑥, 𝑡)}sont les champs de pressions et de vitesses acoustiques associés à ces 3 ondes.  
+Q36. Exprimer les pressions et les vitesses acoustiques dans les milieux 1 et 2, {𝑝1(𝑥, 𝑡), 𝑣1 (𝑥, 𝑡)} 
+et {𝑝2(𝑥, 𝑡), 𝑣2 (𝑥, 𝑡)}, en fonction des pressions et des vitesses incidentes, transmises et réfléchies. 
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------- 
+Q37. Donner, en le justifiant, les conditions aux limites relatives à la vitesse et à la pression au 
+niveau du dioptre en x=0. En déduire les équations qui en résultent. 
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------- 
+Au niveau du dioptre acoustique, on définit les coefficients de réflexion, rp, et de 
+transmission, tp, en amplitude de pression par : 𝑟𝑝=
+𝑝𝑟(0,𝑡)
+𝑝𝑖(0,𝑡) =
+𝑃𝑟𝑚
+𝑃𝑖𝑚 et 𝑡𝑝=
+𝑝𝑡(0,𝑡)
+𝑝𝑖(0,𝑡) =
+𝑃𝑡𝑚
+𝑃𝑖𝑚 , où Pim, Prm 
+et Ptm sont les amplitudes des ondes incidente, réfléchie et transmise. 
+ 
+Figure 7 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie & Géologie-Session Juin 2025 
+Epreuve de Physique 
+Page 15/16 
+Q38. Exprimer rp et tpen fonction de Z1 et Z2. 
+ 
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+---- 
+Au niveau de dioptre acoustique on définit, aussi, les coefficients de réflexion,R, et de 
+transmission,T, de l'énergie acoustique de l'onde incidente :𝑅= |
+〈𝜋𝑟(0,𝑡)〉
+〈𝜋𝑖(0,𝑡)〉| et 𝑇= |
+〈𝜋𝑡(0,𝑡)〉
+〈𝜋𝑖(0,𝑡)〉| où 
+〈… 〉désigne la moyenne sur le temps. On rappelle l’expression de la puissance surfacique 
+acoustique π(x,t)=p(x,t).v(x,t). 
+Q39. Exprimer <π(x,t)> en fonction de Pm et Z dans le cas d’une OPPH puis en déduire que R et T 
+peuvent s’écrire, en termes de modules de pression, comme : 
+ 
+𝑅= (
+𝑃𝑟𝑚
+𝑃𝑖𝑚)
+2
+ 
+ 
+et 
+ 
+𝑇=
+𝑍1
+𝑍2 (
+𝑃𝑡𝑚
+𝑃𝑖𝑚)
+2
+ 
+ 
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+------- 
+Q40. Montrer que 𝑅= (
+𝑍2−𝑍1
+𝑍1+𝑍2)
+2
+et 𝑇=
+4 𝑍1𝑍2
+(𝑍1+𝑍2)2. Calculer la somme R+T. Quel principe physique 
+traduit le résultat trouvé. 
+-----------------------------------------------------------------------------------------------------------------------------------
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie & Géologie-Session Juin 2025 
+Epreuve de Physique 
+Page 16/16 
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-------------------. 
+Q41. Discuter les cas 𝑍1 >> 𝑍2,   𝑍1 << 𝑍2et𝑍1 = 𝑍2. Commenter. 
+ 
+ 
+𝑍1 >> 𝑍2 
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------
+-----------------------------------------
+------------------ 
+𝑍1 << 𝑍2 
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+------------------- 
+𝑍1 = 𝑍2 
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+------------------- 
+---------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------. 
+Q42. On donne Zair = 400 kg.m-2.s-1 et Zpeau= 1.62. 106kg.m-2.s-1. Quel problème pratique peut être 
+rencontré lors de l’utilisation médicale de l’échographie ? proposer une solution. 
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+---------------------------------. 
+Fin de l’Épreuve 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie & Géologie-Session Juin 2025 
+Epreuve de Physique  
+Page 1/14 
+REPUBLIQUE TUNISIENNE 
+Ministère de l’Enseignement Supérieur et de 
+la Recherche Scientifique 
+ 
+ 
+Concours Nationaux d’Entrée aux 
+Cycles de Formation d’Ingénieurs  
+Session 2025 
+ 
+ 
+ 
+ اﻟﻣﻧﺎظراﺗﺎﻟوطﻧﯾﺔﻟﻠدﺧول
+ إﻟﯩﻣراﺣﻠﺗﻛوﯾﻧﺎﻟﻣﮭﻧدﺳﯾن
+دورة2025 
+ 
+ 
+ 
+Concours 
+Biologie & Géologie 
+ 
+ 
+Correction de l’épreuve de Physique 
+ 
+ 
+ 
+ 
+Date : 02 Juin 2025 
+Heure : 8 H00 
+Durée : 3H 
+ 
+ 
+• Cette épreuve comporte 14 pages. 
+• Il n’est fourni au candidat qu’une seule et unique copie qui doit être rendue à la fin de l’épreuve 
+même  sans réponses. 
+• L’usage d’une calculatrice non programmable est autorisé. 
+• L’épreuve comporte cinq parties. 
+• Tout résultat fourni dans l’énoncé peut être admis et utilisé par la suite, même s’il n’a pas été 
+démontré par le candidat. 
+• Les résultats numériques sans unité ou avec une unité fausse ne seront pas comptabilisés. 
+• Si, au cours de l’épreuve, un candidat repère ce qui lui semble être une erreur d’énoncé, il le 
+signale sur sa copie et poursuit sa composition en expliquant les raisons des initiatives qu’il est 
+amené à prendre. 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie & Géologie-Session Juin 2025 
+Epreuve de Physique  
+Page 2/14 
+Première Partie : Q.C.M. 
+Cocher la ou les cases correspondantes aux bonnes réponses. 
+Q1. Un gaz parfait subit une détente de Joule-Gay-Lussac qualifiée de détente irréversible iso-
+énergétique. La variation de son entropie ΔS est : 
+ 
+ 
+▢∆𝑆< 0 
+ 
+ 
+▢∆𝑆= 0 
+ 
+ 
+☒ ∆𝑆> 0 
+Q2. 1 kg d’eau liquide, pris à T=90°C, reçoit à pression atmosphérique une quantité de chaleur 
+Q=2315 kJ. On donne : l’enthalpie massique de vaporisation de l’eau à 100°C : 
+1
+2315
+v
+kJ kg −
+=
+
+, 
+la capacité thermique massique de l’eau liquide saturant : 
+1
+1
+4 18
+c
+,
+kJ kg
+K
+−
+−
+=
+
+. Dites si : 
+▢ l’eau va s’évaporer totalement 
+☒ la quantité majeure va s’évaporer 
+▢seule une petite quantité va s’évaporer 
+Q3. Une machine motrice ditherme fonctionne selon le cycle idéal de Carnot. T1 est la température 
+de la source chaude. T2 celle de la source froide. Le rendement η de cette machine est : 
+▢ 1 −
+𝑇1
+𝑇2 
+☒ 1 −
+𝑇2
+𝑇1 
+▢ 1 +
+𝑇1
+𝑇2 
+ ▢ 1 +
+𝑇2
+𝑇1 
+Q4. On considère un gaz qui traverse une tuyère horizontale, rigide et calorifugée. ρ, h et v sont la 
+masse volumique, l’enthalpie massique et la vitesse du gaz. Les indices ‘e’ et ‘s’ réfèrent aux 
+paramètres à l’entrée et à la sortie de la tuyère. Le régime est stationnaire et l’écoulement est 
+incompressible. La vitesse à la sortie, vs>>ve, est : 
+▢𝑣𝑠= ඥ2𝜌(ℎ𝑠−ℎ𝑒) 
+▢𝑣𝑠= ඥ2(ℎ𝑠−ℎ𝑒) 
+▢𝑣𝑠= ඥ2(ℎ𝑠−ℎ𝑒)/𝜌 
+☒𝑣𝑠= ඥ2(ℎ𝑒−ℎ𝑠) 
+Q5. Laquelle des formes d’équations suivantes décrit un phénomène de transport diffusif ? 
+☒ 
+𝜕𝑓(𝑥,𝑡)
+𝜕𝑡
+= 𝐴
+𝜕2𝑓(𝑥,𝑡)
+𝜕𝑥2  
+▢ 
+𝜕2𝑓(𝑥,𝑡)
+𝜕𝑡2
+= 𝐴
+𝜕2𝑓(𝑥,𝑡)
+𝜕𝑥2
++ 𝑃𝑐𝑟  
+▢ 
+𝜕𝑓(𝑥,𝑡)
+𝜕𝑥
+= 𝐴
+𝜕2𝑓(𝑥,𝑡)
+𝜕𝑡2
++ 𝑃𝑐𝑟 
+Q6. Dans un modèle simplifié, la colonne vertébrale peut être assimilée à un levier prenant appui 
+sur le sacrum (A). Les différents muscles du dos sont équivalents à un muscle unique agissant en C. 
+L'ensemble tronc-bras a son centre de gravité situé en B et représente 60% du poids de l'individu, 
+qui pèse 80 kg. La tête représente 7% du poids de l'individu. 𝑅ሬ⃗ la réaction du point d'appui A. 
+Que vaut la force T exercée par les muscles 
+dorsaux ? 𝑔= 10 𝑚𝑠−2 
+ 
+▢ T =235 N  
+▢ T =1150 N 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie & Géologie-Session Juin 2025 
+Epreuve de Physique  
+Page 3/14 
+☒ T =2315 N 
+Q7. Deux pendules simples sont constitués d’un fil de 1 𝑚 auquel est attaché une masse de 1 kg 
+pour le premier et 2 kg pour le deuxième. Les deux pendules sont en oscillations libres de faibles 
+amplitudes et de fréquences f1 et f2, respectivement. Dites si :  
+▢ f1=2 f2 
+▢ f2= 2f1  
+ 
+ 
+ 
+☒ f1 = f2 
+Q8. On considère une planète ayant une trajectoire 
+elliptique autour du soleil. Sa vitesse est: 
+ 
+▢ la même partout sur la trajectoire. 
+ 
+▢ maximale en aphélie. 
+ 
+☒ maximale en périhélie.  
+Deuxième Partie : Mécanique des fluides réels et écoulements sanguins 
+Le système cardiovasculaire a pour rôle d’approvisionner 
+les tissus et les organes en oxygène et en nutriments essentiels à 
+leur bon fonctionnement, tout en éliminant les déchets produits 
+par leur métabolisme. Il doit donc assurer la circulation du sang 
+depuis les artères jusqu’aux capillaires. 
+La circulation du sang dans une artère peut être modélisée 
+par l’écoulement d'un fluide visqueux, incompressible et 
+homogène dans une conduite cylindrique de rayon R et de 
+longueur L (Figure 1). On suppose que l’écoulement est 
+laminaire et que le régime permanent est atteint.  
+ 
+ 
+ 
+  Figure 1 
+Pour les applications numériques la masse volumique du sang est ρ=103 kg.m-3 et la viscosité 
+dynamique η = 4 10-3 Pa.s. 
+ 
+Mécanique des fluides visqueux 
+ 
+Q9. On donne l’expression du nombre de Reynolds ; Re = 𝐿 𝑈/𝜇 où L et U sont identiques à une 
+longueur et une vitesse caractérisant, respectivement, la géométrie et la cinématique de 
+l’écoulement. 𝜇= 𝜂/𝜌 est la viscosité cinématique du fluide et 𝜌 la masse volumique du fluide. 
+Donner la signification physique de Re. 
+Re est le rapport entre le transport de matière par convection et par diffusion visqueuse :  
+Re = convection
+diffusion  
+ 
+Q10. Donner l’expression de Re pour un écoulement dans une conduite cylindrique de diamètre d 
+ainsi que les différents régimes d’écoulement qui s’établissent selon les valeurs de Re. Schématiser 
+l’allure de l’écoulement dans chaque cas. 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie & Géologie-Session Juin 2025 
+Epreuve de Physique  
+Page 4/14 
+Re = 𝑑 𝑣/𝜇 ; v la vitesse moyenne 
+Re<2000 : laminaire 
+2000<Re<3000 : critique 
+Re>3000 : turbulent 
+ 
+Couches parallèles 
+  
+Peu perturbé 
+ 
+Totalement perturbé 
+ 
+Dans une telle conduite, l’expression de la vitesse d’un fluide newtonien et incompressible en 
+écoulement laminaire et stationnaire est : 
+𝑣⃗(𝑟) = 𝑣⃗𝑚𝑎𝑥ቆ1 −𝑟2
+𝑅2ቇ 
+(1) 
+où 𝑣⃗𝑚𝑎𝑥=
+1
+4 𝜂ቀ
+Δ𝑃
+𝐿ቁ𝑅2𝑢𝑢ሬ⃗𝑥 est la vitesse maximale du fluide dans la section de la conduite ;               
+Δ𝑃= 𝑃(0) −𝑃(𝐿) > 0 est la perte de pression le long de la conduite ; r est la variable cylindrique. 
+ 
+Q11. Définir un fluide newtonien, un écoulement laminaire et un écoulement stationnaire. Que 
+représente le rapport ቀ
+Δ𝑃
+𝐿ቁ ? 
+Fluide newtonien ; 𝜂 et une constante par rapport à la contrainte de déformation. 
+Ecoulement laminaire : les couches du fluide glissent les unes sur les autres sans se mélanger. 
+Ecoulement stationnaire : vitesses indépendantes du temps. 
+ 
+Δ𝑃
+𝐿 : la perte de charge (pression) linéique (par unité de longueur). 
+ 
+Q12. Préciser les conditions aux limites que vérifie l’expression (1). Tracer les profils de vitesse 
+dans ce cas et dans le cas d’écoulement turbulent. 
+ 
+ 
+ 
+Conditions aux limites 
+𝑣(𝑟= 𝑅) = 0 
+𝑑𝑣
+𝑑𝑟ฬ
+𝑟=0
+= 0 
+ 
+Laminaire 
+ 
+Turbulent 
+ 
+Q13. Définir et exprimer le débit volumique 𝑄 (loi de Poiseuille) en fonction de 𝑣𝑚𝑎𝑥 et R. 
+𝑄= 𝑑𝑉
+𝑑𝑡= ඵ𝑣𝑑𝑠
+𝑆
+= න𝑣𝑚𝑎𝑥ቆ1 −𝑟2
+𝑅2ቇ
+𝑅
+𝑜
+2𝜋𝑟𝑑𝑟= 2𝜋𝑣𝑚𝑎𝑥නቆ1 −𝑟2
+𝑅2ቇ𝑟𝑑𝑟= 𝜋
+2
+𝑅
+𝑜
+𝑣𝑚𝑎𝑥𝑅2 
+ 
+Q14. Le nombre de Re s’exprime en fonction de la vitesse moyenne, 𝑣𝑚𝑜𝑦, du fluide dans la 
+conduite. Exprimer cette vitesse en fonction de 𝑣𝑚𝑎𝑥. 
+ 
+𝑄= 𝑣𝑚𝑜𝑦𝑆  ⇒ 𝑣𝑚𝑜𝑦=
+𝑄
+𝑆=
+𝜋
+2𝑣𝑚𝑎𝑥𝑅2
+𝜋𝑅2
+ ⇒ 𝑣𝑚𝑜𝑦=
+𝑣𝑚𝑎𝑥
+2  
+ 
+Q15. Définir la résistance hydraulique, RH, de la conduite et l’exprimer en fonction de 𝑄 et ∆𝑝. En 
+déduire son expression en fonction de R, L et 𝜂. 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie & Géologie-Session Juin 2025 
+Epreuve de Physique  
+Page 5/14 
+1 
+2 
+3 
+O 
+x1 
+x2 
+x3 
+𝑅𝐻=
+∆𝑃
+𝑄 : C’est la résistance de la conduite à l’écoulement du fluide. 
+𝑄= 𝜋
+2 𝑣𝑚𝑎𝑥𝑅2 = 𝜋
+2
+1
+4 𝜂൬Δ𝑃
+𝐿൰𝑅2𝑅2 = 𝜋
+8
+1
+𝜂൬Δ𝑃
+𝐿൰𝑅4 ⇒𝑅𝐻= Δ𝑃
+𝑄= 8𝜂𝐿
+𝜋𝑅4 = 8𝜂
+𝑅2
+𝐿
+𝑆 
+ 
+Q16. Trouver une analogie avec le phénomène de conduction électrique (préciser les différentes 
+grandeurs d’analogie). 
+Analogie 
+ 
+Hydraulique 
+Electrique 
+Gradient de pression : Δ𝑃 
+ddp : ΔV = U 
+Débit volumique : Q 
+Intensité de courant : I 
+Résistance hydraulique 𝑅𝐻=
+Δ𝑃
+𝑄 
+Résistance électrique : 𝑅𝑒𝑙𝑒𝑐=
+ΔV
+𝐼 
+Tube cylindrique : 𝑅𝐻=
+8𝜂
+𝑅2
+𝐿
+𝑆 
+On peut considérer que 
+8𝜂
+𝑅2 est une résistivité 
+hydraulique. 
+Conducteur cylindrique : 𝑅𝑒𝑙𝑒𝑐= 𝜌
+𝐿
+𝑆 
+avec 𝜌 est la résistivité électrique 
+ 
+Modélisation d’une sténose 
+Q17. Une artère saine étant modélisée par un tube cylindrique de rayon R et de longueur L soumis à 
+∆𝑝. Calculer le débit Q, puis la vitesse moyenne du sang, 𝑣𝑚𝑜𝑦 , dans cette artère. Calculer Re et 
+conclure sur la nature de l’écoulement. 
+On donne R=6 mm, L=8 cm et ∆𝑝= 40 Pa. 
+𝑄= 𝜋
+8𝜂൬Δ𝑝
+𝐿൰𝑅4 =
+𝜋
+8 × 4 .10−3 
+40
+8 .10−2 (6 .10−3)4 = 6,4 . 10−5 𝑚3. 𝑠−1 
+𝑣𝑚𝑜𝑦= 𝑄
+𝑆= 𝑄
+𝜋𝑅2 = 0.56 𝑚. 𝑠−1 
+𝑅𝑒=
+𝜌
+𝜂2𝑅𝑣𝑚𝑜𝑦= 1700 < 2000 => L’écoulement est laminaire. 
+ 
+Une sténose est un rétrécissement de l'artère (et des vaisseaux sanguins), généralement dû à 
+une athérosclérose (accumulation de graisse et calcium dans la paroi). Cette accumulation forme 
+une plaque qui s'épaississe progressivement et affecte la circulation du sang (Figure 2). Une 
+modélisation simple est représentée sur la Figure 3. 
+ 
+Figure 2 
+ 
+ 
+ 
+ 
+ 
+ 
+On donne R=6 mm, Rs=2mm, 2L=7cm, Ls=1cm. 
+Figure 3 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie & Géologie-Session Juin 2025 
+Epreuve de Physique  
+Page 6/14 
+Q18. Le régime étant stationnaire, que peut-on dire des débits volumiques Q1, Q2, Q3 dans les 
+zones ①, ② et ③ et Q dans l’artère. Comparer, en le justifiant, les vitesses moyennes de 
+l’écoulement dans les 3 zones. 
+Q1=Q2= Q3= Q, fluide incompressible en régime stationnaire. 
+𝑄= 𝑣𝑚𝑜𝑦𝑆 : on a 𝑆1 = 𝑆3 ⇒ 𝑣𝑚𝑜𝑦,1 = 𝑣𝑚𝑜𝑦,3 
+tandis que 𝑆2 < 𝑆1 ⇒ 𝑣𝑚𝑜𝑦,2 > 𝑣𝑚𝑜𝑦,1 
+ 
+Q19. Calculer la résistance, 𝑅𝐻,2 de la zone sténosée (zone 2) et la résistance 𝑅𝐻,1 + 𝑅𝐻,3 somme 
+des résistances des zones 1 et 3. 
+𝑅𝐻,2 = 8𝜂
+𝜋
+𝐿𝑠
+𝑅𝑠4 = 6,4 . 106 𝑃𝑎. 𝑠. 𝑚−3 
+𝑅𝐻,1 + 𝑅𝐻,3 = 8𝜂
+𝜋
+2𝐿
+𝑅4 = 5,5 . 105 𝑃𝑎. 𝑠. 𝑚−3 
+ 
+Q20. Exprimer la résistance hydraulique totale, RH, t, en fonction de Q et de ∆𝑝= 𝑝(𝑥= 0) −𝑝(𝑥=
+𝑥3), puis l’exprimer en fonction de 𝑅𝐻,1 , 𝑅𝐻,2 et 𝑅𝐻,3. Calculer RH,t . 
+𝑅𝐻,𝑡= ∆𝑝
+𝑄 
+∆𝑝= [𝑝(0) −𝑝(𝑥1)] + [𝑝(𝑥1) −𝑝(𝑥2)] + [𝑝(𝑥2) −𝑝(𝑥3)] = ∆𝑝1 + ∆𝑝2 + ∆𝑝3 
+∆𝑝
+𝑄=
+∆𝑝1+∆𝑝2+∆𝑝3
+𝑄
+=> 𝑅𝐻,𝑡= 𝑅𝐻,1 + 𝑅𝐻,2 + 𝑅𝐻,3                    A.N. 𝑅𝐻,𝑡= 6,9 . 106 𝑃𝑎. 𝑠. 𝑚−3 
+ 
+Q21. Proposer une analogie électrique avec cette situation. Qu’appelle-t-on le circuit proposé ? En 
+déduire l’expression de la différence de pression, ∆𝑝𝑠= 𝑝(𝑥1) −𝑝(𝑥2), au niveau de la sténose en 
+fonction des résistances hydrauliques des 3 zones RH,1 , RH,sténose=RH,2 , RH,3 et ∆𝑝. 
+ 
+C’est un diviseur de tension. 
+∆𝑝𝑠=
+𝑅𝐻,2
+𝑅𝐻,1 + 𝑅𝐻,2 + 𝑅𝐻,3
+∆𝑝  
+ 
+Q22. En utilisant l’analogie proposée, expliquer l’effet de la sténose sur la circulation sanguine si le 
+système cardio-vasculaire maintient le même gradient de pression Δ𝑝= 𝑝(0) −𝑝(𝑥3) = 40 Pa 
+(valeur sans sténose). 
+𝑈= ∆𝑉= 𝑅𝐼= 𝑐𝑡𝑒 ⇒𝑅↗ , 𝐼↘ 
+∆𝑃= 𝑅𝐻𝑄= 𝑐𝑡𝑒 ⇒𝑅𝐻↗ , 𝑄↘ 
+La sténose à pour effet d’augmenter la résistance hydraulique . Si le système maintient ∆𝑝 
+constant, le débit sanguin va diminuer 
+ 
+Q23. Dans la réalité, le cœur doit assurer les mêmes besoins en oxygène et en nutriments demandés 
+par l’organisme. De ce fait il doit maintenir le même débit volumique du sang circulant dans le 
+système sain. Dire comment ceci affecte le cœur (il est possible d’analyser la situation par analogie 
+avec l’électricité) 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie & Géologie-Session Juin 2025 
+Epreuve de Physique  
+Page 7/14 
+𝑄=
+∆𝑝
+𝑅𝐻= 𝑐𝑡𝑒 ⇒ 𝑅𝐻↗ , ∆𝑝↗ ⇒ le cœur doit augmenter la pression ⇒ fournir plus de 
+puissance ⇒ surcharge. 
+𝐼=
+𝑈
+𝑅= 𝑐𝑡𝑒 ⇒ 𝑅↗ , 𝑈↗ ⇒ le générateur doit avoir une tension plus importante  ⇒ 𝒫= 𝑈𝐼 
+doit augmenter. 
+ 
+Q24. Calculer le nouveau gradient de pression, ∆𝑝′, assurant le débit nécessaire Q. En déduire la 
+chute de pression, ∆𝑝𝑠, dans la zone de sténose. Calculer la vitesse moyenne, 𝑣𝑚𝑜𝑦,𝑠 , 
+correspondante, puis calculer Re dans cette zone. Conclure en se qui concerne le régime 
+d’écoulement qui s’établit. 
+∆𝑝′ = 𝑄𝑅𝐻,𝑡 ;                     A.N. ∆𝑝′ = 6,4 . 10−5 × 6,9 . 106 = 440 𝑃𝑎 
+∆𝑝𝑠=
+𝑅𝐻,2
+𝑅𝐻,𝑡∆𝑝′ ; ;               A.N. ∆𝑝𝑠=
+6,4 .106
+6,9 .106 × 440 = 410 𝑃𝑎 
+𝑣𝑚𝑜𝑦,𝑠=
+1
+8𝜂ቀ
+Δ𝑝𝑠
+𝐿𝑠ቁ𝑅𝑠2 ;        A.N. 𝑣𝑚𝑜𝑦,𝑠= 5.1 𝑚. 𝑠−1  
+𝑅𝑒=
+𝜌
+𝜂2𝑅𝑠𝑣𝑚𝑜𝑦,𝑠 ;             A.N. 𝑅𝑒= 5100 > 3000 => Régime turbulent 
+ 
+Troisième Partie : Mesure de la vitesse par effet Doppler 
+La détection d’une sténose chez un patient passe par une estimation de la vitesse 
+d’écoulement du sang. Une technique de mesure de la vitesse du sang est l’échographie Doppler. Le 
+principe de cette technique repose sur le décalage de fréquence d’une onde reçue/émise par un 
+récepteur/émetteur mobile, ici les hématies (globules rouges). 
+Une sonde à ultrason, jouant le rôle d’émetteur et de récepteur en même temps, est 
+positionnée sur la peau et émet des ultrasons de célérité c et de fréquence f0. L’onde incidente fait 
+un angle θ avec le vaisseau à explorer (Figure 4). Cette onde est reçue par les hématies, circulant à 
+la vitesse v<< c dans les artères, puis réfléchie vers la sonde. La mesure du décalage total de 
+fréquence entre les ondes émises et reçues (par réflexion sur l’hématie) permet d’estimer la vitesse 
+v. 
+ 
+ 
+Figure 4. Principe de la mesure d’une vitesse d’écoulement sanguin par effet Doppler 
+On considère que pendant la période T0 de l'onde ultrasonore ; 
+• L’angle 𝜃∈ቂ0,
+𝜋
+2ቃ, entre le faisceau d'ultrasons et le vecteur vitesse 𝑣⃗, reste constant et 
+par suite seule la composante de vitesse v.cos(θ) contribue à la variation de la distance 
+sonde-hématie. 
+f0 + Δf 
+f0  
+Réception 
+f0 + Δf 
+Emission f0  
+Signal  
+Doppler Δf 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie & Géologie-Session Juin 2025 
+Epreuve de Physique  
+Page 8/14 
+x
+Source fixe 
+fréquence fs 
+Récepteur mobile 
+fréquence fr 
+𝑢𝑢ሬ⃗ 
+Figure 5 
+• La vitesse v reste constante et l’hématie est animée par un mouvement rectiligne 
+uniforme 
+On considère la situation de la Figure 5 : une source fixe à l’origine de l’axe 𝑂𝑥 émet une onde 
+de fréquence fs et de célérité c. Un récepteur mobile à la vitesse algébrique, très inférieur à c et 
+supposée constante, perçoit cette onde à la fréquence fr. Posons 𝑢𝑢ሬ⃗= 𝑢𝑢𝑒𝑥
+ሬሬሬ⃗ : si u>0 le récepteur 
+s’éloigne et si u<0 il se rapproche. 
+Q25. Montrer que la fréquence perçue par le récepteur s’écrit 𝑓𝑟= 𝑓𝑠ቀ1 −
+𝑢
+𝑐ቁ. On rappelle le 
+développement limité de premier ordre (1 + 𝜀)𝛼= 1 + 𝛼𝜀 quant 𝜀→0. 
+ 
+𝑡𝑜= 0 début de l’onde à 
+la source  
+𝑡𝑜
+𝑓= 𝑇𝑜 fin de l’onde à la 
+source  
+reception de début de l’onde 𝑡𝑟
+𝑑=
+𝑥(𝑡𝑜)
+𝑐 
+reception de fin de l’onde 𝑡𝑟
+𝑓= 𝑇𝑜+
+𝑥(𝑇𝑜)
+𝑐 
+ 
+Période de la réception 𝑇𝑟= 𝑡𝑟
+𝑓−𝑡𝑟𝑑= 𝑇𝑜+
+𝑥(𝑇𝑜)
+𝑐
+−
+𝑥(𝑡𝑜)
+𝑐
+= 𝑇𝑜+
+𝑥(𝑇𝑜)−𝑥(𝑡𝑜)
+𝑐
+ 
+𝑥(𝑇𝑜) −𝑥(𝑡𝑜) est la distance parcourue par le récepteur mobile à la vitesse 𝑢𝑢=cte  
+⇒ 𝑥(𝑇𝑜) −𝑥(𝑡𝑜) = 𝑢𝑢(𝑇𝑜−𝑡𝑜) = 𝑢𝑢𝑇𝑜 
+⇒𝑇𝑟= 𝑇𝑜ቀ1 +
+𝑢
+𝑐ቁ ⇒𝑓𝑟=
+1
+𝑇𝑜ቀ1+𝑢
+𝑐ቁ= 𝑓𝑜ቀ1 +
+𝑢
+𝑐ቁ
+−1
+= 𝑓𝑜ቀ1 −
+𝑢
+𝑐ቁ pour 𝑢𝑢≪𝑐 
+ 
+Q26. En déduire l’expression de la fréquence, 𝑓1, perçue par l’hématie et l’expression de la 
+fréquence, 𝑓2, de l’onde reçue par la sonde en provenance de l’hématie en fonction de, 𝑓1. Montrer 
+alors que : 
+𝑓2 = 𝑓0 ቀ1 −
+2𝑣 𝑐𝑜𝑠(𝜃)
+𝑐
+ቁ. 
+𝑣< 0, rapprochement ; 𝑣> 0, éloignement  
+Seule la composante 𝑣 𝑐𝑜𝑠(𝜃) affecte la distance source-récepteur ⇒ 𝑢𝑢≡𝑣 𝑐𝑜𝑠(𝜃) 
+⇒𝑓1 = 𝑓𝑜ቀ1 −
+𝑣 𝑐𝑜𝑠(𝜃)
+𝑐
+ቁ  (1) 
+L’hématie (source) se rapproche de la sonde (récepteur) ⇒𝑓2 = 𝑓1 ቀ1 −
+𝑣 𝑐𝑜𝑠(𝜃)
+𝑐
+ቁ  (2) 
+Relations (1) et (2) ⇒𝑓2 = 𝑓𝑜ቀ1 −
+𝑣 𝑐𝑜𝑠(𝜃)
+𝑐
+ቁቀ1 −
+𝑣 𝑐𝑜𝑠(𝜃)
+𝑐
+ቁ= 𝑓𝑜ቀ1 −
+𝑣 𝑐𝑜𝑠(𝜃)
+𝑐
+ቁ
+2
+ 
+Avec 
+𝑣
+𝑐≪1 ⇒𝑓2 = 𝑓𝑜ቀ1 −2
+𝑣 𝑐𝑜𝑠(𝜃)
+𝑐
+ቁ 
+ 
+Q27. Discuter le signe du décalage Doppler ∆𝑓= 𝑓2 −𝑓0 suivant que l’hématie s’éloigne ou se 
+rapproche de la sonde. 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie & Géologie-Session Juin 2025 
+Epreuve de Physique  
+Page 9/14 
+∆𝑓= 𝑓2 −𝑓0 = −2𝑓0
+𝑣 𝑐𝑜𝑠(𝜃)
+𝑐
+ 
+- 
+Se rapproche 𝑣< 0 ⇒ ∆𝑓> 0 ⇒ 𝑓2 > 𝑓0 
+- 
+S’éloigne 𝑣> 0 ⇒ ∆𝑓< 0 ⇒ 𝑓2 < 𝑓0 
+ 
+Q28. Calculer ∆𝑓 dans l’artère saine et dans la zone de sténose dans le cas d’un rapprochement à la 
+sonde. Commenter. 
+On donne c = 1,5 km.s-1 ; f0 = 4 MHz ; 𝜃= 20°. 
+Saine :  ∆𝑓= +2𝑓0
+𝑣𝑚𝑜𝑦 𝑐𝑜𝑠(𝜃)
+𝑐
+                                               A.N. ∆𝑓=3 kHz 
+Sténose : ∆𝑓𝑠= +2𝑓0
+𝑣𝑚𝑜𝑦,𝑠 𝑐𝑜𝑠(𝜃)
+𝑐
+                                            A.N. ∆𝑓𝑠= 25 𝑘𝐻𝑧 
+ 
+Q29. L’analyse spectrale des fréquences Doppler peut conduire à différents types de signaux : 
+aucun signal, un spectre fréquentiel très large, un spectre étroit. Décrire la situation de santé du 
+patient dans chaque cas. 
+- 
+Aucun signal ⇒ ∆𝑓= 0 ⇒ 𝑓2 = 𝑓0 ⇒ vitesse du sang est nulle ⇒ personne morte. 
+- 
+∆𝑓= large ⇒ large intervalle de 𝑓2 ⇒ large intervalle de 𝑣 ⇒ beaucoup d’irrégularité 
+dans la section de l’artère ⇒ zones sténosées. 
+- 
+∆𝑓= étroit ⇒ vitesse presque constante ⇒ personne saine. 
+-
+Quatrième Partie : Filtrage 
+En pratique le récepteur du scanner Doppler reçoit un signal composé de différentes 
+fréquences ; en particulier la fréquence f0 réfléchie sur les organes immobiles. Pour filtrer le signal 
+et ne garder que la composante liée à la vitesse de l’hématie on utilise un filtre passif. Le 
+diagramme de Bode en gain de ce filtre est présenté sur la Figure 6. 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie & Géologie-Session Juin 2025 
+Epreuve de Physique  
+Page 10/14 
+ 
+Q30. En déduire la nature du filtre correspondant. Donner les valeurs asymptotiques du Gdb et la 
+valeur du gain maximal. 
+Filtre passe-bas 
+Asymptotes : 𝜔= 0 ⇒𝐺𝑑𝐵= 0 et 𝜔→∞ ⇒𝐺𝑑𝐵= −∞  
+Gmax=0 dB 
+ 
+Q31. Tracer sur la Figure 6 le digramme asymptotique. Déterminer l’ordre du filtre, les valeurs des 
+fréquences propre, f0, et de coupure à 𝐺𝑑𝐵
+𝑚𝑎𝑥−3𝑑𝐵, fc. Donner la bande passante. 
+Pente de l’asymptote oblique : ∆=
+𝐺𝑑𝐵
+2 −𝐺𝑑𝐵
+1
+𝑓2−𝑓1 =-23 dB/décade => premier ordre 
+𝑓𝑜= 25 ÷ 26 𝑘𝐻𝑧    ;  𝑓c = 𝑓o  
+Bande passante : [0, 𝜔c] 
+ 
+Q32. Proposer un circuit électrique dont le gain correspond à celui de la Figure 6 et donner 
+l’expression de la fonction du transfert complexe 𝐻(𝑗𝜔) correspondante. 
+Filtre RC sortie sur C ou filtre RL sortie sur R. 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie & Géologie-Session Juin 2025 
+Epreuve de Physique  
+Page 11/14 
+𝐻(𝑗𝜔) =
+1
+1+ 𝜔
+𝜔o𝑗 avec 𝜔o = 𝑅𝐶 ou 𝜔o =
+𝑅
+𝐿 
+Q33. Quelle est l’utilité de ce filtre dans l’application actuelle (se rapporter à la question Q28). 
+Le décalage Doppler ∆𝑓 est de faibles fréquences ; le filtre permet d’élliminer les signaux bruits 
+(parasites) de grandes fréquences. 
+ 
+Cinquième Partie : Ondes acoustiques et échographie 
+Lors de l'échographie, plusieurs problèmes d’ordre technique peuvent être rencontrés. Parmi 
+eux, la difficulté de propagation de l’onde ultrasonore à travers des couches de propriétés sonores 
+très différentes. On se propose dans cette partie d'étudier l’origine du problème et la possibilité d’y 
+remédier. 
+Propagation d’ondes acoustiques 
+On considère un fluide parfait au repos macroscopique, caractérisé par une pression P0 et une 
+masse volumique ρ0, tous deux uniformes. Le passage d'une onde sonore dans ce fluide perturbe cet 
+état d’équilibre. Ainsi, les champs locaux de pression, de masse volumique et de vitesse deviennent 
+en un point M du fluide et à chaque instant (pour un problème unidirectionnel suivant Ox), 
+𝑃(𝑥, 𝑡) = 𝑃0 + 𝑝(𝑥, 𝑡)
+𝜌(𝑥, 𝑡) = 𝜌0 + 𝜇(𝑥, 𝑡)
+𝑣⃗(𝑥, 𝑡) = 𝑣(𝑥, 𝑡)𝑒𝑥
+ሬሬሬ⃗
+ 
+ 
+avec 
+ 
+𝑝(𝑥, 𝑡) ≪ 𝑃0
+𝜇(𝑥, 𝑡) ≪𝜌0
+𝑣(𝑥, 𝑡) ≪𝑐    
+ 
+où p(x,t), μ(x,t) et v(x,t) sont, respectivement, la surpression, la masse volumique et la vitesse 
+acoustiques, causés par le passage de l’onde. c est la célérité de l’onde dans le fluide considéré. 
+Dans toute cette partie, on considère la propagation d’une onde plane progressive harmonique 
+(OPPH) dans le cadre de l’approximation de l’acoustique linéaire. 
+Q34. Bien que l’OPPH soit une onde idéale, purement hypothétique, elle est d’un grand intérêt pour 
+la physique des ondes. Donner l’expression d’une OPPH de surpression en notations réelle et 
+complexe (définir chaque terme). Donner son utilité. Citer un exemple d’exploitation de cette onde. 
+ 
+ 
+ 
+En notation réelle : 𝑝(𝑥, 𝑡) = 𝑃𝑚𝑐𝑜𝑠(𝜔(𝑡± 𝜏) + 𝜑𝑜) = 𝑃𝑚𝑐𝑜𝑠(𝜔𝑡± 𝑘𝑥+ 𝜑𝑜) 
+En notation complexe : 𝑝(𝑥, 𝑡) = 𝑃𝑚𝑒𝑥𝑝𝑗(𝜔𝑡± 𝑘𝑥) 
+𝑃𝑚 : amplitude de l’onde ; 𝑃𝑚= 𝑒𝑗𝜑0 : amplitude complexe ; 𝜑𝑜 : phase initiale ; 𝜏 : retard 
+temporel entre l’origine et le point M(x) ; 𝑘=
+𝜔
+𝑐 : module du vecteur d’onde. 
+Utilité : toute onde de n’importe quelle forme peut être décomposée en une série de OPPH 
+(série de Fourier) moyennant un nombre suffisant de terme. 
+Exemple : analyse spectrale d’un son / d’une lumière par réseau de diffraction. 
+ 
+L'impédance acoustique complexe d'un milieu est définie par le rapport Z = p(x,t)/v(x,t). 
+Pour une OPPH elle peut se réduire à 𝑍=
+𝑝
+𝑣=
+𝑃𝑚
+𝑉𝑚=
+𝑃𝑚
+𝑉𝑚. On montre la relation liant la surpression 
+acoustique à la vitesse ‘acoustique’ dues au passage de l’onde sonore : 
+𝜕𝑣(𝑥,𝑡)
+𝜕𝑡
+= −
+1
+𝜌0
+𝜕𝑝(𝑥,𝑡)
+𝜕𝑥 
+(équation d’Euler linéarisée). 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie & Géologie-Session Juin 2025 
+Epreuve de Physique  
+Page 12/14 
+Q35. Définir la notion d’impédance en physique. Pour une OPPH, l’impédance acoustique est 
+purement réelle. Montrer qu’elle est égale à 𝑍= ±𝜌0𝑐, selon que la propagation se fait dans le sens 
+des x croissants ou décroissants. 
+C’est la résistance/opposition d’un milieu au passage d’une grandeur physique donnée. 
+𝜕𝑝(𝑥, 𝑡)
+𝜕𝑥
+= ±𝑗𝑘𝑝(𝑥, 𝑡) 
+𝑣= න± 𝑗𝑘
+𝜌0
+𝑝(𝑥, 𝑡)𝑑𝑡⇒𝑣= ± 𝑗𝑘
+𝜌0
+𝑝(𝑥, 𝑡) 1
+𝑗𝜔 
+𝑍=
+𝑝
+𝑣=
+1
+±
+𝑗𝐾
+𝜌0
+1
+𝑗𝜔
+= ±𝜌0𝑐 
+ 
+Réflexion et transmission des ondes acoustiques 
+On 
+considère 
+deux 
+milieux 
+non 
+dissipatifs 
+d’impédances acoustiques 𝑍1 = 𝜌01𝑐1 et 𝑍2 = 𝜌02𝑐2, 
+initialement au repos. La pression initiale est P0 uniforme 
+dans les deux milieux. Une OPPH incidente se propage dans 
+le domaine x<0 dans le sens des x croissants (Figure 7). Au 
+niveau d’un dioptre acoustique imperméable, fixe en x = 0, 
+cette onde subit une transmission dans le domaine x> 0 et une réflexion dans le domaine x<0. 
+{𝑝𝑖(𝑥, 𝑡), 𝑣𝑖 (𝑥, 𝑡)}, {𝑝𝑡(𝑥, 𝑡), 𝑣𝑡 (𝑥, 𝑡)} et {𝑝𝑟(𝑥, 𝑡), 𝑣𝑟(𝑥, 𝑡)} sont les champs de pressions et de 
+vitesses acoustiques associés à ces 3 ondes.  
+Q36. Exprimer les pressions et les vitesses acoustiques dans les milieux 1 et 2, {𝑝1(𝑥, 𝑡), 𝑣1 (𝑥, 𝑡)} 
+et {𝑝2(𝑥, 𝑡), 𝑣2 (𝑥, 𝑡)}, en fonction des pressions et des vitesses incidentes, transmises et réfléchies. 
+൜𝑝1(𝑥, 𝑡) = 𝑝𝑖(𝑥, 𝑡) + 𝑝𝑟(𝑥, 𝑡) 
+𝑝2(𝑥, 𝑡) = 𝑝𝑡(𝑥, 𝑡)                                           et                        ൜𝑣1(𝑥, 𝑡) = 𝑣𝑖(𝑥, 𝑡) + 𝑣𝑟(𝑥, 𝑡) 
+𝑣2(𝑥, 𝑡) = 𝑣𝑡(𝑥, 𝑡)                    
+ 
+Q37. Donner, en le justifiant, les conditions aux limites relatives à la vitesse et à la pression au 
+niveau du dioptre en x=0. En déduire les équations qui en résultent. 
+ 
+ 
+ 
+𝑝1(𝑥= 0, 𝑡) = 𝑝2(𝑥= 0, 𝑡) : le dioptre est fixe ⇒ les forces de pression de part et d’autre 
+sont directement opposées et par suite les pressions de part et d’autre le sont aussi. 
+𝑣1(𝑥, 𝑡) = 𝑣2(𝑥, 𝑡) : continuité du débit volumique (𝑣1𝑠
+= 𝑣2𝑠). 
+൜𝑝𝑖(0, 𝑡) + 𝑝𝑟(0, 𝑡) = 𝑝𝑡(0, 𝑡) 
+𝑣𝑖(0, 𝑡) + 𝑣𝑟(0, 𝑡) = 𝑣𝑡(0, 𝑡)    
+ 
+Au niveau du dioptre acoustique, on définit les coefficients de réflexion, rp, et de 
+transmission, tp, en amplitude de pression par : 𝑟𝑝=
+𝑝𝑟(0,𝑡)
+𝑝𝑖(0,𝑡) =
+𝑃𝑟𝑚
+𝑃𝑖𝑚 et 𝑡𝑝=
+𝑝𝑡(0,𝑡)
+𝑝𝑖(0,𝑡) =
+𝑃𝑡𝑚
+𝑃𝑖𝑚 , où Pim, Prm 
+et Ptm sont les amplitudes des ondes incidente, réfléchie et transmise. 
+ 
+Q38. Exprimer rp et tp en fonction de Z1 et Z2. 
+ 
+Figure 7 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie & Géologie-Session Juin 2025 
+Epreuve de Physique  
+Page 13/14 
+൝
+𝑝𝑖(0, 𝑡) + 𝑝𝑟(0, 𝑡) = 𝑝𝑡(0, 𝑡)
+ 
+𝑣𝑖(0, 𝑡) + 𝑣𝑟(0, 𝑡) = 𝑣𝑡(0, 𝑡)  
+⇒      
+⎩⎪⎨
+⎪⎧𝑝𝑖(0, 𝑡) + 𝑝𝑟(0, 𝑡) = 𝑝𝑡(0, 𝑡)     (1)
+ 
+  
+𝑝𝑖(0, 𝑡)
+𝑍1
+−𝑝𝑟(0, 𝑡)
+𝑍1
+= 𝑝𝑡(0, 𝑡)
+𝑍2
+    (2)
+ 
+ 
+(1) + 𝑍1(2) ⇒2𝑝𝑖= 𝑝𝑡൬1 + 𝑍1
+𝑍2
+൰  ⇒ 𝑡𝑝= 𝑝𝑡(0, 𝑡)
+𝑝𝑖(0, 𝑡) =
+2𝑍2
+𝑍1 + 𝑍2
+ 
+(1) −𝑍2(2) ⇒𝑝𝑖൬1 + 𝑍2
+𝑍1
+൰+ 𝑝𝑟൬1 + 𝑍2
+𝑍1
+൰= 0 ⇒ 𝑟𝑝= 𝑝𝑟(0, 𝑡)
+𝑝𝑖(0, 𝑡) = 𝑍2 −𝑍1
+𝑍1 + 𝑍2
+ 
+ 
+Au niveau de dioptre acoustique on définit, aussi, les coefficients de réflexion, R, et de 
+transmission, T, de l'énergie acoustique de l'onde incidente :𝑅= ቚ
+〈𝜋𝑟(0,𝑡)〉
+〈𝜋𝑖(0,𝑡)〉ቚ et 𝑇= ቚ
+〈𝜋𝑡(0,𝑡)〉
+〈𝜋𝑖(0,𝑡)〉ቚ où 〈… 〉 
+désigne la moyenne sur le temps. On rappelle l’expression de la puissance surfacique acoustique 
+π(x,t)=p(x,t)*v(x,t). 
+Q39. Exprimer <π(x,t)> en fonction de Pm et Z dans le cas d’une OPPH puis en déduire que R et T 
+peuvent s’écrire, en termes de modules de pression, comme : 
+𝑅= ቀ
+𝑃𝑟𝑚
+𝑃𝑖𝑚ቁ
+2
+ 
+ 
+et 
+ 
+𝑇=
+𝑍1
+𝑍2 ቀ
+𝑃𝑡𝑚
+𝑃𝑖𝑚ቁ
+2
+ 
+𝜋(𝑥, 𝑡) = 𝑝(𝑥, 𝑡). 𝑣(𝑥, 𝑡) = 𝑝(𝑥, 𝑡). 𝑝(𝑥, 𝑡)
+𝑍
+= 𝑝2(𝑥, 𝑡)
+𝑍
+= 1
+𝑍𝑃𝑚2𝑐𝑜𝑠2(𝜔𝑡± 𝐾𝑥+ 𝜑𝑜) 
+〈𝜋(𝑥, 𝑡)〉= 1
+𝑍𝑃𝑚2〈𝑐𝑜𝑠2(𝜔𝑡± 𝐾𝑥+ 𝜑𝑜)〉= 1
+2𝑍𝑃𝑚2 
+𝑅= ቤ
+−1
+2𝑍1𝑃𝑟𝑚
+2
+1
+2𝑍1𝑃𝑖𝑚
+2 ቤ= ቀ
+𝑃𝑟𝑚
+𝑃𝑖𝑚ቁ
+2
+     ;      𝑇= ቤ
+1
+2𝑍2𝑃𝑡𝑚
+2
+1
+2𝑍1𝑃𝑖𝑚
+2 ቤ=
+𝑍1
+𝑍2 ቀ
+𝑃𝑡𝑚
+𝑃𝑖𝑚ቁ
+2
+ 
+ 
+Q40. Montrer que 𝑅= ቀ
+𝑍2−𝑍1
+𝑍1+𝑍2ቁ
+2
+et 𝑇=
+4 𝑍1𝑍2
+(𝑍1+𝑍2)2. Calculer la somme R+T. Quel principe physique 
+traduit le résultat trouvé. 
+ 
+𝑅= ൬𝑃𝑚𝑟
+𝑃𝑚𝑖
+൰
+2
+= ൫𝑟𝑝൯
+2 = ൬𝑍2 −𝑍1
+𝑍1 + 𝑍2
+൰
+2
+ 
+𝑇= 𝑍1
+𝑍2
+൬𝑃𝑚𝑡
+𝑃𝑚𝑖
+൰
+2
+= 𝑍1
+𝑍2
+൫𝑡𝑝൯
+2 = 𝑍1
+𝑍2
+൬
+2𝑍2
+𝑍1 + 𝑍2
+൰
+2
+=
+4𝑍1𝑍2
+(𝑍1 + 𝑍2)2 
+𝑅+ 𝑇= ൬𝑍2 −𝑍1
+𝑍1 + 𝑍2
+൰
+2
++
+4𝑍1𝑍2
+(𝑍1 + 𝑍2)2 = 1 
+Conservation de l’énergie dans un milieu non dissipatif. 
+ 
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Biologie & Géologie-Session Juin 2025 
+Epreuve de Physique  
+Page 14/14 
+Q41. Discuter les cas 𝑍1 >> 𝑍2,   𝑍1 << 𝑍2 et  𝑍1 = 𝑍2. Commenter. 
+ 
+ 
+- 
+𝑍1 >> 𝑍2 
+𝑅= ൬𝑍2 −𝑍1
+𝑍1 + 𝑍2
+൰
+2
+~ ൬−𝑍1
+𝑍1
+൰
+2
+= 1 
+𝑇=
+4𝑍1𝑍2
+(𝑍1 + 𝑍2)2 ~ 4𝑍1𝑍2
+(𝑍1)2 →0 
+ 
+- 
+𝑍1 << 𝑍2 
+𝑅= ൬𝑍2 −𝑍1
+𝑍1 + 𝑍2
+൰
+2
+~ ൬𝑍2
+𝑍2
+൰
+2
+= 1 
+𝑇=
+4𝑍1𝑍2
+(𝑍1 + 𝑍2)2 ~ 4𝑍1𝑍2
+(𝑍2)2
+→0 
+ 
+- 
+𝑍1 = 𝑍2 
+𝑅= 0 
+𝑇=
+4𝑍1𝑍2
+(𝑍1 + 𝑍2)2 = 4𝑍1
+2
+(𝑍1)2 = 1 
+ 
+ 
+𝑍1 >> 𝑍2   ,    𝑍1 << 𝑍2 : réflexion totale. 
+𝑍1 = 𝑍2 : transmission totale, cad, les interfaces ne transmettent les ondes que si les 
+impédances des milieux adjacents sont voisines. 
+ 
+ 
+Q42. On donne Zair = 400 kg.m-2.s-1 et Zpeau= 1.62. 106kg.m-2.s-1. Quel problème pratique peut être 
+rencontré lors de l’utilisation médicale de l’échographie ? proposer une solution. 
+𝑍𝑎𝑖𝑟≪𝑍𝑝𝑒𝑎𝑢 : reflexion totale ⇒ les ondes ne peuvent pas pénéter le corps ⇒ pas d’imageries 
+échographiques. Pour résoudre ce problème, il faut appliquer, entre la sonde et la peau, un gel 
+d’impédane acoustique voisine de celle de la peau. 
+ 
+Fin de l’Épreuve 
+BIB-IPEIS
+BIB-IPEIS

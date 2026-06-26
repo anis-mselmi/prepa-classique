@@ -1,0 +1,2245 @@
+Concours Mathématiques et Physique
+Épreuve de Mathématiques I
+Session 2025
+Date : 27/05/2025
+Durée : 4 heures
+L’usage de la calculatrice et tout autre dispositif électronique est interdit.
+Donnez vos réponses aux questions dans les espaces prévus sur les feuilles de réponses. Si vous avez besoin de plus d’espace
+pour une réponse, vous pouvez utiliser l’espace supplémentaire disponible à la ﬁn des feuilles de réponses en précisant le
+numéro de la question et en indiquant dans l’espace réponse que la réponse se poursuit sur l’espace supplémentaire.
+Exercice :
+On considère une variable aléatoire discrète X à valeurs dans N déﬁnie sur un espace probabilisé (Ω, A, P).
+On note IX l’ensemble des réels t tels que l’espérance E(etX) =
++∞
+∑
+k=0
+etkP(X = k), de la variable aléatoire etX,
+soit ﬁnie. Pour t ∈IX, on pose
+LX(t) = E(etX).
+Q.1 ▷Dans cette question, on considère une variable aléatoire de Bernoulli B(p) de paramètre p ∈[0, 1].
+Justiﬁer que IB(p) = R et calculer LB(p)(t), pour tout t ∈R.
+Q.2 ▷Dans cette question, on considère une variable aléatoire de Poisson P(λ) de paramètre λ ∈R∗
++.
+Prouver que IP(λ) = R et calculer LP(λ)(t), pour tout t ∈R.
+Q.3 ▷Montrer que 0 ∈IX et que si t0 ∈IX, alors ] −∞, t0] ⊂IX, puis en déduire que IX est un intervalle
+non minoré de R.
+On suppose dans la suite de l’exercice que IX = R.
+Q.4 ▷Montrer que pour tout a ≥0, P(X ≥a) ≤inf
+t>0 e−atLX(t).
+Q.5 ▷Prouver que pour tout n ∈N, la variable Xn est d’espérance ﬁnie.
+Q.6 ▷Montrer que l’application LX : t ∈R 7−→LX(t) est développable en série entière au voisinage de 0
+et que pour tout t ∈R,
+LX(t) =
++∞
+∑
+n=0
+E(Xn)
+n!
+tn.
+BIB-IPEIS
+BIB-IPEIS
+
+On considère une variable aléatoire discrète Y à valeurs dans N déﬁnie sur l’espace probabilisé (Ω, A, P)
+telle que IY = R et pour tout réel t, on a : LY(t) = LX(t).
+Q.7 ▷Prouver que pour tout n ∈N, E(Xn) = E(Yn).
+Q.8 ▷Montrer que pour tout t ∈R, les deux séries ∑
+k≥0
+eiktP(X = k) et ∑
+k≥0
+eiktP(Y = k) convergent et que
++∞
+∑
+k=0
+eiktP(X = k) =
++∞
+∑
+k=0
+eiktP(Y = k).
+Q.9 ▷Prouver que l’application ψ : t 7−→
++∞
+∑
+k=0
+eiktP(X = k) est continue sur R.
+Q.10 ▷Montrer que pour tout n ∈N, P(X = n) = 1
+2π
+Z 2π
+0
+e−intψ(t) dt.
+Q.11 ▷En déduire que X et Y suivent la même loi.
+Q.12 ▷Dans cette question, on suppose de plus que les deux variables X et Y sont indépendantes. Montrer
+que IX+Y = R et que pour tout t ∈R,
+LX+Y(t) = LX(t)LY(t).
+Q.13 ▷Dans cette question, on suppose que X suit une loi de Poisson de paramètre λ1 > 0, Y suit une loi
+de Poisson de paramètre λ2 > 0 et que X et Y sont indépendantes. Déterminer la loi de la variable
+aléatoire X + Y.
+Problème :
+Le but des parties I. et II. de ce problème est de montrer que pour une application continue quelconque
+f : [0, +∞[−→C, on a l’équivalence suivante :
+Z +∞
+0
+f (t) dt converge ⇐⇒
+
+
+
+
+
+
+
+
+
+
+
+
+
+lim
+x→+∞
+1
+x
+Z x
+0 t f (t) dt = 0,
+Pour tout a > 0, l’intégrale
+Z +∞
+0
+e−at f (t) dt est convergente,
+lim
+a→0+
+Z +∞
+0
+e−at f (t) dt existe dans C.
+De plus, dans ce cas, lim
+a→0+
+Z +∞
+0
+e−at f (t) dt =
+Z +∞
+0
+f (t) dt.
+La partie III. du problème est indépendante des autres parties.
+Partie I.
+Dans toute cette partie, on considère une application continue f : [0, +∞[−→C telle que
+Z +∞
+0
+f (t) dt converge.
+On note I =
+Z +∞
+0
+f (t) dt. Pour x ≥0, on pose F(x) =
+Z x
+0 f (t) dt.
+Page 2 sur 6
+BIB-IPEIS
+BIB-IPEIS
+
+Q.14 ▷Montrer que l’application F admet une limite ﬁnie en +∞et qu’elle est bornée sur [0, +∞[.
+Q.15 ▷En déduire que pour tout a > 0, l’application t 7−→e−atF(t) est intégrable sur [0, +∞[.
+Q.16 ▷Soit a > 0. Prouver que l’intégrale
+Z +∞
+0
+e−at f (t) dt est convergente et que
+Z +∞
+0
+e−at f (t) dt = a
+Z +∞
+0
+e−atF(t) dt.
+On considère l’application L : a ∈[0, +∞[7−→L(a) =
+Z +∞
+0
+e−at f (t) dt.
+Q.17 ▷Montrer que L est de classe C∞sur ]0, +∞[ et que pour tout n ∈N∗et tout a > 0,
+L(n)(a) = a
+Z +∞
+0
+(−t)ne−atF(t) dt + n
+Z +∞
+0
+(−t)n−1e−atF(t) dt.
+Q.18 ▷Justiﬁer que pour tout a > 0,
+L(a) =
+Z +∞
+0
+e−uF
+u
+a
+
+du,
+puis en déduire que L admet une limite ﬁnie à droite de 0 et que
+lim
+a→0+ L(a) = I.
+Q.19 ▷Prouver que lim
+a→+∞L(a) = 0.
+Pour x ≥0, on pose G(x) =
+Z +∞
+x
+f (t) dt.
+Q.20 ▷Justiﬁer que l’application G: x 7→G(x) est bien déﬁnie et dérivable sur [0, +∞[ et que lim
+x→+∞G(x)=0.
+Q.21 ▷En déduire que pour tout ε > 0, il existe A > 0 tel que pour tout x > A,
+
+1
+x
+Z x
+0 G(t) dt
+ ≤ε.
+Q.22 ▷Soit x > 0. Prouver que 1
+x
+Z x
+0 t f (t) dt = −G(x) + 1
+x
+Z x
+0 G(t) dt.
+Q.23 ▷En déduire que
+Z x
+0 t f (t) dt
+=
+x→+∞o(x).
+On considère dans la suite, l’application
+ϕ : [0, +∞[
+−→
+R
+t
+7−→
+ϕ(t) =
+
+
+
+sin t
+t
+si t > 0,
+1
+si t = 0.
+Q.24 ▷Justiﬁer la convergence de
+Z +∞
+0
+sin t
+t
+dt.
+Pour a ≥0, on pose Lϕ(a) =
+Z +∞
+0
+e−atϕ(t) dt.
+Page 3 sur 6
+BIB-IPEIS
+BIB-IPEIS
+
+Q.25 ▷Montrer que Lϕ est dérivable sur ]0, +∞[ et que pour tout a > 0, L′
+ϕ(a) = −
+1
+1 + a2 .
+Q.26 ▷En déduire la valeur de
+Z +∞
+0
+sin t
+t
+dt.
+Partie II.
+Dans toute cette partie, on considère une application continue f : [0, +∞[−→C telle que
+
+
+
+
+
+
+
+
+
+
+
+
+
+lim
+x→+∞
+1
+x
+Z x
+0 t f (t) dt = 0,
+Pour tout a > 0, l’intégrale
+Z +∞
+0
+e−at f (t) dt est convergente,
+lim
+a→0+
+Z +∞
+0
+e−at f (t) dt existe dans C.
+On déﬁnit l’application
+g : [0, +∞[
+−→
+C
+x
+7−→
+g(x) =
+
+
+
+
+
+1
+x2
+Z x
+0 t f (t) dt
+si x > 0,
+1
+2 f (0)
+si x = 0.
+Q.27 ▷Montrer que g est continue sur [0, +∞[.
+Q.28 ▷Justiﬁer que g(x)
+=
+x→+∞o
+1
+x
+
+et en déduire que les intégrales
+Z +∞
+0
+e−atg(t) dt et
+Z +∞
+0
+te−atg(t) dt
+convergent, pour tout a > 0.
+Q.29 ▷Soit a > 0. Montrer que pour tout x > 0,
+Z x
+0 e−at f (t) dt = xg(x)e−ax +
+Z x
+0 e−atg(t) dt + a
+Z x
+0 te−atg(t) dt,
+et en déduire que
+Z +∞
+0
+e−at f (t) dt =
+Z +∞
+0
+e−atg(t) dt + a
+Z +∞
+0
+te−atg(t) dt.
+Q.30 ▷Prouver que lim
+a→0+ a
+Z +∞
+0
+te−atg(t) dt = 0 et en déduire que lim
+a→0+
+Z +∞
+0
+e−atg(t) dt existe et vaut
+lim
+a→0+
+Z +∞
+0
+e−at f (t) dt.
+Q.31 ▷Montrer que lim
+x→+∞
+1
+x
+Z x
+0 t|g(t)| dt = 0.
+Q.32 ▷Justiﬁer que pour tout t ∈R, 1 + t ≤et.
+Q.33 ▷Montrer que lim
+x→+∞
+Z x
+0 g(t) dt −
+Z x
+0 e−t
+x g(t) dt
+
+= 0.
+Q.34 ▷Justiﬁer la convergence des intégrales
+Z +∞
+x
+e−t
+x g(t) dt et
+Z +∞
+x
+e−t
+x
+t
+dt, pour tout x > 0 et montrer que
+Z +∞
+x
+e−t
+x g(t) dt
+=
+x→+∞o
+ Z +∞
+x
+e−t
+x
+t
+dt
+!
+.
+Page 4 sur 6
+BIB-IPEIS
+BIB-IPEIS
+
+Q.35 ▷En déduire que lim
+x→+∞
+Z +∞
+x
+e−t
+x g(t) dt = 0.
+Q.36 ▷Prouver que l’intégrale
+Z +∞
+0
+g(t) dt converge et que
+Z +∞
+0
+g(t) dt = lim
+a→0+
+Z +∞
+0
+e−atg(t) dt.
+Q.37 ▷Montrer que pour tout x > 0,
+Z x
+0 f (t) dt = xg(x) +
+Z x
+0 g(t) dt et en déduire que
+Z +∞
+0
+f (t) dt converge
+et que
+Z +∞
+0
+f (t) dt = lim
+a→0+
+Z +∞
+0
+e−at f (t) dt.
+On considère l’application
+φ : [0, +∞[
+−→
+R
+t
+7−→
+φ(t) =
+
+
+
+t
+et −1 −sin t
+si t > 0,
+1
+si t = 0.
+Q.38 ▷Justiﬁer que φ est continue sur [0, +∞[.
+Q.39 ▷Soit a > 0. Prouver que
+Z +∞
+0
+e−atφ(t) dt converge et que
+Z +∞
+0
+e−atφ(t) dt = −
+1
+1 + a2 +
++∞
+∑
+n=1
+1
+(n + a)2 .
+(On pourra utiliser un développement en série entière).
+Q.40 ▷Montrer que lim
+a→0+
+Z +∞
+0
+e−atφ(t) dt existe dans R, mais que l’intégrale
+Z +∞
+0
+φ(t) dt diverge.
+Partie III.
+Soit C = C([0, 1], R) le R-espace vectoriel des fonctions continues sur [0, 1] à valeurs réelles.
+On rappelle que l’application ∥· ∥∞: f 7−→∥f ∥∞= sup
+x∈[0,1]
+| f (x)| est une norme sur C.
+Q.41 ▷On pose pour tout n ∈N∗et tout x ∈[0, 1], fn(x) = xn −x2n.
+Vériﬁer que pour tout n ∈N∗, fn ∈B =
+
+h ∈C ; ∥h∥∞≤1
+4
+	
+.
+Q.42 ▷Justiﬁer que la suite de fonctions ( fn)n∈N∗converge simplement sur [0, 1] vers la fonction nulle.
+Q.43 ▷Montrer que ( fn)n∈N∗n’admet aucune sous-suite convergente dans (C, ∥· ∥∞) et en déduire que B
+n’est pas un compact de (C, ∥· ∥∞).
+Q.44 ▷Soient f ∈C et x > 0. Prouver que la série ∑
+n≥0
+e−nx f (e−nx) converge.
+On note L( f )(x) =
++∞
+∑
+n=0
+e−nx f (e−nx).
+Q.45 ▷Montrer que l’ensemble E =
+
+f ∈C,
+lim
+x→0+ xL( f )(x) existe dans R
+	
+est un sous-espace vectoriel
+fermé de (C, ∥· ∥∞).
+Page 5 sur 6
+BIB-IPEIS
+BIB-IPEIS
+
+Pour f ∈E, on pose
+T( f ) = lim
+x→0+ xL( f )(x).
+Q.46 ▷Prouver que l’application T : f ∈E 7−→T( f ) est une forme linéaire continue sur (E, ∥· ∥∞).
+Q.47 ▷Montrer que pour tout k ∈N, l’application mk : t ∈[0, 1] 7−→tk appartient à E et que
+T(mk) =
+Z 1
+0 mk(t) dt.
+Q.48 ▷En déduire que E = C et que pour tout f ∈C,
+lim
+x→0+ x
++∞
+∑
+n=0
+e−nx f (e−nx) =
+Z 1
+0 f (t) dt.
+⋆Fin de l’épreuve ⋆
+Page 6 sur 6
+BIB-IPEIS
+BIB-IPEIS
+
+Concours Mathématiques et Physique
+Corrigé de l’Épreuve de Mathématiques I
+Session 2025
+Date : 27/05/2025
+Durée : 4 heures
+Exercice :
+On considère une variable aléatoire discrète X à valeurs dans N définie sur un espace probabilisé (Ω, A, P).
+On note IX l’ensemble des réels t tels que l’espérance E(etX) =
++∞
+∑
+k=0
+etkP(X = k), de la variable aléatoire etX,
+soit finie. Pour t ∈IX, on pose
+LX(t) = E(etX).
+Q.1 ▷Dans cette question, on considère une variable aléatoire de Bernoulli B(p) de paramètre p ∈[0, 1].
+Justifier que IB(p) = R et calculer LB(p)(t), pour tout t ∈R.
+Pour tout t ∈R, E(etB(p)) est finie (B(p) prend un nombre fini de valeurs), donc IB(p) = R et pour
+tout t ∈R, on a :
+LB(p)(t) = E(etB(p)) = P(B(p) = 0) + etP(B(p) = 1) = (1 −p) + etp = p et + 1 −p.
+Q.2 ▷Dans cette question, on considère une variable aléatoire de Poisson P(λ) de paramètre λ ∈R∗
++.
+Prouver que IP(λ) = R et calculer LP(λ)(t), pour tout t ∈R.
+Pour tout t ∈R, la série numérique ∑
+k≥0
+etke−λ λk
+k! converge et sa somme vaut e−λeλet, donc IP(λ) = R
+et LP(λ)(t) = eλ(et−1), pour tout t ∈R.
+Q.3 ▷Montrer que 0 ∈IX et que si t0 ∈IX, alors ] −∞, t0] ⊂IX, puis en déduire que IX est un intervalle
+non minoré de R.
+Comme E(e0X) =
++∞
+∑
+k=0
+P(X = k) = 1, alors 0 ∈IX. Soient t0 ∈IX et t ∈R ; t ≤t0. Pour tout
+k ∈N, 0 ≤etkP(X = k) ≤et0kP(X = k). Comme la série ∑
+k≥0
+et0kP(X = k) converge, alors la série
+∑
+k≥0
+etkP(X = k) converge aussi. D’où ] −∞, t0] ⊂IX. En particulier, puisque 0 ∈IX, ] −∞, 0] ⊂IX,
+donc IX n’est pas minoré. Soient x et y deux éléments de IX tels que x < y et z ∈]x, y[. D’après ce qui
+précède ] −∞, y] ⊂IX, donc z ∈IX. D’où IX est un intervalle de R. Finalement, IX est un intervalle
+non minoré de R contenant 0.
+BIB-IPEIS
+BIB-IPEIS
+
+On suppose dans la suite de l’exercice que IX = R.
+Q.4 ▷Montrer que pour tout a ≥0, P(X ≥a) ≤inf
+t>0 e−atLX(t).
+Soient a ≥0 et t > 0. Comme la variable aléatoire discrète etX est d’espérance finie, alors d’après
+l’inégalité de Markov, P(X ≥a) = P(etX ≥eta) ≤E(etX)
+eta
+= e−atLX(t). Or ceci est vrai pour tout
+t > 0, donc P(X ≥a) ≤inf
+t>0 e−atLX(t).
+Q.5 ▷Prouver que pour tout n ∈N, la variable Xn est d’espérance finie.
+Soit n ∈N. Pour tout k ∈N, kn
+n! ≤ek, donc 0 ≤Xn ≤n! eX. Comme la variable aléatoire eX est
+d’espérance finie, alors la variable Xn est aussi d’espérance finie.
+Q.6 ▷Montrer que l’application LX : t ∈R 7−→LX(t) est développable en série entière au voisinage de 0
+et que pour tout t ∈R,
+LX(t) =
++∞
+∑
+n=0
+E(Xn)
+n!
+tn.
+Soit t ∈R. Puisque |t| ∈IX = R, la série ∑
+k≥0
+e|t|kP(X = k) converge. Or e|t|k =
++∞
+∑
+n=0
+|t|nkn
+n!
+, pour tout
+k ∈N, donc la famille
+tnkn
+n! P(X = k)
+
+k∈N, n∈N
+est sommable et on a :
+LX(t) = E(etX) =
++∞
+∑
+k=0
+P(X = k)
++∞
+∑
+n=0
+tnkn
+n!
+=
++∞
+∑
+n=0
+tn
+n!
++∞
+∑
+k=0
+knP(X = k) =
++∞
+∑
+n=0
+E(Xn)
+n!
+tn.
+On considère une variable aléatoire discrète Y à valeurs dans N définie sur l’espace probabilisé (Ω, A, P)
+telle que IY = R et pour tout réel t, on a : LY(t) = LX(t).
+Q.7 ▷Prouver que pour tout n ∈N, E(Xn) = E(Yn).
+Pour tout réel t, LX(t) = LY(t). D’après la question précédente,
++∞
+∑
+n=0
+E(Xn)
+n!
+tn =
++∞
+∑
+n=0
+E(Yn)
+n!
+tn, pour
+tout t ∈R. On obtient (en considérant les dérivées nème en 0) E(Xn) = E(Yn), pour tout n ∈N.
+Q.8 ▷Montrer que pour tout t ∈R, les deux séries ∑
+k≥0
+eiktP(X = k) et ∑
+k≥0
+eiktP(Y = k) convergent et que
++∞
+∑
+k=0
+eiktP(X = k) =
++∞
+∑
+k=0
+eiktP(Y = k).
+Soit t ∈R. Pour tout k ∈N, |eiktP(X = k)| = P(X = k). Or ∑
+k≥0
+P(X = k) converge, alors
+∑
+k≥0
+eiktP(X = k) converge absolument, donc elle converge. De même pour ∑
+k≥0
+eiktP(Y = k). La
+famille ∑
+k≥0 ∑
+n≥0
+intnkn
+n!
+P(X = k) est sommable (En fait ∑
+k≥0 ∑
+n≥0
+|intn|kn
+n!
+P(X = k) est sommable de
+somme E(e|t|X)). De plus, sa somme vaut
++∞
+∑
+k=0
+eitkP(X = k) =
++∞
+∑
+n=0
+in
+n!E(Xn)tn. De même pour la
+variable Y. Comme pour tout n ∈N, E(Xn) = E(Yn), alors
++∞
+∑
+k=0
+eiktP(X = k) =
++∞
+∑
+k=0
+eiktP(Y = k).
+Page 2 sur 13
+BIB-IPEIS
+BIB-IPEIS
+
+Q.9 ▷Prouver que l’application ψ : t 7−→
++∞
+∑
+k=0
+eiktP(X = k) est continue sur R.
+La série de fonctions ∑
+k≥0
+eiktP(X = k) converge normalement sur R et pour tout k ∈N, l’application
+t 7−→eiktP(X = k) est continue sur R. Donc l’application ψ : t 7−→
++∞
+∑
+k=0
+eiktP(X = k) est continue sur
+R.
+Q.10 ▷Montrer que pour tout n ∈N, P(X = n) = 1
+2π
+Z 2π
+0
+e−intψ(t) dt.
+Soit n ∈N. Comme l’application t 7−→e−inteiktP(X = k) est continue sur R, pour tout k ∈N, et
+la série ∑
+k≥0
+e−inteiktP(X = k) converge normalement donc uniformément sur R, en particulier sur
+[0, 2π], alors 1
+2π
+Z 2π
+0
+e−intψ(t) dt = 1
+2π
++∞
+∑
+k=0
+P(X = k)
+Z 2π
+0
+e−inteikt dt.
+Or 1
+2π
+Z 2π
+0
+e−inteikt dt = δn,k =
+
+
+
+1
+si k = n
+0
+si k ̸= n
+, donc 1
+2π
+Z 2π
+0
+e−intψ(t) dt = P(X = n).
+Q.11 ▷En déduire que X et Y suivent la même loi.
+De même on montre comme dans Q.10, que P(Y = n) = 1
+2π
+Z 2π
+0
+e−int
++∞
+∑
+k=0
+eiktP(Y = k) dt, pour tout
+n ∈N. D’après Q.10 et Q.8, P(X = n) = P(Y = n), pour tout n ∈N. Donc X et Y suivent la même
+loi.
+Q.12 ▷Dans cette question, on suppose de plus que les deux variables X et Y sont indépendantes. Montrer
+que IX+Y = R et que pour tout t ∈R,
+LX+Y(t) = LX(t)LY(t).
+Pour tout t ∈R, les variables aléatoires etX et etY sont indépendantes d’espérances finies, donc la
+variable et(X+Y) = etXetY est d’espérance finie et E(et(X+Y)) = E(etX)E(etY). Ce qui implique que
+IX+Y = R et pour tout t ∈R, LX+Y(t) = LX(t)LY(t).
+Q.13 ▷Dans cette question, on suppose que X suit une loi de Poisson de paramètre λ1 > 0, Y suit une loi
+de Poisson de paramètre λ2 > 0 et que X et Y sont indépendantes. Déterminer la loi de la variable
+aléatoire X + Y.
+On suppose que X suit une loi de Poisson de paramètre λ1 > 0, Y suit une loi de Poisson de
+paramètre λ2 > 0 et que X et Y sont indépendantes. D’après
+Q.12
+et
+Q.2,
+on
+a
+pour tout
+t ∈R, LX+Y(t) = LX(t)LY(t) = eλ1(et−1)eλ2(et−1) = e(λ1+λ2)(et−1). Donc d’après Q.2 et Q.11, X + Y
+suit une loi de Poisson de paramètre λ1 + λ2.
+Page 3 sur 13
+BIB-IPEIS
+BIB-IPEIS
+
+Problème :
+Le but des parties I. et II. de ce problème est de montrer que pour une application continue quelconque
+f : [0, +∞[−→C, on a l’équivalence suivante :
+Z +∞
+0
+f (t) dt converge ⇐⇒
+
+
+
+
+
+
+
+
+
+
+
+
+
+lim
+x→+∞
+1
+x
+Z x
+0 t f (t) dt = 0,
+Pour tout a > 0, l’intégrale
+Z +∞
+0
+e−at f (t) dt est convergente,
+lim
+a→0+
+Z +∞
+0
+e−at f (t) dt existe dans C.
+De plus, dans ce cas, lim
+a→0+
+Z +∞
+0
+e−at f (t) dt =
+Z +∞
+0
+f (t) dt.
+La partie III. du problème est indépendante des autres parties.
+Partie I.
+Dans toute cette partie, on considère une application continue f : [0, +∞[−→C telle que
+Z +∞
+0
+f (t) dt converge.
+On note I =
+Z +∞
+0
+f (t) dt. Pour x ≥0, on pose F(x) =
+Z x
+0 f (t) dt.
+Q.14 ▷Montrer que l’application F admet une limite finie en +∞et qu’elle est bornée sur [0, +∞[.
+Comme
+Z +∞
+0
+f (t) dt converge, alors lim
+x→+∞F(x) = I. De plus, F est continue sur [0, +∞[ (En effet, F
+est la primitive de f sur [0, +∞[ qui s’annule en 0), donc F est bornée sur [0, +∞[.
+Q.15 ▷En déduire que pour tout a > 0, l’application t 7−→e−atF(t) est intégrable sur [0, +∞[.
+F est bornée sur [0, +∞[, donc il existe M > 0 tel que pour tout t ≥0, |F(t)| ≤M. Soit a > 0.
+L’application t 7−→e−atF(t) est continue sur [0, +∞[ et vérifie pour tout t ≥0, |e−atF(t)| ≤Me−at.
+Comme l’application t 7−→e−at est intégrable sur [0, +∞[, alors l’application t 7−→e−atF(t) est aussi
+intégrable sur [0, +∞[.
+Q.16 ▷Soit a > 0. Prouver que l’intégrale
+Z +∞
+0
+e−at f (t) dt est convergente et que
+Z +∞
+0
+e−at f (t) dt = a
+Z +∞
+0
+e−atF(t) dt.
+Soient a > 0 et x > 0. On effectue une intégration par parties, on obtient
+Z x
+0 e−at f (t) dt = [e−atF(t)]x
+0 + a
+Z x
+0 e−atF(t) dt. Comme F(0) = 0,
+lim
+x→+∞e−axF(x) = 0 et l’applica-
+tion t 7−→e−atF(t) est intégrable sur [0, +∞[, alors l’intégrale
+Z +∞
+0
+e−at f (t) dt est convergente et
+Z +∞
+0
+e−at f (t) dt = a
+Z +∞
+0
+e−atF(t) dt.
+On considère l’application L : a ∈[0, +∞[7−→L(a) =
+Z +∞
+0
+e−at f (t) dt.
+Q.17 ▷Montrer que L est de classe C∞sur ]0, +∞[ et que pour tout n ∈N∗et tout a > 0,
+L(n)(a) = a
+Z +∞
+0
+(−t)ne−atF(t) dt + n
+Z +∞
+0
+(−t)n−1e−atF(t) dt.
+Page 4 sur 13
+BIB-IPEIS
+BIB-IPEIS
+
+Montrer que l’application L est de classe C∞sur ]0, +∞[ revient à montrer d’après Q.16, que
+l’application a 7−→
+Z +∞
+0
+e−atF(t) dt est de classe C∞sur ]0, +∞[. Pour cela nous allons vérifier
+les hypothèses du théorème de dérivation sous le signe intégrale. Pour tout t ≥0, l’application
+a
+ht
+7−→e−atF(t) est de classe C∞sur ]0, +∞[ et pour tout n ∈N, ∂nht
+∂an (a) = (−t)ne−atF(t). Soit
+n ∈N. Pour tout a > 0, l’application t 7−→(−t)ne−atF(t) est intégrable sur [0, +∞[ (F étant bornée
+sur [0, +∞[ et l’application t 7−→tne−at est intégrable sur [0, +∞[). Soit M > 0 tel que pour tout
+t ≥0, |F(t)| ≤M. Soit α > 0. Alors pour tout t ≥0 et tout a ≥α, |(−t)ne−atF(t)| ≤Mtne−αt et
+l’application t 7−→Mtne−αt est intégrable sur [0, +∞[. Par suite, l’application a 7−→
+Z +∞
+0
+e−atF(t) dt
+est de classe C∞sur ]0, +∞[. Ce qui implique que l’application L est de classe C∞sur ]0, +∞[ et pour
+tout n ∈N∗et tout a > 0,
+L(n)(a) = a
+Z +∞
+0
+(−t)ne−atF(t) dt + n
+Z +∞
+0
+(−t)n−1e−atF(t) dt
+(d’après Q.16).
+Q.18 ▷Justifier que pour tout a > 0,
+L(a) =
+Z +∞
+0
+e−uF
+u
+a
+
+du,
+puis en déduire que L admet une limite finie à droite de 0 et que
+lim
+a→0+ L(a) = I.
+Soit a > 0. L(a) = a
+Z +∞
+0
+e−atF(t) dt. On effectue le changement de variables u = at, on obtient
+L(a) =
+Z +∞
+0
+e−uF
+u
+a
+
+du. On va appliquer le théorème de la limite sous le signe intégrale. Pour
+tout a > 0, l’application u 7−→e−uF
+u
+a
+
+est continue sur [0, +∞[. Comme lim
+x→+∞F(x) = I et F(0) =
+0, alors lim
+a→0+ e−uF
+u
+a
+
+=
+
+
+
+Ie−u
+si u > 0,
+0
+si u = 0.
+Soit M > 0 tel que pour tout t ≥0, |F(t)| ≤M. Pour tout u ≥0 et tout a > 0,
+e−uF
+u
+a
+ ≤Me−u
+et l’application u 7−→Me−u est intégrable sur [0, +∞[.
+Par suite, L admet une limite finie à droite de 0 et
+lim
+a→0+ L(a) =
+Z +∞
+0
+lim
+a→0+ e−uF
+u
+a
+
+du = I
+Z +∞
+0
+e−u du = I.
+Page 5 sur 13
+BIB-IPEIS
+BIB-IPEIS
+
+Q.19 ▷Prouver que lim
+a→+∞L(a) = 0.
+On va utiliser le théorème de la limite sous
+le
+signe
+intégrale. Pour
+tout
+a > 0, l’application
+u 7−→e−uF
+u
+a
+
+est continue sur [0, +∞[.
+Pour tout u ≥0,
+lim
+a→+∞e−uF
+u
+a
+
+= 0 (car lim
+x→0+ F(x) = F(0) = 0). Pour tout u ≥0 et tout a > 0,
+e−uF
+u
+a
+ ≤Me−u et l’application u 7−→Me−u est intégrable sur [0, +∞[, avec M > 0 tel que pour
+tout t ≥0, |F(t)| ≤M. Par suite, l’application L admet une limite finie en +∞et
+lim
+a→+∞L(a) =
+Z +∞
+0
+lim
+a→+∞e−uF
+u
+a
+
+du = 0.
+Pour x ≥0, on pose G(x) =
+Z +∞
+x
+f (t) dt.
+Q.20 ▷Justifier que l’application G: x 7→G(x) est bien définie et dérivable sur [0, +∞[ et que lim
+x→+∞G(x)=0.
+Comme
+Z +∞
+0
+f (t) dt est convergente, alors G(x) est bien défini, pour tout x ≥0 et lim
+x→+∞G(x) = 0.
+De plus, pour tout x ≥0, G(x) =
+Z +∞
+0
+f (t) dt −
+Z x
+0 f (t) dt = I −F(x). Comme f est continue sur
+[0, +∞[, alors G est de classe C1 sur [0, +∞[ et G′(x) = −f (x), pour tout x ≥0.
+Q.21 ▷En déduire que pour tout ε > 0, il existe A > 0 tel que pour tout x > A,
+
+1
+x
+Z x
+0 G(t) dt
+ ≤ε.
+Soit ε > 0. Comme lim
+t→+∞G(t) = 0, alors il existe A1 > 0 tel que pour tout t ≥A1,
+|G(t)| ≤ε
+2. Soit x > A1.
+
+1
+x
+Z x
+0 G(t) dt
+ ≤1
+x
+
+Z A1
+0
+G(t) dt
+ + 1
+x
+Z x
+A1
+|G(t)| dt, donc
+
+1
+x
+Z x
+0 G(t) dt
+ ≤1
+x
+
+Z A1
+0
+G(t) dt
+ + ε
+2
+x −A1
+x
+≤1
+x
+
+Z A1
+0
+G(t) dt
+ + ε
+2. D’autre part,
+lim
+x→+∞
+1
+x
+
+Z A1
+0
+G(t) dt
+ = 0. Donc il existe A ≥A1 tel que pour tout x > A,
+1
+x
+
+Z A1
+0
+G(t) dt
+ ≤ε
+2. Par suite, pour tout x > A, on a :
+
+1
+x
+Z x
+0 G(t) dt
+ ≤ε.
+Q.22 ▷Soit x > 0. Prouver que 1
+x
+Z x
+0 t f (t) dt = −G(x) + 1
+x
+Z x
+0 G(t) dt.
+Soit x > 0. On effectue une intégration par parties, on obtient
+1
+x
+Z x
+0 t f (t) dt = 1
+x[−tG(t)]x
+0 + 1
+x
+Z x
+0 G(t) dt = −G(x) + 1
+x
+Z x
+0 G(t) dt.
+Q.23 ▷En déduire que
+Z x
+0 t f (t) dt
+=
+x→+∞o(x).
+D’après Q.20 et Q.21, lim
+x→+∞G(x) = lim
+x→+∞
+1
+x
+Z x
+0 G(t) dt = 0, donc Q.22 donne
+lim
+x→+∞
+1
+x
+Z x
+0 t f (t) dt = 0, autrement
+Z x
+0 t f (t) dt
+=
+x→+∞o(x).
+Page 6 sur 13
+BIB-IPEIS
+BIB-IPEIS
+
+On considère dans la suite, l’application
+φ : [0, +∞[
+−→
+R
+t
+7−→
+φ(t) =
+
+
+
+sin t
+t
+si t > 0,
+1
+si t = 0.
+Q.24 ▷Justifier la convergence de
+Z +∞
+0
+sin t
+t
+dt.
+L’application φ étant continue sur [0, +∞[, on étudie la convergence de l’intégrale au voisinage de
++∞. On effectue une intégration par parties, on obtient pour tout x > 1,
+Z x
+1
+sin t
+t
+dt =
+
+−cos t
+t
+x
+1
+−
+Z x
+1
+cos t
+t2
+dt. Comme lim
+x→+∞
+cos x
+x
+= 0 et l’intégrale
+Z +∞
+1
+cos t
+t2
+dt est abso-
+lument convergente donc convergente, alors
+Z +∞
+0
+sin t
+t
+dt converge.
+Pour a ≥0, on pose Lφ(a) =
+Z +∞
+0
+e−atφ(t) dt.
+Q.25 ▷Montrer que Lφ est dérivable sur ]0, +∞[ et que pour tout a > 0, L′
+φ(a) = −
+1
+1 + a2 .
+D’après Q.17, l’application Lφ est de classe C∞sur ]0, +∞[, en particulier elle est dérivable sur
+]0, +∞[. Pour tout t ≥0, l’application a
+kt
+7−→e−atφ(t) est de classe C1 sur ]0, +∞[ et pour tout a > 0,
+∂kt
+∂a (a) = −e−at sin t. Pour tout a > 0, l’application t 7−→−e−at sin t est continue sur [0, +∞[. Soit
+α > 0. Alors pour tout t ≥0 et tout a ≥α, | −e−at sin t| ≤e−αt et l’application t 7−→e−αt est
+intégrable sur [0, +∞[. Par suite, l’applicaton Lφ est de classe C1 sur ]0, +∞[ et pour tout a > 0,
+L′
+φ(a) = −
+Z +∞
+0
+e−at sin t dt = −Im
+Z +∞
+0
+e(i−a)t dt
+
+= −
+1
+a2 + 1.
+Q.26 ▷En déduire la valeur de
+Z +∞
+0
+sin t
+t
+dt.
+Pour tout a > 0, L′
+φ(a) = −
+1
+1 + a2 , donc il existe une constante c ∈R telle que pour tout a > 0,
+Lφ(a) = −arctan a + c. D’après Q.19, lim
+a→+∞Lφ(a) = 0, alors on en déduit que c = π
+2 et par suite
+lim
+a→0+ Lφ(a) = π
+2 . Or, d’après Q.18, lim
+a→0+ Lφ(a) =
+Z +∞
+0
+φ(t) dt =
+Z +∞
+0
+sin t
+t
+dt.
+D’où
+Z +∞
+0
+sin t
+t
+dt = π
+2 .
+Partie II.
+Dans toute cette partie, on considère une application continue f : [0, +∞[−→C telle que
+
+
+
+
+
+
+
+
+
+
+
+
+
+lim
+x→+∞
+1
+x
+Z x
+0 t f (t) dt = 0,
+Pour tout a > 0, l’intégrale
+Z +∞
+0
+e−at f (t) dt est convergente,
+lim
+a→0+
+Z +∞
+0
+e−at f (t) dt existe dans C.
+Page 7 sur 13
+BIB-IPEIS
+BIB-IPEIS
+
+On définit l’application
+g : [0, +∞[
+−→
+C
+x
+7−→
+g(x) =
+
+
+
+
+
+1
+x2
+Z x
+0 t f (t) dt
+si x > 0,
+1
+2 f (0)
+si x = 0.
+Q.27 ▷Montrer que g est continue sur [0, +∞[.
+L’application g est continue sur ]0, +∞[, elle est même de classe C1 sur ]0, +∞[ car l’application
+f est continue sur [0, +∞[. Montrons que g est continue en 0. Remarquons que pour tout x > 0,
+1
+2 f (0) = 1
+x2
+Z x
+0 t f (0) dt. Soit ε > 0. Comme f est continue en 0, alors il existe α > 0 tel que pour
+tout t ∈[0, α[, | f (t) −f (0)| ≤2ε. Soit x ∈]0, α[.
+
+1
+x2
+Z x
+0 t f (t) dt −1
+2 f (0)
+ = 1
+x2
+
+Z x
+0 t( f (t) −f (0)) dt
+ ≤1
+x2
+Z x
+0 t| f (t) −f (0)| dt ≤ε.
+Q.28 ▷Justifier que g(x)
+=
+x→+∞o
+1
+x
+
+et en déduire que les intégrales
+Z +∞
+0
+e−atg(t) dt et
+Z +∞
+0
+te−atg(t) dt
+convergent, pour tout a > 0.
+Comme
+lim
+x→+∞xg(x) =
+lim
+x→+∞
+1
+x
+Z x
+0 t f (t) dt = 0, par hypothèse, alors g(x)
+=
+x→+∞o
+1
+x
+
+. Soit
+a >
+0. Les applications t 7−→
+e−atg(t) et t 7−→
+te−atg(t) sont continues sur [0, +∞[. De
+plus, e−atg(t)
+=
+t→+∞o
+ 1
+t2
+
+et te−atg(t)
+=
+t→+∞o
+ 1
+t2
+
+. Donc les intégrales
+Z +∞
+0
+e−atg(t) dt et
+Z +∞
+0
+te−atg(t) dt convergent.
+Q.29 ▷Soit a > 0. Montrer que pour tout x > 0,
+Z x
+0 e−at f (t) dt = xg(x)e−ax +
+Z x
+0 e−atg(t) dt + a
+Z x
+0 te−atg(t) dt,
+et en déduire que
+Z +∞
+0
+e−at f (t) dt =
+Z +∞
+0
+e−atg(t) dt + a
+Z +∞
+0
+te−atg(t) dt.
+Soient a > 0 et x > 0. On considère l’intégrale
+Z x
+0 e−at f (t) dt et on effectue une intégration par
+parties sur ]0, x] en dérivant l’application t 7−→e−at
+t
+et en prenant t 7−→
+Z t
+0 u f (u) du pour primitive
+de l’application t 7−→t f (t). Or pour tout t > 0,
+Z t
+0 u f (u) du = t2g(t) et lim
+t→0+ tg(t)e−at = 0, donc
+Z x
+0 e−at f (t) dt = xg(x)e−ax +
+Z x
+0 e−atg(t) dt + a
+Z x
+0 te−atg(t) dt. Par passage à la limite lorsque x tend
+vers +∞et en utilisant Q.28, on obtient
+Z +∞
+0
+e−at f (t) dt =
+Z +∞
+0
+e−atg(t) dt + a
+Z +∞
+0
+te−atg(t) dt.
+Q.30 ▷Prouver que lim
+a→0+ a
+Z +∞
+0
+te−atg(t) dt = 0 et en déduire que lim
+a→0+
+Z +∞
+0
+e−atg(t) dt existe et vaut
+lim
+a→0+
+Z +∞
+0
+e−at f (t) dt.
+Page 8 sur 13
+BIB-IPEIS
+BIB-IPEIS
+
+Soit ε > 0. Comme lim
+t→+∞tg(t) = 0, alors il existe A > 0
+tel
+que
+pour
+tout
+t ≥A,
+|tg(t)| ≤ε
+2. Pour tout a > 0,
+a
+Z +∞
+0
+te−atg(t) dt
+ ≤a
+Z A
+0
+t|g(t)| dt + a
+Z +∞
+A
+e−at|tg(t)| dt. D’une
+part, on a pour tout a > 0, a
+Z +∞
+A
+e−at|tg(t)| dt ≤a ε
+2
+Z +∞
+A
+e−at dt = ε
+2e−aA ≤ε
+2. D’autre part,
+puisque lim
+a→0+ a
+Z A
+0
+t|g(t)| dt = 0, alors il existe α > 0 tel que pour tout a ∈]0, α[, a
+Z A
+0
+t|g(t)| dt ≤ε
+2.
+Par suite, pour tout a ∈]0, α[,
+a
+Z +∞
+0
+te−atg(t) dt
+ ≤ε, c’est-à-dire
+lim
+a→0+ a
+Z +∞
+0
+te−atg(t) dt = 0. Par hypothèse, lim
+a→0+
+Z +∞
+0
+e−at f (t) dt existe dans C, donc d’après Q.29,
+lim
+a→0+
+Z +∞
+0
+e−atg(t) dt existe et vaut lim
+a→0+
+Z +∞
+0
+e−at f (t) dt.
+Q.31 ▷Montrer que lim
+x→+∞
+1
+x
+Z x
+0 t|g(t)| dt = 0.
+Soit ε > 0. Comme lim
+t→+∞tg(t) = 0, alors il existe A1 > 0 tel que pour tout t ≥A1, |tg(t)| ≤ε
+2. Soit
+x > A1. 0 ≤1
+x
+Z x
+0 t|g(t)| dt ≤1
+x
+Z A1
+0
+t|g(t)| dt + 1
+x
+Z x
+A1
+|tg(t)| dt, donc
+1
+x
+Z x
+0 t|g(t)| dt ≤1
+x
+Z A1
+0
+t|g(t)| dt + ε
+2
+x −A1
+x
+≤1
+x
+Z A1
+0
+t|g(t)| dt + ε
+2. D’autre part,
+lim
+x→+∞
+1
+x
+Z A1
+0
+t|g(t)| dt = 0. Donc il existe A ≥A1 tel que pour tout x > A,
+1
+x
+Z A1
+0
+t|g(t)| dt ≤
+ε
+2. Par suite, pour tout x >
+A, on a : 0 ≤
+1
+x
+Z x
+0 t|g(t)| dt ≤
+ε. D’où
+lim
+x→+∞
+1
+x
+Z x
+0 t|g(t)| dt = 0.
+Q.32 ▷Justifier que pour tout t ∈R, 1 + t ≤et.
+On effectue une étude de variations sur la fonction t 7−→et −t −1. On obtient pour tout t ∈R,
+1 + t ≤et.
+Q.33 ▷Montrer que lim
+x→+∞
+Z x
+0 g(t) dt −
+Z x
+0 e−t
+x g(t) dt
+
+= 0.
+D’après Q.32, pour tout x > 0,
+
+Z x
+0 g(t) dt −
+Z x
+0 e−t
+x g(t) dt
+ =
+
+Z x
+0
+
+1 −e−t
+x
+
+g(t) dt
+ ≤1
+x
+Z x
+0 t|g(t)| dt. En utilisant Q.31, on ob-
+tient lim
+x→+∞
+Z x
+0 g(t) dt −
+Z x
+0 e−t
+x g(t) dt
+
+= 0.
+Q.34 ▷Justifier la convergence des intégrales
+Z +∞
+x
+e−t
+x g(t) dt et
+Z +∞
+x
+e−t
+x
+t
+dt, pour tout x > 0 et montrer que
+Z +∞
+x
+e−t
+x g(t) dt
+=
+x→+∞o
+ Z +∞
+x
+e−t
+x
+t
+dt
+!
+.
+Soit x > 0. L’intégrale
+Z +∞
+x
+e−t
+x g(t) dt converge car
+Z +∞
+0
+e−t
+x g(t) dt converge d’après Q.28
+ pour
+a = 1
+x
+
+. D’autre part, e−t
+x
+t
+=
+t→+∞o
+ 1
+t2
+
+, donc
+Z +∞
+x
+e−t
+x
+t
+dt converge.
+Page 9 sur 13
+BIB-IPEIS
+BIB-IPEIS
+
+Soit ε > 0. Comme lim
+t→+∞tg(t) = 0, alors il existe A > 0 tel que pour tout t ≥A, |tg(t)| ≤ε. Donc
+pour tout t ≥A,
+e−t
+x g(t)
+ ≤εe−t
+x
+t . D’où pour tout x ≥A,
+
+Z +∞
+x
+e−t
+x g(t) dt
+ ≤ε
+Z +∞
+x
+e−t
+x
+t
+dt. Par
+suite,
+Z +∞
+x
+e−t
+x g(t) dt
+=
+x→+∞o
+ Z +∞
+x
+e−t
+x
+t
+dt
+!
+.
+Q.35 ▷En déduire que lim
+x→+∞
+Z +∞
+x
+e−t
+x g(t) dt = 0.
+Comme
+Z +∞
+x
+e−t
+x
+t
+dt =
+Z +∞
+1
+e−u
+u du, alors d’après Q.34, lim
+x→+∞
+Z +∞
+x
+e−t
+x g(t) dt = 0.
+Q.36 ▷Prouver que l’intégrale
+Z +∞
+0
+g(t) dt converge et que
+Z +∞
+0
+g(t) dt = lim
+a→0+
+Z +∞
+0
+e−atg(t) dt.
+Montrons que lim
+x→+∞
+Z x
+0 g(t) dt existe et vaut lim
+a→0+
+Z +∞
+0
+e−atg(t) dt. Soit x > 0.
+Z x
+0 g(t) dt
+=
+Z x
+0 g(t) dt −
+Z x
+0 e−t
+x g(t) dt
+
++
+Z x
+0 e−t
+x g(t) dt
+=
+Z x
+0 g(t) dt −
+Z x
+0 e−t
+x g(t) dt
+
++
+Z +∞
+0
+e−t
+x g(t) dt −
+Z +∞
+x
+e−t
+x g(t) dt
+car l’intégrale
+Z +∞
+0
+e−t
+x g(t) dt converge. Or lim
+x→+∞
+Z x
+0 g(t) dt −
+Z x
+0 e−t
+x g(t) dt
+
+= 0,
+lim
+x→+∞
+Z +∞
+x
+e−t
+x g(t) dt = 0 et
+lim
+x→+∞
+Z +∞
+0
+e−t
+x g(t) dt existe et vaut lim
+a→0+
+Z +∞
+0
+e−atg(t) dt, donc l’inté-
+grale
+Z +∞
+0
+g(t) dt converge et
+Z +∞
+0
+g(t) dt = lim
+a→0+
+Z +∞
+0
+e−atg(t) dt.
+Q.37 ▷Montrer que pour tout x > 0,
+Z x
+0 f (t) dt = xg(x) +
+Z x
+0 g(t) dt et en déduire que
+Z +∞
+0
+f (t) dt converge
+et que
+Z +∞
+0
+f (t) dt = lim
+a→0+
+Z +∞
+0
+e−at f (t) dt.
+Soit x > 0. On considère l’intégrale
+Z x
+0 f (t) dt et on effectue une intégration par parties sur ]0, x]
+en dérivant l’application t 7−→1
+t et en prenant t 7−→
+Z t
+0 u f (u) du pour primitive de l’application
+t 7−→t f (t). Or pour tout t > 0,
+Z t
+0 u f (u) du = t2g(t) et lim
+t→0+ tg(t) = 0, donc
+Z x
+0 f (t) dt = xg(x) +
+Z x
+0 g(t) dt.
+Par passage à la limite lorsque x tend vers +∞et en utilisant Q.28 et Q.36, on obtient
+Z +∞
+0
+f (t) dt
+converge et
+Z +∞
+0
+f (t) dt =
+Z +∞
+0
+g(t) dt. Par suite, d’après Q.36 et Q.30,
+Z +∞
+0
+f (t) dt =
+Z +∞
+0
+g(t) dt = lim
+a→0+
+Z +∞
+0
+e−atg(t) dt = lim
+a→0+
+Z +∞
+0
+e−at f (t) dt.
+Page 10 sur 13
+BIB-IPEIS
+BIB-IPEIS
+
+On considère l’application
+ϕ : [0, +∞[
+−→
+R
+t
+7−→
+ϕ(t) =
+
+
+
+t
+et −1 −sin t
+si t > 0,
+1
+si t = 0.
+Q.38 ▷Justifier que ϕ est continue sur [0, +∞[.
+L’application ϕ est continue sur ]0, +∞[. Montrons qu’elle est continue en 0. Comme et −1 ∼
+t→0 t,
+alors lim
+t→0
+t
+et −1 = 1. Par suite, lim
+t→0+ ϕ(t) = 1 = ϕ(0). D’où ϕ est continue sur [0, +∞[.
+Q.39 ▷Soit a > 0. Prouver que
+Z +∞
+0
+e−atϕ(t) dt converge et que
+Z +∞
+0
+e−atϕ(t) dt = −
+1
+1 + a2 +
++∞
+∑
+n=1
+1
+(n + a)2 .
+(On pourra utiliser un développement en série entière).
+Soit a > 0. L’application t 7−→e−atϕ(t) est continue sur [0, +∞[, donc il suffit d’étudier la conver-
+gence au voisinage de +∞.
+Or lim
+t→+∞
+t
+et −1 = 0, alors ϕ est bornée sur [0, +∞[ et e−atϕ(t)
+=
+t→+∞o
+ 1
+t2
+
+. Donc
+Z +∞
+0
+e−atϕ(t) dt
+converge et
+Z +∞
+0
+e−atϕ(t) dt =
+Z +∞
+0
+e−at
+t
+et −1 dt −
+Z +∞
+0
+e−at sin t dt. On a :
+Z +∞
+0
+e−at sin t dt =
+1
+1 + a2 et
+Z +∞
+0
+e−at
+t
+et −1 dt =
+Z +∞
+0
+te−(a+1)t
+1
+1 −e−t dt.
+Or pour tout t > 0,
+1
+1 −e−t =
++∞
+∑
+n=0
+e−nt, donc
+Z +∞
+0
+e−at
+t
+et −1 dt =
+Z +∞
+0
++∞
+∑
+n=0
+te−(a+n+1)t dt.
+Comme
+Z +∞
+0
+te−(a+n+1)t dt =
+1
+(a + n + 1)2 et la série ∑
+n≥0
+1
+(a + n + 1)2 converge, alors
+Z +∞
+0
+e−at
+t
+et −1 dt =
++∞
+∑
+n=0
+1
+(a + n + 1)2 =
++∞
+∑
+n=1
+1
+(a + n)2 .
+Par suite,
+Z +∞
+0
+e−atϕ(t) dt = −
+1
+1 + a2 +
++∞
+∑
+n=1
+1
+(n + a)2 .
+Q.40 ▷Montrer que lim
+a→0+
+Z +∞
+0
+e−atϕ(t) dt existe dans R, mais que l’intégrale
+Z +∞
+0
+ϕ(t) dt diverge.
+D’une part, lim
+a→0+
+1
+1 + a2 = 1 et la série de fonctions ∑
+n≥1
+1
+(n + a)2 converge normalement sur [0, +∞[,
+donc lim
+a→0+
++∞
+∑
+n=1
+1
+(n + a)2 =
++∞
+∑
+n=1
+1
+n2 . D’où lim
+a→0+
+Z +∞
+0
+e−atϕ(t) dt existe et vaut −1 +
++∞
+∑
+n=1
+1
+n2 . D’autre part,
+Z +∞
+0
+ϕ(t) dt diverge car
+Z +∞
+0
+t
+et −1 dt converge, mais
+Z +∞
+0
+sin t dt diverge.
+Page 11 sur 13
+BIB-IPEIS
+BIB-IPEIS
+
+Partie III.
+Soit C = C([0, 1], R) le R-espace vectoriel des fonctions continues sur [0, 1] à valeurs réelles.
+On rappelle que l’application ∥· ∥∞: f 7−→∥f ∥∞= sup
+x∈[0,1]
+| f (x)| est une norme sur C.
+Q.41 ▷On pose pour tout n ∈N∗et tout x ∈[0, 1], fn(x) = xn −x2n.
+Vérifier que pour tout n ∈N∗, fn ∈B =
+
+h ∈C ; ∥h∥∞≤1
+4
+	
+.
+A l’aide d’une étude de variations, on montre que pour tout n ∈N∗, ∥fn∥∞= 1
+4, donc fn ∈B.
+Q.42 ▷Justifier que la suite de fonctions ( fn)n∈N∗converge simplement sur [0, 1] vers la fonction nulle.
+Si x ∈[0, 1[, alors lim
+n→+∞fn(x) = 0 et si x = 1, alors fn(1) = 0, pour tout n ∈N∗. Par suite, ( fn)n∈N∗
+converge simplement vers 0 sur [0, 1].
+Q.43 ▷Montrer que ( fn)n∈N∗n’admet aucune sous-suite convergente dans (C, ∥· ∥∞) et en déduire que B
+n’est pas un compact de (C, ∥· ∥∞).
+Supposons qu’il existe θ : N∗−→N∗une application strictement croissante telle que ( fθ(n))n∈N∗
+converge vers f dans (C, ∥· ∥∞). Alors ( fθ(n))n∈N∗converge simplement vers f sur [0, 1]. Par unicité
+de la limite, on aura f ≡0 sur [0, 1].
+Or pour tout n ∈N∗,
+ fθ(n)
+
+∞= 1
+4, donc lim
+n→+∞
+ fθ(n)
+
+∞= 1
+4 ̸= 0, ce qui donne une contradiction.
+Comme ( fn)n∈N∗est une suite d’éléments de B n’admettant aucune sous-suite convergente, alors B
+n’est pas un compact de (C, ∥· ∥∞).
+Q.44 ▷Soient f ∈C et x > 0. Prouver que la série ∑
+n≥0
+e−nx f (e−nx) converge.
+L’application f étant continue sur [0, 1], alors elle est bornée sur [0, 1]. Donc il existe C > 0 tel que
+pour tout x ∈[0, 1], | f (x)| ≤C. Soit x > 0. Pour tout n ∈N, |e−nx f (e−nx)| ≤Ce−nx. Comme la série
+∑
+n≥0
+e−nx converge, alors la série ∑
+n≥0
+e−nx f (e−nx) converge absolument, donc elle converge.
+On note L( f )(x) =
++∞
+∑
+n=0
+e−nx f (e−nx).
+Q.45 ▷Montrer que l’ensemble E =
+
+f ∈C,
+lim
+x→0+ xL( f )(x) existe dans R
+	
+est un sous-espace vectoriel
+fermé de (C, ∥· ∥∞).
+Montrons que E est un sous-espace vectoriel de C. Remarquons que l’application nulle appartient à
+E. D’autre part, si f, g ∈E et α ∈R, lim
+x→0+ xL(α f + g)(x) = α lim
+x→0+ xL( f )(x) + lim
+x→0+ xL(g)(x) ∈R.
+Donc α f + g ∈E. Montrons que E est un fermé de (C, ∥· ∥∞). Soit ( fk)k∈N une suite de E qui
+converge vers f ∈C pour ∥· ∥∞. Montrons que f ∈E, c’est-à-dire lim
+x→0+ xL( f )(x) existe dans R.
+Pour k ∈N et x > 0, on pose gk(x) = xL( fk)(x), alors lim
+x→0+ gk(x) = lk ∈R.
+Pour x > 0, on pose g(x) = xL( f )(x). Montrons que la suite (gk)k∈N converge uniformément vers
+g sur ]0, 1]. Pour tout k ∈N et tout x ∈]0, 1],
+|gk(x) −g(x)| =
+x
++∞
+∑
+n=0
+e−nx( fk(e−nx) −f (e−nx))
+ ≤∥fk −f ∥∞
+x
+1 −e−x .
+Comme l’application x 7−→
+x
+1 −e−x est continue sur ]0, 1] et admet une limite finie (égale à 1) en 0,
+alors cette application est bornée sur ]0, 1]. Soit c1 > 0 tel que pour tout x ∈]0, 1], 0 ≤
+x
+1 −e−x ≤c1.
+Page 12 sur 13
+BIB-IPEIS
+BIB-IPEIS
+
+D’où pour tout k ∈N, sup
+x∈]0,1]
+|gk(x) −g(x)| ≤c1∥fk −f ∥∞. Comme
+lim
+k→+∞∥fk −f ∥∞= 0, alors
+lim
+k→+∞sup
+x∈]0,1]
+|gk(x) −g(x)| = 0. D’après le théorème de la double limite, l’application g admet une
+limite finie lorsque x tend vers 0+, c’est-à-dire lim
+x→0+ xL( f )(x) existe dans R. Par conséquent, f ∈E.
+D’où E est un sous-espace vectoriel fermé de (C, ∥· ∥∞).
+Pour f ∈E, on pose
+T( f ) = lim
+x→0+ xL( f )(x).
+Q.46 ▷Prouver que l’application T : f ∈E 7−→T( f ) est une forme linéaire continue sur (E, ∥· ∥∞).
+Soient f, g ∈E et α ∈R.
+T(α f + g) = lim
+x→0+ xL(α f + g)(x) = α lim
+x→0+ xL( f )(x) + lim
+x→0+ xL(g)(x) = αT( f ) + T(g). D’où T est
+une forme linéaire sur E.
+Montrons que T est continue sur (E, ∥· ∥∞). Soit f ∈E. Pour tout x > 0,
+|xL( f )(x)| ≤∥f ∥∞
+x
++∞
+∑
+n=0
+e−nx
+ = ∥f ∥∞
+x
+1 −e−x .
+D’où |T( f )| ≤∥f ∥∞. Par suite, T est continue sur E.
+Q.47 ▷Montrer que pour tout k ∈N, l’application mk : t ∈[0, 1] 7−→tk appartient à E et que
+T(mk) =
+Z 1
+0 mk(t) dt.
+Soit k ∈N. Pour tout x > 0, xL(mk)(x) = x
++∞
+∑
+n=0
+e−n(1+k)x =
+x
+1 −e−(1+k)x .
+Donc lim
+x→0+ xL(mk)(x) =
+1
+k + 1 =
+Z 1
+0 mk(t) dt ∈R. Par suite, mk ∈E et T(mk) =
+Z 1
+0 mk(t) dt.
+Q.48 ▷En déduire que E = C et que pour tout f ∈C,
+lim
+x→0+ x
++∞
+∑
+n=0
+e−nx f (e−nx) =
+Z 1
+0 f (t) dt.
+Comme pour tout k ∈N, mk ∈E et E est un R-espace vectoriel, alors pour tout P ∈R[X], l’appli-
+cation polynomiale (associée à P) eP ∈E. Soit f ∈C. Alors f est une limite uniforme d’une suite de
+fonctions polynomiales ( fn)n∈N. Or E est fermé, donc f ∈E. D’où E = C.
+D’autre part, T étant continue sur E, donc pour tout f ∈C,
+T( f ) = lim
+n→+∞T( fn) = lim
+n→+∞
+Z 1
+0 fn(t) dt =
+Z 1
+0 f (t) dt
+car ( fn)n∈N converge uniformément sur [0, 1] vers f. D’où
+T( f ) = lim
+x→0+ xL( f )(x) = lim
+x→0+ x
++∞
+∑
+n=0
+e−nx f (e−nx) =
+Z 1
+0 f (t) dt.
+⋆Fin de l’épreuve ⋆
+Page 13 sur 13
+BIB-IPEIS
+BIB-IPEIS

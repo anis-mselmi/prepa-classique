@@ -1,0 +1,74 @@
+--- page 1 ---
+PC Corrigé
+A-Corde vibrante 1.dm"0@2æ, = 7(x,t) + 7(x + dx,t) ; dt2 dm = Hv(dx)? + (dy)2 udx(1 + 4222)'/2 ~ udx au ] (dx)2 ordre udx 234"-, = ~T(x,t)cosa(x,t):z dt2 T(x,t)sina(x,t):y + T(x + dx,t)cosa(x + dx,t):x + T(x + dx,tsinax+dx,tey Au ] ordre cosa~l et sina~a ~T(x,t) + T(x + dx,t) = 0 donc T est constante et T(x,t) = T(x + dx,t) = To 02p(x,t) da d2+(x; udx = To(a(x + dx,t) ~ a(x,t) = To dx = To dx dt2 dx dx2 92Ù(x;t aZw(t2 = 0 avec c2 = Tole dx2 Tolp dt2 2. homogénéité de l'équation (1) 92v6 E a la dimension de 1/L et 9226 +2 a la dimension de dx2 dt2 Llt: donc To a la dimension de T2 /12 et c a la dimension de LIt 'To/p = 14,14ms-1 3. I.C'est une onde dont les fronts donde sont des plans; tous perpendiculaires à la direction de propagation. 3.2.0202 = ~W2 Acos(Wt kx) et %4 dx2 ~k2 Acos(Wt dt2 kx) @? ~k2 Acos(Wt kx) = (~02Acos(t kx)) = 0 que si k? = c2 k = " Vq = "
+20 pts 3
+4.1. pdx%2042 = To@dx ~ T @ dx 22w(*22 L To%6 5 F vGzt) dt2 dx dt dt2 dxz dt a2+(x,t) 1 d2+(x t) dy(xt) = 8 dx2 Tole dt2 dt 4.2. (~ik)'w - 4 (iw)?w = iBwy k2 = = iBw
+1.5
+5.1. "(x,t) = Aei(wt-(k,-ikz)x) Ae-k2* ei(wt-kaz) avec 8 = 1/k2 5.2. k2 = 2(1-i4c) k ~ "(1 -i2) =2_iBc donc k1 = " et k2 =Bc 5.3. Vq = =c et Vg = V. Le milieu n'est   pas dispersif mais il est   absorbant 6. 1. Vi + Yr = 0 en x= 0 et en x=L Aeilwt) + AreilWt) 0 V t doncA + Ar =0 Ar = ~A 6. 2. Vtot Aeilot-kx) Aeilwt+kx) ZAsin(kx)cos(t) 6.3 Jtot flx)g(t) il y'a déformation sans propagation 0 0 @L nc 7. Vtot en x=L 2Asin(kL) donc kL nI =nI Zufn nnc /L fn = 2L
+1.5
+1.5
+0.5
+8
+0=1
+2=2
+8.1. Un son < aigu > a une fréquence importante par contre le son < grave > a une fréquence plus faible. fviolent fcontre basse fviolent fcontre basse Lcontre basse > Lviolent ZLxiolent 2Lcentre_basse 9.2. f; = = [To To 4uL? ( '(fi)? 2L A.N: To = 34,6N 2L
+B- Ondes électromagnétiques et conducteurs d5 d5 10.1. divl = 0, divb = 0 , rotl rotB Ho7 +Hofo" at @t d5 d5 d5 10.2. Iljll > Eo rotrote rot( _ graddivl Al = ~HoY dt dt dt AE HoY '5 + (3) dt 1L.1. A7 = a27 et 95 = ~iwl a2 = ~iwpoY = (ZwoY donc a = F(1 ~ i) @Hoy a = 4-i2 dt 0 donc = (1-i2 11.2. le métal occupe l'espace x > Q @ = Eo e #ei6-"t) &, = A(x)e= 5-Wt) :y Ve = 06 11.3. 8 = 8.3um < épaisseur Une_feuille daluminium d'épaisseur 500 Hm empêche l'écoute d'une onde radio
+22 pts
+2
+2
+1,5
+1.5
+
+--- page 2 ---
+12.1. 7 =E E 7 Eg_cos? (t k.7 " 1 = Il< 7 >ll = 48 =<P2 1132,3wm =2 Ko C k Joc 2koc Irz
+1,5
+<P> 12.2. 1 = Trz
+E? 2koc
+<P> 2poc- Trz
+Eo et Bo = =3.110-6Tesla
+Eo
+924 V /m
+12.3. <P >= nhv = nh
+n = 6.4101Sphotons /s
+13.1 Nz = e-AE/KBT ~10-40 < 1 uniquement le niveau fondamental est peuplé N1 13.2. Entre les deux niveaux dénergie El et E2, trois phénomènes peuvent se présenter: émission spontanée un atome au niveau énergétique supérieur Ez passe spontanément au niveau plus bas E, en émettant un photon dénergie hv = Ez - E1 absorption quand des photons de fréquence fnm et d'énergie AE sont présents dans le milieu; latome situé au niveau bas E, absorbe un photon d'énergie hv = Ez ~ E1 et passe au niveau plus élevé Ez. émission stimulée: lorsque un atome au niveau supérieur Ez, rencontre un photon hv = Ez E1, celui-ci le stimule et le conduit à redescendre au niveau El en émettant un photon dénergie hv = E2 - E1- Le photon incident et le photon émis sont cohérent et de même polarisation @nission spontange émission stimulee ab5Dion #fya: 42?
+1.5
+2
+0,484 +
+Ponxos: [85,4y :wy
+Poe3 Bary4
+02 @ 14.1. AE Eollo - = 6 @t2 14.2. 42442 Eoeiot EoHo(io)? Eof (z) eiat = 0 42f(22+ 2f(z) =0 donc f (z) = Asin "2 + Bcos =2 dz2 dz2 @(z = 0 et 2 = L) = Eof (z) eiwt @y 0 donc B = 0 f (z) = Asin % z 14.3. f(z) = Asin " 2 f (L) = 0 "L = nT fn = "c L =n4 21 14.4. les_pertes_par_ effet joule 15.1. k1 > 0 et a < 0 où a > 0 15.2. @= Eoëye-- eilot- kx) 1 x e-ax G = 1d2 = e-ad > 1 et Q < 0 [(0) C-Fonction donde associée à une particule 16.1. p = h2 (Zu)2 h2k2 16.2. E = 2m 2m42 (2u)2 2m 16.3. E = hw = 42k2 W = hk2 W = f (k) n'est pas linéaire le milieu est donc dispersif 2m 2m 1zLY6t)=f(r)a(t) 17.2. @(x = 0 et x = L) = 0 h2 d2.(r) d? ,(r2 = 2mE 17.3. Ev(x) 4 dx? dx2 h2 P(x) = 0 2m VZmE 17.4. @(x) = Asin ( x) + Bcos (2ex) 6(x = 0) = 0 donc B=0 VæmE SIu(x, t)l?dx A2 V2mE 6(x) = Asin x) et =1 Jlsin? C x)dx = 1 Az : = 1 V2mE VzmE (nnh)2 17.5. 6(x = L) = Asin x) = 0 L = nn E = p = hk = h "" 2ml? 17.6.La quantification est due aux conditions aux Timites (rh)z (nh)2 17.7. AE = [(n + 1)2 _ (n)?] [2n + 1] 2mL? 2mL2 4=1 2=2 17.8.
+1,5
+0.5
+1
+2
+10 pts 0.5
+0.5
+1,5
+0.5 0.5
+2
+1.5
+0.5 0.5
+
+--- page 3 ---
+Problème NP2;
+Etude des_ phénomènes de_transport
+A Etude préliminaire Ij=v@ =~Ygradv,j = ~Dgradn,] = ~agradT 2/ Le signe traduit l'irréversibilité. Le transport s'éffectue vers les zones où le grad est faible 3/ D m s 1 W.m' KI 92-1 m-1 Bl Modèle de l'atmosphère isotherme dP 4/ P(z)S-P(z#dz)S= pSdzg = ~Pg 7g =- "g = Mg lnP = "M92 + € dz RT RT ~Mgz p(z)=p(z = 0)e RT Nma ~Mgz 5/ PV = "RT = NAkBT P = nkBT M n(z) = n(z = O)e RT NAma -mg2 M = Nam n(z) =n(z = O)e *Bf 6/
+3 pts
+0,5
+1.5
+5 pts
+2
+2
+0,5
+1 > Il
+7/j = ~Dgradn D mag n(z)'z kBT CIransferts thermiques 8. pSdxcdT = j(x)Sdt - j(x + dx)Sdt = 'LSdxdt = 1"Sdxdt dx ax2 pc 'I = 1 92 021 Pc@I = 0 a = Pc at @x2 @x2 at 9. T = T2 Tyx + T1 10. Pth =js = -19 Pth = 1s1-12 dx 11.AV + AT R + Rth 1 + Pth
+0,5
+16 pts
+2.5
+2
+15
+12. Vi - Vz = RI T - Tz = RthPth Rth = 1 1S 13. La résistance thermique Rch' mesure la résistance qu'une épaisseur de matériau oppose au passage de 1a chaleur Elle constitue en fait son pouvoir isolant qui est dautant plus fort que le Rth est éleve. 14.1. To Text To T(x = e)+ T(x = e) + T(x = 2e) - T(x = 2e) Text 0,5 2e Ze 14.2. To Text + 1)$ =e Av+2Aa 4 = 2 AvS double Rth JaS double (2+4) JvS 1a5 Avda 14.3. Rth @double Rth simple 10 simple = 0,02 < 1 Avec un double vitrage le flux qui quitte la pièce 1,5 AvS Psimple th double Av+21a de température To est plus faible que celui avec un simple vitrage, doù /avantage du double vitrage.
+D/Ligne électrique 15.1. transfert thermique par convection_ h = Wm-2K-1 15.2. Rth hs 16. P = YEZnR?L ETR?L = L12 YnR2 17. h2nRL[T(R) To] = 212 YIR? T(R) = To + Zxhn? RJ 18 T(R) 820 K > Tf le conducteur fond et le fil se coupe
+4 pts
+0,5
+0,5

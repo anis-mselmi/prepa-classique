@@ -1,0 +1,51 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de 1'Enseignement Superieur
+Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs Session : 2001
+Concours en Mathématiques et Physique Epreuve de Physique
+Date Samedi 9 juin 2001
+Heure : 8 h
+Durée : heures
+Nb pages 6
+Barème Pb 1:10/20 (I : 4 ; II : 4 ; III 2) ;Pb 2:10/20 (A : 1 ; BI 3,25 BII : 2 BIII 2,75 BIV : 1)
+lusage d'une calculatrice (non-programmable) est autorisé Si, au cours de l'épreuve, un candidat repère ce qui lui semble être une erreu: d'énoncé, il le signale sur sa copie et poursuit sa composition en indiquant les raisons des initiatives qu'il est amené à prendre. L;épreuve comporte deux   problèmes   indépendants; le   candidat   peut   les résoudre dans   lordre qui Jui Prer / convient; en respectant néanmoins la numérotation des questions. ####*###x*##*t#**#####x#x 85; : .  PREMIER PROBLEME Dans ce problème; on se propose de relier le contraste des franges d'interférence à la cohérence temporelle de la source primaire; en étudiant les interférences obtenues avec le dispositif des fentes d'Young (cf figure 1). La fente source fine F, parallèle à laxe (Oz), est placée au foyer objet dune lentille convergente (Li) Elle éclaire une plaque opaque percée de deux fentes fines F, et Fz parallèles à la fente F, Kistantes de a et symétriques par rapport à l'axe optique (FO). L'écran d'observation (E) se trouve dans le plan focal image dune deuxième lentille convergente (L2) de distance focale image f2. Dans tout le problème, on néglige le phénomène de diffraction lié aux montures des deux lentilles et on suppose satisfaite /' 'approximation de Gauss de l'optique géométrique.
+CM
+3
+(L)
+ûigure 1
+LInterférences_en_lumière _parfaitement cohérente_temporellement L.l.a. Une source de lumière monochromatique existe-t-elle réellement ? Expliquer . LL.b. Le dispositif de la figure 1 réalise-t-il une division du front   d'onde ou une division de lamplitude de londe primaire ? LL.c. Les franges d'interférence sont-elles localisées ? Quelle est le rôle de la lentille Lz utilisée ?
+Concours Mathemetqucs et Physlque Sesson Juin 2001
+Epreuve dc Physique
+Page  1/6
+Srak
+
+--- page 2 ---
+DEUXIEME PROBLEME
+Données utiles
+Le vide est caractérisé par sa permittivité électrique € = 10-9 Fm et sa perméabilité 361 magnétique Ho = 4r 10-' Hm '  3 Pour un champ vectoriel A on rappelle que rot rot A = grad div A - A A Une grandeur soulignée représente une fonction complexe dont la partie réelle est la grandeur physique associée. A - Questions préliminaires 1.1. Qu' 'appelle-t-on conducteur parfait ? Quelles sont les   valeurs  des champs   électrique E et magnétique B dans un tel conducteur ? Que peut on dire de la dissipation d'énergie dans un tel conducteur ? 1.2. On considère deux milieux voisins; séparés par une surface S, et ayant chacun la permittivité €o et la perméabilité Ho du vide. On désigne par n12 le vecteur unitaire de la normale à $ en un point Mo, dirigé du milieu noté (1) vers le milieu noté (2), et par 0 et js les densités surfaciques de charge et de courant au
+point Mo. Soient (É1,B1) et (É2,B2) les champs électrique et magnétique dans les milieux (1) et (2) respectivement. Ecrire les conditions aux limites sur ces champs au point Mo de la surface S. Que deviennent ces équations à linterface vide (milieu (1)) conducteur parfait (milieu (2)) ? 2.1. Donner les  équations de Maxwell dans le vide dépourvu de charges et de courants et indiquer la signification physique de chacune delles. 2.2 En déduire les équations de propagation du champ électromagnétique dans le vide. Qu'elle est la vitesse c de propagation de la lumière dans le vide illimité ? Calculer sa valeur numérique. B - Propagation &une onde électromagnétique entre deux plans métalliques parfaits LStructure de londe
+On considère deux plans métalliques P et P parfaitement conducteurs, distants de d perpendiculaires à l'axe (ox) et symétriques par rapport au plan (yoz) dun repère orthonormé 9 direct R(oxyz) de base U *, Uy, Uz On se propose d'étudier la propagation; dans le vide qui règne entre ces deux plans; suivant la direction (oz), dune onde électromagnétique de pulsation @ et de vecteur donde k zkg u 2 Le champ électrique s'écrit en notation complexe {(0-kg2) E(M,t) =f(x) e u y 3 où i est le nombre complexe tel que i? = -1.
++d2
+3
+u
+U z
+P
+d2
+Concours Mathématiques et Physlque Sesson Jnin 2001
+Epreuve de Physiquc
+Page 46
+
+--- page 3 ---
+Ll. Etablir, à partir de l'équation de propagation du champ électrique E , léquation   différentielle vérifiée par la fonction fx) L2. Montrer que la solution qui correspond à une onde qui se propage entre les deux plans; peut se mettre sous la forme f{x) = A; cos(ax) Ap sin(ax). Exprimer a en fonction de @, kg et c 13. En utilisant les conditions que doit vérifier le champ E sur les plans P(x=d2) et P(x =-d/2), montrer  qu'on trouve plusieurs modes de propagation possibles dont chacun est caractérisé par un nombre entier n (que /on supposera positif). Préciser les solutions pour n pair et pour n impair et décrire le type d'onde auquel on aboutit. L4. Exprimer kg en fonction de @, c n et d. Le milieu est-il dispersif ? LS. Montrer  que pour chaque mode de propagation possible entre les deux plans; la pulsation doit   être supérieure à une  valeur @cn que Pon exprimera en fonction de 1, d et c @cn est appelée pulsation de coupure.
+L6.
+Représenter  la variation de lamplitude du champ électrique E de londe pour les trois premiers modes n = 1, 2 et 3. On prendra Ai = Ap = Eo. 17. Déterminer pour chaque mode la vitesse de phase Vq et la vitesse de groupe Je En déduire la relation qui lie ces deux vitesses.
+L8
+Comparer Vw et Vg à la vitesse c de la lumière dans le vide. Commenter ces résultats. Dans la suite du problème; on s'intéressera à létude du mode fondamental (n = 1) uniquement IX i@t-kez) pour le quel le champ électrique s'écrit sous la forme E(Mt) = Eo cos e Uy d
+L9
+Déterminer le champ magnétique B (Mt) associé à É (Mt) Est-il transversal ? II Pression_de_ radiation
+[l. Déterminer les densités surfaciques de charge @ et 9  qui   apparaissent respectivement sur les plans P et P' Conclure alors sur les forces électriques qui s'exercent sur ces plans.
+I.2. Déterminer   les   expressions des densités   surfaciques de courant ës et j ' qui apparaissent respectivement sur les plans P et P" IL.3. Déterminer le champ magnétique Bd créé par un élément de surface dS du plan P en un point M du vide infiniment voisin du plan. Vue de M la surface dS est assimilée à une nappe
+de courant portant la densité surfacique is
+L4. Déterminer alors lexpression de la force magnétique df m qui   agit sur lélément de surface dS du plan $. [.S.a. Montrer que londe exerce sur le plan P une pression de radiation IL Déterminer son expression ainsi que sa valeur moyenne dans le temps < II > ; ony fera apparaître la pulsation de coupure @c1 du mode fondamental IS.b. Montrer, sans   faire de calcul, que londe considérée exerce sur le plan P' une pression de radiation Il et que II' = II
+Concours Matbematiques et Phyelquc Sesulon Jutn 2001
+Eprcuve de PhysJquc
+Page S6

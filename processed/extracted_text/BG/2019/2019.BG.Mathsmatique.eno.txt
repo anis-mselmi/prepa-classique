@@ -1,0 +1,51 @@
+--- page 1 ---
+République Tunisienne Ministère de PEnseignement Supérieur et de la Recherche Scientifique Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs Session 2019
+1+n9ji u1@E9p@; Gusjega LLw Zibji a1 GliJi OliNi 05 12l c) 2019 5893
+Concours Biologie et Géologie Epreuve de Mathématiques
+Date: Lundi 10 Juin 2019
+Heure: 8H
+Durée 3H
+Nbre de pages : 3
+Barème
+Exercice 1 : 8 points Exercice 2 8 points Exercice 3 : 4 points
+La qualité de la rédaction et de la présentation, la clarté et la précision des raisonnements entreront pour une part importante dans Yappré - ciation des copies. Lusage des calculatrices non programmables est autorisé. Tout résultat fourni dans lénoncé peut être admis et utilisé par la suite, même sil n'a pas été démontré.
+Exercice 1 On se place dans R3 muni de la base canonique B = (e1e2 e3) et du produit scalaire usuel ( On note par f Yendomorphisme de R3 défini par
+1 1 f(e1) 2 e1 + e3 , 2 2 ' f (e2) =e2, 1 1 1 ,  f (e3  = 2e1 + 2e3 1
+1. Donner la matrice A de f dans la base canonique B. 2 Vérifier que f est une projection. 3 . Soit u un vecteur de R3 de coordonnées (x,y,z) dans la base B. Soit B' = {u1,u2,u3} où les vecteurs u1,12,u3 sont donnés par
+11 = e1 + e2 + e3, V2 = e1 ~ 2e2 + e3, U3 = e1
+e3.
+(a) Vérifier que B' est une base de R3. (b) Donner la matrice de passage P de la base B à la base B' et calculer son inverse P-1 (c) Quelles sont les coordonnées de f (u) dans la base B' ? 4 (a) Montrer que u1, u2 et u3 sont des vecteurs propres de f. Donner les valeurs propres associées. (b) Déduire; de la question précédente, la matrice A' de f relativement à la base B' 5 (a) Montrer que Kerf = Vect {e1 e3}  (b) Donner une base de limage de f et en déduire une équation cartésienne de Imf . (c) Montrer que Kerf est orthogonal à Imf
+
+--- page 2 ---
+Concours Biologie et Géologie
+Epreuve de Mathématiques
+Page 2 sur 3
+6 (a) Montrer que f est une projection orthogonale sur le plan P déquation x = z = 0 (b) Soit le vecteur v = e1 + 2e2 + 4e3' Déterminer le vecteur uo € P tel que
+Ilv uoll = min |lv ~ u|l ueP
+7 On considère la fonction h : R2
+R, définie par
+
+h(x,y) = (x+y -1)2+ (y - 2)2 + (x +y - 4)2
+(a) Soit w le vecteur; de R3 , donné par w = (x +y,y,x + y). Vérifier que h(x,y) = llu =v1l2, où v est le vecteur défini dans la question 6-(b). os (b) Vérifier que w € Imf . (c) Déterminer le seul point critique %0 xo,yo) de la fonction h et vérifier que 00 est un minimum global de h. Retrouver le résultat de la question 6-(b)
+Exercice 2
+1. Soit a un réel strictement positif. On considère U une variable aléatoire réelle de densité
+1 si x €J0,a] a
+fu(x) = 0 sinon
+1
+
+(a) Déterminer la fonction de répartition Fu de U. En déduire la loi de U. (b) Donner Yespérance E(U) et la variance V(U). 2. On considère la variable aléatoire réelle X = a ~In 4 (a) Vérifier que X est bien définie. (b) Montrer que la densité de X est donnée par  , 2x 22 Q3 e si x > 0, o fx(x) =  sinon s 
++0 ~x2 VTt +0 g dx VT (c) Sachant que e dx = montrer que 1 e  0. 2 0 2 VT s (d) En déduire que E(X) = a 2  3 On considère la variable aléatoire réelle Y = X2  a  (a) Montrer que Y suit une loi exponentielle de paramètre 4   (b) Donner la valeur de Yespérance de Y, puis déduire E(X?) .  (c) Calculer V(X)  1  s 
+
+--- page 3 ---
+Concours Biologie et Géologie
+Epreuve de Mathématiques
+Page 3 sur 8
+4. Soit n € N*, on considère un échantillon ( X1, Xn) composé de variables aléatoires indé- pendantes ayant toutes la même loi que X 2 n On note Sn la variable définie par Sn Xk. n vT k=i (a) Montrer que Sn est un estimateur sans biais de a. (b) Calculer V(Sn)- (c) On dit que Yestimateur est convergent; si le risque r (Sn) = V(Sn) + (E(Sn) ~ a)? tend vers 0 lorsque n tend vers +0. Vérifier que Sn est un estimateur convergent de a. 5 On suppose que a < 1. (a) Ecrire Yinégalité de Bienaymé-Tchebychev pour la variable Sn, et en déduire que
+1 Ve > 0, P(lSn ~ a| <:) 2 1 _ ng?
+(b) Déterminer une valeur de n pour laquelle [Sn 1 Sn + 1] est un intervalle de confiance pour a, avec un niveau de confiance au moins à 95%.
+Exercie 3 1 Soit p ej0,1[et (X,Y) un couple de variables aléatoires dont la loi conjointe est définie par pour tout (n,k) €N* x N,
+Chpk+1(1 _ p)2n-k-1 si k < n, P(x =nnY =k) = 0 sinon.
+(a) Montrer que X suit la loi géométrique de paramètre p. (b) Montrer que pour tout k € N, on a : P(Y = 0) = 1_P 2 _ p (1 _p)k-1 P(Y = k) = Vk 2 1. (2 ~p)k+i '
++0 1 On donne Ck "n+kxn = pour |x| < 1. (1 _ x)k+1' n=0
+(c) Vérifer que la loi conditionnelle de Y sachant (X = n) est une loi binomiale dont on déterminera les paramètres. (d) Calculer E(Y), E(Y(Y ~ 1)) et déduire V(Y)- 2. Soient ^ ej0,1[, U une variable aléatoire de Bernoulli de paramètre ^ et V une variable aléatoire géométrique de paramètre ^, indépendante de U. On note par Z = UV. (a) Sans calculer la loi, déterminer lespérance de Z. (b) Calculer P(Z = 0), et pour tout k € N*= déterminer P(Z = k) (c) Trouver un réel ^ ej0,1[ en fonction de p tel que Z suit la même loi que Y.
+Fin de lénoncé

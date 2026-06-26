@@ -1,0 +1,49 @@
+--- page 1 ---
+KPPUIILIQUF TUNISIFNNE Ministerc dc |'Enscivncmcnt Supéricur Contoorf nallonanx denirfr A01 cytles de formatlon  'nrentrurs Seoion 20)6
+4Ui{i41 "ykyosus JanymieAji Sniummfji 20(16 ;,y
+Concours en Physique et Chimie Epreuve de Physique
+Date Jeudi 08 Juin 2006
+Hcure : 8 H 00
+Durée : 4 H
+Nbre pages 06
+Barème
+Partie [ : 08 pts Partie II : 03 pts ; Partie III : 03 Pts
+Partie [V : 06 pts
+L'usage d'une calculatrice non programmable est autorisé
+L'épreuve est constuuée de quatre parties. Les parties III et IV pewvent ëtre traitées indépendamment.
+Un candidat peut toujours se servir d'un résultat fourni par l'énoncé pour continuer sa composition.
+Dans la totalité de l'épreuve, l'espace est rapporté à un référentiel galiléen Ro(Oxyz) de base orthonormée directe (5 5,, 5z) On s'intéresse à la propagation unidimensionnelle suivant l'axe Ox des ondes acoustiques dans un fluide supposé parfait. Dans le réfërentiel %o le fluide au repos est caractérisé par des champs de pression Po et de masse volumique (o uniformes. La présence d'une onde acoustique dans le milieu crée une perturbation: Ainsi les champs; définis précédemment; deviennent P(x,t)= P; + P (x,t) P(x; t)=Po + P (x,t) ; p (x,t) définit la surpression et P (x,t) est la modification de la masse volumique du fluide. On désigne par v(xt) = v(x; t)z le champ de vitesses dans le tluide.
+Dans toute l'épreuve, on suppose que l'écoulement du fluide est irrotationnel, isentropique et on néglige F'influence de la pesanteur. On 1 rappelle que le coefficient de compressibilité isentropique s'écrit : Xs d 2 P dP Partie [ : Onde acoustique progressive InstIU7 QRepafats  1 - Rapreler en quoi (bxelxotheoue` consiste [approximation acoustique. 2 Eupes ) Duns_Lout_le_problème Cette approximution seru prise en compre Congest ~
+2 -
+2-1- Rappeler l'equation locale de conservation de la masse. En deduire la relation liant Po @(xst) et %(9) qu'on notera ( [ ) dx 2-2- Commnenler le signe ( ) qui apparait dans cette relation.
+"ocoury cu Physiquc ci 'hhmlc Scslou Julu 2u06
+Fprcuvc dc Phynlquc
+Pekc / / 6
+
+--- page 2 ---
+3-
+3-1- Rappeler |'équation vcctorielle d'Euler décrivant Ic mouvcmcnt d'unc particule fluide en absence dc forces volumiqucs extéricurcs; 3-2- [Jéduire la rclation liant @vlx  '2 4p612 et P, , qu'on notera (2) Ôx
+4- Etablir la rclation liant 0, ,ts .P (x.t) et P(x,t), qu' on notera (3).
+5- En combinant les rclations (1). (2) et (3), montrer que les équations de propagation en v(x,t)et en p (x,t) pcuvent se mettrc sous la forme a*g (x,2 ôg(x,t) = 0 , âx ôt? où g désigne ['une des grandeurs citées. 6 - 6-1- Déduire de ce qui précède ['expression de la célérité c de l'onde acoustique en fonction des caractéristiques du milieu Po et %s 6-2- Etablir [expression de c dans le cas dun gaz parfait de température To et de masse molaire M. On désigne par R la constante des gaz parfaits et par Y le rapport des capacités C thermiques isobare et isochore % = C 6-3-Calculer la célérité c de londe acoustique dans [air. On donne M =29 g mol-' To = 298 K; R = 8,31 J K! mol-1 et Y =1,4.
+On place à /origine 0 du référentiel %o un émetteur acoustique produisant une surpression sinusoïdale de la forme P (o,t)= Pm cos(t)_ L'onde correspondante en tout point M dabscisse x et à un instant t s'écrit P (x,t)= Pm cos(t ~ kx) avec k = @ c 7-1- Caractériser ['onde décrite par la surpression P (x;t) 7-2- Definir la longueur d'onde 1 correspondante: Calculer sa valeur dans F'air à la température 25 C pour un ultrason de fréquence f = 40 kHz puis pour un son audible de fréquence f = 400 Hz. 8- 8-1- En utilisant  la relation (2), etablie à la question 3 exprimer le champ de vitesses '(x.t) des particules fluide en fonction de la surpression p (x,t) Exprimer la valeur maximale Vm de v(x.t) en fonction de Po , c et Pm 8-2- Calculer la valeur de Vm à la température 25*C lorsque la supression pm = 8 10-2 Pa. On donne Po (air) = 1,3 kg m 4J L 'approximation acoustique est-elle vérifiée Justifier . 9~ Pour Funite de surface perpendiculaire à la direction de propagation. on définit en notation @ (xst) complexe. l'impédance acoustique du milicu par la relation 2 = v(x. 9-[- Justiticr cette délinition cn la compurant À celle détinie en électricité Exprimer Z en tonction de c et Po Commenter le résultat. 9-2- Calculcr la valcur de Z 2 pouc ['air ct pour ['eau à la température 25 C. (n donne pxur |cau Po = 10' kg un et Xs = 4,5 10*10 Pa"'
+vhicoura cu Phyalquc ct 'hmlc Scuslun Juln 2006
+Eprcuvc dc Phyxlque
+PuBe 1/6
+
+--- page 3 ---
+10-
+10-I- Fxprimcr 1'éncrgic cinétique volumiquc c du fluide cn fonction dc v(x,t) ct dc P, 10-2- (n définit la densité volumiquc d' énergie potentiellc Cp par : € p = 14s p} (x,t) . Déduirc la densité volumiquc de l'éncrgie acoustiquc totale € en fonction de P et v(x,t) .
+11-1- Déterminer la moycnnc temporelle de la dcnsité volumique de |'énergie acoustique 4€ > en fonction dc Yn ct Po 11-2- En admettant que   l'énergie acoustique se propage à la célérité c, déduire la moyenne temporelle <P de la puissance transmise par 1'onde acoustique à travers une surface S perpcndiculaire à la direction de propagation en fonction de S, Pm ,P, et c. <P > 11-3- On définit l'intensité acoustique [ par [ = s Calculer [ dans   le cas de Fair à la température 25 C pour une surpression maximale =8 10*2 Pa et une masse volumique Po(air) = 1,3 kg m 43 Pn 12- On définit le niveau sonore; exprimé en décibels (dB) par la relation N =10l0gio où = 10-i2 W m 42 Io Io 12-1- Que représente I, 2 Calculer le niveau sonore correspondant à la valeur numérique de I de la question 11-3- 12-2- Quelle est la valeur de l'amplitude de la surpression Pp correspondant à un seuil de niveau sonore dit de < douleur > évalué à 120 dB ?
+Partie I Réflexion et transmission d'une onde acoustique
+On suppose maintenant que londe acoustique plane progressive harmonique précédente P1i (x,t) = Pn cos(0t -kix) atteint une surface; confondue avec le plan Y = 0, et séparant deux milieuY (a) et (b) Elle donne naissance à une onde retléchie p1r (x,t) dans le milieu (a) et une onde transmise Pu x,t) dans le milieu (b) (Figure [) On désigne par Ca et C les célérités des ondes acoustiques et par Poa et Pob les masses volumiques des milieux (a) et (b) respectivement.
+milieu (a)
+milieu (b)
+Onde réfléchie
+Onde transmise
+Onde incidentc
+Figure 1
+13-
+13-1 - Ecrir les expressions   générales des   surpressions   rétlechie P (x,t) et transmise Pu (x,t) 13-2- En exploitant les résultats de la question 8-1- déduire les expressions des vitesses particulaires v (x.t) ct v, (x,t)
+'oncours cu Physlaluc ct 'hlwlc Scsslou Juln 2066
+Eprrcuve dc Physlquc
+Papç 3/ 6

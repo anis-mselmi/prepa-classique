@@ -1,0 +1,169 @@
+Page 1 sur 4 
+ 
+DOCUMENT ANNEXE 
+ 
+ 
+ 
+ 
+Magnésium 
+Le magnésium doit son nom à la ville grecque de Magnesia. Cet élément existe en grande 
+partie dans les profondeurs du manteau terrestre, mais on le trouve également dans l'eau de 
+mer et dans de nombreux minéraux de la croûte terrestre.  
+Le magnésium a de nombreuses applications importantes. Les alliages de 
+magnésium sont non seulement solides, mais aussi légers, et sont donc 
+utilisés dans toute une série d'objets, des roues de voiture aux appareils 
+photo.  
+ 
+ 
+Depuis des siècles, de nombreux minéraux de magnésium d'origine naturelle sont utilisés dans 
+la médecine traditionnelle. Le carbonate de magnésium, ou magnésie, réagit avec l'acide de 
+l'estomac pour calmer les indigestions. 
+Le chauffage de la magnésie produit de l'oxyde de magnésium, qui est l'un 
+des ingrédients du ciment 
+Les composés de magnésium sont également utilisés dans les feux 
+d'artifice, et ils brûlent à chaud avec une flamme blanche.  
+Les sels composés de magnésium, appelés sels d'Epsom, du nom de 
+l'endroit en Angleterre où ils ont été exploités pour la première fois, agissent comme un 
+relaxant musculaire. Le silicate de magnésium, connu sous le nom de talc, est un minéral mou 
+utilisé dans les poudres corporelles. 
+Concours Mathématiques et Physique 
+
+ 
+Page 2 sur 4 
+Épreuve de chimie section MP 
+Année : 2021-2022 
+Notations et données numériques 
+États des constituants physicochimiques : 
+(sd) solide ; (liq) liquide ; (g) gazeux 
+Lorsque aucune mention n'est spécifiée, les ions sont supposés implicitement en solution aqueuse. 
+Notations :  
+• xi : la fraction molaire de « i » dans la phase liquide. 
+• yi : la fraction molaire de « i » en phase vapeur. 
+• 
+ip
+σ  : pression de vapeur saturante de « i ». 
+• 
+i
+ϕ
+µ  : potentiel chimique du constituant « i » dans la phase φ. 
+• L’exposant * signifie corps pur. 
+• L’exposant  signifie standard. 
+• ESH : électrode standard à hydrogène. 
+Constantes physiques : 
+• Constante des gaz parfaits : R = 8,314 J.mol-1.K-1. 
+• Constante d'Avogadro : NA = 6,02×1023 mol-1. 
+• Constante de Faraday : F = 96485 C.mol-1. 
+• Pression standard : p 
+1
+.
+bar
+=
+ 
+• Pression atmosphérique : 
+1
+1
+.
+p
+atm
+bar
+=
+≈
+ 
+• Concentration standard : C 
+1
+1
+.
+.
+mol L−
+=
+ 
+Données numériques : 
+• Le numéro atomique du magnésium est Z=12. 
+• Les masses atomiques en (g.mol-1) : Mg = 24,31 ; Cu = 63,55. 
+• Capacités calorifiques molaires standard supposées indépendantes de la température : 
+p
+C
+(
+)
+1
+1
+.
+.
+J K
+mol
+−
+−
+ 
+Mg(sd) =24,87; Mg(liq) = 30,96; Mg(vap) = 20,8. 
+• Enthalpie molaire standard de vaporisation du magnésium liquide : 
+vap
+m
+H
+∆
+
+1
+127,4
+.
+kJ mol −
+=
+ 
+Conversion :  
+• 
+(
+)
+(
+)
+273
+T K
+C
+= θ °
++
+ 
+ 
+ 
+On suppose que  
+• Les gaz sont parfaits. 
+• Les enthalpies de changements d’état sont supposées indépendantes de la température. 
+ 
+ 
+ 
+ 
+
+ 
+Page 3 sur 4 
+Épreuve de chimie section MP 
+Année : 2021-2022 
+Point de fusion, point d’ébullition et enthalpie standard de fusion 
+ 
+ 
+ 
+FIGURE 1 
+ 
+
+ 
+Page 4 sur 4 
+Épreuve de chimie section MP 
+Année : 2021-2022 
+Diagramme d’équilibre solide-liquide 
+ 
+ 
+ 
+FIGURE 2 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

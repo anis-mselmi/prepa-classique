@@ -1,0 +1,39 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Lsi r)sli Ministère de PEnseignement eli Nkdi Supérieur, de la Recherche ilj Scientifique et de la UaJajleasji ) Technologie. 4449 (Jsaji 9 Concours Nationaux d'Entrée aux Cycles Jssal aibjl Si bliji de Formation d'Ingénicurs MhiJi Ns Jaly J Session 2008 2008 ;,9* Concours Mathématiques et physique Corrigé de Pépreuve de Chimie Partie I : Chimie générale_(2 pts) 0.5 pt 1-1) La structure électronique externe de lélément manganèse 4s2 3d5 0.5 pt 1-2) La souS couche <d > de Pélément manganèse est en cours de remplissage donc c'est un élément de transition 0.5 pt 1-3) (4s- cet élément appartient à la 4ème période 4s? 3d .(5+2-7) cet élément appartient au groupe 7 du tableau périodique 0.5pt 1-4) Létat doxydation +II est le plus stable car il correspond à une sous couche 3d5 à moitié garnie
+Partie II : Empilements_compacts_(2,5 pts2 0.5 pt II-1) Voir figure a 0.5pt II-2) Voir figure b 0.5 pt I1-3) Coordinence 12 0.5 pt II-4) Compacité-0,74 0.5 pt 1 II-5) TMn a Mn '=1,234 ; 2v2
+(0.1)
+2
+(0,1)
+(0,1)
+2
+[0,1)
+2
+(0,1)
+Figure a
+Figure b
+Partie IIL: Diagramme dEllingham (3,5 pts) 0.25 pt III-1) 2M(s) + 02(g) ? 2MO(s) 0.25 pt [II-2) L 'expression des   capacités   calorifiques standard en fonction de la température est nécessaire: Cp =f(T) 0.5 pt III-3) ArG = (2.A,HMO 2.A,HM-A,H%,) T.(2. SMo 2. SM So. ) 0.25 pt P III-4) KP= = (o,' )eq 0.25 pt ~ArGC INSTiTUT III-5) KP =e RT GIUOIHeVu 4r III-6) QUDES  SFNI 05525us 0.25 pt a) Pour T<T' ArG (T) = ~400 + T.(0,143) kJ.mol  0.25 pt b) Pour T <T< T' LrG (T) = -510 +T.(0,300) kJmol 0.25 pt C A,H Mo = -200 kJmol-' (Ordonnée à Forigine de la demi droite TsTf ) 0.5 pt Afust HM = 55 kJ smol-' (Différence entre les ordonnées à /origine des deux demi droites T<T' et T2Tf )
+Concours Mathématiques et physique Session 2008
+Épreuve de Chimie Corrigé
+Page 1/4
+
+--- page 2 ---
+0.25 pt e Afus S M = 78,6 Jmol-' K"' (Pente de la demi droite T<Tr) = 7,34.107 -63 0.25 pt III-7) (Poz)eq bar
+Partie IV : Structures ioniques (2,5 pts2 0.25 pt IV-1) Système cristallin cubique 0.25 pt IV-2) Type de réseau cubique à faces centrées (CFC) IV-3) Les anions touchent les cations selon la moitié de Farête de la maille cubique 0.25 pt a RMn = Ro 2 0.25 pt RMn = 0,903 R 0.25 pt Rmn = 0,903 RMn IV-4) = 0,684 Ro 1,320 Ro 0.25 pt 0,41< Rmn <0,73 Poxyde MnO cristallise selon le type NaCI Ro 0.25 pt IV-5) Coordinence des cations 2 6 0.25 pt Octaédrique 44 T(R} +R? ~3 0' Mn? 0.25 pt IV-6) Compacité du réseau 2 C = a; 0.25 pt 3 C=0,58
+Partie V: Diagramme de Pourbaix (5 pts2 En considérant à 298 K: Les espèces solides suivantes Mn ; MnOz et Mn(OH)2 Mn 2+ Les ions en solution une fois molaire et MnO4 V-1) Equations E=f(pH) des courbes frontières pH de précipitation de Mn(OH)z Mn(OH)2 = Mn 2+ + 2 OH Pour une solution molaire en Mn?+ Mn(OH)2 précipite si : [Mn? 'J[OH]? 2 Ks Ke? Ke? or Ke-[OHJ[H ] 3 [OH]? = 3 [Mn?*] 2 Ks [n] H'7 2+1 Ke ) ~log[H'] 2 - {log([Mn` 2+ Ke ) [H']< 4 ([Mn Ks Ks 0.25 pt 2+ pH 2 4(-log[Mn 71 2logKe + logKs) 0.25 pt pH27,3 0.25 pt Nombre d'oxydation pH 7,3 +VII MnO4 +IV MnOz +II Mn Mn(OH)2 0 Mn
+Concours Mathématiques et physique Session 2008
+Épreuve de Chimie Corrigé
+Page 2/4
+
+--- page 3 ---
+Couple MnO4 / MnOz quelque soit pH 0.25 pt MnO; + 3e- + AF* 2 MnOz + 2H2O 'MnO;MnO2 =EMnO; Mnoz o,08pH +0,02.log[MnO4] 0.25 pt =E 'MnO;/MnOz =1,69 _ 0,08.pH V Couple MnOz Mn" 2+ quelque soit pH < 7,3 0.25 pt MnOz + 2e- + 4Ft 2 Mn?+ + 2H2O =E 1 MnOz/Mn?+ 'MnOz/Mn?+ 0,12 pH + 0,03.l0g [Mn2+] 0.25 pt 3 E =1,23 = 0,12.pH V MnOz/Mn?+ Couple Mn 2+ Mn quelque soit pH <7,3 0.25 pt Mn?+ + 2e- 7 Mn 0.25 pt EMn?+ /Mn  EMn?+ /Mn + 0,03 .log[Mn?*] EMn?+ /Mn" =-1,19 V Couple MnOz Mn(OH)2   quelque soit pH2 7,3 0.25 pt MnO2 + 2e- + 2H+ 2 Mn(OH)2 EMnOz/ /Mn(OH) 2 =EMnoz/Mn(OH)2  ~o,o6pH-EMnoz/Mn(OH)2= SEMnOz/ /Mn(OH)2 ~O,O6pH Calcul du potentiel standard EMnOz/ /Mn(OH)z Par continuité à pH-7,3 EMnOz/ /Mn2+(7,3)=EMno2/Mn(OH)2 (7,3) 0.25 pt EMnOzl /Mn(OH)2 =0,792V EMnOz/Mn(OH)z = 0,79 7~ 0,06.pH V Couple Mn(OH)2 Mn quelque soit pH2 7,3 0.25 pt Mn(OH)2 + 2e- + 2F æ Mn + 2H20 EMn(OH)2/Mn = EMn(OH)z/Mn - 0,06pH Calcul du   potentiel   standard EMn(OH)z/Mn par   continuité à pH=7,3 EMn(OH)2/Mn(7,3) EMn?+ /Mn(7,3) 0.25 pt EMn(OH)2/ /Mn = -0,75V EMn(OH)2 / /Mn = - 0,75 _ 0,06.pH 1 pt V-2) Tracé du diagramme potentiel-pH du manganèse simplifié en solution aqueuse AEiD? coroson
+Mno;
+Kno passivation
+2+ Mn"
+10 [aionz]
+coirosion
+passivation
+Hp0 H?
+M6
+unmnwte
+0.5 pt V-3) Indexation voir diagramme potentiel-pH Concours Mathématiques et physique Session 2008 Épreuve de Chimie Corrigé
+Page 3/4
