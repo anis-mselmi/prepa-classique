@@ -1,18 +1,234 @@
+--- page 1 ---
+INSTRUCTIONS
+Cette épreuve comporte deux parties indépendantes_ La première partie (chimie inorganique 50% de la note) comporte 10 pages (p2-pll) La deuxième partie (chimie organique 50% de la note) comporte 8 pages (pl2-pl9) Tout résultat doit être écrit dans les cadres adéquats. Seul lusage des calculatrices électroniques de poche non programmables est autorisé. Les résultats numériques sans unité ou avec une unité fausse ne seront pas comptabilisés: Aucun échange entre les candidats n'est autorisé. En cas de besoin utiliser les pages vides en fin du cahier. Dans ce cas, il faut le signaler dans la case allouée à la réponse remise en fin de cahier. Si au cours de Fépreuve, un candidat repère ce qui lui semble être une erreur d'énoncé, il la signale sur sa copie et poursuit sa composition en indiquant les raisons des initiatives qu'il est amené à prendre:
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 19 PAGES NUMEROTÉES 1 sur 19,2 sur 19, 19 sur 19
+Concours Physiquc ec (honro
+Page sur 19
+Concours Physique et Chimie Session juin 2015
 
+--- page 2 ---
+Partie I : Chimie inorganique NOTATIONS ET DONNÉES NUMÉRIQUES Les gaz sont supposés parfaits. Lorsqu'aucune mention n'est spécifiée; les ions sont supposés implicitement en solution aqueuse. On supposera que les volumes molaires des liquides sont indépendants de la pression et de la température. Notations Les abréviations suivantes sont utilisées pour désigner létat physique des constituants (g) pour gazeux, (sd) pour solide; (liq) pour liquide et (aq) pour aqueux. Ln logarithme népérien. logio logarithme à base 10. Constantes physiques Constante d'Avogadro NA =6,02*102 mol-' Constante des gaz parfaits R = 8,314 JK-' mol-' (RxT)F Ln(10) = 0,06 V à 298 K Pression standard p =lbar
+Masse molaire atomique (g.mol-') Argent (Ag) = 108. Masse volumique de Fargent solide p=10,55 gcm Rayon métallique du palladium (Pd) RPd = 140 pm Potentiel redox s-andard (à 298 Ket à pH = 0) du couple Pd?* /Pd(sd) E8 =0,99v. Produit ionique de Feau (à 298 K) Ke =10-14. Produit de solubilité (à 298 K) pKs Pd (OH)2sd) Z =31,02. À298K, PdOgd) +H,0 => Pd?+ +2HO logio [Pa?+J =-3,02-2x pH
+On rappelle Fair contient en pourcentages molaires 20 % de dioxygène et 80% de diazote
+Page 2 sur 19 Concours Physique et Chimie Session juin 2015
 
+--- page 3 ---
+Partie ] Chimie inorganique PROBLÈME [ CRISTALLOGRAPHIE L'argent cristallise dans un réseau compact cubique à faces centrées. Le paramètre de la maille cubique est noté QAg'
+1) En se limitant à une seule maille du réseau; représenter les centres des atomes effectivement présents sur un plan correspondant à une face du cube.
+2) Donner [expression du rayon métallique de Fargent RAg en fonction de la masse volumique pAg et de la masse molaire MAg- Calculer sa valeur.
+3) Le Palladium cristallise dans un réseau cubique à faces centrées et donne une solution solide avec /argent. 3-a) Quelle pourrait-être la nature de cette solution solide
+3-b) Quelles sont les conditions de son obtention
+Page 3 sur 19 Concours Physique et Chimie Session juin 2015
 
+--- page 4 ---
+Partie ] Chimie inorganique 3-c) Exprimer la formule chimique de cet alliage en fonction de la fraction molaire du palladium
+PROBLÈME II DIAGRAMME BINAIRE On donne le diagramme binaire liquide-solide du système Argent(Ag)-palladium(Pd) sous la pression de bar . p = 1 bar 1600 1600 4555 1500 1500
+1400
+1400
+5 1300 1 1 1200 1100
+1300
+1200
+1100
+1000 962
+1000
+900
+900 100 Pd
+10
+20
+30
+40
+50
+60
+90
+Ag
+pourcentage molaire
+1) Indiquer sur le diagramme ci-dessus;_la nature des phases présentes dans tous les domaines Répondre sur le diagramme ci-dessus 2) On considère 10 moles d'alliage à 70% (pourcentage molaire) du palladium_ 2-a) Comment doit-on choisir la température pour avoir un système diphasé à léquilibre ?
+2-b) On choisit une température égale à 1400PC. Donner; à Téquilibre, Ies quantités de matière de palladium présentes respectivement dans la phase solide et dans la phase liquide.
+Page 4 sur 19 Concours Physique et Chimie Session juin 2015
 
+--- page 5 ---
+Partie [ Chimie inorganique
+3) À partir du diagramme binaire; déterminer les températures de fusion sous bar de Fargent pur Ofus(Ag) et du palladium pur Ofus(Pd) .
+4) Dans ce qui suit; on considère que la solution Tiquide argent-palladium se comporte comme une solution idéale. On note xhg  la fraction molaire de Fargent dans cette solution liquide. 4-a) Donner Fexpression du potentiel chimique   p"g de Fargent liquide dans la solution en fonction de x4g tiq Tet %8giq On rappelle que HAg désigne le potentiel chimique de Fargent liquide pur à la température T.
+4-b) La fraction massique de Fargent dans cette même solution est notée Wliq i) Monter que le potentiel chimique  Hag s'écrit sous la forme 1 =Wliq HAg =Fliq (T,p)-RxTx Ln] 1+ Kx Wliq Ag
+ii) Déduire ]expression de K en fonction des masses molaires MPd et Mag.
+iii) Identifier la fonction Tliq
+Page 5 sur 19 Concours Physique et Chimie Session juin 2015
 
+--- page 6 ---
+Partie I : Chimie inorganique PROBLÈME III DIAGRAMME D'ELLINGHAM On envisage détudier la réduction de AgzO en argent Ag par le palladium Pd, dans 1intervalle de température [7OOK, 230OK]; pour cela on dispose de Fallure générale du diagramme dEllingham relatif aux oxydes pour les couples PdOlPd et AgzO/Ag. Les réactions doxydation sont ramenées à une mole de dioxygène gazeux. 250 AgzO/Ag
+200
+4,G2 =-32,2+0,106xT
+PHOtdyPdl (2)
+150
+F
+100
+1 ~62,0+0,13xT F ,201xI 8 50 4,g: ~225,38+0, (1) &
+f :fusion de l'oxyde F:fusion du métal
+-50
+T(Kelyin)
+-100 ' 4 ; ' 2 ; ' é 2 : : ; : ; ; { {
+1) Donner 1expression puis calculer; à laide du diagramme ci-dessus, lenthalpie standard de fusion de Foxyde AgzO
+Page 6 sur 19 Concours Physique et Chimie Session juin 2015
 
+--- page 7 ---
+Partie [ Chimie inorganique
+2) Déterminer la température minimale T1 à laquelle il faut chauffer F'oxyde d'argent à Fair libre pour obtenir sa réduction en Argent métallique
+3) Écrire Jes équations-bilans associées aux droites (1) et (2) du diagramme.
+4) Déduire du graphe Tenthalpie standard de formation de Toxyde PdO(sd)
+5) Réduction de AgzO 5-a) Écrire Féquation-bilan de la réaction de réduction par le palladium Pd, d'une mole doxyde AgzO en argent Ag
+Page 7 sur 19 Concours Physique et Chimie Session juin 2015
 
+--- page 8 ---
+Partie I : Chimie inorganique
+5-b) Donner [expression puis calculer Fenthalpie libre standard de cette réaction à la température de 1000 K
+5-c)Cette réaction est-elle endothermique 0u exothermique ? Justifier la réponse
+PROBLÈME IV ATOMISTIQUE-OXYDORÉDUCTION-DIAGRAMME DE POURBAIX A) Étude préliminaire I)Donner la structure électronique de_latome de cuivre (Z =29) dans son état fondamental.
+2En déduire la position du cuivre dans le tableau périodique
+3) Le palladium est Tun des premiers voisins de Tagent dans 1a classification périodique. 3-a) Déterminer son numéro atomique Z =29 Cu
+Pd
+Ag
+Cd
+Au
+3-b) Donner sa structure électronique à létat fondamental.
+Page 8 sur 19 Concours Physique et Chimie Session juin 2015
 
+--- page 9 ---
+Partie / Chimie inorganique
+4) L'oxyde de palladium PdO est l'écriture < déshydratée > de lhydroxyde Pd(OH)z; Montrer que le fait de considérer la présence de lhydroxyde Pd(OH)2(sd) au lieu de Foxyde PdO(d) est justifié pour létude de la précipitation
+B) Diagrammes E-pH (Pourbaix) Les conditions d'élaboration du diagramme sont les suivantes les concentrations des espèces en solution sont égales à Ctra 10-5 molL' aux frontières une seule espèce est considérée dans chaque domaine.
+1,60
+Ctra 2105 mol.L-1
+1,40 1,34
+1,20
+1,00
+€o,8o
+0,60
+0,40
+0,20
+0,00 2 8 pH 8 2 8 8 8 8 8 8 ; : = 2 8 ;
+Page 9 sur 19 Concours Physique et Chimie Session juin 2015
 
+--- page 10 ---
+Partie [ Chimie inorganique
+5) Indiquer les domaines de prédominance et d'existence des espèces Pd?+ , Pd(sd) Pd(OH)z(sd) et PdOz(sd) . Justifier brièvement les réponses.
+Domaine (1) Domaine (2) Domaine (3) Domaine (4) Justification
+Déterminer le potentiel standard E du couple PdOzPd?+
+Établir 1expression puis calculer la valeur exacte du pH de début de précipitation de l'hydroxyde Pd(OH)z(sd) .
+Page 10 sur 19 Concours Physique et Chimie Session juin 2015
 
+--- page 11 ---
+Partie ] Chimie inorganique 8) Établir Pexpression puis calculer la valeur du   potentiel standard délectrode E; du couple Pd 7(OH )2(d) , Pd(sd) en fonction de E? du couple Pd?* / Pdsd) Ks; et Ke
+FIN DE LÉNONCÉ DE CHIMIE INORGANIQUE
+Page 11 sur 19 Concours Physique et Chimie Session juin 2015
 
+--- page 12 ---
+Partie II : Chimie Organique
+INSTRUCTIONS
+La note de cette partie constitue 50% de la note finale de la chimie (10 points)  L'épreuve comporte quatre parties indépendantes (A, B, Cet D) qui | peuvent être traitées dans 'importe quel ordre. Les six aldéhydes A; (i=1-6) et les carbanions correspondants   A8 (i=1-6) cités dans les quatre parties, sont ceux donnés dans le préambule .
+DONNÉES Numéros atomiques (Z)
+Élément
+H
+Br 35
+PRÉAMBULE :
+Les aldéhydes constituent; en milieu basique; une source de carbanions en raison de la mobilité de Yhydrogène en a par rapport au carbonyle C-O selon la réaction (1) =
+Rl C€H
+HO:
+RI C-c-~H
+HzO
+R2 Ai
+R2 A;
+On donne la série suivante daldéhydes Ai (i = 1-6) :
+A1
+Az
+A3
+C~H
+CH;
+CH; As
+CHz As
+CH, A6
+H
+H
+NO,
+On désigne par A8 (i = 1-6) les carbanions correspondants aux aldéhydes Ai.
+Page 12 sur 19 Concours Physique ct Chimie Session juin 2015
+CH,
 
+--- page 13 ---
+Partie II Chimie organique
+Partie A : EFFETS ELECTRONIQUES A-1) Sans tenir compte des natures des_groupes R' et RZ expliquer_la stabilité du carbanion A8
+A-2) Quel est le lien entre Ia mobilité de Thydrogène en a dans A; et la stabilité du carbanion correspondant 48 ?
+A-3) Discuter la mobilité de Thydrogène en a dans Ai en fonction des effets électroniques des groupes RI et R? (donneurs ou attracteurs) RI et R? donneurs
+R1 et R? attracteurs
+A-4) Classer les aldéhydes A1 Az et As par ordre décroissant de mobilité de lhydrogène en Justifier . Classement
+Justification
+Page 13 sur 19 Concours Physique et Chimie Session juin 2015
 
+--- page 14 ---
+Partie II Chimie organique
+A-5) A-5-a) Classer les carbanions A8 A? et 4C par ordre croissant de stabilité Justifier. Classement
+Justification
+A-5-b) Déduire le classement des aldéhydes correspondants (As, As et A6) par ordre croissant de mobilité de Vhydrogène en a Classement
+A-6) Écrire les formes limites du carbanion A@
+Page 14 sur 19 Concours Physique et Chimie Session juin 2015
 
+--- page 15 ---
+Partie II Chimie organique Partie B : STEREOCHIMIE ET REACTIVITE B-1) Compléter la représentation selon le modèle ci-dessous, du stéréoisomère (R) de Az Justifier Az Stéréoisomère (R)
+~H
+Justification
+B-2) Le carbanion A? réagit, dans un solvant aprotique, avec le 2-bromobutane (composé B) pour donner un composé C selon la réaction (2) H,C CH2 SN Az C_-Br Br H'' (2)
+H;C B
+B-2-a) Donner la configuration absolue du composé B. Justifier; Justification
+HsC_~-CHz B H'€-~Br HsC
+B-2-b) Donner la formule semi-développée plane du composé C.
+B-2-c) Nommer , selon les   règles de IIUPAC, le composé C (ne pas tenir compte de la configuration absolue)
+Page 15 sur 19 Concours Physique et Chimie Session juin 2015
+Hlli"
+CHs
 
+--- page 16 ---
+Partie II Chimie organique B-3) L'étude cinétique de la réaction (2) montré que sa   vitesse dépend entre autres de la concentration de A? . B-3-a) Déduire le type de mécanisme de la réaction Justifier (donner deux raisons) Type de mécanisme
+Justification
+B-3-b) Détailler le mécanisme de cette réaction
+B-4) On donne la représentation de Cram du stéréoisomère C' (isomère de C) 9 CHO H;C Wiiii Ph CzH; CH; Représenter C' selon Newman puis selon Fischer . projection de Newman projection de Fischer
+Ph
+Page 16 sur 19 Concours Physique et Chimie Session juin 2015
 
+--- page 17 ---
+Partie II Chimie organique
+Partie C : SYNTHESE ORGANIQUE On se propose de réaliser les deux suites réactionnelles suivantes
+A1
+1) A1 D (C6H1oO) 2) HzO / H+ , 4 A 1) LiAlH4 H2SO4 cc HsC_I A3 E 2) H2O / Ht
+1)   O3 F 2) H2O / H+
+G + H (CH2O2)
+C-1) Donner les structures des composés D_E FG et H
+H
+C-2) Donner le mécanisme de formation de D
+Page 17 sur 19 Concours Physique et Chimie Session juin 2015
 
+--- page 18 ---
+Partie II Chimie organique
+C-3) Quel est le type de mécanisme de la réaction de synthèse de As ? Justifier Type de mécanisme
+Justification
+C-4) Détailler le mécanisme de formation de F à partir de E
+Partie D : SYNTHESE DU 2-METHYLNAPHTHALENE On réalise maintenant; à partir de Yaldéhyde Av, la synthèse du 2-méthylnaphthalène P (Cu1Hio) selon le schéma réactionnel ci-dessous
+1) A1 H+, A CH2 =C I1 (C11H14O2) 2) HzO / Ht crotonisation As H
+J + K
+K
+Oxydation
+SOCI2 (C11H12O2)
+M AlCl3 N Cyclisation
+CH;
+1) LiAlH4 N 2) HzO / H+
+H2SO4 cc P (C11 Hio)
+D-I) Donner le mécanisme de laldolisation donnant lieu à I
+Page 18 sur 19 Concours Physique et Chimie Session juin 2015
 
+--- page 19 ---
+Partie II Chimie organique
+D-2) Sachant que Jet Ksont des isomères de position de formule brute (C11H12O) Jest un aldéhyde a B-insaturé K est plus stable que J donner leurs structures K
+D-3) Expliquer brièvement la différence de stabilité entre Ket]
+D-4) Donner les structures des produits L, M, 0 et P.
+M
+D-5) Quel est Ie type de réaction permettant dobtenir le composé N à partir de M?
+FIN DE LÉNONCÉ DE CHIMIE ORGANIQUE FIN DE LÉPREUVE Page 19 sur 19 Concours Physique et Chimie Session juin 2015

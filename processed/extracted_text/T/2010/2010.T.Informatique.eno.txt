@@ -1,3 +1,69 @@
+--- page 1 ---
+4ij/6ui "ukxwlszlis @L~] dssn adibell @lsliji iuuMal sssklwvi 200 ;29'
+REPUBLIQE TUNISIENNE Miisère d IEhsigunet Supérieu et de Recherde Scirdifiqu
+Concours Natiqnux d Entrée aux Cycks de Founation d'hgénieurs Seson 2010
+Concours Technologique Epreuve de Mathématiques
+Date: Lundi 31 Mai 2010
+Heure: 8 H
+Durée: 4 H
+Nbre pages:
+Barème Exercice: pts, Problème: Partie I: 9 pts, Partie II: pts. Une grande importance sera attachée à la rigueur du raisonnement, à la clarté ct al soin de présentation.   L'usage des calculatrices n'est pas autorisé.  Il est rappelé que tout résnltat énoncé dans le texte pent être utilisé pour traiter la suite, même s'il n'a pu être démontre
+On note N Fensemble des entiers naturels; N* Vensemble des entiers naturels non nuls, IR e corps des nombres réels, R + le sous-ensemble de IR formé des nombres réels positifs, R* le sous-ensemhle de IR formné des nombres réels différents de et IR; le sous-ensemble de R formé des nombres réels strictement positifs.
+s
+Exercice
+WsTITUT 6 @iblotheque ) (Eudes ! @inggfussi
+Soit  4 une fonction de classe C2 sur R; . On définit la fonction 9 Par
+IR + x R' (r,u)
+IK 9(r, y) P(2? + 9) .
+(a) Justilier que 9 est de classe C2 sur R* x R*. (b) Calculer les dérivées partielles premières 99 et 99 en fonction de {æ ëy 029 02 (c) Calculer les dérivées partielles secondes ct en fonction de + et 0r? dy 2. Déterminer les solutions sur R; de Véquation différentielle
+12" (t) + 2(t) = 2t.
+On veut déterminer les fonctions 4 pour lesquelles la fonction g vérifie Féquation aux dérivées partielles 029 929 (a,U) + (r,u) = 8(12 + v?) , {r2 V(r,y) € RR* x RR*_ 0y? (a) Montrer quc si la fonction 9 vérifie (2) alors la fonction + vérifie léquation différentielle (1) , et donner Fexpression de 4 (b) En déduire Fexpression de 9. 9g 9g (c) Déterminer la fonction g solution (2) et vérifiant 9(1,0) = 0 et (1,0) + (1,0) 0 #r #y
+Concours 'Technologique Session Juin 2010
+Épreuve de Mathématiques
+Page 1/5
 
+--- page 2 ---
+Donner les commandes MAPLE permettant de
+2.1) définir les deux équations différentielles ( El) et (E2) 2.2) calculer SI, la solution de la résolution formelle de léquation différentielle El) avec la condition initiale suivante y(O) =1 2.3) calculer S2, la solution de la résolution numérique de l'équation différentielle ( E2) avec les conditions initiales suivantes y(0) =1 et y(0) =1 2.4) convertir Sl en une fonction y ; 2.5)   représenter graphiquement y pour t e[-5.5] 2.6) représenter graphiquement S2 pourt e[-5.5].
+EXERCICE 2
+On relève dans certains jours de lannée les degrés de température. Une observation sera une liste de 3 valeurs [<jour >= mois > degré >]: Par exemple, une température de 20 C enregistrée le 13 février correspond à la liste [13, 2, 20]. Le but de Texercice est de manipuler une liste de telles observations qui est une liste de listes et pour simplifier on supposera que toutes les observations sont enregistrées pendant des_années_non bissextiles (le nombre de jours du mois de février d'une année non bissextile est égal à 28).
+Travail demandé :
+Soit la liste Nb_Jour_Mois-[31, 28, 31,30,31,30,31,31,30, 31,30, 31] contenant les nombres de jours des mois dune année non bissextile.  Cette liste; supposée déjà définie; sera passée comme paramètre en cas de besoin.
+Répondre en MAPLE aux questions suivantes
+1) Ecrire la procédure Valide qui retourne true si à une observation Obs donnée correspond un mois et un jour corrects, et retourne false sinon.
+2) Ecrire la procédure Num Jour qui permet de retourner le numéro du jour dans 1année dune observation Obs donnée et supposée valide. Exemple L'observation [12, 2, 10] enregistrée le 12 février correspond au 43 cmc jour de Pannée
+3) Ecrire la procédure Avant qui, partir de deux observations Obsl et Obs2 supposées valides, retourne true si lobservation Obsl a eu lieu avant lobservation Obs2 et retourne false sinon 4) Ecrire la procédure Ajout_Obs qui ajoute; à la fin dune liste dobservations L donnée; une observation Obs donnée; si celle ci est valide et non déjà enregistrée.
+5) Ecrire la procédure Tri_Obs qui ordonne une liste dobservations L par ordre chronologique _ des observations
+Concours Toutes options Session Juin 2010
+Epreuve d'Informatique
+Page 2/4
 
+--- page 3 ---
+PROBLEME Construction dune table de symboles
+Lors de lanalyse dun programme source; les variables déclarées sont mémorisées dans une structure de données appelée table de symboles: Dans ce problème; on propose de créer une table de symboles suite à la déclaration dun nombre connu de variables. La table de symboles est représentée par les trois tableaux à une dimension suivants Tnom tableau de caractères Ttype tableau dentiers Tpos tableau dentiers Lc tableau Tnom sert à mémoriser les noms de variables valides. Un nom de variable valide est composé de 8 caractères alphanumériques au maximum (lettre majuscule ou minuscule; ou chiffre ('0'. '99)) et ne doit jamais commencer par un chiffre. Un nom de   variable est mémorisé en stockant  les  caractères  le composant dans   des cases consécutives de Tnom à raison d'un seul caractère par case. Les différents noms de variables sont séparés par lc caractère ''. Le marqueur de fin du tableau Tnom est le caractère '#' Lc tableau Tpos mémorise [indice de début de chacune des variables dans Tnom. Le marqueur de fin du tableau Tpos est 0. Le tableau Ttype mémorise les références des types des variables. Dans la suite, uniquement les types suivants ainsi que leurs références seront utilisés Type Booléen Entier réel caractère Référence 16 32 8 Ainsi la figure illustre le contenu de la table de symboles des variables COUR de type réel, TOTAL de type entier; bl de type booléen et i de type entier;
+Lolu RI* [ TTolTAlL b 2   3   4   5 / 6 37  8 9 10 11 12 13 14 215
+16
+NMAX
+32 16
+12 15
+16
+Tpos
+Ttype Figure 1. Mémorisation de la table des symboles
+Travail demandé Dans ce qui suit; on suppose avoir déjà effectué les déclarations suivantes
+CONSTANTE TYPE
+NMAX-100o TABI = tableau [1.IO*NMAX] de caractère TAB2 = tableau [1. NMAX+I] de entier TABC = tableau [1..8] de caractère
+Concours Toutcs options Session Juin 2010
+Eprcuvc d'Informatique
+Pege 3/4
 
+--- page 4 ---
+En algorithmique une chaîne de caractères   est manipulée comme 'un tableau de caractères Uniquement Jes fonctions suivantes sont supposées prédéfinies
+Longueur(ch) retourne la taille de la chaîne de caractères ch. Car_Alph(C) retourne vrai si le caractère C est alphabétique et faux sinon. Car_Num(C) retourne vrai si lc caractère C est numérique et faux sinon.
+Répondre en algorithmique aux questions suivantes
+1) Ecrire une procédure Nb_Elt qui saisit et rctoumne un entier nb compris entre deux entiers binf et bsup donnés-
+2) Ecrire une fonction Nom_Valide; à résultat booléen; qui retourne vrai si une chaîne de caractères Ch donnée représente un nom de variable valide et faux sinon
+3) Ecrire une procédure Saisie_Variable qui saisit et retourne V de type chaîne de caractères représentant le nom d'une variable valide, ainsi que T la référence valide de son type. 4) Ecrirc une procédure Ajout_Variable qui ajoute une variable supposée valide dans la table de symboles suivie du caractère 1*} Elle prend en entrée le nom de la variablc V et T la référence de son type ainsi que pos; la position dinsertion dans Tpos et met à jour les tableaux   Tnom; Ttype; Tpos 5) Ecrire une procédure Recup_Nom qui récupère dans un tableau de caractères TC de type TABC les caractères dun nom de variable mémorisé, à partir dun indice pos, dans le tableau Tnom
+Ecrire une fonction Recherche; à résultat booléen; qui à partir dun nom de variable V et les tableaux Tnom et Tpos, retourne vrai si V existe déjà dans Tnom et faux sinon: La recherche consiste à comparer avec les noms de variables de même longueur mémorisés dans Tnom. Les longueurs, des noms de variables déjà mémorisés, seront détemminées à partir de Tpos. 7) En utilisant Ics procédures et les fonctions adéquates, écrire une procédure Table_Symboles permettant de saisir le nombre de variables à déclarer pour chaque variable saisir son nom et la référence de son type sachant qu'un nom de variable ne peut apparaître qu'une seule fois dans Tnom Pajouter à la table des symboles (Tnom, Tpos; Ttype) en faisant les mises à jour nécessaires .
+Concours Toutes options Scssion Juin 2010
+Epreuve d'Informatique
+Pagc - 4/4

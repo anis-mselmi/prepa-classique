@@ -1,3 +1,86 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère d [Enseignement Supéricur etde a Recherclx: Scientifiquæ
+Z9ixx) Qlalslss~s M9l~L Jej alj} =lJlaJi jMal DgJa,ji 2016 6 ,9'
+Concouns Nationaux dEntrée Jux Cydes de Formation &Ingénieurs Session 2016
+Concours Biologie et Géologie Epreuve de Mathématiques
+Date Jeudi 26 Mai 2016
+Heure 8 H
+Durée 3 heures
+Nb pages 4
+Une grande importance sera attachée à la rigueur du raisonnement, à la clarté et au soin de la présentation. L'usage des calculatrices n'est pas autorisé. Il est rappelé que tout résultat énoncé dans le texte peut être utilisé pour traiter la suite, même sil n'a pu être démontré
+NB. Le sujet comporte deux exercices et un problème totalement indépendants:
+EXERCICE 1
+Soit la matrice
+0 2
+0  1
+0 1
+et f Yendomorphisme de R3 de matrice J dans la base canonique B = (e1,e2,e3 avec
+e1 = (1,0,0), e2 = (0,1,0), e3 = (0,0,1)
+1
+(a) Soit u = (æ,y,z) un vecteur de R3 . Calculer f (u) (b) Déterminer le noyau et limage de f . (c) f est-elle un automorphisme de R3? justifier la réponse. 2 (a) Calculer le polynôme caractéristique de J. (b) Déduire les valeurs propres de J ainsi que leurs ordres de multiplicités. (c) J est-elle diagonalisable? justifier la réponse. d) Déterminer les vecteurs propres de J (e Montrer que J = PDP-1 avec Dla matrice diagonale
+1
+3
+et P une matrice inversible à déterminer ainsi que son inverse P-1
+Concours Biologie et Géologie Session 2016
+Épreuve de Mathématiques
+Page 1/4
 
+--- page 2 ---
+3 Pour tout réel a, on considère la matrice
+2
+Ma
+a + 1
+4
+1
+a + 1
+(a) Exprimer Ma en fonction de J . (b) Déduire de la question 2 (e) qu'il existe une matrice diagonale Da € MB(R) telle que Ma = PDaP-1_
+(c) Pour quelles valeurs de a, Ma est inversible? 4 Soient (æn)n (yn)n et (zn)n trois suites réelles vérifiant zo = 1,yo = 1,20 0 et pour tout n € N:
+In+l
+2In- + 2yn +zn 3yn +4zn Yn +3zn
+Yn+l
+zn+1
+In
+Pour tout entier naturel n, on pose Tn
+Un
+zn
+(a) Écrire In+l en fonction de Tn et M2. (b) En déduire 1expression de Tn en fonction de n (c) Déterminer les limites des suites (æn) (yn) et (zn)
+EXERCICE 2
+Toutes les variables   aléatoires qui interviennent dans cet exercice sont définies sur un même espace probabilisé (0,A,P). +00 On rappelle que e-r2 dz = 2 Soit f la fonction définie sur R2 par:
+2e ~12 si 0 < y < I îvT
+f(z,y) =
+sinon
+1  Montrer que f est une densité de probabilité sur R2 _ 2 Soit (X,Y) un couple de variables aléatoires réelles de densité f_ (a) Déterminer une densité de la variable X. (b) Pour z > 0, déterminer la loi conditionnelle de Y sachant X = 2. (c) Les variables X et Y sont-elles indépendantes? Justifier la réponse.
+Concours Biologie et Géologie Session 2016
+Épreuve de Mathématiques
+Page 2/4
 
+--- page 3 ---
+3. Soit Z la variable aléatoire réelle définie par Z = X2 . (a) Montrer que Vx > 0, Fz(z) = Fx(vz) où Fx (respectivement Fz) désigne la fonction de répartition de X (respectivement Z). (b) En déduire une densité de la variable aléatoire Z (c) Donner alors une densité du couple (Z,Y)-
+PROBLEME
+Partie I
+Pour tout couple (n,r) d'entiers naturels tels que 1 < T < n, on rappelle la formule du triangle de Pascal" : Cn = Cn-1 + Cn-1. 1 . Soit r un entier naturel. On considère la série entière CTx" . n>r (a) Montrer que le rayon de convergence de cette série entière vaut 1_ +c Pour tout réel z €] - 1,1 [ on pose : Îr(s) = Ec;z" . n=T (b) Montrer que, Vz €] - I;l[ et r 2 1, on a
+(1 - 2)fr(z) = zfr-1(z)
+2. Soit z un réel fixé de ] - I; 1[ Déterminer fo puis f1 en fonction de 2_ 3 Montrer par récurrence que
+Ir Vr € N;Vz €] = l,1[fr (z) = (1 _ æ)r+l
+4 Soit r € N* montrer que le rayon de convergence de la série entière Lc-{z" vaut 1 n n>r +0 5. Pour r € N* et z €] - 1,1[ on pose hr(z) = 1c"-42" . n=T n (a) Montrer que hr est de classe C1 sur ] - 1,l[ et que pour tout réel I de ] - 1,1[ on a: hT(z) = fr-1(s) tr-1 (b) En déduire que, pour tout æ de ] - 1,l[ on a: hr(z) =J dt. (1 -t)7 t (c) À laide du changement de variable y = montrer que  1 - t
+T-I) Ur ~1 hr (z) = dy, V z €] - 1,1[ 1 + y (d) En déduire; en utilisant une intégration par parties; que lon peut écrire
+1 1 y hr (z) " J"z ~I)r-i + dy , Vz €] - 1,1[ r (1 71+9)2"
+Concours Biologie et Géologie Session 2016
+Épreuve de Mathématiques
+Page 3/4
 
+--- page 4 ---
+Partie II
+Toutes les variables   aléatoires qui interviennent  dans cette partie sont définies sur un même espace probabilisé (0,A,P). On rappelle que la fonction génératrice des moments dune variable aléatoire entière X est définie pour tout réel t où la série tP(X = k) converge absolument par
+gx (t) : = E(tX) = tkP(X = k)  kex(Q)
+Soit p un réel de J0,1[. On pose 9 = 1 = p; et on considère une variable aléatoire X à valeurs dans N* qui suit la loi géométrique de paramètre p. On rappelle que pour tout entier k de N* , P(X = k) = pqk-1 1  Donner 1espérance E(X) et la variance V(X) de la variable aléatoire X . 2. Montrer que la fonction génératrice des moments de la variable aléatoire X est donnée par
+pt gx (t)  Vt e] 1 qt
+1 1 E[ 9 9
+3.  On considère une suite ( Xn)neN- de variables aléatoires à valeurs dans N* , indépendantes, de même loi géométrique de paramètre p. Pour tout entier n de N* on pose Sn = Xk. k=l
+(a) Calculer l'espérance E(Sn) et la variance V(Sn) de la variable aléatoire Sn. (b) Montrer que la fonction génératrice des moments de la variable Sn est donnée par: 1I1 98,(t) 22 Vt €] = q"-tfn-1(qt) 9 9 (c) En déduire que +c Vt e] - 1 1[; 9s, (t) 2 CR-lp"qk-"tk 9 9 k=n (d) En déduire que la loi de probabilité de la variable aléatoire Sn est donnée par
+si 0 < k < n P(Sn = k) = CR-lp"q*-n si k > n
+4 n Pour tout n € N*_ on pose Yn = Sn
+(a) Montrer que E(Yn) = n 2) hn(9)- (b) Montrer que yn E(Yn) - p = (2)"6 (1 + u)2dy (c) Montrer que 0 < E(Yn) 9 =p < p(n + 1) (d) En déduire lim   E(Yn) n-+0
+Concours Biologie et Géologie Session 2016
+Épreuve de Mathématiques
+Page 4/4

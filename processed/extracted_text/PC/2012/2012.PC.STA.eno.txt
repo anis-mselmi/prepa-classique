@@ -1,11 +1,239 @@
+--- page 1 ---
+4,'1452842+1 @ujsigsls eaLel
+REPUBLIQUE TUNISIENNE
+Ministère de l'Enseignement Supérieur et de la Recherche Scientifique Concours Nationaux dEntrée aux Cycles Jsil àkz csbui de Formation dIngénieurs Session 2012 vlwliglj JJ UJ Ustitut Cheparatoire ,  2012 ;)92 CBUOIHEQUD) 8 EivcEs  Sfax 0*98 Concours Mathématiques Physique & Physique Chimie Épreuve de Sciences et Techniques de 1Ingénieur
+Date Vendredi 08 Juin 2012 Barèm Partie polnts
+Heure 8 Heures Partic B poin
+Dutéc 3 Heures Partie C : 5 points
+L'épreuve comporte trois parties A- Technologie de conception B- Mécanique des solides indéformables C- Automatique Le sujet de l'épreuve remis au candidat comporte Deux dossiers
+Présentation, Données et Hypothèses > & < Document Réponses 7 . Aucun autre document n'est autorisé L'utilisation des calculatrices de poche non programmables est autorisée_ Les différentes parties sont indépendantes et doivent être traitées sur le document réponses. Il n'est fourni au candidat qu'un seul et unique dossier document réponses > qui doit être rendu en totalité, à la fin de l'épreuve; même sans réponses
+DOSSIER
+PRESENTATION, DONNEES ET HYPOTHESES
 
+--- page 2 ---
+DOSSIER
+PRESENTATION, DONNEES ET HYPOTHESES
+Ce dossier comporte 10 pages numérotées de 1 à 10
+Présentation
+Page 1 à 3 ;
+Données et hypothèses Partie A
+Page 3
+Données et hypothèses Partie B
+Page 3 à 5 ;
+Données et hypothèses Partie €
+Page 6 à 10 ;
+   ` (
 
+--- page 3 ---
+STJ Mathématiques Physique & Physique Chimie
+Dossier Présentation; Données Enoncées
+CENTRALE BETON PRET A L'EMPLOI
+MIsE EN SITUATION
+La présentc étude porte sur les constituants dune chaîne de production de béton ptêt à Temploi (BPE) (Figure 1). Cettc chaine est constituéc de
+Unité (A) de stockage, de dosage ct dalimentation enl sable ct en gravier 'appelés agrégats, Unité (B) de convoyage des agrégats vers le malaxeur; Unité de dosage et dalimentation en eau et en adjuvants (non teprésentée) , Unité de stockage et de convoyage par vis du ciment, Unité de dosage de ciment, Unité (E) de malaxage ct de chargement des camions toupie.
+Le processus de production est piloté par un automnate programmable industriel (API) ; celui-ci assure: lc contrôle des systèmes de pesage des matériaux, Ja mesure de lhumidité des agrégars via des détecteurs dhygrométrie; Ic dosage dadduction &eau en fonction du niveau de fluidité désité.
+Figure 1 Schéma descriptif dune centrale à béton 'prêt Ïemploi
+Concours nationaux dentrée aux cyeles de formation dingénieurs
+Session 2012
+Page I/IO
 
+--- page 4 ---
+StI Mathématiques Physiqe & Phvsique Chimnie
+Dossier Présenution, Données Enomncée
+PRESENTATION GE NERALE
+Le béton est u11 'élange de plusicurs constituants   Ses caractéristiques Sonli largement intlucncées par proportioons des di fférents élémcnts_ À cela s ajoute Peffer de la taille moyenne des granulats. Souvent tamnisage effectué par Ics carrières ne réponc pas auX exigences de production du béton. ains; nécessaire 441 un tamnisage soit repris au niveau de la centrale à héton (figurc 2)
+Figuve 2 : Unité réelle dalimentation en granulats (unité
+L disposntif de: tainisage €st placé enre les trémies de stockage des granulats e1 Tunité de pesage: I1 s2pu dun $ ystème q' timisation de la granuloinéttie. Ce disposntif est constitué   cun tamis monté sur le socle de ttéties utilisant 1i] mecaniste ; parallélogramme: eS[ Ns €n vibration par Viniermédiaite dun excitateu mécanique (ou vils reur) à amplitude réglable (tigure 3)
+I H1
+Mecansme à amt peralélcg Figure 3 : Dispositif proposé d'optimisation de grannlométrie
+Coneurs nationay clentrée aux cycles de formation dingenieurs
+Session 2012
+Page 2/10
+Tamis
 
+--- page 5 ---
+STI Mathématiques Physique & Physique Chimie
+Dossier Présentation; Données Enoncées
+Le vibreur représcnté Par la figure 4 transforme une rotation continue en une rotation alternative
+Vers le mécanisme Arbre à parallélogramme %e sortie
+Arbre Vers le Rotor d'entrée du moteur
+Figure Excitateur mécanique à amplitude réglable
+PAITIE A : TECIINOLOGIE I)E} CONCEPTION
+Cette partie est dédiée à Yanalyse descendante et au dessin de définition de la noix en aciet (pièce de Yexcitateur) . Le travail demandé est explicité dans les pages 1/14 et 2/14 du dossier document réponses.
+PARFIF 13 : MÉCANIQUE DES SOLIDES INDÉFORMAIBLES
+L'étude mécanique porte sur le mécanisme doptimisation de la granulométrie  (MOG) On s'intétesse particulièrement au dispositif de réglage de Yamnplitude de vibration et à la mise Ctl équation relative au fonctionnement normal du dispositif de tamisage de la figure 3.
+B.1- ETUDE DE L'EXCITATEUR MECANIQUE
+Schéma cinématique et repérage La   figurc B.1 représente le schéma cinématique   minimal de l'excitateur   mécanique; ses principaux comnposants sont
+Le bâti (0), lié au repère %(O,*0,Yo, Z) supposé galiléen. La manivelle (1), liée au repère R(O,xvyp,20) , est en liaison pivot daxe (O,ûu) avec le bâti (0). Son mouvement de rotation est paramétré par langle & = (*0,*,) = (jo,y )
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2012
+Page 3/10
 
+--- page 6 ---
+STI Mathématiques Physique & Physique Chimie
+Dossier Présentation, Données Enoncées
+La bielle (2), liée au repère Rz (A,X2,/2, Zo ) , cst Cnl liaison pivot daxe (A,70 ) avec manivelle (1). Son mouvement de rotation est patamétré par langle 8 = (x0,*2) = (jo,yz) . Le   balancier   (3), lié au repère R(C,X2,Jz,z,) , cst en liaison   pivot  glissant daxe (B,X2 ) avcc la bielle (2). Le solide (4), lié 2u repère   3(D,X,,J4,Z) , est en liaison pivot daxe (D,Z avec le bâti (0). Il cst également en liaison pivot daxe (C,z) avec le balancier (3). Son mouvement de totation est paramétré par langle 9=(*0,*,) = (yu,74)  La rotule (5), liée au repère $ (H,72,J5, 75) , est en liaison pivot glissant daxe (H,x2 avec le balancier (3). Le volant (6), lié au repère   R(F,xo,J6,76)= est en   liaison pivot daxe (F,xz) avec le bâti (0) Son mouvement de rotation est paramétré par langle V = (joys) = (70,76 La noix (7), liée au repère R(E,Xn,)0,70 ) , est en liaison glissière &axe (K,xo) avec lc bâti (0). Elle est également en liaison hélicoïdale filetage à droite daxe (E,xo) avec le volant (6). Elle cst aussi et enl liaison rotule de centre Havec la rotule (5). Paramétrage du mécanisme
+Les paramètres de position sont définis par @, 0, P, V; ^ et H, variables en  fonction du temps. Les représentations planes des rotations sont définies dans la figure B.2
+Les données géométriques du mécanisme sont exprimées par les relations vectorielles OA = r, *, AB = 2 x, BH =u 72 BC=L; %2 CD = t, %; ; OD =Lv 7 EF = HD = x Xu ou est Lnl paramètre de réglage, Iv 14, Lo et L, sont des caractéristiques géométriqucs du mécanisme (constantes positives)-
+Zo
+(1)
+(2}
+(3)
+(5)
+(6)
+(0)
+Figure B.1 Schéma cinématique minimal de l'excitateur
+Figure B.2 Représentation plane des rotations
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2012
+Page 4/10
 
+--- page 7 ---
+STI Mathématiques Physique & Physique Chimie
+Dossier_Présentation Données Enoncées
+Fonctionnement du vibreur La manivelle cst enttaînée Cn rotation vitesse angulaire constante à = 0 Elle ttansmet   le mouvement, au point A, à la bielle (2). Le balancier (3) reçoit le mouvement et le transmet cnl C au solide (4) qui se mct en rotation alternative autour de laxe (D,z4 La position réglable du point H cst maintenue constamment sur laxe (O,xo) Celle-ci affecte lamplitude du mouvement de (4)
+Les questions relatives à la partie B.lsont explicitées dans le document réponses (page 3/14)
+B.2-ETUDE DU DISPOSITIF DE TAMISAGE Schéma cinématique A Tissue de létude menée en B.1, des simplifications sont apportées au schéma cinématique du vibreur. Dans  cette partie, la position du point H est définitivement  fixée, elle est tel que HD =d X cst une constante positive). On se propose détudier le dispositif complet de tamisage (vibreur parallélogramme + tamis) (figure B.3) Il est constitué de Pensemble {S} définic par {S} = {1,2,3,4, 8,9, 10}
+(2)
+(3)
+0)
+//EZ (0)
+J4
+N -
+X
+(0)
+(0)
+(8)
+(10)
+(9)
+7o
+P
+Figure B.3 Schéma cinématique minimal du dispositif complet de tamisage Lc tamisage est assuré par la mise en vibration du mécanisme à parallélogramme de sommets D; P, Q ct N. Ils sont tels que DP NQ L4 DN PQ. Le tamis est solidaire de la traverse (8) Celle ci est articuléc en P et aux solides ct (9) Lcs points D et N sont les articulations du parallélogramme avec le bâti (0)
+Hypothèses On se propose de détermincr le couple moteur nécessaire pour un fonctionnement en régimc normal de tamisage. Pour faciliter Pétude; les hypothèses suivantes seront admises: Sauf indication contraire, toutes les liaisons sont supposécs parfaites; La charge Cn granulats   (10) est assimilée à une masse ponctuelle M concentrée au centre dinertie pouvant glisser lc long de la traverse (8) . La position de son centre dinertic est définie par PG =n Xn  Vimportance de M devant les masses des autres composants du systèmc de tamisage permet de négliger route autre masse des composants du système {S} par rapport à celle de (10). Le moteur exerce sur la manivelle un couple moteur Cm C 7 r} Le champ de pesanteur cst défini par g = g yo= Les questions relatives à la partie B.2 sont explicitées dans le document réponses (pages 4/14- 8/14)
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2012
+Page 5/10
 
+--- page 8 ---
+STI Mathématiques Physique & Physique Chimie
+Dossier Présentation; Données Enoncées
+PARTIE C :AUTOMATIQUE
+C.1- Commande séquentielle d'une centrale à béton
+Lobjectif de cette étude consiste à établir une commande séquentielle de la centrale à béton schématisée par la figure C.1 Ce système permet dobtenir une quantité (de à 5 mn3) de béton enl un 0ul plusieurs cycles de  fabrication de capacité  maximale m} Le béton est obtenu en mélangeant agrégats   de grosseurs différentes (dc A AA) , du ciment choisi parmi qualités différentes (C; ou C2) et de l'eau. L'alimentation Cn agrégats est effcctuée Par ouverturc de   trappes bistables VAv VAv, VA; et VA, (ouverture VA] = 1 Fermeture VA; =1 avec i = 1, 2, Ou 4) ; alors que lalimentation en ciments se fait par ouvetture de trappes bistables VC, Ou VC2 (ouverture VC+ =1 , Fermeture VC; = ] avec i = 1, ou 2), et lalimentation cn cau est obtenue par ouverture dune vanne monostable VE (ouverture VE = 1, Fermeture VE 0). Pour chaque cycle de fabrication; le fonctionnement est le suivant
+Dosage pondétal Les agrégats sont dabord pesés successivemnent dans une même trémie peseuse: Chaque qualité d'agrégat correspond un capteur différent sur le cadran de la bascule (A, dosé jusqu'à ce que Taiguille  atteigne le capteur a, Az dosé jusqu'à ce que Yaiguille atteigne le repère a2, etc). Lorsque laiguille atteint le capteur 24 Onl Inet enl marche le tapis transporteur dagrégats IPA (KMA et on ouvre la vannte monostable des agrégats VA. Lorsque la trémie peseuse dagrégats est vide (aiguille au capteur %), on attend 3 secondes pour fermer la vanne VA et 10 secondes pour arrêter le tapis TPA les agrégats sont alors dans le malaxeur.
+Alimentation en ciment La   séquence 'ciment" commence secondes après Touvetture de la vanne des   agrégats   VA, par T'ouverture de la trappe du cimcnt choisi (VC1 ou VC2) au-dessus de la trémie peseuse de ciment, jusqu'à ce que laiguille atteigne les capteurs correspondants (soit c soit c2) A ce moment; la trappe d'alimentation se fermc, le tapis transporteur de cimcnt se met en marche TPC (KMC et la vanne monostable VC du ciment souvre (VC=1) Lorsque   laiguille arrive au capteur Cv   VC se ferme   puis TPC s'atrête après une temporisation de secondes le ciment se trouve ainsi dans le malaxeur:.
+Alimentation en eau et malaxage Le malaxeur; entraîné par un moteur est mis en marche (KMX 1) 'au même moment que lc tapis transporteur dagrégats IPA et nc s'arrête qu'en fin de cycle. reçoit dabord les agrégats et le ciment puis , 10 secondes après 'arrivée du ciment; la vanne deau VE s'ouvre VE=1 ) L'ouverture de VE déclenche un compteur d'eau CE présélection, qui délivre un signal lorsque la quantité voulue d'eau s'est écoulée. Le malaxage doit durer 60 secondes après le début de larrivée deau. C'est alors que la vanne bistable de vidange VID s' ouvre pendant 10 secondes puis elle se ferme
+Conditions initiales Préalablement à la mise en marche, lopérateur doit effectuer manuellement les opérations suivantes Choisir la qualité de ciment voulue sur un sélecteur à 2 positions (9 ou 92) Mettre les capteurs de peséc sur les trémies aux positions souhaitées 21, a2, a; ou a,) pour les agrégats; C1 ou €2) pour le ciment Pré positionner le compteur deau CE à la position voulue. Le lancemnent de la production s'effectue en appuyant sur un bouton poussoir m.
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2012
+Page 6/10
 
+--- page 9 ---
+STI Mathématiques Physique & Physique Chimie
+Dossier Présentation;Données Enoncées
+Silos A gégats
+Silos Ciments
+EsR
+Eau
+5.47
+54
+c
+sc
+VA1
+7a
+VA
+VC
+vC
+RE
+Tremje peseusg
+Vc
+KMC
+KMA
+TPc
+1 PA
+MIx
+0t0t0t0tC
+0
+41
+VD
+CIDI
+Béton pYêt
+'utilisation
+'eure € / Sahema vynopliqus de la centyale à bexow
+Fin de ptéparation du béton A la fit de la séquence cimnent" de chaque cycle, le compteur de cycle ( est décrémnenté (dimninud dune unite) Si s0ll cotilenu cst différet de (variable 1) en fin d cycle. u11 nouvCaU cycle débute S0n contenu cst égal à ( (variable c=0) en tin de cycle, la ptoduction estcrmzlnee
+Le affectations des enttées sorties sont données dans les tableaux ( ; 1 (2
+Concours nationaux &entrée aux cycles de formation &'ingénieurs
+Session 2012
+Page 7/10
+VA;
 
+--- page 10 ---
+STI Mathématiques Physique & Physique Chimie
+Dossier Présentation; Données Enoncées
+Tableau C.1 Les entrées
+21, 42, a; & 2, Capteurs contrôlant le poids des agrégats contenus dans les Silos SA, SA?, SA, & SA Capteur signalant que la trémie agrégats est vide Cp et €, Capteurs contôlant le poids des ciments contenus dans les Silos SC1 & SC? Capteur signalant que la trémie ciments est vide Capteur signalant que la quantité &eau voulue est écoulée Bouton poussoir départ cycle 01 & 92 Sélecteur qualité ciment q pour C, et 92 pour C Capteur signalant le contenu du compteur cycle €
+Tableau C.2 Les sorties
+VA; VA; VA? VA; VA; VA; VA; , VA; vC; , VC; VC2 , VC? VC VE VA VID+ VID KMA KMC KMX
+Ouverture fetmeture trappe bistable VA; Ouvertute fermeture trappe bistable VAZ Ouverture et fermeture trappe bistable VA; Ouvetture et fermeture trappe bistable VA Ouvetture et fermeture trappe bistable VC Ouverture et fetmeture trappe bistable VC? Electrovanne douverture de la trémie ciment Electrovanne douvetture du réservoir eau Electrovanne douvetture dc la trémie agrégats Ouverture et fermeture électrovanne dévacuation du béton après malaxage Commande   du motcur tapis agrégats TPA Commande du moteur tapis ciments TPC Commande   du moteur du malaxeur
+C.2- Asservissement du débit massique dalimentation en agrégats Afin daméliorer lopération de tamisage; 0n s€ propose dc faire la synthèse de Zasservissement dc débit d(t) dalimentation en agrégats. Le schéma technologique dun tel système est illustré à la figure (C.2) .
+Les questions relatives à Ja partie C.lsont explicitécs dans le document réponses (pages 9/14- 11/14)
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2012
+Page 8/10
 
+--- page 11 ---
+STI Mathématiques Physique & Physique Chimie
+Dossier Présentation; Données Enoncées
+Vcc
+dc (t)
+Moto-réducteur
+comparateur
+Régulateur u(t)C
+x(t)
+v(t)
+Vcc
+d(t)
+Figure C.2 Schéma technologique dasservissement du débit
+Le débit désiré dc(t) est fixé au moyen dun dispositif couplé au curseur dun potentiomètre générant une tension Vc(t) k, dc(t) La mesure du débit d(t) est réalisée aussi au moyen du même dispositif générant la tension V(t) _ Lc signal dcrreur €(t) = Vc(t) V(t) est Fentrée du régulateur R(p) qui lui-même délivre la tension u(t) cn vue dalimenter un moteur à courant continu commandé par Vinduit = Le débit est contrôlé par Youverture de la trémie d(t) k, x(t) avec x(t) = k2(t) @(t), où 0(t) représente la   position   angulaire   de Fatbre de sortie du moto-réducteur   qui est couplé au système   pignon ctémaillère
+8(p) La fonction de transfert du moto réducteur   H(p)= est la mise en cascade de deux fonctions de U(p) transfert H;(p) et Hz(p) comme illustre la figure C.3.
+8(P
+H (p)
+H(P)
+Figure C.3 : Schéma fonctionnel du moto réducteur
+Lc diagramme de Bode de H (p) est représenté par la figure C.4.
+Les questions relatives à la partie C.2 sont explicitées dans le document réponses (pages 11/14- 14/14)
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2012
+Page 9/10
 
+--- page 12 ---
+STI Mathématiques Physique & Physique Chimie
+Dossier Présentation, Données Enoncées
+Diagramme de bode de H4(p)
+-10 9 -20 1 30 40
+"50
+[ ~45 ;
+-90 10'
+10
+10?
+10
+10
+Pulsations rdls   (radlsec) Figure C.4 Diagramme de Bode de H,(p)
+La réponse impulsionnelle de Hz(p), représentée par la figure C.5, est décrite par lexpression
+Cin 0(t) =1-e
+pour t >
+Réponse impulsionnelle de H2(p)
+0.9
+0.8
+0.7
+: 0,6 1 0.5 1 0.4 0.3 9 0.2
+0.5
+1.5
+2,5
+3.5
+4.5
+Temps (sec)
+Figure C.5 Réponse impulsionnelle de Hz(p)
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2012
+Page 10/10

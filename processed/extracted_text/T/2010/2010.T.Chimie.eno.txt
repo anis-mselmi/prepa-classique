@@ -1,5 +1,119 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de ['Enseignement Supérieur et de la Recherche Scientifique
+1yjisui
+Bkjnsiszs uLwL
+Concours Nationaux d'Entrée aux Cycles de Formation d'Ingénieurs Session 2010
+Jsnl ub yl 2l Jaliji Utjitni DsS Jalyi 2010 63
+Concours Technologie
+Epreuve de Chimie
+Date
+Mardi juin 2010
+Heure 8h
+Durée 2
+Nbre de pages 6
+Problème
+Problème II
+Problème III
+Problème IV
+Barèmel20
+2 pts
+pts
+pts
+5 pts
+Cet énoncé comporte pages de texte et deux documents annexes à rendre avec la copie Les candidats sont priés de 'présenter leurs réponses dans lordre même de l'énoncé
+L'usage des calculatrices électroniques de poche non programmables est autorisé Aucun échange n'est autorisé entre les candidats. DEBUT DE L'ENONCE MesiTU} 9 Burusstas{ Problème I : atomistique 0yes 2258 Shx" 1) Le zinc appartient à la 4ème période et à la 12ème colonne 1-a) Donner son numéro atomique 1-b) Donner sa configuration électronique dans son état fondamental. 1-c) Donner la configuration électronique de lion Zn2+. 2) Dans son état fondamental, le lithium présente la structure électronique suivante Li 1s2 2s1. 2-a) Préciser en justifiant, la position de l'élément lithium dans la classification périodique. 2-b) À quelle famille chimique appartient-il ? 2-c) Quel ion donne-t-il facilement ? Problème II : cristallographie Le composé LiZnP peut être  décrit en première  approximation comme un cristal ionique, il cristallise dans le système cubique de paramètre a=5,78 &.
+Concours Technologie Session Juin 2010
+Epreuve de Chimie Page 1/6
 
+--- page 2 ---
+ion lithium
+ion phosphore
+ion zinc
+1) A Taide de la représentation en perspective de la maille et de son contenu ci-dessus; donner une description de la maille. 2)   Représenter   la   projection cotée de la maille et de son contenu sur le plan appartenant à la famille (001) et passant par Yorigine et préciser la côte de chacun des ions.
+3) Donner les coordonnées réduites des ions P9-.
+4) Déterminer les coordinences des cations par rapport aux ions phosphore. 5) Calculer le nombre de groupements formulaires par maille. 6) Préciser, en justifiant; la charge 9- de Vion phosphore 7) Donner Yexpression puis calculer
+7-a) le rayon ionique de Pq-dans lhypothèse dune tangence entre les ions Zn2+ et Pq- 7-b) La masse volumique de LiZnP. 7-c) La compacité du réseau de LiZnP . 8) On se propose dexaminer si cette structure présente les mêmes axes de symétrie qu'une maille cubique simple. 8-a) Rappeler les différents types daxes de symétrie dune maille cubique simple et leur nombre 8-b) Vérifier si ces axes se retrouvent aussi dans la structure de LiZnP ? Données Masse molaire atomique (g.mol-') P 30,97; Zn 65,38 ; Li 6,94.
+Rayons ioniques (en pm) zinc = 74 ; lithium = 68.
+Le nombre d'Avogadro Na = 6,023*1023 mol-1 . Concours Technologie Session Juin 2010
+Epreuve de Chimie Page 2/6
 
+--- page 3 ---
+Problème III Diagramme binaire
+Le diagramme binaire isobare (p 1 bar) solide-liquide   simplifié du système KPO3-NaPO3 est donné en annexe 1. 1) Un composé défini peut être repéré sur ce diagramme. Donner sa formule 2) Quelle est la nature de sa fusion 3) Identifier la nature des phases présentes dans les domaines (1), (II) et (III). 4) Ecrire Yéquation chimique de la transformation qui a lieu à la température 552 C. 5) Donner le nom de cette transformation. 6) Tracer Vallure des courbes danalyse thermique par refroidissement lent jusqu'à 530 C, des systèmes représentés par les points A1 Az A3 et A, sur le diagramme; en précisant les températures de rupture de pente: 7) On refroidit 60 g dun mélange liquide contenant 80% massique de NaPO; de 630'C jusqu'à 5609C.
+7-a) Déterminer la température de début de solidification de ce mélange. 7-b) Déterminer la nature et les masses des phases présentes à 560PC. 7-c)  Représenter SUI le   diagramme  de Fannexe 1, le   chemin   suivi par les points représentatifs de la phase liquide au cours de ce refroidissement. 8) On ajoute; de façon isotherme; du KPO: à 10 g dun mélange représenté par le point A3. 8-a) Préciser la composition du liquide lorsqu'il apparait le premier cristal. 8-b) Déterminer la masse minimale de KPO; qu'il fallu ajouter pour observer le début de cristallisation
+Données Masse molaire (g.mol') NaPO; :102 KPO; 118.
+Zoncours Technologie Session Juin 2010
+Epreuve de Chimic   Page 3/6
 
+--- page 4 ---
+Problème IV diagramme E-pH On se propose de compléter le diagramme E-pH du phosphore donné sur la figure du document annexe 2 et d'étudier les réactions thermodynamiquement possibles entre les ions HzPO2 et Co2+ , Sur la même figure, on superposé le diagramme E-pH du cobalt (en pointillés). 1) Sachant que le diagramme E-pH du cobalt est établi à la concentration 10-3 molL;' déterminer le potentiel standard E' du couple Coz+ /Co(sd)
+2) En utilisant des valeurs numériques lues sur le diagramme E-pH du phosphore; et éventuellement des données numériques fournies ci-dessous, déterminer une valeur approchée de la concentration du tracé Ctra de ce diagramme
+3)
+3-a) Etablir Y'expression de la frontière E3 séparant HzPOz(aq) et P(sd) pour les valeurs de pH 2 1,98 3-b) Tracer la frontière E3 relative au couple HzPOz (a9) /P(sd) sur le diagramme E-pH du phosphore (documentannexe 2). 4) En se basant sur les diagrammes E-pH du document de Yannexe 2, écrire les équations bilans des réactions possibles entre les ions HzPOZ et Co2+ selon les valeurs du pH.
+5)
+5-a) A pH = 5, établir /'expression de lenthalpie libre ArG de la réaction observée en fonction de la différence (E4 - E1) 5-b) Donner  Yexpression   puis calculer   la constante d'équilibre Ko   de cette réaction à 298 K. Conclure
+Données à 298 K:
+Couple (1) : Co?+ (aqy Co(sd): EO = ?? V
+Couple (2) H3POz (aq) /P (sd) E2 =~0,508 V
+Couple (3) HzPOz (aq)/P (sd) E9 =-0,391 V
+Couple (4) HpPOz (aq) / HzPOJ(aq) E9 =-0,504 V RxT xLn(10)=0,059 V F
+FIN DE L'ENONCE
+Concours Technologie Session Juin 2010
+Epreuve de Chimie   Page 4/6
 
+--- page 5 ---
+REPUBLIQUE TUNISIENE Concours Nationaux d'Entrée aux Cycles de Formation Ministère de d'Ingénieurs ['Enseignement Supérieur et de la Recherche Scientifique Session Concours Epreuve de Ne xien Nom Prénom s) écxie ici Institution dorigine
+Signature des surveillants
+Identifiant
+Serie
+DOCUMENT   ANNEXE 820 1813 Ic 810
+RENDRE AVEC LA CQPIE)
+Ve vien cule ici
+800
+790
+780
+A1
+640
+Az
+630
+627,6 %C
+620
+610
+= (II) A: 600 590 A4 | 580 560 PI 552 "C 550 547 %€ 540 (III) 530 520 10 20 30 40 50 60 70 80 90 100 KPO3 NaPO3 pourcentage massique Diagramme d' équilibre solide- liquide du système Na PO,-KPO: _
+Concours Technologie Session Juin 2010
+Epreuve de Chimie
+Page 5/6
 
+--- page 6 ---
+NE RIEN ECRIRE ICI
+DOCUMENT   ANNEXE 2
+0.20
+0.10
+7,79
+0.Dd
+pH
+~0.10
+13
+~0.20
+H,PO4 . HpPO; ~0.30 Co2+ -0.8836 H,PO; COtsd) 40.50
+[colOH)2(sd)
+7,19 HPO,
+~0.60
+HzPO;
+~0.70 H,POz 2 ~0.80 1,98 ~0.90 -1.00
+6,13
+HPO;2
+HzPO;
+PO4'
+-1.10
+"1.,20
+41.30
+41.40
+1.50
+41.60
+41.70
+21.80
+Diagrammes E-pH du phosphore (traits continues) et du cobalt traits en pointillés)
+Concours Technologie Session Juin 2010
+Epreuve de Chimie
+Page 6/6

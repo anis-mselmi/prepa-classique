@@ -1,3 +1,70 @@
+--- page 1 ---
+République Tunisienne Ministère de PEnseignement Supérieur et de la Recherche Scientifique Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs Session 2017
+1gai 1 48~3J) &1œlx:s)gade æusjega Jj Zabsi @1sliJi 0iJi 04855 Jai j! 2017 6489
+Concours Biologie et Géologie Epreuve de Mathématiques
+Session 2017
+Date: 25 mai 2017
+Heure: 8H
+Durée 3 heures
+La qualité de la rédaction et de la présentation, la clarté et la précision des raisonnements entreront pour une part importante dans Yappré - ciation des copies. Lusage des calculatrices n'est pas autorisé. Tout résultat fourni dans lénoncé peut être admis et utilisé par la suite, même s'il n'a pas été démontré.
+Exercice 1 (4 points) On désigne par (@,A,P) un espace probabilisé. Soient € et X deux variables aléatoires réelles discrètes indépendantes définies sur (@2,A,P) telles que € suit une loi de Bernoulli de paramètre p €J0,1[ X(Q) = N* _ On pose Y = eX + 1. 1. En utilisant le système complet dévénements {e = 0} et {e = 1}, montrer que (a) P(Y =1) =1 - p. (b) P(Y = k) = pP(X = k _ 1), pour tout k 2 2 2 On suppose que X admet une espérance finie. Montrer que Y est despérance finie et que
+E[Y] 2 pE[X] + 1.
+3 On suppose que X et Y ont même loi. (a) Montrer que pour tout k € N* on a :
+P(X=k+1) = pP(X =k).
+(b) En déduire que pour tout k € N* on a :
+P(X=k) = (1 _ p)pk-1 (c) Reconnaître alors la loi de X (d) Retrouver alors la valeur de Yespérance dune loi géométrique de paramètre q = 1 _ p.
 
+--- page 2 ---
+Concours Biologie et Géologie
+Epreuve de Mathématiques
+Page 2 sur
+Exercice 2 (7 points) Toutes les variables aléatoires intervenant dans cet exercice sont supposées définies sur un même espace probabilisé (0,AP). Soit a un réel strictement positif. Pour tout entier naturel k, on considère la fonction fk définie sur R par #ktk sit € [O,a] fk (t) = sinon,
+où %k est un réel. 1. Déterminer %k pour que fk soit une densité de probabilité sur R. 2. Soit X une variable aléatoire réelle de densité fk. (a) Montrer que la fonction de répartition de X est donnée par
+0
+si x < 0, xk+l si x € [O,a]  ak+1 si X >a.
+Fk(x) =
+(b) Montrer que
+k +1 E(X) = a k + 2
+k+1
+et
+V(X) 92 . (k +2)2(k+3)
+3 Soient k un entier naturel, U et V deux variables aléatoires indépendantes de densités respectives fo et fk' +0 On pose Y =U + V et fx une densité de Y. On rappelle que fx(t) = 1 fo(t = u)fk(u)du. 6 (a) Montrer que pour tout réel t € [0,2a] on a
+k+1 min(a,t) fx(t) = ukdu. k ak+2 max(O,t-a)
+(b) Déterminer max(O,t _ a) et min(a,t) dans chacun des cas suivants i. # € [O,a[ ii. t € [a,2a] . (c) En déduire qu'une densité de Y est donnée par
+tk+1 si t € [O,a[ ak+2 (t = a)k+1 si t € [a,2a] a ak+2 0 sinon.
+fx(t) =
+4. Pour n € N* on considère X1, . - Xn des variables aléatoires réelles indépendantes et de même loi, de densité f2. On pose Mn = max (X1.. . , Xn) 
 
+--- page 3 ---
+Concours_Biologie et Géologie
+Epreuve de Mathématiques
+Page 3 sur
+(a) Montrer que la fonction de répartition de Mn est donnée par FMn =F2 , (où F2 est la fonction définie dans la question 2. (a) avec k = 2)- (b) En déduire une densité de Mn. (c) Montrer que lim E(Mn) = a n-++0 5. On se propose, dans cette question, destimer le réel a à Paide de Yéchantillon (X1 . . , Xn) défini dans la question 4. 4 (a) Calculer E 'Xi) pour 1 <i<n. 3 4 (b) En déduire que Tn Exi est un estimateur sans biais de a. 3n (c) Calculer la variance V(Tn) en fonction de a et n. 0 0 (d) Montrer que lim P Tn = 1,96 <a < In + 1,96 =0,95. n-++0 V15n Vi5n (On donne $(1,96) = 0,975, où $ est la fonction de répartition de la loi normale cen- trée réduite N(0,1)): 15n 15n (e) En déduire que lim P Tn < a < Tn =0,95. n-++0 V15n + 1,96 V15n ~ 1,96 f) Donner alors un intervalle de confiance de niveau de confiance 0,95 du paramètre a.
+Problème (9 points) Notations
+On note par B = (e1,e2,e3  la base canonique de R3 donnée par e1 = (1,0,0), e2 = (0,1,0),e3 = (0,0,1). On désigne par (- le produit scalaire usuel de R3 et par || l la norme euclidienne. On note par idRs Yendomorphisme identité de R3 . On note par I3 la matrice identité dordre 3
+1 Soit z0 le vecteur de R3 défini par z0 = (1,-1,~1). On définit Yapplication @ : R3 _ R3 par V3
+Vu € R3 ,
+@(u) = (zo,u) zo.
+Partie I 1 (a) Montrer que @ est un endomorphisme de R3 (b) Pour u = (x,y,z) € R3 , donner Yexpression de @(u) en fonction de x,y et z. (c) Déterminer le noyau et Yimage de @ (d) $ est-il un automorphisme de R3 ? 2. (a) Vérifier que la matrice de @, dans la base canonique de R3 est donnée par
+=1 ~1
+1 A = 3
+21 1
+1
+~1 1
+1
 
+--- page 4 ---
+Concours Biologie et Géologie
+Epreuve de Mathématiques
+Page 4 sur
+(b) Justifier Yexistence dune base orthonormale; dans laquelle la matrice A est diagona- lisable (c) Montrer que @ 0 @ = @ 3. (a) Sans calculer le polynôme caractéristique, déterminer les valeurs propres de A. (b) Déterminer une représentation cartésienne de chaque espace propre de % 1 1 1 (c) Soient u1 (1,1,0), u2 (1,-1,2) et u3 (1,-1,-1). V2 6 3 Vérifier que B' = (u1,u2,u3 _ est une base orthonormale de vecteurs propres de Q (d) Trouver alors une matrice inversible P et une matrice diagonale D telles que D = tPAP, où #P est la transposée de la matrice P. (e) Calculer An pour tout n € N*
+Partie II
+Pour % € R; on considère Yendomorphisme de R3 défini par Qx = idRB7 +4q On note Ax la matrice de Q dans la base canonique de R3 . 1. (a) Montrer que pour tout & # 0, det Aa = 43PA(-x-1), où PA est le polynôme caractéris - tique de A. (b) Quelle(s) condition(s) doit vérifier & pour que 4 soit un automorphisme de R3 ? (c) Pour & et B dans R, montrer que # 0 # Qa+a8+B. (d) En déduire Yexpression de @1 pour & + ~1. 2. Déterminer les valeurs de & pour lesquelles on a I| I4 (u)Il2 = llull? , pour tout u € R? . 3 (a) Justifier que @-2 est diagonalisable et préciser ses valeurs propres. (b) Déterminer les sous espaces propres associés à chaque valeur propre de @-2. Partie III
+On considère (xn)neN, (yn)neN, (zn)neN trois suites réelles définies par Xo = Yo = Z0 = 1 et pour tout n € Non a : 1 1 1 Xn+1 = Xn + Zn' é pn p Yn+l = Xn + Yn Zn, p 6 p Zn+1 = 3Xn 3yn 62n.
+Xn
+On note Xn
+Yn
+pour tout n € N.
+Zn
+1 1. Montrer que Xn+1 A-2Xn pour tout n € N. 2 2. Montrer que A2,2 = Is et A2,+1 = A-2, pour tout p > 0. 3. En déduire les expressions de Xn Yn et Zn en fonction de n. 4. Calculer les limites de Xn Yn et zn quand n ~ +0.
+Fin de lénoncé

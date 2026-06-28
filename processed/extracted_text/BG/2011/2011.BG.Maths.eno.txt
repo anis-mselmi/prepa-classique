@@ -1,4 +1,76 @@
+--- page 1 ---
+42ydd) &Uluslezis {4w JoV +holl ol,lilzall Upc G Llelii uLin all 2011 40)
+REPUBLIQUE TUNISIEYYE Ministere Q [Ensclgnorxn Supérwur ede | Recherch: Sciectfque
+Concours Natonaux d'Entrie alX Cyde de Formation d'Ingénieurs Session Z01
+Concours Biologie
+Epreuve de Mathématiques Date: Lundi 13 Juin 2011 Heure: 8H Durée: 3H Nbre pages: 5
+Barème: Exercice: 7 pts Problème partie I: 8 pts   partieII: 5 pts
+La qualité de la rédaction, le soin de la présentation et la rigueur des raisonnements constitueront des éléments importants pour l'appréciation des copies. Il est ra 'ppelé que tout résultat énoncé dans le texte peut être utilisé pour traiter la suite, même s'il n'a pu être démontré. L'usage de tout ouvrage de référence et de tout autre matériel électronique est strictement interdit . 'StUT PafPaRAtoins NOTATIONS (Biblettene Dans toute la suite, nous allons utiliser les notations suivantes: AUX FTUBSE SFAxy Dugnns (2,A,P) désigne un espace probabilisé. X une variable aléatoire réelle va.r si X est à valeurs dans R ou une partie de R X(Q) est l'ensemble des valeurs possibles de X. Pour tout W € @, X(w) est une réalisation de X. E(X) est l'espérance de X et V(X) est la variance de X lorsqu'elles existent. Une va.r X est dite centrée si E(X)  0 La "c.r X est dite bornée; s'il existe une constante € > 0 telle que Vw € @, |X(u)l < €. Mz(R) désigne l'ensemble des matrice carrées d'ordre 2 et à cæfficients dans R. Si v est un vecteur ligne de R? alors 0t est; le vecteur colonne de R? égal à sa transposée. Si XL, Xz sont deux u.@.T; alors V = ( X1, X2)* est un vecteur aléatoire de R? d'espérance m = (E(X1), E(X2)) et de matrice de variance-covariance T € Mz(R) telle que T = (Yij)<i.js? et Aij =cov( Xi, Xj)  exp() désigne la fonction exponentielle. Pour tous vecteurs U = (11 , u2)t et v = (v1, v2)t de R? on note le produit scalaire Euclidien de U et v par la quantité (u,v) = 11"1 + 42u2. Cette définition du produit scalaire est valable pour des vecteurs aléatoires U = (U1,Uz)t et V = (Vi, Vz)t à valeurs dans R?
+Concours Biologie Session Juin 2011
+Épreuve de Mathématiques
+Page 1/5
 
+--- page 2 ---
+RAPPELS
+1 Inégalité de Markov Si X est une u.O.T positive et d'espérance finie, alors
+Ve > 0, P(X > €) < E(X2
+(1)
+2  La fonction densité de probabilité conjointe dun couple de U.0.r gaussien, (X1,X2) de moyenne m = (m1, m2)t et de matrice de variance-covariance T est définie pour tout vecteur colonne x 2 (æ1,s2)t € R? par
+f(z1,22) = exp 2m vdet(F
+2(x - m)T-1(x = m) )
+où F-1 est l'inverse de la matrice I.
+3 Si un couple de "a.T, ( X1,X2) suit une loi normale dans R?, alors; pour tous réels a et b, la v.a.T aX1 + bX2 suit une loi normale.
+Exercice
+Soit T la matrice de M2(R) définie par
+3 ~1
+T =
+3
+Soient X et Y deux ".@.T telles que le vecteur V = (X,Y)* suit une loi normale de moyenne m = (0,0)* et de matrice de variance-covariance F ( c est à dire V(X) = V(Y) = 3 et cov(X,Y) = -1) .
+1 Montrer que les variables X et Y ne sont pas indépendantes .
+2 . Montrer que F admet deux valeurs propres distinctes X1 > X2 que l'on déterminera.
+3 Donner une base orthonormée; B = (u,v), formée de vecteurs propres de [. On conviendra que u appartient au sous-espace propre de T associé à Xl.
+4  On définit deux nouvelles v.a.T T et Z de la façon suivante
+1
+T = 2 (V;u) et Z =
+(V;v) , où V = (X;Y)t .
+(a) Déterminer les lois de probabilité des va.r T et Z. (b)  Déterminer la matrice de variance-covariance, A, du vecteur aléatoire W = (T,2) (c) Déterminer la loi de probabilité du vecteur aléatoire W_ (d) Calculer la densité de probabilité conjointe f du couple de U.@.r (T,Z) . En déduire que les "&.r T et Z sont indépendantes.
+oncours Biologie Session Juin 2011
+Épreuve de Mathématiques
+Page 2/5
 
+--- page 3 ---
+Problème
+Partie I +0 22n 1 Montrer que la série entière est convergente. Préciser son rayon de convergence R (2n)! n=0 et sa limite h(z) -
+2  Donner le développement en série entière de la fonction exp en précisant son Iayon de 2 convergence R' . 3 Montrer que; pour tout n € N; 2"n! < (2n)!
+4 En déduire que
+#2 Vt € R; ch(t) < exp(2) (2) 5 (a) Montrer que la fonction exp(:) est convexe sur R. (b) Soient m et t deux réels tels que 2 € [~1,1] et t € R. En remarquant que t t 1(1 - 2) + 2(1+2) =1 et 2(1 _ 2) + 2(1 +2) = tz, 2 montrer que 1 exp(tz) < 2(1 ~z)exp(-t) + 2(1+2) exp(t) 6 Soient t un réel quelconque et X une "@.T centrée et bornée par 1. (a) Montrer que exp(tX) < 2(1 = X) exp( -t) + 4(1+ X)eœ(t) (b) Montrer que, pour tout t € R; E(exp(tX)) est fini; et que E(exp(tX)) < ch(t) t2 (c) De linégalité (2), déduire que, pour tout t € R, E(exp(tX)) < exp(2) 7 . Soient n € N et X1; Xn T U.@.r indépendantes et de même loi que X On note Sn = Xi. Montrer que, pour tout t € R
+t2 E(exp(tSn)) < exp n 2
+8  Soient € un réel positif; n un entier dans N* et t € R+. (a) Montrer que P(Sn > e) < P [exp(tSn) > exp(ts)] (b) En appliquant l'inégalité de Markov (1) à la variable aléatoire exp(tS ) montrer que n*? exp( P(Sn > €) < exp(te) +2 (c) Soit In la fonction définie pour tout t € R, par gn(t) = n te En étudiant les 2 E2 variations de la fonction In(t) montrer que pour tout t € R, In (t) 2 et que la 2n courbe de la fonction In admet un minimum unique.
+DaT2 7/ 5
 
+--- page 4 ---
+(d) En déduire que pour tout € € Rt'
+P(S > €) < exp
+(3)
+02 2n
+9 Soient T une U.@.T et € un réel dans Rt (a) Montrer que P(lTl > :) < P(T > e) + P(-T > :) . (b) En déduire que P(IS | > :) < 2exp(-2
+(4
+Partie II
+Soit g la fonction réelle définie sur lintervalle [0, 1] par
+Vz € [0, 1], g(z) = Vl + 24
+On considère lintégrale
+1 = J 9(2) dz. Soient n € N* U une va.T de loi uniforme sur [0, 1] et U1, Un, n ".a.T indépendantes de même 1 1 loi que U. On pose X = V?g(u), Xr = V?9(U;) , Sn = X; et Xr = 1Sn' Par ailleurs, on n rappelle que la densité f de U est donnée par si s € [0, 1] f(z) ={2 sinon Soit Q et E deux réels fixés dans J0, 1 [ On se propose de dêterminer un entier n* € N* tel que POUI tout n 2 T1 * , la valeur inconnue de I appartienne à lintervalle [An ~ 6, An + s] avec une probabilité supérieure ou égale à 1 ~ Q, soit
+P (lAr - Il < €) 2 1 _ .
+(5)
+1 Montrer que la ua.r X est bornée par 1
+1 1 2 Montrer que E(X) = E (Xn) = et que V(X) vé 1o
+1 3 (a) Montrer que P Ix - Jl > v) < 522' (b) i. Montrer que, Pour tout € > 0, P Iz-1/s7) 21 - 5n122 ii. En déduire que I € [v2Xn -€, V2Xn +:] avec ule probabilité supérieure ou égale 1 1 5n22-
+Concours Biologie Session Juin 2011
+Épreuve de Mathématiques
+Page 4/5
 
+--- page 5 ---
+(c) Déterminer une valeur nu € N* pour que la relation (5) soit vérifiée (d) En remarquant que les variables Y; = 2(x; œ)i = = 1, . . . , n, sont centrées et bornées par 1, montrer, en utilisant linégalité (4), que pouI tout € > 0, on à : ne? P Xn < 7_ 2 1 _ 2exp 16 En déduire que I € [v2Xn - €, V2Xn + e] avec une probabilité supérieure ou égale à ne? 1 ~ 2 exp 16 (e) Déterminer alors une valeur næ € N* pour que la relation (5) soit vérifiée. 4. On donne Q = 0.001 et € = 0.01. Calculer nM et n2-
+oncours Biologie Session Juin 2011
+Épreuve de Mathématiques
+Page 5/5

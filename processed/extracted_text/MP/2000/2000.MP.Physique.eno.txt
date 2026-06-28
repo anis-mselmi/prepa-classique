@@ -1,6 +1,111 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE
+Ministère de /'Enseignement Supérieur
+Concours Nationaux d'Entrée aux Cycles de Formation d'Ingénieurs Session : Juin 2000
+(st7tutppres (BISLictege) 2 8 'Dugehieuss ` Concours en Mathématiques et Physique Epreuve de Physique
+Durée 4 heures
+Date 7 juin 2000
+Heure : 8 h
+Nb pages 7
+Barème
+Partie I : 5,25/20;
+Partie II 5/20;
+Partie II 4,5/20;
+Partie IV 5,25/20
+L'usage dune calculatrice non-programmable est autorisé
+Si, au cours de l'épreuve, un candidat repère ce qui lui semble être une erreur d'énoncé. il le signale sur sa copie et poursuit sa composition en indiquant les raisons des initiatives qu'il est amene à prendre
+Le  problème comporte différentes   parties indépendantes entre elles, les candidats   peuvent   les resoudre dans l'ordre qui leur convient; en respectant néanmoins la numérotation des questions .
+4***a
+La spectroscopie est un moyen d'analyse de la répartition spectrale dun rayonnement . Elle a connu un cssor prodigieux dans les années 1860, avec l'identification de nouveaux  éléments chimiques à partir de leur spectre caractéristique. Actuellement; elle est très utilisée dans différents domaines physique de la matière condensée; physique des plasmas; chimie organique; biologie. Les appareils permettant cette analyse; c'est à dire la répartition de l'intensité de la lumière en fonction de la longueur donde; sont appelés spectroscopes Dans les deux premières parties de ce problème, on s'intéresse à l'étude de deux t!pes de spectroscopes les spectroscopes à réseaux les spectroscopcs interférentiels utilisant l'interféromètre de Michelson. La troisième partie est consacrée à létude dun moteur (à courant continu) utilisé pour commander la translation du miroir mobile de linterféromètre de Michelson. La nécessité dun verre anticalorique; placé à lentrée du Michelson; sera justifiée dans la quatrième partie
+I- Monochromateur à réseau
+Séliminaine Pour réaliser un spectroscope; il faut un 'disperseur' qui est un dispositif permettant l'étalement des différentes longueurs d'onde du spectre dans des directions différentes. 1 Donner le schéma de principe dun spectroscope utilisant un prisme et expliquer, sans calcul lorigine de la dispersion de la lumière.
+M &
 
+--- page 2 ---
+Dilegaliewfa C 'mieichlan Un miroir rectangulaire plan de largeur € et de longueur A est éclairé par une onde plane monochromatique, de longueur donde 1 sous langle dincidence i1. On observe la lumière difffactée à linfni par c miroir dans le demi-espace contenant l'onde incidente La longueur A est suffisamment   grande pour De pas considérer Ja difffaction dans la dircction correspondante.
+iz
+€
+2 Déterminer   l'expression de l'amplitude A de londe diffractée par le miroir dans la direction faisant l'angle i2 avec la normale du miroir. Les angles i1 et i2 sont   comptés à partir de la normale au miroir,   positivement dans le sens trigonométrique (cf figure La). On posera u ÆE (sin i, +sin iz) 1 @iphaclion hausyséacaayplan Un réseau   plan est constitué de N miroirs   parallèles identiques de largeur €, séparés les uns des autres par une distance h dite pas du réseau. Le réseau est éclairé par une onde plane monochromatique; de longueur donde 1, sous l'angle dincidence i, (cf figure 1.b).
+Figure La
+h
+3 Montrer que l'intensité de l'onde diffiractée à l'infini par lensemble du réseau dans la direction faisant langle iz peut s'écrire sous la forme No sin sin u 2 IR = IRo u Nsin @ 2
+Figure Lb
+Exprimer @ en fonction de %, h et sin i1 + sin iz). Que représente IRo ? 4 a Simplifier   l'expression donnant IR pour une largeur € des miroirs tres petite ( € <<1) L'étude de cette fonction simplifiée montre l'eristence de maxima secondaires dintensité négligeable, maxima principaux pour @ = 2pr où p est un entier (appelé ordre), 27 minima nuls pour $ m où m est un entier différent de pN. N b- Donner alors l'allure de IR(o)
+5 En tenant compte du fait que N >> 1, quelle valeur (6i2)1rz peut-on adopter pour la demi-largeur angulaire dun maximum principal d'ordre p ? Exprimer (Si2)1n en fonction de i2, N, b et 1.
+2
 
+--- page 3 ---
+Pour sne 'rgueur ''erae ;-+^ :cisine de la directicn Jun maximum princical j'ordre ? 'arie je :ji:'ax Par fapcer 1 celle cerrescont ] ; jans 'e neme orire Exprirer .ci:W. en inc:icn je ?. =;  J 2t ::
+L1 iumiere :rc:certe corrient en "i: decx -2daions je 'ongceurs j'orde et ;-;2 Quei esi ie ?ics ?e:ii 2car: f2n je Sngcec: J'cnde +Le :Jn ?ect Zerec:er Jars 'a region j'u7 naxinum prsc: Pal corcre ? Exzrrer Jicrs 'e cvcwoir Ze -2soiut:en :hecrque ju: -eseju R: 1 ; 2 en forcrion ce P e
+On sucposera Yue . :u€ jv resoianon {S[ ae:nlr 3 ! 22 iaX:mum ;r:nc:sii ~orres?onaiant 2a longueur &onde ;-ù; Se "orme cicns urrcaon ciul premter manimuin nui correszondart Li ia tongueur i'onde ; 'crlere .é Risie:gn
+8
+Or utilise une lampe 1 vapeur de rercure munie Cun filcze jaune qui ne laisse Passer que Zeux radiations tres voisines d'egale intensite e de longueurs donde ^: = 577 nm el 72 = 5-c am (dcublet jaune du mercure) Le resezu urilise. comporant -00 miroirs ?ar millime--e est eclaire SUF une largeur L 2 [ cm Ce doublet du mercure est-il resolu dans le spectre d'ordre !
+II - Interféromètre de Michelson
+L'interrerometre de Michelson. -egle en lame à faces parallèles. Cst corsutud de deux miroirs M: et Mz M: est fixe alcrs que M_ Feut subir un mouvemert Ce [ranslarion suvant ! axe (Ox) pependiculairement au plan de sa surfàce. La translauon est commandec par un mcteur et les plans contenant les deux miroirs restent orthogonaux. dune lame semi-retlechissante $ (dite scparatrice). inclinée de 45 par rapport 1 [ axe (Ox) dune lame compensatrice C placee contre la separatricc. On suppose dans la suite que la lame ainsi compensée n'introduit aucun dephasage supplémentaire et que les ondes qui interfërcnt ont la même intensité   L1 lumière utilisée est monochromatique de longueur d'onde
+mirou fixe M: 0.
+Mouvement de translation
+{separatrice (S)
+miroir mcbile Mz
+rayon incident Ro
+observation
+Eigur?
 
+--- page 4 ---
+1 On considère un rayon incident Ro issu de la source (cf figure 2) et qui fait l'angle € avec l'axe (Ox). Faire une figure soignée et montrer quun tel rayon dédoublé par la séparatrice; donnera à la sortie deux rayons parallèles et 2 Montrer; qu'au point de vue différence de marche; le schéma de la figure 2 est équivalent à celui représenté sur la figure 3 où Mz est le symetrique de Mp par rapport à la séparatrice et d = OOz 0O1.
+M,
+miroir fictif Mz
+souIce
+miroir M
+Mz
+Lo
+détecteur
+Eigure 3
+Figure 4
+3 a- Expliquer pourquoi les rayons et peuvent interférer. b - Dans quelle région de lespace observe-t-on cette interférence? C - Calculer , en fonction de 8 et d, la différence de marche & entre ces deux rayons d- Donner alors l'expression de lintensité I de l'onde résultante. On notera Io lintensité obtenue pour & = 0.
+4 L'interféromètre est éclairé maintenant avec une source ponctuelle placée au foyer objet dune lentille convergente (Lo) daxe (Ox) Le faisceau sortant du Michelson est focalisé par une lentille (L) sur un photo-détecteur placé au foyer image de celle-ci (cf figure 4) 2 - Donner l'expression de l'intensité I reçue par le détecteur en fonction de Io, d et ^ b- Sachant que lorigine des temps 0) est prise au moment du contact optique (d = 0) et que le miroir Mz est entraîné  par un moteur avec une vitesse constante Vo, exprimer Tintensité I en fonction de Lo, Vo, t et 1
+Skhlicalicn
+5 On utilise maintenant une source munie dun filtre qui laisse passer deux radiations de même 1 1 intensité et de nombres d'onde 01 = et 6 2 = où 11 et 12 désignent les deux longueurs 1, 12 d'onde Sachant que le détecteur délivre un courant électrique d'intensite proportionnelle à Tintensité de lumière qu'il reçoit; donner l'expression de i en fonction de Vo, t, 01, O2 et io, où io désigne l'intensité du courant délivré par le détecteur à t = 0 Go = % +02 On posera Ao = 01 02 et avec Ag << 0o. 2
 
+--- page 5 ---
+6 Le relevé du   signal électrique délivré par le détecteur  s'effectue grâce à une table traçante. La courbe donnant iio ) en fonction du temps (t en secondes) est donnée par la figure 5 Déterminer. à partir de cet interférogramme; Ac et G0. En déduire en um l'écart 42 = 12 A1. On donne vo = lums iio
+An
+temps(s)
+Figure { II Moteur à courant continu
+Le FOtOr du moteur entraînant le miroir mobile du Michelson est constitué dun cylindre daxe (z oz), de rayon 2 et de hauteur b sur   lequel on enroule un fil conducteur formant ainsi une spire rectangulaire. L'ensemble étant placé dans un champ magnétique permanent créé par un dispositif auxiliaire. L'expression de ce champ est B = Bo u , du côté (1) et B = ~B o u , du côté (2) (cf figures 6.a et 6.b)
+P
+B
+Côté(2)
+Côte(1 )
+B
+5
+H
+1
+K
+Figure 69
+Figre 65
+On désigne par 0 = @ U 1 le vecteur rotation du rotor spire 4 cylindre) et par icle courant qui circule
+dans la spire suivant le sens indiqué sur la figure 6.a La base L < U0 ` 0 z est orthonormée directe.
+1
+Montre- que la résullante des actions qui s'exercent sur la spire. parcourue par le courant is et placée dans le champ B se réduit à un couple de moment C = 2 i; 2 b Bo uz
+02 Lors de l2 rotation le rotor est soumis en plus à un couple résistant C = Co 1 1 (Co> 0) En designant par J le momeni d'inertie du rotor par rappon à laxe (z 0z) et en utilisant les lois de la mécanique; établir Yéquation dite mécanique (EM). reliant @. is. J a t. Bo et Co
 
+--- page 6 ---
+Montrer que l2 :crce electrcmotrice (e exz). incuite par la rotation de la spire cans le chamc permarent 3 ceut ; ecrire scUS .1 :orme e = - W 1 b Bo. On Jegis gera e preromene *'autC-incuction dans l2 spire La scire ce -esisiance R 2S[ cornec-ee par Fintermediaire des deux ?cirts K el L 4 un Ka R generateur de :ension de f 2 = corsiante E Le montage elecrique equivalent eSt -epresente sur la #gure E Determiner V'equation dite electrique (EE) reliant Eis R 2 D @ et B
+à - 4 Parir des equations EV) et (EE). etablir E2ur? une equation Zitferentielie veritiee par la vitesse argulaire 0 b - Sachant cu à 1 = 0. le FCIOT est immobile. chercher la Ici de variation de @ en foncticn du JR 2a b EB2 temps. On posera { = et on supposera que C, 4 6 - Bo R C - Tracer la courbe donnant 0 en fonction du temps.
+Sachant que pour un tolf effectue par   le [OIOT . le miroir mobile de Tinterzerometre ce Micheiscn se deplace dune distance
+2 - Donner l'expression de .a vitesse limite Vo atteinte par e miroir en fonctior des donrees cu probleme E 7 R a 6 @ C, et Bo. b- Au bout de combien de -emps Jc la vitesse de translation du miroir atteint-elle 99 % de sa valeur limite vo On exzrimera ce remps Jt en fonction de -
+IV Protection de la séparatrice et des miroirs du Michelson Suisance_disihée haz 8/2/ cule_dans {} cewductcuv Une onde plane pregressive se propazeant suivant les z croissants   dans  le demi-espace vice z < U. arrive sous incidence normale sur le plan (xOw) Le métal utilise. de conductivité elecique ccrstante % men1l de constartes élecirque et magnerique (€ .+ ) occupe le demi-espace z > 0 (cf fgure 8) 1 Pour une orde électromagnetique cans le domaine visible ( f ~ 10" Hz), montrer qu'on peut négliger le courant de deplacement devant le courant de conduction. On donne 1 = 10 Sm 21 et €) = 8,8 10 12 Fm7 21
+2
+Ecrire alors; pour un metal globalement neutre, Eigure f les équations de Maxwell. 3 Etablir l'équation de propagation du champ électrique dans le métal.
+@t z 4 Vérifier qu'un champ électrique qui s'écrit sous   la forme E = Evo e 8 e U * peut exister dans le métal Eto designe lamplitude du champ dans le metal en z = 0 Donner l'expression de $ er fonction @. % et Ho.
 
+--- page 7 ---
+5 En partant de la densite volumique de puissance dissipée dans le conducteur , calculer la densite moyenne de puissance; puis la   puissance movenne Pmnov dissipee dans un conducteur cvlindrique de section 5 et de hauteur z infinie.
+Jamtea_incandescence Lors du reglage de !'interférometre de Michelson et afin dobtenir le contact opuque. on uulise une source de lumiere blanche Pour cela on eclaire l'intertëromètre avec une lampe 4 incandescence qu1 emet une puissance relauvement elevee (de l'ordre de 100 W), essentiellement dans l'intrarouge Cette energle va être dissipee dans un peti volume (surfàce dun miroir est de l'ordrc du cm est de l'ordre du um) Tout ceci conduirall 1 un echaufement op imponant de la couche metallique 1 la surface dun miroir et donc 1 sa destruction. Dans ce qui SuIL on montrera que la partie visible du ravonnement emis par une lampe 1 Incandescence ne constitue qu'une fraction tres petite de la rotalite de la puissance ravonnee .
+Le filament de tungstene de la lampe eclairant l'interféromètre de Michelson est assimile a un ccrps nOII convexe à la temperature T. Un corps noir émet une puissance M par unité de surface flux surfacique dependant de sa temperature T La loi de Planck donne le flux surfacique par intervalle de frequence: Kg = 1,38 10-3 JX constante de Boltzmann h = 6.63 10 " Js constante de Planck dM Zhv} c = 3 108 ms célérité de la lumière dans le vide dv hv KBT T temperature en Kelvin Y fréquence en Hertz
+En sommant sur toutes les frequences, montrer que le flux surfacique total emis par un ccrps noir est donne par la loi de Stefer : M = c T' Donner la valeur numérique ainsi que lunite de la constante de Stefan g . X 7 On donne dx = e 21 15 dM 2 - Exprimer le flux surfacique par intervalle de longueur donde en fonction de 1 dX dM b - En deduire que la valeur LM, pour laquelle est maximale, obeit à la loi de déplacement d^ de   Wien. On pourra utiliser la valeur   numérique X = 4,96 comme solution de l'équation suivante e*(5 - x) = 5.
+8
+Sachant que l2 puissance que consomme ia lampe (P = 100 W) est totalement émise sous forme de rayonnement par le fil de tungstène ayant une surface totale $ = 4 10-5 inl montrer que l'énergie qui parvient au Michelson est essentiellement concentrée dans l'infrarouge. 9 Calculer   la   puissance Pvisible rayonnée par la lampe dans le visible 4 = [0,4 pm ; 0,8 um]
+1p X
+dx ~ e ~<r On donne, pour XR >>] et Xe 2 2 XR (xR +3xR Commenter. e =1 Xr
+La face d'entrée d'un Michelson (côté source) comprend un Yerre anticalorique qui est en fait un filtre qui laisse passer le visible mnais caupe 1 infrarouge _ Il protège donc |'interféromètre contre le rayonnement infrarouge qui Pourrait endonmager la séparatrice et les deux miroirs.

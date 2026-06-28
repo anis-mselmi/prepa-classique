@@ -1,4 +1,89 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministene dc VEnseignement Supcricur . de la Recherche Scientilique et de la Technologu 91
+399) 42938)
+{ijluzbs S3sybg=@Ls Jsan uibsi al jblij; UhiJi Usjala 2009 ; ,3
+Cioqucorenoi
+Concours Nationaux d'Entrée aux Cycles de Formation d'Ingénieurs Session 2009
+Concours Toutes Options Epreuve d' Informatique
+Date Mardi (2 Juin 2009
+Heure : 15 H
+Durée 2 H
+Nhre pagcs 5
+Barèmc EXERCICE 1 : 4 points
+EXERCICE 2 : 6 points
+PROBLEME 10 points
+DOCUMENTS NON AUTORISES
+L'USAGE DES CALCULATRICES EST INTERDIT
+EXERCICE 1 Soit la fonction f définie par
+MSTIU Gieloteque ) 9 Qus DuBtUs
+X+1 si -1<x<1 f (x) =  2 0 sinon
+Donner les commandes MAPLE permettant de 1) définir la fonction 2) représenter graphiquement f entre ~T Cl I : 3) alfecter à an et hn respectivement a, et b, les coefficients de Fourier de f définis par f (x_ coS (nx )dx et b n ICf (x ) sin(nx )dx 0n =
+4) convertir an et bn en deux suites a et b fonctions de n : 5) calculer la limite de aet celle de b quand n tend vers 0 6) détinir la liste L/ contenant les points [i,a(i)] et la liste Z2 contenant les points [i,b(i)] pour tous les entiers i de Fintervalle [1,20] représenter sur le même graphisme les deux listes LI et L2.
+'oncours Toutes options Session Juin 2009
+Epreuve dInformatiquc
+Page V5
 
+--- page 2 ---
+Indication La commande plot permet de représenter une liste de points . Chaque point est défini par une listc constituée de son abscisse puis son ordonnée. Pour obtenir une représentation en points,  utiliser Foption  style -point. 8) définir la fonction SF à deux variables x et m représentant la série de Fourier à F'ordre m. On rappelle que la série de Fourier à F'ordre m est donnée par % Éla; cos(k x)+b, sin(k r)) 2 4=1 9) donner sur le même graphisme; la commande permettant la représentation graphique de f (x) , SF (x ,2) et SF (x ,20) pour xe[~T,7]
+EXERCICE 2
+1)  Soient
+une matrice carrée dordre
+et tr ( A) sa trace (tr(A)-É4,) On   souhaite déterminer P;le polynôme caractéristique de A, donné par P = x" + C; x"-1 + C2 x"-2 + +Cn-1X+Cn où les C, sont les coefficients de P selon les puissances décroissantes en Pour cela, on calcule la suite des matrices A , ainsi que leurs traces tr ( A ,) définies par
+A ,= A ,
+C =~tr (4 1) ~tr (A2 A F(A,1+C,-1)A C pour 2<i<n
+1 étant la matrice identité d'ordre n
+Ecrire une procédure MAPLE; nommée calcul_pol, ayant comme paramètres une matrice carrée M et son ordre n et qui retourne le polynôme caractéristique de M en x en utilisant la méthode de calcul ci-dessus expliquée  2) Soit M une matrice définie par
+M
+Ecrire les commandes MAPLE permettant de 2.1) charger le package linalg ; 2.2) définir une fonction qui sert à remplir la matrice M ; 2.3) définir M en utilisant f ; 2.4) affecter à la variable Id une matrice identité d'ordre n (n supposée définie) 2.5) affecter à la variable Plle polynôme caractéristique de Men x (sans utiliser calcul_pol) 2.6) affecter à la variable P2 le polynôme caractéristique de M par appel à calcul_ppol 2.7) vérifier si Pl et P2 sont identiques. Concours Toutcs options - Session Juin 2009 Epreuve dInformatique Page 2/5
 
+--- page 3 ---
+3) Ecrire une procédure MAPLE,   nommée comparaison,   ayant comme paramètres   deux polynômes P et Qen x et qui permet, par comparaisons successives des coefficients des termes de même degré, de retourner vrai si les polynômes sont identiques et faux sinon.
+PROBLEME On désire manipuler en base 2 des nombres réels appartenant à Fintervalle [0,1[ avec une grande précision. Soit x un réel appartenant à lintervalle [o,1[- Ce réel s'écrit sur N chiffres en base 2 sous la forme
+X = 2x,2 ' 0.X;x2*; Xn tels que les entiers x; € {0, 1}  i=1
+Le réel x sera représenté par un tableau T de N entiers tel que T[i] = x, La méthode de calcul des X du tableau T est la suivante
+0 si 2x <1 sinon
+X1 partie entière de 2x (x e[0,1[) donc x
+Notons R; = 2x - X1
+Si R, =0 alors les entiers X2, X,, ,Xn valent tous zéro. Si R; # 0 on calcule à chaque fois x , et R, tels que Jx; partie entière de (2R; - pour 2<i<N (R, =2R, -1 =X, On arrête les calculs lorsque Fune des deux conditions suivantes est satisfaite -R; =0 , dans ce cas, les entiers Jml' X;+2 ' ,Xv valent tous zéro ~i =N.
+Exemple pour un réel x= 0.625
+X; = partie entière de 2x, donc X; =1 R, = 2x ~Xi 0.625*2 -1=0.25
+X 2 partie entière de (2R,) =0 R #0 on calcule donc Rz = 2R,~ ~X2=0.5 X, = partie entière de (2R,) =1 Rz #0 , on calcule donc R, =2Rz ~X;=0
+R; =0 _ donc *4 = 0 Xs =0=
+Xn = 0.
+Dans la suite, on suppose avoir effectué les définitions suivantes Constante N=I0O0 Type TABGR tableau [1 N] dentier
+Concours Toutes options Session Juin 2009
+Eprcuve dInformatique
+Pagc 3/5
 
+--- page 4 ---
+On suppose également que les  variables réelles x; y et appartenant à Fintervalle [0,2[ sont représentées respectivement par les tableaux Tx, Ty et Tz de type TABGR NB Le mot variable figurant dans les entêtes des procédures et fonctions signifie le mode de passage S ou ES. 1) Ecrire une procédure algorithmique saisie, permettant de saisir un réel w (we[0,)  et dont Fentête est Procédure saisie(variable w réel) 2) Ecrire une procédure algorithmique convert; qui convertit un réel (we[0,1[),en sa forme binaire représentée par un tableau Tw de type TABGR en utilisant la méthode proposée ci dessus. Cette procédure a comme entête Procédure convert (w réel variable Tw :TABGR) 3) Ecrire une fonction algorithmique plusgrand telle que vrai si x 2 y plusgrand(Tx,Ty) faux si x < y
+Cette fonction a comme entête Fonction plusgrand(Tx, Ty :TABGR) booléen 4) La multiplication par 2 dun nombre binaire revient à décaler tous ses chiffres d'une position vers la gauche. Exemple (0.0101011)2 2 = (0.1010110)2 Ecrire une procédure  algorithmique foisdeux; qui multiplie par 2 un réel x représenté par un tableau Tx donnant si possible un tableau Ty représentant un réel y et une variable booléenne tropgrand telle que vrai SI 2x 21 tropgrand faux SI 2x < L, dans ce cas y = 2x
+Cette procédure a comme entête Procédure foisdeux(Tx :TABGR , variable Ty TABGR, variable tropgrand booléen)
+5) Soient deux variables x et y de type réel telles que 0 <x < y < On veut effectuer la division 2 de x par y. Pour cela; on délinit la suite u de réels et la suite q de chiffres binaires (0 ou 1 par Uo =X 0 si 2u, < y avec 4,+ 4,+1 2u, 4,+1 y si 2u; > y
+partir de cette suite, on déduit que
+U;
+=2x-y29,2- avec 0<u, < y pour i 20
+doù
+x=É9,2 ' +2 ' " 29,2 quand i - 0
+Concours Toutes options Scssion Juin 2009
+Epreuvc d'Informatiquc
+Page 4/5
 
+--- page 5 ---
+Autrement dit
+s'écrit 0,9,929,-9,9;+-9v en base 2
+5.1) On suppose que ]'on dispose dune procédure algorithmique Procédure difference(Tx; Ty :TABGR variable Tz TABGR) tel que z =x-y avec x> y. (On rappelle que les réels x,y et z sont représentés respectivement par Tx, Tyet Tz de type TABGR) Ecrire une procédure algorithmique itère dont lentête est Procédure itère(Tx, Ty TABGR , variable Tz TABGR variable tropetit booléen, variable erreur booléen)
+Cette procédure permet de calculer Tz, tropetit et erreur tels que
+tropetit vrai 2x-y<0 alors et z = 2x
+faux si x < 2
+dans ce cas
+tropetit faux si 2x-y20 alors et z = 2x - y
+erreur
+vrai si x2 2
+NB Cette procédure permet de calculer un terme u; de la suite u (représenté par Tz) et déduire, selon la valeur de la valeur de tropetit, le terme 9+1 de la suite 9 lors de la division de x par y
+5.2) Ecrire une procédure   algorithmique  divise qui, partir de deux réels x et y tels que x < y < calcule un réel z formé des N premiers  chiffres binaires {9 ou 1) de x Cette 2 procédure fait appel à la procédure itère et a comme entête Procédure divise (N entier, TxTy :TABGR variable Tz : TABGR, variable correct booléen)
+vrai si x <y<1 avec correct = 2 faux sinon
+6) Si la contrainte x <y < 2 n'est pas satisfaite; indiquer sommairement (on ne demande pas Fécriture d'une procédure) comment on peut calculer * y
+Concours Toutcs options Scssion Juin 2009
+Epreuvc dInformatiquc
+Page 5/5

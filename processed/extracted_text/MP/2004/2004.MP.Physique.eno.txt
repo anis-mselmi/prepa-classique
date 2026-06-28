@@ -1,8 +1,117 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de ['Enseignement Supériewr, de la Recherche Scientifique et de la Technologie
+Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs Session : Juin 2004
+Concours en Mathématiques et Physique Epreuve de Physique
+Insthtut / rephratoi ^ 2 {bieliotheque ` 8 6 DIngel NEURs ^
+Date : Jeudi 10 juin 2004
+Heure : 8 H
+Durée : 4 H
+Nb pages : 8
+Barème : Pbl: 7 pts (11,5; Il,S; I3)
+Pb2: 13 pts (U5,5; 104,5; DI3)
+Lusage dune calculatrice non programmable est autorisé
+Si au cours de l'éprewve, u candidat repère ce qui lui semble être ue erreur dénoncé, il le signale Su sa copie et powrsuit sa composition en indiquant les raisons des initiatives qu'il est amené à prendre.
+Lépreuve comporte deux problèmes indépendants.  Chaque problème comporte des parties indépendantes. Le candidat peut les résoudre dans lordre qui lui convient en Fespectant néanmoins la numérotation des questions.
+PROBLEMEI : CONDUCTION ET RAYONNEMENT THERMIQUES
+1-Réalmo poranent Une barre homogène, indéformable, de conductivité thermique constante 2, de section unifome A et de longueur d est en contact thermique à son extrémité y = 0 à une paroi P1 de température constante T1 et d à son extrémité y = d à une paroi Pz de température constante Tz < T, (figure 1) La surface latérale de la barre est parfaitement adiabatique. Dans toute cette partie, seul le transfert thermique par conduction, régi par la loi de Fourier; est à considérer.
+Iz
+Pz
+y+dy Y
+P1
+I Figure 1
+Concours Co Mathématiques ct Physique
+Scssion Juin 2004
+Eprcuve dc Pbysique
+Page 1/8
 
+--- page 2 ---
+On chercbe à évaluer, en régime_permanent lentropie créée par unité de volume et par unité de temps. 1) En faisant un bilan d'énergie sur une tranche de la bane de longueur dy, comprise entre les abscisses y et y+dy, établir léquation de la chaleur en régime permanent En déduire la température Tly) en un point d'abscisse y de la barre. 2.a) En faisant un bilan entropique sur la tranche de longueur dy, déterminer lentropie déchange SSe de cette tranche. 2.b) Dire pourquoi la conduction s'accompagne dune création dentropie SSc- 2.c) En déduire lentropie créée par unité de volume et par unité de temps $ Vc 2d) Pour quelle température 1'entropie S c est maximale. Ce résultat était-il prévisible? Justifier.
+1 Q 1.
+et 1 1. D; 1 d 1. P' fr 2. C 2 pl P 2 él
+Il. Réalmo vadable Ic On se propose détudier la diffusion de lénergie 'Pz thermique au sein dune plaque bomogène dépaisseur e, de conductivité   thermique 1, de Ya capacité   thermique massique C et de masse volumique p. On admet que 1, c et p sont d air constantes, uniformes et indépendantes de la température. Les deux plans I1ly = 0) et IIzly = -e) délimitant la plaque sont de très grandes plaque : @ € 1 Iyt P1 dimensions devant e (figure 2) Les deux parois métalliques P1 et Pz sont Te maintenant toutes les deux maintenues à une même Figure 2 température constante Te et sont distantes de d > e Le plan Ilz de la plaque est en contact thermique avec P, et le plan Il1 est à la distance d-e de P2 (figure 2) La température initiale de la plaque est supposée unifore et inférieure à Te A un instant t la température en un point de la plaque est T. On pose 8= T-Te. 1) Etablir léquation différentielle vérifiée par @ (y,t) et montrer qu'elle s'écrit sous la forme 020 2? 4 =0 ôy ôt Donner l'expression de a en fonction de P; c et 2
+2 2 la 3 I€ d U: 1 @ dL in 1é 3 in er 3 3 et gL
+2) On cherche une solution de cette  équation de la forme &y,t) = fly)-g(t). Etablir les équations différentielles vérifiées respectivement par fly) et g(t) On introduira une constante supplémentaire v, homogène à l'inverse dun temps.
+3) Donner lexpression de g(t)
+Expliquer pourquoi v doit être négative. Dans la suite, on pose v =-K (k réel). 4) Déterminer lexpression de 8 et lécrire sous la forme 0,(yst) = [Ax cos(a y) + B; sin(a y)Jexp( B t)
+Donner l'expression de aet celle de B. Une relation entre A: et Bx sera déterminée par la suite.
+Concours eD Matbématiques €t Physique
+Scssion Juin 2004
+Eprewvc de Pbysique
+Psge 2/8
+Co
 
+--- page 3 ---
+ité
+1.a) Etablir l'équation de propagation de l'onde dans le vide. Que vaut le module de k et celui de k, ? On le notera par ko. 1.b) Ecrire les composantes des vecteurs donde incident k; et réfléchi kz en fonction de ko et a. L.c) Déterminer ['expression du champ électrique résultant 5 On note par kg la quantité kosina et par B la quantité   ko cosa. Que représente kg? Justifier. 1.d) Rappeler les conditions aux limites vérifiées par le champ 5 Déterminer lamplitude Eoz en fonction de Eo1 et trouver une condition sur B pour qu'une telle onde puisse exister dans le guide. 1e) En utilisant l'équation de propagation vérifiée par 4, déteminer la relation de dispersion de londe dans le guide en fonction de d, 1o 4g et n, où n est un entier et 1g = 2r/kg: 1.f) Montrer qu'il existe une fréquence de coupure fcn en dessous de laquelle il n'y a plus de propagation dans le guide. 1.g) Déterminer la vitesse de phase 4o et la vitesse de groupe Vg en fonction de c, fcn et la fréquence f = a2r. Quelle relation existe entre V, et Vg ? Le guide est-il dispersif ? Justifier. 2a)   Déterminer   lexpression du champ magnétique B associé au champ électrique= Caractériser ['onde résultante. 2.b) Déterminer   la moyenne   temporelle du vecteur de  Poynting < R> En déduire   la puissance   moyenne P transmise par une section droite du guide donde de longueur 2 parallèlement à Ox et de largeur d parallèlement à Oy en fonction de Eol, 0 d, Ho et Vo: 2.c) Montrer que la moyenne temporelle de la densité volumique de Pénergie électromagnétique < uem > s'écrit sous la forme
+es
+ie
+Eoi <uem >= Lo C
+cos(2 B y)
+2d) En faisant un bilan énergétique et en utilisant les résultats   précédents; déterminer la vitesse de propagation de lénergie Ve. Conclure. 2e) Si les parois du guide étaient de conductivité électrique finie, quelle en est la conséquence la plus importante? 3) On se propose dans cette question de retrouver dune autre manière, la relation de YA dispersion dans le guide. Un rayon incident arrive sur le plan y = 0 en y=d [ et donne naissance à un rayon réfléchi IJ vide (figure 2) AFP et IQ sont les intersections de deux   plans donde de londe incidente et y=0 > Z du plan (yOz) de même, DJQ et [P sont les A I intersections de deux plans donde de londe Figure 2 réfléchie et du plan (yOz) 3.a) Expliquer pourquoi le déphasage dû à la différence de marche géométrique entre l'onde incidente et londe réfléchie en un point du plan conducteur (y = d) est Ap = 2nn où n est un entier. 3.b) Déterminer les distances FI et IJ en fonction de 1o et n. 3.c) Déterminer ]expression de FI en fonction de a et 4 En déduire une relation entre d, a,n et 10. Que représente la distance IAln ? Retrouver la relation de dispersion de l'onde dans le guide.
+Concours ep Matbématiques et Pbysique
+Session Juin 2004
+Epreuve de Physique
+Page 5/8
 
+--- page 4 ---
+#-@avitf rsonante Les deux plans conducteurs étudiés précédemment (y = 0 et y = d) sont désormais réels et définissent une cavité Une onde incidente plane progressive monocbromatique de longueur donde dans E le vide 10, de pulsation 0 polarisée k rectilignement suivant 4, et de vectcur y =d donde i=-k4, se propageant dans le vide; arive en incidence normale sur le plan y =0 y= d (figue 3). Son champ électrique E a Figure 3 pour amplitude réelle Eo On s'intéresse à la déterination du champ électromagnétique dans lespace compris entre les deux plans résultant des réflexions multiples sur les conducteurs. L'origine de phase de londe incidente avant la traversée de la cavité est prise 8u nivean du plan y = d. La réflexion sur chaque  conducteur   entraîne un dépbasage de I et unediminution de Yamplitude alors qu'une transmission entraîne uniquemeat une diminution de [amplitude. Les amplitudes Eo et Ea des champs électriques suite à la seule transmissiop par le plan y = d età la première réflexion dans la cavité sur le plan y = 0, s'écrivent alors Eo = JTEo' Eor = REo 1) On s'intéresse tout dabord aux réflexions s produisant sur y = 0 pour expliciter le cbemp électrique € un point Mdabscissey (0 <y<d) la) Montrer que le champ électrique E; résultant dune première réflexion s'écrit e représentation complexe sous la forme Ei =-JRvT_ Eoe i(@t-hy)e-ikd 0, 1.b) Er déduire le champ électrique E2a+1 résultant de la n-ième réflexion 2) On s'intéresse maintenant aux réflexions se produisant sur y = d pour expliciter le champ élcctrique en un point Mdabscisse y (0 <y<d) : 2.a) Montrer que le champ électrique   =2 résultant d'une première réflexion s'écrit en représentation complexe sous la forme 52 = Rv7 Epeiot+ky)e-i3kd 7 , 2.b) En déduire le champ électrique "zr résultant de la n-ième réflexion 3) L'onde résultante en un point quelconque de la cavité est la superposition de deux ondes planes progressives se propageant en sens inverse. Le cbamp électrique résultant en un point Mde la cavité est alors : 0 = @zn + Ezn+1) - Montrer que ce cbamp électrique se met sous la forme eiky _ VRe-iky W(M,t) = EovT e i(ar-kd) ~2ikd 42- 1 -Re 4) Déterminer le champ magnétique @(M ,t)en un point quelconque de la cavité. 5.a) Déterminer, en un point M dabscisse y (0 <y < d), la moyenne temporelle de la densité volumique d'énergie électromagnétique <uem> .
+Concours 20 Methematiques e Pbysique
+Session Juln 200
+Epreuve de Pkysique
+P2ge 6/8
 
+--- page 5 ---
+Indication. La moyenne temporelle dun produit de deux fonctions sinusoïdales G et H de 1 même fréquence s'exprime en notation complexe par < GH > 2 RéelleG H*) où H* est le 2 complexe conjugué de H 5.b) Montrer que la moyenne temporelle de l'énergie électromagnétique totale < Uz > de la cavité de longueur d et de surface S, est de la forme
+1-R?
+(Ua)=Zsde 2 E} 1+R ~ZRcos(2ka)
+6) Déterminer les fréquences fm dites fréquences de résonance; pour lesquelles lénergie de la cavité < Ua > passe par un maximum Uno que lon déterminera Que représentent les fréquences fn si les conducteurs étaient parfaits? 7)Londe électromagnétique incidente est de firéquence f voisine de fn du mode n considéré 7.a) Donner l'expression de Uz> en fonction de € EoR,d, S,fetf1. 7.b) On pose 4f=f-fnet on suppose que yfl <f1. Donner lexpression approchée de < Uan> en développant le dénominateur au deuxième ordre 4 en La mettre sous la forme f1 U 2U a >= Da 1+4F (4
+où F est une fonction à expliciter en fonction de R. Zc) Donner lallure de < Uaa > en fonction de 4f . 7d) Déterminer ]'étendue spectrale Av = 214fu2] pour laquelle < Ua > vaut Va 2 Calculer F et 4x pour R= 0,9; R=0,95 et R = 0,99. Que peut-on conclure sur la répartition f spectrale de   lénergie électromagnétique contenue dans la cavité? Conclure sur ue application
+Ill- Intarforoncos à doux ondos
+Les deux plans sont maintenant des lames de verre L et Lz d'épaisseurs négligeables distantes de &. Les faces en regard de L1 et Lz sont semi-réfléchissantes; c'est-à-dire qu'elles réflécbissent la fraction R de Pintensité incidente et transmettent la fraction T restante La lame dair () ainsi constituée; est éclairée par une source étendue émettant des radiations de longueur donde 11. Un rayon incident Ro arrive sur la lame, avec un angle d'incidence 1 faible. Cette lame fournit à partir du rayon Ro unesérie de
+Ro
+()
+IoTi Tz I3 I4
+F
+Figure 3
+Concours €0 Matbématiques €t Physique
+Sesslou Juip 2004
+Epreuve d0 Pbysique
+Puge 7/8
 
+--- page 6 ---
+rayons réfléchis (non représentés) et une série de rayons transmis T , Iz, I3, I4... (figure 3) On s'intéresse à lobservation de la figure d'interférence par transmission
+Les rayons issus de (L) arrivent sur unelentille convergente de centre 0, daxe optique perpendiculaire à (L) et lobservation des phénomènes d'interférences se fait sur un écran (E) disposé dans le plan focal image de la lentille de distance focale image OF = f. On donne 11 533 nm et d = 5 mm.
+1) En utilisant les définitions des coefficients de réflexion R et de transmission en puissance T définis au début du problème, montrer qu on peut négliger les intensités I3, 1vs   associées aux rayons T3, I4... devant I1 et I2 associées aux rayons T1 et Tz. On donne R=0,4.
+On étudiera dans_la_suite du problème un phénomène dinterférences à_deux_ondes associées aux rayons I1 et Iz
+2.a) Compléter la figure 3 en faisant apparaître le cheminement des rayons T1 et Iz jusqu'à Pécran (E) 2.b) Déterminer lexpression de la différence de marche & entre les deux rayons transmis en fonction de det i 2.c) Expliquer  pourquoi les franges d'interférence sont des anneaux Qu'appelle-t-on ces anneaux? Justifier. 3) On désigne par @ le dépbasage entre les rayons T1 et T2 qui interfèrent Lintensité résultante est : I=l +I +2v12 coso I mx =I Exprimer le contraste C = mn en fonction de R. I mxx +I [ Calculer le contraste C pour R = 0,2 ; R= 0,3 et R = 0,4. Conclure. 4.a) Quelle est la nature du centre de la figure d'interférence? 4.b) Déterminer, dans [approximation de Gauss, ['expression du rayon Px du k-ième anneau brillant. 4.c) Calculer la distance APr séparant le k-ième anneau brillant du (k+l)-ième anneau brillant. Que devient APr pour k très grand Peut-on définir une interfrange? Justifier. 5) La source émet en fait deux radiations de longueurs d'onde dans le vide 11 533 nm et 12 = 11 + 44. On cherche à déteriner 41. On mesure, à laide d'un micromètre, la largeur Al + du k-ième anneau brillant. 5.a) L'ordre d'interférence Pk étant fixé, montrer que la mesure de la largeur Al + du k-ième anneau brillant permet d'accéder à la valeur de 41. 5.b) Pour k très grand trouver une relation entre 11, 41 et lordre dinterférence pk pour qu'il n'y ait pas de chevauchement entre le k-ième et le (k+l)-ième anneaux brillants.
+Fip de Pépreuve
+Concours   en Mathématiques et Physique
+Session Juin 2094
+Epreuve de Physique
+Page 8/8
 
+--- page 7 ---
+Déterminer l'expression du flux surfacique de puissance Jo (II;) à travers I 5) Un dispositif mécanique (ventilateur par exemple) met en mouvement /'air au dessus de la plaque de sorte que lon puisse supposer la température instantanée de lair égale à Ie. On désignera par T1 la température de la plaque à la surface II1. Le flux surfacique de puissance à travers la partie supérieure de la plaque (plan IIi) sécrit sous la forme générale Jœ = h(T; -T) avec h> 0.
+e
+Quel est le sens physique de ['égalité entre Jp (TI ,) et Jœ 2
+En déduire une relation entre Ak et Bk et donper Yexpression de &lyt) en fonction de Ar a,k het 1
+6) Déduire de la condition imposée à la température T au niveau du plan IIz une relation entre k, e, a, 1 et h Proposer une méthode de résolution; autre que numérique; permettant de déterminer les différentes valeurs de k
+IlI-Bllan rdlatf : écran thermique Deux parois planes parallèles P1 et Pz, de grandes surfaces; sont maintenues respectivement aux températures constantes T, = 283 K et Tz = 273 K P1 et Pz définissent une enceinte vide dans laquelle on place une feuille daluminium (appelée écran) de surface A parallèle aux parois et qui la divise en deux parties. Cet écran homogène, dépaisseur e = 1 mm, de chaleur massique C = 910 JK' 41 de masse volumique P = "3 kg 2700 kgm est initialement à la température To Dans toute cette partie, seul le transfert thermique par rayonnement est à considérer.  On suppose de plus que P1, Pz et lécran se comportent comme des corps noirs. On donne la constante de Stefan 0 = 5.7 108 Wm 42 K4
+1.a) Rappeler la loi de Stefan 1.b) Exprimer la puissance reçue par lécran P, et la puissance qu'il rayonne par ses deux faces Pr L.c) En déduire la valeur de la température déquilibre Te de V'écran daluminium. 1.d) Dans quel domaine la densité dénergie rayonnée par lécran, pottée à Te est maximale? Justifier votre réponse. 2) A un instant t, la température en un point de lécran est T(t) . 2a) Déterminer lénergie nette_8Q1 reçue (emmagasinée) par la face (1) de lécran en regard avec P1 pendant la durée d. 2.b) Les températures T1 de P1 et T de la face (1) de lécran sont voisines, on peut donc linéariser les échanges thermiques. Montrer que cette énergie s'écrit sous la forme: 8Q1 = Y1 (T1-T)dt, où Y1 est un coefficient de proportionnalité à exprimer en fonction de T1, A et o. 2.c) En faisant le même raisonnement pour la face (2) de lécran, déduire que lénergie nette reçue pendant dt par cette face s'écrit sous la forme: 6Q2 = Y2 (Tz -T)d. Dans la suite on prendra Y2 = Y1 = Y. 2.d) En déduire [énergie nette 8Q reçue par lécran pendant la durée dt, en fonction de Y T, Tz et T.
+Coocours cn Matbématiques ct Physique
+Scssion Juin 2004
+Epreuve dc Physique
+Page3/8
 
+--- page 8 ---
+2.e) En faisant un bilan thermique de lécran pendant lintervalle de temps dt, déterminer l'équation différentielle donnant la température T de lécran en fonction du temps. En déduire la loi de variation de la température de lécran et exprimer sa constante de temps r en fonction de P,e, c,0 et T1. Calculer -. 2.f) Déterminer la valeur de la température finale Tfde lécran après une heure. Que peut-on dire de la validité des approximations utilisées ? Justifier votre réponse. 3) Imaginons que lon puisse placer entre les parois P1 et Pz dautres écrans parallèles au premier. Quelle sera la conséquence sur le transfert thermique entre P1 et Pz- Justifier.
+PROBLEME2 : ONDES ELECTROMAGNETIQUES On rapporte   lespace à un système daxes (Ox, OY , 0z) de base orthonormée directe (",,h,,4,) Le milieu vide de charge et de courant est caractérisé par sa permittivité électrique €o et sa perméabilité magnétique Ha La célérité des ondes électromagnétiques dans le vide est c = (Ho€o )-uz On définit pour chaque plan matériel, le coefficient de réflexion en puissance (ou en énergie) Ret le coefficient de transmission en puissance (ou en énergie) T par Puissance réfléchie Puissance transmise R = T= Puissance incidente Puissance incidente
+On néglige la fraction dénergie absorbée par les plans matériels. La conservation de [énergie impose alors R+T=1 On rappelle que rot(rotG) = grad I(divG) ~ AG où 4 est lopérateur laplacien vectoriel. { Pour x très faible cosx~l - 2
+1- Qndouauldéos_ontro_ doux conductoung_parfaltz
+On se propose détudier la propagation guidée des ondes électromagnétiques entres  deux plans conducteurs supposés parfaits parallèles au plan Oxz distants de d. Le milieu intérieur est un milieu vide de charge et de courant. y A Une onde électromagnétique incidente plane, monochromatique de longueur d'onde 10, de y=d pulsation @ polarisée rectilignement suivant vide Ox, arrive sur le conducteur en y = 0 avec gLe une incidence faisant un angle a avec laxe des donne naissance à onde y=0 >z y et une néfléchie supposée de même polarisation que Figure 1 Ponde incidente (figure 1) Londe résultante en un point intérieur au guide sera donc la superposition de londe incidente de champ électrique E, et de ['onde réfléchie de champ électrique 7z - En représentation complexe les champs électriques h, et 7zs'écrivent: 51 = Eop ei(0t-791, 52 =Eoz e i(a-R) 1, 7 et 4sont les vecteurs donde de l'onde incidente et de londe rfléchie respectivement Eol ct Eoz sont des réels.
+Coacours Co Matbematiques ct Physique
+Session Juin 2004
+Epreuve dc Pbysique
+Page 4/8
 
+--- page 9 ---

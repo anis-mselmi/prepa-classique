@@ -48,3 +48,15 @@ On définit Fapplication U sur R? par
 ~oc ine U(I.0) = Jn (x)e' n ==
 2 Montrer que v est de classe €! suI R? (On pourra montrer que cette série. ainls! que les deu séries obtenues en dérivant terme à terme respectivement par rapport à 0 et par rapport & I convergent uniformément sur [ - 4,4] x R. pour tout 4 > 0.)
 3
+
+--- page 4 ---
+3 a) En ucilisant les relations de la question III-1. montrer que pour tout (I,0) = R? 21(2.0) ~Iv(I.8) cos 0 e{ I 82(2.9) 1 = = izsin Bv(I.0) 98 dz 0) = "(I.B)e-iz sin 8 Calculer 02 1.0). b) Soit g(I. 00 c} En déduire que "(I.0) = @i sin 0 et que Jn(I) = 15" cos( Isin 0 ;0)d0 7
+Pour tout ^ > 0. on considère léquation sur R?
+Ex)
+Jl +Al = 0
+02 02 du Laplacien 4 dans R?  = 4 et en coordonnées On rappelle lexpression Mr? dy 82 1 8 1 82 polaires = + + 2 Or? r Mr r2 002 Soit U une solution de (Ex) de classe C? sur R? Montrer qu'il existe une suite de fonctions (Cn)nez définies sur [0. ~ocl telles que
+Zo U (r cos 0. rsin 0) = Cn(r)eine 0
+Fe € R
+5 € Z, Cn est une fonction de classe C? sur [0. +oc[ et vérife Vérifier que pour tout n léquation différentielle
+r2Cn (r) + rCn(r) + (Ar2 ~ n?)Cn(r) = 0
+6 On pose t = VAr . Montrer que pour toute suite bornée (an )nsz. la fonction ç(r cos 0.r sin 0) = Loo On Jn(vIr)ei inf est une solution de classe C2 sur R? de Féquation (Ex) n>c 7 Donner deux solutions sur R? de Féquation (Ex) Fune ne dépend que de r et Fautre ne dépend que de y.

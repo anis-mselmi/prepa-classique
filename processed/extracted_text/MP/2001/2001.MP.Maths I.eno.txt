@@ -1,4 +1,72 @@
+--- page 1 ---
+RÉPUBLIQUE TUNISIENNE *** Ministère de lEnseignement Supérieur
+Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs Session: Juin 2001
+Concours en Mathématiques et Physique Épreuve de Mathématiques I Durée: 4H Date: 7 Juin 2001 8Heure Vb pages: 5 Barême: Partie I:6,5pts Partie II: 5pts, Partie_ III: 8 5pts
+L'usage des calculatrices est strictement interdit . Une grande importance sera attachée à la rigueur du raisonnement, à la clarté de la rédaction et au soin de la présentation. Il est rappelé que tout résultat énoncé dans le sujet peut être utilisé pour traiter la suite, même s'il n'a pu être démontre.
+lère Partie.
+1) Soit a > 0 On pose 51l53 : Ca = [O,a] x [0,0] Da = {(I,y) € ( R)?/z? +y2 < 02} Fiudes  a) Montrer que 'Êixuis J J e-(r? '+y')dIdy < f fe-(+vdzdy < J Jsse-ts+s"dzdy +0 b) En déduire que e-2' dz = =0 Dans la suite f désigne une fonction continue de Rà valeurs dans R, telle que
++0 e-(y-z)2| If(y)ldy < +0. ~0
+Vs€ R
++œ e-(y-r)? f(y)dy. ~0
+On pose pour I € R u(z) =
+1/5
 
+--- page 2 ---
++0 e~f? f(s+s)ds. =0
+2) a) Montrer que pour tout I € R, "(s) = b) Montrer que si f est paire resp. impaire) alors u est paire (resp. impaire) c) Montrer que si f (s) = S" m € N alors u(z) est un polynôme de degré m et de même parité que m. d) Montrer que si f est une fonction convexe sur R ( càd VI,y € R; V À € [0,1], f(Xz + (1 - A)y) < Af(z) + (1 - A)f(y)), alors u lest aussi. 3) Montrer que si f est continue bornée sur R, il en est de même pour u 4) a) Montrer que pour tout I,y € R, o a
+Ju(z) = u(y)| <
+f+o e-82  If(s+€) - f(y + s)lds. ~0
+b)En-déduire-que-si_f_est-uniformément continue-sur:_R, alors-u lest_aussi . 2 a c) Montrer que si f est k-lipschitzienne alors u lest aussi_
+5) On suppose que Jimpzl-+% f(s) =l ,l € R "u 9,26 "ff= a)ÉMontrer quil ëlsteM > 0 tel que Vz € R; ru? Tf(à)ï M b)Montrer_que_Vz_€_RV 8 > 0 ;-
+4M Ju(z) = l| <JJe-If(z +€) -1d + V7
+e-& d4
+c) En déduire que Limjzl-++% "(s) = l 1 , si lyl < 2r 6) Soit r > 0. On pose Q(y) ex(-g), si lyl 2r: Soit I €] - r,r[ 7937; a) Montrer que si lyl >; 2r , alors ly[ < 2ly = z|  b) En déduire que Vy e R e-(y_2)? = 4(y). Ju2.4-i0b44 54 9Up 9i: c) Mogtrer que pous tout y S %ietutout n &2 on 2409458i7w! ôn 84> ubhid J2 (e-w-3 )/] < P(r + llw(v)
+où P est un polynôme de degé n. "~ 2 2%&; Montrer que si f est bornée alois u est de classe C%sur R
 
+--- page 3 ---
+2ème Partie.
+22 1 =e 4t V4Tt
+Pour m € Ret t > 0 , on pose gt(z) 1) Montrer que '+0 a) Vt > 0 , J gt(s)dz = 1 ~0 +0 b) Vs > 0 , limt-+0+ gt(z)dz =0 c) Vt > 0 , Yx € R, %9(52 = 99(2 ô22 dt +0 2) Soit t > 0. On pose pour I € R; [(z) = J 9t(y)e ~iIy dy =0 '40 a) Montrer que 9(z) = Io9() cos (zy)dy. d (G(z)) = ~2tzgt(z) b) Montrer que dz 9(0) = 1. T) En dëdure Texpression dë gif) 3) Soient ) = a + i6 avec a, b € Ret t > 0.
+a) En utilisant l'égalité
+y2 (y 2at) 2 4t + Xy) e = e93te 4t e - -iby
++0 montrer que 9t(y)e-A"dy =el?t ~00 b) En déduire pour 2 € R et t > 0 les valeurs des intégrales suivantes
++0 gt(y) cos (z = y)dy ; ~0
++0 gt(y)sin (z - y)dy ~0
++0 g(y)ch(z = y)dy ; ~0
+'40 9t(y)sb(z = y)dy. ~0
+'40 gt(z = y)gs(y)dy = gt+s(r)  ~0
+4) Montrer que Vt,s > 0 ,I € R,
+3ème Partie.
+Soit t > 0 On pose pour $ € R :
++0 q(z) = gt(z + 2mm) m=-0
+3/5
 
+--- page 4 ---
+1) a) Montrer que la fonction $ ~ 9(z) est continue sur R, paire et 2T-_périodique. b) Montrer que J_q(z)dz =1 ~T '(2m+I)T Remarquer que gt(z + 2mT)dz " 9t(y)dy) . (2m-1)T c) Déterminer les coefficients de Fourier de la fonction $ 9 9t(z) .
+d) En déduire que pour tout  € R
++00
+q+(z) = 1+ 12e-"? cos(nz)  27 TT 7=1
+2) On pose pour I € [0, T] pt(z,y) = 9(z - y) - q(x + y) a) Vérifier que pt(z,y) ~ 2 2 e-n?t sin(nz) sin(ny) 7 n > 1 b) Montrer que V z € [0, %} , Vp e N, Vt > 0 ;
+pt(x, y) sin(py)dy = e-p?t sin(pz)_
+3) Montrer que VI, y € [0, z] ; Vt,8 > 0, J p(z;z)p,(z,y)dz = pu+s(z,y) 4) Montrer que pour I,y € [0, 7]
++0 1 pt(I,y)dt = 2 (cosn(s -y) - cosn(z + y)) T 251 n2
+5) Soit h la fonction 2"-périodique définie par
+T I Vz € [0, 2m [ , h(z) = =I _ 2 4
+a) Ttacer le graphe de h et calculer ses coefficients de Fourier. b) Montrer que pour I e [0, 2r] on a
++% cos (nz) T2 T 22 = ZI+ n2 6 2 4 1=1
+6) Montrer que pour z ,y.s€ [0, r]
++0 s+y=ls= pt(z, y)dt = %j(:u+z_2) ! 2 2 =~ min( , y) . (T ~ max(z, y)) T
+4/5
 
+--- page 5 ---
+7) Soit f une fonction continue sur [0, 7] On pose pour 1 € [0, 7] ; v(z) = J G(,v) f(u)dy où G(s,y) = É min(r,y) . (7 ~ max(z, y) ) T a) Vérifier que v(s) = 22 [ ufly)dy + 2 I( = y)f(y)dy. TT TT b) Montrer que v est lunique solution de l'équation différentielle
+y" = =f
+y(o) = y(T) = 0
+c) Montrer que pour tous 2 ,y € [0, 7]
+I(7 ~ I)ylz__y) I(t _ 2) < G(z,y) < T3 T
+d) En déduire que si f est positive; alors pour tout I € [O,TJ, on a
+I(I = I) I(T - I) TJ Jo" u(7 = y)f (y)dy < v(z) < " f()dy T
+8) Soit ) € R
+a) Montrer que léquation différentielle
+z"(s) = -Az(s) z(0) = z(T) = 0 admet une solution non nulle si et seulement si ) = n2 avec n € N b) En déduire que Vz e [0, %] , Vn € N, sin(nz) = n2 'Jo G(,U) sin(nm)dy. c) Montrer qu'il existe deux constantes c1 et c2 strictement positives telles que Vz € [0,T] , C1z(z - s) < sin 2 < C2s(7 " I) 9) a) Montrer qu'on a : c1 < 1 et c2 2 4 T T2 1 b) Montrer que Vz € [0, 7] Ss(T - I) < sin 2 < T?z(T = s) T
+5

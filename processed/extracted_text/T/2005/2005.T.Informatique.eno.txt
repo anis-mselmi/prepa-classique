@@ -1,3 +1,55 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de l'Enseignement Superieur
+Concours Nationaux dEntrée aux Cycles de Formation d'Ingénieurs Session Juin 2005
+Concours Mathématiques et Physique; Physique et Chimie, Technologie et Biologie et Géologie Epreuve d'Informatique
+Date Mardi 14 Juin 2005
+Heure 15 H
+Durée 2 H
+Nombre de pages
+Barème Exercice
+4 points
+Exercice 2 points
+Problème 12 points
+L'usage des calculatrices est interdit.
+Les exercices 1, 2 et le problème sont indépendants.
+Exercice L :
+Soit S le système linéaire suivant 2mx + 3y - 2z = 3 x+y +z = m 5x + Amy +2z = 0 où mest un paramètre réel. Ecrire les commandes Maple permettant de 1) Définir $ 2) Résoudre le système S de deux manières 2-1 en utilisant la commande solve 2-2 en utilisant la bibliothèque de fonctions < linalg > On notera par A la matrice du système et b le vecteur second membre 3) Calculer le déterminant k de A 4) Trouver les racines ml et m2 de k 5) Déterminer la matrice IA linverse de A sachant que IA n'est définie que pour les valeurs de m # ml et m # m2 6) Soit la matrice Bdéfinie par X+ y x +2y x+3y B = 2x+ y 2x+ 2y 2x+3y 3x+y 3x+2y 3x +3y 6-1 Définir la fonction f(i,j) permettant de construire les éléments de B avec indice de ligne et j indice de colonne. 6-2 Construire B en utilisant la fonction f définie en 6-1. 7) Calculer et afficher les produits matriciels AB et   ABT (B' désigne la matrice transposée de B ).
+Concours Mathématiques Physiquc , Physiquc Chimic , Tcchnologic, Biologic ct Géologic-Scssion Juln 2005 Eprcuve d'Informatique Fsgc V4
 
+--- page 2 ---
+Exercice 2:
+Soit n un entier naturel , on définit la suite polynomiale d'ordre n , par la relation de récurrence suivante
+Po (t) =1 P(t) = t Pn(t)= 2n21P, (0) - "~LP,- ()
+Pour  > 1
+1) Ecrire une procédure Maple nommée Legendre qui reçoit comme paramètres et n, et retourne comme résultat du   polynôme P:(t) sous  forme développée. On utilisera   la commande prédéfinie expand de Maple. 2) Ecrire la commande Maple permettant de représenter sur le même graphique, l'allure des polynômes P;(t) Ps(t) et  Ps(t) pour -1<t<1
+Problème Soient A et B deux tableaux à une dimension de N entiers strictement positifs. On se propose de définir, partir des tableaux A et B triés_par_ordre_décroissant les polynômes P et @ fonction de x et y, développés selon les puissances décroissantes de x puis selon les puissances décroissantes de y en utilisant les définitions suivantes P = É A[i]xB[i] + 2B[iJy4li] i=1 Q = ÉB[iJ*"_ 4 A[i]yB[i] i=l Exemple Si A et B sont deux tableaux à 4 éléments
+2
+5
+B
+3
+1
+4
+6
+Les tableaux A et Btriés par ordre décroissant sont
+A
+5 4 | 2
+B
+6 | 4 3 | 1 Les polynômes P et Q définis à partir de A et B triés sont 6 4 3 P=5 x + 4 x' + 2 x +x+6)+4/+3}}+y Q=6 x +4x4+3x2+x+5y +4y4 +2z +y Travail Demandé Partie A Algorithmique On utilisera la constante NMAX et le type TAB définis par CONSTANTE NMAX-20 TYPE TAB = TABLEAU [L.NMAX] dENTIER Coucours Mathcmaatques Pbysique, Pbytique Chimle , Tcchpoloele Biolopie €t Gcolode-Scsdon Juin 2005 Eprcuve d'[nforstque Pszc 2/4
 
+--- page 3 ---
+1) Ecrire une fonction algorithmique, sans paramètres, appelée TAILLE, qui permet de saisir un entier compris entre 1 et NMAX puis retourner ce même entier . 2) Ecrire une   procédure   algorithmique; appelée REMPLIR_TABLEAU, qui permet de remplir un tableau T avec des entiers strictement positifs et qui prend comme paramètres N entier paramètre donné passé par valeur T:TAB paramètre résultat passé par variable. 3) Dans la suite du problème, on précise @hypothèse suivante On suppose que les éléments du tableau T saisis par la procédure REMPLIR_TABLEAU sont tous distincts . On se propose de trier, par ordre décroissant; un tableau T en deux étapes selon le principe suivant
+1 àc étape Création dun tableau de compteurs. Chaque élément du tableau Tà trier est comparé à tous les autres afin de déterminer le nombre d'éléments qui   lui sont   strictement supérieurs.  Les résultats des N comptages sont rangés dans un tableau de compteurs, appelé C, possédant lui aussi N éléments. Les valeurs du tableau C sont comprises entre 0 et (N-l) le plus grand élément de T aura pour valeur du compteur 0 car il n'a aucun élément plus grand que lui et le plus petit élément aura pour valeur du compteur (N-1). Exemple
+Tableau à trier
+T
+1 | 2
+5
+4
+Tableau de  compteurs
+3 | 2 10
+2emc étape Utilisation du tableau de compteurs pour le tri Le premier  élément du tableau T à trier, est permuté avec lélément dont le compteur est égal à 0 Les éléments correspondants dans le tableau de compteurs sont aussi permutés. Le deuxième élément du tableau T est permuté avec lélément de Cégal à 1 et ainsi de suite. Ce processus est répété jusqu'à la valeur (N-l) de C. 3-1 Ecrire une procédure algorithmique; appelée COMPTAGE; qui a pour rôle de remplir le tableau de compteurs C à partir du tableau T et qui prend comme paramètres N entier paramètre donné passé par valeur T:TAB paramètre donné passé par valeur C TAB paramètre résultat passé par variable 3-2 Ecrire une procédure algorithmique, appelée TRI_TABLEAU, pour trier par ordre décroissant un tableau T, selon le principe de tri détaillé précédemment, en utilisant la procédure COMPTAGE écrite en 3-1. La procédure TRI_TABLEAU prend comme paramètres N : entier paramètre donné passé par valeur T: TAB paramètre donnélrésultat passé par variable Ecrire une procédure algorithmique, appelée AFFICH_POLY, qui affiche un polynôme de la forme
+A[i]x B[i) + B[i]y Ali] I=I i=l sous le format donné par ]exemple suivant
+Concours Mathématiques Pbysiquc  Pbysiquc Cbinie  Tccbmoloric, Biologic ct Géologic - Scasiou Juin 2005 Epreuvc d'Inlormatique Prgc J/4
 
+--- page 4 ---
+Exemple Si P est un polynôme défini par 3 2 5 P = 5 x +3 x + 2 x + X+4 y +3 y +2y+ y Le format d'affichage du polynôme P sera P = 5x ^4+3x ^3+2x^2+x+4y^5+3y^3+2y^2+y Cette procédure prend comme paramètres N : entier paramètre donné passé par valeur A TAB paramètre donné passé par valeur B TAB paramètre donné passé par valeur 5) Ecrire un algorithme principal AFF_POLY_ORD qui permet de saisir le nombre N d'éléments, dun tableau à une dimension; en appelant la fonction TAILLE écrite en 1) de la partie A- remplit un tableau A ensuite un tableau B avec des entiers strictement positifs en appelant la procédure REMPLIR_TABLEAU écrite en 2) de la partie A trie le tableau A ensuite le tableau B en utilisant la procédure TRI_TABLEAU écrite en 3-2) de la partie A affiche les polynômes P et Q (décrits au début du problème) selon les puissances décroissantes en x puis en y en appelant la procédure AFFICH_POLY écrite en 4) de la partie A Partie B Maple 1) Traduire en Maple la procédure algorithmique COMPTAGE écrite en 3-1 de la partie A 2) Traduire en Maple la procédure algorithmique TRI_TABLEAU écrite en 3-2 de la partie A 3)   Donner la commande Maple penmettant d'ordonner un polynôme P selon les puissances décroissantes de x. 4) Ecrire   la commande Maple qui convertit le polynôme P en une fonction f à deux variables xety. 5) Donner la commande Maple pour définir le domaine de définition de la fonction f 6) Donner la commande Maple pour définir ]'expression de la dérivée première de par rapport àx 7) Donner la commande Maple pour définir la fonction dérivée seconde de f par rapport ày.
+Coocoars Mathématiques Physique , Pbysique Chimie _ Tcchnologie, Biologie ct Gcologle Sesskon Juin 2005 Epreuve d'Informatique Pegc  V4

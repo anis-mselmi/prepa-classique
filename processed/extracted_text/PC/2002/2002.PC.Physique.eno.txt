@@ -1,7 +1,158 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de 1Enseignement Supérieur
+Concours Nationaux d'Entrée aux Cycles de Formation d' 'Ingénieurs Session Juin 2002
+Concours en Physique et Chimie Epreuve de Physique
+Date Jeudi 06 Juin 2002
+Heure : 8 H
+Durée 4 H
+Nb pages
+Barème
+Pbl: 11,25/20
+Pb2: 08,75/20
+Seules les calculatrices non programmables sont autorisées:
+Si au cours de l'épreuve, un candidat repère ce qui lui semble être une erreur d'énoncé; il le signalc SUI Sa copie et poursuit sa composition en expliquant les raisons des initiatives qu'il est amené à prendre .
+L'épreuve est constituée de deux problèmes indépendants Dans chaque problème certaines parties et de nombreuses questions sont indépendantes:.
+Un candidat peut toujours se servir dun résultat fourni par l'énoncé pour continuer sa composition:
+Données utiles
+gradient dune fonction scalaire en coordonnées sphériques U=QUdr+1âU10+ cU grad U € êr c sin0 âp Laplacien dune fonction scalaire en coordonnées sphériques a2U AU = 44 sin 0 sin 0 sin 0 cv divergence d'un vecteur en coordonnées sphériques 1 ô div A = (r2Ar) + (sin0 Ao ) + (Aq ) 2 cr rsin 0 sin0 Rotationnel dun vecteur en coordonnées sphériques dAe ôA r ôAc TOI 4A (sin0 Aq ) - U r + (AË)]'+[éc (rAp)  sin 0 Ô Up sin 0 ôxp âp 4
+rOt( rot A) = 'grad(div A) - A A  2 (Agrad) A grad (=A ) = A^ rot A
+Le vide est caractérisé par permittivité diélectrique €0 10-9 Fm 51 sa 361 sa perméabilité magnétique Ho 41.10-7 Hm '
+(uncuur €n Physlquc ct ( hlnue Scssion Juln ZiK)2
+Epreuve de Physique
+p#gc 1/x
 
+--- page 2 ---
+REPUBLIQUE TUNISIENNE Ministère de 1'Enseignement Supérieur
+Concours Nationaux d'Entrée aux Cycles de Formation d'Ingénieurs Session Juin 2002
+Concours en Physique et Chimie Epreuve de Physique
+Date Jeudi 06 Juin 2002
+Heure : 8 H
+Durée : 4 H
+Nb pages
+Barème
+Pbl: 11,25/20
+Pb2: 08,75/20
+Seules les calculatrices non 'programmables sont autorisées:
+Si au cours de lépreuve; un candidat repère ce qui lui semble être une erreur d'énoncé; il le signale SUF sa copie et poursuit sa composition en expliquant les raisons des initiatives qu'il est amené à prendre
+L'épreuve est constituée de deux problèmes indépendants. Dans chaque problème certaines parties et de nombreuses questions sont indépendantes_
+Un candidat peut toujours se servir dun résultat fourni par ['énoncé pour continuer sa composition:
+Données uiles
+gradient dune fonction scalaire en coordonnées sphériques U=@- LêU u 1 êU grad u r + u 0 + êr c F sin 0 âp Laplacien dune fonction scalaire en coordonnées sphériques ô2U AU 44") sin 0 r2 sin 0 sin 0 cp divergence dun vecteur en coordonnées sphériques 1 ô c div A = (r2Ar) + sin0 Ao ) + (Aq F2 âr rsin 0 sin0 âp Rotationnel dun vecteur en coordonnées sphériques dAQ cA , {Ar TOI 4 (sin0 Ap ) = u r + -6A,)]  +[4- (rAp) = sin0 Ô 0 Uq Tsin 0 cp âp
+rot(rot A ) = 'grad(div A) - A A 7 2 3 3 (A grad) A grad (=A ) = A^ rot A
+Le vide est caractérisé par permittivité diélectrique €0 10 -9 Fm 21 sa 361 sa perméabilité magnétique Ho 41.10-7 Hm
+Cuncour en Phoslquc ct ( Zimlc scasion Juln ZiK2
+Epreuve de Physique
+phgc 1/8
 
+--- page 3 ---
+11 - Etude dun Polaroïd (Polariseur)
+On   considère une sourcelaser   émettant une onde B Ay Lumière plane non polarisée. Un détecteur optique permet la détecteur mesure des puissances lumineuses En Pabsence du Polaroïd le détecteur indique une puissance Po. On rappelle que la puissance lumineuse est axe du polaroïd 3 Fig 1-1 (€ au plan yoz) proportionnelle E où le signe indique la moyenne temporelle. On considère un Polaroïd idéal dont laxe fait un angle B avec laxe (oy) (figl-1). Exprimer la puissance transmise P, en fonction de P
+12 Expérience de Malus Derrière le Polaroïd précédent noté P1 daxe parallèle à (oy), on place un deuxième Polaroïd identique noté Pz dont [axe fait un angle a avec celui de P (Fig 1-2)
+Y
+Lumière
+axe de P1
+0,
+> X
+axe de Pz Fig 1-2 (€ au plan YoZ) En supposant Pz idéal, calculer la puissance lumineuse Pz transmise en fonction de & et de P (Loi de Malus) .
+Partie B : Polarisation par diffusion
+13 Rayonnement dun dipôle électrique oscillant On considère, un dipôle D oscillant   dans le vide, constitué dune charge ponctuelle -9 fixe à lorigine 0 des coordonnées dans le référentiel   galiléen (Oxyz), et dune charge ponctuelle +q de position S(0,0,z(t)) avec z(t) Zo cos@t, Zo > 0, (Fig 1-3) p (t)
+7u T M
+u 0
+Fig 1-3
+13-1- Donner Fexpression du moment dipolaire   p(t) = p(t) u z du dipôle D. On posera po=qz. Le calcul du champ électrique  E(M,t)créé par D en un point M de coordonnées sphériques (r, 0,0) donne
+E(M,t) 2p(t- 5+2 5 " 4zcor} ct
+2) 5œl cos0 U r + p(t ct I-r
+a2pl ct 2
+sin 0 u 0
+13-2- Montrer que ]expression donnec est en accord avec la symetrie du problème
+13-3- Montrer que E(M.t)  peut s 'écrire comme la somme de trois champs dont on donnera les significations 1344- Définir   la zone du ravonnement du   dipôle. En deduire |expression du   champ électrique rayonne
+uncuur(n Phyuque rt ( himnie slon Juin ZiK)2
+Epreuve dc Physique
+P"ge Jix
 
+--- page 4 ---
+13-5- Sachant que Ponde   rayonnée est localement plane; déterminer   1'expression du   champ
+magnétique rayonné  B(M, t) 13-6- Déterminer Vexpression du vecteur de Poynting   TI(M, t) Tracer lallure du diagramme de
+rayonnement |l<TI(M, t) > f(e). Commenter. 13-7- Montrer que la puissance électromagnétique instantanée traversant à grande distance une sphère de rayon r. centrée sur le dipôle; se propage à la vitesse c PJo 13-8- En déduire que la valeur moyenne de cette puissance s écrit P Commenter . I2reoc 13-9- Quelle est la polarisation de londe rayonnée ? Montrer que la direction de cette polarisation correspond à la projection de p (t) SUI un plan passant par M, que lon déterminera (On pourra
+décomposer dans la base sphérique). 13-10- Généraliser   le  résultat   précédent pour un dipôle de moment p (t) ayant une direction quelconque.
+14 Diffusion du rayonnement électromagnétique: Le champ dune onde électromagnétique peut interagir avec un atome ou une molécule; qui absorbe une partie du rayonnement incident. Les électrons de ces atomes; de noyaux supposés fixes; sont ainsi mis en mouvement   forcé; les   systèmes   (électron+noyau) se comportent comme des   dipôles   oscillants,   qui diffusent le rayonnement incident (rayonnement dipolaire) . Un milieu diélectrique linéaire homogène et isotrope est excité par une onde_lumineuse incidente dont le champ électrique s'écrit en notation complexe E(M,t) = Eo i(ot-kr)
+On se place dans le modèle de lélectron élastiquement lié dans lequel le vecteur position dun électron non relativiste, de masse m et de charge 9 = - e, vérifie ['équation d 2 m d '+mo; 7 =-eEo eio t dt - dt
+OM
+où @0 et € sont des constantes positives. L'amplitude Eo du champ électrique complexe est réelle. 14-1- Interpréter les différents termes de cette équation. 14-2- Justifier que la force magnétique est négligeable devant la force électrique. 14-3- Vérifier qu'à |échelle  atomique; on peut considérer que le champ de londe incidente est uniforme
+E(M,t) = Eo e i(ot-kx) 1@ ( Eo e
+14-4- Etablir, en régime sinusoïdal forcé, l'expression complexe P du moment dipolaire atomique. 14-5- Dans le cas de la diflusion de Rayleigh <<0 <<@ 0
+Exprimer P en fonction de @
+m et E
+b') En déduire que la puissance moyenne rayonnée par latome est proportionnelle à (1) où 1 et 2 sont les longueurs d'onde associées respectivement à @ et @.
+Wiuuly cn
+Phonlque ct Chimie ~Sesslon Juln ZiM)2
+Eprcuve dc Physique
+p"ge 4/8
 
+--- page 5 ---
+14-6- Pour les électrons atomiques de ['atmosphère terrestre on a @o 1017 'rad.s' et {=10 8 Justifier la couleur bleue du ciel.
+15 Mise en évidence expérimentale du phénomène de diffusion 15-1 - Soleil
+Fig 1-4
+observateur A
+observateur B
+En plein jour; par beau temps; deux observateurs A et B, muni chacun dun Polaroïd, visent le même point 0 du ciel (Fig 1-4). Indiquer la polarisation des ondes reçues par ces observateurs. 15-2- On considère le montage expérimental suivant (fig 1-5)
+Source de lumière blanche
+eau
+diaphragme
+cuve
+écran
+Fig 1-5
+A Taide dune lentille convergente (L), on réalise limage du diaphragme sur lécran; puis on verse une goutte de lait dans la cuve transparente contenant de [eau Décrire et interpréter le phénomène observé en indiquant a9) Le changement de la couleur de limage du diaphragme sur [écran. b%) La couleur de la lumière diffusée latéralement (selon Oz par exemple) La polarisation de la lumière diflusée dans la direction (Ox) de londe incidente et dans une direction perpendiculaire à celle-ci
+IV - Lames à retard
+On considère une lame transparente d'épaisseur { selon Faxe (Ox) (Fig 1-6), et ayant les propriétés suivantes
+E
+Fig 1-6
+Lame à retard
+Concourven Physique ct ( Jlmle -Sesslon Juln 2iK)2
+Eprcuvc de Physiquc
+p#gc S8
 
+--- page 6 ---
+Pour une onde électromagnétique plane polarisée rectilignement suivant (Oz) et arrivant en incidence normale; la lame présente un indice de réfraction no Pour' urs onde electromagnetique plane polarisée rectilignement suivant (Oy) et arrivant en incidence normale;la lame présente un indice de réfraction n- Dans ces deux cas, la traversee de la lame ne modifie pzs Fétat de polarisation de londe incidente Cette lame est appelée lame à retard. On s' interesse à une lame en Quartz (SiOz) qui est un cristal pour lequel n no Une onde plane monochromatique polarisée rectilignement, de champ électrique E; Eocos(ot -kx) u
+où u est un vecteur unitaire faisant un angle a avec (Oy), arrive en incidence normale sur cette lame (Fig 1-6). 16 Identifier les lignes neutres de la lame. Préciser [axe lent et laxe rapide Décrire une expérience simple permettant de les identifier relativement 17 Déterminer les composantes du champ électrique Et après la traversée de la lame En déduire Fexpression de la diffërence de marche optique introduite par la lame en fonction de & et de An I no 18- Définir une lame demi-onde et une lame quart d'onde Dans la suite du problème, on fera un changement de lorigine des phases x =x + ne & pour
+déterminer F'expression de Et à la sortie de la lame
+19 Déterminer [expression de Et et la polarisation de londe à la sortie dune lame demi-onde b?) dune lame quart d'onde Dans quel cas sera-t-elle   circulaire 20- La lumière monochromatique incidente   possède une polarisation circulaire. Donner les expressions du champ électrique à /entrée et à la sortie dune lame demi-onde b?) dune lame quart d'onde En déduire la polarisation de Fonde transmise. 21 Une lame à retard peut-elle transformer une lumière naturelle en lumière polarisée ? 22 Citer une application intéressante des lames à retard:.
+PROBLEME No2
+On considère un fluide de masse volumique en mouvement dans un référentiel galiléen J(Oxyz) muni dune base orthonormée directe (ux, Uy , Uz où le vecteur u < caractérise la verticale ascendante Dans
+la description d'Euler; on désigne par (M, t) le champ de vitesses a un instant t, en un point M de
+Fespace de vecteur position
+OM
+I - Généralités
+Définir un élément de fluide appelé aussi particule fluide > En se basant sur un ordre de grandeur, montrer que cette définition a une réalité physique. 2 Rappeler Féquation locale de conservation de la masse du fluide. Que devient cette équation dans le cas dun fluide en écoulement incompressible ?
+0ncourz en Physlque ct Chlmle -Sesslon Juin 2iM)Z
+Eprcuvc dc Physiquc
+parc 6/8
 
+--- page 7 ---
+II _ Fluide parfait =
+Dans cette partie; on suppose que le fluide est parfait 3 Définir le modèle du fluide parfait . Si un fluide reel est au repos; est-il nécessaire de lui appliquer ce modèle ?
+Dans le cas dun mouvement  irrotationnel montrer que la vitesse (M,t) dérive dun potentiel @(M,t) Si de plus l'écoulement est incompressible; montrer que @(M,t) vérifie 'équation de Laplace. 5 On considère un écoulement   permanent et irrotationnel dun fluide incompressible autour dune sphère solide de rayon R initialement au repos. Loin de la sphère; le champ de vitesses est uniforme
+Yo = Vo "z (Fig 2 )
+M
+sphère
+Fig 2
+5-1- Déterminer ['équation aux dérivées partielles vérifiée par le potentiel $ (r,0,0) Quelles sont les conditions aux limites vérifiées par $(M) 5-2- On cherche le potentiel $ sous la forme 0 (r,0) = f(r)cose Déterminer |équation différentielle vérifiée par f(r). 5-3- En faisant le changement de variable u {n(r) où {n désigne le logarithme népérien; montrer que la solution de l'équation précédente s'écrit sous la forme f(r)=Cpr+@ où C1 et Cz sont des
+constantes 5-4- En utilisant les conditions aux limites; déterminer C, et Cz. En déduire les expressions de $ (r,0) et de la vitesse en tout point de lécoulement, en fonction de vo, R, r et 0. Déterminer les points où la vitesse est extrémale Calculer les valeurs de la vitesse en ces points 5-5- Dans un plan contenant laxe (Oz), tracer [allure des lignes de courant Expliquer en particulier le comportement de ces lignes au voisinage de la sphère:.
+6-1- Rappeler léquation locale du mouvement dun fluide parfait (Equation d Euler) 6-2- Déduire la relation de Bernoulli dans le cas dun fluide parfait et incompressible en écoulement permanent dans le champ de pesanteur supposé uniforme g ~gux Que devient cette relation si de plus l'écoulement est irrotationnel. Donner, sans calcul, une interprétation énergétique de la relation de Bernoulli. 7 - On désigne par Po, la pression à Finfini Sur Paxe (Oz) dans lécoulement décrit dans la question -5 - 7-1 - Exprimer la pression Pu au point B en fonction de vo, p et Po 7-2 - Déduire la pression PM en un point M(RO,p) de la surface de la sphère 7-3 - Déterminer la force de pression exercée par le fluide sur la sphère Commenter Ic résultat
+Foncour cn Physlque ct ( himkc   Scaslon Juln 2002
+Eprcuve dc Physiquc
+perc 7/8
 
+--- page 8 ---
+7-4- Expliquer; pourquoi le résultat précédent est en désaccord avec l'observation expérimentale la sphère est en fait, lentement entraînée   par  le  fluide;   parallèlement à lécoulement (Paradoxe de d' Alembert) .
+III - Fluide réel
+Dans un fluide réel et incompressible de coefficient de viscosité n, les forces de viscosité (cisaillement) sont   équivalentes à une force volumique de densité fvis = n 4 v où est lopérateur Laplacien
+vectoriel ) et
+est le champ des vitesses dans le fluide
+8-1 - Expliquer brièvement l'origine microscopique de cette force: 8-2- Donner la définition du nombre de Reynolds Re pour un écoulement donné. En quoi réside 'importance de ce nombre ? L'équation locale du mouvement d'un fluide homogène; incompressible; de coefficient de viscosité n; placé dans le champ de pesanteur uniforme, est donnée par
+D v = = grad P +p g+ n 4 v Equation de Navier-stokes. Dt où D désigne /opérateur dérivée particulaire. Dt On reprend |étude de ['écoulement défini en 5-, en tenant compte de la viscosité du fluide On montre que pour $ <<I, le champ des vitesses est donné en coordonnées sphériques par 3R R Vr Vo(1 _ cos8 2r 2r 3R R V0 = -Vo(1 - sin0 4r 4r 48 =0
+9-1- Comment peut-on avoir la condition $ <<1 ? Quelle est la nature de [écoulement? 9-2- Dans ce cas; quel terme peut-on négliger dans l'équation de Navier-stokes ? Justifier. On obtient ainsi l'équation locale linéaire du mouvement. 9-3- Commenter ]expression du champ de vitesses donné et vérifier qu'il respecte les conditions aux limites . 9-4- Déterminer la condition vérifiée par la pression P pour que le champ de vitesses donné soit la solution de léquation locale linéaire 9-5- Déterminer les forces de pression et de viscosité exercées sur la sphère On rappelle que la force de viscosité qui agit sur un élément de surface dS de la sphère est âa dFvis dS uo r=R 9-6- En déduire la force de traînée   exercée par le fluide sur  la sphère: Conclure concernant le paradoxe de d' Alembert . Dans quel cas retrouve-t-on la formule de Stokes ?
+FIN DE LEPREUVE
+Concours cn Physlquc ct Chlmle -Scvsion Juln 20102
+Epreuve de Physiquc
+page Xx

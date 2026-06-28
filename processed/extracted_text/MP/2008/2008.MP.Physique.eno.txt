@@ -1,7 +1,110 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE
+~5i2Xji {kjæmsps JsybuylzÉ Usisl uikjialuklini ùanitjlisulydi 2008+~
+Ministère de lEnseignement
+Supérieur; de la Recherche Scientifique et de la Technologie Concours nationaux d'entrée aux cyclcs dc formation d'ingenicurs Scssion 2008
+Concours en Mathématiques et Physique AsMTUT Maepnaatoirl  CRUOTHeqUE Epreuve de Physique 8us SH
+Date : Jeudi 05 Juin 2008
+Heure : 8 H 00
+Duréc : 4 H
+nbre de pages : 08
+Barème
+Problème 1 : 1l pts (5,5+55);
+Probleme 2 : 9 pts (6 +3)
+L'usage d'une calculatrice non programmable est autorisé
+L'épreuve comporte deux problèmes indépendants. Un candidat   peut   toujours se servir dun résultat   fourni par Pénoncé pour   continuer sa composition.
+L'espace est rapporté à un repère (Oxyz) de base orthonormée directe ( "x , 0y ' 4z) PROBLEME 1 2 INTERFERENCE ET DIFFRACTION DE LA LUMIERE
+On envisage dans ce problème d'étudier la possibilité de mesurer ['écart entre deux longueurs d'ondes voisines à l'aide de l'interféromètre de Michelson utilisé en lame d'air à faces parallèles et à laide dun prisme en utilisant les lois de la diffraction:
+Rappels L 'amplitude complexe s(M) diffractée en un point M supposé à Pinfini par une ouverture plane de surface E et de facteur de transmission complexe   t(P) éclairée par une onde plane est donnée par
+s(M)=a % f Jf(P)expli(ka -K;).TPJdz où dZ représente Ja surface élémentaire entourant un point P de louverture, k; et Ka sont les vecteurs d'onde associés respectivement à londe incidente ct à Ionde diffractée. a est une constante et $ est lamplitude complexe de ['onde incidente.
+Concours cu Mathématiqucs ct Pbysiquc
+Scasion Juin 2008
+Eprcuve dc Physlquc
+Psgc 1/8
 
+--- page 2 ---
+Lintensité lumineuse I est définie par I=5s* où $* désigne le complexe conjugué de $ La fonction sinus cardinal sinc(u) est définie par sinc(u) = sin()2 u
+Première partie Mesure décart entre deux longueurs dondes voisines par interférométrie
+Linterféromètre de Michelson est constitué dune lame semi réfléchissante; non absorbante, appelée séparatrice (Ls) dont les facteurs de transmission et de réflexion en intensité valent 1/2, et de deux miroirs plans M1 et Mz perpendiculaires ['un à lautre (Figure 1) La lame (Ls) est inclinée à 45% par rapport aux normales à M1 et Mz. L'interféromètre est plongé dans l'air dont lindice de réfraction sera pris égal à 1_ On suppose que (Ls) n'introduit aucun déphasage supplémentaire.
+M1
+Mz
+(Ls)
+(E)
+Figure 1
+Source de lumière monochromatique Linterféromètre de  Michelson est éclairé  par une source étendue $ supposée   parfaitement monochromatique de longueur d'onde ^ = 589,3 nm. Initialement, linterféromètre est réglé à la "teinte plate" , situation appelée aussi "contact optique" (0O1 = OO2) On translate le miroir Mz grâce à un vis de chariotage normalement à son plan dune distance e = 1,05 mm dans la direction des x positifs. On observe alors des anneaux sur un écran (E) placé dans le plan focal image dune lentille mince convergente L de distance focale f=lm 1.a) Compléter la figure 1 en faisant apparaître le cheminement des deux rayons qui interfèrent en un point Mde (E) 1b) Quel est le rôle de la lentille convergente ? 2a) En raisonnant sur la lame dair équivalente, montrer que la différence de chemin optique 8 entre les deux ondes qui interfèrent au point M a pour expression ô(M) 2e cosi 2b) Expliquer pourquoi les franges dinterférences sont des anneaux. Qu'appelle-t-on ces anneaux dinterférences ? Justifier.
+Coucours cn Matbématiquas ct Pbrysique
+Scssion Juip 2008
+Epreuve @e Pbysiquc
+Pagc 2/8
 
+--- page 3 ---
+2c) Déteminer l'expression de l'intensité I(M) résultant de linterférence de deux ondes de même intensité Lo en un point Mde (E) en fonction de Ios i et de lordre dinterférence au centre Po On s 'intéresse dans la suite de cette partie awxr incidences i faibles: On désigne par ix l'incidence correspondant au k-ième anneau sombre (compté à partir de i = 0) 3.a) Quelle est la nature du centre des anneaux ? 3.b) Déterminer l'expression des angles ik correspondant aux minima dintensité en fonction de k, 1 et e En déduire la loi de variation du carré du rayon Rk du k-ième anneau sombre en fonction du numéro k. 3.c) En déduire une méthode expérimentale pour mesurer la longueur donde. 3.d) Déterminer ['expression de l'erreur relative sur la détermination expérimentale de 1.
+Source de lumière bichromatique On remplace la source $ monochromatique qui éclairait le dispositif de Michelson par la lampe spectrale de sodium. Les deux radiations émises par la lampe sont de longueurs d'onde voisines 11 et 12 = 11 + M1 et de même intensité (0 < 41 <<11). On fera lapproximation   1112 ~ 1? où 1 = 589,3 nm désigne la longueur d'onde moyenne du doublet émis par cette lampe. 4) A partir du contact optique on déplace le miroir Mz de façon à faire défiler les anneaux. On constate que les anneaux disparaissent au voisinage du centre pour la quatrième fois lorsque le déplacement de Mz est e = 1,01 mm 4.a) Expliquer les raisons de la disparition des anneaux. 4.b) Déterminer lintensité I(41) et [(12) en un point M de On fera apparaître dans ces expressions Fintensité maximale Ima correspondant à des interférences constructives produites par une longueur donde donnée. 4.c) En déduire que [intensité résultante I en un point Mde (E) a pour expression I= Inex [1+ Vcos_ 248]
+où Vest à expliciter. Que représente |VI ? 4,d) En déduire 42 .
+5) Le dispositif de Michelson est réglé en lame dair: On déplace le miroir Mz de façon à augmenter progressivement l'épaisseur de la lame dair. Lors de cette opération on constate que le contraste des anneaux s'annule au voisinage du centre successivement pour les valeurs ` de e indiquées dans le tableau ci-dessous.
+e (mm) 101
+1,30
+1,59
+1,88
+On désigne  par Pu et Pa les ordres dinterférences associés respectivement aux longueurs dondes 41 €t 12 = 11 + 44   correspondant à un brouillage de la figure dinterférence. D'après les mesures expérimentales; si on trace Ap=Py Pu en fonction de lépaisseur e, on trouve une droite. 5.a) Déterminer léquation de cette droite. 5.b) Déterminer la variation de Ap entre deux annulations successives du contraste  En déduire, à partir des valeurs expérimentales; Pécart 42 .
+Concobrs c0 Matbematiques €t Physquc
+Seulon Jufu 2008
+Eprcuve de Pbydque
+Pagc 3/8
 
+--- page 4 ---
+Deuxième_partie Meswre décart entre deux longveurs dondes voisines avec Un prisme
+On se propose de déterminer le pouvoir de résolution intrinsèque dun spectroscope à prisme. Pour ce faire; on éclaire un prisme par une source ponctuelle $ placée au foyer objet d'une lentille convergente Lp de distance focale fj. On étudie la lumière diffractée sur un écran (E) placé dans le plan focal image dune lentille convergente L2 de distance focale f2 (Figure 2). Le prisme; de hauteur h et dangle au sommet A très faible; est constitué dune substance en flint transparente, homogène, isotrope et d'indice de réfraction n(^) obéissant à la loi de Cauchy qui s'écrit en première approximation B n() =Ct 12 , avec C~l,6 et B~l0-2 Jm? _ Le prisme est plongé dans lair dont F'indice de réfraction sera pris égal à 1. Lépaisseur e de la base du prisme est très faible devant sa hauteur h. L'arête du prisme de longueur a parallèlement à (OY) est suffisamment grande devant 1 pour ne considérer que la diffraction dans la direction des X. On suppose que la face dentrée du prisme constitue le diaphragme diffractant; On donne e = 0,5 cm ; h =5 cm ; fp = 20 cm et fz = 1 m
+X
+Z
+M
+fi
+Figure 2
+Source monochromatique La source ponctuelle $ éclairant le prisme est monochromatique de longueur d'onde 2. 1a) Compléter la figure 2 en faisant apparaître le cheminement des rayons qui arrivent au point Mde (E) 1.b) Montrer que la déviation D du rayon émergent par rapport au rayon incident est D =(n -1)A 2) Compte tenu de ['effet du prisme sur la phase de Ponde, "ouverture" formée par le prisme possède un facteur de transmission complexe t(X) dont Pexpression est de la forme
+2u t(X) =expl j '((1-n)AX) si 0 < X <h
+t(X) =0 ailleurs
+Coucours
+Mathématlques ct Phyuiquc Scassior Jule 2008
+Eprcuve de Pbysquc
+Page 4/8
 
+--- page 5 ---
+2.a) Déterminer |amplitude complexe s(M) diffractée en M. 2.b) En déduire que lexpression de lintensité I diffractée en M s'écrit sous la forme Œh(x - Xo@)) I(x) = Iosinc 2 fz
+où Xo() est à exprimer en fonction de n, f2, e et h. Vérifier que la distribution de Pintensité est   centrée sur   la direction prévue par loptique géométrique.
+Source de lumière bichromatique 3) On désire à présent déterminer le pouvoir de résolution du prisme en utilisant le critère de Rayleigh 3.a) Expliquer brièvement pourquoi ce dispositif constitue un spectroscope. 3.b) Déterminer la position du premier minimum nul dintensité de la figure de diffiraction pour La longueur donde 2. 3.c) Déterminer lécart dAmin entre deux radiations de longueurs dondes voisines (4 et 1 + d2min) tout juste résolue selon le critère de Rayleigh. En déduire alors que le pouvoir de résolution théorique Ro a pour expression Jdn minE 2eB Ro
+4) Au fait la source éclairant le prisme est une fente source de largeur € = 0,3 mm parallèlement à (OX). Le prisme n'est pas alors éclairé sous une incidence unique i, mais sous un ensemble 40 A0 dincidences variant entre 1 et i + < où 40 = est la largeur angulaire de la fente 2 fi source vue depuis la lentille de distance focale f]. 4.a) Construire limage géométrique de la fente source de largeur {e sur (E) Montrer alors que la taille de limage géométrique & g de la fente source sur (E) est donnée par
+6g =6,5 fi
+4.b) Comparer Q à la taille de la tache centrale de diffraction sur lécran g Expliquer alors pourquoi   la taille de limage géométrique de la fente source limite le pouvoir de résolution: On donne 1 = 589,3 nm En déduire que la nouvelle expression du   pouvoir de résolution s'écrit 1f, R =Ro he , 4c) La lampe éclairant le dispositif est celle du sodium possédant une raie double telle que 11 = 589 nm et 12 = 589,6 nm. Est-ce que ce doublet est résolu par ce dispositif ? Justifier.
+Concours ce Mathématiqucs et Physiquc
+Scssion   Julp 2008
+Eprcuve dc Pbyslque
+Pege 5/8
 
+--- page 6 ---
+PROBLEME 2 : INDUCTION ELECTROMAGNETIQUE ET IRANSFERIS IEERMIQUES Ce problème comporte deux parties complètement indépendantes.
+Un point M de lespace est repéré par ses coordonnées cylindriques (r, 0, z) dans la base cylindrique ( ", , 'e ' uz) Première partie : Induction électromagnétique 2 4 A laide dun fil en cuivre, on constitue un solénoïde daxe 0z, de rayons intérieur Ri et extérieur Rc, de longueur  finie L, comportant  N spires circulaires DDDD jointives isolées électriquement les unes des autres Rc Ri par un isolant d'épaisseur négligeable. Le fil conducteur, de conductivité électrique constante 0 Z est de section   rectangulaire  dont   la  longueur   est ( = L et  la   largeur est Re Ri (Figure 1) On N admettra   lhypothèse dun courant uniformément Figure 1 réparti dans le solénoïde avec une densité volumique j = jùe R; +Rz On désigne par Ro = le rayon moyen d'une spire. 2 On place le solénoïde dans un champ magnétique radial, B=-Bo U, ' où Bo est une constante positive. 1) Déterminer la résistance Rs du solénoïde. On la mettra sous la forme Rs = N? Is où Is est à exprimer en fonction de 0 et des paramètres géométriques du problème. 2.a) Déterminer la force de Laplace f qui s' 'applique SUF une spire de section rectangulaire de longueur € = L et de largeur R R; parcourue par une densité volumique de courant uniforme N j circulant suivant ù En déduire que F est de la forme : 7=2æRm IBo Ez où I est lintensité du courant qui circule dans une spire. 2.b) En déduire que la résultante de la force de Laplace F qui s 'applique sur le solénoïde s'écrit F =NIk  uz où k1 est une constante à exprimer en fonction de Bo et de Rm: 3) Dans toute la suite de cette partie le solénoïde se déplace le long de son axe Oz à la vitesse v = dz & =vüz dt 3.a) Déterminer /expression du champ électromoteur Em 3.b) En déduire la force électromotrice (f.e.m) induite e qui apparaît aux bornes d'une spire de rayon moyen Rm et la mettre sous la forme e = k2 V. Quelle est [expression de la fem totale E dans le solénoïde ? 3.c) Comparer k] à k2 et retrouver le résultat énergétiquement:.
+Copcours cn Mathématiqucs ct Physiquc
+Scssion Juin 2008
+Eprcuve dc Physique
+Pagc 6/8
 
+--- page 7 ---
+4) On rappelle qu'un solénoïde parcouru par un courant I crée en un point M quelconque de son = = L Rm axe compris entre z 0 et z (Figure 2) un champ magnétique
+IM
+2
+B()= HoNI = (cose ~ cose2)uz z=L 2L Déterminer du Figure 2 4.a) Pexpression champ magnétique au centre du solénoïde B(L/2) _ 4.b) On admettra pour le calcul de lénergie magnétique que le champ magnétique est uniforme à lintérieur et a la valeur au centre du solénoïde [B(z) = B(L/2)] et que le champ magnétique à Fextérieur est nul. Déterminer lexpression de l'énergie magnétique   Wm emmagasinée dans le solénoïde de rayon Rm. En déduire [expression de linductance propre L du solénoïde. Mettre cette expression sous la forme L =N?h où h est à expliciter. 5) Dans ce qui suit, on alimente le solénoïde en mouvement par une source de tension constante de valeur U. Les grandeurs U, E et I seront orientées dans le même sens. 5.a) Donner le schéma électrique équivalent du circuit et déterminer l'équation différentielle électrique liant E, U et L 5.b) En déduire léquation différentielle suivante U =N I; L +hdL dt -kz vJ
+où I = NI est lintensité du courant équivalent 5.c) Déterminer le nombre de spires No permettant datteindre en régime permanent (courant et vitesse constants) , la force de Laplace F (calculé en 2b) correspondant à la densité volumique de courant uniforme j, à la vitesse vo et sous la tension dalimentation Uo. Quel est leffet de laugmentation du nombre de spires pour une source donnée ? 6) On applique à t = 0 au solénoïde de rayon moyen Rm un échelon de tension continue damplitude Uo. Déterminer [expression de lintensité I(t) du courant circulant dans une_ spire de rayon Rm dans les deux cas suivants a) le solénoïde est immobilisé b) le  solénoïde se déplace à la vitesse constante Vo donnant ainsi naissance à une force électromotrice induite Eo. On fera apparaître une constante de temps électrique T qu' on explicitera.
+Deuxième partie Transferts thermiques
+Le solénoïde précédent de rayons intérieur Ri et extérieur R et de longueur L est constitué de N spires de section rectangulaire en cuivre homogène, de conductivité électrique 0 supposée constante, de chaleur massique c et de masse volumique |. L'isolant d'épaisseur négligeable se trouve uniquement entre les spires. Le solénoïde est parcouru par un courant de densité volumique uniforme j . On suppose que le solénoïde baigne dans lair à la température constante Ta. On admettra les hypothèses suivantes On néglige les transferts thermiques par conduction et par rayonnement
+Concours en Matbematiqucs ct Pbysique
+Scasiou Jpin 2008
+Eprcuvc dc Pbysquc
+Psge 7/8
 
+--- page 8 ---
+le flux thermique est radial  et le transfert   thermique a lieu vers  Pintérieur   comme vers Pextérieur du solénoïde la température ambiante Ta est la même à l'intérieur (r < Ri) et à lextérieur (r > Re) du solénoïde la conductivité thermique du matériau conducteur est supposée infinie de façon à ce que /on puisse supposer la température du solénoïde Ts uniforme (Ts(Mt) = Ts(t)) ; le solénoïde s'échauffe de façon homogène et on admet que laccroissement de la température AT 2 Ts Ta; par rapport à la température ambiante, peut être déterminé en supposant que ['évacuation de la chaleur vers le milieu extérieur (air) se fait uniquement par un transfert conducto-convectif. 1) Déterminer la capacité thermique du solénoïde en fonction de c, J, Res Ri et L 2) Montrer que la puissance totale dissipée par effet Joule PJ a pour expression P s~Lz(-R}) 3) On admet que les transferts thermiques à linterface entre air ambiant à la température Ta et Pune des surfaces du solénoïde à la température Ts sont caractérisés par le coefficient d'échange thermique conducto-convectif h supposé indépendant du matériau conducteur. Le conducteur ne se refroidit donc que par leffet de la convection de lair ambiant; à travers toute sa surface latérale. La puissance thermique surfacique @ échangée par le conducteur avec lair est régie par la loi de Newton : @ = h (Ts - = Ta). 3.a) Déterminer la puissance Pc évacuée par les deux parois de rayons R; et Re et de longueur L. En déduire Vexpression de la résistante  thermique R déchange avec le milieu extérieur en fonction de h, Re, R; et L_ 3.b) En faisant un bilan d'énergie, déterminer lévolution de laccroissement de la température AT(t) = Ts(t)- ~ Ta lorsque le solénoïde est parcouru par un courant de densité volumique j. On fera apparaître une constante de temps T qu' 'on exprimera en fonction de R et C. At=0, le solénoïde est porté à la température ambiante Ta Tracer la courbe Ts(t). 3.c) Déterminer l'expression de la densité de courant jp pour un fonctionnement en régime permanent avec un échauffement de AT = ATp'
+f:nJe l'{seune
+Concours cn Matbématiques ct Pbysiquc
+Scssion Juin 2008
+Eprcuvc dc Physiquc
+Page 8/8

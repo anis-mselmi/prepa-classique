@@ -1,11 +1,147 @@
+--- page 1 ---
+Signature des enseignants République Tunisienne MINISTERE DE L'ENSEIGNEMENT SUPERIEUR ET DE LA RECHERCHE SCIENTIFIQUE
+Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs
+Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs UsIUT FREAE  vin Cbuothequs Session 2012 Cuee Concours Mathématiques & Physique Chimie Durée 2 Heures Epreuve de
+Session
+2012
+Concours : Mathématiques & Physique
+Epreuve de
+Chimie
+Durée
+2 Heures
+Nom
+Prénom
+Date & lieu de naissance
+Etablissement dorigine
+NP C.LN ou N' du passeport pour les étrangers
+Série :
+Identifiant :
+Nombre de cahiers remis
+Nombre de cahiers remis
+Jéoel 81 Heine
+lbie éoiei {
 
+--- page 2 ---
+BARÈME
+Problème 1 Problème II Problème III Problème IV
+5,75 pts 6,25 pts 3,50pts 4,50 pts
+INSTRUCTIOYS Cette épreuve comporte 11 pages. Tout résultat devra être écrit dans les cadres adéquats. 1 'usage des calculatrices électroniques de poche non programmables est autorisé: Aucun échange entre les candidats n'est autorisé Les résultats numériques sans unité ou avec unité fausse ne seront pas comptabilisés:
+DONNÉES RELATIVES À L?ENSEMBLE DU SUJET On supposera que Les enthalpies et les entropies de la réaction sont indépendantes de la température dans le domaine considéré Les gaz sont parfaits et les solides sont purs:
+DONNÉES NUMÉRIQUES Constantc des gaz parfaits R = 8,314 JK-1 mol   Rayons ioniques (pm) Ion sodium = 97 ion fluorure 136 Masses molaires atomiques (g. mol-1) ) Na = 23,0 ; F = 19,0 et Zn 65,4. HZnF; = 40 kJ mol-' Enthalpie standard de fusion à la température de fision standard de ZnFz pur fis À 298 K :
+HF F + Htaq) pKo = 3,18. (aq) (aq)
+HF 1 F = HF(aq ) pKz = ~0,67 (aq) {aq)
+HF? {aq) = 2F(aq) + Hjaq) pKS = 3,85.
+Les potenticls redox normaux (standard) Ea (O2g) / H,0) = 1,23 Volt E' H{aq) /H2(g) , =0Volt Conversions RxTxLn(x) = 0,06xlogno (x) Volt   (à 298 K) F 0( C)+273 = T(K)
+Concours Mathématiques et Physique Session Juin 2012
+Page
 
+--- page 3 ---
+PROBLÈME I : ÉTUDE DU FLUORURE DE SODIUM
+PRÉLIMINAIRE 1) Donner la structure électronique de F(Z=9) 2) Comment  appelle-t-on Tes éléments qui, dans 1a classification  périodiquc,  appartiennent à la même colonne (ou famille) que lc fluor ?
+3) Citer un autre élément de la colonne du fluor
+4) Quel est lc nombre d' oxydation @non nul) usucl des éléments dc cette colonne ? Justifier la réponse
+5) Qucl est Ie symbole du sodium ? K S Na Rappeler 1es positions ct Ies nombres des sites octaédriques (0) et tétraédriques (T) dans une maille cubique à faces centrées.
+Établir Ics expressions permcttant le_calcul des rayons dc ces sites en fonction du rayon < r> de latome
+STRUCTURE DU FLUORURE DE SODIUM Le fluorure de sodium est un cristal ionique cristallisant dans une structurc de type chlorure de sodium 8) Quels sont les sites occupés_par Fion sodium ?
+9 Préciser la coordinence dc Pion sodium par rapport à F_
+10) Donner les coordonnées réduites dcs ions sodium dans cette structure:
+11) En se limitant à une seule maille, représenter la trace des ions sur un plan contenant deux axes A, sécants.
+Page 2
 
+--- page 4 ---
+12) Donner ]expression puis calculer 12-a) le paramètre < a > de la maille en supposant que les anions et les cations sont tangents
+12-b) la compacité de ce cristal.
+PROBLÈME II : DIAGRAMME BINAIRE diagramme binaire liquide-solide du mélange ZnFz-NaF, sous la pression p = 1 bar, cst représenté sur la Le figure ci-dessous .
+1020 F0 (C)
+p
+Ibar
+947 920
+M
+820
+720
+410€
+(4)
+632 C
+Ez
+620
+(3)
+520
+420
+320
+10
+20
+30
+40 50 60 pourcentage molaire
+70
+80
+90
+100 NaF
+ZnFz
+Concours Mathématiques et Physique Session Juin 2012
+Page 3
 
+--- page 5 ---
+1) Déterminer la formule du composé intermédiaire apparaissant dans ce diagramme et préciser son comportement à la fusion
+2) Donner la nature des phases dans les domaines numérotés de (1) à (4) sur le diagramme.
+Domaine (1) Domaine (2) Domaine (3) Domaine (4) 3) Il apparaît sur le diagramme un point E1 . 3-a) Quel est lc_nom de ce point 2
+3-b) Donner Vallure de la courbe danalysc thermique lors du refroidissemcnt de 820*C à 620"C du mélange  liquide   représcnté   par le point M. Préciscr  les   phénomènes   observés SUr chaquc tronçon.
+4) Soit un mélange solide constitué par 7,39 g de ZnFz ct 2,00 g de NaF Cc mélange est porté à la fusion puis refroidi à 0 = 720 C. 4-a) Préciscr la nature des phases en équilibre à cette température.
+Page 4
 
+--- page 6 ---
+4-b) Déterminer la composition ct la quantité dc matière de chacunc des_phases_en équilibre à 7202€
+5) La branche du liquidus relative à léquilibre cntre un mélange liquide (ZnF2 + NaF) et le solidc ZnF2 pur est décrite par la relation fus HZnF; In(xznF; R To T fus( ZnF; ) où XzaF2 désigne la fraction molaire de ZnF2 dans le mélange liquide et Afus HZnF; Venthalpie standard de fusion de ZnFz à la température de fusion standard de ZnFz pur To fus,ZnF; 5-a) Montrer quc pour des solutions très diluées de NaF dans ZnF2, on pcut établir la relation 'fus HZmF;_ AT XNaF X avec AT = Tfs ZnF_ T où T est la température d'apparition des cristaux R (To fus_ZnF; de ZnFz pur lors du refroidissement du mélange (ZnFz + NaF) de fraction molaire XNaF 
+Concours Mathématiques et Physique Session Juin 2012
+Page 5
 
+--- page 7 ---
+5-b) Montrer que, lorsqu'il s'agit dune solution diluée dc NaF dans ZnF 2, la molalité de NaF mNaF ) s'écrit en fonction dc la fraction molairc XNaF . XnaF * ]000 M7 NaF M ZFz
 
+5-c) Donner Pexpression puis calculer la valeur de la constante cryoscopique Kcr du solvant ZnF2 définie par AT = K CI X MlNaF
+Page 6
 
+--- page 8 ---
+PROBLÈME III On considère la réaction déquation bilan Znl +H,0 22 HFe) + ZnO sd) endothermique dans lc sens (1). 2(sd ) (g) 1) Dans quel sens évolue le système initialcment à léquilibre lors 1-a) dunc augmcntation de température à pression constante ?
+1-b) dune compression à températurc constante ?
+I-c) dune faible addition de ZnF 2(sd ) à température et volume constants ?
+2) En précisant la signification de chaque terme, donner 1expression puis calculer la variance dun système contenant sculement les substances écrites dans léquation chimique ci-dessus ?
+3) Peut-on choisir arbitrairement pour ce système 3-a) le volume; la température et la pression partielle de HF ? Justifier:
+3-b) la pression partielle de HF (pu) et la fraction molaire dcau en phase vapcur (yuzo 2 Justificr.
+Donner ]expression de la loi d'action de masse pour cet équilibre.
+Concours Mathématiques et Physique Session Juin 2012
+Page 7
 
+--- page 9 ---
+5)
+5-a) Montrer que lexpression donnant la constante déquilibre en fonction de la température s'écrit sous la forme Ln(K") = A - B T
+5-b) Déterminer les valeurs de A et B; sachant que K842K 0,61 et ArH' = 109,1 kJ. mol-'
+5-c) Sous  la  pression de 1 bar ct à T 842 K; la phase vapeur   contient   46%  molaire d'eau_ Déterminer la tcmpérature pour laquelle on enrichit la phase vapeur en cau jusqu'à la composition 70% molaire.
+Page 8
 
+--- page 10 ---
+PROBLÈME IV DIAGRAMME E-PH Les conventions adoptées pour le tracé du diagramme de prédominance sont La concentration totale en élément fluor dissous est égale à Ctra = 1 mol 1=1 À la frontière qui sépare les domaines de deux espèces dissoutes; les concentrations en élément fluor dans chacune des espèces sont les mêmes: Dans Feau; le fluor existc sous les trois cspèces suivantes HF(aq), F(aq) et HF 2(aq) .
+Diagramme E-pH de Yeau : 1) Ecrire Péquation de réduction de 02(g) en H20 ct déduire le potenticl E. du couple correspondant en fonction du pH, pour poz 1 bar .
+2) Écrirc léquation de réduction de HzO en H2(g) et déduire le potentiel Eb du couple correspondant en fonction du pH, pour puz bar
+Diagramme de prédominance 3) Établir en fonction de la concentration Ctra, Fexpression de la frontière 3-a) cntre les domaines dc prédominance de HFZraq) et HF(aq) ?
+Concours Mathématiques et Physique Session Juin 2012
+Page 9
 
+--- page 11 ---
+3-b) entre les domaines de prédominance de HFz.aq) et F (aq) ?
+4) Représenter sur le même diagramme 4-a) les courbes Ea f(pH) et Eb f(pH) 1,30
+1,10
+0,90
+0,70
+0,50 5 0,30
+0,10
+-0,10
+-0,30
+-0,50 8 8 ; 3 ; 8 ; 3 8 8 8 8 8 8 ; 3 8 pH
+Page 10
+
+--- page 12 ---
+4-b) les frontières entre les espèces fluorées dans les cas Ctra = 1 molL-' et €'tra 0,214 molL-' Adopter une couleur pour chacun des cas.
+4-c) Indexer le diagramme dans chacun des cas et conclure .
+Indexation : à effcctuer directement sur le diagramme. Conclusion
+Fin de Fépreuve Page 11
+Concours Mathématiques et Physique Session Juin 2012

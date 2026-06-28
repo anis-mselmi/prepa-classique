@@ -1,5 +1,60 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministere de /Enseignement Supéricur, dc La Recherche Scientifique et dc La Technologie Concours nationaux d'entrée aux cycles dc formation d'ingénieurs Scssion 2008
+291=a2j;
+483 Lakis sèys s9bu45445 dsiw Yibjil eijaliji Oiuji isulydi 2008 ;
+Concours Mathématiques et Physique; Physique et Chimie, Biologie et Géologie &Technologie Epreuve d'Informatique
+Date Mardi 03 Juin 2008
+Heure 15 H
+Durée 2 H
+Nbre pages 6
+Barème EXERCICE 1 : 4 points, EXERCICE 2 : 5 points, PROBLEME 11  points
+DOCUMENTS NON AUTORISES
+L'USAGE DES CALCULATRICES EST INTERDIT
+WSITT , CBLOIN:? ) 2 EXERCICE 1 Quoes  SS Dag Enn On considère l'expression algébrique suivante (x-y-I)(x'-y-12 F = 2(xy =1) Donner les commandes en MAPLE permettant de 1. définir F 2. évaluer Fpour x = 1 ety = 3 ; 3. récupérer dans NF la forme développée du numérateur de F et dans DF le dénominateur de F; 4. donner le nombre des coefficients de NF 5. donner le quotient et le reste de la division euclidienne de NF par DF par rapport àx ; 6. définir la fonction f dont l'expression est F et la fonction f5 tel que f5 (x)= f(x; 5) ; 7. donner les points singuliers de f ( les points où f n'est pas définie); 8. chercher les racines de f5 9.  représenter graphiquement f5 sur [~27,2z]; 10. représenter graphiquement f pour x dans [-10,10] et y dans[-10,10] .
+Concours Toules options Session Juin 2008
+Epreuve dInformatique
+Pagc 1/6
 
+--- page 2 ---
+EXERCICE 2 On se propose d' 'approcher la valeur de r en utilisant différentes méthodes:. Présentation des méthodes 1 Méthode Cues Cette méthode se base sur les deux suites a et b définies par 4 =0 1 b 9+61 et @n+1 bn+l @n+] bn 1 Les termes et convergent vers I lorsque n tend vers 0 2an 2bn 2. Méthode Brounker La fraction continue suivante permet de calculer la valeur de z lorsque n tend vers
+T =4_ 1+ 2+ 2+- 2+
+32 52
+2+@2n222 2+(2n-1)2
+3. Méthode de Newton T est calculé par (2n)! 1 =6 7=0 24n+ (n')' (2n+1) Méthode d Euler La valeur de z est donnée par
+T = 6 27 Travail demandé
+1. Donner la commande en Maple donnant une   valeur approchée de avec 20 chiffres significatifs. 2. Ecrire une procédure en Maple; nommée Cues, calculant la valeur de 7 avec une précision € donnée. La valeur approchée de est atteinte lorsque la différence en valeur absolue entre deux termes successifs est inférieure à € 3. Ecrire une procédure en Maple; nommée Brounker, retournant une valeur approchée de % _ Cette procédure prend comme paramètre en entrée la valeur de n. 4. Ecrire la commande en Maple qui permet dapprocher la valeur de par la méthode de Newton. 5. Sans utiliser la commande prédéfinie de Maple (utilisée en 4), écrire une procédure en Maple; nommée Euler , retournant une valeur approchée de avec une précision donnée. La valeur approchée de est atteinte lorsque la différence en valeur absolue entre les valeurs obtenues suite à lexécution de deux itérations successives est inférieure à € Concours Toutes options _ Session Juin 2008 Epreuve dInformnatique Page 2/6
 
+--- page 3 ---
+PROBLEME La bio-infommatique est une discipline   récente utilisant des   notions de   mathématiques; d'informatique et de biologie. L'une des occupations de ce domaine est la recherche de similarités entre des séquences dADN. Du point de vue dun bio-informaticien une séquence ADN est une collection ordonnée dun nombre variable de caractères choisis dans lalphabet (A, C, G, T). AATCGACTTACGGAT est un exemple de séquence d' ADN. Le problème a pour but de mesurer la similarité entre deux séquences La similarité est définie comme étant la mesure de la ressemblance entre deux séquences. Plusieurs   algorithmes sont apparus pour déterminer la similarité pour deux séquences de longueurs différentes . On définit un alignement comme étant la mise en corespondance des caractères des deux séquences en insérant des espaces dans la séquence la moins longue pour que les longueurs deviennent identiques Le travail demandé consiste à aligner deux séquences de longueurs différentes et à calculer la similarité entre elles En partant de deux séquences S1 et S2 où S2 est la séquence la moins longue,   la méthode qui sera   utilisée consiste à compléter la   séquence S2 par   des espaces représentés par le caractère tiret < de façon que le nombre de caractères dans Sl et dans S2 soit le même: Les tirets peuvent être ajoutés à la séquence S2 de différentes façons et dans différentes positions (voir exemple 1) Description de la méthode Les séquences Sl et S2 seront représentées respectivement par deux tableaux 4 et B.Le tableau A contient les n caractères de SI et le tableau B contient les m caractères de S2 avec n>m. Pour aligner A et B, on utilisera une matrice de caractères M à q lignes et n colonnes où 9 est le nombre de combinaisons entre n et p avec p=(n-m) Selon les règles de lanalyse combinatoire il Y n! a, possibilités de placer des tirets entre les caractères du tableau B. Chaque ligne de la p'(n- p)! matrice M contient ainsi une combinaison différente des caractères de B avec les tirets. Exemple 1 Soient les séquences S1 et S2 représentées respectivement par les tableaux et Bde tailles n! respectives n 5 et m=2 ; dans ce cas p3 et 9 qui vaut 10. pl(n- p)! S1 = AATCG S2 = A C LA | A T | c G B A | c 8ursisus 974nd [dp, Transfarev 8f04 La matrice M à q lignes et n colonnes correspondant à B est la suivante A 8
+c
+C
+M=
+A
+A
+Afin de créer la matrice M où chaque ligne contient les caractères du tableau B avec un arangement   différent des   tirets, on fait   usage d'un tableau monodimensionnel 5 dentiers contenant pour chaque ligne de M les positions des tirets à placer sur la ligne en question 
+Concours Touics ontions Session Juin 2008
+Eorcuvc dInfomatiouc
+Pagc 3/;
 
+--- page 4 ---
+Le tableau initial servant à la création de la première ligne de M est le tableau S contenant p entiers successifs S = [1, 2, p], avec p=(n-m) A partir dun tableau précédent $, la génération d'un nouveau tableau $ = [n1, n2,, np] à p entiers; avec npÉn et n; < ni+1 pour 1<i<p-l, se fait selon le principe suivant . Si np + 1 <= n le tableau $ àp éléments devient alors 5 = [n1, n2,-, np+l] sinon passer à Félément np-I. Pour ['élément np-I, si np-' +2 <= n, le tableau S contenant p éléments devient alors S = [nI, n2s. - np-l +1,np-l +2] sinon passer à ['élément np-2 et ainsi de suite.
+Pour l'élément n; avec 1< i < p; si n; + (p-i+1) <= n; le nouveau tableau S contenant p éléments sera S= [nI, n2,  409 ni +l,ni +2, ni +3,- n; +(p- i+1)] Appliquons ce principe à l'exemple 1 pour n = 5 etp=3, si s-[1,2,3] (tableau initial), le nouveau tableau S sera S = [1, 2,4] car 3 + 1 <= n Si $-[1,2,4j,le nouveau tableau $ sera S = [1, 2,5] car 4 + 1 <= n. Si S= [2,4,5], on a : 5+1 > n, on passe alors à [élément précédent qui est 4 ; 4+2 > n, on passe à celui qui le précède qui est 2 ; 2+3 <= n, dans ce cas on incrémente l'élément 2 de 1, on obtient 3. Les éléments suivants de $S seront alors les successeurs de 3. Le nouveau tableau $ obtenu est S = [3,4,5] Ainsi, chaque ligne de la matrice M est créée à partir dune occurrence du tableau $ et des éléments de B comme le montre Texemple: Chaque occurrence de $ est générée selon le principe ci-dessus décrit. Tableau initial $ = 14| 2 | 3 S = 1 | 2| 4 S = 1 / 2 | 5 S = 1 | 3 | 4 A c S = 1 / 3 | 5 A C M= S = 1 / 4 | 5 A S = 2/E  S = 2 | 4 | 5 S = 3 | 4 | 5 Pour le calcul des scores de similarité et la recherche du score optimal; on détermine la similarité entre la séquence représentée par le tableau A à n éléments et chacune des séquences figurant sur les lignes de la matrice M représentant différents alignements des m éléments du tableau B; Poug chaqese ligne de M, le principe de calcul se base sur la comparaison de chaque caractère de A avec celui de la ligne de M se trouvant à la même position.  Trois situations sont possibles pour une position donnée de ]alignement et à chacune des situations on attribue un score Identité ayant pour score 2 si les caractères sont les mêmes, Délétion ayant pour score -2 si [une des positions est un tiret. Substitution ayant pour score -1 si les caractères sont différents; Le score dune comparaison entre deux séquences est la somme des scores de comparaison caractère par caractère. Le score optimal est le plus grand score parmi les scores obtenus en alignant À avec chacune des lignes de la matrice M
+Concours Toutes options Scssion Juin 2008
+Epreuve dInformatique
+Pagc 4/6
 
+--- page 5 ---
+Exemple 2:
+Identité Délétion Substitution
+Tableau A AmG cIAT AYCII G Tableau B (une ligne de M) ckkkLcA CIT Scores 1 2 2 2 42 42 -1 2 2 2 Le score de cette comparaison est égal à 6.
+Travail demandé On suppose avoir effectué les déclarations suivantes CONSTANTE NMAX = 10 QMAX = 252 TYPE TABC = TABLEAU [1.NMAX] DE CARACTERE TABE = TABLEAU [1.NMAX] D'ENTIER MAT TABLEAU [1.QMAX, 1.NMAX] DE CARACTERE 1. Ecrire une fonction algorithmique SAISIE_NB permettant de retourner un entier saisi au clavier compris entre 1 et NMAX: 2. Ecrire une procédure algorithmique SAISIE_SEQ permettant de remplir un tableau T avec n caractères. Chaque élément saisi devra appartenir à lalphabet (A, C, G, T). 3. Ecrire une fonction algorithmique FCT qui calcule le factoriel dun entier passé en paramètre. 4. Ecrire une fonction COMB qui à partir des deux paramètres entiers n et m, retourne la n! valeur de lexpression m'(n-m)! 5. Ecrire une procédure algorithmique INIT_TPOS qui, à partir dun paramètre entier p, remplit un tableau $ avec des entiers successifs de 1 àp dans lordre 6. Ecrire une procédure algorithmique ECRIRE_TIRETS qui écrit; à partir dun tableau $ dentiers; d'un numéro de ligne L et dune matrice M de caractères; des tirets K - > à la ligne L de M sur les colonnes d'indices les valeurs du tableau S. 7. Ecrire une procédure algorithmique ECRIRE_SEQ qui écrit; dans les cases ne contenant pas des tirets < - > de la ligne L dune matrice M, les m caractères d'un tableau B dans Pordre. 8. Ecrire une procédure algorithmique INCREM_SEQ qui détermine;, à partir dun tableau S à p entiers et dun entier n, le nouveau contenu du tableau $ (voir paragraphe description de la méthode) 9. En utilisant   les  procédures et fonctions adéquates; écrire la procédure   algorithmique CREE_MAT qui crée, à partir d'un tableau B de m caractères, la matrice M de type MAT à q lignes (à déterminer) et n colonnes comme suit: calculer le nombre de lignes q de Mà partir de n et m, initialiser tous les éléments de M au caractère < X > créer un tableau initial S avec p valeurs entières successives; placer les tirets < > aux endroits correspondants de la première ligne de M, remplir les cases restantes avec les m éléments de B dans l'ordre,
+Concours Toutes options Session Juin 2008
+Epreuve dInformatique
+Page 516
 
+--- page 6 ---
+itérer les deux étapes précédentes pour les lignes suivantes de M. A chaque itération générer un nouveau tableau $ à partir du tableau précédênt = écrire les tirets à leurs bonnes positions sur la ligne courante de la matrice M; écrire les éléments du tableau B sur la ligne courante.
+10. Ecrire une fonction algorithmique SCORE; ayant en entrée une matrice M, un numéro de ligne L et un tableau A à n colonnes; qui retourne le score de similarité correspondant en attribuant le score ~2 à une délétion; 2 à une identité et -1 à une substitution 11. Ecrire une fonction algorithmique SCORE_OPT qui retourne le meilleur score entre le tableau A et chacune des lignes de la matrice M.
+oncours Toutes options Session Juin 2008
+Eprcuvc dInformatiquc
+Page 6/6

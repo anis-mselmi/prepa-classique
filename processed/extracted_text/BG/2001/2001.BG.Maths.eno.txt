@@ -1,3 +1,60 @@
+--- page 1 ---
+RÉPUBLIQUE TUNISIENNE 8*** Ministère de VEnseignement Supérieur
+# (biblklik: : 8 "cinzoi$
+Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs Session: Juin 2001
+Concours en Biologie et Géologie Épreuve de Mathématiques Durée: 3H Date: 7 Juin 2001 8Heure Nb pages: 4 Barême: Pb 1 I: 3pts II: 2pts III: 4pts Pb 2 I: 5,5pts II: 5.5pts
+L'usage des calculatrices est strictement interdit. Une grande importance sera attachée à la rigueur du raisonnement, à la clarté de la rédaction et au soin de la présentation. Il est rappelé que tout résultat énoncé dans le sujet peut être utilisé pour traiter la suite, même s'il n'a pu être démontré_
+Problème 1.
+Partie I.
+On s'intéresse à la recherche des solutions paires et développables en série entière de léquation suivante
+(1)
+y"(s) + 2zy(z) + 2y(r) = 0  I € R
+On suppose que les solutions y(z) sont développables en séries   entières et qu'elles s'écrivent sous la forme y(s) = En20 @nI" dans son intervalle de con - vergence de rayon R. 1) Les fonction y(s) ,Y(z) sont elles dérivables si oui calculer leur dérivées et donner les rayons de convergence des séries obtenues.
+1/4
 
+--- page 2 ---
+"xs S7AX"
+Dans la suite on suppose que la fonction y(r) est une fonction paire. 2) que peut-on dire des coefficients an pour les entiers n impairs. 3) En remplaçant y(z),y(x) et y"(x) par leur séries entières respectives dans léquation (1) déterminer la relation vérifiée par les coefficients @n 4) a) Exprimer an en fonction de n et de @0 b) Calculer alors le rayon de convergence de la série obtenue. 5) Calculer la somme f (z) = In 20 @nI" Partie II.
+On s'intéresse à lintégration d'une forme différentielle totale. Soit la forme différentielle df définie par df = P(z,y)dz + Q(x, y)dy où
+P(z.y) = ~(2+4) ~Ie et Q(E. y) = ~ye-i2+4)
+Q > 0, 3 > 0
+1) En écrivant la condition nécessaire que doivent vérifier P et Q pour que df soit une différentielle totale déterminer la relation entre œ et 3.
+Dans la suite on suppose que df est une différentielle totale. 2) En intégrant la forme diffrentielle déterminer une expression de f(x,y) 3) Déterminer l'expression de f(s,y) qui tend vers zéro quand z,y tendert vers l'infini.
+Partie III.
+Soient œ un réel et (X,Y) un couple de variables aléatoires dont la densité de probabilité est définie par 2iu2 ge h(z,y) = 2 si x 2 0,y 2 0 sinon
+1) Déterminer œ pour que h(z,y) soit une densité de probabilité. 2) Déterminer les lois marginales des variables X et Y Les variables X et Y sont-elles indépendantes. 3) Calculer les espérances mathématiques E(X), E(Y), E(XY). En déduire la covariance cov(X,Y)
+2/4
+à en2 
 
+--- page 3 ---
+4) Calculer E(-2X + 1) et E((-2X + 1)2). En déduire la variance V(X)- 5) Calculer E[(-2X + 1)(-2Y + 1)] et E[(x + Y)(X - Y)]: +0 On donne e`z? dr =
+Problème 2.
+Dans tout le problème la première composante de chaque vecteur propre sera choisie égale à 1. Partie I. 51 On considère l'espace vectoriel E = R muni de sa base canonique B = (e1,e2, e3) et f lendomorphisme de E dans E défini par sa matrice 4
+dans la base B
+2 0
+A =
+2
+11
+1
+=1
+1) Déterminer le noyau Kerf et l'image Imf de lendomorphisme f , et en donner une base pour chacun deux. A-t-on E = Imf $ Ker f? 2) a) La matrice A est-elle diagonalisable? justifier votre réponse. b) Déterminer les valeurs propres X1, À2 X3 classées dans lordre croissant suivant À1 < X2 < X3 et leur vecteurs propres 21 U2 U3 respectifs. Déterminer la matrice de passage P de la base B à la base B1 = ("1 U2 u3) et calculer P-'  3) Soit œ un réel donné on considère la matrice M définie par M = I+ qA où I est la matrice identité de E.
+a) Montrer que si ) est une valeur propre de la matrice A et u le vecteur
+propre associé à À alors 1+œX est une valeur propre de la matrice M donner
+son vecteur propre associé. b) En déduire les valeurs propres (choisies dans lordre croissant) de la matrice M ainsi que les vecteurs propres associés. Ecrire la matrice de passage Pi de la base B à la base Bz formée par les vecteurs propres de M.
+3 /b
 
+--- page 4 ---
+d)   Montrer que M est semblable à une matrice   diagonale D que 1on déterminera.
+Partie II
+Soit h un réel strictement positif. On considère la fonction g définie de Rx R y _ I dans R par g(I,y) = h On considère les suites numériques (In)n20 (yn)n 20 , (zn)n 20 définies par leur premiers termes Io Yo et zo et pour tout n 2 1 :
+g(In, In+1) 2In Z7 9(yn, Yn+1 ) 2yn Zn 9(zn, zn+1) In ~Un zn 1) a) Exprimer In+l Yn+1 zn+1 en fonction de In , Yn zn et h Xn b) Pour tout n € N on pose Xn = Yn zn Montrer que Xn+1 = LXn, où L = I+ BA et B est un réel à déterminer en fonction de h_
+2) a) Déterminer les valeurs propres /1 L2 U3 ( p1 < 12 < Js) de L et leur vecteurs propres associés U1 Uz U3. b) Déterminer la matrice de passage Q de la base B à la base B3 = (U1 U2 U3) . En déduire la matrice Q-1_
+c) Donner la matrice diagonale semblable à L et écrire L en fonction de
+la matrice
+@n bn Cn
+In
+3) Pour tout n € N on pose Yn =
+=Q-1 Yn 2n a) En utilisant les questions 1) b) et 2) c) montrer que
+Vn € N , Yn+1 = AYn:
+b) En déduire que pour tout n € N ,Yn = A"Yo. 4) Exprimer an bn , Cn en fonction de n , Qo bo , Co et h. 5) En déduire In Yn zn en fonction de n , Io , Yo z0 et h.
+4 /4

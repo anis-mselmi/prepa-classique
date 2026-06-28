@@ -1,7 +1,93 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de /'Enseignement Supérieur et de la Recherche Scientifique
+4,64j172/47j1 {.lxï lg4~is @4;L=p Joia Yibyi ELalii uhnlitdl Dusjalui 201361/
+Concours Nationaux d'Entrée aux Cycles de Formation d'Ingénieurs Session 2013
+Concours Physique et Chimie Epreuve de Physique
+Date Jeudi 06 Juin 2013 Heure : 8 H Barème Problème I : 10 pts
+Durée 4 H Nbre pages 08 Problème II 10 pts
+L 'usage d'une calculatrice non programmable est autorisé
+On veillera à une présentation claire et soignée des copies. Il convient en particulier d'indiquer avec précision les références des questions. Un candidat peut toujours se servir d'un résultat fourni par F'énoncé pour continuer sa composition
+L'épreuve est constituée de deux problèmes indépendants
+Problème [
+ECOULEMENT DE POISEUILLE PLAN
+Le problème concerne létude de lécoulement de Poiseuille plan d'un liquide et ses applications dans F'industrie Dans cette étude Faction du champ de la pesanteur sera négligée et Fespace sera rapporté   au référentiel galiléen 9 (Oxyz) de base orthonormée directe (u, 1y' 0.
+Donnée
+théorème du gradient
+ffs $ as JSs grad f dr avec 5 la surface qui
+délimite le volume V
+I- Loi de Hagen-Poiseuille On   considère  ]écoulement  dun liquide  confiné entre deux plaques; rigides;  horizontales,   parallèles au   plan (xOz) séparées dune distance et   fixes dans 9? (Figure-1-) Soit L la longueur des plaques selon (Ox) et soit €  leur largeur selon (Oz) On suppose L))h et ())h Une pompe située en amont (x 0) crée un gradient
+Plaque
+Plaque
+Figure-| -
+Page 1/8
+Concours Physique et Chimie Session Juin 2013
+Eprcuve de Physique
 
+--- page 2 ---
+horizontal de pression et réalise ainsi un écoulement laminaire; unidirectionnel , incompressible et stationnaire dont le champ de vitesse s écrit v(M,t) = v(y) Z On note Po la pression au niveau du plan x = 0 et Po 4p la pression au niveau du plan X = L, Ap est appelée perte de charge. Le sens de lécoulement du liquide est indiqué sur la figure 1. Le  liquide   considéré est un   fluide visqueux,   homogène et   newtonien. On note sa masse volumique et 7 sa viscosité dynamique.
+1- Décrire brièvement Fécoulement laminaire d'un fluide visqueux. 2- Justifier que le champ de vitesse ne dépend que de la coordonnée 3- Soit un volume V du fluide limité par la surface fermée $, Donner ]expression de la force de pression que subit un élément de surface dS En déduire la force volumique de pression. 4- Soit un fluide newtonien en écoulement unidirectionnel et permanent tel que le champ de vitesse s' écrit v(M) = v(y) u La  force de   viscosité   exercée, par la   couche inférieure sur la couche
+dv 7
+supérieure, à travers une surface S située dans le plan y = y est F Vis
+S ur Dans le
+@v cas où >0 , représenter sur un schéma les différentes forces de viscosité qui s 'exercent sur une {v particule parallélépipédique du fluide de cotés   dr dy etdz   située entre les plan d'altitudes et y + dy En déduire Fexpression de la force volumique de viscosité dv 5-1) On rappelle ]'équation de Navier Stokes (v-grad =j gradp + n Av dt où 4 est le laplacien vectoriel. Que représente cette équation ? Interpréter chacun de ses termes. 5-2) Réécrire Féquation de Navier-Stokes dans les conditions de Fécoulement considéré 6-1) Montrer que la composante selon u, du gradient de pression est une constante qu'on exprimera en fonction de Ap et L En déduire Fexpression du champ de vitesse: On fera apparaitre deux constantes . 6-2) En  précisant   les   conditions aux   limites   imposées par   les plaques en y = 0 et y = h , déterminer Fexpression du champ de vitesse. 6-3) Montrer qu' 'il est   nécessaire   d'imposer un gradient de   pression   suivant   (Ox) pour que Fécoulement existe. Quel nom donne-t-on à ce typc d'écoulement ? 6-4) Justifier physiquement le signe de Ap et tracer le profil de la vitesse. 7 - Montrer que le débit volumique Dvo à travers une section orthogonale X = Cte   obéit à la loi de h' € Hagen-Poiseuille Dvo 4p 12 n L 8 - Déterminer la vitesse moyenne de Fécoulement. 9- On rappelle que le nombre de Reynolds R est défini comme le rapport du terme convectif et du terme   visqueux de l'équation de Navier-Stockes: En déduire que P v h R dans  le cas de
+Fécoulement étudié
+Concours Physique et Chimic Session Juin 2013
+Epreuve de Physique
+Page 2/8
 
+--- page 3 ---
+II- Moulage des liquides visqueux Le remplissage   des moules   par un   fluide visqueux   intervient dans de nombreux   procédés   de fabrication industriels (agroalimentaire; Findustrie verrière; .). On se propose d'évaluer la perte de charge   Ap nécessaire au remplissage dun moule par du verre fondu considéré comme un liquide visqueux newtonien. Les deux plaques fixes représentent maintenant les parois du moule. On donne h = 0,25 cm L =10 cm et pour le verre fondu on a 7 200 Pa s et p 1400 kg.m
+10- Exprimer la perte de charge Ap en fonction de 7 , h, L et r la durée de remplissage du moule Calculer la perte de charge Ap nécessaire pour remplir le moule en 0,08 s 11- En déduire la valeur du nombre de Reynolds R de cet écoulement. Commenter . 12 - En industrie, on prévoit une valeur de Ap supérieure à celle calculée car au cours de la phase de Gaine solide Paroi du moule remplissage le liquide au contact de la paroi du moule se refroidit et crée une zone solidifiée appelée gaine solide (Figure-2-). En réalité, lécoulement s'effectue dans une zone de hauteur   réduite h On note Gaine solide Fépaisseur de la gaine solide et on suppose quelle est Paroi du moule présente sur toute la longueur du moule. L'épaisseur Figure-2 - de la gaine solide est fonction de la durée de remplissage du moule T tel que e = Va r où a est une constante caractéristique du liquide. en fonction de 77 , h, L, et a Calculer la perte de charge Ap pour remplir le Exprimer   Ap moule en 0,08 s. On donne pour le verre fondu =1,5.10-7 m 2s
+III - Régulation de débit 13- Rappeler Fanalogue hydraulique  de Fintensité du courant  électrique et de la différence de potentiel électrique:. 14- En utilisant la loi de Hagen-Poiseuille; donner Fexpression de la résistance hydraulique   RH analogue à la résistance électrique; pour la géométrie de Fécoulement étudié. 15- En hydraulique et dans Tindustrie agroalimentaire  on règle le débit  en pratiquant  une ouverture de longueur Pièce dans la plaque supérieure du dispositif précédent (Figure-3-) d'étranglement Cette ouverture permet à une pièce d'étranglement de coulisser selon (Oy) et d'entraîner un rétrécissement ajustable du dispositif.  Soit le débordement de la pièce d'étranglement de la  plaque supérieure. On admet que chaque partie du dispositif; rétrécie ou non, obéit à la loi de Hagen-Poiseuille. Figure-3 - 15-1) Déterminer   la résistance hydraulique   équivalente du dispositif de la figure 3 15-2) En déduire le débit volumique  Dvc du dispositif en fonction de Ap , n, L, € , h, € et d montrer qu'au   premier ordre en le débit   volumique s ' écrit : 15-3) Sachant que € ((h Dvc Dvo (1 @ &) où & est une constante positive à exprimer en fonction de L, h et d .
+Concours Physique et Chimie Session Juin 2013
+Epreuve de Physique
+Page 3/8
 
+--- page 4 ---
+IV- Ecoulement de Poiseuille plan de deux liquides non miscibles Dans   lindustrie   pétrolière une   technique  dextraction   du Plaque pétrole consiste à injecter de Feau sous pression pour faire remonter le pétrole par un puits de forage. On considère Teau et le pétrole comme des liquides Pétrole visqueux newtoniens non miscibles en écoulement ayant les mêmes caractéristiques que celui étudié dans I- Euu Les deux plaques sont identiques aux précédentes; lune est située en y = =h et ]autre en y = h. Leau, de viscosité 71 , est en écoulement entre y = -h et y = 0 et le pétrole; Plaque Figure-4 - de viscosité 772 est en écoulement   entre y = 0 et y = h (Figure-4-). On note K = 72 7 Soient v(M) = v(y) u, et v2(M) = vz(y) k,  respectivement les champs de vitesse dans Feau et dans le pétrole.
+16- En tenant compte du résultat de la question 6-1, donner les expressions des champs de vitesse v(y) et vz(y) On fera apparaitre quatre constantes. 17-1) Ecrire les conditions aux limites imposées par les plaques en y = -h et y = h  17-2) Les liquides étant non miscibles; on suppose que la face inférieure de Finterface, d'équation y = 0 , se comporte comme un plan rigide  pour 1eau et la face supérieure   de Finterface  se comporte comme un plan rigide pour le pétrole. En déduire la troisième condition aux limites vérifiée par le champ de vitesse à F'interface. dv 17-3) Montrer que 7 Ôvz 72 ôy 1 =0 18- En déduire 1expression du champ de vitesse v(y) en fonction de Ap , 72 , L, h et K 19- Déterminer le débit  volumique Dvz du   pétrole à travers une   section   orthogonale x = Cte Comparer au résultat obtenu à la question 7 et commenter.
+Problème II
+DISPERSION DE LA LUMIERE
+En optique; la spectrométrie est Pune des applications du phénomène du dispersion de la lumière à Taide dun prisme ou dun réseau:  Après étalonnage; on peut accéder à la mesure de la longueur donde de la lumière et plus généralement au spectre de la source utilisée.
+IPrisme Un prisme dont la section droite est un triangle isocèle dangle au sommet A, constitué dun matériau  transparent,  homogène et dindice de réfraction n(4) pour une radiation de longueur donde 1 donnée est plongé dans l'air d'indice de réfraction égal à 1
+Concours Physique et Chimie Scssion Juin 2013
+Epreuve de Physique
+Page 4/8
 
+--- page 5 ---
+1 - Les orientations des angles sont choisies pour que les valeurs des angles i , i' , r , r' et D soient   positives (Figure 1). On se place dans le cas où lesconditions démergence des rayons lumineux sont satisfaites. 1-1 - Exprimer les lois de Descartes traduisant les réfractions à /entrée en et à la sortie en I' du prisme; lors du passage dun rayon lumineux monochromatique dans le plan de section principale . 1-2- Déterminer Pangle au sommet A en fonction de r et
+1-3- Déterminer 1angle de déviation D en fonction de Figure 1 A . i et i' 2 - En lumière   monochromatique;   lorsqu'on varie Fangle  dincidence on met en évidence Texistence dun minimum de déviation; noté D Le tracé du rayon lumineux émergeant du prisme est alors symétrique par rapport au plan bissecteur de langle A du prisme. Une fois la condition de A+Dm la déviation minimale est réalisée; montrer que n = sin ) /sin( 2) 2 3- Décrire une expérience permettant de déterminer les angles et Dm Préciser les différents éléments constituant le dispositif réalisant les mesures. 4- Déterminer ]expression de lincertitude relative An associée à Findice n du prisme en fonction
+des angles A, D et des incertitudes absolues AA et ADm 5- Pour la radiation de longueur donde   10 = 589,3 nm on obtient Dm 48052' Déterminer la valeur de Findice du prisme qu'on présente sous la forme n+ An
+On donne A =600 AA = ADm = 4'
+IL. Spectromètre à prisme Un spectromètre à prisme est constitué (Figure 2) dun collimateur composé  dune fente   (F), placée dans le plan focal objet dunelentille convergente (L) de distance focale J1 20 cm et éclairée par une source de lumière polychromatique. d'un prisme dangle au sommet A dont Findice varie en fonction de la longueur donde suivant B la   loi   empirique de Cauchy qui s écrit   dans   le domaine du visible n(2)=a+ avec 12 a =1,5973 et B 0,0106 um?
+dun objectif assimilé à une lentille convergente (L,) , qui donne sur un écran le spectre de la lumière émise par la source éclairant la fente. Cet écran est situé dans le plan focal image de la lentille (L2) de distance focale f 100 cm et daxe optique 0,F-
+Concours Physiquc et Chimie Session Juin 2013
+Epreuve de Physique
+Page 5/8
 
+--- page 6 ---
+Prisme
+Objectif]
+Collimateur
+Ecran
+Figure 2
+6- Quelle est la différence entre un spectroscope et un spectromètre ? 7- La figure 2 représente la marche, à travers le prisme et Fobjectif;, dun rayon lumineux incident 0,1 pour la longueur donde   4 . Reproduire cette figure et tracer la marche dun rayon incident 0,1 de longueur d'onde 4 légèrement supérieure à 2 8- Le prisme est réglé au minimum de déviation pour une longueur d'onde 1  donnée. 8-1- Montrer que la variation de D en fonction de Findice n du prisme s'écrit dDn 2sin "(4)/ coS (4+2 dn 8-2- En déduire le pouvoir dispersif angulaire  dD~ en fonction de A , Dm   et de la dispersion du d1 dn verre d1 9- La lumière émise par la source est composée de deux radiations jaunes du sodium de longueurs donde voisines 1, et 12 = 1 + A1 9-1- Le passage dune   radiation  de longueur  donde 1 1 +d1   entraîne, au minimum de déviation; une variation élémentaire dD de la déviation.  Exprimer   dDm en fonction de A, Dm B , 1 et d1 9-2 - Déterminer; sur ]écran dobservation;  la distance d séparant les images de la fente (F éclairée par les deux radiations du sodium. 9-3- Déterminer la valeur de d pour 4 589,0 nm et 12 589,6 nm 10- La face dentrée du prisme   est  totalement   éclairée, sous   une incidence fixée, dans  les conditions du minimum de déviation pour une radiation de longueur d'onde 1  donnée. Le faisceau émergeant sous ]angle une largeur dans la section principale du prisme. On note la largeur de la base du prisme (Figure 3). 10-1- Exprimer le pouvoir dispersif angulaire  dDz en d1 fonction de b , B , 1 et @ Exprimer la distance d en fonction de b B , € , f2 , 1  et 41 10-2- La fente (F), de largeur e, est assez large pour négliger tout phénomène de   diffraction. Son   image Figure 3 géométrique; sur Fécran d'observation; a une largeur Les   angles Ai et Ai indiqués sur la figure 4 sont les   variations des   angles dincidence et démergence correspondant aux bords de et de
+Concours Physique et Chimie Session Juin 2013
+Epreuve de Physique
+Page 6/8
 
+--- page 7 ---
+10-2-1- Déterminer en fonction de e , f; et fz . 10-2-2- Quelle est   la condition sur d et pour  que les deux images de la  fente  source, correspondantes aux longueurs d'onde ^ et 4+d^ soient séparées ? 10-2-3- En déduire la limite de résolution (44) du spectromètre imposée par la largeur de la nn fente source et lexprimer en fonction de dn b , [ , f et d1 10-2-4- Si Ton désire séparer, à laide de ce prisme, des raies très   voisines en longueurs donde, quels sont   les  réglages apporter (F) Objectif  f Préciser leurs limites_ Collimateur Ecran 10-2-5 - Calculer les valeurs de (44) et du nipi Figure 4
+pouvoir de résolution PR pour la (A1 nn longueur donde 41 Données numériques e 40 um { = 2 cm et b = 3,5 cm
+IIL. Réseau par transmission On considère un réseau plan constitué de N fentes identiques,   fines,   parallèles et régulièrement espacées: On note a la distance qui sépare les centres de deux fentes consécutives qui représente le pas de ce réseau par transmission.
+11- Indiquer un procédé   permettant   la  fabrication des réseaux   optiques.  Citer un autre type de réseau . 12- Le réseau est éclairé par un faisceau parallèle de lumière monochromatique, de longueur d'onde 1 sous |angle dincidence On 'intéresse au   faisceau diffracté à Finfini suivant la direction @ Les angles et sont comptés positivement (Figure 5) 12-1- Montrer que la  différence de marche 8 entre   deux rayons homologues diffractés suivant la direction € par deux fentes successives du réseau s 'écrit = a (sino sini)_ 12-2 - Déterminer la relation fondamentale du réseau Réseau précisant les directions €   associées aux maxima principaux dordre k Figure 5 13- On suppose que le spectre de raies des  radiations   du mercure est limité par les radiations bleue 26 400 nm et rouge ( 2 700 nm 13-1- Déterminer les ordres observables, sous une incidence de 309 pour ces deux radiations Faide dun réseau de pas a = 2 um 13-2- À partir de quel ordre se produit le recouvrement des spectres ? Justifier votre réponse
+IV. Spectromètre à réseau Le   prisme   du montage   représenté sur la figure est   remplacé par un réseau   de pas a = 2 um Le faisceau sortant du collimateur éclaire complètement le réseau par transmission sous
+Concours Physique et Chimie Session Juin 2013
+Eprcuve de Physique
+Page 7/8
 
+--- page 8 ---
+une incidence i . Ce réseau peut tourner autour dun axe parallèle aux fentes et le spectre obtenu est projeté sur un écran situé au plan focal image de la lentille convergente ( Lz) de distance focale fz 14- Pour une longueur donde ^ donnée et un ordre k fixé, on désigne par D = 8 -i , la déviation entre la direction du faisceau incident reçu par le réseau et la direction du faisceau diffracté. 14-1 - En faisant tourner le réseau la déviation D passe par une valeur minimale  Dm   pour une valeur particulière i, de l'angle dincidence i Déterminer im en fonction de @xm 14-2- Exprimer la relation fondamentale des réseaux (définie en 12-2-) en fonction de la déviation minimale Dm 14-3- En déduire la valeur de à lordre 1, pour la radiation jaune de longueur donde moyenne 2 = 589,3 nm du doublet jaune du sodium 15- Le réseau est   maintenant   placé   orthogonalement au faisceau   lumineux incident issu du collimateur . 15-1- Pour deux radiations de longueurs d'onde voisines 2 et 1+d2 éclairant le réseau; exprimer d0L la dispersion angulaire D en fonction de k, a et € d1 15-2- En déduire la dispersion linéaire dXA observée sur un écran placé au plan focal image de la d1 lentille (1,) . L'ensemble (lentille; écran) est perpendiculaire à la direction moyenne des rayons diffractés dans l'ordre k 15-3- Calculer la valeur de dXA  exprimée en mm nm à Tordre 1, pour la longueur donde d1 moyenne 2 = 589,3 nm 16- On admettra que la limite de résolution du spectromètre à réseau est surtout imposée par la largeur de la fente source. 16-1- Calculer la largeur de l'image de la fente source sur Fécran dobservation en supposant qu'elle est identique à celle donnée par le prisme (relation établie à la question 10-2-1) Données_numériques 2 40 um f =20 cm et fz =100 cm 16-2- Le réseau est toujours éclairé sous incidence normale, déterminer; dans le spectre d'ordre 1, la distance AX sur Técran entre   les images de la fente source relatives au doublet du sodium (21 589,0 nm et 12 = 589,6 nm )  Le spectromètre à réseau   utilisé permet-il   la résolution du doublet de sodium ?
+Concours Physique ct Chimie Session Juin 2013
+Eprcuve de Physique
+Page 8/8

@@ -1,7 +1,107 @@
+--- page 1 ---
+{stirur GILOTEQUE JiR€ 0 (ULSs DMES > REPUBLIQUE TUNISIENNE Ministèrc de "Enselgnement Superieur et de Ia Recherche Scicntiliquc Concours Nationaux d'Entrée aux Cycles Formation d'Ingénieurs Session 2013
+4; ;j)j2/ji Ukkxklv4g5s {U~b Jsuyji euaiji urji jf jui 2013 ;
+Concours Technologie Epreuve de Physique
+Date Jeudi 06 Juin 2013
+Heure 8 Hoo
+Durée 4 H
+Nbre pages 08
+Barème Partic 1 02 pts Partie 2 : 05 pts Partie J 02.5 pts Partie 4 07 pts Partie 5 03.5 pts
+L'usage d'une calculatrice non programmable est autorisé
+L'épreuve est constituée de cirq parties   pouvant étre traitées de façon indépendanle
+Un candidat peut toujours se servir d'un résultat fourni par l'énoncé nmur continuer sa composition
+Données
+Le vide est caractérisé par sa permittivité électrique € 10-9 Fm et sa 361 perméabilité magnétique Ho = 4T 10-' Hm Charge élémentaire e = 1,6.10-19 € Masse de l'électron [ =9,10.10* kg Masse du proton Mlp 1,67.10 27 kg Constante de gravitation G = 6,67.10*" Nm? kg 2 Rayon de la Terre Rr = 6400 km Masse de la Terre MT 6,0 . 1024 kg r<t (rÆt=) = grad (diva) - Za fcos'(icos02 d0 =1,22 sin €
+Première Partie : Propagation dune onde électromagnétique dans le vide
+Ecrire les équations de Maxwell dans le vide satisfaites par le champ électromagnétique CR présence de charges et de courants Etablir   "équation de   propagation du   champ  électromagnétique   dans le   vide   absolu (dépourvu de charges et de courants) . On note c la célérité de la lumière dans le vide. On note (0,,6,,4,_ la base cartésienne;, orthonormée directe; du référentiel 9(Oxyz)  On considère une onde électromagnétique de champ électrique @(M,t) = Eo exp j(wt kz)ù, , où Eo est un réel positif. Caractériser cette onde.
+Concours Tcchnologic Scssion Juin 2013
+Eprcuyc dc Physiquc
+Pagc 1/8
 
+--- page 2 ---
+ISTITUT Prlfaratoire @BuoTkeos) FN {nlrs DIKGENEVS  Etablir la relation entre k et @ pour que cette onde puisse se propager dans le vide absolu. Le vide est-il dispersif ? Justifier . 5. Déteminer le champ magnétique 6(M,t) de cette onde. Déteminer la densité d' énergie électromagnétique uzm  ainsi que sa valeur moyenne dans le temps < Uem Relier le vecteur de Poynting I(M,t) Men7 Que   représente le module de sa valeur moyenne dans le temps Il< lI(M,t) >ll
+Deuxième Partie Production d'une onde électromagnétique Rayonnement dipolaire Le référentiel 9 (Oxyz) de base orthonormée directe (0,,4,,4z est supposé galiléen: On note Un dipôle électrique oscillant , de moment dipolaire (6,40,4,) la base sphérique P(t) = P(t) Mz = Pocos(} 0,' sC trouve au point 0 (Figure 1)
+M
+P(t)
+Figure 1
+Papproximation dipolaire; le champ magnétique B(M,t) créé par ce dipôle en u point Dans #o sin @ | dpo d p(I M(r,0,p) s'écrit B(M,t) = 4nr dt dt?
+8.1. Justifier la direction de B(M;t) par des arguments de symétrie. 8.2. Ecrire son expression complexe @(M,t) dans le cas du dipôle oscillant considéré. 9 . 9.1. Rappeler la définition de la zone de rayonnement . 9.2. En déduire Fexpression du champ magnétique rayonné par le dipôle oscillant. 10. Déteniner ]'expression du champ électrique de Fonde rayonnée par ce dipôle. 11. Montrer que |'expression du vecteur de Poynting moyen s 'écrit P' sin? II(M,t) > = 321 'Eoc' < 12. En déduire la puissance moyenne traversant une sphère de centre 0 et de rayon r entourant le dipôle. Concours Tcchoologic Scssion Juin 2013 Eprcuvc de Physiquc Pagc 28
 
+--- page 3 ---
+Msinuy Pireaioint CSUOTHEqur B DS
+Rayonnement d'une antenne demi-onde
+Une antenne demi-onde, confondue avec F'axe (Oz), est constituéc d'un fil métallique rectiligne de longueur ( = 4 parcouru par le courant i(z,1) = 1, cos 2 |cos (@t) , où Io est une constante (Figure 2).
+M
+P(O,0,2)
+L'antenne est décomposée en éléments de longueur dz de sorte que dz << 1 13. Déterminer F'expression de la charge 9(z,r) 14 En déduire |'expression du moment dipolaire élémentaire Sp = Sp(z,t) 4z 15. Montrer que le champ magnétique rayonné par un élément dz s'écrit piacé au point P(O,0,z)
+dB(M,t) = jwHo sin 8 1, dz cos 2r 21 4nrc exp @( PM 16 Exprimer la distance PM en fonction de r ,0 er 17. En déduire que le champ magnétique rayonné par /'antenne demi-onde $ écrit
+cos cos0 6(M,t) = _Hol Zur sin sin 0 @t 18. Déterminer le champ électrique rayonné É(M,t) . 19. En déduire Fexpression  du vecteur de Poynting  II(M,t)   ainsi que sa  valeur moyenne temporelle < II(M,t) > 20. Détermincr la puissance moyenne totale rayonnée par [antenne demi-onde à travers une sphère de centre 0 et de rayon r. 21. En déduire ['expression de la résistance de rayonnement définie par P R, 12 . Calculer la valeur numérique de R,
+22. On définit le gain directionnel de rayonnement par Ga = 4nr' |k<42ll Comparer Ie gain directionnel de Vantenne à celui du dipôle oscillant POur 0 = I Concours Technologic Scssion Juin 2013 Epreuvc de Physiquc Page 3/8
+Figure
 
+--- page 4 ---
+Mstirut Mahaloin Geliothequi) (0us Dmaas Ss
+Troisième Partie Satellite sur une orbite circulaire à l'étude de quelques caractéristiques d un satellite de Cette partie est consacrée de la Tene, assimilée à une sphère homogène de centre télécommunication en orbite autour O,de rayon Rr et de masse MT. assimilable à un point matériel est en orbite circulaire autour Un satellite de masse ms, de la Terre, à unc altitude h. un point M défini par 23. Montrer que le champ gravitationnel g(M) crée par la terre en h)u, , s'écrit g(M) = -G M+u,. OM =r ù, = (R, 24. On suppose que le système (Terre-satellite) est isolé 24.1. Le réfërentiel barycentrique est-il galiléen ? Justifier. 24.2. Rappeler la définition du référentiel géocentrique (%8 le référentiel barycentrique peut être approximativement confondu avec 24.3. Montrer que (9?,) Dans la suite de cette partie, l'étude sera menée dans (93 ,) supposé galiléen. 25. Etablir la relation entre le module de la vitesse du satellite v = |l vIl et&. 26. 26.1. Etablir la relation entre la période de révolution T du satellite et h. 26.2. En déduire la 3èm loi de Kepler. 27. F'énergie mécanique Em   du   satellite se 27.1 Montrer que moment cinétique conservent. En déduire çue le mouvement est plan et qu'il obéit à la loi des aires 27.2 On donne ' =800 km m =2.10' kg 28. Calculer numériquement v,T ,0a et En
+Quatrième Partie Liaison Terre-Satellite se font par   réception ou émission des   ondes Les communications Terre-satellite Ces ondes traversent Fatmosphère qu'on assimile au vide, à l'exception électromagnétiques. de la couche située à plus de 60 km d'altitude appelée ionosphère être considérée comme un plasma constitué dun gaz sous faible L'ionosphère peut milieu   électriquement   neutre de permittivité pression et partiellement   ionisé C'est un renfenme, par unité de volume, N et de perméabilité   magnétique Ho , qui électrique de masse mc, et des ions positifs de charge +e et de masse mp électrons libres de charge ~e et et v les vecteurs vitesses respectivement d'un électron et d'un ion On désigne par de base orthonormée directe positif, relativement au référentiel terrestre 9(Oxyz), (6,,4,,0,), supposé galiléen. que le mouvement de ces particules chargées est non relativiste On ssppose quc jeomoegelge nelfet de %a pesanteur ainsi que 1os interactions entre les porleurs Dans cette de charge Eprcuvc dc Physiquc Pagc 4/8 Concours Tcchnologic Session Juin 201}
 
+--- page 5 ---
+Msttiut URE cblofheql 98 Uuss DIreub Propagation des ondes électromagnétiques dans F'ionosphère On se propose d'étudier la possibilité de propagation selon une verticale locale dune onde électromagnétique plane progressive monochromatique de champ électrique @(M,t) = Eo expj(ot -kz) u , où Eo est un réel positif: 29 29.1. Rappeler /'expression de la force de Lorentz exercée par le champ électromagnétique (5,6) sur les porteurs de charges. 29.2. Montrer que l'on puisse négliger la contribution du champ magnétique devant celle du champ électrique à la force de Lorentz. 30. Dans cette hypothèse, écrire les équations vectorielles du mouvement d'un électron et dun ion relativement au référentiel 9.
+Dans la suite, On se place en régime établi et on cherche les vecteurs vitesses sous la forme v(M,t)= v exp j(ot -kz)
+31. En admettant   que lamplitude des mouvements   des charges est   très petite devant   la longueur d'onde, déterminer les expressions de @ et ", 32. En déduire F'expression de la densité volumique de courant   J(M,t) qui apparaît dans Tionosphère. 33.En tenant compte des valeurs numériques de mc et de mp,  montrer que 1'expression Ne? simplifiée de J(M,t) s'écrit : I(M,t) = E(M,t) _ @m 34. Ecrire les équations de Maxwell dans le plasma ionosphérique. 35. Réécrire ces équations en notation complexe et déduire la structure de !onde dans le plasma . 36. Etablir l'équation aux dérivées partielles vérifiée par F(M,t) . 37. En déduire que la relation de dispersion dans le plasma étudié s'écrit k2
+Donner l'expression de la pulsation plasma @ en fonction de N e, M, et €o 38. Calculer la fréquence plasma fp pour N = 2.10" m 39. Montrer que Vionosphère se comporte comme un   filtre passe-haut   pour les ondes électromagnétiques. Préciser sa fréquence de coupure f
+On se place dans le cas où la propagation des ondes électromagnétiques dans Fionosphère est possible sans atténuation.
+40. Donner l'expression de k en fonction de 0, W et € pour une onde progressive dans le sens des z croissants_ 41. En déduire les expressions réelles E et 5 du champ électromagnétique dans le plasma 42 42.1. Déterminer les expressions de la vitesse de phase V, etde la vitesse de groupe Ys Le plasma est-il dispersif ? Justifier .
+Concours Tcchnologic Scssion Juia 2013
+Eprcuyc dc Physiquc
+Psgr 58
 
+--- page 6 ---
+MsTUr 7asrioirs  GquiuiHtque Y 8 '{udss @w6uiaus 42.2. Représenter vo et vg en fonction de @ sur un même graphe 43. Déterminer la moyenne temporelle du vecteur de Poynting II(M,t) > 44. Déteriner Ia moyenne temporelle de la densité d'énergie électromagnétique < Vem de la densité d'énergie cinétique 45. En déduire une interprétation 'physique de la vitesse de groupe ve: 46. Déterminer 'indice de réfraction n du plasma en fonction du rapport Calculer n pour une onde de fréquence f =1IMHz Bilan d'énergie au niveau de l'interface atmosphère basse ionosphère Une onde électromagnétique plane progressive monochromatique de champ électrique 4 (M,t) = Eo exp j(ot koz)u, est émise depuis le sol suivant la verticale locale caractérisée normale Finterface   atmosphère basse ionosphère, supposée plane, par Faxe (Oz) confondue avec le plan z = 0 (Figure 3) 2 = 0 , F'onde incidente donne naissance une onde Au niveau de cette interface réfléchie et une onde transmise dont les champs électriques s'écrivent respectivement 0(M,t) = Eo exp j(ot +koz)4, et  7(M,t) = Eo exp j(ot kz) ù ,
+[o,i7sïhiëtc g#ïë(*
+Atmosphère basse d'indice no =
+k
+Figure 3
+@ (M,t)
+Terre
+47. Déterminer les expressions des champs magnétiques incic-= , réfléchi et transmis notés respectivement E; Br et B. Eo 48. Déterminer les coefficients de réflexion r = Exc et de transmission [ = en amplitude Eo Eo au niveau de Finterface z = 0 en fonction de lindice n du plasma. 49. Déterminer, au niveau du plan 2 = 0, les moyennes temporelles des vecteurs de Poynting incident , réfléchi et transmis notées respectivement <I; <Il, et <Il, > , dans le cas où 0 > @ kkn;- 50. En déduire, dans ce cas; les expressions du facteur de réflexion R = et du facteur I<n; >|
+Ikn, de transmission T = en puissance en fonction de n. kkn; 51. Calculer la somme R+T Commenter le résultat. 52. Sans faire de calcul; dire comment seront modifiés R et T 0 < @p
+Concours Tcchnoogie Scssion Juin 201}
+Eprcuvc de Physiquc
+P'ge €8
 
+--- page 7 ---
+snTut Icif Esliêiig 4 # U pruMA 
+Cinquième Partie Modulateur d'Armstrong
+La modulation consiste à transposer les caractéristiques dun signal dans des domaines de fréquences adaptés aux traitements et au transport de Finformation: Dans   toute  cette   partie 'amplificateur opérationnel  est supposé   parfait et  fonctionne en régime linéaire
+53. Le domaine des fréquences audibles s'étale entre 20 Hz et 20 kHz 53.1. Déterminer la taille dune antenne demi-onde permettant l'émission ou la   réception des signaux associés aux fréquences audibles. Commenter. 53.2. Commenter   l'utilisation d'une haute fréquence dite Poa de la porteuse pour la transmission de tels signaux. 54. On considère le montage de la figure R est une  résistance et la tension Uel est sinusoïdale
+54.1. Déteriner la fonction de transfert H(jo)=41 de ce montage. Yel 54.2 En déduire la nature de ['opération réalisée par ce montage:. 55. Dans le circuit de {a figure 5, Rz et R désignent des résistances et C une capacité. Détenminer la fonction de transfert Hz(jo) = "2 de ce circuit. Hez
+Rz
+R
+Rz
+Uci
+L
+Figure 4
+Figure 5
+56. On associe les deux montages précédents pour obtenir celui de la figure 6
+R
+Rz
+Lc
+Figure 6 56.1. Déterminer la fonction de transfert H(jo) = " de ce montage Uc 56.2. Tracer son diagramme de Bode (gain et phase) . 56.3. En déduire la fonction de cet opérateur, qui sera noté (D) dans toute la suite.
+Coocours Tcchnologic Scsslon Juin 2013
+Eprcuvc de Physiquc
+Pagc 7/8
 
+--- page 8 ---
+Le modulateur d' Anstrong est réalisé suivant le réseau de la figure En plus de Fopérateur (D); il comprend un multiplieur   qui   fournit en   sortie une   tension s'écrivant Vi k.u, 41  ( où est une constante) et un sommateur qui délivre une tension
+Multiplieur
+Sommatcur
+Opérateur (D)
+Figure 7
+On   impose Pentréc les tensions u, (t) =Um cos(@t) , appelé signal modulant u,(t) =Uo cos(o 4) appelé signal de la porteuse. On pose m =kU. (taux de modulation) et pon on suppose que m <<1  Pour certaines applications, il est demandé de moduler la phase du signal de la porteuse pour avoir v, (t) de la forme v;(t) =Uo cos  @ Pn{ mcos(04] =Uo cos [0(0)]  57. Pour obtenir la forme souhaitée de v (t) , montrer que u, (t) doit s'écrire sous la forme u,(t) =-Uo sin (0 poa 58. En déduire la condition liant R et C de Fopérateur (D) à la pulsation  po
+En réalité le signal u,(t) =Un cos(@, t) est obtenu à partir d'un signal up(t) par intégration 4 (t) = aJu(t)dt où a est une constante_
+59. Déterminer l'expression de uo (() do() 60. On définit la pulsation instantanée de v,(t) par S2(t) = at 60.1- Déteniner ]expression de Q(t)- 60.2. En déduire la relation entre Q(t) et uo (t) 60.3. Justifier qu'on a réalisé ainsi une modulation de fréquence.
+8nn à [Gpreune
+Concours Technologie Session Juia 20[3
+Epreuve de Physiquc
+Pagc 8/8
+MsmUT 5n65Saoirs Gqlofnu:* Sîax ts CiecEin(

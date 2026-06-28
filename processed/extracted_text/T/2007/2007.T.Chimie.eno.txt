@@ -1,6 +1,156 @@
+--- page 1 ---
+1i9)4loj)
+REPUBLIQUE TUNISIENNE Ministère de l'Enseignement Supérleur, de La Recherche Sciendfique ct de La Technologie Concours natonux d'enuée uux cycles de formation d'ingenieurs Session 2007
+æurafusis Gsyeu~b Jin aleli Bnl jug W>j 2007 ;w
+Concours Technologie
+Epreuve de Chimie
+Date Mardi 5 juin 2007
+Heure 8
+Durée 2h
+Nbre de pages_
+Problème [ 7 pts
+Problème II 6,5 pts
+Problème III 6,5 pts
+Barème/20
+Cet énoncé comporte 4 pages de texte et 3 pages de documents annexes à rendre avec la copie Les candidats sont priés de présenter leurs réponses dans l'ordre même de l'énoncé L'usage des calculatrices électroniques de poche non programmables est autorisé. Aucun échange n'est autorisé entre les candidats:
+DEBUT DE LENONCE
+Données
+Mstitut Constante des gaz parfaits R = 8,314 JK' mol-! PnEPanaTOIRE ) Nombre d Avogadro NA 6,023 1023 mol-l CIbUOTHEQUE) W EtUnes ! Masses molaires atomiques (g .mol ') DisbixeUs  Seax < MB 10,8 MN 14,0 Mo 16,0 MMg 24,3 MBi 209,0. Données thermodynamiques à 298 K: ArH%298 59298 Tpus Espèces AnsHo Tfap (K) AvapH? (kJ mol- (JK' mol-') (K) (kJ.mol-') (kJ.mol O2(g) 205,0 B(sd) 2313 2800 B2Oa(sd) 723 2520 Mgsd) 32,7 923 9,2 1393 131,8 MgO(sd) -601,5 27,0 3075 7,7
+Conversion
+1 pm 10-12 m
+Concours Technologie  -Session 2007-
+Epreuve de Chimie-
+Page
 
+--- page 2 ---
+Problème I : Cristallographie Tout comme le carbone, le nitrure de bore BN (substance synthétique) existe sous deux variétés allotropiques a et B La première a (borazon est semblable au diamant et cristallise dans le système cubique avec un paramètre a5 361,4 pm. La seconde B graphite  blanc) est analogue au graphite et cristallise dans le système hexagonal de paramètres a 255,3 pm et c 668,0 pm dont iæ structure correspondante est représentée dans la figure ci-dessous Flan (1
+OB
+plan (2
+Plan /1,
+Représentation en perspective dune maille de BN hexagonal
+1-1) Remplir le tableau fourni en annexe I, en justifiant vos réponses.
+Problème II : Diagramme dEllingham On se propose d'étudier la réduction de Foxyde de bore Bz; par le magnésinm Mg dans Fintervalle de température allant de 3OOK à 26OOK. Le diagramme d'Ellingham du couple BzO;B est représente en annexe II (document à rendre avec la copie).
+Etude du diagramme d'Ellingham de Mg
+II-1 ) En considérant les différents états physiques possibles du magnésium et de Foxyde de magnésium, dans Fintervalle de température [3O0K, 26oOK], établir 'es expressions de 1 enthalpie libre standard de la réaction d 'oxydation du magnésium en oxyde de ma gnesium rapporté à une mole de dioxygène pour chaque domaine considéré . I1-2) Représenter et indexer le   diagramme d Ellingham du couple   MgO/Mg dans Fintervalle détude (sur le méme graphe de Vannexe II).
+Concours Technologie Session 2007.
+Epreuve de Chimie-
+Pege 2
 
+--- page 3 ---
+Exploitation des diagrammes d'Ellingham de Mg ct de B :
+Les enthalpies libres standard de réaction ArG? relatives à Foxydation du bore en oxyde de bore BzO; pour une mole de dioxygène; s expriment; selon le domaine de température, à Faide des relations suivantes Pour T € [300 K: 723 K] B(sa) + 02(g) B2O3(sd) ArGo ~848,7 + 0,177 x T (kJmol-'). Pour T € [723 K ; 2600 K] 4 B(sd € ou liq) + 02(g) =2 BzO3(liq) (2) ArG? =-840,1 + 0,166 x T (kJ. mnol-! Lexpression de ArG? est valable même à la fusion du bore (2313 K) II-3) En vous basant sur les diagrammes   obtenus, donner lintervalle de température [T, Tz] pour lequel la réduction de ]oxyde de bore B203 en bore B par le magnésium est possible sous la pression de un bar. II-4) On envisage la réduction de B2O; en bore B par le magnésium Mg; dans ]intervalle de température [14OOK , 26OOK]- Zes phases en présence sont non miscibies; les activités des phases condensées sont prises égales à 1. il-4a) Ecrire la réaction de réduction dune mole doxyde de bore BzO: en bore B par le magnésium Mg; équation notée (I) II-4b) Donner /expression de ]enthalpie libre standard relative à cette réaction. II-Ac) Calculer la température d équilibre < Téquilibre ) de cette réaction sous 'a pression de un bar . II-4d) Que peut-on dire de la réaction lorsque T Tequiiibre   et T 'equilibre SouS 12 pression de un bar Il-4e) On opère à la température de 1500 K, Donner |expression puis calculer la constante déquilibre relative à la réaction (I). Conclure_
+Problème III Diagramme binaire Une portion du diagramme isobare déquilibre binaire liquide-solide entre le BzC; et le BizO; est donnée à la page 4 IIl-}) Que   représentent les   segments verticaux situés a C; (7,7%), C2 (33,3%) et C: (62.5%) III-2) Déterminer les formules chimiques des composés correspondants . III-3 ) Préciser leur(s) type(s) de fusion IlI-4) Donner la nature des phases en présence dans les domaines (I), (II), (Il) ei (IV). III-5) Expliciter Jes équilibres (nom et équation) ayant lieu sur les   paliers de températures suivantes 632 C et 646 C.
+Concours Technologie Session 2007
+Epreuve de Chimie-
+Page 3
 
+--- page 4 ---
+III-6) Un mélange solide; constitué de BzO; et de Biz0; de composition molaire 15% en Bz0; renfermant au total 10 moles, est refroidi de 8OO9C à 5oo9C. III-6a) Tracer Fallure de la courbe de refroidissement (température en fonction du temps) pour ce mélange en donnant pour chaque portion de la courbe les phénomènes observés III-6b) A quelle température faut-il amener le mélange considéré, pris initialement à Pétat liquide si on veut récupérer le maximum de BizO; solide ? III-6c) Calculer à cette température la masse de BizO; déposée .
+0 ( C) 900
+( C)
+P = [ bar
+(825 "C 800
+722 `C
+700
+675 ?C
+(V) 646 *
+C2
+632 *
+'(17,5%) 622  C
+600
+500
+(III)
+400
+C1o BizO;
+20
+30 C:
+40
+50
+60 C;
+70
+BzO;
+Pourcentage molaire
+Diagramme binaire Biz0, - BzO;
+FIN DE LENONCE
+FIN DE LEPREUVE
+Concours Technologie Session 2007-
+Epreuve de Chimie -
+Page
 
+--- page 5 ---
+Concours Nationaux d'Entrée aux Cycles de Formation d'Ingénieurs
+Signature des surveillants
+REPUBLIQUE TUNISIENNE Ministènc de ['Enseignement Supérieur, de La Recherche Scientifique et de La Technologie
+Session Epreuve de Nom Institution d'origine
+Concours
+Ne rien éaireic
+Prénom (s
+Identifiant
+Série
+DOCUMENT ANNEXE I (A RENDRE AVEC LA COPIE)
+Ne vien écrireic
+Questions
+Borazon
+Graphite_blanc
+I-1) Projection cotée de la maille et de son contenu sur le plan de base (à ,6) :
+I-2a) Nombre de groupements formulaires BN par maille
+I-2b) Coordinence de chacun des atomes
+I-Zc) Forme du polyèdre de coordination
+Tournez la page SVP
+Concours Technologie
+Session juin 2007 -
+Epreuve de Chimie
+Page 5
 
+--- page 6 ---
+NE RIEN ECRIRE ICI
+Questions
+Borazon
+Graphite_blanc
+I-2d) Expression de la plus courte distance B-N
+Application numérique
+d8-"
+dE-N
+I-2e) Expression de la masse volumique
+Application numerique
+P
+Pf
+Concours Technologie
+~Session juin 2007 -
+Epreuve de Chimie
+Page 6
 
+--- page 7 ---
+Concours Nationaux d'Entrée aux Cycles de Formation dIngénieurs
+Signature des surveillants
+REPUBLIQUE TUNISIENNE Ministèrc de 'Enseignement Supérieur, de La Recherche Scientifique et de La Technologie
+Session Epreuve de Nom Institution dorigine
+Concours
+Ne xien éaire ici
+Prénom (s
+Identifiant
+Serie
+0o "/2 3*00  7 82s
+DOCUMENT ANNEXE II
+Ne rien écxixe ici
+-300
+18" 3,02
+400
+-500
+~600
+B20, (Eq)
+0( ] rij
+-700
+B2O3 (sd
+1 -800 81a) 
+-900
+{ng? 18
+-1000
+oe
+-1100
+-1200 ; :: : :: : ::;:: 882828888888 T ARENDRE AVEC LA COPIE)
+Concours Technologie
+~Session juin 2007 -
+Epreuve de Chimie
+{B(sda lial
+Page

@@ -1,4 +1,70 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de [Enseignement Supérieur
+Concours Nationaux &Eutrée aux Cycles de Formation dIngénieurs Session Juin 2002
+Concours en Mathématiques ct Physique Epreuve de physique
+Date : Jeudi 06 juin 2002
+Heure : 8 H
+Durée : 4 H
+Nb pages ; 5
+Barène : 1:12 /20 ( LA: 3 IB : 4,IC:5)
+II : 4/20 ;I: 4/20
+L'usage dune calculatrice ( nol-programmahle ) est aorisé
+Si, au cowrs de lépreuve; un candidat repère ce qui lui semble être une erreur dënoncé, ife signale su sa copie €t poursuit sa composition en indiquant les raisons des initiatives qvil est amené à prendre:
+Ce probleme propose une étude des phaiomnenes impliqués dans le chauflige dun aliage dalumniniun I comacrte trois parties indépendantes quoique reliécs cntre elles par le même phénamènc Tinduction clectromngnétique Le chaufage sans déformation par nnduction est très répandu € métallurgie Rpermet de transferer unc écrgic éectrigue à {c massc métallique dans laquelle Véncrgie dissîpée  par effet Joule est*transfonée enCialeur L'avantage de œ procedé est de pcrmettre le transfert de l'éergie produite; suns contact   par u champ mnagnétique variable dans {e temps directement à linterieur du mëtal.
+Données On utilise dans tout le problème la base (ur, 7p,0z ) relative aux coordonnées cylindriques (r ,8 ,2) Lcs relatians suivantes seront utiles pour la résolution *F(M) = F,7;+Foü, +Fz7z ` où Fr =F(r,8,z) i=1,8,2 . G) grad F = ôF5, + 1ôF 4,+ #E 7, ou F est un damp scalaie (2) #r {8 ô2 F = 1ôE_ âzJ , +(1 ME2 ârF 2 ôE_ rot 40 + (3} 88 Yz àz àx 00 Dans kc cas particulier du champ scalaire à symétrie cylindrique le laplacien se réduît 2 : 44 1dE AF(r) = 4 (4 ) dr: dr rotkrot F) = grad(divP) - Z(7),où 4 cst i 'opérateur laplacien  vectoriel (s }
+V Chauffage du métal par induction Tous les phénomènes électromagnétiques envisages ici seront {rarés dans le cadre de Yapproximation des régimes quasi-stationnaires ( ARQS) .
+LA / Etude préliminaire: Le but de cette partie du problème cst de calculer dans Jevide le champ magnetique B,(M,t) créé par linducteur foré &un solénoide circulaire de rayon &, daxe Oz et de longueur ! très grande par rapport à a (figure 1) On adopte, pour cette bobine, le modèle dun solénoïde
+Concours Math-Puysfgue Scssiou Jua 2002
+Epceuve d Pgssiqpc
+Psgc 1/$
+Instifut / (PRcparatore 8elotreoes
 
+--- page 2 ---
+illimité formé de n spires jointives par unité de longueur parcourues par Je courant sinusoïdal dintensité i(t) io cos(@t); avec une " fréquence f = 2r
+Eig l Coupe longitudinale du solénoïde
+58 0
+10 29 Le vide est caractérise par les constantes € Fmn et {c = 47.10-' H.m 361 LA.1) Donner la condition sur & et ! validant le modéle adoptê pour la bobine LA.2) Quelles sont les deux équations locales satisfaites par Ic champ magnétique  Bo (Mt) Donner eurs formes intégrales et commenter. LÀ.3) Par des considérations de symétrie; donner Ja direction de B  (Mt) Montrer également que le module de Bo ne dépend pas de 0 et de z LA.4) En appliquant le théorème dAmpère, déduire-[expression du champ B,(Mt) en fonction de B,(rO,t) et des donnécs du problème, pour : I<a et 1>a LA.S) Sachant que le champ magnétique à une distance infinie de laxe Oz est nul, montrer que le champ Bo(r,t) à Pintérieur du solénoïde sécrit Bo(r,t) Bo cos @t ùz Donner [expression de Bo en fonction des données du problèrne. LA.6) Déterminer lexpression de l'inductance propre L de cette bobine. LA,7) En assimilant le solénoide précédent à uRe nappe cylindrique de courants de densité surfacique js 5 jsu , donner lexpression de B, en fonction de js et vérifier quelle obéit aux conditions aux-Himites
+LB / Four à induction On place à Tintérieur du solénoïde étudié dans LA un creuset qui contient UB alliage à chauffer- de forme cylindrique daxe O>, de rayon R 3 cM etde longueur h très grande par rapport à R (Egure 2) Cet alliage est considéré comme un conducteur électriquement   neutre; caractérisé par les constantes du vide €, , Hc et par sa conductivité Y = 5.106 92 m
+Fig 2:
+Mdtal
+Linducteur (Solédoide}
+Concours Matk-payxignc Scssiou Jain Z002
+Eprcuve dr Physiquz
+1sgezss
 
+--- page 3 ---
+Courants_induits dans Lapproximation dun champ uniforme: Dans cëtte partie; 04 suppose que le couraut variablc  i(t) du solénoide crée dans k conducteur un champ magnétique uniforme Bo (t) Bo coS @t 7 (partie LA) Ce champ Bo induit dans ce cylindre   métallique un champ électrique E,(Mt) et un courant volumique ] (Mt) En première approximation on considère que le champ magnétique B; créé par 7 cst négligeable devant le champ inducteur  B,(t) Cette méthode-de-déternnation du champ magnétique total dans le conducteur (B=8,+B; sappelle methode des approximations successives en sarrêtant à lordre Je plus bas:
+LBI) Décrire le phénomène qui permet de faire fondre éventuellement le métal. LB.2) En négligcant les effets de bord, montrer par des arguments de symnétrie que le champ induit Ë,(Mt) dans le métal ne dépend que de la variable spatiale I. Déduire que ce champ est orthoradial (c'est à dire porté par 7) et que E(= 0,t) =6 1B.3) En utilisant l'équation de Maxwell-Faraday, calculer le champ électrique E (1,t) LB.4) Retrouver [expression de E,(r,) à partir du potentiel vecteur 4 (Mt) associé au champ uniforme Bo(t) par la relation 1 7o (Mt) = B (t) ^ Ov 2 A partir de la loi dOhm locale déduire lexpression du vecteur densite de couraut ], Ce courant induit est appelé courant de Foucault. LB.S) Déterminer la puissance moyenne P ?t dissipée par effet Joule à Tintérieur du métal: LB.6) Pour améliorer Yefficacité du chauffage vaut-il mieux utiliser un courant dalimentation i(t) de fréquence faible ou de fréquence élevée
+Linile de_validité de Lapproximation Dans tout ce qui suit; on continuera à appliquer à Yalliage considéré; même pour des fréquences élevees la loi dOhm du régime continu avec la conductivité Y donnée précédemment les équations de Maxwell en régime quasi-stationnaire ( ARQS) En particulier, dans Yéquation de Maxwell-Ampére; on Dégligera le courant de deplacement vis à vis du courant de conduction
+LB.7-On se place maintenant_dans le cas où le champ magnetique Bv qui se superpose à 80 n'est  plus négligeable lorsque la fréquence devient assez élevée a) En négligeant tout effêt dë bord montrer, par des considérations de symétrie, que B; (Mt) est de la forme B; (Mt) B1 (r,t) b) Calculer Bi(r,t) en admettant que BAr-=Rt) = 6 c) A quelle condition le champ B;(r 4 0,t) est-il négligeable devant B,? ( On prendra Jæ( =0l4 A partir de quelle fréquence fu peut-on dire que cette approximation nest 10
+Concperg Matk-Paysique Scssion Juin:2082
+Sprcuvc Uc Pkysiuc
+Pege3is
 
+--- page 4 ---
+plus valablc ? Conclure sur Yordre du développement en série des champs dans la méthode des approximations successives quand la ftéquence devient assez élevée.
+LCI Epgisseur de pegy On considère dans cette partie que le cylindre métallique est toujous dans le four induction décrit dans LB (figure 2) Pour des fréquences assez élevées; le chauffage par induction se fait seulement dans Ics couches superficielles du conducteur La méthode des approximations développée dans LB.7 ne pcrmct pas dexpliquer ce phénomène qui a été étudié et mis en évidence pour la premiére fois par le physicien W Thomson: Ou se propose dans   cette partie de déterminer le-champ électromagnétique ( 7,B) dans ce conducteur cn résolvant globalement les équations de Maxwell En utilisant la notation complexe, le chamnp électrique È au point Mdu métal à la distance r de Yaxe Oz est de la forine E(M,t) = Elr) e Rot 48 avec i=-1 ct E(r) est l'amplitude complexe de € LC.1) Pour des fréquences de lordre de 100 kHz,  vérifier que le courant de déplacement est négligeable devant le courant de conduction ] = Y E(où Y est la conductivité du régime continu) Jusqu' à quelle fréquence limite cette approximation reste-t-elle valable ? LC.2) Ecrire les équations de Maxwell dans c conducteur globalement neutre  En déduire une équation différentielle satisfaitc par E,B et ] LC.3) A partir des forules (3) et (5) (pagel ), déterminer Yexpression du   laplacien  vectoriel '() En déduire que E(r) . vérifie léquation
+Evr)=ijY 0 E(r)
+(6)
+2
+Iru (R-r)l est une solution
+ICAEn introduisant la quantité & = vérifier que Evr) = Eo Payw approchée de léquation (6) au voisinage dc la périphérie du métal (c'est à dire pour 1> 8) 1C.5) Donner les valeurs numériques de 8 pour Yaluminium pour des féquences égales à 50 Hz LkHz et 100 kHz Justifier | appdlation retenue pour & 'épaisseur de peau" 0u 'profondeur de pénétration IC.6)-En posant x = R f dans Ja solution proposée dans la-question I C.4, donner Texpression réele deE(x,t) Interpréter le   phénomène observé ét représcntcr Rallurc dc [évolution de Yamplitudc de E en fonction de X au voisinage de la périphérie du métal LC.7) Pour optimiser le chauffage en volume par induction; expliquer pourquoi on choisit en 1 pratique une fréquence de Yordre de îHoŸ R? IV Transfert thermique par conduction dans le métal On cherche à déterminer, en régime permanent, le profil de température à Yintèrieur du cylindre métallique chauffé par ipduction figure 2) En se plaçant à une fréquence asscz faible, la puissance volumique moyenne dissipée par effet Joule dans le métal   plongé dans linducteur $' écrit sous la forme
+Corconrs Mst?-PÉysiqur sessioa Juin 2002
+Eprravc devyysiquc
+Rigcows
 
+--- page 5 ---
+dP YB0 3 22 dr 8
+En négligennt tout effet de bord ( h >> R ) on suppose que la température à lintérieur du uétal D'est fonction que de F en régime permanent, avcc T(r '~ 0) ~ Iv Tar=R)=T2 et Iz<T{ On désigne   respectivement par 1 c et P la  conductivité   thermnique, la capacité  thermique massique et Ja masse volumique du métal. Ces grandeurs sont supposées indépendantes de la temperature
+IL.I) Enoncer la loi de Fourier et préciser lunité de la   conductivité   thermique. Er déduire Yexpression du vecteur densité de courants thermiques ]   dans ce cylîndre: I1.2) Calculer le flux thermique  @n à travers une surface cylindrique de rayon r et de longueur h Montrer que la variation dot du flux thermique à travers une tranche &u cylindre comprise entre r et{ +dr s'écrit ô(r jc d#c 4 2nh dr êr IL3) Déterminer la puissance moyenne dissipée par effet Joule dans le volume du métal compris entre Tetr +dr, IL4) En appliquant le premier princ ipe de la thermodynamnique, établir en régime pcrmanent, le bilan thernique sur la tranche du cylindre métallique   comprise entre r et r +dr. On supposera que { 'énergie dissipée par effet Joulc est lunique apport d'énergie autre que celui lié à la conduction thermique ILS) En déduire la température T(r) en tout point M du métal IL6) Représenter Tallure de lévolution de T(r) en fonction de r.
+IlV Etude de ['alimentation de linducteur L'inducteur dintensité {(t) décrit dans la partie 1, est équivalent à un circuit série composé dune inductance L =10$ H, dune résistance Ro = 0,01 9 et dune capacité € =104 F ( figure 3 )
+Eig3:
+Xt)
+Ro
+u(t) E 0
+u(t)
+E
+On suppose que la tension u(t) appliquée à ce circuit est un signàl carré alternatif; de fréquence f=10 kHz et damplitude E =300 V. Sa décomposition en série de Fourier sécrit ut) = 2+ a1 sin(at) + b, cos(@t) + à4 sin(net) bn costnot} IILI) Quelle est la valeur de 2, e celles dcs coefficients bn ? 2 2E IIL.2) On donne 2, Ju(t)sin( næt )dt montrer que 2 2(~1)"] pour n # 0 7 nat En déduire Ies amplitudcs du fondamental (n =1) et des harmoniques ( n = 2) et ( n =3 ) IIL3) En Calculant les modules des impédances Z, et Z, relatives aux harmoniques  et 3 déduire les valeurs efficaces [, e( {3 des intensités de courants correspondants; IIL.4) Peut-on considérer que i(t) est sinusoïdalc ? Fin des[énonce
+Coacpurs Mxtb-Pkyuqur Sesslas {uin 2802
+Fprceve 8c {kysiqur
+prc$s

@@ -1,7 +1,122 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ltsw Ministere dc {'Enscignement Supéricur Vli Hei uij, (oncin Yalbnadr d'Yarke BuI('Yrl Jawjajw Ponnathm d'lortnkur Uefd 20ns Z(XX; Y Concours Physique-Chimie Epreuve de Chimie Date Mardi 6 juin 2006 Heurc 8 Durée 3b Nbrc dc page Partie A : Chimie inorganique Problèmc [ : Problème [I Barème/20 [~A 7,25 pts [~B 9,75 pts 3 pts PARTIE B.: Chimie organique
+Barème/20
+Problème [ 6,5 pts
+Problèmc II 6,5 pts Problème III
+pts
+Cette épreuve comporte 6 pages de texte et deux documents annexes à rendre avec la copie Les parties A et B doivent être traitées sur deux copies séparées: Les candidats sont priés de présenter leurs réponses dans l'ordre même de l'énoncé L'usage des calculatrices électroniques de poche non programmables est autorisé. Aucun échange n'est autorisé entre les candidats.
+PARTIEA: CHIMIE INORGANIQUE DEBUT DE LENONCE
+Problème I : (17 pts)
+Dinn
+Données numériques Masse molaire de létain Msn 118,7 g.mol-' Constantes physiques Constante des gaz parfaits R = 8,314 JK' mol-' Nombre d Avogadro NA 6,023x 102 mol-' Therochimie: Enthalpies   molaires   standard de   formation (kJ.mol-') et entropies molaires   standard (JK mol- ') à 298K. 02ug) Snsu) SnOz(d) A,H" -580,7 S' 205,0 51,5 52,3
+Changements détat de [étain sous P 1 bar Point dc tusion 232 %C Enthalpie de fusion 7,1 kJ. mol-' Convcrsion T(K) 0(C) 273
+Tournez la page SVP
+Concours Physique et chimic- Session Juin 2006
+Epreuve de Chimie
+Page 1/X
+Preparatg Bhblic h2
 
+--- page 2 ---
+L-A) Crlstallographle (7,25 pts) Létain < Sn > gris a la structurc du carbone diamant, avec unc arête as" 6,491 A_ 1 ) Rcprésentcr la projcction de la maille et de %n contcnu sur Ic plan (a,6), en précisant les côtes dcs atomes 2) Iétermincr la distance la plus courte entre deux atomes détain. 3) Quellc cst la coordinence des atomes détain Justifier votre réponse. 4) Etablir /expression puis calculer i) la masse volumique de l'étain gris. iHe volume molaire. iii) la compacité. Le cuivre cristallise dans un système_cubique_à faces_centrées avec un paramètre de maille au = 3,60 A. 5) Retrouver  la valeur du rayon  atomique du cuivre [Cu > en utilisant un schéma montrant clairement la   tangence 6) Rappeler les positions et le nombre des sites tétraédriques et octaédriques dans une maille cubique à faces centrées
+a) Etablir les expressions permettant le calcul des rayons de ces sites en fonction du paramètre de la maille < acu > b) Calculer leurs valeurs en angstrëm (L) 8) Le bronze est un alliage de cuivre et détain. a) Quel est à priori le type de cet alliage sachant qu'il est riche en Cuivte ?. b) Donner [expression de sa fonule chimique générale. +B) Diagramme dEllingham (9,75 pts) Loxyde détain SnO2 > est réduit en étain < Sn > dans un haut fourneau en présence de carbone La combustion du carbone dans le dioxygène peut donner du monoxyde de carbone CO ) et du dioxyde de carbone < CO. > 1) Ecrire la structure électronique du carbone (Z = 6) et celle de loxygène (Z = 8) 2) Donner les formules de Lewis de CO et de COz 3) D'= après la théorie de Gillespie (V.SEPR) quelle est la géométrie de la molécule de CO2 ? Etude de loxydation du carbope On se propose détablir le diagramme dEllingham du s!stème CO2(yCOæyC(sd) dans le domaine allant de 2S C à 1027 C. Ecrire les réactions d'oxydation ramenées à une mole de dioxygène, des couples Couple (): CO(yC(.) 4,G' =-221,0 -0,179x T (kJmol ) Couple (2): COuyC;.J) ,G, =-394,0-0,003x T (kJmol Dans ces expressions; T désipne la température en Kelvin. Couple (3): COuYCU(r) 4,G' = ? (kJmol )
+Concours Physiquc et chimnic- Session Juin 2006
+Fpreuvc de Chimic
+Page 2i8
 
+--- page 3 ---
+5) Les expressions dcs variations denthalpies libres standard des réactions (1) et (2) en fonction de la température sont indiquées ci-dessus. Déduire |exprcssion de A,G, cnthalpie libre standard de la réaction (3). 6) Représenter sur un graphique (document unnexe à rendre avec la copue) les variations des   enthalpies   librcs  standard pour les réactions (1) (2) et (3) en fonction de la tcmpérature. 7) Calculer la température d'intersection TM v de la courbe (l ) avec la courbe (2) 8) En déduire léquation bilan de léquilibre (4) entre le carbone et ses oxydes < réaction de dismutatiom , 9) Simplifier Ie  diagramme   précédent et préciser sur   le nouveau diagramme   obtenu (document annexe 2 à rendre avec la copie) les domaines de stabilité en présence de dioxygène; de carbone; de monoxyde de carbone et de dioxyde de carbone.
+Etude de loxxdation de Vétain : On considère la réaction Sn +O.; SnOz(sd) (5) 10) Pour des températures variant de 259C à 1027*C, établir 1expression de lenthalpie libre standard en fonction de T exprimée en Kelvin selon létat physique de [étain. 11) Reporter la/les courbe(s) obtenue(s) sur le diagramme précédent (Annexe 2) Indexer. 12) Calculer la température dintersection In > avec la courbe (2) de la   partie précédente. 13) Ecrire léquation de la réaction de réduction de (SnO par le carbone selon la température.
+Problème I : (Bpts) Soit léquilibre (1) en phase gazeuse entre léthanal CH;CHO noté (A) et son trimère, le paraldéhyde (CH;CHO); noté (B) 3 CH,CHO(g) (CH,CHO)(e) Les pressions de vapeur des composés en équilibre sont trop faibles pour permettre une mesure de la constante d'équilibre: Le mélange gazeux est alors mis en équilibrè avec un mélange liquide; supposé idéal déthanal et de paraldéhyde: [I-1 )Montrer que la constante déquilibre de la réaction déquation-bilan (1) peut être donnée par la formule P *(P; - P)x(PA -P)? K" x(Po P;x(P-P))' P; et P' Pressions de vapeur saturante (en bar) de Fethanal et du paraldéhyde purs à la température T. P pression totale au dessus de la solution.
+Tournez lu puge SVP
+Concours Physiquc et chimnic- Session Juin 2()66
+Eprcuve de Chimnie
+Page 3/x
 
+--- page 4 ---
+II-2) Les cnthalpies   molaires de  vaporisation de |'éthanal et du paaldéhyde   sont rcspectivement 25,6 et 41,5 kJmol' et sont supposées constantes en fonction de la température . Sachant que T3 (A ) = 294K et T,(B) = 398K exprimcr 1P)=(4) pour chaque . constituant I1-3) La pression totale à 293K est P-0,236 bar. Calculer la constante déquilibre K29 de la réaction d'équation-bilan (1 ) FIN DE LENONCE
+PARTIE B: CHIMIE ORGANIQUE
+DEBUT DE LENONCE
+Problème I : Étde de quelques propniétés chimiques du phénol (6,5 pts) I-1) Écrire léquilibre   céto-énolique du phénol: CgHs-OH   Pourquoi cet équilibre  est fortement déplacé vers la forme énolique? 1-2) Écrire les formules mésomères du phénol. 1-3) Le phénol est nettement plus acide que le cyclohexanol. En comparant les stabilités relatives de leurs bases conjuguées, expliquer cette différence dacidité. 14) La monochloration du phénol est beaucoup plus rapide que celle du benzène et conduit à deux isomères chlorés du phénol. 1-4-a) Écrire léquation bilan de la chloration du phénol et énoncer la règle justifiant cette orientation. 144-b) Expliquer pourquoi la chloration du phénol est plus rapide que celle du benzène. [-5) La synthèse de la pbénolphtaléine   (Indicateur coloré de pH) commence par une acylation de Friedel-Crafts du phénol, en   utilisant comme   agent   acylant   lanhydride phtalique: COzH Catalyscur H HO HO
+Anhydride phtalique Détailler le mécanisme de cette riaction et justifier   Pobtention de Fisomère para uniquement.
+Concours Physique et chimic- Session Juin 2060
+Epreuve de Chimie
+Page 4/8
 
+--- page 5 ---
+Problemc II Quclucs aspccts dc la rcactivité chimiquc des alcèncs (6,5 pts) On considère le |- méthylcyclopentene qu'on désigncra par 4:
+Mc
+II-1) On soumet le composé à unc addition ionique du dibrome: il en résulte deux dérivés dibromés. I-1-a) En utilisant  la représentation de Cram ci-dessous, représenter ces deux dérivés dibromés.
+II-1-b) Préciser; s'il y a lieu; la relation stéréochimique entre eux. II-I-c) Quelle est la stéréochimie de cette addition? Justifier . II-2) On effectue sur la suite de réactions ci-dessous: 1) 0; Et-OH F B C6H1oO; c:CgH14O; 2) Hydrolyse oxydante Et-ONa 1) Base c 2 E dans Et-OH 2) CH3-I II-2-a) Sans détailler   les mécanismes   réactionnels; donner les structures des composés Bet C et préciser la nature de chacune de ces deux réactions. II-2-b) Détailler Ie mécanisme de la cyclisation du cétoester C en 2 II-2-c) La base nécessaire à Falkylation de 2 en E devra-t-elle être aussi forte que EtONa; ou une base plus faible suffit? Justifier votre réponse . II-2-d) Proposer alors la structure de E. Problème II A propos de louverture du cycle époxydique (7,0 pts) Le cycle époxydique tendu $ 'ouvre facilement sous /action de divers agents nucléophiles: R' Nu - H R'  ~R' R- R' HO Nu
+On se propose d etudier le mécanisme de cette ouverture en utilisant /eau comnme agent nucleophilc. Pour cela OII considère la conliguration ci-dessous du 1 ,2-diplenylépoxvethane:
+Ph Hv
+Ph H
+Ternez la paxe S.VP
+Concours Physique ct chimic- Session Juiu 2()66
+lipreuve de Chimie
+Pagc 3ix
 
+--- page 6 ---
+IlI-1) Classer les substituants de chaquc carbone asymétrique de par ordre de priorité selon les   règlcs   séquentielles   dc Cahn, Ingold ct Prélog. Déterminer la configuration absoluc de chaque carbone asymétrique. Il/-2) L'hydrolyse de 4, en présence d'ions HO , conduit après neutralisation du milieu; à un diol -1,2 B méso. IlI-2-a) Qu'est ce qu'un dérivé méso? III-2-6) Proposer un mécanisme réactionnel permettant dexpliquer la formation de ce diol B méso. III-3) L'hydrolyse de 4, en présence d'acide protonique; suit un mécanisme totalement différent et conduit; après passage par un intermédiaire réactionnel [I], à un mélange de deux diols-1,2 diastéréoisomères B 2% H H2O protoné @ + % Protonation H' III-3-a) Détailler ce mécanisme réactionnel. [lI-3-b) Que   peut-on dire de la stabilité de lintermédiaire   [I]? Justifier votre réponse. III-3-c) Pourquoi B et B sont dits diastéréoisomères? III-4) On considère la réaction du bromure de méthylmagnésium sur A suivie dune hydrolyse. En adoptant la représentation spatiale de Cram; détailler le mécanisme de cette réaction.
+FIN DE LENONCE
+FIN DE LEPREUVE
+('oncours Physique ct chimic- Session Juin 2006
+Epreuve de Chinie
+Puge (/x
 
+--- page 7 ---
+@LPUBLIQUE; TUNISIENE Concours Nationaux dEntréc aux Cycles dc Formation MINISTERE dIngénicurs DE L'ENSEIGNEMKNT SUPERIKUR Session Concours Eprcuve de Ne ua Yom Prénom (s) écxiucid Institution d'origine
+Sugnalluc &er arvcilleits
+Identifiant
+Serie
+Neria tircici
+DOCUMENT ANNEXE 1 (A RENDRE AVEC LA COPIE)
+; -210 230
+9
+5
+9
+8
+8
+8
+8
+;  ;
+4250
+-270
+-290
+-310
+-330
+350 -370 1 -390 410 430 450 470 4490 ~510 -530 550
+40
+Pc
+C29
+570
+T(K)
+Diagrammes d'Ellingham du système COuVCOtyC(.d)
+Concours Physique ct chunue- Sessuon Juin 2(Xk
+Fprcuvc dc Clumnic
+Pagc 7/8
 
+--- page 8 ---
+NE RIEN ECRIRE ICI
+DOCUMENT ANNEXE 2
+Ne rien éaixeic
+; 4210
+8
+8
+$
+8
+3
+;
+{
+; { ;
+-230
+-250
+-270
+-290
+-310
+~330
+"350 -370 1 -390 410 430 450 470 49u ~510 -530 -550 57u
+T(K)
+Diagrammes dEllinghan du système COz(CO(y/C(d) simplifié ct du système SnOzSn
+Couxours Physuqu & chunic- Scssion Juin ZUXY
+Eprcuvc dc Chunuc
+Papr 8/8

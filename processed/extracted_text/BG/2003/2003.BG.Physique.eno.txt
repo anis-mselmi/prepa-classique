@@ -1,3 +1,67 @@
+--- page 1 ---
+REPUBLIQUE UNISIENNE Ministère de 1'Enseignement Supérieur; de la Recherchc Scientifique et de la Technologie
+Concours  Nationaux d'Entrée aux Cycles de Formation dIngénieurs Session : Juin 2003
+pRep Raratoire ^ bibliotheQue | 2 Etudes 5 Manes
+Concours Biologie et Géologie Epreuve de Physique
+Date Lundi 09 Juin 2003
+Heure : 8 H
+Durée : 3 H
+Nbre pages :4
+Barème
+Problème 1 : 12/20
+Problème 2 : 8/20
+l'usage dune calculatrice non-programmable ) est autorisé
+Si, au cours de lépreuve, { candidat repère ce qui lui semble être une erreur dénoncé, ille signale swr sa copie et poursuit sa composition en indiquant les raisons des initiatives quil est amnené à prendre L'épreuve   comporte deux   problèmes   cocportant des parties indépendantes entre elles. Les candidats   peuvent   les   résoudre dans lordre qui leur   convient en respectant   néanmoins la numérotation des questions.
+Problème 1 : Polarisation des ondes électromagnétiques
+L'espace est rapporté à un trièdre orrhonoré direct (OXYZ) de vecteurs unitaires I,J,K
+I- On considère une onde électromaznétique ( E B) plane; progressive; monochromatique et polarisée   rectilignement suivant laxe OY. Cette onde se propage dans le vide; à la vitesse c = 3. 108 m.s 21 dans le sens des Z crcissants. Le champ électrique = de cette ocqe est damplitude Eo = 2. 10-2 Vml et de fréquence f = 5.1014 Hz A lorigine des coordonnées; le champ électique s'écrit : E = Eo cos (@t)J , où @ est la pulsation de londe. 19) Ecrire les composantes du vecteur chamç électrique E(Mf) en un2 point Mde laxe OZ. 20) a) Donner la définition d'une onde progressive. b) Quelles sont les propriétés d'une cnde électromagnétique plane de champs électrique E et magnétique B ? 39) Montrer que E vérifie l'équation de propagation des ondes électromagnétiques (équation de dAlembert) . 49) Calculer la longueur donde ^. Dans quel domaine spectral se trouve londe plane considérée ? Donner l'expression du vecteur donde & 59) L'onde travcrse un polariseur P placé perpendiculairement à la direction de propagation dont l'axe de transmission (axe privilégié) fait un angle de 4 avec ['axe OX. 6 a) Détermincr |'expression de l'amplitude du champ électrique transmis par ce polariseur P en fonction de Eo. Donner sa vzleur numérique. 1 b) En utilisant la loi de Malus, calculer le rapport 3 des intensités associées aux ondes transmise (I;) et incidente (D
+Concours co Biologic Géologie session 2003
+Eprcuve de Physique
+Page 1/4
 
+--- page 2 ---
+c) De combien faut-il tourner laxe privilégié de ce polariseur pour obtenir 1extinction ?
+II- On remplace le polariseur  par une lame L anisotrope à faces   parallèles; d'épaisseur e lame à retard). La face dentrée de cette lame est rattachée à un repère orthonormé direct (oxyz) de base ( I,Jk) où les axes ox et oy désignent les lignes neutres Y d'indices respectifs nL et DR ( ox étant laxe lent et oy ['axe rapide) A [entrée de la lame le champ électrique de londe E électromagnétique polarisée rectilignement Ia X s'écrit : E=Ecos(a+P J Ce champ fait un 9 angle a avec /'axe lent ox de la lame (voir figure ci-contre) @ est une constante 19) Ecrire les composantes du champ E suivant les lignes neutres de la lame à /entrée de la lame notées Elx Ely) à la sortie de la lame notées Ezx Ezy, 29) Montrer, par un changement de lorigine des phases qu'on précisera, que les composantes du champ électique à la sortie de la lame peuvent s'écrire, dans la base (iJk) sous la forme Ezx=acos(ot) Ezy=bcos(ot+Av) En déduire les expressions de & b et de la différence de phase A@ entre les deux composantes. 39) Les composantes Ezx et Ezy du champ électrique sont reliées par ['équation : E E E E 2y ~22 2cos (Av)=sin '(av) ab Quelle est alors la polarisation de londe émergente ? 49) On étudiera en particulier les cas suivants Aq = 2nx, Aq = (2 +I)r, Aq = (2n +1)2 où n est un entier naturel. a) Préciser pour chaque cas, la nature de la lame ainsi que l'état de polarisation de londe émergente b) Représenter pour chaque cas, les champs incident et émergent dans le même plan (oxy) 5*) Dans le cas de la lame quart d'ondc, déterminer   la nature de la vibration émergente lorsque a = 0, 4 et 2 69) Calculer ['épaisscur ininimale €m dune lame à retard pour que celle-ci soit une lame quart donde; sachant que An = nL nR = 0,01 et que la longueur donde de la radiation incidente est 1 = 0,6 pm.
+II- On remplace la lame par une cuve de longueur = 10 cm remplie dune solution de glucose et de fructose de même concentration Cg = Cf = C = 0,05 moll. Les pouvoirs rotatoires spécifiques du glucose et du fructose sont respectivement [Xg] = 5%/cm et [Xi] = 8,49cm 19) Déteniner ]'angle de rotation du plan de polarisation 29) En déduire la nature de cette solution. 39) Après traversée de la cuve; la lumière rencontre le polariseur P qui jouera le rôle danalyseur. Comment faut-il placer laxe privilégié de cet analyseur pour avoir [extinction ?
+Concours cn Biologie Géologie session 2003
+Eprcuve de Physique
+Page 2/4
 
+--- page 3 ---
+Problème 2 : Vidange dun réservoir deau
+Le référentiel détude (Oxyz) est Galiléen et le champ de pesanteur g est supposé uniforme (g = 10 m.s-2)
+I- Etablissement de [équation de Bernoulli Dans un écoulement stationnaire dun fluide parfait incompressible, homogène et de masse volumique P, on considère un tube de courant représenté sur la figure 1 Ce tube est de section suffsamment faible pour que la surface SA située autour du point A soit à une côte unique ZA et que la vitesse v soit la_même en tous les points de la section SA- Il en est de même au point B et de façon générale en tout  point dune même section du tube Pendant un intervalle de temps At, les points de la section SA se déplacent de vAdt et se retrouvent sur la section S'A et les points de la section Se se déplacent de vBAt et se retrouvent sur la section S'B- Les volumes situés entre SA et S'A dune part et SB et SB dautre part, sont les mêmes et rnferment la même quantité de matière Am. Globalement  tout se passe comme si pendant ['intervalle de temps At considéré, la masse Am de fluide était passée du point A au point B, ( cest à dire que la masse qui se trouve entre S'A et SB n'a pas bougé) Les pressions au points A et B sont respectivement PA et PB.
+z
+ZA
+SA Am-K S ' Sp B b Am S'B
+g
+ZB
+Figure 1
+0
+19) Pour le fluide se trouvant à linstant t entre SA et SB, déterminer, pendant lintervalle de temps At a) L'expression de la variation de [érergie cinétique. b) Lexpression de la variation de lénergie potentielle. c) Lexpression du travail des forces de pression. 29) a) Rappeler le théorème de lénergie cinétique. b) En déduire léquation de Bemoulli :
+pv ~+P+pgz= cte 2
+c) Retrouver la relation fondamentale de lhydrostatique pour un fluide au repos
+I- Application de Péquation de Bernoulli Un réservoir cylindrique de rayon R 2= 0,4 m contient de eau de masse volumique constante p = 103 kg.m' sur une hauteur ho = 1,80 m surmonté dair à la pression atmosphérique Po. Ce réservoir est placé dans un champ de pesanteur uniforme g = 10 ms 19) Donner [expression de la pression p(z) en un point Mde côte z du fluide. 29) Représenter la répartition des forces de pression sur les parois du réservoir.
+Concours en Biologie Géologie session 2003
+Epreuve dc Pbysiquc
+Page 3/4
 
+--- page 4 ---
+On perce à l'instant t = 0, la surface latérale du réservoir dun petit orifice circulafëd rayon r = 4 mm << R et situé à la distance Z = 0,4 m du fond du réservoir. On se propose de calculer le temps nécessaire pour vider le réservoir jusqu'à /orifice La hauteur de [eau est ainsi ramenée de bo à z (figure 2) 2 Po air
+Mf cau A VA
+ho
+Zol
+Figure 2
+30) Calculer à [instant initial t = 0 (démanage du vidange) a) la vitesse du liquide à lorifice en justifiant   pourquoi on peut négliger la vitesse de la surface libre de leau b) le débit volumique c) le débit massique. 49) a) Pour une hauteur z du liquide, montrer que la vitesse au point A s'écrit : v =fg(-2 b) Quel est le temps nécessaire au vidange du réservoir jusqu'à la côte 20? 59) On branche une canalisation AB cylindrique horizontale de même section $ que lorifice A du réservoir (figure 3). Déterminer la vitesse vB du liquide au point B 2 Po air
+eau
+bo
+Zo
+Figure 3
+60 On veut accélérer la circulation de leau dans la conduite de telle sorte que la vitesse vc à !a sortie soit égale à 1,5 VB. Pcur cela, on accole à la conduite AB ur convergezt PC caractérisé par Fangle & figure 4) a) En utilisant la conservation du débit volumique; déterminer la relation lianr r àr où r' désigne le rayon du convergent à la sortie Quelle doit être la longueur L de ce convergent pour a = 109 ? b) Quelle est la variation de pression entre l'entrée et la sortie du convergent ?
+à2
+1
+Figure
+L
+Concours cn Biologic Géologic session 2003
+Epreuve dc Physiquc
+Page 4/4

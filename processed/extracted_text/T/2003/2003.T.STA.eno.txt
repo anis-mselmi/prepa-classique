@@ -1,15 +1,248 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Xinistèrc de 1'Enseignement Supérieur et de La Recherche Scientifique er de La Technologie
+Concours Nationaux d'Entree aux Cycles de Fcrmation d Ingenieurs Session Juin 2005
+NstituT , (rephratoipe  bibliethe Que 8 etudes C Dnngemieusss Concours Technologie
+N ;4 Épreuve de Sciences et Techniques de FIngénieur ^^95 9 (7<315) 9 ) Date Marzi 10 Juin 2003 Heure 8 H Durée 5 H Ybre pages 20 = 5 documents
+Barème Parie 4 10 points, Partie B 5 points; Partie € points Aucun document n'est aurorisé L'utilisation de calculatrices de poche non programmables est autorisée. Les différentes   parties de |epreuve sont   indépendantes Les parties Techrologie de Conception et   Technologie de Production), B (Mécanique génerale) et C (Autcmaricue) doivent être traitees sur des copies independantes Les documents réponses (de la page 3/20 à la page 13/20 et les documents et 5) seront rendus avec la partie correspondante ~P bl RADIOTELESCOPE 756e6 41839 11 8.2 ' 66 Mise en situation auPi 499446 9 1 23 < La figure représente ]infrastructure générale dun radiotélescope qui peul être consicére comme un instrument   de mesure Le radiotélescope capte des  ondes électromagnétiques appelees cndes radio Pour en mesurer   les caractéristiques. Ces mesures cermettezt de découvrir des informations SUI la nature de [objet émetteur de lunivers (la source)
+REFLECTEUR
+SUPPORT
+PLATE-FORVE
+Y.B Les cotes et les repères de cette figure nc seront pas utilisés dans :efte étudc Figure [ : Tinfrastructure générule du radiotelescope
+Concours ennoui Seinn Ir *90;
+nfenve(12 ST[
+Pqve ! 20
 
+--- page 2 ---
+Le mécanisme dorientation du réflecteur du radiotélescope; par rapport à un bâti fixe S0, est representé dans la figure 2. Les mouvements indépendants necessaires à linterception et à la réception du signal sont un mouvement de rotation daxe (0,- Z,) de la plate forme (Su par rapport à un bâti fixe (So) . Ce mouvement est assure par un moteur hydraulique et un réducteur à engrenages, un mouvement de rotation daxe (A,X) du support du réflecteur (S2 par rapport à la plate forme (Su. Ce mouvement est assure par un vérin électromécanique:
+(S2) ZO Z2 Y2
+(S3)
+(S4)
+D
+(S1)
+ZO
+(So)
+(S5)
+YI
+(S6)7
+Figure 2 Schéma ciématique minimal du dispoxitif dorientation du réflederr.
+Concurrs Tahnologe Session Jumn 2003
+Eprerve de STI
+Pagc 2 20
 
+--- page 3 ---
+REPUBLIQUE TUNISIENNE
+Concours Yationaux d'Entréc aux Cycles dc MIYISTERE DE L'EYSEIGYEMENT Formnation SUPERIEUR d'Ingénicuis Sessiun Cuncou rs Eprcuv Uc :i ésiis  Kum Prcnons 2e zêî Institution Corigiac
+Signanre des Ensaignants
+Tot? Cenune (ecille ;snc;
+Identifiant
+Sére
+Suoas a la doobk (culk dedoublalala
+Concours Yationaux d'Entrée aux Cycles de Formation d'Ingénieurs 1cl ecrire Session Concour rien ve Epreuve de
+PARTIE A TECHYOLOGIE DE CONCEPTIOY TECHYOLOGIE DE PRODUCTION
+A.l) AYALYSE FOYCTIONNELLE A.l.1) La figure 3 représente le diagramme pieuvre du radiotélescope. Recenser les fonctions de service de ce système FPI FCI FC2 FC;
+FC2
+Ordes
+Utilisateur
+FPI
+électromagrétiques
+FC3
+FCI
+Radiotélescope
+Energie électrique
+Figure 3 : Diagramme pieuvre du radiotélescope.
+4.1.2) Compléter | actigramme 4-0 du radiotélescope
+Radiotélescope Epreuve de STI
+Concours Technologi Session Juin -00;
+Page 3/20
 
+--- page 4 ---
+nen écrife l~
+4.2) ETUDE TECHVOLOGIQUE On se limitera à ['étude de la partie operative du vérin électromécanique représentée par le dessin d ensemble du document à [échelle 1:5.Ce mécanisme se compose essentiellemezt dun moteur non représenté qui assure la rotation de la vis sans fin (2). dun réducteur à roue et vis sans fin (10, 2). d un système de ta-sformation de mouvement par vis-écrou (15, 14). L'écrou (14) entraîne en translation la tige (16) par rapport au carter principal (22) du vérin 421) Compléter le tableau suivant Assemolage Type de la liaison Assure par des pièces (2) / (22)
+(10) / (11)
+(16) / (14)
+(16) / (22)
+(17) / (22)
+4 2 - Donrer la fonction je chacune des pièces indiquées dans le tableau suivant Pièces Fonctions Cales (25)
+Cales (26)
+(17) (20) (21) (27) (13)
+Concours Technclogie Sess:on juin _ 03
+Epreuve de STI
+Pzge 4 20
 
+--- page 5 ---
+e rle:_eerrsH
+425) Choisir le matériau convenable pour chacune des pièces indiquées dans le tableau suivant. Justifier votre choix. Pièce Matériau Justification Vis sans EV-GJL-150 fin (2) EY AB 21000 [AlCu4 Mg Ti] 42 Cr Mo CW 453 K [Cu Sn 8 Roue 5185 globique CW 453 K [Cu Sn 8] (10) EV-GJMB-300-6 42 Cr Mo 4 Carter EN AB 21000 [AlCu4 Mg Ti] principal C25 (22) X5 Cr Vi 18-10 25 Cr Mo 4 4.2 4) Etude de la transmission de la puissance mécanique On se place dans le cas où la tige (16) du vérin progresse contre la charge. Données ~moteur puissance Pm = 7,5 KW vitesse de rotation en charge Nn 2875 tr min. ~roue et vis sans fin (10. 2) vis à un filet roue Z1o 3i dents rendement n! 0,60 ~s"stème vis-écrou (15,14) filetage trapézoïdal (Tr8Ox10): pas hélicoïdal Pas 10 mm d = 80 mm et dmo?: 75 mm angle au sommet B=30' rendement n: 0,40 42.4.1) Calculer la vitesse de translation de le tige du vérin. exprimée en ms.
+42.4 2) Calculer la puissanc? transmise à la tige du vérin
+Concours Fecanolog" Sesston Juin Z0us
+Épreuve de STI
+Page 5/20
 
+--- page 6 ---
+42.43) En déduire la force uansmise à la tige du vérin.
+4244) Calculer le couple exerce par la vis ( 15 sur |écrou (141)
+4.2.45) Déterminer ['angle apparent de frottement entre la vis (15) et [écrou (14). Déduire le coefficient de frottement.
+42.4.6) Calculer la pression ce contact entre la clavette (23) et Fécrou (14). Mesurer les cotes utiles sur le dessin d ensemble du document
+425) Etude du mécanisme d orientation du réjlecteur Dans ie cas où l2 plate-forme (S1) et le bâti (So) sont solidaires ie mecarsme d orientation du supporr (S_) du réflecteur est défini par le schéma cinématique de la figure 4 On donne
+48=r 7- Z BC =! F-!Z FE =h 2 (S2) Zo 22
+Zo
+(S3)
+4S1 )
+Figure 4 Schéma cinematique du nécanisme d'orientation du support du réflecteur.
+Oncen r
+{chro' Seeston 1" ?0n}
+(-t"y- Ar Sti
+Page 6/20
 
+--- page 7 ---
+REPUBLIQUE TUNISIENNE
+Concours Yationaux d'Entréc aux Cyclcs dc Formnation d'Ingénicuts
+Sigsaiurants 
+MINISTERE DE L'EYSEIGYEMEYT SUPERIEUR Session
+Cuncours
+Eprcuve (e
+Yom
+Prcrunis
+écre  lc [le ' j@û Institution d'origine
+Fotal der Counles Reullez Etief
+Idcntifiant
+Scric
+uncn
+Totu
+Concours Yationaux d'Entrée aux Cycles de Formation d'Ingénieurs ici ecrire Session Concour rien xz Fprcuve dc
+double (Fuill dadouble: [euwe
+42.5.1) Etablir le graphe des liaisons et préciser la nature de chaque liaison. Déduire le nombre cyclomatique de la chaîne
+4252) En appliquant la composition des torseurs cinématiques & la chaîne 51S.-S5-S1 2u point Eécrire_ les équations entre_ les_ inconnues cinématiques.
+Dac 7n
 
+--- page 8 ---
+5 {0 %ak éne !]
+425.3) En appliquant la composition des torseurs cinematiques à la chaîne S,-S--S;-S.-S1 Ju point 4. écrire les équations entre les inconnues cinématicues
+42.5.4) Déterminer les degrés de mobilité et d 'hyperstatisme du mécanisme
+4.25.5) En déduire la loi entrée-sortie exprimant la rotation de (S-) par rapport à (S1) er fonction de la rotation de (Ss) par rapport à (S1)
+Conco"rs Trranolog 
+essicr Vir -no:
+Fpreuve de STI
+Paec 8/20
 
+--- page 9 ---
+Re22n éareref !
+4.2.6) Cotation fonctionnelle Donner les ajustements qualitatifs des assemblages indiqués dans le tableau suivant. Assemblage Ajustement (normalise (22(42 (4(22 (2)(15) (15)/(11)
+427) Etude de conception A.2.7.1) Le document 4 représente le dessin de définition incomplet du boîtier (4). à l'échelle 2:5. On demande: 42.7.1.1) de compléter la vue de dessus; 4.2.7.1.2) d'indiquer les tolérances géométriques et les rugosités des surfaces fonctionnelles. A2.7.2) Compléter; sur le document 5 et à [échelle 2:5, le dessin de conception du montage de [accouplement de larbre moteur avec la vis sans fin (2). On donne le diamètre de [arbre moteur d = 38 k6 42.7.21) en utilisant Faccouplement approprié choisi partir du documert technique (document 3). 4.2.7.2.2) en indiquant la cotation des assemblages fonctionnels
+ee 82eaale9o4s
+Ceccinn Juin 2005
+Epreuve de STI
+Page 9/20
 
+--- page 10 ---
+REPUBLIQUE TUNISIENNE
+Concous vationaux d'Entréc aux Cyclcs dc MINISTERE DE L'EYSEIGNEMENT Formnation d'Ingénicuns SUPERIEUR Session Cuncours Eprcuvc dc ki éaife  Yom Prenoms je ,êî Institution &'originc
+Sigsaurenss
+Total der =nunley fculles Caic:
+Idcatiliant
+Séric
+Concours Yationaux d'Entrée Jux Cycles de Formation d'Ingenieurs icl ecrire Session Concours rien N: Epreuve de
+doubke (cuille des doubla (cuwla
+4.3) TECHYOLOGIE DE PRODUCTION La tige (16) dont le dessin de définition est donné dans le document 2, est constituée de deux pièces qui sont assemblées. Le matériau utilisé dans la fabrication de ces deux pièces est le C25 4.3.1) Assemblage des pièces AS.L.1) Quel est le procédé d'assemblage utilisé dans la fabrication de la tige (16), donner la présentation symbolique d un tel procédé
+43.1.2) Justifier ]' utilisation un tel procédé
+43.13) Donner les définitions des spécifications suivantes_ Spécification Définition
+B € = 0.05
+E = -0.05
+0,1
+43.1,4) Préciser [ ordre de réalisation des différents usinages indiqués dans le tablezu suivant et permettant de realiser les spécitications de la question précédente (numéroter les opérations de ] à dans ! ordre de réalisation) Opération Ordre (de 1 à 4) Usinage de 4 Usinage de E Usinage de B et € Assemblage 43 2) Usinage On s intéresse à |'usinage des surfaces B et C de la tige (16). On utilisera un outil en carbure métallique_
+Concuurs Technologie Session Juin -0u3
+Epreuve de STI
+Page 10/20
 
+--- page 11 ---
+N: rie; &2 relei
+A3.2.1) Dans le tableau suivant choisir Foutil et la machine à utiliser pour !'usinage de ces deux surfaces. Mettre une croix dans la case correspondante Outil Choix Machine Choix Fraise deux tailles Df = 0200. 2=8 dents Fraiseuse horizontale Outil à charioter couteau Fraiseuse verticale Fraise trois tailles D. = @200, 2=8 dents Tour parallèle A.3.2.2) Utiliser la figure 5 pour exprimer le temps effecaif d usinage tc en minutes lors une passe en fonction de la profondeur e (mm) de ['avance par dent f: (mmltr dent) , de la vitesse de coupe Vc (mmin), du diamètre de la pièce D (mm) , du diamètre de la fraise Df (mm) et du nombre de dents La profondeur représente la position de loutil suivant Y à partir du point 0 [c représente le temps pendant lequel l'outil enlève de la matière. A la première passe; e est égale à la profondeur de_passe p
+Avance
+Surface finie
+Surface :nitiale
+Fraise
+Df
+1 Figure 5 Usinage de la surface B en fraisage
+Concours Technologie Session Juin -003
+Eprcuve de STI
+Page 1120
 
+--- page 12 ---
+Ns ries ésrire ici
+L usinage de la surface B de la tige (16) se fait en trois opérations ébauche, demi finition et finition. Les paramètes de coupe utilisés sont les suivants vitesse de coupe avance par dent profondeur de passe Va(mlmin) (mmtr dent) D (mm) Ebauche (éb 100 0.10 5.0 Demi tinition (f/2) 120 0.05 25 Finition 160 0.05 0.5 On notera par n le nombre de passes débauche, eiéb la position de Toutil lors d une passe débauche (I<i<n), ejr la position de [outil lors de ['opération de demi finition et ela position de [outil lors de ]'opération de finition. 4.3.25) Exprimer et calculer le nombre de passes d ébauche n
+45.2.4) Exprimer la position de [outil A3.2.4.1) e.éb (1<i<n) en ébauche en fonction de iet de la profondeur de passe débauche Péb.
+45242)2/2 en demi finition en fonction du nombre de passes n. de la profondeur de passe de demi_ finition Pazet de la profondeur de passe d ébauche Pat
+45.243) 2f en finition en fonction du nombre de passes n de la profcadeur de passe de finition Pf de la profondeur de passe de demi finition p;z et dc la profondeur de passe d' ébauche Déb.
+43.25) pour une passe débauche exprimer le temps {céb(i) en fonction de ei, en déduire le temps € 'usinage Iséb en minutes de la surface B en ébauche
+4.3.2.6) Calculer le temps d' usinage Icrz en minutes de la surface B en demi finition
+4.3.2 7) Calculer le temps d usinage Ici_en minutes de la surface B en finitior
+Concours Techrologic Session Juin -003
+Epreuve de STI
+Page 12/20
 
+--- page 13 ---
+Ne riel écrire ici
+A.3.2.8) Calculer le_temps total La en minutes d usinage des surfaces B et €
+4.3.3) Cotation de fabrication Pour usiner les surfaces B et C, on positionne la pièce sur les surfaces A et F du document 2 A.3.3.1) Établir la cotation de fabrication le long de laxe X sur la figure 6.
+3
+5
+Figure 6 Cotation de fabrication.
+A.3.3.2) Calculer la ou les cotes de fabrication définies suivant X
+4.3.4) Métrologie Préciser les instruments utilisés pour le contrôle des spécifications suivantes Spécification Instrument
+B € =10,05
+0140 g6
+MI2Ox4
+Rao,8
+074 H7
+Carcorrs Technolaci: Cessior hovr 2003
+Eprcuve de STI
+Page 13/20
 
+--- page 14 ---
+Partie B MECANIQUE GENERALE
+B.l) ETUDE DYNAMIQUE On s 'intéresse dans cette partie à [étude du système mécanique permettant   d'orienter   le réflecteur parabolique pour capter les ondes électromagnétiques_ Cette orientation est assurée d'une part par un premier mouvement de rotation autour d'un axe verical et d'autre part par un second mouvement de rotation autour d'un axe horizontal. Le système est défini par le schéma cinématique simplifié de la tigure 7 Z2
+8Z0
+Y z
+(S2)
+(S1)
+(S0)
+Figure 7 Schéma cinématique du système
+Les principaux solides supposés indéforables constituant le système sont le bâti fixe (So), la plate-fore (S1) mobile qui est en liaison pivot parfaite d'axe (0,20' avec (So) et le support du réflecteur (Sz) mobile qui est en liaison pivot parfaite daxe (A Xj) avec (S1) La plate forme est caractérisée par une masse m! et par une matrice d'inertie J1. Le support du réflecteur est caractérisé par une masse mz et une matrice d' inertie Jz On donne A ~F ~E1 J (s,A) = ~F B, ~Di et J (s, A) = B, ~D? ~E1 ~D; C; &" } , 7 ) ~D: C; Jf,f 4) Les repères orthonormés directs et les paramèires adoptés sont définis comme suit Ro(O,Xo YoZo) repère absolu galiléen associé à (So),
+R,(O,X,Y,Zo) repère associé à (S1), R, (A,X, 1Yz,Z ) repère associé à (Sz), avec (XoX1) = (YoY; = 91 suivant Z0 et (,0,=(1,7,) =91 suivant X1' 0G, = h Z, 0A =H Z et AG = R Z avec R, H et h des constantes positives G1 et Gz sort respectivement les centres de masse de (S1) et Sz) . La plate-forme (S1) est entraînée en rotation autour de l'axe (0,Z0)par rapport au bâti (So) par un actionneur agissant avec un couple C Z Le support (Sz) est entraîné en rotation autour de |axe m ! ml
+(A,X,) par un actionneur; placé entre (S,) et (Sz), agissant avec un couple =C m: m?
+Le système se trouve dans le champ de la pesanteur supposé constant g =-gZ0 
+Concours Technologie Session Juin 2003
+Epreuve de STI
+Page 14 20
 
+--- page 15 ---
+Dans ce qui suit les expressions vectorielles doivent être exprimées dans la base (X,YpZo ) . B.1.1) Déterminer les torseurs cinématique; cinétique et dynamique de chaque solide au Foint A en mouvement par rapport au bâti (So). B.1.2) Etablir alors l'expression de ['énergie cinétique du système (S) constitué de (S1) et (Sz) dans son mouvement par rapport au bâti (So). B.1.3) Faire Finventaire des actions mécaniques extérieures appliquées sur chacun des solides (S1) et (Sz) . B.1.4) Etablir les équations scalaires obtenues par application du théorème de la résultante dynamique au mouvement des solides (S1) et (Sz) par rapport au bàti(So). B.1.5) Etablir les équations scalaires   obtenues par application du théorème du moment dynamique défini au point pour le mouvement des solides (S1) et (Sz) par rapport au bâti(So) . B.1.6) En déduire les équations de mouvement des solides (S1) et (Sz) par rapport au bâti (So)
+B.2) RESISTAYCE DES MATERIAUX Pour simplifier les calculs de dimensionnement de la vis (15), on suppose que la liaison pivot assurant son guidage en rotation par rapport au bâti fixe se compose d'une liaison linéaire annulaire d'are (4 X)et dune liaison rotule de centre C. La vis est modélisée par une poutre droite de section circulaire constante (figure 8). Les torseursdes actions mécaniques aux points B et D sont définis sous la forme suivante: 726 463 =116883 463 =1885 5148 65 J(x, 7, 7) ( %, %, 7) (x 1 N. B. Le torseur d'actions mécaniques en un point P est noté 8p = Y M avec Z NJ(77Z) X;, Yet Z les composantes de la résultante exprimées en N et L, M et N sont les composantes du moment résultant exprimées en mY au point P Les composantes des forces sont exprimées en N et les composantes des moments sont exprimées en mV. On donne a=b=50 mm et c=6 a
+Figure 8 Modélisation de l'arbre
+B.2.1) En étudiant l'équilibre de cette poutre, déterminer les torseurs des actions mécaniques appliquées sur la poutre aux points A et € B.2.2) Déterminer le torseur des efforts de cohésion tout au long de la ligne moyenne de la poutre. B.2.3) Tracer les diagrammes des  efforts de cohésion le long de la ligne moyenne de la poutre B.2.4) Déterminer le diamètre de larbre assurant sa résistance à la torsion sachant que la contrainte de cisaillement maximale admissible est (adm) = 50 MPa Vérifier pour ce mar diamètre, la résistance de la poutre à la contrainte normale produite par l'effort normal, conclure. On donne la contrainte maximale admissible adm 200 MPa mur
+Concours Technologie Scssion Juin 2003
+Epreuve de STI
+Page 15/20
 
+--- page 16 ---
+PARTIE C : AUTOMATIQUE YB. les deux sections C.1 et C.2 sont indépendantes. Dans cette partie; on s intéresse à Fétude de |'asservissement de   position   angulaire du rétlecteur autour de laxe vertical (0, Zo) (voir la mise en situation figures et 2). Il s' agit d une étude simplifiée comme Findique le schéma bloc de la figure 9 Le   dispositif d'entraînement du réflecteur considéré ici est un servomécanisme électrohydraulique. Cette   partie est composée en deux sections qui sont   totalement  indépendantes. Dans la première section C.1, on suppose que la position angulaire du réflecteur est mesurée par un codeur incrémental_ Ce demier fait l'objet dune étude combinatoire pour détecter le sens du mouvement du réflecteur. Dans la deuxième section; on s'intéresse plus particulièrement à la mise en oeuvre de l 'asservissement de position angulaire du réflecteur .
+Moteur hydraulique charge
+Correcteur
+Servovalve
+Capteur de position
+Figure 9 Schéma bloc d'asservissement de position angulaire
+Lensemble des variables et des paramètres utilisés dans cette partie sont regroupés dans le tableau ci-dessous
+Liste des variables
+Liste des paramètres Cylindrée par radian du moteur hydraulique (en m Raideur hydraulique er rotation (en mN/rad)
+Ve
+Tension de référence (en V)
+Vs
+Tension de sortie du capreur de position (image de la position angulaire de Farbre du moteur Signal derreur (en Volts)
+kn
+Coefficient de frottement visqueux en rotation (en mNs/rad) Moment dinertie ramené SUr Farbre du moteur (en Kg m) Gain de la servovalve (en mIs/4)
+Courant électrique en Ampère Débit d alimentation (en mIs Pression de fonctionnement (en Pascal) Position angulaire (n rad) @m d0 Idt Vitesse de rotation de larbre du moteur (en rad/s) Couple résistant (en mN) A, B et Z Variables booléennes
+Ks
+Ka
+Gain du capteur de position angulaire (V/rad)
+Concours Technologie Session Juin 2003
+Epreuve de STI
+Page 16/20

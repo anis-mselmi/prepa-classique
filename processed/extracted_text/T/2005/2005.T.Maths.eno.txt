@@ -1,3 +1,47 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de l'Enscignement Supéricuor Concours nationaux dentrée aux cycles de formation dingénieurs Session 2005
+9@i{52u; (aross Ui ymajrii Mijsjlu 2005 iw
+Concours   Technologie
+Epreuve de Mathématiques
+Durée 4 H
+Date 10 Juin 2005
+Heure 8 H
+Nb pages 4
+Barème Exercice 4 pts. Problème ( I : 3 pts. II : 5 pts. III 5 pts IV 3pts.)
+Une grande importance sera attachée à la rigueur du raisonnement; à la clarté et au soin de la présentation. L'usage des calculatrices n'est pas autorisé. Il est rappelé que tout résultat énoncé dans le texte peut être utilisé pour traiter la suite, même sil n'a pu être démontré
+Exercice On considère léquation différentielle suivante
+x2y"+4ry' '+2y= Log (I+x) L/ Donner le développement en série entière de Log(l+x) sur ]-,1[ 2 Déterminer une solution de [ équation différentielle ) , développable en série entière SU ]-l,i [ (-I)"-1 3/ a) Déteniner le rayon de convergence de la série entière 2 n2l n(n+I)(n+2) b) Calculer la fonction somme de cette série entière. 4/ Résoudre ['équation homogène associée à ( * ) sur Jo, [ Indication on cherchera une base de solutions sous la forme de x->r'_ 5l En déduire toutes les solutions de ( * ) sur   Jo,1 [.
 
+--- page 2 ---
+Problème
+Soit E le C-espace vectoriel des fonctions définies et continues sur R à valeurs dans C Soit un réel strictement positif. toute fonction f de E on fait correspondre la fonction P(f) définie sur R par la relation P(fXx) = L1f(x-t)dt . 2a Partie 1
+1/ Démontrer que pour toute fonction f de E la fonction P(f) est aussi définie par les relations
+@a(f)x) 2a [2f(x+s)ds
+cxta P(f)(x) f(u)du _ 2a 1-a
+2/ Démontrer que si f est paire alors @(f) est paire et que si f est impaire alors @(f) est impaire 3/ Déterminer les fonctions @(f), P(g) P(h) et Pa(k) dans les cas suivants a) f(x)=x b) g(r) =e'_ c) h(x) = sinx d) &(r) = vlx| 4/ a) Montrer que si est une fonction de E périodique de période   2T_ alors pour tout GxtT reR, X-TJ(t)dt = Lr f(t)dt. b) Donner P(f) lorsque est une fonction de E périodique de période   2a 5/ a) Démontrer que la fonction P(f) est continûment dérivable et calculer (P( U)Y(x) . b) En déduire que si de classe C" alors  P() est de classe Cn+l
+Partie II
+1/ a) Démontrer que ]application @:f =>Pa(f) est un endomorphisme de E _ b) Détermincr le noyau   Ker(Pa) de cet endomorphisme. 2 On désigne par $ le sous-espace de E formé des fonctions polynômes de degré inférieur ou égal à ['entier naturel n a) Pour 0< p<n oD pose "p(x)=xP Montrer que P("p) est une fonction polynôme de degré exactement égal à p . Quel est son terme du plus haut degré ? b) Endéduire que $n est stable par @
+2
 
+--- page 3 ---
+3/ Soit Ma (mij i (a))sijsn+l la matrice   associée à la restriction de Pa au sous-espace $ dans la base canonique   {1,X,X? Xn a) Ecrire Ma pour n =2 puis pour n=3  Dans le reste de cette partie; n est un entier naturel quelconque supérieur ou égal à 2 b) Démontrer que M est une matrice triangulaire Déterminer   les éléments diagonaux de Ma - Déterminer les valeurs propres de la matrice Ma
+4/ Calculer le coefficient mij+2(a), I<i<n-1,de la matrice M 5/ a) Démontrcr que le rang de la matrice Ma ~Intl est égal à n-] où In+l est la matrice unité dordre n+1 b) En déduire la dimension du noyau de la restriction de (@ id) au sous-espace $n où id désigne l'application identique de E 6/ a) Vérifier que le sous-espace $ de $n est invariant par @a b) Existe-t-il des fonctions polynômes de degré strictement supérieur à invariantes par Pa 7/ On désigne par 3 le sous-espace de E formé des fonctions polynômes: a) Montrer que $ est stable par $ b)  Montrer que la restriction de P au sous-espace est un automorphisme. c) Préciser ['ensemble des valeurs propres de la restriction de Pa au sous-espace $
+Partie 
+Dans le reste de ce problème, on désigne par D le sous-espace vectoriel de E formé des fonctions 2Æ périodiques.
+I/ Montrer que Fapplication @: f =>@(f) est un endomorphisme de D _ 2/ Pour f et g dans D on pose (f/g) =- [JOg(o)dt . Montrer que   (@(f)/g) =(flw(g)) . 3/ On rappelle que le coefficient de Fourier de f est défini par c,(f) = (e1f)=2 [;f()e ~int dt , nez, avec en(x) =e inx
+a) Calculer  @(en) neZ.
+cn(f) , si n=0 b)   Montrer que cn(P(f))={sinna cnU), si n # 0. na
+3
 
+--- page 4 ---
+4/ a) Montrer que pour tout n # 0 , on a : |cn (P(f))| < 46++61) b) En déduire que la série de Fouier de $(f) est uniformément convergente sur R 5/ Soit g la fonction 21 périodique; impaire; définie sur   [o,z] par g(x) x(I-r) a) Déterminer la série de Fourier de la fonction g b) En déduire la somme des séries numériques suivantes (~I)P et P=0 (2p+1)3 P=0 (2p+1)6 6/ a) Déterminer la fonction @(g) en supposant que le réel est égal à 2 b) Déterminer la série de Fourier de P  (g) ~ 2
+Partie IV
+On pose pour r e Jo, [ et xeR :
+Ar (x) = Zrlnleiu . n=~0
+I/ a) Montrer que la fonction x-> Ar (x) est bien définie sur R et que pour tout reR, on a :
+1~r2 A (x) = [-2rcosx+r 2
+b) Vérifier que Ar € D, Ar 20 et [;4()d =1 . 2Æ 2/ Si f e D, on pose
+P,UNr) = @,Ic,Ufei . n=-0
+a) Montrer que x > Pr(fXx) est bien définie sur R et que PrU)e D. b) Montrer que pour tout   x e R,ona:
+PF() (r) = - Lrf(r-t)4,()d . En utilisant luniforme continuité de f e D et les résultats précédents, montrer que
+lim sup P;(f)(*) - f(x) | ]=0. r91 xeR

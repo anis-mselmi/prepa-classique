@@ -1,4 +1,128 @@
+--- page 1 ---
+REFUBLIQUE TUNISIENNE #Liuarerc dc {Eoscigpacn: LPéLeul , Rscbcrbc Scictigus de Tcchnologics 4 CiCILOD Codulidov
+Fsdl i)9Aaal vulrl ayll Nldl sLcdl à,)4), JLiyl =Lsskkall Hslsi2i}
+Concours Natlonaax Entrée aIX Cycles de Fornnatbn Ingénieurs Seslon 2014
+Usabjiafi àxccblyi 20146u'
+Concours Physique et Chimie Epreuve de Mathématiques
+Date: Lundi 2 Juin 2014
+Heure 8 H
+Durée: 4heures
+Nb pages:
+Une grande nportance sera nllachée "egueur {u ratsonnement, clarte (?4 s047 de ln présentation 'usage des calculatrices n'est pus autorisé Il est rappelé que tout résultat énoncé dans le terte peut être utilisé pour traiter la suite, mêre $ il n' pu être démontré
+N.B. Le sujet comporte deux problèmes totalement indépendants
+Problème 1
+Rappels et Notations Soit f une fonction 27 périodique continuc par morçeaux. Les cocfficients de Fourier trigonométriques de f sont définis par 2; an(f) f (t) cos(nt)dt , n € N.
+bu(f)
+f (t)sin(nt)dt , " € N*
+Partie I
+Dans cette partie; OIL se propose d'étudier lespace vectoriel des fonctions développables en série entière en 2 et solutions sur R de Véquation différentielle suivante
+Iy =1-
+où y est une fonction inconnue continûment dérivable de la variable I
+(a) Résoudre Féquation   différentielle (On donnerc unc solution   particulière sous forme intégrale (b) En déduire que la solution f de Féquation différentielle (1) telle que f(0) 0 s'écrit sous la forme f(x) exp( exp( )dt . (2)
+Dans cette question. désigne une fonction de la variable réelle æ admettant un développe-
+ment en série entière y(z)
+&p IP sur D=0
+R.R? avec R > 0.
+Montrer que. pour que y soit solution ce SilI ait = | . (p + 1)ap+1 Qp - [
+R. FR[: il fant ct il suffit que Fon
+Vp ?> 1.
+Concours Phwsique et Chinte' Session Juin 20144
+cpreuv# ce Mathematiques
+Pago L ,;
 
+--- page 2 ---
+En dléduire que; si V cst une solution de (1); on a
+(2k
+OÛ , Vk: > 0, 24 k! 2kk! (2k+1 Vk > 0 (2k + 1) ! =
+{c) En déduire le développement en série entière au voisinage de 0 de la fonction f donnée dans léquation (2) Donner le rayon de convergence de la série associée à la fonction f (e) Soit g la fonction définie sur R par
+g(r) erp(
+Donner le développemnent en série entière au voisinage de 0 de 9 ainsi que son rayon de convergence ii. Pour æ € R*, exprimer g(t)dt comme somme dune série entière.
+En écrivant f(1) de deux manières différentes; montrer que
++oo
+2"n!
+(=1)n
+(2n + 1)! 7=0
+2"n{(2n + 1) ` Tl=0
+Partie II
+Soit h la somme de la série entière définie par
+(3)
+72,2 7>
+L'objet de cette partie est de donner quelques propriétés de h.
+{a Déterminer le rayon de convergence de la série entière (3)
+(b) En considérant la série de fonction de terme général montrer que la fonction h est continue sur [~1,1] (c} Calculer #' (x) sous forme de série entière sur ~1,1[ (d) En déduire; que pour tout z €] - 1, 1[ on a
+In(1 _ t) dt
+h(z)
+2. Soit
+R _ R la fonction 2n-périodique définie par " (æ)
+pour tout I [0. 2; [
+Montrer que. pour tout n € N. (n (u) = et pour tout " € N* . bn (u)
+En cléduire que h(1) = n=1
+Concours Physiquc' et ('himie Session Juin 20] {
+Eprvuve de Mathématiques
+Pas"
 
+--- page 3 ---
+3. Montrer que la fonction définie pax
+Væ €j0, 1 [; $(z) h(z) + h(1 r) + In(z) In(1 _ z)
+est de classe C1 SUi Jo; 11
+Montrer que la fonction est constante sur Jo, 1[ et vaut h(1).
+En déduire que
+2n712 n =
+12
+; (In(2))? .
+Problème 2
+Rappels et notations On note N /'ensemble des entiers naturels; N* Vensemble des entiers naturels non nuls, K le corps des réels ou des nombres complexes. Dans tout ce qui suit, on fixe n € N* et on adopte les notations suivantes R" est Fespace vectoriels des n-uplets à coefficients réels KN {(uk)k; tel que ux € K; Vk € N} est Fespace des suites de K Kn est l'espace vectoriels des "n-uplets à coefficients réels 0u complexes Pour X € K" OIl note par €1: Xn ses composantes dans la base canonique de K" Mn(R) désigne lespace des matrices carrées d'ordre n à coefficients réels In est la matrice identité de Mn(R) Soit A = (aij) € Mn(R). On note par det ( A) le déterminant de A. ker( A) {X € R" . AX 0} . Ex(A) = ker ( A AIn) , pour ) € K Spx ( A) Fensemble des valeurs propres de dans K
+Partie I
+Soit; (a,b) € K? . 0 + 0 et b + 0. On pose E = {(uk)k € KN tel que "k+ 2 a?k+1 + buk , vk € n} 
+Montrer que 1E est 1il K-espace vectoriel
+2. Soit $ EE 74 K2 Fapplication définie par: 4((u&)k) (uo, "1 ). Montrer que $ est UZ} isomorphisme de K-espaces vectoriels . En déduire que F est de dimension finie sur IK et donner dim(IE). Soit " € K; r + 0. Montrer que les cleux rclations suivantes sont équivalentes
+Concours Physique et Chimie Sesslon Juin 2014
+Épreuve ve Mathenatiques
+Page 3,5
 
+--- page 4 ---
+(rk)k € E. est une solution de Féquation {2 at b = 0 (* ) . On suppose que Féquation admet deux racines distinctes 71 € K et r2 € K. Montrer que la famille ((rk)k, (r2)k) est une base de E. On suppose que ]équation admet une racine double F1 € K.
+Montrer que la suite krk )k est LIl élément de E. Ind: on exprimera "1 en fonction de a) . Montrer que la famille ((râ)k; (krk)k) est une base ce E. Calculer le terme général de la suite (dk)k définie par
+do = 1, d1 = 2, dk+2 2d;+1 dk : Vk € N.
+Partie II
+Soit
+(ai,j) € Mr (R) On pose
+Li
+la;,j | et L max (L; Jaz,;|) I< <n 1 = 1 j # i
+Soit A € SpK ( A) et X € Ex(A) . {a) Montrer qu'il cxiste k € {1, 2,
+Tv} tel que
+Jæk| mnax Izi [<i<n
+(b) Soit k Fentier trouvé dans la question précédente   Montrer que
+1X @k,k| < Lk.
+En déduire que |X/ < L
+On suppose que; pour tout ; € {1, 2, , n } , on Jai,il Li a , Montrer que 0 n'est pas une valeur propre de A {b} En déduire que A est inversible.
+Partie III
+Soit (a, 8) € R? On considère la matrice An(a, 8) € Mn(R). définie par
+An (c. 8)
+Concours Physiquc ct Chimie Session Juis 201
+Fpreuve de Mathennatiqpues
+Page | 5
 
+--- page 5 ---
+Vérifier que An(a,
+aIn + 8 An (0, 1 ) .
+On pose Bn An (2, 1 ) .
+Calculer det ( B1 et det ( B2) Montrer que det ( Bn = 2det ( Bn-1) det ( Bn-2 pour tout " > 3 En utilisant la question 6. partie I, calculer det( Bn) .
+Déterminer ker(An(~2, 1)) . On' pose Dr An (0, 1 ) . On admet quc le Spc(Dn) SpR (Dn) . Soit p € SpR(Dn) et X € Ep(Dn) Montrer , en utilisant la qucstion 1.(c) de la partie II, que Iu] < 2 Montrer que Ju| < 2 et CII déduire qu'il existe ej0, m { tel quc p = 2cos(0) Montrer que les composantes de X sont solutions de la récurrence
+fki 2 cos(e)rk + Ik_1 = 0, 1 < k < n, T0 0, In+1
+En   utilisant la question de la partie I, exprimer æk en fonction de et k, pour 1 < k < n. En déduire que les valeurs possibles pour 0 sont
+jTr 1 < j < ". n + 1
+Déterminer les valeurs propres et les vecteurs propres de Dr En déduire que Dn est diagonalisable (a) Soit ^ € R. Prouver Féquivalence
+€ SpR (Dn) si et seulement si
+42) € SpR ( Bn) .
+(b) Montrer que
+cos2 Jt 2(n 4))= 1 < j <n } .
+Spj ( Bn)
+Etablir les identités suivantes
+(OS
+h'f) =0 j=1
+J
+n + 1 Cos (2(+1)) 47
+Concours Technologic Session Juin 2014
+Lpreuve de Mathémnatiques
+Page 5/5

@@ -1,5 +1,94 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de FEnseignement Supérieur et de la Recherche Scientifique
+4sil 4saa4l salell evsls allell alejll 4)l)s
+Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs Session 2018
+Ussnl ~+i eijaliji ixniJ} jssulc 20185,9'
+Concours Mathématiques et Physique; Physique et Chimie et Technologie Epreuve dInformatique Date Vendredi 1 Juin 2018 Heure 11 H Durée : 2 H Nombre de pages 6
+Barème
+Problème 1 : 14 points Problème 2 6 points
+DOCUMENTS NON AUTORISES
+L'USAGE DES CALCULATRICES EST INTERDIT
+II FAUT RESPECTER IMPERATIVEMENT LES NOTATIONS DE L'ENONCE
+PROBLEME 1
+Une image en niveaux de gris est un ensemble de pixels organisés en lignes et colonnes. Chaque pixel est défini par une valeur représentant un niveau de gris (ou encore ton) parmi 256 valeurs possibles entre le noir et le blanc (0 noir; 255 blanc) Binariser une image consiste à la partitionner en deux parties une partie sombre et une partie claire selon un seuil de niveau de gris. N.B : Les parties ! et II sont indépendantes.
+Partie I
+Une image peut être binarisée selon un seuil optimal déterminé par une méthode de seuillage . Dans cette partie, on propose d'implémenter quelques étapes d'une méthode de seuillage qui consiste à déterminer un couple de paramètres intervenant dans le calcul du seuil optimal.
+Description de la méthode Soit une image en niveaux de gris représentée par une matrice Mà n lignes et m colonnes, où M;j € [0,255]est le niveau de gris associé au pixel dindices (i,j) (O<i<n-1etO< j<m-I)
+La méthode consiste à
+Déterminer la matrice, notée V, à n lignes et m colonnes nommée matrice des moyennes des voisinages, où chaque élément Vj (O<isn-1et 0< j<m-1) a pour valeur M;.j' pour i=Oou j=Oou i=n-1ou j=m-1 ; la partie entière de la moyenne des niveaux de gris de lélément M;j et de ses 8 voisins immédiats; pour O<i<n-1 et O<j<m-1.
+Concours (Mathématiques et Physique, Physique et Chimie et Technologie) - Session Mai 2018
+Epreuve dInformatique Page 1/6
 
+--- page 2 ---
+Déterminer une matrice carrée dordre 256, notée H et nommée matrice histogramme, où chaque élément H;j (0<i5255 et 0< js255) représente le nombre des pixels ayant un niveau de gris égal à iet une moyenne des niveaux de gris du voisinage égale à j Déterminer la matrice colonne, notée Moy, définie par
+255  255 iH;j i=0 j=0 Moy = 255 255 J. H;j i=0 j=0
+A partir de la matrice H, déterminer parmi tous les couples (s,t) possibles; le couple optimal dont la valeur de la trace de la matrice variance correspondante, ci-dessous définie; est maximale. Le couple optimal est déterminé comme suit Pour chaque couple d'indices (s,t) de H tels que 0<s<255 et 0<t<255 :
+Calcul des probabilités P et R définies par
+255 255 P = LwÉ H;.j P = H;j mn i-0 j=0 mn ;=s+1 j=t+1 Construction des matrices colonnes Moyo et Moy définies par
+255 255 ÉÉiH.j 1. H;j P i=0 j-0 P i=s+1 j=t+l Moyo Moy 255 255 wÉ j.H;j j.Hi,j P '0 j=0 B i-s+1 j-t+ Construction de la matrice variance $ définie par
+S=B AA + B BB où X' est la transposée dune matrice X; A=( Moyo Moy) et B=(Moy Moy) Calcul de la valeur de la trace de la matrice S et mise à jour de la valeur de la trace maximale. On rappelle que la trace dune matrice correspond à la somme des valeurs des éléments de sa diagonale principale.
+Travail demandé
+NB Dans la suite; les fonctions demandées seront écrites en langage Python; en utilisant impérativement la nomenclature donnée par le tableau suivant.
+Nom Type Description M numpy ndarray Matrice dentiers entre 0 et 255) représentant une image V numpy ndarray Matrice d entiers contenant les moyennes des voisinages de M nm int Respectivement nombre de_ lignes et de colonnes de Met V H numpy ndarray Matrice histogramme d' ordre 256 correspondant à Met V
+Concours (Mathématiques et Physique, Physique et Chimie et Technologie)  Session Mai 2018
+Epreuve dInformatique Page 2/6
 
+--- page 3 ---
+1. Ecrire la fonction, nommée GenererMat, qui prend en paramètres n et m et retourne une matrice Mremplie par des valeurs entières aléatoires comprises entre 0 et 255. 2. Ecrire la fonction; nommée MoyVoisinage; qui prend en paramètre Met retourne V 3. Ecrire la fonction; nommée NbPixels, qui prend en paramètres M Vet deux entiers i et j Elle   retourne le nombre déléments   de M ayant Ma.b 7 =i et V,b = j (avec O<a<n-1 et O<b<m-1) 4. Ecrire la fonction; nommée Histogramme, qui prend en paramètres Met Vet retourne la matrice H. 5. Ecrire la fonction, nommée Sigma, qui prend en paramètres H, binfl, binf2, bsupl, bsup2 et comp (paramètre ayant la valeur par défaut 0), calcule et retourne bsupi bsupz 1 H;j si compégal à 0 ; i-binf; j-binfz bsupi bsupz j. Hij si compégal à 1. i-binf;  j-binfz
+6 Ecrire la fonction; nommée Seuillage; qui à partir du paramètre H, retourne le couple optimal (s,t)   correspondant au maximum de toutes les valeurs des traces des matrices S.
+Partie II Une région est un ensemble de pixels représentant une partie ou la totalité dune image. Lexemple suivant illustre une image à 3 lignes et 5 colonnes où les cases hachurées forment une région
+0
+2
+3 32
+4
+128
+64
+128
+32
+pixel de la région de coordonnées (1, 3) avec un ton de gris 64
+64
+255
+0
+64
+128
+0
+255 64
+54
+Figure 1 Exemple de région dune image et ses pixels
+Dans le but de binariser une région dune image; dans cette partie, on propose d'implémenter les classes Pixel et Region. Description des_classes Classe Pixel Attributs posi et posj; des entiers représentant les coordonnées du pixel ; ton; entier entre 0 et 255, représentant le niveau de gris du pixel. Méthodes init (-) : permet d'initialiser un pixel str permet dafficher un pixel selon le format Pixel<posi,posj ton> Exemple px = Pixel(1 , 3, 64) est un objet, instance de la classe Pixel
+Concours (Mathématiques et Physique, Physique et Chimie et Technologie)- Session Mai 2018
+Epreuve dInformatique Page 3/6
 
+--- page 4 ---
+Classe Region Attributs label, chaîne de caractères, désignant la région dict_pixel, un dictionnaire où chaque clé représente un ton de gris chaque valeur représente la liste des coordonnées des pixels ayant ce ton de gris. Exemple Le dictionnaire associé à linstance de la classe Region donnée par F'exemple de la Figure 1 est dict_pixel ={255 [ (1 , 1 ) , (2, 2) ] , 64 : [ (1,3) , (2, 3) ] , 0 : [ (1, 2) ] } . Méthodes init_ ( permet  linitialisation des attributs de la classe Region et dont le script Python est donné par def init (self lab) self label = lab self dict :_pixel = dict ()
+len ( retourne la taille de la région; en nombre de pixels. Pour lexemple de région de la Figure 1, cette méthode retourne 5_ call () : retourne la liste des coordonnées des pixels de la région ayant un ton de gris t Dans le cas où ce ton n'existe pas dans la région; cette méthode retourne None. Pour Pexemple de la Figure 1 et le ton 64, cette méthode retourne a liste [ (1,3) (2, 3) ] _ contains retourne True si un pixel px appartient à la région et False sinon. ajouter_pixel( ) ajoute un pixel px à la région. supprimer_pixel(- ) : supprime un pixel px de la région: binariser_reg( .- retourne; à partir dun ton t, une nouvelle région à deux tons 0 et 255 tels que le ton 0 est associé aux pixels ayant un ton strictement inférieur à t et le ton 255 est associé aux autres. Le label de la nouvelle région est celui de la région dorigine post-fixé par la chaîne 'bin'.
+Travail demandé
+Dans la suite; les réponses seront écrites en langage Python; en se basant sur les descriptions des classes déjà données.
+1. Construire la classe Pixel.
+Pour la classe Region 2. Ecrire la méthode len
+3. Ecrire la méthode call
+4. Ecrire la méthode
+contains 5. Ecrire la méthode ajouter pixel. 6 Ecrire la méthode supprimer_pixel. 7. Ecrire la méthode binariser_reg:
+Concours (Mathématiques et Physique, Physique et Chimie et Technologie)- Session Mai 2018
+Epreuve dInformatique Page 4/6
 
+--- page 5 ---
+8 En supposant disposer d'une matrice Im de type numpy .ndarray représentant une image en niveaux de gris, écrire les instructions Python permettant de créer, à partir de Im, une instance de la classe Region; notée Reg et ayant le label 'Paysage' binariser la région Reg à partir dun ton de gris, noté seuil, supposé déjà calculé.
+PROBLEME 2
+Soit le schéma relationnel de la base de données des images 'BDDImage.db' défini par les trois relations suivantes
+Image (IdImage; nomF , extF , largeur, hauteur) La table Image contient toutes les images actuellement disponibles dans la base. IdImage identifiant de limage (chaîne de caractères), clé primaire. nomF nom du fichier correspondant à limage (chaîne de caractères)  extF extension du fichier correspondant à limage (chaîne de caractères). hauteur hauteur de limage en nombre de pixels (entier). largeur : largeur de limage en nombre de pixels (entier).
+Region (IdRegion label, IdImage) La table Region contient toutes les régions associées aux images sachant   qu'une région est une partie dune image. IdRegion identifiant de la région (chaîne de caractères) , clé primaire. label : désignation de la région (chaîne de caractères)  IdImage identifiant de limage (chaîne de caractères)   à laquelle appartient la région identifiée par IdRegion; clé étrangère.
+Pixel (X_Y IdRegion; rouge, vert, bleu). La table Pixel contient tous les pixels couleur associés aux régions. X : position au niveau des lignes dans limage (entier) . Y : position au niveau des colonnes dans limage (entier). IdRegion identifiant de la région à laquelle appartient le pixel de positions Xet Y (chaîne de caractères) , clé étrangère . rouge valeur de la couleur rouge; (entier entre 0 et 255). vert valeur de la couleur vert, (entier entre 0 et 255) bleu valeur de la couleur bleu, (entier entre 0 et 255). Le triplet (X, Y, IdRegion) constitue la clé primaire de la table Pixel.
+Concours (Mathématiques et Physique, Physique et Chimie et Technologie)- Session Mai 2018
+Epreuve dInformatique Page 516
 
+--- page 6 ---
+Dans la suite, on suppose que les trois tables de 'BDDImage.db' sont déjà créées et remplies.
+Partie I Soit le script python suivant import sqlite3 connexion sqlite3.connect BDDImage. db- ) curseur connexion.cursor ()
+curseur.close ( ) connexion.close ()
+Dans la suite, connexion et curseur seront  utilisées par les fonctions comme des variables globales.
+1. Ecrire la fonction Python; nommée GetData, qui; à partir dune table T, détermine et retourne la liste de toutes les informations des lignes de cette table. 2. Ecrire la fonction Python; nommée RechercheImages, qui, à partir de deux entiers minKet maxK: détermine la liste Lde toutes les informations des images de la table Image détermine, à partir de L, Ja liste des identifiants des images dont la taille (en Kilo octets) est comprise entre minKet maxK; retourne la liste résultante. NB : La valeur de chaque couleur (entier entre 0 et 255) est codée sur 1 octet.
+Partie II Donner les requêtes SQL permettant de 3. Déterminer les noms et les dimensions en nombre de  pixels des   images   ayant Pextension 'png'. Le résultat doit être classé par ordre décroissant selon la dimension 4. Déterminer le nombre de pixels par région. 5. Déterminer les identifiants des images comportant exactement deux régions. 6. Déterminer les positions des pixels de dominance rouge de la région ayant le label 'Cercle'. Un pixel de dominance rouge est un pixel dont la valeur de la couleur rouge est supérieure à celles des deux autres couleurs. 7 Sachant   qu'un pixel bleu a la valeur  du triplet (rouge vert, bleu) = (0, 0, 255), modifier en bleu tous les pixels de la région didentifiant 'MERIO2'
+Partie Ecrire en algèbre relationnelle les expressions suivantes 8. Déterminer les positions des pixels de la région ayant le label 'Cercle'. 9 Déterminer les noms des fichiers des images n'ayant aucune région associée.
+Concours (Mathématiques et Physique, Physique et Chimie et Technologie)- Session Mai 2018
+Epreuve dInformatique Page 6/6

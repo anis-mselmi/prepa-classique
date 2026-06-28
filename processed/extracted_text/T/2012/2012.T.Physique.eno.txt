@@ -1,7 +1,85 @@
+--- page 1 ---
+13 ) ~2s4v} REPUBLIQUE TUNISIENNE Ministère de F'Enscignement Supérieur et dc la Recherche Scientifique .jx#JëWs Concours Nationaux d'Entrée aux Cycles {~ay de Formation d'Ingénieurs Jsinl aibsll @1GLijy Session 2012 ùeualijal Us Jlxu 2012 6,9 Concours Technologie MsmuT 7rePahAtoiRe Epreuve de Physique CBUOIHEQUD x Budes DNusss Date Jeudi 07 Juin 2012 Heure 8 Hoo Durée 4 H Nbre pages 08 Barème Prsblème ! : 13 pts Problèïne 2 : 07 pts
+'usage d'une calculatrice non programmable est autorisé L'épreuve est constituée de deux   problèmes   indépendants. Un candidat peut toujours se servir d'un résultat fourni par V'énoncé pour continuer sa composition
+Données
+Le vide est caractérisé par sa permittivité électrique €o 110 " Fm- et sa 36T perméabilité magnétique Ho AT 10-7 Hm ' Charge élémentaire e = 1,6 .10-19 C Masse de lélectron mc = 9,10.10-31 kg Accélération de pesanteur g = 10 m.s rot (rotæ) = grad '(diva) - Za Développement en série de Taylor au voisinage de * = 0 de f(x) f (x) = f(0) + +4(æ4) +O(x' ) X=0 1=0 X=0 1=0 En coordonnées cylindriques r{tF 1 dF ôF  JF 4 ôE ô0 ôz 1 +'@FF;-% ~ ôr L'espace est   rapporté à un référentiel   galiléen 9(Oxyz) de base orthonormée directe (1,,4,,4,) . On note (ù,,4o,",)la base des coordonnées cylindriques:
+Problème 1
+Dans tout le problème; on considère soit le régime stationnaire; soit F'approximation des régimes quasi-stationnaires (ARQS) . Première Partie Obtention dun charnp magnétique Une spire circulaire daxe ascendant (z'z) et de rayon a est parcourue par un courant stationnaire dintensité Io (Figurel)  Concours Technologie Session Juin 2012 Epreuve de Physique Page 1/8
 
+--- page 2 ---
+M(O, 0, z)
+Figure 1
+1 Montrer que le champ magnétique créé par cette spire en un point de son axc s'écrit : B,(M) = B,(z) 4, 2 Montrer que B, (M) peut se mettre sous la forme B,(M) = Holsin' œ 4, 2a 3. Une bobine plate de centre O1 et d'épaisseur négligeable, comporte N spires circulaires de rayon a, de même axe de symétrie (z'z) Elle est parcourue par un courant stationnaire dintensité Io. 3.1. Déterminer ]expression du champ magnétique B,(M) créé par cette bobine en un point M(o, 0, z) 2 B(u) 3.2. On pose u = Tracer ]allure de la courbe donnant en fonction de u. B(u = 0) Dans Fobjectif dobtenir un champ magnétique uniforme, on utilise les bobines Figure 2 d'Helmholtz c'est un système de deux bobines plates identiques coaxiales de centres respectifs 01 et 02 tels que 00 = 2d  (Figure 2). Elles sont parcourues par des courants   stationnaires  identiques de même intensité Io. M(O, 0, z)
+4.1 . Comment faut-il choisir le sens du courant Io dans chacune des bobines Justifier . 01 4.2. Déterminer Fexpression du champ magnétique Bp (M) = B;(z) ùz en un point M(O, 0, z) , situé entre 01 et O2- 5 Par des considérations de symétrie, justifier que Bp(z) est une fonction paire.
+On suppose que 2 << d Montrer que pour d = 4 B;(M) peut être considéré comme 2 uniforme à Fordre près. 7 Montrer que, dans ce cas, Bn(z) =1,44B, (0) _
+Concours Technologie Session Juin 2012
+Epreuve de Physique
+Page 2/8
 
+--- page 3 ---
+On considère maintenant un solénoïde (S), supposé semi-infini et situé dans Ja région Il est parcouru par le courant 1(t) = Io cos(@t) et comporte n spires jointives z < 0 (Figure 3) par unité de longueur . L'origine 0 de l'axe (Oz) correspond au centre de la face supérieure du solénoïde:. Déterminer 1expression dB(M ,t) du champ élémentaire créé au point M(0, 0, z) par la 8. tranche de hauteur   dz st   du solénoïde_ 9 . En déduire le champ magnétique total M(O, 0, z) B(M,t) , créé au point M par le   solénoïde semi-infini 10. Ecrire B(M,t) sous la forme B(M,t) = Bm(z)cos(t) "z, Figure 3 où Bm(z) = Bo 4a
+Préciser [expression de Bo:
+Deuxième Partie Courants induits 11 11.1. Déduire des résultats précédents; l'expression du champ magnétique   B,(M,t) , dans le cas dun solénoïde infini (S0)- est   uniforme Fintérieure de (Se)- On supposera   que ce 11.2. Justifier que   Bs(M,t) champ est nul à Fextérieur du solénoïde. 12. Déterminer F'expression du potentiel vecteur   A(M , ) dont dérive B,(M,1) en tout point de /espace . Un barreau métallique (b), de forme cylindrique; de rayon bo < a , de hauteur h et de conductivité électrique Y est placé à Fintérieur du solénoïde infini (SC) de sorte qu'ils sont et  immobiles dans   le référentiel   détude. On supposc que B,(M,t) n'est pas coaxiaux perturbé par la présence du barreau (b) 13. Déterminer ]'expression du champ électromoteur Er induit dans le barreau métallique. 14. En déduire la densité volumique j des courants induits dans (b). Quel nom donne-t-on à ces courants dP 15. Déterminer   Pexpression de la puissance   volumique  instantanée   dissipée   dans le dr barreau dP 16. En déduire sa valeur moyenne dans le temps dr 17. Déterminer la puissance moyenne totale P, dissipée dans (b). 18. Citer une application du phénomène étudié dans cette partie . Epreuve de Physique Page 3/8 Concours Technologie Session Juin 2012
 
+--- page 4 ---
+Troisième Partie : Lévitation magnétique On considère le solénoïde semi-infini (S) décrit plus haut (Figure 3). Un anneau métallique   indéformable circulaire   (A), de masse m = 12g de rayon b << a d'épaisseur négligeable et daxe   (Oz) est initialement mnaintenu en 2 = 0  Une   tige cylindrique verticale de même axe (Oz) permet de guider de mouvement de (A) selon cet axe, sans frottements;   tout en restant dans un plan horizontal (Figure 4).
+tige
+19. Montrer que le champ magnétique B(M,t) , créé par (S) en un point M(r,0,z)  situé au voisinage immédiat de Faxe (O2) , possède une composante radiale dBm B,(M,t) = - (z) cos(ot) ù dz
+20. Déterminer le flux de B(M,t) à travers [anneau (A) maintenu à la côte z Figure 4 21. 21.1. En déduire la fem induite par (S) dans (A) 21.2. Expliciter le résultat en fonction de @; @(z) = 7b} B,(z) et sin(@t) . 22. On note i, ['intensité du courant électrique circulant dans (A) fixe à la côte Sachant   que Fanneau est  caractérisé par sa résistance RA et son inductance propre LA > déterminer i, (t) 23 Déterminer F la résultante des forces de Laplace s'exerçant sur (A) 24, En réalité; F'anneau n'est sensible qu'à la valeur moyenne de la force. Déduire la force moyenne dans le temps F > exercée sur (A). 25, Un modèle plus réaliste; tenant compte des propriétés magnétiques de la tige cylindrique verticale, montre que la valeur moyenne de F pour 0 < z <h est donnée par
+>= Fm(o)l 1 - ù ho 25.1. Quelle condition doit satisfaire F pour que lanneau (A) positionné initialement en 2 = 0 , décolle ? 25.2. Dans ces conditions; à quelle côte z. Fanneau se stabilisera-t-il ? 25.3. Calculer z. pour h = 0,6m et F =O,1SN 25.4. Déterminer la nature du mouvement de [anneau autour de Z2 25.5. Conclure concernant la stabilité de ['équilibre de (A) en 2 = 22
+Concours Technologie Session Juin 2012
+Epreuve de Physique
+Page 4/8
 
+--- page 5 ---
+Quatrième Partie Utilisation de matériaux supraconducteurs Pour s'affranchir de leffet Joule, on utilise des matériaux supraconducteurs; qui sont dotés de deux propriétés macroscopiques remarquables au dessous d'une température critique Tc pouvoir transporter un courant sans dissipation expulser tout champ magnétique extérieur appliqué= effet Meissner Dans le modèle microscopique considéré, les porteurs de charges assurant la conduction; de masse individuelle mo et de charge 9, initialement au repos, sont mis en mouvement sous Faction dun champ électrique E , supposé uniforme et stationnaire .
+26. Ecrire ]'équation du mouvement dun porteur de charge assurant la conduction. 27.En déduire une relation liant ' et E On note ns la densité volumique des charges de ôt conduction. On suppose que cette relation reste valable en régime quasi stationnaire_ 28. Ecrire les équations de Maxwell dans le milieu supraconducteur. On rappelle que le milieu est localement neutre et qu'il peut être assimilé au vide (6o; Ho 29. Montrer que le champ magnétique vérifie léquation suivante
+rot (rJt B)
+=0
+où 2 est une grandeur dont on donnera [expression. 30. Montrer que 1 , est homogène à une longueur. Calculer 1  dans le cas de l'étain pour une densité n =1028 m 9 =e et mo = me 31. En 1935, les frères F et H. London ont publié un article décrivant théoriquement T'effet Meissner > Ils ont postulé que la solution à retenir était de la forme B rot (rot B) + =0 77 B En déduire que le champ B obéit à l'équation de < London > AB =0 22 Dans la suite de cette   partie; on considère le caS dune plaque   supraconductrice   illimitée de   largeur 2d dans la direction x lorigine des espaces étant choisie au centre de Ia plaque (figure 5) Bcai 32. On suppose que le champ à lextérieur du matériau est uniforme B Boy et on cherche ext un champ B = B(x)uy dans le matériau. Ecrire la solution générale de l'équation de London: Figure 5 33. Les courants surfaciques sont supposés nuls en x =+ d _ 33.1. Déterminer l'expression de B(x) en fonction de Bo, X, 1 et d 33.2. Tracer l'allure du graphe de B(x) dans le cas où 1 <<d.
+Concours Technologie Session Juin 2012
+Epreuve de Physique
+Page 5/8
 
+--- page 6 ---
+33.3. Déterminer lexpression de la densité volumique de courant J(x) dans le supraconducteur . 33.4. Tracer Y'allure du graphe de j(x) dans le cas où 2 <<d_ 33.5. En quoi ce modèle explique-t-il 1effet Meissner
+Problème 2
+Linterféromètre de Michelson est constitué de deux miroirs plans M1 et orthogonaux  Iun à lautre Mz et dune lame scmi réfléchissante, non absorbante;   appelée séparatrice (Sp) (Figure 6). Cette lame; inclinée de 458 par rapport aux normales à M; et M2 est caractérisée par des facteurs de transmission et de réflexion en intensité égales à % D'interféromètre est plongé dans Vair dont P'indice de réfraction sera pris égalà 1. On suppose que (Sp) n'introduit aucun déphasage supplémentaire:.
+Mz
 
+02
+Source étendue S
+Mi
+(Sp)
+Figure 6
+Première Partie Source de lumière monochromatique L'interféromètre de Michelson; se trouvant initialement réglé en (0O1 contact  optique" 0O2), est éclairé par une source étendue $ supposée monochromatique de longqeur donde 2. On note 0 le nombre donde. On translate le miroir Mp normalement à son plan dune distance € suivant les X croissants . Un écran d'observation (E) est placé dans le plan focal image d'une lentille mince convergente (L) de distance focale image f 1. Reproduire la figure 6 et la compléter en faisant apparaître les trajets des deux interfèrent en un point rayons qui Mde (E). 2. 2.1. Quel est le rôle de la lame (Sp) ? 2.2 Expliquer le fait que la moitié de lintensité lumineuse incidente est perdue 2.3, Préciser le rôle de la lentille convergente. 3. 3.1.Déterminer la différence de chemin optique 8 entre les deux ondes qui interfèrent au point Men fonction de e et de Fangle dincidence i. 3.2. Justifier F'observation des anneaux circulaires dégale inclinaison sur (E).
+Concours Technologie Session Juin 2012
+Epreuve de Physique
+Page 6/8
 
+--- page 7 ---
+En supposant que la tache centrale en F est brillante; déterminer le rayon Yk du kième anneau sombre. On suppose que les diverses incidences sont faibles. 5. Un détecteur est placé au centre F' de (E). Tl délivre un signal   I(e)   proportionnel Féclairement qu'il reçoit. 5.1. Montrer que I(e) = I6 (1+cos(4roe)) . Que représente Io 5.2. En déduire la période de I(e)
+Deuxième Partie Influence de la largeur spectrale de la source de lumière Le profil de la source S n'est plus monochromatique mais ayant une largeur spectrale Ag. Elle émet une raie contenant toutes les radiations dont le nombre donde est compris entre Ao Ao 0o et 0o Cette raie est modélisée par un profil rectangulaire de sorte que chaque radiation élémentaire de largeur do donne au centre de ['écran ['intensité élémentaire dl, (0) = 1_do Ao 6. Montrer que le signal détectée est donnée par I(e) 1o(1+Vcosq) _ Donner les expressions de Vet (o.
+7.1. Représenter lallure de V(e) . 7.2. En déduire F'allure de I(e) . 8. Pour quelle valeur e, de e la fonction Vs'annule pour la première fois 9 9.1. Définir la largeur de cohérence temporelle L de la source $. 9.2 Calculer Lc dans les deux cas suivants Lampe spectrale donnant une raie Ao, 2,5.104m' ii) Laser He-Ne Ao1 Sm ' Commenter les résultats obtenus
+Troisième Partie Contrôle du déplacement du miroir Mi Le déplacement du miroir Mp est assuré par un moteur < pas à pas v. La vitesse de ce moteur est commandée par la tension V(t) délivrée par le circuit schématisé sur la figure 7. Dans   toute cette   partie  lamplificateur   opérationnel est supposé   parfait   et fonctionne en régime linéaire
+R
+R
+R
+Figure 7
+Vd
+Concours Technologie Session Juin 2012
+Epreuve de Physique
+Page 7/8
+
+--- page 8 ---
+10. Montrer que la   fonction de transfert de ce   filtre s'écrit 1 Hol H (jw) = Va 1+ j @ 001 Déterminer Ho1 et @1 11. Donner, en le justifiant; la nature de ce filtre. Que représentent Ho1 et @1 12. La position du miroir M1 est contrôlée par une tension x(t) Quelle opération mathématique doit-elle exister entre x(t) et V(t) ? 13. Le signal x(t) est obtenu en considérant le circuit de la figure 8.
+Rz
+Figure 8
+Rp
+13.1. Montrer   que la   fonction de transfert  de ce filtre Hz(jo) = % Hoz s'écrit V I+ j- Wo2 Déterminer Hoz et 002 13.2 Montrer qu' à basse   fréquence;   le circuit se comporte conne un   amplificateur inverseur . 13.3. Quelle est la fonction assurée par ce circuit pour @ >> @02 14. Tracer le diagramme de Bode (gain et phase) de ce circuit. 15. La tension Va(t) est en réalité une tension différentielle; V(t) =Vo -x(t) , où V est une tension de référence
+15.1. Déterminer la fonction de transfert H = *(2
+15.2. Expliquer comment peut-on ainsi contrôler la position du miroir M1.
+gin à [Gpreung
+Concours Technologie Session Juin 2012
+Epreuve de Physique
+Page 8/8

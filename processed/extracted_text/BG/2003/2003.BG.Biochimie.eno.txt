@@ -1,2 +1,36 @@
+--- page 1 ---
+REPOBLIQUE TONISIENNE Concours Nationaux dEntréc au Ministère de [Enseignement 59 Supérieur e de La Recherche Cycles de Formation dIngénieurs Scientifique &t de La Technologie Session : Juin 2003 PRepa SAratoire  S Concours Biologie et Géologie (eieliotheque ` Epreuve de Biochimie; Biologie Cellulaire et Génétique {0 Date Mercredi 11 Juin 2003 Heure 8 H Durée : 2 H Nbre pages 3
+Barème Notes/40
+Epreuve de Génétique 2
+Insrirur Preparatolro dos etudes Ingonioure| demtax Bibliothequr
+(L'utilisation de la calculatrice est autorisée)
+Exercice 1 L 10 points)
+Chez une espèce végétale, le croisement de deux variétés pures lune à bulbes  jaunes (VI) et l'autre à bulbes blancs (V2) ne produit en première génération F1 que des plantes à bulbes violets. L'autofécondation des plantes de la F1 a produit une F2 constituée de 670 plantes à bulbes violets 230 plantes à bulbes jaunes 300 plantes à bulbes blancs.
+1)   Quel est le déterminisme génétique de la couleur des bulbes chez cette espèce ? Vérifier votre hypothèse à l'aide du test X: 2) Donner les génotypes des deux variétés parentales VI et V2 ainsi que le génotype de la F1. 3) Le croisement d'une plante de la F1à bulbes violets avec une variété V3 à bulbes violets a produit 3/4 de bulbes violets et 1/4 de bulbes jaunes. Quel est le génotype de la variété V3 ? 4) Le croisement de cette variété V3 à bulbes violets avec une variété V4 à bulbes blancs donne une descendance fcrmée de 50% de bulbes violets et 50% de bulbes jaunes. Quel est le génotype de la variété V4 ?
+Table de distribution de x2 (Loi de KPearson
+0.990 0.975 0.950 0.900 0.100 0.050 0.025 0.010
+% 0.031 0.039 0.023 0.015 271 2 6 8 9 8 4.60 3 0.02 0.05 0.10 0.21 6.25 0.12 0.22 0.35 0.58 7.78 4 0.30 0.48 0.71 1.06 9.54 0.55 0.83 1.15 1.61
+3.84 5.02 6.63 5.99 7.38 9.21 7.81 9.35 11.24 9.49 11.1 13.28 11.07 12.8 15.09
+Concoars Biolozke & Géolozic- Sesson Jain 2003
+Eprcuvc dc Biodmke Blologic Cdlulairc ct G{nétiquc
+Page 7
 
+--- page 2 ---
+Exercice 2 1@p%ntsL
+Une souche bactérienne A de génotype (thr, met') est mélangée séparément avec deux souches B et C ayant le même génotype (thr- met ) 1) Quel est le processus qui permet dobtenir des recombinants prototrophes ? 2) Décrire-brièvement le protocole expérimentai et le milieu qui permet de sélectionner ces recombinants prototrophes
+On remarque qu' 'à partir du mélange A avec B, aucune colonie recombinante ne poussë sur ce milieu; alors qu'à partir du mélange A avec C des colonies poussent sur ce milieu: 3) Expliquer ces résultats.
+Epreuve de Biochimie :
+Exercice 1 ( 10 points )
+Le glutathion est un tripeptide dont la séquence est: Y-L-Glutamyl-L - Cystéinyl-Glycine Acide Glutamique Cystéine Glycine pK 2,2 2,0 2,3 pKb 9,7 10,8 9,6 pKr 4,2 8,2
+a) écrire la formule développée du tripeptide b) établir les réactions dionisation du tripeptide c) en déduire Péquation du point isoélectrique (pHi ou pI) et déterminer sa valeur. d) si on soumet ce tripeptide à une électrophorèse à pH 7, quelle en serait sa charge globale et vers quel pôle migrera-t-il?
+Concours Bologke ct Céologe - Sasdon Juln 2003
+Eprcuve dc Blochlmle Blologe Celuldre €t Génédque
+Pagc 23
 
+--- page 3 ---
+EXERCICE 2 ( 10 points )
+Dans Phypothèse de Pétat stationnaire et à Péquilibre une réaction enzymatique de cinétique Michaelienne peut s'écrire comme suit: [EJ+[S] [ES] = [] +[P] Avec [Er] = concentration de /enzyme totale [Ez] = concentration de Penzyme libre [S] = concentration du substrat [ES] = concentration du complere enzyme-substrat a) Démontrer Pexpression algébrique de la vitesse initiale de cette réaction enzymatique b) Proposer une représentation graphique vous permettant de déterminer les paramètres cinétiques de la réaction
+Kr
+Concours Blolode ct Géologie- Scssion Juin 2003
+Eprcuve de Blochlmic Blologic Celulalre ct Genetique
+Page 3'3

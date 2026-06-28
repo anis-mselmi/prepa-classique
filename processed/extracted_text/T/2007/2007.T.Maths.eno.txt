@@ -1,3 +1,99 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de lEnseignement de la Technologic
+22U)H2éj)
+Supericur; de la Recberche Scientifiquc ct
+0Wuayiesis 3859622l4 Jin Yibsl 2l BLiji unijugjal>3 2007;"
+Concours nationaur d'entrée auI cyclcs de formation d'ingénieurs Scssion 2007
+Concours Technologie
+Epreuve de Mathématiques
+Durée : 4 H
+Date 4 Juin 2007
+Heure 8 H
+Nb pages
+Barème Exercice 7 pts Problème (1: 2 pts. Il : 3 pts. Ill : 4 pts
+IV : 4 pts)
+Une grande importance sera attachée à la rigueur du raisonnement, à la clarté et au soin de la présentation. L'usage des calculatrices n'est pas autorisé_ Il est rappelé que tout résultat énoncé dans le texte peut être utilisé pour traiter la suite même sil n'a pu être démontré
+Exercice
+Soit n un entier naturel strictement positif, on pose
+#nsFS Dsetwkuss 941'
+1 Zn fn (x) = dt 2T (1-xcost)n
+1/ Montrer que fn est définie sur ]-1,1[
+2/ Montrer que pour x € ]-1,1[, on a f1(x) V1-x2
+3/ Montrer que la fonction fn est de classe C1 sur ]-1,1[ . Donner Vexpression de fr (x) _
+4/
+a) Montrer que pour tout x € ]-1,1[ , on a la relation suivante
+nfn+1 (x) xfn (x) + nfn (x) .
+b) Calculer fz et f3-
+Wstjv7
 
+--- page 2 ---
+5/ Montrer que pour tout n € IN il existe un polynôme P € IR[X] tel que Pn(x?) Fx €]-1,1 [ fn (x) {1-x2)n-1/2
+6/
+a) En effectuant dans $ dt le changement de variables défini par (1_xcost) 7
+tg 1-2 2 = Vz+z tg 2
+montrer que
+P(x2) = 10(1+ xcos8)n-1 d0 . b) Montrer que pour tout k € IN on a
+si k = 2p + 1 (2p)! si k = 2p (2Pp!)?
+(cos8)k de
+c) En déduire /'expression des polynômes Pzn et Pzn+1 , n € IN'
+7/ Montrer que pour tout entière suivant:
+€ IN'
+fn admet 'e développement en série
+V x (n+zp-1: € ]-1,1[ , fn (x) Zp=0  x 2p (n-1)42Pp')z
+Problème
+Soit E Yespace vectoriel sur IR des fonctions définies et continues sur V'intervalle [0, n], à valeurs réelles. On munit E du produit scalaire
+(f /g) = 2 f(r)g(x)dx
+Pour f € E on pose
+Ilfllz=JFlf (x)ldx
+Ilflz=vŒIf)
+Ilfilc emaxosxsz If (x)|
+Pour n € IN, on note Sn et Cr les fonctions définies sur [0, z] par
+Sn
+sin (nx
+et
+Cn (x) = coS (nx
 
+--- page 3 ---
+Partie
+1/ Soit f un élément de s'annule en 0.
+et Fo(x) 5s f(t)dt)la primitive de f sur [0,7] qui
+y" (x) = =f(x), y(o) = 0 ((0) 1 J" Fo (t)dt.
+Montrer que sur V'intervalle [O,n], le système suivant
+admet une solution unique qu'on notera S(f).
+2/ Montrer que pour tout x € [0, T] on a
+S(f)(x)
+Jo Fo (t)dt + % Jo Fo (t)dt. 3/ Déterminer S() lorsque f est la fonction définie par f(x) = T = x.
+4/ Pout tout entier naturel n calculer S(cn)
+Partie II
+1/ Montrer que f
+S(f) est un endomorphisme de E
+2/ Déterminer son noyau et son image
+3/ Montrer que pour tous f , g € E , on a :
+(S()/g) (f /S(g)) 4/ Soient f 9 € E des vecteurs propres de associées à des valeurs propres distinctes et B Montrer que f et g sont orthogonaux.
+Partie III
+1/ Soit
+une constante reelle Résoudre l'équation différentielle suivante
+Jy" (x) + y(x) = 0 2/ Déterminer les valeurs propres de et les sous-espaces propres correspondants
+3/ Montrer que la suite (Sn 7121 forme un système orthonormal dans
+4/ Soit f un elément de E. Pour N €IN' on pose fv
+En=1(f Is )sn'
+Cn désigne par la fonction définie sur IR Zr =périodique, impaire cui coïncide avec f sur Vintervalle ]O,r[ et vérifiant la condition suivante en tout point % € IR
 
+--- page 4 ---
+Î(x) = (limn-o+(f (x + h) + f(x - h)).
+Que représente la fonction fv pour la fonction f ?
+5/ Dans cette question, on prend f la fonction définie sur l'intervalle [0,r] par
+f(x) X(u x)
+2) Déterminer dans ce cas fn b) Etudier la convergence de la suite (fv)n (~1)k c) Calculer la somme Zrzo (2k+1)37 d)  Calculer la somme Zxzo (2k+1)6
+Partie IV
+1/ Soit f un élément de E. Pour tout x € [0,n], on pose
+TU)(x) = "zz 'Jtf(t)dt + {[7( t)f (t)dt. a) Calculer (T(f))'(x) puis (T6))"(x). b)  En déduire que pour tout x € [0,n], S(f)(x) s'écrit sous la forme
+Sf(x) = K(x,t)f (t)dt
+{(r-x) si 0 <t <x , x(r-t) si 0 < x < t < T
+où
+K(x,t)
+2/ a) Vérifier que pour tous X ,t € [0,n], on a IK (x,t)| < %-2
+b) En déduire que pour f € E IIs(f)llc < 4 Ilfllz
+3/ a) Calculer J (K(x,5 t))z  dt
+b) Soit f € E Montrer que pour tout x € [0,n], on a x(I-x) Is(f)(x)l < Ilfllz V31
+13/2 c) Conclure que Ils(f)llæ < 4v5 Ilfllz

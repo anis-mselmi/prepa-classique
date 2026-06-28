@@ -1,5 +1,146 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE 4is 4x Ministère de PEnseignement Yli Nji Supérieur {,ij, Concours Yationaur d'Entrée aux Cycles Usijuj > sliji de Formation d'Ingénieurs Duij jse>j Scssion : 206 17 20066,> Concours Mathématiques et Physique 7 229 ` , Epreuve de Chimie  2 Date Mardi 6 juin 2006 Heure 8 Durée : 2h Nbre de_pages : 6
+Problème I Partie B 5,00 Partie € 3,50
+Problème I Partie A 4,75 Partie B 5,00
+Barème/20
+Partie A :1,75
+Cet énoncé comporte pages de texte et deux documents annexes à rendre avec la copie.
+Les candidats sont priés de présenter leurs réponses dans l'ordre même de l'énoncé. L'usage des calculatrices électroniques de poche non programmables est autorisé Aucun échange n'est autorisé entre les candidats:
+DEBUT DE LENONCE Données Numéro atomique du chrome (Cr) : Z = 24 Nombre d Avogadro NA = 6,023*1023 mol-1 Constante des gaz parfaits R = 8,314 J. K' mol-1 Masses molaires atomiques en (g.mol-') : W : 183,8 ; 0 : 16,0 ; Si 28,1 Rayons ioniques en (A) : 5o =1,40; I W6 + = 0,62 Thermochimie: A T=298 K  Composés O2(g) WOz(sd) W(sa) 4 IH? (kJmol-1) 0 -842,7 0 S (JK =1 mol-1 ) 205,0 75,9 32,6
+Problème I : (10,25 pts)
+Partie A 2 (1,75 pts) On considère les éléments chimiques chrome K Cr > molybdène K Mo > et tungstène K( W > appartenant  respectivement au même groupe et à des périodes  successives et croissantes . A-1) Ecrire la configuration électronique du chrome. A-la) Encadrer les sous-couches de valence . A-Ib) Donner le nombre délectrons de valence A-Ic) A quelle période (ligne) appartient le chrome ? A-2) Déduire le numéro atomique de chacun des éléments < Mo ) et < W > Tournez la page S.V.P
+Concours Mathématiques et Physique Session Juin 2006
+Epreuve de Chimie
+Page 1/6
 
+--- page 2 ---
+A-3) Dans certains de ses composés, le tungstène présente les états doxydation (+IV) et (+VI), quelle est la formule de   Toxyde de tungstène   correspondant à chaque état doxydation ?
+Partie B : (5,00 pts) Le   tungstène cristallise dans le réseau cubique centré avec un paramètre   de maille a = 3,178. B-1 ) Faire un schéma en perspective de la maille élémentaire et de son contenu: B-2) Dessiner dans cette maille le plan réticulaire de la famille (110) le plus proche de Torigine B-3) Etablir [expression puis calculer, la plus courte distance dw-w entre deux atomes de tungstène. B-4) B-4a) Donner la définition de la coordinence (ou indice de coordination) dun atome B-4b) Quelle est la coordinence de tungstène ? B-5) Etablir ]expression puis calculer B-5a) la compacité du réseau du tungstène . B-5b) la masse volumique du tungstène. B-6) B-6a) Préciser la position des sites octaédriques: B-6b) Quel est le nombre de ces sites par maille élémentaire ? B-6c) Représenter sur un autre schéma de la maille élémentaire le centre dun seul site octaédrique et montrer par le calcul qu'il s'agit dun site déformé. B-7) Etablir [expression puis calculer la valeur de /angle de diffraction du premier ordre par la famille de plans (110), sachant que la longueur donde des rayons X utilisée est égale à 1,54 a
+Partie C : (3,50 pts) L'oxyde de tungstène WO; cristallise dans le système cubique de paramètre K a1 > Les ions tungstène occupent les sommets du cube et les ions oxygène le milieu de chaque arête C-1) C-la) Faire un schéma en perspective de la maille élémentaire et de son contenu:. C-Ib) Vérifier la formule  chimique de Toxyde de tungstène en déterminant le contenu de la maille C-2) Déterminer la coordinence de chaque ion en précisant la forme de son polyèdre de coordination. C-3) En supposant qu'il y a contact anion-cation; établir /expression puis calculer C-3a) Le paramètre < a1 > de la maille C-3b) La compacité de loxyde de tungstène. C-3c) La masse volumique de cet oxyde.
+Concours Mathématiques et Physique Session Juin 2006
+Epreuve de Chimie
+Page 2/6
 
+--- page 3 ---
+Problème I : (9,75pts)
+8es Josanruf #:u? . racocorcleo 4; ; 9 0,0 B/6 Llo;#equs Uf
+Partie A 2 Diagramme &Ellingham: (4,75 pts) On se propose de construire   le   diagramme  d Ellingham du   tungstène et détudier la réduction de son oxyde WO3(sd) par le dihydrogène dans 1intervalle de température allant de 500 à 1500 K A-1) Rappeler les approximations d*Ellingham:. A-2) A-2a) Ecrire ]équation de la réaction doxydation du tungstène Wasd) en oxyde de tungstène (~VI) WOs(sd) pour une mole de dioxygène, équation notée (1) A-2b) Exprimer la variation denthalpie libre standard A,GP1 de cette réaction en fonction de la température A-3) A-3a) Représenter le diagramme dEllingham indexé du couple WO3(sdyWsd) dans Fintervalle détude (document annexe 1 à rendre avec la copie) A-3b) Tracer; sur le même graphe le diagramme dEllingham indexé correspondant à la réaction 2Hz(g) +02(g ) =2H,O(g) (2) 4,G? = ~483,6+0,0889x T (kJmol-') Où T désigne la température en kelvin_ A-4) On envisage la réduction de WO3(sd) en W(sd)  par le  dihydrogène Hz(g) avec la formation de HzO(g) A-4a) Ecrire ]équation bilan de la réaction de réduction envisagée relative à une mole de WO3(sd); équation notée (3) A-4b) Calculer la température dinversion de léquilibre (3) puis comparer la valeur trouvée à celle déduite graphiquement. A-4c) Donner le domaine de température pour lequel loxyde de tungstène WO3(sd) est réductible par le dihydrogène . A-4d) On opère à la température de 1500 K, établir 1expression puis calculer la constante déquilibre relative à la réaction (3) A-4e) Dans un four maintenu à 1500 K on introduit du dihydrogène sur loxyde de tungstene WOs(sd) La pression totale est de 1 bar , déterminer la pression partielle des différentes espèces gazeuses présentes à léquilibre .
+Tournez la page SVP
+Concours Mathématiques et Physique Session Juin 2006
+Epreuve de Chimie
+Page 3/6
 
+--- page 4 ---
+Partie B : Diagramme binaire 2 (5,00 pts) Soit le diagramme déquilibre  liquide-solide du système silicium (Si)-tungstène (W) à pression constante (P = Ibar) .
+P=Ibar
+3500
+3500
+HT
+3000
+3000
+IV
+2 2500 2
+2500
+2287.
+E
+2300
+2208
+E
+2000
+2000
+YI
+VII
+1680
++620
+8
+1500
+1500
+0,0 Si
+0,1
+0,2
+0,3 0,4 C
+0,5
+0,6 0,7 Cz Fraction molaire
+0,8
+0,9
+1,0 W
+B-1) Déterminer la formule chimique de chacun des composés intermédiaires C1 et Cz et définir la (les) solution(s) solide(s) éventuelle(s) B-2) Indiquer sur le diagramme (annexe 2 à rendre avec la copie) les phases en équilibre en présence dans chacun des sept domaines (notés I à VII) B-3) On refroidit un mélange   liquide de 2,80 g de silicium et 4,59 g de tungstène préalablement porté à 24OOK, jusqu'à 2OOOK . Après filtration; on obtient un liquide L et un solide $. B-3a) Le point M représente ce mélange à T = 2OOOK i) Représenter sa position sur le diagramme (annexe 2 à rendre avec la copie) . ii) Quelle est la nature du solide S iii) Déterminer la fraction molaire du silicium dans le liquide L notée Xsi L iv) Calculer à cette température; la quantité de matière du liquide L_ v) Déduire à cette température, la quantité de matière du solide $ B-3b) Tracer lallure de la courbe de refroidissement relative à la température en fonction du temps pour ce mélange de 240OK à I5OOK. Donner pour chaque tronçon de la courbe et pour chaque rupture (ou changement) de pente Les phases en présence La transformation correspondante . FIN DE LENONCE
+FIN DE LEPREUVE
+Concours Mathématiques et Physique Session Juin 2006
+Epreuve de Chimie
+Page 4/6
 
+--- page 5 ---
+REPUBLIQUE TUNISIENE Concours Nationaux dEntrée aux Cycles de Formation MINISTERE dIngénieurs DE LENSEIGNEMENT SUPERIEUR Session Concours Epreuve de Neren Nom Prénom (s éctixeic Institution dorigine
+Signature ds surveillants
+Identifiant
+Série
+DOCUMENT ANNEXE 1 (ARENDREAVEC LACOPE)
+Never Écrireic
+; -290
+8
+'
+8
+;
+'
+'
+'
+'
+' '
+-310
+-330
+350
+370 1 -390 410
+430
+450
+470
+2490
+T(K)
+Diagramme dEllingham
+Concours Mathématiques et Physique Session Juin 2006
+Epreuve de Chimie
+Page 5/6
 
+--- page 6 ---
+`    NE RIEN ECRRRE ICI 
+Nerie écrireid
+DOCUMENT ANNEXE 2
+P=Ibar
+3500
+3500
+HI
+3000
+L 1394
+3000
+HI
+IV
+g 2500
+2500
+C24 L 2287
+Y
+E,
+2300
+2298 #F C a 1C2 H
+2000
+C VII 8 0
+2000
+1680
+1500
+E
+1620
+1500
+0,0 Si
+0,1
+0,2
+0,3 04 C
+0,5
+0,6 0,7 Cz
+0,8
+0,9
+1,0 W
+Fraction molaire
+Diagramme déquilibre liquide solide du système silicium tungstene
+Concours Mathématiques et Physique Session Juin 2006
+Epreuve de Chimie
+Page 6/6
+L+e9+

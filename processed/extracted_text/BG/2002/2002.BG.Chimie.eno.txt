@@ -1,3 +1,81 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNF Ministère de PEnseignement Supérieur
+Concours Nationaux FEntrée a4X Cycles de Formation d'Ingénieurs Session: Juin 2002
+Concours Biologie-Géologie Epreuve de Chimie
+Date Mardi 4 Juin 2002
+Heure
+8 H
+Duréc : 3 Heures
+Nbre pages 5
+Barème
+120
+Partie A
+12 points
+Partie B : 8 points
+Les candidats sont tenus de justifier leurs réponses au moins en quelques lignes,
+Les parties A el@ doivent être talees sur deux copies séparées:
+PARIIE
+PROBLÈME 1
+19) Décrre brièvement le principe de Fosmométrie 29) A partir de /'égalité des potentiels chimiques du solvant A pur et du solvant 4 dans {a solution , démontrer que pour une solution idéale diluée la pression osmotique I de la solution est donnée par RT Ia relation: I 8 ~ XB 4> où R désigne Ja constante des gaz parfaits; YA {e volume molaire du solvant pur supposé indépendant de la pression et XB la fraction molaire du soluté B
+3") Déduire Pour uiC solution diluéc et idéale les deux relationS Suivantes: RT a)I RE 5 0x A et nB sont les quantîtés de matière de A etde B; VA {YA b) Il = CBRT où Cg estla concentration molaire du soluté B
+49) Application: Calculer Ia pression osmotique dune solution réalisée par dissolution de 0.9018 g de glucose C6H1206 dans 500 gd eau à 25 C et sous {a pression de latn
+Données: R (constante des gaz parfaits) = 82,06 2m3 atnt moe~[ KI Masses Molaires en (g.mol-1): C6H1206 180,16 et H20 = 18,015 Masse volumique de Veau à 2S"C et sous la pression de 1 aun p = 0,99704 g cin
+Concours Biolvgic-Géologic Jurn ~00 2 Epteuyc de Chimie
+pugc
+oephratoipe Berr2z) E725  fssp
 
+--- page 2 ---
+PROBLÈME I
+Données:
+(2,3 RT)YF = 0,06 volr à 25'C. Potentiels normaux (standards) d'électrode en volt: E'(H3O+IH2) = 0; E% {Ag+fAg(sd)} 0,8 Constante de dissociation du complexe {Ag(NH3)2/+ Kd = 6,3.10-8
+A )  Considérons la pile symbolisée par: Pt | Hz (PHz )HCI(c. moLL-I)l AgCl (sa,| Ag (sd) où Prz représente la pression du dihydrogène et c la molarité de la solution d'acide chlorhydrique. A1) Quelle particulanté présente cette pile ? A2) Ecrire l'équation chimnique de la réaction associée à cette pile. 43) Quelle est ] 'expression dela force électromotrice de cette pile ?
+A4) Etablir la relaton existant entre les potentiels normaux d'électrode des couples Ag +IAg(sd) et AgCl (sd) /Ag (sd) et le produit de solubilité Ks du chlorure d'argent AgCl solide
+A5) Déteriner la valeur du produit de solubilité Ks sachant que la force électromiotrice de cctte Pile est égale à 0,22 V quand F'électrode de gauche est une électrode normale à hydrogène.
+B ) On prépare un système S1 en introduisant 10-4 mol de AgCI solide dans 50 cm3 dcau
+B1)   Que se passe-t-il ? la solution existant dans S1 est-elle non saturée 2 sarurée ? sursaturée 2 Quelles sont les concentrations molaires de Ag+ et de Cl- dans la solution obtenue à /'équilibre ?
+B2) On ajoute au système précédent 0,005 mol de chlorure de sodiun solide à volume constant. a) Que se passe t-;? b) Calculer la solubilité de AgCl dans ces conditions
+C) Qn considère un systêne S2 formé de !00 cu3 d'une soluticn saturée de chlorre 4' arsent er contact avec 0,01 mol de AgCI solide. Quelle doit être la quantité minîmale d'ammoniac qu'il faut ajouter pour dissoudre complétement le solide ? PROBLÈME IU
+On prépare, à une tenpérature supérieure à 2009C, le tétrafluorure d'uranium UF4 solide à partir de Foxyde d'uranium UO2 etdu fluorure d'hydrogène HF selon la réaction UO2 (sa) 4 HF (g UF4 (sd) + 2 H20 (g) GL} Les deux solides UO2 et UF4 sont totalernent non miscibles:
+4) On considère des systèmes contenant uniquement les quatre constituânts écrits dans ['équation chimique, A1) Les fractions molaires de UO2 (sd) et de UF4 (su) varient-elles quand ces systèmes évoluent ?
+A2) a) Calculerla variance. b)Peut-on choisir arbitrairement:
+Concours Biologie-Géologic: Juin 200 2 Eprcuvc dc Chimie
+Rasc
 
+--- page 3 ---
+2 ment sc ~ E 8 1 ; 0 9 % déplace l' peut-on  7 Vaddition à ; diminution 1 b) Fun { certaine % : prévoir certaine gaz inerte 4 9 9 J; température . Px 4 mo} . 9 quantité , constante _ mol de 8e place température % c échantillon ; 7 7 4 9 etégale 8 5 celte 5 Y 4 montre 7 2 % 'pérature " ' 10-3 mol  % température constante que 'H2O)u(HF) ce 0 solide mol , 5 n(H2O)n(HP) % 0 et s éaction considère est ' 5 0 et 2 nJo, rapport rà Péquilibre 1 étudiée soumis et 1 rapport r 7 ; température 8 raison elle varie 7 { 300  € ; 1 | 2 "ctions opère-t-on à rendement 4 molaires %e 1 04, tempéra. npératures une % température réaction  % H20 | 4 % 20OPCct de 30O C. HF supérieure est-il meilleur ? C2 fonction 9 ZOO C ? 8 rapport
+3 Partz 
 
+--- page 4 ---
+COOH (R) EtOH "w CHs 12ST4 H OH 'Wii CHz (R) CH; (7 CH;
+COEt
+(R) CH2OH KMnO , conc: w CH3 à chaud H
+(R} " CH3 K
+B:
+(R) COEt 44 CHs H
+1- CHzMg [ en excès 2- HsO
+EtOH
+H K:
+OH S}i CH; (R) CH; " CH; K  H
+HzC
+HC
+CH;
+(R) Wj} CH H Luinonitaire)
+H2SO 4 à chaud
+L
+CH;
+b- Mécanisme réactionnel de létape K donne 2+5
+Déshydratation des alcools en milieu acide: Elinination de type Ei
+OH Aviiil  CH; CHs H2SO, wuCH; H (R)
+@ote 'Iift CHz 8 tt CH; CH; CH3 Iente " CH; "! CH; H2O H intermédiaire carbocaton tertiaire slable
+2 H
+HzC
+HsC
+Ku CH2 CII; rapidc 'CH: H selon 1
+CH3
+(R) "x CH,
+CH; L
+{I
+selon 2
+L' minoritaire)
+Question 2: 8 - Formule semi-développée des composes MXE Qet Q
+Concours Biologie-Géologic Session dc Juin 2002- Corieé

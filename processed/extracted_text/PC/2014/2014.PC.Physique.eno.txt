@@ -1,6 +1,90 @@
+--- page 1 ---
+Haail 4 adajl aell _ A+l allrllalallyl)s Jliyls #lalzall Lsalsi2js
+REPUBLIQUE TUNISIENNE Ministère de FEnscignement Supéricur, de la Recherche Scientifique, des Technologies de FInformation et de la Communication
+Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs Session 2014
+diw uuaj) 2al elini ihuni issjalyj 2014 619
+Concours Physique-Chimie Epreuve de Physique
+Date Jeudi 05 Juin 2014
+Heure 8 HOo
+Durée 4 H
+Nbre pages 07
+Barème
+Problème 1 13 pts
+Problème 2 : 07 pts
+L'usage dune calculatrice non programmable_est autorisé
+L'épreuve comporte deux problèmes   indépendants; le candidat peut les résoudre dans lordre qui lui convient, en respectant néanmoins la numérotation des questions. Un candidat peut toujours se servir dun résultat fourni par lénoncé pour continuer sa composition:
+PROBLEME N'1
+Données
+Vitesse de la lumière dans le vide c = 3.108ms Constante universelle de la gravitation G = 6,67.10" SI Masse du Soleil Ms =1,99.10*kg _ Rayon de la trajectoire circulaire décrite par la Terre autour du Soleil dst = 1,50.10" m Champ de gravitation du Soleil supposé sphérique GMs r T=ST vecteur position séparant les centres du Soleil $ et de la Terre T. sin(p) +sin(q) = 2sin( P+9 cos P-9
+Lespace est rapporté   au repère  orthonormé direct (Oxyz) de base (5x, /0y' 5z Le vide est caractérisé par sa permittivité électrique € et sa perméabilité magnétique Ho -
+I- Préliminaires
+1- Ecrire les équations de  Maxwell qui régissent   les champs  électrique   E(M,t)et magnétique B(M,t) dans le vide, en présence de charges de densité volumique p(M,t) et de courants de densité volumique J(M;t) , en précisant brièvement leur signification physique. 2- Citer les caractéristiques dun conducteur parfait. 3- Rappeler les relations de passage des champs électrique et magnétique à Finterface séparant un milieu conducteur parfait du vide 4- Donner la structure dune onde électromagnétique plane; progressive, monochromatique dans le vide.
+Concours Physiquc-Chimie -Session Juin 2014
+Epreuve de Physique
+Page 1 sur
 
+--- page 2 ---
+II- Réflexion sur un conducteur parfait et pression de radiation On considère un conducteur parfait occupant la région de lespace X > 0 Sa surface plane X = 0 est en contact avec Vair qu'on assimile au vide On envisage la réflexion dune onde électromagnétique plane progressive monochromatique de pulsation () . Cette onde arrive sur Finterface   plane   vide-conducteur   parfait (plan X = 0 ) sous Fangle d'incidence €; (Figure 1). En notation complexe; le champ électrique correspondant s'écrit 5 (M,t) = Eo = expi(ot -k.7) , où Eo est une constante réelle positive:.
+5- On s 'intéresse à Fonde incidente . 5-1 - Donner Pexpression du vecteur donde k; 5-2- Déduire; en représentation complexe; le champ magnétique B; de Fonde incidente. Représenter, à un instant donné les vecteurs ki , E; et B; 5-3- Calculer les valeurs moyennes temporelles de la densité dénergie électromagnétique   (u em (M,t)) de Fonde incidente et  de son vecteur   de   Poynting (R; (M,t)) . Donner   la relation entre ces deux grandeurs. Commenter_ 6- On s'intéresse à /onde réfléchie
+air
+Interface X = 0
+Oz
+Conducteur   parfait
+Figure 1
+6-1- Justifier l'existence d'une onde réfléchie. Préciser sa pulsation et son vecteur d'onde k 6-2- Ecrire les expressions des champs 0  (M,t) et @ (M,t) . 7- Déterminer le champ électrique   E(M,t) résultant   de la superposition   des  ondes incidente et réfléchie. Commenter sa structure 8- Déterminer les densités surfaciques de charge œ(P,t)et de courant  Js(P,t) qui apparaissent en tout point P de la surface du conducteur parfait. 9- La force électromagnétique élémentaire  dF em (P;t) s'exerçant sur un élément de surface dS de ce conducteur parfait s'écrit dF (P,t) = 0 É(x = O,y,t)dS 7 J,^ B(x =O,y,t) dS . 2 9-1- Justifier la présence du facteur 2 9-2- Déterminer ['expression de dFem (P;t) em 10- En déduire la pression de radiation électromagnétique donnée dans ce cas par dF em (Pt) Pem en fonction de Eo et de €; Justifier cette appellation- dS
+Concours Physique-Chimie Session Juin 2014
+Epreuve de Physique
+Page 2 sur 7
 
+--- page 3 ---
+11- La Terre décrit autour du Soleil, de centre S, une trajectoire   supposée circulaire de rayon dsr = 1,50.10" m Elle   reçoit une puissance de  rayonnement   solaire par   unité  de   surface lRs %/ = 0,15.10' Wm On suppose que lémission solaire se fait dune manière isotrope et on néglige labsorption du rayonnement solaire lors de la propagation. 11-1- Calculer littéralement puis numériquement la puissance totale $ du rayonnement électromagnétique solaire à travers une sphère de rayon r = dsf et de centre $ 11-2- Montrer que la pression de radiation solaire Pcm à laquelle est soumis un récepteur de petites dimensions, parfaitement réfléchissant et recevant le rayonnement solaire sous langle dincidence €;
+s'écrit Pemn
+em dS
+cos? 0; Préciser les approximations adoptées Zrcr?
+12- Application Déviation de la queue de certaines comètes On considère un récepteur constitué d'une particule sphérique de centre C et de rayon a, de masse volumique P , se trouvant à la distance [ = dsT du Soleil tel que dsr >> a (Figure 2) La particule est supposée parfaitement réfléchissante_
+Rayonnement solaire
+Récepteur
+Soleil
+SC=r us
+Figure 2
+12-1- Montrer que la valeur moyenne de la force FR due au rayonnement solaire que subit la particule peut s'écrire sous la forme FR 4cr? Gs 12-2- Déterminer la force de gravitation FG qu' 'exerce le Soleil sur la particule 12-3- A partir de quelle valeur % du rayon de la particule a-t-on Ii;lz/i,| ? Application numérique Calculer a pour p =103 kg m 12-4- Lobservation astronomique de la queue de certaines comètes mis en évidence leur répulsion par le Soleil. Justifier, à partir du résultat précédent; la déviation de la queue d'une comète formée par des poussières et des gaz. III- Réflexion sur un milieu diélectrique Une onde électromagnétique plane progressive monochromatique de pulsation 0, polarisée dans le plan dincidence (Oxy) arive sous un angle d'incidence 0; sur le dioptre plan (Oyz) . Cette interface sépare deux milieux diélectriques linéaires; homogènes; isotropes et transparents d'indices réels respectifs n, et n, (n2 > n,) . Elle donne naissance à une onde réfléchie et une onde transmise se propageant respectivement suivant les directions des vecteurs unitaires = et 4 On note €, et 9 les angles de réflexion et de réfraction des ondes électromagnétiques (Figure 3) En notation complexe; le champ électrique associé à londe incidente s'écrit E(M,t) =Eo exp i(ot-kf), où Eo = Eo (~sin0; < +cose; v
+Concours Physique-Chimie -Session Juin 2014
+Epreuve de Physique
+Page 3 sur
 
+--- page 4 ---
+On note @r (M,t) = Eo expi(ot-k,f)et E (M,t) = Ev expi(ot-k,.f) les champs électriques des ondes réfléchie et transmise . On admettra que la surface de séparation x = 0 est dépourvue de charge et de courant libres.
+13-  Rappeler   les   lois de Descartes   relatives àla réflexion et à la transmission à Finterface X = 0 14- Donner les expressions des vecteurs dondes des ondes incidente, réfléchie et transmise respectivement (n k; , k; et k, (nz 15- Ecrire Pexpression du champ électrique E; (M,t) de Fonde incidente dans la base (1x,4,,4z En déduire le champ magnétique B; (M,t) correspondant.
+er
+Figure 3
+16- En utilisant les relations de continuité des champs électriques et magnétiques à Vinterface x = 0 séparant   les  deux milieux   diélectriques; on montre   que les   amplitudes  des champs électriques E (M,t) et E(M,t)des ondes réfléchie et transmise s'écrivent respectivement n2 cos0; ~n, cos 0 2 n, cos0; Eor Eo et Eot Eo nz cos 8; +n cos0 n2 cos 0; +n1 cos 0, 16-1- Déterminer  les coefficients   de réflexion Tn et de transmission   t1 en amplitude du champ électrique polarisé parallèlement au plan dincidence. 16-2- Déduire les expressions des composantes des champs électriques E, et E, et magnétiques B, et B 17- Déterminer les vecteurs densités de flux dénergie æ;,æ, et 6, associés respectivement aux ondes incidente; réfléchie et transmise à Finterface X = 0 Quelles sont les expressions des facteurs de réflexion R" et de transmission Tu en énergie. Montrer que Ru +Tn =1 . Interpréter cette relation. 18- Montrer qu'il existe un angle dincidence particulier; appelé angle de Brewster 02 tel que /'onde réfléchie n'existe pas et donner son expression en fonction des indices de réfraction n;et n2  19- Pour interpréter physiquement la polarisation lors de la réflexion vitreuse sous langle dincidence de Brewster   €B on adopte le modèle suivant Ponde électromagnétique incidente pénètre dans le milieu (2) en se réfractant ; elle Y excite des dipôles oscillants dont le rayonnement   crée londe réfléchie. En cherchant une condition pour que ces dipôles ne rayonnent pas dans la direction de Ponde réfléchie, retrouver ]expression de langle dincidence de Brewster @B 20- Calculer [angle €B pour linterface air verre. On donne nair =1 et nvere = 1,54 _ 21 - Sachant   que, pour 0; = 8B le   cœfficient de   réflexion en énergie RL relatif à une onde électromagnétique polarisée perpendiculairement au plan d'incidence (Oxy) n'est pas nul, sa valeur, n cos0; n2 cos0 pour un angle dincidence @; quelconque; est donnée par R1 n; cos 0; +n2 cos0 Pour une onde   électromagnétique non polarisée ou naturelle, quel est lintérêt   pratique   de ce dispositif ? Concours Physique-Chimie ~Session Juin 2014 Epreuve de Physique Page 4 sur 7
 
+--- page 5 ---
+PROBLEME N%2
+Données numériques Pression atmosphérique : Po =1 bar Masse volumique de 1eau liquide Po =1000 kg m Viscosité dynamique de leau n = 1,010-3 poiseuille (Pl) _ Champ de pesanteur terrestre g =9,8 m s 2 I- Changement détat solide-liquide On s'intéresse aux deux états liquide et solide dun corps pur, Les variables détat sont la pression P, la température absolue T et le volume massique v. 1- Tracer Fallure du diagramme détat (T,P)dun corps pur quelconque: Que représentent les courbes décrivant ce diagramme; les domaines qu'elles délimitent; les points remarquables ? Dans le cas de Peau; la pente de la courbe de léquilibre solide-liquide est négative. Commenter 2- Préciser le potentiel thermodynamique permettant de décrire 1évolution de changement de phase dun corps pur. Quelle est la condition thermodynamique déquilibre entre deux phases (a) et (b) à pression et température données Établir 1équation de Clapeyron relative à la courbe traduisant Féquilibre solide-liquide. 3- On s'intéresse à linfluence de la pression sur léquilibre solide-liquide de Veau: A une température 0 C, sous la pression Po = 1 bar Penthalpie massique de fusion vaut AhF LF =3,33.105 J kg et les volumes massiques du   liquide et du solide valent respectivement V =1,00.10-'m kg et Vs =1,09.10-'m' kg 3-1- Calculer la pente de la courbe déquilibre solide-liquide au point considéré. 3-2- Estimer la température de fusion de la glace au fond dune fosse océanique; à une pression de Fordre de 1000 bars . Commenter .
+Dans la suite, on étudie le champ de pression de Peau liquide située dans un champ de pesanteur uniforme et en contact avec 1' 'atmosphère à la pression Po La température de leau est supposée uniforme. On désigne par Oz laxe vertical orienté vers le haut; avec lorigine à la surface libre du liquide 4- Rappeler sans démonstration léquation locale de la statique des fluides en équilibre hydrostatique dans le champ de pesanteur En déduire Fexpression du champ de pression P(z) dans F'océan en précisant les hypothèses faites. 5- Application   numérique justifier   qu'une hauteur  de 10   mètres deau est   équivalent une augmentation de pression égale à la pression atmosphérique. Le champ de pesanteur à la surface de la Terre est g =9,8 m s
+ôV 6- Le coefficient de compressibilité   isotherme Xr de Peau liquide la   température ôP ambiante est Xr =5. 10-1 Pa Estimer la diminution relative du volume massique de Peau à 40 m de profondeur. Commenter la valeur obtenue_ Proche de la côte méditerranéenne; en pleine mer, se manifeste une source deau douce, issue dun tuyau branché à 36 m plus bas. Il n'y a ni système de pompage ni forage leau douce, moins dense que l'eau de mer, remonte naturellement à la surface.
+Concours Physique-Chimie ~Session Juin 2014
+Epreuve de Physique
+Page 5 sur 7
 
+--- page 6 ---
+Pour expliquer ce phénomène naturel, on s'intéresse à la circulation de Teau, en régime permanent, dans un tuyau cylindrique vertical rigide de section circulaire uniforme; de rayon R. L'axe du cylindre est confondu avec laxe vertical Oz On se place dans le cas où la loi de Poiseuille est vérifiée. 7- Représenter ['allure du module de la vitesse de leau en fonction de la distance r à laxe du cylindre; selon que Von considère ce fluide est réel ou parfait. Commenter. On expliquera qualitativement la notion de viscosité. 8- On s'intéresse à lécoulement du fluide de masse volumique P et de viscosité dynamique n dans la conduite cylindrique de longueur L. Rappeler la Ioi de Poiseuille reliant le débit volumique Dv à la différence de pression AP entre le bas et le haut du cylindre AP = P(z)-P(z+L) _ Préciser les conditions de validité de cette loi 9-1- Commenter le cas où la différence de pression AP est égale à : AP =pgL 9-2- Calculer la quantité   AP pgL nécessaire pour que 1eau douce puisse jaillir à la surface libre de la mer à partir dune source sous-marine située à une profondeur de 30 mètres sous la surface libre de la mer et dont le débit est D =0,10. m On donne rayon de la conduite R =25 cm et la viscosité dynamique moyenne de Peau de mer 9 =1,0.10 'Pl _ 9-3- Calculer la vitesse moyenne de cet écoulement deau douce ainsi que le nombre de Reynolds correspondant. Conclure:
+II- Changement détat liquide-gaz Données numériques Capacité thermique massique de Teau liquide cq = 4180 J kg -'K-' Enthalpie massique de vaporisation de Peau (100PC,1 bar) _ Lvap = 2,24106 'Jkg Masse molaire de leau M=18 g mol
+eau 374 'C
+propane 98  C 42 %C 7bars
+Tc Iv sous bar à 20  C sat Plq (kgm
+100
+515
+Où Ic et Tv sont respectivement la température critique et la température de vaporisation du corps pur considéré P est la pression de sa vapeur saturante et Plq est la masse volumique du corps pur à Fétat liquide; supposée indépendante de la température et de la pression. On s'intéresse aux   deux   états  liquide et gaz dun corps pur. Les   variables détat sont la pression P, la température absolue T et le volume massique v. On note (Pc, Ic;Vc)les coordonnées du point critique du corps pur. 10- Représenter dans le diagramme de Clapeyron (P;v) les transformations isothermes dun fluide, en illustrant et en expliquant   rapidement les notions suivantes mélange diphasé,   palier de changement d'état; courbe de rosée, courbe d'ébullition et point critique.
+Concours Physique-Chimie ~Session Juin 2014
+Epreuve de Physique
+Page 6 sur
 
+--- page 7 ---
+11- Exprimer  les   variations  denthalpie massique Ah et dentropie massique As associées à une transition liquide-vapeur Effectuer et commenter les applications numériques dans le cas de Veau pour une température de 100 C 12- Quelle est lentropie massique créée lors de la vaporisation de Peau; initialement à l'état liquide; en contact avec un thermostat à la température 100'C sous la pression 1 bar ? III- Stockage des fluides 13- On se place à une température 20  C. Une bouteille ordinaire de propane est approximativement cylindrique de hauteur 35 cm et de diamètre 30 cm. Lorsque la bouteille est pleine, la masse du propane contenue dans cette bouteille est égale à 5 kg. On rappelle que la formule chimique du propane est C,H; et que les masses atomiques de carbone C et dhydrogène H sont Mc =12 g mol-' et MH =1 g mol-' 13-1- Déterminer la masse volumique Pvap du propane; considéré comme un gaz parfait; lorsqu'il est à la température 20 'C sous sa pression de vapeur saturante (voir tableau)  13-2- Déduire alors de la comparaison entre les trois valeurs Pliq Pvap et Pmoy masse  volumique moyenne du corps pur existant dans la bouteille; létat physique dans lequel se trouve ce corps pur Déterminer alors la pression dans la bouteille de propane. On rappelle que R =8,314 JK-'mol-E 14- Expliquer la présence dun détendeur ramenant le gaz à la pression atmosphérique dans les installations utilisant le propane gazeux 15- On constate qu'un débit prolongé du gaz peut entraîner la formation de givre au voisinage du détendeur. En admettant qu'à la sortie de la bouteille, le propane, assimilé à un gaz parfait; subit une évolution adiabatique et réversible_ Montrer qualitativement qu'il se produit un refroidissement au niveau du détendeur . On note y = >1, supposé constant; le rapport entre les capacités thermiques à pression constante et
+volume constant du gaz
+Fin de lépreuve
+Concours Physique-Chimie -Session Juin 2014
+Epreuve de Physique
+Page 7 sur 7

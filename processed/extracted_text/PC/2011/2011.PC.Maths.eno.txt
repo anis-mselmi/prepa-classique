@@ -1,3 +1,86 @@
+--- page 1 ---
+49a1491 &Wvstlass 8494 5 Jeqll aholl ol,Llial "ag1ilJi WnAR 201102
+REPUBLIQUE TUNISIENNE Minisere & |Emlkneoxni Supérkur etde U Rechreh Scieptifiquc Concours Nationaux d'Entrir aux Cyde de Formation d'Inginiars Session 2011
+Concours Physique et Chimie Epreuve de Mathématiques Date: Lundi 13 Juin 2011 Heure: 8H Durée: 4H Nbre pages:
+Barème: Partie I: 5,5 pts, Partie II: 6,5 pts, Partie III: 8 pts
+La qualité de la rédaction, le soin de la présentation et la rigueur des raisonnements constitueront des éléments Il est rappelé que tout résultat énoncé dans le texte peut être utilisé importants pour l'appréciation des copies traiter la suite, même s'il n'a pu être démontré. L'usage de tout ouvrage de référence et de tout autre pour matériel électronique est strictement interdit.
+Partie I 100 sin? t Le but de cette partie est de calculer les intégrales dt et Soit la fonction +00 sin? t h(z) e-It dt
+Foo sin t dt
+Montrer que h est bien définie et continue sur [0, +0[ (a) Montrer que h est de classe C2 sur J0, +o[ et que; pour tout æ > 0, +00 h"(r) e-It cos(2t) dt . 2x 2 Jo (nstitut Phef (b)  Montrer que, pour tout I > 0, 'Anaiuire @IBUOTHEQUE) +00 1TUDES e-It cos(2t) dt = 12 +4' DugEnue SH
+(c) En déduire que, pour tout æ > 0,
+W(z)
+In I = In(I2 + 4).
+d) Montrer de même que, pour tout r > 0,
+12 In 12 + 4 arctan(2) + 2
+h(z)
+(a) En déduire que
++00 sin? t dt =
+Concours Physique et Chimie- Session Juin 2011 Épreuve de Mathématiques
+Page 1/4
 
+--- page 2 ---
+(b) Montrer que
++o sin? t dt = t2
++00 sin t dt
+Partie II
+Le but de cette partie est de calculer  entre autres les sommmes  suivantes: (sin ") et T=1 +o sin n
+n=l
+Soit + la fonction de la variable réelle t, 2T-périodique et telle que:
+Vt € [~T,T[, s(t) = 2 It| 
+On note Sp(t) la série de Fourier de 4 a) Préciser pourquoi + est égale en tout point de R à la somme de sa série de Fourier Sp(t). (b) Calculer les coefficients de Fourier réels an(,) et bn(+). (c) En déduire que +0 4cos((2k 1)t) Sp(t) = T(2k = 1)2 k=1 Calculer les somme suivantes:
++oo
++00
+Foo (1)- iii) n2 n=1
+(2k _ 1)2 k=1
+ii) En? Tl=1
+3. Calculer:
++0
++o0 ii) 1 n=1
+i) 22k 1)4 k=1
+On note la primitive de + telle que <(0) = 0.
+(a) Montrer que $ est impaire et périodique de période 2" (b) Calculer les coefficients de Fourier réels an $ et bn($) de $, puis sa série de Fourier (c) En déduire les sommes suivantes:
++oo
++00 ii) n6 n=]
+(2k k=l
+Soit f la fonction dune   variable réelle, 2r-périodique, impaire et telle que, POUI tout ejo; 7], on a: f(t) =
+a) Calculer les coefficients de Fourier réels an(f) et bn(f) de la fonction f
+Concours Physique et Chimie- Session Juin 2011 Épreuve de Mathématiques
+Page 2/4
 
+--- page 3 ---
+(b) Ecrire sa série de Fourier_
+sin n Montrer que la série numérique est convergente et que n2l
++o0 sin n
+T -1 2
+n=1
+On considère la fonction g, 27-périodique; impaire et définie sur J0, 7] par:
+tf(1) si t ejo;1}, g(t) = f(t) si + € [1, T]
+(a) Calculer les coefficients de Fourier réels an(g) et bn(g) de la fonction g (b) En déduire que sa série de Fourier S,(t) est égale à
++oo sin(n) sin(nt)- n2 n=1
+Sg(t)
+(c) Etudier la convergence normale de la série de Fourier de g (d) Montrer que Lo 'sin")? = Esin" n=I n=1 +oo Déduire la valeur de la somme '9s")? n= (e) Calculer les sommes suivantes:
+Too sin? n4 n=l
+Fo CoS2 7 74 n=l
+Partie III
+On note par Mn(R) lensemble des matrices carrées d'ordre n .
+Soit A une matrice de Mn(R). On dit qu'une matrice R de Mn(R) est une racine carrét de A si R2 A
+On note par Rac( A) Tensemble des racines carrées de A.
+Le problème propose de déterminer les racines carrées de A dans différents cas_
+Cas où possède valeurs propres distinctes On suppose que la matrice A € Mn(R) admet n valeurs propres réelles X1 X2
+An
+(a)
+Justifier Fexistence dune matrice P € Mn (R) inversible telle que A PDP-] où D diag( X1, X2 , An
+Concours Physique et Chimie -  Session Juin 2011 Épreuve de Mathématiques
+Page 3/
 
+--- page 4 ---
+ii_ Montrer que R est une racine carrée de Asi et seulement si la matrice S = P-1RP est une racine carrée de D b)  Racines carrées de D. Soit $ une racine carrée de D. Montrer que D et S commutent et en déduire que la matrice $ est diagonale_ On note alors $ = diag(s1, Sn). Que vaut s? lorsque i € {1, n}  iii Que peut-on dire de Rac(A) si A admet une valeur propre strictement négative? iv. Si on suppose que toutes Ies valeurs propres   de A sont   positives ou nulles , déterminer les racines carrées de la matrice D. On pourra poser €; {~1,1} pour i € {1, n} Ecrire toutes les racines carrées de à T'aide de la matrice P. Conbien de racines carrées la matrice A admet-elle? (On discutera selon le signe des valeurs propres de A) (d)   Application Ecrire dans M3(R) toutes les racines carrées de
+11 =5 ~5 =3 43
+A =
+Cas où A est la matrice nulle de Mn(R). On cherche dans ce cas à déterminer les racines carrées de la matrice nulle. Soit R € Mn(R); une racine carrée de la matrice nulle.  Soit f lendomorphisme de R" dont R est la matrice dans la base canonique de R" On note r le rang de f
+(a) Montrer que Im(f) € Ker(f) et en déduire que r < !- (b) On suppose que f est non nul; donc r 2 1. Soit (el, er une base de Im(f) que l'on complète avec (er+1, " en-r) pour former une base de Ker(f). Pour i € {1, r}  on note u; le vecteur tel que f(u;) =ei. Montrer que la famille B = (el, en-r: U1, Ur est une base de R" ii. Ecrire la matrice de f dans la base B. On notera Mr cette matrice. (c) Ecrire toutes les racines carrées dans Mn(R) de la matrice nulle à laide de Mr et d'une matrice inversible P (d)  Application Déterminer dans M4(R), les racines carrées de la matrice nulle. (On ne cherchera pas à calculer explicitement les coefficients de R )
+Cas où A = In la matrice unité de Mn(R) -
+(a) Soit R une racine carrée de la matrice unité In. Vérifier que R est une matrice inversible Montrer que R est semblable à une matrice diagonale que Ton décrira. (b) Déterminer Rac(In)
+Cas où A est une matrice symétrique réelle. Une matrice symétrique de Mn(R) admet-elle nécessairement une racine carrée?
+ncoUrS Physique et Chimie- Session Juin 2011 Épreuve de Mathématiques
+Page 4/4

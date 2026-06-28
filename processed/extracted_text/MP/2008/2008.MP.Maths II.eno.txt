@@ -1,3 +1,56 @@
+--- page 1 ---
+2si52/1 "kksluets Isobuxsb
+Rbpuanennsbne
+SiereDelDSAoKoOT BPeaR Elhaeasanne ETlutaan
+Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs Session Juin 2008
+Faand InstitUT OruoneQue Vu MSs . 6 s054
+Concours en Mathématiques et Physique
+Épreuve de Mathématiques II
+Durée 3HOo Barême Partie I : 6pts
+Date 7 Juin 2008 Partie II IOpts;
+Nombre de pages 4 Partie III 4pts
+L'usage des calculatrices est strictement interdit. Une grande importance sera attachée à la rigueur du raisonnement, à la clarté de la rédaction et au soin de la présentation. Il est rappelé que tout résultat énoncé dans le sujet peut être utilisé pour traiter la suite, même s'il n'a pu être démontré.
+Pour la suite E désigne un K-espace vectoriel de dimension finie n, avec K = R ou C. On note idE lapplication identique de E. Pour tout endomorphisme f de E, on note fo ' idF, et pour tout entier naturel k, fk+l = fk 0 f. On note L(E) Fespace des endomorphismes de E et Mn (K) Pespace des matrices dordre n à coefficients dans K On dit qu'un endomorphisme f de E est cyclique dordre p avec p € N' ; s'il existe @ € E vérifiant les trois conditions suivantes
+fP(a) = 0, la famille (a, f(a) la famille (a, f(a)
+fP-1 (a) est génératrice de E, fP-1 '(a)) est constituée déléments deux à deux distincts Dans ce cas la famille (a, f(a), fP-'(a)) est appelée un cycle de f .
+Partie [ (Etude dun exemple)
+Dans cette partie, E = K3 muni de sa base canonique B 2 (e1, e2,e3). On considère Vendo - =3 =2 =2 morphisme f de E de matrice A = 2 1 2 relativement à la base B 2
+1 a) Vérifier que B' = (e1, f(e1)  f2(e1)) est une base de E. b) Calculer f (e1) et en déduire la matrice de f relativement à la base B' . c) En déduire que f4 = idE. (On ne demande pas de calculer A4) d) En déduire que f est cyclique d'ordre 4 et que (e1,f(e1) f2(e1), f3(e1)) est un cycle de f
 
+--- page 2 ---
+2 a) Calculer le polynôme caractéristique de f b) Si K = C; donner un vecteur w non nul tel que f (w) iw (On notera w = W1 + iw2, avec w1 et w2 deux vecteurs à coefficients réels ) c) Calculer f (w1) et f (w2) et en déduire une base B1 = (v, v2, v3) de R3 telle que la matrice
+de f dans cette base est la matrice
+dans M;(R).
+3 Soit 4 une forme bilinéaire symétrique sur R' qui vérifie: w(f(z),f(y)) = 4(x, y), pour tous ,y € R3. a) Montrer que la base B1 est orthogonale par rapport à 4 b) Donner la matrice de w dans la base B1 en fonction de 4(01, %1) et w(v2, v2) . c) Donner une condition nécessaire et suffisante pour que 4 soit définie positive. d) On suppose que $ est définie positive. Si on se donne un endomorphisme 9 de R3 de matrice M relativement à la base B1, donner la matrice de lendomorphisme adjoint de 9 relativement à la base B1 .
+Partie II On considère dans cette partie un endomorphisme f de E cyclique dordre p et soit (a, f (a), fp-1(a)) un cycle de f - 1 Montrer que p 2 n 2 a) Montrer que pour tout k € N; fP(fk (a)) = fk(a) b) En déduire que fP = idE et que f est bijective. c) En déduire que si K = C et si X est une valeur propre de f, alors XP = 1 3 On note m le plus grand des entiers naturels k tel que la famille (a, f(a), fk-1(a)) est libre. On note Em le sous espace de E engendré par: (a, f (a) fm-1 '(a)) a) Montrer que fm(a) € Em: b) Montrer, par récurrence; que pour tout k 2 m; le vecteur fk(a) est dans Em' c) En déduire que la famille (a,f(a) f"-1(a)) est une base de E et que m =n d) En déduire que tout polynôme non nul qui annule f est de degré au moins égal à n n =1 4 On note @0,01, @n-1 les n nombres complexes tels que: f"(a) = akfk (a) = aoa + k=0 a1f(a) + a2f2(a) + + @n-Ifn-1 '(a) n~1 a) On considère lendomorphisme 9 de E défini par: 9 = 2 akfk = aoidE+a1f + 92f2 4 k=0 + @n-1fn-1. i) Montrer que Vk € N, 9(fk(a)) = fn+k(a) n-1 ii) En déduire que fn = @kfk = aoidE +a1f + 02f2 + . + an-lf"-1_ k=0 b) Déterminer la matrice de f relativement à la base (a,f(a), . . ,fn-1(a)) à laide des coeffi- cients 00, 01, @n-1. c) On suppose dans cette question que K = C i) Montrer que VX € C, rang(f XidE) 2 n - 1 ii) En déduire que les sous-espaces propres de f sont de dimension 1 et que f est diagonalisable.
+2
 
+--- page 3 ---
+5 On suppose dans cette question que n = 2q et K = R a) Montrer que si 1 est une valeur propre de f , alors -1 est une valeur propre de f_ b) Montrer qu'il existe une base de E telle que la matrice de f relativcment à cette base est de la forme
+0
+0 0 cos 01 sin 01 0 0 sin 01 cos 01
+cOS 0q-1 sin 0q-1 sin09-1 COS 09-1
+avec 0j = 2ki4 , j € P {1, ou
+,9 ~ 1} et kj € {1, ,p - 1}
+COS 81 sin 01 sin 01 cOS 01
+cOS 02 sin 02 sin 02 COS 02
+COS 09 sin 0q sin 0q COS 0q
+avec 0j = 2ki7 p ,j € {1, ,9} et kj € {1, , p - 1} 6 On suppose dans cette question que n = 29+1 et K = R. a) Montrer que f admet une valeur propre ) € {~1,1} b) Montrer qu'il existe une base de E telle que la matrice de f relativement à cette base est de la forme
+cos 01 sin 01 sin 01 cos 0
+0
+cOS 8 sin 0q sin 09 COS 0
+avec 0j = 2ki2 , P j € {1, ,9} et kj € {1, ,p - 1} 7. On se donne E un R espace vectoriel de dimension n et p un entier p 2 n. Déduire de ce qui précède une méthode de construction dun endomorphisme cyclique dordre p.
+3
 
+--- page 4 ---
+p-1 8 On se donne un endomorphisme 9 de E qui commute avec f . On suppose que g(0) = 2 bkfkC '(a) k=0 p-1 On note h Fendomorphisme de E défini par= h =Ebkfk_ k=0 a) Montrer que f et h commutent. (i.e. f 0 h = h 0 f) b) Montrer que Vk € N; h(fk(a)) = 9(fk(a)) c) En déduire que 9 = h d) En déduire les endomorphismes qui commutent avec f 9 On suppose dans cette question que f est cyclique dordre n, avec dim E = n et K = C. Soit (a, f(a), , fn-1 '(a)) un cycle de f  a) Montrer que si un nombre complexe X est une valeur propre de f, alors )" = 1. b) Déterminer la matrice associée à f relativement à la base (a, f(a) fn-l(a)). Montrer que f est diagonalisable et déterminer une base de E constituée de vecteurs propres de f
+Partie III
+1 Soient X1; An des nombres réels différents deux à deux. On se propose de montrer dans cette question que:
+XI n-1 X2-1
+A1 12
+W(Al, . . . , Xn) =
+II (Xj - X;) I<i<j<n
+An-1 X 1 a) Montrer par récurrence SUr n que Pn(X)
+Xn-1 AR~1 est un polynôme de An-1 'n-1
+1
+An -1 degré n - 1. b) Montrer que X1, An-1 sont des racines de Pn. c) En déduire que W(X1, . . . , An) = II (Xj = A;) I<i<j<n Dans cette partie, K = C et f un endomorphisme de E diagonalisable On note X1, An les valeurs propres de f et C(f) = {g € L(E); 9 0 f = f 0 g} 2 a) Montrer que 9 € C(f) si et seulement si g laisse stable les sous espaces propres de f b) Déduire de ce qui précède la dimension de C(f) en fonction des dimensions des sous espaces propres. 3. Montrer que les conditions suivantes sont équivalentes  a) Il existe un vecteur 2 € E tel que {z, f(æ) f"-1(æ)} est une base de E. b) {idE,f, fn-1} est un système libre de L(E). c) Toutes les valeurs propres de f sont simples. d) dimC(f) = n. (Ind: Pour démontrer d = a) prendre le vecteur 1 = U1 + ... + Un, avec ("1, Un) une base de vecteurs propres de f .) 4 Donner un exemple d'endomorphisme de E tel que il existe un vecteur $ € E avec {æ, f (z) fR - est une base de E mais f n'est pas cyclique.

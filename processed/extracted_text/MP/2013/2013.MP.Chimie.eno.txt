@@ -1,11 +1,107 @@
+--- page 1 ---
+Barème
+Problème [ Problème II Problème III Problème [V
+40 pts 40 pts 4,.75 pts 7.25 pts
+Instructions
+Cette épreuve comporte 12 pages. Tout résultat doit être écrit dans les cadres adéquats.
+L'usage des calculatrices électroniques de poche non programmables est autorisé Aucun échange entre les candidats n'est autorisé_ Les résultats numériques sans unité ou avec une unité fausse ne seront pas comptabilisés: En cas de besoin utiliser les pages vides en fin du cahier: Dans ce cas, il faut le signaler dans la case allouée àla réponse remise en fin de cahier
+Concours Mathématiques et Physique Session Juin 2013
 
+--- page 2 ---
+Données relatives à Pensemble du sujet Constante d'Avogadro NA 2 6,023*1023 mol! Constante des gaz parfaits R = 8,314 JK mol! Masses molaires (en g. mol-1 de For Au = 197 et de Foxygène 0 = 16 Lair est constitué de 20% molaire de dioxygène. Température de fusion standard de For 1337 K Température débullition standard de For 3129 K. Enthalpie molaire de vaporisation standard de For HAu =324,00 kJ mol -' Vap Enthalpie molaire de fusion standard de For AfusHAu = 12,55 kJ mol-' Paramètre de la maille cubique de For a 4,08 /
+mode_de réseau cubique primitif P centré [ à faces centrées F
+conditions de diffraction aucune h+k+1 = 2n (pair) h.k et tous pairs ou tous impairs
+Masses volumiques de For (supposées indépendantes de la température et de la pression) Liquide PAq = 17,31g.cm liq Solide Psà = 19,30 g.cm A 298 K : potentiel chimique entropie molaire enthalpie molaire standard standard standard de formation J"(kJ.mol-1) SP (JK' mol ') AH%(kJ. mn0/-1 Au(d) 0 47,4 AuzOzsd) 163,3 125,0 O2(g) 205.3 Potentiels redox standard Couples Au /AUsa AuOz(d VAu AuOz(sdyAu(OH)usd Eo (V) 1,498 2,507 2,630 Produit de solubilité de Au(OH)3(sd) Ks 2 10 Produit ionique de Feau Ke = 10-14 Conversions RxT xLn(x) = 0,06x logio  (x) (Volt) F Ln(10) = 2,3 La pression atmosphérique Patm = ] atm ~ ] bar = p
+2
+Concours Mathématiques et Physique Session Juin 2013
 
+--- page 3 ---
+Problème I : Cristallographie Afin de déterminer la structure cristalline dun solide, on peut utiliser la méthode de Debye-Scherrer qui consiste à sonder un échantillon cristallin poudreux en dirigeant sur celui-ci un faisceau monochromatique de rayons X Les microcristaux; dont la taille peut varier entre 0,01 et 0,001 mm; sont orientés de façon aléatoire à Fintérieur de Féchantillon. Chaque microcristal orienté favorablement créé un rayon diffracté formant un angle faisceau poudre incident @ avec Faxe d'émission du faisceau incident   (fig: ci- contre) Le rayonnement diffracté est alors analysé par un détecteur pouvant tourner autour dune monture circulaire centrée sur Véchantillon (chambre de Debye-Scherrer) Le signal reçu présente un ensemble de raies réparties symétriquement par rapport aux orifices d'entrée et de sortie du faisceau incident.
+1) Donner la relation entre le paramètre < a > dune maille cubique et la distance entre deux plans réticulaires consécutifs appartenant à la même_famille hkl
+2) En déduire la relation entre langle @ et les indices de Miller h k et / caractérisant les_plans_réticulaires responsables du signal reçu:
+3) Lor cristallise   selon une maille cubique: La raie correspondant aux   indices de Miller   (111) est obtenue pour une réflexion de premier ordre pour Fangle @ = 38,149 dans le cas dun faisceau de longueur d'onde ^ = 1,54 R Donner [expression puis calculer_le paramètre < a > de maille.
+3
+Concours Mathématiques et Physique Session Juin 2013
 
+--- page 4 ---
+4) L'expérience montre que, pour lor; les plans indices de Miller (100) et (110) ne diffractent pas_les_rayons X Quel est alors le mode de réseau correspondant ?
+5) En déduire le_rayon métallique de lor.
+Préciser_les_coordonnées réduites_des_plus grands sites dans la maille de lor:
+7) On remplace tous les atomes dor ( Au > qui n'occupent pas les sommets du cube par des atomes dun élément < X v 7.1) Représenter en perspective la nouvelle maille obtenue et son contenu:
+7.2) Déterminer la formule du nouveau composé.
+4
+Concours Mathématiques et Physique Session Juin 2013
 
+--- page 5 ---
+Problème II : étude de Por pur La vapeur de lor est assimilée à un gaz parfait Les enthalpies de changements d'état sont supposées indépendantes de la température. Dans le tableau ci-dessous on donne les valeurs des logarithmes népériens des pressions de vapeur (en bar) de For liquide et solide
+T(K)
+1200
+1500
+liquide
+p Ln p
+-20,02
+-13,53
+solide
+p Ln p
+-9,08
+-2,33
+1) Montrer que les expressions des pressions de vapeur de For liquide et solide peuvent S 'exprimer en fonction de la température sous la forme :
+Ln p =A - B p T
+5
+Concours Mathématiques et Physique Session Juin 2013
 
+--- page 6 ---
+2) Donner les expressions puis calculer les températures débullition et de sublimation standard de Au.
+3) Déterminer alors A et B dans chaque cas
+Concours Mathématiques et Physique Session Juin 2013
 
+--- page 7 ---
+4) Déterminer la température de fusion de For sous la pression de 200 bars.
+Problème III : diagramme dEllingham Dans ce problème; on se place dans le cadre de Fapproximation d'Ellingham en faisant intervenir une mole de dioxygène dans l'écriture des équations-bilan 1) Ecrire 1expression qui permet le calcul de Fenthalpie libre G dun système à plusieurs constituants; à partir de la quantité de matière K ni > et du potentiel chimique K< Hi > de chaque constituant.
+2) Dans   le cas dune réaction chimique entre ces constituants;   écrire Fexpression de Favancement de cette réaction.
+Concours Mathématiques et Physique Session Juin 2013
 
+--- page 8 ---
+3) Sachant que   lopérateur ( grandeur de la réaction > est : Ar = Donner d5 Fexpression de Fenthalpie libre standard de la réaction A,G en fonction des potentiels chimiques standard des constituants.
+4 Pour une température inférieure à 1337 K, écrire Téquation de la réaction d'oxydation de For solide en AuzO3(sd).
+5) Déterminer Fenthalpie standard de formation de AuzO3(sd) à 298K.
+8
+Concours Mathématiques et Physique Session Juin 2013
 
+--- page 9 ---
+6 Donner   Vexpression   numérique de   1enthalpie libre   standard   ArGo de la réaction étudiée, en fonction de la température; dans Fintervalle de température [298 K-1337 K]:
+7) Donner [expression puis calculer la pression de corrosion de For à 298 K.
+8) Lor est-t-il corrodé par le dioxygène de Fair à 298 K ?
+Concours Mathématiques et Physique Session Juin 2013
 
+--- page 10 ---
+Problème IV : diagramme E-pH de Por On se propose de construire le diagramme E-pH de For en considérant les espèces chimiques suivantes Au 3+ Au(sd) (aq); Au(OH)3(sd) et AuOz(sd)  La concentration de Fespèce Au'- en solution est prise égale à Ctra 10-5 mol. L' 1) Etablir 1expression puis calculer le pH de début de précipitation de 1hydroxyde Au(OH)3(sd)
+2) Etude de la précipitation de Fhydroxyde Au(OH)3(sd) 2.a) Etablir Texpression de E en fonction de E du produit de Au(OH)sçsd ,  Augal ! Au7a4 )  Au sd ) solubilité Ks de Au(OH)3(sd)_et de la constante Ke d'autoprotolyse_de 1eau:
+10
+Concours Mathématiques et Physique Session Juin 2013
 
+--- page 11 ---
+2.b) Calculer sa valeur.
+3) Ecrire les demi-équations de réaction des différents couples redox mis en jeu et exprimer leurs_potentiels en fonction de pH
+11
+Concours Mathématiques et Physique Session Juin 2013
 
+--- page 12 ---
+4) Tracer le diagramme E-pH de lor et lindexer. 3,00 E(V)
+Cv? =10-5 moLL-1
+2,50
+2,00
+1,50
+1,00
+0,50
+0,00
+NMa
+4
+V
+9 = % 2 3
+5) Caractérisation des domaines 5.a) Indiquer sur le diagramme la nature des différents domaines (prédominance ou existence) . Voir diagramme.
+5.b) Identifier les zones d'immunité, de passivation et de corrosion de For. Voir diagramme
+FIN DE LEPREUVE
+12
+Concours Mathématiques et Physique Session Juin 2013
+pH

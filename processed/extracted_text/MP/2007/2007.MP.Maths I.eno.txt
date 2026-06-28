@@ -1,5 +1,103 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE
+aU)giLv1 UL=æl; SsybuHLL Jsiwajj Û ~ ASj>} 2007 
+Ministère de l'Enseignement
+Supérieur, de la Recherche Scientifique ct de la Technologie Coocour} uadopaux d'entrtc 'uI cycles dc formatoo d'ingenicun Scsriop 2007
+Concours en Mathématiques et Physique Epreuve de Mathématiques I
+Durée 4 Heures
+Datc 4 Juin 2007
+Heure 8 H
+Nb pages 6
+Barène
+Exercice: 6 pts
+Problème: Partie A: 7pts Partie B: 7 pts
+Une 4Tatnde 'Tportance Sptn   nttuchcc à la Viqueur uu  rusonnenent. à la clarte 44 Q1 soin 'e I prcsentalion. 17n(9" des caiculatvwes nest pas (atorise [l est rapple p 'out réswltat énoncé duns lc {csle peut êtrr utelis6 ponr 'raiter la sute, mFnr: s*i ,' pn #trr; 'enontre Mistitut Frerat aowt GICLKOTHEQUE) Exercice Nsx Etures [ Sfay @rgruinzs Soit ( n )ve: "ne suite à valcurs réelles telle que pour tout " € N . @n > 0 er le série 07 est convergente On pose "2|
+F 5 = ak'
+S" = Ur 4=:
+et
+(n desigue par €(R R) Fospuce vectoriel des lontions continues sur R à valeuzs vans R On consulèr" / € ("RR)er on détinic. SuI R In suite de fonctions fnhne: par
+jou r) = f{)
+1 . 04 1n -1 (t ) dt
+ntr) = Un
+pour n > 1.
+(a) Déterminer la suite ( Jn ) net; si f est une application constante (b)   Determiner la suito { fn) neti lorsquc f(t) =t (c) Déterminer la sunte ( f-)nem lorsque f(t) = e 2 (a) Montrer. Dar FéCurreneo sur 7. qut pour tout n = N. Jn est de classe €" sur R
+1 /66
 
+--- page 2 ---
+(b) Montrer que pour tout n € N" et tout I € R, on a : fn (z) = 1[fn-i(z - 0) ~ f--1(2)] an et que Ira,_] fn+1 (r) = fn (t) dt. @n+1 3 Soit (a,b) € R? tel que a < b ~ S. On pose. pour n > 1,
+In = [a.b ' Sn]
+et
+Hn = sup |fn (z) | IEIn
+(a) Justifier lexistence de Hn pour tout n 2 1 et montrer que la suite Hn)neN" est décroissante. (b) Soient r € [0,b ~ S] et n un entier non nul. 1 Montrer qu il existe c € [r,I + an+1] tel que fn+1(r) = fn(cr) ii. En déduire que Ifn-1(z) _ fn(z)| < H1an+1- (a)  Montrer que la série de fonctions (fn+1 = fn) converge normalement sur tout n20 compact de R (b) Montrer que la suite de fonctions ( fn)neN converge uniformément sur tont com- pact de R On note sa limite. (c) Montrer que est continue sur R (d) Donner la fonction lorsque f (t) = t. 5. On considère T: C(R,R) C(R, R) f T(f) = 0.
+(a) Vérifier que T est un endomorphisme. (b) T est-il surjectif ?
+Problème
+Partie
+Soit V une application de classe Cœ de [0. +oc[ à valeurs dans C. Pour À > 0. on considère les équations fonctionnelles suivantes
+f(I) =I _ f  = y)(V(y) - A2)f(y) dy
+(Ex)
+g(x) =1 + J K(zuM)g(u) ày
+(EA)
+2/6
 
+--- page 3 ---
+avec
+K(z,y.A) = y(1 _ Y)(v(y) ~12) . I
+On dira que f est une solution de (Ex) sur [0, +oc[ si et seulement si f est continue sur [0. +x{ et Væ € [0. +o [, f vérifie (Ex)
+On dira que 9 est une solution de (Ex) sur {0, +oc( si et seulement si g est continue sur {0, +~[ et Vr ejo, +œ[, 9 vérifie (EA)
+1 Soit f une solution de (Ex) sur [0. +%[.
+(a) Montrer que f est de classe C* sur [0. +xc [. (b) Montrer que pour tout I 2 0.
+f'(z) =1 + J (tu) - À?)f(u)dy 2. Soit f une solution de (Ex) sur [0. +~ [ On définit la fonction g sur [0. +ac[ par
+ g(z)
+flz) si I > 0
+si I = 0.
+Montrer que g est continue sur [0, +oc[ et que c'est une solution de (Ex) sur [0. Toc[ 3 Pour > > 0 fixé, on définit la suite de fonctions ("n)neN sur [0, +oc[ par
+Wo(z) = 1. F x € [0. +~[
+et pOuI tout n 2 1
+"n(0) = 0 Un (x) J K(z,y.X)en-i(u) dy si I > 0
+(a) Montrer que pour tout 7 € N. Un est bien définie et est continue sur {0. ~oc[. (b) Montrer que pour tout I > 0 et tout y 2 0 tels que 0 < V < I. on a :
+IK(z.y.X)I < y(Iv (y)l + 42).
+(c) Montrer. par recurrence Sur n. que pOur tout " 2 1 et tout I 2 0 on a :
+Iv (z)l < (EL)l" n:
+où
+P(r) = 24?2? JvIi)J dy
+3/6
 
+--- page 4 ---
+4 (a)  Montrer que la série de fonctions Un converge simplement sur [0), +x[ n20 On pose pour tout [ > 0 ~e w(r) = Un(I) . 7=0 (b)  Montrer que la fonction € est continue sur [0. ~ac[ (c) Montrer que v est une solution de {E') sur [0. +oc[ 5 Pour r € {0. ~x [ on pose f(r) = IC(r) (a) Monxrer que est une' solution de {Ex) sur {0. ~xc' et qu elle est de classe Cx SIl {0, +o(. (b) Montrer que pour tont 7 2 0, on a :
+Ic(r) < seP  z)
+(c) En déduire, en utilisant la Question 1. (b) que pour tout I 2 0 Iv' (r) < eP (z) Moutrer que ç est une solution sur [0. ~oco de Téquation différentielle y ~V(r)y = ~Afy.
+Partie B
+Soit V une application de [0. ~o) à valeurs dans C On suppose que V est de classe Cx et intégrable sir {0, ~oc[. Pour À > 0. on considère léquation fonctionnelle suivante 0o f{r) = 4` vr sin( M_uv(y)f(u) = dy (Fa) 1 On dira que f est ile solution vc ( F;) sir {0. +oc) si et seulement si f est continue bornée sur {0 _x) et F r € {0~x[ el j vérifie (F;) 1 Soit f "ne solution de ( Fs) sur {0. _oxc : {a) Montrer que j est de classe Cx sur [0. ~o[: (b) Montrer que pour tout f 2 0.
+f'(z) 2 ~ue I
+cos( X(y = z))V(y)f (y)ày.
+4/6
 
+--- page 5 ---
+2. Pour X > 0 fixé, on définit la suite de fonctions (@n)nev sur [0, +o[ par @o(z) =e ~ilz Vz € [0, +o[
+et pOur tout n 2 1 et tout I 2 0,
+1o0 sin( X(z @n(z) = uLv(y)o -1(y) dy (a) Montrer que pour tout n € N, @n est bien définie, bornée et continue sur [0, +o[. (b) Montrer que pour tout u € [0, +o[, |sin ul < u. (c) Montrer que pour tout z et tout y tels que y 2 I 2 0, on a : 2Ay |sin( X(z = y))| < 1+ Ay
+(d) i. Montrer que lapplication y ~ 2_IV(y)l est intégrable sur [0; +o[: 1+^y On pose pour tout I 2 0,
+'+0
+2y ~IVly)ldy. 1+1y'
+Qx(z) =
+ii Montrer que; pour tout æ 2 0,
+lim Qx(z) = 0. À -+0
+(e) Montrer que, pour tout n € Net tout I 2 0, on a : l6(z)| < (QA(z)22 n!
+3. Montrer que la série de fonctions @n converge simplement sur [0, +o[ n20 On pose pour tout I 2 0 +o V(z) 1= @n (z) n=0
+4 Montrer que la fonction V est continue sur [0, +oo [
+5. Montrer que V est une solution de (Fx) sur [0, +o[ et qu'elle est de classe Co sur [0, +o[.
+6. Montrer que pour tout r 2 0, on a : Jv(z) = e-iÀz| < eQ4(2) _ 1
+et
++o Jv'(z) + iXe ~ixz | < eQx(z) IV(y)| dy
+5/6
 
+--- page 6 ---
+7 Montrer que V est une solution sur [0, +o[ de léquation différentielle
+y" _ V(z)y = ~A?y.
+8. Pour tout X > 0 et tout r 2 0, on pose
+H(X,I) = %(z)v(z) = v'(z)P(z)
+où + est la fonction définie à la Question 5. de la Partie A et V est la fonction définie à la Question 3. de la Partie B
+(a) Montrer que pour tout z € [0, +o[
+H(X,z) = H(X,0)
+(b) Montrer que pour tout > > 0, on a : JH(X,0) ~1l < e84(0) 1. (c) Montrer que lim H(X,0) = 1. X=~+00
+6/6

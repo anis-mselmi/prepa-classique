@@ -1,8 +1,111 @@
+--- page 1 ---
+4SsJl+26jl Ukjxslgzts gL~k dsia Tihdl @lbliji uhiti iusjaly 2020 i8
+REPUBLIQUE TUNISIENNE Ministère de ['Enscignement Supéricur ct de la Recherche Scicntifiquc
+Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs Session 2020
+Concours Mathématiques et Physique, Physique et Chimie et Technologie Epreuve dInformatique
+Date Mercredi 22 Juillet 2020
+Heure 8 H
+Durée 2 H
+Nombre de pages 9
+Barème PROBLEME 1 13 points PROBLEME 2 points
+DOCUMENTS NON AUTORISES
+L'USAGE DES CALCULATRICES EST INTERDIT
+Il FAUT RESPECTER IMPERATIVEMENT LES NOTATIONS DE L'ENONCE Vous POUVEZ EVENTUELLEMENT UTILISER LES FONCTIONS PYTHON DECRITES A LANNEXE (PAGE 9)
+PROBLEME 1 : Dans ce problème; on s'intéresse à la simulation numérique de la diffusion thermique (évolution de la température) dans un milieu homogène et isotrope. Le milieu étudié est une tige métallique mince de longueur L et de coefficient de diffusivité thermique 0 . Léquation de la chaleur,  utilisée  pour modéliser   la conduction de la chaleur dans la tige, est une Equation  Différentielle aux   dérivées Partielles (EDP) donnée par eq1 ôu a.Au eq1 dt où linconnue u est une fonction à deux variables x et t : x est la variable de l'espace unidimensionnel, avec xe[o,1]; t est la variable temps, avec te[o,r] Tétant la borne maximale de lintervalle temporel: La résolution de eq1 permet de déterminer la température (u(x,t) ) en tout point x du milieu à chaque instant t en prenant comme condition initiale à Pinstant t = 0 u(x,0) = Tinit (x) avec Tini (x), fonction qui décrit l'état thermique initial pour tout xe[0,1] conditions aux bords de la tige (côté gauche (x = 0) et côté droit (x = L)) u(O,t) =u(L,t) = 0 LEDP à résoudre avec les conditions précédentes est alors donnée par léquation eq2 ôu d2u '(x,t) =a @x(x,t) Vx e[o,1], Vte[o,r] ôt
+eq2
+u(x,0) = Ti init (x)
+Vx e[o,2]
+u(O,t) =u(L,t) =0
+Vt eJo,r]
+Concours (Mathématiques et Physique; Physique et Chimie et Technologie) Session Juillet 2020
+Epreuve dInformatique
+Page 1/9
 
+--- page 2 ---
+où Tinit   est définie par
+[0 si x=0 ou x=L Tinit (x) = 200 Vx eJo,z [
+eq3
+Hxpothèses Dans la suite, les fonctions demandées seront écrites en langage Python en supposant que le module math a été importé par import math le module numpy a été importé par import numpy as np le module scipy integrate a été importé par import scipy.integrate as spi les grandeurs L, T et a sont déjà définis.
+Partie l Résolution Analytique La solution analytique de léquation eq2 s'écrit n2r2at nIX u(x,t) = 2D sin eq4
+où, pour un n donné Dn = 2[f()d nTx fn(x) = Tinit (x)sin Travail demandé
+eq5
+eq6
+1. Ecrire la fonction Tinitial qui prend en paramètre X et retourne la valeur de létat thermique initial Tini (x) pour tout x dans [0,1] 2. Ecrire la fonction Fn qui prend en paramètres x et n, puis retourne le résultat du calcul exprimé par léquation eq6. 3. En utilisant la fonction quad du module scipy integrate, écrire la fonction Dn qui prend en paramètre n et retourne le résultat du calcul exprimé par léquation eq5. NB quad (g,a,b, (Y') ) calcule  T'intégrale de la fonction g dans  l'intervalle [0,b] par rapport àx (y étant fixé) et retourne le tuple ( A,8) où A = [ g(x, y)dx 8 > 0 est une estimation de lerreur absolue Ecrire la fonction SolutionAnalytique qui, à partir des   paramètres X, t et eps, calcule et retourne la somme décrite par léquation eq4 Le calcul s'arrête lorsque la valeur absolue dun terme de la somme est inférieur à eps_
+Partie 2 Résolution numérique Dans   cette partie, on propose une résolution numérique dun Système d'Equations   Différentielles Ordinaires (SEDO) associé à /EDP de léquation eq2 Après   la discrétisation de Pintervalle   spatial   [0,L],la résolution numérique du SEDO consiste approcher les valeurs de la fonction u(x,t) en utilisant la méthode des différences finies. On considère Tintervalle [o,L] découpé en N+1 points équidistants x = 0 <x < x2 <  < Xn = L; le pas de découpage &x = Xi+l7 ~X; (O<i<N-1) Concours (Mathématiques et Physique, Physique ct Chimie et Technologie) Session Juillet 2020 Epreuve dInformatique Page 2/9
 
+--- page 3 ---
+d2u Pour chaque point X; € {X1,X2, ,Xn-1 }  on approche la dérivée seconde '(x;t) par la différence dx2 finie donnée par ôu d2u (x;st)=a (x;,5 t) ~ (u(xi+t)-2u(x,t)+u(x;-ut)) eq7 ôt Ôx2 (Sx)?
+En tenant compte de la condition initiale; le SEDO s'écrit ôu ô2u Q (x;,t)=a (x;,t) ~ (u(x;+1t)-2u(x;t)+u(x;-vt)) Vie{1, N-1} ôt Ôx2 (x)? u(x;,C Vie{0,,N} 0) = Tinit (x; Vt e Jo,r] u(O,t) =u(L,t) =0
+eq8
+La forme linéaire du SEDO s'écrit finalement ôu dt
+A u(t) (Sx)?
+eq9
+où
+A est une matrice carrée tridiagonale dordre N+1 telle que ~2 si i= j et i # {o,N} A=(a;j) V(i,j) e {0,1,,N} où aij = si ie{j+Lj-1} et i v {o,N} sinon
+u(xo,t) u(xp,t)
+Tinit (x;)
+u(t)
+avec u(0)= Tinit (xn-1)
+u(xv-1t) u(xv,t)
+Après la discrétisation de lintervalle [o,T] en M +1 points équidistants; la résolution numérique du SEDO donne la matrice U telle que U,j u(x;tj) VO <i< N V0 < j < M eq10
+Travail demandé
+5. Ecrirela fonction GenererA qui prend un entier N en paramètre; construit et retourne la matrice A 6. Exprimer en fonction de N lordre de grandeur (en 0) de la complexité asymptotique des calculs effectués par la fonction GenererA. Justifier brièvement votre réponse. 7. Ecrire la fonction SolutionNumerique qui, à partir des paramètres L, T, N, M et alpha, permet de résoudre léquation eq9 en appliquant les étapes suivantes Déterminer, dans le vecteur vx; le résultat du découpage de lintervalle [0,L] en N+1 points équidistants Déterminer dx, le pas du découpage de lintervalle [0,L];
+Concours (Mathématiques et Physique, Physique et Chimie et Technologie) Session Juillet 2020
+Epreuve d'Informatique
+Page 3/9
 
+--- page 4 ---
+Déterminer, dans le vecteur vt, le résultat du découpage de lintervalle de temps [o,T] en M+l points équidistants Définir, dans u0, le vecteur u(0) Générer la matrice A ; Déterminer la solution du SEDO de léquation eq9 dans la matrice U. Utiliser odeint du module scipy.integrate dont le résultat est la matrice transposée de U. NB odeint (g,u0 , vt) permet de résoudre numériquement le SEDO de l'équation eq9 ôu (t) = g(u,t) avec la condition initiale le vecteur u0 et le domaine d'intégration vt. ôt Retourner le tuple (U, vX; vt)
+Partie 3 Programmation Orientée Obiet
+La solution de la résolution numérique de l'équation de la chaleur permet d'approcher la température en tout point X; € Xo, X1,   , Xn à tout instant + = {t0,t,-,tx }. En utilisant Tinterpolation bilinéaire, on peut estimer la température en tout point x e [o,L] et à n'importe quel instantt e[o,r] Dans cette partie; on s'intéresse à une représentation orientée objet de la résolution numérique du SEDO par la classe EqChaleur, puis à Tinterpolation bilinéaire de la solution résultante pour des points quelconques par la classe InterpolationBilineaire.
+Description de la classe EqChaleur Cette classe modélise la résolution numérique de l'équation de la chaleur. Attributs L, longueur de la tige. T, durée totale de la simulation. N; un entier tel que N+l est le nombre de points équidistants de lespace discrétisé [0,1] M, un entier tel que Mtl est le nombre de points   équidistants de lintervalle   temporel discrétisé [o,T] alpha, coefficient réel de la diffusivité de la tige.
+Méthodes init () permet  linitialisation des   attributs   de la classe EqChaleur; à partir  des paramètres L, T, N, Met alpha. SolveEq() permet de résoudre   léquation de la chaleur en appelant la fonction SolutionNumerique écrite en partie 2
+Description de la_classe InterpolationBilineaire Cette classe permet dinterpoler la solution de la résolution numérique de l'équation de la chaleur. Attributs U, une matrice représentant ] 'approximation des valeurs de la fonction u(x,t). bornes max, un tuple contenant la plus grande valeur du vecteur vx et celle de vt. pas_V, un tuple contenant le pas de découpage du vecteur vx et celui de vt.
+Concours (Mathématiques et Pbysique, Physique et Chimle et Technologie) Session Julllet 2020
+Epreuve d'Informatique
+Page 4/9
 
+--- page 5 ---
+Méthodes init (): permet linitialisation des attributs de la classe InterpolationBilineaire; à partir des trois paramètres U, vX et vt. str (): permet de retourner une représentation textuelle de  Pinstance courante conformément au format suivant "F [0 , xmax] [0 , tmax] =-> [umin, umax] où xmax et tmax représentent la valeur maximale de vx et celle de vt ; umin et umax représentent respectivement la valeur minimale et la valeur maximale de U.
+contains ( qui à partir dun tuple de réels tup, représenté par (x,t), retourne True si x e[o,xmax] et t e[o,tmax], False sinon
+get (.) qui à partir dun tuple de réels tup, représenté par (x,t) , détermine et retourne un tuple de réels représenté par ( p, tels que x p = avec dx le pas de découpage du vecteur vx dx 9 = avec dt le pas de découpage du vecteur vt. dt get_low(.) qui à partir dun tuple de réels tup, retourne un tuple d'entiers en appliquant la fonction floor du module math pour chaque élément du tuple résultat de lappel de la méthode get. get up() qui à partir dun tuple de réels tup, retourne un tuple dentiers en appliquant la fonction ceil du module math pour chaque élément du tuple résultat de lappel de la méthode get interpolate( . ) qui à partir dun tuple de réels tup, représenté par (x,t) , permet d'interpoler u(x,t) par la méthode bilinéaire si x e[o,xmax] et t € [o,tmax]   Gérer l'erreur dans le cas contraire. Les étapes de la méthode d'interpolation bilinéaire sont déterminer dans (x_low, t_low), le résultat de l'appel de la méthode get low déterminer dans (x_up, t_up), le résultat de lappel de la méthode get up
+construire le vecteur v =
+xxt
+calculer les valeurs x_1 , x_u , t_1 et t _u telles que x_l=x_low x dx ; x_u=x_up x dx ; t_l=t_low x dt ; t_u=t_up x dt
+x _1 t_1 x_lxt_1 x_1 t _u x_lxt_u x _u t_1 x_u xt_1 x _ u t _u x_u xt_u
+construire la matrice B =
+Concours (Mathématiques et Physique, Physique et Chimic ct Technologie) Session Juillet 2020
+Epreuve dInformatique
+Page 5/9
 
+--- page 6 ---
+Ux_low,t low Ux construire le vecteur b = low ( Ur_up, low ur up, déterminer le vecteur y solution de la résolution du système linéaire B.y=b retourner la valeur du produit scalaire des vecteurs y et v
+Travail demandé
+En se basant sur les descriptions ci-dessus, répondre aux questions suivantes 8. Construire la classe EqChaleur 8.1 Ecrire la méthode init 8.2 Ecrire la méthode SolveEq.
+9. Construire la classe InterpolationBilineaire 9.1 Ecrire la méthode init 9.2 Ecrire la méthode str 9.3 Ecrire la méthode contains 9.4 Ecrire la méthode get. 9.5 Ecrire la méthode get_low. 9.6 Ecrire la méthode get_up. 9.7 Ecrire la méthode interpolate
+10. En supposant disposer des valeurs de L, T, N, Met alpha, écrire le script Python permettant de créer une instance chal de la classe EqChaleur déterminer dans (U,vx;vt)   la solution numérique de chal créer une instance bil de la classe InterpolationBilineaire saisir deux réels X et t en respectant la condition suivante X np 'appartient pas à VX et t 'appartient pas à vt ; donner la température du point Xà T'instant t.
+PROBLEME 2
+Un concours national dentrée aux cycles de formation d'ingénieurs réunit chaque année des milliers de candidats qui passent un ensemble dépreuves   spécifiques aux sections MP (Mathématiques et Physique), PC (Physique et Chimie), T (Technologie) et BG (Biologie et Géologie) . On propose de concevoir en partie une application de gestion de certains résultats des épreuves dun concours. On considère une partie dune base de données schématisée par les relations décrites ci-dessous. Bien que se rapprochant de la réalité, il est à noter que le schéma a été élaboré pour les besoins de lénoncé.
+Etablissement (idEtab, nom, adresse, gouv) La table Etablissement décrit tous les établissements universitaires assurant un cycle préparatoire ainsi qu'un établissement fictif (service concours) pour les candidats libres. idEtab identifiant de létablissement contenant le nom abrégé (chaîne de caractères),  clé primaire (l'établissement fictif a comme identifiant la valeur 'Libre') nom nom complet de létablissement (chaîne de caractères) adresse adresse de létablissement (chaîne de caractères) gouv nom du gouvernorat où létablissement est situé (chaîne de caractères) .
+Concours (Mathématiques et Pbysique, Physique et Chimie et Technologie) Session Juillet 2020
+Epreuve d'Informatique
+Page 6/9
 
+--- page 7 ---
+Candidat (idC; nom; date_naissance; sexe, nationalite, adresse; section; idEtab) La table Candidat décrit tous les candidats inscrits au concours idC identifiant du candidat (entier), clé primaire nom nom et prénom du candidat (chaîne de caractères) date naissance date de naissance du candidat (chaîne de caractères en format 'aaaalmmljj' avec 'aaaa' année, 'mm' mois et 'jj' : jour) sexe sexe du candidat (un caractère, 'F' pour féminin et 'M' pour masculin) nationalite nationalité du candidat (chaîne de caractères) adresse adresse du domicile du candidat (chaîne de caractères) section section à laquelle le candidat appartient (chaîne de caractères, 'MP'  'PC', T', 'BG) ; idEtab identifiant de Pétablissement   dorigine du candidat (chaîne de   caractères) , clé étrangère qui fait référence à la table Etablissement. Tous les candidats non inscrits à un cycle préparatoire sont considérés comme candidats libres et affectés à l'établissement fictif dont lattribut idEtab est 'Libre' Epreuve (idEpr; nomEpr, section; dateEpr, heure, duree; coeff) La table Epreuve décrit toutes les épreuves du concours idEpr identifiant de lépreuve (entier), clé primaire nomEpr nom de lépreuve (chaîne de caractère) section section à laquelle lépreuve est associée (chaîne de caractères, 'MP' , 'PC', 'T', 'BG') = dateEpr date de lépreuve (chaîne de caractères en format 'aaaalmmljj' avec 'aaaa' année, 'mm' mois et 'jj' : jour) heure horaire de passage de lépreuve (chaîne de caractères en format 'hh mm avec 'hh' heures et 'mm': minutes) duree durée de Pépreuve en nombre dheures (entier) coeff : coefficient de lépreuve (entier). Evaluation (idC_idEpr; note) La table Evaluation décrit les notes des candidats aux épreuves passées. idC identifiant du candidat (entier), clé étrangère qui fait référence à la table Candidat idEpr = identifiant de lépreuve passée (entier), clé étrangère qui fait référence à la table Epreuve note la note du candidat à une épreuve donnée (un réel compris entre 0 et 20) Le couple (idC, idEpr) représente la clé primaire de la table Evaluation
+Partie 1 : Algèbre relationnelle Exprimer en algèbre relationnelle les requêtes permettant de donner 1. Les noms des candidats libres de la section 'PC' 2. Les identifiants des candidats qui n'ont passé aucune épreuve du concours. Partie 2 : SQL Dans la suite, en supposant que toutes les tables sont créées et remplies en respectant les règles dintégrités; exprimer en SQL les requêtes suivantes permettant de 3. Modifier à 2 heures la durée de l'épreuve ayant le nom 'Informatique' de la section 'T'. 4 Déterminer les noms des établissements assurant un cycle préparatoire pour la section 'BG'. 5. Déterminer, pour chaque section; le total des coefficients des épreuves en triant les totaux par ordre décroissant. 6 Déterminer les identifiants des candidats ayant obtenu des notes supérieures à 15, au moins à 3 épreuves. Concours (Mathématiques et Pbysique, Pbysique et Chimie et Technologie) Session Juillet 2020 Epreuve d'Informatique Page 7/9
 
+--- page 8 ---
+Partie 3 : sqliteg Une épreuve est dite discriminante si elle a le plus dinfluence sur   les  résultats du concours. La comparaison entre les écarts types des notes des épreuves est un moyen permettant de déterminer Pépreuve la plus discriminante du concours Lécart type des notes dune épreuve modélise le degré de dispersion des notes des candidats autour de la moyenne. Ainsi, plus les notes sont largement distribuées autour de la moyenne; plus lécart type est élevé et plus lépreuve est discriminante. Dans le cas contraire; les notes seraient concentrées autour de la moyenne et lépreuve n'aurait donc pas dinfluence significative sur les scores des candidats. Pour une épreuve donnée, considérons n candidats ayant obtenu les notes X; (I<i<n) La moyenne des notes à cette épreuve est notée x
+Lécart type 0 des notes de cette épreuve s'écrit 0 = lZÉ(r-7)  . Vn i=l
+Travail demandé
+Dans la suite, les fonctions demandées doivent être écrites en Python en désignant par cur, le curseur dexécution de requêtes.
+7. Ecrire la fonction Notes qui prend en paramètres cur et lidentifiant id dune épreuve, puis retourne une liste contenant les notes de tous les candidats qui ont passé cette épreuve. 8. Ecrire la fonction EcartType qui prend en paramètres cur et lidentifiant id dune épreuve puis calcule et retourne la valeur de lécart type des notes de l'épreuve. 9. Ecrire la fonction Epreuves qui prend en paramètres cur et le nom dune section; puis retourne un ensemble contenant les identifiants des épreuves de s.
+10. Ecrire la fonction EcartsTypesEpreuves qui prend en paramètres   cur et le nom dune section; puis retourne un dictionnaire où chaque clé est le nom dune épreuve de $ et chaque valeur est lécart type des notes pour cette épreuve 11. Ecrire la fonction discriminante qui prend en paramètres cur et le nom s dune section, puis retourne le nom de lépreuve la plus discriminante
+Concours (Mathématiques et Physiquc, Physique et Chimie et Technologie) Session Juillet 2020
+Epreuve dInformatique
+Page 8/9
 
+--- page 9 ---
+ANNEXE Quelques fonctions/Méthodes Python Sans aucune obligation, les fonctions suivantes pourraient vous être utiles. Module math floor(r) retourne la partie entière dun réel r. ceil(r) retourne la partie entière dun réel r +1. Module scipy integrate quad(g, a, b, args) calcule l'intégrale de la fonction g dans l'intervalle [a,b] par rapport au premier paramètre de g, args étant le restant des paramètres. odeint(f, yO, t) permet de résoudre   numériquement un système déquations   différentielles ordinaires avec la condition initiale yO et t le domaine dintégration Module numpy Mshape ou shape(M) retourne un tuple formé par le nombre de lignes et le nombre de colonnes dune matrice M. linspace(a,b,n) retourne un vecteur de n points équidistants dans lintervalle [a,b] zeros( . . .) retourne un tableau initialisé par des 0 ones(. - retourne un tableau initialisé par des 1 diag(L) retourne la matrice diagonale dont les éléments diagonaux sont ceux de L. Mcopy( retourne une copie de M. identity(N) ou eye(N) retourne la matrice identité dordre N (avec N+O). Mmin( ou min(M) et Mmax( ou max(M) retournent respectivement la valeur minimale et la valeur maximale dune matrice M. transpose(M), MT ou Mtranspose( retourne la matrice transposée de la matrice M dot(A,B) ou A.dot(B) retourne le produit matriciel de A par B ou la valeur du produit scalaire si A et B sont deux vecteurs g=vectorize(f) retourne la fonction g vectorisée de la fonction f qui s'applique terme à terme aux éléments dun tableau v. g(v) retourne le tableau dont les éléments sont les éléments images de v par g. fromfunction(f,  shape,. . .) retourne la matrice résultat de Yapplication de la fonction f aux indices du tableau Le type des éléments est celui de f. Module numpy linalg solve(A,b) retourne le vecteur solution du système linéaire Ax-b. det(A) retourne le déterminant de A-
+Opérations sur les itérables (str, tuple, list; dict; etc) len(it) retourne le nombre déléments de litérable it. range(d,f,p) retourne la séquence des valeurs   entières   successives comprises   entre d et f, f exclu, par pas-p. sum(it) retourne la somme des éléments de litérable it. x in it vérifie si x appartient à it. sorted(it) retourne une liste contenant les éléments de it dans 1ordre croissant. Ist.sort( trie la liste Ist dans lordre croissant Ist.append(val) ajoute val à la fin de la liste Ist. ch format(paramètres) retourne une chaîne de caractères obtenue en substituant dans 1ordre chaque '{} dans ch par un objet de paramètres. dvalues( retoumne un itérable formé par les valeurs du dictionnaire d. ditemsO retourne un itérable de couples (k,v) ou k est une clé du dictionnaire d et V est la valeur associée Concours (Mathématiqucs et Pbysique, Physique et Chimie et Technologie) Session Juillet 2020 Epreuve dInformatique Page 9/9

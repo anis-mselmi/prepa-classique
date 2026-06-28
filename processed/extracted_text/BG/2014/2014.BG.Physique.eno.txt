@@ -1,3 +1,71 @@
+--- page 1 ---
+REPUBLIQUETUNISIENNE Ministère de FEnseignement Supérieur, de la Recherche Scientifique; des Technologies de FInformation et de la Communication
+iuusdl M,)9aasll aualall exjls slIl Akal  4ls Jlesyl, slslæall Lasl4i2;)
+Concours Nationaux d'Entrée aux Cycles de Formation d Ingénieurs Session 2014
+Jiw Lbyi 2lJliji ixuni+-Jl Dxss jalyj 2014 {
+Concours Biologie et Géologie Epreuve de Physique
+Date Jeudi 05 Juin 2014
+Heure : 8 H
+Durée : 3 H
+Nbre pages 04
+Barème Problème 1 15 pts
+Problème 2 : 05 pts
+L'usage dune calculatrice non programmable est autorisé L'épreuve comporte deux problèmes indépendants. Le candidat peut les résoudre dans lordre qui lui convient, er respectant néanmoins la numérotation des questions.
+PROBLEME 1 : OSCILLATEUR A PONT DE WIEN
+Une grandeur notée e(t) est la représentation complexe dune grandeur sinusoïdale e(t)
+Première partie :
+On  réalise à laide dun amplificateur   opérationnel  (AO) idéal fonctionnant en régime linéaire, convenablement   polarisé   par unC   source symétrique de tension non représentée sur le schéma; le montage représenté par la figure 1 .  co
+ 1 ` S1(t)
+e1(t)
+Rz
+Ral
+Figure 1
+Le montage est alimenté par une source de tension sinusoïdale e(t) = Em1 cos(@t) en tension de ce montage S62 = a 1- Montrer que le gain où & est une fonction des e1 (t) résistances Rp et Rz que Pon déterminera. 2 - Donner le nom de ce montage. 3- Sur quel domaine peut-on théoriquement faire varier a ? Qu'est-ce qui limite physiquement sa valeur ? 4- Calculer le gain en tension de ce montage pour Rp = IkO et Rz = 2k22
+Concours Biologie-Géologie Session Juin 2014
+Epreuve de Physique
+page 1 sur 4
 
+--- page 2 ---
+Deuxième partie 8 pont de Wien
+On considère le circuit R, C de la figure 2 alimenté par une source de tension sinusoïdale e2 (t) = Em2 cos(ot) R C e2(t) R S2(t)
+Figure 2
+5- Sans faire de calcul, déterminer la nature du filtre réalisé par ce circuit. 6- Déterminer la fonction de transfert  I(jo) = 9262 e2 (t) 7 - To Montrer que I(jo) peut se mettre sous la forme I(jo) Préciser les 1+ jQ @ @ 06 @ expressions de To, Q et @ . Donner leurs significations. 8 - = @ Calculer f pour R =2k02 et € =O,1uF 27
+9- Tracer la courbe donnant le gain G =|I(jo) en fonction de x = @o 10- Tracer la courbe donnant le déphasage @ = arg(I(jo)) en fonction de x = @ 0o 11-Montrer que la bande passante de ce filtre s'écrit : A0 = %
+Troisième partie : oscillateur sinusoïdal
+On associe les deux montages précédents dans celui représenté par la figure 3. Ce montage est alimenté par une tension sinusoïdale. On pose H(jo) = % e(t)
+R
+e(t)
+RIc
+Rz
+So(t)
+R,
+Figure 3
+Ho 12- Montrer que H(jo) peut se mettre sous la forme : H(jo) = Préciser @ 1+ jQ @ 0 @ Fexpression de Ho
+Concours Biologie-Géologie Session Juin 2014
+Epreuve de Physique
+page 2 sur 4
 
+--- page 3 ---
+ On relie maintenant la sortie à lentrée du montage de la figure 3 pour obtenir celui de la figure 4, lalimentation sinusoïdale à lentrée étant supprimée.  R 
+R C
+Rz
+s(t)
+JR ]
+Figure 4
+13- Quelle valeur doit prendre nécessairement la fonction H(jo) pour qu'un régime oscillatoire sinusoïdal de pulsation @ apparaisse 2 14-Calculer dans ce cas la valeur de a ainsi que la valeur de Rz si Pon prend Rp =IkS 15- Que vaut la pulsation @ des oscillations ?
+Pour expliquer le démarrage des oscillations (Figure 5), on considère qu'un régime transitoire peut apparaître à partir dun signal parasite. s(t)
+Figure 5
+16-Interpréter cette courbe. 17-Montrer que la tension s(t) satisfait à léquation différentielle suivante d's(2 + -2B0, ds62+0,s(t) =0 dt dt Donner les expressions de B et @ 18-A quelle condition sur B la tension s(t) est-elle purement sinusoïdale ? Quelle est alors la fréquence de ce signal ? B <0 mais  proche de zéro, expliquer le   comportement   observé du 19-En supposant  que montage de la figure 4. Proposer une réalisation expérimentale de cette condition 20- Quelle est la limite mathématique de s(t) quand t c ? Qu'est-ce qui limite physiquement Famplitude de s(t) ?
+Concours Biologie-Géologie Session Juin 2014
+Epreuve de Physique
+page 3 sur 4
 
+--- page 4 ---
+PROBLEME 2 :
+I = Préliminaires
+1- On considère un corps pur en équilibre entre deux phases (a) et (b) , à la température T. Il est soumis à une pression déquilibre p(T) qui dépend de la température T et de la nature du corps pur utilisé . 1-1- Ecrire la condition d'équilibre dun corps pur sous deux phases. dp Laab 1-2- Montrer que léquation de Clapeyron s'écrit où La-b représente l'enthalpie dT T v6 - Va massique de changement détat et Va et Vb sont les volumes massiques du corps pur relatifs aux phases (a) et (b) . p (bar) On s'intéresse à l'étude des changements de phase de l'eau et à la détermination de son enthalpie massique de vaporisation. La figure 6 représente 221 son diagramme (p,T) (3) 2- Identifier les trois domaines numérotés (1)= (2) et (3)du diagramme (p;T)ainsi que les courbes qui les délimitent. PT Figure 6 (2) 3- Caractériser les points C et Tr. 4- Donner une interprétation de la valeur négative de la pente de la courbe d'équilibre entre les phases (1) et (3) Tr = 273,1 647 T(K)
+II Mesure de Penthalpie massique de vaporisation Les valeurs expérimentales relevées dans le cas de léquilibre liquide-vapeur de Feau sont indiquées sur le tableau suivant donnant @n(p)= f 1) où p est en bars et T en Kelvin (K). {n(p) 0,1 0,4 0,70 1,00 1,30 1,50 1,80 2 00 106 /T 2700 2750 2800 2850 2900 2950 3000 3040 (Ten K) 1 5- Tracer la courbe de la variation de @n(p) en fonction de I 6- En assimilant la vapeur d'eau à un gaz parfait et en négligeant le volume massique du liquide devant celui du gaz, simplifier l'expression de l'équation de Clapeyron. 5068 7- Une régression linéaire donne en(p) = +13,58 où p est en bars et T en K T 7-1- En déduire la valeur de [enthalpie massique de vaporisation Lv On donne M=18 gmol-! R =8,314 JK 3[ mol-' 7-2- Déterminer la pression Pr caractérisant le point T
+Fin de Pépreuve
+Concours Biologie-Géologie Session Juin 2014
+Epreuve de Physique
+page 4 sur 4

@@ -1,7 +1,95 @@
+--- page 1 ---
+Aa)j) {2S6j1 BEPUBLIQUETTUNLSEFENI NEde la "Wklzls Ministère de |'Enseignement  Recherche Scientifique  {L~p Concours Nationaux d'Entrée aux Cycles dsi Tibsi Gijhiji de Formation dIngénieurs iiJi is Jalyui Session 2013 2013 {jn 1 '   , Concours Mathématiques et Physique 1 Epreuve de Physique
+Date : Jeudi 06 Juin 2013 Heure : 8 H 1 ère Barème : Partie : 08 pts
+Durée : 4 H Nbre pages 08 2ème Partie : 12 pts
+L'usage dune calculatrice non 'programmable est autorisé des copies Il convient en particulier d'indiquer avec précision les références des On veillera à une présentation claire et soignée questions. Un candidat peut toujours se servir d'un résultat fourni par F'énoncé pour continuer sa composition 
+LIGNE BIFILAIRE
+indépendantes. La première partie s'intéresse à létude Le problème est composé de deux parties qui permettra   de déterminer   certaines de ses dune   ligne   bifilaire en régime stationnaire, ce caractéristiques: La deuxième partie 8'intéresse à l'étude de la ligne bifilaire en régime variable; ce permettra dexpliquer son utilisation en téléphonie classique comme ligne de transmission et en qui radiodiffusion comme antenne demi-onde Données Permittivité du vide 80 = 8, 84.10-12 SI Perméabilité du vide : Ho = 4 I 10-7 SI   1 ' Célérité de la lumière dans le vide : c = 3108 m-s =1 Formulaires Définition du gradient df = grad f -dOM En coordonnées cylindriques on a : 9 u, 4â 4, + @4, et roi(f(r) 1) = _@W21, grad f 2 + ôz ôr g dr r ô8 Double produit vectoriel 0 ^(v ^w) = (7.w)v ~ (ù-v)w sin(p+9) + sin(p_9)  sin(p) .cos(q) 2 2 io T 1 1 coS cos0 2 d0 = 1,22 sin 0 8  Notation : On note j le nombre complexe tel que j? = -1_   
+Page 1/8
+Concours Mathématiques et Physique Session Juin 2013
+Epreuve de Physique
+
+--- page 2 ---
+Soit une ligne bifilaire constituée de deux conducteurs parfaits cylindriques pleins (C1) et (C2) Figure 1), de même rayon a , de même longueur { et dont les axes parallèles à Paxe (O,z), sont   distants de d avec a((d(( € _ Soient 01 et O2 les intersections   des axes des deux cylindres avec le plan (xOy)
+(C1)
+(C2)
+x
+d
+Figure-1 -
+ere Partie Etude dune ligne bifilaire en régime stationnaire La ligne bifilaire est plongée dans un milieu isolant assimilé au vide dépourvu de charges et de courants de permittivité électrique €o et de perméabilité magnétique  %o On notera (Op,',,4,,4,) le repère cartésien et (O,,7,,40,4 ) le repère cylindrique. Les parties Iet II sont indépendantes:
+I- Ligne bifilaire ouverte : étude électrostatique La ligne bifilaire est alimentée par un générateur de tension constante (Figure 2) Le cylindre (C1), étant connecté à la borne positive de ce générateur, porte une charge positive et le cylindre (Cz) porte une charge négative.
+(C,)
+(C2) Figure-2 -  1- Rappeler, dans le cadre de lélectrostatique, les équations de Maxwell ainsi que leurs formes intégrales dans le vide caractérisé par une charge de densité   p(M) . Donner lexpression du champ électrique E(M) en fonction du potentiel électrique V(M) 2- Donner le champ électrique dans un conducteur en équilibre électrostatique. Que peut-on dire de son potentiel ? Décrire; en le justifiant; la répartition des charges de ce conducteur: 3-a) Justifier que les densités surfaciques de charges 0; et 02, portées respectivement par les faces latérales des cylindres (C1) et (Cz), sont uniformes On négligera la charge portée par les faces circulaires aux extrémités des cylindres: 3-b)  Sachant que les cylindres (C1) et (C2) sont en influence totale, trouver la relation entre %; et 02 3-c) Compte tenu du fait que a((d(( 0 , les deux cylindres peuvent être assimilés à deux fils infinis portant respectivement les densités Jinéiques de charges 2 et ^ Exprimer 4 en fonction de 0 et a En déduire que 22 = -4 = =X 4- On s'intéresse au cylindre (C,) seul et soit M un point appartenant au plan (xO,y) 4-a) Justifier que le champ électrique E (M) , crée par (C1) s'écrit E (M) =E(r) ù, avec OM = r)a _
+Concours Mathématiques et Physique Session Juin 2013
+Epreuve de Physique
+Page 2/8
+
+--- page 3 ---
+1
+4-b) Montrer que E(r) = Mxv", 2 7 8 ' ùp 4-c) En déduire; à une constante prés,   le  potentiel électrique V(M) crée par (C1) Y2 5- On $ intéresse aux deux cylindres (C1) et (Cz) 5-a) En déduire que le potentiel  V(M) crée par les H1 Hz deux cylindres s'écrit  2 Ln 12 V(M) = V(o,'z) = + K avec K une Figure-3 - 2 T € Y constante et rz = OzM)a (Figure 3) 5-b) On note Vci et Vcz les valeurs respectives de V(M) au niveau des deux cylindres (C,) et (Cz) En étudiant les potentiels aux points Hp et Hz, appartenant respectivement aux surfaces latérales des cylindres (C1) et (C2) (voir figure 3), déterminer la différence de potentiel Vci ~Vcz C = T €o 5-c) En déduire que la capacité linéique de la ligne bifilaire est d In a Calculer  numériquement   pour une ligne téléphonique sa capacité linéique  pour a = 0,3 mm et d = 1,5 mm 6-a) Soit M un point appartenant à Faxe (O;x) et situé entre les points 0, et 02. Déterminer le potentiel V(M) en ce point en fonction de labscisse x et les données 6-b) On considère Fespace entre les deux cylindres conducteurs situé dans le plan (x0,z) Montrer 2c que le champ électrique s'écrit E(M) = + 4 2 T € x d =x 6-c) Pour les lignes haute tension on a Vc' ~Vcz = 90 kV ; a = 1,2 cm et d = 25 cm Calculer la valeur du champ électrique au voisinage des cylindres conducteurs. Commenter le résultat obtenu sachant que les poils du corps humain se redressent à partir de 1 kV.m
+II- Ligne bifilaire court-circuitée étude magnétostatique La ligne bifilaire   est maintenant   alimentée par un générateur de courant d'intensité constante [ Elle est fermée par un court-circuit à son extrémité finale (Figure 4) Les deux cylindres conducteurs sont donc parcourus par des courants de même intensité 1 mais circulant en sens opposés.  
+(C1)
+(C2)
+Figure-4 -
+7- Rappeler, dans le cadre de la magnétostatique; les équations de Maxwell ainsi que leurs formes intégrales dans le vide caractérisé par un courant de densité J(M) Donner lexpression du champ magnétique B(M) en fonction du potentiel vecteur A(M) 8-On s'intéresse au cylindre (C,) seul et soit M un point appartenant au plan (xO;y) 8-a) Justifier que le champ magnétique et le potentiel vecteur crées par le cylindre (C,) s'écrivent B (M) = B(;) hp et Ai(M) = A(r) k avec OM = Y)a . Concours Mathématiques et Physique Session Juin 2013 Epreuve de Physique Page 3/8
+
+--- page 4 ---
+Ho 1 8-b) Montrer que B(r) = 2 I r Mv4, 8-c) En déduire; à une constante   prés, le   potentiel 4e vecteur A (M) , crée par le cylindre (C1) seul. 9- On s'intéresse aux deux cylindres (C1) et (Cz). 9-a) Déterminer le potentiel vecteur   A(M)  crée par les deux cylindres; sur Paxe (Oy) avec 0 milieu de H, Hz 01 et Oz (Figure 5) Figure-5 - 9-b) En déduire que A(M) = A(r;,r;) = % 1 Lnl Y2 uz avec " = OM)a (Figure 5). 2 7 10-a) Soit M un point appartenant à laxe (Opx) et situé entre les points 01 et Oz. Déterminer le potentiel vecteur  A(M) en ce point en fonction de Fabscisse x et les données. 10-b) On considère Fespace entre les deux cylindres conducteurs situé dans le plan (x0,z) . En Ho 1(1 déduire que le champ magnétique s 'écrit B(M) = 4 2 2 I X d -x 10-c) Déterminer le flux de ce champ magnétique à travers la surface rectangulaire de largeur H;Hz située entre les deux cylindres conducteurs dans le plan (x0,z) (Figure 5) 10-d) En déduire que Finductance linéique de la ligne bifilaire est L = #o In] 4 -1)  T @ Calculer numériquement pour une ligne téléphonique son inductance linéique pour a = 0,3 mm et d = 1,5 mm
+2 emie Partie Etude d'une ligne bifilaire en régime variable
+1- Mise en équations et solutions générales i(z,t) (C) La ligne bifilaire alimentée par un générateur G de tension u(z.t) variable (Figure 6) est caractérisée; pour t et z donnés, par les   densités   linéiques de   charge 1 (z,t) et ~2 (2,t) i(z,t) (C2) respectivement des cylindres (C1) et (Cz) lintensité du courant i(z,t) circulant dans les deux cylindres Figure-6- (C1) et (Cz) la différence de potentiel électrique u(z,t) entre les cylindres (C1) et (C2). Lespace entre les deux   cylindres   conducteurs   situé dans le plan (r0,z) est assimilé au vide dépourvu de charge et de courant de permittivité électrique € et de perméabilité magnétique   Ho On admet que dans cet espace le champ électromagnétique s'écrit, pour x donné, 2 (z,t) ( 1 E = E(z,t) ù, = 4 et B = B(z,t) = Ko_i(2,t2 ( 1 + ux 4 4 et que le 2 1 €o X d - x 2 I X d - x potentiel vecteur est de la forme A = A(z,t) u,
+Concours Mathématiques et Physique Session Juin 2013
+Epreuvc de Physique
+Page 4/8
+
+--- page 5 ---
+1- Ecrire les équations de Maxwell dans Fespace compris entre les cylindres et situé dans le plan Donner  les relations liant les champs électrique et magnétique E et B aux potentiels (xO,z) scalaire V et vecteur   A de F'une des équations de Maxwell établir la relation entre 02  di 2- A partir et dt Ôz de lune des équations de Maxwell établir la relation entre 02  di 3- A partir et Ôz dt 4- Montrer; pour 2 et ( donnés, que la différence de potentiel entre les cylindres (C1) et (C2) s'écrit 2 (z,t) u(z,t) = avec € la capacité linéique de la ligne bifilaire. C ôi ~C @u âu et = ~L @i 5- En déduire les deux équations différentielles couplées suivantes = dz ôt dz dt avec L Vinductance linéique de la ligne bifilaire. @i 1 @i obéit à léquation différentielle = 6-a) En déduire que lintensité   i(z,t) 0 . Quel dz 2? dt nom donne-t-on à ce type déquation ? Donner v et préciser sa dimension. On appellera onde de courant toute solution de cette équation. 6-b) Etablir léquation différentielle équivalente pour la tension u(z,t) est la solution  générale de léquation   différentielle   vérifiée par   i(z,t) Interpréter 6-c)   Quelle chaque terme de cette solution. 7-a) Peut-on appliquer les lois de Félectrocinétique pour une ligne bifilaire de longueur ? = 500 m et pour un signal électrique de fréquence f = 1 MHz se propageant à la célérité de la lumière dans le vide ? 7-b) On se propose de raisonner sur une longueur dz de Ldz i(z i(z + dz,t) la ligne qu'on modélise  par   une bobine dinductance L dz et un condensateur de capacité € dz (Figure 7) u(z.t) Cdz u(z + dz t) On note i(z,t) et i(z + dz,t) les intensités des courants dans la ligne respectivement en z et z + dz et u(z,t) et z 2 + dz u(z + dz , t) les tensions dans la ligne respectivement en En appliquant les lois de lélectrocinétique Figure-7 - 2 et z + dz aux bornes du condensateur dune part et aux bornes de la bobine d'autre part établir, à lordre le plus bas, les deux équations couplées de la question 5 8- La ligne bifilaire est alimentée en Z 2 =Q par un générateur de tension sinusoïdale de pulsation 0 charge d'impédance Z (Figure 6). Londe de courant peut S écrire, @ et fermée en 2 = par une (oi = k :) e (et + kz) iz (z,t) = 4 k en notation complexe; i(z,t) = i(2,t) + iz(z,t) avec '(z,t) = I; e est le nombre d'onde et 1 et 12 sont des constantes positives. 8-a) Etablir la relation de dispersion liant k et @ s'écrit, en notation complexe; @(z,t) = 1  (z,t) + 12 (z,t) En utilisant la 8-b) L'onde de tension de la question 5- montrer que 2 (2,t) = Z i((z,t) et première équation couplée L ~Zc appelée impédance caractéristique de la ligne bifilaire. 12 (z,t) = i2 (z,t) avec Z, Yc
+Concours Mathématiques et Physique Session Juin 2013
+Epreuvc de Physique
+Pege 5/8
+
+--- page 6 ---
+II- Ligne bifilaire adaptée : onde progressive 9- Ecrire la condition aux limites à ]extrémité Z = 0 de la ligne bifilaire. En déduire le rapport 12/1 en fonction de Z et Z Quel nom peut-on donner à ce rapport ? 10- A quelle condition Fonde de courant qui se propage dans la ligne bifilaire est plane progressive selon z )0 ? Dans ces conditions la ligne est dite adaptée. Expliquer. Pour la suite on $'intéresse à cette onde progressive selon z )0 . Ecrire, en notation réelle, i(z,t) et u(z,t) 11-a) Déterminer la vitesse de phase 2 et la vitesse de groupe V en fonction de L et € 11-b) Les signaux   électriques de forme quelconque sont-ils déformés au cours de la propagation ? Expliquer. 12-a) Déterminer la puissance électrique P(z,t) transportée par Fonde électrique le long de la ligne bifilaire ainsi que sa valeur moyenne temporelle (P(z,t)) 12-b) Déterminer l'énergie électrique   w(z;t) stockée dans la ligne bifilaire; par unité de longueur; ainsi que sa valeur moyenne temporelle (w(z,t)) 12-c) Montrer que P(z,t) et w(z,t) vérifient la relation ôP + âw ' 0 Commenter. Ôz @t (P(z,4)) 12-d) Déterminer Que représente ce rapport ? (w(z,t))
+III - Ligne bifilaire ouverte : Onde stationnaire La ligne bifilaire est alimentée en Z = = 0 par un générateur de tension sinusoïdale de pulsation @ et ouverte en 2 = 0 (Figure 8) Soit ^ la longueur d'onde de londe de courant qui se propage le long de la ligne bifilaire.
+(C1)
+(Cz)
+2
+Figure-8 -
+13-a) Justifier qu'en z = 0 il y a un nœud de courant; en déduire la valeur du rapport 12/1 13-b) En déduire, qu'en notation réelle; Tonde stationnaire de courant s'écrit 2 7 i(z,t) = Io sin( z) sin(o t) 1 13-c) Déterminer les positions des nœuds et des ventres de courant en fonction de ^ 13-d) Dessiner à un instant donné ]amplitude de londe de courant en fonction de Z dans le cas où / = 3 ^ 14- Déterminer; en notation   réelle; Fonde de tension   u(z,t)_ En déduire   ( P(z,t)) la valeur moyenne temporelle de la puissance électrique transportée par Fonde. Commenter.
+IV - Antenne demi-onde Cette partie est indépendante des parties précédentes de Fépreuve. Dans cette partie on choisit lorigine 0 le milieu de Fantenne demi-onde; on prendra Vaxe (Oz) confondu avec lantenne et on notera (0, 4, 10" 4,) le repère sphérique
+Concours Mathématiques et Physique Session Juin 2013
+Eprcuve de Physique
+Pege 6/8
+
+--- page 7 ---
+On écarte les brins de la ligne bifilaire en circuit ouvert, étudiée précédemment; dune   longueur 1/4 (Figure 9-a), on réalise ainsi une antenne demi-onde (Figure 9-b). L'onde stationnaire de 21 2 7 courant le de lantenne s'écrit : i(z,t) = Io cos( z) cos(o t) avec = @ long 1 1
+M  
+1/4
+
+1/2
+ligne bifilaire
+1/4
+i(z,t)
+Figure-9-a -
+Figure-9-b -
+15- Quelle doit être la longueur de lantenne demi-onde de la chaine radio jeune de fréquence 99,4 MHz ? 16- Quelles conditions doit nécessairement vérifier le courant i(z,t) 17- Quelle est la différence majeure entre Fantenne demi-onde et le dipôle électrique oscillant ? 18- On décompose lantenne en éléments de longueur dz avec dz (( 2 (Figure 9-b) 18-a) Exprimer la charge 9(z,t) en fonction de Lo' 0 et 2 18-b)  Justifier   qu'un élément de lantenne se comporte comme un dipôle électrique  oscillant. Déterminer son moment dipolaire élémentaire dp(z,t) = dp(z,t) Z 19- Le champ électrique rayonné; en un point M de Fespace; par un dipôle électrique oscillant de moment dipolaire p = p ", situé autour du point 0, est sin@ d2 E(M,t) = p(t OM) ) 4, avec 0 = p;OM 4 I & C OM dt? 19-a) On suppose que les champs rayonnés par chaque élément dz sont émis dans la même direction 0 (Figure 9-b) Justifier que le champ électrique rayonné par un élément dz de ]antenne, situé autour dun point P tel que OP = z , est 1o @ sin € 2 1 = sin 0 ( 2 1 PM dE(M,t) coS 2 | dz ù0 avec r 2 OM 4 I € C 1 1 19-b) Exprimer PM en fonction de r , z et 0 19-c) En déduire que le champ électrique rayonné par [antenne demi-onde est T coS cos0 1o 2 E(M,t) 2 I = sin 0 t ~ r J" 2 I € € Y sin 0 1 20- Quelle est la structure de londe rayonnée par ]antenne au point M ? En déduire la valeur moyenne temporelle du vecteur de Poynting 21-a) Déterminer P la puissance électromagnétique moyenne totale rayonnée par lantenne demi- onde à travers une sphère de centre 0 et de rayon Y
+Concours Mathématiques et Physique Session Juin 2013
+Eprcuve de Physique
+Page 7/8
+
+--- page 8 ---
+R 12 21-b) On définit la résistance de rayonnement   R, de Fantenne par  Pm = Calculer R; 2
+Iui) mnax 22- On définit la directivité dune antenne par D = 4 " r avec la valeur moyenne P max vecteur de Poynting dans la direction du maximum de rayonnement.  Calculer la temporelle du de T'antenne demi-onde ainsi que celle du dipôle oscillant de moment dipolaire directivité p = Po cos( t) u, Commenter . 
+
+   
+
+   in
 
 
 
+    g
+             
 
 
-
-
+Concours Mathématiques et Physique Session Juin 2013
+Epreuve de Physique
+Page 8/8

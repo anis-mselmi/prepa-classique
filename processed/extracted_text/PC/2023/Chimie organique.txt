@@ -1,27 +1,571 @@
+--- page 1 ---
+Instructions Lire attentivement et entièrement le sujet avant de commencer à le traiter Les questions dans tout le sujet_sont représentées par la lettre Q QL question I Q2 (question 22 Parfois deux questions peuvent être posées ensemble Cette épreuve comporte 16 pages dont deux vides. Les trois problèmes sont indépendants: Tout résultat doit être écrit dans les cadres adéquats. Aucun échange entre les candidats n'est autorisé. Si au cours de Fépreuve; un candidat repère ce qui lui semble être une erreur d'énoncé, il la signale sur sa copie et poursuit sa composition en indiquant les raisons des initiatives qu 'il est amené à prendre. Dans tout le sujet à chaque fois qu 'il est demandé la structure de Cram d'une substance; seuls les centres asymétriques seront représentés selon_Cram
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 16 PAGES NUMEROTÉES sur 16,2 sur 16 3009 16 sur 16 _
+Chimie organique
+Page sur 16
+Concours Physique-Chimie- Session 2023
 
+--- page 2 ---
+Notations et données_numériques
+Numéros atomiques Z H=1,C=6, N=7, 0=8, CI = 17, Br = 35.
+Dans tout le sujet, on utilise les notations suivantes
+CHs iPr CH CH; isopropyle
+tBu
+CH; CHs CHs ter-butyle
+Table de RMN du proton
+Protons   CH;
+6 ppm
+Protons   CHz CHz-C CH2-C-0 CHz-C-CI CHz-C-Br CHz-C-=C CH2-Ar CHz-CO-R CHz-NH CHz-0 CHz-O-CO CH2-CI CH2z-Br CH2-I
+8 ppm Protons  CH 1.3 CH-R 19 CH-C-0 1.7-2 CH-C-C 1.9-2.2 CH-Ar 2.3 CH-CO-R 2.6-2.8 CH-NH 2.3-2.4 CH-0 2.4-2.5 CH-CI 3.2-3.4 CH-Br 4.1-4.3 CH-I 3.6-3.7 3.4-3.5 3.2-3.3
+8 ppm 1.5 2.0 2.6 3.0 2.7 2.8 3.7-3.9 4.1-4.3 4.2-4.4 4.3-4.4
+CH3-C CHz-C-0 CHs-C-CI CHs-C-Br CHs-C-I CHs-C-C CH3-Ar CHs-CO-R CHz-NH CH;-0
+0.9 1.3 1.4-1.7 1.6-1.9 1.8-2 1.6 2.1-2.3 2-2.2 2.1-2.3 3.3
+Protons portés par un hétéroatome R-OH Ar-OH R-NHz (R-NH-) R-COH
+8 ppm
+0.7-5.5 4.5-7.1 0.6-5 11 - 12 ] Iable @Infra-Rouge Liaison Nombre dondes en cm CC 1600-1650 cC 2100-2220 O-H alcools 3500-3700 O-H acides carboxyliques 2500-3200 C-O-C (éthers, esters 1050-1260 C-0 amides 1630-1710 C-Océtones; aldéhydes 1650-1740 C-Oacides carboxyliques 1660-1740 C-0 esters 1700-1750 C Ohalogénures dacides 1785-1815 N-H amines (primaires, 3100-3500 secondaires Page 2 sur 16 Concours Physique-Chimie- Session 2023
 
+--- page 3 ---
+Problème [
+On considère le composé A représenté ci-dessous CH3
+HzC
+Br
+Traité par une solution concentrée de CH,O-Na dans le méthanol à température élevée, conduit au diène B par un processus bimoléculaire . QI et Q2- Déterminer la structure semi-développée plane de B (QI) à partir du mécanisme de la réaction (Q2)
+Q3- La structure chimique de peut-elle correspondre à un mécanisme El?_Justifier.
+Page 3 sur 16
+Concours Physique-Chimie- Session 2023
 
+--- page 4 ---
+Q4- Donner les représentations Cis et Trans du diène B.
 
+On réalise à partir de B en conformation Cis; la suite réactionnelle suivante
+HzC
+B
+NH2-NH2 NaOH
+D (4-éthylcyclohexène)
+100 C 3h
+HCI
+D1
+E1 (IR,3R)
+E2
+F1 (cis-1-chloro-4-éthylcyclohexane) F2
+Q5- Déterminer la structure plane de C à partir du mécanisme de la réaction.
+Q6- Donner la structure plane de D.
+Page 4 sur 16
+Concours Physique-Chimie- Session 2023
+CH,
 
+--- page 5 ---
+Q7- Représenter les structures de Cram de El et E2 (structures justifiées par les configurations absolues), sachant que DI est /un des stéréoisomères de D et que El et E2 ont la même formule plane
+Q8- Représenter les structures de Cram de Fl et F2 sachant quil s'agit de deux isomères de configuration:.
+Q9- Quel est le type disomérie qui relie Fl et F2 ?
+Q10 - Déterminer la configuration absolue du carbone asymétrique de DI (la réponse doit être justifiée)
+Page 5 sur 16
+Concours Physique-Chimie- Session 2023
 
+--- page 6 ---
+On considère maintenant ]'un des stéréoisomères de El, noté E'1 et ayant la projection de Newman suivante COCH3
+H
+H
+H
+E1
+Q11- Déterminer la représentation spatiale < chaise > relative à E1.
+Q12- En déduire les configurations absolues de ses carbones asymétriques.
+Q13- Quelle est la relation entre El et E?1 ?
+Page 6 sur 16
+Concours Physique-Chimie- Session 2023
 
+--- page 7 ---
+Problème I
+Synthèse Malonique
+On considère le diester A, appelé usuellement malonate de diéthyle et ayant la structure suivante
+C2H5 0
+C2Hs
+On effectue sur la suite réactionnelle suivante
+Br
+EtO-Na'
+2 NaOH
+Ph
+CO2' Na
+sel
+CO2 Na
+2 H2SO4
+chauffage
+Q14- Quelle est la nature de la réaction A "3 B ?
 
+Q15- Donner les structures planes de B et de C.
+Q16- Comment s'appelle la réaction € _> D ?
+Q17- Déterminer la structure plane de E
+Page sur 16
+Concours Physique-Chimie- Session 2023
+~CO2
 
+--- page 8 ---
+On réalise sur F, une spectroscopie Infra-Rouge et une spectroscopie de RMN du proton:. On obtient les résultats suivants
+Infra-rouge Plusieurs bandes dabsorption dont une vers 1740 cm et une autre vers 3200 cm-1
+RMN 'H Le spectre fait apparaitre les signaux suivants Un triplet vers 2.51 ppm (2) Un triplet vers 2.75 ppm (2) Un massif entre 7.3 et 7.4 ppm (5) Un singulet vers 11 ppm (1) Les rapports dintégration sont écrits entre les parenthèses:
+Q18- Déterminer la structure semi-développée plane de F.
+Q19- Indiquer pour chaque groupe de protons équivalents de F, le déplacement chimique qui lui correspond
+' .
+On réalise maintenant sur Fla séquence réactionnelle suivante
+Page 8 sur 16
+Concours Physique-Chimie- Session 2023
 
+--- page 9 ---
+1) LiAlH4 2) H3O+
+H2SO4 (CC) chauffage
+HCI
+EtO-Na*IEtOH H + K (majoritaire) chauffage
+1) 03 K 2) HzO/H* IZn
+H3C
+NaOH chauffage
+2L
+M sel
+N
+Q20- Donner les structures planes relatives à G,I, Ket L.
+Q21et Q22- Déterminer à partir du mécanisme (Q21) les structures planes de M et N (Q22).
+Page 9 sur 16
+Concours Physique-Chimie- Session 2023
 
+--- page 10 ---
+923- Compléter les schémas réactionnels suivants (indiquer les réactifs, catalyseurs,
+OH
+Ph
+HO
+CH3
+Ph
+Problème 4
+Condensation de Claisen
+On considère la cétone A représentée ci-dessous
+CH3
+H3C
+Q24- Donner la structure du stéréoisomère de A, que lon notera A=
+Q25- Indiquer lequel parmi A ou A est le plus stable. Justifier
+Page 10 sur 16
+Concours Physique-Chimie - Session 2023
+CH;
 
+--- page 11 ---
+Q26-Donner le nom complet de A
+On fait subir à A, la suite réactionnelle suivante
+Ph-CHz-MgCI
+CH3
+2)H3O+
+H3C
+OH 0 = CH2N2 (diazométhane) CH;
+LiAlH4 B 2) H3Ot
+1) CITs
+HzOlHt
+Ph
+2) NaCN
+H3C
+CH3O-Nat 26
 
+H
+Q27- Sachant que Bet C ont les mêmes fommules brutes; expliquer pourquoi la réaction en question abouti à deux produits (on ne tient pas compte de laspect stéréochimique) .
+Page 1l sur 16
+Concours Physique-Chimie- Session 2023
+CH;
+CH;
 
+--- page 12 ---
+Q28 et Q29- Donner les structures planes de B et C (Q28), sachant que le spectre Infra-Rouge relatif à B, comporte parmi ses   bandes dabsorptions; une vers 1720 cm 1, alors que celui de € (qui décolore leau de Brome), comporte entre autre signaux; une bande vers 3550 cm Les réponses doivent être justifiées (Q29).
+n
+2 
+Q30- En réalité B est obtenu en quantité légèrement plus élevée que celle de C. Expliquer.
+Q31- Détailler le mécanisme dobtention de B.
+Page 12 sur 16
+Concours Physique-Chimie - Session 2023
 
+--- page 13 ---
+Q32- Donner les structures planes de D et E
+Q33- Quel est le rôle joué par le chlorure de 4-toluènesulfonyle (chlorure de tosyle) Ts-CI dans ce cas ?
+Q34- Déterminer la structure plane de G.
+Q35 et Q36- Déterminer la structure plane du cétoester H (Q35), partir du mécanisme de la réaction (Q36).
+Page 13 SUr 16
+Concours Physique-Chimie - Session 2023
 
+--- page 14 ---
+e
+Fin
+Page 14 sur 16
+Concours Physique-Chimie- Session 2023
 
+--- page 15 ---
+Instructions Lire @ttentivement et entièrement le sujet avant de commencer à le traiter Les questions dans tout le sujet_ sont représentées par la lettre 0 Q1 (question 1L_02 (question 22 Parfois deux questions peuvent être posées ensemble Cette épreuve comporte 16 pages dont deux vides: Les trois problèmes sont indépendants: Tout résultat doit être écrit dans les cadres adéquats: Aucun échange entre les candidats n'est autorisé. Si au cours de Fépreuve; un candidat repère ce qui lui semble être une erreur d'énoncé, il la signale sur sa copie et poursuit sa composition en indiquant les raisons des initiatives qu'il est amené à prendre. Dans tout le sujet; à chaque_ fois qu'il est demandé la structure de Cram dune substance; seuls les _centres asvmétriques seront représentés selon Cram
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 16 PAGES NUMEROTÉES 1 sur 16,2 sur 16 989 16 sur 16 _
+Concours Physique-Chimie
+Chimie organique
+Page 1 sur 16
+Concours Physique-Chimie - Session 2023
 
+--- page 16 ---
+Notations et données numériques
+Numéros atomiques Z H=l,C=6, N=7, 0=8, CI =17, Br = 35.
+Dans tout le sujet; on utilise les notations suivantes
+iPr
+CHs CH 'CH3 isopropyle
+tBu
+CHs CH3 CHs ter-butyle
+Table de RMN du proton
+Protons CH3
+6 ppm
+Protons CH2 CH2-C CH2-C-0 CH2-C-CI CH2-C-Br CH2-C-C CH2-Ar CHz-CO-R CHz-NH CH2-0 CH2-O-CO CH2-CI CH2-Br CH2-I
+8 ppm Protons_CH 1.3 CH-R 1.9 CH-C-0 1.7-2 CH-C-C 1.9-2.2 CH-Ar 2.3 CH-CO-R 2.6-2.8 CH-NH 2.3-2.4 CH-0 2.4-2.5 CH-CI 3.2-3.4 CH-Br 4.1-4.3 CH-I 3.6-3.7 3.4-3.5 3.2-3.3
+6 Ppm 1.5 2.0 2.6 3.0 2.7 2.8 3.7-3.9 4.1-4.3 4.2-4.4 4.3-4.4
+CH3-C CH3-C-0 CH3-C-CI CH3-C-Br CH3-C-I CH3-C=C CHs-Ar CH,-CO-R CH,-NH CH3-0
+0.9 1.3 1.4-1.7 1.6-1.9 1.8-2 1.6 2.1-2.3 2-2.2 2.1-2.3 3.3
+Protons portés par un hétéroatome R-OH Ar-OH R-NH2 (R-NH-) R-COH
+6 ppm
+0.7-5.5 4.5-7.1 0.6-5 11- 12
 
+Iable dInfra-Rouge
+Liaison Nombre dondes en cm =C 1600-1650 C=C 2100-2220 O-H alcools 3500-3700 O-H acides carboxyliques 2500-3200 C-O-C (éthers, esters 1050-1260 C-O amides 1630-1710 COcétones; aldéhydes 1650-1740 COacides_carboxyliques 1660-1740 C-0 esters 1700-1750 COhalogénures d' acides 1785-1815 N-H amines (primaires, 3100-3500 secondaires) Page 2 sur 16 Concours Physique-Chimie - Session 2023
 
+--- page 17 ---
+Problème [
+On considère le composé A représenté ci-dessous CH; H2C Br
+Traité par une solution concentrée de CH,ONa dans le méthanol à température éevée, A conduit au diène B par un processus bimoléculaire_ Q1 et Q2- Déterminer la structure semi-développée plane de B (Q1) à partir du mécanisme de la réaction (Q2).
+OCH;
+CH,O
+CH2
+HzC
+HzC
+Br
+H
+Br
+HzC
+état de transition
+Q3_ La structure chimique de A peut-elle correspondre à un mécanisme El? Justifier.
+Oui car le carbocation qui sera formé intermédiairement sera stabilisé par mésomérie
+CH3
+HzC
+HzC
+CH3
+~Br
+HzC
+Br
+Page 3 sur 16
+Concours Physique-Chimie - Session 2023
+"h
+Mh
+CH3
 
+--- page 18 ---
+Q4- Donner les représentations Cis et Trans du diène B.
+HzC CH2 Cis
+HzC
+Trans
+fomfquation
+On réalise à partir de B en conformation Cis, la suite réactionnelle suivante
+HzC
+NH2-NH2 NaOH
+D (4-éthylcyclohexène)
+100 C 3h
+HCI
+D1
+E1 (IR,3R)
+E2
+F1 (cis-1-chloro-4-éthylcyclohexane) F2
+Q5- Déterminer la structure plane de C à partir du mécanisme de la réaction
+CH2
+CH3 CH2 'CH2
+100 C
+CH3
+3h
+Q6- Donner la structure plane de D.
+CH3
+Page 4 sur 16
+Concours Physique-Chimie - Session 2023
+CH2
+CH;
 
+--- page 19 ---
+Q7- Représenter les structures de Cram de El et E2 (structures justifiées par les configurations absolues) , sachant que Dl est lun des stéréoisomères de D et que El et E2 ont la même formule plane.
+CzHs
+CI 1 X E1
+R (lecture inversée)
+C H s
+C2Hs
+E2
+Q8- Représenter   les structures de Cram de Fl et F2 sachant qu'il s'agit de deux isomères de confie iguration:
+C2Hs
+CzHs
+F1
+F2
+Q9- Quel est le type d'isomérie qui relie Fl et F2 ?
+Isomérie géométrique du type Cis-Trans. iaodeno scnexe
+Q10- Déterminer la configuration absolue du carbone asymétrique de DI (la réponse doit être justifiée). La configuration absolue du carbone asymétrique de Dl est < R v daprès les structures de El, E2
+Page 5 sur 16
+Concours Physique-Chimie- Session 2023
 
+--- page 20 ---
+On considère maintenant ]'un des stéréoisomères de El, noté E'1 et ayant la projection de Newman suivante C2Hs
+H
+E'1
+Q11 - Déterminer la représentation spatiale < chaise > relative à E'1.
+C2Hs
+E'1
+Q12- En déduire les configurations absolues de ses carbones asymétriques
+CzHs
+2' 4' %
+E'1
+Q13- Quelle est la relation entre El et E1.
+Enatiomères
+Page 6 sur 16
+Concours Physique-Chimie - Session 2023
 
+--- page 21 ---
+Problème 2
+(6 points)
+Sxnthèse Malonique
+On considère le diester A, appelé usuellement malonate de diéthyle et ayant la structure suivante
+CzHs
+C2Hs
+On effectue sur A la suite réactionnelle suivante
+EtO-Nat
+2 NaOH
+Ph
+CO2 Nat
+sel
+CO2 Na*
+2 H2SO4
+chauffage
+~CO2
+Q14- Quelle est la nature de la réaction A 
+B ?
+Réaction acido-basique
+Q15- Donner les structures planes de B et de C.
+COzCzHs Na HC CO2C2Hs
+Ph
+COzCzHs
+COCzHs
+Q16- Comment s 'appelle la réaction C __> D?
+Réaction de saponification
+Q17- Déterminer la structure plane de E
+COzH
+Ph
+CO2H
+Page 7 sur 16
+Concours Physique-Chimie- Session 2023
 
+--- page 22 ---
+On réalise sur F, une spectroscopie Infra-Rouge et une spectroscopie de RMN du proton: On obtient les résultats suivants
+Infra-rouge Plusieurs bandes dabsorption dont une vers 1740 cm et une autre vers 3200 cm
+RMN 'H Le spectre fait apparaitre les signaux suivants Un triplet vers 2.51 ppm (2) Un triplet vers 2.75 ppm (2) Un massif entre 7.3 et 7.4 ppm (5) Un singulet vers 11 ppm (1) Les rapports dintégration sont écrits entre les parenthèses:
+Q18- Déterminer la structure semi-développée plane de F.
+COzH
+Ph
+Q19- Indiquer pour chaque groupe de protons équivalents de F, le déplacement chimique qui lui correspond
+OH 11 ppm
+2,51 ppm HzC
+CH2 2,75 ppm
+7,3ppm 7,4 ppm
+On réalise maintenant sur F la séquence réactionnelle suivante
+Page 8 sur 16
+Concours Physique-Chimie- Session 2023
 
+--- page 23 ---
+1) LiAIH4
+H2SO4 (CC) chauffage
+HCI
+EtO-NatIEtOH H+ K (majoritaire) chauffage
+2) HsOt
+1) 03 K 2) HzO/H*IZn
+H3C
+NaOH chauffage
+2L
+M sel
+N
+Q20- Donner les structures planes relatives à G,I, Ket L.
+CH3
+CH3
+Ph
+OH
+Ph
+Ph
+Ph K
+CI
+Q2let Q22- Déterminer à partir du mécanisme (Q21), les structures planes de Met N (Q22).
+Il s'agit de la réaction Cannizzaro
+HO
+Ph
+OH- Nat
+OH
+O-Nat
+Ph
+Ph
+Ph
+Ph
+Na
+O-Na
+OH
+Ph
+Ph
+M
+N
+Page 9 sur 16
+Concours Physique-Chimie - Session 2023
 
+--- page 24 ---
+Q23-Compléter les schémas réactionnels suivants (indiquer les réactifs; catalyseurs,
+OH
+1) BH3
+Ph
+2) H2O2 NaOH
+H
+H2O
+HO
+H2SO4
+Ph
+Problème 3
+(6.75 points)
+Condensation de Claisen
+On considère la cétone représentée ci-dessous
+CH3
+H3C
+Q24- Donner la structure du stéréoisomère de A, que lon notera A'
+HsC
+CH3
+A
+Q25 - Indiquer lequel parmi A ou A est le plus stable. Justifier
+A est configuré < E v (trans); est le plus stable car présentant le minimum dinteractions.
+Page 10 sur 16
+Concours Physique-Chimie - Session 2023
+CH3
+CH;
+CH;
+
+--- page 25 ---
+Q26- Donner le nom complet de A.
+(E)-2-méthylhex-4-én-3-one
+On fait subir à A, la suite réactionnelle suivante
+CH3
+Ph-CH2-MgCI 2)H,O+
+H3C
+OH
+Ph
+CH2N2 (diazométhane) CH3
+1) LiAlH4 2) H3O+
+1) CITs
+HzOIH+
+2) NaCN
+H3C
+CH,O-Nat 2G
+H
+Q27- Sachant que B et C ont Ic ` même formule brute expliquer pourquoi la réaction en question abouti à deux produits (on ne tient pas compte de laspect stéréochimique).
+étant une cétone a,B-insaturée, elle subit donc une addition < 1,2 > et une addition < 1,4 >
+CH3
+CH3
+Ph
+MgBr
+MgBr Ph
+CH3
+H3C
+H3C
+addition 1,2
+addition 1,4
+Page 11 sur 16
+Concours Physique-Chimie - Session 2023
+CH;
+CH3
+CH3
+
+--- page 26 ---
+Q28 et Q29- Donner les structures planes de B et C (Q28), sachant que le spectre Infra-Rouge relatif à B, comporte parmi ses bandes dabsorptions; une vers 1720 cm 1, alors que celui de C (qui décolore ]eau de Brome) comporte entre autre signaux; une bande vers 3550 cm 1 . Les réponses doivent être justifiées (Q29).
+Le composé B comporte une fonction cétone dont la bande d'absorption en spectroscopie Infra-Rouge apparaît dans ce cas vers 1720 cm alors que le composé C comporte un groupe alcool dont le signal en IR apparaît ici vers 3550 cm et une double liaison C-C pouvant absorber une mole de Brome et le décolorer .
+Ph
+H3C
+décoloration de l'eau de Brome
+3550 cm-1
+H3C
+OH
+H3C
+Ph
+1720 cm-1
+Q30- En réalité B est obtenu en quantité légèrement plus élevée que celle de C. Expliquer.
+La cétone étant encombrée à cause de la présence du groupe isopropyle, laddition 1,4 > sera dans ce cas favorisée
+Q31 - Détailler le mécanisme dobtention de B
+MgHBr CH3
+CH3
+MgBr
+Ph
+Ph
+CHs
+CH3
+HsC
+HsC
+HsOt
+Ph
+CH;
+CH3
+équilibre tautomérique
+HsC
+Ph
+CH;
+HsC
+Q32- Donner les structures planes de D et E. Page 12 sur 16 Concours Physique-Chimie- Session 2023
+CHs
+CH;
+CH3
+CH,
+
+--- page 27 ---
+Ph
+Ph
+CH3
+H3C
+HsC
+HO
+NC
+Q33- Quel est le rôle joué par le chlorure de 4-toluènesulfonyle (chlorure de tosyle) Ts-CI dans ce cas ?
+Le groupe OH est un mauvais nucléofuge; il permet très difficilement une substitution nucléophile; alors que le groupe OTs; est un bon nucléofuge.
+Q34- Déterminer la structure plane de G.
+Ph
+CH3
+H3C
+H3C
+Page 13 sur 16
+Concours Physique-Chimie- Session 2023
+CH;
+CHs
+CH;
+CH3
+
+--- page 28 ---
+Q35 et Q36- Déterminer la structure plane du cétoester H (Q35), à partir du mécanisme de la réaction (Q36).
+Ph
+Ph
+CH3
+CH3
+H3C
+HsC
+CH3
+CH3
+CH3
+HsC
+H3C
+HsC_
+CH; Ph
+HsC
+Ph
+Ph
+Ph
+HsC
+HsC
+H3C
+Ph
+H3C
+H3C
+CH3
+H3C CH;
+CH3 HsC
+H3C
+HsC
+H3C
+H3C
+H
+Fin
+Page 14 sur 16
+Concours Physique-Chimie- Session 2023 0lva1,
+CH;Ç
+CH;

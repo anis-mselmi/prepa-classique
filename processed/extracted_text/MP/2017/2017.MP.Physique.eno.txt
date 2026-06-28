@@ -1,7 +1,98 @@
+--- page 1 ---
+4S3j)5/e3) @6jxzlgzls #g3Æp dosa Uibsl eljELiJi uxmi jsJalyji 2017i23'
+REPUBLIQUE TUNISIENNE Ministère de l'Enseignement Supérieur et de la Recherche Scientifique
+Concours Nationaux d'Entrée aux Cycles de Formation dIngénieurs Session 2017
+Concours Mathématiques et Physique Epreuve de Physique
+Date Lundi 29 Mai 2017 Barème Problème 1 : 11 pts
+Heure 8 H Problème 2 9 pts
+Durée 4 H
+Nb pages 08
+L'usage dune calculatrice non programmable est autorisé. L'épreuve comporte deux problèmes indépendants, le candidat peut les résoudre dans l'ordre qui lui convient en respectant néanmoins la numérotation des questions. Un candidat peut toujours se servir dun résultat fourni par l'énoncé pour continuer sa composition.
+Données utiles Le rotationnel dun vecteur A en coordonnés cylindriques s'écrit Rot '()=(1â4 ;Ae)ur  +( ôAL âAz)u'+(1 9(r422_1 5)", ô0 ôz dz dr ôr cos pcos q =Z [cos(p + q)+cos(p -9) ] 2 Vitesse de la lumière dans le vide c=3 108 m.s j est le nombre complexe tel que j? = -1 SI Unité exprimée dans le système international
+L'épreuve est composée de deux problèmes. Le problème comprend trois parties qui traitent de quelques unes des applications du phénomène d'induction, alors que le problème 2 traite dans une première partie du phénomène d'interférence à N ondes en commençant par trois ondes. La fin de ce problème traite de quelques applications du réseau.
+Problème 1
+Phénomène dinduction et applications
+Le phénomène dinduction électromagnétique  présente   certaines   applications intéressantes notamment   dans le domaine du chauffage tel que les   plaques à induction où [es tours induction. On cite également le phénomène de lévitation magnétique utilisé, entre autres, dans les trains à grandes vitesses ainsi que dans le freinage par induction utilisé par les grands engins. Dans ce problème; on étudie quelques unes de ces applications et on utilisera le système de coordonnées cylindriques (r,0,z) dont les vecteurs unitaires sont (ù,,40,4,)
+Concours Mathématiques et Physique
+Session 2017
+Epreuve de Physique Page 1/8
 
+--- page 2 ---
+A- Plaque à induction
+Une plaque chauffante à induction est une plaque qui permet de chauffer le fond d'une casserole où dun poêle non pas par contact thermique mais en créant des courants de Foucault induits dans le socle de la plaque formé, en général, dun conducteur ferromagnétique. Le transfert dénergie électrique s'effectue par induction mutuelle entre une bobine (linducteur) et la plaque circulaire formant le fond du récipient (linduit) La casserole repose sur une   plaque en vitrocéramique endessous de  laquelle est logée une bobine plate daxe Oz qui génère Surface au niveau du fond de la casserole un   champ vitroceramique magnétique sinusoïdal uniforme Fond de la B=Bo sin@t uz damplitude et de Générateur Bo casserole de courant pulsation @ (Fig.1) Bohine plate Le fond de la casserole peut être modélisé par trois spires concentriques de centre O, de Fig.1 diamètre Dket de résistance Rk (k=-1-3).
+Exprimer le flux de B à travers la spire de diamètre Dk. 2 En déduire la fe.m induite ek puis le courant ik circulant dans la spire k. Donner lexpression de la puissance instantanée P& dissipée par effet Joule dans la spire k. Exprimer la puissance moyenne temporelle (P ' 5 Exprimer la puissance moyenne totale ( P)   dissipée dans le fond de la casserole.
+B- Four à induction
+Considérons un cylindre en cuivre de rayon R, de hauteur H et de conductivité électrique Y entouré par un solénoïde (S) coaxial ayant n spires jointives par unité de longueur parcourues par un courant sinusoïdal i(t)= I cos@ t (Fig.2) En négligeant   les   effets de bord (H>>R), établir Pexpression du champ magnétique B à lintérieur du solénoïde en fonction de n, %o et i(t). On admet que ce champ est nul à lextérieur de (S). En utilisant les propriétés de symétrie, montrer que le udfce champ   électrique   induit par ce courant   n'a qu'une composante suivant Ue et que cette composante ne dépend que de r et t. Fig 2 Déterminer le champ électrique induit E(r,t) en tout point M du conducteur supposé avoir les mêmes propriétés électrique et magnétique que le vide.
+Concours Mathématiques et Physique
+Session 2017
+Epreuve de Physique Page 2/8
 
+--- page 3 ---
+9 En utilisant la loi dOhm en déduire le vecteur densité de courant volumique j c (r,t) Déterminer la puissance instantanée par unité de volume P puis sa valeur moyenne temporelle (P) . 10 Calculer la puissance moyenne ( P)   dissipée par effet Joule dans le conducteur AN: R-O,Im H=Im; I0-2A, @0-1001 Ho = 4r10-1SI , Y=6.107 0-' m et n=1000 m 11 Sachant que la température de fusion du cuivre est Tf =1358 K; sa capacité thermique massique est C= 385 Jkg 'K' et sa masse volumique est p = 8920kg m calculer la quantité de chaleur Q nécessaire pour faire fondre le cylindre de cuivre se trouvant initialement à la température ambiante To=293K. 12 Calculer la durée % , nécessaire pour faire fondre le cylindre en cuivre. Cette durée vous parait-elle raisonnable ? 13 Pour   augmenter la   puissance dissipée par effet   Joule, on utilise une pulsation =100 @0 calculer ( P) . En déduire la nouvelle valeur de %f Conclure. 14 On admet  que le cylindre en cuivre   (très bon conducteur   thermique)   évacue vers lextérieur par sa surface totale S, une puissance Pt = h (Tf-To)S: où h est une constante 14.1- De quel type de transfert thermique s'agit-il ? 14.2- Qu'appelle ton h ? Donner son unité dans le système international 14.3- Définir une résistance thermique pour ce type de transfert. 15. On se propose de recalculer le temps %, en tenant compte de ces pertes 15.1 Montrer que pour compenser ces pertes; la pulsation @ doit être supérieure à une pulsation critique @c, donner alors son expression en fonction des données du problème. Sachant que h 155 SI, calculer la valeur de @ 15.2 Calculer la nouvelle valeur de T pour 0=1000 Conclure.
+C- Lévitation magnétique I-Préliminaires On considère une spire circulaire d'axe Oz et de rayon a, parcourue par un courant d'intensité I (Fig; 3a). On admet que le champ magnétique B créé par la spire en un point 0' de son axe s'écrit: B =%ol sin' a 4z (1) 2a 16 Un solénoïde fini de   longueur possédant n spires jointives par unité de longueur de rayon a parcourues par un courant I (Fig. 3b). 16.1 Montrer en utilisant  les propriétés de symétrie qu' 'en tout point 0 extérieur ce solénoïde situé sur 5 laxe des z, le champ B possède une seule composante suivant cet axe. Fig. 3a Fig. 3b
+Concours Mathématiques et Physique
+Session 2017
+Epreuve de Physique Page 3/8
 
+--- page 4 ---
+16.2 Montrer; à Taide de léquation (1) que le champ magnétique B créé par ce solénoïde au point 0' peut se mettre sous la forme B = HonL(cos a cosaz )4, 16.3 Que devient cette expression pour un solénoïde semi-infini selon les z négatifs?
+II- Bobine plate en Lévitation magnétique
+Un solénoïde (S) supposé être semi-infini d'axe Oz vertical de rayon a et comportant n spires jointives par unité de longueur parcourues par un courant dintensité I =Io cos @t d= 'amplitude Io et de fréquence f = 50 Hz On place au dessus de (S) à une distance z du point 0 une bobine conductrice plate, de centre 0 comportant N spires Bobine de même rayon << (Fig; 4a). Cette bobine est de Z+dz masse m, dinductance L et de résistance R
+17 Calculer la longueur donde ^ associée au courant et justifier la validité   du régime quasi-stationnaire. 18 Décrire  qualitativement le phénomène qui lieu au Fig. 4a Fig. 4b niveau de la bobine 19 Exprimer le champ magnétique B créé par (S) au point 0' en fonction a, z, Ho n et I 20 Montrer; par des considérations de symétrie; qu' en tout point de cote proche de Faxe Oz et distant de r, ce champ possède deux composantes B, et B: 21 Pour déterminer la composante radiale Br de ce champ, il suffit de calculer son flux à travers une surface fermée cylindrique daxe Oz, de rayon r et de hauteur dz (Fig. 4b) dB 21.1 Montrer que cette composante s'écrit B, (r,z) = - dz Exprimer B, (r,z) en fonction de r, z, a,I, Ho et n 21.2 Dans la suite; on se place au niveau de la bobine en considérant z = a et r = b. Exprimer B le rapport en fonction de B 21.3 Pour 6 1 calculer la valeur du rapport B Conclure_ 20 B 22 Calculer le flux % du champ magnétique B à travers la bobine. En déduire /expression du coefficient M dinduction mutuelle solénoïde-bobine 23 Déterminer la fem induite e due à la variation du flux %edans la bobine. 24 Le schéma électrique équivalent de Tensemble solénoïde-bobine est donné par la figure 5. 24.1 En utilisant la notation complexe, calculer le Bobine courant électrique i (t) dans la bobine en fonction de R, M, L, @ et [ où I=Io ejar Fig 5
+Concours Mathématiques et Physique
+Session 2017
+Epreuve de Physique Page 4/8
 
+--- page 5 ---
+24.2 On   choisit comme solution de ip (t) Texpression 46 (t) = Ive'o+%) où est le déphasage entre les courants dans la bobine et dans le solénoïde. Exprimer Pamplitude réelle Im en fonction de M, Io R, L et 0 et montrer que Lo cos @ = VR? +I20? 25 On se propose détudier dans cette question le phénomène de lévitation induit dans la bobine. 25.1 Exprimer la force de   Laplace élémentaire dF qui s exerce sur un élément   de longueur di de la bobine. 25.2 Montrer que seule la composante Br du champ magnétique a une action sur la bobine supposée indéformable. 25.3 En déduire la force de Laplace F(t)qui s'exerce sur la bobine. 25.4 Montrer que sa moyenne temporelle s'écrit
+HoIl nb? nNMLo' (F() = sin Q Uz 4a (R? +Zo?) 25.5 Exprimer la condition sur   la masse m de la bobinc si on veut observer un soulèvement vers le haut de cette dernière (phénomène de lévitation) . 25.6 Cette lévitation est-elle possible si Vinductance propre L est nulle ? Justier
+Problème 2
+Interférences à N ondes et réseau de diffraction
+Partie A Interférences à trois   ondes
+Trois fentes fines F1, Fz et F; (Fig. 6) équidistantes de a et perpendiculaires au plan xOz sont éclairées par une fente source finc F parallèle aux trois fentes émettant une   lumière monochromatique de longueur donde dans le vide ^ et placée au foyer principal objet dune lentille convergente LI de distance focale f" On observe les interférences à linfini, c'est à dire en un point M dun écran (E) situé dans le plan focal image d'une lentille convergente Lz de même distance focale que LI. Questions préliminaires 1.1- Quel est lintérêt dutiliser des fentes dYoung au lieu des trous d Young 1.2-Quel est le rôle de chaque lentille ? 1.3- Tracer   le cheminement   des   rayons issus de F arrivant au point M après avoir traversé les trois fentes. 1.4-Les   vibrations qui interfèrent en M sont-elles cohérentes ? Justifier. Fig.6
+Concours Mathématiques et Physique
+Session 2017
+Epreuve de Physique Page 5/8
 
+--- page 6 ---
+Etablir 1expression du déphasage entre les vibrations issues de deux fentes successives en fonction de a, x, 2 et f
+3 La fente Fz émet la vibration complexe 51 prise comme 91 origine des phases. Montrer   que la   vibration   résultante 5 en un point Mde lécran s'écrit S=S [1+2cos0)] En   posant I =S  S1 Sf est le conjugué de S1) déterminer ~3æ 2 21 35 (rad) Fintensité I(%)  Fig-7 5 On donne sur la figure 7 les courbes I(0) correspondantes aux cas de deux et trois fentes dYoung: Commenter physiquement la différence   entre ces deux courbes On ferme la fente centrale F2. Exprimer Pintensité au point M en fonction de x, I1 et Pinterfrange if Calculer if pour a=0,5 mm, ^ =500 nm et f'=50 cm.
+Partie B Interférences à N ondes Réseau de diffraction
+I
+Détermination de la fonction réseau
+Nous étendons le calcul précédent au cas dinterférences à N ondes. Ceci fait appel à une structure périodique connue sous le nom de réseau. Un tel dispositif est constitué de N fentes fines parallèles équidistantes de @. Ce réseau est éclairé par un faisceau de lumière parallèle et monochromatique de   longueur donde 1 sous un angle dincidence On s'intéresse au faisceau   diffracté à Vinfini dans la direction 0comme le montre la figure 8 Calculer la différence de marche & entre deux rayons issus de deux fentes successives En déduire la différence de phase entre ces deux rayons 8 Soit S, la vibration complexe diffractée par la cre fente Fig; La phase de cette vibration sera prise comme origine telle que $1 = A e/ar où A est lamplitude réelle de la vibration. Sachant que la vibration issue de la deuxième fente est S2 =S,e-jv donner lexpression de la vibration Sp diffractée par la ième fente en fonction de S1 , p et Soit $ la vibration résultante diffractée par le réseau dans la direction 0 Montrer que $ peut se mettre sous la forme =j(N-1)pl2 sin( Np/ 2) S=51 e sin(p / 2)
+Concours Mathématiques et Physique
+Session 2017
+Epreuve de Physique Page 6/8
 
+--- page 7 ---
+10 En déduire Fintensité   lumineuse I(p) diffractée par le   réseau dans la   direction 0. Quelle est sa période ? 11 Etudier les variations de I(q)et préciser les positions des maximums principaux et des minimums 12 Calculer les intensités des maximums principaux Imax en fonction de A et N ainsi quc les intensités 1 et  I2   correspondantes aux deux premiers  maximums secondaires  1 Evaluer les rapports et I' Conclure max max 13 Tracer la courbe Z(p2 sur [intervalle [~2r;2n] max
+II- Applications des réseaux
+Mesure du pas dun réseau
+14 On dispose dun réseau de transmission comportant N fentes fines parallèles dont on veut déterminer  le pas a. Ce réseau est placé sur la plateforme dun goniomètre   éclairé entièrement à laide dun faisceau de lumière parallèle monochromatique de longueur donde 1=(546,2+0.I)nm sous un angle dincidence On s'intéresse au   faisceau diffracté à linfini dans la direction @ 14.1 Calculer langle de déviation D dun rayon incident en fonction de i et 8 Montrer que Pangle de déviation minimale D vérifie la relation suivante
+sin
+2 )=k4 2a où k est lordre de diffraction du réseau.
+14.2 Une mesure de  Dm pour k = 2 donne  Dm =31,71 +0,029 Calculer   le pas du réseau. En déduire le nombre N de traits du réseau si sa largeur est L=lcm. 14.3 Calculer Pincertitude absolue Aa sur le pas du réseau.
+Mesure de longueur donde et  de dispersion angulaire
+15 On veut mesurer les longueurs  d'ondes émises par une lampe spectrale à vapeur de mercure afin de déterminer les niveaux dénergie occupés par cet atome. Pour ce faire; on considère un réseau de diffraction de N fentes fines parallèles de pas a-2um placé sur la plate forme dun goniomètre_ Ce réseau est éclairé sous incidence normale. Les radiations les plus intenses figurent dans le tableau 1.
+Tableau 1 Radiation Violette (11) Bleue (12) 0 (en degré; i=1-4) 11,68 12,59 Longueur d'onde (nm) d0/d1 (rad/nm)
+Verte 15,84
+Orangée (J4 17,91
+Concours Mathématiques et Physique
+Session 2017
+Epreuve de Physique Page 7/8
 
+--- page 8 ---
+15.1 Calculer les longueurs d'onde 2n (n=1-4) à lordre k = 1 des quatre radiations. 15.2 Quel est lordre maximum kmax observé pour les deux radiations extrêmes ? 16 Etablir l'expression donnant la dispersion angulaire d 0 en fonction de k, a et 0 d 1 17 Compléter   le   tableau en calculant en minute  Inm (60  minutes=]%) la dispersion angulaire à Fordre k-1 pour les quatre radiations
+Mesure du pouvoir de résolution dun réseau
+18 Le pouvoir de résolution d'un réseau est son aptitude à séparer deux longueurs d'ondes voisines ^ et 1+d2 (d1 <1)- En admettant que pour un ordre k donné, les deux longueurs dondes ne peuvent   être séparées que  si d, 2 2 (critère  de Rayleigh)   où dp est la N différence de phase entre deux maximums principaux   correspondants aux deux longueurs dondes 18.1 Montrer que dp 2nk d1 18.2 En déduire, en fonction de ^ , k et N, le plus petit écart de longueur donde d ^min qui peut être séparé par ce réseau. 19 Le pouvoir de résolution dun réseau comportant traits est par définition R= =kN Le doublet jaune de la lampe spectrale à vapeur de sodium est composé d1 min de deux raies de longueurs d'onde très voisines 4 = 589,0nm et 2 = 589,6nm. 19.1 Compléter le tableau 2 ci-dessous pour k=1
+Tableau 2 2000
+5000
+500
+200
+dAmin (nm) pourk=1
+19.2 Quels sont les réscaux qui sont capables de séparer les deux radiations à Pordre k=1 ? 19.3 partir de quel ordre les quatre réseaux peuvent-ils séparer les deux radiations ?
+Fin de Vépreuve
+Concours Mathématiques et Physique
+Session 2017
+Epreuve de Physique Page 8/8

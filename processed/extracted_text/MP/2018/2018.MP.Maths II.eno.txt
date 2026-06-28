@@ -1,3 +1,62 @@
+--- page 1 ---
+République Tunisienne Ministère de lEnseignement Supérieur et de la Recherche Scientifique Concours Nationaux dEntrée aux Cycles de Formation d'Ingénieurs Session 2018
+1igdi L L9643J| &1ëlx?g(b: Bubj#a L~ubji eublJi 0+1Ji OUSjald 2018 83
+Concours Mathématiques et Physique Epreuve de Mathématiques II Date: Mercredi 06 Juin 2018 Heure: 8H Durée 3H Nbre de pages 4 Barème Part.I : (5 pts), Part.II : (4,5 pts) , Part. III (3,5 pts), Part. IV (4 pts), Part.V (3 pts). La qualité de la rédaction et de la présentation; la clarté et la précision des raisonnements entreront pour une part importante dans lappré - ciation des copies. Lusage des calculatrices n'est pas autorisé. Tout résultat fourni dans lénoncé peut être admis et utilisé par la suite, même s'iln'a pas été démontré
+Notations
+Dans tout le problème; n désigne un entier naturel non nul et E est un R-espace vectoriel de dimension n. Pour K=Rou C, Mn (K) désigne Yensemble des matrices carrées dordre n et GLn (K) le groupe des matrices inversibles de Mn (K) . La matrice identité de Mn(K) est notée In. Pour A € Mn(K), on note *A la matrice transposée de A, Tr(A) sa trace. On admet que pour toutes matrices A,B € Mn(K), Ir(A.B) = Tr(B.A). Si A € Mn(K) et B € Mm(K), on note A@ B la matrice de Mn+m (K) définie par
+On,m
+A@ B =
+Om,n
+On note R[X] Yensemble des polynômes à coefficients dans R On note L(E) Zensemble des endomorphismes de E. Soit f € L(E) et B une base de E. On note Mat(f , B) la matrice de f dans B. Pour tout entier k 2 1, fk = f 0 fk-1 avec la convention f0 = idE, où idE est lendomor- phisme identité de E.
+Pour P = Lawxk € R[X]; P(f) = 2 akfk k=0 K=0
+On rappelle que le polynôme caractéristique dune matrice (resp, dun endomorphisme f) est donné par
+XA(X) = det(X.In A) (resp. Xf(X) det(XidE f))
+Les candidats sont invités à utiliser sans justification Tes calculs par blocs comme par exemple (A1 € B1) ( Az € B2) = A1- Az B1.B2 et {(A1 $ B1) = tA1 0 tB1,
+où Av Az € Mn (K) et B1, B2 € Mm (K) .
 
+--- page 2 ---
+Concours Mathématiques et Physique
+Epreuve de Mathématiques II
+Page 2 sur 4
+Définitions 1. On rappelle que deux matrices A et B sont dites semblables dans Mn(K), s'il existe P € GLn(K) vérifiant A = P.BP-1. 2 Un polynôme Q € R[X] est dit sans facteurs carrés, si toutes ses racines dans C sont simples 3 Une matrice A € Mn(R) est dite normale si elle vérifie : tAA = A'A. 4. Un endomorphisme f de E est dit semi-simple si tout sous espace vectoriel de E stable par f admet un supplémentaire stable par f 5. On dit quun polynôme P € R[X] annule un endomorphisme f si P(f) = 0. On se propose de démontrer le résultat suivant Soit f un endomorphisme de E. Les assertions suivantes sont équivalentes (CI) Il existe une base B de E telle que Mat (f ,B) est normale. (C2) Lendomorphisme f est semi-simple (C3) Il existe Q € R[X]; sans facteurs carrés tel que Q(f) = 0.
+Partie I. Préliminaires (1) Matrices normales de Mz(R): Pour (a,b) € R2 on note
+~b
+Aa,b
+et
+Az =
+avec z = 0+ ib €C.
+z
+(1.a) Soit A € Mz (R) . Montrer que A est normale si et seulement si A est symétrique; ou bien de la forme A = Aab avec (a,b) € R2. (1b) Justifier que Aab et Az sont semblables dans Mz(C) (2) Soient p,n1. . . np € N* . Soient A et B deux matrices de Mn(R) de la forme
+A = A1 € Az €
+0 Ap et B = B1 € B2 €
+Bp;
+où A; et B; € Mn; (R) pour tout i € {1,2, p}- (2.a) Justifier que si Ai est normale pour tout i € {1,2,.. p} alors A est normale. (2.b) Montrer que si Ai et Bi sont semblables dans Mn; (K) alors A et B sont semblables dans Mn(K). '8) Dans cette question, on se propose de démontrer que deux matrices réelles semblables dans Mn(C), sont semblables dans Mn (R). Soient A et B € Mn (R). On suppose qu'il existe P € GLn (C) vérifiant A=P.BP-1 (3.a) En écrivant P sous la forme P = P1 + iP2 avec P1 et Pz € Mn (R), vérifier que
+AP = P1-B et A.Pz = Pz-B
+(3.b) En déduire que pour tout t € R, on a :
+A. (P1 + tPz) = (P1 + tPz) .B -
 
+--- page 3 ---
+Concours Mathématiques et Pbysique
+Epreuve de Mathématiques II
+Page 3 sur 4
+(3.c) Soit Q le polynôme défini par Q(X) = det (P1 + XP2) - Vérifier que Q(i) *0 et en déduire quil existe & € R tel que (P1 +œPz) € GLn (R) -
+(3.d) En déduire que les matrices A et B sont semblables dans Mn(R)
+Partie IL (C1)=(C2) Soit f un endomorphisme de E et B = (e1,e2... ,en_ une base de E tels que A:=Matt t(f ,B) est une matrice normale. On se propose de démontrer que f est semi-simple Cas_euclidien On suppose dans cette question que E est un espace euclidien et que B est une base orthonormale de E. (4.a) Montrer que si B1 est une base orthonormale de E, alors la matrice A' = Mat (f ,B1) est normale (4.b) Soit p € N* et F un sous espace vectoriel de E de dimension p, stable par f. Mon- trer quil existe une base orthonormale B1 de E et des matrices A1 € Mp (R) , A2 € Mn-p (R) et C€Mpn-p (R) telles que
+A1 On-PP Az
+M:=Mat (f ,B1)
+(4.c) En utilisant légalité tMM = M #M, montrer que Tr (C.'C) = 0 puis que C est la matrice nulle. (4.d) En déduire que Yorthogonal de F, noté F- est stable par f. Conclure. Cas général Pour x Xjej et y = 5 Yjej € E, on pose @(x,y) = 5 Xiyi. J=1 (5.a) Vérifier que définit un produit scalaire sur E et que B est une base orthonormale de E. (5.b) En déduire que f est semi-simple
+Partie IIL (C2)-(C3) Soit f un endomorphisme semi-simple de E.On se propose de démontrer que Yendomorphisme f est annulé par un polynôme sans facteurs carrés Q € R[X] (6) Soit R un polynôme de R[X] tel que Yendomorphisme g = R(f) est nilpotent (6.a) Vérifier que kerg est stable par f. (6.b) En déduire quil existe un supplémentaire H de kerg dans E, stable par & (6.c) En considérant lendomorphisme induit par g sur H, montrer que g = 0. (7) Soit (A1,À2..,Ak) € Ck tel que Xf (X) = I(x - 4)" avec n; € N* la multiplicité de A; 1=1 dans Xf pour tout i € {1,2, ,k}
 
+--- page 4 ---
+Concours Mathématiques et Physique
+Epreuve de Mathématiques II
+Page 4 sur 4
+(7.a) Montrer que le polynôme Q = II(X - M;) € R[x] (7.b) Montrer que Q(f) est nilpotent. En déduire que Q(f) = 0.
+Partie IV. (C3)=(C1) Soit f un endomorphisme de E et Q € R[X] un polynôme sans facteurs carrés tels que Q(f) = 0. On se propose de démontrer quil existe une base B1 de E telle que Mat(f , B1_ est normale Soit B une base de E et A = Mat(f ,B) . Il s'agit donc de démontrer que A est semblable; dans Mn(R), à une matrice normale (8) Justifier que A est diagonalisable dans Mn(C). (9) On suppose dans cette question que toutes les valeurs propres de A sont réelles. Démontrer que A est semblable dans; Mn(R), à une matrice diagonale. (10) On suppose dans cette question que A n'a pas de valeurs propres réelles (10.a) Justifier que n est pair. Dans la suite, on pose p = 2' (10.b) Montrer qu'il existe (21,22.. . ,Zp) € CP et P € GLn(C) tels que
+A = P. Az1 € Azz
+6 Azp P-1
+(10.c) En utilisant les questions L(1) et I.(2), montrer que la matrice A est semblable dans Mn(C) à une matrice normale A' € MnC (R). (10.d) Conclure en utilisant la question 1.3. (11) On revient au cas général Montrer que est semblable; dans Mn(R), à une matrice normale
+Partie V. Deux petites applications Les deux questions suivantes sont indépendantes. On désigne par GL(E) le groupe des auto- morphismes de lespace E (12) Soit H un sous-groupe fini de GL (E). Montrer que tout automorphisme f € H est semi- simple. (13) Soient (O,T,P) un espace probabilisé, X et Y deux variables aléatoires indépendantes suivant la même loi géométrique de paramètre p €]o,1[ (13.a) Calculer la probabilité de lévénement (X = Y). (13.b) Pour w € 0, on définit la matrice M(w) par
+X(w) ~X(w) Y(w) ~Y(w)
+M(w)
+Soit f (w) Yendomorphisme de R? canoniquement associé à M(w) 2 = 2p Montrer que la probablité pour que f soit semi-simple vaut 2 = p Fin de lénoncé

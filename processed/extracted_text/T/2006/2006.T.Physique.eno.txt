@@ -1,5 +1,93 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de ['Enseignement Supérieur Concours nationaur d'entréc aux cycles de formation d'ingenicurs Session 2006
+489)42su j)
+BWl lasts Unyibsi eusliji  ini aug Jlji 2006:s
+Concours  Technologie Epreuve de Physique
+Date Jeudi 08 Juin 2006
+Heure 8 Hoo
+Durée : 4 H
+Nbre pages : 6
+Barème Préliminaire 3/20
+Partie 1 : 5,5/20
+Partie 2 : 4,5/20
+Partie 3 : 7/20
+L'usage d'une calculatrice non programmable est autorisé
+Dans toute lépreuve, on utilise soit le système de coordonnées cylindriques (r,0,z) d'axe Oz et de vecteurs unitaires Ur , Ue , Uz ) ou cartésiennes (x,y;z) de vecteurs unitaires Ux , Uy , Uz ) On donne rÆtrotX grad (divx) -Ax . Ce problème est consacré à l'étude comparative de quelques aspects de lapproximation des régimes   quasi-stationnaires (ARQS) dite   aussi   quasi-permanents (ARQP) dans   différents domaines de la physique
+On s'intéresse; dans le cadre de cette approximation; aux champs électrique E et magnétique B pour voir dans quelle mesure 1'ARQS affecte leurs propriétés générales et les rapproche de celles des champs statiques On montre, par analogie, qu'on peut étendre cette notion dARQS aux problèmes de diffusion thermique. Le problème comporte un préliminaire et trois parties indépendantes Dans la première partie, on étudie le comportement dun condensateur plan. Dans la seconde partie, on s'intéresse à létude dun solénoïde parcouru par un courant dont l'intensité varie lentement dans le temps Dans la troisième partie, on montre que [utilisation des analogues électriques facilite le traitement de quelques problèmes de diffusion thermique dans le cadre de 1ARQS.
+PRELIMINAIRE On considère un milieu   caractérisé   par   la   permittivité   électrique €o et   la   perméabilité magnétique Ho du vide On désigne par J(P,t)et p(P;t) respectivement le vecteur densité volumique de courant et la densité volumique de charge en un point P de ce milieu à l'instant t (voir figure 1)
+Concours en Technologie Session Juin 2006
+Epreuve de Physique
+Page 1/6
 
+--- page 2 ---
+1a. A partir de deux équations de Maxwell, que Fon précisera, déterminer les relations reliant les champs électrique  E(M,t) et magnétique   B(M,t) aux potentiels   scalaire  V(Mt) et vecteur A(M,t) en un point Mde lespace à l'instant t.
+1.b. Justifier que ces relations ne définissent pas les potentiels V et A de manière unique
+2a. Etablir les deux équations différentielles vérifiées par les potentiels V(Mt) et A(M,t)
+2.b.  Simplifier ces équations différentielles dans le cadre de la   jauge de Lorentz 1 ôV divA + =0 ôt 3. On admet que les solutions de ces équations de propagation 'écrivent M p(Pst-PM/c) V(M,t) = Jss dTp Aneo PM souTCCS
+Ko J(P,t - PM/c) A(M,t) = Jss dtp 41 PM sourccs où c désigne la célérité de la lumière dans le vide Interpréter physiquement la forme des solutions 4. Rappeler la définition de lapproximation des régimes quasi-stationnaires (ARQS) et son domaine de validité . Quel est le phénomène physique négligé ?
+figure 1
+5. Ecrire les expressions des potentiels V(Mt) et A(M,t) en supposant satisfaite 1ARQS. PREMIERE PARTIE ARQS électrique On considère un condensateur plan daxe (Oz) formé de deux armatures circulaires A1 et Az de même rayon a, parfaitement conductrices et espacées dune distance (avec << a) de façon négliger les effets de bords (voir figure 2) 1. On désigne par 9o la charge supposée constante et uniformément répartie sur larmature A1 du condensateur. 1.a. Justifier;, par symétrie; que le champ électrostatique Eo s'écrit Eo Eo(z) Uz .
+1.b. Montrer que le champ Eo est uniforme. 1.c. En   déduire, qu'entre les armatures;, règne le 9o Az champ électrostatique Eo Uz I €o a 1d. Déterminer l'énergie électrostatique emmagasinée entre les armatures du condensateur . A1 En déduire Pexpression de la   capacité C de ce condensateur.
+Dans la suite; on considère que larmature A1 porte figure 2 une charge variable au cours du temps 9(t). On suppose; dans une première approximation; que la variation de 9(t) soit suffisamment lente pour admettre que le champ électrique Eo (t) entre les armatures reste uniforme.
+Concours €n Technologie Session Juin 2006
+Epreuve de Physique
+Page 2/6
 
+--- page 3 ---
+2. Donner lexpression du champ électrique Eo entre les armatures .
+3. Montrer que le champ magnétique B1 créé par les variations dans le temps du champ électrique Eo (t), en un point M(r,@,z) situé entre les armatures; s'écrit B1 (r,t) = Ho r d9() ue 2 1 dt Afin de déterminer le   domaine de validité des expressions trouvées du   champ électromagnétique (Eo,Bp), on cherchera le champ électrique Ez induit par les variations dans le temps du champ magnétique B1 et qui vient s'ajouter à Eo pour corriger ]expression du champ électrique qui règne entre les armatures. 4.a. Montrer que E2 (r,t) 490 Eo(. On prendra Ez (O,t) 6 2c _ 9(t) dt2
+4.b. On suppose; que les variations de la charge 9(t) sont sinusoïdales 9(t) qo cosot. Exprimer le champ électrique E=Eo +E2 en fonction de Eo et la variable 0 [ u =
+4c. Montrer que le champ électrique E peut être confondu à Eo si le rayon a des armatures est très inférieur à une valeur a qu'on exprimera en fonction de c et @ Commenter. 4.d. En prenant a = 1 cm et v= @= 1 MHz; évaluer l'ordre de grandeur de lerreur relative 21 que Pon commet en confondant E Eo  5. En supposant satisfaite la condition de la question 4.c, écrire les équations de Maxwell vérifiées par le champ électromagnétique ( E Eo B ~ B1 ) On parle dune ARQS dite électrique qu'on supposera vérifiée dans la suite de cette partie:
+6.a. Dans le cas dune variation sinusoïdale de la charge (9(t) 9o cosot), calculer lénergie magnétique Wm emmagasinée entre les armatures du condensateur 6.b. Conclure  sur la contribution du champ magnétique et celle du champ électrique Pénergie électromagnétique. 7.a. Exprimer le vecteur de Poynting R (en 1 = a) en fonction de 9(t) et d92. dt 7.b. Faire un bilan énergétique et conclure_
+DEUXIEME PARTIE ARQS magnétique On considère un solénoïde d'axe (Oz), de rayon a et de longueur h >> a (voir figure 3). Ce solénoïde; comportant n spires par unité de longueur, est parcouru par un courant d'intensité i(t) On suppose, dans une première   approximation; que la variation de lintensité du courant i(t) soit suffisamment lente pour admettre que le champ magnétique Bo (t) dans le solénoïde soit uniforme. 1. Montrer que le champ magnétique à lintérieur   du solénoïde s'écrit Bo (t)= Ho n i(t) Uz
+fgure 3
+Concours €n Technologie Session Juin 2006
+Epreuve de Physique
+Page 3/6
 
+--- page 4 ---
+2. Montrer que le champ électrique E1 créé par les variations dans le temps du champ magnétique Bo (t), en un point M(r,0,z) situé à lintérieur du solénoïde; s'écrit E1(r,t) = Ko n I di(t) ue. 2 dt 3. Afin de déterminer le domaine de validité des   expressions trouvées du   champ électromagnétique (E1,Bo ), on cherchera le champ magnétique B2 induit par les variations dans le temps du champ électrique E1 et qui vient s'ajouter à Bo pour corriger lexpression du champ magnétique qui règne à l'intérieur du solénoïde 3.a. Montrer que B2 (r,t) 1420 5o(0) On prendra 2 B2 (0t) = 0 i(t) dt2 3.b. On suppose; à présent, que les variations du courant i(t) sont sinusoïdales i(t) io cosot. Montrer que le champ magnétique B Bo +B2 peut être confondu à Bo si le rayon du solénoïde est très inférieur à une valeur a qu'on exprimera en fonction de c et @ Commenter. 4. En supposant satisfaite la condition de la question 3.b, écrire les équations de Maxwell vérifiées par le champ électromagnétique ( E E1 B Bo ) On parle dune ARQS dite magnétique qu'on supposera vérifiée dans la suite de cette partie 5.a. Dans le cas dune variation sinusoïdale du courant (i(t) io cosot) calculer lénergie magnétique Wm emmagasinée à lintérieur du solénoïde. 5.b. Calculer, de même, lénergie électrique We 5.c. Conclure sur  la contribution du champ électrique et celle du champ magnétique lénergie électromagnétique. 6.a. Déterminer la puissance rayonnée par le solénoïde en fonction de i(t) et di(t2 dt 6.b. Faire un bilan énergétique et conclure
+TROISIEME PARTIE ARQS et diffusion thermique L'ARQS, étendue aux problèmes de diffusion thermique, permet de simplifier les calculs en utilisant   des   lois   linéaires On  peut   ainsi   utiliser   la   conservation du flux   thermique et introduire la notion de résistance thermique. Pour pouvoir lutiliser; il faut que le temps caractéristique des transferts thermiques Ti soit très inférieur au temps   caractéristique Ts des   variations   temporelles des sources du phénomène. Ainsi, l'évolution, en fonction du temps; de la température en un point M suit ( sans retard > celle des sources.
+Dans tout ce qui suit_on ne considère que les transferts thermiques par conduction
+A- Evaluation de Zh
+Dans cette partie; on étudie la conduction thermique dans une barre homogène cylindrique daxe (Oz) de section droite E et de longueur L On désigne par ^ sa conductivité thermique, par | sa masse volumique et par Cm sa capacité thermique massique. Les grandeurs ^, H et cm sont supposées uniformes est indépendantes de la température à tout instant. @T ô?T 1. Montrer que léquation de diffusion thermique s'écrit HC 1 ôt ôz
+Concours €n Technologie Session Juin 2006
+Epreuve de Physique
+Page 4/6
 
+--- page 5 ---
+2. Grâce à un système de chauffage; arrêté_à Linstant t @, on obtient le profil de température suivant T z T(z,t=0) To + 0 sin To et @ sont des constantes positives. Les extrémités de la barre, en z = 0 et en z = L, sont maintenues à la même température To. Pour t >0, on cherchera une solution sous la forme I z T(z,t) = To + 0(t) sin
+2.a. Déterminer   équation   différentielle   vérifiée par   la fonction @(t). On introduira une constante Tth; homogène à un temps. 2.b. Résoudre cette équation et en déduire la solution T(z,t).
+2.c. Tracer les allures des courbes donnant la température en fonction de z pour les différents instants t =0;t= Tth t =2t t->0
+2.d. Quelle est la signification physique de Tu ? 2.e. Montrer que si lévolution de la température en un point de la barre est décrite dans le d2T cadre de 1ARQS, la température T(z,t) doit satisfaire ]équation 0 ôz2 B-Echange thermique entre deux corps à travers la_barre La barre conductrice, décrite précédemment, est reliée en z = 0 et z = L à deux solides S1 et S2 de même capacité thermique Co (voir figure 4). Lensemble est isolé de façon a ce qu' 'il n'y ait aucun échange thermique entre ce système (S1 + S2 + barre) et lextérieur. Les conductivités thermiques des deux solides sont supposées infinies assurant des températures uniformes T1(t) de S1 et T2(t) de S2. Ces températures évoluent au cours du temps suite au transfert thermique à travers la barre cylindrique. On note T1(t = 0) = T1o et Tz(t = 0) = Tzo. On supposera que les transferts   thermiques dans_la_barre sont décrits  dans le cadre de FARQS Tnt) Iz(t)
+barre
+S1
+Sz
+figure 4
+3. En intégrant léquation établie à la question 2.e, trouver 1expression de la température T(zt) en un point de la barre dabscisse z, en fonction de T (t) Tz(t) z et L 4. Montrer que la puissance (flux thermique) traversant une section quelconque de la barre est indépendante de z et qu'elle s'écrit sous la forme A Pt 2 (T (t) -Tz(t))
+5. Par   analogie avec   la conduction du courant   électrique   dans un conducteur   ohmique déterminer la résistance thermique Rths associée à la barre conductrice; qu'on exprimera en fonction de 1, Z et L.
+6.a. Exprimer; en fonction de Pu(t), les énergies reçues; pendant dt, par les solides S1 et S2. 6.b. En déduire, par application du premier principe de la thermodynamique aux solides S1 et S2, deux équations différentielles vérifiées par T (t) et T2(t).
+Concours en Technologic Session Juin 2006
+Epreuve de Physique
+Page 5/6
 
+--- page 6 ---
+6.c. En posant a(t) = T1(t) + Tz(t) et B(t) = T (t) = T2(t), montrer que lon a :
+a(t) = Tio + T2o dB(t) B@=0 dt IS où Ts est une constante que Pon exprimera en fonction de Rt et Co. 7.a. Donner les expressions de T (t) et Tz(t) en fonction de T1o; Tzo; et Ts. 7.b. En déduire [expression de la température T(z,t) en un point de la barre . Commenter le cas t>> Ts
+8. En utilisant les expressions des deux temps caractéristiques Tth et Ts, montrer que 1ARQS est satisfaite si la capacité thermique Cb de la barre est très inférieure à la capacité thermique Co des deux solides.
+CAnalogie_thermique-électrique On considère une barre conductrice de faible capacité thermique; de section droite >, de longueur L et de conductivité thermique 2. Cette barre est solidaire en z = 0 à un thermostat de température To et en z = L à un solide $ de conductivité thermique infinie; de capacité thermique Co et de température initiale T1 < To (voir figure 5). On cherchera lévolution de la température T(t) du solide $ en supposant   satisfaites les conditions de validité de 1ARQS pour la conduction thermique dans la barre.
+I@)
+barre
+To
+fgure 5
+9. On désigne par Pu(t) la puissance traversant une section droite de la barre et par Ru la résistance thermique associée à la barre
+9.a. Ecrire la relation liant To, T(t), Pu(t) et Ru. 9.b. Ecrire, de même, une relation liant Pa(t); Co et dT(2 dt 10.a. En déduire que Panalogue électrique de ce problème   thermique est un circuit comportant un générateur de tension de fem constante Eo, une résistance R et un condensateur de capacité C (figure 6) Eo 10.b. En posant V1 = V(t = 0), exprimer la tension V(t) aux bornes du condensateur en fonction de V1, Eo, R et C.
+i(t)
+R
+V(t)
+figure 6
+10.c. En déduire la loi de variation de la température T(t) du solide S.
+FIN DELEPREUVE
+Concours en Technologie Session Juin 2006
+Epreuve de Physique
+Page 6/6

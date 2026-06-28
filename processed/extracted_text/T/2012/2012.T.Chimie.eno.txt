@@ -1,11 +1,157 @@
+--- page 1 ---
+Signature des enseignants République Tunisienne MINISTERE DE L'ENSEIGNEMENT SUPERIEUR ET DE LA RECHERCHE SCIENTIFIQUE
+Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs
+Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs stuT OocParaoike  Bbuohhequd Session 2012 Sa1 Concours Technologie Eprcuve de Chimie Durée 2 Heures
+Session
+2012
+Concours Technologie
+Epreuve dc
+Chimie
+Nom
+Durée
+2 Heures
+Prénom
+Date & lieu de naissance
+Etablissement d'origine
+No CLN ou N? du passeport pour les étrangers
+Série
+Identifiant
+Nombre de cahiers remis
+Nombre de cahiers remis
+Binéie_
+Ipimé Jéonek] ,
 
+--- page 2 ---
+Barème
+Problème ] Problème II Problème III Problème IV
+2,50 pts 4,50 pts 3,75 pts 9,25 pts
+Instructions
+Cette épreuve comporte 10 pages.
+Tout résultat devra être écrit dans les cadres adéquats. Lusage des calculatrices électroniques de poche non programmables est autorisé Aucun échange entre les candidats n'est autorisé Les résultats numériques sans unité ou avec unité fausse ne seront pas comptabilisés:
+Données relatives à /ensemble du sujet On supposera que Les enthalpies et les entropies de la réaction sont indépendantes de la température dans le domaine considéré Les gaz sont parfaits et les solides sont purs. Données numériques Constante des gaz parfaits R = 8,314 J.K-' mol1
+Rayons ioniques (pm) Ion lithium 68 ion fluorure = 136
+Masses molaires (g.mol' ) UF 6 352,02 F =19,0 et H = 1,0. Charge de lélectron e = -1,6 x10-!9 Données thermodynamiques à 298,15 K supposées indépendantes de la température HzOe) HEgl ZnF2(d) ZnO(sd) A,H kJmol -241,8 -273,3 -764,4 -350,5 s" (JK mol 188,8 173,8 73,7 40,3 potentiel chimique standard -228,4 -270,5 -321,3 u298x (kJ.mol
+Conversions: bar ~ atm 760 mmHg
+1 D = 3,33x10 30 C.m.
+O( C) + 273,15 = T(K).
+Concours Technologie Session Juin 2012
+Page 1
 
+--- page 3 ---
+Problème I atomistique Le fluor occupe la deuxième lignc et Favant dernière colonne du tableau périodique 1) Comment   appelle-t-on les éléments  qui, dans la  classification   périodique; appartiennent à la même colonne (ou famille) que le fluor.
+2) Donner le nombre délectrons de valence du fluor.
+3) Donner la configuration électronique du fluor dans son état fondamental
+Donner la représentation de Lewis de cet atome_
+5) Sachant que Fiode s3I, le chlore IcD, et le brome 3sBr appartiennent à la même colonne que le fluor; attribuer à chacun des éléments (I, F, Br et cQ) son électronégativité (échelle de Pauling) :2,5 2,8 3,0 et 4,0.
+Le moment   dipolaire du fluorure dhydrogènc HF vaut   1,82 D La longueur de la liaison H-F est 0,917 %. Déterminer le pourccntage dionicité de la liaison H-F. Conclure .
+Page
 
+--- page 4 ---
+Problème II cristallographie
+Préliminaire 1) Rappeler les positions ct les nombres des sites octaédriques (0) et tétraédriques (T) dans une maille cubique à faces centrées
+2) Établir les expressions permettant 1e calcul des rayons de ces sites en fonction du rayon < r > de 1atome.
+Structure du fluorure de lithium Le fluorure de lithium est un cristal ionique de type chlorure de sodium; il est utilisé comme matériau pour fabriquer des prismes pour les spectrophotomètres: 3) Qucls sont les sites occupés par F'ion lithium
+Préciser la coordinence de Fion lithium par rapport à 'ion fluorure
+5) Donner les coordonnées réduites des ions lithium dans cette structure.
+En se limitant à une seule maille, représenter 1a trace des ions sur un plan contenant deux axes A; sécants.
+Concours Technologie Session Juin 2012
+Page 3
 
+--- page 5 ---
+7) Donner Vexpression puis calculer 7-a) lc paramètre < a v dc la maille; en supposant que les anions ct les cations sont tangents
+7-b) la compacité de ce cristal_
+Problème III équilibre chimique On se propose d'étudier la réaction dobtention de HF (g) à partir de ZnF 2(d) ZnF 2{sd) +Hz0 ZnO(sd) +2 HF 1) Dans quel scns évoluc le système initialement à léquilibrc lors 1-a) d'une compression à températurc constante
+1-b) dune faible addition de ZnF 2(sd) à température et volume constants
+2) En précisant 1a signification de chaque terme; donner Texpression puis calculer 1a variance &un système contenant seulement les substances écrites dans Féquation chimique ci-dessus
+Page 4
 
+--- page 6 ---
+3) Peut-on choisir arbitrairement pour ce systèmc 3-a) le volume; la température ct la prcssion partielle dc HF Justifier .
 
+3-b) la pression partielle de HF (pHF et la fraction molaire dcau en phase vapeur (Yuzo) Justifier .
+Donner Pexpression de la loi daction de masse pour cet équilibrc
+5) Calculer ]enthalpic standard de la réaction à 298,15 K
+Calculer ]cntropie standard dc la réaction à 298,15 K.
+En déduire Fexpression de A,G" en fonction de la température T.
+7-a) Calculcr la valeur de 4,G" à 298,15 K
+7-b) Déduire la valeur du potentiel chimique standard à 298,15 K de ZnF z(sd) 
+Concours Technologie - Session Juin 2012
+Page 5
 
+--- page 7 ---
+Problème IV étude du système HF-UF6 On supposera que les gaz ont un comportement parfait et que les enthalpies molaires de changement d'état sont   indépendantes de la température dans   les   domaines   considérés et que Veffet   de la pression est négligeable sur les équilibres entre phases condensées.
+Diagramme des phases de hexafluorure duranium UF6 pur 1) Compléter le tableau suivant
+Équilibre liquide-vapeur vapeur UF6
+Équilibre solide-vapeur vapeur UF6
+système
+UF6 liquide
+UF6 solide
+phénomène fraction molairc en phase liquidc ou solide fraction molaire en phasc vapeur expression de potentiel chimique en phase liquide ou HuF; solide cxpression de potentiel pUFs Yov chimique en phase vapcur. condition déquilibre 1511 tension dc vapcur (mmHg) 1ogio (p) = 7,538 T(K) Calculer la température de sublimation standard de UF6.
+2559 logi  (p) =10,646 T(K)
+3) Déterminer les conditions ct T) pour que UF6 coexiste sous les trois phases liquide; vapeur ct solide_
+XvFv
+YvFs
+HUFo
+HuF;
+Page
 
+--- page 8 ---
+4) Établir les expressions puis calculer à la température du point triple 4-a) Fenthalpie de vaporisation de UF6 -
+4-b ) Tenthalpie de fusion de UF6 sachant que Tenthalpic de sublimation cst de 48,99 kJmol
+5) En un point de coordonnées 0 50 C et p 533,43 mmHg appartenant à la courbe de sublimation; les volumes molaires de UF6 dans les deux phases sont Vsd 7,132x10 $m mo]  et  Vvap =1,81x10-2m mol ' ',UF6 m,UF; placée dans un système fermé de volume V = 0,1 litre maintenu à 0 50PC et Considérons une mole dUF 6 p = 533,43 mmHg: Déterminer le volume de la phase solide Vss , et celui de la phase vapeur VS
+Concours Technologie Session Juin 2012
+Page 7
 
+--- page 9 ---
+Diagramme binaire Le diagramme binaire liquide-vapeur du système HF-UF6 à la température de 110*C est représenté ci- dessous . (En abscisse est porté le pourcentage en molaire UF6 et en ordonnée la pression en mmHg)
+14000
+p (mmHg)
+110 €
+Domaine
+12000
+12000
+[omaine
+ICourbe 2
+10000
+10000
+Courbe
+8000
+8000
+5000
+5000
+Domaine (3)
+4000
+4000
+2000
+2000
+20
+40
+60
+80
+100 UF6
+HF
+poucentage molaire
+6-a) Préciscr les phascs présentes dans les différents domaines du diagramme; numérotés de (1) à (3) Domaine (1) Domaine (2) Domaine 6-b) Indiqucr le nom des courbes frontières. Courbe ] Courbe 2 6-c) Quelles sont les différences entre un mélange azéotropique tel que le_point <Av et un corps pur.
+Page
 
+--- page 10 ---
+4) Établir les expressions puis calculer à la température du point triple 4-a) Fenthalpie de vaporisation de UF6 -
+4-6) Tenthalpie dc fusion dc UF6_Sachant que Tenthalpic de sublimation cst de 48,99 kJmol
+5) En un point de coordonnées 0 509C et p = 533,43 mmHg appartenant à la courbe de sublimation; les volumes molaires de UF6 dans les deux phases sont Vsd 7,132*10 Sm' mol- et Vvap =1,81x10-2m' mol ' In,UF; m,UFv Considérons une molc dUF6 placée dans un système fermé de volume V = 0,1 litre maintenu à 0 50 C et et celui de la phase vapeur VGF6 ~ vap p = 533,43 mmHg: Déterminer le volume de la phase solide  VsF;
+Concours Technologic Session Juin 2012
+Page 7
 
+--- page 11 ---
+6-d) On procède à une distillation fractionnéc dun mélange liquide UF6-HF à 15% molaire en UF6 Qu'obtient-on comme résidu et comme distillat ? Justifier.
+7) Représenter Tallure de la courbe danalyse de pression obtenue ors de la compression progressive de la vapeur de composition %yuF6 80%, entre 4000 mmHg et 14000 mmHg;
+En maintenant   la  pression constante   égale 8000 mmHg et àla température de 110PC, on ajoute progressivement dUF6 à un système constitué de 1 g de HF pur. Donner ]expression puis calculer la masse minimalc dUF6 qu'il faut ajoutcr pour obtenir un système biphasé.
+9) On augmente la pression sur un mélange gazeux de composition molaire en HF 20% de 2000 jusqu 'à 14000 mmHg 9-a) Représenter sur le diagramme le chemin suivi par le point rcprésentatif de la phase liquide au cours de cette compression.
+effectuer sur le diagramme précédent
+Concours Technologie - Session Juin 2012
+Page
+
+--- page 12 ---
+9-b) Une mole de ce mélange est portée à 8000 mmHg; à la température 1109C. Détermincr les quantités de matière des phases cn équilibre sous cette_ pression;
+7a quantité de matièrc de HF contenuc dans chacunc des_phases 
+Fin de Fépreuve
+Page 10

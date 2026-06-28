@@ -1,11 +1,129 @@
+--- page 1 ---
+  s
+Instructions Cette épreuve comporte 12 pages. Tout résultat doit être écrit dans les cadres adéquats. L'usage des calculatrices électroniques de poche non programmables est autorisé Aucun échange entre les candidats n'est autorisé. Les résultats numériques sans unité ou avec une unité fausse ne seront pas comptabilisés: En cas de besoin utiliser les pages vides enfin du cahier. Dans ce cas; il faut le signaler dans la case allouée à la réponse remise en fin de cahier. Si au cours de F'épreuve; un candidat repère ce qui lui semble être une erreur d'énoncé, il la signale sur sa copie et poursuit sa composition en indiquant les raisons des initiatives qu'il est amené à prendre.
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 12 PAGES NUMEROTÉES 1 sur 12, 2 sur 12, 12 sur 12
+
+ Concours Technologie
+Page sur 12
+Concours Technologie Session Juin 2015
+
+--- page 2 ---
+NOTATIONS ET DONNÉES NUMÉRIQUES Les gaz sont 'supposés parfaits. Lorsqu 'aucune mention n'est spécifiée, les ions sont supposés implicitement en solution aqueuse. Sauf indication contraire, les grandeurs qui dépendent de la température sont données à 298 K Notations Les abréviations suivantes sont utilisées pour désigner l'état physique des constituants (g pour gazeux; (sd) pour solide; (liq) pour liquide et (aq) pour aqueux. Ln logarithme népérien logio logarithme à base 10. Constantes physiques Constante d Avogardro NA =6,02*102 mol-L Constante des gaz parfaits R = 8,314 JK-' mol-' (RxT)F x Ln(10) 0,06 V à 298 K. Pression standard p =lbar_
+Masses molaires (g.mol-') : argent (Ag) 108,0 oxygène (0)= 16,0 et cuivre (Cu) = 63,5. Numéro atomique Z de Pargent (Ag)= 47. Rayons atomiques (pm) argent (Ag) = 144 et cuivre (Cu) 128
+Produit ionique de l'eau à 298 K: Ke = 10-143 À 298 K, Agz O(sd) +H,0 => 2Ag' +2HO logio  ([Ag'
+=6,33-pH
+Conversions bar = 105 Pa. pm =10-12 m.
+On rappelle Vair contient en pourcentages molaires 20 % de dioxygène et 80% de diazote
+Page 2 sur 12 Concours Technologie Session Juin 2015
+
+--- page 3 ---
+Problème I : diagrammes binaires-cristallographie On donne les diagrammes d'équilibres liquide-solide et liquide-vapeur des mélanges argent-cuivre sous la pression de 1 bar.
+1 bar
+2900
+1 2800 9 2700 2 2600 [ 2500 @ 2400 1
+temperature
+1100
+1 1000 8 temperature 900 2 [ 800 @ 700 600 1 5oo 0,1 0,2 0,3 0,4 0,5 0,6 0,7 0,8 0,9 fraction molaire Cu
+Ag
+1) Indiquer la nature des phases présentes dans les domaines numérotés de (1) à (4)
+Domaine (1)
+Domaine (3)
+Domaine (2)
+Domaine (4)
+2) Un mélange formé de 1,70 g dargent et de 1,00 g de cuivre pris initialement à 2400 C est chauffé 2-a) Dans quelle état physique se trouve le mélange considéré à la température 24009C ?
+2-6) A quelle température apparaissent les premières bulles de vapeur ?
+Page 3 sur 12 Concours Technologie Session Juin 2015
+
+--- page 4 ---
+2-c) Donner les expressions puis calculer les quantités de matière de la vapeur et du liquide en équilibre à 26009C ?
+ 
+2-d) Quelle est la composition de la dernière  goutte de liquide, si on continue chauffer ce mélange ?
+2-e) On porte le système précédent à la température de 2900 C, puis on ajoute 0,127 mole de cuivre en phase vapeur. Le système ainsi obtenu est ensuite refroidi jusqu'à 6009C.
+i) Donner lallure de la courbe d'analyse thermique de ce refroidissement.
 
 
+Page 4 sur 12 Concours Technologie Session Juin 2015
 
 
+--- page 5 ---
+ii) Représenter sur le diagramme ci-dessous par trois couleurs différentes les chemins suivis les   points   représentatifs des phases   solide(s);   liquide et vapeur au cours du par refroidissement.
+po = bar
+2900
+1 2800 4 2700 2 2600 e2500 @ 2400 1
+temperature
+1100
+1 1000 8 temperature 900 i 749PC 800 9 700 600 1 500 0,1 0.4 0,5 0,6 0.7 0,8 0,9 Ag fraction molaire Cu 3) Écrire léquation de léquilibre obtenu sur le palier invariant à 779 C tout en précisant le nom de la transformation .
+4) Une des solutions solides Cu-Ag cristallise dans une structure cubique à faces centrées Les atomes d'argent sont de coordonnées réduites (0,0,0) et les atomes de cuivre occupent les centres des faces du cube. 4-a) Représenter en perspective la maille et son contenu.
+Page 5 sur 12 Concours Technologie Session Juin 2015
+
+--- page 6 ---
+4-b) En se limitant à une seule maille; représenter la tracc de(s) atome(s) sur le plan de la famille (0202le plus proche de celui passant par 1origine:
+4-c) Donner ]expression puis calculer i) Le paramètre (a) de_la maille_ sachant quc_les atomes de nature différentes sont tangents
+ii) La masse_volumique_en g cm 3
+
+Pagc 6 sur 12 Concours Technologie Session Juin 2015
+
+--- page 7 ---
+Problème II diagramme dEllingham 'étudier la réduction de AgzO en argent Ag par le cuivre Cu, dans Fintervalle de température On envisage d générale du diagramme dEllingham relatif aux oxydes [IOOOK, 16OOK] Pour cela on dispose de l'allure sont ramenées à une mole de dioxys 'gène pour les couples CuOlCu et AgzO/Ag: Les réactions d'oxydation gazeux. 300
+200
+4,G' = -62+0,13 x T
+Ag2O/Ag
+100
+1 8 -100
+Cuo/Cu
+xT =-314,6+0,186  A,G"
+4,G' = -341,12+ 0,206 x T
+-200
+f : fusion de l'oxyde F: fusion du métal
+-300 1400 1450 1500 1550 1600 1100 1150 1200 1250 1300 1350 1000 1050  T(K)
+1) Rappeler les approximations dEllingham
+ci-dessus, Tenthalpie standard de fusion du 2) Donner Texpression puis calculer; à Taide du diagramme cuivre
+Page 7 sur 12
+Concours Technologie - Session Juin 2015
+
+--- page 8 ---
+3) Déterminer la température minimale T1 à laquelle il faut chauffer de loxyde dargent à Pair libre pour obtenir sa réduction en argent métallique
+1   , 
+
+4) Réduction de AgzO 4-a) Écrire Véquation-bilan de la réaction de réduction dune mole doxyde AgzO en argent Ag par le cuivre Cu.
+4-b) Donner Pexpression puis calculer Tenthalpie libre standard de cette réaction à 1a température de 1050 K
+4c)Cette réaction est-elle endothermique 0u exothermique ? Justifier la réponse
+Page 8 sur 12 Concours Technologie Session Juin 2015
+
+--- page 9 ---
+Problème III atomistique-oxydoréduction-diagramme de Pourbaix A) Étude préliminaire 1) Donner la structure électronique de latome dargent à létat fondamental
+2) Le cuivre est situé au-dessus de Pargent dans la classification périodique. Donner sa structure_électronique à Létat fondamental
+Cu
+Z = 47 Pd Ag Cd
+3) En déduire la structure électronique de l'ion Ag à Tétat fondamental
+4) L'oxyde dargent (I) AgzO est T'écriture déshydratée de lhydroxyde dargent (I) Ag(OH). Montrer que le fait de considérer la présence de loxyde AgzO(d) au lieu de lhydroxyde Ag(OH)sd) est justifié pour Létude de la précipitation
 
 
+5) Donner le nombre doxydation de Télément argent dans les espèces chimiques suivantes Ag(sd); Ag(aq) ' Ag(aq) AgO et Ag (OH) Présenter les résultats dans un tableau ordonné par valeurs (sd) (sd) décroissantes du nombre doxydation.
+no(Ag)
+Espèces_correspondantes
+Page 9 sur 12 Concours Technologie Session Juin 2015
 
+--- page 10 ---
+6) Établir les équations des frontières correspondants aux couples AgOçdyAg' (aq) et AgOisdyAg(OH)d) milieu acide. en
+B) Diagrammes E-pH (Pourbaix) Sur le diagramme ci-dessous; on a superposé deux diagrammes; F'un en trait discontinus correspondant au cuivre et Pautre en traits gras à Fargent. Les conventions adoptées pour tracer ces diagrammes sont La concentration totale en élément dissous est égale la concentration du tracé Ctra 10-4 moLL-' À la frontière séparant les domaines des deux espèces dissoutes; les concentrations atomiques en élément sont égales: Pour le diagramme dargent; seules les espèces suivantes sont considérées Ag(sd), Ag(aq) = Agzaq) AgO(sd) et Ag(OH) (sd ) 2,50 2,30 2,10 1,90 1,70 1,50 1,30 1,10 0,90 0,70 8389 10,3 0,30 Cu2+ Cu(OH)2 0,10 Cu(OH) "0.10
+-0,30
+-0.50 3 2 8 2 2 8
+2 pH ' 2 8 g 2 2 2 2
+Page 10 sur 12 Concours Technologie Session Juin 2015
 
+--- page 11 ---
+7) Placer sur le diagramme les espèces chimiques dans les domaines correspondants en indiquant s'il s'agit dun domaine d'existence ou de prédominance. Répondre sur le diagramme de la page précédente
+8) Déterminer le potentiel standard Ee du couple Agt/Ag
+9) Écrire léquation-bilan de léquilibre associé à la constante d'équilibre K; (Cu(OH)2(aa) )
+10) Donner ]expression puis calculer la valeur de K; (Cu(OH)2(sd) _
+Page 11 sur 12 Concours Technologie Session Juin 2015
 
-
-
+--- page 12 ---
+11) Déduire du diagramme les domaines d'immunité, de corrosion et de_passivation du cuivre: Domaine (stabilité de Cu2 ) Domaine (stabilité de Cu(OH)2)
+Domaine (stabilité de Cu(OH)z)
+Domaine (stabilité de Cu)
+basant sur les diagrammes E-pH du cuivre et de Targent; déterminer Tes espèces susceptibles 12) En se d'être oxydées par Ag(OH)_Écrire les équations-bilans des réactions correspondantes
+"
+FIN DE LEPREUVE
+Page 12 sur 12 Concours Technologie Session Juin 2015

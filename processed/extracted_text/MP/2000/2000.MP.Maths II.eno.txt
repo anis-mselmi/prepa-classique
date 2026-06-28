@@ -1,0 +1,11 @@
+--- page 1 ---
+RÉPUBLIQUE TUNISIENNE *x* Ministère de lEnseignement Supérieur
+Onsthtut / (Preparatore 2 (bibliotheQue ) 3 6 PNgeweuRS
+Concours Nationaux d'Entrée aux Cycles de Formation d'Ingénieurs Session 2 Juin 2000
+Concours en Mathématiques et Physique Épreuve de Mathématiques II
+Duree 3HOO Date 9 Juin 2000 Barême Partie I : 5.Jpts Partie II 4.5pts.
+SHeure Vb pages Parcie III 6.Spts Partie ]I 3.Sdts
+L'usage des calculatrices est strictement interdit Une grande importance sera attachée à la rigueur du raisonnement. à la clarté de la rédacrion et au soin de la présentation. Il est rappelé que tout résultat énoncé dans le sujet peur êcrc ucilisé pour traiter la suite. même s'il n a pu être démontré.
+Pour la suite (E.( 2 ) est un espace euclidien de dimension n. On note [:E Pespace des endomorphismes de E Si U € C(E), on désigne par u Fadjoint de relativement au produit scalaire ) Un endomorphisme u est dit symétrique ou au- toadjoint si u* = 4. Un endomorphisme u symétrique est dit positif si (u(r),z) 2 0 pour tout 1 € E On notera par: S(E) le sous-espace de C(E) formé des endomorphismes symétriques et S+(E) le sous-espace de C(E) formé des endomorphismes symétriques positifs. On rappelle qu'un endomorphisme est symétrique ssi il est diagonalisable dans une base orthonormée. On convient de noter par Id Fendomorphisme identité de E, Uu = U 0 U si U, U € C(E) et par um = U 0 0 U pour tout entier non nul M el par m fois u0 = Id. Lorthogonal dun sous-espace F sera noté F- NB La partie IV pourra être traitée indépendamment des autres parties.
+Partie I
+Soient u et v deux endomorphismes de E. 1. a) Montrer que Ker U = (Im "*)1 et Ker u' = (Im u) = . b) En déduire que dim Ker u = dim Ker u* et que u et u ont le même rang. 2. a) Montrer que Ker U = Ker uu* et Im U = Im UU b) En déduire que dim Ker Uu = dim Ker U U .

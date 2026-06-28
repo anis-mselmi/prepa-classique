@@ -1,3 +1,72 @@
+--- page 1 ---
+République Tunisienne Ministère de lEnseignement Supérieur et de la Recherche Scientifique Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs Sesgion 2019
+4gj) 1  88 43J1 {1*uas|g(pP Gusjssl Lijuibji @UBLJi 0iJi 005j1l) 2019 {9'
+Concours Mathématiques et Physique Epreuve de Mathématiques I
+Date: Lundi 10 Juin 2019
+Heure: 8H
+Durée : 4H
+Nbre de pages
+Barème Exercice 1 3 points, Exercice 2 5 points, Problème 12 points.
+La qualité de la rédaction et de la présentation la clarté et la précision des raisonnements entreront pour une part importante dans Tappré - ciation des copies. Lusage des calculatrices n'est pas autorisé. Tout résultat fourni dans lénoncé peut être admis et utilisé par la suite; même s'il n'a pas été démontré.
+Exercice 1 Soit p un entier naturel non nul. On note Mp (R) la R-algèbre des matrices carrées dordre p à coefficients dans R et Ip la matrice identité dordre p. 1 Montrer que, pour tout A € Mp (R), les applications
+dA : Mp (R) _+ Mp (R) , NF + NA et 8A Mp (R) = + Mp (R), Np + AN,
+sont continues .
+Dans toute la suite; on fixe une matrice M € Mp (R) telle que la suite (M") neN soit bornée. On pose, pour tout n € N,
+Un EMk = (Ip + M +. + M") . n + 1 n + 1 k=0
+2. Montrer que la suite (Un)neN admet au moins une valeur dadhérence dans Mp (R) . 3 Montrer que, pour tout n € N,
+MUn = UnM = Un + M"+1 Ip n + 1
+Soit L € Mp (R) une valeur dadhérence de la suite (Un)neN' (a) Montrer que ML =LM = L. (b) En déduire que, pour tout n € N, UnL = LUn =L
+5. Soient L1 Lz € Mp (R) deux valeurs dadhérence de la suite (Un)neN~ Montrer que L1 L2. 6. Montrer; alors; que la suite (Un) )neN est convergente.
 
+--- page 2 ---
+Concours Mathématiques et Physique
+Epreuve de Mathématiques
+Page 2 gur 4
+Exercice 2 On considère une variable aléatoire X à valeurs dans N et on pose, pour tout k € N, Pk = P(X =k) _ On suppose, par ailleurs, que 0 < po < 1 et Vk € N, pk+l u + 74i) pk , où u,a sont deux constantes réelles_ Montrer que u + ) > 0 2. On suppose, dans cette question, que u = 0. 1k (a) Montrer que Vk € N, Pk k! Po. +0 (b) Exprimer E pk en fonction de ^ et de po. k=0 (c) En déduire que X suit la loi de Poisson P (4) . (d) Donner, alors, son espérance E(X) et sa variance V(X)- et on pose & = ~1 - 4 = ~u+A On suppose dans la suite que u #0 H H 3 Montrer que pour tout k € N*=
+(œ = 1) - (& = k+1) Pk Po (~u)k k!
+4. On suppose, dans cette question; que & € N.
+(a) Montrer que u < 0
+po Ck (~p)k si k < & , si k > &.
+(b) Montrer que, pour tout k € N, Pk
+(c) Calculer Pk en fonction de po, H et &. En déduire que po = (1 = k)-% . K=0
+d) Montrer alors que X suit la loi binomiale B 4,
+(e) Donner son espérance E(X) et sa variance V(X). 5. On suppose, dans cette question, que & # N. Fo On note G : [~1,1] _ R; t H Pktk_ la fonction génératrice de X. k=0 (a) Montrer que est bien définie et continue sur [~1,1] - (b) Montrer que le rayon de convergence de la série entière Epkzk est et que Iu|
++0
+Yt eJy6 [ Epk_ po (1 ~ut)" . K0
 
+--- page 3 ---
+Concours Mathématiques et Physique
+Epreuve de Mathématiques
+Page 3 sur 4
+(c) En déduire que u € [~1,1[ et que po = (1 - %) -% . (d) Montrer que G est deux fois dérivable en 1. (e) En déduire que X admet une espérance finie E (X) et une variance finie V (X) que Pon déterminera.
+Problème
+Partie 1
+Pour x réel, on pose
++o e-x2(1+42) g(x) dt. 1++2 Montrer que g est continue, bornée et paire sur R 2. Calculer g(0) et montrer que lim g(x) = 0. X ++0 3. Montrer que g est de classe C1 sur ]0, +o[ et donner Yexpression de sa dérivée en fonction +0 de lintégrale de Gauss I = e-t2 dt 4 En déduire que Ixl 2I 412 Vx € R, g(x) 2 du. 5 En déduire la valeur de I. 6. La fonction g est elle dérivable en 0? Tracer lallure de la courbe de g dans un repère orthonormé_
+Partie 2
+Pour tout entier naturel non nul n, on pose
+1 Un = dt et Yn = 2 n Jo t+n k k=1
+Inn.
+1. Calculer un, n € N* . 2. Montrer que la série Eun est convergente. On note Y sa somme. n21
+3. Exprimer
+uk en fonction de Yn et en déduire que lim Yn = Y. "A4+0
+Montrer que Vk 2 2, < uk 2k(k + 1) 2k(k = 1)
+5. En déduire que pour tout entier naturel non nul n, < Uk < 2n + 2 2n k=n+1
+6. Montrer que pour tout n € N* , 0 <y - Sn < où Sn = 2n(n +1)' Uk + 2(n +1) Déterminer un entier N € N* pour lequel SN est une valeur approchée de Y à 10-3 près.
 
+--- page 4 ---
+Concours Mathématiques et Physique
+Epreuve de Mathématiques
+Page sur 4
+Partie 3
+Pour tout réel x, on pose
++o G(r) = J e-t2 ~itxdt.
+Montrer que G est de classe Cœ sur R et exprimer ses dérivées successives sous forme intégrale. 2 Montrer que G satisfait une équation différentielle linéaire homogène dordre 1. 3  Résoudre léquation différentielle obtenue et en déduire que G(x) Vze 4,x € R G(2m) Vr(I)m( '(2m)! 4. En développant G en série entière sur R, montrer que Vm € N, ((0) m!4m 5 Soit m € N. (a) Montrer que la fonction t + + t2m(1+ 2) ~n est intégrable sur Rsi et seulement si n > m. (b) Soit t € Rfixé. En étudiant les variations de gt XH _xln '(1+4) sur [1, +œ[, montrer que la suite ((1 + R)") est décroissante_ n21 To lim {2m (1 + 2)-"t = Vn(2m)! (c) Montrer; alors, que n-++0 m!4m On énoncera avec précision le théorème du cours utilisé 6. Montrer que pour tout n > m 2 0, t2m (1 + 2)-"dt = n"+4 Jn;m, où
+u2m du. (1 + u2)n
+In;m
+7 Montrer que pour tout n > m 2 0, Jn+l;m (1 2m + Z)Jn;m. 2n 2m 8 Montrer que pour tout m € N* , Im+l;m 2m Im;n=1 - 9 En déduire une expression simplifiée de Jm+l;m = m € N,à laide des factorielles_ 10. Montrer; alors, que pour tout n > m + 1,
++o 0)-" nm+4 T (2m)! t2m(1 + 1i (1 -2m*2) . 4m (m')2 k=m+1 2k
+11. Donner le développement en série entière de f(t) = In(1 = t) et préciser lintervalle de validité. 12. Montrer que pour tout m € N*
++2 2 (m+4)" In(z) = 2In(m!) + (2m +1(v-E4) k=m+1 p=2 pkP
+Z(p) 1 18. Montrer que In(z) = Y + où Z(s) = 2 s > 1. p2p-i , p-2 ns n=l
+Fin de lénoncé

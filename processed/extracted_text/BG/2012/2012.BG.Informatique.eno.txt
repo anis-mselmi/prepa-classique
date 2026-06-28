@@ -1,5 +1,85 @@
+--- page 1 ---
+A8)si2/6aj) REPUBLIQUE TUNISIENNE Ministère de l'Enseignement Supérieur et de la {klseais Recherche Scientifique ggk Concours Nationaux d'Entrée aux Cycles de Formation d'Ingénieurs Jsinl ûik ;i l Maliji Session 2012 iniJi is Jalyj 2012 "J Concours Toutes Options SinUT CIParnois Epreuve d'Informatique GbuoiheQue 4 1an Date : Mardi 05 Juin 2012 Heure 15 H Durée 2 H Nbre pages 6
+Barèmne EXERCICE 4 points PROBLEME 1 : 6 points PROBLEME 2 : 10 points
+DOCUMENTS NON AUTORISES
+L'USAGE DES CALCULATRICES EST INTERDIT
+EXERCICE (Maple) On considère la matrice carrée A=(0,) dordre 5 tel que 5-; 1 ~ Si i = j et i <5
+Si i =5 et j =5
 
 
+5-j 1 2
+Si i = j+1
+ 1 : . 
+Sinon
+Donner les instructions Maple permettant de
+ ` 
+1 définir la fonction f à deux variables i et j tel que f(i,j) =a; "; 2. définir A, en utilisant la fonction f ; 3  calculer d, le déterminant de A 4 déterminer L, la liste des valeurs propres de A ; 5  déterminer AI, la matrice inverse de A ; 6. donner une réduction de Jordan de A puis afficher la matrice de passage 7 définir I5 la matrice identité dordre 5 8 définir la fonction P en Xtel que P(X) = det ( X.I5 - A) 9 vérifier ]égalité P(A) = 0 sachant que P(X) est le polynôme caractéristique de A ;
+10. résoudre le système linéaire Ax =b avec b = 0
+Concours Toutes options Session Juin 2012
+Eprcuve d'Informatique
+Page 1/6
+0,,
 
+--- page 2 ---
+PROBLEME L(Maple) PARTIE [
+Le nombre de changements de signe; entre les éléments dune liste [yY;Y2  Yn] de n+1 réels non nuls; est égal au nombre déléments de lensemble E = {k e [1,n] telque Y+-1 * y <0} Dans le cas où la liste comporte des éléments nuls; ce nombre; est par définition; égal au nombre de changements de signe entre les éléments de la même liste  après suppression de tous les éléments   nuls Exemple
+Le nombre de changements de signe entre les éléments de la liste [1,0,-2,3,0,0,1,-1] est 3, car
+après   suppression des   zéros; on obtient la liste [y,Y,yzy;y ] -[1,-2,3,1,-1] puisque Yk-1 * Yk <0 pour k € {1,2,4} 1. Ecrire une procédure Maple nommée Chgsgn qui prend en entrée une liste L dont les éléments sont de type numérique et retourne le nombre de changements de signe entre les éléments de L. PARIIEII Soit P un polynôme en x de degré n (n > 2) à coefficients réels et à racines réelles simples. On se propose de calculer le nombre de racines réelles de P sur un intervalle [a,b] On définit la suite de polynômes associée à P comme suit P est égal à P.
+P est le polynôme dérivé de P ( P = P' ) P est lopposé du reste de la division euclidienne de P par R' P; est lopposé du reste de la division euclidienne de P par $
+Pn est Fopposé du reste de la division euclidienne de P n-2 par P n-17 2. Ecrire une procédure Maple nommée List_Poly qui prend en entrée un polynôme P et retoume la liste [Po? P 3, P]
+Soient a et b deux récls tels que a <b Na et Nb représentent respectivement les nombres de changements de signe entre les éléments de la liste de polynômes Ro" P  4, P pour x = a ct x=b Le nombre de racines réelles de P sur un intervalle [a,b] est égal à ( Na Nb ); si P ne s'annule ni en a, ni en b Concours Toutes options Session Juin 2012 Epreuve d'Informatique Page 2/6
 
+--- page 3 ---
+Remarque Pour i e[1,n], si P s'annule pour x =a (ou P s'annule pour x = b ) il n'intervient pas dans le   décompte du nombre de changements de signe de la liste de   polynômes [P' ; P2 P ] pour x = a et x =b
+3. Ecrire une procédure Maple nommée Nb_Chgs qui prend un polynôme P en x et un réel r et retourne le nombre de changements de signe entre les éléments de la liste [P> ; 3 P ] pour x =r 4. Ecrire une procédure   Maple nommée Nb_Racine_Simple qui prend en entrée un polynôme P en x et deux réels a et b et retoumne le nombre de racines réelles simples de P sur [a,b]
+Soit P un polynôme en x de degré n (n > 2) à coefficients réels et à racines réelles simples et multiples. 5. On se propose de compter le nombre de racines simples et multiples du polynôme P. Dans le cas où la racine est multiple elle sera comptabilisée une seule fois. Les racines P de P sont les racines du polynôme n'ayant que des racines  simples. pgcd(P ,P') Ecrire linstruction Maple donnant le nombre de racines réelles de P sur [a,b} PROBLEME 2
+Le but de ce problème est détudier un algorithme de chiffrement et de déchiffrement. PARTIE I : CHIFFREMENT
+Description Soit un message de longueur n (avec n pair), écrit en lettres majuscules de A à Z, représenté par un tableau de taille n à raison dune lettre par case. L'idée du chiffrement est de grouper les lettres du message par bloc de 2, puis de les chiffrer bloc par bloc en utilisant la méthode suivante Les lettres sont codées par leur rang dans lalphabet comme le montre le tableau suivant
+lettre A B c ED E LFG H code 1 2 ( 3 | 4 | 5 | 6 | 7 8
+s T U V WxVY Z 19 20 21 22 23 24 25 26 Tableau de codage Les codes P et Pk+1 de deux lettres successives dun texte seront chiffrées Ck et Cx" en utilisant la formule Ck a b P (mod 26) C++ d P k+l
+Concours Toutes options Session Juin 2012
+Epreuve d'Informatique
+Page 3/6
 
+--- page 4 ---
+avec
+P et P respectivement les codes des lettres k et k+1 du texte clair (texte original non k+1 chiffré)  C et C respectivement les codes des lettres k et k+1 du texte chiffré . k+l (a 6 La matrice Mc = de chiffrement vérifiant les caractéristiques suivanîtes
+Les éléments a, b, c et d de Mc doivent être des entiers positifs. La matrice Mc doit être inversible. La matrice inverse existe si (ad bc) est impair et n'est pas multiple de 13 Exemple de_chiffrement On souhaite chiffrer le mot < ELECTION > représenté par le tableau suivant Mot à chiffrer E | L | E | € | T / I | 0 | N
+9 avec la matrice de chiffrement Mc = 5 D' après le tableau de codage, les codes correspondants aux lettres du mot < ELECTION > sont : P Pz P P4 Ps P P7 P 5 12 5 3 20 9 15 14
+Les deux premières lettres du mot seront donc chiffrées ainsi 5 93 (15 (c)-( 4) (mod 26) = (mod 26) = Cz 5 7 12 109 5 Les nombres 15 et 5 correspondent respectivement aux lettres 0 et E. En procédant de même avec les paires de lettres suivantes; on obtient les codes chiffrés suivants C C2 C, C4 Cs C6 C7 C8 15 5 5 20 8 7 9 17 Mot c hiffré E E T H G 0
+Travail demandé On suppose avoir effectué les déclarations suivantes CONSTANTE NMAX 2 1000 TYPE TABMSG = tableau [1. NMAX] de caractère TABCAR = tableau [1  26] de caractère TABE tableau [1.12] de entier MATC = tableau [1.2 1..2] de entier défini le tableau constant T de type TABCAR suivant:
+T[i] A B C D E F G H 2 3 4 5 6 8
+S
+T | U V W | X ( Y Z 19 20 21 22 23 24 25 26
+1. Ecrire une fonction algorithmique Taille permettant de saisir et retourner un entier pair strictement positif et inférieur ou égal à un entier NMAX donné passé en paramètre.
+Concours Toutes options Session Juin 2012
+Epreuve d'Informatique
+Page 4/6
+
+--- page 5 ---
+2. Ecrire une fonction   algorithmique Code_Car, qui à partir dun paramètre € de type caractère et du tableau   constant T retourne ]indice de la case contenant c de T si C appartient à Tet 0 sinon. 3. Ecrire une procédure   algorithmique Saisie Msg permettant   de saisir n lettres   dans un tableau T1 de type TABMSG en vérifiant 1'appartenance au tableau T de chacune des lettres saisies. 4. Ecrire unc procédure   algorithmique Saisie_Matc   permettant de   saisir   la   matrice de chiffrement Mc de type MATC. 5 Ecrire une procédure algorithmique Chiffrer permettant de chiffrer dans un tableau T2, un message clair donné représenté par un tableau TI de taille n.
+PARTIE II : DECHIFFREMENT
+Pour déchiffrer un message; on multiplie les codes des lettres du message chiffré deux par deux par la matrice de déchiffrement. P Ck )-( 2) ( (mod 26) P k+1 Avec Ck et € 4+1 respectivement les codes des lettres k et k +1 du texte chiffré P et P k+l respectivement les codes des lettres k et k +1 du texte clair. C 6 la matrice Md = est Ia matrice de déchiffrement. Le calcul de Md est donné par d d ~b ( 0) =m[ mod 26 ~C où m € {1,3,5,7,9,11,15,17,19,21,23,25} mn respecte la condition ((ad be) * m)mod 26 =1
+Exemple de déchiffrement
+Considérant la matrice de chiffrement
+4)-(, et calculant la matrice de déchiffrement 4) 7 correspondante Md = b) =( =m mod 26 d ~5 La première valeur de m tel que m € {1,3,5,7,9,11,15,17,19,21,23,25} vérifiant la condition ((ad ~ bc) * m) mod 26 =1 est celle retenue. Dans ce cas cette valeur est égale à 23 . a b ~4 5 12 Ce qui donne Md = = 23 mod 26 ~ C d ~5 9 15 25
+On se propose de déchiffrer le mot < IPHMKNDO > représenté par le tableau suivant
+Mot à déchiffrer
+P | A | M | K | N | D
+0
+Concours Toutes options Session Juin 2012
+Epreuve d'Informatiguc
+Page 516
+
+--- page 6 ---
+D' après le tableau de codage, les codes C. correspondants au mot < IPHMKNDO > sont C C2 C C4 Cs C6 C7 C8 9 16 8 13 11 14 4 15
+Les deux premières lettres du mot chiffré seront donc déchiffrées ainsi P 5 12 9 237 3 (mod 26) = (mod 26) = P 15 25 16 535 15 Les nombres 3 et 15 correspondent respectivement aux lettres C et 0 En procédant de même avec les paires de lettres suivantes; on obtiendra les codes P suivants
+P
+P P P Ps P P P 15 14 3 15 21 18 19 0 N C U   R S
+3 C
+Mot déchiffré
+Travail demandé
+6 Ecrire une procédure algorithmique Init_Tab qui remplit, avec des entiers impairs de 1 à 26 et non multiples de 13, un tableau E de type TABE 7. Ecrire une procédure   algorithmique Cree Md qui crée, à partir de la matrice Mc de chiffrement; la matrice Md de déchiffrement en utilisant   le principe de calcul décrit précédemment. 8 Ecrire une procédure algorithmique Dechiffrer permettant de déchiffrer dans un tableau TI un message chiffré donné représenté par un tableau T2 de taille n.
+Concours Toutes options Session Juin 2012
+Epreuvc dInformnatique
+Page 6/6

@@ -1,13 +1,241 @@
+--- page 1 ---
+RKPUBI K)UK TUNISIENNE Mlnlscerc d '"'Emseiescmcnt Sapéricur Conconrs natlonaur dentror mx cycla dc formntion d'Incenicurs Scssion 2X16
+4)jif24w) U]ackylass Jjwajw UJurnyy Zonsuy
+Concours Mathématiques / Physique et Physique / Chimie
+PReP; PAratore ^ Biblkotheqle | Zprsuve ce Sciences et FlEs 5 fQcewey Tschniques de [Ingenicur
+9i
+5 Fropyuf 4
+C@wCcurs WFONAUYDENTREE ~FCICLES DEzormalov DINCEVIEUR}
+Session : Juin 2006
 
+--- page 2 ---
+REPUBLIQUE TUNISIENNE Mlnlrtere de ('Envelunement Supérleur
+9U{iui 01?19184s Jawnejalls iciiyy 2006w"
+Concours natlonaux d'entree ex cyclas dc {ormatlon d'Inptnlurs Sculon 2006
+Concours Mathématiques et Physique et Physique et Chimie Epreuve de Sciences et Techniques de ['Ingénieur
+Date Vendredi 9 Juin 2006
+Heure 8 H
+Durée 3 H
+Ybre pages 13
+Barème
+A : Concepton (4 pts)
+Parte B : Mécanique (10 pts)
+Pude C : Antomatiquc (6 pt)
+Remarques V Les partias A, BaCsont indpendante 2 Les documents réponses DRI (Concqption), DR2 (Mécanique) et DR3 (Awtomatique) sont à rende 0 totalité même vides; en fin de Veprexve 3/ L'usage dune calculauice programmable es interdit V Ilest demandé aux étudiants de mentionner les principaux passages de leurs raisonnements e les résuhtats obtenus dans les espaces qvi leurs Jont reservés dans les Documents Réponsa
+UNITE DE TRAITEMENT DE SURFACE
+Présentation
+La plupart des traitements de surface ont pour objet daméliorer la tenue des pièces diverses corrosions en les recouvrant dun revêtement métallique ou de produits non métalliques isolant la pièce du milieu ambiant. Les   traitements de surface décoratifs soDt une partie très importante du domaine des traitements de surface. Is offent une valeur ajoutée importante à des nombreux produits de corsommarions courantes tels que les   accessoires de décoration   l'horlogerie; la   lustrerie; F'électromenager, le cosmetique; etc. Le domaine des traitements de surface décoratifs est très large et permet de donner à la surface un aspect de couleur un aspect métallique un effet de surface particulier.
+Le système; objet de cette étude; est une unité de traitement de surface décoratif pour bouchons de produits cosmétiques (parfum, champoing; crème,_ Ce traitement   consiste à apporter aux bouchons un aspect de couleur caractérise par une brillence intense qui ne terit pas. (figurc-1)
+4
+Flgure-[ Bouchons pour flacon de parfum Concoun Mutheuutlque-Phyuque ot Phylquc (hmlc. Sudon Jutn Z(lik Gprouvs d6 KTI
+Page : I/J
 
+--- page 3 ---
+Descrlptlon fonctionnelle de Funité de traitement de surface décoratlf L'unité de traitcment de surfacc (figure-2) est princ:palcment constituce de plusicurs bacs de trzitement 0L de rirçere Ils sont disposés radialcment autour d'une consolc fixe unc consoie fixee au: Jol renferze le groupe de motorisation et supporte le manipulateur un manipulateur mocile destine 2 transfére: es bouchons à traiter d'un bac à ur autre. Manipulateur Motoréducteur Glissière Vérin Support
+Console
+Bouchons
+Bac de traitement
+Figure-2 Schéra de lunuë de traitement de surface
+Les bouchons à traiter , préaiablement cegraisses; sont fixes sur une balancelle par !'opérateur. L'ensemble (bouchons; balancelle) consztue une grappe (figure-3)
+Vuc schémurique
+Vue relle
+Flgura; Schema F'une xrappe Concuur Mathenunk ue-Phywquo % Physlquc hlmkc Yxuon uln :(N6 Iprvuyp ie STI
+Pvge , 2/13
 
+--- page 4 ---
+L'opérateur disposc; suivant un ordro detcrminé, les grappes sur Ic convoyeur d'entr6o CE (Tapis roulant). En fonction de la disponibilité des bacs; ie manipuletaur viondra cherchc; l grappe situec a: poste d'entzéo PE. La grappc scra ensuite transferéc d'un bac & un autro suivent une procédure   établie lors dc le saisic dcs pazamètres detraitement (temps d'immcrsion; intensitc Le traitement de la grappe étan: terminé, Ic manipulatcur la posc Qu poste dc sortic PS su; le convoyeur de wortie CS. (flgure-4)
+CONVOYECR DE SORTIE Cs
+POSTE DE COXDUITE
+Bac N'14 UTEMES
+Bac No13 AITPYIN
+POSIE PDE SORIIE PS
+POSTE D'ENTREE PE
+{Bac N'1S TLITEMEY
+CONVOYEUR D'EYTREE CE
+Bac .Y911 RIYÇAGE
+Bac Yo12 RLYÇAGE
+Bac NPIO TRAITEMENT
+Manipulateur
+Éec NCI DÉCAPACE
+Bac N99 RLYÇAGE
+Bac No3 RINÇAGE
+Bac 8*8 RLYÇAGE
+Bac Y92 RIYÇAGE
+Bac N%6 RINÇAGE
+YBac Y97 RAITEME
+Bac NPS RINÇAGE
+Figure 4 Dlsposrion générale de l'unite de traltemet
+Description fonctionnelle de la partie opérative Manipulateur Le manipulateur est composé d'un ensemble d'organes qui contribuent à transférer la grappe d'un poste à un autre ct l'immersion dans différents bacs contenants dcs bains de traitement ou de rinçage. Trois mouvements sont attribués au manipulateur pour assurer ces fonctions Une rotation autour de ['axe vertical assuree par un motoréducteur placé à ['intérieur de la console tixe. Ce mouvement permet dc transtérer successivement la grappe d'un bac à un autre Une transletion horizontale obtenue par un motoréducteur électrique ct un système vis- écrou. Cefte mobilite ast réservee à placer la grappe dans le position d'immersion Une   translation verticale génénie par un vérin à double cffet. Co mouvomont assurc Fimmersion de la grappe dans le bain de traitement ou de rinçage puis son rctrait.
+Cavxours Mathemarquo-Fhyrque > Phyalque Chtuule Mouson Juln 2006
+Eprouvo J, BTI
+Pure J1J
 
+--- page 5 ---
+PARTIEA TECHNOLOGIE DE CONCEPTION
+A-[- Analysc fonctlonnelle du 'ysteme
+La dcscription fonctionnelle générale de ['unité dc traitcment dc surface est ébauchco sur Ic document suivant par |'actigrammc niveau A-0
+Programme Encrgie élecuriguc
+Eau + Produits
+Traitar en suTface dguppas d bovchons A-0 Unité d traitement de surface
+Inforstione viquella Eau + Prodts us62 Gr2ppcu dbauchons Gafs
+Gmppo dabochons non traites
+Cette unité est principalement composée des éléments suivents Une_partie_commande (PC) permettant le traitement des informations et la gestion du système. Une partie_opératiye (Manipulateur) assurant le transfert, l'immersion et le retrait des gappes. Différents bacs pour assurer le traitement en surface des bouchons.
+A-L-l- Le niveau 4-0 relative à lafonction globale Traita en surface des grappes de bouchons > se décompose en tois niveaux En utilisant les données de présentation génerale du système, compléter ['actigramme niveau AO sur le document réponse DRL.
+La partie opérative est constituée à son tour des organes suivants Vn Dtor permettant d'orienter les grappes vers les bacs. In_brs_couliasant pour positionner les grappes au dessus des bacs. Un vsrn permettant 'immersion et le retrait des grappes.
+Le bras coulissant est composé de Vnmotsur_élestrique à_courant_continu Unnductaur de vitcase [nsstèmc yis-scrqu A-I-2- Compléter 'actigrammo niveau 422 sur le document réponsc DRI.
+Conooun MeebboabuP
+Ju 1006
+Eprouo+GTI
+Poin
 
+--- page 6 ---
+A-LI- Etude eraphlque
+On donne ' dessin en perspective d: support porte glissière  Complétc; le dessir de définition de cetto piece sur le document réponse DRI par la vue dc face en coupe brisée à plan parallëlc A-A la vuc de dcssous; la vue de droite en coupe B-B ; la scction sortie C-C.
+A-III- Etude de conception Montage de la liaison encastrement On se propose dans cette partie de   représenter Ja solution   technologique de la liaison encastrement entre le support et la glissière La solution retenue consiste à   utiliser vis d'assemblage. Ces vis sont logées dans des trous lamés usinés dans le support dune part et implentées dans des trous taraudés débouchant réalisés sur la glissière d'autre part.
+Sur le document réponse DRI, on vous demande de
+Choisir parmi  les ; varietés des vis proposées celui qui convient  avec les pièces assembler en cochant la case correspondante. Dessiner les vis en place et terminer la représentation des trous taraudés. Hachurer les deux pièces.
+Cancour Muhbmarlue Phyzque c Phyulque ( htmlo Monalon Jutn 20116
+Eprruva doKTT
+Pr; VIJ
 
+--- page 7 ---
+PARIIE R ETUDE MECANIQUE
+L'étude portcra SUI le   manipulateur dc lunité dc traitcment de surfacc   décoratif de bouchons décrit précédemment par la figure-2 La figure-B.2 représente lc schéma cinématiqui de cc mecanisme constitue principalcment des éléments suivants
+La console (0) est liéc au rcpère 93,(0,*0,80,5,) supposé_galiléen (absolu). L'arbre (1) est lié au repère Rp(HÆoJ,7 ) . 1 est cn liaison pivot d'axe (O,x,) avec Ii console (0). Son mouvement est paramétré par ['angle a =Goÿ ) = (70,7 ) (fig-B.1.a) La vis (2), liée au repèreR,(K<z,/, ,42) , est en liaison pivot d'axe (Aj ) avec |'arbre (1) Son mouvement est paramétré p& l'angle B = (76,*,) =(7,7,) (fig-B.1.b) L'écrou (3) lié au repère R,(B,X,,y,,7 ) , est en liaison hélicoïdale de_pas @ daxe (B,ÿ avec la vis (2) d'une part; et en liaison glissière d'axe_ (CZ ) avec ['arbre (1) d'atre part. Le piston du vérin (4), lié au repere $,(Q,æ,,},,4) , est en liaison glissière d'axe (,xo) avec |'écrou (3). La grappe (5), de centre d'inertie G, est liée au repèreRs(E,rs,ys,7 ) . Elle est en liaison pivot daxe ŒE,7) avec le   piston (4) Son mouvement est   paramétré par   l'angle 0 = (Bxs) = G,Js) (fig-B.l.c).
+Les positions des différents points sont définies par les vecteurs suivants QF-ak, Ag-a*0 AD-yJ; BD-b, y; KA-b Z; DE-x% EG-h %s Ac-b; v
+Où '%, B et 0 sont les paramètres angulaires du mécanisme. h a, a1, bo, b1 et b2 sont des constantes geométriques du mécanisme x et y sont des paramètres variables en fonction du temps.
+@ 7
+51
+7
+H
+7
+Fo
+Flgur-B.l.a Moxvana & (I) par rappor " (0)
+Flgurc-B1.b Mouvmnent + () par rapport ) (I)
+Flgwra Blc Movvanon * (S) ps rappor € (1L
+Conseun Mranomumnus-Phyuqu Paynlque ( Blmkt [ocalon Juln 
+Kprsuvo de YTI
+61J
 
+--- page 8 ---
+Ecrou (3)
+K
+B Vis(22
+Piston du Vérip
+Arbre (1)
+0 7
+E
+Gmppa ()
+Console (0)
+Xo
+és
+Bac & fluide
+xo Figure-B 2 Schéma cinématique du mécanisme
+B-I- GEOMETRIE DES MASSES On se propose de déterminer   les_caractéristiques_d'inertie de 'a grappe7 Elle est constituée d'une balancelle de hauteur@D de longueurQDet de masse négligeable. Cette pièce est percée de trous équidistants où sont   placés les bouchons à traiter. Ces bouchons sont identiques et de masse mochacun (figure-3)
+B-1-1. Etude géométrique du modele continu
+La première approche consiste
+supposer que la grappe (5) est une plaque rectangulaire homogène; de centre de gravité G, de masse totale( de hauteur 2h et de longueur 2L (fig-B.3).
+0 ys
+Flgure-B} Plaque radtanguladre homogène dans lc plan (E,0,,41 ) .
+(onvur Maunbinenuo-[nywqug @ Pryowus (Jnl Jonnwe Jue 1u06
+Eprauve YTI
+Pur InJ
 
+--- page 9 ---
+B1-[-[. La matrice d'incrtio du solide (S), aL point G, exprimée dans Ia base B;(R,é,,i ) ~A 0 9'écrit sous la {orme ['6 (5)]3s B Justifier cette {ormc 0 C ,85 B-1-1-2. Exprimer Ic moment dincrtic du solide (S) par rapport au point G, noté [c en fonction de  c C. B-1-1-3. Montrer que B -A + C. B-1-1-4. Détcrminer A ct C en fonction de m Let h.
+Colonne N'
+B-1-2 Etudo gooméurlque du moddle dlscret
+La seconde approche consiste discrétiser la plaque en petits éléments finis. Chaque élémem P, de masse mo est considéré comme une masse ponctuelle concentrée 8 Dœud repérée par le vecteur position (figure B.4) = GP =(iAx)x; +(jAz)z ~n<i<n n 22 ksj<k k22 Avec L=(k+l) Az h-(n+1) Ax
+Rangée_Vo i
+F
+x,
+Figure-B4 : Plaque redangulaire dscrëtisée en éléments finis
+B1-2-1. Déterminer la masse totale m de la grappe (5) en fonction de mo n et k. B-1-2-2. Montrer que la matrice d'inertie de lélément P, au point G, dans la base 3,, s'écrit 1A Ej [5 , @)lss A;+C; Calculer Aj, C; et Eij. Ej [85 B-1-2 3. Montrer que la matrice d'inertie; 8u point G, dans la base 3, de la grappe (S) s'écrit Ax Ek YAr = Af(k) sous la forme [L(5)l8, Ax +C, où {c. =C f(n) Ex C ~S,
+B1-3 Convorgonco dos modèlos Dans toutc la suite du probleme on suppose qu'on place sur la balancelle un nombre assez imponant de bouchons. Montrer quc |'hypothèse qui consisterair à adopter le modèle continu est parfaitement justitiéo
+On doune
+8"(2n+/) 8; Ve eR
+i'9(n-U(2n-1) er ij=0 . 17 Coonuun Matiomatkue-Phyuque #t Phynlque-Chimka Dosalon Juln J0u6 lprouvo de STT
+Fr1715
 
+--- page 10 ---
+B-2 ETUDE CINEMATIQUE
+'% B21. Tracer le graphe des liaisons cn identiflant los liaivons antre les diffbrents solidcs. { 8-22 Determincr les vcctaurs rotations 2(l/0) , 1(2/1), 1(J/1) , 0(5/1) c 0(3/2) . B2-3 Ecrire le torscur cinématique; au point B, do |'écrou (J) dans Son mouvement par rapport à la vis (2) {Von2 en fonction de | ade p- PL 2x
+B14. Calculcr, par dérivation directe, la vitesse VŒe3/2) en fonction de y En déduire en fonction de B ct de p. B-2-5 Calculer les vitesses V(Ge1/0) &t V(G € 5/1) .
+Sachant que le rcpère 9 (Hr,J,Z ) est en rotation per rapport a repère supposé galiléen 9o(0,x0,8o,4 
+B2 6 Montrer que ['accéleration absoluey(G e5/0), s'écrit sous la forme
+[7(Ge5/0)=7(Ge5/1)+7(G e1/0)+7c(G e170)]
+Où
+dV(G e 5/1) 7(Ge5/1) = est [accélération relative. dt 19
+7(G61/0) =[429 ^HG 7(l/0) ^ [<0/0) ^FG est /'accélération d'entraînement . dt 2196 7c(Gel/0) = 20(1/0) ^ V(G € 5/1) est l'accélération de Coriolis.
+B-2-7. Déterminer les accélérations 7(Ge5/1), 7 (Gel/0) et 7c(Gel/0) _
+Dans toute la suite du problème; on suppose que La grappe   (5) est de masse m, de centre d'inertie G et de matrice dinertie
+[L (5)]8s
+B
+Tous les atres solides sont de masses négligeables.
+B-3 ETUDE CINETIQUE B31 Déterminer le torseur cinétiquc; 8u point G, du solide (S) dans son mouvement par rapport au rcpère %, {8} 8-32 Déterminer le torseur dynamique; au point G, du solido dans son mouvomont par rapport au rcpèro 3, {Don} c ['exprimer dans la base 8s
+M Pend Ph
+100s
+813
 
+--- page 11 ---
+B-3-3.
+Calculcr I'encrgic   cinetique du solide  (9) dans son mouvement par rappor: Q repere R, Ec(S/1)
+BJ-4
+Exprimer dans la base Bs lc vcctcur defini par t-[5a(S)1a, 1(1/0)-1, 0(1/0) . Où Ic = A C E [46 (5)]as est la matrce d'inertie du solide (5). B-3-5 On démontre que lc torseur des effets d'incrtie d entraînement '9ie(5,9./0)} et lec torscur des cffets dinertie de Coriolis Dic(5,9,/0)} dc la grappe ($) dans son mouvement par rapport au repere R1, $'écivent sous la forme my (Gel/o) {2ie(s,3,/0)} -Jq/0)^c-[1(5] [d0a/92 dt 2/90
+m v  (Ge1/0) -20(S/I)^ 0
+Dic(5,3,/}
+Exprimer ces deux torseurs dans la base 3s.
+B4- ETUDE DYNAMIQUE
+Le but de cette étude est dappliquer le Principe Fondamental de la Dynamique %u centre d'inertie G, la grappe ($) dans sop mouvement par rpport 8u repère non galiléen 92, (HFJ,4) .
+On rappelle que le Principe Fondamental de la Dynamique (PFD) s'écrt dans ce cas sous la forme D(si1){ t(5-5) 4e(5,9,/0) Dic (5,3,/0) 
+On considère la phase d'immersion de la grappe (5) dans lc bac au cours de laquelle a = ao C y=Y = C" et x est vuriable en Dnction du temps
+On supposc que ['action du fluide contenu dans le bac sur la grappe est repriscntéc, eu fd ys point G, par le torseur b E(fluide-+s)}a fëi
+f - #mb)
+J2 cst lo coafficiont d'amortissemont 8 ost lo coefficicnt d'amortissement 4b
+réduit.
+Concoar Muhamatkque-Phy quo at [ynlquo-CInla Sonuon Juln J15
+Eprauvo do STI
+101,
 
+--- page 12 ---
+action mécanique, a: point E, du piston (4) sur la greppo (S), er exprimee; dans le base Xc Lz Bs par lc torseur T(4-+5)}, =< Y MG Zg 1 2 L'accélération de la pcanteur cst 68*,
+B4l.
+Isoler la grappc (S) et faire l'inventaire des actions mécaniques extérieures exercees SUT cc solide. B4-2. Ecrire; au point G, dans la base 3s le torseur des actions nécaniques extérieures exercées sur le solide ($) T(-5)} B-43. Déterminer la relation qui découle de ['application du Théorème de la Résultante Dynamique; en projection sur ['axe ÿs, & solide (9) dans son mouvement par rapport au repère R1. Cette relation est repérée par 0. B4 4 Déterminer la relation  qui découle de   lapplication du Théorème du Moment Dynamique; en projection sur l'axe 7,, au solide (5) dans son mouvement par rapport au repère R1. Cette relation est repérée par @. B-45 A partir des relations et 0 précédemment   établies;   déduire [équetion du mouvement de la grappe (5) dans sOn mouvemcnt par rapport au bâti R1. Cette relation est repérée par @ B-4-6. Pour étudier la stabilité du mouvement de la grappe (5), on suppose qu' 'elle effectue de faibles   oscillations autour de Paxe 2, 8 <<I; sin8 ~ 8; cos8 ~1 _ Montrer   que léquation @ du mouvement se réduit à celle d'un oscillateur auto excité de la forme ë-2e40+0;(1-3(t))0-0: et expliciter la pulsation Qo et la fonction paramétrique 5(t) en fonction de g b et Ë.
+Cuoun Muthernarhue-Phynique a Phynlque CPInue
+don Judn 10U6
+Eprwuva d JTI
+P8o 7 Tinj
 
+--- page 13 ---
+BSRIIC ACTOMATIQUE
+NB. Les partles C-[ et C-Il sont independantes Les réponses dotvent etre rédgees sur les documents reponses
+Dacrptlon du système On 'interesse a système de remplissage dcs bacs par les produits appropriés. La première partic cst consacrée à la détection des niveaux dc remplissage des bacs, Celleci est cffcctuée par das captcurs de niveau tout ou sicn_ La deuxième partie est consacréc à ['auscrvisscmcnt du niveau dc produit dans {c bac.
+Partic C-I Détection du pivcau dans les bacy
+Chaquc bac est muni de trois capteurs de niveau v, m et p (voir figure C-1): v vaut < 0 > lorsque le bac est un niveau très bas, inféricur au   niveau indiqué par 1emplaccment du capteur v; m vaut < 1 > lorsque le niveau moyen est atteint P vaut < ! > lorsque le bac est plein. Si le niveau du produit dans le bac est très bas, une vanne de remplissage V est ouverte afin de remplir à nouveau le bac. Cette vanne se ferme dës que le bac est plein: D'autre part, une lampe rouge L est allumée lorsque le niveau dans le bac est inférieur ou égal au niveau moyen Le démarrage du cycie de traitement est conditionné par le remplissage du premier bac qui fait l'objet de cette étude. Un relais X mettant en marche le système est activé lorsque le bac est plein
+capteurs
+L
+Sorties
+Figure C-1 Représentation d bac et des entrées sorties
+C-I-1. Etoblir la table de vèrité des sorties V, Let X en fonction des entrées v m et p. C-I-2. Donner les tableaux de Karnaugh et les équations logiques simplifiées des sorties (V, L et X) C-I-3. En déduire le logigramme des sorties en utilisant des portes logiques élémentaires à deux entrées (NON, EI, OU).
+Partic C-I Etude de l'asscrvissemcnt du niveau de produit dans le bac.
+Le système à étudier est constitué dun bac contenant lc produit; alimente   p&r une vanne fournissant un debit 9(t). On s'intéresse à ['asservissement du nivcau n(t) dans le bac. La fonction de transfert du système est de la forme suivante N(p) 1 -P T(p) = Q(p) (1+ p) où N(p) et Q(p) nprésentent respectivement lcs transformées de Laplace do n(t) et de q(t).
+Coocour Mauiomeiue-Phyuqus 7 Photlqu Chiau balon Jula 1006
+Kprvuvo + UTI
+Fr1 1v1
 
+--- page 14 ---
+Lcs transformees de Laplacc dcs fonctions utilcs sont donnees dans le tableau C-1. Tablcau C-[ F(p) f () pour / > 0 2 4
+(p-a)
+tc
+(p-a)
+C-I-1. Montrer que, pour une entrée en échelon (Q(p) = 4), NKp) peut se mettre sous la P forme N(p) = < B et calculer @ , B et Y . p 1 + P (1+ p)?
+C-II-2. Calculer et tracer n(t).
+C-I-3 . Le système caractérisé par la fonction de transfert   T(p) est   inséré dans la boucle d'asservissement donnée par le schéma bloc de la figure C-2, où R(p) est un régulateur à choisir et N, (p) est la consigne à suivre.
+Nrep)
+8p) Q(p) N(p) R(p) T(p)
+Figure C-2
+C-I-3-1. R(p)=k , k étant une constante positive a) Pour k =1 , tracer les   lieux   asymptotiques de Bode de la fonction de transfert en boucle ouverte G(p) = R(p)T(p) donner les marges de gain et de phase du système en boucle fermée calculer |'erreur statique b) Calculer la valeur du gain k;  permettant d'obtenir une marge de phase de 509.
+C-II-3-2. R(p) = kz  1+ k; et T, étant des paramètres positifs Tp_ a) En eppliquant le critère de Routh étudar la stabilité du système en boucle fermée en fonction de kz et T, b) Pour T, =13, calculer |'erreur de traînage pour une consigne en rampc de pente unitaire en fonction de & Déterminer la valeur de kz permettant d'avoir une errcur de traînage égale à
+(vacour Muueiqus-Piuwqe Pionlu Thinle Scalon Judin 10u6
+Eprwrvodo KTI
+Fo IVIJ

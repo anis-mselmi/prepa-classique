@@ -1,60 +1,1217 @@
+--- page 1 ---
+Concours Technologie BvevreEEM
+Mise en situation Données  &
+ÉTUDE D'UN SYSTÈME DE TRANSMISSION
+1-Présentation Le train avant est l'ensemble des organes mécaniques qui permettent de contrôler un véhicule. Il est situé dans la partie avant d'un véhicule et est composé, plus précisément; de roues, moyeux; freins, organes de direction; essieu porte-fusée; suspensions, barre stabilisatrice (Figure 1) Selon les spécialistes lune des plus grandes difficultés de la conduite automobile est de pouvoir le contrôler en appréciant correctement sa vitesse: Isolateur de l'amortisseur
+Porte-fusée
+Traverse Jambe de force
+Bras de suspension inférieur
+Barre stabilisatrice
+Figure.
+Train avant dun véhicule
+2-Mise en situation Pour ralentir ou immobiliser un véhicule en toute circonstance; il faut dissiper partiellement ou intégralement son énergie cinétique, en chaleur, à travers le système de freinage. L'énergie calorifique générée provient du contact entre les éléments tournant (1) et les éléments fixes (2) du véhicule (Figure 2) Les véhicules de tourisme sont généralement équipés de freins à disques àlavant et de freins à disques ou à tambours à Yarrière:
+Figure. 2 Schéma de principe de freinage
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 1 | 8
 
+--- page 2 ---
+Concours Technologie Épreuve CFM
+Mise en situation, Données & Hypothèses
+3-Fonctionnement Le système de freinage est généralement fixé sur le châssis et est essentiellement composé d'un étrier; dun disque, de deux plaquettes et dun circuit hydraulique de freinage (DT-06) Le circuit hydraulique est équipé d'un dispositif d'assistance de freinage et dun maître-cylindre: Le dispositif d'assistance de freinage a pour but d'amplifier Yeffort exercé par le conducteur sur la pédale de frein. Le maître-cylindre; qui commande les étriers, reçoit la force issue du dispositif dassistance de freinage et la transforme en pression hydraulique dans tout le circuit de freinage. Cette montée en pression est progressive car elle dépend de Yeffort du conducteur sur la pédale. L'étrier; en forme de < U >, sert de support aux plaquettes il coiffe le disque sans le toucher et, en son sein, il renferme un ou plusieurs pistons reliés au circuit hydraulique de freinage; Lorsqu'on appuie sur la pédale de frein, le ou les pistons placés de part et dautre du disque lié à la roue, sont poussés par Vhuile sous pression: Leurs mouvements latéraux poussent les plaquettes qui pincent fortement le disque: Ceci provoque un frottement plus ou moins prononcé selon l'effort exercé sur la pédale de frein et permet de transformer l'énergie cinétique du véhicule en énergie calorifique. Il existe deux types d'étriers de frein, les étriers fixes et les étriers flottants (coulissants) (Figure 3). Dans le cas des étriers de frein fixes, les plaquettes de frein sont poussées contre le disque à Faide d'un ou plusieurs pistons situés de part et d'autre du disque. Généralement les étriers fixes sont utilisés sur les voitures performantes. Les étriers de frein flottants sont en liaison glissière ou pivot avec un support solidaire du châssis. Seule la plaquette intérieure est poussée contre le disque par un ou plusieurs pistons. La plaquette extérieure subit la pression grâce au système mobile reliant les deux plaquettes. L'étrier de frein flottant est le système le plus répandu.
+Translation
+Huile
+Etrier
+Garnitures
+Huile
+Huile
+Bâti
+Pistons
+Bâti
+Disque
+Bâti
+Rotation
+(a)
+(b)
+(c)
+Figure. 3
+Frein à disque à deux pistons et étrier fixe, Étrier mobile Cas Étrier mobile Cas .2
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 2 | 8
 
+--- page 3 ---
+Concours Technologie Épreuve CEM Conception Mécanique Mise en situation Données & Hypothèses
+4- Données et hypothèses Partie -A : Conception Mécanique Cette   partie se rapporte à   lanalyse fonctionnelle du   système de   freinage et   lanalyse technologique du train avant du véhicule. Elle s'appuie sur les documents techniques (DT-01, 02, 03, 04, 05,06 et 07).
+Al- Analyse Fonctionnelle
+L'analyse fonctionnelle porte sur la fonction principale du système de freinage de la roue avant du véhicule. Ce système est fixé sur le châssis du véhicule; et est essentiellement composé d'un étrier, dun disque; de deux plaquettes et dun circuit hydraulique de freinage. A2-Étude" Technologique Dans cette partie; le candidat est appelé à répondre sur le document réponses, en s'appuyant sur le document DT-07.
+A3- Transmission de puissance
+Dans cette partie, létude portera sur un véhicule de tourisme   roulant   sur une chaussée horizontale à une vitesse constante v 108 km/h. Les énergies cinétiques des éléments seront négligées par rapport à lénergie cinétique de translation. On suppose que les caractéristiques suivantes sont constantes
+Masse du véhicule M 1500 kg Rayon de la roue Rr 20 cm Coefficient d'adhérence roue /chaussée fr 0.5 Les rayons (R = 12 cm r = 7.7 cm) de la position de la garniture des plaquettes de frein. Coefficient de frottement plaquettes /disque ff = 0.3 L'accélération de la pesanteur g = 9.81 m. S-2 Pression de contact de la garniture sur le disque Pc. On suppose que pc est uniforme On suppose que, pendant le freinage du véhicule roulant, la répartition de la force de freinage sur les 4 roues est uniforme: Le couple de freinage est assuré par le frottement des garnitures des deux plaquettes sur le disque. La Figure 4 représente un modèle de contact disque garniture de frein on note dN Peffort normal élémentaire exercé par la garniture dune plaquette de frein sur Télément de surface du disque dT :  'effort tangentiel élémentaire de la garniture sur l'élément de surface du disque, engendré au rayon p. dCf :le couple de freinage élémentaire par rapport à Yaxe de la roue, engendré entre la garniture et le disque.
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 3 | 8
 
+--- page 4 ---
+Concours Technologie Épreuve CEM Conception Mécanique Mise en situation; Données & Hypothèses
+Disque
+Garniture
+dp
+d0
+02
+01
+Élément de surface de contact (ds)
+Figure. 4 - Contact disque garniture de frein
+A4- Analyse de système mécanique Pour améliorer le système de freinage, le concepteur propose dinstaller un étrier mobile sur chaque roue; en se basant sur le schéma cinématique présenté en situation de freinage (Figure 5) En effet, dans ce cas d'étude, on suppose que Les pistons (68) et (71) sont éliminés et la plaquette extérieure (69) devient solidaire à létrier (15), Les pistons (75) et (78) sont substitués par le seul piston (78).
+15
+78
+L3
+A1
+Az
+Figure 5 ~Schéma cinématique minimal du sous-système de freinage
+Concours nationaux dentrée aux cycles de formation d Yingénieurs
+Session 2018
+Page 4 | 8
 
+--- page 5 ---
+Concours Technologie Épreuve CEM Conception Mécanique Mise en situation, Données & Hypothèses
+On associe au châssis, le repère orthonormé direct R(O,w,j,7). On suppose que les liaisons sont parfaites, sans jeu et les solides en contact sont indéformables. On donne les centres  des différentes liaisons
+L1(O,*) ;L2(C,*) ; L3(A17) ; L4(B,}) ; Ls(Az 7)
+0(0,0,0) Ax(a1,b,0) ; Az(a2,b,0) ; B(a3, b,0) ; C(c1, C2, 0)
+A5- Représentation Graphique
+En s'appuyant surle schéma cinématique de la Figure 5, le concepteur propose d'installer un étrier mobile au lieu de létrier fixe: Les modifications seront portées sur le dessin densemble du sous - système du document réponses (Question A-33, pages 10-11/20).
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 5 | 8
 
+--- page 6 ---
+Concours Technologie Épreuve CFM Fabrication Mécanique Mise en situation; Données & Hypothèses
+Partie B : Fabrication Mécanique Cette partie est dédiée à l'étude de fabrication du boîtier de roulement (5) et du cache-moyeu (12) présentés dans les documents DT- 01 et DT-02. Les   spécifications dimensionnelles géométriques   associées au boîtier  de roulement (5) sont   présentées   dans les documents techniques DT-08 et DT-09.
+B.1- Élaboration du brut
+Lobjectif de cette partie est de modéliser un outillage de fonderie permettant la réalisation du boîtier de roulement (5) par le procédé de moulage en sable 
+Le boîtier est réalisé en série renouvelable de 1000 pièces an pendant 5 ans. La durée de vie souhaitée pour Youtillage est de 5 ans: Le matériau utilisé pour le moulage est le GC 45 ayant un coefficient de retrait de 2 %. Le moulage est réalisé avec une surépaisseur dusinage de 2 mm.
+Les surfaces à usiner sont numérotées comme le mentionne les documents DT-08 et DT-09
+de C1 à C15 pour les surfaces cylindriques, de PI à P11 pour les surfaces planes, de Chl à Ch5 pour les chanfreins, de BI à B3 pour les surfaces brutes.
+B.2- Commande Numérique
+Le boîtier de roulement (5) est repris pour effectuer des opérations complémentaires dusinage sur des machines à commande numérique. Une analyse du dessin de définition de ce boîtier a permis au bureau des méthodes d'établir le processus de fabrication suivant
+Phase 10
+Contrôle du brut
+Tournage commande numérique des surfaces (P1, C11, P2, Chl, C1, P3, Ch2 Phase 20 C2, P5, Ch3, C3, P6 et P4) Tournage commande numérique des surfaces (C6,P1o, C7,C8, P11, P9, Ch5, Phase 30 : C5, P8, Ch4, C4 et P7)
+Phase 40
+Fraisage Commande numérique des surfaces (C9,C10,C12,C13,C14 et C15)
+Phase 50
+Contrôle final
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 6 | 8
 
+--- page 7 ---
+Concours Technologie Épreuve CFM Fabrication Mécanique Mise en situation; Données & Hypothèses
+Lusinage du boîtier (5) se fait par finition directe.
+B.3. Élaboration des pièces par déformation plastique Lobjectif de cette partie est de produire 1000 cache-moyeux (12) par an pendant 5 ans par découpage sur une presse à partir des tôles d'épaisseur e, suivi d'une opération de mise en forme par emboutissage. 8snut B.3-1 Effort d'emboutissage
+L'effort demboutissage est calculé en utilisant la relation suivante
+Femb K.u.d .e .Rm
+Femb
+Effort demboutissage (N) Diamètre du poinçon (mm) Rm Résistance à la rupture par extension (MPa) Épaisseur de la tôle (mm) K Coefficient de réduction en fonction du rapport des diamètres Df Diamètre du flan
+d Df
+0.55
+0.63
+0.7
+0.75
+0.8
+K
+0.80
+0.6
+0.5
+0.4
+B.3-2 Détermination du diamètre de flan
+Le flan est une plaque circulaire de diamètre Df. Les calculs s'effectuent en considérant une épaisseur constante de la tôle le flan et Pembouti doivent avoir la même surface (S = Sm). Partant de l'égalité des surfaces de lembouti et du flan, on obtient
+T.Df" S = Sm
+Surface du flan
+(2)
+Sm Surface de lembouti Df Diamètre du flan
+Si Yembouti cylindrique possède une forme complexe; on pourra utiliser deux méthodes
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 7 | 8
 
+--- page 8 ---
+Concours Technologie Épreuve CFM Fabrication Mécanique Mise en situation; Données & Hypotheses
+Méthode 1
+Décomposition de Yembouti en plusieurs surfaces élémentaires S,, S2' Sn dont la somme étant la surface totale de Vembouti
+Df" S =
+S1 + S2 + S3 + +Sn
+Si 5 Df i=1
+Si [=1
+3)
+Méthode 2 :
+Utilisation du théorème de Guldin par le calcul analytique
+T Dp2 5 = T Tf2 ZT Li Xgi i=]
+Li longueur dun élément simple
+Xgi: distance du centre de gravité par rapport à laxe de révolution
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 8 | 8
 
+--- page 9 ---
+Hc RÉPUBLIQUE TUNISIENNE
+~j @bw?llsis gules ulldli ùX Jl Ul Jssl #byl cjblli 2018329
+Ministère de l'Enseignement Supérieur et de la Recherche Scientifique
+Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs Session 2018
+Concours Technologie Épreuve de
+Conception & Fabrication Mécanique
+Date Mercredi 06 Juin 2018
+Heure 8.00 H
+Durée 4 Heures
+Lépreuve comporte deux parties
+A- Conception Mécanique B- Fabrication Mécanique
+(12 pts) (08 pts)
+Le sujet de Yépreuve remis au candidat comporte trois dossiers
+1- Mise en situation, Données et Hypothèses 2-Documents Techniques (DT-01, 02,03,04, 05,06,07,08, 09) 3- Document Réponses
+Important Aucun autre document n'est autorisé Seules les calculatrices de poche non programmables sont autorisées. Il n'est fourni au candidat qu'une seule et unique copie du <Dossier document réponses qui doit être rendu en totalité, à la fin de lépreuve, même sans réponses: Le document réponses doit être rendu en intégralité (aucune feuille ne doit être supprimée). Cet acte est considéré comme étant une tentative de fraude.
 
+--- page 10 ---
+Dossier
+Mise en situation Données et Hypothèses
+Ce dossier comporte 8 pages numérotées de 1 à 8 et neuf documents techniques DT-01 à DT-09
+Mise en situation
+Page 1 et2 DT-01 à DT-09
+Document Techniques Données et hypothèses
+Page 3à8 A- Conception Mécanique Page 3 à 5 Document Technique Conception DT-01 à DT-07 B- Fabrication Mécanique Page 6 à 8 Document Technique Fabrication DT-08 et DT-09
 
+--- page 11 ---
+Documents Techniques
+Ce dossier comporte 9 documents techniques numérotés de DT-01 à DT-09
+DT-01 Dessin d'Ensemble ~Train avant dun Véhicule
+Coupe A-A
+DT-02 Train avant dun Véhicule
+Détail A
+DT-03 Frein
+Coupe B-B Détail B
+DT-04 Nomenclature
+Rep. de 1 à 79
+DT-05 Train avant dun Véhicule Vue 3D
+DT-06 Système de freinage Vue 3D
+Détail €
+Détail D
+Document Ajustements usuels DT-07 Tolérances géométriques ISO 1101
+DT-08 Boîtier de roulement -Repère (5)- Cotation
+Coupe E-E Détail E
+Détail E Coupe E-E Détail F
+DT-09 Boîtier de roulement Repère (5) - Surfaces
 
+--- page 12 ---
+>
+8
+l8
+Jê 18 18 1s 18
+Jg 1g 1s198
+1 1 1 1 ë 1 1 2 2 5 1 1 1/ li 1 8 5 II Hl 8 ; g
+8
 
+--- page 13 ---
+1 1 I ; 1 1 0 2 : 8 } ; 7 f 9 : 1 8 1 5 1 Hah 2 8 ;
+:
+8
+8l02 uo-ssaS M'4'9 aanaJda 0u4981 sJnojuo)
+L:L OII0493
+Ite}9@
+; 1 1 5 1
+8s
+1e
 
+--- page 14 ---
+Ka*9 aAnaJda
+a-Borou4jaL Snoouos
+1
+:il IL Z 1
+8 1 I ; 1 1 1 8 1 1 1 48 1 1 1 1 ; 1 Ili 84 { 4 I 1 1 H 8 H 3 1 8 8 ; 1 9 1 8 1 'g ; 8 9 ; 8 1 : 9 ; 8 Il li I 1 1 9 8 ; | 928 9 ; 9 iil p:l:l l ; 1 ; 1 9 "klr xlr "Irlel8 8 8/8 8/8/5l8/8/8 55 8 3/8 s/5 8 9 " 4 $ 3 ~ 5 8
+M'9'9 a^naJda
+JTBotou4paI sJnojuoj
+1
+1 HI 1 1 Il I 8 1 ililililiyi | M ; 1 1 [:l4 ; : 1 1 1 8 [ 1 1 1 IH 1 88 8 1 ; 1 1 1 H ; 1 H 1 ; ; 4 78 8 1 ; 8 1i : ; 1 : 8 1 1 8 8 8 1 He 8 ; 3 8 1 8 Hii4Rai Hh 8 3; : ': 9  ; H ; 3 8/5 8 8|8 a8 &/8/#al8 8
 
+--- page 15 ---
+~ 8
+5 ' g
+1 ; 1
+1
+1 8i
+1
+= 1 : 5 ,
+1 1 1 1 1 2 2 1 - 5 1 1 1k li 1 8 1 ' 5 1 8 1 1 1 Hlk ê 8 ; 1 ; ;
+5 1
+5 {
+1
+1 1
 
+--- page 16 ---
+:
+1 1
+:
+1 1 1 1  1 1 2 1 2 1 8 ; 1 68 1 8 ; II Hkx 8 ; ;
+1 1
 
+--- page 17 ---
+2 8 8 { 9 % 8 1 [ charge tournante par rapport la bague extérieure charge tournante par rapport : la bague intérieure 8l 5 a? ' Î2 1 Fui 47 4 1 '" ; 87 3 3 7 1 8 835 53 1 { gg8 {; v @ 1 1 g 2 23 1 21 1 36 3 2 ; # @3 I| :  1 Il 8 1 8 1 3 2 8 8 1 1 5 8 % 4 2 2 2 [ 1 [ I 2 5 1; 8 1 1 33 9  ; 1 3 3 5 2 [ 5 g : 2 1 1 ; 2 Concours Technologie Epreuve C.F.l
+I 1
+9 1
+Il
+9 1
+[
+1 1 1 1/ 1 1 1 1 1 1 1 1 1 8 1 1 1 4 1 1 8i 1 0 : 5 f 1 8 @NFINDI % 1 1 28 M7e ; 8 1 [ | 1 Di 82 f 1 1 9 1 1 88 9 4 concours Technologie Epreuve C.f.M
 
+--- page 18 ---
+89
+82 . 5
+50
+54 . 2
+20
+3 8
+%
+3
+8
+31 . 5
+8
+38
+38
+{ 8 ; 8 2 2 : 8 8 2
+1
+9 2
+17
+30 20 ,
+1 I ; 3 1 1 5 5 ; hi 5 1 I 1 1 ! 3 2 : 8 8 ; { 1 1 1/ 1 8 9 Il 1 8 8 8 2 2 8 8 1 [ 8 { g ; : 8 8 1 8 8 8 2 ; @
+:
+40
+~
+12
 
+--- page 19 ---
+2
+7
+5
+3
+2
+1 II 3 1 1 2 5 1 HI 5 1 I 1 1 1 3 2 : 8 8 1 ; 18 1 8 1 9 Ili 8 1 1 8 2 2 8 8 1 ; 8 8 8 8 8 ; 8 5 8 ; 8 5 8 8 2
+I
+1
+5
 
+--- page 20 ---
+p 1 ' q 18 1 : 1 1 2 9 0 ; ; 1 1h 1 1 1 1 1 1 1 é 8 @ 5  1 : 2 1 0 2 f 11 1 | U 1 { 1 1 8 8 1 1 1 { 1 1 1 9 9 5 1 8 1 2 ; 1 ; g
 
+--- page 21 ---
+Dossier
+Document Réponses
+Ce dossier comporte 20 pages numérotées de 1 à 20
+Partie A- Conception Mécanique
+Page 1à 11
+Partie B- Fabrication Mécanique
+Page 12 à 20
+Important
+Un seul document réponses est fourni au candidat.
+Le candidat doit rendre obligatoirement le document réponses avant de quitter la salle
+d'Examen.
+Le document réponses doit être rendu en intégralité (aucune feuille ne doit être supprimée)  Cet acte est considéré comme étant une tentative de fraude
+Le renouvellement ou la reproduction de ce dossier sont strictement interdits.
 
+--- page 22 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+Partie A : Conception Mécanique Partie A : Conception Mécanique 1- Analyse Fonctionnelle A-1. Exprimer le rôle du système de freinage; en une seule fonction principale (globale) dans le diagramme SADT niveau A-0.
+A-0
+Système de freinage
+A-2 Établir le diagramme SADT niveau Ao.
+Assistance de freinage
+Maître-cylindre
+Étrier
+Disque et plaquettes
+A0
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 1 | 20
 
+--- page 23 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+A-3. Établir le diagramme FAST du système de freinage faisant apparaître les principales fonctions techniques ainsi que les solutions constructives utilisées
+Fonction principale
+Fonction technique
+Sous-système associé
 
+2-Étude technologique A-4. Quel est le rôle du joint (70) ? (DT-03)
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 2 | 20
 
+--- page 24 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+A-5. Dessiner la forme du joint (70) au repos et au freinage (DT-03, voir détail B) 78 70 74 78 70
+74
+Forme de joint au repos
+Forme de joint au freinage
+A-6.À partir de quel matériau est fait le silentbloc (42) et quel est son rôle ? (DT-01)
+A-7.Donner le nom et le rôle de la pièce (59). (DT-02)
+A-8. Quel est le rôle du disque frein (3). (DT-01)
+A-9. Quelle est la nature et la désignation du matériau du disque frein (3). (DT-01)
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2018
+Page 3 20
 
+--- page 25 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+A-10. Citer deux avantages du matériau du disque vis-à-vis de son utilisation dans le système de freinage.
+A-11. Compléter le tableau suivant; en précisant le nom et le rôle des pièces indiquées par leurs numéros (DT-02).
+Nom du composant
+Rôle
+52
+54 /
+56
+58
+60
+A-12 Indiquer les conditions géométriques (DT-07) nécessaires sur le dessin de définition du disque frein (3) présenté par la figure suivante: A
+0 .1 A 0 .01 A
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 4 20
+Rep
 
+--- page 26 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+A-13. Expliquer le rôle des trous et des rainures sur le disque frein (3). (Détail D : DT-06)
+A-14. Indiquer le type de montage des roulements à rouleaux coniques (6) et (7) (DT-02) (Cocher la case correspondante) du montage.
+Arbre tournant/ Moyeu fixe Montage en "0"
+Arbre tournant / Moyeu fixe Montage en "X"
+Arbre fixe Moyeu tournant Montage en "0"
+Arbre fixe Moyeu tournant Montage en "X"
+A-15. Tracer la chaîne de cotes relative à la condition J Justifier lutilité de cette condition.
+58
+45
+13
+59
+46
+61
+16
+37
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2018
+Page 5 | 20
 
+--- page 27 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+A-16. Indiquer, sur la figure ci-dessous, les ajustements relatifs aux montages de roulements et du joint à deux lèvres 12 57 58 13
+A-17.Compléter le schéma cinématique minimal du sous-système de freinage ci-dessous.
+15
+75
+78
+68
+Schéma cinématique minimal du sous-système de freinage Concours nationaux dentrée aux 'cycles de formation dingénieurs Session 2018
+Page 6 20
 
+--- page 28 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+3- Transmission de puissance
+A-18. Déterminer dN en fonction de pc et les paramètres p,dp et d0 de létude
+A-19. En déduire dT en fonction de pc du coefficient de frottement ff et les paramètres p,dp et d0 de l'étude
+A-20. Déterminer le couple de freinage élémentaire dCf par rapport à laxe de la roue, engendré entre la garniture et le disque en fonction des paramètres (ff ,Pc ,P ,dp et d0).
+A-21 En déduire le couple de freinage Cf par rapport à laxe de la roue engendré entre la garniture et le disque en fonction des paramètres du système de freinage (ff , N, R etr) N étant Yeffort normal exercé par une garniture sur le disque:
+A-22. Calculer Yénergie cinétique du véhicule roulant sur une chaussée horizontale à une vitesse de 108 km/h. Indiquer son unité (S.I).
+Ec
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 7 | 20
 
+--- page 29 ---
+Concours Technologie Épreuve CF.M
+Partie A : Conception Mécanique
+Document Réponses
+A-23. Calculer la force de freinage Tf , par roue, nécessaire pour arrêter le véhizule à une distance d 50 m.
+Tf
+A-24. Calculer le couple de freinage Cf par rapport à laxe de la roue, par roue, nécessaire pour arrêter le véhicule à une distance d 50 m.
+Cf
+N.m
+A-25. Calculer leffort normal N, par plaquette, sur le disque pour arrêter le véhicule à une distance de d = 50 m.
+N
+4- Analyse de système mécanique
+A-26. Établir le graphe des liaisons du mécanisme de la Figure 5, Page 4/8 et déterminer son nombre cyclomatique
+5
+15
+3
+Nombre cyclomatique
+78
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 8 | 20
 
+--- page 30 ---
+Concours_Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+A-27. Écrire les torseurs cinématiques au point 0 des différentes liaisons
+{9(L1)3/s}0
+{9(Lz)sn1s}0
+{9(L3)15/3}0
+{8(L4)78/15}0
+{9 (Ls)3/78}0
+A-28. Écrire, les équations torsorielles relatives au sous-système de freinage au point 0
+Cycle 5 = 15 _ 3 = 5
+Cycle 15 _ 3 _ 78 - 15
+A-29. En déduire le système d'équations scalaires au point 0
+(1)
+(2)
+(3)
+(9)
+(4)
+(10)
+(11)
+(6)
+(12)
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 9 20
 
+--- page 31 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+A-30. En déduire le groupe des inconnues calculables.
+A-31. Déterminer le(s) groupe(s) dinconnue (s) non calculables
+A-32. Quel est alors le nombre de degrés de mobilité En déduire le nombre de degrés dhyperstaticité.
+Nombre de degré(s) de mobilité
+Nombre de degré(s) dhyperstaticité
+5- Représentation Graphique
+Dans cette partie, il s'agit de substituer l'étrier fixe par un étrier mobile. En effet, le concepteur propose de
+Rendre létrier (15) en liaison glissière avec le boîtier de roulement (5), Assurer le guidage en translation entre l'étrier (15) et le boîtier de roulement (5) Créer une liaison pivot-glissant entre le piston (68) et l'étrier (15), Indiquer les éléments de purge et lalimentation hydraulique Compléter la nomenclature du document de la page 11/20
+A-33. Apporter ces modifications, sur le dessin d'ensemble du sous-système suivant (Page 11/20), en présentant le système en situation de freinage:
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 10 | 20
 
+--- page 32 ---
+Concours Technologie Epreuve CFM
+Partie A : Conception Mécanique 78
+Document Réponses
+69
+76
+12
+13
+41
+78 76
+Piston grand diamètre Plaquette de frein intérieure Plaquette de frein extérieure Arbre de transmission Etrier du frein disque Partie extérieure Fusée de roue Cache-moyeu Ecrou haute température Moyeu Boîtier de roulements Jante Disque de frein Désignation
+: 72
+Fonte Acier
+Tôle noire Acier Acier GC45 Acier
+Standard
+Rep .
+Nbre
+Matériaux
+Obs
+Train Avant d un Véhicule
+Echelle 1:1
+Session 2018
+Concours nationaux dentrée aux cvcles de formation d'ingénieurs
+Session 2018
+Page 11 | 20
 
+--- page 33 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+Partie B Fabrication Mécanique
+1-Élaboration du brut
+Soit le boîtier de roulement (5) représenté sur les documents DT-08 et DT-09 à obtenir par moulage en sable avec une cadence de 1000 pièces par an, pendant 5 ans.
+B-1. Quelles doivent être les caractéristiques des sables de moulage ?
+B-2. Quels mélanges utilise-t-on ?
+Il est composé de
+B-3. Quel traitement thermique peut-on pratiquer sur cette pièce moulée avant usinage ? Justifier son intérêt.
+B-4. Compléter le dessin ci-dessous en précisant
+le plan de joint le mieux approprié, le brut capable et les dépouilles:
+Dessin du brut
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 12 | 20
 
+--- page 34 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+B-5. Calculer les cotes du modèle Cmodèle relatives aux cotes usinées du boîtier (5) (DT-08)
+Cote
+Détails de calcul
+Cote du modèle Cmodèle
+89
+78
+17
+B-6. Représenter le moule prêt à la coulée en indiquant les évents, les canaux de coulée et dattaque et les masselottes.
+B-7.Citer trois défauts pouvant être rencontrés dans les pièces moulées en général.
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2018
+Page 13 | 20
 
+--- page 35 ---
+Concours Technologie Épreuve CFM
+Partie B : Fabrication Mécanique
+Document Réponses
+B-8. Le tableau ci-dessous regroupe sept opérations de réalisation du boîtier (5) par moulage: On demande de compléter le tableau; en précisant de 1 à 7 lordre chronologique des opérations.
+Ordre des opérations
+Les 'opérations de moulage
+Retourner le châssis, saupoudrer la face du joint avec du sable blanc et enfoncer légèrement le mandrin de coulée.
+opération
+Enlever le mandrin de coulé, puis séparer les deux demi-châssis enlever le modèle. Si besoin est, mettre les noyaux en place, finir et lisser le trou de coulée, saupoudrer Y'empreinte de noir de fonderie qui donnera à la pièce une belle peau.
+opération
+opération
+Procéder à la coulé
+Avant refroidissement complet; démonter Ie moule et casser Je sable. C'est lopération de décochage. Poser le demi-modèle sur la table à mouler, dans le châssis inférieur tamiser le sable de moulage dans le châssis, puis le tasser. En goujonner le châssis supérieur, placer Tautre demi-modèle, tamiser le sable de moulage dans le châssis, puis le tasser. À Yaide dune aiguille; piquer des trous dair (évents) qui favorisent l'évacuation des gaz. Remettre les demi-châssis Vun sur lautre, préparer un lit de sable sur le sol et y poser le moule avec précaution.
+opération
+opération
+opération
+opération
+2- Commande Numérique La série de boîtier est réalisée en finition directe sur un tour à commande numérique: La trajectoire dusinage est décrite par le programme proposé ci-dessous (Phase 30 opération de contournage extérieur) .
+B-9. Pour chaque ligne du programme proposé ci-après, donner une courte explication en se limitant aux blocs N1O à N6o
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2018
+Page 14 20
 
+--- page 36 ---
+Concours Technologie Épreuve CFM
+Partie B : Fabrication Mécanique
+Document Réponses
+N' du bloc Programme Explication % 1 (PHASE 30 OPÉRATION DE CONTOURNAGE EXTÉRIEUR)
+N1O
+GO G52 XO ZO
+N2O
+M6 T1 Dl
+N3O
+G97 $ 1000 M3 M8
+N40
+GO X70 Z5
+(a)
+N5O
+G96 S150 G95 F0.1
+N6o
+G1 G42 ZO
+N70
+X76
+N8O
+X8O Z-5
+N9O
+Z-16
+N1oo
+G03 X9O Z-21 RS
+N11o
+G01 Z-35
+N120
+G02 XIOO Z-40 R5
+N13o
+GOO G40 X110
+N140
+G97 S1000
+N15O
+GO G52 XO ZO M5 M9
+N160
+M2
+B-10.À partir du programme présenté dans la question B-9,compléter le tableau en déterminant les coordonnées du parcours de loutil, sachant que X représente le diamètre
+g
+h
+X
+70
+2
+5
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2018
+Page 15 | 20
 
+--- page 37 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+B-11 En se basant sur les données de la question B-10, tracer la forme modifiée du boîtier (5).
+Om
+X
+OP
+Z
+10
+Échelle 1:1
+3-Étude de la coupe
+L'opération dalésage de la surface (C4) (DT-08) (diamètre @d=68 mm et longueur L= 20 mm) de la phase 30 est réalisée à laide dun outil à aléser à plaquette rapportée en carbure.
+Des essais ont permis de relever la durée de vie pour un critère d'usure défini par Vb
+0.3 mm
+Vc [m 'min]
+T[min]
+200
+40
+400
+2.1
+Outil dalésage à plaquette amovible Concours nationaux d'entrée aux cycles de formation d'ingénieurs Session 2018 Page 16 20
 
+--- page 38 ---
+Concours Technologie Épreuve CFM
+Partie B : Fabrication Mécanique
+Document Réponses
+B-12. Donner lexpression de la loi de Taylor:
+Modèle
+B-13. Calculer Yexposant et la constante de Taylor.
+B-14. Calculer la durée de vie de loutil T2so
+min
+B -15. Calculer la puissance utile de la machine Pu sachant que la puissance moteur est Pm 5 Kw et le rendement de la chaîne cinématique étant 7 0.8.
+Pu
+W
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 17 | 20
+T2so
 
+--- page 39 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+B-16. Calculer leffort de coupe Fc sachant que f 0.1 mm/tr, ap = 2 mm, Ks = 3000 N /mm? .
+Fc
+B -17. En déduire la vitesse de coupe et la durée de vie correspondante pour une exploitation maximale de la machine: 
+Vc
+'min
+Tvcmax
+min
+B-18. Calculer le temps de coupe de la surface (C4).
+tc
+min
+B-19. Déterminer le nombre darêtes nécessaires pour lusinage de la série de 5000 pièces.
+Nombre darêtes
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 18 20
 
+--- page 40 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+B-20. En déduire le nombre de plaquettes sachant qu'une plaquette possède 4 arêtes.
+Nombre de plaquettes
+3- Mise en forme par déformation plastique
+Le cache-moyeu (12) présenté ci-dessous est obtenu en utilisant le procédé de mise en forme par emboutissage Dz
+D
+Données :
+%D1
+75 mm %Dz
+95 mm,
+h =25 mm,
+14.14 mm,
+Matière tôle tôle noire
+Épaisseur de tôle : e
+15 mm
+B-21. Démontrer que le diamètre de flan Df s'écrit sous la forme
+Df
+D? + 2.l. (D2 + Di) + 4.h.D2
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 19 | 20
 
+--- page 41 ---
+Concours Technologie Épreuve CFM
+Partie B : Fabrication Mécanique
+Document Réponses
+B-22. Calculer le diamètre initial du flan
+Df
+mm
+B-23. Calculer ]effort de découpage du flan sachant que la résistance au cisaillement est définie par Rc 152 N /mm?
+B-24. Déterminer le nombre de passes nécessaire pour emboutir la partie cylindrique du cache-
+moyeu.
+m1: Coefficient de réduction de la première passe
+mz: Coefficient de réduction des passes suivantes
+Matière
+m1 0.63
+m2
+Tôle noire
+0.80
+Nombre de passes
+B-25. Calculer la force d'emboutissage de la passe de finition avec Rm 190 N/mm? .
+Femb
+N
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2018
+Page 20 | 20
 
+--- page 42 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+Partie A : Conception Mécanique Partie A : Conception Mécanique 1- Analyse Fonctionnelle A-1. Exprimer le rôle du système de freinage, en une seule fonction principale (globale) dans le diagramme SADT niveau A-0.
+Énergie mécanique
+Action du conducteur
+Énergie hydraulique
+[Énergie calorifique Bruit
+Énergie cinétique
+Dissiper lénergie cinétique du véhicule en transformant en énergie calorifique Vitesse initiale (Modifier la vitesse du véhicul) Vitesse diminuée Eregie cinétique 8 Yiminuée de freifage A-2. Établir le diagramme SADT niveau [Énergie mécaniqu 8
+{mplifier leffort du conducteur ssistance de freinage
+Transforter Yeffort amplifié du conducteur énergie hydraulique
+Maître-cylindre
+Transformer en énergie hydraulique en énergie mécanique
 
+Étrier
+Transformer énergie mécanique en énergie calorifique
+Disque et plaquettes
+A0
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 1 | 20
 
+--- page 43 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+A-3. Établir le diagramme FAST du système de freinage faisant apparaître les principales fonctions techniques ainsi que les solutions constructives utilisées.
+Fonction principale
+Fonction technique
+Sous-système associé
+Amplifier Yeffort du conducteur
+Assistance de freinage
+Transformer l'effort
+Maître-cylindre
+amplifié du conducteur en énergie hydraulique
+Dissiper lénergie cinétique du véhicule en la transformant en énergie calorifique
+TransformeRerénergie hydrauli@us-en énergie écnique
+Étrier
+Transfgfuer énergie en énergie
+Disque et plaquettes
+4 Épeg 2-Étude technologique A-4. Quel est le rôle du joint (70) ? (DT-03) Étanchéité et Rattrapage du jeu des cylindres
+Le rappel des plaquettes et du piston s'effectue d'une part par un joint carré situé entre le piston et le cylindre de l'étrier et d'autre part par un léger voilage (déformation due à une surchauffe) du disque.
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2018
+Page 2 | 20
 
+--- page 44 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+A-5. Dessiner la forme du joint (70) au repos et au freinage (DT-03, voir détail B) 78 70 74 78 70
+74
+Forme de joint au repos
+Forme dcoint au freinage A-6.À partir de quel matériau est fait le silentbloc (42) queyest son rôle ? (DT-01) Caoutchou Amouce 9 chocs A-7.Donner le nom et le rôle de la piecex59) . (DT Anneau (éélastique (léments 4 la noix (45) A-8. Quel est le rôlg du disqke (3). (DT-01) Emmagasiner la chaleur résultant du frottement
+et
+la disperser le plus rapidement possible
+A-9. Quelle est la nature et la désignation du matériau du disque frein (3). (DT-01) Le disque est en fonte à graphite sphéroïdale (FSG)
+Désignation
+Afnor FGS 500-7 EN ~GJS-500-7
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 3 | 20
 
+--- page 45 ---
+Concours Technologie Épreuve CFM
+Partie A Conception Mécanique
+Document Réponses
+A-10. Citer deux avantages du matériau du disque vis-à-vis de son utilisation dans le système de freinage.
+La fonte présente un coefficient de frottement très élevée Une meilleure dissipation de la chaleur Les températures d'utilisations pouvant aller jusqu'à 700 *
+Coulabilité
+Usinabilité
+Fiabilité_en service
+Amortissement des vibrations
+Irempabilité_en surface
+A-11. Compléter le tableau suivant; en précisant le nom et le reledes pièces indiquées par leurs numéros (DT-02). ' Rep: Nom du composant Rôle
+52
+Bague d'appui
+Fajre ulobstacle pouilS es roulements
+54 / Rondelle d'appui Sert dapRu(pour les joints à lèvres 56 4@ 4 58 Chicane (Étanghéité sans frottement 8 60 Cage à bille Garder les éléments roulants équidistants pour 8 permettre une répartition homogène de la charge A-12. Indiquer lesy conditiokoganétriques (DT-07) nécessaires sur le dessin de définition du disque frein (3) présenté par àfigure suivante. A
+A/l0 1 | A 10 . 01 | A
+ n
+A-13. Expliquer le rôle des trous et des rainures sur le disque frein (3). (Détail D DT-06)
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 4 20
 
+--- page 46 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+Ventilation du disque
+Répartition rapide de lair dans le disque pour réguler la chaleur générée par le freinage Ce qui améliore la puissance du freinage
+A-14. Indiquer le type de montage des roulements à rouleaux coniques (6) et (7) (DT-02) (Cocher la case correspondante) du montage
+Arbre tournant/ Moyeu fixe
+Montage en "0'
+Arbre tournant / Moyeu fixe
+Montage en "X'
+Arbre fixe Moyeu tournant
+Montage GnNO
+Arbre fixe Moyeu tournant
+Momfageen 'X"
+A-15. Tracer la chaîne de cotes relative à la conditioo {stifier Yutlli de cette condition 58 13 { 16 37 de
+J59 J4s J61 U41
+Condition de montage
+La cote J est nécessaire pour disposer dun espace (jeu positif) pour pouvoir engager
+Tanneau élastique dans la gorge de laxe
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2018
+Page 5 20
 
+--- page 47 ---
+Concours Technologie_ Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+A-16. Indiquer, sur la figure ci-dessous, les ajustements relatifs aux montages de roulements et du joint à deux lèvres 12 57 58 13
+#l2 'M 2C 4 8 9 A-17.Compléter le 287 71 'ématique keuve du sous-= ~système de freinage ci-dessous. 15
+75
+78
 
+ 68
+Schéma cinématique minimal du sous-système de freinage Concours nationaux dentrée aux cycles de formation d'ingénieurs Session 2018
+Page 6 20
 
+--- page 48 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+3- Transmission de puissance
+A-18 Déterminer dN en fonction de pc et les paramètres p,dp et d0 de létude.
+dN
+Pc dS = Pc P dp d0
+A-19. En déduire dT en fonction de pc du coefficient de frottement ff et les paramètres P,dp et d0 de l'étude
+dT = ff dN = ff Pc dS = = ff Pc Pdp d0
+A-20. Déterminer le couple de freinage élémentaire dCf pa Capport à laxe de la roue, engendré entre la garniture et le disque en fonction des paramètfe ,Pc ,P ,dp et d0) dCf = p dT = p 8 ff 9 de A-21. En déduirele couple de freinagê rapport dela roue 'engendré entre la garniture et le disque en fonction des paramètrés du systèmng%e freinage (ff N, Retr) N étant Yeffort normal exercé par une garnituregle disque. 9 (R3 _ r3) 8 3 N ff (R2 =r2) A-22 Calculer lénergie cinétiq`e du véhicule roulant sur une chaussée horizontale à une vitesse de 108 km/h. Indiquer son unité (S.I). 1 = 108 km/h = 30 m/s
+1
+Ec = Mv? = 2 1500 * 302 675000 Joules 2
+Ec 675000 joules
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2018
+Page 7 | 20
 
+--- page 49 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+A-23. Calculer la force de freinage Tf, par roue, nécessaire pour arrêter le véhicule à une distance d = 50 m
+Ec 675000 Tf = 3375 N 4 X d 4 X 50
+Tf 3375
+N
+A-24. Calculer le couple de freinage Cf par rapport à laxe de la roue, par roue, nécessaire pour arrêter le véhicule à une distance d = 50 m
+Cf = Tf * Rr = 3375 x 0,2 675 N.m
+Cf 675
+Nm
+A-25. Calculer leffort normal N, par plaquetfe(sYr le disg{e our arrêter le véhicule à une distance de d = 50 m.
+Dans le texte page 3/8 on suppose que(freinage est zÿé  par le frottement des garnitures de deux plaquettes sur le disque 3 4 r2)  9 2 2 (R3 =r3) 1 (3 (0,122 40772)` N =2 11242,8 N soit 11250 N (0,1 0773 4N 11242,8 N soit 11250 N 4- Analyse de système mécanique A-26. Établir le graphe des liaisons du mécanisme de la Figure 5, Page 4/8 et déterminer son nombre cyclomatique.
+5
+L2
+L1
+L3
+15
+Nombre cyclomatique
+3
+2
+L4
+Ls
+78
+A-27. Écrire les torseurs cinématiques au point 0 des différentes liaisons
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2018
+Page 8 20
 
+--- page 50 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+Q1 {(L,)a/s}o = { %
+U2
+{9(L2)s/15}0
+{9 (L3)15/3}0
+13 W3 = b d3' 14 {9(L4)78/15}0 ~b 04 &5 {9(Ls)3/78} 1s Ws b a5 1 9 A-28. Écrire, les équations torsorielles au 'sopsgsstàme - de freinage au point 0 Cycle 5 15 - 3 = 5 : {9(L2)s} {9(L3) '&8 4 {9(L1)3/15}0 =0 5 Cycle 15 _ 3 _ 78 15 15/3} (És)3/78}0 + {9(14)78/15}0 0 ~4émaaf Zpreuve A-29.En scalaires au point 0 (1) 0 + a3 + a1 = 0 a3 + Qs+Œ4 (2) 0 + 0 +0 = 0 (8) 0 + 0 + 0 = 0
+(3) 0 + 0 +0 = 0
+(9)
+0 + 0 + 0 = 0
+(4) u2 + 0 + 0 = 0
+(10) 0 + 0 + 14 = 0
+(5) 0 + 13 + 0 = 0
+(11) V3 + vs + 0 = 0
+(6) 0 + W3 = b a3 + 0 = 0
+(12)
+W3 - b a3+Ws - b Œ5 - b Q4 = 0
+A-30. En déduire le groupe des inconnues calculables.
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 9 | 20
 
+--- page 51 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+Gpcal {u2(4); v3(5); u4(10); vs(11)}
+A-31. Déterminer le(s) groupe(s) dinconnue (s) non calculables
+Gpwc/1 {(a3,a1)(1); w3(6) }
+Gpwc/z {(a4,Œs)(7); Ws (12) }
+A-32.  Quel est alors le nombre de degrés de mobilité déduire le nombre de degrés dhyperstaticité. 9 Nombre de degré(s) de mobilité Nonore de degré )yperstaticité 2 8 8 5- Représentation Graphique 4@ 2 Dans cette partie; il s'agit de e1iS  YétrieK fxsp par un étrier mobile. En effet, le concepteur propose de @ Rendre Yétrjerl 'en liaison gfgsière avec le boîtier de roulement (5), Assuren }4guaage en transhd8oh entre Yétrier (15) et le boîtier de roulement (5), Créer ungqiaison pixot-glsant entre le piston (68) et létrier (15), Indiquer les éléments (epurge et l'alimentation hydraulique: Compléter la nomenclature du document de la page 11/20
+A-33. Apporter ces modifications, sur le dessin densemble du sous-système suivant (Page 11/20), en présentant le système en situation de freinage.
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2018
+Page 10 20
 
+--- page 52 ---
+Concours Technologie Epreuve CFM 69 76
+Partie A : Conception Mécanique
+Document Réponses
+78
+15
+80
+82
+8 6
+83
+12
+13
+41
+83 8? 81 80 78 76 69 :
+support (7{mPntat7pn  hydrau]i9ue Ço]opne . de .9u7dage Purgeur Piston grand diamètre Plaquette de frein intérieure Plaquette de frein extérieure Arbre de transmission Etrier du frein à disque Partie extérieure Fusée de roue Cache moyeu Ecrou haute température Moyeu Boîtier de roulements Jante Disque de frein Désignation
+Fonte Acier
+Tôle noire Acier Acier GC45
+Standard
+Acier
+Matériaux
+Obs
+Rep .
+Nbre
+Train Avant d un Véhicule
+Echelle 1:1
+Session 2018
+Concours nationaux dentrée aux cvcles de formation dineénieurs
+Session 2018
+Page 11 | 20
 
+--- page 53 ---
+Concours Technologie Épreuve CFM
+Partie B : Fabrication Mécanique
+Document Réponses
+Partie B : Fabrication Mécanique 1-Élaboration du brut
+Soit le boîtier de roulement (5) représenté sur les documents DT-08 et DT-09 à obtenir par moulage en sable avec une cadence de 1000 pièces par an, pendant 5 ans
+B-1. Quelles doivent être les caractéristiques des sables de moulage ?
+Le sable de fonderie doit être infusible, consistant et poreux
+B-2 Quels mélanges utilise-t-on ?
+Il est composé de
+Sable de silice
+D'argile De noir de fonderie; de graphite ou &
+8 @ végété)) N B-3. Quel traitement thermique peut-on p(@tquer sur cette plece moulée avant usinage Justifier son intérêt de lerecuit : se fait afin de rendre pJus homogènele matériau B-4. Compléter le dessin ci-dess8us en préçëunt = le plan de jointdeieux appraos] S le brut capàblgèt les 'dépog@s
+Plan de_joint
+Dessin du brut
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 12 20
 
+--- page 54 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+B-5. Calculer les cotes du modèle Cmodèle relatives aux cotes usinées du boîtier (5) (DT-08).
+Cote
+Détails de calcul
+Cote du modèle_Cmodèle Cmodèle 94,86
+89
+(89 +2+2)x (1 +0,02) = 94,86
+78
+(73 -2-2)x (1-0,02) = 67,62
+Cmodèle 67,62
+17
+(17+2)x(1+0,02) =19,38
+Cmodèle 19,38
+B-6. Représenter le moule prêt à la coulée en indiquant les évents, les canaux de coulée et dattaque et les masselottes. 8 @ Events coulée M 204 CHASSIS
+Sable_tassé
+Plan_de_goant
+Masselotte
+CHASSIS
+Noyau
+B-7.Citer trois défauts pouvant être rencontrés dans les pièces moulées en général.
+Soufflures
+Retassures
+Criques Contraintes résiduelles et état de surface
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2018
+Page 13 | 20
 
+--- page 55 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+B-8. Le tableau ci-dessous regroupe sept opérations de réalisation du boîtier (5) par moulage On demande de compléter le tableau; en précisant de 1à 7 Yordre chronologique des opérations.
+Ordre des opérations
+Les opérations de moulage
+Retourner le châssis, saupoudrer la face du joint avec du sable blanc et opération 2 enfoncer légèrement le mandrin de coulée.
+Enlever le mandrin de coulé, puis séparer les deux demi-châssis enlever le modèle. Si besoin est; mettre les noyaux en place, finir et lisser le trou de opération 4 coulée; saupoudrer Yempreinte de noir de fonderie qui donnera à la pièce une belle peau.
+opération 6
+Procéder à la coulé
+X Avant refroidissement complet; leu onter le et casser le sable. Cest opération 7 Popération de décochage. Poser le demi-modèle surdatable à mouler dans le châssis inférieur tamiser opération 1 le sable de moulage dapS e châssis, puis lgtasser . En goujonner lesshegsis supérieur Hlacer Tautre demi-modèle, tamiser le opération 3 sable de moulage dans le châss g@uls le tasser. À Yaide dune aiguille, piquer des trous d8igvents) qu{(avafisent lévacuation des gaz. Remettré 'demi-châsstgJun sur Yautre, préparer un lit de sable sur le sol opération 5 ety poser le moule aesprécaution. @ 2- Commandeamérique La série de boîtier est réalêée èn finition directe sur un tour à commande numérique.  La trajectoire dusinage est décrite par le programme proposé ci-dessous (Phase 30 opération de contournage extérieur) -
+B-9. Pour chaque ligne du programme proposé ci-après, donner une courte explication en se limitant aux blocs NIO à N6O.
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2018
+Page 14 | 20
 
+--- page 56 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+N' du bloc Programme Explication % 1 (PHASE 30 OPÉRATION DE CONTOURNAGE EXTÉRIEUR) Numéro du programme Mouvement rapide et programmation absolu N1O GO G52 XO ZO par rapport à Porigine mesure elle est révoquée en fin de bloc Appel de Toutil avec référence numéro 1 avec N2O M6 T1 Dl son correcteur Fréquence de rotation de la broche N=1o00 N3o G97 $ 1000 M3 M8 tr /min et rotation de la pièce à droite Positionnement de la pointe de Youtil au pt (a) N40 GO X70 Z5 ( /liquide de refroidissement en marche Vitesse de couos constante V 150m /min et N5O G96 5150 G95 F0.1 Yavance de(0941 0. 1mm/tr Interpoka linéaire avec une avance N6o Gl G42 ZO prograuuée vers adresse Z=0, correction droit&ale profil N70 X76 S 2018 N8O X8O Z-5 9 N9O Z-16 N1Oo G03 X90 Z-21 0 N11o G01 Z-35
+N120
+G02 X1082740 R5
+N13O
+88
+X11O
+N140
+S1000
+N150
+GO G52 XO ZO MS M9
+N160
+M2
+B-10.À partir du programme présenté dans la question B-9, compléter le tableau en déterminant les coordonnées du parcours de loutil, sachant que X représente le diamètre.
+g
+h
+X
+70
+70
+76
+80
+80
+90
+90
+100
+110
+Z
+5
+0
+~5
+~16
+~21
+~35
+~40
+~40
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2018
+Page 15 20
 
+--- page 57 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+B-11. En se basant sur les données de la question B-10, tracer la forme modifiée du boîtier (5).
+Om
+X Jh 4 9 ê@ OP Z 9 8 4g
+10
+Échelle 1 :1
+3-Étude de la coupe
+L'opération d'alésage de la surface (C4) (DT-08) (diamètre @d=68 mm et longueur L= 20 mm) de la phase 30 est réalisée à Yaide dun outil à aléser à plaquette rapportée en carbure.
+Des essais ont permis de relever la durée de vie pour un critère dusure défini par Vo 0.3 mm
+Vc [m/min]
+T[min]
+200
+40
+400
+2.1
+Outil dalésage à plaquette amovible Concours nationaux d'entrée aux cycles de formation dingénieurs Session 2018 Page 16 20
 
+--- page 58 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+B-12. Donner 'expression de la loi de Taylor.
+T = Cv Vcn ou Vc Ta = Cte
+Modèle T = Cv Vcn ou Vc Ta Cte
+B-13. Calculer lexposant et la constante de Taylor.
+T = Cv Vr
+Ln
+Ln 40 21 Ln 2)
+Ln
+Cv1
+T/ ( Vr )
+40/ ( 200-4.25
+4067856957529. 1011
+{ Cv2 =TI(Vr ) = 2.1/ ( 400 2.40422928940777. 1011 @ vmoy 90550313444153. 1011 @ë Vc Ta Cte,a 0.235, Cte 476 @ 8 25,Cv 2.40550313449153.1071 48. 235, Cte 476 B-14. CalculefJàduzée de vie de qut T2so T25o 40550313449153.1011 x 250-4.25 15.486 T250 15.486 min
+B -15. Calculer la puissance utile de la machine Pu sachant que la puissance moteur est Pm 5 Kw et le rendement de la chaîne cinématique étant n 0.8.
+Pm 9 = 3 Pu Pu
+Pm x n
+5 x 0,8 = 4
+Pu = 4
+KW
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2018
+Page 17 | 20
+
+--- page 59 ---
+Concours Technologie Épreuve CFM
+Partie B : Fabrication Mécanique
+Document Réponses
+B-16. Calculer leffort de coupe Fc sachant que f = 0.1 mm/tr, ap 2 mm, Ks 3000 N/mm? Fc Ks x f x ap 3000 x 0.1x 2 600 N
+Fc = 600
+B -17. En déduire la vitesse de coupe et la durée de vie correspondante pour une exploitation maximale de la machine.
+Pu
+(Fc xVc ) / ( 60x 1000) = Vc (Pux 60 x 1000) Fc (4 x 60 1000)/ 600 408
+Vc
+400
+'min
+min
+B-18. Calculer le temps de coupe de la
+Tvcmax { 1 (C4). j tc 7 N (900 Vc (ao9x 400 I D U8n4 x 68 1873.36 tr /min ts Nxf 0 36 x 0.1 = 187.34 Élément tc 0.107 min Éprepgw tc 0.107 min
+B-19. Déterminer le nombre darêtes nécessaires pour lusinage de la série de 5000 pièces.
+T 2.1 tc 0.1067
+Nbre de pièce par arêtes
+19.68 soit 19 pièces
+Nbre darêtes total
+5000 /19
+263.157
+264
+Nombre darêtes 264
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 18 | 20
+
+--- page 60 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+B-20. En déduire le nombre de plaquettes sachant qu'une plaquette possède 4 arêtes:
+Nbre de plaquettes
+Nbre darêtes 4
+264 /4
+66
+Nombre de plaquettes 66
+3- Mise en forme par déformation plastique
+Le cache-moyeu (12) présenté ci-dessous est obtenu en utilisant le procédé de mise en forme par emboutissage. Dz 8 @ 7 10 8 ^ 4 D Données : { %Di mm 95 mm, h 25 mm, 14.14 mm, Matière tôle tôle Yire Épaisseur de tôle 1.5 mm
+B-21. Démontrer que le diamètre de flan Df s'écrit sous la forme
+Df
+D? + 2.l (D2 + Di) + 4.h.D2
+I. D2 =2.I.
+=2.I. 2 D2 + 4 (Dz = Li . Gi +D22 + 4 4 (94))
+2.I. Dz +4 12+4 P2+ h D2 8 4 4 2
+D} = D? +2 [ (Dz + D1) + 4hD2 => Df = VD? + 21 (D2 + Dî) + 4.h Dz
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2018
+Page 19 20
+
+--- page 61 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+B-22. Calculer le diamètre initial du flan
+Df
+D? + 2.l (D2 + D1) + 4.h.Dz
+Df = V752 +2x 14.14 (95 + 75) + 4 x 25 x 95 141.182
+Df 141.182
+mm
+B-23. Calculer Yeffort de découpage du flan sachant que la résistance au cisaillement est définie par Rc 152 N/mm?
+F = Tx Df xe x Rc = "x 141.182x 1.5 x 152 164226.284
+F
+101126
+B-24. Déterminer le nombre de passes néce ire pour em moyeu.
+la partie cylindrique du cache-
+m1: Coefficient de rédu tion de la Agmère passe m2: Coefficientde @duction d( passes suivantes Matière m1 mz noire 0.63 0.80 8 D 0.63 x 141.182 = 88.944 Il faut une seule passe Nombre de passes
+B-25. Calculer la force d'emboutissage de la passe de finition avec Rm 190 N/mm?
+d 95 0.67 =K = 0,7 Df 141.182
+  Femb K.n.D.e.Rm =0. 7 x n x 95 x 1.5x 190
+Femb 59541.034
+N
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2018
+Page 20 20

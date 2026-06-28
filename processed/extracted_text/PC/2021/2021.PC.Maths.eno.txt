@@ -1,4 +1,78 @@
+--- page 1 ---
+République Tunisienne Ministère de lEnseignement Supérieur et de la Recherche Scientifique Concours Nalionaux dEntréc aux Cycles de Formation dIngénicurs Scssion 2021
+LjiL96~3) 0]9jl:yigèv) Gusee] J>iav =n1 =lji 0+ji 025l Li 20216,8
+Concours Physique et Chimie Epreuve de Mathématiques
+Session 2021
+Date 21/06/2021
+Heure 8H
+Durée 4 heures
+La qualité de la rédaction et de la présentation, la clarté et la précision des raisonnements entreront pour une part importante dans Tapprécia - Lion des copies. Lusage des calculatrices n'est pas autorisé Tout résultat fourni dans Ténoncé peut être admis et utilisé par la suite, même s'il na pas été démontré_
+Problème I
+Partie 1 (4,5 points) Dans cette partie; on va établir quelques propriétés des fonctions
+F-0 Z : X F > nx+T M==1
+Too tx e-tdt.
+et
+G : x +>
+(a) Montrer que Z est bien définie et continue sur J0,+œ[ (b) Soit x > 0. Justifier que la fonction t + > tx+1 est intégrable sur [1, +0[, et montrer que
+oo dt +0 dt < Z(x) <1+ tx+1 J tx+1
+(c) En déduire que Z(x) 1 x+0 X 2 (a) Montrer que la fonction t ~+ t' e-t est intégrable sur J0,+œ[ si et seulement si x > ~1. (b) Montrer que G est définie et continue sur ] = 1,+o[ (c) Prouver que pour tout x > -1, G(x + 1) = (x + 1) G(x). (d) Justifier que t + > e~t? est intégrable sur [0, +œ[, et montrer que G(-2) = 2 Jo e~/ dt . 10 'e-x2(1+42) 3 On pose [ = dt et on définit f(x) = dt, pour x € R. 7+42 (a) Montrer que f est définie et continue sur R. (b) Montrer que f est de classe C1 sur R* , et exprimer sa dérivée f' en fonction de I. (c) En déduire Vx > 0, f(x) = 2I e~t2 dt . 2 (d) Montrer que Vx > 0, |f(x)|<7e-* et en déduire la limite de f en +0. 2 Vn Conclure que I 2
 
+--- page 2 ---
+Concours Physique et Chimie
+Epreuve de Mathématiques
+Page 2 sur 5
+Partie 2 (5,5 points) Pour tout réel t > 0, et pour tout n € N* on définit fn(t) = (2n2 t2 _ 1)e-n212 (a) Montrer que Efn converge simplement sur R+- n21
+On pose alors S(t) = Efn(t) pour tout t > 0. n=1 
+(b) Montrer que la série de fonctions Efn ne converge pas uniformément sur R+- n>1 (c) Montrer que $ est continue sur R* Dans la suite, on admet que $ est bornée sur RA (a) Montrer que pour tout n € N* , fn est intégrable sur R+ Fco (b) Montrer que pour tout 1 > 0, et pour tout n € N* fn(t)dt = Ae-n?12 F0 En déduire la valeur de fn(t)dt.
++0 (c) Montrer que Ifn (t)|dt est divergente. n>1 3. (a) Vérifier que Vu 2 0, eu > u.  En déduire Vt> 1,n € N* , 0 < fn(t) <4e-" <4e-4 4e-2 (b) Montrer alors que Vt> 1, 0 < S(t) < 1 _ e-4 (c) En déduire que Vx > ~1, t+ t S(t) est intégrable sur ]0,+œ[: +oo Pour tout x > ~1, on pose @(x) = # S(t)dt. Montrer que est continue sur =1,+0[ 410 5 (a) Montrer que la fonction H :t+ 2 e-n282 est bien définie et continue sur R+ n=1 Too On pose alors K(t) = S() + H(t) = E2n?e "f~ Vt > 0 H==1 Lo ro (b) Démontrer que Vx > 0, #K(t)dt = 2 G (522) nx+T n=1 1o 1 On admet que on a de même Vx > 0, # H(t)dt = G ("2) 2n*+i n1 (c) En déduire que Vx > 0, @(x) = 2z()6 (*2) Loo 6 VT Conclure que S(t)dt =
+Problème II
+Soit un entier naturel n > 2 Pour K = Rou C, on note Mn (K) Yespace vectoriel des matrices car- rées dordre n à coefficients dans K, Mn,1 (K) celui des matrices à n lignes et une seule colonne à coefficients dans K, et SPx ( A) Yensemble des valeurs propres dans K dune matrice A € Mn (K).
 
+--- page 3 ---
+Concours Physique et Chimie
+Epreuve de Mathématiques
+Page 3 sur 5
+On rappelle que les racines n-ièmes de lunité sont les nombres complexes z vérifiant z" = 1 et qu'elles s'écrivent sous la forme ei0x avec 0k = 2k" et k € [1,n] On identifie une matrice A € Mn(R) à lendomorphisme uA canoniquement associé à A
+U A Mn,1(R)
+Mn,1 (R)
+X
+AX
+Pour une matrice A € Mn(R), on note par (P) la propriété suivante (P) Les valeurs propres complexes de A sont les racines n-ièmes de lunité.
+Partie 1 (4 points)
+Dans cette partie, on s'intéresse au cas où n = 2 1. Soit Bc (e1,e2 la base canonique de R?, et soient 01 (1,2) et v2 (1,3) éléments de R?. (a) Vérifier que B (v1,v2) est une base de R?. (b) Soit s la symétrie vectorielle par rapport à la droite vectorielle RRv1 et parallèlement à la droite vectorielle Rvz, cest-à-dire
+V(a,B) € R? , s(4v1 + Bvz) = Rv1 Bvz.
+Écrire la matrice M de $ relativement à la base Bc
+(c) Trouver une matrice inversible P € Mz(R) et une matrice diagonale D telles que M = PDP-1
+2 Soit A =
+M2(R) .
+(a) Montrer que A vérifie la propriété (P) si et seulement si d = -a et a2 + bc = 1 (b) Montrer que A vérifie la propriété (P) si et seulement si A est la matrice dune symétrie vectorielle. 3 On considère un réel p €j0,1[ Soient Xp, Xz et Xs des variables aléatoires mutuellement indépendantes, définies sur un espace probabilisé (0,A,P) et suivant une même loi de Bernoulli de paramètre p. On rappelle qu'une variable aléatoire Y qui suit la loi de Bernoulli de paramètre p vérifie Y(Q) = {0,1}, P(Y =1) = p et P(Y =0) = 1 p. Si w € 0, on introduit la matrice de Mz(R)
+X1 (w) Xz(w) X3 (w) ~X1(w)
+A(w)
+Soit la variable aléatoire U définie par   U(w) = Tr ('A(w)A(w))' Vw € @.
 
+--- page 4 ---
+Concours Physique et Chimie
+Epreuve de Mathématiques
+Page sur 5
+(a) Montrer que U = 2X1 + Xz + X3. (b) Donner U(0) et calculer lespérance E(U) et la variance V(U). (c) On considère lévénement $ = {W € Q, A(w) vérifie la propriété (P)} Montrer que S = (U € {2,3}) et calculer la probabilité de S. (d) Soit & > v3. Montrer que P(lu _ 4pl > œ) < 4 Partie 2 (6 points) Dans cette partie, on considère le cas où n > 3. 1. Soient M et N deux matrices de Mn(R) semblables dans Mn(C), cest-à-dire qu'il existe une matrice P de GLn(C) telle que M = PNP-1 On écrit P = Q +iR où Q,R € Mn(R) (a) Montrer que, pour tout z € C, M(Q +zR) = (Q+ zR)N. On admet que T(X) = det(Q + XR) est un polynôme de R[X} (b) Montrer que le polynôme T est différent du polynôme nul. (c) Montrer quil existe z0 € R tel que det(Q + zoR) 40. (d) En déduire que M et N sont semblables dans Mn(RR). Dans toute la suite, soit A une matrice de Mn(R) vérifiant la propriété (P). 2 Déterminer le polynôme caractéristique de A et montrer que la matrice A est diagonalisable dans Mn(C). 3 Montrer que Tr(A) = 0 et calculer det( A) selon la parité de Yentier n Soit À € SPc( A). Donner la valeur de dim Ex ( A)  5. Établir que A" = In. 6. Soit Ak ci0k € €  R une valeur propre non réelle de A et V = Vi + iV2 un vecteur propre associé à Ak, où V1, V2 € Mn,1 (RR) . (a) Montrer que V = Vi iVz est un vecteur propre associé à la valeur propre 7k de A. Dans la suite, on admet que
+ker ( A AkIn) € ker ( A AkIn) = ker( A2 2cos(0k)A + In) 
+(b) Montrer que (V1,Vz) est une base de ker( A2 2cos(0k)A + In)  (c) Calculer AV1 et AVz en fonction de V1, Vz et @k. Dans cette question; on cherche à montrer que est semblable dans Mn(R) à une matrice orthogonale B On suppose n = 2p + 1. Établir que A semblable dans Mn(R) à la matrice diago- nale par blocs
 
+--- page 5 ---
+Concours Physique et Chimie
+Epreuve de Mathématiques
+Page 5 sur
+cos01
+sin01
+sin01 cos01
+(0)
+B =
+(0)
+cos0 p
+sinep
+sin€p
+COS 0p
+ii. Montrer que B est une matrice orthogonale iii. Dans le cas où n est un entier pair; montrer de même que A est semblable dans Mn(R) à une matrice orthogonale B à préciser: 7. On considère la matrice C de Mn (R) suivante
+C =
+a) Calculer le polynôme caractéristique de C. b) En déduire que les matrices B et C sont semblables dans Mn(R). (B étant la matrice définie dans 6.(d)) (c) On note 11, -  7  An les valeurs propres de A et soit Vi . . . , Vn des vecteurs propres associés respectivement aux valeurs propres. Soit W = Vi + -  + Vn. Pour k € [1,n], exprimer Uk Ak-IW en fonction des (Ai)isi<n et des (Vi)i<i<n' ii. En déduire la matrice V € Mn (R) représentant la famille des vecteurs (U1.Un _ relativement à la base (V1, Vn) . iii. Montrer alors que (U1,. . . ,Un) est une base de Mn,1 (R) et préciser la matrice de uA dans cette base.
+Fin de lénoncé

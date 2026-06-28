@@ -1,10 +1,130 @@
+--- page 1 ---
+Instructions 1 ? Cette épreuve comporte 11 pages.  Tout résultat doit être écrit dans les cadres adéquats. Lusage des calculatrices électroniques de poche non programmables est autorisé_ Aucun échange entre les candidats n'est autorisé Les résultats numériques sans unité ou avec une unité fausse ne seront pas comptabilisés. En cas de besoin utiliser les pages vides enfin du cahier. Dans ce cas;, il faut le signaler dans la case allouée à la réponse remise en fin de cahier. Si au cours de lépreuve, un candidat repère ce qui lui semble être une erreur d'énoncé, il la signale sur sa copie et poursuit sa composition en indiquant les raisons des initiatives qu'il est amené à prendre.
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 1l PAGES NUMEROTÉES 1 sur 11, 2 sur 11, 089 1l sur 11. 
+ . `
+ . .   9  . .  ?  . . ,      .
+
+Concours Mathématiques et physique
+Page 1 sur 11 Concours Mathématiques et Physique Session Juin 2015
+
+--- page 2 ---
+NOTATIONS ET DONNÉES NUMÉRIQUES Les gaz sont supposés parfaits. Lorsqu' aucune mention n'est spécifiée, les ions sont supposés implicitement en solution aqueuse. Sauf indication contraire; les grandeurs qui dépendent de la température sont données à 298 K Les enthalpies de changements d'état sont supposées indépendantes de la température. Notations Les abréviations suivantes sont utilisées pour désigner létat physique des constituants (g) pour gazeux; (sd) pour solide, (liq) pour liquide et (aq) pour aqueux. Ln logarithme népérien log1o logarithme à base 10. Constantes physiques Constante d Avogardro N 26,02x102 mol-1 Constante des gaz parfaits R=8,314 JK1 mol-1 . (RxT)F x Ln(10) 0,06 V à 298 K. Pression atmosphérique Patm =latm ~1bar . Pression standard p =lbar.
+Masses molaires (g.mol-1) argent (Ag) = 108,0 ; oxygène (0) = 16,0 et cuivre (Cu) = 63,5. Numéro atomique Z de largent (Ag) = 47. Paramètre de la maille cubique de loxyde Ag2O : a = 472 pm. Produit ionique de I'eau à 298 K : Ke = 10-14 À 298 K, Ag2 O(a) +H2O =2Ag +2HO 1og1o ([Ag' Ja ) =6,33-pH_ Conversions 1bar =105 Pa T (K) = 0( C) + 273. 1 pm = 10-12 m. On rappelle Lepoint de fusion C'est la température à laquelle une substance passe de Vétat solide à Vétat liquide sous la pression atmosphérique Le_point débullition C'est la température à laquelle une substance passe de Vétat liquide à l'état gazeux sous la pression atmosphérique .
+Page 2 sur 11 Concours Mathématiques et Physique Session Juin 2015
+
+--- page 3 ---
+PROBLÈME I : ARCHITECTURE DE LA MATIÈRE A) atomistique 2 12 Donner la structure électronique de l'atome d'argent dans son état fondamental:
+ `
+2En déduire; la position de lélément dans le tableau périodique
+3) L'argent donne naissance à lion Ag Écrire sa structure électronique à létat fondamental:
+4) Le cuivre est situé au-dessus de Targent dans 1a classification périodique. En déduire_son_numéro atomique et donner sa structure électronique à Létat fondamental Cu
+
+Z = 47 Pd Ag
+Cd
+
+B) cristallographie 2  En présence du dioxygène, largent s' oxyde pour donner loxyde argenteux (AgzO) Dans cet oxyde les anions 02- occupent une maille   cubique  centrée. Les   coordonnées   réduites des   cations Ag sont (1/4,3/4,1/4) ; (3/4,1/4,1/4) ; (1/4,1/4,3/4) et (3/4,3/4,3/4). 5 Donner une représentation en perspective de_la maille et de_son contenu
+6) En se limitant à une seule maille, représenter la trace de(s) ion(s) sur le plan de la famille (020) le plus proche de celui passant par lorigine:
+Page 3 sur 11 Concours Mathématiques et Physique Session Juin 2015
+
+--- page 4 ---
+' . .' . `
+7) Déterminer le nombre de groupements formulaires _par maille
+8) Donner Lexpression puis calculer la masse_volumique de cet oxyde (en g cm
+1 ' 
+PROBLÈME II : CORPS PUR Les pressions de vapeur saturantes de largent liquides suivent la relation :
+Pag 3,19x104 Ln =12,87 p T
+La température est exprimée en kelvin (K) et les pressions en Pascal (Pa). Lenthalpie molaire de fusion de largent au point de fusion (962 C) est de 11,3 kJ mol1  1) Donner [expression puis calculer 1-a) La pression de vapeur de largent à 9629C.
+1-b) Le point débullition de largent.
+Page 4 sur 11
+Concours Mathématiques et Physique Session Juin 2015
+
+--- page 5 ---
+1-c) Lenthalpie molaire de vaporisation de largent.
+ , 
+1-d) Lenthalpie molaire de sublimation de largent.
+7 -
+Page 5 sur 11 Concours Mathématiques et Physique Session Juin 2015
+
+--- page 6 ---
+PROBLÈME III : ÉQUILIBRE LIQUIDE-VAPEUR DES MÉLANGES BINAIRES A) Mélange idéal : Largent (noté A) et le cuivre (noté B) sont deux composés miscibles en phase liquide et ayant un comportement supposé idéal. En phase gazeuse, le mélange est considéré comme un gaz parfait. 1) Sachant que la phase gazeuse est en équilibre avec le mélange liquide. 1-a) Établir ]expression des pressions partielles pA de (A) en fonction de la fraction molaire dans la phase liquide XB.
+1-b) Donner lexpression de la pression partielle de (B) en fonction de xB.
+1-c) Déduire ]expression de la courbe débullition isotherme.
+2) Représenter sur la figure de la page suivante, les courbes pA fxB) pB fxB) et celle de la pression total p = fxB) Répondre_sur la figure de la page 7 3) Quel est le composé le_plus_volatil ? Justifier la réponse;
+Page 6 sur 11
+Concours Mathématiques et Physique Session Juin 2015
+
+--- page 7 ---
+B) Mélange réel : Le mélange réel s' éloigne cependant de idéalité précédente et on obtient un diagramme binaire liquide- vapeur isotherme à un seul fuseau mais déformé. À Faide des mesures expérimentales effectuées à 11509C, on a pu construire les courbes donnant les variations des pressions de vapeur pA et pB en fonction de la fraction molaire en phase liquide XB. 8,0 0,20 0 = 1150 C pAg 0,183 7,27 pCu 0,18 7,0 0,16 6,0 0,14 @ € 5,0 0,12 1 1 4,0 0,10 ! 2 0,08 1 1 3,0 0,06 [ 1 2,0 0,04 1,0 0,02
+0,0 0 Ag
+0,00 1 Cu
+0,1
+0,2
+0,3
+0,4 0,5 0,6 fraction molaire
+0,7
+0,8
+0,9
+4) Le mélange cuivre-argent se fait-il avec absorption ou dégagement de chaleur ? Justifier.
+5) Déterminer les constantes de Henry de (A) et de (B) à 11509C.
+Page 7 sur 11
+Concours Mathématiques et Physique Session Juin 2015
+
+--- page 8 ---
+6) Une solution diluée dargent (A) dans le cuivre (B) de fraction massique WA =0,005 est mise en équilibre avec sa vapeur à 11509C. 6-a) Donner Pexpression puis calculer les fractions molaires XA et XB dans la phase liquide.
+6-b) Déterminer les fractions molaires yA et yB dans la phase gazeuse, si on considère qu?à cette composition largent (A) suit la loi dHenry .
+7) Est-il possible de séparer argent du cuivre à 1150 C ? Justifier 1a réponse
+PROBLÈME IV OXYDORÉDUCTION-DIAGRAMME E-PH (POURBAIX) A) Étude préliminaire 2 1) Loxyde dargent AgzO est l'écriture < déshydratée > de lhydroxyde dargent Ag(OH). Montrer que le fait de considérer la présence de loxyde AgzO(d) au lieu de lhydroxyde Ag(OH)(sd) est justifié pour Pétude de la précipitation
+Page 8 sur 11
+Concours Mathématiques et Physique Session Juin 2015
+
+--- page 9 ---
+2) Donner le nombre doxydation de Pélément argent dans les espèces chimiques suivantes Ag(sd), Ag(aq)  Ag(aq) ' 2+ AgO(sd) et Ag (OH)sd)  Présenter les résultats dans un tableau ordonné par valeurs croissantes du nombre d'oxydation.
+n.o(Ag)
+Espèces correspondantes
+
+3) Établir les équations des frontières correspondant aux couples AgO(sdyAg*(aq) et AgO(sdyAg(OH)sd) en milieu acide
+
+r
+ d
+
+B) Diagrammes E-pH (Pourbaix) Sur le diagramme de la page suivante; on a superposédeux diagrammes. Lun en traits   discontinus correspondant au cuivre et lautre en traits gras à Pargent. Les conventions adoptées pour tracer ces diagrammes sont La concentration totale en élément dissous est égale à la concentration du tracé. Ctra =10-4 moLL-' . À la frontière séparant les domaines des deux espèces dissoutes, les concentrations atomiques en élément sont égales. 2+ Pour le diagramme dargent; seules les espèces suivantes sont considérées Ag(sd) Ag(aq) = Ag(aq) AgO(sd) et Ag (OH)sd) 
+Page 9 sur 11 Concours Mathématiques et Physique Session Juin 2015
+
+--- page 10 ---
+2,50
+2,30
+2,10 1,90
+1,70
+1,50
+1,30
+1,10 { 0,90 0,70 8389 0,30 0,10 -0,10 -0,30
+10,3
+Cu2+
+Cu(OH)2
+Cu(OH)
+Cu
+-0,50 pH 8 8 8 8 8 8 8 8 8 60 8 : 2 8 8 ;
+4) Placer sur le diagramme les espèces chimiques dans les domaines correspondants en indiquant s'il s 'agit dun domaine d'existence ou de prédominance. Répondre sur le diagramme ci-dessus.
+5) Déterminer le potentiel standard E du couple Ag tIAg.
+
+ n
+1 
+ . 2 n
+' -
+ 2
+1 12 
+ s ,  .
+. . .
 
 
+Page 10 sur 11 Concours Mathématiques et Physique Session Juin 2015
 
-
-
-
-
-
-
-
+--- page 11 ---
+6) Écrire équation-bilan de léquilibre associé à la constante déquilibre K, (Cu(OH)2(sa) 
+Donner [expression puis calculer la valeur de K (Cu(OH)2(sd) _
+8) Déduire du diagramme les domaines dimmunité_de corrosion et de de_passivation du cuivre; Domaine (stabilité de Cu29 : Domaine (stabilité de Cu(OH)2)
+Domaine (stabilité de Cu)
+Domaine (stabilité de Cu(OH)2)
+9 En se basant sur les diagrammes E-pH du cuivre et de Fargent; déterminer les espèces susceptibles dêtre oxydées_par Ag(OH) Écrire_les équations-bilans des réactions correspondantes.
+FIN DE LEPREUVE
+Page 1l sur 11 Concours Mathématiques et Physique Session Juin 2015

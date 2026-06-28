@@ -1,7 +1,114 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de ['Enscignement Supérieu
+Concours Nationaux d'Entrée aux Cycles de Formation d'Ingénieurs Session Juip 2001 #STTUT Preriee Concours Physique et Chimie Biburteq} Epreuve de Physique
+Date Samedi 09 juin 2001 Heure 8 H
+Durée : 4 H
+Nb  pages
+Barème : Partie I : 3,5 pts; Partie I : 6,5 pts Partie III 7,5 pts Partie IV 2,5 pts
+L'usage dune calculatrice (non programmable) est autorisé Si au cours de 1 'épreuve, un candidat repère ce qui lui semble être une erreur d'énoncé il le signale Su sa copie et poursuit sa composition en indiquant les raisons des initiatives qu 'il est amené prendre. est composée de quatre   parties   indépendantes. Le but du   problème est dexaminer L'épreuve queiques caractéristiques de la propagation dondes électromagnétiques dans un milieu diélectrique deux premières   parties du problème étudient la réponse du milieu une excitation Les La troisième partie traite la propagation guidée dans un diélectrique Enfin,  la électromagnétique. quatrième partie présente une application à la mesure de Tintensité du courant électrique PARTIE I : Propagation dune onde électromagnétique dans un diélectrique On considère un milieu diélectrique parfait,  linéaire; homogène; isotrope; localement neutre; d'indice r et dc perméabilité magnétique égale à celle du vide Ho. Le mouvement de lélectron dun atome de ce milieu est décrit dans le modèle de l'électron élastiquement lié Félectron de charge "€ et de masse m est soumis; de la part du noyau; supposé fixe; à une force de rappel de type f ==a $ position de l'électron par rapport au noyau et est une constante réelle où est le vecteur positive Pour F'étude du mouvenent de lélectron; on se place dans le cadre de la mécanique classique. On désigne par N le nombre d'atomes par unité de volume. Dans tout le problème; cn négligera le poids de l'électron et toutes les forces de frcttement On donne La charge de P'électron e = -1,6 10*12 C. La masse de l'électron m = 9,! 10*1 kg. 1-1 On étudie dans ce mnilieu Ia propagaticn d'une onde électromagnétique plane monochromatique; de pulsation @ et de vecteur d'onde k Les champs électrique et magnétique   correspondants écrivert en notation conplexe É( ,t) = Eoei(k e ot) 12=1 4 B(7,t) = Boei(k 5-ot) ampliiudes respectives des champs électrique magnétique de I'onde et le Eo et Bo sont les vecteur position &un point auelconque du milieu.
+Concours Payxlque et Chuuie Sesson 2001
+Eprzeve de Paysique
+Pug 1/8
 
+--- page 2 ---
+On suppose que la longueur donde 1 est très supérieure à la dimension de l'atome, de manière à considérer le champ excitateur uniforme pour le mouvement de l'électron Dans ces conditions, cn peut négliger la dépendance spatiale du champ E
+I-1-a) Ecrire [équation régissant le mouvement dun électron: b) Montrer qu'on peut négliger |'action du champ magnétique de londe devant celle ae son champ électrique. En déduire qu'en régime permanent; le vecteur s'écrit
+E @? 1 = 08
+d s dt
+Donner alors l'expression de la vitesse de Yélectron Préciser ['expression de @ en fonction de & et m: Quelle est sa signification physique ? Définir et exprimer le vecteur densité de courant j lié au mouvement des électrons du Ne2 milieu_ On introduira dans lexpression de la quantité @? où €o est la permittivité meo du vide
+I-2-a) Ecrire les équations de Maxwell dans ce milieu;
+b) Montrer que les champs E et B sont transversaux Déterminer léquation de dispersion k flo) On donnera 1expression reliant k? à @ en faisant apparaître @0 , @p et la vitesse de la lumière c dans le vide. 'd) En déduire /expression de la permittivité diélectrique du milieu e(0) en fonction de @, 0o @p et €0. 1-3-a) Tracer ]allure de la courbe représentant les variations de k? en fonction de @ b) Préciser, suivant les valeurs de @ la nature des ondes se propageant dans le milieu; Définir et exprimer la vitesse de phase Vp Tracer ]allure de la courbe représentant ses variations en fonction de @2
+PARTIE II Propagation dune onde dans un diélectrique en présence dun champ magnétique uniforme On suppose que le milieu précédent; est soumis en plus; à un champ magnétique uniforme et constant au cours du temps B1 = B1 ez , où ez est un vecteur unitaire dun axe Oz. Dans cette partie; les champs électrique et magnétique de /onde s'écrivent
+E(r,t) = Eoei(kz-@t) B(r,t) = Boei(kz-ot)
+Concours Phyique ct Chimle Session 2001
+Epreuve , Physique
+Pag 2i}
 
+--- page 3 ---
+II-1-a) Montrer que les champs E et B sont toujours transversaux. b) Réécrire; avec l'hypothèse de la question I-1-b, [équation du mouvement dun électron En effectuant le produit   scalaire de l'équation   précédente  par e1 ' conclure   quant au mouvement dun électron suivant Oz. Dans la suite du problème; on ne s'intéressera qu'aux mouvements forcés de l'électron d) En effectuant  le produit   vectoriel de léquation de mouvement par ez montrer   que 1expression du vecteur caractérisant la position dun électron est donnée par
+(02 -@J)E+i0 2B(ez^ g) m (02 -08)?-02/ (@) On rappelle que A BA v) -( A. z),-(4z)z
+II-2-a) Déduire des résultats   précédents le vecteur polarisation P du milieu. b) Calculer le vecteur déplacement électrique D de londe. On mettra D sous la forme D=Eo(AE +C ( ez^E)) On exprimera les constantes A et C en fonction de @0, @p et @c eB1 m
+En écrivant les équations de Maxwell,   montrer que les vecteurs D et E sont liés par la relation
+k2 E = Eo
+D
+n@ II-3-a) On pose k = En   utilisant, la relation de la   question   Il-2-c, montrer que les
+composantes Ex et Ey du champ E sont liées par le système déquations suivant
+I(n?_ A)Ex +CEy = 0 CEx + (n2 A)Ey = 0
+b) Déduire du système précédent quil existe deux modes &e propagation possibles   caractérises par deux valeurs n et n" de lindice n Vérifier B>- que =ti et que ces deux modes conrespondent respectivemeni dans le plan Ey z0, à deux polarisations circulaire droite et circulaire gauche. En posant n' + n' 2ro , exprimer n', n' et n'- n' en fonction de ' @p @c et no
+Concours Physique et Chmle Session 2001
+Eprcuve Re Physique
+Pag 3/8
 
+--- page 4 ---
+I 4 Le milieu précédent est une lame à faces parallèles de longueur suivant Oz (figure 1)
+Une onde plane polarisée rectilignement suivant ox et de longueur donde 2, se propageant le long de laxe Oz, pénètre dans la lame en z = 0. a) Montrer que pour 1 180 nm la pulsation de coupure @c est très petite devant @ et @ (@ est généralement située dans le visible). On prend B1 =L Tesla b) En déduire une nouvelle expression simplifiée de n c) Montrer que dans le plan z 0, londe incidente; polarisée rectilignement, est la superposition de deux ondes polarisées circulaire droite E+ et circulaire gauche E Donner les nouvelles expressions de E et E à la sortie de la lame ( 2=/) en fonction de n' , n' , 1 @ et c. En déduire qu'à la sortie de la lame; londe reste polarisée rectilignement; mais que sa direction de polarisation a tourné dun angle a qu'on écrira sous la forme
+a = VIB1
+(1)
+Donner |expression de la constante V, appelée constante de Verdet. On rappelle que cos a +cosb = 2cos( {É)cos(4 2 4)
+PARTIE II Principe du guidage dune onde lumineuse On 'intéresse, dans cette partie à la propagation duiie onde électromagnétique monochromatique de pulsation @ dans un guide diélectrique dont le schéma est représenté sur la figure 2 Ce guide est constitué d'une couche cœur infinie de matériau diélectrique; d'épaisseur d insérée entre deux plans parfaitement conducteurs et totalement réfléchissants
+Ce milieu diélectrique est linéaire; homogène; isotrope et non magnétique; du type étudié précédemment. On le caractérise par son indice de réfraction n(@) A la pulsation @ de Fonde; on a n(0) = n =3,3 Dans cette partie le champ magnétique permanent B1 est nul.
+Concours Physique et Chimic Sesslon 2001
+Erzcuve de Phnsiquc
+Pag 48
+Figure
 
+--- page 5 ---
++d2
+d2
+Figure 2
+III-1) Montrer que le champ électrique de londe; E(r,t) , obéit à /équation suivante AE(r,t) +Hoeon 20' (7,) =8 III-2) Rappeler les conditions aux limites vérifiées par le champ E(r,t) à l'interface diélectrique conducteur . III-3) On se limite au cas de la propagation des ondes transverses électriques pour lesquelles le champ E(r,t) est orienté selon Oy et on cherche une solution de l'équation (2) sous la forme
+E(r,t) =Re {F(x,y)e' iPz e ~iot Jey
+où B est une constante positive; et Re désignant la partie réelle Montrer, en utilisant une des équations de Maxwell, que F(xy) ne dépend pas de y b) Ecrire léquation différentielle vérifiée par F(x). On posera k c) Montrer que la propagation n'est possible que si B < k n (condition de guidage) On pose k?n B? avec positif Montrer  alors que les solutions de cette équation différentielle n'existent que pour des valeurs discrètes Yp de Y qu'on déterminera. chaque valeur Yp   correspond un mode guidé du champ électromagnétique caractérisé par lamplitude Fp(x) e) Dans le cas d'une onde; de longueur donde dans le vide 1 = 1,4 pm comment doit-on choisir Pépaisseur de la couche du diélectrique pour que seul le mode fondamental (p=l) se propage ? III-4) On se place dans les conditions où Je guide ne laisse se propager que le seul mode p=1 Donner [expression du champ électrique correspondant. On s'intéresse toujours à la propagation d'une onde électromagnétique monochromatique transverse électrique de pulsation @. On envisage dans cette partie une structure réaliste qui est celle dune fibre optique; représentée sur la figure 3. La couche cœur du diélectrique; dindice de réfraction noté n (n =3,3 ), est maintenant  entourée par une deuxième couche de diélectrique, semi-infinie
+Concour Phyrique et Chimle Sesslon 2001
+Eprcuve de Phyuque
+Pag 58
 
+--- page 6 ---
+ng
+Diélectrique 2
++d/2
+Figure 3
+Diélectrique
+nc
+d2
+ng
+Diélectrique 2
+Cette deuxième couche sera considérée comme un milieu diélectrique linéaire, homogène; isotrope; non magnétique et d'indice de réfraction ng (ng =2,7). Comme dans la première partie on cherche des solutions de l'équation (2) de la forme E(r,t) = Re {F(x, y)eiBze ~iot ey
+III-5) Ecrire l'équation différentielle vérifiée par [amplitude F(x) dans chaque milieu; On introduira les paramètres Y et p tels que Y2 k? n2 -p? et p? =8? k'ng III-6-a) Que doit être le sens de variation de 1 'amplitude F(x) à 'extérieur du cœur pour que londe soit évanescente. En déduire le signe de p Montrer que la condition de guidage de londe électromagnétique s'écrit maintenant kng <B<k nc b) En supposant cette condition satisfaite; donner la solution générale de léquation précédente dans chaque milieu III-7-a) Ecrire les relations de continuité entre les deux diélectriques pour les champs électrique et magnétique de /onde
+b) Montre que les composantes tangentielles de B sont continues
+dE d et aux interfaces X = + ôx 2
+c) En déduire la continuité de
+III-8) Etant donnée la symétrie du problème; on peut chercher des fonctions F(x) paires ou impaires. a) Montrer que dans le cas où F (x) est une fonction paire; les paramètres Y et p doivent vérifier les relations suivantes p? =k?(n? -n?); Icosl ~ d avec tg d Y > 0 2 kyn? -n? 2 On rappelle que cos2 a = 1+ tg b) Montrer que [amplitude du mode fondamental (p = 1) est donnée par
+F(x) = Acos(y x) siJx| < 2 F(x) = Acos(y d )e "P(| 4 si Jxl> d 2
+où A est une amplitude constante:
+Concours Physiquc et Chlmie Session 2001
+Epreuve de Physlque
+Pag @8
 
+--- page 7 ---
+Pour une longueur d'onde dans le vide 1 = 1,4 um et un guide d'épaisseur d O,6um on trouve pour le mode fondamental Y =3,73 Hm Calculer les valeurs de pA, pd et de la quantité Ilp: Quelle est la signification physique de la quantité I/p ? Dans quel sens varie-t- elle lorsque |ordre p du mode augmente ? LI-9) On introduit l'angle 0 tel que knc cos0 a) Montrer que, dans la couche cœur du diélectrique; le champ électrique correspondant au mode fondamental   peut être assimilé au champ électrique résultant de la superposition de deux ondes planes 6) En considérant la condition de propagation dans le guide énoncée dans la question III-6-a trouver l'inégalité que doit vérifier [angle 0 et en donner une interprétation physique.
+PARTIE IV Application
+Cette partie peut être traitée en admettant le résultat donné par la relation (1) de la question II-4-d. Les fibres optiques sont des matériaux du type étudié à la partie I. On considère une fibre formant une boucle circulaire de rayon R Le diamètre de la fibre est négligeable devant R. Cette boucle est traversée par un fil rectiligne de très grande longueur; passant par le centre de la boucle et perpendiculaire à son plan Le fil est parcouru par un courant d intensité  constante Io (figure 4)
+Figure 4
+IV-1) Donner 1expression du champ magnétique B1 créé par le fil en un point de la boucle_ On précisera sa direction; son sens et son module. IV-2)Une vibration lumineuse; polarisée rectilignement, pénètre dans la fibre. Exprimer Pangle de rotation de la direction de polarisation de londe en fonction de Ho ,Io et de la constante de Verdet V(définie à la question I-4-d) , après un parcours d'un tour entier dans la fibre correspondant à une longueur 2 [V-3) On cherche à déterminer lintensité Io à partir de la mesure de cet angle de rotation par interférométrie. On utilise à cet effet linterféromètre ci-dessous représenté à la figure 5.
+Sp
+M1
+Figure 5
+M3
+Mz
+Concours Phyique et Cumle Sesdon 2001
+Epreuvye dc Physique
+Prg 778
 
+--- page 8 ---
+Sp est une lame semi-réfléchissante; MI, Mz et Ms sont des miroirs placés aux sommets dun carré et orientés suivant les diagonales de celui-ci_ Un faisceau de lumière parallèle, issu dune source (S), est envoyé sur le dispositif de sorte que les angles dincidence sur la lame semi-réfléchissante et sur les miroirs soient égaux Lobservation se fait SUI un détecteur (T), conformément au schéma de la figure 5. En présence de la lame Sp= un rayon arivant en I donne naissance aux trajets optiques L1 et Lz tels que L1= (UJKLIT) et Lz = (ILKJIT)
+a) On place entre I et L une lame de verre à faces parallèles dépaisseur b, perpendiculaire aux rayons lumineux;  Calculer la différence de chemin optique entre les trajets L, et Lz à la sortie de [interféromètre Qu'observe-t-on alors à la sortie de linterféromètre au niveau du détecteur b) On remplace cette lame par une lame de même épaisseur,   constituée dun matériau   du type étudié à la partie I placée dans un champ magnétique   B1 . Déterminer langle de rotation a1 de la direction de polarisation dune lumière initialement polarisée rectilignement parcourant le trajet LI. Quelle est langle de rotation a2 pour un rayon parcourant le trajet Lz ? Conclure
+IV-4) On envoie dans linterféromètre à fibre optique (figure 6), une vibration de polarisation circulaire droite. En l'absence de champ magnétique ( B1 = 0 ), les trajets L1 et Lz sont identiques:
+S"p
+(S)
+Io
+a) Montrer; qu en présence dun champ magnétique B1 , le trajet L1 est retardé, et que le trajet L2 est avancé b) Calculer la différence de marche entre les deux ondes arrivart sur le récepteur en fonction de la longueur / de la fibre, et des indices n et n'' déterminés dans la partie II. c) En déduire la différence de phase. d) Proposer une méthode de mesure de l'intensité Io.
+Concouss Physique €7 Chmmie Scsdon 2001
+Eprcuve de Phyaque
+Pag 88
+Figure

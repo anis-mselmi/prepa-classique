@@ -1,7 +1,96 @@
+--- page 1 ---
+453j)32/6wi #.jælgz~s eUL=b Jin uibyi Zijalii uuii jssllxc 2017 62
+REPUBLIQUE TUNISIENNE Ministère de Enseignement Supérieur et de la Recherche Scientifique
+Concours Nationaux d'Entrée aux Cycles de Formation d'Ingénieurs Session 2017
+Concours Technologie Epreuve de Physique
+Date Lundi 29 Mai 2017 Barème Problème 1 8 pts
+Heure 8 H Problème 2 : 12 pts
+Durée 4 H
+Nb pages 08
+Lusage dune calculatrice non programmable est autorisé L'épreuve comporte deux problèmes indépendants, le candidat peut les résoudre dans l'ordre qui lui convient en respectant néanmoins Ia numérotation des questions Un candidat peut toujours se servir dun résultat fourni par l'énoncé pour continuer sa composition.
+Données utiles
+La vitesse de la lumière dans le vide sera notée c. €o et Ho désignent respectivement la permittivité électrique du vide et la perméabilité magnétique du vide. h désigne la constante de Planck Zi réduite avec h la constante de Planck OPPM désignera une Onde Plane Progressive Monochromatique. Un point M de Fespace peut être repéré soit par ses coordonnées cartésiennes (x,y,z) dans   la base orthonormée  directe ux, Zy 7z soit  par ses   coordonnées  cylindriques (r,0,z) dans la base orthonormée directe ( Tr, 70 Zz ) rot(rotW) = grad '(div W) Aw. (7) = 1W^B désigne la valeur moyenne dans le temps du vecteur de Poynting où @ 2u0 désigne le complexe conjugué du champ magnétique.
+Problème 1 Quelques aspects de l'induction électromagnétique I Circuit magnétique et inductance mutuelle On considère un solénoïde (Fig. 1) de rayon a d'axe (Oz) et de longueur infinie comportant n spires jointives circulaires par unité de longueur parcourues par un courant d'intensité i. Déterminer à laide du théorème dAmpère le champ magnétique créé par ce circuit en tout point de la région r<a. On admettra que le champ magnétique est nul à lextérieur du solénoïde et on se placera dans Fapproximation des régimes quasi-stationnaires
+Figure 1
 
+Concours Technologic
+Session 2017
+Epreuve de Physique
+Page 1/8
 
+--- page 2 ---
+2. Ce solénoïde est supposé de longueur 1 > a, et possède N spires 2.a. Exprimer la densité volumique dénergie magnétique. 2.b. Déterminer par deux méthodes différentes son inductance propre L
+3. Soit deux solénoïdes S1 et S2   parcourus par des courants d'intensités i1 (t) et i2(t), d'inductances propres respectives L1 et L2 et couplés par leur inductance mutuelle M (Fig. 2) 3.2. Ecrire   les   expressions des flux   magnétiques   $1 et $2 travers S1 et S2 en fonction de i1, i2, L1, L2 et M 3.b. En déduire les forces électromotrices e1 et e2 à leurs bornes
+(S,)
+Figure 2
+Dans un circuit alimenté par une force électromotrice e (Fig. 3), les solénoïdes S1 et S2 peuvent être branchés en série ou en parallèle. 4.a. Déterminer linductance équivalente Le du circuit dans le cas où S1 et S2 S2 sont montés en série (Fig- 3.a) 4b. Même   question   lorsque S1 et S2 sont montés en parallèle (Fig. 3.b). 4.c. Commenter le cas où les deux solénoïdes sont sans interactions ? Figure 3.a Figure 3.b
+II- Champ tournant et principe du moteur synchrone 5. On considère maintenant un système (S) constitué de deux solénoïdes identiques de même axe Ox (Fig. 4.a) montés en série et parcourus par le même courant i dans le même sens
+A~> 'OOO
+Système (S) Figure 4.a
+Système équivalent à (S) Figure 4.b
+On peut montrer que le champ magnétique créé au centre 0 par ce système peut se mettre sous   la forme B = Bi7x où B est un coefficient positif s'exprimant en  fonction des paramètres géométriques de deux solénoïdes. Ce système possède une résistance électrique R et une inductance L. Son schéma électrique équivalent est donné à la figure 4.b. On branche en parallèle (Fig. 5) entre les bornes dune source de tension sinusoïdale idéale de ut i2 pulsation Wo et de fem complexe @(t) = Uo ejwot (j eC avec j? =-1) : un système (S1) identique à (S) suivant Ox ix parcouru par lintensité de courant i1 (t) un système (S2) identique à (S) suivant Oy en série avec un condensateur de capacité C et Plan (xOs) parcouru par l'intensité i2(t) Les axes (Ox) de (S1) et (Oy) de (S2) se coupent Figure 5 perpendiculairement en 0_
+Concours Technologie
+Session 2017
+Epreuve de Physique
+Page 2/8
 
+--- page 3 ---
+5.a. Donner le schéma électrique équivalent de ce circuit. 5.b. On cherche i1 (t) et i2(t) de la forme 4(t) = I e(ot-o1) et i2(t) = 12 ejlwot-c 62) Exprimer Pintensité maximale I1 et le déphasage 61 par rapport à la tension u(t) en fonction de Uo, R, L et 0. 5.c. Exprimer de même lintensité I2 et le déphasage 42 en fonction de Uo, R, C, L et @. 5.d Dans  quelles conditions peut-on avoir I1 = I2 et 41 42 1 ? Pour répondre cette question; on admet léquivalence Q1 42 1 4 tan @1 . tan 62 = -1 5.e. Montrer alors que dans ces conditions L et C doivent vérifier L R et C = Wo 2RWo Déduire alors I1 et I2 en fonction de Uo et R, ainsi que les valeurs de (1 et 62- 5.f. On se place dans ces conditions; écrire dans la base 7x7y ) et en notation réelle le champ magnétique total B en 0 créé par (S1) et (S2) . Exprimer son module; noté Bo, en fonction de Uo; B et R 5.8 Justifier pour ce champ magnétique lappellation de <champ tournanty. Préciser sa vitesse angulaire dans le plan (xOy). 6. Dans cette question on étudie le principe du moteur synchrone. Le champ tournant de la question précédente joue le rôle dun champ inducteur agissant sur Pinduit qui est un aimant permanent (Fig. 6) Cet aimant est assimilé à un dipôle magnétique de moment axe (Oz) magnétique m appartenant au plan (xOy) et faisant Finstant t = 0 un angle Qo avec le   champ   magnétique Wc précédent B tournant autour de Paxe (Oz). Laimant tourne autour de cet axe à la pulsation @. t=0 Ko 6.a. Langle instantané entre B et m est œ(t) (@o @)t + ao Déterminer en fonction de M, Bo; 00, et Qo plan (xOy) Pexpression du couple de force de Laplace 7 exercé par le champ B sur l'aimant. Figure 6 6.b. Pour quelle pulsation @ la moyenne temporelle de [ est non nulle ? Justifier alors le nom donné à ce moteur .
+III- Principe du fluxmètre Dans   la suite; on   considère  deux   solénoïdes S1 et S2 bobinés sur un même support cylindrique de longueur l, de section $ et d'axe Oz. Le solénoïde S1 comporte N1 spires, alors que le solénoïde S2 comporte Nz spires avec Nz < N1. Un générateur basse fréquence (GBF) générant une tension   sinusoïdale de   pulsation alimente un circuit comportant S1 (supposé de longueur infinie) GBF N en série avec une résistance r. On mesure la tension Vz aux bornes de S2 (Fig- 7) 7 . Exprimer le champ magnétique créé par S1 en un point de son intérieur en fonction de Ho, N1, Vi, r et Figure 7
+Concours Technologie
+Session 2017
+Epreuve de Physique
+Page 3/8
 
+--- page 4 ---
+8 Déterminer Fexpression du flux magnétique $ à travers les Nz spires de S2 en fonction de Ho, N1, Nz, S, Vi, r et l 9. Exprimer la force électromotrice (que Von notera Vz induite par S2 en fonction de la dérivée de Vi.
+10. De quel type de circuit s'agit-il ? Comment le vérifier expérimentalement ? 11. On branche aux bornes de S2 une résistance R en série avec une capacité € (Fig. 8) On mesure la tension aux bornes de cette capacité GBF Il.a. Exprimer la tension Vs en fonction de Vz. Il.b. A quelle condition sur ce circuit RC est-il intégrateur ? Figure 8 Exprimer alors Vs en fonction de $ Il.c. Un fluxmètre est un capteur de flux du champ magnétique. Est-ce que cette étude permet d'expliquer le principe de ce capteur ? Justifier 1
+   '    
 
+Problème 2 Réflexion et transmission d'une onde à l'interface dun milieu semi-infini  Préliminaires On considère une onde plane rencontrant; en incidence normale; la surface dun milieu semi- infini. La direction de propagation est suivant laxe Ox et Forigine est placée à l'interface de deux milieux. Milieu Milieu 2
+Onde incidente
+Onde transmise
+Onde réfléchie
+Les fonctions dondes dans les deux milieux et 2 sont notées respectivement V(x,t) et "z(x, t). Ces fonctions ainsi que leur   dérivée   vérifient la condition de   continuité sur Finterface x =0 : dwz Y1 (O,t) = 42(0,t) et (o,t) 92 (0,t) dx dx
+Concours Technologie
+Session 2017
+Epreuve de Physique
+Page 4/8
 
+--- page 5 ---
+A. Onde électromagnétique à Pinterface vide-plasma Dans le cas où la fonction d'onde est une onde plane électromagnétique   polarisée rectilignement dans une direction perpendiculaire à la direction de propagation; cette fonction représentera la composante du champ électrique dans cette direction. 1 OPPM dans le vide 1. Rappeler   les   équations de Maxwell dans   le vide (eo Ho) dépourvu de charges et de courants Déduire F'équation de propagation du champ électrique E 3. En notation complexe; le champ électrique E de Fonde s'écrit sous la forme E = Eoe ~ilot-Kix)uy (i €C avec i? = -1) Etablir la relation de dispersion du milieu. Exprimer alors k1 pour une propagation selon les X croissants 
+IL Onde électromagnétique dans un milieu plasma Propriétés du milieu Un plasma est un milieu matériel globalement neutre; où les atomes sont partiellement ou totalement ionisés. Les électrons et les ions sont libres de se déplacer, on négligera leffet de la   pesanteur. Le   plasma est   suffisamment   dilué pour   négliger les   interactions entre les particules   chargées. Les électrons et les ions sont soumis à la force de Lorentz due aux champs électrique et magnétique de Fonde. Les densités volumiques des électrons et des ions ont une même valeur notée no supposée constante. Les électrons sont non-relativistes leur vitesse v est très faible devant celle de la lumière dans le vide (v < c). On considère la propagation  dans ce milieu dune onde électromagnétique se propageant suivant Ox positif et donnée par son champ électrique E Eote ~i(ot-kzx)uy Eot et k2 sont à priori des nombres complexes. 4.a. Déterminer Fexpression du champ magnétique E. 4.b. Donner un argument justifiant que Fon puisse négliger le déplacement des ions devant celui des électrons . 4.c. A Paide de léquation de Maxwell-Gauss; vérifier que la charge volumique totale reste nulle. 4.d. En notation   complexe,   appliquer   la   relation   fondamentale de   la dynamique dans un référentiel galiléen à un électron du plasma de masse m et de charge - e. En supposant pour cette question que le nombre d'onde k2 est réel, comparer les ordres de grandeur des forces électrique et magnétique. Conclure. 4.e. Exprimer la vitesse @ de Félectron en fonction du champ électrique E 4f. En   exprimant la densité volumique j du courant dû aux électrons, déterminer la conductivité électrique complexe Y du milieu plasma.
+Concours Technologie
+Session 2017
+Epreuve de Physique
+Page 5/8
 
+--- page 6 ---
+48 Justifier  que ] et E sont en quadrature de phase. Que peut-on dire de la puissance volumique moyenne transmise aux électrons de la part de londe ? Y a-t-il atténuation de Fonde au cours de la propagation 5. Relation de dispersion et comportement fréquentiel 5.a. Faide des équations de Maxwell dans le milieu plasma; établir Féquation de propagation du champ électrique. 5.b Déduire la relation de dispersion du milieu: On fera apparaitre la pulsation plasma @p noe2 définie par 02 Eom 5.c. Montrer que le plasma se comporte comme un filtre passe haut pour les OPPM. Préciser alors la pulsation de coupure du filtre. Cas où W > Wp 5.d. Exprimer le nombre donde kz et décrire la nature de Fonde ainsi obtenue_ dw 5.e. Exprimer la vitesse de phase V, et la vitesse de groupe vg dk1 5.f. Le plasma est-il dispersif ? Décrire son comportement lorsque W > @p
+Cas où W < @p 5.g. Montrer que kz est imaginaire pur et Fexprimer sous la forme kz ip, où p est une grandeur à expliciter 5.h. Exprimer alors le champ électrique de londe, quelle est la nature de londe ainsi obtenue ?
+6. Indice complexe
+Lindice complexe n dun milieu peut être défini par la relation kz n Sa partie réelle n* s'appelle indice de réfraction; alors que sa partie imaginaire n" s'appelle indice d'absorption. On pourra poser n = n' + i n" . 6.a. Exprimer le champ électrique de Fonde dans le plasma en fonction des indices n' et n" . 6.b. Exprimer la vitesse de phase v, en fonction de c et n' 6.c. Justifier Fappellation indice d'absorption > pour la partie imaginaire de n 6.d Déterminer Pexpression de Findice complexe du plasma étudié   précédemment, on distinguera les deux cas W > @p et w < @p. L'indice est-il toujours supérieur à 1?
+III. Réflexion et transmission à Vinterface vide plasma Un plasma occupe le demi espace x > 0, le demi-espace x < 0 étant le vide_ Une OPPM incidente de champ électrique mi (ayant la même expression que celle fournie dans la partie I) se propageant dans le vide (milieu 1) selon laxe Ox positif, arrive sous incidence normale sur le plasma décrit précédemment. Finterface X = 0, cette onde donnera naissance; selon les lois de Descartes; à une onde réfléchie dans le vide et à une autre onde transmise dans le plasma  On supposera que ni la réflexion; ni la transmission ne modifie la pulsation et la polarisation de Fonde On appelle _ et + les coefficients de réflexion et de transmission en amplitude pour le champ électrique.
+Concours Technologie
+Session 2017
+Epreuve de Physique
+Pagc 6/8
+
+--- page 7 ---
+Ecrire en notation complexe les champs électrique et magnétique incidents, réfléchis et transmis . En écrivant la continuité du champ électrique et magnétique en X = 0, déduire r et t en fonction des nombres donde k1 et k2 dans les deux milieux. 9 En déduire les coefficients de réflexion R et de transmission T pour |énergie. On les exprimera en fonction de r et t et des nombres d'onde k1 et kz. 10. Dans le cas où W > @p, calculer R et Ts Vérifier que R +T = 1 et conclure 11. Dans le cas où W @p, calculer R et conclure.
+B. Particule quantique libre et marche de potentiel Particule quantique libre Considérons une particule quantique libre; de masse m et de vitesse 1 =v ux dans un espace unidimensionnel suivant la direction Ox. Son énergie totale E se réduit alors à son énergie cinétique La fonction donde Ù(x,t) associée à cette particule non relativiste obéit à léquation de Schrëdinger dw(x, t) h2 02p(x,t) ih dt 2m dx2 Une solution de cette équation décrivant un état stationnaire correspondant à un état d'énergie E se présente sous la forme J(x,t) = w(r)e-+ Lévolution temporelle dune telle onde est régie par la pulsation 12. Déduire léquation différentielle vérifiée par @(x) appelée équation de Schrëdinger VZmE indépendante du temps. On posera k1 13. Donner la forme générale de @(x) solution de cette équation. 14. Déduire Fexpression de la fonction donde V(x,t) associée et l'interpréter. 15. Donner la relation de dispersion reliant 0 à k1 et déduire la vitesse de phase v K ainsi que la vitesse de groupe vg
+IL. Evolution dune particule quantique en présence dune marche de potentiel On étudie le mouvement d'une particule quantique dans une énergie potentielle V(x) sous la forme dune marche de potentiel définie par V(x) V(x < 0) = 0 région V(x > 0) = Vo > 0 région II Région Région II
+On   rappelle   l'équation de Schrëdinger pour une particule   de masse m dans   lénergie potentielle V(x) dw(x, t) h2 021(x,t) ih +V(x)y(x; t) dt 2m dx2
+Concours Technologie
+Session 2017
+Epreuve de Physique
+Page 7/8
+
+--- page 8 ---
+16. On considère le cas dune particule quantique incidente dénergie E > Vo 16.a. Montrer que dans la région 1 un état stationnaire de la particule peut être représenté par la fonction donde 41(x) = Aeikix + rA e-ikix où A est une constante et r est le coefficient de réflexion pour Famplitude en x = 0. 16.b. De   même dans   la   région II, montrer qu'on pourra se contenter   seulement de 42(x) = t Aeikzx où t est le coefficient de transmission pour Famplitude en x = 0 et kz est le nombre donde relatif à la région II que Fon explicitera. 16.c. Ecrire les deux relations de continuité à Finterface x 0 16.d. Déduire les expressions des coefficients r et +. 16.e. Interpréter le déphasage des ondes réfléchie et transmise par rapport à celle incidente. On  définit   les vecteurs   densité de courant de  probabilité   associés aux   ondes  incidente; réfléchie et transmise par ji = Ivilz hk1 Tx Jr ~Iwrl2 hk1 Gx Jt = Iw+/2 hkz Tx Wi , Yr et Vt sont   respectivement   les fonctions donde   associées aux   ondes  incidente, réfléchie et transmise 16.f. Déterminer les coefficients R et T exprimant les probabilités pour que la particule soit réfléchie ou transmise. Ces coefficients sont définis par R = Wirl T Ilia et Ijill 16.g Vérifier alors que R + T = 1. Que traduit cette relation  , 16.h. Y a-t-il une analogie possible de cette situation avec Finterface vide-plasma dans le cas de londe électromagnétique ?
+17. On considère le cas dune particule quantique incidente dénergie E < Vo 17.a. La solution obtenue précédemment   relative à la région peut être conservée. Par contre; expliquer comment est modifié k2 et par suite le coefficient _ 17.b. Déterminer alors le coefficient R donnant la probabilité  pour que la particule soit réfléchie. Commenter. 17.c. Y a-t-il une analogie possible de cette situation avec linterface vide-plasma dans le cas de londe électromagnétique ? 17.d. L'existence dune onde dans la région II laisse prévoir une probabilité de présence non nulle de la particule. Exprimer la densité de probabilité associée et montrer qu'on peut définir une profondeur caractéristique de pénétration & 2v2m(o-E) 17.e. Justifier   1augmentation de 6  lorsque l'énergie E de la particule se rapproche du potentiel Vo.
+Fin de l'épreuve
+Concours Technologie
+Session 2017
+Epreuve de Physique
+Page 8/8

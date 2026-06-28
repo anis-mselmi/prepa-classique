@@ -1,3 +1,80 @@
+--- page 1 ---
+République Tunisienne Ministère de TEnseignement Supérieur et de la Recherche Scientifique Concours Nationaux dEntrée aux Cycles de Formation dIngénicurs Session 2018
+1sj)  9a3J| &1ëlx?jg(pë Gubjeals 4, Zali =sliJi 0+iJ1 04055 Jalj 2018 5 193
+Concours Technologie Epreuve de Mathématiques
+Date: Jeudi 31 mai 2018
+Heure: 8H
+Durée 4H
+Nbre de pages
+Barème
+Problème 1 : 13 points Problème 2 points
+La qualité de la rédaction et de la présentation; la clarté et la précision des raisonnements entreront pour une part importante dans Tappré- ciation des copies. Lusage des calculatrices n'est pas autorisé. Tout résultat fourni dans Ténoncé peut être admis et utilisé par la suite; même s'il n'a pas été démontré _
+Problème 1 Dans ce problème R[X] désigne Yespace vectoriel réel des polynômes, et pour m € N, Rm[X] Tespace vectoriel réel des polynômes de degré inférieur ou égal à I1 .
+Partie I
+to Montrer que, pour tout polynôme P € R[X], Tintégrale P(t) exp(~t2)dt est convergente: (a) Montrer que, pour tout t € R, exp(t) 2 (1 + t) (b) En déduire que, pour tout t € R, (1 - 8) < exp(-{2) <1+ 7' (a) Montrer que, pour tout n € N,
+o 400 J' (1 - ey"at < exp(-nt? )dt < 71+Pydt.
+(b) En déduire que, pour tout n € N* ,
++oo exp(~p?)dt < J cOs 2n-2 (t)dt.
+cos2n+1 (t)dt <
+o Vn exp(~t?)dt 2
+(c) En utilisant le fait que
+cos" (t)dt n =+0
+montrer que 2n Déterminer les valeurs des intégrales suivantes
+Foo I1 = exp(-t?)dt , Iz
+F00 exp(_t) dt, I3 =
+Fo
+exp(-t)) dt . t vt
+Partie II
+Montrer que lapplication @ : R[X] x R[X] 4 R donnée par
++o P(t)Q(t) exp( = t2)dt
+@(P,Q)
+définit un produit scalaire dans R[X].
 
+--- page 2 ---
+Concours Technologie
+Epreuve de Mathématiques
+Page 2 sur 4
+2. Montrer que, pour tout n € N
+10 t2n+1 exp(-t?)dt =0 et
+1oo (2n+1) 1oo {2n+2 exp(-t2)dt t2n 'exp(-#?)dt:.
+Pour tout (x,y) € R? on pose : T(x,y) =
+(22 xt _ y)?exp(-t2)dt.
+(a) Montrer que, pour tout (x,y) € R?, T(x,y) = 4 + 2*2+y? _y: dI JI (b) Calculer en tout point (x,y) de R2, (x,y) et (x,y), et en déduire que T admet un unique dx dy point critique. (c) Montrer que T admet un minimum local (ro,yo) que Yon précisera. Montrer que 2T(x,y) 2 1, pour tout (x,y € R2. Montrer; alors; que (xo yo) est un minimum absolu de la fonction I. En déduire la distance entre le polynôme X? et le sous-espace vectoriel R1[X] -
+Partie IIL
+cos(t)
+Montrer que, pour tout t € R, |1 cos(t)| < et pour tout t € R* 2 2 oo 1 _ cos(xt) 2. Pour tout x € R; on pose f(x) dt . Montrer que la fonction f est bien définie sur R, et que, pour tout x € R,on a : f(x) = f(l)lx| +0 cos(tx) 3 Pour tout x € R, on pose F(x) dt. 1++2 Montrer que la fonction F est définie; continue et bornée sur R, puis donner la valeur de F(O). Déterminer la solution générale sur Rt de léquation différentielle
+(E):y" (r) _y(r) f(1)x, x > 0. 2
++00 (1 _ cos(tx)) Pour tout x € R, on pose : G(x) = dt t2(1+t2) (a) Montrer que, la fonction G est bien définie sur R, et que pour tout x € R; on a : F(0) _ F(x) +G(x) = f(1)lx| (b) Montrer que la fonction G est de classe C2 sur Ret que G" = F. En déduire que G est solution de léquation (E) sur R+. Déterminer F sur R_, puis en déduire que, pour tout x € R, F(r) = 2 -e-Ixl (e) En calculant G' (0), montrer que f (1) = 2
+Partie IV
+10
+cosn (t) ) 1 Soit (un) L)n21 la suite définie par Vn € N* , un = dt . +2 Justifier existence de la suite (un)n2l, et montrer que U1 12 2 2 1 _ cosn Tc 2. Pour tout n € N* et t €]0, +œ[ on pose : fn(t) et Un = fn(#)dt. tvt
+Vn a) Montrer que, pour tout n € N* , un On: 2 v2
 
+--- page 3 ---
+Concours Technologie
+Epreuve de Mathématiques
+Page 3 sur 4
+nt2 (b) Montrer que, pour tout t € Ret n € N* , |1 cos" (t)| < (c) En déduire que, pour tout t € [0,1] et n € N*, cos" 21t <t. 1_exp(_t). Montrer que, pour tout t €j0,+0[ lim fn(t) n-++0 tvt (e) En déduire que lim Un = I3  1=+0 nI En déduire que Un n-++0 2
+Partie V Dans cette partie; pour p,9 € Z, on note [p,q] Yensemble des nombres entiers relatifs compris (au sens large) entre les nombres p et q On considère une suite (Xn)neN' de variables aléatoires mutuellement indépendantes définies sur un espace probabilisé (0,A,P), à valeurs dans {~1,1} et telles que, pour tout k € N*
+P(Xk = 1) = P(Xk = ~1) = 2 Pour tout n € N* on pose Sn = X1 + -   + Xn. Montrer que, pour tout n € N*, Sn(Q) c [~n,n], et calculer lespérance E(Sn) et la variance V(Sn) de la variable aléatoire Sn. 2. Soit S et T deux variables aléatoires finies; indépendantes et définies sur (0,A,P) . On suppose que Tet (~T) ont la même loi Montrer que E(sin(T)) = 0, et en déduire que E(cos(S + T)) = E(cos(S))E (cos(T)). (a) Montrer que, pour tout n € N* et t € R, E(cos(tSn)) = cos" (t). (b) En déduire que, pour tout n € N* , E(lSnl) Un. (a) Montrer que, pour tout n € N, P(S2n+1 0) = 0. () Montrer que, pour tout n € N* , E(lSn|) = IjlP(Sn = j) J==n (c) Montrer que, pour tout n € Net j € [~2n 2,2n + 2],
+P((S2n+2 = j) n (X2n+2 ~1)) = 2P(S2n+1 =j+1) P((S2n+2 = j) n (X2n+2 = 1)) = 2P(S2n+1 = j ~ 1) 2n+1 d) Etablir que, pour tout n € N; E(lS2n+2/) (Ik = 1/+ |k + 1 )P(S2n+1 = k) k=-2n~1 e) En déduire que, pour tout n € N, u2n+2 = 12n+1.
+Problème 2
+Pour n € N; n > 2, on désigne par Mn(R) lespace réel des matrices carrées dordre n. In la matrice identité Pour A € Mn(R), det( A) (resp. A) est le déterminant de A (resp.la transposée de A) On(R) {A € Mn( (R)/ AA = In} et SOn(R) = {A€On(R)/ det(A) = 1} det(f) est le déterminant dun endomorphisme f de R"_ O(Rn lensemble des isométries de Rn et SO(R") = {f € O(R") / det(f) = 1} Rn est muni de la norme euclidienne associée au produit scalaire usuel ( ) 
 
+--- page 4 ---
+Concours Technologie
+Epreuve de Mathématiques
+Page sur
+Partie [
+Soit f € O(R") . (a) Montrer que, pour toute valeur propre réelle ^ de f, on a : 1 € {~1,1}  (b) Soit F un sous-espace vectoriel de R". Montrer que si F est stable par f , alors lorthogonal Fl de F est aussi stable par f .
+Pour tout 0 € R, on pose Re
+cos(0)
+sin(0)
+sin(0) cos(0)
+Montrer que, pour tout 0 € R, Re € SO3(R) .
+(b) Soit (0,0') € R?. Calculer Re x Ro . En déduire que, pour tout p € Z et 0 € R; on a : RB = Rpo. (c) Pour quelles valeurs de 0 € R, la matrice Rp est-elle diagonalisable sur C? sur R? Justifier votre réponse. Partie IL. Pour tout vecteur unitaire a de R? , on désigne par € lendomorphisme de R? défini par
+Ta(x) 2(x,a)a
+(a) Montrer que €a est une symétrie vectorielle différente de IdR' . (b) Déterminer Ker(@a IdR' et Ker(Fa IdR3 (c) En déduire que €a est la symétrie orthogonale par rapport à la droite Ra. (d) Montrer que R3 = Vect(a) @ Vect (a) 4 . Déterminer la matrice de €a, dans une base orthonormée de R3 , adaptée à cette décomposition. En déduire que €a € SO(R3 Soit r € SO(R3) et a un vecteur unitaire de R?. Montrer que r 0 €a 0 r1 Or(a) 3. Soit (u,v,w) une base orthonormée de R3 Montrer que €u Ov Ow Partie IIL Soit f € SO(R? ) , tel que f + IdR . On note Ps = det(X IdR? f) le polynôme caractéristique de f . Montrer que Pf admet une racine réelle ^o. Soit u un vecteur propre unitaire associé à la valeur propre Ao. (a) Montrer que Vect (u)  est stable par f (b) En déduire qu'il existe une base orthonormée (v,w) de Vect(u) 1 et 0 €j0,7] tels que
+f (v) cos(0)v + sin(0)w et f (w)=
+sin(@)v + cos(0 )w.
+(c) Exprimer det(f) en fonction de ^o. En déduire que Ao = 1. (d) Montrer que la matrice de f dans la base (u,v,w) est Rp, où Re est donnée dans la partie I.2 On suppose que 2 7] et on considère Tapplication Y : R? ~R,xF > (f(x) x)  (a) Montrer que Y est continue sur R? , et calculer Y(u) et Y(v). (b) Soit S la sphère unité de R3. On admet que Y(S) est un intervalle de R. Montrer que Y(S) contient 0. (c) En déduire quil existe un vecteur unitaire a € R3 tel que f(a) soit orthogonal à a On pose b = f(a) et soit c € R3 tels que (a,b,c) soit une base orthonormée de R3 Montrer que Ta 0 f 0 Ta f-1 Tc. (On pourra utiliser II2 et II3). Fin de lénoncé

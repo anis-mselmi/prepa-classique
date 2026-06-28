@@ -1,23 +1,297 @@
+--- page 1 ---
+Instructions Cette épreuve comporte deux parties indépendantes: La première partie (chimie inorganique 50% de la note) comporte 10 pages (p2-pll) La deuxième partie (chimie organique 50% de la note) comporte 13 pages (pl2-p24) Tout résultat doit être écrit dans les cadres adéquats. Seul lusage des calculatrices électroniques de poche non programmables est autorisé Tout calcul doit être précédé dune expression littérale. Les résultats numériques sans unité ou avec une unité fausse ne seront pas comptabilisés: Aucun échange entre les candidats n'est autorisé. Si au cours de Vépreuve; un candidat repère ce qui lui semble être une erreur dénoncé, il la signale sur sa copie et poursuit sa composition en indiquant les raisons des initiatives qu'il est amené à prendre LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 24 PAGES NUMEROTÉES 1 sur 24,2 sur 24, 24 sur 24.
+{
+La première partie du sujet traite les chapitres suivants
+I Tablcau periodique~cobesion cristalline
+I Cristallographie II Diagramme déquilibre Hiquide-veparr dun mélange binaire IV.Électrochimie
 
 
+Page 1 sur 24
+Concours Physique et Chimie Session MailJuin 2017
+
+--- page 2 ---
+Partie I : Chimie inorganique
+Notations et données numériques Les gaz sont supposés parfaits. Les mélanges liquides sont supposés idéaux. Notations Les abréviations suivantes sont utilisées pour désigner l'état physique des constituants (g) pour gazeux, (sd) pour solide; (liq) pour liquide et (aq) pour aqueux. Xi : la fraction molaire de < i > dans la phase liquide. Yi la fraction molaire de < i > en phase vapeur. Lexposant signifie corps pur Constantes physiques Constante des gaz parfaits R = 8,314 JK-L moll Constante de Faraday F = 96500 €. moll Constante d'Avogadro NA 6,02x1023 moll (RxT)F x Ln(lO) 0,06 Và 298 K Pression standard pe =lbar. Données numériques Masses molaire (g.mol')
+Dysprosium (Dy) 162,5 Brome (Br) 80,0; Lithium (Li) = 7,0.
+Potentiel standard redox à 298 K et à pH = 0 : Dy3+ [Dy(sd) -2,35 V
+À 298 K
+Produit de solubilité de Dy(OH)3(sd) Ks = 1,41x10-22 . Produit ionique de l'eau Ke = 10-14
+Conversions bar =105 Pa 1 pm 1012 m T(K) 0( C) +273_
+Page 2 sur 24
+Concours Physique et Chimie Session MailJuin 2017
+
+--- page 3 ---
+Partie I Chimie inorganique Tableau périodique ~cohésion cristalline 1)Àquelle_famille du tableau périodique des éléments chimiques appartient le lithium ?
+2) Donner le nom dun second élément appartenant à la même famille
+3) Sachant que Te brome est le 3-me élément de 1a famille des halogènes dans 1a classification périodique des éléments chimiques, déterminer son numéro atomique Z.
+4) Déduire la structure électronique de Télément brome dans son état fondamental
+5) Les points de fusion des trois cristaux de dibrome Brz, du Tithium Li, et du bromure de lithium LiBr sont rassemblés dans le tableau ci-dessous 5-a) Indiquer pour chacun de ces trois cristaux la nature des forces dominantes qui assurent la cohésion du cristal et préciser le type de chacun de ces cristaux Cristal Brz LiBr
+0s ('C)
+-7,20
+180,50
+550,00
+La cohésion du cristal est assurée par
+Le cristal est du type 5-6) Comment justifier 1a grande différence des valeurs de points de fusion entre Brz et LiBr ?
+Page 3 sur 24
+Concours Physique et Chimie Session MailJuin 2017
+
+--- page 4 ---
+Partie I : Chimie inorganique
+Il-Cristallographie Le lithium cristallise dans un réseau cubique de masse volumique p = 0,54 g.cm-3 1) Identifier le mode de réseau, sachant que le paramètre "a" de la maille vaut 350 pm
+2) Donner une description de la maille et de son contenu.
+3) Donner Texpression puis calculer la valeur du rayon atomique du lithium
+4) La diffraction d un rayonnement X de longueur donde 1 égale à 1,54 1 sur ce cristal donne une réflexion du premier ordre avec un angle de diffraction égal à 18,139. Déterminer, pour cette réflexion, les indices de Miller de la famille des plans réticulaires diffiactant:.
+Page 4 sur 24
+Concours Physique et Chimie Session MailJuin 2017
+
+--- page 5 ---
+Partie I Chimie inorganique
+5) Le lithium peut se combiner au brome pour donner le bromure de Tithium, cristal ionique de type NaCl de paramètre a = 577 pm. 5-a) Donner une représentation en perspective de la maille et de son contenu
+5-6) En se limitant à une seule maille, représenter la trace des différents ions sur le premier plan réticulaire (002) après Porigine.  Distinguer les deux types dions par des formes et des couleurs différentes
+5-c) Donner l'expression puis calculer 1a masse volumique du bromure de lithium
+ `
+Page 5 sur 24
+Concours Physique et Chimie Session MailJuin 2017
+
+--- page 6 ---
+Partie I : Chimie inorganique IiL . Diagramme déquilibre solide-liquide LiBr-DyBr; La figure ci-dessous représente le diagramme déquilibre solide liquide du système LiBr-DyBrz. 1200 1200 P = 1 Yar
+1100
+1100
+1000
+100o
+900 1 [ 800 787K
+900
+803 KlE
+Z9IF
+800
+700
+700
+656
+600
+600
+500
+500
+0.1430.2 825 0.3 0.4 0.5 0.6 0,7 fraction molaire en DyBr;
+0.8
+0.9
+1) Déterminer la formule chimique de chacun des composés définis_présents dans ce diagramme
+2) Indiquer 1a nature de la fusion de chacun des composée définis
+3) Quelles sont les phases présentes dans les domaines (D ([et (ID ? Domaine ()
+Domaine (II)
+Domaine (III)
+Page 6 sur 24
+Concours Physique et Chimie Session MailJuin 2017
+
+--- page 7 ---
+Partie [ Chimie inorganique Quelle est la solubilité de LiBr dans DyBr; à la température 600 K 2
+Donner chacun des   températures   suivantes, la nature de la transformation 5) et   l'équation pour correspondante; T= 787 K :
+T =791 K :
+On part dun mélange Tiquide de masse totale 1000 g, contenant 126 g de LiBr et 874 g de DyBr3, qu'on refroidit de la température 1100 Kjusqu'à la température 600 K: 6-a) Déterminer la composition molaire du mélange initial et placer son point représentatif M1 sur le diagramme
+6-6) Représenter sur 1e diagramme les chemins suivis par les points représentatifs des phases liquide et solide(s) au cours du refroidissement. (Utiliser deux couleurs différentes) répondre sur le diagramme 6-c) Donner Tallure de 1a courbe danalyse thermique de refroidissement (de 1100 K jusqu'à 600 K) relative à ce mélange.
 
 
+Page 7 sur 24
+Concours Physique et Chimie Session MailJuin 2017
+
+--- page 8 ---
+Partie I : Chimie inorganique
+6-d) Calculer la quantité de matière en mol des différents composés dans chaque phase à la température 600 K
+
+ 
+7-a) Comment peut-on procéder pour obtenir du LiBr solide pur à 7OOK, à partir du mélange solide de composition XDyBr3 0,1 ?
+7-6) A quelle température doit-on procéder pour obtenir la quantité de matière maximale de LiBr solide pur ? Justifier la réponse.
+Page 8 sur 24
+Concours Physique et Chimie Session MailJuin 2017
+
+--- page 9 ---
+Partie [ Chimie inorganique
+IV. Électrochimie L'hydroxyde de dysprosium Dy(OH)3(sd) est très peu soluble dans leau. 1) Calculer la concentration des ions Dy3+ dans une solution saturée en Dy(OH)B(sd) à 298 K.
+2) Donner l'expression du pH de la solution saturée en Dy(OH)B(sd) et calculer sa valeur.
+
+ 
+3 Peut-on préparer une solution de_concentration 105 moLLen DyT àpH = 42
+4) Peut-on obtenir une solution de concentration 107 molL' en Dy3+ à pH = 9 ?
+Page 9 sur 24
+Concours Physique et Chimie Session MailJuin 2017
+
+--- page 10 ---
+Partie I : Chimie inorganique
+5) Représenter sur un axe de pH le domaine de précipitation des ions Dys# de concentration 10-3 molL-' en Dy(OH)B(d) 
+Diagramme E-pH du dysprosium 6-a) Donner les expressions numériques des potentiels redox relatifs aux couples redox Dy3+ , [Dy(sd) et Dy(OH)B(sdyDy(sd) dans le cas où la concentration molaire en Dy3+ est égale à 10-3 molL;-!
+Page 10 sur 24
+Concours Physique et Chimie Session MailJuin 2017
+
+--- page 11 ---
+Partie I : Chimie inorganique 6-b) Tracer le diagramme E-pH du dysprosium pour la concentration de tracé Ctra 10-3 molL-!
+1,50
+1,00
+0,50
+0,00
+~0,50
+€-1,00 1
+~1,50
+-2,00
+-2,50
+~3,00
+-3,50
+10
+1l
+12 13 14 pH
+6-c) Indiquer sur le diagramme les formes prédominantes dans les différents domaines Répondre sur le diagramme 6-d) Préciser les domaines dimmunité, de passivation et de corrosion du dysprosium Répondre sur le diagramme FIN DE L'ÉNONCÉ DE CHIMIE INORGANIQUE
+Page 11 sur 24
+Concours Physique et Chimie Session MailJuin 2017
+
+--- page 12 ---
+Partie II : Chimie Organique Données relatives aux trois problèmes
+Table de RMN du proton
+Protons CHs CHs-R CH C C0 CHs- C-OH CHs-C C CH3 CO-R CHs-Ar CHs-O-R
+#ppm Protons CHz 0,9 -1 CH -R 1,05 11 CH C-0 1,15-13 CH-C C 16 CH2-CO-R 21-22 CH-Ar 2,3 CO-CHz-CO 3,3 CH-CI
+$ppm 1,2-1,4 1,9 21-2,3 2,4 26-27 3,4-3,6 3,6
+Proton CH CHR CH CO-R CH-Ar CH-CO-Ar CH-OH CH-CI CH-NO
+5ppm 1,5 27 3 3,3 3,9 42 4,7
+Protons relatifs aux liaisons multiples ArH RCOH (adéhyde ArCOH@aldéhyde RCOH (acide carboxylique)
+5ppm 6-9 9410 9,7-10,5 10,2-12,4
+Table de données de spectroscopie Infra-Rouge Groupement Liaison Alcools OH libre Alcools OH associé Aldéhydes C0 Cétones C-0
+Nombre dondes (cm 3650-3590 3400-3200 1740-1720 1725-1705
+
+Remarque
+1- Dans tout le sujet la notation Ph correspond au groupe phényle Ph- 2 - Les numéros atomiques H(Z-1), C (Z 6),N (Z-7),0 (Z-8), Br (Z-35).
+7
+Lire entièrement le sujet avant de commencer à le traiter.
+Page 12 sur 24
+Concours Physique et Chimie Session MailJuin 2017
+
+--- page 13 ---
+Partie II : Chimie Organique
+Problème 1 On considère les trois amines suivantes
+HsC
+~NH2
+NH?
+CHz
+1) Déterminer les formes limites mésomères de B.
+r
+2) Classer ces trois amines, selon Tordre de basicité décroissant La réponse doit être justifiée
+Page 13 sur 24
+Concours Physique et Chimie Session MailJuin 2017
+NH2
+
+--- page 14 ---
+Partie II Chimie Organique
+3) Nommer Pamine B, selon la nomenclature internationale
+4) Dans le but de synthétiser le 1,2-dibromo-1,2-diphényléthane  I, on fait subir au composé A, la suite réactionnelle suivante
+NaNO2 HCI
+CuCN
+CN
+NH2
+sel
+1) Ph-CH2-MgBr
+1) LiAlH4
+G1
+G2 (R)
+2) H,Ot
+2) HzO/H
+H2SO4 (CC) Chauffage
+G1
+H
+H2 (plus stable)
+
+H2
+(produit unique)
+Brz CCl4 4-a) Déterminer les structures des composés D et F.
+Page 14 sur 24
+Concours Physique et Chimie Session MailJuin 2017
+
+--- page 15 ---
+Partie II Chimie Organique
+4-b) Quelle est la configuration absolue du carbone asymétrique du composé G1 ? Justifier et en déduire les structures spatiales de CRAM de G1 et Gz.
+4-c) Déterminer les structures de H1 et Hz à partir du mécanisme de la réaction et expliquer pourquoi Hz est plus stable.
+Page 15 sur 24
+Concours Physique et Chimie Session MailJuin 2017
+
+--- page 16 ---
+Partie II : Chimie Organique
+4-d) Le composé possède-t-il une activité optique 2 Justifier la réponse. (La justification  doit comprendre un schéma)
+Page 16 sur 24
+Concours Physique et Chimie Session MailJuin 2017
+
+--- page 17 ---
+Partie II Chimie Organique
+Problème 2 Les 'terpinéols sont des structures extraites des huiles essentielles de plusieurs plantes; comme les pins; la lavande; etc. Lun des terpinéols; la-terpinéol A, est extrait de lhuile essentielle de pin Il se caractérise par une odeur agréable de lilas et a pour structure CHs
+HsC
+'CH3 OH
+1) Le composé A est-il chiral ? Justifier
+2) Lun des énantiomères de A est le (S) a -terpinéol A1. C'est le plus répandu dans Phuile essentielle de pin Donner la représentation de Cram de A1 et justifier la configuration absolue de son carbone asymétrique;
+Page 17 sur 24
+Concours Physique et Chimie Session Mai/lJuin 2017
+
+--- page 18 ---
+Partie II Chimie Organique
+3) Expérimentalement; la déshydratation en milieu acide et à chaud, de la -terpinéol A, conduit à plusieurs alcènes dont principalement les quatre suivants CH, CH3 CH, CHs
+H3C
+CH3
+H3C
+CHz
+HzC
+CH3
+H3C
+3-a) Proposer un mécanisme (sans tenir compte de laspect stéréochimique), expliquant l'obtention de B et de C.
 
 
+1 . 
+Page 18 sur 24
+Concours Physique et Chimie Session MailJuin 2017
+'CHs
+
+--- page 19 ---
+Partie II Chimie Organique 3-b) Proposer un mécanisme expliquant la formation de D et E
+' ,
+
+1 , . `
+Page 19 sur 24
+Concours Physique ct Chimie Session MailJuin 2017
+
+--- page 20 ---
+Partie II : Chimie Organique 3-c) Indiquer parmi ces quatre alcènes (B, C, D,E) ceux qui sont chiraux . Justifier
+4) L'ozonolyse réductrice de Tun des alcènes (B, €,D,E), conduit au composé F
+HsC
+et au composé G de formule brute C6H1oO2; dont le spectre RMN 'H fait apparaitre les signaux suivants (les rapports d'intégration sont inscrits entre parenthèses) Un signal vers 1,06 ppm (6) Un signal à 2,70 ppm (1) Un signal vers 3,56 ppm (2) Un signal vers 9,72 ppm Le spectre Infra-Rouge de G, fait apparaitre plusieurs bandes d'absorption; parmi lesquelles une bande vers 1730 cm ! et une autre vers 1715 cm 4-a) Identifier ]alcène dont lozonolyse conduit à F et G Déduire alors la structure de G.
+Page 20 sur 24
+Concours Physique et Chimie Session MailJuin 2017
+
+--- page 21 ---
+Partie II Chimie Organique
+4-b) Indiquer à quoi correspondent les deux bandes d absorption du spectre Infra-Rouge
+4-c) Attribuer le déplacement chimique relatif à chaque groupe de protons de la molécule G et indiquer la multiplicité (singulet doublet  ) des signaux apparaissant vers 1,06 ppm et 2,70 ppm
+Page 21 sur 24
+Concours Physique et Chimie Session MailJuin 2017
+
+--- page 22 ---
+Partie II Chimie Organique
+Problème 3 On considère la suite réactionnelle suivante qui conduit aux composés D1 et D2 :
+CH3
+1OO C
+CH3
+HBr
+D + D2
+1) Quel est nom de la réaction aboutissant à C ?
+2) Proposer un mécanisme correspondant à la formation de €
+3) Quel est parmi A et B, le diène et le diénophile ?
+Donner les structures semi-développées de Di et D2.
+Page 22 sur 24
+Concours Physique et Chimie Session MailJuin 2017
+
+--- page 23 ---
+Partie II Chimie Organique
+5) La condensation de deux moles de C en milieu basique et à chaud, conduit au composé E qui se déshydrate facilement en milieu acide pour conduire à F (cétone a,B-insaturée), G et H (produit minoritaire) CH,OK@/ CH,OH H2SOa 2C F + G + H C16H2402 Déterminer les formules semi développées de E, F, G et H à partir des mécanismes de leurs formations; sachant que F, G et H ont la même formule brute.
 
 
+Page 23 sur 24
+Concours Physique et Chimie Session MailJuin 2017
 
+--- page 24 ---
+Partie II : Chimie Organique
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+FIN DE LÉNONCÉ DE CHIMIE ORGANIQUE
+FIN DE LÉPREUVE
+Page 24 sur 24
+Concours Physique et Chimie Session MailJuin 2017

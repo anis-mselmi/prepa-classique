@@ -1,3 +1,64 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de VEnseignement Supérieur de la Recherche Scientitique
+Lsil LsAaal alell ~xlls allell a leill ë)l)) Jssn ibji BlaLiji CHunifi @yss Jal> i 2017 3,9-
+Concours Nationaux d'Entrée aux Cycles de Formation dIngénieurs Session 2017
+Concours Biologie et Géologie Epreuve dInformatique
+Date Vendredi 26 Mai 2017 Heure 14 H
+Durée : 2 H
+Nombre de pages 4
+Barème
+PROBLEME ] 10 points PROBLEME 2 10 points
+DOCUMENTS NON AUTORISES
+L'USAGE DES CALCULATRICES EST INTERDIT o
 
+PROBLEME 1 1  Soit le schéma relationnel de la base de   données dun hôpital défini par les   relations suivantes
+Patient (IdPatient _, Nom Prenom Age Adresse DateEntree Date_Sortie) La table Patient contient tous les patients actuellement présents à lhôpital. IdPatient identifiant du patient (entier), clé primaire. Nom nom du patient (chaîne de caractères) . Prenom prénom du patient (chaîne de caractères) . Age âge du patient (entier). Adresse adresse du patient (chaîne de caractères) . Date_Entree date dentrée du patient (chaîne de caractères) . Date Sortie date de sortie du patient (chaîne de caractères égale NULL si la date de sortie est inconnue)
+Plat (IdPlat Nom Calories)
+La table Plat contient tous les plats servis par la cuisine de /hôpital. IdPlat: identifiant du plat (entier), clé primaire . Nom nom du plat (chaîne de caractères) . Calories nombre total de calories (entier strictement positif).
+Servi (IdPlat IdPatient Date Quand)
+La table Servi énumère les plats identifiés par IdPlat servis, à une date donnée, aux patients identifiés par IdPatient.
+Concours (Biologie et Géologie) - Session Mai 2017
+Epreuve d Informatique
+Page 1/4
 
+--- page 2 ---
+IdPlat: identifiant du plat (entier), clé primaire . IdPatient: identifiant du patient (entier), clé primaire . Date date à laquelle le plat a été servi (chaîne de caractères) . Quand caractère indiquant quand le plat a été servi Quand = P' pour le petit déjeuner Quand = 'M pour le repas de midi et Quand = S' pour le repas du soir. Interdit (IdPlat IdPatient)
+La table Interdit indique les plats; identifiés par IdPlat; interdits aux patients identifiés par IdPatient.
+Travail demandé
+1 . En utilisant le module sqlite3 donner le script PYTHON permettant de créer la table Plat dans la base "hopitaldb" en exprimant toutes les contraintes d 'intégrité mentionnées ci-dessus . Dans la suite on suppose que les quatre tables sont créées et remplies. Donner les requêtes SQL permettant de 2  Ajouter le patient   ayant   les informations   suivantes (1256 BEN FOULEN' 'Mohamed' 61 Tunis' 26 / 05 2017' 'NULL')
+3 _ Modifier le nombre de calories du plat ayant Pidentifiant 26 par la valeur 1200.
+4. Supprimer tous les plats dont le nombre de calories est inférieur à 400.
+5 Déterminer tous les patients de Ihôpital.
 
+6 Déterminer les identifiants; les noms, les prénoms et les dates dentrée des patients âgés entre 25 et 50 ans.
+7 Déterminer le nombre total de calories consommé par la patiente 'Fattouma 'FALTENA durant son séjour .
+8. Déterminer,  pour  chaque   patient; le   nombre de   calories   consommé le matin du 26/05/2017' Le résultat doit être trié selon le nombre de calories par ordre décroissant.  9 Déterminer le(s) nom(s) du(des) plats le plus calorique.
+10. Déterminer   le nom et le prénom des patients qui ont pris le plat soupe le soir du 25/05/2017'_
+11.Déterminer le nom; prénom et IdPatient de tous les patu ients dont la date de sortie est inconnue .
+12. Déterminer le nom des plats qui n'ont jamais été servis.
+13. Déterminer le nom; prénom et IdPatient de tous les patients interdits de prendre le plat 'salade tunisienne
+14. Déterminer le nombre de patients qui n'ont aucun plat interdit.
+Concours (Biologie et Géologie) - Session Mai 2017
+Epreuve d'Informatique
+Page 2/4
+
+--- page 3 ---
+PROBLEME 2 Dans ce problème on se   propose dinformatiser un   championnat   quelconque de football comportant N équipes. Les noms des différentes équipes sont stockés dans une liste LE. Exemple LE =['TUNISIE' 'SENEGAL? ALGERIE? ZIMBABWE] Une rencontre entre deux équipes A et B est représentée par le tuple R défini comme suit R =(<indicede A >  < indice de B > où indice de A > Indice de léquipe A dans la liste LE. indice de B > Indice de léquipe B dans la liste LE. Toutes les rencontres entre les équipes de LE sont stockées dans une liste LR. Exemple R =(0,2) représente la rencontre entre léquipe dindice 0 ('TUNISIE') et léquipe dindice 2 ('ALGERIE') LR =[(0,1),(0,2), (0,3),(1,2),(1,3),(2,3)] Le résultat dune rencontre entre deux équipes A et B est représenté par le tuple Res défini comme suit Res = <indice de A > , < indice de B > , < résultat > , < buts de A > , < buts de_ B > ) où indice de A > Indice de léquipe A dans la liste LE. indicede B > Indice de Péquipe B dans la liste LE. résultat Un entier qui représente le résultat de la rencontre entre les deux équipes A et B 0 match nul, ] victoire de léquipe A et 2 victoire de léquipe B. Buts de A > Nombre de buts marqués par léquipe A. Buts de B > Nombre de buts marqués par léquipe B. Les résultats des différentes rencontres entre les équipes sont stockés dans une liste LRES qui est une liste de tuples. Exemple Res = (0,2,1,2,1 ) représente le résultat de la rencontre entre léquipe d'indice 0 ( 'TUNISIE' ) et Péquipe d'indice 2 ('ALGERIE') avec victoire de la 'TUNISIE' par 2 buts à 1. LRES = [(0,1,2,0,2 ), (0,2,1,2,1 ) (0,3,1,4,2 ) (1,2,1,2,1 ), (1,3,1,3,1 ),(2,3,0,2,2 )] Les informations des matchs joués par toutes les équipes sont représentées par une liste de tuples LTR ayant le même ordre que LE. Chaque tuple contient; dans lordre, le nombre de matchs joués, le nombre de victoires, le nombre de matchs nuls; le nombre de défaites; le nombre des buts marqués et le nombre des buts encaissés. Exemple LE =['TUNISIE? 'SENEGAL' 'ALGERIE? ZIMBABWE] Le   tuple (3,2,0,1,6,5 )   représente les informations relatives aux matchs   joués de la TUNISIE' (équipe dindice 0 dans LE) .
+Concours (Biologie et Géologie)- Session Mai 2017
+Epreuve dInformatique
+Page 3/4
+
+--- page 4 ---
+La liste LTR, associée à LE, est alors la suivante LTR = [(3,2,0,1,6,5 ) (3,3,0,0,7,2 ) , (3,0,1,2,4,6 ), (3,0,1,2,5,9)] Le total de points cumulés pour toutes les équipes est stocké dans une liste LP dans Fordre des équipes de LE. Le total des points est comptabilisé à partir de la liste LTR qui contient le résultat de chacune des équipes sachant qu'une victoire vaut 3 points, un match nul vaut point et une défaite vaut 0 point. Exemple LE =[ TUNISIE' 'SENEGAL 'ALGERIE? ZIMBABWE] LTR =[(3,2,0,1,6,5 ), (3,3,0,0,7,2 ), (3,0,1,2,4,6 ) (3,0,1,2,5,9)] LP = [6, 9, 1, 1 ]  Les   équipes sont   classées selon Vordre décroissant   du total  des points   cumulés. En cas dégalité des points  entre deux ou plusieurs équipes; la première  classée est la  première rencontrée. Exemple  SENEGAL KLGISREE ;  ZIMBABWE 
+Travail demandé
+
+Nomenclature
+Nom N LE LR LRES LTR LP
+Type < int <list> list list> <list> <list>
+Description
+Nombre_des équipes_ Liste des noms des équipes Liste de toutes les rencontres (liste_de_tuples  Liste des résultats de toutes les rencontres (liste_de_tuples Liste des informations des matchs joués (liste de_tuples) Liste_des_points_cumulés _pour toutes_ les équipes
+1
+Ecrire une fonction PYTHON, nommée saisiEquipes; qui saisit et retourne dans une liste les noms des N équipes. 2 Ecrire une fonction PYTHON, nommée genRencontre; qui, à partir de LE génère la liste de toutes les rencontres LR. 3 _ Ecrire une fonction PYTHON, nommée saisiResultats, qui, à partir de LE, génère la liste de toutes les rencontres LR, puis saisit les résultats des différentes rencontres en faisant les contrôles nécessaires et retourne la liste LRES 4 Ecrire une fonction PYTHON, nommée resultatsEquipes, qui à partir de la liste des résultats des rencontres LRES et la liste des équipes LE, détermine et retourne la liste des tuples LTR. 5 Ecrire une fonction PYTHON nommée resultats, qui, à partir de la liste des rencontres LTR, retourne la liste LP. 6 Ecrire une fonction PYTHON, nommée classement, qui, à partir des listes LP et LE, affiche le classement des équipes selon Fordre décroissant du total des points cumulés . En cas dégalité des points entre deux ou plusieurs équipes; la première affichée est la première rencontrée.
+Ccncours (Biologie et Géologie) - Session Mai 2017
+Epreuve d'Informatique
+Page 4/4

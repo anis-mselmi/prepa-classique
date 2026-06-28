@@ -1,4 +1,117 @@
+--- page 1 ---
+Brlkheque  (Sax Wleis Urs
+REPUBLIQUE TUNISIENNE Ministère de /Eneignemnl Supérieur < de 1a Rechrche Scienlilique
+~>j)42nj} @UJLw;#MèWs eyss Je ?ilyll _Jta iedl @8 UUi 2013 %
+Concours Nationaux d'Entrée aux Cycles de Fornnation d'npénieurs Scesiou 2013
+Concours Biologie et Géologie Epreuve de Mathématiques
+Date: Lundi 3 Juin 2013
+Heure 8 H
+Durée: 3 heures
+Nb pages: 5
+Barème:
+Une grande importance sera attachée à la rigueur du raisonnement, à la clarté et au soin de la présentation.  L'usage des calculatrices n'est pas autorisé Il est rappelé que tout résultat énoncé dans le texte peut être utilisé pour traiter la suite, même s'il n'a pu être démontré
+Exercice 1
+On considère la suite réelle (un)neN définie par: n"+1 Vn € N, Un = J' (e')"_ dt. n! 1 Montrer par un changement de variable que: 8R Vn € N; Un = e-sds. n!
+2
+(a) Soit I € R Montrer par récurrence sur n que:
+xk (z t)" Vn € N, € 2 +J e'dt. k! n1! k=0
+(b) En déduire que la suite (un)ncN est définie par:
+nk Vn € N, Un = 1 = e-n 2 k! k=0
+3. On considère une suite (Wn)neN  de variables aléatoires 2 à 2 indépendantes suivant toutes la même loi de Poisson de paramètre 1. Pour n € N* on définit les variables aléatoires Sn et Sn respectivement par:
+Sn = n Sn = Wk et S" = Vn k=1
+(a) Quelle est la loi de Sn?
+Concours Biologie et Géologie Session Juin 2013
+Épreuve de Mathématiques
+Pagc 1/5
 
+--- page 2 ---
+AsiUT Oreparatrirs ) CBlKOTHEQUD (b) Donner l'espérance E(Sn) et la variance V(Sn) (c) Soit n € N* Exprimer la probabilité de P(Sn < n) en fonction de Un: (d) Justifier que, pour n assez grand, la loi de Sn peut être approchée par la loi normale réduite centrée N(O,1). 1 (e) En déduire que la suite (un)neN converge vers 2 Exercice 2
+On désigne par M3l  (R) (resp. Ms,1  (R)) le R-espace vectoriel des matrices carrées d'ordre 3 (resp. des matrices colonnes à 3 lignes) , à coefficients dans R Pour M € M3(R) (resp. M € M3,1(R)), on note 'M la transposée de la matrice M. On munit lespace M3,1 (R) de la norme euclidienne | - || définie par:
+21 12 u3
+VU =
+e M3,1(R) IlUII = VuU = Vu? + u? + u?
+2 =1 0
+=1 0 2 =1 2
+3 =5 5
+On considère la matrice carrée A =
+et la matrice colonne b =
+On se propose dans cet exercice, détudier le système linéaire suivant:
+AX = 6
+1
+dinconnue X =
+y 2
+€ M3,1(R)
+1
+(a) Montrer que la matrice A est inversible, puis déterminer son inverse A-1 (b) Montrer que le système (1) admet une solution unique c que Fon déterminera. 2. (a) Montrer que le système (1) est équivalent à X = BX + d,
+(2)
+avec d une matrice colonne de M3,1  (R) que Fon déterminera et la matrice 0 2 0 1 B = 2 0 2 0 2 0
+(b) Justifier que la matrice B est diagonalisable. (c) On considère les trois matrices colonnes suivantes:
+1 2 J 2
+1 Vi = 0 7
+2 et Vs = 72 2
+Vz
+Concours Biologie et Géologie Session Juin 2013
+Épreuve de Mathématiques
+Page 2/5
 
+--- page 3 ---
+Asttu Mquonequr 02 9N e 1 Calculer BVa, pour i € {1,2,3}- ii. En déduire les éléments propres de B
+(d) Soit P la matrice de M,(R) dont les colonnes sont Vi, V2 et Vs (dans cet ordre). Calculer 'PP, puis déduire que P est inversible et donner P-1 ainsi que la matrice D = 'PBP.
+On définit la suite (Xp)peN déléments de M3,1(R) par Xo = 2 récurrence: Ip Vp € N, Xp+1 = BXp + d, où Xp = Yp 2p On pose &p = Xp - c; où c est Punique solution du système (1). 3 (a) En utilisant le fait que c vérifie c = Bc + d, montrer que:
+et la relation de
+Vp € N, Sp+1 = BSp-
+(b) Soit U € M3,1 (R). Montrer que:
+IIPUII = Il'PUI = IuI et Vp € N, IJDPUII < 1 uI V2P (c) Calculer |l6oll, puis déduire que
+13 2p
+Vp € N IlspH <
+(d) Prouver alors les trois inégalités
+13 2P
+13 et Izp ~ 21 < 2P
+13 2P
+Isr 1l
+lyp + 1| <
+(e) Quelles sont les limites respectives des suites (Ip)peN  (yp)pen ct (zp)peN ? Problème
+On rappelle qu'à toute variable aléatoire réelle X à densité, on associe la fonction génératrice des moments, de la variable réelle ", définie par: Gx(u) = E(euX ). On admet que si cette fonction est définie dans un voisinage de 0, alors X admet des moments de tout ordre n € Net que Vn € N; E(X") = G4'(0). Partie I On considère la fonction s définie sur R par:
+Vz € R, 4(z) =
+Concours Biologie et Géologie Session Juin 2013
+Épreuve de Mathématiques
+Page 3/5
+e-r?
 
+--- page 4 ---
+BSt7; , gœLS7sÉævé 4 QnuCss  1 Wnes 9ax
+1 Justifier que $ définit bien une densité de probabilité dune variable aléatoire N dont on précisera la loi.
+2. Montrer que
+aI-12 e dx = e  VT JRR
+Va € R,
+3 Donner Yexpression de la fonction génératrice Gv de la variable N, ainsi que son développe- ment en série entière.
+4 En déduire que la variable aléatoire N admet des moments de tout ordre n € N et donner Pexpression de E(N") en fonction de n.
+Partie II
+Soient X et Y deux variables   aléatoires indépendantes de même densité de probabilité 4. On considère la variable II définie par: II =XY
+1 Déterminer la densité conjointe f(x,Y) du couple (X,Y) On admet que II est une variable aléatoire réelle à densité
+2. Montrer   que la variable aléatoire II admet une fonction génératrice des moments donnée par 2 Vlul < 2, Gn(u) = JJ eury f(x,Y)(I, y)dxdy = V4 = 1?7 3. On rappelle que la fonction 5 + (1 + z)œ est développable en série entière sur ] = 1,1[ et Vlz| < 1, (1 +2)" = 1+"xl I*=* (a =n+ 1)r" n! n>1
+Montrer que la fonftion Gn est développable en série entière sur ] = 2,2[ et que: (2n)! Vlul < 2, Gn(") = 2 2n (4nn1) n20
+4 Montrer , de deux manières différentes; que la variable aléatoire II admet des moments de tout ordre n € N et donner l'expression de E(Il") en fonction de n.
+Partie III
+Soient X et Y deux variables aléatoires indépendantes de même densité de probabilité 4 On considère la variable T définie par: T =X2 + Y2.
+A- Loi exponentielle
+Pour t > 0, on définit le disque ouvert de R? de centre 0 et de rayon vi par:
+Dt = {(z,y) € R?; 12 +y? < t} Soit Fr la fonction de répartition de la variable aléatoire T.
+Concours Biologie et Géologie Session Juin 2013
+Épreuve de Mathématiques
+Page 4/5
 
+--- page 5 ---
+1. Justifier que:
+{NS T7T , BiLAJIHE :qu6 {s Puabsy Vt > 0, Fr (t) = P((X,Y)€ D) 2. Déterminer ]'expression de la fonction Fr 3. En déduire que la variable aléatoire T suit la loi exponentielle de paramètre 1. B- Loi partie entière de loi exponenteille 1. On désigne par L la partie entière "supérieure" de T, c'est-à-dire, L est la variable aléatoire à valeurs dans N* et telle que Vn € N' L=n 4 n - 1 <T < 1. (a) Démontrer que L suit la loi géométrique de paramètre p = 1 - e-1 (b) Donner son espérance et sa variance. 2 On considère la variable aléatoire A = L-T.
+(a) Déterminer sa fonction de répartition Fa- (b) En déduirc que A est unc variable aléatoire à densité dont la densité est
+si t € {0,1], e - 1
+fa (t)
+sinon
+C- Loi maximum des lois exponentielles Le fonctionnement dune machine est perturbé par des pannes. On   considère les   variables aléatoires Ti, T2 et T3 définies par: Ti est le temps, exprimé en heures, écoulé entre la mise en route de la machine et la 1ère panne.
+T2 (resp. Is), est le temps, en heures, écoulé entre la remise en route de la machine après la lère (resp. la 2ème panne et la panne suivante. On suppose que les variables aléatoires T;, T2 et T; sont indépendantes et suivent la même loi que la variable T. Soit M la variable aléatoire égale à Ja plus grande des 3 durées de fonctionnement de la machine sans interruption; c'est-à-dire, M = max(Ti, T2, I3) . 1. Quelle est la durée moyenne de fonctionnement entre deux pannes consécutives? 2 (a) Calculer la probabilité P(M < t), pour tout t € R. (b) En déduire que M est une variable aléatoire à densité fM définie par: 3e t (1 = e-t)2 si t > 0, fm(t) = { 0 si t < 0.
+3 (a) Montrer que
++0 1 Va > 0, te-at dt = 02 (b) Démontrer  que la variable aléatoire M admet une espérance, dont on calculera la valeur -
+Concours Biologie et Géologie Session Juin 2013
+Épreuve de Mathématiques
+Page 5/5

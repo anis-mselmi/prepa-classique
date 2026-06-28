@@ -1,13 +1,309 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de ['Enseignement Supérieur; de la Recherche Scientifique et de la Technologie
+Concours Nationaur dEntrée aux Cycles de Formation d'Ingénieurs Session Juin 2004 (reparatore ^ (bisliotheque Concours Mathématique Physique et Physique _ Chimie Epreuve de Sciences et Techniques de PIngénieur etudes 5 Souncenieuss 7 Date 11 juin 2004 Heure : 8 H Durée 3H Nbre de pages 14
+Barème Partie A Conception (7 pts) Partie B : Mécanique Pts) Partie C : Automatique (6 pts)
+Remarques V/ Les parties A, B et C sont indépendantes et doivent être rédigées sur des feuilles séparées 2/ Les documents réponses DRI, DRZ, DR3 et DR4 sont à rendre en fin dépreuve 3/ L'usage dune calculatrice programmable est interdit
+RCL
+na
+CHAINE DE FABRICATION DE BOITES METALLIQUES Mécanisme de découpage
+Ata
+Présentation
+Le système faisant lobjet de cette étude est une chaîne de fabrication industrielle. Elle sert à produire des boites cylindriques, en tôle spéciale mince, destinées à l'emballage des conserves (confitures, tomates, thon etc. ~) Cette chaîne est composée principalement de trois unités qui concerent respectivement la préparation des fonds des boites; la préparation des flancs des boites et leur assemblage. Les deux premières unités fonctionnent en parallèle et fournissent la matière dœuvre à la troisième Le 'diagramme suivant résume les différentes étapes de production
+Préparation des FLANCS des boites
+(Unité 1)
+Magasin de tôles
+Assemblage des éléments des boites (Unité 3)
+Stockage des boites
+Préparation des FONDS des boites
+(Unité 2)
+Chaîne de fabrication de boites en tôle
+Dans ce travail, on se limite à l'étude du poste de_découpage   (poste 1) de lunité 1 : PREPARATION DES FLANCS DES BOITES EN TOLES >
+Concours Mathématique-Physique et Physique-Chimie Session Juin 2004
+Epreuve de STI
+Page 1/14
 
+--- page 2 ---
+Fonctionnement de Punité 1 :
+La préparation des flâncs des boites en tôle s ' effectue essentiellement en trois étapes
+Découpage des flancs detôle on obtient des bandes de forme rectangulaire.
+Cintrage des flancs c'est le pliage de la bande sous forme d'un cylindre creux ouvert.
+Soudage du bord on obtient un cylindre creux continu
+Le diagramme suivant illustre ces différentes opérations
+Arivée
+Découpage Bandes de tôle Cintrage des Flancs cintrés des flancs de flancs tôle découpées Poste 1 Poste 2
+Soudage du bord
+Flancs
+de la tôle
+soudés
+Poste 3
+Fonctionnement du poste de découpage (poste 1)
+Les  plaques de tôles initialement   préparées sont   déplacées vers le poste de découpage  par Tintermédiaire dun tapis roulant entraîné par un moteur (MTI) L'action simultanée de deux vérirs (C2) et (C3) sur la tôle; assure son maintien en position sous le mécanisme de découpage. Une fois la bande découpée; elle tombe sur un deuxième tapis roulant pour lamener au deuxième poste de cintrage (@igure !2 Mecanisns do decoupage
+Motcur MT2
+Vérin de malntien C2
+Tete de découpage
+Plaques de tôle
+Outil de decoupage
+Butée
+Bande de tôle
+Tapis roulant
+Moteur MTI
+Verip de
+Poste de cintrage
+positonpemcnt CT
+Vérin de mintien C3
+Tapis roulant
+Moteur MT3
+Figure 1 Poste de découpage
+Concours Mathematiquc-Physique et Physique-Chimic. Session Juin 2004
+Eprcuve de STI
+Page _ 214
 
+--- page 3 ---
+Partie A TECHNOLOGIE DE CONCEPTION
+A-I- Analyse fonctionnelle du poste de découpage
+La description fonctionnelle générale du poste de découpage est ébauchée sur le document suivant par le niveau A-0
+Energie pneumatique
+Ordres de
+fonctionnement
+Energie électrique
+Bruit
+Plaques de tôle non découpées
+Découper les plaques de Informations d'états tôle en bandes Plaques de tôle A-0 découpées en bandes Poste de découpage
+Le poste de découpage est principalement constitué de
+un tapis roulant _ moteur d'entraînement (MII) un ensemble de vérins_pneumatiques (CI) (C2)et (C3) pour positionner et maintenir la plaque sous le mécanisme de découpage un mécanisme de découpage pour découper les plaques de tôle en bandes
+X
+A-I-1- Le niveau A-0 relatif à la fonction globale < Découper les plaques de tôle en bandes ) se décompose en trois niveaux.  En utilisant les données de présentation   générale du poste de découpage, compléter l'actigramme niveau AO sur le document réponse DRI
+Le mécanisme de découpage est composé de un moteur électrique (MT22 un Lréducteur à engrenages permettant de réduire la vitesse de rotation un OIgane de transfomation du mouvement de rotation en un mouvement   de translation altemative; un outil de coupe permettant d'assurer ['opération de découpage
+A-I-2- Le niveau A3 relatif à la fonction principale Couper les plaques de tôle>, qui sera assurée par le mécanisme de découpage; se décompose à son tour en quatre niveaux, compléter sur le document réponse DR2 lactigramme niveau A3.
+A-II- Etude de conception Le mécanisme de découpage est modélisé par le schéma cinématique minimal de la figure 2 Cette représentation spatiale décrit le fonctionnement du système. Le mouvement dentrée est une rotation provenant du moteur MT2 Le mouvement de sortie est une translation altemative au niveau du coulisseau porte outil (6)
+Répondre aux questions posées sur le document réponse DR3.
+Concours Mathématique-Physique €t Physique-Chimie Session Juin 2004
+Epreuve de STI
+Page 3/14
 
+--- page 4 ---
+Pignon
+Motcur MT2
+Nolx (3)
+Doigt cxccntre]
+Coulisse (4)
+Z
+Bad (0)
+Rouc dentéc (2)
+Irjectolre de (4)
+Blelle (5)
+Coulisscau (0)
+BIti (0)
+Figure 2 : Schéma cinématique du mécanisme de découpage
+A-MII- Etude graphique On donne le dessin en perspective de la pièce (4). Compléter le dessin de définition de cette pièce sur le document réponse DR4 par A-III- 1-la vue de face A-II- 2-la vue de gauche en coupe A-A ; A-MI- 3- la vue de dessous A-III- 4- la section sortie B-B.
+Concours Mathématique-Physiquc et Physique-Chime. Session Juin 2004
+Eprcuve de STI
+Pagc7 24/14
 
+--- page 5 ---
+REPUBLIQUE TUNISIENNE Ministère de ]'Enseigncment Supérieur; de la Recherche Scientifique et de la Technologie
+Signature des survelllants
+Conconrs Nationaux d'Entrée aux Cycles de Formation d'Ingénieurs
+Session Juin .2004
+Concours
+MP = PC
+Epreuve ~STI Nom
+N' dc la feuille
+Total des doubles Fcuilles remiscs
+Ne rlen écrire Ici
+Prénom
+Institution dorigine
+Identification
+Série
+No de la fcuillc
+Total des doubles Fcuilles remiscs
+Document réponse DRI
+Partie A TECHNOLOGIE DE CONCEPTION
+A-I- Analyse fonctionnelle du poste de découpage
+A-I-1. Actigramme niveau AO Compléter les éléments manquants
+Ordres
+Information détat
+[Plaques de tôles
+Ordres
+Energie pneumatique
+non découpées
+Information d'étar
+Tapis moteur MTI
+Ordres
+A3
+Plaques de tôle
+découpées bandes
+Mécanisme de découpagc
+AO : Découpcr les plaques de tôle en bandes
+Concours Mathématiquc-Physique et Physique-Chimie. Session Juin 2004
+Epreuve de STI
+Page 5714
 
+--- page 6 ---
+NE RIENECRIRE ICI
+Document réponse DR2
+A-I-2. Actigramme niveau A3 : Compléter les éléments manquants
+Ordres
+Enagie électrique
+A31
+Moteur MT2
+A32
+Information d'état
+A33
+Organe de transformation
+de mouvement
+Plaques de tôle
+434 découpées en bandes Outil de découpage
+A3
+24.
+Concours Mathématique-Physique et Physiquc-Chimie.Session Juin 2004
+Epreuve de STI
+Page 6/14
 
+--- page 7 ---
+NE RIENECRIRE ICI
+Document réponse DR3
+A-II- Etude de conception
+A-II-1. Quelle est la nature et le symbole des liaisons suivantes
+Liaison
+Nature
+Symbole dans le plan
+entre (1) et (0)
+entre (3) et (4)
+A-I-2. Quelle est la condition qu' 'il faut respecter sur les axes du pignon (1) et la roue dentée (2), pour que la liaison au point Isoit linéaire rectiligne ?
+A-I-3. Par quelle liaison peut-on remplacer, au point C, la liaison pivot glissant entre la roue dentée (2) et la noix (3) tout en assurant le même fonctionnement ?
+Concours Mathematique-Physique ct Physique-Chimie.Session Juin 2004
+Epreuve de STI
+Page 7/14
 
+--- page 8 ---
+NE RIENECRIR E ICI
+8
+Document réponse DR4
+A-III- Etude graphique
+A - A
+B -B
+B |
+1 B
+Concours Mathématique-Physique et Physique-Chimie. Session Juin 2004
+Epreuve de STI
+Page 8/14
 
+--- page 9 ---
+Partie B ETUDE MECANIQUE
+L'étude portera sur le mécanisme de découpage décrit précédemment par la figure 2. On suppose que tous   les mouvements se   réalisent dans des   plans   parallèles.  La figure 3   représente  la configuration dans le plan (O,Xo ,Yo ) de ce mécanisme Elle illustre les principaux éléments qui le composent soient
+le bâti (0), le pignon (1) en liaison pivot d'axe (A,Zo) avec le bâti (0), la roue dentée (2) en liaison pivot daxe (0, Zo) avec le bâti (0). Un doigt excentré est encastré au point C sur la roue dentée (2). Pour des raisons simplificatrices; ce doigt est supposé en liaison glissière de direction X, avec la coulisse (4), la coulisse (4) en liaison pivot d'axe (B, Zo) avec le bâti (0) et en liaison pivot daxe (D,Zo) avec la bielle (5), le coulisseau (6) en liaison glissière daxe (E,Yo) avec le bâti (0) et en liaison pivot d'axe (E,Zo) avec la bielle (5).
+NB. Toutes les liaisons sont_considérées parfaites
+65562252009 dos C{cae; ing Repères et paramétrages dooa BielicaHrGu} Les repères et les paramètres adoptés sont définis comme suit Ro (O,Xo,Yo, 7o ) repère lié au bâti (0) supposé galiléen; tel que l'axe (O,7) est vertical ascendant, R, (AXiXY,,Zo ) repère lié au pignon (1), tel que w =(X oX )-@o€ ) , R? (O,X.Y.Zo) repère lié à la roue dentée (2) tel que 0 =@Xo Xz)=ÇoY ) , et OC=aXz R, (B,X.Y,,Zo) repère lié à la coulisse(4) tel que :& =(X oX.)=@YoY ) , Rs (EXsYsZo) repère lié à la bielle (5) telque : B =(XoXs)=@YoYs)
+Les positions des différents centres de liaison sont décrites par les relations vectorielles dA=rYo , OI=RYo . BO=eo DB = bX. ED = & Ys
+rR @, e, b, et { sont des constantes géométriques du mécanisme
+B-I- Etude Cinématique
+B-1-1 . Calculer les vecteurs vitesses instantanées   de   rotations suivants @(1/0) , &(2/0) , 7/4/0) , 3(5/0)
+Concours Mathématique-Physique et Physique-Chimic Session Juin 2004
+Epreuve de STI
+Page 9/14
 
+--- page 10 ---
+B-I-2. Déterminer le vecteur vitesse V(Iel/ Ro ) du point appartenant à (1) par rapport au bâti (0) B-1-3. Déterminer, le vecteur   vitesse de glissement  V(Ie2/l)du point appartenant à (2) par rapport à (1) B-14. Dans le cas de roulement sans glissement au point I, déterminer la vitesse angulaire en fonction de
+B-I-5. Déterminer   le vecteur   vitesse V(Ce2/ Ro ) du poim C appartenant (2) par rapport au bâti (0). B-I-6. Déterminer . le. vecteur   vitesse : V(Ce4/ Ro ) du point C appartenant à (4) par rapport au bâti (0) B-I-7. Déduire le vecteur vitesse de glissement 7(Ce2l4) au point C du mouvement de (2) par rapport à (4), l'exprimer dans la base (XY Zo) B-I-8. Donner la relation trigonométrique entre < 8 et e. En déduire la vitesse angulaire & en fonction de 8, 0 8 e et a B-I-9. Montrer que le vecteur vitesse de glissement au point C du mouvement de (2) par rapport à (4) se réduit à : V(Ce2l4) =a8 sin(a-OX B-I-10. Donner la relation trigonométrique entre Bet a En déduire la vitesse angulaire B en fonction de a, 0 b et & B-[-11 Déterminer le vecteur vitesse du coulisseau (6) par rapport au bâti (0) en fonction de a,&b et €
+B-II- Etudë Energétique
+On s'intéresse dans cette partie à létude dynamique de la coulisse (4) de masse M, de centre d'inertie G, et de moment d'inertie par rapport à l'axe (G+,Z Iaz, on donne BGa=c X' , c est une constante. Pour représenter Vaction mécanique du solide (j) sur le solide au point P, on utilisera la notation suivante Xji 0 {a)-+0}P Yji   0 0 Nji J(zs ,zo ) B-II-1. Calculer ['énergie cinétique de la coulisse (4) dans son mouvement par rapport au bâti (0). B-II-2. Donner dans la base (XX Zo) les torseurs des actions mécaniques extérieures appliquées sur la coulisse (4) aux différents points de liaisons: B-II-3. Calculer la puissance des actions mécaniques extérieures  appliquées SU la coulisse dans son mouvement par rapport au bâti (0). B-II4. Appliquer le théorème de lénergie cinétique à la coulisse (4) dans son mouvement par rapport au bâti (0).
+Concours Mathématique-Physique et Physique-Chimie Session Juin 2004
+Epreuve de STI
+Page 10/14
 
+--- page 11 ---
+iti (0).
+2) par
+Y
+en
+Pignop (1)
+X,
+pport
+7
+XI Doigt excentré
+'port
+Y
+Y
+XI
+par
+Roue dentée (2)
+en
+Xo
+tà
+Coulisse (4)
+Bielle (5)
+le
+Z0
+Bâti (0)
+x
+B
+Xo
+Coulisseau
+Figure 3. Schéma plan du   mécanisme de découpage
+Concours Mathématique-Physique et Physique-Chimie   Session Juin 2004
+Epreuve de STI
+Page 11/14
 
+--- page 12 ---
+Partie C: AUTOMATIQUE
+Dans cette partie, on s'intéresse à l'étude; dune part   de la commande du poste de découpage des flancs de boites et d'autre  part au maintien vitesse constante du   déplacement du tapis d'alimentation des plaques de tôles_
+C-I- Automatisation du dispositif de découpage des flancs
+La figure 1 représente le poste de découpage de tôles pour flancs de boites dont l'alimentation est assurée par un tapis roulant. Ce poste permet de découper des rectangles de tôle de dimensions appropriées sans déchets.
+Sur ordre de départ de cycle (Dcy), le tapis d'alimentation entraîné par un moteur MTI est mis en marche. La présence de la tôle détectée par un capteur Lo entraîne le serrage de cette demière par Favance simultanée des deux tiges des vérins Cz et C;. Les capteurs Lzi et L;1 sont activés. Ils entraînent ainsi la sortie de la tige du vérin Ca (solidaire aux   vérins Cz et C;) qui assure le déplacement de la tôle jusqu 'à la butée. L'actjvation du capteur L1 entraîne la descente de Ja tête de découpage commandée par un moteur MTZ L'action sur le capteur L41 indique la fin de Fopération de découpage. Une fois la tête de coupe est position haute; le capteur Lao commande le desserrage_de la tôle par le retour des deux tiges des vérins Cz et C;. L'action sur les capteurs Lzo et L3o entraîre la rentrée de la tige du vérin C; assurant le retour à la position initiale des deux vérins Cz et C;. Si la tôle n'est pas épuisée, un nouveau cycle reprend.
+Les actions et les informations nécessaires au  fonctionnement sont regroupées dans les deux tableaux suivants
+Capteurs Tige C rentrée Lio Tige C1 sortie & présence de Lu la tôle contre la butée Tige Cz rentrée Lzo Tige Cz_sortie Lzl Tige Cz rentrée Lo Tige C sortie La Tête de découpe en Lao position haute Tête de découpe en L41 position basse Tôle non épuisée Lo
+Actionneurs Sortir tige de C Rentrer tige de Ci
+SCI RCI
+Sortir tige de Cz Rentrer_tige de Cz Sortir tige _de C Rentrer tige de C Moterr d entraînement du tapis
+SC2 RC2 SC3 RC3 MTI
+Montée de la tête de coupe
+MT2
+Descente de la tête de coupe
+MT2
+NB : Les vérins utilisés dans ce système sont à double effet.
+C-I-1 . Etablir le Grafcet du point de vue système_du poste de découpage des flancs. C-I-2. Etablir le Grafcet du point de vue commande du poste de découpage des flancs.
+Concours Mathematiquc-Physique et Physique-Chimic. Session Juin 2004
+Eprcuvc dc STI
+Page 12/14
 
+--- page 13 ---
+C-II - Asservisscment en vitesse du moteur d'entraînement du tapis On s'intéresse dans cette partie à la modélisation et à la commande en vitesse du moteur MTI à courant continu
+C-II-1. Modélisation
+L'entraînement du tapis amenant les bandes de tôle est assuré par un moteur à courant `'continu MTI. La fonction de transfert générale de la commande de la vitesse de rotation angulaire du moteur utilisé est foumie sous forme de schéma bloc représenté par la figure 4 La modélisation du comportement du moteur   d'asservissement commande par F'induit est donnée par les équations ci-dessous u(t)=Ri(t)+Ldi@+e(t) (C.1) dt e(t)=K..@(t) (C.2) Cm(t)=Kci(t) (C.3) Jm d(2 = cm(t) -F,@(t) ~c; (t) (C.4) dt
+Les grandeurs physiques dans cette étude sont les suivantes U= L(u) est la tension de commande du moteur, E = L(e)est la force contre-électromotrice, I= L(i) est l'intensité du courant de commande du moteur; Cm L(cm) est le couple moteur, Cr = L(cr) est le couple résistant; 2= L(w) est la vitesse de rotation du moteur.
+où F = L(f) signifie que F est la transformée de Laplace de la fonction temporelle f. On note R : la résistance totale d'induit, L Tinductance totale d'induit, Ke le coefficient de la force contre-électromotrice, Kc le coefficient de couple, Fv le coefficient de frottement visqueux, Jm le moment d'inertie équivalent ramené sur arbre moteur
+C-Il-1.1. En supposant que les conditions initiales sont nulles pour toutes les variables du moteur, et à partir des transformées de Laplace des équations précédentes; compléter le schéma fonctionnel du moteur (figure 4), en précisant les blocs Bi (i=1 4)
+Cr(p)
+U (p)
+I(p) BI
+Cms (p) B2
+S(p)
+B3
+E(p)
+B4
+Figure 4. Schéma bloc moteur
+Dans tout ce qui suit, on suppose que le couple résistant est nul Cr=0.
+C-II-1.2. Etablir la fonction de transfert S(p G(p) U(p)
+Concours Mathématiquc-Physique ct Physiquc-Chimie. Scssion Juin 2004
+Epreuve dc STI
+Page 13/14
 
+--- page 14 ---
+C-II-2. Commande en vitesse du moteur Le moteur est entraîné par une génératrice à courant continu à vitesse constante, dont le schéma bloc de commande est représenté par la figure 5. L'ensemble moteur génératrice reçoit à l'entrée la consi gne de fréquence de rotation Olcons-
+con
+EG
+con
+C(p)
+F(p)
+VGT
+Kz
+Figure 5. Schéma de la commande du moteur
+Un dmnamo tachymètrique placé sur ]arbre du moteur foumissant une tension vGT(t) = b @(t) Les équations régissant le fonctionnement de la génératrice sont les suivantes u(t) ec(t) _ RG i(t) (C.5) ec(t) = a i (t) (C.6) v(t) =rin(t) - 1 di62 (C.7) dt où ec est la force électromotrice développée par la génératrice C(p) est un correcteur.
+On note V =Lv) I1 = L(ii) ; EG = L(ec) ~ VGr = L(vGT) où F = L(f) signifie que F est la transformée de Laplace de la fonction temporelle f.
+Données numériques Moteur R=0.4 Ohm, Ke = 1 V.slrad, Kc = } NmA Jm = 2 kg m? on néglige linductance (L) et le coefficient de frottement (Fv) Génératrice RG=0.4 ohm a=100ohm r=20ohm, 1 = SH. dynamo tachymètrique b = 0.2 Vlrads
+NB Pour toutes les questions suivantes; donner les expressions littérales puis numériques.
+C-II-2.1.Donner le schéma bloc complet du moteur-génératrice avec sa commande en précisant les blocs K;, Kz et F(p) C-Il-2.2. Calculer la fonction de transfert T(p) reliant la vitesse angulaire Q(p) à la tension de commande V(p) C-II-2.3. Calculer et représenter V'allure de la réponse du système non asservi moteur-génératrice (V, Q) à un échelon de tension de 10 Volts. Q(p) C-1l-2.4. Calculer la fonction de transfert du système en boucle fermée H(p) 5 (p cons C-II-2.5.Dans le cas d'un correcteur proportionnel C(p) A montrer que le système asservi est un système de second d'ordre de pulsation propre @a de coefficient d'amortissement 5 et de gain statique K C-II-2.6. Déterminer la valeur limite du gain A, telle que la réponse à un échelon ne présente pas de déplacement.
+Concours Mathématiquc-Physiquc c1 Physiquc-Chimie Scssion Juin 2004
+Eprcuve dc STI
+Page 14/14

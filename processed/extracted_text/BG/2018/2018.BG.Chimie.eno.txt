@@ -1,21 +1,310 @@
+--- page 1 ---
+Instructions Cette épreuve comporte 12 pages. Tout résultat doit être écrit dans les cadres adéquats. Seul l'usage des calculatrices électroniques de poche non programmables est autorisé. Les résultats numériques sans unité ou avec une unité fausse ne seront pas comptabilisés: Aucun échange entre les candidats n'est autorisé. Si au cours de lépreuve, un candidat repère ce qui lui semble être une erreur dénoncé, il la signale sur sa copie et poursuit sa composition en indiquant les raisons des initiatives qu'il est amené à prendre.
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 12. PAGES NUMEROTÉES 1 sur 12, 2 sur 12, 12 sur 12.
+{:;49
+1:; , : ,
+Chimie inorganique
+Dans cette épreuve on traite les chapitres suivants
+Atomistique-liaison chimique Cristallographie Équilibre solide-liquide Électrochimie
+Page 1 sur 12
+Concours Biologie et Géologie- Session MailJuin 2018
 
+--- page 2 ---
+Notations et données numériques Les gaz sont supposés parfaits. Les mélanges liquides sont supposés idéaux. Notations Les abréviations suivantes sont utilisées pour désigner létat physique des constituants (g) pour gazeux, (sd) pour solide; (liq) pour liquide et (aq) pour aqueux . Xi la fraction molaire de < i > dans la phase liquide. Yi la fraction molaire de < i > en phase vapeur. Lexposant * signifie corps pur. Constantes physiques Constante des gaz parfaits R = 8,314 JK-1 mol  Constante de Faraday F = 96500 Cmol' . Constante d'Avogadro NA = 6,02x1023 mol  Pression standard p =lbar. Données numériques Masses molaires atomique (en g.moll ') de : Sn =118,7 ; Numéro atomique Z (oxygène 0) = 8. À 298K, Potentiels_redox standard (à pH = 0) Fe+ 2+ Fe Sn Sn sd) H* / Hz(g) O,(g) /H,0 E9 (v) 0,77 -0,14 0 1,23
+Produit ionique de 1eau Ke =1014. RxT X Ln(x) =0,06 xlogio (x) (en V) _ F
+L'étain Sn est un élément chimique   utilisé dans la fabrication du bronze et de revêtement des boites métalliques alimentaires.
+Page 2 sur 12
+Concours Biologie et Géologie- Session MailJuin 2018
 
+--- page 3 ---
+Problème I : Atomistique-liaison chimique 1) Dans le tableau périodique des éléments chimiques, létain Sn > se trouve à la Sème ligne et dans la même colonne du carbone 6C. 1-a) Écrire la configuration électronique de la couche de valence de Sn. Carbone; Couche de valence ns? np Couche de valence de Sn 5s2 5p2 0,25
+1-b) Donner_la structure électronique de cet élément à 1état fondamental Sn: Is? 2s2 2p6 3s2 3p' 4s2 3d"0 4p' 5s2 4d"0 5p 10,25 1-c) Déduire le numéro atomique Z de Télément Sn Z = 50 10,25
+2) En présence du dioxygène, Tétain peut donner les entités chimiques suivantes SnOz et SnO,?-. Préciser pour chacun de ces deux entités
+SnO2
+SnO32 -
+0
+2-a) Représentation de Lewis
+Su
+0=Sn=0
+10,5
+10,5
+2-b) Type VSEPR
+AXz
+AX;
+0,25
+0,25
+Droite
+Triangle 0,25
+2-c) Figure de répulsion
+10,25
+Page 3 sur 12
+Concours Biologie et Géologie- Session MailJuin 2018
 
+--- page 4 ---
+Problème Il : cristallographie Létain cristallise sous trois variétés cristallines; Fune dentre elles Sna est de symétrie cubique appelée Fétain gris . Dans cette variété, les atomes d'étain occupent les nœuds du réseau cubique à faces centrées et la moitié des sites tétraédriques de façon alternée. 1) Rappeler les positions et le nombre des sites tétraédriques (T) et octaédriques (0) dans une maille cubique à faces centrées: Dans la maille; CFC, il y a 8 sites tétraédriques; situés aux centres des huit petits cubes darêtes a/2. 0,25 0,25
+10,25
+0,25
+Dans la maille, CFC, il y a 4 sites octaédriques, situés aux milieux des arêtes et au centre du cube. 2 Représenter le contenu de la maille ci-dessous. Sn
+J0,5
+plan(0232
+b
+a
+3) Représenter sur la même figure de la question précédente, le plan le plus proche de Torigine de_la famille de_plans réticulaires (023) Le plan (023 coupe 10,5 L'axe des x à Finfini donc il est parallèle à (Ox) ; laxe des y en 1/2 et laxe des z en 1/3.
+4) Sachant que le para .nètre de la maille est (a = 649 pm), donner 1expression puis calculer la distance entre deux plans consécutifs_pour cette_ même_famille Dans le système cubique, le paramètre < a > est lié à la distance inter-réticulaire par la relation
+0,25
+a
+dhkl Vh ?_ +k2 +12
+Application numérique 10,25 649 dn' =180 pm v4+9
+Page 4 sur 12
+Concours Biologie et Géologie- Session MailJuin 2018
 
+--- page 5 ---
+5) Sachant que les atomes d'étain sont tangents selon la grande diagonale du petit cube d arête a/2 donner Lexpression puis calculer le rayon métallique de Sna: Selon la grande diagonale du cube darête a/2 :
+a x v3 = 2x Rsn
+0,25
+a X v3 Rsn 7 8 Application numérique 0,25 649x v3 Rsn =141 pm 8 Déduire la compacité du réseau: La compacité est donnée par la relation
+4 natom (Sn)x 2 XT x R3 3 ~Sn
+0,25
+a
+4 4 * v3 atom (Sn)x ~XI X 3 8
+Application numérique 2 1 1 natom (Sn) =8x=+6x_+4 =8 8 2 v3 Ç = XT = 0,34 16 0,25
+7) Donner lexpression puis calculer la masse_volumique de létain La masse volumique 'u métal est donnée par la relation : 0,25 natom (Sn)x Msn p = NA * a
+Application numérique 8x118,7x10-3 p = = 5770 kg.m 6,02x1023 x (649 x10-12
+0,25
+Page 5 sur 12
+Concours Biologie et Géologie- Session MailJuin 2018
 
+--- page 6 ---
+Problème Ill : équilibre solide-liquide On considère le diagramme déquilibre solide-liquide du système MgSn-MgzGe à pression constante (p = Ibar) 1300 1300 p = 1 bar 1200 1200
+1115 1100
+1100
+1000
+1000
+900
+0,33
+07
+900 6
+8609€
+Soo 778 1 700 600
+80o 700 1 600
+(D
+500
+50o
+400
+400
+300
+300
+200
+200
+0.1
+0.2
+0.3
+0.4 0.5 0.6 fraction molaire
+0.7
+0.8
+0.9
+Mg-Sn
+MgzGe 1) Indiquer la nature des_phases_présentes dans les domaine (1), (II) et (III) . Domaine (I) liquide Domaine (II) solutions solide Mg2Ge dans MgSn (solubilité parfaite de MgzC Ge dans MgSn). 0,75 Domaine (III) a : solution saturée de MgzC Ge dans MgzSn + B solution saturée de MgzSn dans MgzGe 2) Nommer les courbes (1) (2) et (3) (voir le diagramme ci-dessus Courbe (1) liquidus
+Courbe (2) solubilité de MgzGe dans MgSn
+10,75
+Courbe (3) solubilité de Mg2Sn dans MgzGe 3) Écrire équation chimique de la transformation qui a lieu à la température 860'C. liquide XMgzSn =0,12)+ B XMg?? Sn = 0,78) = % XMgz" Sn = 0,33) 10,25
+Page 6 sur 12
+Concours Biologie et Géologie- Session MailJuin 2018
+cou rbe ( [2
 
+--- page 7 ---
+4 Donner le nom de cette transformation Transformation péritectique 10,25 5) On refroidit jusqu'à la température de 400C,10 mol dun mélange liquide refermant 7 mol de MgzC Ge 5-a) Tracer Fallure de la courbe danalyse   thermique qui accompagne ce refroidissement. 0-€
+1- fraction molaire 0,25 2- titres des axes 0,25 [3- allure et températures 0,25
+IJg?Ge = 0,7
+1070
+860
+400
+temps
+5-b) Donner à la   température   1000'C, la nature des   phases en présence et  leur composition puis calculer leur quantité de matière en mol. À 1000 'C, les phases liquide XMgzC Ge = 0,46 )et B XMga' Ge = 0,92 )sont en équilibre . En appliquant la règle des segments inverses n8 [0,25 0,7 - 0,46 = liq = 1,09 n 0,92 -0,7 nB + nliq = 10 .nol 10,25 On obtient : 2,09x nliq = 10 mol 10,25 nliq = 4,78 mol nB = 5,22 mol 0,25
+Page 7 sur 12
+Concours Biologie et Géologie- Session MailJuin 2018
 
+--- page 8 ---
+Problème IV : électrochimie Étude des cellules électrochimiques On réalise à 25 C, une cellule électrochimique constituée par deux compartiments À gauche, le couple Sn 12+ISn avec [Sn?+] = 0,01 molL-' À droite; lélectrode standard à hydrogène. La force électromotrice de cette cellule est égale à +0,2 V.
+1-a) Écrire l'équation-bilan de la réaction correspondant à cette cellule: Sn+ 2H+ Sn?+ + H2(g) 10,25
+1-b) Donner 1expression de la force électromotrice E= ED - EG = Eu JHz( g) Esn?* /Sn 10,5 [H+ E =EP + 0,06 X logio ' ESH : [H*] = 1 molL-' et pH2 = Ibar 2 Sn?+ PHz p 0,06 E =Ee X 1ogio ' Sn?+ 2 1-c) Déterminer le potentiel standard délectrode du couple Sn?+ISn. 0,06 0,2 = E9 H, ESn * |Sn X 1ogio Sn?+ ) 2 10,5 0,2=-E88*/sa ~0,03x logio Sn2+ ESn - |Sn =~0,2-0,03x logio Sn*+]) =-0,2-0,03x logio (10-2)=-0,14v
+2) On réalise à 25 C, une deuxième cellule électrochimique constituée par deux compartiments gauche, le couple Sn?+ISn. À droite, le couple Fe3+IFe?+_ 2-a) Schématiser avec toutes les indications utiles cette cellule Sn?+ Snsd) Ee ~0,14 V 0,25 Fe+ / Fe 2+ Ee = 0,77 V voltmnctic 0,25
+pont salin
+Sn
+Platine
+10,25
+Sn'
+Fels
+Sn = Sn?+ +2e oxydation pole ( )
+Fe'+ + e = Fe?- réduction pole (+)
+[0,25 0,25
+Page 8 sur 12
+Concours Biologie et Géologie- Session MailJuin 2018
 
+--- page 9 ---
+2-b) Quelles sont les concentrations correspondant à la force électromotrice standard de cette cellule ? [Sn2-] = 1 molL-' 0,25
+[Fe2+] = [Fe3+] = 1 molL-' 0,25 2-c) Écrire 1équation-bilan de la réaction chimique associée à cette pile Sn + 2Fe+ Sn 2+ 2+ = + 2Fe 0,25
+2-d) Déterminer sa constante déquilibre. 4,G* =-nx Fx Es =-RxTx Ln( Ke 2 logio (K ) = X '(0,77+0,14)=30,33 0,06 nx F 0,25 KT =1030,33 = 2,14x1030 Ln(Kp ) = x Ee RxT nx F [0,25 Ln( xp ) = ER|Fe Ea * |Sn RxT n logio (Kp ) = X ER |Fè Ee 0,06 'Sn?+ |Sn
+10,25
+Il) Étude thermodynamique diagramme E-pH On donne le diagramme E pH de létain, limité aux entités en solution Sn4+ Sn2+ et aux espèces solides Sn, Sn(OH)2 et Sn(OH)4. E() pH 150
+1.00 f(1)
+92)]
+(2)
+0.50
+1.24
+H2O
+0.00
+(3)
+0.316
+~0.50
+3.7k
+1.00
+1.50
+Page 9 sur 12
+Concours Biologie et Géologie- Session MailJuin 2018
+(Hzo)
 
+--- page 10 ---
+Le diagramme a été tracé à 298 K, avec les conventions suivantes La concentration totale de létain à l'état dissous est égale à Ctra. Sur une droite frontière séparant les domaines de deux entités dissoutes, les concentrations en élément étain dans chacune de ces deux entités sont égales. II-1) Indiquer pour chacun des domaines numérotés de (1) à (5) sur le diagramme; à quelle entité chimique correspond-il 2 Justifier la réponse; Domaine (1) Sn4+ Justification 0,25 10,25 Domaine (2) Sn(OH)4 [V Sn++ Sn(OH)4
+Domaine (3) Sn2+
+Sn? 
+Sn(OH)z
+10,25
+Domaine (4) Sn(OH)2
+Sn
+Domaine (5) : Sn
+II-2) Déduire par lecture du diagramme la valeur de_ la concentration C 'tra: Sn?+ Sn: Sn?+ + 2e = Sn 10,25 Application numérique : E, = E? +0 06 xlogio Sn?+ 1ogio (c ~0,316+0,14 =-5,9 2 tra 0,03 Ez = E0 +0,03 x logio  (Cta 0,25 Cra =10-6 molL' 1ogio  (Ctra ) = E_ES 0,03 0,25
+II-3) Déterminer la valeur de la grandeur pKsI associée au produit de solubilité KsI de Sn(OH)4(sd) sachant qu'à  léquilibre, la concentration de Sn4+ s'écrit sous la forme Sn4+ ] =-1,02 4+ logio ~ 4x pH Sn( OH) 4 = Sr +4HO 1ère méthode : 0,25 À léquilibre,  Ks De (1) logio Sn4+ Sn- ]*[Ho ] J) =-pKs +4x pK, ~4x pH 0,25 En plus, logio  Sn 4+ 2 ]=-1,02-4x pH 1ogio Ks 1ogio  Sn ][Ho ] ) Par identification Ke pK = _ ([Sn'+ ])-4xlogio pK +4x -logio pK =-1,02 0,25 s1 [H+] Il vient alors, pK =4x14+1,02 =57,02 2ème pH = pK X pK Sn4+ J)) ( méthode 's1 + logio  4 10,25 Par lecture du diagramme (pH-1,24) et à Vaide de Péquation (1) : 1,24 = 14 _ Lx(pK, s1 -6) > 4 pKsI = 57,04 Page 10 sur 12 Concours Biologie et Géologie- Session MailJuin 2018
 
+--- page 11 ---
+II-4) Déterminer la valeur de la grandeur pKs2 associée au produit de solubilité Ksz de Sn( OH)2(sd ) en utilisant les valeurs ci-dessous des_potentiels chimiques standard à 298 K Entités Sn(OH)2(sd) Sn2+ HO- L kJ mol-' 491,57 -26,22 -157,15
+Sn( OH ) 2 Sn?+ + 2HO 0,25 2xu HO +] pK Sn?+ H Sn(OH )2 4,G9 = Ev;xu; =-RxTx Ln( Ks) s2 2,3x Rx T 10,25 0,25 Application numérique V;*]; 2x (-157,15) - 26,22+491,57 pK s2 = = -logio (Ks2) = pKs2 73 = 26, 51 2,3x Rx T 2,3x8,314x10 x 298 II-5) Établir la relation puis calculer la valeur du potentiel standard délectrode du couple Sn(OH)2(sdySn(sd) à partir du potentiel standard d'électrode du couple Sn?+ , /Sn(sd) et le_produit de solubilité Ksz de Sn(OH)2(sd) Ière méthode Sn(OH) 2 +2HD + Hz = Sn+ 2HG + 2H20 A,G8 =-2x F x Esn(oH) Sn Sn?+ +2Hz = Sn+2HG A,G? =-2x Fx ESn* |Sn Sn( OH)2(sd) Sn?* + 2HOD A,G =-RxTx Ln( Ksz HO= HD + HOD A,GP =~Rx Tx Ln(K) A,G4 =A,G8 + A,GE _2* A r € G,f ~2x F x ESn(oH )2/ Sn =-2x Fx Esn - Sn RxTx Ln(Ks)+2x RxT x Ln(K ) RxT Ksz Esn(OH)2 / Sn = Ee 'Sn?+ /Sn + x Ln 2x F K2 2ème méthode Pour pH < 3,74 on a le couple (2) Sn+ +2H2 = Sn+2HG E, = E? +0,06x logio ' Sn?+ ]) (1) 2 Sn( OH Sn?+ )z(sd) + 2HO- K "S2 =| Sn2+ ][Ho ] K Quand le solide existe Ez Es et | Sn?+ ] = HO ]
+0,06 Ksz Es = E8 + xlogio (2) 2 Ho ] 0,06 Ksz Es = E8 + xlogio -0,06x pH (3) 2 K2 En plus;, pour pH 2 3,74 on a : Sn(OH )2 +2HD + Hz = Sn+2HG + 2H20 0,06 Es = E? + xlogio H ]) = EP -0,06x pH 2
+E? = E? +0,06 Ks Par identification (3) et (4) on obtient xlogio 0,25 2 K2 0,06 10 426.51 Application numérique Esn(OH )z/ Sn = ~0,316+ xlogio = ~0,095 V 2 10-28
+0,25
+Page 1l sur 12
+Concours Biologie et Géologie- Session MailJuin 2018
 
+--- page 12 ---
+II-6) Sur le même diagramme de la page 9 sont portées; en traits pointillés; les droites (a) et (6) délimitant le domaine de stabilité thermodynamique de l'eau. 6-a) Indexer le diagramme E-pH de leau A répondre sur le diagramme 0,25 6-b) Que peut-on dire de la stabilité de Pétain Sn > vis-à-vis de leau; pour des valeurs de_pH 7 ? Écrire les équations bilans des réactions éventuelles. Pour pH 3,74, létain a un domaine disjoint de celui de Feau. Il doit être attaqué du point de vue thermodynamique Sn + 2H = Sn?+ + Hz(g) 10,25
+Pour 3,74 pH < 7 l'étain a un domaine disjoint de celui de Teau: Il doit être attaqué du point de vue thermodynamique : Sn+ 2H,0 = Sn(OH)2(sd) 4 Hz(g) 0,25
+FIN DE LÉPREUVE
+Page 12 sur 12
+Concours Biologie et Géologie- Session MailJuin 2018
 
+--- page 13 ---
+Instructions Cette épreuve comporte 12 pages. Les trois problèmes sont indépendants: Tout résultat doit être écrit dans les cadres adéquats. Aucun échange entre les candidats n 'est autorisé. Si au cours de lépreuve, un candidat repère ce qui lui semble être une erreur d'énoncé, il la signale sur sa copie et poursuit sa composition en indiquant les raisons des initiatives qu'il est amené à prendre.
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 10 PAGES NUMEROTÉES 1 sur 12, 2 sur 12, 12 sur 12.
+Chimie organique
+Page 1 sur 12
+Concours Biologie et Géologie- Session MailJuin 2018
 
+--- page 14 ---
+Notations et données numériques
+Numéros atomiques Z : H = 1, C = 6,N=7,0 = 8, Br = 35
+ 
+Page 2 sur 12
+Concours Biologie et Géologie- Session MailJuin '2018
 
+--- page 15 ---
+Problème 1 (4 points) 1- Pour le composé ! écrire les équilibres céto-énoliques possibles. En justifiant la réponse; déterminer la forme la plus stable.
+H3C
+CH3
+H3C
+OEt
+" -
+1-
+2- Attribuer à chacun des deux composés Iet II son pKa. Justifier la réponse. On donne à 25 C, les pKa = 8,84 et 10,68.
+2 -
+Page 3 sur 12
+Concours Biologie et Géologie- Session MailJuin 2018
 
+--- page 16 ---
+Problème 11 (6 points)
+ (
+La gelée royale H a diverses vertus nutritionnelles et  médicinales . Lune des voies de synthèses  peut être  réalisée à partir de la cycloheptanone A selon la suite réactionnelle suivante
+A
+1 MeMgBr, Et20 2" HzO, H+
+H2SO4 (cc) 1" 03 C(Majoritaire) D 20 H2O, Zn
+B
+EtOzC-CH2-CO2Et
+H2SO4 (cc) E(C1sH2606) F (Majoritaire
+H2O, Ht G 2 EtOH
+EtO Na* /EtOH
+H2O, Ht
+H : HOOC
+E donne un test iodoforme positif. 1 - Déterminer les structures chimiques des composés B, C, D,E et F.
+1 -
+Page 4 sur 12
+Concours Biologie et Géologie- Session MailJuin 2018
 
+--- page 17 ---
+2- Quel produit minoritaire C' , obtient-on à côté de C ?
+2
+3 - Détailler les mécanismes réactionnels des étapes A > Bet D >E.
+Mécanisme A 3B
+ `   . ;    < 4846 .  . `  s    `  3 ioobs^ W 4oblaoi ruroorino n  ' , 8  V/ 08 ` 3 Mécanisme D 9 E 1 . oio  1 :,  n   .e ; ^ . :4l 7 8 1g?   s ; ;  4  : , s  7
+ ' Vern /  2 6 . 1' auiid 1t  1 
+4- Donner la formule semi-développée de G. En fait, la réaction de formation de G à partir de F est en équilibre et le réactif et le substrat coexistent. Comment peut-on favoriser le déplacement de cet équilibre dans le sens de la formation de G ? Page 5 sur 12 Concours Biologie et Géologie- Session MailJuin 2018
 
+--- page 18 ---
+ gd
 
+4-
+5- Donner le nom de la gelée royale Hen nomenclature internationale (IUPAC)
+5-
+Problème I7I (10 points) Quatre   composés isomères A1, Az, A; et A4, optiquement   actifs, de formule brute C-H14 subissent les réactions suivantes
+Lhydrogénation catalytique sur Nickel de A1 et Az donne un même composé B_ Lhydrogénation catalytique sur Nickel de A; et A4donne un même composé C Par ozonolyse; suivie dune hydrolyse en milieu réducteur, A1, Az, A} et Agfournissent respectivement D1, D2, D; et D4, chacun accompagné de méthanal. Seul D1 issu de Fozonolyse de A1, renferme une fonction cétone.
+1 - al En   réagissant avec KMnO4 dilué, A1 fournit le   2,3-diméthylpentan-1,2-diol. Représenter cet isomère A1
+1-a
+e f [ ... . 6v. ' .  . .~ . , s 7o    : ' ' 1d 88 Wo ( ^ Page 6 sur 12 Concours Biologie et Géologie- Session MailJuin 2018
 
+--- page 19 ---
+1-b/ En déduire la structure de Az;
+1-b
 
+2 - Sans discerner entre les deux, représenter les isomères A; et A4:
+2-
+3- Ecrire toutes les réactions mises en jeu et déterminer les structures de B, C, D1, Dz; D3 et D4.
+Formation de B :
+3 -
+Formation de C :
+Page 7 sur 12
+Concours Biologie et Géologie- Session MailJuin 2018 3
 
+--- page 20 ---
+i  W   
+Formation de D1, Dz, D3 et D4 :
+)  . ae
+4,12;1 7 .
+
+8  
+3 -
+1
+ 
+Page 8 sur 12
+Concours Biologie et Géologie- Session MailJuin 2018
+
+--- page 21 ---
+4- On considère le stéréoisomère (R) de A1 sur lequel on réalise les réactions suivantes
+H2O/H2SO4
+EtO Na
+A1 (R)
+F
+G majoritaire
+EtOH
+a - Donner les formules semi-développées spatiales de E, F et G.
+b- Quel est le produit minoritaire obtenu à côté de G ?
+4-b
+Page 9 sur 12
+Concours Biologie et Géologie- Session MailJuin 2018
+PBr;
+4-a
+
+--- page 22 ---
+Sachant  que lajout de EtO Na" modifie   considérablement  la cinétique de la réaction; représenter le mécanisme réactionnel de la réaction F 9G.
+4-C
+;n:` ^
+FIN DE LÉPREUVE
+Page 10 sur 12
+Concours Biologie et Géologie- Session MailJuin 2018

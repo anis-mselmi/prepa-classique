@@ -1,3 +1,64 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère d /Erseicnemnt Supérieu etdë la Rexhrche Scienttique
+~niu8)
+UlLlfa; ciaL Jxnyly SJLJi Kujinxja,ji 2016 ;,9'
+Concurs Nationaux dEntrée aux Cyde de Fornuation d'Ingénieurs Session 2016
+Concours Mathématiques et Physique Epreuve de Mathématiques II
+Date:   Mercredi Juin 2016
+Heure 8 H
+Durée: 3 heures
+Nb pages:
+Une grande importance sera attachée à la rigueur du raisonnement; à la clarté au soin   de la présentation. L'usage des calculatrices n'est pas autorisé. Il est rappelé que tout résultat énoncé dans le terte peut être utilisé pour traiter la suite; même s'il n'a pu être démontré.
+Problème
+Soit n un entier naturel supérieur ou égale à 2 et E un K espace vectoriel (K = R ou C) de dimension finie n. On note par
+L(E) Palgèbre des endomorphismes de E K[X] Talgèbre des polynômes à une indéterminée et à cœfficients dans K Pour tout f € C(E) et P € K[X] tel que P(X) = ao + a1X + ~@pXP, on note par id lapplication identité de L(E) fP = f 0 f 0 0 f et fo = id. p fois P(f) aoid + a1f + -apfP C(f) = {g € C(E);g 0 f = f 0 9} K[f] = {P(f); P € K[X]} Sp(f) Vensemble des valeurs propres de f Si P(f) = 0, on dit que P est un polynôme annulateur de f On dit que f est une homothétie s'il existe  € K telle que f = Xid. Pour toute partie finie A, Card( A) désigne le nombre d'éléments de A
+Partie I
+Dans cette partie; désigne un élément non nul de C(E) et B = (e1,
+en ) une base de E
+1) Soit À € Sp(f) et z un vecteur propre de f associé à X.
+Concours Mathématiques
+Physiquc Session Juin 2016
+Épreuve dc Mathématiques II
+Page 1/4
 
+--- page 2 ---
+Montrer que, pour tout k € N*_ fk(z) Àkæ. b) En déduire que, pour tout P € K[X] P(f)(z) = P(A)æ. Montrer que, si P est un polynôme annulateur de f , alors P(A) = 0. d) En déduire que, si P est un polynôme n annulateur on nul de f , on a Card(Sp(f)) < degré( P)
+2) a) Vérifier que K[f] est un sous espace vectoriel de L(E) b) Soit P un polynôme annulateur de f de degré p dans N Montrer que K[f] = Vect(id, f;. . . , fP-1) Montrer que K[f] = Vect(id, f , fn-1 ) . En déduire que dim K[f] < n. 3) Vérificr quc C(f) est un sous espace vectoriel de C(E) b) Montrer que K[f] € C(f) Soit z € El{0} et y € E. Montrer que si (æ,y) est liée; alors il existe À € Ktel que y = Àr Ce résultat reste t-il vrai si 2 = 0?
+On suppose que, pour tout æ € E, (x,f(æ)) liée Montrer que; pour tout i € {1, n} il existe X; € K tel que f(ei) = Aiei. b) Montrer qu'il existe X € K tel que f(e1 + + en) = X(e1 + + en) En déduire que f est une homothétie.
+On suppose que f n'est pas une homothétie.
+Montrer qu'il existe 21 € E tel que (æ1,f(z1)) libre. On pose æ2 f(s1) b)   Justifier Fexistence de 23, In € E tel que (T1, In) soit une base de E Soit 9 € C(E) tel que g(æ1) X1 et g(æi) 0 pour tout i € {2, ,n}- i) Calculer g 0 f(æ1) et f 0 g(æ1). ii) En déduire que 9 $ C(f)
+En déduire de ce qui précède que C(f) = L(E) si et seulement si f est une homothétie.
+Partie II
+Dans cette partie; f désigne un élément non nul et diagonalisable de L(E) On pose Sp(f) = {X1,  Xk } les X; sont distincts deux à deux) . Pour tout 1 < i < k, Ex;(f) désigne le sous espace propre de f associé à À; et n; sa dimension.
+On rappelle que E = @EA;(f) i=z1
+Concours Mathématiques et Physique Session  Juin 2016
+Épreuve de Mathématiques II
+Page 2/4
 
+--- page 3 ---
+B = (01, Un ) une base de E adaptée à cette décomposition_ B = ((hij)1sijsn) la famille de C(E) définie par hij (vm) = SjmUi, pour tout < i,j;m < n où &jm désigne le symbole de Kronecker_ Cest à dire &jm = 0 j # m et &jm = 1 si j =m. Pour tout 1 <1 < k, on pose I1 lintervalle entier
+I1 = [n1 + 4 nl-1 + 1,n1 + + n]
+avec la convention I1 = [1,n1] 1) Montrer que B = ((hij)sijsn) est une base de L(E)
+2)
+Vérifier que II(x X;) est un polynôme annulateur de f i=1 b) En déduire que dim K[f] = k.
+3) a) Vérifier que UI. [1,n] Iz b) Vérifier que si 1 <l#" < k, on a I1nIv = 0
+Montrer que Card(UI?) = En?. lzl lzl Soit 1 < 1 < k Montrer que hij € C(f) pour tout (i,j) € 1?. 5) Soit g € C(f) Montrer lexistence de (aij )1si,j<n Kn? tel que g = 2 Qijhij I<ij<n b) Soit 1 < l < k et m € I1 Montrer que Qim =0 Vi 4 I1.
+6) En déduire que Vect hij (i,j) eUn) = c(f) 2=1
+En déduire que dimC(f) = n2 Izl On suppose de plus dans cette question que k n. Montrer que C(f) = K[f] 9) Exemple
+Soit f lendomorphisme de R3 dont la matrice dans la base canonique est donnée par
+=1
+=1
+Déterminer C(f)
+Concours Mathématiques et Physique Session Juin 2016
+Épreuve de Mathématiques II
+Page 3/4
 
+--- page 4 ---
+Partie III
+Soit un endomorphisme non nul de L(E) de spectre {X1, deux) . Soit p € N*
+Xk} les X; sont distincts deux
+1) Montrer que C(f) € C(fP). 2) On suppose dans cette question que K = R et f est diagonalisable. En utilisant la question 1) a) Partie I, montrer que dimC(f) = dimC(f2p+1) b) En déduire que C(f) = C(f2p+l). Montrer que les assertions suivantes sont équivalentes: i) C(f) = C(f2p) ii) C(f) = C(f2). iii) À; # _ Xj pour tout 1 < i # j < k. 3) On suppose dans cette question que K = C et f est diagonalisable   Les résultats de 2)b) et 2)c) restent-ils vraie? On suppose dans cette question que K = R et f n'est pas diagonalisable   Les résultats de 2)b) et 2)c) restent-ils vraie? 5) On suppose dans cette question que f est diagonalisable.
+On suppose que dimC(f) = 3 i) Montrer que n = k = 3. ii) En déduire C(f) b) Montrer que si dimC(f) < 1l, alors n _ k < 2.
+Concours Mathématiques ct Physique Session Juin 2016
+Épreuve de Mathématiques II
+Page 4/4

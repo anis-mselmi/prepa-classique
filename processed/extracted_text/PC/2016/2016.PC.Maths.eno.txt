@@ -1,3 +1,74 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministere d /Enseignenent Supérieur #de la Recherche Stientiflque
+49gij}
+&ULyisss EaLaL Jpwuajli @x Ja,ui 2016 8,)*
+Cancours Nationaux dEntré aux Cyde de Formaüon  dInpénieurs session 2016
+Concours Physique et Chimie Epreuve de Mathématiques Date: Jeudi 26 Mai 2016 Heure 8 H Durée: 4 heures Nb pages
+Une grande importance sera attachée à la rigueur du raisonnement; à la clarté et au soin de la présentation: L'usage des calculatrices n'est pas autorisé. Il est 'rappelé que tout résultat énoncé dans le texte peut être utilisé pour traiter la suite, même s'il n'a pu être démontré.
+EXERCICE
+Pour n € N*, on note Mn(C) Tespace vectoriel complexe des matrices carrées dordre n à coefficients dans C et In la matrice identité de M(C). On dit qu'une suite (Mk)keN d'éléments de Mn(C) converge vers M € M(C) si et seulement si, pour tout (i,j) € {1, ,n}2, chaque terme mi,j(k) de Mk converge vers le terme m;,j de M. MMM.` M; si p 21 Pour M € M (C) et p € N, on note MP P fois In, si p =0. Soient U, V deux éléments de M(C) et Q une matrice inversible de Mu(C) telles que U = QvQ-1. Montrer que, pour tout p € N, UP = QvPQ-1 . Soit M € M2(C) diagonalisable.   Donner une condition nécessaire et suffisante sur les valeurs propres de M pour que la suite (MP) peN converge vers la matrice nulle de M2(C).
+B 3. Soit (a,B) € C2. On pose T = et N = T _al2. 0
+Calculer N2 En déduire que, pour tout p € N*, TP = aPI2 + paP-IN. (c) Montrer que la suite (TP) peN converge si et seulement si T = I2 ou Jal < 1. Soit M € M2(C) non diagonalisable.
+Montrer que M admet une valeur propre double ao dans €
+(b) En déduire que M est semblable à une matrice triangulaire supérieure dans Mz(C) que Pon précisera. (c) Montrer que la suite (MP)peN converge si et seulement si |aol 1. En cas de convergence, préciser la limite de cette suite.
+Concours Physique ct Chimie Session 2016
+Épreuve de Mathématiques
+Page 1/4
 
+--- page 2 ---
+5. Soit (a,B,Y) € C3 . On pose A =
+B
+Calculer AP , pour tout p € N.
+(b) Etudier la convergence de la suite (AP) peN.
+PROBLÈME
+On note R[X] 1espace vectoriel réel des polynômes sur R. Pour une fonction f de classe CP sur R, on pose f(o)_ f et; si p € N*, f(p) est la dérivée p-ième de f . xn On rappelle que la série entière est de rayon de convergence infini et sa somme est la n20 n! fonction x + + exp(x) On désigne par $ et Hk (k € N) les fonctions définies sur R par @(k)  @(x) = exp(-x2) et Hx(x) = (~1)* x€R VI @(x)
+Partie I
+1. Soit t € R. On pose Vx € R, Y (x) = @(t -x) et G (x) exp (2tx =x2) Donner sans démonstration les développements en série entière des fonctions xA exp(2t x) et x + exp (~x2) en x = 0, ainsi que la valeur de leurs rayons de convergence. (b) Montrer que Y, est de classe C sur R et que, pour tout n € N;, on a :
+(")(0) = (~1)"a(n) (t)
+(c) Établir que Y est développable en série entière en x = 0 avec un rayon de conver - gence infini_ Montrer que Yt est égale à sa série de taylor en 0 En déduire que +oo Hu()x = Vx €R; =G(x) k0 k! Montrer que Von peut dériver terme à terme par rapport à x la relation (1). En déduire que 1o Hx+()x Vx € R, =2(t -x)G (x) . k! k=0 2 Soit t € R 
+Calculer Ho(t) et H (t) .
+(b) Montrer, en utilisant les relations (1) et (2) que
+Vk € N* , Hk+1(t) = 2tHx(t) ~2kHx-1(t) 
+Concours Physique et Chimie Session 2016
+Épreuve de Mathématiques
+Page 2/4
 
+--- page 3 ---
+Prouver, par récurrence sur k € N, que Hk est une fonction polynomiale réelle de degré k et de coefficient dominant 2k .
+Partie [
+Soit P € R[x]
+Montrer que, pour tout k € N, $(k) )(x)P(x) = (147)quand Jx) ~ +a (b) En déduire que, pour tout k € N, la fonction x +  @(k) (r)P(x) est intégrable sur R. T-co Too Montrer que, pour tout k € N*, @(k) (t)P(t)dt = =-J @(-1)(t)P(t)dt .
+co +0 (a) Montrer que, pour tout k € Net P€ R[X], @() (t)P(t)dt = (~1)k @(t)P(k) (t)dt . (b) Soit (n,m) € N?. +co i. Justifier ]existence de lintégrale Hn(t)Hm(t)w(t)dt . ii Montrer; en utilisant (a) de cette question que
++o Hn(t)Hm(t)æ(t)dt =
+Too Hl) (t)w(t)dt = 62
++o H{m) (t)@(t)dt .
+(c) En déduire que
+40 0, si n#m; Hn(t)Hm(t)w(t)dt = 2"n!, si n =m
+On rappelle que
+exp(-t2)dt VT
+3 . Pour tout n € Net x € R, on pose hn(x) = Hn(x)exp +oo Calculer; pour tout (n,m) € N?, lintégrale hn(t)hm(t)dt 
+On note E lespace des fonctions f de R dans R continues telles que f2 est intégrable sur R
+(a) Montrer que; pour tout (f ,8) € E2 et x € R, |f(*)g(r)| < 4(f2(r)+g*(x)) (b) En déduire que; pour tout (f ,g) € E2, fg est intégrable sur R (c) Montrer que E est un espace vectoriel réel. o 5. Montrer que l'application ( .) : (f,8) ~ (f,8) = = f(t)g(t)dt est un produit scalaire ' sur E
+6. (a) Montrer que, pour tout P € R[X] la fonction x ~ + ho(x)P(x) est dans E. () Donner une famille orthonormale de E pour le produit scalaire ( , .) .
+Concours Physique et Chimie Session 2016
+Épreuve de Mathématiques
+Page 3/4
 
+--- page 4 ---
+Partie III
+(a) Montrer que, pour tout x € R, la fonction 4 ho(t )exp(itx) est intégrable sur R. Pour tout x € R, on pose
+Fo ho(t) exp(itx)dt_
+ho(x) = '2i
+b) Montrer que ho est une fonction continue et bornée sur R.
+(a) Montrer que ho est de classe Cl sur R et donner ho' (x) sous forme dune intégrale: (b) Montrer que ho est solution sur R de l'équation différentielle y+xy = 0 y(o) = 1 (On pourra faire une intégration par parties)  (c) En déduire que ho = ho.
+Partie IV
+Pour (n,x) €Z x R, on pose un(x) exp (x - 2nr)2 2 Lorsque Eun(x) et Eu-n(r) sont convergentes; on dit que Eun(r) est définie et on pose n20 n2l nel
+un(x) = Eun(x) + Eu-n(r). n=0 n=0 n=1 (a) Établir que, pour tout n € Z et x € R, un(r) = 0 (1)- et un(x) = 0 (4) quand |n| ~ +% (b) Montrer qu' 'ilexiste no € N tel que les séries 2 Un et E un soient normalement Inlzno Inlzno convergentes sur tout segment de R. (c) En déduire que un(x) est définie pour tout x € R; et que la somme U de la série neZ Eun est de de classe CI sur R. nez Montrer que U est 2T_périodique. 3 On note cp le coefficient de Fourier complexe de U défini par ZT Cp U(t)exp(-ipt)dt, Vp €Z 21
+(a) Montrer que, pour tout p € Z, Cp
+ho(p) '21
+(b) Montrer que la série de Fourier complexe de U converge normalement vers U sur R. (c) En déduire la formule sommatoire de Poisson
+o exp(-2n212) n=
+exp (-2 '2i n=
+Concours Physique et Chimie Session 2016
+Épreuve de Mathématiques
+Page 4/4

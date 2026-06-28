@@ -1,6 +1,98 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de PEnseignement Supérieur Concours Nationaux d'Entrée aux (ycles de Formation dIngénieurs Session : 2u06
+ 3' . 4ig WsA+ 6 . , Yli Audi tiju Jsis uibgl 2 kliji innijl ixssul>ji 20061,> preparaioie   Concours Biologie et Géologie Epreuve de Chimie (Bubliothewue)
+Date
+Mardi 6 juin 2006
+Heure : 8
+Durée : 3h
+Nbre de pages : 7
+Partie A.: Chimie inorganique :  ' Problème Problème [I Barème/20 9,50 pts Partie I 3,00 pts Partie II :5,50 pts Partie B : Chimie organique : Problème [ Problème [I Barème/20 4,0 pts 9,0 pts
+Partie III :2,00
+Problème 7,0 pts
+Cette épreuve comporte 6 pages de texte et un document annexe à rendre avec la copie Les parties A et B doivent être traitées sur deux copies séparées. Les candidats sont priés de présenter leurs réponses dans F'ordre même de l'énoncé L'usage des calculatrices électroniques de poche non programmables est autorisé. Aucun échange n'est autorisé entre les candidats:
+PARTIE A : CHIMIE INORGANIQUE : DEBUT DE LENONCE
+Problème / : Soit /équilibre (1) en phase gazeuse entre /éthanal CH;CHO noté (A) et son trimère, le paraldéhyde (CH;CHO), noté (B) : 3 CH,CHO() (CH;,CHO)() Les pressions de vapeur des composés en équilibre sont trop faibles pour permettre une mesure de la constante déquilibre. Le mélange gazeux est alors mis en équilibre avec un mélange liquide, supposé idéal déthanal et de paraldéhyde 1) Montrer que la constante déquilibre de la réaction déquation-bilan (1) peut être donnée par la formule PB x(PA ~P)x(P^ - P: K" = X (p%)? PAx(P-P)) PA et PB Pressions de vapeur saturante (en bar) de léthanal et du paraldéhyde purs à la température T. P : pression totale au dessus de la solution. ~   Tournez la page SVP
+Concours Biologie et Géologie- Session Juin 2006
+Epreuve de Chimie
+Page 1/7
 
+--- page 2 ---
+2) a) En écrivant légalité des potentiels chimiques dans la phase vapeur et dans la phase liquide, montrer que la pression de vapeur saturante P dun constituant en fonction de la température est du type P D Ln =C+ Po T Où Cet D sont deux constantes; P'_lbar et la température T exprimée en Kelvin:. On admettra que Penthalpie molaire et lentropie molaire débullition sont indépendantes de la température le volume molaire du liquide est négligeable devant le volume molaire du gaz Viq <v8ar le gaz se comporte comme un gaz parfait.
+b) Identifier les constantes C et D
+3) Les pressions de vapeur saturante P; et P de /éthanal et du paraldéhyde   sont données par les équations suivantes PA 3079 Ln =10,473 2 Po T
+PB 4992 Ln =12,542 Po 1 Où T désigne la température en Kelvin; les pressions de vapeur saturante sont exprimées en bar.
+a) Déterminer les enthalpies standard débullition des constituants (A) et (B). 6) Déterminer les températures débullition standard de (A) et de (B).
+4) La pression totale du mélange gazeux en fonction de la température est donnée dans le tableau suivant
+T() P (bar
+293 299 303 307 313 0,236 0,360 0,492 0,642 0,949
+a) Calculer la constante déquilibre K de la réaction (1) pour   chaque température. b) Représenter graphiquement Ln(K) = ,(1000) sur le document annexe (à rendre avec la copie) En déduire [enthalpie standard de la réaction (1) notée A,H9 , supposée constante dans lintervalle de température étudié.
+Concours Biologie et Géologie - Session Juin 2006
+Epreuve de Chimie
+Page 2/
 
+--- page 3 ---
+5) Lentropie standard de la réaction (1) notée A,S9 = ~457,5 JK-' mol-' a) Justifier le signe négatif de A,S? b) Calculer  A,H9,A,S% et A, Gp8 pour la réaction de trimérisation en phase liquide En déduire la constante déquilibre de cette réaction à 298K
+On donne Constante des gaz parfaits R = 8,314 JK-I 'mol-'
+Problème Il :
+Domnées Numéro atomique de largent Z =47. Masses molaires atomiques (gmol') : H : 1 ;C : 12 ; N:14 ;0 : 16 ; _ Ag : 108 AT=298K: RxT -xLn(10)=-0,06v F pKa (CH,COOHCH;COO) = 4,8 Autoprotolyse de /eau : pKe =14 Constante de dissociation  du complexe [Ag(NH ,)] est telle que pKp([Ag(NH;)2b /Ag)-7,2 Produit de solubilité de lacétate dargent est tel que pKs-2,7 Les potentiels standard doxydo réduction Eo = 0,80 V (Ag Ag) '(CH,COOHI CH;CHO) = ~0,12 V Le réactif de Tollens est une solution incolore de nitrate dargent ammoniacal de formule chimique Ag(NH ,)2 NO; Les aldéhydes RCHO sont oxydés par le réactif de Tollens en acides correspondants RCOOH avec formation d'argent métallique (expérience du miroir d'argent) .
+Partie / : 1) Donner la configuration électronique de Yargent et celle de lion Ag " dans leur état fondamental. 2) A quel groupe   (colonne) et à quelle  période (ligne) de la   classification périodique appartient largent ? Justifier. 3) a) Nommer /ion complexe [Ag(NH,) ] b)   Préciser /'état dhybridation de [ion argent dans le complexe [Ag(NH,)1] _ Quelle est la géométrie de cet ion complexe ? d) Pourquoi Pion ammonium ne donne pas un ion complexe avec lion Ag 2 Tournez la page SVP
+Concours Biologie et Géologie- Session Juin 2006
+Epreuve de Chimie
+Page 3n
 
+--- page 4 ---
+Partie II : On fait réagir le réactif de Tollens Ag( NH,)2 ]NO; sur ]éthanal CHBCHO en milieu basique.
+1) Ecrire léquation bilan notée (1) de la réaction doxydation de CH;CHO par le réactif  de Tollens en faisant   intervenir  les   couples redox   [Ag(NH ,)2] IAg et CH,COO /CH,CHO . 2) a) Donner lexpression du potentiel standard Ef du couple [Ag(NH,)2] /Ag . b) Calculer sa valeur . 3) a) Donner lexpression du potentiel standard E2 du couple CH,COO- /CH,CHO b) Calculer sa valeur . 4) a) Donner /expression de la constante déquilibre K' de la réaction déquation bilan (1) en fonction des potentiels standards E9 et E? . b) Calculer sa valeur . 5) A 100 cm 3 dune solution déthanal CH,CHO de concentration 10-2 mol.L-' on ajoute un excès de réactif de Tollens afin de récupérer en milieu  basique de Pargent métallique. Déterminer la masse dargent récupérée par cette méthode. Partie Ill 1) Calculer la solubilité de lacétate dargent CH,COOAg dans Peau pure. 2) Dans un litre deau pure, on ajoute 0,1 mol dacétate dargent. En négligeant la variation du volume a) Calculer le pH de la solution obtenue. b) Calculer les concentrations des différentes espèces àléquilibre .
+FIN DE LENONCE
+Concours Biologie et Géologie - Session Juin 2006
+Epreuve de Chimie
+Page 4/7
 
+--- page 5 ---
+PARTIE B : CHIMIE ORGANIQUE : Toutes les réponses doivent être justifiées DEBUT DE LENONCE
+Problème I: Réactions de substitution nucléophile(4 pts) 1-1) Laction dune solution concentrée dacide   chlorhydrique sur le   tertiobutanol (2-méthylpropan-2-ol) fournit le chlorure de tertiobutyle. I-1-a) Ecrire /équation bilan de cette réaction: 1-1-b) Détailler le mécanisme le plus   probable de cette réaction sachant que Phydroxyle (OH) est un mauvais groupe partant. I-2) On considère la réaction dont léquation bilan est la suivante: Br CN H,C _CH2 CH CH3 + NaCN H3C _CH2 CH-CH; 4 NaBr Sachant que cette réaction transforme le bromoalcane de départ de configuration S en nitrile correspondant de configuration R proposer un mécanisme réactionnel permettant dexpliquer ce résultat stéréochimique.
+Problème Il :Sur la réactivité des alcynes et des cétones(9 pts) On se propose de réaliser sur le composé A la suite réactionnelle suivante:
+1) base H3C_C=CH H,C_C=C_CH; A 2) CH,I B
+H,C_CH2~C_CH;
+II-1) Donner le nom officiel de chacun des composés Bet c II-2) Détailler le mécanisme de formation de B II-3) Donner les réactifs nécessaires à la transformation du composé B en C. I1-4) Le traitement du composé par LiAlH4 dans Véther   anhydre donne, après hydrolyse; un mélange de deux alcools stéréoisomères D1 et D2. II-4-a) Proposer un mécanisme permettant dexpliquer la formation de D1 et 22. II-4-b) Déterminer leurs configurations absolues. Le mélange de 21 et D2 ainsi préparé est-il racémique ? II-5) Le composé C peut être préparé, en une seule étape, à partir dune cétone méthylée C de formule C4H6O. Ecrire la structure de C? Donner les réactifs nécessaires à la transformation de C en C II-6) Ecrire les formules mésomères du composé C? et les classer par ordre de stabilité croissante .
+Tournez la page S.V.P
+Concours Biologie et Géologie- Session Juin 2006
+Epreuve de Chimie
+Page 5/7
 
+--- page 6 ---
+Problème Ill : A propos de la réactivité des dérivés carbonylés (7 pts) On effectue sur la cyclopentanone A la suite de réactions ci-dessous
+1) CHBMgI
+1) H2SO4 B C1 Chauffage majoritaire
+A
+C2
+2) hydrolyse
+III-1) Détailler le mécanisme de formation du composé B III-2) Sachant que C1 et C2 ont la même formule brute CsH1o; écrire leurs structures. Pourquoi C1 est le produit majoritaire ? Enoncer la règle utilisée. III-3) Lozonolyse du composé majoritaire C1 conduit; après hydrolyse en milieu réducteur; à un seul composé D de fommule CgH1O2. Donner la structure du composé D: III-4) Sous /action de Péthylate de sodium (EtONa) le composé @ se cyclise pour donner majoritairement après hydrolyse; un dérivé de la cyclohexanone E. Celui-ci se déshydrate facilement en cyclohex-2-én-1-one notée E. III-4-a) Ecrire léquation bilan de préparation de Péthylate de sodium à partir de Céthanol. III-4-b) Détailler le mécanisme de formation du composé E: III-4-c) Ecrire /équation bilan de la transformation de E en €
+FIN DE LENONCE FIN DE L'EPREUVE
+Concours Biologie et Géologie- Session Juin 2006
+Epreuve de Chimie
+Page 6/7
 
+--- page 7 ---
+REPUBLIQUE TUNISIENE Concours Nationaux dEntrée aux Cycles de Formation MINISTERE dIngénieurs DE LENSEIGNEMENT SUPEREEUR Session Concours Epreuve de Ne xien Nom Prénom (s) écxixeic Institution dorigine
+Signature des surveillants
+Identifiant
+Série
+Ne vien écxixeici
+DOCUMENT ANNEXE (ARENDRE AVECLACQPE)
+3 0
+8
+"8
+7
+-0,5
+~1
+-1,5
+42 ! -2,5
+~3
+-3,5
+~4
+4,5
+(Iooo/T) (K')
+Concours Biologie et Géologie- Session Juin 2006
+Epreuve de Chimie
+Page 7/7

@@ -1,23 +1,513 @@
+--- page 1 ---
+48981 4i284241 Wulaieus {Ll
+REPUBLIQUE TUNISIENNE
+Ministère de 1'Enseignement Supérieur et de la Recherche Scientifique Concours Nationaux dEntrée aux Cycles dc Formation dIngénieurs Session 2012
+Jslibjl cbbui ullseli _ ùs Jy Ji 2012 ;233 DsuuT Caparatoue  Concours Technologie KGumouy Épreuve de Sciences et Techniques de lIngénieur Euaes Diauxars
+Date Vendredi 08 Juin 2012 Barèm Partie poin
+Heure 8 Heures poln Partie ,
+Durée 5 Heures
+attie D
+boints
+L'épreuve comporte quatre parties A-Technologie de conception B-Technologie de production C- Mécanique & RDM D- Automatique Le sujet de lépreuve remis au candidat comporte Deux dossiers Présentation, Données et Hypothèses > & < Document Réponses > Deux documents techniques Dessin d'ensemble (DT Al) > & < Dessin de définition (DT Bl) > Aucun autre document n'est autorisé_ L'utilisation des calculatrices de poche non programmables est autorisée Les différentes parties sont indépendantes et doivent être traitées sur le document réponses. Il n'est fourni au candidat qu'un seul et unique < dossier document réponses qui doit être rendu en totalité, à la fin de l'épreuve, même sans réponses
+DOSSIER
+PRESENTATION, DONNEES ET HYPOTHESES
 
+--- page 2 ---
 
+ 
+DOSSIER
+PRESENTATION, DONNEES ET HYPOTHESES
+Ce dossier comporte 13 pages numérotées de 1 à 13
+Présentation et Nomenclature
+Pages 1 à 2 ;
+Données et hypothèses Partie A
+Pages 3 à 4 ;
+Données et hypothèses Partie B
+Page 5 ;
+Données et hypothèses Partie C
+Pages 6 à 8 ;
+Données et hypothèses Partie D 12
+Pages 9 à 13 ;
+?e 1? :
 
+--- page 3 ---
+STI Technologie
+Dossier Présentation, Données et Enoncées
+CENTIALE BETON PRET A LEMPLOI
+MISE EN SITUATION La présente étude porte sur les constituants dune chaîne de production de béton Ptêt _ à Pemploi (BPE) (figure 1). Cette chaine est constituée de Unité (A) de stockage; de dosage et dalimentation en sable et en gravicr; Unité (B) de convoyage des agrégats vers le malaxcur; Unité de dosage ct dalimentation en cau et en adjuvants (non teprésentée), Unité (C) de stockage et de convoyage par vis du ciment; Unité (D) de dosage de ciment; Unité (E) de malaxage et de chargement des camions toupie
+Moto varlateur pour
+tapis dalimentation
+Moto variateur pour
+tapis excitateur d'agrégats
+Figure Schéma descriptif d'une centrale à bélon prêt à Bemploi
+Les composantes, objets de cette étude sont indiquées par des flèches sur la figure 1
+NB
+ILest porté à la_connaissance des_candidats_que_les parties A B Cet D sont entièrement indépendantes de point de vue notation;_tepères_et_numéros_des_pièces:
+ s
+ .
+ ' . Concours nationaux dentrée aux cycles de formation d'ingénieurs Session 2012
+Page 1/13
 
+--- page 4 ---
+STI Technologie
+Dossier Présentation; Données et Enoncées
+NOMENCLATURE
+41 40 39 38 37 36 35 34 33 32 31 30 29 28 27 26 25 24 23 22 20 19 18 17 16 15 14 13 8 08 9 05 04 03 02 01 Rep.
+Couvercle variateur VisH MS x 16
+10 10
+Coulisseau Cors variateur Flaque mobile poulie réceptrice Flasque fixe poulie réceptrice 25 BC 02 Anneau élastique pour arbre 15 x 1 15 BC 02 Arbre intermédiaire VisH M4 x 13 Pale Pigon m = 1,25 Z21 = 29 Arbre de sortie Joint à deux lèvres; type AS, 25 x 35 x 7 20 BC 02 Couvercle Clavette parallèle forme A, 4 x 4 x 18 Roue dentée m = 1,25 Z21 = 65 VisH MS x 13 Couvercle réducteur Bouchon MI6 x 8 Botier réducteur
+C35 EN-GJL-100 18 Cr Mo 4 18 Cr Mo 4
+Nitruré Nitruré
+NF E 22-163
+C18
+Cénenté
+C35 18 Cr Mo 4 C35
+Nitruré
+DIN 3760
+EN-GJL-100
+NF E 22-177 Nitruré
+18 Cr Mo 4
+EN-GJL-100
+EN-GJL-10O
+15 BC 02 Anueau élastiquc pour arbre 15 x 1 Volant de variation de vitesse Pignon
+NF E 22-163
+EN AB 21 000 [Al Cu4 Mg Ti] C18
+Cémenté
+25 BC 02 Flasque mobile poulie motrice Anneau métallique Flasque fixe poulie motrice Bague Clavette parallèle, forme A, 4 x 4 x 16 Joiet à deux lèvres, type AS, 22 x 32 x 7
+18 Cr Mo 4 Nitruré CC7655 [Cu Zn 35 Mn 2Al 1 Fel] 18 Cr Mo 4 Nitruré C35 NF E 22-177 DIN 3760
+15 BC 02 Arbre d'entrée C18 Cémenté Nbr Désignation Matière Observation Concours nationaux dentrée aux cycles de formation d'ingénieurs Concours Technologie Epreuve Sciences et Techniques de VIngénieur Document DT A2 VARIATEUR A FRICTION Session 2012
+Concours nalionaux dentrée aux 'cycles de formation d'ingénieurs
+Session 2012
+Page 2/13
 
+--- page 5 ---
+STI  Technologie
+Dossier Présentation; Données et Enoncées
+PARTIE A TECHNOLOGIE DE CONCEPTION
+VARIATEUR A ANNEAU DE FRICTION Lassociation de variateuts anneau métallique avcc un train dengrenage (Figure A.1) permet de réaliser une variation continue et précise du tapport de réduction. En effct, ce mécanismnc s'avère très utile dans la synchronisation des vitesses sut une ligne de ptoduction en séric.
+Poulie motrice
+n1
+Anneau
+Poulie réceptrice
+n2
+Figure A1: Positions extrêmes de Panneau de friction.
+Le fonctionnement du présent variateur à entraxe fixe repose sur la variation du rayon denroulement (Figure A.1) dun anncau de ttansmission indéformable. Cette transmission est obtenue Par T'utilisation de poulies à flasques coniques . Chaque poulie est composée dun flasque fixe et dun autre mobile. La distance entte les deux flasques est réglable comme le montre la figurc A.2, alors que la largeur de l'anneau de transmission est constante. Il s'ensuit qu'une variation de distance entre les deux flasques coniques modifie la position radiale des points de contact avec lanneau  En cette position radiale, la distance intcr- flasque est égale à la largeur de Yanneau de transmission.
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2012
+Page 3/13
 
+--- page 6 ---
+STI - Technologie
+Dossier Présentation; Données et Enoncées
+DONNEES ET HYPOTHESES
+Caractéristiques du tnoteur à lentrée Pe = 3 kW, Nr = N, 150Otr /mn
+2a
+kv le tapport du variateur entre N, (la vitesse à la sorte du variateur) et N, (e vitesse à Pentrée du variateur) (voir schéma cinématique A.3.1.1 du document réponses) ts le rayon moyen de la poulie motrice (constituées de {3} et {4}) f7 le rayon moyen de la poulie réceptrice (constituées de {6} et {7}) ; 16 mtn est le rayon dans la position neutre (x=0) pour lcquel t,=t,=to ce qui cottespond à kv=1 2 @ langle au sommet du cône fotmé par les deux flasques Le tendement du variateur nv= 0,85 Le tendement du téducteur 9IR = 0,95.
+Fig A2 Variabilité du rayon moyen par déplacement du flasque mobile
+THEORIE DES MECANISMES
+Dans cette partie On suppose que toutes les liaisons sont parfaites La liaison entre Panneau et les flasques est obtenue par adhérence Les pièces du dessin densemble (document DT Al) sont numérotées par deux chiffres (01), (02) Les groupes cinématiquement équivalents sont numérotés par un seul chiffre de {0} à {8}.
+(41)
+Les groupes cinématiquement équivalents du système mécanique variateur à friction à considérer sont
+{0}={17,18,19,20,23,36,39,40} {3}={09} {6}={35}
+{1}={12,13} {4}={01,05,07} 7}={27,28,29,30,34}
+{2}={11,37,41} {5}={08} {8}={21,22,26}
+On note la liaison Lp dorigine C : L (C). Soient les liaisons Lz(B) , L;(A), L,(O), Ls(D) et L,(E) On note le torseur statique, au point M, de la liaison Lx de laction mécanique dun solide sur un solide pat Xk Lk {"+j()} Yk M; Zk Nx
+On note le torseur cinématique, au point M, de la liaison Lx du solide dans son mouvement par rappori à un solide (j) par
+0k {Vvj(Lk)}m= Bx V Yk Wk
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2012
+Page  4/13
 
+--- page 7 ---
+STI Technologie
+Dossier Présentation, Données et Enoncées
+PARTIE B : TECHNOLOGIE DE PRODUCTION
+On sC proposc   détudier   la fabrication du flasque repéré   (07)   réalisée en série   rcnouvelablc de 500 pièces /mois sur 10 ans. Cette piècc est définie sur le document technique (DT BI) Les surfaces à usiner sont repérées en trait fort. Le brut de départ est obtenu par moulage en sablc est représenté sur le document technique (DT B1).
+Le flasque repéré (07), cst en 18CrMo4 Les pièces sont livrées à Fusinage à létat brut. Nota la rainure de clavette ne sera pas prise en compte lors de cette étude ETUDE DE FABRICATION
+Pour la fabrication du flasque, on utilisera des tours à commande numérique, dc marque EMCO type, PCTURN 55,de puissance 0.55 KW, de directeur de commande NUM.
+1a gamme prévisionnelle proposée prévoit les phases suivantes
+Phases
+Opérations Contrôle des pièces livrées brutes Usinage des surfaces 1,2,3 et 7 Usinage des surfaces 4, 5 et 6
+Procédés
+10
+20
+Tournage en CN Tournage en CN
+30
+CoMMANDE NUMERIQUE
+Lusinage de la séric des pièces sera réalisé sur un tour à commande numérique; en utilisant deux outils T2 D2 T6 D6. La surépaisseur dusinage est de 1.5 mm partout. La vitesse maximale tolérée de la broche est de 3000 tr / min
+Les données de la coupe sont
+Outil à charioter-dresser de finition T2 D2, 80 m/mn, F = 0.3 mm/ tr ; Outil à aléser de finition T6 D6 V 60 m mn, F = 0.1 mm/tr ; Position de changement doutil X = 150 mm, Z = 280 mm Distance dapproche et de dégagement égale à 2 mm.
+Nota Vc et F sont respectivement la vitesse de coupe et davance
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2012
+Page 5/13
 
+--- page 8 ---
+STI - Technologie
+Dossier Présentation, Données et Enoncées
+PARTIE C : ETUDE MECANIQUE & RDM
+C.1- Etude Mécanique
+DESCRIPTION FONCTIONNELLE ET REPERAGE
+Dans cette partie; on se propose détudier le mécanisme douverture fermeture de la trappe de vidange de la trémie (figure C.1.1) L'actonneur assurant cette fonction est un vérin pneumatique axticulé au bâti du coté corps et à la trappc du coté tige. La figure C.1.2 représente le schéma cinématique minimal de ce mécanisme pendant la phase dévacuation des granulats vers le tapis roulant: Les principaux éléments du mécanisme sont les suivants
+Le bâti (0), lié au repère %(O,xo,ÿusz) supposé galiléen. Pour simplifier les calculs; on introduit un repère intermédiairc 9o(0,1,v,2, tel quc 8 = (*0 , 1) = (o, v) = constant (figure C.1.3.a) Le corps du vérin, lié au repère R(O,x,,yv,z,) , est €n liaison pivot daxe (0,z, avec le bâti (0). Son mouvement de rotation est paramétré par Pangle 0 = (k,x,) =(v,J) (figure C.1.3.c) La  tige du vérin; liée au repère   Rz(A,F1,71,Z) , est en liaison   glissière daxe (C,%,) avec le corps du vérin. La trappe (3) liée au repère %(B,x,,4s,Z ) , est en liaison pivot daxe (A,2 avec la tige Elle est également Cn liaison pivot daxe (B,z0 avec le bâti (0). Son mouvement de rotation est paramétré par Pangle 0 = (",*;)=(vys) (figure C.1.3.d)
+On se propose  détudier la phase douverture de la trappe: Lors de cette phase de fonctionncment; le mouvement de la tige (2) entraîne la rotation de autour de laxe (0,7) Il en résulte une rotation de la trappe autour de laxe (B,Z0 pernettant ainsi son ouverture et l'évacuation des gtanulats stockés dans la trémic.
+C95pa {1} Tigud9
+Py4 (3}
+Figure C.1.1 Mécanisme d'ouverture fermeture de la trappe.
+Conçours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2012
+Page 6/13
+(3) Trappe
 
+--- page 9 ---
+STI Technologie
+Dossier Présentation; Données et Enoncées
+PARAMETRAGE DU MECANISME
+OA =1* OC =L, 71 OB = h ÿ AB =L (-cosBx; +sinpy;). L,L,, h, 8 et B sont des caractéristiques géométriques du mécanisme (constantcs positives) . 8, 2 et 4 sont des paramètres de position variables en fonction du tcmps
+Z0}
+8
+Figure €.1.2 : Schéma cinématique minimal du mécanisme douverture fermeture de la trappe.
+8
+2,
+Figure C1.3.a : orientation de la base du rpère (Ro) par rapport à la base du repère ( So)
+Figure C.1.3.b : Définition de {angle B = ( AB,x,)
+Figure C.1.3.c : orientation de la base du repère ( R;) par rapport à la base du repère (Ros)
+Figure C1.3.d orientation de la base du repère (Rs) par rapport à la base du repère (Roi)
+Figure C1.3 Parumètres dorientation des différentes bases
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2012
+Page 7 /13-
 
+--- page 10 ---
+STI Technologie
+Dossier Présentation; Données et Enoncées
+DONNEES ET HYPOTHESES
+La trappe est assimiléc à une portion denveloppe cylindrique homogène de masse m, de rayon R; de longueur  2a et daxe (B,z0) La section transversale   de la   trappe est un) arc de cercle de rayon R dangle 2 &. Les éléments dattache à la trémie sont considérées comme solides de masses négligeables Par conséquent; ils n'ont pas été reptésentés sur la figure €.1.4.
+2 @
+Figure C.1.4 Forme géométrique de la trappe
+C.2 - Résistance Des Matériaux
+Lc vérin pncumatique (), assurant la fonction douvcrture fermeture de la trappe (3), est actionné par un compresseur générant une pression P (en bars) -
+La phase de fonctionnement la plus défavotable est la phase de fermeture de la trappe (3). Pendant cette séquence; la tige (2) du vérin subit un effort de poussée pneumatique F En réaction; la trappe chargéc exerce sur la tige du vérin une force N au point A (figure C.2.1)-
+Tige
+F
+Figure C.2.1 Schéma; dimensions et chargement de la tige (2) du vérin (2)
+Données
+Effort maximal fourni Nmax 1650 N ; Diatmètre de la tige dt = d ; Alésage (Diamètre du piston) Pp = 1,5 d ; Longueur de la tige (2) { = 320 mm. Limite élastique en traction compression: Re 335 MPa Module dYoung; E = 2 105 MPa Coefficient de sécurité s = 10
+Alésage @P (mm)
+32 430
+40 680
+50 1060
+63 Effort maximal admissible Nmax (en N) 1680 Tableau C.2 : Caractéristiques normalisées des vérins pneumatiqwes
+80 2700
+100 4240
+125 6630
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2012
+Page 8/13
+[
 
+--- page 11 ---
+STI Technologie
+Dossier Présentation, Données et Enoncées
+PARTIE D : AUTOMATIQUE
+D.1- Commande séquentielle d'une centrale à béton
+Lobjectif de cette étude consiste à établir une commande séquentielle de la centrale à béton schématisée pat la figure D.1. Ce système permet dobtenir unc quantité (de 1 à 5 m') de béton en un ou plusicurs cycles de fabrication de capacité maximale m' Le béton est obtenu en mélangeant agrégats de grosseurs différentes (de A, à A); du ciment choisi pari 2 qualités différentes (C; ou C2 et de l'eau. L'alimentation en agrégats  est effectuée par ouverture de trappes  bistables VA, VAz VA, et VA; (ouverture VA+ =1 Fermeture VA; =1 avec i =1, 2, 3 ou 4 alors que Yalimentation en ciments se fait par ouverture de trappes bistables VC; ou VC2 (ouverture VC; = 1, Fermeture VC; =1 avec i = 1, 0u 2), et lalimentation en eau est obtenue par ouvertute dune vanne monostablc VE (ouverture VE 1, Fermeture VI' '1). Pour chaque cycle de fabrication; le fonctionnement est le suivant
+Dosage pondétal Les agrégats sont d'abord pesés successivement dans une même trémie peseuse. Chaque qualité dagrégat correspond à Unl capteur différent sur le cadran de la bascule (A, dosé jusqu'à ce que l'aiguille atteigne lc capteur a1, Az dosé jusqu'à ce quc l'aiguille atteigne le repère a2 etc_) Lorsque Yaiguille atteint le captcur 24, on met en marche le tapis transporteur dagrégats TPA (KMA et on ouvre la vanne monostable des agrégats VA. Lorsque la trémie peseuse dagtégats est vide (aiguille au capteur %, 0n attend 3 secondes pour fener la vanne VA et 10 secondes pour arrêter le tapis TPA les agrégats sont alors dans le malaxeur.
+Alimentation en ciment La séquence 'ciment" commence secondes aptès louverture   de la vanne dcs agrégats  VA, par Youverture de la ttappe du ciment choisi (VC; ou VC)) au-dessus de la trémie peseuse de ciment; jusqu'à ce que Yaiguille atteigne les capteurs correspondants (soit ^ soit c2). A ce moment; la trappe dalimentation se ferme; le tapis transporteur de ciment se met en marche TPC (KMC 1) et la vanne monostable VC du ciment s'ouvre (VC=1)- Lorsque   Yaiguille artive au capteur Cop   VC se ferme puis TPC s'arrête après une temporisation de secondes le ciment se trouve ainsi dans lc malaxeur.
+Alimentation en eau et malaxage Le malaxcur, entraîné par un moteur est mis en marche (KMX 1) au même moment que le tapis tianspotteur dagrégats TPA ct ne s 'arrête qu'en &in de cycle. Il reçoit dabord les agrégats et le ciment puis, 10 secondes après lattivée du ciment, la vanne d'eau VE s'ouvte VE=1 ) L'ouverture dc VE déclenche un compteur deau CE ptésélection, qui délivre un signal lorsque la quantité voulue deau s'est écoulée. Le malaxage doit durer 60 secondes après le début de larrivée deau. C'est alors que la vanne bistable de vidange VID s'ouvre pendant 10 secondes puis elle se ferme.
+Conditions initiales Préalablement à la mise en marche, l'opérateur doit effectuer manuellement les opérations suivante: Choisir la qualité de ciment voulue, sur un sélecteur à 2 positions (9. ou 92) Mettre les capteuts de pesée sur les trémies aux positions souhaitées (a,, 42 %, ou pour les agrégats, (c1 ou c2) pour lc ciment ; Pré positionner le compteur deau CE à la position voulue. Le lancement de la fabrication s'effectue en appuyant sur un bouton poussoir m.
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2012
+Page 9/13
 
+--- page 12 ---
+STI Technologie
+Dossier Présentation; Données et Enoncées
+ Silos A gégats
+Silos Cimn ents
+A3
+Eau
+S4
+54,
+c
+sC,
+VA
+VA3
+VA
+VC
+VC
+RE
+Trémie peseuse VA
+V
+KMC
+KMA
+T PC
+Z PA
+MLX
+U0770707
+UOuu
+51
+VID
+41
+[LIIOJc
+Béton prêt 2 'utilisation
+Figure D.1 Scbéma synoptique de la centrale à béton
+Fin de ptéparation du béton 'ciment" de chaque cycle, le compteur de cycle C est décrémenté (diminué dune A la fin de la séquence différent de (variable 1) en fin de cycle; un nouveau cycle débute si son unité) . Si son contenu est contenu cst égal à 0 (variable c=0) en fin de cycle, la fabrication est terminée.
+Les affectations des entrées sorties sont données dans les tableaux D.l et D.2
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2012
+Page 10/13
+VA)
 
+--- page 13 ---
+Dossier Présentation; Données et Enoncées
+STI Technologie
+Tableau D.1 Les entrées
+21 22, 43 & 44
+Capteurs contrôlant le poids dcs agrégats contenus dans les Silos SAv SA2, SA, & SA Capteur signalant que la trémie agrégats est vide Capteurs contrôlant Ic poids des ciments contcnus dans Ics Silos SC, & SC; Capteur signalant que la trémie ciments est vide Capteur signalant que la quantité deau voulue cst écoulée Bouton poussoir départ cycle Sélecteur qualité ciment ; 9 pour C, ct 92 pour C2 Capteur signalant le contenu du compteur cycle C
+et €,
+m 91 & 42
+Tableau D.2 Les sotties
+VA+ VA; VAr VA? VA;, VA; VA+, VA; VC} , VC; VC:, VC; VC VE VA VID+ VID KMA KMC KMX
+Ouverture et fermeture trappe bistable VAL Ouverture et fermeture trappe bistable VA? Ouverture et fermeture trappe bistable VA; Ouverture et fermeture trappe bistable VA, Ouvertute et fermeture ttappe bistable VC Ouverture et fetmeture trappe bistable VC? Electrovanne douverture de la trémie ciment Electrovanne douvertute du réscrvoir eau Electrovanne douverture de la trémie agrégats Ouverture et fermeture électrovanne dévacuation du béton après malaxage Commande   du moteur tapis agrégats TPA Commande   du moteur tapis ciments TPC Commande du moteut du malaxeur
+D.2- Asservissement de la position du flasque mobile Dans cette partie; Onl suppose que la variation de la vitesse dc sortie du variateur   est linéairement proportionnelle au déplacement 'x(t)' du flasque mobile (09) (voir document DT A1) Pour régler cette Yarbre dun moteut coutant   continu avec son réducteur position; on accouplera   le volant (13) (moto-réducteur). Il sagit donc dassuter Yasservissement de cette position linéaire "x(t)" suivant le schéma de principe (figure D.2)
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2012
+Page 1l/13-
 
+--- page 14 ---
+STI Technologie
+Dossier Présentation; Données et Enoncées
+Xc(t)
+Moto-Réducteur
+Vc(t) Comparateur
+Régulateur u(t)| M
+V(t)
+Figure D.2 Schéma de principe
+x étant le déplacement défini dans la question (A.3.1.1) Le déplacement désiré Xc(t) cst réalisée au moyen dun dispositif couplé au curseur dun potentiomètre générant une tension Vc(t) = k; Xc(t) La mesure du déplacement x(t) est téalisée aussi au moyen du même dispositif générant la tension V(t) Le signal derreur €(t) V(t) V(t) est Pentrée du régulateur R(p) qui Jui-même délivre la tension u(t) cn vue dalimenter un moteur à coutant continu comtnandé par Pinduit Lc déplacement x(t) est proportionnel à la position angulaire de Varbre du moteur x(t) = k2 €(t).
+La fonction de transfert du moto téducteur  H(p) = B(P2 est la mise en cascade de deux fonctions de U(p) transfert H p) ct Hz(p) comme illustre la figure D.3.
+U(p)
+0()
+H (p)
+Hz(p)
+Figure D.3 Schéma fonctionnel du moto réducteur
+Le diagramme de Bode de H;(P) est représenté par la figure D.4.
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2012
+Page 12/13
 
+--- page 15 ---
+STI - Iechnologie
+Dossier Présentation; Données et Enoncées
+Dlagramme de bode d H,(p}
+410 5 420 1 430 40
+"50
+{ ~45 8
+290 10
+10
+10
+10
+10
+Pulsations rdls (radlsec) Figure D.4 : Diagramme de Bode d H p)
+La réponse impulsionnelle de Hz(P), représentée par la {igure D.5, est décrite par lexpression
+8(t) = 1-e Tm pour t > 0 Réponse Impulsionnelle de Hz(p)
+0.9
+0.8
+0,7
+[ 0.6 0.5 1 0,4 [ 0.3 02
+0.5
+1.5
+25
+3.5
+45
+Temps (sec)
+Figure D.5 Réponse impulsionnelle d H2(p)
+Concours nationau dentrée aux cycles de formation dingénieurs
+Session 2012
+Page - 13 /13 -
 
+--- page 16 ---
+Dessin de Définition
+0.02 A
+Ra3,2
+A
+8 ;
+: Ra 1,6
+0.03
+3| 
+8
+30
+34+0.2
+15+0.2
+56+0.1
+A
+0.3 B1
+A 0.2 B2
 
+--- page 17 ---
+3
+B1
+5
+B2
+Dessin du Brut
+Trajectoires des Outils
+T2D2
+T6D6
+Point Approche
+Point Dégagement Pz
+Poinn Approche
+2
+8
+8
+(20)
+(23)
+(36)
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs Concours technologie Epreuve STI Session 2012 Repère 07 34 VARIATEUR A FRICTION Echelle 2 : 1 Flasque Fixe Document DT B1
 
+--- page 18 ---
+06
+07
+08
+09
+10
+11
+12
+13
+14
+05
+04
+03
+02
+01
+Niveau huile
+41
+40
+39
+38
+37
+36
+35
+34
 
+--- page 19 ---
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs Concours technologie Epreuve S.T.I. Session 2012 Repère VARIATEUR A FRICTION Echelle 1 : 1 Document DT A1
+33 32
 
+--- page 20 ---
+STI - Technologie
+Document Réponses Technologie de Conception
+A.4- TRANSMISSION DE PUISSANCE
+A4.1- Etude du tapport de réduction du variateur.
+A.4.1.1- Déterminer la variation du tayon moyen Ar en fonction du déplacement axial x du flasque mobile {3} et de langle de conicité a (voir figure A2)
+  s s X 3 Ar = 2 tga
+A.4.1.2- Etablir la relation du rapport de transmission kv du variateur en fonction du rayon to, a et x
+X
+N7 ro ~ Ar ro T4 2tga 2 ro tga _ x Kv = N4 r7 ro + Ar x ro + 2 ro tga + x Ztga
+A.4.13- Etablir le tapport de réduction kR du réducteur.
+N8 rz Z7 KR N7 r8 Z8 4.4.1.4- Déduire le rapport de transmission globale k du mécanisme.
 
+ (
+N8 k = N4
+ 
+ 
+2 ro tga ~x rz k = Kv KR 2 ro tga + x T8
+1
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2012
+Page - 9 -
 
+--- page 21 ---
+STI - Technologie
+Document Réponses Technologie de Conception
+A.4.15- Sachant que x =+ 5mm, Eo 16 mm et 0 = 309, la vitesse dentrée du variateur est 150Otr / mn, calculer les vitesses limites (N;) de Karbre de sottie:
+2 ro tg(a) 18,475 r7 = m Z21 / 2 = 1,25 29/2 = 18,13 mm rg = m Z21 / 2 =1,25 65 / 2 = 40,63 mm 2 ro tga _ x 77 N8 = N4 2 ro tga + x 78
+X =-5 mm Ngmax ` = 1166,05 trlmn X = +Smm Nsmin = 384,21 trlmn
+4.4.2- Calcul des puissances
+4.4.2.1- Calculer la puissance transmise (Ps) à Yarbre de sortie {8}
+Ps P8 n = nv nR = Pe P4
+'  P8 = Mv nR P4 = 2422,5 w
+44.12- Calculer les couples limites
+transmis sur larbre de sottie
+C4 k = nv nR C8 nv nR C8 = C4 k
+X = +Smm
+=
+Ngmin 384,21 trlmn X =-5 mm Nsmax = 1166,05 trlmn
+'8max = 60,21 Nm
+=
+Cgmin 13,88 Nm
+A.5- COTATION FONCTIONNELLE A.5.1- Justificr /existence de la condition Ja définie sur le dessin de la page suivante: Eviter le contact entre pièce fixe et pièce mobile
 
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2012
+Page - 10
+
+--- page 22 ---
+FEUILLE D'ANALYSE DUSINAGE No de Désignation des phases, Machine Outils Croquis de la pièce à ses différentes Phase sous-phases;_etc. utilisée Vérif. phases 10 Contrôle du brut PC A-Tournage Tour CNC Palmer 20 Référentiel de mise en position EMCO 55 intérieur 1 Appui plan (1, 2, 3) 0-25 Centrage court (4,5) Serrage concentrique Palmer Cycle de chariotage et extérieur dressage de (S,), (S2) en 25-50 ébauche et en finition par les côtes de fabrication PC 1/50
+Cf; 2340,8 Cfz 57 407 2Cf4 033k6
+Jauge de profond eur
+
+2) Alésage de (S8) en ébauche et en finition par la côte de fabrication 2Cf; @I8H7
+Outil à aléser
+Outil à charioter et à dresser
+Cfi
+Cfz
+1 
+30
+Lére solution B-Tournage Référentiel de mise en position
+Tour CNC EMCO 55 PC 1/50
+Plor
+jolar
+Jauge de profond eur
+Appui plan (1, 2, 3) Centrage court (4,5) Serrage concentrique
+Rapport eur dangle
+Cycle de chariotage et dressage de (S6), (S,) en ébauche et en finition par les côtes de fabrication
+Outil à aléser
+2Cfs @76 0.3 Cf6 22*01 (transfert direct)
+Outil à charioter et à dresser
+Cfz =7 0,(5 (transfert total)
+2-3
+cf6
+2éme solution B-Tournage
+Tour CNC EMCO 55 PC 1/50
+
+--- page 23 ---
+Référentiel de mise en position
+Jpugr
+Jauge de profond eur
+Centrage long (1, 2, 3 et 4) butée (5) Serrage concentrique
+Rapport eur dangle
+Cycle de chariotage et dressage de (S6) (S,) en ébauche en finition par les côtes de fabrication
+Outil à aléser
+2Cfs = 076 Cf6 22* 0.1 (transfert direct)
+Outil à charioter et à dresser
+Cfz =7 0,05 (transfert total)
+cf6
+Plor
+
+--- page 24 ---
+B-4 - Commande Numérique
+Lusinage de la série de 2000 pièces sera réalisé sur un tour à commande numérique en utilisant deux outils T2 D2 et T6 D6. La surépaisseur dusinage est de 1.5 mm partout. La vitesse maximale tolérée sur la broche est de 3000 tr/min Donnécs Outil de chariotage-dressage finition T2 D2, Vc = 80 m/mn; F = 0.3 mm/tr Outil dalésage finition T6 Dé Vc = 60 m/mn, F = 0.1 mm/tr Position de changement doutil X= 150 mm, Z = 280 mm- Distance d'approche et de dégagement est égale à 2 mm.
+Usinage extérieur Points X Approche 48 Pl 33 Dégagement 33 P2 33 Dégagement 11
+Usinage intérieur Points X Approche 18 Q1 18 Dégagement 14 Retrait 14
+Z
+36 25 25 36
+22 34
+34
+Complétez le programme CN pour ]usinage en finition directe des surfaces 3, 2, 1 et 7 de la phase 20 %2012 (FINITION PHASE 20) (FINITION EXTERIEURE) NIO G90 G71 G92 S3000 N2O GO XISO Z280 N3O T2 D2 M6 N4O G97 S50o NSO G95 F0.3 N6o GO X48 ZO M3 M41 (Approche) N70 G96 $ 80 N8O G1 X33 ZO M8 (Pl Dressage de 3) N9O G1 X33 Z22 Dégagement_ Chariotage de 2) NIOO Go X33 Z34 (P2) NI1O Gl XII Z34 (Dégagement Dressage de 1) N12O G97 S50o NI30 GO XI5O Z280 (FINITION INTERIEURE) NI4O T6 D6 M6 NISO G97 S318 N160 G95 FO.1 NI70 Go XI8 Z36 M3 M41 (Approche) NI8O Gl XI8 7-25 (Q1 Alésage de 7) NI9O GO Xl4 2-25 (Dégagement) N2OO GO Xl4 Z36 (Retrait) N210 Go XISO Z280 MS M9 N220 M2

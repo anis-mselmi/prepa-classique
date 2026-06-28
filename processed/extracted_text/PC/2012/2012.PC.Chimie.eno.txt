@@ -1,21 +1,247 @@
+--- page 1 ---
+Instructions
+tastur  Piearaoine , QIBHOTHEQUB 62e5  '@unsS Sa" Cette épreuve comporte deux parties indépendantes: La première partie (chimie inorganique) comporte 12 pages (pl-p12) La deuxième partie (chimie organique) comporte 8 pages (p13-p20): Tout résultat doit être écrit dans les cadres adéquats: Seul Vusage des calculatrices électroniques de poche non programmables est autorisé Les résultats numériques sans unité ou avec unité fausse ne seront pas comptabilisés: Aucun échange entre les candidats n'est autorisé.
+Concours Physique et Chimie
+Epreuve de Chimie
 
+--- page 2 ---
+PARTIE I : CHIMIE INORGANIQUE
+Barème
+Problème I Problème II Problème III Problème IV
+2,00 pts 3,50 pts 3,75 pts 2,75 pts Données relatives à lensemble du sujet (Chimie inorganique) Dans toute Vépreuve on supposera que Les enthalpies et les entropies de la réaction sont indépendantes de la température dans le domaine considéré Les gaz sont parfaits et les solides sont purs
+Données numériques Constante des gaz parfaits R = 8,314 J K-1mol-1 Constante d'Avogadro Na = 6,023*1023 mol-L . Masses molaires atomiques en (g,mol-1)
+Sr = 87,62; F = 19,00 ; H = 1,00 ct 0 16,00.
+Numéros atomiques F (Z-9) et 0 (Z=8). Àla température T = 298 K: HFZ (aq) = 2F(aq) + H{aq) KO =10-3,85 2HF oq) = HF, 2(aq) + Haq) K? =10-2,51 Les potentiels   redox normaux (standard) E8 (02/H,0) =1,23 Volt EP (Ha) /H2e) ) = 0 Volt
+Conversions RxT x Ln(x) = 0,06x logio  (x) Volt 298 K)
+atm =1,013bar = 760 mmHg Icm 10-6 m
+Le fluor est assez répandu dans la nature (0,2% atomique) Il a Un puissant pouvoir oxydant, ce qui explique que dans la nature il se trouve toujours combiné, essentiellement avec les métaux. Le fluor joue un rôle important dans  les processus biologiques, sa présence dans Veau potable; par exemple; est nécessaire pour maintenir en bon état les dents, car l'émail des dents renferme du fluorure de calcium.
+Page
+Concours Physique et Chimie Session Juin 2012
 
+--- page 3 ---
+Problème I : Cristallographie Le fluorure de strontium est un solide blanc brillant ct transparent pour les longueurs donde compriscs entre 150 nm dans lultraviolet ct 11 um dans Tinfrarouge; ce qui lui vaut ccrtaines applications comme revêtement optique sur des lentilles ainsi que sur le cristal d'appareils de mesure de thcrmoluminescence_ Sa   structure   cristallinc est   cubique ct  de masse volumique 4,24 g.cm-3 Cette structure est caractérisée par les coordonnées réduites suivantes ions fluorure 444)4446444) 3 (442)444644)444) 3 ions strontium : (0, ( ,00)(54 ) 44)204) 1) Donncr une rcprésentation cn perspcctive de la maille et dc son contenu.
+2) Déterminer la formule de ce fluorure et le nombre de groupements formulaires par maille.
+3) Déduire le degré doxydation de Pion alcalino-terreux dans cette structure
+Indiquer Findice de coordination dc chaque typc d 'ion par rapport à Fion de signc contraire. Justifier la réponse
+Concours Physique et Chimie Session Juin 2012
+Page 2
 
+--- page 4 ---
+5) Donner Fexpression puis calculer 5-a) le paramètre a de la maille
+5-b) la distance entre deux plans réticulaires consécutifs de la famille (111)
+Problème Il: On prépare le ZnF 264) en faisant réagir le difluorure d'oxygène OFz avec le zinc 2 OF 2(g) + 2 Zn (sd) 2 ZnF 2(sd) + 02g)
+Préliminaire 1) Donner les configurations électroniques des atomes de fluor et doxygène dans leur état fondamental
+2) Attribuer à chacun des éléments F ct 0 Félectronégativité correspondante 3,5 et 4,0.
+3) Comment appelle-t-on les éléments qui, dans la classification périodique apparticnnent à la même colonne (ou famille) que le fluor
+Donner Ic schéma de Lewis et la géométrie de la molécule OF2 selon la méthode VSEPR ainsi que Fhybridation de Fatome central_
+5) Quel est Ie degré doxydation de 0 dans OF2 ?
+Page 3
+Concours Physique et Chimie Session Juin 2012
 
+--- page 5 ---
+Étude dun équilibre chimique On se propose Fétudier   la réaction €obtention de HF partir de ZnFz sachant que celle-ci est endothermique dans le sens ZnFz(sd ) H,0,g) 2 HFg) + ZnO(sd) Dans que] sens évolue le système initialement à Féquilibrc lors 6-a dune augmentation de température à pression constante ?
+6-b) dune compression à température constante
+6-c) 'unc faible addition de ZnFz(sd ) à température ct volume constants
+En précisant1a signification de chaque terme, donner Fexpression puis   calculer la   variance 'un système contenant seulement les substances écrites dans léquation chimique ci-dessus_
+Peut-on choisir arbitrairement pour ce système 8-a) le volume, la température et la pression partielle de HF (puF) ?
+8-b) la pression partielle de HF (puF) et la fraction molaire de Feau en phasc vapeur Yuzo) ?
+Donncr 1expression de la loi daction de masse pour cct équilibre_
+Concours Physique et Chimie Session Juin 2012
+Page 4
 
+--- page 6 ---
+10) 10-a) Montrer que Pexpression donnant la constante déquilibre  en fonction de la température 'écrit sous la forme B Ln(K") = A
+10-b) Détcrminer les valeurs de A et B, sachant que K842K 0,61 et A,H? 109,1 kImol-'
+10-c) Sous la pression de bar et à T = 842 K, la phasc vapeur contient 46% molaire d'eau. Déterminer la température pour laqucllc on enrichit la phase vapeur cn cau jusqu'à la composition 70% molaire
+Page 5
+Concours Physique et Chimie Session Juin 2012
 
+--- page 7 ---
+Problème III étude du système HF-HzO Équilibre liquide-vapeur des corps purs: Sur la figure ci-dessous, on donne en fonction de la température (en 'C), les pressions de vapeur saturante (en mmHg) de Veau liquide et du fluorure d'hydrogène liquide 1680
+1560
+1440
+1320
+1200
+1080
+1 960 840 1 720 600
+480
+360
+240
+120
+? 8   8 & 8 8 : 2 3 3 9 température (PC)
+1) Déterminer graphiquement les températures d'ébullition de HzO et de HF sous 1,013 bar.
+2) Qucl est le composé le plus volatil des deux Justifier
+3) Qucl   est Feffet dune  diminution de   la   pression sur   les points débullition dcau   et du fluorure 'hydrogène?
+Dans quelles phases 'eau est stablc à (0, = H0PC, p; = 1120 mmHg) et (02 105 C, pz 840 mmHg)
+Concours Physique et Chimie Session Juin 2012
+Page 6
 
+--- page 8 ---
+5) En un point de coordonnés (0, p) de la courbe de la cocxistence du liquide et vapcur; les volumes molaires de Veau dans les deux phases sont Vliq 3,15x10 mol- et Vvap =15,8x10-5 m mol' 11,Cau M,cair Considérons une mole dcau   placée dans un systèmc   fermé de volume   0,1 litrc, maintenue la température € et sous la pression p. Déterminer les volumes dc la phase liquide V "iq et de la phase vapeur Vvap Cau
+Diagramme binaire Le   diagramme,  binaire   liquide-vapeur du   système   HzO-HF sous la   pression de 1,013 bar est représenté ci-dessous. (En abscisse est porté le pourcentage en masse en fluorure d'hydrogène et en ordonnée la température en  C)
+p = 1,013 bar
+120
+Dl(38,26/
+Coutbe (1) 28 Fo LiL
+100
+1222
+(III)
+ieeo
+Cburbe
+80 1 9 60
+86886008
+3669e3eoooe0002
+188ionioo
+40
+1
+20
+10 Hz0
+20
+30 40 50 6u pourcentage massique
+80
+90
+100
+HF
+Concours Physique et Chimie Session Juin 2012
+Page
 
+--- page 9 ---
+6-a) Compléter le diagramme ci-dessus et préciser les phases présentes dans les différentes parties du diagramme; numérotées dc (I) à (IV) Domaine (T)
+Domaine (II)
+Domaine (III)
+Domaine (IV) 6-b) Indiquer Ie nom de chacune des courbes frontières
+Courbe (1)
+Courbe (2) 6-c) Quelle est la particularité du point D
+7) Représenter Tallure dc la courbe d'analyse themmique obtenue lors du refroidisscment progressif entre 120 C ct 100 C, d'une vapeur de pourcentage massique 38,26 en HF.
+8) En maintenant la lempérature constante 80P€ el Sous la pression de 1,013 bar , on ajoute progressivement du HF à un systèmc constitué de g deau pure. Donner Fexpression puis calculer la masse minimale du HF qu'il faut ajouter pour obtenir un système biphasé . Concours Physique et Chimie Session Juin 2012 Page
 
+--- page 10 ---
+On considère un mélange liquide de composition massique 70% en HF sous la pression de 1,013 bar. 9-a) Déterminer la température de début d'ébullition de cctte solution:
+9-b) Un kilogramme de ce mélange est porté à 80*€. Déterminer la masse de la phase liquide
+ii. la masse de la phase_vapeur
+iii. la masse de HF contenu dans la phase_liquide;
+iv. la masse de HF contenu dans_la_phase vapeur
+Concours Physique et Chimie Session Juin 2012
+Page 9
 
+--- page 11 ---
+Problème IV : diagramme E-pH Les conventions adoptées pour le tracé du diagramme de prédominance sont La concentration totale en élément fluor dissous est égale à Ctra =1mol 1-1  A la frontière qui sépare les domaines de deux espèces dissoutes, les concentrations en élément fluor dans chacune des espèces sont les mêmes: Dans /eau; le fluor cxiste sous les trois espèces suivantes HF (aq), {aq' el HFz(aq )
+Diagramme de stabilité de leau 1) Écrire léquation de réduction de 02(g) cn I20 ct déduirc Ic potentiel Ea du couple correspondant en fonction du pH, pour poz bar
+2) Écrire Péquation de réduction de HzO en Hziss) et déduire le potentiel Eb du couple correspondant en fonction du pH, pour puz bar
+Diagramme de prédominance 3) Établir en fonction de la concentration Czra , Pexpression de a frontière 3-a) entre les domaines de prédominance de HFz(aq) ct HF (aq)
+Concours Physique et Chimie Session Juin 2012
+Page 10
 
+--- page 12 ---
+3-b) entre les domaincs de prédominance de HF?(aq) et F(aq)
+Représenter sur le diagrammc ci-dcssous
+4-a) les courbes Ea = f(pH) et Eb = f(pH) ;
+4-b) Jes courbes frontières entre HF(aq), F (aq et HFz(aq) pour Cira = 1 molL-l
+5) Indexer le diagramme obtenu.
+1,30
+1,10
+0,90
+0,70
+0,50 5 0,30
+0,10
+-0,10
+-0,30
+0,50 ; 8 8 3 8 2 8 3 8 2 8 2 8 3 8 8 2
+pH
+Page 11
+Concours Physique et Chimie Session Juin 2012
 
+--- page 13 ---
+Influence de la concentration du tracé sur le diagramme de prédominance précédent : 6) Comment évolucnt les frontières du diagramme précédent lorsque 6-a) C.a augmente (Ctra molL-l) ?
+6-b) Cura diminue (Ctra
+molL ) ?
+7) Pour quclle valeur de la concentration de tracé notéc devient instable ? L'identifier ?
+Fune des espèces HF(aq), F(aq) ou HFz(aq)
+En déduire alors ]équation de la frontière entre les deux espèces restantes
+FIN DE L'ÉNONCÉ DE CHIMIE INORGANIQUE
+Concours Physique et Chimie Session Juin 2012
+Page 12
 
+--- page 14 ---
+PARTIE II CHIMIE ORGANIQUE
+Barème
+Problème ] Problème II
+2,75 pts 5,25 pts Données relatives à Yensemble du sujet (Chimie organique) Élément Br Numéro atomique 35 Massc molaire g.mol 1,0 12,0 14,0 16,0 79,9
+Problème I : effets électroniques
+On donne ci-dessous les structures dcs phénols Al et A2. Al
+A2
+OH H,C _
+OH
+1) Indiquer quels sont les effcts électroniques (-I, +I, -M; +M) excrcés par les groupes CHO (dans Al) ct H,CO- (dans A2) sur le reste du cycle phénolique Nature et sens des effets Effet prédominant Composé électroniq ues
+0
+?H
+Al
+H;C_ A2
+OH
+Page 13
+Concours Physique et Chimie Session Juin 2012
 
+--- page 15 ---
+2) Écrire les formes limites les plus probables pour Al ct A2 en tenant compte uniquement des cffcts électroniques de -CHO (dans A1) et CH,O- (dans A2)
+Formes limites de Al
+Formes limites de A2
+Concours Physique et Chimie Session Juin 2012
+Page 14
 
+--- page 16 ---
+et A2 la constante dacidité correspondante parmi les 3) Attribuer à chacun des dérivés phénoliques Al valeurs de pK: 8,0 et 10,2. Justifier le choix .
+A2
+Composé
+OH
+H,C_o
+OH
+pKa Justification
+Problème II stéréochimie et réactivité des dérivés halogénés
+PARTIE A présence de la potasse (KOH) dans le DMSO Lc (R)-2-bromobutane (composé B) subit; cn (diméthylsulfoxide, 0-S(CH,)2); une réaction de substitution bimoléculaire. 1) Écrire, en le justifiant; la structure dc B selon la représentation de Cram.
+Page 15
+Concours Physique et Chimie Session Juin 2012
 
+--- page 17 ---
+2) De quel type de réaction de substitution s' agit-il ? Justifier la réponse:
+3) Détaillcr Ie mécanisme de cette réaction ct déterminer, en le justifiant; 1a configuration du ou des produit(s) obtenu(s) .
+Donner le nom systématique du (ou des) produit(s) de la réaction.
+PARTIE B Dans Peau (solvant polaire), le composé B subit une réaction de substitution donnant licu à un mélange racémique de produits. 1) Définir Fexpression mélange racémique >
+2) Qucl est 7e pouvoir rotatoire global dun mélange racémique ? Justifier.
+Concours Physique et Chimie Session Juin 2012
+Page 16
 
+--- page 18 ---
+3) Détailler le mécanisme de la réaction du composé B dans 1eau en précisant la configuration des produits obtenus
+Démontrer quc, pour cette réaction; lc temps de demi-réaction t1z est indépendant des concentrations du substrat et du réactif:
+PARTIE € Dans  les  deux cas précédents  (PARTIE et PARTIE B), les  réactions  dc substitution pcuvent être accompagnées de réactions d'élimination 
+Page 17
+Concours Physique et Chimie Session Juin 2012
 
+--- page 19 ---
+1) Dans le DMSO (PARTIE A) 1-a) Prévoir lc type de mécanisme de la réaction d élimination.
+1-b) Détailler ce mécanisme
+Concours Physique et Chimie Session Juin 2012
+Page 18
 
+--- page 20 ---
+1-c) Donner les différents   produits de cctte réaction en précisant le nom ct la stéréochimie dc
+chacun deux .
+Produit
+Stéréochimie
+Nomenclature
+1-d Qucl est Ic produit majoritaire ? Justifier _
+Page 19
+Concours Physique et Chimie Session Juin 2012
 
+--- page 21 ---
+2) Dans Hz0 (PARTIE B) 2-a) Prévoir le type dc mécanisme de la réaction d'élimination:
+2-6) Détailler le mécanismc de cette réaction
+FIN DE L'ÉNONCÉ DE CHIMIE ORGANIQUE
+Fin de Vépreuve
+Page 20
+Concours Physique et Chimie Session Juin 2012
 
+--- page 22 ---
+Corrigé de V'épreuve de chimie
+Concours physique et chimie
+Session Juin 2012

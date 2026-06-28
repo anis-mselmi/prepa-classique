@@ -1,5 +1,71 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de V'Enseignement Supérieur, de la Recherche Scientifique et de la Technologie Concours nationaux d'entréc Jux cycles de formation d'ingénicurs Session 2008
+2) "É) &WL=lgzbs s@bEyLal Jiwubjie=Ji uslifuuji 7an* CUOTKtquE ) EUDes paxgemnes sai Concours en Technologie Epreuve de Physique
+Date Jeudi 05 Juin 2008
+Heure 8 HOO
+Durée : 4 H
+Nbre pages
+Barème
+Probleme 1 7/20
+Problème 2 13/20
+L'usage d'une calculatrice non programmable est autorisé
+L'épreuve comporte deux problèmes indépendants; le candidat peut les résoudre dans Fordre qui lui convient; en respectant néanmoins la numérotation des questions. Le référentiel R(Oxyz) de base orthonormée Ux, Uy, Uz est supposé galiléen.
+PREMIER PROBLEME Bilan thermique pour un corps humain A sa naissance; un nouveau-né se retrouve dans un environnement beaucoup plus froid et perd immédiatement de l'énergie Le but du problème est de faire des bilans thermiques permettant de cerner les paramètres dont dépend la température interne d'un nouveau-né afin déviter une hypothermie, est-à-dire une température inférieure à celle normale du corps humain. IDiffusion thermique Le corps humain peut être assimilé à un cylindre homogène de longueur L suivant ]'axe Ox et de section droite S (voir figure 1) Les échanges thermiques avec Fextérieur se font à travers les deux surfaces de base &'aire totale 2S La surface latérale est  isoléc thermiquement . On désigne par et ^ respectivement   la capacité thermique massique et la conductivité thermique de ce corps. On note Pv la puissance volumique produite au sein de ce corps (production métabolique) Les grandeurs Pv c et 4 sont supposées constantes En régime permanent, la température en un point M de ce milieu dépend uniquement de son abscisse x ; elle sera notée T(x)
+Concours cn Technologie Session Juin 2008
+Eprcuve dc Pbysique
+Page 1/6
 
+--- page 2 ---
+~L/2
+Xtdx
+L/2
+Figure L
+1a. Rappeler la loi de Fourier relative à la conduction thermique. 1b. Que représente le flux du vecteur densité volumique de courant thermique   j6 à travers une surface 2 ? En déduire [unité de la densité volumique de courant thermique.
+2. En effectuant; en régime   permanent, un bilan énergétique pour un volume élémentaire compris entre les sections d'abscisses et x+dx; montrer que l'équation différentielle vérifiée #T par la température T(x) s'écrit 2-2
+3.a. Résoudre cette équation en supposant que les surfaces en contact avec l'air (en x = 4 sont à la même température T,. 3.b. En déduire l'expression de la température interne To du corps en x = 0. 4.a. En calculant le vecteur   Jh en 1 = 1 exprimer la puissance P  perdue par le milieu à travers les deux surfaces de base. 4.b. Comparer P1 à la puissance totale Po produite par le métabolisme au sein de tout le volume. Commenter . 4.c. Applications numériques
+Calculer, en Kelvin (K) puis en 'C, la température interne To. Calculer /'énergie produite par le métabolisme à la fin de la première heure de la naissance. Données S = 10-2 m? L=0,5 m T1 = 306 K Pv=51,2 Wm' 1 =0,4 WK' m'
+5. En admettant   que 5 % de lénergie   produite par   le métabolisme est évacuée suite lévaporation du liquide amniotique recouvrant le corps à la naissance, calculer la masse de ce liquide qui s' 'évapore en une heure . La chaleur latente de vaporisation du liquide amniotique vaut Lv 2000 kJkg ' II Iransfert convectif
+Le corps humain; modélisé comme précédemment; est plongé dans l'air de température Ta: Il échange avec celui-ci par convection; au niveau des deux surfaces de base de température T,, une puissance thermique sortante du corps Pc 2 hc $ (T1 ~Ta), où hc est une constante positive.
+6. Montrer, par analogie avec Félectrocinétique, qu'à ce mode de transfert on peut associcr une résistance thermique Rc, dite de convection; dont on donnera ]'expression et lunité . Concours cn Tcchnologie Scssion Juin 2008 Eprcuvc de Physique Page 2/6
 
+--- page 3 ---
+III_Iransfert par rayonnement
+La puissance rayonnée par lunité de surface dun corps noir dans la bande de fréquence v € v#dv s'écrit Z hv? dp dv 2(0
+où h, k et c sont respectivement la constante de Planck, la constante de Boltzmann et la céléritf de la lumière dans le vide_ 7.a. Montrer que la puissance surfacique totale rayonnée par un corps noir est donnée par la lo de Stefan T4. On donne du 2 P =0 Gpu-1 15 7.b. Calculer la constante de Stefan 0 Données h = 6,62 10-34 J.s k = 1,38 10*-23 JK' c = 3 108 m.s ! 
+8. Le maximum démission thermique pour un corps noir de température T1 = 306 K correspond à la longueur donde 1m ~ 10 um 8.a. Rappeler la loi permettant de calculer Am. 8.b. A quel domaine du spectre électromagnétique cette longueur donde appartient-elle
+9. On suppose que lair et la surface du nouveau-né (daire 2S) en contact avec celui-ci se comportent comme des corps noirs de températures respectives Ta et T1. 9.a. Donner 1expression de la puissance PR sortante du corps en fonction de S, 0, T1 et Ta 9.b. On suppose que lécart de température AT = T1 - Ta èst faible devant Ta (AT << Ta). Montrer que la puissance PR peut se mettre sous la forme PR 2 hr S (T1 - Ta), où hr est une constante qu' on exprimera en fonction de Ta eto. 9.c. En déduire que cet échange radiatif est aussi décrit par une résistance thermique Rr, dite de rayonnement que [on exprimera en fonction de Tas 0 et $S
+10. Dans la suite, on néglige les pertes par évaporation et on ne considère alors que les deux autres modes de transferts thermiques (rayonnement et convection). 10.a. Donner le schéma électrique analogue. 10.b. En déduire   1expression de la résistance   thermique  équivalente  R en fonction de hc, S,0 et Ta. 10.c. Exprimer puis calculer la puissance totale perdue Pp à travers les deux surfaces de base. Données hc = 2 Wm 2 K' T1 = 306 K ; Ta = 300 K ; S = 10-2 m? . 10.d. Comparer Pp à la puissance totale Po produite au sein de tout le volume. Commenter .
+11. Afin déviter une hypothermie, il est conseillé de couvrir le nouveau-né et de réduire ainsi la surface en contact avec /air. Déterminer le pourcentage de surface à couvrir pour avoir une température au milieu du corps de 37 C.
+Concours en Tcchnologie Session Juin 2008
+Epreuvc dc Physique
+Page 3/6
 
+--- page 4 ---
+DEUXIEME PROBLEME Polarisation des ondes planes LNotion de polarisation On considère une onde électromagnétique plane progressive monochromatique de pulsation @ de vecteur donde k=k uz Son champ électrique s'écrit E= Eox cos(kz @t) Mx + Eoy cos(kz @t + @) 4 ; où Eoxs Eoy et w sont des constantes réelles. On désigne par Q le point du plan donde (xOy) tel que 04 == 1. Rappeler la définition de la polarisation d'une onde électromagnétique plane 2. Pour quelles valeurs de $ la polarisation de l'onde est elle rectiligne ? Illustrer chaque cas par une figure dans le plan donde (xOy) 3. Quelles sont les conditions sur Eox; Eoy et € pour avoir une polarisation circulaire ? Dans le cas dune polarisation circulaire; le sens de parcours sur le cercle peut être obtenu partir de l'orientation du vecteur 5 = @0 45 comparée à celle du vecteur donde k = k 44 à Ainsi si les vecteurs 5 et k sont de même sens (respectivement de sens opposé) on qualifie londe de gauche (respectivement de droite) 4a. Exprimer, pour z = 0 ett = 0, le vecteur 5 - 4.b. En déduire pour chaque valeur: de @ correspondant à une polarisation circulaire, le sens de parcours sur le cercle. Illustrer chaque cas par une figure dans le plan donde (xOy). II- Polarisation et réflexion sur un métaL parfait On considère une onde   électromagnétique plane   progressive   monochromatique   polarisée rectilignement  suivant Ox qui arrive  sous incidence normale à un métal supposé   parfait occupant le demi-espace z> 0- Le champ électrique de cette onde incidente s'écrit 6 Eo cos(kz @t) ux-
+5. Le champ électrique 6 de cette onde incidente vérifie-t-il les conditions aux limites à Ie surface du plan métallique ? Justifier 6.a. Justifier que l'onde réfléchie doit avoir la même polarisation que celle de l'onde incidente_ 6.b. On note Eor rEo lamplitude du champ électrique de Tonde réfléchie; où r est un6 constante réelle, appelée coefficient de réflexion. Déterminer la valeur de r. On considère, présent,   une onde plane progressive  monochromatique  qui tombe, sou' incidence normale, sur le métal parfait. Son champ électrique s'écrit E; Eo cos(kz @t) 7 + Eo sin(kz ~ @t) 7.a. En utilisant le résultat précédent; écrire le champ électrique = de Fonde réfléchie. 7.b. Dire, en le justifiant comment est modifiée la polarisation de cette onde suite à la réflexion
+III- Notion de_pouvoir_rotatoire Un milieu est doté dun pouvoir rotatoire lorsqu'il est capable de faire tourner la direction d polarisation dune onde plane polarisée rectilignement.
+Concours en Technologic Session Juin 2008
+Eprcuvec de Physique
+Pagc 4/
 
+--- page 5 ---
+8. Montrer qu'une onde plane polarisée rectilignement suivant laxe Ox peut être décrite comm la superposition de deux ondes planes  polarisées   circulairement; Fune droite (notée Oa) Pautre gauche (notée Og)- On notera 6 et 6g les champs électriques correspondants.
+9. On envoie, à lentrée (z 0) dun milieu, une onde plane polarisée rectilignement suivan laxe Ox. On désigne par Eo lamplitude de son champ électrique. Dans ce milieu une onde circulaire droite se propage avec un vecteur donde k = ka Iz alor qu'une onde circulaire gauche se propage avec un vecteur donde kg =kg Ez avec kg #kd: 9.a. En utilisant   le résultat de la question 8, écrire le champ électrique de londe après traversée dune épaisseur e de ce milieu. 9.b. En déduire, qu'en 2 = e, londe est toujours polarisée rectilignement et que la direction d polarisation a tourné dun angle 0 qu'on exprimera en fonction de Ak = kd - kg et de lépaisseui traversée e
+IV- Exemple de milieu à_pouvoir_rotatoire
+On étudie dans cette partie la propagation; selon l'axe Oz, d'une onde plane monochromatiqué dans un milieu ayant la permittivité électrique € et la perméabilité magnétique #, du vide Ce milieu; électriquement neutre, contient des électronsimobiles de charge (~e) et de masse m e des ions supposés fixes. On désigne par nle nombre' d'électrons par unité de volume. Le champ électrique de londe s'écrit, en notation complexe 4=5exp[ikz - @t)] Pour un électron; on néglige le poids; les interactions avëc les autres charges ainsi que l'actior du champ magnétique de ['onde. Le milieu est soumis à un champ magnétique uniforme et stationnaire 5 Bo Dz 10.a. Ecrire ['équation différentielle vérifiée par le vecteur vitesse dun électron: 10.b. Résoudre, en régime   sinusoïdal forcé, cette   équation du mouvement et  donner   les expressions des composantes du vecteur vitesse = dun électron 10.c. En déduire que la densité volumique de courant j peut se mettre sous la forme 1 "4(+ (8)5^2)
+où @
+et 2 est à exprimer en fonction de @,€ et @p
+I. A partir des équations de Maxwell, on montre que le champ électrique est solution de léquation Al @=iAz 5 3z avec A1 = k? et A2 = 9 2 02_4 Il.a. En projetant cette équation sur les axes Ox et Oy, montrer que le champ électrique est nor nul pour A1 = + Az. 11.b. Ecrire; pour chaque cas, la relation entre les composantes Ex et Ey du champ électrique. En déduire que chaque cas correspond à une onde plane polarisée circulairement qu on notera Og et Od-
+12. Montrer que les relations de   dispersion associées aux ondes   Og et Oa   s'écriveni respectivement k? (1 4) 4-*(1 4)-
+Concours cD Tcchnologic Scssion Juin 2008
+Epreuve dc Pbysique
+Page 516
 
+--- page 6 ---
+13. Les signes de "? et k4, en fonction de la pulsation @, sont donnés dans le tableau suivant pulsation signe de k: signe de *3
+On ne cherchera pas à expliciter les pulsations @1 et @2. On envoie à l'entrée de ce milieu une onde polarisée rectilignement . Sans faire de calcul et en exploitant les résultats de la question 8, donner pour chaque domaine de pulsation; la polarisation de l'onde (si elle existe) après la traversée de ce milieu: 14. On supprime, dans la suite; le champ magnétique 5 14.a. Justifier   que le   milieu perd son pouvoir   rotatoire et que   la   relation   de  dispersion s'écrit, indépendamment de la polarisation de l'onde k' = 4 14.b. Pour @ > @p, calculer la vitesse de groupe Vg et la vitesse de phase vp. Le milieu est-il dispersif ? Justifier 14.c. Que se passe-t-il pour @ < @p V- Mesure du_pouvoir_rotatoire On considère le dispositif de la figure 2 comportant deux lentilles convergentes L1 et Lz et deux polariseurs parfaits P1 et Pz. Une source ponctuelle S, placée au foyer objet de LI, émet une lumière monochromatique de longueur d'onde 4 = 600 nm: On désigne par a l'angle entre les directions des axes de P, et Pz (figure 2). Au point A, on place un capteur optique permettant de mesurer |'intensité I de la lumière.
+LI
+P1
+Pz
+Figure 2
+15.a. Montrer que la loi de Malus; donnant l'intensité I en A, s'écrit sous la forme 1 = Io cos?a. 15.b. En déduire les valeurs de & permettant dobtenir une extinction totale de la lumière en A. 16. Après avoir établi une extinction totale de la lumière en A, on intercale entre les deux polariseurs une cellule comportant un milieu doté dun pouvoir rotatoire. On admet que l'angle 8 avec lequel  tourne la direction de polarisation dune onde polarisée rectilignement est donné par la loi 0 = 1 ? avec a = 10' nm De combien faut-il tourner l'axe du polariseur Pz pour rétablir /extinction de la lumière ? 17. Le dispositif étant réglé comme dans la question 16. La source S émet à présent une lumière blanche 4 € [400 nm800 nm] La lumière reçue au point A est dispersée au moyen dun prisme_ Quel est le nombre de radiations absentes du spectre ? Concours cn Tcchnologic Session Juin 2008 Epreuvc de Physique Page 6/6

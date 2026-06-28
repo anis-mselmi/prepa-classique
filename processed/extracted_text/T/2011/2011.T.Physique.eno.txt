@@ -1,7 +1,114 @@
+--- page 1 ---
+4Snjiu2/63i "k#bas eal#p Jiwyisi @iEliji Cil @usllyji 20M1w
+REPUBLIQUE TUNISIENNE
+Ministère de /'Enscignemcnt Supéricur ct de la Recherche Scientifiquc
+Concours Nationaux d'Entrée aux Cycles de Formation d'Ingénicurs Session 2011
+Concours Technologie Epreuve de Physique
+Date Jeudi 16 Juin 2011
+Heure : 8 HOO
+Durée 4 H
+Nbre pages 08
+Barème
+Problème 1 : 14 pts
+Problème 2 : 06 pts
+L'usage dune calculatrice non programmable est autorisé
+L'épreuve est constituée de deur   problèmes   indépendants.
+Un candidat peut toujours se servir d'un résultat fourni par l'énoncé pour continuer sa composition
+Problème l
+MSTITUT TREAR ToiRe , QIBLKOTHEQUR  Vx FruDes  8 "Ig YifUvs 
+Première Partie : Propagation dans le vide Lespace est rapporté à un référentiel   galiléen  9 (Oxyz) de base orthonormée  directe (u,,u,,u,) . On note (u,,u0,u, )la base sphérique.
+Dans   le   vide, une onde  électromagnétique;   plane;   progressive;  monochromatique   de pulsation 0, est caractérisée par son champ électrique en notation complexe 4 (M,) = Eo expi(ot- koz) |, , avec Eo une constante positive et k = @ La constante désigne la célérité de la lumière dans le vide c=3.108 ms-'
+1. Indiquer les caractéristiques de cette onde direction et sens de propagation; nature et direction de polarisation. Justifier son caractère plan. 2. Déterminer le vecteur champ magnétique @ (M,) de cette onde. 3. Calculer   la   densité  d'énergie électromagnétique u(M,t)   Comparer les   contributions électrique et magnétique à cette éncrgie_ En déduire la valeur moyenne Ui(M,t) par rapport au temps de u;(M,t). 4. Déterminer le vecteur de Poynting I, de cette onde. Commenter le résultat. 5. 5.1. Calculer le flux 0(t) de Il; à travers une surface $ plane et perpendiculaire à la direction de propagation.
+Concours Tcchnologic Scssion Juin 2011
+Eprcuve de Physiquc
+Page 1/8
 
+--- page 2 ---
+5.2. En déduire la valeur moyenne par rapport au temps de 6(t) à travers une surface unité perpendiculaire à la direction de propagation:. Cettegrandeur est appelée   intensité énergétique de Fonde et sera notée Ii
+Deuxième Partie Réflexion sur un conducteur parfait
+Un métal,   supposé conducteur   parfait, occupe le demi-espace correspondant à z> 0 (Figure [) Dans le demi-espace 0, occupé par l'air dont les propriétés électromagnétiques  sont assimilées à celles du vide, se propage ['onde décrite dans la première partie.
+Onde incidente
+Conducteur parbiit=
+Onde réfléchie
+Figure 1
+6. Rappeler les caractéristiques du modèle du conducteur parfait:.
+7.1. Déterminer ['expression complète du champ électrique E,(M,t) de londe réfléchie. 7.2. En déduire le champ magnétique E (M,t) de cette onde. 8. Déterminer les densités surfaciques de charge 0 et de courant   j, qui peuvent apparaitre sur la surface métallique z 0 9. 9.1. Déterminer; en notation réelle, les champs E(M,t) et   B(M,t) résultants dans lair. 9.2. Donner brièvement les principales caractéristiques de cette onde résultante. 10. Calculer la valeur moyenne du vecteur de Poynting de cette onde. Commenter le résultat. 11. Londe électromagnétique exerce sur un élément de surface dS du conducteur une force qui s'écrit dF 4(œÈ+}, ^ 6)ds
+[L.1 Proposer une explication du facteur dans dF 2 11.2 Déterminer et interpréter le sens de d7 11.3. Déterminer la pression de radiation Prad   exercée par londe électromagnétique sur la surface métallique. Exprimer Prad en fonction de I; et la célérité c de la lumière dans le vide
+Concours Technologie Scssion Juin 2011
+Eprcuve de Physique
+Page 2/8
 
+--- page 3 ---
+12. Interprétation corpusculaire Un certain nombre de faits expérimentaux ont conduit les physiciens à introduire I'idée qu'à une onde électromagnétique de pulsation @ et de vecteur donde k est associée un photon d'énergie € =hv = hw et de quantité de mouvement p=hk où h est la constante de h Planck, avec h = 2T 12.1. Déterminer la densité moyenne np de photons associée à /onde incidente. 12.2. En considérant le rebond des photons sur la paroi métallique 2 = 0 , déterminer la quantité de mouvement dp transférée au conducteur   par un photon   ayant   subit la réflexion: 12.3. En déduire la pression de radiation Prad  subie par la surface métallique. 13.  Application Lévitation par faisceau Laser Une bille sphérique; de centre 0, de rayon R et de masse m, en métal parfaitement conducteur de masse volumique H, est plongée dans un faisceau  Laser, assimilable à une onde plane dintensité I; (Figure 2)
+Figure 2
+13.1- Montrer que la quantité de mouvement dp transférée à la sphèrc par le rebondissement d'un photon associé au faisceau Laser s'écrit dps 2h_cos0 1, 13.2. Exprimer la force totale F exercée par le faisceau sur la bille en fonction de Ii, R et c. 13.3 . En déduire Vintensité   minimale imin nécessai re pour soulever la bille. Dans   ces conditions; que vaut la puissance Pmin interceptée par la bille ? 13.4, Calculer la masse minimale de la bille soulevée pour Pmin = 30 W. En déduire le rayon de celle-ci On donne g = 10 m.s? et p = 1,4.103 kg.m?'
+Troisième Partie Guide donde rectangulaire
+On considère un guide dondes rectangulaire de longueur supposée infinie suivant Oz, dans lequel règne le vide (permittivité eo, perméabilité Ho). Ce guide est délimité par quatre plans métalliques parfaitement conducteurs (Figure 3). On note 10 la longueur donde dans le vide illimité.
+Concours Tcchnologie Session Juin 2011
+Eprcuvc de Physique
+Page 3/8
 
+--- page 4 ---
+Figure 3
+On se propose d'étudier la transmission dans ce guide suivant la direction Oz dune onde électromagnétique de pulsation @, dont le champ électrique s'écrit
+4= f(x,y)expi(ot -kz) 4, Où f (x,y) désigne   une  fonction réelle   et k = 2n un nombre   réel positif, différent de ko = @= 2n 10 14. En utilisant 1'une des équations de Maxwell; montrer que la fonction f (x,y) ne dépend pas de x. On la notera f (y) .
+15. Déterminer l'équation différentielle à laquelle satisfait f (y)  16. En utilisant les conditions que doit vérifier le champ électrique sur les plans conducteurs limitant le guide d'ondes; montrer que f (0) = f(b) =0. 17. 17.1. Résoudre   léquation différentielle satisfaite   par f (y) et montrer   que   le champ électrique s'écrit @n EonS nTy sinl Jexpi(@t -kz) Z,
+où n est un entier non nul (supposé positif) et Eon est une constante réelle_ Chaque valeur de lentier n correspond à un mode de propagation. 17.2. Décrire la nature de cette onde 18. Donner les composantes du champ magnétique @n de cette onde. 19. 19.1. Discuter la transversalité des champs Én et En 19.2. Vérifier que 4n satisfait également aux conditions aux limites sur les   parois métalliques du guide donde.
+Concours Tcchnologie Session Juin 2011
+Eprcuve de Physique
+Page 4/8
 
+--- page 5 ---
+20. Exprimer en fonction de @ c, n et b. En déduire la longueur d'onde dans le guide 2 en fonction de 10, b et n 21. Montrer qu2 'il existe une pulsation de coupure @ en dessous de laquelle il ny plus propagation. Exprimer @ en fonction de b et c. Pour b = 6 cm, calculer la fréquence de coupure Vc.
+22. Exprimer la   vitesse de phase Vo de londe en fonction de C,
+et du rapport @c
+Commenter.
+23.
+23.1. Déterminer 1expression du vecteur de Poynting [I de l'onde dans le guide. 23.2. En déduire [expression de la moyenne temporelle (ii)de ce vecteur. 24. Déterminer la puissance moyenne transmise par une section droite du guide donde. 25. Déterminer 1expression de la moyenne temporelle < u > de lénergie électromagnétique. 26. En calculant de deux manières différentes ['énergie moyenne traversant  pendant dt la section droite du   guide, déterminer   lexpression de   la   vitesse de   propagation Vede lénergie 27.  Quelle relation simple y a-t-il entre Ve et v, ? Cette relation est-elle universelle ? 28. Si les parois du guide dondes ont une conductivité finie, quelle en est la conséquence la plus importante ?
+Problème 2
+On se propose détudier certaines caractéristiques d'un spectrographe à réseau:  Ces caractéristiques sont liées au phénomène de diffraction qui   présente de nombreuses applications
+Première Partie Diffraction par une fente
+On étudie la figure de diffraction de Fraunhofer donnée par une pupille diffractante (D), contenue dans le plan Oxy , constituée d'une fente F centrée sur laxe Oz, de largeur a suivant Ox, de longueur L >> a et de fonction de transparence t(x) (Figure 4) Cette pupille est éclairée par une onde monochromatique de longueur donde ^ provenant d'une fente source très fine F, parallèle à F et placée au foyer principal objet d'une lentille convergente (L1) de distance focale image f' Lécran d'observation se trouve dans le plan focal image d'une lentille convergente (Lz) de distance focale image f2- Ces lentilles sont utilisées dans les conditions de lapproximation de Gauss. Le dispositif est plongé dans l'air dindice de réfraction égal à 1
+Concours Technologic Session Juin 2011
+Epreuve de Physique
+Pagc 5/8
 
+--- page 6 ---
+Xp
+M(X)
+2
+P(x)
+2
+(Lz)
+Ecran
+Figure 4
+1.1. Enoncer le principe de Huygens-Fresnel. 1.2. Rappeler les conditions de lapproximation de Gauss. 1.3. Définir brièvement ]approximation de Fraunhofer. 2. La fonction de transparence t(x) est donnée par
+t(x) =1 pour Ixl< 2 t(x) =0 ailleurs
+2.1. Traccr, jusqu'au point M de lécran; le cheminement des rayons diffractés en et en P dans la direction 0. 2.2. Déterminer la différence de chemin optique 8(M) entre les deux vibrations associées à ces deux rayons 3. 3.1. Etablir lexpression de lamplitude complexe A(X) de la vibration lumineuse diffractée au point Mde lécran par cette fente. 3.2. En déduire l'expression de lintensité lumineuse correspondante I(X):
+4.1. Représenter I(X); en précisant les positions des minima et des maxima secondaires_ 4.2. Déterminer   approximativement le rapport entre Pintensité du   premier maximum secondaire et celle du maximum principal . Commenter. 5. Décrire et justifier brièvement ce qu'on observe lorsqu'on translate, dans son plan; la fente diffractante F d'une distance b suivant |'axe Ox.
+Concours Technologic Scssion Juin 2011
+Eprcuve de Physique
+Page 6/8
 
+--- page 7 ---
+Deuxième Partie Goniomètre à réseau plan de N fentes
+Un réseau plan constitué de N fentes identiques parallèles; parfaitement transparentes, de même largeur a et distantes entre elles de d (( pas > du réseau) repose sur la plate-forme dun goniomètre. Le réseau est éclairé par un faisceau parallèle, monochromatique; de longueur donde 2, sous   une incidence La mobilité du plate-forme autour dun axe parallèle aux fentes du réseau permet de modifier i. Le faisceau est diffracté à Tinfini dans la direction 8 Les angles i et 8 sont comptés positivement dans le sens des orientations choisies (Figure 5)
+6. Reproduire la figure 5 en complétant le cheminement des rayons considérés. Déterminer la différence de phase @(M) entre les deux vibrations associées aux rayons lumineux provenant des centres de deux fentes consécutives. 8 Les  maxima de diffraction dordre p sont obtenus dans les directions €p. Déterminer [expression de @p (formule fondamentale du réseau)
+X
+M(X)
+Réseau
+E
+Figure 5
+Mesure d'une_longueur d'onde
+9 Déterminer la déviation D entre le rayon incident et le rayon diffracté correspondant au maximum dordre p. 10 10.1 . Montrer que, lorsque i varie; D passe par un minimum Dm pour Opm im- 10.2. En déduire [expression de Dm en fonction de p, 1 et d. I1. Le réseau  est  maintenant   éclairé  par un faisceau   parallèle dune lampe vapeur de mercure Pour le spectre d'ordre 2, on mesure un minimum de déviation Dmm = 51940' pour la radiation 1 435,8 nm. Pour la raie verte, on mesure D2m 66912' 11.1. Déterminer le nombre de traits (fentes) par millimètre du réseau utilisé 11.2. Déterminer la longueur donde de la raie verte du mercure.
+Concours Tcchnologie Session Juin 20/1
+Epreuve de Physique
+Page 7/8
 
+--- page 8 ---
+Dispersion Le réseau est maintenant éclairé sous incidence fixe. 12. d0 12.1. Déterminer la dispersion angulaire du réseau, à lordre p. d1 12.2. Comment peut-on augmenter cette dispersion ? 13.
+13.1. En déduire la dispersion linéaire du réseau sur ['écran dobservation d1 13.2. Que peut-on dire de cette dispersion dans lapproximation des faibles angles ? 13.3. Calculer cette grandeur en mm.nm pour lordre p = 2. On donne f2 250 mm 14. 14.. Calculer; à /ordre 2, la distance AXz séparant les maxima principaux du doublet jaune de sodium de longueurs d'onde respectives 21 589,0 nm et 12 589,6 nm. 14.2 Le spectrographe utilisé permet-il la résolution de ce doublet; sachant que sa limite de résolution vaut AXzmin = 0,2 mm-
+gin@ [Gpune
+Concovrs Technolopic Session Juin 2011
+Epreuve de Physiquc
+Page 8/8

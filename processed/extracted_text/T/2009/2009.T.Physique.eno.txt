@@ -1,5 +1,79 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère dc "'Enseignement Supéricur, dc la Rechcrchc Scicntifique et de la Techmologic
+4BW}528di &G2a.uss Ixsybeu Uu Yiji eubliji uunlilji Oufllyji 2009 :
+Olnavonlonolo Tulic
+Concours Nationaux d'Entrée aux Cycles de Formation d'Ingénieurs Session 2009 JSTITUY PRf? Concours  Technologie ;cAre QruotHEqu? Epreuve de Physique ETUDes  F Dkgexeurs
+Date Jcudi 04 Juin 2009
+Heure 8 Hoo
+Durée : 4 H
+Nbre pages 06
+Barème Partie 1 : 05 pts Partie 2 : 06 pts Partie 3 : 04 pts ; Partie 4 : 05 pts
+L'usage d'une calculatrice non programmable est autorisé L'épreuve est constituée de quatre parties indépendantes: Il sera tenu compte de la présentation des réponses: Une écriture difficilement lisible sera considérée fausse.
+Données numériques
+Permittivité électrique du vide Perméabilité magnétique du vide Célérité de la lumière dans le vide
+€o = 8,854 10-12 Fm"' Ho = 4T 10-7 Hm-' c = 3 108 m.s'
+Formulaire
+En coordonnées cartésiennes, on définit pour un champ vectoriel G = G(x)ey , lopérateur laplacien par AG = (AG(x))ey_
+L'effet laser Light Amplification by Stimulated Emission of Radiation > est un principe damplification cohérente de la lumière par émission stimulée. Une source laser associe un amplificateur optique basé sur leffet laser à une cavité optique (résonateur), généralement constituée de deux miroirs, dont au moins l'un des deux est partiellement réfléchissant. Le laser Hélium-Néon; par exemple, possède de nombreuses  applications   scientifiques et industrielles, on l'utilise aussi au laboratoire pour les démonstrations en optique. Il émet une radiation rouge de longueur donde 632,8 nm
+On propose; dabord, un modèle simple permettant de décrire le principe damplification dans un résonateur à deux miroirs. On fait, ensuite; lanalyse dun faisceau laser. Enfin; on montre Pintérêt de la cohérence temporelle sur la visibilité des interférences. Dans toute lépreuve; l'espace est rapporté à un système daxes (Ox, Oy, Oz) auquel est associée la base orthonormée directe ( ex,ey,ez)
+Concours Tcchnologic Scssion Juin 2009
+Eprcnve dc Pbysique
+Psge 1/6
 
+--- page 2 ---
+1. Réflexion d'une onde électromagnétique sur un conducteur parfait Le demi-espace X > 0 est occupé par un métal conducteur parfait; de conductivité infinie. Dans le demi-espace x < 0 règne le vide (Figure 1). Une onde électromagnétique plane, monochromatique; polarisée rectilignement selon Oy, se propage dans le vide dans le sens des croissants ct arrive sous incidence normale à la surface du métal. En tout point M du demi-espace x < 0 , repéré par le vecteur OM  le champ électrique de Fonde incidente s'écrit E; = Eo cos(ot kx) ey où Eo est une constante.
+vide 1E;
+Figure 1
+1.1.a. Rappeler l'équation de propagation vérifiée par le champ E; En déduire la relation liant le vecteur donde k à la pulsation @ de Fonde. 1.1.b. Etablir la relation liant le champ électrique E, le champ magnétique B et le vecteur donde k dune onde électromagnétique plane progressive sinusoïdale dans le vide. Déterminer alors Fexpression du champ magnétique B,(x,t) de londe incidente. 1.1.c. Déterminer lexpression de la densité volumique d'énergie électromagnétique  u; (x,t) et du vecteur de Poynting I (x,t) de Fonde incidente: En déduire leurs valeurs moyennes temporelles (u;(x,t)) et ln (x,1 t)) 1.2.a Que vaut le champ électrique à Fintérieur du métal parfait ? Justifier la réponse. 1.2.b. Montrer que, en labsence de champ magnétique statique; le champ magnétique est nécessairement nul dans le conducteur. 1.3a. Ecrire la relation de passage vérifiée par le champ électrique à linterface entre le vide et le conducteur parfait ? 13.b. On admet que londe réfléchie est plane; de pulsation 0 et de champ électrique E. polarisé selon ey Quelle est lorigine physique de cette onde ? 1.3.c. Déterminer les expressions des champs électrique E,(x,t) et magnétique B,(x,t) de Fonde réfléchie en fonction de Eo, @, c et k.
+2. Modes propres d'une cavité
+Une cavité sans pertes; d'axe Ox et de longueur L, est constituée par l'association de deux miroirs métalliques parfaits; de même surface S, confondus respectivement avec les plans X = 0 et x = L (Figure 2). On suppose qu'à l'intérieur de la cavité, où règne le vide, le champ électrique d'une onde monochromatique polarisée selon €, s'écrit en notation complexe
+Concours Techpologie Sesslon Juin 2009
+Eprcuve de Pbysique
+Pagc 2/6
 
+--- page 3 ---
+[(x,t) = E, ej(wt-kx) ey + Ez ej(ut+kx) ey
+où E1 et Ez sont des constantes
+E
+Figure 2
+2.1. Quelles sont les conditions aux limites imposées par la présence du métal   parfait  en X =0 et en X = L ? 2.2 Déterminer Ez en fonction de E . En déduire les valeurs possibles fn de la fréquence de telles ondes pouvant exister dans la cavité. On exprimera fn en fonction de l'entier naturel n et de la fréquence f; du mode fondamental de la cavité. 2.3. Établir Yexpression En (x; t) du champ électrique du mode propre dordre n dans la cavité en fonction de Ev, n, L et c Commenter la structure de cclte onde. 2.4. Déterminer  les abscisses Xp (p entier) où En (x,t) est constamment   nul.  Donner   la distance entre deux valeurs consécutives de Xp. 2.5. Déterminer le champ magnétique Bn (x,t)   associé à cette onde. Expliciter les abscisscs x'p en des points où le champ magnétique est constamment nul. 2.6. Calculer, en fonction de Eo, El, L ct S, la moyenne   temporelle de   lénergie électromagnétique totale de la cavité (U_ Cil associée au champ (En ,Bn
+Dans la suite, les miroirs x 0 et x L sont supposés des miroirs plans non absorbants; et hautement réfléchissants; mais aussi partiellement transparents.  On définit pour un miroir le facteur  de réflexion en puis issance (ou en énergie) R et le coefficient   de transmission en puissance (ou en énergie) T. Ces coefficients R et T sont supposés réels positifs et vérifient R +T =1 Cette cavité   est éclairée, sur lensemble de la surface utile $, par un faisceau   dintensité constante  que lon   assimilera une onde plane  progressive monochromatique de vecteur donde k k ex de longueur donde ^ et d'amplitude Eo (Figure 3).
+vide
+vide
+Eo
+Figure 3
+Dans ce cas, on montre que la moyenne temporelle (Uem )  de lénergie électromagnétique totale de la cavité de longueur L et de surface S, lorsqu'elle est éclairée en incidence normale en régime permanent; est donnée par
+Concours Tccbnologic Scsslop Juin 2009
+Epreuvc dc Physique
+Page 3/6
 
+--- page 4 ---
+1-R? (U.) =SL EgE; 2 1+R ~2Rcos(2kL)
+2.7. Déterminer les fréquences; dites fréquences de résonance; pour lesquelles l'énergie de la cavité (U passe par un maximum_ Comparer aux fréquences fn introduites à la question 2.2 2.8. La cavité est éclairée avec une onde électromagnétique de fréquence f voisine de fn: On pose Af = f - fn et on suppose que |Af |<< fi. 2.8.a Donner l'expression approchée de (U en développant le dénominateur au deuxième Af ordre en Montrer qu'elle s'écrit sous la forme f1 U (u max cm 1+4F2 Af f, Expliciter Umax et F. 2.8.b Donner   lallure de (Uem) en fonction de Af En déduire   la largeur à mi-hauteur correspondant: 2.8.c La grandeur F est souvent appelée < finesse > de la cavité. Justifier cette dénomination 2.9. Lune des manières de placer la cavité électromagnétique en configuration résonante est de modifier L à fréquence fixe. 2.9.a. Londe électromagnétique dans la cavité ayant une longueur donde fixe 2, quelles valeurs Ln faut-il donner à L pour placer la cavité en configuration résonante ? 2.9.b. On cherche à estimer la tolérance AL sur la distance L, qui permet de conserver la U cavité en configuration quasi-résonante ( (Uem) 2 ma  ) L étant voisine dune valeur Ln, on 2 pose AL =L-L et on suppose que JAL| << 1. Déduire de la condition de résonance une relation simple entre AL, ^ et F. En déduire Y'ordre de grandeur de la précision du réglage de L pour R 0.999, si on éclaire la cavité dans le visible. Commenter le résultat.
+3. Etude dun faisceau laser
+Un laser He-Ne émet un faisceau parallèle de lumière monochromatique non polarisée de longueur donde ^ 632,8 nm dans de vide; de section circulaire; de diamètre d 1,4 mm et transportant une puissance Po 1 mW_ 3.1. Quelle est la couleur de cette lumière ? 3.2. Ce faisceau   tombe, sous incidence normale, sur un polariseur   rectiligne parfait (P) (Figure 4)
+laser
+Figure 4
+Sans faire de calcul, justifier que la puissance transportée par le faisceau à la sortie du polariseur vaut 0,5 mW. 3.3. Déterminer lamplitude Eo du champ électrique et la valeur moyenne temporelle de la norme du vecteur de Poynting de londe à la sortie de (P) 3.4.On dispose d'un analyseur rectiligne parfait et dune lame quart d'onde. Indiquer comment procéder pour i- Obtenir de la lumière polarisée elliptiquement à partir de la lumière obtenue avec le montage de la figure 4. ii- Montrer que la lumière est polarisée elliptiquement. Concours Tcchpologle Scssiop Juin 2009 Eprcuve dc Pbysiquc Pnge 4/6
 
+--- page 5 ---
+3.5. On se propose dagrandir la section du faisceau en le conservant parallèle On dispose pour cela de deux lentilles minces convergentes L1 et L2 de distances focales f, 5 mm et f'2 = [OOmm respectivement ct dune   lentille mince divergente L; de distance focale f', =-Smm L1 et L, ont chacune un diamètre de 10 mm et L2 & un diamètre de 40 mm Montrer à laide dun schéma, que ]'association de deux lentilles; à préciser, permet dobtenir le résultat cherché En déduire le diamètre D du faisceau obtenu,
+3.6 En réalité, le faisceau sortant du laser n'est pas rigoureusement parallèle il est légèrement divergent; les rayons extrêmes faisant entre eux un angle 20 petit (Figure 5).
+laser
+20
+Figure 5
+3.6.9 La cause   principale  de cette divergence est  due à un phénomène   lié à la nature ondulatoire de la lumière. Quel est ce phénomène ? 3.6.b Si /on admet que Fangle 20 est du même ordre de grandeur que celui qu'on obtiendrait avec une ouverture carrée de coté d limitant le faisceau à la sortie du laser, évaluer 20.
+4. Phénomène dinterférences et influence de la largeur spectrale
+4.A. Etude du phénomène d'interférences en lumière parfailement  monochromatique. On considère un système optique constitué par une source étendue Se qui émet une lumière parfaitement monochromatique de longueur donde dans le vide 10. On place après la source deux lames de verre {1 et {z strictement parallèles; séparant une lame d'air d'épaisseur e et dindice n 1. On ne considère que les deux rayons (1) et (2) qui interfèrent (figure 6) et on supposera qu'ils ont la même intensité lumineuse. On négligera /'épaisseur des lames de verre C, et {2. On note i Pangle dincidence dun rayon incident avec le système ({1,{2). On ne tient pas compte d'éventuels changements de phase lors de certains types de réflexion.
+Se
+n=1 {1 n =1 {2
+Figure 6
+4.A.a. Exprimer la différence de marche entre les rayons (1) et (2) à /infini, en fonction de e et de i. 4.Al.b. En déduire que les franges d'interférences sont des anneaux situés à /'infini. 4.A.2. Exprimer lordre dinterférences en général p, et lordre d'interférences po au centre (i =0) en particulier. On admet que lordre dinterférences au centre po est un entier. Quel est Pordre dinterférences p1 du premier anneau brillant ? 4.A3. Déterminer les rayons angulaires iv, i2 et i3 des trois premiers anneaux brillants si ['on choisit 10 632,8nm et 36630 ? On se place dans le cas où /angle i est très petit. 20 4.A.4. Comment s'écrit /expression de [intensité lumineuse I en un point Mde lécran, placé à Finfini, en fonction de 1o, intensité lumineuse au centre de la figure d'interférences, de po et de i ? 4.A.5 Représenter l'allure de la courbe I = I(i)
 
+--- page 6 ---
+4.B. Influence de la largeur spectrale La source Se n'émet pas une radiation parfaitement monochromatique; mais ayant une largeur 410, c'est-à-dire qu'elle contient toutes les radiations  dont le nombre donde est 10 Aoo AOg compris entre € et 0 + 2 Chaque   radiation élémentaire de   largeur do donnant au centre de lécran Tintensité Ido élémentaire dIo (o) Aoo 4.B.1. Montrer que lintensité lumineuse en un point Mde lécran s'écrit sous la forme 1o Vcosp)
+Donner les expressions de V et Q 4.B.2. On se place au centre 0), pour quelle valeur e de e la fonction V s'annule pour Ja première fois ? Que peut-on déduire pour la visibilité des franges quand 0.671 eo
+Fin de Vépreuve
+Concours Technologic Session Juin 2009
+Epreuvc de Physiquc
+Page 6/6

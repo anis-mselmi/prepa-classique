@@ -1,5 +1,113 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministere de VEnseignement Supérieur, dc la Rccherche Scientitique et de la Technologic L~lji Ui
+a)42s6a)
+{Wjs*~s Isss5uky~L Jsw Luibji 21jaliji Olnji isllji 2009 ,8
+cinquuolcaoi
+Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs Session 2009
+[Concours Physique Chimie
+Épreuve de Chimie
+Date Mardi 02 juin 2009
+Heure 8"
+Durée 3h
+Nombrc dc_pages
+PARTIE A CHIMIE INORGANIQUE
+Partie 1,5 pt
+Partie II
+Partie III 2,0 pts
+Partie IV
+Partie V 3,5 pts
+Barème / 12
+1,5 pt
+3,5 pts
+PARTIE B CHIMIE ORGANIQUE
+Exercice 2,75 pts
+Problème
+Barème 08
+5,25 pts
+Cet énoncé comporte 6 pages de texte.
+Les parties A et B doivent être traitées sur deux copies séparées.
+Les candidats sont priés de présenter leurs réponses dans l'ordre même de lénoncé L'usage des calculatrices électroniques de poche non programmables est autorisé L'utilisation des téléphones portables en salle d'examen est strictement interdite. Aucun échange n'est autorisé entre les candidats YiSTTUT Auawuur DÉBUT DE L'ÉNONCÉ GUOTHEQUE ) (ns; Qgtns:Rs SFAx JPARTIE A CHIMIE INORGANIQUE]
+Létain (du latin stannum qui signifie plomb argentifère) est un métal connu depuis Pâge de Bronze (2500 2000 avant JC.) Ses propriétés   mécaniques   (tendre; malléable et ductile) expliquent sa large   utilisation dans  la préparation de divers alliages dont  le bronze  (alliage   étain cuivre). C'est un élément assez rare, il représente seulement 0,004 % de la croûte terrestre
+Concours Physiquc Chimic Scssion Juin 2009
+Épreuve de Chimic
+Page 1/6
 
+--- page 2 ---
+Données à 298 K
+Numéros atomiques de /étain ZSn 50 et du chlore ZcI 17. Rayon de lion sulfure Rs?- 1,84  . Masses molaires atomiques (en g.mol ') de létain Msn = 118,7 et du plomb Mpb 207,2. Constante des gaz parfaits R = 8,32 J.KI mol-' Potentiels   redox standard (ou normaux;, àpH = 0): Sn 4+ ISn 2+ Cr2OzICr 3+ Couple redox E' (en volt) 0,15 1,23 Grandeurs thermodynamiques AfHs enthalpie standard de formation et S' entropie molaire standard à 298 K Composé SnOz (s Sn (s ApH' kJmol 580,7 0 S (JK mol 52,3 51,5 205,0 Nombre d'Avogadro NA 6,02.10 mol-1 Température de fusion normale de létain T% fus = 505 K. Température d'ébullition normale de l'étain T' éb = 2543 K Chaleur latente de fusion de létain AfusHC = 7,1 kJ.mol-' L'air est constitué de 80 % (en mole) de diazote et 20 % de dioxygène.
+Partie I Atomistique (LS pL
+La configuration électronique de l'étain dans létat fondamental est 1s? 2s2 2p6 3s2 3p6 4s2 3d0_ 4pé 5s2 4d" 5p? . I-1) Indiquer sa position   (colonne et période) dans le   tableau   de   classification périodique. conduit ions stanneux Sn 2+ et stannique   Sn 4+ 1-2) L'étain aux Donner leurs configurations électroniques. 1-3) Donner la configuration électronique du chlore dans son état fondamental. 1-4) a) Préciscr la formule de Lewis de chacune des espèces SnC{z et SnCl,. b) Indiquer le type VSEPR et la géométrie spatiale de chaque espèce.
+Partie IL:_Étude cristallographique de Vétain (15 pt
+une température inférieure à 12  C, /étain cristallise sous une forme allotropique dite <étain gris) ayant la structure du carbone diamant, avec le paramètre a = 6,49 %
+Il-1) Représenter la projection cotée de la maille et son contenu sur le plan (001) II-2) Calculer le rayon atomique de létain dans cette structure. Il-3) Déterminer la masse volumique (exprimée en kg.m de cette forme détain. II-4) Calculer la compacité de cette structure.
+Concours Physique Chimie Session Juin 2009
+Epreuve de Chimic
+Pagc 2/6
 
+--- page 3 ---
+Partie III Étude_cristallographique du sulfure d'étain (II) (2.0 pts2
+Lune des formes allotropiques du sulfure détain (II) SnS correspond à une structure de type NaCl de paramètre a = 6,00 %
+III-1) Représenter, en perspective; la maille de SnS et son contenu. III-2) Donner les coordinences des anions et des cations dans cette structure . 2+ III-3) En admettant le contact anion-cation; déduire le rayon de Fion stanneux Sn III-4) Les valeurs des rayons ioniques sont-elles compatibles avec le type structural ? Justifier . III-5) Déterminer Fangle de diffraction du 1 ordre par la série de plans réticulaires (111) sachant que la longueur donde de la radiation utilisée est ^ = 1,54 %.
+Partie IV Métallurgie deVétain (35 pts2
+Dans cette étude Tous les gaz ont un comportement parfait. Aucune miscibilité n'est observée à létat solide. Le principal minerai   de létain est la   cassitérite SnOz- La densité élevée de ce composé, par rapport aux impuretés; permet denrichir le minerai en SnO2 par simple lavage . On obtient ainsi un minerai concentré.
+IV-1) Le dosage dun concentré  détain consiste à déterminer le pourcentage en masse de létain   dans ce minerai   (enrichi). Le dioxyde d'étain SnOz est mis en suspension dans 1eau puis attaqué par du plomb solide en excès Létain est alors réduit à létat dion stanneux Sn 2+ Lorsque la réduction est terminée; on récupère la solution de Sn?+ obtenue Celle-ci est ensuite titrée par du bichromate de potassium en milieu acide. 2+ a) Écrire la réaction de titrage de Sn par Fion bichromate. b) Le traitement dun échantillon de 0,90 g de minerai  enrichi donne une solution dions Sn?+ dont le titrage nécessite 20 mL dune solution de bichromate de concentration C 0,05 molL En déduire la teneur (exprimée en pourcentage massique) en étain du minerai étudié. IV-2) L'étain métallique est récupéré à partir de SnO2 par métallurgie en présence de carbone à 1500 K. a) Rappeler en quoi consiste lapproximation dEllingham: b) Exprimer Venthalpie libre standard AG? (T) de la réaction relative au couple SnOz(s)/Sn (pour une mole de dioxygène) en fonction de la température absolue dans le cadre de 1 'approximation d'Ellingham dans le domaine 600 2000 K c) Pour le couple CO(g)C(s), /enthalpie libre standard (kJ.mol ') s'exprime en fonction de la température (K) par la relation AG%(T) 220 0,180xT. Calculer la température à partir de laquelle la réduction de SnOz par le carbone devient possible dans les conditions standard. Concours Physiquc Chimie Session Juin 2009 Épreuve de Chimie Page 3/6
 
+--- page 4 ---
+Dans Findustrie , on opère à des   températures voisines de 1500 K. Pourquoi ?
+Partie V : Diagramme solide liquide du svstème_binaire Sn Pb 63.5 pts)
+Le diagramme isobare solide-liquide du binaire étain-plomb est donné ci-dessous
+T(PC)
+327
+300
+232
+200
+180
+100
+sn
+10
+20
+30
+40 50 60 % massique Pb
+70
+80
+90
+Pb
+V-1) Indiquer les phases existantes dans les domaines 1=, 2 3 et 4 du diagramme. V-2) Comment appelle-t-on le point B ? V-3) On refroidit un système constitué de 3 g détain et 7 g de plomb, initialement pris à la température de 300 C. a) Quelle est la fraction molaire de létain dans ce mélange ? b) A quelle température  apparaît le premier cristal de solide ? Quelle est sa composition ? c) Donner les compositions et les masses des   phases en équilibre à la température (180 + e) 'C; (e étant un petit positif). Même question pour la température (180 e) 'C. e) On refroidit le mélange étudié de 300 à 100 'C. Représenter la courbe de refroidissement correspondante. Indiquer les phases existantes sur chacune des branches de la courbe et commenter chaque accident thermique. V-4) L'étamage par immersion est une opération de traitement de surface des pièces métalliques afin de les protéger contre la corrosion. On applique une couche d'étain sur la pièce métallique en la plongeant dans un bain liquide contenant de létain. Justifier, en faisant référence au digramme, pourquoi au lieu de létain pur, on utilise un mélange étain plomb liquide à 63 % (en masse) d'étain.
+FIN DE L'ÉNONCÉ DE CHIMIE INORGANIQUE. Concours Physiquc_ Chimic Session Juin 2009 Épreuve de Chimie Page 4/6
 
+--- page 5 ---
+[PARTIE B CHIMIE_ORGANIQUEI
+EXERCICE (2 75 points)
+On considère la suite réactionnelle suivante:
+AlCI; HCI
+Benzène
+cO
+KOH cc
+moles (A)
+(B)
+(C) (alcool)
+SOCI? (C)
+KCN (D)
+H;O
+H;O (F) éthanol
+EtONa 1) (A) (G)- (H 2) H,O
+H2SO4 cc (I) (J) - (J') +étharol Chauf fage
+Sachant   que J et J' sont deux isomères géométriques; donner  les structures des produits A; B, C, D, E, F, G, H, I,J et J' sans détailler les mécanismes réactionnels.
+PROBLÈME (5.25 points)
+On considère le composé A représenté ci-contre:
+(A
+Me
+Dans   tout le problème, on supposera   que la structure du cycle à 4 carbones est maintenue_
+1) Combien de carbones asymétriques le composé A comporte-t-il ? 2) Sans les dessiner, donner le nombre de stéréoisomères optiques pouvant correspondre à A 2 3) On considère le stéréoisomère trans de A que lon désignera par Al où le carbone portant T'atome de chlore est de configuration absolue (R). Donner une représentation spatiale  de Al ainsi que son nom en nomenclature internationale en précisant la configuration absolue du deuxième carbone asymétrique. 4) L'hydrolyse de A2, énantiomère de Al, conduit par une réaction du premier ordre à trois produits Bl, B2 et C. Le composé C ne présente aucune activité optique. Sachant que tous ces produits ont pour formule brute CsHjoO 4-a) Donner la structure spatiale de A2. 4-b) Détailler le mécanisme de cette réaction en donnant les trois produits obtenus
+Concours Physiquc Chimic Session Juin 2009
+Éprcuve de Chimie
+Page 5/6
 
+--- page 6 ---
+4-c) Indiquer le produit majoritaire en justifiant la réponse.
+5) L'action dun mélange sulfochromique (KzCrzO-HzSOs) sur Blou B2 conduit au même produit D qui donne un test positif à la DNPH (2,4-dinitro-phénylhydrazine)  Donner la structure de D. 6) L'action du bromure de   méthylmagnésium   (CH,MgBr) sur D, suivie d'une hydrolyse acide conduit à deux isomères El et E2. Donner le mécanisme de cette réaction en discutant la stéréochimie des produits ébtenus et en précisant la structure spatiale de chacun d'eux. Le mélange (El E2) est il optiquement actif ? Justifier. 7) Le traitement de El ou de E2 par lacide sulfurique concentré et à chaud conduit à un mélange de 3 hydrocarbures FI, F2 et F3 de formule brute CsHio qui décolorent tous une solution de dibrome dans   CCl,. Sachant que l'abondance relative de ces produits suit l'ordre suivant Fl > F2 > F3. 7-a) Attribuer à chacun de ces produits sa structure 7-b) Justifier leur ordre d'abondance relative.
+FIN DE L'ÉNONCÉ DE CHIMIE ORGANIQUE.
+JFIN DE LÉPREUVEl
+Concours Phssique Chimie Session Juin 2009
+Épreuve de Chimic
+Page 6/6

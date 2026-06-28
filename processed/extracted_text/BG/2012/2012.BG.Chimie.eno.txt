@@ -1,16 +1,214 @@
+--- page 1 ---
+1 n stiUT paeparajoine _ ibuoiHEQUE G SA Euves  D7nsnss
+Instructions
+Cette épreuve comporte deux parties indépendantes. O La première partie (chimie inorganique) comporte 9 pages (pl-p9). O La deuxième partie (chimie organique) comporte 7 pages (pl0-p16). Tout résultat doit être écrit dans les cadres adéquats. Seul V'usage des calculatrices électroniques de poche non programmables est autorisé. Les résultats numériques sans unité ou avec unité fausse ne seront pas comptabilisés Aucun échange entre les candidats n'est autorisé.
+Concours Biologie et Géologie Session Juin 2012
+Épreuve de Chimie
 
+--- page 2 ---
+PARTIE I : CHIMIE INORGANIQUE
+Barème
+Problème I Problème II Problème III Problème IV Problème V
+2,50 pts 2,25 pts 225pts 250 pts 2,50 pts
+Données relatives à lensemble du sujet (chimie inorganique) Masses molaires atomiques (g.mol ') du sodium Na = 23 ct du fluor F = 19 Constante des gaz parfaits R = 8,314 JK' mol-1 Célérité de la lumière dans le vide c = 3 x 10+8 m $ Constante de Planck h = 6,62 * 10-34 J.s. Constante d' Avogadro Na = 6,( 023x10*23 mol ! À la température T = 298 K: Constante dautoprotolyse de Feau Ke =10-14 Constantes des réactions de complexation Complexation de Fe?+ Fe2+ + Faq) = FeF{aq) K1 =10*0,5 (aq)
+Complexation de Fe3+ Fe3+ '(aq) +3 Faq) = FeF;(aq)
+Kz =10+12
+Potentiels standard d 'oxydoréduction Fc 3+ 2+ Couple (1) (aq) / Fe (aq) Couple (2) Ag'(aq) / Ag(sd) RxZxLn(x) =0,06xlog,o (x ) Volt F
+E%1 = +0,77 Volt E% 2 2 +0,80 Volt
+nature (0,2% atomique). Il a un puissant pouvoir Le fluor est assez répandu dans  la oxydant; ce qui explique que dans la nature il se trouve toujours combiné, essentiellement avec les métaux. un rôle important dans les processus biologiques, sa présence dans 1'eau Le fluor joue est nécessaire pour maintenir en bon état les dents, car l'émail des potable, par exemple, dents renferme du fluorure de calcium
+Concours Biologie et Géologie Session Juin 2012
+Page 1
 
+--- page 3 ---
+Problème I : atomistique L'élément fluor est symbolisé par 19F 1) Donner la composition de Vatome de fluor
+ 
 
+2) Indiquer la structure électroniquc du fluor dans son état fondamental:
+3) Situer cet élément (ligne et colonne) dans le tableau de classification périodique
+On considère la molécule de difluor F2. 4) Établir le diagramme énergétique des orbitales moléculaires de F2.
+Energie
+F?
+OA
+OM
+OA
+5) En déduire pour cette molécule sa structure électronique; son indice de Tiaison et son caractère magnétique.
+Concours Biologie et Géologie Session Juin 2012
+Page 2
 
+--- page 4 ---
+Problème II : étude dune pile  ( On constitue une pile en prenant d'une solution de Fe?+ à 0,1 molL' et 50 em À gauche, un bécher A où on introduit 50 cm d'une solution de Fe+ à 0,1 molL' dans H2SO4 concentré puis on y plonge une électrode de platioate; un bécher B où cm d'une solution de nitrate d'argent (AgNO;) à on introduit 100 0,1 molL' et une électrode dargent. On relie les deux béchers par un pont salin au nitrate d'ammonium NH4NO 3. On mesure la force électromotrice (fem) de la pile à laide dun millivoltmètre. 1) 1-a) Calculer les concentrations des ions Fe ct Fe3+ dans le bécher A.
+1-b) Schématiser la pilc.
+1-c) Donner Pcxpression puis calculer e fem &1 de cette pile.
+Concours Biologie et Géologie Session Juin 2012
+Page 3
 
+--- page 5 ---
+-d) En déduire la polarité de la pile; lc sens de déplacement des électrons ct la réaction qui se déroule lorsque la pile débite.
+2) On considère la pile décrite précédemment avec dans le bécher A : [Fe init [Fe init 0,05 molL On introduit dans ce bécher sans variation dc volume; une masse de fluorurc de sodium NaF (électrolyte fort) égale à 0,42 g 2-a) Écrirc les réactions qui se produiscnt dans le bécher A, après Fajout de NaF 
+2-6) Préciser 1a réaction prépondérante:_Justifier.
+2-c) La réaction prépondérante est considéré comme totale. Déterminer alors les concentrations des ions Fe 3+ Fe 2+ et F à léquilibre.
+Concours Biologie et Géologie Session Juin 2012
+Page 4
 
+--- page 6 ---
+2-d) En déduire la nouvelle valeur dc la fem €2.
+Problème III : chimie de coordination On considère le complexe de formule chimique [FeF6] . 1) Le fer Fe est Pélément de numéro atomiquc 26. Sa structurc électronique est 1s2 2s2 2p6 3s2 3p' 4s2 3d6. En déduire la structure électronique du cation Fe3+
+2) Quelle est la nature des liaisons Fc Fdans le complexe étudié ?
+3) Donner le nom du complexe [FeF '6]3
+L'éclatement du champ de ligand est ^o 160 kJmol et F'énergie d 'appariement des électrons d dans F'ion Fe 3 _ est P = 286 kJmol' 4) Donner la répartition des électrons d dans ce complexe
+5) Indiquer la géométrie de ce complexe ainsi que F état d'hybridation du fer:
+Calculer le moment magnétique de [FeF6]- exprimé en magnéton de Bohr.
+Page 5
+Concours Biologie et Géologie Session Juin 2012
 
+--- page 7 ---
+Lorsqu une substance absorbe une certaine   partie du spectre, elle se trouve colorée en couleur complémentaire On donne, dans le tableau ci-dessous; les longueurs donde ^ (en nm) correspondantes aux différentes couleurs du spectre visible ainsi que les couleurs complémentaires: Longueurs d'ondes_) (nm) Couleur absorbée Couleur observée 400 435 violet vert jaune 435 480 bleu jaune 480 490 bleu vert orangé 490 500 vert bleu rouge 500 560 vert pourpre 560 580 vert jaune violet 580 595 jaune bleu 595 605 orangé bleu vert 605 750 rouge vert bleu 7) Quelle est la couleur d'unc solution aqueuse contenant le complexe [FcF6] ?
+8) On pose Fénergie molaire de stabilisation du champ cristallin (ESCC) comme la différence entre Fénergie molaire de la configuration dans le champ   octaédrique et F'énergie molaire dans Fenvironnement sphérique équivalent. 8-a)   Représenter   la   répartition des électrons < d > dans les   deux environnements considérés (octaédrique et sphérique) dans Ic cas du complexe [FeF6]3-
+8-b) En déduire la valeur de ESCC
+Concours Biologie et Géologie Session Juin 2012
+Page 6
 
+--- page 8 ---
+Problème IV : équilibres acido-basiques. Le couple acide fluorhydrique HF(aq) ion fluorure Fraq) correspond à la constante dacidité Ka = 6,3x 10 24 à 298 K. 1) Donner le diagramme dc_prédominance des espèces acido-basique de ce couple
+2) Rappeler Pexpression du pH dune solution dacide faible
+3) Calculer   la valcur   (pHA) du pH dune   solution   aqueuse   (solution A) dacide   fluorhydrique de concentration CA = 0,1 mol. L-'
+4) Donner Pexpression du pH dune solution de base faible.
+5) Calculer  la  valeur   (pHB) du pH dune solution aqueuse (solution B) dc fluorure de sodium de concentration CB = 0,1 mol. L'
+Définir un mélange tampon.
+7 Énumérer les principales propriétés d'un mélange tampon.
+8) Calculer la valeur (pHc) du pH de la solution (solution C) obtenue par mélange de 50 mL de la solution A avec 100 mL dc la solution B.
+Page 7
+Concours Biologie et Géologie Session Juin 2012
 
+--- page 9 ---
+L'orangé de méthyle est un indicateur coloré dont la zone de virage est [3,1 4,4] La forme acide est de couleur rouge et la forme basique est jaune-orangé.
+9) Quelles seront les colorations des solutions A, B et C lorsqu'on y introduit quelques gouttes dunc solution dorangé de méthyle.
+Problème V : équilibre chimique On supposera que Les   enthalpies et les entropies de la réaction sont indépendantes de la température dans le domaine considéré Les gaz sont parfaits et les solides sont purs. On considère la réaction déquation bilan ZnFz(sd) 4 H,O(e) = 2 HFg) ZnO(sd) endothermique dans le sens (1). 1) Dans quel sens évolue le système initialement à léquilibre lors 1-a) d'une augmentation de température à pression constante ?
+1-b) d'une compression à température constante ?
+1-c) dune faible addition de ZnF 2(sd à température et volume constants ?
+2) Donner Fexpression de la loi d'action de masse pour cct équilibre.
+Concours Biologie et Géologie Session Juin 2012
+Page 8
 
+--- page 10 ---
+3)
+3-a) Montrer   que Fexpression donnant   la  constante   d'équilibre   en fonction de la température s'écrit sous la forme Ln(K") = A-B T
+3-b) Déterminer les valeurs de A et B, sachant que K8A2K = 0,61 et ArH" = 109,1 kJ smol-1
+3-c) Sous la pression de 1 bar et à T = 842 K, la  phase vapeur contient 46% molaire deau_ Déterminer la température pour laquelle on enrichit la phasc vapeur en eau jusqu'à la composition 70% molaire.
+FIN DE L'ÉNONCÉ DE CHIMIE INORGANIQUE
+Page 9
+Concours Biologie et Géologie Session Juin 2012
 
+--- page 11 ---
+PARTIE II : CHIMIE ORGANIQUE
+Barème
+Problème I Problème II
+250 pts 5,50 pts
+Données relatives à Yensemble du sujet (chimie organique) Élément H C N Br Numéro atomique 7 8 35 Masse molaire (g.mol' 1,0 12,0 14,0 16,0 79,9
+Problème I : réactivité dun dérivé halogéné On se propose détudier la réaction suivante
+OCzHs
+73% Svl B H,CMn H;C
+A
+Br
+CHz
+CzHsOH
+H,Cm CH; 55 C H;C
+H;C C 27% El H;C
+CH2
+1) Donner les noms (selon la nomenclature systématique) de A, B et €. Composé Nomenclature systématique A Br
+H;CIM CH; H3C
+B
+OCzHs
+H; CII H;C
+CH;
+H3C C H3C
+Concours Biologie et Géologie Session Juin 2012
+Page 10
+CHz
 
+--- page 12 ---
+2) Détailler  les mécanismes   Sv/ et El de réactions  de la molécule A avec Féthanol et donner   les expressions des vitesscs respectives de réactions.
+mécanismes Sv l
+Expression dc_la vitesse
+mécanisme El
+Expression de la vitesse
+3) Discuter Pabsence des mécanismes bimoléculaires SN2 et E2 entre la molécule A et Téthanol à 55 €.
+4) Dans les mêmes conditions (dans 1éthanol et à 55'C) ct en présence déthanolate de sodium (EtO , Na * concentré, on obtient presque exclusivement le produit de lélimination E2. Interpréter ce résultat .
+Page 11
+Concours Biologie et Géologie Session Juin 2012
 
+--- page 13 ---
 
+Problème II : les alcènes
+PARTIE A : stéréochimie
+On considère la molécule D suivante
+H
+H;C
+D
+1) Indiquer le type de stéréoisomérie dans D et déterminer la configuration de D. Justifier.
+Type de dc stéréoisoméric
+Configuration de D
+Justificatif
+2) Donner le nom systématique de D
+Concours Biologie et Géologie Session Juin 2012
+Page 12
+CH;
 
+--- page 14 ---
+3) Considérons la forme chaise dc D suivante:
+ H 
+ns R
+R=
+D
+H3
+CH3
+Axe 2
+Axe 1
+3-a) Représenter tous les hydrogènes dans les deux conformères du composé D lorsque le groupe R occupc unc position axiale et lorsque R occupe une position équatoriale. On notera H(a) Vhydrogène en position axiale et H(e) Fhydrogène en position équatoriale. Davec R en position axialc D avec R en position équatoriale
+3-b) Représenter les deux conformères en projection de Newman; selon les axes Axc 1 et Axe 2
+Projection de_Newman D avec R en position axiale D avec R en position équatoriale
+3-c) Quelle est la conformation la plus favorisée thermodynamiquement? Justificr.
+Page 13
+Concours Biologie et Géologie Session Juin 2012
 
+--- page 15 ---
+PARTIE B : réactivité
+On considère la suite réactionnelle suivante
+H
+03
+E + éthanal
+milieu réducteur
+H;C
+CH;
+1/ LiAlH4
+HzSO4
+E
+Fl
+F2
+2 G + H + [
+2/ HzO/H+ 1) Donner la structure de E.
+2) Détailler le mécanisme de formation des composés Fl et F2, sachant que LiAlH4 fournit des ions hydrures (H). LiAlH 4 sera traité comme (M H)
+3) Prévoir les proportions relatives de FI et F2. Justifier.
+Concours Biologie et Géologie Session Juin 2012
+Page 14
+
+--- page 16 ---
+4) Sachant que :
+G + Brz - G = 1-bromo-]-(1-bromocyclohexyl)éthane. H + Brz 9 H = 1,2-dibromo-1-cyclohexyléthane. 1+ Br2 ~[ = 1-(1,2-dibromocyclohexyl)éthane.
+4-a) Écrire les structures de G H' et F
+Composé
+Structure
+G' = 1-bromo-1-(1-bromocyclohexyl)éthanc
+H = 1,2-dibromo-1-cyclohexyléthane
+1 = 1-(1,2-dibromocyclohexyl)éthane
+4-b) Déduire les structures de G, H ct I.
+H
+Page 15
+Concours Biologie et Géologie Session Juin 2012
+
+--- page 17 ---
+4-c) Détailler Ie mécanisme de formation des composés G, H, et 1.
+FIN DE L'ÉNONCÉ DE CHIMIE ORGANIQUE
+Fin de l'épreuve
+Concours Biologie et Géologie Session Juin 2012
+Page 16

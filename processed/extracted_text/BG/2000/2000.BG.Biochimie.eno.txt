@@ -1,3 +1,61 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de /Enseignement Supérieur
+s
+ 
+Concours Nationaux dEntrée aux Cycles de Formation d'Ingénieurs Session Juin 2000
 
+2 (prceparato Brshzole etubes 5 Duncehieubs ` Concours en Biologie
+Epreuve de Biochimie, Génétique et Biologie Cellulaire
+Durée 2 heures
+Date 09/06/2000
+Heure 8h-1Ob
+Nb pages 3
+Barème 140
+Ce sujet comporte deux parties à traiter obligatoirement Traiter chaque partie sur une copie isolée
+1 èr Partie : Génétique
+Exercice 1 (10 points)
+Chez une espèce végétale; dont les fleurs sont normalement rouges (R) on a trouvé trois lignées pures à fleurs blanches (Ll, L2, L3) Pour déterminer les génotypes de ces souches mutantes, on réalise les croisements suivants A partir du croisement des souches [R] et [l], on obtient la première génération; Fl, dont toutes les plantes sont à fleurs rouges. La F2 du croisement précédent (Fl rouge x Fl rouge) donne dans la descendance, ' des plantes à feurs rouges et 'à fleurs blanches. Le croisement de [Ll] par [L2], foumit une Fl, toutes à fleurs rouges. Les plantes de cette Fl sont croisées entre elles (Fl rouge x Fl rouge) et la descendance F2, est formée de 562 plantes à fleurs rouges et 438 plantes à fleurs blanches. Le croisement de [R] par [L3], nous donne une FI dont les plantes sont toutes à fleurs rouges. Le test cross de Fl par [L3], foumit une descendance composée de 3/4 des plantes à fleurs blanches et ' des plantes à fleurs rouges. a- Donner séparément les résultats de chaque croisement b- Daprès l'ensemble de ces résultats, expliquer le contrôle génétique de la couleur de la fleur, chez cette espèce végétale. C- Quels sont les génotypes des quatre souches, R L:, L2, L3.
+1/3
 
+--- page 2 ---
+Eercice 2 (10 points)
+Chez " organisme baploide; aux spores ordonnées dans les asques; on dispose de la souche sauvage S, prototrophe et à spores de couleur noire. On a trouvé trois souches mutantes S1, auxotrophe pour le tryptophane €t à spores noires. 52, auxotrophe pour [adénim: et à spores noires et S3, prototrophe mais à spores blanches (n) On réalise différents croisements, dont les résultats, sont portés sur le tableau suivant (sous forme de tétrades) Sx SI SS2 S1S3 SIxS2 S1 x S3 ty+ ad+ adH n N try- ad+ tryt ad try- ad+ ty- N   try- N ty+ ad+ ad n n try- ad+ tryt ad+ try- ad- try- N try- n try- ad - ad+ N N tryt ad- try- ad- tryt ad tyt  try+ n ty- ad ad  N n try+ ad- ty- ad- try+ ad+ try+ n try+ N
+200
+160 40 118 82
+80
+80
+40
+120
+80
+a- Interpréter les résultats; de cbacun des cinq croisements. b  Représenter la carte factcrelle la plus complète.
+2ère Partie (Biochimie)
+Exercice 1 (Z points) La composition en acides aminés, obtenue après hydrolyse acide   totale, du oligopeptide P est Arg 1, Gly 1, Asp 2, Cys 2, Phe [ et Lys 1 a/ Laction du réactif dEdman sur P permet dobtenir successivement PTH  Gly et PTHAsp. W La carboxypeptidase détache, à partir d P, un seul acide aminé qui donne une réaction positive avec le réactif d Sakaguschi c Le traitement de P par un agent réducteur, le B-mercaptoéthanoL suivi de ['action de la trypsine donnent les deux oligopeptides A et Bcomposés comme suit A: Ag Cys B: Asp 2, Cys, Phe, Lys; Gly d Le traitement d P par le B-mercaptoéthanol suivi dune bydrolyse   par la chymotrypsine; donne deux oligopeptides C et D: C: Asp, Pbe, Gly Cys D : Cys; Arg Asp, Lys
+1 - Interpréter le résultat de chaque expérience en justifiant votre réponse. 2- Quelle est la structure de loligopeptide P ?
 
+Exercice 2 (7 points) La figure suivante illustre trois courbes de cinétique enzymatique michaelienne.
+2/3
+
+--- page 3 ---
+A
+B
+X
+Représenter cette figure sur votre copie a Qu'appelle t-on cette représentation graphique ? b/ Que représentent x et y (les axes du graphique) ? c Quelles sont les constantes   cinétiques qui peuvent être déterminées par ce type de représentation graphique ?; les préciser sur la fgure. d Parmi les courbes, A B et C, quelles sont celles qui corspondent aux différents tyces dinhibiticn de [enzyme ? Préciser VOS propCs. Sachant que la présence dun imbiteur compétitif à la concentration [I,] fat passer Ja valeur de la constante de Micbaelis de {'enzyme de 10+ M à 10  M calculer la valeu de %u et de Vmax en présence dune concentration dinnibiteur égale à 4 x [I,]
+Exercice 3 (6 points)
+Des expérences menées sur un triholoside ont conduit aux résultats suivants ilréduit la liqueur d Fehling sa peréthylation suivie dune hydrolyse acide donne les produits méthylés suivants diméthyl 3,6 D-glucosamine diméthyl 3,5 D -désoxyrbose diméthyl 2,3 acide D-glucuronique sa réduction par le borohydnure de sodium (NaBH) suivie dune hydrolyse acide permet didentifier dans lhydrolysat du glucose. a Interpréter chacun des résultats expérimentaux b Représenter; selon Hawonh la structure du trholoside en admettant que toutes 'es liaisons osidiques sont de type a c- Quel est le nom systématique du triholoside ?
+3/3
+
+--- page 4 ---
+Concours Nationaux dEntrée aux cycles de formation d'Ingénieurs pReP pour la session 2000 5 RAratoire  Concours Biologique Epreuve Biochimie, Biologie cellulaire et Génétique Bibliotheque  3 9 Sujet de : Génétique YetudEs 5 'dwgenieuss' Page 1/1 Ex / : Chez une espèce végétale dont les fleurs sont normalement rouges (R), Or; a trouvé trois   lignées pures à fleurs blanches (LI, L2, L3) Pour déterminer les génotypes de ces souches mutantes, on réalise les croisements suivants A partir du croisement des souches [R] et [LI], on obtient la première génération; F1, dont toutes les plantes sont à fleurs rouges. La F2 du croisement précédent (F1 rouge x F1 rouge) donne dans la descendance ' des plantes à fleurs rouges et % à fleurs blanches. Le croisement de [L1] par [L2], fournit une FI, toutes à fleurs rouges. Les plantes de cette FI sont croisées entre elles (F1 rouge x F1 rouge) et la descendance F2, est formée de 562 plantes à fleurs rouges et 438 plantes à fleurs blanches. Le croisement de [R] par [L3], nous donne une F1 dont les plantes sont tcutes à fleurs rouges. Et le test cross de F1 par [L3], fournit une descendance compcsée de ' des plantes à fleurs blanches et % des plantes à fleurs rouges. Questions a) Donner séparément les résultats de chaque croisement. b) D'après l'ensemble de ces résultats, expliquer le contrôle génétique de I2 couleur de la fleur, chez cette espèce végétale. c) Quels sont les génotypes des quatre souches; R, L1, L2, L3.
+Exll : Chez un organisme haploïde; aux spores ordonnées dans les asques , cr dispose de la souche sauvage S, prototrophe et à spores de couleur noire. On à trouvé trois souches mutantes S1, auxotrophe pour le tryptophane et à spcres noires S2, auxotrophe pour l'adénine et à spores noires et S3 , prototrcphe mais à spores blanches (n) On réalise différents  croisements, dont les résultats, sont portés sur le tableei; suivant (sous forme de tétrades)
+S x S1 try+ try+ try - try -
+S xS2 S xS3 S1 x S2 ad+ ad+ try - ad+ try+ ad+ try - ad+ ad+ ad- try - ad+ try+ ad+ try - ad- 2 % ad- ad+ try+ ad- try- ad- try+ ad- ad- ad- try+ ad- try - ad- try+ ad+
+S1 x S3 try- N try - try - N try- % try+ n try+ try+ n try+
+200
+160 40
+118 82
+80
+80
+40
+120
+80
+a) Interpréter les résultats, de chacun des cinq croisements. b)   Représenter la carte factorielle la plus complète.

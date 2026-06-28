@@ -1,3 +1,112 @@
+--- page 1 ---
+ e : . ` 
+REPUBLIQUE TUNISIENNE
+~a}} u>accs) }
+Ministère de FEnscixnment Supericur #t de l Recherch Scientifiqu
+@ 1
+@Ujyloap; EaL#L Jséal Auy &jil Nlnl {s Jkj 2015:,8
+Concours Nationaux d'Entrée aur Cydes de Formation d'Ingénieurs Sessin 2015
+Concours Biologie et Géologie Epreuve de Mathématiques
+Date Lundi 8 Juin 2015
+Heure 8 H
+Durée 3 heures
+Nb pages 4
+sera attachée à la rigueur du raisonnement, à la clarté et au soin de la présenta- Une grande importance tion. Lusage des calculatrices n'est pas autorisé rappelé que tout résultat énoncé dans le texte peut être utilisé pour traiter la suite; même s 'il n'a pu Il est être démontré
+NB. Le sujet comporte deux exercices et un problème totalement indépendants. Exercice 1
+On rappele que le développement en série entière de la fonction 2 + est donnée par 1 _ 2
++0 =2 27 1 _ I n=0
+et que son rayon de convergence est égale à 1-
+1
+1 Déterminer le développement en série entière de la fonction $ H et préciser son 71 - 2)2 rayon de convergence
++oo 2 Soit y(r) = anx" une solution développable en série entière de l'équation différentielle n=0
+1
+2y'  '(æ) + 4zy(æ) + 2y(æ) " (1 = 2)2
+1
+a) Montrer que, Vn € N; an " n + 2 (b) Déterminer le rayon de convergence R de la série @nzn n20
+2s
+(c) Etudier la nature de la série @nxn pour |z| = R n20
+1   `
+3. On pose S(r) = I2y(æ) pour tout æ €] - R, R[ (a) Calculer S' (z)pour tout æ €] ~ R; R[ (b) En déduire S(x) puis y(z) en fonction de z.
+Concours Biologie et Géologie Session Juin 2015
+Épreuve de Mathématiques
+Page 1/4
 
+--- page 2 ---
+(c) Montrer alors que la fonction définie sur ] = 1, 1[ par
+I + In(1 _ 2) si I # 0, 22 1 2 si 1 = 0
+f(z)
+est une fonction indéfiniment dérivable.
+Exercice 2
+A Soit M la matrice réelle carrée dordre 3, définie par
+M =
+2
+1
+(a) Déterminer les valeurs propres de M. (b) En déduire que M est diagonalisable. 2 Déterminer les sous espaces propres de M
+3 Déterminer la matrice P inversible de coefficients (0, 1,1) sur la troisième ligne, vérifant: M = PDP-1 où D est la matrice diagonale
+2 0 1
+0
+D =
+4 Calculer P-1
+5 En déduire que, pour tout n > 1, on a
+1 + (~1)n 2
+1_(1)" 2
+0
+2n _ 1
+2n
+2" _ 1
+1 = (~1)n 2
+1+ (~1)n 2
+0
+B Dans une galerie darts; un visiteur a le choix entre trois salles d'exposition numérotées 1, 2 et 3
+Si à linstant n, il est à la salle 1 ou 3, il choisit aléatoirement lune des deux autres salles à linstant n + 1
+Si à linstant n, il est à la salle 2, il y reste à linstant n + 1.
+Pinstant n = 1, le visiteur se trouve à la salle n 1
+P(Xn = 1) P(Xn = 2) P(Xn = 3)
+On pose Xn le numéro de la salle visitée à linstant n, et on pose Un =
+pour
+n € N* . 1 (a) A laide de la formule des probabilités totales; montrer que: 1 Un+l = MUn, Vn > 1- 2
 
+Concours Biologie et Géologie Session Juin 2015
+Épreuve de Mathématiques
+Page 2/4
+Mn
 
+--- page 3 ---
+(b) En déduire que Un = (2)"-1Mn-'U1, Vn > 1. (c) Déterminer la loi de Xn 2. Soit T la variable aléatoire réelle désignant le premier instant où le visiteur entre à la salle n'2
+(a) Montrer que T < n si et seulement si Xn =2 (b) Déduire la loi de T. Soit G = T _ 1 i Montrer que G suit une loi géométrique dont on précisera le paramètre. ii. Donner lespérance et la variance de la variable aléatoire réelle G. iii. En déduire lespérance et la variance de la variable aléatoire réelle T.
+Problème
+Partie I On considère la fonction
+F : R -
+R @2 H 1 + e2
+I
+1. Etudier les variations de F et dresser son tableau de variations
+2. En déduire que F est la fonction de répartition dune variable aléatoire réelle à densité notée X. @2 3 Montrer qu'une densité de X est fx(æ) = (1+ e")2
+4 Soit la variable aléatoire réelle Y = In(1 + eX)
+(a) Montrer que la fonction de répartition de Y est donnée par
+1 _ e =t si t > 0, 0 sinon
+Fy (t) =
+(b) En déduire une densité de Y puis reconnaître sa loi (c) Donner lespérance et la variance de Y.
+Partie II Soit (Yn)n21 une suite de variables aléatoires réelles indépendantes et de même loi que Y. Sn n On pose Sn = Yk = Yi + . . + Yn et Sn n k=l
+1 (a) Calculer lespérance et la variance de Sn- (b) Déduire que; pour n > 2, Sn ne suit pas une loi exponentielle.  2. On se propose dans cette question de déterminer la loi de Sn.  On rappelle que la somme de deux variables aléatoires réelles indépendantes de densités f et g, suit une loi de densité    +0 h(æ) = f (t)g(æ t)dt. ~0
+Concours Biologie et Géologie Session Juin 2015
+Épreuve de Mathématiques
+Page 3/4
+
+--- page 4 ---
+1s (a) Montrer qu'une densité de S2 est donnée par 1 , s ze si 2 > 0, fs2(x) = 0 sinon
+(b) En remarquant que Sn+1 = Sn + Yn+l, montrer par récurrence qu'une densité de Sn est donnée par xn-1 1  e ~I si I > 0 fSn (2) (n = 1)!  ~   0 sinon
+f+0 (c) Calculer alors la valeur de I n-1e dx Vn > 1.
+3
+a) Montrer que Sn converge en loi vers une variable aléatoire réelle dont on précisera la loi. xn-1 1 (b) Montrer alors que lim e-I dz = n-++0 (n = 1)! 2 0
+Partie III
+1 Pour tout réel strictement positif Q, on pose Zœ Calculer la fonction de répartition de Za.
+exp( Q
+2 En déduire que Zœ est une variable aléatoire réelle à densité et qu'une densité de Za est donnée par Q si I > 1, fœ(æ) 2œ+1 0 sinon
+3
+(a) Pour quelle(s) valeur(s) de œ la variable aléatoire réelle Zœ admet-elle une espérance? (b) Dans le cas dexistence; calculer lespérance de Zo' 4 Le temps de réaction (exprimé en secondes ) dun détecteur de mouvement est une variable aléatoire réelle de densité f3. (a) Quelle est la probabilité que le détecteur réagisse en moins de 2 secondes 2 (b) Quelle est la probabilité que le détecteur réagisse en moins d'une demi-seconde ? (c) Quelle est la probabilité que le détecteur réagisse entre la deuxième et la troisième seconde? (d) Au bout de combien de temps y aura-t'il 999 de chance que le détecteur ait réagi ? (e) Quel est le temps moyen de réaction du détecteur 7
+5 Une alarme est munie de deux détecteurs dont les temps de réaction Ti et T2 sont des variables   aléatoires réelles indépendantes de densités respectives   fœ1 et  faz Lalarme se déclenche dés que les deux détecteurs ont réagi. Notons U le temps de réaction de lalarme
+(a) Exprimez U en fonction de Ti et T2. (b) En déduire la fonction de répartition de U  (c) En déduire que la densité de U vérifie fu = fa1 + fœz fa1+az (d)  Quelle est Tespérance de U ?
+3:  ;  ` 1   ' ?
+Concours Biologie et Géologie Session Juin 2015
+Épreuve de Mathématiques
+Page 4/4

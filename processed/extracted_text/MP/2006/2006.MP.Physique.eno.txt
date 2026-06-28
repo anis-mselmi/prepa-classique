@@ -1,5 +1,97 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de [Enseignement Supérieur Copcours natiomaur d'entréc aux cycles de formation d'ingénicurs Session 2006
+amiz2sjJ
+BUksizzts Usiaijajhi  QhuilJiusjn>d XYas _ 20063,> Faratoipe  4 1 Aux Concours en Mathématiques et Physique
+Epreuve de Physique
+Date Jeudi 08 Juin 2006
+Heure : 8 H 00
+Durée : 4 H
+Nbre pages :06
+Barème Problème 1: 9 pts (A/l.5 ; B/7.5) ; Problème 2: 1l pts (A/6.5 ; B/4.5)
+L'usage d'une calculatrice non programmable est autorisé:
+Lépreuve comporte deux problèmes indépendants. Un candidat peut toujours se servir dun résultat fourni par lénoncé pour continuer sa composition.
+PROBLEME 1 : Effet de peau dans un conducteur
+Dans ce problème;, on s'intéresse à leffet de peau dans un métal homogène et isotrope. Dans le domaine de fréquence envisagée dans cette étude (fréquences hertziennes)  on peut décrire ce métal comme un milieu   possédant une conductivité   électrique scalaire réelle et finie indépendante de la fréquence et ayant la permittivité   électrique Eo et la perméabilité magnétique Ho du vide. Au sein du métal, la loi dOhm locale reliant le vecteur densité de courant au point Mà linstant t, J(M,t) , au champ électrique E(M,t) s'écrit J(M,t)=oE(M,t) On utilise le   système de   coordonnées   cylindriques   (r, 8, z) de base orthonormée directe (",,40, 0z Fm ! = 4T 10-7Hm 21 Données numériques: € Lo 0 = 5,9 107 S m' 36r109 On donne en coordonnées cylindriques le laplacien  vecteur dun champ vectoriel Fz(r)z : d?Fz (r) A(Fz ( (r)4z) = 1 dF (r) 4z dr2 [ dr rot (rotx) = grad(divx) - 1X où ZX désigne le laplacien vecteur de X
+Concours en Mathématiques et Physique Session Juin 2006
+Epreuve de Physique
+Page 1/6
 
+--- page 2 ---
+On considère un cylindre   plein en cuivre de conductivité électrique 0 daxe Oz, de rayon a = 0,5 mm et de longueur L grande devant a.
+A- Régime continu Un générateur extérieur impose dans le conducteur un champ électrique unifome et constant; parallèle à l'axe Oz E=Eo 4: 1.a) Déterminer ]intensité I du courant circulant dans le conducteur en fonction de 0 ,Eo et a. 1.b) Montrer que la différence de potentiel entre les points A (z = 0) et B(z = L) situés aux extrémités du cylindre est proportionnelle au courant I traversant le cylindre: VA VB =Ro I On exprimera la résistance Ro en fonction de L, G et a 2.a) Déterminer la puissance   volumique pv transmise par   le  générateur aux électrons du conducteur 2.b) Déduire la puissance totale P en fonction de Ro et L
+B- Régime variable Le générateur extérieur impose maintenant dans le conducteur un champ électrique E sinusoïdal de pulsation 0 et parallèle à laxe Oz. 1) Expliquer pourquoi le champ électrique dans le conducteur ne peut pas être uniforme en régime variable. 2.a) Rappeler ]équation de conservation de la charge électrique sous sa forme locale. En utilisant les formes locales de la loi dOhm et de léquation de Maxwell-Gauss, déduire Féquation différentielle vérifiée par la densité volumique de charges électriques p(Mt) 2.b) Supposons; pour une raison quelconque; qu'en un point M du métal existe à linstant t = 0 un excès local de charge correspondant à une densité volumique Po: Exprimer p(Mt) en fonction de Po et montrer qu'elle décroît avec une durée caractéristique 1 qu on exprimera en fonction de 0 et € et dont on donnera la signification Donner la valeur numérique de z. Conclure. On supposera dans la suite que le conducteur métallique est localement neutre. 2.c) Dans la gamme de   fréquence   envisagée, vérifier qu'on peut négliger le courant de déplacement jp devant le courant de conduction On supposera cette condition vérifiée dans la suite 3) On suppose que le vecteur densité de courant, en un point M du cylindre; à la distance r de Taxe Oz est donné en écriture complexe par J(M,t) = j(r)exp(-iot)u, 3.a) Dans le cadre des deux approximations précédentes, écrire les équations de Maxwell dans le conducteur. 3.b) Montrer que le vecteur densité de courant ] dans le conducteur vérifie léquation locale 47+2i7=0 82 où 8 est une grandeur à exprimer en fonction de @, Ho et 0 1 i6x) 4) En posant x = déduire que le rapport y = vérifie [équation différentielle 8 2(o) 42 + 1d2+2i2 =0 (2) dx X dx
+Concours en Mathématiques et Physique Session Juin 2006
+Epreuve de Physique
+Page 2 /6
 
+--- page 3 ---
+5) On cherche une solution paire de léquation (2) sous la forme dune série entière
+2n y= Esz * avec C =1 n=0
+(~i)" Démontrer que ['expression générale de y est de la forme x 2n y=2 n=0 2" (n4)?
+Expliciter le développement de 1 à lordre 4 suivant les puissances croissantes de x En se
+Lic) limitant à /ordre 4 pour le carré du module de Y, donner ['expression de Y(x) = :|2()  |icoy
+6) On caractérise le rayon du cylindre par le paramètre a = 9 et on désigne par a; la valeur que 8 prendra a pour une fréquence Vi. On donne v1 = 50 Hz et vz = 2 MHz Calculer 0, et 02 En utilisant lexpression de Y, évaluer Y(a,) La solution complète de léquation (2) donne Y(az ) = 4,985. Commenter les résultats obtenus. 7) Soit Ro la résistance du cylindre étudié en courant continu et R la résistance du même cylindre en régime sinusoïdal forcé de pulsation @ R 94 On montre qu'un développement de p = à lordre 4 en a s'écrit p=l+ Ro 48 En utilisant lexpression de P évaluer p(a,) En utilisant la solution complète de léquation (2), on obtient p(az) = 5,650. Commenter les résultats obtenus. 42 7 8) On cherche une solution de léquation (1), dans laquelle on remplace 47 par sous la du 2
+forme
+1 = jo exp[ilku ~ ot)]Z z
+avec u = a - r et où k est un complexe à déterminer. Cette solution est valable si a >> 8 pour la fréquence utilisée (hypothèse dun milieu semi-infini). 8.a) En déduire la relation de dispersion K = f(@) et justifier qu'une seule des deux solutions pour k est physiquement acceptable. Exprimer alors la solution retenue pour k en fonction de & 8.b) Interpréter physiquement la solution proposée. Tracer ]amplitude j (r de j en fonction de r . Justifier le nom dépaisseur de peau donné à & 9.a) Expliquer qualitativement comment varie la résistance électrique R avec la fréquence de Ponde. 9.b) Déterminer [expression de R dans ce cas. 10) Ce cylindre convient-il à la transmission des fréquences radio (v = 100 MHz) ? Expliquer.
+Concours en Mathématiques et Physique Session Juin 2006
+Epreuve de Physique
+Page 3/6
 
+--- page 4 ---
+PROBLEME 2 Interférences et diffraction lumineuses
+L'espace est rapporté à un repère (Oxyz) de base orthonormée directe ( 7, u,' 4,) On rappelle que la fonction sinus cardinal sinc(v) est définie par sinc(v) = sin(v)
+A- Interférences lumineuses
+On  considère un miroir carré (M), de côté { disposé dans le plan   (yOz) symétriquement par rapport à (zz) et dans lespace des z négatifs. Ce miroir est éclairé par une source S, de coordonnées cartésiennes (h, 0, -( € +d)) On désigne par S' limage de $ par (M). On observe le phénomène dinterférences dans un plan (E) confondu avec le plan   (xOy) (voir figure ci-contre).
+A X
+(E)
+P
+S
+h
+(M)
+z
+z
+S'
+On supposera dans toute cette partie que la norme de lamplitude du champ électrique réfléchi est égale à celle de londe incidente On donne { = 24 cm d = 1 cm et h = 0,3 mm ( { + d>> h)
+I- Source ponctuelle monochromatique La source S, supposée ponctuelle, émet de la lumière monochromatique de longueur donde 10 = 600 nm. 1.a) Justifier pourquoi ce dispositif est à division de front donde. 1.b) Représenter le champ dinterférence. 2.a) Montrer que lintensité lumineuse en un point Pde (E) s'écrit
+2I 2h x 12 I(P) = 2101/ 1 + cosl + 10 Q+d 2
+2.b) Quelle est la nature de la frange en x = 0 ? Justifier. 2.c) Calculer [interfrange 1. 2.d) En pratique, comment peut-on mesurer i ? 2.e) Déterminer le nombre de franges sombres Ns observées.
+I- Source étendue 1) La source monochromatique ponctuelle S est déplacée parallèlement à (Oy): Dire en le justifiant si la figure d interférence obtenue précédemment est modifiée. 2) La source S étant ramenée à sa position initiale: On ajoute deux sources ponctuelles S1 et S2, émettant la même longueur donde que S, à une même distance de part et dautre de 5 Le segment SpS2 de centre S est parallèle à (Oy). Qu'observe-t-on sur (E) ? Justifier. 3) Le miroir (M) est maintenant éclairé par une fente Fs de largeur a (a < h) suivant (Ox) et de longueur parallèle à (Oy). Fs est centrée sur la position initiale de S.
+Concours en Mathématiques et Physique Session Juin 2006
+Epreuve de Physique
+Page 4/6
 
+--- page 5 ---
+On suppose que lintensité élémentaire d émise par un élément dX de Fs, centré sur un point dabscisse X par rapport au centre de la fente en un point P de (E) s'écrit:
+dI(P) = 24 1 cOS 22 ;,(P) dX a 20
+où 8, (P) est la différence de marche géométrique en un point P de (E) 3.a) Montrer que lintensité en un point P de (E) s'écrit :
+2 1 a X 2 Æ x I(x) = 2I0 1 - sincl cos 10 l +d
+où i est ]' interfrange déterminée dans L2.c) 3.b) Tracer lallure de I(x) pour h = 3 a. Commenter. Pour quelles valeurs de x obtient-on un brouillage de la figure dinterférence ?
+I- Source de lumière blanche
+La source ponctuelle $ de coordonnées cartésiennes (h, 0, -( { +d)) éclairant (M) émet maintenant de la lumière blanche comportant toutes les radiations de longueurs dondes comprises entre 400 nm et 700 nm (400 nm < ^o < 700 nm) 1) Décrire laspect de (E) 2) On place dans le plan (E), la fente d'entrée; supposée fine, dun spectroscope à la distance x 2.a) Décrire l'aspect du spectre obtenu 2.b) Déterminer le nombre de radiations absentes (éteintes) de ce spectre lorsque x = 1,5 mm, puis X =3 mm. Conclure.
+B- Diffraction lumineuse I- Diffraction par un miroir Soit un miroir (M) rectangulaire plan de centre O, de longueur e et de largeur a (Figure 1) La longueur C est suffisamment grande pour ne pas tenir compte de la diffraction dans la direction correspondante. Le miroir est éclairé sous une incidence i dans le plan (xOy) par un faisceau de lumière parallèle provenant dune source monochromatique de longueur donde 1o dans le vide. On se propose d'analyser la figure de diffraction à linfini dans une direction i' (Figure 2) Z ^
+YA
+X
+a
+a
+Figure 1
+Figure 2
+Concours en Mathématiques et Physique Session Juin 2006
+Epreuve de Physique
+Page 5/6
 
+--- page 6 ---
+1) Montrer que lintensité I diffractée par le miroir dans une direction i' s'écrit sous la forme
+Ta I = Iosinc (sini + sini' ) 20
+où lo est Fintensité maximale. 2) Déterminer [angle max correspondant au maximum dintensité diffractée.  Que représente la direction max Calculer ]'intensité des deux premiers maxima secondaires .
+II- Diffraction par un réseau Un réseau   plan; est   constitué de N miroirs identiques à (M);   parallèles   coplanaires   espacés régulièrement dune distance d (d > a) et disposés sur une largeur L. Ce réseau est éclairé en incidence normale par une onde plane. 1) L'onde incidente est supposée monochromatique de longueur donde 1o dans le vide. 1.a) Déterminer /amplitude de /onde diffractée dans une direction i' par ce réseau. 1.b) En déduire que ]intensité diffractée dans la direction i' s'écrit sous la forme
+sin( N  ) 1e = IoRsinc? [rau] Nsin( @) 2
+
+où @ est le déphasage entre deux points; distants de d, appartenant à deux miroirs successifs. Donner les expressions de u et IoR 1.c) Déterminer la relation fondamentale pour un réseau par réflexion donnant les directions des maxima d intensité. On désignera par 9 /ordre du spectre. 1.d) Montrer que la demi-largeur angulaire à la base du maximum dintensité dordre q s'écrit 10 Ai' = L cos i'
+2) L'onde incidente est issue maintenant dune lampe spectrale émettant un doublet de longueurs dondes 1o = 577 nm et 10 + AÀ = 579 nm (AÀ << 1o). 2.a) Montrer que ['écart angulaire permettant de passer dun maximum produit par la radiation de longueur donde 10 à celui produit par 1o + A4 pour un ordre 9 fixé s'écrit
+9 41 Ai = d COS 1
+2.b) On considère que des raies sont séparées si les maxima de même ordre des deux longueurs donde sont au moins séparés de la demi-largeur angulaire dun pic principal. Dire en le justifiant si les longueurs dondes du doublet considéré sont séparées à /ordre 1 par le réseau dont N = 1000.
+Fin de Pépreuve
+Concours en Mathématiques et Physique Session Juin 2006
+Epreuve de Physique
+Page 6 / 6

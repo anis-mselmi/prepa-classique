@@ -1,41 +1,764 @@
+--- page 1 ---
+1a)o/4ai "UklJ>ï; wlap Js = Ulli _ 'Lxcu Llui 2013 ;2
+REPUBLIQUE TUNISIENNE Ministère de 1Enscignement Supérieur et de la Recherche Scientifique Concours Nationaux dEntrée aux Cyclcs de Formation d Ingénieurs Session 2013
+Concours Technologie
+Épreuve de Sciences et Techniques de /'Ingénieur
+Vendredi 07 Juin 2013 Heure 8 Heures Date Barme Parte points Partie B 5 points Parte
+Durée 5 Heures Poots Partie D; 4 points
+L'épreuve comporte quatre parties A-Technologie de conception B- Technologie de production Caaoi C- Mécanique & RDM D- Automatique WQIEQUr Le sujet de lépreuve remis au candidat comporte Deux dossicrs Présentation, Données et Hypothèses uocmncIC Rcponses Deux docunents techniques Dessin d'ensemble (DTI) v ct < Dessin de définition (DT2) > Aucun autre document n'est autorisé L'utilisation des calculatrices de poche non pro grammables est autorisée. Les differentes parties sont indépendantes et doivent être traitées sur le document réponses , Il n'est fourni au candidat qu'un seul et unique dossier document réponses v qui doit être rendu en totalité à la fin de l'épreuve, même sans réponses.
 
+--- page 2 ---
+DOSSIER
+PRESENTATION, DONNEES ET HYPOTHESES
+Ce dossier comporte 13 pages numérotées de 1/13 à 13/13
+Présentation et Nomenclature
+Pages 1 à3 ;
+Données et hypothèses Partie A
+Pages 4 à5 ;
+Données et hypothèses Partie B
+Pages 6 à 7;
+Données et hypothèses Partie €
+Pages 8 à 9 ;
+Données et hypothèses Partie D
+Pages 10 à 13 ;
 
+--- page 3 ---
+Dossier Présentation Données et Hypothèses
+STI Technologie
+GUINDEAUDE LEVAGE DUNE LIGNE DE MOUILLAGE
+MISE EN SITUATION L'immobilisation dun bateau en pleine mer, nécessite son ancrage au fond marin par le biais dune ligne de mouillage constituée dune ancre reliée au bateau par Tintermédiaire dune chaîne (figure 1)
+Si Ja descente de cette chaîne peut se faire sous leffet poids (par   gravitation) , sa remontée de son propre nécessite un dispositif appelé "guindeau  électrique' installé à lavant du bateau (Ggure 2)
+*7089 Figure Ancrage de bateau en pleine mer
+2@
+Guindeau électrique à axe horizontal Guindeau électrique à axe vertical Figure 2 : Variantes du guindeav électrique ou manuellement par un levier inséré dans un Le guindeau peut être   commandé électriquement volant dentraînement:. Ce levier peut aussi participer, avec un système de freinage; au contrôle de la vitesse de descente de Yancre (figure 3) PRERAROL sniTUT 1"1oy 8 Mne @wgrue
+Levier de commande manuelle
+Volant d'entraînement
+Figure 3 : Commande manuelle du guindeau électrique
+Session Juin 2013
+Page 1/13
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
 
+--- page 4 ---
+STI - Technologie
+Dossier Présentation; Données et Hypothèses
+Quelque soit lorientation dc son axe, le guindeau est composé principalement Dun barbotin C'est une couronne servant à faire virer la chaîne lors de lopération de levage Dune poupée C'est une poulie fixéc sur le guindeau qui permet denrouler et de tendre un cordage Dun mécanisme de transmission de puissance mécanique: La rotation du barbotin conduit à la remontée de Yancre par lintermédiaire de la chaîne guidée par une roue folle (figure 4) .
+(05)
+Roue folle
+Chaîne
+Puits de stockage
+Ancre
+Fond marin
+Figure 4 Système de levage dune ligne de mouillage
+NB
+ILest porté à Ja_connaissance des_candidats que_les parties A B_Cet D_sont entièrement indépendantes de ~point de xue_notation_repères_et numéros_des_pièces 
+Faeparatowns stitur_ NIxeQup) Mtus DuDaBs
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session Juin 2013
+Page 2/13
 
+--- page 5 ---
+STI - Technologie
+Dossier Présentation; Données et Hypothèses
+NOMENCLATURE
+36 35 34 33 32 31 30 29 28 27 26 25
+Bouchon de remplissage Voyant niveau dhuile Roulement combiné à aiguilles et à rouleaux 34 Cr4 Clavette Joint à lèvre Bague C35 Joint UoiCU Goujon M8 -40 Moteur électrique Goujon M8 120 bm4o Clavette Arbre de transmission 34 Cr4 Clavette Joint torique Crapaudine de volant CC7655 [Cu Zn35 Mn2 Al1 Fel] Ressort de compression Clavette a xb x] Vis tête hexagonale MG -22 Rondelle plate 34 Cr4 EN AW 5754 [Al Mg3] Volant dentrainement C35 Rondelle dappui E240 Flasque EN AB- 43000 [Al Si 10 Mg] Vis tête fraisée plate fondue M6 -16 Ressort de compression Crapaudine de roue Anneau élastique pour arbre 25x1.2 CW 502L [Cu Zn15] Roulement à billes 025 BC 02 Cône de fnction intérieur CC7655 [Cu Zn35 Mn2 All Fel] CC7655 [Cu Zn35 Mn2 All Fel] Cône de frction extérieur CC7655 [Cu Zn35 Mn2 All Fel]
+filet Forme A
+1500 tc / mn 5OHz
+24 23 22 21 20 19 18 17 16 15 1 12 11 10 09 08 07 06 05 04
+Forme A
+Forme A ISO 4017
+D=1OOmm
+ISO 2009
+Chaine 12 mm D =120mrn
+03 02 01 Rp.
+Capot arrière Cops EN AC- 5086 [Al Mg4] Nb Désignation Matière Observation Concours Nationaux d Entrée aux Cycles de Formation d'Ingénieurs Concours Technologie Épreuve SII Session 2013 Guideau Électrique
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session Juin 2013
+Page 3/13
 
+--- page 6 ---
+STI - Technologie
+Dossier Présentation Données et Hypothèses
+PARTIE A: TECHNOLOGIE DE CONCEPTION
+PRESENTATION Cette partic est dédiée à létude du système du guindeau de la figure A.1 par lanalyse et le calcul des principaux éléments de transmission. Cette étude concerne: Une analyse fonctionnelle et technologique Une étude de mécanisme Une étude de transmission de puissance Une étude graphique. Il est  fortement   recommandé de respecter les conventions et les données précisées ci-dessous.
+Figur A1 Modèl du guindeau éledtrique étudié
+DONNEES ET HYPOTHESES Théorie des mécanismes
+10
+La figure A2 représente le schéma cinématique minimal du   guindeau électrique pendant un cycle de fonctionnement normal Les repères   utilisés   correspondent aux groupes cinématiquement équivalent ci-dessous   associés aux pièces principales du dessin d'ensemble DTI. Le torseur cinématique, au point M, de la liaison Lk du mouvement du Figur A2 : Schéma cinématique du système. solide ( par rapport au solide et noté par 0: Uk Freparaton {va)} Bx Vk MuT Yz On donne les groupes cinématiquement équivalents suivants: Voes DIEE {1}= {01, 02, 12, 13, 26,27,28, 30, 36} {3}= {03, 04, 05, 06, 15, 16, 17, 18, 19, 23, 24, 25} {8} = {08} {10} = {10} {21}= {21} {32}= {32,33} La relation entre le degré de mobilité ( m > et le degré dhyperstatisme h > sécrit Ic Ec = m -h Où Ic le nombre dinconnues cinématiques Ec le nombre d'équations cinématiques.
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session Juin 2013
+Page 4/13
 
+--- page 7 ---
+SII - Technologie
+Dossier Présentation; Données et Hypothèses
+Transmission de puissance Système de transmission roue (08) et vis sans fin (33) Diamètres primitifs en mm ds = 114 et d33 = 30 ; Angles des hélices en degrés Bs = 11,54 et B33 = 78,46 Module normal en mm mn = 2; Angle de pression en degrés a = 20' Puissance transmise par la vis (33) : Pss = 500 W; Fréquence de rotation de la vis (33) : Nss = 1500 tr /mn tg Bg Rendement 7733/8 tg (Ps +<) avec @ Angle de frottement entre (33) et (08).
+Pn
+Bs
+Pn
+Figure A.3 : Système de transmission roue et vis sans fin
+Accouplement de sécurité: système de crabotage à griffes (08) , (10), (11) et (14) (figure A.4) : Diamètre moyen en mm dm = 50 ; A-A Angle d'inclinaison en degrés : 0 = 10 ; Nombre des ' griffes : n = 4 ; 9 Puissance transmise par la roue (08): Ps = 300 W; 8 Fréquence de rotation de la roue (08) : Ne = 80 tr /mn Contact parfait; répartition uniforme de pression de contact Figure _ A.4 : Caractéristiques géométriques de [accouplement. entre (10) et (08)
+Embrayage à friction conique (03) , (04), (05) et (06) (figure A.5)
+Rayons des cônes en mm R = 45 et r = 30 ; Demi-angle au sommet des cônes en degrés a = 45 ; Coefficient de frottement : f = 0,15 Puissance transmise par la pièce (05): Ps = 300 W; Fréquence de rotation de la pièce (05) : Ns = 80 tr /mn ;
+Figure A5 caractéristiques de lembrayage.
+Diamètre denroulement de la chaîne sur la pièce (05) Ds 130 mn.
+parcic A sont explicitées dans lc document réponses (pages 1/27 7/27) Lcs 'questions reltives à J
+nTut FMRo CifNo
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session Juin 2013
+Page 5/13
 
+--- page 8 ---
+STI - Technologie
+Dossier Présentation; Données et Hypothèses
+PARTIE B: TECHNOLOGIE DE PRODUCTION
+Cette partie est dédiée à Pétude du flasque (13) défini sur le document technique DT2 Elle se rapporte à une étude du matériau, une étude du moulage; une étude de la coupe et une étude de pliage et de découpage des tôles. Il est fortement recommandé de respecter les conventions et les données précisées ci-dessous.
+ESSAI DE DURETE BRINELL
+PD
+Charge F
+Conditions dessai La charge est appliquée   progressivement   sans choc; ni vibration et est maintenue à sa valeur finale pendant 10 à 15 secondes La charge dessai < F v est donnée par la relation F =Kx 9.81 x D2 Où K= 30 pour le cas dcs aciers K= 5 pour le cas de Paluminium et ses alliages K= 5,10ou 30 pour le cas du cuivre et ses alliages.
+Emprcinte vuc dcusus
+HB Dureté Brinell F Force 'appliquée [N] D Diamètre de la bille [mm] d Diamètre de Yempreinte Jaissé par la bille [mm]
+0,102 x 2F HB = TD(D - VD? -d?
+MoULAGE EN COQUILLE SOUS PRESSION
+Les trois figures ci-dessous définissent les trois phases dinjection sous pression dans le cas dun moulage en coquille.
+PartaInlecuon
+uira UiNEad Mno
+Phasel Fermeture du moule.
+phase2 : Injection et remplissage du moule
+Concours nationaux dentree aur cycles de formation dingénieurs
+Session Juin 2013
+Page 6/13
 
+--- page 9 ---
+STI - Technologie
+Dossier Présentation Données et Hypothèses
+Phase3 : Ouverture et éjection 'pièœ.
+ETUDE DE LA COUPE
+La puissance de coupe est donnée par Yexpression P-Kw]: EV Pc 60x10' L'épaisseur du coupeau est défini par hD [mm]: hD =f sinKr
+Fc Force de coupe principale [N] ; Vc Vitesse de coupe [m/mn] f: Avance par tour [mm/tr]
+PLIAGE
+L'effort du pliage Fpliage[N] est donné par la formule suivante LeR Fpliage =k
+Poinçon
+Force F
+Tôle
+L: Longueur du pli [mm] Epaisseur de la tôle [mm] Rm Résistance maximale à lextension [MPa] Ouverture du Vé [mm]
+Vé
+'Pointsd'appui
+POINÇONNAGE
+La formule générale pour le calcul de leffort de poinçonnage s'écrit Ko'_ PeRn 09f Poinçon decoupage [KN]  5 1000 Uifquo) P : Périmètre du poinçon [mm] Vague del Epaisseur de la tôle [mm] quos Dns coupe Rm 420 [MPa] f: Facteur datténuation = 0,8 pour notre cas (car utilisation dune vague de coupe)
+Matrice
+Les questions rclatives à la parue B sont explicitécs dans le document réponses (pages 8/27 17/27)
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session Juin 2013
+Page 7/13
 
+--- page 10 ---
+Dossier Présentation, Données et Hypothèses
+STI - Technologie
+PARTIE C:
+MECANIQUE & RDM
+PRESENTATION
+Dans   cette partie, on se propose détudier  la résistance  de lensemble  rotatif  schématisé en perspective par la figure C.1. Cet ensemble est (08) (2u composé de Tarbre (24), des pièces (08) et (05). On suppose que l liaison de Yarbre (24) avec le corps (01) est supposée parfaite ct est assurée par deux roulements billes modélisées respectivement par une rotule de centre 0 et une liaison linéaire annulaire daxe (B,2 L'ensemble est soumis à la tension de la chaîne dun côté et à leffort dengrènement de (33) sur lautre: La figure C.2   représente le Figure C.1. Schéma spatial descriptif de Eensemble rtatif (08) de modèle retenu  pour réaliser létude mécanique de lensemble rotatif.
+DESCRIPTION FONCTIONNELLE ET REPERAGE configuration de fonctionnement la plus sévère; larbre (24) doit résister au poids de la ligne Dans sa de mouillage (chaîne + ancre) déployée au maximum
+(08)
+(05)
+(01
+K
+Figure C.2 : Modl adopté pour [étude statique et RDM d [arbre (24)
+Paeparno  stituT Uln "on25 Dugper
+Concours nationaux dentree aux cycles de formation dingénieurs
+Session Juin 2013
+Page 8/13
+(24)
 
+--- page 11 ---
+Dossier Présentation Données et Hypothèses
+STI Technologie
+PARTIE D: AUTOMATIQUE
+SYSTEME DE POSITIONNEMENT DE L'ANCRE Un système de positionnement de Yancre;, figure D.1, permet dc faire tourner lemnotcunte Zasecns lente et vitesse rapide) , afin qu'il pointe lancre de rotation (montéc et descente) et à 2 vitesses (vitesse de place nécessite de vers unc position désirée (positions basse ou haute)  Lorsqu'un changement position à une autre; le système de positionnement fait fonctionner le moteur, en une ou passer dune plusicurs commandes électriques up/down [Montée / Descente]:
+dr Cerieen 0
+mr
+Coneco 0
+Cooday
+nl
+hunznod Toinog 9 Figur D.1 Schéma électrique d'un 'guindeau 'électrique. NxÉnos D.1-COMMANDE SEQUENTIELLE DE POSITIONNEMENT DE L'ANCRE capable de contrôler la montée et la descente de Yancre On désire développer un automatisme D.2). Le moteur doit pouvoir monter; un moteur bidirectionnel à Yaide de 4 boutons (figure Par Mr, mb correspondent à des commandes de descendre ou rester en état darrêt.  Les boutons dr, dlv correspondent à des commandes de rotation pour la montée capide et lente. Les boutons rotation pour la descente rapide ct lente
+Montée
+VI
+Moteur
+Chaîne
+V2
+Descente
+V3
+ml mnr dr Ancrc Boîte de commande Figure D.2 : Schéma de la commande séquentielle.
+Session Juin 2013
+Page 10/13
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
 
+--- page 12 ---
+STI - Technologie
+Dossier Présentation, Données et Hypothèses
+Etat initial du système vancre peut être à la position haute signalée par un voyant vert (VI) comme il peut être à létat bas signalé par un voyant rouge (V2) . La logique de commande est la suivante Si lancre est à la position  haute, Fappui Cn premier licu, sur le bouton dl > provoque une descente lente (DL), qui continue pendant 10s même après que le bouton < dI v soit relâché. En second Lieu, on démarrera la descente capide (DR) si ( dr v est actionné; qui continue pendant 30s même après que le bouton < dr v soit relâché. Le mouvement de descente est signalé par un voyant orangé (V3) .
+Si lancre est à la position basse; Tappui en premier ieu, sur le bouton mlv provoque une montée lente (ML), qui continuc pendant 10s même après que le bouton mlv soit relâché En second lieu; on démarrera la montée capide (MR) si < mr v est actionné, qui continue pendant 30s même après que le bouton MI > soit relâché. Le mouvement de montée est signalé par le même voyant orangé (V3) .
+Tableau D.1 Variables dentrée et de sortie du système. Variables dentrée Variables de sortie dl Commande descente lente DL Action descente lente dr Commande descente rapide DR Action descente rapide ML Action montée lente ml Commande montée lente MR Action montée rapide V1 Signalisation position haute de lancre mr Commande montée rapide V2 Signalisation position basse de lancre V3 Signalisation montée et descente de Yancre
+Les questons rclatives à la partic D.I sont cxplicitécs dans le document réponscs (page 23/27)
+D.2-ETUDE DE L'ASSERVISSEMENT DE VITESSE DE L'ANCRE Lobjectif de cette partie est détudier le comportement du système moteur et charge à travers Tasservissement de vitesse de la machine à courant continu: Dans la première partie, on se propose de modéliser le système dont lentrée est la tension dalimentation de linduit du moteur u(t) et dont la sortie est la vitesse Q1(t)  Ensuite; on va étudier les problèmes de stabilité posés par Yasscrvissement de vitesse de lancre et le compromis à trouver entre la stabilité, la précision et la rapidité La figure D.3 schématise le dispositif mécanique constituée de lancre de masse M1, commandé par un ensemble moto-réducteur à courant continu: Une chaîne est attachée à cette ancre entraînée par Tintermédiaire du barbotin. Le moteur doit pouvoir tourner dans les deux sens une vitesse précise; fonction de la tension consigne.
+BUoieour AUxtTunEs
+Concours nationaux dentrée aur cycles de formation dingénieurs
+Session Juin 2013
+Page 11/13
 
+--- page 13 ---
+STI - Technologie
+Dossier Présentation; Données et Hypothèses
+i(t) R
+02
+u(t)
+Qu,C1
+C1r
+Jz, Cz
+r: réducteur
+Mi
+Figur D.3 : Schéma technologique simplifié du Iystème moteur + ancre. D.2.1- Modélisation de l'ensemble moteur+charge Afin de prévoir le comportement de cet ensemble, il sagit de déterminer un modèle équivalent Côté électrique; le comportement du moteur est régi par léquation différentielle suivante u(t) = Ra(t) + Ldi@2+e dt
+Où
+u (en V) est la tension dalimentation; (en V) est la force contre-électromotrice du moteur, R (en 82) est la résistance de linduit; L (en H) est linductance équivalente de linduit et i (en A) est le courant dans celui-ci. PReEJoa) Tur Côté mécanique, léquation relative au moteur est donnéc par Uixnr ()~C,() = J,490+496) dt Où C, (en Nm) est le couplc exercé par le moteur, Cir est le couple résistant à lentrée de Fétage de réduction; supposé indépendant de la vitesse Q, (en rd/s) , J, (en kgm?) est le moment dinertie de la partie tournante sur larbre du moteur et f (en Nm.s) est le coefficient de frottement visqueux entre les paliers et larbre du moteur. La liaison entre les équations (1) et (2) se fait par les équations électromécaniques du moteur e= Ko 91 (t) C1(t) = K1 ((t) Où : Ko et K, représentent respectivement la constante de vitesse et de couple.
+Léquation mécanique relative à la charge est donnée par C,(t) ~G,(t) = J,4802+6,9,() dt Où : C2 (en Nm) est le couple à la sortie du réducteur; C, est le couple de perturbation; supposé indépendant de la vitesse 822 (en rd/s) , J2 (en kgm2) est le moment dinertie de la charge et f2 (en Nm.s) est le coefficient de frottement visqueux de la charge. Concours nationaux dentrée aux cycles de formation d'ingénieurs Session Juin 2013 Page 12/13
 
+--- page 14 ---
+STI - Technologie
+Dossier Présentation; Données et Hypothèses
+Léquation mécanique relative au réducteur est donnée par 022 Cr 91 = Cz 02 avec r S21
+Où rest le rapport de réduction du réducteur
+Application numérique : Tableau D.2 : Paramètres caradtéristiques de lensemble Moteur + Charge R = 1.2 Q Ko 0.25 V/rad /s fr 1.5625 108 Nm.s L = 0.2 H K, = 0.25 Nm/A J, = 0.125 108 kg.m?
+T = 20
+D.2.2- Asservissement de vitesse du moteur Dans ce qui suit on considère que
+500
+C; (p) = 0 et G(p) = p +18.5p + 200
+On effectue lasservissement à retour unitaire de G (p) avec un correcteur   R(p) =K + 2
+Qc(p)
+Ulp) Q(p) R(p) G (p)h
+Lcs qucstions rclaüves à J parüe Dsont 'explicitécs dans le document réponscs (pagcs 23/27 27/27) Preparou {SinUT NoiHad Cs WDs @
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session Juin 2013
+Page 13/13
 
+--- page 15 ---
+DOSSIER
+DOCUMENT REPONSES
+Ce dossier comporte 27 pages numérotées de 1 à 27
+Partie A Technologie de conception Partie B - Technologie de production Partie € Mécanique & RDM Partie D Automatique
+Pages 1 à 7 ; Pages 8 à 17 ; Pages 18 à 22 ; Pages 23 à 27 ;
+Un seul dossier réponse est foumni au candidat et doit être rendu; en totalité, même sans réponses à la fin de lépreuve
+Le renouvellement de ce dossier est interdit
+Uii9ld
 
+--- page 16 ---
+STI Technologie
+Document Réponses Technologie de Conception
+PARTIE A : TECHNOLOGIE DE CONCEPTION
+A1. ANALYSE FONCTIONNELLE Compléter lactigramme du niveau A-0 du guindeau électrique.
+A-0
+Guindeau électrique
+PnËawon A2. ETUDE TECHNOLOGIQUE SiUT Uoin) Avcrtissement: Cocher la case correspondant à la bonne réponse "n6us Diea Pour changer de réponse; noircir la case fausse et cochez de nouveau la bonne case A toute question correspond une seule réponse correcte Sily aura plus dune seule case cochée la réponse sera considérée comme fausse.
+A2.1 - Nommer et caractériser le rôle de chacun des organes suivants
+A- Ecrou conique permet de serre{ les cônes de friction
+C- Ecrou  papillon /croisillon   permet de régler le couple dadhérence
+8 ; B- Ecrou à oreille permet de tourner le barbotin (04) et enrouler chainc
+D- Ecrou moleté permet de régler le couple dadhérence
+A- Barbotin (roue) permet dentraîner la chaîne par obstacle
+C - Roue de transmission adhérence
+par
+8 9 B- Barbotin (roue) permet dentraîner la chaine par adhérence
+D- Tambour de transmission par obstacle
+A - Tambour permct dentrainer cordage par obstacle
+C- Tambour   permet de freiner le cordage
+9 9 B- Poupée (tambour) permet denrouler ct d'entrainer par adhérence le_cordage A- Amplifcateur   pour   multiplier vitesse de rotation Ie B- Systèmne roue et VIS sans fin permettant la réduction de la vitesse et la muluplication du couple
+D- Barbotin   permet   dentrainer   par adhérence le cordage
+C- Engrenage à dentures droite
+D-  Réducteur roue et  vis sans fin permettant Tamélioration du rendcment mécanique
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2013
+Page 1/27
 
+--- page 17 ---
+STI - Technologie
+Document Réponses Technologie de Conception
+A.2.2- Etude des assemblages Compléter le tableau suivant Assemblage Type de la liaison (04)/((24)+(25)) (08) /(24)
+Rôle de la liaison
+(16)/(24)/(18)/(19) (14)/(24)
+A.23- Etude des ajustements Compléter le tableau suivant
+Assemblage des pièces (04)/((24)
+Ajustement
+Justification
+(07)/(24)
+(08) /(24)
+(01)/(31)
+(01)/(13)
+A.3- COTATION FONCTIONNELLE
+Donner le rôle de la cote condition les cônes de friction (04) et (06)
+placée entre
+03
+95
+06
+Tracer la chaîne relative à la cote condition compléter les expressions suivantes
+et
+anin
+aMax
+YsnnT Gunvo Unihfo:r
+ITa=
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2013
+Page 2/27
 
+--- page 18 ---
+STI - Technologie
+Document Réponses Technologie de Conception
+A4 - THEORIE DES MECANISMES
+A4.1- Graphe des liaisons Tracer le graphe des laisons et en déduire le nombre cyclomatique Y.
+rur Fnisisjois WHFQ"o 6a
+L Rotule de centre 0
+12
+L3
+Y =
+L
+Ls
+10
+A4.2- Etude cinématique A.4.2.1- Ecrire les torseurs cinématiques des différentes liaisons au point 0 dans la base 3(6,y,2
+{vsnau} B
+{v
+(Lz)}
+{v
+(Ls)}
+{v
+(L,)}o
+{v
+(Ls)}o
+4.4.2.2- Ecrire, au point O, les équations torsorielles cinématiques relatives aux différentes chaînes continues fermées suivantes.
+Chaîne (1-3-1)
+Chaine (D (3-8-10-3) 4.4.2.3- En déduire les équations scalaires cinématiques. Chaîne (1-3-1)
+Chaine (Il) (3-8-10-3)
+(10) (11) (12)
+Concours nationaux dentrée aux cycles de formation dingenieurs
+Session 2013
+Page 3/27
 
+--- page 19 ---
+STI - Technologie
+Document Réponses Technologie de Conception
+A.4.2.4- Déduire du système déquations scalaires; la(es) loi(s) entrée-sortie(s) cinématique(s) ainsi quc le nombre de degrés de mobilité (m) et le nombre de degrés d'hyperstatisme (h)
+Loi(s) entrée-sortie(s)
+Til
+A5- TRANSMISSION DE PUISSANCE A5.1- Engrenage roue et vis sans fin (08)/ (33) NJz 4.5.1.1- Calculer le rapport de transmission i33,8 Ng
+33,8
+A.5.1.2- Calculer Yentraxe 033,8-
+(mm)
+A.5.1.3-Etablir Ja relation du nombre de dents Zs et du nombre de filets Z33 en fonction du rapport de transmission /33,8 et de Kentraxe 033,8 et calculer leurs valeurs_
+Z33
+A.5.1.4- Sachant que le coefficient de frottement entre la vis (33) et la roue (08) est f =0.105. Vérifier la réversibilité du système et donner son intérêt.
+Concours nationaux d'entrée aux cycles de formalion d'ingénieurs
+Session 2013
+Page 4/27
+uonttdu)
+(033,8
 
+--- page 20 ---
+STI - Technologie
+Document Réponses Technologie de Conception
+A.5.1.5- Calculer le rendement 733,8.
+A.5.1.6- Calculer la force tangentielle < Fo8 appliquée sur la roue (08) 
+A.5.2- Accouplement de sécurité (08), (10) et (11) A.5.2.1- Calculer le couple Co transmis par (10).
+oistu7 Phepartolr 75r
+(Nm)
+A.5.2.2- Mettre en place la force de contact appliquée par (08) sur (10) et en déduire la valcur de la force axiale minimale < Fa fournie par le ressort (11) pour maintenir le contact entre (08) et (10) .
+F
+(10)
+A5.3- Embrayage conique (03), (04), (05) et (06) A.5.3.1- Calculer le couple Cs transmis par la pièce (05).
+m)
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2013
+Page 5/27
+[733,8
 
+--- page 21 ---
+STI - Technologie
+Document Réponses Technologie de Conception
+A.5.3.2- Calculer la force axiale F: produite par la pièce (03) pour assurer un couple dadhérence Cad 1.5 C8.
+A.5.4- Système barbotin et chaîne A.5.4.1- Calculer la vitesse linéaire V de remontée de la chaîne entrainée par la pièce (05)
+(ml
+A.5.4.2- Calculer la charge maximale P à remonter par la chaîne.
+P =
+A6-ETUDE GRAPHIQUE On se propose de substituer la solution dorigine (roulement combiné (34)) par une paire de roulement billes contact oblique. On demande  de compléter  le  dessin   représenté   ci-après (page7/27) par
+A.6.1- La réalisation du montage des roulements (38) et (39) assurant la liaison pivot de la vis (33) par rapport au boitier (37). Indiquer les ajustements nécessaires pour le bon fonctionnement A.6.2- La réalisation de la liaison encastrement démontable du boitier (37) avec le carter (01). Préciser les ajustements nécessaires pour cette liaison 4.6.3- Le montage dun couvercle; en tôle emboutie, monté forcé sur le boitier pour assurer l'étanchéité.
+Qwngio
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2013
+Page 6/27
 
+--- page 22 ---
+SII - Technologie
+Document Réponses Technologie de Conception
+39
+38
+37
+01
+33
+stTTUr Fhei ous " uonre)) huds Diac
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2013
+Page 7/27
 
+--- page 23 ---
+STI _ Technologie
+Document Réponses Technologie de Production
+PARTIE B: TECHNOLOGIE DE PRODUCTION
+PRESENTATION La   société qui   fabrique les guindeaux   prévoit unc production annuelle de 50000 pièces  an renouvelable. Ce qui nous ramène à produire la même quantité de flasques (13), dont le dessin de définition est donné par le document technique DT2 Le dit   flasque est obtenu par moulage en coquille sous pression et ensuite par usinage;   deux techniques que nous aurons à étudier ci-après. Le matérau constituant le flasque est le EN AB-43000 [Al Si 1OMg] Noihequg B.1- MATERIAU B.1.1- Donner la signification des spécifications surfacique et géométrique suivantes InteIprtaton des ékments de désignaton surfacique
+Ra)(3.2
+Spécicauon
+Inteprétation
+0.05
+A
+Avant de lancer la série de fabrication; le constructeur procédé à des essais de caractérisation mécanique (essai de traction et essai de dureté) .
+B.1.2- Donner la signification de la désignation normalisée du matériau EN AB-43000 [Al Si 1OMg] constituant le flasque repéré (13)
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2013
+Page 8/27
 
+--- page 24 ---
+STI - Technologie
+Document Réponses Technologie de Production
+B.1.3 - partr de la courbe conventionnelle (figure B.1) de tcaction du EN AB-43000 [Al Si 1OMg] on demande de déterminer (en complétant le tableau B.1) la résistance maximale à /extension Rrn, limite   délasticité extension Reo.2 et Pallongement en pourcent A% en indiquant leurs par emplacement sur la courbe:
+250
+200
+[ 150 9 2 100
+50
+0,05
+0,1
+0,15 AL/LI
+0,2
+0,25
+0,3
+0.29 de lallongement
+Rajolr Figur B.1 Courbe convntionnelle de traction. WiEQV) Tableau B.1 Caractéristiques mécaniques du EN AB43000 [AlSi 1OMg] wmugve Caractéristiques conventionnclles Valeurs relevées Indiquer les unités
+Rm
+Reo2%
+A%
+B.1.4- Essai de dureté (essai Brinell) Pour caractériser mécaniquement au mieux cct alliage daluminium, le constructeur procède; à un essai de dureté, dont les détails sont définis sur le tableau B.2 B.1.4.1- Calculer la valeur de leffort appliqué lors de cet essai
+Tableau B.2 : Essai de dureté Brinell du EN AB43000 [AlSi 1OMg] Donnée Détermination de Peffort < F >
+Résultats
+d1 = 4.2 mm
+D = 10 mm
+d2 = 4.3 mm
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2013
+Page 9/27
 
+--- page 25 ---
+STI Technologie
+Document Réponses Iechnologie de Production
+B.1.4.2- Déterminer la valeur de la dureté HB correspondant aux données ci-dessus mentionnées.
+B-2- MOULAGE EN COQUILLE B.2.1- Détermination du retrait : Sur le document technique DT2, sont indiquées les côtes des surfaces B et Bz relatves à la pièce brute que on souhaite obtenir. Sachant que le pourcentage de retrait pour Talliage daluminium utilisé est de 1.259, déterminer les valeurs des côtes correspondantes à B et Bz respectivement sur le noyau et sur la coquille.
+B.2.2- Détermination de la forme de la coquille Dans la suite sont données la forme de la pièce brute et une esquisse initiatrice des coquilles. On vous demande de représenter les deux formes du moule (n'oublier pas de mettre en exergue les angles de dépouille; noyau; canal dinjection; centrage des deux coquilles ct système déjection de la pièce). Le système de refroidissement ne sera pas représenté Pnjote oikeozi
+Emplacement des éjecteurs
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2013
+Page 10/27
 
+--- page 26 ---
+STI - Technologie
+Document Réponses Technologie de Production
+B.2.3- Sachant que le plan de joint délimite les différentes partes dun moule, en tenant compte des rétentions. Citer alors au moins deux critères de choix de cc dernier.
+B.2.4- Peut-on mouler des pièces en fonte dans un moule métallique en coquille ? Justifier votre réponse.
+B.2.5- Pour ce cas (moulage en coquille sous pression), peut-on utiliser un noyau en sable ? Justifier votre réponse.
+B.2.6- Citer au moins deux avantages de la technique de moulage en coquille par injection vis à vis du moulage par gravité.
+nici Qiy B-3-PARTIE USINAGE (ETUDE DE PROJET DE GAMME DE FABRICATION) Gunss DEGE Document techniques DT2 Dessin de définition du flasque avec la cotation dimensionnelle et géométrique Dessin de définition du flasque avec la numérotation des surfaces à usiner et des brutes de départ.
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2013
+Page 11/27
 
+--- page 27 ---
+SII Technologie
+Document Réponses Technologie de Production
+Tableau B.3 Tableau des grupements évidents Surfaces à_grouper Nouvelles désignation 2+3 L 1+4 Lz 5+6 Ep1 9+10 Epz
+Suite à une étude des contraintes dantériorité nous avons abouti aux résultats suivants Faire le groupement en phase directement sur le tableau B.4.
+Tableau B.4 : Grupements en pbase: Niveau Niveau 2 Niveau 3 Niveau Lz Ep1 L Epz 13 12 1l
+Sachant que la phase 10 est la phase contrôle du brut de départ; rédiger le projet de gamme de fabrication relatif à la phase 20 (Epu L2, 7 et 8) ci-avant définies en précisant pour cette phase Les cotes de fabrication (les calculs de transfert ainsi que les valeurs relatives aux éventuelles cotes de fabrication doivent figurer dans la dernière case de la feuille danalyse) Les référentiels de mise en position (isostatisme) Les outils de coupe représentés en position de travail Machine outil Les instruments de contrôle.
+PPaRaonS nsiur CUOTHEQ*D A DuD Lars 'Quoes
+Concours nalionaux d'entrée aux cycles de formation d'ingénieurs
+Session 2013
+Page 12/27
 
+--- page 28 ---
+Document Réponses Technologie de Production
+STI Technologie
+Avant_projet_de_qamme de_fabrication Matière Machine Désignation opération
+Pièce Phase
+EP
+Désignation de lisostatisme
+Outillage
+Moyens de vérification
+Cotes de fabrication
+Session 2013
+Page 13/27
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Pnojoirs
 
+--- page 29 ---
+STI - Technologie
+Document Réponses Technologie de Production
+B-4- ETUDE DE LA COUPE Lusinage de Talésage (Document DT2) du flasque (13), nécessite Yutilisation dun outil à aléser à plaquette   rapportée en carbure Les conditions de coupe; pour effectuer cet alésage, sont mentionnées sur le tableau B.5
+Tableau B.5 : Définition des cnditions de coupe. Conditions Désignation Valeurs Avance par tour 0.65 K Angle dc coupe principale 75 N Fréquence de rotation 700 Pm Puissance moteur Rendement moteur 0.75
+Unités mm /tr (degré) tr/mn Kw
+Les différentes valeurs de la pression spécifique de coupe Kc, sont données dans le tableau B.6 en fonction de lépaisseur du copeau hD. Ia figure B.2, donne [évolution de la pression spécifique de coupe Kc pour 0.4 hD 0.8 De ce fait lévolution de Kc nest pas linéaire sur les différents intervalles de hD
+Tableau B.6 : Valeurs de Kc en fonction de lépaisseur du copeau bD
+KENmm (outsrbueaKEIS9 Malierc hD=OThd20,2 IDE0f hD 0,8 E335(4602 4200 30 2200 15s0 @SCsacXcw 3700 280 2050 1500 Css @cSL 4700 3400 2500 1800 Foric Fi2o 2900 2080 1500 1080 Fontc GS 3350 2500 1g0o 1300 Laitan 1400 I0 750 550 Brone 3250 2400 1750 73( 4lv 7400 T0oo 700 520
+K {MPa)
+700
+Kc = 1757 (hD) 2554.6 (hD) + 1439.8
+650
+600
+550
+hD (mm;
+500 0,4
+0,45
+0,5
+0,55
+0,6
+0,65
+0,7
+0,75
+0,8
+Figur B.2 Evolution de la prssion spécifique de oupe Kc pour 0.4 <hD < 0.8
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2013
+Page 14/27
+(aruoirQgi
 
+--- page 30 ---
+STI - Technologie
+Document Réponses Technologie de Production
+B.4.1- Détermination des conditions de coupe B.4.1.1- Déterminer la profondeur de passe < ap > à enlever
+B.4.1.2- Déterminer   la vitesse de coupe < Vc >
+B.4.1.3- Déterminer lépaisseur du copeau < hD >
+aiunt)
+B.4.1.4- Déterminer   la pression spécifique de coupe < Kc >
+B.4.1.5- Déterminer la profondeur de   passe maximum (( apmnaxi que   on peut enlever avec Pm = IKw:
+B.4.1.6- En déduire le nombre de passe < n >
+Concours nalionaux dentrée aux cycles de formation dingénieurs
+Session 2013
+Page 15/27
 
+--- page 31 ---
+STI - Technologie
+Document_Réponses : Technologie de_Production
+B.4.2- Déterminer le temps de coupe effectif pour une seule passe.
+B.4.3- En se basant sur les conditions de coupe actuelles, Ja loi de TAYLOR sécrit sous Ja forme suivante Vca4 =350 B.4.3.1 - Déterminer la nouvelle vitesse de coupe Vc v, permettant à une seule arrête de coupe de travailler pendant 36 minutes.
+B.4.3.2- Combien de pièces est-il possible de réaliser avec la nouvelle vitesse de coupe Vc% ci-avant déterminée ?
+B-5-TRAVAIL DES TOLES Pour la protection du guindcau contre les intempéries; le constructeur préconise la fabrication dune cache en tôle électro-zinguée; dont les  formes et les dimensions   sont définies sur le document technique DT2 B.5.1- Déterminer la longueur du flan de départ de Ja tôle (longueur de la tôle dépliée avant pliage)
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2013
+Page 16/27
 
+--- page 32 ---
+STI Technologie
+Document Réponses Technologie de Production
+B.5.2- Déterminer leffort dun seul pliage, sachant que nous avons à effectuer ici un pliage en Vé On donne a 16 mm, k = 0.37 et Rm 420 MPa
+B.5.3- Calculer leffort de découpage du trou oblong
+CaËraanou TtuT QOIMEQUP)
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2013
+Page 17/27
 
+--- page 33 ---
+SII - Technologie
+Document Réponses Mécanique et RDM
+PARTIE C:
+MECANIQUE & RDM
+C.1-ETUDE STATIQUE C.1.1- Modélisation de laction d'engrènement C.1.1.1- Dans la base 3(*,y,2,la résultante de Yaction dengrènement F appliquée de (33) sur (08), s'écrit sous la forme F=F(q x+C2 j+c; 2. Exprimer les composantes cv C2 ct C, en fonction de a et B.
+C.1.1.2- Calculer, au centième près, chacun des coefficients C; (arrondir à deux chiffres après la virgule).
+C.1.1.3- Montrer  que le moment de laction dengrènement F 'écrit au point 0, dans   la base B6,y,2 sous la forme Mo(33 9 08) = F (a1 x+a2 y+a, 2
+Calculer; au centième près, chacun des coefficients a; (arrondir à deux chiffres après la virgule)
+23
+C.1.2- Modélisation de la tension de la chaîne C.1.21- Exprimer le module < T v de la tension de la chaîne en fonction de la masse de Yancre Ma, de la densité linéique de masse et la longueur déployée de la chaîne ( et Lmar)
+T=
+C.1.2.2- Dans la base B(,ÿ,2, la tension de la chaîne T s'écrit sous la forme T=T; +Ty 7. Exprimer les composantes Tx et T, en fonction de Y et T.
+Tx =
+Ty
+C.1.23- Calculer; au centième près; la valeur de chacune des composantes de la tension de la chaîne (arrondir à deux chiffres après la virgule) .
+Tx
+(KN)
+Ty
+(KN)
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2013
+Page 18/27
 
+--- page 34 ---
+STI Technologie
+Document Réponses Mécanique et RDM
+C.1.24- Montrer que le torseur   représentant la tension de la chaîne sur la pièce (05) s'écrit, au M point 0 dans la base 3(*,ÿ,2, sous la forme {-(chaîne = 05)}0 3 My Mz
+Calculer la valeur de chacune des composantes Mz, M, et Mz du moment (arrondir par excès à lentier le plus proche)
+Mx
+(KNmm)
+My
+(KN.mm)
+Mz
+(KN.mm)
+C.1.3- Modélisation des actions mécaniques transmissibles C.1.3.1- Compléter, dans la base B(*,y,2) , les torseurs des actons mécaniques   transmissibles exercées par le corps (01) sur larbre (24) au niveau des liaisons rotule en 0 et linéaire annulaire en B.
+{"(01 -> 24)}
+ct {1,(01 = 24)}B
+C.1.3.2- En déduire, au point et dans la base 8(,y,2), le torseur des actions mécaniques transmissibles exercées par le corps (01) sur larbre (24).
+7(01 = 24)}0
+C.1.4 Principe fondamental de la statique C.1.4.1- Ecrire; au point 0 dans la base BG,ÿ,2 , le torseur des actions mnécaniques  extérieures exercées sur larbre (24).
+{(24 => 24)}
+Concours nalionaux d'entrée aux cycles de formation d'ingénieurs
+Session 2013
+Page 19/27
+P {usD
 
+--- page 35 ---
+STI Technologie
+Document Réponses_ Mécanique et RDM
+C.1.4.2- Par application du  PFS, au point 0, larbre   (24), calculer le   module de laction d'engrènement F ainsi que les composantes des actions mécaniques transmissibles (arrondir à un seul chiffre après la virgule) F (KN) DSTVu7 ezarhtoir CUoTQur) 84 {T8urs Puguus
+(KN)
+(KN
+C2 - RESISTANCE DES MATERIAUX Dans toute la suite du problème; on supposera que Yaction d'engrènement; la tension de la chaîne et les deux actions mécaniques transmissibles exercées sur larbre (24) sont définies respectivement aux points 0,A, B et C par les torseurs suivants (les forces en (KN) et les moments en (KN.mm)) 0,13 (0,80 -223 (-1,62 0,69 {s}0 1,21 T2}A 1,45 {r,}B 2,54 et {r}c = -0,12 -3,91 3,91 46 246
+C.2.1- Déterminer, au point G, le torseur des efforts de cohésions internes tout au long de la ligne moyenne de la poutre droite En déduire les types de sollicitations pour les   différentes   parties (travées) de la poutre. Le point G est le centre géométrique de la section droite 'supposée circulaire de diamètre < d > tel que OG =z"
+'Iravée No1
+0 < z <
+Résultante N
+Moment
+Mt
+Dans cette travée, la poutre est soumise à
+Iravée NP2
+Résultante N
+Moment
+Mt
+Dans cette travée, la poutre est soumise à
+'Travée No3
+Résultante N
+Moment
+Mt =
+Dans Cette travée, la poutre est soumise à
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2013
+Page 20/27
 
+--- page 36 ---
+STI - Technologie
+Document Réponses Mécanique et RDM
+C.22- Tracer le diagramme des efforts de cohésion non nuls. Diagrammes des Forces Diagrammes des Moments
+C.23- On supposera que la section circulaire la plus sollicitée est soumise à un moment de flexion maximal   (Mf)max 120 KNmm et un moment de torsion maximal (M)max = 46 KN.mm Le Pre Ktoir matériau utilisé pour la fabrication de larbre est caractérisée par TiUT Une limite élastique à lextension Re 480 MPa ; (ohod) Une limite élastique au glissement Rg = 240 MPa. On adoptera un coefficient de sécurité s = 3. C.23.1- Détermination du diamètre de Yarbre à partir de la condition de résistance à la flexion: a- Calculer la résistance pratique à lextension Rpe. Rpe MPa b- Le critère de résistance à la flexion s'écrit
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2013
+Page 21/27
 
+--- page 37 ---
+Document Réponses Mécanique et RDM
+STI - Technologie
+c- Les expressions et les valeurs nécessaires à Yapplication de ce critère sont
+d- Calculer le diamètre minimum de Yarbre (24) satisfaisant au critère de flexion (arrondir à la valeur la plus proche qui assure la résistance)
+(mm)
+nun
+C.2.3.2- Détermination du diamètre de larbre (24) à partir_ de la condition de résistancc à la torsion a- Calculer la résistance pratique au glissement Rpg: Rpg MPa
+b-Le critère de résistance à la torsion s'écrit
+C- Les expressions et les valeurs nécessaires à lapplication de ce critère sont
+d-Calculer le diamètre minimum de larbre (24) satisfaisant au ccitère de torsion (arrondir à la valeur la plus proche qui assure la résistance) . (mm) nn
+C.2.3.3- Réellement; larbre (24) est soumis à une sollicitation combinée de flexion et de torsion. Pour cela, calculer le moment réduit (ou moment de flexion idéal) noté < Mr > et défini par M, VM? +0.75 M? Dans ce cas, le critère de résistance, postulé par Von Mises; s'écrit sous la forme
+(MImax <Rpe où W = Id' max W 32
+2.17
+mnaX Rpe
+mn
+a- Calculer la valeur maximale du moment réduit.
+KNmm)
+Jrnax
+b- Calculer le diamètre minimum de Yarbre satisfaisant au critère de Von Mises. (arrondir à Ja valeur la plus proche qui assure la résistance) (mm) min
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2013
+Page 22/27
 
+--- page 38 ---
+Document Réponses Automatique
+STI Technologie
+PARTIE D: AUTOMATIQUE
+D.1-COMMANDE SEQUENTIELLE DE POSITIONNEMENT DE L'ANCRE D.1.1 - Compléter le schéma fonctionnel de automatisme:
+P.O-
+Partie Commande
+Pré-actopneurs
+W électrlque
+Capteurs
+PC
+Parte Opérative
+D.1.2- Compléter le grafcet décrivant le fonctionnement du système:
+10
+V1
+20
+V2
+11
+21
+22
+12
+23
+13
+24
+14
+15
+25
+Grafcet du Système de 'positionnement de lancrë Session 2013 Concours nationaux dentrée aux cycles de formation dingénieurs
+Page 23/27
+1
 
+--- page 39 ---
+STI - Technologie
+Document Réponses Automatique
+D.2- ETUDE DE L'ASSERVISSEMENT DE VITESSE DE L'ANCRE D.2.1- Modélisation de l'ensemble moteur+charge D.21.1-Ecrire les équations de (1) à (6) du système dans le domaine de Laplace en supposant que les conditions initiales sont nulles
+D.2.1.2-Montrer les équations mécaniques (2), (5) et (6)   peuvent sC mnettre sous  la forme que suivante G,()-rC,(t) = J,480+4,0,(4) dt
+Avec : Jr = 11 +rJ2 et fr =f+rf2
+D.2.1.3-Compléter le schéma fonctionnel ci-après par les transmittances manquantes.
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2013
+Page 24/27
+LE nuss
 
+--- page 40 ---
+STI - Technologie
+Document Réponses Automatique
+Cr(p)
+U(p)
+C1(p)
+02(p)
+E(p)
+Q1(p)
+D.21.4-Montrer que le schéma fonctionnel de la question D.2.13. peut se mettre sous la forme suivante
+Icr(p)
+U()
+IWp)
+C(p)
+91(p)
+E(p)
+D.2.1.5-Montrer que Yexpression de la vitesse du moteur en fonction de la tension dinduit et du couple de perturbation C, sécrit : 9,(p) = G,(p) U(p)+ G2(p) C,(p). En déduire les expressions des fonctions de transfert G (p) et G2(p)
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2013
+Page 25/27
+I(p)
+MTon Nilad
 
+--- page 41 ---
+STI - Technologie
+Document Réponses Automatique
+D.2.1.6-En se référant au tableau D.2 du dossier présentation, données et hypothèses, calculer la Q1v) fonction de transfert du système G1(p) U(p)
+D.2.2- Asservissement de vitesse du moteur D.22.1-Calculer léquation caractéristique du système bouclé.
+D.22.2-En utilisant le critère de Routh, donner les conditions sur les paramètres K et permettant au système de rester stable. Représenter le domaine de stabilité dans le plan K f(a)
+Concours nationaux d'entrèe aux cycles de formation d'ingénieurs
+Session 2013
+Page - 26/27
 
+--- page 42 ---
+Document Réponses Automatique
+STI - Technologie
+K = f(a)
+D.2.2.3-Pour a = 15, Quelle serait la valeur de K pour que le système devient marginalement stable. En déduire dans ce cas les pôles imaginaires purs du système
+D.22.4-Calculer lerreur statique de position unitaire
+D.2.2.5-Déterminer les valeurs de assurant une erreur statique de traînage c #nitaire inte inférieure ou égale à 20 % JoNEqur) {u0es Funey
+Session 2013
+Page - 27/27
+Concours nationaux dentrée aux cycles de formation dingenieurs

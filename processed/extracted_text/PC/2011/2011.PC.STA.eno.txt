@@ -1,9 +1,190 @@
+--- page 1 ---
+4>y) 33*6
+REPUBLIQUE TUNISIENNE
+Ministère de F'Enseignement Supérieur et de la Recherche Scientifique
+@ljxglgls {Ls Gl Jsijl Zuibsl CljliLijl ituudit-Nl ÜsS Jal> 2011 629*
+Concours nationaux dentrée aux cycles de formation d 'ingénieurs Session 2011
+Concours Mathématiques et Physique & Physique et Chimie Epreuve de Sciences et Techniques dc TIngénieur (nsTiTur QBUOTHEQUE) JOIRE  ETuDes  dingemieues SN Date Vendredi 17 Juin 2011 Heure : 8 H Durée 3 H
+Barème
+Partic A 2 points
+Partie B 12 points
+Partie € : 6 points.
+Fépreuve comporte trois parties Analyse lonctionnelle B Mécanique C Automatique. Lc sujet de léprcuve remis au candidat comporte dcux dossiers Présentation, Données et Hypothèses & Document Réponses Aucun autre document n'est autorisé. Eutilisation des calculatrices de poche non programmables est autoriséc. Les différentes parties sont indépendantes et doivent être traitées sur le document réponses Un seul dossier document réponses est   fourni au candidat et doit être rendu en totalité même sans réponses, à la fin de lépreuve. Le renouvellement de ce dossier est interdit.
+DOSSIER
+PRESENTATION, DONNEES ET HYPOTHESES
 
+--- page 2 ---
+L-MPgPC
+Dossicr Préscntation Données .
+DOSSIER
+PRESENTATION, DONNEES ET HYPOTHESES
+Ce dossier comporte 8 pages numérotées de 1à 8 :
+Préscntation du sujet pages 1et 2 ; Données et hypothèses Partie B pages 4 et 5 ; Données et hypothèses Partie € pages 6 à 8.
+cours nationaux dentrée aux cycles de lormation d'ingénieurs
+Ses:
 
+--- page 3 ---
+SII MP~PC
+Dossicr Préscntation Donnccs cL Elypothcscs
+POSTE DE CONTROLE DES RECIPIENTS
+Mise en situation Les récipients (flacons, boites, bouteilles, etc. ) sont fréquemment utilisés dans le conditionnement de différents types de produits alimentaires, médicales; chimiques; etc (figure 1)
+Cnco Tcin
+Figure 1
+Les   exigences de sécurité et   de   prolection   imposées
+certains secteurs ont   conduit
+Fintégration des unités de contrôle de conformité et particulièrement d'étanchéité dans les lignes de conditionnement (figure 2) La technique la plus utilisée dans ce type de contrôle est la mesure par variation de pression dite méthode air dans air > et qui consiste à mettre le récipient à tester sous pression ct   vérifier  ensuite Vexistence ou non dune chute de   pression. Une   autre   méthode   dite dilférentielle été développée à la base de cette technique. Elle consiste à mettre en pression ou dépression le récipient à tester et un récipient de référence étanche et de mesurer ensuite la variation de pression Cctte technique permet d'optimiser les conditions de mesure; d'obtenir une grande précision et de s'affranchir les variations de pression liées aux variations thermiques dues à la détente des gaz
+Figure 2
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2011
+Page - 1-
 
+--- page 4 ---
+STI MP~PC
+Dossicr Préscntation Donnécs ct Hypothcscs
+Dans la chaîne de production considérée dans cette étude, un manipulateur (figure 3) à été implanté   afin dc  saisir et dégager les  récipients   défectueux de la ligne de conditionnement. Ce manipulateur est composé principalement D'une pince de préhension qui, actionnée par un vérin électrique, permet de saisir le récipient D'une équcrre   porte-pince dc préhension qui, actionnéc cn rotation  par UII motoréducleur électrique, permet d'orienter la pince D'un bras qui, actionné par un vérin pneumatique linéaire; permet de positionner la pince D'un mécanisme de stabilisation; composé d'un levier tendeur et dune bielle, qui constituc un dispositif amortisseur permettant d'atténuer les à-coups de fin de courses
+Levier tendeur
+Bicllc Vérin pneumatique
+Vérin électrique
+Bras
+Motoréducteur
+Equerre
+Pince
+[Récipient à dégager
+Figure 3 Manipulateur utilisé dans une ligne de conditionnement pour dégager les récipients défectueux .
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2011
+Page =2 =
 
+--- page 5 ---
+SII_MPgPC
+Dossier Présentation Donnécs ct Hypothcscs
+A. ANALYSE FONCTIONNELLE
+Voir document réponses
+B. PARTIE MECANIQUE
+La   figure B.1 représente le  schéma   cinématique minimal du   manipulateur. Il est   composé essentiellement des éléments suivants Un bâti (0) auquel est attaché le repère Ro(O,æo]o  éo) supposé galiléen Un bras coulissant (1), en liaison glissière d'axe (D,Jo) avec le bâti (0), auquel est attaché le repère R (C,v Jo Zo) tel que 7C = -ljo; Une équerre (2), en liaison pivot d'axe (C,70) avec le bras coulissant (1), à laquelle est attaché le repère R2(C,72 82,70) tel que a = (7o 72) = ( yz) Une bielle (3), en liaison pivot d'axe (B,20) avec léquerre (2), à laquelle est attaché le repère R3(B,æ3 }3,20) tel que B = (xo *3) = (vo C3) ; Un levier tendeur (4), en liaison pivot d'axe (A,70) avec la bielle (3) dune part et en liaison pivot d'axe (0,20) avec le bâti (0) d'autre part, auquel est attaché le repère R4(O,74 )4, 20) tel que 0 = ({o,74) = (vo 1z).
+Données et hypothèses Vecteurs position OC ~lyo CB = I2w2 TP = l2Jz BA = l383 ; 07 = -l4f4 et 0D = axo Paramètres utilisés 12, l3, 44 et a sont des constantes positives a, B, 0 et 2 sont des paramètres variables en fonction du temps. Toutes Jes liaisons sont supposées parfaites_ Tous les repères sont orthonormés directs et on désigne par B; la base associée au repère Ri. Le champ de la pesanteur est défini par g = ~g2o Tous les solides sont de masse négligeable sauf l'équerre (2) qui est supposée homogène, de masse M; de matrice d'inertie diagonale et de moment d'inertie par rapport à l'axe (C,20)  Icio (2) =L Le bras coulissant (1) est entraîné en translation sous laction d'un vérin pneumatique linéaire (VL) définie au point D par le torseur {J(VL 9 1)} = {Fy} 5
+Léquerre (2) est entraînée en rotation sous Faction dun couple moteur : Cm = Cmzo
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 201]
+Page 3 =
 
+--- page 6 ---
+SIl-MPgPC
+Dossier Présentalion Donnéeset Hypothèscs
+Vo
+0 40
+7j4
+02
+83
+70
+4
+yo
+B
+773
+B
+70
++o
+yo'
+Ay4
+70
+9 wo
+7o
+Figure B.l Schéma cinématique minimal du bras manipulateur.
+12
+02
+B
+7
+T1
+Figure B.2 Modèle géométrique de l'équerre (2) : composée de deux tiges homogènes et identiques T, et T2
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 20ll
+Page - 4
 
+--- page 7 ---
+STI_ MP~PC
+Dossicr Préscntation Donnécs ct Hypothèscs
+Partie C Automatique
+La présente étude est composée de deux parties indépendantes. La première (C.1) porte sur la commande séquentielle du poste de contrôle d'étanchéité des récipients et la deuxième (C.2) est axéc sur Fasservissement de position du testeur de pression
+C.1 Commande séquentielle du poste de contrôle détanchéité Le poste de contrôle d'étanchéité (figure C.1) est composé d'un espace fermé compris entre deux verrous amont et aval actionnés respectivement par les vérins (VI) et (V2) ct dun testeur de mise sous pression pouvant se déplacer grâce à un vérin (V3).
+DE
+V3
+Testeur
+Alimentation pression_ de contrôle
+V3h
+Verrou aval V2a
+V3b
+Récipient
+pr
+Tapis
+Verrou amont
+dalimentation (T)
+V2r
+VJr
+Figure C.1 Poste de contrôle détanchéité_ Liste des actions Liste des informations VI+ Avance du verrou amont Vla Réponse verrou amont VI avancé VI Recul du verrou amont Vlr Réponse verrou amont VI reculé V2+ Avance du vcrrou aval Vza Réponsc verrou aval V2 avancé V2 Recul du verrou aval V2r Réponse verrou aval V2 reculé V3 Descente vérin testeur p Réponse pression atteinte V3 Montée vérin testeur V3b Réponse testeur V3 en position basse V4 Envoi de pression de contrôlc V3h Réponse testeur V3 en position haute DE Voyant défaut étanchéité pr Présence récipient sous le testeur V5 Avance manipulateur d'évacuation Bouton de réarmement V5 Recul manipulateur d'évacuation V5r Réponse manipulateur dévacuation V5 reculé T Avance du tapis d'alimentation dcy Bouton départ cycle Initialement, le tapis (T) est au repos, le verrou amont (VI) est en position arrière, le verrou aval (V2) est en position avant et le vérin du testeur (V3) est en position haute.
+Concours nationaux dcntrée aux cycles de formacion dingénieurs
+Session 2011
+Page =5-
 
+--- page 8 ---
+SII- MPgPC
+Dossier Présentation Donnécs ct Hxbothcscs Lappui sur le bouton poussoir de démarrage dun cycle (dcy) entraîne Favance du tapis d'alimentation en récipients. Lorsqu'un récipient se présente (détecteur (pr) actionné), le tapis s'arrête; le verrou amont se ferme ensuite le testeur descend jusqu'à la position basse. Le récipient est alors mis sous pression. Deux cas peuvent se présenter 1" cas Récipient étanche (p = 1) La pression à Fintérieur du récipient croît et par conséquent le capteur de pression (p) sera activé Ceci entraîne la montée du testeur puis le recul du verrou aval Le tapis dalimentation se met en mouvement pour que le récipient libère le capteur (pr). Le verrou aval avance puis le verrou amont reculc. 2éme cas Récipient défectueux (p = 0) Si au bout de 5s la pression n'est pas atteinte, le testeur monle et un voyant défaut étanchéité 'allume. L'évacuation du récipient peut se faire de deux manières différentes Evacuation manuelle Le voyant défaut étanchéité reste allumé jusqu'à ce que l'opérateur enlève le récipient et réarme le dispositif par un bouton poussoir (r) . Puis le verrou amont recule_ Evacuation automatisée Un manipulateur (V5), initialement en position reculée; avance pour dégager le récipient. Ceci entraîne la libération du capteur (pr), lextinction du voyant défaut étanchéité et le retour du vérin (VS) à sa position initiale. Puis, le verrou amont recule. L'appui sur (dcy) déclenche le démarrage d'un nouveau cyclc.
+C.2 Asservissement de position du testeur Le positionnement du testeur (Figure C.1) est assuré par un vérin (V3). Cette technologie rend difficile le contrôle précis de la position du testeur. En plus; si on veut augmenter les performances; un redimensionnement complet dcs éléments est   nécessaire- On se propose alors de remplacer le vérin (V3) par un système formé dun mécanisme vis-écrou et dun motoréducteur à courant continu alimenté en tension à travers un amplificateur de puissance Le comportement électromécanique du système est donné par les équations suivantes: vM(t) = Ri(t) + L di02+ e(t) dt CM(t) = J 4"M62+ fWM(t) + Cr(t) dt (2) e(t) = Ke. WM(t) 0 CM(t) = Ki.i(t) @(t) = 4062 dt (5) @(t) = pWM(t) (6) VM(t) = Kau(t) On note que pour ce moteur on a : Ki = Ke = 0,12 SI ; 1 et Ka 1000. 1000
+Concours nationaux dentrée aux cycles , de formation dingénieurs
+Session 201l
+Page - 6 -
 
+--- page 9 ---
+SII MPePC
+Dossicr Préscntation Donnccs ct Hyhothcscs
+Liste des variables Tension à /entrée de /' amplificateur Tension à /entrée du moteur
+Liste des paramètres Inductance de linduit
+u(t)
+VM(t) i(t)
+R
+Résistance de l'induit
+Courant dinduit du moteur
+J
+Inertie totale du moteur et de la charge f Coefficient du frottement visqueux Ki Coefficient du couple moteur
+e(t)
+Force contre-électromotrice du moteur @M(t) Vitesse angulaire du moteur Vitesse et position angulaire à la sortie W(t), 0(t) du réducteur CM(t) Couple moteur Cr(t) Couple résistant
+Coefficient de la force électro-motrice
+Ke du moteur Ka Gain de Tamplificateur de puissance Rapport de réduction
+On suppose que Les conditions initiales de toutes les grandeurs sont nulles. représente lopérateur de Laplace X(p) représente la transformée de Laplace de x(t) notée par X(p) = C[x(t)] - @(p) représente la transformée de Laplace de @(t)  notée par Q(p) C[w(t)] Lasservissement   de position du moteur   dentrainement du testeur  est décrit par   le schéma fonctionnel suivant
+Correcteur Moteur {(p) U(p) C(p) Ga(p)
+Oréf L (p)
+@(p)
+8 (p
+p
+Figure C.2 Schéma fonctionnel   de l'asservissement de position du moteur à courant continu.
+Les   réponses indiciellcs  de i(t) et de W(t) pour une entrée u(t) = 0,01 V sont  données respectivcment par les figures C.3 et C.4.
+Concours nationaux dentrée aux 'cycles dc formation dingénieurs
+Session 20ll
+Page - 7 -
 
+--- page 10 ---
+STI _MPgPC
+Dossicr Présentation Donnécsct Hxpothcscs
+0.2
+0.18
+0.16
+0.14
+0.12 6 0.1 s 0.08 0.06
+0.04
+0.02
+0.2 0.4 0.6 0.8 1.2 1.4 1.6 1.8 t (sec)
+163
+Figure C.3 : Réponse indicielle i(t) du moteur à courant continu pour u(t) = 0,01V. (@M(t) = Cr(t) = 0)
+0.09 0.081 0.08
+(1.07
+0.06 0.051 1 0.05 5 0.04 ! 0.(3 0.02
+0.01
+0.005 004
+0.01
+0.015 t (sec)
+0.02
+0.025
+0.03
+Figure C.4 Réponse indicielle w(t) du moteur à courant continu pour u(t) = 0,01V.
+Concours nationaux dentréc aux cycles de formation dingénieurs
+Session 20lI
+Page - 8 -

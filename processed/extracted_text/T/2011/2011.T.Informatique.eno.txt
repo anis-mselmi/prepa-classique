@@ -1,3 +1,48 @@
+--- page 1 ---
+1i>j) @2/6 æ1 Ukjxlbzlis ULsp Jsi abjl 2lhliji Mhhi Lsj>H 20/16)>
+REPUBLIQUE 'TUNISIENNE Ministerc de FEnscigncment Supéricur ct de la Recherche Scientitique
+Concours Nationaux d'Entrée aux Cycles de Formation d'Ingénieurs Session 2011
+Concours Toutes Options Epreuve dInformatique
+Date Mardi 14 Juin 2011
+Heure 15 H
+Durée 2 H
+Nbre pages
+Barème EXERCICE 1 : 4,5 = 0,5 points par question EXERCICE 2 5,5 = 1,25 + 1,5 + 0,75 + 2 EXERCICE 3 4,5 = 0,5 + 1,5 + 1 + 1,5 EXERCICE 4 : 5,5 = 0,5 + 1 + 0,5 + 0,5 + 1,5 + 1,5
+DOCUMENTS NON AUTORISES
+L'USAGE DES CALCULATRICES EST INTERDIT
+EXERCICE 1 Soit f la fonction définie par
+WsTItUT PREPAR FToire , CIBUOTHEQUB ETudes  D'iGENIFEUSS S1 f :(a,r) F> (x? ax)ex avec u paramètre réel
+Donner les commandes MAPLE permettant de
+définir la fonction f 2 déterminer un développement limité de f(a.x) pour x = +0 à l'ordre 3 calculer les limites à gauche et à droite de f(a,x) en 0 définir de deux manières différentes df la fonction dérivée de f par rapport à x 0 5. trouver les racines de f (a,x) ôx 6. représenter sur le même graphe les fonctions   f (k,x) pour k entier variant de à 5 ct x e [-5,5] en limitant les ordonnées dans I'intervalle [~10,10] 7 . calculer dans  al la valeur dc a solution de l'équation f(a,x) =0 ôa tracer la courbe représentative de f (2,x) pour x e[-10,10] en limitant les ordonnées dans Fintervalle [-10,10] 0 donner le résultat simplifié de f(2x) dx
+EXERCICE 2 Les parties A, B, C et D sont indépendantes A. Soit P le polynôme en X; défini par P =(X -1) ( x?_ +1) .
+Concours Toutes oplions Scssion Juin 20/1
+Eprcuvc d'Informatiquc
+Page 1/4
 
+--- page 2 ---
+Donner les commandes MAPLE permettant de A.l définir P A.2 déterminer le degré de P A.3 donner la forme développée et ordonnée selon les puissances décroissantes de P A.4 générer la séquence des coefficients de P ordonnés selon les puissances décroissantes en X, sachant que la commande coeffs ne génère pas la séquence ordonnée A.5 déterminer le quotient Q et le reste R de la division euclidienne de P par ax' +b . B Soit la famille des polynômes X* avec n variant entre 3 et 50. k=0 Donner les   instructions MAPLE qui déterminent;, dans un tableau Td les   degrés des polynômes divisibles par 1+ X + X?_
+C.1
+Définir la fonction R, qui à un entier n, associe le polynôme  Q=[I(x* +1) . K= C.2 Pour n = 50 , donner le coefficient du terme du plus haut degré de Q. D. Soit P un polynôme en X. Pour qu'un réel a soit une racine multiple dordre kde P; il faut et il suffit de vérifier les relations P'(a) = P"(a) = P(k-I) (a) =0 et p(k) (a) # 0 Ecrire une procédure MAPLE nommé MULTIPLICITE; ayant comme paramètres un polynôme P en Fetuiréel a, retourne lordre de multiplicité de a selon le principe décrit ci-dessus si a est une racine et retourne 0 sinon.
+EXERCICE 3 Le but de l'exercice est de déterminer la note dun devoir multi-questions à choix unique (VRAI ou FAUX) dun candidat. Les questions sont stockées dans un tableau Ques de chaîne de caractères. Les réponses correctes à ces questions sont stockées dans un tableau Correct de type booléen Les réponses du candidat aux questions auxquelles il désire répondre (0 pour FAUX et 1 pour VRAI) seront saisies puis validées dans un tableau Rep initialement initialisé à la valeur -1_ Cette dernière représente une réponse non encore saisie ou une réponse saisie mais non validée. On suppose dans la suite que les tableaux Ques et Correct sont préalablement saisis le nombre de questions k ne dépasse pas une valeur NMAX=I00 les tableaux Ques, Correct et Rep sont respectivement de type TABQ, TABC et TABR définis comme suit CONSTANTE NMAX=10o TYPE TABQ tableau [1.NMAX] de chaîne TABC tableau [1_ NMAX] de booléen TABR tableau [1 NMAX] de entier Travail demapdé : Ecrire une procédure; nommée AFF_QUES, permettant dafficher dans Pordre, les questions de  Ques ainsi que les numéros correspondants 2 Ecrire une procédure, nommée REPONSES, qui permet au candidat de saisir le numéro de la question à laquelle il veut répondre répondre à la question par 0 ou 1 valider la réponse, par mise à jour de Rep, s'il le souhaite
+Concours Toutes options Session Juin 2011
+Eprcuve d'Informatique
+Page 2/4
 
+--- page 3 ---
+Dans le cas où le candidat souhaite répondre à une autre question; il saisit "0" pour OUI > et "N pour < NON ) comme réponse au message affiché < voulez-vous répondre à une autre question ? > NB Faites les contrôles nécessaires_ Le candidat peut ne pas répondre à toutes les questions. Le candidat ne peut plus modifier une réponse déjà validée 3 . Ecrire une fonction; nommée TOTAL qui à partir des tableaux Rep et Correct retourne le total des points correspondant aux réponses. Les points par réponse sont attribués comme suit pour pas de réponse. 2 pour une réponse correcte. 41 pour une réponse incorrecte. Exemple :
+Correct
+VRAI VRAI FAUX FAUX VRAI FAUX
+Le total des points est 2 +0 +0 +2 + (-1) + 2 =5 Ecrire un algorithme nommé INTERROGATION permettant de saisir un entier N compris entre 2 et NMAX correspondant au nombre de questions initialiser le tableau Rep à (-1) ; afficher les N questions du tableau QUES mettre à jour le tableau Rep par les réponses validées calculer la note sur 20 du candidat. La note est égale 0 si le total des points est négatif ou nul et est calculée sur 20 si le total des points est positif ; afficher le résultat trouvé
+EXERCICE 4 On désire informatiser en partie un championnat de foot comportant N équipes numérotées de 1 à N A la fin du championnat on enregistre, dans une matrice carrée R dordre N, les résultats des matchs aller et retour joués entre les différentes équipes tel que R,, =1 Si l'équipe i a gagné le match contre léquipe j. fi < j représente un match aller R,, = 2 Si léquipe j a gagné le match contre l'équipe i. avec li > j représente un match retour R,, = 0 Si match nul. R, = -1 Valeur non significative. Exemple Résultats des matchs aller et retour pour 6 équipes à la fin du championnat.
+0 0 2 2 0 2 3 0 ; 4 2 4 4 9 2 5 6 0 4 1 2 Concours Toutcs options Scssion Juin 2011
+Lesceses Briscs représentent 15 résultats des matchs 'aller de 1équa
+Eprcuve dInformatiquc
+Pagc 3/4
+Rep
 
+--- page 4 ---
+Léquipe 2 a gagné le match aller contre léquipe 3 car Rz,3 =let perdu le match retour contre ['équipe 3 car R;,2 =1 _ Léquipe 6 a gagné le match aller contre l'équipe 2 car Rz,6 = 2 et a fait match retour nul contre léquipe 2 car R6,2 = 0 Les buts marqués et les buts encaissés par chaque équipe à la fin du championnat sont stockés dans une matrice B à Nlignes et 2 colonnes tel que B, Buts marqués par léquipe i. B Buts encaissés par léquipe i. Une équipe obtient 3 points pour chaque match gagné, point pour chaque match perdu et point pour chaque match nul. Ies m équipes ayant obtenu le maximum de points; seront référencées dans une matrice CH à m lignes et 2 colonnes ( 1<m< N m à déterminer) Une ligne i de CH est définie comme suit CH Numéro de léquipe ayant le maximum de points. CH, Ecart entre les buts marqués et les buts encaissés par léquipe numéro CH,, Travail demandé Dans la suite on suppose avoir défini les types suivants CONSTANTE N= 20 TYPE MATR tableau [1.N 1M] de entier MATB = tableau [L.N 1.2] de entier TABP tableau [1.N] de entier R est une matrice carrée dordre N représentant les résultats des matchs aller et retour des N équipes. B est une matrice à N lignes et 2 colonnes représentant les buts marqués et les buts encaissés par les N équipes. Ecrire une procédure nommée Saisie_R; permettant la saisie des résultats des matchs aller et retour dans R 2 Ecrire une fonction nommée Nb_PTS_AR qui, à partir de R; dun numéro déquipe k et dun paramètre booléen AR, calcule et retourne  comme résultat le nombre de points cumulés par cette équipe dans la phase aller si AR VRAI et dans la phase retour du championnat si AR = FAUX 3 Ecrire une procédure nommée TABL_PTS qui à partir de R, calcule dans un tableau T, le total des points de chacune des Néquipes. Ecrire une procédure nommée Saisie_B, permettant de saisir dans B les buts marqués et les buts encaissés par les N équipes. 5 Ecrire une procédure nommée CHAMPIONS qui, à partir de R, Tet B, renvoie comme paramètres m et CH. 6 Ecrire une procédure nommée AFF_CHAMPIONS qui affiche les résultats relatifs à la (ou aux) équipe(s) ayant le maximum de points conformément au modèle suivant Numéro total total total écarts entre nombre Equipe points points points buts marqués de buts aller retour et buts encaissés marqués
+')l
+Concours Toutes options Session Juin 2011
+Epreuve dInforatique
+Pagc 4/4

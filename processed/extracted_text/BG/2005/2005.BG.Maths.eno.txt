@@ -1,2 +1,34 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministèrc de 1'Euscigncment Supéricur
+1;84)4i1sad) Wkylosis Uium&,Ei unmit iusjlyu 200s i19
+Concours nationaux d'entrée aux cycles de formation d'ingenieurs Session 2005
+Concours en Biologie et Géologie Epreuve de Mathématiques
+Durée: 3 heures Datea0 Juin 2005 Heure: 8E Nbre de pages : 3 Barème: Ex 1 :4.5 pts ; Ex 2 :6.5 pts ; Ex 3 :9 pts
+Lusage des calculatrices est strictement interdit. Une grande importance sera attachée à la rigueur du raisonnement; à la clarté de la rédaction et au soin de la présentation. Il est rappelé que tout résultat énoncé dans le sujet peut être utilisé pour traiter la suite, même s'il n'a pu être démontré.
+Exercice 1.
++0 1. Montrer que Log(l +x) = 244 n x", pourx e]-] J[ 7"1 (~1)"-'r"2 2. On considère la série entière n(n + D)(n+2) - #21 Mastitu7 Montrer que son rayon de convergence vaut 1. Giquorkegue ' 6) Est-elle convergente pour |rl = 1 ? 9 '8u8cf  {x$ (I"1 'xn+2 #ûuWUfs 3. On pose pour x €]-1 , I[ , S(r) = 2 771 n(n + D)(n+2) ~ a) Vérifier que 2n ~ + n(n + D(n+2) n+T 2(n + 2) (x+1)2 b) En déduire que pour x e]-1 I[ , S(x) = 2 -Log(+1) - é - 3 4.  Donner les valeurs des sommes suivantes (-I)"-I (I"-1 et 2 n(n+ I)(n+ 2)2" n(n+ 1)2" n(n +T)(n+2) = n > #= | 1= Exercice 2. On considère /espace vectoriel R' et f [endomorphisme de R? tel que sa matrice dans la base canonique B = (e e2 e3) soit
+A =
+42
+2
+2
+4
+1 a) Déterminer les valeurs propres de A. b) La matrice A est-elle diagonalisable?
 
+--- page 2 ---
+2. Déterminer les sous espaces propres de A. (On classera les valeurs propres par ordre croissant 11 < 12 < ^3 et on choisira la dernière composante égale à 1 pour les vecteurs propres associés). 3. a) Déterminer une matrice inversible P telle que 21 1 = PDP-' où D = 0 22 2, b) Calculer P-' . 4 0) Montrer que pour tout n € N,A" = PD"P-' b) Calculer A" pour n € N. c)Déterminer les suites réelles Xn ,Yn Zn qui vérifient les relations suivantes:
+Xntl =Xn - Yn + Zn Y#tI = ~2xn +Yn + 2zn et Zn+l = ~2xn ~Yn + Azn
+Xo
+Yo
+Z0
+5. a) Soit Mune matrice carrée réelle d'ordre 3 et N = P-1 MP . Montrer que AM = MA ? DN = ND. 6) Déterminer les matrices N telles que DN = ND_ c) En déduire les matrices Mtelles que AM = MA.
+Exercice 3. Soit (2A,P) un espace probabilisé .Dans la suite, les variables aléatoires sont définies sur Q et elles sont à valeurs réelles On ' rappelle que si Uet Vsont deux variables aléatoires indépendantes de densités respectives u et v , alors U+Vest une variable aléatoire de densité: +0 w(x) = 1 u(t)v(x ~ t)d,x € R. ~0
+Jexp(-Ax) six > 0 On pose pour 1 > 0 ,fs(x) = six < 0 1. a) Vérifier que fa est une densité de probabilité sur R b) Soit Xune variable aléatoire de densité de probabilité fz.Déterminer la fonction de répartition F(-x) de la variable aléatoire (~X) et en déduire sa densité de probabilité. 2. Soient Xet Ydeux variables aléatoires indépendantes de même densité de probabilité fa. 0) Montrer que la variable aléatoire X - Yadmet pour densité de probabilité la fonction h(r) = exp(-Jfxl) x € R b) Calculer pour t € R, P( | X-Y | < t) et en déduire que la variable aléatoire X-Y| admet pour densité de probabilité la fonction f .
+Trois personnes A _ B C se rendent à la poste au même instant pour téléphoner. Il n'ya que deux cabines que occupent immédiatement A et B et C attend On suppose que les durées de communication téléphonique de chacune, notées XA XB , Xc sont des variables aléatoires indépendantes de même densité de probabilité f1.
+2
 
+--- page 3 ---
+3.
+Vérifier que C sort le dernier de la poste si et seulement si l'événement XA - XB < Xc) est réalisé . b) Montrer (sans calcul que la variable aléatoire XA - XB ~Xc admet   la fonction h pour densité de probabilité. En déduire la probabilité pour que C sorte le dernier, Soient Z et T deux variables aléatoires indépendantes,de densités respectives fa et ff avec a > 0 , B > 0 et a # B. 4 Montrer que la variable aléatoire Z + Tsuit la loi de densité aB [exp(-ax) exp(-Bx) ] , six > 0 g(x) = P - a 0 , six < 0
+5. Soit M = min(XA XB) et t e R a) Vérifier que (M 2 t) = (Xa 2 t)n (XB 2 t) b) Calculer P(M 2 t) et en déduire la densité de probabilité de la variable aléatoire M. 6. Soit Tc la variable aléatoire égale au temps total passé par C à la poste. a) Montrer que Tc suit la loi de densité 2[exp(-Ar) exp(-21x) ] six > 0 @(x) 0 six < 0 b) Calculer E( (Tc)") pour n e Net en déduire lespérance E (Tc) et la variance V (Tc) de Ja variable aléatoire Tc +0 (On donne: J0 t"e-'dt = n! ,n € N)
+4444444444444444444444444444444444444444
+3

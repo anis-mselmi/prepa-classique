@@ -1,12 +1,137 @@
+--- page 1 ---
+Instructions Cette épreuve comporte 13 pages + 3 pages vides: Tout résultat doit être écrit dans les cadres adéquats: L'usage des calculatrices électroniques de poche non programmables est autorisé. Aucun échange entre les candidats n'est autorisé. Tout calcul doit être précédé dune expression littérale Les résultats numériques sans unité ou avec une unité fausse ne seront pas comptabilisés: En cas de besoin utiliser les pages vides en fin de cahier. Dans ce cas, il faut le signaler dans la case allouée à la réponse remise en fin de cahier. Si au cours de lépreuve, un candidat repère ce qui lui semble être une erreur d'énoncé, il la signale sur sa copie et poursuit sa 'composition en indiquant les raisons des initiatives qu'il est amené à prendre.
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 16 PAGES, NUMEROTÉES 1 sur 16,2 sur 16, 029 16 sur 16.
+Concours Mathematiqucs et physique
+Dans cette épreuve on traite les chapitres suivants L Tablear periodique ~cohedon cristalllne~corPe pur
+1Critlocrephk
+IL Dtacramne d'equilibre solide-Hquide d'un ndlange binaire IV.Ékctrochhake
+Page 1 sur 16
+Concours Mathématiques et Physique Session MailJuin 2017
+
+--- page 2 ---
+Notations et données numériques Les gaz sont supposés parfaits. Les mélanges liquides sont supposés idéaux. Notations Les abréviations suivantes sont utilisées pour désigner l'état physique des constituants (g) pour gazeux, (sd) pour solide; (liq) pour liquide et (aq) pour aqueux. Xi la fraction molaire de < i > dans la phase liquide. Yi la fraction molaire de < i v en phase vapeur. Lexposant * signifie corps pur. Constantes physiques  Constante des gaz parfaits R = 8,314 JK-L mol  Constante de Faraday F 96500 C.moll Constante d'Avogadro NA 6,02*1023 moll (RxT)IF x Ln(l0) 0,06 V à 298 K Pression standard p =lbar . Données numériques Masses molaire (g.mol-') Cérium (Ce) = 140,12 Rubidium (Rb) = 85,47 Brome (Br) 80,00 Cuivre (Cu) =.63,55. Le numéro atomique Z : Cérium 58 Brome = 35 Krypton 36 Rubidium 37 Sodium 11 Rayons ioniques (pm) Br :196 et Cut 50. Potentiel standard redox à 298K et à pH =0 : Ce3+ICe(d) 42,34 V; Ce(OH)3(sdyCe(sd) -1,94 V; Ht) '[Hz(g) =0,00 V 298K,
+H Br &,liq 0,vap HB, =-3010J mol-' S0Jiq Brz) =152,2J.K -' mol ' So,vap Br,) = 245,5 J K ' mol ' Produit de solubilité de (Ce(OH)3(sd)) Ks = 1,99*10-22 Produit ionique de l'eau Ke 10-14 Conversions 1 bar =105 Pa 1 pm 1012 m T(K) = O(PC) + 273 Page 2 sur 16
+UUnlU
+GrrcolrfMathæ3ticyffyst Rh cisoSqçfion JArihr 9017
+
+--- page 3 ---
+TABLEAU PÉRIODIQUE ~COHÉSION CRISTALLINE ~CORPS PUR 1) Donner les structures électroniques de latome de brome 3sBr dans son état fondamental et de Pion bromure Br
+2)Àquelle famille du tableau périodique des éléments chimiques appartient Tatome de brome? Justifier la réponse:
+3 Quel est Tion alcalin isoélectronique de l'ion bromure ?
+4) Les points de fusion des trois cristaux de dibrome Brz, du rubidium Rb, et du bromure de rubidium RbBr sont rassemblés dans le tableau ci-dessous. 4-a) Indiquer pour chacun de ces trois cristaux la nature des forces dominantes qui assurent la cohésion du cristal et préciser le type de chacun de ces cristaux; Cristal Brz Rb RbBr 0ûs ('C) ~7,20 39,30 694,00
+La cohésion du cristal est assurée par
+Le cristal est du type 4b) Comment justifier 1a grande différence des valeurs de points de fusion entre Brz et RbBr ?
+Page 3 sur 16
+Concours Mathématiques et Physique - Session MailJuin 2017
+
+--- page 4 ---
+5) Le dibrome pur  On suppose que le dibrome est en équilibre sous ses phases liquide et vapeur à 298 K la phase vapeur se comporte comme un gaz parfait. 5-a) Déterminer à 298K, la pression de vapeur saturante du dibrome; en supposant que Tinfluence de la pression sur le potentiel chimique du dibrome liquide est négligeable.
+ 
+5-b)Sous quel état standard de_référence se_trouve le dibrome à 298 K 2 1 s  
+5-c) Déterminer 1a température débullition standard du dibrome, en supposant que les entropies molaires de changement d'état sont indépendantes de_la température o
 
 
+Page sur 16
+Concours Mathématiques et Physique Session MailJuin 2017
 
+--- page 5 ---
+1l. Cristallographie Le bromure cuivreux CuBr cristallise dans une structure du type ZnS(blende). 1) Donner une description de la maille de CuBr.
+2) Quel est le mode de ce réseau ?
+3) Donner l'expression puis calculer 3-a) le paramètre "a" de la maille; sachant que les anions sont tangents aux cations:
+3-b) la masse volumique de ce cristal.
+4) Quelle condition doit satisfaire le rapport des rayons du cation et de lanion pour qu'un cristal ionique du type MX adopte une structure de type ZnS(blende) ? Cette condition est-elle vérifiée_pour CuBr 2
+Pàg( 5 sur 16
+Concours Mathématiques et Physique Session Mai/Juin 2017
 
+--- page 6 ---
+5) On suppose que les positions des ions Cu* et des ions Br sont occupées exclusivement par des atomes de carbone. Quelle est la structure obtenue ?  : `
+5-a) Dessiner la projection cotée de cette maille et de son contenu sur le plan de base (:,5).
+1  9
 
+5-b) Donner lexpression puis calculer sa compacité.
+s
 
+Pâgê 6 sur 16
+Concours Mathématiques et Physique Session MailJuin 2017
 
+--- page 7 ---
+Ill. diagramme d'équilibre solide-liquide RbBr-CeBra La figure ci-dessous représente le diagramme déquilibre solide-liquide du système RbBr-CeBr;. 1050 1050 Ibar 1po4~ 1000 1000 967
+950
+950
+€ 900 1 858F 850
+900
+850
+UEE
+8IlE
+800
+800
+750
+750
+700
+700
+0,1
+0.205 0 983 0,4 0.5 0.6 0.660.7 fraction molaire en CeBr;
+0.8
+0.9
+1)  Déterminer   la   formule   chimique de chacun des composés   définis   présents   dans  le diagramme
+  
+Page 7 sur 16
+Concours Mathématiques et Physique Session MailJuin 2017
 
+--- page 8 ---
+2) Indiquer la nature de la fusion de chacun des composés définis:
+3 Quelles_sont es_phases _présentes_dans les_domaines @@Iet (n ? Domaine (1)
+Domaine (I)
+Domaine (II) 4) Écrire les équations des équilibres invariants à 858 K et à 811 K en précisant la nature de la transformation.
+5) On part dun mélange liquide contenant 79,0 g de RbBr et 20,2 g de CeBr;. On refroidit ce mélange de 1000 K jusqu'à la température 800 K. 5-a) Placer le_point représentatif MI du mélange initial sur le diagramme: 
+5-b) Représenter sur le diagramme les chemins suivis par les points représentatifs des phases  liquide et solide(s) au cours de ce refroidissement.  (Utiliser deux couleurs différentes) répondre sur le diagramme
+Page 8 sur 16
+Concours Mathématiques et Physique Session MailJuin 2017
 
+--- page 9 ---
+5-c) Donner lallure de la courbe danalyse thermique de refroidissement (de 1000 K jusqu'à 800 K) relative à ce mélange:
+5-d) Calculer la quantité de matière en mol des différents composés dans chaque phase à la température 800 K.
+Page 9 sur 16
+Concours Mathématiques et Physique Session MailJuin 2017
 
+--- page 10 ---
+6-a) Comment peut-on procéder pour obtenir du CeBr; solide pur à 750 K, à partir du mélange solide de composition XceBr3 0,8 ?
+6-b) À quelle température doit-on procéder pour obtenir la quantité de matière maximale de CeBr; solide pur ? Justifier la réponse.
+IV- Électrochimie L'hydroxyde de cérium Ce(OH)3(sd) est très peu soluble dans l'eau. 1) Calculer la concentration des ions Ce3+ dans une solution saturée en Ce(OH)3(sd) à 298 K.
+2) Donner lexpression du pH de la solution saturée en Ce(OH)3(sd) et calculer sa valeur.
+Page 10 sur 16
+Concours Mathématiques et Physique Session MailJuin 2017
 
+--- page 11 ---
+3) Peut-on préparer une solution de concentration 10-3 molL-' en Ce3+ àpH= 4?
+4) Représenter sur un axe de pH; Te domaine de précipitation des ions Ces+ de concentration 10-3 molL-1 en Ce(OH)3(sd) .
+g
+Page 11 sur 16
+Concours Mathématiques et Physique Session MailJuin 2017
 
+--- page 12 ---
+5) Diagramme E-pH du cérium 5-a) Donner les expressions numériques  des potentiels redox relatifs aux couples Ces+ICe(a) et Ce(OH)3(dyCe(d), dans le cas où la concentration molaire en Ce3+ est égale à 10-3 molL-l
+5-6) Tracer le diagramme potentiel-pH (E-pH) du cérium pour la concentration de tracé Ctra 103 molL-' .
+1,50
+1,00
+0,50
+0,00
+~0,50 5 ~1,00
+~1,50
+-2,00
+~2,50
+3,00
+2 3
+10 11 12   13 14 pH
+Pâgé 12 sur 16
+Concours Mathématiques et Physique - Session MailJuin 2017
+
+--- page 13 ---
+5-c) Indiquer sur le diagramme les formes prédominantes dans les différents domaines. répondre sur le diagramme. On se propose d'étudier T'action de T'acide chlorhydrique sur le cérium selon la réaction
+4
+2Ce(sd) 6H* =2Ce} +3H2(g)
+Considérons un système constitué d'une plaque de cérium trempant dans une solution d'acide chlorhydrique. 6-a) Donner l'expression puis calculer la valeur de l'affinité chimique du système quand pH 5, [Ce3+] 10-3 molL-' et la pression partielle de H2 (pHz Ibar)
+6-b) Conclure
+FIN DE LÉPREUVE
+Page 13 sur 16
+Concours Mathématiques et Physique Session MailJuin 2017

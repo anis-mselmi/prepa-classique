@@ -1,3 +1,62 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère dc l'Enscignement Superieur
+15 94)X2é j1 BkkMsbs Uybji 2Ueliji Shnil ilsjlj 2005 i~
+Concours nationaux d'entréc aux cyces de formation d'ingénieurs Session 2005
+Concours Biologie et Géologie Epreuve de Physique
+Date : Lundi 13 Juin 2005
+Heure : 8 H
+Durée : 3 H
+Nb pages :4
+Barème :
+Problème 1 : 13/20
+Problème 2 : 7/20
+L 'usage due calculatrice non programmable est autorisé
+L'épreuve comporte deux problèmes constitués par des parties indépendantes entre elles. Les candidats   peuvent   les résoudre dans   l'ordre qui leur   convient en  respectant   néanmoins la numérotation des questions. Problème 1 Astirut PrLfAAA) On donne pour a petit : tga~ @ CHBLOTHEQWUE 8 6 sin p - sin q = 2sinP-9 'cosP+9 etuDes ! 2 SFax @ingiwneues 2 sin?a = 1 cos2a
+L'espace est rapporté à un trièdre orthonormé direct (Oxyz) de vecteurs unitaires 7,j,k
+Une corde homogène inextensible de masse linéique | est tendue entre deux points 0 et A L'extrémité 0 de cette corde est liée à une lame métallique vibrante animée dun mouvement sinusoïdal d'équation y(O,t) = 2.10 2 sin( 1OOnt), Y est exprimée en mète. L'autre extrémité de la corde est accrochée à une masse m à travers une poulie à axe fixe. Ainsi une onde mécanique se propage le long de la partie OA = L = 1 m de la corde à la vitesse v = 25 mls (figurel).
+électroaimant
+tensiond la cord 
+corde
+lame vbrante
+M(x0
+poulie
+maesa F=mg
+Figure !
+Concours Blologic et Géologle Scssion Juin 2005
+Eprcuve de Physique
+Pnu V/4
 
+--- page 2 ---
+I- Préliminaire
+Dans cette partie; on ne tient pas compte des ondes réfléchies au_ point A 19) Donner la définition d'une onde progressive. 29) Donner lamplitude  a de la vibration et la fréquence f de la lame vibrante. 39) Donner ['élongation y(x,t) de la vibration en un point Mde la corde dabscisse x. 49) Déterminer la longueur d'onde 1 associée à l'onde mécanique. 5%) Calculer les valeurs maximales Vm de la vitesse et Ym de laccélération de la vibration transversale de la corde.
+II- Equation du mouvement
+Vinstant t les extrémités d'un élément de la corde de longueur curviligne ds et situé entre les abscisses x et x + dx sont soumises aux tensions Î(xt) et 7 (x+dx,t) respectivement   Ces tensions sont tangentes à la corde et font avec l'axe Ox les angles faibles O(x,t) au point extrémité de coordonnées (xy(xt)) et 0(x+dx,t) au point   de coordonnées   (xtdx;y(x+dx,t)), ce qui impose F 'approximation |@ <<] le long de la corde vibrante (figure 2) On néglige le poids de la corde.
+y(x;t)
+y(x+dxt)
+@(xtdx,t)
+ds
+y(xt) [O(xt)
+Figure 2
+X
+X+dx
+Dans lhypothèse des petits mouvements transversaux; la longueur de lélément de la corde reste pratiquement inchangée ds ~ dx 19) En considérant une portion ds de la corde, écrire la rlation fondamentale de la dynamique appliquée à cct élément: 2%) Projeter cette relation sur les axes Ox et Oy, puis montrer que la pomme de la tension est une constante c'est à dire T(xt) = T(xtdx,t) =F 39) Etablir l'équation différentielle régissant la propagation le long de la corde d'un ébranlcment transversal] de faible amplitude. En déduire la vitesse de propagation de l'onde en fonction de F et de H 49) Donner une solution générale de cette équation différentielle. 59) On donne p = 2,Sgm calculer F.
+Concours Biologic et Géologic Session Jpin 2005
+Epreuve de Pbysique
+Page 24
 
+--- page 3 ---
+III- Ondes stationnaires
+Dans cette partie on étudie la superposition dune onde incidente et dune onde réfléchie en un point M de la corde. 19) Donner ['élongation y (A,t) associée à l'onde incidente au point A 29) Déterminer ]'élongation Yn(A,t) associée à londe réfléchie en A. 39) Exprimer yi(Mt) et yr(M,t) en un point Mdabscisse x par rapport à [origine 0 49) En déduire lélongation y(M,t)   associée à Ponde résultante au point M de la corde Caractériser cette onde. 59) Déterminer le nombre de nœuds et de ventres. Représenter l'allure de la corde. 60) a) Donner une condition sur la masse m pour observer un nombre entier de nœuds et de ventres. b) Calculer la masse m pour laquelle la corde présente trois nœuds et trois ventres. On prendra f=50 Hz et laccélération de la pesanteur g = 10 m.s? 70) Déterminer l'énergie cinétique Ec de toute la corde. Quelle est sa valeur maximale ?
+Problème 2
+On considère un système thermodynamique constitué d'un liquide dispersé (pulvérisé) en gouttelettes très fines. Il est décrit par des fonctions d'état dépendant de la température et de la surface libre des gouttelettes. Le volume du liquide est considéré comme indépendant de la température et de la pression. Lors dune transformation élémentaire réversible où la température T varie de dT et la surface A de la gouttelette varie de dA, le travail et ['échange thermique élémentaires s'écrivent SW = 0 dA ô Q =CdT +k dA étant la tension superficielle dépendant uniquement de la température. C et k étant à priori des fonctions de T et de A.
+I-19) Décrire ['expérience de Jurin permettant de mettre en évidence la tension superficielle 0. On pourra choisir lexemple de leau 20) a) Définir le coefficient C. b) Enoncer, SOuS forme diférentielle, le premier et le second   principe de Ja thermodynamique   relatifs  à l'évolution d'un système fermé. On notera U son éncrgie interne et S son entropie. c) Exprimer dU et dS en fonction des données du problème. 39) En utilisant le fait que U et S sont des fonctions d'état montrer la relation de Clapeyron k =-Tii En déduire que k ne dépend pas de A. 49) Calculer le travail W et Péchange   thermique Q mis en jeu lorsqu'on fait passer réversiblement la surface de A à Az à une température constante. 59) L'expression de la tension superficielle est donnée par : 0 = @ (Tc -T)" oùa et n sont ds constantes et Tc la température critique Pour /eau on donne n = 1,2 a = 6,2.10*$ SI. ; Tc = 647 K et la masse volumique P = 10' Kg.m a) Définir la température critique Tc. b) Calculer 0 puis k à la température T = 274 K.
+Concours Biologie et Géologie Session Juin 2005
+Epreuve de Physique
+Page 3/4
 
+--- page 4 ---
+II- 1%) On pulvérise O,lKg d'eau initialement sous forme non dispersée, en gouttelettes sphériques de brouillard de rayon [ = 5 ]m à la température T = 274 K. On rappelle que la surface dune sphère de rayon r est 4nK? et que son volume est 4 TrJ 3 a) Déterminer le nombre de gouttelettes dans 0,1 Kg deau b) En déduire la surface totale Az des gouttelettes en suspension: c) Sachant qu'à /'état initial où /eau est non dispersée (Ai ~ 0) et qu'à l'état final, le liquide se trouve sous forme complètement dispersée (gouttelettes en suspension), calculer le travail et le transfert thermique mis en jeu 29) On considère une gouttelette sphérique a) Donner la définition de la pression capillaire. b) Montrer en exprimant de deux manières différentes le travail élémentaire SW, que la pression intérieure Pi et la pression extérieure P: de la gouttelette vérifient la relation de Laplace: Pi ~Pe = = 20 I Calculer cette surpression pour une gouttelette de rayon 1 = 5 um à T= 274 K
+FIN DE L'EPREUVE
+Concours Biolgic et Géobgic- Session Juin 2005
+Eprcuve dc Pbysiquc
+Page 44

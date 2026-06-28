@@ -1,5 +1,95 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère dc ['Enseigncment Supéricur; de la Recherche Scientifique et de la Technologie
+Concours nationaur d'Entrée aux Cycles de Formation d'Ingénieurs Session: Juin 2003 Onsthui / prepara  2 bielotheque | Concours en Technologie Epreuve de Physique 3 Coungerieuss
+Date lundi 9 Juin 2003
+Heure : 8 H
+durée
+Heures
+Nb pages 6
+Barême
+Problème 1 :12/20-
+Problème 2 : 8/20
+'L'usage d'une calculatrice non programmable est autorisé Si au cours de lépreive, un candidat repère ce qui lui semble être une erreur dénoncé, il le signale sur sa copie et poursuit sa composition en indiquant les raisons des initiatives qu'il est amené à prendre. PROBLEME I
+Données utiles Charge élémentaire Masse dun électron
+e = 1,6 10-19 C m=9,1 1o-"Kg 1 Permittivité du vide €o = 10-9 Fm 36r Perméabilité du vide Ho = 41 10-7 Hm ! Conductivité statique du cuivre Yo = 5,88 107 9 'm-! Clérté de Ia lumière dans le vide c =3 108 ms Opérateur laplacien en coordonnées cylindriques (r,0, z) d'un champ scalaire f : Af = 1 {r @ + 4@ #f ôr 082- @z?
+L'epproche classique permettant d'expliquer le phénomène de conduction dans un métal, consiste à ccrsidérer que les électrons libres (de densité volumique n; de charge -e et de masse m sont des particules qui obéissent aux lois de la mécanique classique. Les interaetions de ces électrons avec le réseau métallique sontmodélisées par une force de frottement visqueux de densité volumique ] n m où T est une constante positive et v(t)est la vitesse Vol associée au mouvement d'ensemble des  électrons sous ]effet d'un champ électrique Le poids des 'électrons est négligeable devant les   forces électrique et  magnétique qui lui   sont appliquées:
+PARTIEA Modèle semi-macroscopique de la conductivité statique On considèze un métal soumis à un champ électrique permanent et uniforme E, 1- Préciser F'unité de r dans le système intemnational. Quel est son sens physique ? 2 - 2-a- Ecrire la relation fondamentale de la dynamique pour lunité de volume du conducteur .
+Concours en Technologic scssion Juin 2003
+'preuve de physique
+Page 1/ 6
 
+--- page 2 ---
+2-b- Montrer que lorsqu'on ne tient pas compte de la force de frottement on trouve un résu contradiction avec ['expérience. 3- 3-a- Expliquer pourquoi la vitesse initiale densemble v(t =0) est nulle. Déterminer l'expression de la vitesse v (t) en fonction de e, m,5 ret Eo 3-b- Représenter graphiquement v(t) , module de v (t), en fonction du temps t _ 3-c-En déduire   l'existence, en régime peranent dune vitesse limite s'écrivant souS la fone 7 (t) = HEo où p est une constante, appèlée mobilité. Exprimer H en fonction de e,t et m: Déterminer, en régime peranent, l'expression reliant le vecteur densité volumique de courant :Jo au champ électrique Eo 5-En déduire la conductivité statique Yo en fonction de n; m e et 6 - Application dans le cas du cuivre, on suppose qu'en moyenne ily a un électron libre par atome On donne masse molaire M 63,55 g-moFl masse   volumique Pv 8960 kgm et nonbre d'Avogadro Na 6,02.1023 mol ! Calculer n et z: Conclure concemant l'établissement du régime peranent.
+PARTIEB Résistance électrique Effet de Magnétorésistance
+On considère un conducteur cylindrique-creux, de rayons intérieur R, et extérieur Rz de hauteur h et de conductivité statique Yo (figurel-1). La face intérieure est portée au potentiel constant VJ et la face extérieure est portée au potentiel constant Vz.
+Rz Rz
+On note U = Vi-Vz > 0 la différence de potentiel et le courant qui circule du   cylindre intérieur vers le. cylindre extérieur en régime permanent. On néglige tout effet de bord (h >> Rz)
+7- Par des considérations de symétrie; montrer que le vecteur densité volumique de courant s'écrit en coordonnées cylindriques
+j=j(r)e, pour R1 < r < Rz . Exprimer j(r). En déduire Yexpression du champ électrique E à lintérieur du conducteur et celle de U. Déterminer alors   lexpression de la résistance: électrique R de ce conducteur.
+figure 1-1
+8- Rappeler l'expression de la puissance volumique dissipée par effet joule à l'intérieur du matériau: En  déduire   l'expression de la puissance   électrique   totale P dissipée par effet Joule dans ce conducteur. Retrouver ['expression de la résistance électrique R 9- Le conducteur cylindrique est soumis en plus de la tension U=V,-Vz > 0 à un champ magnétique uniforme et indépendant du temps Bo Bo < 9-a-Déteriner, en régime permanent; les deux composantes (jr , je ) du nouveau vecteur densité volumique de courant j en fonction de Yo Eo Bo et de la mobilité | 9-b-Comment sont modifiées les lignes de courant ? les représenter qualitativement. 9-c-Quelle est dans ce cas l'expression de la nouvelle résistance électrique notée Rs ?
+Concours en Technologie session Juin 2003
+épreuve de physique
+Page 2/ 6
 
+--- page 3 ---
+9-d- Calculer pour le cuivre la variation relative de la résistance R définie par Re_R Commenter le résultat: On donne Bo =1 Tesla. R
+PARIIE C: Conduction thermique Les surfaces intérieure et extérieure du conducteur cylindrique précédent; de masse volumique pv, de conductivité thermique 1 et de chaleur massique c, sont portées respectivement aux températures T, et Tz constantes (T, > Tz )
+10- Rappeler la loi de Fourier relâtivè à la conduction therique; en précisant ]unité de chaque grandeur utilisée. 1I- Par application du premier principe de la thermodynamique au volume élémentaire cylindrique de hauteur h et compris entre ret r + dr (Rp <r< Rz) établir l'équation dite <dela chaleur> . 12- En déduire ['expression de la températiré T(r) en régime permanent et tracer son profiL. 13 - Exprimer la puissance thermique Pt traversant un cylindre de hauteur h et de rayon r compris entre les rayons R1 et Rz du.conducteur. Définir la résistance thermique notée Ru et donner son expression en fonction de R,, Rz, 1 eth
+FARTIE D: Action dune onde électromagnétique sur un conducteur Lespace est rapporté au repère orthononmé (0, x, Y, z). Un conducteur (de constantes   électrique €0 et magnétique Ho), occupant le demi-espace z20 (figure 1-2), est éclairé sous incidence norale par une onde électromagnétique de pulsation @ et dont le champ électrique en notation complexe s'écrit:
+4 Eoi exp i(ot-K z) 5,, avec K= @/c, Eoi réel et i? =-1. Cette onde donne naissance Finterface vide- conducteur;, une onde réfléchie et une onde transnise de champs électriques respectifs
+Vide
+'conducteur réèi
+E;
+K
+E Ea exp i(ot+K z) €z
+E-Eo exp i(ot-K, z)5, _
+fgure 1- 2
+Les anplitudes Eoc ,Ea peuvent être complexes K; est le vecteur d'onde de Fonde transmise 14- 14-3- Caractériser l'onde incidente 14-b Montrer   que ]'action du  champ ` magnétique de londe incidente SUr les électrons  de conduction est négligeable devant celle du champ électrique 15- Par application de la relation fondamentale de la dynamique; montrer qu'€ en régime sinusoïdal Yo forcé, la conductivité complexe s'écrit 1 En déduire le domaine de fréquences pour I+iot lequel cette conductivité peut être prise égale à Yo.
+Dans_la suite du_problème on_prendra 2
+Yo -
+16- Ecrire les équations de Maxwell dans le conducteur métallique supposé localement neutre
+Concours en Technologie session Juin 2003
+épreuve de physique
+Page 3/ 6
 
+--- page 4 ---
+17- Définir l'approximation des régimes quasi stationnaires (ARQ:S.) Montrer que dans ce cas le vecteur densité volumique de courant ] est solution de l'équation différentielle @j 4j Yo Ho dt 18- En déduire la relation de dispersion K f(@) En justifiant qu'une seule solution est physiquement acceptable pour Kr , exprimer la solution retenue en fonction de 8 YYolo@ 19- Ecrire ['expression de sous la forme complexe J(zt) j(z) exp(imt) ex Exprimer alors l'amplitude j(z) et la phase$ de _(z). 20- Préciser [unité de & dans le système international.  Calculer sa valeur pour le cuivre, éclairé en lumière visible de pulsation @~ 101$ ràd s-' . Représenter l'allure de la courbe j(z). De quel effet s 'àgit-il ?
+Modèle du conducteun parfait On suppose maintenant que le conducteur occupant le demi espace (z 2 0) est parfait (figure 1-3) 21- Qu'appelle-t-on conducteur parfait ? 22- Ecrire les conditions aux limites vérifiées par les champs  résultants électrique = et magnétique 4 à linterface vide-conducteur parfait 23-En déduire les expressions des_champs électrique et magnétique Vlde 'corducteur de l'onde réfléchie Er et E Exprimer; en notation complexe; E pdrfab les champs électrique E-5+ E, et magnétique E=5+5 K de l'onde résultante ainsi que leurs expressions en notation réelle. Préciser la nature de cette onde. 24- Exprimer le vecteur de Poynting < et calculer   sa valeur moyenne < R>  Conclure fgure 1 3 25- Exprimer la densité surfacique de charge Gs et le vecteur densité de courant surfacique ]s qci apparaissent à la surface du conducteur. 26-L'onde électromagnétique exerce sur une surface ds du conducteur une force dF = 4 (os E Js^B ) ds 26-a- Proposer une explication de la présence du facteur dans ['expression de dF 2 26-6- En déduire que [onde exerce une pression de radiation P dont ondonnera la valeur moyenne <p> en fonction de la densité volumique moyenne d'énergie <eiz de londe incidente. 26 -c- Calculer <p> pour une onde incidente foumnie par un laser de puissance   moyenne <Pz =3 mW ët dont la section droite est 5 = 0,4 mm La comparer à la pression atmospherique. Comment peut-on visualiser au laboratoire l'effet de cette pression de radiation ? 27-On place en z = - U2 (1 = 2uK étant la longueur d'onde) un 2éme conducteur parfait. Sans faire de calcul-dire en le justifiant ce que constitue ['ensemble des deux conducteurs pour 27-a- une onde en incidence normale; 27-b- une ondc en incidence quelconque (i #0).
+Concours en Technologie session Juin 2003
+épreuve de physique
+Page 4/ 6
 
+--- page 5 ---
+PROBLEME 2
+Etude du phénomène de diffraction
+PARIIE A : Diffraction par un miroir
+Un miroir M est utilisé pour étudier la diffraction de la lumière. Pour cela, on considère un miroir plan rectangulaire, de centre 0, de largeur a et de longueur b ( figure 2- 1) €e miroïr est éclairé sous l'incidence i par un faisceau de lumièrê parallèle ncnochromatique-de longueur d'onde 1 On s'intéresse à la figure de ditraction à ['infini dans la direction 0 (figure 2-2). Or prendra  = 31 et b >> a Enoncer clairement le principe de Huygens-Fresnel . 2- Expliquer pourquoi il n'est pas nécessaire de tenir compte de la diffraction dans a direction oy 3- Par application du principe de Huygens-Fresnel, montrer que Tintensité diffractée dans la direction 8 s'écrit sin(ra 0 u) Ilu) = Io I a G U
+figure 2- 1
+M
+avec: Lo l'intensité maximale, G = In le nombre d'onde et u = sin 0 + sin i
+figure 2-2
+4- Représenter l'allure de la fonction I(u) en fonction de u tout en précisant les abscisses des minima nuis et des maxima secondaires. 5- Calculer le rapport ( I/ Io pour les deux premiers maxima secondaires. Commenter. 6- Afin d'observer la figure de diffraction par le miroir M, on réalise le montage de la figure 2-3:
+M
+45
+Lz
+E
+Z
+figure 2-3
+'M étant le miroir étudié précédemment de largeur a et de longueür b >> 2. L une lampe émettant une lumière monochromatique de iongueur d'onde 1. S lin trou percé dans un écran opaque et placé au foyer objetde la lentille convergente LI. (S, éclairé par L, constitue une source ponctuelle) E un écran placé au plan focal image d'une lentille convergente Lz de distance focale f Sp une lame semi-transparente, semi - réfléchissante, faisant un angle de 45* respectivement avec les axes de L: et Lz
+Concours en Technologie scssion Juin 2003
+épreuve de physiquc
+Page 5/ 6
 
+--- page 6 ---
+6-a- Décrire, avec précision; ce qu'on observe sur l'écran E placé-au plan focal image de la lentille convergente L2- Tracer la courbe d'intensité I(X); X désigne l'abscisse d'un point M de l'écran suivant l'axe OX 6-b- Quelles seront les modifications observées sur l'écran par ue translation de M de distance d suivant ox ? une rotation de Md'un angle %, supposé très faible, autour de oy ? Faire un schéma clair.
+PARTIE B Réseau par réflexion Un réseau   constitué par N miroirs ` plans identiques au miroir M parallèles, coplanaires et régulièrement espacés de la distance h appelée pas du réseau figure 2- 4)
+3
+k figure 2- 4
+N-1
+N
+Ce réseau est éclairé sous l'incidence i+0 dans le plan XZ par un faisceau de lumière  parallèle monochromatique de longueur d'onde 1 dans le vide 7 - Montrer, en le justifiant que l'intensité de londe lumineuse diffractée à linfini par le réseau dans la direction 0 est proportionnelle au produit F (@) Fz (p) , où @=aI4 et 9 =hzu 8- Que représente la fonction F1 ? tracer la coûrbe F1(u) 9- Que représente la fonction Fz ? tnacer la courbe Fz (u) o_prendra N = 6. Pour ce tracé conbien a-t-on de maxima secondaires entre deux maxima principaux ? Montrer que leur intensité est ` de Pordre N 10- Dans la pratique N est très grand (quelques milliers), tracer dans ce cas l'allure de la courbe de F'intensité lumineuse I(u). On prendra h =4. Il- Le réseau est maintenant éclairé par une lampe L à vapeur de cadmium qui émet une radiation rouge de longueur d'onde 1 634,8 nm. Soumise à un 'champ magnétique de 1 Tesla, cette lampe émet trois radiations de longueurs d'ondes 1 A+41 et 1-41 avec 41 = 1,93 10-2 nm ( efet Zeeman)  1l-a-Calculer pour ['ordre d'interférence P, la variation Au de u qui résulte de la variation 4/ de la longueur d'onde 2. 1l-b-En se basant sur le critère de Rayleigh, exprimer le pouvoir de résolution théorique du réseau défini par R = 1l-c- Déteriner l'ordre p pour lequel les radiations précédentes sont résolues. On prendra N=2 104.
+Fin de F'épreuve
+Concours en Technologie session Juin 2003
+éprcuve de physique
+Page 6/ 6

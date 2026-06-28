@@ -1,16 +1,239 @@
+--- page 1 ---
++gl 4)842I Faji esdlJ +lul rluul {Jjs Jsijuibsi 21 jsliji ShJWsi Jsl > J 2022 1>
+REPUBLIQUE TUNISIENNE Ministère de 1'Enseignement Supérieur, de la Recbercbe Scientifique Concours Nationaux d'Entrée aux Cycles de Formation d' Ingenieurs Session 2022
+G12
+Concours Physique et Chimie & Technologie Epreuve de Mathématiques Date Mercredi 01 Juin 2022 Heure 8H Durée 4H Nbre pages
+Le sujet comporte deux problèmes indépendants. Lc candidat peut traiter les questions dans lordre de son choix; à condition de lindiquer clairement dans la copie. La clarté et la précision de la rédaction seront prises en compte dans Fappréciation de la copie. Lusage dune calculatrice non programmable est autorisé
+Rappel et notations 0! = 1, Vn 2 1, n! = n(n 1) ..2.1 et Cn -k Ck où k < n. kl(n k)' Les fonctions exp; cos et sin sont développables en série entière sur R et on a Vr € R +00 +00 I2n +00 In I2n+1 e" = 2ni cos(r) = E(-1)" (2n)i et sin(r) = 2(-1)" @n +1) n=0 n=0 n=0
+Problème 1 Partie I On considère la fonction T définie par F(z)
+1
++00 tr-le-tdt
+Montrer que T est bien définie et continue sur J0, +0[ +0 2 Montrer que T(z) 2 2r-1 e-tdt, Væ > 1 et déduire que lim T(z) +0. 1a++0 (a) Montrer que pour tout x > 0, T(z+1) = zT(z) (b) En déduire que T(n) = (n _ 1)! Vn € N* (a) Montrer que Vn € N* , (sin æ)2n+1dz J Ja-2" dt . (b) Montrer que Vz €] _ 1,+0[ In(1 + I) < 2. +0 c) Montrer que 8)" dt tend vers dt quand n +0
++oo (d) Sachant que (sin x)2n+1dæ calculer ~t? dt puis F() na++00 4n En déduire que T(n + 2) (2n)! Vi, pour tout n € N. 22nn! Partie II Soit & > 0. On considère sur ]0, +oo[ léquation différentielle suivante; dite de Bessel (Ea) ry" + zy + (22 œ2)y = 0 +00 +oo On pose yr(r) = Ia(z) = @nxn+r où a(z) = @nI" avec ao = 0. n==0 n=0
+page 1 sur 5
 
+--- page 2 ---
+On suppose que œ + 2 a) Montrer que si yr est une solution de (Ea alors
+r = Q OU r = ~Q @1 = 0 Vn > 2, (n? 4 2nr) an
+(b) On considère
+Q > 0. Montrer que le rayon de convergence de la série entière +o0 (~1)n anI" est +0 et que Ya(x) aoxœ 22n Vr ejo, +o[ 22nnl(œ + 1) (œ + n) n=0 Refaire la même chose pour r ~Q, avec Q € R+ N (d) Calculer lim 2 Ya (x) ainsi que  lim I9 'y-œ(z) et en déduire que les fonctions ya et 40+ 1 +0+ y-a sont linéairement indépendantes e) Trouver alors l'ensemble des solutions de léquation (Ea) lorsque œ € R+  (Nu{7}. 1 2. On considère œ Posons "(s) Vzy(r) où y est une solution de (E;) 2 (a) Vérifier que u est solution de léquation différentielle (F) : z" + z = 0 sur ]0, +o[ (b) En déduire que Vz ejo,+o[ y(z) = A %in(r2 + B c0s(52 où A et B € R Vz Vs 3 Pour I > 0 et Q > ~1, on pose
+(~1)k
+2k Jœ(z) (2)" 2 Vz €]0, +0[: kIT(œ +k+1) k=0
+(a) On suppose que & > 0 et & + En utilisant I-3-(a), montrer que yœ Jœ sur 2 Jo; +0[ pour %o 2"T(œ +1) Exprimer sur J0, +o[ J; et J} à laide des fonctions usuelles Calculer lim Jœ(r)  04++00 Partie III Dans cette partie; on considère & = p € Net on cherche les solutions de (Ep): 1. Pour $ € R; posons Fp(z) = cos(xsint pt)dt . Montrer que Fp est bien définie sur R et calculer Fp(o) . Montrer que Fp est de classe C2 sur R et donner les expressions de Fp et FP Montrer que
+rF;() = _1 [r2 cos? t px cos t] cos(z sin t pt) dt .
+(d) Montrer alors que Fp est une solution de (Ep) sur R.
+page 2 sur 5
+@n-
 
+--- page 3 ---
+2 On note I2k
+(sin t)2k dt, k € N. +0 a) Montrer que Fo(r) = 1 /Qh I2k (2k)! k 0 2k (b) Vérifier que Vk > 1, I2k I2k-2. 2k (c) En déduire que Fo = J sur ]0, +o[
+3. On se propose de chercher une deuxième solution de (Eo) autre que Jo. On pose y = gJo et u = g Calculer Jo(0) et montrer qu'il existe B > 0 telle que Jo(z) > 0, Vz ejo; B[ Vérifier que si y est une solution de (Eo SUI Jo; B[ alors u est solution sur Jo, B[ de Péquation de premier ordre suivante (E') IJo(z)u' (r) + (22 J6(z) + Jo(r)) u(z) = 0. c) Résoudre l'équation (E') sur ]o, B[ Posons uo(z) z(Jo(z))? Montrer que uo admet une primitive go sur Jo; B[ Montrer que le développement  limité au voisinage de 0 à lordre 1 de la fonction uo(z) est donné par Uo(z) +o(z) 2 En déduire que g(æ) = In(æ) + c + O(r2) au voisinage de 0, avec c € R. (d) Prouver que goJo et Jo forment une base de solutions de (Eo sur Jo; B[
+Problème 2 Les parties I et II sont indépendantes. Partie I : Soit E un ensemble fini non vide et A1,A2,  ,An des parties non vides de E, on dit que {A1, Az, An} est une partition de E, si A1,A2, ,An sont deux à deux disjointes (c'est-à-dire A;nAj = @,sii # j) et E = UAk. Par exemple {{1}, {2,3,4}, {5,6}} et {{1,2}, {3,4}, {5,6}} k=l sont des partitions de E = {1,2, 29 6} = [1,6].
+Soit (Bn)neN la suite définie par Bo et pour tout n 2 1, Bn désigne le nombre de partitions de lensemble [1,n]. Par exemple lensemble {1} possède une seule partition qui est { {1} } et donc B1 =l Aussi les partitions possibles de lensemble {1,2} sont { {1,2} } et { {1},{2} } et donc Bz 2.
+Vérifier que B3 = 5.
+2. Remarquons que dans toute partition de [1,n + 1], Pélément n 41 est accompagné de k éléments (0 < k < n) choisis dans [1, n] et donc cette partition est de la forme
+Pk
+{n + 1,71, n2, nk} , Partition le l'ensemble des n k éléments restants k éléments
+page 3 sur 5
 
+--- page 4 ---
+Montrer alors que Bn+l
+CkBk Vn € N puis calculer B4 et Bs. k=0 b) Montrer par récurrence que Bn < n! Vn € N. +oo 3 Soit f(æ) = 2 Brr On note R le rayon de convergence de la série définissant f n! n=0 a) Vérifier que R2 1. +oo Bn+l Vérifier que f' (r) = x" Vz €] = 1,1[ n! n=0 En utilisant le Produit de Cauchy , déterminer le développement en série entière de la fonction $ + e" f(æ) et déduire que f' (r) e" .f(z) Vz €] = 1,1[
+Déduire que f(r) ee< 21
+Vz €] = 1,1[
+enr
+Vérifier que f (z)
+Vz €] _ 1,1[ puis montrer que
+n! n=0
++oo nPenæ n! n==0
+f(p) (z)
+Vz €] = 1,1[ Vp € N
+En déduire que
++oo nP
+Bp = Vp € N (Formule de Dobinski) n! n=0 5  Soient (02,A,P) un espace probabilisé et X une variable aléatoire discrète à valeurs dans N telle que 1 n3 P(X = n) Vn € N 5e n! a) Justifier lexistence de la variable aléatoire X. b) Montrer que E(X) = 3 et V(X) = 5 (c) Montrer que le rayon de convergence de Gx la série génératrice de X est +0 puis vérificr que Gx(t) (t3 + 3t2 + t)et-1 Vt € R. 5 Partie II Soit n € N* , On appelle matrice de Pascal triangulaire inférieure dordre n la matrice ={%-: si i 2j Ln (Ln(i,j))isijsn € Mn (R) définie par Ln(i,j) si i < j On appelle matrice de Pascal triangulaire supérieure dordre n, la matrice Un Ln, Ci-: si i <j c'est-à-dire Un(i,j) = Par exemple pour n = 4, on a : 0 si i > j 0 2 3 L4 { et U4 = C2 2 0 1 % C; c3 3 3
+page 4 sur 5
 
+--- page 5 ---
+1 (a) Justifier que Ln et Un sont inversibles. (b) Quelles sont les valeurs propres de Ln; cette matrice est-elle diagonalisable ? 2. Pour tout n € N* , on pose Sn Ln-Un. (a) Vérifier que Sn est symétrique et calculer det (Sn). La matrice Sn est appelée matrice de Pascal symétrique Soient n, m;p € Ntels que p < min(n, m) développer de deux manières le polynôme (X +1) (X + 1)m et déduire que
+CkCm k Cn+m (Formule de Vandermonde) k=0 En déduire que Sn(i,j) = Ci-;-_2 pour tous i,j € [1,n] puis calculer S3 et S4. (d Vérifier que Ck-1 Ch+1 Ck pour tous 1 < k < n puis déduire que
+Sn(n,j) = C2n-1 j=1
+C2n Vn 2 1
+3
+Montrer que les valeurs propres de Sn sont réelles et non nulles . On considère le produit scalaire sur Mn,1 (R) défini par < X,Y >=XY. Soit Il la norme associée à ce produit scalaire Vérifier que; pour tout X € Mn,1 (R); on 'XSnX =ll UnX |l? _ Déduire que les valeurs propres de Sn sont strictement positives. Soient X une valeur propre de Sn et X € Mn,1 (R) un vecteur propre associé à X et notons Tl, I2,.  In ses composantes et notons Iznl max Is;l avec 1 < m < n. I<i<n
+Montrer que > < 2sn(m;j) j=1 Vérifier que Sn(i + 1,j) 2 Sn(i,j) et déduire que ) < C2n 5. Notons X1 < X2 < < Xn les valeurs propres de Sn (pas forcément distinctes) a) Montrer que | SnX Il< Xn |l X | VX € Mn,1  (R) En déduire que; pour n 2 2, An > C2n-12 6. Soient NSr mnaI la plus grande valeur propre de Sn et V € Mn,1(R) un vecteur propre associé XSr_ mar et notons "1, 02,-,Un ses composantes. Vérifier que pour n > 2, mar XSn-1 XSn mnat Montrer que "n + 0 (raisonner par labsurde) . Déduire que Agar est une valeur propre simple. Posons   Sn PDn 'P avec Dn diag(X1, X2, An) la matrice diagonale formée par les valeurs propres de Sn écrites dans lordre croissant où Xn XSr mar et P une matrice orthogonale formée de vecteurs propres de Sn. (a) Montrer que lim 4s  PD'P avec D une matrice diagonale à préciser . k++00 (b) Déduire alors que lim (4s, VtV avec V un vecteur propre associé à An k ++00 vérifiant VIl = 1.
+*Fin du sujet*
+page 5 sur 5
 
+--- page 6 ---
+Corrigé Problème 1
+PARTIE 1 On pose f(æ.t) = tr-Le (1, el0. +o[x]0: +o[ Va > 0, la fonction t ++ +(r;t) est continuc par morceaux sur J0, +œ[. Vt > 0; la fonction 1 ' +(r, est continuc sur ]0. +œc[ Soit [a,b] =lo; +o[: On If(z,t)l < +(t) Va € [a,b], Vt €jo, +o[
+Oul
+{a =1 € si 0 < t < 1 tb-1 '2t si t 2 1
+P(t)
+est intégrable sux J0, +o[ car elle est continne sur J0, +o[, au voisinage de 0+, 4(t) ~ ta-1 intégrable &'après Riemann en 0+ (œ = 1 = 0 < 1) ct au voisinage de +0o, 4(t) et donc elle est intégrable au voisinage de +o. D'après le théorème de coutinuité, F' est bien définie et continne sur Jo; +œ[ 2. Comme f est positive alors Foo +1 T(r) = tr-'e-"dt 2 11 1 c 'dt 2 2"=1 €'al Vr 2 1
+Ainsi T(r) 2 €-22"-1, Vr 2 ] et comme Jim 27-1 +oo, alors limn 1(z) +oo I > Ux 1 )+0 +2 3.(a) On T(z + 1) = tet dt , on pose "u(t) => u'() xt"-1 =€ "(t) 7e ' Foa Foo et donc 1(a + 1) = [~te-*]o 4 f +"-16-t dt 11(æ) 3.(b) On démontre par récurrence que 1(n) = (n = 1)! pour tout n € N 4.(a) On effectue le changemnent de variable t = Vn cos(æ) , dt Vnsin(æ) dr ct donc sinl 2n+1(r) dæ (1 cos? (æ) )" sin(z)dæ J f (-5)" dt 1.(b) Il suffit detucier les variations de la lonction 9   définic Su1 1, +o[ par g(r) In(1 4 c) 4.(c) On applique le théorème de convergence dominée à la suite de fonctions fn(t) Xjo,vn] (1 2) En effet, Vn € N* fn est continue sur [0, Lool ; fn convcrge sim- plenent   vers 1 1 S11 Jo; +o[ qui est aussi continue. De plus pour tout ( € [0. Vn] 0 < 1 < @4 CC qui implique que (1 2)" < € et parsuile |n(t)| < € qui est intégrable sur [0, +o[ D'après le théorèmne de convergence cominéc
+Lo f (t)dt
+hc lin   fn(t)dt 1=4
+lim 71+1oo
+(à d
+Jim Tl=+0
+(1 = fy"dt = Jo dt page 1 sur 12
 
+--- page 7 ---
+4 (d) D'après 4.(a), on déduit
+ToC 412 dt
+lin Vn J' (sin(z)2+' dr n>roo Foc Doù 2t2 dt lin vnVE =Æ TLrco En elfectuant le changement de variable u = vi. Onl &
+Tco +90 1(4) = J t-1/2e-tdt = 2 e-#dt = VT 4 .(e) Par itération on (2n 1)-3.1 (2n)! (2n)! T(n + 2) Lr(?) '12 2n 22nn! 22" n On démontre alors le résultat par récurrence. PARTIE 2 1.(a) On suppose que a(x) est une séric entièrc dc rayon de convergence R > 0 alors Vr € Jo; RE roC Yr(r) =  @nI"+r "=0 Foc  9F(2) = E(n + r)anz"+r -1 7l20 o  y" (2) = E(n +r)n +r - 1)anz"+r 2 n=0 Ur est une solution de (Ea) si et seulement si
+Loo Eln + r)? a2]an2"+r 1=0
+oo On-21n+r 112222
+On simplific par z ct on1 identifie les deux séries entières. Oll trouve Q 2)ao (2r + 1)a1 0 (2) Vn 2 2 [(" + r)? 02] aa Uln = 2 (3)
+Ainsi commne a = 0 alors (1) +Q. Dc plus @ = 2>T + _ et 2r + 1 # 0 conc 2 2 (2) = U1 = 0. (3) = + (n2 + 2nr) un Un-2 1.(b) On considère 7 = a > 0. Comme 01 0, (3) Vn € N 02u++1 0. De plus
+Tl = 2
+U2
+Qo 2(2 + 20 )
+n = 4
+(4 =
+02 4(4 _ 20)
+n  2p
+2p(2p + 2œ) @2p 
+page 2 sur 12
+U-2p
 
+--- page 8 ---
+En multipliant   terme (=1)P à termne on à 02p (o. pOur tout p 2 1. (le 22"p (œ +1)(o + p) résultat se vérifie facilemcnt par récurrence) Par suite
+(~1)p
+Ua(z) = ao æ
+22Ppèa + 1)( + p)
+(~1)p 12p Up+1 Posons Up(c) 01L 4 0 < 1 22Pp (a + 1)(Q + p) Up 22(p + I)(œ + p +1) quand p ~+ +0o. Alors; daprès le critère de D'Alembert, Un converge pour tout I € R Doù R = +8. 1.(c) De même pour r (=1)" ~a, par itération on a si & # N, p 2 1. (2p 22vp'(~0+1)-0+p)7 0o . Par suite Too (~1)p Y-o (r) Qo 1 12p 22Pp (~0 +1)(-0 + p) P=0 (up Up+ Jz 2 Pour Up(z) On 4 0 < ] 22Pp!( ~"+1) (n+p) 22(p + 1)1 = œ + p + 17 quand p +0. Alors. daprès lc critère de D'Alembert, Ev converge pour tout r € R Doù R = +x lim 0o( _1)r 1.(d)  lim Ya(z) 22p do # 0 et I-+0+ C30+ 22Pp{(œ +1)-(œ + p) p=0
++Dc lim 29 lim do ( =1)P U_a (x) = 12p 1 +0+ 2+0+ ao 4 0. 22Pp!(~ +1)-(-0 +p) D=0 Alors les fonctions y~(æ) 70+ @oj-a 4 sign(ao)ac et y_a(r) ~+ Qoxœ 4 0 ce qui prouve que ya et y-a sont linéairement indépendantes. (par Vabsurdc) 1.(e) Lorsque & € R+ (NU {2} 0ll trouvé que Ua et y_a sont deux solutions de (E.) linéairement  indépendantes. Or (Ea) est   une équation différentielle homogène de second ordre; donc Tensemble des solutions est un e.v de dimeusion 2. Ainsi y = Aya + By-a. A et B € R. 2.(a) On y(z) 1 {y(r) donc y(r) 1 iu(7) + tu(æ) ct %"(z) 3c iu(z) 2 r7u(r) + I 4u (r) U est solution de (E;) si et seulement si u est solution de (E) u" (æ) + u(æ) = 0 2 (b) On a (E) cst une équation différentielle homogène de second ordre. donc Fensemble des solutions cst un €v de dimension 2 De plus sin et cos [orinent une base de solutions alors u(æ) = Asin(r) + Bcos(r) où A ct B €R. Cc qui donnc v(z) = Asin(r) + Bcosh22 Væ Væ 3.(a) Il suffit dc voir que (a + I)(a + 2)-(0 +n) = Ilo+n+1 I(a + 1) 2(-1)"r2n 2 sinx 3.(b) On utilise Partie 1, 4 (e) pour n +1 et n : Jg(æ) = (2) Vn(2n + 1)! n=0 VI (1)"a2" (2)- 2 cos j J-;(T) = n 0 Vr(2n)
+page 3 sur 12
 
+--- page 9 ---
+4 Pour x fixé dans J0, +cxo [, (~1)" on posc fn(a) n'F(œ + n + 1) On d'après 2(b) lim T(a + n + 1) = +oo. Par suite linl fn(ce) 0 9g 04+x D après 2 de la Partie 1. F(r) 2 22-1 72-2 2 672 pour tout z > 1. 21 Ainsi Va > 0, n € N; lfa(a)l < e213) 'n tcllc quc unCV . Ainsi 92 ! fn CV norma- lement sur Jo; +o[ Ce qui justifie la permutation limite et somme. PARTIE 3 1(a) Ils'agit d'unc intégrale dépendant dun parannètre sur un scguncnt. On posc h(æ,t) cos(x sin t pt) .  On a / est continue Sur   R [0, 7] donc Fv est   bien   détinie et conti- nue SuI R. Fp(o) cos( ~pt)dt . Donc si p 0 alors Fp(o) 1 et si n 7 0 alors [ sin(pt) Fp(0) 1 (b) On applique le théorème dc dérivation pour unc intégrale dépendant dun paramètre Sur un segment_ On a h est de classe C2 sur R * [0, T] et on 0h 027 9z(v,t) sin t sin(æ sin / pt) ct (7,t) = (sin t)? cos(r' sin t 9a2 pt) . Par suite Fp est de classe C2 sur R et on
+Fp(æ) =15 dh(r,t)dt = _1 âr sin t sin( r sin t pl)dt
+Cl
+02h F" (r) = { 027 (2,t)dt = 1 (c) On eectue Fintégration par partie
+(sin {)? cos(æsint pt)dt .
+sin(æ sin t pt) sin t
+(a cos t p) cos(æ sin t pt) coS /
+0ll 4
+FP(z)
+1
+cos # sin(x sin t pt)Ic J ((eosty"? pcos t) cos( x sin t pt)dt
+1.(d) Ainsi
+22+7 (r) + sF(r) + (2,2 p?)Fp(æ)
+1 (px cos t p? cos(rsin t pt)dt 7 [sin(æ sin { pt)]b 0.
+D'où Fp est une solution de (Ep) pour tout p € N 2.(a) On applique le théorème de permutation et sur un seguent. Ou pose "n (t) Jæ2n On Jun (t)| < Qu ; @n CV. Donc Un CN sur [0. T] cc qui (2n)! implique quc
+page 4 sur 12
 
+--- page 10 ---
+Un converge uniformement sur [0, 7] Cc qui donne le resultat_ 2 (b) Pour n 2 1, on1 effectue ]intégration par partie
+(sin t)2n-1 sint
+u (t) (2n 1) cos t (sin t) 2n -2 0(t) cos t
+On
+I2n
+cos t(sin t)?n-']5 +(2n 1) J( (sin t)?) (sin t) 2n-2dt
+2n Ainsi pour tout n 2 1, I2n I2n -2. 2n (2k) ! 2 (c) On Io 1. Par itération;  on trouvc quc 12k On  remnplace 12k   dans 22n (k!)2 7 Fexpression de F trouvée dans 2 (a) on F(r) = 2 06" Jo(r) . 12 ~0 V'(r) 3.(a) On 9(æ)Ja(z) + g(r)J{(z) 9 est solutiou de Eo alors V"(r) 9"  (r)Jo(r) + 2g(r)J(r) + g(r)J% (r) [r? J8(r) + IJ(v) + 2? Jo(z)lg(c) + 2?9" (r)J(r) + [2r2  J6(z) + æJo(æ)/(r) = 0
+car Jo est solution de (Eo). Donc on le résultat pout tout z > 0 3.(b) On a Jo(r) = (2)* Jo(0) = 1 > 0. Comnmne Jo est continue alors il 720 existe un voisinage de 0 dans lequel Jo est strictement positive. D'où Fexistence de B > 0 tel que Jo(r) > 0, Væ ejo; G[ 3 (c) On a u(x) = (-2 J6r) Z)u(æ) Parsuite u(c) K.ef(-244-4) = I. Jo(r) '2Jo(z)?' 4 (a) On a uo est continue sur Jo, P[ car Jo est continne (SE) ne s'annlant pas sur j0, P[ donc elle admet unc primitive sur J0, P[ Jo(r)? 4.(b) Au voisinage de 0, on a "o(r) +0(æ) . Car Jo(æ) = 1 = +0(22 ) xJo(r)? 2 4 (c) La primitive de Uo(r) a aussi   lI développement limité au voisinage de 0 donné par 40(22) + cte. Par suite 90(r) In(v) Cte + 0(r?) 4 4 (d) On a  F+ g0 (r)Jo(æ) et æ Jo(æ) sont deux solutions de (Eo) sur j0. P[. Il suffit de prouver qu'elles sont linéairement indépendantes. (Par Fabsurde ct comportement en 0).
+page 5 sur 12
 
+--- page 11 ---
+Corrigé Problème 2 Partie I 1) Les partitions de Fensemble {1.2,3} sont {{1,2,3} }  { {1,2}, {3} }, { {1,3}, {2} } { {2.3}{1} } et { {1} {2} {3} } donc B, 5 2)a) Le nombre de partitions de [1," + 1] qui sont de la forne Pk est ChBn-k avec Ck le nombre de choix de k entiers dans [1,n] et Bn-* désigne le nomhre de partitions des n = k éléments restants de [1, n]. D'autre part pour k # k , on a Pk # Pw et donc
+Bn+1 CkBn-k = Cn-#Bx CkBk Vn € N" k0 k0 keo cette relation est encore vraie pour n 0, doù le résultat
+BA C}Bk Bo + 3B1 + 3B2 +1B, = ] + 3+ 6+5 = 15 k=0
+B; = CkBk = 1 +4.1 +6.2+4.5 + 1.15 = 52 K=0 b) Pour n 0, on1 Bo = 1 < 0L. Supposons quc Bn < n! avcc " € N et montrons que B,+1 < (n + 1)L. On
+Bn+1 = CkB: < Ecuk = n! E 17 . k)! k0 k=0 ko
+OI < 1 ct donc Bn+1 < n! E1 =nl(n + 1) = (n + 1)4, doù le résultat . (n = k)! ku 3)a) On Bn < n! Vn € N; donc B" < 1 Vn € N ct par conséquent  Je rayon dc 71 ! convergence de la série entière Brr est supéricur ou égal au ravon ce convergence de n ! 720 la série entière r" ; c'est-à-dire R > 1. n20 b) f est la somme dune série entière ce rayon de convergencc R 2 1 et donc est de classe Cx sur 1, 1[ et on 05 Fx Bn "x Bn In-1 991 Bnzl f' (2) = En = = 1" Vr €l - 1. 1 [ n! (n = 1 ) ! 71 | 7l | n=1 1=0 Loc Bn 4co 1" On a f(r) = 8n Vr €] = 1, 1[ ct cr = Vr € R el par là formule du Produit 7! n! 720 "eu de Cauchy. on déduit que 4 Do e" f (x) Cnaan Vz ej = 1, 1 [ n=u Bk nlBk Bn+l avec €n = 4É ChBk el par suite k((n = k)! ku(n = k)! 72 ! n! K=0 Ko k=0 1oo Bn+l e* f(æ) = 2 2," Vr €] = 1.1 [ n! 120 et daprès la question précédente; on déduit que f (æ) = e" .f(æ): Vr €] _ 1,1[
+page 6 sur 12
 
+--- page 12 ---
+On
+f'(z) e".f (2): Vr €] 1,l[ et donc f est solution sur ] 1,1 [ de léquation différenticlle eIy = 0 et par suite f (z) Qeer Vz €] = 1,1[ or f(o) = 1. donc a.€ = l, c est-à-dire @ = e1 Finalement. o11 obtient f(z) =eef_1 Vz €] = 1, 1[
+4)a) On a f(æ) = cez Vr €] = 1,1[ or
+Zœ == 27l7 Vr € R n! 71 ! n =0 7=20
+ox e"r ct donc f(x) = 1 E Væ €] = 1,1 [ 7 ! 770 e" Posons fn(æ) 17 e] - 1. 1[.n € N. on a : n! Jn converge simplement sur = 1, 1[ vers f . "20 Pour tout n € N. fn est de classe Coo sur ] = 1. 1[ et on a nPenæ flp) (z) Væ €] = 1, 1[. p 2 1 On àa Ifs (z) n"e" < "e" Vr €] =1, 1[ Vn € Net comme la série n"e" converge. n! Tu! 72! n20 en effet par la règle de D'Alembert, on (n + 1)Pe"+1 74! (")" 0 < ] (n + 1)! nPen n = 1 nS+x ainsi pOU tout p > ], la série de fonctions ffp) convcrge normalement et en particulier 20 uniformément sur ] = 1, 1[ Finalement , par le théorème de dérivation; on déduit qjue f est de classe €* sur = 1. 1[ et Fo 1 nPent fwp) Væ €] = 1,1[,Vp 2 1 ril
+b) f est développable en série entière sur 1.1[ et donc Be f P)(0) Vp € N et par pl p! conséquent Bp f(p) (0) Vp € N, or daprès la questiou précédente; on a To0 71" f(p)(0) = Vp € N 72 , nEzu
+LoC 'nP nu! n;=0
+Finalcmcnt, on obtient Bp Vp € N (Formule de Dobinski) 5)a) On P(X = n) 2 0 . Vn € N et daprès la Formule de Dobinski. Oll & Too P(X = n) 1 2 B = 1 (car B3 = 5) 5e 1220 71 ! 71= doù lexistence de la variable aléatoire X
+page 7 sur 12
 
+--- page 13 ---
+b) On a n.P(X = n) = L2 OI daprès la Formule de Dobinski, cette séric est Je n! n20 720 convcrgcntc; cc qui prouvc quc la variablc aléatoirc X cst dcspérancc fnic ct on a : E(X) = &Zn Bz 15 = 3 Jc n ! 5 5 n20
+donc E(X) = 3. n' On n? P(X = n) = L2 OI daprès la Formule de Dobinski cette série est 5e n! n20 n20 convergentc. ce qui prouve que la variable aléatoirc X? est d'espérance finie et on 1 E(X2) En Bs 52 Se n2! 5 n20
+Ainsi
+52 7 V(X) E(I?) E(X)? 9 5 5 1e c) On à Gx(t) = L2 22t" EP(x = n)t" = Or 5e n! "=0 7l20
+(n + 1)* n! (n + 1)? (n + 1)! n3 713 n-roo
+ct donc daprès la règle de D'Alembert, lc rayon dc convcrgcncc dc Gx vaut +oc. +a tn On a e =2 Vt € E, en dérivant et en multipliant par t. ou1 obtient n! 7=0
+ntn 72 ! 31220
+tet
+Vt € R
+e1 dérivant et en mnultipliant par t. on obtient (t? + t)e' =2vr Vt € k. n! 7120 9*t" en dérivant et en multipliant par t, on obtient t(1? + 3t + 1)e' = 2 Vi € R. n! 7170 (t3 + 3t2 + t)et et par suite Gx(t) 5 (t3 + 342 _ tJe' -1 VI €R 5e Remarque On peut aussi écrirc n' = n(n = 1)(n = 2) + 3n(n = 1) + n et donc
+Loc 73t"
+Loo 1 n(n = 1)(n = 2)t" n(n = 1)t" 43 +2 77 . 72 ! n7 ! 9220 720 71220 oo t"-3 ~X {"= 2 Lcc t" -1 t3 +3t2 2 1 t (n 3)! (n 2)! 7=3 in = 7122 Fo t" co in +1 tn 43 2 73/2 E n1 +1 2z Iu! 77=20 12d 720 (t3 _ 3t2 + t)e'
+n=o
+page 8 sur 12
 
+--- page 14 ---
+Partie II : L)a) Comme la matrice Ln est triangulairc; alors son déterminant vaut le produit des éléncnts sur la diagonale. c' cst-à-dire
+det(Lz) = IIz (ii) =Ic-: =I=1 2 1 1 _
+donc det(Ln) = 1 = 0, ce qui prouve que Ln est inversible. D'autre part, Un =ln et donc det(Un) = det( Ln) = 1 # 0 ce qui prouve que Un est inversible. b) Conme la matrice Ln est triangulaire; alors ses valeurs propres sont les éléments sur la diagonale ct par conséquent 1 est la seule valeur propre de Ln: Supposons quc Ln cst diagonalisable ct donc Ln est semblablc la matrice identité 1n . est-à-dire Ln PI,P-1 In ce qui est absurde et donc Ln n'est pas diagonalisable. 2)a) On & Sn = In Un Ln Ln et donc Sn = Ln-In Sn, ce qui prouve que la matrice Sn cst symétriquc. det(Sn) det ( Ln) det(Un) = 1 + 0 et donc Sn est inversible nmn b) On a (X + 1)"(X + 1)m (X + 1)"+7 = Ecn 7+n-Fk et donc le coefficient de X" dans k=0 CC polynôme est Cm+n: D'autre part, on a (X+l)"(X+l)" = [cn + C"X+.CRXP + 4 cnx"] . [cm + CIX +.CmXP + . + CI X"]
+et donc, après le développement, le coefficient dc XP est CkCp-k , doù le résultat. k=0 c) Comme Sn Ln Un : alors Si ; < j, on a
+Su(i,j)
+Ln(i.k) .Un(k.j) kl
+Zuik) u,(k.j) + Zn(isk),Un(k.j) k2i+ 1 5 Ck-1.C}-1 2 Cl-; C}-1 41 Eci-:*c;-1 (C;1 C;-1-*) ko Ci-1-2 (formule de Vandermonde)
+Si ; 2 j. Comne Sn est symétrique alors Sa(i.j) = Sn(j;i) = Ci+j-2 Ci+)2 On à co co c? 1 53 ci Ci 2 3 C2 8 % 3
+page 9 sur 12
 
+--- page 15 ---
+Co C2 C3 ci 88 C4 Cg G? C; c; C;
+2 3 6 1o 10 20
+S4
+(" + 1) !
+Ch+1 Ch
+ka(n + 1 = k)! k(n = k)! n! n + 1 k!(n = k)! n + 1 =h - 1 ) n ! k nl! Ck-1 k'(n = k)! n + 1 _ k (k = 1)n = k + 1)!
+Sn (n,j)
+Cn-1  j=|
+C"-1 + Ecn+ = j=2
+C"-1 + (Cn+j-1 Cn+j-2) j=2 Cr-1 + (Czn-1 Cn) C2n-1 (2n 1)! 1 (2n)(2n 12! 1 (2n2 C2n -1 (27 1)in! '2 nln! Ci2n ; doù Je résnltat , n(n 1)In! 2 3)a) Comme Sn est symétrique réelle, alors caprès le théorème spectral. les valeurs proprcs de S" sont réelles et commc Sn cst invcrsible, alors elles sont non nulles.
+b) On a 'XSnX = XLnUn-X =' X'UnUnX 2 ( (UnX) (UnX) =Il UnX Il? .
+c) Soit une valeur  propre de Sn ct soit X 771   vccteur propre associé à A. c'est-à-dire S1X AX. D'après la question précédente; OIl 'XSnX UnX |2 et par couséquent 'XAX =lUnX /l? ou encore ^ H XH2=| Un-X H2 ce qui prouve que 1  est positive et sachant qu'€ 'ellc est non nulle, alors À > 0.
+4)a) On a SnX = AX, c'est-à-dire
+Sn(i,J)æ; Aæ; pou tout < i < n et pour
+i = ml , on1 ohtient Sn(m, j )æ ; MIn Ainsi 1=1
+Alæm| < Sn ( (m,j)lril < S,(m, j )læm| Ixml Sn (m. j) 1=1 j=] =1
+et conme |ml > 0. alors ) 2 Es (m,j). 7=1
+page 10 sur 12
 
+--- page 16 ---
+b) On à
+(+js1)= (i+js 12 (i +j = 2)! (i+j_1) Sn(i + 1,j) = C;+)-1 Ci-j-2 i'(j _ 1)! (i _ 1)W6j _ 1)! et donc Sn(i + 1,j) (i+i_ Is (i,j) 2 Sn(i,j) . D'après le premier point; chaque coeflicient de la mnatrice Sn est plus petit du coeflicient au dessous et donc la somme des cocfficients de la dernière ligne de Sv est la plus grandc que la somme des coeflicients de toute autre ligne et par conséquent
+Sn(m.j) < Es (n,j) = Czn j=1 J=
+ce qui prouve que X C2n 5)a) Comme Sn est symétrique réelle, alors daprès le théorème spectral, ellc est diagona - lisable dans une base orthonormée B de vectenrs proprCS _ Soit X € Mn,1 (R) et notons æ1: 12, scs coordonuées dans B. on a
+SnX I?_ Eva? <vEv? = 42 I X I? iz0 1=0
+donc SnX Ilz An | X | VX € Mn,1(R) Sn(1,n) Sn(2.n) b) On prend X = on SnX
+Cû-1 C1
+(c' est la dernière
+Sn (n . n)
+C2n-12 colonne de S,) , et Finégalité de la question précédente devient
+An 2 V(co-1)2 + (C3)? +
+(C2r-2) C2n-12
+6)a) D'après 5)c) on Sr T7ar > C2-42 et d'après 4)b) on Asaz < C2n-42 Czn-2 et par 2 max "luI suite ASraz Sn b) On a SnV = NSn mna_ V. c est-à-dire
+Sn(i,j)"; XSr 'ot 'U; Vl < i < n j=l
+donc, si 01 suppose que Vn 0, on1 obtient
+n =1 Sn(i.j)vj Asrx v VI < ; < n = 1 J=1
+et comme Sn(i,J) = Sn-1(i;j) = C,+j-2 21 VI < i < n _ 1. alors
+Sn-1(i,j)vj = XSn II U; J=21
+Vl < i < n - 1
+page 11 sur 12
 
+--- page 17 ---
+Ce qui prouve   que NSn iaT est une valeur propre ce Sn-1 et donc AS^ Thos absurde et donc "n + 0
+Anar Sn -! ce qui esi
+Supposons   que Agzar 1'est pas unle valeur propre simple. Soit donc V et W denx vec- teurs propres IlOII colinéaires associés à la valeur proprc ASn lr et notons "1, "2- Un el W1. U'2; U'n Jeurs composantes respcctivement . Daprès ce qui précède; on à "Un # 0 et wn % 0, donc WnV _ vnT est aussi un vecteur propre associés à Ag aT or la dernière composante de W'nV "nW est nulle ce qui est absurdc et par suitc NSn muar est unc valeur propre simple. 7)a) On Sk PDk 'P et donc (4s)" P (ZD,) 'P. Or onl & (ZD,) diag( (4) (4)' (+) et conne )n est simple; alors les autres valeus' propres sont strictenent inférieures à Xn. ce qui implique que lim (4D) diag(0,0_,0. 1) 4+0 finalenent , on obtient lim (Ls =PD'P avec D diag(0 , 0... 0.1). KaFoo b) V est en fait la dernière colonne de P et notons "1, "2-et "n sCs composantes. On a
+'"1 U2
+PD =
+et donc
+PD'P =
+i(z: =VtV Finalement 011 obtient liu (Zs) =VtV. 7co
+page 12 sur 12

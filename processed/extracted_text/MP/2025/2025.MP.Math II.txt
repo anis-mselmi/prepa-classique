@@ -1,47 +1,190 @@
-BIB-IPEIS
-BIB-IPEIS
+--- page 1 ---
+REPUBLIQUE TUNISIENNE
++gl #)xji <ui Aly eli rji 6ujs Uosa Gaibsi 2i Yaliji :tigjl @ssJalyyi 2025 ;8
+Ministère de /'Enseignement Supérieur et de la Recherche Scientifique Concours Nationaux d'Entrée aux Cycles de Formation d'Ingénieurs Session 2025
+Concours Mathématiques et Physique Épreuve de Mathématiques II
+Session 2025
+Date 03/06/2025
+Durée : 3 heures
+L'usage de la calculatrice et tout autre dispositif électronique est interdit.
+Donnez vos réponses aux questions dans les espaces prévus sur les feuilles de réponses. Si vous avez besoin de plus d'espace pour une réponse, vous pouvez utiliser V'espace supplémentaire disponible à la fin des feuilles de réponses en précisant le numéro de la question et en indiquant dans l'espace réponse que la réponse se poursuit sur l'espace supplémentaire Notations et définitions IPè" Dans tout le problème, n est un entier naturel supérieur ou On désigne par Mn (R) (resp. Mn,1 (R)) Tespace des matrices carrées d'ordre n (resp. lespace des matrices à n lignes et à une seule colonne) à coefficients réels. On note 'A la transposée dune matrice A, Sn (R) le sous-espace vectoriel des matrices symétriques (vérifiant 'M M) de Mn(R), GLn(R) le groupe des matrices inversibles de Mn(R), On (R) Yensemble des matrices orthogonales de Mn(R) et In la matrice unité d'ordre n.
+Si A1, . . . , Ap sont des matrices carrées, on note diag( A1, . Ap) la matrice diagonale par blocs dont les blocs diagonaux sont ordonnés de A1 jusqu'à Ap. Pour A € Mn(R) det( A) , XA, Sp(A) et Ea ( A) désignent respectivement le déterminant de A,le polynôme caractéristique de A, le spectre réel de A et le sous-espace propre de A associé à une valeur propre ^ € Sp(A)
+Lespace vectoriel Mn,1(R) est muni de son produit scalaire usuel défini par
+(X,Y) = 'XY, pour tous vecteurs X et Y de Mn,1 (R),
+et de la norme euclidienne associée ||
+Lorsque E est un R-espace vectoriel, IdE est lendomorphisme identité de E.
+entie
+=NR [xldésigne
 
-BIB-IPEIS
-BIB-IPEIS
+--- page 2 ---
+Partie I.
+Soit A € Mn(R)
+Q1 D On pose C(A) = {M € Mr(R), AM MA} . Vérifier que C(A) est un souS- espace vectoriel de Mn(R) et que si (M1Mz) € (C(A))? alors MjMz € C(A). Q.2 D On suppose que A = U diag( 41 - ,An) U-1 où U € GLn(R) et (41 . An) € R" Vérifier que pour tout P € R[X], P(A) = U diag (P(A1)     , P(An)) U-1. Dans les deux questions suivantes , on se propose de démontrer le théorème d'interpolation de Lagrange; Soient m > 1 et 01,02, am des réels deux à deux distincts_ Q.3 D Montrer que Yapplication $ Rm-1[X] 4 Rm P + (P(a1)  ,P(am)) est un isomorphisme de R-espaces vectoriels Q.4 D Soient un intervalle de R contenant 01, @m et une fonction définie sur à valeurs réelles. Déduire qu'il existe un unique polynôme P € Rm-1[X] vérifiant P(a;) = f(a;) pour tout 1 < i < m. Le polynôme P est appeie le polynôme de Rm-1[X] interpolateur de f aux points 01, Om.
+Dans toute la suite, on note g0 [0, +c[ IR 1 / VX, D# {M€ Mn(R) diagonalisable dans Mn(R) et telle que Sp(M) € [0, +o[} S+ {M € Sn(RR) telle que SP( [0, +o[} (m)5 Q.5 D Soit Po le polynôme de R  [X] interpolateur de 80 aux points et 4. Vérifier que Po 3X+3 Justifier que S+ € Dt Q.6 D Soit M € Sn(R). Montrer que M € St si et seulement si pour tout X € Mn,1(R)' (X,MX) 2 0
+Partie II.
+Définition Soit A € Dt Notons &1, - &m les éléments deux à deux distincts de Sp(A) et P le 'polynôme de Rm-1 [X] interpolateur de g0 aux points 41, Cm . On définit alors , la matrice racine carrée de A, notée VA, par VA = P(A) .
+ILA)
+Q.7 D Soit B =
+Montrer que B € D2 Donner alors lexpression de vB
+Q.8 > Soit C une matrice de Mn(R) telle que C2 5C _ 4In, C # 4In et C # In. Montrer que C € Dt et que VC = 3c+ 3In On considère, dans la suite, une matrice A D+ On choisit U € GLn(R) et A1' . . . , An R tels que A = U diag (A1, . An) U-1 Iustifier que pour tout 1 < i < n, Ai > 0 et que VA U diag VA1, _ VAn U-1 .
 
-BIB-IPEIS
-BIB-IPEIS
+--- page 3 ---
+Q.11 D Soit R € Dt - Montrer que R? € Dt et que VR? = R. Q.12 D Déduire que VA est lunique matrice R € Di qui vérifie R2 A Q.13 D On suppose que A € St - Montrer que VA est lunique matrice R € St vérifiant R? = A. Q.14 D Soit M € GLn (R). Montrer que 'MM € S1 nGLn(RR) et que VM M M-1 € On(R). Q.15 D Application: On considère un sous-groupe G du groupe GLn(R) tel que On(R) € G et soit M € G. Montrer que VM M € G puis que 'M € G
+IIB)
+Fco Ak k! k=0
+Pour A € Mn(R), on rappelle que la matrice exponentielle de A est définie par e^ Dans la suite, on fixe une matrice A € D# et on considère le système
+X" (t) AX(t) X(0) = Xo 6 X'(0) = 0 où Xo € Mn,1 (R) Q.16 D On considère la fonction définie sur R par: (etv7 +e-tVÆ)Xo. Montrer que Yo est deux fois 2 dérivable et qu'elle est une solution sur Rdu système (S)
+Soit Y : R "4 Mn1(R) une fonction deux fois dérivable et solution du système (S). On pose pour tout Y(t) Yo(t) t€ R Z(t) qui appartient à Mzn,1(R) et B qui appartient à M2n (R) Y'(t) Y6 (+)
+Q.17 D Montrer que pour t € R, Z' (t) = BZ(t) et Z(0) = 0.
+Q.18 > Déduire que Z est identiquement nulle sur R puis que Y = Yo. Q.19 > Soit L la fonction définie sur R par L(t) = IlYo(t)ll? . Montrer que L est deux fois dérivable sur RR et que pour t € R,L" (t) = 2( AYo(t) Yo(t) ) + 2IY6 (t) II? . Déduire que si A € Si alors L est convexe.
+ILC) Soit A € S+ nGLn(R) et Vo € Mn,1 (R). On considère Vapplication f Mn,1(R) = + Rdéfinie, pour tout X € Mn1(R), par f(X) 2(X, AX) (Vo,X) Q.20 > Soit X € Mn,1 (R). Montrer que pour tout H € Mn1(R),
+f(X + H) = f(X) (H,AX _ Vo) (H,AH) 2
+Déduire que est différentiable sur Mn1l (R) et que sa différentielle en un point X est donnée par
 
-BIB-IPEIS
-BIB-IPEIS
+--- page 4 ---
+Q.21
+Montrer que f admet un minimum sur Mn,1(R) atteint en un point unique quon déterminera.
+Dans la suite, on pose $ = VAet on considère un sous-espace vectoriel F de Mn,1(R) Q.22 D Justifier que S € GLn (R) et vérifier que f(X) Zllsx _ S-1 Voll?_ Zlls-1voll? , pour tout X € Mn,1(R).
+Q.23 On pose Fs {SX, X € F} Montrer qu'il existe un unique élément Yo € Fs tel que
+IlYo S-1 Voll? min |lY _ s-1voll? . YeFs
+Q.24 Déduire que la restriction de lapplication sur F admet un minimum atteint uniquement au point X1 S-1Yo.
+Partie III. (indépendante des sous-parties ILB et ILC) Soit M € Mn(R). On appelle couple de décomposition de Dunford de M, tout couple (D,N) de matrices de Mn (R) vérifiant M D + N, D est diagonalisable dans Mn(R), N est nilpotente et DN ND. IILA) Dans cette partie, on considère une matrice Mn(R). On suppose que A admet un couple (D,N) de décomposition de Dunford et on note &1, &n les valeurs propres deux à deux distinctes de D
+Q.25 D Soit ^ € R Sp(D). Montrer que det
+(AIn
+puis que XA(4) = Xp (4)
+Q.26 D Montrer alors que XA Xo et déduire que A est trigonalisable dans Mn(R).
+Q.27 D Soit 1 < i < m. Vérifier que ( A a;In)" = ckNn-*(D &;In)k En déduire que Ex; (D) € Ker ( ( A &i In)")
+Q.28 D Montrer   que Ker ( ( A = &i In)") est une somme directe puis que,   pour tout   1 <i < m, 1=1 Ex; (D) Ker ( ( A Qi In)")
+On suppose que (D1, N1) est un autre 'couple de décomposition de Dunford de A.
+Q.29 D Montrer que Sp(D1) {81,
+&m} et que, pour tout 1 < i < m, Ex; (D1) Ex; (D).
+Q.30 D Montrer alors que pour tout X € Mn,1 (R), DiX = DX. Déduire que D1 =Det N1 N On conclut qu'une matrice A € Mn(R) admet au plus un couple de décomposition de Dunford.
+IIIB) On note Tnt* = {M € Mn(R) trigonalisable dans Mn (R) telle que Sp(M) cJo; +o[} On considère, dans cette partie, une matrice A € Tn+* On note &1, &m les éléments deux à deux distincts de Sp(A) et u Yendomorphisme de R" canoniquement associé à A.
 
-BIB-IPEIS
-BIB-IPEIS
+--- page 5 ---
+Pour tout 1 < i < m, on pose Fi Ker ( (u- &; IdR" )" ) , d; dim F; et on note par u; lendomorphisme de Fi induit par u
+Q.32 D Justifier que, pour tout 1 < i < m, lendomorphisme ui &; IdF; est nilpotent Déduire qu'il existe U € GLn(R) telle que A U diag (œ1Id, + N1, œmIdm + Nm) U-1 où pour tout 1 <i < m, Ni est une matrice nilpotente de Ma; (R). Q.33 D Montrer que A admet un unique couple de décomposition de Dunford (D,N) en donnant son expression en fonction de U. Justifier que D Dt -
+Pour tout k € N, on note Pk le 'polynôme de Rm-1[X] vérifiant pour tout 1 < i < m, Pk(a;) (œi), où g0 est la fonction définie dans la partie 1., 80 g0 et, pour tout k € N ,80 désigne la dérivée k-ème (sur Jo, +œ[) de g0. On note go(A) Pk(D) Nk = Po(D) + P(D) Nk-1 N. k! k!
+où (D,N) est le couple de décomposition de Dunford de A.
+Q.34 D Montrer que Po(D) VD et déduire que si A est diagonalisable dans Mn(R), alors go(A) vA. Désormais, Yexpression g0( A) sera notée VAet appelée racine carrée de A. Q.35 D Montrer que pour tous k 2 2et x > 0, on StPefs_ (x) =0. Q.36 D Déduire que, pour tout k 2 2, 5n(-)i P;(D) Pk-j(D) vérifier que 2 Po(D) P(D) = In. Q.37 D Montrer que, pour tout (k, j) € NN? , P(D) Ni = Ni Pk(D) puis établir que (vA)? = A. Q.38 D Montrer que VD, k! P(D) Nk | est un couple de décomposition de Dunford de VA.
+Q.39 Déduire que VA € TI+
+Exemples
+Q.40 D Soit M € Mn (RR) une matrice nilpotente et ^ > 0. Justifier que AIn + M € Tn+* et montrer que
+VAIn #M-2 0i88*(4) M*. k0
+Q.41 D Soit A =
+Vérifier que A € T3' et donner la matrice VA.
 
-BIB-IPEIS
-BIB-IPEIS
+--- page 6 ---
+REPUBLQUE TUNISIENNE
++s) @k+) (i a#IJcli àji ;Ji Jssw +ibyi 2lliliali ixhall iss Jal>ui 2025 6)3
+Ministère de F'Enseignement Supérieur et de la Recherche Scientifique Concours Nationaux d'Entrée aux Cycles de Formation dIngénieurs Session 2025
+Concours Mathématiques et Physique Corrigé de FÉpreuve de Mathématiques II
+Session 2025
+Date 03/06/2025
+Durée 3 heures
+Notations et définitions Dans tout le problème, n est un entier naturel supérieur ou égal à 2 On désigne par Mn(R) (resp. Mn,1 (R)) Vespace des matrices carrées d'ordre n (resp. Yespace des matrices à n lignes et à une seule colonne) à coefficients réels. On note 'A la transposée d'une matrice A, Sn(R) le sous-espace vectoriel des matrices symétriques (vérifiant 'M M) de Mn(R), GLn(R) le groupe des matrices inversibles de Mn(R), On (R) Yensemble des orthogonales de Mn(R) et In la matrice s ratrices ~ unité d'ordre n. Si A1, . . . , Ap sont des matrices carrées, on note diag( A1, matrice diagonale par blocs dont les blocs diagonaux sont ordonnés de A1 jusqu'à Ap: Pour A € Mn (R) , det(A), XA, Sp( A) et Ea(A) désignent respectivement le déterminant de A, le polynôme caractéristique de A, le spectre réel de A et le sous-espace propre de A associé à une valeur propre ^ Sp(A) L'espace vectoriel Mn,1 (R) est muni de son produit scalaire usuel défini par
+(X,Y) = 'XY, pour tous vecteurs X et Y de Mn,1 (R) 
+et de la norme euclidienne associée | . | 
+Lorsque E est un R-espace vectoriel, IdE est lendomorphisme identité de E On désigne par R[X] Yalgèbre des polynômes à coefficients réels et pour tout entier m € N, Rm[X] désigne Yespace des polynômes à coefficients réels de degré inférieur où égal à m.
+Partie I.
+Soit A € Mn (RR) . Q.1 On pose C(A) = {M € Mn(R), AM MA} . Vérifier que C(A) est un sous-espace vectoriel de Mn(R) et que si (M1 Mz) € (C(A))? alors Mp Mz € C(A)  Ilest clair que 0 € €(A). Soient B,C € C(A) et a € R. On a A(aB + C) = aAB + AC = œBA + CA (aB +C)A. Soient ML, Mz € C(A). Alors AMp Mz M;AMz MpMzA, et par suite M1Mz € C(A).
 
-BIB-IPEIS
-BIB-IPEIS
+--- page 7 ---
+Q.2 D On suppose que A = U diag( /1, .  ,An) U-1 où U € GLn(R) et (X1, . . . , An) € R" Vérifier que pour tout P € R[X] P(A) = U diag(P(À1) .   , P(an))U-1. On a pour k € N, A* = Udiag(4 , u-- Soit P € R[X], tel que P(x) = Eaxk Alors
+P(A) = ZaxA* = ZaUdiag(4;    A )U-1 = u Eawdiag(a; . ,4) u-' k0 k=0 U diag Eaa{ É94s)u-' = udiag (P(n P(An)) U-1.
+Dans les deux questions suivantes , on se propose de démontrer le théorème d'interpolation de Lagrange: Soient m > 1 et @1,02, an des réels deux à deux distincts Q.3 D Montrer que Yapplication Rn-1 [X] 4 Rm P + (P(a1) P(am) ) est un isomorphisme de R-espaces vectoriels_ Il est clair que $ est linéaire Ker(4) si et seulement si (0, . - 0) , si et seulement si P(a1) P(am) = 0 si et seulement si le polynôme P est nul (Puisque le polynôme nul est Vunique polynôme possédant m racines distinctes et de degré inférieur à m _ 1) Donc Ker(#) = {ORm- [xj} et 4 est injective. Puisque la dimension de Rm-1[X] est égale à la dimension de R" , alors $ est un isomorphisme Q4 D Soient un intervalle de R contenant 01, . am et une fonction définie sur ] à valeurs réelles. Déduire qu'il existe un unique polynôme P € Rm-1[X] vérifiant P(a;) = f(a;) pour tout 1 <i < n1. Le polynôme P est appelé le polynôme de Rm-1 [X] interpolateur de aux points 01, _ Om - On a le m-uplet (f (a1) f(an)) € R" et 4 est un isomorphisme, donc il existe unl unique po- lynôme P Rm-1 [X] vérifiant $(P) (f(a1) "f(am) c'est à dire P(a;) f(a;) pour tout 1 < i < m. Dans toute la suite, on note go [0, +œ[ + R X H VX, Dt {M € Mn(R) diagonalisable dans Mn(R) et telle que Sp(M) € [0, +œ[}  st = {M € Sn(R) telle que Sp(M) € [0, +o[}  Q.5 D Soit Po le 'polynôme de R1[X] interpolateur de 80 aux points 1 et 4. Vérifier que Po 3X+3 Justifier que S+ € Dt Po € R [X], donc Po(X) = aX+bavec a et b réels. On a Po(1) 8o(1) = 1et Po(4) 8o(4) = 2 Ainsi a 4 b =let 4a + b = 2 D'où a = et b = 3 On sait que toute matrice symétrique réelle est diagonalisable dans Mn (R) donc S: C D" Q.6 D Soit M € Sn (R) . Montrer que M € St si et seulement si pour tout X € Mn,1  (R) , (X, MX) 2 0. Supposons que (X, MX) 2 0, V X Mn,1(R) et soit une valeur propre de M. Il existe X € Mn,] (R) {0} tel que MX = AX. Ainsi AxI? (X, MX) 2 0, ce qui implique que ^ 2 0. Réciproquement, supposons que M S+ . On sait qu'il existe une base orthonormée B (Vi,. Vn) de vecteurs propres de M. Notons 11 . An les valeurs propres (qui sont positives) de M associées aux vecteurs propres V1, . .  Vn Soit X € Mn,1(R), alors X = ExV; et par suite MX X;l;Vi. Ainsi (X, MX) = Zxza; 2 0.
 
-BIB-IPEIS
-BIB-IPEIS
+--- page 8 ---
+Partie II.
+Définition Soit A € Dt . Notons 41, . ~m les éléments deux à deux distincts de Sp(A) et P le polynôme de Rn-1 [X] interpolateur de g0 aux points 81, . (mn' On définit alors, la matrice racine carrée de A, notée VA, par VA = P(A).
+ILA)
+Q.7 D Soit B
+Montrer que B € D2 . Donner alors lexpression de VB.
+On a
+X = 5
+XB
+=X(X - 5) +4 = X2 _ 5X+4 = (X - 1)(X - 4)
+=1
+Ainsi Sp(B) = {1,4} et B admet deux valeurs propres distinctes, ce qui implique que B € D2 . Or, Po est le polynôme interpolateur de 80 aux points 1 et 4.Doù
+VB 4 Po(B) 5 (B + 212)
+Q.8 > Soit C une matrice de Mn(R) telle que 5C 4n C # 4In et C + In. Montrer que C Dt et que vC = Jc+31 Soit Q = X? 5X +4. On a Q(C) = 0 et Q = 1) : scindé sur Rà racines simples et par suite C est diagonalisable dans Mn (R) De plus , comme Q(C) = 0 alors Sp(C) c {À € R, Q(4) = 0} = {1,4} € [0, +o[. Ainsi C € D1 Si 1 4 Sp(C) alors comme C est diagonalisable, on aura C est semblable à diag (4, 4In et par suite C = 4In, ce qui est absurde. De même; si 4 4 Sp(C) alors comme C est diagonalisable, on aura C est semblable à diag(1,. ,1) In et par suite C = In, ce qui est bsurde. On obtient que Sp(C) = {1,4}. Ainsi Vc = Po(C) C+3" On considère, dans la suite, une matrice Dt On choisit U € GLn(R) et 11, *  * 'An € R tels que A = U diag (41, . . - An) U-1 . Q.9 D Justifier que pour tout 1 < i < n, Ai 2 0 et que VA = U diag (a1 U-1. {A1, .. . , An} Sp(A) € [0, +œ[ Considérons A;, - Aim les valeurs propres distinctes de A. Donc, il existe un unique polynôme P € Rm-1[X] interpolateur de g0 aux points Xiv Jim * Ainsi, pour 1 < i < n, P(a;) go(^;) VA; car Ai € {Xiv' - ,Aim } , et daprès la question Q2), on a P(A) Udiag(P(A1)  - P(an)U-1 Udiagl A1,  Vin)U-1. Q.10 D Déduire que VA € D: et que (vz)? =A. VA est semblable à une matrice diagonale, donc elle est diagonalisable et ses valeurs propres sont celles de diag(vAv. VAn) qui sont positives et ainsi vA D# - De plus VA Udiag( v41 VAn JU-1 Udiag(41, .  . , An)U-1 = A.
 
-BIB-IPEIS
-BIB-IPEIS
+--- page 9 ---
+Q.11 D Soit R € Dt Montrer que R? € D: et que VR? = R Si R € Dt , alors il existe &1, . - &n € Rt et V € GLn (R) , tel que R = V diag("1, - Qn) V-1 . Donc R2 = Vdiag(a? . .  42) V-1 et R? € D: . Daprès la question précédente
+VR? = V diag Va} . Va} V-1 = R.
+Q.12 D Déduire que VA est lunique matrice R € Dn qui vérifie R2 = A. D'après la question Q10), on a VA Dt et vérifie (vA)? A. Soit R € D* et vérifiant R? = A. Alors, d'après la question précédente R = VR? VA: Q.13 D On suppose que A S: . Montrer que VA est lunique matrice R € S+ vérifiant R? = A. Puisque A Sn , alors A = Udiag(/1, ~,An) U avec U € On(R). Ainsi
+VA = Udiag
+nn)U et 'VVA = Udiag( vA1,  Vin)U = VA
+Par suite VA € S et elle est [ unique matrice de S# daprès la question précédente: Q.14 D Soit M € GLn (R). Montrer que 'MM€ StnGLn(R) etque VMM M-1 € On(R) On a {('MM) 'MM, ainsi 'MM € Sn(R). De plus , pour tout X € Mn,1 (R), on a
+X, 'MMX) 'X'MMX
+(MX)MX = ||MxIz 2 0.
+Doù 'MM St - De plus det('MM) (det(M))? VMM € Sn (R) daprès la question Q13). D'autre part
+car M
+GLn(R). Ceci implique que
+'MMM-1) VMMM
+'M-Iv'MMVMMM 'M-1 'MMM-1 In.
+'M-IvMMvMMM-1
+Ce qui implique que VMMM-1 € On (R). Q.15 D Application On considère un sous-groupe G du groupe GLn(R) tel que On(R) € G et soit M € G. Montrer que VMM € G puis que 'M € G. Il existe U € On(R) € G tel que FMMM-1 U, ce qui implique que V'MM MU € G puisque Met U € G et G est un groupe. Par suite 'MM fMM)2 € G et 'M = ('MM)M-1 € G.
+IIB) Pour A € Mn (R), on rappelle que la matrice exponentielle de A est définie par e4 = >k k=0 Dans la suite, on fixe une matrice A Di et on considère le système différentiel d'inconnue X : R = Mu,1(R) X" (t) = AX(t) X(O) Xo X' (0) = 0 où Xo € Mul (RR).
 
-BIB-IPEIS
-BIB-IPEIS
+--- page 10 ---
+Q.16 On considère la fonction définie sur R par : Yo(t) = 2 (e'vz +e-tvA) Xo. Montrer que Yo est deux fois dérivable et qu'elle est une solution sur R du système (S) . On sait que pour tout M Mn (R), la fonction H etM est dérivable sur R et sa dérivée est t + MetM . D'autre part, Yo(t) = 4L(e'vm +e~IA) où L Mn(R) 7 Mn,1  (R), M + MXo qui est linéaire donc Yo est dérivable et
+Yo(t) 4L(vAev7 VAe-tvA) 2  (v6e'vA _ VAe-tvÆ)Xo VA(e'vn _ e-tv7)Xo 24(e'v7_ =e-tv6) 2
+avec L1 Mn(R) + Mn1(R) M + VAMXo qui est aussi linéaire. Donc Yo est deux fois dérivable et Y'' (t) = 2L (vAe'v7" VAe-tv") {4(v +e~t7)Xo: ~ Ainsi YJ' AYo. De plus Yo(0) = Xo, Y'(0) = 0. Ainsi Yo est une solution de (S) Soit Y : R  Mn,1(R) une fonction deux fois dérivable et solution du système (S). On pose pour tout Y(t) = Yo(t) t € R, Z(t) = qui _ eppartient à M2n,1(R) et B = qui appartient à Mzn(R). Y'(t) = Y{(t) Q.17 D Montrer que pour t € R, Z' (t) = BZ(t) et Z(0) = 0. Yo(0) Xo Xo ) Puisque Y est une solution de (S), alors Z(0) et Z'(t) = Y{ (0) Y'(t) = Yo(t) Y'(t) = Yo(t) BZ(t)  Y"(t) = Yo" (t) A(Y(t) = Yo(t)) , R Q.18 D Déduire que Z est identiquement nulle sur R puis que Y Le problème Z' BZ et Z(0) 0 est de Cauchy donc il admet une unique solution qui est la fonction Z 0. Ainsi Y = Yo. Q.19 D Soit L la fonction définie sur R par L(t) IlYo(t)H2 . Montrer que L est deux fois dérivable sur R et que pour t € R,L" (t) = 2( AYo(t) , Yo(+) ) +2/Y;(t)Il?. Déduire que si A S alors L est convexe. L(t) = B(Yo(t), Yo(t)) où B = qui est bilinéaire donc L est dérivable et Z' (t) B(Yo(+), Yo(t)) + B(Yo(t), Yo(t)) = 2(Yo(t) Y6(t)) . De plus , comme Yo est deux fois dérivable alors Yf est dérivable et donc L est deux fois dérivable et 1"(t) = 2(Y6(t), Yo(t)) + 2(Y8 (t), Yo(t)) = 2HY6(t)H2 + 2(AYo(t) , Yo(t)) . Si A € St , alors L" (t) = 2 ((AYo(t),Yo(t)) + IlYo(t)H/?) 2 0 d'après la question Q6) et ainsi L est convexe.
+IIC) Soit A € S n GLn(R) et Vo € Mn,1 (R). On considère Vapplication f Mn,1 (R) 4 R définie, pour tout X € Mn,1 (R) par f(X) 2(X, AX) (Vo, X) . Q.20 D Soit X € Mn,1(R). Montrer que pour tout H € Mn,1(R)
 
-BIB-IPEIS
-BIB-IPEIS
+--- page 11 ---
+Déduire que f est différentiable sur Mn,1 (R) et que sa différentielle en un point X est donnée par
+Df(X)H = (H,AX = Vo) , FH € Mn,1 (RR) .
+On a
+f(X+ H) = f(X) 2(X+H,A(X+ H)) = (Vo X+ H) = 2(x,AX) - (Vo,X) ) ((X, AH) + (H,AX) + (H,AH) ) = (Vo, H) 
+Puisque A est symétrique, alors (X, AH) = (H,AX) et ainsi
+f(X+ H) = f(X) (H,AX = Vo) + (H,AH) 
+Lapplication H 4 (H,AX Vo) est linéaire et | (H, AH) || < IlHIL IlAHI o(H). Ainsi f est différentiable et Df (X)H (H,AX - Vo) Q.21 Montrer que f admet un minimum sur Mn,1 (R) atteint en un point unique qu'on déterminera Si Xo est un point extrémum de f , alors Xo est un Point  critique de f . Or Df (Xo) = 0 est équivalent à AXo Vo. Puisque A St , alors AH) 2 0 et parsuite f (Xo + H) f (Xo) = 2 (H,AH) > 0 Ainsi f atteint son minimum au point Xo A-1vo qui est lunique point , critique de f
+Dans la suite, on pose $ VA et on considère un sous-espace vectoriel F de Mn,1(R) Q.22 D Justifier que S € GLn (R) et vérifier que f(X) < ZIlsx- S-1Vo|l2 2s-'vol? pour tout X € Mn,1 (R) VA? A, donc (det(vA))2 = det( A) > 0. 7S Puisque A € S1 , alors VA € S+ et (SX,Y) = (X,SY) pour tous X, Y. Par suite
+Jlsx - s-1Vol? Zs-1vol? 2 (Isxi? + Ils-1voll? _ 2(sx,s-1vo) ) Zls-ivol? 2(vAX, VAx) (X, Vo) 2(X,AX) _ (X, Vo) = f(X)
+Q.23 On pose Fs {SX, X € F} . Montrer qu'il existe un unique élément Yo € Fs tel que
+Ilyo = s-1voll? min |lY _ s-1voll2 . YEFs
+On vérifie que Fs est un s.ev de Mn,1 (R). Donc daprès le théorème de la projection orthogonale le vecteur Yo qui est le projeté orthogonal de S-1Vo sur Fs est Yunique élément de Fs qui vérifie IlYo S-1voll? min |lY _ s-1Voll2. YeFs Q.24 D Déduire que la restriction de lapplication f sur F admet un minimum atteint uniquement au point
 
-BIB-IPEIS
-BIB-IPEIS
+--- page 12 ---
+X1 S-IYo. Il est clair que Yo est lunique élément de Fs qui vérifie
+IlYo = s-1voll? _ Ils-1voll? min llY _ s-1Voll? _ Ils-1voll? min Ilsx = s-1voll2 _ Ils-1voll? YeFs Xef min f(X) XeF
+Puisque Yo € Fs est unique et $ réalise une bijection de F vers Fs, alors il existe un unique X1 tel que SX1 Yo, ce qui implique f (X1) = min f (X) et X1 est lunique élément réalisant ce minimum. Xej
+Partie III. (indépendante des sous-parties IL.B et ILC) Soit M € Mn(R). On appelle couple de décomposition de Dunford de M; tout couple (D,N) de matrices de Mn(R) vérifiant M = D+ N, D est diagonalisable dans Mn (R), N est nilpotente et DN =ND. IILA) Dans cette partie, on considère une matrice A € Mn (R). On suppose que A admet un couple (D,N) de décomposition de Dunford et on note 4m les valeurs propres deux à deux distinctes de D. Q.25 D Soit ^ € R Sp(D). Montrer que det (AIn D)-IN) =1 puis que Xa (4) = Xp (4 ). Puisque D et N commutent, alors N et (AIn D)-1 commutent:. Ainsi ((aIn D)-IN) (AIn D) -"N" 0, ce qui implique que (JIn D)-IN est nilpotente et elle semblable à une matrice triangulaire supérieure stricte. Donc (AIn < D)7 est semblable à une matrice triangulaire supérieure avec la valeur 1 sur la diagonale, d'où det (AIn ~D)-IN) = 1 D'autre part, XA(4) det( AIn = D - N) det ((nn-D)(In (AIn D)-IN)) det( AIn D) det In (AIn D)-IN) XD(a) 52 Q.26 D Montrer alors que XA Xp et déduire que A est trigonalisable dans Mn(R) XA XD est un polynômes qui admet un nombre infini de zéros, donc il est nul et par suite XA XD. Puisque D est diagonalisable, donc XA XD est scindé et donc A est trigonalisable.
+Q.27 D Soit 1 < i < m. Vérifier que ( A Q;In)" = 5ckv"-*(D Q;ln)k En déduire que Ea; (D) € Ker ((A = &; In)") .
+N" = 0, N et D = a;In commutent, donc ( A QiIn)" = (N+D = Riln)" = Eckn"-k(D _ a;In)* K=0 N" + MckN"-k(D a;In)k = = Ecuvn-k(D _ a;In)* Il est clair que Ea,(D) € Ker ((D = a; In)* ) pour tout k 2 1 et donc Ea; (D) € Ker ( (A Q; In)") 
+Q.28 Montrer que EKer ( ( A a; In)") est une somme directe puis que, pour tout 1 <i < nt, isl
 
-BIB-IPEIS
-BIB-IPEIS
+--- page 13 ---
+Ea; (D) = Ker ( ( A Q; In)")  Les polynômes (X a;)sism sont premiers entre eux deux à deux, donc d'après le théorème de décomposition des noyaux Ker ((A - a; In)") = Ker II(A a; In)" i=1 [Puisque D est   diagonalisable, donc dim Ea, (D) < 5 dim Ker ( ( A = &; In)") dim Ker II(A ai In) n < n. Ainsi pour tout 1 < i < m, dim Ea, (D) = dim Ker ( ( A &; In)") et par suite Ex; (D) = Ker ( ( A Q; In)") On suppose que (D1, N1) est un autre couple de décomposition de Dunford de A. Q.29 Montrer que Sp(D1) {a1, am} et que, pour tout 1 < i < m, Ea; (D1) = Ea (D) On a XA XD XD. Donc Sp(D) = Sp(D1) De plus, Ea D1) Ker ( (A = œ; In)") = Ec (D). Q.30 D Montrer alors que pour tout X € Mn,1l (R), DiX DX. Déduire que D1 = D et Ni = N. On conclut qu'une matrice A €Mn(R) admet au plus un couple de décomposition de Dunford. Soit (V1, Vn) une base de vecteurs propres de D associés aux valeurs propres /1, - An- Puisque Ec; (D) Ea; (D1 ) , alors DVi D1V; pour tout 1 < < n. Ainsi D1 D et par suite N = A - D = A - D1 N].
+IILB) On note Tn+* = {M € Mn(R) trigonalisable dans (R) telle que Sp(M) cJo; +œ[} . On considère, dans cette Partie, une matrice A € Tn-* . On note &m les éléments deux à deux distincts de Sp(A) et u Yendomorphisme de R" canoniquement associe à A. Q.31 Montrer qu'il existe des entiers positifs Y1, . ~ Tm tels que R" 1 Ker ( (u a; IdR" )" ). Justifier que pour tout 1 < i < n, Ker ( (u a; IdR" )' ) est stable par u. Puisque 1 est trigonalisable, donc le polynôme caratéristique associé à 1 est scindé sur R et ilest de la forme Xu II(x ~;)" . Les polynômes (X ai)"  étant premiers entre eux deux à deux, donc iel d'après le théorème de Cayley-Hamilton
+R" Ker IItu - œ;IdR" )" @Ker ( (u =(i IdR" )" )  i=el
+Puisque u commute avec (u a;IdR" ) '; , donc Ker ( (u &; IdR" ) est stable par 1. Pour tout 1 <i < m, on pose F; Ker ( (u Q; IdR" )" ) , d; = dim F; et on note par u; lendomorphisme de F; induit par u. Q.32 D Justifier que, pour tout 1 < i < m, Yendomorphisme u; œ; IdF; est nilpotent. Déduire qu'il existe U € GLn(R) telle que A U diag (a1ld, + N1 . Qm Iam + Nm) U-1 où pour
 
-BIB-IPEIS
-BIB-IPEIS
+--- page 14 ---
+tout 1 < i < n, N; est une matrice nilpotente de Md; (R). Pour tout x € Fi, (u; œ; IdF;)"  (x) 0, ainsi (I; œ; IdF;)i 0 et ainsi (u; Q; IdF;) est nilpotent: On a ui (ui œi IdF;) + &; IdF; . On considère une base B; de F; Alors Mp (u;) N; 1 Q; Ia; avec N; soit nilpotente. Soit B (B1, . Bm)  Alors B est une base adaptée à la décomposition R" €F; et MB(u) diag (a1ld + N1, Om Idn + Nm) doù il existe U € GLn(R) telle que A i=z1 U diag ("1Id, + N1, amIan + Nm) U-1. Q.33 > Montrer que A admet un unique couple de décomposition de Dunford (D,N) en donnant son ex- pression en fonction de U. Justifier que D € D: A = U diag (41Id,, amIam) U-1 + U diag (N1 Nm) U-1 = D+N. D = U diag(a1 Idv- Qm Ian) U-1 donc D est diagonalisable dans Mn(R). Comme N1, - Nm sont nilpotentes donc il existe p1' . Pm tels que NP' = 0 pour tout i. On pose p max Pi. Alors NP U diag(N8 , NR)U-1 = U diag(0, 0) U-1 = 1<i<m Donc N est nilpotente. De plus
+ND = U diag( N1
+Nm) diag(a1 Id,' Qm Iam) U-1 =U diag(a1N1, .  &n Nm ) U-1 DN.
+D'autre part Sp(D) = {41,
+am}
+Pour tout k € N, on note Pk le polynôme de Rm-1 [X] vérifiant pour tout 1 < i < m, Pk(ai) 80*) (a;), où 80 est la fonction définie dans la partie L, 86 g0 et, pour tout k € N* , 80 désigne la dérivée k-ème (sur Jo, +œ[) de g0. On note go(A) = 2 Pk(D) Nk Po(D) + 'Fxg  k! N. k0 où (D, N) est le couple de décomposition de Dunford de A. Q.34 D Montrer que Po(D) = VD et déduire que si A est diagonalisable dans Mn(R), alors go(A) VA. Désormais , Yexpression g0( A) sera notée vA et appelée racine carrée de A. Puisque Sp(D) {41,. am} € R et Po est le polynôme interpolateur de 80 aux points 41,~ Qn1 , alors Po(D) = VDdaprès la partie IL Puisque A est diagonalisable et la décomposition de Dunford est unique, alors A =D+ Navec D = Aet N = 0. Donc 8o(A) Po(D) = VD = VA Q.35 Montrer que pour tous k 2 2et > 0, on a ;70-788()88-0() = 0.
+On a (go-g0) (x)
+x. Pour k 2 2, on a (80-80) () (x) = 0. Or (80-80) () (x) =
+c.84 '(x) 88*-9 [(x)
+doù le résultat.
 
-BIB-IPEIS
-BIB-IPEIS
+--- page 15 ---
+Q.36 Déduire que, pour tout k 2 2, 5ik-7i P;(D) Pk-j(D) = 0 et vérifier que 2 Po(D) P(D) = In Notons 11 , An les valeurs propres de D comptées avec leurs ordres de multiplicités - 5ik P;(D) Pk-i(D) (Ei@-)PR-i) (D) =U diag Eik=)Pa1) R-i(^s) 7057B4,) P-,4,) ) u-' =U diag Sik' 7i88(4,) 88-P(4s) "( = )48"  (An) 88-1  '(,)u' =0. Po(D) = U diag (vnz Vin) u-1 et Pi(D) = U diag (80(a1) 'go(an)) u-1 = u diag 'Z)u-! Donc Po(D)P(D) = U diag 2 U-1 2 Q.37 D Montrer que, pour tout (k,j) € N? Pk(D) Ni Ni Pk(D) puis établir que (vA)2 = A. On a D € C(N), donc Di € C(N pour tout i € Net par suite P(D) € C(N') pour tout polynôme P daprès la première question. (go(A))2 (2: uu25 47 R(D)N' PA(D)N 211 P(D) P,(D) vi+i  2 Pi(D)P;(D) Nk 60i!j! {=0 Ozij<n 6 2 2 Pi(D)P;(D) Nk . O<i,jz" i4j=k
+Or pour 0 < k < n = 1, {(i,j) tel que 0 < i,j < n, i+j = k} = {(i,k =i), 0 < i < k}  Alors (go(A))? = (Po(D))? + ( Po(D) Pi(D) +R(D)R(D)n+2(ÉJT'7 BD)P-4D) ) Nk D+ N = A. Q.38 D Montrer que VD, 2xP(D) N*~ est un couple de décomposition de Dunford de VA.
+VD € D# donc diagonalisable et
+Px(D) Nk est nilpotente et ils commutent, donc cest une de décomposition de Dunford de vA. Q.39 D Déduire que VA € Tnt Xvz Xv5: Donc VA est trigonalisable et Sp(v6) = Sp(vD) € [0, +œ[ Dautre part VA? A € GLn(R) donc VA € GLn (R) et par suite 0 4 Sp(vA). Exemples
 
-BIB-IPEIS
-BIB-IPEIS
+--- page 16 ---
+Q.40 D Soit M € Mn(R) une matrice nilpotente et ^ > 0. Justifier que AIn + M € Tn+t* et montrer que
+AIn + M = 2548(4) M*. k=0
+AIn + M = D+ Navec D = AIn qui est diagonalisable et N M qui est nilpotente donc AIn + M est trigonalisable et Sp(AIn + M) = Sp(AIn) = {1} D'après Yunicité de la décomposition; VAIn + M 2 JP (AI,) M* où Pk est le polynôme de k! k=0 Ro[X] tel que Px(^) = (4) donc Px = 80 et par suite Pk(AIn) 80* (A ) In. Alors ViIn + M = 7i88(4) M* k=0
+Q.41 D Soit A =
+Vérifier que A € T3+* et donner la matrice VA
+On a A = Is + N avec N
+Un calcul simple donne N? = et N3 = 0. ; Donc VA 80(1)Is + 8(1)N + 288 (1)N? = 1n? 2 { Fin de lépreuve *

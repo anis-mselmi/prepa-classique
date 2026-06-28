@@ -1,20 +1,282 @@
+--- page 1 ---
+Instructions Cette épreuve comporte 11 pages + 1 page vide. Tout résultat doit être écrit dans les cadres adéquats. L'usage des calculatrices électroniques de poche non programmables est autorisé Aucun échange entre les candidats n'est autorisé. Tout calcul doit être précédé d'une expression littérale. Les résultats numériques sans unité ou avec une unité fausse ne seront pas comptabilisés. En cas de besoin utiliser la page vide en fin de cahier. Dans ce cas, il faut le signaler dans la case allouée à la réponse remise en fin de cahier. Si au cours de Vépreuve; un candidat 'repère ce qui lui semble être une erreur dénoncé, il la signale sur sa copie et poursuit sa composition en indiquant les raisons des initiatives qu'il est amené à prendre.
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 12 PAGES NUMEROTÉES 1 sur 12, 2 sur 12, 12 sur 12
+Concours Physique et Chimie Chimie inorganique
 
+1
 
+Session Juin 2019 Page sur 12
 
+--- page 2 ---
+Épreuv d chimie section QC
+Notations et données numériques États des constituants physicochimiques (sd) solide (liq) liquide ; (g) gazeux Lorsque aucune mention n'est spécifiée; les ions sont supposés implicitement en solution aqueuse. Les gaz sont considérés comme parfaits: Notations Xi la fraction molaire de < i > dans la phase liquide. Yi la fraction molaire de < i > en phase vapeur Lexposant signifie corps pur. ESH électrode standard à hydrogène.  ECS électrode au calomel saturé Constantes physiques Constante des gaz parfaits R = 8,314 Jmotl KI Constante d'Avogadro NA 6,02- 'x1023 moll Constante de Faraday F 96500 €. moll Pression standard pe =1bar Données numériques Masses molaires atomique (en g.motl) de Pb 207,19 Te 127,60. Enthalpies molaires standard de fusion supposées indépendantes de la température. de Te solide 4 fus Hæ (Te,sd)=17,38 kJ . mol-1 de Pb solide 4fus H% ( Pb,sd ) =4,77 kJ _ mol-1 Enthalpie molaire standard de vaporisation de Pb liquide Avap H ( Pb,liq ) =179,50 kJ mol-1 L'enthalpie libre standard de formation de Te solide 4,Ge (Te,sd) =0 kJ . mol-1 supposée indépendante de la température. 298K, Produit ionique de Veau Ke =1014. 1 Les pKa de HzTe et HTe ont pour valeurs; respectivement 2,64 et 11,00. Potentiels redox standard (à pH 0) Couple Te(sa) Tez Tez  /Te? Tez /Hz> Te Te?  HTe H,0/H2(e) E" (V/ESH) ~0,C 840 ~1,445 ~0,640 ~0,800
+, 1
+RxT Ln(x)=0,06x ogio (x) (en V). F Conversion T(K) =0( C)+273
+La recherche autour du tellure a souvent été freinée par lodeur caractéristique dail pourri que possède cet élément. Malgré cela, les applications du tellure ne manquent pas: Sous forme de suboxyde, le tellure est utilisé dans le revêtement des DVD et autres disques réinscriptibles: Des couches minces des panneaux photovoltaïques sont composées de tellurure de cadmium: Sa capacité à transformer la chaleur en électricité, quand il est sous forme de tellurure de bismuth; est employée dans les systèmes de réfrigération portables
+Page 2 sur 12
 
+--- page 3 ---
+Éprur d chimie section QC
+Étude du système Pb-Te La figure ci-dessous représente le diagramme d'équilibre de phases solide-liquide du système Pb-Te sous la pression de 1 bar. On suppose que les mélanges sont idéaux.
+1000
+1000
+9249C
+900-
+900
+800-
+800
+700 | 600- 500 327,5c 400 326,85 300
+700
+600
+500 M9,57C 400
+410,9C
+83,4
+300
+200
+200 100 Te
+1 10 20 30 3440 50 60 70 Pb pourcontaoo magaiqueen Te 1 Questions préliminaires 1 Que peut-on dire de la solubilité du tellure dans le plomb à létat solide ?
+0
+2) Déterminer la formule du composé_défini à %WIe 389 et préciser la nature de sa fusion
+Page 3 sur 12
 
+--- page 4 ---
+Épreuw d chimie section QC
+Cristallographie Létude cristallographique du composé défini de la question précédente, montre qu? 'il cristallise dans le système cubique avec un paramètre a = 646,1 pm. Les atomes de tellure sont situés aux sommets et aux centres des faces de la maille alors que les atomes de plomb occupent les positions de coordonnées réduites suivantes (1/2,0,0) ; (0,0,1/2) ; (0,1/2,0) et (1/2,1/2,1/2) 3) Donner une représentation en perspective de la maille et de son contenu:
+4) Déterminer le nombre de motifs (groupements_formulaires par maille)
+p 1
+5) Déterminer la coordinence de Pb_par rapport à Te
+Donner Rexpression puis calculer la masse volumique de ce composé
+La diffraction d'un rayonnement X, de longueur d'onde ^ = 154 pm; sur ce cristal donne une réflexion du premier ordre avec un angle entre le faisceau incident et le faisceau réfléchi égal à 23,89 7) Déterminer les indices de Miller de la famille de plans réticulaires diffractant correspondant à cette réflexion;
+Page 4 sur 12
 
+--- page 5 ---
+Épreuve de chimie section QC
+Étude des caractéristiques du diagramme binaire 8) Préciser la nature des_phases_présentes dans les domaines numérotés @ et @u). Domaine (1) Domaine (II) 9LQuappelle t on le point correspondant au pourcentage pondérale 83,4% en Te ?
+10) Écrire Péquation de la transformation obtenue à 410,9 C
+11) On chauffe 5 mol dun mélange binaire Pb-Te de fraction massique en Te, wTe = 0,6 jusqu' à la température 300"C. a) Déterminer à cette température la composition et la quantité de matière en mol de chacune des phases_présentes:
+1 1
+b) Déduire le nombre de mole de Te dans chacune des phases
+c) Tracer Pallure de la courbe danalyse thermique relative au refroidissement de ce mélange de la température 800PC jusqu'à 3009C en indiquant les phénomènes observés
+Page 5 sur 12
 
+--- page 6 ---
+Épreuve d chimie section PC
+Étude des équilibres solide-liquide 12) Quelle relation doit vérifier les potentiels chimiques de Te au point Msur le diagramme 2
+a) Établir en ce point Texpression donnant Tentropie molaire de fusion en fonction de la température
+b)Calculer sa valeur
+13) Quelle relation doit vérifier les potentiels chimiques de Te au point Nde coordonnée (90,432) sur le diagramme ?
+a) Déduire de la relation précédente, Texpression donnant 1a fraction molaire de Te en phase liquide en équilibre avec le_ solide
+bDéterminer alors la valeur du potentiel chimique standard de Teqiq) à 432 C
+Diagramme de Pourbaix On se propose de compléter la construction du diagramme potentiel-pH simplifié du tellure pour une concentration totale en atomes de tellure dissous Ctra = 5,25x103 molL-' Les entités considérées sont Te(d)? TeOz(sd) ; Te(a)? HTeOra Ie2{a Iea, H,Teca) " et HIe(aq) Sur les droites frontières entre les entités dissoutes, la convention choisie est légalité des concentrations en élément tellure.
+Page sur 12
 
+--- page 7 ---
+Épreuv de chimie section QC
+13
+Tet+ 1
+0,7
+0,4
+0,1
+40,2 5 05 0,611 "0,8
+Te(so) (1,61,-0,767
+ETe
+~1,1
+1,4
+1 ~1,7 ~2 1 9 8 4 8 8 8 8 8 8 8 8 4; 98 : pH I-Pour les valeurs de pH <1,61 1)Donner léquation de la frontière E1 séparant les espèces Telsd) et H2Telaq2
+2) Déterminer la valeur du potentiel standard délectrode E du couple (Tera)l 'HzTe(aq)
+Page 7 sur 12
+TeO2(sd)
 
+--- page 8 ---
+Épreuve & chimie section QC
+I-Pour les valeurs de pH 21,61 les entités Tezaq)? Tezap H,Teraq) et HIe(aq) par nombre doxydation croissant en 3) Classer Te(d)? fonction de_pH et donner les différentes_positions (valeurs de_pHD) des_frontières_verticales:
+Identifier les différents couples redox mis en jeu et exprimer leurs potentiels en fonction de pH si nécessaire
+;
 
+Page 8 sur 12
 
+--- page 9 ---
+Épruv d chimie section QC
+5) Compléter et indexer le diagramme potentiel-pH du tellure 13
+Telt
+9
+0,7
+TeO2(sd)
+0,4
+0,1
+0,2 { 05 0,611 0,8
+Te(sd) (1,61,-0,767
+HTe
+~1,1
+~1,7
+1 1
+2 3 8 3 8 8 8 3 8 8 8 8 4 3 4 : : pH
+6) Discuter la stabilité de l'ion Te2?- en solution aqueuse désaérée et écrire les équations-bilans des réactions correspondantes
+Page  9 sur 12
 
+--- page 10 ---
+Éprruve d chimie section ŒC
+Étude du comportement du couple redox HTeOz*ITe : Les expérimentations électrochimiques ont été conduites dans une cellule classique à trois électrodes Lélectrode (1) est une électrode au calomel à KCI saturé (E 0,244 VIESH). L'électrode (2) est une électrode de tellure. Lélectrode (3 est constituée dun fil de platine_ Indiquer le nom des électrodes (2)et (32
+Électrode (1)
+Électrode (2)
+'électrolyte
+Électrode (3)
+des appareils électriques (4)
+et (6) reliés à ces électrodes
+(5)
+(6)
+On a enregistré, à Paide du montage ci-dessus, la courbe courant-potentiel dune électrode de tellure plongeant dans une solution aqueuse acide nitrique à (1,00 molL- pour une concentration en HTeO2t de 5,25 10-3 molL-!  600 i(uA) portion (1)  1 portion (2)
+450
+Zon
+2n @
+300
+150
+70o
+200
+200
+400
+600
+E(mVÆCS)
+4150
+[HTeor] =5,2510 'mol:' [HnOs] =1,OOmol'
+8) Indiquer pour chaque zone de la courbe le phénomène cinétiquement limitant; Zone (a)
+Zone ()
+Page 10 sur 12
 
+--- page 11 ---
+Épruv de chimie section QC
+9) Indiquer pour chaque _portion de la courbe_le nom de_la demi-réaction prépondérante: Portion (1)
+Portion (2) 10) Identifier les demis-réactions électrochimiques mises en jeu et placer les entités électroactives dans leurs cases convenables sur la figure de la page 10
+MQuels sont les phénomènes responsables de Papparition des paliers (plateaux_sur une courbe i-E 2
+12De quels) paramètre(s_dépend la hauteur de ces_paliers
+13) Est-il   possible de déduire graphiquement la valeur du   potentiel déquilibre Eio ( HTeO; /Te) ? Justifier la réponse.
+courant nul
+1 14) Prévoir la valeur du potentiel E;=o ( HTeOz /Te) obtenue expérimentalement sachant que le potentiel mes standard délectrode du couple HTeO? /Te vaut E* ( HTeOz /Te) =0,551V ESH Placer la valeur trouvée sur la figure de la page 10
+15) En déduire, à courant nul, la valeur de la a) Surtension anodique n0,a (HTeO2t/Te)de loxydation de Te
+b) Surtension cathodique nloc HTeO' /Te) de la réduction de HTeO2
+FIN DE LÉPREUVE
+Page 11 sur 12
 
+--- page 12 ---
+Instructions Cette épreuve comporte 10 pages. Les trois problèmes sont indépendants: Tout résultat doit être écrit dans les cadres adéquats. Aucun échange entre les candidats n'est autorisé. Si au cours de Fépreuve, un candidat repère ce qui lui semble être une erreur d'énoncé, il la signale sur sa copie et poursuit sa composition en indiquant les raisons des initiatives qu'il est amené à prendre.
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 10 PAGES NUMEROTÉES
+1 sur 10, 2 sur 10,
+10 sur 10
+Concoung Physique-Chim e Chimie organique
+Page 1 sur 10
+Concours Physique-Chimie- Session MailJuin 2019
 
+--- page 13 ---
+Notations et données numériques
+Numéros_atomiques Z H =1, C =6, N = 7,0 = 8, Br = 35
+Table de RMN_du proton
+Protons   CH;
+8 ppm
+Protons   CH2 CHz-C 0.9 CHz-C-0 1.3 CH2-C-C 1.6 CH2-Ar 2.1-2.3 CHz-CO-R 2-2.2 CH2-NH2 2.1-2.3 CH2-0 3.3 CHz-O-CO CH2-CI CHz-Br CH2-I
+8 ppm Protons CH 1.3 CH-R 1.9 CH-C-0 2.3 CH-C=C 2.6-2.8 CH-Ar 2.3-2.4 CH-CO-R 2.4-2.5 CH-N 3.2-3.4 CH-0 4.1-4.3 CH-CI 3.6-3.7 CH-Br 3.4-3.5 CH-I 3.2-3.3
+8 ppm 1.5 2.0 2.6 3.0 2.7 2.8 3.7-3.9 4.1-4.3 4.2-4.4 4.3-4.4
+CH;-C CH3-C-0 CH;-C=C CH;-Ar CH;-CO-R CHz-NH2 CH;-0
+Protons portés par un hétéroatome R-OH Ar-OH R-NH2 (R-NH-)
+8 ppm
+0.7-5.5 4.5-7.1 0.6-5
+Table dInfra-Rouge
+Liaison Nombre dondes en cm CC 1600-0650 CC 2100-2220 O-H libre 3500-3700 C-O-C (éthers, esters) 1050-1260 C-0 cétones,aldéhydes 1650-1740 C=O acides carboxyliques 1660-1740 C-0 esters 1700-1750 C-0 halogénures d' acides 1785-1815
+Problème 1 points) Dans le but de déterminer la structure semi développée dune substance inconnue A, de formule brute CsHpsBrOz, on effectue sur A une spectroscopie Infra-Rouge et une autre RMN 'H. On obtient les résultats suivants
+Infra-Rouge
+Plusieurs bandes d absorption dont
+Page 2 sur 10
+Concours Physique-Chimie- Session Juin 2019
 
+--- page 14 ---
+Une bande vers 1748 cm Une bande vers 1230 cm
+RMN du proton
+Un singulet vers 0.94 ppm (9H) Un triplet vers 1.29 ppm (3H) Un quadruplet vers 4.15 ppm (2H) Un singulet vers 4.37 ppm (IH)
+Le nombre de protons correspondant à chaque signal; est indiqué entre les parenthèses_
+1 - Indiquer pour chaque signal RMN, le groupe de protons équivalents pouvant correspondre à ce signal et expliquer à chaque fois sa multiplicité. 
+Page 3 sur 10
+Concours Physique-Chimie - Session Juin 2019
 
+--- page 15 ---
+2- Indiquer les groupes d'atomes correspondant aux bandes Infra-Rouge.
+3-  Proposer alors une structure semi-développée pouvant correspondre à A, en indiquant prés de chaque groupe de protons équivalents; le déplacement chimique correspondant.
+Problème 2
+points)
+On considère la molécule Al, représentée ci-dessous
+CH,
+La molécule Al est-elle chirale justifier la réponse
+2 - Représenter Féquilibre conformationnel de Al et en déduire, en justifiant la réponse, le conformère le plus stable.
+Page 4 sur 10
+Concours Physique-Chimie- Session Juin 2019
 
+--- page 16 ---
+3- Déterminer les configurations absolues des carbones asymétriques de Al. Les réponses doivent être justifiées.
+Donner le nom complet de Al.
+5- Représenter la projection de Newman de Al, selon les sens indiqués par les flèches Br
+CH
+A1
+Page 5 sur 10
+Concours Physique-Chimie - Session Juin 2019
 
+--- page 17 ---
+L'action sur Al, de ]éthanolate de sodium (EtO Na* ), en solution concentrée dans l'éthanol et à chaud, conduit à la suite dune réaction bimoléculaire; au composé B (C-H12), avec un faible rendement 6-] - Quel est le type de réaction ayant conduit à B ? Quel est son ordre ? Justifier à chaque fois la réponse .
+6-2 - Donner (sans justifier) , la structure semi-développée plane possible de B.
+6-3- La réaction précédente (obtention de B), obéit-elle à la règle de Zaytzev Expliquer.
+6-4 Expliquer le faible rendement
+Page sur 10
+Concours Physique-Chimie- Session Juin 2019
 
+--- page 18 ---
+6-5- Proposer un réactif permettant à partir de Al, dobtenir le produit unique C :
+Br
+CN
+CH
+CH
+A1
+6-6- quel est le type dela réaction et son ordre Justifier la réponse.
+Problème 3 (8 points) On se propose de synthétiser le cétoester I final, à partir du but- 1-yne A, en plusieurs étapes. CI
+HiI HsC
+NaNH2
+H2
+C2Hs 7
+ECH
+B
+El
+sel
+éther
+palladium de Lindlar (empoisonné)
+Page 7 sur 10
+Concours Physique-Chimie- Session Juin 2019
+
+--- page 19 ---
+1 - Donner les structures semi-développées planes des composés B, Det El.
+2 - Détailler le mécanisme d'obtention de D, en supposant un processus d'ordre 2. En déduire alors la structure spatiale de Cram de D. (le groupe phényle peut être représenté par Ph).
+3 - Donner la structure spatiale de El. Quelle est la configuration (ZÆE) de sa double liaison C-C ? Justifier .
+Page 8 sur 10
+Concours Physique-Chimie - Session Juin 2019
+
+--- page 20 ---
+4 - On considère maintenant un stéréoisomère de El, que /'on notera E2 et ayant pour nom (2S,3Z)-2-phénylhex-3-ène. 4-1 - Donner la représentation spatiale relative à E2.
+4-2-
+Quelle est la relation stéréochimique entre El et E2 justifier .
+Dans ce qui suit, on ne tient pas compte de 1aspect stéréochimique. El est maintenant soumis à la suite réactionnelle suivante, aboutissant à I :
+1) 03
+E1 2) H2O / H+
+acide propanoïque
+Ph
+CH2N?
+CH,OK+ CH3OH
+2G
+chauffage
+g
+5- Donner la structure semi-développée plane de F.
+Page 9 sur 10
+Concours Physique-Chimie- Session Juin 2019
+CH;
+CH;
+
+--- page 21 ---
+6- Peut-on obtenir F, par un autre moyen ? Indiquer alors le réactif utilisé.
+Détailler le mécanisme de Fétape 2G _> Iet en déduire la structure semi-développée plane de
+Fin de Pépreuve
+Page 10 sur 10
+Concours Physique-Chimie - Session Juin 2019

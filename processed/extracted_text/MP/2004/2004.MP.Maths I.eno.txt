@@ -1,3 +1,39 @@
+--- page 1 ---
+REPUBLIQUE TUNISENNE Ministère de [Enscignement Supéneur, de la Recherche Scientifique et de la Technologie
+Concours Nationeux dEntrée aux Cycles de Formation d'Ingénieurs Scssion : Juin 2004
+Concours Mathématiques et Physique
+Epreuve de Mathématiques I
+Date Lundi 07 Juin 2004
+Heure 8 H
+Durée 4 Heures
+Nb pages : 4
+Barème: I (2.5 pts); [ (5 pts); I (3.5 pts); IV (3.5 pts); V (3 pts); VI (2.5 pts);
+L'usage des calculatrices est strictement interdit. Une grande importance sera attachée à la rigueur du raisonnement, à la clarté de la rédaction et au Boid de 1e présentation. Il est rappelé que tout résultat énoncé dans le sujet peut ëtre utilisé pour traiter la suite, même 8'il n'a pu être démontré.
+0 On considère les deux fonctions suivantes: Ç(z) = Mz défnie pour z €]1, +o[ et F(z) 2 Esn(z), nI n=1 I défnie pour < €] ~ 1, +œc[ avec In(z) = ~ Lcg(l + 2 n Partie I 1 Montrer que a) ( est définie et strictement décroissante sur ]1, +œ[ N 1 b) lim $(z) = +*. (On pourra rernarquer que Ç(z) > 5 Y z > 1 et V N € N ) 14+1+ nr n=1 c} lim ((z) = 1 Ih+o d) ( est de classe C* sur ]1, +œ[- I e) V z > 1, < ((z) < (On pourra comparer avec une intégrale ) (z = 1) I _1 2. En déduire un équivalent simple de ( au voisinage de 1+.
+Partie II 1. Montrer que le domaine définition de F est ] - 1, +o[
 
+--- page 2 ---
+2 Montrer que la série 9n  converge uniformément sur tout segment de ] - 1, +0[ n2I 3. Montrer que F est de classe C1 sur ] = 1, +x[ et donner Fexpression de sa dérivée sous forme de la somme dune série 4. Montrer que F est de classe Co sur ] = 1, +0[ et donner lexpression de ses dérivées successives sous forme de sommes de séries 5 Montrer que F(k) ((0) = (~1)*(k 2 1)!Ç(k) pour tout entier k 2 2. 1 6 On pose Yn = " Log n k k=l 1 1 a) Montrer que Yn+1 Yn = 9n(1) + Fn € N n + 1 n b) Montrer que (Yn)n21 est convergente et que sa limite 7 vaut F(1) 7 a) Donner le développement en série entière à l'origine de l'application < +  Log(l + r) Préciser le rayon de convergence_ 0 (Z1)n+1 (~1)n+1 b) Calculer et n2n n n=1 n=1 c) Soit n € N* fixé. Écrire le développement en série entière à lorigine de In . 8 Soient N un entier supérieur ou égale à 2 et z dans ] - 1,1]. On pose
+VN(r) = E(-1)*2* k k=N
+a) Soit z € [0, 1], montrer que Insthtut) (preparatoire  i) V n € N Iw( )|< nnv EiBUOTHEQUE  0 2 0 ii) l9v( |< 4 (etudes 5 'Cingehieuss^ N n=1 b) Soit z €] - 1,0], montrer que i) V n € N* , I(E)l<nni+z 0 S(N) 1 ii) IZw(z)/ < n=1 N 1+ 57 x c) En déduire que V æ €] - 1,1]  lim 'n(F) =0 NA+3 n=1 0 9 Montrer alors que F z €] - 1,1], F(s) = M(-1*5222*. V k 4=2 10. Donner le rayon de convergence de la série (-1)502 24 retrouver F'expression de F(k) (0) en fonction k k22 de Ç (k).
+Partie III Pour k > 2, on pose fk(z) = Elz) avec E(z) la partie entière du réel z (E(z) < 2 < E(z) + 1) Ik+I 1 Montrer que fk est intégrable sur {1, +o[ n+1 2. Calculer Un(k) = fk (z)dz, n 2 1. +0 3. Montrer que S(k) fk(z)dz = k CM _1 N (On pourra remarquer que pour # > 2, f+(s)dz = Evn(k)) =1
+2
 
+--- page 3 ---
++0 Soit Vk = fk(z)dz Montrer que la série E(-1)*vu est absolument convergente. k22 1o On pose alors V = E(-1)vk. k=2 5. a) Exprimer Ve en fonction de S(k2 k 4 1 b) En déduire que F(1) = V ~ Log + 3 2 E(z) ô. Soit % la fonction définie sur [2, +o[ par: %(r) = r2(1+2)` a) Montrer que est intégrable sur [2, +œ[ +o b) Montrer que V = @(r)dz.
+le
+JuS
+(n+l c) Calculer pour r € N* @(x)dz.
+4 1 d) Retrouver alors le résultat F(1) =V _ Log 1 3 2
+Partie IV Soit {Gn)nz1 la suite de fonctions définies sur ] - 1, +co{ par: n'nI Gn (s) (s+1)(r+2) (x + n)
+Soit J une fonction définie sur ]0, +œ[ vérifiant les propriétés suivantes P1 : J(s) > 0, Y z > 0, p2: J(z +1) = IJ(z). V z > 0, P3 J(1) = 1, P4 : la fonction % H Log(J(r)) est convexe sur J0, +x[ 1 Montrer que V r €] - 1, +o[ et V n € N ,
+Log(Gn(r)) = -I n + gk (z} k=l
+2. Soit G la limite simple de la suite (Gn)nzl sur ] - 1, +o[- Montrer que: a) pour tout z €] - 1, +œ[ G(r) = eF(z)-~I b) pour tout I €] = 1, +x { G(r +1) = (r + 1)G(r) c) la restriction sur J0, +o[ de 2 _ G(z) vérife les propriétés P1 . P2s P3  Ps. 1 3 Calculer J(n) et G(n) , pour tout n € N*_ On rappelle que si h est une fonction convexe réelle définie sur un intervalle I de R; alors V I,y et z € I teis que r <y < z ; on à: hwy) ~ h(z) h(z) - h(z) h(z) = h(u) y = I 2 = I 2 = y a) Soit n un entier supérieur ou égal à 2 et z €j0, 14 Montrer que J(n) < ZLog( Jn +22) < Log( Jn+l)) i) Log( J(n - 1) 1 J(n) J(n) (On pourra rernarquer que % _ 1 < T < n + = < n +1.) ii) (n - I)'(n - 1)  < J(n + z) < n'(n - 1)4 P=1 iii) J(p + z) = J(z) II(z+j) p € N . j=0
+3
 
+--- page 4 ---
+n n'nI iv) ZJ(c) < < J(z) . n + < I(x+ 1)(r + 2) (z+n) b) Montrer alors que: Vz €j0,1], J(z) = G(z) 1 c) Soit r €]1, +o[ on suppose que I n'est pas entier, on pose p = E{r). Montrer que G(c) = (I - 1) (r = p + 1)G(z  p) . d) En déduire que z + G(z2 est lunique fonction vérifiant les propriétés PL,P2. P3,P4. I
+Partie V Pour I € R | Z, on définit la fonction 2T- périodique; f par: f(t) = e ist 1. Déterminer la série de Fourier de f 2. Préciser la nature de la série obtenue et sa somme. 3 Montrer que +0 T cos(Tr) 1 2x = sin(zz) 1 22 n2 n=1 4 Dans toute la suite u désigne un réel de Jo, 1[ a) Montrer que 2r i) converge uniformément sur ]0,u] 12 ~ 72 n2l sin(ru)) u2 i) Log( = Log(1 Tu 22 n=1 N iii) sin(u) lim 42 ) I( ~ Tu N-+o n?2 n=1 b) Montrer que Tu(1 _ u) i) G(u)G(1 2 u) = sin(Tu) Tu(1 _ ii) F(u) + F(l _ u) = ~+ Log sin(ru) 2 1 7 c) Retrouver alors F(l) = y et montrer que F(2 = + ~Log 2 2 4
+t € [~T,T[
+Partie VI
+25" 1. Pour n € N' fixé, déterminer le développement en série entière à lorigine de lapplication = F 22 " n? Préciser le reyon de ccnvergence. x 2 Pour I €] - 1,1[ et N € N* on pose +N(c) = 22* k=N Montrer que 22/ Ef ?1 < ((2N)1 ~22 r=l 3. Montrer alors que: V I €] - 1,1[  # 0, 03 Trcotgtr = 1 - 2 Es(2k)r2k  k=l 4 Montrer que tgr = cotgr 2cotg(2r)  5 Montrer que le développement en série entière à lorigine de 5 -+ tgr est 00 S(2k) tgr = 2 {22k I)z2k-1 T21 k=l Préciser le rayon de convergence. 6 Déterminer le développement limité de æ + tgz à lordre 3 au voisinage de 0. En déduire ((2) ec ({4).

@@ -1,4 +1,74 @@
+--- page 1 ---
+République Tunisienne Ministère de FEnseignement Supérieur et de la Recherche Scientifique Concours Nationaux dFntréc aux Cyclcs de Formation dIngenieurs Session 2021
+1aai 1i8631 #1Pjnsigèips 6ubigal JsLVlni _UblJi 2+ji 049512> 20216+3
+Concours Mathématiques et Physique Epreuve de Mathématiques I
+Session 2021
+Date 21/06/2021
+Heure 8H
+Durée
+heures
+La qualité de la rédaction et de la présentation. la clarté et la précision des raisonnements entreront pour une part importante dans Tappré- ciation des copies. Lusage des calculatrices n'est pas autorisé Tout résultat fourni dans Ténonce peut être admis et utilise par la suite, même si] n'a pas éte démontré
+Notations et objectifs Dans tout le problème; on considère les notations suivantes Co(R) Tespace vectoriel des fonctions continues et bornées f : R R muni de la norme Il-ll~ définie par |lfllo suplf (t)| teR C} (R) Tespace vectoriel des fonctions f : R - + R de classe C1 telles que f et sa dérivée f' sont bornées. On munit cet espace par la norme N définie par N(f) =lfllc + Ilf'll~ 1 la fonction constante sur R égale à 1. Pour une fonction continue f : R = + Ron définit, sous réserve dexistence; le réel If = Ji J f(e # a et la fonction @f définie par
+@f(x) = e5
+f(t)e 4dt, pour tout x € R.
+Le but de ce problème est détudier les propriètés du réel If et la fonction pour des fonctions dans C6(R) et C} (R). Dans la dernière partie; on propose une preuve dune version faible du théorème centrale limite sur un exemple de marche aléatoire.
+Préliminaires (5,5 points
+1. Calcul de I]. Soit & e-= dt et F la fonction définie par
+T6o e-(1182)4 F(x) = J ds , 1 + s2 pour tout x € R
 
+--- page 2 ---
+Concours Mathématiques et Physique
+Epreuve de Mathématiques I
+Page 2 sur 5
+Montrer que F est une fonction continue sur R+ et que lim F(x) = 0 X
+(b) Montrer que F est de classe C1 sur ]0,+o[ et que pour tout x > 0, F' (x) = -ac En déduire que, pour tout x € R
+F(x) = -a
+dt+ 7 2
+(c) Déterminer la valeur de &, en déduire que I1 = 1. 2 Exemples de If. Justifier que Tintégrale If converge pour toute fonction f € Cp(R) et que |If < Ilfll~ En déduire que H =) f €Cb(R); Jf()e-& a = 0 est un hyperplan fermé de lespace Cp(R). (b) On considère la suite de fonctions fn R R définie par fo = 1 et fn(x) 212n pour tout n € N* Montrer que Zfn est bien définie pour tout n et déterminer une relation (2n) ! entre Ifn et Ifn+1 En déduire que, Ifn Vn € N. 2"n! (c) On considère la fonction f définie par f (x) cos( rx) , pour tout x € R En utilisant le développement en série entière de f , montrer que If =e-2 Etude de $1 . (a) Soit f R' ~ R une fonction continue telle que lim f(x) = f €R 1 + +0 Montrer que f est bornée sur R'
+(b) Montrer qu'au voisinage de +0 on a : e4 Y' (t), où 4(t) = _ Too En déduire que @1 1 roo X (c) Justifier Texistence de deux constantes réelles M et M' telles que pour tout r € R
+@1(x)| < M
+et
+Ixw1(x)| < M'.
+Un endomorphisme de Cp(R) (4 points) Soit f une fonction de Ct(R). (a) Montrer que $ f est bien définie et que pour tout x €R+
+lv(x)| < Mllfllo et
+Irwf(x)| < M'Ilfllo- (b) On suppose dans cette question seulement que f € H. Soit f la fonction définie sur R par f(x) = f(-x) pour tout x € R. Montrer que pour tout réel x, $f(-x) = $ p(x) . En déduire que pour tout x € R, Jœf(x)| 2 Mllflla et Jrw,(x)| < M'Ilfllo 
 
+--- page 3 ---
+Concours_ Mathématiques et Physique
+Epreuve de Mathématiques
+Page 3 sur 5
+Dans la suite; on désigne par Tf lafonction Tf = =Wf-Ijl pour toute fonction f € Cp(R) cest-à-dire, pour tout x € R
+=e4 Too Tf(x) (f(t) - If)e 4dt.
+5 Montrer que Tf(x)| < 2Mllfllo pour tout x € R et déduire que Tapplication T:fF +Tr définit un endomorphisme continue de Cp(R). 6 Soit f € Cp(R) (a) Montrer que Tf est de classe C1 sur R et que sa dérivée T' vérifie
+Tf(x) = xTf(x) = f(x) + If, pour tout x € R (b) Résoudre; à Taide de Tf, Téquation différentielle y =xy _ f(x) +If. 7. Justifier que [T}(x)| < 2(M' + 1) llfllc pour tout x € Ret pour tout f € Cp(R) Déduire que Tr € C}(R) pour tout f € Cp(R). Lendomorphisme T est il surjectif? Justifier la réponse.
+Etude spectrale de T (3,5 points) On se propose dans cette partie détudier lendomorphisme T. 8. Montrer que 0 est une valeur propre de T et déterminer le sous espace propre associé. 9. Montrer que toute valeur propre  de T vérife |4| < 2M. 10. On fixe une fonction h € Cp(R) et un réel À vérifiant |A| < On se propose de montrer 2M + 17 qu'il existe une fonction f € Cp(R) vérifiant léquation intégrale suivante ~ Ae? Fo h(x) = f(x) (f(t) = If)e 4dt, pour tout x € R. (2)
+On définit Tapplication $ par S(f) = h + ATf, pour tout f € Cp(R) (a) Montrer quil existe k € [0,1[ tel que pour tous f ,8 € Cp(R) on a Is(f)(x) = S(g)(x) <kllf gllo pour tout x € R On définit la suite de fonctions (fn)neN par fo = 0 et fn+1 = S(fn)  (b) Justifier que pour tout réel x et pour tout n € N on a, |fn+1(x) = fn(x)| < k" 'Ilhllo En déduire que la série E(fn+1 fn converge uniformément sur R, on notera f sa somme (c) Montrer que f vérifie léquation (2)
+Restriction de T à C}(R) (2points 11 Montrer que si f € C}(R) alors Tf est de classe C? sur R et exprimer; pour tout réel 1, sa dérivée seconde T' (r) en fonction de xT}(r), Tf(x) et f' (x).
 
+--- page 4 ---
+Concours Mathématiques ct Physique
+Epreuve de Mathématiques
+Page 4 sur 5
+On admet dans la suite lexistence dun réel C1 tel que pour toute fonction f € C}(R) JxT}(r)| < C;N(f ), pour tout x € R. 12. Soit C = max(2M,1) + C1. Justifier que pour toute fonction f € C}(R), Ii(x)| <cv(f). En déduire que pour toute fonction f € C}(R) et pour tous réels 1,y € Ron a : [T'(x ) T'y)| < CN(f)lx = yl
+et
+T(r) - T,(y) - (r -y)T'()| < CNU2(r -y): Applications 5 points Soit (@,T,P) un espace probabilisé et ( Xn)neN' une suite de variables aléatoires mutuellement indépendantes suivant chacune la loi uniforme sur {~1,1} , cest-à-dire pour tout n € N* .
+P(Xn = 1) = P(Xn = -1) 2 ~
+Sn pour tout n € N* Vn
+On pose Sn = Xp + Xz + .   + Xn et Mn
+13. Déterminer Yespérance E(Mn) et la variance V(Mn) de la variable Mn En déduire que pour tout € > 0, P(lMn| 2 €) 14. Justifier que Sn(0) = {2k = n; 0 < k < n} et que
+P(Sn = 2k _ n) 2"
+où
+désigne le nombre de combinaisons de k éléments parmi n. 15. Montrer que pour toute fonction f € Cb(R), If E(f(Mn)) = E(T}( Mn)) - E(MnTf(Mn) ) On se propose de démontrer dans la suite que pour toute fonction f € C}(R) lim E(f(Mn)) = f(t)e-&dt. H1 _ < Lco V2z
+On fixe f € C}(R) et n € N* Pour tout entier i tel que 1 < i < n, on définit la variable Xi aléatoire Mni Mn Vn
 
+--- page 5 ---
+Concours Mathématiques et Physique
+Epreuve de Mathématiquee
+Page sur 5
+16. En utilisant Tinégalité (4), montrer que pour tout 1 < i < n,
+XiTf( Mn) - XiTf( Mn,i) = Xrmnà| < C46 IX;l3 et déduire que E(X;Tf( Mn)) JE(T(Mn;) ) | <CN42 Vn 17. Montrer alors que 1 ÉE(T} ( Mn;)) | CNGf) E(MnTf( Mn)) 1=1 2 vn
+18 En utilisant linégalité (3), montrer de même que
+E(T' ( Mn)) 'ÉE(T(Mn;)| < C62 n ;1
+19. En déduire que lim E(f(Mn)) = If. 11 =>+0 20. Etablir que lim cos(7( 2k 11 2" k0
+Vn)) = e-4 .
+Fin de Pénoncé

@@ -1,5 +1,79 @@
+--- page 1 ---
+43y)32843j) "blælgèbs ggL~ dssn ulji 2lyLiji innig l jessi Jal ! 2017 59
+REPUBLIQUE TUNISIENNE Ministère de /'Enseignement Supérieur et de la Recherche Scientifique
+Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs Session 2017
+Concours Biologie et Géologie Epreuve de Physique
+Date Lundi 29 Mai 2017 Heure 8 H Durée 3 H Nb pages 06 Barème : Problème 1 : 6.5 pts Problème 2 : 8 pts Problème 3 5.5 pts
+L'usage dune calculatrice non programmable est autorisé L'épreuve comporte trois problèmes indépendants, le candidat peut les résoudre dans lordre qui lui convient en respectant néanmoins la numérotation des questions. Un candidat peut toujours se servir dun résultat fourni par lénoncé pour continuer sa composition.
+Problème 1 Transport dans les canaux sanguins On étudie dans ce problème la circulation sanguine dans les veines et les artères. Sous Paction d'impulsions électriques; le muscle cardiaque se contracte et éjecte le sang vers les poumons et l'aorte. Le nombre de contractions observées par minute correspond au rythme cardiaque. Lécoulement en canalisation est régi, dune part; par Feffort appliqué (différence de pression) et, dautre part, par les frottements  visqueux entre le fluide et la paroi de la canalisation. La viscosité du fluide joue un rôle prépondérant puisqu'elle détermine Pimportance de ces frottements. Le canal sanguin est assimilé à une conduite cylindrique de longueur L, daxe Oy et de diamètre D remplie par le sang assimilé à un fluide incompressible de masse volumique p et de viscosité dynamique 7. Cet écoulement est caractérisé par le nombre de Reynolds 9 représentant le rapport entre les forces dinertie et les forces visqueuses. Ces forces tendent à ralentir le fluide tandis que les forces dinertie contribuent à maintenir le fluide en mouvement_
+1- Question préliminaire. 1.1- Soit v la vitesse moyenne de lécoulement, donner lexpression de 9 1.2 Donner Fordre de grandeurs des valeurs limites de % permettant de distinguer entre les différents régimes dun écoulement. 2- Le fluide est soumis au seul champ de pesanteur g =gk . On considère au sein de ce fluide un cylindre C de même axe que la conduite et de rayon r (Fig. 1), compris entre deux sections droites SA et SB de centres respectifs A et B et distantes de L.
+Concours Biologie et Géologie
+Session 2017
+Epreuve de Physique
+Page 1/6
 
+--- page 2 ---
+Exprimer les forces de pression F; et F; qui s'exercent sur les sections SA et SB. On notera PA et PB les pressions du fluide en A et B.
+R
+B
+A
+Figure 1
+3- Dans la suite on suppose que le sang est un fluide visqueux. Sa vitesse n est pas uniforme sur une section droite de la conduite. Il existe alors une force de frottement F = nS qui dr s'oppose au glissement dune couche de fluide par rapport à une autre et agissant sur la surface latérale SL du cylindre. On se   place dans   le cas dun écoulement   permanent à la   vitesse v =v(r)j vérifiant v(r=R)=0. Pour maintenir ['écoulement il est nécessaire d'exercer une différence de pression AP=PA-PB entre les deux points A et B. 3.1- En appliquant le principe fondamental  de la dynamique au cylindre C et en projetant sur l'axe Oy; établir léquation différentielle suivante dv P = Rvr dr 2n L 3.2- Déterminer le profil de vitesse v(r) et donner son allure dans la conduite. TR' AP 1 [ 4- Montrer que le débit volumique peut s'écrire Q = L  8n AP 5- La résistance hydraulique du fluide est définie par Rh = Q 5.1- Donner Vexpression de R# en fonction de R, L et n. Donner son unité dans le système international . 5.2- Justifier alors | 'appellation de < résistance hydrodynamique > attribuée à R#: 5.3- Dresser une analogie hydraulique électrique pour les grandeurs AP, Qet Ru 5.4- Le débit cardiaque moyen dune personne est Q-5 Umn; ce débit est distribué dans les différentes branches de la circulation. 5.4.1- Déterminer la vitesse au niveau de laorte de rayon 1 cm et au niveau de Partère pulmonaire de rayon 7 mm En déduire pour chaque cas le régime d'écoulement. On donne p=1050 kglm n=0,04 Poise 5.4.2- Suite à un grand effort de lindividu, le débit cardiaque peut tripler. Déduire le nouveau régime d'écoulement dans laorte et /'artère. Conclure. 6- On considère une seringue cylindrique de rayon R et de longueur L. Elle est prolongée par une aiguille cylindrique de rayon r et de longueur / (Fig. 2) Cette seringue contient un sérum de viscosité n=0,03 Poise et de masse volumique p=1005 kgJm Elle est menue dun piston coulissant sans frottement: Ce sérum est injecté Concours Biologie et Géologie Session 2017 Epreuve de Physique Page 2/6
 
+--- page 3 ---
+dans la veine dun patient. Soit AP , la-variation de pression du sérum dans la seringue, et AP2 celle du sérum dans Paiguille. L'ensemble seringuelaiguille est en position horizontale.
 
+2
+Figure 2
+6.1- En utilisant le résultat de la question (4), montrer que le rapport AP AP vérifie
+léquation = 4( AP R 6.2- Calculer ce rapport et justifier que dans la seringue le fluide peut être considéré comme parfait. On donne r=0,8 mm, R-0,8 cm, 1=3 cm et L=9 cm. 6.3- On injecte dans laiguille un volume de sérum V=Icm' pendant une durée At=2s. Calculer le débit volumique Q puis déterminer AP 2. 6.4- La pression dans la veine du patient vaut 2 10'Pa, déterminer la pression du sérum à /entrée de /aiguille. ` ' "29nv 6.5- De quel régime découlement s'agit-il ?
+Problème 2 On étudie le mouvement de la Terre ou de comètes en interaction avec le Soleil de masse Ms très grande par rapport à celles des planètes étudiées.  Un référentiel (O,x,y,z) de base orthonormée (i,jsk) dorigine 0 est associé au centre du Soleil. Ce référentiel  est supposé galiléen.  On définit le repère des  coordonnées polaires  (r,0) de vecteurs de base (",,7 avec 0 = (7, u,). L'énergie potentielle est supposée nulle à /infini. sg 1- Etude préliminaire  1 1.1- Définir un référentiel galiléen.  n , 1 1.2 - Expliquer   pourquoi les référentiels géocentriques sont considérés comme galiléens.   1.3- Le vecteur position de la Terre, considérée comme un point matériel est défini par OM =rh Exprimer les coordonnées cartésiennes x et y dun point M en fonction de ses coordonnées polaires (r, 0) 1.4- Exprimer les vecteurs " et " en fonction des vecteurs unitaires et j 1.5- Exprimer les vecteurs vitesse v et accélération € dans la base (ù,,h) 1.6- On définit la vitesse angulaire de la terre par 6 = 40 Montrer que r' @=Cte dans dt le cas dun mouvement à accélération centrale.
+Concours Biologie et Géologie
+Session 2017
+Epreuve de Physique
+Page 3/6
 
+--- page 4 ---
+2- Le Soleil exerce sur la Terre de masse MT une force gravitationnelle F 2.1- Soit r la distance entre les centres de la terre et le soleil. Exprimer F en fonction Ms; mT, r et la constante de gravitation universelle G. 2.2- Ecrire le théorème du moment cinétique. Montrer que le moment cinétique [ de la terre par rapport à 0 est une constante du mouvement. 2.3- Montrer que le mouvement de la terre est plan.
+3- La vitesse de la Terre dans son mouvement circulaire autour du Soleil est v le rayon de Porbite terrestre est Ro. 3.1- Déterminer ven fonction de G, Ms et Ro. 3.2- Etablir   la relation liant la période To du mouvement au rayon Ro. A quoi correspond cette relation ? 3.3- En déduire en fonction de G, Ms; Ro et mT les expressions 3.3.1-de lénergie cinétique Ec.  3.3.2- de /énergie totale E.   3.3.3- du moment cinétique L par rapport à 0.    4- Une comète de masse mc dont la trajectoire de son mouvement par rapport au Soleil est coplanaire à celle de la Terre. Son périgée, point de passage le plus proche du Soleil, se trouve à une distance rp=Ro2 du centre 0 du soleil. 4.1 - La vitesse en ce point est Vp =2v Calculer Pénergie   totale E de la comète déduire  la nature de sa trajectoire. Ro 4.2- Déterminer dans ces conditions; la vitesse vc de la une distance rc quelconque du centre Soleil comète se trouvant à R du Soleil. 2 4.3- En coordonnées polaires léquation de la " . < p trajectoire de la comète s'écrit B r(0) = 1+ cos0    Figure 3 4.3.1- Reprendre la figure 3 et représenter rc et €.  e 4.3.2- Déterminer p en fonction de Ro. 4.4- Lorbite de la Terre coupe celle de la comète en deux points A et B (Fig. 3)- Montrer que AB est un diamètre de /orbite terrestre. 5- On étudie maintenant la comète de Halley dans son mouvement elliptique autour du Soleil. On note P son périgée et A son apogée; le point de la trajectoire le plus éloigné du soleil. On positions et les vitesses de la comète respectivement en P et en A- La note rps YA , Vp et vA les période du mouvement est T-76 To. On donne rp =0,6Ro. 5.1- Quelle est la nature de la trajectoire décrite par cette comète ? Justifier. 5.2- Donner /expression de son équation polaire. On prendra lorigine des angles en 8=-0. 5.3- Exprimer l'excentricité e en fonction de rA et rp. 5.4- Calculer le rapport vpvA en fonction de e 5.5- Calculer /excentricité e et exprimer le paramètre p de Fellipse en fonction de Ro.
+Concours Biologie et Géologie
+Session 2017
+Epreuve de Physique
+Page 4/6
 
+--- page 5 ---
+6- L'observation des astres et des comètes peut être effectuée   depuis la terre à Faide dune lunette astronomique. Elle est constituée de deux   lentilles minces   convergentes LI et Lz de distances   focales respectives f 2 80 cm et =6 mm (Fig. 4) La lunette est réglée à linfini, elle donne dun objet à Finfini une image à Vinfini.
+0:
+Figure 4
+6.1- Quelle est la distance d entre L, et L2 ? Quel est lintérêt de ce système optique ? 6.2- Dans la   suite on se place dans les conditions de Gauss. Reprendre le schéma de la figure 5 et 01 compléter la marche du rayon lumineux incident faisant un angle Q avec laxe optique et émergeant sous Figure 5 un angle &'.
+6.3- Déterminer lexpression du  grossissement   angulaire G=a'a de la lunette en fonction de f et f- Calculer la valeur de G. 6.4- L'angle maximal Q sous lequel l'observateur peut observer limage à travers cette lunette est 30" La planète Mars possède un diamètre DM=6790 km, sa distance par rapport à la Terre est dM=7,0 107 km: Lobservateur peut-il observer cette planète?
+Problème 3
+On considère le circuit de la figure 6 comportant un générateur de tension (E,r) en série avec une résistance R, un condensateur de capacité € et un interrupteur K. A Pinstant t=0, on ferme K On branche les  voies A et B dun oscilloscope aux deux bornes de la résistance R. On note i(t) Fintensité du courant dans le circuit et u(t) la tension aux bornes du condensateur .
+VoieA K
+voie B
+R
+u(t)
+E
+i(t)
+Figure 6
+On enregistre loscillogramme de la figure 7 avec les sensibilités IVIcarreau en vertical et 0.1 mslcarreau en horizontal. Les deux lignes horizontales en pointillés   correspondent   respectivement à 10% et 90% de lamplitude maximale du signal 1.
+P
+I- Réponse &un circuit RC 1 - Tracer la caractéristique   électrique   I(U) du générateur de tension (E,r), préciser sur la courbe les points particuliers représentant lintersection de la caractéristique avec les deux axes.
+F0
+Figure 7
+Concours Biologie et Géologie
+Session 2017
+Epreuve de Physique
+Page 5/6
+
+--- page 6 ---
+2- Attribuer aux enregistrements 1 et 2 de la figure 7 les tensions correspondantes dans le circuit de la figure 6. Justifier . 3- Déterminer les lois de variation de u(t) et i(t). Quelle est la signification physique de la constante de temps T du circuit? Déterminer   l'expression du   temps t1 pour   lequel on a u(t1)=0.9E. 4- Préciser les valeurs de E et de la tension au point P de la figure 7. Sachant que R=100 2 calculer r, puis en déduire la valeur de €.
+II - Réponse harmonique dun circuit RC 5- On considère  maintenant   le circuit RC (Fig: 8) R soumis à une excitation sinusoïdale e(t)=Eo cos( @t) . s'(t) 5.1- Déterminer la fonction de transfert e(t) s(t) H (jo) = 2 de ce circuit, avec j le nombre complexe e tel que j? =-1. 5.2 - Tracer les diagrammes de Bode du gain et de phase associés à ce filtre. Quelle est sa nature? Figure 8 5.3- Préciser [expression de la pulsation de coupure @ 6- On reprend le circuit de la figure 8. La tension de sortie $ est prise aux bornes de R. Exprimer la fonction de transfert de ce filtre et tracer son diagramme de Bode (gain et phase). Quelle est sa nature?
+IIF- Circuits RC en cascade 7 - On associe maintenant deux modules RC en cascade (Fig. 9) On se propose de déterminer la R fonction de transfert H,(jo) = { en sortie du R e s(t) circuit. e(t) 7.1- Calculer H,( jo). 7.2 - Mettre cette fonction souS la forme K Hz ( jo) = ( @ Figure 9 14 jQl @ Préciser les valeurs de K et Q, et exprimer la pulsation propre @ en fonction de Ret C. 8- Montrer que H ( jw) peut se mettre sous la forme
+Jx
+0 avec X = @
+Hz (jx) = (1+ jkx)(1+ jkzx) Préciser les valeurs de k, et k2. 9- Tracer en utilisant les résultats précédents, les diagrammes de Bode du gain et de phase associés à ce filtre. Quelle est sa nature ?
+Concours Biologie et Géologie
+Session 2017
+Epreuve de Physique
+Page 6/6

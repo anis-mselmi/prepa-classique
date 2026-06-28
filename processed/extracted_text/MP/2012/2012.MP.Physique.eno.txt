@@ -1,7 +1,129 @@
+--- page 1 ---
+4769j1 42/421 "kkaslbts {y~k Usialt Zuibsi eljaliji Qandigl iis Jal>yi 2012 6,9 mstWuT Peparal;s  Gruofhequr Eiucr; BWEs
+REPUBLIQUE TUNISIENNE
+Ministère de ['Enseignement Supérieur et dc la Recherchc Scientifique
+Concours Nationaux dEntrée aux Cycles de Formation d'Ingénieurs Session 2012
+Concours Mathématiques et Physique Epreuve de Physique
+Date Jeudi 07 Juin 2012 Heure : 8 H Barème Problème I : 09 pts
+Durée : 4 H Nbre pages 08 problème II : 1l pts
+L'usage d'une calculatrice non programmable est autorisé
+On veillera à une présentation claire et soignée des copies Il convient en particulier d'indiquer avec précision les références des questions: Un candidat peut toujours se servir d'un résuliat fourni par l'énoncé pour continuer sa composition
+Problème I :
+PINCES AMPEREMETRIQUES
 
+Une pince   ampèremétrique est un instrument de mesure de Fintensité du courant électrique, constitué  dune pince à Pintérieur delaquelle on fait passer le fil conducteur parcouru par le courant dont on souhaite mesurer Fintensité On se propose dans ce problème détudier le principe physique de deux types de pinces ampèremétriques.
+Tque
+photographie d'une pince ampèremétrique
+Les deux parties du problème sont indépendantes
+ére Partie : Pince ampèremétrique pour le courant continu On considère une plaque parallélépipédique dépaisseur h de largeur € et de longueur L)) € (voir figure -1-a) Cette plaque est constituée dun matériau où les porteurs de charges sont des électrons de densité n et de charge individuelle q ==e Soit Y la conductivité électrique du matériau . L'espace est rapporté à un repère cartésien de base orthonormée directe (",, uy' 4z) et dont Porigine est choisie au centre de la plaque. 1 La plaque est traversée suivant sa longueur par un courant électrique continu d'intensité 1 et de vecteur densité volumique de courant uniforme ] = j u avec j) 0 Cette   plaque est   plongée dans un champ  magnétique extérieur uniforme et   permanent B = B 4 avec B)0 On néglige le champ magnétique crée par le courant Zo devant B
+Concours Mathématiques et Physique Session Juin 2012
+Epreuve de Physique
+Page 1/8
 
+--- page 2 ---
+circuit magnétique
+face (1)
+10
+>x
+VUH
+h ^
+face (2)
+figure -1-a
+figure -1-b On donne la   perméabilité absolue du vide Ho = 4 7 10-7 H m ' la   charge   élémentaire e = 1,6 10-19 C; I = 100 mA ; h = 0,3 mm ; { = 1 cm
+1-a) Exprimer le vecteur vitesse v des électrons libres dans la plaque en fonction de j , n , e et du vecteur unitaire adéquat. 1-b) Donner lexpression de la force magnétique agissant sur chaque électron libre. En régime transitoire préciser [effet de cette force. 1-c) Indiquer la direction et le sens du champ électrique qui en résulte, on le notera E# 1-d) Au bout d'un certain temps, le régime   permanent s'installe dans   la plaque. Donner Pexpression du champ électrique Ex , qui compense Peffet de la force magnétique, en fonction de j , B , n , e et du vecteur unitaire adéquat.
+2- Déterminer le champ électrique E résultant dans la plaque traversée par le courant de densité j et en présence du champ magnétique B
+3-a) Pour mesurer la tension électrique entre les deux faces (1) et (2), on soude deux fils conducteurs à la plaque aux points M et N de coordonnées   respectifs (x,0/2,0) et (x; 4/2,0) Exprimer la différence de potentiel Uh = Vu - Vn en fonction de B , Jo ' h et
+d'une constante R# = Quel nom donne-t-on à cette tension ? n 4 n = 1028 m 43 3-b) Calculer   R# lorsque la plaque est en cuivre tel que de même lorsque la plaque est en antimoniure d'indium (InSb) tel que n = 1021 m 23 Justifier le choix du matériau à utiliser pour la réalisation de cette plaque. 3-c) Lors de la soudure les coordonnées du point N sont (x + 8,-0/2,0) Estimer le décalage maximum admissible & pour que la mesure fournie une tension Uh à 1% prés. On donne pour InSb Y = 4 10' 9-1 m 21 3-d) La densité des porteurs de charge dépend de la température selon la loi n(0) = n(0) e40 où la température 0 S 'exprime en degrés Celsius et a = 0,014 C-1 pour une plaque en InSb
+Concours Mathématiques ct Physique Session Juin 2012
+Epreuve de Physique
+Page 2/8
 
+--- page 3 ---
+Evaluer la variation relative de la tension U# quand la température dans la plaque s'élève de 10 '€ Commenter .
+4 - Pour   réaliser une pince   ampèremétrique on place la plaque, constituée de InSb, dans Fentrefer dun circuit magnétique dépaisseur considérée égale à h (voir figure -1-b). Un fil conducteur parcouru par un courant électrique continu d'intensité [ traverse lintérieur du circuit magnétique (voir figure 1-b). On admet que lexpression du champ magnétique crée B = Ho I par ce courant dans lentrefer est donnée par & h 4-a) Exprimer la tension U# en fonction de I et des données. Commenter . 4-b) Calculer Uu pour un courant électrique dintensité I = 100 A AUx 4-c) Comment peut-on augmenter la sensibilité s de cette pince; définie par s = 2 AI 
+2 éme Partie Pince ampèremétrique pour le courant alternatif
+On considère un tore de section rectangulaire obtenu par rotation autour de laxe (z'z) dun rectangle; de hauteur h et de largeur (b a) , situé à la distance a de Paxe (voir figure -2-a et -2-b). On réalise une bobine torique en enroulant régulièrement sur ce tore N spires serrées de fil conducteur.  Chaque spire peut être  considérée comme appartenant à un plan radial  (voir figure -2-b). On note R la résistance électrique de la bobine torique. On considère un fil rectiligne infini disposé sur laxe (zz) de la bobine torique et on suppose que ce fil se referme à Pinfini (suffisamment Ioin du tore)
+fil infini
+figure -2-a vue en perspective
+bobine torique
 
+figure -2-b vue en coupe
+io 12a >l 2b
+^h
+  
+On considère le système de coordonnées   cylindriques (r,8,2) daxe Oz et de base orthonormée directe (u,,70,4,) -
+Concours Mathématiques et Physique Session Juin 2012
+Epreuve de Physique
+Page 3/8
 
+--- page 4 ---
+Lespace est assimilé au vide de permittivité électrique € et de perméabilité magnétique Ho Létude sera faite dans le cadre de [approximation des régimes quasi stationnaires (ARQS).
+1 - Rappeler les   équations de Maxwell dans le   vide. En déduire les formes intégrales correspondantes dont on précisera le nom
+2- On relie les extrémités du bobinage torique à un générateur délivrant un courant variable Ir (t) le sens du courant est celui indiqué sur la figure 2 Les extrémités du fil infini sont reliées entre elles à Fextérieur du bobinage torique. 2-a) Etudier les symétries et les invariances pour le champ magnétique Br (M,t) crée par le bobinage torique en un point Mquelconque de [espace. 2-b) Montrer que le   champ magnétique est nul à fextérieur du tore et qwil vaut Ho N Ir6t) 1 Br (M,t) = 40 à Fintérieur du bobinage torique. 2 z 2-c) Déterminer le flux du champ magnétique à travers le bobinage torique. En déduire le coefficient dauto-induction L de ce bobinage. 2-d) A partir   dune   considération   énergétique   retrouver   Fexpression du coefficient   dauto- induction L du bobinage torique. 2-e) Etablir  Fexpression du coefficient de mutuelle inductance M Iore -> fil correspondant aux effets dinduction dans le fil infini dus aux variations du courant électrique dans le bobinage torique.
+3- On relie les bornes du fil infini à un générateur délivrant un courant variable Ip(t) le sens du courant est indiqué sur la figure 2-a. Les extrémités de la bobine torique sont reliées entre elles. 3-a) Déterminer [expression du champ magnétique Br(M,t) crée par le fil infini. 3-b) Etablir [expression du coefficient de mutuelle inductance M fil ~store correspondant aux effets dinduction dans le tore dus aux variations du courant dans le fil infini. Commenter. 3-c) Expliquer qualitativement Fapparition dun courant ir(t) dans le bobinage torique. Sur un schéma en coupe préciser, après justification; le sens du courant ir (t)  lorsque le courant I, (t) varie de manière monotone (croissante ou décroissante) .
+4- Le fil infini est parcouru par un courant sinusoïdal de pulsation @ tel que Ip(t) = v2 Io cos(@ t) avec Io et @ des constantes. 4-a) On relie les extrémités du bobinage torique aux bornes dun ampèremètre. Représenter le schéma électrique  équivalent du dispositif: Ecrire   Téquation différentielle reliant ir (t) et Ip (t) En déduire la valeur efficace du courant indiquée par Tampèremètre en fonction de I et N on prendra R((L 0 Quel est Tintérêt &un tel dispositif ?
+Concours Mathématiques et Physiquc Session Juin 2012
+Epreuve de Physique
+Page 4/8
 
+--- page 5 ---
+4-b) On relie maintenant les  extrémités du bobinage torique aux   bornes dun voltmètre. Déterminer [expression de la tension efficace indiquée par ce voltmètre. Commenter.
+Problème II :
+TEMPERATURE DE LA TERRE
+On se propose dans ce problème de déterminer la température à l'intérieur de la Terre ainsi que destimer son âge.
+Données Rayon de la Terre Rr 2= 6400 km En coordonnées sphériques (r,0,6) on a pour un champ scalaire g(r,0,p) ôg 2 Ur + 1 9g 16 + gradg @g u,  ôr r ô0 Y sin0 dp
 
+Les trois parties de ce problème sont indépendantes
+ère Partie Température à Pintérieur de la Terre
+Pour déterminer lévolution de la température à lintérieur de la terre; on utilise un modèle simplifié régi par les hypothèses suivantes La Terre est assimilée à une sphère indéformable de centre 0 et de rayon Rr On suppose que le régime est permanent. La température à lintérieur de la Terre est une fonction de r que Pon notera T(r) où r = OM est la distance entre 0 et un point M quelconque de la Terre. La conductivité thermique de la Terre est ^ = 4 W m-1 K-I On notera T la température à la surface de la Terre qu€ on prendra Ts = 290 K
+1- Citer un exemple de phénomène naturel qui montre que la température interne de la Terre est plus élevée que celle à sa surface. Est-ce que le rayonnement solaire absorbé par la Terre peut en être la cause ? Expliquer.
+2-a) Soit Ju le vecteur densité du flux thermique. Exprimer la quantité d'énergie 8Q qui par conduction thermique traverse un élément de surface dS pendant dt 2-b) Rappeler la loi de Fourier et justifier la présence du signe moins. 2-c) Effectuer un bilan dénergie, entre   les instants t et t + dt sur @+dr une enveloppe sphérique comprise entre deux sphères de rayons r et r + dr (voir figure -3-)
+figure -3-
+Concours Mathématiques et Physique Session Juin 2012
+Epreuve de Physique
+Page 5/8
+
+--- page 6 ---
+2-d) A partir du premier principe de la thermodynamique et des résultats précédents; déduire que Féquation différentielle vérifiée par la température de la Terre sécrit d 4r) =0 dr dr 2-e) Résoudre cette équation différentielle. Commenter le modèle proposé.
+3- Pour améliorer le modèle précédent on décompose la Terre en deux régions ~re[0, Rz] dans cette zone on suppose que la température est uniforme. re[R,,Rr] dans cette zone, appelée lithosphère, il y a des sources   de  radioactivité, essentiellement de Furanium; qui dégagent une puissance thermique volumique P, supposée unifomme. 3-a) Effectuer un bilan   énergétique;, entre   les   instants t et t + dt sur une enveloppe sphérique  comprise entre les sphères de rayons r et r + dr avec Rz (r ( Rr En déduire Féquation différentielle vérifiée par la température dans la lithosphère. 3-b) Quelle condition doit vérifier j  en r = Rz ? 3-c) Déterminer la variation de la température T en fonction de r dans la lithosphère. En déduire; dans ce modèle simplifié, la valeur de la température au centre de la Terre. On donne Rz = 6320 km et p, = 14.10-7 W m 73 3-d) Tracer Fallure de la courbe de la température T de la Terre en fonction de r 3-e) Calculer le gradient de température à la surface de la Terre.
+2 eme Partie Refroidissement de la Terre par conduction Pour   étudier le refroidissement de la Terre  et estimer son âge Lord Kelvin émet les hypothèses suivantes La sphéricité de la Terre est négligée par conséquent sa surface est assimilée au plan  déquation 2 = 0 où 2 est la profondeur comptée positivement à partir de la surface (voir figure -4-). z+dz Les sources radioactives que contient la Terre sont négligées. La température ne dépend que de la profondeur 2 et du temps t La Terre est supposée  indéformable et le   seul mécanisme par figure -4- lequel elle peut évacuer son énergie interne est la conduction thermique. On notera 2 , p et € respectivement la conductivité thermique; la masse volumique et la capacité thermique massique de la Terre supposées constantes .
+1- A partir du premier principe de la thermodynamique; de la loi de Fourier et dun bilan dénergie effectué, entre les instants 1 et t + dt sur une tranche horizontale de surface 5 comprise entre les profondeurs 2 et z + dz (voir figure -4-), établir Péquation différentielle vérifiée par le flux thermique   jo(z,t) 
+2- Pour Lord Kelvin; le flux  thermique   qui séchappe   de la Terre   correspondrait à son refroidissement progressif depuis sa formation. Il modélisa ce refroidissement en imaginant
+Concours Mathématiques et Physique Session Juin 2012
+Epreuve de Physique
+Page 6/8
+
+--- page 7 ---
+que la Terre a été formée à une température très élevée uniforme To à Finstant 1 = 0 et depuis ce temps la Terre se refroidirait. On notera Ts la température à la surface de la Terre, supposée constante; avec Ts ((To A partir de ces hypothèses; donner la valeur de j  (z,t) 2-a) En z = 0 lorsque le temps ( tend vers 0 et lorsqu 'il tend vers 40 2-b) En 2 # 0 lorsque le temps t tend vers 0 et lorsqu'il tend vers +%
+A 4 D ( 1 3- Lord Kelvin proposa  la solution suivante ja(z,t) = ~ e avec D = la VD t P c diffusivité thermique de la Terre et [ le temps écoulé depuis la formation de la Terre. Vérifier que cette solution est acceptable.
+1 4- On suppose que A = (To - Ts) 2 8  où Q et B sont des constantes sans dimensions Vz A partir dune analyse dimensionnelle de la solution proposée par Lord Kelvin, montrer que & = B = L .
+5- Lord Kelvin a admis que (To Ts) était de lordre de 1500 K et des mesures effectuées récemment au voisinage   de la surface de la Terre   indiquent un gradient   thermique de 10-6 m 2 30 K km-1 Estimer numériquement l'âge de la Terre en année ? On donne D = s Les géologues estiment 1vâge de la Terre à 4,5 milliards dannée. Commenter le modèle de Lord Kelvin. Lhypothèse   du régime   permanent   utilisée dans   la   première parlie est-elle justifiée ?
+3éme Partie Mesure de la température de la Terre Le procédé de mesure de la température dans un puits de forage utilise une sonde à fil de platine dont la résistance Rs croit avec la température selon la loi : Rs(0) = R (1 + a 0) où 0 est la température exprimé en C avec Ro = 100 Q et a = 3,9083.10-3 SI_ Pour transformer les variations de la résistance de la sonde de température en variation de tension; on réalise un montage à deux amplificateurs opérationnels (voir figure -5-). On donne R = 15 kQ et Rz 2 10 kQ
+1-a) Les   amplificateurs   opérationnels sont supposés   parfaits et fonctionnent en régime linéaire. Rappeler les caractéristiques de tels amplificateurs. 1-b)- Exprimer le courant i5 en fonction de la tension E du générateur, de la résistance Ro et du courant i 1-c)- Exprimer le courant i2 en fonction des courants i et i;
+Concours Mathématiques et Physique Session Juin 2012
+Epreuve de Physique
+Page 7/8
+
+--- page 8 ---
+ 
+2 Ro
+R,
+2 Ro
+Do
++12 V
+2 Ro
+Ro io A
+Ro
+R
+U
+Un
+B 77777
+figure -5-
+1-d) En déduire que le courant i se met sous la forme i = K E, déterminer  K . Quelle est le rôle de cette partie du montage ?
+2-a)- Exprimer la tension mesurée U en fonction de la tension Us aux bornes de la sonde, des résistances R et Rz ct de la tension Up entre le curseur C du potentiomètre P et la masse (le potentiomètre est alimenté par une tension indiqué sur la figure -5-) 2-b) En déduire que la relation entre U n1 et € est linéaire.
+3- On étalonne la sonde de sorte que U =0 V lorsque 8 = 0 'C et U m = 2,5 V lorsque 0 = 100 C Déterminer les valeurs de E et Up
+4- Au fond dun puits de forage de profondeur 1500 m, on introduit la sonde à fil de platine. Déterminer la température de la Terre à cette profondeur sachant que la tension mesurée est de U m = 3 V
+
+Concours Mathématiques et Physique Session Juin 2012
+Epreuve de Physiquc
+Pagc 8/8

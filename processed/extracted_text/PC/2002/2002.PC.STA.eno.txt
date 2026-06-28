@@ -1,8 +1,184 @@
+--- page 1 ---
+REPUBLIQUE TUNISIEYYE Ministère de ['Enseignement Supérieur
+Concours Nationaux d'Entrée aux Cycles de Formation d'Ingénieurs Session Juin 2002
+(qreparatoire s eieliotheque ` 'Cuteheusss Concours Mathématiques-Physique et Physique-Chimie Epreuve de Sciences et Techniques de ['Ingénieur
+Date Vendredi 07 juin 2002 Heure 8 H
+Durée 3 H
+Nombre de pages
+Barème
+Partie A : 11 pts
+Partie B 3 pts
+Partie C : 6 pts
+Remarques
+1/ Les parties A, B et Csont indépendantes et doivent être rédigées sur des feuilles séparées 21 Les documents réponses 5/9 et 6/9 sont à rendre en fin dépreuve
+MECAYISME D'ANTENNE PARABOLIQUE
+Présentation
+La figure 1 représente le schéma cinématique simplifié du mécanisme d'entraînement dune antenne parabolique de réception télévisée. Les principaux éléments de ]'ensemble sont support fixe (0) réflecteur parabolique (1) vérin électrique (VE) Le vérin (VE) est constitué dun moteur électrique (M) à courant continu solidaire du corps (2) et d'un équipage mobile. Ce dernier est formé essentiellement de la tige (3) et des deux pigrons (4) et (5) à denture droite.
+Principe de fonctionnement
+La rotation imposée par le moteur (M) est transmise par lintermédiaire du pignon (5) au pignon (4). La rotation du pignon (4) est transformée; grâce à la liaison hélicoïdale entre (3) et (4) en une translation; par rapport à (2), de la tige (3) Le réflecteur (1) se trouve ainsi soumis à laction de la tige (3). Cette action provoque la rotation ESTIOUEST, autour de laxe fixe
+(A,Zo) , du réflecteur (1).
+Repères et paramétrage Les repères et les paramètres adoptés se présentent comme suit Ro(A,XosYo,Zo ) repère lié au support (0) supposé galiléen
+Le réflecteur parabolique (1), lié au repère R A,X1Y1,Zo ) , est en liaison pivot d'axe (A,Zo) avec le support (0), on donne 0 =(Xo- X1) = (YoY1) -
+Concours Mathematique-Physique et Physique-Chimie Session Juin 2002
+Epreuve de STI
+Page 1/9
 
+--- page 2 ---
+pRep Aratoire ^ (eieliotheque | 7 En:SLe corps de vérin (2), lié au repère R;(C,Xz,Yz,Zo ) , est en liaison pivot daxe (C,Z0) avec le support (0), on donne $ = (Xo,X:) =(Yo.Yz)
+Le pignon (4), lié au repère R;(K,Xz,Y+,Z,) . est en liaison pivot daxe (K,X:) avec le
+corps de vérin (2), on donne v = (Yz,Y,) =(Zo,Z.)
+Le pignon (5), lié au repère Rs(Q,X.,Ys,Zs) , est en liaison pivot d'axe (Q,Xz) avec le
+corps de vérin (2), on donne B =(YzYs) = (Z0,Zs) 
+Les caractéristiques géométriques du mécanisme sont telles que AB = aY, , CD=bY z DB = 1 X Les_angles @ B , 8 et_v sont_les_paramètres_de_rotation du_mécanisme 1_est_le seul paramètre de translation Les données qui caractérisent les dimensions du système sont a, b R, (rayon du pignon (4)), Rs (rayon du pignon (S))etp (pas de la tige filetée (3)).
+Partie A ETUDE MECANIQUE est m, son centre de masse G est tel que AG = aG X, , sa matrice
+La masse du réflecteur
+d'inertie centrale est définie par [a1] =
+B1 B1Jxy,Zs)
+Pour simplifier les calculs; on supposera négligeables les masses et les inerties_des éléments constitutifs du vérin (VE) (2,3,4, 5, moteur M)
+Partie A-I CINEMATIQUE
+I-1. Exprimer les torseurs cinématiques par rapport à Ro(A,Xo.Ya.Zo )du réflecteur point A et du corps du vérin (2) au point C
+a11
+1-2 Calculer alors les vecteurs vitesses suivants
+2.a V(B / Ro ) , en passant par A, 1exprimer dans la base ( Xo,Yo,Zo );
+2.b/ V(B/ Ro ) , en passant par C, lexprimer   dans la base ( Xo,Yo,Zo ) ;
+1-3. En déduire les relations scalaires entre les différents paramètres. I-4. Déterminer ^ en fonction de0 1 , @ , 0 a et b,.
+1-5. Ecrire la condition de roulement sans glissement en I entre le 'pignon (5) et le pignon (4) En déduire la relation entre y et B
+Concours Mathematique-Physique et Physique-Chimie Session Juin 2002
+Epreuve de STI
+Page 2/9
 
+--- page 3 ---
+1-6. Sachant que 23/2=0 exprimer, en fonction de _ Aety le torseur cinématique de (3) par rapport à (4) au point D
+I-7 . Ecrire la relation entre ^ et V En déduire la relation entre ^ et B ainsi que celle qui relie ^ à B sachant qu 'à B=0 on a 1=0
+1-8 Donner alors la loi entrée sortie du mécanisme: 0=f( B)
+Partie A-II ENERGETIQUE
+Dans cette étude on admettra que toutes les liaisons sont parfaites sauf la liaison de (3) avec (4) L'action du moteur (M) sur le pignon (5) est un couple Cu=C Xz .
+Laction de (3) sur (4) est représentée par le torseur
+Fa/3=X Xz+Y Yz+Z Zo 43 43 43 Kans)d M D(4/3)=La3 Xz+M YztN éo  43 43
+Faccélération de la pesanteur est exprimée par g ~g(sina Xo+ cosa Zo )où inclinaison constante par rapport à la verticale
+est une
+On considère le système Z formé par les éléments {1,2,3,4,5 et le moteur M}
+I-1 Donner les torseurs des actions mécaniques extérieures appliquées à =. Préciser, pour chacune de ces actions; le point dapplication et la base de projection
+I-2 Donner les torseurs des actions mécaniques intérieures à 2 . Préciser; pour chacune de ces actions; le point d 'application et la base de projection
+1-3 Calculer   la puissance   développée par  toutes les   actions mécaniques   exterieures   qui
+s'exercent sur Z dans son mouvement par rapport à Ro(A,Xo,Yo,Zo) 
+II-4. Calculer la   puissance développée par toutes les actions mécaniques intérieures appliquées à 2
+I-5. Calculer l'énergie cinétique de Z dans son mouvement par rapport à Ro(A,Xo,Yo,Z0) .
+I-6. Trouver la relation qui découle du théorème de lénergie cinétique appliqué à 2 dans son mouvement par rapport à Ro(A,Xo,Yo,Zo) .
+Concours Mathématique-Physique et Physique-Chimie Session Juin 2002
+Epreuve de STI
+Pege 3/9
 
+--- page 4 ---
+XI
+Zo
+Xo
+A
+Xo
+7K  F
+Yo
+H/
+Zo ^
+74
+Zo
+z3
+7
+7
+72<
+K
+Figure 1 : Schéma cinématique du mécanisme
+icours Mathématique-Physique et Physique-Chimie Session Juin 2002
+Epreuve de STI
+Page 4/9
+)
 
+--- page 5 ---
+République Tunisienne Ministère de /'Enseignement Supérieur
+Concours Nationaux d'Entrée aux Signatures des surveillants Cycles de Formation d'Ingénieurs Session juin 2002 Concours MP PC Epreuve STI
+Nom
+Prénom Série
+Identification
+` 
+Partie B TECHNOLOGIE DE CONCEPTION
+1. Quelle est la nature des liaison suivantes (3) avec (2) (3) avec avec (5)
+2. Représenter le graphe de liaisons du système étudié.
+Concours Mathématique-Physique et Physique-Chimie Session Juin 2002
+Epreuve de STI
+Page 5/9
 
+--- page 6 ---
+N e rie n é c r ir e ic i
+3. Compléter, le dessin de définition de la tige (3) par la vue de face
+la vue droite
+la vue de dessus
+Concours Mathématique-Physique et Physique-Chimie Session Juin 2002
+Epreuve de STI
+Page 6/9
 
+--- page 7 ---
+Partie C :AUTOMATIQUE
+Dans cette partie; on se propose de mettre en œuvre une régulation de la position de [antenne parabolique. On présente; à la figure (2) le schéma technologique simplifié du système de réglage. L'antenne repose sur un plateau tournant entraîné par un moteur électrique à courant continu par l'intermédiaire dun réducteur de rapport n. Langle de rotation de lantenne est mesuré par un transformateur différentiel (TR) à réluctance variable de type rotatif de gain k Ce demier, transforme langle de rotation & en un signal électrique es, qui sera transmis à un amplificateur   différentiel pour être   comparé à un signal  de référence ed produit   par un potentiomètre gradué en degrés. Ce signal est proportionnel à langle désiré Q (c.à.d ed=k. Qa) Le signal derreur e entre les signaux ed et es, est ensuite amplifié en puissance par un gain A pour pouvoir commander le moteur qui actionnera le mouvement de ]antenne.
+Ra
+Réducteur (n)
+fm; @m
+@m ;Cm Jm
+Jc, fc, @c
+TR
+@c Cz
+@=0c
+Amplificateur différentiel (comparateur)
+Amplificateur de puissance
+Qa
+k
+ed
+Figure 2 : Schéma technologique du système de réglage.
+Concours Mathématique-Physique et Physique-Chimie Session Juin 2002
+Epreuve de STI
+Page 7/9
 
+--- page 8 ---
+Liste des variables Tension d'alimentation Courant absorbé_par le moteur Force contre électromotrice Couple moteur
+Liste des paramètres Résistance de linduit Inductance de linduit Constante du couple Moment d inertie de la partie tournante sur larbre du moteur Coefficient de frottement visqueux entre les paliers et l'arbre du moteur Rapport de réduction du réducteur
+Ra L Km Jm
+@m
+Vitesse angulaire de Tarbre moteur
+fm
+C1
+Couple transmis à lentrée de 'étage de réduction Couple à la sortie du réducteur Vitesse angulaire
+Cz (c
+Jc fc
+Moment d inertie de_la charge Coefficient de frottement visqueux de_la charge Constante électrique
+Couple de perturbation Position angulaire de Tarbre moteur Position angulaire de Tantenne
+Ke
+8in
+La mise en équations de ce système fait apparaître 1ensemble des équations électriques et mnécaniques suivantes
+ea R,i,(t)+L,di (+e (t) Equations électriques dt e (t) = ke@m (t)
+don Cm - C = Jm @+f@ dt Cm = kmia (t) @ G n = @m C2 Equations mécaniques d@(2 Cz -C = J- + f @ dt d0() @m dt d002 @c dt
+Partie C-I MODELISATION DU MOTEUR
+1-1. Montrer que les équations mécaniques peuvent se mettre sous la forme suivante
+do Cm -nCr=J 4f 0 (t) dt
+Concours Mathematique-Physique €t Physique-Chimie Session Juin 2002
+Eprcuve de STI
+Page 8/9
 
+--- page 9 ---
+avec Je = Jm+ n?Jc moment d'inertie équivalent ramené sur ]arbre du moteur, et fe = fm+ nfc= coefficient de frottement visqueux équivalent ramené sur 1arbre du moteur.
+1-2 En appliquant la transformée de Laplace aux équations électriques et mécaniques et en considérant   que les conditions initiales sont   nulles, établir le schéma   fonctionnel de ce système. Il faut prendre comme grandeur d'entrée la tension d'alimentation € grandeur de sortie la position angulaire 0 et grandeur de perturbation le couple Cr.
+1-3. Montrer que le schéma fonctionnel peut être mis sous la forme suivante
+Cr(p)
+Tz(p)
+{2m(p) Ts(p)
+Ea(p)
+@m(p)
+T (p)
+En déduire les expressions des fonctions de transfert T (p) Tz(p) et Ts(p) 1-4 . Etablir les expressions du gain statique; du coefficient damortissement et de la pulsation propre non amortie de la fonction de transfert T (p) En déduire les valeurs de ces paramètres_
+Application_numérique : Ra=1,2 Ohm La-3.10- H ke=0,3 Vlrd.s km=0,3 m.NIA fe=10 Nmlrd.s Je-5.1o Kg.m? n=0,1 k=0,1VIrd
+Partie C-II ETUDE DU SYSTEME EN BOUCLE FERMEE
+II-1. Etablir le schéma fonctionnel du   système de régulation de Fangle sortie œ) Dans ce qui suit on considère que le couple résistant est nul
+entrée   Qd
+II-2. Déterminer les valeurs de A qui assurent la stabilité du système en boucle fermée.
+I-3. Dans la suite; on néglige ]'inductance de Finduit du moteur 3.a/ Déterminer   la valeur de A pour avoir un dépassement  du système en boucle fermée égal à 9%.
+3.a/ Pour cette dernière valeur de A et une entrée Qa(p) 0,3/p2 déterminer Terreur (e Qa Q) en régime permanent. En déduire les valeurs d'équilibre des grandeurs physiques en présence.
+Concours Mathematique-Pnysique et Physique-Chimie Session Juin 2002
+Epreuve de STI
+Page 9/9

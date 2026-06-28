@@ -1,3 +1,65 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de ['Enseignement Supérieur Concours pationaux d'cntréc &x cyckes de formetfon d'ingénleurs Session 2006
+1;@sH1 {i2s4ut] æWkslastis dsia uts elbi} Chahauf Üssi ul s 2006 5a9
+~N
+Concours Biologie et Géologie {n3ti8 # ( 'olrs Epreuve de Mathématiques {Scss2*; . #6a 0rB |sttuf , PRep4ratot dw *5& X ibl10; HeQue Blaer AMs'puxwt
+Durée 3 H Date 5 Juin 2006 Heure 8 HI Nb d 4 Barème Exercice 1 6 points Exercice 2 4 points Problème 10 points
+Une grande importance sera attachée à la rigueur du raisonnement; à la clarté de la rédaction et au soin de la présentation.  il est rappelé que tout résultat énoncé dans le tezte peut être utilisé pour traiter la suite; même s'il n'a pu être démontré.
+Exercice 1
+Soient  Bc (e1,e2,e3) la base canonique de R3 f Yendomorphisme de R3 donl la matric relativement à la base Bc est
+5   5 ~14 6 6 =16 5 5 ~14
+A =
+I BIC 485 Artivé {c Aglo6/?g
+1 a. Calculer le polynôme caractéristique de A b. En déduire que A est diagonalisable. 2 Soient 01 = e1 + 2e2 +e3, "2 = e1 e2 et U3 = e1 + 82 + e3. a. Vérifier que B = (01,02, "3) est une base de R3 b. Ecrire la matrice D de f dans la base B. 3 Soit P la matrice de passage de Bc à B. Calculer P-1 4 On considère la matrice
+8 4 ~16 0   4 ~8 4  4 ~12
+C =
+et on pose
+= P-'CP
 
+--- page 2 ---
+a. Vérifier que
+( ' 9) b. En déduire les valeurs propres de C. 5. Pout tout entier n € N, on définit la matrice colonne Yn
+@n bn Cn
+par
+~3 ~1
+Yo =
+Yi =
+et Yn+z = DYn+1 + AYn, Vn € N,
+2
+où an , bn, Cn sont des réels. à. Montrer alors que Vn € N on à
+an+2 = @n+l , bn+2 = 4bn, Cn+2 = ~Acn+1 Acn- en fonction de n. b. En déduire les expressions explicites de @n: bn et Cn 6. Déterminer les matriccs colonnes Xn définies par
+=
+X1 =
+~1
+et XnA 2 2 AXn+1 + CXn, Wn € N.
+Exercice 2
+Soit X et Y dcux variables aléatoires réelles de fonction de densité conjointe défini par k(2z + 3y2) si 0 < 2 < 1 et 0 <y < 1. f (s,y) = { 0 sinon
+1. Déterminer la valeur de k . 2 . On désigne par F la fonction de répartition du couple (X,Y) {. Déterminer F(t; :) lorsque 0 < t < 1 et 0 < 2 < 1. b. Déterminer F(t, z) lorsque t > 1 et 0 < z < 1. € Déterminer F(t, z) lorsque 0 <t < 1 et z > 1 d. Détermniner F(t,z) lorsque t > 1 et z > 1. 3. Donner les fonctions de répartitions marginales de X et Y: 4. à Calculer les espérances mathématiques E(X), E(Y), E(XY) b En déduire la covariance Cov(X,Y) entre X et Y
+2
+Xo
 
+--- page 3 ---
+Problème
+Partie I
+4 (cos t)" dt.
+Pour tout entier naturel n on note In =
+1. Calculer Io el I1. 2. a. Etablir que Vn € N (n +2) In+2 = (n + 1) In. b. En déduire que pour tout entier n,
+CZn T I2n  et I2n+1 4" 2
+4"
+(2n + 1)C2n
+3. a Montrer que pour tout entier n,
+n
+In+l < 1. n + 1 In
+2(4" ) 2
+b. En déduire que lim TT . n-++-0 (C2n)2(2n + 1) 4" C En déduire que C2n N =quand n tend vers +0. Vnz
+Partie II
+1. On considère la série entière C2n I" et on notc $ sa somme n20 à. Quel est le rayon de convergence R de cette série entière ? b. Montrer que la série numérique C2n R" diverge. n20
+c.
+Quelle cst la naturc de la série numérique C2n (~R)" ? n20 2 On note S' la dérivée de $ a. Montrer que
+S(c) = (~2æ + 4)$), pour tout æ de ]~R; R[ .
+b En déduirc lexpression de S(æ) pour tout æ €] - R, R[
+3
 
+--- page 4 ---
+Partie III
+1 On considèrc léquation différentielle (E) (1 _ 22) y ~ Iy = 1. O1 sc propose de trouver les solutions de (E) développables en série entière à lorigine +0 qui sont de la forme y(æ) = 02n+122n+1 n=0 4n à. Vérifier que 02n+1 ~ Vn € N. (2n + 1) C2n +o b Irouver le rayon de convergence de 1I 2n+1 02n+ n=0 Arcsin 2 2. Soit f (z) V1 - 22 a. Détermincr le domaine de définition de f. b. Montrer que f est développable en série entière au voisinage de 0. 3. à Montrer que f vérifie léquation (E) b Fn déduire le développement en série entière de la fonction f et de la fonction 9 : I (Arcsin z) 2

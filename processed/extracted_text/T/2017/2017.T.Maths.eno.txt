@@ -1,3 +1,51 @@
+--- page 1 ---
+République Tunisienne Ministère de lEnseignement Supérieur et de la Recherche Scientifique Concours Naticnaur dEntréc aux Cycles de Formation dIngenieurs Session 2017
+1+gj) _842 | &10?)B(lps Eusieeals Liw uji B1bLLJi 044J1 0485 jll 2017 {49j
+CoNcouRs TECHNOLOGIE EPREUVE DE MATHÉMATIQUES
+Session 2017
+Date: 25 mai 2017
+Heure: 8H
+Durée 4 heures
+La qualité de la rédaction et de la présentation, la clarté et la précision des raisonnements entreront pour une part importante dans Tappré- ciation des copies. Lusage des calculatrices n'est pas autorisé. Tout résultat fourni dans lénoncé peut être admis et utilisé par la suite, même s'il n'a pas été démontré
+Exercice (2 points) On lance un dé non truqué à cinq faces et on regarde le nombre inscrit sur sa face inférieure. On note pn la probabilité que la somme des résultats obtenus lors des n premiers lancers soit paire 1. Calculer P1 et p2.
+Montrer que la suite (pn)n21 vérifie la relation de récurrence Pn+1 5Pn + 5(1 Pn) . En déduire la valeur de pn pour n > 1 et déterminer lim Pn. n=+0 On lance; maintenant; indéfiniment le dé et on appelle X le rang du premier 5 obtenu. On admet que X est une variable aléatoire réelle (a) Déterminer la loi de probabilité de X. Déterminer la fonction génératrice de X. En déduire lespérance et la variance de X
+Problème 1 (9 points) Partie I
++0 #x-1e-tdt.
+Pour tout x > 0, on pose T(x) = (a) Montrer que T est définie et continue sur ]0, +œ[ et que, pour tout x > 0, T(x) > 0. (b) Vérifier que T(1) = 1 et que, pour tout x > 0, T(x+1) = x T(x) En déduire que, pour tout n € N; T(n +1) = n: |In(t) | k +9 ~1 , si tejo,1], 2. Soit a,b € R tels que 0 < a < b et k € N* . On pose fx(t) (In(t)) k +b-1 e-+ si t €]1, +œ[. (a) Montrer que fk est intégrable sur ]0,+œ[ (b) Montrer que T est de classe Cœ sur ]0,+o[ et pour tout k € N* et x > 0, 100 F(k) (x)= Jo (In(t)) k +x-1 e-'dt. (a) En appliquant linégalité de Cauchy-Schwarz aux fonctions t . > t7e? et t + + |In(t)|t4e, montrer que, pour tout x > 0, (T'(x))? < T(x)T"(x)  (b) En déduire que la fonction est croissante sur ]0,+0 [:
 
+--- page 2 ---
+CoNcOURS TECHNOLOGIE
+EPREUVE DE MATHÉMATIQUES
+Page 2 sur 4
+Partie II
+Soit une fonction définie sur ]0,+o[, strictement positive et dérivable. On suppose que @(x + 1) = x @(x), et que la fonction est croissante sur ]0,+o [. $ On veut montrer que, pour tout x > 0, @(x) = @(1)T(x) . Pour cela, on pose Y = Montrer que Y est 1-périodique sur ]0,+œ[ et que Y(1) = @(1) . Montrer que pour tout x > 0 : Y F'x) $ (b) 0443 0'(r2 + 1 (c) 1'(x+1) MGr2 + 1 Y(x @(x) T(x) @(x) T(x +1) T() On pose B = "2 Y(1) Montrer que, pour tout x €J0,1] et n € N' , F'(n+1) Y'(x+n) T(n +1) 244-54 P(x+n) (b) Montrer que, pour tout x €]0,1] et n €N',f-1<Ya)<B+1 Y(x) En déduire qu'il existe une constante C € R telle que, pour tout x > 0, Y(x) = Cexp(B x) Montrer que B = 0 et conclure.
+Partie III
+1. Montrer que la série numérique n21
+14) est convergente et donner sa somme 2 (1-n+) n1=1 2. Soit (un)neN: la suite définie par Vn € N* Un = 2 In(n) . k==l (a) Montrer que la série numérique 2 (un+1 Un est convergente. n21 (b) En déduire que la suite (un)neN' converge. On note Y = lim Un . 1 =+100 ~a En exprimant (un+1 Un en fonction de Y, montrer que In (1+1)) = ~ 1=1 n=1 Montrer que la série de fonctions 2 14) est normalement convergente sur [0,a], pour tout n21 @ > 0. 5. On pose pour tout x > 0, H(x) = _1 +(i - n (a) Montrer que H est de classe C1 sur J0,+o[ et donner, pour x > 0, Pexpression de H' (x) sous forme dune série. (b) En déduire que H est croissante sur ]0,+0[ (c) Vérifier que H(1) = 0 et que, pour tout x > 0, H(x + 1) = H(x) +
+On pose pour tout x > 0, M(x) = H(t)dt. (a) Montrer que M(2) = %. En déduire que, pour tout x > 0, M(x + 1) = M(x) + In(x) + Y. +o (b) Montrer que, pour tout x > 0,la série numérique > ~In (1+%)) converge. n=l
 
+--- page 3 ---
+CoNcouRs TECENOLOGIE
+EPREUVE DE MATHÉMAIIQUES
+Page 3 sur 4
+En déduire que, pour tout x > 0, M(r) = -In(x) = Y+ 2 =In (1+")): M=l On considère la fonction F définie sur ]0,+o [ par F(x) exp(-Y x + M(x)) . (a) Montrer que F vérifie les hypothèses de Tapplication @ de la Partie II (b) Déduire que, pour tout x > 0, F(x) = e-" T(x) F Exprimer pour x > 0, T(x) en fonction de H(x) En déduire que : F'(1) = -Y. Etablir les formules pour tout x > 0, n'n! =x exp(Y x) lim ]( +")s exp (~I),puis T(r) lim 7=+40 n=50 x(x+1) .. . (x+n)
+Problème 2 (9 points) Notations
+Soit n € N; n 22 On note ( Mn,1(R), (, ) ) Yespace euclidien des matrices à n lignes et une colonne et à coefficients réels muni de son produit scalaire canonique défini par VX,Y€ Mn1(R), (X,Y) = 'XY, où #X est la transposée de X.
+On note | Il la norme associée à ce produit scalaire. Mn(R) désigne lespace vectoriel des matrices carrées dordre n et à coefficients réels_
+Un vecteur (X1,  .  ,Xn) de Rn est identifié à lélément X =
+de Mn,1(R)
+On note par B = {e1,.. .  en} la base canonique de R" Pour A € Mn(R) , on note A la matrice transposée de A et Sp(A) Tensemble des valeurs propres réelles de A_ In désigne la matrice identité de Mn (R)
+Partie I
+Dans cette partie, on suppose que n = 3. On considère le sous-espace H = {X= (x1,X2,x3) € R3 / Y1 + x2 + X3 = 0} et les vecteurs u = (1, =1,0), 7  (1,0,-1) et w = (1,1,1). (a) Montrer que (Rw)l = H.En déduire que R3 = H@ Rw. (b) Vérifier que {u,v} est une base de H. En déduire que {u,v,w} est une base de R3_ Soient A et D deux matrices carrées dordre 3 définies par A = 8 )  D = (: ~1 (a) Vérifier que {u,v,w} est une base de vecteurs propres de A. (b) Déterminer une matrice orthogonale P telle que A = PD'P. On note p la projection orthogonale sur H. Soit X € R3. (a) Déterminer Yunique vecteur Y = (y1 y2ys) € H et lunique réel ^ tels que X =Y + Aw. b) En déduire lexpression de p(X) dans la base canonique B = {eve2,e3}  (c) Déterminer le rang et la trace de la projection orthogonale p. Soit b = (4,1,1) € R?. Pour tout (x1,x2) € R2, on pose f (x1,x2) = |lb _ x1 u _ x2 v2 et = la surface de R3 donnée par E = {(x1,X2,X3) € R' X3 = f(x1 X2) } 
 
+--- page 4 ---
+CoNcoURs TECHNOLOGIE
+EPREUVE DE MATHÉMATIQUES
+Page sur 4
+Vérifier que f(x1,x2) = 2(x2 x2 + X1x2 3X1 3x2 4 9). df df (b) Montrer que f est de classe C~ sur R? et calculer (x1,X2) et (x1,22) . 9X1 9x2 (c) Montrer que min f(x1,x2) existe et donner sa valeur. (x1,xz)eR? d) Vérifier que M = (1,1,12) est un point régulier de Z et déterminer léquation du plan IItangent à 2 en ce point.
+Partie II
+Soit A = (aij)uzijsn € Mn(R) une matrice symétrique non nulle vérifiant aij € {0,1}, V(i,j) € {1,,n}2 et Qii = 0, Vi € {1,..,n}
+On pose Vi € {1,,n},d; = Eaj, et & = max (d;) 1=1 I<i<n X1 Ixu| Pour tout X = € Mn,1(R), on définit Ix] et Q(X) = #XAX. Xn Ixnl Montrer que A admet une base orthonormée de vecteurs propres de Mn,1 (R). On désigne par ^1, À2,. .  , An les valeurs propres réelles de A rangées par ordre croissant, cest à dire A1 < 12 < < An. On note C = {v1, .  vn} la base orthonormée de vecteurs propres, où pour tout i € {1,,n}, v; est le vecteur propre unitaire associé à la valeur propre Ai Montrer qu'il existe k € {1,...,n} tel que Ak # 0. Calculer Eai et en déduire que A1 < 0 < An. 1=1 Montrer que, pour tout X € Mn,1(R), on a : À1 |lXIl? < Q(X) < AnllXII? . On note S = {X € Mn,1 (R)IIxI = 1} la sphère unité de Mn,1 (R) a) Montrer que $ est un fermé borné de Mn,1 (R)- Montrer que Q est continue sur Mn,1 (R). En déduire que est bornée sur $ et atteint ses bornes_ (c) Calculer Q(v1) et Q(vn). En déduire que A1 min Q(X) et An max Q(X) . Xes Xes 5. Soit X € Mn,1 (R). (a) Montrer que |Q(X)I < alXI2  et en déduire que An < & = max (d;) I<i<n (b) Comparer |Q(X)| et Q(IXI). En déduire que, pour tout i € {1, ,n} |a;l < An.
+6. Soit An € Mn(R), n 2 2, la matrice définie par An
+On note Pn (1) = det( ^ In An) le polynôme caractéristique de la matrice An. (a) Etablir que pour 4 € R et n 2 2 : Pn+2(4) = APn-1(4) = Pn(a) En déduire que pour tout n 22, Pn(2) = n + 1. Montrer que pour toute valeur propre u de An, on a : lu| < 2 En déduire quil existe 0 €Jo, z[ tel que u = 2cos(0) Montrer que, pour tout 0 ej0,r[, P (2cos(0) ) = sin((n + 1)0) . Déterminer alors Sp(An) . sin(0)
+Fin de lénoncé

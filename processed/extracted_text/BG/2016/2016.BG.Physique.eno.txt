@@ -1,5 +1,77 @@
+--- page 1 ---
+4298j) 42/4a) Ukakalz'bs gÆï~b Jiw Gibji @l,BLij) ixdiel jis JalJi 2016 51H
+REPUBLIQUE TUNISIENNE
+Ministère de l'Enseignement Supérieur et de la Recherche Scientifique
+Concours Nationaux d'Entrée aux Cycles de Formation d'Ingénieurs Session 2016
+Concours Biologie et Géologie Epreuve de Physique
+Date Lundi 30 Mai 2016 Barème: Problème 1 10 points
+Heure 8 H Durée 3 H Problème 2 10 points
+Nb pages 6
+L'usage d'une calculatrice non programmable est autorisé: L'épreuve comporte deux problèmes indépendants; le candidat peut les résoudre dans l'ordre qui lui convient; en respectant néanmoins la numérotation des questions: Un candidat peut toujours se servir d'un résultat fourni par l'énoncé pour continuer sa composition:
+Problème 1
+Données numérique Constante des gaz parfaits R = 8,314 J.K-1 mol-1 . Intensité du champ de pesanteur 9 = 9,81 m.s-2 . Pression atmosphérique à laltitude z = 0: Po = 1,013105 Pa Température ambiante à /altitude z = 0 : To = 300 K. Masse molaire de lair Ma = 29 10-3k9. mol-1. Masse molaire de la vapeur deau Mv = 18 10-3k9.= mol-1 . Masse volumique de l'air: Pa = 1,18 kg.= m-3 Masse volumique de l'eau: Pe = 103kg.m-3
+Dans ce problème on aborde létude de quelques aspects de la physique de latmosphère. On assimilera le référentiel terrestre à un référentiel galiléen. On désignera par R(O,x,Y,z) un repère cartésien dont l'axe Oz est pris vertical ascendant. Lintensité de   pesanteur sera supposée constante.
+A Pression de Patmosphère Lair atmosphérique considéré dans cette partie est en équilibre hydrostatique sous laction du champ de pesanteur. On négligera la rotation de la terre de sorte que les variables d'état ne dépendent que de l'altitude 2.
+I Relation fondamentale de Phydrostatique On considère dans Patmosphère une tranche dair cylindrique comprise entre les altitudes z et Z + dz. 1- En exprimant  la condition déquilibre  mécanique et en dressant un bilan des forces s'exerçant sur cette tranche; montrer que la pression P(z) de lair à laltitude z est reliée à la masse volumique Pa(z) de /air par dP(z) 2 ~gPa(z) dz
+Concours Biologie et Géologie
+Session 2016
+Epreuve de Physique
+Page 1/6
 
+--- page 2 ---
+2- L'air est supposé un gaz parfait. Exprimer Pa(z) en fonction de la température T, de la pression P et de la masse molaire de /air Ma: Calculer numériquement Pa(z = 0). 3 - Déduire l'équation différentielle vérifiée par P
+II- La température de Patmosphère est constante 4 - La température de Patmosphère est   supposée uniforme   égale à To (Modèle de Tatmosphère isotherme) 4.1 En déduire que la pression de lair peut s' écrire P(z) = Poexp Ho 4.2 Donner   lexpression de la constante Ho: Quelle est son unité ? La calculer numériquement. 4.3 Calculer P(z) pour les altitudes en km z = 0; z = 0,5 ; z = 2; z = 5 et z = 8 Tracer Fallure de variation de la   pression P en fonction de 2 . Retrouver graphiquement la valeur de Ho.
+La température de latmosphère est variable
+La variation verticale de la température de la troposphère (0 < z < 11km) relevée à laide d'un ballon-sonde est donnée par la relation T(z) = To  Az avec 1 = 0,007 K.m-1 . 5- Expliquer brièvement pourquoi lair au sol est plus chaud qu' 'en altitude. 6- Montrer que la pression de lair dans la troposphère peut s'écrire sous la forme P(z) = Po (1 - 22) = Io avec B To AHo
+7 - L'évolution de cette pression en fonction de l'altitude est donnée par le tableau suivant: z en km 0,5 2,0 5,0 8,0 11,0 14,0 P(z) en Pa 94500 79300 54800 36700 23700 14600 Jusqu'à quelle altitude le modèle de latmosphère isotherme (question I1.4.3) est-il applicable lorsqu'une précision de 9 % sur la pression est tolérée ?
+B- Chute d'une goutte d'eau Une goutte deau de masse volumique Pe assimilée à une sphère de rayon a = 0, 5mm tombe dans l'air. La figure 1 représente la variation de la norme de sa vitesse VG en fonction du temps. 8- Décrire à partir de cette figure   les différentes Vam/s) phases du mouvement. 30 _ 9- Calculer la valeur du temps caractéristique T de ce 20 mouvement. Préciser sa signification physique:. 10 10- Quelle est la valeur limite VGL de cette vitesse? 11- Justifier qu' on peut négliger la force associée à la 13 t(10-3s) poussée d Archimède. Figure 1
+12- Soit n la viscosité dynamique de lair, établir léquation différentielle vérifiée par VG en tenant compte de la force de pesanteur et de la force de frottement visqueux goutte air f 6unaV G. En déduire lexpression de VGL en fonction de m, n, a et g. Calculer la valeur de n
+Concours Biologie et Géologie
+Session 2016
+Epreuve de Physique
+Page 2/6
 
+--- page 3 ---
+C- Diagrammes d'équilibre de /eau 13- Donner l'allure du diagramme d'état (P,T) de l'eau pure existant sous ses trois phases. P et T désignent respectivement la pression et la température de l'eau. 14- Préciser la signification physique de chaque courbe de ce diagramme et des domaines qu'elle délimite. 15- Définir le point triple et le point critique. 16- Tracer Tallure des isothermes T < Tc ; T = Tc et T > Tc dans le diagramme de Clapeyron (P,v) de /eau pure constituée de deux phases liquide et vapeur en équilibre où 1 représente   le volume   massique de Peau   pure et Tc sa température   critique. Représenter sur   le même diagramme  les  courbes   débullition et de rosée. Définir la pression de vapeur saturante Ps; et /' 'indiquer sur le diagramme. 17- Quelles sont les caractéristiques de l'isotherme critique ? 18- Le titre massique en vapeur est défini par le rapport de la masse de vapeur mv à la masse totale m, Xv = mv m = V-Vl Montrer que ce titre s'écrit sous la forme: Xv Vv-Vl Les indices l et v indiquent respectivement les phases liquide et vapeur ; Vv et v1 sont respectivement les volumes massiques des phases vapeur et liquide. 19- On désigne par h lenthalpie   massique de leau   pure et hv et h1 les   enthalpies h-h massiques respectives des phases liquide et vapeur. Montrer que Xv = hv-hl 20- On désigne par   Lv(T) la chaleur latente de vaporisation dun corps pur à la température T. Donner la relation liant Lv(T) à hv(T) et h[(T).
+D-Etude thermodynamique de lair humide Lair qui nous entoure est humide, cest un mélange dair sec et de vapeur deau. Les caractéristiques de cet air sont liées aux proportions de chacun de ces constituants On considère, dans la suite du problème, que lair humide est à la pression atmosphérique Po, et que lair sec et la vapeur deau se comportent comme des gaz parfaits. On désigne par Ma et Mv; les masses molaires respectives de /air sec et de la vapeur deau. Pa et Pv les pressions partielles respectives de lair sec et de la vapeur d'eau contenus dans un volume V dair humide. 21- En utilisant la loi des gaz parfaits, montrer que: Po =Pa + Pv 22- Pour les masses ma et mv respectivement dair sec et de la vapeur contenues dans le volume V à la température T, on peut écrire PaV = ma Ra T PvV = mv Rv T. Ecrire Ra en fonction de R et Ma ' puis Rv en fonction de R et Mv: Calculer Ra et Rv. € = Pv 23- On définit lhumidité relative de lair ou degré hygrométrique par Ps Calculer numériquement les masses ma et mv lorsque €=0,85 pour 1 m3 dair humide à T = 288 K et une pression de vapeur saturante Ps = 1706 Pa 24- On définit lhumidité spécifique q de lair humide par le rapport de la masse de vapeur deau contenue dans le volume V à la masse dair sec contenue dans ce même volume (9 m2) Montrer la relation suivante Po = Pv(1+ ma
+Concours Biologie et Géologie
+Session 2016
+Epreuve de Physique
+Page 3/6
 
+--- page 4 ---
+A est une constante à exprimer en fonction de Ra et Rv. Calculer A 25- Pour € = 1, Pair humide est saturé en vapeur deau. Leau supplémentaire se présente alors sous forme de gouttelettes deau en suspension. Exprimer q en fonction de Po, Ps et A. Calculer 9 pour les valeurs de Ps indiquées dans le tableau suivant
+Ps(Pa) 610
+880 1227 1706 2337 3173 4274 5727
+7377 9715
+26- Les enthalpies de lair sec et de lair humide sont définies par rapport à une température de référence Tr = 273 K. 26.1 Soit lv = 4 la chaleur latente massique de vaporisation de leau: Déterminer   la mv variation denthalpie massique Ah de lair humide en fonction de ma lv, 9 T, Tr et des capacités thermiques à pression constante respectives de lair sec cpa et de la vapeur Cpv" 26.2 Exprimer Ah en fonction de Penthalpie   spécifique AH* définie comme étant Penthalpie de lair humide contenant une masse ma = 1kg dair sec.
+Problème 2
+Dans sa première  partie, ce problème étudie la propagation des ondes électromagnétiques dans le vide. On mettra en évidence leur propagation et leur   aspect énergétique. Une application est portée sur un faisceau laser. La deuxième partie concerne létude de quelques circuits associés à la détection de ces ondes.
+Partie A Lespace est rapporté à un repère orthonormé (0,<x<yëz) On considère que le laser émet une lumière monochromatique non polarisée de longueur donde 1 = 0,633 um dans le vide. Le faisceau de lumière de section droite circulaire de diamètre d = 1mm, transporte une puissance moyenne P = 10-2W Londe laser se propage dans un milieu homogène isotrope assimilé au vide avec une vitesse C = 3 108ms-1 Le vide est caractérisé par la constante €o = 8,85 10-12 SL On fait   passer ce faisceau en incidence normale à travers un polariseur daxe privilégié parallèle à Ox. A la sortie du polariseur, une onde plane progressive monochromatique (7,B) se propage suivant le sens des z croissants. Le champ électrique de cette onde est donné en 2 = 0 par: 1 = Eo cos (@t) Eo est une constante positive.
+I- Propagation de Ponde électromagnétique dans le vide. 1- Préciser la polarisation de londe transmise par le polariseur. 2- Rappeler la relation entre le module du vecteur donde k et la pulsation @ de cette onde. Ecrire les composantes de k dans la base ( ëxêyëz) 3- Ecrire dans cette base, le champ électrique € en un point M de lespace. Déduire alors Pexpression du champ magnétique B.
+Concours Biologie et Géologie
+Session 2016
+Epreuve de Physique
+Page 4/6
 
+--- page 5 ---
+4- Montrer   que € vérifie léquation de propagation des ondes dans   le vide (équation d Alembert) . 5- Exprimer en fonction de Eo, c et po, le vecteur de Poynting R, puis sa valeur moyenne dans le temps. 6- Donner lexpression de la puissance moyenne P transportée par le faisceau laser de section $. 7- Calculer alors lamplitude Eo du champ électrique correspondant:.
+II- Polarisation de Ponde onde plane monochromatique considérée est maintenant polarisée rectilignement suivant une direction de vecteur unitaire 7 faisant un angle & avec laxe Ox. Elle arrive en incidence normale sur une lame anisotrope à faces parallèles dépaisseur e suivant Oz dont les lignes neutres coïncident avec les axes Ox et Oy d'indices respectifs nx et ny' Ox est laxe lent Oy est laxe rapide. 8- Comparer  nx et ny justifier. 9- A /entrée de la lame (en 2 = 0), le champ électrique de londe peut être décomposé en deux vibrations suivant les lignes neutres de la lame:
+E1x = Eo cosa cos (Wt) E1y = Eo sina cos (Wt) Ecrire les composantes Ezx et Ezy de ce champ à la sortie de la lame. 10- En procédant par changement dorigine des phases; écrire Ezx et Ezy sous la forme:
+Ezx = Eo cosa cos (@t) Identifier lexpression de <
+Ezy = Eo sina cos (Wt + %)
+11- Trouver une relation indépendante du temps entre Ezx Ezyp Eo, & et   12- On se place dans le cas où a = " Déduire létat de polarisation de londe transmise 4 (a) It lorsque 4 = T (b) 4 = 2 Caractériser la lame dans chaque cas. 13- En pratique; on dispose dun polariseur P1 et dun analyseur Pz. 13.1 Indiquer langle entre le polariseur et lanalyseur pour lequel il y a extinction de Ponde. 13.2 Pour cette position on introduit une lame quart-d'onde entre P1 et P2, on tourne cette lame de façon à ce que son axe lent coïncide avec laxe privilégié du polariseur. Ya-t-il extinction de londe  transmise ? 14- I A partir de cette position on tourne la lame dun angle inférieur à 2 14.1 Quelle est la polarisation de londe émergente ? 14.2 Proposer un montage optique permettant de vérifier cet état de polarisation:
+Partie B Cette partie est consacrée à l'étude de quelques circuits qui permettent de convertir un signal lumineux en un signal électrique. Dans un premier temps on s'intéresse à l'étude dune tension électrique délivrée par un capteur optique. La suite de cette partie sera réservée à l'étude du filtrage de cette tension à travers deux circuits ayant des fonctions différentes.
+Concours Biologie et Géologie
+Session 2016
+Epreuve de Physique
+Page 5/6
 
+--- page 6 ---
+BI Circuit équivalent d'un capteur optique Un capteur optique   peut-être modélisé par le Rs A circuit électrique représenté sur la figure 2: 15- Le circuit étant ouvert entre les deux points A Ip Rp V(t) et B. En utilisant l'équivalence Norton- Thevenin; donner un nouveau circuit qui lui est B équivalent. Figure 2 16- Etablir léquation différentielle vérifiée par la tension V(t). En déduire V(t) sachant que V(t = 0) = 0. 17- Le circuit étant toujours ouvert entre A et B. Le courant Ip à lentrée du circuit est sinusoïdal de pulsation @ et damplitude constante. 17.1 Exprimer la tension Vp(w) entre A et B en fonction de Rp? 0, C et Ip(@) 17.2 Sagit-il dun filtre passe bas ou dun filtre   passe haut ? Justifier.  Exprimer   la fréquence de coupure en fonction de Rp et C.
+BII Filtre à amplificateur 18- Le circuit précédent est monté à Tentrée inverseuse dun amplificateur   (figure 3) L'amplificateur est supposé idéal et le circuit est alimenté par une tension sinusoïdale de pulsation @ et d 'amplitude constante: On se placera dans la suite de ce problème dans le cas où Rp = Rs = R 18.1 Donner les caractéristiques dun amplificateur opérationnel idéal. Rs 18.2 Déterminer lexpression de la fonction de Rp Rs transfert = 51(2 complexe H1(w) e(w) e(w) 18.3 Calculer |H1(w)/et 41() = ArgH1() 51(0) 18.4 Tracer   le   diagramme de Bode   asymptotique associé à H1(w). Quelle est la fonction réalisée par ce circuit ? Figure 3
+BIII Etude dun circuit déphaseur 19- On réalise le circuit de la figure 4. L'amplificateur opérationnel est idéal. Le circuit est toujours alimenté par une tension sinusoïdale %e pulsation @ et damplitude constante:. 19.1 Déterminer Y'expression de la fonction de s2(2 Rs transfert complexe H2(0) = e(w) Rs 19.2 Calculer |H2()/ et 02() = ArgHz() 19.3 Quelle est la fonction réalisée par ce circuit ? e(w) Rp 19.4 Quel est parmi les deux montages proposés par S2(@) les figures 3 et 4 le plus adapté pour mesurer une tension électrique de fréquence variable ? Figure 4 Justifier .
+Concours Biologie et Géologie
+Session 2016
+Epreuve de Physique
+Page 6/6

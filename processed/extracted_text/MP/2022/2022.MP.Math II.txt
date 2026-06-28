@@ -1,15 +1,229 @@
+--- page 1 ---
+4ai 4)84ai ~ui asdlo _ll ahjl {,13s Jss Gibji = jlliji OniJl Msjal >ji 20226,>
+REPUBLIQUE TUNISIENNE Minstère de ]Enseignement Supérieur, de la Recberche Scientllique Concours Nationaux d'Entée aux Cycles de Formation d'Ingenieurs Session 2022
+Concours Mathématiques et Phygique Epreuve de Mathématiquee II
+Date Mardi 07 Juin 2022 Heure 8H Durée 3H Nbre pagee de la rédaction et de la prébentatlon, la clarté et la précision de8 raigonnements entreront pour une part Importante La qualite dans l'appréciation des copies. Lusage deg calculatricee n'est pas autorieé. Tout régultat fourni dane ]énonce peut être admie et utilieé par la guite même B'il n'a paa 6té démontré
+Notations Dang tout le problème, n est un entier naturel supérieur ou égal à 2 Mn (C) désigne Yalgèbre des matricee carrées dordre n à coefficients dans € GLn(C) est le groupe des matriceg inversibles de Mn (C) . La matrice identité et la matrice nulle Bont notéeg respectivement In et OMn(C) Pour tous &1, ~n €C,onnote par diag (41, ,&n) la matrice diagonale D = (dij) 'I<ijsn telle que, pour tout i € {1,-n} , du = 0i Pour toute matrice M € Mn (C) , on note reepectivement tM, rg(M) et Sp (M) la transposée de M, le rang de M et bon spectre. Pour tout ensemble fini E, card (E) désigne le cardinal de E. +oo Pour tout M€ Mn (C) , on note exp (M) = 2 #M* Yexponentielle de la matrice M. k0 On pourra utiliser librement le résultat guivant
+VM€ Mn (C), VP € GLn(C) et Va € C, a) exp (P-IMP) = P-1 exp (M) P. b) exp ( 'M) = (exp (M)) . c) exp (œIn) = exp (œ) In.
+page 1 sur 5
 
+--- page 2 ---
+Partie préliminaire
+Soit N € Mn (C),d € N* et P = axx* € C[X]: On pose k=0
+@:R -+ Mn (C),tF + ZawtkNk et w :R -+ Mn (C),tF + exp(p(t) ) . k=0
+1 Montrer que @ est de classe C% sur Ret que, pour toutt € R,p (t) = É kaxtk-INk k1 2. Montrer; par récurrence sur d € N* que + est dérivable sur R et que, pour tout #€R, w(t) = 0 (t)p(t) . 3 Montrer que + est deux fois dérivable sur R
+Partie I : Limage de Mn (C) par la fonction exponentielle Dans cette partie on se propose de montrer que Yimage directe de Mn (C) par la fonc- tion exponentielle est égale à GLn (C) ; cest à dire exp ( Mn (C)) = GLn (C) . 1 Montrer que, pour tout M € Mn (C), la matrice exp (M) est inversible. On vient ainsi de montrer que exp ( Mn (C)) € GLn (C) . Dans la suite de cette partie on veut montrer linclusion réciproque 2 Soit N € Mn (C) une matrice nilpotente et A = In + N. On pose, pour tout t € R, (~i)-L#vt 90) == k (a) Montrer @ est de classe Co sur Ret que, pour tout t € R, (In + tN)p (t) = N. (b) On poge, pour t € R, #(t) = exp (p (t)) i. Montrer que + est deux fois dérivable sur R et que, pour tout t € R, (In + tN)w (t) = Nw(t) et (In + tN)w" (t) =0.
+ii.  Montrer que, pour tout t € R, +"(t) = 0. iii.  En déduire que, pour tout t € R, +(t) = tN + In. (c) Montrer alors qu'il existe B € Mn (C) telle que exp (B) = A. 3. Soit N € Mn (C) une matrice nilpotente; 1 € C* et A = AIn + N. En remarquant que A = M(In + {N), montrer quil existe B € Mn (C) telle que exp (B) = A.
+page 2 gur 5
 
+--- page 3 ---
+4. Soit A € GLn (C). On rappelle qu'il existe P € GLn (C) telle que
+A1 0
+Az
+A = P-1
+P,
+Ak
+où les matrices Aj' j € {1,k} , sont de la forme AjIn; + N; avec nj € N" , Nj € Mn; (C) est une matrice nilpotente et Àj € C  . En déduire quil existe B € Mn (C) telle que exp (B) = A. 5. Montrer alors exp ( Mn (C)) = GLn (C)
+Partie II : Une caractérisation du rang dune matrice carrée
+Pourtout M € Mn (C) et tout R € GLn (C),on pose €R (M) = {4 € C* : AR = M# GLn (C)}
+1 Montrer que, pour tout M € Mn ( (C) et tout R € GLn (C) , on a (a) €R (M) = Sp (R-IM) nc . (b) rg (R-IM) = rg(M) 2. Soit M € Mn (C) et r = rg (M) . (a) Montrer que, pour tout R € GLn (C) , FR (M) eBt un ensemble fini et card (FR (M)) <r. (b) Montrer quil existe P,Q€GLn (C) telles que M = PDQavec D = diag(1,2,.r,0,.0). (c) Montrer que card (Fpq (M)) =r. 3 Montrer alors que, pour tout M € Mn (C) , rg(M) = max card (KR ( M) ) . ReGLn(C) 4. Soit M € Mn (C) une matrice non inversible et r = rg (M) . (a) Montrer qu'il exigte P,Q € GLn (C) telles que M = PNQ où N = (nij)i<ij<n avec 1 si j=i+1 et i <r nij = 0 sinon.
+(b) Montrer que €pQ (M) est vide.
+5. Montrer que, pour tout M€ Mn (C) , M#GLn (C)
+min card (FR (M)) =0. ReGLn (C)
+page 3 sur 5
 
+--- page 4 ---
+Partie III : Conservation du rang VS conservation de linversibilité Soit U € L(Mn (C)) un endomorphisme de Mn (C) On dit que U congerve le rang si et seulement 8i, pour tout M€ Mn (C), rg(U(M)) =rg(M) On dit que U conserve linvergibilité gi et seulement 8i, pour tout M€ GLn (C), U(M) € GLn (C) Le but de cette partie est de montrer que U conserve le rang gi et geulement si U congerve linversibilité 1. Montrer que gi U conserve le rang alors U conserve linversibilité. Dans la guite de cette partie on BuppoBe que U congerve linversibilité 2. Soit M e Mn (C) une matrice non inversible. (a) Soit R€ GLn (C) et 4 € C* tels que AR M€ GLn (C) . Montrer que AU (R) - U(M) € GLn (C)  (b) En déduire que U (M) est non invesible. 3. Montrer alorg que, pour tout M€ Mn (C), M€ GLn (C) < + U(M) € GLn (C) 4. Soit M €kerU. En remarquant que, pour tout R € GLn (C) et tout ^ € C*, U(AR M) = AU(R), montrer que rg(M) = 0 puis que M =0. 5. Montrer que U est un automorphisme de Mn (C) . 6. Montrer que U-1 conserve Yinversibilité 7. Soit M € Mn (C) de rang r et S € GLn (C) telle que card ("s (M)) = r. (a) Montrer que card (Fu(s) ' (U(M))) =1 () En déduire que rg (M) < rg(U(M)) . 8. Montrer que rg (U(M)) =rg(M) - 9 Conclure.
+Partie IV : Endomorphismes de Mn (C) qui commutent avec lexponentielle Pour toutes matrices P,QeGLn(C) onnote @P Q et YpQ les endomorphismes de Mn (C) définis par VM€ Mn (C) , WPQ(M) PMQ et YP,Q(M) = P 'MQ. 1. Montrer que @P,Q et Yp,Q conservent le rang. On admettra dang la Euite que la réciproque du dernier résultat egt vraie : Si un endomorphisme U de Mn (C) congerve le rang alors il existe P,Q € GLn (C) telles que U = @PQ ou U = YPQ
+page 4 gur 5
 
+--- page 5 ---
+2. Montrer que lendomorphisme U de Mn (C) conserve Yinversibilité si et seule ment si, il existe P,Q e GLn (C) telles que U = @pQ ou U = YpQ On dit que lendomorphisme U de Mn(C) commute avec exponentielle si et seulement 8i VM€ Mn (C) , U(exp (M)) 2 exp (U(M)) 3. Vérifier que, pour tout P € GLn (C) , @PP -1 et Ypp-1 commutent avec Yexponen- tielle. 4 Soit U un endomorphisme de Mn (C) qui commute avec Zexponentielle. (a) Montrer que U congerve linversibilite () Montrer que U (In) = In. (c) En déduire quil existe P € GLn (C) telle que U = @pP-' ou U = YP,P-1. 5. Déterminer alors tous les endomorphismes de Mn (C) qui commutent avec Yex- ponentielle.
+* Fin du sujet *
+page 5 sur 5
 
+--- page 6 ---
+Partie préliminaire (10 pts)
+Soit N € Mn (C),d € N* et P = Laxx* € C[X]: On pose K=0
+@ : R -+ Mn (C),tF + Laxtv* et +: R = Mn (C),tF + exp (# (t)) . k0
+1. (3 pts) Montrer que @ est de classe C" sur R et que, pour tout t € R, % (t) = M kaxtk-1Nk. Kzl Posons, pour tout k € N; Nk = (n Alors, pour tout t € R, $(t) = (@i,j 1<ij<n  (#))usijsn ` où Pi,j (t) 2 axn{k . Comme les @j sont des fonctions polynômiales alors elles sont de classe C" sur RR et, k0 pour tout t € N, %j (t) = 5 kaxtk-In{k {) . Donc $ est de classe Co sur R et, pour tout t € IR, k=l
+$ (4) = (%jC ())isij<n kaxtk-In{k) kaktk-1N*. I<i,j<n K=l
+2 (5 pts) Montrer; par récurrence sur d € N' que + est dérivable sur R et que, pour tout t € R w' (t) = % (#)w(t) .
+Pour d = 1 : P = 00 + a1X donc, pour tout t € R,
+4(t)
+exp (aoln + @1tN) exp (aoIn) exp (a1tN) (car les matrices aoIn et a1tN commutent) e" exp (taiN) _
+On en déduit que + est dérivable sur R et que, pour tout t € R; # (t) = e"a1Nexp (ta1N) == a N# (t) = @ (t)+(t) . Donc le résultat est vrai pour d = 1. d+l {x Soit d € N" et supposons que le résultat est vrai pour d. Soit P = Lakxk € C[X] , alors, pour k=0 tout t €R
+4 (t)
+exp
+aktkNk
+exp 'axtNk + ad+1td+1Nd+1 {=0
+exp
+axtkNk exp (04+1t+1Nd+1 (car axtkNk et ad+1td+1Nd+1 commutent) kzO
 
+--- page 7 ---
+Daprès lhypothèse de récurrence + tF+ exp (É"v) est dérivable sur R et, pour tout t€R, W(t) = kaktk-'Nk |exp É9v ) Dautre part Yapplication t +4 [d+1 est dérivable sur R et u F + exp (ua4+1Nd+1 est dérivable sur R donc, par compostion; Yapplication 42 tF exp (4d+1 0d+1  Nd+1) est dérivable sur R et sa dérivée est lapplication t + + (d + 1)ta4+1Nd+exp (td+'a4+1Nd+1) Comme; de plus, Yapplication ( Mp, Mz) MpMz est bilinéaire alors lapplication t1  W1 (t) Y2 (t) = 4(t) est dérivable sur R et 4' (t) " (t) 42 (t) + 4 (4) w2(t) 'kaxtk-INk exp (Éwv exp (ud+1ad+1Nd+1 ) +exp Éwvt ) (+1) #aa+1N|+'exp (a+'aa+1N +)
+kaxtk-INk + (d +1)# '0d+1Nd+1 exp Éavt exp ([+1 '@d+1Nd+1 kaktk-1Nk exp aktkNk + td+'ad+1Nd+1 (ces matrices commutent) (=] k=0 P' (t)exp (p(+)) $ (t)4(+) donc le résultat est vrai pour Yordre d + 1. D'après le principe de récurrence, le résultat est vrai pour tout d € N  .
+3. (2 pts) Montrer que + est deux fois dérivable sur R.
+Daprès la question précédente; " est dérivable sur R et w' 0'4. Comme @ est dérivable sur RR (car $ est de classe Co sur R) et + est dérivable sur R et Zapplication (Mp,Mz) M1 Mz est bilinéaire alors + 9'4 est dérivable sur R. En dautres termes 4 est deux fois dérivable sur R.
+Partie I: Limage de Mn (C) par la fonction exponentielle (27 pts)
+Dans cette partie on se propose de montrer que limage de Mn (C) par la fonction exponentielle est égale à GLn (C) exp ( Mn (C)) = GL" (C)  1. (8 pts) Montrer que; pour tout M € Mn (C), la matrice exp (M) est inversible ; en déduire que exp ( Mn (C)) € GL" (C)
+Soit M € Mn (C) . Comme M et ~M commutent alors exp (M)exp (~M) exp (M + (~M)) = exp (0Mn(C) In. Donc exp (M) est inversible (son inverse est exp (~M)). On en déduit que exp ( Mn (C)) € GLn (C)_
+Page
 
+--- page 8 ---
+Dans la suite de cette partie on veut montrer linclusion réciproque. 2. Soit N € Mn (C) une matrice nilpotente et A = In + N. On pose; pour tout t € R (~1)*-1 4 (t) = 2 -tkNk k=[
+(a) (4 pts) Montrer $ est de classe C" sur R et que, pour tout t € R, (In + tN)p (t) = N.
+Daprès la question 1) de la partie préliminaire; la fonction @ est de classe C* sur R et, pour tout t € R, % (t) = 2 (~1)k-1pk-IN* Donc; pour tout t € R,
+(In + tN)p' (+)
+(In + tN) 5(-1)-'*-'Nk É'-1*-*-4( + tN)Nk É((-1-' '* (~1)*#Nk+1 (~1)-1+1-IN1_ (~1)" t"N"+1 (téléscopage) N. (N"+1 =0Mn(C) car N est nilpotente )
+(b) On pose; pour t € R, +(t) = exp (p (t) ) i. (3 pts) Montrer que + est deux fois dérivable sur R et que, pour tout t € R,
+(In + tN)w(t) = Nw(t) et (In + tN)w" (t) = 0.
+D'après les questions 2) et 3) de la partie préliminaire; la fonction 4 est deux fois dé- rivable et, pour tout t€ R, W (t) = $ (t) w (t) . En utilisant la question 1) de la partie préliminaire, on obtient; pour tout t € R, (In +tN)w (t) = (In + IN)q (t) 4(#) = Ny (t) . En dérivant cette dernière relation; il vient que, pour tout t € R, (Ln + tN)w" (t) +NW(t) = Nw' (t) . Donc, pour tout t € R, (In + tN)w" (t) = 0.
+ii. (4 pts) Montrer que, pour tout t € R, W"(t) =0.
+Pour t = 0 on a In + tN = In est inversible. Pour # # 0 on a det (In + tN) = #"det ({In + N) = t"Pv (~4) où Pv désigne le polynôme ca- ractéristique de N. Comme N est nilpotente alors Pv = X" donc det (In + tN) = [" (-4)" (~1)' 40 par suite In + tN est inversible. On a alors; pour tout t € R; (In + tN)w" (t) = 0 avec In + tN inversible; donc +" (t) = 0.
+Page
 
+--- page 9 ---
+iii.  (2pts) En déduire que, pour tout t € R, "(t) = tN + In.
+On a, pour tout t € R,"(t) = 0 donc il existe C1, Cz € Mn (C) telles que, pour tout t € R, "(t) =tC1 + C2. Comme $ (0) = exp (" (0) ) = exp (oMn(c) ) =In alors C2 = In. Dautre part, pour tout t € R (Ir + tN)w (t) = Nw(t) donc, pour t = 0,il vient que # (0) = Np(0) = N donc C1 = N. On en déduit alors que, pour tout t € R, #(t) = tN _ In.
+(c) 2 pts) Montrer alors quil existe B € Mn (C) telle que exp (B) = A.
+On a, pour tout t € R, 4(t) = tN + In. Donc A = In + N = +(1) = exp (@ (1)) exp (B) avec B = $(1) € Mn (C) 
+3 (3 pts) Soit N € Mn (C) une matrice nilpotente; ^ € C' et A = AIn + N. En remarquant que A = A(In + {N), montrer qu'il existe B € Mn (C) telle que exp (B) = A.
+On a A = A(In + #N). Comme la matrice 1N est nilpotente alors;, daprès la question précédente; il existe B1 € Mn (C) telle que In + {N = exp (B1) . Dautre part À € C' donc il existe 0 € R tel que 4 = |lexp (i0) = exp (In|A| + i8) . On en déduit que exp (In|a| + i0) exp (B1) exp ((In|a| + i0) In)exp ( B1) exp ((In|4| + i0) In + B1) car les matrices (In|4| + i8) In et B1 commutent. exp (B) avec B = (Inja| + i8) In + B1 € Mr (C) .
+(4 pts) Soit A € GLn (C). On rappelle qu'il existe P € GLn(C) telle que
+A1
+Az
+A =P-1
+P
+Ax
+où k € N , les matrices Aj j € {1,,k} , sont de la forme AjIm; + N; avec nj € N' , Nj € Mn; (C) est une matrice nilpotente et Aj € C'. En déduire quil existe B € Mn (C) telle que exp (B) = A.
+Soit j € (1,k) ; comme Aj = Ajlr; + N; avec N; € Mn; (C) est nilpotente et Aj €C' alors, daprès la
+Page
 
+--- page 10 ---
+question précédente, il existe Bi € M"i (C) telle que Aj = exp (B;) . Donc
+exp (B1)
+exp ( Bz)
+A = p-1
+exp (Bk)
+B1
+B1
+B2
+Bz
+P-1 exp
+P = exp P-1
+Bk
+Bk
 
+B1 0
+Bz
+On déduit alors que A = exp (B) où B = P-1
+P€ Mn (C)
+Bk
+5. (2pts) Montrer alors exp ( Mn (C)) = GLn (C) .
+Daprès la question 1) de cette partie exp ( Mn (C)) € GLn (C) . **) D'après la question 4) de cette partie CLn (C) € exp (Mn (C)) _ Donc exp ( Mn (C)) = GLn (C) .
+Partie II Une caractérisation du rang dune matrice carrée (20 pts)
+Pour tout M € Mn (C) et tout R € GLn (C) , on pose TR (M) = {^ €C* : AR = M# GLn (C)} . 1. (2 pts) Montrer que, pour tout M€ Mn (C) et tout R € GL" (C) , on a (a) TR (M) = Sp (R-'M) nc. (b) rg (R-IM) = rg(M) .
+Soient M€ Mn (C) et R€ GLn (C) .
+Page
 
+--- page 11 ---
+(8) On a
+TR (M)
+{^ €C' :AR = M# GLn (C)} {^ €c:R(aIn - R-'M) #GL" (c)} {^€c":Àln - R-'M#GL" (c)} Sp (R-'M) nc: (b) Comme R est inversible alors rg (R-'M) = rg(M) .
+2 . Soit M € Mn (C) et r = rg (M) . (a) (3 pts) Montrer que, pour tout R € GLn (C) , FR (M) est un ensemble fini et card (0R (M)) <r
+Soit R € GLn (C) Si €R (M) = @ alors card (FR (M)) = 0 <r. Si TR ( M) # @ alors $R (M) =Sp (R-IM)nc  = {41, ,4s} où À1, ,As sont les valeurs propres non nulles de R M. Soient m1, -  ms leurs multilicités respectives. On note aussi mo la multi- plicité de 0 comme valeur propre de R-1M, (mo = 0 si 0 n'est pas une valeur propre de R-'M). Alors
+card (0R (M)) = s < m1 + -+ ms = n nlo <n = dim ker (R-'M)) =rg(R-'M) = rg(M)
+(b) (2 pts) Montrer qu'il existe P,Q € GLn (C) telles que M = PDQ avec D diag(1,2,-r,0,0) .
+Comme rg (D) = r rg (M) alors il existe P,Q € GLn (C) telles que M = PDQ.
+(c)
+pts) Montrer que card (@pQ (M)) r
+Pour tout ^ € € ,
+APQ M#GL" (C)
+P(RIn D) Q#GLn (C) AIn ~D# GLn (C)
+diag(À _ 1,4 - 2,,4 = r,4, À) # GLn (C) 1 € {1,2,_,r} .
+Donc OpQ (M) = {1,2,_r} et, par conséquent; card ((jpQ (M)) = r.
+3. (3 pts) Montrer alors que, pour tout M € Mn (C) , rg (M) max card (FR (M) ) . ReGLn (C)
+Page 6
 
+--- page 12 ---
+Soit M € Mn (C) . Daprès la question 1) de cette partie; card (FR (M)) < rg(M) , pour tout R€ GLn (C) . **) Daprès la question 2) de cette partie; il existe R € GLn (C) telle que card (FR ( M)) = rg (M) *) et **) donnent le résultat voulu rg ( M) max card (FR ( M) ) - ReGLn(c)
+Soit M € Mn (C) une matrice non inversible et r = rg (M) . (a) (2 pts) Montrer qu'il existe P,Q €GLn (C) telles que M = PNQoù N = (nij)u<ij<n avec
+si j =i+1 et i <r
+nij =
+sinon.
+(r + 1)eme
+On a N =
+donc rg (N) = r = rg (M). On en
+déduit qu'il existe P,Q € GLn (C) telles que M = PDQ.
+(b) (2pts) Montrer que OpQ (M) est vide.
+Pour tout 1 € €*
+APQ = M= P(Aln = N)Q = P
+Qe GLn (C)
+Donc; TpQ (M) est vide.
+reme
+Page
 
+--- page 13 ---
+5. (4 pts) Montrer que, pour tout M€ Mn (C) ,
+MeGLn (C)
+min card (FR (M)) = 0. ReGLn (C)
+Soit M € Mn (C) . Supposons que M & GLn (C). Daprès b) de cette question; il existe R € GLn (C) telle que card (FR (M)) = 0. Comme de plus, pour tout R€ GLn (C) , card (FR ( M)) 2 Oalors min card (FR (M)) ReGL" (C)
+4=) Supposons que min card (FR (M)) =0. Donc il existe R € GLn (C) telle que card (FR (M) ) = REGLr (C) 0. Donc Sp (R-'M) nc= =ŒR (M) =@. En dautres termes Sp (R-IM) € {0} . Comme Sp (R-IM) + (car € est algébrique clos) alors Sp (R-IM) = {0}  En particulier la matrice R-1M n'est pas inversible, et donc M n'est pas inversible (car R-1 est inversible). Donc M # GLn (C).
+Partie III ; Conservation du rang VS conservation de linversibilité (27 pts)
+Soit U € C (Mn (C)) un endomorphisme de Mn (C) On dit que U conserve le rang si et seulement si, pour tout M € Mn (C), rg (U (M)) = rg (M) On dit que U conserve Tinversibilité si et seulement si, pour tout M € GLn (C) U(M) € GLn (C) On veut montrer le résultat suivant
+U conserve le rang si seulement si U conserve linversibilité. 1. (8pts) Montrer que si U conserve le rang alors U conserve Yinversibilité.
+Supposons que U conserve le rang. Pour tout M € GLn (C) , rg(U(M)) rg(M) (car U conserve le rang) n (car M€ GLn (C)). Donc, pour tout M € GLn (C), U(M) € GLn (C) . Cela signifie que U conserve Tinversibilité.
+Dans la suite de cette partie on suppose que U conserve Tinversibilité. 2. Soit M € Mn (C) une matrice non inversible. (a) (2 pts) Soit R € GLn (C) et 4 € C' tels que AR = M€ GLn (C) . Montrer que AU(R) - U(M) € GLn (C) _
+Comme U conserve linversibilité et AR - M€ GLn (C) alors U (AR M) € GL" (C) . Or; par linéarité de U, U(AR - M) = AU(R) - U(M) , donc AU (R) U(M) € GLn (C) .
+(b) (3 pts) En déduire que U(M) est non inversible.
+Comme M # GLn (C) alors il existe R1 € GLn (C) telle que; pour tout ^ € € , AR1 M € GLn (C) . Daprès a) de cette question; pour tout ^ € C*, AU (R1) U (M) € GLn (C) . Etant donné que U(R1) € GLn (C), on peut écrire Tu(R;) (U(M)) =0et, par conséquent;
+Page 8
 
+--- page 14 ---
+min card (FR (U (M))) = 0. D'après la question 4) de la partie II) on peut conclure que ReGLr (C) U (M) est non inversible.
+3. (2pts) Montrer alors que, pour tout M€ Mn (C) M € GLn (C)=U(M) € GLn (C) .
+Soit M € Mn (C) . Puisque U conserve linversibilité alors on a limplication M€GLn (C) =>U(M) € GLn (C) . Daprès la question précédente; on a limplication M# GLn (C) =+ U(M) # GLn (C) . Par contraposition; on obtient limplication U (M) € GLn (C) = Me GLn (C) Donc on a léquivalence voulue
+(Bpts) Soit M € ker U. En remarquant que, pour tout R € GLn (C) et tout A € C*, U(AR = M) = AU(R) , montrer que rg (M) = 0 puis que M 0Mn(C)
+Pour tout R €GLn (C) et tout ^ €C*,U(AR = M) = U(R) €GLn (C) . Donc; pour tout R €GLn (C) et tout À € C, AR MEGLn (C) . Par conséquent, pour tout R€ GLn (C) ,FR (M) = @.On en déduit que rg (M) max {card (FR ( M)) } max {0} =0. ReGL" (C) ReGLn(C) Comme toute matrice de rang 0 est nulle alors M = 0Mn(C)'
+5. (2 pts) Montrer que U est un automorphisme de Mn (C) .
+Daprès la question précédente, ker U = {oMu(c)_ et donc U est un endomorphisme injectif. Comme Mn (C) est de dimension finie alors U est un automorphisme de Mn (C)
+6. (2pts) Montrer que U-1 conserve linversibilité
+Soit M € GLn (C); alors U (U-1 (M)) = MEGLn (C) . Daprès la question 3) de cette partie U-1 (M) € GL" (C) . Donc U-1 conserve linversibilité.
+7. Soit M € Mn (C) de rang r et S € GLn (C) telle que card (Fs (M)) = r. (a) (2 pts) Montrer que card (vu(s) (U (M)) ) =T.
+On a
+Tu(s) (U (M))
+{A €c :aU (S) = U (M) # GLn (C)} {A € €* : AS M # GLn (C)} Ts (M) .
+Donc card (Fu(s) (U (M))) =card (Ks (M)) = r.
+Page
 
+--- page 15 ---
+(b) (8 pts) En déduire que rg (M) < rg (U (M)) 
+Daprès la question précédente; il existe R € GLn (C) (on prend par exemple R =U(S)) telle que card (FR (U (M)) =r.Donc rg (U (M)) = max {card (FR (U (M)))} 2r = rg ( M) . ReGLn(C)
+8. (8 pts) Montrer que, pour tout M € Mn (C) , rg(U(M)) = rg(M)
+Soit M € Mn (C) . On vient de prouver que rg (U (M)) 2 rg (M) (1) - Comme, japrès la question 6) de cette partie, U-1 conserve Tinversibilité alors rg (U-1 (N)) 2 rg (N) , pour tout N € Mn (C) . En particulier si N = U(M) on obtient rg (M) 2 rg(u(M)) (2) . (1) et (2) donnent bien légalité demandée.
+9 (2 pts) Conclure.
+Dans la question 1) on a montré que si U conserve le rang alors U conserve linversibilité. De la question 2) à la question 8) on a montré que si U conserve linversibilité alors U conserve le rang. En conclusion; on vient de montrer que U conserve le rang si et seulement si U conserve linver- sibilité
+Partie IV Endomorphismes de Mn (C) qui commutent avec lexponentielle (16 pts)
+Pour toutes matrices P,Q€ GL"(C) on note @pQ et FpQ les endomorphismes de Mn (C) définis par VM € Mn (C) , $P,(M) = PMQ et YPQ(M) = P 'MQ 1. (2pts) Montrer que @p Q et YpQ conservent le rang
+Pour tout M € Mn (C), rg (@PQ(M)) = rg (PMQ)) = rg (M) car P et Q sont inversibles. Donc &pQ conserve le rang Pour tout M € Mn (C), rg(YpQ(M)) = rg (P 'MQ)) = rg ('M) = rg (M) , donc Yp,Q conserve le rang.
+On admettra; dans la suite, que la réciproque du dernier résultat est vrai, cest à dire Si un endomorphisme U de Mn (C) conserve le rang alors il existe P,Q €GL" (C) telles que U = @p,Q ou U = Yp,o 2. (2pts) Montrer que Zendomorphisme U de Mn (C) conserve linversibilité si et seulement si il existe P,Q € GLn (C) telles que U = @pQ ou U = YpQ:
+Daprès la partie III) U conserve Yinversibilité si et seulement si U conserve le rang.
+Page 10
+
+--- page 16 ---
+D'après la question précédente et le résultat admis; U conserve le rang si et seulement si il existe P,QeGLn (C) telles que U = $PQ ou U = Ypo: Donc U conserve linversibilité si et seulement il existe P,Q € GLn (C) telles que U = @pQ ou U = YpQ
+On dit que Yendomorphisme U de Mn (C) commute avec Yexponentielle si et seulement si VM € Mn (C), U(exp ( M) ) exp (U (M)) . 3. (2 pts) Vérifier que, pour tout P € GLn (C)  @P P-! et YP,P-1 commutent avec lexponentielle. Soit P € GLn (C) . Pour tout M € Mn (C) ,
+$p,p-' (exp (M))= Pexp (M) P-1 exp PMP -1) exp  (@p,p-- (M)) .
+et
+YP,P ' (exp (M)) P ' (exp (M)) P-1 P (exp ( 'M)) P 1 exp (P 'MP-') =exp (Ypp ' (M) ) . Donc $P,P-' et Ypp commutent avec lexponentielle.
+Soit U un endomorphisme de Mn (C) qui commute avec l'exponentielle. (a) (3 pts) Montrer que U conserve linversibilité.
+Soit M € GLn (C). D'après la partie I) il existe N € Mn (C) telle que M = exp (N) . Donc U(M) = U (exp (N)) exp (U (N)) € GL" (C). Par suite U conserve linversibilité.
+(b) (2pts) Montrer que U (In) = In.
+On a
+U(In) =u (exp (oMn(c)) ) exp (u (oMn(c)) ) exp (oMn(c) ) In.
+(c) (3pts) En déduire qu'il existe P € GLn (C) telle que U = $Pp-' ou U = YpP *
+Daprès a) de cette question U conserve linversibilité donc, en utilisant la question 2) de cette partie; il existe P,Q€ GLn (C) telles que U = dp Q ou U = YpQ Daprès b) de cette question U (In) = In donc Si U = @pQ alors $pQ (In) PIQ = PQ = In donc Q = P 1 par suite U = @p,p ' Si U = Yp,Q alors Yp,q (In) = PtInQ = PInQ = PQ = In donc Q = P-1 par suite U = Ypp ' Donc il existe P € GLn (C) telle que U = ÿPP ' ou U = Yp,P-'
+5. (2pts) Déterminer alors tous les endomorphisme de Mn (C) qui commutent avec Yexponentielle.
+On déduit des questions précédentes que les endomorphismes de Mn (C) qui commutent avec Yexponentielles sont les endomorphismes @p,p-' ou Yp,p-1 avec P € GLn (C)-
+Page 1l

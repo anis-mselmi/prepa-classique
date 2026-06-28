@@ -1,5 +1,128 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de l'Enseignement Supérieur
+Concours Nationaux dEntrée aux Cycles de Formation d'Ingénieurs Session Juin 2002 328 2r , Concours en Technologie cisliotheue ) Epreuve de Physique 2 etudes 5 {cincewevss >
+Date Jeudi 06 juin 2002
+Heure 8 H
+Durée 4 H
+Nb pages
+Barème Pbl: 11,5/20 (préliminaire: 2,5; partiel:4,5; partiell:4,5); Pb2: 8,5/20 (particI:3,5; partiell:5)
+Lusage dune calculatrice (non programmable) est autorisé
+Si, au Cours de Fépreuve, un candidat repère ce qui lui semble être une erreur d'énoncé, il le signale sur sa copie et poursuit sa composition en indiquant les raisons des initiatives qu'il est amené à prendre. Lépreuve   comporte  deux problèmes   indépendants; le candidat   peut les résoudre dans lordre qui lui convient, en respectant néanmoins la numérotation des questions
+Données utiles
+célérité de la lumière dans le vide c =3 108 m.s' peméabilité magnétique du vide Ho = 4r 10*7 Hm'
+Fomule utile
+cos (a+b) + cos (a-b) 2 cos a cos b
+PREMIER PROBLEME principe de lholographie La théorie de 1Holographie,   développée par Gabor en 1948, n'a mérité le prix Nobel   de physique qu'en 1968. Cest parce qu'il a fallu attendre ]apparition-du laser, source de lumière cohérente et intense, qui permis de réaliser le premier hologramme Limage obtenue par une technique photographique habituelle est un enregistrement du carré de Tamplitude de londe issue dun objet. On perd ainsi toute information sur le relief de lobjet qui est contenue dans la phase de londe Après un préliminaire dans lequel on étudie une méthode délargissement d'un faisceau laser, une première partie de ce problème est consacrée à une technique, appelée holographie, permettant d'enregistrer sur une plaque photographique; Tamplitude et la phase de londe qu'elle reçoit . Dans la seconde partie, on s 'intéresse à la reconstitution de cette onde Dans tout le   problème on   supposera que le laser emet une lumière monochromatique de longueur donde dans le vide 632,8 nm et que les ondes se propagent   dans un milieu homogène et isotrope assimilé au vide
+Concours Technologie Sesslon Jnin 2002
+Epreuvc de Physique
+Page 1/6
 
+--- page 2 ---
+Préliminaire élargissement d'un faisceau laser
+On considère un système   optique  (S) constitué de deux lentilles minces convergentes Li et Lz de même axe optique 4 et distantes de h (cf. figure 1) f et f'2 désignent   respectivement   les distances   focales images de Li et L2
+1. Tracer la marche dun rayon incident parallèle à l'axe optique 4 On notera F' le point d'intersection du rayon qui émerge du système optique (S) avec l'axe optique On prendra, pour ce tracé f'1 =3 cm, f '2 = ] cm et h = 5 cm
+figure
+2. Exprimer; en fonction de f'1, f'2 et h,la distance algébrique OF où O2 désigne le centre optique de la lentille Lz
+3. En déduire une condition sur la distance h pour que le rayon émergent soit aussi parallèle à Taxe optique 4. Que peut-on dire du système (S) ?
+4. Le système (S) est éclairé par un faisceau   laser parallèle à laxe optique de diamètre (cf figure 1). La distance focale image de L1 est maintenant f' =2 cm. Caiculer la distance focale image f '2 de Lz sachant que le faisceau laser sort du système (S) parallèle à l'axe optique avec un diamètre D = 4 cm Faire une figure avec d Icm
+Première partie enregistrement dun hologramme
+Le faisceau laser élargi, sortant du système (S), est envoyé sur un autre système optique (S') Ce dernier, constitué dune lame semi - transparente Sp et dun miroir M permet dobtenir   deux  ondes planes 21 et 22, de même pulsation et polarisées   rectiligne- ment suivant [axe (Oy) dun repère orthonormé direct R O,ux,Uy,U z
+M
+21
+onde plane incidente
+Sp
+22
+kz
+Londe 2l, ou onde objet; se propage suivant une   direction qui fait avec - laxe (Ox) un angle €0 (cf: figure 2) Londe 2z, Ou onde de référence se propage suivant l'axe (Ox)
+Système (S')
+figure 2
+En prenant une même phase nulle en 0, les champs électriques des deux ondes en un point
+M( r=OM ), s'écrivent en notation réelle
+E1=E(Mt) uy =Eo1 cos @t-k1r Uy
+Ez=E2(Mt) uy =Eoz cos @t-k2r U;
+où ki et kz sont les vecteurs donde Eo1 et Eoz sont les amplitudes des deux champs.
+Concours Technologe Session Juln 2002
+Eprcuve de Physique
+Page 2/6
 
+--- page 3 ---
+5. Rappeler; sans démonstration; la   relation de dispersion des ondes électromagnétiques dans le vide. En déduire; en fonction de la longueur d'onde 1 et de langle 8, les   expressions   des deux vecteurs d'onde k1 et kz dans la base Ux,Uy,Uz
+6. Ecrire, dans la  base Ux,Uy,U z et en fonction de E (Mt), Ez(Mt) 8 et
+les champs
+électrique E et magnétique B résultant de cette superposition: 7 Exprimer, en fonction de E (Mt), Ez(Mt), 80, et Lo; les   composantes du vecteur de Poynting R En déduire celles du vecteur <R > moyenne temporelle du vecteur R On donnera le résultat en fonction de Eol, Eoz, 80, c, Ho et des coordonnées du point M
+8 Déterminer ['expression de la puissance élémentaire moyenne dP traversant une surface dS du plan (yOz) En supposant que 80 est faible (cos8o ~ 1 sineo ~80), simplifier ['expression de dPm. Dans la suite du problème, on supposera que cette hypothèse soit réalisée. 9 On appelle intensité lumineuse; notée I, la quantité I = dPn dS Vérifier que Lest proportionnelle à < E?>, où < E?> est la moyenne temporelle de E?. Montrer que lintensité lumineuse 1 en un point du plan (yOz), peut s'écrire sous la forme I=l +Iz + 2v I1 Iz cof2z € 8o z| On exprimera I1 et I2 en fonction de Eol, Eoz, Ho et c. 10. Lintensité   lumineuse est enregistrée sur une plaque photographique; placée dans le plan (yOz). Décrire ce qu'on obtient. 11. Après   développement; la   plaque   photographique (ou  hologramme) est .caractérisée par un coefficient de transparence en amplitude S1 on   éclaire la plaque par une onde incidente d 'amplitude A, l'amplitude de Londe transmise est A =tA Le coefficient de transparence est relié à lintensité   reçue [impression par t=aIP où & et B sont deux constantes réelles caractérisant ['émulsion photographique. Sachant que I2 >> Ip, montrer, en faisant un développement limité au premier ordre, que le coefficient s'écrit sous la forme t(z) = % + a1 cos?z0 z Exprimer a et a1 en fonction de I1, I2, à et B. Vérifier que a1 est proportionnelle à Eo1. Deuxièmc partie Reconstitution dune onde plane
+On   considére un écran opaque  percé dune fente parallèle à Vaxe (Qy) et-de largeur b (suivant Oz). Cet écran est éclairé, sous incidence normale, par Ponde de référence 2?dar#ude Aoz (cffigure 3) 12. Aprè5   avoir énoncé le principe d'Huygens- Fresnel, déterminer Pintensité Ia de Ponde diffiactée à linfini   dans une direction du   plan (xOz) faisant avec [axe (Ox) un angle € faible. figure 3 Tracer et commenter /allure de la courbe I(0) On notera Io, lamplitude de londe diffractée dans la direction de londe incidente.
+Concours Technologie Scssion Juln 2002
+Epreuve dc Physiquc
+Page 3/6
 
+--- page 4 ---
+13. On place maintenant; contre lécran percé, 1hologramme enregistré dans la première partie. Le coefficient   de transparence (ou de transmission) en amplitude du plan (yOz) s'écrit alors t(z) a + a1 co922 € @ z) pour _<z < 4 t(z) = 0 pour z < = b et 2 > b 2 Déterminer Pamplitude A de londe diffractée à Vinfini par lécran, éclairé par londe de référence   Ez, dans une direction qui fait un angle 8  faible avec laxe (Ox) On introduira unë constante proportionnelle à Aoz et b telle que Ya désigne lamplitude de londe diffractée dans la direction de londe incidente
+Tracer ]allure de la courbe donnant A en fonction de 0 En déduire-que Fonde diffractée peut être considérée comme la superposition de trois ondes dont on déterminera les directions correspondant à des maxima d'amplitude.
+14. Dans le cas où b>>1 , montrer qu'un observateur qui se place derrière   lhologramme (x >0), reçoit trois ondes planes: Identifier Fonde analogue à londe objet  Z,.Pour cela, vérifier qu'elle est observée dans la même direction 80 et que son amplitude est proportionnelle à celle de londe Ei
+DEUXIEME PROBLEME Principe de la modulation damplitude En radiodiffusion; la fréquence fm du signal Sm(t) contenant linformation à convoyer, est située entre  fmin = 200 Hz et fnax = 5 KHz (domaine des basses fréquences BF). La modulation consiste à transposer; sans perte dinformation le spectre du signal Sm(t), appelé signal informatif, vers un domaine de fréquences relativement hautes: Cette modulation nécessite lutilisation dun autre signal Sp(t) de haute fréquence; appelé signal porteur ou simplement porteuse Après létape de modulation on obtient le signal modulé S(t) rayonné par une antenne et se propageant dans lair. La réception (au niveau dun poste radio), du signal S(t) est suivie dune démodulation c'est Pétape de la reconstitution du signal   Sm(t) qui contient l'information (cf. figure 4)
+signal modulé
+Sm(t)
+propagation dans Pair
+Sm(t Idémodulation
+modulation]
+S(t)
+porteuse Spt)
+figure 4
+Dans la première partie de ce problème, on s'intéressera au rayonnement dune antenne demi - onde On montrera que le signal modulé S(t) s'adapte mieux que le signal Sm(t) aux contraintes techniques d'émission (dues aux dimensions des antennes) L'objet de la seconde partie est d'étudier le principe de la modulation damplitude (AM): On montrera que le signal modulé S(t) satisfait aux exigences de la transmission dans ['air qui est un milieu dispersif et absorbant
+Concours Technologie Session Juin 2002
+Epreuve de Physique
+Page 4/6
+S(t)
 
+--- page 5 ---
+Première partie rayonnement d'une antenne demi-onde On suppose; dans cette partie; que l'air dans lequel se propagent les ondes électromagnétiques; est caractérisé par les constantes électrique et magnétique du vide (€o, Ho)
+On considère une antenne verticale de longueur 1 =1/2   parcourue par le courant électrique i(z,t) =io cos 21 z Icosot (cf. figure 5)
+Ur UoM
+Dans   la base locale Ur,Ue,U? les   champs
+Ue
+électrique E et magnétique B , rayonnés en un point M repéré par les coordonnées sphériques (r,0,0), s' écrivent
+2
+E(Mt)=- cHoi9 cosEcose) sino (-) 2Ir sine 00
+B (M,t)= E(MDu,
+figure 5
+1. Calculer   les longueurs   des antennes   (demi-onde) nécessaires Témission   des  signaux de fréquences   f; = 1 kHz et fz = MHz. Commenter
+2. Vérifier que le champ rayonné a, localement, la structure dune onde plane.
+3. Déterminer ['expression du vecteur de Poynting R ainsi que sa moyenne dans le temps <R > . 4 Donner, à une distance r fixée, léquation polaire  de Tindicatrice de Pantenne, c'est à dire la  courbe g(0) = ||<R>Il Commenter le tracé de cette . courbe plan g(0) (xoy) donnépar la figure 6.
+5. Déterminer   Pexpression de la   puissance moyenne rayonnée à travers une sphère de centre et rayon r.
+figure 6
+COS
+'[Ecose) d0 =1,22 sin0
+On donne
+Lair, assimilé-au vide, est-il un milieu absorbant ?
+Deuxième partie modulation damplitude
+On suppose; dans la suite; que les amplificateurs opérationnels sont parfaits et qu'il fonctionnent en régime linéaire 6. A Taide dun amplificateur opérationnel et de deux   résistances de même valeur;   expliquer comment peut-on réaliser un montage inverseur, c'est à dire ayant   une fonction de transfert complexe H égale à -1 (H =-1)
+Concours Technologie Session Juin 2002
+Epreuve de Physlque
+Page 576
 
+--- page 6 ---
+7. En considérant   le montage de la figure 7, exprimer les tensions Vc(t) et S(t) en fonction de VA(t) VB(t), Rz, Rz et R; Donner la condition sur R1, Rz et Rs, pour réaliser un sommateur S(t) = VA(t) + VB(t) R; R,
+B
+Rz
+inverseur H=-1
+VA(t)
+VB(t)
+Vc(t)
+S(t)
+figure Z
+8 Le procédé permettant d'obtenir le signal module S(t); à partir du signal informatif   Sm(t) et du signal porteur Sp(t), est schématisé sur la figure 8. A
+VA(t)
+sommateur
+multiplieur
+Sp(t)
+S(t)
+Sm(t)
+VB(t)l
+figure 8
+Sachant que Sm(t) Vm cos(2rfmt) Sp(t) Vp cos (2rfpt) et que la  tension de sortie du multiplieur est VB(t) = k Sm(t) x Sp(t), montrer que le signal modulé s'écrit sous la forme S(t) vp[l+ a cos(2rfmt)] cos(2rfpt)
+Exprimer l'indice de modulation a en fonction de k et Vm. 9 La décomposition   spectrale Amplitudes (en mV) ou spectre des harmoniques du signal  modulé S(t) est représentée sur la figure 9. 50 Déterminer  les fréquences fm et fp ainsi que Tindice de modulation a 10. Pour s'afiranchir au mieux des distorsions 20 introduites par latmosphère (dispersion f(kHz) absorption) le spectre du  signal   qui se 817 820 823 propage; couvrant la bande de frequence [fi,fz], doit être très étroit . figure 9 Si on pose $=fzf 8 doit être donc très_inférieur à ] (S<<1) fz+fi
+Sachant que le signal  Sm(t) occupe la plage de fréquences [fmin 200 Hz fmax 5 kHz] et que la fréquence fp = 1 MHz; donner ]allure du spectre du signal modulé S(t) Calculer 6   pour les deux signaux   Sm(t) et  S(t) En déduire que la transposition du   spectre   contenant   linformation vers un domaine  de fréquences relativement hautes; favorise une propagation avec moins de distorsion
+Concours Tcchnologic Session Juin 2002
+Eprcuve de Physique
+Page 6/6

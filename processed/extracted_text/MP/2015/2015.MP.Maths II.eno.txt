@@ -1,3 +1,81 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Recherche Scivntifique
+aany) !
+Ministère de FEnscignment Supérivur et de lu
+@WLAissls Elai Jaubj 2a n usjyj 2015 613
+Concours Nationaux d'Entrée aux Cyces de Formation d'Ingénieurs Session 2015
+Concours Mathématiques et Physique Épreuve de Mathématiques II
+Date: Samedi 13 Juin 2015
+Heure 8 H
+Durée: 3 heures
+Nb pages: 4
+Une grande importance sera attachée à la rigueur du raisonnement, à la clarté et au soin dela présentation. L'usage des calculatrices n'est pas autorisé Il est rappelé que tout résultat énoncé dans le texte peut être utilisé pour traiter la suite, même s'il n'a pu être démontré.
+Notations: Dans ce problème; n et p sont deux entiers naturels non nuls. On désigne par
+Mn,p(C) le C-espace vectoriel des matrices à n lignes et p colonnes. Mn(C) Palgèbre des matrices carrées dordre n à coefficients dans €.
+GLn(C) le groupe des matrices inversibles de Mn(C) In la matrice unité de Mn(C)-
+On,p la matrice nulle de Mn,p(C) On la matrice nulle de Mn (C) Pour toute matrice A de Mn (C), A = (ai,j)1<ijSn, on note par sp(A) Tensemble des valeurs propres de A.
+det ( A) le déterminant de A.
+rg(A) le rang de A. PA le polynôme caractéristique de A 7= (Zij)1si,jSn la matrice conjuguée de A. ker ( A) = {X € Mn,1(C) AX = On,1}  Im(A) = {AX; X € Mn,1(C)}
+2
+R(A) = {M € Mn(C) MM = A}
+A est dite co-diagonalisable s'il existe P € Gln(C) et D diagonale tel que A = PDP-1
+ ~ .
+1 n
+Concours Mathématiques et Physique Session Juin 2015
+Épreuve de Mathématiques II
+Page 1/4
 
+--- page 2 ---
+Partie I: Etude de R(In)-
+1 1) Soit M € GIn(C), on pose A = MM Vérifier que A € R(In)
+2) Soit M € R(In) Pour tout œ € C* on pose
+Ca = QM + @In.
+a
+Montrer que MCœ = Cœ. b)   Montrer que det(Ca) = 0" PM(-!) c) En déduire lexistence de B € C tel que Cp soit inversible d)   Calculer alors CpCp 3) En déduire de ce qui précède que
+71 R(In) = {PP P € GLn (C)}
+4) (a) Vérifier que ~In € R(In) 21 (b) Déterminer lensemble {P € GLn(C); PP =-In}
 
+12 (
+Partie II: Etude de R(On) -
+A) 1) Montrer que, pour tout k € N*_ on a (X1; Xk) est libre dans Mn,1(C) si et seulement si (X1, 2) En déduire que rg(M) = rg(M); pour tout M € Mn(C)
+Xk) Pest aussi
+B) 1) Montrer que, si n = 1, R(O1) = {01} Dans la suite; on suppose que n 2 2 Soit M € R(On) de rang r et M # On On note par Br la matrice de Mn(C) définie par
+Or,n-r Ir Br  On-r;n-r On-r;r
+2) Montrer que Im(M) € ker (M) 3) En déduire que 1 < rg(M) < 2 4) Montrer que B2 = On.  5) Soit ( X1, Xr une base de Im(M) a)  Justifier lexistence de ( X1, Xr) . b) Montrer qu'il existe une famille ( Xr+l, - Xn-r) de Mn,1(C) telle que (X1, Xn-r soit une base de ker ( M) c) Pour tout 1 < i < r, montrer qu'il existe un élément Y; de Mn,1(C) tel que MYi = Xi On notera Yi = Xn_rfopour tout 1 <i < r. d)  Montrer que ( X1, Xn) est une base de Mn,1(C)
+Concours Mathématiques et Physique Session Juin 2015
+Épreuve de Mathématiques II
+Page 2/4
 
+--- page 3 ---
+En déduire que la matrice P de Mn(C) dont les vecteurs colonnes; dans lordre; sont X1; Xn est inversible. f) Vérifier alors que M = PBrP 6) En déduire de ce qui précède que n R(On) = {PB,P-1;1 <r < et P € GLn(C)} U {On}  2
+7) Exemple: Montrer que, pour n = 2,
+R(O2) = { ^ ~ac p")'~ ~Icl? 0, c, X € c { ca
+Partie III: Caractérisation des matrices co-diagonalisables . A) Soit M une matrice co-diagonalisable. 1) Montrer que MM est diagonalisable. 2)  Montrer que sp(MM) € R+- 3)   Montrer que rg(M) = rg(MM) B) Soit M € Mn(C) tels que MM est diagonalisable; sp(MM) c R+ et rg(M) = rg(MM) 1) Montrer qu'il existe une matrice Q € GLn(C) et X1 > X2 > > Àk 2 0 tels que MM = QDiQ-1 où
+X1 In1 Àz Inz D1 =
+0 0 Xk Ink
+avec, pour tout 1 < i < k, n; € N et ni = n i=zl 2) Posons S = Q-1MQ a) Montrer que SS = Ss = D1. b) En déduire que SD1 = D1S. c) Montrer que S1
+S2
+S =
+0 Sk
+où Si € Mni' (C) pour tout 1 < i < k.
+Concours Mathématiques et Physique Session Juin 2015
+Épreuve de Mathématiques II
+Page 3/4
+
+--- page 4 ---
+d) Montrer que, si Xk > 0, alors, pour tout 1 < i < k, on a
+Si € R(Ini)
+On suppose que Xk = 0. i) Montrer que, pour tout 1 < i < k _ 1, on a :
+Si € R(Ini ) . VAi
+ii) Montrer que Sk € R(Onk iii) Montrer que Sk Onk ` f) En déduire qu'il existe une matrice diagonale D2 et une matrice P € GLn (C) telles que S = PDP
+C) Conclure de ce qui précède que; pour tout M € Mn(C), les deux assertions suivantes sont équivalentes
+i) M est co-diagonalisable. ii) MM est diagonalisable, sp(MM) € R+ et rg(MM) = rg(M).
+Exemple Dire dans chacun des cas suivants si A est co-diagonalisable? si A est diagonalis- able?
+1) A =
+2) A =
+3) A =
+  
+ s
+Concours Mathématiques et Physique Session Juin 2015
+Épreuve de Mathématiques II
+Page 4/4

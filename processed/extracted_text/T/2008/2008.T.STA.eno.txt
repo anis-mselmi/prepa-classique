@@ -1,15 +1,267 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de F'Enseignement Supérieur, de la Recherche Scientifique et de la Technologie
+41239) 492/6201 "Wkgazus ss@buatab
+Concours nationaux dentrée aux cycles de formation d'ingénieurs Session 2008
+dsin Libsll eUELiji ùunit-Ul juss jal>Ui 2008 619'
+Concours Technologie Epreuve de Sciences et Techniques de l'Ingénieur Date Vendredi 06 Juin 2008 Heure 8 H Durée 5 H
+Institut / (preparFis , (oslotea:) 8 Cingemiey 0;s
+DOSSIER
+PRESENTATION ET TRAVAIL DEMANDE
+Lépreuve comporte quatre parties A- Technologie de Conception; B- Technologie de Production; C- Mécanique & Résistance des Matériaux   et D- Automatique.
+Barème Parties (A 8 points, B 4 points; C : 4 points, D 4 points)
+Remarques : Les différentes parties sont indépendantes et doivent être traitées sur le dossier document réponse. Un seul dossier document réponse est fourni au candidat et doit être rendu en totalité, même sans réponses; à la fin de lépreuve. Le renouvellement de ce dossier est interdit. Aucun document n'est autorisé_
+Session Juin 2008
+Concours Technologie Session Juin 2008
+Epreuve STI
 
+--- page 2 ---
+MISE EN SITUATION
+Dans un système automatisé de production; les produits à emballer subissent des opérations de transferts d'un poste à un autre. Ces opérations sont assurées soit par des tapis roulants soit par des convoyeurs dynamiques gravitaires. Le sujet de cette épreuve porte sur un poste assurant |emballage dun produit   (Figure 1) qui sera ensuite transféré vers un poste d'étiquetage (Figure 2) par lintermédiaire dun convoyeur dynamique gravitaire.
+Figure 1 Poste demballage
+Poste d'étiquetage
+Convoyeur dynamique
+Figure 2 poste détiquetage
+Concours Technologie Session Jvin 2008
+Epreuve STI
+Pege 1/ ] 4
 
+--- page 3 ---
+PARTIE A TECHNOLOGIE DE CONCEPTION
+Les   questions relatives cette   partie sont   portées sur   le dossier document  réponse (pages 1/30 à 7/30). A-1. PRESENTATION DU SYSTEME MECANIQUE Cette partie concerne l'étude dun galet ralentisseur  placé dans un convoyeur dynamique gravitaire assurant le transfert dun produit, emballé et chargé sur des palettes (P), vers le poste d'étiquetage (Figure 2). Ce galet ralentisseur (Figures 3, et document  I) est un système mécanique qui a pour but de maîtriser la vitesse gravitaire de translation des palettes (P) transportant le produit. Il est suspendu par deux colonnes (21) et (22) encastrées aux deux rails (R) équipés de galets fous. De plus; il et doté de deux poutres supports identiques (13) et (16) qui se déforment élastiquement afin que les galets fous supportent la totalité des charges transportées par la palette (P)
+PaletteP
+Galet fou
+Galet ralentissenr
+Rail ()
+21
+22
+13
+23
+Figure3 : Lapalette (P) heurtele 'galet falentisseur.
+Palette P
+Figure 4 Lapalette (P) estralentieparle galet ralentisseur
+A-2. DESCRIPTION ET FONCTIONNEMENT DU GALET RALENTISSEUR (DOCUMENT 1) Dés que la palette (P) heurte le galet ralentisseur avec une vitesse gravitaire V (Figure 3), les deux poutres supports (13) et (16) se déforment et le galet ralentisseur se met automatiquement au même niveau H de la voie de roulement (Figure 4) alors le contact par adhérence entre la bande (10) du tambour (1) et la palette (P) est maintenu par les ressorts (23).
+Concours Technologic Session Juin 2008
+Epreuve STI
+Page 2 / 14
 
+--- page 4 ---
+Le bras (2) est encastré à la poutre support (16) par ['intermédiaire de son embout hexagonal. Le tambour (1) est entrainé en rotation par la palette (P) Les deux trains d'engrenages cylindriques à denture droite (1, 3,,4) et (1, 4, 5, 6) montés en série ont pour fonction daugmenter la fréquence de rotation du porte-mâchoire (6) d'un ralentisseur centrifuge dont les mâchoires (7) et (7'), équipés respectivement des masselottes identiques (8) et (8'), se mettent en contact avec glissement contre la surface cylindrique intérieure du tambour (1). Ainsi la palette (P) sera animée d'une vitesse de translation V constante sur toute sa longueur (Figure 4) Le flux de transmission de puissance du galet ralentisseur peut être alors représenté par le diagramme  suivant
+Deuxième train d'engrenages (1, 4,5, 6)
+Premier train dengrenages (1, 3,4)
+Ralentisseur centrifuge (6, 7, 7' 8, 8', 9)
+Tambour (1, 10)
+Le schéma cinématique minimal du galet ralentisseur estreprésenté par la figure suivante
+2+20
+1+10
+5
+Premier train d'engrenages
+Ralentisseur centrifuge
+Deuxième train dengrenages
+Concours Technologie Session Juin 2008
+Epreuve ST]
+Page 3 / 14
 
+--- page 5 ---
+PARTIE B TECHNOLOGIE DE PRODUCTION
+Les questions relatives (pages 8/30 à 14/30).
+cette   partie sont portées   sur le dossier document   réponse
+B-1. ÉTUDE DE L'USINAGE DE LEMBOUT (12)
+L'embout (12) est une pièce obtenue par usinage à partir d'une barre en acier 25 Cr Mo 4. Sa forme finale est représentée sur la figure B-1-1 ci-contre. L'usinage   de Pembout (12), est   effectué en trois phases. deux phases de tournage sur un tour_
+une phase de fraisage   sur une  fraiseuse universelle équipée dun diviseur.
+Figure B-1-1
+La figure B-1-2 représente son dessin de définition incomplet.
+A - A
+020 h6
+6 faces
+Ro 1,6 Rectifiée
+Ioumnée R,32
+1209
+!
+9
+15k02
+00
+0,1
+Figure B-1-2
+Concours Technologic Session Juin 2008
+Eprcuve STI
+Page - 4 / 14
 
+--- page 6 ---
+B-2. ÉTUDE DE L'USINAGE DE L'AXE (20) On envisage lusinage de laxe (20) sur un tour conventionnel à partir dune barre de diamètre de 20 mm. La figure B-2-1 représente son dessin de définition. Les surfaces à usiner sont repérées de (1) à (7).
+QIQ+0,2
+01S + 0.,2
+010 4 0,2
+2x 459
+1004 0.2
+15 + 0.2
+1304 0.4
+Figure B-2-1 Dessin de définition de laxe (20)
+B-3. CARACTERISATION DE LA ROUE (3) La roue (3) (Document 1) est une pièce sollicitée mécaniquement et soumise au frottement et à lusure Le choix du matériau de cette pièce est primordial pour répondre aux sollicitations imposées.
+Concours Technologie Session Juin 2008
+Epreuve STI
+Page 5 / 14
 
+--- page 7 ---
+PARTIE C MECANIQUE GENERALE ET RESISTANCE DES MATERIAUX
+C-1. MECANIQUE GENERALE Dans   cette partie on se propose détudier le mécanisme du galet ralentisseur destiné au ralentissement du mouvement de la palette P. Le mouvement du mécanisme est ramené dans le plan (0o,J0,7) de normale (O,7 Le schéma cinématique du mécanisme est représenté par la figure C-1-1. Le ' système est principalement constitué des solides suivants (S0) solide fixe par rapport à la terre qui représente lensemble formé par les pièces 21, 22 et R du dessin densemble (S1) solide en liaison glissière daxe (0,Z0 avec (S0). Le solide (S1) représente ['ensemble formé par les pièces 13,16, et 20 du dessin densemble: (S2) cylindre creux; de longueur L2, de rayon intérieur r2 et de rayon extérieur Rz en liaison pivot d'axe (0,7 avec le solide (S1). Le solide (S2) représente lensemble formé par les pièces 1 et 10 du dessin densemble. (S3) solide en liaison pivot daxe (0,7 avec le solide (S1). Le solide (S;) représente le porte-mâchoire 6 du dessin d'ensemble. (S4) solide en liaison pivot d'axe {4,5o) avec le solide (Ss) Le solide (S4) représente la mâchoire 7 et la masselotte 8 du dessin densemble. (Ss) solide en mouvement de translâtion rectiligne par rapport à (So) suivant ]axe (Oo,7) Le solide (Ss) représente la palette P. Le contact entre (Ss) et (S2) est supposé ponctuel de normale (C,70) Le mouvement de (Ss) par rapport à (S2) au point de contact C est sans glissement. Le mécanisme comporte deux ressorts Ressort 9 attaché par ses deux extrémités B et G aux solide (S3) et (S4). Ressort 23 monté entre les deux solides (So) et (S1) Repères et paramètres de position (Fig; C-1-1 Fig C-1-2) On considère les repères orthonormés directs suivants Ro (Oo,70,7,Z0) repère galiléen associé au solide (So). R(O,5,J,7 = repère associé au solide (S1) tel que 0,0 = 1 Z ~ Rz (0,*0,72,72) repère associé au solide (S2) tel que @ =0o,Jz) = (20,22) . 8 R;(0,*0,J,,z,) repère associé au solide (S3) tel que 0 = (Jo,Js) =(Z0,7,) et = =k (k constante positive donnée) . R4(O,7,74,74) repère associé au solide (S4) tel que y = 0,,Ja) = (2,,2,) . Pour paramétrer le contact; supposé ponctuel en I entre les solides (S2) et (S4), on introduit la base orthonormée directe (50,7,n) où n est le vecteur normal en au plan tangent commun entre (S2) et (S4) et telque &.=(J,,4) = (24,7) (angle constant) _ On donne
+Concours Technologie Session Juin 2008
+Epreuve STI
+Page 6 / 14
 
+--- page 8 ---
+Oc = Rz Z0 OI = rz 7 DI =-aj,+b 7 ÀG =-cja ; QA=r j; où a, b, c, r, r2 et Rz sont des constantes positives données.
+Ss
+(t)
+Galets fous
+y
+So
+S4
+Ressort 9
+Rz
+Xo
+Sz
+S,
+Ressort 23
+S5
+Yo
+Figure C-1-1 Schéma cinématique relatif à la position de ralentissement
+72
+J Jz
+Ys J
+7o
+70
+24
+Ys
+7a
+7
+Xo
+54
+Figure C-1-2 Positions relatives des bases des repères
+Concours Technologie Session Juin 2008
+Eprcuve STI
+Page 7 / 14
 
+--- page 9 ---
+c-1-1) Etude cinématique Durant le ralentissement du mouvement du solide (Ss), le point du repère R;(O,*0,yo,20 . est supposé maintenu fixe dans le repère Ro (Oo,70,7,70)  Ceci conduit à considérer que le repèr R (O,70,70,70) est galiléen. C-1-1-1 Ecrire la relation vectorielle qui exprime la fermeture géométrique de la chaîne formée pa les solides {S1, S2, S3, S4} . Déduire alors que la valeur de langle V est égale à un' constante
+C-1-1-2 Exprimer le module du vecteur OG en fonction de c, r et w. On note, dans la suite; pa < e > la valeur de ce module llocl C-1-1-3 Déterminer les torseurs cinématiques associés aux mouvements suivants a) mouvement de (S2) par rapport à (S1) au point 0 {1(82IS)}  b) mouvement de (S3) par rapport à (S1) au point 0 {V(s,/S;)} c) mouvement de (S4) par rapport à (S1) au point A {V(S,1S1)} C-1-1-4 En déduire les vecteurs des vitesses suivantes a) V(C € S2 /S;) exprimé dans la base (70,7o,7) b) V(IeS,/S;) exprimé dans la base (70,7,7)_ c) 7(A€S,/S;) exprimé dans la base (70,4,,7,)  d) V(OeS,/5;) exprimé dans la base (70,7,2) e) V(GeS,/S,) exprimé dans la base (70,44,7,) f) V(IeS,1S;) exprimé dans la base (70,7,7) - C-1-1-5 Déterminer alors a) Le vecteur   vitesse de   glissement au point I de   (S4) par   rapport à (S2) V(IeS,/82) exprimé dans la base (70,7,5) _ b) La condition de roulement sans glissement au point C de (S2) par rapport à (Ss).
+C-1-2) Etude dynamique et énergétique Nous supposons dans cette partie les hypothèses suivantes A lexception des solides (S2), (SA) et (Ss), les masses des autres solides et des deux ressorts sont supposées négligeables. La masse m, du solide (Sa) est concentrée au point G. Le solide (S2) est un cylindre homogène creux; de longueur L2 daxe (0,7), de masse mz de rayon intérieur r2 et de rayon extérieur Rz. Son moment d'inertie par rapport à Paxe (O,x est noté par Iz. Laction mécanique du champ de la pesanteur est négligeable.
+Concours Technologie Session Juin 2008
+Epreuve STI
+Page 8 / 14
 
+--- page 10 ---
+Nous admettons lécriture des torseurs des actions mécaniques suivantes L'action mécanique exercée par la palette (Ss) sur (S2) est définie au point par le f-Nc z +Tc y torseur glisseur {T(ss 9 Sz)}c = avec Nc > 0 et Tc > 0 _
+L'action mécanique exercée par (S4) sur (S2) est définie au point I par le torseur glisseur JN;"+T;7] {T(s, ~ Sz)} avec N, > 0 . Le signe de T; est à déterminer 0
+L'action mécanique exercée par (S3) sur (S4) est définie au point A par le torseur glisseur {T(s; + S,)} YsJs + Zj4 7J
+L'action mécanique exercée par le Ressort 9 sur (SA) est définie au point par le torseur Fz; glisseur {T(9 + S)}c
+Le coefficient d'adhérence au point de contact entre le solide (Ss) et le solide (S2) est noté par fc: Le coefficient de frottement au point de contact I entre le solide (S4) et le solide (S2) est noté par f1 Toutes les autres liaisons sont considéréës parfaites  C-1-2-1 Déterminer le moment d'inertie Iz de (S2) par rapport à laxe (O,*0) . C-1-2-2 Déterminer, dans la base (7p,70,70) , les torseurs cinétique et dynamique au point 0 de (S2) au cours de son mouvement par rapport à par à (S1) {e(sz1S )} et {D((Sz /S;)} C-1-2-3 Déterminer; dans la base (70,44,74) , les torseurs cinétique et dynamique au point A de (S4) au cours de son mouvement par à (S1) {e(s,1s,} et {D(s,1sS,} C-1-24 Déterminer ['énergie cinétique du système Z composé par les solides {(S2), (Ss); (S4) et le ressort 9} au cours de son mouvement par rapport au repère R(0,*0,Jo,20) . Exprimer cette énergie en fonction de Iz mp ek et @ C-1-2-5 En appliquant la loi de Coulomb pour le frottement de glissement au point de contact entre (S4) et (S2), écrire la relation entre les composantes NI et T1 du torseur daction mécanique de (SA) sur (S2) . C-1-2-6 Faire le bilan et écrire les torseurs des actions mécaniques extérieures appliquées sur (S4) Déterminer alors le moment résultant de ces actions au point A: ma(Ss + S,) . C-1-2-7 Par projection sur laxe (A,7), écrire léquation scalaire   traduisant  le théorème du moment dynamique, au point A, pour le mouvement de (S4) par rapport à (S1). Déduire Texpression qui permet de déterminer la valeur de la composante normale NI. C-1-2-8 Faire le bilan et écrire les torseurs des actions mécaniques extérieures agissant sur le système Z composé par les solides {(S2), (S3), (S4), Ressort 9} . C-1-2-9 Déterminer la puissance_développée par les actions mécaniques extérieures appliquées sur le système Z au cours de son mouvement par rapport au repère R(O,7o,7o,70
+Concours Technologie Session Juin 2008
+Epreuve STI
+Page 9 / 14
 
+--- page 11 ---
+C-1-2-10 Déterminer la puissance développée par les actions mutuelles entre les solides du système 2 C-1-2-11 Ecrire léquation scalaire   traduisant  le théorème de lénergie cinétique appliqué au système Z au cours de son mouvement par rapport au repère R (0,70,J,7)- C-1-2-12 Déduire de ce qui précède; léquation différentielle qui régit la fonction ,(t). C-1-2-13 Montrer que cette équation peut s'écrire sous la forme @+Cp' + D = 0 dans laquelle les termes C et D sont des constantes à déterminer
+C-2. Résistance des matériaux On se propose détudier la déformation de la dent d'une roue dentée. Cette dent est modélisée par une poutre droite encastrée libre soumise à une force concentrée comme lindique la figure suivante
+On désigne par Rpe Résistance pratique à la contralnte normale E : Module délasticité longitudinale OA = 2,25 mn Longueur de la poutre
+Ig 43k m; Module de rigidité en flexion y 24 Où m  est le module de la denture et k est une constante telle que 6<k <10 _
+C-2-1
+Définir et déterminer les composantes du torseur de cohésion tout au Jong de la ligne moyenne (OA) C-2-2 Tracer le diagramme du moment de flexion. C-2-3 En déduire lexpression de la contrainte normale en fonction du moment de flexion dans la section droite la plus sollicitée. C-2-4 En appliquant la condition de résistance à la contrainte normale produite par la flexion; établir 1expression permettant de calculer le module mn: C-2-5 Donner l'équation différentielle de la déformée statique créée par la force F C-2-6 En appliquant les conditions aux limites, déterminer  alors ]expression  permettant de calculer la flèche au point A
+Concours Technologie Session Juin 2008
+Eprcuve STI
+Page 10 / 14
 
+--- page 12 ---
+PARTIE D AUTOMATIQUE NB. Les parties D-l et D-2 sont indépendantes. Les réponses doivent être rédigées sur les documents réponses.
+DESCRIPTION DU SYSTEME On s'intéresse dans cette étude au système d' 'encaissage assurant le groupage de produits en fin de chaîne ainsi que leur emballage dans des caisses en carton. La première partie est consacrée à Fautomatisation du système d'encaissage. Dans la deuxième partie; on étudie la régulation du couple dun frein à courants de Foucault permettant le ralentissement des cartons arrivant au bout dun chemin de rouleaux transporteurs.
+D-1. AUTOMATISATION DU SYSTEME D'ENCAISSAGE Le système d'encaissage automatique (Figure D-l) est constitué dun convoyeur assurant larrivée des produits contenus dans des boîtes parallélépipédiques; ainsi que de trois vérins A B et C permettant de grouper les produits dans un carton pouvant contenir trois boîtes. B B+ Carton
+B
+bo
+b1
+A+
+C+
+AU
+A-
+C-
+Convoyeur
+C1
+a1
+M commande marchelarrêt du convoyeur
+Nombre de boîtes = 3 a0
+Co
+Chemin de rouleaux transporteurs
+Figure D-l Système dencaissage automatique
+Initialement; les trois vérins sont en position rentrée; des capteurs de fin de course indiquant la position rentrée ou sortie de chaque vérin; et le convoyeur est en marche (M=1). Le convoyeur achemine les boîtes de produits sur le plateau du vérin A. Lorsque le nombre de boîtes présentes sur le plateau est égal à trois; un capteur de présence t1 est activé, provoquant ainsi Farrêt du convoyeur. Le vérin A soulève alors les trois boîtes pour les placer devant le carton demballage dans lequel elles sont poussées par le vérin B. Après que les boîtes aient été poussées dans le carton; le vérin C fait pivoter celui-ci pour le placer sur le chemin de rouleaux transporteurs par lequel il est évacué. Ensuite; les vérins A, B et € reviennent à leurs positions initiales, le convoyeur est remis en marche et un nouveau cycle de remplissage dun carton peut recommencer. Un appui sur le bouton d'arrêt d'urgence AU arrête le convoyeur et ramène tous les vérins dans leur position initiale.
+Concours Technologie Session Junn 2008
+Epreuve STI
+Page ]1 / 14
 
+--- page 13 ---
+D-1. Donner le grafcet de niveau 2 décrivant le fonctionnement du système de remplissage de cartons D-2. REGULATION DU COUPLE DUN FREIN A COURANTS DE FOUCAULT Le ralentissement des caisses arrivant au bout du chemin de rouleaux transporteurs est assuré par un frein à courants de Foucault réalisé au moyen dun disque en rotation dans /entrefer dun électro-aimant constitué d'une bobine parcourue par un courant. Le couple de freinage exercé par le frein est proportionnel   au courant dexcitation de lélectro-aimant. Pour garantir 1efficacité du freinage, le couple exercé par le frein doit être constant: Cependant; des variations du couple sont observées au cours du fonctionnement du frein, et ce à cause de fluctuations de température de la bobine de l'électro-aimant et de ce fait du courant dexcitation. On envisage  donc de   réaliser la   régulation du couple de freinage   afin déliminer ces fluctuations. La bobine d'excitation de lélectro-aimant peut être assimilée à une inductance en série avec une résistance R. Le courant dexcitation i(t) est obtenu en appliquant une tension u(t) aux bornes de la bobine.
+La relation entre la tension u (t et le courant i() est la suivante di L +Ri(t) = u(t) dt
+où R=80 et L=50 mH .
+Le couple de freinage Tf étant proportionnel au courant dexcitation i(t) , on a la relation suivante I,(t) =K i(t)
+où Kp =50 NmlA est la constante de couple_
+On dispose dun capteur de couple délivrant une tension v(t) liée au couple I, par la relation dx v(t)+rdz= K, I, (t)
+où z=lms est la constante de temps du capteur et Kz est son gain. D'autre part;, le couple de freinage peut être soumis une perturbation   d(t) due aux variations de température de la bobine. Ainsi, le schéma-blocs du frein est donné par la figure D-2
+T, (+) K
+G (p)
+p)
+Électro-aimant
+Capteur de couple
+Figure D-2 Schéma-blocs du frein
+Concours Technologie Session Juin 2008
+Epreuve STI
+Page 12 /14
 
+--- page 14 ---
+Les transformées de Laplace utiles sont données dans le tableau D-1.
+Tableau D-l
+F(p)
+f (t) pour t > 0
+1 p
+p+a
+'e-S0, sin (@,) @p @p = @ V1-52
+p? +250P +@2
+D-2-1. La perturbation d(t) est supposée nulle dans cette partie
+D-2-1-1. Afin détalonner le capteur de couple,-on effectue.un essai indiciel en appliquant un échelon de couple unitaire à Fentrée du capteu, celui-ci étant déconnecté du systeme. On obtient alors la réponse indicielle de la figure D-3 En déduire la valeur du gain du capteur (en NmV)
+Tension v(t)
+0.05
+0001 0.002 0.003 0.004 0.005 0006 0.007 0.008 0.009
+0.01
+temps (s)
+Figure D-3 Réponse indicielle du capteur de couple D-2-1-2. Déterminer les fonctions de transfert G (p) et G, (p) . En déduire la  transmittance globale G(p) entre U(p) et V(p) , où U(p) et V(p) sont respectivement les transformées de Laplace de u(t) et v(t) _
+D-2-1-3. Calculer et tracer v(t) pour une entrée u(t)telle que u() = {0 pour t <0 (1 pour t 2 0
+Concours Tcchnologie Session Juin 2008
+Eprcuve STI
+Page 13 / 14
 
+--- page 15 ---
+D-2-1-4. Déterminer et tracer les lieux asymptotiques de Bode de G(p)-
+D-2-2. On considère à présent l'asservissement de couple représenté sur la figure D-4, dans lequel Tr (t) est une tension; image du couple de consigne et C(p) un régulateur.
+s(t
+u (t C(p) G (p)
+K;
+G ( p
+Figure D-4 Asservissement de couple
+D-2-2-1. Dans cette question; on considère un régulateur proportionnel tel que C(p)=K, où K une constante positive T(p) Calculer la fonction de transfert en boucle fermée F(p)s en supposant la T; (p) perturbation d(t) nulle b) Déterminer ]expression de lerreur e(p) en fonction de lentrée T7 (p) ainsi que de K, K;, G (p) et G2 (p) . En déduire la valeur de K permettant dobtenir une erreur statique de position de 10% pour une entrée échelon unitaire- On considère à présent le cas où la consigne T"* (t) est nulle. On prend K=20 déterminer et tracer la réponse s(t) du système en boucle fermée à une perturbation d(t) de type impulsion unitaire . D-2-2-2. On introduit à présent un correcteur proportionnel intégral C(p) = Kpl1+ 2] où Kp et Tp T; sont les paramètres du régulateur_ a) Calculer, dans ce cas, la fonction de transfert du système en boucle fermée en considérant la perturbation d(t) nulle b) En utilisant Je critère de Routh; donner, en fonction de Kp et T , les conditions de stabilité du système en boucle fermée. Dans le cas de lutilisation de ce type de régulateur; que devient ]erreur statique pour une entrée échelon de position unitaire ?
+Concours Technoiogie Session Juin 2008
+Epreuve STI
+Page 14 / 14
 
+--- page 16 ---
+~ 1 : 5
+2 1 5 1 : 91 1 1 3 1 1
+1 ;
+Fz |
+9
+9I 9 4 SL [ 3 0
+9
+JQi 2]
+9 8 1 8
+[8k8 8 MA " ; 4
+m
+ = |
+;l9 H8 8 88 { 1
+&
+1 ;
+1 [ % 8 1 8 4 @ { 8

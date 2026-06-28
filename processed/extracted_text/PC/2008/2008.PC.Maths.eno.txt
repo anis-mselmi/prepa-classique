@@ -1,3 +1,44 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de 1Enseignement Supérieur, de La Recherche Scientifique et de La Technologie Concours pationaux d'cntrée 9ux cydes de formation d'ingenicurs Session 2008
+429)4244) @Yd->iess 5s@bexu6 diwwjaijeliji Umiji Oufjlj 2008 *
+Concours Physique et Chimie Epreuve de Mathématiques
+Durée 4 H
+Date 2 Juin 2008
+Heure : 8H Nb de pages 4
+Barème Préliminaire 0.Spts.   Partie 1 3.Spts Partie 2 : 2pts Partie 3 : 7pts.
+Partie 4 Jpts. Partie 5 : Apts.
+Une grande importance sera attachée à la rigueur du raisonnement, à la clarté et au soin de la présentation. L'usage des calculatrices n'est pas autorisé. Il est rappelé que tout résultat énoncé dans le texte peut être utilisé pour traitcr Ja suite, même: s'il n'a pu être démontré
+Problème
+Notations Dans ce problème, on adopte les notations ci-dessous. & est un réel positif:. ( ([0,+æ[) = {f [0;+œ[ + R ;f continue} E = {f e€0 ([0,+o[) Pf2 ()+ %e intégrable sur [0,+[ F est l'ensemble des fonctions polynomiales restreintes à [0,+æ[ Pour tout entier naturel m , F ={P eF ; deg(P)<m}. Pour tout entier naturel k , V& est la fonction définie par v& :t Ftk Pour tout endomorphisme u de F u 0 =idF et uk =u*-1 ou , k € N' (2;) ; 120 est la suite de fonctions polynomiales de F définies par Li"e' d' 1' :t F ("+e') '>0 j ! dt'
+oR:FaR:
+Pour tout   réel 8 et tout entier naturel m, les cocfficients binomiaux
+sont définis par Ja
+relation de récurrence
+=let
+8(8-1 (6-m+l) m2|  m!
+6242'
 
+--- page 2 ---
+Préliminaire
+Montrer que la fonction x FT(x) = u+-1 'e-du est définie sur Jo. +œ[  2. Montrer que F(x+I)=xF(r) pour tout réel x > 0 .
+Partie 1
+Soit
+Fapplication qui à tout Pe F associe la fonction polynomiale d2P @(P) :tFt d2 -()+(4+a+14P()
+1. Montrer que la restriction de w à Fm est un endomorphisme que F'on notera 4 2. Déterminer la matrice de @ dans la base canonique B =(0, V1 -,Vm )de Fm 3. En déduire les valeurs propres de $m et montrer qu'il est diagonalisable- Montrer que pour tout entier naturel j_ 4;0-4(,-2)4. 5 Expliciter L' pour j =0, I, 2 et 3 _ 6. Soit m un entier naturel Montrer que pour tout entier 0< j <m Pm (1")=-j1; . b. Montrer que Fm 0 RI% , où RLG est la droite vectorielle engendrée par 1? J=0
+Partie 2
+1. Soit f , g € E Montrer que la fonction +f ()g ( )%e est intégrable sur [0,+~ 2. Montrer que E est un sous-espace vectoriel de €0 ([0, +œ[) . Dans toute la suite du problème; on pose(f |g) = 5"f ()g ()t"e"dt _ pour tout / . 8 € E . 3. Montrer quc est un produit scalaire sur E On notera la norme qui lui est associée 4. Démontrer que F est un sous-espace vectoriel de E 5. Expliciter ( ; |* pour tout couple dentiers (j , k ) .
+Partie 3
+Soit G ={P eF; P (0)=0} et Papplication linéaire qui à tout P eG associe  la fonction de F définie par u(P) Ht-%e' 4(P() " 1. Soit un entier k2I. Montrer que pour tout entier 0 < j <k-I, uj (+ )eg . Montrer que pour tout entier naturel k 1% = 4"'()
+2
 
+--- page 3 ---
+3. Montrer que pour tous eF et g eG vk(e)) =-(a|e 4. Montrer que pour tout entier naturel k v|)-444'5 5. Détcrminer [z" , pour tout couple ( j , k ) dentiers naturels. 6. Montrer que   pour tout couple dentiers naturels distincts ( j ,k ),  ("|") =0 7 . Montrer que pour tout entier naturel & Iza| Ilatk +12 k ! Pour tout entier naturel k,on pose 94+ :tFt L4 ( ) . 8.a. Montrer que tout couple (j, k ) dentiers naturels, (90+/24) =(42/9,+)  b. Montrer que   91 =~LI +(a+1)1S c. Montrer que 92 = ~2Lz +(3+a)zv -(I+a)LS . 9, Soit un entier k 2 2 a. Montrer (4k +1 [,) =0 pour tout couple (j, k ) dentiers naturels   tels que j <k ~2_ b. En déduire qu' 'ilexiste des réels Bu + Bk et Bk-' tels que 9k+1 = Bk+L%+1 + BxL" + Bx-IL%-1 - Calculer (++|1%+) et (ax+/zr -) . d. Montrer que (9++/;) =(2 +a+lz;l . En déduire la relation L% (t)=-(k +1)48+()+(2k +a+I)L" ()-(k +a)LY-1() . 10. Montrer que pour tout entier naturel non nul k - 4i()=kI% ( )-(k +a)2; ,(). 11. Soit p un entier naturel . Soit (a,)azo et b k2o deux suites de nombres réels. Montrer m + p m + p 'implication @m [b& 3 bn = É(-1)4 +" k + p k + p 'Je k =0 k =0 b. Montrer que pour tout entier naturel m =2 ("+P)-' u6) m ! k =0 k + p
+Partie 4
+Soit un entier m2I et g lélément de Fm défini par g (t) = si L%  ne possède pas de zéro de multiplicité impaire g ()=(-%)-(t-4,-1) si 00, 89 a,-1 sont les zéros de Lm de multiplicité impaire a. Montrer que (z" |8) +0 b. En déduire que Lm possède m zéros distincts dans Jo;+œ[ .
 
+--- page 4 ---
+2. Soit do' am-1 les zéros de Lm a. Pour tout entier 0<k <m-1, on désigne par ô, la forme linéaire sur Fm-1 définie pa ô (R)= R (a ) Montrer que les formes linéaires ( 6x )osk forment une base du dual Fm-) de Fm <m =| b. En déduire qu'il existe un unique ( 2 Am-I)e R" tel que pour tout g de Fm-1 40 g()"e'd =248(  ~ Jo k=0 c. Soit une fonction polynomiale P telle que deg(P)< 2m-1.En considérant la division euclidienne de P par LS montrer que P() t% -dt =24P(a k=0
+Partie 5
+Montrer que la série 219 ( )x ' est convergente pour tout couple de réels (( , x ) j20
+de Jo; 1]x
+2. Pour tout   couple de réels(t,x) de Jo; "j]4 4' on pose f (,x)= 218 ()x ' . 2 ~ j=0 3. Déterminer f (6, 0) - 4. a. Montrer que (,x )+f ( , r ) admet des dérivées partielles sur J. -]4 6. Déterminer ôf (1,x ) et à(',x) ât âx 5. a. Montrer que pour tout entier j, (j +1)29+()=(j +1-0)28 ( )+ 4" 6) b. Montrer que pour tout (, x ) de Jo I 1]4 4 4(.*)-(I-*)8(*)+(1-0)f (,*)=0 6. On pose f (t, *)=F(74)8(),  où F et g sont deux fonctions dérivables sur [; Montrer que '(7)*0)-)6)-0. I=x b. Etablir la relation 2z% ()r ' pour tout (t,x ) de Jo; 'j] 2 4 1-x J=0

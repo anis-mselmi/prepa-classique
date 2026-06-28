@@ -1,34 +1,633 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE
+2{s4a 81?i8sis gujegs ~Ul Jasqv aPji SIbliji unwaiaOi 19~ U=in 2019 8190
+Ministère de 1Enseignement Supérieur et de la Recherche Scientifique
+Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs Session 2019
+Concours Mathématiques-Physique & Physique-Chimie Epreuve de Systèmes Techniques Automatisés
+ 6 `
+14
+Date Vendredi 14 Juin 2019 Heure 8 H Durée 3 heures
+L'épreuve comporte trois parties A - Conception mécanique (03 pts) B - Mécanique des solides indéformables (09 pts) C - Automatique (08 pts) Le sujet de lépreuve remis au candidat comporte deux dossiers 1er   "Mise en situation, Données et Hypothèses" , avec un document technique DT-01. 2ème  "Document Réponses" contenant les questions à traiter: NB Aucun autre document n'est autorisé. Seules des calculatrices de poche non programmables sont autorisées. Un seulet unique document réponses est fourni au candidat et doit être rendu en totalité, à la fin de Yépreuve, même sans réponses. Aucune feuille ne doit être supprimée (cet acte est considéré comme étant une tentative de fraude).
 
+--- page 2 ---
+Dossier
+ Mise en situation, Données et Hypothèses
+Ce dossier comporte 12 pages Mise en situation pages de 1 à 3 Données et hypothèses partie A pages 3 à 4 Données et hypothèses partie B pages 4 à 6 Données et hypothèses partie C pages de 7 à 12
+ainsi qu'un document technique DT-01
+1 `  d 4 9   
+1 . . , 1 ,
+1 2   . ` `. /
+22
+1
+' . .
 
+--- page 3 ---
+Concours MP-PC
+Epreuve STA
+Mise en situation, Données et Hypothèses
+SYSTÈME DE POLISSAGE DE COQUES
+1
+Mise en situation Le système présenté par le document technique DT-01 est une machine automatisée permettant d'effectuer le polissage des coques de téléphones portables. Celles-ci sont en général obtenues par injection de matériaux polymères. Afin daméliorer laspect et obtenir un état de surface lisse, il est nécessaire deffectuer; entre autres, une opération de polissage rigoureuse. Ce système est constitué dune unité dalimentation en coques non polies, dune unité d'évacuation des coques polies, dune unité de polissage, dun robot 2D de transfert, dun automate programmable, dune unité de régulation pneumatique.
+11 Diagramme SADT La figure 1 représente le diagramme SADT niveau A-0 du système de polissage proposé à létude. Energie pneumatique Programme Mise en marche Energie électrique
+Informations
+Polir les coques
+coques non polies
+coques polies
+de télé phones portables
+A-0
+Système de polissage
+FIGURE 1 - Diagramme SADT du système de polissage
+1.2 Description de lunité de polissage Lélément principal de cette unité est une tête de polissage (figure 2). Elle est constituée entre autres d'une plaque en feutre qui sera mise en contact direct avec la coque à polir; un mécanisme presseur recevant de lair comprimé à partir de lunité de régulation pneumatique: Lopération de polissage consiste à appliquer un mouvement de va et vient à la plaque en feutre tout en pressant sur la coque. Ce mouvement de translation alterné est obtenu grâce à un système roue-crémaillère commandé par un moto-réducteur @. Afin de parcourir toute la surface de la coque, le mouvement de va et vient doit s'effectuer simul - tanément avec un mouvement davance le long de Yaxe (G,70), G étant le centre de gravité de la surface à polir de la coque. Pour polir les arrondis de la coque, il est nécessaire de faire pivoter la tête de polissage autour de la direction 70. Ce mouvement de pivotement est donné par un support entraîné par un système poulie-courroie crantée et moto-réducteur @
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2019
+Page 1/12
 
+--- page 4 ---
+Concours MP-PC
+Epreuve S.TA
+Mise en situation, Données et Hypothèses
+moto-réducteur
+roue-crémaillère pour mouvement de va et vient
+support de pivotement
+patin presseur
+mouvement de pivotement du support
+9o
+coque à polir
+Yo
+Plaque en feutre
+système poulie courroie de pivotement
+mouvement de va et vient de polissage
+moto-réducteur
+FIGURE 2 _ Vue partielle de la tête de polissage
+Le moto-réducteur est destiné au mouvement davance longitudinal, un autre moto-réducteur assure le mouvement dapproche de la tête de polissage dans la direction Z (voir figures 3 et 4)
+zo
+moto-réducteur
+7o
+FIGURE 3 vue de derrière de la tête de polissage (après enlèvement du robot pour mieux visualiser)
+Le polissage des arrondis sur les quatre cotés de la coque nécessite la rotation de celle-ci dans son plan (autour de 70) chaque fois, dun incrément de 909 . Ce mouvement est assuré par un moto-réducteur à renvoi dangle illustré sur la figure 4.
+1.3 Unités dalimentation et dévacuation Ces deux unités se présentent sous forme de tapis roulants animés chacun par un moto-réducteur dédié. L'unité dalimentation est équipée dun détecteur de présence indiquant Yarrivée dune coque au bout du tapis, soit au niveau du plan de travail du robot de transfert 2D. Le tapis de lunité d'évacuation est actionné dès que le capteur de présence indique Yexistence dune coque sur celui-ci et sarrête au bout de 20 secondes, temps nécessaire à lévacuation dune coque.
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page : 2/12
+longitudinal chariot 
 
+--- page 5 ---
+Concours MP-PC Epreuve STA
+Mise en situation, Données et Hypothèses
+support rotatif chariot d'approche
+moto-réducteur à renvoi d'angle
+moto-réducteur
+moto-réducteur 3
+FIGURE 4 vue de 'gauche (moteur à renvoi dangle)
+après enlèvement des tapis et du mécanisme de polissage pour une meilleur visibilité
+1.4 Le robot de transfert Ilsagit dun robot du type 2D travaillant dans un plan perpendiculaire aux tapis d'alimentation et d'évacuation. Il est muni de ventouses alimentées par un système pneumatique à dépression permettant de saisir la coque. Il intervient pour transférer la coque à partir de lunité de polissage (précisément du support rotatif) vers le tapis dévacuation et du tapis dalimentation vers Yunité de polissage. Il est muni de deux actionneurs linéaires électriques.
+2 Conception mécanique On s'intéresse dans cette partie à létude de deux   composants du système pro- posé le premier est illustré sur la figure 5.Ils'agit dun vérin linéaire utilisé dans le robot de transfert.  La rotation de la vis (4), imposée par le motoréducteur (1) (2), est transformée en un mouvement de translation grâce à Yécrou (5), ce qui per - met dobtenir; compte tenu de Yarchitec - ture du système (tige de guidage 6), un mouvement de translation_
+capteur tachymétrique moteur ( 1)
+réducteur (2)
+vis (3)
+rotule Support de moteur et de capteur
+vis (4) tige de guidage (6) tige de vérin (7)
+capteur (11)
+écrou (5)
+corps du vérin (10)
+rotule (8)
+bague (9)
+FIGURE 5 - Vérin linéaire en coupe
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2019
+Page 3/12
 
+--- page 6 ---
+Concours MP-PC Epreuve S.IA
+Mise en situation Données et Hypothèses
+Le second composant étudié se rapporte à la tête de polissage dont un schéma cinématique mini- mal est illustré par la figure 6. Arbre de sortie du moto-réducteur@
+Arbre de sortie du moto-réducteurQ
+Support du patin presseur
+Support de pivotement
+patin presseur
+coque à polir
+Support rotatif
+Arbre de sortie du moto-réducteur à renvoi d'angle
+Chariot longitudinal
+FIGURE 6 - Schéma cinématique minimal de la tête de polissage
+3 Mécanique des solides indéformables : système 2D robotisé Le robot proposé à Yétude s'intègre dans la famille des robots parallèles à deux dimensions. Ilest utilisé pour transférer les coques entre les différentes zones de traitement:. La structure du robot fait apparaître; comme le montre la figure 7, un ensemble formé principalement de six solides. La motorisation du système assure le déplacement du coulisseau (1), le long dun axe fixe lié au bâti (0) et aussi le déplacement du bras coulissant (3) le long dun axe lié au solide (2) qui est en liaison pivot avec le bâti (0). Le robot comporte deux bras identiques (4) et (4') articulés au coulisseau (1) en A et A1. Ils sont aussi articulé à un porte-ventouses (5) en D et D1. Ces quatre points occupent les sommets dun parallélogramme régulier: Le porte- ventouses (5) est équipé de quatre ventouses en caoutchouc utilisées pour saisir les coques par aspiration dair
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page= 4/12
 
+--- page 7 ---
+Concours MP-PC
+Epreuve STA
+Mise en situation, Données et Hypothèses
+3.1 Repères, paramètres et données Les tâches assignées au robot s'effectuent dans un espace construit de part et dautre du plan vertical (E, 70,7o). Cet espace est caractérisé par sa faible profondeur comparée aux dimensions de la structure rapportées à son plan de travail. De ce fait, le robot sera traité en tant que mécanisme plan, comme Tillustre le schéma cinématique de la figure 7.
+Données géométriques OoA axo + Ayo BC = ux2 Oog a7o + dyo B = (70,74) (Jo,74) & = 70, 72) (70,92 41À  = DB bxo D1A1 DA Ly4 C = CB = g5 hyo OoÉ x7o + yyo AG1 c7o. xo
+D1(
+yo
+FIGURE 7 - Schéma cinématique minimal du robot 2D
+On associe au bâti (0) le repère Ro(Oo, 70,70,20) qu'on considérera galiléen, ayant pour axe ver - tical ascendant (Oo,70). Le coulisseau (1) se déplace le long de laxe (K,yo), sa translation est définie par le scalaire positif 1 Le solide (2) pivote autour de Yaxe (B,70). On lui associe le repère R2(B,72,92,20). Sa position angulaire est obtenue, comme le montre la figure 8, par Yangle &. Le solide (3), jouant le rôle de bras coulissant, assure la liaison entre le solide (2) et le porte- ventouses (5). Son déplacement par rapport au solide (2) est paramétré par le scalaire positif k. On associe au bras (4) le repère R4( A, 74,74,Z0). Son pivotement ainsi que celui du bras (4) s'effec - tuent respectivement autour des axes (A,20) et ( A1,20). Leurs positions angulaires sont obtenues avec le même angle B.
+Ho 92
+7o 94
+B
+7o
+Yo
+Zo
+70
+B
+72
+74
+FIGURE 8 _ Représentation planes des rotations
+Les ventouses solidaires du solide (5) sont utilisées pour saisir les coques. Leur centre E est placé en dessous de C.
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2019
+Page 5/12
 
+--- page 8 ---
+Concours MP-PC
+Epreuve S.TA
+Mise en situation Données et Hypothèses
+La motorisation du robot est réalisée en pilotant les translations À et %, pour que les déplacements absolus x et y du centre E dans le repère Ro(Oo, 70,70, 20), puissent être contrôlés avec précision Le coulisseau (1) est caractérisé par sa masse m1 et son centre dinertie G1. Sa translation est générée par un actionneur linéaire (vérin non représenté) développant une action mécanique mo- délisée par le torseur {9(ocrin-+1) }G G(verin -+1) = Fyo 6 G1 Le bras coulissant (3) exerce sur le porte-ventouses (5) une action; modélisée au point C, par le torseur g(3-+5) {9(3-5)}c = ~Fcx2 0 Compte-tenu de la faible masse d'une coque, Yaction en E de celle-ci sur (5) sera négligée. Le porte-ventouses admet pour masse m5, son centre d'inertie sera supposé confondu avec le point C. Les bras (4) et (4 ) sont assimilés à des tiges identiques de masse M et de longueur L La matrice dinertie au point A du bras (4), exprimée dans la base B4(74,04,20) , admet pour expression
+MI2 0
+[Ia(4)]
+0 ML2 B4
+Tous les solides du robot sont soumis à Yaction dela pesanteur représentée par : g = ~87o Toutes les liaisons du système seront supposées parfaites. NB On précise enfin que a, b, c, d, h et L sont des caractéristiques dimensionnelles constantes alors que x, Y, 4, u, & et B sont des paramètres évoluant dans le temps, ils sont liés à la configuration géométrique du robot:.
+Létude proposée se rapporte à la modélisation du robot en vue de concevoir et choisir les compo - sants et les actionneurs qui répondent aux exigences fonctionnelles demandées. La modélisation reposera sur 1. Une étude géométrique qui servira à lidentification des configurations limites du système: 2 Une étude cinématique dont lobjectif consiste à exprimer les vitesses de pilotage en fonction de la vitesse absolue des coques pendant lopération de transfert conformément à la figure 9. 3. Une étude dynamique pour déterminer les inconnus des liaisons et la relation entre les ac- tions mécaniques développées par les actionneurs.
+9
+h
+7o
+3a
+30
+FIGURE 9 _ Trajectoire parcourue par le centre E du porte ventouses
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page  6|12
 
+--- page 9 ---
+Concours MP-PC
+Epreuve S.TA
+Mise en situation Données et Hypothèses
+Partie C : Automatique 4.1 Présentation générale Le patin presseur schématisé par la figure 10 est un mécanisme alimenté en pression pneumatique et supportant le feutre de polissage. Lors de son mouvement de va et vient il appuie sur la coque par une pression bien déterminée afin de ne pas endommager sa surface: Il est alimenté par un modulateur électropneumatique (Fig:  11) pour contrôler cet effort presseur:
+Lors dune opération de polissage, ce patin presseur; revêtu dun feutre, est poussé sur la coque verticalement (déplacement z(t)) avec une force normale résultant de la pression Pz et il est contraint à se déplacer en même temps par un système roue-crémaillère par un mouvement de va et vient selon (y(t)) afin dassurer le polissage. patin presseur guidage en translation Support du système presseur ressort de rappel
+feutre
+Mouvement de va et vient
+coque
+FIGURE 10 _ Disposition du patin presseur par rapport à la coque lors dune opération de polissage
+La présente étude consiste à modéliser et commander en pression le modulateur électropneuma- tique afin de réguler la pression au niveau du Patin. La présente étude porte sur un système électropneumatique dont lélément clé est représenté par la figure 11. Il sagit dune régulation de pression dans un vérin de tension dun modulateur électropneumatique.
+4.2 Fonctionnement du modulateur Le modulateur comporte trois orifices 1, 2 et 3 reliés respectivement à lunité d'alimentation en air comprimé (P1), au patin presseur (P2) et à léchappement (P3). Un électroaimant exerce sur la tige du piston un effort fm proportionnel au courant d' alimentation (fm Kz-i). La commutation entre les orifices est assurée par un joint détanchéité S3 et les formes des pièces So, S1 et S2. En situation médiane (figure 11), on notera fmo, Yintensité de leffort fm, lorsque laction du bâti So sur le joint d'étanchéité S3 est nulle.
+42a) Lélectro-aimant I sagit dun électro-aimant de manœuvre simple: En effet; lors de la mise sous tension de la bobine, lélectro-aimant génère des lignes de champs magnétiques qui se referment sur le noyau de masse (m) , induisant un effort (une force f) et un déplacement (x) de celui-ci. En labsence de courant, le noyau revient à sa position de repos (électro-aimant monostable).
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2019
+Page 7/12
 
+--- page 10 ---
+Concours MP-PC
+Epreuve STA
+Mise en situation, Données et Hypothèses
+fmo
+Bobine de lélectroaimant
+Piston de régulation S2
+Joint détanchéité S3
+Pression vers patin presseur 2 P2
+Piston secondaire $]
+Bâti du modulateur So
+Pi
+Pression
+dalimentation
+P3 Pression atmosphérique
+FIGURE 11 - Modulateur électropneumatique
+Pour déterminer le comportement dynamique de ce modulateur; on se place dans le cas où fm > fmo. Le déplacement des pistons par rapport à la situation médiane sera noté x, il résulte dun effort Af = fm fr.
+42b) Modélisation du modulateur de pression Afin didentifier le comportement du modulateur de pression; nous considérons le modèle illustré sur la figure 12
+m
+k
+FIGURE 12 Modèle adopté pour modulateur
+avec € coefficient de frottement visqueux m masse des éléments mobiles et k : raideur équiva - lente du système.
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page : 8/12
 
+--- page 11 ---
+Concours MP-PC
+Epreuve S.TA.
+Mise en situation, Données et Hypothèses
+43 Modélisation et identification du modulateur de pression Dans cette partie, on 'intéresse à la modélisation et à lidentification des différents éléments constitutifs du modulateur de pression illustré par les figures 1l et 12 Les équations décrivant le fonctionnement du modulateur sont données par les cinq équations suivantes Le comportement de lensemble mobile est exprimé par d2x(t2 m dx(t) dt2 Af (t) =C kx(t) dt Le comportement de Yair comprimé situé au niveau de la sortie 2 du modulateur lorsque celle-ci est obturée est exprimé par p2(t) = K3 x(t) avec K3 0.4 bar / cm (2) L'électroaimant est modélisé par un gain, se traduisant par fm(t) = Kz - i(t) avec K2 = 10 bar / A Un gain Ki adapte la pression de consigne pc au courant nécessaire au pilotage de Yélectroaimant se présentant sous la forme
+i(t) = K1 Pc(t)
+avec
+K1 = 1 A/bar
+La force fr développée par le piston 2 de section $ en fonction de la pression p2 est donnée par fr(t) = S . p2(t) avec S = 1.25cm2
+4.4 Régulation de la pression au niveau du patin La pression sur la bande feutrée est régulée afin de garantir un polissage optimal sans endom- mager la coque. Ceci est réalisé indirectement par contrôle de la pression dalimentation du patin presseur: La fonction de transfert du modulateur isolé étant connue, celui-ci est raccordé au patin presseur de la machine pour lalimenter en pression pneumatique: On considère que la pression Pz en sortie du modulateur est la même que dans la chambre du patin presseur: Dans Yobjectif d'assurer une bonne régulation de cette pression P2 le modulateur est inséré dans la chaîne dasservissement suivante
+Pc
+Pz
+C(p)
+G(p)
+FIGURE 13 _ Schéma fonctionnel de lasservissement de pression
+Cahier des charges Exigence
+Critère Niveau stabilité marge de phase Mœ 455 Réguler la pression de rapidité temps de réponse à 5% <07s contact feutre coque précision écart statique de position nul
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2019
+Page 9/12
 
+--- page 12 ---
+Concours MP-PC
+Epreuve S.TA.
+Mise en situation, Données et Hypothèses
+5 Étude séquentielle du cycle de polissage de la coque 5.1 Description du cycle de polissage Afin de lancer un cycle de polissage, Yopérateur commence par déposer une quantité de coques juxtaposées sur le tapis dalimentation et appui sur le bouton de départ de cycle (Dcy). L'opéra- teur continuera à mettre dautres coques sur le tapis d'alimentation tout au long du fonctionne - ment des cycles. Les conditions initiales sont alors le robot de transfert est en position de repli (position d'attente initiale, voir figure 14), pas de coques sur le support rotatif de l'unité de polissage, pas de coques dans leffecteur du robot, pas de coques sur le tapis d'évacuation
+robot en position   repli
+robot en position
+robot en position
+robot en position FIGURE 14 Positions particulières du robot
+Au départ du cycle le tapis dalimentation; à commande monostable (KMI), se met en mouve- ment jusqu'à Yarrivée dune coque devant le capteur de présence au bout du tapis (p1 activé). Dans le cas où aucune coque n'arrive à ce capteur au bout de 10s, le système s'arrête complète - ment et nécessitera de nouveau un appui sur le bouton départ cycle. Par ailleurs, ce tapis dali- mentation continuera à alimenter avec les coques non polies tout au long du déroulement des cycles de polissage.
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page= 10/12
 
+--- page 13 ---
+Concours MP-PC
+Epreuve S.TA
+Mise en situation, Données et Hypothèses
+Dans le cas où une coque se présente en bout de tapis (p1 activé) le robot de transfert, qui était en position de repli (ao activé) reçoit Yordre pour aller à la position de récupération de celle-ci (activation du capteur 41) activer Yélectrovanne monostable des ventouses de récupération (commande KV). Une fois la coque maintenue dans cet effecteur (activation du capteur q), le robot repart vers lunité de polissage pour déposer la coque sur le support rotatif (position @) et active ainsi le capteur de présence p2)
+MIOO
+A cet instant, Yautomate lance lopération de polissage proprement dite (gérée par la macro-étape "M2OO") en même temps que le robot de transfert revienne à la position de repli. Une fois "M2OO" finie (activation du capteur e) le robot, qui était en position repli, repart pour récupérer de nouveau la coque M3OO déjà polie et la dépose sur le tapis dévacuation. Celle-ci est détectée par un capteur de présence (ps). Le tapis se met ainsi en mouvement (commandé par KM2) durant 20 se- M4OO condes, temps nécessaire à lévacuation de la coque.
+En même temps que lévacuation de celle-ci, le robot de transfert revient rechercher une autre coque à partir du tapis dalimentation si p1 est activé, sinon; il revient à sa position de repli et le cycle s'arrête.
+Ainsi, le grafcet décrivant le fonctionnement du système contient entre autres Une macro-étape "MIOO" décrivant le transfert dune coque du tapis dalimentation au module de polissage. Une macro-étape "M2OO" décrivant lopération de polissage. Une macro-étape 'M3OO" décrivant le transfert dune coque du module de polissage au tapis d' évacuation. Une macro-étape "M4OO" décrivant les séquences d'évacuation dune coque.
+TABLE 1 Tableau récapitulatif des commandes des actionneurs Commande du motoréducteur de tapis d alimentation (monostable) KMI Commande du motoréducteur de tapis dévacuation (monostable) KM2 Commande de robot de transfert pour aller à sa position de repli RO Commande de robot de transfert pour aller à sa position RI Commande de robot de transfert pour aller à sa position R2 Commande de robot de transfert pour aller à sa position R3 Commande de Télectrovanne de Teffecteur du robot pour saisir une coque KV
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2019
+Page 11/12
 
+--- page 14 ---
+Concours MP-PC
+Epreuve S.TA
+Mise en situation, Données et Hypothèses
+TABLE 2 _ Tableau récapitulatif des capteurs Coque arrivée au bout du tapis dalimentation p1 Coque sur le support rotatif du système de polissage pz Coque déposée sur le tapis dévacuation p3 Robot en position de repli 4o Robot en position pour récupérer la coque du tapis dalimentation Robot en position 92 pour déposer la coque sur le support rotatif Robot en position pour déposer la coque sur le tapis dévacuation 43 Appui sur bouton de "Départ cycle" Dcy Coque maintenue par les ventouses du robot par dépression Fin de Topération de polissage
+ 1  < 1  e ,,   1 :
+' . : ` d 1 ,   ' 4 {! : ; , 1  1`  ' 2 1 1 : ' 1 [ d n ` /
+ ,
+ s 
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2019
+Page 12/12
 
+--- page 15 ---
+Unité de polissage
+Robot de_transfert
+Capteur de présence de coques
+Capteur
+présence
+coques
+Patin presseur
+Coque
+Traverse
+Détail
+Direction de vision
+Tapis d'évacuation
+Ventouse
+Détail
+Roue
+Traverse non représentée Crémaillère
+Mouvement et vient
+Iapis d 'alimentation
+Chariot d' approche
+Automate et Unité
+régulation pneumatique
+Patin presseur
+Cogue
+Echelle 1:8
+Système de Polissage de Coques Concours MP-PC Epreuve S.T.A Session 2019 DT-01
 
+--- page 16 ---
+Concours MP-PC Epreuve S.TA
+Partie A : Conception Mécanique
+Document Réponses
+Partie A Conception mécanique Al: Compléter le diagramme SADT niveau AO du système (figure 17)
+6
+HIL 9 1
+8
+1
+1 9 1
+1
+1 [
+8 , 8
+FIGURE 17 _ Diagramme SADT niveau AO du système de polissage
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2019
+Page 1/20
 
+--- page 17 ---
+Concours MP-PC
+Epreuve STA
+Partie A Conception Mécanique
+Document Réponses
+A2: A laide des informations du document 'Mise en situation données et hypothèses compléter le schéma cinématique du vérin linéaire (figure 18)  s tige du vérin 7
+Moto-réducteur
+FIGURE 18 - Schéma cinématique minimal du vérin à compléter
+A3: En se basant sur la description du document "Mise en situation; données et hypo- thèses compléter le graphe de la chaine dénergie de la tête de polissage
+Information d'état
+Chaine dinformation
+Information visuelles et sonores
+Acquérir Capteurs
+Traiter
+Communiquer
+Interface homme- machine
+Unité de commande
+Interface de communication
+Coque non polie
+Ordres
+Chaine d'énergie Energie électrique Distribuer moteur électrique
+réducteur
+1 Polir 1 1
+Transformer la rotation en translation
+poulie, courroie
+Coque 'polie
+FIGURE 19 Graphe des chaines d'énergie et d'informations
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page 2/20
 
+--- page 18 ---
+Concours MP-PC
+Epreuve STA
+Partie B : M S.L
+Document Réponses
+Partie B Mécanique des Solides Indéformables 1 Étude géométrique Bl: Écrire les relations géométriques exprimant a. x ety en fonction de ^, B et des caractéristiques dimensionnelles du système:
+b. x ety en fonction de u, & et des caractéristiques dimensionnelles du système.
+B2 Déduire les relations géométriques entre 4, u, & et B.
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page 3120
 
+--- page 19 ---
+Concours MP-PC
+Epreuve S.TA
+Partie B : M S.I
+Document Réponses
+2 Étude cinématique B.3; Déterminer en fonction des données du problème, les torseurs cinématiques représen- tant les mouvements par rapport au repère 'galiléen des solides suivants le coulisseau (1) au point A
+b. le bras (4) au point D
+le bras (4') au point D1
+B.4:
+Quelle est la nature du mouvement du porte-ventouse (5) par rapport a. au coulisseau (1) ? Justifier
+b. au bâti (0) ? Justifier.
+B.5: Utiliser la base (70, 90,2) pour déterminer la vitesse de E par rapport au bâti, Yexpri- mer en fonction de
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page 4/20
 
+--- page 20 ---
+Concours MP-PC
+Epreuve S.TA
+Partie B : M S.L
+Document Réponses
+À, P, B et des caractéristiques dimensionnelles du robot:.
+b. #, &, leurs dérivées et des caractéristiques dimensionnelles du robot:.
+Le centre E du porte - ventouses est astreint à décrire, à vitesse constante V , la trajectoire re- liant I1 à J1 illustrée par la figure 9 du document "Mise en situation; données et hypothèses' B.6: [Exprimer en fonction de V, les vitesses * et ÿ
+b. V,@eth les lois horaires x(t) et y(t) sachant quà t = 0le point E coïncide avec le point I1.
+B7JUtiliser les résultats des questions B.1 et B.2 pour établir les lois horaires des paramètres de motorisation u(t) et A(t)
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page 5120
 
+--- page 21 ---
+Concours MP-PC Epreuve S.TA
+Partie B : M. S.L
+Document Réponses
+3 Étude dynamique Dans cette partie on considérera le cas où le coulisseau (1) se trouve bloqué en position (À 0). Le mouvement de lensemble formé par les solides (2-3-4-5) est généré par le pilo- tage de la translation p de sorte que la vitesse angulaire imposée aux deux bras (4) et (4') se maintienne constante (B = w) B8] Utiliser la base (70,70,2) pour écrire le bilan, au point C, de toutes les actions méca- niques extérieures s'appliquant au porte-ventouses (5).
+Concours nationaux dentrée aux cycles de formation d 'ingénieurs
+Session 2019
+Page 6|20
 
+--- page 22 ---
+Concours MP-PC Epreuve S.TA
+Partie B : M S.L
+Document Réponses
+B.9: Utiliser le résultat de la question B.3-b pour déterminer le torseur dynamique au point C du porte-ventouses dans son mouvement par rapport à Ro(Oo, 70,70,20)
+B.10: Écrire les équations dynamiques issues du principe fondamental de la dynamique appliqué au porte-ventouses dans son mouvement par rapport à Ro(Oo, 70,70,Zo).
+B.ll: Utiliser la base (70,70,20  pour écrire le bilan en A de toutes les actions mécaniques extérieures s'exerçant sur le bras (4).
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2019
+Page 7120
 
+--- page 23 ---
+Concours MP-PC Epreuve S.TA
+Partie B: M S.L
+Document Réponses
+B.12: Déterminer le torseur dynamique au point A du bras (4) dans son mouvement par rapport à Ro(Oo, 70,70,Z0)
+B.13: Établir les équations dynamiques du bras (4) dans son mouvement par rapport à Ro(Oo, 70,70,20)
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page= 8120
 
+--- page 24 ---
+Concours MP-PC Epreuve STA
+Partie B : M S.I
+Document Réponses
+B.14: Établir, sans calcul, les équations dynamiques du bras (4') dans son mouvement par rapport au repère Ro(Oo,70,70,20)
+B15] En considérant les réponses aux questions B.10, B.13 et B.14, quelles relations , entre inconnues de liaisons, peut-on ajouter pour résoudre le problème dynamique?
+B.16: Déterminer en fonction de Fc, &, M; ms, 8, w, L et 8, toutes les inconnues des liaisons en A, A1, D et D1
+Concours nationaux d'entrée aux cycles de formation d Yingénieurs
+Session 2019
+Page  9120
 
+--- page 25 ---
+Concours MP-PC
+Epreuve S.TA
+Partie B : M S.L
+Document Réponses
+B.17: Déterminer en fonction de m1 Fc, &, M; m5, B, w, L et 8, Yaction F développée par lactionneur pour le blocage du coulisseau (1) en position:
+ 
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page 10/20
 
+--- page 26 ---
+Concours MP-PC
+Epreuve S.TA
+Partie C : Automatique
+Document Réponses
+Partie C Automatique 4 Étude du système patin presseur de la tête de polissage 41 Modélisation et identification du modulateur de pression CI: A partir de léquation (1) (du document "Mise en situation; données et hypothèses"), exprimer la fonction de transfert T(p) X(p) AF(P) caractérisant les variations autour du point de repos où les conditions initiales sont nulles.
+C2: Quelle condition doit-on imposer aux paramètres pour que le modulateur se comporte comme un système hyper-amorti (apériodique) ?
+C.3: Écrire dans le domaine de Laplace les équations du système de (2) à (5) du document 'Mise en situation, données et hypothèses"
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2019
+Page 11/20
 
+--- page 27 ---
+Concours MP-PC Epreuve STA
+Partie C : Automatique
+Document Réponses
+C4: Compléter le schéma fonctionnel ci-dessous
+' ,
+Pc(p)
+Pz(p)
+ 
+ ,
+FIGURE 20 - Schéma fonctionnel du modulateur
+C5: Montrer que la fonction de transfert globale du modulateur G(p) = Pz(p) / P (p) admet pour expression G(p) P(p) Pe(p) 2 + 2 ZP+1
+c6]En déduire les expressions de A, 7 et wo en fonction de m, k et c; les autres paramètres (K1 K2 Ks et S) sont à remplacer par leurs valeurs numériques 
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2019
+Page 12/20
 
+--- page 28 ---
+Concours MP-PC
+Epreuve S.TA
+Partie C : Automatique
+Document Réponses
+Des essais harmoniques ont été conduits afin didentifier les éléments de la fonction de trans - fert G(p) du modulateur: Il ont donné les courbes de Bode suivantes
+9 =10 =20
+1 "180*
+10"
+10?
+Pulsation [rad /s]
+FIGURE 21 Courbes de Bode de la fonction de transfert G(p) du modulateur
+C7: A partir de cette réponse harmonique de Bode, identifier A, W0 et 3.
+c8]En déduire les paramètres caractéristiques du modèle du modulateur c,ket m
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2019
+Page 13/20
 
+--- page 29 ---
+Concours MP-PC Epreuve S.TA
+Partie € : Automatique
+Document Réponses
+4.2 Régulation de la pression du patin presseur
+Objectif de cette partie Justifier le choix et dimensionner un correcteur approprié pour la commande dela régulation en pression du système presseur ayant la fonction de trans- 80 fert G(p) afin de satisfaire les exigences du cahier des charges. (2+ p)(1o + p) c9] Quelle est la différence entre une régulation et un asservissement?
+C.1O: En se référant à la figure 21, pour C(p)
+1 déterminer la marge de phase.
+c11] En se référant à la figure 13, pour C(p) 1 déterminer 1erreur statique de position unitaire
+On donne sur la figure 22 la réponse indicielle unitaire du système non corrigé.
+Pz[bar] 12
+10
+0.8
+0.6
+'C(p) =1
+0.4
+0.2
+0.0 0.0
+0.2
+0.4
+0.6
+0.8
+10 1.2 temps [s]
+FIGURE 22 _ Réponse indicielle du système sans correction
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2019
+Page - 14/20
 
+--- page 30 ---
+Concours MP-PC
+Epreuve STA
+Partie C : Automatique
+Document Réponses
+ci] Déterminer graphiquement le temps de réponse à 5%.
+EiJustifier pourquoi la régulation sans correction (C(p) 1) ne permet pas de satisfaire les critères du cahier des charges:
+Afin daméliorer les performances du système, on envisage de placer un correcteur intégral C(p)
+4.2a) Correcteur intégral C(p)
+avec Ki > 0
+C14: Déterminer Ki permettant de satisfaire la condition Mp = 459
+C15: Calculer Y'erreur statique de position unitaire
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page 15|20
 
+--- page 31 ---
+Concours MP-PC
+Epreuve S.TA
+Partie C: Automatique
+Document Réponses
+On donne sur la figure 23 la réponse indicielle unitaire du système corrigé pour Ki trouvé précédemment.
+Pz[bar] 14
+12
+10
+0.8
+0.6
+0.4
+0.2
+0.0
+temps [s]
+FIGURE 23 _ Réponse indicielle du système avec correction intégrale C16: [Déterminer graphiquement le temps de réponse à 5%_
+C17: Conclure quant à la capacité de ce correcteur à satisfaire Yensemble des critères du cahier des charges.
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page 16/20
 
+--- page 32 ---
+Concours MP-PC
+Epreuve S.TA
+Partie C: Automatique
+Document Réponses
+4.2b) Correcteur proportionnel-Intégral : C(p) = Kp '+F2 avec T; > 0, Kp > 1 C18: Déterminer T; pour compenser le pôle dominant du modulateur
+ci]Déterminer Kp pour avoir une marge de phase Mp = 459
+C.20: Déterminer l'erreur statique de position unitaire
+On donne sur la figure 24 la réponse indicielle unitaire du système corrigé pour les para- mètres Kp et T; trouvés précédemment:.
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page 17/20
 
+--- page 33 ---
+Concours MP-PC
+Epreuve STA
+Partie C : Automatique
+Document Réponses
+Pz[bar]
+12
+10
+0.8
+0.6
+0.4
+0.2
+0.0 0.0
+0.2
+0.4
+0.6
+0.8
+1.0 1.2 temps [s] FIGURE 24 ~ Réponse indicielle du système avec correcteur PI
+C21: Donner le temps de réponse à 5%.
+C22: Établir le tracé de Bode asymptotique de ce correcteur PL
+30 1 20 10
+~10l
+~204 10 7
+10'
+1 459 4980
+10"
+10
+10?
+Pulsation [rad /8]
+Concours nationaux d' entrée aux cycles de formation dingénieurs
+Session 2019
+Page 18/20
+100
 
+--- page 34 ---
+Concours MP-PC
+Epreuve STA
+Partie C : Automatique
+Document Réponses
+c2] Conclure quant à la capacité de ce correcteur à satisfaire Yensemble des critères du cahier des charges.
+4.3 Étude séquentielle du cycle de polissage En se référant au document "Mise en situation, données et hypothèses" pages 10-11-12 C24: Compléter le grafcet du point de vue commande (page 20/20) décrivant le fonction- nement du système de polissage. C25: Compléter les expansions de macro-étapes MIOO et M4OO ci-dessous.
+ElOO
+101
+E4OO
+102
+401
+103
+S400
+104
+p2
+S10O
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2019
+Page : 19/20
 
+--- page 35 ---
+Concours MP-PC Epreuve S.TA
+Partie C : Automatique
+Document Réponses
+P1
+10
+MIOO
+M2OO
+M3OO
+M4OO
+
+P1
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page : 20/20

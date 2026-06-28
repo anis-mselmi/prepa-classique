@@ -1,14 +1,271 @@
+--- page 1 ---
+agl V)s44i <aei es#l +llll rilejl { ljg Jsis tibji 2 JELiJI jnij ;ajal> s 2023 ; , >
+REPUBLIQUE TUNISIENNE Ministère de ['Enseignemnent Supérieur et de la Rechercbe Scientifique Concours Nationaux d'Entrée aux Cycles de Fomation d 'Ingénieurs Session 2023
+Concours Mathématiques et Physique Epreuve de Mathématiques I
+Session 2023
+Date 31/05/2023
+Durée 4 heures
+Si, au cours de lépreuve, un candidat repère ce qui lui semble être une erreur d'énoncé, il le signale sur sa copie et poursuit sa composition en expliquant les raisons des initiatives qu'il a été amené à prendre.
+[L'usage de la calculatrice et de tout dispositif électronique est interdit
+Le but de ce problème est de démontrer la formule de Stirling à laide dun développement asymptotique d'une fonction intégrale et de donner quelques _ applications. Les parties III, IV et V sont indépendantes.
+On pourra utiliser les résultats suivants +0 e- 4 dx V2z.
+Pour tout z € C, |ez | = eRe(z) 
+Notations
+On note C [0,1] = {p : [0,1] _ + C, $ est continue} quon munit de la norme
+Ilello sup |#(t) te[0,1]
+@ € € [0,1] .
+On note Co(R+) = {0 R+ "4 C continue, lim+% @ = 0} qu'on munit de la norme
+No(@) = sup |p(t)| , teR+
+0 € Co(R+)
+On désigne par P Yespace des fonctions polynomiales. Par abus de language, la locution "fonction polynomiale" est parfois remplacée par polynôme: Si E est un espace vectoriel normé et F une partie de E, ladhérence de F sera notée F.
 
+--- page 2 ---
+On rappelle que si X est une variable aléatoire à valeurs dans N, sa fonction génératrice Gx est définie par Gx (t) = 2 P(X = n) t" , t € [~1,1] Cette série converge pour tout n=0 nombre complexe z de module < 1 et on peut donc définir
+Gx (z) = EP(X = n) z" , pour tout z € C tel que |zl < 1. n=0
+Partie I : Préliminaires Q.1D Montrer que la fonction x F4 sinx est concave sur 0, 2 En déduire que sinx 2 2x pour T tout x € 0, 2 Dans la suite, on désigne par f la fonction de Rdans C définie par
+f (t) = eit _ 1 _ it pour tout réel t.
++2 Q.2 D Montrer qu'au voisinage de 0 on a : f(t) ~ 2 Q.3 D Montrer que pour tout x € Rt ett € R, Jexf(e) | =e-2x 'sin? (4) Q.4D En déduire que pour x € Rt ett € [~T, 7] ,
+lexf(t)[ 2x 2 <e
+Q.5 D Soit X une variable aléatoire à valeurs dans N. Montrer que pour tout entier k € N,
+P(X = k) = 27
+Gx(eit )e ~ikt dt.
+Q.6 > Soit E un espace vectoriel normé et F est un sous espace vectoriel de E. Montrer que F est un sous espace vectoriel de E
+Partie II Une preuve de la formule de Stirling On désigne par @ la fonction de Rt dans C définie par
+@(x) =
+exf(t) dt pour tout x € R+,
+où f est la fonction définie plus haut
+Q.7 D Montrer que @ est continue sur R+ et qu'elle vérifie
+J@(r) < [7 e-2x &dt, pour tout x € R+ ~I En déduire que @ € Co(R+)
+Page 2 sur 5
 
+--- page 3 ---
+On se propose de déterminer un équivalent de @ en +0_ Q.8 D Montrer que pour x > 0on a :
++o xf(yz) si |u| Vxz, Vxæ(x) = J hx(u)du , où hx(u) = { si |ul 2 Vxz.
+Q.9 D Montrer que pour tout réel u, lim hx(u) = e-4 . X-+0 Q.10 D En utilisant le théorème de convergence dominée, montrer quau voisinage de +0 on a :
+@(x)
+27
+On se propose dans la suite de cette partie de démontrer la formule de Stirling. Soit X une variable aléatoire qui suit la loi de Poisson de paramètre n € N* . Q.11 D Expliciter la fonction génératrice Gx de X. nne-n Q.12 D Montrer alors que 1@(n) n! 27 Q.13 D En déduire la formule de Stirling = n! VZnnn"e-n .
+Partie III Un exemple dune partie dense
+Soit F = {g € € [0,1] : g(0) = 0} et on désigne par P Yespace des fonctions polynomiales. Q.14 D Montrer que F est un hyperplan fermé de C [0,1] Indication On pourra utiliser lapplication g F + g (0) On note Po = FnP = {f € P f(0) = 0} et on fixe 8 € F. Q.15 D Justifier qu'il existe une suite de fonctions polynômiales Pn)neN qui converge uniformé- ment vers g sur [0, 1]. En déduire que la suite (Qn)neN définie par Qn Pn Pn(0) pour tout n € N, converge uniformément vers g sur [0, 1] et que Po = F. On fixe h € Co(R+) et on pose g (t) = h (~Int) t ejo, 1] Q.16 D Justifier que 8 se prolonge en une fonction continue sur [0, 1], notée encore par 8, et qui appartient à F. Comparer No (h) et llgllo' Q.17 D En déduire qu'il existe une suite de fonctions polynomiales (Pn)neN telle que la suite de fonctions (x F + e-*Pn(e-*))neN converge uniformément sur R+ vers h Soit D le sous-espace vectoriel de Co(R+) formé des fonctions de la forme h(x) = e-xP(x) où P € P.On souhaite montrer dans la suite que D est une partie dense de Co(R+). On pose ek (x) =e-kx x € R+ k € N* .
+Page 3 sur 5
 
+--- page 4 ---
+Q.18 Pour n € N* on pose An(x) = 2(1x* Justifier Yinégalité suivante k=0 k!
+2x
+e-*An(x)| < 2" * n! pour tout x € R+.
+Indication On pourra utiliser linégalité de Taylor-Lagrange. Q.19 Montrer que pour tout x € R+,x"e-x < n"e-n. En déduire que e2 € D. Soit n un entier > 2 tel que en € 5.On se propose de démontrer que en+1 € D.On fixe € > 0, il résulte de la question Q.18 qu'il existe un polynôme P € P vérifiant
+le-2y e-yP(y)| 2 pour tout y > 0
+On pose M = sup |e-xP(x)| xeR+ Q.20 D Justifier qu'il existe un polynôme Bn vérifiant (n+1)x ~nxl2e ~x/2Bn (x) | pour tout x € R+. 2
+Q.21 D Montrer qu'il existe un polynôme Q vérifiant
+-nx/2
+~x/2Q(x)| pour tout x € Rt. 2M +1   Indication Remarquer que en € 5. Q.22 En déduire qu'il existe @ € D tel que le-(n+1)x $ (x) | < € pour tout x € R+ et conclure que en+1 € D. Q.23 D Monter alors que D est dense dans Co(R+).
+Partie IV : Application à une marche aléatoire
+Soit ( Xn_ une suite de variables aléatoires indépendantes suivant la même loi définie par
+ P(Xn = 1) = P(Xn = ~1) = 2 Pour tout n € N* on pose Sn = X1 + Xz + ''+ Xn et on prend So = 0
+Q.24 Déterminer lespérance et la variance de Sn. Q.25 Soient € > 0 et n € N* . Montrer que
+Sn P n
+1 nez
+1 (2n Q.26 D Justifier que pour n € N* on a P(S2n = 0) = En déduire que P(S2n = 0) ~ 22n n In
+Page 4 sur 5
 
+--- page 5 ---
+Q.27
+Pour n € N* on désigne par &n la probabilité conditionnelle P ((| > € ) [S2n 0 ) . Mon- trer que lim &n = 0 n =+0 Dans la suite, on considère la série entière P(S2n 0)x2n et on désigne par H sa somme n20 Q.28 Déterminer le rayon de convergence R de cette série. A-t-on convergence au point x = R? Q.29 Soit Y une variable aléatoire qui suit la loi binomiale de paramètres 2n, 4 ) . Expliciter la fonction génératrice Gx de Y. Q.30 D En utilisant la question Q.5, montrer que
+P(S2n 0) = P(Y = n) = 27
+cOs2n 2) dt = 2 coS2n '(u)du. T
+Q.31 D En déduire que, pour tout x € ]-R,R[
+2 4 du H(x) = Tt Jo 1 = x2 cos2(u)
+Q.32 D Montrer que pour tout x € ]-R, R[
+H(x) =
+Partie V Une Série de fonctions
+Pour tout réel x € R+ on pose
+Te-x S(x) = E(-1)"-11n 1 + T n=1 2n sin 2e-x
+Q.33 Montrer que S est bien définie sur R+ et que pour tout entier n 2 1, on a
+Te-x 2 (~1)k-1In 1+ < In 1 + 7Ri)z) . k=n 2k sin 2e *
+Q.34
+En déduire que S est continue sur R+. 2n 24n (n!)4 Q.35 Montrer que (~1)k-1In (*4) =ln k=1 (2n (2n + 1)! En déduire que lim S(x) = In (2)  x-++00
+* Fin de épreuve *
+Page 5 sur 5
 
+--- page 6 ---
++sl 4)8-4?JI <li Zadl) +llell flal jJljs Jsisl ;ibji 2i JbiJi Dhnis Jl jxaJal > 3 2023 ; )>
+REPUBLIQUE TUNISIENNE Ministère de 1Enseignement Supérieur et de la Recherche Scientifique Concours Nationaux d'Entrée aux Cycles de Foration d Ingénieurs Session 2023
+Concours Mathématiques et Physique Corrigé de 1Epreuve de Mathématiques I
+Session 2023
+Date 31/05/2023
+Durée 4 heures
+Le but de ce 'problème est de démontrer la formule de Stirling à Yaide d'un développement asymptotique d'une fonction intégrale et de donner quelques applications. Les parties IIL, IV et V sont indépendantes.
+On pourra utiliser les résultats suivants 40 4dx = V2z. Pour tout z € C, |ez| = eRe (z).
+Notations
+On note C [0,1] = {P [0,1] = + C, $ est continue} quon munit de la norme
+Ilello sup |P(t)| te[o,1]
+0 € C [0,1] .
+On note Co(Rt) = {" : R+ _ + C continue, lim +o
+0} qu'on munit de la norme
+No(@) sup |P(t)| , teR+
+9 € Co(R+)
+On désigne par P Yespace des fonctions polynomiales. Par abus de language, la locution "fonction polyno- miale" est parfois remplacée par polynôme: Si E est un espace vectoriel normé et F une partie de E, ladhérence de F sera notée 7 On rappelle que si X est une variable aléatoire à valeurs dans N, sa fonction génératrice Gx est définie par Gx (t) 2 P(X = n) t" , t € [~1,1] Cette série converge pour tout nombre complexe z de module < 1 et n=0 on peut donc définir
+Gx (z) = EP(X =n) z" pour tout z € C tel que |z| < 1 n=0
+Pàrtie I : Préliminaires
+2 Q.1D Montrer que la fonction x F4 sinx est concave sur [o,2 En déduire que sinx 2 pour tout x € [02]
 
+--- page 7 ---
+La fonction sin est C2 sur [0,n/2] dont la dérivée seconde est négative; donc sin est concave. Tout % [0, 4], sécrit x = 2x.5+ (1 gr)0. Doù par concavité on obtient sinx > 2rsin( 2)+(1_ 2r) sin0 = 2r On pourra aussi utiliser la position de la courbe y sinx par rapport à la corde passant par les deux points (0,0) et (n/2,1) Dans la suite, on désigne par f la fonction de R dans C définie par
+f (t) = eit _1 _it pour tout réel t.
++2 Q2D Montrer qu'au voisinage de 0 on a: f(t) ~ 2
+En utilisant le devéloppement limité de la fonction exp on obtient : eix = 1+ix + Q3 D Montrer que pour tout x € R+ ett € R, exf(t) =e 2xsin? (4) On a exf(t) eRe(xf(t) exRe(f(t)) ex(cos  t-1) =e 2xsin? (4)
++0(x2).
+Q4 D En déduire que pour x € Rt et t € [~T,7] ,
+lef()| <e-22
+Pour t € [~T, T], on a I4l € [0, 4]. Comme sin? (4) sin? (/4l) et sin(l4l) 2 4t| 2 0, on obtient sin?(4) 2 Æ etlinégalité s'ensuit. Q5D Soit X une variable aléatoire à valeurs dans N. Montrer que pour tout entier k € N,
+P(X =k) = 2 Jz Gx(ei)e -ikt dt .
+Pour k € N; on a :
++o
+Gx(eit)e-ikt = EP(x = n)ei(n-k)t pour tout réel t. n=0 Comme la suite de fonctions t  + P(X = n)ei(n-k)t est continue sur [~T, n] ; la série 2+% P(X n)ei(n-k)t converge normalement sur [~T,n] (puisque |P(X n)ei(n-k)t  < P(X n)) ; la série EP(X n) converge et le fait que Jzze(n~k)tdt 6n,k, on peut écrie
++o Gx(eit)e ~ikt dt = EP(x = n) e'(n-k)tdt = P(X = k). ~I n=0 ~I
+Q6D Soit E un espace vectoriel normé et F est un sous espace vectoriel de E. Montrer que F est un sous espace vectoriel de E. On a 0 € F.Six,y € Fet ^ € C ,il existe deux suites d'élements de F, (xn) et (yn qui convergent vers x et y respectivement. La suite (xn + Ayn) € FN et converge vers x + Ay ce qui montre que F est un sous-espace vectoriel.
+Page 2 sur 10
 
+--- page 8 ---
+Partie II : Une preuve de la formule de Stirling
+On désigne par $ la fonction de R+ dans C définie par
+@(x)
+exf(t) dt pour tout x € R+
+où f est la fonction définie plus haut.
+Q.7D Montrer que @ est continue sur R+ et qu'elle vérifie
+JP(x)| < [ ~22 dt, pour tout x € R+ ~I
+En déduire que @ € Co(R+) Soit h : (x,t) + + exf(t) définie sur R+ x [~T, 7] On a 1 h(x,t) est continue par morceaux sur [~I,n] pour tout x € R+.x F + h(x,t) est continie sur R+ pour tout t € [~7,7]. Pour tout (x,t) € Rt x [~n,n} on a |h(r,t)| < e-22 <1 et la fonction t 1 1 est intégrable sur [~T, T]. Le théorème de continuité sous le signe intégral s'applique. ~24 dt Ona |$(x)l < Jzz |exf()| dt < Jzz daprès Q.4. Ona lim ,~2*2 Opour tout t et ~22 < 1qui est intégrable. Le TCD montre que lim @(x) 400 40 0. Par suite @ € Co(R+). De plus on a |v(x)l < 27 Jv(0)| donc No (@) 2T
+On se propose de déterminer un équivalent de $ en +0. Q8 D Montrer que pour x > Oona:
++0 Vræ(x) = hr(u)du, où hz(u) 200
+e*f(7z) si |u| Vxn, si |ul 2 Vxz.
+En utilisant le changement de variable bijectif u Vxt on obtient
+Tvr ef(7:) du ~Tx
++o hr(u)du.
+@(x)
+Q.9 D Montrer que pour tout réel u, lim hz(u) = e-4. 4+00
+Soit u € R. I existe a > 0 tel que pour tout x > @, |u| < Vzn donc hx(u) ef(yz) pour X assez grand. Daprès Q.2, f(fz) 2 donc limx ~+% xf(yz 4 Par composition des limites, lim hx(u) =e-%. 4+00 Q10 D En utilisant le théorème de convergence dominée, montrer qu' au voisinage de +0 on a :
+P(x) ~ 2z
+Page 3 sur 10
 
+--- page 9 ---
+On a u + hz(u) est continue par morceaux et intégrable sur R lim  hx(u) = e { pour tout u et xa++0 u H e-# est continue par morceaux. Pour tout (x,u) € Rt x R, Jhz(u)| < Jef(ÿ  | < ,~2r(7;)? e-2u2 et u + e-2u2 est intégrable sur R Par TCD on obtient
+lim Vxw(x) JR 4 du V2n. 14++0
+On se propose dans la suite de cette partie de démontrer la formule de Stirling: Soit X une variable aléatoire qui suit la loi de Poisson de paramètre n € N* . Q11D Expliciter la fonction génératrice Gx de X. On a Gx(t) en(t-1) pour tout t € R nne-n Q.12 D Montrer alors que 1@(n) n! 2n Daprès la question Q.5 on a
+n"e-n = P(x = n) = 2n [7 Gx(e")e-imdt n! en(e#_1-it) dt 1@(n) 2n ~T 27
+Q.13 D En déduire la formule de Stirling n! V2nnn"e-" D'après la question Q.10 on a 1w(n)  2r Par suite on a n! V2nn (") 2n 27 2nn
+Partie III Un exemple dune Partie dense
+Soit F = {g € C [0,1] : g(0) = 0} et on désigne par P Yespace des fonctions polynomiales. Q14 D Montrer que F est un hyperplan fermé de C [0,1] Indication : On pourra utiliser ]application g F + g (0) La forme linéaire sur C [0,1], " 8 F+ 8 (0) est continue puisque |w(g)| < Ilgllo et F ker + donc F est fermé comme étant image réciproque d'un fermé par une application continue. On note Po FnP = {f €P f(o) 0} et on fixe 8 € F. Q15 D Justifier quil existe une suite de fonctions polynomiales (Pn)neN qui converge uniformément vers 8 sur [0, 1]. En déduire que la suite (Qn)neN définie par Qn Pn Pn(0) pour tout n € N, converge uniformé- ment vers g sur [0,1] et que Po = F. Comme g est continue sur [0,1], le théorème de Weirstrass montre lexistence de (Pn)neN- Soit € > O,ilexiste N tq pour tout n 2 N, |lPn = gllo { en particulier | Pn (0) | [Pn (0) = g(0)| 2 Par suite pour tout n 2 N, IlQn gllo < IlPn = gllo + |Pn(0)| < €. Ce qui montre la convergence de (Qn) Comme (Qn) € P, alors 8 € Po. On a donc montré que F € Po. Or Po € F donc Po € F (car F est fermé)
+Page 4 sur 10
 
+--- page 10 ---
+On fixe h € Co(R+) et on pose 8 (t) = h (~Int) t ejo,1] Q.16 D Justifier que 8 se prolonge en une fonction continue sur [0,1], notée encore par 8, et qui appartient à F . Comparer No (h) et llgllo: La fonction h est continue sur ]0, 1] comme étant composée de deux fonctions continues. Par compo- sition de la limite on a lim g(t) lim h(x) = 0, donc g se prolonge en une fonction continue tF+0 XF+0 sur [0,1] avec g(0) 0 par suite 8 € F On a |g(t)l = |h (~Int)| < No(h) donc llgllo < No(h). De même si x € R+. Q17 D En déduire quil existe une suite de fonctions polynomiales (Pn )neN telle que la suite de fonctions (x+ +e-*Pn(e-r))neN converge uniformément sur R+ vers h. Daprès la question Q.15 il existe une suite de polynômes (Qn) € Po telle que |Qn gllo 0. Or Qn secrit XPn(X). On a
+No(e-*Pn(e-*) - h) = ||XPn - gllœ Il Qn gllo
+0.
+Soit D le sous-espace vectoriel de Co(R+) formé des fonctions de la forme h(x) e-xP(x) où P € P.On souhaite montrer dans la suite que D est une partie dense de Co(R+). On pose ek(x) = e kx x € R+ k € N* Q.18 D Pour n € N* , on pose An(x) = 25' (126x* Justifier Yinégalité suivante = k0 k!
+~2x x"e Je =e ~xAn(x)| < n!
+pour tout x € Rt
+Indication On pourra utiliser linégalité de Taylor-Lagrange. On pose f : x + ex f est de classe C" et |f(n) (*)| ex < 1 pour tout x € Rt. De linégalité de Taylor-Lagrange on en déduit que |e-x _ Pn(x)l < Le resultat s'ensuit en multipliant par e n! Q.19 D Montrer que pour tout x € R+,x"e-% < n"e-n. En déduire que e2 € D. Une étude de fonction montre que x"e-* < n"e-n. Donc
+n"e-n Je-2x ~e ~YPn  (x)| < n!
+x € R+
+n"e-n Par la formule de Stirling 1 0, ce qui montre que la suite (e-xPn(x)) converge n! V2nn uniformément vers e2. Par suite e2 € D.
+Soit n un entier 2 2 tel que en € D.On se propose de démontrer que en+1 € D.On fixe € > O,il résulte de la question Q.18 qu'il existe un polynôme P € P vérifiant
+Je-2y e-yPly)| 2 pour tout y 2 0.
+On pose M = sup |e-*P(x)| ER+ Q.20 D Justifier quil existe un 'polynôme Bn vérifiant
+e-(n+l)x
+~nx/2e ,~x/2Bn( (x)| 2 pour tout x € R+
+Page 5 sur 10
 
+--- page 11 ---
+suffit de remplacer y par (n + 1) 7 et de prendre Bn(*) P((n+1) u) Q21 D Montrer qu'il existe un polynôme Q vérifiant
+e-nx/2 ~1/2Q(*)| pour tout x € R+ 2M+1
+Indication : Remarquer que en € 5. Comme en € D,alors il existe un polynôme R vérifiant
+le-ny _ e-yR (y)| pour tout y €R+. 2M
+Ilsuffit de remplacer y par x/2 et de poser Q = R(x/2)
+Q22 D En déduire qu'il existe D tel que |e-(n+1)x P(x)| en+1 € D. En multipliant linégalité
+pour tout x € R+ et conclure que
+e-nx/2 _ e ~*/2Q(*)| pour tout x €R+. 2M
+par e ~x/2Pn( (x) on obtient
+-nx/2e Je-z/2Pn(x)| ~x/2Pn(x) =e-YPn(x)Q(x)| 2M < 2
+En utilisant la dernière inégalité et linégalité triangulaire, on obtient
+le-(n+1)x e-*Pn(x)Q(*)| < e, pour tout x €R+.
+Soit @ : x F + e-*Pn(x)Q(x) € D. Alors
+le-(n+1)x P(x)| < € pour tout x € Rt.
+Ce qui montre que en+1 € D. Q.23 D Monter alors que D est dense dans Co(R+). Comme ek € D pour tout k 2 1 alors pour tout polynôme P on a X + e-xP(e-r) € D. Soit h € Co(R+), daprès la question Q.17, pour tout € > 0 il existe P € P tel que |h(x) = e-rP(x)| < € par suite h € D D.Donc D = Co(R+)
+Partie IV : Application à une marche aléatoire
+Soit (Xn) une suite de variables aléatoires indépendantes suivant la même loi définie par
+P(Xn = 1) = P(Xn = ~1) 2 Pour tout n € N* on pose Sn = X1 + Xz + .  ' + Xn et on prend So = 0.
+Page 6 sur 10
 
+--- page 12 ---
+Q.24 D Déterminer lespérance et la variance de Sn. On a E(Xn) =0 et V(Xn) 1. Par linéarité de lespérance on a E(Sn) obtient V(Sn) = V(Xi) =1.
+0. Par indépendance on
+Q.25 > Soient € > 0et n € N* . Montrer que
+Sn P > €  < ne?
+Comme Sn admet une variance. Linégalité de Bienaymé-Ichebychev s'écrit
+V(Sn) P s|> ) P (ISn E(Sn)| > ne) < n222 ne2
+'2n Q.26 D Justifier que pour n € N* on a P(S2n = 0) En déduire que P(S2n 0) 22n Vnn Soit lévénement
+(Szn = 0) U (Xk = 1,k € A)n (Xi = ~1,i € A) Ac{1,2,n} card(A)=n
+Pour chaque sous ensemble dindices A, P((Xk 1,k € A)n (Xi '2n 0-additivité on obtient P(S2n 0) 22n Méthode 2 : On écrit Xn = 2Yn - 1où Yn B(4) Par la formule de Stirling on a
+~1,i € Ac))
+(3)2n. Par
+'2n
+V4nn(= 2n)2n (2n)! (n9)2 2Tn(")2n
+22n Tn
+Donc, P(S2n = 0) ~ Vnn
+Q27 D Pour n € N* on désigne par %n la probabilité conditionnelle P lim &n 0. n-+0 On a
+Sn > €) IS2n 0) . Montrer que
+P Sn > € n (S2n = 0) ) Sn #n P > € ) IS2n = 0 ) P(S2n 0) Sn > € Vnn Vn ~o P(S2n 0) ne2P(S2n 0) ne2 Vne
+Doù lim #n n-*0
+Dans la suite, on considère la série entière P(S2n O)x2n et on désigne par H sa somme n2o
+Page 7 sur 10
 
+--- page 13 ---
+Q.28 D Déterminer le rayon de convergence R de cette série. A-t-on convergence au point x =R? D'après la question 14, P(S2n 0) Donc, par application de la règle de dAlembert, le Tn rayon de convergence de la série x2n est R 1. Comme la série diverge donc la Tn Tn série P(S2n 0) diverge par comparaison des séries à termes positifs. n20
+Q.29 D Soit Y une variable aléatoire qui suit la loi binomiale de paramètres (2n, 4) . Expliciter la fonction génératrice Gx de Y Ona Gx(t) (2t+2)2n 41)2n . Q.30 D En utilisant la question Q.5, montrer que
+P(S2n = 0) = P(Y = n) = 2 J7 cs2 (2)a 2 4 cos2n (u)du.
+On a P(S2n = 0) = P(Y = n) 22n (2 Daprès la question Q.5 P(Y = n) = 2(4 ~intdt = 2 [7 (42+9 2)2à cos(5)2"dt = 1 27 cos(5)2dt (Par parité) 2 { cos2n (u)du (Par le changement de variable u = 2)
+Q.31D En déduire que, pour tout x € ]-R,R[
+2 2 du H(x) = 7 Jo 1 _ x2 cos2 (u)
+On écrit
+O)x2n 2 H(x) P(Szn 5 cos2n (u)dux2n n==0 2 COS2n '(u)x?" 'du 2 [{ du. n0 T 1 _ cos2 (u)xz
+Q.32 D Montrer que pour tout x € ]~R,R[
+H(x) Vi = æ
+Page 8 sur 10
 
+--- page 14 ---
+En calculant Jo 1 = cos @Fdu à Yaide du changement de variable bijectif t tg(u) on obtient
+dt
+J du = 1 = CoS25 '(u)xz
+1 -æ+4 dt 1 _x2 1+(122) dv T V1 = x2 1+v2 2 vi = æ
+Par suite H(x)
+Partie V : Une Série de fonctions
+Pour tout réel x € R+ on pose
++oo Te =x S(x) = E(-1)"-11n 1+ T n=1 2n sin 2e-*
+Q.33 D Montrer que S est bien définie sur R+ et que pour tout entier n 2 1,on a
+Te"x (~1)k-1In 1+ T k=n+l 2ksin 2e-*
+< In (1+ 2(n+1)) 
+Te
+Soit fn 14 (~1)"-11n 1+ pour tout x € R+ On a Ifn (x)| < |fn+1(x)| et 2n sin (Ze- limn ~4+0 Ifn (x)| 0. Donc la série définissant S converge simplement comme une série alternée vérifiant CSSA. On a donc
++00 fk (x) | < Ifn+1(x)| In k=n+l
+Te -x T 2(n + 1) sin (4e-") <hn (1+ 2(+1j)
+2 T car; 2 e* € [0, 4] pour tout x 2 0,donc sin (ge-*) 2 72 ex =e% Q.34 D En déduire que S est continue sur R+ Pour tout n, fn est continue sur R+ La série Efn converge uniformément sur R+ car pour tout x € R+
+T
+2 fx(r)| <In (1+ 2041) =0 Ken+l
+Par le théorème de continuité sous le signe somme, $ est continue sur R+ 24n (n!)4 Q.35 D Montrer que '(~1)k-1In ("+) =ln Kz1 (2n')(2n +1)7
+Page 9 sur 10
 
+--- page 15 ---
+En déduire que
+lim S(x) = In 2 1 ++0
+La formule s'établit directement, ou Par récurrence. La formule est valable pour n = 1.Supposons que le résultat est vrai pour n 2 1.On a
+2n+2 24n (n!)4 2n +In ~In 2n+3 2(-1)k-11n ("+) In 2n +2) (2ni)(2n +1) 2n + 2 K= 24n (n4)4 (2n +2)4 In (2n')(2n +1) 2n + 1 (2n+22(2n+3 24n+4((n+ 1)4)4 In (2n+3)4(2n +2) Par la formule de Stirling
+2n
+24n (n!)4 2n (2n1) (2n +1)! 2e 1+2n
+2
+lreste à appliquer le théorème d'interversion série-limite en linfini : ily a convergence uniforme et
+Te (~1)"-11n 1+ 4 (~1)"-11n (1 + 1) quand X ++ +0 2n sin (4e7)
+Te-x
+Te-* 2n(ge-*)
+car 2nsin (Ze-r)
+* Fin de lépreuve *
+Page 10 sur 10

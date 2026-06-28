@@ -1,7 +1,114 @@
+--- page 1 ---
+4 àsJ)slal "ljxlgzls {aaLal din Tbyl GijLiJi ihnit~i Qg Jlj 2021 6
+REPUBLIQUE TUNISIENNE
+Ministère de 1'Enseignement Supérieur et de la Recherche Scientifique
+Concours Nationaux d'Entrée aux Cycles de Formation dIngénieurs Session 2021
+Concours Technologie Epreuve de Physique
+Date Jeudi 24 Juin 2021
+Heure : 8 H
+Durée : 4 H
+Nb pages : 8
+Barème Problème 1 : 8 pt ;
+Problème 2 : 12 pt
+L'usage dune calculatrice non programmable est autorisé. Si un candidat est amené à repérer ce qui peut lui sembler une erreur d'énoncé, il le signalera sur sa copie et devra poursuivre sa composition.
+L'épreuve comporte deux problèmes indépendants. Le problème étudie le principe d'une pince ampèremétrique basé sur des phénomènes d'induction; le   filtrage dun signal électronique et la diffusion thermique dans un fil. Le problème 2 traite l'effet d'interaction d'un électron atomique avec un champ extérieur diffusion dun rayonnement et effet Zeeman.
+Données : Permittivité du vide €o X 10-9 F m-1 36T Célérité de la Jumière dans le vide c = 3 X 108 m. s-1 Massc de lélectron m = 9,1 x 10-31 kg Charge électrique élémentaire e = 1,6 x 10-19 C Constante de Planck h = 6,62 x 10-34 Js Electronvolt 1eV = 1,6 x 10-19 i2 =1 ; Eopo
+Problème 1
+A. Pince ampèremétrique
+Une pince ampèremétrique à induction peut être décrite comme un tore de rayon intérieur l, daxe Oz et sur lequel est bobiné un fil réalisant N spires carrées de côté a disposées en série (voir figure 1). Ce tore est de résistance totale R On utilisera le système de coordonnées cylindriques (r,0,z) daxe Oz et de base (:r,:0,:z). La figure 2, représente la situation considérée dans la suite; où le tore est disposé autour dun fil infini, confondu avec laxe Oz, parcouru par le courant I(t) Io cos( wt), dont on souhaite mesurer la valeur .
+On se placera par la suite dans Papproximation des régimes quasi-5 'stationnaires (ARQS)
+Concours Technologie Session Juin 2021
+Epreuve de Physique
+Page 1/8
 
+--- page 2 ---
+:e
+:r M
+I(t)
+i(t)
+i(t
+i(t)
+810 60
+Figure 1
+Figure 2
+1. En quoi consiste 1ARQS ? 2. Écrire les équations de Maxwell en ARQS magnétique et donner leurs formes intégrales. 3. Expliquer brièvement pourquoi il va y avoir présence dun courant i(t) dans le tore. 4. En étudiant   les invariances et  la symétrie du   problème; montrer   que le champ magnétique total B (créé par le tore et le fil) est de la forme B Bp(r,z,t): . 5. En appliquant le théorème d Ampère sur un contour qu'on précisera, calculer le champ magnétique total en un point M(r,8,z) situé à lintérieur du tore, pour l <r < l+ a et = a/2 < z < a/2. 6. Montrer que le flux du champ magnétique B à travers une spire est donné par Ho(I + Ni) 1+a $ aln- ZT
+7. En déduire 1expression du flux @tot du champ magnétique à travers tout le bobinage du tore. 8. Déterminer la f e.m induite totale etot dans le tore 9. Soient L le coefficient dauto-induction du tore et M le coefficient dinduction mutuelle tore-fil, écrire etot en fonction de L, M, i(t) et I(t). En déduire L et M. 10. Donner le schéma électrique équivalent du circuit du tore. 11. Écrire léquation électrique du circuit du tore, en déduire léquation  différentielle vérifiée par le courant i(t) en fonction de R, L, M et 462 dt 12. En utilisant la notation complexe, déterminer la relation reliant i(t) et I(t). Que devient cette relation pour R < Lw ? 13. Quel est lintérêt de prendre un nombre de spires N très élevé ?
+B. Filtrage
+On considère le circuit de la figure 3, constitué dun amplificateur opérationnel, supposé idéal et fonctionnant en régime linéaire; de trois résistances ohmiques; R1, Rz et R3, et par deux condensateurs identiques de capacité € . On suppose que le signal Ve(t) appliqué à lentrée du circuit est sinusoïdal de pulsation @. On note Ve et Vs les amplitudes complexes des signaux dentrée et de sortie. 14. Etudier qualitativement le comportement du circuit aux basses fréquences, puis aux hautes fréquences et en déduire la nature du filtre
+Concours Technologie Session Juin 2021
+Epreuve de Pbysique
+Page 2/8
 
+--- page 3 ---
+R3
+Figure 3
+R1
+Ve
+Rz
+Vs
+Yss'écrit sous la forme Ho 15. Montrer que la fonction de transfert H H avec Ve 1+jQlx x = " Exprimcr Ho, Q et @ en fonction de R1, Rz, Rz et C. Que représente Q et W ? Wo 16. Calculer Ho et Q pour R1 =50 k2 Rz =250 Q et R3 = 100 k2. 17. Exprimer Vs (t) en fonction de Ve(t) aux basses et hautes fréquences. Préciser dans quel domaine de fréquences le filtre se comporte en intégrateur ou en dérivateur 18. On définit le gain en décibel du circuit par GdB 20 log1olul Calculer les pulsations de coupure 01 et 02 du filtre en fonction de @ et Q. En déduire la largeur de la bande passante du filtre Aw 02 01 puis la calculer pour fo Wo 3kHz . Commenter. ZT b- Tracer Pallure du diagramme de Bode en gain du filtre; en précisant les asymptotes aux basses et hautes fréquences 19. Exprimer la phase 6(w) et tracer le diagramme de Bode en phase du filtre en précisant les asymptotes en basses et hautes fréquences. Le signal dentrée est désormais triangulaire (figure 4) de période T. Son développement en série de Fourier s'écrit +co 8E Ve(t) cos[(2n + 1)wt] (2n + 1)2n2 n=0
+Ve(t) +E
+Figure 4
+20. Exprimer les amplitudes des trois premières harmoniques et représenter le spectre en amplitude correspondant: 21. Quelle est 1harmonique sélectionnée par le filtre pour T =1ms ? 22.  Ecrire alors 1expression du signal de sortie Vs(t). 23. Rappeler le critère de Nyquist-Shannon 24. Déterminer la fréquence déchantillonnage minimale du signal  triangulaire; si on néglige les harmoniques dont lamplitude est inférieure à 1% de celle du fondamental:
+Concours Technologie Session Juin 2021
+Epreuve de Physique
+Page 3/8
 
+--- page 4 ---
+C. Diffusion thermique dans un fil électrique
+T1
+T2
+x = 0
+x = L
+Figure 5
+Un fil cylindrique en cuivre; homogène; daxe Ox, de longueur L, de section droite S, de conductivité électrique Y, de conductivité thermique 2, est parcouru par un courant électrique dintensité I uniformément répartie sur toute la section (figure 5). Les   extrémités du fil sont maintenues des   températures constantes T(x = 0) = T1 et T(x = L) = Tz (avec T1 > Tz). On se place en régime permanent où la température T dans le fil ne dépend que de labscisse x. 25. Rappeler la loi de Fourier reliant le vecteur densité de courant thermique Jth à la température T . Indiquer lunité de jth. 26. Montrer que la puissance volumique dissipée par effet Joule pJ dans le fil s'écrit 12 PJ Ys? 27. Réaliser un bilan dénergie pour une tranche du fil comprise entre x et x + dx. Montrer que léquation différentielle vérifiée par T(x) s'écrit sous la forme d2T(x) ~aI2 dxz Exprimer & en fonction de 4, Y et S. 28. Calculer œ pour 2 = 400 W.m-1 K-1,Y = 6x 107S.m-1 et $ = 2 mm? 29. Déterminer 1expression de T(x). 30.À quelle condition la fonction T(x) passe-t-elle par un maximum entre x = 0 et x = L ? Représenter dans ce cas T(x). 31. On suppose que T1 T2 100 K. Déterminer la valeur minimale I1 que doit posséder Pintensité I pour qu'un maximum de température existe entre les extrémités du fil, x = 0 et x = L.La longueur L du conducteur est de 1 m. 32. Donner   1expression du flux thermique Pth cédé par conduction à la source   de température T2. Faire apparaître dans cette expression un terme en 12 et un terme en T2 T1. Commenter .
+Problème 2
+A Champ électromagnétique dans le vide
+1. Rappeler les équations de Maxwell dans le vide dépourvu de charges et de courants_ 2 Établir léquation de propagation du champ 7 dans le vide. 3 On considère une onde dont le champ électrique en notation complexe s'écrit 0= Eoeilot-kz) @x, où Eo est une amplitude réelle constante: Caractériser londe en précisant sa direction de propagation et sa polarisation.
+Concours Technologie - Session Juin 2021
+Epreuve de Pbysique
+Page 4/8
 
+--- page 5 ---
+b. Etablir la relation de dispersion dans le vide. Le vide est-il un milieu dispersif ? 4 Déterminer les expressions réelles des champs électrique 7 et magnétique B de londe. 5. On définit le vecteur de Poynting 1=0n Lo Quelle est sa signification physique ? Donner son unité b Exprimer lintensité de londe, définie par la valeur moyenne temporelle I =< Il7ll >, en fonction de Eo, € et c. Calculer sa valeur pour Eo = 103 V.m-1 6 On   superpose à 0 un deuxième champ @" Eoe ot-kz-?) 7y. Montrer que Ponde résultante @@+E est polarisée circulairement et préciser si elle est gauche ou droite
+B. Champ électromagnétique rayonné par un dipôle
+Un dipôle électrique oscillant; 2(t) Po eiwt uz en notation complexe, situé à lorigine 0 du système des coordonnées (figure 1), rayonne à grande distance r = OM > 1 = 2nc un champ électromagnétique 7 M @(M,t) = Ho W2po sin 0 ji0( 47o 7e 41 @(M,t) #o @2posin @ = jio( 4)Z, 41 rc 7. Justifier que les   expressions des champs @ et B sont compatibles avec la symétrie du problème. Figure 1 8. Décrire la structure de londe électromagnétique rayonnée. 9. Exprimer le vecteur de Poynting 7 de cette onde et sa valeur moyenne (7) . 10. Montrer que la puissance moyenne rayonnée à travers la sphère de rayon r est p8w4 Pr 12ieoc3
+On donne Ja sin?0 d0 = c. Diffusion Rayleigh
+Une onde électromagnétique de champ électrique @ = Eoeilot-F -kz) ux interagit avec un atome placé à lorigine 0 du système des coordonnées. Sous laction de londe; un électron atomique de masse m et de chargc ~e se mct cn mouvement selon la direction Ox. On suppose que Pélectron est soumis à la force électrique de londe et à la force de rappel ~mwox 7x 11. Justifier pourquoi on néglige laction du champ magnétique. 12. Justifier qu€ on peut   considérer; à Péchelle de latome, que le champ de Tonde est uniforme et s'écrit sous la forme @ ~ Eoeiwt @x 13. Ecrire en notation complexe l'équation différentielle à laquelle satisfait le déplacement z(t) de Pélectron 14. Déterminer en régime forcé ]expression de x(t) 15. En déduire lexpression du dipôle induit dans 1atome p(t) ~ex(t)ux' Donner son amplitude po en fonction de m,e,Eo,W et W. 16. En se référant à la partie B, donner l'expression de la puissance moyenne rayonnée Pr par le dipôle induit.
+Concours Technologle Session Juin 2021
+Epreuve de Physique
+Page 5/8
 
+--- page 6 ---
+17. Donner lexpression de Pr en fonction de lintensité / = EocE? de londe incidente 18.Londe traverse un milieu comportant N atomes par unité de volume. A cause de la diffusion, lamplitude Eo et par conséquent l'intensité / de londe diminue le Jong de laxe Oz. Lintensité / de londe à la cote z est alors une fonction de z. En faisant un bilan des puissances dans un cylindre de section S, compris entre z et z + dz (figure 2), montrer que s KT APF(z) I(z) Io e7 I(z2 I(z + dz) où Io = I(z = 0). Exprimer l en fonction de Figure 2 0,Wo, m, c,e,€0 et N. Préciser   son unité b. Que devient l'expression de l pour W < w (cas de la diffusion Rayleigh) ? Dans le cas de latmosphère terrestre, calculer les valeurs de correspondantes aux radiations lumineuses rouge (2R 800 nm) ct bleue (1B 400 nm). On prendra 0 2,3 1016 rad. s-1 et N = 2,5 1025 m-3
+d. En déduire une interprétation de la couleur bleue du ciel et de la couleur rouge du soleil au coucher.
+D. Effet Zeeman longitudinal
+On considère maintenant que l'atome est soumis à un champ magnétique uniforme et permanent Bo Bouz. L'électron atomique est repéré par le vecteur 0 = OM xix + yly + zuz. On suppose qu'avant d 'appliquer le champ magnétique; lélectron; soumis à la seule force de rappel ~mwgr se trouve sur une orbite circulaire de rayon R et de pulsation @ dans le plan xOz
+19. Ecrire; sous leffet du champ Bo, léquation de mouvement de lélectron et la projeter sur les axes Oxyz. 20. On montre que pour des conditions initiales données; la solution de cette équation est x(t) [sin( + @)t + sin(W @)t] y(t) [cos( + @)t cos( @)t] et z(t) = Rcos(Wot) avec @ eB < 0. 2m Sachant que ce mouvement attribue à latome un moment dipolaire p = ~e7. Donner les composantes px(t), py(t) et pz(t) de ce dipôle suivant les axes Oxyz. 21. On observe le rayonnement de l'atome à grande distance, en un point de l'axe Oz, dans la direction du champ magnétique Montrer  que londe émise en présence de Bo est la superposition de deux ondes polarisées circulairement; lune gauche et l'autre droite, de pulsations très voisines 01 Wo Q et 02 W + 0 : cest l'effet Zeeman longitudinal. 22. Exprimer 41 = 11 12 en fonction de 0 et 0, où 11 et 12 sont les longueurs donde correspondantes aux pulsations   01 et 02- Calculer 41 pour la radiation   10 2uc Wo 434,1 nm de latome dhydrogène soumis à un champ Bo = 1 T.
+E. Observation des raies Zeeman par un réseau
+On veut étudier expérimentalement l'effet Zeeman avec un réseau optique plan constitué de N fentes infiniment fines identiques, parallèles et régulièrement espacées d'une distance a (pas de
+Concours Technologie Session Juin 2021
+Epreuve de Pbysique
+Page 6/8
 
+--- page 7 ---
+réseau) . Le réseau est éclairé sous incidence normale par un faisceau parallèle provenant dune fente source (S) dune lampe à hydrogène. La fente source est supposée infiniment fine, parallèle aux fentes du réseau et placée au foyer principal objet d'une lentille convergente (L1) Lécran dobservation est placé dans le plan focal image d'une lentille convergente (Lz) de distance focale image f' 2. On observe dans les directions définies par langle 0 la lumière diffractée par le réseau (figure 3).
+M
+S
+Figure 3
+F2
+F1
+Réseau
+À laide dun filtre interférentiel on sélectionne la radiation de longueur d'onde 10 supposée monochromatique. 23. Tracer, partir de $ jusqu'au point M de lécran dabscisse x, la marche du faisceau lumineux diffracté par le réseau dans la direction 0 24. Calculer la différence de phase 6(M) entre deux ondes passant par les centres de deux fentes consécutives en fonction de a,10 et 0, puis en fonction de a,x,10 et f' 2. 25.Les N ondes qui interfèrent en M sont-elles cohérentes ? justifier votre réponse. 26. On note An(M) = Aoeiwn(M) Pamplitude complexe au point M de londe passant par la nième fente. En prenant lorigine des phases celle de Ponde passant par la première fente (41 0), exprimer 4n(M) en fonction du déphasage 6(M) entre deux fcntes consécutives, et déterminer 1 'amplitude complexe totale A(M) des N ondes en fonction de Ao, N et ,(M). 27. On définit lintensité lumineuse en M par I(M) = Ja(ml?, montrer que sin Ne 2 I(M) A? sin 2 28. Quelles sont   les valeurs de déphasages 4   correspondant aux maxima   principaux dintensité ? En déduire la condition d'interférence constructive asin 0 plo où /entier relatif p est lordre dinterférence. 29. Pour quelles valeurs de 6 lintensité I(M) s'annule-t-elle ? 30. En déduire la déviation angulaire 401 qui correspond à un déphasage Ap séparant un maximum dintensité dordre p à son premier minimum nul 31. Représenter la figure I(M) en fonction de @ pour N =4 32. On soumet maintenant la lampe à hydrogène à un champ magnétique   intense et on sélectionne à l'aide d'un filtre interférentiel les radiations de longueurs donde 11 10 + 42 et 12 = 10 44 dues à l'effet Zeeman. Quel est lécart angulaire 40 correspondant à cette séparation en longueur donde à lordre p ? 33. On rappelle que deux raies sont séparécs si leur écart angulaire 40 2 401- Déterminer Pexpression de lécart minimal 4/1 que peut séparer le réseau dans lordre p. 34. En déduire le pouvoir de résolution théorique du réseau défini par R = 4 441
+Concours Technologie Session Juin 2021
+Epreuve de Physique
+Page 7/8
 
+--- page 8 ---
+35. En se référant à la valeur de 4l calculée à la question 22, déterminer le nombre de fentes N nécessaires pour séparer le doublet Zeeman à lordre 1. Commenter . 36. Dans la pratique; on affaiblissement des spectres au fur et à mesure que lordre p augmente. Quel est lorigine de ce phénomène physique ?
+F. Quantification de Pénergie
+Pour mettre en évidence la quantification de lénergie dans les atomes; nous envisageons le mouvement le long de Paxe Ox dune particule quantique de masse m dans un potentiel V(x) tel que V(x) = 0 pour 0 < x < a (figure 4) V(x) =+0 pour x < 0 etx > a Ce mouvement est décrit par la fonction donde V(x,t), solution de léquation de Schrëdinger 42 97064 + V(x)u(z,t) = ih 9064 2m dx2 dt V(x) On 'intéresse à un état tel que "(x,t) = %(x)e-1, où E est son énergie associée. On pose k ZmE /h?. 37. Pourquoi dit-on dun tel état qu' 'il est stationnaire 38. Etablir léquation différentielle vérifiée par %(x). 39. Justifier que pour les domaines x < 0 et x > a, la seule solution Figure 4 possible est %(x) = 0. 40. Déterminer; dans le domaine 0 < x < a, les solutions @n (x) et les énergies correspondantes   En en faisant   apparaître un nombre quantique n On normalisera les fonctions @n (x). 41. Représenter la fonction donde et la densité de probabilité de présence pour les deux premiers niveaux . 42. Comparer à la situation classique. 43. Calculer lénergie, en électronvolts, du niveau fondamental de lélectron dans le cas de Patome dhydrogène en prenant a 0,1 nm. 44. A linstant t 0, la fonction donde de la particule s'écrit p(x,t = 0) C sin (2)[1 + cos (2)] où C est une constante. Montrer que cette fonction est la somme de deux modes à préciser. Exprimer w(x,t).
+Fin d épreuve
+Concours Technologie Session Juin 2021
+Epreuve de Physique
+Page 8/8

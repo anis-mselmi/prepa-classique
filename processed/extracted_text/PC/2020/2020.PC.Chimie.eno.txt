@@ -1,25 +1,335 @@
+--- page 1 ---
+Instructions Cette épreuve comporte 14 pages + 2 pages vide. Tout résultat doit être écrit dans les cadres adéquats L'usage des calculatrices électroniques de poche non programmables est autorisé. Aucun échange entre les candidats n'est autorisé. Tout calcul doit être précédé dune expression littérale. Les résultats numériques sans unité ou avec une unité fausse ne seront pas comptabilisés: En cas de besoin utiliser la page vide en fin de cahier. Dans ce cas, il faut le signaler dans la case allouée à la réponse remise en fin de cahier. Si au cours de Vépreuve, un candidat repère ce qui lui semble être une erreur d'énoncé, il la signale sur sa copie et poursuit sa composition en indiquant les raisons des initiatives qu'il est amené à prendre.
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 16 PAGES NUMEROTÉES 1 sur 16,2 sur 16, 16 sur 16
+Concours Physique et Chimie Chimie inorganique
+Session Juilet 2020 Page 1 sur 16
 
+--- page 2 ---
+Épruw d chinie section QC
+Notations et données numériques États des constituants physicochimiques (sd) solide (liq) liquide (g) gazeux Lorsque aucune mention n'est spécifiée, les ions sont supposés implicitement en solution aqueuse. Les gaz sont considérés comme parfaits. Notations Xi : la fraction molaire de < i > dans la phase liquide. Yi la fraction molaire de < i > en phase vapeur. P pression de vapeur saturante de < i > 4? potentiel chimique du constituant < i v dans la phase 4 Lexposant signifie corps pur ESH électrode standard à hydrogène. Constantes physiques Constante des gaz parfaits R = 8,314 Jmotl K1 Constante d'Avogadro NA 6,02*1023 moll Constante de Faraday F 96500 C.moll Pression standard p =1 bar . Concentration standard Ce =lmolL' Formules brutes cyclohexane (C6H12) acétate déthyle (C4H8O2) Données numériques Masse molaire atomique (en g.moll ) de C = 12,00 _ 1 Rayon atomique (pm) C 77.  d Les paramètres deléquation dAntoine Numéro repère Composé B K 1 Cyclohexane 1575 2766,63 50,50 Acétate d'éthyle 16,15 2790,50 57,15 298K, Potentiels chimiques standard Entité Ba(sd) Ba?+ Ba(OH)2 ' 8HzO(sd) BaOz(sd) HzOaiq) HO H+
+U; (kJ mol-1 -561,0 ~2794,4 582,4 ~237,2 -157,3 Potentiels_standard d'électrodes (à pH 0) Couple H* [Hzg) Ba?r Ba(sd) BaO2(sd) Ba(OH)2 *8H,C E (Ox / red) / en ESH) -2,91 1,63 Couple BaO(sd)  Ba2+ Ba(OH)2 *8H20] Ba(sd) Ee (Ox / red) en ESH) 2,35 2,19 Produit ionique de Feau Ke =1014 RxT Ln(x)=0,06= xlog1o (x) (en V). Conversions T(K) =0(C)+273 bar 750 mmHg Unité : [J.C-'] = [Volt]
+Page 2 sur 16
 
+--- page 3 ---
+Épruu d chimie section #C
+Problème cristallographie Le carbone graphite < Cgra > possède une structure en feuillets; la distance entre les plans dempilement est de 335 pm. 1) Donner une représentation en perspective de_ la maille du graphite et de son contenu
+2) Quelle est la nature des liaisons entre les atomes de carbone proches voisins Dun même feuillet ?
+De deux feuillets voisins ?
+1 3) Donner les coordonnées réduites des atomes de carbone dans cette structure 1 4Définir; puis déterminer le motif dans cette structure.
+5)Quel est le mode de réseau 2 Justifier la réponse:
+6 Quelle_est la coordinence du graphite ?
+7) Représenter la trace des atomes de < Cgra > contenus dans le premier plan après celui passant par Torigine de la famille (1 10) Préciser clairement la tangence entre_les atomes
+Page 3 sur 16
 
+--- page 4 ---
+Éprur d chinie section QC
+8) Donner /expression du paramètre < a > de la maille en fonction du rayon de latome de_carbone_Rc:
+9) Donner Pexpression puis calculer 9-9)la compacité de la structure.
+1 1
+9-b) la masse volumique du carbone graphite solide
+Page sur 16
 
+--- page 5 ---
+Épruu d chimie section QC
+Problème équilibres de phases Partie 1 : corps purs 1) Donner la relation de Clapeyron associée à la courbe de vaporisation dun corps pur. Donner la signification des_termes qui apparaissent dans cette relation:
+2) Un très grand nombre de relations ont été proposées pour représenter ]évolution de la pression de vapeur saturante dun corps pur liquide avec la température elles se distinguent par létendue du domaine couvert; leur aptitude à permettre une extrapolation fiable à lextérieur de ce domaine; en particulier vers les faibles températures. Parmi ces relations F 2-a) La fonction de type (A) : Ln(p')=E+ où E et F sont deux constantes; la pression est exprimée en T mmHg et la température en Kelvin 1 i) Montrer en donnant les approximations utilisées ; que la pression de vapeur saturante p dun corps pur est une fonction de la température de type (A). 1
+ii) Identifier les constantes E et F puis donner leurs équations aux dimensions
+Page 5 sur 16
 
+--- page 6 ---
+Épreuw d chinie section @C
+B 2-b) La fonction de type (B) appelée équation dAntoine:  Ln(p'_ =a+ Dans cette équation, la K+T pression est exprimée en mmHg et la température en Kelvin. Cette relation permet datteindre une excellente précision pour des intervalles de pressions toujours aux environs de la pression atmosphérique. Sachant que les pressions de vapeurs saturantes de cyclohexane (1) et dacétate déthyle (2) liquides suivent la relation d Antoine, déterminer la température de vaporisation de chacun des deux constituants (1) et (2) sous la pression 0,15 bar
+Partie 2 diagrammes binaires La figure ci-dessous représente le diagramme déquilibre de phases liquide-vapeur du binaire cyclohexane (1) acétate déthyle (2) à 27C. 1 0 = 27 C 0,20 0,20 1 0,19 0,19
+0,18
+0,18
+0 0,17 1 0,16
+0,17
+0,16
+0,15
+0,15
+(D)
+0,14
+0,14
+0,1 acétate d'éthyle
+0,2
+03
+0,4 0,5 0,6 fraction molaire
+0,7
+0,8
+09 cycloherane
+1) Indexer totalement le diagramme Domaine(I) Domaine (II) Domaine (III)
+Courbe (1)  Courbe (2) Z :
+Page 6 sur 16
 
+--- page 7 ---
+Éprevu d chinie section QC
+2)Daprès le diagramme_les deux liquides (L) et (2) présentent-ils une miscibilité nulle_partielle ou totale 2
+3) Les mélanges liquide entre
+et (2) sont-ils idéaux ? Justifier la réponse.
+4) Les mélanges de
+et (2se_font-ils avec absorption ou dégagement de chaleur ? Justifier la réponse:
+5) Citer au moins trois propriétés du mélange liquide dont le point représentatif est situé en Z
+6) En se basant sur le graphique ci-dessous y1={x1), déterminer les coordonnées ((x1)z(y1)z) du point représentatif du mélange situé en Z pour une pression p 0,15 bar 1 1,00 p 0,15 bar 0,90 1 0,90; 0,76 0,80 1 0,70 8 0,60 0,Sl; 0,51 1 0,50 0,30; 0,4) { 0,70; 0,60 8 0,40 1 0,30 0,20; 0,35 1 0,20 0,10; 0,24 0,10
+0,00 0,00 0,10 0,20 0,30 0,40 0,50 0,60 0,70 0,80 0,90 1,00 fraction molaire en phase liquide du cycloberane
+Page 7 sur 16
 
+--- page 8 ---
+Éprur d chimie section ŒC
+7) Soit un mélange cyclohexane ~acétate déthyle (2) de composition 90% molaire en cyclohexane à la température 279C. Ce mélange, initialement gazeux; est comprimé (on fait augmenter la pression) 7-a)Àquelle pression apparaitra la première goutte de liquide et quelle_sera sa composition ?
+7-b) Quelle sera la composition du gaz après avoir liquéfié 50 % du mélange initial ?
+7-c) Tracer Pallure de la courbe danalyse de pression, pour une compression isotherme de 0,14 bar jusqu'à 0,19 bar; Commenter les accidents thermiques aux points particuliers:
+1 1
+7-d) Représenter sur le diagramme par deux couleurs différentes les chemins suivis par les points représentatifs des phases liquide et vapeur au cours de cette compression . A Répondre sur le diagramme page 6
+Page 8 sur 16
 
+--- page 9 ---
+Épreuw d chimie section ŒC
+Partie 3 : du diagramme isotherme au diagramme isobare 1) En utilisant des informations de la figure ci-dessous et éventuellement quelques résultats obtenus dans les parties 1 et 2, tracer le plus précisément possible; le diagramme déquilibre liquide-vapeur isobare du système binaire cyclohexane (1) et acétate déthyle (2) sous une pression de 0,15 bar. 0,20 0,20 0,19 0,19 0,18 0,18 0,17 0,17 2395 1 0,16 0,16 0,15 0,15 L 0,14 0,14 0,13 0,13
+0,12
+0,12
+0,11
+0,11
+0,10
+0,10
+0,1
+0 2
+03
+0,4 0,5 0,6 fraction molaire
+0,7
+0,8
+0,9
+1 1
+acétate d'éthyle
+cyclohexane
+p =0,15 bar
+29
+29
+28
+28
+27
+27
+g 26 1 25 24
+26
+25
+24
+23
+23
+22
+22
+21 0,0
+21 0,9 1,0 cyclohexane
+0,1
+0,2
+0,3
+0,4 0,5 0,6 fraction molaire
+0,7
+0,8
+acétate d'éthyle
+2) Indiquer la nature des différentes phases_présentent dans_les domaines: répondre sur le diagramme Page sur 16
 
+--- page 10 ---
+Épreuu d chinie section QC
+3) Lors de la distillation fractionnée dun mélange cyclohexane (1) et acétate déthyle (2) à 20% molaire en cyclohexane. 3-a) Quelle température_peut-on mesurer en tête de colonne ?
+3-b) Quelle est la composition du distillat et celle du résidu de la distillation ?
+1 1
 
+Page 10 sur 16
 
+--- page 11 ---
+Épruu d chimie section GC
+Problème diagramme de Pourbaix On se propose de construire le diagramme de Pourbaix du baryum à 298K et sous pression constante égale à 1 bar. On considère seulement les entités chimiques suivantes Ba(sd); Ba2+ , Ba(OH)2' 8H2O(d) et BaOz(sd) . La concentration totale en élément dissous est égale à la concentration de tracé Ctra = 10-1 moLL-! Les potentiels délectrodes font référence à l'électrode standard à hydrogène (ESH). 1) Donner le nombre doxydation de lélément baryum dans les entités chimiques précédemment considérées. Présenter les résultats dans un tableau ordonné par valeurs croissantes du nombre doxydation:
+  d
+2)
+1 2-a) Établir lexpression du produit de solubilité Ks du solide Ba(OH)2 ' 8H2O (sd) en fonction des potentiels chimiques standards 1
+2-b) Calculer sa valeur
+Page 1l sur 16
 
+--- page 12 ---
+Épruve d chimie section @C
+3)
+3-9) Donner lexpression du pH de début de_précipitation de Ba(OH)2' 8H20 (d)
+3-b) Calculer sa valeur
+4) Écrire les équations bilans des réactions associées aux différents couples redox mis en jeu et exprimer leurs potentiels délectrodes en fonction du pH. 1 1
+Page 12 sur 16
 
+--- page 13 ---
+Épreur d chinie section ŒC
+5) Tracer et indexer le diagramme E-pH du baryum. 0,00 2,00 4,00 6,00
+8,00
+10,00
+12,00
+14,00
+Ctra =0,1 moLL-' 2,5
+2,5
+1,5
+1,5
+0,5 { 0,5
+0,5 { 40,5
+1,5
+-1,5
+2,5
+~23
+3,5 0,00
+43,5 14,00
+2,00
+4,00
+6,00 8,00 pH
+10,00
+12,00
+Page 13 sur 16
 
+--- page 14 ---
+Épreuwe & chimie section @C
+Identifier les zones d'immunité de_passivation et de corrosion du baryum:
 
+1 1
+Page 14 sur 16
 
+--- page 15 ---
+Instructions
+1` ,  
+'Cette épreuve comporte 12 pages. sLes trois problèmes sont indépendants. 'Tout résultat doit être écrit dans les cadres adéquats. 'Aucun échange entre les candidats n'est autorisé Si au cours  de Fépreuve, un candidat repère ce qui lui semble être une erreur d'énoncé, il la signale sur sa copie et poursuit sa composition en indiquant les raisons des initiatives qu'il est amené à prendre
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 12 PAGES NUMEROTÉES 1 sur 12,2 sur 12, 12 sur 12.
+Concours Biologie et Géologie Chimie organique
+Page 1 sur 12
+Concours Biologie et Géologie - Session Juillet 2020
 
+--- page 16 ---
+Problème I (3 points)
+Sous laction de liodure déthylmagnésium en excès et à OPC, un composé A conduit; après hydrolyse acide, au tertio-butanol et au 3-phénylpentan-3-ol.
+1- En écrivant la réaction; trouver la structure chimique de A.
 
+ s
 
+2- Schématiser le mécanisme réactionnel
+2 -
+1  
+Page 2 sur 12
+Concours Biologie et Géologie- Session Juillet 2020
 
+--- page 17 ---
+Problème II (10 points)
+On considère un alcène A de formule brute (CioH2o). L'ozonolyse de A suivie dhydrolyse conduit à deux produits B (CsH1O2) et C (CsH1O)
+1- Quel est le nombre dinsaturations dans A ?
+2-a. Identifier la fonction chimique dans B ?
+2-a.
+2-b. Quelles sont les 4 structures chimiques possibles de B ?
+2-b
+Page 3 sur 12
+Concours Biologie et Géologie- Session Juillet 2020
 
+--- page 18 ---
+3 - Sachant que le composé B est chiral,  déterminer sa structure exacte parmi les 4 structures possibles trouvées.
+3-
 
+4- B peut être aussi synthétisé à partir dun composé E symétrique,  selon la suite réactionnelle suivante
+HBr
+Mg
+19/ CO2 29/ H2O / Ht
+E
+B
+4-a. Déterminer les structures planes de E, F et G.
+4-a.
+Page sur 12
+Concours Biologie et Géologie- Session Juillet 2020
 
+--- page 19 ---
+4-b. Sachant que laction de KMnO4 dans 1eau sur E conduit à un composé H méso >
+4-b.1 Donner la structure chimique plane de H.
+4-b-1
+4-b.2.1 Donner la représentation spatiale de Het ses configurations absolues.
+4- 6.21
+4-6.2.2 En déduire la représentation spatiale et la configuration de E.
+4- b.2.2
+5- On effectue sur C de formule brute CsH1oO les tests chimiques suivants
+Test à la 2,4- Dinitrophénylhydrazine (DNPH)
+Test positif
+Test de Tollens
+Test négatif
+Page 5 sur 12
+Concours Biologie et Géologie- Session Juillet 2020
 
+--- page 20 ---
+5-a. Décrire ces tests qualitativement.
+5-a.
+5-b. Ecrire les 3 structures chimiques possibles de C.
+5-b.
+5-c. Le composé C peut aussi être obtenu selon la séquence réactionnelle ci-dessous
+1%/ CH,I(Excès)/NazCO; 29/ Ag2OlH2O,4
+RCO;H
+Me MgBr K
+K2Cr207 H2SO4
+L
+C
+H,O
+Sachant que
+Iest chiral et a pour formule brute CzHpN, L est achiral,
+Page 6 sur 12
+Concours Biologie et Géologie- Session Juillet 2020
 
+--- page 21 ---
+Déterminer les structures chimiques des composés I, J, K, L et €.
+5-c.
+6- Disposant des structures chimiques de B et C en déduire celle de A.
+6-
+Page 7 sur 12
+Concours Biologie et Géologie- Session Juillet 2020
+
+--- page 22 ---
+7 - Quel est le test chimique complémentaire permettant de déterminer la structure exacte de C sans aucune ambiguïté ? Quels sont les réactifs utilisés ?
+7 -
+8- Donner les noms selon la nomenclature internationale de A, B et €.
+8 -
+Problème III points)
+On considère lacide 2,3-diméthylpentanoïque (A)
+1- Ecrire sa structure chimique plane.
+1
+Page 8 sur 12
+Concours Biologie et Géologie- Session Juillet 2020
+
+--- page 23 ---
+2- Représenter le stéréoisomère (A1) de configurations absolues (2R,3R) selon le modèle de CRAM suivant
+HOOC
+2 -
+3- Compléter la projection de Newman de A1 suivante et dire s'il s'agit de la conformation la plus stable en justifiant.
+COOH
+H
+3 -
+Page 9 sur 12
+Concours Biologie et Géologie- Session Juillet 2020
+W
+
+--- page 24 ---
+4- Compléter la projection de Fisher de A, suivante
+COOH
+Et
+4-
+5 - On réalise sur A, de structure plane, les réactions successives suivantes
+SOCl2
+Benzène AlCl;
+NH2NH2 KOH
+HNO;/H2SO4 D
+B
+E1 + E2
+Déterminer les structures de B,C,D E1 et Ez.
+5-
+Page 10 sur 12
+Concours Biologie et Géologie- Session Juillet 2020
+
+--- page 25 ---
+6- Lorsqu'on inverse Pordre daddition des réactifs sur C, selon la séquence réactionnelle ci-dessous, on obtient deux produits F puis G. Déterminer leurs structures chimiques.
+HNO;/H2SO4 F
+NH2NH2_ KOH
+6-
+7-a. Quelle est le type de réaction qui_ permet de passer de B à C ?
+7-a.
+Page 11 sur 12
+Concours Biologie et Géologie- Session Juillet 2020
+
+--- page 26 ---
+7-b. Détailler le mécanisme réactionnel de la réaction B 9 C
+7-b
+FIN DE LÉPREUVE
+ .
+Page 12 sur 12
+Concours Biologie et Géologie- Session Juillet 2020

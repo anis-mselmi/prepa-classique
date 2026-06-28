@@ -1,4 +1,81 @@
+--- page 1 ---
+4a)42/4w1 {lkslssus eyay dssn iihsl Olsinl ihuvani iofulslyVi 200 389'
+MREPUBLIQUETINISENRE ^ Recherhe Scixdifiqu Concours Nationnx d'Entrée axx Cycks de Fomation d'bgéieurs Seson 2010
+Concours Mathématiques et Physique Epreuve de Mathématiques I
+Date: Lundi 31 Mai 2010
+Heure: 8 H
+Durée: 4 H
+Nbre pages: 5
+Barème Partie I: 4 pts Partie II: 5 pts, Partie III: 7 pts Partie IV: 4 pts Une grande importance sera attachée 0 la rigueur du raisonnement, à Ta clarte et au soin de la présentation.  L'usage des calculatrices n'est pas autorisé. Il est rappelé que tout résultat énoncé dans le texte peut être utilisé pour traiter la suite, même s'il n'a pu être démontré.
+Introduction
+Le but de ce problème est l'étude de certains procédés de sommabilité introduits par Emile Borel dans sons polycope Leçons Sut les séries divergentes"- Dans la première partie, on prouve des résultats préliminaires utile pour la suite du problème. La partie II respectivement   partie III ) est consacrée à létude de la notion de B-convergence (convergence au sens de Borel) d'une suite respectivement   d'une série ) de nombres complexes. On prouve en particulier que la B- convergence est une extension de la convergence au sens usuel. Dans la partie IV, on discute deux autres procédés de sommabilité pour les séries de nombres complexes la B-sommabilité et la B-sommabilité absolue 27 On rappelle que, pour tout nombre complexe z, la série est absolument convergente et que n! n20 +0 WiSTiTUT Fheparatoire _ 2/ exp (z) = n! BIBLOTHEQUE n=0 0 SFax E7UBes  @imgEMiguy 
+Partie I ; Résultats préliminaires
+Soient bnz" et @n2" deux séries entières à coefficients complexes .  On suppose que: n20 n2o Pour tout n € N, bn > 0.
+bn z" admet +0 pour rayon de convergence n20
+@n Q € C bn n=+o
+Concours Mathématiques et Physique Session Juin 2010
+Épreuve de Mathématiques
+Page 1/5
 
+--- page 2 ---
+1. Montrer que la série @n2" admet +0 pour rayon de convergence. n20 2 On pose alors, pour tout 2 € R,
++0 +0 S(s) = 2 @nzn et T(s) = Ebnz" n=0 n=0
+(a) Montrer que T(z) +0 2-+0 (b) Soit € > 0. i. Montrer qu'il existe no € N tel que, pour tout n 2 n0, on a lan ebnl < Ebn- ii. Montrer que, pour tout 2 € R+
+no lan ~ Ebnlz" 1% -4 1=0 4 € T(c)
+(c) En déduire que SGz) e T(z) r-+0 3. Soit a € R et a > 0. n? (a) Montrer que Ine 1+ a" exp (-4(10)?) . n n-++0 (Indication: Utiliser le DL de In(1 + æ) au voisinage de 0) +0 n2 1" (b) En déduire un équivalent de $(z) = 2 1+ na) quand I ~ +0. n=1 n n!
+Partie II Suites B-convergentes
+Soit (un)neN une suite de nombres complexes. On dit que la suite (un)nen est B-convergente si elle vérife les deux propriétés suivantes: La série entière "nz" admet +0 comme rayon de convergence. n! n20 La fonction f : R - R +C t H e-t 2 Untn n=0 n! admet une limite Q € C quand t 4 +0.
+Dans ce cas, cette limite Q s'appelle la B-limite de la suite (un)neN' On la note Blim Un = e. n-++0 1 Montrer que la suite ((-2)")nev est B-convergente et calculer sa B-limite: 2 Montrer que la suite (4")neN n'est pas B-convergente. 3 Soit a € C. On pose, pour tout n € N;, un =a"
+Concours Mathématiques et Phyvique Session Juin 2010
+Épreuve de Mathématiques I
+Page 2/5
 
+--- page 3 ---
+(a) Montrer que le rayon de convergence de la série entière Un '2n vaut +œ et calculer n! n20 sa somme (b) En déduire que la suite (un)nev est B-convergente si et seulement si a = 1 ou Re(a) < 1. Calculer; dans ce cas, la B-limite de la suite (un)neN - 4 Soit a € R et a > 0. Etudier la B-convergence de la suite (un)nev  définie par: Un ~ n2 Ina 1+ pour tout n € N*. n
+5 Soit (un)nev une suite de nombres complexes. (a) Montrer  que si la suite (un)neN est  convergente (au sens usuel)   alors elle est B- convergente et on a Blim Un lim Un' n~+0 n-+0 (Indication On pourra appliquer la partie préliminaire avec an  "n et bn = 1) n! (b) Montrer, à laide dun contre exemple, que la réciproque est fausse.
+6 Soient (un )neN et (un)nev deux suites B-convergentes de nombres complexes et X € C. (a) Montrer que les suites (un + Un)neN et (Xun)neN sont B-convergentes et que Blim ("n + un) = Blim un + Blim Un et Blim (Xun) = ) Blim Un: n-+0 n-++0 n+0 n++0o n-+0
+(b)   Que dire de la B-convergence de la suite produit (unvn)nex?
+Partie III Séries B-convergentes
+Soit (un) )neN une suite de nombres complexes. On note, pour tout n € N; Sn = Uk' On dit k=0 que la série Un est B-convergente si la suite des somme partielle (Sn)nen est B-convergente. n20 Dans ce cas, la B-limite de la suite (Sn)neN s'appelle la B-somme de la série Un' On note n20
++0
+B- Eun = Blim Sn. n=0 n++3
+1. Pour @ € C; étudier la B-convergence de la série 0"  et calculer , dans le cas de B- n20 convergence; sa B-somme. 2 Soit (un)neN une suite de nombres complexes. (a) Montrer que si la série Un est   convergente (au sens   usuel) alors elle est  B- n20 convergente.  Comparer dans ce cas 88 somme (au sens usuel) et sa B-somme. (b) Montrer, à laide d'un contre exemple; que la série Un peut être B-convergente sans n20 être au sens usuel.
+Concours Mathématiques et Physique Session Juin 2010
+Épreuve de Mathématiques I
+Page 3/5
 
+--- page 4 ---
+3 Soit  (un)neN une suite de nombres complexes. On suppose que la série Un est B- n20 convergente et on note $ sa B-somme. Sn-2 (a) Montrer que la série entière z" admet +œ comme rayon de convergence. nzl n! (b) En remarquant que; pour tout t € Rt +oo E Sn-Lt" = (P S4r" )~ dr n=1 n! in50 n!
+et que
++0 Sn 72 = Se' + 0(e") n5o n! r-+0
+montrer que
++00 lim e-t 2 Sn-Lt" = S 't++0 n=1 n!
+(c) En déduire que la suite (un)nev est B-convergente et que Blim Un = 0. n=++0
+4 Soit (un)neN une suite de nombres complexes telle que la série Un soit B-convergente. n20 On pose, pour tout t € R, +0 Sn-1 G (t) = 2 t" et F(t) = e-tG (t) _ n=1 n!
+Un (a) Montrer que 22 admet +0 comme rayon de convergence. n! n20
++œ (b) Montrer que F est dérivable sur R et que; pour tout t € R; F' (t) =e-t 2 Unt" . n50 n! (c) En déduire que la limite 8re-(203) dt existe dans C; quand T _ +0, et que "20 n!
++0 40 e-t É"t ) d = B-E Un: n50 n! n=0
+lim T_+0
+1
+5 Pour tout n € N, on pose Un = n + 1 ' (a) Montrer que la suite (un)nev est B-convergente et que Blin Un = 0 n-+0 Un (b) Montre que la série entière 22 admet +0 comme rayon de convergence et que n! n20
++% un 1 ~e-t Vt € R* : e-t2 t" = n5o n! t
+(c) En déduire que la série un n'est pas B-convergente n20 (d) Conclure.
+Concours Mathématiques et Physique Session Juin 2010
+Épreuve de Mathématiques I
+Page 4/5
 
+--- page 5 ---
+Partie IV Séries_B-sommables et absolument B-sommables
+Soit (un)neN une suite de nombres complexes . On dit que la série Un est B-sommable si n20
+La série entière "nz" admet +0 pour rayon de convergence. n! n20 +o La limite e~t Un t" dt existe dans C, quand T _ +0 n=0 n!
+On dit que la série Un est absolument B-sommable si n20
+La série entière "nz" admet +0o pour rayon de convergence. n! n20 Pour tout p € N, la fonction dp +0 t F e~t 2 Unt" dtp (n50 n! est intégrable sur R+_
+1 Montrer que si la série Un est B-convergente alors elle est B-sommable. n20 2 Pour tout n € N, on pose +0 (~1)P Un = E (2p +2)" p=0 (2p +I))
+(a) Justifier lexistence de Un , pour n € N. Un (b) En admettant que la série entière 22 admet +0 comme rayon de convergence n! n20 et qu'on peut intervertir les deux symbôles 2 montrer que +00 Un t" = @{ sin (e) , Vt € R. n50 n!
+(c) En déduire que la série Un n'est pas B-convergente. n20 (d) Montrer que la série un est B-sommable et conclure. n20 3 Soit (un)neN une suite de nombres complexes.
+(a) Montrer que si la série Un est absolument B-sommable alors elle est B-sommable. n20 (b) En utilisant lexemple précédent, montrer que Un peut être B-sommable sans être n20 absolument B-sommable
+4 Soit (un )neN une suite de nombres complexes . Montrer que si la série Un est absolument n20 convergente (au sens usuel) alors elle est absolument B-sommable.
+Fin de lépreuve
+Concours Mathématiques et Physique Session Juin 2010
+Épreuve de Mathématiques 1
+Page 5/5

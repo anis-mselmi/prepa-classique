@@ -1,13 +1,234 @@
+--- page 1 ---
+Instructions Cette épreuve comporte 14 pages + 2 pages vides. Tout résultat doit être écrit dans les cadres adéquats. L'usage des calculatrices électroniques de poche non programmables est autorisé Aucun échange entre les candidats n'est autorisé: Tout calcul doit être précédé dune expression littérale. Les résultats numériques sans unité ou avec une unité fausse ne seront pas comptabilisés: En cas de besoin utiliser la page vide en fin de cahier. Dans ce cas, il faut le signaler dans la case allouée à la réponse remise en fin de cahier. Si au cours de lépreuve; un candidat repère ce qui lui semble être une erreur d'énoncé, il la signale sur sa copie et poursuit sa composition en indiquant les raisons des initiatives qu'il est amené à prendre.
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 16 PAGES NUMEROTÉES 1 sur 16,2 sur 16, 16 sur 16.
+Concours Technologique
+Session Juilet 2020 Page 1 sur 16
 
+--- page 2 ---
+Éprcuu d chimie section T
+Notations et données numériques États des constituants physicochimiques (sd) solide (liq) liquide (g) gazeux Lorsque aucune mention n'est spécifiée; les ions sont supposés implicitement en solution aqueuse. Les gaz sont considérés comme parfaits. Notations Xi la fraction molaire de < i > dans la phase liquide. Yi la fraction molaire de < i > en phase vapeur . Pi pression de vapeur saturante de < i > pf potentiel chimique du constituant < i " dans la phase < Lexposant * signifie corps pur. Lexposant € signifie standard. ESH électrode standard à hydrogène Constantes physiques Constante des gaz parfaits R = 8,314 Jmoll K1 Constante d'Avogadro NA 6,02*1023 moll Constante de Faraday F =96500 C moll Pression standard pe =1bar Concentration standard Ce =lmolL' Formules brutes 1 Méthanol (CHB-OH) N-hexane (C6H14); Acétone =(C;H6O); Chloroforme (CHCI3) Données numériques Masse molaire atomique (en g.moll) Be= 9,01 1 298K, Potentiels standard d'électrodes à pH = 0 Couple H |H2g) O26g) H,0 E9 (Ox / red) /en ESH) 1,23 Produit ionique de eau Ke =1014 RxT Ln(x)=0,06x 1ogio (x) (en V). Conversion T(K) =0( C)+273,15 Unité [JC-1] = [Volt]
+Page 2 sur 16
 
+--- page 3 ---
+Épruw d chimie section T
+Problème cristallographie Le béryllium < symbole Be > cristallise dans une structure hexagonale compacte. Pour décrire la structure du béryllium; on suppose que lhypothèse dun empilement compact de plans de sphères dures tangentes est correcte. 1) Donner une représentation en perspective de la maille et de son contenu
+2LQuel est la séquence dempilement des plans compacts dans le réseau hexagonal compact 2
+3) En se limitant à une seule maille, dessiner en précisant 1a tangence entre les atomes, un plan de compacité maximale
+4) Donner les coordonnées réduites des atomes de < Be ) dans cette structure
+5) Définir_puis déterminer le motif dans _cette_ structure.
+6 Quel est le mode de réseau ? Justifier la réponse
+Représenter 1a trace des atomes de < Be > contenus dans le premier plan après celui passant par Porigine de_la famille (1 10) Préciser la tangence entre_les atomes
+Page 3 sur 16
 
+--- page 4 ---
+Éprcuw d chimie section T
+8Déterminer la_valeur du rapport (cla) idéal d'un empilement hexagonal compact.
+9) Comparer la valeur du rapport (cla) expérimental à celle obtenue à la question précédente; sachant que les paramètres de la maille sont a = 228, pm et c= 358,3 pmConclure
+10) Donner Texpression puis calculer; la masse_volumique du béryllium solide
+1 1 Problème diagramme de Pourbaix Compte tenu des données thermodynamiques suivantes; à 298 K : Entités Sr(sd) Sr2+ Sr(OH)2(sd) HzOniq) Hz(g) kJ mol -558,60 ~881,20 -236,96 1) Trouver Pexpression puis calculer 1-a) Le produit de solubilité de Sr(OH)2(sd)
+H+
+HO-
+-157,30
+Page sur 16
 
+--- page 5 ---
+Épreuu d chimie section T
+1-b) Les potentiels standard délectrodes des différents couples Sr(II)/Sr(0).
+1 1
+2) Déterminer les expressions des potentiels d'électrodes pour les différents couples Sr(I)/Sr(0)
+Page 5 sur 16
 
+--- page 6 ---
+Épreuu d chimie section T
+3) Tracer et indexer le diagramme E-pH du strontium pour une concentration de tracé Ctra 10-2 molL-I 1Classement les_entités_ep fonction de leur nombre doxydation
+2-Calcul de pH des frontières verticales
+3-Équations des frontières horizontales_et obliques
+1 4- Diagramme de Pourbaix du strontium 1,5 1
+0,5
+H2o
+0,5 1 -1,5
+-2
+2,5
+3
+3,5 8
+8 N
+8
+8
+8
+:
+8
+8 pH Diagrammes de Pourbaix de Veau (en traits discontinus) et du strontium Page 6 sur 16
+g
+Ozr
+Hzlel
 
+--- page 7 ---
+Épruw d chimie section T
+Quelles frontières ne seraient pas modifiées si [on changeait la concentration de tracé ?
+SLe strontium solide peut-il être_ attaqué en solution aqueuse ? Justifier 1a réponse
+Problème équilibres liquide-vapeur des corps purs 21,50
+16,50
+Dombine (')
+2 11.50
+Donhaine (Il)
+6.50
+1,50 350
+370
+390
+410
+430
+450
+TKK
+Fig: 1 : Courbe de vaporisation du méthanol pur 1) Préciser la nature des phases dans les domaines et (II) pour le méthanol pur. Domaine(i)
+Domaine (II)
+Page 7 sur 16
 
+--- page 8 ---
+Épnuv chimie section T
+2) Donner la relation de Clapeyron associée à la courbe de vaporisation. Donner la signification des termes qui apparaissent dans cette relation
+3) Montrer en donnant les approximations utilisées ; que la pression de vapeur saturante dun corps pur est une fonction de la température du type B Ln =A-- T Dans cette expression la pression est exprimée en bar;_la température en Kelvin et A_B sont des_constantes
+1 1
+3-a) Identifier les constantes A et B, puis donner leurs équations aux dimensions.
+Page 8 sur 16
 
+--- page 9 ---
+Épruw & chinie section T
+3-b) Sachant que la pression de vapeur saturante du < méthanol > s'écrit sous la forme p 4484,6 Ln =13,257 T i) Déterminer la température de vaporisation standard du méthanol_
+i) Déterminer lenthalpie molaire de vaporisation du méthanol
+4) On considère sur la figure ci-dessous, la superposition des courbes de vaporisations de N-hexane pur et du méthanol pur 0,8 1 N-hexane Methanol 0,7 1
+0,6
+1 0,5 2 0,47
+35
+40
+46,
+50
+55
+60
+0 (PC)
+Fig; 2 : Superposition des courbes de vaporisation du méthanol pur et du N-hexane pur Le point B est appelé le point de Bancroft qui présente lintersection entre deux courbes de pression de vapeur saturante dans le plan (p, 0) Autrement dit, il s'agit dune condition de température et de pression à laquelle les deux espèces ont la même pression de vapeur saturante.
+Page 9 sur 16
 
+--- page 10 ---
+Épreuu d chimie section T
+4-a) Donner lexpression générale de la variance F dun système et donner la signification de chaque terme.
+4-b) Dans le cas dun corps pur, calculer la variance i) sur la courbe de vaporisation
+ii) dans les domaines
+au point B
+5) Montrer que Pon peut procéder de deux manières différentes pour savoir lequel des deux composés est le plus volatil
+Quel est alors le composé le_plus volatil,_ le N-hexane ou le méthanol ?
+Problème étude des  équilibre   liquide-vapeur dans un système binaire 1) Qu'est-ce qu'un mélange idéal ?
+2)
+2-a) Quelle loi suive un mélange liquide idéal en équilibre avec un mélange de gaz parfaits pour tout Pintervalle de composition ? Donner la signification de tous les termes qui apparaissent dans cette loi
+Page 10 sur 16
 
+--- page 11 ---
+Épnvw d chimie section T
+2-b) Démontrer cette loi en utilisant les expressions des potentiels chimiques.
+3) Considérons le système binaire chloroforme (1) acétone (2) 3-9) En supposant que le mélange liquide chloroforme (1) acétone (2) est idéal dans tout le domaine de composition: 1 i)Établir les_expressions des courbes déquilibres liquide-vapeur p Ax)et p = fy) 1
+ii) Représenter sur_figure 3 (page 12) la courbe p {xi) ainsi obtenue. répondre sur la Figure 3
+Page 11 sur 16
 
+--- page 12 ---
+Épreuwe & chinie section T
+3-b) Des mesures effectuées à 25*C, fournissent les pressions partielles de chloroforme (1) et de l'acétone (2) dans la phase vapeur surmontant la phase liquide pour des compositions exprimées dans léchelle des fractions molaire X1 variables. Le diagramme ci-dessous donne (en trait continu) les variations de ces pressions partielles p1 et p2 en fonction de la fraction molaire en phase liquide xI.
+fraction molaire 0,40 0,60
+0,00 250,00
+0,20
+0,80
+1,00 250,00
+259C
+L,00; 194,65
+0,00; 229,89
+200,00
+200,00
+0,20; 178,91
+0,10; 205,49 8 150,00 5 0,40; 123,29 1 0,40; 59,18 100,00
+0,62; 107,52
+150,00 1 0,80; 150,57 5 0,60; 102,82 100,00 1 0,60; 70,92
+1 1
+0,10; 10,81
+50,00
+0,80; 28,46 50,00
+0,62; 66,14
+0,20; 24,30
+0,00 0,00 0,00 0,10 0,20 0,30 0,40 0,50 0,60 0,70 0,80 0,90 1,00 acétone fraction molaire chloroforme
+Fig. 3 mélanges liquides en équilibre avec les vapeurs
+i) Les_mélanges en phase liquide entre (L)et (2) sont-ils réellement idéaux 2 Justifier la réponse:
+ii) Comparer Ies interactions homogènes (1)-(1) (2)-(2) et hétérogènes (1)-(2) dans les mélanges en phase liquide
+iii) Quelles sont les valeurs des pressions de vapeur saturante de
+et de (2)à 25 C ?
+Page 12 sur 16
 
+--- page 13 ---
+Épreuw d chimie section T
+iv) Les mélange de (1) et (2) se font-ils avec absorption ou dégagement de chaleur ? Justifier la réponse:
+4) On souhaite tracer Pallure du diagramme déquilibre liquide-vapeur isotherme à 25 C) du système chloroforme (1) - acétone (2) 4-a) Déduire de la fig. 3, s'il doit apparaître dans ce diagramme un maximum ou un minimum de pression (noté_Az) Justifier la réponse
+4 b)Citer_trois_propriétés du mélange liquide dont le point représentatif est situé en Az
+4-c) En se basant sur le graphique   ci-dessous,   déterminer  les  coordonnées   (xAz,YAz) du point représentatif du mélange Az 1,00 25 C 0,80; 0,841 0,90
+1 1
+0,80
+1 0,70 8 0,60 1 1 0,50 5 0,40 1 0,30 1 0,20
+171l11 0,62; 0,62
+0,90; 0,934
+0,60; 0,592
+Jldi
+0,20; 0,120
+0,40; 0,324
+0,10
+0,10; 0,050
+0,00 0,00
+0,10
+0,20 0,30 0,40 0,50 0,60 0,70 0,80 fraction molaire en phase liquide   du chlroforme
+0,90
+1,00
+Fig 4 fractions molaires de la phase vapeur en fonction des fractions molaires en phase liquide
+Page 13 sur 16
 
+--- page 14 ---
+Épreur d chimie section T
+4-d) En utilisant les figures 3 et 4 et éventuellement quelques résultats obtenus précédemment; tracer le plus précisément possible lallure du diagramme binaire isotherme (à 0 = 259C). 4-e) Indiquer la nature des différentes phases présentent dans tous_les domaines.
+0,0 235
+0,1
+0,2
+0,3
+0,4
+0,5
+0,6
+0,7
+0,8
+0,9
+1,0 235
+230
+0 = 25 C
+230
+225
+225
+1 1
+220
+220
+215
+215
+210
+210
+1 205 200
+205
+1 200 195
+195
+190
+190
+185
+185
+180
+180
+175
+175
+170 0,0 0,1 acétone
+170 0,9 1,0 chloroforme
+0,2
+0,3
+0,4 0,5 0,6 fraction molaire
+0,7
+0,8
+Fig. 5 : diagramme d'équilibre liquide-vapeur isotherme du système chloroforme acétone (2)
+FIN DE LÉPREUVE
+Page 14 sur 16

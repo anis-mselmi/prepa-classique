@@ -1,1 +1,36 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de 1'Enseignement Supérieur et de la Recherche scientifique et de la Technologie
+Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs Session: Juin 2004
+ait
+er
+n
+Concours Mathématiques et Physique Epreuve de Chimie
+er
+Euoreze 2 4 Yetudes 5 Scungeheuss >
+st
+"t
+Date Mardi 8 Juin 2004
+Heure 8H
+Durée 2 Heures Nbre pages 2
+t
+Barème /20 Problème I : 4 points C Problème II : 8 points ~ Problème III : 8 points
+L'usage dune calculatrice non programmable est autorisé. Tout autre document est interdit.
+Les candidats sont tenus de justifier leurs réponses au moins en quelques   lignes.
+PROBLÈME 
+Lanalyse du diagramme   tmpérature,   pression (T,P) du bismuth montre une diminution de la température de fusion de 3,5. 10-3 Kpour une augmentation de pression de 1 atm. 1) Quel est le signe du volume de fusion Afus V pour le bismuth? 2) Calculer la variation du volumne de fusion Afus V au cours de la fusion du bismuth On admettra que cette variation est indépendante de la pression 3) En déduire la température de fusion du bismuth sous la pression de 100 atm 4) a) Représenter F'aliure du diagramme de phases unaire du bismuth dans le plan (T,P) en précisant les points particuliers. Le tracé à Téchelle n'est pas exigé b) Indexer ce diagramme en précisant les états physiques dans chaque domaine et sur chaque courbe déquilibre. 5) On refroidit sous pression constante égale à 1 atm du bismuth de 2OOOPC jusqu'à la température ambiante. a) Représenter dans le plan température, temps (T,t) lallure de la courbe de refroidissement. b) Préciser sur chaque branche de la courbe de refroidissement les phénomènes observés.
+Données: Constante des gaz parfaits: R=8,314 Jmol-l K-l ;R=0,082 Latm.mol-L K-L. Température normale de fusion du Bismuth Tfus = 271 C. Température normale débullition du Bismuth : Te = 1S6O'C. Entbalpie normale de fusion du Bismuth AHf,298 Bi (sd) = 11,3 kJmol-1. Pression au point triple P = 6,25 10-10 au Température critque Ic = 4347 'C.
+Concours de Mathématiques et Physique. Juin 2004. Epreuve de Chimie
+page 1/2
 
+--- page 2 ---
+PROBLÈME II L'une des formes allotropiques de l'oxyde de bismuth cristallise dans une structure cubique Les jons oxydes occupent les milieux des anêtes et les centres des faces du cube. Les coordonnées réduites des ions bismuth sont: (1/4, 1/4,3/4) ; (1/4,3/4, V/4) ; (3/4, V/4, V/4) ; (3/4, 3/4, 3/4). 1)  Donner une représentation en perspective de la maille: On représentera tous les   atomes doxygène et le seul atome de bismuth de coordonnées (3/4, 1/4, 1/4) .
+2) Trouver la coordinence du Bismuth et la forme de son polyèdre de coordination. 3) En admettant la tangence anion-cation calculer: a) la distance Bi-O; b) le rayon de lion bismuth. 4) Quelle est la formule de cet oxyde ?
+F
+5) Calculer sa compacité PROBLÈME I
+Soit la réaction: 4/3 Bi (sd) + O2(g) 2/3 BizO3(sd) pour laquelle ]'enthalpie libre standard A,G1 est donnée par la relation
+ArG1 0 = 382,27 + 179,73.103T (en kI.mol-l)
+valable dans l'intervalle de température compris entre 300 et 544 K 1) Déterminer la pression du dioxygène à ['équilibre à la température de SOO K 2) Donner 1'expression de l'enthalpie libre standard ArG2 pour cette même réaction dans l'intervalle de température compris entre 544 et 10SO K 3) L'expression de l'enthalpie libre standard A,G3' pour la réaction 2 C(graph) + O2(g) 2 CO(g) (3) dans l'intervalle de température compris entre 300 Ket 1050 K est donnée par la relation: ArG3 = 221 0,179T (en kJmol-1) . 9) Peut-on réduire F'oxyde de bisinuth par le carbone à 300 Ket sous une pression de 1 bar ? b) A partir de quelle . température   la réduction de   loxyde de bismuth est-elle   possible spontanément   dans les conditions standards ? 4) Calculer la pression de CO à [équilibre à 8OOK 5) Proposer deux méthodes pour améliorer le rendement de la réaction de réduction de loxyde de bismuth par le carbone_
+Données: Constante des gaz parfaits: R =8,314 Jmol-1 K-1 R=0,082 Latm.mol-LK-! Température normale de fusion du Bismuth Tfus 7 = 271 C. Température normale de fusion de loxyde de Bismuth Bi2O3 Tfus = 825 C. Température normale de fusion du carbone graphite Tfus > 150O'C. Enthalpie normale de fusion du Bismutb AHP{,298 Bi (sd) = 11,3 kJmol-l
+Fin.
+Concours de Mathématiques et Physique. Juin 2004. Epreuve de Chimie
+page 2/2.

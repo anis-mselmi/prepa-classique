@@ -1,13 +1,262 @@
+--- page 1 ---
+4a9iu2sud)
+REPUBLIQUE TUNISIENNE
+Ministère de 1'Enseignement Supérieur Concours nationaux dentrée aux cycles de formation dingénieurs Session 2006
+@Wjlgas jin Uibs G,ELij :nnit _sualuy 2006 i9
+Concours Technologie
+Epreuve de Sciences et Techniques de VIngénieur
+DOSSIER
+ENONCE DE LEPREUVE
+Le sujet comporte
+ogratolre ;<: {g808uf; Iraav? ctudos Un dossier énoncé de lépreuve ; 80* d0 HeQUr Ju= Diblio Un dessin d ensemble format A3 ; Un dossier document réponse
+Session Juin 2006
+
+--- page 2 ---
+Concours nationaux d'entrée aux cycles de formation d'ingénicurs Session 2006
+7495*4 Blakusts dsin uibs GljaLij Oxik ijal>j 2006 *,9
+REPUBLIQUE TUNISIENNE Ministère de /'Enseignement Supérieur Concours nationaux d'entrée aux cycles dc formation d'ingénieurs Session 2006
+Concours Technologie
+Epreuve de Sciences et Techniques de l'Ingénieur
+Date Mardi 9 Juin   2006
+Heure : 8 H
+Durée : 5 H
+Nombre de pages 13
+Barème Partie A : 10 points; Partie B : 5 points, Partie C : 5 points
+Aucun document n'est autorisé. L'utilisation de calculatrice de poche non programmable est autorisée. Les différentes parties de Fépreuve sont la parties A (Technologies de Conception et de Production) la partie B (Mécanique) la parti C (Automatique) Les   différentes   parties   sont   indépendantes et  doivent  être traitées sur  le dossier   document réponse. Un seul dossier document réponse est   fourni au candidat;, le renouvellement de ce dossier au cours d'épreuve est interdit. Il doit   être rendu même sans réponses.
+MACHINE A FORER
+MISE EN SITUATION ET DESCRIPTION
+En production mécanique on distingue différentes opérations dusinage telle que le perçage des trous profonds qui nécessite lemploi dune machine à forer. Cette machine, constituant le support d'étude de cette épreuve; est définie par la Figure 1 Elle se compose principalement des éléments suivants
+un pupitre de commande (A), une unité de forage (B), un chariot (C), une boîte des avances (D); un boîtier support de canon de perçage (E), une unité de serrage (F), un bâti (G).
+Concours Technologie
+Page 1/13
+Epreuve STI
+
+--- page 3 ---
+Concours nationaux dentrée aux cycles de formation d'ingénieurs Session 2006
+Le pupitre de commande (A) permet à lopérateur de donner les ordres de fonctionnement de la machine (marche, arrêt, etc ) Lunité de forage (B) permet dentraîner en   rotation loutil de   forage pour exécuter Popération de perçage de la pièce qui est fixée sur la table de la machine par lintermédiaire de lunité de serrage La boîte des avances (D) permet d'assurer, à travers un système vis écrou; le déplacement du chariot (C) supportant ]unité de forage (B) afin de réaliser un cycle de forage (Figure 2) Le boîtier support de canon de perçage assure le guidage en rotation et en translation de Poutil de forage au cours de lopération de forage.
+Pupitre de commande
+Boîtier support de canon de perçage (E)
+Unité de_forage B2
+Unité de serrage
+Boîte des avances (D
+Bâti de la machine (G)
+Chariot (C)
+Figure I: Machine à forer
+Pièce à forer
+Qutil de_forage en position de travail
+Qutil de forage en position initiale
+2
+AL
+AR
+Porte-outil
+RR
+AL: Avance lente, AR: Avance rapide, RR: Retour rapide.
+Figure 2 : Cycle de forage
+Concours Technologie
+Page 2/13
+Epreuve STI
+
+--- page 4 ---
+Concours nationaux dentrée auX cycles de formation d'ingénieurs Session 2006
+PARTIE A:TECHNOLOGIES DE CONCEPTION ET DE PRODUCTION
+Les questions de cette partie se trouvent sur le dossier document réponse (pages 1-16)
+Dans cette partie on s'intéresse à létude de la boîte des avances (D) de la Figure 1, définie par le dessin d'ensemble (Document 1). Cette boîte est constituée des organes   suivants Un moteur (MpR) assure le mouvement de Déplacement Rapide (DR) (Avance et retour rapide) au cours de lopération de forage (Figure 2), Un moto variateur (MAL) assure le mouvement de 1Avance Lente (AL) au cours de Popération de forage (Figure 2) et permet davoir une plage de variation de la fréquence de rotation de larbre (20), en agissant sur le volant de commande; Une transmission par engrenages composée dun engrenage cylindrique (22, 18), dun engrenage roue et vis sans fin (6,14), dun engrenage cylindrique (9, 11) Un   embrayage électromagnétique (E) flux traversant assurant la liaison encastrement par adhérence de la roue (6) avec larbre de sortie (2). Cet embrayage est activé (E=l) pendant le mouvement de lavance lente (AL) et désactivé (E-0) pendant le mouvement de déplacement rapide
+Attention Factivation de Fembrayage électromagnétique (E) n'est possible que si le moteur (MpR) n'est pas sous tension.
+Données_pumériques et_hypothèses_relatives la sous_partie Al: Technologie_de conception:
+MDR Moteur Déplacement Rapide MAL Moto variateur Avance Lente
+Fréquence de rotation 1500 trlmn. Puissance Pzo 370 W, supposée constante pour toutes les valeurs   possibles de la fréquence de rotation Nzo, avec (430 < Nzo < 2600) trlmn Nombre de dents Z, =17 Z11 = 42
+Engrenage cylindrique 11) Engrenage cylindrique (22 ; 18)
+Nombre de dents Z22 =14 Z18 = 45 Rendement n =0,9 Engrenage roue et vis sans fin Nombre de dents Z14 3(filets) Z6 = 24 (14 ; 6) Rendement 72 = 0,7 Coefficient de frottement à l'état lubrifié f =0,1 Nombre des surfaces de friction n = 10 Embrayage électromagnétique (E) Rayons des surfaces de friction r=14 mm; R = 24 mm Pression de contact admissible Padm = 2 MPa Remarque : Au cours de la transmission de mouvement et de puissance, on ne tient compte que des rendements niet 12 au niveau des engrenages. Toutes les autres liaisons sont supposées parfaites
+Concours Technologie
+Page 3/13
+Epreuve STI
+
+--- page 5 ---
+Concours nationaur d'entrée aux cycles de formation d'ingénieurs Session 2006
+Dessins de définition relatives à la sous partie A 2 : Technologie de Production
+Ministère de lEnseignement Supérieur
+Concours Technologie Epreuve STI
+Repère: 2
+Document: 2
+ARBRE DE SORTIE
+Echelle::2
+Session: Juin 2006
+Concours Technologie
+Page 4/13
+Epreuve STI
+
+--- page 6 ---
+Concours nationaux d'entrée aux cycles de formation d'ingenieurs Session 2006
 
 
+150-02
+82*0.2
+Jo
+18
+9
+g
+0.08
+5*0,1
+012
+012h7
+018*02
+IT=+0,1 sauf indcations Ra 32 Partout: sauf indications Chanfreins: 1x45'
+14 g6 = 14 217
+10 g6 = 10 44
+0,05 AlB
+Ministère de lEnseignement Supérieur
+Concours Technologie Epreuve STI
+Repère 2 Document: 3 Session Juin 2006
+ARBRE DE SORTIE
+Echelle:I:2
+Concours Technologie
+Page 5/13
+Epreuve STI
 
+289!
 
+--- page 7 ---
+Concours nationaux dentrée aux cycles de formation d'ingénleurs Session 2006
+PARTIE B MECANIQUE
+Les réponses doivent être rédigées sur le dossier document réponse (pages 17-21)
+BI MECANIQUE GENERALE
+Létude portera sur le mécanisme du  variateur mécanique qui fait partie de la boîte des avances (D) de la machine à forer décrite par la Figure 1. Le mécanisme de ce variateur, défini par le schéma cinématique de la Figure B.1.1, est composé principalement des solides suivants Le carter So, associé au repère 93(0,70 ,70,70 supposé galiléen (absolu) La flasque conique S1, associée au repère 94(01,7,J1,70, est en liaison pivot daxe (01,70 avec le carter So. Son mouvement de rotation est paramétré par la variable angulaire €, (,x)= sJ) La flasque conique S2, associée au repère %,(02,72,/2,70) , est en liaison pivot daxe (0z,70 avec le carter So. Son mouvement de rotation est paramétré par la variable angulaire02 =(70,72) =(ÿ.z) , Le support S5, associé au repère 9,(Gs,40,J0,70) , est en liaison glissière daxe (Gs,70 avec le carter So. Son mouvement de translation est paramétré par la variable linéaire 2, tel que OGs 1z 0 , La flasque conique S3, associée au repère 9,(03,71,J1,70) , est dune part en liaison pivot daxe (03,70 avec le support  Ss et dautre   part en liaison   glissière daxe (01,70 avec la flasque S1. Son mouvement est paramétré par les variables angulaire0, et linéaire 2, La flasque c onique S4, associée au repère $,(04,72,/2,70) , est dune part en liaison pivot  daxe (04,70 avec le   support Ss et dautre   part en   liaison glissière daxe (02,70 avec la flasque Sz. Son mouvement est paramétré par les variables angulaire 02 et linéaire ^, Lanneau S6, associé au repère R6(G6,76,J6570) , est en contact supposé ponctuel, travers des cercles primitifs intérieurs de rayon R6, aux points I1, I2, Is et I, respectivement avec les flasques coniques S1, S2, S3 et S4. Le mouvement de Panneau S6 est paramétré par la variable angulaire €6 =(o,76) =(0,J6 et les variables linéaires u et n tel que GGs= =pz +nyo Tous les   repères définis précédemment sont orthonormés directs. Les paramètres 0 02 , 06, H, n et ^ sont variables en fonction du temps.
+On définit les vecteurs positions suivants 0o; (4 -b)zo +ayo, 0Oz =(4 +b)7o -ayo, 0Gs = 1z0, G,Gs = uzo +nyo G,0, = bZo +ayo, G,04 = ~bZo -ayo, =(h-rtga)zo+rJo, 0,I; =-(h-r{ga)zo +rJo, 022 =-(h-rfga)Zo -Y,Jo 04,=(h-raga)7o -r,Jo , T =44; =2R60, T;=1z = 070 Avec @, b, h, % 1 R6 et / sont des constantes positives et non nulles.
+Concours Technologie
+Page 6/13
+Epreuve STI
 
+--- page 8 ---
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs Session 2006
+S1
+S3
+2a
+Jo
+0;
+1-P
+x
+Te; 2 { Pour i = 1, 2 et 6
+Ss
+So
+Sa
+S2
+S6
+Yo
+01
+G6
+Xo
+2R6
+R6
+02
+r
+Iz
+S6
+Figure B.1.1: Schéma cinématique de mécanisme du variateur mécanique
+Concours Technologie
+Page  7/13
+Epreuve STI
+2
 
+--- page 9 ---
+Concours nationaux dentrée aux cycles de formation dingénieurs Scssion 2006
+BL-LETUDE GEOMETRIQUE B-1-1.1. Etablir le graphe des liaisons du mécanisme de variateur (Figure B.1.1) B-1-1.2. Ecrire les relations qui traduisent la fermeture géométrique des chaînes suivantes (So S1- S6- S2- So) et (So S1- S6- S3- Ss-So) B-1-1.3. En déduire que les relations, donnant les rayons r1 et rz en fonction de la variable linéaire 2, s 'expriment sous la forme 10 = 1 4 = 40 ' = (R6 =a) + et Y2 = (R6 =a) + 2tga 2tga B-1-1.4. Etablir les relations qui expriment les variables linéaires n et p en fonction de ^
+B-12 ETUDE CINEMATIQUE
+B-1-2.1 Par projection sur la base (70,Jo,70) , déterminer les torseurs cinématiques associés: au mouvements de S1 par rapport au carter So au point 01, au mouvements de S2. par rapport au carter So au point 02, au mouvements de S6 par rapport au carter So au point G6, B-1-2.2 Déterminer les vitesses de glissement aux points de contact I1 et Iz de lanneau S6 par rapport aux flasques S1 et S2. B-1-2.3 En considérant le cas où 1, H et n sont maintenus constants et en supposant un roulement sans glissement aux points de contact I1 et I2 entre lanneau S6 et les flasques S1 et Sz établir les relations qui expriment les vitesses angulaires 0 et 02 en fonction de la vitesse angulaire & B-1-2.4 En 0 déduire que le rapport de transmission du   variateur   défini par K= peut 8 s' 'exprimer en fonction de la variable linéaire ^ sous la forme K(a) = 91-4 C2 + 2 Où cp et cz sont des constantes fonctions de a , R6, a et 10 B-1-2.5 partir du rapport de transmission établi, déduire que le variateur peut être un multiplicateur ou un réducteur de vitesses.
+B-1 -3 ETUDE DYNAMIQUE
+Dans cette partie, on considère que Les quatre flasques coniques sont identiques. Chaque flasque est caractérisée par une masse m et par un moment d'inertie Jz défini par rapport à son axe de révolution ; La flasque S1 est soumise à un couple moteur c =Cm7o La flasque S2 est soumise à un couple résistant 7 =-C,7 Le support Ss est caractérisé par une masse M ; Au cours de variation du rapport de transmission du variateur, le support Ss est soumis à une action mécanique définie par F = Fzodont la ligne d'action est portée par (Gs,7) ; Linertie de lanneau est supposée négligeable devant les autres inerties L'action de champ de pesanteur est négligée = Toutes les liaisons mécaniques sont supposées parfaites sauf les contacts aux points I1, Iz, Iz et 14 qui sont caractérisés par un coefficient de frottement f.
+Concours Technologie
+Page 8/13
+Epreuve STI
 
+--- page 10 ---
+Concours nationaux d'entrée aux cycles de formation d'ingénicurs Session 2006
+ B-1-3.1. Caractéristiques dinertie
 
+H
+h 4 }
+On considère le   solide (S), modélisant Pune de quatre   flasques,   auquel on associe au repère orthonormé direct (O,F,y ,7 ) (Figure B.1.2) Il est supposé  homogène, de masse m, formé par un cône (rayon R; hauteur b) et dun cylindre (rayon r = R; hauteur H =3h )
+R
+Figure B.1.2 Solide (S)
+B-1-3.1.1. Déterminer la position du centre de masse G du solide (S) : 0G B-1-3.1.2. Déterminer le moment dinertie Jz du solide   (S) par rapport révolution (0,7)
+Paxe de
+B-1-3.2 Etude énergétique On se propose détudier le   comportement dynamique du   système formé par 2 = {S,,S2,S5,54,S5,56} pour 2, H et n constantes et pour un roulement   sans glissement entre lanneau S6 et les flasques aux points de contacts.
+B-1-3.2.1. Faire linventaire des actions mécaniques extérieures appliquées au système 2 B-1-3.2.2. Déterminer la puissance développée par les actions mécaniques  appliquées au système Z dans son mouvement par rapport à So. B-1-3.2.3. Déterminer; dans la base (7o,70,70), le torseur cinétique au point 01 du solide S1 dans son mouvement par rapport à So. B-1-3.2.4. Déterminer l'énergie cinétique de Z au cours de son mouvement par rapport à So. B-1-3.2.5. Sachant que K-& appliquer le théorème de lénergie cinétique au système Z au 8 cours de son mouvement par rapport à So. En déduire son équation de mouvement.
+Concours Technologie
+Page - 9/13
+Epreuve STI
 
+--- page 11 ---
+Concours nationaux d'entrée aux cycles de formation d'ingénicurs Session 2006
+B.2 STATIQUE ET RESISTANCE DES MATERIAUX
+On se propose détudier   les charges   appliquées SUr Tarbre de sortie du variateur modélisé par la Figure B.2 suivante
 
+B
+2
+OI =50 mm ; OA = 30 mm AB = 60 mm BC = 50 mm
+Figure B.2 Modèle de guidage en rotation de Varbre de sortie (S2) du variateur.
+Larbre est guidé en rotation par deux roulements modélisés par une liaison rotule de centre et une liaison linéaire  annulaire de centre B Au cours de sa rotation à vitesse constante; larbre est soumis à des actions mécaniques définies par les deux torseurs suivants 200 {" {"2} 1000 210 (C,x,é,2) 1500 (L<,7,7)
+Où les forces sont exprimées en N et les moments sont exprimés en mN Larbre, de forme cylindrique pleine; est fabriqué en acier de construction pour lequel on adopte une contrainte normale maximale admissible Omax Rpe 80 MPa et une contrainte tangentielle maximale admissible Tmar = Rpg 40 MPa Le repère (O,X7,7) lié à larbre est orthonormé direct.
+B-2-1. Exprimer, les torseurs des actions mécaniques transmissibles à larbre de sortie (S2) à travers les liaisons aux points A et B {T,} et {r,}B B-2-2. En appliquant le principe fondamental de la statique au point A, calculer les inconnues des liaisons aux points A et B. B-2-3. Sachant que larbre est sollicité à un moment de flexion Mfmar 45 mN déterminer son diamètre minimal  pour qu'il résiste à la contrainte normale créée par la flexion B-2-4. Sachant que larbre  est sollicité à un moment de torsion Mt max= 10 mN, déterminer son diamètre minimal pour qu'il résiste à la contrainte tangentielle créée par la torsion.
+Concours Technologie
+Page 10/13
+Epreuve STI
 
+--- page 12 ---
+Concours nationaux dentrée aux cycles de formation d'ingénieurs Session 2006
+Partie C : AUTOMATIQUE
+Les réponses doivent être   rédigées sur le dossier document réponse (pages 22-24) NB Les parties C-1 et C-2 sont indépendantes. Les réponses doivent être rédigées sur les documents réponses.
+Description du système On s'intéresse à létude du cycle d'usinage assuré par la machine de forage (Figures 1 et 2) La première partie est consacrée à lautomatisation du cycle de forage de la pièce. Dans la deuxième partie, on étudie lasservissement de position du moteur à courant continu servant au déplacement de loutil de forage.
+Partie C-1 Automatisation du cycle de perçage.
+Lunité  de déplacement est munie de deux moteurs   MI et M2. Le moteur MI  permet deffectuer une avance et un recul rapides de Foutil de forage. Le moteur M2, toujours en fonctionnement,   permet de réaliser une avance lente; permettant de percer la pièce à la profondeur   réglée. La vitesse   lente ou rapide est   obtenue au moyen dun embrayage commande électromagnétique qui ne fait pas lobjet détude. L'outil de forage est entraîné en rotation; en sens unique, par le moteur M3 (Figure C-I).
+Capteur de position 2 p2
+Capteur de position 1 pl
+Commande de rotation du Poutil
+Arrêt d'urgence au Départ cycle dcy
+Outil de forage
+Moteur de rotation outil
+Moteur davance lente
+Unité de forage (B)
+M3
+Pièce à forer
+M2 (MAL) Boite des avances D MI Embrayage (MDR) électromagnétique
+Chariot (C)
+Moteur
+avancelretour rapidc
+Capteur de présence pièce pr
+Capteur de Butées profondeur de perçage pp
+Commande de
+déplacement du Poutil
+Figure C-1 Représentation de la machine à forer.
+La machine de forage est munie des capteurs suivants pr vaut lorsqu'une pièce à forer est présente PP vaut lorsque la profondeur de forage réglée est atteinte pl vaut lorsque loutil de forage est dans la position indiquée sur la Figure C-1 ; p2 vaut lorsque loutil de forage est dans la position 2 indiquée sur la Figure C-1 ; dcy ordre de départ du cycle de forage au bouton darrêt durgence.
+Concours Technologie
+Page 11/13
+Epreuve STI
 
+--- page 13 ---
+Concours nationaux dentrée aux cycles  de formation d'ingenieurs Session 2006
+Le cycle de perçage souhaité est le suivant La présence dune pièce et Fappui sur le bouton départ cycle dcy provoque le départ du cycle de perçage; à condition que loutil de forage soit en position 1 Si Poutil n'est pas en position 4,le moteur MI doit alors le ramener dans cette position Loutil doit ensuite avancer rapidement jusqu'à la position 2 puis passer en vitesse lente. Cette vitesse est conservée tout au Jong de l'opération de forage. Le moteur de rotation outil M3 est alors actionné. Loutil continue ensuite à avancer jusqu'à ce que la butée dont il est muni actionne le capteur de profondeur de forage pP. Une fois le forage effectué, Toutil de forage recule rapidement jusqu'à la position 2 où le moteur M3 est arrêté, puis revient à la position qui permet le redémarrage dun nouveau cycle. Lappui sur le bouton darrêt durgence provoque 1arrêt immédiat des trois moteurs. Le redémarrage dun cycle se fait manuellement .
+C-1 Donner le GRAFCET de niveau 2 décrivant le fonctionnement du cycle de forage dune pièce Partie C-2 : Etude de Passervissement de position de Punité de forage.
+Le système à étudier est constitué d'un moteur à courant continu, commandé par une tension u(t) entraînant; au moyen dun dispositif approprié, la charge en translation constituée par Funité de forage. On s'intéresse à lasservissement de la position x(t de unité de forage, celle-ci étant soumise à une perturbation v(t) provenant du couple résistant dû au forage, conformément au schéma de la Figure C-2
+V(p)
+U (p)
+X(p)
+T(p)
+Figure C-2 Schéma bloc du système en boucle ouverte.
+La fonction de transfert   T(p) du système en boucle ouverte est donnée par T(p) = p(l+ p)
+Les transformées de Laplace utiles sont données dans le tableau C-1,
+Concours Technologie
+Page _ 12/13
+Epreuve STI
 
+--- page 14 ---
+Concours nationaux dentréc aux cycles de formation d'ingénieurs Session 2006
+Tableau C-1
+F(p) ; (p+a)
+f (t) pour t > 0
+C-2-1. Calculer et tracer la réponse impulsionnelle   x(t) du système dans le cas où la perturbation v(t) est nulle. Que vaut x(t) si u(t)=0 et v(t)#0 ? C-2-2. Tracer les lieux asymptotiques de Bode de T(p). C-2-3. Le système caractérisé par la fonction de transfert T(p) est inséré dans la boucle dasservissement donnée par le schéma bloc de la Figure C-2, où R(p) est un régulateur à choisir et Xrr (p) est la consigne à suivre. V(p) c(p) X(p) Xreflp) U(p) R(p) T(p)
+Figure C-2.
+C-2-3-1. Le régulateur R(p) étant choisi tel que R(p)=1, a) Calculer et tracer la réponse indicielle x(t) dans le cas où la perturbation v(t) est nulle. b) Quel est; dans ce cas; le temps nécessaire pour que la sortie x(t) atteigne son régime permanent à +5% ? c) Que vaut la sortie x(t) pour une perturbation v(t) en échelon de position et une consigne Xreft) 0 ? C-2-3-2. Le régulateur   R(p) étant choisi tel que R(p)=k, déterminer la valeur du gain k permettant dobtenir une marge de phase de 450 C-2-3-3. Proposer un régulateur R(p) permettant d'améliorer la rapidité du système asservi.
+
+Concours Technologie
+Page < 13/ 13
+Epreuve STI

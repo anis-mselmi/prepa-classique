@@ -1,3 +1,56 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministcre de l'EnscigncmcnI Supcricur, dc Iu Rccherche Scicnlifiquc cI dc la Tcchmlopic "9ij ~ui ~u
+=~J)42a)
+4ULGsg*Ls Essubuu+y1 Jxiw Uiji S1jbLiji AnjiNslyji 2009 *) Olnquonlcnolrc Fuabecei( Ivaizapr AsaTUT Goonont Concours Nationaux d'Entrée aux Cycles de Formation dIngénicurs Session 2009 (SiGTHfqu3
+Concours Biologie et Géologie Epreuve de Physiquc
+Date Jeudi 04 Juin 2009
+Heure : 8 H
+Durée : 3 H
+Nbre pages 04
+Barème :
+Problème I : 11 / 20
+Problème II : 09 / 20
+L'usage d'une calculatrice non programmable est autorisé L'épreuve comporte deux problèmes indépendants Le candidat peut les résoudre dans l'ordre qui lui convient, en respectant néanmoins la numérotation des questions.
+PROBLEMEI : PHYSIQUE DES ONDES
+1- Modèle de Ponde électromagnétique plane progressive monochromatique On considère une onde électromagnétique plane monochromatique; de pulsation @ de longueur   d'onde dans   le vide ~o' se propageant   suivant   la   direction Oz dans un   milieu transparent,   linéaire;   homogène et   isotrope d'indice de réfraction 1L. Elle est polarisée rectilignement parallèlement à l'axe Ox; Les axes Ox, Oy et Oz constituent un trièdre direct; de vecteurs unitaires ux 5 et 4 Le champ électrique relatif à cette onde s'écrit : Ê(z,5 t) = Eo cos(t-kz) Zx Eo est une constante. 1-1- Ecrire l'équation différentielle dont le champ électrique 7(z,t) est solution: Qu'appelle-t- on cette équation ? Citer dautres phénomènes physiques décrits par ce type d'équation. 1-2- Préciser Jes caractéristiques dune onde électromagnétique plane progressive monochromatique. 1-3- Ecrire Fexpression du module du vecteur d'onde k en fonction de la pulsation @ de la vitesse de la lumière dans le vide c et de Findice du milieu n. Réécrire le vecteur champ électrique E de Fonde électromagnétique; en fonction de Eo ' 0 , n, ç Z et t. 1-4- Montrer que le vecteur champ magnétique de l'onde s'écrit : 5(z,t) = " Eo cos @t -I 0 2 ) C 4 c
+1-5- Qu7 'appelle-t-on polarisation rectiligne d'une onde électromagnétique plane ? La Jumière naturelle est-elle polarisée ? Citer les différents types de   polarisation dune onde électromagnétique plane. Concours Biologie et Géologic - Session Juin 2009 Epreuvc de Physique Pagc 1/4
 
+--- page 2 ---
+1-6- Comment peut-on produire une lumière polarisée rectilignement ? électromagnétique traverse un polariseur parfait placé orthogonalement à la 1-7- Cette onde direction de propagation. Fangle que fait la direction de laxe du polariseur avec celle du vecteur champ On note 0 électrique incident E; (figure 1) On fait tourner Faxe de polariseur dans son plan: Décrire ce qu'on observe sur I'écran (E) lors de la variation de langle a. Énoncer la loi de Malus.
+X
+X
+Axc de polariscur
+2
+0
+Y
+Polariseur
+Ecran (E)
+Figure 1
+2- Lames à retard On considère une lame à faces parallèles; parfaitement transparente; d'épaisscur e, taillée dans costsaeniaxe et dont les faces sont normales à T'axe Oz Pour unc onde électromagnétique un dans la direction Ox, la lame présente ]'indice plane monochromatique polarisée rectilignement Pour une onde électromagnétique plane monochromatique  polarisée no (indice  ordinaire)- dans la direction Oy; la lame présente l'indice 2 (indice extraordinaire) avec rectilignement L Ox est appelé axe rapide et Oy ' est Vaxe lent. On néglige toute réflexion sur les { > no axe interfaces . 2-1- Une onde incidente plane polarisée rectilignement suivant Ox et se propageant dans l'air, arrive sur la lame à l'abscisse z = 0. Le champ électrique dindice n 21, le long de laxe Oz, corespondant s'écrit 5; (z,t) = Eox cos(t-kz) ux Le champ électrique de Fonde à la sortie de la lame (z = e)s'écrit 5, = Éox coS (@t-9) ux Déterminer le déphasage 4x en fonction de @, 1o ' e el €. 2-2- Une deuxième onde incidente d' amplitude Fo; mais polarisée sui vant Oy se propageant arrive sur la lame à F'abscisse z = 0. Le champ électrique correspondant s'écrit : suivant 0z, E'(z,' t) =Eoy cos(t-kz) 4 Le champ électrique de l'onde à la sortie de la lame (z = e) s'écrit : 7' =Eoy coS (@t-w)Z, Déterminer le déphasage 4 en fonction de 0 , n c e et c. 2-3- Une onde incidente, d': 'amplitude Eo est polarisée rectilignement suivant une direction faisant ]'angle a avec /'axe Ox, se propage suivant Oz (figure 2) Déterminer le champ électrique résultant Er de l'onde à la sortie de la lame (z = e)
+Concours Biologic ct Géologic Session Juin 2009
+Epreuve de Physiquc
+Page 2/4
 
+--- page 3 ---
+En déduire que le déphasage 4 entre les deux composantes suivant les axes Ox et Oy du champ électrique Er transmis de la lame à retard $'écrit 4 =(n -n ) 4 e _
+X
+Z
+Lame à retard
+Figure 2 2-4- Deux types de la lame à retard sont à distinguer si @ = " , la lame est dite demi-onde. T si 4 = la lame est dite quart-d'onde. 2 Justifier ces appellations. 2-5-1- En calculant le champ électrique transmis; décrire le changement détat de polarisation relative à une onde incidente polarisée rectilignement dans une direction faisant un angle 0 avec Ox lorsqu'elle traverse une lame demi-onde. 2-5-2- En calculant le champ électrique transmis; décrire le changement d'état de polarisation pour Fonde incidente polarisée rectilignement suivant une direction faisant un angle @ avec 1axe Ox  lorsqu'elle traverse une lame quart-d'onde. Quelle est la polarisation de Tonde I transmise si Q = ? 4
+PROBLEME I THERMODYNAMIOUE
+Un câble d'acier de longueur L, de masse m et de section circulaire S, supposée constante; est fixé à un support stable par l'une de ses extrémités. Il est tiré par une force de traction dintensité F à lautre extrémité (figure 3).
+Câble
+Figure 3
+Pour tout état caractérisant le câble, sa température thermodynamique T est supposée uniforme. A létat déquilibre de référence ( To = 298 Ket F = 0 N), la longueur du câble est L ZLo et sa masse volumique vaut Po L'équation d'état du câble liant sa longueur L à la température T et à l'intensité de la force F se F traduit par L(T,F)=Lo 1+a(T-To)+ sE où E et a sont des constantes appelées respectivement module d'Young et coefficient de dilatation linéaire de l'acier. On note U et $ respectivement l'énergie inteme et l'entropie du câble.
+Concours Biologie et Géologie _ Session Juin 2009
+Epreuvc de Physique
+Page 3/4
 
+--- page 4 ---
+Les évolutions que peut subir le câble peuvent être décrites par la fonction énergie libre @ =U-TS Pour des variations  élémentaires   dL de la longueur du câble et dT de la température; la différentielle de l'entropie s écrit sous la forme dS(T,L) = m 9dT + 2dL T où cL et ^ sont des coefficients calorimétriques fonctions a priori de T et de L 1- Le travail élémentaire réversible SW de la force de traction lors dune variation dL de la longueur L du câble est ôW = FdL 1-1- En utilisant Ie premier principe; exprimer la différentielle dU, en fonction des variables S et L, relative à une transformation élémentaire. 1-2- Montrer que la différentielle de Fénergie libre s'écrit : d@ = -SdT+FdL 1-3- Montrer que la relation de Clapeyron relative au coefficient calorimétrique 2 s'écrit : ôF 1 = -T ôT En déduire que 2 =asET .
+1-4- Montrer que le coefficient calorimétrique c ne dépend pas de L Dans la suite; on supposera que CL est constante dans le domaine de variation de la température. 2- Montrer que les variations élémentaires de /énergie intemne U et de lentropie S lors dune évolution faisant varier la température de dT et la longueur du câble de dL s'écrivent dU = mc dT+sE L-Le+aTo dL et dS = m^ dT+sEœ dL _ Lo T 3- Le câble métallique évolue en contact avec un thermostat de température To Il est soumis à une force de traction variant réversiblement de la valeur 0 à F. Sous leffet de cette force; la longueur du câble subit une modification d'une valeur initiale L; =Lo àla valeur finaleLf - 3-1- Calculer le travail W reçu par le câble aux cours de cette transformation. 3-2- Déterminer la variation de l'énergie interne du câble. En déduire lénergie themique échangée au cours de la transformation. Dans quel sens le transfert thermique entre le câble et le milieu extérieur est effectué ? 3-3- Détemminer la variation de lentropie AS lors de cette transformation: Calculer AS et commenter son signe. On donne Lo = 2m, Lf = 2,01 m s =5,5 10-+ m? à =12 10-+ K-1 et E=2 10" Pa
+4- Le câble est maintenant   thermiquement  isolé du milieu extérieur. La force de traction exercée; dune façon réversible (0 ~ F), sur le câble; fait évoluer son état déquilibre de Fétat initial (To,Lo ) à Pétat final (T' ,L' ). Détemminer la température finale T' du câble. Calculer T; et commenter le signe de AT=T'-To' On donne Lo =2m, LF = 2,02 m Io = 298 K, Po = 7,8 10*kg m ~3 et c = 459 JK- kg 41
+Fin de l'épreuve
+Concours Biologie et Géologie ~ Session Juin 2009
+Epreuvc dc Physique
+Page 4/4

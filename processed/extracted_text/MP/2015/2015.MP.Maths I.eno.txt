@@ -1,3 +1,66 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Rechærchæ Srientifique
+9) 4>94s $
+Ministère d FEnseixnment SupÉricur #t dv lu
+"lnlbaissli 2511  d; Jaaall La4i 2 jilLN 2wsjej   2015 {9p
+Concours Nationaux d'Entrée aux Cyces de Formation d'Ingénieurs Session 2015
+Concours Mathématiques et Physique Epreuve de Mathématiques I 1t Date: Lundi 8 Juin 2015 Heure : 8 H Durée : 4 heures Nb pages 4
+Une grande importance sera attachée à la rigueur du raisonnement, à la clarté et au soin de la présentation. L'usage des calculatrices n'est pas autorisé Il est rappelé que tout résultat énoncé dans le texte peut être utilisé pour traiter la suite, même s'il n'a pu être démontré. N.B. Le sujet comporte un exercice et deux problèmes; totalement indépendants.
+Exercice
+Int 1 Montrer que; pour tout $ > 0, t + est intégrable sur J0,1] 1 + t' On pose alors Int f(x) = dt, 2 > 0. I + t 2. Montrer que lapplication f est de classe Cl sur J0, + %[: ` In(1 + 2) _ Inz 3 Montrer que, pour tout 2 > 0 f'(x) = ' . : ' 1 4 Montrer que, pour tout $ > 0, i  '  1 f(z) +f(4) = - (In æ)? + 2f(1) 2
+5 (a) Soit k € N. Calculer lintégrale Ik =
+tk Int dt.
++0 (I)n 1 (b) Montrer que, pour tout r 2 1, f(z) = 2 n2 xn n=1
+(c) Montrer que f (x) IH+0 1 (d) En déduire un équivalent simple de f au voisinage de 0+
+Problème I
+Partie I
+une suite complexe telle que la série entière anzn ait un rayon de Soit   (an neN n20 convergence infini 1 Soit z € C* Montrer que la série '(n + 1)an+1z" converge absolument . 1 n n>o n+1 = @n+lrn+1 (2) n+1). (On pourra écrire pour tout r > |zh (n + 1)an+1z
+Concours Mathématiques et Physique Session Juin 2015
+Épreuve de Mathématiques
+Page 1/4
 
+--- page 2 ---
+2. En déduire que le rayon de convergence de la série entière (n+l)an+1z" est infini. n>o 3 On pose pour tout z € C:
++0o S (z) = @n2n et n=0
++0 S1 (z) = (n + 1) an+1z" n=0
+Soit z € C et f : R? _ C, Fapplication définie pour tout (r,0) € R? par : f (r,0) = S (z0 + reie) a) Montrer que f est continue sur R? (b) Montrer que f admet une dérivée partielle première par rapport à r donnée par Mf (r,0) = ei0 S1 (z0 + reie) #r Montrer que f admet une dérivée partielle première par rapport à 0 donnée par @f (r,0) = ire' i0 S1 (z0 + reie) 00
+(d) En déduire que f est de classe C1 sur R? et  vérifie léquation aux dérivées partielles: T 9f (r,0) +;95 (r,0) = 0 #r 80
+Partie II
+Soit f (r,0) + + f (r,0) une application de classe C1 sur R? telle que, pour tout r € R; lapplication fr : R C, 0 ++ f (r,0) soit 2T-périodique. On pose; pour tout n € Z,
+2T ~ing f (r,0) e d0 .
+1 Un (r) = 2T
+1 Montrer que, pour tout (r,0) € R?
++0
+f (r,0) = Uo (r) +  (un (r) ein0 + u_n (r) e-ine) n=1
+ 2. Montrer que, pour tout n € Z, lapplication un R - C; r H Un (r) est de classe Cl sur R et que, pour tout r € R;
+2n 1 un (r) = Mf (r,0) e-in0 d0 . 2T 0 #r
+3. Dans cette question on suppose que, pour tout (r,0) € R?   T 94(r,0) + i9f (r,0) = 0.  #r 80   ` . (a) Soit n € Z. Montrer que, pour tout r € R
+run (r) = nun (r) = 0.
+Concours Mathématiques et Physique Session Juin 2015
+Épreuve de Mathématiques I
+Page 2/4
 
+--- page 3 ---
+(b) En déduire que, pour tout n € Z, il existe @n € C tel que pour tout T € R+, Un (r) = @nrn.  (c) Montrer alors que, pour tout r € R+,  anrn si n € N; Un (r) = { ~ 0 si n < 0   1  (d) En déduire que; pour tout (r,0) € R+ * R,  +0 ing  _  f (r,0) = 2 @nrn e n=0
+Partie III
+Soit F : C - C une application. On lui associe lapplication f : R? _ C définie; pour tout (r,0) € R? par f (r,0) = F (reie)  Montrer que les trois assertions suivantes sont équivalentes (i) La fonction f est de classe CI et vérifie léquation :  T 91(r,0) +;9f (r,0) = 0.  d0   Ôr (ii) Il existe une suite complexe (an)n telle que    +0   Vz € C, F (z) = ) Onzn  n=0 (iii) Pour tout z € C, il existe une suite (bn)n telle que    +0o   Vz € €, F (z) = Ebn (z  zo)" n=0
+Problème II 1  ` Dans  ce problème (E, | Il)   désigne un espace   vectoriel normé de dimension finie; A une partie de E et f : A _+ A une application. Soit k > 0. On dit que f est k - lipschitzienne sur A si
+Vx,y € A, I1 f(æ) = f(y) Il< k || z = y | Si f est k-lipschitzienne et k €jo,1 [ on dit que f est k-contractante. On rappelle que toute application k-lipschitzienne sur A est continue sur A. Pour p entier naturel, on note fp A _ + A Vapplication définie, pour tout x € A, par f%(æ) =I et si p 2 1, fP(æ) = f 0 f 0 0 f(z) p fois 
+Partie I
+Dans   cette partie; on suppose que A est une partie fermée de E et que f est k - contractante On considère la suite (In )nzo définie par 
+Io € A,  In+l = f (In) n € N.
+Concours Mathématiques et Physique Session Juin 2015
+Épreuve de Mathématiques I
+Page 3/4
 
+--- page 4 ---
+1 Montrer que, pour tout n € N;
+In+l In Jl< k" || S1 ~ Xo ||
+2 . Montrer alors que la série (In+1 In) est convergente. n20 3. En déduire que la suite (In )nzo est convergente On note / sa limite. 4. Montrer que Q € A et que f (@) = & 5 On suppose que f admet deux points fixes Q et Q' . Montrer que Q = Q' kn 6 . Montrer que, Vn € N; Il Sn = & Il< X1 Io 1 _ k 7 (a) Montrer que les applications sinus et arctangente sont 1-lipschitziennes sur R (b) Montrer que le système 4x sin(z + y) 3y 3 + 2 arctan(x _ y), admet une unique solution dans R2 (On pourra considérer une application de R? dans R? muni de la norme (æ,y) Il= |zl + Iyl) 8 Soit 9 A A On suppose qu'il existe p € N* tel que gP soit k-contractante Montrer que 9 admet un unique point fixe
+Partie II
+Dans cette partie, A désigne la boule unité fermée de E : A = {x € E, /  | æ |l< 1} et f : A - A une application 1-lipschitzienne. On considère la suite de fonctions ( fn)n21 définie sur A par fn : 1 + (1 - 1)f() 1 Montrer que la suite ( fn)n21 converge uniformément vers f sur A. 2. Montrer que, pour tout n € N* , il existe un unique élément In de A vérifiant fn(æn) = In . 3 En déduire que lapplication f admet un point fixe_ (On pourra extraire une sous suite convergente de (In)n21) 4. À-t-on, nécessairement , lunicité du point fixe de f
+Partie III
+Dans cette partie; A désigne la boule unité fermée de E, b € A et u un endomorphisme de E tels que pour tout 2 € A; llu(æ) + bll < 1. On pose alors f A A I u(x) + 6 Pour tout entier naturel non nul n, on note In lapplication définie sur A par 1 In(r) = (æ + f(æ) + f2(z) + + fn-1 '(æ)) n 1 Montrer que, pour tout entier non nul n, In(A) € A. 2 Montrer que 2 Vn € N*, Vy € In (A) I f (y) = y Il< n 3. Soit a € A. Montrer que la suite ( f (In (a)) = In (a))n21 converge vers 0. 4. En déduire que lapplication f admet un point fixe 5 Montrer que, si I est un point fixe de f, alors 1 est un point fixe de In,  pour tout n > 1 s 6 En déduire que lensemble Sf In(A) est non vide. '  .. : ,  nzl 7 . Montrer que Sf est exactement lensemble des points fixes de f
+Concours Mathématiques et Physique Session Juin 2015
+Épreuve de Mathématiques I
+Page 4/4

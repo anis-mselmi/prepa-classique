@@ -1,11 +1,227 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE
+479'i!2aaaji "@kælbst; ë)@buygal
+Ministère de F'Enseignement Supérieur, de la Recherche Scientifique et de la Technologie ù~ji #kji 120
+0
+Jssn Giby) 2i jLaLiji ixsJie-Nl Üs Jal> >i 2009 629'
+Cinquonlcnalre Tvmaycootic Tmavilmnr
+Wstiut Concours nationaux d'entrée aux cycles de formation d'ingénieur CBLoiqur Session 2009 QugdaEe S Concours Mathématiques et Physique & Physique et Chimie Epreuve de Sciences et Techniques de IIngénieur
+Date : Vendredi 05 Juin 2009
+Heure : 8 H
+Durée : 3 H
+Barème
+Partie A 3 points
+Partie B : 11 points
+Partie C : 6 points:
+L'épreuve comporte trois parties A-Technologie de Conception; B-Mécanique et C-Automatique. Le document remit au candidat comporte deux dossiers Présentation, Données et Hypothèses > & Document Réponse > Aucun document n'est autorisé . L'utilisation des calculatrices de poche non programmables est autorisée. Les différentes parties sont indépendantes et doivent être traitées sur le document réponse Un seul dossier document réponse est fourni au candidat et doit être rendu en totalité, même sans réponses; à la fin de lépreuve. Le renouvellement de ce dossier est interdit.
+DOSSIER
+PRESENTATION, DONNEES ET HYPOTHESES
+Ce dossier comporte 10 pages numérotées de 1à 10 Présentation pages 1 à3 Données et hypothèses Partie B : pages 4 et 5 Données et hypothèses Partie C : pages 6 à 10.
+
+--- page 2 ---
+Dossier Présentation Données ct Hypothèses
+STI MP & PC
+8000
+ 
 
 
+Session 2009
+Concours nationuux &'entréc aua cycles dc formation dingénieurs
 
+--- page 3 ---
+STI MP & PC
+Dossicr Présentation_Données et Hypothèscs
+FABRICATION DES BOULES DE PETANQUE
+Présentation La fabrication des boules de pétanque doit répondre aux exigences d'un cahier de charge technique élaboré par la Fédération Internationale de Pétanque et de Jeu Provençal (FIPJP). Il exige entres autres un diamètre de 90 à 1lOmm, un poids de 700 à 1300g et une dureté entre 35 et 70 unités Rockwell (HRC)
+Les boules sont généralement fabriquées en acier inoxydable ou en acier au carbone riche en chrome et molybdène avec un traitement de surface approprié comme le zingage; le nickelage et le chromage noir.
+Depuis la fabrication de la première boule de pétanque en acier en 1927, le principe de base de fabrication n'a pas évolué mais Farrivée de nouveaux matériaux et de nouvelles technologies a permis l'industrialisation de la boule de pétanque et lamélioration de ses propriétés physiques. Une ligne de production industrielle de ces boules est constituée de
+Une cisaille : qui permet le cisaillage des lopins à partir des barres cylindriques
+(a
+Figure 1 : (a) Barres d'acier en stock et (b) Lopins .
+Unité de forgeage : qui permet d'aplatir les lopins; chauffés à plus de 100O'C, en galette sous une pression voisine de 8OOT;
+(b)
+Figure 2 (a) Lopins chauffés avant forgeage et (b)Lopins après forgeage.
+couYS nationaux dentrée aux cycles de formation &ingénieurs
+Session 2009
+Page 1
 
+--- page 4 ---
+STI MP & PC
+Dossier Présentation Données et Hypothèses
+Unité d'emhoutissage permettant dobtenir des coquilles parfaitement régulière
+Figurc 3 Demi-boules (coquilles) obtenues par emboutissage.
+Unité de  soudage : qui permet dassembler   les coquilles deux par deux pour   obtenir la première mouture (version) d'une boule;
+(a)
+(b)
+Figure 4 Demi-boules (a)avant soudage (b) après soudage.
+Unité de   tournage permet d'usiner la boule obtenue enlever   les   traces de   soudure, effectuer F'équilibrage; obtenir le diamètre et le poids prévus et faire les gravures.
+(a)
+{b)
+Figure 5 (a) élimination des traces de soudure et (b) gravure.
+Concours nationaux &entrée aux cycles dc formation d'ingénicurs
+Session 2009
+Page
 
+--- page 5 ---
+STI MP & PC
+Dossier Presentation Données et Hypothèses
+Unité de traitement thermique permet &effectuer les traitement thermiques nécessaires trempe (à Fhuile ou à Feau froide saléc après un maintien de 30 à 35 mn à une températurc de 960 € ou de 850*€) puis revenu (maintien entre 260 et 4509€ suivi dun refroidissement lent).
+(a (b) Figure 6 : (a)Four tunnel pour traitement thermique (b) Système de transfert après revenu
+Unité de Finition permet de polir la surlace. Les boules en acier au carbone subissent en plus un traitement anticorrosion et un vernissage.
+(b)
+(a)
+Figure 7 (a) Polissage et (b) Vernissage.
+Le système de transfert (Figure 6-b) implanté entre [unité de traitement thcrmique et l'unité de finition   permet   de   récupérer, moyennant unI dispositif   de Vé-came   commandé   par un vérin pneumatique; les boules sortant du four de revenue; une à une, et les transférer vers une gouttière inclinée. Cette gouttière joue le rôle dune file d'attente dans laquelle les boules seront refroidies lentement à Fair libre et au bout de laquelle les boules seront récupérées sous forme des lots de cinq boules pour effectuer des opérations de finition (polissage; vernissage; contrôle qualité, etc:).
+A
+TECHNOLOGIE DE CONCEPTION
+Les questions relatives à cette partie se trouvent sur le dossicr document réponse Pages 1-3
+Concours nationaux &entréc aux cycles de formalion dingénicurs
+Sesston 2009
+Page 3
 
+--- page 6 ---
+STI MP & PC
+Dossier Présentation, Données et Hypothèses
+B
+MECANIQUE
+Données et hypothèses Dans cette partie on s'intéresse au système de transfert implanté entre l'unité de traitement thermique et Funité de finition. Il est constitué dun sélecteur mono-boule et d'une gouttière inclinée de récupération (Figure B.1) Le procédé de transfert dune boule (S4), sortant du four tunnelde revenue, s'effectue par élévation d'un injecteur sous forme june vé-came (S3). Cette opération est assurée par un vérin pneumatique (S1 ct S2) Le sélecteur (Figurc B.1) est composé de Un bâti fixe (So) auquel est attaché le rcpère Ro(0,z0 3o 7) supposé galiléen Un cylindre du vérin (S1) auquel est attaché Ie repère R1(0,}1]12). Il est en liaison pivot daxe (0,7) avec (S0) tel que œ = ('oÆ) = (vo J1). Une tige du vérin (S2) à laquelle est attaché le repère Rz(B,w1,)17). Il est en liaison supposée glissière d'axe (A,*1) avec (S1) tel que OA =2 Lx1 et OB = lx où L est une constante positive et 1 est un paramètre variable en fonction de temps. Une vé-came (S3) sous forme dun secteur cylindrique d'axe (D,7) à laquelle est attaché le repère R;(D,73,j3,2). (S3) est dune part en liaison pivot d'axe (C,2) avec (So) tel que B = (æ w3) = (Jo J3) et d'autre part en liaison pivot d'axe (B,2) avec (S3) On pose Oc = aw + bjo ; BD = DC = ej3 où a, b et e sont des constantes positives. La boule à déplacer (S4), de centre G4 et de rayon r, supposée au départ fixe dans la vé- came (S3) tel que DG4 = cx3 (c est une constante positive) puis elle devient indépendante lorsqu 'elle atteint une gouttière inclinée (S5) Une gouttière inclinée (Ss), qui possède une rainure en forme de vé à 909 , à laquelle est attaché le repère Rs(E,&5 ]s 2) tel que laxe (E,]s) soit dirigé suivant la ligne de plus grande pente et Y = (xo Js) = (yo 75) où Y est une constante positive inférieure à 2
+Une fois transférer, la boule (S4) commence à rouler sans glisser dans la gouttière (Ss). Le contact   de (S4) avec (S5) est   ponctuel en deux points 1 et J (Figure B.3) On désigne par R4 (G4, 74}4,2) le repère lié à la boule (S4) tel que 4 = (w5,74) = (zs V4). On pose IG4 = rnI, JG4 = rT où 7 et 7, sont respectivement les vecteurs normaux aux deux plans de contact de la boule avec la gouttière en I et en J tel que 71 = Y(z+2)et7 = "( - 0). 2 2 2, a, B et < sont des paramètres variables en fonction de temps. Lc champ de pesanteur est défini par g = ~gJo:
+Concours nationaux d'entrée aux cycles de formnation d'ingénicurs
+Session 2009
+Page 4
 
+--- page 7 ---
+STI MP & PC
+Dossicr Présentation_Donnécs et Hypothèses SA 73
+Jo
+Ss
+B
+X0
+B
+So
+S1
+S2
+So
+S;
+70
+Figure B.1 Schéma cinématique minimal du système de transfert des boules. S4 73 IT 10 = 2
+GA
+S3
+Figure B.2 : Système (S) regroupant la vé-came (S3) et la boule (S4) au cours de Fopération de transfert. {5 x5 Y Jo 5s 5 4|y 4
+X
+GA
+2
+Y
+S4
+y
+Ss
+Ss
+Vue de la gouttière dans le plan (G,75,2)
+Figure B.3 : Schéma de la boule (S4) en mouvement dans la gouttière (Ss) (Y est une constante et $ est un paramètre variable en fonction de temps) .
+ncouys natinnnuy /'PntrPo nuv rurlpc do {nrmntinn a'innonionvf
+02
+nann
 
+--- page 8 ---
+STI MP & PC
+Dossier Présentation, Données et Hypothèse
+PARTIE C - AUTOMATIQUE
+La présente étude est composée de deux parties indépendantes Une Partic C-1 qui port6 sur la commande séquentielle du système de transfert des boules et une Partie C-2 qui traite | régulation de température d'un four tunnel utilisé dans le traitement thermique des boules. C.l- Commande séquentielle du système de transfert L'objectif de cette étude est ]'établissement dune commande séquentielle du système dc transfert (Figure C.1). Ce demnier assure; à la fois; le dépôt des boules sortant du four tunnel dan: une gouttière et leur chargement dans des portes boules par lots de cinq boules. Pour cela, or suppose que le nombre de boules provenant du four est multiple de cinq: Le système de transfert est équipé dun dispositif   vé-came  commandé par un vérin pneumatique double effet  (VI) Les différentes positions du vérin VI sont délectées à laide de capteurs de proximité. dun capteur optique (ps) servant à détecter la présence dune boule à ['entrée de vé-came. dune gouttière de dépôt légèrement inclinée. Elle joue le rôle dune file dattente dans laquelle les boules seront refroidies lentement à air libre. dun vérin pneumatique double effet (V2) pour le blocage des boules à 1extrémité de le gouttière. Les positions du vérin V2 sont détectées à l'aide de capteurs de proximité. dun capteur optique (p2) servant à détecter la présence dune boule à lextrémité   de lê gouttière. dune porte boules dont la capacité maximale est de cinq boules.
+La capacité de stockage de boules dans la gouttière est largement supérieure à celle dans le four La température des boules à la sortie du four n'a aucune incidence sur la manipulation des boules et particulièrement leurs contacts mutuels dans la file d'attente .
+Les notations utilisées dans cette étude sont résumées comme suit
+Abréviation
+Description
+AVI
+Action d'avance du vérin VI
+RVI
+Action de retour du vérin VI
+AV2
+Action €avance du vérin V2
+RV2
+Action de retour du vérin V2
+VA
+Action de mise en marche du voyant d'alarme
 
+--- page 9 ---
+MP & PC
+Dossier Présentation_Données et Hypotheses
+Appui sur le bouton de départ du cycle Appui sur le bouton d'arrêt de chargement de boules Appui sur le bouton de reprise de chargement de boules Détcction d'une boule à Tentrée du dispositif vé-came Détection d'une boule à Textrémité de la gouttière Réponse vérin VI avancé Réponse vérin VI reculé Réponse vérin V2 avancé Réponse vérin V2 reculé Variable entière de comptage du nombre de boules chargées. Exemple : ([c <5]=1) si le nombre de boules est inférieur à cinq
+p'
+P?
+a1
+b1
+a2
+b?
+bz
+P1
+a2
+b
+Pz
+Porte boules
+VA
+Figure C.1 : Schéma de principe du système de transfert de boules.
+onaux dentrée aux cycles de formation d'ingénieurs
+Session 2009
+Page 7
+Dcy Stop Rep
+Dcy
+Stop
+Rep
 
+--- page 10 ---
+STI MP & PC
+Dossier Présentation_Données ct Hypothèscs
+Les conditions initiales nécessaires pour Famorçage du cycle automatique sont: Vérin V1 reculé
+Vérin V2 avancé
+Absence d'une boule dans la gouttière.
+Le fonctionnement du système de transfert de boules est le suivant Après avoir placé manuellement une porte-boules vide, lopérateur met le système en marche en appuyant sur le bouton <Dcyy, les  séquences de dépôt et de chargement   seront   exécutées simultanément comme suit: Dépôt La présence d'une boule à l'entrée du dispositif vé-came, repérée par ['information (p1=1), entraine lavance du vérin VI pour poser la boule dans la gouttière puis le retour du vérin VI. Si aucune boule en provenance du four n'est détectée, la séquence de dépôt s 'arrête. Chargement Après ['initialisation de la variable de comptage (c :=0), la présence d'une boule à lextrémité de la gouttière; repérée par [information (p2=1), entraine laction de retour du vérin V2, suivie d'une temporisation de 3s correspondant à la durée de passage par gravitation d'une seule boule dans la porte boule. A la fin de cette temporisation; Favance du vérin V2 est actionnée afin de bloquer la boule suivante. En suite, la variable de comptage est incrémentée (c:-c+1) Lorsque le nombre de boules chargées est inférieur à cing le chargement dune autre boule est reprit à condition qu' elle soit présente à [extrémité de la gouttière. Dans le cas où cinq boules ont été chargées ([c =5]), le voyant dalarme est allumé pour aleiter [opérateur; qui à son tour décide; soit l'arrêt de cette séquence par lappuie sur le bouton (Stop) soit la reprise du cycle de chargement. Dans ce cas, Popérateur remplace la porte boule chargée par une autre vide et donne lordre de reprise de chargement en appuyant sur le bouton (Rep)
+C.2- Régulation de la température du four tunnel : Le four industriel (Figure C.2) faisant lobjet de cette étude est un four tunnel de 50 mètres de long et de section carrée (1,6 m X 1,6 m) Ce four est utilisé dans le traitement thermique (Revenue) des boules de pétanque en acier. Le chauffage est assuré par des brûleurs répartis en quinconce, dans la zone de chauffage; sur les parois verticales du four. Tous les brûleurs  sont contrôlés par une vanne motorisée dont la valeur du diaphragme peut être ajustée d'une façon continue, réglant ainsi le débit de gaz nécessaire à la combustion. Le contrôle de débit de gaz permet de   régler   la flamme des brûleurs et par conséquent   la modification de   la  puissance calorifique injectée dans le four: On suppose que 'air nécessaire à la combustion < air primaire > arrive aux brûleurs avec un débit constant.
+Concours nationaux d'entrée aux cucles de formation d'invénieurs
+Sessinn ?0n9
+Pao
 
+--- page 11 ---
+STI MP & PC
+Dossier Présentation_ Données et Hypothèses
+Une circulation d'air à contre courant air secondaire > favorise le refroidissement de la
+charge dans   la zone dc sortie du four et son préchauffage dans   la zone dentrée. La pompe daspiration d'air secondaire fonctionne à vitesse constante; son débit est réglable par louverture du registre des fumées au niveau de la cheminée de soutirage . Les propriétés mécaniques des boules imposées par le cahier de charge ont permis de choisir une température de revenue de 4009C. La cheminée de soutirage est située à 6 m de la porte dentréc du four. La sortie du four est ouverte en penanence (entrée d'air secondaire) Le profil de température dans le four est très sensible au débit dair secondaire. Cette sensibilité est telle que la flammc des brûleurs peut se déplacer de plusieurs mètres selon la valeur de ce débit.
+Cheminée
+Capteurs   de température
+Air
+secondaire
+Entrée du produit
+Sortie du produit
+Brûleurs
+Zone de
+Zone de chauffage
+Zone de
+préchauffage
+refroidissement
+Figure C.2 Schéna du four tunnel.
+Dans cette étude, des hypothèses simplificatrices ont été considérées la charge est homogène les phénomènes de conduction dans la charge et dans la paroi sont négligeables la variation temporelle de la température de la paroi est négligeable Tair secondaire est transparent au rayonnement la température dans la charge est considérée par sa moyenne dans une section verticale dans le sens da la largeur. La transformée de Laplace dune fonction continue f(t) est notée F(p)
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2009
+Page 9
+
+--- page 12 ---
+STI MP & PC
+Dossier Présentation, Données et Hypothèses
+Plusieurs capteurs de température sont utilisés pour mesurer la température dans différents endroits de la zone de chauffage Chaque capteur délivre à sa sortie une tension proportionnelle à la température mesurée. On considère comme entrée le signal u(t) appliqué au niveau de la vanne de contrôle de débit du gaz injecté aux brûleurs. La sortie y(t) est la valeur moyenne des tensions données par les capteurs de température . Les signaux d'entrée et de sortie varient entre 0 et + 10 V.
+La sortie est exprimée en fonction de la température mesurée, 0(t), par la relation suivante y(t) = k20(t) avec k2 = 0,02 V/ C . La fonction de transfert du système formé par le four tunnel Glp) = 92 = k1 est donnée par où k1 = 50 C/V et T = 360 s_ U(p) 1+Tp On désigne par H(p) la fonction de transfert suivante H(p) = Y U(p) " On suppose qu'il existe une perturbation l(t), qui s ajoute à la sortie du système. Lc schéma fonctionnel du système en boucle ouverte est donné par la figure C.3.
+L(p)
+Y(p)
+H(p)
+Figure C.3 Schéma fonctionnel du système en boucle ouverte avec une entrée de perturbation.
+Le schéma du système en boucle fermée est décrit par la figure C.4. Le régulateur est formé dun bloc dans la chaîne directe de fonction de transfert C (p) et d'un autre dans la chaîne de retour de fonction de transfert Cz(p). La transformée de Laplace du signal de référence (ou la consigne) est notée par Yref (p) 
+L(p)
+Yref(p)
+E(p)
+U(p) C1lp)
+H(p)
+Cz(p)
+Figure C.4 : Schéma fonctionnel du système en boucle ferméc.
+Faifn'
+14 n +;nunuv 4' p11#voo 7117 Fuifloc do fnrmatinn H'innonienrc
+Session 2009
+Paç
+Y(p)

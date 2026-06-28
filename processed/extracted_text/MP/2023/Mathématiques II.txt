@@ -1,15 +1,232 @@
+--- page 1 ---
+ugl 4)a49l REPUBLIQUE TUNISIENNE Ministère de ['Enseignement Supérleur +all  2~dlg +lll fkal DJijs et de la Recherche Scientifque Concours Nationaux d'Entrée Jsisl aibjial JbLiJI aux Cycles de Fonnation d'Ingénieurs :unuie-Jl iusijxj Session 2023 2023 * )> (Préparatolre ` Laux 2 (Bibliothèque ) 6 Concours Mathématiques et Physique 0 Epreuve de Mathématiques II Gie @eSlax 7059 Session 2023 Date 06/06/2023 Durée 3 heures
+Une grande importance sera attachée à la rigueur du raisonnement; à la clarté et au soin de la présentation: Il est rappelé que tout résultat énoncé dans le texte peut être utilisé pour traiter la suite, même s'il n'a pas été démontré.
+Eusage de la calculatrice et de tout dispositif électronique est interdit:
+Notations
+K désigne le corps des nombres réels R ou le corps des nombres complexes C. Ms(K) est la K-algèbre des matrices carrées de taille 3 à coefficients dans K. GL3 (K) est le groupe des matrices inversibles dans Ms(K) S3(R) est le sous-espace vectoriel des matrices symétriques de Ms(R) Pour tout M € M3(K), on note XM son polynôme caractéristique, Sp (M) son spectre et rg (M) son rang:
+Pour 41,02,43 € K,la matrice diagonale
+42
+sera notée diag (41,42,43) 43 Une matrice M € Ms(K) est dite une matrice scalaire si M &l3 avec & € K et I3 = diag (1,1,1) la matrice identité
+Partie I
+I-A Soient E un K-espace vectoriel de dimension finie non nulle et f,8 deux endomorphismes diagonalisables de E tels que f 0 g = 8 0 f. Q.1 Montrer que les sous-espaces propres de g sont stables par f . Q.2 D Montrer que endomorphisme induit par f sur chaque sous-espace propre de 8 est diagonalisable.
 
+--- page 2 ---
+Q3 D En déduire lexistence d'une base de E formée par des vecteurs propres communs à f et g
+I-B Soit P = X3 + aX2 + bX + c € C [X]. On considère le déterminant
+0 b 0 0 2a b
+D (P) = =
+b 3 2a b 0 3 2a
+0 1 0
+0
+3
+Q.4 D On note Bc (1,X,X2,X? ,X4) la base canonique de C4 [X]. Montrer que D(P) est le déterminant dans la base Bc de la famille (P,XP ,P' ,XP' , X2p' ) , cest-à-dire
+D (P) = detBc P,XP , P' , XP' X?p') ~
+On suppose ici que D (P) = 0. Q.5 D Justifier que la famille (P,XP ,P' ,XP' , X?p') est liée. Q.6 D En déduire qu'il existe U, V € C [X] non nuls tels que deg' U < 1, deg V < 2 et UP + Vp' = 0. Q.7 Montrer que P admet une racine multiple.
+Q.8 D Montrer que
+D (P) = 4a3c _ 18abc + 463 4262 + 27c2 .
+I-C On considère les deux matrices
+(2 1 1 et B = 1 3 ~2 1 0
+A =
+2
+Q.9 D A-t-on AB = BA? Q.10 D Montrer que, pour tout z € C, le 'polynôme caractéristique de zA + B est
+XzA+B = X(X - (2+2)) (X = (3 +2z)) -
+Q.11 D Soit z € Cl {~1,~4~2}. Montrer que zA + B est diagonalisable: Q.12 D Montrer que ~A + B n'est pas diagonalisable.
+I-D Soient A,B € M3 (C) deux matrices diagonalisables. Q.13 D Montrer que
+AB = BA <> HP € GL3 (C) telle que P-1 AP et P-1BP soient diagonales. Page 2 sur 5
 
+--- page 3 ---
+Q14 D Montrer que si AB proque ? Q.15 D Montrer que si AB sable.
+BA alors A + B est diagonalisable Que peut-on dire de la réci -
+BA alors, pour tout x,y € C, la matrice xA + yB est diagonali-
+Partie II
+Dans toute cette partie on considère deux matrices A, B € M3 (C) telles que, pour tout x,y € C, la matrice xA+ yB soit diagonalisable et on se propose de montrer que AB BA.
+II-A On suppose qu'il existe xo,Yo € Cnon tous deux nuls tels que xoA + yoB admet une valeur propre triple Q.16 D Montrer que xoA + yoB est une matrice scalaire. Q.17 D En déduire que AB BA.
+II-B On suppose que A = diag (0,0,1) et que B = (bij)1<ij<s; Q.18 D Montrer que, pour tout z € C, le polynôme caractéristique XzA+B de la matrice zA + B est donné par
+XzA+B
+XB zX? _ +z (b11 + b22) X _ z (b11b22 b12b2i) ,
+où XB est le 'polynôme caractéristique de B. II-C On suppose que A diag (0,0,1) et que B = (bij)isijss vérifie rg (B) = 1et B2 = B. Q.19 D Montrer que XB = X3 _ X2 et que b11b22 b12b21 = 0 Q.20 D En déduire que, pour tout z € C, le polynôme caractéristique XzA+B de la matrice zA + B est donné par
+XzA+B = X (x? _ (z +1) X+ (b11 + b22) z)
+Q.21
+Montrer que si b11 + b22 = 0 alors AB = BA. Indication On pourra remarquer que X-A+B = X3 . On suppose que b1l + b22 # 0. Q.22 D Montrer qu'il existe Zo € C* tel que zoA + B admette une valeur propre double Ao € C*- Q.23 D Montrer que rg (zoA + B _ Aols) = 1. Q.24 D En déduire que b13 b23 b31 b32 = 0 puis que AB = BA.
+Page 3 sur 5
 
+--- page 4 ---
+II-D On suppose maintenant que A et B admettent chacune une valeur propre double et une valeur propre simple. On pose Sp (A) = {~,B} et Sp (B) = {A,u}, où & est la valeur propre double de A et B sa valeur propre simple; ^ est la valeur propre double de B et u sa valeur propre simple. Q.25 D Montrer qu'il existe P € GL3 (C) telle que P-1 AP = diag (&,& , B). On pose
+A1
+P-1 (A - &ls) P et B1 2 -P-1 (B ÀI3) P B = & u = ^
+Q.26 D Montrer que A1 diag ( (0,0,1). Q.27 D Montrer que (B1)? = B1 et rg (B1) = 1. Q.28 D Montrer que, pour tout x,y € C, xA1 + yB1 est diagonalisable. En déduire que A1B1 B1A1. Q.29 D Montrer que AB = BA.
+II-E On suppose ici que A = diag (0,0,1) et que B = (bij)1<ij<3 vérifie b11b22 b12b21 0. On pose XB X3 + a2X2 + a1X + ao, le polynôme caractéristique de B. Q.30 D Montrer que, pour tout z € C, le polynôme caractéristique XzA+B de la matrice zA + B est donné par
+XzA+B = x3 + (a2 - z) X2 + (a1 + z (b11 + b22)) X + ao.
+On suppose que b11 + b22 0
+Q.31
+Montrer que si 01 @o =0 alors AB BA Indication On pourra considérer la matrice a2A + B. On suppose que 01 # 0ou ao # 0. Q.32 Montrer que D (XzA+B) est une fonction polynomiale en z de degré strictement positif Indication Utiliser le résultat de la question Q.8. Q.33 D En déduire qu'il existe z0 € C tel que zoA + B admet une valeur propre mul- tiple ^o. Q.34 D Montrer que zoA + B commute avec puis que AB BA. On discutera sui- vant la multiplicité de la valeur propre Ao.
+On suppose que b11 + b22 # 0. Q.35 Montrer que D (XzA+B) est une fonction polynomiale en z de degré 4. Q.36 D En déduire qu'il existe z0 € C tel que ZoA + B admet une valeur propre multiple. Q.37 D Montrer que zoA + B commute avec A puis que AB = BA
+Page 4 sur 5
 
+--- page 5 ---
+II-F On suppose que A admet une valeur propre double & et une valeur propre simple B. Q.38 Montrer quil existe P € GL3 (C) telle que p'æP-1 (A - &l3) P = diag (0,0,1). Q.39 D On pose P-1BP bj , Montrer qu'il existe t € C tel que 1<i,j<3
+(b11 = t) (b22 = t) b12b21 = 0
+Q.40 D Montrer que diag (0,0,1) et P-'BP _ tIs commutent:. En déduire que AB BA.
+II-G On suppose ici que A = diag (0,1,u), avec u € C*| {1} On admet qu'il existe b1, b2, b3, b4, b5, b6 € C tels que, pour tout z € C, le polynôme caracté - ristique XzA+B de la matrice zA + B est donné par la formule
+XzA+B = X3_ 92 (z) X2 + @1 (z) X+ P (z) ,
+où 02 (z) = (u+1)z+ b1, Q1 (z) = uz2 + b2z + b3 et @ (z) = b4z2 + bsz + b6. Q.41 D Montrer que D (XzA+B) est une fonction polynomiale de degré 6 en z. Q.42 D Montrer alors qu'il existe z1 € C tel que Z1A + B admet une valeur propre multiple. Q.43 D Montrer que Z1A + B commute avec A. En déduire que AB = BA.
+II-H
+Q.44 D En distinguant les trois cas suivants A ou B admet une valeur propre triple; A et B admettent chacune une valeur propre double et une valeur propre simple; A ou B admet 3 valeurs propres simples, montrer que AB BA.
+Partie III
+Q.45 Soient A, B € S3 (R). Montrer que, pour tout x,y € R, xA + yB est diagonalisable. Q.46 Soient A,B € M3 (R) telles que, pour tout x,y € R,la matrice xA + yB soit diagonalisable. A-t-on AB BA ? Justifier votre réponse.
+Fin de lépreuve *
+Page 5 sur 5
 
+--- page 6 ---
+4al 4)34-441 çai esdlJ +llll relal jJiju Jsisl bjl 9) jLiJI MJi BsiJal > 5 2023 3 )>
+REPUBLIQUE TUNISIENNE Ministère de FEnseignement Supérieur et de la Recherche Scientifique Concours Nationaux d Entrée aux Cycles de Fomation d'Ingénieurs Sessiou 2023
+Concours Mathématiques et Physique Corrigé de 1Epreuve de Mathématiques II Session 2023 Date 06/06/2023 Durée 3 heures
+Notations
+K désigne le corps des nombres réels R ou le corps des nombres complexes C. Ms(K) est la K-algèbre des matrices carrées de taille 3 à coefficients dans K GL; (K) est le groupe des matrices inversibles dans M;(K) S3(R) est le sous-espace vectoriel des matrices symétriques de Ms(R) Pour tout M € M3(K), on note XM son polynôme caractéristique, Sp (M) son spectre et rg (M) son rang G1 Pour %1,82,83 € K, la matrice diagonale 42 sera notée diag (41,82,03) 03 Une matrice M € Ms(K) est dite une matrice scalaire si M &l3 avec & € Ket I3 diag (1,1,1) la matrice identité
+Partie I
+I-A Soient E un K-espace vectoriel de dimension finie non nulle et f ,8 deux endomorphismes diagonalisables de E tels que f 0 8 = g0 f . Q1D Montrer que les sous-espaces propres de g sont stables par f . Comme f et g commutent alors les sous-espaces propres de g sont stables par f Q2D Montrer que lendomorphisme induit par f sur chaque sous-espace propre de 8 est diagonalisable Soit F un sous espace propre de g. Comme f est diagonalisable et F est stable par alors f induit sur F un endomorphisme diagonalisable_ Q.3 D En déduire lexistence d'une base de E formée par des vecteurs propres communs à f et g. Pour tout ^ € Sp (g) , Yendomorphisme fx induit par f sur Ex (g) est diagonalisable; Donc, pour tout 1 € Sp (g), Ex (g) admet une base Ba formée par des vecteurs propres de fa et donc de f . Par suite B^ est une base de Ex (g) formée par des vecteurs propres communs à f et g D'autre part, 8 est diagonalisable donc E Ex (g), et par conséquent B U Bx est une base de E formée par des vecteurs eSp(g) AeSp(g) propres communs à f et &
 
+--- page 7 ---
+I-B Soit P = X3 + aX? + bX + c € C [X]. On considère le déterminant
+2a 2a 2a
+D (P)
+Q4D Onnote Bc (1,X,X?,x3,X4) la base canonique de C4 [X]. Montrer que D(P) est le déterminant dans la base Bc de la famille (P,XP,P' , XP' , X?P') , cest-à-dire
+D (P) detB (P,XP ,P' ;XP' ,X?P)
+P =c+bX+ aX? + X3 + OX4 XP =0+cX +bX2 + aX2 + X4 , On a p' = b+2aX +3X2 + ox? +Ox4 , XP' = 0+bX + 2aX? + 3X3 + OX4 , X?p' =0+OX+bX2 + 2aX3 + 3X4 . Donc la matrice de la famille (P,XP,P' , XP' , X?p') dans la base conanonique est donnée par
+2a 2a 2a
+MBc (P;XP ,P' ,XP' ,X?p)
+Par suite
+2a 2a
+detBc (P,XP,P' ,XP' ,X2P)
+=D(P) . 20
+On suppose ici que D (P) = 0. Q.5D Justifier que la famille (P,XP ,P' ,XP' X?P') est liée: Comme detBc (P,XP,P' ,XP' ,X?P') = D (P) 0 alors la famille (P,XP ,P' ,XP' , X?p') est liée. Q6D En déduire qu'il existe U, V € € [X] non nuls tels que deg U < 1, deg V < 2et UP + VP' = 0. La famille (P,XP,P' ,XP' ,X?P') est liée, donc il existe 00,81,82,83,84 € Cnon tous nuls tels que
+œoP + œ1XP + œ2P' + œ3XP' + œ4X?p' = 0.
+On pose U 80 + œ1X et V 42 + "3X + œ4X? , alors U,V € C[X], degU < 1, deg V < 2 et UP + VP' 0. Comme les &; ne sont pas tous nuls alors U # Oou V # 0.Si U = 0 alors VP' =0 et comme Pl + 0, on obtient V = 0, ce qui est absurde Donc U # 0. De la même façon on prouve que V + 0. Q.7 D Montrer que P admet une racine multiple. Si P admet 3 racines simples X1, *2 et x3 alors, pour tout i {1,2,3}, P (xi) 0 et P' (x;) En utilisant la relation UP + VP' 0, on obtient, pour tout i € {1,2,3}, V (x;) P' (xi) 0. Donc pour tout i € {1,2,3}, V (x;) 0, ce qui est absurde car V non nul, deg V < 2 et admet 3 racines distinctes. Donc P admet une racine multiple
+Page 2 sur 11
 
+--- page 8 ---
+Q8 D Montrer que
+D (P) = 403c = l8abc + 463 0262 + 27c2
+On a
+2a
+2a 2a
+3c 2b
+3C,)
+D (P)
+2a 2a
+~3c 2a ~2b ~3c + ab 70 ~2b + 02
+2a ~3c (C,+-CJ-3C1_Gut-CstaCi) 20 ~2b
+~3c 3c (C;+-C+fC2) 2a ~26 ~3c + ab 2a ~2b ~3c + $ 7a ~2b +02| 1 ~2b + 2 ~2b ~3c + % |2a ~3c + 4 +3c =a ~2b + 24 ~2b + 23 02b 03 =b ( 462 +0 3c + +3c 4ab +4 3 =3 (~3c+ 4 0262 0262 463 3abc + 12abc + 4a3c + 27c2 _ 3abc
+403 c 18abc + 463 0262 + 2722 .
+I-C On considère les deux matrices
+1
+et B =
+Q9D A-t-on AB = BA? On a
+2 AB =
+et BA =
+donc AB + BA.
+Q.10 D Montrer que, pour tout z € C,le polynôme caractéristique de zA + B est
+XzA+B = X(X _ (2+z)) (X _ (3+22z)) .
+Page 3 sur 11
 
+--- page 9 ---
+Soit z € C. On a, pour tout ^ € C,
+la = 2 - z 41 XzA+B (4) 21 1 = 3 - 2z ~1 21 la =3 _ 2z 1 = 3 = 2z (1 = 2 _ z) 2+|: 4-|: 21 =1 (^ -2-2) ((4 -3-22)4+2) - 4+2-1 - (^ -3 - 2z) (4 -2-2) (12 _ (3+22)4+2) -24+4+2z =(A-2-2) (42 _ (3+22)4+2-2) =À (4 _ (2+2)) (4 = (3+2z))_
+Donc XzA+B = X(X = (2+z)) (X _ (3+2z))
+Q.11 > Soit z € C| {-1, ~2,~2} Montrer que zA + B est diagonalisable. Si z € C| {~1,-2,-2} alors 2+ z # 0,3+2z # 0 et 2+z # 3+ 2z, donc XzA+B est scindé à racines simples par suite zA + B est diagonalisable: Q.12D Montrer que ~A+ B n'est pas diagonalisable. X-A+B = X(X ~ 1)2 donc 1 est une valeur propre double de ~A + B. D'autre part
+y+z =0 (~A+B)X=X <+ x _ 2z = 0 44y=-Zetx = 22 ++ X € Vect x+y-2 =0
+Donc dim E1 (~A+ B) = 1 # 2la multiplicité de 1 comme valeur propre de ~A + B.Donc ~A + Bn'est pas diagonalisable.
+I-D Soient A, B € Ms (C) deux matrices diagonalisables. Q.13 D Montrer que
+AB = BA < > HP € GL; (C) telle que P-1 AP et P-1 BP soient diagonales.
+4=) Supposons quil existe P GL; (C) telle que P-1AP et P-'BP soient diagonales. Donc (P-'AP) (P-'BP) (P-'BP) (P-1AP)_ Puis P-1 ABP = P-IBAP et enfin AB = BA =) Supposons que AB BA.Onnote f et g les endomorphismes de M1,3 (C) canoniquement associés à A et B respectivement. Alors f et g sont diagonalisables et f 0 8 = g0 f. D'après la partie LA, M13 (C) admet une base B formée par des vecteurs propres communs à f et 8. Donc MB (f) et MB (g) sont deux matrices diagonales. Notons P la matrice de passage de la base canonique Bc de M13 (C) à la base B Alors P € GL; (C) et MB (f) = P-'MB. (f) P = P-'AP et MB (g) = P-1MB. (g) P = P-JBP.
+Donc il existe P € GL; (C) telle que P-1 AP et P-1BP soient diagonales.
+Page 4 sur 11
 
+--- page 10 ---
+Q.14D Montrer que si AB = BA alors A + B est diagonalisable. Que peut-on dire de la réciproque? Comme AB BA alors il existe P € GL; (C) telle que P-1AP et P-IBP soient diagonales Alors P-1 (A+B) P = P-'AP + P-IBP est diagonale Donc A + B est diagonalisable. La réciproque est fausse Les matrices A et B de la partie I-C sont diagonalisables telles que A + B est diagonalisable sans que AB = BA Q15 D Montrer que si AB BA alors, pour tout x,y € C,la matrice xA + yB est diagonalisable. Comme AB BA alors il existe P € GL; (C) telle que P-1AP et P-IBP soient diagonales. Donc, pour tout x,y € C, P-1 (xA+yB) P = xP-1 AP '+yP-'BP est diagonale, par suite x A + yB est diagonalisable:
+Partie II
+Dans toute cette partie on considère deux matrices A, B € M3 (C) telles que, pour tout X,y € C,la matrice xA + yB soit diagonalisable et on se propose de montrer que AB BA. IL-A On suppose 'qu'il existe Xo, Yo € Cnon tous deux nuls tels que xoA + yoB admet une valeur propre triple. Q16 D Montrer que XoA + YoB est une matrice scalaire. Comme XoA + YoB est diagonalisable et admet une valeur propre triple & alors
+XoA+ YoB P-1 diag (œ,8,4) P = P-1 (œIs) P = &P-1P &l3.
+Donc XoA + yoB est une matrice scalaire Q.17 D En déduire que AB BA Comme xoA + yoB est scalaire alors elle commute avec A et avec B : (xoA + yoB) A = A (*oA + yoB) et (xoA+ yoB) B = B (xoA + yoB) Donc YoBA YoAB et xoAB = xoBA. Puisque xo # 0 ou yo # 0 on en déduit que AB BA.
+II-B On suppose que A diag (0,0,1) et que B = (bij)1sijss; Q.18 D Montrer que, pour tout z € C, le polynôme caractéristique XzA+B de la matrice zA + B est donné par
+XzA+B XB zX2 + z (b1l + b22) X _ z (b11b22 b12b21)
+où XB est le 'polynôme caractéristique de B. Soit z € C. Alors, pour tout ^ € C,
+Ja = b11 ~b12 ~b13 XzA+B (4) = ~b21 4 = b22 ~b23 -b31 b32 1 _ b33
+b11 b12 ~b13 b21 4 = b22 b23 b31 b32 1 = b33
+1 = b11 -b12 ~b13 b21 À = b22 ~b23 ~b31 b32 1 = b33
+b1l b12 b21 4 = b22 b31 b32 ~z
+4 = b11 b12 XB (4) = z ~b21 1 = b22 =XB (4) -z (12 _ (b11 + b22) 4 +b11b22 b12b21
+Donc XzA+B XB zX2 + z (b11 + b22) X _ z (b11b22 b12b21 )
+Page 5 sur 11
 
+--- page 11 ---
+II-C On suppose que A diag (0,0,1) et que B = (bij)1<ijss vérifie rg (B) = 1et B2 = B Q.19 D Montrer que XB X? X2 et que b11b22 b12b21 On a B2 =0 donc Sp (B) € {0,1} Comme rg (B) alors dim Ker (B) 2 par suite 0 est une valeur propre double et 1 et une valeur propre simple (car B est diagonalisable) donc XB = X2 (X - 1) X3 _ X2_ On rg (B) 1 donc les matrices dordre 2 extraites de B ne sont pas inversibles, en particulier b11 b12 b11 b12 n'est ps inversible et son déterminant est donc nul b11b22 b12b21 b21 b22 [b21 b22 Q20 > En déduire que, pour tout z € C,le 'polynôme caractéristique XzA+B de la matrice zA + B est donné par
+XzA+B x (x? _ (z+1)X+ (b11 + b22) 2)
+A laide de la question Q.18, pour tout z € C,
+XzA+B = XB ~zX2 + z (b1l + b22) X =x _ X? _ zX2 + 2 (b1l + b22) X =x (x2 _ (z+1) X+ (b11 + b22) z)
+Q21 Montrer que si b11 + b22 0 alors AB = BA. Indication On pourra remarquer que X-A+B = X? Supposons que b1l + b22 0. Alors XzA+B X (x2 (z +1) X) et en particulier %-A+B X3 . Donc ~A+ B admet une valeur propre triple 0. Daprès la question Q.17, AB = BA On suppose que b11 + b22 # 0. Q22 D Montrer 'quil existe Z0 €' tel que zoA + B admette une valeur propre double 1o € C* Pour tout z C, XzA-+B X (x2 _ (z+1) X + (b11 + b22) z) . Comme le discriminant 4(z) (z + 1)2 _ 4 (b11 + b22) z est une fonction polynomiale de degré 2 en z et A (0) = 1 # 0 alors existe Z0 € C* tel que (zo) 0. Donc le trinôme de second degré X2 (z0 +1) X+ (b1l + b22) z0 admet une racine double ^o € C. Comme 0 n'est pas une racine de ce trinôme alors 10 # 0. Donc XzoA+B X (x? _ (z0 + 1) X+ (b11 + b22) z0) admet une valeur propre double Ào € C*. Q23 D Montrer que rg (zoA + B _ Aols) = 1 On ZoA + B est   diagonalisable et 40 est une valeur   propre double de ZoA 4 B donc dimKer (zoA + B - Aols) = 2 On en déduit que
+rg (zoA + B _ Aol3) = 3 -2 = 1
+Page 6 sur 11
 
+--- page 12 ---
+Q24 D En déduire que b13 b23 b31 b32
+puis que AB = BA.
+b11 Ao b12 b13 On a ZoA + B _ Aols b21 b22 = 10 b23 de rang 1, donc les déterminants b31 b32 Z0 + b33 Ao |b21 b22 40 dordre 2 extraits de zoA + B - 4ol3 sont nuls. Donc 0, c'est à dire b21b32 b31b22 [b31 b32 [b21 b22 b31^o 0. Or b21b32 b31b22 0 (car B est de rang 1) donc b314o =0 puis b31 0 (car [b31 b32 40 # 0) De la même façon b13 b23 b32 b11 b12 Donc B = b21 b22 puis AB BA. b33 b33
+IL-D On suppose maintenant que A et B admettent chacune une valeur propre double et une valeur propre simple. On pose Sp (A) = {",B} et Sp (B) = {4,u}, où & est la valeur propre double de A et B sa valeur propre simple; 1 est la valeur propre double de B et u sa valeur propre simple. Q25 D Montrer quil existe P € GL; (C) telle que P-1 AP = diag (4,4,B). On pose
+A1 ~P-1 (A œl3) P et B1 B = *
+P-1 (B _ Xls) P. k = ^
+La matrice A est diagonalisable avec & comme valeur propre double et B comme valeur propre simpler donc A est semblable à la matrice diag (~,4,B). Donc il existe P GL; (C) telle que P-1 , AP diag (4,&,B)  Q.26 D Montrer que A1 diag (0,0,1) On a
+A1
+1P-1 (A = &l3) P P - & (P--AP _ œl3 B = % (diag (a,&,B) &I3) diag (0,0,B = &) = diag (0,0,1). B = & B - &
+Q.27 D Montrer que (B1)2 B1 et rg (B1) = 1 B1 HP-1 (B _ AIs) P P-1 1 7=T (B _ Als) P. Donc B1 est semblable à la matrice 7x (B Als) Comme Sp (B) {À,u} alors Sp (Ux (B _ 1ls)) {0,1} . Puisque B est diagonalisable alors B1 est diagonalisable et donc le polynôme X (X _ 1) annule B1. On en déduit que (B1)? = B1. Comme 4 est une valeur propre double de B alors 0 est une valeur propre double de B1. Donc dim Ker B1 = 2et rg (B1) dim Ker B1 = 1.
+Page 7 sur 11
 
+--- page 13 ---
+Q28 D Montrer que, pour tout x,y € C,xA1 + yB1 est diagonalisable. En déduire que AjB1 B1A1. Soit x,y € C. Alors
+xA1 +yB1 = x 1EzP-1 (A-als) P) +y 5 (75P-1(B -Al) P) P-1 B (A - &ls) + 727(B-Als)) p P-1 ~A+ ~B_ xa + B = œ # =1 B - & ))2
+Comme g4A+ 7 x B est diagonalisable alors gErA+ %TB - (u=z + %Àx) Is est aussi diagonalisable Par similitude; xA1 + yB1 est aussi diagonalisable. On a A1 diag (0,0,1), (B1)? B1, rg (B1) = 1 et, pour tout x,y € C, xA1 + yB1 est diagonalisable donc; d'après la partie II-C, A1B1 B1A1. Q29 D Montrer que AB BA On pose A1 B4 P-1 (A - &l3) P et B1 HxP-1 (B _ AIs) P et   A1B1 B1A1, donc (A œl3) (B _ Àlz) (B _ Al,) (A - &Is) . En développant; on obtient AB ~B _ AA + &Als BA &B AA + &Al3 puis AB = BA.
+IL-E On suppose ici que A diag (0,0,1) et que B (bij)1<i,jss vérifie b11b22 b12b21 0. On pose XB X3 + @2X2 +G1X + 00, le 'polynôme caractéristique de B. Q.30 D Montrer que, pour tout z € C,le polynôme caractéristique XzA+B de la matrice zA + B est donné Par
+XzA+B x3 + (02 ~z) X2 + (01 +z (b1l +b22)) X+ a0.
+A laide de la question Q.18, pour tout z € C,
+XzA+B XB - zX2 + z (b11 + b22) X X3 + a2X2 + @1X + @0 zX2 + z (b11 + b22) X X? + (02 ~ z) X2 + (a1 + z (b11 + b22)) X + ao.
+On suppose que b1l + b22
+Q31 D Montrer que si 41 4o 0 alors AB = BA Indication On pourra considérer la matrice @2A + B. Supposons que %1 = Go 0. Donc; pour tout z € C, XzA+B x3 + (a2 = z) X? et, en particulier pour 02, XazA+B X? . Donc a2A + B admet 0 comme valeur propre triple Daprès la question Q.17, AB = BA On suppose que @1 # 0ou % # 0. Q32 D Montrer que D (XzA+B) est une fonction polynomiale en z de degré strictement positif. Indication Utiliser le résultat de la question Q.8. On a, pour z € C, XzA+B X3 + (a2 = z) X2 + a1X + 40 donc, à laide de la question Q.8,
+D (XzA+B) 4ao (a2 2)3 184041 (a2 = z) 44 (01)3_ (a1)2 (a2 2)2 +27 (00)2
+Si 40 # 0 alors D (XzA+B) est une fonction 'polynomiale en z de degré 3. Si 40 0 alors 41 # 0 et D (XzA+B) = 4 (01)3 (a1)2 (a2 z)? est une fonction polynomiale en z de degré 2 Donc D (XzA+B) est une fonction polynomiale en z de degré strictement positif.
+Page 8 sur 11
 
+--- page 14 ---
+Q33 D En déduire qu'il existe z0 € Ctel que zoA + B admet une valeur propre multiple 10. Comme D (XzA+B) est une fonction polynomiale en 2 de degré   strictement positif alors D (XzA+B) admet une racine z0 dans C. Par suite D (XzA+B) 0. Daprès la question Q.7, le |polynôme XzoA+B admet une racine multiple ^o. Donc la matrice zA + B admet une valeur propre multiple 1o. Q.34D Montrer que zoA + B commute avec A puis que AB BA. On discutera suivant la multiplicité de la valeur propre 1o. Si 10 est une valeur propre triple de zoA + B alors AB = BA daprès la question Q.17. [Supposons maintenant que 1o est une valeur propre double de zoA + B et B1 ZoA + B. Alors, pour tout x,y € C, xA + yB1 xA +y (zoA + B) (x+yzo) A +yB est diagonalisable avec diag  (0,0,1) admet une valeur propre double 0 et une valeur propre simple 1 et B1 ZoA 4 B admet une valeur propre double 1o et une valeur propre simple. Daprès la question Q23, AB1 B1A. Il s'ensuit que A (zoA + B) (zoA+ B) A et en développant on obtient AB = BA.
+On suppose que b11 + b22 + 0. Q.35 D Montrer que D (XzA+B) est une fonction polynomiale en z de degré 4. On a, pour z € C, XzA+B x3 + (02 ~ z) X2 + (a1 + 2 (b11 + b22)) X + %. Donc (XzA+B) 4a0 (02 2)3 1840 (01 + z (b11 + b22)) (a2 = z) +4(01 + z (bul + b22))3 (a2 2)2 (a1 +z (b11 + b2))? + 27 (40)? .
+Le terme (a2 2)2 (01 + z (bu1 + b22))? est de degré 4 et tous les autres termes ont des degrés stricte - ment inférieurs à 4, donc D (XzA+B) est une fonction polynomiale en z de degré 4. Q36 D En déduire qu'il existe z0 € Ctel que zoA + B admet une valeur propre multiple. Comme D (XzA+B) est une fonction polynomiale en z de degré 4 strictement Positif alors D (XzA+B) admet une racine z0 dans C. Par suite D (xzA+B) 20 D'après la question Q.7,le polynôme XzoA+B admet une racine multiple ^o. Donc la matrice zoA + B admet une valeur propre multiple. Q37 D Montrer que zoA +B commute avec A puis que AB BA Si zoA + B admet une valeur propre triple alors AB = BA daprès la question Q.17. [Supposons que zA + B admet une valeur propre double. Alors, pour tout x,y C, xA + y (zoA + B) = (x+yz0) A + yB est diagonalisable avec A diag (0,0,1) admet une valeur propre double et une valeur propre simple et ZoA + B admet une valeur propre double et une valeur propre simple. Daprès la question Q.29, A (zoA + B) (zoA+ B) A et en développant on obtient AB BA
+II-F On suppose que A admet une valeur propre double & et une valeur propre simple B. Q38 D Montrer 'quil existe P € GL; (C) telle que p'4P-1 (A œI3) P = diag (0,0,1). La matrice A est diagonalisable avec & comme valeur propre double et 8 comme valeur propre simple, donc A est semblable à la matrice diag (*,&,B). Donc il existe GL; (C) telle que P-1AP diag (a,&,B). Donc
+P-1 (A - œl3) P = (P-1 AP _ &ls B = & B = & (diag (a,4,B) &l3) = diag (0,0,B _ œ) = diag (0,0,1) ~ B = & B = &
+Page 9 sur 11
 
+--- page 15 ---
+Q.39 D On pose P-IBP
+bij , Montrer qu'il existe t € Ctel que 1<i,j<3
+(b11 = t) (b22 = t) _ 812b21 =O
+L'équation (B11 ~ t) (b22 = t) ~ 812b21 0 dinconnue t € C est une équation de second degré, donc elle admet au moins une solution Donc ilexiste t € Ctel que (b11 = t) (b22 ~ t) ~ 812b21 Q.40 D Montrer que diag (0,0,1) et P-IBP tI3 commutent. En déduire que AB = BA *) Pour tout x,y € C,
+xdiag (0,0,1) +y (P-IBP_ tl3 =X P-1 (A - œls) P+y (P-'BP _ tIs B = & =P1 x xQ 6=%A+yB _ B = & ~yt) 1s ) P.
+Comme pÉzA + yB est diagonalisable alors pÉzA + yB _ (#@ - yt) I, est diagonalisable. Comme xdiag (0,0,1) +y (P-'BP tI3) est semblable à pEzA+yB _ 32 ~ yt) I, alors elle est aussi diagona- lisable. b11 = t b12 b13 #) On a P-'BP _ tI3 821 b22 =t b23 avec (Bu1 - t) (U22 ~ t) - B2b21 0. b31 b32 b33 = Donc, daprès la partie II-E, diag (0,0,1) et P-IBP _ tIs commutent:. Il vient que Pdiag (0,0,1) P-1 344 (A &ls) et P (P-'BP - tIs) P-1 = B -tIs commutent; et on en déduit facilement que AB = BA
+II-G On suppose ici que A diag (0,1,u), avec u € C*| {1} On admet qu'il existe b1, b2, b3, b4, b5, b6 €c tels que, pour tout z € C, le polynôme caractéristique XzA+B de la matrice zA + B est donné par la formule
+XzA+B = X3 92(z)X2 + P1(z)X + P(z),
+où 42(2) = (u + 1)z +b1, 91(z) = uz2 + b2z + b3 et @0(z) b422 + bsz + b6. Q41D Montrer que D (XzA +B) est une fonction polynomiale de degré 6 en z. Pour tout z € C;
+D (XzA+B) = 4 ((u+I)z +b1)3 (b42? + bsz + b6 ) 18 ((u +1)z + b1) (u2 +b22 +b3) (b42? +bsz + b6 , +4 (u2? +b2z +b) ((u+1)2+b1)2 (u2?+b22+b3) +27 (b422 + bsz + b6)? .
+Tous les termes de cette somme sont des fonctions polynomiales de degrés strictement inférieurs à 6 sauf [peut être 4 (uz2 + b2z + b3)3 ((u+1)z+b1)2 (uz2 + b2z + b3) 2 qui a un degré inférieur ou égal à 6. Le coefficient de z6 dans ce terme est 4u3 (u + 1)2u2 u2 (4u (u + 1)2) ~u2 (u _ 1)2 # 0, car u # 0 etu # 1. Donc D (XzA+B) est une fonction polynomiale de degré 6 en z Q42 D Montrer alors quil existe z1 € C tel que z1A + B admet une valeur propre multiple Comme D (XzA+B) est une fonction polynomiale en z de degré strictement positif alors il existe z1 €€ tel que D (XzA+B) 0. Donc XzA+B admet une racine multiple ou, de façon équivalente, z1A + B admet une valeur propre multiple.
+Page 10 sur 11
 
+--- page 16 ---
+Q.43 D Montrer que z1A + B commute avec A. En déduire que AB = BA. Si z1A + B admet une valeur propre triple alors, daprès la partie II-A, AB = BA [Supposons que z1A + B admet une valeur propre double. On a, pour tout x,y € C,x (z1A+ B) +yA = (xz1 +y) A+ rB est diagonalisable; #*) la matrice z1A + B admet une valeur propre double. Daprès la question Q.40,z1A + B commute avec A. Ona (z1A + B) A = A (z1A + B) donc Z1A? + BÂ = 21A2_ + AB par suite AB = BA
+IL-H
+Q44 D En distinguant les trois cas suivants A ou B admet une valeur propre triple; A et B admettent chacune une valeur propre double et une valeur propre simple; A ou B admet 3 valeurs propres simples , montrer que AB BA.
+Premier cas Aou B admet une valeur propre triple alors, daprès la Partie II-A, AB BA. Deuxième cas A et B admettent chacune une valeur propre double et une valeur propre simple alors, daprès la Partie II-D, AB BA Troisième cas A ou B admet 3 valeurs propres simples. Comme A et B jouent des rôles symétriques on peut supposer sans perdre de généralité que la matrice A admet 3 valeurs propres simples &,B et Y Comme A est diagonalisable alors il existe P € GL; (C) telle que P-1 AP diag (4,B,Y) . Donc BœP-1 (A -œl3) P p44 (P-1AP &l3) diag (0,1,0) avec a = 7=" # 0eta # 1 (car Y # & et 7 # B). Observons maintenant que, pour tout x,y C diag (0,1,0) yP-1BP P-1 (zÉzA+yB 3*Is P est diagonalisable Daprès   la partie II-G, diag (0,1,0) et P-IBP commutent. Donc P-1 (A &ls) P et P-IBP commutent aussi et, par similitude A &l3 et B commutent. On en déduit que AB BA
+Partie III
+Q.45 D Soient A, B € S3 (R). Montrer que, pour tout x,y € R, xA + yB est diagonalisable Soient x,y € R. La matrice xA + yB est symétrique réelle donc elle est diagonalisable. Q.46 D Soient A,B € Mp (R) telles que, pour tout x,y € R, la matrice xA + yB soit diagonalisable. A-t-on AB BA? Justifier votre réponse. La réponse est "Non
+Soient A
+et B =
+22
+Comme A, B € S3 (R) alors, pour tout x,y € R,xA + yB est diagonalisable. 10 AB = 10 et BA = donc AB + BA.
+* Fin de lépreuve *
+Page 1l sur 11

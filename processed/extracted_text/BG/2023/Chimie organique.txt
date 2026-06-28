@@ -1,25 +1,522 @@
+--- page 1 ---
+Instructions
+Cette épreuve comporte 14 pages dont 01 blanche. Les deux (02) problèmes sont indépendants: Les questions dans_tout le_sujet_sont représentées_par_la_lettre Q : QI (question 1 Q2 (question 22 Parfois_deux questions_peuvent être_posées ensembles . Tout résultat doit être écrit dans les cadres adéquats. Aucun échange entre les candidats n 'est autorisé . Si au cours de lépreuve, un candidat repère ce qui lui semble être une erreur d'énoncé, il la signale sur sa copie et poursuit sa composition en indiquant les raisons des initiatives qu'il est amené à prendre.
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 14 PAGES NUMEROTÉES 1 sur 14, 2 sur 14,-  , 14 sur 14.
+1
+ 
+Chimie organique
+ 
+
+Page 1 sur 14
+Concours Biologie et Géologie- Session Juin 2023
+
+--- page 2 ---
+Remarques, notations et données numériques Numéros   atomiques Z H = 1, C = 6, N = 7, 0 = 8 Br = 35 (Masse atomique-80) Le groupe phényle peut être noté C6Hs-, Ph- ou Déplacements chimiques en RMN 'H de quelques groupes
+Protons CH3
+8 ppm Protons   CH2
+8 ppm
+Protons CH
+6 ppm
+CH;-C
+0.9
+CH2-C
+1.3
+CH-R
+1.5
+CH3-C-0
+1.3 CHz-C-0
+1.9
+CH-C-0
+2.0
+CH,-C-C
+1.6 CHz-C=C
+2.3
+CH-C-C
+2.6
+CH;-Ar 2.3
+2.1 -
+CHz-Ar
+2.6-2.8
+CH-Ar
+3.0
+CHz-CO-R
+2.3-2.4
+CH-CO-R
+2.7
+CH3-CO-R
+2-2.2
+CHz-N
+2.4-3
+CH-N
+2.8
+CHs-NH2 2.3
+2.1 -
+CH2-0
+3.2-3.4
+CH-O
+3.7-3.9
+CH3-0
+3.3
+CH2-O-CO
+4.1-4.3
+CH-CI
+4.1-4.3
+CHz-C-CI
+1.4-1.6 CHz-CI
+3.6-3.7
+CH-Br
+4.2-4.4
+CH3-C-Br
+1.6-1.9 CO-CH2-Br
+4.1-4.5
+CH-I
+4.3-4.4
+CH3-C-CI
+1.8-2 CH2-I
+3.2-3.3 6 9
+CH-Aromatique (Ph) 6,4-8,5
+Protons portés par un hétéroatome R-OH Ar-OH R-NH2 (R-NH-) Tables Infra-Rouge
+6 ppm
+0.7-5.5 4.5-7.1 0.6-6
+Liaison Nombre dondes en cm CC 1600-0650 C=C 2100-2220 O-H libre 3500-3700 C-O-C (éthers;_esters 1050-1260 C-0 amides 1630-1710 COcétones_aldéhydes_ 1650-1740 COacides carboxyliques 1660-1740 C-0 esters 1700-1750 CzO halogénures d acides 1785-1815 N-H amines (primaires , 3100-3500 secondaires 
+Page 2 sur 14
+Concours Biologie et Géologie- Session Juin 2023
+
+--- page 3 ---
+Problème I :
+Soit le composé représenté par la structure chimique plane ci-dessous Br
+COOH
+A :
+H3C~
+CH3
+QI-Compléter la représentation de CRAM du stéréosisomère du composé A de configuration (2S, 3R), noté Al.
+H
+Br
+ 
+`
+
+Q2-Donner le nom complet de Al.
+Q3 et Q4- En justifiant votre réponse par la représentation de CRAM correspondante (Q3), donner la projection de Ficher de A2 (Q4), énantiomère de AL.
+Page 3 sur 14
+Concours Biologie et Géologie- Session Juin 2023
+
+--- page 4 ---
+COOH
+Q5 et Q6-Donner la relation du stéréoisomère A3, ci-dessous; avec Al (Q5). Justifier (Q6). Br HOOC A3 : 'cH; H CH; H
+Page 4 sUr 14
+Concours Biologie et Géologie - Session Juin 2023
+
+--- page 5 ---
+Q7 et Q8- Donner la projection de Newman de Al (Q7) selon laxe C2C3 (d après la nomenclature) et dire s'il s'agit dune forme éclipsée ou décalée (Q8).
+Al et A3 sont soumis; respectivement; à un chauffage dans le méthanol, en présence de deux équivalents de MeO Na Après hydrolyse acide; on obtient respectivement et uniquement les produits Bl et B3 de formule brute (CsHgO2).
+Q9- Déterminer les structures chimiques de Bl et B3 ainsi obtenus.
+ .
+   
 
 
 
+ 
+  1 
+Q1O- De quel type de réaction s'agit-il ?
+Page 5 sur 14
+Concours Biologie et Géologie- Session Juin 2023
+
+--- page 6 ---
+QIl et Q12- Préciser les configurations de Bl et de B3 (Q11) et la relation disomérie (Q12)
+
+
+ 
+Problème 2
+
+PARTIE I
+  
+Le citral est une substance naturelle dont la fommule brute est C1oH16O. Il est extrait du zeste de citron et dorange. Cest un agent parfumant utilisé en cosmétologie:.
+Des   essais   préliminaires ont montré   que le   citral est un mélange de deux   isomères de configuration portant tous deux une fonction aldéhyde.
+On réalise une hydrogénation catalytique du citral. On obtient lalcool A (C1oH22O). Chauffé en milieu sulfurique, A conduit à un hydrocarbure   B(CoHzo) dont Fozonolyse donne du méthanal et du 2,6-diméthylheptanal.
+Q13 et Q14- En justifiant votre réponse (Q13), donner les formules des produits A et B (Q14)
+Page 6 sur 14
+Concours Biologie et Géologie- Session Juin 2023
+
+--- page 7 ---
+Q15 et Q16- Dans quelles conditions doit-on réaliser ]ozonolyse (Q15) ? Justifier (Q16).
+Les stéréoisomères du citral sont ensuite soumis séparément à une ozonolyse. Chacun deux conduit au même mélange; en proportions molaires égales de Page 7 sur 14 Concours Biologie et Géologie- Session Juin 2023
+
+--- page 8 ---
+Propanone C, 4-oxopentanal D, Ethanedial E.
+Q17 et  Q18- En   expliquant votre_raisonnement_(Q17), déterminer la   formule semi - développée plane du citral (Q18).
+
+Q19 et Q20- Représenter les deux isomères géométriques du citral (Q19) et donner leurs noms en nomenclature systématique internationale (Q20)
+1
+Page 8 sur 14
+Concours Biologie et Géologie- Session Juin 2023
+
+--- page 9 ---
+PARTIE II
+L 'oxydation de D, sous   certaines   conditions,   conduit à F(CsHsO;) qui subit laction du chlorure de   thionyle SOClz, pour se transformer en G. En  présence de benzène et du catalyseur AlCl;, donne H 
+Q21 et Q22-Déterminer les structures de F, G (Q21) et H (Q22).
+
+Q23-Représenter le mécanisme réactionnel de létape G + H.
+Page 9 sur 14
+Concours Biologie et Géologie- Session Juin 2023
+
+--- page 10 ---
+
+1
+En présence dun mélange sulfonitrique H2SOAHNOs, puis dun excès dylure de phosphore; F donne I puis Jselon la séquence réactionnelle ci-après
+HzSOVHNO3
+Ph,P-CH2
+Q24- Donner les structures de Iet de J
+Page 10 sur 14
+Concours Biologie et Géologie - Session Juin 2023
+
+--- page 11 ---
+Q25- Détailler le mécanisme de 1étape 19 J
 
 
 
+PARTIE III
+On prépare 1organomagnésien Y à partir dun dérivé bromé U. La masse molaire de U est 179 g mol-1. Les analyses centésimales donnent les résultats suivants
+%C = 0,4
+%H = 0,06
+%Br = 0,45
+%0 = 0,09
+Q26- Déterminer la formule brute de U.
+1
 
+  s
+Page 1l sur 14
+Concours Biologie et Géologie- Session Juin 2023
 
+--- page 12 ---
+Q27 et Q28- En InfraRouge, U présente une absorption intense vers 1710 cm ' Son spectre de RMN du proton présente deux singulets; Pun dintensité 9 protons à 1,2 ppm; lautre dintensité 2 à 3,5 ppm. En déduire sa formule semi-développée (Q27) en expliquant votre raisonnement (Q28).
+1 ; ,
+ d  ) . `
 
+Q29- Lorganomagnésien Y réagit sur la cétone C (Partie I). Donner la structure chimique plane de Yet celle du composé Z obtenu après traitement usuel.
+Page 12 sur 14
+Concours Biologie et Géologie - Session Juin 2023
 
+--- page 13 ---
+FIN DE LEPREUVE
+Page 13 sur 14
+Concours Biologie et Géologie- Session Juin 2023
 
+--- page 14 ---
+Instructions
+Cette épreuve comporte 14 pages dont 01 blanche. Les deux (02) problèmes sont indépendants. Tout résultat doit être écrit dans les cadres adéquats. Aucun échange entre les candidats n'est autorisé. Si au cours de Fépreuve; un candidat repère ce qui lui semble être une erreur d'énoncé, illa signale sur sa copie et poursuit sa composition en indiquant les raisons des initiatives qu'il est amené à prendre.
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 14 PAGES NUMEROTÉES 1 sur 14, 2 sur 14, 14 sur 14.
+Concours Biologic et Gcolic Chimie organique
+Face ~Ur 14
+Concours Biologie et Céclegie- Session Juin 2023
 
+--- page 15 ---
+Remarques, notations et données numériques Numéros   atomiques Z H = 1, C = 6, N = 7, 0 = 8, Br = 35 (Masse atomique-80g.m0l-') Le groupe phényle peut être noté C6Hs-, Ph- ou Déplacements chimiques en RMN 'Hde quelques groupes
+Protons  CH;
+ppm Protons   CHz
+ppm
+Protons CH
+ppm
+CH;-C
+0.9 CHz-C
+1.3
+CH-R
+1.5
+CHz-C-0
+1.3 CH2-C-0
+1.9
+CH-C-0
+2.0
+CHz-C=C
+1.6 CH2z-C-C
+2.3
+CH-C=C
+2.6
+CH,-Ar 2.3
+2.1 -
+CHz-Ar
+2.6-2.8
+CH-Ar
+3.0
+CHz-CO-R
+2.3-2.4
+CH-CO-R
+2.7
+CH3-CO-R
+2-2.2
+CHz-N
+2.4-3
+CH-N
+2.8
+CHz-NH2 2.3
+2.1 -
+CH2-O
+3.2-3.4
+CH-0
+3.7-3.9
+CH3-0
+3.3
+CH2-O-CO
+4.1-4.3
+CH-CI
+4.1-4.3
+CHz-C-CI 1.6
+1.4-
+CHz-CI
+3.6-3.7
+CH-Br
+4.2-4.4
+CO-CH2-Br
+3.1-4.5
+CH-I
+4.3-4.4
+CH;-C-Br 1.9
+1.6-
+CHz-I
+3.2-3.3
+CH-Aromatique (Ph) 6,4-8,5
+CH;-C-CI 2
+1.8-
+Protons portés par un hétéroatome R-OH Ar-OH R-NH2 (R-NH-) Iables Infra-Rouge
+8 ppm
+0.7-5.5 4.5-7.1 0.6-6
+Liaison Nombre d'ondes en cm cC 1600-0650 cC 2100-2220 O-H libre 3500-3700 C-O-C (éthers , esters 1050-1260 C=O amides 1630-1710 C-Océtones;_aldéhydes_ 1650-1740 CzOacides_carboxyliques 1660-1740 C=0 esters 1700-1750 CzO halogénures d acides 1785-1815 N-H amines (primaires , 3100-3500 secondaires Page 2 sur 14 Concours Biologie er Giéo:ogie- Session Juin 2023
 
+--- page 16 ---
+Problème I :
+Soit le composé A représenté par la structure chimique plane ci-dessous Br
+COOH
+A :
+H3C
+CH3
+QI-Compléter la représentation de CRAM du stéréosisomère du composé A de configuration (2S, 3R). noté Al.
+H
+H
+CH3
+H3C
+S R
+Al :
+COOH
+H Br
+Q2-Donner le nom complet de AI.
+Al Acide (2S,3R)-3-bromo-2-méthylbutanoïque
+Q3 et Q4- En justifiant votre réponse par la représentation de CRAM correspondante (Q3), donner la projection de Fischer de A2 (Q4), énantiomère de Al.
+Paze 3 sur 14
+Concours Biclogie e Géologie- Session Juin 2023
 
+--- page 17 ---
+COOH
+L'étudiant doit d'abord donner la représentation de CRAM de A2 avant de donner la projection de Fischer.
+(Représentation de CRAM) (Projection de Fischer)
+COOH
+CH3
+H3C HlIIIn R $ W/Br H HOOC
+H3C
+Br
+CH3
+Q5 et Q6-Donner la relation du stéréoisomère A3, ci-dessous; avec Al (Q5). Justifier (Q6).
+Br
+HOOC
+A3
+H CH3
+MlIcH; H
+Br
+HOOC
+R R 'lcH; H H CH3
+A3
+A3 (2R,3R)) Al : (2S,3R) et A3 (2R,3R) donc Al et A3 sont 2 diastéréoisomères
+Page 4 sur 14
+Concours Biologie et Géologie- Session Juin 2625
 
+--- page 18 ---
+Q7 et Q8 - Donner   la   projection de  Newman de Al (Q7) selon Faxe C2+C3 (d' après la nomenclature) et dire s 'il s' agit d'une forme éclipsée ou décalée (Q8).
+CH3 H
+H3C_
+H
+Br COOH
+dacala
+Al et A3 sont soumis, respectivement; à un chauffage dans le méthanol, en présence de deux équivalents de MeO Na Après hydrolyse acide; on obtient respectivement et uniquement les
+produits BI et B3 de formule brute (CsHsO2)
+Q9- Déterminer les structures chimiques de BI et B3 ainsi obtenus.
+H3C
+COOH
+10 MeO-Na Al MeOHA
+20 H;Ot
+B1 :
+H
+CH3
+H3C
+CH3
+10 MeO-Na
+20 H,Ot
+A3
+B3
+MeOH/A
+COOH
+QIO - De quel type de réaction s 'agit-il ?
+Page 5 sur 14
+Concours Biologie et Géologie- Session Juin 2023
 
+--- page 19 ---
+Il s' agit d'une réaction d'élimination E2
+QI1 et Q12- Préciser les configurations de BI et de B3 (QI1) et la relation d isomérie (Q12).
+Configurations de Bl et de B2
+Bl est de configuration géométrique Z
+B3 est de configuration géométrique E
+Ce sont des isomères de configuration géométrique (ou diastéréoisomères)
+Problème II :
+PARTIE I
+Le citral est une substance naturelle dont la formule brute est C1oH16O. Il est extrait du zeste de citron et dorange. C'est un agent parfumant utilisé en cosmétologie.
+Des essais   préliminaires ont montré que le citral est un mélange de deux isomères de configuration portant tous deux une fonction aldéhyde.
+On réalise une hydrogénation catalytique du citral. On obtient Falcool A (CioH220) Chauffé en milieu sulfurique; A conduit à un hydrocarbure B(CoHzo) dont Fozonolyse donne du méthanal et du 2,6-diméthylheptanal.
+Q13 et Q14- En justifiant votre réponse (Q13), donner les formules des produits A et B (Q14)
+Page 6 sur 14
+Concours Biologie et Géologie- Session Juin 2025
 
+--- page 20 ---
+Les 4 Produits CH2O + Aldéhyde + A + B
+Hydrogénation Citral (C1oH16O) A : (C1oH220) On a donc additionné 3 moles de Hz; Dans ce cas A est un alcool primaire.
+Chauffage A B (CoHzo) H2SO4
+1" 03
+CH2O +
+20 Conditions
+CHO
+On en déduit alors que
+B
+A
+OH
+Q15 et Q16- Dans quelles conditions doit-on réaliser ]'ozonolyse (Q15) ? Justifier (Q16).
+L'ozonolyse doit être suivie d'une hydrolyse en milieu réducteur
+Justification On obtient des aldéhydes
+Les isomères du citral sont ensuite soumis séparément à une ozonolyse. Chacun d'eux conduit au même mélange; en proportions molaires égales de
+Page 7 sur 14
+Concours Biologie et Géologie- Session Juin 2023
 
+--- page 21 ---
+Propanone C, 4-oxopentanal D, Ethanedial E.
+Q17 et Q18- En expliquant_votre_raisonnement_(Q17), déterminer la formule semi-développée plane du citral (Q18).
+Q17 Raisonnement
+10 03
+Citral (C1oH2o) 2 H20/Zn
+OHC CHO
+CHO
+E
+L'ozonolyse donne 3 produits donc le citral comporte; en plus de la fonction aldéhyde; 2 doubles liaisons. Les différents isomères de position sont les suivants
+1" 03 29H2O/Zn
+CHO
+mais pas de D et E
+1" 03 2 HzO/Zn
+CHO
+C + E mais pas D
+Ii
+1" 03
+CHO
+C + D + E
+2 HzO/Zn
+lll
+D'après ces résultats; seul le dernier composé (iii) donne à la fois C, D et E. Par conséquent; il s'agit de la formule semi-développée du citral. (2pt)
+Q19 et Q20- Représenter les deux isomères géométriques du citral (Q19) et donner leurs noms complets en nomenclature systématique internationale (Q20).
+Page 8 sur 14
+Concours Biologie et Géologie- Session Juin 2023
 
+--- page 22 ---
+CHO
+CHO
+(27)-3,7-Diméthylocta-2,6-diénal
+(212)-3,7-Diméthylocta-2,6-diénal
+PARTIE II
+L'oxydation de D, sous certaines conditions; conduit à F(CsHg0;) qui subit Faction du chlorure de thionyle SOClz, pour se transformer en G. En présence de benzène et du catalyseur AlCl;, G donne H.
+Q21 et Q22-Déterminer les structures de F, G (Q21) et H (Q22).
+[0]
+D:
+F :
+G
+OH
+C6H6 AlCl;
+G:
+H:
+CI
+Q23-Représenter le mécanisme réactionnel de létape G > H.
+Page 9 sur 14
+Concours Biologie et Géologi?- Session Juin 2023
+SOClz
 
+--- page 23 ---
+Mécanisme réactionnel (simplifié)
+Icil
+H
+H
+En présence d'un mélange sulfonitrique HzSOAHNO;, puis dun excès d'ylure de phosphore; H donne I puis J selon la séquence réactionnelle ci-après
+HzSOA/HNO; H
+Ph;P=CHz
+Q24- Donner les structures de I et de J
+HzSOyHNO; I: CHz
+H:
+NO2
+Ph;P-CH2
+I:
+J:
+CHz
+NO2
+Q25- Détailler le mécanisme de 1étape 1 9 J
+Page 10 sur 14
+Concours Biologie et Géologie- Session Juin 2023
+DAICI; AICI4
 
+--- page 24 ---
+Ph;P
+J
+~Ph;P=O
+NO2
+NOz
+PARTIE III
+On prépare lorganomagnésien Y à partir d'un dérivé bromé U. La masse molaire de U est 179 g.mol-1 . Les analyses centésimales donnent les résultats suivants
+%C = 0,4
+%H = 0,06
+%Br = 0,45
+%0 = 0,09
+Q26- Déterminer la formule brute de U.
+Formule brute de U Soit le dérivé bromé U de formule brute CxHyBrzOt avec 12x+y+80z+16t = 179
+et
+% C = 12x/179 > X = 6
+% H=yll79 > y = 11
+Page 11 sur 14
+Concours Biologie et Géologie- Session Juin 2023
+Ph;
+PPh;
+Ph;
 
+--- page 25 ---
+% Br = 80z/179 - z = 1
+% 0 = 16t/179 > t = 1
+Donc la formule brute de U est C6HnBrO
+Q27 et Q28- En InfraRouge; U présente une absorption intense vers 1710 cm-' Son spectre de RMN du proton présente deux singulets; F'un d'intensité 9 protons à 1,2 ppm; Fautre d'intensité 2 à 3,5 ppm En déduire sa formule semi-développée (Q27) en expliquant votre raisonnement (Q28).
+La formule brute donne une seule insaturation et 1'InfraRouge montre que nous avons une cétone ou un aldéhyde . Les tables de RMN ainsi que les intensités relatives montrent que nous avons Un groupe tertiobutyle (intensité 9) Un groupe ~CHz- (intensité 2) La formule semi-développée de U est
+U :
+H3C
+Br
+H3C
+HsC
+Q29- L'organomagnésien Y réagit sur la cétone C (Partie I). Donner la structure chimique plane de Yet celle du composé Z obtenu après traitement usuel.
+Page 12 sur 14
+Concours Biologie et Géologie- Session Juin 2023
 
-
-
+--- page 26 ---
+H3C
+H3C
+Br
+MgBr
+U: H3C-
+Mg
+Y: H3C Ether anhydre H3C
+H3C
+CH3 OH
+H3C
+10 C
+Z :
+H3C
+2" HzO/Ht
+H3C
+FIN DE LEPREUVE
+Page 13 sur 14
+Concours Biologie et Géologie- Session Juin 2023
+CH3

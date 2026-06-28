@@ -1,3 +1,87 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de 1Enseignement Supérieur Concours Nationaux d'Entree aux Cycles de Formation d'Ingénieurs (CPAratoipe ` Session: Juin 2002 2 BieLJothEQUE 8 Yetudes 5 Concours Physique et Chimie {Ducenieubs s Epreuve de Chimie
+Date Mardi
+Juin 2002
+Heure 8 H
+Durée
+Heures
+Nbre pages
+Barème / 20
+Partie [ 12 points
+Partie II 8 points
+Les candidats sont tenus de justifier leurs reponses au moins en quelques lignes.
+Les parties L etll doiventêtre traitées_sur_deux copies séparées
+PARTIE
+PROELÈME I
+Données:
+Potentiel normal (standard) d'électrode du couple Cd2+ICd(su): E' = - 0,40 V Produit de solubilité de Cd(OH)2 Ks 10-14 Produit ionique de Feau Ke 10-14.
+1*) On augmente à volume presque constant le pH d'une solution de nitrate de cadmium Cd(NO3)2 X 10-2 M en ajoutant progressivement une solution de soude M par faible proportion. Calculer le pH de début de précipitation de Cd(OH)2 solide.
+2 c a) Etablir la relation qui permet de caiculer la valeur du potentiel normal rédox du couple Cd(OH)2(sJ)/Cd(sd) à partir de celle du couple Cd2+/ Cdsd) et du produit de solubilité Ks du dihydroxyde de cadmium Cd(OH)2. b) Déterminercette valeur: à pH égal à zéro; B) à pH égal à 14. 30) a) Dorner les expressions des potentiels d'électrode pour les couples rédox Cd 2+1 Cd(sd) et Cd(OH)2(sd)/Cd(sd) .
+b ) Tracer, sur_la copie d'examen, les courbes E = f(pH) correspondantes dans le plan (EpH) dans le cas où la concentration molaire de Cd2+ est égale à 10-2 mol L1 Indiquer sur le diagramme (EpH) les formes prédominantes pour les diverses régions du plan EpH.
+On prendra comme échelle ] em pour une unité de pH et ] em pour 0.71:
+Concours Physiquc ct Chimic. Juin 2002 Eprcuvc de Chimic
+pagc
 
+--- page 2 ---
+49) Représenter sur ce même diagramme la droite qui donne la variation du potentiel rédox en fonction du pH pour le couple H+IH2(g) quand la pression du dihydrogène est égale à atm
+50) Dites: a) Si les acides peuvent attaquer le cadmium avec dégagement de dihydrogene et pour quel pH? On écrira éventuellement 'équation chimique de la réaction correspondante b) Pourquoi le cadmium résiste généralement bien à Faction de certaines caux de distribution urbaine dont le pH est souvent voisin de 7,7à 8 ?
+La courbe qui donne la variation de la vitesse de corrosion du cadmium en fonction du pH est représentée par la figure suivante:
+Mitesse enc mzh 100
+a)
+Proposer un protocole expérimental qui permet d'obtenir ce type de courbe. b ) Pour quelle raison la vitesse de corrosion est-elle pratiquement nulle pour des pH compris entre 8,5 et 12 environ
+PROBLÈME II
+Les parties A B Cet Dsont_indépendantes)
+Données:
+Composés Si(sd) ArH 298 (kJ.mol-1) 59298 / (JK-Lmol-1) 18,8
+SiO2(sd) -910,7 41,5
+C(sd)
+CO(g) 4110,5 197,7
+02(g)
+5,7
+205,2
+Constante des gaz parfaits: R = 8,314 JK1 mol-/ Masse   volumique du silicium: p = 2,368 g. CM-3 Masse   volumique de SiO2(su): p = 2,18 g.cm-3 Masse molaire atomique en (g.mol-1) : Si = 28,08 0 = 16. Nombre d'Avogadro NA 6,023.1023 . Numéro atomique: Si (Z = 14); CI (Z= 17) et F (Z =9).
+A ) Donner le schémas de Lewis et la structure spatiale des ions sui vants: A1) {SiF6}2-; A 2) {SiCl3}
+Concours Phasiquc cl Chimic. Juin 2002 Eprcuv c dc Chimie.
+pazc
 
+--- page 3 ---
+B) Le silicium a la même structure que le diamant.
+BI) La structure du silicium est-elle compacte ?
+B2)   Déterminer pour le silicium: a) la coordinence; b) le rayon.
+C) Le dioxyde de silicium Si02 cristallise dans une structure cubique. Les atomes de silicium occupent des positions identiques à celles des ions Zn2+ et S2- dans la blende ZnS. Les atomes d'oxygène sont placés au milieu des atomes de silicium proches voisins. C1) Déterminer le nombre de motifs Si02 par maille. C2) a) Représenter en perspective le huitième de cette maille. Y faire figurer les atomes par leurs symboles chimiques: b) Préciser sur la figure, par des traits pleins, les liaisons existant entre les atomes. Déterminer la coordinence du silicium et de l'oxygène.
+C3) Calculer les plus courtes distances: Si-Si; Si-O et 0-0.
+D) On considère les couples Si02 (sd)/Si(sd) et CO(g)C(sd). D1) Ecrire les équations des réactions de formation des oxydes Sio2 et CO mettant en jeu chacune une mole de dioxygène.
+D2) Donner, dans l'approximation d 'Ellingham; F'expression de Fenthalpie libre standard A GT de chacune des deux réactions précédentes sachant que Si02, Si et C sont solides dans Fintervalle de température compris entre 298 K et 2273 K. D3) Donner, dans le plan ( A,GT,T); Fallure des droites qui donnent la variation   de F'enthalpie libre standard en fonction de la température  pour les couples envisagés. Une représentation précise n'est pas exigée_
+D4) Indexer le diagramme obtenu en précisant les domaines de stabilité des différentes entités chimiques. D5) Déterminer la température d 'inversion T;
+D6) a) Ecrire l'équation chimique de la réduction du dioxyde de silicium Si02 par le carbone. b) Quelle est la variance des systèmes contenant uniquement les constituants écrits dans Féquation précédente ? c ) Peut-on choisir arbitrairement peur ces systèmes en équilibre la tempéralure et la pression
+D7) Montrer qu'à la température d'inversion T; la valeur de la constante d équilibre de la réaction de réduction de SiO2 par le carbone est égale à F'unité
+D8) Pour des températures supérieures à Ti la valeur de cette constante est-elle supérieure ou inféneure à l'unité ?
+D9) La réduction du dioxyde de silicium par le carbone peut-elle avoir lieu à des températures inférieures à T; Fin partie I.
+Concours Physiquc ct Chimic. Juin 2002 Eprcuvc dc Chimie
+psc
 
+--- page 4 ---
+PARTIE II
+PROBLÈME I
+Br
+A:
+"1 CHs H
+19) Déterminer la configuration absolue du carbone asymétrique du stéréoisomère A 20) Ecrire, en Nomenclature Internationale, le nom de 4 3') Représenter, en projection de Newman, le stéréoisomère
+Le cyanure de potassium réagit sur 4 selon une réaction stéréospécifique, pour conduire 2u1 composé B:
+4*) Développerle mécanisme réactionnel de l'étape de formation de B: 59) Représenter, en projection de Fischer, le dérivé B.
+L'action d'une base forte comme Féthylate de sodium EtONa dans F'éthanol sur le dérivé 4 inverse optique de A permis l'obtention des isomères de position C (majoritaire) et C' 6*) Détailler le mécanisme réactionnel de l'étape de formation de C et de C' . PROBLÈME II On se propose de réaliser, à partir du vinylcyclohexane E, la synthèse de Famine primaire @ selon la filiation réactionnelle suivante:
+E:
+1-03 2- H2Ol Zn
+G (CzH120)
+1 - LiAlH4 2-H20
+H
+PCIs
+MgEt20
+1 - Et20 sec 2- H3O'
+KMnO 4 conc. chaud
+K
+M
+NHs en excès N NaOBr O: NH z 1 M NHICI 19) Donner, en Nomenclature Internationale, le nom de Famine Q 29) Représenter en perspective, F'équilibre conformationnel correspondant au vinylcyclohexane Een précisant la conformation chaise la plus stable. 39) Reconstituer, en donnant la formule semi-développée des dérivés E G # Z 1 K = 1 et N, la suite réactionnelle ci-dessus 49) Développer le mécanisme réactionnel des étapes G donne H et M donne ]: Fin partie II
+Concours Physiquc ct Chimic. Juin 2002 Eprcuvc dc Chimie
+paec
+SOCI2

@@ -1,19 +1,585 @@
+--- page 1 ---
+Signature des enseignants
+République Tunisienne
+MINISTERE DE L'ENSEIGNEMENT SUPERIEUR, DE LA RECHERCHE SCIENTIFIQUE ET DES TECHNOLOGIES DE L'INFORVATIOY ET DE LA COMMUNICATIOY
+Concours Nationaux d'Entrée aux Cycles de Formation d'Ingénieurs
+Session Juin 2014
+Concours Nationaux dEntrée aux Cycles de Formation d'Ingénieurs
+Concours
+Mathématiques et Physique
+Physique et Chimie
+Session Juin 2014 Epreuve de :Sciences et Techniques de F'Ingénieur Concours MP & PC Epreuve de Sciences et Techniques Durée : 3 Heures 8 de F'Ingénieur Nom
+Prénom
+Date
+Vendredi 06 juin 2014
+Date & lieu de naissance
+Etablissement d'origine
+No CINou No du Passeport pour les étrangers
+Série :
+Identifiant :
+Nombre de Cahiers remis 01
+Nombre de Cahiers remis
+01
+1 [
+(ÉCRIPR [6] 5
+
+--- page 2 ---
 
 
+~
+DOSSIER
+DOCUMENT REPONSES
+Ce dossier comporte 18 pages numérotées de 1 à 18
+Partie A Technologie de conception Partie B Mécanique des solides indéformables Parte C Automatique
+Pages 1/18 à 2/18 ; Pages 3/18 à 10/18 Pages 11/18 à 18/18
+Un seul dossier document réponses est fourni au candidat et doit être rendu; en totalité, même sans réponses à la fin de lépreuve.
+Le renouvellement de ce dossier est interdit.
 
+--- page 3 ---
+STI - Mathématique Physique & Physique Chimie
+Document Réponses Technologie de_Conception
 
+PARTIE A : TECHNOLOGIE DE CONCEPTION
+A.l- ANNALYSE FONCTIONNELLE
+A.1.1 - Indiquer, dans lactigramme niveau A-0, la fonction globale du traqueur solaire.
+Raçennenentselaire Ensrgie élecuique Erogramme
+Kéglege
+Paoneau non orienté
+Peinterle pangeauafe d capres.
+Panneau
+Jemaximun de cayonosoent.sehire . A-0
+oticnté.
+Traqueur solaire
+4.1.2- Indiquer, dans lactigtamme niveau Ao, les différentes fonctions principales du traqueur solaire.
+Rayonnement du soleil Ensrgie élecsique Erogtamme
+Réglge
+Capte: Ja
+positiondusoleil
+41
+Capteur photoélectrique
+Elborerl Signauxelectiques Commende A2 Carte électronique
+Consignes
+Orienter le Pavsau panneau A3 oreute
+Launeau Woolomente
+Suireur de traisctoire
+AO : Traqueur du soleil
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2014
+Page 1/18
 
+--- page 4 ---
+STI Mathématique Physique & Physique Chimie
+Document Réponses Technologie de Conception
+A.2- ETUDE GRAPHIQUE
+On donne le dessin en perspective de la chape du vérin en acier Compléter le dessin de définition de celte pièce par La vue de face La vue de dessus La vue de droite en coupe A-A ; La section sottie B-B.
+A-A
+B
+B
+Section B-B
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2014
+Page 2/18
 
+--- page 5 ---
+STI Mathématiques Physique & Physique Chimie
+Document Réponses Etude mécanique
+PARTIE B : MECANIQUE DES SOLIDES INDEFORMABLES
+B.1- ETUDE DES CHAINES CINEMATIQUES B.1.1 - Compléter le graphe et identifier les liaisons du mécanisme. Graphe de liaisons identification des liaisons
+Lox
+Liaison-pixot daxe (Q,%, L1z_ LiaisonpivotQaxe (AF,) Lz.: L"aison pivotdaxe (B"  Ln:.: Liaison glissière Qaxe (C,y,) Lu-;Lia"sonhéliçoïdale d'axe (E,Js) L Liaison pixot d'axe (H,Jo
+Lo
+Lo;
+L1z
+L3
+L23
+B.1.2- Ecrire léquation vectorielle traduisant la condition géométrique de fermeture de la chaîne cinématique (01230)
+QA+AB+BC+CO=D
+B.1.3- La dérivée temporelle de l'équation par cappott au repère Ro s'écrit :
+dOC
+dOA
+dAB
+dBC dt
+dt
+dt
+dt '/98
+9î
+/Jê
+B.1.4- En déduite le système   déquations   cinématiques   correspondant à la projection de i'équation sur les vecteurs de la base 3,(6,J0,2 itLasina+aAsinR=n LàcosazaBcosBza
+B.2- GEOMETRIE DES MASSES Dans cette partie; On se propose de déterminer la position du centte d'inettie et la matrice dinettie du panneau (1) Illustré par la figure B.6, 1 est modélisé dans le plan (0,FpJ) par une plaque   rectangulaire;   homogène; d'épaisseur négligeable, de masse < m > de longueur < L > et de largeur 2h >
+<h->+<-h->
+0 8
+Figure B.6 Modèle du panneau (1) dans le plan (0,*,J,)
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2014
+Page 3/18
+L04
 
+--- page 6 ---
+STI Mathématiques Physique & Physique Chimie Document Réponses Etude mécanique B.2.1 - Exprimer; dans la base 31, le vecteut position OG, du centre dinertie G1 du panneau (1)
+L
+OG
+2
 
+B.2.2- Le moment dinertie du panneau (1) par rapport à laxe (O,x;) sera désigné par la lettre < I v : [=I/o.i1} (1) . Donner et justifier la forme génétale de la matrice dinertie; au point 0 dans la base 31, du panneau (1) Les plans (Qwp V+)et(QéZ )sont les  deux plans desymétriematérielle_ DsE=E=D [o 5(1)la, B 0
+Enplus:A=I 70;y(l)
+B.2.3- Le panneau (1) est-il statiquement et dynamiquement équilibré par rapport à laxe (O,F,) ? Justifier votre réponse. Lepanneau (l).sst dynamiquement équilibré ssi {1) est.statiquement équilibré .c.à.d.que.Gz.appattient à laxe.de. rotation (0 SLaxe (O,X ).est.unaxe principald'inertie D::G,2.(0,x ).=(I).n'estni statiquement ni dynamiquement équilibré (e fonction de metE B.2.4- Déterminer le moment dinertie < I v du panneau (1) en fonetion de +, Eet #: La Js(l+ Zldm = 22 dm_
+{ dnz= d dy;re[-bhletye[o,L} ZhL
+mI? 1= 3
+n2 I= 2hL
+mn 1 dx Edy=
+B.3- ETUDE CINEMATIQUE B.3.1 - Déterminet le torseur cinématique; au point A, du panneau (1) dans son mouvement par rappott au support (0)
+5(1/0) = ÙX;
+4 Y(ello)=Y(QellO)+ S(LA)AOA
+Voel/o)=_ Qa=L
+àXo Lizr
+{v1/}
+F(Ael/O)=L4z,
+Quuo)=&.x,
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2014
+Page 4/18
 
+--- page 7 ---
+STI Mathématiques Physique & Physique Chimie
+Document Réponses Etude mécanique
+B.3.2- En déduire le vecteur vitesse du point B de la bielle (2) dans son mouvement par tappott au support (0) VBe 2/0) JaBE2/O)=V(Aez/o)+@(2/Q)^ AR Qr:_Y(Ae2/0)= V(aezl)+YA1l0) Vras.2/D)=Làz AE=2= Y(Be 2/0).=Làz-a[ J(2l0)=P.% .
+VBe 2/0) = LQZ '124 B ?
+B.3.3 - Exprimer le torseur cinématique; au point E;de la tige (3) dans son mouvement par rapport à l2 vis (4) en fonction de 0 et du pas réduit de lhélice < p > (en mm/ rad) YEe3/4)=p.0/3/4) *5443/422.013/0)-0(4/0) 47o {16/4} 5(3/0).=0 "pA LYo' J(4/O)=ày - 5(3/4) = -0J
+B.3.4- Déterminet le vecteut vitesse du point E de la tige (3) dans son mouvement par rapport au supporc (0) VEe 3/0)
+dOE IEs3/0)= dt iSîo
+dOC dt '19
+dCB
+dBE 4 dt dt '/90 'în
+dOC
+dBE
+dCB
+dt
+dt '/9i,
+/8o
+dt I9;
 
+VEe 3/0) =_ iyo;
+B.3.5- En déduire une telation entre les paramètres 1 et 0
+8(4/2).=Q
+V(Ee4/0) = 0
+Q(4LO) AHE=û..catcolinéaires
+W(Es /a)=-pay-=V(E63/0)~ VrEc470) =i}r
+2= ~P8
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2014
+Page 5/18
+et.
 
+--- page 8 ---
+STI Mathématiques Physique & Physique Chimie
+Document Réponses Etude mécanique
+B.3.6- Déterminet le vecteur vitesse du point B de la tige (3) dans son mouvement par rappott au support (0); VBe3/0) en fonction du paramètre i
+J(Be3/0)=V(Ee.3/0). Çar.la tige (3)est entranslation par rapportausuppert (Q)
+V(Be 3/0) = i] 8
+B.3.7- Ecrite la condition cinématique au centte B de la Ziaison pivot entte la bielle (2) et la tige (3) :
+I(Be3l2)=V(Re3/M)-Y(Re2/0)=l
+Déduire, pat projection dans la base 3o, le système d'équations qui en découlent Y(Rs:lQ):V(Bezlo)=@=Y(Re3/o)=Y(e.2/0) 3ÉJ=L4z-aPz =sinaJo-+cos.a.7 72 =sinB.J, tcosB.Z
+i+Ldsinn+a BsinBzo Là cosu-a (cosf=.a
+B.4- ETUDE CINEMATIQUE
+B.4.1 - Déterminer le torseur cinétique puis le torseur dynamique au point 0 du panneau (1) dans son mouvement par rapport au support (0)
+m Là #R(lo)=E(lo)=mY(G+/0) = *@o(l/0)=[(u]@(o)=Iex+
+Ià K{e(1/o)} -nLilzlsino 8 (mLal2)cos.&
+Ro
+* Ro m L {lnl=n#(G+lQ)= (ëz,=02" 2
+30 Ië
+* dÆo (1/0) 5, (1/0)= dt 180
+mL LËsina+&-cusa? 0. 2 #W(4cësë #sîCiËï 0
+[{2(1/0)}
+Concours nationaux d' entrée aux cycles de formation dingénieurs
+Session 2014
+Page 6/18
 
+--- page 9 ---
+STI Mathématiques Physique & Physique Chimie
+Document Réponses Etude mécanique
+B.4.2- Déterminet le tortseut cinétique puis le torseur dynamique au point B de la tige (3) dans son mouvement par rapport au support (0).
+3,
+#Re :(3/o)=E(3/O)=MV(G,/O)= Mi.Jo- *0,(3/0)=0
+[{8(3/0)}
+Mi.
+B
+*Ro (3/@)=MJ(Gslo)= MïY G,(3/0)= dÆp (3/02 +MY(B/O)AY(G Lo)=@ dt 1s0
+30
+[{263/0}
+Mi
+CacWBLO)et_W(G;/OLsonc colinéaires
+B
+B.4.3- En déduire   le torseur   dynamique au point 0 du   système   {S} = {1, 2, 3, 4} dans son mouvement par tapport au support (0). mL #R,{S/oy= In J(G,o)+ M{(G,/0) = (ëz=42y)+MË7=47+4.2' 2
+In L =ML (üsina+a?coso)_et
+mL Lëcnsa-alsinc)
+R,
+5
+5,(3/0)=.-,(3/0)+MOBA34G,/0)=l_
+[{2s/0}
+5,{8/0)=5,(1/0).+6o(3/M)=Ië~-
+B.4.4- Déterminer lénergie cinétique Ec(S/0) du système {S} = {1, 2, 3, 4} dans son mouvement Pat rapport au support (0).
+Ec(SJO) =Ec(l/O) +Ec(2/O)+ Ec(3/M) + Ec(4/0)
+Ec(2/n}.= Ec(4/D).=M.cac Les deux solides.snnt.de masses négligeables-
+1
+1 #Ec(1/0) = 3 {/O)}o {uL/D)}o' = Ip2 2 2
+1 1 #E.(3/o)= [e(3/0)} {2(1/0)} Mi2 2 1 1 2
+1 Ec(S/0) =  Iqz Mi2 2 2
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2014
+Page 7/18
 
+--- page 10 ---
+STI Mathématiques Physique & Physique Chimie
+Document Réponses Etude mécanique
+B.5- MODELISATION DES ACTIONS MECANIQUES
+B.5.1- Montrer que le torseur cotrespondant à Taction du vent sur le panneau (1) s'écrit; au point 0, 3 L0 Mo sous la forme {(vent = 1)} Fs 0 0 0
+En déduire les composantes Fo et Mo en fonction de 9 L et @.
+I(vent. ~l)}o R(vent ~ 1) Mo( (ïënt Sit R(vent._*1)= Jui Iu(vent ._l) dl_ ct Mo{vent_l)=j; Sx OMA L(vent_l)dL
+Qù: Mun point.quelconque du panneau (1).telque DM="J  dl=dxct.Iu(vent->l)=4"
+* Rlxent al= isj fs (vent_>1) dLsflqxJdy=q 1s
+91? M,(vent._ =1)= OMAE (vent_>1)dL 124 [sinclf y.dy]s, Jiëii; sinn 2
+Fo =
+912 Mo = sinc: 2
+B.5.2- La liaison entre (0) et (3) au point C est une liaison avec frotement de glissement de coefficient < f p. Enoncer la première loi de Coulomb en cas de glissement.
+LI(_34I(Csa/0)=o Laccmposante tangentielle et.la.vitesse deglissement Li(_3)V(Ca3/0)<.0. sont.colinéaires.et.desens oppasé En plus. Ji(-.3=f(-3)/ 4as+-lecoefticient de frottement-de-glissement .
+YCealozly  Sila Jiaison glissière est parfaite _R(@._ 3)=N4A_ 3)=X s+Z Alars I(Q_3)=-Lln(è3h  =-fyXo2Z5 ? En déduire le torseur {r(o _ 3)}
+50
+[{r0 _ 3} ={yXe3.+.783.
+M;s 
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2014
+Page 8/18
 
+--- page 11 ---
+STI - Mathématiques Physique & Physique Chimie
+Document Réponses Etude mécanique
+B.5.3- Compléter le gtaphe dintetaction et faire Yinventaire des actions mécaniques   extérieures 5 exercant sut le système {S} = {1, 2, 3, 4} Ectire, au point 0 et dans la base 3,(70,Jo,Z) , le torseur des actions mécaniques extérieures exercées sur le système {S} = {1, 2,3,4} {rs 9 s)}
+Pesaateur
+L1
+Lu4
+{{5} = {; Moteur;PesanteurVent_
+Lo;
+3
+{S}
+{r5_S)} ={z(0.àS)43 * {I(7_ a1} +{I(Veni 9 I)} + {I(Moteur 9 4)} 0 'MD TD {TCYenc a} = E {z(F=>1} {s(Moteur_4)}=l0 6 "Mg To
+3 X 5li4 0 (o _ 42} "= I ML: Z14 Ë )H
+X3i "0 X; Sos LI( 41}= = X Mo+ {io_ 3)le- = 0 04 M: Zo: Nm ) @ Zo3 No} € #1,(0._> 3)=Mc{l.->3)+DCAR(a.-> 3) Jo{4. 21)=0G A #M (0-4)=1,0.-3)+OHAR(O => On pose : Oc=b5 et OHSbyo
+Igl 80 La;+LofMl+b Z+b,7  8959 _ 2 Mo: + M;}_ 1 Co NoL.+ Nos.+ No:bXoa
+Xaz.+. Xo
+H{vs ~S)} X.+ YoYw#Fs: L.uX2 +Z Z1.+.Z9,.+.Z)4^.m g
+B.6- EQUATIONS DYNAMIQUES B.6.1 - Détetminet la puissance développée par les actions mécaniques  extérieures exercées sur le système {S} = {1, 2, 3, 4} dans son mouvement par rapport au support (0).
+*E(-S/o)=P(=Slo)+Ere= l/O)+E(Yent_ 1/0)+ E(Moteuc _>4/0)
+P(l.=S/o)=P(Q.=L/Q)+ P(Q.-4/0) =
+En.effet : P(L.->1/O)=P(Q.<à 1)- P(la>fZ2 =0carJa liaison I-or eS+ ~parfaite: P(.->4[0)=P(0.<*4)-E( =*70.= @car_ la liaison Ixu Estparfaite
+* P(Q.=>.3/02= { (0.=.3}c {1(3/0)} = c' C
++7
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2014
+Page 9/18
+Cn
 
+--- page 12 ---
+STI Mathématiques Physique & Physique Chimie
+Document Réponses Etude mécanique
+Pi_l/M)= {z(Z_1J{uL/O)}o =-m,g 5_Écoso 2
+P(Ysnt-JlO)= ICeut 2u}o {v(1ZO)}-=M;
+P(Motcur= 4[0) = I(Motcur _> 4)hur {24(410)}
+L Cm B+M 0  ë:m+g àcosa 2
+P(S 4 s/0)
+2 X2 +Z2 03' '03
+B.6.2- Ecrire   l'équation qui découle de   lapplication du théorème de   l'énergie   cinétique au système {S} = {1,2, 3,4} dans son mouvement par rapporc au support (0).
+IECEES @=2(5_2S/0)+ dt Thi
+{ =P(1.é 2H+E(2.<3)+ E(3.éz.4)=ûcarles liaisons. Uc L~- etLssont -parfaites
+Ijü+MTi=c 6+ Mo & -m g Q ccs_L (Xo; +Z2
+B.6.3- En déduire   Yexpression du couple moteur Cm en fonction de Fo et les   paramètres cinématiques.
+=2p
+= 91 Sinc;E=qlsM = EEainq 2
+P
+1 c Ijë+MMï= FL L ~csina Folt g= acosleÉ P 2 2
+4.22;
+P Idë+MiÏ+EZ 1 àsinc +.m g. ~coso +fiVxe 03 4Z2 1 2 2
+#t
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2014
+Page 10/18
 
+--- page 13 ---
 
+PARTIE C : AUTOMATIQLE
+C.1- DISPOSITIF D'AFFICHAGE DE LA POSITION D'UN HELIOSTAT C.1.1- Principe du décodeur optique C.1.1.1 - Etablir la table de vérité (Tableau.1) décrivant le fonctionnement de ce codeur optique. c.1.1.2- Quelles sont les propriétés de ce code ? C'est un code binaire réfléchi ou cyclique ou de Gray sans position d'arrêt. C.1.2- Décodeur C.1.2.1 - Etablir la table de vétité (Tableau.2) décrivant létat des LED (a, b, C, d, e, f et g) en fonction de (x3, X2  X1 Xo) Code Etats des LED de l'afficheur Position X3 X2 X1 Xo 2 b c d 0 0 0 1 0 1 1 1 1
+1
+0
+0
+0
+0
+2
+0
+1
+1
+1
+0
+1
+3 4 5
+0
+1
+1
+0
+0
+0
+1
+1
+0
+6 7
+1
+1
+0
+0
+8
+1
+9
+Tableau 1: Table de vérité du codeur optique.
+Tableau 2 : Table de vérité de Vaficheur.
+C.1.2.2- Déterminer les équations simplifiées des LED (a, b, c, d, e,fet g) à Zaide de minimum des portes .
+X3X2 X1xo
+00
+01
+11
+10
+X3Xz 00 X1Xo
+01
+11
+10
+00
+1
+0o
+01
+01
+11
+11
+10
+10
+1
+a
+6
+a = 72 + X3 + Xo
+b = 73 + X1
 
+--- page 14 ---
+STI - Mathématiques Physique & Physique Chimie
+Document Réponses Etude mécanique
+X3X2 Xixo
+00
+01
+11
+10
+X3X2 X1Xo
+00
+01
+11
+10
+00
+00
+01
+01
+11
+1
+11
+0
+10
+10
+0
+d
+€ =X} + 71 + Yo
+d = Iz+X3.Y1 + (x3 @ Xo)
+X3X2 X1xo
+X3Xz 00 X1Xo
+01
+1l
+10
+00
+01
+11
+10
+00
+00
+01
+01
+11
+11
+10
+10
+f = 72 + YI.Xo + X3. (X1 + %6)
+e = 73.72 + %3' X2' X1  %0 + Xo' (x3 € x1)
+ou
+f = 72 + X3 7o + 71. (x3 + 70)
+X3X2 X1Xo
+00
+01
+11
+10
+00
+01
+11
+0
+10
+g
+9 = 71 + (x3 0 xo)
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2014
+Page 12/18
 
+--- page 15 ---
+STI - Mathématiques Physique & Physique Chimie
+Document Réponses Etude mécanique
+C.2- ASSERVISSEMENT DE POSITION DE LA MONTURE DUN HELIOSTAT
+C.2.1- Modélisation du moteur C.2.1.1 - Déterminer Yexpression de la fonction de tansfert du moteur  M(p) = 2a(2 la mettre U(p) Km sous forme canonique Mp) = 1+TM P U(p) = R I(p) + E(p) (1) E(p) = Ke Dm (p) (2) Kc = = Ke M(p) Cm (p) = Kc I(p) (3) KcKe+RJ p 1+ RJ KcKe Jpfz(p) = Cm (p) (4)
+C.2.1.2 - En déduire les expressions puis les valeurs de Km et de Im.
+1 Km = Ke
+RJ KzKe
+Tin
+A.N
+Kr = 50
+Tm
+10-25
+C.2.2- Asservissement de position de la monture de lhéliostat C.2.2.1 - Transformer le schéma fonctionnel de la figure C.4 SOUS forme dun système 2 retour unitaire.
+8c (p)
+€1 (p) CX
+e(p) C(p)
+Dm (p) M(p)
+0(p)
+T
+p
+B
+Kg
+C.2.2.2 - Sans correction tachymétrique Dans Unl premier cemps, On fixe B = 0 ce qui tevient à supprimer la correction par retour rachymétrique: On fixe A = 1. Le correcteur 'proportionnel : C(P) = Kavec K > 0.
+C.2.2.2.1 - Dérerminer; en fonction de K, la fonction de transfert en boucle ouverte et en boucle fermée notées respectivement Ho(p) et Hr(P)
+&.T.AK.M(p) C.r. A.K. K; Ho(p) = p(1 + Tmp)
+{,IK Ho (p) p(1 4 10 -2p)
+AN
+Ho(p) Hr(p) = 1 + Ho (p)
+10K
+AN.
+Hr(p) = p? + 100 p + 1OK
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2014
+Page 13/18
+
+--- page 16 ---
+2 / / Mathematiques Physique & Physique Chimie Document Réponses Etude mécanique C.2.2.2.2 - Exptimer; en fonction de K, le gain statique (Ks) le facteur damortissement (m) et la pulsation propre (@0) du système en boucle fermée. ( Ksog = 10K Kswg 1 Hf (p) = avec 2mwo = 100 p2+2nwo p+w3 0} = 1OK
+50 m = VIOK
+Ks = 1
+Wo = V1ok
+C.2.2.2.3 Calculer la valeur de K garantissant une réponse indicielle en boucle fermée caractérisée 2 par un facteur damortissement m= 2
+K = 500
+C.2.2.2.4- Pour cette valeur de K, Déterminer La marge de phase m61 ; fiHo (jw)l =1 3 Wu =? n14P L = 7 + argHo (jwu)
+50
+50
+50 jw(1-j10 2zw)
+[Ho (jw) = Wv1+10 -44}2 argHo (jw) = actan(10 -2w)
+H,(p) = p{1+10 -2p}
+Ho (jw)
+[H,(jo)l = 1 2 Wn = 45,5 rd /s
+m(1 65 , 53
+Le temps de stabilisation approximatif Tsl+5% Ts1 ~ et Wo 2 70,71 rd /s {o
+Tslt5% = 0,06s
+Lerreur de traînage en régime permanent €vl (co) pour une consigne en rampe unitaire. Ho (p) est de classe 1 1 0c (p) = 2? x Ev1 (c) = AN . €v1 (%) = 0,2% 0,1K
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2014
+Page 14/18
+
+--- page 17 ---
+STI Mathématiques Physique & Physique Chimie
+Document Réponses Etude mécanique
+Le correcteur est maintenant du type proportionnel intégral : C(P) = Ko(l+2) T;P C.2.2.2.5- Déterminer, en fonction de Ko et T;, la fonction de transfert en boucle  ouverte notée Go(P) 1 + "P) C(p) = Kp Tap Ét . T.A.C(p) M(p) &.7.A.Kr  Ko (1 + Tip) 0,1Kp(1 + TiP) Go (p) AN. Go(p) P Tip2(1 + Tmp) T;p?(1 + 10 -2p)
+C.2.2.2.6- En utilisant le critère de Routh, étudier la stabilité  du système en boucle   fermée Cn fonction de Ko et T;.
+L'équation caractéristique en boucle fermée Ti Tmp3 + Tip? + c.r.A. Km' Kotip + a.r.A. Km' Ko = 0
+Ce condition Tous les a; doivent être présents et de même signe 5 Ti > 0 et Ko > 0
+2-c condition :Tous les termes de la [ere colonne de la table de Routh doivent être présents et de même
+signe.
+Table de Routh :
+p' p? 27 2o
+Ti Tmn
+Q.T.A. Km' KoTi c.r.A. Km. Ko
+Ta
+&.r.A. Km' Ko(Ti Tm ) œ T.A. Km' Ko
+K, > 0
+T; 7 Ln
+AN.
+7; > 10-25
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 20/4
+Page 15/18
+
+--- page 18 ---
+STI Mathématiques Physique & Physique Chimie
+Document Réponses Etude mécanique
+C.2.2.2.7 - Pour Ko = 500 et T; = 0.1s, on obtient les diagrammes de Bode (Figure C.5) de Golj@) et 1a réponse indicielle unitaire (Figure C.6) du système en boucle fermée notée GaP) Diagramme 2 Boce de CC} } R8o1 ngk ek 12ta/< Gii
+9 w
+06
+5 235 e
+m(z
+Ts2+5% 220 {rads) 10 ' 625 Kouconds) Figur? C5 : Diagrammes d Bode d Go(jo) Figure C.6 Réponse indicielle du système en boucle fermée de Gflp) Dérerminer graphiquement (faire la construction nécessaire) La marge de phase m(2 ;
+m762 ~ 52", 9
+Le temps de stabilisation Ts2+5%;
+Is215% 0.16 s
+Calculer Verreur de traînage en tégime permanent €v2(c) pour une consigne en rampe unitaire. (Go(p) est de classe 2 1 0c (p) p? Evz (%) = 0 AN. Ev2 (co) = 0
+C.2.2.3 - Avec correction tachymétrique On prend en compte le retour tachymétrique B # 0, On impose A = 10 et On considère UlIL correctewr proportionnel : C(p) = Kavec K la valeur trouvée dans le paragraphe C.2.2.2.3. 4.22.3.1- Déterminet; en fonction de B, les fonctions de transfert en boucle ouverte et en boucle fermée notées respectivement To(p) et TAP)
+To(p) = #TAK Km P(i+RAKgKm+Tni?)
+500
+AN.
+To (p) p(1 + 508 + 10 -2p)
+Tolp) {+To(p)
+Tf (p)
+N.
+5. 10'
+Tf (p) p2 + 100 (1 + 5Op)p + 5.104
+
+--- page 19 ---
+STI - Mathématiques Physique & Physique Chimie Document Réponses Etude mécanique C.2.23.2- Monttet qu'il est possible de déterminer le gain B de façon que la réponse indicielle en
+boucle fermée soit caractérisée par un facteur damortissement m = 2 Ks03 = 5. 10+ Ksw, T;(p) Avec ZmWo = 100 (1 + 508) W = 223,61 rd/s P?+2mwo p+03 w} = 5.10'
+B = 0.043
+Pour cette valeur de B, on donne sur la figure C.7 les diagrammes de Bode du système en boucle ouvette To(jo) Clajrartrn de Bsdo J0 "Olw !
+5 250 4
+Fcc
+30 228
+8 3223
+m(; u
+55
+Kradi}
+Figure C7 : Diagrammes d Bode de To (jo)
+C.2.2.3.3 - Déterminer; graphiquement; la marge de phase mw3 (faire la construction nécessaire)
+mo3 = 65", 2
+C.2.2.3.4- Calculer Le temps de stabilisation approximatif Ts3+5%
+Ts}
+avec Wuc 'loo
+223.61 rd /s
+Ts3+5% 0,02s
+lerreur de traînage enl régime permanent Sv3 (c) pour une consigne en rampe unitaire. ( T,(p) est de classe 1 1 0 (p) = p2
+2(1+508) €v3(co) = S00
+AN.
+€v3(co) = 0,06%
+
+--- page 20 ---
+STI Mathématiques Physique & Physique Chimie
+Document Réponses Etude mécanique
+C.2.2.4- Conclure quant aux performances assurées par les deux configurations sans et avec tetour tachymétrique
+Performances
+Critère
+B = 0 P PI 65", 53 52" 9
+B + 0 P 659 2
+Stabilité
+m6
+Précision
+Ev(c ) en % Ts +5% en 5
+0,2
+0
+0,06
+Rapidité
+0,06
+0,16
+0,02
+La correction tachymétrique a un effet stabilisant tout en améliorant la précision et la rapidité du système en boucle fermée .
+
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2014
+Page 18/18

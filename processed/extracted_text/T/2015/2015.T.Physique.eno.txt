@@ -1,6 +1,111 @@
+--- page 1 ---
+133j142/63j1 ".Jxælgzts   gæLÆï 6 [ doiw Tibji @ijbLiji  ujitji `us Jalui 2015 69
+REPUBLIQUE TUNISIENNE
+Ministère de 1Enseignement Supérieur et de la Recherche Scientifique
+Gtzl
+Concours Nationaux dEntrée aux Cycles de Formation d'Ingénieurs Session 2015
+Concours Technologie Epreuve de Physique
+Date Jeudi 11 Juin 2015 Heure 8 H Barème Problème 1 : 5 pts Problème 2 5.5 pts
+Durée 4 H Problème 3 6 pts
+Nb pages
+Problème 4 : 3.5 pts
+Seules les calculatrices non programmables sont autorisées
+Une présentation claire et soignée des copies est vivement recommandée. Une numérotation claire et précise des réponses aux questions est indispensable. Un candidat peut toujours se servir dun résultat fourni par l'énoncé pour continuer sa composition
+Données numériques Charge élémentaire e=1,6 10-19 C Masse de lélectron me-0.91 10-30 kg Vitesse de la lumière dans le vide c= 3.0 108 m.s' La permittivité électrique du vide est  tel que 2910' SI ATSo Perméabilité magnétique Lo 4710 Hm
+Formulaires
+rot (rotk) grad(divT) Au
+Problème 1
+Lapproche   classique  permettant dexpliquer le phénomène de conduction dans un métal consiste à considérer que les électrons libres sont des particules qui obéissent aux lois de la mécanique classique. Le milieu matériel considéré ici est globalement neutre. Il est décrit par un ensemble délectrons évoluant au sein dun réseau constitué de charges positives fixes:. Les interactions de ces électrons avec ce milieu sont prises en compte en leur   affectant une masse m et en introduisant une force de frottement F mv où T est une constante a/2  positive caractéristique du milieu et est la vitesse associée au mouvement densemble des La/2 électrons sous leffet dun champ électrique    Figure 1  1 .  ' Le poids de Pélectron est négligeable devant la force électrique qui lui est appliquée.
+Concours Technologie
+Session juin 2015
+Epreuve de Physique
+Page 1/7
 
+--- page 2 ---
+On considère dans un repère orthonormé direct (oux,4,,u2) un échantillon parallélépipédique (figure 1) délimité par les plans x=0 et x=L, y=0 et y=l , z=-a/2 et z=a/2 Cet échantillon est soumis à un champ électrique permanent et uniforme =
+1- Ecrire léquation de mouvement de lélectron de charge (-e) animé d'une vitesse v 2-  Expliquer   pourquoi   la vitesse   moyenne des   électrons   (v(t =0)) =0 est   nulle en absence de E 3- On annule brusquement   le champ électrique.  Déterminer; une constante près,   la solution de cette équation. Quelle est lunité de cet préciser sa signification physique ? Déterminer 1expression de en présence de E Exprimer celle correspondante au régime permanent. Ecrire cette vitesse sous la forme v =uE où u est la mobilité des électrons à exprimer en fonction de e, m et 5- Montrer que lorsqu'on ne tient pas compte de la force de frottement; on trouve un résultat en contradiction avec lexpérience. 6- Le matériau considéré contient n électrons par unité de volume, déterminer en régime permanent la densité de courant J6 engendrée par ce mouvement de charge. Exprimer la loi dOhm reliant j au champ E En déduire la conductivité électrique Yo du matériau en fonction de e, m; net z 7 - La conduction est assurée par des électrons de masse effective m=0,06me, avec me la masse de lélectron. Calculer r pour Yo-100 Sm-1 et n=10?4m-3 . Commenter la valeur obtenue. 8- Le champ électrique étant appliqué suivant Ox; déterminer /expression de Vintensité de courant traversant le matériau à travers le plan yOz. Exprimer de même en fonction de jo et Yo la différence de potentiel entre les plans x=0 et x-L. En déduire la résistante Ro de Péchantillon. 9- On se propose de déterminer le champ magnétique propre B créé par V'échantillon parcouru par le courant de densité volumique jo jo u . Il est considéré comme une distribution volumique de courant infinie dépaisseur a (a<<Let a<< 0 9.1-Par des considérations de symétrie; déterminer en tout point de l'espace; la direction de B et les variables dont-il dépend 9.2-Montrer que ce champ est nul dans le plan z=0. 9.3-Ecrire équation locale du théorème d'Ampère; et déterminer B dans  la région ~al2<z<al2 9.4-Ce champ est-il à flux conservatif ? 9.5-Calculer sa valeur en z=-a/2 pour a=10 um et jo=106 Am 10- L'échantillon est soumis à un champ magnétique B=Bu dintensité B=IT et à un champ électrique E contenu dans le plan xOy. Les interactions électroniques sont toujours décrites par la force de frottement F 10.1- Calculer le module du champ magnétique résultant de la superposition du champ propre et du champ appliqué. Commenter . 10.2- Ecrire Péquation   différentielle du mouvement   de lélectron en fonction dela densité volumique du courant j  parcourant léchantillon. 10.3- Montrer qu'€ en régime permanent; on obtient la relation suivante
+Concours Technologie
+Session juin 2015
+Epreuve de Physique
+Page 2/7
 
+--- page 3 ---
+ 
 
+ 1 '  E =1j, B j,  ne   s Yo  E  8j. +1j, ne  
+ Où js et jy sont les composantes de j dans le plan xOy.
+10.4- On applique une différence de potentiel V entre x=0 et x=L. Le champ électrique E est supposé uniforme E=Eu Etablir la nouvelle expression de Fintensité de courant à travers le plan yOz. Montrer que V peut s'écrire sous la forme YoB  V Yo ne 10.5- Déterminer l'expression de la nouvelle résistance R de léchantillon et en déduire son écart: R -R 7 = R Calculer cet écart à Faide des données numériques précédentes: Commenter.
+Problème 2
+On se propose d'étudier dans cette partie la propagation d'une onde électromagnétique plane sinusoïdale de pulsation @ dans un conducteur. Celui-ci est décrit par un ensemble d'électrons (charge ~e, masse me) Ce milieu; rapporté un repère orthonormé direct (o,u ,4yj4z possède les mêmes constantes électrique et magnétique que le vide (6-E0, u=uo) Dans la suite on ne considère que le régime forcé sinusoïdal du mouvement de charges. En notation complexe; le champ électrique de cette onde s'écrit E=Eo A0t-k2) 0, avec i2 =-1 et Eo une constante positive.
+11- Ce conducteur contient n électrons par unité de volume. Ecrire léquation différentielle du mouvement des électrons. On néglige la force de frottement et leffet de la force magnétique de Fonde. On suppose que les dimensions atomiques sont faibles devant la longueur d'onde 12 - Déterminerla densité de courant j engendrée par ce mouvement.  L'exprimer en ne fonction de €0 0 E et dune pulsation de coupure @ telle que @p En déduire mg€o Fexpression de la conductivité électrique du milieu 13-A Faide de Féquation de Maxwell-Gauss et de léquation de conservation de la charge, montrer que la densité de charges P dans le conducteur est nulle. En déduire que [ est transverse.
+Concours Technologie
+Session juin 2015
+Epreuve de Physique
+Page 3/7
 
+--- page 4 ---
+14-Ecrire léquation de Maxwell Ampère et établir 1équation de dispersion donnant le carré du module du vecteur   donde k? en   fonction de 0, @p et Décrire le comportement de londe dans le conducteur pour @> @p et @< @p 15-Exprimer  quand c'est possible les vitesses de phase v et de groupe vg de Ponde Comparer vp et c, puis commenter 16-Citer et expliquer une application de cette propagation mettant en évidence son intérêt dans le domaine des télécommunications 17-Dans la suite; on tient compte des collisions électroniques à laide de la force de frottement € mé Déterminer les expressions de la densité de courant j et de la conductivité   électrique En déduire   que   la nouvelle   équation de   dispersion   peut s'écrire
+k
+1 =i
++io
+18- On étudie dans cette question le cas des collisions fortes en basse fréquence @ <<
+18.1-En déduire la nouvelle équation de dispersion
+18.2- On donne @p=1014 rd/s, 7=10-16 s, et on se place dans le domaine de fréquence tel que @((rads) € [10  10*] . Montrer   que dans ces   conditions;   la   solution de léquation de 1-i dispersion s'écrit k = Donner Pexpression de & Quelle est sa signification physique ? Calculer & pour 0=10" rads et y=5,8 107 Q.m-' commenter.
+18.3- Ecrire la nouvelle expression du champ électrique de londe en fonction de & Qu'elle est la nature de cette onde ? Donner sa vitesse de phase_
+18.4- En déduire [expression de son champ magnétique B
+18.5- Déterminer la valeur moyenne dans le temps de son vecteur de Poynting. 18.6- Exprimer la puissance moyenne qui traverse une section $ perpendiculaire à (Oz) sous la forme P = P e-" où Po et a sont des constantes à exprimer en fonction de S, Eo Yet 8. Quelle est lunité de œ et préciser sa signification physique?
+19-On étudie dans cette question la réflexion sur un conducteur parfait. 19.1- Vers quelle limite tend 8 pour un conducteur  parfait ? En déduire les valeurs du champ électromagnétique et de la densité de courant dans un tel conducteur. Décrire le comportement dune onde envoyée sur celui-ci. 19.2- La densité de courant est-t-elle nulle à la surface de ce conducteur Justifier .
+Concours Technologie
+Session juin 2015
+Epreuve de Physique
+Page 4/7
 
+--- page 5 ---
+Problème 3
+On considère dans le système d'axes (O,x;y;,z) une onde électromagnétique sinusoïdale (onde S) de pulsation @ se propageant dans le vide. En notation complexe; son champ électrique s'écrit
+7= Eosin (ay) {@t-k) (5,+i Bu,  où Best une constante positive
+20- On étudie dans cette partie le cas où B= 0et @ # 0. Londe considérée se propage entre deux plans conducteurs parfaits d'équations y = 0 ety = L > 0 (figure 2)
+20.1- Cette onde est-elle progressive ? Est-elle plane ? Justifier les deux réponses. 20.2- Ecrire les équations de Maxwell dans lespace vide entre 0 et L. Etablir léquation de propagation de E dans cet espace 20.3- Déterminer la relation de dispersion reliant K, %, c et @
+21.1- Ecrire les conditions aux limites sur € en y = L, et les valeurs   possibles de s'écrivent cn Conductounpbrfaltr montrer   que fonction dun nombre entier m. En déduire k? en fonction Figure 2 de @, L, c et m. 21.2- Montrer qu'il existe une pulsation de coupure @cms au dessous de laquelle il n'y plus de propagation de F'onde entre les deux plans.
+21.3- Déterminer le champ magnétique B de cette onde. Ce champ est-il transverse ?
+21.4- Ecrire les conditions aux limites sur B au niveau de linterface y=L. En déduire la densité de courant surfacique sur cette interface_
+22-Dans cette question on se place dans le cas où k=0 et a = 1
+22.1- Montrer que @cm ne peut prendre qu'une seule valeur que /on donnera en fonction de L et c. Quelle est dans ce cas la nature de Fonde ?
+22.2- Déterminer la densité dénergie électromagnétique moyenne dans le temps 23-Le terme en sinus de Ponde S montre que celle-ci résulte dun phénomène d'interférence entre deux ondes. On se place dans la suite sur le plan déquation y présentant une 2a frange brillante avec B+0.
+23.1- Ecrire en notation réelle les expressions des composantes Ex et Ey du champ électrique de cette onde
+Concours Technologie
+Session juin 2015
+Epreuve de Physique
+Page 5/7
 
+--- page 6 ---
+23.2- Déterminer Véquation de la trajectoire décrite par 1extrémité de E Quelle est la polarisation de cette onde pour B =0 et B =1 dE 23.3- Etablir Fexpression de E et discuter en fonction de B le sens de rotation de la dt polarisation. Distinguer les cas B>0, B<0, B=0et B =1.
+24-Considérons une cavité vide de forme parallélépipédique de longueur d et de section carrée de côté 2a (figure 3) Les faces de cette cavité sont des conducteurs   parfaits. Des ondes stationnaires de fréquence bien précises peuvent s'établir dans 1espace vide de cette cavité Ces ondes constituent les modes de résonance dune telle cavité.
+Dans cet espace le champ électrique de ces modes s'écrit
+Eox cos(k,x)sin(ky "y) sin(k-z) E={E sin(k,x)cos(k,y)sin(k,z) Oy Eoz sin(k,x)sin(kyy)cos(k_z)
+Figure 3
+Où kxs ky et kz sont les composantes du vecteur d'onde k Dans cette expression la dépendance temporelle a été omise. Notons que cette onde résulte dune combinaison linéaire d'ondes planes.
+24.1- Identifier les composantes tangentielles du champ sur les interfaces x=2a, y=2a et z=d Montrer Taide   des   conditions aux   limites sur E que les   composantes de k s'écrivent
+kr = m 2a
+ky =n 2a
+k; =9 d
+avec m, n et q des entiers.
+24.2- Montrer que la fréquence des modes de résonnance s'écrivent Vmnq (2) +(%) 2 24.3- Déterminer la fréquence des modes   longitudinaux (ondes se propageant suivant_Laxe Oz). Déterminer la différence de fréquences Av entre deux modes longitudinaux successifs de cette cavité 24.4- Pour une cavité laser, on peut choisir d=0.3m, a=Scm, et 9 106 alors que m et n ne dépassent pas quelques unités. En faisant un développement limité au premier ordre en déduire la nouvelle expression de Vmnq 
+1 
+Concours Technologie
+Session juin 2015
+Epreuve de Physique
+Page 6/7
+
+--- page 7 ---
+Problème 4
+Ce problème étudie le transfert thermique par conduction dans un cylindre daxe Ox. On ne considère que le régime permanent.
+25- Rappeler les formules donnant les grandeurs suivantes tout en précisant dans chaque cas les grandeurs intervenant dans ces formules ainsi que leur unité 25.1- La densité de courant thermique dans le système de coordonnées cartésiennes suivant Ox. 25.2-Le flux thermique par conduction à travers une surface (S). 25.3- Le flux thermique échangé par convection entre une paroi solide et un fluide? Exprimer dans ce cas la résistance thermique Rcv par convection.
+26- On considère un cylindre daxe Ox de section $, de  longueur et de conductivité thermique 4. Dans cette question; on ne tient compte que de la conduction thermique suivant Faxe Ox. 26.1- Ecrire léquation de la chaleur en régime permanent sans source interne. 26.2- Déterminer sa solution. On donne T(x=0)=T1 et T(x=L)=Tz<T1 26.3- Déterminer le flux thermique à travers la section du cylindre et en déduire Fexpression de sa résistance thermique Rc.
+27- Un barreau cylindrique daxe Ox de section S= 2cm? est constitué de deux barreaux de même sections soudés entre eux. L'un deux est en aluminium de conductivité thermique 21=200 (unité SI) et de longueur L,=80 cm; l'autre est en cuivre de conductivité thermique 42=380 (unité SI) et de longueur L2=50 cm. Les températures des extrémités libres du barreau daluminium et du barreau de cuivre sont respectivement T1=180  C et Tz 0 %C Les faces latérales sont isolées_ 27.1- Exprimer et calculer la résistance thermique Rr de Pensemble de deux barreaux en fonction de L1, Lz, S, 11 et ^2. 27.2- Déterminer la température T; au niveau de la jonction des deux barreaux 27.3- Calculer le gradient de température le long de chaque barreau. En déduire les densités de courant thermique correspondantes Commenter 27.4- Calculer la quantité de chaleur qui traverse la section commune de deux barreaux en une minute.
+28- On considère deux barreaux cylindriques B1 et B2 de conductivités thermiques 11 et 12 inconnues. Leur section commune est $=3 cm et leurs longueurs sont tels que L, 80 cm et Lz variable. L'équation d'évolution de la résistance totale Rr de deux barreaux en fonction de Lz sécrit Rr =12,12 8.31 Lz où Rrest en W'K et Lz en m. 28.1- Déduire la résistance R, et la conductivité thermique 41 du barreau B1. 28.2- Calculer la conductivité 12, et la résistance Rz du barreau B2 pour Lz 50 cm.
+Fin de Pépreuve
+Concours Technologie
+Session juin 2015
+Epreuve de Physique
+Page 7/7

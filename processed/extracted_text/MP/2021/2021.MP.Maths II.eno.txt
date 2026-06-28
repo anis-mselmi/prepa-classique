@@ -1,3 +1,68 @@
+--- page 1 ---
+République Tunisienne Ministère de [Enseignement Supérieur et de la Recherche Scientifique Concours Nationaux dFntrée aux Cycles de Formation dIngénicurs ScaRion 2021
+1aai La19642J) &1sU+jBèpe BGMw#eal J>v &ni EubllJi 04+1j 44811j) 20216,8
+Concours Mathématiques et Physique Epreuve de Mathématiques II
+Session 2021
+Date 25/06/2021
+Heure 8H
+Durée 3 heures
+La qualité de la rédaction et de la présentation; la clarté et la précision des raisonnements entreront pour une part importante dans Vappré ciation des copies. L'usage des calculatrices n'est pas autorisé. Tout résultat fourni dans lénoncé peut être admis et utilisé par la suite, même s'il n'a pas été démontré.
+Notations et définitions Dans tout le problème, n désigne un entier naturel non nul. La matrice transposée dune matrice A € Mn (R) est notée  A et In est la matrice identité de Mn(R). Lespace R" est identifié Mn,1 (R). On munit R" de son produit scalaire usuel et de la norme eucilidienne associée
+X1
+Y1
+pour X =
+et Y =
+dans Rn on a
+Xn
+Yn
+< X,Y > = 'XY = Exkyk et ||Xllz
+x2 k=]
+Une matrice A € Mn(R) est dite orthogonale si tAA = A'A = In. On désigne par On(R) Ten- semble des matrices orthogonales S: (R) = {A € Sn(R);'XAX 2 0, VX € R"}, où Sn(R) est Yensemble des matrices symétriques réelles dordre n. On dit que deux matrices A et B dans Mn (R) sont orthogonalement semblables s'il existe une matrice orthogonale P telle que A = tPBP. Pour A € Mn(R), on note Sp(A) Tensemble des valeurs propres complexes de A et p(A) le rayon spectral de A, le réel défini par p(A) max {|A| ^ € Sp(A)}
+A1
+(0)
+Pour s € N* on note diag ( A1, -, As la matrice diagonale par blocs suivante
+0)
+As
+où pour tout i € {1,-,s} , Ai € Mni  (R) et n; € N* .
 
+--- page 2 ---
+Concourn Mathématlquen @t Phyuique
+Epreuve de Mathématiquen II
+Page 2 gur 4
+Pour A € Mn(R), on note IllAlllz sup JAxlz 7XI2 sup   |AXIl2. On admet que |ll-|ll2 est une XeRn | {0} Ilxllz =1 norme sur Mn(R) vérifiant V(A,B) € Mn(R) x Mn(R), IllABIlz < IllAlllzlllBlll2. Si F : R" ~ R est une fonction différentiable alors, pour tout X € R" le gradient de F en X noté VF(X) est lunique vecteur dans R" vérifiant VH € R" , dF(X) H =< VF(X), H > . Si F: R" _ Ret y :] - 1,1[-+ R" sont deux applications de classe CI , alors Foy : tu+ F(y(t)) est de classe Cl sur ] ~1,1[ et on a : Vt €] - 1,10 #F(y(t)) =< VF(y(t)),Y (t) > .
+Dans toute la suite on considère une matrice A € Mn(R) telle que son polynôme caracté- ristique est scindé dans R[X]. Questions préliminaires (4 points) 1. Quelques propriétés du rayon spectral (a) Donner p(AIn + N), où À € Ret N € Mn(R) une matrice nilpotente. (b) Montrer que (i) Pour tout k € N, p(Ak) = p(A)k (ii) Pour tout X € R" , |lAXIIz < IllAlllzllXllz, puis déduire que p(A) < IlIAlllz. (c) Soit ( A1, Az) € Mp (R) x Mq (RR) et M = diag( A1, Az) € Mp+9 (R) , où p et q sont deux entiers naturels non nuls Montrer que p (M) = max (p ( A1) ,p ( Az) )  2. Décomposition de Schur On se propose de montrer que A est orthogonalement semblable à une matrice triangulaire supérieure. Soit f Tendomorphisme canoniquement associé à A et B (e1,-4 en une base de R" dans laquelle la matrice de f est triangulaire supérieure (a) Justifier que, Vi € {1,-,n} , Vect(e1- ei est stable par f (b) Soit B' (€1-,en) la base orthonormale de R" obtenue en appliquant le procédé dorthonormalisation de Schmidt à la base B. Montrer que la matrice de f dans la base B' est triangulaire supérieure. (c) En déduire la décomposition de Schur 3P€On(R); A = 'PTP , où T € Mn(R) est une matrice triangulaire supérieure. Partie I (4,5 points) Rayon spectral de 'AA Soit F Rn ~9 R;X++ < AX,X > = 'XAX et S = {X€ R";llXllz = 1} la sphère unité de R" 1 (a) Justifier lexistence de Xo € S tel que F ( Xo) maxF(X) Xes (b) Montrer que F est de classe C1 sur R" et que VF(X) = ('A+ A) X, VX € R" . Soit V € R"| {0} un vecteur orthogonal à Xo. On considère également
+Y :] = 1,1[- R";t F + cos (tll Vllz) Xo + sin (t|lVllz) V . IvIlz
+(c) Vérifier que Y (0) = Xo, Y (0) = V et que, pour tout t €] = 1,1[, Y (t) € s.
 
+--- page 3 ---
+Concours Mathématiques et Physique
+Epreuve de Mathématiques II
+Page 3 sur 4
+(d) Vérifier que la fonction Foy admet un maximum en 0. Que vaut alors la dérivée de la fonction Foy en 0 ? (e) En déduire que VF ( Xo),V > = 0, puis que VF (Xo) = AXo, où ^ € R Justifier que ^ est une valeur propre de tA+ A et que 'XoAXo 2
+2 Conclure que max {XAX| = 2P ( A + A). Xes 3 Montrer alors que Vp(AA)= = IIIAJll2. 4 En déduire que
+(a) Si A = diag( (A1,Az),où A1 € Mp (R) et Az € Mq (R), alors |l|Alllz max (IllAzlllz; IllAz |ll2) - De même, on admet que si A diag( Av-,As_ est une matrice diagonale par blocs; alors |lAlllz max {IllAilllz 1 < i <s} (b) Si A est une matrice symétrique réelle; alors p (A) = IllAIllz. Partie II (5,5 points) Formule de Gelfand Soit n 2 2 On se propose de montrer la formule de Gelfand suivante
+p(A) = lim IIA*IlI4 kzr+o
+1. Vérifier lorsque A est une matrice nilpotente. 2. On suppose que A = AIn + N, où ^ € R* et N est une matrice nilpotente
+(a Soit k > n. Montrer que II VAklllz = <k"lapk-" Elaj"-'lllN'Illz 1z0 (b) En déduire ( * ) , dans ce cas. 3. Soit s € N* Démontrer lorsque A = diagu (A1,-,As) , où, pour tout i € {1,-,s} , Ai = AiIn; + Ni avec n; € N* , A; € R et N; est une matrice nilpotente dodre ni. (On pourra utiliser la question 4 de la partie I) 4. Cas général Soit f : Rn 4 R";X F + AX, Yendomorphisme canoniquement associé à A On note XA =II(x - ^;) m , le polynôme caractéristique de A. 1=1 (a) Montrer que R" = ker(f _ Aid) m1 ker( f Asid) ms_ Dans la suite, on note Fi = ker( f Aiid) m (b) Montrer que, Vi € {1,-,s}, F; est stable par f et que Yendomorphisme induit par sur Fi se décompose de la manière suivante : fF; = A;idF; + ui, où u; est un endomorphisme nilpotent de Fi (c) En déduire que A = PAP-1 avec P € GLn  (R), À = diag( A1, ,As) , où Ai = AiIn; + Ni, Ai € Ret N; est une matrice nilpotente. (d) Montrer que, pour tout k € N*_
+(HIPlllzll P-1 'Illz) ~4 'Il~*u1g < IllA*I14 < (IllPIllzllIP -'Illz)#Ill~'Il4 (e) En déduire
 
+--- page 4 ---
+Concours Mathématiques et Physique
+Epreuve de_ Mathématiques II
+Page 4 sur 4
+Partie III (6 points) Matrices radiales On dit que la matrice A est radiale si |llAlllz = p(A). Donner un exemple dune matrice radiale.
+2 Soit M =
+€ Mz(R). La matrice M est-elle radiale ?
+3 Première caractérisation (a) Vérifier que A est radiale si, et seulement si, p(A) 2 IllAlllz. (b) En déduire que si A est radiale alors, pour tout k € N, la matrice Ak est aussi radiale. (c) Montrer que A est radiale si, et seulement si, (p(A)?In #AA) € Si (R).
+(d) Soit M =
+où a et b sont deux réels strictement positifs.
+Montrer que M est radiale si, et seulement si, a = b.
+(e) Soit (@,T,P) un espace de probabilité, X et Y deux variables aléatoires réelles indé- pendantes suivants la même loi géomètrique de paramètre p €J0,1 [. Pour w € 0, on X(w) note M(w) Y(w) Déduire que P({w € 0 tel que M (w) est radiale} ) 2 _ p Deuxième caractérisation Montrer que A est radiale si, et seulement si, pour tout k € N, IIIAkIllz = IIIAIIIS: (On pourra utiliser la formule de Gelfand pour démontrer la réciproque) 5 Troisième caractérisation On suppose que 11,-,An les valeurs propres de A sont ordonnées de la manière suivante
+p(A)= 141/ = |A2/ =
+Jas| > |4s+1/ 2 2 |An| Montrer que A est radiale si, et seulement si, est orthogonalement semblable une matrice diagonale par blocs de la forme suivante Às+1 (0) A diag(41, ,Às, B) , avec B = vérifiant (p(A)?In -s 'BB) € Sn-s(R).
+(bij)
+An (On pourra utiliser la décomposition de Schur).
+6. Soit M =
+€ M3(R).
+Vérifier que M est une matrice radiale. La matrice M est-elle diagonalisable ?
+Fin de lénoncé

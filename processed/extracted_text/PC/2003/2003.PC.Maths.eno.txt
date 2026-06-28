@@ -1,3 +1,60 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de ['Enseignement Supérieur de la Recherche Scientifique et de la Technologie
+(Reeparatoie  (eiblotheque | 2 etudes 5 Dugemieuss >
+Concours Nationaux dEntrée aux Cycles de Formation d'Ingénieurs Session Juin 2003
+Concours en Physique et Chimie
+Épreuve de Mathématiques
+Durée 4H
+Date 6 Juin 2003
+8H
+Vb pages
+Barème
+Partie I lOpts
+Partie II IOpts
+L'usage des calculatrices est strictement interdit Une grande importance sera attachée à la rigueur du raisonnement, à la clarté de la rédaction et au soin de la présentation. Il est rappelé que tout résultat énoncé dans le sujet peut être utilisé pour traiter la suite, même s'il n'a pu être démontré
+Partie L:
+A) Pour I € R Z, on pose oc 1oo f(z) = I2 +E(z =n)? 7+n)) = 2 (zn) n=l n==00 1 Montrer que f est bien définie sur R Z, paire, 1-périodique. b) Montrer soigneusement que f est continue. 2 Vérifier que pour tout I € R Z, 4f (r) = f(4)+f(442) T2 3. a) Montrer que lapplication g: I  + f(r) se prolonge par continuité en 0 sin? TI b) En déduire que g se prolonge sur R en une application h continue bornée sur R 4. a) Montrer que pour tout I € R, 4h(r) =h(7)+h(432) b) En déduire que h est identiquement nulle sur R et
+Hr € R| Z sin TI (z + n)2 n=00 (On pourra considérer V Supzez Ih(z) ).
+1/4
 
+--- page 2 ---
+B) Pour tout _ € R Z. on considère la fonction F(t) = cos(tr), pour t € [~T,T] a) Donner la série de Fourier de F b) En déduire que
+o 2r 1 _ I2 _ n? n=l
+Tcotg(TI)
+Vr € R Z
+Fo 2(-1)"I 12 n2 n=1
+1 = sin TI
+r € R  Z
+Fo0 (~1)" et 2n2 2n2 n
+2 Calculer
+3.
+Montrer que la série log(1 converge absclument pour I €] - 1,1[ n2 n=1 o 12 On pose 4(r) log(1 Pour I €] = 1,1[ n? nl b) Calculer $(0) et $'(z). pour I €] - 1, 1[ c) En déduire que <(r) Jog sinfz pour I €] - 1, 1[| {0}  I2 d) Calculer lim II( n=+o k2 kl C) 1 Montrer que la fonction t F + tI-le-t est intégrable sur ]0, +o[, pour tout I > 0. ra On pose T(z) = t-'e-tdt, SUI Jo, +o [
+2. a) Montrer que pour r > 0, T(z+1) = IT(z) b) En déduire T(n) pour n € N'_ 3. Montrer que [ est de classe C1 puis de classe C* sur ]0, +o[ et donner les dérivées successives de [ sous forme inîégrale, Pour tout n € N' , on pose fr: [0, +o[ - + R; lapplication définie par: ja(t) = (1 _ I)"si 0 < t < n et fn(t) = 0 si t 2 n Montrer que fn(t) < e-t, Vt 2 0. (On pourra montrer que log(l - u) < ~u, si 0 < u < 1.) b) En déduire que T(z) lim J< -5"~'d, Hr > 0. n=Foo n! Montrer par récurrence Sur € N que J (1-t)"+-'dt = I(I+1) ( +n) En déduire que nIn! T(z) lim Vz > 0. n=roo I(I+1) . _ (x +n)'
+2/4
 
+--- page 3 ---
+5. Montrer que pour tout I ej0, 1[
+T(r)F(1 - r) = lim II( n=zoo k2 K=[
+sin TI
+6.
+Donner la valeur de r(4) Fo b) En déduire la valeur de lintégrale #dI
+Preparorolre 1~ 962 Inerirur 6fudes dos Bial
+Fo I2ke= dr.
+Pour tout k € N. on pose Ik =
+Etablir une relation entre Ik et Ik-1. b) En déduire que Ik @?v2z
+Partie II
+A) Soit E = {f € C*(R, R); f?(r)e-# est intégrable sur R} . 1. a) Montrer que si f,9 € E, alors la fonction I   f(z)g(z)e-4 est intégrable sur R b) En déduire que E est un sous-espace vectoriel de C*(R, R). 2 Soit ( Fapplication définie sur E x E par:
+Fo (f.g) f(r)g(z)e-# dz V2z =o
+Montrer que (
+définit un produit scalaire sur Ej 3. Soit F = {f € E: f(0) = 0} a) Montrer que F est un hyperplan de E et donner un supplémentaire. b) Soit f € F- On considère lapplication g définie par: g(r) = #zf(r) i) Vérifier que g € F. ii) En déduire que F- = {0}. iii) La décomposition E= Fe F- est-elle valable ? c) Soit v la forme linéaire sur E définie par v(f) = f(0). i) Montrer qu il n'existe aucune fonction € E telle que v(f) = (f,g) . (On pourra considérer la suite de fonctions ( fn(I) = e-n2 )n) ii) Trouver le polynôme Q € Rz[X] tel que
+"(P) = (P;Q)  FP € Rz[X] B) On considère la fonction h sur R par: h(z) =e-4.
+3 /4
 
+--- page 4 ---
+Vérifier que pour tout n € Y il existe un polynôme P tel que h(n) (r) = Pn(z)h(z) et Pn-a(1) = PR(X) = XP(X) (h(n) désigne la dérivée n-ème de h). b) Donner Po. P. P et Ps. En déduire que Pn est de degré n, de coefficient dominant (-~1)" et de même parité que n. a) Montrer que pour tout n € Y le polynôme Pn vérifie l'équation différentielle
+(En
+y =Iy + ny = 0
+(On pourra calculer h n-2) (r) de deux manières.) b) Vérifier que pour tout n € N' Pn ~nPn-1 . Pour la suite on note Hn (~1)"Pn: 3. Soit V 2 un entier naturel. On considère ]espace Rv[X] muni de la base B {1.X XV}  Soit ç:Rv[X] Rv[X] définie par P(P) = P' XP' Vérifier que + est bien un endomorphisme de Rv[X] b) Ecrire la matrice de + dans B. Déterminer les valeurs propres de +, donner leurs multiplicités et en déduire que est diagonalisable d) Montrer que pour tout P.Q € Rv[X] (P(P),Q) = (P;p(Q)). (On pourra remarquer que 'P(P)(r) = (P' '(r)e-4)'e4.) En déduire que la famille {Ho, H1. Hv} est une base orthogonale de Rv[X] Montrer que pour tout k € N , |lHkll? = kllHx-ill? . (La norme || || est associée au produit scalaire ( ) ) . b) En déduire la valeur de |lHx|l pour tout k € N. Donner une base orthonormée de Rv[X] 5 a) Montrer que (Xv+1 Hy-1 = XN+1 2 Hxl Hx' k! k0 b) Trouver le polynôme P € Rv[X] pour lequel
+roo (z"-1 P(z))?e dz
+est minimale. puis déterminer la valeur de ce minimum. 6. On suppose que n est pair. Montrer qu 'il existe une solution de léquation différentielle (En) développable en série oc entière de la forme @2k_1I2k+1 (On pourra donner une relation de récurrence entre K=0 les a2k-! et on ne cherche pas à les calculer. b) Préciser son rayon de convergence. En déduire lensemble des solutions de (En).
+4/4

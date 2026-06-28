@@ -1,4 +1,51 @@
+--- page 1 ---
+22' ! 9 : 2 REPUBLIQUE TUMISENJE Ministère de [Enseignement Supérieur G3 2525 Concours nationaur d'entrée aUI cycles de formation d'ingénieurs Session 2006 "6as
+ass143286ad! UksÈa da uusi eueli] Mijlogul; 2006 ;>
+Concours Mathématiques et Physique Epreuve de Mathématiques II
+Durée: 3heures Date: 10 Juin 2006 Heure: 8h Vb pages:5 Barème Partie I: Spts Partie II: Bpts Partie III: 9pts
+Une grande importance sera attachée à la rigueur du raisonnement. à la clarté et au soin de la présentation. Il est rappelé que tout résultat énoncé dans le texte peut être utilisé pour traiter la suite; même s'il n'a pu être démontré
+Votations
+K désigne le corps R ou € Pour tout entier naturel n 2 2, on note: Mn.  (K) l'espace vectoriel des matrices colonnes à n lignes; à coefficients dans K. Mn(K) lalgèbre des matrices carrées d'ordre n, à coefficients dans K GLn(K) le groupe des matrices inversibles de Mn (K) Pour toute matrice 4 de Mn (K); on note *A sa matrice transposée. Pa son polynôme caractéristique et sp(A) Fensemble de ses valeurs propres: De plus; si PA(X) = I( = X). on désigne par p(4) le rayon spectral i=l de 4. c est à dire le réel défini par p(4)  sup |X;l i<izn On munit Mn( (K) de la norme |-llo; qui à toute matrice 4 = (aij)<ijsn associe le réel positif Allo = sup Jaij| 1) I<i<n j=i On munit Mn.1 (R) du produit scalaire canonique; c est à dire;
+(U.V) =
+tUV. VU.V € Mn,_ 1 (R)
 
+--- page 2 ---
+où 'U désigne la matrice ligne. transposée de la matrice colonne U. On note |-ll la norme euclidienne associée à ( )  Enfin, on désigne par $ Fensemble des matrices symétriques de Mn (R) S- Tensemble des matrices positives de S et S-+ Fensemble des matrices définies positives de S. De sorte que S = {H € Mn(R): H = H} S- = {H € S: 'WHW 2 0. V W € Mn,1 (R)}  S++ = {H € S: 'WHW > 0, V W € Mn,1(R)| {0} } . Partie I
+1.Soit 4 = (aij )uziJ<n et B = (bij)isijsn deux matrices de Mn(C) Montrer que IlABlla < |lAllaIlBllo. 2 Soit 4 € Mn(C), X € sp(4) et Va un vecteur propre associé à À On désigne par F la matrice de Mn( (C) dont les vecteurs colonnes sont tous égaux au vecteur VA a) Montrer que AF = AF b) En déduire que p(4) < IlAllo. 3.a) Montrer que pour toute matrice L de GLn(C) et toute matrice A de Mn(C) P(L-1 AL) = p(A) . b) Soit 4 € Mn(C). Montrer que pour tout enticr naturel k, p(A*) = p(A)* . 4 Pour toute matrice L de GLn(C), on désigne par NL lapplication qui à toute matrice 4 de Mn(C) associe le réel positif NL(A) = |lL-'ALllo. Montrer que NL est une norme vérifiant Nz(AB) < Nz(A)NL (B) , VA, B € Mn(C) . 5 Soit T = (tij)usijsn une matrice triangulaire supérieure de Mnl (C) Pour tout réel 0 < d < 1, on note D =diag(l,d, dn =1) la matrice diagonale de coefficients (di-')1gisn: a) Montrer que D-ITD = (tijdi-')usijSn' b) Montrer quc pour tout = > 0, il existe une matrice diagonale D: inversible telle que || D-'TD:llo < p(T) + :. En déduire que "D. (Tk) < (p(T) + :)*Vk € N c) Montrer que p(T) < 1 < lim Tk = 0 k-++0 6 En déduire que VA € Mn(R), P(A) < 1 <> lim Ak = 0, k-++0
+2
 
+--- page 3 ---
+Partie II
+1. Soit H une matrice de $. Montrer que a) H € $- sp(H) € [0, +~ [. b) H € S++ sp(H) cjo; +o[. 2. Soit 4 une matrice de Mn (R) àa) Montrer que *AA € $- b) Montrer que AA € 8++ 4> A € GLn(R). 3 Soit U.V deux éléments de Mn,1 l ((R) a)Montrer que UtU € S+ b) Montrer que le rang de UtU est inférieur ou égal à 1. c) En déduire que sp(U'U)= {0, tUU} d)Montrer que UtU = VtV si et seulement si. U = V ou U = -V. 4. Soit H un élément de &. a) Montrer qu'il existe une base orthonormale (U1, Un) de Mn,1(R) et un n-uplet ( X1. An) de réels tels que H = A;UtU; i=] b)Montrer que H € S- si et seulement si, il existe n vecteurs Vi, -Vn de Mn,1  (R) telle que H = V#V:: i=] Que peut-on dire de (Vi, Vn) lorsque H appartient à S++? 2 c) Application: Soit n = 3 et H = 2
+Vérifier que H appartient à S++ et déterminer une base orthogonale (Vi, V2, V3) de M3,1 (R) telle que H = VtVi
+Partie III
+Dans cette partie. on désigne par (E1, En) la base canonique de Mn,1(R) et R[X] Fespace vectoriel des polynômes à coefficients réels. Soit P un polynome unitaire de R[X] de degré n, tel que
+P(X) = Xn  @n-1-Kn -1
+@1X _ 0o.
+3
 
+--- page 4 ---
+On note C la matrice compagnon de P définie par
+0
+Qo 01
+0
+C =
+0 @n -2 0 1 On-1
+On suppose que les racines de P sont toutes de module strictement inférieur à 1 1.a) Montrer que Pc(X) = (-1)"P(X) . b) Montrer que CkE1 = Ek-1; V k € {0,1, n =1} c)En déduire que (In;C, Cn -1) est une famille libre de Mn (R). d) Soit Q un polynôme de R[X] tel que Q(C) = 0. Montrer que P divise Q e) Donner une condition nécessaire et suffisante pour que la matrice C soit diagonalisable 2. Montrer que (En; CEn; Cn--En) est une base de Mn,1 (R) 3 Soit w lendomorphisme de Mn (R) qui à toute matrice M associe la matrice M tCMC a) Montrer que M € ker , M = 'CPMCP , Vp € N. b) En déduire que
+M € ker +
+IlMllo < 'MllœllCPlloc l'CPllœ, Vp € N c) Montrer que + est injectif. 4. Soit B une matrice de Mn (R) a) Montrer qu 'il existe une unique matrice A de Mn(R) telle que A 'CAC = B. b) Montrer que
+'(c)* BCk = A _ ('C)p-1ACP-1,Vp € N k=0
+c)En déduire que
+~0 4 = 'Ck BCk k=0
 
+--- page 5 ---
+5 Soit H une matrice de $ et G la matrice telle que G " tCGC = H Montrer que si H appartient à S+ alors G appartient à S+
+Dans toute la suite du problème, on désigne par $ la matrice de Mn (R) telle que Q 'COC = En tEn:
+6.Soit U un élément de Mn,1 (R) a) Montrer que si QU = 0 alors (En, C*U) = 0, Vk € {0,1, 220 n = 1}- b)En déduire que Q est un élément de S++ 7. Soit V un élément de Mn,1(R) et G la matrice de Mn(R) telle que G 'CGC = VtV a)Montrer qu'il existe un unique polynôme Q de R[X] vérifiant dQ < n - 1 et V = 'Q(C)En. b) En déduire que G = 'Q(C)Q(C). 8 Soit H une matrice de S+ et G la matrice telle que G  'CGC = H a) En utilisant II.4.b, montrer qu'il existe n polynômes Q1, 289 Qn de R[X] tels que
+H = ErQ (c)nQ;(c) 'C'Q;(C)nQ;(C)C) i=1
+b)En déduire G.
+9 On suppose n = 3 et C =
+0 0 1 0 0 a) Vérifier que I3 - 'CC = E3'E3 . 2 1 0 b) Soit H = 1 2 0 la matrice définie dans la question II.4.d) et 0 0
+G la matrice telle que G ~ 'CGC = H
+3 Irouver trois polynômes Q1 Q2 et Q3 vérifiant G = 'Qi(C)Q (C). i=
+5

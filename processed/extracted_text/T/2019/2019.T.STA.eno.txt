@@ -1,76 +1,1403 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+--- page 1 ---
+498248 814?18es Bylegs CUi Jez~v bji SIbLiJi iqwaiaoi 192J U=ly 2019 3190
+REPUBLIQUE TUNISIENNE
+Ministère de 1Enseignement Supérieur et de la Recherche Scientifique
+Concours Nationaux d Entrée aux Cycles de Formation dIngénieurs Session 2019
+Concours Technologie Epreuve de
+Systèmes Techniques Automatisés
+Date Vendredi 14 Juin 2019 Heure 8 H Durée : 3 heures
+Lépreuve comporte deux parties A Mécanique des solides indéformables & Résistance des Matériaux (10 Pts) B - Automatique (10 pts) Le sujet de Yépreuve remis au candidat comporte deux dossiers 1er   "Mise en situation, Données et Hypothèses" avec un document technique DT-01 2ème  "Document Réponses" contenant les questions à traiter: NB Aucun autre document n'est autorisé. Seules des calculatrices de poche non programmables sont autorisées . Un seul et unique document réponses est fourni au candidat et doit être rendu en totalité, à la fin de lépreuve, même sans réponses. * le document réponse doit être rendu en intégralité (aucune feuille ne doit être supprimée). Cet acte est considéré comme étant une tentative de fraude.
+
+--- page 2 ---
+Dossier
+Mise en situation, Données et Hypothèses
+Ce dossier comporte 11 pages Mise en situation pages de 1 à 3 Document technique DT-01
+Données et hypothèses partie A Mécanique des Solides Indéformables pages de 3 à 5 Résistance des matériaux : pages de 5 à 6 Données et hypothèses partie B : automatique pages de 6 à 11
+  `  
+  
+1 `   
+
+--- page 3 ---
+Concours Technologie Epreuve STA
+Mise en situation, Données et Hypothèses
+SYSTÈME DE POLISSAGE DE COQUES
+1
+Mise en situation
+Le système présenté par le document technique DT-01 est une machine automatisée permet- tant d'effectuer le polissage des coques de téléphones portables. Celles-ci sont en général ob - tenues par injection de matériaux polymères. Afin daméliorer Yaspect et obtenir un état de surface lisse, ilest nécessaire d'effectuer; entre autres, une opération de polissage rigoureuse. Ce système est constitué dune unité dalimentation en coques non polies, dune unité d'évacuation des coques polies, dune unité de polissage, dun robot 2D de transfert, dun automate programmable, dune unité de régulation pneumatique.
+1l Diagramme SADT La figure 1 représente le diagramme SADT niveau A-0 du système de polissage proposé à Yétude
+Energie pneumatique Energie électrique
+Programme Mise en marche
+Informations
+Polir les coques de télé phones portables
+coques non polies
+coques polies
+A-0
+Système de polissage
+FIGURE 1 - Diagramme SADT du système de polissage
+12 Description de lunité de polissage L'élément principal de cette unité est une tête de polissage (figure 2). Elle est constituée entre autres dune plaque en feutre qui sera mise en contact direct avec la coque à polir; un méca - nisme presseur recevant de Yair comprimé à partir de lunité de régulation pneumatique: Lopération de polissage consiste à appliquer un mouvement de va et vient à la plaque en feutre tout en pressant sur la coque. Ce mouvement de translation alterné est obtenu grâce à un système roue-crémaillère commandé par un moto-réducteur @. Afin de parcourir toute la surface de la coque, le mouvement de va et vient doit s'effectuer simultanément avec un mouvement davance le long de laxe (G,Y0), G étant le centre de gravité de la surface à polir de la coque. Pour polir les arrondis de la coque, il est nécessaire de faire pivoter la tête de polissage autour de la direction 7. Ce mouvement de pivotement est donné par un support entraîné par un système poulie-courroie crantée et moto-réducteur
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page 1/11
+
+--- page 4 ---
+Concours Technologie Epreuve S.TA
+Mise en situation, Données et Hypothèses
+roue-crémaillère pour mouvement de va et vient
+support de pivotement
+moto-réducteur
+patin presseur
+mouvement de pivotement du support 'go
+coque à polir -
+Yo
+Plaque en feutre
+système poulie courroie de pivotement
+mouvement de va et vient de polissage
+moto-réducteur
+FIGURE 2 Vue partielle de la tête de polissage
+Le moto-réducteur est destiné au mouvement davance longitudinal, un autre moto- réducteur assure le mouvement dapproche de la tête de polissage dans la direction 2 (voir figures 3 et 4)
+zo
+moto-réducteur
+Yo
+FIGURE 3 vue de derrière de la tête de polissage (après enlèvement du robot pour mieux visualiser)
+Le polissage des arrondis sur les quatre cotés de la coque nécessite la rotation de celle-ci dans son plan (autour de %0) chaque fois, dun incrément de 909 . Ce mouvement est assuré par un moto-réducteur à renvoi dangle illustré sur la figure 4.
+1.3 Unités dalimentation et dévacuation Ces deux unités se présentent sous forme de tapis roulants animés chacun par un moto- réducteur dédié. Lunité dalimentation est équipée dun détecteur de présence indiquant Yarrivée dune coque au bout du tapis, soit au niveau du plan de travail du robot de transfert 2D. Le tapis de lunité d'évacuation est actionné dès que le capteur de présence indique Yexis- tence dune coque sur celui-ci et s'arrête au bout de 20 secondes, temps nécessaire à Yéva- cuation dune coque.
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2019
+Page : 2/11
+longitudinal chariot 
+
+--- page 5 ---
+Concours Technologie Epreuve STA
+Mise en situation, Données et Hypothèses
+support rotatif chariot d'approche
+moto-réducteur à renvoi d'angle
+moto-réducteur
+moto-réducteur
+FIGURE 4 - vue de gauche (moteur à renvoi dangle)
+après enlèvement des tapis et du mécanisme de polissage pour une meilleur visibilité
+1.4 Le robot de transfert Ils'agit dun robot du type 2D travaillant dans un plan perpendiculaire aux tapis dalimen - tation et dévacuation. I est muni de ventouses alimentées par un système pneumatique dépression permettant de saisir la coque: Il intervient pour transférer la coque à partir de lunité de polissage (précisément du support rotatif) vers le tapis d'évacuation et du tapis dalimentation vers lunité de polissage. Il est muni de deux actionneurs linéaires élec- triques.
+2 Mécanique des solides indéformables système 2D robo- tisé Le robot proposé à Yétude s'intègre dans la famille des robots parallèles à deux dimensions. Il est utilisé pour transférer les coques entre les différentes zones de traitement. La structure du robot fait apparaître, comme le montre la figure 5, un ensemble formé principalement de six solides . La motorisation du système assure le déplacement du coulisseau (1), le long dun axe fixe lié au bâti (0) et aussi le déplacement du bras coulissant (3) le long dun axe lié au solide (2) qui est en liaison pivot avec le bâti (0). Le robot comporte deux bras identiques (4) et 4 articulés au coulisseau (1) en A et A1. Ils sont aussi articulé à un porte-ventouses en D et D1. Ces quatre points occupent les sommets dun parallélogramme régulier: Le porte - ventouses (5) est équipé de quatre ventouses en caoutchouc utilisées pour saisir les coques par aspiration dair:
+2.1 Repères, paramètres et données Les tâches assignées au robot s'effectuent dans un espace construit de part et dautre du plan vertical (E,70,7o). Cet espace est caractérisé par sa faible profondeur comparée aux dimensions de la structure rapportées à son plan de travail. De ce fait, le robot sera traité en tant que mécanisme plan, comme lillustre le schéma cinématique de la figure 5. On associe au bâti (0) le repère Ro(Oo, 70,70,20) qu'on considérera galiléen, ayant pour axe vertical ascendant (Oo,%0). Le coulisseau (1) se déplace le long de laxe (K,J0), sa translation est définie par le scalaire positif 1
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page 3/11
+
+--- page 6 ---
+Concours Technologie Epreuve S.IA
+Mise en situation, Données et Hypothèses
+Données géométriques Oq4 axo + Ayo Bc ux2 OoB = ~afo + dyo B = (70,74) (7o,74) & = (70,72) (70,72 A1a = D1D bxo D1A1 = DA = Ly4 v=CB = 25 2 = hyo OoÉ = x7o +yyo AG1 c7o. xo
+Vo
+70 Oo
+FIGURE 5 - Schéma cinématique minimal du robot 2D
+Le solide (2) pivote autour de Yaxe (B,20). On lui associe le repère R2(B,72,72,Z0). Sa posi - tion angulaire est obtenue; comme le montre la figure 6, par Yangle % Le solide (3), jouant le rôle de bras coulissant; assure la liaison entre le solide (2) et le porte - ventouses (5). Son déplacement par rapport au solide (2) est paramétré par le scalaire positif V On associe au bras (4) le repère R4(A,74,74,Z20). Son pivotement ainsi que celui du bras (41) s'effectuent respectivement autour des axes (A,20) et (A1,Z0). Leurs positions angulaires sont obtenues avec le même angle B.
+7o 92
+47o 94
+B
+70
+Yo B 74
+20
+Zo
+72
+FIGURE 6 - Représentation planes des rotations
+Les ventouses solidaires du solide sont utilisées pour saisir les coques. Leur centre E est placé en dessous de C. La motorisation du robot est réalisée en pilotant les translations ^ et p, pour que les dépla- cements absolus x et y du centre E dans le repère Ro(Oo, 70,70,20) , puissent être contrôlés avec précision Le coulisseau (1) est caractérisé par sa masse m1 et son centre d'inertie G1. Sa translation est générée par un actionneur linéaire (vérin non représenté) développant une action méca - nique modélisée par le torseur
+@(verin -+1) Fgo 0 G1
+{9 (verin-+1) }G1
+Concours nationaux dentrée aux cycles de formation d Yingénieurs
+Session 2019
+Page 4/11
+
+--- page 7 ---
+Concours Technologie Epreuve S.TA
+Mise en situation, Données et Hypothèses
+Le bras coulissant (3) exerce sur le porte-ventouses (5) une action, modélisée au point C, par le torseur 9(3++5) ~Fc72 {9(3-5)}c = 0 Compte-tenu de la faible masse d'une coque, Yaction en E de celle-ci sur (5) sera négligée. Le porte-ventouses admet pour masse ms, son centre d'inertie sera supposé confondu avec le point C. Les bras (4) et (4') sont assimilés à des tiges identiques de masse M et de longueur L. La matrice dinertie au point A du bras (4), exprimée dans la base B4(74,94,Z0) , admet pour expression ML2 [IA(4)] 0 ML2 B4 Tous les solides du robot sont soumis à laction de la pesanteur représentée par ; '8H0 Toutes les liaisons du système seront supposées parfaites. NB On précise enfin que a, b, c, d, h et L sont des caractéristiques dimensionnelles constantes alors que x, y, 4, #, & et B sont des paramètres évoluant dans le temps, ils sont liés à la configuration géométrique du robot.
+Létude proposée se rapporte à la modélisation du robot en vue de concevoir et choisir les composants et les actionneurs qui répondent aux exigences fonctionnelles demandées. La modélisation reposera sur 1. Une étude géométrique qui servira à l'identification des configurations limites du sys- tème. 2 Une étude cinématique dont Yobjectif consiste à exprimer les vitesses de pilotage en fonction de la vitesse absolue des coques pendant Iopération de transfert conformé- ment à la figure 7. 3. Une étude dynamique pour déterminer les inconnus des liaisons et la relation entre les actions mécaniques développées par les actionneurs.
+7o
+Yo
+30
+3a
+FIGURE 7 _ Trajectoire parcourue par le centre E du porte ventouses
+2.2 Résistance des matériaux Dans cette partie on se propose deffectuer un calcul de résistance de matériau se rapportant au coulisseau (1). Ce solide est réalisé par un assemblage permanent de deux entités La première réalise la liaison glissière avec le bâti(o) , la seconde entité est caractérisée par un élancement important suivant la direction (0,7). Dans la position de blocage du coulisseau
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page 5/11
+
+--- page 8 ---
+Concours Technologie Epreuve S.TA
+Mise en situation, Données et Hypothèses
+(1), cette entité sera modélisée par une poutre droite encastrée au bâti(O) et soumise aux efforts des bras (4) et (4') appliqués respectivement en A et A1. Pour alléger la structure, le concepteur a opté pour une poutre à section rectangulaire H x e, ayant les caractéristiques dimensionnelles présentées par la figure 8. Le problème sera traité en tant que problème plan. Données Module d'élasticité longitudinale du matériau de la poutre E =21105MPa Section de la poutre H 2Omm, e à déterminer ; Limite élastique à lextension Re 24OMPa ; Coefficient de sécurité s = 2.2; 01 4OOmm, b 1OOmm; F = 1OON ; IGy #g et IGz gH3 12 12
+A1
+z
+300
+300
+FIGURE 8 -Schématisation de la poutre étudiée, section droite
+3
+Partie B Automatique 3.1 Présentation générale Le patin presseur schématisé par la figure 9 est un mécanisme alimenté en pression pneuma- tique et supportant le feutre de polissage. Lors de son mouvement de va et vient il appuie sur la coque par une pression bien déterminée afin de ne pas endommager sa surface. Il est alimenté par un modulateur électropneumatique (figure 10) pour contrôler cet effort pres- seur:
+Lors dune opération de polissage, ce patin presseur, revêtu dun feutre, est poussé sur la coque verticalement (déplacement z(t)) avec une force normale engendrée par la pression Pz et il est contraint à se déplacer en même temps par un système roue-crémaillère par un mouvement de va et vient selon (y(t)) afin dassurer le polissage.
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page 6/11
+
+--- page 9 ---
+Concours Technologie Epreuve S.TA
+Mise en situation, Données et Hypothèses
+patin presseur guidage en translation
+Support du système presseur
+ressort de rappel
+feutre
+Mouvement de va et vient
+coque
+FIGURE 9 Disposition du patin presseur par rapport à la coque lors dune opération de polis - sage
+La présente étude consiste à modéliser et commander en pression le modulateur électro- pneumatique afin de réguler la pression au niveau du patin. Ladite étude porte sur un système électropneumatique dont Yélément clé est représenté par la figure 10.Isagit dune régulation de pression dans un vérin de tension dun modulateur électropneumatique.
+fmo
+Bobine de lélectroaimant
+Piston de régulation S2
+Joint d'étanchéité S3
+Pression vers patin presseur 2 P2
+Piston secondaire $]
+Bâti du modulateur So
+P1 Pression dalimentation
+P3 Pression atmosphérique
+FIGURE 10 _ Modulateur électropneumatique
+3.2 Fonctionnement du modulateur Le modulateur comporte trois orifices 1,2 et 3 reliés respectivement à lunité d'alimentation enair comprimé (Pi),au Patin presseur (P2) et à léchappement (Ps). Unélectroaimant exerce sur la tige du piston un effort fm proportionnel au courant dalimentation (fm Kz.i). La commutation entre les orifices est assurée par un joint d'étanchéité S3 et les formes des pièces So, S1 et S2. En situation médiane (figure 10) on notera fmo, lintensité de leffort fm, lorsque Yaction du bâti So sur le 'joint . détanchéité S3 est nulle.
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page 7/11
+
+--- page 10 ---
+Concours Technologie Epreuve S.TA
+Mise en situation, Données et Hypothèses
+3.2.a) Lélectro-aimant
+Ilsagit dun électro-aimant de manœuvre simple En effet, lors de la mise sous tension de la bobine, Yélectro-aimant génère des lignes de champs magnétiques qui se referment sur le noyau, induisant un effort (une force f) et un déplacement (x) de celui-ci. En labsence de courant, le noyau revient à sa position de repos (électro-aimant monostable) Pour déterminer le comportement dynamique de ce modulateur; on se place dans le cas où fm > fmo. Le déplacement des pistons par rapport à la situation médiane sera noté x, il résulte dun effort Af = fm fr.
+3.2.b) Modélisation du modulateur de pression Afin didentifier le comportement du modulateur de pression, nous considérons le modèle illustré sur la figure 11
+m
+k
+FIGURE 11 _ Modèle adopté pour le modulateur
+avec € coefficient de frottement visqueux; m masse des éléments mobiles et k raideur équivalente du système:
+3.3 Modélisation et identification du modulateur de pression Dans cette partie; on s'intéresse à la modélisation et à lidentification des différents éléments constitutifs du modulateur de pression illustré par les figures 10 et 11.
+Les équations décrivant le fonctionnement du modulateur sont données par les cinq équa - tions suivantes Le comportement de lensemble mobile est exprimé par d2x(t) dx(t) m Af (t) ~C- kx (t) dt2 dt Le comportement de Yair comprimé situé au niveau de la sortie 2 du modulateur lorsque celle-ci est obturée est exprimé par
+p2(t) = Ks x(t) avec K3 0.4 bar /cm Lélectroaimant est modélisé par un gain, se traduisant par
+(2)
+fm(t) = Kz - i(t)
+avec
+Kz 10 bar / A
+(3)
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2019
+Page 8/11
+
+--- page 11 ---
+Concours Technologie Epreuve S.TA
+Mise en situation, Données et Hypothèses
+Un gain K1 adapte la pression de consigne pc au courant nécessaire au pilotage de Yélec- troaimant se 'présentant sous la forme
+i(t) = K1 - Pc(t) avec K1 = 1 A/bar La force fr développée par le piston 2 de section $ en fonction de la pression p2 est donnée par
+fr(t) = S . p2(t)
+avec
+S = 1.25cm?2
+3.4 Régulation de la pression au niveau du patin La pression sur la bande feutrée est régulée afin de garantir un polissage optimal sans en- dommager la coque: Ceci est réalisé indirectement par contrôle de la pression d' alimentation du patin presseur La fonction de transfert du modulateur isolé étant connue, celui-ciest raccordé au patin pres - seur de la machine pour lalimenter en pression pneumatique. On considère que la pression P2 en sortie du modulateur est la même que dans la chambre du patin presseur: Dans Yobjectif dassurer une bonne régulation de cette pression P2 le modulateur est inséré dans la chaîne dasservissement suivante
+Pc
+Pz
+C(p)
+G(p)
+FIGURE 12 - Schéma fonctionnel de Yasservissement de pression
+Cahier des charges
+Exigence
+Critère Niveau stabilité marge de phase Mo 450 Réguler la pression de rapidité temps de réponse à 5% <0.7s contact feutre coque précision écart statique de position nul
+4 Étude séquentielle du cycle de polissage de la coque 41 Description du cycle de polissage Afin de lancer un cycle de polissage, Yopérateur commence par déposer une quantité de coques juxtaposées sur le tapis dalimentation et appui sur le bouton de départ de cycle (Dcy). L'opérateur continuera à mettre dautres coques sur le tapis dalimentation tout au long du fonctionnement des cycles. Les conditions initiales sont alors le robot de transfert est en position de repli (position dattente initiale; voir figure 13) pas de coques sur le support rotatif de lunité de polissage, pas de coques dans leffecteur du robot, pas de coques sur le tapis dévacuation. Au départ du cycle  le tapis d alimentation; à commande monostable (KMI), se met en mou- vement jusqu'à larrivée dune coque devant le capteur de présence au bout du tapis (p1 activé). Dans le cas où aucune coque n'arrive à ce capteur au bout de 10s, le système s'arrête
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page 9/11
+
+--- page 12 ---
+Concours Technologie Epreuve S.TA
+Mise en situation, Données et Hypothèses
+complètement et nécessitera de nouveau un appui sur le bouton départ cycle: Par ailleurs , ce tapis dalimentation continuera à alimenter avec les coques non polies tout au long du déroulement des cycles de polissage. Dans le cas où une coque se présente en bout de tapis (p1 activé) , le ro- bot de transfert, qui était en position de repli (ao activé) reçoit lordre pour aller à la position @ de récupération de celle-ci (activation du cap- teur a1) activer lélectrovanne monostable des ventouses de récupération MIOO (commande KV). Une fois la coque maintenue dans cet effecteur (activa- tion du capteur q) le robot repart vers lunité de polissage pour déposer la coque sur le support rotatif (position @) et active ainsi le capteur de présence p2) A cet instant lautomate lance lopération de polissage proprement dite (gérée par la macro- étape "M2OO") en même temps que le robot de transfert revienne à la position de repli. Une fois "M2OO" finie (activation du capteur e)  le robot, qui était en position repli, repart pour récupérer de nouveau la M3OO coque déjà polie etla dépose sur le tapis dévacuation. Celle-ci est détectée par un capteur de présence (p3) Le tapis se met ainsi en mouvement (commandé par KM2) durant 20 se- M4OO condes, temps nécessaire à lévacuation de la coque.
+En même temps que lévacuation de celle-ci, le robot de transfert revient rechercher une autre coque à partir du tapis dalimentation si p1 est activé, sinon; il revient à sa position de repli et le cycle s'arrête.
+Ainsi, le grafcet décrivant le fonctionnement du système contient entre autres Une macro-étape 'MIOO" décrivant le transfert dune coque du tapis dalimentation au module de polissage. Une macro-étape "M2OO" décrivant Yopération de polissage: Une macro-étape 'M3OO" décrivant le transfert dune coque du module de polissage au tapis dévacuation Une macro-étape "M4OO" décrivant les séquences d'évacuation dune coque.
+TABLE 1 _ Tableau récapitulatif des commandes des actionneurs
+Commande du motoréducteur de tapis d alimentation (monostable) KMI Commande du motoréducteur de tapis dévacuation (monostable) KM2 Commande de robot de transfert pour aller à sa position de repli RO Commande de robot de transfert pour aller à sa position RI Commande de robot de transfert pour aller à sa position R2 Commande de robot de transfert pour aller à sa position R3 Commande de Télectrovanne de Teffecteur du robot pour saisir une coque KV
+1 7
+:  d ^  71? .  3 1  ' - {Sur: < '1 ' ` 1 , ' :1n10 ' , 5  e 8_ 41,n2*89171,4:d
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page 10/11
+
+--- page 13 ---
+Concours Technologie Epreuve STA
+Mise en situation, Données et Hypothèses
+TABLE 2 - Tableau récapitulatif des capteurs Coque arrivée au bout du tapis d alimentation p1 Coque sur le support rotatif du système de polissage p2 Coque déposée sur le tapis dévacuation p3 Robot en position de repli ao Robot en position pour récupérer la coque du tapis dalimentation @1 Robot en position pour déposer la coque sur Ie support rotatif @2 Robot en position pour déposer la coque sur le tapis dévacuation 03 Appui sur bouton de "Départ cycle' Dcy Coque maintenue par les ventouses du robot par dépression Fin de Topération de polissage
+robot en position repli
+robot en position
+robot en position robot en position FIGURE 13 - Positions particulières du robot
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2019
+Page : 11/11
+
+--- page 14 ---
+Unité de_polissage Robot
+transfert
+Capteur
+présence de coques
+Capteur de présence
+coques
+Patin presseur
+Coque
+Traverse
+Détail
+Direction de vision
+Tapis évacuation
+Ventouse
+Détail A Roue Traverse non representée Crémaillère
+Mouvement va vient
+Iapis d'alimentation
+Chariot_d'approche
+Automate et Unité de_régulation pne umatique
+Patin presseur
+Coque
+Echelle 1:8
+Système de Polissage de Coques [Concours Techno Epreuve S.T.A Session 2019 DT-01
+
+--- page 15 ---
+
+
+Dossier
+DOCUMENT REPONSES
+Ce dossier comporte 21 pages numérotées de 1 à 21
+Partie A Mécanique des Solides Indéformables & RDM MSI pages de 1à 8; RDM pages de 8à 1l; Partie B Automatique pages de 12à 21 ;
+Un seul dossier réponse est fourni au candidat et doit être rendu à la fin de lépreuve, en totalité, même sans réponses.
+Le renouvellement ou la reproduction de ce dossier sont strictement interdits.
+
+--- page 16 ---
+Concours Technologie Epreuve STA
+Partie A : MSI
+Document Réponses
+Partie A Mécanique des Solides Indéformables 1 Étude géométrique Al: Écrire les relations géométriques exprimant x et y en fonction de 4, B et des caractéristiques dimensionnelles du système:
+b. x et y en fonction de u, œ et des caractéristiques dimensionnelles du système:
+A.2: Déduire les relations géométriques entre À, H, & et B.
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page 1/21
+
+--- page 17 ---
+Concours Technologie Epreuve STA
+Partie A MSI
+Document Réponses
+2 Étude cinématique A3: Déterminer en fonction des données du problème, les torseurs cinématiques représen - tant les mouvements par rapport au repère galiléen des solides suivants le coulisseau (1) au point A
+b. le bras (4) au point D
+c. le bras (4) au point D1
+A.4: Quelle est la nature du mouvement du porte-ventouse (5) par rapport a. au coulisseau (1) ? Justifier:
+b. au bâti (0) ? Justifier:
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2019
+Page 2/21
+
+--- page 18 ---
+Concours Technologie Epreuve S.TA
+Partie A MSI
+Document Réponses
+A5:] Utiliser la base (70, 70,Z0 pour déterminer la vitesse de E par rapport au bâti, lexpri - mer en fonction de À, p, B et des caractéristiques dimensionnelles du robot:.
+b. H, &,leurs dérivées et des caractéristiques dimensionnelles du robot:
+Le centre E du porte-ventouses est astreint à décrire, à vitesse constante V, la trajectoire re- liant I1 à J1 illustrée par la figure 9 du document "Mise en situation; données et hypothèses" A6: Exprimer en fonction de V, les vitesses * et ÿ
+b V ,a et h les lois horaires x (t) et y(t) sachant qu'à t =0le point E coïncide avec le point I1.
+A7: Utiliser les résultats des questions B.1 et B.2 pour établir les lois horaires des paramètres de motorisation p(t) et A (t)
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page 3/21
+
+--- page 19 ---
+Concours Technologie Epreuve S.TA.
+Partie A MSI
+Document Réponses
+3 Étude dynamique Dans cette partie on considérera le cas où le coulisseau (1) se trouve bloqué en position (À = 0) Le mouvement de lensemble formé par les solides (2-3-4-5) est généré par le pilo - tage de la translation p de sorte que la vitesse angulaire imposée aux deux bras (4) et (4) se maintienne constante (P W) A8: Utiliser la base (70,90,Z0) pour écrire le bilan, au point _ C, de toutes les actions méca- niques extérieures sappliquant au porte-ventouses (5) .
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2019
+Page 4/21
+
+--- page 20 ---
+Concours Technologie Epreuve S.TA
+Partie A MSI
+Document Réponses
+A9: Utiliser le résultat de la question B.3-b pour déterminer le torseur dynamique au point Cdu porte-ventouses dans son mouvement par rapport à Ro(Oo, 70,70,20) .
+A1O: Écrire les équations dynamiques issues du principe fondamental de la dynamique appliqué au porte-ventouses dans son mouvement par rapport à Ro(Oo, 7,70,Zo).
+All: Utiliser la base (70,70,20) pour écrire le bilan en A de toutes les actions mécaniques extérieures s'exerçant sur le bras (4).
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2019
+Page 5121
+
+--- page 21 ---
+Concours Technologie Epreuve S.TA
+Partie A MSI
+Document Réponses
+412] Déterminer le torseur dynamique au point A du bras (4) dans son mouvement par rapport à Ro(Oo, 70,70,2)
+A.13: Établir les équations dynamiques du bras (4) dans son mouvement par rapport à Ro(Oo, 70,70,70) 
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2019
+Page : 6/21
+
+--- page 22 ---
+Concours Technologie Epreuve STA
+Partie A : MSI
+Document Réponses
+Al4: Établir, sans calcul, les équations dynamiques du bras (4') dans son mouvement par rapport au repère Ro(Oo, 70,70,20).
+415] En considérant les réponses aux questions B.10, B.13 et B.14, quelles relations, entre inconnues de liaisons, peut-on ajouter pour résoudre le problème dynamique ?
+Al] Déterminer en fonction de Fc, %, M; ms, B,w, L et 8, toutes les inconnues des liaisons en A, A1, Det D1-
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2019
+Page 7121
+
+--- page 23 ---
+Concours Technologie Epreuve S.TA
+Partie A RDM
+Document Réponses
+A17] Déterminer en fonction de m1, Fc, &, M, ms, B, w, L et g, Yaction F développée par Yactionneur pour le blocage du coulisseau (1) en position:
+4
+Résistance des matériaux A.18: Déterminer les torseurs au point 0 des actions mécaniques suivantes action du bras (4) appliquée au point A
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page 8/21
+
+--- page 24 ---
+Concours Technologie Epreuve S.TA
+Partie A:RDM
+Document Réponses
+action du bras (4') appliquée au point A1
+A1g] En déduire le torseur au point 0 exercé sur la poutre au niveau de lencastrement.
+A20: Exprimer en fonction de F, x,41 et b le torseur de cohésion le long de la poutre.
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page 9/21
+
+--- page 25 ---
+Concours Technologie Epreuve S.TA.
+Partie A : RDM
+Document Réponses
+A21] Tracer les diagrammes suivants 1. effort normal,
+2 effort tranchant
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page 10/21
+
+--- page 26 ---
+Concours Technologie Epreuve S.TA.
+Partie A : RDM
+Document Réponses
+3. moment de flexion
+Æ2lEn déduire labscisse de la section la plus chargée de la poutre en termes de contrainte normale? lexprimer en fonction de F et des caractéristiques géométriques de la poutre.
+A.23:
+Déterminer l'épaisseur minimale permettant de satisfaire la condition de résistance à la contrainte normale (leffet du cisaillement sera négligé).
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2019
+Page 11/21
+
+--- page 27 ---
+Concours Technologie Epreuve STA Partie B : Automatique
+Document Réponses
+Partie B Automatique 5 Étude du système patin presseur de la tête de polissage 5.1 Modélisation et identification du modulateur de pression B.l: A partir de Yéquation (1) (du document "Mise en situation; données et hypothèses") , exprimer la fonction de transfert T(p) X(p DF(P caractérisant les variations autour du point de repos où les conditions initiales sont nulles.
+B.2: Quelle condition doit-on imposer aux paramètres pour que le modulateur se comporte comme un système hyper-amorti (apériodique) ?
+B.3: Écrire dans le domaine de Laplace les équations du système de (2) à (5) du document "Mise en situation; données et hypothèses"
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page 12/21
+
+--- page 28 ---
+Concours Technologie Epreuve S.TA Partie B Automatique
+Document Réponses
+B.4: Compléter le schéma fonctionnel ci-dessous
+Pc(p)
+Pz(p)
+FIGURE 14 - Schéma fonctionnel du modulateur
+B.5: Montrer que la fonction de transfert globale du modulateur G(p) = Pz(p) / Pc(p) admet pour expression Pz(p) A G(p) Pc(p) 2 + 2p+1
+B6] En déduire les expressions de A, g et w0 en fonction de m, k et c; les autres paramètres (K1, Kz, K3 et S) sont à remplacer par leurs valeurs numériques.
+Concours nationaux dentrée aux cycles de formation d Y'ingénieurs
+Session 2019
+Page 13/21
+
+--- page 29 ---
+Concours Technologie Epreuve S.TA Partie B : Automatique
+Document Réponses
+Des essais harmoniques ont été conduits afin didentifier les éléments de la fonction de trans - fert G(p) du modulateur. Ils ont donné les courbes de Bode suivantes
+;
+-180*
+10-
+102
+Pulsation [rad /s]
+FIGURE 15 -Courbes de Bode de la fonction de transfert G(p) du modulateur
+B.7: A partir de cette réponse harmonique de Bode, identifier A, Wo et z.
+B.8: En déduire les paramètres caractéristiques du modèle du modulateur c,ket m.
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page 14/21
+1
+
+--- page 30 ---
+Concours Technologie Epreuve STA Partie B : Automatique
+Document Réponses
+5.2 Régulation de la pression du patin presseur
+Objectif de cette partie Justifier le choix et dimensionner un correcteur approprié pour la commande de la régulation en pression du système presseur ayant la fonction de trans- 80 fert : G(p) afin de satisfaire les exigences du cahier des charges. (2+ p)(1o + p) B9] Quelle est la différence entre une régulation et un asservissement ?
+B.10 ] En se référant à la figure 15, pour C(p) = 1 déterminer la marge de phase
+B.11:] En se référant à la figure 12, pour C(p) = 1 déterminer ]erreur statique de position unitaire
+On donne sur la figure 16 la réponse indicielle unitaire du système non corrigé.
+Pz[bar] 1.2
+10
+0.8
+0.6
+C(p) =1
+0.4
+0.2
+0.0 0.0
+0.2
+0.4
+0.6
+0.8
+1.0 1.2 temps [s]
+FIGURE 16 _ Réponse indicielle du système sans correction
+ .
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page 15/21
+
+--- page 31 ---
+Concours_Technologie Epreuve S.TA Partie B Automatique
+Document Réponses
+B.12: Déterminer graphiquement le temps de réponse à 5%.
+B.13:
+Justifier pourquoi la régulation sans correction (C(p) = 1) ne permet pas de satisfaire les critères du cahier des charges.
+Afin daméliorer les performances du système, on envisage de placer un correcteur intégral C(p)
+5.2a) Correcteur intégral : C(p) Ki avec Ki > 0 B.14: Déterminer Ki permettant de satisfaire la condition Mp = 45
+Bis]Calculer Yerreur statique de position unitaire: ti
+Concours nationaux dentrée aux cycles de formation d Yingénieurs
+Session 2019
+Page : 16/21
+
+--- page 32 ---
+Concours Technologie Epreuve S.TA Partie B : Automatique
+Document Réponses
+On donne sur la figure 17 la réponse indicielle unitaire du système corrigé pour Ki trouvé précédemment:
+R4 [bar]
+12
+10
+0.8
+0.6
+0,4
+0.2
+temps [s] FIGURE 17 _ Réponse indicielle du système avec correction intégrale
+B.l6;] Déterminer graphiquement le temps de réponse à 5%.
+B17] Conclure quant à la capacité de ce correcteur à satisfaire 1ensemble des critères du cahier des charges.
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2019
+Page 17/21
+
+--- page 33 ---
+Concours Technologie Epreuve S.TA Partie B : Automatique
+Document Réponses
+5.2b) Correcteur proportionnel-Intégral C(p) = Kp'+T2 avec T; > 0, Kp > 1 B1] Déterminer T; pour compenser le pôle dominant du modulateur
+B.19: Déterminer Kp pour avoir une marge de phase Mp = 459
+B.20: Déterminer Yerreur statique de position unitaire.
+On donne sur la figure 18 la réponse indicielle unitaire du système corrigé pour les para- mètres Kp et T; trouvés précédemment:
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2019
+Page 18/21
+
+--- page 34 ---
+Concours Technologie Epreuve STA Partie B : Automatique
+Document Réponses
+Pz[bar]
+1.2
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0 0.0
+0.2
+0.4
+0.6
+0.8
+10 1.2 temps [s] FIGURE 18 - Réponse indicielle du système avec correcteur PI
+B.21: Donner le temps de réponse à 5%.
+B.22: Établir le tracé de Bode asymptotique de ce correcteur PL
+1 20 10
+~20L 10-1
+10"
+101
+10?
+1 45' "9805
+10"
+Pulsation [rad /s]
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page 19/21
+10?
+101
+
+--- page 35 ---
+Concours Technologie Epreuve S.TA Partie B : Automatique
+Document Réponses
+B.23: Conclure quant à la capacité de ce correcteur à satisfaire Yensemble des critères du cahier des charges.
+5.3 Étude séquentielle du cycle de polissage En se référant au document "Mise en situation; données et hypothèses" pages de 9à 11 : B.24: Compléter le grafcet du point de vue commande (page 5.3/5.3) décrivant le fonction - nement du système de polissage: B.25: Compléter les expansions de macro-étapes M3OO et MAOO ci-dessous.
+E30O
+301
+E4OO
+302
+401
+303
+S400
+304
+p3
+S300
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page 20/21
+
+--- page 36 ---
+Concours Technologie Epreuve STA Partie B : Automatique
+Document Réponses
+P1
+10
+MIOO
+M2OO
+M3OO
+M4OO
+01
+4o
+11
+P1
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page : 21/21
+
+--- page 37 ---
+RÉPUBLIQUE TUNISIENNE
+~yi:*8 gbaw?llæes ù8 Sxriyriyu uhi 2019329
+Ministère de l'Enseignement Supérieur et dela Recherche Scientifique
+Concours Nationaux dEntrée aux 'Cycles de Formation dIngénieurs Session 2019
+Concours Technologie Épreuve de
+Conception & Fabrication Mécanique
+Date Samedi 15 Juin 2019
+Heure 08 HOO
+Durée 4 Heures
+L'épreuve comporte deux parties
+A-  Conception Mécanique B- Fabrication Mécanique
+(12 pts) (08 pts)
+Le sujet de lépreuve remis au candidat comporte trois dossiers 1-Mise en situation, Données et Hypothèses 2- Documents Techniques (DT-01,02,03, 04,05,06) Important : Aucun autre document n' 'est autorisé. Seules les calculatrices de poche non programmables sont autorisées. Il n'est fourni au candidat qu'une seule et unique copie du <Dossier document réponses v qui doit être rendu en totalité, à la fin de Yépreuve, même sans réponses. Le document réponses doit être rendu en intégralité (aucune feuille ne doit être supprimée). Toute suppression de feuilles du document réponses est considérée comme étant une tentative de fraude.
+
+--- page 38 ---
+Dossier
+Mise en situation; Données et Hypothèses
+Ce dossier comporte 10 pages numérotées de 1 à 10 et six documents
+techniques DT-01 à DT-06
+Mise en situation
+Pages 1 et 2 DT-01 à DT-06
+Documents Techniques
+Données et hypothèses A- Conception Mécanique
+Page - 3à 10 Pages 3 à 6
+Documents Techniques Conception
+DT-01 à DT-04
+B- Fabrication Mécanique
+Pages 7à 10
+Documents Techniques Fabrication
+DT-05 et DT-06
+ -
+
+--- page 39 ---
+Concours Technologie Épreuve CFM
+Mise en situation Données & Hypothèses
+ÉTUDE D'UN ENGIN AGRICOLE
+1- Mise en Situation La mécanisation agricole est une approche technologique qui est toujours dactualité. Elle continue à évoluer pour apporter aux utilisateurs et aux agriculteurs en particulier, ainsi qu'au domaine agricole; plus de fonctionnalités. Au fil des années, le tracteur est devenu un outil de traction très polyvalent afin de répondre à un maximum de besoins de Yagriculture:. Il permet de gérer simultanément plusieurs paramètres de mise en œuvre tels que
+La trajectoire du tracteur , Le contrôle visuel d'un ou plusieurs outils (Presse à balles, charrues, etc:) L'optimisation des capacités du moteur (rapport vitesse /charge de traction), Les paramètres de réglage liés à F'usage des outils attelés au tracteur (régime prise de force, vitesse d'avancement, etc.), La gestion d'attelage en bout de champ (limitation des pertes de temps), Etc.
+Le tracteur  agricole est utilisé   pour des travaux  parfois  très   variés. Pour   les travaux  de champs, selon le type doutil  utilisé (charrues, etc;), deux systèmes dattelage peuvent être exploités
+Configuration à 2 roues motrices (arrières) Configuration à 4 roues motrices.
+Selon le type d'outil utilisé, le système dattelage et de prise de force avant permet de pousser, charger, porter et animer en mouvement une charge. Le système d'attelage et de prise de force arrière permet de tirer, porter etanimer une charge. Il està noter que 409 dela masse du tracteur est supportée par les roues avant alors que 60% de sa masse est supportée par les roues arrière La Figure: 1 présente les principales fonctions assurées par un tracteur agricole.
+Pousser
+Tirer
+Charger
+Porter
+Porter
+Aniner
+AnImer
+40 $
+poids
+du Poids
+Figure. 1 Principales fonctions d'un tracteur agricole
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2019
+Page 1 10
+
+--- page 40 ---
+Concours Technologie Épreuve CFM
+Mise en situation; Données & Hypothèses
+La série des éléments reliant la sortie du moteur du tracteur et les roues arrière constituent le système de transmission. Cette série est constituée de Yarbre moteur, de Yembrayage; de la boîte de vitesse; de Yarbre de transmission; du différentiel, des réducteurs et des roues (Figure 2)
+Le réducteur de la roue arrière Lembrayage Le pont différentiel
+Le moteur
+La boîte de vitesse
+Larbre de transmission
+La roue arrière
+Figure. 2 Système de transmission mécanique
+Le sujet proposé concerne essentiellement l'étude des composants associés au tracteur , qui sont:
+Le pont arrière (DT-02). Le système dattelage et de prise de force (DT-01). 2-Pont arrière du tracteur Le pont arrière du tracteur présenté par le dessin densemble (DT-02) et le schéma cinématique minimal (DT-03), est un système de transmission de puissance regroupant le renvoi dangle, le différentiel, les trompettes comportant les arbres de roues et les réducteurs finaux pour la transmission aux roues arrière, la transmission et Yembrayage (non représentés dans le document DT-02) pour la sortie du mouvement vers le pont avant, le carter contient également la transmission de la prise de force, les freins de service et le frein de stationnement.
+Le système de prise de force (DT-01- Rep. (2)) appelé aussi prise de puissance; généralement situé à Farrière dun tracteur agricole; permet de développer un couple de force et une vitesse angulaire. Ilsert de source d'énergie aux équipements traînés ou portés par le tracteur grâce à un embout cannelé
+Le système de relevage (DT-01- Rep. (1)) joue le rôle de levier pour le mouvement d'outils à Favant ou à larrière du tracteur. Les systèmes de relevage les plus courants sont du type hydraulique; mais il existe dautres types électroniques.
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page 2 | 10
+
+--- page 41 ---
+Concours Technologie Épreuve CFM Conception Mécanique Mise en situation, Données & Hypothèses
+3-Données et Hypothèses
+Partie -A: Conception Mécanique Cette partie porte sur l'étude fonctionnelle et technologique du pont arrière du tracteur agricole. Elle s'appuie sur les documents techniques (DT-01, DT-02, DT-03 et DT-04). Lépreuve concerne notamment
+L'étude fonctionnelle du pont arrière, L'étude technologique des composants du pont; L'étude de la chaîne de transmission de puissance des réducteurs à trains épicycloïdaux et du système de freinage, Lanalyse du système dattelage relatif au pont arrière, L'étude graphique. Al-Étude fonctionnelle du pont arrière
+Parmi les éléments constitutifs du pont arrière nous citons, le différentiel qui permet aux roues du même pont de pouvoir tourner à des vitesses différentes (Figure. 3). Il est très utile au niveau des virages puisque la roue intérieure de/engin parcourt moins de distance que la roue extérieure et donc doit tourner moins vite si lon désire qu'elle ne fait pas de patinage
+Couronne_dentée
+Panétaire
+Satellite
+Pignon d'attaque
+porte satellite
+Arbre de_rouel
+Figure. 3 Le bloc différentiel
+Silune des roues dun pont différentiel peut tourner librement (roue en lair, ou en glissant), toute la puissance sera transmise à cette roue et lautre restera immobile Le tracteur sera donc bloqué. Pour pallier à ce problème; il est possible de bloquer le différentiel pour que la puissance du moteur soit répartie de la même manière sur les deux roues du pont. Par contre, la direction des roues avant n'influera plus sur la trajectoire du tracteur les deux roues arrière ayant la même vitesse permettent plus de contrôle sur le tracteur (puisque plus grosses), le tracteur ira tout droit.
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page 3 10
+
+--- page 42 ---
+Concours Technologie Épreuve CEM Conception Mécanique Mise en situation; Données & Hypothèses
+A2-Étude Technologique Dans cette partie; le candidat est appelé à répondre sur le document réponses; en s'appuyant sur les documents techniques DT-01, DT-02, DT-03 et DT-04
+A3-Étude de transmission de puissance Dans cette partie; létude concerne les trains épicycloïdaux et le système de freinage du pont arrière Elle repose sur les données du schéma cinématique minimal du document technique (DT - 03). On cherche à évaluer le rôle des  différentiels et des réducteurs dans la fonction de transmission. Le mouvement de rotation de larbre moteur est transmis aux roues arrière par Tintermédiaire de trois réducteurs train dengrenage épicycloïdal sphérique et deux trains épicycloïdaux plans identiques (droite et gauche)
+On s'intéresse à létude de la transmission du mouvement de rotation du moteur aux deux roues arrière (DT-03). Pour cette partie de létude, les effets d'inertie des pièces seront négligés (Poids négligé). Lors du freinage; les deux freins (52) et (69) (DT-02) seront activés par un circuit hydraulique de commande. Nous souhaitons déterminer le temps de freinage du tracteur.
+Données et hypothèses
+Formule de Willis : Le rapport de réduction dun train épicycloïdal simple
+0s/0 @Psio Ilzmenantes T = (~1)n 0E/o @psio Ilzmenées
+Éléments du réducteur épicycloïdal; Pièce (71): nombre de dents Z71 96 dents m Pièce (73): nombre de dents Z73 = 24 dents m = 5 Pièce (85): nombre de dents Z85 et de module m à déterminer. Éléments du renvoi_d'angle Pièce (37): nombre de dents Z37 15 dents m = 8 Pièce (40): nombre de dents Z40 60 dents m Éléments des freins (52)et (692: Inertie équivalente des pièces tournantes du pont arrière ramenée sur Yaxe de rotation de Yarbre (52) Ieq =2000 kg.m? Vitesse initiale du tracteur avant freinage V = 50 km/h Diamètre extérieur de la roue arrière du tracteur @D 1,5m
+Force axiale générée par les pistons (49) Fa = 16000 N
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page 4 | 10
+
+--- page 43 ---
+Concours Technologie Épreuve CEM Conception Mécanique Mise en situation, Données & Hypothèses
+Dimensions des disques de freinage R1 100 mm, Rz 164 mm, Coefficient de frottement sur le disque : p = 0,2
+44- Analyse du système dattelage arrière du tracteur Lobjectif de cette partie consiste à étudier la mobilité du système dattelage arrière (Figure 4a) en position basse; en se référant au schéma cinématique correspondant à la Figure 4b.
+Dans ce cas détude, on suppose que les liaisons sont parfaites, sans jeu et les solides en contact sont indéformables. On associe au châssis (28), le repère orthonormé direct R(O,w,y,7)
+28
+5 y4 'y3
+H
+35 QE
+28
+3T
+4 @
+0
+Figure 4~Schéma cinématique du système dattelage
+L1/28  (A,2); L1/4T(B,Z) ;   L4cl4r(C,j4) Ls/4c(D,7) Ls/3c(E,2) L28/3T (G,2) ; L2B/s(H,2)
+L3cI3T(F,J3) ;
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2019
+Page 5 | 10
+
+--- page 44 ---
+Concours Technologie Épreuve CEM Conception Mécanique_Mise en situation Données & Hypothèses
+A5-Étude Graphique
+On se propose de substituer la liaison L1/28 ( (A,2) (Figure 4) du bras de relevage inférieur (1) et du châssis (28) en tenant compte du diamètre de laxe (30). En exploitant le schéma cinématique de la Figure 5, nous proposons de concevoir unesolution permettant la transmission de mouvement au système de prise de force (2). La solution proposée est illustrée sur le schéma ci-dessous.
+28
+40
+39
+63
+55
+28
+Enbrayage
+Prise de force
+Solution proposée
+Figure. 5~Schéma cinématique du système de prise de force
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page 6 | 10
+
+--- page 45 ---
+Concours Technologie Épreuve CFM Fabrication Mécanique Mise en situation, Données & Hypothèses
+Partie B Fabrication Mécanique Cette partie est dédiée à létude de la fabrication de Yessieu (22) et du couvercle (8) présentés respectivement dans les documents DT-05 et DT-06 mentionnant les caractéristiques dimensionnelles, géométriques et d'état de surface. Cette étude concerne notamment
+L'étude des matériaux, L'étude de la fabrication de essieu (22), L'étude de la coupe de lessieu (22). Lusinage par fraisage à commande numérique du couvercle (8), B.1- Étude des matériaux
+Lobjectif principal de cette partie est de déterminer les propriétés mécaniques des matériaux à partir de la courbe de traction; ainsi que Tétude du traitement thermique des pièces du tracteur. La Figure .6 présente la courbe de traction sur une éprouvette cylindrique du matériau de la pièce (22). Lors de lessai, on enregistre une courbe permettant de donner leffort appliqué F à Yéprouvette en fonction de lallongement AL
+Éprouvette Longueur initiale :Lo 15Omm Diamètre @D = 15mm (supposé constant au cours de Yessai) 3; . 1 `  . . .
+6 ,
+60,0 2 g 50,0
+Zoom du Détail E
+100,0 z 90,0 ; 80,0 70,@ 60,0
+40,0
+30,0
+50,0
+Détail E
+40,0
+20,0
+30,0
+20,0
+Courbe globale
+10,0
+10,0
+10,0
+20,0
+30,0
+40,0 50,0 Allongement  AL (mm)
+0,0 0,0
+0,2
+0,3
+0,5 0,6 Allongement AL (mm)
+Figure 6 ~Courbe de traction F= f(AL)
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page 7 | 10
+
+--- page 46 ---
+Concours Technologie Épreuve CFM Fabrication Mécanique Mise en situation; Données & Hypothèses
+B.2-Étude de fabrication
+Dans cette partie; on s'intéresse à la fabrication de lessieu (22) (DT-05) réalisée en 5 phases définies par le Tableau 1. Dans cette épreuve, on s'intéresse à la réalisation de la phase 40.
+Iableau 1- Phases d'usinage de lessieu (22) Opération
+Phase
+10
+Contrôle du brut Dressage et centrage des surfaces (ES1 et ES2) Dressage et chariotage des surfaces (ES7 et ES8) Usinage des surfaces (ES3, ES5, ES6, ES9 et ES1O) Usinage des cannelures (ES4)
+20
+30
+40
+50
+B.3-Étude de coupe
+Nous proposons d'étudier la coupe de lessieu (22) schématisé par la Figure .7. Nous supposons qu'une étude préliminaire au niveau du Bureau de Méthodes (BM) a préconisé la réalisation dune pièce selon deux zones
+Première zone réalisation des surfaces ES5 /ES1O en Ébauche; 1/2 Finition et Finition Deuxième zone réalisation des surfaces ES6/ES9 en Ébauche; 1/2 Finition et Finition
+Il est à souligner que dans cette partie on ne s'intéresse qu'aux opérations de chariotage des surfaces ES5 et ES6. Les conditions de coupe optimales et les outils de coupe préconisés par le BM pour garantir les critères de qualité de la pièce finie (DT-05), sont regroupés dans le Tableau 2 Zone Zone
+8
+8
+8
+g
+;
+20
+20
+50
+154
+Figure. 7 ~Schématisation de Yessieu (22)
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2019
+Page 8 10
+
+--- page 47 ---
+Concours Technologie Épreuve CFM Fabrication Mécanique Mise en situation, Données & Hypothèses
+Il està noter queles cotes considérées, ont des valeurs nominales. Nous supposons que la pression spécifique de coupe Ks varie en fonction de lavance par tour f (Tableau2)
+Tableau 2 Conditions de coupe préconisées
+Surface
+Outil
+Op
+Longueur (mm/tr) (m/min) (&/min) (mm/min) usinée (mm)
+(mm)
+(mm)
+(N/mm?)
+T1
+0,8 0,4 0,4
+0,4
+180
+1364 2653 3277 1667 2387 3051
+546 531 492 417 477 458
+50 50 50 40
+1890 2810 3200 2850
+ES5 ES1O
+;
+T2
+1/2F
+0,2 0,15 0,25 0,2 0,15
+300 350 180
+T2 T1 T2 T2
+0,5 1,5
+0,8 0,4 0,4
+ES6 ES9
+;
+1/2F
+300 350
+40 40
+2810 3200
+0,5
+ap Profondeur de passe (mm)
+Te : Rayon du bec de la plaquette (mm) E: Opération d'ébauche 1/2F Opération de demi-finition F : Opération de finition Ks Pression spécifique de coupe (N/mm?)
+f: Avance par tour (mm/tr)
+Vc Vitesse de coupe (m /min) D Diamètre usiné (mm)
+N: Vitesse de rotation de la broche (tr /min)
+Ve Vitesse davance (mm/min)
+B.4- Commande Numérique
+Nous proposons délaborer un programme dusinage sur une fraiseuse à commande numérique (CN) à 3 axes pour la réalisation du contournage extérieur du couvercle (8) (DT-06)
+Lusinage est réalisé en finition directe avec une fraise 2 Tailles de diamètre df 24 mm La prise de passe axiale est égale à ap 2 mm et la prise de passe radiale est égale à ae 4 mm
+La trajectoire de Youtil est représentée par la Figure .8. Cette trajectoire correspond à la position du centre de loutil par rapport à Yorigine programme (OP) ( Usinage en mode sans correction du rayon doutil G40)
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2019
+Page 9 | 10
+
+--- page 48 ---
+Concours Technologie Épreuve CFM Fabrication Mécanique Mise en situation, Données & Hypothèses
+Z
+B-B
+Sensd Tusinage
+n
+Figure. 8 ~Trajectoire de loutil de fraisage
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2019
+Page 10 | 10
+
+--- page 49 ---
+Documents Techniques
+Ce dossier comporte 6 documents techniques numérotés de DT-01 à DT-6
+DT-01 Tracteur agricole - Vue densemble 3D
+Détail A
+DT-02 Pont arrière de tracteur agricole
+Coupe A-A Détail B
+DT-03 Schéma cinématique minimale du pont différentiel
+DT-04 Nomenclature
+Rep. de 1 à 95
+DT-05 Essieu du pont arrière ~Repère (22)
+DT-06 Couvercle du pont arrière (8)
+
+--- page 50 ---
+188 @8
+; 1
+1 1
+8
+:
+1 1 1 8 8 1 1 2 1 : 1 ; : 1 5 8 f H Ill 8 ; 2
+
+--- page 51 ---
+18
+Jà   J:   J5   J;  J  15
+:
+! ~
+9/8
+8
+2
+8
+1 f là @ 1 1 5 1 1 2 1 8 3 1 ; ;; : 5 1 8 8 1 I ill 8 ; 8
+; 1
+
+--- page 52 ---
+8 8
+m 1 ;
+1 1 1
+8
+1 1 1 1 1 Ii 8 1 ; : 1 5 1 8 Mansnem U 1 Il {~} 8 ; Zmamo ;
+
+--- page 53 ---
+40 39 38 37 36 35 34 33 32 31 30 29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7
+Couronne conique
+35 Cr Mo
+20 Ni Cr Mo
+Couvercle d appui Pignon d 'attaque Ecrou frein Joint à lèvres Roulement à rouleaux_coniques 60 KB 02 Roulement à rouleaux_coniques 80 KB 02 Boîtier de roulements Flasque 2 Axe Support de jantes de roues arrière Châssis de pont arrière 2 Jantes de roues arrières Filtre à huile 2 Bras d accrochage 2 Bielle de traction avant (Vérin) Traverse Essieu de prise de force avant X38 Cr Mo V5 2 Bras de_relevage avant Châssis avant Pont avant du tracteur Levier de vitesse avec inverseur AV /AR Roues avant Jante de roues avant Capot de tracteur Crépine Moteur thermique Volant Cabine de conduite Levier de vitesse Siege_ergonomique Couvercle de pont C45 Garde boue 6 2 Sculture (Roue arrière 5 Bras de_relevage 4 2 Chandelle (Bielle de relevage 3 2 Vérin_de_relevage 2 Essieu de prise de force arrière X38 Cr Mo V5 Bras de_relevage inférieur Rep Nbre Désignation Matériaux Obs Concours nationaux d' entrée aux cycles de formation d ingénieurs
+2 4 1
+1 1
+Etude d un Engin Agricole
+Session 2019
+DT-04
+
+--- page 54 ---
+80 79 78 77 76 75 74 73 72 71 70 69 68 67 66 65 64 63 62 61 60 59 58 57 56 55 54 53 52 51 50 49 48 47 46 45 44 43 42 41 Rep
+Ecrou frein Couvercle d 'appui Joint à lèvres Roulement rouleaux coniques 100 KB 02 Roulement à rouleaux coniques 100 KB 02 Ensemble butée mobile Anneau élastique
+2
+2
+2
+FGS 500-7
+2
+Boîtier de pistons Ensemble Frein à disques droite Support de frein Roulement à rouleaux coniques 130 KB 02 Goupille de positionnement Support_de conduite hydraulique Rondelle butée
+Cu Sn 8 P
+Vis de pression H M6 Douille à aiguilles 35 NES Axe du différentiel Rondelle butée Bague_entretoise Ensemble Frein de blocage du différentiel
+2
+Rondelle butée Joint à lèvres Ensemble Frein à disques gauche Demi arbre de roue gauche Boîtier de pistons 18 Piston annulaire 2 Embout d 'alimentation alimentation 2 Tube d 'alimentation hydraulique Support de frein Roulement à rouleaux coniques 130 KB 02 Joint_torique Boîtier Vis CHC M15 Support du différentiel Nbre Désignation
+Cu Sn 8 P
+C45
+3 1 1 1 Matériaux Obs Concours nationaux d'entrée aux cycles de formation d ingénieurs Etude d un Engin Agricole Session 2019 DT-04
+
+--- page 55 ---
+8 2 Ra 0.8
+9 2 Ra 3.2
+2 ~ ;
+2 . 5
+20
+20
+50 +0 .2
++0 . 3 154 0 . 2
+168 +0
+1o 1 |A 0 08
+180 +0 .3
+ES10
+ES9
+ES1
+ES2
+ES3 ES4
+ES5
+ES6
+ES6
+Es8
+ES7
+0 05 / A
+Chanfrein 1.5 x 45'
+Ra 1.2 Pour les autres surfaces
+Tolérances générales ISO 2768 mk
+
+--- page 56 ---
+120
+trous 00 03
+136 +0 . 5
+Matière
+X38 Cr Mo V 5
+Echelle 2:3
+Session 2019
+Essieu
+Rep (22)
+Format A3
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs Concours Techno Epreuve C.F.M Etude d'un Engin Agricole DT-05
+
+--- page 57 ---
+95 94 93
+Pointe mobile Couvercle Roulement à billes à contact radial
+spériele Série spéciale
+92
+Butée Corps butée Vis de fixation H M6 Tube d 'alimentation hydraulique Joint torique Joint a lèvres 12 Vis de fixation CHC M6
+91
+90 89 88 87 86 85 84 83 82 81 Rep
+3 1 17 Cr Ni 6-6 Roulement à rouleaux coniques 40 KB 02 1 Axe 18 Cr Ni Mo 7 -6 Roulement a rouleaux coniques 40 KB 02 Demi arbre roue à droite C45 I Nbre Désignation Matériaux Obs Concours nationaux d'entrée aux cycles de formation d'ingénieurs Etude d un Engin Agricole Session 2019 DT-04
+
+--- page 58 ---
+B-B
+OP 96
+R 7
+27
+27
+8
+OP
+X
+38
+118
+Ra6. 3
+Matière
+C45
+Tolérancesgénérales ISO 2768 mk
+Echelle 1:1
+Session 2019
+Couvercle
+Rep (8)
+Format AA
+Concours nationaux d' entrée aux cycles de formation d'ingénieurs Concours Techno Epreuve €.F.M Etude d un Engin Agricole DT-06
+R 6
+R 12
+
+--- page 59 ---
+Dossier
+Document Réponses
+Ce dossier comporte 18 pages numérotées de 1à 18
+Partie A- Conception Mécanique Partie B- Fabrication Mécanique
+Page 1à 10
+Page 11à 18
+Important
+Un seul document réponses est fourni au candidat: Le candidat doit rendre obligatoirement le document réponses avant de quitter la salle dExamen.
+Le document réponses doit être rendu en intégralité aucune feuille ne doit être supprimée) Toute suppression de feuilles du document réponses est considérée comme étant une tentative de fraude
+Le renouvellement ou la reproduction de ce dossier sont strictement interdits.
+
+--- page 60 ---
+Concours Technologie_ Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+Partie A : Conception Mécanique 1-Étude fonctionnelle du pont arrière A-1 En se basant sur les documents techniques DT-02 et DT-03, compléter le diagramme fonctionnel associé à la chaîne de transmission de puissance du pont arrière du tracteur agricole.
+Boîte de
+vitesse
+Arbre de
+Renvoi dangle
+transmission
+Frein à disque
+Roue gauche
+Roue droite
+A-2 Donner la fonction de chaque bloc du diagramme fonctionnel de la chaîne de puissance du pont arrière
+Bloc
+Bloc
+Fonction
+Fonction
+fonctionnel
+fonctionnel
+(A)
+(C)
+@)/@D)
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2019
+Page 1 | 18
+
+--- page 61 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+2-Étude Technologique (DT-02) A-3. Compléter le Tableau3, en précisant le type et la fonction de chaque liaison. Tableau 3 ~Liaisons mécaniques Pièces en liaison Iypedeliaison Fonction
+(80)/(81)
+(51)/(55)
+(49)/(50)
+(73)/(75)
+A-4. Pour le roulement à rouleaux coniques (34), définir laquelle des deux bagues (intérieure /extérieure) doit être montée serrée Justifier votre réponse.
+A-5. Que se passe-t-il lorsque de Thuile sous pression est envoyée dans le tube (47) ?
+A-6.Que se passe-t-il lorsque de Thuile sous pression est envoyée dans le tube (89)?
+A-7.Quel est le matériau constituant la garniture des disques du frein (52)?
+A-8. Les freins (52) et (69) des deux roues sont placés en amont des réducteurs à trains épicycloïdaux. Justifier ce choix
+A-9. Quelle est la fonction de la pièce (54).
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page 2 | 18
+
+--- page 62 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+A-10. Indiquer le type de montage des roulements à rouleaux coniques (33)/(34), (45)/(67), (76)/(77), (82)/(84). Compéter le Tableau qui suit, en cochant la case correspondant à votre réponse.
+Montage
+Roulement
+(33)/(34) (45)/(67) (76)/(77) (82)/(84)
+Arbre tournant Moyeu fixe Arbre tournant Moyeu fixe Arbre fixe Moyeu tournant Arbre fixe Moyeu tournant
+Montage en "0'
+Montage en "X'
+Montage en "0"
+Montage en "X"
+A-11 Justifier le choix de montages des roulements (33)/(34), (45)/(67), (76)/(77), (82)/(84)
+Roulements
+Justification
+(33)/(34)
+(45)/(67)
+(76)/(77)
+(82)/(84)
+A-12 Compléter le Tableau 4, en précisant le type d'ajustement et la justification:
+Tableau 4 ~Ajustements
+Assemblage des pièces
+Ajustement
+Justification
+(72) et (83)
+(50) et (49)
+(65) et (66)
+(66) et (68)
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2019
+Page 3 | 18
+
+--- page 63 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+3-Étude de la chaîne de transmission de puissance
+A-13. Donner les noms des constituants du train épicycloïdal constitué par les pièces (39), (40), (55), (62), (63). Compléter le tableau suivant
+Pièce
+Nom
+Pièce
+Nom
+39
+62
+40
+63
+55
+A-14 Établir la relation permettant d'exprimer la vitesse de rotation 055/28 et 063/28 en fonction des vitesses de rotation 040/28
+A-15. On considère le cas où le tracteur roule suivant une trajectoire rectiligne, les pneus des roues arrière sont de même diamètre et roulent sans glissement Écrire la relation entre les vitesses angulaires 055/28 et 063/28.
+A-16. Donner la relation entre   063/28 et 655/28 dans le cas où le différentiel se trouve bloquer partiellement par le frein (56).
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page 4 | 18
+
+--- page 64 ---
+Concours Technologie_ Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+A-17.Àla fin dune ligne de labourage, Yengin est astreint à effectuer un arc de cercle à gauche en bloquant la roue gauche par le frein (52). Donner la relation qui peut exister entre 040/28 et 063/28*
+A-18 Le frein (69) est actif. Que se passe-t-il lorsque le tracteur se déplace dans un virage droite selon une trajectoire circulaire ? Justifier votre réponse
+A-19.Identifier les constituants du réducteur à train épicycloïdal (71), (72), (73), (85).
+Pièce
+Nom
+Pièce
+Nom
+71
+73
+72
+85
+A-20. Donner les conditions de montage du train épicycloïdal (71), (72), (73), (85)
+A-21 En déduire le nombre de dents Z85
+A-22 Lors du déplacement du tracteur dans un virage, Yarbre (81) tourne à Ne1 120 tr /min; Yarbre gauche (51) tourneà Ns1 100 tr /min. Calculer la vitesse N73. En déduire la vitesse Nes:
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page 5 | 18
+
+--- page 65 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+A-23. Calculer le couple de freinage Cf des freins (52) et (69).
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page 6 | 18
+
+--- page 66 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+A-24. On suppose une variation linéaire de la vitesse de rotation des roues lors de freinage Calculer le temps de freinage du tracteur_
+4-Analyse du système dattelage arrière du tracteur A-25. Établir le graphe des liaisons du mécanisme de la Figure 4. b, Page 5/10 et déterminer son nombre cyclomatique:
+Nombre cyclomatique
+A-26. Déterminer le degré de mobilité m et le degré dhyperstaticité h du mécanisme Nombre de degré(s) de mobilité m
+Nombre de degré(s) dhyperstaticité (h)
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page 7 | 18
+
+--- page 67 ---
+Concours Technologie Épreuve CFM
+Partie A ; Conception Mécanique
+Document Réponses
+A-27. On souhaite rendre le mécanisme isostatique: Proposer une solution; en modifiant les liaisons L1/28  (A,7) et Ls/28(H,2) . Justifier votre choix
+H
+28
+B
+A-28 On se propose de remplacer la liaison L1/28(A,2) du bras de relevage inférieur (1) et du châssis (28) (voir Détail A-DT-01). Calculer le diamètre de Yaxe (30) quand le relevage supporte une charge maximale en A, sachant que
+L'effort maximal transmis à laxe (30) : FA 28-30 10000 daN La limite élastique à lextension de laxe (30) : Re 40 daN /mm? Le coefficient de sécurité appliqué sur Yarticulation entre (1) et (30) : s = 3 La contrainte de cisaillement estla plus importante des contraintes que subit laxe (30).
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page 18
+
+--- page 68 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+5- Représentation Graphique A-29. En considérant les dimensions de Taxe (30) de la liaison L1/28 (A,2) choisie en A-27 et calculée en A-28,il est demandé de concevoir cette liaison; en prévoyant un système de graissage et de réglage de jeu. Compléter le dessin de la Figure9.
+28
+30
+Échelle 1:4
+Figure. 9-Conception de la liaison L1/28  (A,2
+A-30.Le bureau d'études prévoit la conception du système de prise de force (2) (DT-01) (et non représentée sur le document DT-02) afin de permettre danimer la presse à balles (voir schéma cinématique Figure.5). Il est impératif de conserver Yemplacement et la forme des interfaces de fixation au système comme lindique le dessin (page 10/18). Il est demandé de compléter le dessin d'ensemble en coupe A-A, en considérant les éléments suivants Prévoir un embrayage à commande hydraulique permettant la transmission de puissance de la couronne conique (40) vers l'essieu de prise de force (2) Assurer le guidage en rotation de (2) par rapport au châssis (28), Prévoir un système dalimentation hydraulique et assurer létanchéité des éléments, Compléter la nomenclature sur le document Page 10/18
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2019
+Page 9 | 18
+
+--- page 69 ---
+Concours Technologie Epreuve CFM
+Partie A ; Conception Mécanique A-A 55 57 59 63 61 54 58 60 62 64
+Document Réponses
+51
+53
+43
+73 67
+65 66
+52
+40 56
+68
+49
+28
+28
+Prise de force arrière DésIgnation
+Rep .
+Nbre
+Matériaux
+Obs _
+Etude d un Engin Agricole
+Echelle 1:4 Session 2019 Concours nationaux d'entrée aux cycles de formation dingénieurs Session 2019 Page 10 18
+
+--- page 70 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+Partie B : Fabrication Mécanique 1-Étude des matériaux
+B-1 Compléter le Tableau5
+Tableau 5_Désignation des matériaux Désignation du matériau Explication de la désignation (NF
+Repère
+39
+20 Ni Cr Mo 7
+40
+35 Cr Mo 4
+51/81
+C45
+54
+Cu Sn8 P
+72
+FGS 500-7
+B-2. En seréférant aux données dela Figure .6,déduire le module dYoung E (en GPa) du matériau de la pièce (22).
+E (GPa)
+B-3. Calculer la limite délasticité (Re) et la résistance maximale à la traction (Rm) (en MPa) du matériau:. Re (MPa)
+Rm (MPa)
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page 11 | 18
+
+--- page 71 ---
+Concours Technologie Épreuve CFM
+Partie B : Fabrication Mécanique
+Document Réponses
+B-4. Calculer Yallongement total après rupture (A%) du matériau:
+A(%)
+B-4. Le brut de lessieu de prise de force (22) est obtenu par matriçage suivi dune trempe et un revenu. Décrire le principe du procédé de matriçage.
+B-5. Citer les avantages du matriçage par rapport à la coulée en sable.
+B-6. Compléter la phrase suivante
+Les traitements thermiques sont constitués par un certain nombre dopérations combinées de
+trempe et revenu ayant pour but de (3 réponses):
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2019
+Page 12 | 18
+
+--- page 72 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+B-7.Le cycle thermique de la Figure 10 permet le durcissement de lessieu (22). On demande de préciser le type de traitement thermique pour chaque étape:
+Étape 1
+1
+Temps
+Figure. 10-Cycle thermique
+B-8. L'essieu (22) a subi un traitement thermique de nitruration. Expliquer le mode opératoire et lintérêt de ce traitement.
+Mode
+opératoire
+Intérêt
+2-Étude de fabrication
+B-9.La Figure 11 représente un outil à charioter à plaquette en carbure Donner la désignation de chacun des éléments de la partie active de cet outil.
+Élément Désignation
+3
+(12 (2) (3)
+(6)
+(5)
+5
+(4) Figure 11
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page 13 | 18
+Étape
+
+--- page 73 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+B-10. La fixation de l'essieu (22) sur le tour au cours de lusinage des surfaces (ES3, ES5, ES6, ES9 et ES1O), peut se faire selon deux configurations (Figure 12). Nommer les deux types de montage suivants
+Mandrin
+Mandrin
+Essieu
+Essieu
+Contre-Pointe
+Montage
+Montage Figure.12- Montage dusinage de la pièce
+B-11 Préciser la solution adoptée de maintien et de mise en position selon les caractéristiques de la pièce associées à la phase 40. Justifier votre réponse
+B-12 Représenter le référentiel de mise en position de l'essieu (22) ainsi que les cotes de fabrication relatives à lusinage supposé en finition directe des surfaces ES5, ES6, ES9 et ES1O (DT-05) sur la Figure 13.
+Figure.13 Référentiel de mise en position et cotes de fabrication
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2019
+Page 14 | 18
+
+--- page 74 ---
+Concours Technologie Épreuve CFM
+Partie B : Fabrication Mécanique
+Document Réponses
+B-13. Donner les valeurs des cotes de fabrication (Cf) relatives aux surfaces ES5, ES6, ES9 et ES1O Faire le calcul en cas de besoin
+3-Étude dela coupe
+B-14. Calculer les efforts de coupe Fc et les puissances de coupe associées Pc. Reporter les résultats dans les cases vacantes du Tableau 6
+Tableau 6 _ Efforts et puissances de coupe Outil ap Vc Ks Surface Opération (mm) (mmItr) (m/min) (N/mm?) T1 E 0,4 180 1890 ; ES5 T2 1/2F 0,2 300 2810 T2 F 0,5 0,15 350 3200 T1 E 1,5 0,25 180 2850 1 ES6 T2 1/2F 0,2 300 2810 T2 F 0,5 0,15 350 3200
+Fc (N)
+Pc (Kw)
+562
+2,8
+240
+1,4
+1069
+3,2
+240
+1,4
+B-15. Nous comptons réaliser toutes les opérations dusinage sur une machine à commande numérique CN dont la puissance moteur est notée Pm: Nous avons à disposition deux machines CN qui servent à réaliser les opérations de tournage
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page 15 | 18
+
+--- page 75 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+Machine A de puissance PmA 5KW, n = 0.85 Machine B de puissance PmB 15 KW, n= 0.85
+Quelle est la machine la plus adaptée pour réaliser les opérations définies par le Tableau 6. Justifier votre réponse.
+Dans ce qui suit onsintéresse uniquement à lusinage enfinition des zones 1 (Surface ES5) et 2 (Surface ES6).
+B-16. Nous négligeons les temps de prise de passe; de recul de loutil, des déplacements rapides; les déplacements à vide, etc. Calculer les temps de coupe associés aux opérations_de_finition correspondant aux deux zones pour la réalisation dune seule pièce (Figure.7).
+tc Finitlon Zone 1
+min
+tc Flnition Zone 2
+min
+ `
+
+B-17. Des essais expérimentaux ont permis de relever les durées de vie doutils pour un critère dusure défini par: VB 0. 3mm On suppose que Pévolution de lusure des plaquettes suit la loi de Taylor définie par T = CvV: et dont les valeurs de référence sont
+Vc (m/min) T(min) 200 ` 60  c 450
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page 16 | 18
+
+--- page 76 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+Calculer lexposant n et la constante Cv de la loi de Taylor.
+Cv
+B-18. Calculer la durée de vie de loutil de finition
+min
+B -19. Déterminer le nombre d'arêtes nécessaires pour lusinage en finition dune série de 5000 pièces.
+Nombre darêtes
+B-20. En déduire le nombre de plaquettes sachant qu'une plaquette possède 4 arêtes.
+Nombre de plaquettes
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2019
+Page 17 | 18
+Tv.350
+
+--- page 77 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+4-Commande Numérique B-21 Compléter le Tableau 7 en déterminant les coordonnées du centre de loutil par rapport à Porigine programme (OP) (Figure: 8).
+Iableau 7-_Coordonnées des points d'interpolation (centre de loutil) Coordonnées b
+g
+X
+67
+-67
+2
+50
+Coordonnées
+k
+m
+X
+B-22. Compléter le programme CN, en se référant aux données de la Figure &.
+Programme
+Commentaire
+Programme
+Commentaire
+% 2019 (USINAGE CONVERCLE)
+N11O
+X 00000006 Y
+N1O G17 G90 G80 G40
+N12O
+X Y aado
+(g)
+N2O GO G52 ZO
+N13O
+XY
+(h)
+N3O M6 T1 DI
+N140
+X Y
+(i)
+N40 G97 S400 M3 M8
+N15O
+X a Y
+0)
+N5O G94 F128
+N160
+X.- Y 000000000
+(k)
+N6o GOx Y 00000 E. 
+N170
+X Y
+(1)
+N7o GOZ
+N18O
+XY 00000000
+(m)
+N8O G1X Q0000ado Y onna
+N19O
+X Y
+(n)
+N9O
+X
+Y
+N2OO GO G52 ZO M9 MS
+(dégagement)
+N1OO
+XY 000000000
+(e)
+N21O
+M2
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2019
+Page 18 18

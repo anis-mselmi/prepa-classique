@@ -1,3 +1,80 @@
+--- page 1 ---
+~uyUE TUNISIENNE
+Ministère de 1Enseignement Supérieur
+Concours Nationaux d'Entrée aux Cycles de Formations dIngénieurs Session Juin 2002
+prepa RAratoire > (bblictheQue) etudes 5 CCmncewieus
+Concours en Physique et Chimie Epreuve de Mathématiques
+Durée 4 heures Date 3 Juin 2002 Barème Exercice Pts
+Heure 8 H Nb pages Problème 13 pts
+Une grande importance sera attachée la rigueur du raisonnement; la clarté et soin de la présentation. L'usage des calculatrices n'est pas autorisés . Il est rappelé que tout résultat énoncé dans le terte peut être utilisé pour traiter la suite; même s 'il n'a pu être démontré
+Exercice Soit (an )new la suite de nombres réels définie par la donnée de %o, 0 < % < 1, et la relation de récurrence Œn+1 =an @2
+~a) Démontrer que la suite (an) est décroissante et que pour tout n 2 0, 0 < @n < 1 b) En déduire que la suite (an est convergente Trouver sa limite
+a) Démontrer que la série > a2 est convergente; et donner sa somme. n20 Montrer que pour tout entier n 2 0, on a log(1 @n iog(an+1) log(an déduire que les séries > log(1 @n) et 2 an sont divergentes n20 n20 Prouver que la série @ne-Is' n2o n! bsolument convergente pour tout I réel.
+ins la suite; pour tout I réel et N € N, on pose
+Foo Œn On e-II" et GN(r) = 2 FI In n! n! n=0 1=0
+G(r)
+Iver que, pour tout entier N et tout I 2 0, on a :
+0 < G(r) = Gv(r) < @N+1
+Qn
+luire que la série n20 n!
+I" converge uniformément sur [0, +o[, et que
+lim G(r) = 0 I ++oo
+1/4
 
+--- page 2 ---
+5) Montrer que pour tout ejo, 1[
+lim t?e(s-I)G(st) = U ( +roo
+et en déduire que la fonction t | e(s-1)G(st) est intégrable sur ]0, +oc[ pour tout ejo, 1 [ _ 6) Prouver que pour tout ejo, 1[
++o0 e(s-1)tG(st) dt = @n8? n=0
+Problème
+Partie 1 Soit ( une fonction définie et continue Sur [~1,1], à valeurs dans RR. On pose pour tout entier n > 0 fn [~1,1] _ + R I +4 cos(n6(z)) 1) Vérifier les relations de récurrences suivantes Vz € [~1,1] Yn > 1 :
+fn+1(z) + fn-1(r) = 2cos(,(z)) fn (z). 2) Plus généralement vérifier que Vr € [~1,1] Vm 2 n : fm+n(r) + fm-n(z) = 2fm(z)fn(z).
+Dans la suite du problème; on pose P(æ) = arccos(æ) , et on désigne par Tz lapplication Tn : [~1,1] = + R I |4 cos(n arccos(z) )
+3) Montrer que pour tout I € [~1,1] et pour tout entier n 2 0 in arccos(r) = Ec;;(vi = 72)*1"-k k=0 4) En déduire que pour tout entier n 2 0, Tn est une fonction polynôme définie pour tout 2 € [~1,1] par
+E(?) Tn(z) C2* (z? 1)I"-2k où E(2) désigne la partie entière de k=o
+5) Déterminer le degré et la parité de Tn
+2 /4
 
+--- page 3 ---
+Partie 2 Pour tout entier n 2 2, et I € { =1,1]  on pose
+To(z) Ti(r) Tz(z)
+Mn
+€ Mn(R) et Vn(z)
+2
+In-2(r) Tn-1(z)
+1) Vérifier les relations de récurrence suivantes Vr € [~1,1], Yn 2 1 : Tn+1(s) +In-1(r) = 2rTn (z) Préciser To(r) et Ti(z) 2) Calculer le produit ( Mn IIn)V (z), où In est lidentité de Mn(R) 3) Soit k € {0,1, 1}, montrer que Ik,n =cos(2 + #) est une racine de Tn. En déduire toutes les racines de Tn. 4) Montrer que pour tout 0 < k < n _ 1.
+(Mn Ik,n In)Vn(Ik,n) = 0
+5) Montrer que les valeurs propres de Mn sont les n racines de Tn Quels sont les vecteurs propres associés ? 6 ) Montrer que la matrice Mn est diagonalisable
+Partie 3
+On désigne par E Véspace vectoriel des applications continues sur [~1, 1] à valeurs dans R On munit E du produit scalaire <, > , défini par
+<,> : E x E =+ R = f(z)g(z) (f,g) F +< f,g > 2f dz VI ~I2 1) Vérifier que pour tout f , 9 € E, 2 < f,g > = f (cos(0) )g(cos(0) )de
+2) Prouver que les Tn sont orthogonaux deux à deux Montrer que Vn 2 1, < In;Tn >= 1 et To,To >= 2
+3) En déduire que (To, Ti, e Tn) forme une base orthogonale de Rn[X]
+Soit f € E, pour tout entier N 2 1, on note
+Sv(f) < f,To > + E < f,Tn > Tn 2 n12] et soit g Papplication paire définie sur RR par 9(0) = f (cos(0)). Montrer que pour tout entier n,
+@n(g) =< f,Tn > , où an(g) = 2 9(0) cos(n0)de
+3 | 4
 
+--- page 4 ---
+5) Montrer que pour tout 0 € R et N 2 1, on a :
+ao(g) + an (g) cos(n0) = Sv(f ) (cos(0)) n=[
+6) Montrer que si f est continue et de classe C1 par morceaux sur [~1, 1], alors la série < f,To > + 2 < f,Tn > Tn converge normalement sur [~1,1] et que n2l
+< f,To > + 2 < f,Tn > In = f n=1 7) Réciproquement, on suppose que Ean est absolument convergente; n20 7-a) Montrer que la série de fonctions 2 + EanTn converge normalement sur [~1, 1] 12[ 7-b) Montrer que si f est sa somme alors; Vn > 0, &n =< f Tn >
+Partie 4
+Soit h Tapplication 2T-périodique; paire, définie sur [0, 7] par h(0) = 0 1) 1-a) Tracer le graphe de h 1-b) Déterminer la série de Fourier de h I-c) Etudier la convergence de la série de Fourier de h sur R 1-d) En déduire que pour tout 0 € [0, 7]= 4 cos((2n + 1)0) 2 n=0 (2n + 1)2 2) Montrer que pour tout I € [~1,1] ,
+arccos(r) + arcsin(z)
+2
+3) En posant 0 arccos(r) , montrer que Vs € [~1,1] _
+arccos(x)
+T2n+1 (z) n20 (2n + 1)2
+2
+arcsin(z)
+T2n+1(z) (2n + 1)2 n=0
+Trouver la valeur de la somme 10 (2n + 1)2 5) Montrer que
+51 n = 0 si n= 2p, p 2 1 si n = 2p + 1,p 2 0
+arccos(x), Tn > =
+(2p + 1)2
+6) Montrer que arcsin(z) arccos(r) arccos(r)Tzn+ (r) dx = 4 [s9 dx I2 n=0 (2n + 1)2 vi = I2
+7) En déduire que
+arcsin (r) arccos(r) dI = 8 vi = r2 n==0 (2n + 1)4
+4 | 4

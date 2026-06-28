@@ -1,3 +1,70 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Minisure ck FEnxignenx'n Supériur et de la Rocherche Sclemilique Concours Natiananx dEntréx aux Cydcs de Fonnation d'Ingénicurs Scssion '2012
+uareleeis jxL~L dos 2ll naiholl ullilinll Un{; Jalz .I1 luwlinnll 2082 810)
+sttut PüErAre Cire OBUOFHEQUE SAx ETudrs  @grrus 
+Concours Biologie et Géologie Epreuve de Mathématiques Durée: 3 heures Nb pages: 4 Date: Lundi 4 Juin 2012 Heure 8 H Partie IV: pts Partie V: Partie I: pts Partie II: pts Partie III: pts Barème: pts raisonnement , à la clarté et au soin de la Une grande importance sera attachée à la rigueur du présentation . Lusage des calculatrices n'est pas antorisé. le texte peut être utilisé pour traiter la suite; même Il est rappelé que tout résultat énoncé dans s'il n'a pu être démontré.
+Exercice nombre de boules de même nature:  On désigne On dispose de 3 urnes contenant chacune un même par (€) l'expérience suivante: une urne et effectuer 'Un tirage dune boule avec remise de cette Choisir de façon équiprobable urne la variable aléatoire indiquant le nombre des On répète (€) plusieurs fois et on désigne par Xn plusieurs des n premières répétitions. urnes de laquelle on a fait au moins un tirage dans lune ou On note P(Xn = 1) Un = P(Xn = 2) P(Xn = 3) probabilité de lévénement ( Xn = k) pour k = 1,2,3. où PP(Xn = k) désigne la 1 Préciser la loi de X1. tout entier naturel non nul 2 Établir , à laide de la formule des probabilités totales; que pour 7l, 0 1 A = 2 2 = AUn   avec A la matrice de MB(R) définie par: Un+1 3 (0 1 3 La matrice A est-elle diagonalisable? 3 (a) Déterminer les valeurs propres de A. 3ième = ( 1 1 1 ) et P de MB(R) de ligne 03 (b) Détermincr  la matrice  inversible vérifiant la relation 0 1 P-'AP = D = 2 0 3 0 3
+Page 1/4
+Physique et Chimie Session Juin 2012 Concours
+Épreuve de Mathématiques
 
+--- page 2 ---
+(c) Calculer P=1 (d) Déterminer Fexpression de A" pour tout enticr naturel n.
+3
+2 3
+A" =
+2 (2)" = 2 3 3)
+2 =2 3
++ 1
+1 =
+(e) Déduire la loi de Xn pour tout entier naturel non nul n.
+4 On définit la variable aléatoire Y à valeurs dans N* par: (Y < n) et ( Xn = 3)
+(a) Préciser la probabilité de Vévénement (Y = 1) et (Y = 2)- Tl - 1 n =1 ( 2 (b) Établir que: Vn > 2, FP(Y = n) = ~2 3
+(c)
+1 Déterminer le rayon de convergence R de la série entière EP(Y = n)r" On note gY sa somme
+ii. Montrer que Fexpression de sa fonction somme est:
+213 222 9x + 97
+gx (x)
+iii.  Déterminer la fonction dérivée gY iv . En déduire la valeur de lespérance E(Y)
+Problème
+On désigne par p;q et À trois réels strictement positifs et on définie les intégrales T(p; À) et B(p;9) respectivement par: +a T(p; %) = APzp-le-Xz dx
+et
+B(p;9) = J sP-1 (1 ' 1)9-1 dx.
+Partie I
+1 Montrer que chacune des intégrales F(p; X) et B(p;9) convergent_
+2. On note T(p) = F(p,1) En effectuant un changement  de variable; montrer que 1(p; X) = T(p) .
+Concours Physique et Chimnie Session Juin 2012
+Épreuve de Mathématiques
+Pagc 2/4
+(g)"
 
+--- page 3 ---
+3 Montrer, à Faide dune intégration par parties; que T(p + 1) = p1(p) 4. Montrer que si p est un entier naturel non nul, F(p) = (p = 1)!
+5. (a)  Montrer que
+B(p;9) = 2
+(cos(0))?p-1 (sin(0)) 24 -1 do et 1(p) = 2
+€ ~u2 u2p ~1du.
+(Ind.: Pour la Ière intégrale, faire le changement de variable z = cos(0).) (b) Soit le domaine D = Jo; z [ x R+ Montrer que
+T(p)T(q) =4JJ € r2 (r cos(0))2p-1(r sin(0) )2q-1rdrdo . (c) En déduire que B(p;9) = TWP)E.) T(p + 9) (d)  Calculer B (4, 4) puis en déduire la valeur de T (2)
+Partie II
+On définit la fonction 9 de R dans R par:
+Ap_IP-Le-Àr si 1 > 0 T(p si 1 < 0
+g(z)
+1 (a)   Montrer que g est la densité de probabilité d'une variable aléatoire U .
+On dira dans la suite du problème qu'une telle variable aléatoire U suit la loi gamma Y(p; )) (b) Reconnaître la loi y(1, X)_ (c) Montrer que la variable U admet une espérance et une variance et que:
+'P P EE(U) = et V(U) = 1 12
+2. Soient U1 et U2 deux variables aléatoires indépendantes de lois respectives ~(p; X) et 7(4, A) .
+On rappelle que pour 91 et 92 des densités de probabilité respectivement de Ui et U2, alors U1 + U2 admet pour densité la fonction f définie sur R par f (r) =J 91 (t)g2 (x t)dt . (a) Montrer que U1 + U2 suit la loi %(p + 4, X) . (Ind.: faire le changement de variable t = ru) I(p)I(g) (b) Retrouver la relation B(p, 9) = T(p + 4) 3 Soit 7 une variable qui suit la loi normale centrée réduite N(O, 1). (a) Montrer que 22 suit la loi 9(4, g)
+Concours Physique et Chimie Session Juin 2012
+Épreuve de Mathématiques
+Page 3/4
 
+--- page 4 ---
+S de n variables aléatoires indépendantes suivant la même (b) Donner la loi de la somme Joi que la variable Z2
+Partie III Le ler successifs des véhicules par un point donné M. On s'intéresse aux instants de passages Ti le temps écoulé entre les passages du à linstant A1 2 Ti. On note A2 = T2 véhicule passe véhicule arrive. Pour n € N* on 2ème véhicule, T2 désigne linstant auquel ce second 1er et du point M et An+1 = Tn+ Tn le temps écoulé note Tn Vinstant ou le nième véhicule arrive au ième 1)ième véhicule et OII suppose que les variables (An)n?1 entre les passages du n et du (n + exponentielle de paramètre 1 sont indépendantes et qu'elles suivent la même loi On définit enfin la fonction N sur R+ par: Vt € R+' qui sont passés dans Vintervalle [0, t} Nt = le nombre de véhicules pour tout n € N* 1 . Justifier que (Nt = 0) = (Ti > t) et que (N. > n) = (Tn < t) et (N+ = ") = (Tn < t < In+l)
+2. Soit n un entier naturel non nul.
+En remarquant que, In = Ak, donner la loi de Tn: (a) k=1 (b) Donner ue expression de P(N; > n) utilisant une intégrale. (c) Montrer que P(Nt = n) = P(N: > n) - P(Nt > " +1) (d) En déduire que N; suit la loi de Poisson de paramètre Àt. (inde On pourra intégrer par parties la quantité P(Nt > n + 1)). M n'ont que 2 directions D1 et D2. Pour On suppose que les véhicules passant par le point 3 dans la direction D1 qui sont passés on   note D1, le nombre de véhicules   allant t € R+: point M on suppose qu 'il entre Vinstant 0 et linstant t. Lorsqu'un véhicule passant par le et la direction D2 avec la probabilité la direction D1 avec une probabilité p €Jo,1 [, prenne 9 = (1 = P), indépendamment des autres véhicules . Montrer la loi de probabilité de la variable conditionnelle (a) Soient n € N et t € R+ que (Du,t | Ne = n) est égale à Ckpk (1 = p)n -k Vk € 0, 7 , P(Dut | Nv = n) = ainsi que son espérance E(Dut) et sa variance V(Du,) (b) En déduire la loi de D1
+
+Page 4/4
+Concours Physiquc et Chimie Session Juin 2012
+Épreuve de Mathématiques

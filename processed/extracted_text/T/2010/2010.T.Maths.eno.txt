@@ -1,4 +1,106 @@
+--- page 1 ---
+4ij/6ui "ukxwlszlis @L~] dssn adibell @lsliji iuuMal sssklwvi 200 ;29'
+REPUBLIQE TUNISIENNE Miisère d IEhsigunet Supérieu et de Recherde Scirdifiqu
+Concours Natiqnux d Entrée aux Cycks de Founation d'hgénieurs Seson 2010
+Concours Technologique Epreuve de Mathématiques
+Date: Lundi 31 Mai 2010
+Heure: 8 H
+Durée: 4 H
+Nbre pages:
+Barème Exercice: pts, Problème: Partie I: 9 pts, Partie II: pts. Une grande importance sera attachée à la rigueur du raisonnement, à la clarté ct al soin de présentation.   L'usage des calculatrices n'est pas autorisé.  Il est rappelé que tout résnltat énoncé dans le texte pent être utilisé pour traiter la suite, même s'il n'a pu être démontre
+On note N Fensemble des entiers naturels; N* Vensemble des entiers naturels non nuls, IR e corps des nombres réels, R + le sous-ensemble de IR formé des nombres réels positifs, R* le sous-ensemhle de IR formné des nombres réels différents de et IR; le sous-ensemble de R formé des nombres réels strictement positifs.
+s
+Exercice
+WsTITUT 6 @iblotheque ) (Eudes ! @inggfussi
+Soit  4 une fonction de classe C2 sur R; . On définit la fonction 9 Par
+IR + x R' (r,u)
+IK 9(r, y) P(2? + 9) .
+(a) Justilier que 9 est de classe C2 sur R* x R*. (b) Calculer les dérivées partielles premières 99 et 99 en fonction de {æ ëy 029 02 (c) Calculer les dérivées partielles secondes ct en fonction de + et 0r? dy 2. Déterminer les solutions sur R; de Véquation différentielle
+12" (t) + 2(t) = 2t.
+On veut déterminer les fonctions 4 pour lesquelles la fonction g vérifie Féquation aux dérivées partielles 029 929 (a,U) + (r,u) = 8(12 + v?) , {r2 V(r,y) € RR* x RR*_ 0y? (a) Montrer quc si la fonction 9 vérifie (2) alors la fonction + vérifie léquation différentielle (1) , et donner Fexpression de 4 (b) En déduire Fexpression de 9. 9g 9g (c) Déterminer la fonction g solution (2) et vérifiant 9(1,0) = 0 et (1,0) + (1,0) 0 #r #y
+Concours 'Technologique Session Juin 2010
+Épreuve de Mathématiques
+Page 1/5
 
+--- page 2 ---
+Problème
+Soit la fonction f indéfiniment dérivable de Rs & valeurs dans E, définic par
+1] T2 T3
+f(r) = I12 1]82+ T2 + 18 2
+13.
+Fx =
+€ R3
+Partie I
+Vérifier qu ' on peut écrire sous la forme
+I1 T2 13
+f (x)
+Ax, 1 > <b,1 > Fz =
+€ R3
+où A est une matrice de Ms(R) et b est un vecteur de R* donnés par =1 A = 21 9) b = (9)
+Mf Calculer les dérivées partielles æ) de f pour i = 1,2,3 #x; Soit le système défini par ôf (r) = 0, #x1
+@f (x) = 0 @12
+(f (x) 0 @r3
+Montrer que ce système peut se mettre sous la forme Ar
+Trouver les valeurs propres de la matrice A et les vecteurs propres associés
+La matrice A est -elle diagonalisable?
+Montrer que la matrice A est inversible.
+En déduire le système Az = b admet une solution unique z Calculer  Ab. Que remarque-t-on? Vérifier Ar,y >=< 1, Ay > poUr tous vecteurs I et y de R3
+10. Montrer que f (b) ~4 < Ab,b >
+Concours Biologic Session Juin 2010
+Épreuve de Mathématiques
+Fage 2/4
 
+--- page 3 ---
+11 . Montrer que
+Alz b). 2 b > = (2'1 2 + 722" + 262 1)2 12 Montrer que. pOur tout vecteur 2 de R3 , f(") - f(b) = ! < Ar b,I = h > 13 En déduire que. pour tout vecteur 2' de J3 OII à f(æ) 2 f (b) 14. Que représente lc vecteur b pour la fonction f?
+Partie II
+Dans cette partic; (X1,X2 désigne UII couple de variables aléatoires réelles de densivé conjointe fx1Xz définie; pour tout couple (x1. I2 de réels, par
+I1 12
+fx1X2 (x1, I2) = Qe 3f(z)
+Ce g(2; 11 æ?+22)
+1 =
+€ R3
+Dans  cette question; désigne un réel strictemeu   positif et UIL   réel. En utilisant   les propriétés des lois normales, montrer que
+(a)
+e-{a?(2+b)? dz 2;
+re 4a?(2+6)? dr = ~bV2z
++o0 r?e-{0? 12 dr;
+V2z 03
+(c)
+2 Déterminer œ pour que fx1-X2 soit une densité de probabilité (Indication: On pourra pour celà remarquer Fidentité:
+2} TIT2 + r2 (z1 2? + 4r2 et utiliser la question précédente) Déterminer les densités marginales de X1 et de X2: 4. Reconnaître les lois de XJ et de X2-
+5. Calculer P(XJ > 0) et P(Xz < 0).
+6 . Calculer E(2X1 + 3X2)
+Calculer Var(2X1 - et Var(-3X2) Calculer E((XJ + X2)2). 9. Déduire Cov(X1; X2) puis Var( X] + X2).
+10 X1 et X?z sont-elle indépendantes?
+Concours Biologie Session Juin 2010
+Epreuve de Mathématiques
+Page 3/4
 
+--- page 4 ---
+Partie III
+Soient les variables aléatoires 'Z1 et Z2 indépendantes et identiquement distribuées de loi normale X(0, 1). On rappelle que la densité dune V.a, normale Z centrée et réduite est donnée par 22 fz(z) exp(-2) Vz € R V2n
+On considère les variables aléatoires T, U,V et W définies par
+U = Z1,
+V = Z1 + Z2,
+T = Zi,
+W = v7.
+Déterminer la densité de W en fonction de celle de T
+2. Déterminer la densité fr de T. Calculer E(T), E(W) Var(T) et Var(W). Calculer E(V), E(V2) et Cov(U,V). Déterminer la loi du couple (Z1, Z2) ainsi que sa densitée fz.,Z2 définie sur R? On considère la fonction $ R2 R? (æ1, æ2) (u, v) telle que {" 11, U 1 + 32. (a) Exprimer æ1 et 22 en fonction de " et v (b) Calculer la matrice Jacobienne de $ (c) En déduire que la loi du couple (U,V) admet la densité fuv définie sur R? par:
+fu,v(u; ") 27 exp { 2 263+ (-0)3}  Déterminer la densité marginale de V; fv- 8. U et V sont-elles indépendantes?
+Fin de épreuve
+Concours Biologie Session Juin 2010
+Épreuve de Mathématiques
+Page 4/4
 
+--- page 5 ---
+REPUBLIQUE TUNISIENNE Ministèrc de VEnseignement Supérieur ct dc la Recherche Scientifique
+"uu#lbxts {ÆlL#p Jsiw ibsi 21BLiji Bhmiji ulsleifji 2010 63
+Concours Nationaux d'Entrée aux Cycles de Formation d'Ingénieurs Session 2010
+Concours Toutes Options Epreuve d Anglais
+Date Lundi 31 Mai 2010
+Heure 15 H
+Durée 2 H
+Nbre pages 08
+Barème Part I :30, Part II: 30, Part III: 20
+IMPORTANT: 1.L'épreuve danglais   comporte deux séries de feuilles Les énoncés s'étalant sur 4 pages que les candidats sont 'appelés à garder Les feuilles réservées aux réponses (Answer sheets) s'étalant sur 4 pages, lesquelles doivent être rendues à la fin de Vépreuve aux professeurs surveillants 2. Il sera tenu compte de la présentation, (l'écriture au crayon n'étant pas permise) Liquid Wood better known by the trade name Arboform is the ecofriendly replacement to Plastic. With environmental issues such as pollution, increased CO2 levels causing global warming and depletion of oil reserves, scientists have chosen to look for eco- friendly alternatives. One_such alternative is liquid wood. Arboform is the trade name coined for liquid wood_ 2 For decades plastics have reigned the commodity and durable goods market because of their   utility and durability. In the 2Oth Century the introduction of  plastics   found uncontested utility in every home, industry or machinery. However today, in an eco- friendly   and environmentally conscious   decade, a soupy expanse of plastic   covering approximately 1 million square miles of the Pacific ocean is a cause of serious concern and raises alarm. 3. Plastics are neither recyclable nor are they renewable. Since plastics are derived from oil reserves, the future of plastics rests on the natural oil reserves of the world which are exponentially depleted as technology advances.  Off late; pthalate softeners and heavy metals used in plastics are found to be toxins both, for the environment as well as for health. Norbert Eisenreich's group at the Fraunhofer Institute of Chemical Technology began researching a natural alternative to a material as utilitarian as plastic but more eco-friendly, since the 1900s. 4 Through their research and scientific pursuit they invented liquid wood. Liquid wood is strong thermoplastic formulated from lignin, natural fibers and wax. It is non-toxic, bio-degradable and does not depend on a non-eternal resource such as petroleum. Prior to the introduction of   liquid wood, bioplastics were experimented on but their manufacturing processes were found unsuited to domestic use as they had high sulfur content. 5 After Eisenreich's team developed liquid wood and christened with the trade name Arboform, it was further processed by Tecnaro a German company which molded and produced it in pellet form. A finished product of Arboform can take the looks of plastic or even an object of polished wood. 6 Arboform is not made from felling of trees but it is manufactured from the waste products of the paper industry. The paper industry separates out the three components of wood-lignin, cellulose and hemicellulose.  Lignin is not used in the manufacture of paper as it gives paper brownish bue. Often it is used in low quality newsprint but more often than not it is separated out with sulfite or sulfate based pulping process Concours Toutes Options Scssion Juin 2010 Eprcuve d'Anglais Page 1/4

@@ -1,7 +1,137 @@
+--- page 1 ---
+REPUBLIQUE TUNISLENNE
+Ministère de ['Easeignement Supérieur
+Concours Nationaux d'Entrée aux Cycles de Formation d'Ingénieurs Session Juin 2000
+Astuut erhraope  = bibliotheque 3 DoGENiENS Concours en Physique et chimie Epreuve de Physique
+Durée
+beures
+Date
+juin 2000
+Heure : 8 b
+Nb pages 8
+Annexe
+Barème
+Partie I 8/20;
+Partie II 5/20;
+Partie II 4,5/20;
+Partie IV 2.5/20
+lusage dune calcularrice non-programmable est autorise Si, Cu cours de l'épreuve un candidat repere ce qui lui semble être une erreur dénonce ille sigrale sur sa copie ? poursuit sa composition en indiquant les raisons des initiatives qu'il est amene à prendre Le problème est consttue de quatre parries indépendantes entre elles:. 1 est consellie de irzizer le problème dans ]ordre des questions. Tout résultat fourni dans [énoncé peut être utilise pour des questions ultéreures, même $ il n 2 pas été démontre .
+Doungesules
+Dans tout le problème, on assimilera ]air à un gaz parfait à la température T = 293 K et à la ?ression Po = 10' Pz caractérisé par Sa masse molaire M = 29 10' kg mol ' Sa masse volumique Po = 1,3 kg m Le rapport de ses capacités thermiques à pression et volume constants " = CrCv = 1.+ Pour [eau, on donne Sa masse volumique Po 10' kg.m Son coefficient de compressibilité isentropique Xs = 4,5 1o-0 Pa Constante des gaz parfaits R = 8,31 JK mol Formule d analyse vectorielle div f.2 f div a grad f où f est une fonction scalaire et
+un champ vectoriel Dans tout le problème; on negligera les effets de pesanteur .
+@otarion complere
+On note le nombre complexe tel que j' = -1 et on souligne les grandeurs complexes.
+Le bur ce ce probleme consiste etudier le comportement physique de ['oreille en taut que svstème acoustique; mécanique et transducteur . Aucune connaissance sur la physiologie et Tanatomie de ]oreille n1 est nécessaire pour traiter le proble eme
+Un schéma et une description simplifiée de Foreille sont donnés en annexe 1 titre de lecture
+L2 première parie du problème porte sur la prcpagation des ondes acoustiques. Les trois Jurres parties trzitecr des modèlcs élémertaires des différentes parties de ! creiile humaine
 
+--- page 2 ---
+Partie I: Propaqation des ondes acoustiques planes monochromatiques On considère un fluide parfait au repos, la pression Po et la masse volumique Po sort constantes et uniformes On s'intéresse à la propagation dans ce fluide dune onde acoustique suivant laxe x Ox de vecteur unizaire ex dun référentiel galiléen dorigine 0. On note c la célérité de [onde acoustique.
+Le milieu est caractérisé à l instant t et à Fabscisse par la vitesse des particules fluides V(x:) la pression P(xt) = Po + p(xt) et la masse volumique p(xt) Po H(xt) La variation H(xt) de la masse volumique du fluide, la surpression acoustique p(x,t) et la vitesse pariculzre p(x;t) #(xt) v(xt) de londe acoustique sont supposées   faibles. Les   grandeurs et sont alors  des Po Po infiniments petits du premier ordre Dans ['approximation acoustique; tout terme petit d'ordre supérieur ou égal à 2 sera néglige On néglige les forces de pesanteur devant les forces de pression ainsi que les effets d 'échange thermique er d'irréversibilité 5 On 1 êp appelle Xs le coefficient de compressibilité isentropique du fluide Xs ou V est êP êP le volume du fluide
+I-l- Equation de propagation à une dimension Ecrire dans le cas genéral ['équation locale de conservation de la masse e [équatior d Euler.
+cu b- Linéariser ces équations et établir les relations entre ct part.
+êv œp dune part et entre et deutre cx êt @x
+En déduire; dans ]'approximation acoustique et pour des évolutions isentropicues, les deux équations couplant les grandeurs p et v.
+d - Montrer que la surpression acoustique p(x,t) et la vitesse paniculaire v(xt) sont solutions dune équarion de d Alembert à une dimension. Exprimer la célérité c en fonction de Po et Xs
+Dans le cas où le fluide est un gaz parfait, exprimer la célérite en fonction de la tempéranure T,de la mnasse molaire M, du rapport / des capacités thcrniques ct dc la corstanie R des gaz parfaits .
+Application numérique Calculer la célérité de ['onde acoustique dans ['eau et dans Pair 1-2- Impédance acoustique caractéristique Le fluide, décrit précédemment, remplit maintenant un tuyau cylindrique de longueur infinie, de section $ constante et daxe x'Ox Soit une onde acoustique plane monochromatique de pulsation se propageant   dans ce tuyau dans la direction x'Ox suivant les X croissants_ Les champs de surpression acoustique et de vitesse particulaire ont pour expression en notation complexe P(xt) Po exp j (@t kx) et y(xt) Yc exp j (@t kx) où Po et Yo
+désignent les amplitudes correspondantes et k =
+est la norme du vecteur donde
+On appelle impédance caractéristique du tuyau acoustique rempli de fluide le rapporr  Zc = 2 Justifier cette appellation à laide dune analogie électrique
+b- Montrer que Zc Pcc et déterminer son unité .
+Applicatior numérique Evaluer Zc pour Fair et pour !'eau   Conclure
 
+--- page 3 ---
+13-Intensité acoustique Lintensité acoustique I de [onde plane progressive  sinusoïdale se propageant   selon la direction x Ox représente la puissance movenne transférée par [onde à travers une surface unité perpendiculaire à x Ox Montrer que [ = P, ZPoc
+I- 4-Réllexion et transmission_des_ondes acoustiques On considére un tuyau cylindrique de longueur infinie daxe x'Ox et de section constante En x 0. CSt placée une membrane, d'épaisseur et de masse négligeables, séparant deux tluides dimpedances caracteristques Zci et Zcz Une onde acoustique plane progressive monochromatique incidente se propage le long de [axe x Ox dans le sens des X croissants (cf. figure 1). Sa surpression acoustique est P. Po exp j (@t kx). Arrivée sur la membrane , elle donne naissance une onde reflechie de surpression acoustique P: dans le tluide occupant la région x < 0 et à une onde transmise de surpression P. dans le fluide 2 dans la région x > 0.
+mcmbranc
+Ju onde incidente
+Quide
+Quide 2
+Figure [
+En précisant les conditions de passage pour |onde acoustique globale en x = 0, déterminer en fonctior Pr P. de Zc1 et Zc: les coefficients de réflexion [ = et de transmission [ = relatfs aux surpressions Pi acoustiques.
+b- En déduire en fonction de Zc1 et Zcz les coefficients de réflexion intensités acoustiques
+et de transmission
+relatifs zux
+En calculant les valeurs de ?et que peut-on dire de la transmission des ondes acoustiques à Tinterface air-eau
+I-5- Conduite acoustique Impédance acoustique ramenée Une conduite acoustique (cf. figure 2) cylindrique d axe x Ox et de section S constante est remplie dair. Elle est fermée en X = 0 sur une impédance acoustique Zr (impédance terminale) . Une onde acoustique incidente de surpression P; Po exp j (@t kx), donne nalssance au nveau de P. Timpédance terminale Zr à une onde réfléchie. Soit [ = le coefficient de reflexion en x = 0 P
+Impedance terninale
+IDD onde incidente
+Figure 2
 
+--- page 4 ---
+L'impédance acoustique terminale ramenée en un point d'abscisse x de la conduite est définie par le rapport Zr (x) = P où pet Y représentent le champ acoustique résultant en ce point:
+Exprimer [ en fonction de ZT Z1 où Zc est l'impédance caractéristique de ]'air. Zc b- Montrer que ]'impédance terminale Z = Zx = 4 de la conduite ramenée à une distance € (en x = - 2 ) ` Z+jZs_tan kl est donnée par Z = Zc Zc + jZ- tan kl En déduire; lorsque la terminaison est ouverte en x = 0 (Zr = 0), lexpression de ['impédance acoustique ramenée Zr en X =-2
+d- On se place dans l'approximation des basses fréquences (ABF) pour laquelle la longueur donde 1 est supposée très grande devant la longueur de la conduite ( 1 >> 2) A l'impédance Zr est associée une impédance mécanique Zn = S Z Montrer que pour une terminaison ouverte en x = 0, on peut faire correspondre à l'impédance mécanique Zn une masse virtuelle mv que [on déterminera en fonction de Po; € et S
+Partie II Modèle élémentaire de lorille extere
+Le tympan; supposé isoié du conduit auditif; est assimilé à une membrane élastique plane de masse m vibrant parallèlement à elle même suivant laxe Ox On désigne par X son élongation par rapport à sa posicon déquilibre. Au cours de son mouvement, la membrane est soumise à une force de rappel ~km km>0) et à une  fcrce de frottement fluide ~hn ( hn>0) Les caracteristiques mécaniques relatives au tympan obtenues par méthode holographique; sont n= 15.106 kg kn = 3000 N.m et h, = 0,1 Ns.m
+I-1-Oscillations mécaniques libres de la membrane 4- Ecrire ]'équation différentielle décrivant le régime doscillations libres de la membrane.
+b- Calculer le facteur de qualité mécanique Qn et le temps de relaxation ? de la membrane .  On désigne par @ la pulsation propre de l'oscillateur libre non amorti
+Déterminer la solution x(t) de ['équation différentielle Représenter lallure de x(t) sachant qu'à l'instant t = 0 : x = Xo et x= 0.
+I-2- Réponse forcée de la membrane à une excitation sinusoidale On applique mairtenant à la membrane une force de surpression acoustique sinusoïdale suivant la direction x'Ox darplitude constante Fn et de pulsation @ X2 On relève sa courbe de réponse en amplitude réduite en fonction de la pulsation réduite u = no Xn désigne ['amplitude réelle de l'élongation de valeur asymptotique Xmo = Xn (u = 0).
+Etablir, la réponsc en élongation réduite complexe 4(u) en fonction de Qz:
+b- En déduire ['amplitude A(u) et lallure de sa variation
+Application_numerique La nembrane de section 5 60 mm' est excitée par une surpression sinusoidale damplitude constante Po = 2. 10 $ Pa qui correspond au seuil daudition. Calculer Fa et en déduire [amplitude des vibrations Xm à 2000 Hz
 
+--- page 5 ---
+[-3-Impédance mécanique du tympan nop chargé par le conduit auditif
+En régime sinusoidal permanent, F'impédance mécanique complexe de la membrane (tympan) est le rapport de Tamplitude complexe Fn de la force excitatice par lamplitude complexe Vm de la réponse en vitesse
+Z2 () = Yz Ecrire Zn(@) en fonction de @,mkn et h 
+b- Indiquer sur un tableau   les correspondances entre les grandeurs relatives aux oscillations électriques et mécaniques. En déduire le schéma électrique analogue à cet oscillateur mécanique.
+I-4- Fonction de transfert du quadripôle équivalent au tympan chargé par le conduit auditif
+On considère maintenant la membrane (tympan) située à lextrémité du conduit auditif. On assimile ce demier à un tuyau acoustique de longueur 18 mm daxe x'Ox et de même section $ 60 mm que celle de la membrane. Lautre extremité (x 0) eSL ouverte à lair libre. Ce conduit est rempli dair dans lequel se propage une onde acoustique sinusoïdale de pulsation et de longueur donde ^ (cf figure 3) conduit auditif membrane ùmpanl b  extremité k ouvertc à lair a libre
+Figure _
+La présence de londe acoustique se propageant dans le conduit auditif, de Icngueur et &extrériré nuverte, induit la masse virtuelle mv déterminee à la question I-5-d. Les effets damortissement liés à une réduction du passage de |ar sont modelisés par un coefficient de frottement mécanique h " = 3.6 Ns.m Compte tenu de ['analogie électrique-mécanique et dans l'approximation des basses frequences ABZ (1>> /) la membrane (de constantes mécaniques m, kr et hn) chargée par le conduit audirf peut être mocélisée Far le schéma électrique représenté sur Ja figure
+h'm
+mv
+bm rembrare Fz= PzS
+F1= p1S
+Conduit auditif
+1/km
+Figure
+Ecablir, en régime sinusoidal et en notation complexe, la   foncticn de transfert du  quadripôle Hlo) = Pz Les  grandeurs Pz Ps désignent   respectivement   les surpressiors   agissant   sur la Pz membrane et à l'entrée du conduit auditif Application_mumérique Calculer !amplitude de la surpression Pz pour une onde acoustique de firéquence v = 200 Hz et damplitude de surpression p1 = Pa
 
+--- page 6 ---
+Lumtle III : Modèle élémentaire de lorille moxenne Une cavité de grand' volume Vo contenant de [air communique avec [extérieur par deux membranes tnesélastiques ( d'épaisseurs   négligeables de sections respectives Sz 60 mm et S; 3 mm figure 5) be capillaire permet déquilibrer les pressions statiques assurant ainsi dans la cavite une pression Po Jc à celle de ['extérieur.
+suppose dans toute cette partie, que la longueur d onde ^ reste très grande devant les dimensions de la vité (ABF)
+air
+S3
+S2 tympan
+Po , Vo
+air Po
+I2
+ûgure _
+1 Couplage mécanique des deux membranes déplacements Xz de la membrane Sz et X; de la membrane S; suivant ]axe x 0 x autour de leurs positions quilibre, entraînent une variation AV du volume de lair contenu dans la cavité. Exprimer  AV en fonction de S2 Xz S; et X;. Les déplacements Xz et x; sont supposés faibles. Déterminer la variation de pression AP pour des évolutions isentropiques de lair à lintérieur de la cavite en fonction de ', Po; Vo; Sz, Xz, S; et X;
+En déduire les forces fz et f; de couplage élastique exercées respectivement sur Sz et sur S; dues à la variation du volume de [air dans la cavité
+2 Oscillaticrs forcées du sxstème couplé
+deux   membranes   peuvent être assimilées à des   oscillateurs   linéaires de caracteristiques mécaniques pectives m; (masse) , Km; (constante de raideur) et hm; (coefficient de frottement fluide) où 2.3. excite le système couplé en imposant au niveau de la membrane S: une force de surpression sinusoidale Jallèle à x Ox damplitude Fn et pulsation @
+Etablir le bilan des forces appliquées chaque membrane et écrire le système des deux équations dynamiques couplant les déplacements x? (t) et xs(t) autour des positions d'équilibre.
+b- En négligeant les forces de frottement exprimer en regime forcé les   amplitudes  complexes des déplacements Xz et Xz des deux membranes couplées. On désignera par @o: et @03 les pulsations des deux   oscillateurs non amortis K = 1Pes; +Pes: nl; propres et on posera S; Kz et V V K, 4Pes; Vo Tracer, en fonction de @, ]allure des courbes donnant les variations des modules de Xz e Xz Sans  faire de calcul, indiquer [effet des forces de frottement supposées faibles devant les forces élastiques de rappel.
 
+--- page 7 ---
+Sans  faire de calcul, indiquer ]'effet des forces de frottement supposées faibles devant les forces élastiques de rappel. I- 3-Iransmission mécanique
+Pour transmettre les ondes acoustiques sans perte de puissance depuis la cavité contenant de [air vers le milieu liquide Ja périlymphe, assimilée à de Feau ) la chaine des osselets, par leurs acuons de levier entre le tmpan (S:) et la fenêtre ovale (S;) permet de réaliser un meilleur transfert de l'onde de pression Le levier mécanique Os, S., S;), pivotant sans frottement autour dun axe fixe passant par Os et ncrmal au plan de la figure 6, relie les deux membranes Sz et S3 avec un rapport   des   longueurs des bras :B = d2=13_ d3
+ds
+S-
+Fz = pz S2
+Fs= ps S3
+Sz
+air
+alr
+eau
+Figure 6 Les   deux bras du levier sonc soumis   uniquement aux deux   forces de   surpression F: er F; exercees respectivement par Sz et S; (cf figure 6) 2- Exprimer le rapport 5 en fonction de B. F En déduire en fonction de S-, S; et B le coefficient d amplification des surpressions Pz resultent Pz de la liaison mécanique. Le couplage; assure uniquement par la cavité dair entre les deux membranes et étudié dans lez questions III-1 et III-2, introduit un coefficient d 'amplification %o 2 Comparer a, à la valeur de a calculée précédemment
+b- E Montrer que Yz En déduire, en régime sinusoïdal, le rapport en foncticn de $ Fz X; Les grandeurs v: ct v; désignent respectivement les vitesses vibratoires de la membrane Sz et de la membrane S; Que peut-on dire de la transmission des ondes acoustiques du milieu aérien oreille exteme; côté S-) au milieu liquidien oreille inteme; côté S;) sans liaison mécanique voir [4-c) avec liaison mécanique ?
+Partie_IV: Modèle élémentaine de Yoreille interze en tant gue tansducteyr: Microphone électrostatique L'oreille interne est chargée de transformer les variations de la surpression acoustique transmise au niveau de la membrane S;, en un signal électrique véhiculé par le nerf auditif . L'oreille inteme peut alors être considéree comme un véritable microphone. Un microphone électrostatique est constitué de deux armatures métalliques planes. indéformables et de même surface So. La première annature [; est une membrane :lastique de masse mo qui peut se déplacer en translation dans une direction (x Ox) perpendiculaire au plan de sa surface L'aute armature [I,, parallèle a [Ii est fixe. Le milieu
 
+--- page 8 ---
+entre [, et Tlz, de perittivité €, est supposé linéaire; homogène et isotrope. L'ensemble F; et Fz constitue un condensateur plan de capacité C dont on négligera les effets de bord On considère le circuit RC formé par la mise en série du condensateur décrit précédemment et dune résistance R Ce circuit est alimenté par une source de tension de fem constante Uo cf figure 7 ) A léquilibre, on désigne par d Coet Qo respectivement la distance séparant les deux armatures, la capacité du condensateur et la charge de ['armature [,.
+IV- 1-Etude du système à léquilibre
+Ecrire ]'expression de la capacité Co du condensateur en fonction de So, d et € ainsi que celle de Qo en fonction de Co et Uo.
+b- Déterminer, en fonction de d Qo et €, |'expression de la force électrostauque f qui 5 exerce SUI [armature mobile [I .
+Force de pression 00
+R
+Figure Z IV- 2 -Etude du système en régime variable
+On impose; à présent, à M1 un petit déplacement x(t) par rapport à 5a position d'équilibre et une pette variation q(t) de la charge La distance entre les armatures devient alors d = d + X et la charge de ]'armature I, devient Q = Qo + 9 avec Ixk<<d et Iqk<< Qo. On suppose que les lois de lélectrostatique restent valables en régime variable (ARQP) En effectuant un développement limité au premier ordre en et déterminer Qo
+a- La valeur de la rouvelle tension U aux bomes du condensateur en fonction de Uo et do Qo b- La valeur de la nouvelle force électrostatique f exercée suF ]armature mobile en fonction de f et
+IV- 3Equations du transducteur
+L'armature mobile de surface So est modélisée par un système masse-ressort  linéaire de masse Mo de constante de raideur kao et de coefficient de frottement  fluide hmo. En plus de la force électrostatique; Farmature [, est soumise à une force extérieure qui résulte de la surpression dune onde acoustique désigne la valeur de cette surpression. Etablir; au premier ordre en et les équations électrique et mécanique de ce transducreur en foncticn Qo des variables 9(t) et x(t). Interpréter

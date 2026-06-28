@@ -1,3 +1,55 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de F'Enseignement Supérieur et de la Recherche Scientifique
+4sj)j2/aai UUk:is; GuLs] doin {ibsl 2Ublini Onjilni jlss Jal>Ji 2023 W
+Concours Nationaux d'Entrée aux BUI Cycles de Formation d'Ingénieurs Etudes , ( Session 2023 2 Bibliothèque P 2 Concours Mathématiques et Physique 4 Unvrsité ` Epreuve de Physique de Say Date 05 Juin 2023 Heure 8 HOO Durée : 4 H
+Nbre pages 08
+L'usage d'une calculatrice non programmable est autorisé Tout résultat fourni dans l'énoncé peut être admis et utilisé par la suite; même s'il n'a pas été démontré par le candidat. Si, au cours de l'épreuve, un candidat repère ce qui lui semble être une erreur d'énoncé, il le signale sur sa copie et poursuit sa composition en expliquant les raisons des initiatives qu'il est amené à prendre . L'épreuve comporte quatre parties pouvant être traitées de façon indépendante.
+Données Permittivité diélectrique du vide
+€o 10 Fm 361 Ho = 4T 10-7 Hm 4 = 230 SI h =1SW.m-2 K-I kp =1,38.10-23 JK-' R=8,314J K-' mol-'
+Perméabilité magnétique du vide Conductivité thermique de /'Aluminium Coefficient de Convection air = Aluminium Constante de Boltzmann Constante des gaz parfaits ch(x-y)=ch(x)ch(y)-sh(x)shC sh(x-y) =sh(x)ch(y)-ch(x)sh(y) Je ~ax? dx = I
+~ax? T fxe dx = 2a On note le nombre complexe tel que i2 = -1
+Première Partie Ailette de refroidissement Dans   les   appareils   électriques (générateurs;   oscilloscopes.. . ),  l'évacuation de lénergie thermique dégagée par les composants électroniques (transistors; régulateurs, .) est un élément crucial   pour   éviter tout   surchauffage causant   leur   disfonctionnement.  Pour   cela, leboitier du composant est monté sur un dissipateur thermique muni d'ailettes de refroidissement permettant un transfert conducto convectif vers [air ambiant. Une ailette de refroidissement est modélisée par un solide homogène, de masse volumique H, de capacité   thermique massique et de conductivité thermique 1 , ayant la forme dun Cm parallélépipède de largeur a de longueur (  et dépaisseur b (Figure 1)
+Concours Mathématiques et Physique Session Juin 2023
+Epreuve de Physique
+Page 1/8
 
+--- page 2 ---
+To
+Figure 1
+Cette ailette est en contact parfait par sa base x=0 avec la paroi du dissipateur de température uniforme et constante T Le reste de sa surface est en contact avec lair à la température constante To On suppose que la température locale de lailette ne dépend que de la variable spatiale x et du temps t T(M,t)=T(x,t). Le flux surfacique du transfert convectif de lailette  vers lair est donné par la loi de Newton jcc =h(T(M,t)-To), où h est le coefficient de convection. QI. Enoncer  la loi de Fourier relative au phénomène de conduction thermique en précisant   les conditions de sa validité et les unités des différents termes. On note   j  le vecteur densité de flux thermique. Q2. En faisant un bilan thermique sur une tranche comprise entre x et x+dx de lailette, établir Péquation différentielle suivante HC  ôT(x,t) @'T(r,t) (Tlx;t)-T) dt Ôx2 Exprimer C en fonction des données . Q3. Déterminer   la dimension de { c et donner sa signification   physique.   Calculer sa   valeur numérique dans le cas de laluminium. Commenter. On prendra a =30 mm l =60 mm et b = 2mm
+Dans la suite, on suppose que le régime stationnaire est établi. Q4. Préciser les conditions aux limites en x =0 et x = €_ Montrer que la température T(x) dans l'ailette vérifie 1équation suivante 0 = hlzshl l =x ch T(x)-T Tp -To hlz
+Q5. En justifiant   votre   réponse; comparer   la   puissance totale évacuée   par lailette dans   Tair Pailette air à celle transférée par la paroi du dissipateur vers lailette Pparoi_ ailette Déterminer la puissance thermique totale P évacuée par lailette dans ]air. I_I Q6. En déduire lexpression de la résistance thermique Rh de Failette définie par Rh Pth Q7. Donner et interpréter [expression de Rh dans les cas où @ >> { c et Q << € 
+Concours Mathématiques et Physique Session Juin 2023
+Epreuve de Physique
+Page 2/8
 
+--- page 3 ---
+Q8. Déterminer la puissance   thermique Pth,o évacuée par la surface S = ab de   la paroi du dissipateur dans lair, en absence de ailette. Q9. Définir   1efficacité n de  lailette et  donner son expression en  fonction des   données du problème. Q10. Calculer la valeur de n . Commenter. Calculer sa valeur limite nlim dans le cas où l>> l Conclure
+Le coefficient h du transfert convectif est lié à la variation de la température de lair en contact avec Pailette. Cette variation entraine une modification de son indice de réfraction.
+Deuxième Partie Effet de la température sur l'indice de l'air Létude concerne une onde électromagnétique du domaine visible   supposée plane progressive monochromatique de champ électrique E(M,t)= Eo expi(ot kx) en interaction avec Fair assimilée à un diélectrique linéaire, homogène, isotrope et non magnétique comportant N molécules par unité de volume. En labsence du champ électromagnétique; chaque molécule d'air, formée de deux atomes, possède un moment dipolaire électrique nul. Dans cette étude; on adopte le modèle de lélectron élastiquement lié pour lequel chaque atome comporte un électron mobile non relativiste de masse me de   charge 9 =-e de vecteur déplacement 7 (t) =OM (t) et de vecteur vitesse v(t) dans le référentiel galiléen de centre 0 lié au noyau. Dans le cadre de ce modèle; 1électron est supposé soumis à une force de rappel élastique F ==me 03 7 et une force damortissement fluide F m1, où @ et sont des constantes rap am positives. QII. Expliquer brièvement l'origine physique des forces F et F rap am Q12. Etablir léquation différentielle vérifiée par 7(t)  Q13. Simplifier cette équation en menant certaines approximations à justifier. Q14. En régime sinusoïdal forcé, montrer que le vecteur vitesse dun électron s'écrit, en notation ~ie@ complexe "(t) =  Eo exp (iot) m @ -0? +i-
+Q15. Déterminer le vecteur densité volumique de courant électronique _ Q16. En déduire Fexpression de la conductivité complexe 2(o) de lair définie par J =2E Etudier les cas limites de 2(w) et préciser sa valeur maximale Y QI7. Ecrire les équations de Maxwell dans lair . Q18. Montrer que le   champ   électrique de Ponde   électromagnétique vérifie   léquation de propagation suivante A'-H,ep 'È-HoX@" =0 Ôt? ôt Q19. En déduire la relation de dispersion reliant k? et @ @ Q20 Lindice complexe du milieu est défini par   k? 2 avec Ho€oc =1 Montrer que
+20 n =1+ où @p est une 'pulsation caractéristique du milieu que lon déterminera. 0 -@? +i@
+Concours Mathématiques et Physique Session Juin 2023
+Epreuve de Physique
+Page 3/8
 
+--- page 4 ---
+Q21. Lindice complexe peut se mettre sous la forme n=n'-in" Dans le cas de lair peu dense vérifiant @p <<@ montrer que
+0? (@ n' =1+ - (@ -0?
+et
+=
+(0 -@?
+Q22 Pour une onde électromagnétique du domaine visible, vérifiant la condition 122044 @ montrer que lindice de réfraction de lair, assimilé à un gaz parfait, vérifie la loi de Gladstone P n(T,P)=l+ % où P est la pression; Tla température et a une constante à déterminer . T
+Troisième Partie Mesure optique du coefficient de convection Un interféromètre de Michelson est constitué de deux miroirs plans (M1) et (Mz) initialement orthogonaux 1'un à lautre et d'une lame semi-réfléchissante et non absorbante dite séparatrice (Sp) (Figure 2). Cette lame, inclinée de 45  par rapport aux normales à (M1) et (Mz) n'introduit aucun déphasage supplémentaire. Le  dispositif  plonge dans  Fair   dont lindice de réfraction est no = n(To P à la   température To = 20 C et à la pression P =latm
+ (Mz)
+0z
+(M1)
+Source étendue S
+(Sp)
+(Lo)
+0'2 Récepteur dimage
+Figure 2
+Linterféromètre de Michelson; se trouvant initialement en contact optique ( OO; = OO2 ) est éclairé par une source étendue S monochromatique de longueur d'onde dans le vide ^ 546 nm , placée au foyer objet d'une lentille convergente (Lo_ On fait tourner le miroir (Mz) autour de laxe (Ozz) de sorte qu' 'il forme avec (M1) image de (M1) à travers (Sp), un dièdre d'arête (O2z) et dangle % faible (configuration coin dair >) Q23. En utilisant le schéma équivalent du dispositif;faire une figure montrant les rayons qui interfèrent. Préciser le lieu de localisation des franges. Q24. En prenant le point 0z comme origine des abscisses, déterminer là différence de marche ; (M) entre les rayons qui interfèrent en un point M dabscisse Q25. Décrire brièvement la figure d'interférence observée.
+Concours Mathématiques et Physique Session Juin 2023
+Epreuve de Physique
+Page 4/8

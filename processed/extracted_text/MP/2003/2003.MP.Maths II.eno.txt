@@ -1,3 +1,54 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de lEnseignement Supérieur de la Recherche Scientifique et de la Technologie st17u7 3reparatoie ` Concours Nationaux dEntrée aux 2 (BIEVPTHEQUE ) Cycles de Formations d'Ingénieurs 3 5 Session Juin 2003 Dingeneuss Concours en Mathématiques Physique Epreuve de Mathématiques II
+Durée 3 heures
+Date 11 Juin 2003
+Heure 8 H
+Nb pages 4
+Barème
+Exercice 6 pts
+Problème 14 pts
+Une grande importance sera attachée à la rigueur du raisonnement; à la clarté et soin de la présentation. [ 'usage des calculatrices n'est pas autorisé Il est rappelé que tout résultat énoncé dans le teste peut être utilisé pour traiter la suite; même s'il n'a pu être démontré
+Exercice
+On note R{X] Tespace des polynônes à coefficients réels, et pour tout entier naturel 2, Rv[X] le sous espace vectoriel des polynômes de degré inférieur ou égal à N. On désigne par Q un réel tel que & > -1. 1) Montrer que pour tout couple de polynomes P et Q de R[X], la fonction qui I A P(z)Q(z)(1 ~ 12)œ
+est intégrable sur ] - 1, 1[ On notera (P;Q) = J. P(r)Q(z)(1 2 r2)"dz
+1an1 897828 Prepcrgsolro do efades{ 4#@Cufe 40 :;4% D;'io{Maque
+2) Montrer que lapplication
+(,)œ R[X] *x R[X] _+ R (P;Q) ~ (P;Q)a = J.P(z)Q(z)(1 ~ 12)"dI définit un produit scalaire sur R[X] 3) Montrer que, pour tout n € N et I €] - 1, 1[ on a : ôn ((1 _ I2)"+") = (1 _ I2)"J? (z) Ôx" où Je est un polynôme de degré n- 4) Montrer que; pour tout n, m € N tels que n # m, On a : (J2, Jn)a = 0 5) a) calculer J" (1) 
+1 /#
 
+--- page 2 ---
+b Montrer que, pour tout n € N; J (~I) = (~1) Jc(r) c) En déduire; suivant la parité de n, la valeur de J% ( ~1) 6) Soit lapplication Aa définie par
+Aq Rv[X} - Rv{X]
+P + Ac(P) où Aa(P) est un polynôme tel que; Yz €] - 1, 1[
+0 Ac(P)(z) = -(1 _ I2) -œ ((1 _ 12)*+1 9P) Hz Ôz
+2) Montrer que Aa définit un endomorphisme sur Rv[X] b) Montrer que; pour tour P, Q € Rv[X] on 2 (Ac(P);Q) = (P,Ac(Q))æ Soit ) une valeur propre de Aa et P un vecteur propre associé à X a) Montrer que P vérife léquation différentielle suivante
+(1 ~ I)y 2 2(œ + I)zy + Ay = 0
+b) Montrer que, pour tout n € {0.1. N}
+X% = n(n - 1) + 2(œ + 1)n est une valeur propre de Ac' 8) On prend Q = 0. Vérifier que, pour tout n € {0,1,-, W}, Ao( JO) = X9 J?
+Problème
+Pcur tout (n,m) € N' x N* on note Mn,m  (R), Fespace vectoriel formé par les matrices à coefficients réels; à n lignes et m colonnes et Mn(R) lespace des matrices carrées à n lignes et n colonnes. Partie 1 1) a) Soient U, V € Mn,1(R) avec tVU # 0. Prouver que 4 =U tV est une matrice appartenant à Mn (R) de rang 1 b) Soit A € Mz(R) une matrice de rang 1 et de_trace non nulle i) Montrer qu'il existe U € Mn,1(R) U # 0 tel que: pour tout X € Mn,1 (R), il existe un réel @x vérifiant AX = Qxu. ii) On note A; la ieme colonne de la matrice' A et (E;)ie{l, ,n} la famille d'éléments de Mn,1(R) définie par
+E; = (ej1)igisn avec e;,1 =l et ej,i = 0 si j # i
+Vérifier que A; = AE; En déduire qu'il existe a; € R tel que A; = Q;U. Q1 à2 iii) On note V = 4 Montrer que U tV = A et que tVU # 0
+Qn 4 c) En déduire qu 'une matrice A € Mn (R) de trace non nulle est de rang 1, si et seulenent s'il existe deux vecteurs U et V € Mn.1( R) tels que tVU # 0 et 4 =U tV. 2) Soient U, V € Mn,1(R) tels que 'VU # 0.
+2 |4
 
+--- page 3 ---
+On note A =U 'V €M (R), L = {X € Mz; (R) tel que 'VX = 0} et 4 : Mn,1(R) =+ R F ' ') X ++ tVX a) Démontrer que < est linéaire b) En déduire que L est un sous-espace vectoriel de dimension n ~ 1 . c) Montrer que U 4 L et que AX = 0, YX € L. d) Prouver que U est un vecteur propre de 4. e) Montrer que A est semblable à læ matrice D défnie par tVU^0 0 D =
+f) Soit [ la matrice unité de Mn (R) Montrer que det(I + A) = 1 + tVu. Yg Expliciter l'inverse (quand il existe) de I + 4 sous la forme I + Q4, Q € R
+Partie 2
+Dans cecte partie, on désigne par S = {A€ Mn(R) tel que t4 = A} . Fensemble des matrices symétriques de Mn R) S- = {4 € S tel que #XAX 2 0 VX € Mv, (R)}  le sous espace de $ formé par les matrices symétriques positives. A={4 € Mn(R) tel que tA = =4} Fensemble des matrices antisymétriques de Mn (R) O(n) = {4 € M (R) tel que t AA = I}  lensemble des matrices orthogonales de Mn (R) Question_préliminaire Montrer que lensemble S est égal à
+< {A € Mn(R) tel que 'XAY = tYAX YX,Y € Mn,1(R) tels que 'XX = tYY =1 et #XY = 0.} A) 1) On définit lapplication
+6,) : Mn(R) * Mn(R) =  R (A,B) + (A,B) = tr (A'B) Montrer que () est un produit scalaire sur Mn(R). On note |i-ll la norme associée à ce produit scalaire. 2) a) Soit A une matrice symétrique positive (A € S+) Montrer que IlAJI? < ( tr ( A))? b) Vérifer que, pour tout A = (aij)usijsn € Mn(R) on a : ( A ~ ) IlAJ2 = 2 2 Gij' ij=l c) En déduire que, pour tout A et B € Mn (R) on a IlABII < IAIl-IBI
+ 
+/3) Montrer que; pour tout U et V € Mn,1(R), on a : U |2 > Ilu 'VH = vTTvVv. 2 | 3 /4
 
+--- page 4 ---
+4) Soient A et B € Mr(R) telles que 4 est une matrice symétrique et B est une matrice antisymétrique   Montrer que (À, B) = 0. B) Soient X et Y € Mn,l 1(R). tels que tXX = 'YY =1 et #XY = 0. On pose pour tout œ € R. Q(œ) 1= I - 2sin? a(X 'X+Y'Y) + 2sinacosQ(X 'Y _Y 'X) et P = I _ 2X *X.
+1) Montrer que; pour tout œ € R. Q(c)Q(-œ) = I. 2) Vérifier que; pour tout a € R, Q(c) € O(n) et P € O(n) 3) Soit 4 € Mn (R) , vérifiant
+
+(4,2) < (4,I) pour tout Q € O(n). a) Prouver que pour tout W et Z € Mn,1 (R), on a (A,W +Z) = 'WAZ. b) Montrer que, pour tout & € R; on a : ~2sin? 0( #XAX _ 'YAY) + 2sinacos œ( 'XAY 'YAX) <0. c) En déduire que 4 € S. d) Montrer que (4,P - I) < 0; et en déduire que A € S+_ On suppose que A € S- et @ € O(n) a) Montrer que 0+ ' = 2I = ~ '(0 _ I)(Q ~ I) b) Définissons € par 2C = 0 + ' _ 21. Montrer que (A,( _ I) = {4,C) . En déduire que 2(4,2 - I) = - tr ((0 _ I)A '(@ _ I)) c) Montrer que (@ ~ I)A '(0 ~ I) € S+ . d) En déduire que {4,2) < (A;I)
+5) Montrer que
+S- = {4 € M-(R) tel que (4,0) < (A,I) } nec(r)
+6) Soient @ € O(n) et
+Y : Mn(R) =+ R A + (A,Q _ I) a) Montrer que V est continue sur Mn(R). b) Montrer que, pour tout Q € O(n), {A € Mn (R) tel que (A,@) < (A, I) } est un fermé. c) En déduire que S+ est un fermé. d) S+ est-il un compact?
+4 / 4

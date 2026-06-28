@@ -1,3 +1,90 @@
+--- page 1 ---
+RÉPUBLIQUE TUNISIENNE Minsucac % ! 'Socignement Supérieur et de la Recherche Scienufique et de la Technologie
+3e (sievictaLe ) 2 'E : ' Ongenus < Concours Nationaux dEntrée aux Cycles de Formation d'Ingénieurs Session: Juin 2003
+Concours Biologie et Géologie Épreuve de Chimie L'usage d'une calculatrice non programmable est autorisé Date : Samedi 7 Juin 2003 Heure 8 H Durée : 3 Heures Nbre pages 4
+Barème / 20
+Partie A 12 points
+Partie B : 8 points
+Les candidats sont tenus de justifier leurs réponses au moins en quelques lignes. L'épreuve comporte deux   parties A et B indépendantes.
+
+PARTIE A
+PROBLÈME I
+Ala température ambiante le produit de solubilité de AgCl est Ksl = 2 10-10. le produit de solubilité de AgzCrO4 est Ks2 = 10-12 le produit ionique de l'eau est Ke = 10-14
+La solubilité (s) de ]'hydroxyde de chrome Cr(OH)3 dans Veau est égale à 2 10-8 molL-l à la température ambiante.
+1) Quel est le pH dure solution saturée dhydroxyde de chrome ? 2) Déizminer la valeur du prcduit de solubilité Ks de Cr(OH3 solide 3) On considère une solution 10-3 M en chlorure de sodium et 10-2 M en chromate de sodium Na2CrO4 On lui ajoute progressivement et sans variaton de volume une solution concentrée de nitrate d'argent AgNO3. 9) Pour quelle valeur de la molarité de Ag+ peut-on avoir la précipitation de AgCl ? de Ag2CrO4 ? b) Quel est le précipité qui se forme le premier ? c) Est-il correct de dire que le solide qui précipite le premier est toujours celui pour lequel le produit de solubilité est le plus faible ?
+PROBLÈME II On considère la réaction
+ZnF2(sd) + H2O (g) = 2 HF(g) + ZnO(sd) pour laquelle [enthalpie standard AH? 700 de réaction est égale à Il0k. mol-1 . 1) Écrire l'expression de la loi daction de masse pour cette réaction: 2) Dans un récipient de volume fixe égal à 10L, vidé d'air, on introduit 1 mol de ZnF2 solide et 2 mol
+Concours Biologie-Geologie Session Juin 2003 Epreuve de Chimie Page 1/4
+
+--- page 2 ---
+deau gaz on laisse évoluer le système à 700 Ket à volume constant. A l'équilibre on constate qu'il s'est formé 0,09 mol de ZnO solide a) De quel type déquilibre s'agit-il ? b) Quelle est la valeur de la pression paruelle de HF ? c) Calculer la valeur de la constante d'équilibre K?700 à 70O K 3) a) Déterminer la valeur de /'entropie standard ArS T de la réaction à 700K b) Le signe de ArS' T est-il en accord avec ['équation chimique proposée? a) Calculer la variance des systèmes contenant seulement les quatre constituants figurant dans l'équation chimique. b) Peut-on choisir arbitrairement: a) la température; le volume du système et les quantités de matière de HF et de ZnO ? B) les fractions molaires de HF et de H2O ? 5) Dans quel sens se déplace ['équilibre si, à température constante: a) on ajoute à voiume gazeux constant une faible quantité d'ammoniac NH3 gaz ? b) on ajoute à pression constante un gaz inerte ? 6) A une certaine température T la constante d'équilibre K'T est égale à 0,1. On prépare à cette température T et sous une pression de 5 atm les systèmes (S1) et (S2) suivants (S1) 0,1 mol de HF (g) 0,1 mol de H2O (g) et 2 mol de ZnFz(sd) (S2) 0,1 mol de HF (g) 0,1 mol de HzO (g) et 1 mol de ZnO(sd)  a) Quelle réaction est possible spontanément dans ces systèmes ? b) Quel type déquilibre obtient-on ?
+Données: La constante des gaz parfaits esc: R=0,082 Latm. mol-1 . K-I;R=8,314 Jmol-l K-l; R= 2 cal.mol-l K-L.
+PROBLÈME II Données: Leau et les ions bromure sont des ligands à champ faible . Les ions cyanure sont des ligands à champ for:. Le numéro atomique du cobalt est Z = 27.
+L'ion cobalt Co3+ forme avec les ions bromure Br un complexe tétraédrique et forme avec l'eau et les ions cyanure CN- deux complexes octaédriques.  1) Pour chacun des trois complexes préciser: a) la formule correspondante; b) le nom selon les règles de nomenclature internationale; c) le type dhybridation de latome central.
+2) Pour chacun des deux complexes octaédriques: 9) Donner le schéma de dédoublement des orbitales d avec leur remplissage par les électrons. b) Calculer le moment magnétique uB en magnéton de Bohr . Fin Partie A
+Concours Biologie-Geologie Session Juin 2003 Epreuve de Chimie Page 2/4
+
+--- page 3 ---
+PARTIE B
+EXERCICE !: Soit /'alcool 4 de fommule semi-développée ci-dessous: CHs 222 des Studes de m0 x BIBLIot HEQUE A: CH; H HO !
+19) Déterminer la stéréochimie géométrique (cis ou trans ) relative à l'alcool 4 29) Donner la configuration absolue aux carbones asymétriques du stéréoisomère A 3 ) Écrire selon la nomenclature intemationale le nom du composé 4 4*) Représenter en perspective; le diastéréoisomère 4 (IR; 3S).
+L'action de l'acide sulfurique sur le stéréoisomère 4 conduit aux isomères de constitutions B B' e 2 dont l'ozonolyse est réalisée selon la succession d' étapes suivantes:
+B
+1 - 03 2- HzOlZn
+C (C6HoO)
+HCHO
+B'
+1-03 2-HzOlZn
+C ' (C-H1zOz)
+HzN-NHzl OHT à chaud
+2-méthylhexane
+B"
+1-03 2- HzOlZn
+C " (C-H12O2)
+HzN-NHz OH à chaud
+3-méthylbexane
+59) Développer le mécanisme réactionnel de l'étape 4 donne B +B + B En déduire la formule semi-développée du produit minoritaire. 6*) Reconstituer; en identifiant la structure de C Cet C la suite réactionnelle ci-dessus.
+EXERCICE 2 On réalise, à Fartic du 2-phénylbenzaldéhyde D de formule ci-dessous; la filiation réactionnelle suivazte:
+CHO
+D:
+KGzOz 42SO 4
+E
+F
+G (CæHgO)
+0
+1-LiAlH4 EtO 2-H2O
+Mg Et-Osec
+G
+H
+K
+2-H,O
+CHzCHz-CN
+K
+H,SO4
+L (CsHæ)
+HCI péroxyde
+M
+KCN
+N:
+Concours Biologie-Geologie Session Juin 2003 Epreuve de Chimie
+Page 3/4
+AlCl;
+SOCI 2
+PCls
+
+--- page 4 ---
+19) Reconstituer, en identifiant la formule semi-développée des composés E E @ 4 5 ! K !et M lenchaînement réactionnel ci-dessus. 29) Développer le mécanisme réactionnel de l'étape E donne G:
+3%) Déterminer la structure du produit M obtenu par réaction de HCI sur le dérivé Z en ['absence de péroxyde
+40 Détailler le mécanisme réactionnel de ['étape L donne M ~ en tenant compte de l'aspect stéréochimique de cette transformation.
+ 3 Fin Partie B. 
 
 
 
+
+
+
+1
+
+1
+Concours   Biologie-Geologie Session Juin 2003 Epreuve de Chimie
+Page 4/4

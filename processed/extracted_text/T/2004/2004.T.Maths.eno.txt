@@ -1,3 +1,70 @@
+--- page 1 ---
+REPUBLQUE TUNISIENNE Ministere & [Enscignement Superieu; de la Recherche Scicntifique ct dc la Tcchnologic
+Concours Nationacx dEntréc eux Cycles de Formation d'Ingénicurs Session Juin 2004
+Concours Technologie
+Instiiu7  (PrpPhPior = (Bieuotheque | R 1 "Duncehe s
+Epreuve de Mathématiques
+Date : Lundi 07Juin 2004
+Heure 8H
+Durée 4H
+Nb   pages
+Barème Pb 1 ( 9 pts ) ;
+Pb 2 ( I:4,5 pts, II - A : 1,5 pts, II - B : 5 pts
+Lusage des calculatrices est strictement interdit. Une grande importanœ sera attachée à la rigueur du reisonnement, à la clarté de la rédaction e au soin de le présentation. I est rappelé que tout résultat énonc dans le sujet peut etre utilise pour traiter la suite; même sil n'a pu être démontré
+Problème L
+Pour tout m € N; on note Im = (cost)"dt.
+1. & Calculer Io et I1. b Etablir une relation entre Im+2 et Im pour tout m € N Donner la valeur de I2m+1. d Donner la valeur de Izm en fonction du coefficient binomial Czm:
+On coneidère lespace préhilbertien € C(o; "], R) des fonctions con- tinues sur [0, T] à valeurs réelles; muni du produit scalaire ( = défini par
+Uf,9) = ! f (t)g(#)dt
+V f,g € E.
 
+--- page 2 ---
+Ec:: C . . 4;910 " < 8Juf 52: _ j6
+On considère deux suites (ex) et (uk) déléments de E définies par eo 1, Ck(t) V2cos(kt), k € N' Vo 1, V(t) = cosk t, k € N: Pour tout m € N, on désigne par Hm le sous espace vectoriel engendré par (eo, 21 em)
+2. Montrer que pour tout m € N, la famille (eo, em) est une base or - thonormée de Hm:
+3 a Ecrire "2 et "3 en fonction de eo, e1, e2 et e3.
+b  Montrer que pour tout m € N; Um Eqk,mek. k=0 C Donner lexpression de 9, Mn; pour tout 0 <k < m d- Montrer que (vo; Um) est une base de Hm
+On désigne par Qm+1 la matrice de passage de la base (eo, em) à la base (vo, 0889 Um ) Calculer det Qm+1-
+5 On désigne par Wm+1 (a;, j)ozi, j<m la matrice telle que @;, j 22m Czm si i + j = 2m a;. j si i + j = 2m 41 Calculer det Wm+1 .
+Problème 2
+Partie I
+Soit À € Rl{0} . Pour n € N' on désigne par un(X) =| ch(Ar) cos(nz)dz.
+Xsh(Az) 1. Montrer que Un (X) = (~1)" et en déduire que la série de terme n2 1 22 général un( X) est convergente.
+2 Pour r € R et n € N' on pose Dn(r) = 1+2)   cos(kz) kl
+a) Calculer
+Dn(r)dæ.
+7
 
+--- page 3 ---
+9 4 b) Montrer que pour tout I dans R on a 6 c sin(22tr) si z # 2TZ Dn(r) sin(4) 2n + 1, si z € 2rZ 5v où 2nZ = {27k k € Z}  3 Soit + lapplication définie sur [0 ,7] par P(r) = ch(Xr) = 1 4 Montrer la relation suivante sh(Az) 'PCh) Ux( X) + P(z)D (z)dz. 21 2 c(s) si I ejo, z] 4. a) Montrer que la fonction F @(z) sin(2 0 S1 I est de classe C1 sur [0 ,T] 6) En utilisant une intégration par parties; montrer que
+lim 7l on
+P(r)Dn(r)dz =0
+5. A Taide des résultats précédents; montrer que poulr } € Rl {0} on +oo Liz n2 + 1? 2X ` sh(Xz) nes] Calculer lcs sommes des séries numériques suivantes Foo +00 (~1)n (=1) et On2 41 n2 +47 Tl== [ n=z]
+Partie [I -A-
+Soit A € R|{0} . On considère l'équation différentielle du second ordre à coefficients constants y"(z) = A?y(æ) 2 1. Montrer que toute solution réelie de cette équation est de la forme
+y(z) Qch(Ar) Rsh(Az) œ, 8 € R 212
+2. En déduire la solntion paire je cette équation vérifiant y(r) 2
 
+--- page 4 ---
+RF M S Scier
+B
+1. Montrer que pour tout I €]-T T[ on 8 : +0 I = 22(71)"+1 sin(næ) . n=1 2 Montrer que pour tout æ € [T , T] on a : +00 12 = 72 +42(-1)" cos(nz). 3 n2
+Date
+Barè
+1
+3 Pour r € R on pose +0 (~1)n+1 +o h(z) = cos(nz) et f(z) = E(l) cos(nz)  n=1 n2(n2 + 42) 'n2 + X n1 9) Montrer que h est de classe C2 sur Ret que lon a pour tout réel I, h"(z) = f(z) À2 6) Vérifier que 1 n2(n2 + 12) n2 n? + 7 En déduire que pour tout I € [~T T], on a : 12 T2 f(c) + A?h(æ) 12 Montrer que la fonction f est de classe C2 sur [T TJ paire et qu elle est solution de léquation différentielle y' (z) X?y(2) avec 2 y (7) 2 5. Montrer que pour I € [T T] O1 +oo (~1)n ch(Az) cos(ns) n2 + 7 1=1 2X sh(Az) 21 6. Montrer que pour tout I €]-T #[ , on & : +o '(~1)n+1 n sh(Ar) sin(nr) n2 + X2 n=] 2 sh(Xzr)
+Va
+er
+de
+NI
+selon
+access
+Son co
+vie qu Yâme
+une CC
+maintes
+de la
+Entre !
+artisana corps.
+7
+Coccours to:

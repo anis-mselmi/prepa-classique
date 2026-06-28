@@ -1,3 +1,101 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Iiucterc dc [Foscigpancot Supêtcur,
+Iaisal in))aasl (alell Éxylls <allrl ,aLezll 8,l), JL_Jxl alaslell Laalsi2;)
+d la Recberbe Scicntifgue de Techuologies d 'forabon ct& Ja Coumimicetiod
+Conconrs Natlonanx d Entrée anx Cycls de FOrmatlon d 'Ingénienrs SEsslon 2014
+Jax ahji21 Eiji CneJi @Nsjlyci 2014*J9
+Concours Biologie et Géologie Épreuve de Mathématiques Date Lundi 2 Juin 2014 Heure 8 H Durée 3 heures Nb pages Une grande importance sera attachée à la rigueur du raisonnement; à la clarté et au soin de la présentation.  L'usage des calculatrices n'est pas autorisé. Il est rappelé que tout résultat énoncé dans le texte peut être utilisé pour traiter la suite; même s'il n'a pu être démontré
+Problème I
+Partie I : Diagonalisation dune matrice & suites récurrentes On considère la matrice M de M3(R) définie par
+M =
+0 2 0
+1
+{a) Montrer que 2 et 4 sont les valeurs propres de M dont on précisera les multiplicités. (b) Déterminer les sous espaces propres de M. {c) En déduire que M est diagonalisable.  (d) Soient les matrices
+0 2 0 0
+D =
+et S =
+(2 ~2 0
+o     1
+1 Montrer que la mnatrice $ est inversible. ii. Calculer S-1 iii . Donner la relation entre M,D et $. iv Pour n € N; montrer que
 
+2 4" 4" ~ 2" 0 2n+1 0 4" _ 2n 2 . 4"
 
+1 Mr 2 2
 
+2. On définit les trois suites réelles (æn)neN; (Un)nev et (zn)neN par la donnée de z0; Yo et z0 et les relations de récurrence suivantes Vn € N 1  In+1 = In + Un; 4 1 Un+1 Un ; 2
+1 49n + in'
+Zn+1
+Concours Biologie et Géologie Session Juin '2014
+Épreuve de Mathématiques
+Page 1,4
+
+--- page 2 ---
+In Un Zn
+Pour n € N OII note Xn =
+(a) Montrer que Vn € N, Xn = 1 M" Xo.oon) 4n (b) En déduire que Vn € N, s ` 1 1 In 2 I0+ 2(1 )yo 2n  1 1 Un 2 2n Yo 1 1 Zn1 (1 )yo 420 2 2n
+Partie II Modélisation dune évolution génétique
+On   présente; dans   la suite, uJe application des   probabilités   à la génétique afin détudier   la descendance par autofécondation dune plante hétérozygote Pour un gène donné; une plante possède toujours deux   allèles. Dans les cas les plus simples, chaque allèle est noté A ou Œ . On dit qu'une plante est hétérozygote lorsqu 'elle contient deux allèles différents; elle est alors de génotype Aa ou aA. homozygote lorsqu 'elle contient les deux mêmes allèles , elle est alors de génotype AA ou aa. Chaque plante reçoit au hasard et de manière indépendante un allèle de chacun de ses parents Pour les plantes qui se reproduisent par autofécondation; tout se passe pour la descendance comme si on fécondait deux plantes de même génotype; chaque allèle étant sélectionné au hasard On dispose d'une plante hétérozygote à la génération 0 qui se reproduit   par autofécondation dune génération à lautre. Soit n € N. On considère les évènements En "La plante de la nière génération est de génotype AA" Fn = "La plante de la nième génération est hétérozygote' Gn = "La plante de la n ietne génération est de génotype aa On note Pn; In et Tn les probabilités respectives des évènements En, Fn et Gn. On écrira pn = P(En), 9n = P(Fn) et Tn = P(Gn) 1 (a) Que valent po, 4o; ro? (b) Calculer p1 , 91 , T1 puis P2, 92, T2 1 1 1 (c) Montrer que p3 = 1 + 4 4 2 22
+2 (a) Donner les probabilités conditionnelles P(En+1lEn)  IP(En+1lFn) et P(En+1lGn) 1 (b) En déduire que Vn € N; Pn+1 = pn + Qn . 4 1 1 (c) Montrer que Vn € N, (n+1  In et Tn+1 = Qn + Tr 2 4
+3
+(a) Montrer que Vn € N
+1
+Pn
+2n+7 + 2
+Qn
+2n 1 1 4 2"+1 2
+Tn
+Concours Biologie et Géologie Session Juin 2014
+Épreuve de Mathémaiiques
+Page 2/4
+
+--- page 3 ---
+(b) Que se passe-t-il à long terme pour ['évolution de la plante originelle étudiée? Problème II
+Partie A Calcul de la dérivée dune fonction v  [
+1 Justifier , pour tout réel t, l'existence de l'intégrale
+roo arctg(xt) dz 1? 4 1
+y(t) =
+2 Montrer que la fonction € ainsi définie est impaire.
+3 Calculer v(0) et v(1)
+4. Soit h la fonction définie sur R2 par
+arctg(æt) V(æ, t) € R? h(x,t) = 22 + [
+8h (a) Déterminer la dérivée partielle (x, t) Ot (b) Pour t un réel strictement positif; justifier l'existence de lintégrale 400   ôh (z,t)dz- ôt  ;
+5 On admet que $ est dérivable sur Rt et que Vt € R+,
+
++oo
+I
+V(t) = 0
+{22 +0)642 +Jjdr.  `  (a) Calculer v' (1) (b) On suppose que t € Rt | {1} Montrer que Vz € R, I 41 I t2 1 + (z2 + 1)(t2r2 + 1) t2 _ 1 22 + 1 t2 _ 1 t212 + 1 `
+In + (c) En déduire que Vt€ R4 | {1} V(t) = 25i (d) Montrer que v' est continue sur R*
+
+ Partie B Fonction de répartition & limite de v en +00
+Dans la suite, on considère deux variables aléatoires réelles X et Y, indépendantes de densité f définie sur R par 1 Vz € R f (z) 2 7 1+22 On définit la variable aléatoire réelle de la manière suivante
+Si X prend la valeur 0, @ prend aussi la valeur 0 Y Sinon. 0 = x
+
+Concours Biologie et Géologie Session Juin 2014
+Épreuve de Mathénatiques
+Page 3/4
+
+--- page 4 ---
+1 Donner une densité du couple (X,Y).  2 {a) Donner la probabilité P(X 2 0) . Justifier la réponse (b) On considère le système complet d'événements suivant {(X > 0) , (X < 0) , (X = 0)} . En appliquant la formule des probabilités totales; montrer que
+Vt € R, P(@ < t) = P(Y < tX,X > 0) + P(Y > tX,X < 0)
+(c) Montrer alors que la fonction de répartition Fo de @ est définie par 1 2 Vt € R, Fo(t) = + V(t) 2 72
+3 En utilisant les propriétés dune fonction de répartition dune variable à densité, (a) montrer que € est croissante, (b) calculer la limite lim V(t) . t-++0
+Partie € Calcul d'une somme.
+On considère les intégrales suivantes In(t) +oo In(t) J = dt et K = dt. t2 _ 1 42 11
+1 (a) Montrer que les intégrales J et K sont convergentes 7? (b) En utilisant la fonction Q montrer que J + K =
+1 (c) À Zaide du changement de variable s = démontrer que J = K. t
+2
+(a) Montrer que Vk € N; lintégrale Jk = (b) Calculer Jk
+tk In tdt converge.
+3. Montrer que Vn € N;
+In t 5 dt (2k + 1)2 t2 _ 1 k=0
+t2n+2 In t dt . +2 ~ 1
+t2 In t 4 (a) Calculer la limite de lorsque t tend vers 0, puis lorsque t tend vers 1 t2 1 t2 In t (b) En déduire qu'il existe une constante € > 0, telle que, Vt €jo; 1 { < € t2 t2n+2 ln t (c) En déduire que dt +2 2n + 1  (d) Montrer la relation suivante
++o
+In t (2k + 1)2 J 72 _ idt. 4=0
+
++oo (e) Donner alors la valeur de la somme (2k + 1)2 k=0
+
+Concours Biologie et Géologie Session Juin 2014
+Épreuve de Mathématiques
+Page 4/4

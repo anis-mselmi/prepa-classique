@@ -1,4 +1,92 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de |'Enscignement Supérieur
+~i1ugwji "Wuylosus dss Ybj @ijeli unnit jufulu) 2005i
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs Scssion 2005
+Concours en Mathématiques Physique Épreuve de Mathématiques I
+Durée 4 heures
+Date 10 Juin 2005
+Heure : 8 H Nb pages : 5
+Barème
+Exercice 6 pts
+Partie I : 7 pts
+Partie II : 7 pts
+Une grande imnportance sera attachée à la rigueur du raisonnement; à la clarté et au soin de la présentation. L 'usage des colculatrices n'est pas autorisé Il est rappelé que tout résultat énoncé dans le teste peut être utilisé pour traiter la suite, même s'il n'a pu être démontré.
+Exercice
+Soient a un réel strictement positif et < la fonction définie sur R par
+1
+P(z) = cha  COS 1
 
+1. Montrer que
 
+Zeiz Q(z) 2 (eiz  e')(eiz  e-%)7
+2. Montrer qu'il existe une suite réelle (Yn)n2o, que lon déterminera;  vérifiant pour tout z € R, 60 s(z) = Yn cos(nz) n=0
+3. En déduire l'expression des intégrales 2x In = 0 w(z)cos(nr)dr, n € N Institu7 Paefaratoine` cibuotwequf (ys Dukgaxui SFax
 
+--- page 2 ---
+et
+2r 1 = 602 '(c)dz.
+B On suppose que + admet un développement en série entière au voisinage de 0. 1 Établir que ce développement s'écrit
++00 4(r) = 2 bpæ?p . Po
+2 Calculer bo et b1 -
+3. En remarquant la relation
++(s)(cha ~C08 2) =1,
+exprimer bn(n 2 1) en fonction de bo, b1, bn-1' 4 Démontrer que pour tout entier naturel n
+~2n @ cha ~
+Ibn|
+5. En déduire un minorant du rayon de convergence R de la série entière bpz?p. P2o @4 +e-iz 6. On pose cos z ~ z €Œ. 2
+(a) Résoudre dans Œ l'équation dinconnue z coS 2 = cha) (b) Soit la série entière bpz?p de rayon de convergence R. On note P2o
+0 S(z) = 2 bp22p. P0
+i. Démontrer que pour tout z €Œ tel que | z /< Ron a : S(z) (cho cos 2) = 1,
+ii En déduire la valeur du rayon de convergence R. Problème
+PartieI
+Soient I0 un réel fixé et f une application continue de [0, +o[ à valeurs dans tels que [application t + f(t)e ~tzo soit intégrable sur [0, +o[
+2
 
+--- page 3 ---
+1 (a) Montrer que pour tout I 2 IO, lapplication t 4 f(t)e-tr est intégrable sur [0, +œ[ On pose pour I >2 Io
++c L(z) = f(t)e-trdt.
+(b) Montrer que L est continue sur [ro, +o[ (c) Montrer que L est de classe CI sur Jro, +o[:
+2 On suppose dans cette question que pour tout 2 2 I0, L(z) = 0. On introduit la fonction F : [0, +œ[ +€ t++ F(t) =J f(s)e ~10s ds. (a) Montrer que pour tout I > 5o lapplication t + F(t)e-(r-z)t est intégrable sU [0, +o[ et que +0o F(t)e-(-r) dt =0. (b) Montrer que pour tout æ > 2o,
+F(-In(t))tz-r-1dt = 0.
+(c) En déduire que pour tout n € N;
+J' F(-b(t))t"dt = 0 (d) Montrer que Yapplication t K F(-In(t)) est prolongeable en une fonction continue sur [0, 1]- On notera G ce prolongement. (e) Montrer que lepplication G et nulle sur [0, 1] (on pourra utiliser le tbéorème de Weierstrass) (f) En déduire que f est nulle sur [0, +œ[
+3 T (a) Soient ( €jo; 2[et (r,0) ejo, +o[x] ~ f,P[: Montrer que Fapplication u H f (u)e -u(zo+rei)
+est intégrable sur [0, +œ[. On pose pour (r,0) ejo; +œ[x] ~ B,PL
++00 h(r;0) = f(u)e-u(zo+reéf) du
+(b) Soit 0 &xé dans ] = B, P[ Montrer que lepplication r + + h(r,0) est de classe C1 SU Jo, +0[ (c) Soit r fixé dans J0, +0[ Montrer que lapplication 0 + > h(r,0) est de classe C1 sur ] - B,B[
+3
+
+--- page 4 ---
+(d) Vérifier que, V (r,0) € J0, +2[x] - B, Bl ôh @h (r,0) ~ir "(r,0) =0 90 Mr
+Partie II
+Dans la suite du problème on appelle série de Dirichlet toute série de la forme ane-An? n2l où z appartient àŒ, (an)n21 est une suite à valeurs complexes et (An)n21 est une suite de nombres réels positifs, strictement croissante et pon majorée. Pour toute série de Dirichlet ane-Anz on désigne par n2I
+Dc = {r € R tels que ~AnI ane" converge } n2l
+Da = {r € R tels que ane-Anz converge absolument } n21
+On définit labscisse de convergence 0c et l'abscisse de convergence absolue 0 par Oc = inf Dc et 0a = inf Da.
+On convient que
+si Dc = 0, alors Oc
++0 et si Da = 0, alors Ta = +0.
+A
+1. Soit ane-Anz une série de Dirichlet d'abscisse de convergence 0 et d'abscisse de n2l convergence absolue 0a:
+() Montrer que €c 0a' (b) Montrer que si an est réel positif pour tout n 2 1, alors 0 = 0o' 2. (a) Soit la série de Dirichlet @ ` ln(n): Déterminer son abscisce de convergence n2l Tc et gon abscisse de convergence abeolue 00' (b) Soit la série de Dirichlet '(~1)"e ln(n)z Déterminer son abecisse de conver- n2l gence %c et son abscisse de convergence absolue €a-
+3. Soit la série de Dirichlet
+ane In(n)z où (an)n21 et une suite de nombres com-
+plexes.
+(a) Montrer que si pour un réel z, la série 44 cnverge; alors pour tout € > 0, nZl nr @n la série converge absolument. ns+l+e n2l
+
+--- page 5 ---
+(b) Montrer alors que
+0c < Ja < 0c + 1.
+4 Soit une série de Diricblet ane-Anz On suppose que lim "(n) = b € Rt_ n21 n-+0 An
+(a)   Montrer que pour tout € > 0, il existe no € N tel que
+V n > no, An 2 In(n). 6 + €
+(b) Soit 2 un réel tel que la série ane-Anf converge. soient e > 0 et Q > 0. nzl Montrer que la série @ne-Ànæ' converge absolument où r = I+(l+a)(b+c) n2l (c) Montrer que 0c < 0 < 0c + b.
+Soit ane-Anz une série de Dirichlet d'abscisse de convergence absolue 0 finie n2l
+1 Montrer que pour tout 2 > 0a, la série ane-Anz converge absolument n2l 0 On pose pour 2 eloa; +0[ 9(2) = Zane-Anz n=1
+2 Montrer que g est continue sur Joa, +0[
+3. Soit z €Œ tel que %(z) > 0a, où %(z) désigne la partie réelle de 2
+Montrer que la série ane-Anz converge absolument. n2l
+4. Soient Io > %. et 8 ejo, Æ [ On pose pour (r, 0) ejo, +œ[x] - 8, P[
+f(r,0) = Eae-Àn(2 '+reio n=1
+{a) Soit 0 fixé dans ] - B, P[ Montrer que lapplication r ~ f(r,0) est de classe sur J0, +o[ (b) Soit r fixé dans Jo, +œ[: Montrer que 1' 'epplication 0 ~ f(r,0) est de classe C1 sur 1 - 8,B[ (c) Vérifier que, V (r,0) ejo; +œ[x] - B, Bl Mf (r,0) = ir 25(,0) = 0 80
+5

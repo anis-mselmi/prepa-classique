@@ -1,51 +1,69 @@
 --- page 1 ---
-RÉPUBLIQUE TUNISIENNE *ww Ministère de FEnseignement Supérieur
-InSnTUT 2 9 CIBLCTHEQUE 2 Eiudfes  Dunseuss SFx
-Concours Nationaux d'Entrée aux Cycles de Formation dIngénieurs Session: Juin 2001
-Concours en Technologie Épreuve de Mathématiques
-Durée: 4H Date: 7 Juin 2001 gHeure Nb pages: ; Barême: Ex: 4pts Pb Partie I: 4,5pts Partie II: 6pts, Partie Iil: 5,5pts
-Lusage des calculatrices est strictement interdit. Une grande importance sera attachée à la rigueur du raisonnement; à la clarté de la rédaction et au soin de la présentation. Il est rappelé que tout résultat énoncé dans le sujet peut être utilisé pour traiter la suite, même s'il n'a pu être démontre.
+RÉPUBLIQUE TUNISIENNE X*x Ministère de lEnseignement Supérieur
+UNSnTUT CIBUCTHEQUE icRE , 8 (ETUDes DmSagxui ' Sx
+Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs Session: Juin 2001
+Concours en Technologie Épreuve de Mathématiques Durée: 4H Date: Juin 2001 8Heure Nb pages: Barême: Ex: 4pts Pb Partie I: 4,5pts Partie II: 6pcs, Partie Iil: 5,5pts
+Lusage des calculatrices est strictement interdit Une grande importance sera attachée à la rigueur du raisonnement à la clarté de la rédaction et au soin de la présentation. Il est rappelé que tout résultat énoncé dans le sujet peut être utilisé pour traiter la suite, même s'il n'a pu ecre déclontré_
 Exercice.
-Soit   R[X] Fespace vectoriel des polynômes à coefficients réels et soit R[X] celui des polynômes de degré au plus égal à n [+% Pour P = Q € RX} on pose PIQ >= P(s)Q(z)e ~I dz. 1) Montrer que < / > définit un produit scalaire sur R[X} (On vérifera l'existence de lintégrale ci-dessus.) 2) On pose pour n € N,
-Ln (z) = er [r"e-2] . 'n! dx"
-(1)
+Soit  R[X} Fespace vectoriel des polynômes à coefficients réels et soit R[X] celui des polynômes de degré au plus égal à +00 Pour P , RX}  on pose PIQ >= P(r)Q(r)e-Idz. 1) Montrer que < > définit un produit scalaire sur R[X} (On vérifiera ['existence de lintégrale ci-dessus ) 2) On pose pour n € N
+Ln(z) = e' 4" [r"e-2] "! dx"
 Vérifier que
-Ln(z) = Ê(fc:* 60:; k!
-1 /
+I,(z) = (Ilc; * =0 k!
+1/
 
 --- page 2 ---
-3) Soit P € RX] et n € N. En utilisant l'égalité (1) établir (Z1) +0 < Ln/P > = e-Ix"P(n)(z)dz. n!
-4) Montrer que pour tout entier n la famille (Lo, L1, Ln) est une base orth normale de R[X] 5) Réciproquement soit une suite (en)n eN d'éléments de R[X] possédant les pro priétés suivantes 1 , si i) V (m; n) € N? m = n < en em >= Snm = 0 si m + n (symbole de Kronecker)  ii) Vn € N, degré(en) = n. iii) Vn € N, en (0) 2 0- Montrer que Vn € N: en = Ln' Les polynômes Ln , n € N sont appelés les polynômes de Laguerre:
+3) Soit P € RX) et n € N. En utilisant l'égalité (1) établir (~1) +0 Ln/P > = e-%r"P(n)(z)dz. n!
+Montrer que pour tout entier n la famille (Lo, L1, ~ Ln) est une base orth normale de R[X} 5) Réciproquement soit une suite (en)neN d'éléments de RX] possédant les pro priétés suivantes i) V(m, n) € N? , en/em >= &nm 1 , si m = n ={ 0 , si m # n (symbole de Kronecker) _ ii) Vn € N degré(en) = n. iii) Vn € N, en(0) 2 0. Montrer que Vn € N. en = Ln- Les polynômes Ln n € N sont appelés les polynômes de Laguerre.
 Problème
-Partie I. Soit ) un nombre réel appartenant à Jo, 1[ On pose 40 t-1 tÀ-1 I(a) = J 1 +zdt J(A) = J' dt. 1 +t 1) Justifier l'existence de I et J et montrer que
-I(A) = J()+ J(1 _ A)
-2) a) En utilisant le théorème de convergence dominée montrer que +0 J(A) = EGI)" n=0  + }
-+0 (~1)"-1 d) Etablir que I(A) = +21 n51 n2 _ }2 7 3) Soit fx la fonction 2T-périodique définie par
-fs(t) = cos(At)
-pour tout t € [~T, T]
-2/5
+Partie I. Soit un nombre réel appartenant à Jo, 1[ On pose 40 tA-1 tX-1 I(A) = J 1+zdt J(A) = J' 1+zdt. 1) Justifer l'existence de I et J et montrer que
+I(A) = J(A) + J(1 X) .
+2) a) En utilisant le théorème de convergence dominée montrer que J(A) = E(12 "50 n + > +0 Etablir que I(A) = 421 24222 1 n=1 n2 _ 12 3) Soit fx Ja fonction 2r-périodique définie par
+fa(t) = cos(At) = pour tout t € [~T, 7]
+2 /s
 
 --- page 3 ---
-a) Chercher les coefficients de Fourier trigonométriques de fA- b) Montrer que pour tout t € R sin(u}) +0 fx(t) = 1 + 2X2 4222-7 cos(nt)]: T X n=1 n2 _ )2
-c) Calculer les sommes suivantes
-+0 (~1)"-1 n2 =12 n=1
-40
-+o 2 n=1 In2 =42]
-n2 ~ 42 n=1
-T
-4) En déduire que I(A) = sin(zA) ~ Partie II. On considère la fonction Gamma définie par
-+0 e-ttr-1dt.
+a) Chercher les coefficients de Fourier trigonométriques de fx b) Montrer que pOur tout t € R fx(t) sin(r 42 [ +2)2 47422-2 cos(nt)]: TA n=1 n2 _ X2 c) Calculer les sommes suivantes
++a (~I)n-1 n2 A2 n=1
+n2 A2 n=1
+1=1
+[n? _ 42]-
+4) En déduire que I(X) = sin(A) ; Partie II. On considère la fonction Gamma définie par
++oc e-ttr-Idt
 T(z) =
-1) a) Montrer que la fonction T est bien définie pour 2 > 0 et que
-Vr > 0, T(z+1) = 2F(z)
-+0 b) Sachant que €~t? dt = montrer que F(2) =vu. 2 c) Soient œ, B ,2 des réels strictement posi Itifs. Montrer que
-+0 Bx6 e ~zt8 to-1 dt =1(g)
-2) Soient Q , B des réels strictement positifs et h : [0, +%[  €
-une fonction
-continue en 0 On suppose qu'il existe %o > 0 tel que
-+0 e ~Iot8 't"-1|h(t) ldt < +0
-a) Soit n > 0 Montrer que V s > Io Vt > 7;
-exp(-It') < exp(-rot?) exp(-(I  I)nf)
-b) En déduire que V z > Io
-+0 1J e~2tB t"-1(h(t) - h(O))dt| < J"e-z ta-'Jh(*) ~ h(O)ldt +0 e-(r-2)nf e ~Iotb 't9-1 (|h(t)| + |h(0) l)dt.
-3 / ~
+1) a) Moncrer que la fonction F est bien définie pour I
+0 et que
+Vr > 0 F(r + 1) = 2F(z)
+b) Sachant que e-t? dt = montrer que F(4) = vi. Soient œ , 8 , I des réels strictement positifs. Montrer que
++0 Bzp e-2t8 +a-'dt =r(g) 2) Soient œ , B des réels strictement  positifs et h [0, +œ[ + € une fonction continue en 0. On suppose qu'il existe Io 0 tel que
+to ~rot8 t~-1|h(t)ldt
++0
+a) Soit n
+0. Montrer que YI > Io Vt > n;
+exp(~2t? < exp(-Iotf) exp(-(z I)nf)
+b) En déduire que V2
+Io
++0 e-It8_ t0-1(h(t) h(o))dt| < Jo ~It8 'tœ-1 |h(t) h(O) |dt e-(r-ro)n' +0 J ~Iotb 't2-1(lh(t)| + |h(o) |)dt.
+3/ ~
+
+--- page 4 ---
+Montrer que
++0 lim Bz} ~2t8 't9-'h(t)dt 2 [(g)h(0)  1 -++0
+3) On pose pour t > 0 _ P(t) = t - 1 - Log(t). a) Montrer que Vt > 0 ,t # 1 , Y(t) > 0; et que
++0 Vz > 0 [(z+1) = rr+e-IvI e-rP(t)dt.
+b) Soient k1 et k2 les fonctions définies par
+k1 (t) V+(t)' € [1, +cc[ k2(t) Vp(t) e J0. 1}
+Montrer que k1 est une bijection croissente de [1, +x[ sur [0, +œ[ et que bijection décroissante de J0, 1} sur {0, +œc[ Soient f1 et f2 leurs fonctions ré respectives. Montrer que pour z > 0
+4+2 e-I+(t)dt
+FcC ~Is? f{(s)ds
++o0 e-Is2 f{(s)ds.
+e~I() dt
+En appliquant Végalité (2) pour œ = 1 et B = 2 aux fonctions définies par
+f{(t) , si t > 0 h1(t) = { V2 , si t =0
+si t > 0 h2(t) ={5; si t =0
+monter que
++9 lim Vr e-zP(t)dt 19+00
+V2;
+4) a) Déduire de la troisième question la formule de Stirling
+T(z+1) ~ V2zz +e-z I4 +0
+b) Montrer que
+lim 1-s I+s2 =1, s > 0 29+0 T(z)

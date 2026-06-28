@@ -1,4 +1,135 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE   y 2  iail Lsaasll Ministère de ['Enseignement Supérieur,  de la Recherche Scientifique aalell Asvdls suLzll s . Ale;ll 4,l)s Concours Nationaux dEntrée ' . . dssw ~ji @ljslini  aux Cycles de Formation dIngénieurs 6izi Chaaie-Nl Üisk JeleUi Session 2015 2015 609 oo< 7c  i4   Concours Toutes Options   Epreuve dInformatique
+Date Mardi 09 Juin 2015
+Heure 14 H
+Durée 2 H
+Nombre de pages : 5
+Barème PROBLEME 1 (MAPLE) 1l points PROBLEME 2 (ALGORITHMIQUE) 9 points
+DOCUMENTS NON AUTORISES
+ L'USAGE DES CALCULATRICES EST INTERDIT
+PROBLEME 1 (MAPLE) ?    Partie 1 : Produit de Kronecker      Dans la littérature; outre le  produit  matriciel  standard;  différentes manières   existent pour calculer un produit matriciel selon le besoin des applications (Hadamard, Kronecker, etc.) Dans cette partie nous abordons le produit matriciel de Kronecker qui sera utilisé dans la partie 2
+Soient A une matrice de taille mxn et B une matrice de taille pxq. Leur produit de Kronecker; noté par le symbole est la matrice C = A0 B de taille mp x nq définie par blocs successifs de taille pxq , où chaque bloc vaut a,, B avec 1<i<m et 1< j<n aj1B ainB A0 B = 
+@mI B
+@mn) B )
+Exemple : Le produit de Kronecker de A de taille 2x2 par B de taille 3x2 est la matrice € de taille 6x4.
+bu biz B = b21 b22 b31 bs2
+Q11 012 A = a21 022
+?
+1 a1bu a11b12 412bu1 412b12 a11b21 411b22 412b21 412b22 anB 412B7 a11b31 011b32 412b31 C =A0 B = 412b32 1 2 a21B a22B a21b11 021 b1z a22b11 a22b12  1 ' . a21b21 a21b22 a22b21 a22622  .  a21b31  a21b32 022b31 a22b32 Concours (Toutes Options) - Session Juin 2015 Epreuve dInformatique Page 1/5
 
 
+--- page 2 ---
+Le produit de Kronecker présente certaines propriétés. On propose de vérifier les propriétés suivantes La distributivité par rapport à laddition Pour tout quadruplet de matrices ( A,B,E,F) on a : (A+ B)e(E+F)=(40E)+(4€F)+(B@E)+(B@F) (1) où A et B de même dimensions ainsi que E et F. La transposition Pour toutes matrices A et B on transposé ( A0 B) = transposé ( A) @ transposé ( B) (2) La trace trace ( 40 B) = trace( A)x trace ( B) (3) Le déterminant
+déterminant ( 40 B) =(déterminant ( A))" X (déterminant ( B))" (4) où A et B deux matrices carrées non singulières de dimensions respectives nxn et m x m.
+NB
+Les commandes Maple suivantes sont prédéfinies coldim(A) retourne le nombre de lignes de la matrice A rowdim(A) retourne le nombre de colonnes de la matrice A. equal(A B) retourne true si les matrices A et B sont égales et false sinon. La vérification de la compatibilité des tailles des matrices n'est pas demandée.
+ 
+Travail demandé
+1  En supposant que la procédure Kronecker est déjà définie et dont Iappel Kronecker(A,B); retourne A@ B. Donner les instructions Maple permettant de vérifier les propriétés du produit de Kronecker suivantes 1.1. la distributivité par rapport à laddition (1) 1.2. la transposition (2) 1.3. la trace (3) 1.4. le déterminant (4)  2 Ecrire la procédure Kronecker qui calcule le produit matriciel A0 B.  Partie 2 : Equation de svlvester
+3 On se propose dans cette partie de résoudre léquation matricielle de sylvester donnée par
+AX + XB = C (eq1) avec
+A une matrice de dimensions nxn de coefficients a,j (Isisn et 1< j<n) X la matrice inconnue de dimensions nxm de coefficients Xij (I<i<n et 1<j<m) C la matrice de dimensions nxm de coefficients c , (I<i<n et 1< j <m) B une matrice de dimensions mx m de coefficients b;, (l<i<m et 1< j<m) Concours (Toutes Options) - Session Juin 2015 Epreuve dInformatique Page 2/5
 
+--- page 3 ---
+ 1 Pour résoudre (eq1) on la transforme en un système linéaire classique de la forme : d My = v (eq2) avec
+M =(Im 0 A)+( B' 0 I)  2   12 y =[ xn. , Xim ,X21 ?  Xzm Xn])    , Xnm ] 2 v=[9, Cim ? C21 , - '9 C2m Cnl)  .  ,Cnm BT est la transposée de B. In et Im sont les matrices identités dordres respectifs n et m.
+Sachant que léquation (eq1) possède une solution; écrire une procédure Maple Sylvesterl dentête
+Sylvesterl :=proc(A ::matrix; B :: matrix; C :: matrix)
+qui détermine et   retourne   la matrice X solution de léquation (eq1) en appliquant   la démarche suivante  ` Oohonoinn g calculer KI =(1 0 A) ;  . 1 calculer K2 =(B' @1)   `  calculer M = KI+ K2  n déterminer le vecteur V à partir de la matrice € déterminer le vecteur y par résolution du système linéaire classique My = v déterminer la matrice X à partir du vecteur y  c  retourner la matrice X.  , 4 Dans   le cas où la matrice M de léquation (eq2) est non singulière, la solution de léquation (eq1) de Sylvester existe et est unique. La matrice M est non singulière si Fintersection de lensemble des valeurs  propres de la matrice A et celui de la matrice (~B) donne 1ensemble vide.     Ecrire une procédure Maple Sylvester2 dentête
+Sylvester2 : =proc(A ::matrix, B :: matrix; C :: matrix)
+qui retourne la solution obtenue par Sylvesterl si la solution existe. Prévoir un message derreur dans le cas contraire.
+  : .  <
+ 1  1  
+' s 1 d
+ 
+Concours (Toutes Options) - Session Juin 2015
+Epreuve dInformatique
+Page 3/5
 
+--- page 4 ---
+PROBLEME 2 (ALGORITHMIQUE)   Le but de ce problème est de développer quelques algorithmes de recherche appliqués sur les tableaux . 3 Dans ce qui suit; on suppose avoir déjà effectué les déclarations suivantes CONSTANTE NMAX  = 1000 TYPE VECT = tableau [1.NMAX] de entier On suppose également manipuler un tableau Tde type VECT à n éléments ( 2 <n < NMAX )
+NB:
+Lentête de chaque procédure ou fonction demandée est donnée à la suite de chaque 1<question.   Le mot variable signifie le mode de passage $ ou ElS. Travail demandé Partie 1 : Algorithmes séquentiels 12  
+1) Ecrire la fonction Max qui permet de retourner la valeur maximale contenue dans un tableau. Fonction Max (T : VECT n : entier) entier 2) Ecrire la fonction Pos Max qui permet de retourner la position de la valeur maximale contenue dans un tableau. Fonction Pos_Max (T VECT n : entier) entier 3) En utilisant impérativement Pos_Max; écrire la procédure Min_Max qui détermine dans MI la valeur du maximum et dans M2 celle du minimum contenue dans un tableau. Procedure Min_Max (T : VECT n : entier variable MI,M2 entier) 4) Ecrire la fonction Verif qui permet de retourner vrai si tous les éléments du tableau sont distincts et faux sinon. Prévoir une sortie au premier test qui donne faux . Fonction Verif (T VECT n : entier) booleen 5) En supposant que les éléments du tableau sont tous distincts; écrire une fonction Max2 qui permet de retourner le 2ème plus grand élément du tableau.   Fonction Max2 (T VECT n : entier) entier Partie 2 : Algorithmes particuliers
+6) Ecrire la procédure Max_Bis dentête  Procedure Max_Bis (T VECT n : entier variable M : entier)  qui détermine dans   M la valeur   maximale  contenue dans T en utilisant le principe suivant Dans chaque étape du processus, les valeurs sont comparées par paire: Les plus grands éléments de chacune des paires sont placés dans la première partie du tableau. Dans le cas où le nombre déléments du tableau est impair, le dernier élément est stocké à la suite des éléments déjà placés. Le nombre déléments significatifs est mis à jour par le nombre déléments placés: On répète ce processus jusqu'à ce qu'il n'y ait plus qu'un seul élément significatif:
+Concours (Toutes Options)- Session Juin 2015
+Epreuve d'Informatique
+Page 4/5
+
+--- page 5 ---
+Exemple : Soit le tableau A
+A
+51
+8
+5
+6
+40
+4 | 7
+510
+17
+700
+Etape 1
+51
+40
+510
+700
+4[ 7
+510
+17
+700
+Etape 2
+51
+510
+700
+510
+700
+7
+510
+17
+700
+Etape 3
+510
+700
+700
+510
+700
+4 | 7
+510
+17
+700
+Etape 4 700 700 Dans ce cas M = 700
+700
+510
+700
+7
+510
+17
+700
+NB les cases grisées sont non significatives.
+7) Ecrire une fonction Max2_Bis qui détermine le 2ème plus   grand élément du tableau comme suit On recherche tout dabord le plus grand élément par appel à la procédure précédente (Max_Bis) . Le deuxième plus grand élément est obtenu en recherchant lélément maximal parmi les éléments restants . Fonction Max2 Bis (T : VECT n : entier) entier 8) En supposant que la taille n du tableau est paire, écrire une procédure Min_Max_Bis dentête Procedure Min Max_Bis(T : VECT n : entier variable MI,M2 entier) qui détermine dans MI la valeur du maximum et dans M2 celle du minimum contenues dans un tableau T de type VECT en appliquant le principe suivant: Les éléments du tableau sont comparés par paire; le maximum de chaque paire est stocké à gauche (indice impair) et le minimum est stocké à droite (indice pair) . On recherche le maximum du tableau parmi tous les plus grands éléments de chacune des paires. On recherche le minimum du tableau parmi tous les plus petits éléments de chacune des paires. Exemple :
+Tableau initial
+51
+8
+5
+6
+40
+4
+7
+510
+17
+700
+Après permutation
+51
+8
+6
+5
+40
+4
+510
+7
+700
+17
+Dans ce cas MI = 700 et M2 = 4
+Concours (Toutes Options) - Session Juin 2015
+Epreuve dInformatique
+Page 5/5

@@ -1,4 +1,83 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de PEnseignement Supérieur de la Recherche Scientifique et de la Technologie
+Concours Nationaux dEntrée aux Cycles de Formations d'Ingénieurs Session Juin 2004
+(Gelkothkeqe 0 0 etudes 5 Concours en Mathématiques Physique Epreuve de Mathématiques dI
+Durée 3 heures
+Date 12 Juin 2004
+Heure 8 H
+Nb pages 5
+Barème
+Partie I : 5 pts
+Partie II 9 pts
+Partie III 6 pts
+Une grande importance sera attachée à la rigueur du raisonnement. à ia clarté et soin de la présentation. L 'usage des calculatrices n'est pas autorisé Il est rappelé que tout résultat énoncé dans le terte peut être utilisé pour traiter la suite, même s 'il n'a pu être démontré
+On désigne par (E, < | >) un espace préhilbertien réel. On note | /l la norme associée au produit scalaire < / > Pour tout sous   espace vectoriel F de E on désigne par FL Forthogonal de F C est à dire F1 = {r € E tel que < Ily >= 0 Vy € F} Soient n un entier non nul et (ui)sisn une famille de vecteurs de E On appelle matrice de Gram de la famille (u;)isisn la matrice < u1/u1 > < U1/u2 > < U1/ur < "2/u1 > < u2/u2 > u2/un > G(u1, U2, Un ) =
+Un / u1 >
+< Un /u2 >
+Un Jun >
+le déterminant de G(u1, U2 ; Un) est appelé déterminant de Gram de la famille (u;)sisn et est noté g(u1, 112 ; Un) . Partie I
+Soient n unentier non nul et (u1, Un ) n vecteurs de E
+1) Montrer que si la famille de vecteurs (u;)1sisn est liée alors g(u1, u2, Un = 0 2) On suppose que la famille de vecteurs (u;)usisn est libre et on désigne par H le sous espace vectoriel engendré par (u;)isisn: On considère (e1.e2, en ) une base orthonormée de H et f Tendomorphisme de H tel que f(e;) = Ui pour 1 < i < n et A la matrice de f dans la base {e1, €2, en) Montrer que G(u1, "U2, Un ) = tAA 3) En déduire que la famille de vecteurs (u;)gisn est libre; si et seulement si g(u1, u2. Un) > 0.
 
+--- page 2 ---
+4) On suppose que la famille de vecteurs (u;)gizn est orthonormée et on désigne par H le sous espace vectoriel de base B = (u;)agisn' Soit b une forme bilinéaire symétrique sur H On note A = M(b, B) la matrice de b dans la base B. a) Montrer qu'il existe une matrice diagonale D et une matrice orthogonale P; éléments de Mn(R), telles que tPAP 1= D b) Soit B1 une autre base de H et @ la matrice de passage de B à B1. Ecrire M(b, B1) en fonction de A et Q c) On désigne par B' = {v1, U2 ; vn} la base de H telle que la matrice de passage de B à B' est donnée par P. Montrer que M(b; B') = D d) Montrer que G(v1, U2 , Un) = I. e En déduire que {v1 , U2 ; Un } est   orthonormale pour le produit scalaire et que b(vi, "j) = 0 pour 2 # j. Partie II
+Soit F un sous espace vectoriel de E Pour tout a € E. on note
+d(a. F) = inf la = yIl: JeF
+1) a) Soit z € F Montrer que
+Ila = zIl = d(a;, F). si et seulement si, a _ z € F=
+b) Montrer que; s'il existe z € F tel que |la _ zIl = d(a, F), alors z est unique. 2) On suppose dans cette question que la dimension de F est finie. a) Montrer que E = Fe FI b) Montrer que, pour tout 2 € E_ il existe un unique vecteur y € F tel que
+Ilz = yll = d(z,F)
+On note
+y = IIF(z)
+c) Soient {e1, e2, en une base de F; I € E et y = IIF(z) = Yiei. 1=1 Montrer que les composantes yi, pour i compris entre 1 et n, sont données par le système
+Y1 U2
+s e1 < sle2 >
+G(e1. e2,
+en)
+Un
+x en
+d) Soit I € E i) Montrer que
+<
+x|s >= d(æ,F)2+ < IIF(z) /IIF(z) >
+2
 
+--- page 3 ---
+ii) Montrer que pour tout entier i entre 1 et n, on a :
+< eils >=< e/IlF(x) >
+iii) Montrer que 9(e1, e2, en; I) = d(æ, F)2g(e1, e2. ~en) iv) En déduire que
+g(e1. e2; d(x,F) en. I) = g(e1, e2, en
+3) On suppose dans cette question que F est un sous espace vectoriel de quelconque vérifiant E de dimension
+Toute suite de Cauchy de F, converge dans F a) Montrer que; V I, Y € F : Ilz + yll? + llz yIl2 = 2(llzl2 _ Ilvl2) . b) Soit a € E. Montrer qu'il existe une suite (yn )nev C F telle que lim Ila Un |l = n=0 d(a. F) c) Montrer que la suite (Un)nev est de Cauchy dans F. d) En déduire qu'il existe b € F tel que
+Ila ~ bl| = d(a, F) .
+4) On suppose dans cette question que E = R[X], Tespace vectoriel des polynômes à coefficients dans R. On munit E du produit scalaire usuel défini par pour P = E @i-Xi et Q = b;Xi, i=0 i=0 PlQ >= Ca;b; Soit lhyperplan H défini par i=0
+deg( P) deg( P) H = {P = @i-Xi tel que @; = 0} i=z0 i=0
+et soit Q = QiXi € H-. i=0 a) Montrer que Qo = Q1 = Qp b) En considérant le polynôme P = Q - œo(p + 1)XP+1 montrer que Q = 0. c) En déduire que H 8 H1 + E.
+3
 
+--- page 4 ---
+Partie III
+Dans cette partie on se place sur E = C([o; z] R) Tespace des applications continues de [0, 7] à valeurs dans R, muni du produit scalaire
+4 (f,g) =+< flg >= J f (z)g(z)sinrdz.
+On note |l |l la norme associée à ce produit scalaire. Pour À réel strictement positif; on note px lélément de E défini par V t € [0, z] px(t) = cosît. Soit (Xj)j21 une suite strictement croissante de réels strictement positifs,non entiers et vérifiant
+1 lim Aj =+0 et est une série divergente. j=++0 j2l Aj
+Pour n un entier non nul, on note Fn le sous espace vectoriel engendré par la famille {px; 1 <i < n} et F = U Fn: nzl 1) Vérifier que Fn est un sous espace vectoriel de E de dimension n 2) Soit p un entier naturel non nul. a1 . 02, @p; b1, b2, bp des réels strictement positifs tels que pOur tout i, pOUr tout j, i #j b; = bj Le but de cette question est de calculer   le déterminant de la matrice de Mp(R) de terme général 11 -)1zijSp Ce déterminant sera noté C(a1, @p; b1 , bp) et appelé le déterminant @;+6; de Cauchy. (X _ a1) LX _ ap-1) a) Soit Q(X) = (X +61)-(X + bp Expliciter la décomposition en éléments simples de Q(X) b) On note D le déterminant d'ordre p
+01+b1
+01+bp -1
+Q(a1) Q(az) 02+bp -1
+02+61 D =
+@p +b1
+@p+bp-1
+Q(ap)
+Montrer; à laide de a), et en calculant D par deux méthodes différentes que
+Ii=p_Ilai+ b22 Q(ap)C(a1, '''9 @p-1, b1 , bp-1) = C(a1; 0229 @p' 61 , Iizi i=p-1 '(bp b;)
+6p)
+En déduire que
+Isisisp(ai ai Isisisp(bi b;) C(a1, 4'1 Op; b1 , bp = Iluzij<p (a; + b;) 3) Soit k un entier naturel fixé pour toute la suite du problème. Pour n un entier non nul, on note k un = (d(coskt; Fn))? Exprimer uk en fonction de déterminant de Gram. 4) a) On note Xo = k et p; = Ai + 4, pour i € {0,1, '' n}  Montrer que k C(uo Un, Ho, Un) un = C(p1, ''*1 Un, ]1; ''*9 Un)
 
+--- page 5 ---
+b) En déduire que
+1 i=n k 2k + 1 Un = I( 7)2 . 1 + 2k 21 1 + Xi + k
+c) i) Montrer qu'il existe un entier naturel non nul N tel que Vi 2 V, 1 - 1+aik > 0. 2k+l i) Quelle est la nature de la série 2k + 1 In(1 i2N 1 + Xi + k Montrer que Un k tend vers zéro quand n tend vers +*c 3 Démontrer que
+Ve > 0 Hn € N* 3(a1,  02 ,
+an) € R" tels que llpk aipx,|l < € i=1 ii) En déduire à Faide du théorème d'approximation de Weierstrass; que toute fonction f de E est limite d'une suite d'éléments de F.
+5

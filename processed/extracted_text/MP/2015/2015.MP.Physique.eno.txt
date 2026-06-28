@@ -1,8 +1,158 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de FEnseignement Supérieur et de la Recherche Scientifique
+~ayj2X6jji "bjzlgèbs {é~wp Usin uiljl el_klidl Qnnis l DSJal>  2015 ;3'
+Concours Nationaux dEntréc aux Cycles de Formation d'Ingénieurs Session 2015
+Concours Mathématiques et Physique Epreuve de Physique
+Date Jeudi 11 Juin 2015 Barème Problème 1 : 13 pts
+Heure : 8 H Problème 2 7 pts
+Durée : 4 H
+Nb pages 9
+Seules les calculatrices non programmables sont autorisées
+Une présentation claire et soignée des copies est vivement recommandée_ Une numérotation claire et précise des réponses aux questions est indispensable. Un candidat peut toujours se servir d'un résultat fourni par l'énoncé pour continuer sa composition
+Données utiles rot(rot u) = grad(divu) ~Au 7 A(bAæ) =(@æ)b -(àb)7
+EA B (i) = ZRel 2 po
+Problème 1 : Ondes électromagnétiques et interférences lumineuses Le problème est composé de deux parties la première partie traite des ondes électromagnétiques dans le vide et du critère de cohérence temporelle des sources lumineuses pour obtenir le phénomène d'interférence; alors que la deuxième   partie traite de 1 'interféromètre de Michelson et quelques unes de ses applications Détermination de F'indice de réfraction d'une lame de verre Etude de Feffet dun défaut de planéité sur la figure d'interférence
+Pour tout le problème, on se place dans les conditions de lapproximation de Gauss et l'indice de réfraction de Fair sera pris égal à 1
+I-Ondes électromagnétiques dans le vide Passage du modèle vectoriel de la lumière au modèle scalaire et critère de cohérence temporelle. 1. Rappeler les équations locales de Maxwell dans le vide dépourvu de charges et de courants En déduire les équations de propagation vérifiées par les champs électrique E et magnétique B
+2. Qu'appelle-t-on onde plane ?
+Concours Mathématiques et Physique Session de Juin 2015
+Epreuve de Physique
+Page 1/9
 
+--- page 2 ---
+3. Soit; dans le vide, une onde électromagnétique plane de pulsation 01, de vecteur donde k; dont le champ électrique, en notation complexe, en un point M de lespace repéré par ses coordonnées cartésiennes (x,y,z), s'écrit: 4(M,t) = Eo e'(uy-kz) ex
+Eo1 est une constante positive
+3-a. Caractériser cette onde.
+3-b. Déterminer son champ magnétique B(M,t)
+3-c. Déterminer son vecteur de Poynting   Il, En déduire sa valeur moyenne temporelle
+4-. Deux ondes électromagnétiques planes progressives monochromatiques de pulsations @ et 02, polarisées rectilignement se propagent dans le vide dans la même direction définie par le vecteur  unitaire €u et dans le même sens. Les champs électriques des ondes (1) et (2) s'écrivent respectivement : W(M,t) = Eo1 e44-A(a,} & W(M,t) = Eo2 e'[u2~12(M,/)] @2,
+4-a. Montrer   que la valeur moyenne temporelle résultante s'écrit
+du vecteur de Poynting de Ponde
+(i)=(i,)+(i,)+2EoEœ (cos[(u2 ~w,)t ~W(M,0])4,.2, Loc
+4(M,T)est le déphasage entre les deux ondes (1) et (2)
+4-b. A quelles conditions a-t-on (i) =(ii,) +(iz) ? De quel phénomène s'agit-il ?
+4-c. Dans le cas où les directions de polarisation des deux champs E et Ez sont voisines, on peut utiliser ]approximation du modèle scalaire de la lumière en remplaçant ces champs par des vibrations scalaires. En déduire de la question précédente que Fintensité I(M) (qui n'est autre que le module de la valeur moyenne du vecteur de Poynting) due à /interférence des deux sources secondaires 51 et  S2 dintensités   I et 1v' provenant dune source primaire $ ponctuelle, monochromatique de longueur donde >o s'écrit :
+S(M) I(M) =1 +12 +2v4,12 cos  27 
+S(M)est la différence de marche en un point M du champ dinterférence. Quel est lintérêt de choisir deux sources telles que I = Iz ? Justifier .
+5. Un paquet donde ou train donde est un ensemble dondes monochromatiques qui s'étale sur un domaine de fréquence Av = v Vmin Ce paquet donde possède une durée T Inax
+Concours Mathématiques et Physique Session de Juin 2015
+Epreuve de Physique
+Page 2/9
 
+--- page 3 ---
+appelé temps de cohérence et une longueur de cohérence L =c T = où C est la vitesse Av de la lumière dans le vide.
+5-a Quelle est la longueur de cohérence dune onde monochromatique ? 5-b. Compléter le tableau ci-dessous où sont consignés les temps de cohérence de certaines sources. Parmi ces sources quelle est celle qui se rapproche le mieux dune source monochromatique ? On donne C= 3.108 m.s
+Source Lampe Hg Laser He-Ne Lumière blanche
+T(s) 10-9 10 54 3.10-15
+L (m)
+Av ( Hz
+5-c. Quelle condition doit satisfaire la différence de marche & comparée à Lc pour qu' 'il y ait interférence constructive? Justifier votre réponse.
+II- Interféromètre  de Michelson
+Linterféromètre de Michelson est constitué dune lame semi-réfléchissante; non absorbante; appelée séparatrice et de deux miroirs   M; et   Mz parfaitement plans, perpendiculaires entre eux et faisant un angle de 459 avec la séparatrice.
+Pour tout le reste du problème, on notera Io l'intensité de chacune des deux ondes qui interfèrent en un point du champ d'interférence.
+Pour les deux parties II-1 et II-2 suivantes; on ne tiendra pas compte du déphasage supplémentaire Ys = T introduit par la séparatrice.
+II-1. Eclairage de Vinterféromètre de Michelson réglé en lame dair par une source étendue
+Linterféromètre de Michelson; réglé en lame dair; est éclairé à laide dune source étendue placée dans le plan focal objet dune lentille convergente L, de distance focale f On assimile la source à un disque lumineux de diamètre d. Cette source est supposée monochromatique de longueur donde > On observe à /aide dune deuxième lentille convergente   Lz de distance focale   fz une figure dinterférence sur un écran dobservation placé dans le plan focal image de cette lentille (Fig.1) Le miroir M, peut effectuer un mouvement de translation suivant   la direction Ox, alors que le miroir Mz reste fixe.
+Partant de la situation initiale où le miroir Mz est confondu avec M; image de M, par la séparatrice; ce dernier subit une translation de longueur e le long de laxe Ox dans le sens positif tel que 0O, = 0Oz +e   1` 6. Représenter le schéma équivalent du montage en lame dair en faisant apparaître   son épaisseur e et en précisant les sources secondaires S, etSz
+Concours Mathématiques et Physique Session de Juin 2015
+Epreuve de Physique
+Page 319
 
+--- page 4 ---
+Déterminer la différence de marche   S(i) en fonction de e et de langle dincidence i 7 Quelle est la forme des franges ? Sont-elles localisées ou délocalisées ? 8. Dans le cas d'une source ponctuelle est-il indispensable de placer ['écran dans le plan focal image de Lz ? Justifier. Quel lien existe-t-il entre la taille de la source et la localisation des franges ? On donnera une explication qualitative. 9 On choisit pour les lentilles convergentes Li et Lz respectivement les distances  focales. f' =10 cm et f =100 cm Justifier un tel choix. de lordre dinterférence   p(r) à la distance du centre de la figure 10. Etablir, Pexpression dinterférence (Fig. 1) la courbe donnant lévolution de lordre d'interférence p en fonction 1l. Pour e = 0,5mm de la distance  r, est donnée par la figure 2. au centre de la figure  d'interférence.  Conclure. En Déterminer  1ordre   dinterférence Po déduire  la valeur de la longueur d'onde Xo A quelle couleur correspond cette longueur donde ? 12. Déterminer les rayons ' et Yz des deux premiers anneaux sombres. Quel est le nombre total danneaux   sombres observés sur lécran ? 13. Etablir ['expression du rayon r; correspondant au k-ième anneau sombre. 14. Montrer que les rayons Yk des anneaux sombres sur lécran sont tels que
+B Yk+1 =Yk = Yk+1 +Tk
+où Best une constante que Pon exprimera en fonction de fz= 1o et e en fonction du rayon et des autres données du problème. 15. Exprimer lintensité I(r) 1 Tracer lallure de la courbe en fonction de r Commenter . Io 16. On modifie le réglage de linterféromètre en translatant doucement le miroir M , mobile. diminue   Vépaisseur   de la   lame dair   équivalente ? Justifier votre Qu'observe-t-on si on réponse 17. La taille de la source a-t-elle une influence sur le contraste des anneaux ? Justifier votre réponse. 18. Calculer le diamètre d de la source étendue S. Comment procéder   pour régler l'interféromètre au 19. Qu 'appelle-t-on contact optique ? contact optique ? Décrire Faspect de Fécran dans cette postion: Que se passe-t-il si 1on dépasse le contact optique en translatant le miroir M, dans le sens des x négatifs ?
+Concours Mathématiques et Physique Session de Juin 2015
+Epreuve de Physique
+Page 4/9
 
+--- page 5 ---
+II-2. Interféromètre de Michelson réglé en coin dair : Mesure de Pindice de réfraction dune lame de verre
+On   considère  linterféromètre   de Michelson   réglé au contact optique. A partir de cette situation; on fait tourner le miroir M, dun angle Q très petit autour de son axe. On éclaire; souS incidence   quasi-normale le système  par une source monochromatique   de   longueur donde Xo = 546nm (raie verte du mercure) de telle sorte que Fon observe des franges rectilignes dégale épaisseur localisées au niveau du coin dair. La figure dinterférence est projetée sur un écran à laide dune lentille convergente: On mesure sur 1écran un interfrange iE =4 mm
+20. Comment doit-on procèder pour obtenir une incidence quasi-normale ? 21. Etablir Pexpression de linterfrange 1 au niveau du coin dair en fonction de Xo et Q Calculer i et & sachant que le grandissement de la lentille vaut |~ = 4 .
+22. Combien observe-t-on de franges si les miroirs ont une largeur L =2cm ? 23. On remplace la source monochromatique par une source de lumière blanche 23-a. Décrire ce qu'on observe sur lécran. 23-b. On place une petite lame de verre à faces parallèles (lame de microscope), dépaisseur ev = (160,0 +0,5) um devant M parallèlement à celui-çi et  dindice de  refraction n supposé indépendant de la longueur donde. Expliquer pourquoi les franges disparaissent et sont remplacées par une teinte plate blanche (blanc dordre supérieur)  23-c. Justifier que les franges réapparaissent si on translate   M, dune distance € convenable et dans un sens que /on précisera. Exprimer Findice n en fonction de Q et ev Sachant que 0 =(82,5+0,3)um calculer au troisième chiffre après la virgule lindice n et son incertitude absolue An
+23-d. Pourquoi a-t-on utilisé de la lumière blanche dans cette expérience au lieu de la source monochromatique utilisée précedemment ? II-3. Etude du défaut de planéité du miroir Mi: Mesure du rayon de courbure dun miroir sphérique
+Le dispositif est un interféromètre de Michelson où le miroir M;a été endommagé au niveau de sa surface ce miroir présente désormais un défaut de planéité. Ce défaut est modélisé par un miroir sphérique M de rayon de courbure R dont l'image par rapport à la séparatrice est M' (Fig. 3). Le miroir Mz reste intact. Le dispositif est éclairé dans les mêmes conditions expérimentales que dans la partie précédente et en utilisant la même source monochromatique de longueur donde Xo = 546nm Les miroirs sont tels que OO,  OO2 La zone située entre le miroir plan Mz et le miroir M' , forme un coin dair dépaisseur e <<R qui varie en fonction de la distance r à laxe du système (Fig. 3)
+Dans la suite, on tiendra compte du déphasage supplémentaire 4s  T introduit par la séparatrice.
+Concours Mathématiques et Physique Session de Juin 2015
+Epreuve de Physique
+Page 519
 
+--- page 6 ---
+24. Exprimer lépaisseur dair  e(P) entre M' et Mz en fonction de r et R On suppose r << R
+25. Montrer que le déphasage 4(P)entre les deux ondes (1) et (2) se met sous la forme
 
+' ,
+Y(P) = Kr? + T  ( 1 Kest une constante que /on exprimera.
 
+ n
+26. En déduire la nature des franges localisées dans la zone entre M' et Mz Déterminer Pordre dinterférence Po au centre. Conclure.
+27. Donner [expression de lintensité lumineuse au point P en fonction de r, R, Xo et Io
+28. En déduire Fexpression du rayon vk du k-ième anneau sombre.
+29. La figure dinterférence sur le coin dair est projetée sur un écran par lintermédiaire dune lentille convergente L' de centre C' et de distance focale f' =lOcm On donne CO2 = =15 cm 
+29.a. Soit 02 limage de 0z par la lentille L' (Fig.3). Calculer   la distance C'Oz à laquelle on doit positionner lécran par rapport à cette lentille. 29.b. Calculer le grandissement ~ de L'
+30. Une photographie du champ dinterférence est donnée par la figure 4. Déterminer, en exploitant cette photographie, le rayon de courbure R du miroir sphérique:
+Problème 2 Induction et transferts thermiques I- Courants de Foucault : chauffage par induction et influence du feuilletage Un barreau cylindrique métallique de rayon a daxe Oz, de longueur L très grande devant a, et de conductivité   électrique est immobile dans un champ magnétique unifome B=Bo cos @t u, variant dans le temps de manière sinusoîdale à la pulsation w (Fig-5-a)
+1. Justifier | 'apparition dun champ électrique variable € Déterminer sa direction en un point M quelconque du barreau repéré par ses coordonnées cylindriques (r,0,z)et les variables dont il dépend
+En déduire, en utilsant la loi de Faraday, Fexpression de E
+2. Déterminer la densité volumique du courant induit j(r,t) au point M On suppose que le champ magnétique créé par ce courant induit est négligeable devant le champ inducteur B
+Concours Mathématiques et Physique Session de Juin 2015
+Epreuve de Physique
+Page 6/9
 
+--- page 7 ---
+3. Exprimer la puissance volumique   pv dissipée en M En déduire que la puissance moyenne totale dissipée dans Pensemble du barreau conducteur s'écrit (Ps) =KoBJu? où Ko est un coefficient que Pon exprimera en fonction des données du problème. 4. On remplace le barreau métallique par un grand nombre N de petits barreaux cylindriques isolés, du même métal, de même longueur Let de rayonrv (Fig. 5-b) telle que la section totale des N petits barreaux soit celle du barreau de rayon a Déterminer la puissance dissipée dans tous les   petits barreaux. Commenter. Quelle application peut suggérer ce résultat ?
+II- Etude d'un fusible
+Un coupe-circuit électrique à fusible est un système de sécurité dont le rôle est de couper un courant électrique (fusion du fusible) lorsque lintensité électrique le traversant dépasse une certaine valeur donnée. Il est modélisé par un fil conducteur cylindrique d'axe Ox de longueur L=2,5 cm = de rayon b et de section droite daire 2 II possède une conductivité électrique Y =4,85.106 @-1m et une conductivité thermique > = 35,3 W.m-'K Il est parcouru par un courant continu dintensité 1
+II-1. Transfert thermique par conduction dans le fil conducteur Dans une première étape, on considère que ce fil est inséré dans une gaine en silice assurant une isolation électrique et thermique de sa surface latérale (Fig.6). Aux extrémités du fusible, la température ambiante est maintenue constante égale à To = 30OK  On se place en régime stationnaire.
+5 Rappeler   1expression de la résistance électrique R dun conducteur   cylindrique de conductivité électrique Y, de longueur L et de section 2 Donner alors la puissance dissipée par effet Joule dPJ pour une tranche du fil conducteur de section 2 et de longueur d En déduire la puissance volumique dissipée en fonction de Y, 2 et I
+6. Rappeler la loi de Fourier pour une densité volumique de courant thermique notée jnh Exprimer le flux (ou puissance) thermique traversant une section droite 2 du fil.
+7. Etablir, à laide dun bilan énergétique sur une tranche élémentaire dx du fil conducteur; Péquation différentielle vérifiée   par la température T(x)
+8. En déduire lexpression littérale de T(x) et la représenter graphiquement. Déterminer le point Fdu fusible où la fusion se produit en premier. 9 Le matériau constituant le fil fond à une température T = 600 K _ On veut fabriquer un fusible qui supporte une intensité I =10 A Déterminer la valeur du rayon b 10 Pour un fil de section 2=0,4mm? de même longueur L, parcouru par un courant I= I montrer; en utilisant un bilan entropique; que 1entropie So créée par unité de temps 2 R 12 dans le fil s'écrit Soc Calculer Soc 4T0
+Concours Mathématiques et Physique Session de Juin 2015
+Epreuve de Physique
+Page 7/9
+
+--- page 8 ---
+II-2. Echange thermique entre le fusible et le milieu extérieur Dans une deuxième étape, on enlève la gaine isolante et on   suppose maintenant que le fusible échange de la chaleur avec Fair environnant maintenu à la température To On admet que la température est constante en tout point du fusible. 11. Quels   sont les modes de transfert de chaleurs   intervenant au cours de cet échange ? Donner une explication qualitative pour chacun des modes. 12. Les expressions   des flux surfaciques   thermiques par convection et rayonnement sont respectivement
+4cc = h(T _ To)
+4r =o(T' ~T94 )
+h=5 Wm- 2 K '
+0 =5,67.10-8 Wm-2 K-4
+12-a. Montrer qu'à des températures voisines de la tempèrature ambiante (T ~To) , le flux surfacique par rayonnement s'écrit sous la forme : 4 ~ h,(T_T) où h,est une constante que /on exprimera. Calculer h, Comparer les flux surfaciques 4c et +r
+12-b. Calculer, à la température de fusion T=T; les deux flux surfaciques. Conclure .
+13. On désire établir; à la température de fusion du fil métallique la relation entre Pintensité I du courant et le rayon b du fusible. A partir dun bilan thermique où on considère que tout le fusible est à la température Ts ' exprimer le courant Ien fonction de Y, Pcc YP r et b Tracer  Pallure de la courbe I = f (b) . Commenter .
+Fin de lépreuve
+
+Concours Mathématiques et Physique Session de Juin 2015
+Epreuve de Physique
+Page 8/9
+
+--- page 9 ---
+P
+Mironr M2
+13i
+1830
+Source
+Séparatriæ
+Miroir M,
+Im
+126
+Ecran
+J0
+r(cm)
+Fig. 1
+Fig 2
+R
+P/() 8 02 M, (1) (2) (0)/
+40 mm Fig 4
+Fig,3
+Ecran
+Fusisle
+Site
+Fie.3-a
+fie 5-b
+Fig 6
+Concours Mathématiques et Physique Session de Juin 2015
+Epreuve de Physique
+Page 9/9

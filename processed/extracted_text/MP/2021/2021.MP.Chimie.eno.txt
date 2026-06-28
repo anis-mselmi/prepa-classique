@@ -1,11 +1,115 @@
+--- page 1 ---
+CONSIGNES Cette épreuve comporte 12 pages Tout résultat doit être écrit dans les cadres adéquats. L'usage des calculatrices électroniques de poche non programmables est autorisé. Aucun échange entre les candidats n'est autorisé. Tout calcul doit être précédé dune expression littérale. Les résultats numériques sans unité ou avec une unité fausse ne seront pas comptabilisés. En cas de besoin utiliser la page vide en fin de cahier. Dans ce cas, il faut le signaler dans la case allouée à la réponse remise en fin de cahier. Ne joindre aucun brouillon. Si au cours de l "'épreuve; un candidat repère ce qui lui semble être une erreur dénoncé, il la signale sur sa copie et poursuit sa composition en indiquant   les raisons des initiatives qu'il est amené à prendre.
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 12 PAGES NUMEROTÉES 1 sur 12, 2 sur 12, 12 sur 12.
+Concours Mathématiques et physique    ? 
+Session Juin 2021 Page 1 sur 12
 
+--- page 2 ---
+Épruw d ckinie section MQ
+Notations et données numériques États des constituants physicochimiques (sd) solide (liq) liquide ; (g) gazeux Lorsque aucune mention n'est spécifiée; les ions sont supposés implicitement en solution aqueuse. Les gaz sont considérés comme parfaits: Les enthalpies de changements détat sont supposées indépendantes de la température Notations Xi la fraction molaire de < i > dans la phase liquide. Yi la fraction molaire de < i > en phase vapeur. P pression de vapeur saturante de < i > H? potentiel chimique du constituant < i > dans la phase < Lexposant signifie corps pur Lexposant € signifie standard ESH électrode standard à hydrogène Constantes physiques Constante des gaz parfaits R 8,314 Jmotl K-1 Constante d'Avogadro NA 6,02*1023 motl. Constante de Faraday F =96500 C. moll Pression standard p =lbar Pression atmosphérique p=l atm ~1bar 1 Concentration standard Ce =lmolI' Données numériques Masses molaires atomiques (g.motl) N =14,01 Fe 55,85. 1 Le rayon atomique (pm) N 75. Electronégativité dans Véchelle de Pauling Na 0,93 et N = 3,04. Masses volumiques de Nz pur (supposées indépendantes de la température et de la pression) Solide Pnz "sd =1,026 g cm sooo Liquide "Jiq PNz =0,808 g.cm
+À 298 K,  ?n Potentiel standard redox à pH = 0 : E' (Nze) /NH*(9) =0,275v ESH Produit ionique de Feau Ke =1014 Constante dacidité Ka NHA(aq) | /NHse) ) =9,55*10-12 Fe (OH)2(/) +2H+ Fe?+ +2H,0 pK =-13,27 La constante de Nernst (RxT/F)xLn(lO) =0,06 V Conversion T(K)=0( 0)+273,15 Equation aux dimensions [JC-1] = V
+Page 2 sur 12
 
+--- page 3 ---
+Épreuw de chimie section MP
+Tableau périodique- cohésion cristalline La famille des pnictogène est constituée des éléments chimiques suivants Tazote N, le phosphore P, 1arsenic As; Fantimoine Sb et le bismuth Bi 1) Trouver le numéro de la colonne (groupe) des pnictogène dans le tableau de la classification 2-7 N périodique des éléments_chimiques Azote
+P 2-15
+Phosphore
+2) Classer par ordre décroissant 1électronégativité de Pauling des éléments Bi, N et As de la famille des pnictogène
+As 2-33
+Arsenic
+3) Qu'est-ce que le caractère métallique ? Comment évolue le caractère métallique pour la famille des_pnictogène ? [Z-51 Sb Antimoine
+4) Quels sont les corps moléculaires dans la liste suivante Nz Bi et NasN ? Justifier la réponse. [z-83 Bi Bismuth
+1 5Quelle grandeur physique nous donne une mesure indicative de la cohésion dans un cristal 1 6) Sous la pression atmosphérique; le diazote bout à la température -196C alors que e bismuth bout à 1564 C Expliquer pourquoi 2
+Cristallographie Le fer existe à l'état solide sous plusieurs variétés allotropiques; dont le fer Y qui cristallise dans une structure cubique à faces centrées_ 1) Etablir expression donnant le rayon atomique  RFe, du fer Y, en fonction de la masse volumique   pdu fer Y solide
+Page 3 sur 12
 
+--- page 4 ---
+Épruw d chimie section MQ
+2) Calculer sa valeur en picomètre sachant que P = 8,2 g.cm
+3) Compléter la figure ci-dessous par le_contenu de_la maille du réseau cubique à faces centrées du fer X
+b
+Donner Texpression numérique de la distance entre deux plans réticulaires consécutifs appartenant à la famille de plans (1112
+1 5) Représenter sur la figure de la question 3), le premier et le deuxième plan réticulaire après celui passant par lorigine de_la famille (111) Justifier la réponse 1 En utilisant deux symboles différents, localiser sur la figure ci-dessous les positions des différents sites dans la maille fer Y. Donner leurs nombres.
+7) Établir 1expression puis calculer Phabitabilité (la taille maximale) des sites les plus volumineux en fonction du rayon de latome de ferX
+Page sur 12
 
+--- page 5 ---
+Épreuve de chimie section MP
+Alliage Fe-N Le fer forme avec ]azote un alliage (E) de formule FeuNv qui cristallise dans une structure de symétrie cubique. Les traces des atomes dans les premiers plans après ceux passant par lorigine des différentes familles de plans réticulaires sont données ci-dessous
+Fe
+afz (110)
+Plans (002)
+(o7o)
+8) Donner une représentation en perspective de la maille et de son contenu
+1 1 9) Donner la coordinence de N par rapport à Fe et représenter sur la figure de la question précédente le polyèdre de coordination.
+10) Déterminer la formule du composé
+11) De quel type d alliage s agit-il ? Justifier et commenter la réponse
+Page 5 sur 12
 
+--- page 6 ---
+Épreuu & chinie section MP
+12) Donner [expression puis calculer la masse volumique du composé (E), sachant que le nouveau paramètre de_la maille est égal à 378,9 pm
+Etude thermodynamique du diazote pur I-On considère léquilibre de changement détat liquide-gaz du diazote N2(liq) = N2(g) La pression; exprimée en bar est reliée à la température absolue T en K par la relation Pia 673,563 Ln =8,709 pe T 1) Montrer que /expression (1 ) est une forme de la relation de Van't Hoff appliqué à léquilibre de changement détat liquide-gaz du diazote.
+1 1
+2) Déterminer pour le diazote 2-a) Lenthalpie molaire standard de vaporisation Ho vap
+Page  6 sur 12
 
+--- page 7 ---
+Épreuve & chinie section MQ
+2-b) La température débullition T8
+II- On considère léquilibre de changement d'état solide-gaz du diazote Nz(sd) = Nz(g) La pression; exprimée en bar est reliée à la température absolue T en K par la relation Ln Psd =E F (2) T 3) Déterminer les valeurs des constantes E et F, sachant que lenthalpie molaire standard de fusion de N2(sd) A fus H2 =0,71kJ _ mol-1 et la température de sublimation standard Te sub 75,43 K
+1 1
+Déterminer les coordonnées du point triple du diazote_
+Page 7 sur 12
 
+--- page 8 ---
+Épreuve de chinie section MP
+III- On considère l'équilibre de changement d'état solide-liquide du diazote N2(sd) = N2(liq) 5-a) Quelle relation doit vérifier les potentiels chimiques de Nz pur en son point de fusion ?
+5-b) Établir   en ce point; 1expression   donnant Fentropie molaire de fusion en fonction de la température
+5-c) Calculer sa valeur sachant que la température de fusion standard du diazote Te fus 63,3 K
+Donner /expression puis calculer 6-a)Le volume molaire de diazote liquide.
+1 1
+6-b) Le volume molaire de diazote solide.
+7) Quel est le signe de la pente de la courbe d équilibre Nz(sd) = Nz(iq) ? Justifier la réponse.
+Page 8 sur 12
 
+--- page 9 ---
+Épruu d chimie section MQ
+Electrochimie 1- Constantes d'équilibres associées aux réactions acido-basique On donne à 298 K les potentiels standard redox à pH 0 Couple HNO(aq) , HNOz(ag) NO(aq) / HNOZ(aq) E (Ox/red) en ESH) 0,98 0,94 I)Écrire léquation bilan de la réaction associée à chacun de ces deux couples redox
+2) Déduire de a question précédente, Pexpression de la constante déquilibre de la réaction associée au couple HNOs(aq)_ NOs(aa) ~puis calculer sa valeur
+1 1 Il- Détermination des potentiels standard doxydoréduction : On donne à 298 K_les potentiels_chimiques_standard des entités Entités < i > N2() NOs(aq) Hjaq) H2(g) Hz Oqq) U; (kJ mol-1 -110,9 -237,2 3) Montrer que [expression du potentiel standard redox du couple NO; (aq) N2(g) 'écrit en fonction des potentiels chimiques standard des différentes entités qui apparaissent dans l'équation-bilan de la réaction associée à ce couple
+Page 9 sur 12
 
+--- page 10 ---
+Épruw d chimie section MP
+III - Étude des diagrammes de Pourbaix On se propose d'étudier dans un domaine de pH compris entre -2 et 16, le diagramme potentiel-pH simplifié de lazote à 298 K, pour une concentration totale en atomes d'azote dissous Ctra 0,10 molL-' et des pressions partielles égales à bar pour les espèces gazeuses. Tous les gaz seront supposés avoir le comportement des gaz parfaits. 4) Déterminer le nombre (degré) d'oxydation de Fatome d'azote dans chacune des entités suivantes HNO 3(aq ) NOs(aq) NH 4(a9) NH 3(g) et Nzg)
+5) Classer ces entités par nombre doxydation croissant en fonction de pH et déterminer les valeurs de pH limitant les frontières verticaux
+1 1
+6) Identifier les différents couples redox mis en jeu:
+Page 10 sur 12
 
+--- page 11 ---
+Épeuve & chimic secticù HQ?
+Sur le diagramme ci-dessous; on superposé le diagramme de Pourbaix du fer (Ctra 0,1 molL-l) en traits discontinus sur celui de / azote en traits gras . 1,80 Ctra = 0,1 moll-1 150
+1,20
+0,90
+Fes+
+0,60
+0,30 { 0,00 ~0,30 Fel+ ~0,60 Fe
+~0,9u
+41,20
+4150
+pH
+Z) Indexer le diagramme de lazote en affectant les entités dans_les_ domaines correspondants. Domaine (1) Domaine (4) 1 Domaine (2) Domaine (5) Domaine (3) 1 8) Déterminer Lexpression numérique de la frontière séparant les domaines (3 et (4) en fonction du pH
+Page 1l sur 12
+1
+Tromz
 
+--- page 12 ---
+Épreuve d chimie section MP
+9) Établir Texpression du pH de la frontière verticale entre les entités Fe?r et FeOH)(sd) puis calculer sa valeur.
+1@) Déduire la valeur du produit de solubilité de FeOH)sd) 1 1 IV- Utilisation des diagrammes de Pourbaix 11) Que se passe-t-il, si on plonge une lame de fer dans une solution dacide 0,1 molL-1 ? nitrique de concentration
+12) Déterminer la ou Tes entité(s) susceptible(s) dêtre réduite(s) par Thydroxyde ferreux Écrire la ou les équation(s) bilan(s) de(s) réaction(s) correspondantes)
+FIN DE LÉPREUVE
+Page 12 sur 12

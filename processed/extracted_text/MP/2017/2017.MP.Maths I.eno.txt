@@ -1,3 +1,50 @@
+--- page 1 ---
+République Tunisienne Ministère de lEnseignement Supérieur et de la Recherche Scientifique Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs Session 2017
+1+gj) 1 9643 1 {14j9i8eie {uajesl LSj ubji 21 Msliji 8iJi 8435 81[ 2017 518j
+CoNCouRs MATHÉMATIQUES ET PHYSIQUE EPREUVE DE MATHÉMATIQUES I
+Session 2017
+Date: 25 Mai 2017
+Heure: 8H
+Durée 4 heures
+La qualité de la rédaction et de la présentation, la clarté et la précision des raisonnements entreront pour une part importante dans lappré - ciation des copies. Lusage des calculatrices n'est pas autorisé. Tout résultat fourni dans lénoncé peut être admis et utilisé par la suite, même s'il n'a pas été démontré.
+Exercice 1 (3 points) Ahmed, un étudiant; effectue n trajets par an sur la ligne de bus 38-B. Le prix du ticket est de b dinars par trajet. La probabilité que cet étudiant soit contrôlé lors dun trajet est de p €jo,1[ et Yon suppose que les contrôles sont indépendants les uns des autres. Le prix de lamende à payer lorsque Yon est contrôlé sans titre de transport est de a dinars On suppose que; chaque jour, Ahmed fraude (n'achète pas un ticket) avec la probabilité q €J0,1[ ou achète un ticket avec la probabilité 1 9 On suppose de plus que les comportements dAhmed sont indépendants dun jour sur lautre, et ne dépendent pas non plus des éventuels contrôles quil aurait eu On note X : la variable aléatoire égale au nombre de fois dans lannée où Ahmed est contrôlé. Y : la variable aléatoire égale au nombre de fois dans lannée où Ahmed fraude. Z : la variable aléatoire égale au nombre de fois dans lannée où Ahmed se fait contrôler alors quil na pas de ticket. On définit le <gain relatif annuel de létudiant par la formule Somme dépensée sur lannée Somme dépensée sur lannée par Yétudiant en ne fraudant jamais. par létudiant en fraudant
+Justifier que
+X ~ B (n,p), Y~ B(n,q) et Z ~ B (n,pq) 2 Donner (sans calculs) les espérances E (X) , E(Y) et E (Z) . 3. En considérant les événements (X = 0) et (Z = 1), montrer que les variables aléatoires X et Z ne sont pas indépendantes. On note G la variable aléatoire donnant le gain relatif de létudiant sur lannée Montrer que G = bY aZ. 5. Calculer E (G) . En déduire la valeur minimale 40 quil faut donner à lamende pour que létudiant soit en moyenne perdant sur Yannée?
 
+--- page 2 ---
+CoNcouRs MATHÉMATIQUES EI PHxSIQuE
+EPREUVE DE MATHÉMATIQUES I
+Page 2 sur 4
+Exercice 2 (5 points) Soit (E,|| - |l) un espace vectoriel normé sur R et F un sous espace vectoriel de E. Pour tout u € E, on rappelle que la distance de u à F est définie par d (u,F) = inf {llu = fll / f €F}  et on introduit Yensemble %F(u) défini par IF (u) = {f € F / d(u,F) = llu = fll} . 1. Dans cette question E = C ([0,1] ,R), F est le sous espace vectoriel de E formé par les ap- plications polynômiales et || . = 1l-Ilo est la norme de la convergence uniforme. (a) En utilisant le théorème de Weierstrass, montrer que, pour tout u € E,
+d (u,F) =0.
+(b) Montrer que pour tout u € E, @F (u) = {u} si u € Fet @F (u) =@si u # F. Dans toute la suite; on suppose que F est de dimension finie.
+2 Dans cette question; on suppose que E est un espace préhilbertien réel muni de sa norme euclidienne Déterminer; pour tout u € E, d(u,F) et %F (u) en fonction de PF(u) le projeté orthogonal de u sur F. 3. Soit u € E. On pose @: F- R, f + llu = fIl (a) Montrer que @ est continue. (b) Montrer que K= {f €F / $(f) < llull} est un compact non vide de F. (c) En déduire quil existe fo € K tel que @ (fo) < @ (f) ,pour tout f € K (d) Montrer que @ (fo) < w(f) , pour tout f € F. (e) En déduire que IF (u) #@ 4. Soient u € E, f € Fet œ > 0. Montrer que (a) d(u+ f,F) =d(u,F) , (b) d(qu,F) ad (u,F) . 5. Montrer que pour tout u € E et tout f € 9F (u), d (u = f,F) = llu = fIl: 6. En déduire que si F un sous espace vectoriel de E différent de E alors il existe w € E tel que d (w,F) = Ilwll = 1. 7. On suppose que E est de dimension infinie (a) Montrer quil existe une suite (wn )neN déléments de E telle que pour tout n € N, {(wn+l, Vect (wo, 2004 wn)) = llwn+1ll = 1
+(b) Montrer que pour tout m,n € Ntels que m # n,
+Ilwm wn|l 21
+(c) En déduire que la suite (wn )n nadmet aucune valeur dadhérence. (d) Montrer alors que la boule unité fermée Bf (0,1) de E n'est pas compacte.
 
+--- page 3 ---
+CoNcouns MATHÉMATIQUEs ET PuysIQvE
+EPREUVE DE MATHÉMATIQUEB I
+Bage 8 sur 4
+Problème (12 points) Partie I
+Soit a > 0 fixé
+1 Pour quelles valeurs du réel s la série est elle convergente. On pose sous cette n26 (n + a)s condition T0 Ya(s) = 2 n56 (n + a)s
+2 Montrer que Vs > 1,Ya(s) = + Va+1(s) @s 3. Montrer que Va est continue sur ]1, +œ[ (a) Montrer que lim V(s) = +œ lorsque a 2 1. 5-+1+ (b) Déterminer lim Va(s) lorsque a 2 1. 5=++0 (c) En déduire lim Va(s) et lim  Va(s) , lorsque 0 < a <1. 541+ S +0
+(d) A-t-on la convergence uniforme sur ]1,+œ[ de la série de fonction n20 (n + 4)s 5 (a) Soient &, B deux réels tels que & > 1. Montrer que la série numérique n22""(Inn)6 est convergente. (b) Montrer que Va est de classe Cœ sur ]1,+o[ et donner Yexpression de ses dérivées successives sous la forme de la somme dune série 1c (a) Montrer que lintégrale ts-1e-tdt converge; si et seulement si, s > 0. +o On pose T(s) = e-tts-ldt, s > 0.
+(b) Montrer que pour tout s > 0, T(s) > 0 et T(s +1) =sT(s) +c 1s-1 (c) Montrer que pour tout s > 1, Va(s) = ~ax 10 1 = e-xe dx.
+Dans toute la suite de ce problème; on suppose que a = 1 et on note 4(s) = 11(s), s > 1. Partie II Pour tout réel x, on note E(x) sa partie entière Cest lunique entier relatif vérifiant x - 1 < E(x) < x. E(x) =X 1. Soit s > 0. Montrer que lapplication fs X H est continue par morceaux sur xs+1 [1,+œ[ Fc 2. Montrer que lapplication F:s + fs(x) dx est définie et continue sur ]0,+%[
+3. Montrer que, pour tout s > 1, V(s) =1+ +sF(s) On pourra remarquer que pour tout s =1 n+1 entier N2 2, fs(x)dx =  fs(x)dx) . n=1
 
+--- page 4 ---
+CoxcouRs_ MATHÉMATIQUES ET PHYsIQUE
+EPREUVE DE MATHÉMATIQUES
+Page sur 4
+Montrer que la suite Yn = 5 Inn est convergente On pourra étudier la nature de la série E(mn Yn-1)) . n22 On note Y lim Yn . n =++0 5 Montrer que F(1) =Y = 1. 6 Montrer alors que lim (0(s) -, 27) =Y 5 +1+ Partie III
+n!
+On note
+le coefficient binomial définie par n 2 k et on considère la suite kI(n =k)"' réelle Bn)nzo définie par Bo = 1 et Bn+l = #É("+?)B k 1. Déterminer B1 et B2. 2. Montrer que, pour tout entier non nul n, 'n+1) k Bk = 0. k=0 3. Montrer que, pour tout entier n, [Bn| < n! On rappelle que e ~2.7. Que peut on dire du rayon de convergence R de la série entière Bnz" n20 n : 5. Montrer que, pour tout z € C*, |z| < R, Bnz" . "=0 n! 2i Montrer que, pour tout x € R Z, cotan(ux) = i+ e2inx _ 1 En déduire que, pour tout x € R| Z, |r| nxcotan(nx) =1+ B" (2izr) ". 27 n=2 n! +2n 8. Soit x €] ~ 1,1[. Montrer que la famille est sommable k2n n21k21 2x2 En admettant la relation TX 'cotan(x) =1+ x2 _ k2' x €] = 1,1[| {0} , montrer que
+Txcotan(Tx) = 1 -2 2 4(2n)x2n . M=l
+10. En déduire que, pour tout entier non nul p, (2z) 2p 4(2p) (~1)p+1 Bzp et Bzp+1 =0. 2(2p)! `
+11. Déterminer; alors, le rayon de convergence de la série Bnz" n20 n !
+Fin de lénoncé

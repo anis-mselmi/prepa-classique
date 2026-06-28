@@ -1,3 +1,69 @@
+--- page 1 ---
+4534)4452/62U) "kjzlg?~s {+ck Jsjujieissliji :xsii ixsly  2010'>
+REPUBLIQUE TUNISIENNE Ministère de lEnscigncmcnt Supéticur ct dc la Recherche Scientifiquc
+Concours Nationaux d'Entrée aux Cycles de Formation d' 'Ingénieurs Session 2010
+Gl
+Concours Toutes Options Epreuvc d Informatique
+Date Mardi 01 Juin 2010
+Heure 15 H
+Duréc : 2 H
+Nbre pages : 4
+Barème : EXERCICE 1 : 4 points   (1.5,2.5) EXERCICE 2 : 5 points (1, 1, 0.5,1,1.5) PROBLEME : 11 points (1, 2, 1,2, 1, 2,2)
+DOCUMENTS NON AUTORISES
+L'USAGE DES CALCULATRICES EST INTERDIT
+EXERCICE 1
+1) On considère les deux suites u et v définies par Vo =1 Jv =1 et ux = Vzcos(kt) keN' Vk = Cos (t)
+keN'
+Donner les commandes MAPLE permettant de L.1) définir les deux suites u et v ; 1.2) calculer A, la valeur de u et B la valeur de v ; 1.3) évaluer A et B pour t = 7 3 1.4) calculer puis simplifier les expressions suivantes
+Ws CibuotHEQUE Cirs AUK (EiUles  SA DIGEMIEUs 
+UkVk et ux Zv k=l ka) kal
+1.5) calculer les limites des deux suites u et v quand k = +;
+2) Soient (El) et (E2) les équations différentielles définies par
+(El): y(t)+ y(t) = u (E2): 2y"(t) + y(t)+sin(t) = v
+Concours Toutes options Session Juin 2010
+Epreuve dInformatiquc
+Page 1/4
 
+--- page 2 ---
+Donner les commandes MAPLE permettant de
+2.1) définir les deux équations différentielles ( El) et (E2) ; 2.2) calculer S1 , la solution de la résolution formelle de léquation différentielle El) avec la condition initiale suivante y(o) =1 2.3) calculer S2, la solution de la résolution numérique de léquation différentielle (E2) avec les conditions initiales suivantes y(0) =1 et y(0) =1 ; 2.4) convertir Sl en une fonction y ; 2.5) représenter graphiquement y pour t e[-5.5] ; 2.6) représenter graphiquement S2 pourt e [-5.5] .
+EXERCICE 2
+On relève dans certains jours de lannée les degrés de température. Une observation sera une liste de 3 valeurs [<jour > , mois > , degré >]. Par exemple; une température de 20 C enregistrée le 13 février correspond à la liste [13, 2, 20]. Le but de lexercice est de manipuler une liste de telles observations qui est une liste de listes et pour simplifier on supposera que toutes les observations sont enregistrées pendant des_années non bissextiles (le nombre de jours du mois de février dune année non bissextile est égal à 28)
+Iravail demandé :
+Soit la liste Nb_Jour_Mois-[31,28, 31,30,31, 30, 31,31, 30, 31,30, 31] contenant les nombres de jours des mois dune année non bissextile.  Cette liste; supposée déjà définie, sera passée comme paramètre en cas de besoin
+Répondre en MAPLE aux questions suivantes
+1) Ecrire la procédure Valide qui retourne true si à une observation Obs donnée correspond un mois et un jour corrects; et retourne false sinon.
+2) Ecrire la procédure Num_Jour qui permet de retourner le numéro du jour dans lannée d'une observation Obs donnée et supposée valide. Exemple Lobservation [12, 2, 10] enregistrée le 12 février correspond au 43ème jour de Pannée
+3) Ecrire la procédure Avant qui, à partir de deux observations Obsl et Obs2 supposées valides; retourne true si Pobservation Obsl a eu lieu avant lobservation 0bs2 et retourne false sinon. 4) Ecrire la procédure Ajout_Obs qui ajoute, à la fin dune liste dobservations L donnée, une observation Obs donnée; si celle ci est valide et non déjà enregistrée. 5) Ecrire la   procédure Tri Obs qui ordonne une liste dobservations par ordre chronologique des observations.
+Concours Toutes options Session Juin 2010
+Eprcuve dInformatique
+Page = 2/4
 
+--- page 3 ---
+PROBLEME : Construction d'une table de symboles Lors de l'analyse d'un programme source, les  variables déclarées sont mémorisées dans une structure de données appelée table de symboles. Dans ce problème; on propose de créer une table de symboles suite à la déclaration d'un nombre connu de variables. La table de symboles est représentée par les trois tableaux à une dimension suivants Tnom : tableau de caractères Ttype 2 tableau d'entiers Tpos tableau d'entiers Le tableau Tnom sert à mémoriser les noms de variables valides. Un nom de variable valide est composé de 8 caractères alphanumériques  au maximum (lettre majuscule ou minuscule, ou chiffre ('0' .'91) et ne doit jamais commencer par un chiffre. Un nom de variable est mémorisé en stockant   les   caractères le composant dans des cases consécutives de Tnom à raison d'un seul caractère par case. Les différents noms de variables sont séparés par le caractère '*' . Le marqueur de fin du tableau Tnom est le caractère '#'. Le tableau Tpos mémorise l'indice de début de chacune des variables dans Tnom. Le marqueur de fin du tableau Tpos est 0 Le tableau Ttype némorise les références des types des variables. Dans la suite, uniquement les types suivants ainsi que leurs références seront utilisés Type 2 Booléen Entier réel caractère Référence : 16 32 8 Ainsi la figure 1 illustre le contenu de la table de symboles des variables COUR de type réel, TOTAL de type entier, bl de type booléen et i de type entier
+C 0 U ] R * Tlo TlAl L b 2   3   4   5 76 7   8 9 10 11 842 13
+# 14 1S 16
+NMAX
+32 16
+6 12 15 0 Tpos
+16
+Ttype Figure 1. Mémorisation de la table des symboles
+Travail demandé Dans ce qui suit; on suppose avoir déjà effectué les déclarations suivantes
+CONSTANTE TYPE
+NMAX-1OOo TABI 12 tableau [L.IO*NMAX] de caractère TAB2 = tableau [1. NMAX+I] de entier TABC = tableau [1..8] de caractère
+Concours Toutes options Scssion Juin 2010
+Eprcuve d'Informatiquc
+Page 3/4
 
+--- page 4 ---
+En   algorithmique une chaîne de caractères est   manipulée comme un tableau de   caractères . Uniquement   les fonctions suivantes sont supposées prédéfinies
+Longueur{ch) retourne la taille de la chaîne de caractères ch Car_Alph(C) retourne vrai si le caractère C est alphabétique et faux sinon: Car_Num(C) retourne vrai si le caractèrc est numérique et faux sinon.
+Répondre en algorithmique aux questions suivantes
+F) Ecrire une procédure Nb Elt qui saisit et retourne un entier nb compris entre deux entiers binf et bsup donnés .
+2) Ecrire une fonction Nom Valide; à résultat booléen; qui retourne vrai si une chaîne de caractères Ch donnée représente un nom de variable valide et faux sinon.
+3) Ecrire une procédure Saisie Variable qui saisit et retourne de type chaîne de caractères représentant le nom dune variable valide; ainsi que Tla référence valide de son type 4) Ecrire une procédure Ajout Variable qui ajoute une variable supposée valide dans la table de symboles suivie du caractère '* Elle prend en entrée le nom de la variable V et T Ja référence de son type ainsi que pos; la position dinsertion dans Tpos et met à jour les tableaux Tnom; Ttype, Tpos. 5) Ecrire une procédure Recup_ Nom qui récupère dans un tableau de caractères TC de type TABC les caractères dun nom de variable mémorisé, à partir dun indice pos, dans le tableau Tnom
+6) Ecrire une fonction Recherche, à résultat booléen; qui à partir dun nom de variable et les tableaux Tnom et Tpos; retourne vrai si V existe déjà dans Tnom et faux sinon: La recherche consiste à comparer V avec les noms de variables de même longueur mémorisés dans Tnom_ Les longueurs; des noms de variables déjà mémorisés; seront déterminées à partir de Tpos:
+En utilisant les procédures et les fonctions adéquates; écrire une procédure Table_Symboles permettant de saisir le nombre de variables à déclarer pour chaque variable saisir son nom et la référence de son type sachant qu'un nom de variable ne peut apparaître qu'une seule fois dans Tnom Pajouter à la table des symboles (Tnom; Tposs Ttype) en faisant les mises àjour nécessaires .
+Concours Toutes options Session Juin 2010
+Epreuve dInformatique
+Pagc 4/4

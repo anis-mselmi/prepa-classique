@@ -1,7 +1,127 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministèrc de [Enseigncment Supérieur; de la Recherche Scientifique etde la Technoiogie
+Concours Nationaur dEntrée aux Cycles de Formation d'Ingénieurs Session : Juin 2003
+9aratope ` eieliotheque } 6 Dugereurs Concours Physique et Chimie Epreuve de Physique
+Date Lundi 09 Juin 2003
+Heure : 8 H
+Durée 4 H
+Nbre pages 08
+Barème Problèmel 12 pts Problème? 08 pts
+Seules les calculatrices non programmables sont autorisées:
+Si au cours de ['épreuve; u candidar repère ce qui lui sembie être une ercur dénoncé ille signale sur sa copie et poursuit composition expliquant les raisons des initiatives qu'il est amcné à prendre:.
+L'épreuve est constituée de deux problèmes indépendants. Dans chaque problème certaines parties et d nombreuses questions sont indépendantes.
+Un candidat peut toujours se servir dun résultat fourni par [énoncé pour continuer sa composition:
+PROBLEME NPI
+Dans tout le problème l'indice de l'air sera pris égal à 1.
+Préparatolr Ingen@ur Inotlrur brude: oto Me Que des biblioa
+1 - Préliminaires
+1- On considère un objet réel AB, un écran  d'observation (E) et une lentille convergente mince (L) de centre optique 0 et de distance focale image f * plongée dans [air (Figure 1-1)
+B
+Axe optique
+(L)
+Ecran (E)
+Figure 1-1
+Do
+1-a- Rappeler brièvement les conditions de Gauss nécessaires pour obtenir une image nette de ['objet AB. Construire |'image A'B' de AB. 1-b- Montrer que la relation de conjugaison et le grandissement transversal Y de (L) avec origines aux Foyers (relations de Newton) s'écrivent respectivement F'A' f FA FA =-f' et Y = f' FA 1-c- Déterminer le grandissement transversal de (L) avec origine au centre optique 0. En déduire la relation de conjugaison OA' OA
+Concours Physiquc et Chimic ~Scssion Juin 2003
+Eprcuve de Physique
+page 1/8
 
+--- page 2 ---
+1-d- On fixe la distance Do entre le plan de lobjet AB et lécran dobservation (E). Quelle relation doit vérifier f' pour que ['image A'B' soit réelle sur (E) 1-€ Montrer que lorsque cette relation est vérifiée, il existe deux positions de (L) distantes de d pour lesquelles A'B' est nette sur (E) Exprimer f' en fonction de do et Do: Citer une application pratique de ce résultat.
+2 - On considère deux milieux diélectriques   linéaires   homogènes isotopes (Lhi) et transparents; dindices réels n, et nz- Ils sont séparés par une surface plane d'équation z = 0 (Figurel-2)
+01
+02
+Ei ^ ki
+Figurel 2
+Une onde électromagnétique plane monochromatique de pulsation @ et de vecteur donde ki se propage dans le sens des z croissants . Le champ électrique de cette onde $'écrit en notation complexe E; = Eoi 'cj(oe t-k;z) u x . Cette onde donne naissance à linterface z = 0, à une onde réfléchie et une onde
+transmise de champs électriques respectifs Er et
+2-a- En utilisant   les   relations de passage des champs  électrique et  magnétique; exprimer  les amplitudes complexes Eo de Er et Eo de Et en fonction de n1, n2 et Eoi. 2-b - Déterminer les coefficients de réflexion F1z et de transmission t12 des amplitudes. En déduire, s'ily a lieu le déphasage entre londe incidente et londe réfléchie dune part et entre londe incidente et londe transmise d'autre part. 2-c- Exprimer en fonction de np et n2 les coefficients de réflexion R1z 512 et de transmission T1z 1212 en énergie. Commenter. n, 2-d- Exemple interface air-verre np=1 et n2=1,5. Calculer T12 et t1z puis R1z et T1z Commenter. 2-€- Comment peut-on réaliser des lames de verre semi-reflechissantes ?
+3- On considère {eux soE-ces   lumineuses S1 et S: ponctuelles; monochcmatiques;  synchrones, mutueliement cohérentes et d'intensités respectives I, et Iz On rappelle que lintensité lumineuse est proportionnelle à la moyenne temporelle du carré du champ électrique. 3-a- On note   @(M) le déphasage en un point M de l'espace où viennent interférer deux ondes issues de S1 et Sz Montrer que ['intensité lumineuse I(M) au point M s'écrit I(M) = I, +Iz *2 vI,I2 cosq(M) 3-b- Exprimer, en fonction de I, et Iz, le facteur de visibilité V=Im_Im où IM est l'intensité IM + [ une frange brillante et In celle dune frange sombre. 3-c- Quel est l'intérêt de choisir deux sources ayant I1 = Iz Lo ?
+[ Interféromètre de Michelson
+Description simplifiég
+L'interféromètre (Figurel-3) est constitué de
+Concoun Physiquc et Chinie ~Scnsion Juin 2003
+Eprcuve dc Physique
+Pngc 28
 
+--- page 3 ---
+Y
+(M2)
+0z
+(Ls)
+s
+0
+(ML)
+0 z
+Face traitée
+Figurel 3
+deux miroirs plans (ML) de centre O, susceptible de subir un mouvement de translation parallèlement à laxe (Ox) et (Mz) fixe de centre Oz une lame séparatrice (Ls) semi-réfléchissante et non absorbante qui réfléchit la moitié de la lumière qu'elle reçoit Cette lame est centrée en 0 et son plan est à 45* de (Ox) La configuration du Michelson est dite en contact optique lorsque (Mp) et (Mz) sont orthogonaux et 0O1 OO, =d
+Partie II-A Interféromètre de Michelson éclairé par une source ponctuelle
+Dans cette partie; on suppose que lépaisseur_de (Ls)_est_négligeable et on n'envisage pas de lame compensatrice. On suppose de plus que (Ls) n'introduit aucun déphasage. Lécran (E) est placé perpendiculairem nt à (Oy) au point Etel que OE = 4 Linterféromètre, plongé dans Vair, est éclairé par une source_ponctuelle_S monochromatique de longueur donde 1=632,8nm et situesur (Ox) à une distance d = OS. R (n' ) 1 ' n A partir de la configuration en contact optique on déplace le miroir (Mp) dune distance faible € selon les x croissants 4 Quel est lintérêt pratique de choisir un coefficient de réflexion R = 0,5 pour (Ls) ? 2 5- Comment peut-on réaliser une source ponctuelle ? 6- Faire une figure soignée de deux rayons différents issus de la source $ et qui interfèrent en un point Mde (E) On se placera dans le cas où :*4 > d et d= d
+7-a- Montrer que cette configuration du Michelson est équivalente à une lame dair. 7-b- Préciser sur une figure les positions des sources secondaires S1 et Sz par rapport à 0. Exprimer OS,et OS: en fonction des données du problème. 7-c- Quelle est la forme des franges observées sur (E) ? Justifier. 8 - On cherche à déterminer la différence de marche 8 entre les rayons qui interfèrent au point M de (E) tel que EM = X On raisonne à partir de la lame dair équivalente On note J le milieu de [S,Sz] et 0 = (JS2 JM) supposé faible. X? Montrer que & ~ 2e (1 - où D =A+d+2d+e. Justifier alors que les franges obtenues sur 2D ? sont des anneaux. Concoun Phyiquc ct Chimie ~Session Juin 2003 Epreuve de Physique page 3/8
 
+--- page 4 ---
+9- Calculer lordre Po conrespondant au centre E de [écran pour e = Imm. Commenter. 10- Exprimer le rayon Xp sur (E) de [anneau dordre p en fonction de P, Po et D. Calculer Xp pour les cinq premiers anneaux brillants pour 4 2Ocm d =d lOcm et e Imm Conclure concemant ['évolution de la distance entre deux anneaux successifs.
+Partie I-B Interféromètre de Michelson éclairé par une source étendue:
+L'interféromètre réel comporte en plus de la lame séparatrice (Ls) une lame compensatrice (Lc) identique et parallèle à (Ls), mais sans face traitée. Le dispositif, plongé dans ['air, est éclairé par une source_étendue_S, monochromatique de longueur donde ^ 546nm. 11- Expliquer l'effet de l'étendue de la source sur la figure d'interférence dans le cas dun dispositif interférentiel diviseur damplitude diviseur de front donde 12- Quel est le rôle de (Lc) ? Expliquer à l'aide dune figure soignée. 13 - Déterminer la différence de marche supplémentaire ôsp7 introduite par la réflexion sur (Ls) sachant qu' 'elle est fabriquée en vere dindice de réfraction n = 1,5.
+I-B-1 Franges dégale inclinaison
+L'interféromètre est dans la configuration équivalente à une lame dair dépaisseur e. 14 Comment faut-il ['éclairer pour obtenir des franges dégale inclinaison ? 15- A laide d'une figure soignée, montrer qu'un rayon lumineux issu de la source S et caractérisé par Tangle d'incidence i avec (Ox), donnera à la sortie de linterféromètre un ensemble de deux rayons parallèles:. 16- Etablir la différence de marche & entre ces deux rayons en fonction de e, i et 1. On peut raisonner sur (Mz) et (M 1), limage de (M;) par (Ls) 17-En un point de laxe (Oy), on place une lentille mince convergente (L) de distance focale image f', de sorte que son plan est parallèle à lécran (E). Où faut-il placer (E) pour observer les franges dinterférences Justifier ? Quelle est leur forme ? 18 - On dispose de deux lentilles convergentes de distances focales image f' 0,2Om et fz Im Laquelle doit-on choisir ? pourquoi ? 19- Péterminer ]'ordre dinterférence pM) en un point M de la figure d'interférence sur lécran (E) Calcuier po au centre de (E) pour e = Imm Commenter. 20 - Donner [expression de lintensité I(M) en un point Mde la figure dinterférence sur l'écran (E) Tracer ]allure de I(M) en fonction de langle dincidence i. Commenter. 21 - 21-a - On se place au voisinage de Tincidence normale Etablir   1expression du rayon Ix corespondant à la kième frange (comptée à partir de i 0) de même nature que celle du centre, en fonction de f' , 1, e et k. 21-b - En déduire   la distance   séparant deux   franges consécutives de même nature. Conclure concemant la notion d interfrange. 22- Décrire les phénomènes observés lorsqu'on fait diminuer [épaisseur e par déplacement de (Mi) 23 - Mesure de l'écart des raies du doublet jaune du sodium Linterféromètre réglé pour donner des franges dégale inclinaison, est éclairé par une lampe à vapeur de sodium émettant deux radiations de même intensité et de longueurs donde respectives 11 et 12 On note 41 12 11 et 1o = V 11 + 12) = 589,3nm. 23-a- Déterminer [expression de [intensité lumineuse I(E) au centre E de l'écran. 23-b - Tracer la courbe de I(E) en fonction de 6(E) lorsqu'on fait varier lépaisseur e de la lame. 23-c- Expliquer les brouillages successifs observés.
+Concoun Physlauc et Chimie~Scuion Juin 2003
+Epreuve de Physique
+Pngc 4/8
 
+--- page 5 ---
+23-d - Entre le premier et le deuxième brouillage on mesure Ae 0,29mm.  Déterminer 44 En déduire 11 et ^2
+I-B-2 : Franges d'égale épaisseur
+A partir de la configuration en contact optique on fait toumer le miroir (Mp) autour de (O,z) dun angle a faible de manière que son image (M par (Ls) forme avec (Mz) un dièdre dangle @ et darête (Ozz) Le dispositif est éclairé en incidence quasi-normale à laide dun faisceaux de rayons   lumineux sensiblement parallèles provenant dune source monochromatique de longueur donde ^ 546nm 24 Comment peut-on obtenir un faisceau de rayons lumineux parallèles. Faire une figure. 25 - Faire une figure soignée montrant   les deux rayons, issus dun même rayon incident et qui interferent en un point P. Faire apparaître le lieu de localisation des franges. 26- Quel est ['intérêt déclairer le dispositif en incidence quasi-normale ? 27- Caractériser les interférences obtenues. 28 - Exprimer [interfrange i' en fonction de ^ et a Faire [application numérique pour a = 5.10- rad 29- Où doit-on placer [écran (E) pour visualiser ces franges ? Expliquer. 30- On dispose de deux lentilles convergentes de distances focales image f' = 0,20m et f2 =lm Laquelle doit-on choisir ? pourquoi ? 31- On désire obtenir sur (E) des franges distantes de i"' = 2,73 mm. On conserve d 10 cm 31-9- Calculer le grandissement transversal correspondant 31-b- A quelles distances du point 0 doit-on placer lécran (E) et le centre L de la lentille ?
+PROBLEME NP2
+I-Ihermodynamique d'un milieu paramagnétique
+Un barreau magnétique; de volume invariable, est plongé dans un milieu où règnent une pression constante et u champ magnétique uniforme B Sous leffet de ce champ magnétique, le barreau acquiert une aimantation M On suppose que les transtormations   sont réversibles et on admet que le travail  élémentaire ` reçu algébriquement par le barreau; uniquement dorigine magnétique, a pour expression
+BW B.dM = B dM dM étant la variation élémentaire de Taimantation La variation élémentaire dB du champ magnétique donne lieu à des variations élémentaires dM de Faimantation et dT de la température Le transfert thermique élémentaire échangé par le barreau magnétique avec le milieu extérieur s'écrit 8Q Cg dT + k dB 8Q = CudT + / dM
+I-1- Donner la définition des coefficients calorimétriques Cg et CM- Quelles sont les grandeurs extensives et intensives Farmi CB,CM, M, B, T, l et k ? 1-2- En écrivant la différentielle de la fonction énergie libre, établir Vexpression de /en fonction de T {B et {T 1-3- On suppose que ['équation d'état du matériau magnétique est de la forme B M(B,T) = M(x) , où X = T
+Concour Physiqu ct Chimk ~Scssion Juin Z00}
+Epreuve de Physique
+Pasc 5/8
 
+--- page 6 ---
+{M @M En écrivant de deux manières la différentielle de M, montrer que +Bl =0 %T B 14- Etablir les relations suivantes entre les coefficients calorimétriques B dM 1 dM $ ~CM] =-1 et k = T: dx T dx I-5- Donner une expression simplifiée de Montrer que [énergie intere du barreau ne dépend que de la température et que CM $'identifie à la capacité thermique C du matériau mesurée en labsence de Faimantation
+En réalité la réponse dun milieu paramagnétique à une excitation par un champ magnétique B se manifeste   par une aimantation M qui écrit sous sa forme scalaire M = 12B où Ho est la Fo peréabilité magnétique du vide et Xnest la susceptibilité magnétique obéissant à la loi de Curie 5 Xm 5 étant la constante de Curie I
+Dans toute la suite du_problème  on supposera que [équation détat du milieu linéaire étudié est de la B forme M=a où a est une constante positive. I 1-6- Monter que lors dune aimantation adiabatique et réversible, le milieu s'échauffe. 1-7- A partir dun état   initial (1) caractérisé par   les grandeurs M1, B1 et Iv on réalise une transforation adiabatique et réversible en diminuant le champ magnétique appliqué jusqu'à l'annuler. Létat final (2) est donc caractérisé par une température Tz et un champ magnétique Bz = 0 En supposant que C est indépendante de la température; exprimer la différence (Tz - Ti) en fonction de a, C, B1 et T,. AN : T1=300 K C = 160 JK-' B1 =1 Tesla et a = 0,152 SI Que peut-on dire de ['efficacité de refroidissement dun matériau paramagnétique à des températures ordinaires ? 1-8 - Sachant qu' à très basses températures, la capacité therique C devient extrêmement faible; B montrer que le rapport est constant pour une transformation adiabatique. Application En partant de létat I1 4,2K B! =5 Tesla, on diminue de manière adiabatique et réversible le champ magnétique jusqu'à la valeur Bz 10-2 Tesla Calculer 1a température finale Tz Qcel est l'intérêt de la désaimantation adiabatique ?
+II- Etude dun_cycle dhystérésis d un matériau ferromagnétique
+On dispose dun noyau constitué dun matériau ferromagnétique ayant la forme dun tore rectangulaire de faible section carrée $ et de longueur moyenne L: Deux circuits électriques sont bobinés sur ce noyau le primaire, constitué dun enroulement de N, spires, est relié par Tintermédiaire dune résistance r à un générateur de tension sinusoïdale de pulsation @ et délivrant un courant i, ; le secondaire dont |enroulement comporte Nz spires est relié à un circuit intégrateur. Pour visualiser le cycle dhystérésis à loscilloscope; on réalise le montage de la figurez-1
+Coxour Phylqu ct Chimic -Sesion Juin 2003
+Eprcuve de Physique
+Page 68
 
+--- page 7 ---
+noyau
+Voie Y de l'osciloscope
+Circuit [DlBIalCU
+V
+genérateur
+Figure2-1
+Voie X de ['oscilloscope
+On désigne par H lexcitation magnétique et par B=pH le champ magnétique qui règnent dans le noyau où p représente la perméabilité magnétique du matériau ferromagnétique. On admet que Het B dont les lignes de champs sont canalisées dans le noyau sans pertes; ont des modules constants I-1-En appliquant le théorème d Ampère dans lapproximation du régime quasi-stationnaire, relatif à [excitation magnétique; exprimer son module H en fonction de i1, i2 Ni, Nz et L A quelle condition sur iz, la tension Vx est proportionnelle à H ? Déduire [expression reliant VxàH
+I-2 - Déterminer le flux 4 du champ magnétique B dans le matériau à travers les Nz spires de la bobine du secondaire En appliquant la loi dinduction de Faraday, calculer la tension Vz aux bomes de la bobine du secondaire I-3- On considère le filtre RoCo de la Figure2-2 où Ro est une résistance et Co est une capacité .
+12
+Ro
+Vz
+Figure2-2
+Yy 0-3-1- Déterminer la fonction de transfert de ce filtre I(jo) = 1z où Vy et Vz représentent les amplitudes complexes des tensions V (t) et V(t) ;j? = -1. [-3-2- En déduire une condition reliant Ro, Co et @ pour que ce filtre fonctionne comme intégrateur.
+Dans_ la suite, cette condition est réalisée
+I1-3-3- En utilisant les résultats de la question II-2, préciser la relation entre Vy et B. 1-4- Expliquer comment le montage de la figurez-1 peret de visualiser sur un oscilloscope le cycle dhystérésis B = B(H) du matériau ferromagnétique_ I-5- Avec les valeurs numériques suivantes, on obtient expérimentalement le cycle de la figure 2-3 (échelle en X : 0,5Volt / division et en Y : 0,5 Volt / division)
+Ni = 1000 spires Nz 500 spires S = 16 cm?, L = 4Ocm Ro = 220 kQ 1=5 Q Co 106 F et 1OOr rads
+Concoun Physiquc ct Chimic ~Session Jutn 200}
+Eprcuve de Physique
+Page 7/8
 
+--- page 8 ---
+É v
+Figure2 3
+II-5-1- Rappeler les définitions du champ magnétique rémanent (Br) et de lexcitation magnétique coercitive (Hc) II-5-2- En exploitant la représentation du cycle dhystérésis (Figure2-3),déterminer les valeurs des champs Br et Hc. approximativement les pertes d'énergie dans le matériau ferromagnétique constituant le noyau au cours d'un cycle d'hystérésis. Expliquer l'origine des pertes
+FIN DE LEPREUVE
+Concours Physiquc ct Chimic -Scssion Juin 2003
+Epreuve de Physique
+pagc 8/8
+{M ) ("^vch 16"" . 2nnz lw, " 1 2+M1

@@ -1,3 +1,77 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de [Enseignement Supérieur et de la Recherche Scientifique
+229 )=i2s4a?| Wlsig+ts EL~L dosial Ziksli @lBLiji inmik-Jl issjalui 2020 6
+Concours Nationaux d Entrée aux Cycles de Formation dIngénieurs Session 2020
+Concours Biologie & Géologie
+Epreuve de Biochimie, Biologie Cellulaire; Génétique
+Date Mercredi 15 Juillet 2020
+Heure 8 H
+Durée : 2 H
+Nb pages 4
+Barème- Biochimie Exercice N'1 9 pts Exercice No2 11 pts Génétique Exercice N'1 12 pts Exercice No2 8 pts
+Epreuve_ de_Biochimie Ioutes les questions peuvent être traitées_séparément
+Exercice N?1 (9 points)
+Un extrait protéique issu dun lactosérum bovin contient les 5 protéines suivantes
+Code Protéine Masse moléculaire (kD) Point isoélectrique (pI) A B-lactoglobuline 18 5.2 B a-lactalbumine 14 4.6 C Sérumalbumine 69 4.9 D Lactoferrine 80 8.0 E Lactoperoxydase 78 9.6 Pourtoutes les réponses_Ies protéines seront codées parles_ettres ^E CDetE
+On cherche à séparer ces protéines par chromatographies.
+1. Indiquer lordre dans lequel ces 5 protéines s'élueront dans une colonne de filtration sur gel (en commençant par celui qui est élué en premier) . Justifier la réponse.
+2 Ce mélange est déposé sur une colonne échangeuse danions. Le tampon utilisé pour cette colonne a un pH = 8 a. Quelle est la charge de la colonne ? b. Énumérer la ou les protéines qui ne seront pas retenues par la colonne Justifier la réponse. C. Afin déluer les protéines qui sont restées immobilisées sur la colonne; un linéaire gradient de NaCI est appliqué La concentration en NaCI augmente progressivement de 0 à 1 M. Indiquer l'ordre dans lequel les protéines liées à la colonne seront éluées à mesure que la concentration en sel augmente. Justifier la réponse.
+Exercice n'2 (11 points)
+L'enzyme phosphoénolpyruvate  carboxylase (EC4.1.1.31) a été   purifié à partir d'extraits cellulaires de Coccochloris peniocystis (cyanobactérie). La cinétique et le mode dinhibition
+Concours Biologie et Géologie Session Juillet 2020
+Epreuve de Biochimie; Biologie Cellulaire; Genétique
+Page 1/4
+
+--- page 2 ---
+exercé par l'inhibiteur oxaloacétate (ou OAA) vis-à-vis de son substrat de réaction le phosphoénolpyruvate (ou PEP), ont été étudiés. Les résultats de cette étude sont montrés dans la figure 1 (ci-après). Les mesures ont été faites avec 10 pL d'enzyme à 0,5 mglmL
+1 a. A l'aide de la représentation cinétique de la figure 1, déterminer   les valeurs approximatives des paramètres cinétiques (Km et Vmax) de la PEP carboxylase pour le phosphoénolpyruvate comme substrat (en l'absence dinhibiteur) . ~b. Calculer l'activité spécifique de lenzyme ~c. Calculer la constante catalytique (Kcat) , sachant que la masse molaire de lenzyme est de 560 000 g.mol-1 2. Déterminer les nouveaux paramètres cinétiques en présence de linhibiteur oxaloacétate (OAA).
+3. Déterminer quel type dinhibition exerce l'inhibiteur OAA vis-à-vis de lenzyme PEP carboxylase ? Justifier la réponse.
+[OAA]=6 mM
+1/Vi
+[OAA]-2.5 mM
+5 1 1
+sans inhibiteur
+3
+12
+15
+18
+H[S] (mM-')
+Figure 1 Représentation de Lineweaver-Burk des activités de la PEP carboxylase de C. peniocystis en fonction des concentrations de PEP en présence dOAA : OmM (') 2.5 mM ( ^ ) et 6 mM (").
+Concours Biologie et Géologie Session Juillet 2020
+Epreuve de Biochimie, Biologie Cellulaire; Génétique
+Page 2/4
+
+--- page 3 ---
+Epreuve de Génétique
+Exercice 1 (12 points) L'espèce végétale (Opuntia Ficus indica) est connue par sa diversité morphologique. Nous disposons de trois variétés de cette espèce Variété 1 : à fruit Jaune et à cladode épineux [J E]. Variété 2 à fruit Rouge et à cladode inerme (sans épines) [R I] Variété 3 à fruit Rouge et à cladode épineux [R E] Un croisement a été réalisé entre la variété I[J E] et la variété 2 [R I] et a donné une F1 composée par des arbustes à fruit Jaune et cladode inerme [J !]. Un deuxième croisement a été réalisé entre une variété de la FI [J I] et la variété 3 [R E] et a donné la descendance suivante 380 arbustes à fruit Jaune et à cladode épineux [J E]. 140 arbustes à fruit Jaune et à cladode inermes [J 1]. 120 arbustes à fruit Rouge et à cladode épineux [R E] 360 arbustes à fruit Rouge et à cladode inermes [R I].
+1. Déduire le déterminisme génétique de chaque caractère en justifiant votre hypothèse à laide du test x?. 2. Les gènes impliqués dans ces  croisements   sont-ils indépendants ou liés ? Confirmer votre hypothèse à laide du test x?. 3. Préciser les génotypes des parents et des descendants au niveau du premier et du deuxième croisement: 4. Prévoir les résultats de la F2, F1 x F1, en précisant les génotypes; les phénotypes et leurs proportions.
+[X?(ddl =1 et a =5%) = 3,84; X?(dd =2 eta =5%) = 5.99 ; X?(ddl =3 et a =5%) = 7,81].
+Exercice 2 (8 points) Chez une souche sauvage dun organisme supérieur; on s'intéresse à l'étude dun gène codant pour une protéine membranaire. La séquence dADN transcrit; représentant le début de ce gène est la suivante:
+5' TAAGGGCTCAAAGCACCACATATT 3'
+1 Donner les séquences du brin dADN complémentaire et de /ARNm et déterminer la protéine codée par cet ADN. Trois souches mutantes pour le gène en question ont été isolées. Les protéines correspondantes aux souches mutantes ont été purifiées et séquencées
+Souche m1 NH2Met 2 Try - Cys Phecooh Souche m2 NH2Met = Try - Cys Leu Glu Pro ~ Leu Souche m3 NH2Met ~ Try 7 Ala " Leu Ser Procooh
+COOH
+2. Préciser la nature de chacune de ces 3 mutations en justifiant votre réponse.
+Concours Biologie et Géologie Session Juillet 2020
+Epreuve de Biochimie; Biologie Cellulaire, Génétique
+Page 3/4
+
+--- page 4 ---
+Iable du Code_Génétique DEUXIEME NUCLEOTIDE
+PREMIER NUCLEOTIDE
+TROISIEME NUCLEOTIDE
+UUU UCU UAU UGU PHE TYR CYS UUC UCC UAC UGC SER UUA UCA UAA NS UGA NS LEU UUG UCG UAG NS UGG TRP CUU CCU CAU CGU HIS CUC CCC CAC CGC LEU PRO ARG CUA CCA CAA CGA GLN CUG CCG CAG CGG AUU ACU AAU AGU ASN SER AUC ILE ACC AAC AGC THR AUA ACA AAA AGA LYS ARG AUG MET ACG AAG AGG GUU GCU GAU GGU ASP GUC GCC GAC GGC VAL ALA GLY GUA GCA GAA GGA GLU GUG GCG GAG GGG
+U c A f G " G C A G
+U
+ 
 
 
+ 
+ `
+ i     
+     1  c 2s
+1 .    _   ' 
 
+Concours Biologie et Géologie Session Juillet 2020
+Epreuve de Biochimie, Biologie Cellulaire; Génétique
+Page 4/4

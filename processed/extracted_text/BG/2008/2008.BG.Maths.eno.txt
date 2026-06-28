@@ -1,3 +1,40 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de IEnseignement
+12a)2/47di
+(Gajsgas 5918q1 usin Tbjsi @iobliji ixdiji iss Ualyc 2008 69
+Supérieur, de La Recherche Scientifique et de La Technologie Concours nationaux dentréc aux cycles de formation dingénieurs Session 2008
+Concours Biologie et Géologie Epreuve de Mathématiques
+Durée: 3 heures Date: 02 Juin 2008 Heure: 8H Nbre de page 4 Barème: Problème I : 10 points Problèmne II 10 points
+Une grande importance sera attachée à la rigueur du raisonnement, à la clarté et au soin de la présentation. Lusage des calculatrices n'est pas autorisé. Il est rappelé que tout résultat énoncé dans le texte peut être utilisé pour traiter la suite, même g'il n'a pu être démontré .
+PRE; Institut Ciuothesue "x Skkï ~ {aBes  WiûrN{VRS
+Problème I
+Ou considère la matricc
+6 1 1 6 1 1 6
+M =
+1 a) Calculer le polynôme caractéristique de M et donncr ses valeurs propres. cu pvéci-aut Fordre <e multiplicité 1) Déterminer les sous-espaces propres. Eu déduire que M est diagonalisahle c) On note D la mnatrice diagonale associée à M dont les terines (éventuellenncnt éganx ) de la diagouale descendante sont placés de gauche à droite dans Tordrc croissant . Donner une matrice inversible Q telle que M = QDQ -' Calculcr Q "~] d) Pour tout entier n € N, donner Texpression de Mn en fonction de n 2 Uue expérience consiste à soumncttre une particule à une suite d'impulsions éleatromagn  tiques susceptibles de la déstabiliser , La particule évolue aléatoirement entre trois posit jons déquilibre instable A, B et C. Lorsque la particule située dans une position .wcjnilil;  sulit Une impulsion; elle a u probabilité % de rester là où elle est; cllo' pcut  aussi 51 déplacer dans ]une ou Tautre des deux autres positions avec la ucn prohahilité
 
+--- page 2 ---
+Pour tout entier naturel k, on note Ak ]événemnent 'la particule est en A après la kème impulsion Bk Févénement 1a particule est eIL B après la kèmne impulsion" Ck Yévénement la particule est QII après la kème impulsion" P(Ak) la probabilité clo lévéncmnent; Ak. P(Bk la probabilité de Févénement Bk P(Ck) la probahilité de Févéncmneut Ck. P(Ak) On pose Xk P(Bk) k 2 0. P(Ck) On suppose de plus que la particule soit en A au déhut de Fexpérience de sorte <pue P(Ao) Xo = P(Bo) () P(Co) a) Exprimner P(Ak+1) en fonction de P(Ak) P(Bk) et P(Ck) Fairc de mêmnc pour P(Bk+1) et P(Ckn1) h) En déduire l'expressiou du vecteur Xk+1 à Faide <e la Iïatrice M et du vectcur Xk c) Pour toul entier k € N, exprimer Xk en fonction de Xo En s 'aidaul   du résultat du 1 d) , exprimner P(Ax), P(Bk) et P(Ck) en fonction do k. 4) Ces prohabilités ont-olles unc' limite lorsquc k tend vers +o ? 3. Soit '; la variable aléatoire égale au noubre diupultions pour qu la particule soit en pour la promière fois. a) Montrer que Ti suit la loi géomnétrique de paramnètre 8 de sorte que
+1 Vn 2 1, P(T = n) = (7)"- 8  8
+b) Déterniner le rayon de convergencc R de la fonction génératrice 9 de Ti. c) Montrer quc Vz €] - R; R[ g(z) = 8 - 7z ` d) En déduire les souunes En3 n(n = 1)P(T; = n) En%i n?P(T; = r)  Moutrer que la variable aléatoire T1 vérifie la relation
+V(n, m) € N* x N* P(Ii > n + m/Ti > n) = P(I > m) .
+4 . On considère une deuxièn particule de mêue évolution ct 12 le nomhre dimpultious pour qu 'elle soit en C. T2 indépendante de Ti, on pose
+U = min(T, 12) et V = max(T , T)
+à Calculer P(U 2 s) et P(V < t) pour s 2 1 et t 2 1. 1) En dléduire les lois de U et V puis E(V). Préciser la loi de U. c) Les variables aléatoires U et V sont-elles indépendant(s ?
+2
 
+--- page 3 ---
+Problème II
+Partie 1 Pour tout entier naturel n, on définit la fonction fn de la variable réelle æ par fn(z) = 2"e-? 1. Prouver la convergene de Fintégralc Jto fn(z)dr. 2 On pose In = Jstx fn(z)dz. a) Vérifier que pour tout réel A > 0 42 A fn+2(r)dx = -A" H'e-4 + (n + 1) fv(r)da:
+et eu décluire que pour tout entier naturel n : In+2 = (" + 1)Iv b) Justifier que Io = 7. (On rappelle quc Fintégrale ftx c & dx (X) = V2" ) Domer la valeur de I1. d) Démontrer par récurrence que pour tout entier naturel n
+Tt 2t) ! et I2n ! 1 2 2"n!
+I2n
+2"n!
+Partie 2 Soit (S2, A; P) un cspaco probabilisé. On rappelle quc si X et Y sont deux variahles aléatoires réelles indépendantes. cléfinies SuF (82,A,P) ct admcttant pour densités respcetives fx et fy , la fonction h sléfinic par h(x) = J+ fx(t)fx(æ Fo t)dt est une densité de la variahle aléatoire X + Y. Soit f la fonctiou définic pour tout réel : par: f(s) = f (r) si æ > 0, f(x) = 0 si x < 0. 1.a) Démontrer que f est une densité de prohabilité. b) Soit M ullo' variable aléatoire réelle qui admet f pour densité de prohahilité Montrer que la   variable  aléatoire M2 suit nne  loi   exponentielle  dont oII préFisera   Jc paramètre Douer la valeur de Vespérance et la variance; ainsi que le moment wordre " dlo' M2 . 2  Soient X1 et X2 deux variables aléatoires indépendantes €t suivant la même loi que MI? . a) Déterminer la loi de X = Xp + X2: b) Soit: Y une variable aléatoire réelle telle que la loi conditionnelle de Y sachant; X = : est la loi uniforme U([o, æ] ) . Déterminer la densité de probabilité du conple (X,Y) et la loi marginale de Y. c) Caleuler la densité conditionnclle do X sachant; Y d) En déduire Fespérance de X sachant Y E[X/Y] et E[X"Yn] pour tont (T. m) € N? . Partie 3 1. a) Soit a un réel strictement positif ct b et € deux réels quelconques , montrer (put +0 (az2+ brfc) 'd Te("2 ~446 6 An ~(x (L
+3
 
+--- page 4 ---
+b) Soicnt G ct G' deux variables aléatoires normnales centrées. indlépeudantos et do variana"s respectives 02 ct 0'2 Calculer la densité de la loi de G + G' . Eu déduire que G + G est unc variallc normale` dout ou dounera lespérance et la variaucc. c) Soit (Zp)n21 une suit( de varialles  aléatoires indépoudantes suivant tontos I2( '  Joi normale centrée rédluite N(0, 1) Ou poso Sn = Z, + + Znv quelle est la loi de S" ? n 2 Soit ul récl (x > 0 a) Montrer quo' P(ls| 2 0) =2P(S 2 0) nl b) Fn posiant   u = n(t ~ 0 ), Iontrer que
++o € 27 ~ut (lu.
+2( 242 P(ls|2a) TLtt 3. a) Montrer que DOUr toul $ 2 0 0 < 1 _ e-I < I. 6) Montrer que Fintégrale ft * e-uedu converge et la calcnler . Détrmnincr +œ +0 lim ( e ua du - e '2n 'ucY 'du 1- Foo
+Eu déduire; lorsque n teud vers linfini un équivalcut de P(ls|z  )

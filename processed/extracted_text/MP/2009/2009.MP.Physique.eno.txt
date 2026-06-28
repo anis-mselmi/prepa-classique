@@ -1,5 +1,85 @@
+--- page 1 ---
+REFURLIQUE TUNISIENNE Minislerc de F'ÉnscIpncmenl Supcricur, de Ia Rechicachc Scicnufique c" de la fccanlogie 9~j; J)reji
+==99)4283u)
+{Uk8èbs EssdbgA44L
+giz
+Uin yibji aijbbliji unni injjlyji 2009 i,9
+ciaqwonicaoir {06  Irin
+Cwncours Natienaux dEntrée aux Cycles de Formation d'Ingénicurs Session 2009
+Concours Mathématiqucs et Physique Eprenve de Physique
+Date : Jrudi 04 Juin 2069
+Heure : 8 H 00
+Durée : 4 H
+Nbre pages : 06
+Ssarime
+Problene ] : 15 pts
+Problème 2 : 05 pts
+2'wsuge wn catculatrice non pr ogrammabie est autorise
+1 eprewve esi constit#én de wevx problimes  indépendanis
+Ucendine: vew tcvjovrsse servi & nn resnhtat fourni par V'énoncé pour continuer sa composition
+Vonlees ufiles : Le vide <st caracteriss pors pemminivié électrique € ~10 29 Fm et sa perméabilité 36n magnetiquc %) Celerité de Ia Juniere dans Ie vidc : c = J.108 In.S 41 Jo Gstiiu; Charge élêmentaire : € # %, { Masse dc Félectron n = 9,1010" kg Cbuoiheque  Constanie de Boltzinan k; = 1,38.10* 23 JK ! 2 Constante de Pianck b = 6,63.10 *4 J.s @nGENiU%S Sta Gradient en coordonnées sphériques grad [ = âü, + ! ôf up + @f1, ôr r 00 rsin@ %p div(fu) =fdivu +ügrad f
+Probiène !
+Lespace est rapporté à un référenicl 9Oxyz) de base orthonormée directe (ux,4,,k,) On note (u,,u0,0,, Ja base sphériquc .
+Dipôle électrosfatique dans ie vide
+(-9) en Nl 0,0, 9 On considère un ensembie de deux charges ponctuelles fixes et (+9) en 2
+Plo,o+2 du référentiel 91(Oxyz) (Figure 1). Les quantités a et 9 sont positives. Un point M dans 2 Fespace esi repéré par ses coordonnées sphériques (r,0,4)
+Concours Mathemnatiqucs et Vhysiquc Scssion Juin 2u09
+Eprcuvc dc Physiquc
+Pagc 1/6
 
+--- page 2 ---
+M
+X
+Pigure ]
+{ Dvuner F'expression du inonlent dipolire j de c doutiei de charges 2- Indiquer, ep le  justifiaant, Jes variobes despace dont  depxadent Jc chars' ct k pototis élcctriques créés par cc dipôle. 3-Ciccr ] 'approximation dipolaire rws ciablir Fexpression du polensicl +(W) au poin{ M. 4- 4-1- En   détiuire les   compcsantes (1,.E,,2,) du cnw Clextrosctique EM) dans ia ba sphérique ka,"1-P 4-2- Montrer qué É(M) Peu: 8e metife "cus la frine : Ë(M) 2 où % es: Wi An; ; facicux funéique à déterminei . 4-3- Déterminer la norme de E(M) 5 5-1- Déterriner 1' équation polaire des surfces équipotentieliss. 5-2- Déterminer 1'équation polaire des lignes je chame 5-3- Représenter leurs allures sur un mémne schotna. 6- Le dipôlc rigide p est rnaintenant plongé cians un champ électrostalique exiéricur unisorine Ë <: 6-1- Déterminer les actions mécaniques suhies pàr ce dipuic 6-2- Déterminer [énergie polenticlle dinteraction UJp du dipole &ves fsexs 6-3- Etudier les pcssibilités j'équilibre du dipôle ainsi que leur stabilité.
+Approche de ['interaction de Wan Der Waals ( VDW) entre dcux molécules
+Le modèle consiste à consijerer ue miolécule polaire de moment dipolaire 7, placéc 2) point 0 et Uie: molécule non polai re, placée au point M ou elle subit le chanp E(M) créé per Eianf pxlrisable; la molécule: non polaire acxuiert un momnent dipolaire induit P, =co Ë où u €8 unie constante . La ferce dinteraction entre les deux molécules dérive de Vénergie potentislle Up =~k'p;E, vùk est un facteur numérique. 7 7-1- Quelie est Funité de % ? 7-2- Numériquement % ~ 10 ?SE. PropûsF: uile signification de % 8- Déterminer qualitativement si k est supérieur, inferieur ou égal à 1. 9- Déterminer, daas la base sphérique; Jes composantes de la force F subie par là moiécule en M. 10-1~ En  realité, la  molécule en 0, iournc   libreneuf sut   elle-mênie. Sachant   que toutes Ie crienfations sont équiprobables; déïermirer les valeus noyennes des cvmposantes de F 1f-2 - Quelle est alo"s   {a   direction   effeciive de la force dinteraction ? Est-elle   attractive répulsive ?
+Concours Mathémaziques et Physique Session Juin 2009
+Epreuve dc Physiquc
+Pagc 2/6
 
+--- page 3 ---
+Rayonnement dipolaire
+Au point 0 se trouve un dipôle oscillant (Figure 2), de moment dipolaire p(t) = Po cos(@t) 4z
+z
+M
+P(t)
+Figurc 2
+Le potentiel vecteur A(M,t) créé par ce dipôle en un point M(r,0,p) s'écrit, en notation complexe jo'~2) A(M,t) = Ho e j@po 1z AT 1l- Déterminer le potentiel scalaire V(M,t). Interpréter le résultat. 12- Donner les expressions des champs électrique E(Mt) et magnétique B(M,t) en fonction des potentiels vecteurs ~(M,t) et scalaire V(Mt)
+Le calcul du champ électrique donne E(M,t) = 2Pocos8 jr@ #4) 4 Po sin € 1+ + (~ (28)44 Ue Aneor Aneor 13- Justifier que cette expression est en accord avec la symétrie du problème étudié. 14- 14-1- Interpréter les différents termes qui apparaissent dans lexpression de E(M,t) . 14-2- Définir la zone  du rayonnement du   dipôle et déduire 1expression du champ électrique rayonné. 15- Sachant que Ponde   rayonnée est localement   plane, déterminer   1expression du   champ magnétique rayonné B(M,t) . 16- Déterminer lexpression du vecteur de Poynting Il(M,t) , ainsi que sa valeur moyenne dans le temps. 17- Montrer que la puissance moyenne rayonnée à travers une sphère de rayon r centrée sur le Pg@ dipôle; s'écrit BR I2T6oc Interpréter le fait que R ne dépend pas de r.
+Diffusion Rayleigh du rayonnement électromagnétique
+On étudie linteraction dune onde électromagnétique plane incidente de champ électrique E =Éo coS (@t kx) avec un milieu diélectrique_linéaire; homogène, isotrope_ et non magnétique (u =po) de faible densité N 1025 atomes.m 43 En labsence du champ électromagnétique; chaque atome 'possède un moment dipolaire électrique nul.
+Concours Mathématiques ct Physiquc Scssion Juin 2009
+Epreuve de Physique
+Page 3/ 6
 
+--- page 4 ---
+On adopte le modèle de lélectron élastiquement lié. Chaque atome comporte un électron mobile non relativiste de masse m, de charge q = ~e et de vecteur déplacement T vérifiant ]'équation différentielle suivante 427+ 037 = ~ EÉo cos(t) , où @ est une constante positive. dt? m 18- Interpréter les différents termes de cette équation différentielle. 19 - Citer les approximations adoptées et les justifier. 20- Etablir ['expression de 7(t) en régime sinusoïdal forcé. 21- En déduire /expression du moment dipolaire induit p(t) . Préciser son amplitude po(@) 22- En déduire la puissance moyenne PR rayonnée par p(t) - 23 - 23-1- Déterminer la puissance moyenne Pi de londe incidente traversant sous incidence normale une surface $. 23-2- En déduire la relation entre PR et Pi. 24- La puissance rayonnée par diffusion correspond à une diminution de Pi lors de la propagation de [onde dans le milieu: On admet que P; varie lentement avec x. 24-1- En faisant un bilan énergétique sur un cylindre de section $ situé entre x et x+dx, montrer que dRx) = B(x) où {c est une grandeur à déterminer. dx { c 24-2- Déterminer lexpression de P; et donner la signification physique de &c. 25- On se place dans le cas où @ << @ (Diffusion Rayleigh) 6ue8m'c @0 25-1- Montrer que @ No'e 25-2- Calculer la valeur de €c pour des ondes électromagnétiques correspondantes aux radiations rouge (AR = 800 nm) et bleue (2B = 400 nm) La longueur d'onde associée à @0 est 10 = 122 nm 25-3- En déduire une interprétation de la couleur bleue du ciel et de la couleur rouge du soleil couchant.
+Rayonnement d'une antenne demi ~ onde
+Lantenne demi onde est couramment utilisée pour produire des ondes électromagnétiques dans Iespace caractérisé par les constantes du vide (eo, Ho). Cette antenne peut être considérée comme une association de dipôles élémentaires: On considère une antenne verticale formée d'une tige métallique rectiligne fine; de longueur 1 L= 2T parcourue par le courant i(z,t) = I cos| Z z |cos(t) 2 où o est une constante (Figure 3)
+Z A
+M
++4 P(z)
+2
+Figure 3
+Concours Mathématiques et Physique Session Juin 2009
+Epreuve de Physlquc
+Page 4 / 6
 
+--- page 5 ---
+Un élénent dc longueur dz parcouru par i(z,t) peut être assimilé à un dipôle élémentaire de mnonient Sp =ôpkz tel q1e -(5p) 5 i(z, t)dz ü z ~ 26- Bn utilisant les résultats de : question 14-, montrer que le champ rayonné au point M par un iipôJe élémentaire, plave #n 0. peut se mettre sous la forme 42 dËo(M4,t) ,F à (6p() sin 0 ko 4180
+{7-Montrer quc Ic déphasage entre le champ dEp(M,t) créé par un dipôle élémentaire placé en P UP # 2) et dÉo(M,t) $'écril approximativement 0 4 = zcos0 € 8-En duluire le chanip élevtrique E(M,t} rayvnné par lantenne demi onde sanpiifier !'expression vouvee cn adnetiant que cos T cos 0 |=0,95.sin? 6 . 2 " Justiliei Je fait que [e champ magnétique rayonné s'écrit : B(M,t) =- E(M;t)u, ~ Donner alors son xpoxsion 0 Dtenniner Vexprssiol du vectelir de Poynting I(M,t) ainsi que sa valeur movenne dans le "nps <n(xt) >  1 Trcc Nallure du diagramie de rayonnement de Fantenne ||<I(M,t)>ll = f(0). Commenter. 2 [Nerminer la puissance maoyenne rayonnée par Fantenne PR à travers une sphère de centre 0 et 0 rayonr . 1 3En dékuict {a résistance dul rayonnement définie par PR = = Raayl? 2 'zay
+#oblenié: 2 : Kayonnement thærmique
+{appeler Ja Jéfinition dun COrfs noir. Rayligh c: Jeaus proposent un modile classique dans lequel lénergie volumique spectrale du rps noir en équilibre à la température T, est donnée par 8rkB T Uv,g v2 Vcst Ja fréquence exprimée en Hertz. 1 - Tzacer Fallure de Uv[J én fonction de y et la comparer à la courbe   expérimentale 'respondante. 2 - En dédnire vt expiication dc l. contradiction appelée historiquement ( catastrophe ultra oleile >.
+L'inierprétation   actuclle  du rayonnement du corps noir en équilibre à la température T, ontre gue son énergie voluiniquë spectrale s'écrit_ u (vT) = gzhv hv ekBT 11 1 Etudier les cas limites de u;(vT) en fonction de v "2- Montrer que ]'énergic volumique totale u obéit à la loi u =a T4 oiuer Fexpression de la constante a et calculer sa valeur numérique: X T:  donne dx 21 15
+1couys Mathématiques et Physique Scssion Juin 2009
+Epreuve de Physique
+Page 5/6
 
+--- page 6 ---
+4- Détcrriner Fexpression de Fénergie voluique spectrale u;(?,T) en fonction de la longuet donde % 5- Etablir la loi de Wien, liant la longueur d'onde Am du maximuni d'érission du corps noir à 3* tempéralure T. On donne l'équation < {5-x) =5 admnet j2 valeir *  *4,97 comnne soluiion 6- Calculer ?  et préciser son donaine spectral daas les deux cas Suface {ertestre & 7 = 300 K. 6- Surfacc du solei} $ T#SSoO K
+O1 adriet; dans la suile; <u, I: soleil pvssede: une forme splriqui: de I.yom K, = 7,0.10f %) et sC comporte cœnmnc UI) coxps nnix <de {rmpéralure T; = SKI}0 K. 9-1- llappeler la loi de Stefan La constasie de Stefon va 9 = 5,67.10* SI. Précisex 8 'nilé -2- Déicrminer la puissance {otale P; rayonnée Pur le soleil & E tleduire: | exppression dc ld puissance: Pt feçue pac Ja teife. Qa ute d la distance moycnnc de l2 ierre au solcil et @tle tayon dc la tefre supposéc sFheris ux: "1v En supposant qie là terie es1 Uo coxns nour de tempecature 'o; rrlmntrer quc '[c "1yR 9-2 Calcujer la valevr de To Csramenter. On donre d ~ L,SJo" m [0- En fsii. la terre €st enlource par }atsncssphère S; Fsui élrt 2ssimile d une couche s7 herque mêre cenbre que la Iere et d'épaissen" 2 tès faible (e 4< R?} L'almospere Je ferpersiure Monei de rlaintenir I fol& unc icuveranurc T; {Efie &e Scrc) Le {odele adopie suppose qu0 L2 terre et  'alrnosphele {ayonseuif cotmnedcs Corp Moirs L'atnozphère ahsorhe ] trctima) & Ju tayonnement solaice er la totelite dv rayoniscneot piovenant de %a texre. La terre absothe l fnctioil ( [-Q) du rvyoueneut solaire et la lollite du ravounesnerd Provcogni de Vatrocsphcre Yers b tente . j2]- Eczifc les équaticns truuluisant les exvilibres rudiatifs pour ['aimosrbere c Pour la Icrte: 10-2- Endédvire F exmwezsion de Tp JokCalculer ja Yaleur tunsriqus Jc %. Dou { # 08;. Cutmenter Je tocdele considéré.
+{i d LEpiue
+Ccncours Miathématiquës e! Physique Session ,uin '2ê0s
+Fprcuve de Physique
+Fagc 6 / 6

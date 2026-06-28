@@ -1,72 +1,87 @@
 --- page 1 ---
-1 
-REPUBLIQUE TUNISIENNE Ministire de FEnsignmcnt Supxricur ct dœ lu Recherche Scientifique
-lssy} Silcey}
-@545;  < EL~s Januid a,alb unn jess Jy 2015 6,8
-Concours Nationux dEntrée aux Cycles de Formation d'Ingénieurs Session 2015
+
+ Z99i{lo! "yses   < Lds Jaaubs 2 BaLji Ujs jji 20156"
+REPUBLIQUE TUNISIENNE Minislire de VEncignment Supricur ctde lu Recherche Scicntifique
+Concours Nationux d Entrée aux Cycles de Formation d Ingenieurs Sessimn 2015
 Concours Technologie Epreuve de Mathématiques
 Date: Lundi 8 Juin 2015
 Heure 8 H
 Durée: 4 heures
-Nb pages: 4
-Une grande importance sera attachée à la rigueur du raisonnement; à la clarté et au soin de la présentation: L'usage des calculatrices n'est pas autorisé. Il est rappelé que tout résultat énoncé dans le texte peut être utilisé pour traiter la suite; même s'il n'a pu être démontré
-Rappels et Notations On désigne par C([O; 1],R) le R-espace vectoriel des fonctions définies et continues sur [0,1] et à valeurs dans R, muni de la norme uniforme définie par Ilf |lo = sup If(t)|: te[0,1]
-* C" ([0, 1], R) le R-espace vectoriel des fonctions de classe C" sur [0, 1] et à valeurs dans R. * f(k) la dérivée k-ème de f € CC([o, 1], R) pour k € N* avec la convention f(o) = f *  la fonction nulle sur [0, 1] * E={f € C ([O,1],R),f(2n) (0) = f(2n) (1) = 0,Vn € N} Pour x ejo, 1 [ on note Gx la fonction définie pour tout t € [0, 1] par
-(1 = x)t si t <x; Gr(t) = { x(1 =t) si X < t.
-(1)
-Pour x = 0 respectivement x = 1), on pose Go = 6 (respectivement G1 = 4).   Pour tout k € N* , on pose   Sk (t) = V2sin(kut) , Vt € [0, 1]   (2)
+Nb pages:
+Une grande importance sera attachée à la rigueur du raisonnement; à la clarté et au soin de la présentation. L'usage des calculatrices n'est pas autorisé. Il est rappelé que tout résultat énoncé dans le texte peut être utilisé pour traiter la suite, même s'il n'a pu être démontré.
+Rappels et Notations On désigne par C([O,1],R) le R-espace vectoriel des fonctions définies et continues sur [0,1] et à valeurs dans R, muni de la norme uniforme définie par
+Ilfllo sup |f(t)| telo,1]
+C([0,1],R) le R-espace vectoriel des fonctions de classe C sur [0, 1] et à valeurs dans R. f(k) la dérivée k-ème de f € C ([O, 1],R) pour k € N* avec la convention f(o) =f.  la fonction nulle sur [0, 1] * E={f € C ([O,1], R),f(2n) (0) = f(2n) (1) = 0,Vn € N} Pour x €jo, 1[ on note Gx la fonction définie pour tout t € [0, 1] par
+(1 = x)t  si t <x; G,(t) = { x(1-0 si x <t.
+Pour x = 0 respectivement X 1), on pose Go = 6 (respectivement G1 = 4).
+Pour tout k € N* on pose
+Sk (t) V2sin(kut ) , Vt € [0, 1].
+(2)
 PARTIE
-1 . Soit x € [0,1]-
-(a) Etudier la continuité et la dérivabilité de Gx en t = x en distinguant les cas : x = 0,x = 1 et x €jo; 1 [
+1. Soit x € [0,1] Etudier la continuité et la dérivabilité de Gx en t = x en distinguant les cas x=0,X =1 et x €Jo, 1 [
 Concours Technologie Session Juin 2015
 Épreuve de Mathématiques
 Page 1/4
 
 --- page 2 ---
-(b) Montrer que Gx € C([o, 1],R)
-(c) Montrer que |lGxllo = x(1 _ x) et en déduire que |Gr|l. < 4 2. Soit f € C([o,1],R) . On pose
-Ufr) = J' G()f()dt, Vx € [0, 1]
-(3)
-(a) Vérifier que
-Vx € [0, 1],
-Up(r) = (1-x) J 'f(t)dt +x f(-tf()dt . (b) Calculer Uf(0) et Uf(1) . (c) Montrer que Uf est de classe Cl sur [0, 1]. (d) Calculer Uf (x) pour tout x € [0,1]. (e) En déduire que Uf est de classe C2 sur [0, 1] et Uf = -f. Montrer que Uf est 1 unique solution sur [0, 1] du problème différentiel
-y' = =f , y(0) = y(1) = 0.
-3 Calculer Uf dans chacun des cas suivants
-(a) f : [0,1] = R;xF e. 1 (b) f : [0,1] - R,x+ 1+x2
-4. Montrer que, pour tout f € E,Uf € E. 5 Montrer que, pour tout (f,g) € (C([o, 1],R))? et (1,u) € R2 , U(f +ug) = JUf + uUg 6 Montrer que, pour tout (p;f) € N* x E, f(2p) €E et U f(2p) = ~f(2p-2) . PARTIEI
-1 
-(a) Montrer que E est un sous-espace vectoriel de C([O, 1],R) . (b) Montrer que 1: 'application
-
-(+) : (f,g) + f(t)g(t)dt
-est un produit scalaire sur C([o, 1],R). On note |-| 1a norme associée au produit scalaire (, ) . (c) Montrer que, pour tout f € C([o; 1],R), Ilfll < Ilfllo. (d) En déduire que si (fn)neN est une suite déléments de C([o; 1], R) qui converge  vers f € C([O,1], R) pour la norme |-|lo, alors elle converge vers f pour la norme | |. 2. Montrer que, pour tout (x,k) € [0, 1] x N* ,
-IlG,ll = (1_x)r et Ilsk l = 1, v3 où Sk est la fonction définie dans (2). 
+(b) Montrer que Gx € C([o, 1],R) (c) Montrer que |lGzllæ = x(1 =x) et en déduire que |lGx|ls 2. Soit f € C([o,1],R). On pose
+Uf(x) = J G)f(o)dt, Vx € [0,1]
+Vérifier que
+Vx € [0, 1];
+Uf(r) = (1-2) J 'f()dt +x J (1-')f(t)dt. (b) Calculer Ur(0) et Uf(1) . (c) Montrer que Uf est de classe C' sur [0,1]. Calculer Uf(x) pour tout x € [0, 1]: (e) En déduire que Uf est de classe C2 sur [0, 1] et Uf = -f . Montrer que Uf est Funique solution sur [0, 1] du problème différentiel
+y' = =f , y(0) = y(I) = 0. 3. Calculer Uf dans chacun des cas suivants
+f : [0,1] = R,xF e. (b) f : [0,1] - R,xF 1+x2 Montrer que, pour tout f € E,Uf € E. 5. Montrer que, pour tout (f,g) € (C([o,1],R))? et (4,u) € R?, U(af +ug) AUf + uUg Montrer que, pour tout (p;f) € N* x E, f(2p) € E et Ufzp) =-f(2p-2) PARTIEII
+Montrer que E est un sous-espace vectoriel de C([O, 1],R) (b) Montrer que 1 'application
+( : (f,g) +
+f(t)g(t)dt
+est un produit scalaire sur C([o,1],R). On note |-|l 1a norme associée au produit scalaire ( , ) . Montrer que, pour tout f € C([0, 1],R) , Ilfll < Ilfllæ. En déduire que si (fn)neN est une suite déléments de C([o, 1],R) qui converge  vers f € C([o, 1], R) pour la norme ||-|lo, alors elle converge vers pour la norme | ||. Montrer que, pour tout (x,k) € [0,1] x N*
+(1 = x)x IlGrIl et Ilskll = 1, V3
+où Sk est la fonction définie dans (2).
 Concours Technologie Session Juin 2015
 Épreuve de Mathématiques
 Page 2/4
 
 --- page 3 ---
-3
-(a) Montrer que, pour tout k € N* , Sk est de classe sur [0, 1]. (b) Montrer que, pour tout n € N, pour tout k € N*
-(2n) Sk '(t) = (~1)" (kr)2"sk(t) , Vt € [0,1]-
-(c) En déduire que Sk € E.
-4 Pour tout (k,f) € N* x C([O; 1],R), on pose ck(f) = (f,sk) . (a) Montrer que, pour tout f € E, |ck(f)l < Ilfll: (b) Montrer que, pour tout (f,n) € Ex N, ck(f(2n+2) ) = ~ (kT)?ck(f(2n) ). (c) En déduire que, pour tout (f;n) € E x N, ck(f(2n) ) = (~1)" (ku)2n ck(f) . (d) Montrer que, pour tout f € E, lim ck(f) = 0 k-++0
-PARTEE LI
-On considère les applications A et 0 définies sur E par
+Montrer que, pour tout k € N* , Sk est de classe sur [0, 1]. (b) Montrer que, pour tout n € N, pour tout k € N* ,
+(2n) Sk ((t) = (~1)"(kz)2nsk(t), Vt € [0,1].
+En déduire que sk € E.
+Pour tout (k,f) € N* x C([o, 1],R), on pose ck(f) (f,sk)  Montrer que, pour tout f € E, |ck(f)l < Ilfll: Montrer que, pour tout (f,n) € Ex N, ck(f(2n+2)) = (kr)?ck(f(2n) En déduire que, pour tout (f ,n) € Ex N, ck(f(2n) ) = (~1)" (kr)2nck(f) Montrer que, pour tout f € E, lim   ck(f) = 0. ka++c
+PARTIE II
+On considère les applications et 0 définies sur E par
 Vf € E,
 A(f) = -f" et o(f) = Uf,
-où Uf est la fonction définie dans (3).
-
-1 . Montrer que 4 et 0 sont des endomorphismes de E
-2.
-(a) Montrer que, pour tout f € E,o(f") = -f . (b) Déterminer les endomorphismes 00A et Aoo. (c) En déduire que 0 est un automorphisme de E et donner son inverse 0-1 3  (a) Montrer que, pour tout (f,g) € E2, (A(f),8) = (f,A(g)) . (b) Vérifier que, pour tout f € E, (A(f)f) 2 0.
-4 Montrer que, pour tout k € N* , la fonction sk est un vecteur propre de A associé à une valeur propre que Pon précisera.
-5 Soit ^ une valeur propre de A et g € E un vecteur propre de A associé à la valeur propre ^.
-(a) Montrer en utilisant 2 (c) et 3.(b) de cette partie, que 1 > 0 (b) Montrer que g est une solution non nulle sur [0, 1] du problème différentiel
-y' +Ay = 0, y(o) = y(I) = 0
+où Uf est la fonction définie dans (3)
+Montrer que 4 et € sont des endomorphismes de E
+Montrer que, pour tout f € E,o(f") = -f . Déterminer les endomorphismes 00A et Aoo. En déduire que € est un automorphisme de E et donner son inverse 0 1 Montrer que, pour tout (f,8) € E2, (A(f),8) = (f,A(g)) . (b) Vérifier que, pour tout f € E, (A(f)f) 2 0. Montrer que, pour tout k € N* , la fonction Sk est un vecteur propre de associé à une valeur propre que Pon précisera
+5. Soit ^ une valeur propre de A et g € E un vecteur propre de associé à la valeur propre 1 (a) Montrer en utilisant 2.(c) et 3.(b) de cette partie; que ^ > 0 (b) Montrer que g est une solution non nulle sur [0, 1] du problème différentiel
+y' + Jy = 0, y(0) = y(1) = 0.
 (c)
-1. Donner la forme de la solution générale sur [0, 1] de /équation différentielle
-y' + Jy = 0.
-ii.  En utilisant les conditions y(0) = y(1) = 0, en 'déduire qu'il existe k € N* tel que 1 = k272 (d) Montrer que lensemble des valeurs propres de A est {k212, k € N*}  ' (e) En déduire que, pour tout k € N*, le sous-espace propre de A associé à la valeur propre k2r2 est la droite vectorielle de E engendrée par la fonction Sk. Déterminer les valeurs propres de 0 et les sous-espaces propres correspondants . (On pourra utiliser 2 (c) de cette partie).
+Donner la forme de la solution générale sur [0, 1] de Téquation différentielle
+y' + 1y = 0.
+ii. En utilisant les conditions y(0) = y(1) = 0, en 'déduire qu'il existe k € N* tel que 1 = k212 Montrer que 1ensemble des valeurs propres de est {k2r2, k €N*} En déduire que, pour tout k € N*, le sous-espace propre de associé à la valeur propre k2r2 est la droite vectorielle de E engendrée par la fonction Sk. Déterminer les valeurs propres de 0 et les sous-espaces propres correspondants. (On pourra utiliser 2.(c) de cette partie) 
 Concours Technologie Session Juin 2015
 Épreuve de Mathématiques
 Page 3/4
+
+--- page 4 ---
+En déduire que, pour tout x € [0,1] et k € N*,
+Sk(x) (Gx; Sk) k212
+En utilisant 3.(a) de cette partie; montrer que la famille (sk)keN+ est orthonormale pour le produit scalaire ( , ) .
+PARTIEIV
+Dans cette partie, on admet le résultat suivant Si f est un élément de C([O, 1], R) vérifiant (f,sk) = 0, Vk € N*, alors f = 0. Pour (x,n) € [0, 1] x N* on désigne par ux,n la fonction définie sur [0, 1] par
+Sn Ux,n (t) Sn (t) , Vt € [0, 1]. 12n2
+Montrer que la série Ux,n converge uniformément sur [0, 1] n21 En déduire que sa somme Hx est un élément de C([o, 1], R) . Sk Montrer que, pour tout k € N* , (Hx,Sk) k212 ii. En déduire que Gx Hx. Déterminer les sommes suivantes
+Loo
+to et 2 (2n+1)2 n2 n=z0 n[
+sin? (nux)
+n
+Pour (x,N) € [0,1] x N* , on pose HxN = 2 Uxn n=1
+Montrer que HxN € C(lo; 1], R) et que la suite (HxN)NeN* converge uniformément sur [0, 1] vers Hx. b) Montrer que IlHxvll < et IlHzll <  En déduire; en utilisant 1.(d) de la partie II, que la suite (IlHxvll2)NeN' converge vers IlH,II? . Montrer que
+Hz() = E462 )+Ë 2 Sn(r)sm (r)sn(t)sm(t) , Vt € [0,1] T4n4 T'n2m2 7 [ 7 [ m = 1 m = n
+En déduire que IlHzH?
+2 n=[ Calculer les sommes suivantes
+sin? (nnx)
+Fo 2(n+1)s et En n0 n=l
+Concours Technologie Session Juin 2015
+Épreuve de Mathématiques
+Page 4/4

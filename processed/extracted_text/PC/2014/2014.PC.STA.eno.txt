@@ -1,9 +1,186 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE
+'6H) #oy-g) JaldI 2dl9 lI r_il ajl;s JLyl g cLdlcjl Lay4<i 9 Jszbjloilli j-JAlis JJj J! 2014 ;2
+Ministère de 1'Enseignement Supérieur; de la Recherche Scientifique et des Technologies de 1Information et de la Communication Concours Nationaux dEntrée aux Cycles de Formation d'Ingénieurs Session 2014
+Concours Mathématiques Physique & Physique Chimie Épreuvc de Sciences et Techniques de ]'Ingénieur
+Datë Venidredi 06 Jain 2014
+Heure : 8 Heires
+Duiréë: 3 Hëutës
+Barémne
+Partc
+{ poiats
+Eatte B : {U points
+Paric C : Fpoints
+L'épreuve conporte trois parties A- Technologie de couception B- Mécanique des solides indéformables C- Automatique
+Le sujet de l'épreuve remis au candidat comporte deux dossiers 1- Présentation; Données et Hypothèses 2- Document Réponses Aucun autre document n'est altorisé L'utilisation des calculatrices de poche non programmables est autorisée Les différentes parties sont indépendantes et doivent être traitées sur le documnent réponses. 1 n'est founi au candidat quun seulet unique dossier documnent réponses > qui doit être rendu en totalité, à la fin de l'épreuve, même sars réponses.
+Er @,cnr 1l né rcste Plus qu0 {Di mor &ni
+Erf Bclka 4 +3
+2
 
+--- page 2 ---
+DOSSIER
+PRESENTATION, DONNEES ET HYPOTHESES
+Ce dossier comporte 8 pages uumérotées de 1 à 8
+Présentation
+Page [ ;
+Dounées et hypothèses Partie A
+Page 2
+Données et hypothèses Partie B
+~Page 2 à 4
+Données et hiypothèses Partie €
+Page 5 à 8 ;
 
+--- page 3 ---
+STI Mathemaniques Phusique & Physique Chimie
+Dossier Présenfafion, Données et Hypothèses
+SYSTIME
+TRAQUBUR DU SOLEIL
+MISE EN SITUATION En plus de leurs impacts négatits SUI Yenvironnement; les   énergies fossiles s'épuisent. Elles doivent êtrë abandonnées progressivement Lavenir   aPPartient sars   le moindre doute; 2LLE énêrgies alternatives renouvelables Parmi toute la divetsité, [énergie solaire fait rêver grand monde Propre; moins aléatoire et plus facile à capter que Yénergie éoliennc; elle durerz autant que durera la planète. Unc attention Particulicre est atticée au solairc thermodynamique Dns ce sccteur Vénergie solaire est trznsformnée ec énergie Figure 1 Centrale thernzodynanque (0" centrale CSP) . électrique à laide de centrales thermodynamiques ou centrales CSP (Conentrate Salar Power : Figure 1)
+La concentraton du cayonnemeit solaire Cenirale à tour permet datteindre localement des températures élevées. Elles perettent de chauffer un fluide caloporteur. La chaleur emmagasinée cst ensuite Bécaptzut converie Cri vecteurS éncrgétiques comne Félectricité;   [hydrogène; ou encore utilisée directement dans des Procédés industriels. Le psncipe de concentration est réalisé Par une centrale CSP dite tour } (figure 2) pour laquelle fe nultitude de miroirs   orientables, 'PPelés héliostats , concenzent Fénergie solaire Keliastats sur unle chaudièrc uniquc sinée SLr une tOIlr. Fizure 2 : Centrale CSP à tour Celz tend possible le réchauffenienc de fluides caloporteurs; en genéral de [huile ou des sels fondus , dans une gammc de température allant de 250 à 2000 C avec un rendement supérieur à 70%.
+Afin daugmenter la productivité, le traqueur solaire Permet dozienter des Panneaux solaires à laide d'un vérin électromécanique (Egure 3). En effet; la positon du soleil varic constamment, la fois   pendant journée, mais aussi pendant les différentes Périodes de Fannée Le craqueu permet ainsi de placer 2ui mieux le panneau par tapPOrt J1 positionnement du soleil. Vérin Etant conné que la disposition des héliostats autour Zlecticingcahique de tout est circulaire; le suivi azimuta] 'est Pas indispensable. On se sazisfait alors de traqucurs mono axiaux. nesure de lavancée de la journée (du matin Figure 3 héliostat avec fjstène de poursuite solaire 1U soir)  chacun de ces traqueurs permet le suivi du soleil seulement en élévation.
+Concours nalionalx d'ertrée tux cycles de formation dingénienrs
+Session 2014
+Page _ 1/$
 
+--- page 4 ---
+StI _ Marhematiques Physique & Phvsique Chirrie
+Dossier Présentation Do"nées et Hypothèses
+PAITIE A ; TECIINOLOGIE DE CONCEPTION
+Cette pactie est dédiée à L'analyse fonctionnelle du mécanisme traqueur du soleil L'étude graphique dune chape du verin représentée par la figure A.l (deuzx vues en perspective)
+Evidement cylindriqu
+Figur: A.1 Vues e" perspective de la chape
+Le travail denandé est explicité dans les Pages 1/18 et 2/18 du dossier document réponses
+PARTIEB : MÉCAVIQUE DES SOLDES EMDÉFORHABLES PRESENTATION L'étdle mécanique pOrte sur le mécanisme czgueur du soleil dans LZC phase d'élévation croissacte. Cê mécanisnz est composé dun panzelu zrticulé Un support vertical. Il es[ mis efl mouveient à Jaide d'un vérin élecrromécanique: L'oscillation de la [ge entre les positions ercrênies (complètemenr sortie et complètement tentrée) permet de varier lélévation du panneau en fonction de celle du soleil dans le ciel (figure B.I)
+Papoeau
+Varn
+Tige du verin
+ctectronccanlie
+Suppot
+Figure B.1 Phase d'élévation crcissante du mécaniste traqujur du soleil
+Concours nationa:x wentrée @"x cycles de forniation d'igénieurs
+Session 2014
+Page - 2/8
+(6907 0r31280708 881088 8aao
 
+--- page 5 ---
+STI Mathemaiiques - Physique & Physique Chimie
+Dossier Prérentaiion, Données ef [{ypothèses
+ScHEMA CINEMATIQUE ET REPERAGE
+0 4
+Figure B.2 Schéma cirématique mirinal .ua mécanist?e
+Figure B.3.a : Mouverent du Figure B.3.b Mowvenent d la Figwre B.3.c : Mowvement &e la Punteat par rapport aw Jupport (0j. bielle (2) par rapport au support (0) vis (4) par rapport 2u JuPpor* (O) Figur? B.3 Oriéttatiot des bases mobiles par rapport à la base liée au support (0) Lz Eigure B.2 représente Le schéma cinématique mininial du mécanisme dorientazon. Les Principaux éléments constituant ce mécanisme sont
+Support (0) auqucl cst lié le repère R (O,7G,Fo, z) supPosé galiléen (fixe ou absolu). Panneau (1), lié au repèrc 8(0,ÆJ,,2 ) , est en liaison pivot daxe (0,7p) avec le support (0). Son mouvcmcnt eSt paramétré par Vangle & = Go,7,)=(Z0,Z ) (Egurc B.3.2) Bielle (2), liée aU repère & (A, 7n, 7z, Z,) , est en liaison pivoc daxe (A, 7 avec le pannezu (1). Son mnouvenent est Patamétré par langle B=GoJz) = (Za,2 ,) (figure B.3.b) Tige du vérin (3) liée 1u repère 3, (B , <0' Yo ZG) , est en liaison glissière daxe (C,?;) avec le support (0). Elle est également en liaison pivot daxe (B,Zv avec la bielle (2). Vis (4), liée 22l repèrc 2,(D,%,,J|, "4) , est en liaison hélicoïdale à droitc daxc (E,Jc avec [a dge (3). Ele est égalemenc en liaison pivot darc (H,Fo) avec le support (0). Son mouvement est Paramétré par l'angle 0 =@,5)=(,.7,) (figure B.3.c)
+Concours nationanx dentyée aux cycles de formution dingeniewys
+Session 2014
+Page 3/8
 
+--- page 6 ---
+StI Maihenatiques Phvsique & Ph"sique Chuie
+Dossier Présentation Dounées et Hrpothèses
+DovNEES ET CARACTERISTIQUES GEOMETRIQUES DU MECANISME
+Les données géométriques du mécanisme sont exprimées Par les relations vectorielles T6-LJ AB = ay2 EB = 65, HE=CB = 1 7 Les variables ^, C, B et € sont les Paramètres du mécanisnie. Les constanles 2, B et L sont des caractéristiques  géométriques du mécanisme. Les  représentations planes des rotations Sont définies dans la Fgure B.3. L'actonneur (non représenté) exerce sur la vis (4) UIl couple motzur 7 =Ca F ;
+L'action  mécanique du Tenc Sur le Panneau {1) es[ représentée Par Egure B.4. Cctte action est caractérisée, en LIl poiat quelconque M, Par la densicé linéique (vent = 1} =9 Fn dvec OM = FF1 où ye [0,2]
+Ex (vent 1)_7 2
+0 5
+Figur: B.4 Réparition liréiq"e de {uction du vent sur le parreau (|)
+HYPOTHESES
+Tout 2u long de Fétude; 01 adopte les hyporhèses suivantes
+La liaison glissière daxe (C,?) entre la tige (3) ec le support (0) est une liaison avec frottement de glissenenc de coefficient " f v Toures les autres liaisons sont supposées pIrfeices L'accélération de l1 pesacteulr est donnée par 8=-g2 Les masses de la biele (2) et de l1 vis sont négligées La dge (3) est de masse Met de centre dierie G} sitlé sur laxe (C;Jn) L'aczon de la pesanteur sur Ia tige (3) esc suppasée  négligeable devanc les autres actions mécaniques Lc torsczi dactons nccaniques transmissibles au uivezll dc l2 liaison; de centre Cij, entre dcux solides et () avec i<j, sécrit (sans tenir compte des degrés de liberté de l2 liaison) X L {T6 ~j}c; Y; M ; N; $ On désigne par {S} @ensemble des solides {S} = {1,2, 3, 4}
+Le travail demandé est explicité dans les Pages 3/18 et 10/18 du dossier document réponses.
+Concours nationaicx t'entrée @tX cycles de formation dingenieurs
+Session 2014
+Page 4/8
 
+--- page 7 ---
+STI Mathematiques Physiquz & Physique Chinie
+Dossier Présentation, Données e{ Hyputhèses
+PARTIE C :AUTOMATIQUE
+PRESENTATION La concentration des rayons solaircs durant la journée est assurée par un disposicif de capration mobile composé dun champ dhéliostats Le rôle de chaque héliostat est de renvoyer le rayonnement Parallèlement à laxe de son paraboloïde (Eigure C.1). La présëntê étude ëst composée de deux parties indépendantes portant suc Fétde jun dispositif daffichage et de lasservissement de lz position angulaire dun héliostac
+Soleil
+Concentrateur
+Montuze
+Réducteur
+Moteur à courant cOnOnLl
+Héliostat Echangeur Fizire C.1 Descriptior &u#e cetsrale solaiz?
+C.1- DISPOSITIF D'AFFICHAGE DE LA POSITION D'UN HELIOSTAT Lc fonctiorcemient de l2 centrale solaire est supeivisé à pertir due sale de contrôle à distnce Ceze approche conduit à visualiser; en temps réel Yoriencaion de [héliostat détectée Par un capteur oprique (Egure C.2).
+XJ
+Are vettical
+Xz
+Motevr réducteur
+Codeur optique
+Xf
+Décodeur
+Xo
+Afficheur 1 7 segments
+Figire C.2 Schevna descriptif du capteur gptique.
+Concours nationalx d'ertrée Qur cycles de formation d'ingenieurs
+Session 20/4
+Page 5/8
 
+--- page 8 ---
+STI _ Mathematiques Physique & Ph"sique Chinie
+Dossier Présentation, Données ex Hypothèses
+C.1.1- Principe du capteur optique Le codeur optique est formé dun disque rotatif couplé à larbre du moteur dencrzinement de la monlure de Théliostat Le disque rotadf (figure C.3). Partagé en dix posidons repérées Par les chiffres (0, 1, 2, 3, 4, 5, 6, 7, 8, 9), compore 4 pistes correspondantes aux 4 bits (x3xzXixo Chaquc Piste son propre systène de lecture (diode émettrice et diode réceptrice) et elle eSt composéc LIIC altcrnance dc zoncs opaques et transparentes La piste centrale correspond au bic du poids le plus fort ec la piste la plus éloignée du ccncre esc celle du poids le plus faible.
+Pour chaque piste Si la zone opaque se Présente devant la diode émettrice la diode réceptrice est éteinte et Permet d'affccrer [écat logique 0 > 2u bic correspondant: Si la zone cransparente se présente devanc l2 diode émettrice; la dode réceptice est allumée et Permet daffectct [étac logiquc < 1 > 2LL bit correspondant
+Posicon du disque
+Xo
+X1
+X2
+X3
+Pistcs
+Figure C3 : Codagë du disque optiq"g.
+C.1.2- Décodeur
+Le décodeur reçoic les 4 bits (x3XzXiXo) ec délivre les sept sortes (1, b, c, d, e,f et g) relltives aux sepc diodes électroluminescenres (appelées LED) jun afficheur à sept segnencs. Cet afficheur permet la visualisation des dix positions du disque rotatif conformémcnt 1u t2bleau de la Eigure C.4
+Concours rationau d'entrée QuLr cycles de fornuatian dingenienrs
+Session 2014
+Page 6/8
 
+--- page 9 ---
+STI _ Mathénariquer Physique & Physique Chimiz
+Dossier Présentafinn, Donées er Hypothèses
+Position
+5
+828i
+Etats des LED de Pafficheur
+Figare C.4 : Afjichages des 10 positio"s Pon ED étinte
+~LED ailumée)
+C.2 - ASSERVISSEMENT DE POSITION DE LA MOVTURE D'UN HELIOSTAT Afin dévaluer Veffet de cottection; niolS allons déterniner les czractéristiques dun asservissement de position de [orentation dela nonture &un hélostic 1vec San1S cortcchon tachynétrique. Lélévation selon laxe vcrtical de lhéliostat est assuréc par Ufl mnotCuE couran: contnil
+C.2.1- Modélisation du moteur Le fonctomement du moteur éleccique utilsé est décrit par les équtions suivantes '(t) = R i(t) + e(t) Cm (t) = Kc i(c) (3) e(t) = Ke @n d@a(2=Cm() dc Ce moteur est caractérisé par les veriables ec les piramètres suivaats
+Liste des variables
+Liste des paramètres
+1(c) Tension de commande du moteuz
+Résistance de Vinduic
+i(t) Courant dinduit
+}
+Inertie globale sur [acbre du moteur
+c(t) Force contre éleccromotrice (Ec.ém)
+Kc Coefficient du couplc moteur
+r(t) Vitesse angulaire de larbre du moteur Cn(t) Couple moteur
+Ke Coefficient de la Éc.ém.
+La transfotmée de Laplace (L) dune fonction {(t) est notée PJr F(P) tel que F(p) C[f(t)] On donne R = 1 S;J = 4 10-6 Kgm' Kc 0.02 Nn/ A Kc 0.,02 V/rad.s !
+Concours rGfiona'x d'entrée aux cycles de formation dingenieters
+Session 2014
+Pege 78
 
+--- page 10 ---
+STI Mathématiaues Physigue & Physique Chimie
+Dossier Présentarion, Données et Fypothèses
+C.2.2- Asservissement de position de la monture de lhéliostat On se propose dasservir la position de l2 monture de [héliostat confomement au schéma représenté p1r l1 Eigure C.4
+ec(P)
+Vc(P)
+e(p) C(P) Corracteur
+U(p) 2u() M(p)
+Organe de consigne
+Amplificateur
+Moteur
+Réducteur de position
+Vn (P)
+Kg
+Gain Dynarno réglable tachymétrique
+Capteur de position
+Figuva C.+ Schéna-bloc d {aservifsenzent de position de la montur: de Fhéliostat
+Oa Prend pour l2 suite G = 0,1 Vzad Kg = 0,1 Vsrad-' 5 = 150.
+Le travail denandé est cxplicité dans Ies pages 11/18 et 18/18 du dossier document réponses.
+Concours nationaix dentrëe QIL cvcles de formiation d'ingenieurs
+Session 2014
+Page 8/8

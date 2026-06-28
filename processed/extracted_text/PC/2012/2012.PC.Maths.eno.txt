@@ -1,4 +1,100 @@
+--- page 1 ---
+a2is') Si2864j1 REPUBLIQUE TUNISIENNE Ministerw c |Enseignennt Supérienr etdæ la WUlsl;sl; Rechench Scienlifque Eya Conzous; Nationaux d'Entréc aux Cycles de Forration 4'EngÉnicurs dvs1ll #ubalt alulltal Session 2012 bmX Jalo_i {ggulimnll 20l 8101 STT0t Fh5ra#ulkt OBLOTHEQUD Concours Physique et Chimie Eunes  @GEAS Epreuve de Mathématiques
+Date: Lundi 4 Juin 2012
+Heure 8 H
+Durée: heures
+Nb pages:
+Barème:   Partie I: 3 pts, Partie II: 1.5 pts; Partie III: 5 pts; Partie IV:7 pts Partie V: 3.5 pts
+Une grande importance sera attachée à la rigueur du raisonnemnent, à la clarté et 211 soin de la présentation.   Lusage des calculatrices n'est pas autorisé Il est rappelé que tout résultat énoncé dans le texte peut être utilisé pour traiter la suite, même s'il n'a pu être démontré
+Rappels et notations: R[X] désigne le R-espace vectoriel des polynômes à coefficients réels. On confondra entre polynôme et fonction polynôme associée. Pour n € N* Rn[X] désigne le R-espace vectoriel des polynômes de R[X] de degré inférieur ou égal à ". Si I est un intervalle de R, C(I,R) désigne le R-espace vectoriel des fonctions définies et continues sur I à valeurs dans R.
+PROBLÈME
+Considérons dans R[X] les deux polynômes suivants: A = ao +œ1X + œ2X? et
+B = 8o + B1X.
+Pour tout P € R[X], on pose:
+SP (P) AP"' + BP'
+PARTIE I
+Montrer que pour tout n € N* S est un endomorphisme de Rn[X] Dans la suite de la partie I on prend = 2
+Concours Physique et Chimie Session Juin 2012
+Épreuve de Mathématiques
+Page 1/5
 
+--- page 2 ---
+Montrer que la matrice M de æ dans la base canonique (1, X, X2) de Rz[X] est:
+70 Bo 200 M = 81 2(œ1 + 8o) 2(02 + 81)
+(b) Vérificr que; si V k € {0, 1, 2} , kaz + B1 # 0, alors M est diagonalisable. 3. Dans cette question; on suppose que Q1 02 = 0 et que B1 # 0
+Vérifier que M est diagonalisable. (b) Donner une base de Rz[X] qui diagonalise M. On prend A = "2(X? 1) et B = Bo + B1X , avec 81 # 0 et 202 + 81 = 0. Montrer que, dans ce cas, M est diagonalisable si et seulement si Bo = 0.
+Soit I un intervalle non vide de R et w une fonction de classe Cl de I à valeurs dans R+ Dans toute la suite du problème; on note H lensemble des fonctions continues sur I à valeurs réelles ; telles que wf2 soit intégrable sur I.
+PARTIE II
+(a) Vérifier que Von a: Væ;y € R (r +v)? < 2(æ2 + y2). (b) Montrer alors que H est un sous-espace vectoriel de C(I,R) 2. Soient f et 9 dans H Montrer que wf .9 est intégrable sur I
+3 On associe à tout couple (f;9) de vecteurs de H le réel:
+< f,9 >= ]u(t)f(t)g(t) d.
+Montrer que ]on délinit ainsi un produit scalaire sur H
+Dans ce qui suit, on munit H du produit scalaire <
+PARTIE III
+Dans cette partie, on considère I =] 1, 1[ w définie sur I par
+w(s)
+A = X2 _ 1
+et
+B = 2X + 1.
+Soit n un entier naturel tel que n > 3
+1. Vérifier que (x2 1)w' (æ) = w(æ), pour tout $ €] _ 1,1[ (a) Déterminer S(Xk) , pour k € {0, n} Écrire la matrice de æ dans la base canonique (1,X,-, X") de Rn[X]
+Concours Physique et Chimie Session Juin 2012
+Épreuve de Mathématiques
+Page 2/5
+1 + I
 
+--- page 3 ---
+Montrer alors que Fensemble des valeurs propres de
+est donné par:
+{Xk = k(k + 1), k € {0,-,n}}
+En déduire que est diagonalisable et que ses sous-espaces propres sont de dimension
+Montrer qu 'i] existe  une unique base (Po,Pi; Pn) de Ra[X] forméc de  vecteurs propres de S , telle que Pk soit unitaire pour tout k € {0, n } Montrer que deg(Pk) = k V k € {0, n} Expliciter Fo Pa et P2.
+Montrer que, pour tout k € N; 2 F  xkw(s) est intégrable sur 1, 1 [ En déduire que R[X] c H. 5. Soit P;Q € R[X] Soit [œ; P] c] 1, 1[ En remarquant que 4 (P) - P' ((X2 1)P') , montrer que:
+4 (P)(t)Q(t)w(t)dt = [(t2 _ 1P' (0) Q(4)(072 _ J (? _ 1)P' (#)Q (#Ju(t)dt  (b) Démontrer alors que:
+#(P),Q >= J; (-t) (1+t)uP()Q(t)d  =<P,Q(Q) > 6. Déduire de ce qui précède que (Po; Pi , Pn est une base orthogonale de Rn[X}
+Dans la suite de ce problème, on admettra que
+dt = v7
+PARTIE IV
+Dans cette partie; on considère I R; définie sur par
+w(æ) = €
+A =1
+et
+B = -2X.
+Pour tout entier naturel n, on définit la fonction Hn par: Væ € R, Hn(z) = =(-~1)"er?  0(n) (æ), où w(n) désigne la dérivée dordre n de w si n > 1 et 6(0) =W. 1. Calculer Ho; H1 et H2.
+2 Montrer que R[X] c H
+Montrer que, Vn € N, V z € RR Hn+(æ) = 2rH(z) Hn (x)  Établir: V n € N* Væ € R, Hn+1(z) = 2Hn(s) - 2nHn-1(2) On pourra utiliser la formule de Leibniz)
+Concours Physique et Chimie Session Juin 2012
+Épreuve de Mathématiques
+Page 3/5
 
+--- page 4 ---
+(b) En déduire que: V n € N* , Væ € R; Hn(s) = 2nHn-1(æ) (a) Montrer, par récurrence sur n € N; que Hn   est UIL polynôme de degré n, dont on précisera le coeflicient dominant  Montrer que, V n € N;, V 2 € R, Hn(-I) = (~1)"Hn(z) Vérifier que, pour tout n € N; Hn est un vecteur propre de S -
+(a) Soit n € N*_ Montrer quc; si P € R[X] alors: lim P(æ)u(n-1) (æ) = lim P()w(n-1) (æ) = 0 1=+0o
+(b) En déduire que
+si n # 0 si n = 0.
+Hn; Ho > =
+A Vaide d'une intégration par partics convenable, montrer que: Vn; m € N* < Hn; Hm >= 2m Hn_1, Hm-1 > _
+Montrer alors que (Hn)n>o est une famille orthogonale dc R[XJ et que pour tout n € N* , (Hk)o<k<n est une base orthogonale de Rn[X] (e) Que vaut Hn, Hn > Montrer que < P, Hk Vn € N* , VP € Rn[X]; P = 2 7 Hk 2k k!v7 k=0
+8. (a) Établir par récurrence:
+V(æ,t) € R?, Vn € N* ,
+Hn (z t)e-(r-t)2
+e-(I-t) Otr
+t . > 2st-t2 (b) i. Soit UIL réel fixé Montrer  sans calcul que la fonction: Iz est développable en séric entière en la variable t, au voisinage de 0. ii En déduire: +co 2æt-t2 Hn(r)tn V(æ, t) € R?, n: Tl=0
+i. Vérifier que + I / > 0? est un élément de H. ii. Montrer que < 4P,In >=< 4, Hn-1 > Vn € N* . iii. Calculer alors sP,Hn >, V n € N. (d) Conclure; par 8 (b), que:
++0o < 4; Hn Vs € R, er =2 Hn(r) 2n .n'v7 n=0
+Concours Physique et Chimie Session Juin 2012
+Épreuve de Mathématiques
+Page 4/5
 
+--- page 5 ---
+PARTIE V
+On désigne par L4(R) Fensemble des fonctions définies sur R à valeurs dans IR, continues et intégrables sur R 1. Soit f € L(R) . Montrer que, pour tout 1 € R; tF eitz 'f(t) est intégrable sur R On définit alors f(z) = eitz f(t)dt; Vr € R
+2 Montrer que, V f,g € L(R) , V À € € : Af +g = AÎ +j. Montrer que est continue et bornée sur R
+Soit f € L(R). On suppose que h: t + tf (t) est intégrable sur RR Montrer que f est de classe Cl sur R. Montrer que i.h
+Soit f € L(R). On suppose que f est de classe Cl sur R et quc f' € L(R) Montrer que Jim f (z) lim f (s) = 0. X=++0 Montrer que 7f')(æ) = ~izf(æ) Vz € RR.
+6. Soit so 1 + e-2 Montrer que 4o vérifie les hypothèses de 3) et 4) de cette partie. Donner une équation différentielle vérifiée par 4o. En déduire que Po vérifie une équation différentielle qu'on précisera. En déduire que Po V2n.4o.
+Pour tout n € N, soit (n : I +$ Hn (x) .e
+(Hn étant défini dans la partie IV ) (a) Donner une relation entre les fonctions (n+l Yn et 4n, pour n € N (b) Montrer que; pour tout n € N; 4n € L(R), # € L(R) et que hn x F xPn (s) est intégrable sur R. (c) En déduire que; pour tout n € N; Pn AnYn, où An est une constante à déterminer .
+Concours Physique et Chimie Session Juin 2012
+Épreuve de Mathématiques
+Page 5/5

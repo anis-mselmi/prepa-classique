@@ -1,3 +1,70 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de [Enseignement Supérieur de la Recherche Scientifque et de la Technologie Koreparhtoie  Concours Nationaux d'Entrée aux (@ieliotheque ) Cycles de Formations d'Ingénieurs Session Juin 2003 Yur etudes aCenf Concours en Technologie Epreuve de Mathématiques
+Durée
+heures
+Date 6 Juin 2003
+Heure 8 H
+Nb pages
+Barème
+Problème 1 10 pts
+Problème 2 10 pts
+Une grande importance sera attachée à la rigueur du raisonnement, à la clarté et soin de la présentation. L'usage des calculatrices n'est pas autorisé Iest rappelé que tout résultat énoncé dans le terte peut être utilisé pour traiter la suite, même 'il n'a pu être démontré
+Problème 1
+1) Soit n € I. On pose pour t 2 0, fn(t) = (cht)n+z Montrer que pour tout n € N; fn est intégrable sur [0; +co[ On pose roo @n = dt (cht)"Fi sa valeur
+2) Calculer ao et a1. Vérifier que la suite {an)neN est décroissante.
+3) a) Etablir, pour n € N et t 2 0 les inégalités 1+"+l0 < (cht)"+1 e(n+1)t
+1/4
 
+--- page 2 ---
+b) En déduire i) Fencedrement @n < n + 1 V2(n + 1) ii) lim Van- n+o0
+Montrer la relation de récurrence entre an et @n+2 suivante
+Vn 2 0 , (n + 2)4n+2 (n + 1)an-
+En déduire sui 'vant la parité de n, lexpression de an.
+100 5) a) Montrer que la série entière @I" a un rayon de convergence R = 1 et qu'elle no converge en I =1 On pose 1o g(z) = 2 @nI" I € [-1,1[ n=0 b) Montrer que 9 vérifie
+(1 12)g (z) Ig(z) = 1 si |r| < 1
+et que
+9(0) 7 Q0-
+6) a) Trouver l'expression sur =1,1[ de 9 à laide de fonctions usuelles.
+1 b) En considérant la fonction h définie par h(z) (g(r)-g(-r)), donner le développement 2 en série entière de (arcsin r)?
+On considère la fonction dune variable réelle définie par
++oo
+dt cht
+f(z) =
+Montrer que f est de classe C% sur ] o, 1[
+b) Prouver que, pour N € N et I €] 0C, 1[ on
+Loo
+dt
+f+oo IN+i cht = I (cht)v+i cht
+@nI" n=0
+dt
+Comparer f(r) et g(z), pour |r| < 1.
+Montrer que 9(~1) = 1.
+2 /4
 
+--- page 3 ---
+Problème 2
+On définit une suite (fn)neN de fonctions polynômes de la façon suivante pour tout nombre réel I, fo(z) = 1 et fi(z) = I
+pour tout nombre entier naturel n non nul et pour tout nombre réel I,
+fn+1(r) = 2rfn(r) fn-1(z)
+Soit M un nombre entier naturel On désigne par Em lensemble constitué des fonctions polynômes de R dans R, à coefficients réels, de degré inférieur ou égal à m.
+Partie 1
+1) Calculer fn (1), pour tout nombre entier n
+2) Montrer que
+Pour tout nombre entier naturel n non nul, fn est une fonction polynôme de degré n, dont le coefficient du terme de plus haut degré est 2"-1
+b) Pour tout nombre entier naturel n et pour tout réel I, fn (~I) = (~1)"fn {r)
+3) Déduire de la question pécédente, suivant la valeur de n, la parité de fn et la valeur de fn(~1)
+Montrer que la famille {fo, f1; 21 fm} est une base de lespace Em-
+Partie 2
+1) Montrer que; pour tout nombre entier naturel n et tout nombre réel 0, fn (cos0) = cos(n8).
+2) Soit n un nombre entier naturel non nul_
+Résoudre; dans lintervalle J0, "[, léquation cos(ne) = 0, dinconnue 0 En déduire les solutions appartenant à Fintervalle ] 1, l[ de léquation fn(z) = 0.
+b) Résoudre; dans R; Véquation f (r) = 0; dinconnue I.
+3 14
 
+--- page 4 ---
+Partie 3
+Soit f un élément de En; tel que f(~1) + 0 et f(l) =0. 1) a) Donner un équivalent de f(t) V1 = t2 quand t tend vers 1 par valeurs inférieures à 1
+b) Montrer que les intégrales f(t) dt et f(t) V1 = t2 dt existent V1 = t2 2)Pour tout nombres entiers naturels p et 9, on pose S6.q) = J 50404 vi - t? Justifer lexistence de S69) - b) Montrer que; pour tout nombres entiers naturels p et 9, S6.9 cos (pe) cos(q0)d9 . En déduire la valeur de S6pa), suivant les valeurs des nombres entiers naturels p et 9. c) Montrer que fo(t) dt = T et que si n est non nul fz (t) v1 = t2 dt = 0 vi = t? 3) a) On sait; d'après; Partie 1 question 4), qu'il existe un unique élément appartenant à R"+1 , tel que (ao, Q1, 2881 @r) nm f = Eafc: n=0 Exprimer f (t) dt en fonction de ao. V1 = t?
+b) Calculer
+#+f++=ldt. v1 = t2
+4 / 4

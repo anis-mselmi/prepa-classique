@@ -1,4 +1,67 @@
+--- page 1 ---
+~Lhiguji {|slgaws gUa Jesl qbel olublil unfi Jlvji Wmiad 20i[ (04)
+REPUBLIQUE TUNISIENNE Ministèrc & [Enxvikncnv'nt Supériur ctdo la Rcehnh Scientilique
+Concous Natianaux d'Entrér aux Cyde de Foradon d'Ingéieurs Sessin 2011
+Concours Mathématiques et Physique Epreuve de Mathématiques II
+Date:  Samedi 18 Juin 2011
+Heure: 8H
+Durée: 3H
+Nbre pages: 5
+Barème: Partie I: A: 4 pts, B: 7 pts; Partie II: A: 4,5 pts, B: 4,5 pts
+La qualité de la rédaction, le soin de la présentation et la rigueur des raisonnements constitueront des éléments importants pour l'appréciation des copies. Il est rappelé que tout résultat énoncé dans le texte peut être utilisé pour traiter la suite, même s'il n'a pu être démontré. L'usage de tout ouvrage de référence et de tout autre matériel électronique est strictement interdit .
+Dans tout le problème K = R ou € Pour n € N' et p € N' on adopte les notations suivantes:
+K[X] Falgèbre des polynômes à coeflicients dans K Mn,p(K) le K-espace vectoriel des matriccs à coefficients dans K ayant n lignes et p colonnes. Lorsquc n = P; Mn,n  (K) est noté plus simplement Mn(K)- In représente la mnatrice identité d'ordre n. Pour A € Mn(K), on note 'A sa matrice transposée. WstiTuT  PAE}AR ; E est un K-espace vectoriel de dimension finie n > 2 'Oire CBuoTHEQUE (e1, en) est une base de Es fncft w Ficils C(E) lespace des endomorphismes de E. idE représente lendomorphisme identité de E. L'image; le noyau; la trace et le polynôme caractéristique de f € C(E) sont respectivement notés Im(f), ker(f), Tr(f) et Ps(t) 2 dét ( f tidE) SP  ' (f) Pensemble des valeurs propres de f dans K. Pour A € SP;5 (f), le sous-espace propre de f associé à X est noté Ex(f) = ker(f = Aidj;) .
+Concours Mathématiquos ct Physique-Session Juin 2011 Éprcuve dc Mathématiqucs II
+1/5
 
+--- page 2 ---
+PARTIE I
+Soient U et v deux endomorphismes de E et soient A = (a;j)1<i.j<n et B = (bij)gij<n leur: matrices respectives dans une base (e1, , en) de E. On définit deux endomorphismes de L(E par Gu(f) = u 0 f et Dv(f) = f 0 v pour tout f € L(E).
+A Etude des endomorphismes Gu, Dv et Gu + Dv
+Dans toute cette partie, on prend K = C. Pour simplifier, on note
+=
+0u;v Gu + Dv : f F + u0 f + f 0 " 1 (a) Montrer que, pour tout R€ C{X] on a R(Gu) = GR(u)  (b) En déduire que R(u) = 0 si et seulement si R(Gu) = 0. (c) Montrer que u est diagonalisable si et seulement si Gu est diagonalisable. 2 Montrer d'une façon analogue que v est diagonalisable si et seulement si Dv est diagonalis- able
+3. Dans cette question; on suppose que u et v sont diagonalisables .
+(a) Montrer que Gu 0 Dv = Dv 0 Gu- (b) Montrer que tout sous-espace propre de Gu est stable par Dv (c) Montrer qu'il existe une base de C(E) formée par des vectcurs propres communs à Gu et Dv. (d) En déduire que @u; est diagonalisable. 4 On suppose que u est diagonalisable. (a) Montrer que v € ker (@u,~u) si et sculement si tout sous-espace propre de " est stable par v (b) En déduire que la dimension de ker(@u,~u) est   égale à la somme des carrées   des dimensions des sous-espaces propres de ". (c) On suppose que u admet T valeurs propres Xl , An  distinctes deux à deux - Pour u € ker '(@u,-u), montrer que 1 pour tout j € {1, n} et pour tout vecteur propre Sj de u associé à Àj, il existe Jj € C tel que væj) = Ljœj. En déduire que v est diagonalisable. ii. il existe R € C[x] tel   quc U ~ R(u)  (On pourra utiliser   les   polynômes d'interpolation de Lagrange associés à {Xl, - An}) -
+B Cas où dim(E) = 2
+On reprend le cas général K = R ou C et on suppose que dim(E) = 2 Soit u un endomorphisme de E qui n'est pas unc homothétie. On se propose d'étudier la diagonalisabilité de " et 0u, ~u selon K = R ou €.
+1 (a) Montrer qu'il existe €1 € E tel que U = (61, u(e1)) est libre. (On notera €2 = u(e1)) 
+Concours Mathématiques et Physiquc-Session Juin 2011 Épreuve de Mathémnatiques II
+2/5
 
+--- page 3 ---
+(b) En déduire que ker(@u,-u) Vect(idE, u)  2 Pour tout (i,j) € {1,2}2, on définit lendomorphisme de E, noté fij , par
+fij(ek) = SjkEi, Vk € {1,2},
+où
+0 si j # k Jjk ={ 2 si j = k Montrer que F = (f1l, f12, f2l, f22) est une base de C(E).
+3 (a) Vérifier que la matrice de u dans la base U est de la forme
+(9 3 )
+(b) Déterminer la matrice de 0u, ~u dans la base F = (f1l, f12, f21, f22) en fonction de y et &. (c) En déduire que Tr(@u,-u) =0 4 Montrer que le polynôme caractéristique de @u; ~U est donné par Pov, -v (t) =t2(t2+ 8) avcc B € K.
+5. Si B = 0, Fendomorphisme Ou, ~u est-il diagonalisable? 6 On suppose que B # 0. Etudier la diagonalisabilité de 0u,~ =26 selon K = R ou K = C.
+7. On suppose que 0u, ~4 est diagonalisable. (a) Vérifier que SPx (@u,-u) = {0,X, -A} où X est un scalaire non nul. Dans la-suite de cette question, w1 (respectivcment w2) désigne un vecteur propre de 'u,~U associé à la valeur propre X (respectivement _À)  (b) i. Vérifier que, pour tout t € K, W1 0 (u - tidE) = (u (t+ A)idE) W1- ii. Montrer que rg(w) = 1, Ir(w) = 0 et w? = 0. Remarquons qu'on a les même résultats pour 12' (c) i. Montrer quc la famille (€1,w1 (ê1)) est une base dc E. ii. Vérifier que la matrice de u dans une telle base est triangulaire inférieure. iii. En déduire que =X Tr(u)+ X Spx (u) ={Iru) 2 2 Que peut-on alors dire de u? (d) 1. Montrer que W1 w2(61) + 0 et w2 0 w1(e1) # 0. ii. Montrer que E = ker(w1) ker (w2) . jii. En déduire une base de E formée par des vecteurs propres de u.
+ncours Mathématiques et Physique-Scssion Juin 2011 Épreuve de Mathématiques II
+3/5
 
+--- page 4 ---
+PARTIE II
+Dans cette deuxième partie, on prend K =R. Le produit scalaire canonique de Mn,1  (R) est défini par (XlY) = tXY pour X,Y € Mn,1 (R); on notera la norme associée par | - | Unc matrice symétrique M € Mn(R) est dite "positive" (respectivement "définie positive") si, pour tout X € Mn,1 (R) , XMX > 0 (respectivement, pOur tout X € Mn,1(R) | {0}, #XMX > 0)
+A
+Etude de 4A dans une structure euclidienne On rappelle que A désigne la matrice de u dans la base (e1, en) de E. Matriciellement , Pendomorphisme @u,;u induit Pendomorphisme de Mn (R) , notée $A, défini par @A : - Mn(R) Mn(R) M F AM + MA 1. Montrer que lapplication ( ') (M,N) F  LIr(M'N) est un produit scalaire sur Mnl (R) 7 On notera |l la norme associée 2. On suppose que A est symétrique. Montrer que $A est un endomorphisme autoadjoint de Fespace euclidien ( Mn(R);6 )) 3 Soit C € Mn (R) une matrice symétrique: Montrer que C est définie positive si et seulement si SPz (C) € R. Dans la suite de cette partie, S € Mn (R) est une matrice symétrique définie positive. 4. Montrer qu'i 'il existe une matrice symétrique définie positive Q € Mn (R) telle que $ = Q2 . 5 En déduire que Fendomorphisme autoadjoint @s est défini positif. 6 Soient œ une valeur proprc de $s et M € Mn(R) un vecteur propre associé. (a) Montrer que, pour tout entier naturel k, Sk M = M(œ In - S)k (b) En déduire que; pour tout R € R[X] R(S)M = MR(œ In - S) (c) 1 Vérifier que MPs(œ In ~ s) = 0 et en déduire que Ja matrice Ps(œ In = S) n'est pas inversible. ii. En déduire qu'il existe ( € SpR(S) tel que (œ = 8) In - S ne soit pas inversible (d) Retrouver le résultat de la question 5- 7. Soit M € Mn(R) Montrer que M est symétrique si et seulement si @s(M) 1cst aussi 8 Soit € = (' 6 ) < mz(R) (a) Montrer que C est définie posit itive si et seulement si 0 > 0 et ac _ b2 > 0. (b) On suppose que C' est symétrique et définie positive et on  considère une matrice MA = ( d avec ) > 0 1 Calculer *c(Mx) ii. Montrer qu'on peut trouver des valeurs de b et À pour lesquelles cette matrice n6 soit pas définie positive.
 
+--- page 5 ---
+B Orthogonalité dans ( Mn(R),(,'))
+Dans cette partie; on suppose que A = (a;;)I<ij<n et B = (bij)1<ij<n sont définies par:
+1 si j = i _ 1 1 si i =l,j =n 0 si non.
+1 si j =i _1 aij ={ 0 si non;
+bij
+1 (a)   Calculer AP_ pour tout p € N. (b) Vérifier que BP = Ap + t(An-P), pour tout entier naturel p < n - 1 et que B" = In.
+2. Montrer que, pour tout entier naturel p € N, BP est une matrice orthogonale. 3 Soient €A et €B les sous-espaces vectoriels de Mn (R) engendrés respectivement par {In,A, AP , } et {In, B, BP }
+(a)   Quelles sont leurs dimensions? (b)  Quelle est leur intersection?
+4 Pour p € N* , la matrice AP est-elle inversible? diagonalisable?
+5 Pour p,9 € {0,1,
+n 9 1} calculer (AP, A') -
+n-p (Indication: on pourra   vérifier que, pour 0 < p < n - 1, on a AP = Eptjsj' où j=1 Ei,j = (dem) € Mn(R) de coefficients tous nul sauf dij = 1)
+6 En déduire une base orthonormée de €A. 7 Montrer que {Ir, B, Bn-1} est une base orthonormée de €B. 8 Pour p,9 € {0,1, n ~ 1} exprimer (AP, B9) en fonction de (Ai, A') ~
+9 On fixe p € {0, n = 1} Pour C € €A, montrer que BP ~ C est dans lorthogonal de €A si et seulement si C = AP
+Concours Mathématiques et Physique-Session Juin 2011 Épreuve de Mathématiques II
+5/5

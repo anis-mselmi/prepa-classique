@@ -1,5 +1,95 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de VEnseignement Supéricur
+Concours Nationaur dEntrée aux Cycles de Formation d'Ingénieurs Session Juin 2001
+Concours Technologie Epreuve de Physique
+ bibll Incque SFaX Deciiifuss ' Nb pages 6
+Date Samedi 09 juin 2001
+Heure 8 H
+Durée 4 H
+Barème
+Partie I 4/20
+Partie II 10/20 Partie III 3/20
+Partie IV 3/20.
+L'usage dune calculatrice (non-programmable) est autorisé Si, au cours de lépreuve; un candidat repère ce qui lui semble être une erreur dénoncé, il le signale sur sa copie et poursuit sa composition en indiquant les raisons des initiatives qu'il est amene prendre.
+L'épreuve est constituée de quatre parties indépendantes; quoique reliées entre elles par le même thème: "interféromètre de Michelson
+LRôle d'une couche métallique en optique Dans cette partie on se propose d'étudier la structure des ondes électromagnétiques à linterface entre lair , assimilé au vide; et une couche métallique; dans le but de préciser la fonction des miroirs et des lames dans le dispositif de Michelson_ Une onde de pulsation @ se propage dans le vide dans la direction tombe sous incidence normale sur le plan (yOz) d'un conducteur métallique de conductivité Y de perméabilité Ho et de permittivité €o, occupant le demi-espace x > 0. R(Oxyz) étant un repère orthonormé dont les vecteurs de base sont U x , u y V : Cette onde qualifiée dincidente donne naissance à une onde réfléchie et à une onde transmise dont le champ électrique E, dans le conducteur s'écrit; en notation complexe i(kt x - @t Ez = Eote U  où Eot et kr sont à priori complexes et le complexe i est tel que ?? = -1. On utilisera la valeur numérique Y =107 SI ; Ho et €o sont les constantes caractéristiques du vide: Ho = AT 10 7 Hm' €o 110-9 F.m"' Ho €oc? = 1 (c = 3.108 m.s') 361
+LL) Questions préliminaires
+I-1.a) Donner l'unité de Y. 1-1.b) Ecrire les équations de Maxwell dans le conducteur défini précédemment. En déduire l'équation locale de conservation de la charge. On désignera respectivement par p et les densités de charge et de courant dans ce conducteur .
+Concours Technologle Sesslon Juln 2001
+Eprcuve dc Physique
+Page 1/6
 
+--- page 2 ---
+I-l.c) En déduire l'équation différentielle vérifiée par la densité de charge p I-l.d) Résoudre léquation de la question   I-1.c, sachant qu'à lorigine des temps et en un point Mdu métal la densité volumique de charge est non nulle p (Mt-0) Po. Montrer que p(Mt) va tendre vers zéro suivant une loi exponentielle avec une constante de temps Quelles sont alors l'expression et la valeur numérique de r ? Commenter le résultat.
+Dans toute la suite; on supposera que le conducteur reste localement neutre (p = 0).
+I-L.e) Pour le champ électrique d'une onde monochromatique dans le domaine visible (0,4 Lm 0,8 pm) montrer qu'on peut   négliger;  dans l'équation de Maxwell-Ampère; dE Yamplitude de la densité de courant de déplacement j D=Eo devant celle de la densité de dt
+courant de conduction = y E
+Dans la suite du problème on suppose cette condition vérifiée 12) Etablir l'équation de propagation vérifiée par le champ électrique Ez dans le métal.  En déduire que la relation de dispersion s'écrit: kt =iploy@ 13) Donner l'expression du champ électrique Ez (x,t) en fonction de Eot, Lo, Y et @ On justifiera qu'une seule des solutions de k  est physiquement acceptable.
+14 Que représente physiquement la partie imaginaire de kz ? Calculer la vitesse de phase. Le milieu est-il dispersif ?
+15) Donner, dans le domaine visible; Iordre de grandeur de la profondeur de pénétration 50 appelée = "épaisseur de peau~ Exprimer k et Ez en fonction de &0. Hoy@ 1g) Dans l'interféromètre de Michelson; on utilise deux miroirs et une lame semi- réfléchissante obtenus   par des dépôts métalliques sur des lames de verre. A partir de la valeur de 60 déterminée précédemment; expliquer comment peut on réaliser un miroir et une lame semi-réfléchissante
+IIL'interféromètre de Michelson
+L'interféromètre de Michelson; utilisé dans la configuration de lame à faces parallèles (figurel), est constitué par une lame semi-réfléchissante Ls (séparatrice), non absorbante et de deux miroirs plans Mp et Mz   perpendiculaires Fun à lautre. La lame Ls est inclinée de 45' par rapport aux normales à M1 et Mz. Linterféromètre est plongé dans l'air dont l'indice sera pris égal à 1_ Dans tout le problème, on ne tient compte ni des inconvénients liés à /épaisseur de la séparatrice Ls (qui seront supposés parfaitement corrigés grâce à une lame compensatrice)  ni déventuels   changements de phase par réflexion. On suppose que la séparatrice Ls est infiniment mince de sorte qu'elle n'intervient que comme diviseur de faisceau et que ses facteurs de réflexion et de transmission en intensité, sont pris égaux à 1/2. Le faisceau   incident, issu dune souICe s étendue, est   monochromatique  de longueur donde ^ = 0,5 um
+Concours Technologie- Session Juln 2001
+Epreuve de Physlque
+Page 2/6
 
+--- page 3 ---
+4.1) On suppose qu'initialement linterféromètre est réglé de façon à ce que les distances I I1 et T I2 soient égales (L, I1 et I2 étant les centres respectifs de Ls, MI et Mz). Le phénomène dinterférence apparaît au voisinage de lincidence normale; dans le plan focal d'une lentille convergente Lz daxe optique Iy et de distance focale f 20 cm I-L.a) Qu'observe-t-on SUr ce plan ? I-Lb) Montrer que les deux ondes qui se superposent dans la direction I F' sont cohérentes et en phase (F" étant le foyer image de la lentille L2). Quelle intensité transportent - elles séparément si on appelle Io Y'intensité de la source $ Donner la valeur de l'intensité lumineuse au point F' en fonction de Io. I-L.c) Pourquoi est-il nécessaire de limiter linclinaison des rayons incidents issus de la source $
+12 partir de la situation où les deux bras sont égaux ( I normalement à son plan; dune distance e = 8 mm.
+IIz) on déplace Mz,
+II-2.a) Etudier le phénomène dinterférence qui apparaît au voisinage de Fincidence normale; dans le plan focal de la lentille Lz. On peut raisonner sur les miroirs M1 (réel) et Mz (virtuel image de Mz par rapport à Ls) I-2.b)   Représenter   les deux rayons (1) et (2) issus dun même rayon incident (caractérisé par langle i) et qui interférent au point P' du plan focal de la lentille Lz Le rayon (1) est obtenu par réflexion sur le miroir M1 et le rayon (2) est obtenu par des réflexions successives sur Mz et sur la séparatrice Ls (figure 1) I-2.c) Calculer la différence de chemin optique entre les deux ondes qui interfèrent au point F' [-2.d) Déterminer la différence de phase entre ces deux ondes ainsi que lordre dinterférence po au centre F' I-2.e) Déterminer ['ordre dinterférence du 5ème anneau  brillant. I-2.f On place sur Pun des bras une lame mince L dépaisseur d =10 Hm et dindice n = 1,5. Trouver la variation de /ordre dinterférence au centre F'
+43) On remplace la source primaire étendue $ par une source ponctuelle S', placée au foyer dune lentille mince convergente L1. partir de la position initiale où les deux bras sont égaux (la lame L étant enlevée) on fait tourner le miroir M1 dun angle a très faible autour de l'axe I1y (figure 22. I- 3.a) Décrire le système de franges   obtenu. Indiquer où se trouve le plan de localisation des franges. I- 3.b) Calculer linterftange i pour a = 6 104 rad. I- 3.c) On forme; avec la lentille convergente Lz de distance focale f' 20 cm une image agrandie du plan des miroirs sur l'écran P situé à la distance p' = 5 m de la lentille Lz Calculer le grandissement de la lentille L2 et déduire la valeur de l'interfrange sur l'écran
+44) L'interféromètre est maintenant   réglé comme à la   question  II-2, mais   la source ponctuelle S' placée au foyer de   la   lentille   convergente Ll, n'est pas   rigoureusement monochromatique.  Un photo-détecteur est placé en F' foyer image de la lentille convergente L2, délivre un courant proportionnel à lintensité Jumineuse mesurée (figure 3 ) La radiation émise par S' est la raie rouge du cadmium de longueur d'onde  centrale 10 = 643,8 nm On peut admettre que l'intensité spectrale I(v) de cette radiation est égale à une constante Io pour une fréquence comprise entre (vo et (vo + 4) et nulle partout ailleurs. Av est la largeur de la raie en fréquence et v est la fréquence centrale de la raie correspondant à la longueur donde 1o A partir de la position initiale; où la différence de marche & en F' est nulle (I1 IIz) on déplace lentement le miroir Mz suivant laxe (Ix) à vitesse constante_
+Concours Technologle Session Juin 2001
+Epreuve de Pbysque
+Pagc 3/6
 
+--- page 4 ---
+I-4-a) Le photo-détecteur, placé en F' permet de mesurer  l'intensité dinterférence I(6). Expliquer   pourquoi   cette  intensité  I(6) s'obtient en faisant  la somme des intensités associées à chaque bande spectrale dv_ 1-4-b) Montrer que la contribution dI de la bande spectrale dv à l'intensité I(8) s'écrit: d = Io + COS 2xvg)dv 2 II-4 -c) Déterminer le facteur de visibilité V en fonction de la différence de marche &, IM Im de Av et de la vitesse de la lumière On donne V= IM étant lintensité dune IM + Im ftrange brillante et Im celle dune firange sombre. 1-4-d) Pour quelle  valeur lc de & ,V s'annule-t-il   pour la première fois ? Ic est appelée longueur de cohérence I-4-e) Calculer Av pour la raie rouge du cadmium si 1= 30 cm Que représente la quantité On rappelle la formule de transformation trigonométrique A - B sin A - sin B = 2sin cos 422) 2
+III- Ailette de refroidissement
+Pour refroidir l'alimentation électrique liée à la source de lumière S, on utilise un radiateur formé d'ailettes.  Chaque ailette est une tige d'aluminium; pleine, de conductivité thermique K; cylindrique d'axe Ox de rayon et de longueur infiniment grande devant (1>> a) (figure 4 ) L'extrémité, 0 de la tige; est   fixée à une pièce   métallique à refroidir, de température To supposée constante (To 100PC) et le reste de lailette est plongé dans Yair ambiant à la température Tex = 20PC. On se place en régime_permanent et on considère que; dans la section droite de la tige dabscisse x la température T(x) est uniforme. Les transferts thermiques dans Yailette se font par conduction selon la loi de Fourier et par conducto-convection sur la surface   latérale  avec une densité de courant thermique vers Yextérieur égale à h (T(x) -Iext) où h désigne un coefficient de transfert thermique constant et T(x) est la température du point de la surface considérée. nL) Ecrire l'expression de la loi de Fourier et exprimer le flux thermique qui traverse une section droite s de la tige d'abscisse en fonction de et de la densité de courant thermique ju(x). 42) En tenant compte du transfert thermique par convection établir le bilan thermique pour une tranche dailette   comprise entre les abscisses et Xtdx En déduire   l'équation Ka différentielle vérifiée par T(x). Par souci de simplification; on posera Xo 2h
+M3) Déterminer la répartition de température T(x) au sein de la tige en supposant que lorsque x tend vers l'infini, T(x) tend vers Ies Représenter graphiquement T en fonction de x Quelle est la signification de Xo ? M4) On suppose que les pertes thermiques par convection pour la pièce métallique et pour la tige; se font avec des densités de courant thermique ayant la même valeur de h.
+Concours Technologe Scssion Juh 2001
+Epreuve de Pbyslque
+Page 46
 
+--- page 5 ---
+Calculer les flux thermiques   sortant  de la pièce métallique à travers une surface   circulaire de rayon a en X = 0 en présence de la tige; puis sans la tige. Comparer ces deux flux et conclure_ Application numérique a = Imm K=238 W.m ! K' h = 8,36 Wm? K'
+IVFiltraqe du siqnal déllvré par le détecteur
+Le détecteur utilisé dans linterféromètre de Michelson convertit le signal optique reçu à la sortie de Yinterféromètre, en un signal électrique. Pour filtrer le signal de sortie du détecteur et le débarrasser des bruits parasites hautes fréquences on place après ce détecteur; foumissant une tension V. (t), une cellule de filtrage représentée sur la_figure 5 On utilisera dans cette partie des grandeurs complexes toute grandeur sinusoïdale V sera représentée par son amplitude complexe associée V telle que V (t) =Re(V_e i) avec: =-1 L'amplificateur opérationnel utilisé est idéal (A-O-I) et fonctionne en régime linéaire.
+WV-I) Déterminer la fonction de transfert H
+' de ce circuit en fonction de x = RCo étant la pulsation du signal sinusoïdal V, (t) 1V2) Donner Yallure du diagramme de Bode en amplitude GæB = 20 loglH] en fonction de log x. On précisera les asymptotes et les points particuliers:
+1V3) Préciser la nature de ce filtre.
+Concours Tcchnolope Scsson Juh 2001
+Epreuve de Physique
+Page 56
 
+--- page 6 ---
+ML
+M1
+Mz
+kMz 450 Iz
+écran P
+Figure
+Figure 2
+M1
+Mz
+pièce To reffroidir
+x+dx
+tige
+Eldétecteur
+Figure 3
+Figure 4
+R
+R
+AOI
+Figure 5
+N
+N'
+Vs(t)
+V(t)
+Concours Tcchnologle - Sesslon Jub 2001
+Eprcuve de Physlque
+Page 6/6
+Mz
+Ier

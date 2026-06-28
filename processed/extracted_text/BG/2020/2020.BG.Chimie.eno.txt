@@ -1,13 +1,165 @@
+--- page 1 ---
+Instructions Cette épreuve comporte 14 pages + 2 pages vides: Tout résultat doit être écrit dans les cadres adéquats: L'usage des calculatrices électroniques de poche non programmables est autorisé Aucun échange entre les candidats n'est autorisé Tout calcul doit être précédé dune expression littérale. Les résultats numériques sans unité ou avec une unité fausse ne seront pas comptabilisés. En cas de besoin utiliser la page vide en fin de cahier. Dans ce cas; il faut le signaler dans la case allouée à la réponse remise en fin de cahier. Si au cours de lépreuve; un candidat repère ce qui lui semble être une erreur dénoncé, il la signale sur sa copie et poursuit sa composition en indiquant les raisons des initiatives qu 'il est amené à prendre.
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 16 PAGES NUMEROTÉES 1 sur 16,2 sur 16, 16 sur 16.
+Concours Biologie et Géologie Chimie inorganique
+Session Juillet 2020 Page 1sur 16
 
+--- page 2 ---
+Épreuve d chimie section BG
+ `
+Notations et données numériques États des constituants physicochimiques 3 (sd) solide (liq) liquide (g) gazeux Lorsque aucune mention n'est spécifiée; les ions sont supposés implicitement en solution aqueuse. Les gaz sont considérés comme parfaits: Notations Lexposant signifie corps pUr . Lexposant signifie standard. Xi la fraction molaire de < i ) dans la phase liquide. Yi la fraction molaire de < i > en phase vapeur. pi pression de vapeur saturante de < i > 4? potentiel chimique du constituant < i > dans la phase 4 ESH électrode standard à hydrogène. Constantes physiques Constante des gaz parfaits R = 8,314 Jmoll K-1 Constante de Faraday F = 96500 Cmoll . Pression standard p 0 =lbar . Concentration standard Ce =1 molL' .  Données numériques Masse molaire de Veau 18 g. moll 1 Températures de vaporisations standard: Te vap (B)=351,4 K Tvep (A)=373,0 K 1   3 ` . . 298 K, Les potentiels chimiques standard Entité Baed) HQai9 H' Hzg 8 (kJ mol-1 -237,2 0 L; RxT ~xLn(x)=0,06xlog1o (x) (en V) F La pression de vapeur saturante de Veau vaut 23,80 mmHg. Conversion : T(K) =0(*C)+273. Unité : [JC-'] = [Volt]
+Page 2 sur 16
 
+--- page 3 ---
+Épreuve & chimie section BG
+Problème : étude des équilibres liquide-vapeur Partie 1 : corps purs A et B 1) Montrer en donnant les hypothèses utilisées que la pression déquilibre entre la phase liquide et la phase vapeur dun corps pur s'écrit sous la forme p 'vap H Ln p R Te8 Où la pression est_exprimée en bar et la température en kelvin
+ ;
+; ; 2) Sur la Fig. 1, on donne la superposition des courbes de vaporisation de deux corps purs A et B. 2,00 1 1,80
+1,60
+1,40
+; 1,20 1,00 1 0,80
+0,60
+0,40
+0.20
+0,00 8 8 ; : ! [ 8 € @ $ 8 ; 0 5 5 [ ; : [ ; ; température Fig.1 : Courbes de vaporisation de deux corps purs A et B
+2aAssocier chacune des courbes (1)et (2)aux corps_purs correspondant A et B. Justifier la réponse;
+Page 3 sur 16
 
+--- page 4 ---
+Épreuu & cfinmie section BG
+2-b) Montrer que Pon peut procéder de deux manières  différentes pour savoir lequel des deux composés est le plus volatil 2 Quel est alors le composé le plus_volatil ?
+2-0) Tracer Tallure de 1a courbe d'analyse thermique lorsqu'on refroidit le corps pur B de la température 375 K jusqu'à la température 339 K à une pression constante p = 1 bar. Indiquer sur chaque branche La nature des phases en présence. La variance F. Préciser sur chaque branche de la courbe et aux points particuliers_les_phénomènes observés:
+8 1
+Partie 2 : Condition déquilibre dun mélange à plusieurs constituants 1) Donner la définition dun système fermé
+2) Donner Texpression de 1a différentielle de Tenthalpie libre pour un système fermé contenant plusieurs constituants dans une_phase @
+5) Donner Texpression de 1a différentielle de Tenthalpie Tibre pour un systeme ouvert contenant plusieurs constituants dans une phase 4.
+Page sur 16
 
+--- page 5 ---
+Éprcvv & chimie section BG
+4) Soit un système fermé contenant plusieurs constituants dans deux phases liquide et vapeur en équilibre. Dans ce système chaque phase est considérée comme ouverte à l'autre puisqu'il y a transfert de la matière. 4-a) Établir 1expression de la différentielle de Penthalpie libre dG de ce système, sachant que son enthalpie libre s'écrit G = Gli9 + Gvap
+4-b) Montrer à partir de Pexpression précédente que la condition déquilibre entre la phase liquide et la phase vapeur conduit à légalité des potentiels chimique klis liq =p; vap (i=L_N)
+1 1
 
+Page 5 sur 16
 
+--- page 6 ---
+Épreuve & chimie section BG
+Partie 3 : système binaire A-B La figure ci-dessous représente le diagramme déquilibre de phases liquide-vapeur du système binaire A-B à la température T = 355 K 0,00 0,10 0,20 0,30 0,40 0,50 0,60 0,70 0,80 0,90 1,00 1,20 1,20 I=355 K
+1,10
+1,10
+1,00
+1,00
+5090 1 0,80
+0,90
+0,80
+0,70
+0,70
+0,60
+0,60
+0,50 0,0 A
+0,50 1,0 B
+0,1
+0,2
+0,3
+0,4 0,5 0,6 fraction molaire
+0,7
+0,8
+0,9
+1 Fig.2 : Diagramme déquilibre liquide-vapeur isotherme du système A-B Les mélanges en phase liquide A-B sont-ils idéaux ou non 2 Justifier la réponse; 1
+2 Que_peut-on dire à propos des interactions intermoléculaires A-Az B-B et A-B2
+3 Les mélanges A-B se font-ils avec absorption ou dégagement de chaleur ? Justifier la réponse;
+4) Établir Pexpression de chacune des courbes suivantes Vaporisation
+Page 6 sur 16
 
+--- page 7 ---
+Éprcvve d chimie section BG
+Rosée
+5) Démontrer qu'à une température donnée, 1a phase vapeur sera plus riche en composé le plus volatil que 1a phase liquide en équilibre. 8 1
+6) À quelle pression commence la vaporisation; dun mélange liquide de fraction molaire XB =0,7 à la température 355 K ?
+7) À quelle pression commence à se liquéfier une vapeur de fraction molaire yB =0,7 à la température 355 K ?
+Page 7 sur 16
 
+--- page 8 ---
+Épreuve d chimie section BG
+8) Un mélange de fraction molaire YB = 0,7 est porté à la pression de 0,92 bar à la température 355 K Déterminer la quantité de matière B transformées en liquide sous la pression 0,92 bar, sachant que le mélange initial contient 20 moles de B.
+Partie 4 : du diagramme isotherme au diagramme isobare Sur la Fig. 3,on donne la superposition de trois diagrammes déquilibre liquide-vapeur isothermes du même système A-B. 0,0 0,1 0,2 0,3 0,4 0,5 0,6 0,7 0,8 0,9 1,0 : 2,00 2,00 1,90 1,90 370 K 1,80 1,80 1 1,70 1,70 1,60 1,60 1,50 1,50 5 1,40 361K 1,40 1,30 1,30 1 1,20 1,20 355 K 1,10 0.09 0,45 0,77 1,10 0,64 1,00 1,00 0,90 0,18 0,88 0,90 0,80 0,80 0,70 0,29 0,70 0,60 0,47 0,60 0,50 0,50 0,0 0,1 0,2 0,3 0,4 0,5 0,6 0,7 0,8 0,9 1,0 A fraction molaire B
+Fig 3 Diagrammes binaires isothermes du système A-B
+1) Comment 'expliquer le décalage vers le haut; des courbes de vaporisation et de rosée lorsque la température augmente 2
+Page 8 sur 16
 
+--- page 9 ---
+Épreuve d chimie section BG
+2) En utilisant des informations de la figure Fig. 3 et éventuellement quelques résultats obtenus dans les parties 1 et 3. 2-a) tracer le plus précisément possible sur la fig. 4, le diagramme déquilibre liquide-vapeur isobare (p = 1 bar) du système A-B. 2-b) Indexer totalement ce diagramme Arépondre sur l fg 4 376 376 p=1 bar 373 373
+370
+370
+367 2 364 | 361 358
+367
+364
+361
+358
+1 1
+355
+355
+352
+352
+349 0,00
+349 1,00
+0,10 0,20 0,30 0,40 0,50 0,60 0,70 0,80 0,90 fractiop molaire
+B
+Fig.4 : Diagramme binaire isobare du système A-B
+3) On procède à une distillation fractionnée dun mélange A-B à 30% molaire en A. Qu'obtient-on comme résidu et comme distillât ?
+Page 9 sur 16
 
+--- page 10 ---
+Éprcuv d chinie section BG
+Problème : tonométrie On s'intéresse à la modification de la pression d'ébullition pour un solvant < S v lorsque on ajoute une faible quantité dun soluté < E và ce solvant liquide. La solution obtenue est considérée comme idéale. Le soluté E v est supposé non volatil ce qui fait que la phase vapeur ne contient que le constituant S(vap) Donner lexpression du potentiel chimique du constituant < S ) dans la phase liquide
+Donner 1expression du potentiel chimique du constituant < S ) dans la phase vapeur
+3)Écrire la condition d'équilibre du solvant < S) entre les deux phases
+4) Déterminer la relation donnant la pression totale, < p >de la vapeur; en équilibre avec le liquide en fonction de la_fraction molaire de < S > dans la phase liquide notée K Xs > 1 1
 
+5) Exprimer la diminution de la pression 8p = Ps = p en fonction de la fraction molaire de < E > dans la phase liquide < XE ) et de la pression de vapeur saturante de < S > notée < ps ) 
+Page 10 sur 16
 
+--- page 11 ---
+Épreuve d chimie section BG
+6) On dissout 6 g d'un composé Ev solide dans 50 g deau à 25 C et on mesure la pression de vapeur au- dessus de la solution; soit p = 23,65 mmHg. Déduire de cette mesure la masse molaire du composé < E >
+8 Problème : thermodynamique des réactions électrochimiques 1) Écrire Fexpression de Penthalpie libre G dun système à plusieurs constituants en fonction de la quantité 1 de matière < ni > et du potentiel chimique ( Hi ) de chaque_constituant < i>
+2) Considérons léquation associée à une réaction chimique quelconque VAA+VBB=vC 2-a) Donner une expression de lavancement 5 de cette réaction
+2-b) Établir lexpression de lenthalpie libre de la réaction 4G en fonction des potentiels chimiques des constituants .
+3) Qu'est-ce qu'une réaction d oxydoréduction ?
+Page 11 sur 16
 
+--- page 12 ---
+Épreuve d chimie section BG
+Schématiser la cellule électrochimique qui permet de déterminer le potentiel délectrode associé au couple Ba2+ IBa(sd)
+5) Écrire les demi-équations rédox qui ont lieu dans chaque demi-cellule puis Péquation bilan (1) de 1a réaction
+8 5-a) Donner les expressions de Penthalpie libre standard de cette réaction. 1 i)en fonction des potentiels chimiques standards:
+ii)en fonction de la force électromotrice standard de la cellule.
+5-b) Calculer les grandeurs standard ( A,He= A,s" et 4,G" ) de cette réaction à 298 K, en utilisant les grandeurs thermodynamiques suivantes À 298 K :
+Entité <i > s8 m,i (Jmol-' K-') A f He m,i (kJ mol-')
+Ba(ed) Ba?+ 62,50 9,62 0 537,6
+H+ 0
+Hz(e 130,70
+0
+' .
+Page 12 sur 16
+
+--- page 13 ---
+Épruue &e chinie section BG
+5-c) Déduire à 298 K la valeur du potentiel chimique_standard de Ba?t
+5-d) Quelle est 1a relation entre la force électromotrice standard de la cellule de la question 4) et le potentiel standard délectrode associé au couple Ba?t [Basa) 2
+5 @ Calculer la valeur du potentiel standard d électrode associé au couple Ba?#IBa
+2 5-1) Donner les expressions de Tenthalpie libre de la réaction (1) : i) en fonction de lenthalpie libre_standard de_la réaction 1 ii) en fonction de la force électromotrice de la cellule.
+5-g) Quelle est la relation entre la force électromotrice de la cellule de la question 4) et le potentiel délectrode associé au couple Ba?t [Ba(sd) 2
+5-h) Établir la relation entre la force électromotrice et la force_électromotrice standard de cette cellule
+Page 13 sur 16
+
+--- page 14 ---
+Éprcuve & cfinie section @G
+5-i) Déduire de la relation précédente 1expression du potentiel délectrode associé au couple Ba?+_ [Ba(sa)
+FIN DE LÉPREUVE
+1 1
+' . . 
+
+Page 14 sur 16

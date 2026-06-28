@@ -1,16 +1,381 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE
+~àis} gbalx?lisws gUlegil Uli ù8 Jls Ul Jsll #byl cjbui 2018;2
+Ministère de lEnseignement Supérieur et de la Recherche Scientifique
+Concours Nationaux dEntrée
+aux Cycles de Formation dIngénieurs Session 2018
+Concours Mathématiques Physique & Physique Chimie
+Épreuve de
+Systèmes Techniques Automatisés
+Date Mardi 05 Juin 2018
+Heure 8.00 H
+Durée 3 Heures
+L'épreuve comporte trois parties
+A- Conception Mécanique B - Mécanique des Solides Indéformables (MSI) C - Automatique
+(03 pts) (09 pts) (08 pts)
+Le sujet de l'épreuve remis au candidat comporte trois dossiers
+1- Mise en situation, Données et Hypothèses 2-Document Réponses 3- Documents Techniques DT-01 & DT-02
+Important : Aucun autre document n'est autorisé Seules les calculatrices de poche non programmables sont autorisées Il n'est fourni au candidat qu'une seule et unique copie du <Dossier document réponses qui doit être rendu en totalité, à la fin de l'épreuve, même sans réponses. Le document réponses doit être rendu en intégralité (aucune feuille ne doit être supprimée). Cet acte est considéré comme étant une tentative de fraude.
 
+--- page 2 ---
+Dossier
+Mise en situation; Données et Hypothèses
+Ce dossier comporte 13 pages numérotées de 1à 13 et deux documents techniques DT-01 & DT-02
+Mise en situation
+Page 1à3
+Documents techniques
+DT-01 & DT-02
+Données et hypothèses
+Page 4 à 13
+Conception Mécanique
+Page 4
+Mécanique des Solides Indéformables (M.SI)
+Page 5 à 7
+Automatique
+Page 8à 13
 
+--- page 3 ---
+Concours MP-PC Épreuve STA
+Mise en situation, Données & Hypothèses
+ÉTUDE D'UNE LIGNE DE REMPLISSAGE ET DE BOUCHAGE DE BOUTEILLES
+1- Mise en situation Le système proposé à létude représente une chaîne de conditionnement de produits liquides est constitué, comme l'illustre le document technique DT-01, de trois unités ayant pour fonctions respectives le stockage et Valimentation en produit,  le remplissage du produit dans des bouteilles et le bouchage des bouteilles . La première unité (Unité I) comporte la cuve de stockage; lélectrovanne A, la vanne B et un ensemble de tubes assurant le transfert du produit vers lunité de remplissage (Unité II) .
+Les éléments constituants lunité II sont principalement
+Un convoyeur linéaire (CLI) formé par le tapis (T1) entrainé en mouvement par Tintermédiaire du motoréducteur (MI). Il assure le transfert des bouteilles remplies vers lunité de bouchage (Unité III) , Un dispositif de remplissage formé de 4 buses Un ensemble composé de 4 vérins V1, V2, V3 et V4, assurant le mouvement d'approche des buses ainsi que le maintien en position des bouteilles durant la phase de remplissage.
+L'unité III est formée des éléments suivants
+Un convoyeur linéaire (CL2) formé du tapis (T2) qui est entrainé en mouvement par Fintermédiaire du motoréducteur (M2). Il assure l'évacuation des bouteilles bouchées , Un ensemble constitué dun magasin de stockage de bouchons, d'une goulotte et d'un mécanisme de pose de bouchons, Un mécanisme de transfert des   bouteilles, formé d'un motoréducteur (M3), d'un mécanisme à croix de Malte solidaire d'une étoile de transfert (DT-02) , Un dispositif   pneumatique formé   principalement par le vérin V5 équipé dun moteur (M5) ayant pour rôle le vissage des bouchons 2. Fonctionnement du système Le convoyeur linéaire d'alimentation (CLI) emmène les bouteilles au poste de remplissage. Les vérins V1, V2 etV3 actionnent un dispositif pour bloquer les bouteilles; en position face aux buses d'injection du produit. Le vérin V4 assure le mouvement d'approche des buses d'injection vers les cols des bouteilles.
+Après remplissage, les bouteilles sont guidées vers l'étoile de transfert, celle-ci est liée à un mécanisme à croix de Malte composé, comme ]' T'indique les Figures 1 et 2,du maneton (1),du galet (3)etdelensemble (2) (croix de Malte + étoile de transfert) . Le maneton (1), mis en mouvement par un motoréducteur à courant continu, est en rotation autour de l'axe vertical et entraîne dans son mouvement le galet (3). Au cours d'un tour du maneton (1), le galet (3) s'engage dans une rainure de la croix de Malte (ensemble (2)) puis s'en dégage comme le montre la Figure 3. L'ensemble (2) est donc entraîné en rotation autour de son axe de façon intermittente par le maneton (1).
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 1 | 13
 
+--- page 4 ---
+Concours MP-PC Épreuve STA
+Mise en situation, Données & Hypothèses
+Dans son mouvement; Yensemble (2) entraîne l'étoile de transfert, la bouteille (Bti) est alors amenée par la rainure (j), sous le système de pose de bouchon: La bouteille (Bti+1) prend place dans la rainure (j + 1). Dans son mouvement vers le poste de bouchage, le bouchon est posé sur le col de la bouteille (Bti) via une languette élastique assurant sa stabilité. Sous la tête de bouchage, la bouteille est immédiatement bloquée par le vérin de serrage (V5). Lorsque le bouchon est vissé, le maneton (1) entraîne à nouveau l'ensemble (2), la bouteille (Bti) est dirigée vers Févacuation par le convoyeur linéaire (CL2) et la bouteille (Bti+1) est conduite à son tour sous la tête de vissage.
+Etoile
+transfert
+Table
+Croix de Malte
+Maneton
+Motoréducteur
+Figure 1- Mécanisme de guidage et de transfert de bouteilles de Funité III
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 2 | 13
 
+--- page 5 ---
+Concours MP-PC Épreuve ST.A
+Mise en situation, Données & Hypothèses
+Maneton (1)
+Etoile de transfert
+Galet (3)
+MMotoréducteur
+Croix de Malte (Ensemble (2)2
+Figure 2-Schéma de principe du mécanisme de croix de Malte
+Maneton (12
+Ensemble (22
+Galet (3)
+Ensemble (2
+Maneton
+Galet (32
+Figure 3-
+Maneton en position d'engagement; (b) Maneton en position de dégagement
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 3 | 13
 
+--- page 6 ---
+Concours MP-PC Épreuve STA
+Conception Mécanique Mise en situation; Données & Hypothèses
+Partie A : Conception Mécanique Cette partie comporte Tanalyse fonctionnelle de la ligne de remplissage et de bouchage de bouteilles, Yanalyse technique du mécanisme d'entraînement de Yétoile de transfert illustré par le schéma cinématique de la Figure 4 et du Document Technique DT-02
+49)
+(0)
+Moteur à courant continu
+As
+05
+Az
+A4 A3
+Xo
+Figure 4 Schéma cinématique du motoréducteur M3 (Mécanisme d'entraînement de létoile de transfert)
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 4 | 13
 
+--- page 7 ---
+Concours MP-PC Épreuve STA
+MSI
+Mise en situation, Données & Hypothèses
+Partie B Mécanique des Solides Indéformables (MSI)
+Dans cette partie, on s'intéresse à Vétude mécanique du sous-système formé du maneton (1), de Iensemble (2) et du galet (3). Ce mécanisme permet de transformer le mouvement de rotation continu du maneton (1), à vitesse angulaire constante @, en un mouvement intermittent de Vétoile de transfert via la croix de Malte qui lui est solidaire. La Figure 2 illustre Yemplacement du mécanisme par rapport au motoréducteur à courant continu: La Figure 5 schématise le principe de fonctionnement du mécanisme d'entrainement de létoile de transfert. La Figure 6 présente le schéma cinématique minimal de ce mécanisme
+Ensemble (2
+Maneton
+Galet (3
+9 >
+Bâti (0)
+Figure 5- Schéma de principe du maneton et de la croix de Malte
+AJz
+Zo
+>70
+Bâti (0)
+Figure 6- Schéma cinématique minimal du mécanisme de la croix de Malte
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 5 | 13
 
+--- page 8 ---
+Concours MP-PC Épreuve ST.A
+MSI
+Mise en situation, Données & Hypothèses
+B.1- Repères et paramètres
+Repères
+Ro(O,7o Jo, Zo): Repère   lié au bâti (0), est pris pour un repère   galiléen avec (0,70) comme axe vertical ascendant, R1(O,x1]1, 71): Repère lié au maneton (1), Rz(B,72,J2, 72): Repère lié à lensemble (2),
+Avec 70 = Z1 = Z2 et OB Dxo (D est une constante dimensionnelle du mécanisme)
+Paramètres géométriques
+Les paramètres du mécanisme se présentent comme suit
+La rotation du maneton (1) autour de laxe (0,Z0 est représentée par V'angle 0,il est tel que 0 = (xo,71) = (yo y1) La rotation de lensemble (2) autour de laxe (B,20 est représentée par V'angle B , il est tel que : B = (x0,72) = (Jo }z) La position du centre A du galet (3) est définie par les vecteurs
+OA R1*1 et AB = À2, (1 est variable)
+où R1 est une dimension constante liée au maneton et & la distance séparant le centre A du galet (3), du point B_
+B.2- Données relatives à létude dynamique et énergétique Caractéristiques dinertie
+L'ensemble (2) formé par la croix de Malte et l'étoile de transfert admet pour
+masse m2
+centre d'inertie G2 avec BG2 = T2X2 + hzo
+Az ~E2 Az ~Ez Cz (B,72,J2,72)
+matrice d'inertie au point
+[I2]B
+Efforts appliqués à Yensemble (2)
+Le galet (3), de masse supposée négligeable; est un composant intermédiaire entre le maneton (1) et Yensemble (2). Son rôle consiste à réduire les frottements au niveau de son contact en avec la croix de Malte (ensemble (2))
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 6 | 13
 
+--- page 9 ---
+Concours MP-PC Épreuve ST.A
+MSI
+Mise en situation, Données & Hypothèses
+En fonctionnement normal, cet ensemble est soumis aux actions mécaniques suivantes
+poids propre de l'ensemble (2) (accélération de la pesanteur g 920) action du bâti (0) au point B transmise par la liaison pivot d'axe (B,z0) supposée parfaite, couple résistant représentant les frottements des bouteilles appuyées sur la table; il est modélisé par : Cf Cf70 avec Cf > 0, action ponctuelle du galet (3) au point I :F1 FLgz avec F, > 0 et Ai = r3]z où r3 est le rayon du galet.
+Données relatives à l'étude énergétique Le motoréducteur (M3), schématisé par la Figure 4, est formé dun réducteur et dun moteur à courant continu. entrée du   réducteur , le moteur développe; à   vitesse de rotation constante @ Wm7o, un couple Cm Cmo-
+Compte tenu du faible diamètre du galet (3) le point de contact / de lensemble (2) avec le galet (3) sera supposé confondu avec le centre A du galet. Le réducteur est caractérisé par son rendement nr et son rapport de réduction Pr défini par Pr Wm
+On se propose de déterminer le couple moteur Cm nécessaire à lentrainement de lensemble (2) , dans son mouvement par rapport au bâti (0).
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2018
+Page 7 | 13
 
+--- page 10 ---
+Concours MP-PC
+Épreuve STA
+Automatique
+Mise en situation, Données & Hypothèses
+Partie C Automatique
+L'objet de cette partie est létude de Vautomatisation du système d'embouteillage constitué de trois unités comme le montre le document technique DT-01.
+C-1. Étude séquentielle de Yunité de remplissage des bouteilles
+Cette unité, présentée par la Figure 7, permet de remplir des bouteilles par lot de quatre qui seront ensuite déplacées devant l'unité III afin de les boucher.
+V4
+Arrivée du liquide
+Buse B4
+Buse BI
+Tapis TI
+TI arrivée des bouteilles
+V3
+VI
+Figure 7- Unité de remplissage (Unité II)
+Description du fonctionnement de lunité de remplissage
+action sur un commutateur à deux positions (Marche /Arrêt) , sur la position marche m > met le tapis T1 en fonctionnement par action du moteur MI Ce tapis T1 permet damener les bouteilles vides devant le poste de remplissage (T1 restera en fonctionnement tant que larrêt du système n'est pas demandé). Dès qu'une bouteille arrive devant la buse B1, détectée par un capteur b1, la tige du vérin V1 sort bloquant ainsi le passage des bouteilles (@11 1). Lorsque quatre bouteilles sont présentes devant les quatre buses de remplissage; un signal S1 autorise la sortie de la tige du vérin V2 pour assurer le maintien des bouteilles lors du remplissage; actionnant ainsi le capteur a21 (@21 =1) qui, àson tour, autorise le vérin V4 pour faire descendre les quatre buses (a41 1) pendant cinq secondes (temps nécessaire pour le remplissage des bouteilles) . Lorsque les cinq secondes sont écoulées, on aura la montée de la tige du vérin V4 (a40 1), ensuite la rentrée de la tige du vérin V2 (a20 = 1), suivie par la rentrée de la tige du vérin V1 (a10 1) autorisant l'évacuation les bouteilles remplies et la sortie de la tige du vérin V3 (a31 1) bloquant lavancement des bouteilles vides jusqu'à ce que les quatre bouteilles remplies soient évacuées. Un signal S2 indiquant l'évacuation des quatre bouteilles, commande
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 8 | 13
 
+--- page 11 ---
+Concours MP-PC
+Épreuve ST.A
+Automatique
+Mise en situation, Données & Hypothèses
+la rentrée de la tige du vérin V3 (a30 = 1) autorisant ainsi un nouveau cycle de remplissage si Parrêt de lunité n'est pas demandé. L'action sur la position arrêt < Ar >, du commutateur à deux positions (Marche /Arrêt) , permet darrêter le système lorsque le cycle de remplissage est terminé _
+Le Tableau-1 résume les différentes abréviations à utiliser dans la présente partie
+Tableau -1 Abréviations adoptées pour lunité étudiée
+Abréviation
+Description
+m (Ar)
+Commutateur à 2 positions marche (Arrêt)
+Présence bouteille devant la Buse B1
+S1
+Signal de commande de la sortie de la tige du vérin V2
+S2
+Signal de commande de la rentrée de la tige du vérin V3
+a10 (resp. a11)
+Présence en position limite rentrée (resp. sortie) du vérin V1
+a20 (resp. a21)
+Présence en position limite rentrée (resp. sortie) du vérin V2
+a30 (resp. a31)
+Présence en position limite rentrée (resp. sortie) du vérin V3
+a40 (resp. a41)
+Présence en position limite rentrée (resp. sortie) du vérin V4
+V1
+Vérin à double effet pour bloquer les bouteilles avant le remplissage
+V2
+Vérin à double effet pour maintenir les bouteilles pendant le remplissage Vérin à double effet pour bloquer les bouteilles vides lors de l'évacuation des bouteilles remplies
+V3
+V4
+Vérin à double effet permettant le mouvement d'approche des buses de remplissage
+KMI
+Contacteur moteur du tapis T1
+NB : Pour lactivation dun actionneur bistable Vn, on utilise la notation Vn: = 1 Pour la désactivation dun actionneur bistable Vn, on utilise la notation Vn =0
+C-2. Étude du circuit combinatoire générant les signaux S1 et S2 L'objectif de cette partie est létude dun circuit combinatoire permettant de générer les deux signaux S1 et S2 comme lillustre la Figure &.
+b1 b2 b3 b4
+S1
+Circuit
+combinatoire
+S2
+Figure 8- Schéma synoptique du circuit gérant les signaux S1 et S2
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 9 | 13
 
+--- page 12 ---
+Concours MP-PC
+Épreuve ST.A
+Automatique
+Mise en situation Données & Hypothèses
+Principe de fonctionnement
+Afin de s'assurer que les quatre bouteilles soient en position de remplissage S1 =1, de même pour s'assurer de lévacuation de ces bouteilles après remplissage S2 =1 on a placé quatre capteurs (b4,b3, b2 et b1) qui permettent de détecter le passage ou la présence de bouteille respectivement devant les buses B4, B3, B2 et B1.
+Le signal S1 prend la valeur 1 si et seulement si les quatre bouteilles sont présentes en position de remplissage (lors de leur arrivée, la distance entre les bouteilles est aléatoire) .
+Le signal S2 prend la valeur 1 si et seulement si les quatre bouteilles sont évacuées de lunité de remplissage (pendant l'évacuation, les bouteilles sont forcément équidistantes)
+C-3. Régulation du niveau du liquide dans la cuve de stockage alimentant les bouteilles On considère la régulation automatique du niveau du liquide dans une cuve de stockage, de section $ = 0.5 m2 schématisée par la Figure 9
+Electrovanne
+Capteur Ultrason
+q1 (t)
+Vs (t)
+01 (t)
+Réducteurhl (r)
+hs(t)
+Om (t)
+q2 (t )
+Vanne
+Eo
+Pc
+A1
+hc (t)
+u(t)
+Vc (t)l Amplificateur
+Figure 9- Schéma de lasservissement
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 10 | 13
 
+--- page 13 ---
+Concours MP-PC
+Épreuve STA
+Automatique
+Mise en situation, Données & Hypothèses
+Modélisation de la chaîne dasservissement
+Le débit q1 (m3 /s) est réglé par une électrovanne A motorisée il est proportionnel à Vangle 01 (rad) d'ouverture de cette électrovanne
+q1 (t) = k1. 01 (t) avec k1 0.1 m3 / (s.rad)
+92 représente le débit de sortie lié à Yutilisation du liquide de la cuve de stockage, commandée manuellement par la vanne B.
+Le moteur M) est  alimenté par une tension u(t), créée par un comparateur suivi dun amplificateur de gain A1
+u(t) = A1[vc(t) = vs(t)], A1 > 0
+2)
+Le moteur (M) tourne à la vitesse Wm, son modèle (entrée tension; sortie vitesse) est un premier ordre de fonction de transfert Tm(p) ayant un gain statique Km et une constante de temps Tm; la position angulaire de son arbre est €m(t) Les courbes de Bode caractérisant la fonction harmonique Tm(jw) du moteur sont représentées par la Figure 10.
+@ 1 5
+1 # 2
+(rad /s)
+Figure 10- Courbes de Bode caractérisant la fonction Tm(jw)
+Le moteur (M) ouvre ou ferme Félectrovanne A par lintermédiaire dun réducteur (r).
+81 (t) rem(t) avec r 20
+Le potentiomètre  dentrée Pc délivre  une tension v(t) proportionnelle au niveau de consigne hc(t) demandé
+Vc (t) kchc(t) avec kc 20 V /m
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+'Page 11 | 13
 
+--- page 14 ---
+Concours MP-PC
+Épreuve STA
+Automatique
+Mise en situation; Données & Hypothèses
+Le capteur ultrason mesure le niveau hs (t) dans la cuve de stockage. Il délivre une tension vs(t) proportionnelle à hs(t)obéissant à la loi suivante
+vs(t) kshs (t)
+On prendra ks kc
+Les fonctions de transfert de la cuve de stockage sont
+Hs(p) Hs(p) et Q1 (p) S.p Q2 (p) S.p
+L'asservissement de la Figure 9 peut être représenté par le schéma fonctionnel de la Figure 11.
+Cuve de stockage
+Q2 (p)
+Hs (p)
+Gv (p
+U(p)
+Qm (p) 0m (p) 01 (p) Q1 (p)
+Hc (p)
+Vs (p)
+G1u (p)
+G2 (p)
+G; (p)
+G, (p
+Gs (p)
+G6 (p
+G -
+G,
+Figure 11- Schéma fonctionnel de lasservissement à étudier
+Amélioration des performances de la chaîne dasservissement
+La régulation par une simple boucle ne permet pas de garantir la stabilité du système. Par conséquent; on propose d'utiliser une structure en cascade (Figure 12) comportant deux boucles imbriquées. Une boucle interne qui contrôle l'ouverture de lélectrovanne Aet une boucle externe de régulation de niveau hs(t) dans la cuve de stockage. On mesure avec un autre potentiomètre la position de l'électrovanne celui-ci délivre une tension Vm (t) telle que vm(t) = b.81 (t) avec b = 20 V/rad le signal de commande est élaboré grâce un comparateur et un amplificateur de gain Az
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 12 | 13
+Vc (p)
 
+--- page 15 ---
+Concours MP-PC
+Épreuve ST.A
+Automatique
+Mise en situation Données & Hypothèses
+Electrovanne
+Capteur Ultrason
+q1 (t )
+Vs (t )
+01 (t)
+Réducteur HI (r)
+hs (t)
+92 (t)
+Vanne
+0m (t)
+Vn (t)
+Eo
+M
+A2
+P
+A1
+hc (t)
+u(t)
+U; (t) Amplificateur
+Vc (t) Amplificateur
+Figure 12- Schéma du nouveau asservissement
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 13 | 13
 
+--- page 16 ---
+1 :
+8 f
+1 1 1
+{
+1 1
+f
+@
+;
+;
+{
+1
+; 5 <
+=
+{
+5 f 1 1
+5 <
+1
+1 1 1 1 2 1 8 1 { : 2 [ 8 5 ; ; 8 1 Il 1 8 8 9 1! 8 1 1 ikl : 7 1e G Lil 3 g 8 ; ; 1 4
+17 1 [ 1 1
+1 1 g
+{ 5 1 9
 
+--- page 17 ---
+; 1 1 g 1 ( 1 8 2 1 1 1 à 8 [ 5 1 ; 1 0 Il 8 { ill 1 Lil 8 8 8 |
+; El: 6 1 EFFFEE 2 9 2 -l:l; 8 8 2 IF 8 8 1 5 HHi 1 1 1 ; 8 1 1 EFI 5 5 7
+5

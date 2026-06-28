@@ -1,7 +1,106 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère dc I'Enscignement Supérieur
+9;@84) {22Éy) "krylosis Uuuu ai Onnitj @ufjyu 2005 {9
+Concours netionaur dentrée aux cycles de {ormation d'ipgénicurs Session 2005
+Prewakatoire STITUr CbuoTHEQUE ) SYx AU QUDes Wingenrus 5 Concours en Matbématiques et Physique Epreuve de Physique
+Date : Lundi 13 juin 2005
+Hcure : 8 H 00
+Durée : 4 H
+Nb pagcs : 8
+Barème : Probleme I: 10 pts (A :35,B:3.5,C: 3); Problème 2: 10 pts (A:4,B:4,C:2)
+L'usage d'une calculatrice non programmable est autorisé
+L'épreuve comporte dcux problèmes   indépendants. Chaque   probleme comporte des parties indépendantes. Le candidat peut les résoudre dans l'ordre qui lui convient en respectant néanmoins la numérotation des qucstions.
+PROBLEME 1: Diffraction et interférence lumineuses
+L'espace est rapporté à un rcpère (Oxyz) de base orthononée directe ( ", ,4,,4,) L 'amplitude complexe diffiractée en un point M supposé à [infini par une ouverture plane de surface Eet de facteur de transmission t(P) éclairéc par une onde plane est donnée par
+{M) =a 8 J Jz tP)expl(k, -6).<F]dz où dZ rprésente la surface élémentaire cntourant un point P de louverturc, k et ka lcs vectcurs donde associés rcspectivement à /'onde incidente et à l'onde difffractée: @ est une constantc et 50 est 1 'amplitude complexe de ['onde incidente. L'origine des phases est prise au point Ode louverture L'intensité lumineuse [ est définie par la relation I=9st où $ désigne le complexe conjugué dc ! On rappelle que la fonction sinus cardinal sindu) est définie par sinc(u) = 8in62 u
+Concours en Mathematlqucs €t Pbysiquc
+Scsskou Jutn 2005
+Epreuve de Phyulque Page 1/8
 
+--- page 2 ---
+A- Diffraction par une fente
+Une onde lumineuse plane monochromatique de longueur d'onde 1 arrive sous incidence normale sur un écran opaque X (Eo) contenant une fente, centrée sur 0,  parfaitement transparente de largeur a parallèlement à (Ox) et de longueur b parallèlement à (Oy) avec b >> a (Figure ] ) M L'observation se fait sur un écran (E) placé au plan focal æF image d'une lentille convergente L de distance focale f et de ~ Z foyer image F' 1.a) Représenter soigneusement le cheminement de la lumière jusqu'au point Mde (E) 1.b) Représenter la figure de diffraction observée sur (E) en faisant apparaître les axes ( F'X) et ( F'Y) puis la décrire_ (Eo) L L.c) Montrer que lexpression de lintensité diffractée en un Figure 1 point M de (E) s'écrit sous la forme I(M) Io sinc 1v TaX avec u = où X représente ]abscisse du point Msur /axe (FX) 1f 1.d) Représenter l'allure de I(u) En déduire la largeur de la tache centrale de diffraction. 2) On   ajoute devant la fente percée dans (Eo) (Figure 1) un filtre de facteur de transmission en amplitude t(x) appelé transparence donnée par 1 2 Ix a t(x) = (1+cos- Jx|< 2 2 a t(x) = ailleurs
+2.a) Déterminer |'expression de lintensité diffractée [ en un point Mde (E) 2b) Représenter sur un même graphe Yallure de la répartition des intensités I(u) et I(u). Commenter. 3) On retire le filtre; la fente diffractante est alors parfaitement transparente. La source ponctuelle So étant placée au foyer objet d'une lentille convergente Lo. On rajoute une deuxième source ponctuelle S1s de même intensité que So, dans le plan focal objet de Lo de distance focale f et de centre C (Figure 2)
+S1
+So
+> Z
+Lo
+(Eo) L Figure 2
+On note par B langle Soês On désigne par Sog et S1g les images géométriques respectivement de So et S1 par le système des deux lentilles. 3.a) Reprendre la figure 2 et construire Sog et S1g; 3.b) Yat-il un phénomène d'interférences entre les deux ondes émises par les deux sources ? Justifier.
+Concours ep Matbématiques et Physique
+Session Juin 2005
+Epreuve de Pbysique Page 218
 
+--- page 3 ---
+3.c) Montrer que, pour /onde issue de S1, la différence de marche en un point Mde (E) s'écrit ô=x(X+B) 3.d) Déterminer l'expression de l'intensité I1 de l'onde diffractée issue de S, en un point M de (E) 3.e) En utilisant le critère de Rayleigh, déterminer la valeur minimale de B en dessous de laquelle on ne pourra pas séparer les deux images.
+B-Cohéronces spatiale et temporelle
+On reprend maintenant le montage de la figure 1 et on perce une deuxième fente fine dans (Eo) L'écran (Eo) contient désormais deux fentes fines F1 et F2 parfaitement transparentes identiques de largeur a et distantes de d (Figure 3). En pratique on a toujours a <<d. La source S0 est remplacée par une fente source Fs de largeur e réglable parallèlement à laxe (FX)et centrée sur le foyer objet dune lentille convergente Lo de distance focale f (Figure 3)
+M
+F 4> Z
+F1
+Lo
+(Eo) L Figure 3
+Fs est éclairée par une source monochromatique de longueur d'onde 1.
+1) La fente source Fs est infiniment fine. 1.a) Déterminer la différence de marche entre les ondes diffractées dans une même direction par les deux fentes. 1.b) Déterminer lexpression de lintensité I(M en un point M dabscisse X et la mettre sous la forme suivante: I(M = 1 H G. Donner la signification des fonctions Het G. L.c) Que devient I(M) dans le cas où X<Jf Déterminer dans ce cas le contraste C=Inv Ini a Imax + Imin On suppose dans toute la suite de cette partie que pour tout point M d'abscisse X de (E) l condition X<<4f est vérifiée a 2) Elargissement de la fente source On augmente progressivement la largeur e de la fente source Fs. On suppose que [intensité élémentaire dI émise par un élément dx, centré sur un point dabscisse x de la fente Fs en un point Mde (E) sécrit: dI =2 4 4 COS (z sm)]x e où ô(M) est la différence de marche en un point Mde (E)
+Concours  en Mathématiqucs et Physique
+Scssion Juin 2005
+Epreuve de Pbysique Page J8
+Fs
 
+--- page 4 ---
+2.a) Décrire qualitativement l'effet de lélargissement de la fente source sur la figure d'interférence. 2.b) Montrer que S(M) s'écrit sous la forme B(M) = x+Xd 2.c) Déterminer ['expression de lintensité I(M) en un point Mde ()- En déduire la valeur e) de la largeur de la fente Fs pour laquelle on a une première annulation du contraste. Commenter . On donne 1 = 600 nm, d = 1 mm et f =1 m
+3) Etendue spectrale de la source La fente source Fs infiniment_fine placée au foyer objet de Lo est maintenant éclairée par la lumière blanche (400 nm <1 < 750 nm) 3.a) Décrire qualitativement l'aspect de lécran 3.b) En analysant la lumière en un point du blanc dordre supérieur on remarque [absence de certaines radiations du spectre. Un tel spectre est appelé spectre cannelé. Déterminer le nombre de radiations éteintes pour X = 3 mm.
+C- Diffraction par un_réseau L'écran opaque (Eo) contient N fentes fines identiques parallèles régulièrement  espacées de même largeur a. On constitue ainsi un réseau par transmission de largeur utile & et de période spatiale d (pas du réseau) Le réseau est éclairé soUS incidence normale par une onde lumineuse plane monochromatique de longueur donde 1. L'observation se fait sur un écran (E) placé dans le plan focal image d'une lentille convergente de distance focale f. On donne d = 5 um, f = 1 m, & = 20 mm. On désigne par € l'angle entre la direction dobservation et /axe optique. 1) Ecrire la relation fondamentale pour un réseau par transmission donnant les directions des maxima d'intensité pour une incidence normale. 2) Montrer que ]'expression de lintensité diffractée en un point Mde (E) sécrit sous la forme
+sin( NdaX) RaX sinc( 1f IR (M) = Ior 1 f dî X Nsin( 1 f 3) La source monochromatique est remplacée par une lampe à vapeur de mercure émettant   trois radiations de longueurs d'onde 41 = 496 nm; 12 = 546 nm et 2; = 577 nm 3.a) Y-a-t-il dispersion entre les maxima principaux d'intensité produites par chaque radiation à Pordre 0 ? Justifier. 3.b) Déterminer ]expression du coefficient de dispersion angulaire Dang = d0 du réseau en fonction @ de d et lordre p du spectre. En pratique; justifier le choix d'un seu] paramètre pour augmenter la dispersion angulaire; 3.c) Calculer la position du maximum produit par chaque radiation pour le premier ordre du spectre. 3.d) Le réseau est maintenant éclairé par la lampe spectrale de sodium émettant deux radiations de longueurs donde voisines ^1 = 589 nm et 12 = 589,6 nm. Rappeler lexpression du pouvoir de résolution du réseau Ces deux radiations sont-elles résolues au premier ordre? Justifier.
+Concours en Mathématiques et Physique
+Session Juin 2005
+Epreuve de Physique Page 4/8
 
+--- page 5 ---
+PROBLEME 2: Induction électromagnétique et transferts thermiques
+L'espace est rapporté à un référentiel   galiléen (Oxyz) de base orthonormée directe (", ,h,,4,) Un point M de l'espace peut être repéré soit par ses   coordonnées   cartésiennes (x,y;,z) soit   par ses coordonnées sphériques (r,0,6) dans la base sphérique (", ,00,ù,) Dans tout le problème on se place dans le cadre de lapproximation des régimes quasi stationnaires (ARQS) et on néglige les frottements.
+On rappelle que: le champ magnétique B créé par une spire circulaire de rayon a de centre 0 parcourue par un courant d'intensité i (Figure 1) en un point de son axe (Oz) est donné par: H 1 B = sin' 8 4z 2a où Ho = AT 10-7 (SI) est la perméabilité magnétique du vide. le   potentiel vecteur À créé par un dipôle   magnétique de moment m=muzest donné par: Vq 4 = Ap 49 = #e mA 4 41
+2
+9
+Figure 1
+A- Action d'un_champ maqnétique permanent sur une spire
+On se propose d'étudier Y'action dun champ magnétique permanent sur une spire conductrice S de rayon a caractérisée par sa résistance électrique R et son inductance propre L La spire S peut tourner autour de l'un de ses diamètres confondu avec laxe (Oy). S est orientée par un vecteur unitaire 7 contenu dans le plan (xOz) et porté par son axe. Les rotations de $ sont 5 repérées par l'angle a(t) = (", n) comme le montre la figure 2 B La spire $ peut tourner dans une région où  règne un champ (t) 2 magnétique uniforme extérieur B, qui a pour expression B,=B "z où B est une constante. 1-Initialement, $ n'est parcourue par aucun courant. A partir de cet Figure 2 état initial, $ est animée dun mouvement de rotation autour de Yaxe Oy. 1.a) Déterminer le flux @ du champ B, à travers $. On exprimera 4 en fonction de sa valeur maximale @o et de a. 1.b) En déduire la force électromotrice (fem) induite par Be dans S. 2.a)7 Déteriner le champ électromoteur E 2.b) Retrouver l'expression de la fem induite dans S.
+Coucours ep Mathématiques et Physique
+Session Juin 2005
+Epreuve de Physique Page 5/8
 
+--- page 6 ---
+3) Expliquer brièvement l'origine du courant i(t) circulant dans $. 4) Au bout d'un temps t1 le courant i(t) circulant dans $ a atteint la valeur I1 A partir de cet instant, on immobilise brusquement la spire $ On se propose d'étudier l'évolution du courant dans S à partir de t1. 4.a) Déterminer l'évolution du courant i(t) dans $ On fait apparaître dans le résultat la constante L 1 = Que représente r ? Quelle est son unité ? R 4.b) Au bout de combien de temps l'intensité maximale de i(t) est réduite de moitié ?
+Il- Dans toute la suite de cette partie, on suppose que la résistance électrique de S est négligeable (R =0) Initialement, S n'est le siège d'aucune fem et n'est parcourue par aucun courant. Un opérateur extérieur effectue de façon quasistatique (le système est à chaque instant en équilibre) la I rotation de S de sa position initiale définie par a1 = 0 à sa position finale définie par a2 ~ 2 L.a) En utilisant la loi de Faraday montrer que le flux total € à travers $ garde une valeur constante. 1.b) En déduire l'expression du courant i(t) circulant dans $ en fonction de @o, Let a. Comment évolue le champ magnétique induit au cours de cette opération? Enoncer la loi de Lenz et vérifier que le résultat obtenu est conforme à cette loi. 2) Déterminer l'expression de l'énergie magnétique propre maximale Wm de S en fonction de @ et L. 3) Sachant que le mouvement de S est effectué de façon quasistatique, exprimer en fonction de @ L et de a le moment Ko du couple exercé par l'opérateur. 4) En déduire le travail Wop foumni par lopérateur pour réaliser la rotation de S Comparer Wop * à Wm. Expliquer pourquoi ce résultat était prévisible.
+B- Action d'un_champ magnétique variable sur une spire_fixe
+1) Préliminaire
+Un petit aimant assimilable à un dipôle magnétique D de moment m=mù et de masse M est accroché à l'extrémité dun ressort de raideur k et de longueur à vide 5 On désigne par d la distance du point 0 au support (Figure 3). D peut se déplacer le long de l'axe vertical (Oz) créant ainsi un champ magnétique variable Ba L.a) Par projection de la relation fondamentale de la dynamique appliquée à D sur l'axe (Oz), trouver l'équation du mouvement de D. 1.b) Simplifier l'équation obtenue en utilisant la condition d'équilibre et en introduisant l'élongation Z = z Zo comptée par rapport à la position d'équilibre Zo. En déduire que D effectue indéfiniment; autour de sa position d'équilibre, des oscillations sinusoïdales de pulsation @ que l'on déterminera.
+Figure 3
+La spire conductrice $ de rayon a, d'axe de révolution vertical (Oz), de résistance électrique R et dinductance propre L, initialement non parcourue par aucun courant; est désormais @xe S est totalement soumise à l'action du champ magnétique extérieur variable B4 créé par le dipôle D. S sera alors parcouru par un courant i(t).
+Dans la suite; on étudie le système formé par D et S (Figure 4)
+Concours en Mathématiques et Pbysique
+Session Juin 2005
+Epreuve de Physique Page 68
 
+--- page 7 ---
+2) En utilisant Iexpression du   potentiel vecteur Ad créé par un dipôle magnétique, déterminer le flux $ du champ Ba à travers $ en fonction de m, Z, a et Ho. 3.a) Déterminer l'expression du flux total à travers $ 3.b) En utilisant la loi de Faraday, trouver l'équation électrique (El) de la spire. On fera   apparaître dans   (EI) notamment la variable dz et la fonction dt 3 Ho m 2 h(z) = 2 a (1+2?/a2 )522 4.a) Décrire brièvement lorigine de l'action de $ sur D quon représente par la force F 4.b) Par projection de la relation fondamentale de la dynamique appliquée à D sur l'axe (Oz) montrer que l'équation mécanique (Ml) qui régit le mouvement de D autour de sa position d'équilibre se met sous la forme
+ressort
+s
+d2Z M dt? =-k Z+ih(z)
+(MI)
+Figure 4
+5) En combinant les équations (El) et (MI), montrer qu'on fait apparaître un bilan énergétique dont on donnera la signification de chacun de ses termes. Commenter. 6) Décrire brièvement (sans aucun calcul) l'état final de D et de S tout en le justifiant. On suppose que D effectue des petits mouvements autour de la position d'équilibre de façon à linéariser le système déquations (El) et (MI) On remplace donc la fonction h(z) par la constante ho h(zo) - L Pour une spire unique; on peut raisonnablement négliger la constante de temps r = devant un temps R T caractéristique de l'évolution de i(t) et de Z(t) di dt <<4) On néglige alors l'inductance propre L de S. 7a) En utilisant les équations simplifiées de (El) et de (Ml) montrer qu'on a:
+d2Z M h& dZ dt2 + +kZ=0 R dt
+(E)
+h? k - On posera p et 0 = 2MR M 7.b) En résolvant léquation (E), montrer l'existence de trois régimes différents régissant l'évolution de Z(t). Donner la forme générale de la solution pour chaque régime. En déduire l'état final de D et $. Expliquer brièvement pourquoi létat final de D en présence de S est différent de celui de D en Pabsence de $. Sachant qu'àt = 0,Z =0 et dZ =Vo , expliciter la solution dans le cas où P 00. dt
+Concours en Mathématiques et Physique
+Session Juin 2005
+Eprcuve de Physique Pege 7/8
 
+--- page 8 ---
+C- Iransfort thermique
+Le fil conducteur homogène constituant la spire S est au fait un cylindre indéformable, de rayon r, de section droite, de longueur L et d'axe (Oz). Il est constitué de cuivre de conductivité électrique Y et de conductivité thermique ^ (Y et ^ sont constantes) . Dans toute cette partie; on se place en régime permanent et on suppose que le transfert thermique par convection est négligeable. De plus, on suppose que le transfert thermique par conduction dans le conducteur se fait uniquement suivant l'axe (Oz). 1) On néglige le rayonnement thermique par le conducteur. Les extrémités du conducteur d'abscisses 2 = 0 et 2 = L sont maintenues   respectivement aux températures To et TL < To. 1.a) En faisant un bilan d'énergie sur une tranche du conducteur de longueur dz; comprise entre les abscisses z et z + dz, établir l'équation de diffusion thermique. En déduire la loi de variation de la température T(z) en un point dabscisse z du conducteur . Déterminer la résistance thermique R du conducteur. 1.b) Le fil conducteur est désormais parcouru par un courant permanent d'intensité L. Que devient l'équation de diffusion thermique ? 2) On tient   compte, en plus du transfert   thermique par conduction; du transfert   thermique par rayonnement à travers la surface latérale du conducteur. On suppose que le conducteur se comporte comme un corps noir. Le conducteur est parcouru par un courant permanent d'intensité L. En faisant un bilan d'énergie sur une tranche du conducteur de longueur dz, comprise entre les abscisses z et z + dz, établir l'équation de diffusion thermique.
+f:n &e l'4uuve
+Concours €n Mathématiqucs et Pbysique
+Scssion Juin 2005
+Epreuve de Physique Pege 88

@@ -1,5 +1,95 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de "Enseignement Supérieur; de la Recherche Scientifique de la Technologie Concours nationaux d'entréc aur cycles de formation d'ingénicurs Scssion 2007
+4a>)o2lsji æk:gzus |s@EALLÉ Jybji Zi,buii ~imufjlyj 2007;"
+Concours en Technologie Epreuve de Physique
+Date Jeudi 07 Juin 2007
+Heure 8 HOo
+Durée : 4 H
+Nbre pages 6
+Barème
+Pb 1 : 10/20 (A/4,5 BI5,5)
+Pb 2 : 10/20 (A/5,5 B/4,5)
+L'usage d'une calculatrice non programmable est autorisé
+L'épreuve   comporte  deux   problèmes   indépendants; le candidat   peut   les  résoudre   dans  l'ordre qui lui convient; en respectant néanmoins la numérotation des questions.
+Dans toute Y'épreuve; on utilise  soit le système de coordonnées sphériques (r,0.) de vecteurs unitaires (ur üo u,) ou cartésiennes (x,y,z) de vecteurs unitaires (ux uy , z €o et € désignent la permittivité électrique du vide et la célérité de la lumière dans le vide. Données utiles:
+Les expressions du laplacien et du gradient d'une fonction scalaire F(r,0,0) AF(r,0) 0 r2 ôE ô sin0@F a?F ôr sin 0 â0 c0 r2 sin? 0 ô0 Wstiur Psevoirg gradF ôFK, + !ûF up @Fu, @iblgtHEQUe) {r 4 rsin 0 ôp Nxardess oans Sn Les relations vectorielles div( gradF ) AF rot( rotE) = grad(divE) ~ AE PROBLEME I Le problème de Laplace Le problème de Laplace avec des conditions aux limites est rencontré dans différents domaines de la physique. On se propose d'étudier quelques situations dans lesquelles ce probleme intervienL: A Sphère conductrice placée dans un champ électrique uniforme On considère une sphère conductrice de centre 0 et de rayon R maintenue au potentiei constant V, La sphère est placée dans le vide où règne un champ électrique uniforme Eo Eo uz (figure 1) A l'équilibre électrostatique; la sphère crée un champ électrique qui se superpose au champ Eo On supposera que la sphère est de taille petite de sorte que loin de la sphère les lignes du électrique restent parallèles à (Oz). champ 1. Rappeler la définition ainsi que les propriétés dun conducteur en équilibre électrostatique (champ et potentiel électriques; répartition des charges) . 2. Déterminer l'expression du potentiel Vo(r,0) dont dérive le champ Eo . On prendra Vo(O) = V;.
+Concours ep Technologic Scssion Juin 2007
+Eprcuve dc Pbysiquc
+Page 1/6
 
+--- page 2 ---
+Eo
+M
+fgure 1
+3.a. Ecrire l'équation locale satisfaite par le potentiel V(r,0) en tout point à lextérieur de la sphère 3.b. Quelles sont les conditions aux limites imposées à V(r,0) ? 4. On se propose de chercher la solution à ce problème s'écrivant sous la forme V(r,0) A + f(r)g(o)] où A est une constante 4.a. Montrer qu'il existe une constante 6 telle que 45+2r df sin 0 dg B dr? dr sin 0 g(0) d0 d0 4.b. Justifier, sans calcul; le choix dejg(0) cosolet calculer alors B 4.c. En cherchant une fonction f(r) sous la forme f(r) =r où m € Z*, déterminer les deux valeurs possibles de m 4.d. A l'aide des conditions aux limites, montrer quà l'extérieur de la sphère; le potentiel s'écrit R' V(r,0) = Vs + Eo cos8
+5.a. Exprimer le champ électrique total E à lextérieur de la sphère 5.b. Montrer que le champ total peut être considéré comme la superposition du champ uniforme Eo et celui créé par un dipôle électrostatique dont on déterminera le moment dipolaire p 5.c. Exprimer; en fonction de Eo; € et de €o, la densité_surfacique de charges 0 qui apparaît sur la sphère. 5.d. En ulilisant la loi de Coulomb, déterminer le champ électrique Ec créé par cette distributicn au centre 0 de la sphère. Dire en le justifiant si ce résultat était prévisible.
+B - Mode TE dans un guide rectangulaire On considère un guide de section rectangulaire constitué de parois parfaitement conductrices: On suppose que lair à lintérieur du guide a les propriétés électrique et magnétique du vide (figure 2) Dans ce guide; de coté a suivant (Ox) et b suivant (Oy), on cherche si une onde de pulsation 0 peut se propager suivant Taxe (Oz) En représentation complexe, les champs électrique et magnéiique associés à cette onde s'écrivent fgwre 2
+E Eo(x,y) exp[i(kz _ @t)] avec   Eo.uz = 0
+B Bo(x,y) exp[i(kz - @t)] avec Bo.4z = 0
+Ccpcours €n Technologic Sessina Juin 2007
+Epreuve de Pbysique
+Page 16
 
+--- page 3 ---
+6. Rappeler les équations de Maxwell vérifiées par le champ électromagnétique à Fintérieur du guide ainsi que les conditions aux limites imposées par les surfaces métalliques: 7. Montrer que la structure choisie impose div Eo = 0 et rOtEo =0. 8.a. En déduire que le vecteur Eo dérive dune fonction scalaire Yo(x,y) vérifiant l'équation de Laplace AYo 0. 8.b. En se rappelant des conditions aux limites imposées à Eo. justifier qu'en tout point des parois du guide Yo reste constante 8.c. On admet que dans tout le volume intérieur du guide la fonction Yo reste constante En déduire que la structure proposée de londe ne peut pas se propager dans ce guide.
+Dans la suite; on étudiera une structure susceptible de se propager (TE)
+9. Une onde plane progressive; monochromatique de pulsation 0, polarisée rectilignement selon (Oy) est envoyée en oblique dans le guide selon le vecteur donde k1 = kIx €x + kIzhz faisant l'angle a (ae JO,n/2[ avec laxe (Oz) (figure 3) En représentation complexe; le champ électrique associé s'écrit E Eo exp[i (kpF-@t)] "y
+1
+OYo
+figure 3
+9.a. En utilisant les lois de Descartes pour la réflexion; écrire en fonction de @, Œ et la célérité de la lumière dans le vide c, les composantes du vecteur donde kz de londe plane réfléchie 9.b. En introduisant un' coefficient de réflexion P; le champ électrique de londe réfléchie s'écrit alors E2 = P Eo exp[i(kz.F-@t)] Z, Déterminer a valeur du coefficient de réflexion P. En déduire que le champ électrique E résultant de la superposition des ondes incidente et réfléchie s'écrit E=2iEo sin(ko X sina)  exp[i(koz cosa @t)] k avec Ko = 9.c. Déterminer les valeurs possibles de sina en fonction dun entier n, a, @ et c _ 10.a. Donner la direction et le sens de propagation de l'onde résultante 10.b. Exprimer le module du vecteur d'onde kg dans le guide en fonction de a et ko. En déduire la relation de dispersion du mode associé à lentier n. On fera apparaître une pulsation; dite de coupure; notée @en  Justifier cette appellation. 1l. Trouver une relation entre la vitesse de phase vp et la vitesse de groupe Vg sans les calculer explicitement; puis donner leurs expressions en fonction de c et du rapport 12. Justifier que l'onde guidée n'est pas transverse magnétique (TM).
+Concours €n Tcchnologic Scssion Juin 2007
+Epreuve de Physiquc
+Page 3/6
 
+--- page 4 ---
+PROBLEME II L'interféromètre de Michelson
+Dans ce problème; on cherchera à étudier l'effet de l'élargissement de la source sur les interférences obtenues par l'interféromètre de Michelson et notamment la localisation des franges dans les deux situations lame dair et coin dair
+L'interféromètre de Michelson; placé dans l'air assimilé au vide, est constitué de deux miroirs plans M1 (fixe) et Mz (mobile) dune lame semi-réfléchissante (Sp), non absorbante; appelée séparatrice et inclinée de 450 par rapport à l'axe (Ox) Cette lame; supposée infiniment mince, n'introduit aucun déphasage supplémentaire entre les ondes qui interferent.
+L'interféromètre est éclairé par une source $ monochromatique de longueur donde dans le vide ^ Afin détudier le problème de cohérence spatiale, $ peut être ponctuelle ou étendue.
+0'2
+M'z
+01
+M,
+S
+0
+(Sp)
+S'
+Mz
+fgure 4
+M
+A Michelson en lame dair
+L'interféromètre de Michelson. réglé en lame dair, est éclairé par une source ponctuelle S. La figure 4 donne les marches réelles de deux rayons émergent de l'interféromètre correspondant à deux rayons lumineux distincts issus de $ Le premier rayon émerge du Michelson après une réflexion sur le miroir Mp alors que le deuxième après une réflexion sur le miroir Mz. Ces deux rayons se rencontrent en un point M. 1. Justifier laffirmation suivante les interférences au point M (à distance finie de 0) sont du type division de front dondes et les franges obtenues sont non localisées_ 2. Montrer que le dispositif est équivalent à une lame dair faisant intervenir Mp, Mz et S' où S' et Mz' sont les symétriques de $ et Mz par rapport à la séparatrice (Sp) respectivement.
+Dans toute la suite du problème; les raisonnements se feront en considérant  M,. Mz' et S'
+Concours en Technologie Scssion Juin 2007
+Eprcuve de Physiquc
+Page 4/6
 
+--- page 5 ---
+On cherche à déterminer la différence de marche & entre deux rayons issus de S et qui interfèrent en un point Mde l'espace d'abscisse X (figure 5). On note d = S'01 et D EO1. On se limitera aux rayons peu inclinés par rapport à l'axe O1S' et on supposera que l'épaisseur € de la lame est faible (e < X < D+d)
+0'2
+M1
+figure 5
+S'8 8 2
+M
+3.a. En considérant S1 et S2, images de S' à travers les miroirs M1 et Mz respectivement; montrer X? que la différence de marche au point M s'écrit 6(X) SzM _ SMM ~ 2e 2(D+d)? 3.b. Justifier pourquoi les franges d'interférences sont des anneaux. 4. Donner l'ordre d'interférence Pn du nième anneau brillant. On supposera qu'au centre E on observe une tache noire 5. Exprimer le rayon Xn du n ièmc anneau brillant en fonction de D; d, 1, e et n. 6. Montrer que pour n >> 1,la distance entre le n' ieme et (n+1) iemc anneau brillant s'écrit D+d AXn = Xn+l = Xn e n 7 A une distance 8 de la source $, on place une autre source 2. Ces sources   ponctuelles et incohérentes émettent la même longueur donde 2. Les symétriques S' et >' de ces sources à travers la séparatrice, distants de &, sont alignés parallèlement à l'axe (EX) (figure 5) On admet que les premiers anneaux brillants restent bien visibles si le décalage entre les deux systèmes de franges est inférieur au quart de AXn: 7.a. Trouver la condition sur & pour que les n premiers anneaux restent visibles 7.b. Commenter le cas où l'écran est placé à l'infini (D->cc) 8. On remplace les deux sources ponctuelles par une source étendue assimilée à un disque de rayon Io = ] cm et placée au foyer objet dune lentille convergente (L1) de focale f = 20 cm. 8.a. Justifier que les franges observées sur un écran; placé dans le plan focal image dune deuxième lentille convergente (Lz), gardent un bon contraste. 8.b. Tracer la marche de deux rayons émergent de [interféromètre et qui interfèrent en un point du plan focal image de (Lz). 8.c. Justifier que les interférences obtenues à l'infini sont du type division damplitude. 8.d. Exprimer; en fonction de ro et f, l'angle d'incidence maximal @max- En déduire le nombre de franges brillantes observables sur l'écran. On prendra mm et ^ = 589 nm 9. L'expérience montre que lorsqu'on augmente l'épaisseur e de la lamé d'air le contraste diminue et les anneaux finissent par disparaître. Expliquer.
+Concours €n Technologie Session Juin 2007
+Epreuve de Physique
+Page 5/6
+Mz'
 
+--- page 6 ---
+B Michelson en coin dair
+L'interféromètre de Michelson, réglé maintenant en coin dair dangle a, est éclairé par une onde plane provenant dune source ponctuelle située à linfini. On désigne par 0 l'angle que fait la direction de l'onde incidente avec la normale au miroir fixe M, (figure 6).
+4+0
+M1
+01
+fgure 6
+ki
+10.a. On désigne par ki , k1 et k2 les vecteurs dondes de londe incidente et des ondes réfléchies sur les miroirs M1 et Mz' respectivement: Exprimer les composantes de ces trois vecteurs en fonction de &, 0 et ^ - 10.b. En prenant lorigine des phases au point 01, déterminer le déphasage @ entre les deux ondes réfléchies interférant en un point M(x,y,z) I1.a. Pour & et 0 faibles vérifier que lordre d'interférence p au point M peut s'écrire 2a P= [x + (a+0) z] Il.b. Donner lexpression de lintensité lumineuse I(x,z,0) au point M. On notera Io l'intensité de l'onde réfléchie par l'un des miroirs_ 12. La source lumineuse, située toujours à linfini, est désormais étendue. Elle envoie alors sur linterféromètre des rayons d'inclinaison variant entre  8 et 80 (avec @ faible). 12.a. Sachant que les ondes provenant de diverses inclinaisons sont incohérentes et que l'intensité incidente entre 8 et 0+d0 est proportionnelle à d8, montrer que lintensité au point M peut se mettre sous la forme 4ra Ara sin u I(x,z,80) = 21o 1 + sinc 80 cos (x +az) sinc (u) =
+12.b. En identifiant le terme de visibilité, relié au caractère non ponctuel de la source, chercher l'équation du plan correspondant à un contraste indépendant de 80. Que vaut alors ce contraste ? 12.c. Quelle est la nature de ces franges ? Exprimer l'interfrange i en fonction de la longueur d'onde ^ et de l'angle a du coin 12.d. Que se passe-t-il lorsqu'on s'éloigne de ce plan ? Conclure. 13. Pour observer ces franges; on dispose dune lentille convergente de distance focale image f 20 cm. Sur un écran  situé a une distance Do Im de la lentille; on obtient des franges rectilignes d'interfrange  iécran 2 mm Calculer l'angle a entre les deux miroirs. On prendra ^ = 589 nm.
+Sin de Q'épxeuve
+Concours c0 Tcchcologic Scssiop Juin 2007
+Eprcuve dc Physique
+Page 6/6
+Mz'

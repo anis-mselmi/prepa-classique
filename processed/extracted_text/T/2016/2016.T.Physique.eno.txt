@@ -1,6 +1,88 @@
+--- page 1 ---
+4 @sJ"2/4w) "Ukalbals {àL] dinuji 2Ubliji ihniti Uufjlyji 20166>
+REPUBLIQUE TUNISIENNE Ministère de lEnseignement Supérieur et de la Recherche Scicntifique
+Concours Nationaux d'Entrée aux Cycles de Formation d'Ingénicurs Session 2016
+Concours Technologie Epreuve de Physique
+Date Lundi 30 Mai 2016 Heure 8 H Durée 4 H Barème Problème 1 : 11 points Problème 2 : 9 points
+Nb pages 8
+L'usage d'une calculatrice non programmable est autorisé L'épreuve comporte deux problèmes indépendants; le candidat peut les résoudre dans l'ordre qui lui convient, en respectant néanmoins la numérotation des questions: Un candidat peut toujours se servir dun résultat fourni par Fénoncé pour continuer sa composition.
+Données numériques Célérité de la lumière dans le vide c =3,0 108 ms-1 Formulaires rot(rotu) grad( (div 7) Aù d ^ (6 ^c) = (â.()b - (à .b)7 ; cos p + cos q = 2cosP !cos P+9 sin p sin q = 2 sinP-! cosP+9
+Problème 1 Interférences à deux ondes Superposition de deux ondes planes
+[
+Soit; dans le vide; une onde électromagnétique plane de pulsation @, de vecteur donde k, dont le   champ électrique; en notation   complexe; en un point M de   Fespace repéré par ses coordonnées cartésiennes (x,y,z), s'écrit E = Eo eilot-ax-bz) iy Eo est une constante positive; et i est le nombre complexe tel que i? = -1 . 1. Rappeler  les équations   locales de Maxwell   dans le vide dépourvu de charges et de courants. Etablir l'équation de propagation vérifiée par le champ magnétique @ de cette onde. 2 Quelle est la polarisation de cette onde ? 3. Cette onde est- elle progressive ? Donner son vecteur d'onde. 4. Exprimer sa vitesse de phase v
+Concours Technologie
+Session 2016
+Epreuve de Physique
+Page 1/8
 
+--- page 2 ---
+5. On étudie le cas où /onde se propage suivant la ère bissectrice du plan (xOz). Donner alors les expressions de a et b. Exprimer son vecteur donde k et son champ électrique @. 6. Déterminer 6.1. Le champ magnétique @ de cette onde. Vérifier que B est transverse. 6.2. La densité dénergie uem et le vecteur de Poynting R. Exprimer leur valeur moyenne dans le temps. 6.3. La vitesse de propagation de [énergie vE: Ecrire léquation locale de conservation de lénergie électromagnétique.   Intégrer   cette équation sur un volume r quelconque de lespace et conclure. 8 Montrer que div(R) = 0 où ) désigne la moyenne temporelle. Conclure. 9 Deux ondes lumineuses (1) et (2) planes progressives monochromatiques de pulsations 01 et 02, polarisées rectilignement suivant le même vecteur unitaire 7 et se propagent dans le vide respectivement selon les vecteurs dondes k1 et kz. Les champs électriques des ondes (1) et (2) s'écrivent respectivement @1 = Eo1 eilit-W1) 1; @2 = Eoz eilwzt-W2) 1 Eo1 et Eoz sont leur amplitude; et 41 et 42 sont des phases qui dépendent des variables spatiales et temporelle. 9.1. On pose 6(M,t) = 62 41- Déterminer 1expression de lintensité I(M) due à la superposition de ces ondes en un point M de lespace. On admet que lintensité en ce point est définie (à une constante multiplicative près) par I(M) = (W.@') où |' désigne le complexe conjugué de 0 9.2. Rappeler 1approximation du modèle scalaire de la lumière. Une telle approximation est- elle vérifiée dans le cas étudié ? 9.3. A quelles conditions obtient-on un phénomène d'interférences entre les deux ondes ? 9.4. On se place dans les conditions dinterférences. En déduire qu'en un point M du champ dinterférences, Pintensité I(M) due à linterférence des deux ondes d'intensités I1 et 12 provenant dune même source primaire S ponctuelle; monochromatique de longueur donde dans le vide  s'écrit
+I(M) = I1 + I2 + 2vI1l2 cos  (M) où @(M) est la différence de phase entre   les deux   ondes en un point M du champ dinterférences. 9.5. Quel est lintérêt de choisir deux ondes de même amplitude Eo1 Eoz ? Justifier. 9.6. On se place dans la suite dans le cas où Eo1 Eoz Eo. Les vecteurs dondes kz et kz sont symétriques par rapport à laxe Oz. Le vecteur kz appartenant au plan xOz, fait un angle 0 n /4 avec Oz. 9.6.1. Ecrire les expressions de kz et k2. En déduire celles de E et mz. Identifier les phases @1 et @2 de ces ondes. 9.6.2. En déduire la nouvelle   expression de Tintensité au point M du champ dinterférences. 10. Un paquet donde est un groupe dondes monochromatiques qui s'étale sur une largeur spectrale Av Ce paquet donde possède une durée de vie appelé temps de cohérence et une longueur de cohérence Lc Ct où c est la célérité de la lumière dans le vide. Av 10.1. Calculer la longueur de cohérence des deux sources   suivantes Laser CO2 de largeur spectrale Av 10 kHz lumière blanche ayant Av = 3,3 1014 Hz. Conclure:
+Concours Technologie
+Session 2016
+Epreuve de Physique
+Page 2/8
 
+--- page 3 ---
+10.2. Quelle est la longueur de cohérence dune onde monochromatique ? 10.3. Quel est lintérêt de Lc dans lobservation du phénomène dinterférences ? 10.4. S'agit-il de la cohérence temporelle ou spatiale ? Justifier.
+II-
+Optique géométrique appliquée à un prisme
+On considère un prisme en verre dindice n réel et dangle au sommet A. Ce prisme est placé dans lair (figure 1) Le plan dincidence de l'onde incidente est confondu avec le plan de la figure. On supposera satisfaites les conditions d'émergence à la sortie du prisme.
+air d'indice 1
+rayonincident
+rayon émergent
+verre dindice n Figure 1
+Tous les angles i, i', r, r' A et 0 indiqués sur cette figure sont supposés positifs. On se placera dans ['approximation des petits angles. 11. Déterminer la relation entre A, r et r' 12. Exprimer alors la déviation 0 (angle entre les rayons émergent et incident) en fonction de i, i'et A Montrer que (n 1)A. 13 Une source ponctuelle $ envoie un faisceau lumineux couvrant toute la face d'entrée du prisme sous un angle & appelé ouverture angulaire du faisceau. Le faisceau émergent semble venir dun autre point source $' . A laide dune construction géométrique, préciser la position de $' . Cette ouverture est-t-elle modifiée après traversée du prisme ? 14. Le prisme de la figure est éclairé par une source ponctuelle S monochromatique de longueur donde / dans le vide:
+d=SC = 20 cm; CO-e=2mm; BC = 2cm; n=1,5
+air dindice 1
+indice n
+S: source ponctuelle
+Figure 2
+14.1. Montrer que lon est bien dans les conditions de lapproximation des petits angles:. Calculer la valeur de langle au sommet A. 14.2. Tracer le faisceau incident issus de S. Tracer de même les rayons émergents ? 15. Le faisceau   sortant du prisme semble provenir dun point   S1 situé au dessus de $. Déterminer la distance SS1 à partir de la construction géométrique.
+Concours Technologie
+Session 2016
+Epreuve de Physique
+Page 3/8
 
+--- page 4 ---
+III-
+Phénomène dinterférences à laide dun bi-prisme 16. La figure 3 associe deux prismes identiques au précédent. 16.1. Quel est le nom de ce système interférentiel ? S'agit-il dun système à division de front d'onde, ou à division damplitude ? 16.2. Dessiner les sources secondaires et le champ dinterférences. Exprimer la distance a entre ces   deux sources. A quel système dinterférences   simple   peut-on alors se ramener ?
+[
+Figure 3
+16.3. On place un écran perpendiculaire à SC à 0,8 m de C. On pose D SE et on note Io Pintensité supposée émise par chaque source secondaire. Les conditions d'interférences sont supposées vérifiées. Exprimer l'intensité en un point M du champ d'interférences sur lécran ? Quelle est la forme des franges   observées ? Quelle est la valeur de linterfrange pour 1 = 589 nm ?
+IV-
+Interférences en lumière bi-chromatique
+La lumière émise par la source ponctuelle $ comporte deux longueurs dondes voisines 11 et 12 (doublet jaune du mercure) et de même intensité. On pose 4l = 12 - 11 > 0 ; 1 = 41+42 avec 4/ < 1 ; et on supposera que 1,42 ~ 22 . 17. Montrer que lintensité lumineuse sur lécran peut s'écrire sous la forme I(8) = 4l0 1 + V(S)cos 2n8 6 étant la différence de marche entre deux rayons qui interfèrent   au point M de lécran Qu'appelle-t-on V(8) ? Donner son expression. 18. Représenter lallure de ['interférogramme I(8). Commenter cette allure. 19. Comment   peut-t-on déterminer et 41 et par la suite 11 et 12 à partir de cet interférogramme ? 20. Pour 11 577 nm et 12 = 579 nm, déterminer le nombre N de franges localisées entre une coïncidence et une anti-coïncidence consécutives .
+Interférences en lumière blanche Le système est éclairé par une source ponctuelle émettant de la lumière blanche à spectre continu de fréquence comprise entre V1 3,75 1014Hz et V2 7,5 1014Hz.
+Concours Technologie
+Session 2016
+Epreuve de Pbysique
+Pege 4/8
 
+--- page 5 ---
+Cette source est  caractérisée par une intensité   spectrale Iv(v) 4 de forme rectangulaire centrée sur la fréquence Av v = "t"et de largeur Av Vz V1 (figure 4) On suppose que pour une tranche spectrale dv, la source se comporte comme une source monochromatique de fréquence v et dintensité dlo = Iv(v)dv.
+I(v) Io Av
+V v Vz Figure 4 21. Montrer que lintensité résultante en un point Mde l'écran peut $'écrire Znvo I(M) = 2l 1 + V(S)cos -s(m]} Exprimer V(6) en fonction de la différence de marche & et des données du problème. 22.  Tracer et décrire l'aspect de la figure d'interfërences obtenue. 23.  Quelle est la première valeur 61 de 6 qui annule V(6) ? En déduire un critère de visibilité des franges. Faire Fapplication numérique. 24. Soit M1 un point du champ d'interférences tel que &(ML) = 1,7um. Observe-t-on des franges visibles en ce point 25. L'analyse spectrale de la lumière en Mp, montre l'existence de cannelures (absence de certaines radiations) Expliquer leur   présence et calculer les longueurs dondes correspondantes.
+Problème 2 Transfert thermique à travers les vitres d'une voiture Ce problème s'intéresse à l'étude des échanges thermiques entre ]espace interne d'une voiture et son environnement   extérieur. On supposera que ces transferts se produisent  en régime stationnaire et en absence de toutes sources de chaleur, et on négligera les effets de bord. Toutes les puissances thermiques considérées dans ce problème sont comptées positives: Tous les transferts thermiques se font dans la direction Ox d'un repère orthonormé (O,x,y,z).
+A- Analogie thermique  électrique Il existe trois modes de transfert thermique conduction; convection et rayonnement 1 Définir brièvement chaque mode de transfert. On considère dans cette partie des transferts thermiques entre deux températures T; et Tz avec Tz < T. 2 Dresser, dans un tableau,  les équivalents en électricité, de la loi de Fourier, de la conductivité thermique 1, de la puissance (flux) thermique P, de la résistance thermique Rth, de la conductance thermique Gth et de la différence de température AT = T1 - Tz entre deux corps 3. Définir pour chaque mode, une résistance thermique et une conductance thermique en fonction de la puissance thermique et de AT . Donner leur unité. Ecrire la puissance thermique échangée par convection à travers une surface $ séparant un corps solide de température T; et un fluide de température Tz. On appellera h le coefficient de transfert thermique par convection. Exprimer la résistance thermique correspondante. Donner l'unité de h.
+Concours Tecbnologie
+Session 2016
+Epreuve de Pbysique
+Page 5/8
 
+--- page 6 ---
+12- Donner la définition dun corps noir. 13- Exprimer la puissance thermique PRint échangée par rayonnement au niveau de la face x = 0 en fonction de Tint, To, $ et 0 _ 14- En considérant les valeurs des températures de la vitre; justifier que |Tint Tol/Tint est petit devant 1. Exprimer alors PRint sous la forme PRint GRint (To Tint) GRint est une conductance par rayonnement à déterminer en fonction de 0, Tint et $. 15- Exprimer de même la puissance PRext échangée par rayonnement au niveau de la face X = e en fonction de Text Te , S et 0. Donner son expression approchée et la conductance correspondante  en fonction de 0, Text et S. 16- Représenter le schéma électrique équivalent de la vitre en tenant compte de la conduction; de la convection et du rayonnement. Faire figurer sur ce schéma les conductances et les températures correspondantes.
+IV Etude dun pare-brise feuilleté intérieur extérieur Pour   aboutir à des vitrages moins cassants et voiture voiture bien adaptés à lajout de colorants; on fabrique T T des   pare-brises feuilletés constitués de trois ext couches deux   vitres identiques d'épaisseur e, collées Pune Tautre par une couche de polymère dépaisseur ep et de conductivité thermique Rp On note la ep (figure 2). Gcp conductance de la couche de polymère. Figure 2 17- Représenter le schéma électrique équivalent du vitrage feuilleté de températures interne Tint et externe Text en tenant compte de lensemble des transferts thermiques considérés précédemment. 18- Exprimer la conductance thermique totale Gtot de ce vitrage en fonction des différentes conductances 19- Calculer la valeur de Gtot sachant que la puissance totale échangée à travers le pare-brise vaut Ptot 145,5 W 20- La puissance échangée par rayonnement à travers la face interne représente une fraction f = PRint / Ptot de Ptot: Exprimer f en fonction de Gcvint et GRint, puis calculer sa valeur . On donne S = 1,5m2,0 = 5,6710-8 W.m-2. K-4 hint 3,6 W . m-2 K-1
+V Utilisation dun revêtement réfléchissant Un revêtement réfléchissant les rayonnements infrarouges est déposé sur lune des faces du vitrage feuilleté. Il permet de supprimer les échanges thermiques par rayonnement au niveau de cette face 21- Calculer numériquement la conductance totale du vitrage avec revêtement réfléchissant dans les deux cas suivants
+Concours Technologie
+Session 2016
+Epreuve de Physique
+Page 7/8
 
+--- page 7 ---
+21.1. Le revêtement est déposé sur la face interne de la vitre. 21.2. Le revêtement est déposé sur la face externe de la vitre On donne Av = 1,0 W.m-1 K-1 Ap 0,20 W.m-1.K-1 e = 2,10 mm, hext 19 W.m-2. K-1 ep = 0,78 mm, Tint 293 K = Text 308 K 22- Choisir le cas à utiliser en pratique.
+C- Limitation de Peffet de serre à laide d'un vitrage teinté Dans cette partie; on ne tiendra compte que des échanges thermiques par rayonnement:. La vitre du toit ouvrant de la voiture est munie dun rideau noir qui bloque une partie du rayonnement solaire direct. En conséquence ce rideau échauffe Pour réduire cet échauffement; on peut utiliser un vitrage teinté. On se propose d'étudier le bilan thermique à travers la vitre teintée (figure 3) et le rideau_ La vitre   reçoit de lextérieur un flux thermique par unité de surface noté %s provenant du rayonnement solaire direct; dont le spectre est supposé constitué vitrage extérieur que du domaine visible La vitre   teintée absorbe une   fraction de %s et transmet la fraction (1 a) de ce flux. La réflexion rideau intérieur de la vitre est supposée négligeable. Dans le domaine infrarouge, cette vitre ce comporte comme un corps noir. Le flux   thermique émis par Figure 3 unité de surface par chaque face de   la vitre est noté %v . Le rideau de température TR est aussi équivalent à un corps noir pour toutes les longueurs d'ondes. Le flux thermique émis par unité de surface par chaque face du rideau est noté %R. Il reçoit de lintérieur de la voiture un flux thermique par unité de surface %: 23- En utilisant   la loi de Wien; calculer une valeur   approchée de la   longueur   d'onde correspondant au maximum de rayonnement émis par le rideau: A quel domaine du spectre électromagnétique appartient-elle ? 24- Reproduire la figure 3, et y représenter les différents flux rayonnés et absorbés. 25- En faisant un bilan thermique pour la vitre puis pour le rideau;, établir deux équations reliant +R, @v, a, %s et +- 26- En déduire les expressions de %R et de %v en fonction de a, %s et %. 27- En déduire la relation %R + %v = #s + %a, linterpréter physiquement. 28- Discuter le cas où a = 0, déduire lintérêt de Futilisation d'un vitrage teinté. 29- Déterminer ['expression de TR et calculer sa valeur pour a 0 et a 0,6. On donne %s = 900 W.m-2, % = 400 W. m-2 30- En s'inspirant des questions précédentes, déterminer l'expression du flux %0 qui pénètre à Pintérieur de la voiture en labsence de rideau; en fonction de %s, %v et a, puis en fonction de %s, % et a. 31- Vérifier que % @R. Conclure sur les avantages et inconvénients du rideau.
+Concours Technologie
+Session 2016
+Epreuve de Physique
+Page 8/8

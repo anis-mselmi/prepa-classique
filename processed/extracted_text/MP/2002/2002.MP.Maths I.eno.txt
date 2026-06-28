@@ -1,4 +1,42 @@
+--- page 1 ---
+sreparatoiee reliotheqle | 3 8 Coacehieuss '
+REPUBLIQUE TUNISIENNE x * * Ministère de lenseignement Supérieur
+Concours Nationaux d'Entrée aux Cycles de Formation d'Ingênieurs Session Juin 2002
+Concours en Mathématiques et Physique Epreuve en Mathématiques 1
+Durée 4 heures Date :3 Juin Heure : 8H Nb pages :5 Bareme Partie I:8 Partie II: 9 Partie II ; 5
+L'usage des calculatrices cst strictement interdit. Une grande importance sera attachée & la rigueur du raisonnement, à la carté de la rédaction €t &u soin de la présentation   Il est rappelé que tout résultat énoncé dans le sujet pcut etre utilisé pour traiter la suite, mnêne si u'a pu être démontré
+Partie I
+Soieut & > ~1 et 4 € N On pose pouT I > 0, f(z) = e-Ir%{Logz) 1) Montrer quc f est intégrable sur ]0, +c[ 2) On puse pou n > 1
+S ra(l =)"(Logz) pour 0 < z < n n 0, pour I > n.
+fn(z) 2
+a) Montrer que pour tout + < 1, Log(1 ~t) < ~t. b} En déduire que V n 2 1, V z > 0, [fn(z)| < If(z)|
+1/5
 
+--- page 2 ---
+4 4) On Montrer que suppose 5 que +o 4 Q = 4 0 fn(z) 6 Montrer +0 9 = 1 et 02 ~ Montrer que < N fn(z)dz u"Log(1 que 9 4, ~u)du n+1 déduire 5 Montrer 4 que 48 +" f' que +oo 4 stante P=iplp + n+1) 2 e-rLogI n +1 2 (Logn 'ue 5 0 7 +o 4 < 29 7 5 3 n+1 p série %e 72 4 '+00 8 Logn) , (Logn 2 terme géneral est << Log(l + dite 20,I _ Log(1 2 9 constante Log(1 21, (1 X 9 d'Euler- 2 Log2) - +2) =2 f' 7 2 est moutrer 712 F 0 1 +tæ # conVEI que 2 0 < Log(1 Log2) 42 x 5 " 2 7 21< 7? 7
 
+--- page 3 ---
+Partie IL
+o tIzle-td
+On définit la fonction gamma F :}0; +œ[~~j0, +o[ par [lz) '0, +œ[_j0,+%( dérivable; est dite logarithmiquerent Une fonction 9 dérivëe Jogarithmique % est croissante sur V'intervalle J0, +oo[: convexe Si 5a 9 a) Montrer que T{z +1) = zT(r)V æ > 0 F est; de classe C% sur ]0, +%[ et que Vn 2 0,V 2 > 0, b) Montrer que 40 [{n)(z)  = f tr-1 e7 (Logt)"dt.
+c) Que vaut F(1) ? 2) a) En utilisent Vinégalité de Gauchy-Schwartz suivante +oo roo ( [ at)dt U v()a Jv(t)v(t)l dt
+montrer que
+(T'(r))? < F(z)T"(r), Vz > 0 b) En déduire que la fonction T est logarithmiquement convexe Soit 9 :j0,+o[_ J0, +oc[ une fonction Jogarithniquemnent convexe ct véri- {*) On veut montrer que 9 =9 (I)1 {iaut: Vz > 0, g(r +1) = sg(z) g(z+1) g(z) 1 3) a) Montrer que Væ > 0 9(z + 1} g(r) 9 2 est pêriodique de période 4 b) Montrer que la fonction h F c) En déduire que h' est aussi périodique de période 1 4} a) Montrer quê si n < z < n+ 1, alors h'{s) g(s) FG) < "(n) + 1 W(l) + 4 9(s) T() h(n) n h(1) 8 Iu(z)
+3/5
 
+--- page 4 ---
+b) Montrer de même que R(l2 1 < W(z) h(l) 7 h(z) c) En déduire que lim Klz) "8 24++0 h(r) 5) a) Montrer que h' est constante } puis que h est constante b) Montrer alors que g(æ) = g(1)F(s), Yr > 0 On défnit la fonction beta par : Blz,u) =J*--t"-'d45u > 0 0 6) 1 a) Montrer que B(z + 1,y) = B(r,y+1) 4 b) Vérifier que B(æ,y + 1) + B(z+1,y) 5 B(z,y) 1 En déduire que B(z +1,y) = B(r, y) 1+4 7) a) Montrer que la fonction Æ + B(z,y)T (z + y) est logarithmiquement convexe et vérifie IzIW) b) En déduire que B(æ,y) = F(r+v)
+c) Retrouver alors la valeur de T 2
+8) a) Montrer que la fonction z 14
+2-'r (Z)r (2 22) est 2 logarithmique-
+ment convexe et vérifie
+b) En déduire que 2~T (Z)r 44) = VRT (æ) 9) a) Montrer alors que Jo LogT (t) dt 5 Logv 2r '1+1 b) En déduire que LogT (t) dt = sLogI 8888 Logv 2r
+4/5
 
+--- page 5 ---
+Partie I
+1
+Soit u(z) = (< ~1) ' pour I > 0 7E8 (n+I)(n + 2) 1 1) a) Vérifier que u(z) = E 528 7141 n+I b) Montrer que le fonction r 14 u(r) est dérivable sur ]0, +o[ et que 0o "(z) e 2 HI > 0. 120 (n+2)2' c) Montrer que lim zu(r) 42 71, lim   u(z) = +02, lun   "(z) =0 1+8+ 2440 1*4403
+2) a) Montrer que Vz > 0, u(z + 1) = u(æ) + 2 I b) Calculer f u(t)dt cr+1 c) En dêduire u(t)dt
+3) Montrer que Vr > 0, i) T(z) =exp (, ("(t) ~Y)dt ) jî) Flz) = u(r) ~ Y I(z)
+5 / 5

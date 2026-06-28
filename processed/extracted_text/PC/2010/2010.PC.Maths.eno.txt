@@ -1,4 +1,101 @@
+--- page 1 ---
+39 / 2:
+MEPUBHQE TUNISENNE > Recherdh Scirdifiqu Caucours Nationaux d'Entrée Jx Cycks de Famation d'hfénieus Sescn 2010
+"bkslexis @L=l diw iibsl olsMini ihunaal iefdsly Vi 200 ;391
+Concours Physique et Chimie Epreuve de Mathématiques
+Date: Lundi 31 Mai 2010
+Heure: 8 H
+Durée: 4 H
+Nbre pages:
+Barème Exercice: 4 pts,
+Problème:  Partie I: 9 pts,
+Partie II: pts. Une grande importance sera attachée à la rigueur du raisonnement , à la clarté et au soin de présentation.  L'usage des calculatrices n'est pas autorisé. Il est rappelé que tout résultat énoncé dans le texte peut être utilisé pour traiter la suite; même s'il n'a pu être démontré.
+On note N Vensemble des entiers naturels, N* lensemble des entiers naturels non nuls, R le corps des nombres réels; R+ le sous-ensemble de R formé des nombres réels positifs, R" le sous-ensemble de R formé des nombres réels différents de 0 et R; le sous-ensemble de R formé des nombres réels strictement positifs.
+Exercice
+Soit + une fonction de classe C2 sur R;. On définit la fonction 9 par
+RREassOR: {WisTiTUT @xblhotherque ) J SFn) 9 : R' x R' R, etudes DingEnkus ' (z,y) g(x,y) sP(r? 4 y2) . (a) Justifier que 9 est de classe C? sur R' x R' (b) Calculer les dérivées partielles premières 29 et 99 en fonction de $ Mr dy 029 02g (c) Calculer les dérivées partielles secondes et en fonction de + et 4" Mr2 y? Déterminer les solutions sur R; de léquation différentielle tz"  (t) + /(t) =2t.
+3. On veut déterminer les fonctions + pour lesquelles la fonction 9 vérifie léquation aux dérivées partielles 89(2,y) + 89(r,y) = 8(z? +y2), V(z,y) € R' x R . (2) Mr2 8y2 (a) Montrer que si la fonction 9 vérifie (2) alors la fonction + vérifie l'équation différentielle (1) , et donner l'expression de + (b) En déduire lexpression de 9. (c) Déterminer la fonction 9 solution (2) et vérifiant 9(1,0) = 0 et 99(1,0)+ 99(1,0) = 0. #x dy
+Concours Physique et Chimie Session Juin 2010
+Épreuve de Mathématiques
+Page 1/5
 
+--- page 2 ---
+Problème
+Partie I
+Notations Q € R désigne un réel strictement  positif.
+wa désigne la fonction définie par wa(t) = tœ-le-t pour tout t ej0; +a [ E est Je R-espace vectoriel des fonctions polynomiales réelles définies sur [0, +o[. Soit n € N, En est le sous-espace de F formé par les fonctions polynomiales dc degré inférieur ou égal à T. On désignc par B = (1, z,æ2 , la base canonique de En.
+Montrer que; pour tout (P;Q) € E? , la fonction PQwa est intégrable sur ]0; +œ{ On définit @œ par: qæ(PQ) = P(r)Q(z)wœ(r)dz .
+Montrer que $œ définit un produit scalaire sur E On notera par IPH? = $(P;P); où IlPll désignc la norme de P pour le produit scalaire 9a
+3. Soit X € R. On définit léquation différentielle suivante:
+(Lx)
+cy" (æ) + (a r)y + Ay = 0 On va chercher les solutions yx développables en séries entières nonI nulles
+(a) Montrer quc les coeflicients de la série entière solution de (Lx) vérifient la relation:
+1 = k
+ak+1
+ak , Vk € N. (k + 1)(a + k)
+(b) Expliciter les solutions yA de (Lx) (c) Pour > = n € N; montrer que les solutions sont des fonctions polynômiales de degré n. On note Ln les solutions dont le coefficient dominant an est égal à (d) Calculer Lo, L1 et L2. (e)  Expliciter pour chaque n € N; la fonction polynômiale Ln. Soit f (r) Iwa (æ)y (æ) où y est une fonction de classe C2 définie sur R+ et à valeurs dans R
+(a) Montrer que y cst solution de (Cn) si et seulement si f vérific l'équation différentielle suivante: Fn f'(x) + nwœ(z)y(æ) = 0, Vz € R
+Concours Physique et Chimie Session Juin 2010
+Épreuve de Mathémaliques
+Page 2/5
 
+--- page 3 ---
+(b) Montrer que; pour tout (P;Q) € E2, oll a:
+$a+ (P;Q) = v{xP;Q) = $(P;æQ)
+avec æP (respectivement æQ) désigne la fonction polynômiale associée au polynôme (XP)(X) XP(X) (respectivemnent (XQ)(X) XQ(X)) (c) En utilisanc la question 4.(a), montrer que: "n9œ(Ln; Ln) = @œ+1(Lm, Ln mFœ(Ln, Lm), V(n, m) €N?.
+où I' désigne la fonction dérivée de L (d) Montrer que la famillc (Lk)ke{o,1,n} est une base orthogonale de En- (a) Pour tout N; justifier   Vexistence dune   unique   famille de   coefficients réels (Bn,k sJozk<n+1 tellc quc: 7+1 xLn(r) = EpnkLx(r)  k'0 (b) Soit n > 2. justifier que, pour tout k < n - 2, on a Bn,k = 0. (c) En utilisant la question 3.(d) , vérifier que:
+Bn,n+1 = 1, An,n =0 + 2n, Bn,n-1 n(a + n - 1).
+(d Vérifier que
+Ln+1(z) ( Q - 2n)Ln(r) - n(œ + n = 1)En-1(æ),
+2 1.
+(e)   En utilisant la question 5.(a), montrer que:
+Bn,n+1%(Ln+l, Ln+l) = Bn+l,n%a(Ln, Ln) Vn € N.
+Déduire la norme de Ln. On considére lendomorphisme + de En défini par P(P)(z) IP" (z) + œ IPC (c).
+Montrer que est bien défini et donner sa matrice dans la base canonique de En. (h) L'endomorphisme 4 est-il diagonalisable. Calculer +(Lk) expliciter une base dc vecteurs propres pour +
+Concours Physique et Chimie Session Juin 2010
+Épreuve dc Mathématiques
+Page 3/5
 
+--- page 4 ---
+Partie II
+Pour æ € R Z; on considère la fonction 9 définie par
+9 : R 4
+R
+cos(zt)
+2T périodique et paire. (a) Calculer les coefficients de Fourier trigonométrique de g. (b) Établir que, pour tout $ € R | Z, on a
++00 2z 4 Z(-1)" 22 n2 n=l
+sin(Tz)
+Soit (In )nen une suite de réels. On admet le résultat suivant:
+La suite(xn)neN est  convergente si et seulement si la série (In+1 In) est n20 convergente Soit r € R4, n € N* . On pose
+(1)41 Sn(s) = et Hp(r) = 2 kz kI k=1 k=]
+(a) Soit un la suite de fonctions définie par
+n+1 #
+Un(r)
+nx
+Montrer que
+0 < Un(z) < nr+i
+Indication:  Utiliser le théorème des accroissement fini pour la fonction (b) Montrer que la série des fonctions de terme général un converge simplement sur J0, +o[ vers une fonction continue qui sera notée U. 1 - I (c) Montrer que la suite des fonctions "n(z) Hn(s) 1=z converge simplement sur J1, +œ[ vers une fonction qui sera notée $. Montrer que U(s) = ((r) + Vz €]1, +o[ 1 = 2 e) Montrer que la suite numérique Hn(1) In(n) est convergente:  On note sa limite (~1)n-1 (f) Prouver que la série de fonctions définit   une fonction de classe C1 sUT nz n= Jo; +0[ On note f cette fonction. g) Montrer que, pour tout x > 1, On a S2n(z) H2n (x) ~21-I Hn(z) .
+Concours Physique et Chimie Session Juin 2010
+Épreuve de Mathématiques
+Page 4/5
 
+--- page 5 ---
+(h) En déduire que
+f (z) (1 = 21~")Ç(z), Vz €]1, % Montrer que la fonction admet au voisinage de 1 le développement suivant:
+S(r) = 21+7+0(1)
+(Indication: Utiliser la question 2.(c) et 2.(d)).
+t2 -1 sur @ + et
+(j) Soit  > 0 et a > ~1 Etudier Fintégrabilité de la fonction 4 Pa(t) Jo; +o[ On désignera par la suite
+Foo {Po(t)dt.
+F(r) =
+Prouver que, pour Jal < 1 et z > 0, on a:
++oo tr-1 +0 an à+e =T(r) 2(-1)"(+i)j n=0
+Déduire la relation:
++c0 t*-1 1+6 = F(z)f(z)
+(m) Soit r eJo; 1[ t € R+ On définit unc suite de fonctions par:
+wo(t) t"-1 Wn(t) = (~1)"t" (tI _ t-2) si n 2 1
+Calculer, pour tout n € N; Ja valeur de lintégrale wn (t)dt. ii. Prouver que lon +0o tr-1 dt = 1+t sin(Tæ) `
+Fin de lépreuve
+Concours Physique et Chimie Session Juin 2010
+Épreuve de Mathématiques
+Page 5/5

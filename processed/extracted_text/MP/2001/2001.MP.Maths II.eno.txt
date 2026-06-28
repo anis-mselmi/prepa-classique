@@ -1,3 +1,55 @@
+--- page 1 ---
+RÉPUBLIQUE TUNISIENNE **x Ministère de lEnseignement Supérieur
+Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs Session Juin 2001
+Bbuches  Concours en Mathématiques et Physique # "8s Épreuve de Mathématiques II Date 12 Juin 2001 SHeure Vb pages 4
+Durée 3H
+Barême
+Partie [ fpts
+Partie II gpts
+Partie III 5pts
+Lusage des calculatrices est strictement interdit. Une grande importance sera attachée à la rigueur du raisonnement. à la clarté de la rédaction et au soin de la présentation. Il est rappelé que tout résultat énoncé dans le sujet peut être ntilisé pour traiter la suite. même s'il n'a pu être démontré.
+Pour tout entier m € N" OIl munit 3m de sa base canonique et du produit scalaire usuel n1 {I.y)in = C7 Iiy;: avec, 1 = (r1, Im) et y = (y1. Um ) On note Mn (R) l'espace des matrices à lignes et p colonnes à coefficients réels, et Mn (R) = Mn,n (R) . Si 4 € Mn .p(3) on note *4 la matrice transposée de 4 (*Ae Mp,n (R).) C(R") désigne lespace des endomorphismes de %" On rappelle que toute matrice symétrique réelle est diagonalisable dans une base orthonormnée.
+Partie [
+On note (el, &n ) la base canonique de R" et (11, àp) la base canonique de RP . Soit U: Rn RP une application linéaire de matrice B. 1. Montrer qu `il existe une unique application linéaire notée U*: RP R  telle que
+(u(s).y)p 2 (r, U * "(y))n, Vr € R" et V y € RP .
+(On pourra caractériser u par sa matrice) 2 Montrer que u*ou est un endomorphisme de R" diagonalisable et que ses valeurs propres sont positives. 3. Montrer que Ker u 0 U = Ker u. 4 . a) Soit 2 un vecteur propre nOn nul de U* 0 U relativement à une valeur propre ) nOIl nulle.
 
+--- page 2 ---
+Montrer que u(z) # 0 et que u(z) est un vecteur propre non nul de u 0 u pour la même valeur propre X b) Montrer que si > est une valeur propre non nulle de U * 0 u de multiplicité m alors > est une valeur propre de U 0 U* de multiplicité m En déduire que u*o u et u 0 u* ont le même rang et que ce rang est égal au rang de u. d) En déduire que si n 2 p; alors le polynôme caractéristique de la matrice BB est égal à ( -1)n-p Xn-p PBt B, avec PB B le polynôme caractéristique de B' B.- 11 5 Soit f = E-1 Ije; un vecteur non nul de R" et X = In a) Donner le rang de la matrice X' X 6 Déduire de ce qui précède que la matrice XtX est semblable à la matrice diagonale 'Icl2 avec IlzII2 = E;-1 r?
+c! Si 'iclln =   , montrer que la matrice ~2F'K est orthogonale et c' est la matrice de Ja :vmétrie orthogonale par rapport à lhyperplan orthogonal à x . ( In désigne la matrice identité dans Vn(R)) 2 6 Dans cette question on prend B = ~1 2 2 2 Calculer BB et Bt B et donner sans calculs une matrice diagonale semblable à la matrice B' B . 7. Soit 4 € Mn(R) une matrice symétrique et n 2 p. Montrer que les propriétés a) er b, suivantes sont équivalences a ; Il existe une matrice B € Mn.p telle que 4 = B*B b ) rang 4 < p et les valeurs propres de A sont positives.
+Partie II
+A) 1 . Montrer qu 'une matrice symétrique $ € Mz(R) définit une forme bilinéaire symétrique positive si et seulement si tr(S) 2 0 et det $ >2 0. (trS désigne la trace de la matrice $ et det S le déterminant de $.
+0 Q? c2 Soient a,b et c trois nombres réels strictement positifs, et la matrice A = a2 0 62 62 On note la forme bilinéaire symétrique sur R3 associée à la matrice A. 2 Ecrire P(z,y) pour (I,y) € R3 x R3 (I = (x1.I2,I3) et y = (U1, U2. y3) ) 3. On considère Fhyperplan H de R3 défini par: H = {z = (z1, *2 z3) € R?; $1+æ2+23 = 0}
 
+--- page 3 ---
+a
+Donner la matrice Au de la restriction de 4 à H relativement à la base (v w) de H, avec 7' = (-1,1,0) et W = (-1,0, 1 )  b) Montrer que la matrice ( ~Au) définit une forme bilinéaire symétrique positive si et seulement si 20262 + 2a2c2 + 26?c2 ~a4 ~ b4 _ c' 2 0. Montrer que si &,b, c représentent les mesures des cotés dun triangle dans le plan, salors Faire Sa,b, de ce triangle vérifie: 1682,6,c  2a262 4 2a? c2 + 262c2 ~a! ~64 _ c4 . d) En déduire une condition nécessaire et suffsante sur les nombres a,b, c pour que la matrice ( ~Au) définisse une forme bilinéaire symétrique positive
+B ) Pour la suite de cette partie; on prend a = b = c = 1. On note toujours + la forme bilinéaire
+ymétrique sur R} de matrice A =
+On note Q la forme quadratique associée à
+a
+formne + et O(Q) = {u € L(R?): Q(u(z)) Q(s), Yz € R3} (L'ensemble (O(Q)) est appelé e groupe orthogonal de la forne quadratique Q 1 . est-elle non dégénérée ? 2. Réduire la forme quadratique Q 3 Donner une base (v. "2, "3) de R' telle que la matrice de + dans cette base est
+J =
+4. Soit 1 € C(R}) et M sa matrice dans la base (v1, 82, v3) a) Prouver que: " € O(Q) P(u(æ), u(y)) = 'P(z,y),V(æ,y) € R' x R'
+et u € O(Q)
+{MJM = J
+b ) Calculer det Ul , pour " € 0(Q). 5. Soit M(Q) = {M € Ms(R) tel que MJM = J} a) Vérifier que pour tout t € R, les matrices M (t) et M2(t) sont dans M(Q), avec
+cht sht sht cht
+cht
+sht
+M1(t) =
+et M2(t) =
+sht
+cht
+b) En déduire une caractérisation des endomorphismes u € L(R:) tels que v 0 u = u 0 v POIr tout u € 0(Q). c) Lfensemble M(Q) est-il un compact dans M3(R) ?
+Soit Q1 une forme quadratique non nulle telle que O(Q) c O(Q1). On note la forme bilinéaire symétrique associée à Q1. On se propose de montrer que Q et Q1 sont propor - tionnelles .
+3
 
+--- page 4 ---
+6 . a) Montrer qu 'ilexiste un unique endomorphisme u € L(R?) tel que %(c,y) = +(c,u(y) ) Vr € R} et Vy € R3. b > Montrer que pour tout v € 0(Q).
+F("()vou(y)) = P(z. u(y)) et P(v(æ)."0v(y)) =((r,u(y)); Vr € R3 et Vy € R}
+c ) En déduire que u 0 v = " 0 U. pour tout " € O(Q) et qu`il existe ) # 0, tel que Q1 = Q et O(Q1) = O(Q). 7 . L'ensemble S = {r € R:Q(c) = 1} est-il un compact de R?? 8. Soii U € GL(R'). On se propose dc montrer que u € 0(Q) u(8) = S. a ) Montrer que si u € O(Q). alors u(8) = 5. b ; On suppose que u(S) = $. i, Férifier que v € S. Vv + "2 € S. Vv ~ v2 € S, V2v + "3 € S, V2v = U3 € S et v3"1 + v? + v3 € $. ii En  léduire que ~(v;.vk) = P(uiv;). u(vk) ). pour j.k = 1,2.3 et quC " € O(Q).
+Partie III
+Dans cette partie
+désigne une forme quadratique sur R" Non dégénérée et ~ la forme bilinéaire symétrique associée à Q. On note €(Q) = {" = CfR?}; Q(n(r) ) = Q(r: Hr = %"} e{ 5 = {r = ?";QIr) = 1}
+i . Construire une base orthogonale ( "1 , "n ) de R". telle que la matrice de ~ velative- ment à cette base Ip est diagonale de la forme 4 = 1 1 2 respectivemenl I7) désigne la matrice identité dordre p respectivement la matrice identité d'ordre q) ) p est le nombre de valeurs propres posi tives de la Inatrice de ? et < est ie nombre de valeurs propres négatives de la matrice de ç. (On précise que dans le cas où 9 = 0, alors A = In et le cas où p = 0, alors 4 = ~In) 2 On suppose dans cette question que p = 9 et T2 = 2p On pose wj = "j + "p+; et U'"+) = 2'j = vp+j pour tout 1 <j < p a ) Montrer que W1 : wn ) est une base de R?. b) Calculer Q(wk) , pour tout 1 < k < n et donner la matrice de 4 dans cette base. 3 Montrer que $ est un compact non vide de R" si et seulement si + est définie positi ve. 4. On suppose pour cette question que pq # 0. Soic u € GL(R"). a) Montrer que si u € O(Q), alors u(8) = S. b) Soit u € GL(R") tel que u(S) = s. i) Férifier que pour tout 1 < j,k < p et p+1 < îm < n, J(v+vk) € S. Viv; +" € $ . Vv; _ue € 8 et Vv; + v + vm € S. ii) En déduire que pour tout 1 < j.k < n. P(vj,v) = P(u(v;). u(v) ) et que u € OiQ)

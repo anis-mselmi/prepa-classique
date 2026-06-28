@@ -1,8 +1,107 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de l'Enseignement Supérieur et de la Recherche Scientifique
+4ssil Lusaaal all 4aa4l4 alell sledl 1l)s Uuis Yhsi eieLii :nani iss Jslyui 2022 i9
+Concours Nationaux dEntrée
+aux Cycles de Formation dIngénieurs Session 2022
+Concours Biologie et Géologie Epreuve dInformatique
+Date Mercredi 8 Juin 2022 Heure 8 H Barème PROBLEME 1 : 7 points PROBLEME 2 13 points
+Durée 2 H
+Nombre de pages 9
+DOCUMENTS NON AUTORISES
+L'USAGE DES CALCULATRICES EST INTERDIT
+IFAUT RESPECTER IMPERATIVEMENT LES NOTATIONS DE L'ENONCE VOUS POUVEZ EVENTUELLEMENT UTILISER LES FONCTIONS PYTHON DECRITES A LANNEXE (PAGE 9/9)
+Le sujet comporte deux problèmes indépendants portant sur la même thématique présentée dans la description générale qui suit Description générale Un Quiz est un questionnaire permettant de tester une ou plusieurs compétence(s) générale(s) ou spécifique(s). Un Quiz est utilisé dans 1enseignement pour des fins d'évaluation formative etlou sommative: Il est aussi utilisé dans les examens de certification. Différents types de questions   existent; dont les plus   utilisées   sont les   Questions   à Choix   Multiples (QCM) auxquelles   le candidat doit répondre en sélectionnant au_moins une parmi uneliste de propositions de   réponses   possibles associées à la   question. Une ou plusieurs de ces proposition(s) est/sont correcte(s) Les autres sont des propositions erronées dites distracteurs. La Figure 1, illustre à travers un exemple, les différentes parties dune question QCM qui vise la compétence K Bases de Données Relationnelles >
+Parmi les suggestions suivantes choisissez celles qui sont des termes SQL
+(a) append. (b) import. (c) having. (d) create.
+Tronc du QCM (Statement)
+Distracteurs
+Correctes
+Liste des Propositions du QCM
+Figure 1 : Différentes parties d'une question QCM
+Concours (Biologie et Géologie) Session Juin 2022
+Epreuve dInformatique Page 1/9
+
+--- page 2 ---
+Toute question appartenant à un Quiz est notée sur 1 point. Au cours du passage du Quiz un candidat doit distinguer la ou les proposition(s) qu'il juge exacte(s) en les choisissant; de celles qu'il juge distracteurs. À la fin du passage dun Quiz, un score est calculé pour décider si un candidat est digne de certification. Le score est la somme des notes obtenues dans toutes les questions du Quiz. Le tableau suivant présente le barème adopté pour la notation d'une question QCM: Tableau 1 : Barème de notation d'une question QCM Notation Par réponse correcte Par réponse incorrecte k= nombre total de propositions (= nombre de propositions correctes C k -c
+Pour la question de la Figure 1, la notation est calculée comme suit c =nombre de propositions correctes = 2 k= nombre total de propositions = 4 On accorde = 40.5 par proposition correcte   choisie et = ~0.5 par k -c proposition incorrecte (distracteur) choisie. Par exemple; pour deux candidats et qui ont émis respectivement les deux réponses "a c" et "a b d" auront dans Pordre les scores 0 = (-0.5 +0.5) et -0.5 = (-0.5- 0.5 + 0.5)
+PROBLEME 1
+Le but de ce problème est dimplémenter en Python des fonctions permettant d'extraire, de structurer   lesdonnées dun Quiz à partir dun fichier en format texte, de récupérer   les réponses dun candidat et de calculer son score. Pour ce faire on dispose du fichier nommé "Quiz txt" formaté comme suit (voir Figure 2) Chaque question est sur une seule ligne Chaque bonne proposition est sur une seule ligne qui commence par le caractère ' Chaque mauvaise proposition (distracteur) est sur une seule ligne qui commence par le caractère Ii Les questions sont séparées par une ligne à base dune succession du caractère Pour créer une requête dans une base de données relationnelle j ai besoin de savoir +la ou les tables que je vais utiliser ~la date de création de la base de données +les champs dont j'ai besoin -le nombre d' enregistrements contenus dans ma base de données * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * ** * * * ** * * * * * * * * * Lequel de ces formats de fichier n' est pas un format d' image ~GIF ~PNG +ODT ~BMP * * * * * * * * * * Un routeur est un firewall +Vrai ~Faux * * * * * * * Figure 2 : Extrait d'un fichier texte relatif à un exemple de Quiz partir du fichier "Quiz.txt" on construit les dictionnaires   nommées respectivement Ques  Prop et Rep tels que:
+Concours (Biologie et Géologie) Session Juin 2022
+Epreuve dInformatique Page 2/9
+
+--- page 3 ---
+Ques est un dictionnaire contenant toutes les questions du Quiz où Chaque clé est un entier identifiant le numéro de la question; généré selon l'ordre de présence des questions dans le fichier. Chaque valeur est une chaîne contenant le tronc (énoncé) de la question Prop est un dictionnaire contenant les propositions de toutes les questions du Quiz où Chaque clé est un entier identifiant le numéro de la question: Chaque   valeur est une   liste de propositions. Une proposition est une chaînede caractères . Rep est un dictionnaire contenant toutes les réponses aux questions du Quiz où Chaque clé est un entier identifiant le numéro de la question. Chaque valeur est une liste de booléens; True si la réponse est correcte, False sinon
+Travail demandé Dans la suite les fonctions demandées seront écrites en langage Python
+Écrire qui prend en entrée le nom du fichier texte 1. la fonction ExtraireQuiz NomFich, retourne un tuple contenant les trois dictionnaires Ques, Prop et Rep Le résultat de lextraction des données à partir du fichier texte est illustré dans la Figure 3 Pour créer une requête dans une base de données relationnelle j'ai Ques= {1 : 2 : Lequel de ces formats de fichier n' est pas un format besoin de savoir d' image 3 : Un routeur est un firewall 2" } les tables je vais utiliser" "la date de création de la base Prop= {1: ["la ou que dont j'ai besoin "le nombre d' enregistrements contenus de données "les champs de données" ] 2 : [ "GIF" PNG" "ODT" "BMP" ] 3 : ["Vrai "Faux" ] dans ma base
+Reponses= {1: [Irue, False Irue, False] 2 : [False, False Irue, False] 3 : [True, False] } Figure 3 ; Résultat de Textraction des données relatives à la Figure 2
+2 Écrire la fonction AfficheQuestion qui prend en entrée le dictionnaire Ques, le dictionnaire Prop et un entier num représentant un numéro de question. La fonction affiche Pénoncé de la   question ainsi que ses différentes propositions   numérotées alphabétiquement à partir de la lettre (a) comme illustré dans la Figure 4. L 'appel de AfficheQuestion (Ques Prop , 2) donne le résultat suivant 2) Lequel de ces formats de fichier n est pas un format d image? (a) GIF (b) PNG (c) ODT (d) BMP Figure 4 Exemple d'affichage d'une question QCM 3 Écrire la fonction InitialiserDictCandidat qui prend en entrée le dictionnaire Prop retourne le dictionnaire dictCand où Chaque clé est un entier identifiant le numéro de la question. Chaque valeur est une liste de booléens initialisés à False. cette liste a la même taille que la liste des propositions de chaque question.
+2g 7 s
+ .. : `  12 
+
+Concours (Biologie et Géologie) Session Juin 2022
+Epreuve dInformatique Page 319
+
+--- page 4 ---
+4  Écrire la fonction LectureRepQCM qui prend en entrée le dictionnaire dictCand et un entier num _ permettant de Saisir une chaîne contenant la/les lettre(s) alphabétique(s) associée(s) au(x) choix du candidat (séparées par des espaces) On ne demande pas le contrôle de saisie des lettres correspondantes aux choix. Demander au candidat de confirmer son choix en affichant les propositions choisies accompagnées du message < Voulez-vous confirmer votre réponse O/ N ? > Mettre à jour le dictionnaire dictCand si le candidat confirme par < 0 > Répéter le processus si le candidat répond par < N >
+Lappel de LectureRepQCM (dictCand , 2) donne le résultat suivant 2) Lequel de ces formats de fichier est pas un format (a) GIF (b) PNG (c) ODI (d) BMP Donner la/les lettre(s) alphabétique (s) associée (s) au (x) choix du votre réponse (séparés par des espaces) Voulez-vous confirmer votre réponse 0/ N ? N
+Donner la/les lettre (s) alphabétique (s) associée (s) au (x) choix du votre réponse (séparés par des espaces) b Voulez vous confirmer votre réponse 0/ N 0 Figure 5 Exemple de saisie de réponses.
+5 Ecrire la fonction NoterRepQCu qui prend en entrée le dictionnaire dictCand, le dictionnaire   Rep et un entier num représentant un numéro de question. La fonction calcule et retourne la note obtenue selon le barème décrit dans le Tableau 1 .
+6 Ecrire le script Python permettant de Construire les dictionnaires Ques Prop et Rep Initialiser le dictionnaire dictCand Pour chaque question du dictionnaire Ques Afficher la question suivie de ses propositions Saisir la réponse du candidat Mettre à jour dictCand selon ses choix Calculer et afficher le score obtenu par le candidat sous forme de pourcentage par rapport au nombre total de questions.
+PROBLEME 2
+Un cabinet de formation dispose d'une base de données pour la gestion de son référentiel de questions dévaluation et de certification
+Ily a lieu de considérer les points suivants Un candidat obtient un voucher pour passer un Quiz (examen de certification). Un candidat peut acheter plusieurs  vouchers pour le passage de divers examens de certification. Toutes les questions sont de type QCM y compris les questions de type Vrai/Faux. Un Quiz passé par un candidat suite à lachat d'un voucher, est appelé tentative. Pour être évaluée; une tentative de candidat doit être validée et soumise au cours dun délai de temps publié pour lexamen de certification. Dépassant la durée prévue pour un examen de certification sans soumission; le candidat est considéré défaillant.
+Concours (Biologie et Géologie) Session Juin 2022
+Epreuve dIpformatique Page 4/9
+
+--- page 5 ---
+Pour répondre aux questions du Quiz, le candidat doit choisir les réponses qu'il juge correctes. Toute question appartenant à un Quiz est notée sur 1 point. Le calcul de note dun candidat pour toute question QCM du quiz est fait sur la base du barème expliqué dans le Tableau 1. Le score dun candidat dans une tentative est un pourcentage calculé sur la base de la somme des notes obtenues pour toutes les questions du Quiz et divisé par le nombre des questions. Une   question QCM peut avoir   des   propositions de   réponses toutes entièrement correctes mais jamais toutes fausses. Une question QCM de type Vrailfaux,   supporte   uniquement deux propositions de réponses, exclusivement une correcte, et une fausse. Le schéma relationnel de la base de données est défini comme suit Quiz (idQuiz, description; duree, dateCreation; dateFin) La table Quiz enregistre les informations relatives à un Quiz. idQuiz identifiant du Quiz, un nombre de type entier, clé primaire description décrit lintitulé de lexamen de certification; de type chaîne duree durée officielle du Quiz, de type entier exprimée en minutes dateCreation date de création relative à la mise en vigueur du Quiz, de type date dateFin date fin de mise en vigueur du Quiz, de type date
+Question (idQs; tronc, dateCr) La table  Question   enregistre les informations générales relatives à une question. idQs identifiant dune question; clé primaire; de type entier; tronc énoncé de la question; de type chaîne; dateCr date de création de la question; de type date
+Proposition (#idQs_idProp, textProp, veracite) La table Proposition enregistre les propositions de réponses relatives à une question (les réponses correctes et les distracteurs) . idQs identifiant dune question; clé étrangère qui fait référence à la table Question; idProp identifiant dune réponse proposée relativement à la question identifiée par idQs, de type entier; textProp réponse proposée, de type chaîne; veracite indique létat de la réponse proposée; de type entier; égale à 1 si la réponse proposée est vraie, 0 sinon; NB: idQs et idProp ensembles forment la clé primaire de la table Proposition.
+DetailQuiz (#idQuiz #idQs) La table DetailQuiz enregistre les questions relatives à un Quiz. idQuiz identifiant dun Quiz, clé étrangère qui fait référence à la table Quiz ; idQs identifiant d'une question; clé étrangère qui fait référence à la table Question ; NB: idQuiz et idQs ensembles forment la clé primaire de la table DetailQuiz.
+Concours (Biologie et Géologie) Session Juin 2022
+Epreuve d'Informatique Page 519
+
+--- page 6 ---
+Candidat (idCand, nom, prenom; email, pwd) La table Candidat enregistre les  informations relatives aux   candidats qui passent   des examens de certification. idCand identifiant du candidat, clé primaire, de type chaîne nom nom du candidat, de type chaîne prenom : prénom du candidat; de type chaîne email adresse mail du candidat, de type chaîne pwd mot de passe du candidat, de type chaîne
+Tentative (voucher; #idCand, #idQuiz; datehDeb, datehFin; scoreG) La table Tentative enregistre les informations relatives à un passage dun examen de certification par un candidat suite à /achat dun voucher. voucher identifiant délivré à tout candidat ayant payé des frais et désirant passer une certification; clé primaire; de type chaîne idCand identifiant dun candidat;, clé étrangère qui fait référence à la table Candidat idQuiz identifiant dun Quiz, clé étrangère qui fait référence à la table Quiz ; datehDeb date et heure  début de passage de 1examen de certification; de type datetime ayant le format AAAA-MM-JJ hh :mm :ss datehFin date et heure fin de   passage de 1examen de   certification; de type datetime ayant le format AAAA-MM-JJ hh :mm :ss= scoreG score   obtenu par le candidat sur la base de ses   réponses aux questions proposées; de type réel
+ReponseCandidat(#voucher; #idQs #idProp) La   table   ReponseCandidat   enregistre  les   propositions   choisies   explicitement par   le candidat.
+voucher identifiant   dune tentative, clé   étrangère qui fait référence à la   table Tentative idQs identifiant dune question; clé étrangère qui fait référence à la table Question idProp identifiant dune proposition; clé   étrangère qui fait référence à la   table Proposition
+Travail demandé : Partie 1 Pour chacune des requêtes algébriques suivantes, décrire le résultat attendu. 1. II(Quiz)-FI(Tentative) idQuiz idQuiz
+2
+(Question Proposition veracite=] tronc , textProp idQs
+Concours (Biologie et Géologie) Session Juin 2022
+Epreuve dInformatique Page 6/9
+
+--- page 7 ---
+Partie 2 Exprimer en SQL les requêtes suivantes permettant de 1  Créer la table Proposition en respectant les contraintes dintégrité spécifiées dans le schéma relationnel. Dans la suite on suppose que les tables sont créées et remplies. 2. Ajouter la question d'identifiant 17546 au Quiz d'identifiant 228. 3 Supprimer les questions dont les dates de création sont antérieures à /'année 2012. 4 Déterminer les noms des candidats qui comportent les lettres "L" et "A" 5. Déterminer les troncs des questions et leurs propositions de réponses relatives au Quiz ayant lidentifiant 175. 6 Déterminer les informations des Quiz qui ne seront   plus en vigueur à partir daujourd'hui sachant qu'une date peut être comparée à la valeur de retour de la fonction current date qui représente la date courante. 7 Déterminer les identifiants, troncs et propositions des questions qui n'ont jamais été assignées dans des Quiz. 8. Déterminer les identifiants des questions QCM de type Vrai/Faux. 9 Déterminer les troncs des questions QCM qui proposent plus que 4 réponses possibles. 10. Déterminer les identifiants des questions QCM qui proposent de 3 à 5 réponses, toutes correctes. 11. Déterminer les informations des tentatives des candidats défaillants qui ont dépassé le délai réglementaire prévu pour le passage de tout Quiz de certification. La fonction JulianDay (datetime permet de calculer lintervalle de temps entre deux dates et heures précises. Les   exemples suivants   expliquent   lutilisation de la fonction JulianDay Exemple 1 : SELECT (julianday ( '2022-06-01 10 :00:00 ') -julianday( '2022-06-01 08 : 00 : 00 ' ) ) ; donne 0 . 0833333330228925 Exemple 2 SELECT (julianday (2022-06-08 10 :00:00 ' ) -julianday (2022-06-01 08 : 00 : 00 ' ) ) donne 7 08333333302289 12. Déterminer les identifiants des Quiz qui ne proposent pas des questions QCM de type Vrai/Faux.
+Partie3
+Dans la suite les fonctions demandées doivent être écrites en Python. On désigne par Cur le curseur d exécution de requêtes. 1. Écrire la fonction Score_Question qui prend en paramètre Cur, lidentifiant dun voucher et lidentifiant ido dune question; calcule la note obtenue par le candidat. 2. Écrire la fonction Score_Quiz qui prend en paramètre Cur, lidentifiant V dun voucher puis met à jour le score obtenu par le candidat.
+Concours (Biologie et Géologie) Session Juin 2022
+Epreuve d'Informatique Page 7/9
+
+--- page 8 ---
+3 Écrire la fonction Stat_Certif qui prend en paramètre Cur et renvoie une liste de tuples.  Chaque tuple est constitué de cinq éléments lidentifiant du Quiz et quatre indicateurs de performance (le score maximum, le score moyen; le score minimum et Pécart type).
+Ix; = #l j=l
+La formule de lécart type est 0 =
+n
+désigne le score dun candidat pour un Quiz. p désigne la moyenne des scores des candidats qui ont passé ce Quiz. n désigne l'effectif des candidats qui ont passé ce Quiz.
+n ?
+ 7  s g  <
+ `
+
+ -
+ (
 
 
 
+    ,  
 
 
+Concours (Biologie et Géologie)  Session Juin 2022
+Epreuve dInformatique Page 8/9
 
-
-
+--- page 9 ---
+ANNEXE - Quelques Fonctions/Méthodes Python
+Sans aucune obligation, les fonctions suivantes pourraient vous être utiles. Opérations sur les fichiers f=open (nomF m) Permet douvrir le fichier nomF en mode m ou m='r' ou 'w' f .close () Permet de fermer un fichier. f .read ( ) Permet de lire et retourner le contenu dun fichier dans une chaîne de caractères . f readline Permet de lire et retourner la ligne courante dun fichier dans une chaîne de caractères . f readlines Permet de lire et retourner le contenu de toutes les lignes dun fichier dans une liste Opérations sur les itérables (str, tuple list; dict; etc:) len (it) Retourne le nombre déléments de litérable it. range (d, f, p) Retourne   la séquence des valeurs   entières successives comprises entre d et f, f exclu par pas P X in it Vérifie si x appartient à it. n*it Concatène n copies de it. ord (c) Retourne le code ASCII du caractère c. Par exemple; ord a') renvoie lentier 97. chr (code) Retourne le caractère correspondant au code_ASCII st . split (motif) Retourne une liste formée par des chaînes de caractères résultantes   du découpage de la chaîne st autour de la chaîne motif. st. strip() Retourne une copie de st en supprimant à la fois les retours à la ligne de fin et de début: st.startswith (prefix) Retourne True si la chaîne st commence par la chaîne prefix: motif.join Retourne une chaîne de caractères résultante de la (itérable de chaînes) concaténation des éléments de litérable intercalés par le motif motif format (paramètres) Retourne une chaîne de caractères obtenue en substituant dans lordre chaque caractère {} dans motif par un objet dans paramètres: d.keys () Retourne un itérable formé par les clés du dictionnaire d d.values Retourne un itérable formé par les valeurs du dictionnaire d d.items Retourne un itérable de couples (k,v) ou k est une clé du dictionnaire d et v est la valeur associée. lst.count (val) Retourne le nombre doccurrences de val dans la liste Ist. lst.append (val) Ajoute val à la fin de la liste Ist.
+Concours (Blologie et Géologie) Session Juin 2022
+Epreuve dInformatique Page 919

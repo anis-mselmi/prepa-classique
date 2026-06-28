@@ -1,3 +1,63 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE 1silxal) Ministère de PEnseignement Yli ahji iljs Supérieur, de la Recherche Scientifique et de la Unajl e24i 9 Technologie. 44?9 Jissj1 9 Concours Nationaux d'Entrée aux Cycles Jsall ~iLsi aijLLiJi de Formation d'Ingénieurs DHMJi J Jal> H Session 2008 2008 ;,> Concours Mathématiques et physique Épreuve de Chimie
+Date Mardi 03 juin 2008
+Heure : 8
+Durée : 2h
+Nombre de pages 4
+BBarème/20 Partie 1 : 2 pts Partie [I 2,5 pts Partie TIT 3,5 pts] Partie IV 2,5 pts [Partie V : 5 ptsl Partie VI : 4,5 pts Cet énoncé comporte trois pvges de texte et un document annexe (page 4)
+Les candidats sont priés de présenter leurs réponses dans l'ordre même de l'énoncé. L'usage des calculatrices électroniques de poche non programmables est autorisé L'utilisation des téléphones portables en salle d'examen est strictement interdite. Aucun échange n'est autorisé entre les candidats. DÉBUT DE LÉNONCÉ Le manganèse, de symbole Mn et de numéro atomique 25, est un métal gris clair et brillant Cest le I2ème élément par son abondance dans la nature il constitue près de 0,1 % en masse de la croûte terrestre:  Il est largement répandu sous la forme de minerais, tels que la pyrolusite  MnO2; minerai principal, la rhodochrosite, la franklinite; la psilomélane et la manganite. Le manganèse est très réactif. Il est corrodé à l'air humide et se dissout dans les acides.
+Données à 298 KL Masses molaires (g.mol-' ) : manganèse MMn = 55 aluminium MAl= 2 27 ; oxygène Mo = 16. Constante d'autoprotolyse de Feau Ke = 10-14 Constante des gaz parfaits R = 8,32 JK' mol-! Produit de solubilité de Mn(OH)2 : Ks = 4.10-14 . Potentiels standard (normaux) redox Couple redox HzO/H2(g) MnO2/Mn Mn IMn MnOz /MnOz E' (V) 0,00 1,23 41,19 1,69 RT x Ln(x) = 0,06 logio (x) F NA = 6,023. 1023 mol-  (snituT Pair Nombre d' Avogadro BISUCTHK; F 8 6 Partie I : Chimie générale : (2 pts)
+1-1) Écrire la structure électronique externe de latome de manganèse. 1-2) Montrer qu'il s'agit dun élément de transition. 1-3) À quel groupe et période du tableau périodique appartient cet élément ? Justifier. 1-4) Quel est l'état doxydation de lion manganèse le plus stable ? Justifier .
+Tournez la page S.V.P. Épreuve de Chimie Page 1/4
+Concours Mathématiques et physique Session 2008
 
+--- page 2 ---
+Partie LL : Empilements compacts : (25 pts)
+À létat métallique les atomes de manganèse sont empilés selon le modèle compact cubique à faces centrées (C.FC.) Le paramètre de la maille vaut a = 3,490 %. IL-1) Représenter un dessin de la maille et de son contenu. II-2) Donner la projection cotée de la maille et de son contenu sur le plan (a,b). II-3) Quelle est la coordinence dans cet empilement ? II-4) Calculer sa compacité. II-5) Calculer le rayon des atomes de manganèse (en angstrëm B) dans cet empilement.
+Partie III Diagramme dEllingham : (3.5 pts2
+Les  températures normales de fusion Tf et de vaporisation T dun métal M sont largement   supérieures à lambiante. Ce métal s'oxyde à lair libre pour donner un composé de formule MO supposé solide dans le reste de cette partie. III-1) Écrire léquation chimique d'oxydation; relative à une mole de dioxygène, du métal M à la température   ambiante en précisant létat physique de chacun des intervenants. III-2) Sans appliquer les approximations dEllingham; de quelles données thermodynamiques a-t-on besoin pour exprimer lenthalpie libre standard AG' en fonction de la température T ? III-3) On se place dans les   approximations   dEllingham. Établir   1expression de 1enthalpie libre standard A,G en fonction de la   température T, des   entropies standard et des enthalpies de formation standard des produits et des réactifs. III-4) Exprimer la loi daction de masse relative à cet équilibre. III-5) Établir la relation entre AG et la constante déquilibreK II-6) On considère le diagramme dEllingham du système étudié représenté sur la figure 1. En explicitant votre raisonnement; déduire du graphe a) lexpression numérique de 4,G;(T)pour T< T;, b) lexpression numérique de 4,G (T)pour T; <T< T' , c) Penthalpie standard de formation AfH' de oxyde MO, d) /enthalpie standard de fusion Afus HP du métal M, e) Pentropie standard de fusion Afus S% du métal M. III-7) Établir Pexpression puis calculer la pression du dioxygène à léquilibre (Po, Yeq à 300 K.
+Partie IV : Structures ioniques : (2 5 pts2
+Loxyde de   manganèse   de   formule MnO cristallise selon le type  NaCI avec un paramètre de maille a; = 4,446 &. IV-1) Préciser son système cristallin. IV-2) Préciser son type de réseau.
+Concours Mathématiques et physique Session 2008
+Épreuve de Chimie
+Page 2/4
 
+--- page 3 ---
+IV-3) Calculer le rayon de lion manganèse RMn sachant que celui de l'ion oxygène vaut Ro= 1,320 %. IV-4) En déduire que ce résultat est compatible avec une structure du type NaCI. IV-5) Quelle est la coordinence des cations ? IV-6) Calculer la compacité de ce réseau.
+Partie V : Diagrammes de Pourbaix : (5 pts) 912
+En considérant à 298 K : Les espèces solides suivantes Mn MnOz et Mn(OH)2. Les ions en solution une fois molaire Mn- 2+ et MnOz = V-I) Établir les équations E = f(pH) des courbes frontières en calculant les potentiels normaux des couples Ox/Red inconnus si nécessaire. V-2) Tracer le diagramme potentiel-pH simplifié du manganèse en solution aqueuse. V-3) Indexer ce diagramme. Préciser   les domaines dimmunité, de   passivation et doxydation du manganèse. V-4) Qu'en est-il de la stabilité du manganèse métallique dans une solution acide en fonction de son pH (On prendra PH2 " 1 bar) ? Justifier.
+Partie VI : Diagrammes déquilibre entre phases 2 (45 pts)
+Sur la figure 2 est représentée une portion du diagramme déquilibre entre phases solide liquide du système binaire aluminium manganèse. VI-1) Que peut-on dire de la solubilité à l'état solide du manganèse dans laluminium ? Justifier. VI-2) Quelle est la nature du composé intermédiaire C ? Justifier: VI-3) Trouver la formule du composé C VI-4) Relever les coordonnées des points eutectiques et péritectiques dans cette portion de diagramme. VI-5) Indexer les domaines numérotés I, II, III et IV. VI-6) Que représente le point Z de coordonnées (1,8 659) ? VI-7) On considère un mélange de composition pondérale en manganèse de 15% en équilibre à 659*C. Quelles sont les phases présentes à cette température ? VI-8) Représenter  pour ce mélange les lignes de conjugaison contenant les points représentatifs des différentes phases et les segments qui représentent les masses de chaque phase quand le solide global pèse 2 fois plus que le liquide. VI-9) Déduire le rapport des masses des solides.
+FIN DE LÉNONCÉ
+FIN DE LÉPREUVE
+Concours Mathématiques et physique Session 2008
+Épreuve de Chimie
+Page 374
 
+--- page 4 ---
+Annexe
+ArG%(kJ.mol-1) 500
+Tf
+1000
+Tv
+T(K)
+-200
+"300
+400
+"500
+"600
+Figure 1 : Diagramme dEllingham du système MOIM
+900
+g 800 | 2 4,1 700 690 I II 2 600
+710
+659
+IV
+C-
+500 AI
+5 10 15 Teneur en Mn (%massique)
+20
+25
+Figure 2 2 Portion du diagramme binaire solide-liquide Al-Mn.
+Concours Mathématiques et physique Session 2008
+Épreuve de Chimie
+Page 4/.

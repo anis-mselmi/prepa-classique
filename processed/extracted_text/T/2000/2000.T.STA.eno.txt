@@ -1,15 +1,229 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de [Enseignement Supérieur (orePamtop  6 Concours Nationaux dEntrée aux (BELICTHEQUE ) 22 Cycles de Formation d'Ingénieurs Gux Eu5es ^ deEN|F Session Juin 2000 Concours en Technologie Epreuve de Sciences et Techniques de lIngénieur
+Durée 5 Heures (4.H 30mn + 3Omn lecture du sujet) Date 08/06/2000 Heures: 8HOO Nb pages :14
+Barème Partie A 9 points Partie B : 6 points Aucun document n'est autorisé
+Partie € : 5 points
+Les   différentes   parties de lépreuve sont indépendantes.  Les  parties (Construction et fabrication mécanique) B Mécanique ) et C (Automatique) doivent être traitées sur des copies indépendantes. Les documents réponses (3/14), (4/14), (5/14) (6/14), (8/14), (9/14) seront glisses à Tintérieur de la copie correspondante.
+FAUTEUIL ROULANT
+POUR HANDICAPE MOTEUR
+Description:
+Le fauteuil roulant représenté sur la figurel permet aux handicapés moteur de se déplacer librement à l'intérieur ct à l'extérieur des locaux sans aucune assistânce. Ce fauteuil fonctionne en deux modes: motorisé et manuel Pour   le mode   motorisé;   lhandicapé   dispose dune manette   perniettant de commancer aisément: le déplacement du fauteuil en avant ou en arrière à une vitesse réglable de 0 à 6 Kmheure; le   braquage à droite ou gauche du  fauteuil   facilitant   ainsi   les manœuvres difficiles à lintérieur des locaux même quand la vitesse de déplacement est nulle; la montée et la descente du siège (assise + dossier) à une altitude variable avec ur déplacement latéral afin de donner à Thandicapé une autonomie pour se déplacer du siège vers son lit et vis versa
+La motorisation de ce fauteuil est assurée par 3 moteurs à courant continu (MI, M2 et M3 ): Les moto réducteurs   frein MI et M2 commandent respectivement les deux roues arrières droite et gauche (les deux roues avants sont des roues suiveuses); Le moto réducteur M3 permet de commander un système de levier articulé pour assurer le déplacement vertical et latéral du siège à la hauteur voulue (figure 2 et 3)
 
+--- page 2 ---
+Lalimentation des trois moteurs est assurée par une batterie de 24 V rechargeable, donnant ainsi une autonomie de 23 Km environ.
+Le mode manuel est essentiellement   utilisé en cas de panne du système de motorisation (panne moteur batterie déchargée, etc. 2). Le passage à ce mode de fonctionnement est réalisé par un système dembrayage commandé par action de l'assistant de lhandicapé moteur sur la tirette (18) (page (7/14)).
+Manette de commande
+Siège du fauteuil
+Moteur MI
+Moteur M2
+Pose pieds
+Roue droite
+Roue suiveuse
+Roue gauche
+Moteur M3
+[Batterie
+Figure 1: Vue générale du fauteuil roulant
+1E Figure 2 Siège du fauteuil en position haute Page 1/14
+Figure 3: Siège du fauteuil en position basse
 
+--- page 3 ---
+Ne rien écrire ici
+A-2 ETUDE DE LA PARTIE OPERATIVE Motorisation des roues arrières Dans cette partie; on s'intéresse seulement au système de transmission de mouvement du moto réducteur frein à la roue gauche ou droite; représenté sur la pages (7/14) et (10/14)
+NB: Mesurer les cotes utiles sur le dessin ci-nécessaire
+A-2-1 Etude de l'embrayage Lors du passage du mode motorisé en mode manuel (panne dun moteur, batterie déchargée, etc ) , lassistant de l'handicapé moteur agit sur la tirette dembrayage (18) avec deux doigts.
+A-2-1-1 Quel est le type dembrayage utilisé?
+A-2-1-2 Quel sont les pièces entraînées en translation avec la tirette dembrayage (18)?.
+A-2-1-3 Quel est le rôle du ressort (21) ?
+A-2-1-4 Déteriner la course nécessaire de la tirette (18) pour passer du mode motorisé au mode manuel
+A-2-1-5 Quelle est l'utilité des lumières Ll et L2 usinées sur la pièce (23) et pourquoi comportent-elles deux diamètres différents (voir vue suivant F du flasque (23) seul à la page (7/14)).
+A-2-1-6 Comment l'assistant de lhandicapé doit agir sur la tirette (18): pour passer du mode motorisé au mode manuel
+pour passer du mode manuel au mode motorisé
+Page 3/14
+3
 
+--- page 4 ---
+Ne rien ecrire ici
+A-2-1-7 Calculer le couple C1 exerce sur laxe (9) On donne puissance de chaque moteur: Pm = 0,4Kw rendement du réducteur: n = 0,75 vitesse nominale du fauteuil: V = 1 Kmlh diamètre de la roue motrice: 40Omm
+A-2-1-8 En raison du jeu prevu entre les tétons des vis (14) et les encoches de l'axe (9), la répartition des sollicitations n'est pas identique dun téton à lautre On supposera que le téton le plus sollicité est soumis;, dans le cas le plus défavorable; à la totalité de l'effort   Vérifier, dans ces conditions la résistance des tetons des vis ( 14) au cisaillement. On donne: Contrainte admissible de cisaillement du matériau des vis (14): Rpg 145 MPa (IMPa-INmm Diamètre du téton de la vis (14): d1s = 8mm
+A-2-2 Dimensionnement du coussinet (20): A-2-2-1 En mode manuel, la liaison entre larbre (9) et le coussinet (20) est une liaison pivot. Calculer la pression p au niveau du contact arbrelcoussinet. On donne: Charge maximale sur une roue motrice dans le cas le plus défavorable: Fmax 250 daN Diamètre intérieur du coussinet: dz = 18 mm longueur du coussinet: Iz = 36 mm vitesse de rotation maximale: Nmax=150 trlmn
 
+--- page 5 ---
+Tuniocnne
+Concours Nationaur d'Entée aux Cycles de Formation d'Ingénicurs Concours : Tcchnologique Epreuve Sciences et Techniques de ['Ingénieur
+Sigatrc des survcillants
+[Emcigncment Superiar
+Nom
+Prénom
+Identificauon
+Série
+PARTIE ~A- :CONSTRUCTION ET FABRICATION MECANIQUE
+A-I- ANALYSE FONCTIONNELLE
+En se basant sur la description du fauteuil roulant en mode motorisé et en se référant aux dessins &ensemble   des différents   éléments   représentés sur les pages (6/14) et (7/14), compléter  les actigrammes suivants
+a} L'actigramme A-0
+Énergie électrique (Phase de chargement)
+Handicapé moteur en postion initiale
+Handicapé moteur en position finale
+Fauteuil roulant
+b) Lactigramme AO Énergie_électrique (phase de chargement)
+Batteric
+Moto réductcur frcin MI
+Mécanisme de tansmissioa
+Rouc Gauchc
+Moto reductcur frcin M2
+Mécanismc dc tansmission
+Rouc droite
+Moto réducteur M3
+Système de levicrs
+Handicape moleuren position initiale
+Handicapé en posinon finale
+Siège du Fauteul
 
+--- page 6 ---
+Ne rien écrire ici
+A-2-2-2 Calculer la vitesse de glissement V au niveau du contact arbre (9) coussinet (20)
+A-2-2-3 Calculer le produit p.V et   choisir en   utilisant   le tableau   ci-dessous le type de   coussinet convenable pour qu'il résiste bien à l'usure et au matage
+Type de coussinet:
+Performances indicatives comparatives des coussinets usuels Vitesse maxi Temperature limites Pression admissible Produit P V Type de admissible de fonctionnement en fonctionnement admissible coussinet (ms) "C) (Nlmm?) (Nlmm?) (mVs) Glacier acétal 2 à 3 40 à 100 14 0,48 Glacier PTFE -200 à 280 20 Graphite 13 400 0,45 Bronze-étain 7à 8 250 7à 35 1 7 Bronze_plomb 7à 8 250 20 à30 1,8 Nylon 2 à 3 80 à 120 7à 10 0 1ào 3 Acétal 2à3 40 àl0o Zà 10 0.3
+A-2-3 Cotation fonctionnelle
+A-2-3-1 Indiquer les ajustements des assemblages suivants voir page (7/14)
+Assemblage Aentre (I)et (22 B entre (2)et (12) Centre (Z)et (12) %D entre (8) et (9 BEentre (L I)et (12) BFentre (9)et (72 Gentre (2O)et (23 Hentre (9 et (20)
+Ajustement
+Page 4/14
 
+--- page 7 ---
+Roubliqu Tunisicooe 81'Eodioeoa Supaiar
+Concours Natonaur d'Entéc 'ux Cycles dc Formation d'Ingénicurs Concours : Tcchnologiquc Eprcuve Scicnccs &t Tachniqes de |'Ingencur
+Signature dcs survcillants
+Nom
+Prcnom
+Idcpuficsuo
+Séne
+A-2-3-2 Tracer sUr le dessin ci-dessous les chaînes de cotes relatives aux conditions [, J et K
+La condition [ entre Yaxe (9 et la tirette ( 18) position embrayée La condition J entre l'extrémité de la vis (14) et la face droite de l'axe (9) en position embraye La condition K entre le couvercle centreur (2) et le boîtier ( 12)
+4-2-3-3 Justifier l'utilité de chacune de ces conditions Condition [: Condition J: Condition K:
+K
+5
 
+--- page 8 ---
+Ne rien écrire ici
+A-3 Etude de conception Dans cette   partie, on   s'intéresse au système delévation du siège du fauteuil donne par  le dessin densemble de la page (6/14).
+A-3-1 Guidage en rotation de l'arbre (33) Compléter sur la page (6/14) en coupe B-B et à l'échelle (1.2): a) le guidage en rotation de l'arbre (33) par un coussinet épaule (30) et un coussinet simple (35} en bronze; b) la cotation des assemblages fonctionnels.
+A-3-2 Liaison hélicoïdale de l'arbre (33) avec le porte écrou (32) Compléter sur la page (6/14) en coupe B-B et à léchelle (1:2): a) la liaison hélicoïdale de l'arbre (33) avec l'écrou (E) à prevoir; b) la liaison complète de l'écrou (E) avec le porte ecrou (32); c) la cotation des assemblages fonctionnels.
+4-3-3 Accouplement du moto réducteur à courant continu (MS ) avec l'arbre (33) Compléter sur la page (6/14) en coupe B-B et à l'échelle 1.2): a) laccouplement de larbre (33) avec le moto reducteur (MS) par un accouplement rigide 14) constitué de deux flasques assemblés par 3 boulons; b) la cotation des assemblages fonctionnels.
+Page 5/14
 
+--- page 9 ---
+Ne rien écrire ici
+4
+Forme du modèle
+Forme du noyau
+Page 8/14
 
+--- page 10 ---
+Ne rien écrire ici
+A-4-2 Compléter le tableau en précisant le mode dobtention des pièces brutes avant usinage pour une moyenne série
+Procédé dobtention de la pièce brute avant usinage
+Pièces
+Justification
+Tirette (18)
+Coussinet (20)
+Jante de la roue(25)
+Pneu de la roue (26)
+Flasque (23)
+A-4-3 Usinage
+L'axe (9) du système de transmission de mouvement du moto réducte'r à la roue gauche ou droite est en 20 MnCrS (2OMCS) (voir page (10/14)). Son usinage est effectué sur une machine-outil à commande numérique (CNC)
+A-4-3-1 Quelle est la signification de la désignation 20 MnCr5 ?Justifier ce choix
+A-4-3-2 Ecrire les blocs de programmation en langage ISO nécessaire pour la réalisation des surfaces noircies indiquées sur la page (10/14) en précisant le rôle de chaque fonction
 
+--- page 11 ---
+Ne rien écrire ici
+A-4-3-3 L'axe (9) comporte 8 encoches réparties uniformément sur la circonférence comme le montre le dessin de définition page (10/14). Représenter par un dessin à main lever l'axe (9) en position dusinage des encoches en précisant la machine et loutillage nécessaire pour l'exécution de cette opération.
+Page 9/14
 
+--- page 12 ---
+A-A
+5
+A
+0.8
+0.8
+13
+Y
+:(
+{8 8
+f3 8
+SL
+zl
+25
+53
+13
+49
+192.5
+Page
 
+--- page 13 ---
+242
+458
+ÀÀ 2 sL
+2
+28.5
+10
+0/14
+2 Axe Rep Nbr
+2OMnCr5 Matière
+Désignation
+Observation
+FAUTEUIL ROULANT
+POUR HANDICAPE MOTEUR
+Concours Nationaur dEntrée aur Cycles de Formation d'Ingénieurs Epreuve de Sciences et Techniques de /Ingénieur Session Juin 2000
+Echelle 1:l
+Jo
 
+--- page 14 ---
+PARTIE -B- MECANIQUE
+Dans cette partie, on s'intéresse à l'étude mécanique du système de levage du siège du fauteuil roulant La figure B1 représente le schéma cinématique du système considéré dans cette étude Ce système est en mouvement par rapport à un repère R(B,F,y,: galiléen orthonormé direct lié au bâti (So) L'accélération de la pesanteur s'écrit g =gy Les différents solides qui constituent ce système sont les suivants un solide (S1) dont i'axe (À, 7 est un axe de symetrie marériei, son moment ainertie par rapport à cet axe est note Ip Ce solide est en liaison rotule de centre B avec le bâti (So). Il est soumis à un couple moteur 7n Cm 7 un solide (S2) de masse mz. Ce solide est en liaison glissière de direction 7 avec le bâti (So) et en liaison hélicoïdale daxe (A,5 avec le solide (S1). La rotation du solide (S1) par rapport au solide (S2) est défini par le paramètre cinématique @ Le pas de lhélice de la liaison hélicoïdale est note P un solide (S;) modélisé par une tige homogène de masse m; et de longueur L Ce solide est en liaison pivot daxe (E,= ) avec le solide (S2) Rs(E,7,,ys, = est un repère orthonormé direct lié au solide (S;). On donne 8 = (7,7,) un solide (S4)   identique au solide (S;) (de même masse et de même longueur) . Ce solide est en liaison pivot daxe (F,z avec le solide (So) et en liaison pivot daxe (D;= avec le solide (S;) R(F,74,44,= ) est un repère orthonormé direct lié au solide (S4) On donne V = (x,*4) = =0 , AE = BF = ay , ED = l7, FD = ly, , a et 1 sont des constantes: 2 un solide (Ss) de masse ms. Ce solide est en liaison pivot daxe (I,= avec le solide (S4). On considère que la position de ce solide est toujours horizontale (parallèle à l'axe (A,F )). un solide (S6) de masse m6 Ce solide est en liaison pivot daxe (H, = ) avec le solide (S;) et en liaison glissière de direction 7 avec le solide (Ss). On donne HK by b est une constante.
+On suppose dans cette étude que toutes les liaisons sont parfaites Ss
+K.
+X3
+S6
+H
+X
+S3
+S
+S3
+J0
+E
+S1
+B
+So
+X
+S2
+So
+~Figure BI -
+MA
 
+--- page 15 ---
+position 7 (p): Rotation à droite sur place, position 8 (ps_ Rotation à gauche sur place, position 9 (ps): Repos.
+b)un jeux de 4 boutons poussoirs assurant la mise sous tension du système de commande (bouton marche) la mise hors tension du système de commande (bouton arrêt), la montée du siège jusqu'à une hauteur maximale, la descente du siège jusqu'à une hauteur minimale
+Le fonctionnement du fauteuil est soumis aux contraintes suivantes au cours du déplacement du fauteuil, les actions de montée et de descente du siège sont empêchées, de même, lors de la montée ou descente du siège, le déplacement du fauteuil dans 'importe quelle direction est empêché, Yaction sur le bouton poussoir br annule toute actions SUr les deux moteurs MI et M2 , au cours dun mouvement; laction sur les boutons poussoirs de marchelarrêt n'a aucun effet
+Question : On demande de réaliser le Grafcet   niveau 2 permettant de décrire le procédé de fonctionnement de ce fauteuil roulant en tenant compte des indications suivantes
+Actionneurs et capteurs pi :i=1,2,9 correspondant au 9 positions de la manette bf bouton poussoir permettant l'arrêt des moteurs MI et M2 butées de fin de course pour la montée et la descente du siège Sb butée niveau haut, S6 butée niveau bas, Boutons poussoirs de commande m pour   la  mise en marche du  système (mise souS   tension du   système de commande) pour [arrêt complet du système (mise hors tension du système de commande) ms : commande la montée du siège , ds commande la descente du siège Actions Mi+ :rotation du moteur Mi (i=1,2,3) dans le sens direct; Mi- rotation du moteur Mi (i=1,2,3) dans le sens inverse.
+C-2 Etude du système d'élévation du siège du fauteuil: On s'intéresse dans cette   partie au système   d'élévation du siège du   fauteuil. Ce système est constitué par un moteur à courant continu (M3) , un système vis-écrou des leviers articulés Le déplacement   vertical du siège à une hauteur voulue est assuré par le moteur M3 qui actionne un système de transformation de mouvement formé par le système vis-écrou et le système de leviers . Dans   le but   dassurer un confort   pour Futilisateur du   fauteuil, un dispositif  de commande permettant le réglage automatique de la position verticale du siège est prévu: Ce dispositif peut être représenté par le schéma fonctionnel suivant Page 13/14
+1 3 4 Leke ~
 
+--- page 16 ---
+NB: on notera p l'opérateur de Laplace de sorte que F(p) désigne la transformée de Laplace de la fonction originale f(t), t étant la variable temps (t > 0)
+C-2-1. En supposant que les conditions initiales sont nulles pour toutes les  variables du moteur, appliquer la transformation de Laplace aux équations du modèle du moteur.
+C-2-2. Déduire ['expression de la fonction de transfert du moteur, notée G(p) définie par @(p) G(p)= U(p) où @(p) et U(p) sont les transformées de Laplace respectivement de @(t) et u(t)
+Dans toute la suite, Finductance sera négligée ( 1 = 0 )
+C-2-3. Vérifier que la fonction de transfert du moteur s'écrit alors
+@(p) k G(p) U(p) pl(rb +k ko) + rJp]
+C-2-4. Montrer que la fonction de transfert en boucle fermée du système asservi de la figure C2, notée H(p) Z(p)Va(p), reliant lentrée du système va(t) à sa sortie z(t), est du deuxième ordre que on mettra sous la forme
+Z(p) H(p) Va (p) 25 p 1+ p + 0 @ ,
+Déduire alors les expressions de ks (gair; statique) de 5 (facteur damortissement) et de @n (pulsation propre non amortie)
+C-2-5. En utilisant le théorème de la veleur finale, vérifier que lerreur de position (ereur indicielle) €p en régime permanent entre vn(t), image de z(t), et Va(t) est toujours nulle quelque soit   la valeur du gain A de lamplificateur;   justifier ce  résultat. On  rappelle Pexpression de €p €p lim e(t) t =0
+C-2-6. Application numérique J = 0,01Kg m k; =INm/A ko = 0,05 V.sec ;F =10Q b = 0,005 Nm sec P =OOolm kz =5 ;km =lOVIm
+C-2-6-1 Calculer la valeur limite du gain A valeur qu'on ne doit pas dépasser; pour que le dépassement D de la réponse indicielle du système suite à un échelon de consigne Va constante) reste inférieure à 10%_ On rappelle [expression du dépassement en % ÇT D(%) 1OOexp( 4
+C-2-6-2 Déduire l'expression de H(p)
+Pagr Wy
+4 b ~sHv A4

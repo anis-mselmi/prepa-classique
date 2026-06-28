@@ -1,88 +1,1255 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE
+498243 &]?8a; gUkegb UinaUe  On 22859~ 221
+Ministère de 1Enseignement Supérieuret de la Recherche Sdentif que
+Concours Nationaux d Entrée aux Cycles de Formation dIngenieure Session 2020
+Concours Technologie Épreuve de
+Conception & Fabrication Mécanique
+Date Mardi 21 Juillet 2020
+Heure 08 HOO
+Durée 4 Heures
+L'épreuve comporte deux parties A- Conception Mécanique B- Fabrication Mécanique
+(12 pts) (08 pts)
+Le sujet de l'épreuve remis au candidat comporte trois dossiers
+1-Mise en situation; Données et Hypothèses 2- Documents Techniques (DT-01 DT-07) 3-Document Réponses
+Important : Aucun autre document n'est autorisé Seules les calculatrices de poche non programmables sont autorisées. Un seul et unique document réponses est fourni au candidat et doit être rendu en totalité, à la fin de Yépreuve; même sans réponses. Aucune feuille du document réponses ne doit être supprimée (cet acte est considéré comme étant une tentative de fraude) . Toute suppression de feuilles du document réponses est considérée comme étant une tentative de fraude.
+
+--- page 2 ---
+Dossier
+Mise en situation; Données et Hypothèses
+Ce dossier comporte 11 pages numérotées de 1 à 11, associé à 7 documents techniques
+(DT-01à DT-07)
+Mise en situation
+Page 1 et 2 Page 3 à 11 Pages 3à5
+Données et hypothèses
+A- Conception Mécanique:
+Documents Techniques associés
+DT-01 à DT-05
+B- Fabrication Mécanique.
+000000000000
+Pages 6à 11 DT-06 et DT-07
+Documents Techniques associés
+
+--- page 3 ---
+Concours Technologie Épreuve CEM
+Mise en situation, Données & Hypothèses
+ÉTUDE D'UN CHARIOT ÉLÉVATEUR APICOLE
+1- Mise en Situation Le chariot apicole est un système élévateur  utilisé  principalement pour les transhumances apicoles. Les apiculteurs déplacent leurs ruches dabeilles en fonction des floraisons pour obtenir du miel de différentes qualités. Ces ruches, dune masse denviron 40 kg doivent être chargées, déplacées et déchargées en une nuit Les terrains de transhumance sont souvent escarpés et le rucher n'est pas toujours à proximité de la route doù la nécessité dun élévateur du type < Luciole >
+Ce chariot présente plusieurs avantages et qualités innovantes, notamment son empattement variable qui permet son chargement dans un fourgon. Les principales qualités associées au système de levage sont sa capacité de charge sur fourche qui est de 330 kg sa compacité qui lui permet deffectuer des manœuvres de chargement et de déchargement dans des endroits exigus; son confort dutilisation qui , permetau pilote davoir en permanence une visibilité   optimale dans toutes les configurations. Figure. 1 - Chariot apicole
+Ces qualités sont essentiellement dues à son système de levage unique à plusieurs bras, qui possède une cinématique particulière:
+Caractéristiques techniques du chariot apicole Masse à vide (sans charge, sans conducteur) 420 kg Charge 7 maxi sur la fourche sur terrain plat 330 kg Charge maxi sur la fourche sur terrain accidenté 250 kg Largeur hors tout Im Hauteur mât replié 1,35m Hauteur de levée 1,40m Tilt mât de levée +109/-15' Rayon de braquage mini 1,8 m maxi Vitesse maxi 10 km/h Accélération maxi 1 m/sz Décélération maxi 2-1,4m[s? Pression hydraulique maxi 150 bars Débit hydraulique maxi 50 l[min Moteur Kawazaki Essence 13 CV
+Différents types de fourches droites 50 cm pince à fût à serrage latéral (option) presseur hydraulique (option)
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2020
+Page 1 | 11
+
+--- page 4 ---
+Concours Technologie Épreuve CEM
+Mise en situation Données & Hypothèses
+2-Chaînes de transmission de puissance et de mouvement Le chariot apicole objet de cette épreuve est autonome Il est muni d'un moteur thermique comme source d'énergie principale; Ce moteur thermique de puissance 13 CV est couplé à une pompe hydraulique à engrenages externes responsable de la transformation de lénergie mécanique en une énergie hydraulique garantissant ainsi une réduction notable de l'encombrement La transmission de mouvement aux deux   roues motrices est assurée par deux moteurs hydrauliques identiques. Vue la faible vitesse de fonctionnement du chariot; on attribue à chaque roue motrice; un réducteur de vitesse à renvoie dangle incorporé, comme lillustre la Figure 2 (Voir DT-01).
+Réducteur à engrenage
+Roue droite
+Moteur Hydraulique
+Réducteur à engrenage
+Roue gauche
+Moteur Hydraulique
+1 Moteur Pompe 1 Vérin de tilt thermique hydraulique (inclinaison du mât) 1 Vérin de levée de charge
+Vérin d'empattement
+Figure. 2 - Schéma de principe de transmission de puissance au sein du chariot apicole
+La commande de 'chaque actionneur est assurée parun pré-: actionneur constitué dun distributeur hydraulique à tiroirs à commande manuelle. Pour des contraintes de bon équilibrage des vitesses des deux roues motrices, la commande des deux roues est effectuée de façon simultanée par un seul distributeur 'grâce àlexploitation dun diviseur de débit Les vitesses des deux roues motrices seront sensiblement égales. Toutefois; on note qu'une faible variation de vitesse des deux roues motrices, pourrait induire une déviation du chariot
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2020
+Page 2 | 11
+
+--- page 5 ---
+Concours Technologie Épreuve CFM Conception Mécanique Mise en situation, Données & Hypothèses
+3-Données et Hypothèses Partie A : Conception Mécanique Cette partie porte sur Yétude fonctionnelle et technologique du chariot agricole. Elle s'appuie sur les documents techniques (de DT-01 à DT-05). L'épreuve concerne notamment L'étude du chariot apicole; Lanalyse du mécanisme de direction, L'étude du système roue motrice.
+Section Al-Étude du chariot apicole {DT-01) L'objectif visé par cette section est l'étude technologique du chariot apicole et des sous-systèmes et sous-ensembles qui le constituent
+Sous-ensembles de montée de charge
+Dans le but doptimiser la course du vérin de levée de charge (25) et de sa longueur en cas de sortie de tige, on intercale dans ce mécanisme; un système dit <de multiplication de course composé dun vérin de montée de charge associé à un système pignon-chaîne: Le fait dinterposer un système pignon-chaîne (Figure 3), peut remarquablement multiplier la course du chariot mobile par rapport à la course du vérin de levée de charge.
+Mouvement du chariot mobile
+Pignon double
+Chaîne
+P: Point d'attachement fixe de la chaîne
+Vérin de tilt (11)
+8
+Chariot mobile
+{o
+PP' Longueur de la chaîne; P: Nœud encastré au bâti (châssis) P': Nœud encastré au chariot mobile {17,26}
+Figure. 3- Sous-ensemble de montée de charge
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2020
+Page 3 | 11
+Charge
+
+--- page 6 ---
+Concours Technologie Épreuve CFM Conception Mécanique Mise en situation, Données & Hypothèses
+Dans son mouvement de translation rectiligne, le vérin de montée de charge (25) entraîne le pignon double (31) en mouvement de montée, qui de son côté, effectue une rotation autour de laxe du rouleau de chaîne (24) au point  M La chaîne enroulée au pignon et attachée, d'un côté au mât (18) et del'autre côté au chariot mobile porte-s ~charge (17), entraîne ce dernier en mouvement de translation guidée par la coulisse externe (10) et la coulisse interne (14) (Figure 4).
+Coulisse interne (14)
+Coulisse externe (10)
+Chariot mobile {17,26}
+Figure. 4 - Sous-ensemble chariot mobile
+Section A2-Étude du mécanisme de direction
+(DT-02)
+Compte-tenu du cahier des charges fonctionnel associé au chariot apicole, la manœuvre rapide de ce système  représente une contraintemajeure dans le domaine apicole qui nécessite un déchargement suivi dun stockage rapide dans un espace réduit   Cette section vise à analyser le sous-ensemble de direction et de manœuvre du véhicule de point de vue géométrique et cinématique et ceci afin danalyser sa mobilité (Figure 5) .
+34
+54
+1,38
+13,45,47,48
+Bo
+39,40
+Qo
+Figure 5 - Schéma cinématique du mécanisme de direction
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 4 | 11
+
+--- page 7 ---
+Concours Technologie Épreuve CFM Concepton Mécanique Mise en situation, Données & Hypothèses
+Section A3- Étude du système roue-motrice
+(DT-03)
+Le sous-système roue-motrice (DT-03), se trouve en deux exemplaires symétriquement disposés à lavant du chariot et permet son déplacement en avant et en arrière: Grâce à un moteur hydraulique (non représenté dans DT-03) accouplé au pignon arbré (72) et à un couple d'engrenage conique (72/59), le mouvement de rotation est transmis à la roue-motrice (88) comme lillustre la Figure 6.
+Dans cette section; on se propose de étudier la transmission de puissance par engrenage, choisir un accouplement; étudier le guidage en rotation des arbres (68) et (72). Une solution graphique correspondant à la prise de mouvement entre le moteur hydraulique (92) et le pignon dattaque (72) est à compléter.
+MH
+(92)
+(91)
+(88)
+Y(57)
+(72)
+(59)
+Sol
+Figure: 6- Schéma cinématique du système de transmission roue-motrice
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2020
+Page 5 | 11
+
+--- page 8 ---
+Concours Technologie Épreuve CFM Fabrication Mécanique Mise en situation, Données & Hypothèses
+Partie B : Fabrication Mécanique Cette partie de Yépreuve porte sur Yétude de la fabrication de la plate-forme du conducteur (33) (DT-01),du flasque (62) (Document DT-06) et de Yarbre (68) dela roue-arrière du chariot apicole (Documents DT-03 et DT-07)- Dans cette épreuve, lanalyse de fabrication porte sur La mise en forme de la plate-forme du conducteur (33), Le moulage du flasque (62), Lélaboration partielle de ['Avant-Projet dÉtude de Fabrication (APEF) de Yarbre (68). Section B.1-Mise en forme de la plate-forme du conducteur (33)
+On envisage dans cette section présenter quelques procédés de mise en forme qui concernent la fabrication de la plate-forme (33). Cette dernière est débitée sous forme dune tôle rectangulaire de dimensions 1000x 1500 mm et dune épaisseur de 6 mm La Figure 7 (a et b) représente respectivement la forme pliée et dépliée de la plate-forme.
+Figure.  7 - Plate-forme du conducteur (a) forme pliée, (b) forme dépliée
+Cette plateforme (33) en tôle laminée; est obtenue par la succession de plusieurs procédés de mise en forme dont certains sont schématisés sur la Figure 8 (a,b,c,d,e,f
+Trémie d' abrasif
+Laminoire
+Tête de découpe
+Iôle
+Baquette Tôle
+Soudure
+Buse
+Jet d ' eau abrasif
+Brut de la tôle
+Canon
+Tôle
+()
+Houvement Avance
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 6 | 11
+
+--- page 9 ---
+Concours Technologie Épreuve CFM Fabrication Mécanique Mise en situation; Données & Hypothèses
+Faisceau_ laser faible_densité
+[Tôle
+Lame mobile
+PPoinçon
+Serrage
+Tête de_découpe
+Tôle
+Jeu
+Lame_fixe
+Faisceau laser focalis6
+Lentille de focalisation Buse
+Appui
+Tole
+découper
+Matrice
+Mouvement relatif Faisceau- tôle
+Figure. 8- Schématisation des opérations de mise en forme possibles permettant la fabrication de la plate-forme (33)
+Section B.2 - Moulage du flasque (62) (DT-06) Cette section concerne la conception de loutillage de fonderie qui servira pour la réalisation du flasque (62) par le procédé de moulage en sable. La production porte sur une série renouvelable de 2000 flasques /an et ceci pendant 5 ans. La durée de vie souhaitée pour Youtillage conçu est estimée à 10 ans. Le matériau utilisé pour le moulage est une fonte à graphite sphéroïdal de nuance EN-GJS 500-7 ayant un coefficient de retrait estimé à 2 %. Le moulage est réalisé en considérant une surépaisseur de brut de 2 mm au niveau des surfaces fonctionnelles ( c'est-à-dire les surfaces usinées) Le travail demandé porte principalement sur la conception du moule et de la boite à noyaux associée
+Section B.3- Élaboration partielle de 1Avant-Projet dÉtude de Fabrication (APEF) de Yarbre (68) {DT-07)
+L'arbre roue-motrice (68) présenté dans le document DT-07 est assemblé avec le flasque (74) par frettage à chaud Ce choix dassemblage est dicté par des contraintes économiques de rentabilité. Nous supposons quele constructeur du chariot apicole sous-traite le flasque (74) etréaliseYarbre (68) complètement dans ses locaux Dans la suite, nous souhaitons analyser partiellement 1'Avant-Projet dÉtude de Fabrication (APEF) de Yarbre (68). Pour cela, nous supposons que le brut de cet arbre est tiré à partir dune barre cylindrique de diamètre Db = 50 mm, en acier 35 Cr Mo4. Nous admettons que la réalisation de Yarbre (68) est effectuée sur une machine-outil à commande numérique (MOCN) et que le projet de gamme dusinage retenu comporte 5 phases_ Nous admettons aussi que ce projet de gamme correspond à la réalisation dune série de (Ns 2000 pièces /an) et ceci pendant 5 ans. Il est supposé aussi que Yarbre (68) a subit au préalable des opérations dusinage de préparation (Figure 9) (parsous-traitance), avant dêtre transféré et usiné sur la MOCN. Ces opérations ne font pas partie de la présente épreuve et sont résumées dans le Tableau 1.
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2020
+Page 7| 11
+renvo' Miroir
+
+--- page 10 ---
+Concours Technologie Épreuve CFM Fabrication Mécanique Mise en situation, Données & Hypothèses B1 SuA SUs Sue SUz
+SU
+SU
+8 30 +0
+SU2
+30 +0
+328 +2 50
+Figure. 9- Usinages préalables (SUv SU,) réalisés sur larbre (68) en phases 200 et 300 (sous-traitance) Tableau_ Opérations dusinage réalisées en sous-traitance Phases Opérations 100 Contrôle du diamètre du brut B1 (Db) et de la longueur de débitage initiale de larbre Lb (328+ 25)mm 200 Dressage SU1 et centrage SU2
+300
+Dressage SU3 et usinages (SU&,SUs) et (SU6,SU7)
+Dans la suite_de Képreuve seules les phases 400 et 500 seront analysées pour la fabrication de cet arbre. Les opérations dusinage en relation avec ces deux phases sont rendues possibles grâce la cinématique de la machine MOCN dotée dune tourelle arrière qui est équipée de 12 outils pouvant se déplacer longitudinalement et radialement dans les deux sens. Notons aussi que la broche de la MOCN peut tourner dans les deux sens selon Yorientation de loutil de coupe (à gauche ou à droite)
+Phase 400: les usinages sur larbre (68) sont effectués selon 2 zones (Tableaux 2 et 3)
+Ébauche (E) et demi-finition (1/2F) (Figure 10 et Tableau 2) la zone 1 Eet 1/2F avec un outil à plaquette carbure à gauche (T1) générant les surfaces(S1 - Ss) la zone 2 E et 1/2F avec un outil à plaquette carbure à droite (T2) générant les surfaces(S6 S1o) Mandrin
+Sz S6
+Sa
+S9 S1
+B1
+S5
+S4 $3
+S2
+Zone
+Zone
+SU1
+Contre-pointe
+Sua
+Figure. 10- Géométrie de larbre(68) après avoir subi des usinages réalisés en phase 400 en ébauche et en demi finition
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2020
+Page 8 | 11
+SUs
+
+--- page 11 ---
+Concours Technologie Épreuve CFM Fabrication Mécanique Mise en situation, Données & Hypothèses
+Tableau 2 Résumé des opérations d'Ébauche et de Demi-finition relatives à la phase 400 Zone Opérations dusinage (E et 1/2F) Zone Opérations dusinage (E et 1/21) Opl Chariotage cylindrique (S1) Op6 Chariotage cylindrique (S6) Op2 Dressage (S2) Op7 Dressage (S,) Zone 1 Op3 Chariotage conique (S3) Zone 2 Op8 Chariotage cylindrique (S8) Op4 Chariotage cylindrique (S4) Op9 Chariotage cylindrique (S9) Ops Dressage (Ss) Oplo Chariotage cylindrique (S10)
+Finition deYarbre(68)
+((Figure 11) Les   opérations   dusinage   effectuées ont généré les surfaces(S11 S25) (Tableau 3).  Nous signalons qu'il est prévu des opérations débavurage après la réalisation de larbre (68).
+Mandrin
+Qutil de_finition
+Outil
+tronçonner Fraise_disque
+Su
+512 S1z
+S1s
+S1s S14
+SUs
+Zone
+Zone
+Figure. 11- Géométrie de laxe (68) subissant des usinages en finition réalisés en phase 400
+Tableau 3 Résumé des opérations de Finition relatives à la phase 400 Opérations dusinage Zones Opérations dusinage
+Zones
+Opll Chanfreinage (S11) Op22 Op12 Chariotage cylindrique (S1z) Op23 Chariotage cylindrique (S23) Opl3 Dressage (S13) Op24 Dressage (S24) Opl4 Op25 Zone 2 Op15 Chariotage cylindrique (S1s) Op26 Chariotage cylindrique (S26) Zone 1 Opl6 (S16) Op27 Chariotage cylindrique (S2z) Opl7 Gorge (S1z) Op28 Gorge (S28) Op18 Gorge (S18) Op29 Gorge (S29) Op19 Rainurage cylindrique (S19) Op2o Rainurage (S20) Op21 Filetage (S21)
+Concours nationaux d'entrée aux cycles de formation d Yingénieurs
+Session 2020
+Page 9 | 11
+
+--- page 12 ---
+Concours Technologie Épreuve CFM Fabrication Mécanique Mise en situation, Données & Hypothèses
+Phase_500 correspond à une opération de tronçonnage (avec un outil T3) illustrée sur la Figure 12 Elle permet de récupérer la pièce finie
+Il est à noter que la partie restante de la matière (Figure 12) servira pour la réalisation de laxe darticulation du vérin (30).
+VDI
+Rainure cylindrique Mors Arbre_(68) Mandrin
+Qutil I3
+Rainure
+Partie restante de_la matière
+Figure. 12- Opération de tronçonnage réalisée en phase 500 sur Yarbre (68)
+Lopération de tronçonnage est aussi schématisée pendant la phase 500 sur la Figure 13 et ceci à un instant t donné Soit D le diamètre qui reste à tronçonner à cet instant
+8-S
+Outil T3
+Mandrin
+Plaquette
+Face_de_coupe
+Copeau
+SU1
+Diri
+@Dinitial
+Dirz
+Saq
+Face de dépouille
+Arbre (68)
+Figure.  13 - Schématisation de lopération de tronçonnage réalisé sur Yarbre (68)
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2020
+Page 10 11
+
+--- page 13 ---
+Concours Technologie Épreuve CFM Fabrication Mécanique Mise en situation, Données & Hypothèses
+Soit S - S une section de coupe schématisant lopération de tronçonnage pendant la phase 500 à Yinstant t, générant un diamètre D_
+Soient Dirl et Dir2 les directions correspondantes respectivement aux mouvements de coupe et davance de loutil à tronçonner (T3).
+Soient Vc la vitesse de coupe qui est une vitesse tangentielle à la pièce et Va la vitesse d'avance de Youtil Par commodité, nous présentons sur la Figure 14la vitesse (-V) et7a Section S-5
+Plaquette
+Copeau
+Face de_dépouille
+Face de_coupe
+Dir1
+Vc
+Arbre_(68)
+Dirz
+Figure.  14- Illustration de Yopération de tronçonnage réalisée sur larbre (68)
+Soient Y et a deux angles caractéristiques de loutil à tronçonner et 7r la vitesse résultante V ~Vc +Va 
+En se référant à la section $ Sde la Figure 14, on note i = c)): angle définie par arctg (F) de angle définie par (ae =Œ = i).
+Le Tableau 4 regroupe les conditions opératoires de Yopération de tronçonnage Tableau 4 Conditions opératoires de lopération de tronçonnage Fréquence de rotation (trlmin) Angle de Vitesse de coupe Avance par tour dépouille de Vc (m/min) (mm/tr) Nmin Nmax Toutil à tronçonner a 200 0,20 25 2500
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2020
+Page 11 | 11
+Qe
+@Dinitial
+
+--- page 14 ---
+Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs
+Session Concours Épreuve de Date
+2020 Technologie Conception & Fabrication Mécanique (CFM Mardi 21 Juillet 2020à 8H
+DOCUMENTS TECHNIQUES Sujet Étude dun Chariot élévateur apicole
+Ce dossier comporte 7 documents techniques numérotés de DT-01 à DT-07
+DT
+Document Technique
+Questons
+Détail A Détail B Détail C
+DT-01
+Chariot élévateur apicole
+Al ) All
+DT-02
+Mécanisme de direction
+A12
+A18
+DT-03
+Ensemble roue motrice
+Coupe A-A
+A19 ) A29
+DT-04
+Nomenclature générale
+DT-05
+Extrait catalogue constructeur
+A5
+A1O/ A29
+DT-06
+Flasque
+Coupe B-B
+B6
+B1O
+Section C-C Détail D Détail E Détail F
+B11
+B19
+DT-07
+Arbre roue motrice
+
+--- page 15 ---
+:
+, ; 1 8 g 1 ; : | ; II
+049
+1 1 1 1 5 1 1 2 { 1 1 2 ; I 1 : 8 1 1 1 1 ; 1 Ilx 8 8 g
+[
+:
+
+--- page 16 ---
+1 1 7 1 5 I 2 1 8 ; 8 1 : 1 m 8 , 1 1 1 1 Juul 8 g 1 ; 1
+
+--- page 17 ---
+1 1 1 1 8 1 1 5 1 GT { ; ' 8 g 1 ; : 1 1 8 I1 Ill 8 g ;
+In
+8
+m 1
+
+--- page 18 ---
+Concours Technologie Epreuve C.F.M
+43 42 41 40 39 38 37 36 35 34 33 32 31 30 29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10
+Arbre roue arrière Entretoise roue arrière Vis tête hexagonale 2 Ecrou réglable Barre de direction gauche 9 Potence de_guidage Distributeur_électrique tiroirs Doudoune sur poutre avant Pot d échappement 5 Roue arrière directrice Plate forme conducteur [Bague_mécano-soudée Roue dentée de chaîne pignon Axe d articulation de vérin Chape d extention des chaînes Anneau_élastique Axe de rouleau de chaîne Coulisse chariot Vérin hydraulique de montée de charge Rouleau de chaînes (double pignon) Traverse supérieure Axe d articulation Doudoune sur filtre 2 Fourreau Fer carré 50x50 Réservoir à essence Mât complet Chariot mobile Fourche courte Profilé "U" 100x80 Filtre_hydraulique au retour Coulisse interne Guidon de commande Moteur essence FH381 Kawasaki Vérin de tilt Coulisse externe Anneau d attache 2 Cadre de ruche d abeilles Profilé "U" 100x80 Support phare sur réservoir 6 2 Jante de roue avant 2 Roue avant motrice (pneumatique Bac de batterie Poutre avant 2 Balancier 5 Réservoir hydraulique Rep Nbre Désignation Matériaux Obs Concours nationaux d'entrée aux cycles de formation d ingénieurs
+Etude d'un chariot apicole
+Session 2020
+DT-04
+
+--- page 19 ---
+Concours Technologie Epreuve C.F
+88 87 86 2 82 81 80 79 78 77 76 75 74 73 72 71 70 69 68 67 66 65 64 63 62 61 60 59 58 57 56 55 54 53 52 50 49 48 47 46 45 44 Rep
+Roue Caouchouc Joint plat Joint lèvre type 35x52x7 Vis de fixation CHC M5 Clavette disque NF E22 179 Cache poussière Ecrou à encoches type MB 150x2+ rondelle frein Rondelle d ' appui Jante roue arrière GE360 Moulée Couvercle chicane Couvercle Vis de fixation CHC M8 Roulement à rouleaux coniques Bouchon de remplissage G1 Flasque arbre roue arrière SKF Vis de fixation CHC M6 Pignon arbré (pignon d 'attaque 35 Cr Mo Anneau élastique Roulement rouleaux cylindriques SKF Joint plat Arbre roue-arrière 35 Cr Mo Couvercle E360 Vis de fixation CHC M8 Cales clinquants Roulement rouleaux coniques SKF Vis de fixation CHC M8 GE360 Moulé Flasque Bouchon de vidange G1 /4 Joint plat type AR Roue dentée conique dentures droites Goupille élastique ISO 8752-6x30 Carter GE360 Moulé Tube guidon 35 Cr Mo Entretoise de renforcement Chape (D: Droite G: Gauche Fourchette Joystick de commande avancée AV / AR Direction roue-arrière Chape_réglable droite Barre de direction droite Base de direction Axe Tige de vérin de direction Tête de direction Corps du vérin de direction Nbre Désignation Matériaux Obs Concours nationaux d' entrée aux cycles de formation d ingénieurs
+8
+8 8
+8
+Etude d'un chariot apicole
+Session 2020
+DT-04
+
+--- page 20 ---
+Roulements
+rouleaux coniques
+une rangée , cotes métriques
+SKF
+Dimensions dencombrement
+Charges de base Limite Vitesses de base dyn stat de Vitesse Vitesse fatigue de réfé - limite Co Pu rence
+Masse
+Désignation
+Série de dimensions selon ISO 355 (ABMA)
+mm
+kN
+kN
+trlmin
+kg
+30 17 35,8 44 40, 44 8 k 50, g 57 49 58,5 64,4 76,5 32 53 14,5 27 35,5 58 17 36,9 46,5 64 18,25 50,2 64
+4,55 4,8 6,3 6,55 8,5
+9 000 8 500 8 500 8 000 7 500
+12 000 11 000 11 000 11 000 11 000
+0,17 0,23 0,28 0,30 0,37
+32006 x/Q 4CC 30206 J2/0 3DB 32206 J2/0 3DC 32206 BJZIQCLZCVA6O6 5DC 33206/Q 2DE
+3,65 4,8 6,8
+9 00O 12 000 8 500 11 000 8 000 11 500
+0,11 0,19 0,22
+JL 26749 F/710 320/32 x/Q 322/32x/0
+(L26700) 4CC 4CC
+DAL
+Accouplement rigide
+SL
+9 8
+Lovejoy
+UPC Number 14322 14324 14326 14330 14332 14335 14338 14343 14346 14349 14352
+Size
+OAL (mm)
+SL (mm)
+T Bolt (in)
+OD (mm)
+ID (mm)
+SC-250 SC-312 SC-375 SC-500 SC-625 SC-750 SC-875 SC-1000 SC-1125 SC-1250 SC-1375
+19 25 25 38 50 50 50 76 76 101
+8-32 x 1/8 8-32 x 1/8 10-24 x 3/16 1/4-20 x 3/16 5/16-18 x 1/4 5/16-18 x 5/16 5/16-18 x 5/16 3/8-16 x 3/8 3/8-16 x 3/8 3/8-16 x 3/8 3/8-16 x 3/8
+12
+16 20 26 32 38 44 50 54 57
+10 13 16 19 22 25 29 32 35
+10 12 12 12 19 19 25 25
+1 1 1
+114
+64
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Etude d'un chariot apicole
+Session 2020
+DT-05
+
+--- page 21 ---
+Diagramme de puissance pour les chaînes oooo
+rouleaux (type européen)
+00O 0009 0oos OOov Oooe
+0009 OOOS OOOv OoOE
+oooz 1 [ 009 Oos @ OOt 3 Oo€ p Doz 8 882 ; 09 OS Ov O€
+Oooz 4 882 { 009 0OS OOt @ OOE 8 ooz 9 8 8 j OS Ov OS
+& Uu)
+Oz
+8
+g
+g8g2 8 8 ? 8
+8
+900~ (Mx) apuessind
+2388 8 3
+8
+Puissances transmissibles (kW) pour les chaînes pas de 12,7 Mm, type européen DIN 8187
+rouleaux Rex
+fort rendement 08B-1
+Rexnord
+No de primitif Vitesse de rolation du petit pignon cents 200 400 600 900 1200 1800 2400 3000 3500 4000 4500 5000 5500 6000 6500 7000 7500 8000 9000 du petit référence pignon Lubr manuelle Lubrification par barbotage Lubrification par pompe huile Mn Lubr par compte-gouttes 53,10 0,23 0,80 1,50 2,16 3,11 4,02 4,99 3,24 2,32 1,84 1,51 1,27 1,07 0,93 0,82 0,72 0,65 0,58 0,53 57,10 0,25 0,87 1,62 2,33 3,37 4,36 5,58 3,62 2,59 2,06 1,68 1,41 1,21 1,04 0,92 0,82 0,72 0,66 0,59 61,10 0,27 0,93 1,75 2,52 3,62 4,70 6,19 4,02 2,88 2,28 1,87 1,57 1,33 1,16 1,02 0,90 0,81 0,72 65.10 0,29 1,00 1,87 2,70 3,88 5,03 6,82 4,42 3,17 2,52 2,06 1,72 1,47 1,27 1,12 0,99 0,89 0,80 69,10 0,31 1,07 2,00 2,88 4,15 5,37 7,47 4.85 3,47 2,76 2,26 1,62 1,40 1,23 1,09 0,97 0,87 73,10 0,32 1.14 2,12 3,07 4,42 5,72 8.13 5.28 3,78 3,00 2,46 2,06 1,76 1,52 1,33 1,18 1,06 0,96 77,20 0,25 1,21 2,26 3,25 4,68 6,06 8,75 5,73 4,10 3,26 2,67 2,23 1,91 1,65 1,45 1,28 1,15 1,04 20 81,20 0,37 1,27 2,38 3,43 4,95 6,41 9,25 6,19 4,42 3,52 2,88 2,41 2,06 1,78 1,57 1,29 1,24 1,12 85,20 0,38 1,35 2,52 3,62 5,22 6,76 9,75 6,66 4,77 3,78 3,09 2,59 2,22 1,92 1,68 1,21 22 89,20 0,41 1,42 2,64 3,81 5,48 7,10 10,25 7,14 5,11 4,06 3,32 2,78 2,37 2,06 1,81 1,60 1,43 93,30 0,42 ,48 2,77 3,99 5,75 7,45 10,75 7,63 5,46 4,33 3,55 2,97 2,54 2,20 1,93 1,72 97,30 0,45 1,56 2,90 4,18 6,02 7,80 11,25 8,13 5,82 4,62 3,78 3,17 2,71 2,34 2,06 1,82 1,63 101,30 0,47 3,03 4,37 6,29 8,15 11,75 8,67 6,19 4,91 4,02 3,37 2,88 2,49 2,19 1,94 113,40 0,52 3,42 4,94 7,12 9,25 13,25 10,25 7,33 5,82 4,77 3,99 3,41 2,96 2,59 2,30 121,50 0,57 1,98 3,69 5,32 7,67 9,92 14,33 11,23 8,13 6,46 5,28 4,42 3,78 3,27 2,88 129,60 0,61 2,12 3,96 5,71 8,22 10,67 15,33 12,50 9,00 7,12 5,82 4,88 4,17 3,61 3,17 141,70 0,.67 2,33 4,37 6,28 9,08 11,75 16,92 14,33 10,25 8,13 6,66 5,58 4,77 4,13 161,90 0,77 2,70 5,04 7,26 10,42 13,58 19,50 17,50 12,50 9,92 8,13 6,82 5,82
+1 1 1 8
+Concours nationaux d'entrée aux cycles de formation d ingénieurs Etude d'un chariot apicole Session 2020 DT-05
+j8 Yu R 40t 4ZE
+R S06 49
+
+--- page 22 ---
+trou S 010 00 2/A B
+0185
+M6 6H 00 . 2 /AlB
+Matière EN - GJS-500 -7 Tolérances générales ISO 2768 mk sauf indications
+Ra 3 .2 sauf indication
+60
+
+--- page 23 ---
+B-B
+02 /A
+080
+5 8
+g 8
+Ra 1 ,6
+7 .5
+00 03
+Echelle 1:1
+Session 2020
+Flasque
+Rep . 62
+Format A3
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Concours Techno Epreuve €.F.M
+Etude d'un chariot apicole
+DT-06
+
+--- page 24 ---
+92
+29 . 5
+0 ,1 E
+15
+60
+B1
+2 9
+2
+;
+0 02 C
+04
+C-c
+8 . 5 j s
+C
+-10 .1 | c
+Détail
+Détail
+R 0
+2 5
+Echelle 3:2
+Ra
+00 02 C - D E
+Ra 3.2
+Ra 0.8
+43
+1o
+26
+48
+Matière
+35 Cr Mo
+Ra 6 . 3 sauf indications
+Tolérances générales selon la norme ISO 2768 mk sauf indications
+
+--- page 25 ---
+02 C
+~1 E
+5 x 45
+2 3
+0 02
+00 04 | € - D
+Détail
+9 0 '
+7044
+2 . 5
+3 .2
+2
+Ra 0 .8
+21
+NB: Dessin de définition partiel
+35 5 +0 . 02
+Echelle 1:1
+Session 2020
+Arbre roue-motrice
+Rep . 68
+Format A3
+Concours nationaux d' entrée aux cycles de formation d'ingénieurs
+Concours Techno Epreuve €FM
+Etude d'un chariot apicole
+DT-07
+
+--- page 26 ---
+Dossier
+Document Réponses
+Ce dossier comporte 21 pages numérotées de 1à 21
+Partie A- Conception Mécanique
+Page 1à 14
+Partie B- Fabrication Mécanique
+Page 15 à 21
+Important
+Un seul document réponses est fourni au candidat:
+Le candidat doit rendre obligatoirement le document réponses avant de quitter la salle
+dExamen.
+Le document réponses doit être rendu en intégralité (aucune feuille ne doit être supprimée).
+Toute suppression de feuilles du document réponses est considérée comme étant une
+tentative de fraude
+Le renouvellement ou la reproduction de ce dossier sont strictement interdits.
+
+--- page 27 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+Partie A : Conception Mécanique Section Al-Étude du chariot apicole
+(DT-01)
+A-1.
+Représenter à léchelle sur la Figure 15 les nouvelles positions P1,A1 ,M1 et B1 des points P' , A, M et B correspondantes à une course du vérin de levée de c = 300 mm, sachant que la longueur de la chaîne PP'demeure  constante et indépendante du déplacement du vérin. Échelle de déplacement : Jo Icm 9100 mm de déplacement
+Ensemble {24,31}
+d = 101, 3mm
+NB Compte tenu de la liaison glissière de Tensemble {chariot mobile fourche} dans la coulisse externe (10), les points Aet P' restent toujours sur la droite 4
 
 
+Chaîne
+7
+Figure   15 - Différentes positions de la chaîne de levage
+b- Déduire graphiquement le déplacement (YGcharge) de la charge suivant la direction yo: Conclure.
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 20208 Page 1 | 21
+Gcharge
 
+--- page 28 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+A-2 Déterminer analytiquement la relation entre la course du vérin de levée et le déplacement de la charge Gcharge) suivant la direction 7o. En déduire que Vmevérin /Ro Vccharge €17 /Ro~
+A-3. Justifier l'emploi des deux chaînes parallèles enroulées sur les deux pignons (31).
+A-4. Les deux chaînes travaillent en parallèles pour soulever chacunela moitié de la charge totale En appliquant le Principe Fondamental de la Statique (PFS) sur Yensemble {24, 31} isolée, démontrer que le vérin fournira un effort le double de la charge FMvérln/pigon 2. Pcharge' sachant que les deux tensions de chaîne aux points A et B sont égales (supposons que la liaison enM est parfaite) .
+Y
+d = 101, 3mm
+M
+Chaîne
+FM verin/24
+Point d'attachement de la chaîne
+7o
+Figure.  16- Ensemble {24, 31} isolé
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 20208 Page 2 | 21
 
+--- page 29 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+b- Calculer la force du vérin nécessaire pour pouvoir soulever une charge égale à 330 Kg U compris le_ poids de la fourche)
+A-5. En se référant la Figure   15, estimer la   longueur de la chaîne pour une course Ccharge 1400 mm du chariot mobile porte-charge. On donne PB 200 mm, Pignon double (31) de diamètre primitif d 101,3 mm.
+A-6. Le mât étant vertical, le chariot apicole est à l'arrêt Déterminer pour ce cas, la puissance P à transmettre par chacune des deux chaînes pour assurer la montée de la charge. On suppose que la charge est équitablement répartie sur les deux chaînes.
+On donne
+Le rendement du système pignon-chaîne n= 0,90 Charge maximale sur fourches m = 330 Kg Vitesse maximale de déplacement du chariot mobile (fourche) V 0,2m/s
+A-7. En considérant un fonctionnement de la chaîne sans à-coups (facteur de service s = 1), déterminer le type et le pas de chaîne sachant que le diamètre primitif du pignon est d = 101,3 mm (Voir Catalogue DT-05).
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 20208 Page 3| 21
 
+--- page 30 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+A-8. Déterminer le nombre de dents du pignon
+A-9. Déterminer la puissance transmissible par un seul brin de ce type de chaîne (DTO5).
+A-10. Déduire le nombre minimal de brins de chaîne
+A-11. En se référant à la Figure 17, écrire la condition pour que la charge ne glisse pas vers Tavant en cas de freinage violent On suppose qu'il n'y aura de basculement (rotation) de la charge par rapport à la fourche durant la décélération. Le coefficient d'adhérence entre la charge etla fourche est noté f. La décélération au freinage est 7charge/Ro = ~al.
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 20208 Page 4 | 21
 
+--- page 31 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+Contact
+Charge / fourche
+Yo
+Ro(00, Xo, Yo, Z0)
+Xo
+Figure.  17- Angle dinclinaison cas du freinage
+Section A2- Analyse du mécanisme de direction
+(DT-02)
+A-12 Indiquer les repères des éléments responsables du changement de direction du véhicule.
+A-13. Dans le cas de changement de direction des roues-arrière (34), le frottement avec le sol induira un couple résistant Mettre une croix devant la case qui convient
+Le couple nécessaire pour vaincre le frottement des roues est fourni totalement par Topérateur Une grande proportion du couple sera fournie par le vérin de direction {44,46} à la place de lopérateur
+La commande des roues est purement hydraulique
+La commande de direction étant hybride (mécanique et hydraulique)
+A-14. Il est à noter que les vitesses des deux roues-motrices (5) sont égales, avec deux trajectoires en demi-cercle de centre (Cc). que se passe ~t-il au niveau du contact entre chacune des roues motrices (5) et le sol en cas de manœuvre de demi-tour à droite ?
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 20208 Page 5 | 21
+Pcharge
 
+--- page 32 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+(34)
+(5)
+(34)
+Figure.  18- Trajectoires des deux roues-motrices
+A-15. En se référant au dossier technique DT-02 etau schéma cinématique Figure 6, compléter le graphe des liaisons relatif au mécanisme de direction.
+34G
+1,38
+34D
+Pivot
+44
+Pivot
+54G
+54D
+46
+49G, 50G
+13,45,47,48
+49D, 50D
+Figure.   19_ Graphe de liaisons
+A-16 Àpartir du graphe des liaisons (Figure 19) et compte-tenu du schéma cinématique partiel plan (2D) du système de direction (Figure 5), déterminer les équations régissantla loi entrée sortie du mécanisme de direction de la roue droite (Figure 20).
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 20205 Page 6 | 21
 
+--- page 33 ---
+Concours Technologie Épreuve CF.M
+Partie A : Conception Mécanique
+Document Réponses
+8s4
+J4o
+J13
+54
+{1,38}
+754
+{13, 45,47,48}
+740
+Bo
+{39,40}
+Co
+Figure.  20- Schéma cinématique du mécanisme de direction isostatique
+On donne OA =c 713 d 713 AB = L74o Bx =l 7s4 ;0 = a71+ b 71
+On associe les repères R1(0, 71 ,71 71 ) R13 (0, 713 ,713 71 )  R4o(A, 740 ,74o' 71 ) et R 54(C, 754 ,7s4 71 ) liés respectivement aux solides {1,38}, {13,45,47,48}, {39,40} et (54)
+ys4
+y1
+J4o B ^)1
+J13
+754
+713
+740
+Y1
+A-17. En appliquant la loi de mobilité, déterminer le degré d'hyperstatisme de ce système.
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 20208 Page 7 | 21
 
+--- page 34 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+A-18. Sur la Figure 20, proposer des modifications au niveau des liaisons pour rendre le système isostatique
+Section A3- Étude du système roue-motrice
+(DT-03)
+A-19. Donner les conditions dengrènement pour lengrenage conique à dentures droites (59) et (72).
+A-20. Compléter le tableau des caractéristiques géométriques du pignon (72) et de la roue (59) (DT-03). Sachant que le rapport de réduction de cet engrenage est r = 0,5. L'angle de pression des roues dentées a = 20" h,
+nf
+Figure. 21- Caractéristiques géométriques dun engrenage conique
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 20206 Page 8 | 21
 
+--- page 35 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+Caractéristique
+Pignon arbré (72)
+Roue (59)
+Module
+m
+3,5
+Nombre de dents
+38
+demi-angle au sommet du cône primitif
+Largeur dela roue
+rayon moyen
+Rm
+Formule
+Valeur
+Formule
+Valeur
+Diamètre primitif
+Diamètre de tête
+da
+Diamètre du pied
+df
+A-21 En supposant que le point de réduction du torseur des efforts de contact dengrènement est situé au milieu de la dent, déterminer laction mécanique du pignon arbré (72) sur la roue (59) avec ses 3 composantes tangentielle Ft axiale Fa et radiale Fr en valeurs absolues. On donne le couple agissant sur la roue (59) est Cs9 460 N.m
+A-22. On donne le sens de rotation de larbre (68). Représenter sur la Figure 22, les 3 composantes des efforts Ft, Faet Frau point 1
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 20200 Page 9 | 21
 
+--- page 36 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+72
+59
+74
+68
+Figure.  22- Orientations des efforts au point de contact
+A-23. Quel type d'accouplement peut-on prévoir entre larbre de sortie du moteur hydraulique etcelui dentrée du réducteur (72), sachant qu'ils sont correctement centrés. Cocher la bonne réponse.
+Accouplement élastique
+Accouplement rigide
+A-24. Quel type d'ajustement peut-on préconiser pour le montage du flasque (62) dans le carter (57) Choisir lajustement qui convient (cocher les bonnes réponses) .
+Serré
+ZH7 g6
+Avec jeu
+CH6 k5
+Incertain
+ZH7 h6
+A-25. Quel type de roulements le concepteur a utilisé pour le guidage en rotation de l'arbre (68) porte roue. Justifier ce choix et déduire pour quelle raison le roulement du côté de l'ensemble roue {80,88} étant de dimensions larges par rapport à l'autre
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 20206 Page 10 | 21
 
+--- page 37 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+A-26. Par quel moyen étantassurée l'étanchéité du réducteur (renvoi dangle) du côté dela roue {80,88}
+L'ensemble roue {80, 88} étant en acier moulé dontla partie extérieure (88) en caoutchouc étant surmoulé par procédé de compression   Compte-tenue de la jonction lisse entre pneu en caoutchouc (88) et roue en Acier de moulage; un problème de décollage a été soulevé à partir des services après ventes.
+A-27 Afin davoir un collage quasiment parfait et efficace, compléter le dessin ci-dessous en précisant la solution de forme qui peut améliorer le collage après surmoulage à chaud du caoutchouc sur la surface extérieure de la roue (80).
+88 (Caouchouc moulé à chaud)
+77
+80
+79 57 76
+g
+68
+A-28. En vue de dimensionner les cales de réglages (65), tracer la chaine de cotes minimale correspondante à la condition Ja. En déduire les équations correspondantes à la cote condition Ja (pour des raisons de simplification; les joints sont considérés indéformables).
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 20206 Page 11 | 21
 
+--- page 38 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+72
+57
+69
+78
+87
+76 74
+62
+81
+68
+82
+64
+83
+67
+A-29. On désire dans cette partie graphique; compléter la conception de la prise de mouvement du moteur hydraulique (non représenté dans DT-03) vers le pignon d'attaque (72) ainsi que son guidage en rotation de ce dernier par rapport au carter (57). Le guidage en rotation de (72)/(57) est initialement assuré par le roulement à rouleaux cylindriques (70) et deux roulements à rouleaux coniques (89) et (90) (non représentés dans DT-03) faisant ainsi un montage hyperstatique.
+Pour des raisons de simplification; on demande de compléter le dessin densemble partiel en coupe (Page 14/21), en considérant les contraintes suivantes
+a- Montage de roulements: assurer le guidage en rotation (72)/(57) en éliminant le roulement (70) et utiliser deux autres roulements à rouleaux 'coniques (89) et (90) pour faciliter le système de réglage de jeu, prévoir un montage en < 0 > en utilisant un écrou à encoches. compléter les ajustements nécessaires pour les roulements (89) et (90) sur le dessin
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2020, Page 12 21
 
+--- page 39 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+b- Accouplement : Par l'intermédiaire d'un accouplement (91), qui sera choisi à partir du document DT-05, assurer la prise de mouvement entre les deux bouts darbres (92) et (72). compléter le montage des clavettes (93) sur les arbres (72) et (92). prévoir une vis de pression (94) de diamètre M5 contre chaque clavette Moteur hydraulique: prévoir le centrage du moteur hydraulique (92) sur le carter (57) et indiquer son ajustement 'adéquat: en vue d'assurer l'étanchéité entre (92) et (57), interposer un joint plat (95) la fixation du moteur hydraulique sur le carter étant assurée par 6 vis CHC M8-30 repère (96) (à représenter une) d- Nomenclature compléter la nomenclature en précisant la désignation et matériau associé.
+NB :Il est impératif de conserver lemplacement etla forme des interfaces de fixation au système comme l'indique le dessin (DT-05).
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 20200 Page 13 21
 
+--- page 40 ---
+Concours Technologie - Epreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+92
+90
+57
+72
+96 95 94 93 92 91 90 89 72 57 Rep Nbre
+Désignation
+Matériaux
+Obs
+Ensemble Roue motrice
+Echelle 1:1 Session 2020 Concours nationaux dentrée aux cycles de formation dingénieurs Session 2020 Page 14 21
 
+--- page 41 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+Partie B Fabrication Mécanique Section B.1- Mise en forme de la plate-forme du conducteur (33)
+B-1. Nommer les opérations de mise en forme illustrées par la Figure 8 (a,b,cd,e,f.
+b
+B-2. Décrire le procédé (), illustré par la Figure 8, en complétant le paragraphe suivant Après traitement; est mise sous pression par laction dune succession de
+pistons jusqu' à une pression de
+Ensuite, leau pressurisée est véhiculée par un
+flexible métallique doté en extrémité par une buse en
+Cette dernière délivre
+un
+pouvant atteindre une vitesse de lordre de 700 m/s.Le jet d'eau est ensuite mélangé
+avec des
+dans une tête dotée dune chambre de mélange.
+Enfin, les particules abrasifs et l'eau sont véhiculées via un
+qui permet de
+focaliser le jet abrasif Ce dernier permet de réaliser des découpes dans la tôle.
+B-3. Citer au moins 2 avantages et 2 inconvénients associés au procédé @) Figure 8.
+Avantages
+Inconvénients
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 20206 Page 15 | 21
 
+--- page 42 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+B-4. Parmi la liste de la Figure 8, proposer au maximum 4 procédés de mise en forme qui peuvent être 'exploités pour la fabrication complète de la plate-forme du conducteur (33). Mettre une croix devant la case qui convient
+B-5. Nous supposons que la plate-forme (33) est réalisée par les procédés de fabrication (a,b, c, et d). Réorganiser ces procédés selon un ordre chronologique de fabrication. Ordre chronologique Opération 1 Opération 2 Opération 3 Opération 4
+Nom du procédé
+Section B.2- Moulage du flasque (62) (DTO6) B-6. Le flasque (62) est obtenu par moulage en sable. Il est à noter que pour la réalisation de ce flasque, dautres types de moulage peuvent aussi être envisagés. Pour cela, on vous demande de compléter le graphe suivant
+Moulage
+En moule non permanent
+En moule permanent
+Moulage en carapace
+Moulage par centrifugation
+B-7. En se basant sur les éléments qui suivent;, préciser les caractérisciques, les avantages et les inconvénients des familles de moulage en mettant_dans le_tableau_qui_suit_une_croix correspondant àla bonne réponse
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 20208 Page 16 21
 
+--- page 43 ---
+Concours Technologie Épreuve CFM
+Parte B : Fabrication Mécanique
+Document Réponses
+Limitation de la cadence de fabrication Temps de réalisation du moule plus élevé que la coulée:
+b: Cadence de production élevée Bonne répétabilité de la géométrie des pièces produites.
+c:
+Le moule; souvent métallique; est réutilisé pour réaliser plusieurs séries de pièces.
+d: Réalisation des formes de pièces complexes Convient pour les petites séries et les prototypes.
+Forme plus limitée; car f: Le moule est   détruit   pour faut pouvoir extraire la pièce démouler la pièce.
+Caracteristiques
+Avantages b d
+Inconvénients
+Moules non permanents
+Moules permanents
+B-8. Nous souhaitons réaliser le flasque (62) par moulage en sable: Compléter le dessin ci - dessous; en précisant le plan de joint le mieux adapté, le brut capable et les dépouilles
+B-9. Représenter soigneusement sur la figure ci-dessous, le moule du flasque (62)~ prêt : àla coulée en précisant : le plan de joint le mieux approprié, le(s) noyau(x), les surépaisseurs d'usinage, le brut capable et les dépouilles, les évents, les canaux de coulée et dattaque, les masselottes, etc.
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 20206 Page 17 | 21
 
+--- page 44 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+B-10. Représenter sur la figure ci-dessous la boîte à noyau; en choisissant le plan de joint et les éléments de centrage de la partie supérieure de la boîte avec sa partie inférieure.
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 20206 Page 18 | 21
 
+--- page 45 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+Section B.3 - Élaboration partielle de 1Avant-Projet d'Étude de Fabrication (APEF) de Yarbre (68) (DT-07)
+Comme indiqué dans le document Mise en situation; données et hypothèses page 8/11), seules les phases 400 et 500 sont concernées par 1APEF. B-11 Nommer les opérations dusinage en finition (phase 400) de Yarbre (68) suivantes
+Zones
+Opérations dusinage
+Zones
+Opérations dusinage
+Opl4 Zone 1 Op16
+Op22 Zone 2 Op25
+B-12 En  considérant une variation continue du   diamètre D lors du  tronçonnage, écrire Yexpression liant Vc, D et N. ( Tenir compte de Thomogénéité de Yexpression de point de vue unités)
+N =
+B-13. Présenter Vexpression liant Va f et N. ( Tenir compte de Thomogénéité de lexpression de point de vue unités) .
+Va=
+B-14 Calculer le diamètre D1 correspondant à Nmax 2500 tr /min et Vc 100 m/min
+D1=
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 20206 Page 19 | 21
 
+--- page 46 ---
+Concours Technologie Épreuve CFM
+Partie B : Fabrication Mécanique
+Document Réponses
+B-15 Compte-tenu de la plage de variation de N, serait-il possible dans les conditions opératoires du Tableau 4 de réaliser toute Yopération de tronçonnage à Vc 100 m/min. Pourquoi ?
+B-16. Nous supposons que pour une valeur (D 2 D1), on travaille à Vc 100 m/min et que pour (D < Ds), la machine   fonctionne à Nmax 2500 tr /min En se basant sur   les questions B-12 à B-15, tracer sur le graphique ci-dessous la courbe de Vc en fonction du diamètre D,dès le début du tronçonnage jusqu'à sa fin, en tenant compte de la variation de N
+3000 1 2500 2 2000 [ 1500 8 1000 1 500
+120
+100
+1 80 2 60 ; 8 40 1 20
+10
+15
+20
+25 30 35 Diamètre D  (mm)
 
+B-17. Il est démontré que Popération de tronçonnage ne pourrait pas avoir lieu dans le cas où Pangle ae = 09. En effet, ce cas correspond à la condition du début du talonnage de loutil sur la matière ; c'est-à-dire la face de dépouille de l'outil à tronçonner commence à frotter contre la matière et par conséquence Yarête de Poutil n'arrive plus à tronçonner.  Démontrer dans ce cas, qu'il existe théoriquement un diamètre critique Dcritique au-dessous duquel, il est difficile de tronçonner la pièce sachant que selon la Figure 14 : Concours nationaux d'entrée aux cycles de formation dingénieurs Session 20200 Page 20 21
 
+--- page 47 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+c): angle définie par i = arctg (F) ae angle définie par (ae a = i) avec a = 6
+B-18. Ilapparaît que, pour un même outil T3 (a = 6 ) lavance par tour f influence la variation du diamètre critique Dcritique  Qualifier dans ce cas leffet de f (augmenter ou diminuer) sur le diamètre critique Dcritique' Justifier votre réponse.
+B-19. Sachant que la durée de lopération de tronçonnage est T, 5 secondes déterminer le
+temps total Ttotal pour le tronçonnage d'une série de Ns 2000 pièces /an. Déduire le
+nombre total des plaquettes Np consommées Données la plaquette de Youtil à tronçonner possède 2 arêtes utiles dont chacune possède
+une durée de vie T = 30 min/arête
+Ttotal
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 20208 Page 21 | 21
+Np=
 
+--- page 48 ---
+Concours Technologie Épreuve CFM
+Partle A : Conception Mécanique
+Document Réponses
+Partie A : Conception Mécanique Section Al- Étude du chariot apicole
+(DT-01)
+: 8 A-1 a- Représenter à Yéchelle sur la Figure 15 les nouvelles positions P1,A1,M1 et B1 des 1 points P' , A, M et B correspondantes à une course du vérin de levée de c = 300mm, sachant que la longueur de la chaîne PP'demeure constante et indépendante du déplacement du vérin: Échelle de déplacement: Yo Icm 9100mm de déplacement 0, A1 M1 3 Ensemble {24,31} d = 101, 3mm 3c > 300 mm de déplacement
+NB Compte tenu de Ja liaison glissière de Tensemble {chariot mobile fourche} dans la coulisse externe (10),les points Aet P' restent toujours sur la droite 4.
+6cm > 6d0 mm de déplacement
+Chaîne
+Gcharge
+7
+Figure   15 - Différentes positions de la chaîne de levage
+b- Déduire graphiquement le déplacement Gcharge) de la charge suivant la direction 7o. Conclure. Gcherge 2.Cvérln = 2 * 300 60Omm 4p5
+Concours nationaux d'entrée aux cycles de formation dingénieurs Session 2020' Page ] 1/ 21
 
+--- page 49 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+A-2 Déterminer analytiquement la relation entre la course du vérin de levée et le déplacement de la charge (Y 'Gcharge) suivant la direction yo- En déduire que VMevérin /Ro 2 VGcharge , e17 /Ro Ona:YGcharge P'P1 = P'A1 ~ AzP1;P'A; C + P'A;P'A = L - (AB + BP); 8 LcM 520 P'A1 = C+L- (B+ BP); A1P1 = L - (A1Bi + B1B+ BP) 2 AR 1 {zic YGcharge [c+L-AB - BP] - [L - 4zB1 - B1B - BPJ; A1B1 AB 2p YGcharge C+BzB.Or B1B = c > Yccharge = 2.C;%Yccharee 2 4c dt dt
+VMevérin , [Ro ZVccharge € 17 /Ro'
+2/
+A-3. Justifier l'emploi des deux chaînes parallèles enroulées sur les deux pignons (31). Répartir les charges sur les deux chaînes symétriques
+A.)
+Équilibrage des forces Veu-
+A-4. Les deux chaînes travaillent en parallèles pour soulever chacunela moitié dela charge totale. a- En appliquant le Principe Fondamental de la Statique (PFS) sur Yensemble {24, 31} isolée, démontrer que le vérin fournira un effort le double de la charge FMvérin /pigon 2.Pcharge sachant que les deux tensions de chaîne aux points A et B sont égales (supposons que la liaison en M est parfaite). Jo d =101,3mm 91Pla 1 Ah 54 de Pfs S : pao M B Chafne 7 7
+7
+M verln/24
+T
+Point d'attachement de la chaîne
+Xo
+Pcharpe/2
+Figure. 16- Ensemble {24, 31} isolé
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 20208 Page 2 | 21
 
+--- page 50 ---
+Concours Technologie Épreuve C.FM
+Parte A : Concepton Mécanique
+Document Réponses
+PFS (équilibre suivant yo) :T = P charge/2)
+2T + 2T ~||7Mvértn/24ll = 0ou 2T _ 4 |7Mvértn/24|| = 0 / pignon
+, 3ph g 4T = Il7Mvértn/24l| = 4x ? = 2Pcharge I|7 Mvértn/24| 2 Pzaul Se 1 b- Calculer la force du vérin nécessaire pour pouvoir soulever une charge égale à 330 Kg Ccompris le poids de la fourche). IlF Mvérin/24|| = 2x 330 x 10 = 6600 N
+A-5. En se référant la Figure  15, estimer la longueur de la   chaîne pour une course Ccharge 1400 mm du chariot mobile porte-charge. On donne PB = 200 mm, Pignon double (31) de diamètre primitif d 101,3 mm Ccharlot TD 1400 Lmlnl BP + BB1 + Bi4i = PB + 159,4 + 2 4200 1059,12mm APk A-6. Le mât étant vertical, le chariot apicole est à larrêt Déterminer pour ce cas, la puissance P à transmettre par chacune des deux chaînes pour assurer la montée de la charge On suppose que la charge est équitablement répartie sur les deux chaînes. On donne
+4 A
+Le rendement du système pignon-chaîne n= 0,90 Charge maximale sur fourches m = 330 Kg Vitesse maximale de déplacement du chariot mobile (fourche) V =0, 2m/s m.g.V Preslstant chaîne 330 W 8
+Preslstant 330 1 3 Pmoteur /chaine x x 10 x 0,2 = Pmotcur 0,9 2 3666,66 W
+A-7.En considérant un fonctionnement de la chaîne sans à-coups (facteur de service $ = 1) déterminer le type et le pas de chaîne sachant que le diamètre primitif du pignon est d = 101,3 mm (Voir Catalogue DT-05) . Soit Pcharge = Sx P = 1x367 = 367W A0
+V 0,2 =4rd 3 300 0 = R 0,05 N = 38,2 tr /min ) 1p5
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2020, Page 3 | 21
 
+--- page 51 ---
+Concours Technologie Épreuve CFM
+Partle A : Conception Mécanique
+Document Réponses
+Choix : pas =12,7 mm et Type O8B 0b
+, A-8. Déterminer le nombre de dents du pignon. 8 =101, 3mm np 25 dents 3 1 A-9 Déterminer la puissance transmissible par un seul brin de ce type de chaîne (DTO5)
+101,3mm
+9 Pb 0,47 Kw N =38,2 < 50 tr /min)
+4
+A-10. Déduire le nombre minimal de brins de chaîne
+9
+7p6 Pcorr 0,367 nb = <1 9 0,47 nb = 1 Pb
+A-11 En se référant à la Figure 17, écrire la condition pour que la charge ne glisse pas vers Yavant en cas de freinage violent On suppose qu'il n'y aura de basculement (rotation) de la charge par rapport à la fourche durant la décélération. Le coefficient d'adhérence entre la charge et la fourche est noté f. La décélération au freinage est Ycharge /Ro ar.
+PFD appliqué sur la charge à la limite de ladhérence
+X
+AP
+4ny AM 7ext mx 7charge/Ro Fcharge +Tad 9~mxgF-fxmxg x cos0X1 = ~mxa7
+En projetant sur Y1 : ~m * g * sin0 - f xm x g * cos 0 = ~mxax cos 0
+Pour 'qu'il n'yaura pas de 'glissement vers Yavant; il faut que
+~mx g X sin 0 - f xmx g X cos 0 +m x a X cos 0 < 0
+0
+~mx g X tan 0 - f xm x g +m x a <0 > 'tan0 2 =f 9
+1
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 20204 Page 4|21
+4pk S1 t, & = 2
 
+--- page 52 ---
+Concours Technologie Épreuve C.FM
+Parte A : Conception Mécanique
+Document Réponses
+Y
+Charcontactrche , 8 1 Pcharge
+Ro(0o, Xo, Yo, Zo)
+Xo
+Figure. 17- Angle d'inclinaison cas du freinage
+Section A2- Analyse du mécanisme de direction
+(DT-02)
+A-12. Indiquer les repères des éléments responsables du changement de direction du véhicule. {38,39,40,45,47,48,49,50,55,56} , ',43 ,44, 4 6 {43,43,45 JD, 39, Lo 3 44, 46 : assistance € DFx 6 3
+A-13. Dans le cas de changement de direction des roues-arrière (34), le frottement avec le sol induira un couple Tesistant Mettre une croix devant la case Ue n{QeSe qui convient 025< Af Le couple nécessaire pour vaincre le frottement des roues est fourni totalement par T'opérateur X Une grande proportion du couple sera fournie par le vérin de direction {44,46} à la place de 4 Topérateur
+La commande des roues est purement hydraulique
+X
+La commande de direction étant hybride (mécanique et hydraulique)
+A-14 Il est à noter que les vitesses des deux roues-motrices (5) sont égales, avec deux trajectoires en demi-cercle de centre (Cc). que se passe ~t-il au niveau du contact entre chacune des roues motrices (5) etle sol en cas de manœuvre de demi-tour à droite ?
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2020' Page 5 | 21
 
+--- page 53 ---
+Partie A : Conception Mécanique Document Réponses Concours Technologie Épreuve CFM Jne: Lac__lzemae ua s Q.aea "a 44-Aal 4 aLL S2 Acfpunl Cc
+(34)
+(5)
+(34
+(5)
+Figure. 18- Trajectoires des deux roues-motrices
+dossier technique DT-02 et au schéma cinématique Figure 6, compléter A-15. En se référant au le graphe des liaisons relatif au mécanisme de direction
+34D
+34G
+1,38
+Puua
+Pxs
+1 @:ua
+Pivot
+Pivot Aivel 'Us 'Auul 46 13,45,47,48 "Prveer
+54D 'xue
+54G
+Prual
+Panr
+49D, SOD
+49G, 50G
+Flgure.  19- Graphe de liaisons
+des liaisons (Figure 19) et compte-tenu du schéma cinématique partiel A-16. À partir du graphe régissant la loi entrée plan (2D) du système de direction (Figure 5) , déterminer les équations sortie du mécanisme de direction de la roue droite (Figure 20); < 2a. 1t AS. 4 8 C.2 femanhuzuaaekyux Lbn+{Jsu=4 R C Xt5"~ 4. "0u"+ de formation d'ingénieurs Session 2020, Page 6 | 21 Concours nationaux d'entrée aux cycles
+Axxsl
 
+--- page 54 ---
+Concours Technologie Épreuve CFM Partie A : Conception Mécanique Document Réponses Pn2 Ies L4AeL5 dau QLue lx18") Clr@i*C{rl+7e6a2= dssar Jr" 1t Lcaln+LS- _ fJ @5911 +4<4 % 41 4% 442g 1 4silt Lse?l Lssx Q = 0 ç 8.4.2 cor +Lssl+l2 6=0
+6s4
+yvo
+v13
+54
+{1,38}
+{13,45,47, 48}
+Bo
+{39,40}
+&o
+Figure.  20 - Schéma cinématique du mécanisme de direction isostatique
+On donne O6 =c 713 d Y13 AB L.74o BC =lys4 07 = a71+ b )
+On associe les repères R 1(0, 71 ,yv 71 ) R 13 (0, Y13 ,713 71 ) R4o(A, 740 ,74o' i1 ) et R54(C, 754,7s4 71 liés respectivement aux solides {1,38}, {13,45,47,48}, {39,40} et (54)
+)s4
+y1
+]ao
+X54
+013
+740
+71
+A-17. En appliquant la loi de mobilité, déterminer le degré d'hyperstatisme de ce système 'stèmet _ + 2 nstl haM.t Elij L(e)_m 2 Mutmi L+L2) 6649 22 {4+4)-+(4xE+4x4} Lls4) 22 bl bu b n = M + 68 N < = (^ +2) + 6 x 3 -(4Ax 4 +4.*4)
+h = 7
++o
 
+--- page 55 ---
+Concours Technologie Épreuve CFM Parte A : Conception Mécanique Document Réponses A-18 Surla Figure 20, proposer des modifcations au niveau des liaisons pour rendre le système isostatique , Modification de 2 pivots par 'deuxrotules m =2+1+2+1=6 4 rotationroues + direction + 2rotations internes + 1rotation interne vérin 1 6 pF 'Ly = 7x5+4x3+1x4= 51 7 pivots +Aroles 5+1pivot "0t glssantm / 7 h =6+ 51 = 6x9 =3
+Section A3-Étude du système roue-motrice
+(DT-03)
+A-19. Donner les conditions dengrènement pour Yengrenage conique à dentures droites (59) et (72) Apkxs Même module Concordance des sommets des cônes primitifs
+81 + 82 = 2 A-20. Compléter le tableau des caractéristiques géométriques du pignon (72) et de la roue (59) (DT-03). Sachant que le rapport de réduction de cet engrenage est r=0,5. L'angle de pression des roues dentées à = 20' h,
+hr
+Figure:   21- Caractéristiques géométriques dun engrenage conique Concours nationaux dentrée aux cycles de formation d'ingénieurs Session 20206 Page 8 21
 
+--- page 56 ---
+Concours Technologie Épreuve CFM
+Partle A : Conception Mécanique
+Document Réponses
+Caractérlstique
+Pignon arbré (72)
+Roue (59)
+40 41~P D.
+Module
+m
+3,5
+3,5
+, g 1
+Nombre de dents
+d72 = Z52 3172 472,.Zs9 = 19 d59 Z72 d59
+38
+demi-angle au sommet du cône 'primitf
+26'
+64'
+Largeur dela roue
+23,75
+23,75
+rayon moyen
+Rm
+30
+60
+Formue
+Valeur
+Forule
+Valeur
+Dlamètre primitif
+I 272
+66,5
+m. Z59
+133
+Dlamètre de tête
+da
+d72 + 2m cos 672
+72,8
+d59 + 2m cos 659
+136,06
+Diamètre du pled
+df
+d72 ~ 2, 5m.cos 872
+58,63
+d59 2,Sm. cos 859 129,16
+A-21. En supposant que le point de réduction du torseur des efforts de contact dengrènement est situé au milieu de la dent; déterminer laction mécanique du pignon arbré (72) sur la roue (59) avec ses 3 composantes tangentielle Fr axiale Fa et radiale Fr en valeurs absolues. On donne le couple agissant sur la roue (59) est C59 460 N.m
+Cs9 460 |7c72+59 5 7666n 2 % Rm5g 60 x 10 5 [Faz23s9|| = Il7 , t72359 ||tan as9 .sin 659 = 7666 x tan 20* .sin 64' = 2507,8 N A/k |7rzz+59 It t72359 Iltan as9 cos 859 1223,1N
+A-22. On donne le sens de rotation de larbre (68). Représenter sur la Figure 22, les composantes des efforts   Ft, Fa et Frau point I
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs Session 2020, Page 9 | 21
 
+--- page 57 ---
+Concours Technologie Épreuve CFM
+Partle A : Conception Mécanique
+Document Réponses
+j # 3
+9 8 1
+72
+59
+F F a72->52
+68
+74
+72-152
+Figure.  22- Orientations des efforts au point de contact
+A-23. Quel type d'accouplement peut-on prévoir entre Y'arbre de sortie du moteur hydraulique etcelui d'entrée du réducteur (72), sachant  qu'ils  sont correctement centrés Cocherla bonne réponse 3
+Accouplement élastique
+X
+Accouplement rigide
+A-24. Quel type d'ajustement peut-on préconiser pour le montage du flasque (62) dans le carter (57) Choisir lajustement qui convient (cocher les bonnes réponses) .
+Serré
+@H7 g6
+Avec jeu
+A.
+ZH6 k5
+A 
+Incertain
+X
+H7 h6
+A-25. Quel type de roulements le concepteur a utilisé pour le guidage en rotation deY'arbre (68) porte roue Justifier ce choix et déduire pour quelle raison le roulement du côté del'ensemble roue {80,88} étant de dimensions larges par rapport à lautre; Roulement à rouleaux coniques type KB 1 A Présence defforts axiaux et radiaux importants 20 . Le roulement du côté de Yensemble roue {80, 88} est exposé plus aux efforts
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2020' Page 10 | 21
 
+--- page 58 ---
+Concours Technologie Épreuve CFM
+Partle A : Concepton Mécanlque
+Document Réponses A-26. Par quel moyen étantassuréel'étanchéité du réducteur (renvoi dangle) du côté de la roue {80, 88} 3 Arp~S< 3 (78, 79), (83, 86 et 82 , 4 L'ensemble roue {80, 88} étant en aciermoulé dontla partie extérieure (88) en caoutchouc étant 1 surmoulé par procédé de compression Compte-tenue de la jonction lisse entre pneu en caoutchouc (88) etroue en Acier de moulage; un problème de 'décollagea été soulevé à partir des services après ventes. A-27. Afin d'avoir un collage quasiment parfait et efficace; compléter le dessin ci-dessous en précisant la solution de forme qui peut améliorer le collage après surmoulage à chaud du caoutchouc sur la surface extérieure de la roue (80) 88 (Caouchouc moulé chaud) Autres solutions
+3 M
+77
+80
+7 5Z 76
+6@
+A-28. En vue de dimensionner les cales de réglages (65), tracer la chaîne de cotes minimale correspondante à la condition Ja  En déduire les équations correspondantes à la cote condition Ja (pour des raisons de simplifcation; les joints sont considérés indéformables). A Jv 3 21 JA = (a7 +a76 + 068 + 064 + 067) _ (a62 +a69 + 057 + 087) JAMax (a78 +076 + 068 + 064 + a67)Max 7pk (a62 + 069 + 057 + a87)min JAmtn = (a78 +a76 + @68 + @64 + @67)mln (@62 +069 + 057 + 087)Mar
+ITJa = ZIT
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs Session 2020, Page 11 | 21
+9
+7p4
 
+--- page 59 ---
+Concours Technologie Épreuve CEM
+Partie A : Conception Mécanique
+Document Réponses
+72
+57 69 9 62 4 68 1 64
+78
+87
+76 74
+81
+82
+83
+67
+JA 262
+a5
+309
+307
+a7
+868
+a5
+267
+a70
+3
+On désire dans cette partie graphique; compléter la conception dela prise de mouvement A-29. du moteur hydraulique (non représenté dans DT-03) vers le pignon d'attaque (72) ainsi que guidage en rotation de ce dernier par rapport au carter (57). Le guidage en rotation de son initialement assuré par le roulement à rouleaux cylindriques (70) et deux (72)/(57) est roulements à rouleaux coniques (89) et (90) (non représentés dans DT-03) faisant ainsi un montage hyperstatique: Pour des raisons de simplification; on demande de compléter le dessin densemble partiel en coupe (Page 14/21), en considérant les contraintes suivantes Montage de roulements assurer le guidage en rotation (72)/(57) en éliminant le roulement (70) et utiliser deux autres roulements à rouleaux coniques (89) et (90). le système de réglage de jeu, prévoir un montage en < 0 v en utilisant un pour faciliter écrou à encoches. compléter les ajustements nécessaires pour les roulements (89) et (90) sur le dessin.
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 20204 Page 12 | 21
 
+--- page 60 ---
+Concours Technologie Épreuve CFM
+Partle A : Conceptlon Mécanlque
+Document Réponses
+b - Accouplement: Par l'intermédiaire dun accouplement (91), qui sera choisi à partir du document DT-05, assurer la prise de mouvement entre les deux bouts d'arbres (92) et (72). , compléter le montage des clavettes (93) sur les arbres (72) et (92). g prévoir une vis de pression (94) de diamètre M5 contre chaque clavette; Moteur hydraulique 1 prévoir le centrage du moteur hydraulique (92) sur le carter (57) et indiquer son ajustement adéquat en vue d'assurer l'étanchéité entre (92) et (57), interposer un joint plat (95) la fixation du moteur hydraulique sur le carter étant assurée par 6 vis CHC M8-30 repère (96) (à représenter une) d- Nomenclature compléter la nomenclature en précisant la désignation et matériau associé
+3/
+NB :Il estimpératif de conserver Y'emplacement etla forme des interfaces de fixation au système comme lindique le dessin (DT-05)
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs Session 2020, Page 7 13 |21
 
-
-
-
-
-
-
-
-
-
-
- 
- 
-
- 
- 
-
- 
- 
-
- 
- 
-
- 
- 
-
- 
- 
-
- 
- 
-
- 
- 
-
- 
- 
-
- 
- 
-
- 
- 
-
- 
- 
-
- 
- 
-
- 
- 
+--- page 61 ---
+Concours Technologie Epreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+96
+92 Ank
+Ialr Q1
+44
+{244}
+%Hahli
+2ph 91 , Aamnul HaeQe 0,V^ 2 cQuellz 2 V.s 2Y 9
+95
+97
+ELu
+0(
+93
+Afc
+90
+4 H3 *4T
+89
+bh4 76me
+Apb Apl 72
+97 96 95 94 93 92 91 90 89 72 57 Rep
+Bouchon Vis CHC MB S++4b Joint d'étanchéité 3mze Vis de pression M5 4 Clavette 24 Moteur hydraulique 3 fù Accouplement rigide Lovejoy Roulement à rouleaux coniques SKF Roulement rouleaux coniques SKF Pignon arbré(pignon d'attaque) 35 Cr Mo Carter GE 360 Moulé Nbre Désignation Matériaux Obs Ensemble Roue motrice Echelle 1:1 Session 2020 Concours nationaux dentrée aux cycles de formation dingénieurs Session 2020 Page 14 | 21
+'Jpk
+0$ pl

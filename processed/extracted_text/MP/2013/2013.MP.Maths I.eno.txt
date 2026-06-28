@@ -1,4 +1,116 @@
+--- page 1 ---
+(eslsThfque Sa {u28 uns
+REPUBLIQUE TUNISIENNE Minislère & TEnseignemenl Supérkur êl de la Rezlærhe Scienlilique
+Afj)ilxoy)
+#XUE;#lvzls Gaais Je abyl SJHil Lali i2f Ur Ji 212 &
+Concours Narioneux d'Entrée auX Cyxles de Formation d ngénieurs Session Z0L3
+Concours Mathématiques et Physique Epreuve de Mathématiques I
+Date: 3 Juin 2013
+Heure 8 H
+Durée
+heures
+Nb pages 5
+Barème
+Une grande importance sera attachée à la rigueur du raisonnement , à la clarté et au soin de la présentation. L'usage des calculatrices n'est pas autorisé. Il est rappelé que tout résultat énoncé dans le texte peut être utilisé pour traiter la suite, même s'il n'a pu être démontré
+Exercice
+~TI 1 Soit $ € R+ Montrer que la série (~1)" € converge et que la suite ( Rn (r))n2o de n + 1 n20 se5 restac vérife Fn € N, IRn (z)1 < n+5'
+On pose
++o
+e =nI f :R+ _ R,2 + E(-1)" 2+7 7=0
+2 Montrer que f est continue sur @+
+3. Montrer que lim f (r) = 1. 19+00
+4
+(a) Montrer que f est de classe Cl sur }0; +œ[ (b) Montrer que, Pouf tout I > 0,
+f' (z) = f (z) = 1 _ e-2
+(c) Déduire alors que; pour tout z 2 0; f (z) = e In (1 + e -) -
+Concours  MMachématiques et Physique Session  Juin 2013
+Épreuve de Mathémaciques 1
+Pege 1/5
 
+--- page 2 ---
+MuT Caeraraoue Csustheque Pro slème Le but de ce problème est de résoudre l'équation différentielle: Ea) I 2y" + ry (r2 + 02) y = 0; ou @ est UIL réel positif ou nul Dans la première partie; on établit quelques résultats sur les fonctions T et 8 d'Euler utiles pour la suite. Dans la solutions deuxième partie, on fait V'étude de deux Ia et Ka de (Ea) et on prouve que (Ia, Ka) est un système fondanental de solutionse de (Ea)  On établit, dans la troisième partie; quelques résultats supplémentaires  quand lindice œ est un entier naturel . sur la fonction Ia
+Première partie Les fonctions T et B d'Euler On pose; pour tout I > 0 et pour tout n € N'
+nln" fn (z) < I(z+ 1) . (I+ n)
+1 Soit m > 0.
+(a) Montrer que, pour tout n € N'
+I(f+(r)} _ In(f{s)) = 2l(1+4)~"(+ 747) (b) Montrer que la série In (fn+1 (r)) In (fn (z))) est convergente. nzl (c) En déduire que la suite (fr (æ))n2i converge vers une limite f (x) € J0, +o [ 2 {2, Montrer que, pour tout I > 0,
+f (z +1) = 2f (r) (b) En déduire que; pour tout p € N,
+f (p + 1) = p! 3. Soient 2,y € R Montrer que l'application t + t2-1 (1 =t)v-1 est seulement si, intégrable sur J0, 15, si et 1,V > 0
+On pose alors, pour tout I,y > 0,
+8 (æ,y) =J  (1 t)v1 d6.
+Soient I,y > 0 (a) Montrer que
+8 (z,y) 2 I+2p  ((z,y +1) . 4 (b) Montrer que; pour tout n € N; 8 (2,y) = (iiv)r+u+l) (r+u_"B(s,y+ n+1). Vly + 1) (y + n )
+Concours Mathématiques el Physique Session Juin 2023
+Épreuve de Mathématiques
+Page 2/5
 
+--- page 3 ---
+(c) En déduire que; pour tout n € N*
+fn (y) 8 (z,%) = ur-1 (1 V+n 4) du . fn (I +y)
+5 En utilisant le théorème de la convergence dominée; montrer que, Pour tout 2, y > 0;
+&I-] y+n lin (1 _ 2) du =F(z) , n4+48 7
+où
++0 uI-1 e ~"du,
+F : J0; +œ[ + R, I +
+désigne la fonction Gamma d'Euler .
+} 7848 1 4 1 3 8 Js
+6 Montrer alors que
+f (y)
+B (r,u) = T(z +9jF(r)
+7 . Soient z,y > 0
+(a) Calculer 8 (z;1)- (b) Montrer que
+nlnI Ti) T(z) = lim n-++0 s(I+1) (z + n) '
+1(z) I (y) (ii) 8 (z,y) = T(r + y)
+8. {a) En utilicani le changement de variable # = sin? 0, calculer 8 (2' 2) (b) En déduire que F (4) 4 VG, (c) Montrer que pour tout p € N;
+(2p)! F(p - 4) = VT 4Pp!
+Deuxième partie Résolution de (Ea
+Dans toute la suite on considère un Iéel a 2 0 et les équations diférenticlles , (Ea) I2y" +Iy (z2 + 02) y = 0, et
+(E2) Question_préliminaire
+ry" + (2œ + 1) y Iy = 0.
+Soit s Jo. +a [ ~ R une fonction de classe C2 On note
+9(z) Jo; +2[ - R; I ' > Iœ
+Montrer que + est une solution de ( Ea) sur }0, +co{ s, et seulement si, % est une solution de (Ec ) SUr Jo; +œ[
+Concours Mathématiques e: Fhysique Session Juiz 2013
+Éprevve de Mathératiques [
+Fage 3/5
+Instttut Freearatoirs , Brletreque '{x2s SAX
 
+--- page 4 ---
+@uuieess;
+A- Étude_de la_solution I4
+1 . Soit {ar )nzo une suite réelle tellc que la série entière > @nI? a UI: rayon de convergence n29 R > 0 On pose 260 S : | ~R; R[ -+ R;I++ S (r) = @nI" n=0 Montrer que 5 est solution de (Eœ) sur }-R; R{ si, et seulement si, 01 = 0, et pour touc n € N On @n+2 (n + 2) (n + 2+ 2œ)
+2n 1
+2. {a) Montrer que la série entière a un Iayon de convergence Égal à 4rnIT(o + n+ 1) n>0 +0.
+(b) Montrer que
++9
+2n
+Ia Jo; +v[ + R,I + 2 4"nIT (œ + n + 1) 72=0 est une-solution de (Ea) sur J0,+c[
+3 Montrer que
+{a) Ic (z) 2) 2-+0+ T(œ + 1)
+(b) Jimn Ia (r) = +oo. 54++0
+4 Soit 2 > 0
+(e) Montrer que, Pour tout { €}-1,11 ,
+Fce 22r (1 ~t2)"-2 ch (zt) = 021 (1 402)"- 7=0 (2n)
+(b) Montrer que, pour tout n € N;
+J; ( {2)"-! dt = 8 (a + 4,n + 4) _ (c) En déduire que
+Ic (I) (5)" [ {1 - +2)"-4  ch (zt) dt VTT T+2 (d) Montrer que Ia (c) (7)' [ (-')~- e-It dt FFT2 +2
+Concours Mathératiques et Physicue Session Juin 2013
+Épreuve de Mathémetiques
+Page 4/5
 
+--- page 5 ---
+74
+@istTu; 6prarows , Gsuor 405 'Eude: 24 Sax
+B- Étude de la_solution Ke Dans toute la suite; on pose +0 Vm (( _1)9-! e-sdt, ct I H (2)' [* Ko Jo; +o{ ~ R; Tœ + 2) (=00 ~rt à = 1 dt . 1 4+ e (42 _ 1)  Fa J0, +c[ ~ R; de classe C? sur J0, +0[ et exprimer F9 (s) et que Fœ définit une application 1 (a) Montrer F% (z) à Vaide dintégrales. (Ea) sur J0, +œ[ . (b) En déduire que Fa est solution de léquation +oo[ , montrer que lim Fa (z) = +0. que Fa est décroissante sur J0, 14+0+ 2 (a) En remarquant Kœ (s) Jim = +0 (b) En déduire que 140+ sur Jo; +%l On fondamental de solutions de (Ec) Montrer que (Iœ, Ka) est un système 3 . utiliser le comportement de Ia et Ka en 0. pourra Troisième partie Une application
+(æ) = ercos(t) cos (pt) dt . N. Pour tout I € R; on pose Hp Soit p € exprimer ses dérivées classe Co suI R et 1. Montrer que Hp définit une application de successives à /aide d'intégrales. coS (jt) , où @0, @x € R avec tout k € N* , (cos t) = La; = 2 Soit # € E. Montrer que; pouI j=0
+(}
+2k-1
+pOUr tout k € {0;-,p} , 3 (a) Montrer que; H(k) (0} =
+0 si k < p, T si k = p. 2P
+(b) En déduire que H,(r) ,70  (Z)" est solution de Péquation (Ep) sur J0,+o[ 4 Montrer que Hp 1 ercos{t) cos (pt) dt. 5 En déduire que; pour tout I > 0, Ip (r) = 7 Jo 6 . Montrer que, pour tout I > 0 et tout t € R, 400 1 cos { 2 Io (æ) + 2 In (æ) cos (nt)_ n=1
+Montrer que, pour tout I > 0;
+40
+(1o '  (c)) +2/ ( (2))? Io (2z) = n=]
+Page 5/5
+Épreuve dc Maitématiques ]
+et Phvsique Session Juin 2015 Concours Mathémnaticues

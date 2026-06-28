@@ -1,3 +1,68 @@
+--- page 1 ---
+République Tunisienne Ministère de PEnseignement Supérieur et dc la Recherche Scientifique Concours Nationaux dEntréc aux Cycles de Formation dIngénieurs Session 2021
+1=ajji Lu91?J @1l_gjc:(p9 Guieal Jsin Ti31 2)jbsliji 2Ji 945 1al j) 2021 *j9
+Concours Biologie et Géologie Epreuve de Mathématiques
+Session 2021
+Date 21/06/2021
+Heure 8H
+Durée 3 heures
+Ia qualité de la rédaction et de la présentation, la clarté et la précision des raisonnements entreront pour une part importante dans Tappré- ciation des copies. Lusage des calculatrices non programmables est autorisé. Tout résultat fourni dans lénoncé peut être admis et utilisé par la suite, même s'il n'a pas été démontré
+Exercice 1 (7 points) Soit R3 muni de son produit scalaire canonique et de la base canonique Bc (e1,e2, e3). On considère lendomorphisme f de R? dont la matrice dans la base Bc est la matrice A donnée par
+0 2 ~1
+A =
+21 3 =1
+~1 2 0
+On pose
+u =
+(e1 e3) , 2
+7 = (e1 + e2 + e3) v3
+et
+Z =
+(e1 2e2 e3 ) .
+1. (a) Montrer que A n'admet qu'une seule valeur propre que lon déterminera. (b) La matrice A est-elle inversible ? Est-elle diagonalisable ? (c) Donner la dimension du sous espace vectoriel F = Ker(f ~ idR3 et vérifier que " et v sont dans F. (d) Montrer que B' (u, v, w) est une base de R3. (e) Soit P la matrice de passage de la base Bc à la base B' Montrer que 'PP = I3 . Que peut-on conlure pour B' 2. Soit p la projection orthogonale de R3 sur F. (a) Déterminer la matrice de p dans la base B' (b) En déduire la matrice de p dans la base canonique de R3_ (c) Soit g une application de R? à valeurs dans R définie par  s V(x,y) € R , g(x,y) = (x+y - 2)2 + (y - 1)2 + (~x+y _ 1)2 Déterminer les vecteurs u' v et w' de R3 tels que g(x,y) = |lxu' + yv' ~ w'|2
 
+--- page 2 ---
+Concours Biologie et Géologie
+Epreuve de Mathématiques
+Page 2 sur 4
+(d) Calculer
+min ,g(x,y). (x,y)eR? =
+3 Soient a, b et c trois réels. On considère trois suites réelles (un )neN, (vn)neN et (wn)neN définies par uo = a, vo = b, Wo = c et Vn € N,
+Vn+l = 2vn Wn
+Un+l = ~Vn + 3un Wn
+Wn+l ~Mn + 2vn
+On pose pour tout entier naturel n, Xn
+Un
+Wn (a) Montrer que Vn € N, Xn+1 = AXn: (b) On pose B = A I3. Calculer B2 . (c) En déduire que Vn € N, An = nA + (1 ~ n) I3. (d) En déduire Yexpression des termes généraux un, vn et wn en fonction de n, a, b et c (e) Donner une condition sur a,b et c pour que les trois suites Un, Un et Wn soient constantes.
+Exercice 2 (6 points) On admet que toutes les variables aléatoires considérées dans cet exercice sont définies sur un même espace probabilisé. Soit X une variable aléatoire réelle qui suit la loi normale centrée et réduite, de fonction densité définie sur R par x2 1 @(x) = =e 2 V2n et on note @ la fonction de répartition de X. 1 On pose Y = X2 et on admet que Y est une variable aléatoire: On note Fx la fonction de répartition de Y (a) Exprimer, pour tout réel x, Fx(x) à laide de @(x) (b) En déduire que la fonction densité de probabilité fx de Y est donnée par
+y e 2
+Si y > 0, V2ry sinon.
+fx(y) =
+2 On rappelle que la somme de deux variables aléatoires réelles indépendantes de densité f et g, suit une loi de densité
++0 Vx € R, h(x) =f f (t)g(x = t) dt. 0
+Vn
 
+--- page 3 ---
+Concours_Biologie et Géologie
+Epreuve de Matbématiquee
+Page 3 gur 4
+Pour t > 0, on considère Yintégrale I définie par
+1
+I=
+dx Vx(t =x)
+(a) Montrer que I est convergente. X (b) En effectuant le changement de variable sin(u) = montrer que I = TI. { (c) Soient Y1 et Y2 deux variables aléatoires réelles indépendantes de même loi que Y. 1 On pose U = Y1 + Y2. Montrer que U suit une loi exponentielle de paramètre 2 3. (a) Montrer que la variable T =e-4 suit une loi uniforme sur J0, 1]. (b) Donner Yespérance et la variance de T. 4 Soit a un réel strictement positif et soit Z une variable aléatoire de densité fz définie sur R par 2 fz(x) =&e +x e ` 4 (a) Montrer que & Van  0 a (b) En déduire que Z suit une loi normale de moyenne et décart type 2 2 (c) Exprimer la fonction de répartition Fz de Z en fonction de @ la fonction de répartition de la loi X. (d) En déduire que P(0 < Z < 2) = 0(424)- +w(v@) = 1. (e) Donner une valeur approchée à 10-4 près de lintégrale e-g+xdx. (On donne @(1) ~ 0.8413, V2z ~ 2.5066 et ve ~ 1.6487).
+Exercice 3 (7 points) Soit p €]0,1[ et on note q = 1 _ p. Soit un entier n > 1 fixé. On considère X1, Xz, - , Xn des variables aléatoires indépendantes, sui - vant une même loi de Bernoulli de paramètre p et définies sur un même espace probabilisé. On 1 note Xn Éxk n k-=l 1 1. (a) Justifier que p(1 - p) <4 (b) En utilisant linégalité de Bienaymé Tchebychev, montrer que Ve > 0, on a :
+1 4ne2
+P(lXn = pl > e)
+(c) En déduire que Yintervalle Xn 5' Xn + 5 est un intervalle de confiance de p au niveau de confiance 0.95. On recherche par la suite un intervalle de confiance de p au niveau de confiance 0.95 dam- plitude plus petite.
 
+--- page 4 ---
+Concours Biologie et Géologie
+Epreuve de Mathématiques
+Page 4 sur 4
+On fixe deux réels strictements positifs t et € 2 . (a) Etablir légalité P(Xn - p > c) = P(entXn > ent(p+e) ) . (b) Montrer que E(entXn = (e'p + q)". (c) En utilisant linégalite de Markov, établir linégalité suivante P(Xn p > €) < en(In(pe' Fq) -t(p+e))
+(d) En admettant Tinégalité In(pe' + q) _ tp < 8, montrer quon a ainsi linégalité sui - vante 42 P(Xn - p > €) < e"({ 8 tc) (e) En déduire que P(Xn p > €) <e-2ne2
+1 3 . 2(1 - Xk) . Etablir Yinégalité P(Yn ~2ne2 On pose Yn ~ 9 > €) < e n k--1 4 Déduire des questions 2(e) et 3. Zinégalité
+2e 2n22 P(IXn pl > €)
+5 Comment choisir € pour obtenir un intervalle de confiance au niveau de confiance 0.95 et pour une amplitude plus réduite que celle obtenue à la question 1.(c) 6. On cherche à observer des mutations sur des cellules identiques en les soumettant à une source de radioactivité. À Tissue de chaque expérience, la cellule testée a une probabilité p davoir muté (a) Si on a réalisé n expériences indépendamment les unes des autres, quelle est la loi du nombre Sn de cellules mutées parmi les n testées ? (b) Donner Yespérance et la variance de Sn n (c) Pour n = 1000. Donner un intervalle de confiance au niveau de confiance 0.95, où "am plitude de Tintervalle de confiance est la plus réduite.
+Fin de lénoncé  s

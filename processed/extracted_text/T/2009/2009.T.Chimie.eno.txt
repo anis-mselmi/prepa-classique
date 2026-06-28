@@ -1,4 +1,79 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE
+9aj)42ad)
+Ministère dc F'Enseignement Supéricur, de la Rechcrchc Scientifique et de Ia Technologic
+{Ujrs|ss~é Isdbeulaiss Jsijl uibsl 2ljbsliJi JhaJi JsJl>JJi 2009= 6)?
+ui
+2
+Ciqugaicoai
+Concours Nationaux dEntrée aux Cycles de Formation d' 'Ingénicurs Session 2009 Instintt AjRe _ CiûTHENUE  [Concours Technologie " #~ DuEAN Épreuve de Chimie Date Mardi 02 Juin 2009 Heure 8 H Duréc 2 H Nombre de pagcs 5 Partie [ Partie II Partie III Partie IV Partie V Partie VI Barème /20 2,25 3,00 4,00 3,50 3,25 4,00 Le sujet comporte quatre pages de texte et un document annexe (à rendre avec la copie) Les six parties sont indépendantes: Les candidats sont priés de présenter leurs réponses dans Fordre même de l'énoncé. L'usage des calculatrices électroniques de poche non programmables est autorisé L'utilisation des téléphones portables en salle d'examen est strictement interdite. Aucun échange n'est autorisé entre les candidats.
+DÉBUT DE LÉNONCÉ Le nickel, de symbole Ni, est un métal   gris-argent; dur et malléable.  On le trouve sous forme combinée au soufre dans la millérite, à l'arsenic dans la nickéline Le nickel est utilisé dans les accumulateurs nickel-cadmium et dans Ies pièces de monnaie. Il sert également dans la préparation dun grand nombre d'alliages; par exemple le nichrome. Cet alliage de nickel et de chrome, de température de fusion élevée et résistant à la corrosion; est largement utilisé dans des éléments chauffants Données (à 298 K) Numéros atomiques du nickel ZNi = 28 et du rubidium ZRb = 37. Masses molaires atomiques (g.mol du nickel MNi = 58,7 et du chrome Mcr = 52,0. Nombre d Avogadro NA = 6,02 1023 mol ! Rayon métallique du chrome RCr 1,27 %. Rayons ioniques R =1,33 8 ; RNi?+ 0,69 % ; K+ RNi'+ 0,59 % et RF- = 1,36 %. Grandeurs thermodynamiques ArHo enthalpie_standard de formation et So entropie molaire standard à 298 K) Composé NiO(s) FeO(s) Oz(g) Nils) Fe(s) AfH? (kJ.mol -244,3 -272,1 S' (JK mol 38,0 57,5 205,0 29,9 27,3 Constante des gaz parfaits R = 8,32 JK mol-1 Pression du dioxygène dans lair P%i 0,2 bar . Tournez la page S.VP. Concours Technologie Session 2009 Épreuve de Chimie Page 1/5
 
+--- page 2 ---
+Données (suite)
+Potenticls redox standard Couple_redox Ht/H2(g) Ni?FINi(s) E (en volt) 0,00 0,24 Produit de solubilité de Fhydroxyde Ni(OH)2 = Ks = 10-16 Produit ionique de Feau Ke = 10-14  RT Ln(x) = 0,06 Iog1 (x) (en volt)
+NiO()Ni' 1,59
+Partie I Éléments datomistique (2.25 ptsE
+1-I) a) Donncr la   configuration  électronique de latome de nickel dans son état fondamental. b) Préciser la position de cet élément dans la classification périodique. I-2) Le potassium (K) est un métal alcalin et le krypton (Kr) est un gaz rare. Les deux appartiennent à la même période   que le nickel . Déterminer leurs numéros atomiques. 1-3) Classer par ordre croissant, en le justifiant, les rayons métalliques du nickel et des alcalins potassium et rubidium.
+Partie II Structure métallique du nickel (30 pts)
+Le nickel cristallise dans une structure cubique de paramètre a = 3,52 %. Son volume molairec vaut Vmol.= 6,57 cm? .mol- '
+II-1) a) Calculer la masse volumique (en g.cm du nickel dans cette structure . b) Déduire le mode de réseau cristallin. II-2) Calculer le rayon métallique du nickel: II-3) Déterminer  ]angle de diffraction du   premier   ordre   par la série   de plans réticulaires (111). La longueur donde de la radiation utilisée est 1 = 1,54 . 1I-4) Le nichrome est un alliage de chrome et de nickel contenant 81,87 % en masse de nickel. a) Quel est le type de cet alliage ? Justifier. b) Déterminer sa formule
+Partie III Structure €un fluorure mixte de potassium et de nickel (40pts@
+Dans la structure cubique dun fluorure mixte de potassium et de nickel, les ions de nickel occupent les sommets du cube, les ions fluorure les milieux des arêtes et F'ion alcalin Kf le centre du cube
+III-1) a) Préciser les coordonnées réduites des anions_ b) Représenter en perspective la maille et son contenu.
+Concours Technologie Session 2009
+Épreuve de Chimie
+Page 2/5
 
+--- page 3 ---
+III-2) Déterminer la formule chimique de ce fluorure et le nombre de groupements formulaires par maille IlI-3) Déduire le degré d'oxydation du nickel dans cette structure. III-4) Déterminer la coordinence des cations. III-5) Dans une structure ionique idéale, tous les cations sont tangents aux anions qui les entourent. La structure étudiée est-elle une structure ionique idéale ? Justifier . III-6) La distance la plus courte entre anions, déterminée   expérimentalement, est d = 2,83 B a) Déduire le paramètre de la maille acxp' b) Donner 1expression puis calculer la compacité de ce fluorure .
+Partie IV : Diagramme binaire KF-NiEz : ( 5 pts) La figure ci-dessous représente une partie du diagramme isobare solide-liquide du binaire fluorure de potassium fluorure de nickel (II) KF NiFz avec en abscisse le pourcentage   molaire en fluorure de  nickel et en ordonnée  la température en "C. La miscibilité est totale à létat liquide.
+1200 6 1100
+1ouo
+Iz
+90u
+II
+1
+I1
+Suo
+700
+33,3
+50
+KF
+% mol NiFz
+IV-1) a) Déterminer les formules des composés définis C1 et C2. b) Préciser leurs types de fusion. IV-2) Indexer les domaines numérotés de à IV. IV-3) Nommer et écrire les équilibres invariants aux températures T1et Tz- IV-4) Un mélange de même composition que C1 cst refroidi  de 1100 à 750 €. Représcnter la courbe de refroidissement correspondante. Préciser les phases en présence sur les différents tronçons et commenter chaque accident thermique.
+Tournez la page SVP
+Concours Technologie Session 2009
+Épreuve de Chimie
+Page 3/5
 
+--- page 4 ---
+Partie
+Diagramme dEllingham (3,25 ptsL
+Dans cette étude Les gaz ont un comportement parfait. Aucune miscibilité n'est observée à létat solide.
+Soient les réactions 2 Ni(s) + O2(g) 22 NiO(s) 2 Fe(s) + O2(g) = 2 FeO(s) pour lesquelles les équations des droites d'Ellingham dans lintervalle de température [298 K - 1000 K] sont respectivement 4,G (T) = 448,6+0,189xT et 4G2(T) à établir .
+V-1) Préciser lunité de 4G%(T) . V-2) Déterminer l'expression de 4G2(T) . V-3) Montrer que les deux métaux (nickel et fer) ne sont pas stables dans lair à T = 800 K. V-4) Écrire, en le justifiant, la réaction possible spontanément faisant intervenir les quatre solides . V-5) Dans une enceinte   thermostatée à la température T 800 K, on introduit 0,1 mol de fer et 0,2 mol doxyde de nickel. Déterminer dans le système à létat final a) la quantité de chaque solide, b) la pression du dioxygène.
+Partie VI : Diagramme potentielpH simplifié _du nickel (4 0 pts) On limite le diagramme aux espèces suivantes Ni2+ Ni(s) Ni(OH)2(s) et NiOz(s). La concentration de l'espèce Ni?+ en solution est prise égale à Ctra = 0,01 molL-  VI-1)   Établir   lexpression puis calculer le pH de début de précipitation de lhydroxyde Ni(OH)2(s)  VI-2) Écrire les demi-équations de réaction des différents couples redox mis en jeu. Exprimer leurs potentiels en fonction du pH. VI-3) Tracer (sur le document annexe) le diagramme potentiel-pH et l'indexer. VI-4) a) Quelle est la réaction spontanée qui peut se produire lorsqu'on introduit du nickel métallique en solution acide de pH = 1 (on prendra Puz =Ibar 2 Calculer sa constante déquilibre. b) En fait, dans  les conditions   sus-indiquées, la corrosion du   nickel ne se produit pratiquement pas. Proposer une interprétation.
+FIN DE LÉNONCÉ
+Concours Technologie Session 2009
+Épreuve de Chimie
+Page 4/5
 
+--- page 5 ---
+Concours Nationaux dEntrée aux Cycles de Formation d'Ingénicurs
+Session Epreuve de Nom Institution d'origine
+Concours
+Prénom (s)
+Identifiant
+Série
+Annexe (à rendre avec la copie)
+Diagramme E-pH du nickel
+1,5 5 W 1,0
+0,5
+0,0
+0,5
+10
+12 pH
+Concours Technologie Session 2009
+Épreuve de Chimie
+Page 5/5

@@ -1,4 +1,82 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de YEnseignement Supéricur, de la Recherchc Scicntifique et de la Technologic 04jji '
+=9j)4{2s j) @Yuysg>ts Hssdbua5
+Jin Yibsh @Maliji uhsnitn Oufjyj 2009 *,3
+14s Tiu Fait antoike _ @LYôTHEQUE Qlbas @hgexsub Gh
+CIacachencise
+Concours Nationaux d'Entrée aux Cycles de Formation d'Ingénieurs Session 2009 Concours Mathématiques et Physique Epreuve de Mathématiques I
+Date: Lundi 01 Juin 2009 Heure:  8 H Durée: 4 heures Nb pages: 5 Barème Partie I: 5 pts Partie II: 8 pts Partie III: 7 pts
+Une grande importance sera attachée à la rigueur du raisonnement, à la clarté et au soin de la présentation.  L'usage des calculatrices n'est pas autorisé. Il est rappelé que tout résultat énoncé dans le texte peut être utilisé pour traiter la suite; même s'il n'a pu être démontré.
+Ce sujet a pour objet l'étude de quelques propriétés des séries trigonométriques il se conclut par une application à la résolution d'un probléme de Dirichlet par une approche variationnelle.
+Partie_-I-Quelques_proprietes des series trigonométriques
+1 (a) Montrer que, pour æ € Jo, 2m[
+eikr sin(2+r)  e 4 k=0 sin(5
+(b) On pose Sn(z) = sin(kz) Montrer que; pour toute suite (bn)neN de nombres k=0 complexes et pour tout couple d'entiers naturels (p,9) vérifiant p + 1 < 9, on a
+9=1 bn sin(ns) = baSq(z) ~ bpt1Sp(z) + (bn bn+1)Sn(æ). n=p+1 n=p+1
+2. Soit (bn)neN une suite décroissante vers 0 de nombres réels positifs ou nuls. (a) Soit œ € J0; z[  Montrer que bn sin(næ) converge uniformément sur [œ, 27 0] n20
 
+--- page 2 ---
+Concours_ Mathématiques et Physique Épreuve de Mathématiques I
+2
+(b) Etudier la convergence simple de bn sin(ns) sur R. n2o
+3 Soient (an)n21 et (bn)n21 deux suites réelles telles que la série de fonctions (an cos(næ) + bn sin(nz)) converge   simplement SUI R et sa somme est une fonction n2] continue sur R.
+(a) Montrer que an tend vers 0 et que; pour tout x de R, bn sin(næ) tend vers 0. (b)   Dans cette question;, on se propose de montrer que la suite bn tend vers 0 i. Calculer (bn sin(nz))?dæ. ii. Conclure dans le cas où la suite (bn) est bornée. iii. Dans le cas général, on pose b = inf (1, |bn |) Vérifier que, pour tout x de R; bn sin(nz) tend vers 0. Conclure.
+Partie -II-Pseudo-derivée seconde au sens de SCHWARZ
+Soit f est une application continue de R dans R. On dit que f admet au point 1 une pseudo- flæ+h)+flæ _ h) _ 2f(r) dérivée seconde si et seulement si, lim existe- Dans ce cas, cette h -+0 h2 limite est notée D?f (z) lim fz+h)+ flr= W)7211*2_ h-0 h2
+Partie A
+1 (a) Montrer que si f est deux fois dérivables sur R, alors D?f(s) existe en tout point x € R, et vaut f" (~æ) . (b) Soit $ une application continue de R dans R possédant en tout 2 € R une pseudo- dérivée seconde nulle. Soient %, b et € des réels tels que a < b et € > 0. On pose, pour tout æ € R, P(c) = f(r) - f(a) _ flb) ~fla)(z_ ~ a) ~ e(x = a)(b _ 2) b _ a
+et
+f(b) - "(j) = f(z) - f(a) Mlo)(z ~ a) +E( - a)(b _ 2) 6 - a i. Vérifier que la fonction 4 est   continue;  4(a) = 0(b) = 0 et que; Vz € R, D?p(æ) = 2e . ii.  Montrer que $ ne peut pas avoir un maximum strictement positif sur [a,b]. iii. Vérifier que la  fonction est   continue,   "(a) 3(6) = 0 et que Vz € R D? (æ) = 4 2e. iv. En déduire que f est affine. (Indication: on vérifie que 6 < 0, et on montre que % ne peut pas avoir un minimum strictement négatif et que % 2 0).
 
+--- page 3 ---
+Concours_ Mathématiques et Physique Épreuve de Mathématiques I
+3
+Partie B
+Jusqu'à la_fin de cette partie, (an)n21 et (bn)n21 sont deux suites réelles telles que la série de fonctions (an cos(næ) + bn sin(nz) ) converge simplement sur R et sa somme f est continue sur n>l R On pose F : R - R; +o an cos(nr) + bn sin(nz) 2 + = ) 12 n=l
+G : R -R, 4 32 sin? '(2) si $ # 0, I H 1 si 2 = 0,
+et pour tout h > 0
+Fla +h)+F(z = h)_ 2F(~) D(s,h) = h2
+1 Justifier lexistence de F sur R, prouver sa continuité et calculer ses coefficients de Fourier an(F) et bn(F)
+2 (a) Vérifier que G est de classe C sur Rf et que 2 {-4 sin2 22 '(4) + sin(z)] 2 = 0 G(s) = 2 0 I =0
+(b) Montrer
+est intégrable sur [0, +0[
+3 . (a) Vérifier la relation
++o D(z,h) = '(an cos(nz) + bn sin(nz))G(nh). n=1
+(b) On pose So(æ) = 0 et Sn(s) = (ak cos(kz) + bk sin(kæ)) pour n 2 1. k=1 1 Justifier l'égalité
++0
+Dlz,h) - f(s) =EIsn(r) ~ f (z)][G(nh) G((n + 1)h)} n=0
+ii. On pose; pour tout n € N, la fonction
+In 2 Rt _ R;
+(n+l)h h + ~(Sn(s) - f(z)) G(#)dt. nh
+Montrer que la série In converge uniformément sur R+ n20
 
+--- page 4 ---
+Concours Mathématiques et Physique Épreuve de Mathémnatiques I
+iii. Déduire de ce qui précède que, pour tout réel x, D?F(æ) existe et vaut f(æ)
+4 (a) Montrer que lapplication
+$ :  R - R
+1 =
+(æ = t)f(t)dt
+est de classe C2 et sa dérivée seconde vaut f(") (b) Prouver l'existence de réels œ et ( tels que pour tout réel æ lon ait @(-") ~ @(") F(s) =QI + B + $(z) où Q = 2T
+(c) Montrer que $ est 2T- périodique. (d) Montrer que, pour tout n € N,
+f(a)cos(nz)dz = ~n? @(a) cos(næ)dz ~I
+et
+f(æ)sin(nz)dæ  (~I)"+In(@(T) ~ @(-T)) - n?2 Jp(z)si2(nz)dæ. ~T ~T
+(e) En utilisant ce qui précède, établir que les suites (an) et (bn) sont les coefficients de Fourier de f , ie. que pour tout n € N;
+1 an = TT
+1 f(z) cos(næ)dæ et bn = ~T 7
+f(s)sin(ns)dz. ~T
+Partie -III-Application à un probleme variationnel
+On désigne par E lespace vectoriel E = {v : [0,"] - R, de classe Cl tel que v(0) = v(") = 0} -
++*
+Soit f : [0, n] - R une fonction continue telle que, pour tout æ de [0, "], f(z) =Ebnsin(nz) où n=l (bn)n2l est une suite de nombres réels.
+On désigne par J : E ++ R la fonctionnelle définie par Vv € E, J(v) = 2 J[()? + (v(æ))?Jdæ - Jo f(s)u(z)dz, et on s'intéresse au problème de minimisation suivant
+(P) TIrouver u € E tel que pour tout v € E, J(u) < Jlv)
 
+--- page 5 ---
+Concours Mathématiques et Physique Épreuve de Mathématiques I
+1 (a) Montrer que la série de fonctions bn sin(næ)  converge simplement SUI R et que n>1 sa somme coincide avec Funique application f : R 14 R, impaire, 2T-périodique et prolongeant f- (b) Montrer que f est continue et justifier que 2 bn = f(z) sin(næ)dz, Vn 2 1. T
+2
+(a) Établir, pour tout t € R ct tous u,v € E, Videntité suivante t(1 ~ t) J((1 -t)u+tv) + J[((*) ~u(2))?+("(2) ~u(2))/Jdr = (1-t)J(u)+tJ(v). 2 (b) Déduire de la question précédente que si u1 ct u2 sont solutions de (P), alors [(u5 (2) 142(z))? + (u1(r) = u2(æ))?]dz =0 et, par suite; u1 = u2 3 (a) Montrer que, pour tous ", v € E et pour tout t € R; on à t2 J(u+lv) = J(u)+t [v(z)v(æ) + u(z)v(æ) = f(æ)v(z)] dz+ 2 " [(v)3(2) + v?(2] (b) Montrcr que, pour u € E, u est solution de (P) si et seulement si, u vérifie le problème suivant: (P') Vv € E, ["(~)v(z) + u(z)v(z)] dz = Jo f(r)v(z)dz. (Indication: Montrer que u est solution de (P)s Jim Jlu + tv) J(u) = 0, Vv € E) . t-0 t (c) Deduire de ce qui précède que si u est une solution de (P) alors 2 bn u(æ) sin(nx)dz = Vn 2 1. 71 n12 +1 '
++0 bn 4. Pour tout 2 € R; on pose ~(æ) =  sin(nz) . n2 + 1 n=1 (a) En écrivant +0o +0 bn bn ~(æ) = sin(nz) - sin(nc)  n2 (2 + T)n? n=1 n=1 mnontrer quc % est une application 2T-périodique de classe C2 sur R. (b) Vérifier quc ~~" +~ = j, U(0) = U(T) = 0 (c) En déduirc que la restriction u de U& [0, 7] est de classe C2 sur [0, T] et est solution sur cet intervalle du problème de Dirichlet ~u" + u = f (D) u(0) = u(T) = 0 (d) Montrer que u est solution de (P') ct donc de (P):
+Fin de lépreuve

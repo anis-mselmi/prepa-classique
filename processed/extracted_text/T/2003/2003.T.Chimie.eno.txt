@@ -1,2 +1,48 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de [ 'Enseignement Supérieur et de la Recherche Scicntfique et de la Technologie
+Concours Nationaux dEntrée aux Cycles de Formation d'Ingénieurs Session: Juin 2003
+Concours Technologie Epreuve de Chimie
+5 rux etudes 5
+Date Samedi
+Juain 2003
+Heure : 8 H
+Durée 2 Heures
+Nbre pages: Problème III: 8 points
+Barème: Problème I: 8 points Problème II: points
+L'usage d'unc calculatricc non progrimmablc cst autorisé Les candidats doivent justifier leursréponses au moins gn quelque lignes 
+PROBLÈME I On connait les potentiels normaux d' électrodes suivants: ET{Al3+/Al (sd)} = - 1,66 Volt ; EST{AI(OH)4- / Al ()} = 1,17 Volt. BT{H+/ H2 (g)} = 0,00 Volt 'Alatempérature ambiante: le produit de solubilité de Al(OH)3 solide est: Ks = 10-32,6 le pKa du couple acidelbase AI(OH)3 (sd)AI(OH)4 est: pKa = 13; le produit ionique de leau est: Ke = 10-14
+1) On augmente à volume presque constant le pH d'une solution de nitrate d'aluminium AI(NO3); 10-2 Men ajoutant un faible volume d'une solution de soude 1 M. a) Pour quelle valeur du pH peut se produire une précipitation ?
+b) Pour quelle valeur du pH l'entité Al(OH)4  est-elle prépondérante par rapport à Al(OH)3 (sd) c) En déduire les différentes fones prédominantes de l'aluminium (UL) en fonction du pH 2) a) Etablir la relation qui permet de calculer la valeur du potentiel normal rédox du couple AI(OH3(s/Al à partir de la valeur de Ks de Ke etdu potentiel noral rédox du couple Al3+/ Al (sd) b) Déterminer cette valeur.
+3) a) Donnec les expressions des poteatiels délectrode pour les couples rédox: a) Al3+/ Al (sd)- B) AI(OH)B(sd)/Al (sd); AI(OH)4 IAl (sd) b) Calculer leurs valeurs dans le cas où les concentrations molaires de Al3+ et de Al(OH)4 sont
+Concours  Technologie Session Juin 2003
+Epreuve de Chimie
+Page 1/3
+Scrarapowe s
 
+--- page 2 ---
+toutes les deux égales à 10-2 moLL-L. c) Tracer les courbes E = f(pH) correspondantes dans le plan {E,pH}. On prendra comme échelle L cm pour une unité de pHet ] cm pour 0.2 volt. d) Indiquer sur le diagramme {EpH} les fores prédominantes pour les diverses régions du plan. 4) Représenter surce même diagramme la droite qui donne la variation du potentiel rédox en fouction du pH pour le couple H+IH2(g) quand la pression du dihydrogène est égale à l atm.
+5) a) L'attaque de l'aluminium par les acides avec dégagement de dibydrogène est-elle therodynamiquement possible à pH égal à 2 ? b) L'expérieuce montre 'qu' un système contenant de l'aluminiun etde l'acide chlochydrique à pH égal à 2n'évolue pas. a) De quel type déquilibre s'agit-il ? B) Douner l'allure des courbes intensité-potentiels qui perettent d'expliquer pourquoi laluminium n'est pas attaqué par les acides àpHégal à2 c) L'aluminium peut-il être attaqué par l'eauàpH égalà 12 ? Dans ['affinative écrire l'équation chimique de la réaction observée  a) Comment peut-ou raliser la prtection anodique de ['aluminium ? b) Quel est l'intérêt de cette protection ?
+PROBLÈME II Le numéro atomique du chrome Cr est Z = 24. A Première Partie A.I) Écrire la structure électronique du chrome et celle de ['ion Cr3+ A.2) A quel groupe età quelle période de la classification périodique appartient le chrome ? A.3) a) Donner la formule bcute des oxydes de chromc où le chrome est respectivement au degré d'oxydation [I et VL b) Préciser leurs caractères acidobasiques cespectifs-
+BDeuxième Partie La solubilité (s) de l'hydroxyde de chrome CnOH)3 dans leau est égale à 2. 10-8 molL-l à la température ambiante
+B.1) Quel est le pHd'une solution saturéc d'bydroxyde de chrome ? B.2) Déterminer la valeur du produit de solubilité Ks de CrOH)3 .
+PROBLÈME III
+On considère le diagramme liquide-solide simplifié or-antimoine (Au-Sb) à pression constante représenté par la {igure ci-dessous Les pourcentages atomiques en antimoine sont pontés en abscisse. 1) Les mélanges or-antimoine forment-ils un compxosé défini ? Dans ['affirative préciser 8a forule . 2) Reproduire le diagramme sur la feuille d'examen et indiquer dans chaque domaine la nature des Concours   Technologie Session Juin 2003 Epreuve de Chimie Page 2/3
 
+--- page 3 ---
+phases et ['état physique correspondant. 3) a) Donner l'allure de la courbe de refroidissement d'un nélange titrant 809 en pourcentage atomique en antimoine. b) Préciser pour chaque portion de la courbe de rcfroidissemeot a) la nature des phases en présence;
+B) la transformation qui a lieu  c) SOmoles de ce mélange à ['état liquide sont rfroidies jusqu'à une tempécature égale à: a) (460 + e) C avec € très inférieure à 1. Déterminer le nombre de mole d'antimoine dans chacune des deux phases en équilibre à cette température. B) (460 e) Cavec € très inférieure à 1. Déteriner le nombre de mole du composé défini cette température . 4) Un composé intermédiaire d'or et d'antimoine bypothétique cristallise dans le système cubique avec un 'paramètre de maille & égal à 6,08 A? . Les atomes d'or sont situés aux sommets et au centre de la maille.Les atomes d'antimoine occupcot les milieux des faces et les milieux des arrêtes a) Déterminer pour ce composé: a) la formule ; B) la masse volumique. b) La diffraction d'un rayonnement X, de longueur donde 1 égal à 1,542 A' sur ce cristal donne une réflexion du premier ordre avec un angle entre le faisceau incident et le faisceau réfléchi égal à 20,669 . Déterminer les indices de Miller de la famille des plans réticulaires diffractantcorrespondant à cette réflexion.
+Données:
+Les masses molaires atomiques en g-mol-l sont: Sb = 121,8 Au = 197. Le nombre d'Avogadro est NA 6,02.1023
+"C A
+P=1bar
+460"
+360'
+Au
+60 63 80
+Sb
+% atsmique
+FIN .
+Concours   Technologie
+Session Juin 2003
+Epreuve de Chimie
+Page 3/3

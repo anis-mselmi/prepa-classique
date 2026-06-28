@@ -1,3 +1,62 @@
+--- page 1 ---
+République Tunisienne Ministère de lEnseignement Supérieur et de la Recherche Scientifique Concours Nationaux dEntréc aux Cycles de Formation dIngénicurs Session 2018
+1u931 1@96 4?Ji &1l:[g(p Gubjesal LNilji 21bliji 0+ji 0852212! 2018 623
+Concours Mathématiques et Physique Epreuve de Mathématiques I
+Date: Jeudi 31 mai 2018
+Heure: 8H
+Durée 4H
+Nbre de pages
+Barème Partie I : 2 pts, Partie II 4 pts, Partie III 6 pts, Partie IV 4 pts, Partie V : 4 pts
+La qualité de la rédaction et de la présentation; la clarté et la précision des raisonnements entreront pour une part importante dans Yappré - ciation des copies. Lusage des calculatrices n'est pas autorisé Tout résultat fourni dans lénoncé peut être admis et utilisé par la suite, même sil n'a pas été démontré.
+Rappels et notations
+n!
+Pour tous entiers k et n avec k < n, on note
+le coefficient du binôme k!(n = k)! 
+Si Xest une variable aléatoire réelle; on notera P(X= x) la probabilité de X-1({x}), E(X) Tespérance de X et V(X) sa variance. Pour a < b, on désignera par C ([a,b]) ; Yespace des fonctions à valeurs réelles continues et définies sur [a,b] , muni de la norme |lfllo sup |f(t)k pour f € C([a,b]) tela,b] De même Ck([a,b]) sera Yespace des fonctions à valeurs réelles de classe Ck définies sur [a,b] avec 1 <k < 00 Partie L. Inégalité de Hëlder
+Soient p,9 > 0 tels que 1 =1 En exploitant la concavité de x + + Inx, établir que pour tout a,b € R+, on a
+a'b4 + b p
+2 Soient 41, a2, b1, b2 € R4, déduire de ce qui précède que
+01b1 b9 p 444)+44 (a? +a2)'(b? +b{)4
+3 . Conclure que
+01b1 + a2b2 < (a} +44) (68 +b2) 
 
+--- page 2 ---
+Concours Mathématiques et Physique
+Epreuve de Mathématiques
+Page 2 sur 4
+Plus généralement, établir que pour tout n € N* et pour tous réels positifs 01,. .,@n,b1,. . .  bn, on a a;bi < (É*) (É") Partie II. Fonctions hëldériennes
+Soit & €]0,1]. Une fonction f [0,1] = Rest dite &-hëldérienne sur [0,1], s'il existe k > 0 tels que V(x,y) € [0,1]2, |f(x) = f(y)l <klx = yl" On appelle Holæ, lensemble des fonctions &-hëldériennes. 1. Soit & €j0,1] On considère la fonction u définie sur [0,1] par u : x F  x" a) On fixe y €j0,1]  Montrer que la fonction x ~ g(x) = u(x) _ u(y) = u(x = y) est décroissante sur [y,1] b) En déduire que la fonction u est &-hëldérienne. 2. Montrer que Holx est un R-espace vectoriel. 3 Soient & et B deux réels de [0,1] tels que 0 < & < B < 1. Montrer que Holp € Holx. 4. Soit f € Holx, & €]0,1]. Montrer que f € C([0,1]) 5. On considère la fonction f : [0,1] = + R définie par
+(Inx)-1 si 0 <x < 4 ~(In2) -1 si 4 <x <1 si X =0
+f(x)
+Montrer que f € C([0,1]) mais que; pour tout & €l0,1], f # Hole' 6. Soit f € C1([0,1]) . Montrer que pour tout & €]0,1], f est dans Holo. La réciproque est-elle vraie ? Partie III Polynômes de Bernstein On appelle polynômes de Bernstein de degré n € N* les polynômes réels
+Bnk(X)
+Xk(1 _ X)n-k ; 0 <k <n.
+On considère (Yp)p21 une suite de variables aléatoires réelles indépendantes qui suivent toutes la loi de Bernoulli de paramètre x € [0,1]. On notera Sn = 5 Yp 1 Donner la loi de Sn. 2 a) Montrer que 0 < Bnk(x) < 1 pour tout x € [0,1] b) Montrer que pour tout n € N* et 0 < k < n, on a : Bnk(x) = Bn,n-k(l x), pour tout x € [0,1]. c) Donner les valeurs de E(Sn et V(Sn)
 
+--- page 3 ---
+Concours Mathématiques et Physique
+Epreuve de Mathématiques
+Page 3 sur 4
+d) En déduire les valeurs de kBnk(x) , k?Bnk(x) puis Ek(k 1)Bnk(x), pour tout k=0 k=0 k=0 x € [0,1] 3. Pour tout entier n 2 2 et 0 < k < n, calculer; en utilisant Yindépendance des variables aléatoires Yp, P(Sn k) en fonction de P(Sn-1 k) et de P(Sn-1 k = 1). En déduire Yexpression de Bnk(X) en fonction de Bn-1k(X) et de Bn-lk-1(X) Pour tout f € C([o,1]) et pour tout n € N*= on pose
+Bn(f) = Éf [ Bnk . k=0
+Montrer que pour tout f dans C ([0,1]) et pour tout x € [0,1], on a 51 = Bn(f)(x) et que Bn(f)(x) = f(x) = E 5) -f())
+5 Montrer que pour tout 6 > 0, on a : P
+5 -|2s) 4n62 6 . Soit Z une variable aléatoire réelle à valeurs dans un ensemble fini et une fonction convexe sur R. Montrer que P(E(Z)) <E(p(Z)) 7. Soit f € C([0,1]). Montrer que (Bn 1(f))n21 converge uniformément vers f 8. Établir le théorème de Weierstrass, cest à dire si (a,b) € R2 tel que b alors toute fonction dans C([a,b]) est limite uniforme dune suite de fonctions polynomiales. 9 Montrer que toute suite de polynômes qui converge uniformément sur Rtout entier; converge vers un polynôme. En déduire que le théorème de Weierstrass n'est pas valable si on rem- place [a,b] par R- Partie IV. Estimation de lerreur dans le cas hëldérien
+Soit / > 0 et & €]0,1]. Posons
+Hole ( €) {f : [0,1] = R telle que V(x,y) [0,1j2, |f(x) f(y) < e|x = yl"} Montrer que pour toute fonction f dans Holæ ( @) , la suite (Bnl [(f))nz1 converge uniformément vers f 2 Montrer que pour toute fonction f dans Holæ ( €), et pour tout x € [0,1], on a :
+Sn If(x) Bn(f)(x)l < QE
+3 En utilisant les inégalités de Hëlder; prouver que
+2
+1-2 52 -1 < (Ék-#r(-4)) (Ér(=-4)) 2 en déduire que E 51 -*| E 5-))7
 
+--- page 4 ---
+Concours Mathématiques et Physique
+Epreuve de Mathématiques
+Page sur 4
+En déduire que si f est dans Hole ( @) alors Vn € N* IlBn(f) = fllœ < &  (4) Partie V. Fonctions continues nulle part dérivables
+1 Soit h une fonction définie sur Ret dérivable en un réel a. Si (xn)neN et (yn)neN sont deux suites convergeant vers a telles que pour tout n € N, Yn <a < Xn et Yn Xn, montrer que
+h(xn) = h(yn) lim =h(a) n=++0 Xn = Yn
+sin (2umkx) Dans la suite; fk sera la fonction définie sur R par fk : xF + fk(x) = rk m où m est un entier pair et 1 <r < On considère la fonction f définie sur R par 1+67
+f : xF  f(x) = Efk(x) k0
+2. Montrer que f est bien définie et qu'elle est continue sur R 3. Soit x un nombre réel fixé Montrer que sup k < Xm" existe pour tout n € N. kez 47 On notera dans la suite kn sup k < xm" + kez 47 4kn + 5 4kn 1 b) On pose Xn Yn Montrer que Yn < x < Xn pour tout n € N et que 4m" 4mn lim (xn Yn) =0 n=++0 Soit n € N. 8) Calculer fk(xn) et fk(yn) pour tout k 2 n. f (xn) = flyn) 2 fk (xn) = fn(yn) . b) Montrer que + Xn - Yn r" (Xn ~yn) k=0 Xn = Yn En déduire que flxn)_flyn) '2;(7)"-2ug)-SWa. Xn = Yn {z0 Xn = Yn Ifk (xn) Montrer que flyl < 2T (") Xn = Yn f(xn) _ En déduire que flyn) > '(7)" ~ 2T 4 Xn = Yn Prouver que f est continue et nulle part dérivable. 5. Montrer que toute fonction de € ([0,1]) est limite uniforme dune suite de fonctions conti - nues et nulle part dérivables sur [0,1]. (On pourra utiliser le théorème de Weierstrass).
+Fin de lénoncé

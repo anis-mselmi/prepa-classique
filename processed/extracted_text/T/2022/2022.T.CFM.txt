@@ -1,50 +1,1355 @@
+--- page 1 ---
+République Tunisienne
+22y8 zbll?l;ïs @ulegl st Jgasu 241 aIjLial 5iAol Jusl Jalya 2022 1,95
+Ministère de /'Enseignement Supérieur et de la Recherche Scientifique Concours Nationaux d'Entrées aux Cycles de Formation dIngénieurs
+Session 2022
+Concours Technologie Épreuve de
+Conception & Fabrication Mécanique
+Date Mardi 07 Juin 2022
+Heure : 08H 00
+Durée 4 Hecres
+L'épreuve comporte deux parties
+A- Conception Mécanique B - Fabrication Mécanique
+(12 pts) (08 pts)
+Le sujet de l'épreuve remis au candidat comporte trois dossiers
+1- Mise en situation, Données et Hypothèses 2- Documents Techniques (DT-01, 02, 03,04, 05) 3- Document Réponses
+Important : Aucun autre document n'est autorisé. Seules les calculatrices de poche non programmables sont autorisées JWn'est fourni au candidat qu'une seule et unigue copie du <Dossier document réponses qui doit être rendu en totalité; à la fin de lépreuve; même sans réponses_ Le document réponses doit être rendu en intégralité (aucune feuille ne dait être 'supprimée) . Toute suppression de feuilles du document réponscs est considérée comme étant une tentative de fraude
 
+--- page 2 ---
+Dossier
+Mise en situation; Données et Hypothèses
+Ce dossier comporte sept pages numérotées de 1à 7 et cinq documents techniques DT-01 à DT-05
+Mise en situation
+Pages 1 et 2
+Documents Techniques Données et hypothèses
+DT-O1 à DT-05
+Pages 3 à 7 Pages 3 et 4
+A- Conception Mécanique
+Documents Techniques Conception
+DT-01 à DT-03
+B- Fabrication Mécanique
+Pages 5 à 7 DT-04 et DT-05
+Documents Techniques Fabrication
 
+--- page 3 ---
+Concours Technologie Épreuve CEM
+Mise en situation, Données & Hypothèses
+SYSTÈME DE GALVANISATION
+1- Mise en Situation La galvanoplastie est un traitement basé sur lélectrolyse; qui permet dappliquer un dépôt sur les pièces à traiter (articles). Ce procédé est utilisé lorsque les caractéristiques des pièces nécessitent d'être modifiées   (conductivité, dureté, anticorrosion, etc.) ou à titre décoratif (chromage, cuivrage, etc). Ces opérations consistent à immerger successivement les pièces dans différents bains (cuves) . Comme Ies produits dans les cuves peuvent être nocifs (acides) le déplacement des pièces est alors réalisé par Y'intermédiaire dun chariot muni d'un support mobile (porteur) sur lequel les pièces sont accrochées: La Figure 01 représente le système de galvanisation correspondant à Vétape de zingage. Il 2st constitué dun chariot animé dun mouvement de translation horizontal (flèche horizontale) assuré par un réducteur inverseur électrcmagnétique (objet de Pétude) et un moteur (M1) Le mouvement de sortie du réducteur inverseur est transmis à un système pignon-crémaillère au travers dune chaîne métallique. Le système pignon-crémaillère assure le déplacement horizontal du chariot.
+Un motoréducteur (M2) assure le déplacement du support mobile par lintermédiaire dun système vis- écrou (flèche verticale).
+Motoréducteur *2 de translation verticale
+Chariot
+Support mobile
+Pièces
+Réducteur_inverseur
+Moteur M1 de translatidn horizontale
+Produit de qa Ivanisation
+Socle
+Crémaillère fixe
+Figure 01 ~Système de galvanisation
+Concours nationaux d'entrée aux cycles  de formation dingénieurs
+Session 2022
+Page 1 | 7
 
+--- page 4 ---
+Concours Technologie Épreuve CFM
+Mise en situation; Données & Hypothèses
+Le croquis de la Figure 02 schématise sommairement le cycle de  fonctionnement du système de galvanisation. Les cuves contiennent les produits nécessaires aux traitements souhaités.
+Position haute
+Position basse
+Cuve chargement des pièces brutes
+Cuve dégraissage
+Cuve
+Cuve rinçage
+Cuve déchargement des pièces galvanisées
+galvanisation
+Figure  02 Cycle de fonctionnement du système de galvanisation
+Cuve 0 : Étape de chargement manuel des pièces brutes par un opérateur, Cuve 1 Nettoyage des pièces métalliques par dégraissage ou décapage pendant une durée de 205, Cuve 2 : Dépôt dune couche fine de zinc sur les pièces métalliques (galvanisation) . Ce traitement nécessite
+Un chauffage, à une température comprise entre 50 C et 60'C, assurée par les résistances chauffantes et contrôlée par un capteur; Une agitation dune durée de 3min (Figure 01), Cuve 3 Nettoyage final par rinçage à Teau des pièces traitées. Cuve 4 Déchargement manuel des pièces traitées .
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2022
+Page 2 | 7
 
+--- page 5 ---
+Concours Technologie Épreuve CEM Conception Mécanique_Mise en situation Données & Hypothèses_
+2-Données et Hypothèses
+Partie -A : Conception Mécanique Cette   partie   porte sur Tétude   fonctionnelle et   technologique dun réducteur inverseur électromagnétique  utilisé dans la chaîne de galvanisation. Elle s'appuie sur les documents techniques (DT-01, DT-02 & DT-03). L'épreuve concerne notamment
+L'étude technologique des composants du réducteur inverseur électromagnétique, L'étude de la chaîne de transmission de mouvement et de puissance relative au réducteur inverseur électromagnétique, L'étude du mécanisme de translation verticale, La cotation fonctionnelle, L'étude graphique
+Section A-1.Étude Technologique
+Dans cette section, le candidat est appelé à répondre sur le document réponses; en s'appuyant sur les documents techniques DT-01 & DT-02
+Section A-2. Étude de la chaîne de transmission de mouvement et de puissance
+Étude de la transmission de puissance
+Diamètre du pignon (59) d59 120 mm Vitesse linéaire minimale du pignon (59) imposée par le cahier de   charge
+V59 90 n (mm/s) Nombre de dents des engrenages et des pignons
+Roue ou pignon
+64
+15
+12
+66
+54
+32
+39
+59
+Nombre de dents
+14
+42
+14
+42
+18
+21
+15
+30
+Étude de Yembrayage E1
+Coefficient de frottement : f = 0,3 Rayon extérieur des garnitures R = 38 mm Rayon intérieur des garnitures r = 30 mm Effort créé par Vélectro-aimant B1 F1 = 1100 N Effort développé par le ressort (24) Fressort 50 / Rendement par étage du réducteur inverseur : 1 = 0,9
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2022
+Page 3 | 7
 
+--- page 6 ---
+Concours Technologic Épreuve CEM Conception Mécanique_Mise en situation Données & Hyrothèses
+Étude du limiteur de couple < Piat >
+Coefficient de frottement : f = 0,35 Rayon extérieur des garnitures R = 25 mm Rayon intérieur des garnitures r = 12 mm Pression maximale admissible par les garnitures Pmax MPa La raideur des rondelles ressorts K = 300 N /mm Pas du filetage de la pièce (9) :pas 1, 5 mm Dimensions de la clavette (74) 4x4x12 Diamètre de larbre moteur d1 12 mm Pression de matage admissible de la clavette (74) : Padm 150 MPa Section A-3. Étude du mécanisme de translation verticale
+Le déplacement vertical du support mobile (porteur des pièces) de la position haute àla position basse est assuré par le motoréducteur M2 avec un système vis-écrou (Figure 03). 06 a.X 0B @.7 +b.y (c ~c.y Section A-4. Cotation fonctionnelle
+On sepropose de choisir les ajustements qualitatifs de certains éléments d'assemblage du système réducteur inverseur électromagnétique et de tracer une chaîne de côtes. Section A-5. Représentation Graphique
+On se propose dans cette section de compléter la conception du chariot vertical dimmersion présenté par le schéma cinématique de la Figure 03. On servira le document DT-03.
+M2
+(L3)
+Vis
+support
+Translateur Ecrou
+4 ~2 I(L2)
+(L4)
+Figure 03 Schéma cinématique du chariot vertical d'immersion
+Concours nationaux d'entréc aux cycles de formation d'ingénieurs
+Session 2022
+Page 4 | 7
 
+--- page 7 ---
+Concours Technologie Épreuve CFM Fabrication Mécanique Mise en 'situation Données & Hypothèses Partie B : Fabrication Mécanique Cette partie est dédiée à létude de la cloche (2) et du cache (DT-01, DT-04 & moteur, présentés par les documents DT-05). L'étude concerne notamment L'élaboration de la gamme d'usinage de la cloche (2) L'étude de la coupe pour Yusinage de la cloche (2), L'étude de Tusinage par machine CNC de la cloche (2), Létude de Yobtention du cache moteur.
+NB Pour les calculs; on se limitera à 2 chiffres après la virgule.
+Section B-1. Élaboration de la gamme dusinage de la cloche (2) Dans cette section; on s'intéresse lélaboration de la gamme dusizage de la cloche (2), représentée par le dessin de définition {DT-04). On souhaite la production dune série de 200 pièces ] est obtenu par parmois durant 12 mois Le brut de cette pièce moulage. Les surfaces usinées sont représentées en trait fort et repérées de 1 à 8 Toutes les surfaces sont réalisées en une seule opération; excepté lalésage 4 qui nécessite deux opérations (Ébauche et Finition). B1 et B2 sont des surfaces brutes. Dans   latelier de   production; onl dispose des machines-outils suivantes deux "ourS conventionnels, deux fraiseuses universelles; une mortaiseuse, une tailleuse dengrenage, deux perceuses à colonnes etun tour CNC à deux axes (X,2).
+Section B-2. Étude de la coupe pour Yusinage dela cloche (2) Dans cette section; on s'intéresse à Yétude de la coupe associée à une opération d'usinage de la cloche (2). Les Tableaux 01 et 02 serviront pour le choix des paramètres de coupe
+Concours nationaux d'entrée aux cycles de formation d V'ingénieurs
+Session 2022
+Page 5 | 7
 
+--- page 8 ---
+Fabrication Mécanique Mise en situation, Données & Hypothèses Concours Technologic Épreuve CFM
+Tableau 01- Paramètres de coupe_pour les opérations de chariotage en Toumage avec outil carbure Résistance à Angle de Ébauche Finition la rupture coupe Matériaux apmax Vc apmax Rr (mm tr) (m /min) (mm) (mm/tr) (MPa) (m/min) (mm) 0,20 250 0,12 Acier 5235 300 14 150 0,15 130 0,12 X6 CrNil8 10 600 105 0,20 160 0,12 35CrMo4 1100 100 0,15 180 0,12 EN-GJL-250 250 150 0,20 260 0,12 CuZn3o 400 20 220 0,30 450 0,12 Dural AU4G 280 25 350 0,20 13C 0,12 Bronzes 200 20 90 NB: Pour les opérations dalésage prendre 75% de laV cen chariotage
+Tableau 02- Paramètres de réglage de_la machine (Nr etfr) Gamme des vitesses de rotation Nr (tr /min) 320 560 800 1000 1320 60 180
+1600
+2000
+Gamme des avances fr (mm/tr) 0,1 0,15 0,2
+0,02
+0,03
+0,05
+0,25
+0,3
+0,35
+Pour modéliser lusure des plaquettes de Youtil de coupe; des essais expérimentaux ont permis de déterminer la durée de vie T pour deux vitesses de coupe Vc- La valeur de Yusure acceptable en dépouille est de 0, 25mm. L'évolution de lusure des plaquettes suit le modèle de Taylor 'simplifié, défini par : T = Cv   V? Les résultats des essais sont reportés dans le Tableau 03.
+Tableau 03- Résultats des essais d'usure Essais Vc (m/min) 175
+T (min)
+13
+225
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2022
+Page 6 | 7
 
+--- page 9 ---
+Concours Technologie Épreuve CFM Fabrication Mécanique Mise en situation, Données & Hypothèses
+Section B.3- Étude de lusinage par machine CNC de la cloche (2) Dans cette section; on suppose que Tusinage relatif à une phase de production sera réalisé sur un tour à commande numérique à deux axes (X, Z) .
+Section B.4- Étude de Yobtention du cache moteur Le cache moteur représenté par le dessin de définition (DT -05) est obtenu à partir dune tôle en acier S235 d'épaisseur 1mm. L'obtention de cette pièce nécessite successivement les opérations suivantes
+Poinçonnage dun flan de diamètre Df' Emboutissage du flan sur presse hydraulique avec outillages spécifiques (matrice et poinçon),
+Perçage des trous de fixation sur Vembouti,
+Réalisation des orifices daérations.
+Les surfaces élémentaires en emboutissage sont données dans le document DT-05. NB Pour simplifier les calculs des surfaces élémentaires; les côtes du cache moteur seront considérées par rapport à la fibre moyenne
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2022
+Page 7| 7
 
+--- page 10 ---
+Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs
+Session 2022 Concours Technologie Épreuve Conception & Fabrication Mécanique (CFM Date : Mardi 07 Juin 2022à 8 H
+DOCUMENTS TECHNIQUES Sujet : Système de galvanisation
+Ce dossier comporte 5 documents techniques numérotés de DT-01 à DT-05 DT Document Technique Détail F Réducteur inverseur DT-01 Détail G électromagnétique Détail H
+DT-02 Nomenclature
+DT-03 Éléments standards
+Trajectoire d'outil et coordonnées des points particuliers
+DT-04 Cloche (2)
+Coupe [-1
+Calculs des surfaces élémentaires
+DT-05 Cache moteur
+Expressions des efforts
 
+--- page 11 ---
+1
+:
+:
+Echelle
+Réducteur inverseur électromagnétique
+Session 2022
+Format 43
+Concours nationaux d' entree aux cycles de fornation d' ingénieurs
+Concours Tochno- Epreuve C.F-M
+Systete de galvanisation
+OT-01
 
+--- page 12 ---
+~ocuurs Lechnalonle
+Eurrc C,fk
+Ginccufa Techna10q1o
+Eoreuve
+Baque inzermcdiare 8236 Ronve L le @Ppur Ecrou Hexagonol clavotte Pignpn Chaine double Joint leyre couvercle 5235 Roulement etanche SKF Clavette Couvorclo 5235 Vis Chc Pignon chaine 2 Culassn aimantation Disque_embrayage Disque enbrayage 28 Cloche enorayage EN-GJL 250 Plateau mobile 8235 Roue dentee embrayage Vis CHC Ressort de [zppel Boitier GE360 Maule Roulement etanche SKF Anneau plestiquo Arore sortie 85 Cr Couvercle roue dentee_enbrayage Bouchon de_cemplissage carter_rzpporte Ge360 Mvule Roue dentee Couvercle 5235 Aoulenent billes contact radial Pignon arbré 35 Cr Vo doint levres doubles V1s pression Ecrou blocage 5235 Bague contre_ plateeu Rondelle ressort (Belleville) Garniture Plateau Arbre entree CrMlo Bague 27 Ni Cloche EM-GUL 250 Arbre Moteur 35 Cr #o Rep Nbre [Désignation Materiaux Obs Concours nationaux d'entrée aux cycles de formation d' ingénieurs
+Embcayede electronagnetiquo Embrayage electromagnetiqug Podine Okcitation embrayage Bobine excilatlon eabrayede Voteur_electcique Glavette V1s do qVidage Clovette Disque Limlteur de Couple Plateau Mob1le Tipe de Quidage Baquc enlfetoise Roulemenr D1les Aove Oenre8 soclo Pignon Lapportee Joucnoo Videnge oint ovro
+8235
+systede_pionon cromaillere Ardre enttainenent Cr Ho Prgnon de Ghaine Double Rondello 20pu1 Fcrou hexagonal Detronpeur Clavette Pionon de chaine Rou erent aiguilles SKF Rondelle Ecre Anneal Zastique Gouvercle roulenent 8235 Arbre ntoroedlalre 85 Cr Mo Anneau_elastiquc Roulenent etanche SKF Poussoir Chafine entrefnement Pieo dc centrage Nbre Designtzon Materieux Oos Concours nationaux d' entrée aux cycles de formation d'ingenieurs
+Rep
+Systeme de galvanisation
+Session 2022
+DT-02
+Systone de galvanisetion
+Session 2022
+DT-02
 
+--- page 13 ---
+Vis de pression à téton long
+Z2nin
+d, 2.5 3 .5
+d,
+Z2
+53
+M4 M5 M6 M8
+4-5-6-8-10-12-16-20 5-6-8 -10-12-16-20-25 6-8-10-12-16-20-25 30 8-10-12-16-20-25-30-35-40
+2.5
+2.5
+2.5
+1.5
+5.5
+Ecrou Hexagnonal
+b, 3 .2 4 .7 5 .2 6 . 8
+bz 2.2 2.7 3 .2
+M4 M5 M6 M8
+% 7
+10 13
+b, max bz  max
+Ecrou_usuel Ecrou bas
+Ecrou à encoche Rondelle frein
+dxpas d1 M 10 x 0,75 8,5 Mi2x1 10.5 M15x1 9 5 | 13,5 4 M224 15 M25x 1,5 23 125 M30x15 45 5 275 125 4 Symbole M8 Vis d'assemblage
+4 Syintde KM
+M4 M5 M6 M8
+2.5 3 . 5
+4-5-6-8-10-12-16-20 5-6-8-10-12-16-20-25 6 -8-10-12-16-20-25 30 8 -10-12-16-20-25-30-35 40
+8 . 5 10 13
+5.5
+Iconcours nationaux entrée aux cycles de formation d'ingénieurs
+Eléments standards
+Concours Technologie Epreuve €.F.M Système de galvanisation
+Session 2022
+DT-03
 
+--- page 14 ---
+To1
+out1l aloser dresser
+coordannees (es noints particulicrs
+PoLnts
+00 5162
+LLle
+Lln 5
+Echelle 2:1
+Session 2022
+Cloche
+Rep (2)
+Format A3
+Aag-2 Sauf Indicatlon
+Concours nationaux
+entree aux cyclos de formation d' ingenieurs
+Toleraneos generalee IS0 2780 Mk
+Matiere :EM-GJL-250
+Ccncours Techno Epreuve C.F.M
+Système de galvanisation
+DT-04
+7,6
 
+--- page 15 ---
+Calculs des surfaces élémentaires
+Elenont
+Element
+L+ah 8,R.H
+2,T a(d 0,78 )
+2,- R(d 1,28 )
+Orit1ces 4' @eratlon
+2 , F,a(d 1,3R)
+20 ,H
+2.4A(d+0,7r)
+1fous0e
+4+f-R.d
+12(0+0)
+0
+060
+= A(D_1,428 )
+Effort de poinconnage
+" ,D, .e ,Ro
+avec: R;
+0,8.Rr
+4 ,= R(d+ 0,588)
+Effort
+chboutissege
+Fe = k.TD.eR, Effort du serre-flan Fst = 4(D?-d?).Ps
+0,55 Psf 2,5 MPa
+4 ,Ir(d 1,42R)
+Echelle 161
+Session 2022
+4,1A(d
+68R)
+Cache moteur
+Moteur M1
+Format 43
+9.0.H
+Concours nationaux entrée aux cycles de formation d' ingénieurs
+Concours Techno epreuve C.FM
+Système de galvanisation
+DT-05
 
+--- page 16 ---
+République Tunisienne
+Signature des enseignants
+MINISTERE DE L'ENSEIGNEMENT SUPERIEUR, DE LA RECHFRCHE SCIENTIFIQUE
+Concours Nationaux d'Entrée aux Cycles de Formation dIngénieurs
+Concours Nationaux dEntrée aux Cycles de Formation d'Ingénieurs
+Session : 2022
+Session :
+2022
+Concours Technologie preuve de: Conception et Fabrication Mécanique
+Concours Technologie
+Epreuve de CFM
+Date Mardi 07 Juin 2022 à 8 H
+Date Mardi 07 Juin 2022 à 8 H
+Durée 4 Heures
+Durée
+Heures
+Nom :
+Document Réponses
+Prénom
+Date & lieu de naissance
+Etablissement d'origine
+No CLN ou NP du passeport pour les étrangers
+Série
+Identifiant :
+Nombre de cahiers remis
+Nombre de cahiers remis
+Ne,ene Jéeneki |
+lécie [ fi Mler s,Ren €
 
+--- page 17 ---
+Dossier
+Document Réponses
+Ce dossier comporte 17 pages numérotées de 1à 17
+Partie A- Conception Mécanique
+Page 1 à 10
+Partie B- Fabrication Mécanique
+Page 11à 17
+Important
+Un seul document réponses est fourni au candidat.
+Le candidat doit rendre obligatoirement le document réponses avant de quitter la salle
+d'Examen.
+Le document réponses doit être rendu en intégralité (aucune feuille ne doit être supprimée)
+Toute suppression de feuilles du document réponses est considérée comme étant une
+tentative de fraude
+Le renouvellement ou la reproduction de ce dossier sont strictement interdits.
 
+--- page 18 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+Partie A : Conception Mécanique
+Section A1- Étude technologique
+A-1. Compléter le Tableau -1, en précisant le rôle de chacune de pièces. Tableau 1 Rôle des_pièces Pièces Rôles
+(10)
+(24)
+(44)
+(56)
+(63)
+A-2. Justifier lutilisation des roulements auto-lubrifiés (22,36 et 47).
+A-3. Compléter le tableau suivant en précisant la fonction et le rôle de chaque joint:.
+Joint
+Fonction
+Rôle
+(38)
+(62)
+A-4. Donner lordre de manœuvre des différentes pièces nécessaire pour assurer le réglage de Peffort presseur des rondelles ressorts (7).
+A-5.Indiquer par une croix le sens de rotation de larbre de sortie (20) par rapport à larbre (1) du moteur en fonction de létat des embrayages (El) et (E2) NB : (El) et (E2) ne peuvent pas être excités en même temps.
+Même sens
+Sens opposé
+Embrayage E1 excité Embrayage E2 excité
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 20220 Page 1 | 17
 
+--- page 19 ---
+Concours Technologie Épreuve CFM
+Partie A ; Conception Mécanique
+Document Réponses
+Section A2 - Étude de la chaîne de transmission de mouvement et de puissance
+Étude cinématique globale
+A-6. En se référant au dessin densemble (DT-01), compléter la chaîne cinématique en indiquant les organes de transmission de puissance en fonction de Vétat des bobines (B1) et (B2).
+Moteur électriaue
+(B1) excitée
+(B2) excitée
+Arbre de sortie (20)
+A-7.Compléter le schéma cinématique minimal du mécanisme (Figure 1) 32 26 E2 23
+39
+20
+12
+15
+45
+E1
+49
+54
+18
+66
+64
+59
+Figure. 1- Schéma cinématique minimal du mécanisme
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 20226 Page 2 | 17
 
+--- page 20 ---
+Concours Technologie Épreuve CFM
+Partie A ; Conception Mécanique
+Document Réponses
+Étude de la transmission de puissance
+A-8. Calculer la vitesse de rotation du pignon (59).
+AN :
+Ns9
+tr /mn
+A-9. Déterminer le nombre de dents Z18 et Z26 des roues (18) et (26).
+Sachant que m18 2,5 mm et lentraxe a18-26 = 97,5 mm et que larbre de sortie (20) doit tourner à la même vitesse dans les deux sens de rotation.
+AN :
+Z26
+dents
+AN :
+Z18
+dents
+A-10. Dans le cas où (E1) est excité, calculer le rapport de transmission global rg du système. Déduire la vitesse de rotation Nm de larbre moteur (1).
+AN
+Tg
+AN :
+Nm
+tr /min
+A-11. Calculer le couple maximal transmis C, par le limiteur de couple à larbre (4
+Sachant que les dimensions des garnitures (6) sont R = 25 mm etr = 12 mm, le coefficient de frottement est f 0,35 et la norme de Yeffort presseur est ||FIl 750 N.
+AN :
+Cr
+Nm
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2022* Page 3 | 17
 
+--- page 21 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+A-12 Calculer la puissance du moteur Pm
+AN :
+W
+A-13. Le constructeur a choisi un moteur ayant une vitesse de rotation Nm 1000 tr /mn et une puissance Pm = 1,5 CV (1 CV = 736 W). Ce choix convient-il ? Justifier.
+Dans la suite du sujet on utilise les caractéristiques du moteur choisi par le constructeur : Vitesse de rotation Nm 1000 tr /mn Puissance : Pm 1,5 CV (1 CV 736 W) Étude de Yembrayage (E1)
+A-14 Calculer le couple nominal fourni par le moteur,
+AN :
+Cnom
+N.m
+A-15. Calculer le couple transmissible par Tembrayage (E1) tel que Cad C49.
+AN :
+Cad
+N.m
+A-16, Déterminer le nombre de surfaces de contact nécessaire pour transmettre ce couple Cad. Comparer ce nombre avec celui de Tembrayage (E1) proposé sur le document (DT-01). Conclure.
+AN :
+surfaces
+Conclusion
+Concours nationaux dentrée aux cycles dc formation d'ingénieurs
+Session 2022* Page 4 | 17
+Pm
 
+--- page 22 ---
+Concours Technologie Épreuve CFM
+Partie A ; Conception Mécanique
+Document Réponses
+Étude du limiteur de couple < Piat >
+A-17. Calculer le couple limite C1im et la force axiale Fa produite par les rondelles ressorts (7). Pour des raisons de sécurité, on prendra le couple limite Clim 1,2 Cnom:
+AN :
+Clim
+N.m
+AN :
+Fa
+N
+A-18. Calculer la pression appliquée p sur les garnitures puis conclure.
+AN :
+p
+MPa
+Conclusion
+A-19. Calculer le déplacement AL de la bague (8) par rapport à (5) pour mettre sous charge les rondelles ressorts (7). En déduire le nombre de tours n que doit effectuer la pièce (9)
+AN :
+AL
+mm
+AN :
+tr
+119 A-20. Calculer la longueur L de la clavette (74) pour assurer sa résistance au matage. Conclure.
+AN :
+mm
+Conclusion
+Section A3- Étude du mécanisme de translation verticale
+On donne le schéma cinématique du mécanisme de déplacement vertical (Figure 2).
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 20226 Page 5 | 17
+Lz
 
+--- page 23 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+M2
+((L3)
+Vis
+sUPPort
+Translateur Ecrou
+(L1)
+J(L2)
+(L4)
+Figure: 2- Schéma cinématique
+A-21. Établir le graphe des liaisons du mécanisme de déplacement vertical e déterminer le nombre cyclomatique (Y)
+(L1)_I_:liaison
+Caxe
+(Lz)_/_ : liaison
+Caxe
+(L3)_/. liaison
+(L4)_/_ liaison
+daxe
+Y
+A-22. Écrire le torseur cinématique associé à chaque liaison.
+NB. Il convient de retenir la notation suivante pour écrire le torseur cinématique dune liaison (Li) du solide (j) par rapport au solide (k) en un point arbitraire M :
+Qilui Bilvi
+ 
+{%(i}
+Y Wi
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 20226 Page 6 | 17
+daxe
 
+--- page 24 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+{P()  }
+{f) 1 }
+{#(L) 1
+{%( ') 1 
+A-23. En se basant sur le graphe des liaisons (question A-21), écrire au point 0 l'équation torsorielle cinématique relative à la chaîne continue fermée
+Chaîne
+A-24. Écrire, au point 0,les torseurs cinématiques des différentes liaisons associées au graphe présenté Question A-21
+{#(z . 2 1 Jo
+{%) , }
++
+00-8 {%( . ) 1  Jo 0C A-25. Déduire alors le systène d'équations scalaires cinématiques. (1) (2)
+(3)
+A-26. Déduire à partir du système déquations scalaires cinématiques (question A-25), le nombre de degré(s) de mobilité (m) et le nombre de degré(s) dhyperstaticité (h) du mécanisme.
+On rappelle que mc = Ic Tc ; avec Ic le nombre de paramètres et rc: le rang du système
+mc
+h
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 20226 Page 7| 17
 
+--- page 25 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+A-27. Déterminer la loi < Entrée /Sortie > qui en découle;
+Section A4 - Cotation fonctionnelle
+A-28. Proposer un ajustement qualitatif pour chacun des assemblages suivants (5)/(4) (1/(2) (14)/(16) (22/26 (20/(22) (282/(44) 0 H7 g6
+(3/(2)
+A-29. Justifier l'existence de la côte condition Ja entre (39) et (37) (Figure 3)
+A-30. Tracer la chaîne de côtes relative à la côte condition Jamax' 31 28
+26
+34
+36 43
+23
+22
+37
+21 20
+JAM
+Figure; 3 - Chaîne de côte
+A-31. Écrire la relation permettant dexprimer la côte condition Jamar
+Ja max
+A-32. Établir la relation qui permet de déterminer lintervalle de tolérance (IT) de la côte condition J a:
+IT =
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 20226 Page 8 | 17
 
+--- page 26 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+Section A5- Étude graphique
+A-33. On donne le dessin d'ensemble incomplet du chariot vertical représenté par le schéma cinématique (Figure 03). En se basant sur la nomenclature ci-dessous, sur la Feuille page 10/17: Compléter le guidage en rotation de l'axe fileté  (80), Compléter les éléments de rattrapage du jeu pour le système de guidage en queue daronde, Indiquer les ajustements nécessaires pour les solutions proposées
+91
+Support mobile
+90
+Vis CHC M5
+89
+Écrou H M6
+88
+Vis de pression HC à téton long
+87
+Cale de réglage de jeu
+86
+Queue daronde
+85
+Support chariot d'immersion verticale Couvercle butée à billes
+5235
+84
+83
+Butée à bielle à simple effet 20 TA 10
+SKF
+82
+Support inférieur
+81
+Support queue daronde
+5235
+80
+Axe fileté
+35 Cr Mo 4
+79
+Roulement à bille 25 BC 02
+SKF
+78
+Écrou à encoches + rondelle
+77
+Support haut Couvercle roulement
+76
+75
+Limiteur de couple Rep. Nbre Désignation
+Matière
+Obs.
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2022 * Page 9 | 17
 
+--- page 27 ---
+Concours Technologie Epreuve CFM
+Partie A : Conception Mécanique K-K
+Document Réponses
+77
+76
+75
+78
+79
+80
+81
+82
+83
+84
+88
+89 90
+91
+J-J
+85
+86
+87
+KT
+Tk
+Système de Galvanisation
+Echelle 121 Session 2022
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2022
+Page 10 /17
 
+--- page 28 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+Partie B Fabrication Mécanique Section B.1-Élaboration de la gamme d'usinage dela cloche (2)
+B-1. Compléter le graphe des contraintes dantériorités entre les surfaces de la pièce. NB: Éviter les intersections des lignes de liaison sur le graphe.
+B1
+5
+B2
+B-2. Compléter le Tableau 2 des opérations élémentaires. Tableau - 2 Opérations élémentaires Liaisons dimensionnelles aux Spécifications surfaces géométriques Surfaces Brutes Usinées
+Opérations élémentaires
+Symbole
+Finition directe
+1F
+4
+5
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 20228 Page 11 | 17
 
+--- page 29 ---
+Concours Technologie Épreuve CFM
+Partie B : Fabrication Mécanique
+Document Réponses
+B-3. Remplir le Tableau 3 des niveaux de fabrication de la cloche (2)
+Tableau 3 Tableau des niveaux Il faut Total
+Niveaux
+B1 B2 1F 2F 3F 4E 4F 5F 6F 7F 8F
+2 ( 3 | 4 5
+B1
+B2
+1F
+2F
+3F
+4E 1 4F 5F
+6F
+7F
+8F
+B1 B2
+B-4. Remplir les Tableaux 4 et 5, respectivement des groupements en phases et de la gamme dusinage retenue: Tableau 4 Tableau des regroupements Tableau-5_Gamme dusinage retenue Niveaux Surfaces Phase Désignation B1 B2 Obtention du brut Phase 10 Contrôle du brut
+Phase 20
+Phase 30
+3
+Phase 40
+Phase 50
+5
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 20226 Page 12 | 17
 
+--- page 30 ---
+Concours Technologie Épreuve CFM
+Partie B : Fabrication Mécanique
+Document Réponses
+B-5. Remplir la feuille de gamme dusinage pour la phase 20 en précisant le référentiel de mise en position (placer les normales de repérage sur le croquis). les côtes de fabrication sur le croquis. la machine utilisée. les outils de coupe et les instruments de contrôle GAMME DE FABRICATION Ensemble : Limiteur de couple Élément Cloche (2) Matière : EN-GJL-250
+Phase
+Désignation
+Machines Outillages / Instruments de contrôle
+Croquis
+10
+Contrôle du brut
+Référentiel de mise en position :
+Qpérations:
+Cotation de fabrication Cfl = 2Cf2 =
+2Cf6=
+Cf7 =
+Section B.2- Étude de la coupe pour lusinage de la cloche (2)
+B-6. En utilisant le Tableau 01, choisir la vitesse de coupeVc etlavance par tour f , pour lusinage de Yalésage 2 en finition; avec un outil à plaquette rapportée
+Vc
+m/min
+f =
+mm /tr
+B-7. Calculer la vitesse de rotation dela broche N nécessaire pour cette opération d'usinage (pour les calculs; utiliser le diamètre final de Valésage 2).
+N
+tr /min
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2022* Page 13| 17
 
+--- page 31 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+B-8.À partir du Tableau 02, choisir les paramètres de réglage de la machine-outil (Nr et fr) (prendre les valeurs les plus proches) .
+Nr
+tr Imin
+mm/tr
+B-9. En déduire la vitesse de coupe réelle Vcr etla vitesse davance réelle Vfr
+Vcr
+mJmin
+mm /min
+B-10. Déterminer Yeffort de coupe Fc (Fc = Ks.5), sachant que la pression spécifique de coupe Ks 250 daN /mm? et la profondeur de passe ap 1mm
+F
+N
+B-11. Sachant que la machine-outil a une puissance maximale àla broche Pmax = 2 kW avec un rendement de 80%, justifier si elle est capable dassurer lopération d'usinage.
+340681 446
+B-12. À partir du Tableau 03, déterminer les paramètres de la loi de Taylor simplifiée.
+a - Calculer l'exposant n
+1
+b - Déduire la constante Cv
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2022' Page 14 | 17
+Vfr
 
+--- page 32 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+Cv
+B-13. Calculer le temps total dusinage T, dune arête de coupe de cet outil.
+Tt
+min
+B-14. Sachant qu'on utilise des plaquettes rhombiques et réversibles, déterminer le nombre darêtes na utilisables par plaquette.
+na
+B-15. Déterminer le temps de coupe Tc pour lusinage de lalésage 2.
+Tc
+B-16 Déterminer le nombre de plaquettes np nécessaire à l'usinage de la série de pièces.
+B-17. Déterminer Ie nombre maximum nmax de pièces usinées avant le changement de l'arête de coupe de loutil.
+nmax
+pièces usinées
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2022* Page 15 17
 
+--- page 33 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+Section B.3- Étude de lusinage par machine CNC de la cloche (2) B-18. Compléter le programme dusinage ou le commentaire associé aux surfaces 1, 2, 6 et 7 usinées avec le même outil de coupe Le cycle dusinage est représenté sur le document DT-04.
+Programme
+Commentaires Programme numéro 2022 Bloc dinitialisation
+N1O G40 G71 G80 G90 G95 G97 N2O GOO G52 XO ZO N3O T01 D01 M6
+Dégagement de loutil vers lorigine mesure
+N40
+Avance rapide vers le point (a) Rotation broche sens horaire à 1800 tr /min Avance de 0.1 mm/tr et activer lubrification Dressage vers Point (b) Alésage vers Point (c)
+N5o
+N6o
+N70
+N8O N9O GO X18 Z-10.5
+N1OO
+Point (e) Point (Ê)
+N11O
+N12O
+Arrêter rotation broche et lubrification Dégagement rapide vers Point (g)
+N13o
+N140 GO G52 XO Z0.
+N15O
+Fin du programme
+Section B.4- Étude de lobtention du cache moteur
+B-19. Donner la signification de la désignation du matériau 5235.
+B-20. En se basant sur le document (DT-05), décomposer le cache moteur en éléments élémentaires et compléter le Tableau 5.
+Tableau 5 Tableau de calcul des surfaces élémentaires du cache moteur Croquis de l'élément Expression analytique Cs)
+Calcul
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2022' Page 16/ 17
 
+--- page 34 ---
+Concours Technologie Épreuve CEM
+Partie B : Fabrication Mécanique
+Document Réponses
+B-21. Déterminer le diamètre du flan Df.
+Df
+mm
+B-22. Calculer leffort de poinçonnage du flan circulaire ^
+B-23. Calculer Teffort d'emboutissage FE .
+FE
+B-24 Calculer ]'effort du serre-flan Fsf
+sf
+B-25. Proposer un 'procédé de mise en forme permettant  'obtention des orifices d'aérations.
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Sessian 2022' Page 17 | 17
 
+--- page 35 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+Partie A Conception Mécanique
+Section Al - Étude technologique
+A-1. Compléter le Tableau -1, en précisant le rôle de chacune de pièces. Tableau 1 Rôle des pièces Pièces Rôles
+Créer [effort presseur pour le limiteur le couple
+(10)
+Freiner ou bloquer (9)/(5)
+(24)
+Déplacer (27) vers la gauche
+(44)
+Guider en translation (27)/(20) ou (31)
+(56)
+Positionnement de (34)/(23)
+(63)
+Boucher le trou de vidange dhuile
+A-2. Justifier l'utilisation des roulements auto-lubrifiés (22, 36 et 47).
+Eviter la lubrification des surfaces frottantes des embrayages El et E2
+A-3. Compléter le tableau suivant en précisant la fonction et le rôle de chaque joint.
+Joint
+Fonction
+Rôle
+(38)
+Assurer |'étanchéité
+Empêcher la rentrée des poussières (62) Assurer Y'étanchéité Empêcher les fuites d'huile A-4. Donner lordre de manœuvre des différentes pièces nécessaire pour assurer le réglage de Ieffort presseur des rondelles ressorts (7)
+Desserrer la vis (10)
+Manœuvrer (9)
+Serrer la vis (10)
+A-5. Indiquer par une croix le sens de rotation de Yarbre de sortie (20) par rapport à larbre (1) du moteur en fonction de létat des embrayages (El) et (E2) NB : (E1) et (E2) ne peuvent pas être excités en même temps.
+Même sens
+Sens opposé
+Embrayage E1 excité Embrayage E2 excité
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2022' Page 1| 17
 
+--- page 36 ---
+Concours Technologie Épreuve CEM
+Partie A : Conception Mécanique
+Document Réponses
+Section A2- Étude de la chaîne de transmission de mouvement et de puissance
+Étude cinématique globale
+A-6. En se référant au dessin d'ensemble (DT-01), compléter la chaîne cinématique en indiquant les organes de transmission de puissance en fonction de l'état des bobines (B1) et (B2).
+Moteur électrique
+Limiteur de couple
+Train d'engrenages
+(B1) excitée
+(B2) excitée
+Embrayage E1
+Embrayage Ez
+Pignons (54,32) chaîne (45)
+Engrenages (18), (26)
+Arbre de sortie (20)
+A-7. Compléter le schéma cinématique minimal du mécanisme (Figure 1).
+Figure. 1- Schéma cinématique minimal du mécanisme
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2022' Page 2 | 17
 
+--- page 37 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+Étude de la transmission de puissance
+A-8. Calculer la vitesse de rotation du pignon (59)
+2n N39 V39 W39 x R39 R39 60 60 V39 N39 Zn R39 60 x 9OT N39 45 tr /mn Ns9 = 45 Zn x 60
+AN :
+tr /mn
+A-9. Déterminer le nombre de dents Z18 et Z26 des roues (18) et (26)
+Sachant que 7718 = 2,5 mm et Ventraxe a18-26 97,5 mm et que Varbre de sortie (20) doit tourner à la même vitesse dans les deux sens de rotation: m1 (Z18 + 226)
+254 18 Z18 Z32 30 Z26 (1 + 22) 2a Z26 m
+18 Z18 226 21 Zax 21 Z26 mn X (21 + 18)
+2 x 97,5 x 21 42 dents 2,5 x (21 + 18)
+AN :
+226
+226 42
+dents
+18 X 42 36 dents 21
+AN ;
+Z18
+Z18 36
+dents
+A-10. Dans le cas où (El) est excité, calculer le rapport de transmission global rg du système. Déduire la vitesse de rotation Nm de larbre moteur (1)
+Z64 X Z12 X Z54 x Z59 Tg Z15 x Z66 X Z32 x Z39 N39 N39 rg Nmn Nm 19 14 .14.18.15 1g 1g = 42 42 ,21.30 21 21
+AN
+AN
+Nm 45 .21 = 945 tr / mn
+Nm 945
+tr /min
+A-11 Calculer le couple maximal transmis Ct par le limiteur de couple à larbre (4)
+Sachant que les dimensions des garnitures (6) sont R = 25 mm etr = 12 mm, le coefficient de frottement est f 0,35 et la norme de leffort presseur est IJFI 750 N.
+R3 Ct n .f . N 3 R2 _ r2 750 253 123 2 .0,35 10 112 Nmm 252 122
+AN :
+Ct
+Ct 10, 11
+N.m
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 20220 Page 3 | 17
 
+--- page 38 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+A-12. Calculer la puissance du moteur Pm'
+Zn Nm Pm = Ct.W = Ct 60 2 .T . 945 Pm = 10,11 1000 W 60
+AN :
+P
+1000
+W
+A-13. Le constructeur a choisi un moteur ayant une vitesse de rotation Nm 1000 tr /mn et une puissance Pm = 1,5 CV (1 CV = 736 W). Ce choix convient-il ? Justifier:
+Oui, le choix du constructeur convient
+Nm 945 tr / mn < 1000 tr /mn
+Pm 1ooow < 1, 5 CV = 1104 W
+Dans la suite du sujet; on utilise les caractéristiques du moteur choisi par le constructeur : Vitesse de rotation Nmn 1000 tr / mn Puissance Pm 1,5 CV (1 CV = 736 W) Étude de Yembrayage (E1)
+A-14 Calculer le couple nominal fourni par le moteur.
+60 Pm Cnom 'Zi Nm
+60 1,5 .736 =10 540 Nmm ZT 1000
+AN :
+Cnom
+loiil 10,54
+N. m
+A-15. Calculer le couple transmissible par lembrayage (E1) tel que Cad C49. Pag 1 = P49 = 1 . Pm Pm C49 (49 =1 .Cnom Wm Wm 215 C49 Z66 =1 Cnom C49 = 1 .Cnom (49 Z64 Z12 AN : C49 Gad = 0,9.0,9.10,54 42.42 76,83 Nm Cad 76,83 14.14 N.m A-16. Déterminer le nombre de surfaces de contact nécessaire pour transmettre ce couple Cad. Comparer ce nombre avec celui de Vembrayage (E1) proposé surle document (DT-01). Conclure:
+R} r3 Cad 3 n . f . N R2 rz R2 _ r2 7l = Cad 2 .f . N' R} _ r3
+AN : n = 76,83 103 382 302 2,0,3 (1100-3.50) 383 303
+n = 7,89
+surfaces
+Conclusion Le nombre de surfaces de contact (n = 8) choisis par le constructeur convient Concours nationaux d'entrée aux cycles de formation dingénieurs Session 2022' Page 4 | 17
 
+--- page 39 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+Étude du limiteur de couple < Piat >
+A-17. Calculer le couple limite Clim et la force axiale produite par les rondelles ressorts (7) Pour des raisons de sécurité, on prendra le couple limite Clim 1, 2 Cnom
+R2 _ r2 R3 _ r3
+Fa Clim 2 x n x f
+AN :
+Clim 1,2 .10,54 = 12,65 Nm
+Clim 12,65
+N.m
+252 122 AN : Fa 12,65 103 938 N Fa 938 2 .2.0,35 253 123 A-18. Calculer la pression appliquée p sur les garnitures puis conclure
+N
+F P = 5 4(D2 d2) 938,22x4 AN : P = 2.48 N /mm? p = 2,48 T(252 122) Conclusion P < Pmaxi donc les garnitures résistent en toute sécurité
+MPa
+A-19. Calculer le déplacement AL de la bague (8) par rapport à (5) pour mettre sous charge les rondelles ressorts (7). En déduire le nombre de tours n que doit effectuer la pièce (9).
+F = K x AL Fa AL = 4 x K
+938,22 AL 0, 78 mm 4 x 300 AL n9 pas 0, 78x 1 nl 0,52 tr 1,5
+AN :
+AL 0,78
+772771
+AN : 19 = 0,52 A-20. Calculer la longueur L de la clavette (74) pour assurer sa résistance au matage; Conclure. 2xC 2 x 10,54 x 103 F = 1756,6 N 12 2 x F 2 x F < Padd = L 2 bx L b x Padd 2 x 1756,6 AN : L 2 5, 85mm L 2 5,85 mn771 4 X 150 Conclusion Lmin 5,85 mnmn 12 mm. La clavette résiste en toute sécurité
+Section A3- Étude du mécanisme de translation verticale
+On donne le schéma cinématique du mécanisme de déplacement vertical (Figure 2)-
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 20226 Page 5 | 17
 
+--- page 40 ---
+Concours Technologie Épreuve CF.M
+Parte A : Conception Mécanique
+Document Réponses
+#2
+(L3)
+Vis
+suppart
+Translateur Ecrou
+LI)
+J(L2)
+(L4)
+Flgure. 2-Schéma cinématique
+A-21 Établir le graphe des liaisons du mécanisme de déplacement vertical et déterminer le nombre cyclomatique (v)
+Lz
+(L1)z/s liaison glissière
+daxeY
+(Lz)z/1 liaison hélicoïdale daxe Ÿ
+L1
+L3
+(L3)1/3 : liaison pivot
+daxe Y
+(L4)3/0 : liaison glissière Y =1
+daxe Y
+L4
+A-22. Écrire le torseur cinématique associé à chaque iaison. NB Il convient de retenir la notation suivante pour écrire le torseur cinématique d'une liaison (Li) du solide (j) par rapport au solide (k) en un point arbitraire M :
+@lui Bilv Y1lwi
+Concours nationaux d'entrée aux cycles de formation dingénieurs Session 2022' Page 6 | 17
+{#(Luj/} ,
 
+--- page 41 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+Pas Bzlvz 2xn * Bz
+{#(L1)z/3} olv1 (olo
+{9(Lz)z/}A
+{9(13)1/3}B B3 0 /o
+{9(L4)3/0} c Olw4
+A-23. En se basant sur le graphe des liaisons (question A-21), écrire au point 0 l'équation torsorielle cinématique relative à la chaîne continue fermée Chaîne 1-2-3-1 {9(L2)1/2}0 {P(Li)z/s}0 {"(L3)3/}0 {0} A-24. Écrire, au point 0,les torseurs cinématiques des différentes liaisons associées au graphe présenté Question A-21.
+{9(Li)z/s}0 v1 0
+Pas Pas {#(L2)u/2}0 ~Bz -12 2xT xPz{ ^ ` 0) ( %)-{ 2xi x Bz ~axBz 0 {#(La)an} ~Balo ~B3 {-Bs| Io ~axB3 A-25. Déduire alors le système d'équations scalaires cinématiques
+(1) 0=0
+(4) 0=0
+Pas (5) v1 xBz 2 xT
+(2) Bz + B3 = 0
+(3) 0=0
+(6) Bz + BJ = 0
+A-26. Déduire à partir du système d'équations scalaires cinématiques  (question A-25), le nombre de degré(s) de mobilité (mc) et le nombre de degré(s) dhyperstaticité (h) du mécanisme. On rappelle que mc Ic - Tc avec Ic : le nombre de paramètres et r c: le rang du système
+mc = 3 = 2 = 1
+Mc = 1
+mc - h = Ic - Ec => 1 _h =3 = 6 => h =4
+h =4
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2022' Page 7 | 17
 
+--- page 42 ---
+Concours Technologie Épreuve C.FM
+Partie A : Conception Mécanique
+Document Réponses
+A-27. Déterminer la loi Entrée /Sortie qui en découle
+Pas V1 x Bz 2 x T Section A4- Cotation fonctionnelle
+4-28   Proposer un ajustement qualitatif pour chacun des assemblages suivants (5/(4) (1)/(2) (14)/(16) (22)/(26) (202/(22) (22/(44) 0 H7 g6 0 H7 g6 0 H7 h6. 0 N7 96 H7 96_
+(3)/(2) H7 m6
+A-29. Justifier l'existence de la côte condition Ja entre (39) et (37) (Figure 3) Eviter le contact entre une pièce fixe et une pièce mobile
+A-30. Tracer la chaîne de côtes relative à la côte condition nmnax
+31
+28
+26
+34
+36 43 37
+23
+22
+21 20
+JAM a377 aj60 243 832n azoh
+Figure. 3 - Chaîne de côte
+A-31 Écrire la relation permettant d'exprimer la côte condition Jamax'
+Jamax = 020 Max (31 min
+032 min 043 min
+036 Mlin
+037 mnin
+A-32. Établir la relation qui permet de déterminer Vintervalle de tolérance (IT) de la côte condition Ja'
+IT
+ITzo + IT31 + IT32 + IT43 + IT36 + IT37
+Concours nationaux d'entrée aux cycles de formation dingénieurs Session 20226 Page 8 | 17
+aj1n
 
+--- page 43 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+Section A5- Étude graphique
+A-33. On donne le dessin d'ensemble incomplet du chariot vertical représenté par le schéma cinématique (Figure 03) . En se basant sur la nomenclature ci-dessous, sur la Feuille page 10/17: Compléter le guidage en rotation de Vaxe fileté (80), Compléter les éléments de rattrapage du jeu pour le système de guidage en queue daronde, Indiquer les ajustements nécessaires pour les solutions proposées
+91
+Support mobile Vis CHC M5
+90
+89
+Écrou H Mg
+88
+Vis de pression HC à téton long Cale de réglage de jeu Queue daronde
+87
+86
+85
+Support chariot d'immersion verticale
+5235
+84
+Couvercle butée à billes
+83
+Butée à bielle à simple effet 20 TA 10
+SKF
+82
+Support inférieur
+81
+Support queue d'aronde Axe fileté
+5235
+80
+35 Cr Mo 4
+79
+Roulement à bille 25 BC 02
+SKF
+78
+Écrou à encoches + rondelle
+77
+Support haut
+76
+Couvercle roulement
+75
+Limiteur de couple Nbre Désignation
+Rep
+Matière
+Obs.
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2022 Page 9 | 17
 
+--- page 44 ---
+Concours Technologie Epreuve CFM
+Partie A : Conception Mécanique K-K
+Document Réponses
+76
+75
+78
+79
+80
+81
+82
+83
+84
+89
+90
+J-J
+85
+86
+87
+K7
+Tk
+Système de Galvanisation Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Echelle 1:1 Session 2022
+Session 2022
+Page 10 |17
 
+--- page 45 ---
+Concours Technologie Épreuve CFM
+Partie B : Fabrication Mécanique
+Document Réponses
+Partie B Fabrication Mécanique Section B.1- Élaboration de la gamme dusinage de la cloche (2)
+B-1. Compléter le graphe des contraintes d'antériorités entre les surfaces de la pièce: NB: Éviter les intersections des lignes de liaison sur le graphe
+2 / 8 05
+01
+71 0,5
+05
+15
+0,1
+B1
+0,5
+0,1
+0,5
+0,5
+B2
+B-2 Compléter le Tableau 2 des opérations élémentaires. Tableau 2 Opérations élémentaires Liaisons dimensionnelles aux Spécifications surfaces géométriques Surfaces Brutes Usinées
+Opérations élémentaires
+Symbole
+B1 : 15
+Finition directe
+1F
+B2
+Finition directe
+2F
+Finition directe
+3F
+4
+Ebauche, Finition
+4E , 4F
+5
+1 : 34
+Finition directe
+5F
+Finition directe
+6F'
+B1 : 1
+Finition directe
+7F
+4 ; 8 / 2
+Finition directe
+BF
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2022* Page 11 | 17
+0,5
+0,5
 
+--- page 46 ---
+Concours Technologie Épreuve CFM
+Partie B: Fabrication Mécanique
+Document Réponses
+B-3. Remplir le Tableau 3 des niveaux de fabrication de la cloche (2) Tableau_ 3 Tableau des niveaux Il faut Total
+Niveaux
+B1 B2 1F 2F 3F 4E 4F 5F 6F 7F BF
+1 | 2 | 3 4 5
+B1
+B2
+1F 1
+2F
+2 | 1 | 0
+3F
+2 | 2 | 2 | 1 | 0
+2 4E 4 4F 5F
+2 | 2 | 1 | 0
+1
+3 | 3 | 2 | 1 | 0
+2 | 2 | 1 | 0
+6F
+1 | 1 | 0
+7F
+1
+1
+0
+BF
+1 | 1 | 1 | 1 |
+2F 4E 3F 1F 6F 8F 5F 4F 7F
+B1 B2
+B-4. Remplir les Tableaux 4 et 5, respectivement des groupements en phases et de la gamme dusinage retenue: Tableau 4 Tableau des regroupements Tableau-5_Gamme d'usinage retenue Niveaux Surfaces Phase Désignation B1 B2 Obtention du brut Phase 10 Contrôle du brut 1F Phase 20 Tournage (IF, 2F, 6F et 7F) ZF 6F 7F Phase 30 Tournage (4%, 4F et 5F) 4E 5F Phase 40 Taillage (3F) 4F   3F Phase 50 Mortaisage Brochage (8F) 8F
+Concours nationaux d'entrée aux cycles de formation dingénieurs Session 20226 Page 12 | 17
 
+--- page 47 ---
+Concours Technologie Épreuve CFM
+Partie B : Fabrication Mécanique
+Document Réponses
+B-5. Remplir la feuille de gamme dusinage pour la phase 20 en précisant le référentiel de mise en position (placer les normales de repérage sur le croquis) . les côtes de fabrication sur le croquis. la machine utilisée les outils de coupe et les instruments de contrôle. GAMME DE FABRICATION Ensemble : Limiteur de couple Élément Cloche (2) Matière : EN-GJL-250
+Phase
+Désignation
+Machines Outllages / Instrument; de conurBle
+Croquis
+10
+Contrôle du brut
+20
+Tournage
+Tour
+Référentiel de mise en position Appui plan Sur B1 Centrage court sur B2
+Outil à dresser
+Outil à aléser
+Outil à aléser et dresser
+Opérations : a) Dressage de 1F b) Alésage de 2F c) Alésage et dressage de 6F et 7F simultanément Cotation de fabrication Cf1=15 2Cf2=050 2Cf6=018H7 Cf7 =1
+PC
+Tampon lisse double (TLD)
+Montage de contrôle
+Section B.2- Étude de la coupe pour lusinage de la cloche (2)
+B-6. En utilisant le Tableau 01, choisir la vitesse de coupe Vc etlavance par tour f , pour lusinage de Talésage 2 en finition; avec un outil à plaquette rapportée.
+Vc = 135
+m /min
+f = 0.12
+mm /tr
+B-7. Calculer la vitesse de rotation de la broche N nécessaire pour cette 'opération d' Y'usinage (pour les calculs; utiliser le diamètre final de Talésage 2)  N=1000*Vc/ (p*D)=1000*135/(3.1415*50) 859,87 tr /min
+859,44
+tr /min
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2022' Page 13 | 17
 
+--- page 48 ---
+Concours Technologie Épreuve CFM
+Partie B : Fabrication Mécanique
+Document Réponses B-8.À partir du Tableau 02, choisir les paramètres de réglage de la machine-outil (Nr et fr) (prendre les valeurs les plus proches)_ Pour la vitesse de rotation; on choisit N=800 tr /min Pour la vitesse d'avance; on choisit /0.1 mm /min
+Nr = 800
+tr /min
+fr 0,1
+mm -/tr
+B-9. En déduire la vitesse de coupe réelle Vcr et la vitesse d'avance réelle V fr . Ver =p*D*N,/1000=3.1415*50*800/1000=125,66 m /min Vf=N;* 6=800*0,1=80 mm /min
+Vcr = 125,66
+m /mnin
+Vfr =80
+mm /min
+B-10. Déterminer F'effort de coupe F c (Fc Ks S), sachant que la pression spécifique de coupe Ks 250 daN /mm? et la profondeur de passe ap = 1 mm Fc=Ks*S=K;*f*ap =2500*0.1*1=250 N
+Fc 250
+N
+B-11. Sachant que la machine-outil a une puissance maximale à la broche P mnuY 2 kW avec un rendement de 80%, justifier si elle est capable d'assurer Yopération d'usinage: Pe=F*Va/60000=250*125,66/60000=0,52 kW
+Pa=Pc/h = 0,52/0.8=0,65 kW < < Pmax
+La machine est capable de réaliser cette opération
+B-12 À partir du Tableau 03, déterminer les paramètres de la loi de Taylor simplifiée.
+Calculer V'exposant n
+n=(LogT,-LogTz) / (LogVc-LogVez) n=(Logl3-Log5)/(Logl75-L0g225)=-3.80
+-3.80
+b-  Déduire la constante Cv Cy=T1*(Vc1)-n=13*175380= 4339982090
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs Session 2022, Page 14 | 17
 
+--- page 49 ---
+Concours Technologie Épreuve CFM
+Partie B : Fabrication Mécanique
+Document Réponses
+Cv 4339982090
+B-13. Calculer le temps total dusinage Tt dune arête de coupe de cet outil Tr=Cv* (Vcr)"=4339982090 *(125 ,66) )-3.80=45,77 min
+Tt 45,77
+min
+B-14 Sachant qu'on utilise des plaquettes rhombiques et réversibles, déterminer le nombre darêtes na utilisables par plaquette. Plaquette  rhombiques alors deux positions possible. Plaquette réversible alors deux faces
+possibles
+na=2*2=4
+na = 4
+B-15. Déterminer le temps de coupe Tc pour Fusinage de Valésage 2 Tc=60*Lr/Vfr 60*5,5/80 = 4,13 s
+Tc = 4,13
+B-16. Déterminer le nombre de plaquettes np nécessaire à lusinage de la série de pièces.
+np=200*12*Tc/ (60*T,*na) =2400*4,13/(60*45,77*4) 0,90
+On prendra np =1
+np = 1
+B-17. Déterminer le nombre maximun Ilmnux de pièces usinées avant le changement de l'arête de coupe de loutil. nmnax 60*T./Tc 60+45,77/4,13 664,94
+On prendra nmax 664
+Dmax 664
+pièces usinées
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2022' Page 15 | 17
 
+--- page 50 ---
+Concours Technologie Épreuve CFM
+Partie B : Fabrication Mécanique Document Réponses Section B.3- Étude de lusinage par machine CNC de la cloche (2) B-18. Compléter le programme d'usinage ou le commentaire associé aux surfaces 1,2,6 et 7 usinées avec le même outil de coupe Le cycle d' 'usinage est représenté sur le document DT-04, Programme Commentaires % 2022 Programme numéro 2022 N1O G40 G71 G80 G90 G95 G97 Bloc d'initialisation N2O GOO G52 XO ZO Dégagement de loutil vers lorigine mesure N30 T01 DO1 M6 Choix et mise en place outil 01 + correcteur N40 GOO X68 ZO Avance rapide vers le point (a) N50 M03 51800 Rotation broche sens horaire à 1800 tr /min N60 FO.1 M8 (ou M7) Avance de 0.1 mm/tr et activer lubrification N70 G01 X5O Dressage vers Point (b) N8O Z-75 Alésagc vers Point (c) N9O GOO X18 Z-10.5 Avance rapide vers le point (d) N1OO G01 Z-16 Alésage vers Point (e) N11o X6 Dressage vers Point (f) N120 M5 M9 Arrêter rotation broche et lubrification N130 GOO Z2 Dégagement rapide vers Point (g) N140 GO G52 XO ZO Dégagement de l'outi] vers Porigine mesure N150 MO2 (ou M3O) Fin du programme
+Section B.4-Étude de Yobtention du cache moteur B-19. Donner la signification de la désignation du matériau S235. Acier non allié d'usage général avec Re = 235 MPa
+B-20. En se basant sur le document (DT-05), décomposer le cache  moteur en éléments élémentaires et compléter le Tableau 5. Tableau 5 Tableau de_calcul des_surfaces élémentaires du cache moteur Croquis de Yélément Expression analytique @ Si) Calcul
+24 +D * H
+=4 Xx 90x 30=10800
+0D
+Concours nationaux d'entrée aux cycles de formation dingénieurs Session 20226 Page 16 | 17
 
+--- page 51 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+(D-d)? 2(D + d) H2
+(90-80)2 2(90 + 80) 202 +
+340v425 7007,5
+2nR(d + 1,3R) ZuR(D = 0,7R)
+Zi + 10 (60 + 1,3 10) ZOn 780 4586,7
+602 = 3600
+B-21. Déterminer le diamètre du flan Df.
+Df = [2451
+10800 + 7007,5 + 4586,7 + 3600
+25999,2 161,24mmn
+Df = 161,24
+mm
+B-22. Calculer l'effort de poinçonnage du flan circulaire Fp
+Fp = P * e * Rc avec P = Tt * Df
+=T * Df * e * Rc = Il * 161,24 * 1 + 240 = 121572 N
+Fp 121572
+B-23. Calculer leffort d'emboutissage FE .
+Fs = k * T * d1 * e * Rr
+0,55 xT x 90 x 1 x 300 = 50893,8 N
+FE 46652,65
+N
+B-24. Calculer Ieffort du serre-flan Fsf.
+Fsf = 4 x (D} dz) x Psf
+(161,242 902) 2,5 35143 N
+Fsf 35143
+B-25. Proposer un procédé de mise en forme permettant l'obtention des orifices d'aérations.
+Poinçonnage à Vaide dun poinçon de section carrée
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2022' Page 17 | 17

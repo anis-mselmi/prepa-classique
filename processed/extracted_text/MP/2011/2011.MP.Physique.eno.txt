@@ -1,7 +1,168 @@
+--- page 1 ---
+~isakaui "lsgzus e:~Æl Wi Yji eni uhnilji :scuj 201i0}
+REPUBLIQUE TUNISIENNE
+Mlinistere de F'Enseignement Supérieur ct de la Recherche Scientilique
+Concours Nationaux d'Entrée aux Cycles de Formation d' 'Ingénieurs Session 2011
+Concours Mathématiques et Physique Epreuve de Physique
+Date : Jeudi 16 Juin 2011
+Heure : 8 H
+Durée : 4 H
+Nbre pages 08
+Barème
+Problème 1 : 16 pts
+Problème 2 : 04 pts
+L'usage d'une calculatrice non programmable est autorisé
+L'éprewve est constituée de deux   problèmes  indépendants.
+Un candidat peut toujours se servir d 'un résultat fourni par l'énoncé pour continuer sa composition
+Problème 1 : PROPAGATION ET ATTENUATION D'UNE ONDE GUIDEE
+Données utiles
+1 = 29 Le vide est caractérisé par sa permittivité €o 10 Fm et sa perméabilité Ho = 4n 10-' Hm 36i
+Pour un champ vectoriel À on rappelle que rJt ( r(t À ) = grâd div 6 ) AÀ. À ^ (6 ^7) = B(-c) -  (Â6) Une grandeur soulignée représente une fonction complexe dont la partie réelle est la grandeur physique associée WSUT (nedaratoine CUOIHeQUe Première partie : Questions préliminaires fnudfs  Sa 7,2 @iksivkus 1 Donner la détinition d'un conducteur parfait. Que peut - 2 on dire de la puissance dissipée par effet Joule dans un tel Mo milieu ? Justifier qu'à Fintérieur du conducteur parfait les champs électrique 7 et magnétique 6 sont nuls. Milieu 2
+2. Soit  une surface portant des charges surfaciques de Milieu | densité G et   parcourue par un courant surfacique de vecteur densité Js et qui sépare deux milieux   ayant chacun la permittivité €o et la perméabilité Ho du vide et Figure soit 7i12 un vecteur unitaire normal à la surface 2 dirigé du milieu 1 vers le milieu 2 (Figure /)
+Conccurs Marhematiqucs $ Physiq"e Session Juio 2041
+Fpreuve dc Phystaur
+Fape V/S
 
+--- page 2 ---
+On note (7,,B1) et (72,Bz) les champs électriques et magnétiques respectivement dans les milieux 1 et 2
+2.a. Ecrire les relations de passage pour ces champs en un point Mo de la surface de séparation >
+2.b. Donner les expressions de Js en fonction de B2(Mo ,t) et 0 en fonction de @z(Mo ,t) si on considère que le milieu [ est un conducteur parfait.
+3.2. Donner les   équations de Maxwell   dans un milieu caractérisé par la permittivité € et la perméabilité po du vide dépourvu de charges et de courants.
+3.b. Etablir l'équation de propagation du champ électromagnétique. En déduire [expression de la vitesse de propagation c des ondes électromagnétiques dans le vide illimité. Calculer sa valeur . Deuxième partie Onde guidée On considère un guide d'onde rectangulaire formé par quatre plans métalliques placés en x = 0, x = a, y = 0 et y = b dans un repère orthonormé R(o,x,Y z) de base (7x , ly , 1z) (Figure 2)
+L'intérieure du guide est le vide caractérisé par la permittivité €o et la perméabilité Ho.
+Dans cette partie; on considère que les parois du guide sont formées par des conducteurs parfaits. I Structure de Fonde guidée
+b
+Figure 2
+1. Justifier qu'une onde électromagnétique plane; polarisée rectilignement; arrivant en incidence normale à la surface (xoy) ne peut pas se propager dans ce guide.
+On souhaite guider une onde électromagnétique sinusoïdale de pulsation 0 dont le champ électrique s'écrit en notation complexe E(M ,t) = f(x,y,z)ei(ot-kz) ix où   k est le nombre donde de Fonde guidée différent de ko = W nombre d onde dans le vide illimité et i est le nombre complexe:
+2 Donner dans le système intemnational les unités de w,k et f (x,y,z).
+3.2. En utilisant 1'une des équations de Maxwell; montrer que la fonction f(x,y,z) ne dépend pas de la variable x.
+3.b. Sachant que les parois du guide sont des conducteurs parfaits; justifier que f (x,y,z) ne dépend pas de la variable z.
+4.a. Etablir à partir de |équation de propagation du champ électrique E, Féquation différentielle vérifiée par la fonction f (y) .
+4.h. Montrer que la solution qui correspond à une onde qui se propage dans le guide peut se mettre sous la forme f (y) = A sin(ay) où A est une constante positive. Exprimer a en fonction de w,k et € .
+urs Mathématiques e{ Phvsiqu" Session Juin 2û1 !
+Epreuve dé Phvsiq"f
+Fanp ?;
 
+--- page 3 ---
+4.c. En utilisant la condition que doit vérifier le champ E sur une paroi du guide, exprimer a en fonction dun entier n
+5.a. En déduire que le champ électrique s'écrit souS la forme mn(M,t) = nT Eon sin("y) el(ot-kz) Mz où Eon est la valeur maximale du champ électrique. Chaque valeur de n définit un mode de propagation.
+5.b. Décrire la nature de cette onde.
+6.a. Trouver la relation de dispersion k? = f(w2) dans le guide. En déduire lexistence dune pulsation de coupure Wnc dont on donnera son expression en fonction de n, b et c.
+6.b. Quelle est la nature de l'onde si sa pulsation est inférieure à la pulsation de coupure ? 6.c. Pour des pulsations supérieures à la pulsation de coupure; tracer ]allure de la courbe k = f (w). Commenter .
+7.a. Déterminer pour chaque mode de propagation la vitesse de phase v, et la vitesse de groupe vg~ Quelle est la relation entre 1q Vg et c ? 7.b. Tracer sur un même graphe lallure de la variation de la vitesse de phase ainsi que la vitesse de groupe en fonction de W et commenter .
+8. Etablir [expression du champ magnétique En(M,t) associé à londe.
+II. Réflexions internes
+On se propose d'interpréter   certains   résultats démontrés ci-dessus en considérant que Fonde guidée résulte de la superposition dune onde incidente et d'une onde réfléchie dont les champs électriques s'écrivent respectivement
+M
+E1 = Eo1 sin(wt - ka 7) 4x
+k;
+E2 = Eoz sin(Wt - k2 7) Mx
+Figure 3
+Où 7 est le vecteur position (Figure 3)
+1. Ecrire les composantes des vecteurs d'ondes; k de londe incidente et 72 de londe réfléchie; en fonction de ko = et 8.
+On note ks = ko sin 0 Gy et k = ko cos 0 1z
+2 Interpréter graphiquement la structure de londe guidée.
+3, Déterminer ]amplitude Eoz en fonction de Eo1 el trouver une condition suT ks = Iis| pour qu'une telle onde puisse exister dans le guide.
+Fs MmthématigJe;e! Pkvs:
+Sessiu# Juin 20/!
+EG-F0*: ée #fh:v#"#f
+Poa 3/4
 
+--- page 4 ---
+4 En un point M du guide représenter les vecteurs k , ks et 72 et retrouver la relation de dispersion dans le guide.
+4
+6
+5. Une onde incidente arrive su le   plan y = b en C et donne naissance à une onde B réfléchie (Figure 4). Le point A est l'intersection du plan donde passant par I et la droite déquation y = b, le Figure 4 point B est le projeté orthogonal de I sur la section droite du guide passant que (Figure 4) On désigne par T le temps mis pour que 1'onde guidée parcoure le trajet IB.
+5.a. A quelles vitesses sont balayées les distances IC, AC et IB ?
+5.b. Proposer une interprétation de 14 et 1g; IIL. Courants et charges surfaciques Pression de radiation 1. Donner, en notation réelle; les champs électrique En(M,t) et magnétique 7n (M,t).
+On désigne par 01 et 02 les densités surfaciques de charges et par Js1 et Js2 les densités surfaciques de courants respectivement sur les plans y = 0 et y = b.
+2. Déterminer les expressions de 01, 02 , Js1 et Js2.
+3. Une onde électromagnétique exerce sur un élément de surface ds une force qui s'écrit :
+d; =  (g@+Js ^ B)ds. 2
+3.a. Proposer une explication de la présence du facteur dans ]expression de de . 2
+3.b. Déterminer Fexpression de la force dFz exercée par londe sur la paroi y = b . En déduire sa valeur moyenne dans le temps dF2 > 
+3.c. Justifier que l'onde exerce une pression de radiation Il2 sur la paroi y = b et donner son expression. On y fera apparaitre la pulsation de coupure Wnc'
+4 Montrer, sans faire de calcul , que la pression Il1 exercée sur la paroi y = 0 est égale à [72 .
+IV. Transmission de Pénergie
+1.a. Définir le vecteur de Poynting R et donner sa signification physique.
+1.b. Déterminer le vecteur de Poynting F associé à Fonde guj dée . En déduire sa valeur moyenne dans le temps < R >. Vue la structure de Fonde, peut-on prévoir le sens de < R > ? 2 Montrer que la puissance moyenne temporelle de Fonde Fm = < P > traversant une section droite abk du guide s'écrit Pm EZn' 4M ^(
 
+--- page 5 ---
+3.a. Calcuier la densité volumique dénergie électromagnéiique @etn
+3.b. En déduire sa valeur moyenne dans le temps. On y fera apparaitre la pulsation de coupure Wnc 4.a. Calculer de deux manières différentes l'énergie électromagnétique  SWem qui traverse une section droite du guide pendant l'intervalle de temps dt avec une vitesse ùe.
+4.b. En déduire la vitesse de propagation de l'énergie v et la comparer à la vitesse de groupe. Commenter .
+5. Si les parois du guide ne sont pas des conducteurs parfaits; quelle en serait la conséquence la plus importante ?
+Troisième partie Atténuation dans un guide Lobjet de cette partie est d'estimer la fraction d'énergie perdue par effet Joule dans les parois du guide du fait que ces dernières sont faites dun conducteur réel de conductivité Y = 107 S.m-1
+I. Effet de peau
+Pour étudier cet effet; on considère (pour simplifier les calculs) que le conducteur occupe le demi espace y > 0, le demi espace y < 0 étant le vide.
+1.a. Donner les équations de Maxwell dans le conducteur sachant que ] est le vecteur  densité volumique de courant et P est la densité volumique de charge. 1.b. En déduire ['équation de conservation de la charge:. 1.c. Supposons qu'en un point du conducteur, existe à linstant t  0 un supplément local de charge corespondant à une densité volumique de charge Po, donner la loi P(t) en ce point et montrer que la densité initiale disparait en un temps caractéristique € dont on donnera son expression. Dans toute la suite; on supposera que le conducteur reste localement neutre (p = 0)
+2. Montrer que pour une fréquence de Fordre de 1 GHz il est légitime de négliger le courant de déplacement devant celui de conduction.
+3. En déduire léquation de propagation du champ électrique dans ce conducteur .
+4 On cherche une solution de la forme 4(M,t) = Eot ei(wt-k'y) ix
+4.a. Que permet de prévoir sur k' Putilisation de la loi dOhm ?
+4.b. Etablir la relation de dispersion et justifier que Funique solution acceptable est k' = 1où 8 8 = 2 est appelé 'épaisseur de peau' HoYw
+4.c. Commenter physiquement la dénomination "épaisseur de peau' et donner lorigine physique du fait quelle décroit avec la pulsation.
+5.a. Donner [expression de la densité volumique complexe; puis réelle du courant à tout instant.
+4$
+#stmaiicue??: Pnywique Sessiaa Jvir 21!
+Epreuve de Plysique
+Fage 5/8
 
+--- page 6 ---
+5.b_ Calculer la puissance moyenne temporelle dissipée par effet Joule Pj dans une poniou conducteur de section $ dans le plari (xoz) et dextension infinie selon 0y.
+6. Du fait que l'épaisseur de peau est très faible; on peut modéliser la distribution volumique courant par une distribution surfacique de densité J
++0 6.a. Justifier que Js Jo edy et donner ['expression de la densité surfacique complexe puis rée' du courant à tout instant.
+6.b. En déduire ['expression de la puissance moyenne temporelle dissipée par effet Joule < Pj > ' fonction de S, Y, $ et I
+IL. Effet de dissipation
+La conductivité du conducteur   formant les parois du guide reste  suffisamment importante po admettre que la structure du champ électrique dans le guide peut être localement conservée remplaçant [ amplitude Eon dans lexpression de
+nI
+mn(M,t) = Eon sin(6-y) ei(ot-kz) 7z par une fonction qui dépend de z notée Eon(z) et à priori inconnue.
+1. Donner alors les densités surfaciques de courant sur les parois y = 0 et y = b .
+2. Montrer que la puissance moyenne dissipée dans les parois y = 0 et y = b sur une tranche dz ( n2T2 a8 guide s écrit sous la forme: dP = E}n (z)dz. 2b 2 How
+3.a. En  utilisant   le résultat de la question IY. 2. de la deuxième partie; effectuer un bilan puissance sur une tranche du guide de longueur dz et établir une équation différentielle vérifiée p E}n (z)
+3.b. Déterminer Eon (z) en fonction de 2, Eon (z = 0) et une longueur caractéristique L 3.c. Comment a-t-on intérêt à choisir le mode ?
+Problème 2 DIFFRACTION EF FILTRAGE SPATIAL
+On considère une pupille diffractante; contenue dans le plan (Oxy) constituée dune fente centr' sur laxe (Oz); de largeur a suivant (Ox) et de longueur L suivant (Oy) telle que L > G
+Au niveau de cette pupille on place un objet caractérisé par une fonction de transparence
+Zux t{x) = 1 + cos(7 -
+pour Ix| 49/2 ailleurs
 
+--- page 7 ---
+ou { est une co:stante positive telle que a >> 8.
+une distance d de Fobjet on place une lentille convergente ( <') de centre C et de distance focale f_ On observe la figure de diffraction sur un écran de centre E placé dans le plan focal image de le lentille.
+Lobjet est éclairé en incidence normale par une onde plane progressive monochromatique de longueur d'onde 2 (Figure 5).
+X
+P
+M
+2
+E
+Figure 5
+1. Enoncer le principe de Huygens-Fresnel.
+2. En quoi consiste [approximation de Fraunhofer ?
+3 La lentille est utilisée dans les conditions de ]approximation de Gauss. Rappeler ces conditions.
+Dans Fapproximation de Fraunhofer, lamplitude complexe de l'onde diffractée dans la direction du vecteur 7, faisant l'angle 0 avec laxe (Oz); s'écrit
+s = S0 f t(x) exp (~ik. OP)dx .
+Où k = 2"1 1 est le vecteur d'onde; P un point de lobjet d'abscisse x et $o est une constante réelle.
+4. Montrer que Famplitude 5 peut se mettre sous la forme s = S0 ft(x) exp (~i2nux)dx . Exprimer p en fonction de / et € et justifier son appellation fréquence spatiale. 5. Déterminer   ]'expression de   lamplitude   s(u) et montrer qu'elle est la somme de trois amplitudes S1; S2 et s; centrées respectivement sur les fréquences spatiales ~ Ho, 0 et po. Donner lexpression de Ho.
+6. Représenter en fonction de u Fallure de la courbe donnant la variation de Famplitude s(u) . Cette courbe est appelée spectre de Fobjet.
+7.a. Déterminer, en fonction de H, les intensités lumineuses I1, 12 et /3 associées respectivement aux amplitudes $1 , S2 et 53.
+2?
+Meihénstiques €: P#"sçit Sessiag JJaia 281}
+Epreuve dF Physiquc
+Page 7ig
 
+--- page 8 ---
+7.b. Exprine{ #n fonciion de X; j , a, { et 4, l'intensité I de l onde diftraciée au point M d` absc X sur lécran. On notera Io lintensité de Fonde diffractée en X = 0.
+7.c. Représenter /allure de I(X) et exprimer en fonction de ^, a et f la largeur à la base AX maximum principal.
+8. L'écran dobservation est placé maintenant à une distance d' de la lentille pour observer image géométrique nette de lobjet (Figure 6) Exprimer d' en fonction de f et d.
+Plan de Fourier
+2
+2
+E
+2
+Figure 6
+9.a. Pour éliminer les hautes fréquences spatiales; on place dans le plan focal image de ( 9 ) ( de Fourier) une fente centrée sur (Oz) Donner en fonction de 4, {, a et f la largeur maximale by cette fente. Les maximums secondaires entourant un maximum principal sont négligés.
+9.b. Décrire alors ce qu' on observe sur lécran et en déduire à quoi correspondent Jes ba: fréquences dans le spectre de lobjet ?
+10.a. Pour éliminer les basses fréquences on place dans le plan de Fourier un obstacle centré (Oz) Exprimer en fonction de 2, &, a et f les largeurs minimale et maximale de l'obstacle. 0.b. A quoi correspondent les hautes   fréquences dans le spectre de l'objet ?
+&in à [Gpruce

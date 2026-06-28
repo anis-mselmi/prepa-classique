@@ -1,4 +1,83 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNNE Minlstère dc ]Ensvijnenent Supérieut ctde Iu Reclxrch Scienulllque
+{Ulajgstis éal Joh1ll axboll ol.lilinll l!Xi_ Llw_] Iswlinwll 2012 4101
+Concours Nationaux dEntrée aux Cydes de Foratipn d'ngénicurs Session 2012
+Concours Technologie Epreuve de Mathématiques
+MstiUT rrcparatoire ) QBUMIHEQUE 8 {6UCfs Dinghub Date: Lundi 4 Juin 2012 Heure 8 H Durée: heures Nb pages: Barème: Partie I: 3 pts, Partie II: 1.5 pts; Partie III: 5 pts; Partie IV:7 pts, Partie V: 3.5 pts
+Une grande importance sera attachée à la rigueur du raisonnement;, à la clarté et au soin de la présentation. L'usage des calculatrices n'est pas autorisé. Il est rappelé que tout résultat énoncé dans le texte peut être utilisé pour traiter la suite; même 8'il n'a pu être démontré
+Rappels et notations: R[X] désigne le R-espace vectoriel des polynômes à coefficients réels. On confondra entre polynôme et fonction polynôme associéc Pour n € N* , Rn[X] désigne le R-espace vectoriel des polynômes de R[X]; de degré inférieur ou égal à n. Si I est un intervalle de R, C(I,R) désigne le R-espace vectoriel des fonctions définies et continues Sur I à valeurs dans R
+PROBLÈME
+Considérons dans R[X] les deux polynômes suivants: A = œ0 + œ1X + @2 X2 et
+B = Bo + BX.
+Pour tout P € R[X], on pose:
+S(P) = AP" + BP'
+PARTIE I
+Montrer que pour tout n € N*= S est un endomorphisme de Rn[X] Dans la suite de la partie I on prend n =
+Concours Technologie Session Juin 2012
+Épreuve de Mathématiques
+Page 1/5
 
+--- page 2 ---
+Montrer que la mnatrice M de 5 dans la base canonique (1,X, X?) de R2[X] est: (a) 8o 2œ0 M = B1 2(01 8o) 2(02 B1  Vérifier que; si V k € {0,1,2} ka2 + f1 # 0; alors M est diagonalisable. Dans cette question; on suppose que 01 02 et que Bj # 0. (a) Vérifier que M est diagonalisable (b) Donner une base de R[X] qui diagonalise M On prend A = 02 (X? ~ 1) et B = Bo + BiX, avec 81 # 0 et 202 + B1 = 0. Montrer que; dans ce cas, M est diagonalisable si et seulement si fo = 0.
+vide de R et une fonction de classe C1 de I à valeurs dans Ri Soit I un intervalle non fonctions continues sur à valeurs Dans toute la suite du problème; on note H l'ensemble des réelles , telles que wf2 soit intégrable Sur
+PARTIE II
+(a) Vérifier que Fon Væ;y € R (æ + y)? < 2(æ2 + y2). (b) Montrer alors que H est un sous-espace vecioriel de C(I,R) Montrer que w.f .9 est intégrable S1I I Soient f et 9 dans H On associe à tout couple (f,9) de vecteurs de H le réel:
+f,9 >= w(t)f(t)g(t) dt.
+Montrer que Von définit ainsi un produit scalaire sur H. Dans ce qui suit, on munit H du produit scalaire <
+PARTIE III
+Dans cette partie, on considère I =] - 1,1, w définie sur par
+w(s)
+1 + I
+A = X? _ 1 et B = 2X + 1. Soit " un entier naturel tel que n > 3. Vérifier que (z2 1)w' (s) w(z); pour tout I €] ~ 1,1[ Déterminer (Xk) , pour k € {0, n} . Écrire la matrice de S dans la base canonique (1, X; X" ) de Rn[X]
+Page 2/5
+Concours Technologie Session Juin 2012
+Épreuve de Mathématiques
 
+--- page 3 ---
+Fensemble des valeurs propres de est donné par: Montrer alors que {Xk k(k + 1), k € {0; n}} est diagonalisable et que ses sous-espaces propres sont de dimension En déduire que
+Pn) de Rn[X] formée de vecteurs (a) Montrer qu'il existe une unique base (Po; Pi, associé à la valeur   propre Xk et propres de S ; telle que Pk est le vecteur   propre unitaire pour tout k € {0,-, n} (b) Montrer que deg(Pk) = k, V k € {0,_,n} (c) Expliciter Po P1 et P2. Montrer que; pour tout k € N; I F I*u(z) est intégrable sur =1,1 [ (a) (b) En déduire que R[X] € H.
+5. Soit P,Q € R[X] Soit [a, f] c] - 1,1[ En remarquant que S(P) _ P' = ((X2 1)P') , montrer que: S(P)(t)Q(t)w(t)dt = [(t2 1)P() Q()u()]8 _ J (t? _ 1)P' (#)Q (#)u(t)dt.
+Démontrer alorg que:
+=< P,Y(Q) > Y (P); Q >= f-tu1+ thP()Q()d Po; Pi; Pn est une base orthogonale de Rn[X] Déduire de ce qui précède que +0o on admettra que e**2 dt = VT Dans la suite de ce problème,
+PARTIE IV
+Dans cette partie; on considère I = R, définie sur I par ~I2 w(æ) = e
+A = 1
+et
+B = -2X.
+Pour tout entier naturel 76, on définit la fonction IIn par: Væ € R , Hn(z) = (~1)"er? '(n) (æ), où W(n) désigne la dérivée dordre n de w si n > 1 et u(0) = u. 1. Calculer Ho, H1 et I2 2. Montrer que R[X] c H. 3 . Montrer que; V n € N; V 2 € R, In+1(æ) = 2æHn(c) = H4(æ). (a) Établir: V n € N* Væ € R, In+1(æ) = 2zHn(z) _ 2nHn-1(æ) (On pourra utiliser la formule de Leibniz)
+Page 3/5
+Concours Technologie Session Juin 2012
+Épreuve de Mathématiques
 
+--- page 4 ---
+(b) En déduire que: V n € N*, Væ € R; HIn(æ) = 2nHn-1(z) (a) Montrer, par récurrence SuI n € N; que Hn est un polynôme de degré n, dont on précisera le coefficient dominant (b) Montrer que, n € N; V z € R, Hn(-s) = (~1)"Hn(æ) Vérifier que; pour tout n € N, Hn est un vecteur propre de S2 .
+(a) Soit € N* . Montrer que, si P € R[X] alors: lim P(z)w(n-1) (æ) lim P(z)w (n-1) (æ) =0 1-+T00
+En déduire que
+si n # 0 si n = 0.
+< Hn, Ho >=
+(c) A l'aide d'une intégration par parties convenable; montrer que: Vn, m € N* Hn, Hm >= 2m < Hn-1, Hm-1 >
+Montrer alors que (Hn)n20 est une famille orthogonale de R[X], et que pour tout € N* , (Hx)o<k<n est une base orthogonale de Rn[X] Que vaut Hn, Hn > ? Montrer que < P Hk > Vn € N* VP € Rn[X]; P = 2 2kNT Hk' k=0
+Établir par récurrence:
+V(z,t) € R? Vn € N* ,
+Hn(z = t)e-(2-t)2_
+e-(I-t) dtn
+Soit UIl réel fixé. Montrer   sans calcul que la fonction: 9z développable en série entière en la variable t, au voisinage de 0. En déduire: +Do 2æt-t2 Hn (I)+ V(z; t) € R2, Tl! n=0
+H
+2rt-t2   est
+Vérifier que 4 I + + er est un élément de H ii. Montrer que < 4; Hn >=< +,Hn-1 > , Vn € N* . iii. Calculer alors 4,Hn >, Vn € N (d) Conclure; par 8 (b), que:
+40 < 4; Hn > Vz € R, e" = E Hn(z) 2" .n'vT n=0
+Concours Technologie Session Juin 2012
+Épreuve de Mathématiques
+Page 4/5
 
+--- page 5 ---
+PARTIE V
+On désigne par E4(R) Fensemble des fonctions définies sur I à valeurs dans RR, continues ct intégrables sur R 1. Soit f € L(R) Montrer que, pour tout 2 € R, t+ eitz 'f(t) est intégrable sur R On définit alors Loo f(z) 1 eitæ f (t)dt, Vz € R
+Montrer que; V f;9 € L4(R) , V > € € : AF+g = ÀÎ+G. Montrer que f est continue et bornée sur R_ Soit f € L(R). On suppose que h: t+ tf (t) est intégrable sur R Montrer que f est de classe Cl Sur R. Montrer que ih
+Soit f € L(R). On suppose que f est de classe Cl sur R et que f' € L4(R) (a) Montrer que lim f (z) lim f (z) = 0. 1 >hoo 1 , Montrer que (f')(æ) = ~icf(æ) Vz € R
+6. Soit so I: F+ €
+Montrer que s0 vérifie les hypothèses de 3) et 4) de cette partie Donner une équation différenticlle vérifiée par ço. En déduire que Po vérifie une équation différenticlle qu'on précisera. En déduire que Po F2T.4p0.
+Pour tout n € N, soit 'Pn I F Hn(s).e-4 (Hn étant défini dans la partie IV ) Donner une relation entre les fonctions 4n+1 Pn et 4n, pour n € N. (b) Montrer que, pour tout n € N, Yn € LZ(R), +n L(R) et que hn 1; ++ XÇn(x) est intégrable sur R (c) En déduire que, pour tout n € N, #n An(n; où )n est une constante à déterminer .
+Concours Technologie Session Juin 2012
+Épreuve de Mathématiques
+Fage 5/5

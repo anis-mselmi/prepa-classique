@@ -1,11 +1,132 @@
+--- page 1 ---
+Instructions Cette épreuve comporte 11 pages + 1 page vide. Tout résultat doit être écrit dans les cadres adéquats. L'usage des calculatrices électroniques de poche non programmables est autorisé Aucun échange entre les candidats n'est autorisé. Tout calcul doit être précédé dune expression littérale. Les résultats numériques sans unité ou avec une unité fausse ne seront pas comptabilisés: En cas de besoin utiliser la page vide en fin de cahier. Dans ce cas, il faut le signaler dans la case allouée à la réponse remise en fin de cahier . Si au cours de Vépreuve; un candidat repère ce qui_ lui semble être une erreur dénoncé, il la signale sur sa copie et poursuit sa composition en indiquant les raisons des initiatives qu'il est amené à prendre.
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 12 PAGES NUMEROTÉES 1 sur 12, 2 sur 12, 12 sur 12.
+Concours Technologique
+Session Juin 2019 Page 1 sur 12
 
+--- page 2 ---
+Épreuw & chimie section T
+Notations et données numériques États des constituants physicochimiques (sd) solide ; (liq) liquide (g) gazeux Lorsque aucune mention n'est spécifiée; les ions sont supposés implicitement en solution aqueuse. Les gaz sont considérés comme parfaits. Notations Xi la fraction molaire de < i > dans la phase liquide. Yi la fraction molaire de < i > en phase vapeur Lexposant signifie corps pur. ESH électrode standard à hydrogène. ECS électrode au calomel saturé_ Constantes physiques Constante des gaz parfaits R = 8,314 Jmoll KI Constante d'Avogadro NA 6,02*1023 moll Constante de Faraday F 96500 C.moll. Pression standard pe =1bar . Données numériques Masses molaires (en g.mol') de BizTe; :800,8 BizSe; :654,9 KTe 205,8 Rayons ioniques (pm) Te2- 221 K' 138. Enthalpie molaire standard de fusion de BizTe; solide fus H (Bi;Tes,sd) =120,50 kJ mol-1 supposée indépendante de la température. Enthalpie molaire standard de sublimation de Te solide Asub H (Te,sd) =131,48 kJ mol-1 1 Enthalpie molaire standard de sublimation de K solide Asub He (K,sd) =64,00 kJ mol-1 Énergie de Ière ionisation de K: El, = 419 kJ . mol-1 Affinités électroniques 1 Te(g) ] ~Ie(g) +e EA =160,20 kJ mol-1 Te(g) 7 9 Te(g) +e EAz 646,65 kJ mol-1 L'enthalpie standard de formation de KzTe solide A,H2 ( KzTe,sd ) =-1539,34 kJ . mol-1 298K, Potentiels rédox standard àpH = 0: Couple Te4+ ITeoa) HTeOz , ITe(a TeOz(sd) , ITew) Eo (en V / ESH) 0,568 0,551 0,521 Produit ionique de Veau Ke =1014 Te(aq) +2H,0= HTeOz(aq) +3H; (aq ) pK 0 =-I,ll La constante d'acidité du couple HTeOzaq) / TeO2a) ): KA =10207 RxT Ln(x)=0,06x log1o (x) (en V). Conversion : T(K) =0( C)+273 La recherche autour du tellure a souvent été freinée par lodeur caractéristique dail pourri que possède cet élément: Malgré cela, les applications du tellure ne manquent pas: Sous forme de suboxyde; le tellure est utilisé dans le revêtement des DVD et autres disques réinscriptibles: Des couches minces des panneaux photovoltaïques sont composées de tellurure de cadmium Sa capacité à transformer la chaleur en électricité, quand 'il est sous forme de tellurure de bismuth, est employée dans les systèmes de réfrigération portables. Page 2 sur 12
 
+--- page 3 ---
+Épruve &e chimie section T
+Problème étude structurale Le soufre, le sélénium; le tellure et le polonium font partie de la même famille (groupe) de l'oxygène dans la classification périodique. 1 Qu'appelle-t-on cette famille ? M=16,00 Bmorl M= 19,00 Emoll F 1=8 1=9 2) Donner la configuration électronique de la couche de valence de 1a Oxygènel Fluorl famille x(Paling) =3,4 Y(Pauling) = 4,0
+M = 32,00 'Bpol '
+2=16
+s
+Soufrel {(Pauling) =2,6
+3) Les éléments de ce groupe peuvent se combiner aux halogènes on connaît en particulier SF4, SeF4, TeF4, alors que l'oxygène ne peut pas donner OF4. Expliquer ce Y = 78,96 Beor} résultat. 1"34 Se séléniumi X(Pauling) =2,6
+M = 127,6 g wor'
+2= 52
+Te Tellure Y(Pauling) =2,1
+: 4  Donner la structure de Lewis de la molécule SF4 1
+4-a) Déduire_la notation de Gillespie (txpe_VSEPR et la figure de répulsion
+4-b) Représenter la géométrie spatiale selon la méthode VSEPR et donner les valeurs théoriques de tous les angles de liaisons
+Page 3 sur 12
 
+--- page 4 ---
+Épreuw & chimie section T
+4-c) Le moment dipolaire de cette molécule est-il nul ? Justifier la réponse au moyen dun schéma clair.
+{)Comment expliquer que SFA soit gazeux SeFa liquide et TeFa solide àla température ambiante
+Problème II : Cristallographie Les tellurures alcalins de formule MzTe (M =Li, Na, K, Rb) présentent des structures antifluorine. I) Donner une description de la maille et de son contenu
+2) Donner les_coordonnées réduites des ions M' et Tez contenus dans cette maille
+3) Quelles sont les translations permises ?
+Donner la coordinence des ions par rapport aux ions de signe contraire
+5) Sachant que KzTe présente une structure antifluorine, donner Pexpression puis calculer 5-a)le paramètre < a ) de la maille_en supposant le contact ente anion et cation est réalisé
+Page sur 12
 
+--- page 5 ---
+Épreure de chimie section T
+5-b) la masse volumique de ce composé en kgm
+6) Lenthalpie réticulaire de K2Te est Tenthalpie de la réaction au cours de laquelle une mole de KzTe solide est dissociée en ses ions constitutifs à létat gazeux sans interaction les uns avec les autres. 6-a) Construire les chemins réactionnels permettant le calcul de lenthalpie réticulaire de K2Te.
+6 b) Déduire son expression littérale puis calculer sa valeur
+: Les matériaux thermoélectriques 1 Un matériau thermoélectrique transforme directement la chaleur en électricité Un grand nombre des matériaux possédant des propriétés thermoélectriques intéressantes ont été découverts au cours des décennies 1950et 1960. Parmi les bons matériaux thermoélectriques à température ambiante, lalliage de bismuth et de tellure (BizTe3) est un matériau intervenant dans certains thermogénérateurs: &sc) 89c) Problème IlI diagramme 700 700 déquilibre solide-liquide 661 661 On considère le diagramme binaire isobare déquilibre solide-liquide du système BizTe3- 600 600 BizSe; sous la pression de 1 bar. 585 Étude du corps pur 1) Donner la définition dun système fermé. 500 500
+400
+400
+2) Donner 1expression de la différentielle de Penthalpie libre pour un système fermé contenant le tellure pur dans une phase solide.
+326 300
+300
+ata'
+10 20 30 40 50 60 70 80 90 BizTes BizSes pourcentage molaire
+Page 5 sur 12
 
+--- page 6 ---
+Épreuve de chimie section T
+3) Soit un système fermé contenant le BizTe3 pur dans deux phases solide et liquide en équilibre. 3-9) Si on modifie la pression déquilibre, la température sera modifiée, les enthalpies libres des deux phases varient-elles aussi, mais elles sont toujours égales lorsque le système atteint son nouvel état déquilibre; on peut écrire u'sd +dp*sd = ]'liq +dp'iq En utilisant légalité des potentiels chimiques du BizTes pur dans les deux phases solide et liquide en équilibre; établir que le long de la courbe de fusion p = fT), on vérifie = i) AfusHm =TxA Yj
+dp Snliq S*sd ii) dT VnJiq ~V ,sd où S"? et V" ? sont respectivement entropie molaire et le volume molaire du BizTe3 pur dans la phase Q
+1 3-b) En utilisant des informations lues sur le diagramme de la page 5, déterminer 1a valeur de Tentropie molaire de fusion de Bi2Tes 1
+Étude des mélanges I)Indexer le diagramme en donnant pour chaque domaine la (les) phase(s) en équilibre Domaine (1) Domaine (2) Domaine (3) 2) Un mélange de 1,00 g de Bi2Se3 et 3,66 g de BizTe; est porté à 3009C, est-il homogène ? Justifier la réponse.
+Page 6 sur 12
 
+--- page 7 ---
+Épreuve de chimie section T
+32À partir de quelle température BizTez_et Bi2Sez_sont-ils solubles en toute proportion ?
+Un mélange contenant 0,60 mol de BizSe: et 0,40 mol de BizTe3 est porté à 661 C. Déterminer la quantité de matière de chacune des_phases_en présence en équilibre:
+Problème IV diagrammes de Pourbaix-courbes courant-potentiel Utilisation des diagrammes de Pourbaix 1 Surla figure ci-dessous, les segments de droites en traits discontinus correspondent au diagramme de Pourbaix de lélément bismuth pour une concentration totale en atomes de bismuth dissous Ctra = 3,50x103 molL-! Les droites (a) et (b) représentent le diagramme potentiel-pH de Feau La pression partielle de chacune des 1 espèces gazeuses sera prise égale à 1 bar . 19 41) Bi,O:(d) 12) Bilt(q) 1,6 3 BiOHI(q) @LBi(OF- 2(a9) 13 (  Bi(OH)æ(@ IS8E 10 5 0,7
+0,4
+PH=l1
+[pH=6,46
+0,5 3 8 3 8 3 8 2 8 2 8 { 99 8 9 2 pE
+Page 7 sur 12
 
+--- page 8 ---
+Épreuve de chimie section T
+1) Discuter la stabilité des différentes entités du bismuth dans leau aérée.
+2) Dans un milieu aqueux de pH 1, on mélange du bismuth Bi et du pentaoxyde de dibismuth BizOs; qu' obtient-on ? Écrire léquation bilan de la réaction observée
+Construction des diagrammes de Pourbaix 1 On se propose de construire le diagramme potentiel-pH simplifié du tellure pour une concentration totale en atomes de tellure dissous Ctra = 5,25x103 moLL-l Les entités considérées sont Te(d)? TeOz(sd) ? Te(aq) et HTeOz(aq) ' 1 Sur les droites frontières entre les entités dissoutes, la convention choisie est légalité des concentrations en élément Tellure. 1) Classer les entités Te(sd)? TeO2(sæ)? Te(aq) et HTeOzçaq) par nombre doxydation croissant en fonction de pHet déterminer les différentes positions (valeurs de pH) des frontières verticales.
+Page 8 sur 12
 
+--- page 9 ---
+Épruu d chimie section T
+2) Écrire les demi-équations redox des différents couples mis en jeu et exprimer leurs potentiels en fonction de pH si nécessaire
 
+2)Tracer et indexer le diagramme potentiel pH du tellure. 11 1,9 1 1 1,6 1,3
+(1) Bi,Os(sd) (2) Bi)+ (a9) @) BiOH+ (aq) (4) Bi(OH)* 2(9) (5) Bi(OH)((sd) (6) Bi(so)
+" 0,7
+0,4
+pH =1,1
+0,1
+pH =6,46
+0,2
+0,5 3 8 3 3 3 8 3 8 8 8 8 2 3 2 4 ! pH
+Page 9 sur 12
 
+--- page 10 ---
+Épreuv d chimie section 
+Comment évoluent les frontières verticaux du diagramme lorsque la concentration de tracé Ctra diminue:
+Courbes intensité-potentiel L'élaboration par voie électrochimique de BizTe3(sd) consiste à se placer en solution aqueuse.  L'étude électrochimique fondée sur lanalyse des courbes intensité-potentiel prouve la synthèse de 1 Valliage bismuth- tellure par voie électrochimique lors dun balayage cathodique dune solution acide contenant des ions bismuth sous la forme Bi3+ et des ions tellurites sous la forme HTeOz en rapport Bi/Te 2/3 vis à vis du composé BizTe3(sd) La demi-réaction traduisant la synthèse électrochimique de Yalliage BizTes, s'écrit sous la forme 2Bi3+ +3HTeOz +9H+ +18e Bi,Tessa +6H,0 (2Bi+3Te)(sd) 1) À laide des diagrammes (E-pH) précédents; déterminer le domaine de pH dans lequel on doit se placer pour réaliser la demi-réaction (12
+Bi3+ Nous admettrons pour la suite qu' 'il existe un domaine de pH dans lequel le couple BizTes noté HTeOz (C1) intervient et que la réaction utile à lélaboration de Bi2 Te3(sd) est possible_ 8 1 2) Donner lexpression du potentiel délectrode Ei=o (C;) du couple C1. 1l Les expérimentations électrochimiques ont été conduites dans une cellule classique à trois électrodes Lélectrode (1) est une électrode au calomel à KCI saturé (E = 0,244 VIESH). L'électrode (2) est une électrode de platine. Lélectrode (3) est constituée dun fil de platine.
+On a enregistré, à laide du montage ci-contre; la courbe intensité-potentiel (voir figure de la page 11) dune électrode de platine plongeant dans une solution de synthèse dont la composition est la suivante [Bi*3] = 3,50x10-3 moLL-' [HTeO2'] = 5,25x10-moLL-' à pH = 0.
+électrolyte
+Page 10 sur 12
 
+--- page 11 ---
+Epeuve de chinnic section T
+(JA)
+2000
+[8F"F3,510'mo.l-' [HToOr]5,2610' mol-' [HNOs] = 1,0OmoL-'
+150
+8i? HToor
+BizTos
+100o
+500
+~250
+250
+500
+E (mVIECS)
+BizToa
+B;" { HTeor l 2
+50
+~10
+H
+~1SOo ~50
+Pt
+3) Déterminer le potentiel standard délectrode C1, noté E8 ESH) , sachant que la valeur du potentiel 1 (E;o(c)) mes obtenue expérimentalement à courant nul est égale à 275 mVIECS. 1
+FIN DE LÉPREUVE
+Page 11 sur 12
+
+--- page 12 ---
+Éprevu & chimie section T
+Puge vide
+1 1
+Page 12 sur 12

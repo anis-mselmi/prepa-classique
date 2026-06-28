@@ -1,3 +1,71 @@
+--- page 1 ---
+Co Pco
+REPUBLIQUE TUNISIENNE
+Ministère de PEnsriguement Supêricur
+Concours Nationaux & Entrée aux Cycles de Formation d' Ingenieurs Session : Juin 2002
+Jnsthtut  PREPPRA Belthe
+Concours en Biologie Géologie Epreuve de Physique
+Durée : 3 beures
+Date Jeudi 6 juia 2002
+Heure : 8 4 Nb pages : 4
+Barène
+Exercice : 0720
+Prableme 1320
+Tusage dune calculatrice non-programmable ) est autarisé Si; au courS d Fêprewve; un candidat repère ce qui Iui semble être ime errew denoncë, ille signale sur sa copie et poursuit sa composîtion en indiquau les raisons des initiatives qxil est amené à prendre. Léprcuyc compone unexerCîcC 0{ un problèmc comporant dos partics pdepeudantcs cdtsc slles; Ics candidats pcuvcnt kcs resoudrc dans {urdrc qu( leur convicnt €u rcspcctant ncanmoins la nunerotation dcs qustons
+EXERCICE : Dêtente deJoule Thonson
+LPréliminaire :
+19) Enoncer lc prcmier et le deuxième principe dc la thermodynamique pour u systemc fcrmé 29) On considere une mole de gaz subissant une détente dans une couduite à parois rigides;, adiabatiques €t comportant une zone porusc (laine de verre) comme le montre la fgure 4 On suppose que les pressions P1 et Pz de part ctdautre de la paroi poreuse sont unîfonncs; % qu' o1 néglige les variations d' énergie cinétique du gaz lorsque le regime permanent $' est élablî Soit unc porticn AECD &u gaZ, qa Sæ &vuv€ c AtBtCtDi € Pisttt t Etc0 4z2 CiDa à lizstant A4 At O désigue par Ypet Uv; le volume et Véuergie interne de la portion AtBpAzBz €t par Vz et Uz; le volumc et l'éncrgic intemc de la portion CDACDz
+B
+Bt Bz Y X1 Az
+C Yz D1
+Cz sens P(oP~ Dz aécouemcnt
+Figure }
+laue de verte
+2) Montrer que le travail des forccs de ptession échangé par e système feré ABCD est W = PiVi - P(V2 b) En déduire que cette détente est isenthalpique . 39) On envisage une transformation élémentaire au cours de laquelle les échanges thermiques sont donnés par 8Q =Con dT + hdP 8Q = CmdT + {dV
+Concours en Biologic-Geologie session 2802
+Eprcuvc de Physique
+Pegcaf4
 
+--- page 2 ---
+ou Cpm et Cvm sont les capacités calorifiques molaires à pression et volume constants hetth coefficients calorimétriques. a) Donner la variation élémentaire dH de |enthalpie en utilisant les variables P et I. b) En déduire, en fonction deh Vet @T Cpn , le coefficient de Joule-Thonson : #= ôP )h LCas dun gaz parfait
+On considère une mole de gaz parfait subissant la détente de Joule-Thomson On donne la constante des gaz parfaits R=8,32 XK' mole 4 Cvm ~ oRet Cpm = sR 2 2 On suppose que lc régime découlement du gaz parfait est stationnaire et que les températures et pressions sent uniformes en amont (T, = 300 K ; P1 =5.10S Pa) et en aval (T2 ; Pz = 105 Pa) QP @V 19) En utilisant les relations de Clapeyron : { Tf h =-T déterminer les coefficiel #T-)v #T calorimétriques { et h pour ce gaz 29) Montrer que dU = CvndT et dH ~ CpmdT. 39) a) Déterminer la température Tz du gaz en aval de 1'écoulement:. b) En déduire le travail reçu par ce gaz. 9) Déterniner Pexpression de la variation de ['entropie du système. La calcule: numériquement. Quelle estla variation d'entropie de Yunivers ? La transformation considérée est-elle réversible ? 49) Déterminer la valeur du cocfficient de Joule-Thomson H pour ce gaz parfait.
+ICas @un gaz réel
+Léquation détat dune mole d'un gaz réel qui subit maintenant la détente de Joule-Thomson est PCV -b) =RT 0ù b=2105 3 mole 4 In 19) Déterminer les coeffcients calorimétriques { eth pour ce gaz 29) Montrer que dU = CxndT et dH = CpndT + bdP 39) a) Pour c type de détente, calculer sa nouvelle température Tz en aval. (On prendra Cmm = 3R 2 et Cro ~~ SR) 2 b) Calculer le travaü reçu par €e gàz c) Déterminer la variation & 'entropie du système. En déduir la nature de la transformation cousidérée- 49) Détetminer le coefficient u de Joule-Thomsen. En déduire que le gaz subit un échauffement au zours de cette détente
+'ROBLEME
+L_Générateurà élémcut vibrgpt
+On étudie la propagation des ondes planes ultrasonores de fréquence f = 40 kHz émises par émetteur supposé ponctuel, dans la direction Ox dun milieu homogène non absorbant.
+M
+Figure 2
+caractérise cette onde ultrasonore en un point M dabscisse X par une surpression p(x,t) se geant à la vitesse Y
+urs en Biologic-Géologie <c2rfx
 
+--- page 3 ---
+19) Rappeler ['équation de prapagation vérifiéc par la surpression P{x;t) 2*) Douncr l'expression de p(x t) pour cette onde progressive le long des X croissants: 39) Dans le plan d'onde d'équation X= 0,la surpression €st donnée par Po,t) Po sin2aft. Donner ]'expression de la surpression 8u point M d'abscisse X 49) Déteriner les abscisses des points M vibrant en phase avec la source; 59) Calculer la vitesse de propagation V des ultrasons sachant que la longueur donde 1 = 0,85 cm
+1
+Ipterférences axec deux ondes ultrasonores
+On considère maintenant deux cellules piézoelectriques; jouant le rôle d'émetteurs ultrasons àta fréquence f= 40 kHz, identiques à celui décrit dans la partie L Yye S1 M(O,y)
+générateur
+X
+0
+D
+S2
+Figure 3 Ces deux émetteurs, situés en Sa(x 4 ~D,y = u) et Sz(x = -D,y ~ 4 ) sont supposés quasi - 2 ponctuels. On déplace un détecteur le Jong de Faxe Oy. On supposcra que Ies deux ondes arrivant au point Mde coordonnées (x-0,y), sont des ondes planes progressives de nême amplitude se propageant dans {es directions S M ct SzM. Les distances b = 10 cm et Y sont petites devant la-distance D ~~ 1,5 m 1*) Montrer que ['on peut obtenir un phénomène d'interferences. 29) Exprimer la différencc de narchc 8 ~ SzM SpM en fonction de y, bet D. 39) Définir ct dëteriner  "Pintcrfrange j La calculcr uunériquement. 40) Quc devient la figurre d'interferences sî on déplecc S1 parallèlement à 0Y dune distance d en gardant $2 fixe ? 50) Cz reprend le montage initial de 1 {igure 2 et Cr ictercale entre les bcEEs d Soric # générateur idéal de tension délivrant une tension sinusoïdale de fréquence € et celle & entrée de F'émetteur Sz un circuit déphaseur de sorte que PSL,t) po sinZrft et p(S2t) po sin(2rf + @) Qucl est Teffet de Lintroduction de cc déphaseur sur le système d'interférences lorsque 0 = ~rad 2 65) Pour réaliser ce circuit déphaseur on propose le montage suivant
+R
+R €
+Figure 4
+Coecours en Biologic-Ccologle session 2002
+Eprcuve de Physique
+Page 3/4
 
+--- page 4 ---
+On admet que ['amplifcateur opérationnel utilisé est idéal et fonctionnant cn regime lincare. 2 Exprimer la fonction de transfent harmonique  HGjo) = % ; % et @a désignent ~e respectivement lcs amplitudes complexes de la tension d entrée Vc et celle de sortie V; jest le nombre complexc tel que 5 ~ b) Montrer que l'on a réalisé ainsi un circut déphaseur dont le déphasage $'écrit @=-2 arctg (RCo) Quel est le gain € tension  H de ce montage 9 c} Calculcr la valeur de C pour avoir @ = Erd lorsque R=lkQ et R:=KkQ. 2
+Interférences avec plusieurs ondes utrasanores
+On   remplace maintenant les dcux cellules   piézoëlectriques par N énetteurs supposes ponctuels dans le même plan, distant de b, connectés en paralleles au même générateur de tension sinusoïdale de fréquence f = 40 kHz On étudie le pbénomène; d'interférences des ondes de même amplitude émises par ces N émetteurs, dans une direction du plan Oxy faisant ['angle 0 avec Ox (figurc 5) On place une "entille mince acoustique convergente de centre Lm; à la sortie des émetteurs; de distance focale f' = 13 m
+b
+Figure 5
+Toutes ces cellules émettent avec la même phase 0 =0 [9) En faisant lanalogîe avec les lentilles lumincuses, déterminer la position de cette lentille pour pouvoiF obtenir sur le plan (x 0) les interférences à Pinfini: 29) Exprimer la différence de phase p (8) entre deux ondes issues de deux émetteurs consécutifs en fonction de b,8 et 2 39) Montrer que l'intensité de /onde ultrasonore resultante en M s'écrit sin '(Nzbsine) I0= 1 sin Psine 4 40) Représenter Pallure des variations de [ en fonction de sinë en précisant les maxima principaux.
+Einde Képreuve
+Concours €R Biologic-Géologie scssion 2002
+Epreuve dc Physique
+Page 4/4
+e

@@ -1,9 +1,106 @@
+--- page 1 ---
+49)42/4a) "bjxzlgzs gaal dossn Gibsi @i,bliji Ohili jlsualyi 2021 6
+REPUBLIQUE TUNISIENNE Ministère de /'Enseignement Supérieur et de la Recherche Scientifique
+Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs Session 2021
+ Concours Mathématiques et Physique  Epreuve de Physique
+Date Jeudi 24 Juin 2021
+Heure 8 H
+Durée 4 H
+Nombre de pages 10
+Barème
+Problème 1 : 4 pts
+Problème 2 12 pts
+Problème 3
+pts
+L'usage d'une calculatrice non programmable est autorisé: L'épreuve comporte trois problèmes indépendants; le candidat peut les résoudre dans lordre qui lui convient; en respectant néanmoins la numérotation des questions: Un candidat peut toujours se servir d'un résultat fourni par l'énoncé pour continuer sa composition.
+Données
+Charge élémentaire e = 1,610-19c Le rotationnel en coordonnées Masse de lélectron me = 9,110-31k9 cylindriques Masse du proton mp 1,6610-27kg rotk 1 MAz dAg 7r + h = 6,6210-34J.s 00 dz Constante de Planck (dAr 2A2 7 + 1 d(rAe) Constante de Boltzmann 1,3810-23J.K-1 94r)1z kB dz dr dr a0 Nombre d Avogadro NA 6,021023mol-1 Le gradient en coordonnées Vitesse de la lumière dans le vide c = 3108m. s-1 sphériques dune fonction f (r) Constante des gaz parfaits R 8,31J.K-1 mol-1 gradf(r) Ifw2u Permittivité diélectrique du vide €o 8,8510-12F . m-1 dr Relation danalyse vectorielle Perméabilité magnétique du vide Ho 4n10-7H . m-1 rotrota graddiva AA leV= 1,610-19)
+Problème 1 (Energie interne et capacités thermiques)
+La température pour effet de provoquer   lagitation   thermique. Pour un gaz   parfait monoatomique; Pénergie thermique est entièrement   emmagasinée sous forme dénergie cinétique. Dans le cas dun cristal   monoatomique, si un atome est   écarté de sa position déquilibre; il est susceptible de vibrer. Ainsi   l'agitation   thermique est   modélisée   par des oscillations à trois dimensions
+Concours Mathématiques et Physique Session Juin 2021  Epreuve de Physique
+Page 1/10
 
+--- page 2 ---
+I/ On considère un oscillateur harmonique ID constitué par un atome de masse m élastiquement lié à un centre x 0 par la seule force de rappel F mw?xux. Latome écarté de la distance par rapport à sa position déquilibre x = O,vibre à la pulsation caractéristique 0 et à chaque instant son abscisse est x(t) = Acoswt A est une constante 1/ Déterminer l'énergie potentielle Ep et l'énergie cinétique   Ec. On prendra Ep(x = 0) = 0. 2/ En déduire lénergie mécanique Em- 3/ Montrer que la valeur moyenne de lénergie mécanique < Em >= 2 < Ec >= 2 < Ep > Ce résultat est encore valable pour l'atome vibrant dans les trois dimensions de l'espace autour de sa position d'équilibre dans le cas des solides monoatomiques De plus, que Tatome vibre autour dun point fixe ou qu'il se déplace   de façon désordonnée comme dans un gaz   parfait monoatomique; la valeur moyenne de lénergie à la température T est ZkBT. 4/ Enoncer le théorème d'équipartition de lénergie 5/ Exprimer lénergie interne UG jun gaz parfait monoatomique comportant N particules en fonction de N, kB et T En déduire sa capacité thermique molaire à volume constant que 1on exprimera en fonction de R 6/ Exprimer lénergie intemne Us dun solide monoatomique comportant N particules en fonction de N, kB et T En déduire sa capacité thermique molaire à volume et à pression constante que Pon exprimera en fonction de R 7/ Commenter   les   résultats   théoriques   obtenues   précédemment   concernant   les valeurs   des capacités. Cependant des mesures expérimentales montrent qu'à haute température; la capacité thermique est indépendante de la température T (loi de Dulong et Petit) alors qu'à basse température elle se comporte en T3 et s'annulait au zéro absolu:. II/ Einstein a montré que la décroissance de la capacité thermique à basse température est un phénomène dorigine quantique. Le modèle adopté est celui de N oscillateurs harmoniques indépendants pouvant tous osciller avec la même pulsation @ suivant trois directions orthogonales. La mécanique quantique permet de montrer que loscillateur harmonique ID à la température T, peut occuper létat dénergie e = (n + 4h6, repéré par son nombre quantique n(n 0,1,2,3, probabilité proportionnelle à exp(-n hw ), avec une KBT 8/ La valeur moyenne de lénergie < e >= (< n > +4hw. 2g nyn hw Montrer que < n >= Avec y exp( _ Z% yn kB 9/ En déduire que < n >= exp hw KB 10/ Déterminer alors l'énergie moyenne de l'ensemble des 3 N oscillateurs_ Il/ Montrer que la capacité thermique molaire s'écrit exp @E C = 3R(92)2 Avec €E est une température caractéristique que on déterminera. (exp 9)-1)2 12/ Montrer qu'à haute température; la capacité thermique est indépendante de la température T (loi de Dulong et Petit) .
+Concours Mathématiques et Physique Session Juin 2021  Epreuve de Physique
+Page 2/10
 
+--- page 3 ---
+13/ Montrer qu'à basse température; la capacité thermique s'annulait au zéro absolu: 14/ Quelle est linsuffisance du modèle proposé par Einstein ?
+Problème 2 (Généralités sur les plasmas) En 1928, le physicien Langmuir a introduit le terme plasma > pour désigner un gaz ionisé électriquement neutre dans les tubes à décharge. Les plasmas sont des milieux macroscopiquement neutres; constitué délectrons (masse m me charge 9 ~e et densité volumique de charge ne) et dions positifs (masse M mp charge =+e et densité volumique de charge ni) En labsence de champ électromagnétique appliqué, on considère que le plasma est localement neutre et que ne ni no' On suppose que le gaz est totalement   ionisé et que   les interactions entre particules   chargées   peuvent   être négligées: Lionosphère est un exemple de plasma où les gaz sont   ionisés par  le vent   solaire et le rayonnement cosmique. Les propriétés électriques et magnétiques du plasma sont assimilées à celles du vide
+Al Approche classique 1/ Déterminer la vitesse quadratique moyenne des électrons ue et des ions ui dans le plasma Vérifier qu'on peut considérer les ions comme immobiles Justifier que le mouvement électronique est non relativiste 2/ En calculant 1'ordre de grandeur de la longueur donde de DE BROGLIE des électrons; justifier Futilisation du cadre classique pour décrire leur mouvement. On prendra T 104K et no 1016m
+B/ Striction magnétique La striction magnétique est la compression dun faisceau de particules chargées sous leffet de son propre   champ magnétique. Les   particules   chargées dun plasma constituent un fluide conducteur dont le mouvement fait apparaitre une densité de courant j. À un point M de   Vespace, on associera   les   coordonnées   cylindriques (r,0,2) et la base orthonormée directe cylindrique (7r,10,1z) Considérons ce fluide conducteur circulant dans un cylindre daxe OZ, de rayon R et de longueur infinie. Le vecteur densité volumique de courant supposé uniforme en un point M du fluide fR(M) juz pour r < R écrit U(M) = 0 pour r > R 3/ Exploiter  les symétries et  les invariances de  la distribution de courant   pour   déterminer Porientation du champ magnétique B(M) ainsi que les variables dont il peut dépendre en un point M quelconque de 1espace. 4/ En utilisant léquation de Maxwell-Ampère, déterminer le champ magnétique B(M) en tout point M de lespace. On rappelle que le champ magnétique est continu en r = R. 5/ La force magnétique d.m s'exerçant sur un élément de volume dr du fluide est donnée par dmm = j(M)AB(M)dr.
+Concours Mathématiques et Physique Session Juin 2021  Epreuve de Physique
+Page 3/10
 
+--- page 4 ---
+Quelle est leffet provoqué par cette force ? Justifier. 6/ En plus de la force magnétique, il existe dans le fluide des forces de pression: Si P(M) est la pression en M Pélément de volume dr est aussi soumis à la force de pression dFp ~gradP(M)dr _ En admettant qu'il s'établit un équilibre entre la force magnétique et la force de pression; en déduire 1expression de la pressionP (M). On prendra P(r = R) = 0 7/ Montrer que la pression moyenne sur une section $ TR2 droite du fluide peut se mettre sous la forme
+< P > = 2urP (M)dr B2 (R) TR2 2uo
+8/ Cette formule peut être appliquée dans le cas dun éclair; dont le passage peut provoquer une pression de lordre de 2105Pa sur un diamètre de 2 cm sous /effet de striction magnétique Calculer le courant / dun tel éclair.
+Cl Etude de Pécart local à la neutralité : longueur de DEBYE Dans cette   partie, on étudie les   phénomènes   électrostatiques à Tintérieur dun plasma Féquilibre thermodynamique T. Considérons un ion de charge 9 =+e placé en 0, et pris comme origine dun système de coordonnées sphériques (r,0,6) de base orthonormée direct (7r,40,Z,). Du fait de attraction Coulombienne; au voisinage de cet ion, on observe un surplus de charge négative; responsable dun écart local à la neutralité globale du plasma. Soit V(r) le potentiel qui règne en un point M situé à la distance r de Fion situé en 0 Les densités volumiques de charges dions et délectrons en M s'écrivent respectivement
+eV(r) Pi Poexp et Pe kBT de Boltzmann.
+eV(r) ~Poexp avec Po désigne une constante et kB est la constante kBT
+9/ Quel nom donne-t-on à ces lois de répartition ? Que représente Po ? Exprimer Po en fonction de no et e 10/ Donner 1expression de la densité volumique totale de charges au point M, Pt(M) pour r + 0
+Il/ En coordonnées sphériques; l'équation différentielle à laquelle obéit le potentiel V(r) est 1d2[rV(r)] Pt (M) dr2 8o On se place dans Phypothèse eV(r) < kBT et on admet que V(r 9 0) = 0 et qu'au voisinage immédiat   de Vion placé en 0, Finfluence de sa charge   Pemporte sur  celle des   charges
+Concours Mathématiques et Physique Session Juin 2021  Epreuve de Physique
+Page 4/10
 
+--- page 5 ---
+électroniques distribuées en volume. Montrer que le potentiel V(r) = elD où 1p 4TEor est une distance caractéristique (appelée longueur de DEBYE) que lon déterminera. 12/ Tracer sur un même graphique Fallure de V(r) et lallure du potentiel crée par lion placé en 0 de charge 9 = +e dans le vide. Commenter. 13/ En déduire le champ électrique 7(r) correspondant au potentiel V(r). 14/ Calculer la charge totale Q contenue dans une sphère de centre 0 et de rayon r en fonction de e,r et 1p Discuter les cas r > 1p etr < 1p 15/ Calculer la valeur numérique de 1p à la température de T 104K . Discuter la validité de Papproximation faite à la question 11. On donne no 1021m-3 D/ Réponse dun plasma à un champ électromagnétique Le plasma décrit précédemment est maintenant soumis à Paction dun champ électromagnétique qui s'écrit en coordonnées cartésiennes et en notation complexe @(M) Eoe i(Wt-kz)ux avec Eo est une constante positive 16/ Exprimer la force de Lorentz qui s'exerce sur une charge 9 qui se déplace à la vitesse Justifier qu' 'il est possible de   négliger la composante   magnétique devant   la   composante électrique 17/ En appliquant le principe fondamental de la dynamique, déterminer les vitesses complexes Zi des ions et % des électrons 18/ En déduire la densité volumique de courant j dans le plasma.  Quel terme peut-on négliger dans cette expression. 19/ Montrer qu'il Y a absence de puissance moyenne temporelle échangée entre le champ et les porteurs de charges dans le plasma. iwu 20/ Écrire l'équation de Maxwell-Ampère dans le plasma sous la forme rotE %@ où @p est une constante (appelée pulsation plasma) que lon déterminera. 21/ Établir l'équation de propagation vérifiée par le champ électrique @ 22/ En déduire la relation de dispersion k = f(W) Tracer sur le même graphique la courbe décrivant la relation de dispersion pour une onde   électromagnétique plane   progressive monochromatique se propageant dans le vide illimité et la relation de dispersion de londe dans le plasma. 23/ A quelle condition Ponde appliquée au plasma peut-elle s'y propager ? Dans le cas contraire que lui arrive-t-elle ? 24/ A quel type de filtre peut-on assimiler le plasma vis-à-vis des ondes électromagnétiques ? 25/ Les ondes radio de fréquences proches de 8GHz envoyées par des sondes dans 1espace sont captées par des stations situées à la terre. Le choix de ces fréquences permet-il la communication entre la sonde et la terre sachant que Wp 107rads-1 pour lionosphère terrestre ?
+Concours Mathématiques et Physique Session Juin 2021  Epreuve de Physique
+Page 5/10
 
+--- page 6 ---
+El Réception dun signal Une onde   électromagnétique plane   progressive de polarisation rectiligne de fréquence 200 KHz reçue par le détecteur représenté sur la figure 1. L'expression en notation complexe du champ électrique en coordonnées cartésiennes s'écrit @(M) Eoe i(wt+kz)ux avec Eo est une   constante positive. Le détecteur est modélisé par un cadre carré de coté 10 cm sur lequel on enroulé N 1000 spires de fil conducteur (Figure 1).
+Figure 1
+26/ Déterminer le champ magnétique @ (M). 27/ Montrer que le champ magnétique est uniforme sur le détecteur. 28/ Déterminer /expression littérale du flux du champ magnétique à travers le cadre. Donner la valeur de Pangle entre le vecteur normal à la surface du cadre et le champ magnétique qui permet une réception optimale. 29/ Ce cadre est branché à un voltmètre, exprimer la valeur efficace U de la tension instantanée détectée en fonction de Eo W C , N et a 30/ La plus petite valeur efficace de la tension détectable est U O,O1mV Déterminer alors la valeur minimale du champ électrique que Fon puisse détecter. Fl Filtrage dun signal On considère le filtre constitué de deux cellules RC (Figure 2). La tension dentrée Ve est sinusoïdale de fréquence f  32/ Déterminer T'impédance complexe de sortie Zs R 33/ Déterminer l'impédance complexe de lentrée Ze 34/ Etablir la fonction de transfert du R Vs filtre et montrer qu'il peut  se mettre sous la forme H = " Ho où la Ve 1 +jQ(x Figure 2 grandeur x est telle que x Wo
+Que représente chacune des grandeurs 0, Q et Ho? 35/ Montrer qu'il s'agit dun filtre passe-bande et en déterminer les fréquences de coupure notées fc1 et fcz (fc1 fcz). 36/ Tracer l'allure du diagramme asymptotique de Bode (GdB 2olog|ul) de ce filtre puis le diagramme de Bode. On indiquera les points particuliers.
+Concours Mathématiques et Physique Session Juin 2021 Epreuve de Physique
+Page 6/10
 
+--- page 7 ---
+37/ Calculer la pulsation propre w pour R = 1 kQ et C = 500 nF. Déterminer le signal de sortie ve du filtre si le signal dentrée est Ve Vo + Vo cos(wt) + Vo cos(10wt) + Vo cos(100t) où Vo 1OV et 200 rad. s-1
+Problème 3 (La nécessité de la notion de photon L'effet photoélectrique) L'effet photoélectrique est l'extraction délectrons dun métal, lorsque celui-ci est exposé à un rayonnement lumineux. Ce phénomène découvert par Hertz en 1887, et analysé par Lenard en 1902, ne s'interprète pas simplement dans le cadre de la théorie ondulatoire . En 1905, Einstein propose une interprétation de leffet   photoélectrique en 'appuyant sur Phypothèse   où le rayonnement   lui-même est constitué de   "quanta de   lumière" dénergie W = hv En 1916 Millikan (1868-1953) vérifia lhypothèse dEinstein. On modélise Panode et la cathode dans 1expérience de Lenard (Annexe documentaire; figure 4) par deux armatures métalliques planes et parallèles (Figure 3) Elles sont distantes de d < v5 (S Taire des armatures) , alimentées par une tension U = Vz = Vi
+1/ Exploiter les symétries et les invariances de la distribution de courant pour déterminer Porientation du   champ magnétique E(M) ainsi que les variables dont il peut dépendre en un point M quelconque de lespace.
+2/ Montrer, en utilisant Péquation de Maxwell-Gauss,   que le champ électrique @(M) est uniforme.
+3/ Exprimer le potentiel   électrostatique V(M) en fonction de U, d,Va et z.
+Figure 3
+4/ Montrer que Pénergie  potentielle   électrostatique dun électron placé entre   les armatures s'écrit Ep ~eV(M) + € avec C est une constante qu on cherchera pas à déterminer_ Exprimer l'énergie potentielle électrostatique Ep en fonction de U, d, Vi, e et z. 5/ Un électron de masse m de charge ~e est extrait de larmature (1), acquiert la vitesse Ss Cet électron atteint ]armature (2) avec la vitesse 12 En utilisant la conservation de lénergie mécanique, montrer que mv? mvz ~eU. A partir de lexpérience de Lenard (annexe documentaire, figure 5) 6/ Quelle est la nature du mouvement des électrons selon le signe de la tension U . 7/ Expliquer ]existence du courant à des tensions même négatives . Donner une interprétation du potentiel darrêt Uo.
+Concours Mathématiques et Physique Session Juin 2021  Epreuve de Physique
+Page 7/10
 
+--- page 8 ---
+8/ Exprimer 1énergie cinétique Ec des électrons extrait de la cathode en fonction de la charge élémentaire e et le potentiel darrêt Uo. 9/ L'énergie cinétique Ec des électrons extraits de la cathode dépend t-il de lintensité de la lumière incidente ? Justifier . A partir de lexpérience de Millikan (Annexe documentaire, figure 6) 10/ En déduire que le potentiel darrêt Uo est une fonction affine de la fréquence v de la lumière incidente ~Uo a(v vo). Estimer la valeur de la constante a I1/A Paide de léquation dEinstein (annexe documentaire, page 10), estimer la valeur de la constante de Planck h 12/ Vérifier que lénergie cinétique des électrons émis est proportionnelle à la fréquence de la lumière utilisée 13/ Vérifier   lexistence dune   fréquence  minimale; appelée fréquence   seuil en  dessous de laquelle il n'y a pas d'émission des électrons 14/ En quoi Texistence dune fréquence seuil en dessous de laquelle plus aucun électron ne peut être émis quelle que soit la puissance lumineuse, est-il en contradiction avec une description purement   ondulatoire la lumière Pourquoi Pintroduction de la notion de photon résout le problème.
+~uAuAJAuAuAuAuAuAuAuAJAu
+ANNEXE DOCUMENTAIRE
+Hertz découvre en 1887 que de la lumière ultra-violette incidente sur des électrodes métalliques facilite le passage dune décharge électrique. La figure 4 schématise 1appareil utilisé par Lenard en 1902 pour étudier 1effet photoélectrique. Dans un tube de verre où /on fait le vide, de la lumière ultra-violette incidente sur une cathode en métal C libère des électrons détectés par un électromètre.
+Concours Mathématiques et Physique Session Juin 2021   Epreuve de Physique
+Page 8/10
 
+--- page 9 ---
+Tube sous vide
+Electromètre
+Quartz
+Ultra-violet
+Figure 4. Schéma de 1appareil utilisé par Lenard pour étudier ]effet photo-électrique
+La variation de courant photo-électrique en fonction de la tension U est schématisée sur la figure 5. Létude expérimentale conduit aux observations suivantes Si la cathode est éclairée par un rayonnement du domaine visible, aucun courant n'est observable; et ce quelle que soit lintensité lumineuse incidente. Il existe une fréquence minimale; appelée fréquence seuil, en dessous de laquelle il n'y a pas démission des électrons_ L 'énergie cinétique des électrons émis est proportionnelle à la fréquence de la lumière utilisée.
+Uo
+Figure 5. Variation du courant photo-électrique en fonction de la différence de potentiel U pour différentes intensités de la lumière incidente A < B <C
+Lexpérience, menée par Robert Andrews   Millikan en 1916 (figure 6), confirme cette formule et donne une valeur de la constante de Planck en bon accord avec la valeur
+Concours Mathématiques et Physique Session Juin 2021 Epreuve de Physique
+Page 9/10
 
+--- page 10 ---
+provenant des expériences sur le rayonnement thermique. Einstein reçut le prix Nobel de physique pour son travail sur leffet photoélectrique en 1922
+Uo (Volts)
+3
+5
+6
+8
+10
+12 vl1ol Hz)
+Figure 6. La contre tension Uo en fonction de la fréquence v, pour une surface métallique de sodium
+En 1905, Einstein propose une interprétation de /effet photoélectrique en s'appuyant sur Phypothèse où le rayonnement lui-même est constitué de "quanta de lumière" dénergie W =hv. Il suppose pour cela qu'un quantum dénergie cède de lénergie à un seul électron Les électrons étant normalement liés au métal, il faut une énergie minimum Wo hvo; caractéristique du métal et appelée travail d'extraction pour que lélectron puisse s' 'échapper. Ainsi;   Vhypothèse de   quantification du   rayonnement   permet dexpliquer ]existence dune fréquence de seuil. Pour un rayonnement de fréquence plus élevée (v > Vo), le surplus dénergie est transmis à lélectron sous forme dénergie cinétique Ec
+Léquation dEinstein pour 1effet photo-électrique s'écrit donc W = Wo + Ec
+Concours Mathématiques et Physique Session Juin 2021  Epreuve de Physique
+Page 10/10

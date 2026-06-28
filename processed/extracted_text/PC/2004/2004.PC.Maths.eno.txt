@@ -1,4 +1,48 @@
+--- page 1 ---
+REPUBLIQUE IUNISIENNE Ministèrc de [ Enscignemcnt Supérieur; dc la Rechcrche Scicntifique ct de la Technologie
+Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs Session : Juin 2004
+Concours Physique et Chimie
+BElC . ` CGEMEURs'
+Epreuve de Mathématiques
+Date Lundi 07Juin 2004
+Heure : 8 H
+Durée 4 Heures
+Nb  pages 5
+Barème: Pb 1 ( I: 4,5 pts, II-A: 1,5 pts, II-B : 5 pts); Pb 2 (I : 4,5 pts, II : 4,5 pts)
+Lugage des calculatrices est strictement interdit. Une grande importanc Bera attachée à la rigueur du raisonnement , le clarté de la rédaction et eu soin de le présentation 1et Iappelé que tout résultat énonc dans le oujet peut etre utilise pour traiter la Buite; même gil 2'8 pu etre démontré.
+Probleme 1
+Partie I
+Soit ^ € R| {0}. Pourn € N', on désigne par un(X) = ch(Ar)cœ{ns)dz.
+ÀshÀz Montrer que u(A) = (~1)" et en déduire que la Bérie de terme n2 + X? général u (X) est convergente.
+2 Pour reRet n€N on pose Dn(s) =1+22ca(kz) *=I
+a) Calculer
+Dn(s)dz.
 
+--- page 2 ---
+b) Montrer que pour tout I dans R o1 sin(22t1r) si z & 2TZ Dnl (r) sin(2) 2n + 1, si z € 2TZ, où 27Z = {2rk kez} 3. Soit + lapplication définie sur [0 ,7] par w(æ) = ch(Ar) = 1. Montrer la relation suivante sh(Az) 1 ux(X) +2 P(s)D (s)dz. 21 k=l s(r) si  ejo, 7] 4. a) Montrer que la fonction 2 F  @(z) = sin(2)  0, si I =0 est de classe CI sur [0 ,7] 6) En utilisant une intégration par parties, montrer que
+lim n*+o
+P(s)Dn(r)dz =0
+5. A laide des résultats précédents; montrer que pour ) € R|{0} on & : +oo 4 2(3ha) 'n2 n=1 6. Calculer les sommes des séries numériques suivantes +o +oo (I)" (I) et 9n? + 1 'n? +4 n=1 n=1 Partie II ~A Soit X € Rl {0} . On considère l'équation différentielle du second ordre à coefficients constants 1 y'(s) X?y(z) 2 1 Montrer que toute solution réelle de cette équation est de la forme
+y(s) ach(Xz) + Bsh(Xz) 0,B €R 212
+2 En déduire la solution paire de cette équation vérifiant y (r)
+2
+2
 
+--- page 3 ---
+B-
+1 Montrer que pour tout æ €]-T Tl on a : +0 =2 '(Z1)2+1 sin(nz). n=1
+2. Montrer que pour tout I € [-T T] , on a : T2 +0 I2 +4E(12 cos(nc) 3 n2 n=l
+3. Pour x € R on pose +oo +00 (~1)n+1 (i) h(z) = cos(nz) et f (z) = cos(nx) 'n2(n2 + 12) n2 + X? n=l n=l a) Montrer que h est de classe C2 sur R et que Pon pour tout réel I, h"(z) = f(z) 2 0) Vérifier que n2(n2 + X2) 72 n2 + 7' c) En déduire que pour tout z € [T T] on a : 12 T2 f(s) + A2h(z). 12 4 Montrer que la fonction f est de classe C2 sur [~T T] paire et qu'elle est solution de léquation différentielle y' (~) À?y(z) avec y(T) 2 5. Montrer que pour r € [-T T] on a +oo (z T ch(Az) cos(nz) n2 + 1? 2X sh(Àz) 212 n=1
+6. Montrer que pour tout I €]-T Tl , on a : +oo (Z1)+1 xsh(ar) sin(nx) n2 + )2 2 sh(XT) n=1
 
+--- page 4 ---
+Problème 2 On désigne par E = R[X] , Fespace vectoriel des polynômes à coefficients réels et pour n € N En = R[X] le sous espace de E formé par les polynômes de degré inférieur ou égal à n. Sur E, on considère le produit scalaire défini par VP,Q €E (P / Q) = J P(z)Q(r)dz. 21
+Partie I
+On définit la suite (Pn)n2o de polynômes de E par récurrence Po = 1 n=1 (X" Pn = X" _ E Pe) Px' Vn 2 1, kzO IlPI? où IIP:H? = (P / Pk) pour k € N a) Calculer P ,P et Ps. 6) Vérifier que chaque polynôme Pn est de degré n c) Montrer que pour tout n € N on a P (-X) = (~1)"P (X) (On pourra raisonner par récurrence)
+2. a) Montrer la relation dorthogonalité Vn # m; (P / Pmn) = 0. 6) Montrer que {Po P Pn} est une base de Er:
+3 a) Montrer que pour tous n et p dans N avec p < n on a : (P / XP) = 0 6) Soit Q € E de degré 9 < n montrer que (Pr / Q) = 0 c) Montrer que pour tout n 2 1 , on a : (Pn / XPn-1) = (P / X") . En déduire que (Pr / XP -1) = |lPrll?
 
+--- page 5 ---
+4. a) Vérifier que pour tous P et Q dans E o & (XP / Q) = (P XQ) _ b) En décomposant le polynôme XP sur la base {Po, P; - ,Pnt1} montrer qu'il existe trois suites réelles (an) (bn) et (cn) telles que XP @nPntl + bnPn + cPn-l, POUr tout n 2 1. IlPall? c) Montrer que pour tout n 2 1 , an =1, bn = 0 et c IlPr-Ill? Partie II
+Pour tout n € N on pose Rn (X? _ 1)" et Qn (Rn) où dzn d* (Rn) désigne la dérivée kième du polynôme Rr drk a) Quel est le degré du polynôme Qn? Quel est le coefficient de son monôme de plus haut degré? b) Vérifier que {Qo ,Q1 Qn} est une base de En 2. a) Montrer que pour k entier tel que 0 < k < n - 1 le polynôme d* (Rn) s'annule en ~1 et 1. dz* b) En intégrant par parties montrer que pour tout P € E dr (Qn P) = (~1)" P(s)JR  (c)dz. 21 dc" En déduire que (Qr Pm) = 0 pour m < n. d) Montrer alors que pour tout n € N il existe Xn € R tel que Qn XnPn puis calculer Xn (?v) ! h 3. Pour tout n € N on pose In = IlQH1? et J = f 1( 1) dz. a) Montrer que In (~1) (2n)!J . b) Trouver une relation entre Jn et Jn-1 pour n 2 1 puis donner [expression de Jn. JPl? c) Donner alors IQI? IPahl? et Cn IlPa-1ll? 4444444444444484444444444844444444444444
+5

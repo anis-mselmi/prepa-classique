@@ -1,3 +1,77 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministere de [Enseignement Supérieur, de la Rccherchc Scicntitique el de la Technologic 09~jJi Wji 2li eu
+a@3U)428 3)
+{Wlusgs~s yssybu=L;
+Jsin Zibyi 2i jbliji ùhnitnl Dlgjal#u 2009 B9
+Oinquonlcnoir c Fua ofiic (laiecand
+Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs Session 2009
+Concours Mathématiques et Physique Epreuve de Mathematiques II
+Date: Samedi 06 Juin 2009 Barème
+Heure: 8 H
+Durée: 3 heures
+Nb pages: 4
+La qualité de la rédaction, le soin de la présentation et la rigueur des raisonnements constitueront un élément important pour l'appréciation des copies. Il est rappelé que tout résultat énoncé dans le texte peut être utilisé pour traiter la suite, même s'il n'a pu être démontré. L'usage de tout ouvrage de référence et de tout autre matériel éléctronique est strictement interdit.
+Comme de coutume, on note N lensemble des entiers naturels, N* celui des entier naturels non nuls et C le corps des nombres complexes.  Dans tout ce qui suit, on fixe n € N* et on adopte les notations suivantes:
+C[X] : lalgèbre complexe des polynômes à coefficients dans C Mn (C) Yalgèbre complexe des matrices carrées d'ordre n à coefficients dans €; AsITuT (C) aox; In : la matrice unité de Mn 4 (GBMEC GLn (C) le groupe des matrices inversibles de Mn (C). A Sa7 n 27,iuns ' Ir(M) la trace dune matrice M de Mn (C). On rappelle qu'une matrice M € Mn (C) est dite nilpotente s'il existe $ € N' tel que M' 2 0. En outre, une matrice M € Mn (C) est dite polynôme en une matrice A € Mn (C) s'il existe P € C [X] tel que M = P (A) On admettra sans démonstration les deux résultats suivants: Pour toute matrice A € Mn (C), il eriste un unique couple (D,N) de matrices de Mn (C) tel que D est diagonalisable. N est nilpotente. A = D+ N. DN = ND La relation A = D + N est appelée décomposition de Dunford de A. (**) Soient   A € Mn (C) et A = D+ N la décomposition de Dunford de A Alors D et N sont des polynômes en A. En particulier, AD = DA et AN = NA.
 
+--- page 2 ---
+Concours Mathématiques et Physique Épreuve de Mathématiques II
+2
+Le problème suivant a pOuI objectif de fournir quelques applications des résultats (*) et (**) admis ci-dessus. La partie I est indépendante. En revanche, pour résoudre la Partie III, on a besoin des résultats établis dans la Partie II.
+1
+Matrices semi-simples
+Dans cette partie; on identifie le C-espace vectoriel Cn = Cx- x C (n fois) au C-espace vectoriel Mn,1 (C) des matrices colonnes à n coefficients dans €. Soient A € Mn (C) et E un sous-espace vectoriel de Cn On dit que E est stable par A si
+AU € E pour tout U € E.
+La matrice A est dite semi-simple si, pour tout sous-espace vectoriel E de Cn stable par A; il existe un sous-espace vectoriel F de C" stable par A tel que
+Cn = Ee F
+Lobjectif de cette partie est de montrer que toute matrice semi-simple de Mn (C) est diagonalis- able. Soient A une matrice semi-simple de Mn (C) et A = D + N sa décomposition de Dunford. On pose ker N = {U € Cn : NU = 0} . (On remarque que ker N est un sous-espace vectoriel de C?)
+1. Montrer que si U € Cn tel que U # ker N alors lensemble
+{k € N* : NkU + 0}
+est non vide et majoré
+2. En déduire que si U € Cn tel que U # ker N alors il existe m € N* tel que NmU # 0 et NmU € ker N.
+3 En déduire lexistence dun sous-espace vectoriel F de Cn stable par A tel que
+Cn = Fe ker N.
+4. Montrer que F est stable par N (on pourra utiliser le résultat (**  de lintroduction) .
+5 En déduire que F = {0} (raisonner par labsurde en utilisant le résultat de la Question 2)
+6 Conclure que A est diagonalisable.
 
+--- page 3 ---
+Concours Mathématiques et Physique Épreuve de Mathématiques II
+II Irace et nilpotence
+Dans cette partie; on se propose de montrer que si A € Mn (C) alors A est nilpotente si, et seulement si, It (A*) = 0 pour tout k € N* .
+1 Montrer que si A € Mn (C) est nilpotente alors Tr (A*) = 0 pour tout k € N* . 2. Inversement, on se donne A € Mn (C) et on suppose que Ir (Ak) =0 poUT tout k € N* _ Soit A = D+ N la décomposition de Dunford de A.
+(a) Vérifer que APN! est nilpotente pour tous p € N et 9 € N* . (b) En déduire que Tr (Dk) = 0 pour tout k € N*_ (c) On suppose que D # 0 et on note Xl, 2 Ar les valeurs propres de D telles que
+Xk # 0 pour tout k € {1,-,7}
+et
+Ai # Xj pOur tous i,j € {1,-,r} avec i + j. Etablir lexistence de ml, "*1 mr € N* tels que
+A1m1 4
++ Armr
+Akm1 4
++ Mmr
+0
+(1 < k < r)
+Mim1 +
+4 ATmr = 0
+(d) En déduire que D = 0. (e)   Conclure.
+III Groupes_d'exposants_finis de matrices inversibles
+On dit qu'un sous-groupe G de GLn (C) est dezposant fini s'il existe m € N* tel que Am = In pour tout A € G.
+Soit G un sous-groupe de GLn (C). On se propose de montrer que G est d'exposant fini si, et seulement si, G est fini.
+1 Montrer que si G est fini alors G est dexposant fini_
+2.  Réciproquement, on suppose que G est d'exposant fini En outre; on pose
+Um = {z € C: zm _ 1 = 0}
+et on note p la dimension de Vect (G)  le sous-espace vectoriel de Mn (C) engendré par G.
 
+--- page 4 ---
+Concours Mathématiques et Physique Épreuve de Mathématiques II
+(a) Montrer que si A € G alors A est diagonalisable et toutes ses valeurs propres sont dans Um' (b) En déduire que si A € G alors A - In est diagonalisable. (c) Vérifier que lensemble Ir [G] = {Tr (A) : A € G} est fini (d) Justifier l'existence dune base (A1, 41) Ap) de Vect (G) telle que
+Ak € G pour tout k € {1,_,p} ~
+(e) On considère 1' application:
+f : G
+Ir [G] * . . . x Tr [G] (p fois)
+M + (Ir (A1M) , -, Ir (ApM) ) .
+Soient A,B € G tels que f (A) = f (B). 1 Montrer que
+Tr (AM) = Ir (BM) pour tout M € Vect (G) _
+ii. En déduire que
+Tr ((AB-1 _ In) M) = 0 pour tout M € Vect (G) _
+iii. Prouver que la matrice AB-1 ~In est nilpotente iv. Montrer que A = B. V. En déduire que G est fini
+Fin de Fépreuve

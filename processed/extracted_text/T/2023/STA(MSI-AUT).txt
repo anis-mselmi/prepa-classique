@@ -1,27 +1,525 @@
+--- page 1 ---
+République Tunisienne
+~8>48 @kl3?l8es gUegl
+Ministère de [Enseignement Supérieur et de la Recherche Scientifique Concours Nationaux dEntrées aux Cycles de Formation dIngénieurs Session 2023
+Whusfjlujjsmouvi 20236,3
+Concours de Technologie Épreuve de
+Systèmes Techniques Automatisés
+Date Vendredi 02 Juin 2023
+Heure 08H 00
+Durée 3 Heures
+L'épreuve comporte deux parties
+A-  Mécanique des Solides Indéformables &RDM B- Automatique
+Le sujet de l'épreuve remis au candidat comporte trois dossiers
+1- Mise en situation, Données et Hypothèses 2- Document Technique (DT-01) 3- Document Réponses
+Important : Aucun autre document n'est autorisé Seules les calculatrices de poche non programmables sont autorisées Il n'est fourni au candidat qu'une seule et unique copie du <Dossier document réponses > qui doit être rendu en totalité, à la fin de lépreuve, même sans réponses Le document réponses doit être rendu en intégralité (aucune feuille ne doit être supprimée) Toute suppression de feuilles du document réponses est considérée comme tentative de fraude.
 
+--- page 2 ---
+Dossier
+Mise en situation; Données et Hypothèses
+Ce dossier comporte neuf pages numérotées de 1à 9 et un document
+technique DT-01
+Mise en situation
+Pages 1/9 et 2/9 DT-01
+Document Technique Données et hypothèses Pages 3/9 à 9/9 A- Mécanique des Solides Indéformables & RDM Pages 3/9 à 6/9 B-  Automatique Pages 7/9 à 9/9
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2023
 
+--- page 3 ---
+Concours Technologie
+Épreuve STA
+Mise en situation, Données & Hypothèses
+ÉTUDE D'UNE PROTHÈSE DE MAIN MYOÉLECTRIQUE
+1- Mise en Situation Lamputation d'un membre supérieur est souvent lourde, de conséquence sur le patient; car elle touche son intégrité physique. Afin de limiter ses séquelles, le patient peut faire recours à lusage dune main artificielle appelée communément prothèse Les technologies utilisées pour produire des prothèses sont variées, on cite principalement:
+Les   prothèses Myoélectriques qui sont des   dispositifs fonctionnant grâce aux forces électromotrices   que génèrent les muscles   durant leurs phases de contraction.  Celles-ci produisent des signaux électriques très faibles, décelables sur la peau moyennant des électrodes (Figure 01-a). Les signaux   décelés par ces électrodes sont délivrés à un microprocesseur qui après traitement; fournit les commandes à un ou plusieurs actionneurs électromécaniques. L'amplification des signaux permet alors louverture, la fermeture et la rotation de la main. Un gant esthétique recouvre la totalité de la prothèse: Cela permet à certains patients de retrouver une motricité plus intuitive Les prothèses esthétiques sont visuellement proches dune main réelle mais elles ont des potentialités fonctionnelles limitées (soutenir des objets, porter un sac.) (Figure 01-b). Les prothèses bioniques (appellation contractée de biologique et électronique >). Ces prothèses, avec leur organisation biomécanique etleur dispositif sensoriel; offrent une grande variété de possibilités d'adaptation à la prise d'objets de toutes formes, textures et dimensions. Elles diffèrent de la main Myoélectrique; par des mouvements plus naturels qui s'approchent de la main humaine. Bien que ce soit la dernière génération, elles présentent encore des inconvénients surtout au niveau de leur coût surélevé (Figure 01-c)
+Microprocesseur
+Gant_ esthétique Emboîture
+Articulation
+Poignet
+Electrode
+Batterie
+(c)
+Figure 01 ~Différents types de prothèses (a) Myoélectrique; (b) Esthétique, (c) Bionique Ce sujet s'intéresse au développement d'une prothèse Myoélectrique capable de garantir des fonctions les plus proches possibles de celles développées par une main saine. L'analogie entre main naturelle et prothèse   fait   ressortir  la même terminologie  utilisée pour désigner les principaux constituants d'une prothèse comme le montre les Figures 02.a et 02.b.
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2023
+Page 1 | 9
 
+--- page 4 ---
+Concours Technologie
+Épreuve S.TA
+Mise en situation, Données & Hypothèses
+La prothèse Myoélectrique fonctionne grâce aux contractions musculaires qui génèrent des signaux électriques, collectées par des électrodes de surface collées sur la peau du patient Les signaux à traiter sont souvent de très faible intensité, ce qui nécessite un traitement spécifique basé sur le filtrage et lamplification pour que les signaux atteignent un niveau exploitable par les cartes de commande.
+Majeur Annulaire Index
+Auriculaire
+Phalangette Phalangine ~Phalange Pouce
+Paume de la main
+Phalange distale Phalange proximale
+Poignet
+Figure 02 Principaux constituants dune main (a) saine; () prothétique
+Les objectifs visés par ce sujet consistent à Établir les modèles cinématique; dynamique et énergétique relatifs à la mise en mouvement de Yindex pour saisir une canette, une bouteille ou tout autre objet de forme cylindrique, 2 Évaluer la résistance mécanique de la phalangine, 3. Étudier la gestion d'énergie consommée nécessaire à la mise en mouvement de la prothèse; ainsi que le circuit d'affichage des différents signaux de commande de la main prothétique; Asservir en vitesse et en position les servomoteurs de la main prothétique
+L'épreuve comporte deux parties Mécanique des solides indéformables (MSI) & RDM en cherchant à répondre aux objectifs visés 1 et 2, B. Automatique qui visera à atteindre les objectifs 3 et 4.
+NB Les deux parties A et B utilisent des notations totalement indépendantes.
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2023
+Page 2 | 9
 
+--- page 5 ---
+Concours Technologie Épreuve S.TA
+MSI&RDM
+Mise en situation Données & Hypothèses
+2-Données et Hypothèses
+Partie A : Mécanique des Solides Indéformables & RDM Cette partie est composée de deux sections indépendantes ayant pour intitulées respectives Mécanique des Solides Indéformables et Résistance des Matériaux Section AI- Mécanique des Solides Indéformables (MSI)
+AI-1. Modélisation du mouvement de lindex
+La prothèse Myoélectrique d'une main, est constituée de 5 doigts liés à 5 actionneurs (un pour chaque doigt) comme le montre le document DT-01. Le pouce est constitué de deux phalanges alors que les autres doigts sont composés de trois éléments. Les modèles cinématiques associés à Tindex, le majeur, lannulaire et l'auriculaire (les doigts composés de 3 phalanges) sont similaires et diffèrent de celui du pouce. De ce fait, l'étude des mouvements, des doigts à trois phalanges par rapport à la paume dela main, peut être réduite à un seul doigt. La présente analyse sera consacrée au pincement des objets entre lindex et la paume. Les composantes mécaniques formant l'index dune main droite prothétique sont présentées par la Figure 03. Le mouvement de larbre (S1) de lactionneur (M), par rapport à la paume (SO), est transmis par la bielle (S2) à la phalange (S3). Celle-ci est liée à la biellette (S4). La phalangine (S5) est associée à la fois à la biellette (S6) et à la phalangette (S7).
+S6
+Poucel
+Index
+Paume de la main
+Figure 03
+Modèle 3D de Tindex et du pouce; () Modèle segmentaire de lindex
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2023
+Page 3 | 9
 
+--- page 6 ---
+Concours Technologie Épreuve S TA
+MSI& RDM
+Mise en situation, Données & Hypothèses
+Pour simplifier l'étude, on admettra que Le mouvement du pouce s'effectue dans un plan perpendiculaire à celui de lindex. 2. La prise dun objet tel que bouteille, canette, verre, etc est réalisée par pincement entre la paume (S0) et la phalangette (S7). AI-2. Repères, paramètres et données
+Lindex prothétique est constitué de 7 pièces se déplaçant toutes dans des plans parallèles au plan de référence To (0, æo jo) associé au repère Ro(O,æo Jo '0) supposé galiléen; lié à la paume (S0). La Figure 05 illustrant le schéma cinématique minimal de lindex est une représentation plane de Yensemble proposé à l'étude
+56
+Xs
+57 3
+X3
+55
+53
+S1
+7
+S0
+Figure 05 ~Schéma cinématique de lindex prothétique
+Les caractéristiques dimensionnelles des composantes de lindex sont introduites par les relations vectorielles qui suivent
+0i RyvkR = Lzy2 Oj = aw JZ = bxo JF = Lzy3 GC = Ls2s  FE c73 GF cxs, AG = L4Jq ED = L6J6 BD = Lzjn Bc = dj7 où a,b,c,d,R, L2, L3, L4, Ls, L6 et L7 sont des constantes dimensionnelles de lindex
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2023
+Page 4 | 9
 
+--- page 7 ---
+Concours Technologie Épreuve STA
+MSI & RDM
+Mise en situation, Données & Hypothèses
+Les paramètres représentant les mouvements des composants de lindex sont exprimés par les rotations a, 82,83,84,05,06 et B ainsi que le paramètre de translation exprimé par 1 qui est défini par la relation vectorielle : JR Àj3 . Ce paramètre varie entre deux valeurs limites Amin et Amax Les représentations planes des rotations sont précisées dans les Figures 05.a et 05.b.
+Yo
+Yo
+Yz
+Z0
+02 72
+73
+Figure 05.a Représentations planes des rotations & , 02 ,03 et 04
+yo
+Yo
+ys
+y6
+{s
+76
+Figure 05.b Représentations planes des rotations 05 ,86 et B
+La rotation œ est celle de larbre (S1) de lactionneur (M), il est considéré comme entrée du mécanisme; alors que la rotation B est celle de la phalangette (S7) qui est prise comme sortie de la chaîne de solides composants lindex: Cette rotation est associée à la sortie représentée par la distance variable |ABIl entre le point A de la paume de la main liée à (S0) et le bout B de la phalangette (S7). Cette distance sera exprimée par x. La rotation 03 de la phalange (S3) jouera alors le rôle de paramètre intermédiaire entre Yentrée et la sortie
+Section AII- Résistance des Matériaux
+On se propose d'évaluer la résistance de la phalangine (S5) dans la configuration de prise d'objet estimée comme étant la position la plus contraignante pour la main prothétique. Dans cette section on se réfère aux notations introduites par la Figure 06.a et b. Pour simplifier Yétude, la phalangine (S5) sera modélisée par une poutre droite prismatique homogène de dimensions L * e * H (Figure 06.a)
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2023
+Page 5 | 9
 
+--- page 8 ---
+Concours Technologie Épreuve ST.A
+MSI & RDM
+Mise en situation, Données & Hypothèses
+On se propose de dimensionner la section minimale de la phalangine (S5) sous leffet des forces appliquées respectivement aux points A, B et C. 1 Action de (S7) sur (S5) au point A:R(7-5) = 7A avec ||FA || = FA = 20N et & 30" Action de (S4) sur (S5) au point C R(4-5) Fc Xcx+YcC 3. Action de (S3) sur (S5) au point B R(3-+5) = FB = YBV Où Xc , Yc et YB sont des inconnues qu'on cherchera à déterminer.
+Hypothèses et données
+Le 'poids dela phalangine (S5) est supposé négligeable comparé aux autres actions mécaniques. La phalangine (S5) est réalisée en alliage léger du type (EN AW AlM g2) caractérisée par une limite élastique à Yextension Re 200 MPa et un module d'Young 70.103MPa Le facteur de concentration des contraintes en flexion due aux singularités géométriques de la phalangine est Kt 3, Le coefficient de sécurité est fixé à : Les dimensions de la phalangine (S5) sont respectivement Longueur L a + b 40 + 20 6Omm. Largeur e = 5 mm
+y
+(a)
+A
+2
+(b)
+Figure 06 ~Phalangine (S5) (a) Modèle poutre (b) Liaisons et dimensions
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2023
+Page 6 | 9
+R(s7 - s5)
 
+--- page 9 ---
+Concours Technologie Épreuve S.TA
+Automatique
+Mise en situation, Données & Hypothèses
+Partie B: Automatique Cette partie est composée de trois sections indépendantes-désignées successivement par Étude du circuit de gestion de lalimentation Étude des circuits daffichage des signaux de commande des doigts, Étude du système de serrage. Section B.I- Étude du circuit de gestion de Yalimentation
+Dans cette section; on cherche à étudier un circuit permettant la gestion de lalimentation; assurée par un circuit séquentiel Section BII- Étude du circuit daffichage des signaux de commande des doigts
+Dans la deuxième section, on s'intéresse à un circuit combinatoire permettant la commande de Taffichage associé aux mouvements de fermeture des doigts de la main Myoélectrique: Ce circuit combinatoire est basé sur un décodeur 3 vers 8 dont le principe de fonctionnement est donné par la Figure 07 et un afficheur 7 segments_ Yo Yz (Entrée de Décodeur validation) E 3 vers 8 " Y6 B A Yz
+Figure 07 ~Décodeur 3 vers 8
+Sachant qu'avec E
+1,les sorties du décodeur sont respectivement:
+Yo CB7,
+Y1 = TB A ,
+Yz = € B7
+et Yz
+C B A
+Les circuits sont identiques pour les muscles extenseurs et fléchisseurs. On s'intéressera aux électrodes placées sur le muscle fléchisseur assurant la commande de fermeture de la main prothétique. La structure de ce circuit est illustrée par la Figure 08
+Pouce
+Circuit de Commande de Yafficheur sept segments
+Index (I)
+majeur (m) annulaire (an) 21 auriculaire (au) Figure 08 - Structure du circuit de commande de Yaffichage
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2023
+Page 7 | 9
 
+--- page 10 ---
+Concours Technologie Épreuve S.TA
+Automatique
+Mise en situation Données & Hypothèses
+Section BIlI- Étude du système de serrage
+Dans cette section; on cherche à pallier la perte de sensation tactile du patient La réponse en effort de serrage doit être suffisamment amortie pour qu'il n'y ait aucun dépassement Afin daméliorer le comportement de la main prothétique lors de la saisie d'un objet; Yeffort de serrage doit être modulé en fonction de la volonté du patient, c'est-à-dire en fonction de Tamplitude des   contractions musculaires   moyennant des électrodes   myoélectriques. Un asservissement de position est utilisé pour réguler leffort de serrage; L'ensemble peut être modélisé par le schéma-bloc de la Figure 09.
+Perturbations
+Bc(t)
+{(t)
+u(t)
+0(t)
+F(t)
+Comparateur
+Correcteur
+Moteur Mcc
+Préhenseur
+Figure 09 Schéma bloc du système
+4062 = Cm(t) - Cr(t) = fw(t): Équation  du mouvement de lensemble   (motoréducteur dt réducteur + préhenseur)
+u(t) = Ri(t) + L- di(t) + e(t) la tension d'alimentation du moteur, dt e(t) = Ke @(t) la force contre électromotrice; Cm(t) = Km i(t) le couple moteur, Avec : 0(t), 0(t) langle et la vitesse de rotation du moteur, i(t) le courant de linduit, Cr(t) = b.T.F(t) le couple résistant ramené à larbre moteur avec b 0,15 rad S -1 F(t) a.Kb.8(t) Teffort de serrage lié à l'écartement des doigts avec & 73,5. 10-5 Les caractéristiques sont R et L sont respectivement la résistance de linduit et l'inductance du moteur, Km et Ke sont les constantes du couple et de la force contre électromotrice. On prendra Ke. Km K?, 1 : rapport de réduction global; J:moment d'inertie équivalent ramené à larbre moteur de lensemble f: coefficient de frottement visqueux ramené à larbre moteur, K:la raideur de lobjet à saisir, K = 104N.m-1 La fonction de transfert du correcteur est notée R1 (p)
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2023
+Page 8 | 9
 
+--- page 11 ---
+Concours Technologie Épreuve S TA
+Automatique
+Mise en situation, Données & Hypothèses
+On suppose que le début du contact entre l'objet à pincer et les doigts a lieu à t 0. De ce fait; toutes les conditions initiales sont nulles.
+On donne à la Figure 010, l'abaque du temps de réponse réduit en fonction de lamortissement 5 (Wotr (5%) f(5))
+0o' tr 1000 500
+200
+100
+50
+20
+10
+5
+0,01
+0,05 0,1
+0,3 0,7 1
+10
+100
+Figure 010 Abaque temps de réponse réduit dun système de second ordre
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2023
+Page 9 | 9
 
+--- page 12 ---
+1 1 1  { 1
+;
+1 1 8
+5 ; 2 Hil 0 H 8 5 :/ 1 0 8 1 3 1 ; 1 1 2 1 1 1
+1
+[
+1
+1 5 2 1
+:
+6
+1
 
+--- page 13 ---
+Concours Technologie Épreuve STA
+Partie A MSI &RDM
+Document Réponses
+Partie A : Mécanique des Solides Indéformables & RDM Section AI- Mécanique des Solides Indéformables NB : Les questions spécifiées par (AN) , nécessitent une Application Numérique; où l'on doit préciser lunité AL1 Étude géométrique
+L'objectif de létude géométrique consiste à mettre en place les relations paramétriques donnant la possibilité au concepteur de prédire les conditions à satisfaire pour que lindex prothétique puisse saisir et pincer des objets de formes cylindriques (bouteille; canette; verre; etc:) A1. Exprimer; dans la base Bo(æo yo), le vecteur 0j en passant par les points I et K.
+A2. En déduire les expressions des paramètres 2 et 03 en fonction des paramètres a, 02 et des caractéristiques dimensionnelles a, R et Lz.
+A3. Utiliser la base Bo(æo yo) et la chaîne de solides {S0-53-S6-S7} pour exprimer le vecteur AB en fonction des paramètres B,03,06 et des caractéristiques L3, L6, et L7
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 20236 Page 1 | 16
 
+--- page 14 ---
+Concours Technologie Épreuve STA
+Partie A : MSI &RDM
+Document Réponses
+0888446s
+A4 Quelle est alors l'expression analytique de la distance x = IlABll qui sépare A de B ?
+6040e02e8k6? 88168241
+06048448
+a
+689}
+La   Figure est une   représentation graphique;   obtenue  par simulation numérique des mouvements de Yindex; montrant la sensibilité de x à la rotation 03 (x = |lABIl ) Pour pincer un objet cylindrique de diamètre Do, entre Yindex (S7) et la paume (S0) il serait nécessaire que la condition : (0, 9Do <x < 1,1Do) soit satisfaite.
+90
+80
+70 1 60
+50
+40
+30
+50
+55
+60
+65 03 (%)
+70
+75
+Figure 1 Écartement x en fonction de langle 03
+A5. Exploiter la Figure 1 pour établir la loi exprimant x en fonction de 03.
+684686} 448166808402681
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2023 Page 2 | 16
 
+--- page 15 ---
+Concours Technologie Épreuve STA
+Partie A MSI& RDM
+Document Réponses
+A.6. Déterminer alors les valeurs limites de x et de langle 03 qui correspondent au pincement dune canette diamètre D Do 66 mm (Tableau-1.).
+Tableau 1 Distances entre A et B et angles correspondants x (mm) (AN) 83 ( )(AN)
+Xmin
+03 min
+Xmax
+03 max
+AL2 Étude cinématique Avec étude cinématique; on cherche à établir les lois de distribution des vitesses associées aux mouvements des principaux solides constituants lindex. A.7 Exprimer, dans la base locale B3(73,g3), le torseur cinématique au point associé au mouvement du solide (S3) par rapport à la paume de la main (S0).
+A8. Déduire la vitesse du point F par rapport à (S0).
+48861088
+A9. Utiliser la base   locale B4(w4,y4), pour   exprimer   le torseur cinématique au point représentant le mouvement du solide (S4) par rapport au solide (S0).
+A.10. Déduire la vitesse du point G par rapport à (S0).
+940400+6
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2023 Page 3 16
 
+--- page 16 ---
+Concours Technologie Épreuve STA
+Partie A MSI & RDM
+Document Réponses
+411. Le pincement dun objet est réalisé en rapprochant le bout B de lindex; du point A de la paume: Utiliser les réponses aux questions A5 -A.6 pour exprimer la vitesse + correspondant à la phase de pincement dun objet; en fonction de la vitesse angulaire 03. Justifier:
+A13 Force de maintien dun objet de forme cylindrique
+Dans cette section, on 'intéressera aux conditions de pincement et de maintien dune canette cylindrique de diamètre Do et de masse Mo entre lindex et la paume (S0) en gardant laxe de la cannette la   verticale comme le montre la Figure 2 L'étendue de contact entre la main prothétique et la canette à saisir réalisé par lindex et la paume, est assimilée à une bande demi - cylindrique de hauteur H et de même diamètre Do que l'objet saisi.
+Dans la configuration de la Figure 2, la canette à saisir sera soumise aux actions mécaniques suivantes
+Le poids propre de la canette résultant de laccélération de la pesanteur g =970 La pression Po générée au niveau de la surface de contact Se, qu' exercent lindex et la paume de la main sur la canette est supposée uniforme sur la totalité de l'étendue de contact de la surface Se La force de résistance au glissement est exprimée par la relation T = fPoSeZo On donne Mo 1,0 Kg ; H = 25 mm ; Do 66 mm ; g = 9,81 m. s-2 f = 0,25
+Etendue de contact
+Canette
+Figure 2 ~Étendue de contact de Yindex et de la paume avec lobjet à saisir
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2023
+Page 4 | 16
 
+--- page 17 ---
+Concours Technologie Épreuve STA
+Partie A MSI&RDM
+Document Réponses
+A12. Déterminer la pression minimale Pomin que doit développer la main prothétique pour garantir le maintien à l'équilibre de la canette par pincement entre lindex (S7) et la paume de la main (S0) (AN)
+A
+On se propose d'évaluer le risque qu'engendre une chute de la pression de contact; quand elle passe brusquement en dessous de Pomin pour prendre une nouvelle valeur Poc. Cela provoque un glissement de létendue de contact vers le haut de la canette. Ce glissement est équivalent à un déplacement vertical suivant (~Z0) de lobjet saisi. A13. Appliquer le théorème de la résultante dynamique à la canette en projection suivant Yaxe vertical Z0, pendant la phase de glissement:
+Al4. Déduire la composante suivant   Z0 de Taccélération de la canette, en fonction de f , Poc Do, H , Mo et g, avec Poc 12000 Pa (AN).
+415. Déterminer la vitesse de glissement de la canette par rapport à la main prothétique; en Yexprimant en fonction du temps et des données f , Poc Do, H , Mo et g (AN).
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2023 Page 5 | 16
 
+--- page 18 ---
+Concours Technologie Épreuve STA
+Partie A : MSI & RDM
+Document Réponses
+Pour des raisons diverses, le patient n'aura pas les moyens pour exiger une main prothétique susceptible de   pincer des objets de formes   cylindriques en développant des   pressions supérieures ou égales à Pomin: Il désire plutôt maintenir la prothèse délivrant Poc moyennant des améliorations sur les conditions dadhérence de la main prothétique et les objets saisis. A16. Quelles seront les alternatives de solutions à proposer pour répondre à ce critère ? Justifier la solution retenue
+4044 
+4604+e
+AI4 Étude énergétique L'objectif de cette section consiste à évaluer le couple que doit fournir lactionneur (M) pour la mise en mouvement de lindex de la main prothétique dans le plan horizontal   parallèle à To(0,o yo). Le couple moteur exercé par Yactionneur (M) à larbre (S1) admet pour expression CM Cmzo Ce couple permet de mettre en mouvementlindex de la main prothétique dansle plan horizontal parallèle à To(0,z0 }o). Les masses des pièces (S2), (S4), (86), (S5) et (S7) sont négligées. Toutes les liaisons entre les composants de Yindex sont supposées parfaites. L'arbre (S1) de Yactionneur (M) est caractérisé par une masse M1 un centre dinertie G1 et une matrice centrale dinertie [Ic ] Ses caractéristiques inertielles sont définies par A1 ~E1 OG1 @1 20 et [Ic] B1 ~E1 C1 (G171J1,20) La phalange (S3) est caractérisée par une masse M3, un centre dinertie G3 etune matrice centrale dinertie [Ic;] Ses caractéristiques inertielles sont définies par A3 ~F3 JG3 a3 73 + b3y3 + c3 70 et [Ics] ~F3 B3 (G3,73,83,20)
+Avec a1 a3 ,b3 et c3 sont des constantes dimensionnelles. Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2023 Page 6 16
 
+--- page 19 ---
+Concours Technologie Épreuve STA
+Partie A MSI & RDM
+Document Réponses
+A17. Donner Texpression de lénergie cinétique Ecde lensemble formé par Yarbre (S1) de Yactionneur (M) et la phalange (S3) dans leurs mouvements par rapport au repère galiléen lié à la paume de la main
+080487014884830450348741
+Pa
+768662
+397a
+A18. Déterminer la puissance motrice développée par larbre (S1) de lactionneur (M).
+A19. Écrire l'équation qui découle du théorème de Yénergie cinétique appliqué à lensemble {(S1)-(S3)} dans son mouvement par rapport au référentiel galiléen lié à la paume de la main (SO).
+A20. Déduire Yexpression analytique du couple Cm développé par Yactionneur (M).
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs 
+Session 2023 Page 7 | 16
 
+--- page 20 ---
+Concours Technologie Épreuve STA
+Partie A MSI&RDM
+Document Réponses
+Section AII- Résistance des Matériaux
+A21. Écrire, dans la base locale (æ,ÿ), les équations d'équilibre en force de la phalangine (S5).
+A22 Écrire, dans la base locale (æ,y),les équations déquilibre en moment de la phalangine (S5).
+one
+A23. Déduire des équations d'équilibre de la phalangine (S5), les inconnus de liaison en fonction de FA
+A24. Déterminer les composantes du torseur de cohésion tout au long de la ligne moyenne de la poutre. Préciser le type des sollicitations simples.
+Zone 1 : 0 < x < a
+Type de sollicitations
+Zone 2 : a < x < L
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2023. Page 8 16
 
+--- page 21 ---
+Concours Technologie Épreuve STA
+Partie A : MSI&RDM
+Document Réponses
+Type de sollicitations A25. Tracer les diagrammes des efforts (Figure 3) (N)
+Figure 3 ~Diagrammes des efforts
+A26. Tracer les diagrammes des moments fléchissant Mfz (Figure 4) Mfz(Nm)
+Figure 4-Diagrammes des moments fléchissant
+427.Dans quelle section droite de la poutre, le moment fléchissant Mfz est maximal ? Donner sa valeur absolue |Mfz|
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2023 Page 9 16
 
+--- page 22 ---
+Concours Technologie Épreuve ST.A
+Partie B : Automatique
+Document Réponses
+Partie B Automatique Section B.I- Étude du circuit de gestion de Yalimentation Problématique malgré le filtrage, les signaux issus des électrodes restent quelque peu bruités On se propose d'analyser les solutions, afin de s'affranchir de ces variations de tensions. Optimisation de la commande Afin de ne pas continuellement mettre à contribution la batterie, le moteur n'est piloté que lorsque les contractions musculaires dépassent une valeur seuil. Une solution consiste à mettre en rotation le moteur dans le sens de l'ouverture < MO > (respectivement fermeture < MF >) des doigts dès que la tension délivrée par l'électrode 1 (respectivement électrode 2) passe au-dessus du seuil de 0,5 V et s'arrête dès que celle-ci passe en-dessous du seuil de 0,3 V. Les variables d'entrées /sorties de la carte de commande sont alors: a1 = 1, Si U1 2 0,5 V Entrées Sorties a1 = 0, Si U1 < 0,5 V a1 az = 1, Si U2 2 0,5 V a2 = 0, Si U2 < 0,5 V az Circuit MO de b1 = 1, Si U1 <0,3 V b1 commande b1 = 0, Si U1 > 0,3 V MF bz = 1, Si U2 < 0,3 V bz = 0, Si U2 > 0,3 V bz
+Cahier des charges L'ouverture (respectivement la fermeture) débute dès que U1 2 0,5 V (respectivement U2 2 0,5 V) et s'arrête dès que U1 < 0,3 V (respectivement U2 < 0,3 V). Hypothèse on supposera que les tensions U1 et U2 ne peuvent pas être simultanément supérieures ou égales à 0,3 V. B.1. Justifier qu'il s'agit alors dun système séquentiel.
+B.2. Donner les expressions des réceptivités de la structure du grafcet de commande du moteur présenté par la Figure 5.
+10
+MO
+20
+MF
+Figure 5 ~Grafcet de commande dun moteur pour les deux sens de rotation
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2023 Page 10 | 16
 
+--- page 23 ---
+Concours Technologie Épreuve ST.A
+Partie B Automatique
+Document Réponses
+Section BII- Étude du circuit daffichage des signaux de commande des doigts Lobjectif de ce circuit est de pouvoir afficher les signaux de commande des moteurs placés au niveau des différents doigts de la prothèse; afin de vérifier leur émission. Principe delaffichage On désire avoir les affichages définis sur la Figure 6. Lorsque l'électrode détecte un signal électrique pour commander la fermeture du pouce; Yafficheur indique la lettre P. La détection dun signal électrique pour commander la fermeture de lindex est affichée par la lettre I Si lon détecte les signaux pour commander la fermeture du pouce et de lindex; lafficheur indique le chiffre 2 Si Yon détecte les signaux électriques pour commander la fermeture dun, de deux ou de trois doigts (majeur; annulaire; auriculaire), signal (S = 1), lafficheur indique le chiffre 3. Si lon détecte les signaux électriques (S et P) ou (S et I), l'afficheur montre le chiffre 4. Enfin, pour les signaux commandant la fermeture des 5 doigts, lafficheur fait apparaître le chiffre 5.
+Figure 6 ~Les différents états de lafficheur suivant les signaux détectés B.3-B.9. Compléter la table de vérité suivante
+Questions
+B.3 :
+B.4 :
+B.5
+B.6 :
+B.7 :
+B.8 :
+B.9
+Entrées
+b
+f
+g
+B.10-B.16. Déterminer les équations non simplifiées des différentes sorties sous forme de somme de produits à partir de la table de vérité. ( Ne pas mettre en facteur) B.10:a =
+B.11:b =
+B.12:c =
+B.13:d =
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2023 Page 11 | 16
 
+--- page 24 ---
+Concours Technologie Épreuve ST.A
+Partie B Automatique
+Document Réponses
+B.14:e =
+B.15:f =
+B.16: g
+B.17- B.23. Compléter le logigramme relatif aux différentes équations obtenues, en utilisant seulement des opérateurs logiques de base à 3 entrées. NB Une Entrée libre vaut < 0 > logique Chaque sortie doit être représentée indépendamment des autres.
+B.17
+21
+B.18
+21
+21
+B.19
+Yo
+Y1
+21
+Yz
+B.20
+Y3
+21
+E =1
+Y4
+Ys
+B.21
+Y6
+21
+Yz
+B.22
+21
+21
+P 1 s
+B.23
+g
+21
+21
+Figure 7-Circuit logique assurant la commande des différents segments de lafficheur
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2023- Page 12 16
 
+--- page 25 ---
+Concours Technologie Épreuve STA
+Partie B Automatique
+Document Réponses
+Section B.III - Étude du système de serrage
+Cahier des charges Pour pallier la perte de sensation tactile du patient porteur de la prothèse Myoélectrique, la   réponse en effort de serrage doit   être suffisamment amortie aucun dépassement et un temps de réponse à 5 % compris entre 100 ms et 400 ms, avec une erreur de position nulle et une erreur de vitesse inférieure à 10%. On se propose dans cette section; d'étudier la dynamique du serrage dun objet et d'analyser les solutions techniques mises en jeu pour répondre aux exigences du cahier des charges. Afin d'améliorer le comportement lors de la saisie d'un objet, leffort de serrage doit être modulé en fonction de la volonté du patient; c'est-à-dire en fonction de lamplitude des contractions musculaires détectées par les électrodes myoélectriques: un asservissement de position est utilisé pour réguler l'effort de serrage.
+B.24. Compléter le schéma bloc de la Figure 8. Ke E(p) I(p) Cm(p) U(p) Km
+0(p) Se(p) F(p rIp a.K.b
+Cr(p)
+r.b
+Figure 8~Schéma fonctionnel de la motorisation avec serrage
+B.25. Déduire lexpression de la fonction de transfert en boucle fermée H (p) sous la forme suivante
+@(p) Kap H1 (p) = Cm(p) 1 + Bp + Apz
+0(p) Cm
+H1 (p)
+Dans la suite; on considèrera le schéma bloc de l'asservissement de la Figure 9 Ke E(p) 0 c (p) U(p) Cm (p) 0 (p) F(p) H1 (p) r/p a.K.b R1 (p) Km / (R + Lp)
+@(p)
+Figure 9 ~Schéma fonctionnel de Vasservissement
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2023 Page 13 16
 
+--- page 26 ---
+Concours Technologie Épreuve ST.A
+Partie B Automatique
+Document Réponses
+B.26. Le schéma bloc de Yasservissement de la Figure 9, peut être présenté par la Figure 10. Donner alors lexpression de Hz (p) sous la forme @(p) Kzp Hz (p) U(p_ 1 + Cp + Dp2 + Ep3 0c(p) € (p) U(p) @(p) F(p) R1(p) Hz (p) rIp a.K.b
+Figure 10~Schéma fonctionnel simplifié de lasservissement
+9(p) H2 (p) U(p) B.27. Préciser   Yexpression   de Kz et  exprimer C ,D et € en fonction de A, B et des autres paramètres.
+Kz
+Les calculs numériques ont permis dobtenir Yexpression de Hz(p) sous la forme 16,2p Hz (p) 1+3350) (1 + 8)(1+2) B.28. Montrer que le système (machine à courant continu) décrit par Hz (p) est bien stable
+Dne
+0460 00006
+4 90
+Dans la suite on négligerala constante du temps la plus petite Cette hypothèse sera vérifiée si cette constante de temps négligée est bien inférieure au temps de réponse du système demandé Lexpression simplifiée de H2(p) est donnée par 16,2p H2 (p) (1 + 8)(1+22) Concours nationaux d'entrée aux cycles de formation dingénieurs Session 2023 Page 14 16
 
+--- page 27 ---
+Concours Technologie Épreuve S.TA
+Partie B : Automatique
+Document Réponses
+B.29. Déterminer la fonction de transfert du système en boucle ouverte H;(p)
+400441
+0(p) H3(p) {(p)
+B.30. En prenant R (p) = Kp 1+I12, avec Kp > 0 et Ti > 0, déterminer Ti afin déliminer la Tip constante du temps la plus grande. Donner alors la nouvelle expression de H; (p)
+0(p) H3(p) e(p) B.31. Pour cette valeur de Ti   déterminer  la fonction de transfert du système en boucle fermée H4(p) sous forme canonique.
+eeee
+0(p) H4(p) @c(p) 1 +
+B.32. Conclure quant à la stabilité du système en le justifiant.
+B.33.Déterminer les erreurs statiques unitaires de position €p (0) et de vitesse €v(co)en fonction de Kp
+B.34. Quelle condition doit-on imposer sur Kp pour avoir €v(%) 109 ?
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 20230 Page 15 | 16
 
+--- page 28 ---
+Concours Technologie Épreuve ST.A
+Partie B ; Automatique
+Document Réponses
+B.35. Déterminer la fonction de transfert du système sous forme canonique Hs(p)
+004 4 3
+F(p) Hs (p) 8c (p) 1 +
+B.36.Déduire les expressions dela pulsation propre et du coefficient damortissement en fonction de Kp  ainsi que Y'expression et la valeur numérique du gain
+0o
+Ks
+AN: Ks
+B.37.On souhaite avoir une réponse en effort de serrage qui_ soit la plus rapide sans dépassement Déterminer dans ces conditions la valeur de Kp:
+B.38. En utilisant labaque de la Figure 010, déterminer les temps de réponse à 5% pour que Kp vérifie une réponse en effort sans dépassement avec une erreur de vitesse inférieure à 10%.
+4 4 $ ? 4 4 4 0 4 4
+e
+B.39.Conclure quant au cahier des charges exigées.
+B.40. L'hypothèse de négliger la constante de temps la plus petite est-elle justifiée ?
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 20230 Page 16 16
+6000

@@ -1,4 +1,68 @@
+--- page 1 ---
+RÉPUBLIQUE TUNISIENNE *** Ministère de lEnseignement Supérieur
+Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs Session: Juin 2001
+Concours en Physique et Chimie Épreuve de Mathématiques Durée:  4H Date: Juin 2001 8Heure Nb pages: Barême: Ex: 4pts Pb Partie I: 4,5pts Partie II: 6pts, Partie III: 5,5pts
+L'usage des calculatrices est strictement interdit. Une grande importance sera attachée à la rigueur du raisonnement, à la clarté de la rédaction et au soin de la présentation. Il est rappelé que tout résultat énoncé dans le sujet peut être utilisé pour traiter la suite, même s'il n'a pu être démontré.
+Exercice.
+Soit   RX] Fespace vectoriel des polynômes à coefficients réels et soit R[X] celui des polynômes de degré au plus égal à n. +0 Pour P , Q € R[X] on pose < PlQ>= P(z)Q(z)e-Idz. 1) Montrer que > définit un produit scalaire sur R{X] (On vérifiera lexistence de lintégrale ci-dessus ) Instyu; Yrsaioire) 2) On pose pour n € N, 5 BIBLA7HEQU2 01r:s . 8; #7146 SN Ln(I) = e' 4[r"e-*] n! dr"
+Vérifier que
+Ln(z) =f(Ic;* k=0 k!
 
+--- page 2 ---
+3) Soit P € RX] et n € N. En utilisant l'égalité (1) établir (ZI)" +0 Ln/P >= e-I1" P(n) (z)dz. n!
+Montrer que pour tout entier n la famille (Lo, L1,  Ln) est une base orth- normale de Rn[X] 5) Réciproquement soit une suite (en)neN d'éléments de RX] possédant les pro- priétés suivantes 1 , si m = n i) V(m,n) € N , < en/em >= Bnm ={0; si m # n (symbole de Kronecker) . ii) Vn € N; degré(en) = n. iii) Vn € N; en(0) 2 0. Montrer que Vn € N, en Ln Les polynômes Ln _ n € Nsont appelés les polynômes de Laguerre.
+Problème
+Partie I. Soit X un nombre réel appartenant à Jo, 1[: On pose +0 tA-1 tÀ-1 I(X) = 'dt ; J(A) = J dt 1+t 1+t
+1) Justifier lexistence de I et J et montrer que
+I(A) =J(A) + J(1 _ X)
+2) a) En utilisant le théorème de convergence dominée montrer que +o J(A) = 2(1 n=0 n + X +00 (-12"-1 Etablir que I(X) = +21 2 1 n2 A2 n=1 3) Soit fx la fonction 2T-périodique définie par
+fx(t) = cos(At) pour tout t € [~", T]
+2
 
+--- page 3 ---
+a) Chercher les coeffcients de Fourier trigonométriques de fx. b) Montrer que pour tout t € R +0 fx (t) sin(zA2f1 + 24? 422777 cos(nt)]: T X n=1 n2 _ 12 Calculer les sommes suivantes
++8 (Z1)"-1 +0 n2 ~42 ; 2n? n=l n=1
+n=1
+[n? _ 42]
+4) En déduire que I(X) sin(TÀ)  Partie II. On considère la fonction Gamma définie par
++0 e-ttr-'dt.
+T(z) =
+1) a) Montrer que la fonction T est bien définie pour æ 0 et que
+VI > 0 , T(I+1) = IT(s) +o e~t? VT b) Sachant que dt = montrer que F(2) =Vi. c) Soient œ , B ,  des réels strictement positifs  Montrer que
++oo Bz; ~ItB t9-1 'd = [(8) 2) Soient œ,B des réels strictement  positifs et h [0, +œ[  € une fonction continue en 0 On suppose quil existe Io 0 tel que
++0 ~1otb t"~1/h(t) |dt
++0
+Soit n > 0. Montrer que VI > Io Vt > 7,
+exp(-ztf) < exp(-rotf) exp(-(r o)r):
+b) En déduire que Vs > To
++0 ~Itb t"~1 (h(t) h(o))dt| < Jo e~zt8 't"-1|h(t) h(o)|dt e-(r-ro)nf +0 ~rot8 t"-1 (|h(t)| + Jh(o)lJdt.
 
+--- page 4 ---
+Montrer que
++00 lim Bz8 e-It8 = 't"-'h(t)dt = F(g)h(o) I9+0
+(2)
+3) On pose pour t > 0 = P(t) = t - 1 _ Log(t) a) Montrer que Vt > 0 ,t # 1  +(t) > 0, et que
++0 Vx > 0= [(s+1) = r +{e-'vI e-r(t) dt.
+b) Soient k1 et k2 les fonctions définies par k1(t) = Vw(t)t € [1, +o[ k2(t) = V+(t) , t €J0,1] Montrer que k1 est une bijection croissante de [1, +%[ sur [0, +o[ et que k2 est une bijection décroissante de Jo, 1] sur [0, +%[: Soient f  et f2 leurs fonctions réciproques respectives. Montrer que pour I > 0
++0 ~I(t) dt
++o ~Is2 f{(s)ds
++oo e-Is? f{ (s)ds .
+e-I(t) dt
+En appliquant légalité (2) pour œ = 1 et B = 2 aux fonctions h1 et h2 définies par
+f{(t) = si t > 0 h1(t) = { V2 , si t =0
+f2(t) = si t > 0 h2(t) = { 54, si t =0
+monter que
++00 lim Vr e ~s(t)dt = V2T 1-+0
+Déduire de la troisième question la formule de Stirling
+[(z +1) ~ V2ms +e-z 2 4 +00.
+b) Montrer que
+lim I"' I(r+s2 =1 , s > 0. 19+0 T(z)
 
+--- page 5 ---
+Partie III. On considère la fonction bêta B :J0; +o[xJo; +%[-J0, +o[ définie par B(z,y) = J +~'1 - t)"-'dt. 1) a) En intégrant par parties montrer que B(r + 1,y) = If(z,y+1) y b) En utilisant l'égalité (1 _ t)v = (1 - t)v-1 _ t(1 _ t)"-1 ,y > 0 , t eJo; 1[ , montrer que B(x,y +1) = B(I,y) - B(r + 1,y) c) En déduire que P(z,y) = 5+2B(+l,%) d) Montrer par récurrence sur n que T(s) [(z B(z,y) ty+"+12p(r+n+1,0) T(r +y). T(I+n+1) 2) a) En effectuant le changement de variables t = e- ~u montrer que +0 Vn € N, B(s + n + 1,y) = ~u(s+n+1)u"-1(1e ")"-Idu.
+b) En utilisant légalité (2) montrer que pOur tout y > 0
+lim n'B(r+ n + 1,y) = T(y) na+0 En déduire la formule d'Euler B(z,v) = FG)EW2 T(r+%) 3) a) En effectuant le changement de variables montrer que +0 8*-] B(z,ù) = ds (1 + s) +y b) En utilisant la question I-4 déduire la formule des compléments
+Vx €Jo, 1[ , T(r)r(1 - s) = sin(Tz) ` 1/2 a) Montrer que B(I,I) = 2/7 (t(1 - t))"-'dt , I > 0. b) En effectuant le changement de variables s = 4t(1 _ t) montrer que
+222-1B(z; z) = B(I,1/2)_ I > 0.
+c) En déduire la formule de duplication de Legendre [(2z) +22-YT()T(z+ 4) , I > 0
+5/

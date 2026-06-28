@@ -1,6 +1,114 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de /Enseignement Supérieur
+Concours Nationaux d'Entrée aux Cycles de Formation d'Ingénieurs Session Juin 2000
+(Peeparhtoie ^ bibliotheQue ) 7 Yeiu;:s ^ fDucexny)> Concours en Technologie Epreuve de Physique
+Durée 4 Heures
+Date
+juin 2000
+Heure 8h
+Nb pages
+Barème Problème 1 (13 points)
+Problème 2 points)
+lusage dunc calculatrice non-programmable est autorisé
+Si, au cours de Vépreuve, un candidat repère ce qui lui semble être une erreur d'énoncé, il le signale sur sa copie et poursuit sa composition en indiquant les raisons des initiatives qu'il est amene à prendre. L'épreuve se compose de deux problèmes comportant chacun des parucs largement indépendantes entrc elles, les candidats   peuvent les résoudre dans l'ordre qui leur  convient en respectant   néanmoins   la numerotation des qucstions
+PROBLEME 1:ELECTROMAGNETISME Dans un matériau conducteur, les charges mobiles (les électrons) interagissent entre elles et avec les charges fixes du matériau; ces interactions sont alors decrites dans le cadre d une théorie quantique.  Cependant; une approche phénoménologique classique peut être adoptée pour expliquer ]a conductivité de ces matérianx Cela consiste traiter les électrons (de densite volumique n; de charge ~e et de masse m) comme des particules  obéissant à la mécanique classique On modélisera les   collisions   des électrons   libres du cenducteur avec le reste du matériau par une force de frottement visqueux 7=- mv où T est une constante de temps appelée durée de relaxation des vitesses et représente la vitesse moyenne d'un électron
+Dans   la suite du   problème, on négligera_le poids de_Lélectron par   rapport aux forces éiectrique et magnétique qui lui seront appliquées 1-Conductivité statique
+Le conducteur est soumis à un champ électrique statique uniforme Eo 1 - Ecrire le principe  fondamental   de la dynamique pour un électron en  déduire une relation entre la vitesse moyenne des électrons et Eo lorsque le régime permanent est atteint.
+/7
 
+--- page 2 ---
+2 - Calculer la densite volumique de courant
+qui s' établit dans le conducteur en fonction
+de Eoet déduire la conductivité statique Yo du conducteur en fonction de n, e, m et -
+3 - Le conducteur étudié est le plomb de conductivité Yo=4,8.106 Q-1m calculer -
+On donne n= 3,2.1028 M-; e=1,6.10-19 C; m=9,1.10-31 kg
+4 - L'intensité du champ électrique appliqué au conducteur est égale à 1OOVoltm. a) Calculer la vitesse moyenne des électrons . b) La vitesse Vo dun électron entre deux collisions   peut être estimée en égalisant Fénergie cinétique de [électron avec lénergie thermique par particule @ke T où T est 2 la température du conducteur et kg est la constante de Boltzmann Calculer Vo pour une température de 3OOK c) Comparer le valeur obtenue à celle de la vitesse moyenne V et commenter On donne kB =1,38.10-2 Joule/K.
+II- Conducteur en régime sinusoïdal L'espace est rapporté un repère orthonormé  (O,x,y;z) Le conducteur   précédent   (de constantes électrique et magnétique €o,Ho ) occupe le demi-espace z > 0. On considère une onde plane progressive monochromatique polarisée suivant Ox, elle se propage vers les Z croissants_ Dans le demi-espace vide z < 0, le champ électrique de londe s'écrit comme suit E =Eo; exexpil koz-@t
+Cette onde subit une réflexion à linterface vide conducteur et donne lieu à une onde réfléchie de champ 5et une onde transmise de champ €
+E=Eo €x expzi(koz+ot) E, ZEo exexpil kz-@t
+Où ko est la composante suivant z du vecteur donde dans le vide et k la composante comclexe du vecteur &'onde dans le conducteur. Les amplitudes Ex et Em peuvent alors être complexes:
+A- Onde transmise
+Les électrons du plomb sont soumis à laction des champs électrique et magnétique de {'onde transmise, il s'établit dans le conducteur un courant de densité volumique ]
+1 - Ecrire le principe fondamenal de la dynamique pour un électron et montrer que /action du champ magnétique sur |electron est négligeable par   rapport à celle du champ électrique .  En déduire que la conductivité complexe en régime permanent est donné par
+/?
 
+--- page 3 ---
+Yo 2T-@t
+2- a) Ecrire les équations de Maxwell dans le conducteur et   deduire la relation de dispersion klo) de ce milieu . E2 b)   Comparer le rapport à la valeur de 7 calculée précedemment et montrer que 1a Yo relation de dispersion du conducteur peut se simplifier  dans le cas   des faibles fréquences" (@ << 1) pour donner
+k=iou,%
+Données Llo =41.10-7 SI, c=3. 108 m/s et €= Uocz
+On   adopte lapproximation  des ~faibles   frequences' (@ << problème
+dars  le reste du
+3 - a) Ecrire [expression du champ électrique E. de /onde dans le conducteur En déduire la structure de l'onde correspondante On posera @HoYo 8 b) Donner une interprétation physique à la quantité & c) Calculer & pour @=10 rad/s.
+4 - Déterminer 1'expression du champ magnétique de !onde dans le conducteur, on écrira Tamplitude Bo du   champ  magnétique en fonction de Ev En se   basant suI des considérations physiques; que peut-on dire de lamplitude Ec du champ electrique dans le conducteur lorsque la pulsation de Fonde tend vers zéro
+B- coefficient de réflexion et de transmission
+Les coefficients de réflexion [ et de transmission t sont définis comme suit
+Eor 1 Eo Eo: [ = Eo
+Linterface vide-conducteur ne porte aucune densité surfacique de courant.
+1 - a) Ecrire les relations de continuité des champs électrique et magnétique à Finterface vide-conducteur . b) En déduire les coefficients de réflexion et de transmission. c) Donner les expressions de ces coefficients pour @ très faible (@ = 0)
 
+--- page 4 ---
+2 - Montrer que le champ magnétique peut pénétrer à lintérieur du conducteur lorsque la pulsation 0 est très faible
+III - Supraconductivité
+Le plomb devient   supraconducteur pour des temperatures inférieures 7,9 K; s2 conductivité   devient   infinie on dit alors que le   plomb subit une transition de   phiase
+conducteur-supraconducteur à T. 7,9 K Pour expliquer ce phénomène, London a émis F'hypothèse de lexistence dans cette phase supraconductrice de particules appelées super - électrons (de masse m et de charge ~e) qui se déplacent à lintérieur du plomb sans subir les forces de frottement. La densité volumique des super-électrons ns est donc nulle dans la phase conducteur du plomb et non nulle dans sa phase supraconductrice et tend vers zéro lorsque la température T tend vers Ic Le supraconducteur est plongé dans un champ électromagnétique (EB) ; on négligera Ja force magnétique appliquée aux super-électrons par rapport à la force électrique
+1- Ecrire le principe fondamental de la dynamique pour un super-électron; en déduire que le supraconducteur est le siège dun courant volumique de densité Js obéissânt Féquation
+rotJ +B ôt n,e
+0
+2- La seconde hypothèse de London est que la quantite entre crochets de léquation est nuile Ecrire les équations de Maxwell  dans le milieu supraconducteur. En déduire Féquation de propagation du   champ magnétique B Montrer   alors que le chanp statique B vérifie |équation AB _ Hon,e 6 =0 m 3 - Le plomb occupe toujours  le  demi-espace 0 un champ   magnétique   statique Bo =Bo ey règne dans le demi-espace z < 0 a) Montrer que la solution Bv(z) de l'équation (2) est caracterisée par une longueur de pénétration AL dont on donnera Fexpression en fonction de ns, m et Ho b) Quelle valeur limite prend 2L lorsque T approche Ic c) Ce résultat vous semble-t-il conforme à la conclusion de la question II-B-2 ?
+4- L'expérience montre que 11 est de lordre de 3.10-8 m. Caiculer la densité ns des super-électrons, comparer la valeur obtenue à celle de n donnée en I-3
+5- La théorie quantique BCS de la supraconductivité est basée sur le fait que les porteurs de charges responsables de la supraconductivité sont des paires d'électrons de masse 2m, de charge ~2e et de densité n, Montrer  que 1expression de la longueur de 2 pénétration ^L est bien invariante pâr cette transformation
+/+
 
+--- page 5 ---
+PROBLEME 2 ELECTRONIQUE
+A-
+On considère le circuit de la figure 1. L'amplificateur operationnel est suppose ideai
+s(t)
+Rz R,
+Figure 1
+1- Donner les caractéristiques dun amplificateur opérationnel idéal. 2- Calculer !'expression du coefficient d'amplification en tension Av S(12 du cizcuit dë e(:) la figure 1 3 - On souhaite avoir Av = [ (suiveur de tension), donner les différentes pcssibiliiés cn précisant les valeurs de Rp et Rz dans chaque cas. 4- Parmi les possibilités trouvées en 4-3, on1 choisit le cas particulier ou le circuit du suiveur necessite le minimum de composants Préciser dens ce cas les valeurs de Rp et Rz. Donner alors le schéma du circuit correspondant . Quelle sont les valeurs des impédances d'entrée Ze et de sortie Zs du circuit obtenu
+B-
+On considère le circuit de la figure 2. L'amplificateur opérationnel est supposé idéal .  Ce circuit est alimenté par une tension sinusoïdale e (t) = V, sin @t
+e1 (t)
+R
+S1 (t)
+Figure 2
+s /7
 
+--- page 6 ---
+5 ( 1- Déterminer 1'expression de la fonction de transfert complexe H () de ce 9() circuit, où S1 10) et &() désignent  respectivement les amplitudes complexes de s (t) et de
+2- Calculer les expressions de H () et de @ (@)
+ArgH; (@)
+En déduire la pulsation de coupure @cI de ce circuit. 3 - Tracer les diagrammes de Bode asymptotiques de H()
+G (0) 2Ol0g [H() et @ (@ en fonction de logo
+4- Préciser la nature de ce filtre.
+C
+On considère maintenant   le circuit de  la   figure 3 L'amplificateur   opérationnel est supposé idéal. La tension d'entrée est ez(t) = Vz sin @t.
+S2 (t)
+e2
+C
+Figure 3
+1- Déterminer lexpression de la fonction de transfert   Hz()
+de ce circuit, où
+S2() et €2() désignent respectivement les amplitudes complexes de s (t) et de ez(t)
+2- Calculer les expressions de Hz(o) et de @2(0) = ArgH ()
+En déduire la pulsation de coupure @c2 de ce circuit.
+3 - Tracer les diagrammes de Bode asymptotiques de Hz() Gz(0) = 2Ol0g  JHz( ) et @2(0) en fonction de logo 4- Préciser la nature de ce deuxième filtre.
+R2
 
+--- page 7 ---
+D-
+Le circuit de la figure 4 est obtenu en associant en cascade les circuits de la figure 2 et de la figure 3.
+C1
+Rz
+s2(t)
+C2
+R1
+Figure 4
+52
+1- Calculer la fonction de transfert   Hlo) e1
+du circuit de la figure 4
+2- Tracer les diagrammes de Bode asymptotiques de H(o) G(o) 2olog H() et @(0) = ArgH(o) en fonction de logo dans les trois cas suivants en précisant à chaque fois la fonction du circuit ainsi obtenu: a) R, =IOR? C,=C2= b) Rp =Rz C1=Cz Rz c) R1 C1=C2 10
+7/7
+S1 (t)

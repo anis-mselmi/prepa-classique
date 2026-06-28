@@ -28,3 +28,37 @@ On se place dans la situation où les deux miroirs sont orthogonaux (a = U/2) On
 I Déplacement de la source 1 On déplace le point source S parallèlement à Oy de sorte que S1 et Sz subissent le même déplacement Comment est modifié le système des franges ? Conclure. 2 Même question si le déplacement de $ a lieu, dans les mêmes conditions; parallèlement à Ox dune quantité SS' = Xo. Quelle est alors la position de la frange centrale ? Radiations monochromatiques 1 La source ponctuelle émet deux radiations monochromatiques de même intensité, de couleur verte et jaune de longueurs d'onde respectives 11 = 0,546 um et 12 = 0,578 um. (a) Montrer que le système de franges est périodiquement en coïncidence ou en anti- coïncidence () En se déplaçant sur 1écran E à partir de la frange centrale; calculer le nombre n1 d 'interfianges pour obtenir la première coïncidence. 2 On sélectionne à laide dun filtre; la raie jaune qui est en réalité composée de deux radiations d'égale intensité très voisines et de longueurs d'onde 172 = 0,577 pm et 1"2 = 0,579 pm. On posera 44 = 1"2-1/2et 12 = 1(1"2+1'2). 2 (a) Calculer [intensité I(M) en un point M(xy) de lécran. On introduira lordre dinterférences P2(M) = G(M2et on fera ]'approximation A1 << 12 12 (b) Montrer que l'intensité peut s'écrire sous la forme I(M = Io[l+V(x) cos 2rpz(M] dans laquelle V(x) est le facteur de visibilité au point M (c) Donner les positions des minima du facteur de visibilité (c'est à dire quand il y a brouillage des   franges) et celles des maxima du facteur de visibilite,   pour un interfrange i2 = 193 um (d) Calculer lordre d'interférences pour la première coïncidence à partir de la frange centrale (e) Sachant que létendue du champ dinterférences est de 1 cm peut-on observer cette première coïncidence avec le dispositif utilisé? IV Lumière blanche 1 La source émet maintenant de la lumière blanche dont les longueurs d'onde sont comprises entre Amin 0,4 pm et Amax = 0,8 um. Qu'observe t-on sur lécran ? 2 La fente d'un spectroscope est placée parallèlement aux franges. (a) Montrer qu'il est possible dobserver un spectre cannelé à la sortie du spectroscope. Préciser alors la position dë la fente du spectroscope par rapport à la fente centrale. (b) Le dispositif utilisé est tel que D = 1 m a = 3 mm et la fente du spectroscope est placée à une position x = 1,5 mm de laxe de symétrie z'z. Calculer les longueurs d'onde correspondantes aux cannelures sombres. On supposera que la largeur de la fente du spectroscope est très petite devant les différents interfranges:.
 B-Cas_des_miroirs_de Fresnel
 Le système optique est constitué de deux miroirs plans rectangulaires M; et Mz, dont les bords adjacents ont une arête commune A de trace T dans le plan de la figure 2 (l'angle & est très faible) Afin d'augmenter la luminosité des franges brillantes, on remplace la source ponctuelle $ par une fente très fine F parallèle à /arête commune 4 des deux miroirs.
+
+--- page 4 ---
+X
+Ax
+
+M
+
+Systèmc optique
+S1
+0
+s
+S2
+ `
+Fawe !
+M,
+S
+M,
+Mz
+777 Mz Jz Fawe g
+Figure 2
+Z!
+Rc
+PR
+rayon incident quclconguc
+B
+Uo
+W <
+Y
+Ro
+X X1
+Re
+Fgure 4
+massc
+  ? -   Figure $   .  ^ 1  

@@ -1,24 +1,357 @@
+--- page 1 ---
+Instructions Cette épreuve comporte 14 pages dont 02 blanches. Les trois problèmes sont indépendants. Tout résultat doit être écrit dans les cadres adéquats. Aucun échange entre les candidats n'est autorisé. Si au cours de Fépreuve; un candidat repère ce qui lui semble être une erreur d'énoncé, il la signale sur sa copie et poursuit sa composition en indiquant   les raisons des initiatives qu'il est amené à prendre.
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 14 PAGES NUMEROTÉES 1 sur 14, 2 sur 14, 14 sur 14.
+Chimie organique
 
+Page 1 sur 14
+Concours Biologie et Géologie- Session Juin 2021
 
+--- page 2 ---
+Remarques, notations et données numériques Les trois (03) problèmes sont indépendants. Numéros atomiques Z : H = 1, C =6, N= 7,0 = 8, Br = 35
+Groupe phényle C6Hs-, Ph-
 
+Déplacements chimiques en RMN 'Hde quelques groupes
+Protons  CH;
+8 ppm
+Protons   CHz
+ppm
+Protons CH
+ppm
+CH3-C
+0.9
+CH2-C
+1.3
+CH-R
+1.5
+CH3-C-0
+1.3
+CH2-C-0
+1.9
+CH-C-0
+2.0
+CH3-C=C
+1.6
+CHz-C-C
+2.3
+CH-C=C
+2.6
+CH,-Ar
+2.1-2.3 CHz-Ar
+2.6-2.8 CH-Ar
+3.0
+CH,-CO-R
+2-2.2
+CH2-CO-R
+2.3-2.4 CH-CO-R
+2.7
+CH,-NH2
+2.1-2.3
+CH2-NH2 2.4-2.5 CH-N " - CH2-0O 3.2-3.4 CH-O
+2.8
+CH;-0
+3.3
+3.7-3.9
+CH3-C-CI
+1.4-1.6
+CH2-O-CO
+4.1-4.3 CH-CI
+4.1-4.3
+CH,-C-Br
+1.6-1.9
+CH2-CI
+3.6-3.7 CH-Br
+4.2-4.4
+CH3-C-CI
+1.8-2
+CH2-Br
+3.4-3.5 CH-I
+4.3-4.4
+CH2-I
+3.2-3.3 CH-Aromatique (Ph) 7-8,5
+Page 2 sur 14
+Concours Biologie et Géologie- Session Juin 2021
 
+--- page 3 ---
+Problème I (8,5 points) I- Le menthénal (G), dérivé du   menthol, est un produit naturel extrait de 1Eucalyptus, entre autres. Il est essentiellement utilisé pour ses vertus homéopathiques. Synthétiquement; il est possible de Fobtenir selon plusieurs voies de   synthèse; notamment, à partir du   composé A selon la suite réactionnelle suivante
+KzCrz07
+10 KCN
+'Pr
+OH
+B
+C (CioH1-NO)
+H2SO4
+20 H3O+
+Chauffage HzO/H2SO4 D (nitrile) H2O Chauffage
+SOCI2 E (Acide carboxylique) F Pyridine, 609C
+H2/Pd
+ .
+F
+(Menthénal)
+Donner le nom de A selon la nomenclature systématique internationale.
+2- Le composé A peut-il présenter une isomérie géométrique ? Justifier.
+3 - Le composé A peut-il présenter une isomérie optique ? Justifier .
+n <
+6 ` . . .: . . 3 
+Page 3 sur 14
+Concours Biologie et Géologie - Session Juin 2021
 
+--- page 4 ---
+4- En adoptant la conformation chaise ci-dessous; représenter le stéréoisomère Cis de A le plus stable, qu'on appellera Al . Les numéros des carbones indiqués correspondent à la nomenclature de A
+2
+3
+5- Représenter le conformère A2 en équilibre avec Al.
+ 
+  [
+6- Représenter les isomères de configuration Trans de A, que Pon appellera A3 et A4. Parmi tous les isomères de A, désigner celui qui a la conformation la plus stable. Justifier .
+Page 4 sur 14
+Concours Biologie et Géologie- Session Juin 2021
 
+--- page 5 ---
+7- Sachant que le composé E est lacide 4-isopropylcyclohex-I-ène carboxylique; donner toutes les structures chimiques planes de B à G.
+Page 5 sur 14
+Concours Biologie et Géologie- Session Juin 2021
 
+--- page 6 ---
+IL. Une autre méthode de synthèse de G, réalisée en deux étapes, consiste à utiliser comme substrat de départ, le diol H.
+OH
+OH
+H
+La séquence réactionnelle débute par une oxydation douce de H en présence de PCC (Pyridine  Chloro  Chromate). Il en résulte un produit 1 de  formule brute CioH1802. Celui-ci est soumis aux réactions suivantes 
+4 MeO Na
+1 (C1oH18O2)
+J + K
+MeOH
+G (Menthénal)
+M (minoritaire)
+~HzO
+K
+L + N
+H2O
+J et K sont des isomères de position: M, Net L sont des isomères du Menthénal G.
+1-Donner le nom de H en nomenclature systématique internationale.
+Page 6 sur 14
+Concours Biologie et Géologie- Session Juin 2021
 
+--- page 7 ---
+2- Sachant que L est plus stable que N, identifier les structures chimiques de I, J, K, L, Met N.
 
+3- Citer un test spécifique de la fonction chimique dans I.
+Page 7 sur 14
+Concours Biologie et Géologie - Session Juin 2021
 
+--- page 8 ---
+Problème II 6,75 points) 1 - On considère le (2S,3S)-2-Bromo-3-méthylpentane désigné par A. L'action de la soude  NaOH sur A dans un solvant   aprotique  conduit par une réaction bimoléculaire à deux produits B (C6H12) et C(C6H140) 1 Br 1 Donner la représentation de A selon le modèle ci-contre
+C2H5
+2 - A est-il Erythro ou Thréo ? Justifier la réponse.
+3- Sachant que B présente une isomérie géométrique; représenter les structures planes de B et de C.
+Page 8 sur 14
+Concours Biologie et Géologie- Session Juin 2021
 
+--- page 9 ---
+4- Détailler le mécanisme réactionnel conduisant à B.
+go
 
+     |
 
+5 - Donner les configurations de B et de €.
+3
+6- Quel serait   le produit   majoritaire D, isomère de B, de la réaction si on remplaçait le NaOH par le ter-butylate de potassium ('BuOK) ? Donner sa représentation spatiale:
+Page 9 sur 14
+Concours Biologie et Géologie- Session Juin 2021
 
+--- page 10 ---
+II- Le composé € est d'abord oxydé en présence de K CrOz et dacide sul Ifurique pour donner E. E, subit la séquence réactionnelle suivante
+19 CH;Mgl
+SOCIz
+E
+H
+7 2" H;O
+AlCl; 1 - Donner les structures chimiques en représentation spatiale de E, F, G et H.
+2- Préciser la configuration absolue de H.
+3- Sans le représenter, dire quel type de mécanisme a permis de passer de G à H
+Page 10 sur 14
+Concours Biologie et Géologie- Session Juin 2021
 
+--- page 11 ---
+Problème III (4,75 points)
+Le spectre de RMN du proton d'un composé M de formule brute CnH140 présente les signaux suivants Un multiplet dintensité 5 protons centré à 7,35 ppm Un quadruplet d'intensité 2 protons à 2,49 ppm Un quadruplet d'intensité 1 proton à 3,74 ppm- Un doublet dintensité 3 protons à 1,43 ppm. Un triplet d'intensité 3 protons à 1,21 ppm. 1 - Attribuer à chaque signal le fragment hydrocarboné correspondant.
+2- Proposer une structure compatible avec ces données (Consulter le tableau des déplacements chimiques en RMN de la page 2)
 
+Page 11 sur 14
+Concours Biologie et Géologie- Session Juin 2021
 
+--- page 12 ---
+II- Le composé M peut être   synthétisé à partir du   styrène J selon la suite réactionnelle suivante
+HCI
+J :
+K
+M
+Ph
+Mg Ether anhydre 1 - Identifier les structures chimiques de K et L.
+100 C
+2- Quel est le type de réaction ayant permis le passage de J à K ?
+FIN DE LEPREUVE
+Page 12 sur 14
+Concours Biologie et Géologie- Session Juin 2021
 
+--- page 13 ---
+Page 13 sur 14
+Concours Biologie et Géologie- Session Juin 2021
 
+--- page 14 ---
+CONSIGNES Cette épreuve comporte 12 pages. Tout résultat doit être écrit dans les cadres adéquats. L'usage des calculatrices électroniques de poche non programmables est autorisé Aucun échange entre les candidats n'est autorisé. Tout calcul doit être précédé dune expression littérale. Les résultats numériques sans unité ou avec une unité fausse ne seront pas comptabilisés. En cas de besoin utiliser la page vide en fin de cahier. Dans ce cas, il faut le signaler dans la case allouée à la réponse remise en fin de cahier. Ne joindre aucun brouillon. Si au cours de lépreuve, un candidat repère ce qui lui semble être une erreur dénoncé, il la signale sur sa copie et poursuit sa composition en indiquant les raisons des initiatives qu 'il est amené à prendre.
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 12 PAGES NUMEROTÉES 1 sur 12,2 sur 12, 389 12 sur 12.
+Concours Biologie et Géologie Chimie inorganique
+ 
+Session Juin 2021 Page 1 sur 12
 
+--- page 15 ---
+Épreuve & chimie section BG
+Notations et données numériques États des constituants physicochimiques (sd) solide (liq) liquide (g) gazeux Lorsque aucune mention n'est spécifiée; les ions sont supposés implicitement en solution aqueuse. Les gaz sont considérés comme_ parfaits: Notations Lexposant * signifie corps pur. Lexposant signifie standard. Xi la fraction molaire de < i > dans la phase liquide. Yi la fraction molaire de < i ) en phase vapeur . pi pression de vapeur saturante de < i > U; potentiel chimique du constituant < i > dans la phase 4 ESH électrode standard à hydrogène. Constantes physiques Constante des gaz parfaits R = 8,314 J motl K  Constante de Faraday F 96500 C.motl  Pression standard p 8 =lbar . Concentration standard : Ce =1 molL-1 Données numériques Hydrazine Eau 1 (NzHs) (Ho) Moment dipolaire D 1,75 1,85 Masse molaire (g.mol-l 32 18 1 A 298 K,   Sous la pression 1 bar s8 IJK- mol-1 Nz(g2 191,6 Fe(sd) 27,3 FeaN(d) 158,5 Produit ionique de l'eau Ke =10-14 Ka ( NHA(aq) NH [OH (aq)_ )=5,37x10-1 Potentiel redox standard (à pH = 0) : Ee (Nz H4(a9) / NH ,OH (aq) ) = 0,916V / ESH La constante de Nernst (RxT/F)xLn(lo) =0,06 V Equation aux dimensions [JC-1] = V
+Page 2 sur 12
 
+--- page 16 ---
+Éprcuu d chimie section BG
+Problème équilibre chimique On étudie la réaction déquation-bilan Nz(e) +8Fe(sd) =2Fe,N(sd) (1) pour laquelle on a : A,H298K ~21,8 kJ mol-1 1) Donner lexpression puis calculer la variance dun système contenant uniquement les constituants écrits dans léquation (1)
+2) Peut-on choisir arbitrairement pour un tel système en équilibre, la température et la quantité de matière de Nz(g) 2 Justifier la réponse
+3) Lorsque Ton monte en altitude, la pression diminue.  On suppose que système (1) est initialement à Péquilibre. Quel est leffet de cette diminution de pression à température constante sur un système fermé en équilibre selon léquation (1)2
+4) Quel est Peffet sur un système fermé en équilibre selon Péquation (1), dune augmentation de la température 1 suite à un chauffage à pression constante: 1 Que valent les enthalpies standard de formation du diazote gazeux et du fer solide à 298 K? Justifier la réponse
+Déterminer numériquement la valeur de Tenthalpie standard de formation de FeaN(a à 298 K
+0
+7) Déterminer la valeur de la constante déquilibre   K298x
 
+Page 3 sur 12
 
+--- page 17 ---
+Épreuv d chimie section BG
+Problème cristallographie Le nitrure de vanadium(III), VN, est un cristal supposé ionique qui cristallise dans le système cubique. 1) Quelles seraient les structures types envisageables pour ce nitrure ?
+2) Lanalyse dun échantillon de VN par diffraction des rayons Xde premier ordre; de longueur donde 154 pm, donne une réflexion € = 40,32 pour la famille des plans réticulaires (222) . 2-a) Donner lexpression puis calculer la distance réticulaire correspondant à cette famille de plans.
+2-b) En déduire le paramètre de la maille.
+1 3) Sachant que la longueur de la liaison V-N vaut 206,1 pm, préciser dans ce cas la structure réellement adoptée par VN. 1
+Donner la description de la maille et de son contenu.
+5 Rappeler la condition de stabilité de ce type structural
+Problème : étude de l'équilibre liquide-vapeur du diazote pur 1) Rappeler la définition du potentiel chimique dun corps pur dans une phase @, H'Pà partir de lenthalpie libre du corps pur G ,P
+2) Soit un système fermé contenant une certaine quantité dun corps pur dans une phase @. Donner Pexpression de la différentielle de son Penthalpie libre molaire dG,
+Page sur 12
 
+--- page 18 ---
+Épreuve d chimie section BG
+3) Établir lexpression du potentiel chimique dun corps pur en phase condensée à une température T en fonction de la pression p et du potentiel chimique standard uP,cd à la température T, en supposant que son volume molaire V ,cd indépendant de la pression.
+Nous supposons dans la suite du problème que le terme en V ,cd est négligeable. Donner lexpression du potentiel chimique dun gaz parfait pur à une température T en fonction de la pression p; de la pression de référence p8 et du potentiel chimique standard pP,g
+1 5) Soit un système fermé contenant du diazote dans deux phases (liquide et gaz) en équilibre. 5-a) Quelle est la relation entre_les_potentiels_chimiques du diazote_pur à léquilibre ? 1
+5-b) Trouver [expression du logarithme népérien de la pression déquilibre Pliq entre la phase liquide et la phase gazeuse du diazote pur Ln(p' /p% ), en fonction des potentiels chimiques standard p? Jq et ppg du diazote pur.
+@(6I72] H ue |T) 5-c) À partir de la relation exprimer on notera He Penthalpie dT T2 dT molaire standard .
+Page 5 sur 12
+
+--- page 19 ---
+Épreuve de chimic section BG
+5-d) Montrer à partir des deux questions précédentes que la différentielle de la pression déquilibre; en fonction de la température T suit la loi différentielle
+Ln Pliq Ips dT
+He 'vap m RxT?
+Où Avap H@ m désigne ['enthalpie molaire standard de vaporisation du diazote; supposée indépendante de la température T.
+5-e) Montrer qu' on peut exprimer la pression de vapeur saturante du diazote pur en fonction de la température sous la forme puiq B Ln =A - pe T A et B sont des constantes.
+1 1
+
+.
+5-f) Sachant que 1enthalpie molaire standard de vaporisation de Nz(liq) 4 He =5,6kJ_ mol-1 'vap et la température de vaporisation standard Te vap = 77,34 K déterminer les valeurs des constantes A et B Jorsque_la pression est exprimée en bar et la température absolue T en K
+Page 6 sur 12
+
+--- page 20 ---
+Épreuve & chimie section BG
+Problème : Diagramme déquilibre liquide-vapeur 1) Commet expliquer que les températures de vaporisation de Thydrazine pur sont plus élevées que celles de Peau pur ?
+2) Que peut-on dire de 1a solubilité à Tétat liquide de Thydrazine dans Teau. Justifier la réponse en comparant les_ interactions dans les mélanges.
+On considère la superposition des diagrammes d equilibre liquide-vapeur du système hydrazine-eau sous différentes pressions 120 120
+11o
+11o
+105,2
+C3
+100 96,8
+10o
+C2
+8 90 1 80
+90 86,5
+80
+C
+70 66.8
+70
+60
+60
+50 10o NzHs
+50 0 H,O
+10
+20
+30
+40 50 60 Pourcentage molaire
+70
+80
+90
+Diagrammes déquilibre liquide-vapeur du système NpH+-H2O
+Page 7 sur 12
+
+--- page 21 ---
+Épreuve & chimie section BG
+3) Attribuer les pressions p1 0,17 bar, p2= 0,38 bar, p3 =0,55 bar et p4 =0,75 bar, aux diagrammes déquilibre liquide-vapeur noté de C1 jusqu'à C4. Justifier la réponse. plbar Diagramme Ci Justification 0,17 0,38 055 0,75 4) Les mélanges hydrazine-eau se font-ils avec absorption ou dégagement de chaleur ? Justifier.
+5) Comment peut-on différentier un mélange azéotropique, dun corps pur ?
+Sous une pression 0,38 bar, un mélange liquide dhydrazine et de Teau commence à bouillir à la température 84 C. En déduire la composition 6-a) de ce mélange liquide 6-b) des premières bulles de vapeur 1 6-c) des dernières gouttes de liquide 7) Sous une pression de 0,17 bar, on considère le système obtenu en mélangeant 2 mol dhydrazine et 18 1 mol deau liquides. 7-a)Calculer la quantité de matière de chacune des phases en équilibre à la température 649C.
+7 bCalculer la quantité de matière dhydrazine liquide présente dans ce système
+8) On procède à une distillation fractionnée dun mélange eau-hydrazine à 20% molaire en hydrazine. Qu'obtient-on comme résidu et comme distillat ?
+Page 8 sur 12
+
+--- page 22 ---
+Éprcuv & chinie section BG
+Problème : électrochimie 1- Constantes d'équilibres associées aux réactions acido-basique En solution aqueuse;, lacide Nz H2+ est un diacide dont les constantes dacidité à 25*C, sont respectivement égales à Kai = 10-0,30 et Kaz = 10-7,9 1) Écrire léquation de la réaction mettant en jeu le couple NzH3aq) /NzH4(aq)
+2) S'agit-il dune réaction doxydo-réduction ? Justifier la réponse.
+3) Écrire la loi daction de masse correspondant à cette réaction.
+1e Déterminer la valeur de sa constante déquilibre .  . - 9  6   n `    iciesson d  
+1 1
+Il- Détermination des potentiels standard doxydoréduction : On donne à 298 K les potentiels redox standard à pH = 0 : Couple Nz(g)  'NzH3aq) Nz(g) NH (aq) E? (Ox / red) / en ESH) -0,196 0,275
+SÉcrire léquation-bilan de la réaction associée à chacun de ces deux couples redox:
+ ? c  : .
+
+' . `
+Page 9 sur 12
+
+--- page 23 ---
+Épreuv & chimic section BG
+Déduire la valeur du potentiel redox standard du couple N2 H2+ 6(aq) NHA (aq) 
+On donne à 298 K; les potentiels chimiques standard des entités Entités NzH5(aq) NH A(aq) Hpg) Hq) U 8 kJ mol 80,6 -78,0 7) Montrer que lexpression du potentiel redox standard du couple NzH5(aq)  NHMaq) s'écrit en fonction des 1 potentiels chimiques standard des différentes entités qui apparaissent dans léquation-bilan de la réaction associée à ce couple_Calculer sa valeur; 1
+
+ [
+
+s
+  
+
+1
+2
+Ill- Étude du diagramme de Pourbaix On se propose détudier le diagramme potentiel-pH simplifié de lazote à 298 K, pour une concentration totale en atomes dazote dissous Ctra 0,10 molL-1. 8) Déterminer le nombre (degré) doxydation de latome dazote dans chacune des entités suivantes NzH A(aq) Nz His(aq)  NzH%oq) NHA(aq) et NH OH(aq)
+Page 10 sur 12
+
+--- page 24 ---
+Épreuv & chimie section BG
+9) Classer ces entités par nombre d'oxydation croissant en fonction de pH et déterminer les valeurs des pH limitant les frontières verticaux .
+1 1 1O) Identifier les différents couples redox mis en jeu
+11) Indexer le diagramme ci-dessous en affectant les entités dans les domaines correspondants. 2,00 2,00 Ctr 0,1 moLL-l
+1,50
+(2)
+1,50
+(3)
+1,00 [ 0,50
+1,00
+0,50
+0,00
+0,00
+4,50
+~0,50
+pH
+Page 1l sur 12
+
+--- page 25 ---
+Éprevu d chimie section BG
+12) Déterminer Yexpression numérique de_la frontière_séparant les domaines (3) et (5) en fonction du pH
+1 1
+
+2
+nno
+
+FIN DE VÉPREUVE
+Page 12 sur 12

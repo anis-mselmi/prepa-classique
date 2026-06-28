@@ -1,31 +1,503 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE
+@.2lg*ïs
+Ministère de ['Enseignement Supérieur et de la Recherche Scientifique
+JssjU4ibgiainlii Concours Nationaux d Entrée aux Cycles de Formation dIngénieurs Ulujihi j9Sjl1 >J! Session 2016 2016 599' Concours Technologie Épreuve de Sciences et Techniques de [Ingénieur
+Date Mardi 31 Mai 2016
+Heure 8 Heures
+Durée 5 Heures
+Barème
+Partie A . 8 points Partie B 4 points Partie C4 points Partie D : 4 points
+L'épreuve comporte quatre parties A- Technologie de conception B- Technologie de production C- Mécanique & RDM D- Automatique Le sujet de lépreuve remis au candidat comporte deux dossiers Dossier Dossier Présentation;, Données et Hypothèses Dossier Document Réponses. Et deux documents techniques Dessin d'ensemble (DTIet DT2).
+Aucun autre document n'est autorisé
+L'utilisation des calculatrices de poche non programmables est autorisée. Les différentes parties sont indépendantes et doivent être traitées sur le document réponses: Il n'est fourni au candidat qu'un seul et unique dossier document réponses > qui doit être rendu en totalité, à la fin de l'épreuve, même sans réponses.
 
+--- page 2 ---
+DOSSIER
+PRESENTATIONS DONNEES ET HYPOTHESES
+Ce dossier comporte 28 pages numérotées de 1/28
+28/28
+Présentation et Nomenclature
+Pages 1/28 à 4/28
+Données et hypothèses Partie A
+Pages 5/28 à 10/28
+Données et hypothèses Partie B
+Pages 11/28 à 16/28
+Données et hypothèses Partie C
+Pages 17/28 à 22/28
+Données et hypothèses Partie D
+Pages 23 à 28;
 
+--- page 3 ---
+STI Iechnologie
+Présentation et Nomenclature
+Dossier Présentation; Données et Hypothèses
+ATELIER DE FABRICATION MECANIQUE
+MISE EN SITUATION
+La figure présente un schéma simplifié dun atelier de fabrication par la mise en fomme de pièces mécaniques. Cet atelier est composé principalement des quatre unités suivantes
+Unité 1 : Approvisionnement des lopins (pièces à déformer) par gravitation Unité 2 : Chargement et chauffage: Unité 3 Transfert /évacuation Unité 4 Presse mécanique de mise en forme (forgeage) 
+La pièce àlétat initial appelée lopin arrive par gravitation à lunité 2 Un vérin Vl introduit les pièces dans le four de chauffage: Après un temps de chauffage bien étudié, la pièce dont la température satisfait le procédé de mise en forme; sera transférée par un robot manipulateur vers une presse mécanique pour être forgée et prendre sa forme finale. La pièce dont la température n'est pas conforme au procédé de mise en forme sera évacuée; par un vérin V2, vCrS une benne de récupération
+Nota
+Lunité 2 de chargement et de chauffage fait lobjet de la partie automatique (Partie D du présent sujet du concours) Lunité 3 de transfert fait lobjet des parties conception et production (Parties A et B du présent sujet du concours) Lunité 4 de la presse mécanique de forgeage fait Yobjet de Pétude de la partie mécanique & RdM (Partie C du présent sujet du concours)
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2016
+Page 1/28
 
+--- page 4 ---
+1 1
+1 1] 1 1 8 2 p 5 1 2 8 ; 1l 5 1 8 4 [ ( 9l 7 ( 1 [ s 1 9 1 9 { 1 1 | | 1 2 8 1 1 1 ; 1 1 8 6 ; 7i 1 1 9 8 ; ; 1 ] { 1
+1 6 1 1 1 1 J 1 6 p 1 1
+1
 
+--- page 5 ---
+STI Technologie Partie A Technologie de conception Dossier Présentation; Données et Hypothèses 45 Bras Bride 43 Bague Ecrou 42 Bride de centrage Doigt 40 Vis CHc 39 Vis Tr 12x 3 38 Boitier 37 Plaque arrêtoir 36 Roulement   rigide à billes 35 Roulement à deux rangées de billes à contact oblique 34 Bague amagnétique 33 Disque flexible 32 Ecrou à encochc SKF 31 Boitier 30 Entretoise 29 Corps du poignet 28 Bague dappui 27 Disque dembrayage 26 Corps Stator 25 Anneau élastique 24 Ecrou 23 Pignon arbré 22 Coussinet 21 Couronne 42CrMo4 20 Bague 19 Couvercle 18 Bague Goupille 10 Couvercle 15 Couvercle Joint détanchéité 1 Bague Rondelle élastique 12 Bague 10 Bille Corps de la pince 8 Ecrou 7 Ecrou 6 Petite Biellette 5 Tr 12 x 3 Levier Butée Grande Biellette E295 Doigt E295 Rep. Nbr Désignation Matière Observation Nomenclature
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2016
+Page 3728
 
+--- page 6 ---
+STI Technologie_Partie A Technologie de conception
+Dossier Présentation, Données et Hypothèses
+88 87 86 85 83 82 1 69 68
+Anneau
+Axe Bague Axe Goupille Chape Roulement à double rangées de billes à contact oblique Vis Joint Roulement   rigide à billes Bague entrctoise Boitier Axe daccouplement 2 aiguilles Roue dentée Rotor Vis de pression Vis Ressort Roulement Disque frein Vis Vis CHC Roulement Moyeu Bague magnétique 60 Ressort 59 Roulement 58 Support de roulement Roulement à aiguilles 53 Anneau élastique 55 Arbre creux Rotor 53 Corps Stator 52 Clavette parallèle 5 Bague Ecrou 49 Goupille 48 Joint Ecrou 46 Douille pour passage du câble Rep. Nbr Désignation Nomenclature
+Matière
+Observation
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2016
+Page 4/28
 
+--- page 7 ---
+STI Technologie Partie A Technologie de conception
+Dossier Présentation; Données et Hypothèses
+PARTIE A TECHNOLOGIE DE CONCEPTION
+Mise en situation Etude de Pensemble poignet porte pince, documents techniques (DTI à DT4)
+Cette étude pour objectif de valider   certaines   dimensions   des éléments   constructifs  de lensemble poignet porte pince: Cet ensemble est représenté par le schéma cinématique de la figure A.1. Au cours du fonctionnement du robot; en plus du mouvement d'élongation du poignet, la pince peut tourner autour de laxe (O,x) du poignet Afin de saisir et pincer la pièce, la pince est munie de deux doigts qui sont animés de mouvements d'ouverture et de fermeture.
+Fonctionnement du poignet
+Elongation du poignet (document technique DTI et figure A.1) La mise sous tension du moteur MI et de lembrayage El engendre la rotation de Vécrou (50) lié en rotation au disque (33) de Yembrayage El. La liaison hélicoïdale de Pécrou (50) avec la vis (39), solidaire du corps de poignet (29) engendre la translation de (31) et (38) grâce à la liaison glissière entre (29) et (31), donc la translation de Kensemble poignet. Rotation de la pince Dans ce cas il faut interrompre Palimentation du frein (F) et mettre sous tension le moteur M2 qui engendre, à laide du train dengrenages (21, 23 et 72), la rotation de la pince: Le frein a pour rôle de freiner la rotation de la pince: Ouverture et fermeture des doigts de la pince Pour obtenir la fermeture ou louverture des doigts de la pince, il faut alimenter le moteur MI et Fembrayage E2 La rotation du disque embrayage (27) engendre la rotation de la vis (5) à travers les pièces (55) et (76). Lirréversibilité de la liaison hélicoïdale entre (5) et assure le maintien en position désirée des doigts. Les rondelles élastiques (12) introduisent une souplesse à la liaison pivot entre (5) et (9) évitant le coincement en fin de course de lécrou (7) et permettant dabsorber lénergie cinétique résiduelle dès lors que le moteur atteint le couple de serrage nominal 
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2016
+Page 5/28
 
+--- page 8 ---
+STI Technologie_Partie A Technologie de conception
+Dossier Présentation, Données et Hypothèses
+(31) (33)
+(23) (21
+Pièce
+M
+M2
+(29+42+45)
+W
+W
+KI
+(39
+(62)
+(72)
+Figure A.1 Schéma cinématique minimal de l'ensemble poignet porte pince
+Remarques On note le torseur cinématique traduisant le mouvement du solide i par rapport au solide au Qij Uij centre P de la liaison par {91j} Bij Vij P (Yij Wij (P'y2) On note le torseur des actions mécaniques exercées par le solide sur le solide au centre P de Xij Lij la liaison par {Tij} Yij Mij P Zij Nij _ (P,y2)
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2016
+Page 6/28
 
+--- page 9 ---
+STI Iechnologie_Partie A : Technologie de conception Dossier Présentation; Données et Hypothèses Données Moteur MI Couple Moteur Cml 20 Nm Inertie des éléments tournants de MI Im=0.25 kgm? Embrayage E2= Rayon extérieur de la surface de friction Rz = 50 mm Rayon intérieur de la surface de friction I2 = 25 mm Coefficient de frottement f2 = 0.15 Pression admissible P1adm = 2 MPa Force appliquée par le ressort Fr = 100 N Cannelures dans (62) (Liaison (27)/(62)) Série forte; prendre les dimensions à partir des documents DTl et DT4 Pression admissible Pz adm 100 MPa Systèmes vis-écrou (5-7) Vis Tr 12x3 voir DT4 pour les dimensions nomalisées Coefficient de frottement fi = 0.15 Hauteur de lécrou he = 22 mm Pression admissible entre la vis et lécrou P3 adm = 50 MPa Pince du robot Force de serrage appliquée par un doigt de la pince sur la pièce FA = 2OOON Résistance pratique au cisaillement des axes darticulations Rpg = 100 MPa Vitesse de rotation de la pince Npince = 40 trs/mn Durée de freinage de la partie tournante de la pince tf = 2s
+Train dengrenages ((23a) (236), (21) et (71)): Entraxe Diamètre de tête de la roue (23a) Nombre de dents du pignon (23b) Même Module m pour des différentes dents
+a = 62 mm da =32mm Z23b 15 dents.
+m = 1 mm
+Le travail demandé est explicité dans les pages de 1/30 à 9/30 du dossier document réponses
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2016
+Page 7/28
 
+--- page 10 ---
+2 g 2
+1 ~ 1 1 1
+8
+9 1
+] ~ 1 p
+; 2 1 : 1 ~ 1 8 1 1 2 1 1
+1 5
 
+--- page 11 ---
+STI Technologie Partie A Technologie de conception Dossier Présentation; Données et Hypothèses Document technique DT4 a. Vis à profil trapézoïdal. Profil trapézoidal NF ISO 2901 Écrou mæx. 0,5 150 max:
+P}4 |P/4
+82 5 { Diamètres dela vs
+Vis
+Diamètres 'de l'écrou
+P Pas d2 =D2= d 0,5 P d3 = d - P - 2a D1 = d =P D4 = d + 2a
+Avec
+P (mm) 1,5 2à5 6 à 12 14 à 60 almm) 0,15 0,25 0,5
+Principaux filetages trapézoïdaux ISO NFISO 2902 Tabienu7 nominal Pas 0 nominal Pas 0 nominal Pas d = D (mm) P (mm) d =D (mm) P (mm} d =D (mm) P (mm) 1,5 44 160 16 (9) {46) (170) 16 10 48 180 18 W 450) {1go) 18 12 52 2c0 18 8 (210) 20 (16) {55) 220 20 (18) 44 1n (230) 2n 498) 20 12 2an 22 5 (75) 10 {250) 22 (22) 80 10 200 22 (26) {86) 12 (270) 28 00 280 24 (30) " (290) 495) 32 a00 24 (34) {110) 12 36 120 (38) (130) ; 2G 140 (42) (150) 15 Les valetirs entre pareniheses sort à êviter
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2016
+Page 9728
 
+--- page 12 ---
+STI Technologie Partie A Technologie de conception Dossier Présentation; Données et Hypothèses Document technique _DT4 b. Cannelures à flancs parallèles . Roulement à une rangée de billes à contact radial (série 10) Ecarts sur B {sauf d < 50 roulements coniques) d > 50 Co d*x N 0,04 15 1,5 1,2 0,05 20 2 5 1,5 0,05 30 2,5 2,5 0,15 75 3 10 4 0,1 230 Moyeu 4 13 5 0,2 490 5 16 5 0,3 680 6 19 6 0,3 050 2 Arbre 8 7 0,3 360 22 7 0,3 640 9 26 8 0,3 960 4 10 26 8 0,3 970 10 9 0,6 2 650 38 10 11 0,6 3 450 12 28 8 0,3 2 370 Faible jeu Cer 12 32 10 0,6 3 100 (voir recc 12 37 12 4 200 15 32 0,3 2 850
+Série légère
+Série moyenne D
+Serie forte
+B
+23 26 6  5 26 30 7,2 28 32 7,2 32 36 6 8,4 36 40 8,4 42 46 8 8,4 46 50 9 8,4 52 58 10 12 56 62 fo: 12 62 68 12 12
+11
+14 3 | 5 13 16 3,5 25 16 20 1,2 Sl6 18 22 55 7,2 21 25 5 7,2 23 28 9,5 26 32 6 10,8 28 34 10,8 32 38 6 444 36 42 14,4
+16 20 2,5 12 18 23 3 16 21 26 3 16 23 29 19 26 32 19 28 35 22 32 40 5 25 36 45 5 29 42 52 6 30 84e82 46 56 30
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2016
+Page 10/28
 
+--- page 13 ---
+STI Technologie
+Partie B Technologie de Production Dossier Présentation; Données et Hypothèses
+PARTIE B TECHNOLOGIE DE PRODUCTION
+PRESENTATION On désire produire une série de 1000 exemplaires des poignets porte pince du robot (voir Document Technique DTI) . Dans cette partie; on se limite à Pétude de la production de la vis (5) et de la biellette (6) Dans les documents techniques DT 6, DT 7, DT 8 et DT 9 ; on présente Le dessin de définition de la vis (5) (DT 6) Le dessin de la vis (5) avec la numérotation des surfaces à usiner par des lettres A, B.. (DT 7) ; La gamme dusinage de la vis (5) (DT 8) Le dessin de définition de la biellette (6) (DT 9) Latelier de fabrication dispose dun parc machines composé De tours à Commande Numérique (CN) à 2 axes; Dun centre dusinage à 4 axes Dune machine à centrer D'une presse pour le découpage et le poinçonnage des tôles.
+PARTIE B.I: Etude de la production de la vis (5) On désire produire une série de 1000 vis (5). Lusinage de la vis (5) se fait   en deux étapes; ébauche et finition directe La surépaisseur moyenne pour Yusinage de finition est de 0,5 mm PROJET DE GAMME DE FABRICATION Lusinage de la vis (5), est effectué en cinq phases (DT 8) Phase 10 Contrôle de brut Phase 20 : Centrage (chariotage; dressage et centrage des deux cotés) Phase 30 : Tournage Phase 40 Fraisage Phase 50 Contrôle final.
+PARTIE B.II Etude de la production de la biellette (6) On désire produire 2000 biellettes (6) par découpage sur une presse à partir dc tôles dépaisseurs 8 mm Les étapes de la production des bicllettes sont définies comme suit (figure B. IL. 1) : Découpage en bandes de tôle ; Poinçonnage Découpage
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2016
+Page 71/28
 
+--- page 14 ---
+STI TechnologiePartie B : Technologie de Production
+Dossier Présentation, Données et Hypothèses
+Butze
+Pas
+Pas
+Butec
+Pvincuns
+La valeur de a est égale à 4 mm Figure B. II 1 Caractéristiques et analyse de lopération de poinçonnage et de découpage:
+Leffort total F de découpage et dc poinçonnage est déterminé par la relation suivante F =Pt _ Rc Pt périmètre total à poinçonner et à découper. épaisseur de la tôle: Rc résistance pratique au cisaillement (Rc 0,8 x Rm). Rm résistance à la rupture par extension.
+Tableau B.l: Caractéristiques mécaniques des matériaux candidats pour la production de la biellette (6)
+teria
+Rm (davmm2
+Acier à 0,1% de carbone (recuit) Acier à 0,2% de carbone (recuit) Acier à 0,45% de carbone (recuit) Acier inoxydable Aluminium Duralumin Laiton (recuit)
+19 25 30 49 à 69 12,5 45 18
+22 20 15 40 40 17 25
+Le travail demandé est explicité dans les pages de 10/30 à 15/30 du dossier document réponses.
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2016
+Page 12/28
 
+--- page 15 ---
+STI - Technologie Partie B Technologie de Production Dossier Présentation; Données et Hypothèses
+É
+9 H8
+9
+04 | A
+8
+25
+0 . 05 / A/ B 14 h7
+2 2
+9 4 2 8
+Tr 12x2 0 . 1 [ A/B
+10 96
+Tolérances générales ISo 2768 mk
+Les chanfreins 1x45
+Echelle 1:1
+Session 2016
+Vis 5 ~
+Format A4
+Concours nationaux d' entrée aux cycles de formation d ingénieurs
+Atelier de Fabrication Ensemble Poignet porte pince Concours nationaux dentrée aux cycles de formation d'ingénieurs Session 2016
+DT 6 Page 13/28
 
+--- page 16 ---
+STI TechnologiePartie B Technologie de Production
+Dossier Présentation, Données et Hypothèses
+ 
+H
+ ,
+Echelle 181
+Session 2016
+Vis 5
+Fornat 44
+Concours nlationaux d'entrée aux cycles de formation ingénieurs
+Atelier de Fabrication Ensemble Poignet porte pince Concours nationaux dentrée aux cycles de formation dingénieurs Session 2016
+DT 7 Page 14/28
 
+--- page 17 ---
+STI TechnologiePartie B Technologie de Production Dossier Présentation; Données et Hypothèses Ensemble : Poignet porte pince du_robot NOMENCLATURE Pièce Vis(5) DES Matériau DT 8 PHASES Série 1000 pièces
+PHA
+DESIGNATION
+MACHINE
+CROQUIS
+10 Contrôle de brut Le brut Diamètre 26mm, Longucur 17Omm 20 Centrage : Une pièce au montage Machine à Mf Référentiel_de départ défini _par: centrer 2€f1 242 Centrage long 4N (1 , 2, 3 et 4) Serrage de la pièce. Chariotage E, B: 2Cfl, 2Cf2 {2 "cI3 Cfe Dressage F, G : Cf3, Cf4, Cf5 Untéde Rotticn Unite de Botation Centrage des deux cotés de la picce. Éuzhe Creri Chanfrcinage 0 Cf3? f = 01 mn tr; N 1600 tr / mn Tcioo} 30 Tournage_CNC : Tour à Fbauche prolif extérieur (cycle d'éhauche) Une pièce au montage Référentiel_défini_par : Commande Montage entre-pointes Numérique ~Ebauche  par axial du profil CNC extérieur (Cycle débauche) Vc = 100 m mn ; f=0.2 mm/tr ; Finition du prolilextérieur Imm. ~Finition du profil extérieur (contournage) H, B, I,D,J;,A € et K Vc = 150 m/mn ; f= 0.05 mm /tr ; Cycle de Borgeage Tud' P = 0.5 mm. Gorgeage L Vc = 80 m/mn ; =0.01 mm /tr ; 224828842883 83% 2122 Gorgeage M Vc = 80 m mn ; f = 0.01 mm /tr. Cycle de Hilelage trapézoidale Filetage D en plusieurs passes Vc = 50 m/mn.
+40 Fraisage: Une pièce au montage Référentiel_défini_par : ~Appui plan 3N (1 , 2,3) sur C ~Centrage court 2N (4, 5) sur A ~Immobilisation de la pièce   par serrage contre le centrage court. Usinage de la rainure N avec une fraise à rainurer à 2 dents de diamètre mm Vc = 100 m/mn fz 0.05 mm dent. 50 Contrôle final
+Centre dusinage CNC à 4 axes
+Cf24
+Cf25
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2016
+Page 75728
 
+--- page 18 ---
+STI TechnologiePartie B : Technologie de Production
+Dossier Présentation, Données et Hypothèses
+Uo . 01
+R 10
+25
+Tolérances générales Iso 2768 Ink
+Matériau C1o
+Echelle 2:1
+Session 2016
+Biellette 6
+Format A4
+Concours nationaux d'entrée aux cycles de formation d ingénieurs
+Atelier de Fabrication Ensemble Poignet porte pince Les questions relatives à la partie B sont explicitées dans le document réponses: Concours nationaux dentrée aux cycles de formation dingénieurs Session 2016
+DT 9
+Page 16/28
 
+--- page 19 ---
+STI Technologie
+Partie C : Mécanique & RdM Dossier Présentation; Données et Hypothèses
+PARTIE C: MECANIQUE & RDM
+C.1- ETUDE MECANIQUE
+L'étude porte sur le mécanisme dune pressc mécanique représentée par le schéma cinématique plan équivalent de la figure C.1.
+La presse dispose de
+Un vilebrequin (1), figure C.2, muni de trois excentriques, est entrainé en rotation par un motoréducteur (non représenté sur la figure C.1).
+Un coulisseau   (3)   entrainé cn  translation par Yintermédiaire de la bielle (2), elle-même entrainée par lexcentrique situé au centre du vilebrequin (1) .
+Un coulisseau entrainé en translation par les deux autres excentriques du vilebrcquin ct à travers Unl système {(4, 49), (5,5') et (6, 6)}, (figurc C.2). Les biellettes ct sont disposées en parallèle et transmettent des efforts identiques aux manivelles (5) et (5') qui sont; cux aussi; disposécs en parallèles pour agir, respectivemcnt; sur les bielles et (6)
+La presse mécanique  est spécialement conçue pour la mise en forme (déformation plastique) de pièces mécaniques à Zaide dun poinçon solidaire du coulisscau (3). La pièce à mettre en forme est placée entre deux matrices Tune inférieure, est fixée au bâti (0) de la presse ct Yautre; supérieure; est solidaire du coulisseau (7)
+Ainsi la rotation du vilebrequin engendre la translation des coulisseaux (3) et (7). La mise en forme de la pièce exige que les deux moitiés de la matrice soient fermées avant que le coulisseau n'introduisc le poinçon dans la pièce: Le coulisseau (7) descend pour la fermeture et le maintien de la matrice supéricure. Durant le temps de la fermeture; le poinçon; fixé au coulisseau (3), descend pour déformer la pièce. Les figures C.4 et C.5 montrent lévolution des positions et des vitesscs des coulisseaux (3) et (7)
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2016
+Page 17/28
 
+--- page 20 ---
+STI Technologie Partie € Mécanique & RdM Dossier Présentation; Données et Hypothèses Schéma cinématique et repérage Le schéma cinématique plan équivalent de la presse ainsi que lorientation des bases des différents repères liés aux solides sont représentés sur la figure C-1.
+0 70
+T76
+01
+yo
+120'
+u
+Xo
+VU/6, 01
+70
+Yo
+02 82
+Zo
+Jo 05 Ys
+Xs
+74
+70
+04
+Ys
+04 Xs
+Y6 06 Yo
+70
+76
+X
+Figure C. 1 Schéma cinématique plan équivalent du mécanisme de la presse
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2016
+Page 18/28
 
+--- page 21 ---
+STI Technologie
+Partie C : Mécanique & RdM
+Dossier Présentation; Données et Hypothèses
+Àse fixe
+Axe fxe
+Axe fixe
+Figure C.2.
+Le mécanisme de la presse est composé des solides suivants   (figure C.1): Un bâti (0) auquel est lié le repère Ro(O,xo, Yo, Z0) supposé galiléen: Laxe (O,x) étant vertical descendant: Tous les mouvements sont plans; parallèles au plan (O,xo,yo), Un vilebrequin (1) de centre dinertie G1 (confondu avec le point 0) et de masse ml, articulé sur (0) par une liaison pivot parfaite daxe (0,2)  R (O,xpJ1 z0) et R(Ou,v,4) sont deux repères liés à (1) tel que angle (%1,1) =(y1,v) =1/6. Le mouvement de R (O,51,8,,Z) par rapport à R,(O,K0,70,2) est paramétré par Yangle 8 = (0,1) = (o,J;) ~ Une bielle (2) de masse et dinertie négligeables; articulée avec (1) par une liaison pivot parfaite daxe (4,7). R(4xz,Y2,4) , est le repère lié à (2). Son mouvement par rapport à R,(O,xos)o, 4,) est paramétré par l'angle 02 (Yo,*2) = Go,y2) ~ Un coulisseau (3), de centre dincrtie Gs et de masse ms, est dune part en liaison glissière; de direction Xo , avec le coulisseau et dautre part articulé avec (2) par une   liaison pivot daxe (B,Z0 ) R(,xo,Yo,4) est le repère lié à (3). Son mouvement par rapport à R,(O,wo,yo, zo est paramétré par OB=(4o +1)x. Le guidage en translation rectiligne du coulisseau (3) par rapport à (7) est avec_frottement_de_glissement de_cocfficient f Une manivelle (5) de masse et dinertie négligeables, articulée avec (0) par une liaison pivot parfaite daxe (D,z). R(xs,ys,4) , est le repère lié à (5). Son mouvement par rapport Ro(O,xo Yo, Z0 est paramétré par langle €5 (xo, Xs) = (Vo,ys) Une biellette (4), de masse et dinertie négligeables, articulée dune part avec par une liaison pivot parfaite daxe (C,z0 et dautre part avec la manivelle (5) par une liaison pivot parfaite Concours nationaux dentrée aux cycles de formation dingénieurs Session 2016 Page 19/28
 
+--- page 22 ---
+STI Technologie Partie C : Mécanique & RdM Dossier Présentation; Données et Hypothèses daxe (E,z) . R (E,x4, 74, Z0) est le repère lié à (4). Le mouvement de R(Exp,/4,Z) par rapport à Rs(D,Xs,ys, Z ) est paramétré par Yangle 04 = (x5,*4) = (js,ÿ4)_ Un bras (6) de masse et dinertie négligeables, articulé avec (5) par une liaison pivot parfaite daxe (F,40) - R g(F,x6,76, 70) cst le repère lié (6). Son mouvement par rapport Ro(O,Xo, Yo, Z0) est paramétré par langle €6 = (xo,*6) = (Vo,V6)  Un coulisseau (7), de centre dinertie G7 (confondu avec le point G) et de masse m7, est dune part articulé sur (6) par une liaison pivot parfaite daxe (G,20) et dautre part en liaison glissière avec (0) de direction Xo avec_frottement_de_glissement_de_coefficient f   R -G,xo,Jo,Z0) est le repère lié (7) Son mouvement par tapport à Ro(O,Xo, Vo, 70) est paramétré par
+OG=(o + H)xo . Données et bypothèses OA =Rx AB-Lz* ;Q-Rv OD=-ax -b yo DE=Ls1 *s ; EF=Ls2 Xs ; EC=L,J4 ; FG=L66. a, b, R L2, L4, L51, L52 , L6 10 et Ho sont des caractéristiques géométriques constantes; 0,, 02, 04, 05, 06, 2 et pi sont les paramètres du mécanisme (variables temporelles) Laxe (0,z) est considéré principal dinertie pour le vilebrequin (1) Le moment dinertie de (1) par rapport à cet axe est < I1 > ; L'accélération de la pesanteur est 8=g% où g est une constante positive; Le vilebrequin (1) est actionné par un motoréducteur produisant un couple w =C, z Au moment de Popération de lestampage de la pièce; laction du coulisseau (3) sur la pièce à glisseur {r(3 F *o défomer est modélisée par le torseur  pièce ) }B et laction du coulisseau
+Xo
+sur la pièce à déformer est modélisée par le torseur glisseur { t(7 - pièce)}G
+Le torseur des actions mécaniques transmissibles au niveau dune liaison mécanique de centre Bo X L entre deux solides et est noté {rfi =i)} Y; M; avec Bo (7o, Yo, Z0 )  Zi N; JQ C.2- RESISTANCE DES MATERIAUX On se propose de vérifier la résistance du vilebrequin (1) vis-à-vis des actions mécaniques extérieures qui lui sont appliquées. L'étude sera menée selon une approche simplifiée dans laquelle le vilebrequin est modélisé par une poutre droite cylindrique pleine; de section constante et de longueur L=6OOmm. Le vilebrequin est guidé en rotation autour de laxe (O,2) par deux paliers. Le premier est modélisé par une liaison rotule parfaite de centre O1 et le second est modélisé par une liaison linéaire annulaire parfaite daxe (O2,20 (figure C.3) Une étude statique préliminaire; du vilebrequin (1) au cours de Yopération de mise en forme de la pièce; pemmis la modélisation et lévaluation des actions mécaniques extérieures appliquées à la poutre droite par les torseurs suivants
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2016
+Page 20/28
 
+--- page 23 ---
+STI Technologie
+Partie C : Mécanique & RdM Dossier Présentation, Données et Hypothèses Bo Torseur dactions mécaniques du motoréducteur sur le vilebrequin (1) 5500
+{v}o;
+~14016/ 10082
+{r}o
+Torseur dactions mécaniques transmises par la liaison rotule.
+15739 5 7097 ~1375
+{uz}c;
+Torseur dactions mécaniques de la biellette sur le vilebrequin (1)
+~3447 ~34358| ~2750
+{",}a
+{Torseur dactions mécaniques de la bielle 2) sur le vilebrequin (1) .
+15739.5| 7097 41375
+{u}cz
+Torseur   dactions   mécaniques de la deuxième biellette
+(identique à la bielle sur le vilebrequin au point C2 (voir figure C.2), ~14016/ {rs}o 10082 Torseur dactions mécaniques transmises par la liaison linéaire annulaire. 02 0 y,
+A1
+L/4
+L/4
+L/4
+L/4
+Figure C.3 Modèle poutre droite du vilebrequin Les forces sont exprimées en N et les moments en N.m ; Le poids de la poutre (1) est supposé négligeable devant les autres actions mécaniques; Ll4 = 150 mm La section droite (S) est de fomme circulaire pleine de diamètre D; Le vilebrequin est en acier faiblement allié, trempé et revenu; ayant une limite élastique à lextension R = 580 MPa; une limite élastique au cisaillement Reg = 0.5 Re un Module de Coulomb G=8.10' MPa ; On adopte un coefficient de sécurité s=3 et un facteur de concentration de contrainte cn flexion et en torsion kt = kno = 2.5 ; Angle limite unitaire dc torsion :0 hm=0.459/m ; Gs est le centre de la section droite (S) de la poutre tel que OGs =z7 (z est un paramètre compris entre 0 et 600 mm);
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2016
+Page 21728
 
+--- page 24 ---
+STI Iechnologie Partie C Mécanique & RdM Dossier Présentation; Données et Hypothèses Diagrammes de positions et de vitesses des coulisseaux et Remarque à linstant t = 0 s, 01 T rad
+1 0,16 ( 0,14 0,12 1 0,10 9 0,08 1 0,06 0,04
+Position du coulisseau Position du coulisseau
+0,02
+Temps (s
+0,00 0,0
+0,1
+0,2
+0,3
+0,4
+0,5
+0,6
+0,7
+0,8
+0,9
+Figure C.4 : Diagrammes de positions des coulisseaux
+0,80 6 0,60 1 0,40 0,20 # 0,00 1 0,20 ~0,40 1 -0,60
+Vitesse du coulisseau Vitesse du coulisseau
+Iemps 0i9
+10/6
+-0,80
+Figure C5 : Diagrammes de vitesses des coulisseaux
+Le travail demandé est explicité dans les pages de 16/30 à 25/30 du dossier document réponses
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2016
+Page 22/28
 
+--- page 25 ---
+STI Technologie
+Partie D Automatique
+Dossier Présentation;, Données et Hypothèses
+PARTIE D: AUTOMATIQUE
+PRESENTATION
+Le système (figure D.l) constitue une partie de Fatelier de fabrication des pièces mécaniques (figure 1). Il est construit autour dune unité de chargement et de chauffage des pièces métalliques (lopins) , entièrement automatisée. Cette unité comporte un four tunnel à sole motorisée. Ce four est équipé dun pyromètre infrarouge qui mesure la température  des lopins préalablement  chauffés une température fixée par le cahier des charges. La présente partie D du sujet de concours comporte deux sections
+La première concerne Pétude séquentielle du fonctionnement de lunité de chargement et de chauffage; La deuxième section traite Vétude du système de régulation de la température au sein du four.
+D.1 Etude séquentielle Dans cette partic; on s'intéresse à létude de la commande   séquentielle du système automatisé de chargement et de chauffage.
+DL1 Synthèse de la commande séquentielle Le schéma   synoptique du système étudier est   illustré par la figure D.1. La gestion de fonctionnement de latelier est effectuée par un automate programmable dont le programme est écrit €n langage GRAFCET. La mise en marche du système est confiée UnI opérateur qui dispose dun pupitre de commande dédié à la supervision et au lancement du cycle Les lpins froids   empruntent la   rampe  d'approvisionnement qui les   conduit; par gravité, jusqu'au capteur P1 dont le rôle est de détecter la présence dun lopin au début de la chaîne de chargement du four.
+D.1.2 Mise en route du système D.1.2.1 Gestion de Pétat initial Nous supposons que les mesures nécessaires pour lancer le cycle de chargement et chauffage sont prises Cn compte par un Grafcct dédié à linitialisation non considéré dans la présente étude.
+D.1.2.2. Fonctionnement du système Une élévation de la température des lopins est nécessaire avant de débuter Yopération de mise en forme. Ainsi; le chauffage du four (R = 1) est lancé automatiquement dès le départ du cycle (dcy=l) par lopérateur à partir   du pupitre de commande et ne s'arrête qu'à la fin de celui ci. Le chargement du four, par lot de 3 lopins (chargés un par un) est assuré par un vérin de chargement V1 du moment où un lopin est présent devant la tige de celui-ci (p1= 1). Ce chargement s'arrêtera quand 011 aura mis 3 lopins dans Penceinte du four.
+Cette opéra tion de chargement se déroule comme suit
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2016
+Page 23/28
 
+--- page 26 ---
+STI Technologie Partie D Automatique Dossier Présentation, Données et Hypothèses Avance du vérin V1 jusqu'à Zactivation du capteur a1suivi dun retour immédiat en position initiale (vérin simple effet); Lavance du tapis TR (KM = 1) durant 5s permettant Tintroduction du lopin dans le four Lc comptage des lopins s'effectue par un dispositif   permettant de délivrer trois signaux binaires co, C1 et cJ définis comme suit: (c3 = 1) présence de 3 lopins dans le four; tant que ce nombre nest pas attcint (c3 0), le cycle se relance automatiquement afin de ramener le deuxième ou le troisième lopin, (c1 = 1) présence dun ou de deux lopins dans le four; (co = 1) absence de lopins dans le four.
+Dix minutes après le chargement; on enclenche de nouveau le tapis TR pour amener les lopins cn face du pyromètre afin de mesurer   leurs températures un par Un. Cet action   sopère par un avancement du tapis jusqu'à Parrivéc du lopin sur le capteur p2 = 1 Larrêt du tapis durant 20s permet de mesurer la température du lopin Tm par le pyromètre qui délivre un signal logique dinformation t : (si Tm2Tc = t = 1, sinon t = 0) Tc étant la température de consigne. Le vérin V2 évacue vers une benne le   lopin dont la température nest pas conforme (Tm < Tc) Par contre, un lopin dont Tm2Tc sera saisi par un robot (non représenté sur la figure D.1) pour être transféré vers Yopération de mise en fone: Ces deux macro-étapes (évacuation ou transfert / mise en forme) ne seront pas développées dans cette étude. Au terme de cette première séquence (mesure, évacuation ou transfert) , le compteur délivre un signal (c1=1), auquel cas, les dites séquences reprennent effets. En Tabsence de lopins dans le four (co=1), le cycle prend fin.
+Tableau D.1 Repérage des entrées sorties de la partie commande ENTREES DE LA PARTIE COMMANDE Abréviation Description P1 Présence dun lopin devant le vérin de chargement V1 p2 Présence dun lopin à la sortie du four al La tige du vérin V1 de chargement est sortie Signal délivré par Ie pyromètre indiquant que la température de chauffage est adéquate Co Variable logique associée à Kétat du compteur absence de lopins dans le four C1 Variable logique associée à Tétat du compteur : présence dun ou de deux lopins dans le four C3 Variable logique associée à Pétat du compteur présence de 3 lopins dans le four dcy Bouton poussoir de lancement du cycle.
+SORTIES DE LA PARTIE COMMANDE Abréviation Description KM Contacteur de commande du moteur du tapis roulant TR R Chauffage du four VI Vérin simple effet de chargement (monostable)
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2016
+Page 24/28
 
+--- page 27 ---
+STI Technologie
+Partie D Automatique
+Dossier Présentation; Données et Hypothèses
+~MM M ~MM M MM Four
+Pyromètre infrarouge
+V2: Vérin devacuation
+VI :Vérin de chargement
+p1
+Pz
+KM
+dcy
+Compteur de lopins
+Benne
+dévacuation
+Figure D.l Unité de chargement et de chauffage.
+D.2. Régulation de la température du four de chauffage La mise en forme du lopin nécessite Pélévation de leur température à des niveaux élevés. Cette température impose une régulation optimale afin de ne pas dégrader la qualité de surface des pièces Le système de régulation de la température du four est représenté par lc schéma de principe de la figure D.2
+Résistance chaulfante 4(t)
+Four
+Amplificateur de puissance
+Lopin
+Tension de commande u(t)
+Tension Vc(t)
+Régulation
+Tension Vm(t)
+image de la consigne de Température Tc(t)
+fournie par le capteur de température T(t)
+Figure D.2 Schéma de principe de la régulation de la température dans le four
+Le schéma bloc de lasservissement de température est   illustré sur la   figure D.3. Cette modélisation tient compte de leffet dune perturbation Ta(p) (effet de la température ambiante lors de louverture de la porte du four et linfluence des lopins froids lors de leur introduction) . Toutes les températures utilisées dans la présente étude représentent des écarts à la température ambiante afin de satisfaire des conditions initiales nulles
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2016
+Page 25/28
 
+--- page 28 ---
+STI Technologie
+Partie D Automatique
+Dossier Présentation; Données et Hypothèses Ta (p)
+Tc(p)
+Vc(p) kc
+c(p
+Q(p H(p)
+T(p)
+C(p)
+Vm(p)
+kc
+Figure D.3 Schéma bloc de la régulation de température dans le four
+Tc(p) est la consigne en température (C), C(p) est la fonction de transfert du correcteur; T(p) est la température du four C), Q(p) est la puissance calorifique fournie au four en Watt A est le gain de puissance de valeur A =200 W/V, Kf H(p) avec Kf =0.4 C/W = T1=20s ; T2 =300s, (1+T1p)(l+T2p) kc est le gain du capteur de température; kc =10-2V/ C, Notons par F(p) la transformée de Laplace dune fonction f(t) ; F(p)= L(f(t))
+La figure D.4 représente   la  réponse indicielle en boucle   fermée du   système avec un correcteur PI.
+700
+T=0.o7s T-0.05s 5;-002s
+600
+525 " 5095 F 400 1 300 200
+100
+500
+1000 1500 2000 2500 3000 3500 4000 4500 5000 Temps (s) Figure D.4 Réponse indicielle du système en boucle fermée
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2016
+Page 26/28
 
+--- page 29 ---
+STI Technologie Partie D Automatique Dossier Présentation; Données et Hypothèses Les performances exigées pour ce système de régulation de la température sont représentées dans le tableau D.2:
+Tableau D.2 Performances souhaitées du système Performances Valeurs souhaitées Précision Erreur statique nulle avec rejet de perturbation Stabilité Marges de phase 2 45" Marges de gain 28 dB Rapidité Temps de réponse à 5% ~ 21 minutes
+Les diagrammes de Bode de la fonction de transfert en boucle ouverte (FTBO) du système corrigé avec correcteur PI sont donnés à la figure D.5
+10o ' p 7150
+200
+250
+boo
+10-'
+100
+10?
+10'
+100
+{ ~100 p "150 =200 =250 7300
+10" Pulsation (radls)
+Figure D.5 : Diagrammes de Bode de la fonction de transfert en boucle ouverte FTBO du  système corrigé avec correcteur PI
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2016
+Page 27/28
 
+--- page 30 ---
+STI Technologie Partie D Automatique Dossier Présentation, Données et Hypothèses La courbe représentant le temps de réponse réduit   (tsX@b) dun système du second ordre en fonction du coefficient damortissement $ est donnée à la figure D.6.
+100
+{
+3 1 1 9 I
+0.1
+Coefficient damortissement €
+Figure D.6 Temps de réponse réduit en fonction de lamortissement.
+Le travail demandé est explicité dans les pages de 23/28 à 28/28 du dossier document réponses
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2016
+Page 28/28
 
+--- page 31 ---
+8
+3 Iz
+1 1 8 1 5 Ihi Hi # [ ; 8 : 8 1 Ili Ilyy 8 ; 9
+"
+[ 1
 
+--- page 32 ---
+8
+8
+13
+~ { 8 [3' 8 6 8
+1 1 8 1 5 Ii 1 1 1 1 ; 8 , 8 1 Ii Hlax 8 ; 9
+8

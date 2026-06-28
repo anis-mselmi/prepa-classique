@@ -1,13 +1,226 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de F'Enseignement Supérieur et de la Recherche Scientifique.
+12i3) "2/40 4Ujxg lgsusl U:Lzk
+Concours nationaux dentrée aux cycles de formation dingénieurs Session 2011
+Ul Jsial Zibsl el JaLijl u:Mnie-jl ÙsSijaly 2011 6J9'
+Concours Technologie
+EstiTUT  FRËPAR" atoire , QBUOTHEQUE) Epreuve de Sciences et Techniques de l'Ingénieur 79e {85 SS
+Date Vendredi 17 Juin 2011
+Heure 8 H Durée 5 H Barème Partie A points Partie B points Partie C : 5 points Partie D points.
+L'épreuve comporte quatre parties A-Technologie de Conception B-Technologie de Production C-Mécanique & RDM D-Automatique. Le sujet de l'épreuve remis au candidat comporte Deux dossiers Présentation; Données et Hypothèses et Document réponses Deux documents techniques Dessin densemble (A3) et Dessin de définition (A3). Aucun autre document n'est autorisé
+L'utilisation des calculatrices de poche non programmables est autorisée. Les différentes parties sont indépendantes et doivent être traitées sur le document réponses . Un seul dossier document réponses est  fourni au candidat et doit être rendu en totalité, même sans réponses, à la fin de l'épreuve. Le renouvellement de ce dossier est interdit.
+DOSSIER
+PRESENTATION, DONNEES ET HYPOTHESES
 
+--- page 2 ---
+DOSSIER
+PRESENTATION, DONNEES ET HYPOTHESES
+Ce dossier comporte 10 pages numérotées de l à 10 : Présentation pages là 3; Données et hypothèses Partie A pages 4 et 5 ; Données et hypothèses Partie B page 6; Données et hypothèses Partie C page 7 ; Données et hypothèses Partie D pages 8 à 10.
 
+--- page 3 ---
+STI Icchnologiec
+Dossicr Préscntation Donnécs ct Hypothcscs UNITE DE PRODUCTION DES TUBES
+MISE EN SITUATION Les tubes de faibles diamètres (inférieurs à 406 mm) sont obtenus souvent par enroulement d'une bande de tôle mince selon le procédé dit < continu qui consiste à Faire passer la bande de tôle dans une série de cages de galets qui la déforment progressivement de façon à obtenir une forme tubulaire continue ayant des bords opposés séparés par un faible écart longitudinal (Figure 1).
+Figure 1
+Joindre les bords de la forme tubulaire avec des rouleaux et effectuer la soudure pour former un tube continu (Figure 2). Le procédé de soudage le plus utilisé dans le cas des tubes en acier est le TIG (Tungsten Inert Gas) qui utilise une électrode en tungstène non consommable détenue par une torche à travers laquelle un flux de gaz inerte  est introduit pour protéger lélectrode et contrôler la chaleur.
+Figure 2
+Découper le tube continu en tronçons de longueurs déterminées (Figure 3)-
+Figure 3
+Concours nationaux dentrée aux cycles de formation &dingénieurs
+Session 2011
+Page =1 =
 
+--- page 4 ---
+STI Icchnologie
+Dossicr_Présentation Données ct Hxpotheses
+DESCRIPTION ET FONCTIONNEMENT L'étude portera sur le mécanisme du tracteur-tronçonneuse défini par le dessin d'ensemble (Document et sa nomenclature incomplète page 3). Ce mécanisme (figure 4) permet de faire avancer le tube obtenu, sous forme continue; devant une tronçonneuse permettant de le transformer en des tronçons de longueurs déterminées Le mécanisme du tracteur-tronçonneuse est actionné par un servomoteur électrique (69) qui assure, à travers un système d'engrenages (58-41, 49-38 et 38-25), la mise en rotation de deux roues d'entraînement   (3a et 3b) qui permettent; par adhérence; de faire avancer le tube à tronçonner: La mise en position, au départ, du tube entre les deux roues dentraînement (3a et 3b) est effectuée moyennant le vérin (23) qui assure la montée et la descente du coulisseau (15) et par suite de la roue d'entrainement (3a). Ce vérin permet, en plus, de fournir leffort presseur nécessaire entre le tube et les roues d'entrainement afin dobtenir une adhérence parfaite (pas de glissement) permettant à tracter le tube et de le faire avancer. Les roues libres   (34) autorisent la   rotation des   roues   d'entrainement dans un seul sens permettant ainsi dempêcher le tube de reculer lorsqu'il bute contre la butée et d'assurer son maintien en position stable au cours de l'opération de tronçonnage.
+Tracteur tronçonneuse
+Tronçonneuse
+Butée réglable
+Détecteur présence tube
+Tube
+Tracteur chargement
+Figure 4 : Schéma simplifié de l'unité de tronçonnage des tubes.
+Concours nationaux dentréc aux cycles de formation dingénieurs
+Session 2011
+Page
 
+--- page 5 ---
+Icchnologic
+Dossicr Préscntation Donnécs ct Hypothèses NOMENCLATURE (incomplète)
+76 Glissière arrière 25CrMo4 75 20 Vis C HC MIO-25.8.8 74 Glissière avant 25CrMo4 73 Embout daccouplement 71 Entretoise dadaptation de moteur S 355 Mécano-soudé 69 Servomoteur 68 Clavette parallèle forme A IOx8x40 C 35 67a Vis CU, HC, M8-16,8.8 66 Embout d'accouplement 65 Manchon à denture intérieure 64 Bouchon de vidange 25CrMo4 61 Roulement 60 BC 03 58 Pignon 3ONiCr11 55 Joint à lèvre; type A55x80x8 54 Arbre 34 Cr 4 51 Chapeau d'arbre moteur C 35 50 Vis C HC, M8-20 8.8 49 Pignon intermédiaire 3ONiCr1 1 47 Chapeau C 35 46 Axe intermédiaire 34 Cr 4 45 Douille avant de pignon CW46OK 44 Douille arrière de pignon CW46OK 42 Clavette parallèle forme A 22x 14x50 C 35 41 Roue dentée intermédiaire 3ONiCrl 1 38 Roue dentée daxe dentraînement inférieur 3ONiCr1 1 36 Plaque d'arrêt C 35 35 Roulement 60 BE 33 34 Roue libre F 29 ATR Série MI6 31 Entretoise C 35 29 Anneau élastique_pour alésage 11Ox4 28 Roulement 60 RU 02 27 Chapeau-boîtier C 35 25 Roue dentée d'axe d'entraînement supérieur 30 Ni Cr 11 23 Vérin Festo DTC 200-50 22 Entretoise d'adaptation de vérin E 295 20 Douille de_guidage CW46OK 17 Vis CU HC M6-10 8.8 16 Écrou en Té 25 Cr Mo 4 15 Coulisseau de roue d'entraînement supérieure EN-GJMB-450-6 14 Traverse de_guidage du coulisseau C 35 Joint à lèvre, type A 75x IOOx 10 10 Chapeau C 35 Clavette parallèle, forme A 18x / Ix5o C 35 Arrêt de roue dentraînement 34 Cr 4 Axe de roue dentraînement 34 Cr 4 3a, Roue dentraînement PA6/6fv Couvercle (ensemble) Bâti S 355 Mécano-soudé Rep Nb Désignation Matière Observation
+oncours nationaux dentrée aux cycles de formation dingénieurs
+Session 2011
+Page
 
+--- page 6 ---
+STI_ Icchnologic
+Dossicr Présentation Donnécs ct Hypothèscs
+PARTIE A TECHNOLOGIE DE CONCEPTION
+DONNEES ET HYPOIHESES
+Caractéristiques du servomoteur d'entraînement (69) Couple nominal en charge Cm 24,5 N.m ; Vitesse de rotation à vide Nm 1500 trlmn Puissance nominale Pm = 3,8 kW Diamètre des roues d'entrainement (3a) et (3b) (au niveau de contact avec le tube) DJa D3b D; = 300 mm Transmission par engrenages à dentures droites: Roues dentées nombre de dents Module m (mm) rendement (58)-(41) Zss = 17, Z41 62 71 = 0,95 (49)-(38) Z49 19, Zs87 52 n2 = 0,95 (38)-(25) Z38 52, Z2s = 52 n3 = 0,95
+IHEORIE DE MECANISME Le mécanisme d'entraînement du tube est défini par le schéma cinématique simplifié de la figure A.1. Le torseur cinématique associé à une liaison mécanique entre un solide (i) et un solide (j) est défini, au centre (P) de la liaison et dans la base (X,7,4), par la forme générale suivante
+Qijl Uij {Pu}p Bulvij (77(Yij|wij On donne :
+AC = CB = RY 7c = aX ; Le torseur cinématique associé la liaison ponctuelle entre le solide et le solide (2) est défini , au point Iet dans la base (X,7,4). par {Œ12 U12 {91/2}  B1z V1z (7F,2)(Y1z /k V1z
+Figure A.l Schéma cinématique simplifié du mécanisme d'entraînement
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2011
+Page
 
+--- page 7 ---
+STI Icchnologic
+Dossier Présentation Données et Hxpothèses
+IRANSMISSION DE PUISSANCE
+La chaine de transmission de puissance est illustrée par le diagramme fonctionnel suivant P3a Engrenage (38/25) Sortie 1 73 0,95 Roue 3a
+Servomoteur (69)
+Engrenage (58/41) 71 0,95
+Engrenage (49/38) 72 0, 95 P38
+Sortie 2 Roue 3b
+Pm
+P3b
+Une étude préliminaire montré que dans le cas le plus défavorable et pOur une vitesse davance du tube V 2 m. s-1 la composante tangentielle de leffort exercé par chacune des roues (3a) et (3b) sur le tube est F = 700 N.
+ETUDE DU LIMITEUR DE COUPLE : Le Schéma   cinématique du   limiteur de couple proposé   pour  remplacer  l'accouplement denture entre le servomoteur (69) et 1arbre (54) est donné par la figure A.2. On donne Le couple limite CLim = 1,1. Cm Les surfaces de fiction du limiteur de couple de rayons R = 50 mm et r = 38 mm ; Le coefficient d' adhérence au niveau des surfaces de friction f = 0,35.
+1 : moyeu récepteur 2 : disque porte garnitures 3: cloche 4: couvercle 5 : moyeu moteur 6 vis de régalage 7 Ressort de compression
+Figure A.2 : Schéma cinématique simplifié du limiteur de couple proposé.
+Concours nationaux dencrée aux cycles de formation dingénieurs
+Session 2011
+Page - 5 -
 
+--- page 8 ---
+STI Iechnologie
+Dossier Présentation Données et Hxbothèses PARTIE B TECHNOLOGIE DE PRODUCTION
+On se propose d'étudier la fabrication du coulisseau (15) dont le dessin de définition est donné par le Document B.1.
+ETUDE TECHNOLOGIQUE Principaux outils utilisés en Fraisage
+ETUDE DE FABRICATION Pour Fusinage du coulisseau (15), on utilisera particulièrement des fraiseuses à commande numérique, (CN) et des fraiseuses classiques. La gamme prévisionnelle proposée envisage les phases suivantes Phases Opérations Machine outil 10 Réalisation du parallélépipède 342 X 246 X 120 mm FV Exécution des entailles El et E2 Perçage et taraudage des trous Q FCN 20 Usinage de lembrèvement M. Perçage et taraudage du trou N. Exécution entailles E3 et E4. Perçage et taraudage des trous P. FCN 30 Alésage de L 40 Rainurage de R. FCN 50 Contrôle final
+ETUDE DE LA COUPE L'usinage en finition des entailles EI et E2 du coulisseau (15) est réalisé sur une fraiseuse à commande numérique avec une même fraise en contournage (voir figure B.1-Document réponse)  Les conditions de coupe établies pour l'opération de finition et correspondantes à une durée de vie de loutil T = 90 mn, sont Outil Fraise en acier rapide supérieur revêtue, 40 mm, nombre de dents z = 8 Vitesse de coupe Vc = 60 m /mn Avance par dent fz 0,04 mmldent.
+Concours nationaux d'entrée aux cycles de formacion dingénieurs
+Session 2011
+Page
 
+--- page 9 ---
+TL Icchnologic
+Dossicr Préscntation Donnécs ct Hybothèscs
+PARTIE C - MECANIQUE ET RDM
+On se propose d'étudier la tronçonneuse circulaire utilisée pour tronçonner les tubes (figure C.1). Elle est composée de Un bâti (0) auquel est associé le repère supposé galiléen Ro(0,70Jo, Z0) Un bras (1), en liaison pivot parfaite daxe (O,yo) avec le bâti (0), auquel est attaché le repère R1(O,*p]o  71) tel que & (æo,*1) = (z0,71) et OA = rZ1; Un ensemble (2), en liaison pivot parfaite d'axe (A,j) avec le bras (1), auquel est attaché le repère Rz(A,72 Jo  Z2) tel que B = (*172) = (71,72). L'ensemble (2) est composé de Un arbre assimilé à une tige (T) homogène de masse mp et de longueur L Une scie assimilée à un disque (D) homogène de centre B, de masse m2 et de rayon R Un tube (3) encastré au bâti (0) au cours de lopération de tronçonnage. Au début de cette opération; le contact entre l'ensemble (2) et le tube (3), assuré avec frottement de coefficient f , est supposé ponctuel de normale (I,70) Tous les repères utilisés sont orthonormés directs et on désigne par B; la base du repère Ri Le champ de la pesanteur est défini par g = ~970. Laction de (2) sur (3) au point Iest définie, dans la base Bo, par le torseur {J(2 9 3)} 88} ; Bo (Nl Le bras (1) est entraîné en rotation par un motoréducteur M1 exerçant un couple 71 CiJo ; L'ensemble (2) est entraîné en rotation par un moteur Mz exerçant un couple 72 Czyo On donne IB = Rzo BÀ = ! yo
+7o
+Disque (D)
+yo
+71
+xo
+7o Tige (T)
+B 72
+B
+2
+Xo
+Jo
+Figure C.1 Schéma cinématique minimal de la tronçonneuse.
+Concours nacionaux dentrée aux cyclcs de formation dingénieurs
+Session 2011
+Page - 7 -
 
+--- page 10 ---
+SIL _ Iechnologie
+Dossier Présentation Données et Hxpothèses PARTIE D AUTOMATIQUE
+La présente étude est composée de deux parties indépendantes la première (Partie D.1) porte sur la commande séquentielle de lunité de tronçonnage des tubes, alors que la seconde (Partie D.2) est axée sur l'asservissement de la vitesse de rotation du servomoteur du tracteur-tronçonneuse Partie D.l Commande séquentielle du tracteur-tronçonneuse des tubes L'objectif   de cette   étude est Fétablissement d une commande   séquentielle de Funité de tronçonnage des tubes. En effet, les tubes obtenus par la technique dite continue sont découpés en tronçons de longueurs   déterminées avant d'être stockés L'unité de tronçonnage (figure D.I) est formée d'un tracteur et d'une tronçonneuse _ Le tracteur, situé en amont de la tronçonneuse, permet de ]alimenter en tubes- est formé dun servomoteur (M;) qui assure la rotation des roues d'entraînement dun vérin (V) qui permet la mise en position du tube et fournit leffort nécessaire à son entraînement
+La tronçonneuse formée de deux moteurs (M1) et (M2). Le moteur (M1 permet de basculer la tête de la tronçonneuse alors que le moteur (Mz) entraine la rotation du disque qui assure le tronçonnage des tubes Une butée (d) de détection de tube, permet le réglage de la longueur des tronçons à cisailler
+Vérin
+Disque Moteur (Mz)
+Coulisseau Roue dentraînement Disque
+Va
+Moteur (Mz)
+pl
+Moteur (M1)
+Tube
+Tube
+Moteur (M1)
+Roue d'entraînement
+Cycle du moteur (M1)
+Transmission par_engrenages
+Servomoteur (Mz)
+IMR DL b
+a - Unité de tronçonnage des tubes.
+b- Tronçonneuse isolée.
+Figure D.l Schéma simplifié de F'unité de tronçonnage des tubes_
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 201l
+Page
 
+--- page 11 ---
+II Icchnologic
+Dossier Présentation Données ct Hybothèses
+Les notations utilisées sont les suivantes-
+Variable
+Description Action d'avance du vérin
+Variable
+Description
+Va
+Fin de course d avance du vérin
+Action de retour du vérin
+Fin de course de retour du vérin
+M
+Action de rotation du moteur (M3) Action de descente rapide de la tête de la tronçonneuse
+Butée réglable de détection du tube Capteur de la position haute de la tête de la tronçonneuse Capteur de la position intermédiaire de la tête de la tronçonneuse Capteur   de la   position basse de  la tête de la tronçonneuse Capteur présence tube
+DR
+Action de descente lente de la tête
+DL
+de la tronçonneuse Action de montée rapide de la tête de la tronçonneuse Action de rotation du disque
+MR
+R
+pt
+Initialement, le vérin
+est en position avant; la tête de la tronçonneuse est en position haute, le disque et le moteur (M;) sont en état d'arrêt
+Séquence de mise en position du tube La présence dun tube à l'entrée du tracteur-tronçonneuse actionne le capteur (pt) ce qui entraine le recule du vérin qui dégage avec lui la roue d'entraînement supérieure pour la mise en position du tube. Ensuite; il revient à sa position initiale pour démarrer la séquence de tronçonnage des tubes
+Séquence de tronçonnage du tube La rotation du moteur (Ms) permet de faire avancer   le tube dont la   présence   devant la tronçonneuse est détectée par la butée (d). L'action sur (d) entraine simultanément l'arrêt du moteur (Ms) et la descente; à vitesse rapide; de la tête de la tronçonneuse. Lorsque le capteur est actionné Ia tête de la tronçonneuse descend à vitesse lente. L'action sur le capteur (b) entraîne la montée de la tête de la tronçonneuse, à vitesse rapide, jusqu'à la position initiale. Deux cas   peuvent   alors se présenter Si le capteur de présence tube (pt) est toujours actionné, on reprend la séquence de tronçonnage d'un autre tronçon. Si le capteur de présence tube (pt) n'est pas activé, le système de tronçonnage s'arrête et ne reprend qu après Factivation de ce capteur par un autre tube. Pendant la séquence de tronçonnage d'un tronçon; le disque est maintenu en rotation_
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 20l1
+Page-
 
+--- page 12 ---
+SII Icchnologie
+Dossier Présentation Données et Hybothèses
+Partie D.Z: Asservissement de la vitesse de rotation du servomoteur
+Le servomoteur (M;) d'entrainement des tubes est à courant continu commandé par son induit el à excitation indépendante- On s'intéresse, dans cette partie, à létude de Fasservissement de la vitesse de rotation de ce servomoteur
+On suppose que Les conditions initiales de toutes les grandeurs sont nulles représente Fopérateur de Laplace X(p) représente la transformée de Laplace de x(t) notée par X(p) = L[x(t)] 9(p) = L[w(t)] et w(t) est la vitesse de rotation du moteur. La fonction de transfert du moteur est de la forme
+@6p) G (p) avec k > 0, T1 > 0 et T2 > 0 U(p) (1+T1p)(1+tzp)
+Le schéma fonctionnel du système en boucle fermée est donné par la figure D.2 Une génératrice tachymétrique; de gain kg (kg > 0), délivre une tension proportionnelle à la vitesse de rotation du servomoteur @(t). Le correcteur est décrit par les fonctions de transfert C1 (p) et C2(p).
+On désigne par yt) le signal de consigne, u(t) le signal de commande, v(t) le signal de perturbation; y(t) le signal de sortie et c(t) : lécart entre la consigne et la sortie_
+C2 (p)
+V(p)|
+e(p) C1 (p)
+U(p)
+Slp) kg
+Ylp)
+G (p)
+Yr(p)
+Figure D.2 Schéma fonctionnel du système en boucle fermée
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 20Il
+Page 10
 
+--- page 13 ---
+I 1  9 8 H 8 U 98 1 8 1
+3 54 5 Iii 0 ' 181
+1 8 8 0
+'89v2
+28012
+9
+&
+7 9 35
+8'0oà
+1
+4
+; 3 5 3
++81
 
+--- page 14 ---
+8 H 1 1 8 1 ; 0 1 1 1 f
+{ 2 ; # 5 ;;
+1 5
+F 9
+9 1
+1 8 5 8 8r 8 1
+{ 8 8 9
+1 1 ;
+48 #; 2 1 ; p 6 3 8l 9 g
+1
+2

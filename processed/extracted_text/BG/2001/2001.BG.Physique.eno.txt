@@ -1,3 +1,75 @@
+--- page 1 ---
+ ~oin4 Ministère de lenseignement supérieu
+Loncours Nationaux 0 Entrée aux Cycles de Formation dIngénieurs Session Juin 2001
+Concours en Biologie et Géologie Epreuve de Physique
+Date : Samedi 9 juin 2001
+Heurc 8 b
+Durée : 3 heures
+Nb pages 4
+Barème Exercice 6,5 (partie I : 2,5 ; partie I 4) Problème 13,5 (partie I : 5,5 ; partie I : 8)
+l'usage d'une calculatrice (non-programmable) est autorisé Si, Qu Couts de Zéprewve; un candidat repère ce qui lui semble être une erreur dénoncé, ille signale sur sa copie et poursuit sa composition en indiquant les raisons des initiatives qu'il est amené à prendre. L'épreuve   comporte un exercice et un problème  composé de parties indépendantes   entre elles, les   candidats peuvent les résoudre dans l'ordre qui leur convient; en respectant néanmoins la numérotation des questions.
+EXERCICE
+I- Etude des changements de phases de Peau
+Le diagramme des phases de /eau est représenté en coordonnées T et P sur la figure 1.
+P
+Figure 1
+19) Reproduire et compléter le diagramme en précisant les domaines dexistence des différentes phases . 29) Placer les points caractéristiques sur le diagramme et indiquer brièvement ce qu'ils représentent. 39) Donner la définition de la chaleur latente massique de changement détat dun corps pur. 43) Définir la pression de vapeur saturante. De quel(s) paramètre(s) dépend-elle ? 59) On rappelle que la chaleur latente massique dun changement dun état 1 à un état 2 de leau;   est donnée par la formule de Clapeyron dP L = T(uz ~ U)- où u1 et uz désignent respectivement les volumes massiques à /état 1 et à létat 2 dT A partir de la pente de la courbe de fusion; comparer us et uI , les volumes massiques respectifs du solide: et du liquide
+I- Application Etude de la courbe de vaporisation de Feau
+4884 Ln P = A - T
+La formule
+exprime la pression de vapeur saturante P de [eau en Pascal en mnction de la température absolue T, sur [intervalle [so9c 1809c] . 9 désigne le logarithme népérien et A une constante. 1 chaleur inassique de vaporisation de leau Lv ,est supposée constante et égale à 2,249 1061 'Jlkg
+cutung Biologic et Géologie Sesston Juln 2001
+Epreuve de Physique
+Pege 1,4
 
+--- page 2 ---
+REPUBLIQUE TUNISIENNE Ministère de 'enseignement supérieur
+Concours Nationaux d'Entréc Rux Cycles de Formation d'Ingénieurs Session : Juin 2001
+Concours en Biologie et Géologie Epreuve de Physique
+Date :   Samedi 9 juin 2001
+Heure 8 h
+Durée : 3 heures
+Nb pages : 4
+Barème
+Exercice 6,5 (partie I : 2,5 partie II 4) ; Problème : 13,5 (partie I : 5,5 ; panie II 8)
+lusage dune calculatrice (non-programmable) est autorise Si. au cours de V'épreuve, un canaidat repère ce qui lui semble être une erreur dénonce; il le signale sur sa copie e poursuit sa composition en indiquant les raisons des intiatives qu'il est amene à prendre. L' épreuve comporte un exercice et un problème compose de parties   indépendantes   entre elles; les cancidats peuvent les -ésoudre dans l'ordre qui leur convient. en respectant néanmoins Ja numérotation des questions.
+PROBLEME
+[ Etablissement de la loi de Poiseuille
+On :onsidere une conduite cylindrique d axe horizontal. de longueur ! et de rayon interieur a Cette :onduite est remplie dun fluide incompressible; de masse volumique P et Soumis au sevl champ de pesanteur z suppose uniforme. La temperature est maintenue uniforme. On considère au sein de ce iiuice JT voiume cylindrique C de même axe Ov et de rayon f, compris entre les deux secrions droites passant par 'es points 4 et B disiants de / (cÊ. figure 2) On pcurra considerer que le rayon de la conduite est faible; de sorte que la pression ne varie sensiblement 3as en tout point d'une section droite S. PRepar; u 2 C , Bieliothe" _ 1 > Y 9 3
+Figure 2
+On adoprera un repére orthonorme Oxvz dont |'axe Oy est parallèle à F'axe de la conduite. Oz est la verticale ascendante. 1*) Le fluide étant immobile Quelles sont les forces de pressions F; et Fs qui s'exercent sur les deux sections drcites iu cylindre C de centres respectifs A et B. b) Calculer le poids du fluide contenu dans le cylindre € c) En faisant le bilan des forces agissant sur le cylindre C, déterminer ['expression de la force de pression F 'ar s exerçant sur la surface latérale de ce cylindre. 29) Dans toute la suite du problème, on s'intéresse à un fluide visqueux On admet qu au sein d un: tel duide; dont la vitesse Y n'est pas_uniforme;  il existe une force de frottement qui s'oppose au giissement une couche de fluide par rapport à une autre de vitesse différente.
+Coi ours Biologle et Gcologie session Juin 2001
+Epreuve dc Ph?sique
+Pe2
 
+--- page 3 ---
+7i ;'exerce dcnc; sur la surface latérale du cylindre C défini précédemment; une force dirigee suivant dont là norme par unité de surface est
+Idv = n 5 dr
+où n le coefficient de viscosite du fluice
+On considere un écoulement en_régime penmnanent indépendant du temps de ce tluide visqueux da conduite cylindrique de la figure 2. Du fait de s2 viscosité, sa vitesse qui est parallèle à l'axe Oy, de une fonction v(r) telle que v(a) 2 0 et Y (0) Vmax Pour maintenir cet écoulement, il est alors nece: d'exercer une différence de pression entre les points A et B, situés sur / axe horizontal de la condu:t quantité Pa PB est appelée perte de charge. a) Faire le bilan des forces qui s' exercent sur le cylindre C considéré précédemmeri . b) En appliquant le principe fondamental de la dynamique au cylindre C (projecticn sur Vaxe etablir l'équation différentielle en régime permanent dv = 27Pr dr c) Determiner ie profil de vitesse iéfni par la fonction v(r) et donner son allure. 3 ) On appelle débit volumique; nore Q, Je volume de fluide traversant une section droite de ia con cviindrique de raycn 1 par unite de temps. 1) Quel #st le débit élémentaire dQ du fluide s'écoulant entre deux cylindres de {ayons ? e 1 6)  viontrer que le débit total est donné par 22 Q = Pa-B 3n Cette formule exprime la 'oi de Poiseuile.
+I- Application Ecoulement dune huile dans une conduite
+On applique {étude précédente à l'écoulement d'une huile dans une conduite de longueur ! 2 rayon a, decouchant librement à /air libre dun coté et raccordé à un entonnoir, de section circulair "autre extremité. La partie conique de cet entonnoir a une ouverture de 90' (cf figure 3)
+Figure 3
+Z1
+Zz 45?
+45'
+B
+On donne Z! = 15 cm; / = 2 m a = 7,5 mm g = 9,8 m/s? et Y = 2 = 0,8 104 m*/s p 2) 19) a) Exprimer PA PB en fonction du produit pgZ.. Z: étant la hauteur initiale du iluide j (entonnoir. b) En considérant que la hauteur du   liquide dans Yentonnoir est constante et égale 1 Z. dor la valeur du dëbit. Q En déduire la vitesse moyenne Vm = s En calculant le nombre de Reynolds; vérifier que le régime de [écoulement est bier: lamineir:
+0gc96r? Sisioge #t Céclogie scatc1 Juir 2001
+Epreus  de Phjsique
+Pagf
 
+--- page 4 ---
+29) Pour calculer le temps de passage du niveau de l'huile entre les hauteurs Z1 et Z2 (cffigure 3), on considère que la fommule précédente exprimant le débit en fonction de Z1, valable  pour une hauteur constante; reste applicable pour une hauteur variable Z(t) a) Montrer que pour la côte Z, laire de la surface Jibre de lhuile dans [entonnoir s'écrit sous la forme S(Z) = I z? dZ b) En exprimant le débit Q(t) en fonction de S(Z) et de montrer que Z(t) vérifie 1équation dt 8 a 4 différentielle suivante =- dt 8vlZ Intégrer cette équation différentielle. d) Calculer la durée t de vidange de lentonnoir du niveau Z1 au niveau Z2 = 5 cm 30) On soulève /entonnoir dune hauteur h = 30 cm (cf.figure 4) a) Calculer la nouvelle valeur du débit et celle de la vitesse moyenne pour une hauteur initiale 'Z1 dhuile dans /entonnoir. b) Donner   la nature du régime découlement.
+2
+Z2
+450
+Figure 4
+h
+B
+40)
+a) Etablir la   nouvelle équation différentielle donnant, en fonction du temps; la cote Z() de la surface libre de l'huile dans l'entonnoir . b) Intégrer cette équation différentielle en faisant le changement de variable : y = Z + h c) Calculer la durée t  de vidange pour Z2 = 5 cm. 58) Proposer un mode opératoire permettant d'utiliser ce genre de dispositif comme viscosimètre.
+En utilisant, le premier dispositif (h = 0) pour une autre huile; le temps de passage entre les deux niveaux Z; * Z2 est de 100 s Donner alors sa viscosité cinématique v
+Concours Blolode et Géologle Scssion Juin 2101
+Epreuve de PhysiqDc
+Psgz4/4

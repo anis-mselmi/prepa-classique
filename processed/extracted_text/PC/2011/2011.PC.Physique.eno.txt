@@ -1,7 +1,108 @@
+--- page 1 ---
+13jis2/4i "kc#lma;s 2@p Uukji Bijfliji Uhmini Dufjalyji 2011 i8
+REPUBLIQUE TUNISIENNE Ministere dc |'Enscignement Supericur ct de la Rccherche Scientifique
+Concours Nationaux d 'Entrte aux Cycles de Formation d'Ingenieurs Session 2011
+Concours Physique et Chimie Epreuve de Physique
+Date Jeudi 16 Juin 2011 Heure 8 H Barème Problème I : 09 pts
+Durée 4 H Nbre pages 08 problème II : 11 pts
+'usage d'une calculatrice non programmable est autorise,
+On veillera à une présentation claire et 'soignée des copies  Il convient en particulier d'indiquer avec précision les références des questions. Un candidat peut toujours se servir d'un résultat fourni par 'énoncé pour continuer sa composition
+Problème I :
+TOURBILLONS DANS UN FLUIDE PARFAIT
+Données Soit F un champ vectoriel et un champ scalaire on a divrot F rot grad f =0 ct rot rot F grad div F 4 F
+UMstTTUT CIBUCTHEQUE) PaÉr RACyiRe _ Xux ETUDes [ "digehieumsSn
+grad
+rot v ^v avec v champ de vitesse
+En coordonnées cylindriques on a grad f @ |, 1 @f üp M ü, et rot (f(r) u,) df62 Z, dr ô0 Ôz dr
+Dans certains fluides on constate que très souvent la vorticité est nulle partout dans le fluide sauf   dans   certaines   régions qui ont  la forme de tubes  dits  tubes de vorticité_ Ce type découlement   correspond à des   tourbillons ou vortex comme ceux des   tornades etdes cyclones ou des vidanges de récipient. On caractérise la vorticité d'un écoulement par le vecteur tourbillon Q = rot v où est le 2 champ de vitesse du fluide en écoulement. On se propose détudier le vortex de Rankine, c'est un tourbillon où le tube de vorticité est modélisé par un cylindre infini d'axe Oz et de rayon R
+Concours Physiquc ct Chimic Scssion Juin 201/
+Eprcuvc dc Physlque
+Page 1/8
+grad
 
+--- page 2 ---
+On considère le système de coordonnées cylindriques  (r,0,2) d'axe Oz, dirigé selon la verticale ascendante; et de base (ù,,40,0,)  Dans le modèle envisagé le vecteur tourbillon est donné par @ = 01, pour r(R 5 = 6 pour r) R où 02 est une constante On ne considérera que lécoulement stationnaire et incompressible dun fluide parfait et homogène de masse volumique p Le fluide est soumis au seul champ de pesanteur g = -g 4z -
+I- Etude d'un tourbillon 1-a) Quelles sont les équations locales vérifiées par le champ de vitesse En déduire qu' 'ily a une analogie formelle avec la magnétostatique. 1-b) Quel est l'analogue de ce modèle de tourbillon en magnétostatique ? En exploitant cette analogie formelle, montrer que le champ de vitesse est de la forme v(M) = v(r) 4
+2- Ecrire Fanalogue du théorème d Ampère et en déduire Fexpression de en tout point M du fluide. Tracer la courbe de variation de en fonction de et déterminer la vitesse maximale du fluide
+dv grad 3-9) Montrer que l'équation dEuler s'écrit grad rotv ^ v = _ P + g où ât 2 est le champ de pression du fluide_ 3-b) Déterminer le champ de pression p(r,2) au sein du fluide pour r) R et pour r ( R. On posera Po lim p(r,2) . 79+0 2~0
+4- Iourbillon de_vidange Le tourbillon considéré a lieu dans un liquide surmonté dune atmosphère à la pression uniforme Po 4-a) Déterminer l'équation de la surface libre du liquide pour r) R et pour r { R. L'altitude de la surface libre est supposée nulle lorsque tend vers Finfini. 4-b) Dessiner la trace de la surface libre du tourbillon dans le plan (ù,,7z)
+5- Iornade Le tourbillon considéré a lieu dans Fair. On donne 9 = 0,83 rad.s -' R = S0m; P = 1,3kg- m et la célérité du son dans l'air c = 340m.s-' 5-a) Justifier l'hypothèse que lécoulement de /air est incompressible. 5-b) En notant   Pm la pression au centre du tourbillon et au niveau du sol en 2=0 calculer Ap = P pm et commenter .
 
+--- page 3 ---
+6-a) Montrer que pour un écoulement incompressible il existe un champ vectoriel À tel que v rot A Montrer que ce champ n'est pas unique. Par convention on choisit la condition div 7 = 0, quel est le nom de l'équation analogue en magnétostatique ? 6-b)   Déterminer Féquation locale liant À et 5 Quelle est l'équation analogue en magnétostatique et quel est son nom ? 6-c) Par analogie formelle avec la magnétostatique, montrer que pour ce modèle de tourbillon on a A = A(r) k, où A(r) est appelée fonction de courant de lécoulement. 6-d) Montrer que   A(r) est uniforme sur une ligne de courant. 6-e) Déterminer Pexpression de A(r) pour r)R et la mettre sous la forme
+A(r)
+In(r) + K où K est une constante et 2 I exprimera en fonction de Q et R 
+F'intensité du tourbillon   qu'on
+II- Interaction entre deux tourbillons Soient deux tourbillons d'axes O;z et Ozz , d'intensités respectives 11 = -I2 = 1 et dont les tubes de vorticité ont le même rayon R (Êigure 1). Les coordonnées des points 0 et 0,, dans le plan xOy sont 0(d,0) et 02(-d,0) .
+fgure
+7- Donner les expressions des fonctions de courants   A; (r;) et Ap(r,) créé par chacun des tourbillons en un point M tel que r; ) R et r ) R 
+8- Quelle est la fonction de courant de lécoulement résultant ? L'exprimer en fonction des coordonnées cartésiennes x et y du point M
+9- En déduire l'équation des lignes de courant et montrer qu'ils sont des cercles de centres appartenant à laxe Ox dont on précisera les rayons. Représenter graphiquement 1'allure de ces lignes
+Ld ù I (d? + y? )
+10- Déterminer le champ de vitesse v(x,y) et en déduire que v(x=0,y)
+Cozcours Physinve rt Chimic Sessicn Juin 2011
+Fpreuvc dr Physique
+Page 3/8
 
+--- page 4 ---
+11- Interaction entre un tourbillon et un_mur Un mur de longueur et de hauteur infinies est placé dans le plan x = 0 Dans le demi-espace x)0 se trouve un tourbillon d'axe Oz tel que 0(d,0) dans le plan xOy Dans le demi - espace x (0 se trouve un fluide au repos à la pression Po (fgure 2)
+0
+fgure 2
+11-a) Le mur étant fixe; que peut-on dire de la cinématique de cet écoulement ? Justifier. 11-b) Déterminer la pression dans le plan x = 0 sachant qu'elle vaut  Po lorsque x tend vers +0 1l-c) Déterminer la force que subie lunité de hauteur le long de laxe Oz du mur. Quel mouvement éventuel en résulte-t-il ? dx T On donne 2 (1 + x*)
+Problème II :
+CARACTERISATION OPTIQUE D'UN OTC : OXYDE TRANSPARENT CONDUCTEUR
+Données Soit F un champ vectoriel on a rot rot F grad divF AF L'espace est rapporté au trièdre direct Oxyz de vecteurs unitaires ùz , 9y' 4, Le nombre complexe de module 1 et d'argument n/2 est noté i On notera la célérité de la lumière dans le vide
+Le   problème est   consacré Pétude de la   réflexion et de la   transmission dune onde électromagnétique sur un OTC et la détermination de quelques constantes qui le caractérisent
+Concours Physiquc ct Chimie - Session Juin 2011
+Epreuve de Physique
+Pegc 4/8
 
+--- page 5 ---
+I- Propagation dune onde électromagnétique dans un OTC On considère un OTC solide   homogène et ayant   les mêmes   propriétés que le vide (permittivité  électrique 5o et perméabilité   magnétique Ho ). Ce milieu est constitué d'un ensemble  délectrons   de charge =e de masse m et de  densité   uniforme N (nombre d'électrons par unité de volume) La neutralité électrique est assurée par les ions fixes de charges +e et de même densité N On décrit les électrons du milieu OTC comme élastiquement liés aux noyaux. Dans le cadre de ce modèle lélectron est soumis à une force de rappel élastique F mo 5 où s représente le vecteur déplacement d'un électron par rapport à sa position d'équilibre et @ une constante positive appelée pulsation d'absorption: On négligera; dans ce modèle, la force d'amortissement. Une onde électromagnétique incidente plane se propage dans lair selon Oz croissant;de pulsation 0 et polarisée rectilignement selon Ox Cette onde arrive en incidence normale sur la face plane du milieu OTC située en 0 (fgure 3). On assimilera /'air au vide.
+onde incidente
+onde réfléchie
+figure 3
+Le champ électrique   relatif à londe   transmise dans le milieu  OTC s'écrit en notation complexe E(M,t) Eot e  k:) 4, où est le nombre d'onde et  Eo est T'amplitude du champ électrique transmis.
+1- Justifier que le milieu reste localement neutre en présence de Fonde envisagée.
+2- Soit 4 la longueur d'onde de londe électromagnétique dans le milieu OTC, on a Isl < ^ 2-a) Exprimer la force de Lorentz ressentie par les électrons en présence de londe. Justifier qu'on peut négliger la contribution du champ magnétique devant celle du champ électrique ? 2-b) Justifier qu' 'on peut, à léchelle atomique, considérer le champ électromagnétique comme uniforme
+3-a) Ecrire l'équation différentielle vérifiée par 5 3-b) On se place en régime sinusoïdale forcé, montrer que le vecteur densité volumique de i6o 0? 0 courant 'écrit en notation complexe j E où @p est la pulsation plasma du 0 milieu qu' on exprimera en fonction des données.
+Concours Physique ct Chimic Session Juin 2011
+Eprcuvc de Physiquc
+Pagc 5/8
 
+--- page 6 ---
+Ecrire les équations de Maxwell dans ce milieu. En déduire l'équation de propagation vérifiée par le champ électrique en notation complexe. Cette équation est-elle vérifiée par le champ électrique en notation réelle ? Justifier.
+5-a) Déterminer la relation de dispersion quadratique k en fonction de 0 5-b) Tracer F'allure de la courbe k? en fonction de @? 5-c) Préciser suivant la valeur de 0 la nature des ondes qui se propagent dans le milieu.
+6- Calculer la puissance moyenne  volumique dissipée par effet Joule dans le milieu et conclure.
+7- Sur le milieu OTC on envoi une onde de pulsation qu' arrive-t-il ?
+telle   que 0 {0(vo; + @
+8- On   associe au milieu; dans les domaines de   pulsation où il est   considéré comme transparent, un indice de réfraction n -
+0
+8-a) Montrer que n
+8-b) Comparer n avec lindice de lair na =1 dans les deux cas 0(@ et @)vo; @? 8-c) Si la pulsation de Tonde est tel que 0(@ ou @) vo} + @? y a-t-il forcément propagation dans le milieu ? Pour répondre à cette question il est commode de raisonner sur Finterface air-OTC comme en optique géométrique.
+II- Réflexion et transmission sur POTC Les champs électriques   associés aux ondes   incidente et réfléchie s'écrivent en notation complexe E(M,t) = Eo e'(0r - kp 2) 4x et E(M,t) Eor ei(0t Ko z) 4x où ko est le nombre donde dans le vide; Eo et   Eor sont respectivement les amplitudes des champs électriques incident et réfléchi. La pulsation @ de londe incidente correspond aux domaines pour lesquels le milieu OTC est transparent d'indice de réfraction n
+9- Donner les expressions des champs magnétiques @ , Er et z, associés respectivement aux ondes incidente, réfléchie et transmise:
+10-a) Quelles relations les champs électrique et magnétique des ondes incidente; réfléchie et transmise doivent-ils vérifier à Finterface air-OTC On admettra Vabsence de courant sur Finterface. 10-b) En déduire les expressions des coefficients de réflexion et de transmission en amplitude définis respectivement par Eor 59L  = et t = Eo. Eoi
 
+--- page 7 ---
+11-a) Déterminer en =0 les expressions des valeurs moyennes temporelles des vecteurs de Poynting (7i;) , (Ti,) et (ii; ) associés respectivement aux ondes incidente, réfléchie et transmise. 11-b) Les coefficients de réflexion R et de transmission T en puissance sont définis en Ilii;) Iz) 0 par R = et T = Etablir la relation entre R et T . Iii, Ilii; ) 20 20' + 0? -2 [% - 0)( + @ - 0) 1l-c) Montrer que R s'écrit R = 203 20' + @? +2v.; - 0Y(0 + 0, - 0) Il-d) Justifier que R = 1 pour @ (0(Vw 0?
+III- Détermination des caractéristiques dun OTC Dans le domaine du visible, appartenant à ['intervalle @(0,FOTC considéré est transparent.
+12- Pour @' ((0 montrer que [indice de réfraction de 1OTC varie avec la longueur d'onde B dans le vide selon la loi de Cauchy n(a) = A + où A et B sont des constantes 12 positives On fera_un développement limité à l'ordre 2 en @
+On considère le dispositif des fentes d'Young éclairé par une fente source fine parallèle à Oy _ monochromatique de longueur d'onde  ^n et dont le centre F est placé au foyer objet d'une lentille convergente LI- Les fentes d'Young F1 et Fz sont fines, parallèles à la fente source et distantes de On observe les interférences sur un écran placé dans le plan focal image (xOy) dune lentille convergente L2 de distance focale f (fgure 4). Lexpérience des fentes d Young est réalisée dans l'air dindice de réfraction n 1  Les conditions de lapproximation de Gauss sont valables On donne 0,2 mm f = 40 cm et % 600 nm
+Lz
+fgure 4
+{a"coafe D4:,;28
+Fkim:e Socsio;i S,iz 7011
+Fnrpuys dc Dhveian
+Paor 7/8
+2 
 
+--- page 8 ---
+13-a) Tracer la marche de deux rayons lumineux issus de F et qui interférent en un point M de Pécran d'abscisse et déterminer la différence de marche &(M) entre les deux vibrations associées à ces deux rayons. 13-b) Décrire la figure observée sur lécran et déterminer ['ordre d'interférence  Po au centre de la figure.
+14- On place devant la fente F2, du coté de L1 et perpendiculairement à l'axe optique Oz une lame d'OTC dépaisseur e et dindice de réfraction n(2) - 14-a) Déterminer la différence de marche 8" au point M de lécran.   Déduire   lordre dinterférence Po au centre de la figure et commenter. 14-b) Avec une lame dOTC on compte 35 franges défilées. Calculer lindice de la lame correspondant à la longueur donde ^ On donne 20 /m
+15- La lame étant placée devant la fente F2, on remplace la source monochromatique par une source de lumière blanche_ 15-a) La frange au centre de la figure est-elle blanche ? @p' (M) 15-b) On appelle frange achromatique celle pour laquelle pour une longueur d1 donde moyenne à laquelle Fœil présente une sensibilité maximale 2n 600 nm p(M) est Fordre d'interférence en un point M de lécran. Déterminer la position Xac de la frange achromatique 15-c) Sachant que pour la lame dOTC, la position de la frange   achromatique est en Xac =_4,5 cm et en utilisant les résultats de la question 14-b), calculer les valeurs de A et B
+16- Comment peut-on déterminer les valeurs de @ , @p et N caractéristiques de ['OTC ?
+gin @[Gpuuce
+Concovrs Physiquc ct Chimie Scssion Juin 2011
+Epreuvc de Physique
+Pagc 8/8

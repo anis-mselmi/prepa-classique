@@ -1,6 +1,117 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministcrc dc VEnscigncmcnt Suupcricut, de Ia Rccherchnc Scicntifiquc ct dc lu Tecluxlogic 09~ji F~i 0
+Sj)X2433)
+{|kus|bsbs Ess@u4Ls
+Usin Yibsi 2| jbilini ilttji is jl>Ji 20u9 ;J9'
+OInquonlcoalrc 1rierenn Ullanne
+Concours Nationaux d'Entrée aux Cycles de Formation d'Ingénicurs Session 2009
+Concours Physique et Chimie Epreuve de Physique
+Date Jeudi (4 Juin 2009
+Hcure : 8 H 00
+Durée 4 H
+Nhre pages 07
+Barème Problème [ : 8 pts
+Problème II : 12 pts
+'usage &'une calculatrice non programmable est autorise
+L'épreuve est constituée de deux problèmes indépendants  Dans chaque problème, certaines parties er de nombreuses questions sont indépendantes Un candidat peut toujours se servir dun résultat fourni par F'énoncé pour continuer sa composition On veillera à une présentation claire et soignée des copies;  Il convient en particulier   d'indiquer avec précision les références des questions;
+Problème [
+MESURE DE DEBIT DANS UNE CANALISATION
+On se propose détudier deux types de débitmètres qui permettent la mesure du débit volumique Qv dun fluide s'écoulant dans une canalisation  Les deux parties de ce problème sont indépendantes.
+Gormulaire
+En coordonnées cylindriques (r,0,2) , associées au trièdre local (k,,40,4,) , on définit pour un champ scalaire U(r,0,2) et pour un champ vectoriel G G, i, + Go "0 + G, ü,, les opérateurs suivants gradU QU 1, + 1 80 40 QU 4, dr dz divG = 4 2 (r G,)+ ! aGe + 9 WnstUT ôr 00 Ôz 89}} (uumnnolt _ 'gradU = ! {IFSo"") AU = div 2(")+4%2 %" Pour G = G(r)|, on a AG = (AG(r)) Z,
+Concours Physiquc ct Chimic Session Juin 2009
+Eprcuvc dc Physiquc
+Page 1/7
 
+--- page 2 ---
+1érc Partic Débitmètrc de Venturi
+Le débitmètre de Venturi illustré sur la figure comporte un tube de Venturi composé dun cylindre d'entrée de diamètre D, égal à celui de la canalisation; d'un convergent, €un cylindre de diamètre d < D appelé ( col du Venturi > et dun divergent dont ['extrémité finale possède le même diamètre que la canalisation un manomètre différentiel à tube en U de faible section; rempli de mercure de masse volumique constante P" est raccordé à lentrée et au col du Venturi, il indique une dénivellation h. Lécoulement du fluide, de masse volumique constante   P,= dans la canalisation et donc dans le tube de Venturi est considéré stationnaire, parfait et incompressible Les champs de vitesse et de prcssion (vP) el (v2, P2) sont respectivement uniformes sur les sections droites 1 et 2 du tube de Venturi . Lintensité g du champ de pesanteur est supposé uniforme: L'axe Oz représente la verticale ascendante du lieu.
+section 1
+section 2
+21 = 22
+20 ZA'
+'canalisation
+ZB
+'tube 'de Venturi
+2A
+manomètre différentiel
+fgure 1
+1-a) Le mercure étant au repos dans le tube en U, déterminer la différence de pression PA PR eu fonction de   Pm > g et h. 1-b) Le fluide étant au repos dans le tube en U, déterminer la différence de pression PA Px eI fonction de Pf , g, h,d, D et de la différence de pression P; Pz 1-c) En déduire la différence de pression P P2
+2- Lécoulement étant incompressible; déterminer la relation entre v , Y2 , det D.
+3-a) Etablir la relation de Bernoulli pour le type d'écoulement décrit dans Ja canalisation. On donne grad grad rotv ^ 7 et dU (M) = grad U dm avec U(m) une
+fonction scalaire. 3-b) En déduire la différence de pression p P2 en fonction de Ps , d D et %
+Concours Physiquc ct Chimic Scssion Juin 2009
+Epreuvc dc Physique
+Page 2 /7
 
+--- page 3 ---
+4- Exprimer le débit volumique Qv dans la canalisation en fonction de P , Pm , 8, h,det D. 5- Pour remplir la soute (réservoir) à carburant dun avion; le kérosène est pompé avec un débit mesuré à Faide dun débitmètre de Venturi. Calculer ce débit On donne Pm 13,6 10' kg m 820 kg m d = 10 cm D = 20 cm h = Pkérosene 22 cm et g = 9,81 m s
+6- Quel est ['effet de la variation de la section du tube de Venturi ? Expliquer.
+2émc Partie Débitmètre électromagnétiquc
+1 - Un  fluide  incompressible   homogène de masse volumique P , de viscosité   dynamique et légèrement conducteur de conductivité électrique Y, cst en écoulement stationnaire suivant V z dans un tube cylindrique électriquement isolant de rayon a et daxe Oz (voir Êgure 2-9) On négligera /effet de la pesanteur
+ù
+ùr
+Bo
+r ,/M
+tube isolant
+'canalisation
+tube isolant
+fgure 2-9
+figure 2-b
+1-a) Quelles hypothèses   conduisent à chercher le champ de vitesse dans le tube sous   la forme v = v(r) Z, et le champ de pression sous la forme   p(r,z) 1-b) L'équation de Navier Stockes, donnée ci-dessous, est une forme du théorème de la résultante ôv dynamique; appliqué à une particule fluide P (v grad grad p +nAv où 4  désigne ôt Popérateur laplacien. Que représente le terme n Av âv Que représente les termes et (v grad 1 ? Montrer qu'ils sont nuls dt 1-c) Montrer que la pression ne dépend que de la variable z et que léquation différentielle vérifiée par s'écrit 1 le champ de vitesse 4('4)-4 où Kest une constante qu' on ne cherche pas déterminer . 1-d) En déduire que le champ de vitesse   s'écrit v = v (a' - r2 ), avec Vo une constante déterminer . 1-e) Exprimer le débit volumique Qv du fluide dans le tube en fonction de Vo et
+Concours Physique et Chimic ~ Scssion Juin 2009
+Eprcuve dc Physique
+Page 3/7
 
+--- page 4 ---
+2- Le modèle du débitmètre électromagnétique, illustré sur la ûigure 2, comporte un tube cylindrique électriquemcnt isolant d'axe Oz, de mêmc   rayon que la canalisation. un dispositif, non représenté sur  la figure, crée un champ magnétiquc   uniforme el   stationnaire Bo Bo ", , dans toute la région de l'écoulement dans le tube La figure_2-b représente une coupe transversale de Ia conduite. Dans le tube s'écoule le fluide; étudié dans la question 1, avec la vitesse v = % (a? _ r? ) u, 2-a) On rappelle la loi dOlm locale } Y (  grad V + v B avec V le potentiel électrique et le vecteur densité de courant. Quel phénomène physique décrit le terme v A Bo 2-b) Rappeler Véquation de conservation de la charge. En déduire Féquation vérifiée par le potentiel électrique Vfr,0) . 2-c) On cherche une solution de la forme V(r,0) = f(r) sin 0 Déterminer   ]'équation différentielle vérifiée par f(r et la mettre sous Ja forme à +5)=-2" Bo" 2-d) En déduire que le   potenticl   électrique s'écrit V = Y Bc 4 + € 2Jsino où C est une constante. 2-e) Quelle est la condition aux limiles vérifiée par le vecteur densité de courant j à la surface du tube isolant ? En déduire la valeur de la constante € 2-f) On place un voltmètre entre les points A et B (ûigure_2-b) . Exprimer la différence de potentiel VA ~ Vs en fonction de Qv > aet Bo 2-g) Le débitmètre électromagnétique est utilisé dans l'industrie agroalimentaire pour mesurer le débit des liquides et des pates en écoulement dans une conduite. Calculer Qr - On donne Bo 10-3 T;a = 50 cm et Va -VB = 1 mV.
+Problème II
+DIFFUSION RAYLEIGH ATMOSPHERIQUE
+Sous Faction de la lumière   provenant du   soleil, les différentes molécules de   Tatmosphère se comportent comme des dipôles oscillants et réémettent une partie de la lumière solaire qu' elles ont absorbée. On propose dans ce problème une étude   simplifiée de cette diffusion Rayleigh atmosphérique L'atmosphère est caractérisée par sa permittivité électrique € el sa perméabilité magnétique Ho On notera c la célérité de la lumière dans le vide.
+1ére Partie Rayonnement émis_par un dipôlc
+On considère un doublet constitué de deux charges ponctuelles (~q) est immobile au point et (+q)est mobile le   long de Faxe Oz suivant   la loi z(t) = a cos( @t) et représentent respectivement ]'amplitude et la pulsation des oscillations . L'ensenble constitue un modèle du dipôle oscillant qui rayonne dans le vide une onde électromagnétique de pulsation en un point M repéré par les coordonnées sphériques (r ,0,6) ; (",,40,0, étant la base sphérique (voir figure 3) 
+Concours Physiquc ct Chimic Scssion Juin 2009
+Eprcuvc dc Physiquc
+Pagc 4/7
 
+--- page 5 ---
+On se place dans les conditions ((A (r ; 2 étant la Jongueur d'onde de /onde électromagnétique émise.
+Ur
+M
+u0
+Uç
+figure 3
+1-a)  Montrer   que Phypothèse ((2   impose une condition SUI la   vitesse de déplacement de la charge 9 1-b) Commenter les hypothèses a ((r et ^ (r_ 1-c) Déterminer le moment dipolaire   p(t) de ce dipôle oscillant.  Quelle est Ja valeur Po de son amplitude ?
+2- Le champ électromagnétique rayonné en M est tel que d? p(t - sin0 Ee Ee et B les autres composantes sont négligeables. 41 € 2-a) Justifier, par des considérations de symétrie; la direction des champs Ê(M,t) et B(M,t) . 2-b) Interpréter la présence du terme 2-c) Comparer la structure de cette onde à celle d'une onde plane. Justifier. 2-d) Déterminer le champ E(M,t) en un point appartenant à l'axe Oz et en un point appartenant au plan xOy. Commentcr.
+3-a) Exprimer  le vecteur de Poynting Ii(M ,t) de cette onde et la norme de sa valeur moyenne temporelle Iz) en fonction de Po, €o, @ c et les coordonnées du point M 3-b) Montrer que la puissance électromagnétique moyenne rayonnée à travers une sphère de centre p? @ et de rayon est P I2n € c
+On donne Jo sin 0 d0 = 3
+émc Partie Polarisation par diffusion de la lumière solaire
+1- Une onde électromagnétique  plane   progressive monochromatique  de pulsation @ polarisée rectilignement dans la direction Oz, se propage dans le sens des x croissants_ Elle induit sur une molécule, située au point 0, un dipôle oscillant p:(t) qui rayonne à son tour (voir fgure 4)
+Concours Physique et Chimic Session Juin 2009
+Epreuve de Physique
+Page 5/7
 
+--- page 6 ---
+En   utilisant les résultats de la question 2-d de la première partie; préciser sur un schéma  Ja   direction du champ h, rayonné  par le dipôle p,(t) aux points de coordonnées cartésiennes (x, 0, 0) ; (O,y, 0) et (0, 0, z).
+2 - Une onde électromagnétique plane progressive monochromatique de pulsation @ , polarisée rectilignement dans la   direction Oy; se propage   dans le sens des croissants. Elle induit sur une molécule; située au point 0, un dipôle   oscillant   p,(t) qui rayonne son tour (voir ûgure 4). Préciser sur un schéma la direction du champ Ez rayonné  par le dipôle p,(t) aux points de coordonnées cartésiennes (x, 0, 0) ; (0, y, 0) et (0, 0, 2)
+pz(t)
+py
+ûgure 4
+3-On considère une   onde  plane   progressive   monochromatique de pulsation dans   le  visible provenant du soleil. Cette onde non polarisée se propage dans le sens des x croissants. 3-a) Montrer qu'on peut décrire cette onde comme la superposition de deux ondes sinusoïdales se propageant dans le sens des x croissants, polarisées rectilignement lune selon Oy et lautre selon Oz_ 3-b) Cette onde induit sur une molécule; située au point 0, un dipôle oscillant   p(t) qui rayonne à son tour Préciser  sur un schéma la direction du champ Ex rayonné par le dipôle p(t) aux points de coordonnées cartésiennes (x, 0,0) ; (0, y; 0) et (0, 0, z). Conclure. 3-c) On observe  le ciel dans une  direction voisine de celle du   soleil travers un polariseur Qu'observe-t-on quand on fait tourner Vaxe du polariseur 3-d) On réalise la même expérience mais en observant le ciel dans une direction perpendiculaire celle du soleil. Qu'observe-t-on à travers le polariseur ?
+3eme Partie : Diffusion de la lumière solaire par les molécules de latmosphèrc
+Londe incidente émise du soleil, est caractérisée par son champ électrique qui s'écrit en notation complexe E Eo e (@1 -kx) avec Eo =li| est une constante.  Cette onde interagit avec Pélectron dune molécule de ]atmosphère placée en 0, celui-ci effectue des petites oscillations à la pulsation @ L'électron de masse m et de charge électrique (~e) est repéré depuis 0 par le vecteur 7 Le mouvement de lélectron est régi par léquation différentielle suivante m,4 m d5 = _ m, @ 7 4+47 ^ B) 0o et sont des constantes   positives dt2 dt dt caractéristiques de la molécule considérée.
+1-a) Quelle cst la signification physique du terme m, 0 7 ? m d7 1-b) Expliquer la présence du terme dt
+2- On suppose que |-l ( ^ où ^ est la longueur d'onde de l'onde électromagnétique incidente 2-a) Pourquoi peut-on négliger Faction du champ magnétique sur T'électron devant celle du champ électrique? 2-b) Justifier qu'on peut; à léchelle atomique; remplacer le champ 0= E e (01-kr) par le champ 1=E i(wt)
+Concours Physique et Chimie _ Scssion Juin 2009
+Epreuvc dc Physique
+Page 6/7
 
+--- page 7 ---
+3-a) Pourquoi on a le droit de remplacer les grandeurs réelles dans [équation différentielle par leurs grandeurs complexes associées. Etablir , en régime sinusoïdal forcée, /expression de E 3-b) On suppose que Ja   molécule ne possède  pas de moment   dipolaire en labsence de champ électrique extérieur et on admet que les N électrons de cette molécule ont le même déplacement, en déduire  7(t) le moment dipolaire de la molécule induit par londe électromagnétique; ainsi que son amplitude complexe Po~
+4-a) En se référant à la question 3-b de la première partie déterminer   Pa la puissance moyenne diffusée  par une molécule 4-b) Exprimer Izi ! la norme de la valeur moyenne temporelle du vecteur de Poynting de l'onde incidente en fonction de Eo, €o et c . En déduire la relation entre Pu et Iz )
+5- Pour les molécules constituant latmosphère terrestre (diazote et dioxygène essentiellement) on 0 1,25 1016 rad s' et 1 = 10-9 s On donne la pulsation de la radiation rouge @R 2,35 10' rad s ' et celle du bleu @B = 2 @ 5-a) Sachant que dans ces  conditions on la diffusion   Rayleigh.  Justifier   la relation suivante N2 e Pu Iui )%  6768c m? 5-b) En déduire une explication de la couleur bleue du ciel en plein jour par beau temps.
+6- En réalité le rayonnement solaire perd de lénergie en traversant 1atmosphère à cause de la diffusion.  Pour cette raison on suppose que la puissance moyenne transportée par londe incidente, qui se propage dans le sens   des x croissants; varie légèrement en fonction de x Il % = FI(*) . Soit un cylindre élémentaire daxe Ox de surface P(x) P (x+d) de base S, compris entre les abscisses x et X + dx (voir fgure 5) On note P la   puissance moyenne de londe incidente   traversant   sous incidence normale la ûgure 5 surface d'aire $ 6-a) On suppose que ]atmosphère   terrestre est  constituée de molécules par unité de volume déterminer dP (x) la puissance diffusée par les molécules contenues dans le cylindre élémentaire. 6-b) En effectuant un bilan de puissance sur ce cylindre élémentaire, montrer que II(x) = TI(o)e - *1 et exprimer L en fonction de €; m N , n, e , 00, 0 et € _ 6-c) Calculer   les   valeurs de L pour les ondes électromagnétiques  correspondantes   aux  radiations rouge et bleue et commenter_ On donne N = électron par molécule n = 1025 molécules par m c=3 108 m s-' e= 1,6 10-19 C ; m = 9,1 10-31 kg et € 8,8 10*12 SL. 6-d) Pourquoi les couchers de soleil sont-ils rouges par beau temps ? Pourquoi cette couleur n'est pas la même en plein jour ?
+Fin de Léprcuve
+Concours Physique ct Chimic _ Session Juin 2009
+Epreuvc dc Physique
+Page 7/7

@@ -1,3 +1,66 @@
+--- page 1 ---
+République Tunisienne Ministère de YEnseignement Supérieur et de la Recherche Scientifique Concours Netionaux dEntrée aux Cycles de Formation dIngénieurs Session 2020
+44gj) 1 2s42J1 {_ë.#jg*j9 Gusjeeel Jj4bji S1bluJ| 0+ji 0485 J2i> Ly] 2020 6433
+Concours Biologie et Géologie Epreuve de Mathématiques
+Session 2020
+Date : 16/07/2020
+Heure 8H
+Durée 3 heures
+La qualité de la rédaction et de la présenta ition; la clarté et la précision des raisonnements entreront pour une part importante dans Yappré- ciation des copies. Lusage des calculatrices non programmables est autorisé. Tout résultat fourni dans lénoncé peut être admis et utilisé par la suite, même s'il n'a pas été démontré.
+Exercice 1 (7, points) On se place dans R3 muni de la base canonique B = (e1 e2e3) et du produit scalaire usuel () Soit Ele sous-espace vectoriel de R3 engendré par u1 et u2 où U1 = (1,0,~1) 12 = (1,-2,1)
+1. Vérifier que la famille (u1,u2) est une base orthogonale de E. 2. On définit lapplication @ par
+6 : R3
+R3 (v,u1) u F u = V1 u1 |2
+(v,12, 12 u2 72
+(a) Montrer que @ est une application linéaire (b) Justifier que ker(p) = E. (c) Prouver que pour tout vecteur v de R3 , @(v) est orthogonale à tout vecteur de E. (d) Endéduire une représentation cartésienne et une base du sous espace vectoriel Im(p)- 3 _ On considère, dans la suite de Yexercice, la famille de vecteurs B' = (u1,u2,u3) avec
+1 1 u1 = (1,0,-1)  u2 = (1,-2,1) et u3 = (1,1,1) v2 V6 V3 (a) Vérifier que B' est une base orthonormale de R3 . (b) Donner la matrice de passage P de la base B à la base B' . (c) Déterminer P-1_ 4. On considère p la projection orthogonale sur E. (a) Déterminer la matrice A de p dans la base B' (b) En déduire la matrice M de p dans la base B.
 
+--- page 2 ---
+Concours Biologie et Géologie
+Epreuve de Mathématiques
+Page 2 sur 4
+(c) Pour tout n € N* , calculer An et en déduire que Mn = M 5 On considère la matrice C € M; C (R) définie par
+1
+=1 =1
+C =
+~1 1
+=1
+=1 =1 1
+(a) Justifier que C est diagonalisable. (b) Vérifier que u3 est un vecteur propre de C, qu'on déterminera la valeur propre asso- ciée. (c) Démontrer que E est le sous espace propre associé à la valeur propre 2 de la matrice C. (d) Donner une matrice diagonale D telle que C=PDtP où P est la matrice définie dans (3-b) et *P désigne la matrice transposée de P. (e) Trouver les réels a et b tels que C =aM+bI3 où I3 est la matrice identité de MsC (R) et M est la matrice définie dans (4-b). (f) Calculer Cn, pour tout n € N* .
+Exercice 2 (7,5 points) On admettra que, si U et V sont des variables aléatoires indépendantes admettant respective- ment pour densité les fonctions fu et fv, alors la variable aléatoire U + V admet pour densité la fonction fu+V définie sur R par
++0 fu+v(t) = 1 fu(x) fv(t ~ x)dx. =0
+Soient a un réel strictement positif; X et Y deux variables aléatoires indépendantes de densité f définie par @ ta+I sit 21, f(t) =
+sinon.
+1 (a) Montrer que la variable aléatoire U = In(X) suit une loi exponentielle de paramètre 0.
+(b) Déterminer la loi de U + V, où V = In(Y) (c) En déduire la loi de XY. 2. On considère une suite (Xn)neN* de variables aléatoires indépendantes suivant toutes la même loi exponentielle de paramètre a. Pour tout n € N* on définit la variable aléatoire In = max(X1, - Xn)  On rappelle que pour tout x € R,
+(Tn <x) = (X1 <x)n..n (Xn < x) (a) Déterminer la fonction de répartition de In.
 
+--- page 3 ---
+Concours Biologie et Géologie
+Epreuve de Mathémetiques
+Pege 3 sur 4
+(b) En déduire que la fonction densité de probabilité de In est donnée par
+ane ax (1 ~ e-ax)n-1
+si
+x > 0,
+fn (x)
+sinon.
+(c) Étudier lexistence de lespérance de la variable aléatoire Tn. 3. (a) Vérifier que pour tout n € N* et pour tout x > 0, on a : 1 fn+1(x) = fn(x) = ~ a(n +1)fn+1 (x) (b) Montrer; à laide june intégration par parties; que pour tout n € N* 40 1 +0 x(fn+1(x) _ fn(x))dx = fn+1 (x)dx. a(n +1)
+(c) Déduire une relation de récurrence entre E(In+1) et E(Tn) 1 (d) Justifier alors Yégalité E(In) = 1 É k pour tout n € N*. a (e) Déterminer lespérance E(Tz) et la variance V(Tz) de la variable aléatoire T2. 4 Soit Y1, '' } Ym des variables aléatoires indépendantes de même loi que I2. 1 m On pose Ym = Yk, m € N* . m k=i (a) En supposant que m est suffisament grand, montrer que Ym peut être approchée par une loi normale dont on déterminera les paramètres. (b) Soit Z une variable aléatoire réelle suivant une loi normale centrée réduite. Trouver la valeur du réel positif Q tel que
+P(IZI < &) = 0.95 Indication On donne @(1.96) = 0.975, où @ est la fonction de répartition de la loi normale centrée réduite (c) En déduire qu'il existe deux suites réelles positives (am)m et (Bm m telles que
+@m P( <Ym Bm = 0.95
+(d) Donner un intervalle de confance pour le paramètre a en fonction de Ym avec un risque derreur de 5%. (e) Pour a = 2, qu'elle est la valeur minimale de la taille de léchantillon pour que lécart entre la moyenne empirique et E(Tz) soit inférieur à 10-2 avec un niveau de confiance égale à 95%.
+Exercice 3 (5 points) Soient n € Net p un réel de J0,1 [ On considère une urne contenant des boules blanches et noires avec la probabilité p de tirer une boule blanche et la probabilité q = 1 _ p de tirer une boule noire.
 
+--- page 4 ---
+Concours Biologie et Géologie
+Epreuve de Mathématiques
+Page 4 sur 4
+On effectue une succession de tirages dune boule; avec remise et on définit la variable aléatoire X prenant la valeur du nombre de boules noires obtenues avant lobtention de la deuxième boule blanche_ Notons, pour tout k € N*= les événements Bk respectivement Nk, "Obtenir une boule blanche' respectivement "Obtenir une boule noire' au kème tirage. 1 (a) Décrire les événements (X = 0), (X = 1) et (X = 2) en fonction des Bk et Nk puis calculer leurs probabilités. (b) Soit A lévénement "Obtenir une seule boule blanche parmi (n + 1) tirages' Calculer P(A) . (c) En déduire que P(X = n) = (n+ 1)p?q" 2. On considère Y une variable aléatoire définie sur N telle que
+si
+0 <k < n,
+P(Y = k/X = n) =
+sinon.
+(a) Déterminer la loi de Y. (b) Montrer que U = Y+ 1 suit une loi géométrique dont on déterminera le paramètre. (c) Déduire la valeur de E(Y) et V(Y)- 3. Soit la variable aléatoire Z = X _ Y. (a) Déterminer lensemble des valeurs prises par la variable Z (b) Déterminer la loi conditionnelle de Z sachant (X = n) (c) En déduire que Z suit la même loi que Y. (d) Montrer que les variables Y et Z sont indépendantes. (e) Calculer Cov(Y,Z) et déduire la valeur de Cov(X,Y).
+Fin de lénoncé
+n+I

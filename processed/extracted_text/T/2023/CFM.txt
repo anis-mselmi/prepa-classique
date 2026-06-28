@@ -1,58 +1,1602 @@
+--- page 1 ---
+République Tunisienne
+7848 61U?18ais guleg
+Ministère de 2Enseignement Supérieur et de la Recherche Scientifique Concours Nationaux d'Entrées aux Cycles de Formation dIngénieurs Session 2023
+UcjlujjsWl>cuvi 20236,>
+auk
+Concours de Technologie Épreuve de
+Preparatolre Eludes ( @ (Bibliotkèque ) Unhenite ( rejS $ Conception & Fabrication Mécanique deSfay
+Date Mardi 06 Juin 2023
+Heure 08H 00
+Durée 4 Heures
+L'épreuve comporte deux parties
+A-  Conception Mécanique B Fabrication Mécanique
+Le sujet de lépreuve remis au candidat comporte trois dossiers 1-Mise en situation; Données et Hypothèses 2- Documents Techniques (DT-01à DT-05) 3- Document Réponses
+Recommandations aux candidats Aucun autre document n'est autorisé, Seules les calculatrices de poche non programmables sont autorisées: Il n'est fourni au candidat qu'une seule et unique copie du <Dossier document réponses > qui doit être rendu en totalité, à la fin de lépreuve, même sans réponses. Le document réponses doit être rendu en intégralité (aucune feuille ne doit être supprimée) Toute suppression de feuilles du document réponses est considérée comme tentative de fraude.
+
+--- page 2 ---
+Dossier
+Mise en situation; Données et Hypothèses
+Ce dossier comporte sept pages, numérotées de 1 à 7 et 5 documents
+techniques DT-01 à DT-05
+Mise en situation
+Pages 1/7 et 2/7
+Documents Techniques Données et hypothèses
+DT-01 à DT-05
+Pages 3/7 à 7/7
+A- Conception Mécanique
+Pages 3/7à 5/7
+B - Fabrication Mécanique
+Pages 6/7 et 7/7
+
+1
+ 
+ ?
+Concours nationaux d'entrée aux cycles, de formation d'ingénieurs
+Session 2023
+
+--- page 3 ---
+Concours Technologie
+Épreuve CFM
+Mise en situation; Données & Hypothèses
+ÉTUDE D'UN OVERDRIVE
+1- Mise en Situation
+Présentation
+Overdrive est un terme qui peut avoir plusieurs significations, selon le contexte dans lequel il est utilisé En général, il se réfère à une accélération ou une augmentation de la vitesse ou de T'intensité d'une activité ou d'un processus.
+Dans le domaine automobile, 'overdrive est un terme qui désigne un rapport de vitesse supérieur à celui de la boîte de vitesses. Il permet de réduire la vitesse de rotation du moteur à une vitesse donnée de la voiture, ce qui entraîne une réduction de la consommation de carburant et une réduction du bruit du moteur. Ceci peut améliorer le confort de conduite à haute vitesse. Elle est souvent identifiée par un symbole O.D v sur le levier de vitesses de la voiture
+Principe de fonctionnement dun overdrive
+Les moteurs modernes sont souvent équipés dun capteur qui détecte la charge du moteur et la vitesse du  véhicule pour décider de lactivation ou de la désactivation de l'overdrive; afin doptimiser la consommation de carburant et les performances de conduite.
+Dans une boîte de vitesses, la prise directe et la vitesse surmultipliée sont deux concepts liés à Toverdrive
+La_prise directe permet de transmettre la puissance du moteur directement aux roues sans perte de puissance. En général, la prise directe correspond à la dernière vitesse dans une boîte de vitesses classique; tandis que l'overdrive est le rapport de vitesse supérieur à la prise directe. La vitesse surmultipliée est une configuration qui permet de réduire la vitesse de rotation du moteur à une vitesse donnée de la voiture en utilisant une vitesse supplémentaire plus élevée que Ja prise directe. Cette vitesse supplémentaire est souvent appelée overdrive Elle permet de réduire encore plus la consommation de carburant et le bruit du moteur à haute vitesse
+En pratique; la prise directe et l'overdrive sont souvent combinés pour obtenir le meilleur équilibre entre les performances de conduite, la consommation de carburant et le bruit du moteur. Les voitures modernes sont souvent équipées de transmissions automatiques qui peuvent activer et désactiver automatiquement l'overdrive en fonction des conditions de conduite
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2023
+Page 1 |7
+
+--- page 4 ---
+Concours Technologie
+Épreuve CFM
+Mise en situation, Données & Hypothèses
+Ce sujet s'intéresse à létude dun overdrive monté sur certains véhicules automobiles entre la boîte des vitesses et larbre de transmission (Figure 01).
+Embrayage
+overdrive_(0 D)
+Différentiel
+Moteur
+Boîte de Vitesses (BV)
+Arbre_de_transmission
+Roue
+Figure. 01 - Schéma d'implantation dun Overdrive
+ 
+
+1
+
+Les objectifs visés par ce sujet consistent à :
+ ^  ' '
+Étudier la chaîne de transmission de mouvement et de puissance associée à loverdrive;
+2. Analyser la mobilité du mécanisme et la cotation fonctionnelle,
+Compléter le dessin densemble du mécanisme et de définition dune pièce, Étudier les propriétés et la désignation des matériaux des pièces, 5. Étudier la coupe en fraisage et élaborer un contrat de phase. 1  
+L'épreuve comporte deux parties Conception Mécanique où Yon traite les composantes mécaniques afin de répondre aux objectifs 1, 2 et 3. Fabrication Mécanique qui visera à atteindre les objectifs 5 et 6.
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2023
+Page 2 |7
+
+--- page 5 ---
+Concours Technologie Épreuve CFM Conception Mécanique Mise en situation, Données & Hypothèses
+2-Données et Hypothèses
+Partie A : Conception Mécanique
+Cette partie est composée de cinq sections ayant pour intitulées respectives Étude technologique; Étude de la chaîne de transmission de mouvement et de puissance, Analyse du mécanisme, Cotation Fonctionnelle, Étude graphique. Section AI- Étude technologique Cette section traite les aspects   technologiques du   mécanisme  overdrive  présenté   par   les documents techniques DT-01 et DT-02- Section AII- Étude de la chaîne de transmission de mouvement et de puissance (DT-01)
+Dans cette section on s'intéressera à létude de la chaîne de transmission de mouvement et de puissance dans les deux phases de Yoverdrive En effet; le mouvement de rotation de sortie de la boîte des vitesses est communiqué de Yarbre dentrée (1) vers la couronne de sortie (19), selon le passage à travers la roue libre (24) ou le train épicycloïdale. La position du tambour conique (11) permet dobtenir soit une  prise directe quand elle est  embrayée (19), soit une surmultiplication quand elle est freinée par adhérence avec (14) Eude de la phase < Prise directe >
+La phase Prise directe > (Figure 02) est assurée par les ressorts (5). Dans ce cas, la transmission du mouvement est assurée directement par la roue libre (24)
+Figure. 02 - Phase < Prise directe >
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2023
+Page 3 |7
+
+--- page 6 ---
+Concours Technologie Épreuve CFM Conception Mécanique Mise en situation; Données & Hypothèses
+Étude de la phase Vitesse surmultipliée >
+La phase <Vitesse surmultipliée > (Figure 03) est assurée par les deux pistons (27). Ces derniers sont activés par une pompe (35), (36) et (37) actionnée par une came (39). L'acheminement du fluide   hydraulique aux deux pistons (27) est tributaire de Yalimentation électrique dune électrovanne (non représentée) . Cette alimentation est réalisée soit par laction du conducteur sur un interrupteur   généralement   intégré dans   le pommeau du   levier de   vitesses, soit automatiquement.  
 
 
+  s
 
+      <
+Figure. 03 - Phase de Vitesse surmultipliée >  Tableau 01 - Données et caractéristiques des pièces
+Entrée de loverdrive
+Pe 70 KW, Ne = 2500 tr /min; 7 =1
+Engrenages
+Z29 19
+Z19 56
+Z17 = 15
+Z15 22
+Rayons RF 68 mm TF 65 mm Conicité Za = 220 Coefficient de frottement f = 0,3 Pression admissible Padm 2MPa Rayons RE 64 mm TE 61 mm Conicité Za = 22' Coefficient de frottement f = 0,15 Pression admissible Padm 2 MPa Nombre des ressorts Diamètre des pistons $dp 25 mm Nombre des rouleaux n Diamètre intérieur du tambour $D = 74 mm Diamètre des rouleaux +dr = 14 mm Coefficient dadhérence f = 0,1 Effort normal NA 5300 N
+Frein conique (11) (14)
+Embrayage conique (11), (19)
+Mécanisme de commande (2), (3), (4), (5) (27)
+Roue libre (24)
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2023
+Page 4 |7
 
+--- page 7 ---
+Concours Technologie Épreuve CFM Conception Mécanique Mise en situation, Données & Hypothèses
+Section AIII - Analyse de mécanisme
+On se propose dans cette section danalyser la mobilité du mécanisme overdrive dans la phase Vitesse surmultipliée > Pour simplifier Yétude, on modélisera le mécanisme par le schéma cinématique minimale de la Figure 04, où /on considèrera 4 classes d'équivalence définies par A, B, C et D. Les liaisons sont considérées parfaites.
+B
+AAAA
+Figure. 04- Schéma cinématique minimal du mécanisme (Position < Vitesse surmultipliée v)
+Section AIV - Cotation fonctionnelle
+Cette section servira pour létude des ajustements qualitatifs dun certain nombre dassemblage des pièces du mécanisme overdrive et la détermination de la cote condition afin de respecter les conditions de montage Section AV- Étude graphique On se propose dans cette section de compléter le dessin densemble (Page 10/19) en exploitant les documents Techniques DT-01, DTO2 et DT-03. Le candidat est appelé aussi à compléter le dessin de définition du guide (35) (Page 11/19)
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2023
+Page 5 |7
 
+--- page 8 ---
+Concours Technologie Épreuve CFM Fabrication Mécanique Mise en situation, Données & Hypothèses
+Partie B Fabrication Mécanique Cette partie est composée de trois sections désignées successivement par Étude des matériaux, Étude de la coupe en fraisage, Élaboration dun contrat de phase: Section B.I- Étude des matériaux
+L'objectif principal de cette section est de déterminer   les caractéristiques mécaniques du couvercle de support (8) partir de la courbe conventionnelle de traction dune éprouvette normalisée du matériau de cette pièce (Figure 05).
+350
+300
+300
+250
+250
+200 g 150
+200
+g 150 100
+100
+50
+50
+0,0
+0,2
+0,8
+1,0
+%)
+Figure. 05 - Courbe de traction conventionnelle
+Section B.II-Étude de la coupe en fraisage
+Dans cette section; on cherche à optimiser les conditions de coupe en fraisage. Nous souhaitons choisir une fraise 2 tailles (2T) en acier rapide supérieur (ARS). Nous disposons de deux fraises de même diamètre, la première à deux dents et la deuxième à quatre dents.
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2023
+Page 6 |7
 
+--- page 9 ---
+Concours Technologie Épreuve CFM Fabrication Mécanique Mise en situation, Données & Hypothèses
+Le principe de Yenlèvement de copeaux lors dune opération de fraisage en bout est présenté dans le document DT-05. Les 'points 1, 2,3 et 4, au milieu des arcs, représentent les points de passages respectivement des dents 1, 2,3 et 4 Pour simplifier Pétude, on suppose que
+Les trajectoires des dents de la fraise sont assimilées à des arcs de cercle, La composante de Yeffort de coupe suivant le mouvement davance est négligeable; ce qui se traduit par (Vc >> Vf)
+L'effort de coupe maximal en fraisage en bout par dent engagée FcMax est donné par lexpression suivante
+ap ae ` fz FcMax Kc T ' D
+Avec :
+ap : profondeur de passe axiale; ae engagement en coupe (largeur fraisée), fz avance par dent, Kc : pression spécifique de coupe, D : diamètre de la fraise.
+Par ailleurs, l'évolution de Yeffort de coupe par dent dune fraise 2T, au cours de lusinage dune rainure droite, pendant un tour, est représentée par la courbe de la Figure 06. ts représente le temps d'engagement dune dent (la durée dengagement) . Fc
+Fc Max
+tp/2
+tp
+3tp/2
+2tp
+Figure: 06- Évolution de Yeffort de coupe par dent pendant un tour de la fraise Section B.III-Élaboration dun contrat de phase
+Dans cette section on se propose délaborer le contrat de phase de la cloche (50) permettant Yusinage des deux rainures A et A' (DT-04) sur un centre dusinage vertical à 4 axes. Le candidat est appelé compléter la feuille du contrat de phase (Page 19/19)
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2023
+Page 7 |7
 
+--- page 10 ---
+République Tunisienne Ministère de 1'Enseignement Supérieur et de la Recherche Scientifique Concours Nationaux d'Entrées aux Cycles de Formation Ingénieurs Session 2023
+aux
+(Preparatolro Eluces ( @ (Bibliothèque ) 8 verahe de  Iejs ? Slat
+Concours de Technologie Épreuve de Conception & Fabrication Mécanique
+Date
+Mardi 06 Juin 2023
+Heure
+08H 00 Durée
+Heures
+Documents Techniques
+Ce dossier comporte 5 documents techniques numérotés de DT-01 à DT -05 DT-01 Overdrive Coupe A-A Coupe partielle B-B Coupe partielle C-c DT-02 Nomenclature Rep . de 41 DT-03 Eléments standards DT -04 Cloche (50) Coupe D-D Section E-E DT-05 Valeurs indicatives des conditions de coupe en fraisage en bout Trajectoire de la fraise et principe de formation de copeaux en fraisage en bout
 
+--- page 11 ---
+5 ; 2 Hi IU 8 5 ili 0 1 f 5 : Hi 2 Ili 1 1
+P 8 2 8
+1 8
+1 2
+9
+~ 2
+"
+9
+2
+<
+1
+3
+0
+4 81 8
 
+--- page 12 ---
+Concours Technologie
+Epreuve C .F.M
+41
+Anneau élastique Clavette Came Galet Ressort de_rappel Piston Guide Corps du clapet de refoulement Ressort de rappel Bouchon Joint d étanchéité Bague d ' appui
+40
+39 38 37
+36 35 34 33 32 31
+X2 Cr Ni Mo 18
+30 29 28 27
+35 Cr Mo
+Clavette Piston du vérin Cage à aiguilles K12x15x10 Plaque d ' appui Roue libre (6 Rouleaux Moyeu Carter de sortie Cale Anneau élastique
+X2 Cr Ni Mo 17 12 02
+26 25 24 23 22 21 20 19 18 17
+SKF
+Tambour)
+GE360 C45
+Moulé
+Couronne Butée à billes type AT
+35 Cr Mo
+SKF
+35 Cr Mo
+16 15 14 13 12 11 10
+Cage
+aiguilles K12x15x10
+SKF
+35 Cr Mo
+Support de freinage
+Goupille Tambour conique Support de roulement Roulement à billes type BC 02 Couvercle de support Coussinet Carter d entrée Ressort de poussée Levier de poussée Ecrou MHT Vis H M8 - 75 Arbre d 'entrée Nbre Désignation
+SKF
+Cu Sn
+55 Si 7
+Classe 8 .8 Classe 8 .8 8235 Matériaux
+Rep
+Obs
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Etude d'un Overdrive
+Session 2023
+DT-02
 
+--- page 13 ---
+Ecrou hexagonal
+créneaux Inox A4
+Din 935 212
+Concours Technologie Epreuve C .F.M
+<10
+min M4 7 ,66 M5 8 , 79 M6 11 ,05 M8 14 ,38 M1o 18,90 M12 21 ,10
+max max 5 ,0 3,2 6 ,0 4,0 7,5 5,0 9 ,5 6 ,5 12 15 10
+min 1,2 1,4 2,0 2,5 2,8 3 ,5
+min (M14) 24 ,49 M16 26 , 75 (M18) 29 ,56 M2o 32,95 M22) 35,03 M24 39 ,55
+nax 16
+max 11
+Min 3 ,5 4,5 4,5 4 ,5 5,5 5,5
+22/21* 24 27 30 32/34* 36
+19 21 22 26 27
+13 15 16 18 19
+10 13 17/16* 19/18*
+Clavette parallèle
+NFE 22-177 Forme
+Forme
+A-A
+Clavette
+Arbre
+Moyeu
+NFE 22-181
+Forme
+NFE 22-175
+Vis ou Chc
+ahg
+S x 45
+Clavettes parallèles
+principales dimensions normalisées de-à série cas d normale une série fixation par inclus mince vis s K b* J* K* vis t | 6 à 8 2 | 2 |o, 16|7 -1,2 d + 1 6 à 20 9 à 10 3 à d-1,8 d + 1,4 6 à 36 11 à 12 4 | 410,25/7-2,5ld + 1,8 8 à 45 13 à 17 5 | 5 0,25 d-3 d + 2,3 10 à 56 7 -1,8 7+1,4 18 à 22 6 7-3,5|d + 2,8 14 à 70 7-2,5/7+1,8 M2 ,5-6 5 | 2,9 2,5 23 30 10 , 40 d-4 d + 3,3 18 à 90 7-3 7+2,3 M3 -8 6 ,5| 3,4 | 3,5 31 à 38 10 8 0,40 d-5 d + 3,3 22 à 110 7-3,5/7+2,8 M4 - 10 8 | 4,5 | 4,5 39 à 44 12 8 d-5 d + 3,3 28 140 7-3,5 7+2,8 M5 - 10 10 5,5 | 5,5 45 50 | 14 lo,60 |d-5,5 |d + 3,3 36 à 160 7-3,5|7+2,8 M6 - 10 12 6,6 | 6,5
+Concours nationaux d' entrée aux cycles de formation d ingénieurs
+Etude d'un Overdrive
+Session 2023
+DT-03
 
+--- page 14 ---
+2x0 6
+R 35 +0.5
+JB2
+21 H7
+R 45
+4 2
+0 . 1 | 1
+E-E
+40 40 .2
+10 .2 40
++0 .2 25
+D-D 0 30 40.2
+2
+2
+2 110
+8 5
+8
+8 8 | 3
+40 *1
++0 . 0 57
+0 01
+0 . 5 B2
+A]=lo . 2
+2
+0 . 2 B2
+Llo .1|
+Ra 3.2 sauf indication
+10 . 2/B1
+0
+Tolérances générales ISO 2768 mk sauf indication
+Echelle 1:1
+Session 2023
+Cloche (50)
+GC40
+Format A4
+Concours nationaux d'entrée aux cycles de formation d ingénieurs
+Concours Techno Epreuve C.F.M
+Etude d'un Overdrive
+DT-04
 
+--- page 15 ---
+Concours Technologie Epreuve C.F.M
+Tableau des valeur indicatives des conditions de coupe en fraisage en bout
+Outil à plaquettes en carbure Ebauche Finition Vas fz Vss fz 85 0,15 100 0 ,05 65 0,15 78 0,05 90 0,15 105 06 90 0,15 105 0 , 06 75 0,15 85 0,10 90 0,15 100 0,10 60 0,15 66 0 ,10 300 0,25 350 0,15 100 0 ,25 150 0,15 42 0,12 46 0 ,08
+Outil monobloc A.R.S
+Matière
+Ebauche Vso fz 25 0,12 15 0,10 23 0,11 18 10 18 0,09 14 10 10 0,08 40 0,20 35 0,12 17 0,08
+Finition Vso fz 30 0,05 18 0 , 06 26 06 20 06 15 05 16 15 03 45 10 39 08 19 0,04
+S235 35CrMo4 C25 GC40 X2CrNi18-10 EN -GJL - 250 EN -GJS-450 CuZn3o Dural AU4G CuZn12
+Fraise 2T
+Mf
+Mf
+Pièce
+Cmax
+Vc
+Trajectoire de 1a fraise et principe de formation de copeaux en fraisage en bout
+Rainure
+Concours nationaux d' entrée aux cycles de formation d ingénieurs
+Etude d'un Overdrive
+Session 2023
+DT-05
 
+--- page 16 ---
+Dossier
+Pteparaiolre 8Ux Eludes ( (Bibliothèque ) 9 6unl6@5 "Ieis $ Slex
+Document Réponses
+Ce dossier comporte 19 pages numérotées de 1à 19
+Partie A- Conception Mécanique
+Page 1/19 à 11/19
+Partie B- Fabrication Mécanique
+Page 12/19 à 19/19
+Recommandations aux candidats
+Si le texte du sujet; de ses questions ou de ses données vous conduit à formuler une ou plusieurs hypothèses, il vous est demandé de la (les) mentionner explicitement dans votre copie. Un seul document réponses est fourni au candidat: Le candidat doit rendre obligatoirement le document réponses avant de quitter la salle d'Examen. Le document réponses doit être rendu en intégralité (aucune feuille ne doit être supprimée) Toute suppression de feuilles du document réponses est considérée comme tentative de fraude Le renouvellement ou la reproduction de ce dossier sont strictement interdits.
 
+--- page 17 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+Partie A Conception Mécanique
+Section AI-Étude technologique
+41-A.6. Compléter le Tableau -1, en précisant le rôle de chacune des pièces dans le mécanisme:.
+Tableau 1 Rôle des pièces_ Rôle
+Pièces
+Al:
+(7+26)
+A2 :
+(12)
+A3
+(24)
+A4 :
+(37)
+A5 :
+(38)
+A.6 :
+(39)
+A.7.Donner le rôle du trou T.
+A.8. Quels sont les avantages dune transmission par engrenages à train épicycloïdal par rapport à une transmission par engrenages à train ordinaire ?
+A9. Établir la relation entre le nombre de dents traduisant l'égalité des entraxes. On suppose que les engrenages ont le même module
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2023 Page 1 | 19
 
+--- page 18 ---
+Concours Technologie Épreuve CFM
+Partie A Conception Mécanique
+Document Réponses
+Section AII- Étude de la chaîne de transmission de mouvement et de puissance
+A10. En se référant au dessin densemble (DT-01), compléter le diagramme fonctionnel associé à la chaîne de transmission de puissance pour chacune des deux phases. Phase Vitesse surmultipliée >
+Arbre d'entrée (1)
+Couronne (19)
+Phase Prise directe >
+Arbre dentrée (1)
+Couronne (19)
+Étude dela phase Vitesse surmultipliéez
+Pour cette phase; lactionnement du frein permet; à travers lensemble du train dengrenages composé par les pièces {13,15,17,19,20,29}, de multiplier la vitesse angulaire fournie par Yarbre dentrée (1) On désignera par C1 le couple moteur exercé sur larbre d'entrée (1) tournant à une vitesse @e C19 le couple résistant exercé sur Yarbre de sortie (19) tournant à une vitesse @s: Cf le couple de freinage exercé sur le tambour conique (11)
+A11. Identifier les repères relatifs aux organes constituant le train épicycloïdal (se référer au dessin densemble DT-01).
+Organes
+planétaires
+Satellites
+Porte satellite
+Repères
+A.12. En appliquant la formule de Willis, établir la relation entre les vitesses angulaires de Yarbre dentrée (1) et la couronne de sortie (19) en fonction de leurs nombres des dents.
+W19 01
+Expression
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2023 Page 2 | 19
 
+--- page 19 ---
+Concours_ Technologie Épreuve CFM
+Partie A Conception Mécanique
+Document Réponses
+A13. Établir la relation; en mesure algébrique; traduisant léquilibre des moments des actions mécaniques (C1, C19, Ce) exercées sur Yensemble du train dengrenages.
+Frein
+Cf
+Expression
+414. Écrire la relation; en mesure algébrique, entre C1 et C19, issue de Yapplication du théorème de la conservation de lénergie cinétique à Tensemble du train dengrenages (les vitesses des différentes pièces sont supposées constantes) .
+Expression
+A.15-A16. Déduire alors les équations permettant de calculer les couples C19 et Cf en fonction de C1 .
+A.15 : Expression :
+C19
+A16 Expression
+Cf
+020020  
+Al7.Calculer le couple de freinage Cf
+A.18. Établir Yexpression du couple dadhérence Cad développé par le frein conique:
+Expression :
+Cad
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 20230 Page 3 | 19
+G19
 
+--- page 20 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+A19. Calculer Teffort presseur Fa permettant de produire un couple dadhérence Cad Cf = 200 N. m
+AN
+Fa
+A20. Calculer la pression de contact P au niveau de la surface de friction du frein puis conclure sur la résistance de cette surface
+AN :
+MPa
+Conclusion
+A21. Pour une pré-charge Fr 600 N au niveau des quatre ressorts (5), calculer leffort Fp que doit fournir chacun des deux pistons (27) des deux vérins commandant le frein
+Frein
+AN
+Fp
+N
+A22. Calculer la pression de commande de lhuile Ph alimentant les deux vérins commandés par les deux pistons (27).
+AN
+Ph
+MPa
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2023 Page 4 | 19
 
+--- page 21 ---
+Concours Technologie Épreuve CFM
+Partie A Conception Mécanique
+Document Réponses
+Étude dela phase xPrise directez
+On se met dans la phase correspondant à la prise directe assurée par lactionnement de Yembrayage pour transmettre un couple moteur maximal Ce 270 N.m par lintermédiaire de la roue libre (Figure 1). Cet actionnement est assuré par quatre ressorts (5) développant une force axiale Fr 600 N D/2 Rouleau 014 Tambour 074 Na{ ACD d,/2
+20
+Moyeu
+TA
+;
+20
+nom
+Figure. 1- Roue libre (24)
+ A.23. Déterminer puis calculer Yangle 0 en fonction des paramètres géométriques de la roue libre (24).
+AN
+Dans la suite on prendra 0 = 13'
+A24. Donner Yexpression du couple nominal sur la roue libre Cnom en fonction de la force 7A du rayon du tambour R, de langle 0 et du nombre de rouleaux n.
+Expression
+Cnom
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 20236 Page 5 | 19
 
+--- page 22 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+A25. Exprimer le couple Cnom en fonction des forces NA et TA, du rayon R, de langle 0 et du nombre de rouleaux n
+Expression
+Cnom A26. Exprimer le couple Cnom en fonction de la force NA du coefficient de frottement f, du rayon R, de langle 0 et du nombre de rouleaux n
+Expression
+Cnom
+A.27. Calculer le couple nominal transmis par la roue libre Cnom:
+AN :
+3000000
+N.m
+A.28. Comparer la valeur du couple nominal Cnom à celle du couple dentrée à loverdrive Ce, puis déterminer le rendement du système.
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2023 Page 6 | 19
+Cnom
 
+--- page 23 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+Section AIII- Analyse des mécanismes
+A29-A-30. Tracer le graphe de liaisons (Figure 2) relatif à la phase Vitesse surmultipliée > en se référant au schéma cinématique Figure 04 ( Page 5/7), sachant que Yengrènement entre les dents des roues est modélisé par une liaison ponctuelle.
+A29
+A = (14 + 11 + 29)
+B
+B = (15 + 17)
+C = (1+12 + 13 + 20)
+D = (19)
+L1
+A30 :
+(L1)A/B : liaison ponctuelle de normale 7
+(L2) /. liaison
+(L3)_/. liaison
+(L4)_/. liaison
+(Ls 1 liaison
+Figure. 2 - Graphe de liaisons
+431. Exprimer le nombre cyclomatique (Y) en fonction du nombre de pièces et des liaisons. Donner la valeur de Y.
+Expression
+000
+A32. Sachant que le degré de mobilité  global du   système m dhyperstatisité h du mécanisme
+2, déterminer   le degré
+Expression
+h
+A.33. Proposer une solution pour rendre le système isostatique.
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2023 Page 7 | 19
 
+--- page 24 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+Section AIV - Cotation fonctionnelle
+A34. Proposer un ajustement qualitatif pour chacun des assemblages suivants (35)/(36) (1/(39) (II(Z (9/(11) (13)/(20)
+H7 g6
+435. Justifier l'existence de la cote condition Ja entre (20) et (17) (Voir Figure 3)
+A36. Tracer la chaîne de côtes relative à la cote condition Ja
+14
+16
+17
+19
+15
+20 12 11
+20 13
+10
+18
+22
+29
+30
+Figure. 3- Chaîne de cotes
+A37. Écrire la relation permettant dexprimer la cote condition Ja
+Ja
+A.38. Établir la relation qui permet de déterminer lintervalle de tolérance (IT) de la cote condition J a'
+IT
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2023 Page 8 | 19
 
+--- page 25 ---
+Concours Technologie Épreuve CFM
+Partie A ; Conception Mécanique
+Document Réponses
+Section AV- Étude graphique
+Étude de conception
+On donne le   dessin d'ensemble   incomplet du bout de loverdrive. En se basant sur la nomenclature de la Feuille page 10/19,on demande de
+A39. Compléter le guidage en rotation entre la pièce (19) et les pièces (23) et (44).
+A40. Compléter la liaison encastrement entre la pièce (19) et la roue (45).
+A41. Compléter la liaison encastrement entre la pièce (19) et la cloche (50).
+442. Prévoir le réglage entre la vis sans fin (53) et la roue (45).
+A.43. Prévoir le réglage pour le montage du roulement (47).
+A.44. Indiquer les ajustements nécessaires pour les solutions proposées.
+Dessin de définition
+On donne le dessin de définition du guide (35) représenté par
+La vue de face incomplète; La vue de dessus complète.
+En se basant sur les données de la Feuille page 11/19,on demande de:
+A45. Compléter à léchelle 3 :1,la vue de face en demi-coupe F-F;
+A46. Représenter la section sortie,
+A.47. Mettre en place les tolérances géométriques et dimensionnelles demandées.
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2023 Page 9 19
 
+--- page 26 ---
+Ccncours Technologie Epreuve CFM
+Partie A Conception Mécanique
+Document Réponses
+23
+22
+19
+24
+25
+26
+42
+43
+44
+54
+45
+46
+47
+53
+48
+55
+49
+50
+51
+55 54 53 52 51 50 49 48 47 46 45 44 43
+Cale de réglage Cale_de_réglage Vis sans fin Rondelle plate Ecrou créneau Cloche Couvercle Joint lèvres Roulement billes type BC Bague d ' appui Roue dentée Boîtier tachymètre Bague appui Roulement billes type BC Nbre Désignation
+11
+Mn Pb3o
+X2 Cr Ni Mo 17 12 02 DIN 935 GC40 C45
+SKF
+C45 Cu Zn 40 Al2 GE360 C45
+Moulé
+SKF Obs
+42 Rep .
+Matériaux
+Echelle 1:1 Session 2023 Session 2023 Page 10 19
+Etude d'un Overdrive
+Concours nationaux dentrée aux cycles de formation dingénieurs
 
+--- page 27 ---
+Concours Technologie Epreuve CFM
+Partie A Conception Mécanique
+Document Réponses
+F-F
+Echelle 3:1
+Session 2023
+Guide (35)
+Matière: X2 Cr Ni Mo 18 8
+Concours nationaux d' entrée aux cycles de formation d'ingénieurs
+Concours Techno Epreuve €.F.M
+Etude d un Overdrive Concours nationaux dentrée aux cycles de formation dingénieurs Session 2023
+Format A4
+Page 11 19
 
+--- page 28 ---
+Concours Technologie Épreuve CFM
+Partie B : Fabrication Mécanique
+Document Réponses
+Partie B Fabrication Mécanique Section BI Étude des Matériaux
+B.1-B.6. En se référant aux données de la Figure 05 ( Page 6/7), déterminer les caractéristiques mécaniques relatives au matériau du couvercle de support (8). Préciser les unités.
+Tableau 2- Caractéristiques mécaniques No Caractéristique Désignation Valeur B.1 : Module dYoung
+Unité
+B.2
+Limite d'élasticité
+Re
+B.3
+Limite d'élasticité proportionnelle
+Reo,2%
+B.4 : Résistance à la traction
+Rm
+B.5
+Contrainte à 19 de déformation
+B.6
+Déformation permanente après rupture
+B.7-B.9. Parmi les propriétés mécaniques suivantes, compléter le Tableau 3, en précisant la (les) caractéristique(s) mécanique(s) associée(s) .
+Caractéristiques mécaniques proposées E Faible Allongement faible ou nul E élevé Rm ou Re élevé Allongement élevé. Rm ou Re faible.
+Tableau 3- Propriétés et caractéristiques mécaniques des matériaux Propriété mécanique Caractéristique mécanique_ Ductilité
+No
+B.7
+B.8 :
+Fragilité
+B.9
+Faible résistance
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 20230 Page 12 19
+R1%
 
+--- page 29 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+B.10-B.15. Donner la signification détaillée des désignations des alliages suivants définis dans le Tableau 4
+Tableau 4-Désignation des matériaux Désignation Explication de la désignation
+No
+B.10 :
+36 Ni Cr Mo 16
+B.11 :
+GC40
+EN GJN X3OO Cr Ni Si 9-5-2
+B.12 :
+EN AW-Al MglCu 5 Si 1
+B.13 :
+B.14 :
+Cu Zn 39 Pb 2
+B.15 :
+X5 Cr Ni Mo 17-12
+Acier faiblement allié à 0.42% de carbone, 1% de chrome_ et quelque trace de molybdène
+42CrMo4
+Section B.II- Étude de la coupe en fraisage
+B.16-B.21.La cloche (50) est obtenue par le procédé de moulage en sable Indiquer les différentes étapes de ce procédé dans Yordre chronologique B.16: B.17: B.18
+Préparation dusable
+460768811848 88618808 1
+28+488 8
+374884 884
+188 830304449934
+B.19:
+B.20:
+B.21:
+Assemblage du moule
+0e8 4
+a? g
+484624151 9a8 48:4n
+Nettoyage dela pièce
+4ane 7
+8886982846888888 64888 
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2023 Page 13 | 19
 
+--- page 30 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+Dans la suite Toutes les grandeurs ayant un indice 2 (par exemple B2) sont associées à la fraise 2T à 2 dents; tandis que les grandeurs ayant un indice 4 (par exemple B4) sont associées à la fraise 2Tà 4 dents. Le résultat du calcul 'numérique sera présenté avec une précision de deux chiffres décimaux B.22. En utilisant le Tableau (Document DT-05), choisir la vitesse de coupe Vc et Yavance par dent fz pour Yusinage des deux rainures A et A' (DT-04) en finition directe (en une seule passe) .
+Vc
+'min
+mm /dent
+B.23. Calculer la vitesse de rotation N en tr /min, nécessaire pour cette opération dusinage
+N
+tr /min
+B.24, Calculer les vitesses davance Voz et Vua en mm /min.
+Vez 0a
+mm /min
+Vfa
+mm /min
+B.25.Calculer le temps de coupe Tcz et Tc4 en seconde (on prendra la distance de coupe lorsque Youtil est en contact avec la pièce)
+Tcz
+Tc4
+B.26. Calculer le nombre de pièces Npz et Np4 que peut réaliser chaque outil avant son changement: Chaque pièce comporte deux rainures identiques et opposées (A et A'), réalisées dans la même phase dusinage et avec le même outil. (La durée de vie dune arête de coupe est donnée dans le tableau document DT-05)
+Npz 360006
+pièces
+Np4
+pièces
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2023 Page 14 | 19
+4
 
+--- page 31 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+B.27.Calculer le nombre doutils Noz et Nov nécessaire pour réaliser une série de 500 pièces.
+outils
+outils
+Noz No4 B.28.Calculer le temps technologique d'usinage Tuz et Tu, en seconde; sachant que les distances dapproche et de dégagement sont de 3 mm
+Tu4 00008800
+00
+Suz B.29. Calculer le coût machine Cmz et Cm4 relatif à lusinage de la série de 500 pièces, sachant le coût de la machine par heure dutilisation est de 100 DTN.
+Il est important de noter que la pièce possède de deux rainures identiques etsymétriques; placées en 'opposition lune par rapport à lautre.
+DTN
+DTN
+Cmz Cma B.30.Calculer le coût total Ctz et Ct, (des outils de coupe et dutilisation de la machine). Les coûts des fraises à 2 dents et à 4 dents sont estimés respectivement à 600 DTN et à 800 DTN.
+DTN
+Ct4
+DTN
+B.31. Quel est loutil qui permet doptimiser le coût dusinage ? Mettre une croix "X" devant la case correspondante.
+Fraise 2T à 2 dents
+Fraise 2T à 4 dents
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2023. Page 15 19
+Crz
 
+--- page 32 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+B.32. Déterminer Yangle de travail B, en rad, dune dent de coupe (voir document DT-05)
+B= oao
+rad
+B.33. Déterminer Yangle inter-dent a2 et a4, en rad.
+&2
+rad
+Q4
+rad
+B.34. Calculer la vitesse angulaire w de la fraise en rad /s.
+0009od
+rad /s
+B.35. Déterminer et calculer Yintervalle de temps de coupe tp, en seconde; dune dent de Youtil pendant un tour: Il convient de rappeler que le déplacement dune dent de loutil est assimilé à un arc de cercle.
+tp
+B.36. Calculer lintervalle de temps de coupe Xaz et tan en seconde, entre deux dents qui se suivent.
+az {aa B.37. Calculer Yeffort maximal de coupe par dent engagé dans lusinage (FcMaxz et FcMaxa ' pour chaque doutil, sachant que la pression spécifique de coupe Kc = 300 daN /mm? Utiliser Kc sans correction en fonction de hm (épaisseur moyenne de copeau) 
+daN
+daN
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2023 Page 16 | 19
+FcMaxz
+FcMaxa
 
+--- page 33 ---
+Concours Technologie Épreuve CFM
+Partie B : Fabrication Mécanique
+Document Réponses
+B.38. En se basant sur les données de la Figure 06 ( Page 7/7), représenter Yévolution de l'effort de coupe Fcz (sur la Figure 4) et Fc4 (sur la Figure 5) de chaque dent de Foutil, en respectant la légende proposée (Fcrotai représente la somme des efforts de coupe des dents engagées). Commencer par la dent numéro 1 (comme présenté dans le document DT-05) Ec Légende Fc C_denti Fc_dent2 Fc_Total
+tp /2
+ts
+3t,/2
+2tp Figure. 4-Effort de coupe relatif à la fraise 2 dents
+Légende Fc dent1
+Fc Hax
+Fc_dent2 Fc_dent3 Fc_dent4 Fc_Total
+tp
+3tp 2
+2tp Figure: 5-Effort de coupe relatif à la fraise 4 dents
+B.39.En se basant sur les Figures 4 et 5, choisir  outil qui permet davoir les conditions optimales dusinage: Justifier votre réponse.
+B.40. Calculer la puissance minimale Pm de la fraiseuse permettant lusinage de la rainure; sachant que le rendement est de 80%.
+Pm
+ae
+W
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2023 Page 17 | 19
 
+--- page 34 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+B.41. Nous avons l'intention de choisir la fraise à 4 dents pour la production dune série de 500 pièces, mais nous souhaitons réduire davantage les coûts d'usinage. Déterminer alors la vitesse de coupe optimale Vcop pour lusinage de la rainure, sachant que le coefficient de Taylor relatif à la matière de loutil est n ~4,5 (utiliser la loi de Taylor simplifiée)
+'min
+Jcop Section BIII- Élaboration dun contrat de phase
+Dans cette section, nous utiliserons une vitesse de coupe Vc 15 m/min et une avance par dent fz 0,05 mm /dent. Les réponses aux questions suivantes seront présentées sur la feuille de contrat de phase (page 19/19)
+B.42. Indiquer et mentionner le repérage isostatique de la cloche (50). B.43. Indiquer la cotation de fabrication permettant lusinage de la rainure (A et A'). B.44. Indiquer les mouvements de coupe (Mc) et davance (Mf). B.45. Remplir la colonne des opérations dusinage. B.46. Remplir les colonnes des paramètres de coupe. B.47. Mentionner les outillages de fabrication et de vérification.
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2023' Page 18 19
 
+--- page 35 ---
+Concours Technologie CFM
+Partie B Fabrication Mécanique
+Document Réponses
+Ensemble : Overdrive
+Contrat de Phase PHASE 40
+Vl
+Pièce : Cloche (50)
+Machine :Centre dusinage verticalà 4 axes
+Matière : GC40
+Série : 500 pièœes
+BM
+B.42: Mise en position et maintien : Référentiel défini par :
+B.44:
+Fraise 21
+dents
+03038 44883uo 
+B.42: B.43:
+G-G
+OP
+OP
+B . 46: Paramètres de coupe
+B.47: Outillage Fabrication vérification
+Désignation des opérations
+(mn/min)
+(tr/min)
+(mm/tr)
+(um/ dent)
+(nm/min)
+B.45:
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2023
+Page 19 19
 
+--- page 36 ---
+République Tunisienne Ministère de lenseignement supérieur & de la recherche scientifique
+Signature des enseignants
+Concours Nationaux d'Entrée aux
+Concours Nationaux d'Entrée aux Cycles de Formation d'Ingénieurs
+Cycles de Formation d'Ingénieurs
+Session
+2023
+Session
+2023
+Concours
+Technologie
+Concours
+Technologie
+Épreuve de
+Conception & Fabrication Mécanique
+Épreuve de
+Conception & Fabrication Mécanique Date Mardi 06 Juin 2023 à 8H 00 Durée 4Heures
+Date
+Mardi 06 Juin 2023 à 8H 00 4 Heures
+Nom
+Durée
+Prénom
+Document Réponses
+Date & Lieu de naissance
+Établissement dorigine
+NP CINou NP du Passeport pour les étrangers
+Série
+Identifiant
+Nombre de Cahiers remis
+Nombre de Cahiers remis
+01
+01
+rien Ne {cM écrire
+rien Ne {ci écrire
 
+--- page 37 ---
+Dossier
+Document Réponses
+Ce dossier comporte 19 pages numérotées de 1à 19
+Partie A- Conception Mécanique
+Page 1/19à 11/19
+Partie B- Fabrication Mécanique
+Page 12/19 à 19/19
+Recommandations aux candidats
+Sile texte du sujet;, deses questions ou deses données vous conduit à formuler une ou plusieurs hypothèses, il vous est demandé de la (les) mentionner explicitement dans votre copie. Un seul document réponses est fourni au candidat. Le candidat doit rendre obligatoirement le document réponses avant de quitter la salle dExamen. Le document réponses doit être rendu en intégralité aucune feuille ne doit être supprimée)- Toute suppression de feuilles du document réponses est considérée comme tentative de fraude Le renouvellement ou la reproduction de ce dossier sont strictement interdits.
 
+--- page 38 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+Partie A : Conception Mécanique
+Section AI- Étude technologique
+Al-A6 Compléter le Tableau -1, en précisant le rôle de chacune des pièces dans le mécanisme.
+Tableau 1 Rôle des pièces Rôle
+Pièces
+Al:
+(7+26) Guider en rotation l'arbre
+A2 :
+(12)
+Assurer la liaison complète entre (13) et (20)
+A3 :
+(24) permet d'entraîner la couronne (19) uniquement dans un seul sens
+A4 :
+(37)
+Rappeler le piston 36) etmaintenir un contact permanent (38) et (39) -
+A5 :
+(38)
+Diminuer la surface de contact entre le piston (36) et la came (39)
+46 :
+(39)
+Transformcr la rotation dc larbrc (1) cn unc translation dc (36)
+A7. Donner le rôle du trou T.
+Démontage de la goupille (12)
+48. Quels sont les avantages d'une transmission par engrenages à train épicycloïdal par rapport à une transmission par engrenages à train ordinaire ?
+Rapport de transmission faible,
+Encombrement réduit.
+A9. Établir la relation entre le nombre de dents traduisant légalité des entraxes. On suppose que les engrenages ont le même module
+(Z1s+Z222
+(Z19_Z1z2
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2023 Page 1 | 19
 
+--- page 39 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+Section AII- Étude de la chaîne de transmission de mouvement et de puissance
+410. En se référant au dessin d'ensemble (DT-01), compléter le diagramme fonctionnel associé à la chaîne de transmission de puissance pour chacune des deux phases. Phase Vilesse surnultipliée
+Arbre d'entrée
+13
+20
+15
+17
+Couronne (19)
+Phase < Prise directe >
+24
+Arbre dentrée
+Couronne (19)
+Étudedela phase sVitessesurmultipliéez
+Pour cette phase, Yactionnement du frein permet; à travers lensemble du train dengrenages composé par les pièces {13,15,17,19,20,29} de multiplier la vitesse angulaire fournie par Yarbre d'entrée (1). On désignera par C1 le couple moteur exercé sur larbre d'entrée (1) tournant à une vitesse @e. C19 le couple résistant exercé sur larbre de sortie (19) tournant à une vitesse @s. Cf le couple de freinage exercé sur le tambour conique (11)
+Al1. Identifier les repères relatifs aux organes constituant le train épicycloïdal (se référer au dessin densemble DT-01)
+Organes
+planétaires
+Satellites
+Porte satellite
+Repères
+29
+19
+15 et 17
+20
+412. En appliquant la formule de Willis, établir la relation entre les vitesses angulaires de Yarbre dentrée (1) et la couronne de sortie (19) en fonction de leurs nombres des dents. W19 02@ W19 01 = Z29 . Z1z (~1)215.219 W29 W20 029 =01
+Z29 Or 029 0 020 (1 + 112) Z15 . Z19 01
+019 01
+Expression
+1z9 Z1z) Z15 Z19
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2023 Page 2 | 19
 
+--- page 40 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+A13. Établir la relation; en mesure algébrique, traduisant l'équilibre des moments des actions mécaniques (C1, C19, Cf) exercées sur Yensemble du train d'engrenages
+Frein
+Cf
+C1
+C19
+Expression
+C1 + C19 + Tf = 0
+A14. Écrire la relation; en mesure algébrique, entre C1 et C19, issue de lapplication du théorème de la conservation de l'énergie cinétique à lensemble du train d'engrenages (les vitesses des différentes pièces sont supposées constantes) .
+Expression
+Cm: Om Cs.05
+415-A16. Déduire alors les équations permettant de calculer les couples C19 et Cf en fonction de C1.
+C19
+C1 019
+Cf ~C1 C19
+Z15 . Z19
+Cf = (2-1).ci Z15 . Z19+Z29 . Z17
+A15 Expression
+C19
+C1 019
+Z15 : Z19
+A16 : Expression
+Cf Z15 . Z19+Z29 . Z17
+417.Calculer le couple de freinage Cf
+22 x 56 Cf 22 x 56 19 x 15.
+30.x 70 103 217,147 Nm T x 2500
+418. Établir Yexpression du couple dadhérence Cad développé par le frein conique.
+R3 _r3 Fa sina R2 _r2
+Expression
+Cad
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2023 Page 3 | 19
 
+--- page 41 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+Al9. Calculer Ieffort presseur Fa permettant de produire un couple d'adhérence Cad Cf = 200 N.m
+3 sina R2_r2 Fa = 2 RSErSCad
+3 sin(11) 682 652 Fa = 200103 1912,54 N 0,3 683-653
+AN
+Fa 1912,54
+N
+A20. Calculer la pression de contact P au niveau de la surface de friction du frein puis conclure sur la résistance de cette surface.
+Fa
+1912,54 P = T(R2-r2) T(682-652)
+1,52 MPa
+AN
+P = 1,52
+MPa
+Conclusion
+Padd : les garnitures résistent en toute sécurité
+A21. Pour une pré-charge Fr 600 N au niveau des quatre ressorts (5), calculer Yeffort Fp que doit fournir chacun des deux pistons (27) des deux vérins commandant le frein:
+Fa + Fr = 2Fp
+Frein
+Fa+Fr Fp
+1912,54 +600
+Fp
+1256,27 N
+AN
+Fp 1256,27
+N
+A22. Calculer la pression de commande de lhuile Ph alimentant les deux vérins commandés par les deux pistons (27). Ph = 2F2 2Fp nd2
+2.356,25 1,252
+Ph
+1,45 MPa
+AN
+Ph = 5,11
+MPa
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2023 Page 4 | 19
 
+--- page 42 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+Étudedela phase <Prise directez
+On se met dans la phase  correspondant à la prisedirecte assurée par lactionnement de Yembrayage pour transmettre un couple moteur maximal Ce 270 N.m par lintermédiaire de la roue libre (Figure 1). Cet actionnement est assuré par quatre ressorts (5) développant une force axiale Fr 600 N D/2 Rouleau 014 Tambour 074 NA AC dr/2
+20
+Moyeu
+TA
+;
+20
+nom
+Figure. 1- Roue libre (24)
+A23. Déterminer puis calculer Yangle 0 en fonction des paramètres géométriques de la roue libre (24). cos 20 " R =
+cos 20 37
+244 donc 0 = 12,920
+AN
+12,92_
+Dans la suite on prendra0 =130
+A24. Donner lexpression du couple nominal sur la roue libre Cnom en fonction de la force FA, du rayon du tambour R, de langle 0 et du nombre de rouleaux n.
+Cnom n.FA.01c
+Cnom n FA-Rsin 0
+Expression
+Cnom
+Cnom n.FA. Rsin 0
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2023 Page 5 | 19
 
+--- page 43 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+425. Exprimer le couple Cnom en fonction des forces NA et TA, du rayon R, de langle 0 et du nombre de rouleaux n
+FA
+In? + T2
+Cnom n. N? + T?. Rsin 0
+Expression
+Cnom n. NZ + T2.Rsin 0
+A26. Exprimer le couple Cnom EII fonction de la force NA du coefficient de frottement f, du rayon R, de langle 0 et du nombre de rouleaux n_
+FA = N? +T? = NAvi + fz
+Cnom n.NAvi + f? Rsin 0
+Expression
+Cnom n.NAvi + fz Rsin 0
+A27. Calculer le couple nominal transmis par la roue libre Cnom' Cnom 6.5300.V1+0,12.37. 10-3 sin 13 266 Nm
+AN
+Cnom 266
+N.m
+428. Comparer la valeur du couple nominal Cnom à celle du couple dentrée à loverdrive Ce puis déterminer le rendement du système. Cnom Ce 9 Cnom 019 or pour la phase prise directe 019 Ce x 01
+266 30 x P I X N
+266
+Cnon 1 =
+0, 99
+30 x 70 103 I x 2500
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2023 Page 6 | 19
 
+--- page 44 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+Section AIII- Analyse des mécanismes
+4A29-A-30. Tracer le graphe de liaisons (Figure 2) relatif à la phase < Vitesse surmultipliée > en se référant au schéma cinématique Figure 04 ( Page 5/7), sachant que Yengrènement entre les dents des roues est modélisé par une liaison ponctuelle_
+A29
+A = (14+ 11 + 29)
+Lz: Ponctuel
+B
+B = (15 + 17)
+C = (1+12 + 13+ 20)
+D = (19)
+L1
+} A30 (L1)A/B : liaison ponctuelle de normale n (Lz)B/D. liaison ponctuel de normalen (L3)D-/c: liaison pivot daxe7 (La)cfA, liaison pivot daxex
+L4: Pivot
+(Ls)B/c; liaison pivot daxe7
+Figure. 2 - Graphe de liaisons
+431. Exprimer le nombre cyclomatique (Y) en fonction du nombre de pièces et des liaisons. Donner la valeur de Y.
+Expression Y = L =p+1 = 5 _4+1 = 2
+Y
+A32. Sachant que le degré  de mobilité   global du   système m d'hyperstatisité h du mécanisme.
+2, déterminer le degré
+m = h = 6(p = 1) = Ns
+Expression 2 = h = 6(4 _ 1) = 17
+h = 1
+A33. Proposer une solution pour rendre le système isostatique. Remplacer la liaison pivot par une liaison pivot glissant _
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2023 Page 7 | 19
+Ls: Pivot
 
+--- page 45 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+Section AIV- Cotation fonctionnelle
+434. Proposer un ajustement qualitatif pour chacun des assemblages suivants (35)/(36) (1I(39) (II(Z) (9/(11) (13/(202
+H7 g6
+H7 g6
+H7 f6
+k6 ou m6
+H7 m6
+435. Justifier lexistence de la cote condition Ja entre (20') et (17) (Voir Figure 3) Eviter le contact entre une pièce fixe et une pièce mobile
+A36. Tracer la chaîne de côtes relative à la cote condition Ja
+14
+16
+17
+19
+15
+20 12
+20 13
+10
+18
+22
+29
+30
+a17 a12
+azol
+Figure. 3- Chaîne de cotes
+437. Écrire la relation permettant d'exprimer la cote condition Ja
+Ja = Ja a13 a20 a17 a20
+A38. Établir la relation qui permet de déterminer lintervalle de tolérance (IT) de la cote condition Ja'
+IT
+IT IT13 ITzo IT1z  + IT20'
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2023 Page 8 | 19
 
+--- page 46 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+Section AV- Étude graphique
+Étude de conception
+On donne le   dessin d'ensemble incomplet du bout de Yoverdrive. En se basant sur la nomenclature de la Feuille page 10/19, on demande de
+A39. Compléter le guidage en rotation entre la pièce (19) et les pièces (23) et (44). 440. Compléter la liaison encastrement entre la pièce (19) et la roue (45).
+4A41. Compléter la liaison encastrement entre la pièce (19) et la cloche (50).
+A42. Prévoir le réglage entre la vis sans fin (53) et la roue (45).
+443. Prévoir le réglage pour le montage du roulement (47).
+A44. Indiquer les ajustements nécessaires pour les solutions proposées.
+Dessin de définition
+On donne le dessin de définition du guide (35) représenté par
+La vue de face incomplète
+La vue de dessus complète
+En se basant sur les données de la Feuille page 11/19, on demande de:
+A45. Compléter à léchelle 3 :1,la vue de face en demi-coupe F-F;
+A46. Représenter la section sortie,
+A47.Mettre en place les tolérances géométriques et dimensionnelles demandées.
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2023 Page 9 | 19
 
+--- page 47 ---
+Concours Technologie Epreuve CFM
+Partie A Conception Mécanique
+Document Réponses
+23
+21
+22
+19
+24
+25
+26
+42
+43
+44
+54
+45
+46
+47
+53
+55
+48
+49
+51
+50
+55 Cale de réglage 54 Cale de réglage 53 Vis sans fin Rondelle plate 52 Ecrou créneau 50 Cloche 49 Couvercle 48 Joint à lèvres 47 Roulement billes type BC 46 Bague d ' appui 45 Roue dentée 44 Boîtier tachymètre 43 Bague d ' appui 42 Roulement billes type BC Rep . Nbre Désignation
+11 $ Mn Pb3o
+X2 Cr Ni Mo 17 12 02 DIN 935 GC40 C45
+SKF
+C45 Cu Zn 40 Al2 GE360 C45
+Moulé
+SKF Obs
+Matériaux
+Etude d'un Overdrive Concours nationaux dentrée aux cycles de formation dingénieurs
+Echelle 1:1 Session 2023
+Session 2023
+Page 10 19
 
+--- page 48 ---
+Concours Technologie Epreuve CFM
+Partie A Conception Mécanique
+Document Réponses
+F-F
+H7
+Echelle 3:1
+Session 2023
+Guide (35 )
+Matière: X2 Cr Ni Mo 18 8
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Concours Techno
+Epreuve C.F.M
+Etude d'un Overdrive Concours nationaux dentrée aux cycles de formation dingénieurs Session 2023
+Format A4
+Page 11 19
 
+--- page 49 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+Partie B Fabrication Mécanique Section B.I Étude des Matériaux
+R.1-R.6 Fn se référant aux données de la Figure 05 ( Page 6/7 déterminer les caractéristiques mécaniques relatives au matériau du couvercle de support (8). Préciser les unités.
+Tablcau 2 Caractéristiqucs mécaniqucs No Caractéristique Désignation Valeur B.1: Module d'Young 50-60 66660
+Unité
+MPa. 668600
+B.2
+Limite d'élasticité
+Re
+190-230
+MPa 787070 0 070 0 070 0
+B.3
+Limite d'élasticité proportionnelle
+260-270
+MPa.
+B.4 :
+Résistance à la traction
+Rm
+320-330
+MPa....
+B.5
+Contrainte à 1% de déformation
+285-295
+MPa.
+B.6 : Déformation permanente après rupture
+5,9-6,0
+%/
+B.7-B.9. Parmi les propriétés mécaniques suivantes, compléter le Tableau 3, en précisant la (les) caractéristique(s) mécanique(s) associée(s).
+Caractéristiques mécaniques proposées E Faible Allongement faible ou nul Eélevé Rm ou Re élevé Allongement élevé_ Rm ou Re faible.
+Tableau 3- Propriétés et caractéristiques mécaniques des matériaux Propriété mécanique Caractéristique mécanique Ductilité Allongement élevé
+No
+B.7
+B.8
+Fragilité
+A% faible ou nul
+B9
+Faible résistance
+Rm ou Re faible
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2023 Page 12 19
+Reo,2%
+R1%
 
+--- page 50 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+B.10-B.15. Donner la signification détaillée des désignations des alliages suivants définis dans le Tableau 4-
+Tableau 4- Désignation des matériaux Désignation Explication de la désignation Acier faiblement allié à 0,36% de carbone, 4% de nickel 36 Ni Cr Mo 16 et quelques traces de chrome et de molybdène.
+No
+B.10 :
+Acier moulé non allié à 0.4% de carbone.
+B.1l:
+GC40
+Fonte blanche sans graphite à 3% de carbone; 9% de, EN GJN X3OO Cr Ni Si 9-5-2 Chrome, 5% de nickel et 2% de silicium.
+B.12
+Alliages daluminium corroyé à 1% de Magnésium; 5% de _ EN AW-Al MglCu 5 Si B.13 : cuivre et 1% de silicium.
+Alliage de cuivre (laiton) à 39% de zinc et 2% de plomb_
+B.14 :
+Cu Zn 39 Ph 2
+Acier fortement allié à 0,059 de carbone, 17% de chrome X5 Cr Ni Mo 17-12 12% de nickel et quelque trace de molybdène _
+B.15
+Acier faiblement allié à 0.42% de carbone, 1% de chrome et quelque trace de molybdène
+42CrMo4
+Section BII- Étude de la coupe en fraisage
+B.16-B.21. La cloche (50) est obtenue par le procédé de moulage en sable. Indiquer les différentes étapes de ce procédé dans lordre chronologique
+Préparation dusable
+Réalisation des noyaux
+Élaboration des parties . du moule
+Réalisation des évents; des masselottes et du canal de coulée
+Assemblage du moule
+Coulée dela matière en fusion
+Refroidissement
+Extraction de la pièce moulée
+Nettoyage dela pièce
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2023 Page 13 19
 
+--- page 51 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+Dans la suite Toutes les grandeurs ayant un indice 2 (par exemple Bz) sont associées à la fraise 2Tà 2 dents; tandis que les grandeurs ayant un indice 4 (par exemple B4) sont associées à la fraise ZT à 4 dents. Le résultat du calcul numérique sera présenté avec une précision de deux chiffres décimaux
+B.22 En utilisant le Tableau (Document DT-05), choisir la vitesse de coupe Vc et lavance par dent fz pour lusinage des deux rainures A et A' (DT-04) en finition directe (en une seule passe).
+Vc 20
+m /min
+fz 0,06
+mm dent
+B.23. Calculer la vitesse de rotation N en tr /min, nécessaire pour cette opération d'usinage
+N=1000*Vc/ (r*D)=1000*20/(3.1415*16) = 397,89 tr /min
+N
+397,89
+tr /min
+B.24. Calculer les vitesses davance Voz et Vfa en mm /min Vr =Z2*N*fz2=2*397,89*0,06=47,95 mm min
+Vaa =Z4*N*fz4=4*397,89*0,06=95,49 mm min
+Vfz = 47,75_
+mm /min
+Vf4 95,49
+mm /min
+B.25. Calculer le temps de coupe Tc2 et Tc4 en seconde (on prendra la distance de coupe lorsque Poutil est en contact avec la pièce) .
+Tcz=Lc/V/z = 60*(20+16)/47,75 = 45,24 s
+Tc4=Lc/Vf4 60*(20+16)/95,49 = 22,62 s
+Tcz 45,24 Tc4 22,62 B.26. Calculer le nombre de pièces Npz et Np4 que peut réaliser  chaque outil avant son changement.  Chaque pièce comporte deux rainures identiques et opposées (A et A'), réalisées dans la même phase d'usinage et avec le même outil. (La durée de vie d'une arête de coupe est donnée dans le tableau document DT-05)
+Les vitesses de coupe sur labaque sont données pour une durée de vie de de Yarête de 90 min _
+Np2 =60*90*Z2/Tc2/2= 60*90*2/45,24/2 = 119 pièces
+Np2=60*90*Z4/Tcz/2= 60*90*4/22,62/2 = 477 pièces_
+Npz 119
+pièces
+Npn 477
+pièces
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2023 Page 14 | 19
 
+--- page 52 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+B.27. Calculer le nombre doutils Noz et Noy nécessaire pour réaliser une série de 500 pièces. Noz 500 /Np2 500/119 = 5 outils
+No4 =500/Np4 500/477 = 2 outils
+Noz =5 outils No4 outils B.28. Calculer le temps technologique d'usinage Tuz et Tu, en seconde; sachant que les distances dapproche et de dégagement sont de 3 mm_ Tu2=Lu/Vfz 60*(3+20+3+16)/47,75 = 52,78 s
+Tu4=Lu/Vf4 60*(3+20+3+16)/95,49 26,39 s
+Tuz 52,78
+Tu4 26,39
+B.29. Calculer le coût machine Cmz et Cm4 relatif à lusinage de la série de 500 pièces, sachant le coût de la machine par heure dutilisation est de 100 DTN.
+Ilest important de noter que la pièce possède de deux rainures identiques et symétriques; placées en opposition lune par rapport à Tautre
+Cm2 2*Tu2*500*100 2*52.78*500*100/3600 1466,08 DT
+Cm4 = 2*Tu4*500*100 2*26,39*500*100/3600 733,04 DT
+Cmz _ 1466,08 DTN Cma 733,04 DTN B.30.Calculer le coût total Ctz et Cta (des outils de coupe et d'utilisation de la machine). Les coûts des fraises à 2 dents et à 4 dents sont estimés respectivement à 600 DTN et à 800 DTN. Ctz = No2*600+Cm2 5*600+1466,08 = 4466,08 DT
+Ct4 = No4*800+Cm4 2*800+733,04 = 2333,04 DT
+Ctz
+4466,08
+DTN
+Ct4 2333,04
+DTN
+B.31. Quel est loutil qui permet d'optimiser le coût d'usinage ? Mettre une croix "X" devant la case correspondante 
+Fraise 2Tà 2 dents
+Fraise 2Tà 4 dents
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2023 Page 15 | 19
 
+--- page 53 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+B.32. Déterminer l'angle de travail B, en rad, dune dent de coupe (voir document DT-05)
+La largeur de la rainure est le diamètre de l'outil B = T = 3,14
+B= T ou 3,14
+rad
+B.33. Déterminer Yangle inter-dent a2 et a4, en rad.
+Œ2 2r/2 = T =3,14
+Œa = 2r/4 = I/2 = 1,75
+a2 = Tou 3,14
+rad
+Q4 = T/2 ou 1,75
+rad
+B.34. Calculer la vitesse angulaire @ de la fraise en rad /s.-
+2r*N/60 = 21*397,89/60 = 41,67 rad /s
+W = 41,67
+rad /s
+B.35. Déterminer et calculer Vintervalle de temps de coupe tp, en seconde, dune dent de Youtil pendant un tour: Il convient de rappeler que le déplacement d'une dent de loutil est assimilé à un arc de cercle.
+tp = B /0 = %/o 1/41,67 0,08 s
+tp 0,08
+B.36. Calculer lintervalle de temps de coupe az et Eaa' en seconde, entre deux dents qui se suivent.
+taz a2 /@2 T/0 1/41,67 = 0,08 s-
+ta4 Œ4 /04 T/(2*0) 1/(2*41,67) 0,04 s-
+Kal 0,08
+taa 0,04
+B.37. Calculer Yeffort maximal de coupe par dent engagé dans l'usinage (FcMaxz et FcMax4  pour chaque doutil, sachant que la pression spécifique de coupe Kc 300 daN /mm?  Utiliser Kc sans correction en fonction de hm (épaisseur moyenne de copeau). Fcm2 =Kc' #ap *fz*b/(r*D) 300*5*0.06*16/( *16) = 28,65 daN
+Fcm4 =Kc*ap*fz*b/ (r*D) 300*5*0.06*16/( *16) 28,65 daN
+FcMaxz 28,65
+daN
+FcMaxt 28,65
+daN
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2023 Page 16 19
 
+--- page 54 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+B.38. En se basant sur les données de la Figure 06 ( Page 7/7), représenter l'évolution de l'effort de coupe Fcz (sur la Figure 4) et Fc, (sur la Figure 5) de chaque dent de loutil, en respectant la légende  proposée (Fcrotal représente la somme des   ettorts de coupe des dents   engagées) Commencer par la dent numéro 1 (comme présenté dans le document DT-05) Fc Légende Fc Fc Max denti dent2 Fc Tatal
+tp/2
+tp
+3tp/2
+2tp
+Figure. 4-Effort de coupe relatif à la fraise 2 dents
+Fc
+Légende Fc denti
+Fc Max
+dentz
+dent3
+Fc denta Fc_Total
+tp/2
+tp
+3tp/2
+2tp
+Figure. 5-Effort de coupe relatif à la fraise 4 dents
+B.39.En se basant sur les Figures 4 et 5, choisir loutil qui permet d'avoir les conditions optimales dusinage: Justifier votre réponse: Le choix sera sur la fraise à quatre dents
+Elle réalise un usinage plus stable sans vibration; vu que leffort de coupe reste contant.
+B.40. Calculer la puissance minimale Pm de la fraiseuse permettant lusinage de la rainure, sachant que le rendement est de 809.
+Pm Fc*Vc/n 10*38,20*20/(60*0.8) 159,15 W
+Pm 159,15
+W
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2023 Page 17 | 19
 
+--- page 55 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+B.41. Nous avons l'intention de choisir la fraise à 4 dents pour la production d'une série de 500 pièces, mais nous souhaitons réduire davantage les coûts d'usinage. Déterminer alors la vitesse de coupe optimale Vcor pour Yusinage de la rainure, sachant que le coefficient de Taylor relatif à la matière de l'outil est n = -4,5 ( utiliser la loi de Taylor simplifiée)
+T = Cv*(Vc)n et T4 =2* Tc4*Np = Cv*(Vc4)n
+Cv = 90*(20)4,5 et 2*22,62*500 = Cv*(Vc4)-4,5
+Vc = 20*(90*60/(2*22,62*500))1/4,5 = 14,55 m /min_
+Jcov 14,55 Section BIII- Élaboration dun contrat de phase
+'min
+Dans cette section, nous utiliserons une vitesse de coupe Vc = 15 m /min et une avance par dent fz 0,05 mm /dent.
+Les réponses aux questions suivantes seront présentées sur la feuille de contrat de phase (page 19/19)
+B.42. Indiquer et mentionner le repérage isostatique de la cloche (50). B.43. Indiquer la cotation de fabrication permettant l'usinage de la rainure (Aet A'). B.44. Indiquer les mouvements de coupe (Mc) et davance (Mr). B.45. Remplir la colonne des opérations d'usinage. B.46. Remplir les colonnes des paramètres de coupe. B.47.Mentionner les outillages de fabrication et de vérification:
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2023 Page 18 19
 
+--- page 56 ---
+Concours Technologie CFM
+Partie B : Fabrication Mécanique
+Document Réponses
+Ensemble : Overdrive
+Contrat de Phase
+V/l
+Pièce Cloche (50)
+Machine :Centre dusinage verticalà 4 axes
+PHASE 40
+Matière: GCAO
+Série : 5() pièxres
+BM
+Fraise 2t
+dents
+B.42: Mise position et maintien : Référentiel défini par : Appui plan 1, 2, 3 sur Centrage court 4,5 sur Serrage concentrique sur
+B.44:
+Mc
+G-G
+B 42:
+Cf2
+43:
+Mt
+5
+4 ,
+OP
+1 , 2, 3
+B. 46: Paramètres de coupe
+B . 47: Outillage
+Désignation des opérations
+Fabrication
+vérification
+(mn/min)
+(tr/min)
+(nm/tr)
+(mm/ dent)
+(mm / min)
+B.45:
+Fraise 2t 016 en A.R.S
+Usinage_de_A_et A successivement en fintion direct
+15
+298
+0.2 0.05
+30
+P.Ç_1/10
+Rugosimètre
+Cf1
+40 40.2
+Montage_de contrôle
+Cf2
+16 +0-
+Ra
+2
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2023
+Page 19 19
 
+--- page 57 ---
+5 ; 2 Ili 1 0 Il 8 5 ili 0 1 1 0 3 Ili 8 1 1 8
+5
+8
+8
+1 8
+1 2
+~ R #
+6 8
+"
+2
+2
+2 < 2
+"
+" 8
+1
+'
+8 8   8
+5
 
+--- page 58 ---
+5 g 1 9 ; 1 ; 1 8 9  2,9 0 2g { krr 1 1, ; 22222 g ; | $ 8 2 8 2: 0 1 2| $ 8 8 8 { 1! 0  ; 8 2 1 1 8/& ? 8 8 1
+1 1 1
+1 8 #
+#
+8 9 3
+#
+2 8/8 8 B & 8 8/8 8
+4
+: {fff@; 5 ?
+9
+8 5
+1149
+$ é 8 1
+%
+2
+1 1 ;
+8 5
+1 @ 8 9 1 "
+] 
+1 1 1
+9
+p
+9
+9
+9
+8 8 1 2 9 9 2 2 ; 2 5 : 83 5 5 5 ; 3 8/9 1 0 6 8 8 8 8 { 8 1 1 8 ; , 8 1 8 p 8 0 1 - 4 { ; 8 1 { 8 ; 1 8 [ J4! 0 8l 1 1l ; 9 1 ; 1l 4| : 8 14  8 8 1 8 / g 3 0 ; 8 8 ; 5 " 1 0 Iiaiiilikiihi Hllialli Lhuikiia 1 ; 8 4 ; 1 : elgl8lsl8læl3l8lslsl8l&læ/sl8 ælv/æl l&ll%/% 9 #lel"  = 8
 
-
-
+--- page 59 ---
+8 { 8 1 5 1 1 ; : 0 { ; 1 1  g ; 0 1 8 { 2  I 8
+1 ; 1 8 1 U 8 4 1 1 16/ ; 1 8 8 8 8 8  8 8 1 8 1 8 8 1 1/ 3 1 8 8 9 ; 1 8 ; 8 g 1 3 8 8;8 0 & 1
+6 :
+;
+p
+1 4 1 g i7e É 1 8 1 1 g 0 4 IU ; 1 8 5 1 :li ; 0 8 1 3 ; Ili 2 1 1 1 I
+4
+5'0= €z
+1 "
+6h 5
+SbX 2
+~
+: ; " 9
+9 0
+0F6
+3
+9 /
+02
+2*0 4s

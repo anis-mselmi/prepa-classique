@@ -1,12 +1,133 @@
+--- page 1 ---
+Instructions Cette épreuve comporte 13 pages + 3 pages vides. Tout résultat doit être écrit dans les cadres adéquats: L'usage des calculatrices électroniques de poche non programmables est autorisé. Aucun échange entre les candidats n'est autorisé. Tout calcul doit être précédé dune expression littérale. Les résultats numériques sans unité ou avec une unité fausse ne seront pas comptabilisés: En cas de besoin utiliser les pages vides en fin de cahier. Dans ce cas, il faut le signaler dans la case allouée à la réponse remise en fin de cahier. Si au cours de l'épreuve, un candidat repère ce qui lui semble être une erreur d'énoncé, il la signale sur sa copie et poursuit sa composition en indiquant les raisons des initiatives qu'il est amené prendre.
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 16 PAGES NUMEROTÉES 1 sur 16,2 sur 16, 009 16 sur 16.
+Concours, Tcchnoloziquc
+Dans cette épreuve on traite les chapitres suivants L Tabkcau periodlque-cobfalon aitanlne-corpe per I Cristalocaphie IL Dlagranne dequitbre schde Hqude dun ndange blnsire IV.Ékectrochinie
+ 
+Page sur 16
+Concours Technologique Session MailJuin 2017
 
+--- page 2 ---
+NOTATIONS ET DONNÉES NUMÉRIQUES Les gaz sont supposés parfaits. Les mélanges liquides sont supposés idéaux Notations Les abréviations suivantes sont utilisées pour désigner l'état physique des constituants gazeux; (sd) pour solide; (liq) pour liquide et (aq) pour aqueux. Ln logarithme népérien: logio logar 'ithme à base 10 nliq la quantité de matière totale de la phase liquide. MR les grandeurs molaires dans une phase @ Xi la fraction molaire de < i > dans la phase liquide. Yi la fraction molaire de < i > en 'phase vapeur.
+pour
+Constantes physiques Constante d'Avogadro NA =6,02x102* mol-' Constante des gaz parfaits R = 8,314 JK-  mol-  Constante de Faraday F=96500 C.mol-' . Pression standard p =lbar Données numériques Masses molaire (g-mol-') Brome (Br) 80,00 Rubidium (Rb) = 85,47 ; Dysprosium (Dy) = 162,50. Numéro atomique Z : Sodium 11 Brome 35 ; Krypton = 36 Rubidium 37 Dysprosium 66. Potentiel standard redox à 298 K et à pH =0 : Dy3+ [Dy(sd) 2 42,35 V; Dy(OH)3(sdyDy(sd) = -1,95 V; H* [Hz() =0,00 V 298 K,
+H Brz &,liq ~HBrz 0,vap =-3010 J mol-' SoJiq (Brz )=152,2J.K mol-' Se,vap (Brz )=245,5 JK ' mol-' Produit de solubilité de (Dy(OH)3(sd)) : Ks = 1,41x10-22. Produit ionique de l'eau Ke 10-14 Conversions 1 bar = 105 Pa T(K) = O( C) + 273. 1 pm 1012 m
+Page 2 sur 16 Concours Technologique Session MailJuin 2017
 
+--- page 3 ---
+TABLEAU PÉRIODIQUE ~COHÉSION CRISTALLINE ~CORPS PUR 1) Donner les structures électroniques de Fatome de brome 3sBr dans son état fondamental et de Pion bromure (Br
+2) A quelle famille du tableau périodique des éléments chimiques appartient Tatome de brome? Justifier la réponse.
+3) Quel est l'ion alcalin isoélectronique de l'ion bromure ?
+4) Les points de fusion des trois cristaux de dibrome Brz, du rubidium Rb et du bromure de rubidium RbBr sont rassemblés dans le tableau ci-dessous 4-a) Indiquer pour chacun de ces trois cristaux la nature des forces dominantes qui assurent la cohésion du cristal et préciser le type de chacun de ces cristaux: Cristal Brz Rb RbBr 0fs ''C) ~7,20 39,30 694,00
+La cohésion du cristal est assurée par
+Le cristal est du_type 4-b) Comment justifier la grande différence des valeurs de points de fusion entre Brz et RbBr ?
+Page 3 sur 16 Concours Technologique Session MailJuin 2017
 
+--- page 4 ---
+5) Le dibrome pur   On suppose que le dibrome est en équilibre sous ses phases liquide et vapeur à 298 K  la phase vapeur se comporte comme un gaz parfait. 5-a) Déterminer à 298K, la pression de vapeur saturante du dibrome; en supposant que Yinfluence de la pression sur le potentiel chimique du dibrome liquide est négligeable.
+1
+5-b) Sous quel état standard de référence se trouve le dibrome à 298K 2 
+5-c) Déterminer la température débullition standard du dibrome; en supposant que les entropies molaires de changement d'état sont indépendantes de la température.
+Page 4 sur 16 Concours Technologique Session Mai/Juin 2017
 
+--- page 5 ---
+1l. CRISTALLOGRAPHIE Le rubidium cristallise dans un réseau cubique de masse volumique p = 1,6 g.cm-3 1) Trouver le mode de réseau; sachant que le_paramètre "a" de la maille vaut 562 pm.
 
+oboon
+2) Donner une description de la maille et de son contenu.
+ 3) Donner Texpression puis calculer la valeur du rayon atomique du Rubidium
+4) La diffraction dun rayonnement X, de longueur donde 1 égale à 1,54 1, sur ce cristal donne une réflexion du premier   ordre avec un angle de diffraction   égal à 11,179 . Déterminer; pour cette réflexion; les indices de Miller de la famille des plans réticulaires diffractant.
+Page 5 sur 16
+Concours Technologique - Session Mai/Juin 2017
 
+--- page 6 ---
+5) Le Rubidium peut se combiner au brome pour donner Ie bromure de rubidium; cristal ionique de type NaCl et de paramètre a 685 pm. 5-a) Donner une représentation en perspective de la maille et de son contenu;
+ 
 
+ :
+5-b) En se limitant à une seule maille, représenter la trace des différents ions sur le premier plan réticulaire (002) après Porigine. Distinguer les deux types d'ions par des formes et des couleurs différentes .u gci
+Page 6 sur 16 Concours Technologique Session MailJuin 2017
 
+--- page 7 ---
+5-c) Déterminer la coordinence de chacun des deux ions. Justifier la réponse .
+5-d) Donner l'expression puis calculer la masse volumique du bromure de rubidium.
+1 `
+Ill. DIAGRAMME D'ÉQUILIBRE SOLIDE-LIQUIDE D'UN MÉLANGE BINAIRE La figure ci-dessous représente le diagramme d'équilibre solide-liquide du système RbBr-DyBr;. 1200 1200 P bar
+1100
+1100
+052
+1000
+1000
+967 | 900 800
+900
+1 800
+TIKII
+700
+700
+IL)
+600
+600
+0,1
+0,2
+03' 0,4 0,5 0,6 0,7 fraction molaire en DyBrs
+0,8
+0,9
+Page 7 sur 16 Concours Technologique Session Mai/Juin 2017
 
+--- page 8 ---
+1) Déterminer   la  formule   chimique de chacun des composés   définis   présents   dans  le diagramme
+2) Indiquer la nature de la fusion de chacun de ces composés définis.
+ 3
 
+3) Quelles sont les phases présentes dans les domaines (1), (I1) et (IID) ? Domaine (1)
+Domaine (I1)
+Domaine 4) Écrire les équations des équilibres invariants à 882 K et à 702 K en précisant 1a nature de la transformation.
+5) On part dun mélange liquide contenant 62,2 g de RbBr et 38,0 g de DyBr;. On refroidit ce mélange de la température 1100 Kjusqu'à la température 800 K. 5-a) Placer le_point représentatif Mi du mélange initial sur le diagramme:
+Page 8 sur 16 Concours Technologique Session MailJuin 2017
 
+--- page 9 ---
+5-b) Représenter sur le diagramme les chemins suivis par les points représentatifs des phases liquide et solide(s) au cours de ce refroidissement.  (Utiliser deux couleurs différentes)  Arépondre sur le diagramme 5-c) Donner Tallure de la courbe d'analyse thermique de refroidissement (de 1100 K jusqu'à 800 K) relatives à ce mélange;
 
+5-d) Calculer 1a quantité de matière en mol des différents composés dans chaque phase à la température 800 K.
+Page 9 sur 16 Concours Technologique Session MailJuin 2017
+
+--- page 10 ---
+6-a) Comment peut-on procéder pour obtenir du DyBr; solide pur à 700 K, à partir du mélange solide de composition XDyBr3 0,8 ?
+6-b) A quelle   température   doit-on procéder  pour obtenir la quantité de matière maximale de DyBr; solide pur ? Justifier la réponse.
+IV-ÉLECTROCHIMIE L'hydroxyde de dysprosium Dy(OH)3(sd) est très peu soluble dans l'eau. 1) Calculer la concentration des ions Dy3+ dans une solution saturée en Dy(OH)3(sd) à 298 K.
+2) Donner Y'expression du pH de la solution saturée en Dy(OH)3(sd) et calculer sa valeur.
+Page 10 sur 16 Concours Technologique Session MailJuin 2017
+
+--- page 11 ---
+3) Peut-on préparer une solution de concentration 10-3 mol L-' en Dy3+ à pH= 4 ?
+4) Représenter sur un axe de pH, le domaine de précipitation des ions Dys+ de concentration 10-3 mol.L-' en Dy(OH)B(sd).
+1 n
+o
+Page 11 sur 16 Concours Technologique Session MailJuin 2017 
+
+--- page 12 ---
+5) Diagramme E:pH du dysprosium 5-a) Donner les expressions numériques des potentiels redox relatifs aux couples Dy3+ IDy(d) et Dy(OH)B(sdyDy(sd) dans le cas où la concentration molaire en Dy3+ est égale à 10-3 mol.L-'
+ 
+5-6) Tracer le diagramme potentiel-pH (E-pH) du dysprosium pour la concentration de tracé Ctra 10-3 molL-'
+1,50
+1,00
+0,50
+0,00
+0,50
+€-1,00 1
+-1,50
+~2,00
+~2,50
+-3,00
+3,50
+5 = & € =
+pH
+Page 12 sur 16 Concours Technologique Session MailJuin 2017
+
+--- page 13 ---
+5-c) Indiquer sur le diagramme les formes prédominantes dans_les différents domaines: Répondre sur le diagramme On se propose détudier  l'action de lacide chlorhydrique sur le dysprosium   selon la réaction
+2Dy(d) 6H+ = 2Dy}+ + 3H2(g)
+Considérons un système constitué dune plaque de dysprosium trempant dans une solution dacide chlorhydrique. 6-a) Donner l'expression puis _ calculer la valeur de l'affinité chimique du système quand pH 5, [Dy3+] = 10-3 molL-' et la pression partielle de H2 (px2 Ibar).
+6-b) Conclure
+FIN DE LÉPREUVE
+Page 13 sur 16 Concours Technologique Session MailJuin 2017

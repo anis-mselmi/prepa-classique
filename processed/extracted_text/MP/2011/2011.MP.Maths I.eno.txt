@@ -1,4 +1,114 @@
+--- page 1 ---
+4Saisuwj) "laksl;àls g4ll4l Jenmll qubel olublul uad Aluji WnMau 201180)
+REPUBLIQUE TUNISLENNE Ministère ck / Enscigunxni Supériur ede la Rehrchr Scientilique
+Concows Natonaux dEntrér aux Cyde de Fonadion d'Ingénieurs Session 2011
+Concours Mathématiques et Physique Epreuve de Mathématiques I Date 13 Juin 2011 Heure 8 H Durée 4 heures Nb pages 5
+Barème
+Partie I : 5 pts
+Partie II : 6 pts Partie III : 3 pts Partie IV 6 pts
+La qualité de la rédaction, le soin de la présentation et la rigueur des raisonnements constitueront des éléments importants pour l'appréciation des copies. Il est rappelé que tout résultat énoncé dans le texte peut être utilisé pour traiter la suite, même s'il n'a pu être démontré. L'usage de tout ouvrage de référence et de tout autre matériel électronique est strictement interdit .
+Lobjectif de ce problème est Vétude des séries de la forme EanFn (r) où (an)neN est une suite de nombres complexes et, pour tout n € Net z > 0, n! Fn (r) = s(x+ 1) (r + n) ' WsTiU; PI8é ranJow QibloTHeQU) EtuCes ! 9 Partie I dmgnne 1. Montrer que, pour tout n € N et $ > 0, n + 1 Fn+1 (r) = Fn (I + 1)
+2. Montrer que, pour tout n € N et z > 0, la fonction t ~ tr -1 (1 = t)"  est intégrable sur Jo; 1] -
+3 . On pose, pour tout n € N et r > 0,
+In
+(2) = J' +- (1 _ t)" dt (a) Montrer que, pour tout n € Net z > 0, In+1 (x) = n+LIn (x + 1) 1
+(b) En déduire que, pour tout n € N et I > 0,
+Fn (x) = J +~ (1 ~ t)" dt .
+Concours Mathématiqucs ct Physiquc-Scssion Juin 2011- Éprcuvc de Mathématiqucs I
+1/5
 
+--- page 2 ---
+4 Soit I € R. Montrer que la fonction t + t"-1e-t est intégrable sur J0, +o[ si et seulement si 2 > 0-
+Dans la suite, on pose, pour r > 0,
++* T(z) = tv-1e-tdt.
+5  Soit 2 > 0 Pour tout n € N* on pose
+Pn
+Jo, +œ[ 4R, tr-1 (1-") si t € Jo; n] - F sinon.
+(a) Montrer que la suite de fonctions  (4n)n   converge simplement SUr Jo, +o[ vers   la fonction 4 définie par 4 Jo; +œ[ 4 R t H t2-le-t
+(b) En appliquant le théorème de la convergence dominée à (4n)n, montrer que lim tr-1 1-2)" dt = T(z) n-++0
+6 (a) Montrer que, pour tout n € N* et tout 2 > 0,
+tr-1 (1-4)"d = n" Fn (2) . (b) En déduire que, pour tout 2 > 0, Fn (z) ~ Ilz) n2
+Partie II
+Soit a = (an)neN une suite de nombres complexes    On note
+Da = I > 0 :
+@nFn (x)  converge absolument
+@n nI
+1 . Montrer que, pour tout 2 > 0, EanFn (x) converge absolument si et seulement si converge absolument_
+2 . Montrer que si 0 € Da alors [0, +o[ € Da. En déduire que si Da n'est pas vide alors Da est un intervalle non majoré de R
+3 Déterminer Da dans les cas suivants
+1 (a) Pour tout n an = avec & réel fixé na (b) Pour tout n @n = n!
+Concours Mathématiques et Physique-Session Juin 2011- Éprcuve de Mathématiques I
+2/5
 
+--- page 3 ---
+Dans la suite de cette partie, on note Ro le rayon de convergence de la série entière  @nz" .
+4 On suppose que Ra > 1
+(a) Justifier lexistence dun réel r > 1 tel que E @nrn converge absolument . (b) Montrer que, pour tout z > 0,
+anFn (2) = 0(anr") _
+(c) En déduire que EanFn (æ) converge absolument. (d) Montrer que, dans ce cas, Da = J0, +%[ -
+5 On suppose que Ra < 1
+(a) Justifier Fexistence d'un réel r € Jo; 1[ tel que (an' rn ')n ne converge pas vers 0 (b) Montrer que, pour tout 2 > 0,
+@n 22 =0 (anFn (x))
+(c) En déduire que EanFn (æ) diverge. (d) Montrer que, dans ce cas, Da est vide.
+6 Donner un exemple de suites a = (an)nev telle que Ra = 1 et Da = Jœ, +%[, avec a 2 0
+Partie III
+Soit a = (an neN une suite de nombres complexes telle que Da soit non vide On pose €a 2 inf Da
+1 Montrer que la série de fonctions dans Da-
+anFn converge normalement sur tout segment contenu
++0 2. En déduire que la somme F = anFn est continue sur Da. 7=0
+3 Montrer que, pour tout  € Da,
+IFn (æ) < Fn (2) (2+"(1+2))
+4 Soit [œ,/] un segment contenu dans J'a, +0[ .
+(a) Montrer que, pour tout 2 € [œ,8],
+IFn (2)| < Fn (œ) (1 +In Q (1+2))
+(b) En déduire que EanFn converge normalement SUI tout   segment contenu dans Jja, +0[ .
+Concours Mathématiques et Physique-Session Juin 2011- Épreuve de Mathématiques I
+3/5
 
+--- page 4 ---
++0
+5 Montrer alors que la fonction F = EanFn est de classe Cl sur ] a, +œ [ . n=0
+Partie IV
+Soit a = (an)neN une suite de nombres complexes telle que Da soit non vide:
+1. Soit z € Da.
+(a) Montrer que, pour tout t € [0, 1 [, la série 2 @ntn converge absolument - On pose
+S : [0, 1 (
+R +0 H 2 @ntn n=0
+t
+(b) Montrer que F (s) '= J < ~t)I-1 S (t) dt. 2 Exemples
+(a) Soit N un entier naturel.  On suppose que, pour tout n € N; 0 si n < N @n = 1 si n 2 N.
+Vérifier que Da = ]1, +c[ puis montrer que; pour tout $ > 1,
++0 Fn (2) = FN (z - 1)  n=N
+zn (b) Soit z un nombre complexe.  On suppose que; pour tout n € N, an 2 n! Vérifier que Da = J0, +o[ puis montrer que, pour tout r > 0,
++0
++0 (~z)" = ez z(z + 1) ( + n) n=0 22 "! (r + n)~
+3 Retrouver le fait que F est de classe Cl sur ]Fa; +œ[et montrer que; pour tout æ € J'a, +%[,
+F' '(2) = J (-t7-'s()ln(1 _ ~ t) dt.
+n-1 @p 4. Dans la suite; on pose co = 0 et, pour tout n € N*= Cn = _ 2 p=0 Tl = p Montrer que; pour tout t € [0, 1[ la série 2 Cnt" converge absolument et
++o Cntn = S (t) In (1 _ t)  n=0
+Concours Mathématiques et Physique-Session Juin 2011- Épreuve de Mathématiques I
+4/5
 
+--- page 5 ---
+Cn converge absolument. Soit N 2 3 n2
+5 Soit $ € Da' On se propose de montrer que la série un entier naturel.
+(a) Montrer que
+N Jcnl n" n=1
+N _] N-p 1 lapl k (k + p)æ p=0 k=1
+(b) Soit p € {0, 1, N _ 1} - Montrer que
+N-p +0 dt 2v+p < P+J7 + t (t+ p) k=l
+(c) En remarquant que
++0
+dt
+dt
++0
+dt
+fp+1 4 t(+p) p+1 t(t+p),
+t(t +p=
+déduire que
+N-p In (p + 1) 1 @p+i)  + (1+4)p7  k=1 k(k + p7 (d) En déduire que Sn converge absolument nr
+6 Montrer que, pour tout æ € ] a, +o[
++oo
+F' (r) = EcnFn (r) ~ n=0
+ncours Mathématiques et Physique-Session Juin 2011- Épreuve de Mathématiques I
+5/5

@@ -1,3 +1,58 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de /'Enseignement Supérieur et dc la Recherche Scicntifique Concours Nationaux d'Entrée aux Cycles de Formation d'Ingénieurs Session 2010
+~93u)j2/4zui "Wkx:luats GLb Uuin Yibyi 2ULI Dili `ucjlyci 2010i
+Concours Biologie et Géologie Epreuve de Physique
+Date : Jeudi 03 Juin 2010
+Heure : 8 H
+Durée : 3 H
+Nbre pages 04
+Problème A : 11 / 20
+Problème B : 09 / 20
+Barème :
+L'usage d'une calculatrice non programmable est autorisé.
+deux problèmes indépendants. Le candidat peut les résoudre dans l'ordre L'épreuve comporte qui Iui convient, en respectant néanmoins la numérotation des questions. PROBLEME A OPTIQUE ONDULATOIRE 1 - On considère un prisme de section triangulaire d'angle au sommet A, taillé dans un milieu homogène et isotrope d'indice n dépendant de la longueur d'onde 2. Ce prisme est Iacsparent Vhonaogèncindicsots] pris égal à 1 Il est éclairé par un faisceau de rayons parallèles placé lumière monochromatique. Un rayon de ce faisceau atteint la face d'entrée au point I,sous d une point [2 sous l'angle i2 On utilisera les angles orientés définis l'angle d'incidence i, et émerge au sur la figure 1.
+MstituT Phé?AKaUIRe pbuoTHCQUE NUX SFn rayon DuDEs F 0' 265'u5s incident
+rayon émergent
+Figure 1
+I-1- Trouver une relation simple entre les angles r, Tz et A. 1-2- Donner les relations entre les angles i, et F au point I1 puis entre i2 et 1, au point 1z 1-3- Définir F'angle de déviation D. Montrer qu'il s'écrit D =ip +i2 - A expérimentalement que Fangle D prend une valeur minimale  Dm lorsque 1on 1-4- On constate D =Dm, on a : ip =i2 2im et I1 = 1, Calculer fait varier V'angle d'incidence i, Montrer que pour Tracer l'allure de la courbe D(i;) pour i; € 0, ? alors la déviation minimale D In 2
+Concours Biologie et Géologie Session 2010
+Epreuve de Physique
+Page 1/4
+prisme
 
+--- page 2 ---
+A + D sin 2 1-5- En déduire que indice de réfraction n du prisme vérifie la relation n = A sin 2 I-6- Le prisme est éclairé par un faisceau de rayons parallèles dune Iumière blanche. Une étude B expérimentale montre que Findice du prisme vérifie la relation de Cauchy n(a) =n + 1 ? avec B=0,155 10-13 m? et no = 1,710  [-6-1- Décrire le phénomène observé à la sortie du prisme. 1-6-2- Pour une radiation donnée, on mesure un indice n =1,762 . Déduire la longueur donde de la radiation utilisée et la couleur correspondante. II- Dans la suite, on étudie le phénomène d'interférences en utilisant le dispositif du bi-prisme de Fresnel. Il est constitué de deux prismes droits identiques. Chacun d'eux est de faible angle au sommet A = 5,8 10-3 rad dindice n constant et de hauteur h. Ils sont accolés par leur base commune. Ce bi-prisme est éclairé par une fente source fine $ orientée parallèlement aux arêtes des prismes. La figure dinterférences est observée sur un écran (E) , placé perpendiculairement à Paxe optique; situé à la distance b = 1,25 m du bi-prisme (Figure 2) II-1- La source S est placée à une distance finie d =0,25 m du bi-prisme. X
+bi-prisme
+M(x)
+Axe optique
+2
+prisme droit
+b
+Figure 2 II-1-1- En exploitant le résultat de la question I-3- montrer que la déviation D du prisme de faible   angle au sommet A et éclairé par un faisceau   lumineux de faible   angle d'incidence i,s'écrit D =(n-1)A . II-1-2- Représenter sur un schéma la marche des rayons lumineux issus de la source S et qui émergent du bi-prisme. Préciser le champ dinterférences  ainsi que les positions des sources secondaires S; et S2 En déduire leur écartement $,S2 = a en fonction de n, A et d. II-1-3- Ce dispositif interférentiel est équivalent à celui des fentes d' Young Montrer que la différence de marche & entre les rayons émergents du bi-prisme et qui interfèrent 2d(n -1)Ax en M(x) s'écrit ;(x)= = Décrire laspect de la figure d'interférences. b+d II-1-4 - La source S émet une   radiation lumineuse   monochromatique de   longueur  d'onde 1 = 546 nm Déterminer F'interfrange i et calculer sa valeur. II-1-5- Calculer la largeur du champ d'interférences et déterminer le nombre de franges brillantes observées sur /écran. [I-2 - Le dispositif interférentiel est éclairé maintenant   par un faisceau de rayons   parallèles monochromatique sous incidence normale. Pour réaliser cette situation; on place la source $ au Concours Biologie et Géologie Session 2010 Epreuve de Physique Page 2/4
 
+--- page 3 ---
+foyer objet dune lentille convergente (L) de distance focale f (Figure 3) X
+M(x)
+S
+z
+Axe optique
+E
+Bigure 3
+II-2-1- Tracer les rayons émergents du bi-prisme et préciser la zone d'interférences. II-2-2- Montrer que la différence de marche entre deux rayons qui interfèrent au point M situé à la distance X = OM du centre 0 de lécran s'écrit ô = 2(n-1)Ax . Exprimer et représenter Fintensité lumineuse I(x) II-2-3- Déterminer Tinterfrange i. Dépend-t-elle de la position de lécran ? Faire F'application numérique pour 2 =589 nm et n = 1,5 _ [I-2-4- A quelle distance b =b du bi-prisme faut-il placer lécran pour observer un nombre maximal de franges ? Combien de franges brillantes observe-t-on ? On donne h =Icm _
+PROBLEME B ELECTRONIQUE
+I- On applique entre les bornes du circuit représenté sur la figure 4 une tension sinusoïdale; de pulsation @ variable; imposée par un générateur v (t) = Ve cos(@t) où Ve est lamplitude de la tension dentrée. La tension de sortie vs(t) )représente la réponse forcée de ce circuit. Elle s'écrit sous la forme vs(t) = V()cos(t -p) I-1- Préciser le comportement du condensateur à très basse et à très haute fréquence. En déduire la nature de ce filtre: R,
+Figure 4
+1-2- Déterminer la fonction de transfert complexe H(jo) =% Ve 1-3- Tracer 1allure du diagramme de Bode du gain en Décibel G (dB) = 20 logio JE(jo)  Déterminer la bande passante de ce filtre à -3 dB pour C=lOnF et Rp = 4 kS2 [-4- Ce filtre est chargé par une résistance R branchée aux bornes de la capacité C. Concours Biologie et Géologie Session 2010 Epreuve de Physique Page 3/4
 
+--- page 4 ---
+1-4-1- Déterminer la fonction de transfert de ce filtre. Montrer qu'elle peut se mettre sous la Ho forme H  (jo) 2 Exprimer Ho et @en fonction de Rp , Rz et €. 0 1+j 0o I-4-2- Quel est leffet de lajout de la résistance Rz sur le gain maximal et sur la bande passante du filtre ? Conclure 1-4-3- On choisit Rz =Rp ; Calculer le gain maximal (en dB) ainsi que la bande passante de ce filtre. On donne C=10 nF et Rp = 4 kS2 .
+II- On considère le montage de la figure 5 dans lequel lamplificateur opérationnel est idéal et fonctionne en régime linéaire.
+Rz
+R
+Vs
+Higure $
+Il-1- Déterminer léquation différentielle vérifiée par vs(t) en fonction de v(t) , Rp  Rz et C. II-2- Le signal dentrée du filtre est de type sinusoïdal de pulsation @ et d'amplitude V On a ainsi v (t) = V cos@t II-2-1- A quelle condition sur @ , le montage précédent est-il intégrateur ? Déterminer dans ce cas la tension de sortie v (t)du filtre. II-2-2- A quelle condition sur @ la tension de sortie v(t) est-elle proportionnelle à la tension dentrée v (t) ? Montrer que le montage est alors un amplificateur inverseur dont on précisera le gain maximal H II-3-1- Montrer que la fonction de transfert H2 (jw) de ce filtre s'écrit souS la forme Rz Hz (jo) = En déduire la pulsation du coupure @ du montage. Rz 1+jRzCa II-3-2- La tension dentrée sinusoïdale est damplitude V. = 4Vet de pulsation @ =3 104 rad s-1 Calculer lamplitude de la tension de sortie Vs (+) ainsi que son déphasage $ par rapport à v(t) On donne Rp =4 kS2_ Rz = 2Rp et C =10 nF_ II-4- La tension d'entrée est maintenant de type rectangulaire de période T= 2t 10-6= s Quelle est Ja forme de la tension de sortie ?
+Fin de Fépreuve.
+Concours Biologie et Géologie Session 2010
+Epreuve de Physique
+Page 4/4

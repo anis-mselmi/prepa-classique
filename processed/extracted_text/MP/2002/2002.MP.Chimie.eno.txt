@@ -1,2 +1,40 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de PEnseignement Supérieur Concours Nationaux d'Entrée auX Moeo Cycles de Formation d'Ingénieurs Session: Juin 2002 #ene Cofuss $ Concours Mathématiques et Physique Epreuve de Chimie
+Date Mardi 4 Juin 2002
+Heure : 8 H
+Durée: 2 Heures
+Nbre pages : 3
+Barème: Problème I: points Problëme I; pojnts Problème XI: points Les candidats sont lenus de Wvistilier leurs réponses au moins en quelques lignes:
+PROBLÈME I
+Données:
+Capacité calorifique molaire sous pression constante de 502 (g): €p = 51 Jmo]-LK-1 Constante des gaz parfaits; R = 8,314 Imol-1 K-I ;R =0,082 Latm.mol-L K-1 . AFf,298 S02 (g) = 296,8 kI mol-1.
+On considère un système $ 1 où se produit la réaction : S (sd) 02 (g) S02 (g) et uB autre système $ 2 où se produit la réaction : 82 (g) 2 02 (g) = 2 S02 (g)
+{L)
+(2)
+1) Quelle est la variance des systèmes de la même espèce que S1 et $ 2 contenant uniquement les constituants écrits dans les équations chimiques (1) et(2) ? 2) Peut-on choisir arbitrairement pour: a)le système $ 1 en équilibre la température, la pression, le volume etla quantité de matière de S02 gaz ? b) le système $ 2 en équilibre les fractions molaires des trois constituants 3) On réalise la-réaction (1) dans un système à parois adiabatiques en partant_ de quantités stœchiométriques-de soufre Ct: de dioxygène initialement à la température de 298 K: Détérminer la température TFin du système après combustion supposée totale sous pression constante de 1 bar. On admettra que la constante calorifique molaire Co P reste constante dans 'intervalle de température considéré
+4) On considère dans la suite du problème seulement ['équation: S2 (g) 4 2 02 (g) 2 2 502 (g) (2) L'enthalpie libre standard ArG T (en Joule) de cette réaction en fonction de la température T (en &egré Kelvin) est donnée par la relation suivante: A;GPT 5 590473 + 65,18 T + 15T LnT (Ln:loganthmne népêrien).
+Concours Maihémaliques ei Physique. Juin 2002.Epreuve dc Chimie
+pagca
 
+--- page 2 ---
+2) Donner les expressions littérales de ArHT et de ArS%T' en fonction de la température. Calculer leurs valeurs à la température de IOOOK. b) En déduire la valeur de A,U1ox: c) Quelle est la valeur dc la constante d'équilibre K' Tà la température de I0O0 K ?
+5) Dans quel sens se déplace l'équilibre si on ajoute à temnpérature et pression constantes: a) une faible quantité d'un gaz inerte ? b) une faible quantité de S02 2
+6) On introduit dans un système préalablement vidé d'air de volumc fixe égal à 10 L maintenu à la température de 100O K, deux moles de $2 (g) et deux moles de 02 (g). Déterminer la pression totale àléquilibre.
+PROBLÈME II
+Les tensions de vapeur P' 1 et Pe2 de l'éthylbenzène (1) et du styrène (2) sont données par les équations suivantes: Jog P1 = 6,954 1422 213 + 8 Jog = 7,279 21650 Pz 230 + 0
+oùla température € est exprimée en %Cet les tensions dc vapeur en mmHg. 1) Lequel de ces deux composés est le plus volatil ? 2) Déterminer les températures d'ébullition de /'éthylbenzène et du styrène sous la pression dë 50 mmHg. 3) On considère un mélange liquide d'éthylbenzène ( 1) et de styrène (2) dont le comportement est supposé idéal. Déterminer, aux températures de 60*C, 62 C et 64 C, les fractions molaires de chacun des deux constituants dans la phase liquide et dans la phasc vapeur en équilibre sous la pression totale de S0 mmHg: 4) Tracer à partir des résultats précédents le diagramme liquide vapeur du système éthylbenzène styrène. 5) Un mélange initial contenant 100 moles d'éthylbenzêne et de styrène de fraction molaire en éthylbenzène égale à 0,25 est porté à 64C. Déterminer le nombre de moles de styrène et le nombre de moles d'éthylbenzène dans chacune des deux phases à l'équilibre. PROBLÈME III
+Dennées:
+Masse molaire atomique en gmnol-1. 0 = 16 et U = 238, Nombre &Avogadro NA 6,023.1023
+A) Lc dioxyde duranium UO2 est un composé ionique formé des ions U4+ et, 02 - IL cristalfisc dans le sysyème cubique. Le paramètre dc la maillc est égal à 5,46 A. Les ions U4+ forment un réscau cubiquc àfaces centrées et les ions 02- occupent les sitës tétraédriques de ce réseau
+Concours Mathématiques ct Physique. Juin 2002 Eprcuvc de Chimie
+pagc -2
 
+--- page 3 ---
+Déterniner:
+Al) La coordinence de chacun des deux ions . A2) La masse volumique du dioxyde d'uranium UO2 exprimée en gcm-3
+43) La plus courte distance dUJ-o entre ['uranium et /oxygène.
+A4) Les rayons des ions U4+ et 02- sachant que le rapport r(U4+)n02-) est égal à 0,8. B) On place au centre d'une chambre circulaire de circonférence 240 mm, une poudre cristalline de dioxyde d'uranium UO2 sur laquelle on fait tomber un faisceau de rayons X de longueur d'onde 1 égaleà 1,542 A.
+BI) Exprimer la valeur de Tangle de reflexion 0' (Bragg) ën fonction de la longueur [ (en uin) qui sépare dcux raies symétriques du diagramme de Debye  Scherer B2) On mesure sur le film deux distances séparant deux couples de raies symétriques. On trouve: LI = 37,700 mm et L2 = 74,365 mm. Calculer les deux distances réticulaires correspondants à ces deux familles de plans réticulaires_ B3)  Déduire les indices de Miller pour chaque famille de plans réticulaires
+Fin.
+Concours Mathéinaiiqucs ci Physiquc Juin 2002 Epreuve dc Chimie
+pagc 3-

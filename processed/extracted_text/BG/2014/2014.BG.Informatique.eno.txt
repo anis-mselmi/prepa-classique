@@ -1,5 +1,136 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENYE Ministère de VEnseignement Supérieur .
+4~sill Lsaaall slalzll euslls suLell Asle;l ë)l)s JlesYl $ elasleall Laalai2js
+de la Recherche Scientifique, des Technologics de Information et de la Communication
+Concours Aationaux d'Entrée aux Cycles de Formation d'Ingénicurs Session 2014
+Jsin Zrbyl 2,HLiji Njitn) Chasu>J 20145,9
+Concours Toutes Options Epreuve dInformatique
+Date Mardi 03 Juin 2014
+Heure : 14 H
+Durée : 2 HI
+Nombre de pages 6
+Barème PROBLEME 1 (MAPLE) 10 points PROBLEME 2 (ALGORITHMIQUE) 10 points
+DOCUMENTS NON AUTORISES
+L'USAGE DES CALCULATRICES EST INTERDIT
+PROBLEME 1 (MAPLE) Soit f une fonction numérique à n variables réelles (n€ N) toute fonction de R dans   R telle que f :(xj,X2 > )F f (xp,X2, , Xn On suppose que toutes les dérivées partielles premières et secondes de f existent et continues. Lobjectif est de déterminer la liste des points critiques de f ainsi que leur nature ( aninimum local, maximum local, point col ou point dégénéré) s'il y en a.
+Un   point U = (u1,"2 > u, ) est   dit critique si le vecteur   gradient  de f noté Vf (avec Vf = @f df @f s'annule en ce point. Ce qui signifie dx; @xz ÔXn
+Vf (U) =0
+@(U) =0,d(U)=0, ôf(U) =0 0x; Ôx: ôx
+Pour déterminer la nature dun point critique; il faut analyser la matrice Hessienne H de f en ce point. On définit, dans le cas général une matrice Hessienne carrée H dordre n par : d2 f H,.1 = (x1X2,.,xn) avec |<i<n et I<j<n dxôx Doù àf 92f (xpX2,- ,x ) (x1,x2,    ,x,) ôx;ôx, dx dxn  H = ô? f 02 f (xv, X2, - .  , X, ) (x; X2 * 7 '2x dx ôx; dx  {x Concours (Toutes Options)- Session Juin 2014 Epreuve dInformatique Page 1/6
 
+--- page 2 ---
+Théorèmes : 1  Toute matrice Hessienne est une matrice symétrique à valeurs réelles. 2. Toute matrice Hessienne admet des valeurs propres réclles. 3 . Toute matrice Hessienne est définie   positive si toutes scs valeurs   propres sont strictement positives. 4 Toute matrice Hessienne est définie   négative si toutes ses valeurs   propres sont strictement négatives.
+On détermine la nature dun point critique comme suit Un point critique de f est dit dégénéré   lorsque le déterminant de H est nul en cc point (au moins une des valeurs propres de H est nulle) . Un point critique de f est non dégénéré, si le déterminant de H est non nul en ce point . Le signe des valeurs propres (toutes non nulles) détermine la nature de ce point (extremum local ou point col) si la matrice Hessienne est définie positive; la fonction atteint un minimum local au point critique. si la matrice Hessienne est définie négative; la fonction atteint un maximum local au point critique. si les valeurs  propres sont de signes différents  le point critique est alors un point col.
+Iravail demandé Compléter la procédure MAPLE EXTREMUM en suivant la démarche donnée ci-dessous > EXTREMUM: =proc (E algebraic X list) local n , m , f , V , P , 9 , H , VP , LVP , LS SPC # au besoin utiliser d'autres variables locales
+RETURN ( SPC)
+end proc
+où E est unc expression dépendante des variables [x,,X2, Xn] et X une liste des variables [x;,X2, ,X, ] EXTREMUM retourne la séquence SPC formée par le nombre de points critiques et la liste de ces points s'il y en a. Chaque élément de cette liste est une liste formée par le point critique et sa nature ( "minimum local" "maximum local" , 'point col" ou 'point dégénéré') Exemple: Lappel à EXTREMUM (x^ 4+Y^ 4 - (x-y) ^2 , [x,y] ) donne comme résultat
+3, [ [ {x =-l,y=1 } minimum local ], [ {x = O,y=0 } point dégénéré ] [{x=l,y=-1 } minimum local ] ]
+et les valeurs des variables locales n, V , P , m , H , VP , LVP , LS SPC, suite à Fexécution de cet appel, sont
+Concours (Toutes Options) - Session Juin 2014
+Epreuve d'Informatique
+Page 216
 
+--- page 3 ---
+n := 2
+V:=4x _ 2r + 2 y,4 y} +2x - 2 y
+P := { {x=-l,y = 1 } {x=O,y=0 } {x= I,y =-1 } }
+m : = 3
+[12 x2 _ 2 2 H := 2 12 y? _ 2
+VP =[6x2 _2+6y? +2 19x4 =18x2 y? + 1 + 9 y 6x2 _ 2 +6y _ 2 v 9x4 2 18x2 y? + 1 + 9 y4 ]
+LVP : = [[12,8], [0, -4], [12,8]]
+LS := [[1, 1] [0,-1 ], [ 1, 1]]
+SPC == 3, [[ {x = -1,y= | }, minimum local ], [ {x= O,y=0 } point dégénéré ] [{x = ,y=-1 } minimum local ]]   Démarche à suivre dans la procédure  
+1 
+Affecter à n le nombre déléments de la liste des variables [x,x2, x,] 2 Transformer E en une fonction f dépendante des variables X,X2, , X 3. Calculer dans la séquence V; le vecteur gradient de f. 4 Calculer  dans P, Yensemble des points critiques. On suppose que tous les points critiques sont de type numericen MAPLE. 5 Affecter à m le nombre de points critiques. Dans le cas où m > 0 : 82 f 6 Définir une fonction g tel que g(i,j) = (xp,X2,. . , Xn) dxôx 7. Déterminer la matrice Hessienne H en utilisant g 8 Calculer dans VP; la liste des valeurs propres de H. 9 Déterminer dans LVP, la liste des valeurs propres des points critiques. 10. Définir la fonction signe qui, pour une valeur x, retourne 1 six est positive; -1 si x est négative et 0 si x est nulle. 11. En utilisant  la   fonction signe; déterminer dans LS, la liste des listes des signes correspondant à LVP . 12. Déterminer dans SPC; la séquence formée par le nombre de points critiques et la liste des points critiques. Chaque élément de cette liste est une liste formée par le point critique et sa nature (minimum local; maximum local, colou dégénéré) .
+Concours (Toutes Options) - Session Juin 2014
+Epreuve dInlormatique
+Pagc 3/6
 
+--- page 4 ---
+PROBLEME 2 (ALGORITHMIQUE) La quantité  dinformations   disponible en ligne s'est considérablement accrue Notons  par exemple la numérisation de nombreux ouvrages; le développement exponentiel du web, etc. Un problème clé lié à ce volume de données est l'efficacité de la recherche d'informations. Dans un moteur de recherche internet par exemple; un facteur d 'importance d'une page pour une requête donnée est Fappartenance des mots recherchés à la page ainsi que leur nombre d'apparitions (occurrences) . Ces informations peuvent être obtenues en mettant en œuvre des algorithmes de recherche comme nous le verrons dans la suite Un texte donné est une suite de n lettres minuscules stockées dans un tableau d'entiers à une dimension où chaque entier (compris entre et 26) représente une lettre minuscule suivant lordre lexicographique (voir tableau suivant) .
+b 2
+g h ]i | K / [ m 5 [ 6 7 | 8 10 12 113
+5 t 19 20
+u 21
+V W | x | Y | z 22 23 | 24   25 26
+15
+16
+17 18
+Il est à noter que les espaces; les fins de lignes et les caractères de ponctuation présents dans le texte ne sont pas représentés dans le tableau. Un mot, composé dune ou de plusieurs lettres; est un texte Exemple Le texte quel bon bonbon est représenté par le tableau tab où la case dindice 0 stocke le nombre de lettres dans le texte
+Texte
+b
+b
+b
+tab indice
+13 17 21 5 12 2 15 14 2 15 14 2 15 14 2 3   4 5 6 8 10 11 12 13
+NMAX
+Travail demandé Dans la suite on suppose avoir déjà effectué les déclarations suivantes CONSTANTE NMAX = 10000 TYPE TEXTE = tableau [0. NMAX ]de entier FREQUENCE tableau [1..26,0. NMAX ]de entier FREQMAX = tableau [0.26]de entier On désigne également dans les entêtes par E paramètre passé par valeur et par S paramètre passé par variable
+1
+Ecrire une fonction nommée Taille qui saisit et retourne un entier compris entre 1 ct NMAX. Cette fonction a pour entête
+FONCTION Taille( ) entier
+2 Ecrire une procédure nommée SaisieTxt qui saisit dans un tableau tab les n entiers représentants les lettres dun texte donné. Cette procédure a pour entête
+PROCEDURE SaisieTxt(€ n : entier S tab : TEXTE)
+3 Ecrire une fonction nommée VeritMot qui retourne VRAI si un mot identifié par mot apparaît à une position k dun texte tab et FAUX sinon. Cette fonction a pour entête
+FONCTION VerifMot(E tab mot TEXTE E k : entier) booléen
+Concours (Toutes Options) - Session Juin 2014
+Epreuve dInformatique
+Page 4/6
 
+--- page 5 ---
+4 . En utilisant  impérativement   VerifMot, écrire une fonction nommée RechercheMot qui retourne indice de la première apparition (occurrence) d'un mot identifié par mot si ce mot apparaît dans un texte tab, et -1 sinon: Cette fonction a pour entête
+FONCTION RechercheMot(E tab mot TEXTE) entier
+Exemple
+La première apparition du mot bonbon dans le texte quel bon bonbon est à Pindice 5
+Texte
+e
+b
+n b
+tab indice
+13 17 21 5 12 2 15 14 2 15 14 2 15 14 2  3   4  5 16 7   8 10 1 12 13
+mot
+b
+b
+n
+1 ère occurrence du mot: indice
+2
+15 14 2 15 14 2 3 34  5 6
+5 Ecrire une procédure   nommée TabOccur qui détermine dans un tableau OCC les occurrences dun mot identifié par mot apparaissant   dans un texte tab La case d'indice 0 de occ stocke le nombre d'occurrences. La suite des cases stocke les indices des occurrences si le mot apparaît dans tab Cette procédure a pour entête
+PROCEDURE TabOccur(E tab mot TEXTE s OCC TEXTE)
+Exemple
+Dans le texte quel bon bonbon le mot "bonbon a pour  nombre doccurrcnces 2 avec 5 indice de la première occurrence et 8 comme indice de la dcuxième occurrence
+Texte
+e
+n
+b
+tab indice
+13 17 21 5 12 2 15 14 2 15 14 2 15 14 2 3   4   5   6 7 8 10 11 12 13
+mot
+b
+ère 1 occurrence du mot: indice
+6
+2 15 14 2 15 14 2 3   4 5 6
+mot 2éme occurrence du mot: indice
+b
+n b
+n
+6 2 15 14 | 2 15 14 2   3   4 5 6
+OCC indice
+2 0
+5
+8 2
+Concours (Toutes Options) - Session Juin 2014
+Epreuve d' Informatique
+Page 5/6
 
+--- page 6 ---
+6 Ecrire une fonction nommée MotRecouv qui à partir; dun mot identifié par mot et du tableau  doccurrence occ correspondant,  retourne VRAI si certaincs occurrences du mot identifié par mot sC rccouvrent dans le texte (comme le montre   lexemple précédant), et FAUX sinon. Cette fonction a pour entête
+FONCTION MotRecouv(E mot ocC TEXTE) booléen
+7 En utilisant   impérativement  la procédure TabOccur; écrire une procédure nommée FrequenceLettres qui détermine   dans un tableau Freq de type FREQUENCE la fréquence de   chaque lettre de Falphabet (nombre doccurrences) ainsi que ses positions dans le texte si la lettre existe. Dans ce cas; chaque ligne i de Freq conticnt dans lordre la fréquence de la lettre ayant Fordre lexicographique i à la colonne 0 et les indices de ses occurrences dans la suite des colonnes. Dans le cas contraire la fréquence de la lettre est nulle. Cette procédure a pour entête
+PROCEDURE FrequenceLettres (E tab TEXTE S Freq FREQUENCE)
+8 Ecrire une procédure nommée LettresPlusFreq qui détermine dans un tableau tabF de type FREQMAX les lettres ayant la fréquence maximale dans le texte représenté par tab. La case dindice 0 de tabF stocke la fréquence maximale et la suite des cases contient Fordre lexicographique des lettres   ayant toutes cette même fréquence maximale.
+1
+
+Concours (Toutes Options) - Session Juin 2014
+Epreuve d'Infornxatique
+Page 6/6

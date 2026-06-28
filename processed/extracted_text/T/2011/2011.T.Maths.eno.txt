@@ -1,3 +1,76 @@
+--- page 1 ---
+4941s24a?| GUarsesus 8a9+als Joall eubcl oluilzall Iofi Jloji GuN La pl| 2011 42)
+REPUBLIQUE TUNISIENYE Mlaistere % ('Enwixnenxni Sunérwur #:d* L Rvclwrch: Szientiliquc Couxcours Nationaux d'Entrir aux Cydes dæ Formadon d'Ingénieurs Session 2021
+Concours Technologie
+Epreuve de Mathématiques Date: Lundi 13 Juin 2011 Heure: 8H Durée: 4H Nbre pages:
+Barème: Partie I: 5,5 pts; Partie II: 6,5 pts; Partie III: 8 pts La qualité de la rédaction , le soin de la présentation et la rigueur des raisonnements constitueront des éléments lappréciation des copies. Il est rappelé que tout résultat énoncé dans le texte peut être utilisé importants pour même $ 'il n'a pu être démontré L'usage de tout ouvrage de référence et de tout autre pour traiter la suite, matériel électronique est strictement interdit
+Partie I +o sin? t Le but de cette partie est de calculer les intégrales dt et Soit la fonction +c0 sin? t h(x) = e-It dt ,
++ca sin t dt
+Montrer que h est bien définie et continue sur [0, +oc[. (a) Montrer que h est de classe C2 sur J0, +a[ et que, pour tout æ > 0, Fco h" (x) cos(2t) dt , 2x WstTUT Croparao; (b) Montrer que, pour tout I > 0, +o QIBUOTHEQUE) cos( 2t) dt % FTUDeS SFn 12 + 4 Dunsuas (c) En déduire que, pour tout I > 0, h'(x) = In x In(r2 + 4) . 2
+d) Montrer de même que, pour tout 2 > 0,
+h(æ)
+In arctan( 2) 12 + 4 + 2
+(a) En déduire que
+Foo sin? t dt = t2
+Technologique Session Juin 2011 Épreuve de Mathématiques Concours
+Page 1/4
 
+--- page 2 ---
+(6) Montrer que
+sin? t dt = t2
+72 sint dt
+Partie II
+Le but de cette partie est de calculer entre autres les sommmes suivantes: (sin") n = sin n
+n=1
+Soit la fonction de la variable réelle t; 2"-périodique et telle que:
+Vt € [~T,T[, +(t) = Jt| 2
+On note S,(t) la série de Fourier de +. {a) Préciser Pourquoi est égale en tout point de R à la somme de sa série de Fourie Sç(t) . (6) Calculer les coefficiencs de Fourier réels an(+) et bn(+) (c) En déduire que +0 4cos( (2k 1)t) Sç(t) = 2 T(2k 1)2 K=1
+Calculer les somme suivantes:
+=cc
++8
++ (~1)2 iii) n2 n=l
+(2k 12 k=l
+ii) Enz' n=1
+3 . Calculer:
++a 5 (2k 1)4 On note la primitive de < telle que @(0)
++C0 ii) 1 n=1
+a) Montrer que est impaire et périodique de période 2- (b) Calculer les coefficients de Fourier réels @n ($) et bn ($) de (c) En déduire les somnes suivantes:
+puis sa série de Fourier
+7co
++9
+(2k 1)6 k=1
+76 n=
+Soit la   fonction d'une variable réelle; 27-périodique. impaire et telle que, POUI toult t ejo, "]. on a: f {t)
+Calculer les coefficients de Fourier réels an(f) et b,(f) de la fonction f
+Concours Technolozique Session Juin 2011 Épreuve de Mathématiques
+Page 2; !
 
+--- page 3 ---
+(b) Ecrire sa série de Fourier
+sinn Montrer que la série numérique est convergente et que n21
+sin n 21 r=1
+On considère la fonction g, 27-périodique; impaire et définie sur ]0, ~] par: tf(I) si t €l0, 1] g(t) = f (t) si t € [1.
+(a) Calculer les coefficients de Fourier réels an(g) et bn(g) de la fonction 9. (b) En déduire que sa série de Fourier S,(t) est égale à
+sin(n) sin(nt) . n2 n=[
+Sg(t)
+(c) Etudier la convergence normale de la série de Fourier de 9 (d) Montrer que 'sin7)? = Esn" n=l 1=1
+Déduire la valeur de la somme 'c09") 1= (e) Calculer les sommes suivantes:
+7c0 sin2 n n 4 7=1
+co cos2 n n = 1=l
+Partie III
+On note par Mn(R) Fensemble des matrices carrées d'ordre n. Soit une matrice de Mn (R). On dit qu 'une matrice R de M-(R) est une racine carrée de A si R? = 4
+On note par Rac(4) lensemble des racines carrées de 4.
+Le problème propose de déterminer les racines carrées de A dans différents cas
+Cas où 4 possède valeurs propres distinctes. On suppose que la matrice 4 € Mn(R) admet valeurs propres réelles %1 < )2
+< Ar .
+(a)
+Justifer ]'existence d'une matrice P € Mr(R) inversible telle que 4 PDP-! où D diag( X1; X2, Xn
 
+--- page 4 ---
+ii Moutrer que R est une racine carrée de 4 si et seulement si la matrice $ P-'RP est une racine ca-rée de D (b) Racines carrées de D Soit S une racine carrée de D Montrer que D et S commutent et en déduire que la matrice $ est diagonale. ii On note alors $ diag(s1, Sn) . Que vaut s? lorsque i € {1 , n}  iii Que peut-on dire de Rac(A) si A admet une valeur propre strictement négative? iv . Si on suppose que toutes les valeurs   propres de sont positives ou nulles , déterminer les racines carrées de la matrice D On pourra poser 6; € {-1,1} pour i € {1 , n} (c) Ecrire toutes les racines carrées de A à Faide de la matrice P. Combien de racines carrées la matrice 4 admet-elle? (On discutera selon le signe des valeurs propres de A) (d) Application Ecrire dans M3(R) toutes les racines carrées de
+1l =5 ~5 =3 ~3
+A =
+Cas où A est la matrice nulle de Mn(R). On cherche dans ce cas à déterminer les racines carrées de la matrice nulle Soit R € Mn(R), une racine carrée de la matrice nulle. Soit f T'endomorphisme de R dont R est la matrice dans la base caronique de R" On note le rang de f
+{a) Montrer que Im(f) € Ker(f) et en déduire que T < ? (b) On suppose que f est non nul, donc r 2 1. Soit (e1, er) une base de Im(f) que lon complète avec er_l; en-r) pour former une base de Ker(f). Pour ; € {1, 1}, on note u; le vecteur tel que f (u;) = e;- Montrer que la famiile B = (e1, er-F,U1; ur) est une base de R"_ ii Ecrire la matrice de f dans la base B. On notera Mr cette matrice_ (c) Ecrire toutes les racines carrées dans Mn(R) de la matrice nulle à Faide de Mr et d'une matrice inversible P (d) Application Déterminer dans M4(R), les racines carrées de la matrice nulle. (On ne cherchera pes à calculer explicitement les coefcients de R )
+Cas où 4 = I la matrice unité de MnU (R). (a) Soit R une racine carrée de la matrice unité In Vérifer que R est une matrice inversible. Montrer que R est semblable à une matrice diagonale que Fon décrira. (b) Déterminer Rac(In)
+Cas où 4 est une mnatrice symétrique réelle_ Une matrice symétrique de Mn (R) admet-elle nécessairement une racine carrée?

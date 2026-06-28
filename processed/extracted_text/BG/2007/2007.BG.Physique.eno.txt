@@ -1,3 +1,85 @@
+--- page 1 ---
+Aatus Presarcrolro de, Civ[esWgoji0urs 82016{ Biblcihrqul
+REPUBLIQUE TUNISIENNE Ministère de ['Enseignement Supérieur; de la Recherche Scientifique et de la Technologie Concours nationaux dentréc aux cycles de formation d'ingenieurs Session 2007
+9689)4234331 8UkslgsWs Isss@Lu+~ls Jin Gibsi ellilini ixntidliuojalyji 2007 *9
+Concours en Biologie et Géologie Epreuve de Physique
+Date Jeudi 07 Juin 2007
+Heure : 8 H
+Durée : 3 H
+Nbre pages 04
+Barème : Problème 1 : 11 / 20
+Problème 2 : 09 / 20
+L'usage d'une calculatrice non programmable est autorisé. Lépreuve  comporte   deux   problèmes   indépendants. Le candidat   peut  les résoudre   dans Yordre qui lui convient; en respectant néanmoins la numérotation des questions. Problème 1
+I- DECHARGE D'UN CONDENSATEUR À TRAVERS UNE BOBINE Un condensateur de capacité C = 0,1 uF; initialement chargé sous une tension E = SV, est branché dans un circuit comportant une bobine dinductance L et de résistance interne r (Figure 1) A la date t = 0, on ferme linterrupteur K. K Wstitut PreparatoiRs _ L, r 3 CIBUOIHEQUE u(t) (ETudes _ C Diignieus Sx Figure 1
+1- Calculer la charge initiale du condensateur . 2- Etablir l'équation différentielle de la tension u(t) aux bornes du condensateur. 3- Montrer que cette équation peut se mettre sous la forme : d2u(t) 4 2a00 du(2+0,u(t) =0 . dt 2 dt On exprimera les coefficients a et @ en fonction de x, L et € 4- Quels sont les régimes possibles de la décharge du condensateur ? 5- Quel est le régime de la décharge du condensateur dans la bobine; compte tenu des valeurs des différents dipôles utilisés ? On donne L=0,1 H et r =40 2. Dans la suite de cette partie; on conservera ces valeurs de L et de r. 6- Montrer que u(t) s'écrit sous la forme : u(t) =E e-a@t cosot + %@sin @t J' où @ est un @ coefficient à exprimer en fonction de @ et @0 7 - Exprimer la pseudo-période des oscillations en fonction de @ et @ et calculer sa valeur.
+Concours en Biologie et Géologie Session Juin 2007
+Epreuve de Physique
+Page 1/4
 
+--- page 2 ---
+8 - Calculer le tenps u sou: Zuquel F azpliude des oscillations est divisée par 20. Comnenter le résul:at. I - REALISATIOY D'UYE RESISTAYCE YEGATIVE Or: considere = Jmpincaler operatonnel ( noié 40) supposé idéal. dont la tension 2e saturasion es: :o:ée 22 !V;ai > 0)) 14Oes: utilise dans le circuit dipolaire BM (Figure 2) R es: urz résistance 4 on Feur varier.
+R,
+B
+S
+U:
+Figure 2
+V
+Rp
+Us
+R
+M
+9 -
+R 9-1- Montrer que la tension V_ s' écrit scus la forme V = u R - R 9-2- Dans le cas où /AO fonctionne en régime linéaire; déterminer la relation liant u et ic 9-3- Le dipôle BM est alors appelé 4 résistance négative > Justifier cette appellation. 10- Déteriner la condition sur la tension u pour que le fonctionnement reste {inéaire. 11- En régime de saturation; déterminer %a relation liant ue et ic. 12- Représenter la caractéristique U = f(ic) du dipôle BM. On: prendra R, = ] k2 R = 500 Q e{ Vsai = 12 V.
+III - ENTRETIEY DES OSCILLATIOYS
+Le dirôle 3M est inséré dans le circvit de !a figure pour obter:: celui de la fgure ;
+R,
+B
+5
+R,
+Figure 3
+C
+u(t)
 
+M
+13- Reprcduire la tigure 3 sU FOtre copie en remplaçant le cicole BM car son dirôle équivalent détermine dans la question 9 14- Etablir léquation différentielle de la tension u(t) aux bornes du condensateur . 15- On augmente la valeur de la résistance R à partir de zéro_ 15-1-4 quelle condition les oscillations de u(t) sont-elles sinusoïdales ? 15-2- Déterminer, dans ce cas, la pulsation et la période des oscillations.
+Concours en Biologie et Géologie Session Juip 2007
+Epreuve de Physique
+Page 2/4
 
+--- page 3 ---
+Problème 2
+ ,
+Donnees numériques Pression de ! aosphère P = : rar
+Constante des gaz parfaits R = 8.3 ! J K mol7 Masse molaire du butane Mc.x; = 58 g mo]-' Chaleur latente massique de vaporisation de F'eau Lvap (373 K. 1 bar ) = 2.24 10' Jkg
+butane
+eall
+Ic (K)
+426
+647
+Tv sous 1 bar (K)
+273
+373
+Psa à 293 K (bar)
+1,1
+Pliq kg m
+585
+où Tc Iv et Ps 5a: sont respectivement la température critique. la tempéraiure de vaporisation et læ pression de vapeur saturante du corps pur considéré. Pic esi la rasse rolumique du corps pur à /état liquide, supposée indépendante de la température e: de % ?revsion.
+I- CHAVGEMEYT DE PHASE SOLIDE-LIQUIDE
+On considëre ! équilibre entre les deux phases liquide et solide d '22u Les variables détat soni la :encérature absoiue T. la pression P et ie volume massique 1 - Tracer Falisse du diagramme de cnase P =f(T) d un colps PG: curonque. Qcv représentent les courbes. ies dorcaines qu'elles déiimitent et les poinis renaju2r <5 2-1- Ecrire la différentielle de la fonction enthalpie libre massique g(T. P ) On notera 5 Tentropie massique. 2-2- Ecrire la condition déquilibre thermodynamique entre deux phases ( ! ) et (2) à pression et à température fixées. 2-3- Déduire que la relation de Clapevron relative à l'équilibre entre deux phases $'écrit dP Lw2 =T (v -v) dT )-2 Que représente LI: 2 Donner son unité. 3- On s intéresse à Fintluence de la pression sur l'équilibre solide-liquide de |'eau. 4 une température I, = 273 K sous la pression   Po la chaleur latente massicue de fusion vaut Las 233 10' J kg et les volumes massiques du liquide et iu solide valent 1,00 1o- m' 1,09 10 4 respectivement Y, = kg et Ys m kg 3-1- Calculer la pente relative à la courbe d'équilibre solide-liquide de ]eau au point (T,,P;) 3-2- En assimilant la courbe de fusion à une droite; évaluer la température de fusion de la glace; sous une pression de 1000 bars. Commenter.
+Concours en Biologie et Géologie Session Juin 2007
+Epreuve de Physique
+Page 3/4
+
+--- page 4 ---
+II - CHAFGEVENT DE PHASE LIQUIDE-VAPEUR
+On considere ! équilibre ertre les phases licuide ( Gafcu Jj c0* )ut. 022 FT. P .%) les coordonnces du Foz: crisique 4 Représenter. dans !e diagramme ( P.v) les isothermes d AnJrews d un cors pur. (n {cr: apparaitre les paliers de changement de phase. la courbe de rosee. la ccurbe d ébullion et le point critique. 5-1 - Exprimner. en fonction de L.a? €t T. les variations d enthalpie massique Jh et d entropie massique Js associées au changement de phase liquide vapeur. 5-2- 4 {a température de 375 K. calculer Ah et _s dans le cas de [eau. Le sicne de As est-il prévisible ? Justifier. 6- Déterminer 1'entropie massique créée lors de la vaporisation de Feau en contact avec un thermostat à la température 373 K sous une pression de 1 bar.
+III- APPLICATION STOCKAGE DES FLUIDES
+7 - Une boueille remplie de butane, assimilée à un cylindre de volume V = 2.5 10- mn renferme une masse m =5 kg 7-1- Déterminer la masse volumique Pvap du butane gazeux; consideré comme un gaz parfai:. {orsqu'il est porté à la température 293 K et sous la pression de vapeur saturante 7-2- En comparant les trois valeurs Pç Pvz et la masse volumique moyenne p du butanlc décuire la nature des phases présentes dans la bouteille Quelle est alors la pression du butene dans la bouteille 8 - Expliquer la présence d un détendeur dans les installations de butane.
+FIN DE L'EPRECVE
+
+1
+  ~   
+n:1 ^ ~:^
+Cénlnaie Seccion Inin 2007
+Epreuve de Physique
+Pege  4/4

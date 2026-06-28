@@ -1,38 +1,96 @@
 --- page 1 ---
-REPUBLIQUE TUNISIENNE Zsi usjl| Ministère de PEnseignement Qlji ki i)ljs Supérieur, de la Recherche Scientifique et de la (aaji Ba+| 9 Technologie. 443JJasaj1 9 Concours Nationaux d'Entrée aux Cycles Jssl ~ikjl 4 sbliji de Formation d'Ingénieurs Dhnki j8 Jal> S Session 2008 2008 6,3 Concours Physique Chimie Epreuve de Chimie Date Mardi 03 juin 2008 Heure 8h Durée 3h Nombre de pages :6
+REPUBLIQUE TUNISIENNE Zdiu)sali Ministère de /Enseignement Qull rsljl DJlis Supérieur, de la Recherche Scientifique et de la Uajajlesadi Technologie. 44?99isaj| Concours Nationaux d'Entréc aux Cycles Jsjl ubyi a jlij de Formation d'Ingénieurs àhuwi Wsj> > Scssion 2008 2008 9s Concours Physique Chimie Epreuve de Chimie Date Mardi 03 juin 2008 Heure 8 Durée 3h Nombre de pages :6
 PARTIE A CHIMIE INORGANIQUE
-Barème/20 Partie I : 2,5 pts Partie II 7,0 pts Partie III 3,5 pts Partie IV 4,5 pts Partie V 2,5 pts
+Barème/20 Partie 2,5 pts Partie II 7,0 pts Partie III 3,5 pts Partie IV 4,5 pts Partie V : 2,5 pts
 PARTIE B CHIMIE ORGANIQUE
-Barème/20 Exercice I ; 8,0 pts Exercice II 3,5 pts
-Problème 8,5 pts
+Barème/20 Exercice I ; 8,0 pts Exercice II 3,5 pts Problème 8,5 pts
 Cet énoncé comporte 6 pages de texte. Les parties A et B doivent être traitées sur deux copies séparées.
-Les candidats sont priés de présenter leurs réponses dans l'ordre de l'énoncé. L 'usage des calculatrices électroniques de poche non programmables est autorisé L'utilisation des téléphones portables en salle d'examen est strictement inteyfntest Aucun échange n'est autorisé entre les candidats: Pffara dps ` 2 (BIBLlêTar^ PARTIE A : CHIMIE INORGANIQUE 2 SGfnizuf' Le silicium; de symbole Si (doit son nom à Porigine latine silex) occupe la troisième plac Foxygène et lhydrogène) du point de vue abondance ses atomes forment 16,7 % du nombre total datomes constituant la croûte terrestre
-DONNÉES À 298 K
-Numéros atomiques du silicium Zsi = 14, du carbone Zc = 6 et du fluor ZF = 9 Rayons de covalence du silicium Rsi = 1,20 R et du carbone Rc = 0,80 A. Masse molaire atomique du carbone Mc = 12 g,mol-1 Constante des gaz parfaits R =8,32 JK-1 mol-1 Potentiels   redox standard (ou normaux) Couple redox HzOHHz(g) O(g)H2O Si0()SiO(s) SiO(s)/Si(s) E' (en volt) 0,00 +1,23 -0,97 -0,81 RT Ln(x)-0,06x10g10(x) Nombre d Avogadro NA = 6,023.1023 mol-' Température de fusion normale de laluminium T% fus = 632 K Lair est constitué_ de 80 % de diazote et 20 % en dioxygène (en moles) Tournez la page S.VP:
+Les candidats sont priés de présenter leurs réponses dans l'ordre de l'énoncé. L'usage des calculatrices électroniques de poche non programmables est autorisé L'utilisation des téléphones portables en salle d'examen est strictement interjntest Aucun échange n'est autorisé entre les candidats. 6ffaradpe  5 (BIBLOn : PARTIEA CHIMLE INORGANIQUE 2 Smof Le silicium; de symbole Si (doit son nom à lorigine latine silex), occupe la troisième placc Foxygène et l'hydrogène) du point de vue abondance ses atomes forment 16,7 % du nombre total d'atomes constituant la croûte terrestre_
+DONNEES A 298 K
+Numéros atomiques du silicium Zsi 14, du carbone Zc = 6 et du fluor ZF = 9 Rayons de covalence du silicium Rsi = 1,20 A et du carbone Rc = 0,80 a. Masse molaire atomique du carbone Mc 12 g mol- Constante des gaz parfaits R = 8,32 JK" mol Potentiels   redox standard (ou normaux) Couple redox HOlH2(g) O2(g)H2O SiO(s)/SiO(s) SiO(s) Si(s) E' (en volt) 0,00 +1,23 0,97 -0,81 RT Ln(x) 0,06*10810(x) Nombre d Avogadro NA 6,023.1023 mol-' Température de fusion normale de laluminium T% fus = 632 K Lair est constitué de 80 % de diazote et 20 % en dioxygène (en moles) Tournez la page S.V.P:
 Concours Physique chimie- Session Juin 2008
 Epreuve de Chimie
 Page 1/6
 
 --- page 2 ---
-Partie I : Atomistique et liaisons _chimiques : (2.5 pts)
-[-1) Ecrire la configuration   électronique de Fatome de silicium dans Pétat fondamental . I-2) Indiquer sa position  (colonne et période) dans le   tableau de classification périodique. 1-3) Le silicium existe à létat naturel sous les trois formes isotopiques 28Si 92,2 % (pourcentage molaire) 29Si 4,7 % et   3oSi : 3,1 %. Calculer la masse molaire atomique (à 0,01 g.mol-' près) de lélément silicium: 1-4) Préciser la formule de Lewis de chacune des espèces SiF4, SiFs et SiF62 - _ 1-5) Indiquer la géométrie spatiale de chaque espèce.
-Partie II : Etude_cristallographique du silicium et du carbure de silicium : (Z0 pts2
-Le silicium cristallise dans un réseau semblable à celui du carbone diamant.
-II-1) Donner la projection cotée de sa maille et son contenu sur le plan (001). II-2) Déterminer le paramètre a de la maille du silicium. II-3) Donner Pexpression puis calculer la compacité de cet empilement:. II-4) Etablir la relation donnant la masse volumique du silicium; puis calculer sa valeur numérique (on prendra Msi= = 28,1 gmol-') II-5) Exprimer les   rayons Rt et Ro   respectivement des sites   tétraédriques et octaédriques   présents dans la maille du silicium: Déterminer leurs valeurs numériques.
-II-6) Le silicium forme avec le carbone un composé covalent très dur appelé carbure de silicium de formule chimique SiC. Son réseau cristallin est identique à celui de la blende (ZnS) où le soufre est remplacé par le silicium et le zinc par le carbone: a) La liaison Si ~ C est covalente polarisée. Indiquer le sens de sa polarisation en le justifiant. b) Indiquer la coordinence du silicium et du carbone dans ce composé. En considérant les valeurs des rayons covalents figurant dans les données, déterminer le paramètre de la maille du carbure de silicium. d) En déduire la masse volumique de SiC.
-Partie IIL: Diagramme dEllingham : (3.5 pts) Loxyde de silicium SiO2 appelé silice se présente souS diverses formes allotropiques.
+Partie [ Atomistique et liaisons chimiques (25 pts)
+1-1) Ecrire la configuration   électronique de latome de silicium dans létat fondamental . 1-2) Indiquer sa position   (colonne et période)  dans  le tableau de   classification périodique. 1-3) Le silicium existe à létat naturel sous les trois formes isotopiques 28Si 92,2 % (pourcentage molaire) 29Si 4,7 % et   30Si 3,1 % Calculer la masse molaire atomique (à 0,01 g.mol-' près) de lélément silicium: 1-4) Préciser la formule de Lewis de chacune des espèces SiF4, SiFs et SiF62- _ 1-5) Indiquer la géométrie spatiale de chaque espèce.
+PartieL Etude cristallographique du silicium et du carbure de silicium (Z0 pts)
+Le silicium cristallise dans un réseau semblable à celui du carbone diamant. II-1) Donner la projection cotée de sa maille et son contenu sur le plan (001). II-2) Déterminer le paramètre a de la maille du silicium II-3) Donner lexpression puis calculer la compacité de cet empilement. II-4) Etablir la relation donnant la masse volumique du silicium; puis calculer sa valeur numérique (on prendra Msi 28,1 g.mol-') II-5) Exprimer les rayons Rt et Ro respectivement des sites tétraédriques et octaédriques   présents dans la maille du silicium Déterminer leurs valeurs numériques.
+II-6) Le silicium forme avec le carbone un composé covalent très dur appelé carbure de silicium de formule chimique SiC. Son réseau cristallin est identique à celui de la blende (ZnS) où le soufre est remplacé par le silicium et le zinc par le carbone: a) La liaison Si - C est covalente polarisée. Indiquer le sens de sa polarisation en le justifiant. b Indiquer la coordinence du silicium et du carbone dans ce composé. En considérant les valeurs des rayons covalents figurant dans les données; déterminer le paramètre de la maille du carbure de silicium. En déduire la masse volumique de SiC.
+Partie IIL Diagramme dEllingham (35 pts) Loxyde de silicium SiO2, appelé silice se présente souS diverses formes allotropiques.
 Concours Physique chimie- Session Juin 2008
 Epreuve de Chimie
 Page 2/6
 
 --- page 3 ---
-Dans lapproximation dEllingham; les enthalpies libres standard (en kJmol ') des réactions   doxydation relatives à une mole de  dioxygène sont   données par les relations suivantes Couple SiOz(s)Si(s) pour 298 K<T < 1500 K A,GP1 = - 910,9 + 0,182xT Couple AlzOs(s)/A{(s) pour 298 K<T<632 K : ArG?2 = 1115,5 + 0,209xT Couple AlzO,(s)A{(€) pour 632 K<T<1500 K : A,G%3 = 1130,0 + 0,232xT
-III-1) Rappeler en quoi consiste lapproximation dEllingham: Quelle est son utilité ? III-2) Déterminer la valeur   numérique de la   pression de   dioxygène minimale nécessaire pour que le silicium commence à s'oxyder à 300 K. III-3) Peut-on trouver le silicium sous sa forme réduite Si dans la nature ? Justifier. III-4) Déterminer le domaine de température où la réaction de réduction de la silice par 1aluminium est possible. III-5) Quel est   ]'effet dune élévation de la température sur cette réaction de réduction ? Justifier.
-Partie IV : Solubilité de a silice_amorphe_ dans Peau et_dans_les solutions aqueuses : (4,5 pts)
-Dans Veau pure; la solubilité  de la silice amorphe se caractérise  par léquilibre suivant SiO2 (s) + 2 HzO 2 H4SiO4 de constante déquilibre K' = 2. 10-3 à 298 K. L'acide orthomonosilicique H4SiO, se comporte comme un diacide de constantes dacidité pKap = 9,5 et pKaz ~ 12,6.
-IV-I) Ecrire les équations des réactions de dissociation de H4SiO4 dans 1eau. IV-2) Déterminer   les  domaines de prédominance   des   différentes espèces acido- basiques en fonction du pH IV-3) En déduire les réactions de dissolution de la silice amorphe dans les solutions aqueuses dans les différentes zones de pH définies ci-dessus. IV-4) Calculer le pH dune eau naturelle de concentration en acide orthomonosilicique égale à 15 mgL-1 en ne tenant compte que de la première acidité de H4SiO4. H4SiO4, H,SiO;  et HzSiOg 2 - IV-5) Calculer les concentrations des espèces H,O et HO  dans cette eau. IV-6) Justifier les approximations introduites dans le calcul du pH.
-Partie V : Diagramme potentiel _ pH : (25 pts
-On s'intéresse au diagramme potentiel = pH de lélément silicium à 298 K. Les espèces considérées sont Si(s), SiO(s) et SiO2(s) V-I) Préciser les nombres doxydation du silicium dans ces espèces. Tournez la page S.VP.
+Dans lapproximation dEllingham; les enthalpies libres standard (en kJ.mol') des réactions   doxydation relatives à une mole de   dioxygène sont données   par les relations suivantes Couple SiOz(s)Si(s) pour 298 K<T < 1500 K ArG%, = - 910,9 + 0,182xT Couple AlzO;(s)/Al(s) pour 298 K<T<632 K A,G%2 = _ 1115,5 + 0,209xT Couple AlzOs(s)A{ (€) pour 632 K<T< 1500 K A,GP; = - 1130,0 + 0,232xT
+III-1) Rappeler en quoi consiste lapproximation d'Ellingham: Quelle est son utilité ? III-2) Déterminer la valeur   numérique de la pression de   dioxygène minimale nécessaire pour que le silicium commence à s 'oxyder à 300 K. III-3) Peut-on trouver le silicium sous sa forme réduite Si dans la nature ? Justifier: III-4) Déterminer le domaine de température où la réaction de réduction de la silice par laluminium est possible. III-5)   Quel est Feffet dune élévation de la   température SUr cette réaction de réduction ? Justifier.
+Partie IV Solubilité_de_la_silice_amorphe_dans Peau_et_dans les solutions aqueuses (45 pts)
+Dans  1eau pure, la solubilité de la silice amorphe se caractérise  par léquilibre suivant SiO2 (s) 2 H2O 2 H4SiO4 de constante déquilibre K' = 2. 10-3 à 298 K. Lacide orthomonosilicique H4SiOa se comporte comme un diacide de constantes dacidité pKa, = 9,5 et pKaz = 12,6.
+IV-I) Ecrire les équations des réactions de dissociation de H4SiO4 dans /'eau. IV-2) Déterminer   les   domaines de prédominance   des différentes   espèces   acido- basiques en fonction du pH. IV-3) En déduire les réactions de dissolution de la silice amorphe dans les solutions aqueuses dans les différentes zones de pH définies ci-dessus. IV-4) Calculer le pH dune eau naturelle de concentration en acide orthomonosilicique égale à 15 mg.L' en ne tenant compte que de la première acidité de H4SiO4. IV-5) Calculer les concentrations des espèces HSiOa, H;SiOz et HzSiO, H,O' et HO- dans cette eau. IV-6) Justifier les approximations introduites dans le calcul du pH.
+Partie V Diagramme potentiel _ pH (25 pts2
+On s'intéresse au diagramme potentiel_ pH de lélément silicium à 298 K. Les espèces considérées sont Si(s) SiO(s) et SiO(s) V-I) Préciser les nombres doxydation du silicium dans ces espèces. Tournez la page S.VP.
 Concours Physique chimie- Session Juin 2008
 Epreuve de Chimie
 Page 3/6
+
+--- page 4 ---
+V-2) Ecrire les demi-équations redox et déduire les expressions E f (pH) pour les couples SiOz(s)/SiO(s) SiO(s)Si(s) et SiOz(s)/Si(s) V-3) En déduire si lespèce amphotère SiO(s) est stable ou non. Si non écrire la réaction possible spontanément. V-4) Ecrire les réactions doxydoréduction relatives aux couples de leau (On prendra Puz Poz = 1 bar). V-5) Discuter la stabilité du silicium en présence d'une solution aqueuse et aérée de pH 3. Ecrire les réactions doxydation du silicium possibles dans ces conditions. V-6) En pratique, le silicium ne réagit pas dans les conditions précitées. Quelle en est la raison ?
+FIN DE L'ÉNONCÉ DE CHIMIE INORGANIQUE.
+PARTIE B CHIMIE_ORGANIQUE
+Exercice I : (8 0 pts)
+I- En justifiant votre réponse à l'aide des effets électroniques
+a) désigner l'intermédiaire le plus stable pour chacun des couples suivants CH; a-1) HsC_C=CH-CHz et HJC_CH_CH-CHz a-3) H,C-ë~CH2 et Hc-ë-CH2 ~CH?
+a-2) HzC_CH-~CH=CH2 et HsC_C=CH -~CH3
+a-4
+et
+b) attribuer les valeurs de pKa 4,60 et 11,2 à ces deux acides.
+'NH; et
+NH3
+2 - Soit la base Ye
+Ye
+CH3
+CH2
+a) Dessiner toutes les formes limites de Ye. b) Déduire les centres nucléophiles de Ye et les repérer par un astérisque formule.
+sur sa
+Concours Physique chimie- Session Juin 2008
+Epreuve de Chimie
+Page 4/6
+
+--- page 5 ---
+Exercice II (35 pts)
+Un composé organique désigné par K de formule brute (C14H12) décolore rapidement une solution de Brz dans le CCl4. Par hydrogénation catalytique, dans les conditions normales de température et de pression; K n'absorbe qu'une seule molécule de H2. Son oxydation par KMnO4 en solution concentrée et à chaud donne, un seul composé Facide benzoïque CHs-COOH. 1 À partir de ces données; déduire la formule semi-développée de K. Quel type disomérie présente-t-il?
+Pour déterminer totalement sa structure, on soumet K aux réactions suivantes:
+K peracide LI + Lz  tous les deux de formule brute (C14H120)
+LI + Lz 1) NaOH M (composé unique achiral) 2) H,O
+KMnO4 HzO K O"C
+Np + Nz   (racémique)
+2 Déduire; à partir de ces données expérimentales; les structures spatiales de K, L1 et Lz 3 Détailler le mécanisme de létape (L1 + L2) ~ M. Expliquer pourquoi M est achiral. 4 _ Dessiner la projection de Fischer de M. 5 Donner la représentation de Cram de N1 et de Nz
+Problème (85 pts)
+Le (+)-1-terpinen-4-ol  désigné par A, est le nom usuel du composé   représenté ci-contre et qui se trouve dans l'huile essentielle de la noix de muscade. Holn  CH ~CH; En  détaillant   la classification des   substituants  du   centre HsC asymétrique de cette molécule; préciser sa configuration absolue (R ou S). 2 Donner le nom systématique complet de A Tournez la page S.VP.
+Concours Physique chimie- Session Juin 2008
+Epreuve de Chimie
+Page 5/6
+CH;
+
+--- page 6 ---
+3 Que signifie le terme dans le nom usuel de cette molécule? 4 Quel serait le nom complet de son énantiomère?
+On soumet A à la suite réactionnelle suivante:
+Hz Ni Raney B
+Hz SO4 concentré Chauffage
+(majoritaire)
+D
+5 Donner la structure de B et détailler le mécanisme de formation de C et D.
+Le composé D est soumis à son tour à une série de réactions:
+H3C
+HBr t~Buoe 1) O3 D E F (majoritaire) G I)NaQH peroxydes t-BuOH 2) HzO/Zn 2) H,O
+OH
+H
+Préciser les structures planes des composés E, F et G. -CHs HJC 7 Justifier   l'obtention de F en majorité. Quelle est la structure du produit minoritaire? Suggérer un réactif avec lequel ces proportions seraient inversées. 8 _ Comment se nomme la réaction aboutissant à H ? Détailler son mécanisme. 9 À côté du produit H il se forme un deuxième produit cyclique L. Donner sa structure ainsi que le mécanisme de sa formation. 10 Sans les dessiner, dire combien de stéréoisomères optiques peuvent correspondre à la structure de E. Parmi ces stéréoisomères, il existe un conformère que Ion désignera par E1 et qui possède lénergie la plus basse. 11 Donner une représentation spatiale de E1 à l'aide dun dessin en perspective.
+On donne Numéros atomiques: H (Z=1) , C (Z=6) , 0 (Z=8)
+FIN DE L'ÉNONCÉ DE CHIMIE ORGANIQUE.
+FIN DE L'ÉPREUVE.
+Concours Physique chimie- Session Juin 2008
+Epreuve de Chimie
+Page 6/6

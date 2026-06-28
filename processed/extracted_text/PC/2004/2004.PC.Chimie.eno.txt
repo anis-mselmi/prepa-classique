@@ -1,88 +1,88 @@
 --- page 1 ---
-REPUBLIQUE TUNISIENNE Ministère de /'Enseignement Supérieur et de la Recherche scientifique et de la Technologie
-Concours Nationaux dEntrée aux Cycles de Formation d'Ingénieurs Session: Juin 2004 5 ooeparatoe BibUOtHEQUE | Concours Physique et Chimie # 6 Yetudes 5 "Cungemeyss ^ Epreuve de Chimie
+REPUBLIQUE TUNISIENNE Ministère de 1'Enseignement Supérieur et de la Recherche scientifique et de la Technologie
+Concours Nationaux dEntrée aux Cycles de Formation d'Ingénieurs Session: Juin 2004
 fait
 iger ion,
+5 pREP RAATORE ) Bibuptkeqve Ketudes 5 "Cwncemieyss >
+Concours Physique et Chimie
 uer
 'est
+Epreuve de Chimie
 ent
 Date Mardi 8 Juin 2004
 Heure 8 H
 Durée 3 Heures Nbre pages 3
 ent
-Barème : / 20
-Partie A : 12 points
-Partie B: 8 points
+Barème /20
+Partie A 12 points
+Partie B : 8 points
 un
-Lusage dune calculatrice non programmable est autorisé. Tout autre document est interdit.
-Les candidats sont tenus de justifier  leurs réponses au moins en quelques   lignes.
-"pe
-Les parties A @tB doivent être traitéos_SUL doux_copios_séparées 
+Lusage d'une calculatrice non programmable est autorisé. Tout autre document est interdit.
+Les candidats sont tenus de justifier leurs  réponses au moins en quelques  lignes.
+dpe
+Les parties A atB_doivent_êtro traitéos_SUI_doux_copios_séparéos 
 PARTIEA
-PROBLÈME I
-A. On considère l'oxyde de manganèse MnO. Al) Préciser les différents type de structure dans lesquelles pourrait cristalliser ct oxyde. A2) Quelle est la structure réelle de MnO ? A3) Donner les coordonnées réduites des ions 02 - et Mn2+ A4) Calculer le paramètre de la maille en supposant la tangence anion-cation. A5) Déterminer la masse volumique de cet oxyde
-B. On considère à présent un autre oxyde de manganèse non stoechiométrique tel que le rapport (nombre datome  doxygène) (nombre datome de   manganèse)   soit  supérieur à 1. Cet oxyde cristallise dans la même structure que MnO et sa masse volumique est égale à p = 4,927 gcm-3. Le paramètre de la maille a été déterminé par diffraction d'un rayonnement Xde longueur d'onde 1 = 1,542 &. On trouve une réflexion du premier ordre sur les plans (002) pour un angle d'incidence 0= 20,32
-BI) Calculer le paramètre de la maille de ct oxyde. B.2) Quelle est la formule de cet oxyde 2 B.3) Quel est le pourcentage massique en manganèse ?
+PROBLÈME [
+A. On considère l'oxyde de manganèse MnO. Al) Préciser les différents type de structure dans lesquelles pourrait cristalliser cet oxyde A2) Quelle est la structure réelle de MnO ? A3) Donner les coordonnées réduites des ions 02- et Mn2+ A.4) Calculer le paramètre de la maille en supposant la tangence anion-cation. A5) Déterminer la masse volumique de cet oxyde
+B. On considère à présent un autre oxyde de manganèse non stoechiométique tel que le rapport (nombre datome d'oxygène)l(nombre datome de   manganèse) soit   supérieur 1. Cet oxyde cristallise dans la même structure que MnO et sa masse volumique est égale à p = 4,927 & cm-3 Le paramètre de la maille a été déterminé par diffraction d'un rayonnement X de longueur d'onde 1 = 1,542 &. On trouve une réflexion du premier ordre sur les plans (002) pour un angle d'incidence 0 = 20,32
+B1) Calculer le paramètre de la maille de ct oxyde. B.2) Quelle est la formule de cet oxyde ? B3) Quel est le pourcentage massique en manganèse ?
 Données:
-Masses molaires acomiques en g.2 mol-1 Mn = 54,9; 0 = 16 Nombre d 'avogadro: NA = 6,02. 1023. Les rayons ioniques sont: r(Mn2+) = 0,80 R ; n(02-) = 1,42 A.
-Concours de Physique et Chimie. Juin 2004. Epreuve de Chimie.
-page 1/3.
-ire,
+Masses molaires aiomiques en g mol-1 Mn = 54,9; 0 = 16 Nombre d'avogadro: NA = 6,02. 1023. Les rayons ioniques sont: r(Mn2+) = 0,80 B ; n02-) = 1,42 %.
+Concours de Physique et Chimie. Juin 2004. Epreuve de Chimie
+page 1/3
+ire;
 
 --- page 2 ---
-PROBLÈME II On considère les entités du silicium suivantes: SiO2(sd); Si(sd) et SiO (sd). 1) a) Etablir la relation qui pemmet de calculer le potentiel normal d'électrode du couple SiO' Sio à partir des potentiels normaux d électrode des couples SiO2 / Si et SiO / Si. b) Déterminer la valeur de ce potentiel normal d'électrode. c) a)Ecrire |'équation chimique de la réaction de dismutation de SiO (sd) . B) Montrer que cette réaction est possible spontanément quelque soit le pH 2) Donner les expressions des potentiels délectrode pour les couples rédox: a) SiO2(sd) / Si (sd); b) H2O / H2 (g) 3) a) Ecrire ]'éqcation chimique de la réaction mettant en jeu ces deux couples rédox. b) Le silicium est-il attaqué par |eau avec dégagement dhydrogène ?
-Données:
-Potentiels normaux délectrode : SiO (sd) Si (sd) = 0,80 V; SiO2 (sd) Si (sd) = 0,86 V 23 (RTF = 006 volt
-PROBLÈME I La figure ci-dessous représente une partie du diagramme d équilibre du système Gd2O,-S SiO2 Tfc A95o
+PROBLÈME II On considère les entités du silicium suivantes: SiO2(sd); Si(sd) et SiO (sd). I) a) Etablir la relation qui permet de calculer le potentiel normal délectrode du couple SiO' Sio partir des potentiels normaux d'électrode des couples SiO2 Si et SiO / Si. b) Déterminer la valeur de ce potentiel normal d'électrode c) a)Ecrire ]'équation chimique de la réaction de dismutation de SiO (sd) . B) Montrer que cette réaction est possible spontanément quelque soit le pH 2) Donner les expressions des potentels délectrode pour les couples rédox: a) SiO2(sd) Si (sd); b) H2O / H2 (g)
+a) Ecrire l'éqcation chimique de la réacton mettant en jeu ces deux couples rédox. b) Le silicium est-il attaqué par ['eau avec dégagement dhydrogène ? Données: Potentiels normaux délectrode SiO (sd) Si (sd) = - 0,80 V; SiOz (sd) Si (sd) = - 0,86 V 23 (RTF = 006 volt
+PROBLÈME IU La figure ci-dessous représente une partie du diagramme d équilibre du système Gd2O3-SiO2 Tl c 495o
 1800
+4
 3
-4650
+1650
 4 600
 4450
-Gd25 0,
+Gc20,
 40
 Mol.
-60 61 SiOz
-1) Préciser la formule chimique des composés définis que lon désignera par CI C2 et C3. 2) Indiquer les constituants et les phases dans les domaines 1; 2 ;3 et 4 3) On refroidit sous pression constante jusqu'à la température de 15OOPC, 100 g dun mélange liquide de Gd2O3-SiO2 dont la fraction molaire en SiO2 est égale à 0,6. a) Tracer /allure de la courbe de refroidissement. b Indiquer pour chaque branche de la courbe le phénomène observé. c) Calculer la masse de chacune des phases à 1800 C et à 160OPC.
+60 61 Si0z
+1) Préciser la formule chimique des composés définis que Pon désignera par CI C2 et C3. 2) Indiquer les constituants et les phases dans les domaines 1; 2 ; 3 et 4. 3) On refroidit sous pression constante jusqu'à la température de ISOOC, 100 g dun mélange liquide de Gd2O3-SiO2 dont la fraction molaire en SiO2 est égale à 0,6. a) Tracer lallure de la courbe de refroidissement b) Indiquer pour chaque branche de la courbe le phénomène observé. c) Calculer la masse de chacune des phases à 180O C et à 160OPC.
 Donnée:
-Masses molaires atomiques en g mol-1 Gd = 157; 0 = 16; Si = 28
-Fin partie A.
+Masses molaires atomiques en g.mol-1 Gd = 157; 0 = 16; Si = 28.
+Fin partie A
 Concours de Physique et Chimie. Juin 2004. Epreuve de Chimie
-page 2/3 .
+page 2/3.
 
 --- page 3 ---
 PARTIEB
-PROBLÈME [ On considère ]'halogénure d'alkyle Adont la formule semi-développée; représentée en perspective de Cram; est la sui vante:
+PROBLÈME_ On considère ]'halogénure d'alkyle dont la formule semi-développée; représentée en perspective de Cram, est la suivante:
 Sio
 CH3-CH2
 C6Hs
 A:
 H CH3
-CH3
-1) Donner en nomenclature systématique le nom du composé A 2) Déterminer la configuration absolue aux carbones asymétriques de A 3) Sachant que l'observation est effectuée à partir du point 0 9) Représenter; en projection de Newman le stéréoisomère 4 b) De quelle configuration Thréo ou Erythro s'agit-il ? c) Ecrire la conformation décalée correspondant 0 l'inverse optique de A L'action selon une réacton non stéréospécifique du cyanure de potassium sur 4 conduit à la formation des dérivés B (2S, 3S) et B. En tenant compte de l'aspect stéréochimique de cette réaction: a) Déterminer la formule de B et de B b) Détailler le mécanisme réactionnel mis en jeu c) En déduire la relation stéréochimique existant entre Bet B. PROBLÈME II A). On se propose d'effectuer à partir de lalcyne H la suite réactionnelle ci-dessous:
+1) Donner en nomenclature systématique le nom du composé 4 2) Déterminer la configuration absolue aux carbones asymétriques de A 3) Sachant que l'observation est effectuée à partir du point Q: a) Représenter; en projection de Newman le stéréoisomère 4 b) De quelle configuration Thréo ou Erythro s'agit-il c) Ecrire la conformation décalée correspondant à l'inverse optque de A L'action selon une réaction non stéréospécilique du cyanure de potassium sur A conduit à la formation des dérivés B (2S, 3S) et B En tenant compte de l'aspect stéréochimique de cette réaction: a) Déterminer la formule de B et de B b) Détailler le mécanisme réactionnel mis en jeu c) En déduire la relation stéréochimique existant entre Bet B. PROBLÈME II A). On se propose d'effectuer à partir de lalcyne H la suite réactionnelle ci-dessous:
 H:
-HzOI HgSO4 H2SO4 CH3 C CH
-1 - CH3MgBr 2- H3O+
-J
+HzOl HgSO4 H2SO4 CH
+1- CH3MgBr 2- H3O+
 H2SO4
+KI + K2
+CH3
+1-03 2-H2Ol Zn
 KI
-K2
-1-03 2 - H2Ol Zn
-KI
-L (C6H1oo)
+L (C6H1cO)
 CH3COCH3
-H2l Ni
+Hzl Ni
 K2
 M
-Sans tenir compte de ]'aspect stéréochimique: A1) Reconstituer la suite réactionnelle ci-dessus en identifiant la formule des composés L 1 KL K2 Let M A2) Développer le mécanisme réactionnel de ['étape J donne KI + K B) Le stéréoisomère L de configuration absolue (R) subit l'enchaînement réactionnel suivant:
-nnge
-1 - LiAlH4 2- H3Ot SOCI2
-N(IR, 2R) +
+Sans tenir compte de l'aspect stéréochimique: A1) Reconstituer la suite réactionnelle ci-dessus en identifiant la formule des composés L L KLKLetM A.2) Développer le mécanisme réactionnel de [étape J donne KI K B) Le stéréoisomère L de configuration absolue (R) subit /enchaînement réactionnel suivant:
+inge
+1-LiAlHA 2- H3O' SOCIz
+N(IR, 2R)
 N' (IS, 2R)
 N
 t-BuONa
 P (CeHio) (majoritaire)
-Entenant compte de Faspect stéréochimique: B.l) Identifier la fomule des composés N X; Qet Pen reconstituant la filiation réactionnelle ci-dessus. B.2) Expliciter le mécanisme réactionnel de l'étape Qdonne € Fin partie B.
-cie 4
-Concours de Physique et Chimie. Juin 2004. Epreuve de Chimie
-page 3/3
+Entenant compte de l'aspect stéréochimique: B.1) Identifier la fommule des composés N &, Qet Pen reconstituant la filiation réactionnelle ci-dessus. B.2) Expliciter le mécanisme réactionnel de l'étape Q donne € Fin partie B Concours de Physique et Chimie. Juin 2004. Epreuve de Chimie page 3/3.
+tie 4.
+CH3

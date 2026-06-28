@@ -43,8 +43,8 @@
  },
  {
   "filepath": "MP/2019/2019.MP.Maths.eno.pdf",
-  "chars": 3802,
-  "seconds": 73.9,
+  "chars": 5499,
+  "seconds": 40.1,
   "method": "easyocr",
   "ok": true
  },
@@ -64,8 +64,8 @@
  },
  {
   "filepath": "PC/2000/2000.PC.Maths.eno.pdf",
-  "chars": 2508,
-  "seconds": 48.5,
+  "chars": 3268,
+  "seconds": 34.6,
   "method": "easyocr",
   "ok": true
  },
@@ -78,36 +78,36 @@
  },
  {
   "filepath": "PC/2004/2004.PC.Chimie.eno.pdf",
-  "chars": 4522,
-  "seconds": 55.7,
+  "chars": 4509,
+  "seconds": 31.1,
   "method": "easyocr",
   "ok": true
  },
  {
   "filepath": "PC/2007/2007.PC.Maths.eno.pdf",
-  "chars": 3352,
-  "seconds": 52.6,
+  "chars": 4309,
+  "seconds": 191.4,
   "method": "easyocr",
   "ok": true
  },
  {
   "filepath": "PC/2006/2006.PC.Physique.eno.pdf",
-  "chars": 5445,
-  "seconds": 58.5,
+  "chars": 10533,
+  "seconds": 62.1,
   "method": "easyocr",
   "ok": true
  },
  {
   "filepath": "PC/2008/2008.PC.Chimie.eno.pdf",
-  "chars": 5300,
-  "seconds": 57.4,
+  "chars": 8651,
+  "seconds": 232.2,
   "method": "easyocr",
   "ok": true
  },
  {
   "filepath": "PC/2015/2015.PC.Maths.eno.pdf",
-  "chars": 4024,
-  "seconds": 54.9,
+  "chars": 4958,
+  "seconds": 37.2,
   "method": "easyocr",
   "ok": true
  },
@@ -190,8 +190,8 @@
  },
  {
   "filepath": "T/2001/2001.T.Maths.eno.pdf",
-  "chars": 2387,
-  "seconds": 49.0,
+  "chars": 3017,
+  "seconds": 35.6,
   "method": "easyocr",
   "ok": true
  },
@@ -204,15 +204,15 @@
  },
  {
   "filepath": "T/2000/2000.T.Chimie.eno.pdf",
-  "chars": 3276,
-  "seconds": 39.2,
+  "chars": 3250,
+  "seconds": 22.6,
   "method": "easyocr",
   "ok": true
  },
  {
   "filepath": "T/2006/2006.T.Maths.eno.pdf",
-  "chars": 3421,
-  "seconds": 56.8,
+  "chars": 4242,
+  "seconds": 43.0,
   "method": "easyocr",
   "ok": true
  },
@@ -225,15 +225,15 @@
  },
  {
   "filepath": "T/2006/2006.T.Chimie.eno.pdf",
-  "chars": 4345,
-  "seconds": 59.8,
+  "chars": 5965,
+  "seconds": 48.8,
   "method": "easyocr",
   "ok": true
  },
  {
   "filepath": "T/2015/2015.T.Maths.eno.pdf",
-  "chars": 4006,
-  "seconds": 57.1,
+  "chars": 4902,
+  "seconds": 40.1,
   "method": "easyocr",
   "ok": true
  },
@@ -246,8 +246,2521 @@
  },
  {
   "filepath": "T/2013/2013.T.Chimie.eno.pdf",
-  "chars": 3273,
-  "seconds": 51.6,
+  "chars": 6077,
+  "seconds": 70.6,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "BG/2023/Anglais.ép.pdf",
+  "chars": 14037,
+  "seconds": 86.7,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "BG/2023/Biochimie.ép.pdf",
+  "chars": 7063,
+  "seconds": 103.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "BG/2023/Biologie végétale.ép.pdf",
+  "chars": 7353,
+  "seconds": 65.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "BG/2023/Français.pdf",
+  "chars": 10316,
+  "seconds": 59.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "BG/2023/Géologie.ép.pdf",
+  "chars": 6733,
+  "seconds": 56.5,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "BG/2023/Mathématiques.ép.pdf",
+  "chars": 5208,
+  "seconds": 36.5,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2015/2015.MP.STA.eno.pdf",
+  "chars": 28074,
+  "seconds": 272.8,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2016/2016.MP.Anglais.eno.pdf",
+  "chars": 9496,
+  "seconds": 43.5,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2016/2016.MP.Francais.eno.pdf",
+  "chars": 5226,
+  "seconds": 24.7,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2016/2016.MP.Informatique.eno.pdf",
+  "chars": 7806,
+  "seconds": 50.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2016/2016.MP.Maths I.eno.pdf",
+  "chars": 5021,
+  "seconds": 42.6,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2016/2016.MP.Maths II.eno.pdf",
+  "chars": 4303,
+  "seconds": 36.1,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2016/2016.MP.Physique.eno.pdf",
+  "chars": 13101,
+  "seconds": 79.6,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2016/2016.MP.STA.eno.pdf",
+  "chars": 13525,
+  "seconds": 118.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2017/2017.MP.Anglais.eno.pdf",
+  "chars": 11432,
+  "seconds": 77.8,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2017/2017.MP.Chimie.eno.pdf",
+  "chars": 7252,
+  "seconds": 96.1,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2017/2017.MP.Francais.eno.pdf",
+  "chars": 5826,
+  "seconds": 27.4,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2017/2017.MP.Informatique.eno.pdf",
+  "chars": 7280,
+  "seconds": 49.7,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2017/2017.MP.Maths I.eno.pdf",
+  "chars": 5651,
+  "seconds": 40.2,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2017/2017.MP.Maths II.eno.pdf",
+  "chars": 5122,
+  "seconds": 38.4,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2017/2017.MP.Physique.eno.pdf",
+  "chars": 13339,
+  "seconds": 84.2,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2017/2017.MP.STA.eno.pdf",
+  "chars": 18837,
+  "seconds": 147.5,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2018/2018.MP.Anglais.eno.pdf",
+  "chars": 8259,
+  "seconds": 44.2,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2018/2018.MP.Francais.eno.pdf",
+  "chars": 5303,
+  "seconds": 25.8,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2018/2018.MP.Informatique.eno.pdf",
+  "chars": 9794,
+  "seconds": 61.1,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2018/2018.MP.Maths I.eno.pdf",
+  "chars": 5136,
+  "seconds": 39.0,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2018/2018.MP.Maths II.eno.pdf",
+  "chars": 6187,
+  "seconds": 40.8,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2018/2018.MP.STA.eno.pdf",
+  "chars": 15869,
+  "seconds": 145.8,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2019/2019.MP.Anglais.eno.pdf",
+  "chars": 11432,
+  "seconds": 77.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2019/2019.MP.Chimie.eno.pdf",
+  "chars": 9920,
+  "seconds": 91.5,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2019/2019.MP.Francais.eno.pdf",
+  "chars": 5428,
+  "seconds": 26.0,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2019/2019.MP.Informatique.eno.pdf",
+  "chars": 20836,
+  "seconds": 112.8,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2019/2019.MP.Maths I.eno.pdf",
+  "chars": 4566,
+  "seconds": 38.5,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2019/2019.MP.Maths II.eno.pdf",
+  "chars": 6940,
+  "seconds": 42.5,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2019/2019.MP.Physique.eno.pdf",
+  "chars": 14654,
+  "seconds": 90.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2019/2019.MP.STA.eno.pdf",
+  "chars": 28906,
+  "seconds": 284.8,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2020/2020.MP.Anglais.eno.pdf",
+  "chars": 10118,
+  "seconds": 50.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2020/2020.MP.Chimie.eno.pdf",
+  "chars": 9641,
+  "seconds": 103.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2020/2020.MP.Francais.eno.pdf",
+  "chars": 5208,
+  "seconds": 26.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2020/2020.MP.Informatique.eno.pdf",
+  "chars": 16911,
+  "seconds": 98.1,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2020/2020.MP.Maths I.eno.pdf",
+  "chars": 4686,
+  "seconds": 44.1,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2020/2020.MP.Maths II.eno.pdf",
+  "chars": 5504,
+  "seconds": 39.8,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2020/2020.MP.Physique.eno.pdf",
+  "chars": 15873,
+  "seconds": 89.5,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2020/2020.MP.STA.eno.pdf",
+  "chars": 29430,
+  "seconds": 305.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2021/2021.MP.Anglais.eno.pdf",
+  "chars": 13425,
+  "seconds": 79.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2021/2021.MP.Chimie.eno.pdf",
+  "chars": 8311,
+  "seconds": 90.2,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2021/2021.MP.Francais.eno.pdf",
+  "chars": 5383,
+  "seconds": 25.0,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2021/2021.MP.Informatique.eno.pdf",
+  "chars": 19616,
+  "seconds": 101.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2021/2021.MP.Maths I.eno.pdf",
+  "chars": 5576,
+  "seconds": 44.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2021/2021.MP.Maths II.eno.pdf",
+  "chars": 6116,
+  "seconds": 39.5,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2021/2021.MP.Physique.eno.pdf",
+  "chars": 16774,
+  "seconds": 98.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2021/2021.MP.STA.eno.pdf",
+  "chars": 23485,
+  "seconds": 235.2,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2022/2022.MP.Anglais.pdf",
+  "chars": 18737,
+  "seconds": 114.5,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2022/2022.MP.Francais.pdf",
+  "chars": 10092,
+  "seconds": 52.6,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2022/2022.MP.Math I.pdf",
+  "chars": 15161,
+  "seconds": 115.8,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2022/2022.MP.Math II.pdf",
+  "chars": 17855,
+  "seconds": 142.2,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2023/Anglais.pdf",
+  "chars": 14037,
+  "seconds": 88.2,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2023/Français.pdf",
+  "chars": 10316,
+  "seconds": 63.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2023/Informatique.ép.pdf",
+  "chars": 19119,
+  "seconds": 183.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2023/Mathématiques I.pdf",
+  "chars": 16571,
+  "seconds": 142.2,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2023/Mathématiques II.pdf",
+  "chars": 22283,
+  "seconds": 162.5,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2023/Physique.pdf",
+  "chars": 7007,
+  "seconds": 43.2,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2023/STA.ép.pdf",
+  "chars": 26815,
+  "seconds": 233.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2025/2025.MP.Anglais.pdf",
+  "chars": 22354,
+  "seconds": 133.5,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "MP/2025/2025.MP.Math II.pdf",
+  "chars": 23035,
+  "seconds": 153.1,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2000/2000.PC.Anglais.eno.pdf",
+  "chars": 10374,
+  "seconds": 72.8,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2000/2000.PC.Chimie.eno.pdf",
+  "chars": 3906,
+  "seconds": 39.5,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2000/2000.PC.Francais.eno.pdf",
+  "chars": 5984,
+  "seconds": 33.6,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2000/2000.PC.Physique.eno.pdf",
+  "chars": 15197,
+  "seconds": 90.5,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2000/2000.PC.STA.eno.pdf",
+  "chars": 5632,
+  "seconds": 57.4,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2001/2001.PC.Anglais.eno.pdf",
+  "chars": 8038,
+  "seconds": 67.4,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2001/2001.PC.Francais.eno.pdf",
+  "chars": 4844,
+  "seconds": 30.1,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2001/2001.PC.Maths.eno.pdf",
+  "chars": 3972,
+  "seconds": 40.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2001/2001.PC.Physique.eno.pdf",
+  "chars": 12523,
+  "seconds": 78.5,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2001/2001.PC.STA.eno.pdf",
+  "chars": 8242,
+  "seconds": 75.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2002/2002.PC.Anglais.eno.pdf",
+  "chars": 8421,
+  "seconds": 71.4,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2002/2002.PC.Chimie.eno.pdf",
+  "chars": 5902,
+  "seconds": 39.6,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2002/2002.PC.Francais.eno.pdf",
+  "chars": 4542,
+  "seconds": 30.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2002/2002.PC.Maths.eno.pdf",
+  "chars": 4022,
+  "seconds": 36.1,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2002/2002.PC.Physique.eno.pdf",
+  "chars": 13026,
+  "seconds": 83.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2002/2002.PC.STA.eno.pdf",
+  "chars": 8856,
+  "seconds": 78.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2003/2003.PC.Anglais.eno.pdf",
+  "chars": 8331,
+  "seconds": 69.0,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2003/2003.PC.Chimie.eno.pdf",
+  "chars": 6196,
+  "seconds": 46.2,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2003/2003.PC.Francais.eno.pdf",
+  "chars": 4564,
+  "seconds": 30.0,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2003/2003.PC.Maths.eno.pdf",
+  "chars": 4352,
+  "seconds": 38.4,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2003/2003.PC.Physique.eno.pdf",
+  "chars": 14588,
+  "seconds": 87.0,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2003/2003.PC.STA.eno.pdf",
+  "chars": 14143,
+  "seconds": 105.0,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2004/2004.PC.Anglais.eno.pdf",
+  "chars": 10460,
+  "seconds": 51.8,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2004/2004.PC.Francais.eno.pdf",
+  "chars": 4820,
+  "seconds": 31.8,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2004/2004.PC.Maths.eno.pdf",
+  "chars": 3766,
+  "seconds": 42.4,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2004/2004.PC.Physique.eno.pdf",
+  "chars": 12141,
+  "seconds": 76.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2004/2004.PC.STA.eno.pdf",
+  "chars": 15540,
+  "seconds": 128.6,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2005/2005.PC.Anglais.eno.pdf",
+  "chars": 9567,
+  "seconds": 71.7,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2005/2005.PC.Chimie.eno.pdf",
+  "chars": 4584,
+  "seconds": 35.7,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2005/2005.PC.Francais.eno.pdf",
+  "chars": 5870,
+  "seconds": 33.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2005/2005.PC.Informatique.eno.pdf",
+  "chars": 6132,
+  "seconds": 40.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2005/2005.PC.Maths.eno.pdf",
+  "chars": 4834,
+  "seconds": 42.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2005/2005.PC.Physique.eno.pdf",
+  "chars": 13602,
+  "seconds": 100.7,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2005/2005.PC.STA.eno.pdf",
+  "chars": 14097,
+  "seconds": 106.6,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2006/2006.PC.Anglais.eno.pdf",
+  "chars": 9880,
+  "seconds": 50.0,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2006/2006.PC.Chimie.eno.pdf",
+  "chars": 9146,
+  "seconds": 71.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2006/2006.PC.Francais.eno.pdf",
+  "chars": 6098,
+  "seconds": 33.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2006/2006.PC.Informatique.eno.pdf",
+  "chars": 12689,
+  "seconds": 70.5,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2006/2006.PC.Maths.eno.pdf",
+  "chars": 4982,
+  "seconds": 45.2,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2006/2006.PC.STA.eno.pdf",
+  "chars": 16495,
+  "seconds": 125.7,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2007/2007.PC.Anglais.eno.pdf",
+  "chars": 12404,
+  "seconds": 81.1,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2007/2007.PC.Chimie.eno.pdf",
+  "chars": 8602,
+  "seconds": 69.6,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2007/2007.PC.Francais.eno.pdf",
+  "chars": 4755,
+  "seconds": 46.7,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2007/2007.PC.Informatique.eno.pdf",
+  "chars": 9276,
+  "seconds": 127.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2007/2007.PC.Physique.eno.pdf",
+  "chars": 10704,
+  "seconds": 177.6,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2007/2007.PC.STA.eno.pdf",
+  "chars": 15050,
+  "seconds": 422.0,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2008/2008.PC.Anglais.eno.pdf",
+  "chars": 11667,
+  "seconds": 328.8,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2008/2008.PC.Francais.eno.pdf",
+  "chars": 8815,
+  "seconds": 186.0,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2008/2008.PC.Informatique.eno.pdf",
+  "chars": 9296,
+  "seconds": 217.0,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2008/2008.PC.Maths.eno.pdf",
+  "chars": 4400,
+  "seconds": 129.8,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2008/2008.PC.Physique.eno.pdf",
+  "chars": 12457,
+  "seconds": 268.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2008/2008.PC.STA.eno.pdf",
+  "chars": 18192,
+  "seconds": 492.2,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2009/2009.PC.Anglais.eno.pdf",
+  "chars": 11991,
+  "seconds": 276.6,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2009/2009.PC.Chimie.eno.pdf",
+  "chars": 8506,
+  "seconds": 216.1,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2009/2009.PC.Francais.eno.pdf",
+  "chars": 4785,
+  "seconds": 105.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2009/2009.PC.Informatique.eno.pdf",
+  "chars": 6445,
+  "seconds": 167.5,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2009/2009.PC.Maths.eno.pdf",
+  "chars": 3634,
+  "seconds": 122.0,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2009/2009.PC.Physique.eno.pdf",
+  "chars": 12125,
+  "seconds": 266.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2009/2009.PC.STA.eno.pdf",
+  "chars": 14178,
+  "seconds": 387.2,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2010/2010.PC.Anglais.eno.pdf",
+  "chars": 11609,
+  "seconds": 285.7,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2010/2010.PC.Chimie.eno.pdf",
+  "chars": 8649,
+  "seconds": 273.2,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2010/2010.PC.Francais.eno.pdf",
+  "chars": 4619,
+  "seconds": 104.5,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2010/2010.PC.Informatique.eno.pdf",
+  "chars": 6260,
+  "seconds": 146.1,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2010/2010.PC.Maths.eno.pdf",
+  "chars": 5580,
+  "seconds": 164.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2010/2010.PC.Physique.eno.pdf",
+  "chars": 13141,
+  "seconds": 300.6,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2010/2010.PC.STA.eno.pdf",
+  "chars": 8255,
+  "seconds": 245.1,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2011/2011.PC.Anglais.eno.pdf",
+  "chars": 11386,
+  "seconds": 275.6,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2011/2011.PC.Francais.eno.pdf",
+  "chars": 4721,
+  "seconds": 91.2,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2011/2011.PC.Informatique.eno.pdf",
+  "chars": 6975,
+  "seconds": 158.8,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2011/2011.PC.Maths.eno.pdf",
+  "chars": 4899,
+  "seconds": 138.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2011/2011.PC.Physique.eno.pdf",
+  "chars": 11327,
+  "seconds": 282.4,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2011/2011.PC.STA.eno.pdf",
+  "chars": 10337,
+  "seconds": 299.1,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2012/2012.PC.Anglais.eno.pdf",
+  "chars": 10224,
+  "seconds": 189.2,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2012/2012.PC.Chimie.eno.pdf",
+  "chars": 11101,
+  "seconds": 770.6,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2012/2012.PC.Francais.eno.pdf",
+  "chars": 5172,
+  "seconds": 142.2,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2012/2012.PC.Informatique.eno.pdf",
+  "chars": 7611,
+  "seconds": 360.0,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2012/2012.PC.Maths.eno.pdf",
+  "chars": 5556,
+  "seconds": 282.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2012/2012.PC.Physique.eno.pdf",
+  "chars": 12623,
+  "seconds": 462.2,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2012/2012.PC.STA.eno.pdf",
+  "chars": 14329,
+  "seconds": 679.0,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2013/2013.PC.Anglais.eno.pdf",
+  "chars": 9284,
+  "seconds": 288.2,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2013/2013.PC.Chimie.eno.pdf",
+  "chars": 5655,
+  "seconds": 507.1,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2013/2013.PC.Francais.eno.pdf",
+  "chars": 5141,
+  "seconds": 151.1,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2013/2013.PC.Informatique.eno.pdf",
+  "chars": 8539,
+  "seconds": 282.7,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2013/2013.PC.Math.eno.pdf",
+  "chars": 5742,
+  "seconds": 288.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2013/2013.PC.Physique.eno.pdf",
+  "chars": 14768,
+  "seconds": 458.6,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2013/2013.PC.STA.eno.pdf",
+  "chars": 17359,
+  "seconds": 590.4,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2014/2014.PC.Anglais.eno.pdf",
+  "chars": 8808,
+  "seconds": 171.0,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2014/2014.PC.Francais.eno.pdf",
+  "chars": 5207,
+  "seconds": 97.7,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2014/2014.PC.Informatique.eno.pdf",
+  "chars": 8467,
+  "seconds": 221.5,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2014/2014.PC.Maths.eno.pdf",
+  "chars": 5497,
+  "seconds": 170.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2014/2014.PC.Physique.eno.pdf",
+  "chars": 13911,
+  "seconds": 140.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2014/2014.PC.STA.eno.pdf",
+  "chars": 11203,
+  "seconds": 85.8,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2015/2015.PC.Anglais.eno.pdf",
+  "chars": 11183,
+  "seconds": 77.0,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2015/2015.PC.Chimie.eno.pdf",
+  "chars": 11039,
+  "seconds": 141.6,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2015/2015.PC.Francais.eno.pdf",
+  "chars": 4830,
+  "seconds": 25.8,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2015/2015.PC.Informatique.eno.pdf",
+  "chars": 7002,
+  "seconds": 50.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2015/2015.PC.Physique.eno.pdf",
+  "chars": 12321,
+  "seconds": 79.6,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2015/2015.PC.STA.eno.pdf",
+  "chars": 28074,
+  "seconds": 282.7,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2016/2016.PC.Anglais.eno.pdf",
+  "chars": 9496,
+  "seconds": 44.4,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2016/2016.PC.Francais.eno.pdf",
+  "chars": 5226,
+  "seconds": 25.0,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2016/2016.PC.Informatique.eno.pdf",
+  "chars": 9415,
+  "seconds": 58.6,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2016/2016.PC.Maths.eno.pdf",
+  "chars": 5007,
+  "seconds": 35.4,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2016/2016.PC.Physique.eno.PDF",
+  "chars": 12309,
+  "seconds": 73.0,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2016/2016.PC.STA.eno.pdf",
+  "chars": 13525,
+  "seconds": 120.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2017/2017.PC.Anglais.eno.pdf",
+  "chars": 11432,
+  "seconds": 79.2,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2017/2017.PC.Chimie.eno.pdf",
+  "chars": 11734,
+  "seconds": 175.6,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2017/2017.PC.Francais.eno.pdf",
+  "chars": 5826,
+  "seconds": 27.7,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2017/2017.PC.Informatique.eno.pdf",
+  "chars": 7280,
+  "seconds": 50.8,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2017/2017.PC.Maths.eno.pdf",
+  "chars": 6403,
+  "seconds": 43.7,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2017/2017.PC.Physique.eno.pdf",
+  "chars": 12641,
+  "seconds": 77.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2017/2017.PC.STA.eno.pdf",
+  "chars": 18837,
+  "seconds": 151.8,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2018/2018.PC.Anglais.eno.pdf",
+  "chars": 8259,
+  "seconds": 46.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2018/2018.PC.Chimie.eno.pdf",
+  "chars": 4978,
+  "seconds": 107.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2018/2018.PC.Francais.eno.pdf",
+  "chars": 5303,
+  "seconds": 99.5,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2018/2018.PC.Informatique.eno.pdf",
+  "chars": 9794,
+  "seconds": 124.6,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2018/2018.PC.Maths.eno.pdf",
+  "chars": 6211,
+  "seconds": 94.7,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2018/2018.PC.STA.eno.pdf",
+  "chars": 15869,
+  "seconds": 521.2,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2019/2019.PC.Anglais.eno.pdf",
+  "chars": 11432,
+  "seconds": 286.7,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2019/2019.PC.Chimie.eno.pdf",
+  "chars": 12622,
+  "seconds": 564.5,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2019/2019.PC.Francais.eno.pdf",
+  "chars": 5428,
+  "seconds": 96.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2019/2019.PC.Informatique.eno.pdf",
+  "chars": 20836,
+  "seconds": 417.6,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2019/2019.PC.Physique.eno.pdf",
+  "chars": 16763,
+  "seconds": 338.1,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2019/2019.PC.STA.eno.pdf",
+  "chars": 28906,
+  "seconds": 1010.1,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2020/2020.PC.Anglais.eno.pdf",
+  "chars": 10118,
+  "seconds": 203.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2020/2020.PC.Chimie.eno.pdf",
+  "chars": 12168,
+  "seconds": 1105.1,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2020/2020.PC.Francais.eno.pdf",
+  "chars": 5208,
+  "seconds": 117.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2020/2020.PC.Informatique.eno.pdf",
+  "chars": 16911,
+  "seconds": 119.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2020/2020.PC.Physique.eno.pdf",
+  "chars": 15426,
+  "seconds": 107.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2020/2020.PC.STA.eno.pdf",
+  "chars": 29430,
+  "seconds": 571.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2021/2021.PC.Anglais.eno.pdf",
+  "chars": 13425,
+  "seconds": 159.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2021/2021.PC.Chimie.eno.pdf",
+  "chars": 14920,
+  "seconds": 321.6,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2021/2021.PC.Francais.eno.pdf",
+  "chars": 5383,
+  "seconds": 52.4,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2021/2021.PC.Informatique.eno.pdf",
+  "chars": 19616,
+  "seconds": 208.4,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2021/2021.PC.Maths.eno.pdf",
+  "chars": 6197,
+  "seconds": 91.2,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2021/2021.PC.Physique.eno.pdf",
+  "chars": 21312,
+  "seconds": 204.7,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2021/2021.PC.STA.eno.pdf",
+  "chars": 23485,
+  "seconds": 441.8,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2022/2022.PC.Anglais.pdf",
+  "chars": 18737,
+  "seconds": 220.2,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2022/2022.PC.Francais.pdf",
+  "chars": 10092,
+  "seconds": 48.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2022/2022.PC.Math.pdf",
+  "chars": 19853,
+  "seconds": 161.2,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2023/Anglais.ép.pdf",
+  "chars": 14037,
+  "seconds": 87.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2023/Chimie organique.pdf",
+  "chars": 14044,
+  "seconds": 190.1,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2023/Français.pdf",
+  "chars": 10316,
+  "seconds": 64.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2023/Informatique.ép.pdf",
+  "chars": 19119,
+  "seconds": 191.7,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2023/Mathématiques.pdf",
+  "chars": 25667,
+  "seconds": 225.4,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2023/STA.ép.pdf",
+  "chars": 26815,
+  "seconds": 253.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "PC/2025/2025.PC.Anglais.pdf",
+  "chars": 22354,
+  "seconds": 145.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2000/2000.T.Anglais.eno.pdf",
+  "chars": 10374,
+  "seconds": 79.6,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2000/2000.T.Francais.eno.pdf",
+  "chars": 5984,
+  "seconds": 36.7,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2000/2000.T.Maths.eno.pdf",
+  "chars": 4226,
+  "seconds": 47.2,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2000/2000.T.Physique.eno.pdf",
+  "chars": 8587,
+  "seconds": 72.7,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2000/2000.T.STA.eno.pdf",
+  "chars": 13786,
+  "seconds": 147.4,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2001/2001.T.Anglais.eno.pdf",
+  "chars": 8038,
+  "seconds": 74.2,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2001/2001.T.Chimie.eno.pdf",
+  "chars": 4344,
+  "seconds": 31.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2001/2001.T.Francais.eno.pdf",
+  "chars": 4850,
+  "seconds": 33.0,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2001/2001.T.Physique.eno.pdf",
+  "chars": 10588,
+  "seconds": 68.7,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2001/2001.T.STA.eno.pdf",
+  "chars": 26981,
+  "seconds": 266.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2002/2002.T.Anglais.eno.pdf",
+  "chars": 8421,
+  "seconds": 79.2,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2002/2002.T.Chimie.eno.pdf",
+  "chars": 3967,
+  "seconds": 32.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2002/2002.T.Maths.eno.pdf",
+  "chars": 3695,
+  "seconds": 39.8,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2002/2002.T.Physique.eno.pdf",
+  "chars": 10656,
+  "seconds": 73.7,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2002/2002.T.STA.eno.pdf",
+  "chars": 247,
+  "seconds": 15.7,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2003/2003.T.Anglais.eno.pdf",
+  "chars": 8331,
+  "seconds": 77.6,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2003/2003.T.Chimie.eno.pdf",
+  "chars": 4727,
+  "seconds": 33.6,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2003/2003.T.Francais.eno.pdf",
+  "chars": 4552,
+  "seconds": 33.2,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2003/2003.T.Maths.eno.pdf",
+  "chars": 3157,
+  "seconds": 37.4,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2003/2003.T.Physique.eno.pdf",
+  "chars": 11288,
+  "seconds": 75.6,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2003/2003.T.STA.eno.pdf",
+  "chars": 15924,
+  "seconds": 158.8,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2004/2004.T.Anglais.eno.pdf",
+  "chars": 10306,
+  "seconds": 57.7,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2004/2004.T.Chimie.eno.pdf",
+  "chars": 4178,
+  "seconds": 32.8,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2004/2004.T.Francais.eno.pdf",
+  "chars": 4809,
+  "seconds": 35.5,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2004/2004.T.Maths.eno.pdf",
+  "chars": 3160,
+  "seconds": 39.5,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2004/2004.T.Physique.eno.pdf",
+  "chars": 13068,
+  "seconds": 88.2,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2004/2004.T.STA.eno.pdf",
+  "chars": 22280,
+  "seconds": 213.4,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2005/2005.T.Anglais.eno.pdf",
+  "chars": 9567,
+  "seconds": 79.5,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2005/2005.T.Chimie.eno.pdf",
+  "chars": 4610,
+  "seconds": 38.7,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2005/2005.T.Francais.eno.pdf",
+  "chars": 5831,
+  "seconds": 36.6,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2005/2005.T.Informatique.eno.pdf",
+  "chars": 6088,
+  "seconds": 44.5,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2005/2005.T.Maths.eno.pdf",
+  "chars": 4261,
+  "seconds": 40.0,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2005/2005.T.STA.eno.pdf",
+  "chars": 21765,
+  "seconds": 182.1,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2006/2006.T.Anglais.eno.pdf",
+  "chars": 9945,
+  "seconds": 56.0,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2006/2006.T.Francais.eno.pdf",
+  "chars": 6141,
+  "seconds": 39.7,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2006/2006.T.Informatique.eno.pdf",
+  "chars": 12810,
+  "seconds": 81.5,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2006/2006.T.Physique.eno.pdf",
+  "chars": 11228,
+  "seconds": 73.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2006/2006.T.STA.eno.pdf",
+  "chars": 16780,
+  "seconds": 147.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2007/2007.T.Anglais.eno.pdf",
+  "chars": 12404,
+  "seconds": 89.8,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2007/2007.T.Chimie.eno.pdf",
+  "chars": 6111,
+  "seconds": 66.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2007/2007.T.Francais.eno.pdf",
+  "chars": 4827,
+  "seconds": 36.4,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2007/2007.T.Informatique.eno.pdf",
+  "chars": 9329,
+  "seconds": 69.8,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2007/2007.T.Maths.eno.pdf",
+  "chars": 3335,
+  "seconds": 38.1,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2007/2007.T.Physique.eno.pdf",
+  "chars": 10652,
+  "seconds": 70.4,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2007/2007.T.STA.eno.pdf",
+  "chars": 14728,
+  "seconds": 118.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2008/2008.T.Anglais.eno.pdf",
+  "chars": 11667,
+  "seconds": 85.0,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2008/2008.T.Chimie.eno.pdf",
+  "chars": 7078,
+  "seconds": 53.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2008/2008.T.Francais.eno.pdf",
+  "chars": 5354,
+  "seconds": 34.4,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2008/2008.T.Informatique.eno.pdf",
+  "chars": 9370,
+  "seconds": 65.6,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2008/2008.T.Maths.eno.pdf",
+  "chars": 4282,
+  "seconds": 39.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2008/2008.T.Physique.eno.pdf",
+  "chars": 11267,
+  "seconds": 68.0,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2008/2008.T.STA.eno.pdf",
+  "chars": 18053,
+  "seconds": 150.8,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2009/2009.T.Anglais.eno.pdf",
+  "chars": 11991,
+  "seconds": 81.7,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2009/2009.T.Chimie.eno.pdf",
+  "chars": 6422,
+  "seconds": 50.0,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2009/2009.T.Francais.eno.pdf",
+  "chars": 6527,
+  "seconds": 42.8,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2009/2009.T.Informatique.eno.pdf",
+  "chars": 6455,
+  "seconds": 50.4,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2009/2009.T.Maths.eno.pdf",
+  "chars": 3667,
+  "seconds": 37.0,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2009/2009.T.Physique.eno.pdf",
+  "chars": 10225,
+  "seconds": 65.5,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2009/2009.T.STA.eno.pdf",
+  "chars": 16463,
+  "seconds": 142.7,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2010/2010.T.Anglais.eno.pdf",
+  "chars": 11609,
+  "seconds": 82.0,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2010/2010.T.Chimie.eno.pdf",
+  "chars": 5834,
+  "seconds": 56.8,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2010/2010.T.Francais.eno.pdf",
+  "chars": 4619,
+  "seconds": 32.6,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2010/2010.T.Informatique.eno.pdf",
+  "chars": 6921,
+  "seconds": 43.8,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2010/2010.T.Maths.eno.pdf",
+  "chars": 6984,
+  "seconds": 52.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2010/2010.T.Physique.eno.pdf",
+  "chars": 10371,
+  "seconds": 65.7,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2010/2010.T.STA.eno.pdf",
+  "chars": 15804,
+  "seconds": 157.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2011/2011.T.Anglais.eno.pdf",
+  "chars": 11386,
+  "seconds": 79.5,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2011/2011.T.Francais.eno.pdf",
+  "chars": 4732,
+  "seconds": 25.4,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2011/2011.T.Informatique.eno.pdf",
+  "chars": 6970,
+  "seconds": 44.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2011/2011.T.Maths.eno.pdf",
+  "chars": 4712,
+  "seconds": 40.4,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2011/2011.T.Physique.eno.pdf",
+  "chars": 10439,
+  "seconds": 75.1,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2011/2011.T.STA.eno.pdf",
+  "chars": 14265,
+  "seconds": 128.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2012/2012.T.Anglais.eno.pdf",
+  "chars": 10227,
+  "seconds": 53.7,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2012/2012.T.Chimie.eno.pdf",
+  "chars": 7546,
+  "seconds": 95.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2012/2012.T.Francais.eno.pdf",
+  "chars": 5148,
+  "seconds": 26.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2012/2012.T.Informatique.eno.pdf",
+  "chars": 7617,
+  "seconds": 60.4,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2012/2012.T.Maths.eno.pdf",
+  "chars": 5564,
+  "seconds": 48.8,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2012/2012.T.Physique.eno.pdf",
+  "chars": 11254,
+  "seconds": 79.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2012/2012.T.STA.eno.pdf",
+  "chars": 21827,
+  "seconds": 216.0,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2013/2013.T.Anglais.eno.pdf",
+  "chars": 9284,
+  "seconds": 47.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2013/2013.T.Francais.eno.pdf",
+  "chars": 5141,
+  "seconds": 26.1,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2013/2013.T.Informatique.eno.pdf",
+  "chars": 8539,
+  "seconds": 48.4,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2013/2013.T.Maths.eno.pdf",
+  "chars": 5742,
+  "seconds": 48.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2013/2013.T.Physique.eno.pdf",
+  "chars": 11933,
+  "seconds": 81.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2013/2013.T.STA.eno.pdf",
+  "chars": 35953,
+  "seconds": 359.6,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2014/2014.T.Anglais.eno.pdf",
+  "chars": 8815,
+  "seconds": 47.5,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2014/2014.T.Francais.eno.pdf",
+  "chars": 5204,
+  "seconds": 26.8,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2014/2014.T.Informatique.eno.pdf",
+  "chars": 8430,
+  "seconds": 63.0,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2014/2014.T.Maths.eno.pdf",
+  "chars": 5531,
+  "seconds": 48.4,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2014/2014.T.Physique.eno.pdf",
+  "chars": 14757,
+  "seconds": 82.6,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2014/2014.T.STA.eno.pdf",
+  "chars": 17363,
+  "seconds": 150.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2015/2015.T.Anglais.eno.pdf",
+  "chars": 11183,
+  "seconds": 82.2,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2015/2015.T.Chimie.eno.pdf",
+  "chars": 7246,
+  "seconds": 95.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2015/2015.T.Francais.eno.pdf",
+  "chars": 4830,
+  "seconds": 27.4,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2015/2015.T.Informatique.eno.pdf",
+  "chars": 7002,
+  "seconds": 53.7,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2015/2015.T.Physique.eno.pdf",
+  "chars": 12532,
+  "seconds": 80.5,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2015/2015.T.STA.eno.pdf",
+  "chars": 27817,
+  "seconds": 261.0,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2016/2016.T.Anglais.eno.pdf",
+  "chars": 9494,
+  "seconds": 51.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2016/2016.T.Francais.eno.pdf",
+  "chars": 5231,
+  "seconds": 27.6,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2016/2016.T.Informatique.eno.pdf",
+  "chars": 7821,
+  "seconds": 55.5,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2016/2016.T.Maths.eno.pdf",
+  "chars": 4968,
+  "seconds": 40.5,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2016/2016.T.Physique.eno.pdf",
+  "chars": 13369,
+  "seconds": 79.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2016/2016.T.STA.eno.pdf",
+  "chars": 29450,
+  "seconds": 304.2,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2017/2017.T.Anglais.eno.pdf",
+  "chars": 11432,
+  "seconds": 82.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2017/2017.T.Chimie.eno.pdf",
+  "chars": 7466,
+  "seconds": 102.5,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2017/2017.T.Francais.eno.pdf",
+  "chars": 5826,
+  "seconds": 28.4,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2017/2017.T.Informatique.eno.pdf",
+  "chars": 7280,
+  "seconds": 52.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2017/2017.T.Maths.eno.pdf",
+  "chars": 6417,
+  "seconds": 44.6,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2017/2017.T.Physique.eno.pdf",
+  "chars": 14331,
+  "seconds": 89.4,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2017/2017.T.STA.eno.pdf",
+  "chars": 24182,
+  "seconds": 179.6,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2018/2018.T.Anglais.eno.pdf",
+  "chars": 8259,
+  "seconds": 47.0,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2018/2018.T.CFM.pdf",
+  "chars": 41038,
+  "seconds": 502.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2018/2018.T.Francais.eno.pdf",
+  "chars": 5303,
+  "seconds": 27.0,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2018/2018.T.Informatique.eno.pdf",
+  "chars": 9794,
+  "seconds": 64.1,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2018/2018.T.Maths.eno.pdf",
+  "chars": 6189,
+  "seconds": 43.7,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2018/2018.T.STA.pdf",
+  "chars": 28249,
+  "seconds": 279.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2019/2019.T.Anglais.eno.pdf",
+  "chars": 11432,
+  "seconds": 80.4,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2019/2019.T.Chimie.eno.pdf",
+  "chars": 9938,
+  "seconds": 101.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2019/2019.T.Francais.eno.pdf",
+  "chars": 5428,
+  "seconds": 26.6,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2019/2019.T.Informatique.eno.pdf",
+  "chars": 20836,
+  "seconds": 116.7,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2019/2019.T.Maths.eno.pdf",
+  "chars": 5474,
+  "seconds": 41.5,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2019/2019.T.Physique.eno.pdf",
+  "chars": 15435,
+  "seconds": 91.1,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2019/2019.T.STA.eno.pdf",
+  "chars": 58639,
+  "seconds": 638.5,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2020/2020.T.Anglais.eno.pdf",
+  "chars": 10118,
+  "seconds": 51.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2020/2020.T.CFM.pdf",
+  "chars": 52990,
+  "seconds": 526.7,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2020/2020.T.Chimie.eno.pdf",
+  "chars": 8754,
+  "seconds": 109.7,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2020/2020.T.Francais.eno.pdf",
+  "chars": 5208,
+  "seconds": 26.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2020/2020.T.Informatique.eno.pdf",
+  "chars": 16911,
+  "seconds": 101.5,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2020/2020.T.STA.pdf",
+  "chars": 45259,
+  "seconds": 493.5,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2021/2021.T.Anglais.eno.pdf",
+  "chars": 13425,
+  "seconds": 80.7,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2021/2021.T.Chimie.eno.pdf",
+  "chars": 8269,
+  "seconds": 90.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2021/2021.T.Francais.eno.pdf",
+  "chars": 5383,
+  "seconds": 25.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2021/2021.T.Informatique.eno.pdf",
+  "chars": 19616,
+  "seconds": 103.9,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2021/2021.T.Maths.eno.pdf",
+  "chars": 6170,
+  "seconds": 47.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2021/2021.T.Physique.eno.pdf",
+  "chars": 14064,
+  "seconds": 82.5,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2021/2021.T.STA.eno.pdf",
+  "chars": 56369,
+  "seconds": 584.5,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2022/2022.T.Anglais.pdf",
+  "chars": 18737,
+  "seconds": 116.0,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2022/2022.T.CFM.pdf",
+  "chars": 42370,
+  "seconds": 418.1,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2022/2022.T.Francais.pdf",
+  "chars": 10092,
+  "seconds": 53.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2022/2022.T.Math.pdf",
+  "chars": 21012,
+  "seconds": 177.2,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2022/2022.T.STA.pdf",
+  "chars": 37962,
+  "seconds": 403.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2023/Anglais.ép.pdf",
+  "chars": 14037,
+  "seconds": 90.6,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2023/CFM.pdf",
+  "chars": 49518,
+  "seconds": 506.8,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2023/Français.pdf",
+  "chars": 10316,
+  "seconds": 65.6,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2023/Informatique.ép.pdf",
+  "chars": 19119,
+  "seconds": 187.2,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2023/Mathématiques.pdf",
+  "chars": 25667,
+  "seconds": 214.4,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2023/STA(MSI-AUT).pdf",
+  "chars": 27870,
+  "seconds": 243.3,
+  "method": "easyocr",
+  "ok": true
+ },
+ {
+  "filepath": "T/2025/2025.T.Anglais.pdf",
+  "chars": 22354,
+  "seconds": 135.4,
   "method": "easyocr",
   "ok": true
  }

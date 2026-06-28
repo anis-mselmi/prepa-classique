@@ -1,2 +1,74 @@
+--- page 1 ---
+1494)j2/421 Ujxslbsus ulsk dosin Uihsll eUlLinl Cnuligall jLs{ Jal> +i 2016 609'
+REPUBLIQUE TUNISIENNE
+Ministère de 1'Enseignement Supérieur et de la Recherche Scientifique
+Concours Nationaux d'Entrée aux Cycles de Formation d'Ingénieurs Session 2016
+Concours Biologie et Géologie Epreuve dInformatique
+Date Vendredi 27 Mai 2016 Heure 14 H
+Durée 2 H
+Nombre de pages 3
+Barème EXERCICE 1 (MAPLE) 6 points EXERCICE 2 (MAPLE) 6 points PROBLEME (ALGORITHMIQUE) 8 points
+1
+ {
+DOCUMENTS NON AUTORISES
+L'USAGE DES CALCULATRICES EST INTERDIT
+6 : :
+
+ 
+EXERCICE 1 (MAPLE)
+ . :
+On considère léquation différentielle Eq définie par Eq = y(x)(1-xy(x))-y? (x) = 0 1 . . ` . Donner les instructions MAPLE permettant de 1 définir Eq 2 récupérer dans E, la solution de la résolution formelle de Eq avec la condition initiale y(o)=I;
+3 transformer E en une fonction h;
+4 représenter graphiquement h pour xe[-1, 1];
+5 calculer dans Dv, le développement limité de h au voisinage de 0 à /ordre 10 ;
+1 '.^ /  ' n-] (n+1) 6 définir la fonction g telle que g(n) = n!
+7 générer, par une boucle; la liste Ll dont les éléments sont les g(i) pour ie[0,8]; 8 générer la liste L2 dont les éléments sont les 9 premiers coefficients de Dv ; 9 vérifier que les listes Ll et L2 sont égales.
+' w ` `
+Concours (Biologie et Géologie)- Session Mai 2016
+Epreuve dInformatique
+Page 1/3
+
+--- page 2 ---
+EXERCICE 2 (MAPLE)
+Soient les matrices A, B, et C définies comme suit
+7( 4 A = 0 2
+4 0
+B =
+~2 0 et C = 0 2 1 1 /  . 0 0  8 < Donner les commandes MAPLE permettant de
+1  définir A et B ;
+2 calculer dans dt le déterminant de A
+:: . ;
+3 _ calculer dans P le polynôme caractéristique de A 4 calculer dans El /ensemble des éléments diagonaux de A en utilisant impérativement la commande seq
+5 calculer dans E2 /ensemble des valeurs propres de A
+6 vérifier que lintersection de El et E2 est /ensemble vide
+7 définir C à partir de A ;
+8 calculer et afficher A+C, CxB et (A-C+2B)3 1  .  .) .  .  . . PROBLEME (ALGORITHMIQUE) l n On se propose de développer des algorithmes de manipulations des nombres réels dans un tableau . Dans ce qui suit, on suppose avoir déjà effectué les déclarations suivantes
+CONSTANTE NMAX 1000 TYPE TABR = tableau [1 NMAX] de reel
+On désigne par € les paramètres passés par valeur et par S ou E/S les paramètres passés par variable dans les entêtes des procédures et des fonctions.
+Question 1
+6n
+Ecrire une procédure algorithmique; nommée Saisir, qui saisit un entier N compris entre 2 et NMAX puis saisit les N réels dun tableau T. La procédure a pour entête
+Procedure  Saisir(S N entier S T: TABR)
+Question 2
+~;. , s
+Ecrire une procédure algorithmique; nommée Afficher,   permettant dafficher le contenu du tableau T de taille N. La procédure a pour entête
+Procedure   Afficher(E N entier @ T : TABR)
+Concours (Biologie et Géologie) - Session Mai 2016
+Epreuve dInformatique
+Page 2/3
+
+--- page 3 ---
+Question 3
+Ecrire une fonction   algorithmique, nommée Min_intevalle;   permettant de retourner la position du premier plus petit élément compris  entre les éléments de positions PI et P2 supposées valides. La fonction a pour entête
+Fonction Min_intevalle(@ T: TABR, E PI, P2 : entier) entier
+Question 4
+Ecrire une procédure   algorithmique;   nommée Min_Supmin;   permettant de déterminer et dafficher la valeur du minimum du tableau T, ainsi que la valeur du deuxième plus petit élément de T strictement supérieur à la valeur du minimum s'il existe. La procédure a pour entête
+Procedure Min_Supmin( N : entier E T : TABR)
+Question 5
+En utilisant impérativement la fonction Min_intevalle; écrire une procédure algorithmique; nommée Tri_Tab,  permettant de trier le tableau T par ordre décroissant. La procédure a pour entête
+Procedure Tri_TABE N : entier _ ES T: TABR)
 
 
+Concours (Biologie et Géologie)- Session Mai 2016
+Epreuve d'Informatique
+Page 3/3

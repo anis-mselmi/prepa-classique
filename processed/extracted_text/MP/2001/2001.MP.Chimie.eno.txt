@@ -1,2 +1,39 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de PEnseignement Supérieur
+Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs Session: Juin 2001
+Concours Mathématiques et Physique Epreuve de Chimie
+Date Vendredi 8 Juin 2001
+Heure : 8 H
+Durée : 2 Heures
+Nbre pages : 3
+Barème: Problème I: 6 points
+Problème II: 7 points
+Problème III: 7 points
+Les candidats sont tenus de justifier leurs réponses au moins en quelques lignes.
+L'épreuve comporte trois problèmes (I), (Il) et (Ill) indépendants. PROBLEME I (Les trois parties A, B et C sont indépendantes) A. On considère les deux couples rédox Cu2 +ICu(sd) et Fe3 +IFe2+. A.l) Quel est ['oxydant le plus fort et le réducteur le plus fort? A.2) Ecrire ['équation chimique de la réaction qui met en jeu les deux couples rédox envisagés. A.3) Cette réaction est-elle limitée? totale? pratiquement totale?
+B. On prépare à la température ambiante les deux mélanges (MI) et (M2) suivants: [Cu2+] [Fe3+] [Fe2+] Cu(sd) Onstyut , (MI): 0,01 mol. Ll 0,01 mol. L-l 0,OO1 mol (fparatoie (M2): 0,01 mol. L-l 0,01 mol. Ll 0,01 mol. L-l (eisbliotheqle) B.1) Dans chacun des cas dire: 3 4 a) Quelle réaction est possible spontanément ? 'cmgzhkues b) Quel type d équilibre obtient-on? B.2) Qu'observe-t-on dans le mélange (MI)? B.3) Que se passe-t-il si au mélange (M2) on ajoute 0,004 mol de cuivre ? C. On considère à présent les couples rédox CuCl2-ICu(sd) et Fe(OH)3(sd)IFe2 +. C.1) Etablir les expressions qui permettent de calculer les potentiels normaux d' électrode de ces couples et déterminer ces valeurs. C.2) Etablir pour chaque couple l'expression du potentiel d' électrode et dites comment il varie avec le pH. C.3) On met en contact une lame de cuivre avec une solution contenant: [CuCI2-] = [Fe2+] = 0,1 mol.L-I; [CI-] = 2 mol. L-l et 0.,01 mol de Fe(OH)3(sd).
+Concours Mathématiques et Physique-Session de Juin 2001
+Epreuve de Chimie
+Pagel/ 3
 
+--- page 2 ---
+a) Ecrire ['équation chimique de la réaction d'oxydoréduction mettant en jeu les deux couples rédox. b) A partir - de quelle valeur du pH observe-t-on une attaque du cuivre ? C.4) Citer une application simple de la réaction étudiée:
+On dispose des données suivantes valables à 25'T: Produit de solubilité de Fe(OH)3 (sd) Ks = 10-39. Constante de formation du complexe CuCl2 K = 105. Potentiel normal (standard) rédox: EP{Cu2+ ICu (sd)} = 0,34 V,EP{Cu+ICu (sd) } = 0,52 V E?{Fe3 + 'Fe2+} =0,77V. Le produit ionique de [eau Ke est égal à 10-14 Le rapport (2,303 RT)F est égal à 0,06 V.
+PROBLEMEI
+A) On considère le changement d'état d'un corps pur A représenté par A (a) A(B (a) et (B) représentent deux phases quelconques. A.1) Etablir la rlation générale de Clapeyron pour ce changement détat A.2) Déduire [expression qui donne la variation de la tension de vapeur pour léquilibre liquide- vapeur dans les deux cas suivants: a) L'enthalpie de vaporisation 'vap H7 est indépendante de la température. b) L'enthalpie de vaporisation varie avec la température selon laloi Avap H = a+bT a et b sont deux constantes indépendantes de la température. On admettra dans les deux cas que le volume molaire du gaz est très 'supérieur= au volume molaire de la phase liquide et que le gaz se comporte comme un gaz parfait. B) Dans un domaine de température compris entre -20'Cet +I0OPCla tension de vapeur, exprimée en bar du méthanol liquide CHBOH est donnée par lexpression: P 1957,4 logio 5,80 - 4 P' T Déterminer pour le méthanol: B.l) la température normale(standard) d'ébullition Te. B.2) Lenthalpie de vaporisation 'vapH" dans le domaine de température considéré. Représenter dans le plan (T,P) Vallure du diagramme unaire du méthanol sachant que la masse volumique de CH3OH solide est supérieure à celle de CH3OH liquide C.1) Donner la nature des phases dans chaque domaine du diagramme proposé. C.2) Indiquer le nom de chaque courbe d'équilibre. C.3) Préciser les points particuliers et donner leurs signification. C.4) Calculer: 9 la variance des systèmes dont les points représentatifs sont situés sur chacune des courbes; b)la variance des systèmes aux points particuliers. C.5) Calculer La pression critique sachant que la température critique Tc du méthanol est égale à 512,6 K. D) La valeur expérimentale de la pression critique du méthanol est de 81 bar. D.1) Comment pouvez-vous expliquer l'écart entre la valeurcalculée et la valeur expérimentale? D.2) Quelle est la valeur vap HI à la température critique Tc?
+Concours   Mathématiques et Physique-Session de Juin 2001
+Epreuve de Chimie
+Page2/ 3
 
+--- page 3 ---
+PROBLEMEI
+Le composé (A) de formule KxNiyFz cristallise avec une maille cubique. Le nickel occupe les sommets de la maille; le potassium est au centre de la maille et les ions fluorure se trouvent au milieu des arêtes.
+19) Donner une représentation en perspective de la maille en indiquant la position de chaque atome par son symbole chimique: 29) Quelle est la formule du composé (A)? 39) Préciser la coordinence: a) du nickel; b) du potassium; c) du fluor. 49) Calculer la masse volumique (en g.cm-3) du composé (A)
+50 Déterminer le paramètre de cette maille dans chacun des cas suivants: a) les ions se touchent le long dune arête; b) les ions se touchent le long de la droite parallèle à la diagonale dune face et passant par le centre de la maille.
+69) Quelle est la valeur du paramètre de la maille sachant que le composé (A) estionique?
+Données:
+Masses molaires atomiques en g.mol-1: K=39,102 ;F=19,00; Ni = 58,71. Nombre d'Avogadro NA = 6,02.1023 . Rayons ioniques: Ni2 + = 0,69 ; F-=136 ; K+ =1,33 B-
+Fin.
+Concours Mathématiques et Physique-Session de Juin 2001
+Epreuve de Chimie
+Page3/ 3

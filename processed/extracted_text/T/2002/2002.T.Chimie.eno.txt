@@ -1,2 +1,55 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de 1Enseignement Supérieur
+Concours  Nationaux dEntrée aux Cycles de Formation dIngénieurs Session: Juin 2002
+Concours Technologique Epreuve de Chimie
+5tuy , Korcphratoire  Biguothe ?uF  3 Dingesk
+Date Mardi
+Juin 2002
+Heure 8 H
+Durée 2 Heures
+Nbre pages:
+Barème: Problème I: 7points
+Problème II: t points
+Problème III: Gpoints
+Les candidats sont tenus de justifier leurs réponses au moins en quelques lignes.
+PROBLÈME I
+Données:
+Capacité calorifique molaire sous pression constante de SO2 (g): €p = 51 Jmol-LK-l Constante des gaz parfaits: R = 8,314 Jmol-L.K-l;R = 0,082 Latm.mol-1 . K-1. AFf,298 SO2 (g) = 296,8 Kmol-1
+On considère un système S 1 où se produit la réaction : S-(sd) 02 (g) S02 (g) et un autre système $ 2 où se produit la réaction : S2 (g) 2 02 (g) = 2802 (g) (2). 1) Quelle est la variance des systèmes de la même espèce que S1 et S 2 contenant uniquement les constituants écrits dans les équations chimiques (1) et (2) ?
+2) Peut-on choisir arbitrairement pour: a) le système $ 1 en équilibre la température, la pression, le volume et la quantité de matière de SO2 gaz ? b) le système $ 2 en équilibre les fractions molaires des trois constituants ? 3) On réalise la réaction (1) dans un systène parois adiabatiques en-partant de quantités stæchiométriques de soufre et de dioxygène initialement à la température de 298 K: Déterminer la températureT Fin du système après combustion-supposée totale sous_pression constante de 1 bar. On admettra que la constante calorifique molaire c P reste constante dans 'intervalle de température considéré.
+4) On considère dans la suite du problème seulement l'équation: S2 (g) 2 02 (g) = 2 S02 (g) (2) L'enthalpie libre standard A GT (en Joule) de cette réaction en fonction de la température T (en degré Kelvin) est donnée par la relation suivante: ArGT = 590173 + 65,18 T + 11,5 T LnT (Ln: logarithme népérien).
+Concours Technologique. Juin 2002. Epreuve de Chimie
+page -13
 
+--- page 2 ---
+Donner les expressions littérales de A,T et de ArS T en fonction de la température . Calculer leurs valeurs à la température de IOOOK. b) En déduire la valeur de ArU1000: c) Quelle est la valeur de la constante d 'équilibre K'T à la température de IOOOK ?
+5) Dans quel sens se déplace ['équilibre si on ajoute à température et pression constantes: une faible quantité d'un gaz inerte ? b une faible quantité de S02
+On introduit dans un système préalablement vidé d'air de volume fixe égal à 10 L maintenu à la température de 100O K, deux moles de S2 (g) et deux moles de 02 (g) Déterminer la pression totale àléquilibre.
+PROBLEME II
+On considère le diagramme liquide-solide argent -platine à pression constante (P =lbar) représenté par la figure ci-dessous
+1800
+1769'C
+1600
+" 1400 ; 1 1200 20
+40,5 1185*C
+77,5
+Ioo0 960,5
+" ; - 800 10 20  30 40 50 60 70 80 90 I0o Ag mole Pt % Pt
+19) Représenter le diagramme sur la copie dexamen et indiquer la nature des phases et les états physiques pour chaque région du plan. 2 ) Ecrire l'équation chimique de la transformation qui alieu à la température de 11859C 39) Donner le nom de cette transformation: 49) On  refroidit jusqu'à la température de 85O*C, 100_mol d'un mélange liquide argent-platine renfermantt 30 mol de platine.
+a) Donner l'allure des courbes de refroidissement (température, temps). On précisera pour chaque tronçon de courbe les phases en présence, les transformations qui ont lieu et la variance des systèmes b) Donner aux températures 01 e 02 suivantes: 01 = (1185 e) C 02 = (1185 + e)I; la nature des phases en présence; B) la composition (en % molaire) de chacune des phases;
+Concours Technologique. Juin 2002 Eprcuve de Chimie
+page 43
 
+--- page 3 ---
+PROBLÈME III
+Données: Nombre dAvogadro NA 6,023.1023 . Masse molaire atomique en g.mol-l: Ag 108 et 0 = 16
+Le composé AgxOy cristallise dans le système cubique de paramètre égal à 4,904   Les atomes d'oxygène occupent les milieux des arrêtes et les centres des faces du cube. Les atomes d'argent se trouvent aux points de coordonnées 1/4,1/4,1/4 3/4,3/4,1/4 3/4,1/4,3/4 et 1/4,3/4,3/4.
+19) Représenter en perspective cette maille en indiquant les vecteurs de base a, b et c. Les atomes seront représentés par leurs symboles chimiques. 2*) Donner la formule du composé AgrOy
+3%) Déterminer sa masse volumique
+4*) Donner la projection du contenu de la maille sur le plan (a,b) en précisant la côte de chacun des atomes.
+5*) Indiquer la nature des atomes dans les plans réticulaires suivants: ( 100) et (110).
+6*) Déterminer la coordinence des atomes d'argent _
+7%) Calculer la valeur de langle de reflexion du premier ordre par les plans (100) et (110) sachant que la longueur d'onde ^ des rayons X utilisés est égale à 1,54 A.
+Fin.
+Concours Technologique. Juin 2002 Epreuve de Chimie
+page -3/3

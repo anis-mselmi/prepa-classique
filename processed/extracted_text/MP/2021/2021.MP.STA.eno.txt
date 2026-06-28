@@ -1,31 +1,554 @@
+--- page 1 ---
+~ay48 @1?iges guler Js9su 247s AIjslii 94W5ias] 04441 Jsly 2021 4,95
+REPUBLIQUE TUNISIENNE
+Ministère de 1Enseignement Supérieur et de la Recherche Scientifique
+Concours Nationaux d Entrée aux Cycles de Formation dIngénieurs Session 2021
+Concours Mathématiques-Physique & Physique-Chimie
+Epreuve de
+Systèmes Techniques Automatisés
+Date Mercredi 23 Juin 2021 Heure 8 H Durée : 3 heures
+L'épreuve comporte trois parties A - Conception mécanique (03 pts) B - Mécanique des solides indéformables (09 pts) C - Automatique (08 pts) Le sujet de lépreuve remis au candidat comporte trois dossiers 1er "Mise en situation, Données et Hypothèses" 2ème Un document technique "DT-01" . 3ème "Document Réponses" contenant les questions à traiter: NB. Aucun autre document n'est autorisé. Seules les calculatrices de poche non programmables sont autorisées_ Un seul et unique document réponses est fourni au candidat et doit être rendu en totalité, à la fin de Yépreuve, même sans réponses. Aucune feuille, du document réponses, ne doit être supprimée (cet acte est considéré comme étant une tentative de fraude) .
+
+--- page 2 ---
+Dossier
+Mise en situation
+Données et Hypothèses
+Ce dossier comporte 8 pages Mise en situation Données et hypothèses partie A-Conception mécanique Données et hypothèses partie B-MSI Données et hypothèses partie C-Automatique
+pages de 1 à 2 page 2 pages 3 à 5 pages de 5 à 8
+
+--- page 3 ---
+Concours MP-PC
+Epreuve S.TA
+Mise en situation; Données et Hypothèses
+où R(p) est le régulateur Or (p est lentrée du système (la consigne vitesse de référence) Qch (p) est la sortie du système (vitesse angulaire) ; Cr(p) est lentrée de perturbation (couple résistant) et €1 (p)est le signal d'erreur
+Asservissement de position du plateau Lasservissement de position du moteur et du plateau est caractérisé par le schéma de la figure 11
+Cr(p)
+er (p)
+€2 (p) U(p) 10 R(p) 10+P
+0.2
+0 (p
+P(p+l)
+FIGURE 11 _ Asservissement de position
+où @r(p) est lentrée du système (la consigne angle de référence) ; 0 (p) est la sortie du sys- tème (position angulaire) et e2(p) est le signal d'erreur:
 
 
+ 
+  s 3 
+ , 
 
 
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2021
+Page 8/8
 
+--- page 4 ---
+Concours MP-PC
+Epreuve S.TA
+Mise en situation, Données et Hypothèses
+SYSTÈME D' ASSEMBLAGE DE ROTULES DE SUSPENSION
+Mise en situation
+Le système présenté par le document technique DT-01 est destiné à l'assemblage de rotules de suspension de voitures (figure 1) Ladite rotule est constituée dun moyeu à fond sphé- rique, d'une bague entretoise en matériau polymère et dune tige à embout sphérique: Leur assemblage comporte une opération de graissage de lintérieur de la rotule afin de garantir une meilleure mobilité à Yusage. Afin dempêcher le démontage de la tige, une opération de sertissage consiste à plier le serti (une zone de faible épaisseur du moyeu 1 (voir figure 2)) pour venir au contact de la tige (3) Cette opération nécessite une pression importante (utilisation dun vérin hydraulique) et un pliage par appui de galets tournants. (Pièce 1) (Pièce 2) (Pièce 3) moyeu bague tige à embout sphérique entretoise sphérique
+avant assemblage des trois composants
+rotule assemblée
+FIGURE 1 _ Rotule de suspension
+pièce 3
+serti déformé
+pièce 2
+le serti
+pièce 1
+Avant 'sertissage
+Après sertissage FIGURE 2 - Rotule avant et après sertissage
+Le système dassemblage est ainsi constitué de huit postes successifs permettant chacun deffectuer une opération spécifique 1. positionnement du moyeu sphérique (pièce 1), 2 positionnement de la bague entretoise(pièce 2) 3 graissage de lintérieur du moyeu,
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2021
+Page 1/8
 
+--- page 5 ---
+Concours MP-PC
+Epreuve S.TA
+Mise en situation; Données et Hypothèses
+4 positionnement de la tige à embout sphérique, 5. sertissage du moyeu, 6. rodage de la rotule assemblée, 7 . évacuation de la rotule assemblée (système de transfert) , 8. nettoyage de lemplacement des moyeux. Un automate programmable permet la gestion du fonctionnement global de ce système. Le poste 5 de 'sertissage (figure 3) fera particulièrement objet de Y'étude proposée dans la par- tie conception mécanique. Les postes (5) et (6) seront étudiés dans la partie séquentielle et finalement la partie mécanique des solide indéformables s'intéressera au système de trans- fert
+Vérin presseur (hydraulique)
+courroie
+d'entraînement
+Moteur électrique
+Galets de sertissage
+FIGURE 3 _ Poste de sertissage
+Partie A Conception Mécanique Poste de sertissage Dans cette partie; on s'intéresse au poste de sertissage schématisé par la figure 4. Le support S1 des galets de sertissage est entrainé en rotation par un motoréducteur et une transmission par poulies et courroie L'effort presseur nécessaire à la déformation du serti est imposé par un vérin hydraulique: Larbre moteur S6 tourne à N6 3000 tr /min Il est muni dune roue dentée ayant Z6 = 20 dents. L'arbre intermédiaire du réducteur Ss est lié à deux roues dentées ayant Z5a 30 dents et Z5b 20 dents. Enfin, Yarbre de sortie du motoréducteur S4 est muni dune roue ayant Z4 30 dents. Par ailleurs , le diamètre primitif de la poulie de S4 est d 6Omm alors que celui de S3 est D 120mm
+Concours nationaux dentrée aux cycles de formation d 'ingénieurs
+Session 2021
+Page 218
 
+--- page 6 ---
+Concours MP-PC
+Epreuve STA
+Mise en situation, Données et Hypothèses
+Le solide S3 transmet le mouvement de rotation à S1 par lintermédiaire de cannelures (voir figure 5). Les deux zones de la figure 4 encerclées par des traits discontinus feront objet de Yétude dans cette partie:
+vérin
+vue des cannelures en coupe
+courroie
+Moteur
+cannelures
+Zones d'étude
+FIGURE 5 _ Arbre S3 avec cannelures (la pou- lie est retirée pour mieux visualiser les canne- lures)
+galets de sertissage
+FIGURE 4 - Schéma cinématique du poste de sertissage
+Partie B - Mécanique des solides indéformables Mécanisme de transfert parallèle
+B.l Présentation L'étude mécanique porte sur le système de transfert des rotules à la sortie de la chaîne de montage. Ce système est composé, comme lillustre la figure 6,dun moteur d'entrainement, dune manivelle (1) et de deux coulisseaux (2) et (3). Lensemble est monté sur un bâti suf- fisamment rigide pour réduire les vibrations induites par le mouvement rotatif alterné de la manivelle. Ledit mécanisme permet de transformer une rotation périodique alternée im- posée par un moteur en une translation circulaire alternée de la pince de préhension de la rotule à évacuer.
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2021
+Page 318
 
+--- page 7 ---
+Concours MP-PC
+Epreuve S.TA
+Mise en situation, Données et Hypothèses
+Manivelle (en mouvement alterné)
+Moteur
+Coulisseau
+pince de préhension
+FIGURE 6 _ Le système de transfert
+Les figures 7.a et 7.b présentent respectivement les schémas cinématiques réduits 3D et 2D du mécanisme; associé au système de transfert; proposé à létude:
+Jo
+Jo
+Jo _ J1
+Jo
+J1)
+Zo
+Xo
+B
+Zo
+Xo
+Schématisation dans Vespace (3D) Schématisation plane (2D) FIGURE 7 - Schéma cinématique du mécanisme de transfert
+B.2 Repères, paramètres et données Le mécanisme, proposé à l'étude; est constitué des solides suivants
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2021
+Page 418
+Coulisseau
 
+--- page 8 ---
+Concours MP-PC
+Epreuve S.TA.
+Mise en situation, Données et Hypothèses
+Le bâti (0) auquel est lié le repère Ro(O,70,70,Z0) Ce repère est considéré galiléen ayant pour axe vertical ascendant (0,70)  La manivelle (1) est en liaison pivot daxe (0,70) avec le bâti (0). Elle est entrai- née en rotation grâce au moteur (M) (voir figure 6). Le repère qui lui est associé est R1(O,71,J1,Z) avec 0 = Yo,71 (Jo,71)  Le coulisseau (2) est en liaison pivot daxe (A,20) avec la manivelle (1), il est aussi en liaison glissière d'axe (B,yo) avec le coulisseau (3). Sa translation par rapport au coulisseau (3) est paramétrée par 4. Rz(A,70,J0,7) est le repère qui lui est associé. Le coulisseau (3) est en liaison glissière d'axe (C,7o) avec le bâti (0). Sa translation par rapport à (0) est paramétrée par ]. Rs(C,7o70,20) est le repère qui lui est associé. Chacun des centres A, B et C des liaisons définies précédemment; décrit une trajectoire si- tuée dans un plan parallèle à (0,70,Jo): Cela permet de modéliser le système proposé à l'étude par un mécanisme plan en considérant les paramètres et les données géométriques présentés par les relations vectorielles suivantes 0A Lx1 BA = ayo ; Tc = #œo - d0o  CB = 1jo Où L, a et d sont des caractéristiques dimensionnelles (constantes). 0, 1 et u sont les para - mètres de position du mécanisme, dépendants du temps (variables de configuration)
+Partie C - Automatique C.1 Étude du capteur de position angulaire du plateau tournant L'objectif de cette partie est l'étude du capteur permettant la mesure de la position du pla- teau tournant. En effet; pour connaitre avec précision sa position; une des solutions consiste à utiliser un codeur absolu basé sur le code binaire réfléchi (Gray). Cette solution est cou- ramment adoptée pour sa précision. Le disque des codeurs absolus comporte des pistes concentriques divisées en segments opaques et transparents Comme le plateau est à 8 positions, on aura à utiliser un codeur à 3 pistes délivrant trois signaux Go, G1 et G2- Si le codeur Gray est le mieux adapté pour la mesure de la position (de langle du plateau tournant) , on aura besoin du code binaire naturel pour la suite du traitement de linforma- tion. C'est la raison pour laquelle on utilisera un transcodeur BR BN à 3 bits.
+C.2 Étude séquentielle du système dassemblage de la rotule Cette partie est dédiée à létude séquentielle du système d'assemblage de la rotule. En effet, si les conditions initiales sont vérifiées, Yaction sur un bouton poussoir Dcy entraine le fonctionnement des différents postes effectuant les actions suivantes Poste 1 : chargement des moyeux sphériques (pièce 1). Un moyeu sera placé dans une em- preinte cylindrique solidaire du plateau tournant (actions représentées par la macro étape MIO) Poste 2 : chargement de la bague entretoise (pièce 2) qui sera placée à l'intérieur du moyeu sphérique (M2O). Poste 3 lubrification de lintérieur des deux pièces assemblées (pièces 1 et 2), ce qui facili - tera le mouvement de Yembout sphérique qui va être placé dedans (M3O) .
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2021
+Page : 5/8
 
+--- page 9 ---
+Concours MP-PC Epreuve S.TA.
+Mise en situation Données et Hypothèses
+Poste 4 : chargement de lembout sphérique (pièce 3) pour former ainsi lensemble de la rotule (M4O). Poste 5 : (M5O) sertissage du moyeu (figure 8). En effet, pour empêcher le démontage de Yensemble, on effectue un blocage en translation (sertissage) de la pièce 3 dans le lo- gement sphérique Ce blocage s'effectue par les actions suivantes descente de la tige du vérin V5 poussant le support des roues de sertissage dont laxe est mis en rotation au même moment, par à un moteur électrique à un seul sens de rotation KM5. la fin de course de cette tige est signalée par le capteur L51, déclenchant ainsi une temporisation de 2s. Cette durée permet l'écrasement de la tôle mince permettant le sertissage. une fois cette durée est écoulée, le moteur s'arrête et la tige revient à sa position initiale actionnant le capteur Lso.
+Vérin V5
+Courroie d'entrainement
+Direction de Teffort presseur
+Moteur électrique (KMS)
+Rotation imposée
+Galets de sertissage7
+vue en
+perspective par le bas (paroi externe cachée pour visualiser le mécanisme tournant) FIGURE 8 - Poste de sertissage
+Poste 6 (M6O) rodage et contrôle du jeu fonctionnel figure 9). En effet, après sertissage, la rotule peut être légèrement coincée sous leffet de lintensité du serrage Il faudra alors vérifier que le jeu fonctionnel est adéquat. Cette procédure se déroule comme suit sortie de la tige du vérin V61, et mise sous tension dun électro-aimant KA lié à celle-ci, ce qui permet le blocage de lensemble des pièces 1 et 2 dans lempreinte cylindrique: Un capteur L6l1 signale la fin de course de cette tige descente de la tige du vérin V62 (initialement en position sortie) permettant à la pince dattraper la tige à embout sphérique par simple coincement canonique grâce à trois doigts. Un capteur L62o signale la fin de course de cette tige. un moto-réducteur électrique à deux sens de rotation solidaire de la tige du vérin V62 entraine la pince en rotation pour effectuer un tour dans un sens KM61 signalé par le capteur n1, ensuite il effectue un autre tour dans le sens inverse KM62 signalé par le capteur n2. montée de la tige du vérin V62 libérant ainsi la tige de la rotule. Un capteur L621 signale la fin de course de cette tige de vérin. mise hors tension de lélectro-aimant KA et rentrée de la tige du vérin V61. Un capteur L610 signale la fin de course de celle-ci.
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2021
+Page 618
 
+--- page 10 ---
+Concours MP-PC
+Epreuve S.TA.
+Mise en situation, Données et Hypothèses
+Direction de descente de la tige du vérin V62
+Vérin V62
+Moto- réducteur
+Vérin V6l
+Pince conique
+Direction de sortie de la tige du vérin V61
+Électro-aimant de blocage solidaire de la tige de vérin
+FIGURE 9 _ Poste de rodage et de contrôle
+Poste 7 : évacuation de la rotule assemblée par le système de transfert parallèle (M7O) . Poste 8 nettoyage de Yempreinte cylindrique fixée sur le plateau. Ainsi, après chaque éva- cuation dune rotule, il est impératif de s'assurer de lélimination des débris ou de résidu de graisse (M8O) . Dès lachèvement des différentes actions dans les huit postes, le plateau effectue 1/8 de tour (459) grâce au moteur électrique KM qui lentraine: La nouvelle position est signalée Par un capteur Pr. Si un nouveau moyeu est présent au poste 1, signalé par un capteur P,le cycle recommence automatiquement; si non le système s'arrêtera jusqu'à une nouvelle action sur le bouton poussoir Dcy Remarque tous les vérins utilisés sont à double effet.
+C.3 Étude du système de commande du plateau Deux asservissements sont utilisés pour la commande du plateau
+Asservissement de vitesse du plateau Lasservissement de vitesse du moteur avec le plateau est caractérisé par le schéma de la figure 10
+Cr(p)
+Or (p
+€1 (p U(p) 10 R(p) 1o+p
+0.2 Qch  (p pTI
+FIGURE 10 - Asservissement de vitesse du moteur
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2021
+Page : 718
 
+--- page 11 ---
+1% : 2 1/ 8 8 1 / 1 1 1
+il 8 8i
+1 1 1 1
+g 2 ; 8
+1 I 1 1 % 1 Hhi 1 8 2 1 5 ; ; # 1 8 8 { H 1 ilk 8 ; '
+1 1 , 2 1 9 2 !
+;
+1 8 1
+5
+: 2 1 9
 
+--- page 12 ---
+s
+Dossier
+DOCUMENT REPONSES
+Ce dossier comporte 19 pages numérotées de 1 à 19 Partie A Conception mécanique pages de 1 à 3 Partie B Mécanique des Solides Indéformables pages de 4 à 12 Partie C _ Automatique pages de 13 à 19
+Un seul dossier document réponses' est fourni au candidat et doit être rendu à la fin de lépreuve, en totalité, même sans réponses.
+Le renouvellement ou la reproduction de ce dossier sont strictement interdits.
 
+--- page 13 ---
+Concours MP-PC
+Epreuve S.TA Partie A : Conception Mécanique
+Document Réponses
+Partie A
+Conception Mécanique
+Al: Compléter Yactigramme niveau AO du cinquième poste dédié au sertissage (figure 3).
+2 44825  ' : .
+8
+1 8 p
+2
+ `
+1{
+/ 8 p
+2
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2021
+Page : 1/19
 
+--- page 14 ---
+Concours MP-PC
+Epreuve S.TA Partie A Conception Mécanique
+Document Réponses
+A partir du schéma cinématique du poste de sertissage (figure 4) du document 'Mise en situation; Données et Hypothèse" , on demande de
+Jo
+A.2: Donner la désignation de chacune des liaisons en (A) et (B).
+(A)
+(B)
+galets de sertissage
+A.3: Montrer par un calcul statique que la liaison équivalente entre S1 et S2 est une liaison pivot d'axe (A,Jo)
+A.4:
+Par quels moyens peut-on réaliser cette liaison pivot entre S1 et S2 ? (Proposer deux exemples de solutions technologiques 
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2021
+Page 2/19
 
+--- page 15 ---
+Concours MP-PC
+Epreuve S.TA Partie A : Conception Mécanique
+Document Réponses
+A.5: Cocher la case qui correspond à la bonne réponse: Les cannelures constituent une solution technologique permettant le guidage en : translation rotation
+A.6:
+Compléter; sur le schéma cinématique de la figure ci-dessous, la liaison entre S1 et S3.
+courroie
+Moteur
+A.7: Déterminer le rapport des vitesses de rotation p
+N1 Faire Yapplication numérique. N6
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2021
+Page : 3/19
 
+--- page 16 ---
+Concours MP-PC Epreuve S.TA
+Partie B MSI
+Document Réponses
+Partie B : Mécanique des Solides Indéformables
+B.1 Étude Cinématique L'objectif de cette étude cinématique est d' exprimer les vitesses et les accélérations en translation des coulisseaux (2) et (3) en fonction de la vitesse et de laccélération angulaire àlentrée du mécanisme de transfert. B.l: Déterminer les torseurs cinématiques des solides qui suivent dans leurs mouvements par rapport au bâti (0) a. le solide au point A, Yexprimer dans la base B1(71,J1, Z) en fonction de L, 0
+{Y1/o}A
+b. le solide (2) au point A, lexprimer dans la base B1(z1 J1, Z0) en fonction de L, 0
+{1z/o} A
+le solide (3) au point C, Yexprimer dans la base Bo(z0,J0, Zo) en fonction de/i
+{~s/o}c
+B.2: Exprimer; dans la base Bo(70,70,70) , le vecteur position de A en fonction de d, } et ^. En déduire la vitesse de appartenant au solide (2) dans son mouvement par rapport au bâti (0) en fonction de j et i :
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2021
+Page 4/19
 
+--- page 17 ---
+Concours MP-PC
+Epreuve S.TA
+Partie B : MSI
+Document Réponses
+0À
+Ae2/0
+B.3: En déduire_ les expressions de j et 1 en fonction de L, 0 et 0
+1
+On se propose danalyser leffet de la périodicité de 0, sur le couple Cm développé par le mo- teur; en considérant la figure B.1 illustrant approximativement la variation de 0 en fonction du temps où T est sa période.
+T/2
+FIGURE B.1 = Évolution de langle de rotation 0 en fonction du temps
+B.4: Déterminer; en fonction de t et de la période T, les expressions de 0(t) correspondant respectivement à la première demi-période (0 < t < T/2) etla seconde (T/2 < t < T)
+B.5: En déduire la vitesse 0 associée à la première demi-période (0 < t < T/2) etla seconde (0 <t < T/2). Déduire que 0 est nulle sur une période:
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2021
+Page : 5l19
 
+--- page 18 ---
+Erratum
+Veuillez considérer la figure ci-dessous à la place de la figure B.2 de la page 6/19 du document réponses
+La manivelle (1) est représentée par le solide de la figure B.2
+f1 *G1
+FIGURE B.2 _ Géométrie de la manivelle (1)
+4
 
+--- page 19 ---
+Concours MP-PC
+Epreuve STA.
+Partie B MSI
+Document Réponses
+B.2 Étude dynamique et énergétique L'étude énergétique et dynamique vise à déterminer le couple développé par le moteur (M) ainsi que les expressions analytiques des actions extérieures s'appliquant au système 2 {1,2,3}
+B.2.1 Données et hypothèses 0 (t) est périodique figure B.1) et 0 est nulle Laccélération de la pesanteur est définie par g gJ0 avec 8 est une constante positive: Laction du moteur (M) sur (1) est modélisée par le torseur couple
+0 CmZo
+{9 (Moteur-l)}0 =
+Les masses des solides (1), (2) et (3) sont désignées respectivement par m; aveci = 1,2,3. Sachant que le coulisseau (2) intègre toutes les pièces  qui lui sont solidaires y compris le système de préhension (la masse de la rotule est négligée). Les centres d'inertie Gi de ces solides sont définis par les expressions vectorielles suivantes OG1 20 AG2 ~byo 7G; 0 où b représente une constante dimensionnelle positive Toutes les liaisons sont supposées parfaites. Il convient de retenir; pour ce problème plan, la notation représentant le torseur des actions mécaniques qu'exerce un solide (i) sur un solide (j) au point Q "centre géo- métrique de la liaison exprimé dans la base Bo(70,70,70) Bo Xij {9(i-j)}0 Yij Nij
+La manivelle (1) est modélisée par le solide schématisé par la figure B.2
+J1
+71
+Zo
+FIGURE B.2 - Modélisation de la manivelle 1
+B.6: Donner, après justification, la forme de la matrice dinertie de la manivelle (1) au point G1 dans la base B1(71,J1,Z). Cette matrice sera notée [IG  (1)]
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2021
+Page 6/19
++G>
 
+--- page 20 ---
+Concours MP-PC
+Epreuve STA.
+Partie B : MSI
+Document Réponses
+N.B. Dans la suite on notera par Iz le moment d'inertie de (1) par rapport à l'axe (G1, Z0) B.7: Déterminer les torseurs cinétiques et dynamiques des solides suivants dans leurs mou - vements par rapport au bâti (0) = Le solide (1) au point G1 ; Yexprimer dans la base B1(71,91,20) en fonction de m1 Iz L, 0 et ses dérivées
+{%61/0}G
+[{91/}G
+b. Le solide (2) au point G2; Yexprimer dans la base B1(7171,20) en fonction de m2 L, 0 et ses dérivées.
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2021
+Page 7/19
 
+--- page 21 ---
+Concours MP-PC
+Epreuve S.TA
+Partie B : MSI
+Document Réponses
+[{62/0}G2
+{92/o}G2
+c. Le solide (3) au point G3 ; Yexprimer dans la base Bo(70,J0,Z0) en fonction de m3 L, 0 et ses dérivées
+[{63/0}G;
+{93/0}G;
+G3
+B.8: Déterminer Yexpression de lénergie cinétique du système 2 {1,2,3} dans son mou - vement par rapport au bâti (0)
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2021
+Page 8/19
 
+--- page 22 ---
+Concours MP-PC Epreuve S.TA.
+Partie B MSI
+Document Réponses
+Ec(2/0)
+B.9: Compléter sur la figure B.3,linventaire des actions mécaniques extérieures appliquées au système 2 {1,2,3} 
+action extérieure actions mutuelles intérieures au système
+Moteur
+2
+3
+FIGURE B.3 Diagramme des actions mécaniques
+B.1O; Écrire les torseurs des actions extérieures et intérieures au système d'application respectif; en les exprimant dans la base Bo(70,Jo Z0)
+en leur point
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2021
+Page  9119
 
+--- page 23 ---
+Concours MP-PC
+Epreuve S.TA.
+Partie B : MSI
+Document Réponses
+B.1l: Déterminer les puissances développées par les actions mécaniques extérieures et in- térieures s' exerçant au système 'E) dans son mouvement par rapport au bâti (0).
+(5-+2/0)
+int (2)
+B.12: Appliquer le théorème de Yénergie cinétique au système (Z) dans son mouvement par rapport au bâti (0) pour déduire lexpression du couple Cm développé par le moteur
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2021
+Page 10/19
 
+--- page 24 ---
+Concours MP-PC
+Epreuve STA
+Partie B : MSI
+Document Réponses
+Cm
+B.13: Montrer que les extremums du couple Cm développé par le moteur sont solutions de cos 20 (m1/2) + m2 gT2 léquation sin 0 m3 472L
+B.14: Écrire les équations scalaires issues de lapplication du théorème de la résultante dynamique pour le système (Z) et les projeter sur 7 et Jo
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2021
+Page 11/19
 
+--- page 25 ---
+Concours MP-PC
+Epreuve ST.A
+Partie B MSI
+Document Réponses
+B.15: Écrire l'équation scalaire issue de Yapplication du théorème de la résultante dyna- mique appliqué au solide (3) dans son mouvement par rapport à (0) en projection sur Jo
+B.16: Écrire léquation scalaire issue de lapplication du théorème du moment dynamique en 0 appliqué au système (Z) dans son mouvement par rapport à (0)
+B.17: Utiliser les réponses aux questions B.14, B.15 et B.16 pour déterminer les actions mé- caniques, engendrées_par les liaisons, sur le système (2)
+Concours nationaux d'entrée aux cycles de formation d Yingénieurs
+Session 2021
+Page  12/19
 
+--- page 26 ---
+Concours MP-PC
+Epreuve S.TA.
+Partie C : Automatique
+Document Réponses
+Partie C : Automatique C.1 Étude du capteur de position angulaire
+Tableau 1 - Table de vérité du transcodeur à 3 entrées (Go, G1 et G2) et 3 sorties (Bo, B1 et B2)
+c1 Ense référant à la figure C.1 compléter le code Gray (BR) de la table de vérité ci-contre où Go représente le bit du poids_ le plus faible.
+Code (Gray ou BR) Code (BN) G2 G1 Go B2 B1 Bo
+FIGURE C.1 Chronogramme des trois si - gnaux GO, G1 et G2
+1
+1
+C.2: Compléter les tableaux de Karnaugh des sorties Bo, B1 et B2 placer les groupements et déterminer les équations simplifiées en fonction des entrées du transcodeur sous forme de somme de produit.
+Sortie Bo G1 Go 00
+01
+11
+10
+Bo
+Sortie B1 G1 Go 00 G2
+01
+11
+10
+B1
+Sortie B2 G1 Go 00 G2
+01
+11
+10
+B2
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2021
+Page 13/19
 
+--- page 27 ---
+Concours MP-PC
+Epreuve S.TA.
+Partie C : Automatique
+Document Réponses
+C.3:
+On veut minimiser le nombre d'opérateurs logiques. Une solution consiste à utiliser des fonctions logiques de type ou exclusif à deux entrées. Cette solution nécessitera seulement deux opérateurs. Compléter sur la figure C.2 le logigramme relatif aux sorties du transcodeur étudié.
+Go G1 G2
+Bo
+B1
+Bz
+FIGURE C.2 _ Logigramme du transcodeur en < Ou exclusif
+C.2 Étude séquentielle du système C4: Compléter les Grafcet de point  de vue commande des figures C.3 et C.4
+Dcy - (conditions initiales
+MIO
+M2O
+M3O
+M4O
+M5O
+M6O
+M7O
+M8O
+FIGURE C.3 Grafcet de point de vue commande du système d'assemblage des rotules
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2021
+Page 14/19
 
+--- page 28 ---
+Concours MP-PC Epreuve S.TA
+Partie C : Automatique
+Document Réponses
+N. B. La normalisation de la commande dun actionneur bistable Vn exige pour Yactivation, Vn := 1, la désactivation, Vn : = 0.
+E60
+61
+E50
+62
+51
+63
+52
+T5
+64
+53
+65
+S50
+66
+S6o
+FIGURE C.4 - Grafcet des macro-étapes MSO et M6O relatifs au fonctionnement des postes 5 et 6
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2021
+Page 15/19
 
+--- page 29 ---
+Concours MP-PC
+Epreuve S.TA.
+Partie C : Automatique
+Document Réponses
+Asservissement de vitesse du plateau A partir du schéma fonctionnel de lasservissement de vitesse donné par la figure 10 et en appliquant le théorème de superposition, la sortie du système s'écrit sous la forme Och  @ch (p)l et H2(p) Qc(p) (p) H1(p)or(p) H2(p)Cr(p) avec H1(p) @r(p) Icr(P) =0 Cr(p) lo(P)=0 s: Pour R(p) = K,déterminer 1expression de la fonction de transfert H1(p)
+H1 (p)
+C.6: On considère Cr(p) nul et R(p) = K = 1, mettre H1(p) sous la forme canonique suivante Km H] (p) 1+ 25P + p? Wo w8
+H1 (p)
+C.7: En déduire les paramètres Km, wo et z
+Km
+Concours nationaux dentrée aux cycles de formation d7 Yingénieurs
+Session 2021
+Page 16/19
 
+--- page 30 ---
+Concours MP-PC
+Epreuve S.TA.
+Partie C : Automatique
+Document Réponses
+Wo
+C.8: Que peut-on dire du premier dépassement "D1' ? Justifier.
+c9:A partir des figures 10et 11, donner les expressions des fonctions de transfert en Boucle ouverte Ti(p) et T2(p) respectivement des asservissements de vitesse et de position (avec R(p)= Ket Cr(p) = 0)
+Ti(p)
+T2(p)
+C.10: A partir des courbes de la figure C.5, tracées pour R(p) = 1,identifier les diagrammes des gains |lT (jw) lldB et |lT2(jw)ÏldB ainsi que ceux des arguments w1(jw) et 92(j0) 30
+8 {
+30
+60
+90
+120
+30 60 90 ~120 ~150 ~180 ~210 240 ~270 10-2
+]
+10-1
+100 101 Pulsation (rad / s) FIGURE C.5 Diagrammes de bode
+102
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2021
+Page 17/19
+
+--- page 31 ---
+Concours MP-PC
+Epreuve S.TA
+Partie C : Automatique
+Document Réponses
+Cll: Déterminer la bande passante de lasservissement de vitesse:
+Bp
+C12] Que devient cette bande passante pour Yasservissement de position?
+Bp
+c1] Déterminer les marges de gain et de phase relatives aux fonctions T1 (jw) et Tz(jw)
+MGIdB
+MG2dB
+Mp1 (%)
+Mp2 (%)
+C14] Conclure sur la stabilité de chaque asservissement.
+C15s] Pour Yasservissement de position; et en exploitant les diagrammes de Bode de la fi- gure C.5, déterminer la valeur du gain critique de stabilité Kc?
+Kc
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2021
+Page : 18/19
+
+--- page 32 ---
+Concours MP-PC Epreuve STA
+Partie C : Automatique
+Document Réponses
+C16: Pour Yasservissement de position, déterminer la valeur de K qui garanti une marge de phase Mp 60"_
+K
+C17: Déterminer lerreur de position unitaire de lasservissement de_vitesse pour K = 1
+{1p(%)
+E8] Déterminer ]erreur de position unitaire de lasservissement de position pour K =1
+e2p (0)
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2021
+Page 19/19

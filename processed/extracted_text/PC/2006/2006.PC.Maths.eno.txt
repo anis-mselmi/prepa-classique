@@ -1,4 +1,91 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Mininero d [Enscignemcnt Supericur Cancoary mado "cirk Jdl (oranajhhinn
+1;@Hiffuss 1 @kauyla4is Janwaa Ualhhinxya 2806 !~
+Concours Physique et Chimie Epreuve de Matbématiques
+Durée 4 H
+Date 05 Juin 2006
+Heure 8 H
+Nb pages 5
+Barème Exercice
+pts. Problème Partie I : 6 pts. Partie [ : 10 pts.
+Une grande importance sera attachée à la rigueur du raisonnement à la clarté et au soin de la présentation L'usage des calculatrices n'est pas autorisé. Il est rappelé que tout résultat énoncé dans le texte peut être utilisé pour traiter la suite, même s'il n'a pu être démontré
+Exercice
+Pour tout n € IN , n 2 2,on note Mp( C) lalgèbre des matrices carrées dordre n à coetficients dans C et In la matrice identité
+Pour toute matrice M de Mn( C), on désigne par P le polynôme caractéristique de M et par Sp ( M le spectre de M. Soient a 0 2 1 a n -1 e C. On note et les matrices de Mn( C ) définies par
+a0 91 a2 an-I *0 91
+80-1 8n-2
+Cl
+A =
+82 81 22
+80 81 àn- 80
+On désigne par Fcndomorphisme dc € canoniqucment associé à 1
+26g9ey
 
+--- page 2 ---
+1.2. Sit k un élément de {1, 2, ',n } 1"k+n ? si 15 k < p Montrcr que u%(ck ) = pur lout p * 1 , 2 , . ,n - |  Ck-p si p< k < n (u (e1 e n ) cst la basc canoniquc de €"
+Lb. Montrcr que J " = I n et que A = a0 [n + a1J + + a n-1Jn -
+2.- Montrer que la famille [n ,J ,_Jn - )  est libre. 2.b. Montrer qu'il n'existe pas de polynôme non nul de degré inférieur ou égal à n - 1 annulant J 2i1 2.c. En déduire que Sp ( J ) = {0* ,k = 0,,n-1 } où 0 = e et que PJ (X) = (~1) "(X" _ 1) _
+3. Diagonaliser puis A
+On suppose que a k = k + ] , k = 0 , ,n - 1. Calculer le déterminant de la matrice A
+Problème
+On note E le [R- espace vectoriel des fonctions continues de IR + dans RR _
+Soit F le sous-espace vectoriel de E constitué des applications polynomiales pour tout entier naturel on note Fn le sous-espace vectoriel de E des applications polynomiales de degré inférieur ou égal à Les éléments de F peuvent aussi être considérés comme des polynômes
+On désigne  par T et 0 les endomorphismes de E définis par
+X+l f (x) et 0( f )(x) = f (t)dt .
+V f € E et V x > 0 T ( f)(x )
+f (x +1 )
+Partie [
+LLL.
+Montrer que F est stable par [
+112 Pour P € F calculer le degreé de T ( P ) en fonction du degre de P _
+1.2
+On note A Fendomorphisme de F induit par T _
+1.2.[. Montrer que le novau de
+est égal à Fo
+1.2.2 Montrer que admet unc unique valcur propre Quel est le sous-espuce propre' :ssocie '
 
+--- page 3 ---
+13. Soit IN 13.1 . Montrcr quc |' 'imavc par A de 'Fn cst éval à Fn. ! 13.2 Soit (;a {P < Fn ' P(() =0 } Montrer quc réalisc un isomorphisme dc (; n sur F n-! 13.3. Détermincr A € Fa dc sortc que pour tout x € Jo;+æ [ , A ( X + 1 ) - A ( X ) X ' et A ( 0 ) = 0.
+En déduire la valeur de k3 k =1 On note C1 Fespace vectoriel des fonctions continues et I-périodiques sur [R +
+[4
+[41.
+Déterminer  Ker T
+1.4.2. Montrer que f € Ker0
+f € KerT et 0(f XI) = 0.
+143. On munit C1 du produit scalaire ( . /.) défini par (f /g ) Jo f(t)g(t)dt pour tous f et g éléments de C1 . Pour tout n eNN on note eo la fonction définie sur IR par :
+en ( t ) = 2 cos 2unt ) Montrer que (en est une famille orthonormale de Ker T neIN KerT est-il de dimension finie ?
+15.1
+Soient f et g deux éléments de E. Montrer que si T ( f) =g alors pour tout  entier naturel non nul
+et pou tout x de ] n, n+1] .f(x ) = f(x -n ) + 2 g(x-i) i=1 15.2. En déduire que T est surjectif . On pouna considerer d'abord le cas où est prolongeable en 0
+L5.3. Montrer que 0 ( f ) est de classe C sur IR cst-il surjectif ? Déterminer l'image de €
+Partie II
+IL.L.
+Pour tout n e IN un définit la fonction u n de IR dans UR par V x 2 0 _ u n (x) x Log ( 1 + x
+[L.L.L Montrer que la série de fonctions dc tcre général u n converve simplement
+sl IR
 
+--- page 4 ---
+[Jans tue la suite du problèmnc 2un Est notéc $ ct désivn: la valcur de $ (1) 9 =I IL.1.2. Monurcr quc s cst dc classe ( gur IR et quc V x 2 ( , $ ( x ) = É(2-24) n21 n + X
+[L13. On se propose de calculcr 0(S)(1) .
+I1.1.3.1. Montrer que pour tout n € IN
+3 3 Eo(un)(1 ) = 2", (1)+ Log(N +I)+2Log 2+Log (NI) +N-(N+ 2)Log(N +2) _ 2 2 n=I n=1
+3 1L.13.2. En déduire que 0(S)(1) = Y-2Log 2+Log v 21 -2 . 2 On rappelle la formule de Stirling N ! 2n N e -N NN
+II2.
+On se propose de montrer qu'il existe un unique élément f de E vérifiant V x e ]o.- [ 0(f)(x) = Log (x) (1 ) f est croissante sur Jo,+œ [
+II2.1. On suppose qu'il existe deux éléments f , et f2 de E vérifiant ( 1 ) et on note 8 f1 -f2 [L2.1.1. Prouver que 8 € Ker 0 En déduire que pour tout x € Jo,1 ] et pour tout n € IN 8 (x ) = 8 ( x +n) et 6 ( n ) = 6 ( 1 ) _ 11.2.1.2 Montrer que pour tout x eJo,1 ] et pour tout n e IN " < 5 (x) -8(1) < ! En déduire que f, = fz _ IL2.2. Montrer que la fonction f définie sur IR * par f( x ) = -Y - +$   x est / 'unique élément de E véritiant ( 1 )
+[I3.
+On se prpose de montrer qu'il existe un unique élément g de E_vérifiant
+V x € Jo, +œ [ 0(g)(x) = x Log (x ) =x + Logv 21 (2 ) g(1) = 0 g cst € sur Jo. +œ [et g ~ Cst croissante sur Jo,+œ [ ~
+ILJ.L Montrcr que si g véritie ( 2 aors g veritic ( 1 ) 1L3.2. Montrcr quc la lonction 8 Jélinic sur IR [2 g (x ~Yx - Log x +S(x cst unique élemini Jc E véritiant ( 2 }
 
+--- page 5 ---
+11.4.
+Pour tout n € IN ` on définit la fonction 'a de IR dans IR pa
+n!
+1 x > () W na
+X(x + I)-. (x#n)
+IL4.1. Montrer quc V x > 0 = [og (w (x)) tend vers B(x) quand n lend vers 4 0
+[L.4.2. Pour tout n € IN on définit la fonction [ n de IR dans [R par In (x) = Jo (1-t) " t *-'dt. ^ [L.4.2.1. Déterminer |ensemble de définition de la fonction [n
+I1.4.2.2 Prouver que pour tout n € [N '@t pour tout x eJo,+æ [ , n*I,(x) = [" (1-2)"t*-'dt. [1.4.2.3. Trouver une relation entre I n (x) et In-1(x+l)  En déduire ['expression de In (x) en fonction de n etde X 
++a On considère la fonction F définie sur [R + par T (x) = fc e~tt*-'dt_ [5.1. Montrer que la fonction T est Cl sur Jo;+œ [ et  que +0 Vx > 0 , F'(x) = Jo 'Log(t)e-'  x-Idt _ IL5.2. Montrer que lim ["(-2)"*-'dt F (x ) . n-+0 En déduire que T( x ) exp ( g (x ) ) . TL X 1L53. Montrer que pour tout x € Jo.+œ [ , ~|++x) Ix) ~1-1+S (x ) . [(x) IL5.4 Montrer que pour tout x € Jo. [ _ 'lm+v T'x) (1 k -[ =Y = 1 x k F(x) k+l n=[ k=
+Il5.5. On admet que Fon peut intervertir dans la tormule précédente les deux sommations 4.5.5.1. Déterminer le rayon de convergence de la série entièr (-1) 2c| E(-1)k+5(k +1) 4 & où 5(k) = 2 kzI n3/ 5.52. Prouver que pour tout eJ0.  [ . [(x+1) exp ( - Yx (~1*M5(k) ) k = 2 E(f 5.6 Démontrer alors quc 1 Log(t)e " dt ~Y

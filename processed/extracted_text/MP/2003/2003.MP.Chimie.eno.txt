@@ -1,3 +1,64 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministèrz de {'Enseignernent Supérieur et de la Recherche Scicntifique ct de la Technologie
+Concours   Nationaux &Entrée auz Cycles de Formation  dIngénieurs Session: Juin 2003
+Qreparatoire 0 (BIBUOTHEQUE ) Concours Mathématiques et Physique Aux € ) etudes 5 Epreuve de Chimie Date Samedi 1 Juin 2003 Heure 8 H Durée : 2 Heures Nbre pages: 4 Barème: Problèmne I: 8 points Problème II: 4 points Problème III: 8 points L'usage dune calculatrice non programmable est autorisé Les candidars doivent justifier leurs réponses aumoins en quelque lignes: Problème 1
+On connait les potentiels normaux d' électrodes suivants: ET{Al3+/ Al (sd)} = - 1,66 Volt ; E'T{AI(OH)4- / Al (sd)} = 1,17 Volt.
+ET{H+l Hz (g} = 0.00 Volt
+"Alatempérature ambiante: le produit de solubilité de AI(OH)3 solide est: Ks = 10-32,6 le pKa du couple acidelbase AI(OH)3 (sd)Al(OH)4- est: pKa = 13; le produit ionique de [eau est: Ke = 10-14.
+1) On augmente à volume presque constant le pH dune solution de nitrate d'aluminium Al(NOs)3 10-2 Men ajoutant un faible volume d une solution de soude 1 M. a) Pour quelle valeur du pH peut se produire une précipitation ?
+b) Pour quelle valeur du pH lentité AI(OH)4- est-elle prépondérante par rapport à Al(OH)3 (sd) ? c) En déduire les différentes formes prédominantes de ['aluminium (IIL) en fonction du PH 2) a) Etablir la relation qui permet de calculer la valeur du potentiel normal rédox du couple AI(OH)3(s)/Al à partir de la valeur de Ks de Ke etdu potentiel noral rédox du couple A/3+} Al (sd) . b) Déterminer cette valeur.
+3) a) Donner les expressions des potentiels d'électrode pour les couples rédox: a) Al3+/ Al (sd); 8) AI(OH)3(sd)/Al (sd); Y) AI(OH)4-/AI (sd) b) Calculer leurs valeurs dans le cas où les concentrations molaires de Al3+ et de Al(OH)4 sont
+toutes les deux égales à 10-2 molL-1.
+Concours   Mathématiques et Physique Session Juin 2003
+Epreuve de Chimie
+Page 1/4
 
+--- page 2 ---
+c) Tracer les courbes E = f(pH) correspondantes dans le plan {EpH} Onprendra comme échelle 1 cm pour une unité de pHet 1 cm pour 0.2 volt: d) Indiquer sur le diagramme {E,pH} les formes prédominantes pour les diverses régions du plan 4) Représenter sur ce même diagramme la droite qui donne la variation du potentiel rédox en fonction du pH pour le couple H+lH2(g) quand la pression du dihydrogène est égale à 1 atm.
+5) a) L'attaque de laluminium par les acides avec dégagement de dihydrogène est-elle thermodynamiquement possible à pHégal à 2 ? b) L'expérience montre qu'un système contenant de ['aluminium et de l'acide chlorhydrique à pH égal à 2n'évolue pas. a) De quel type d'équilibre s'agit-il ? 8) Donner lallure des courbes intensité-potentiels qui permettent d'expliquer pourquoi Faluminium n'est pas attaqué par les acides à pHégal à 2 € L'aluminium peut-il être attaqué par [eau à pHégal à 12 ? Dans ['affirmative écrire /'équation chimique de la réaction observée . a) Comment peut-on réaliser la protection anodique de ['aluminium ? b) Quel est l'intérêt de cette protection ?
+Problème II
+On considère 2équation chimique symbolisée par 2 A + 3 B + 8 H+ ~> 2C + 3 D + 7 H2O (1) Les entités chimiques A,B,Cet D sont neutres ou chargées et la réaction (1) se produit en solution
+On étudie cette réaction àpHet à température constants en réalisant une première expérience avec des concentrations initiales de A et de 8 particulières. Les cocditions expérimentales et les résultats sont rassemblés dans le tableau suivant :  [AJo = 1,08 10-3 moLL-l : [BJo = 80 10-3 mol.L-l ; [Ftlo = 270 10-3 moLL-l 
+t /(min)  0 10 1O3[A] /(moL.L-1) 1,08 0,85
+20 30 0,67 0,53
+40 0,42
+50 0,32
+60 0,26
+80 016
+1) Quelle équation de vitesse peut-on prendre par bypothèse pour la réaction (1) ? On désignera par a, B e y les ordres partiels par rapport à A, par rapport à B et par rapport à H+ respectivement. 2) a) Montrer que dans les conditions de cette première expérience ['équation de vitesse prise par hypothèse peut se mettre sous la forme: V1 = k'1[AJa b) Préciser ['expression de la constante cinétique apparente k1 - 3) a) Déterminer [ordre partiel a par la méthode intégrale utilisant les temps de demi-réaction. b) En déduire la valeur dek'1.
+Concours Mathématiques et Physique
+Session Juin   2003
+Epreuve de Chimie
+Page 2/4
 
+--- page 3 ---
+4) L'ordre partiel B par rapport à B est déterminé à partir d'une deuxième expérence où les réactifs A et B sont en proportion stœchiométrique et la concentration en ion hydrogène est maintenue constante et égale à 0,405 moL.L-L. a) Montrer que dans les conditions de cette deuxième expérience l'équation de vitesse prise par hypothèse peut se mettre sous la forme V2 =k2[AJa+8 . b) Préciser l'expression de la constante cinétique apparente k' 2- c) Déterminer l'ordre partiel par rapport aux ions hydrogènes H+ sachant que la constante cinétique  k2 est égale à 1 mol-1 Lmin-1 etlordre 8 par rapport à B est égal à 1 5) La réaction entre A et B peut-elle être considérée comme une réaction élémentaire ?
+Problème Le diagramme binaire isotherme liquide vapeur de la propanone (symbolisée par A) et du sulfure de carbone (symbolisée par B) à la température de 35*C est représenté par la figure ci-dessous.
+P Kmn H9
+8 = 35'c
+I
+550
+I
+I
+XB , 48
+0,2
+0,5
+0,66
+B
+La composition est exprimée en fraction molaire du composé B . Soit xB la fraction molaire de B dans la phase liquide et soit yB la fraction molaire de B dans la phase gaz. 1) Le mélange de propanone et de sulfure de carbone est-il un mélange idéal ? 2) Indiquer la nature des phases dans les domaines I, II, III et IV. 3) a) Comment appelle-t-on le mélange de composition XB = 0,66 dans ce système ? b) Citer deux propriétés importantes de ce mélange.
+Concours Mathématiques et Physique
+Session   Juin   2003
+Epreuve de Chimie
+Page 3/4
 
+--- page 4 ---
+4) a) Tracer en fonction du temps la courbe de compression d'un mélange gazeux de A et de B dont la fraction molaire en 3 est: YB = 0,2. Indiquer sur chaque portion de la courbe la valeur de la variance et la nature des phases en présence. b) Interpréter les différents changements de pente observés sur la courbe de compression. 5) Un mélange liquide forné de A et de B commence à bouillir sous la pression de 550 mmHg à la température de35 C. Déterminer: a) La fraction molain du composé B (xB) au moment de l'ébullition. 5) La fraction molaire du composé B (yB) dans la première bulle de vapeur. 6) Un mélange liquide formé de 7 mol de A et de3 mol de B est détendu jusqu'à la pression de 550 mmHg à la température de 359C. a) Déterminer les quantités de matière de la phase liquide etde la phase vapeur à cette pression. b) Déterminer la quantité de matière du composé B dans la phase gaz dans le système à léquilibre souS cctre pression. 
+FIN.
+
+    
+
+  
+Concours   Mathémstiques et Physique
+Session   Juin 2003
+Epreuve de Chimie
+Page 4/4

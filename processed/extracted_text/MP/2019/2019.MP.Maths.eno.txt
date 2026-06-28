@@ -1,63 +1,73 @@
 --- page 1 ---
-République Tunisienne Ministère de PEnseignement Supérieur et de la Recherche Scientifique Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs Session 2019
-4j2 9 42 {2*u?)govpe Guajega Lijubji @1blJji 0iJi 0485 12l> ) 2019 *9'
+République Tunisienne Ministère de PEnseignement Supérieur et de la Recherche Scientifique Concours Nationaux dEntrée aux Cycles de Formation dIngénieurg Segsion 2019
+13ji L J9643 i 821*?i8e1) Gusjeg JZw Ulji =1BLLJi 0iJi 0u5 j2l J] 2019 * 9'
 Concours Physique et Chimie Epreuve de Mathématiques
-Date: Lundi 10 juin 2019 Heure: 8H Durée 4H Nbre de pages : 4 Barème Problème 1 : 9 points Problème 2 1l points
-La qualité de la rédaction et de la présentation; la clarté et la précision des raisonnements entreront pour une part importante dans Fappré- ciation des copies. Lusage des calculatrices n'est pas autorisé. Tout résultat fourni dans lénoncé peut être admis et utilisé par la suite, même s'il n'a pas été démontré.
+Date: Lundi 10 juin 2019
+Heure: 8H
+Durée 4H
+Nbre de pages Problème 1 :9 points Problème 2 1l points
+Barème
+La qualité de la rédaction et de la présentation, la clarté et la précision des raisonnements entreront pour une part importante dans Fappré- ciation des copies. Lusage des calculatrices n'est pas autorisé. Tout résultat fourni dans lénoncé peut être admis et utilisé par la suite même s'il n'a pas été démontré
 Problème 1
 Partie I :
-Pour tout entier naturel n, on pose un = ~JIn(t) t"at et 1 = J I()dt:. t2 1 1. Justifier lexistence de I. 2. Soit g la fonction définie sur ]0,1 [ par 8 (t) = {In (4 . Montrer que 8 se prolonge par continuité sur 1 _ t2 [0,1] et qu'il existe M > 0 tel que |g(t)| < M; pour tout t ej0,1[ 3 En déduire que pour tout entier naturel n, on a 
+Pour tout entier naturel n, on pose un = J 1 (t) t"dt et 1 = In()dt t2 _ 1 1. Justifier lexistence de I. tIn (t) 2. Soit g la fonction définie sur ]0,1[ par t2 Montrer que g se prolonge par continuité sur [0,1] et quil existe M > 0 tel que |g(t)| < M, pour tout t €jo,1[ 3. En déduire que pour tout entier naturel n, on a
 M 2n + 2'
-U2k k=0
-n
-+0
-1
-4. Calculer un en fonction de n et en déduire que =L k=0 (2k + 1)2
+"2k k=0
+Calculer un en fonction de n et en déduire que =[ (2k + 1)2 k=0
 Partie II
-+0
-Soit H la fonction définie pour x > 1 par H(x) =M1 On considère la fonction F définie par n=1 nx
-+0 arctan (I2 F (x) = dt. (1 + t2)
-On rappelle que pour tout réel t > 0, on a : arctan (t) + arctan (2) =z 1. Justifier que F est définie et continue sur R et calculer F (1) 2 Montrer que F est de classe Cl sur ]0,+%[ et que pour tout réel x > 0 tel que x # 1 on a :
-1
-+0
-t
-F' (x) = 1 - x2 Jo
-dt. t2 + x2 1+t2
+Foo Soit H la fonction définie pour x > 1 par H(x) = On considère la fonction F définie par nx 1=1
++oo arctan (E F (x) = J dt. (1+t2)
+On rappelle que pour tout réel t > 0, on a arctan (t) + arctan
+2 1. Justifier que F est définie et continue sur R et calculer F (1)  2. Montrer que F est de classe Cl sur J0, +œ[ et que pour tout réel x > 0 tel que x # 1 on a
++oo
+F' (x) = 1 _ x2
+dt. 72+x2 1+t2
 
 --- page 2 ---
-Concours Pbysique et Chimie
+Concours Physique et Chimie
 Epreuve de Mathématiques
-Page 2 sur 4
-3 En déduire que, pour tout réel y €J0,1[ on a : F() = J' J(xdz x2 _ 1 Tt2 +0 1 4 En déduire que I = et conclure que 8 n2 6 n=1
-5 Décomposer en éléments simples la fraction rationnelle R = X(X+1)5 +0 1 Tt2 6 En déduire que =2 n(n+1)2 6 n=1
-Partie III Soit (@, T ,P) un espace probabilisé, ^ € Rt et (X,Y) un couple de variables aléatoires sur Q x Q à valeurs dans N* x N, vérifiant pour tout (n,k) € N* x N,
-1
-P(X=n,Y =k) = (n+1)745' 1 1 Calculer pour n € N* , P (X =n) et en déduire que ^ = 2 = 4 2 Justifier que X admet une espérance E (X) et Calculer E (X) _  ` s 3. Justifier que X nadmet pas de variance. 1 [ 4 Calculer pour k € N, P(Y =k) en fonction de H (k +3) _ +o 5 En déduire que E(H(k) = 1) = 1. k=2 +0 ( 2 6 Montrer que lim 2 =l X-++0 n=2 n 7 En déduire un équivalent de la suite de terme général v = P(Y = k), quand k - +0. 8 Montrer que Y admet une espérance et une variance
+Page 2 Bur 4
+In (x) dx. x2 =1
+3. En déduire que, pour tout réel y €j0,1[, on a : F(y) = Tr2 +oo T2 En déduire que I = et conclure que n2 n=1
+5. Décomposer en éléments simples la fraction rationnelle R = X(X+1)7' +0 T2 6. En déduire que =2 n=1 n(n +1)5
+Partie III
+Soit (0,T,P) un espace probabilisé, 4 € R4 et (X,Y) un couple de variables aléatoires sur 0 x Q à valeurs dans N* x N, vérifiant pour tout (n,k) € N* x N,
+P(X=n,Y =k) (n+1)745'
+Calculer pour n € N , P (X=n) et en déduire que ^ = 2 = 4 2. Justifier que X admet une espérance E (X) et Calculer E(X) . 3. Justifier que X n'admet pas de variance. Calculer pour k €7 N, P (Y =k) en fonction de H(k+3) - +co 5. En déduire que 2(H(k) = 1) =1 k=2 +0 6. Montrer que lim =l X +o n=2 7. En déduire un équivalent de la suite de terme général v = P(Y = k), quand k = +0. 8 Montrer que Y admet une espérance et une variance.
 Problème 2
-Pour n € N, n > 2, on note Mn(R) Yespace vectoriel réel des matrices carrées dordre n et In sa matrice identité. Pour A € Mn (R), det(A) le déterminant de A, 'A : la transposée de A et Tr (A) la trace de A. Pour tout réel ^ et toute matrice A € Mn(R), Ex (A) = ker ( A AIn) _ GLn(R) = {A € Mn(R)/ det( A) +0} - Sn(R) = {A € Mn (R)/ #A = A} et An(R) = {Ae Mn(R)/ #A= -A} On(R) = {A€ Mn(R)/ tAA = In} et SOn(R) = {A€ On(R)/ det(A) = 1} SLn(R) = {A€ Mn(R)/ det(A) = 1} Une matrice diagonale, dont les valeurs diagonales sont 41, À2, - An, est notée diag (A1, À2, v   An) R" est muni de la norme euclidienne associée au produit scalaire usuel () -
+Pour n € N, n 2 2, on note Mn(R) lespace vectoriel réel des matrices carrées dordre n et In sa matrice identité. Pour A € Mn(R), det( A) : le déterminant de A, 'A :la transposée de A et Tr (A) : la trace de A. Pour tout réel / et toute matrice A € Mn(R), Ea (A) = ker ( A AIn) GCn(R) = {A€ Mn(R)/ det( A) +0} . Sn(R) {A€Mn(R)/'A= A} et An(R) = {A€ Mn(R)/ 'A = -A} On(R) = {A€ Mn(R)/ 'AA = In} et SOn(R) = {A€ On(R)/ det(A) = 1} SLn(R) = {A € Mn(R)/ det(A) = 1} Une matrice diagonale, dont les valeurs diagonales sont À1,42,. . . , An, est notée diag (A1,42,.  . , An)  R" est muni de la norme euclidienne associée au produit scalaire usuel ( ) .
 
 --- page 3 ---
-Concours_Physique et Chimie
+Concours Physique et Chimie
 Epreuve de Mathématiques
 Page 3 gur 4
-On admet les deux résultats suivants Vinégalité arithmético-géométrique Soit X1, X2, Xn' n réels strictement positifs. Alors X1 + X2 + + Xn X1X2 Xn n
-De plus, ily & égalité si et seulement si x1 = X2 = = Xn. Linégalité de Hadamard Soit A € GLn(R) et X1, Xz, - Xn les vecteurs colonnes de A. Alors
-Idet(A)| < IlX1 IlIl Xz /l Ilxn Il'
-(**) -
-De plus, il y a égalité, si et seulement si, la famille (X1, Xz, - ,Xn) est orthogonale.
-Partie I.
-2 1. Montrer que si A = (aij)isijsn € Mn(R) alors Tr('AA) = (aij) es I<i,j<n  2 cos0 sin0 2. Pour 0 € R, on note Re =: Justifier que SO2(R) = {Re ; 0 € R}   sin0 cos0 3 Soient 01 et 02 deux réels. Calculer le produit R0 [ Rez' e En déduire que, pour tout entier naturel k et 0 € R, on a : (Rp)k = Rke.
-Partie II On considère lapplication : f : SLn(R) =+ R AF + Tr('AA) . 1. Dans cette question; on suppose que n = 2
-7 
-a
-b
-(a) Soit A =
-€ SL2(R) Vérifier que 2ad < 02 + d2 et ~2bc < b2 + c2 et en déduire que
-3. . 
-f(A) € [2,+0[ (b) Montrer que f (A) = 2, si et seulement si, A € SO2(R) 1
-1 X
-(c) En utilisant la matrice Mx = 0 1
-x € R,justifier que Imf = [2,+0[
-2 Dans cette question, on suppose que n 2 2 Soit A € SLn(R) et X1, Xz, . .  ,Xn les vecteurs colonnes de A.
-(a) Vérifier que : f (A) = Zllxill? . i=l
-(b) En utilisant linégalité de Hadamard (**), montrer que 1 < #ux;? (c) En déduire, par Yinégalité arithmético-géométrique (*) , que f(A) 2 n. Conclure que Imf € [n,+o[ (d) Montrer que si f(A) = n, alors la famille {X1 Xz, '    Xn} est orthonormale. (e) Conclure que f-~1({n}) = SOn(R). (f) Montrer que Imf = [n,+o[
+On admet les deux résultats suivants Vinégalité arithmético-géométrique Soit X1, X2, Xn, n réels strictement positifs. Alors X1 + X2 + . + Xn Vxix2.. Xn <
+De plus, il y a égalité si et seulement si X1 = X2 = . = Xn. Linégalité de Hadamard Soit A € GCn(R) et X1, Xz . . . ,Xn les vecteurs colonnes de A. Alors
+det( A)| < IlX1llll Xzll Ilxn|l , De plus, il y a égalité, si et seulement si, la famille (X1, Xz, Xn est orthogonale.
+Partie I
+Montrer que si A = (aij)1sijsn € Mn(R), alors Tr(tAA) 2 (aij)? . Isij<n
+cos8
+sin0 2. Pour 0 € R, on note Re Justifier que SO2(R) = {Rp; 0 € R} sine cos0 3. Soient 01 et 02 deux réels. Calculer le produit Re Rez' En déduire que, pour tout entier naturel k et 0 € R, on a : (Re)k Rke.
+Partie IL On considère lapplication f : SLn(R) =+ R A + + Tr('AA) . Dans cette question, on suppose que n = 2
+(a) Soit A
+SL2(R). Vérifier que 2ad < a2 + d2 et ~2bc < b2 + c2 et en déduire que
+f(A) € [2,+0[
+(b) Montrer que f (A) = 2, si et seulement si, A € SO2(R)
+(c) En utilisant la matrice Mx
+x € R, justifier que Imf = [2,+o[
+2. Dans cette question; on suppose que n 2 2 Soit A € SLn(R) et X1, Xz . . . , Xn les vecteurs colonnes de A.
+(a) Vérifier que : f(A) = Ellxal?
+(b) En utilisant Yinégalité de Hadamard (**) , montrer que 1 <
+IIXill? .
+(c) En déduire; par linégalité arithmético-géométrique (*) que f(A) 2 n. Conclure que Imf € [n,+œ[ (d) Montrer que si f(A) = n, alors la famille {X1, Xz . . . , Xn} est orthonormale. (e) Conclure que f-1({n}) = SOn(R) (f) Montrer que Imf [n,+"[
+
+--- page 4 ---
+Concours Physique et Chimie
+Epreuve de Mathématiques
+Page sur
+Partie III
+On considère Yapplication h Sn(R) = + Sn(R), M- + M3 . On se propose de montrer que h est bijective Soit A € Sn(R). (a) Justifier qu'il existe P € On(R) et une matrice diagonale D diag(a1, 42, An) , où, Ai € R i =1,,n, telles que A = PD'P (b) En déduire quil existe M € Sn(R) tel que M = A. Conclure que h est surjective. Soit Met N € Sn(R) tels que h(M) = h(N) = A. Soit {41,À2,.. . , Ap} Tensemble des valeurs propres de M avec Ai # Aj pour i # j. (a) Montrer que, pour tout i € {1,2,... p} on a Ev; (M) € E;(A) (b) Justifier que R" = 0 Ex; (M) = 8E,(A) i=l i=1 (c) En déduire que, pour tout i € {1,2,,p}, on a Ev(M) = E,;(A). Justifier que, pour toute valeur propre & de N, on a : Ev(N) = Ea (A), et que par la suite, & est une valeur propre de M. (e) Montrer, alors, que M = N. Conclure.
+3. Etude dun exemple Soit A = 2
+Déterminer la matrice M =h-1 (A) .
+Partie IV
+On considère pour un entier k > 2, Yapplication gk Mz (R) 4 Mz(R), MF + Mk. On se propose de montrer que Az(R) € Im (gk) et de déterminer S2(R) nIm (gk)  Soit A € Az(R). (a) Justifier quil existe ^ € R+ tel que A = ARz ou A = AR_4 (b) Montrer qu'il existe 0 € R tel que gp(Re) = Rz (c) En déduire une matrice M € Mz(R) telle que &k(M) = A. Pour A1 et 12 € R, on considère la matrice D = diag(41, 42) . On suppose dans cette question quil existe une matrice M € M2(R) vérifiant M?k D a) Justifier que MD = DM. (b) En déduire que si À1 # 12, alors M est une matrice diagonale_ (c) Montrer que si A1 < 0, alors A1 = 12 3. Pour tout réel positif &, calculer (œRz En déduire que si D = A1I2, avec 41 < 0, alors il existe une matrice M€ M2(R) telle que M2k = D Soit A € S2(R). Donner une condition nécessaire et suffisante sur les valeurs propres 41 et À2 de A pour que A € Im (g2k) Fin de lépreuve Remarque On pourra généraliser le résultat de la partie IV au cas n 2 2 En effet, si A € An (R) alors il existe P € On(R) et D diag (0,. ',0, A1' ' "As) avec Ai € Az(R) tels que A = PDP-1 puis on utilise le résultat de la partie IV. On pourra ainsi en déduire qu'une matrice symétrique A € Imgzk, si et seulement si, toute valeur propre négative ^, de A, est de multiplicité paire Fin de lénoncé

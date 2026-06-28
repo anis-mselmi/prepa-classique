@@ -1,15 +1,326 @@
+--- page 1 ---
+STI Technologie
+Dossier Présentation; Données et Hypothèses
+SYSTEME
+TRAQUEUR DU SOLEIL
+MISE EN SITUATION En plus de leuts impacts négatifs sur Penvironnement; les   énergies fossiles s'épuisent. Elles doivent être abandonnées  progressivement: Lavenir   appattient, sans   le moindre   doute; aux énergies alternatives renouvelables Parmi toute la diversité, lénergie solaire fait rêver grand monde. Propre; moins aléatoire et plus facile à captet que Pénergie éolienne; elle durera autant que dureta la planète. Une   attention   particuliète est attirée au solaire thermodynamique Dans ce secteur, lénergic solaire est ttansfotmée en énergie Figure Centrale thermodynamique (ou centrale CSP)  électrique à laide de centrales thermodynamiques ou centrales CSP (Concentrate Solar Power : Figure 1)
+La concentration du tayonnement solaire Centrale à tour permet &atteindre localement des températures élevées.  Elles permettent de chauffer un  fluide Réceptcur caloporteur:. La chaleur emmagasinée est ensuite convettie en vecteuts énergétiques comme Pélectricité, Phydrogène, Ou encore utilisée directement dans des   procédés  industtiels. Le principe   de conccntration est téalisé par une centrale CSP dite à tour > (figure 2) pour laquelle une multitude de   mitoirs   orientables, Hélosta.s appelés héliostats,   concentrent Pénergie   solaire sur une chaudière unique située sur une tour. Figure 2 : Centrale CSP à tour: Cela rend possible le réchauffement de fluides caloporteurs; en général de Phuile ou des sels fondus; dans unc gamme de température allant de 250 à 20009C avec un rendement supérieur à 70%.
+Afin daugmenter la productivité, le traqueur solaire permet doricntet   des  panneaux   solaires à Yaide dun vétin électromécanique (figure 3). En effet; la position du soleil varie constamment; la fois   pendant la journée; mais aussi pendant les différentes périodes de Tannée: Le ttaqueur permet ainsi de placer au mieux lc panneau par rappott au positionnement du soleil. Véten Etant donné que la disposition des héliostats autour glectralnécatique de la tour est  circulaire; le suivi   azimutal   n'est pas indispensable.  On se satisfait alors de traqueurs mono axiaux A mesure de lavancée de la joutnée (du matin 3 : héliostat avec système de poursuite solaire. au soir), chacun de ces  traqueuts permet le suivi du Figure soleil seulement en élévation.
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session Juin 2014
+Page 1/14
 
+--- page 2 ---
+STI Technologie
+Dossier Présentation; Données et Hypothèses
+NOMENCLATURE
+46 1 39 38 37 36 35 34 32 31 30 29 28 27 26 25 24 23 22 21 20 19 18 17 ; 2
+Clavette forme A, 4x4x25 Vis ISO 5580-M3x5x08 Ecrou TR 12x3 C45 Tige filetée %8 Etirée à froid Cale inféricure C35 Support E320 Tige du vérin C40 Bague de_centrage Ecrou ISO 4032-M8-08 Rondelle frein NFE 25-515-W8 Joint torique 34,59x2,62 Plaque support EN-AB-AlCu4MgTi Tige à bouts_filetés Etirée à froid Cylindre du vérin 40x3,5 5275 Cale_supérieure C35 Goupille E240 Vis TR 12x3 C45 Trempé Vis ISO 4026-M3x4-8-10 Ecrou fendu Acicr classc 8-8 Coussinet à collerette 16x22x7 Joint torique 37,69x3,53 Clavette forme A, 5x5x8 Coussinet à collerette 16x20x12 Coussinet à collerette 9x12x7 Potte couronne GS240 Catter GS240 Axe C35 Porte satellite GS240 Vis H M4x10-8-8 Couronne 31 CrMo1 2 Nitruré Coussinet à collerette fritté 8x12x13 Satellite 31 CtMo1 2 Nitruré Couronnc 31 CrMo12 Nitruré Bague 8x1 2x8 Anneau élastique 1Ox1 Joint torique 94,62x5,33 Pignon arbré 31 CrMo1 2 Nitruré Clavette forme A, 3x3x10 Coussinet entretoise C35 Coussinet à collerette fritté 20x26x14 Coussinet à collerette fritté 20x26x14 Joint torique 59,69x5,33 Vis ISO 4026-M3x4-8-10 Ecrou fendu Acier classe 8-8 Boiticr EN ABAlCu4MgTi Bride moteur EN-GJL-150 Désignation Matière Observation Concours Nationaux dEntrée aux Cycles deFormation d Ingénieurs Concours_Technologie Épreuve S LI Session 2014 Vérin électromécanique
+Rep. Nb
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session Juin 2014
+Page 2/14
 
+--- page 3 ---
+STI - Technologie
+Dossier Présentation, Données et Hypothèses
+PARTIE A TECHNOLOGIE DE CONCEPTION
+PRESENTATION Dans le but de capter le maximutn de rayonnement solaire et de le réfléchir vers le concentrateut, Porientation de chaque  panneau est assurée par   deux vérins électromécaniques: Dans la   partie technologic de conception, On se propose détudier lec vétin électtomécanique qui commande le mouvement délévation du panneau. Le documcnt (DTI) présente le dessin densemble du vérin électromécanique qui se compose principalement Dun moteur électrique qui fournit Pénergie mécaniquc Dun réducteur à   engtenages qui transmet   léncrgie   mécanique cn Padoptant Ja partie réceptrice Dun système vis éctou qui transforme le mouvement de totation en mouvement de translation pour entrainer la tige (40) du vérin.
+FONCTIONNEMENT Le dessin d'ensemble (DT1) représente à Péchelle 1:1 un vétin électtomécanique commandé par un moteur   électrique. La téduction de la   fréquence de rotation du moteut, se fait à travers un téducteur à engrenages. Le pignon abré (10) est l'arbre d'entrée du réducteur. La sortic du téducteur est récupérée sur la coutonne (22). Cette dernière entraîne la vis (30) en rotation. Ceci permet; à travers lensemble (32), (42) et (44), la translation de la tige (40)
+MOTEUR ELECTRIQUE
+La puissance du moteur est 'égale à : P = 1,5 Kw ; La vitesse de rotation du moteur en charge est égale à: Nm =5000 tr] min.
+REDUCTEUR A ENGRENAGES (10,14,15,17,19,20,22) Nombre de dents des roues dentées Z1o 14 dents; Z14 = 70 dents, Z17 = 61 dents Même module < m > Rendement global 7=0,85 Rapport de réduction global_ K= 1/27.
+SYSTEME VIS ECROU (30,44) Vis (30) TR 12*3 Couple appliqué par la vis sur Pécrou est donné par la relation C = Fa Rm tg (& + @) Fa : Force axiale transmise par Pécrou (44) ; Rm Ræyon moyen de la vis (30) ; œ : Angle dhélice 6 : Angle de frottement apparent tel que tg @ = 1,03 f ; f=0,12 est le coefficient de frottement entre la vis et Bécrou Pression de matage pmat/ ecr 1OON/ mm?
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session Juin 2014
+Page 3/14
 
+--- page 4 ---
+STI - Technologie
+Dossier Présentation; Données et Hypothèses
+ANNEXE A1 TRAINS EPICYCLOÏDAUX
+Satellite (S) Porte-satellites (Ps) Planétaire (P)
+1- Relation cinématique
+@clPs @cjo @psJo Zp = = _ @plPs @p/o @rs/o Zc Formule de Willis
 
+(0)
+Couronne (C)
+3- Types de trains épicycloïdaux
+Type
+Type II
+Type III
+Type IV
+B= +5
+ANNEXE A2 NoTIons D'HYPERSTATISME 1- Relation globale Mécanisme spatial Mécanisme plan Au maximum 6 inconnues dans {t} Au maximum 3 inconnues dans {c} X L {r} = Y M {r} =- 'Z N H=mu +m; ûl;/i 6(P-1) H=mu+m; +Eti 36-1) mu Nombre de mobilités   utiles du mécanisme (mouvements mettant  tout le mécanisme enl mouvement) mi Nombre de mobilités internes du mécanisme (mouvements sans influence sur le teste) 2Ti/i= Somme des inconnues des totseurs dcs actions mécaniques p Nombre de pièces dans le mécanisme (bâti comptis)
+2- Hyperstatisme H < 0 Mécanisme hypostatique (mécanisme sous-contraint) H = 0 : Mécanisme isostatique (mécanisme parfaitement positionné) H > 0 : Mécanismne hyperstatique (mécanisme sur-conttaint) .
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session Juin 2014
+Page 4/14
 
+--- page 5 ---
+STI - Technologie
+Dossier Présentation; Données et Hypothèses
+ANNEXE A3 TARAUDAGE
+TARAUDAGE
+30
+I1 0,5 P h3 = H4 = H1 + ac d2 = D2 = d - 0,5 P DI= d - P D4 = d + 2 ac d3 = d - 2 (0,5 P + ac)
+;
+VIS
+30
+P = pas
+Valeur du vide à fond de filet ac 1,5 2 à 5 0,15 0,25
+Pas P (mm) ac (mm)
+6à 12
+14 à 44
+0,5
+Principaux filetages trapézoïdaux ISO NF ISO 2902
+nominal d = D (mm)
+Pas P (mm) 1,5
+nominal d = D (mm)
+Pas (mm)
+d nominal d = D {mm} 760 (170) 180 (190) 200 (210) 220 (230) 240 (250) 260 {270)
+Pas P (mm)
+(46) 48 (50) 52 {55) 60 (65) 70 (75) 80 (85) 90 (95) 100 {110) 120 (130) 140 (150)
+16 18 18 18 20 20 20 4 24 24
+{ (11) 12 (16) {18) 20 (22) 24 (26) 28 (30) 32 (34) 36 38) 40 42)
+10 70 10 10
+72 " 14 14
+280 {290) 300
+16
+Les valeurs entre parenthèses sont à éviter
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session Juin 2014
+Page 5/14
 
+--- page 6 ---
+STI Technologie
+Dossier Présentation, Données et Hypothèses
+ANNEXE A4 : CLAVETAGE
+A-A
+forme A
+forme B
+Clavette
+Irbrc
+~Moyeu
+forme
+ah9
+vis € Ol CHc
+sX45"
+8
+Principales dimensions normalisées
+Série normale
+Série mince
+x< 130
+22 < d x< 130
+130 < d x< 230
+6 à 8 {nclus d-1,2 d+1 8 à 10 1,08 4-1,8 d+1,4 6 à 36 10 à 12 d-2,5 d+1,8 8 à 45 12 à 17 d-3 d+2,3 10 à 56 016 17 & 22 d-3,5 d+2,8 14 à 70 5 0,15 22 & 30 d-4 d+3,3 18 à 90 30 à 38 d-5 d+3,3 110 38 à 44 ,25 d-5 d+3,3 28 à 140 44 à 50 d-5,5 d+3,5 36 à 160 d-6 180 5 50 & 58 1 d+4,3 58 à 65 | 0,4 d+4,4 200 65 à 75 d-7,5 d+4,9 220 75 à 85 0,6 d-9 d*5, 250 85 à 95 0-9 d+5,4 70 280 110 d-10 d+6,4 230
+"0.1
+0.2
+0.3 +0.3
++0.1
++0.2
+d-1,8 d+1,4 d-2,5 d+1,8 d-3 d+2,3 d-3,5 d+2,8 d-3,5 d*2,8 d-3,5 d+2,8 d-4 d+3,3 d-4 d+3,3 d-5 d+3,3 d-5,5 d+3,8 d-5,5 d+3,8 d-6 d+4,5
++0
++0
++0
+hg sia = b h11 si a#b
+Les questions relatives à la partic A sont explicitées dans le document réponses (pages 1/31 9/31)
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session Juin 2014
+Page 6/14 -
 
+--- page 7 ---
+STI Technologie
+Dossier Présentation; Données et Hypothèses
+PARTIE B TECHNOLOGIE DE PRODUCTION
+PRESENTATION Le boitier (2) sera fabriqué à raison de 750 pièces par mois pendant 5 ans. Les surfaces usinées sont repérées par des  chiffres. Les surfaces brutes sont repérées par B1, B2, B3, B4 et B5. Le matériau du boitier (2) est EN AB-Al   Cu4Mg Ii et de résistance maximale à T'extension Rmn = 330 MPa
+On donne sur le document technique DT2 les dessins De définition du boitier (2) avec la cotation dimensionnelle et géométrique Du boitier avec la numérotation des sutfaces à usiner et des brutes de départ Du brut du boitier (2) avec les esquisses des surépaisseurs dusinage.
+HYPOTHESES Les pièces btutes sont obtenues pat moulage en coquille Dépouilles 20 La sutépaisseur moyenne est de 2mm Lusinage se fait par finition directe Le patc machine est composé de trois tours CN et dune fraiseuse CN
+NoMBRE DE PHASES Lusinage du boitier (2), est effectué en quatre phases Phase 10 Conttôle de brut Phase 20 Tournage Phase 30 TToutnage Phase 40 : Fraisage.
+ETUDE DE LA COUPE L'épaisseur du copeau est donnée pat Yexpression suivante
+hD = fsin Kr
+Nous tappelons que le temps dusinage est déduit de cette relation
+L T= N . f
+La loi de Taylor s'exprime par
+T=Cvv?
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session Juin 2014
+Page 7/14
 
+--- page 8 ---
+STI Technologie
+Dossier Présentation; Données et Hypothèses
+En adoptant les hypothèses suivantes L'effort de coupe est uniformément réparti sur tout le copeau La variation de la vitesse de coupe sur la surface du copeav est 'négligeable.
+L'exptession de leffort principal de coupe est Fc =S.Ksp Où S= 2p Section du copeau ap Profondeur de passe Ksp Pression spécifique de coupe dépendant du matériau à usiner et de l'épaisseur moyenne du coupeau.
+Tableau B.3 : Expressions des efforts de coupe.
+K; < 60
+60 < K, < 90
+K; > 90
+Effott d'avance
+0,5 F
+0,5 F
+0,6 F
+0,65 05Fc Ir
+0,5 67 Fc (ap/re) '
+0,37 056 Fc 'plre
+Effort de pénétration (Fp)
+Avec F: Teffott de coupe en N Ff: Teffort &avance en N Fp: Yeffort de pénéttation en N ; #p la profondeur de passe en mm le tayon de bec de loutil en mm.
+Lcs questions relatives à la partie B sont explicitées dans le document réponses (pages 10/31 16/31)
+1 `
+Concours nationaux d'entrée aux cycles de formation dinge énieurs
+Session Juin 2014
+Page 8/14
 
+--- page 9 ---
+STI - Technologie
+Dossier Présentation, Données et Hypothèses
+PARTIE € :
+MECANIQUE & RDM
+C.1-ETUDE MECANIQUE PRESENTATION L'étude   mécanique  porte sur le mécanisme traqucur du soleil dans Unc phase d'élévation croissante:  Ce mécanisme est composé dun panneau atticulé unl support vertical. Il est mis enl mouvement à Taide dun vérin électromécanique. L'oscillation de la tige cntre les positions extrêmes (complètement sottie et complètement rentrée) permet de varier lélévation du panneau en fonction de celle du soleil dans le ciel (figure C.1).
+Panneau
+Tige du vérin
+Verin
+électronnécaniquc
+Support
+Figure €.1 Phase délévation croissante dun mécanisme traqueur du soleil
+SCHEMA CINEMATIQUE ET REPERAGE La figure C.2 représente le schéma cinématique minimal du mécanisme traqueur du soleil Les principaux éléments constituant ce mécanisme sont
+Support auquel est lié le repère R(O,70,70, 4) supposé galiléen (fixe ou absolu). Panncau (1), lié au tepère R(O,Zo,J,Z) , est en liaison pivot daxe (O,ï) avec lc support (0) Son mouvement est paramétré par langle % =(.,7,) =(2o,2,) (figure €.3.a) Bielle (2), liée au repète Rz(A, Xw, y2, 22 ) , est en liaison pivot daxe (A,Fo avec le panneau (1) Son mouvement est patamétré par Yangle B=(n,Jz) = (20,2 2) (figurc C.3.b) Tige du vétin (3), liée au tepète R;(B,7,yo, Z0) , est en   liaison glissière d'axe (C,ÿo) avec le support (0) Elle est également en liaison pivot d'axe (B, % avec la bielle (2) Vis  (4), liée au repère R(D,X4,Jo, 72,) , est en liaison hélicoïdale à droite daxc (E,yo) avec la tige (3). Elle est également en liaison pivot daxe (H,yo) avec le support (0). Son mouvement est paramétré par langle 0 =(o,14) =(70,2,) (figure C.3.c)
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session Juin 2014
+Page 9/14
 
+--- page 10 ---
+STI Technologie
+Dossier Présentation; Données et Hypothèses
+Xn
+Figure C2 : Schéma cinématique minimal du mécanisme.
+0 *0
+Figure C3.a Mouvement du Figure C.3.b Mouvement de la Figure C3.c : Mouvement de la banneau par rapport {x support (0) bielle 'par rapport au support (0) Vls par rapport au support (0) Figure C.3 Orientation des bases mobiles par rapport à la base liée au support (0)
+DONNEES ET CARACTERISTIQUES GEOMETRIQUES DU MECANISME Les données géométtiques du mécanisme sont exprimées par les relations vectorielles OA =Ly. AB = ayz EB=bjo HE = TB = 1y Les variables 2, a, B et 8 sont les patamètres du mécanisme. Les constantes a, b et L sont des catactéristiques   géométtiques du mécanismc:.   Les   représentations planes des totations sont définies dans la figure C.3 L'actionneur (non représenté) exerce sur la vis un couple moteut Cn = Cm yo ; Laction mécanique du vent sur le panneau (1) est représentée; au point 0, par le torseut Bo Mo {r(vent ~ 1)} Fo
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session Juin 2014
+Page 10/14
+0*
 
+--- page 11 ---
+STI - Technologie
+Dossier Présentation; Données et Hypothèses
+HYPOTHESES Tout au long de létude, on adopte les hypothèses suivantes Toutes les liaisons sont supposées parfaites L'accélération de la pesanteur est donnée par g=-g 70 Les masses de la bielle (2) ct de la vis sont négligées Le panneau est de centre dinertic G1 tel que OG, EJ et de mattice dinertie au point
+dans la base B1 [o(t)lB;
+La tige (3) est de masse M et de centre dinertie G; situé sur Yaxe (C,y) L'action de la   pesanteur sur la   tige (3) est supposée   négligeable devant   les autres   actions mécaniques Le totseur jactions mécaniques transmissibles au niveau de la liaison, de centre Cij, entre deux solides ct avec i<j, sécrit (sans tenir compte des degrés de liberté de la liaison) X; {r(i ~î}c; Yj M Zij Nij Cij On désignera par {S} Y'ensemble des solides {S} = {1, 2, 3, 4}
+C.2-RESISTANCE DES MATERIAUX PRESENTATION Dans cette partie, On se propose d'étudier la résistance du panneau (1) modélisé  dans le plan (0,j,2) par une poutre droite. Cette poutre; articulée au point 0 et simplement appuyée 2L7 point avec le support (0), est soumise à Yaction du vent et à laction de la pesanteur.
+DESCRIPTION FONCTIONNELLE ET REPERAGE En plus de son propre poids et   dans sa configutation de fonctionnement la plus   sévète; le panneau (1) doit résister à laction d'un vent violent: Ces deux actions cumulées sont assimilées à une ptession uniformément   cépattie   perpendiculairement la   ligne moyenne de 9 la   poutre (figure C.4) .
+Figure C.4 Modèle adopté pour Bélude RDM du panneau
+Les questions relatives à la partie C sont explicitées dans le document téponses (pages 17/31 25/31)
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session Juin 2014
+Page 11/14
 
+--- page 12 ---
+PARTIE D :AUTOMATIQUE
+PRESENTATION La concentration des rayons solaires durant la journée est assurée par un dispositif de captation mobile composé dun champ dhéliostats Le rôle de chaque héliostat est dc renvoyer le rayonnement parallèlement à Yaxe de son paraboloïde (Figure D.1) présente étude est composéc de deux parties indépendantes portant sur létude dun dispositif La daffichage et de Yasservissement de la position angulaire dun héliostat.
+Soleil
+Concentratcur
+Monture
+Réducteur
+Moteur à courant continu
+Héliostat Echangeur Figure D.1 Description &une centrale solaire.
+D.1-DISPOSITIF D' AFFICHAGE DE LA POSITION D'UN HELIOSTAT fonctionnement de la centrale solaire est supervisé à partir dune salle de contrôle à distance. Le Cette approche conduit à visualiser; en temps réc} Yorientation de Théliostat détectée par un capteur optique (Figurc D.2).
+X3
+b
+Axe vertical
+X2
+Moteur + réducteur
+Codeur optique
+Décodeur
+d
+X1
+Xo
+Afficheur à 7 segments
+8
+Figure D.2 Schéma descriptif du capteur optique.
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session Juin 2014
+Page 12/14
 
+--- page 13 ---
+STI Iechnologie
+Dossier Présentation; Données et Hypothèses
+D.1.1- Principe du capteur optique Le codeur optique est formé dun disque rotatif couplé à larbre du moteur dentraînement de la monture de Phéliostat. Le disque rotatif (Figure D.3), pattagé en dix positions repérées par les chiffres (0, 1, 2, 3,4, 5,6, 7, 8, 9), comporte 4 pistes correspondantes aux 4 bits (x3X2X1x0). Chaque piste a son propre système de lecture (diode émettrice et diode réceptrice) et elle est composée dune alternance de zones opaques et transparentes. La piste centrale correspond au bit du poids le plus fort et la piste la plus éloignée du centre est celle du poids le plus faible
+Pour chaque piste Si la zone opaque se présente devant la diode émettrice; la diode réceptrice est éteinte et permet daffecter létat logique < 0 > au bit correspondant. Si la 'zone transparente se présente devant la diode émettrice; la diode réceptrice est allumée et permet daffecter létat logique 1 > au bit cottespondant:
+Position du disque
+Xo
+X1
+8
+X2
+X3 Pistes
+2
+3
+Figure D.3 : Codage du disque optique.
+D.1.2- Décodeur
+Le décodeur reçoit les 4 bits (x3x2x1*0) et délivre les sept sorties (a, b, c, d, ef et g) relatives aux sept diodes électroluminescentes (appelées LED) dun afficheur à scpt segments: Cet afficheur permet la visualisation des dix positions du disque totatif conformément au tableau de la figure D.4.
+Position
+2
+3
+4
+5
+8
+9
+Etats des LED de Pafficheur
+Figure D.4 Affichages des 10 positions
+LED éteinte
+LED allumée)
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session Juin 2014
+Page 13/14
 
+--- page 14 ---
+STI Technologie
+Dossier Présentation; Données et Hypothèses
+D.2 - ASSERVISSEMENT DE POSITION DE LA MONTURE D'UN HELIOSTAT Afin dévaluer Peffet de la correction; nous allons déterminer les   caractéristiques dun assetvissement de position de lorientation de la monture dun héliostat avec et sans cortection tachymétrique: Lélévation selon laxe vertical de Phéliostat est assurée par un moteur à courant continu.
+D.2.1- Modélisation du moteur Le fonctionnement du moteur électrique utilisé est décrit par les équations suivantes Cm (t) = Kc i(t) u(t) =Ri(t) + e(t)  ` d e(t) = Ke @m @@ (t2 = Cm ( dt Ce moteur est caractérisé par les variables et les patamètres suivants
+Liste des variables
+Liste des paramètres
+u(t) Tension de commande du motcur
+R
+Résistance de linduit
+i(t) Courant dinduit
+Inertie globale sut Yarbre du moteur
+Force contte électromotrice (fc.ém)
+Kc Coefficient du couple moteur
+@m(t) Vitesse angulaire de Yarbre du moteur Ke Coefficient de la fc.ém Cm(t) Couple moteur La transformée de Laplace dune fonction f(t) est notée par F(p) tel que F(p) = A[f(t)] On donne R = 1 @;J = 4 10 Kgm? Kc = 0.02 Nm/ A Ke 0.02 V rad.s-1 D.2.2 - Asservissement de position de la monture de Yhéliostat On sC propose dasservir la position de la monture de Vhéliostat conformément au schéma représenté par la figure D.4
+0c(p)
+Vc(p)
+{(p) C(p
+Qn M(p)
+Organe de consigne
+Correcteur
+Amplificateur
+Moteur
+Réducteur de position
+Vm(p)
+Kg
+Gain Dynamo réglable tachymétrique
+Capteur de position
+Figure D.4 : Schéma-bloc de Basservissement de position de la monture de Ühéliostat.
+On prend pour la suite
+0,1 Vtad-' Kg = 0,1 V.s.rad-' r = 1/50
+Les questions telatives à la partie D sont explicitées dans le document réponses (pages 26/31 31/31)
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session Juin 2014
+Page = 14/14
 
+--- page 15 ---
+2 5 2
+7 8 8
+g { 1 1 { 8 2 : I 2 pl: 25 8 1 2 g {
+; 1 8
+
+--- page 16 ---
+54401 @60H7
+" 8{ 8 g @ 2m 8 1 1 3f * 3 % 2 ;
+#1uch7
+
+[8,5
+9 87 3 9 77 1 3 ; 3 F : 2 Pl' 788 g 1 g 1
+, 7

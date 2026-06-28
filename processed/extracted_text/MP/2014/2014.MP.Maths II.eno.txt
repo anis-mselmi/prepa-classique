@@ -1,3 +1,65 @@
+--- page 1 ---
+REPURLIQUE TUNISIENNE MimEtere dc IEOECIRDCICDI 5upCneur,
+Musal iu)saanl (ualel éxll, alll Alall 0ly, JLyl Slsleall lala2s
+u L Rccbenbe Scicutinquc %a Ttcbplogics dc ['Ioformation etcks Coutlcadop
+Concurs Natlonanx d'Entre JlY Cycks de Fornratlon d' Ingenleurs Seslon 214
+Jvybjiapi &nji @ooJle 2014*U'
+Concours Mathématiques et Physique Epreuve de Mathématiques II
+Date: Samedi 7 Juin 2014 Heure 8 H
+Durée: 3 heures Nb pages: 4
+Une grande importance sera attachée à la rigueur du raisonnement, à la clarté et au soin de la présentation. L'usage des calculatrices n'est pas autorisé. Il est rappelé que tout résultat énoncé dans le texte peut être utilisé pour traiter la suite, même s'il n'a pu être démontré   Exercice
+les questions 1, 2 et 3 sont indépendantes.
 
+1. Soit n € N' et k € ZInZ.
+ 
+(a) Montrer que k est inversible (pour la loi .) si et seulement si k ^ n = 1. (b) En déduire le cardinal des éléments inversibles de Z/n?Z pour n premier:
+2 On désigne par R[X] Yalgèbre des polynômes de degré deux à une indéterminée et à coefficients dans R. Soit Rz[X]  > IR 9 : P 1> P(O)P(1)
+(a) Vérifier que q est une forme quadratique (b) Donner la décomposition de Gauss de la forme quadratique 9. (c) En déduire lexistence dune base (PuP2, Ps) de RRz[X] telle que: pour tout P € Rz[X] P = a1P1 + a2Pz + a3P3 on a 9(P) ' a2 92
+3. Soit
+R? 4 R f : (x, y) P 14 + y4 _ 2(x = V)? 9f df  (a) Calculer dx (x,y) et (x, y) dy (b) Résoudre le système af(, 5 y) = 0 35 (x, y) = 0. dy
+Concours Mathématiques et Physique Session Juin 2014
+Épreuve de Mathématiques II
+Page 1/4
 
+--- page 2 ---
+Problème
+Pour tout entiers naturels non nuls m et n, on désigne par
+Mnm(R) Yespace vectoriel des matrices à coefficients réels à n lignes et m colonnes. M,(R) Valgèbre des matrices carrées d'ordre n à coefficients dans RR  In la matrice identité de Mn( (RR) On,m la matrice nulle de Mnm (R) On la matrice nulle de Mn (IR) . On munit   Mn,1(IR) de sa structure euclidienne usuelle cest à dire VX,Y € Mn,1(IR) , < X,Y >=' XY. St(R) = {A € Mn(R) : 'A = A, et < AX,X>2 0, V X € Mn,1(R)} Pour tout sous espace vectoriel F de Mm,1(R) et pour tout A € Mnm(IR) on note par  'A € Mm,n(R) la matrice transposée de A _ VY € F}  ' * FL = {X € Mm,I(R) :< X,Y >= 0 Ker A = {x € Mm,1(R) AX = 0n,1}  ' Im(A) = {Y € Mn,1(R)tel que HX € Mm,1(R) AX = Y}  A(F) = {AX : X € Fl. 1 ' 1 A est dite injective si Ker(A) = {Om,1}.   A est dite surjective si Im(A) = Mn1(R) 
+Partie I
 
+Soit n € N' Soient F et G deux sous espaces vectoriels de Mn,1( (R)
+1. Montrer que (F + G) = Fl nG  . 2 En déduire que (FnG)1 = FL + G' .
+Partie II
+Soit n et p deux entiers naturels tels que n > 2 et 0 < p < n. Soit A appartenant à Mn-"p(IR) Soit S € Mn(RR) telle que [ze 'A S = LA On-PJ
+Concours Mathématiques et Physique Session Juin 2014
+Épreuve de Mathématiques Il
+Page 2/4
+
+--- page 3 ---
+A- Etude des propriétés de A, 'A et $
+
+1. Vérifier que S est une matrice symétrique de M;(R) 2 (a) Montrer que  i) Ker(A) = [Im(' A)]- ii) Ker(tA) = Im(A)] (b) En déduire que i. Mp,1(IR) = Ker(A) @ Im('A). ii Mn-p,1(R) = Ker(' A) € Im(A)  (c) i. Montrer que A est injective si et seulement si A est surjective. ii. Montrer que, dans ces conditions, p < n = p.   3 (a) Montrer que  [Op' Ker(S) = avec Xz € Ker(' A) Xz 1
+() En déduire que
+   ^ X1 Im(S) = X1, Xz € Mp,1(R)  AX?
+B- Etude des valeurs propres de 'AA et A'A
+ ,
+Pour tout réel ^, on note par
+ 
+UA = Ker(' AA AIp) Va = Ker(A' A AIn-p)
+1. Montrer que ' AA (respectivement A'A) appartient à S} (R) (respectivement Sn-p(R)): 2 En déduire que les valeurs propres de AA (respectivement A' A) sont positives.
+3. Montrer que Uo = Ker(A) et Vo = Ker(' A) 
+4. Soit ^ un réel non nul.
+(a) Montrer que ^ est une valeur propre de AA si et seulement si / est une valeur propre de A'A. (b) Montrer que  i A(ua) c Va. ii. 'A(va) c UA.  (c) Montrer que si / est une valeur propre de 'AA, on a : 1 A(ua) = Va.  ii. 'A(va) = UA.
+Concours Mathématiques et Physiquc Session Juin 2014
+Épreuve de Mathématiques II
+Page 3/4
+
+--- page 4 ---
+(d) En déduire que dim(Ux) = dim(VA).  e 5. Application On prend n = 4,p = 3et A = (1,-1,1) En utilisant ce qui précède déterminer les valeurs propres et les sous espaces propres de A'A et 'AA.
+C- Etude des valeurs propres de $
+Pour tout réel 1, on note par
+FA = Ker(S AIn)
+1
+(a) Déterminer Fo. () En déduire que 0 n'est pas une valeur propre de S si et seulement si A est injective. (c) Déterminer F1. (d) En déduire que 1 n'est pas une valeur propre de $ si et seulement si A est injective: 2 Soit À une valeur propre de S, 1 + 0 et ^ # 1. [X1 Soit X = Xz avec X1 € Mp1(R) et Xz € Mn-p,1  (RR) telle que SX = AX. Montrer que X1 = 0p,1 si et seulement si Xz = On-p,1 - 3. Pour tout ^ € RI{O, 1}, on pose 1 Lr Hx = € Mnp(R) V2 [A] (a) Montrer que F^ = Hx(Una-1) (b) En déduire que ^ est une valeur propre de S si et seulement si A(A ~ 1) est une valeur propre de AA. 1 (c) En déduire que 2 n'est pas valeur propre de S. (d) Montrer que si A est une valeur propre de S alors À # [0,1]: 4 On pose Ip  2 = Opn-PE € Mn(R) [On-P ~In-pJ 1 (a) Montrer que ES + SE = In + 2 7  (b) Soit ^ € RM{O, 1} 1 Montrer que si  est une valeur propre de S alors il existe un réel a^ vérifiant (anIn + Z)(FA) c F1-^- ii. En déduire que ^ est une valeur propre de S si et seulement 1 - 1 est une valeur propre de $. 5 Conclure de ce qui précède que  Mn,1(R) = Fol HF1 Fa F1-4 AeSp(S)OR+|0,1} AeSp(S)nR+|/0,1}
+Concours Mathématiques et Physique - Session Juin 2014 Épreuve de Mathématiques II
+Page 4/4

@@ -1,5 +1,120 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE
+Ministère de ['Enseignement Supérieur Institut 7 (preparatoie  Concours Nationaux dEntrée aux Cycles de ? biBLIOTHEQVE Formation d'Ingénieurs Session Juin 2000 5 etudes 5 Concours ex Mathématiques  Physique et Physique Chimie Epreuve de Sciences et Techniques de /Ingénieur
+Durée 3 heures Barème 1/6 points
+Date 8 Juin 2000 1/ 7 points
+Nombre de Pages 6 II/ 7 points
+Remarque La partie UI Automatique doit être rédigee sur des feuilles séparées
+Présentation du système : Létude proposée concerne une partie dune ligne de production de non-tissés fabriqués à partir de fibres synthétiques. Ces non-tissés sont utilisés dans diverses applications telles que le revêtement de sols  (moquettes), les non-tissés   ménagers   (chiffons;  emballages;   bourres; les   non-tissés industriels (filtres; feutres; isolation), les non-tissés à usage vestimentaire (garniture chaude; - La ligne de production se compose dun certain nombre de postes qui permettent de PREPARER (détasser) les fibres à partir du produit brut (fibres compactées sous forme de balles) de PESER les fibres de CADRER pour obtenir un voile de fibre dETALER NAPPER pour réaliser ]épaisseur souhaitée par superposition de voiles de PRE-AIGUILLETER pour régulariser la structure de la nappe d AIGUILLETER pour obtenir le tapis à partir de la nappe de COUPER longitudinalement (pour obtenir les lisières) et transversalement dENROULER le tapis. Dans notre étude on s'intéresse à une partie du poste à aiguilleter . Celui ci doit permettre d'amener la nappe horizontalement et de piquer verticalement la nappe de telle manière que les aiguilles, dans un mouvement alternatif, accrochent et entremêlent les tibres .
+Fonctionnement (Figure 1) : Le schéma cinématique en deux vues du module de piquage est donné sur la figure 1 Le tapis est obtenu par un travail à froid qui consiste a piquer la nappe à laide daiguilles munis à leurs extrémités de barbes. Ces nombreuses aiguilles sont implantées dans des supports dits < planches à aiguilles Y Un moteur et un système de transmission par courroies crantées (non représentés ici) animent en rotation /arbre manivelle (1) La bielle (4) en liaison rotule de centre C avec /arbre manivelle (1 supporte à son autre extrémité P la planche à aiguilles. Les bielles de guidages (2) et (3) sont en liaison pivot avec le bâti daxes respectifs (02,Z ) et (03,Z ) Ces deux bielles de guidages permettent de conditionner la trajectoire de la planche à aiguilles par le biais de la biellette (5).
+Page 1/6
 
+--- page 2 ---
+Repères et paramètres de position (figure 2) :
+On considère les repères orthonormés directs suivants  3 R(OpX,X,Z) repère galiléen lié au bâti (0) R,(Os,X,,Y,Z ) lié à la bielle de guidage (3) 3  R (OpXpYpZ ) lié à larbre manivelle (1) R(C,X,Y,Z ) lié à la bielle (4)
+Rz(Oz,XzYvZ ) lié à la bielle de guidage (2) Rs(Gs,Xs,Ys,Z ) lié à la biellette (5)
+01,02,03,04,05 paramètres angulaires de position 3 0,0z =-aX-bY+kZ 0,0, =cX-dY O,C =LpX -kz
+3 O2A =r Xz-hZ
+3
+O3B =r X3-kZ CP = L,X, AB = Ls Xs PGs = hZ a,b,c,d,h,r,LpL,&Ls sont des constantes Données et bypothèses Le moteur   exerce sur ]arbre  manivelle (1) un couple moteur C ; =Cm 2_ Laccélération de pesanteur est donnée par 8 =-gY . Laction de la nappe de fibres sur la planche à aiguilles est modélisée par le torseur
+F X+ FzY planche = Rappe /
+W = € 5
+Toutes les_liaisons_sont_supposées_parfaites. La vitesse angulaire @ de larbre manivelle (1) est constante Les solides sont supposés homogènes. Le tableau suivant résume les caractéristiques de chaque solide Solide Masse Centre dinertie Opérateur d inertie_ arbre manivelle (1) m1 k > A1 01 ~E1 01G1 = LLX1  2 2 2 01 B1 0 = E1 0 C1 4  3 Jcu x1z) bielle de guidage (2) m2 k = Az 0 Ez 02G2 = 'Xz- =z 2 2 Bz Ez 0 Cz 3 3 3 Higz XzYz z) bielle de guidage (3) m2 Az 0 X3_kz Ez 03G3 = Z 2 2 Bz = Ez 0 Cz 3 3 Jc xsEs4) bielle (4) M4 Zzxa 0 CG , = 2
+0
+44 kaxié)
+biellette ($)
+m5
+AGs = Lsxs 2
+As 3 3 3 Askas xsisi)
+Page 2/6
 
+--- page 3 ---
+27 Y A 5 0l
+77 261
+2
+Ye ^
+4
+A
+7 X L
+A
+0
+{ 5
+P
+9 X 2
+G5
+03
+planche à aiguilles
+Figure 1 : schéma cinématique du module de piquage
+Yl
+Fz
+Y3
+81
+Xl
+02
+æ
+03
+X3
+01 X
+82 X
+03 X
+Y4
+Y5
+84
+X4
+05
+x5
+04 X
+05 X
+Figure 2 : rotations planes
+Page 3/6
+2< 4
 
+--- page 4 ---
+Partie I : Etude Cinématique Ll) Ecrire les équations qui découlent   de la fermeture de la chaîne   cinématique  relative aux vecteurs positions a) en utilisant les points (0,, C, P, Gs, A, Oz O1) b) en utilisant les points (0z A, B, 03 Oz)
+12) Donner deux expressions du vecteur position OpP en passant par le point 0z
+13) Exprimer dans le repere Ro, en fonction de 02' 03 , de leurs dérivées par rapports au temps et des données géométriques le vecteur vitesse V (P / Ro )
+14) Donner les éléments de réduction des torseurs cinématiques suivants a) {(1/0 )}G, projeté dans le repère R1 b) {(2/0)}Gz projeté dans le repère Rz c) {(3/0)}G, projeté dans le repère R; d) {(4/0 )G, ( pour le calcul de V(G4/ Ro ) , utiliser V(P/ Ro) de la question 1.3 ) e) {(5/0)Gs pour le calcul de V (G5 Ro ) , utiliser V( P / Ro) de la question 1.3 )
+Partie II : Etude Energétique ILI) Donner les éléments de réduction des torseurs cinétiques suivants a) {C(1/0)}G, projeté dans le repère R, b) {C(2/0)}G, projeté dans le repère Rz c) {C(3/0)}G, projeté dans le repère R; d) {C(4/0)}G, pour le calcul de V(G4 Ro ) , utiliser V ( P/Ro) de la question 13 ) e) {C(5/0)}G; pour le calcul de V(G5 Ro ) , utiliser V(P/ Ro) de la question 1.3 )
+[.2) Calculer ]énergie cinétique du système S={(1), (2) (3), (4) et (5)} par rapport au repère Rv.
+13) Calculer la puissance des efforts extérieurs exercés sur S. Pour la vitesse du point P, considérer toujours V( P / Ro) de la question 13 .
+1L4) Appliquer le théorème de lénergie cinétique au systène S-{(1), (2), (3) (4) et (5)} En déduire une relation entre les paramètres  cinématiques, le couple moteur et /effort résistant au niveau de la planche à aiguilles.
+Page 4/6
 
+--- page 5 ---
+Partie III : Automatique
+Dans cette partie, on s'intéresse à lasservissement   de vitesse du système d'entraînement de la machine étudiee
+La figure 3 représente le schema fonctionnel dun tel système muni d'un régulateur de vitesse.
+CH(p) Cm(p) + Kc F(p)
+{(p) U(p) R(p)
+Ke
+Figure 3 : Schéma fonctionnel du système muni dun régulateur R(p)
+où:
+U tension d'alimentation du moteur; Cm couple moteur; Cr couple résistant; @ vitesse de consigne; 9 vitesse de rotation du moteur . K 90 F(p) = 1+ rp 1+17p Kc=1,35 et Ke=1,55 R(p) le régulateur
+Le schéma comprend deux boucles une boucle interne avec un retour de gain Ke qui fait partie intégrante du système une boucle externe avec un retour unitaire qui constitue la boucle de régulation.
+IL1) Etablir l'expression de Q(p) en fonction de Q(p) et Cr(p).
+IIL2) On considère que le régulateur est une action proportionnelle R(p)=A
+a) A couple résistant nul, calculer la valeur de A assurant une erreur statique de position de 5 %
+b) Pour cette valeur de A et à une vitesse de consigne égale à 157 rdls;, calculer la vitesse 92 pour un échelon de couple résistant d 'amplitude 12 Nm En déduire la précision du système. Conclure.
+Page 5/6
+S(p)
+Q(p)
 
+--- page 6 ---
+[L3) On se propose maintenant détudier l'asservissement avec un régulateur de la forme
+R(p)-G'+5P Tp a) Le couple résistant étant nul, on donne sur la figure 4 les diagrammes de Bode de la fonction de transfert en boucle ouverte du système régulé.
+Diagrammes de Bode
+40
+Magnitude 20 (dB)
+-89
+Phase (deg) -89.5
+-90
+-90.5
+-91 109
+10' 10? Frequence (radlsec)
+244
+103
+Figure 4 : Diagrammes de Bode  du système régulé en boucle ouverte
+En déduire les paramètres   du régulateur R(p)
+b) Ecrire la fonction de transfert en boucle fermée. c) Conclure quant aux performances du système stabilité et précision.
+Page 6/6
+8036/2

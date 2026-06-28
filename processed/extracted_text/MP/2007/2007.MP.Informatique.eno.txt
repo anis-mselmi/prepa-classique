@@ -1,5 +1,71 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de l'Enseignement
+429)Lé23)
+Supéricur; de la Recherche Scicntifique et de la Technologie Concours nationaux d'entréc aux cycles de formation d'ingénicurs Session 2007
+&0ljsGaps 4359584a25 di yibsi 2i,biij] uunii jlsgJal > >] 200739
+Concours Mathématiques et Physique; Physique et Chimie; Biologie et Géologie &Technologie Epreuve d'Informatique
+Date Mardi 05 Juin 2007
+Heure : 15 H
+Durée : 2 H
+Nbre pages 6
+Barème : EXERCICE 1 : 3 points, EXERCICE 2 : 4 points, PROBLEME : 13 points
+DOCUMENTS NON AUTORISES
+L'USAGE DES CALCULATRICES EST INTERDIT
+rhek WSTUT foire @blrotheQue Ux SAx 50 @esgveus
+EXERCICE 1 (3 points) 2 Soit la fonction f définie par : f(x) = fe dt Vz Donner les instructions Maple permettant de 1. définir f 2. vérifier la parité de f ; 3 calculer L, L = lim f(x) X>o 4 calculer g la fonction dérivée de f 5 calculer DV.le développement limitée de f au voisinage de 0 d'ordre 10 6. calculer DA. le développement asymptotique de f :
+V; Soit  H Fexpression en xdéfinie par H = e j (x) 2 7. Définir Fexpression H puis h . h étant la transtormation de H en une fonction 8 Vérifier que h(x) satisfait ['équation différentielle : h '(x ) = 2xh(x ) =1 indication poser = = h '(x ) - 2xh(x ) et la simplifier.
+Concours Toutes options Session Juin 2007
+Epreuvc dlntoratique
+Page 1/6
+
+--- page 2 ---
+EXERCICE 2 (4 points)
+0
+2
+2
+Soit A la matrice définie par A = =2 5 3 2 24 =2 Donner les instructions Maple permettant de 1. définir la matrice A 2. calculer DT, le déterminant de A : 3. calculer NOY le noyau de A ; 4 calculer IM, limage de A ; 5. déterminer POL, le polynôme caractéristique de A ; 6. détemminer VALPI, les valeurs propres de A par résolution de POL ; 7. déterminer VALP2, les valeurs propres de A par utilisation de la commande Maple appropriée 3 8. affecter à VECTP, par la commande Maple appropriée, une séquence de listes contenant entre autre les vecteurs propres de A Cette commande donne le résultat Maple suivant  VECTP  [0, 1, { [-1,-1,1] }] [2, 1, { [0,-1, 1] } ] [1, 1,{ [2, 1, 0] } ] Expliquer ce résultat. 9 extraire à partir de VECTP, les vecteurs   propres en utilisant la commande op Ces vecteurs sont notés respectivement VI, V2 et V3 10. construire la matrice P de passage par concaténation des vecteurs VI, V2 et V3 ; 1l. calculer INVP la matrice inverse de P ; 12. déduire à partir des valeurs propres de A la matrice diagonale d ; 13. calculer en utilisant la commande map la matrice dn = d" ; 14. calculer An, An =An (on rappelle que A" = Pd" P-' )
+PROBLEME
+PARTIE A : ALGORITHMIQUE (7 points)
+
+On désire construire une bibliothèque de fonctions et de procédures   permettant la recherche approchée dun zéro dune fonction dans un intervalle fixé, par plusieurs méthodes avec une précision de calcul €
+Description des méthodes
+Méthode des dichotomies
+Soit une fonction f donnée. En supposant que lon connaisse un intervalle [a,b] sur lequel la fonction change de signe; c'est à dire que f (a)f (b) < 0 Si la fonction f est continue et strictement monotone; nous savons que cet intervalle contient alors une racine a de f (a+b) Découpons cet intervalle en deux en posant : c = Irois cas sont possibles 2 Si f (c) est du signe de f (a) la racine appartient à lintervalle [c ,b]  Si f (c) est du signe opposé à f (a) la racine appartient à l'intervalle [a ,c] , Si f (c) =0,la racine de f est C.
+Concours Toutes options Session Juin 2007
+Epreuve dIntormatique
+Page 2/6
+
+--- page 3 ---
+Il suffit de répéter le processus jusqu'à ce que la précision € demandée soit atteinte. Cette précision est atteinte lorsque |f (c)| < € . Méthode de Newton
+La méthode de Newton consiste à calculer une suite de valeurs (xn) convergeant vers la racine @ de l'équation f (x) = 0 Cette méthode est applicable à la double condition la fonction doit être dérivable et la dérivée ne doit pas s'annuler au voisinage de a Partant d'un point Xo on calcule successivement (f (xo_ X] = Xo '(xo (f (x X2 = X] (f'(x1)
+(f (xn-1 Xn =Xn-] (f'(xn-1 Le processus s'arrête lorsque la différence Jxn -In-1l<€ , xn est alors une valeur approchée de à
+Méthode d'approximation successive En posant   par   exemple   g(x)= x+ f (x) léquation   f (x) = 0 peut   s'écrire sous la forme x = g(x) En supposant que la solution appartienne à un intervalle [a,b] fixé et que Ig' (x )k 1 Vx e[a,b] , alors la suite définie par Xn-l = g(xn) V Xo € [a,b] converge vers   la racine a quand n tend vers linfini. Le processus s'arrête lorsque la différence Ixn -xn-1l <€ , Xn est alors une valeur approchée de œ
+Méthode de Regula Falsi
+On peut améliorer la convergence de la méthode des dichotomies. On définit l'abscisse C comme intersection de laxe des x et de la corde joignant les points M a et Mb tels que Ma = (af (a)) et Mb ' (b,f (b)) (af (b)-bf (a)) c = (f ()-f (a)) Si f (c) =0, on a évidemment trouvé une racine de Si f (c)est du signe de f (a) , la racine appartient à l'intervalle [c,6] Si f (c)est du signe opposé à f (a) , la racine appartient à lintervalle [a,c] Il suffit de répéter le processus jusqu'à ce que la précision € demandée soit atteinte Cette précision est atteinte lorsque If (c)  <æ_ Concours Toutes options Session Juin 2007 Epreuve d Intormatique Page 3/6
+
+--- page 4 ---
+ Travail demandé
+NB Pour toutes les questions; les vérifications de continuité, de dérivabilité et de monotonie des fonctions ne sont pas demandées. 1. On souhaite chercher une racine de l'équation f définie par f(x) = tg(x)-x Ecrire une fonction algorithmique f définissant la fonction f. (pour le calcul de la tangente; vous pouvez utiliser la fonction algorithmique tan qu' on suppose prédéfinie) . 2. L'utilisation de certaines méthodes nécessite le calcul de la fonction dérivée. Une approximation numérique de la dérivée dune fonction f en un point x est donnée par f (x+h)- f (x -h) f'(x) = 2h
+On prendra pour les calculs h constante égale à 0.001. Ecrire une fonction algorithmique fprime permettant de calculer puis retourner la dérivée de f en un point x donné.
+Dans la suite; les variables a, b, eps; xn kmax; nb et ibf désignent a et b les extrémités de lintervalle où se trouve la racine de f que Ton cherche; eps la précision € voulue; Xn approximation de la racine recherchée; kmax :le nombre maximum d'itérations que lon accepte d effectuer; nb nombre ditérations réellement effectuées; ibf indicateur de bonne fin. Si le résultat de recherche de la racine est obtenu avec la précision voulue avant que lon ait effectué   les kmax   itérations; ibf=0 et x contient Tapproximation de la racine recherchée ; sinon ibf=1. Chacune des procédures de calcul de zéro dune fonction f utilise a, b, eps et kmax comme paramètres   données (en entrée) et xn, nb et ibf comme paramètres résultats  (en sortie) ; ces derniers sont précédés par var dans les entêtes des différentes procédures .
+3 Ecrire une procédure dicho qui permet de calculer; par la méthode des dichotomies; une valeur approximative xn de la racine K pour laquelle la fonction f s annule. L'entête de Ja procédure est procédure dicho (a, b, eps réel kmax entier var Xn : réel var nb :entier, var ibf : entier) 4 Ecrire une procédure newton qui permet de calculer; par la méthode de Newton; une valeur approximative xn de la racine Q On prendra comme point de départ la valeur a+b Xo = 2
+L'entête de la procédure est procédure newton (@, b, eps réel kmax : entier var Xn : réel var nb: entier, var ibf : entier) 5. L'utilisation de : la méthode d approximations successives   nécessite la réécriture de léquation f (r) = 0 sous la forme x = g(x) 1 Ecrire une fonction algorithmique g définissant la fonction g(x) =x+f (x) 2 Ecrire une procédure success qui permet de calculer; par la méthode Concours Toutes options Session Juin 2007 Epreuve dInforatique Page 4/6
+
+--- page 5 ---
+dapproximations successives; une valeur approximative xn de la racine C pour laquelle la fonction f s' annule en utilisant la fonction g définie en 5.1. On a+b prendra comme point de départ la valeur x = 2 L'entête de la procédure est procédure success (a, b, eps : réel= kmax entier var Xn : réel var nb: entier; var ibf : entier) Remarque On demande de vérifier; à chaque itération; la condition de convergence Jg'(x)<1 vx e[ab]- Il est donc nécessaire d'écrire une fonction gprime dérivée de g. g(x+h)-g(x-h) g'(x) = 2h On prendra pour les calculs h constante égale à 0.001 6 Ecrire une procédure falsi qui permet de calculer; par la méthode de Regula Falsi, une valeur   approximative xn de la racine à pour laquelle la fonction f s' annule. L'entête de la procédure est procédure falsi (a, b, eps : réel = kmax entier var Xn : réel var nb :entier, var ibf : entier)
+PARTIE B : PROGRAMMATION MAPLE (6 points)
+On suppose dans cette partie que les méthodes de recherche approchée dun zéro dune fonction (partie A) sont programmées en Maple sous forme de procédures. Les paramètres de chacune de ces procédures sont a, b, eps et kmax et chacune retourne un vecteur résultat contenant dans Pordre  nb, xn et ibf. On rappelle que toutes ces variables sont décrites dans la partie A.
+7. On veut conserver les résultats dexécution de ces fonctions dans un tableau. Pour cela on associe à chacune des méthodes un numéro tel que 1 pour la méthode des dichotomies; 2 pour la méthode de Newton; 3 pour la méthode d approximations successives; pour la méthode de Regula Falsi. Ecrire en Maple une procédure recherche ayant comme arguments a, b, eps et kmax et qui retourne un tableau TAB (une matrice résultat) contenant un nombre de lignes égal au nombre de méthodes de recherche Chacunede ces lignes contient dans ]ordre le numéro de la méthode et les valeurs nb, xn et ibf. Ces valeurs seront extraites à partir du vecteur résultat obtenu par appel de la procédure Maple associée à la méthode. 8. On désire réorganiser le contenu du tableau TAB obtenu par Fappel de la procédure recherche de la question 7 de telle sorte que les lignes dont ibf vaut 0 (c'est-à-dire recherche fructueuse) seront placées en début du tableau. Ces lignes seront par la suite triées selon la valeur associée à nb dans TAB; de la plus petite vers la plus grande. Ecrire une procédure organisation ayant comme arguments le tableau TAB et nl (nl étant le nombre de ligne du tableau TAB; nl est un entier positif >1) et qui permet de retourner le tableau   réorganisé selon le principe présenté   ci-dessus. (Vous   pouvez utiliser   la commande Maple swaprow. A : =swaprow(A; i, j) permet de permuter les lignes i et j dune matrice A). On demande dutiliser, pour la programmation du tri; la méthode dite par sélection et qui Concours Toutes options Session Juin 2007 Eprcuve dInformauique Page 5/6
+
+--- page 6 ---
+consiste dans une première étape à chercher la valeur la plus petite associée à nb dans la partie du tableau à trier et à permuter la ligne correspondante avec la première ligne. L'étape suivante consiste à trier le tableau diminué de sa première ligne c'est-à-dire de chercher dans le tableau diminué la valeur associée à nb la plus faible puis de permuter la ligne correspondante avec la première ligne du tableau diminué. Cette même opération sera répétée pour le reste du tableau jusqu'à ce que le tri souhaité soit effectué . 9 En supposant que les valeurs de a, b, eps et kmax sont déjà saisies;, écrire les instructions Maple   permettant dafficher le nom de la méthode (si elle existe) ayant effectué le minimum ditérations pour le calcul du zéro de f ainsi que le résultat de la recherche.
 
 
+    
+    
+ 
 
 
-
+Concours Toutes options Session Juin 2007
+Epreuve dInformatique
+Page 6/6

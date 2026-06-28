@@ -1,8 +1,137 @@
+--- page 1 ---
+REPOBLIQUE TUNISIENNE Ministère de lEnseignencnt Supérieur
+Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs Session Juin 2001
+Concours Malbématiqucs-Physiquc et Physiquc-Chimie
+Epreuve de Sciences et Techniques de ['Ingénieur
+Date Lundi
+juin 2001
+Heure 8 H
+Duree 3 H
+Nombre de pages 12
+Barème Partie A 5 points
+Parte B 10 points
+Partie C : 5 points
+Bgr;
+ZE*tLEEM)
+WstiTUT PREA~Z; Luire _ CIBLKOTHEQUE 9 Ec
+PRESSE DE FORGEAGE
+Présentation La igure (page 1/12) représente le dessin d'ensemble simplifié dune presse de forgeage cont `e schema cinematque minimal est illustré par la figure 2 (page 1212). Les principaux eléments de cere presse sont
+le bâti (0) larbre d' entrée 1) en liaison pivot d axe (0, Zo) avec le bati
+la bielle (2) en liaison pivot daxe (AZo) avec le bâti  et reliée à larbre d'entrée (]) par 'intermédiaire du solide (S) le solide (S) en liaison glissière avec la bielle (2) daxe (A,X:) et en liaison rotule de centre P avec ['arbre d'entrée (1) le levier (4) en liaison pivot daxe (B,Zo)avec le bâti
+Je coulisseau porte marteau (5) en liaison linéaire annulaire d' axe (FX,) avec le levier (4) et en liaison glissière daxe (CY0 avec le bâti (0).
+Le levier (4) et  la bielle (2) sont reliés entre eux par u élément  élastique formé de deux ressorts
+identiques et du support de guidage (3). Ce support est en liaison pivot daxe(D,Zo) avec le levier (4) il est également en liaison linéaire annulaire d'axe (EYs)avec la bielle (2).
+Principe de fonctionnement
+La rotation imposée à larbre d'entrée (1) par le moteur non représenté (M) est transformée au moyen du solide (S) en mouvement d'oscillation de la bielle (2). Ce mouvement est transmis par l'intermédiaire de Félément élastique (les deux ressorts le support de guidage (3)) au levier (4) et par la suite au coulisseau porte marteau (5) qui assure le forgeage de la piëce désirée_
+Concours Mahinjqu-Ftrysiquca Pbysique Chimic Sesio Jun 2001
+Epruve d STI
+Prgc 1/12
 
+--- page 2 ---
+Partic D ETUDE MECANKIY, Dans cclte partic on se reportera à la figurc 2 (pzgc 12/12) Rcpèrcs et paramétrage Les repèrcs ct les paramètres adoptés pour Ie mécanisme sox dÆséz = #xnme suit Rofo XXo; rcpère lié au b{li (0) supposé galiléa RkofxL 1zo) repère lié à Farbrc dentréc (1), te y*; "3 x1-roF1) ; R4AX}2l`o repère lié à la bielle (2), tcl que PkJvz7o%z); RDX3Y repère lié au support de guidage (3) V+ 9]o&s)7c 0 Y3) ; R(Br&7 repère lié au levier (4), tel que: 'rzjF} ,})  Les positions des différents centres de liaison sont décrites Pz Y ~~orns vectorielles suivantes OA=-aXo+bY 0 , BC-cXo , OP-rY , 7]i+R2 AE-2L,Y2 Eo-(+lo?;,   BD-L,X4 , BFH-Li = CF-qVo Les angles @ B, et Y sont les paramètres de rotation du mezacze ils sont définis par y, 4 / et 7 où y est vant aux paramètres de translation lallongemea * complètement relâchés ày0) { { deux ressorts (les ressorts sont | Les caractéristiques géométriques : a, b, c, La L: Laet r & ztzxie YnI constantes. YO i Xi x2 Zo XO Xo   B T (;,a 7 + U? (T/ -P) 4 7 % T 76 _ ( 5+ *) ;a; lp (5+)z Y Y5 7 , % 7 7 6 (g ) 45-p 2 xs  1 P 9 X4 ~X ) XO Xo 26 {5 ( T+57 Le ( T42 ) Lr (7, - | ) 5 76, 96 B . = 7 (>_ G;) Vg +1) - < ; 8(1 - p) ' 0, 5 S| 5( 4 Sasokn_00l #B: Cxn Mluhamnui u-lhyxiquc a [hyxiquc Chinnc Enranr &S1 [v VI?
 
+--- page 3 ---
+Partie B-I: CINEMATIQUE
+Les centres d'inertie du levier (4) et du coulisseau (5) sont respectivement Gs et Gs G, est confondu avec le point D.
+I-1. Déterminer les vecteurs rotations instantanées par rapport au bâti (0) des solides suivants 1.a arbre d'entrée (1); I.b/   bielle (2); L.c support de guidage (3); L.d levier (4); 1-2. Calculer les vecteurs vitesses suivants 2.a V(Pel/Ro) Fexprimer dans la base (X1Yno); 2b/ V(Pe2/Ro)et V(Ee2/ Ro)les exprimer dans la base (XzY 2i0); 2.c/ v(e4/Po) lexprimer dans la base (X&7 4,40); 2.d VŒe3l Ro)Vexprimer _ dans la base (X3,Y3, 20) (on utilisera V(eA Ro) ); 1-3. Calculer les vecteurs accélérations suivants 3.a F(G, /Ro)lexprimer dans la base (X+,X 4, 24) ; 3.b/ F(Gs / Ro)lexprimer dans la base ( Xo,Yo, 40). %
+Partie B-II : ENERGETIQUE
+On considère le sous ensemble E1 }  formé de larbre d'entrée (1), du solide intermédiaire (S) et de 12 bielle (2). Les caractéristiques d'inertie des éléments constitutifs de {E,} sont les suivantes arbre d'entrée (1) matrice d'inertie au point Oexprimée dans la base (XnXn4o) est de la forme
+41 0 B1 ~Di ~D1 C1 P centre d'inertie G1 _ tel que OGI=Y1 Yit: Zo
+masse M1 bielle (2)
+moment d'inertie par rapport à laxe @4o) I2 centre d'inertie G2 , tel que AG2=x2X2
+masse Mz
+levier (4) moment d'inertie par rapport à ['axe (B;Zo) I,, coulisseau porte marteau (S), masse Ms
+masse M,
+Conkoun Muthematiquo-Phyriquo a Physiquc Chimia Scuion Juin 2001
+Eprcuve dc STI
+Psgc 6/12
 
+--- page 4 ---
+solide intermédiaire (S) masse et inertie négligcables L'arbre d'entrée soumis à un couple Cm-Cr 4o. L'action de rappel des ressorts sur la bielle (2), au point E est de la forme Fr=2kyY3 , où k est la raideur de lun des ressorts. L'action du support de guidage (3) sur la bielle au point E est représentée par le torseur Ad 3 2 Fs=XsX; {ra}E Ms=0
+L'accélération de la pesanteur est g=-gYc Pour simplifier les calculs on admettra que toutes les liaisons sont parfaites: I.1 Calculer relativement au repère galiléen RjoXo7oZ0) Fénergie cinétique de {E} 12 Faire l'inventaire et le bilan des actions extérieures appliquées à {E,_ 1L3 Calculer la puissance de toutes les actions extérieures et intérieures appliquées à {E1} dans son nouvement par rapport à RoXoéoZo)  1.4 Ecrire la relation qui découle du théorème de lénergie cinétique appliqué {E;} dans son mouvement par rapport à Roko7oéo) .
+Partie B-ILI DYNAMIQUE
+L'action du bâti sur le levier (4) au Point B est représentée par le torseur B=XBXo+YB7o+ZB20 Dvv 2 {o/sB MB=LBXotMBYo L'action de la pièce à forger sur le coulisseau porte marteau (5)   est représentée par Fo=FoYo 4 'esésrpposée 1.al Ecrire les   équations qui découlent du la résultante   dynamique appliqué lélément élastique dans son mouvement par rapport à Roxo?oÈo); l.b/ Ecrire les équations qui découlent du théorème du moment dynamique appliqué à /'élément élastique dans son mouvement par rapport à Rfoxo}oZo); 1.c/ Déterminer en fonction de k et y, Kaction en D du levier sur [élément élastique, ainsi que la composante de force XE: 2 On considère le sous ensemble Ez _ formé du levier (4) et du coulisseau porte marteau (5) 2.a/ Faire l'inventaire et le bilan de toutes les actions extérieures appliquées à {Ez}; 2b/ Appliquer le théorème de la résultante dynamique en projection sur 7o à{E} dans son mouvement par rapport à Ro(O,Xo, 7ozo) .
+Eprcuvo de 5TT
+P'ge 7/12
+Eomcuus M alhemastiqjuc-lh)xiquc ct Phyxiquc-Chimie Sawion Juin 2001
 
+--- page 5 ---
+Partie C : AUTOMATIQUE NB. On présentera les résultats sous fomme littérale avant d' effcctuer L'objet de Fétude suvante est Panalyse Fapplication numérique: du comportement fonctionnel est donné par la figure suivante en vitesse   du moteur   dont le   schéma
+C(p)
+U(p)
+U-P) G(p) Ca(p)
+Q(p)
+Schéma fonctionnel du moteur
+Partie C-I DETERMINATION DES PARAMETRES DU MOTEUR Dar Détemminer G.(p) sachant que la réponse Ca(t) à la grandeur U. en échelon unitaire par la figure ci- dessous est représentee
+C2 0.3
+0.005
+0.01
+0.015
+0.02
+0.025
+0.0J
+0.035
+Temps (sec.)
+Réponse indicielle de G1(p)
+12 Le diagramme asymptotique de Bode (courbe damplitude) de la fonction de transfent donné par la figure suivante G2(p) est
+Coocours Mathematiquo Pirsiquc a Fysiqos Chix- Scsioa Jui 2001
+Eprave de STI
+Pnge 812
+G(p)
 
+--- page 6 ---
+2OlogllGz(jo)l (dB)
+25
+2
+20 dBldécade
+10
+10?
+10'
+18
+1C ics)
+Déterminer G2(p) [.3 Le moteur est maintenant deczit par le schéma fonctionnel suivant
+Cp)
+U (p) Kp Cm(p) R-Lp
+K
+Schéma fonctionnel du moteur Avec 2 Tension d'alimentation du moteur; Vitesse de rotation de T'arbre du moteur; Inductance aux bornes C J de l'induit; Couple moteur; Inertie totale sur l'arbre du moteur: Cr Couple résistant; Km Constante du couple; R Résistance aux bores K de | 'induit; Constante de force contre électromotrice  f Coeficient de frottement visqueux
+Concours Mauhcmatiquc-E Physiquc Phgsique-Chunic Session Juin 2001
+Epraunve de S77
+Page 9/12
+U(p)
+Sip'
+f+Jp
 
+--- page 7 ---
+3.a En deduire des   questions 1.[ et 1.2, pour R= 1,15 Ohm les paramètres du moteur Km L fet J. 3.b/ Mettre le schéma fonctionnel du moteur sous la forme suivante
+Cp)
+C(p)
+H (p)
+Partie C-n REGULATION DE LA VTTESSE
+Le systeme regule est donne par le schéma ci-dessous
+Cap)
+Sip'
+E(p)
+Cip)
+Clp)
+Moteur
+Schema d asservissement de la vitesse
+92: etant la vitesse de consigne Dans la suite on prendra L-8,3.10' H; f0,011,J= 191.10' Kg m; Kn = 0,85 Mm4 K= 0,47 V.sird; R=l,15 Ohm_
+IL.1 On considere que Je conrecteur proportionnel C(p)-K L.a Déterminer la valeur de K. penettant davoir une ereur statique égale à 5% pour un echelon de Q damplitude 100 rds et un couple résistant nul. Ib/ Pour la même valeur de K trouvée dans la question l.a, calculer l'erreur statique pour ure grandeur dentrée Q en échelon d 'amplitude 100 rds et une grandeur dentrée C en échelon 'amplitude 10 N.m.
+I.2 On se propose maintenant d'étudier l'asservissement avec un correcteur proportionnel intégral de la torme C(p)=K++K 2.& Donner les conditions que doivent vérifier les paramètres Ks et K; pour que le systëme en boucle fermée soit stable: 2b/ Tracer la courbe K-fKs) représentant le domaine de stabilité obtenu à la question 2.a; 2.c Calculer ['erreur statique pour une grandeur d'entrée Q en échelon d'amplitude 100 rds et une grandeur dentrée Cr en échelon d'amplitude 10 N.m Conclure; 2.d Dans la suite; on néglige linductance du moteur. Montrer que ['équation caractéristique du système en boucle fermée peut s'écrire sous la forme p2+2.m.@ -p+3=0 Déterminer Ks et Ki pour avoir m= 2 et @=2rds.
+Coocours : atbemuiquc-Phsiquc < Pnsique-Chimc Session Jun 2001
+Epreuvc de STI
+Pagc 10/12
+H-(p)
+S(p
+S(p)
 
+--- page 8 ---
+1 :
+2[qu3su3,P u!sspp 1 anB!
+V-V
 
+7 1 1 1 | 1
+{-9
+
+--- page 9 ---
+E Az As Je As 5 18 / Js YAs | 1 21444  | 1x : N 1 K 1 Ax | Af / 8

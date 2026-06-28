@@ -1,3 +1,71 @@
+--- page 1 ---
+1L9j)j 2/6a1 {klxglgzls gyss
+REPUBLIQUE TUNISIENNE Ministère de V'Enseignemcnt Supérieur et dc la Rcchcrchc Scientifiquc
+Concours Nationaux d'Entrée aux Cycles de Formation d'Ingénicurs Session 2011
+Ui uibyi 2iliji untjijufulyji 20ui)
+Gl
+Concours Biologie et Géologie Epreuve de Physique
+Date Jeudi 16 Juin 2011
+Heure 8 Hoo
+Durée : 3 H
+Nbre pages 04
+Barème : Problème 1 : 15 pts
+Problème 2 : 05 pts
+L'usage d'une calculatrice non programmable est autorisé
+L'épreuve est constituée de deux   problènes   indépendants.
+Un candidat peut toujours se servir d'un résultat fourni par l'énoncé pour continuer sa composition
+Problème 1
+Données IStIv; UIRE  CBUOTHEQUE Constante des gaz parfaits R = 8,31J.K-Imol-1 4 Sn Masse molaire de Fair M = mol-1 EnUdes ` 299. dhngemeus Densité volumique de lair Po = 1,3kg.m-3 Rapports des capacités calorifiques Y = 1,4 Le coefficient de compressibilité isentropique = 1 Xs () p dP 5 L'espace est rapporté à un référentiel galiléen Ro (Oxyz) de base orthonormée directe (ëx' ey' ez) On s' intéresse à la propagation unidimensionnelle suivant 1'axe (Ox) des ondes acoustiques dans un fluide parfait. Dans le référentiel Ro, le fluide au repos est caractérisé par les champs de pression Po et de masse volumique   Po uniformes. La présence d'une onde   acoustique  dans le milieu crée une perturbation. Ainsi, les champs définis précédemment deviennent P(x,t) = Po + p(x,t) p(x,t) = Po + p(x,t) Où p(x,t) est la surpression et u(x,t) est la modification de la masse volumique. Dans le cadre de /'approximation acoustique, tout terme petit d'ordre supérieur ou égal à deux sera négligé L'écoulement  du   fluide   est supposé  irrotationnel,   isentropique et on néglige linfluence de la pesanteur .
+I- Equation de propagation des ondes acoustiques
+1-1 - Rappeler I'équation d'Euler dune particule de fluide en mouvement à la vitesse 5 non soumise à des forces volumiques ainsi que l'équation de conservation de la masse_
+Concours Biologie et Géologic-Session Juin 2011
+Eprcuvc dc Physiquc
+Pagc 1/4
 
+--- page 2 ---
+1-2- Montrer  que la linéarisation de ces équations dans le cadre de [ approximation acoustique donne dù Po = ~gradp (1) dt du + Podivù =0 (2) dt 1-3- Ecrire les équations (1) et (2) dans le cas dune propagation unidimensionnelle suivant la direction (Ox) . I-4- Montrer que : #(x,t) = PoXsp(x,t) 1-5- Montrer que la surpression p(x,t) et la vitesse v(x,t) sont solutions d' une équation du type 02G 1 92G = dont on précisera le nom. dx2 c2 @t2 Exprimer c en fonction de Po et Xs 1-6- Donner la forme générale des solutions p(x,t) et v(x,t) I-7- Dans le cas où le fluide est un gaz parfait, établir |'expression de la célérité c en fonction de la température T,la masse molaire M, la constante des gaz parfaits R ainsi que le rapport des capacités calorifiques Y Application numérique calculer c dans le cas de lair pour T = 298K . II- Propagation d'une onde acoustique plane progressive monochromatique
+On considère une onde plane progressive monochromatique de longueur d'onde ^ qui se propage dans le sens des x > 0. II-1 - En notation complexe; p(x,t) et v(x,t) ont pour expressions p(x,t) = po exp j(Wt " kx) v(x; t) = Voexp j(Wt ~ kx) II-1-1 - Etablir la relation entre k et W II-1-2 - Calculer la longueur d'onde ^ d'une onde sonore de fréquence f = 3MHz se propageant dans Fair. p(xt) II-2-1- Déterminer ]impédance acoustique Zc définie par Zc " vŒ,t) II-2-2- Quelle sera 1expression de Zc dans le cas d'une propagation dans le sens des x < 0 ? II-2-3- Calculer le module de Zc dans le cas de lair .
+III- Réflexion et transmission dune onde acoustique
+On considère deux fluides (1) et (2) séparés par une surface plane perpendiculaire à l'axe (Ox) en x = 0 On désigne par Zc1 et Zc1 leurs impédances acoustiques respectives. Une onde incidente (O.I) acoustique plane progressive monochromatique définie par pi(x,t) po cos(wt " k1x) arrive en incidence normale, au niveau du plan x = 0 Elle donne naissance à une onde réfléchie (O.R) et à une autre transmise (O.T) (Figure 1)
+Fluide (1) Zc1
+Fluide (2) Zc2
+O.T
+0
+O.R
+x = 0
+Figure 1
+III-1 - Donner les expressions de pr(x,t) de l'onde réfléchie et pt(x,t) de Ionde transmise. III-2- En déduire celles de vi(x,t) , v(x,t) et vt(x, t)
+Concours Biolozir et Géologie-Session Juic 2011
+Epreuve de Physiquc
+Page 2/4
 
+--- page 3 ---
+III-3- En utilisant la conservation du débit volumique et la continuité de la surpression à } interface séparant les deux fluides, déterminer les coefficients de réflexion et de transmission en amplitude définis par Pr(xzo,t) Pt(xzot) T(p) et T(p) pi(x=O,t) pi(x=o,t) III-4- On définit |'intensité acoustique par la grandeur [ =< pv >, où le signe ( < > ) désigne la moyenne temporelle. IlI-4 - 1- Montrer que les coefficients de réflexion et de transmission en énergie R et T sont donnés par Zc2 ~Zc2 2 T = 4 Zc2Zc1 R = et Zc1 +Zc2 (Zc1 +Zc2)2 IlI-4-2- Quelle relation a-t-on entre R et T ? III-4-3- Qu'est-ce qu' elle traduit ?
+IV- Application à léchographie à ultrasons IV-1- Calculer le coefficient de réflexion en énergie pour les interfaces airlpeau et peaulgraisse. IV-2- Peut-on faire pénétrer des ultrasons dans le corps humain ? Justifier votre réponse. IV-3- Pour réaliser des échographies à ultrasons; on utilise un gel entre la sonde et la peau. Quel est Fintérêt de ce gel ? Comment le choisir ? Données Milieu Z (106S1 air 0.0004 Tissu mou peau 1.62 graisse 1.38
+Problème 2
+Dans tout le problème l'amplificateur opérationnel (AOP) est supposé idéal I - On considère le montage de la figure 2
+Vz
+Vi
+Rz
+Rp
+Figure 2
+[-] - Dans le cas où ]amplificateur opérationnel fonctionne en régime linéaire; montrer que |'on peut écrire la tension Vz de la forme Vz = GVa Exprimer G en fonction de Rz et Rz. Que représente G ? Concours Biologic et Géologie-Session Juin 2011 Epreuve de Physique Page 314
 
+--- page 4 ---
+1-2 Montrer que 1'AOP fonctionne en régime linéaire tant que Vi varie dans un domaine de tension que lon précisera. On définira une tension critique Vic que l'on exprimera en fonction de G et de la tension de saturation Vsat . I-3- Tracer la courbe Vz = f(V) pour V1 variant entre ~Vio et +Vo où Vio > Vic II - On considère le filtre de Wien représenté sur la figure 3
+R
+R
+V4
+Figure 3
+II-1- Exprimer le courant i en fonction de R,C,V4 et 4Ve dt II-2- Montrer que les tensions V3 et V4 sont reliées par une équation différentielle de la forme d2V4 dV4 dVz 4 auo 0}V4 = dtz dt 0o dt Où a est une constante à déterminer et 0 une pulsation qu'on exprimera en fonction de R et C. III - On regroupe les deux figures 2 et 3 suivant le schéma de la figure 4 :
+R
+VJ
+Vz
+R
+Rz
+R1
+Figure 4 III-1 - Montrer que l'équation obtenue en II-2 reste valable. III-2- Montrer que la tension Vi est régie par le système d' équations suivantes d2v1 + bw4 + wgVa = 0 Si |Vl<Vc dt2 dt 4+ b2o 4 + wV = 0 si lv,l > Vc dt2 dt Exprimer b1 et b2 en fonction de a et G . III-3- Pour quelle valeur de G peut-on générer des oscillations sinusoïdale ?
+gi 2[Gpneue
+Concours Biolqgie et Géologic-Session Juin 2011
+Epreuve de Physique
+Page 4/4

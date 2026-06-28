@@ -1,14 +1,443 @@
+--- page 1 ---
+ASi s2s4ad] œ.lg#lÿs~s Ua~ï dosall Lihsll @UELij) ihsitnl iUS Jal>Ui 2022 6Uj
+REPUBLIQUE TUNISIENNE Ministère de [Enseignement Supérieur et de la Recherche Scientifique
+Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs Session 2022 Concours Biologie & Géologie Epreuve de Physique
+Date 06 juin 2022
+Heure 8H
+Durée 3H
+Nb pages 6
+Barème Problème 1 12 pts
+Problème 2 08 pts
+L'usage d'une calculatrice non programmable est autorisé Tout résultat fourni dans l'énoncé peut être admis et utilisé par la suite, même s'il n'a pas été démontré par les candidats. Si au cours de l'épreuve, un candidat repère ce qui lui semble être une erreur d'énoncé, il le signale sur sa copie et poursuit sa composition en expliquant les raisons des initiatives qu'il est amené à prendre. L'épreuve comporte deux problèmes indépendants.
+Problème 1: Mécanique des_fluides Partie I : Pression dans un barrage On se propose de déterminer Pordre de grandeur de la pression de Peau au fond dun barrage. Pour ce faire; on établira la relation fondamentale de lhydrostatique. Considérons un récipient rempli dun fluide de masse volumique p en équilibre mécanique dans le référentiel 2 terrestre supposé galiléen. Découpons à l'intérieur du fluide et g dune façon fictive un cylindre de volume élémentaire dV , de Le fluide hauteur dz et de surface de base $ (Figure 1). L'axe (Oz) est la verticale ascendante de vecteur unitaire k. Le champ de z + dz pesanteur g est supposé  uniforme dans l'espace considéré. On note P(z) et P(z + dz)  respectivement, la pression du dV fluide aux côtes z et z + dz. 1. Citer   les   forces   appliquées au cylindre. En déduire   la relation fondamentale de lhydrostatique: dP = ~pg dz z = 0 Ik Figure 1 Le fluide est en réalité de leau stockée (retenue deau par un barrage poids de forme triangulaire construit sur le lit dun fleuve. La surface libre de leau est en contact avec latmosphère de pression Po (Figure 2)
+Concours Biologie et Géologie Épreuve de Physique- Session Juin 2022
+Page 1/6
 
+--- page 2 ---
+Po
+Ho
+ZA
+Lac-deretenue
+@5F2H2
+ZB 2 =
+Figure 2
+On donne la pression atmosphérique Po =1 atm ; la hauteur Ho = 50m ; la masse volumique de Peau p =103 kg m 3 et laccélération de pesanteur 9 = 9,81 m s-2 2. La masse volumique p étant constante, déduire la relation fondamentale de Phydrostatique relative aux fluides incompressibles AP = PB PA = Pg(zA ZB) 3. Soit le point C situé à la même côte que le point B. Exprimer (Pc  PB) et (Pc  PA) Que peut-on en conclure ? 4. Exprimer puis calculer la valeur de la pression PF au fond du lac. La comparer aux pressions   Pa et PB. Justifier la forme géométrique du barrage.
+Partie II La sédimentation La sédimentation est le phénomène de dépôt de particules en suspension sous l'effet de la pesanteur . Une suspension de débris formée par des particules d& 'argile supposées sphériques de même rayon R, se trouve initialement à la surface du lac.
+On se propose détudier le mouvement d'une particule avant de se déposer au fond du lac. On suppose que la particule est au repos à t =0 Dans  cette partie, la viscosité de leau n'est pas négligeable. On suppose que les forces de frottement visqueux sont modélisées par la loi de Stokes Fv = ~6nRnv
+On donne, la viscosité de leau n = 10-3 Pa. s la masse volumique de largile Parg = 1600 kg.m-3 et R = 0,5 cm.
+5. Citer les forces appliquées à une particule dargile. 6. Par application du principe fondamental de la dynamique; établir l'équation différentielle vérifiée par la vitesse v de la particule. 7. Déduire que le mouvement   passe par une phase   transitoire dont on   déterminera le   temps caractéristique 5. Donner sa valeur numérique. 8. Calculer la vitesse limite V1 atteinte pendant le régime permanent. 9. En supposant que le mouvement de la particule est uniforme à la vitesse limite vu, déterminer le temps At  nécessaire pour qu'€ 'elle se dépose dans le fond du lac. Comparer la valeur de At à celle de c. Conclure.
+Partie III Relation de Bernoulli-vidange On s'intéresse dans cette partie à l'écoulement d'un fluide parfait et incompressible. 10. Définir le débit volumique Dv. Déterminer son expression en fonction de la vitesse v de Pécoulement à travers une section $ supposée faible du tube de courant (Figure 3)
+Concours Biologie et Géologie Épreuve de Physique - Session Juin 2022
+Page 2/6
 
+--- page 3 ---
+11. Considérons une particule fluide de masse dm se déplaçant suivant la ligne de courant AB. On note PA et PB les pressions en A et en B.
+2
+Tube de courant
+Ligne de courant
+VA
+ZA
+Figure 3
+SA
+ZB
+SB
+Ecrire léquation traduisant le premier principe de la thermodynamique pour un système ouvert n'échangeant aucune énergie avec lextérieur. En déduire le théorème de Bernoulli 1 PA pv} + PgZA = 2 PB + pvg + PgZB. 2 12. En période de fortes crues, le niveau de l'eau monte et menace d'un débordement non contrôlé et donc le risque dinondations. Pour éviter cette situation; on ouvre des vannes pour lévacuation de /eau du barrage (Figure 4). Sachant que la surface SB de lorifice par lequel 2 jaillit Peau est très faible comparée à la surface libre Po Se de leau SA ZA 1) Déduire que la vitesse en un SA Vanne point de la surface libre de 1eau ouverte est   négligeable ZB (vA = 0)
+13. Calculer la valeur vB de la vitesse de leau en B. On donne ZA = ZB = 10 m. 14. Déduire la valeur du débit volumique en B. On donne SB =1 m?
+Figure 4
+Partie IV Mesure de la vitesse de l'écoulement dun fluide Leau de la vidange arrivée au sol s'écoule dans une rivière. Afin de mesurer  la vitesse de cet écoulement un dispositif comportant des tubes piézométriques est proposé (Figure 5) 15.  Qu'appelle-t-on la pression Pv au point N. Expliquer. 16. Appliquer le théorème de Bernoulli sur la ligne de courant  MN. Exprimer Pv en fonction de la pression PM au point Met la vitesse découlement v. 17. Déduire lexpression de la vitesse v de lécoulement en fonction de la dénivellation Ah = h2  h1'
+Concours Biologie et Géologie Épreuve de Physique- Session Juin 2022
+Page 3/6
 
+--- page 4 ---
+Po
+Po Tube piézométrique
+h1
+hz
+Sensde Fécoulement M
+2 = 0
+Figure 5
+18. Calculer la dénivellation Ah pour une vitesse de lécoulement v = 10 ms-1 Conclure concernant Putilisation pratique de ce dispositif. 19. Proposer un dispositif plus approprié. Quelle est alors la valeur de la dénivellation correspondante ? On donne la masse volumique du mercure PHg = 1360 kg m
+Partie V : Centrale hydroélectrique Les   centrales   hydroélectriques produisent de l'énergie électrique  propre et renouvelable. Elles exploitent l'énergie cinétique des cours d'eau. La transformation en énergie électrique se fait grâce à une turbine reliée à un alternateur . L'eau est acheminée du lac de retenue à travers une conduite cylindrique appelée conduite forcée   vers une turbine qui à son tour va évacuer cette eau vers un canal de fuite (Figure 6) On suppose que les niveaux de leau z0 et zo' sont constants avec Z0' Z0 = H. 20.  Expliquer le principe de fonctionnement   de la centrale hydroélectrique. 21. L'expression de la puissance utile Pu de la turbine reliée au débit volumique Dv deau qui lui parvient est donnée par: Pu 1 = Po' Po + 2P(v' = v8) + pg(zo' = Z0) Dv 21.a. Vérifier lhomogénéité de léquation. 21.b. Montrer en le justifiant que Pu DvpgH . 22. Le rendement r de la centrale étant estimé à 80%. Quelle est la puissance électrique produite par la centrale.
+On donne Dv = 10m3s-1 et H =100 m.
+Barrage
+Zo!
+EaTdu
+Conduite
+barrage
+forcée
+Turbine
+Canal de fuite
+H
+Zo
+Figure 6
+Concours Biologie et Geologie Épreuve de Physique- Session Juin 2022
+Page 4/6
 
+--- page 5 ---
+Problème 2 Signal et rayonnement
+Un régime transitoire correspond au passage d'un régime permanent à un autre; notamment à la mise en marche dun circuit électrique. Des phénomènes particuliers peuvent se produire lors du changement de régime; pouvant modifier le fonctionnement du circuit On considère un générateur de tension continue E alimentant un circuit composé dun ensemble de quatre   résistors, de trois   condensateurs   idéaux et dune bobine réelle dauto-inductance L et de résistance r. Initialement, linterrupteur K1 est fermé et linterrupteur Kz est ouvert. On attend que le régime permanent soit atteint. Le régime transitoire que nous allons étudier correspond au changement de régime dû à /ouverture ou à la fermeture dun interrupteur dans le circuit. 3C/4
+C/2
+c/2 HHI
+R
+K1
+3R
+R
+R
+Figure 1 1. En utilisant les lois dassociation série et parallèle; simplifier le montage donné par la figure 1 afin davoir le circuit RLC série donné par la figure 2.
+"L
+" c
+K
+Dans  la suite du problème, on   utilisera le circuit RLC série simplifié, formé par un seul résistor de R UR résistance R, dun condensateur idéal de capacité € et de la bobine réelle (L, r) 2. Le régime   permanent est   établi. Préciser en le Figure 2 justifiant, les  valeurs de i(t = 0-), UR(t = 0-), uL (t = 0-) et uc(t = 0-). A Finstant t = 0, on ouvre linterrupteur K et on ferme linterrupteur Kz: On étudie donc la décharge du condensateur de capacité C dans la bobine réelle (L,r) en série avec le résistor de résistance R. 3. Etablir léquation différentielle régissant lévolution de la quantité de charge 9(t) et montrer qu' elle peut se mettre sous la forme suivante: 424+Wd + w,9 = 0 dt? Q dt où /on exprimera W et Q en fonction des paramètres du problème. 4. Donner les significations physiques des grandeurs Q et Wo: 5. A t =0, rappeler et justifier les relations de continuité des grandeurs électriques pour la bobine dauto-inductance L et le condensateur de capacité C. Juste après la fermeture de Kz, déduire les valeurs de la charge 9(t = 0+) et la dérivée de la charge (dq dt t=0+ La figure 3 donne lévolution de 4 en fonction du temps. C
+Concours Biologie et Géologie Épreuve de Physique- Session Juin 2022
+Page 516
 
+--- page 6 ---
+4
+3
+M
+2
+9 $ (ms
+~2
+3
+Figure 3
+6 Quelle est la nature du régime de lévolution de 9(t) ? 7. Montrer que ce régime ne peut s'établir que pour une résistance R < Rc où Rc est la résistance critique que l'on explicitera en fonction de L et €. 8. La solution de léquation différentielle de la question 3), s'écrit sous la forme 9(t) = e-& t (Acos(@t) Bsin(@t)) 8. a. Déduire les expressions des constantes & et 0 en fonction de W et Q. 8. b. Déterminer les expressions des constantes A et B. 9. A partir de la courbe de la figure 3, déterminer les valeurs des deux maxima M1 et Mz enregistrés; respectivement, à t1 = 1.9ms et t2 = 3.9ms. 10. Calculer alors la valeur expérimentale de la pseudo-période T. En déduire la pseudo-pulsation 0. 11. Le décrément logarithmique désigne la mesure logarithmique de la décroissance périodique d'une grandeur pseudo-oscillatoire; qui s'écrit & = Ln (400) 11. a. Montrer que 8 = a T 6 2n 11. b. Déduire alors que = V4 Q2_1 12. A partir des mesures expérimentales de la figure 3, calculer le décrément logarithmique &. On donne C = O,1pF déduire les valeurs numériques de Q, W0, L et (R + r). 13. Que faire pour améliorer le facteur de qualité Q ?
+Fin de l'Epreuve
+Concours Biologie et Géologie Épreuve de Physique- Session Juin 2022
+Page 6/6
 
+--- page 7 ---
+43338}42942| æbkzlszis {~b
+REPUBLIQUE TUNISIENNE
+Ministère de FEnseignement Supérieur et de la Recherche Scientifique
+Jssa Libsi 2i Ealini
+isutianl Üasi Jal> +i
+Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs
+2022 69
+Session 2022
+Correction Epreuve de Physique
+Concours Biologie Géologie
+Problème  mécanique des fluides Le barrage
+Réponses
+Barème
+1
+Les forces appliquées au cylindre sont: 7 = P(z)sk |' = -P(z + dz)sk La résultante des forces de pression latérales est nulle. Le poids p = ~pSdzgk
+3
+0,5
+0,5
+0 ,5
+La condition déquilibre EFappliquées = g + F' +p = 0 (P(z) = P(z + dz)) - Pgdz = 0
+0,5
+P(z + dz) - P(z) = ~pg dz
+On obtient ainsi léquation fondamentale de lhydrostatique
+0,5
+dP = =pg dz
+0,5
+2.
+PB ZB JPR dP 2 ~p f dz Z A
+Corrigé épreuve de Physique Concours-Biologie-Géologie-session Juin 2022
+Page 1/9
 
+--- page 8 ---
+on   obtient   ainsi léquation fondamentale de   lhydrostatique   relative aux 0,5 fluides incompressibles
+AP = PB - PA = pgzA PgZB = pg(zA = ZB)
+0,5
+3
+Pc PB = pg(zB ~ Zc) = 0 ; Pc - PA = pg(zA ~ ZB)
+0,5+0,5 1,5
+AP ne dépend que de la côte z
+0,5
+4
+PF = pgHo + Po
+0,5
+1,5
+A.N. PF = 103 x 9,81 x 50 + 105 = 5,90 105 Pa
+PF = PA = pgZA > 0 = PF > PA
+0,5
+PF PB = PgZB > 0 = PF > PB
+La pression de Peau est plus élevée au fond du lac, ce qui justifie la forme 0,5 triangulaire de la structure du barrage.
+5
+; = mg = ~Parg TR3 gk 3
+le poids de la particule
+0,5
+1,5
+0,5
+7 = p? TR? gk
+la poussée d' Archimède
+rv = ~6rRnv = 6nRnvk la force de frottement visqueux
+0,5
+6
+On a d& 'après la RFD. 2 =m dv fapP dt
+4 4 Parg TR? gk + p TR3 gk + 6TRnvk = 3 3
+4 dv Parg TR3 ~k 3 dt
+0,5
+On obtient ainsi léquation différentielle vérifiée par la vitesse
+dv 9n p v = 9 1 - dt 2R2 Parg Parg _
+0,5
+7
+Résolution de léquation différentielle
+2,5
+Solution de léquation SSM
+Corrigé épreuve de Physique Concours-Biologie-Géologie-session Juin 2022
+Page 2/9
 
+--- page 9 ---
+91 = Ae 2R2 Vs (t) Parg
+dv 9n dv + 1 = 0 = = dt 2R2 Parg
+9n dt 2R2 Parg
+1 - P_)zR? , Parg Parg 9n
+Solution particulière Vp = cte =
+2R2 g(Parg p Vp = 9n
+0,5
+Solution générale
+9n 2R2 2R2 'g(Parg = p) v(t) = Ae Parg + 9n
+At = 0 ; v = 0
+0,5
+2R2 g(Parg 9n p) v(t) 2 1 = e 2R2 Parg 9n
+2R2 Parg 9
+0,25
+Le régime transitoire a comme temps caractéristique T
+2 x 0,25 10-4 1600 A.N. 1 = = 8,8 s 9 x 10-3
+0,25
+8
+Pendant le régime permanent le mouvement est uniforme
+1,5
+Pour t 9 00 ; V 2 V1
+2 Ainsi la vitesse limite est v = gR? (Parg 9n p
+2x9,81 0,25 10-4 (1600 ~ 1000) = 32,7 ms-1 9x10-3
+0,5
+AN 11
+9
+Ho At = Vl
+50 A.N. At = 32,7
+1,52 s.
+At < T
+0,5+0,5 1,5
+0,5
+La particule n'atteint pas le régime permanent.
+10.
+dV Dv = dt
+0,5
+Dv = Js vdS S
+Corrigé épreuve de Physique Concours-Biologie-Géologie-session Juin 2022
+Page 3/9
 
+--- page 10 ---
+Pour un fluide parfait   Dv = vS où v est la vitesse de lécoulement.
+0,5
+11.
+Léquation traduisant le premier principe de la thermodynamique pour un système ouvert n'échangeant pas dénergie avec /extérieur
+2,5
+1
+4 (h +2v2 + gz) = 0 Penthalpie massique h est donnée par
+0,5
+P h = u + PVm = u + p
+0,5
+Lénergie interne massique de ce fluide est constante (fluide 0,5 incompressible non visqueux n'échangeant aucune énergie avec le milieu extérieur) .
+Donc
++Zv2 + gz) = 0 2 Ce qui donne P + 2pvz + pgz = cte 2
+0,5
+1
+1
+Pa + 2pv} + PgzA = PB + Zpvg + pgzZB
+0,5
+12.
+Conservation du débit volumique SAVA  SBVB
+VA = SEvB ~ 0 SA
+13. La relation de Bernoulli sur la ligne de courant AB donne
+1,5
+0,5
+Pa + 2pv} + pgzA = Pe + 2pvg + pgzp
+0,5
+On obtient ainsi VB
+V2g(zA ~ ZB AN. VB 2 V2x 9,81 * 1 = 14 ms-1
+0,5
+14. Le débit volumique en B Dv = 14 X 1 = 14 m3 S ~1
+0,25
+0,25
+15.
+En N la ligne de courant est coupée ; Pv s' appelle la pression darrêt
+0,5
+0,5
+16.
+Bernoulli sur la ligne de courant MN
+1,25
+VM =v ; Vn = 0 ; ZM = ZN
+0,25
+Pn = Pm + 7 pv2 2
+Corrigé épreuve de Physique Concours-Biologie-Géologie-session Juin 2022
+Page 4/9
 
+--- page 11 ---
+17.
+0,5
+(Pn Pm) V = 2 p
+or Pn ~ PM = pg(hz h1)
+9 V = V2g(h2 = h1)
+0,5
+18.
+0,5
+1,25
+b2 Ah = h2 = h1 = 2g
+100
+AN. Ah
+~5 m 2x9,81
+0,25
+La dénivellation est trop élevée donc le système proposé n'est pas pratique
+0,5
+19.
+La mesure de la vitesse dun fluide se fait à Faide du tube de
+1,25
+Pitot
+(Pn Pm) 1 = 2 p
+PHg 2g Ah p
+0,5
+v2 X P Ah = 2 X g X PHg
+0,5
+1oox1oo0  37,5 cm 2x9,81x13590
+AN. Ah
+0,25
+20
+Lénergie   potentielle de   pesanteur de Peau se transforme en énergie cinétique qui en tombant sur la turbine Factionne et se transforme en énergie mécanique qui à son tour est convertie en énergie électrique par lalternateur
+21.9
+[Pul [Dv]
+[F][L] [T] -1 [F] = [P] Léquation est bien homogène [L]3 [T]-1 [L]2
+0,5
+0,5
+21.b
+Pu 1 = Po' ~ Po + 2P(v3 ~ v2) + Pg(zo' Z0) Dv
+0,5
+1,5
+Corrigé épreuve de Physique Concours-Biologie-Géologie-session Juin 2022
+Page 5/9
 
+--- page 12 ---
+Or Po' 2 Po = Patm et V =vo' =0
+0,5
+Donc
+Pu = pg(zo' ~ Z0) = PgH Dv
+0,5
+Ainsi Pu = DvpgH
+22
+Pu  10 X 1000 x 9,81 X 100 = 9,81 MW
+0,25
+0,5
+La puissance électrique produite Pe = rPu
+AN. Pe = 0,8 x 9,81 MW = 7,848 MW
+0,25
+Problème 2 : Signal et rayonnement
+1
+La résistance équivalente Réq = {(RIIR) + R}//(3R) =R
+2
+La capacité équivalente Céq = 9+ 3C = C
+2
+En régime permanent la capacité est Péquivalent dun interrupteur ouvert donc 0,5 i(t = 0-) = 0 0,5
+2
+donc uR(t = 0-) = 0.
+0,5
+Linductance est   léquivalent dun fil conducteur donc U (t = 0-) = 0. En 0,5 appliquant la loi des mailles uc (t = 0-) = E.
+3
+D'après la loi des mailles UR + UL + uc = 0
+0,5
+2,5
+di L- 4 (r + R)i + 4 = 0 dt C
+0,5
+0,5
+d2 q (r + R) dq 9 + + =0 dt2 dt Lc
+429 " dq 4 +W89 = 0 dt2 Q dt
+0.5
+Avec
+1
+0.5
+0o = et Q = 1 VLC R + r
+4
+Le facteur de qualité Q mesure le taux d'amortissement d'un oscillateur.
+0.25
+0,5
+Corrigé épreuve de Physique Concours-Biologie-Géologie-session Juin 2022
+Page 6/9
 
+--- page 13 ---
+0o est la pulsation à la résonnance.
+0.25
+5
+Lors de Pouverture ou la fermeture de Finterrupteur le courant électrique 0,5 qui traverse Vinductance est une grandeur   continue. Cette  continuité du courant est due à la continuité de lénergie emmagasinée par Vinductance qui est de la forme Li2 /2. Lors de louverture ou la fermeture de linterrupteur la tension aux bornes de la capacité est une grandeur   continue. Cette   continuité est due à la 0,5 continuité de lénergie emmagasinée par la capacité  qui est de la forme Cu? /2. uc(t = 0-) = uc(t = 0+) = E donc q(t = 0+) = CE 0,5 i(t = 0-) =i(t = 0+) = 0 donc d(t = 0+) = 0 dt 0,5
+2
+6
+C'est un régime pseudopériodique qui s'instaure .
+0,5
+0,5
+7.
+Il faut que le discriminent de Péquation (3) soit négatif
+2,5
+r2 + Wer +wa = 0 0
+0,5
+4 =
+") 4w} < 0
+L 3 < 2 = R < 2 =r = Rc Q Vc
+8.a.
+Les racines de léquation différentielle sont
+1,5
+rf =
+@+ j@ 4  2Q 2 Q2
+2{1 + jv4Q2 _ 1} 2Q
+La solution de léquation est donc
+Wo 9(t) = e 2Q (Acos(nt) + Bsin(Qt)) Par identification & = % et / 2 00 4Q2 _ 1 2Q 2Q
+0,5
+Corrigé épreuve de Physique Concours-Biologie-Géologie-session Juin 2022
+Page 7/9
 
+--- page 14 ---
+8.b.
+@t 9(t) = e 20 (Acos(nt) + Bsin(nt)) dq(t) = =œe ~œt (Acos(@t) + Bsin(nt)) dt + Qe-a t (~Asin(Qt) + Bcos(@t)) 9(t = 0+) = q(t = 0-) = CE = A = CE dq(t = 0+) Aœ = =QA + BQ2 = 0 = B = dt 9 CE B = V4Q2 1
+1,5
+0,5
+9
+t1 = 1.9ms 9 1.8V
+0.25
+0,5
+tz = 3.9ms 9 0.66V
+0.25
+10.
+T = 3.9  1.9 = 2ms
+0,5
+2t = = 3.14 103rad /s T
+0,5
+Il.9.
+e-Q t (Acos(nt) + Bsin( t))
+6 = Ln =Ln (e"T) = œ T e-& (t+T)(Acos(@(t +T)) + Bsin(@(t + T)))
+Il.b. Puisque 6 = œ T en remplaçant & et T par
+0,5
+0o Q = 2Q
+ZT T = Q
+2T
+2Q 00 v402 1
+2T
+0,5
+Alors
+6 = V4 Q2_1
+12 -
+Le décrément logarithmique 6 = Ln (400) =In (28 = 1.003 0.66 le facteur de qualité Q,
+1,5
+0,5
+Corrigé épreuve de Physique Concours-Biologie-Géologie-session Juin 2022
+Page 8/9
 
+--- page 15 ---
+0.25
+2T
+1 T2 6 = 3 Q = + = 3.16 V4 Q2 = 1 4 62
+la pulsation propre 0o, puisque œ  0 2Q
+8 et à = T
+0.25
+alors 0o = 28Q = 3.16 103rad /s
+Pinduction L
+0.25
+1 1 0o = 9 L = ~IH VLC @,c
+de (R + r).
+0.25
+L Q = 9 (R +r) = 4 c 1kn R + r Q
+13 -
+Pour améliorer le facteur de qualité, Il faut diminuer le taux damortissement en 0,5 réduisant la valeur de la résistance
+0,5
+Corrigé épreuve de Physique Concours-Biologie-Géologie-session Juin 2022
+Page 9/9

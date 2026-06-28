@@ -1,11 +1,174 @@
+--- page 1 ---
+X $ <
+REPUBLIQUE TUNISIENNE Ministère de /'Enseigncment Supérieur Concours natioraux d'entrée aur cycles de formation d' 'ingénieurs Session 2005
+9444) {2f*; Wuarsgsls
+Jsjlwlj ajbl cuuil iusocj>] 2005;~
+Concours Mathématiques / Physique et Physique / Chimie Wistitut qibuotHEQUE) PReParanoire ) (7u3es  dhnsininuss Sns Eprenve de Sciences et Techniques de 1Ingenieur
+Session Juiz 2005
 
+--- page 2 ---
+REPUBLIQUE TUNISIENNE Ministèze de /'Enscignemcrt Supéricur
+124499429424! #lsir:alzsuié Coucours cationaux d'entréc aux cycles de formation d'ingénieurs Jsivdd 3 jsuj Scssion 2005 diculi 200563 Concours Mathématiques et Physique et Physique et Chimie Epreuve de Sciences et Techniques de ]'Ingénieur
+Date Mardi 14 Juin 2005 Heure 8 E Durée 3 H Le texte du sujet comporte Il pages le dossier des documents réponses Barème A Conception (4 pts) Partie B : Mécanique (10 pts) Ponses compoatiq28 (9g85 (6 pts)
+Remarques I/ Les parties A, Bet Csont indépendantes: 2/ Les documents réponses DRI (Conception), DR2 (Mécanique) DRS (Automatique) totalité, rême vides, sont à rendre en fin de lépreuve Pn 3/ 'usage æune calculatrice programmable est interdit. Il est demandé aux étudiants de mentionner les principaux passages de leurs raisonnements et les résultats obtenus dans les espaces qui leurs sont réservés dans les Documents Réponses;
+PILOTE AUTOMATIQUE DE BATEAU Présentation Lors de la navigation; moyen et long cours; les navires et les bateaux s'équipenr de plus er plus dappareillage électronique assurant la commande automatique: Il remplace ainsi {e barresr € Jui épargne une manæuvre répétitive fatigante. Le rôle du barreur est de terir 12 barre d' orientation à bord d'un voilier où dun navire de plaisance Le système faisant l'objet de cette étude est un pilote automatique de bateau: Il s agit dun appareil qui permet de maintenir automatiquement le cap suivi par un bateau; et ce quelque soit Pétat de la mer et du vent (figure-1). Le cap est défini par Paxe longitudinal de la coque du navire et la direction du nord géogrephique.
+Figure-1 Maquette virtuelle 3D dun pilote automatique Description fonctionnelle En mode manue} le barreur impose Ie cap du bateau: La barre est alors dans {'axe du batea:: A cet instant, si le barreur relie Ie pilote à la barre et le fait passer en mnode automatique (pilotage automatique), le piioie lit le cap imposé et le mémorise comme cap à suivre
+Cuncouz Ma:témaique-Ph?s:qne 2t Physique-Zhimnie. Session Juin 2005
+Epceuvcdc ST:
+P? ge 1/:!
 
+--- page 3 ---
+Par % suite; il compere régulierement le cap suivi par 'e Daieau au cap imposé. S'i} détecte ur écan entr€ Jes deu< valeurs, il csinaade Ja barre de façon à provoquer la rotation du: baïeau poui lui faize rerrouver le cap 0 svre {cap imposé) (figure-2)
+Fhass 1
+Phase 2 Lc bateau 'éloigne du cap imposé
+Phase 3 Le pilcte commande la correction de la trajectoire
+Phase 4
+Phase 5
+Le bateau suit le cap imposé
+Le baleau corrige Le bateau reprend SOL cap son cap imposé
+Cap à suivre
+Figure-2 Différentes phases de correction du cap.
+Présentation du système Pilote automatique Un bateau est dirigé à l'aide dun gouvernail placé à larrière de la coque du bateau (figure-3) est constitué de Un safran Elément immergé dans [eau. Une mèche Axe du gouvernail. Cre barre iranche reliant le safran à la tige du pilote.
+En ziode automaiique; la commande de la barre est assurée par Ur pilote Mécanisme de commande Un conpas de route Instrument de mesure du cap. CAP Compas  dezoute
+Ige dupilote
+Coque innrd Mêche q Banc bateau IISr Safran Figure-3 Schéma du système de pilotage automanquc Action Sur la barre Cap à suivre Pilote automatique du gouvernail
+Conjnucs Mlathesaique-Psosicue e. Ph?siv =e-Ciuli e. Session Juin 2005
+Fprvnre de STI
+Fage 2/1 :
+Pilote
 
+--- page 4 ---
+Partie A TECHNOLOGIE DE COYCEPTION
+À-I- Analyse fonctionnelle du système La description fonctionnelle générale du pilote automatique est ébauchée sur le document suivant par [actigramme niveau A-0. Mode de marche Cap imposé Réglage Energie électrique Champ magnétique
+Maintenir
+Informations visuelles et sonores
+Bateau navigant dans un cap quelconque
+automatiquement le cap suivi par un bateau Pilote automatique Bateau
+Bateau dans un cap corrigé
+Le pilote automatique est principalement composé des éléments suivants Une_partie_commande (pupitre) permettant le traitement des informations et {a gestion du système. Une partie opérative (pilote) assurant la manœuvre du gouvernail du bateau Un_compas de_route pour mesurer d une manière continue le cap suivi par le bateau.
+A-I-1- Le niveau A-0 relative à la fonction globale Maintenir automatiquement le cap suivi par un bateau > se décompose en trois niveaux: En utilisant les données de présentation générale du système; compléter ]actigramme niveau AO sur le document réponse DRI.
+La partie opérative est constituée à son tour par les organes suivants Un_pilote de commande pour [adaptation de l'énergie Un gouvemnail + une barre franche pour [orientation du saftan: Une coque de bateau A-I-2- Le niveau A2 relative à la fonction principale < Manœuvrer lorientation du bateau " est répartit en trois niveaux . Compléter ]'actigramme niveau A2 sur le document réponse DRI_
+Le pilote de commande qui permet dadapter l'énergie est composé de Un moteur électrique à courant continu Un réducteur de vitesse Un organe de transformation de mouvement. A-I-3- Compléter F'actigramme niveau A21 sur le document réponse DRI.
+A-I- Etude graphique On donne le dessin en perspective de la bride de fixation: Compléter le dessin de définition de cette pièce sur le document réponse DRI par la vue de face la vue de gauche; la vue de dessous en coupe A-A ; la section sortie B-B.
+Concours Mathemnatique-Physique et Physique-Chime. Session Juin 2005
+Epreuvc de STI
+Page 3/11
 
+--- page 5 ---
+Partie B ETUDE MECANIQUE
+L'étude portera sur le mécanisme de commande (pilote) défini par la figure 3. La figure-B.1 représente le schéma cinématique de ce mécanisme constitué principalement par les éléments suivants
+Le bâti [0] est lié au repère 90(0,00,76,70) supposé galiléen (absolu) Le support [1] est lié au repère 9(0,4,,8,70). 1 est en liaison pivot daxe (0,5,) avec le bâti [0]. Son mouvement est paramétré par [angle a = (o,4)= GJ; (figure-B.2.a) L'arbre primaire [2], lié au repère %4(0,4,],4,) , est en liaison pivot daxe (O,,4) avec le support [1]. Son mouvement est paramétré par l'angle w= G,J)= @,,7,) (figure-B.2.b). Le coulisseau [3], lié au repère %,(DF,J,70) , est en liaison hélicoïdale à filetage droit de pas p1 et daxe (D,7;) avec l'arbre [2] d'une part, et en liaison glissière daxe (,4) avec le support [1] dautre part. L'arbre secondaire [4], lié au repère %,(A,4,/,4 ) , est en liaison supposée ponctuelle de normale (j;) avec l'arbre primaire [2]. Il est également en liaison pivot daxe (A,7;) avec le support [1]. Son mouvement est paramétré par ['angle €-G,J)-l,7) (figure-B.2.c) Le coulisseau du potentiomètre [5], lié au repère 9,(B,447,70) , est en liaison hélicoïdale à filetage gauche de pas p2 et daxe (B,4;) avec ['arbre secondaire [4]. Il est également en liaison glissière d'axe (C,4) avec le support [1]. Le gouvernail [6], lié au repère 9(F,f6J67) , est en liaison rotule de centre F avec le coulisseau   [3]. Il est également en liaison  pivot d'axe (H5) avec le bâti   [0]. Son mouvement est paramétré par ['angle y=(o*0-G65/0 (figure-B.2.d).
+Les positions des différents points sont définies par les relations vectorielles 00, 44 +boJ  +h,7o AB = 4t)4 <U= -44-RJ AC= %,4 AA= &4-RJ; DF 9,4 0,5= x(t)4 FH = bys 0E= &,4 <F=Lo 7 +EJo - h, 70 Les angles a, 4 8 et Y sont les paramètres angulaires du mécanisme Les a;, bi, Ri hi Lo et 20 sont des constantes géométriques du mécanisme.
+B-I- Géométrie des masses
+Soit (S) une plaque triangulaire homogène de masse m; de base b et de hauteur h, liée au repère $(P,Æy,2) (figure-B.3).
+B-I-l. Déterminer la position du centre d'inertie G de (S) dans le repère $(P,x,y,2) . B-1-1. Déterminer la matrice d'inertie de (S) : [Ip( ,(S)1s ' au point P, exprimée dans la base B(5y,z) _
+Concours Mathémarique-Physique et Physique-Chimie- Session Juin 2005
+Eprcuve dc STI
+Page 4/11
 
+--- page 6 ---
+On suppose que le gouvernail [6] est composé dun ensemble (mèche+barre franche) de masse négligeable et d'un safran sous forme dune plaque trapézoïdale homogène de masse m6 (figure-B.4)
+B-1-3. Montrer que le centre d'inertie G6 du gouvernail est défini par HG,= bsJs -h6 70 Exprimer   les   constantes b6 et h6 en fonction des   caractéristiques   géométriques du gouvernail B-1-4. Montrer que la matrice d'inertie de [6] [Ix {(6)186' au point H dans la base $6 est de la A6 forme [Iu (6)]36 B6 D =D C6 36 Déterminer les moments et le produit dinertie en fonction de m6 et des caractéristiques géométriques du gouvernail.
+B-II- Etude Cinématique B-I-l. Tracer le graphe des liaisons du mécanisme B-I-2. Dérerminer 'es vecteurs rotations 5(1/0) , 5(2/1) , 5(3/1), Q(4/1) , @(5/1) et 52(6/0) B-Il-3. 2) Calculer la vitesse V(Ie2/1)_ b) Calcuier la vitesse V(Ie4/1) En appliquant la condition de roulement sans glissement entre les solides [2] et [4] au point [ exprimer la relation entre et & B-I-4. Ecrire le torseur cinématique {0(n2} en fonction de et du pas p1, âu point D; du solide {3] dans son mouvement par rapport au repère (Rz) B-I-:. Calculer, par dérivation directe; la vitesse V(De3l1) et en déduire la relatioa entre € et w(t) . B-[-6. Ecrire le torseur cinématique {86i4} en fonction de & et de pas p2; au poinf B, du solide [5] dans son mouvement par rapport au repère (R4). B-I-1. Calculer, Far dérivation:   directe, la vitesse V(BeS/l) et en déduire la relation entre 8 et i(t) B-I-8. Exprimer le rapport *62 en fonction des pas p1et p2 et des rayons R1 ct Rz. A (t) B-I-9. a) Calculer la vitesse V(De3/0) en passant par O1. b) En déduire la vitesse V(Fe3/0) . B-I-10. Calculer la vitesse V(Fe6/0) en passant par le point H et Fexprimer dans 'a base 31 B-I-1. Ecrire la condition cinématique au point F et en déduire le système déquations qui en découle B-I-12 Celculer la vitesse V(G,/0) en passant par le point K
+Caazours Mathérna:iquc-Physique et Physique-Chimie. Session Suin 2005
+Epreuve de ST!
+Fage "i
 
+--- page 7 ---
+Dans toute la suite du problème; on suppose que
+le coulisseau [3] est de masse m3, de centre d'inertie D et de moment dinertie par rapport à Paxe (D"o) J, -10,4)(3) . Le gouvernail [6] est de masse m6, de centre dinertie G6 (tel que HG6 b6J6 -h6 70 ) et TA6 de matrice d'inertie [Iu (6)]86 B6 D6 ~D6 C6 JB6 Tous les autres solides sont de masses négligeables.
+B-III- Etude Cinétique
+B-III-1. Calculer le torseur cinétique {861} au point D, du solide [3] dans son mouvement par rapport au bâti [0] B-III-2 Calculer le torseur cinétique {8(6/0} au point H, du solide [6] dans son mouvement par rapport au bâti [0]. B-III-3 Soit {E1} {{1,2,3,4,5,6}, Calculer  lénergie  cinétique du système   {E1} dans son mouvement par rapport au bâti [0] Ec(E,/0)
+B-IV- Etude Energétique
+On suppose que laction de leau sur le gouvernail [6] est représentée; au point H par le Fo 76 torseur {T(eau 9 6)}n 70 On suppose que   les   actions mécaniques   extérieures   exercées sur   le coulisseau   [3] sont fFF +FzD  ) représentées, au point D, par le torseur {rG +3)} où F1, Fz et CR sont CR = des composantes connues On suppose que ['action mécanique de la pesanteur est négligeable devant les autres actions mécaniques. On suppose que les liaisons, aux points F et H sont parfaites: Pour représenter Paction mécanique; au point Q, du solide sur le solide (i), on utilisera la Xji Lj notation suivante {rG -i)} Yj Mj avec j <i Zj Nji (Q,F,Jjuj)
+B-IV-1. Faire linventaire des actions mécaniques exercées sur le système {E2} = {3,6}. B-IV-2 Calculer la puissance des actions mécaniques extérieures exercées sur le système {E2} dans son mouvement par rapport au bâti [0]. B-IV-3. Ecrire léquation qui découle de Papplication du théorème de lénergie cinétique au système {Ez} dans son mouvement par rapport au bâti [0] .
+Concours Mathérnatique-Physiquc et Physique-Chimnie. Scssion Juin 2005
+Eprcuve de STI
+Pagc 6/11
 
+--- page 8 ---
+5
+5 s ]
+1 9 1 1 1 1 É 1 1 1 1 | 1
+5
+25
+1
 
+--- page 9 ---
+Z
+72
+0 x=X
+0 70=7,
+Jz
+70
+01
+J
+Fig-B.2.a Mouvemcnt de [1] par rapport à [0]
+Fig-B.2.b Mouvement de [2] par rapport à [1]
+7,
+5
+y
+x=x
+0 70=76
+H
+0
+W
+Fig-B.2.c Mouvement de [4] par rapport à [1]
+Fig-B.2.d _ : Mouvement de [6] par rapport à [0]
+0 x
+Figure-B.3 Plaque triangulaire homogène dans le plan (Psy,7)_
+Barre franche
+70
+0 16
+Mèche
+Safran
+2b
+Figure-B.4 Forme simplifiée du gouvernail [6].
+Concours Mathemetique-Physique et Plssique-Chimie.Session Juin 2005
+Epreuve de STZ
+Page 8/11
 
+--- page 10 ---
+Partie C AUTOMATIQUE
+NB: Les parties C-I et C-II sont indépendantes: Les réponses doivent être rédigées sur les documents réponses.
+Description du système On s'intéresse à létude du système de commande utilisé par le pilote automatique du bateau: La première partie est consacrée à la détection du cap suivi par le bateau. Celle-ci est effectuée par un capteur optique qui remplacera le potentiomètre utilisé dans la version dorigine. La deuxième partie traite lasservissement du cap du bateau.
+Partie C-I: Étude du codeur optique de position.
+Un codeur optique à dix pas (figure C.1) est installé sur la barre franche du gouvernail du bateau afin de détecter sa position angulaire Le code binaire à dix pas de le position angulaire est fourni sur quatre bits (a, a2 a1 a) auxquels correspondent les quatre bits de sortie du transcodeur (S; S2 Sp So) a3 S3 Barre Codeur a2 Transcodeur S2 franche optique à a1 S1 dix pas 20 So
+Figure C.1 Schéma synoptique du circuit combinatoire de détection du cap La combinaison de dix pas, fournie par le codeur optique; est détaillée sur le tableau C.I: Pas S3 S2 S1 S0 a0 0 000 0 00 0 0 1 0 0 011 0 100 5 0 101 0T10 0 111 1000 100 1 Tableau C.1
+Lobjet de l'étude envisagée est la synthèse d'un système de transcodage fournissant la position angulaire en code binaire naturel sur les sorties (S; S2 S1 So)
+CI1. Quelles sont les propriétés du code utilisé ? C.I2. Etablir la table de vérité des sorties (S3 S2 S1 So) en fonction des entrées (a3 a2 91 %)
+Concours Matiemnatiquc-Fhysique et Physique-Chimie Session Juin 2005
+Epreuve de STI
+Page :  9/11
 
+--- page 11 ---
+CI3. Donner les tableaux de Kanaaugh et les expressions algebriques simplifiées des sorties (S;S2S1So) C14. En déduire le logigramme des sorties en utilisant des portes logiques élémentaires à deux entrées (NON, OU, ET).
+PARTIE C-II: ETUDE DE LASSERVISSEMENT DU CAP
+Le système à étudier est constitué dun moteur à courant continu et à aimant permanent muni dun capteur optique de position et dun réducteur mécanique entraînant la barre franche du gouvernail. Les notations suivantes sont utilisées pour représenter les paramètres du système: ua (t)  Tension d'induit. %t)  Position angulaire de la barre fianche. @réf (t) : Consigne de position. Le couple résistant; correspondant à la charge transmise à l'arbre du moteur, est supposé nul:. La fonction de transfert du système d'entraînement de la barre franche est alors de la forme suivante: 0,1 p @6p) T(p) e Ua (p) p(l+Sp) Où U. (p) représente la transformée de Laplace de u  (t) et le terme e-0,1p exprime le retard qui provient du dispositif de la transmission mécanique Les transformées de Laplace des fonctions utiles sont données dans le tableau C.2
+f(t) t>0
+F(p)-L(f(t))
+1
+P 1 p+a
+~ar e
+1-e p(l+r p) f(t--) Fo)e-rp Tableau C.2
+CILL Calculer et tracer la réponse à une entrée de type impulsion de Dirac.  Commenter le résultat obtenu_
+C.I.2 Le système caractérisé par la fonction de transfert   T(p) est  inséré dans   la boucle dasservissement donnée par le schéma bloc de la figure C.2. OrefP Ua(p) R,p) T(p)
+Figure C.2 schéma bloc du système asservi Où R(p) représente un régulateur à action proportionnelle (R(p)-K)
+Ccac Ous Mathematique-Fuysique et Physique-Chimie Session Juin 2005
+Epreuve de STI
+Paze 10/11
 
+--- page 12 ---
+CIL.2.1 . On   suppose, dans un premier temps, que le retard est négligeable (c'est dire T(p) quelle est la   classe de ce système ? Calculer   alors Verreur   statique de p(l+5p) position . Etudier la stabilité du système en boucle fermée en fonction de K.
+C.II.2.2 En tenant compte du retard, des essais harmoniques ont donné les lieux de Bode de T(jo) représentés sur la figure C.3:
+Figure C.3. Diagramme de Bode
+g
+135
+5 180  225
+270 1c *
+107
+Pulsation {radlsec)
+C.I.2.2.1. Déterminer, approximativement; les valeurs de la marge de gain (MG), de Ja marge de phase (MP) et de /erreur statique de position: CIL2.2.2. En déduire la valeur du gain limite Kc assurant la stabilité du système en boucle fermée. C.I.2.2.3 Comparer la valeur &e Kc par rapport' à la valeur trouvée en (CII.2.1). Conclure. CI3 Proposer un régulateur permettant daméliorer la rapidité du système en boucie termée Justifier le choix de ce type de régulateur
+Concours Mazhematique-Physique et Physique-Chimie. Session Juin 2C05
+Epreuve de STI
+Paçe 2Vn1

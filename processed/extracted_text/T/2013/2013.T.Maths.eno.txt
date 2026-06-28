@@ -1,4 +1,91 @@
+--- page 1 ---
+Ttfuy REPUBLIQUE TUNISIENNE 0s Minisere & /Enœignêmênl Supériur a de la Rechrche Scienlilique @bLs) Conours Nationaux d'Entrée uux Cycles Qe5 de Formation d'[ngénieurs Session 2013
+Tirut Qaparaon 989} =60) runuotysque t#læèp;s 21~15 Gau ?jl Zli ilidel @K Jly 2012 &
+Concours Technologie Az Epreuve de Mathématiques Date: Lundi 3 Juin 2013 Heure 8 H Durée: 4 heures Nb pages: Barème:
+grande inportance sera attachée à la rigueur du raisonnement, à la clarté et au soin de la sentation. L'usage des calculatrices n'est pas autorisé. {t'aappelé eque tout résultat énoncé dans le texte peut être utilisé pour traiter la suite, n'a pu être démontré meme
+Problème 1
+ns tout le problème
+n est un entier naturel tel que n > 2 In est la matrice identité de Mn(R) 'A est la matrice transposée de A C(R") désigue Fensemble dds endomorphisnnes de R"
+On rappelle que la trace dune matrice A = (a;)<ij<n € Mn(R), est Tr(A) a;i 1e1 Partie I Trace dune matrice Montrer que; pour tout (4,B) € (Mn(R))? On a: (a) Tr(A+B) = Tr(A) +Tr(B) (b) Tr(AB) = Tr(BA), (c) Tr(tA) = Tr(A). 2. Montrer que si A et B sont deux matrices semblables de Mn(IR) alors Tr(A) = Tr(B) (a) Vérifier que Vapplication f : Av + Tr(A) est une forme linéaire SUT Mn (R) (6) En déduire la dimension du sous-espace vectoriel F = Ker(f) pcous Technologie Session Juin 2013 Épreuve de Mathématiques Page 1/5
+48
+55' ,
 
+--- page 2 ---
+On note H = RIn = {XIn;X € R}
+SastTtut ra2suon usuotieque unss (a) Montrer que la somme F + H est directe 01 (b) En déduire que Mn(R) = F 0 #. (c) Soit A € Mn(R). Décomposer A en somme dun élément de F et d'un élément de #. Partie II Une norme matricielle Soit (A,B) € (Mn(R))?. On pose < A,B >= Tr(' AB) A Norme de Schur | Ils et distance associée 1. Montrer que < > est un produit scalaire sur Mn(R) on munit Mn(R) de ce produit scalaire et on note | Ils la norme qui Dans toute la suite lui est associée. (|l Ils = vz4,7S), appelée norme de Schur.
+3. F
+4. [
+5.
+Soit
+ue matrice orthogonale .  Moutrer que; pour tout A € Mn(R) on a:
+AO Is=ll 0A Ils=Il A |ls
+Soit læ
+On pose
+Sn(R) = {A € Mn(R) tel que 'A = A}
+et
+A,(R) = {A € Mn(R) tel que *A = -A} (a) Montrer que, pour tout A € Mn(R), (A+'A) € Sn(R) (b) Montrer que Mn(R) = Sn(R) @ An(R) (c) Montrer que cette sonme directe est orthogonale. de Mn(R) et A Mn(R) Ou pose d(A,F) Soit un sous espace vectoiel inf_| A = M Ils. MeF Quelle est l'unique natrice p(A) € F; telle que d(A, F) =ll A - p(A) Ils. 5. En déduire que, pour tout A € Mn(R), d(A; Sn(R)) = 2 Il A - *4 |s: 6. Déterminer de même d(A, An(R)), pour A € Mn(R) B. Étude dun exemple
+Pour
+L'obje de Ga
+On munit R3 de sa base et de son produit scalaire canoniques . On considère les matrices suivantes de Ms(R): =1 J = 1) et M = 'AA. A = =1
+Calculer d(A, As(R)) et d(A; S3(R)).
+Page 2/5
+Conca
+Concours Technologie Session Juin 2013
+Épreuve de Mathématiques
 
+--- page 3 ---
+Siftur Fe2?6  8s @rutikeque) ass SA CIGEN9B
+(a) Montrer que J admet deux sous-espaces propres E1 et E2 orthogonaux; avec dim(E2) = 1. Donner une base (01, 02, v3) de R' formée de vecteurs propres de J avec v3 € E2- On pose U2 U1 + Q.U2 . Déterminer Q € R pour que "1 et u2 soient orthogonaux. d) En déduire une base orthonormée de R3 formée de vecteurs propres de J. (e) Déterminer alors une matrice orthogonale P et une matrice diagonale 4 telles que
+4 = P-'JP.
+3. Exprimer M à laide de 3: En déduire qu'1l existe une matrice diagonale D à termes tous positifs telle que D? = P-'MP
+5. Comparer M Ils et D2 |s.
+Problème 2
+Soit la fonction T (Gamma) d'Euler définie sur ]0, +o[ par:
++00 tr-le-tdt
+T()
+Pour n € N* et z elo, +o[ OIl pose:
+nI n!
+In(z) I(I+1)-(r+n)'
+Lobjet de ce problème est de donner quelques propriétés de la fonction T et d'établir la formule de Gauss suivante: Vr €jo; +w[, T(r) = lim Tn(z) n ++0
+Partie I
+Convergence simple de la suite de fonctions (Tn)neN-
+1. Soit Yn
+In n, Vn € N* .
+k=zl
+a) Montrer que ~n+1 Yn =0(4) (b) En déduire que la suite (7n) est convergente. On note 7 = lim Yn- "S++0
+(a) Montrer que, Vn € N' et Vz €J0, +o[ on a:
+In(Tn(r))
+In(z) Yn I+ gx(z) k=1
+où gk(z)
+In(1 + 5) Vk € N* .
+Concours Technologie Session Juin 2013
+Épreuve de Mathématiques
+Page 3/5
 
+--- page 4 ---
+ASTiTuT Faera 7 @ruoivqud "ax% (b) Montrer que In converge simplement sur lo,+ool _ +o Vaecnens On note G(z) = In(z); Vz eJ0; +o[ n=1 est de classe C1 SU Jo; +o[ et que; pour tout ejo, +œ[ (c) Montrer que
+G'(r) 2 n=1
+nl + I
+(d) Prouver que la suite de fonctions (Tn)neN" converge simplenent; SUI Jo; +0[: On note H(z) lim Fn(z), Vz €J0, +0[ n-++0
+(a) Justifier que H(1) = 1. (b) Exprimer la fonction H à l'aide de G. (c) En déduire que H est de classe CI sur ]0, +0[ une relation entre Fn(z + 1) et n(æ) pour tous 5 ejo,+o[ et n €N Donner (b) Etablir que Væ eJ0, +œ[; H(c +1) = æH(z) c) En déduire que Vn € N, H(n + 1) = n! (d Montrer que Fon a H(r) 1 au voisinage de 0+ Partie II A. Relation entre les fonctions Gamma et Zêta Montrer que la fonction t P f(z,t) = t-1e-* est intégrable sur J0, +oo[ (a) si et seulement si z €Jo, +o[ (b) Calculer T(2). expressions de 91 et 02 f Déterminer les SUI j0, +o[xJo; +%[ (c) ôr àr2 (a) Soit [a,b] cJo;+o[ et H € {0,1,2} Considérons Yk la fonction définie sur J0, +o[ par (~Int)k ta-1 si t €j0; 1] Pk(t) = (Int)kt-1 e-+ si t e]1, +o[
+Montrer que 9k est intégrable SU Jo; +œ[ (b) En déduire que F est de classe C2 sur J0,+o[ et Vk € {0,1,2}, Vr ej0, +o[ +0 F(k)(z) (Int)k tI-1e-tdt.
+que la fonction Ç (Zêta) de Riemann est définie sur ]1, +o[ par On rappelle +o Ç(r) = nI n=1
+Pour œ > 1, on pose
++0o to = dt et _
+Ia
+Page 4/5
+Concours Technologie Session Juin 2013
+Épreuve de Matbématiques
 
+--- page 5 ---
+Montrer que: Va > 1; Io existe. (b) Prouver que Va > 1,
+(sestiru; 7522500 Csuothxque) 8e Wsay #
++00 +00 ta-1e nt Ia = 2 dt. n=1
++0o Exprimer t"~1e-ntdt en fonction de T(œ) iii. En déduire que Iœ F(a) ((œ) ,œ > 1
+Soit 9 la fonction réelle 2-périodique définie par: 9(æ) = 22 _ 72, Vz € [~T, 7] . (a) Déterminer les coefficients de Fourier trigonométriques 0n(g) et b,(g) de 9. (On rappelle que: Vn € N; an(g) = ! 9(r) cos(nr)dz et bn(g) = ! J g(2) sin(nz) )dz) +00 (b) Montrer que, Va € R, 9(z) = 72 + 4 2(1" cos(nz). n2 71=1 (c) En déduire les valeurs de Ç(2) et I2. B. Convergence simple de (Tn)neN' vers
+1. Soit B la fonction définie par: B(z,y) = t-1 (1 _ t)v-Idt.
+(a) Montrer que B est bien définie sur J0, +o[xJo, +o[ (b) Montrer que, YI, ejo, +0[, B(z,v) = B(y, z). (c) Montrer que, Vn € N' , Vz €J0, +%l B(z," +1) = ?B(r+l,n) n! En déduire que, Vn € N  , Vz eJo, +o[ B(æ,n +1) = z(z+1) (c+n) (d) Prouver que: VI,y ej0, +c[, B(z,y) = 2 (sin 0)2z-1 (cos 0)2y-1 d0 . 22n (n!) 2 En déduire que: Vn € N, (sin 0)2n+1d0 (2n + 1)! Pour tout n € N* on pose fn [0, +œ[  R, la fonction définie par: si 0 < t < n f6) = { % 4" si t > n. Etablir que: In(1 + u) < u, Vu €] - 1,+o[ En déduire que: fn(t) < e-t, Vt € [0; +o[ Montrer que (fn) converge simplement sur [0, +oo[ vers la fonction t + et d) Montrer que: Vz €Jo; +o[ lim '(1 _ E)"t2-1dt = T(z) n=++0 (e) Déduire de ce qui précède que Vz €J0,+0[ T(z) = lim In(z) = H(z) n4+0
+Prouver que: Vz €j0, +o[ F(s) T(z) =7-4+8(2-4) 1l=1 En déduire que: T(1) = -Y et T"(1) = 7?+ 4
+Concours Technologie Session Juin 2013
+Épreuve de Matbématiques
+Page 5/5

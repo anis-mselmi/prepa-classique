@@ -1,6 +1,137 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de l'Enseignement Supérieur et de la Recherche Scientifique
+4259813)9633 "Ujrisets ULs]
+Concours Nationaux d'Entrée aux Cycles de Formation d'Ingénieurs
+Jsnl absl 2iMbliji DhaniJi :ssjal >Ji
+Session 2010
+2010 ;,9
+Concours Biologie et Géologie
+Epreuve de Chimie
+Date Mardi 1 juin 2010
+Heure : 8h
+Durée : 3h
+Nbre de pages : 8
+Partie A: Chimie inorganique Problème / Problème Problème
+Problème IV
+Barème12/20
+1 pt
+3,5 pts
+3,5 pts
+4 pts
+Partie B.: Chimie organique : Problème / Problème 7l
+Barème 8/20
+3,5 pts
+4,5 pts
+Cette épreuve comporte 7 pages de texte et un document annexe à rendre avec la copie Les parties A et B doivent être traitées sur deux copies séparées. Les candidats sont priés de présenter leurs réponses dans lordre même de l'énoncé L'usage des calculatrices électroniques de poche non programmables est autorisé Aucun échange n'est autorisé entre les candidats WstIUT CITaATOIR: _ 4 BILIOTHEQUE etudes  DinGENivis SFx
+Concours Biologie et Géologie Session Juin 2010
+Epreuve de Chimie- Page 1/8
 
+--- page 2 ---
+PARTIEA: CHIMIE INORGANIQUE
+DEBUT DE L'ENONCE
+Problème I : Cristallographie Le chrome Cr cristallise dans un réseau cubique de paramètre a = 2,89   et de masse volumique p = 7,18 g cm-3.
+1) Donner une représentation en perspective de la maille et de son contenu 2) Etablir Pexpression puis calculer
+2-a) le rayon du chrome.
+2-b) la compacité du réseau:
+Données :
+Masse molaire atomique (g.mol-) ; Cr = 52.
+Nombre dAvogadro NA = 6,023*1023 mol-1 .
+Problème II : Chimie de coordination
+Les ions 24Cr2+ et 24Cr3+ forment; en solution aqueuse, des aquacomplexes octaédriques. 1) Ecrire la configuration électronique de Yatome de chrome et celles de ses ions bivalent et trivalent dans leurs états fondamentaux.
+2) Donner la formule chimique ainsi que le nom de chacun des deux aquacomplexes: 3) L'aquacomplexe de lion Cr3+ absorbe dans le domaine du jaune (55Onm <1<650nm) alors que celui du Cr2+ absorbe dans le domaine de Yorange (650nm<<720nm) Préciser le domaine dénergie (en cm-') où se situe la valeur du terme spectrochimique Ao > pour chaque complexe
+4) Déduire P'effet du degré doxydation de latome central sur le terme spectrochimique K< Ao >
+5) On mesure des éclatements du champ cristallin Aol = 17400 cm-1 et Aa2 = 13900 cm-1. Attribuer à chaque aquacomplexe la valeur qui lui correspond.
+Concours Biologie et Géologie Session Juin 2010
+Epreuve de Chimie- Page 2/8
 
+--- page 3 ---
+6) Calculer les énergies de stabilisation du champ cristallin octaédrique des ions Crz+ et Cr3+ en solution aqueuse sachant que   lénergie  dappariement du Cr(II) est de 23500 cm-1
+7) Calculer le moment magnétique effectif de chaque aquacomplexe
+Problème III : Thermodynamique Des mesures effectuées à 55 C fournissent les pressions partielles de l'éthanol (1) et du benzène  (2) dans la phase   gaz en équilibre avec une solution   liquide pour des compositions; indiquées en fraction molaire; X1 variables. Le diagramme de Yannexe 1, donne les variations des pressions de vapeur p1 et p2 en fonction de la fraction molaire en phase liquide X1 En utilisant ce diagramme répondre aux questions suivantes: 1) Laquelle parmi les courbes (A) et (B) qui représente p1 f(x1)? 2) Quelles sont les valeurs des pressions de vapeur saturante de (1) et de (2) à 55 C. 3) En supposant que le mélange éthanol-benzène se comporte de manière idéale dans tout le domaine de compositions. 3-a) Exprimer les pressions partielles de (1) et (2) en fonction de X1. 3-b) Représenter sur le même diagramme de l'annexe 1, p1 = f(xs) et p2 = f(x.). 4) Le mélange liquide est-t-il réellement idéal ? 5) Le mélange éthanol-benzène se fait-il avec absorption ou dégagement de chaleur ? 6) Discuter Fallure des courbes (A) et (B) aux voisinages de X1 = 0 et de X1 =1 et déterminer les constantes de Henry correspondantes 7) On se propose détudier l'équilibre liquide-vapeur dun constituant Ki > dans un mélange binaire. 7-a)  Rappeler lexpression du   potentiel   chimique Hgaz de ce constituant en fonction de son potentiel chimique standard à la température T, en supposant que la phase gazeuse est parfaite:
+7-b) Rappeler aussi la relation entre le potentiel chimique u"  de ce constituant et son coefficient dactivité Y; (référence corps pur) dans le cas où le mélange est supposé non idéal.
+7-c) Déduire la relation entre p; et Yi.
+8) Calculer les coefficients d'activités Y1 et Y2 de Yéthanol (1) et du benzène (2) pour une composition X1 =0,55.
+Concours Biologie et Géologie Session Juin 2010
+Epreuve de Chimie- Page 3/8
 
+--- page 4 ---
+Problème IV : Oxydo-réduction-Pile-Produit de solubilité Le chrome peut exister sous les formes suivantes Cr(sd) Cr2+(aq), Cr3+(aq), Cr (OH)3(sd) et Cr2072-(a9) 1) Déterminer les degrés doxydation du chrome dans ces espèces. 2) Déterminer le potentiel standard du couple Cr3+ /Cr2+ .
+3) Dans une solution; de pH fixé à 1, on introduit les trois formes suivantes Cr3+ ([Cr3+] = 10-1 mol L1), Cr(sd) et Cr2072- ([Cr2072-] = 10-3 mol. L1). 3-a) Donner Pexpression   puis  calculer les potentiels des couples Cr}+/Cr et Cr2072-/ Cr3+ . 3-b) Ecrire Yéquation bilan de la réaction qui peut se produire entre les deux couples Cr3+ /Cr et Cr2072 F /Cr3+.
+3-c) Donner Yexpression puis calculer Yenthalpie libre standard de cette réaction à 25 C.
+3-d) Déduire si cette réaction est totale ou limitée; Justifier la réponse.
+4) Calculer le pH de début de précipitation de Yhydroxyde Cr(OH)3(sd) dans une solution 10-1 molL-l de chlorure de chrome(III) à 259C.
+5) On considère une pile formée par
+Une électrode de platine est plongée dans une solution de pH fixé à 1 et contenant du bichromate de potassium à une concentration de 10-2 mol L-1 et du chlorure de chrome(III) à une concentration de 10-1 mol L-4. Une lame de chrome plongeant dans une solution 10-1 mol L1 de chlorure de chrome(III) de pH = 0.
+5-a) Faire un schéma annoté et donner le symbole de cette pile 5-b) Calculer sa force électromotrice (fe.m)
+5-c) Calculer la nouvelle valeur de la fem. de la pile, si on ajuste le pH de la solution de chlorure de chrome(III) à 6. Estimer la masse du précipité obtenu si le volume de la solution est de 50 mL
+Concours Biologie et Géologie Session Juin 2010
+Epreuve de Chimie- Page 4/8
 
+--- page 5 ---
+Données
+Constante de Faraday : F = 96500 Cmol-1 Constante des gaz parfaits R=8,314 J K-umol-2 Masse molaire atomique (g.mol') : Cr = 52,0 = 16, H = 1,0.
+A 298 K:
+E(Cr3+ /Cr) = -0,74 V; E?(Cr2+ /Cr) = -0,90 V; E?( Cr20,2-/ Cr3+) = +1,36 V. (RxT)/Fxln(x) = O,06xlog1o(x).
+pKs(Cr (OH)3(sd)) = 30,2,
+FIN DE LENONCE DE CHIMIE INORGANIQUE
+PARTIEB: CHIMIE ORGANIQUE
+DEBUT DE L'ENONCE
+Problème I :
+LA) On donne en représentation de Fisher la molécule M : CHO
+HO
+H
+H
+OH
+CH;
+LA.1) Représenter la molécule M selon la représentation de Cram en complétant le modèle suivant :
+CHO
+LA.2) Classer les substituants de  chaque carbone  asymétrique selon les règles séquentielles de Cahn, Ingold et Prelog En déduire leurs configurations R ou S. 1A.3) M est-t-elle chirale ? Justifier. LA.4) Donner, conformément aux règles de ['IUPAC, le nom du composé M en tenant compte de la stéréochimie. 1A.5) Quelle est la différence entre une conformation et une configuration ? Concours Biologie et Géologie Session Juin 2010 Epreuve de Chimie- Page 5/8
+21111
 
+--- page 6 ---
+selon la projection de Newman, sachant que Iobservation € 1A.6) Représenter M réalisée selon /axe etle sens de la liaison Cz~C:. L4.7) Déterminer la conformation la plus stable: Justifier votre réponse. Ma été obtenu à partir dun alcène N après traitement à froid par uI 1A.8) Le composé solution diluée de KMnO4 Donner la structure de N en précisant sa stéréochimie LB) On donne à 25 C, les valeurs expérimentales de pKa de la série suivante CI
+COOH
+COOH
+COOH
+COOH
+(a) 4,08
+(b) 4,32 3,82 3,85 pKa A Yaide des valeurs de pKar classer les composés (a), (b) (c) et (d) par ord LB.1) dacidité décroissant 1B.2) Interpréter, au moyen des effets électroniques; la différence dacidité constat pour la série (a), (b), (c) et (d).
+Problème II :
+On se propose d étudier la synthèse de Yacide (Z)-9-oxodéc-2-énoïque noté P. On donne la séquence réactionnelle ci-dessous Br Mg B THF anhydre
+1 ) méthanal B 2) HzO / H +
+02 / Cu
+C: ( CgH[6O )
+D: ( CgH140 )
+OH
+1) MeMgI D 2) H,O / H +
+E :
+E
+Brz F CCI 4
+02 / Cu
+G : ( CoH16OBrz )
+HO
+OI
+NaNH2 F :( C1iHzoOzBrz )
+[ : Alcyne ( C1H18O2 )
+H
+11.1) Donnerle nom du composé A selon la nomenclature internationale 11.2) Donner la structure du composé B. [1.3 } Donner la réaction secondaire qu' on pourrait avoir si le milieu n'était pas anh) Iors de la réaction A-B. 114) Présenter le mécanisme de formation du composé € Concours Biologie et Géologie Session Juin 2010 Epreuve de Chimie- Page 6/8
 
+--- page 7 ---
+11.5) Le traitement de D par la liqueur de Fehling en milieu basique; donne un précipité rouge. Représenter la structure plane de D. 1L.6) En se basant sur le mécanisme réactionnel, préciser Yactivité optique du produit de la réaction D-E. [1.7) Donner les structures de F et G. 1L.8) Détailler le mécanisme réactionnel de l'étape E~F. IL.9) Le traitement de G par Yéthylèneglycol en présence dune quantité catalytique dacide permet la protection de la fonction carbonyle. Représenter la structure de K IL.10) On traite H par lamidure de sodium (NaNHz). Représenter la structure du produit Iobtenu.
+A partir de lalcyne Ion réalise la suite réactionnelle suivante
+MeMgI
+H;C_ 1) CO2 M : 2) H,O / H+
+COOH
+EtOH/ Ht
+Hp
+1) Hzo /POH 0 2) HzO/ H+
+M
+N Pd désactive
+P + Q
+11.11) Donner la structure des molécules J N, 0 et Q 11.12) Donner brièvement le mécanisme de Y'étape N - 0. 11.13) Interpréter la réaction 0 _ P.
+On donne : Numéro atomique H (Z-1) ; C (Z=6) ; 0 (Z-8) ; Br (Z-35)
+FIN DE L'ENONCE DE CHIMIE ORGANIQUE
+FIN DE LEPREUVE
+Concours Biologie et Géologie Session Juin 2010
+Epreuve de Chimie- Page 7/8
+CH4

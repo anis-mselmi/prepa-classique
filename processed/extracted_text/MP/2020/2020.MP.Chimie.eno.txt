@@ -1,12 +1,204 @@
+--- page 1 ---
+Instructions Cette épreuve comporte 14 pages + 2 pages vides. Tout résultat doit être écrit dans les cadres adéquats. L'usage des calculatrices électroniques de _ poche non programmables est autorisé Aucun échange entre les candidats n'est autorisé. Tout calcul doit être précédé d'une expression littérale. Les résultats numériques sans unité ou avec une unité fausse ne seront pas comptabilisés. En cas de besoin utiliser la page vide en fin de cahier. Dans ce cas, il faut le signaler dans la case allouée à la réponse remise en fin de cahier. Si au cours de lépreuve; un candidat repère ce qui lui semble être une erreur dénoncé, il la signale sur sa copie et poursuit sa composition en indiquant les raisons des initiatives qu'il est amené à prendre.
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 16 PAGES NUMEROTÉES 1 sur 16, 2 sur 16, 16 sur 16.
+Concours Mathématiques et physique
+Session Juilet 2020 Page 1 sur 16
 
+--- page 2 ---
+Éprevve &c chimie section MP
+Notations et données numériques États des constituants physicochimiques (sd) solide ; (liq) liquide ; (g) gazeux Lorsque aucune mention n'est spécifiée, les ions sont supposés implicitement en solution aqueuse. Les gaz sont considérés comme parfaits. Notations Xi la fraction molaire de < i > dans la phase liquide. Yi la fraction molaire de < i > en phase vapeur p pression de vapeur saturante de < i > Lf potentiel chimique du constituant < i v dans la phase Q Lexposant signifie corps pur. Lexposant 0 signifie standard. ESH électrode standard à hydrogène. Constantes physiques Constante des gaz parfaits R = 8,314 Jmoll K1 Constante d'Avogadro NA 6,02*1023 moll Constante de Faraday F = 96500 C. moll Pression standard p8 =1bar_ Concentration standard Ce =1 molI  . Formules brutes 1 Méthanol (CHs-OH) N-hexane (CsH14); Acétone =(C;H6O); Chloroforme (CHCl3). Données numériques Masse molaire atomique (en g.motl ) Be = 9,01- 1 À 298K, Potentiels chimiques standard Entités Sr(sd) Sr2+ Sr(OH)2(sd) HzO(iq) Hz(g) H HC p9 (kJ mol-1 -558,60 ~881,20 -236,96 -157,30 Potentiels standard d électrodes à pH= 0: Couple H+ |Hzg) Ong) HpO Sr2+ Isr Ee (Ox/ red) / en ESH) 1,23 ~2,89 Produit ionique de Feau Ke =1014 RxT Ln(x) 0,06x log1o (x) (en V). F Conversion T(K) =0( C)+273,15 Unité [JC-'] = [Volt]
+Page 2 sur 16
 
+--- page 3 ---
+Épnuw d chinie section MQ
+Problème cristallographie Le béryllium < symbole Be > cristallise dans une structure hexagonale compacte. Pour décrire la structure du béryllium; on suppose que lhypothèse dun empilement compact de plans de sphères dures tangentes est correcte. 1)Donner une représentation en perspective de la maille et de son contenu
+2) Quel est la séquence d 'empilement des plans compacts dans le réseau hexagonal compact 2
+3) En se limitant à une seule maille, dessiner en précisant la tangence entre les atomes, un plan de compacité maximale_ 1 1 4) Donner les coordonnées réduites des atomes de < Be > dans cette structure.
+5) Définir, puis déterminer le motif dans cette structure
+Quel est le mode de réseau 2 Justifier la réponse
+Représenter la trace des atomes de < Be > contenus dans le premier plan après celui passant par lorigine de la famille (1 10) Préciser la tangence entre_les atomes
+Page 3 sur 16
 
+--- page 4 ---
+Épreuve d chimie section MQ
+8Déterminer la valeur du rapport (cla) idéal dun empilement hexagonal compact
+9) Comparer la valeur du rapport (cla) expérimental à celle obtenue à la question précédente; sachant que les paramètres de la maille sont 228, pm et c = 358,3 pmConclure.
+10 Donner Texpression puis calculer; la masse volumique du béryllium solide
+8 1 Problème électrochimie On se propose de construire le diagramme de Pourbaix du strontium à 298K et sous pression constante égale à 1 bar. On considère seulement les entités chimiques suivantes Sr(sd) Sr2+ et Sr(OH)2 (sd) La concentration totale en élément dissous est égale à la concentration de tracé Ctra = 10-2 molL-  Les potentiels délectrodes font référence à lélectrode standard à hydrogène (ESH) . A- Questions préliminaires 1) Un système contenant lhydroxyde Sr(OH)2(sd) en présence dune solution aqueuse contenant divers électrolytes. 1-a) Établir lexpression du produit de solubilité Ks du solide Sr(OH)2(sd) en fonction des potentiels chimiques standards.
+1-b) Calculer sa valeur
+Page sur 16
 
+--- page 5 ---
+Épruw d chimie section MP
+1-c) Établir la relation entre les concentrations [Sr2+] [H'] et le produit de solubilité de Sr(OH)2(sd) 
+1-@Déduire Texpression du pH de début de_précipitation de Sr(OH)2(d).
+1e Calculer la valeur du pH pour [S2] 10-2 mol.L'
+2) Dans le système décrit précédemment; on plonge une lame de strontium pur. On obtient une demi-cellule électrochimique. 2-a) Écrire léquation-bilan (1) associée à la cellule électrochimique permettant la mesure du potentiel délectrode du couple redox mis en jeu. 1 1
+26) Exprimer la force électromotrice de la cellule en fonction de la force électromotrice standard et du pH
+2-c) Quelle est la relation entre i) la force électromotrice de la cellule électrochimique décrite précédemment et le potentiel délectrode associé au couple redox mis en jeu ?
+ii) la force électromotrice standard de 1a cellule électrochimique décrite précédemment et le potentiel standard d'électrode associé_au couple redox mis en jeu ?
+Page 5 sur 16
 
+--- page 6 ---
+Éprrur & chimie section MP
+2-d) Déduire lexpression du potentiel d'électrode du couple redox mis en jeu en fonction du potentiel standard délectrode et du pH
+2-e) Montrer que le potentiel standard délectrode du couple redox mis en jeu s'écrit en fonction des potentiels chimiques standards des différentes entités qui apparaissent dans l'équation-bilan (1)
+2-f) Calculer sa valeur
+B- Construction du diagramme E-pH 1 1) Donner le nombre doxydation de Pélément   strontium dans   les   entités   chimiques   précédemment considérées . Présenter les résultats dans un tableau ordonné par valeurs croissantes du nombre doxydation 1
+2) Écrire les équations bilans des réactions associées aux différents couples redox mis en jeu et exprimer leurs potentiels délectrodes en fonction du pH.
+Page 6 sur 16
 
+--- page 7 ---
+Éprevre d chimie section MP
+3) Tracer et indexer le diagramme E-pH du strontium. 1,5
+0,5
+Hpo
+0,5 1 41 1,5
+~2
+-2,5
+8 1
+3
+3,5 8
+8
+8
+8
+8 0 pH
+:
+8
+8 Diagrammes de Pourbaix de Veau (en traits discontinus) et du strontium C Utilisation des diagrammes E-pH 1) Quelles_frontières ne seraient pas modifiées si Lon changeait la concentration de_tracé ?
+g
+2Le strontium peut-il être attaqué en solution aqueuse ? Justifier la réponse
+Page 7 sur 16
+Orur
+Hze)
 
+--- page 8 ---
+Éprruu d chimie section MQ
+Problème : équilibres liquide-vapeur des corps purs 21,50
+16,50
+Dompine (')
+2 11,50
+Dorhaine (II)
+6.50
+1 1,50 350 370 390 410 430 TKK 1 Fig 1 Courbe de vaporisation du méthanol pur 1) Préciser la nature des phases dans les domaines et pour le méthanol pur. Domaine(I)
+450
+Domaine ()
+2) Donner la relation de Clapeyron associée à la courbe de vaporisation. Donner la signification des termes qui apparaissent dans cette relation
+Page 8 sur 16
 
+--- page 9 ---
+Épreuu de chimie section MP
+3) Montrer en donnant les approximations utilisées que la pression de vapeur saturante dun corps pur est une fonction de la température du type Ln =A-2 Dans cette expression la pression est exprimée en bar la température_en Kelvin et A B sont des constantes
+1 1
+3-9) Identifier les constantes A et B, puis donner leurs équations aux dimensions:
+3-b) Sachant que la pression de vapeur saturante du < méthanol > s'écrit sous la forme 4484,6 Ln =13,257 T iDéterminer la température de vaporisation standard du méthanol
+ii) Déterminer lenthalpie molaire de vaporisation du méthanol
+Page 9 SUr 16
 
+--- page 10 ---
+Épreuu & chimie section MP
+5) Montrer que on peut procéder de deux manières différentes pour savoir lequel des deux composés est le plus volatil.
+Quel est alors le_composé le plus volatil_le N-hexane ou le méthanol ?
+Problème étude des   équilibre   liquide-vapeur dans un système binaire 1) Qu'est-ce quu un mélange idéal ?
+2-9) Quelle est la loi suivie par un mélange liquide idéal en équilibre avec un mélange de gaz parfaits pour tout lintervalle de composition ? Donner la signification de tous les termes qui apparaissent dans cette loi
+1 1
+2-b) Démontrer cette loi en utilisant les expressions des potentiels chimiques.
+3) Considérons le système binaire chloroforme acétone (2) 3-a) En supposant que le mélange liquide chloroforme (1) acétone (2), est idéal dans tout le domaine de compositions. i) Établir les_ expressions des_courbes d'équilibres liquide-vapeur p = 1x)et p =Ix)
+Page 11 sur 16
 
+--- page 11 ---
+Épreuve d chimie section MQ
+i) Représenter sur figure 3 (ci-dessous) la courbe P {x1) ainsi obtenue_ répondre sur la Figure 3
+3-b) Des mesures effectuées à 25 C, fournissent les pressions partielles de chloroforme et de acétone dans la phase vapeur surmontant la phase liquide pour des compositions exprimées dans Péchelle des fractions molaire X1 variables . Le diagramme ci-dessous donne (en trait continu) les variations de ces pressions partielles p1 et p2 en fonction de la fraction molaire en phase liquide XI-
+fraction molaire 0,40 0,60
+0,00 250,00
+0,20
+0,80
+1,00 250,00
+25"C
+1,00; 194,65
+0,00; 229,89
+200,00
+'200,00
+0,20; 178,91
+1 1
+0,10; 205,49 1 150,00 5 0,40; 123,29 [ 100,00 0,40; 59,18
+0,62; 107,52
+150,00 1 0,80; 150,57 5 0,60; 102,82 100,00 1 0,60; 70,92
+0,10; 10,81
+50,00
+0,80; 28,46 50,00
+0,62; 66,14
+0,20; 24,30
+0,00 0,00 0,00 0,10 0,20 0,30 0,40 0,50 0,60 0,70 0,80 0,90 1,00 acétone fraction molaire chloroforme
+Fig. 3 : mélanges liquides en équilibre avec les vapeurs
+Les mélanges en phase_liquide entre (I)et (2) sont-ils réellement idéaux ? Justifier la réponse.
+Page 12 sur 16
 
+--- page 12 ---
+Épreuve de chimie section MQ
+ü) Comparer les interactions homogènes (1)-(1), (2)-(2) et hétérogènes (1)-(2) dans les mélanges en phase liquide.
+iii) Quelles sont les valeurs des pressions de vapeur saturante de (1) et de (2) à 25 C ?
+iv) Les mélanges de et @)se font-ils avec absorption ou dégagement de chaleur ? Justifier la réponse:
+On souhaite tracer lallure du diagramme déquilibre liquide-vapeur isotherme 25 C) du système chloroforme (1)  acétone (2) 4-a) Déduire de la fig. 3, s'il doit apparaître dans ce tracé un maximum ou un minimum de pression (noté_Az) Justifier la réponse.
+4-b) Citer trois propriétés @u mélange liquide dont le point représentatif est situé en Az
+4-c) En se basant sur le graphique ci-dessous; déterminer les coordonnées  (XAz,YAz) du point représentatif du mélange Az L0o 25 C 0,80; 0,841 0,90
+0,80 1 0,70 2 5 0,60 1 0,50 9 5 0,40 1 0,30 1 0,20
+0,90; 0,934
+0,62; 0,62
+0,60; 0,592
+0,20; 0,120
+0,40; 0,324
+0,10
+0,10; 0,050
+0,00 0,00 0,10 0,20 0,30 0,40 0,50 0,60 0,70 0,80 0,90 1,00 fraction molaire cn phase [iquide   du chloroforme
+Fig. 4 : fractions molaires de la phase vapeur en fonction des fractions molaires en phase liquide
+Page 13 sur 16
 
+--- page 13 ---
+Épruwe d chinie section MP
+4-d) En utilisant les figures 3 et 4 et éventuellement quelques résultats obtenus précédemment; tracer le plus précisément possible lallure du diagramme binaire isotherme (à 0 25 C). 4-9) Indiquer la nature des différentes_phases_présentent dans tous les domaines.
+0,0 235
+0,1
+0,2
+0,3
+0,4
+0,5
+0,6
+0,7
+0,8
+0
+1,0 235
+230
+0 = 25"C
+230
+225
+225
+1 1
+220
+220
+215
+215
+210
+210 205 1 200
+f 205 200
+195
+195
+190
+190
+185
+185
+180
+180
+175
+175
+170 0,0 0,1 acétone
+170 0,9 1,0 chloroforme
+0,2
+0,3
+0,4 0,5 0,6 fraction molaire
+0,7
+0,8
+Fig 5 diagramme déquilibre liquide-vapeur isotherme du système chloroforme (1) acétone (2)
+FIN DE LÉPREUVE
+Page 14 sur 16

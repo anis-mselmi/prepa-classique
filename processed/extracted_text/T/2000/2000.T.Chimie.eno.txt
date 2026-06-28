@@ -1,32 +1,29 @@
 --- page 1 ---
 REPUBLIQUE TUNISIENNE
-Ministère de Fenseignement  Supérieur
-Concours Nationaux d'Entrée aux Cycles de Formation d'Ingénieurs Session: Juin 2900 (PREFARAS 4 bibLIoTHEQUE 2 6 Concours en Technologie Yetudes 5 {dingemieuss > Epreuve de Chimie
-Durée : 2 Heures
-Date 6 Juin 2000
+Ministère de Fenseignement Supérieur
+Concours Nationaur d'Entrée aux Cycles de Formation d'Ingénieurs Session: Juin 2900 ( PREFAIAN
+biblioTHEQuE 2 8 YEtudes D {Cwngemieuss >
+Concours en Technologie
+Epreuve de Chimie
+Durée
+Heures
+Date 6 Jain 2000
 Heure 8 H
-Nb pages 2
-Barême Problème I: 5 points Problème II: 5 points Problème II: 10 points Les candidats sont tenus de justifier leurs réponses au moins en quelques lignes.
-Lépreuve comporte trois problèmes (I), (II) et (III) indépendants.
-PRQBLEME I A Le bichromate ae potassium K2Cr207 réagit sur l'acide oxalique H2C204 pour donner du dioxyde de carbone et du chrome (III) Cr3+
-A.1 . Ecrire |'équation chimique de la réaction d'oxydoréduction qui a lieu. A.2. Préciser si les ions hydrogène jouent le rôle de catalyseur ou de réactif . A.3. Quelle équation de vitesse peut-on prendre par hypothèse pour cette réaction ? A.4. Peut-on penser que cette réaction est élémentaire ? B On prépare à 25 C une solution 0,2 M en acide oxalique et 0,01 M en bichromate de potassium en présence d'un excès d'acide sulufurique 2 M. Cette solution est répartie en plusieurs essais identiques de même volume V. A un instant t donné on ajoute à F'un des essais de l'iodure de potassium KI en net excès et on dose le diiode libéré par une solution de thiosulfate de sodium Na2S203 de concentration molaire égale à C moL.L-1 . Le tableau suivant indique les volumes V1 de Na2S203 utilisés pour doser les prises d'essais de volume V
+Nb pages
+Barême Problème I: 5 points
+Problème II: 5 points
+Problème III: 10 points Les candidats sont tenus de justifier leurs réponses au moins en quelques lignes Lépreuve comporte trois problèmes (I), (II) et (III) indépendants.
+PRQBLEME [ A. Le bichromate ae potassium K2Cr207 réagit sur l'acide oxalique H2C204 pour donner du dioxyde de carbone et du chrome (III) C3+. A.1 . Ecrire l'équation chimique de la réaction d'oxydoréduction qui a lieu. A.2. Préciser si les ions hydrogène jouent le rôle de catalyseur ou de réactif . A.3. Quelle équation de vitesse peut-on prendre par hypothèse pour cette réaction ? / A.4 . Peut-on penser que cette réaction est élémentaire ? B. On prépare à 25 C une solution 0,2 M en acide oxalique et 0,01 M en bichromate de potassium en présence dun excès d'acide sulufurique 2 M. Cette solution est répartie en plusicurs essais identiques de même volume Y. A un instant t donné on ajoute à F'un des essais de F'iodure de potassium KI en net excès et on dose le diiode libéré par une solution de thiosulfate de sodium Na2S203 de concentration molaire égale à c mol L-4. Le tableau suivant indique les volumes V1 de Na2S203 utilisés pour doser les prises d 'essais de volume V
 temps (min) V1/(cm3)
-8
-17 33 43,5 70,5 31,3 21,7 14,45 6,25 4,25 1,25
-B.1 Montrer que dans les conditions expérimentales envisagées l'équation de vitessc prise par hypothèse peut s'écrire d'une manière plus simple. B.2 Montrer que la molarité de Cr2072- peut s'écrire sous la forme: [Cr2072- ] =constante V1 .
+8 17 33 43,5 70,5 31,3 21,7 14,45 6,25 4,25 1,25
+B.1. Montrer que dans les conditions expérimentales envisagées |'équation de vitessc prise par hypothèse peut s'écrire d'une manière plus simple. B.2. Montrer que la molarité de Cr2072- peut s' écrire sous la forme: [Cr2072- ] = constante V1 .
 page 1/2
 
 --- page 2 ---
-B.3 . Exprimer cette constante en fonction de V etde c . B.4. Montrer que la réacton est d'ordre | par rappor à Cr2O7 - 8.5. Calculer la valeur de la constante cinétique apparente .
-PRQBLEME II
-Le mol lybdène donne lieu à un tluorure de structure cubique dont le paramètre de maille est: a = 3,898 L. Le molybdène occupe le centre de la maille et les ions fluorure occupent le centre des faces.
-19) Proposer une représentation en perspective de cette maille. 29) Donner la projection côtée de cette maille sur le plan (xoy ) 39 ) Quelle est la formule de ce fluorure ? 49) Calculer la masse volumique (en g.cm-3) de ce composé . 59) Détenniner la coordinence de chaque ion. 69) Quelle est la nature de la Jiaison Mo-F dans ce composé sachant que les rayons de V'ion fluorure et de "ion molybdène valent 1,36 A et 0,62 a respectivement ?
-Données:
-Masses molaires atomiques en g. mol-1: Mo = 95,94 F = 19,00. Nombre d'Avogadro NA = 6,02. 1023
-PROBLEME II
-À ) Les pressions de vapeur du chloroforme pur (A) et du méthanol pur (B) sont données par les deux relations suivantes: Pour le chloroforme CHCI3 log1oP(A) = 7,77 -1170,97/(8 + 90.76): Pour le méthanol CH3OH log1oP(B) = 8,212 1582,27/(8 + 128.321 où {a température 0 est exprimée en  C et la pression P est exprimée en bar. A - 1 ) Calculer les températures d'ébullition du méthanol et du chloroforme sous la pression de 1 bar. A-2) Expliquer la différence entre les valeurs trouvées pour les températures d ébullition des dcux corps purs.
-B) Le diagramme liquide-vapeur méthanol-chloroforme présente un point azéotropique à la température 0 = 52.5 C. La fraction molaire de l'azéotrope est égale à 0.35en méthancl
-B - 1) Donner Fallure de ce diagramme sous la pression dc : bar. B-2) On procède à une distillation fractionnée d'un mélanze méthanol chloroforme à 7OSj0 molaire en méthanol Qu 'obtient-on conme résidu et comme distillât ?
-B-3) Comment peut-on différencier un mélange azéotropique d un corps pur ?
-B-4) Représenter sur le même schéma que celui de la question B -1) !'allure qu 'aurait le diagramme si l'étude est faite sous la pression de 0,5 bar.
+B.3 . Exprimer cette constante en fonction de V etde €. B.+ Montrer que la réacton est d'ordre par rappor à Cr2O2 8.5. Calculer la valeurde la constante cinétique apparente
+PRQBLEME II Le molybdène donne lieu à un fluorure de structure cubique dont {e parametre de maille est: a = 3,898 a Le molybdène occupe le centre de la maille et les ions fluorure occupent le centre des faces 19 ) Proposer une représentation en perspective de cette maille 29) Donner la projection côtée de cette maille sur le plan (xoy 39 } Quelle est la formule de ce fiuorure 49) Calculer la masse volumique (en g.cm-3 de ce composé 59) Détermniner la coordinence de chaque ion. Quelle est la nature de la Jiaison Mo-F dans ce composé sachant que les rayons de V'ion fluorure et de Fion molybdène valent 1.36 a et 0,62 / respectivement Données: Masses molaires atomiques en g- mol-1 . Mo 95,94 F =19,00. Nombre d'Avogadro NA 6,02 1023
+PROBLEME III
+A ) Les pressions de vapeur du chioroforme pur ( A) et du méthanol pur (B) sont données par les deux relations suivantes: Pour le chloroforme CHCI3 log1oP(A) = 7,77 -1170,97/(8 _ 9.76): Pour le méthanol CH3OH logioP(B) = 8,212 1582,27/(8 128321 où la température 8 est exprimée en C et la pression P est exprimée en bar. A - 1) Calculer les températures d'ébullition du méthanol et du chloroforme sous la pression de bar. A-2 ) Expliquer la différence entre les valeurs trouvées pour les températures d' ébullition des dcux corps purs
+B Le diagramme liquide-vapeur méthanol-chloroforme présente un point azéotropique àla température 0 = 52.5 €.La fraction molaire de F'azéotrope est égale à 0.35en methanci B -1) Donner Fallure de ce diagramme sous la pression de bar. B - 2) On procède à une distillation fractionnée d'un mélanze méthanol chloroforme à 7OSo molaire en methanol Qu 'obtient-on conme résidu et comme distillât ?
+B-3) Comment peut-on différencier un mélange azéotropique d'un corps pur B-4) Représenter sur le même schéma que celui de la question B -1) !allure qu 'aurait le diagramme si ['étude est faite sous la pression de 0,5 bar.
 page 2/2

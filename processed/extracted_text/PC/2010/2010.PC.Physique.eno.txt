@@ -1,7 +1,99 @@
+--- page 1 ---
+429j) 452/62) &@l#ls'Bs {a%L~b Jsswubji 2ualiJi ixnjioualyji 201060'
+MIREPUBLIQUETTUNISTENN E Ia Recherche Scientifique Concours Nationaux d'Entrée aux Cycles de Formation d'Ingénieurs Session 2010
+Concours Physique et Chimie Epreuve de Physique
+Date Jeudi 03 Juin 2010
+Heure 8 H
+Durée 4 H
+Nbre pages 08
+Barème Problème [ : 6 pts
+problème II : A (4 pts) B (2,5 pts) C (3,5 pts) D(4 pts)
+L'usage dune calculatrice non programmable est autorisé On veillera à une présentation claire et soignée des copies. Il convient en particulier  d'indiquer avec précision les références des questions  Un candidat peut toujours se servir d'un résultat fourni par l'énoncé pour continuer sa composition STITE DIBLIOTHEQVE  x SN EnUBF? Problème 1 2geirus
+ETUDE THERMODYNAMIQUE D'UN FIL DE CAOUTCHOUC
+On considère un fil de caoutchouc homogène de section E, de longueur  L , de température T et dont Fune des extrémité est  fixe et lautre est  soumise une force de tension longitudinale dintensité f On note U son énergie interne et S son entropie L'état déquilibre du fil est caractérisé par son énergie libre qui a pour expression T F(L,T) = 4T (L - L)' - C T {n T S + Uo , 2 où A , C , To , Lo , So et Uo sont des constantes positives. Le seul travail reçu par le fil au cours d'une transformation élémentaire réversible est GW f dL
+I- Equation détat 1-1- En utilisant les formes différentielles du premier et du deuxième principe; justifier ['expression de lidentité thermodynamique dF f dL S dT 1-2-a) Déterminer F'équation d'état liant les trois variables f , L et T du fil du caoutchouc. Que représente Lo ? Déduire lexpression de la raideur du fil et commenter . 1-2-b) Justifier que pour le diagramme de Clapeyron du fil on prend L en abscisse et en ordonnée. Représenter lisotherme du fil dans le diagramme de Clapeyron. I-3- Pour interpréter  léquation d'état on adopte  le modèle   microscopique   suivant le fil de caoutchouc est constitué en moyenne de N maillons qui peuvent prendre, suivant la direction du fil,   soit  la   longueur 1 =a + b soit  la longueur [ =a b On admet   que les maillons sont indépendants et que l'action de la force' f  équivaut pour chacun d'eux à une énergie potentielle 6p = - f 1 de sorte   que les nombres NA et N des   maillons   possédant   respectivement   les
+Concours Physiquc ct Chimie Session Juin 2010
+Epreuve de Physique
+Page 1/8
 
+--- page 2 ---
+longueurs a + b et b sont de la forme N B e/ (a+b) *#T N_ constante; kB constante de Boltzmann et T la température du fil.
+B e/( b)ku T avec B une
+1-3-a) Comment appelle-t-on ce type de loi ? Citer une situation analogue en statique dcs fluides 1-3-b) Exprimer N et N en fonction de N f , a , b , kR et T  efbfkp 7 e-fbjkn7' 1-3-c) Montrer que la longueur L du fil s'écrit : L = Na + Nb el b7*B7 + e-fbfkpT I-3-d) Vérifier la validité du modèle microscopique du fil, dans la limite f b << kB T , en identifiant les constantes A et Lo
+II- Entropie et énergie interne II-1 - A partir de lidentité thermodynamique dF déterminer lentropie S(L,T) du fil. II-2- Montrer que lentropie du fil diminue quand on lallonge à température constante. Proposer une interprétation microscopique [I-3- Déterminer lénergie interne U(L,T) du fil en caoutchouc. Commenter le résultat:.
+III- Coefficients calorimétrique et thermoélastique Au coUrS dune transformation élémentaire réversible la chaleur reçue par le fil s'écrit 8Q = C. dT + J dL = C, dT + ^ df , où C1 , H , C, et 2 sont les coefficients calorimétriques .
+III-I- Montrer que 2 =
+et que C, - C1 = - ]
+III-2- Déterminer les expressions de Cz et H en fonction des dérivées partielles de lentropie $ . 0? F 0? F En déduire que C1 = - T et H = _ T dT2 ôLôT III-3- Déterminer les expressions de Cz et / pour le fil de caoutchouc. III-4- Calculer C. pour ['unité de masse. On donne, à la température To la masse volumique du caoutchouc p = 0,9 g cm ; Lo 30 cm 2 = 7 cm? et C = 397 J K-' III-5- partir de léquation détat,   obtenue la question I-2-a), déterminer   [expression du coefficient de dilatation linéique tension constante du fil de caoutchouc défini par dL Q = 1 Commenter son signe ôT
+Concours Physique ct Chimie - Session Juin 2010
+Epreuve de Physique
+Pagc 2/8
 
+--- page 3 ---
+Problème 2
+ETUDE D'UN FILTRE INTERFERENTIEL
+On $ 'intéresse dans ce problème à létude dun modèle de filtre interférentiel et a la mesure de sa bande passante . Lespace est rapporté a un repère R(O,x,y,z) de base orthonormée directe (u,,h,,ù,) . Dans tout le problème; le souligné est utilisé pour dénoter les grandeurs complexes où i? = -1 . On donne rot rot G grad divG AG_
+Dans ce problème la partie D est indépendante_
+A- Propagation dans un milieu diélectrique linéaire homogène isotrope ct transparent
+A-1- Rappeler les équations de maxwell dans le vide en présence de charges de densité   p(M,1) et de courants de vecteur   densité   j (M,t)  Le vide est   caractérisé   par sa permittivité 80 et sa perméabilité  Ho On notera c la célérité de la lumière dans le vide. A-2- Soit un milieu diélectrique de propriété magnétique négligeable. En présence dun champ électromagnétique ce milieu se polarise. Cette polarisation se manifeste par 1apparition dune charge volumique de polarisation et dun courant volumique de polarisation tel que ôP(M ,t) p(M,t) P ( M,t) div P(M ,t) et j(M,t) J((M ,t) + dt où P(M ,t) est le vecteur polarisation; P (M,t) la densité   volumique des charges   libres   et j (M,t) le vecteur densité volumique des courants libres. A-2-a) Définir le vecteur P(M ,t) ? Donner son unité_ A-2-b) Réécrire les équations de Maxwell en fonction de P(M ,t ) , P (M,t). J (M,t), € et H, A-3-Le milieu diélectrique considéré est supposé électriquement neutre et tel que J (M,t) = 6 En déduire les équations de Maxwell vérifiées par E(M,t) et B(M,t) . A-4- Le milieu   diélectrique est   linéaire   homogène et  isotrope, caractérisé   par sa permittivité diélectrique relative complexe €, (0) - A-4-a) Donner la relation liant E(M,t) et E(M,t) . A-4-b) En déduire léquation de propagations vérifiée par le champ complexe #(M,t). A-5-a) Le champ électrique se propageant dans ce milicu; dans le sens des X croissants, s'écrit sous la forme E Eo e'01 - kx) hy avec Eo unc constante_ Etablir la relation de dispersion dans ce milieu. A-5-b) Rappeler la définition de lindice complexe n du milieu. En déduire 1expression de k Quelle propriété du milicu se manifeste lorsque la partie imaginaire   Im(k) = 0 ? Que représente 8 2 Le milieu est-il dispersif ? Justifier la réponse _ Im(k) A-6- Le milieu diélectrique précédent est un milieu transparent pour les ondes électromagnétiques de pulsation appartenant au domaine du visible_ A-6-a) Montrer que le vecteur d'onde dans ce milieu s'écrit k no 0 û,, où no est Findice de réfraction du milieu_
+Concours Physique et Chimie_ Session Juin 2010
+Epreuve de Physique
+Pagc 3/8
 
+--- page 4 ---
+A-6-b) Déterminer l'expression du champ magnétique dans ce milieu: Donner les caractéristiques de cette onde. A-6-c) Montrer que la norme de la valeur moyenne du vecteur de Poynting s'écrit I) =n 5C E3 . 2
+B- Coefficients de réflexion et de transmission
+On considère deux milieux diélectriques (1) et (2) linéaires; homogènes, isotropes et transparents; dindices de réfraction respectifs n et nz, séparés par le dioptre plan (yOz). Le milieu (1) est situé du coté des x négatifs; dans lequel se propage; en incidence normale; dans le sens des x croissants une onde   électromagnétique (h,,B;) plane;   progressive;   monochromatique de   pulsation damplitude Eo; et polarisé rectilignement selon ù, On admet qu'au niveau de la surface de séparation déquation x=0, cette onde donne naissance à une onde réfléchie (È,,B,) dans le milieu (1) damplitude complexe Eor et une onde transmise (È,,B,) dans le milieu (2) d'amplitude complexe Eo Ces deux ondes sont planes; progressives; de même pulsation et de même polarisation que Fonde incidente;
+B-I- Expliquer brièvement pourquoi les ondes réfléchie et transmise ont la même pulsation que Tonde incidente B-2- Donner les expressions des vecteurs dondes k, k et k  associées respectivement aux ondes incidente, réfléchie et transmise. B-3- On admet labsence de charges et de courants sur la surface de séparation d'équation x = 0. B-3-a) Rappeler la relation de passage vérifiée par le champ électrique En déduire la relation entre Eo. = Eor et Eo B-3-b) Rappeler la relation de passage vérifiée par le champ magnétique. En déduire la relation entre  Eo. Eor Eo n; et nz B-4-9) En déduire les coefficients de réflexion 71-+2 et de transmission t,-2 en amplitude du champ électrique. B-4-b) On définit les coefficients de réflexion et de transmission en puissance à la surface de 'Ti(x=o,M 'Ti(x=o,) séparation par R = et T = avec Ii,, li, et TI, sont respectivement (Ti(x=o,)) 'Ti(x=o,) les vccteurs de Poynting des ondes incidente, réfléchie et transmise. Exprimer ces coefficients en fonction de n et n2 . Quelle relation lie R et T ? Expliquer.
+C- Filtre interférentiel
+L'onde électromagnétique qui se propage dans le milieu diélectrique linéaire homogène isotrope et transparent est une onde lumineuse. Cette onde est caractérisée par une grandeur scalaire s( M,t) appelée vibration lumineuse correspondant au champ électrique 4(M,) . Cette vibration émise par une source S ponctuelle; monochromatique; de pulsation et de longueur d'onde 1   s'écrit S(M ,t) = a e'0 k-SM ) où a est Tamplitude de la vibration supposée constante. Le filtre interférentiel F) est une lame mince de verre à faces parallèles d'épaisseur e et d'indice n = 1,5 , placée dans [air dindice n 1 . On suppose que no et n ne dépendent pas de la longueur Concours Physique et Chimie ~ Scssion Juin 2010 Epreuve dc Physique Page 4/8
 
+--- page 5 ---
+donde. Pour un rayon lumineux; de longueur d'onde 2, arrivant sous F'incidence i, cette lame donne 'intéressera pas aux rayons émergents de par transmission une infinité de rayons émergents (on ne $ la lame par réflexion) (voir Êigure Z): Pour diminuer les pertes dans le tiltre on augmente le pouvoir réflecteur de la lame de verre en de ces   faces une  mince couche semi-réfléchissante   non absorbante d'un déposant sur   chacune coefficients de réflexion et detransmission en amplitude   du  champ diélectrique.  On notera   les et et on notera R le coefficient électrique par Mr~VCrrc Iralllé 12 verre trailte=aW verretraitte_>Qir de réflexion en puissance de la surface air/verre traité de Fonde incidente et &, 02 Un les amplitudes respectives du C-1- Soient ào 1 amplitude IcMe transmis . Déterminer les rapports % et 42 eme puis déduire le rapport 2 rayons Co 0o
+@n en fonction de " , t1 , t, et (N _ 1) _ 0o
+no
+Yo
+02
+Qj
+(4
+figure L
+4 I n € entre deux ondes transmises successives est € cosi'
+C-2- Montrer que le déphasage avec i' Fangle de réfraction. icic rayon transmis, au point M situé C-3- Montrer que la vibration lumineuse   associée au N ,t ) RN-1 ~n =1)0 Finfini s'écrit Sn ( M ,t) = 51 ( M C-4- L'intensité Iumineuse associée à /'onde totale transmise par le filtre est de la forme 1o I(M ) 4R 1 + sin (1 - R)? le contraste défini par IlIX Wlil Quelle doit être la valeur du coefficient R pour que C-4-a) Wux à 0,95 ? et Imin désignent les intensités  transmises   respectivement   maximale  et soit   égal nax minimale. à mi-hauteur Ap par Fintervalle à lintérieur   du quel C-4-b) On définie la largeur angulaire transmise I( M est supérieure ou égale à la moitié de sa valeur maximale (voir figure Fintensité faible, déterminer son expression . En déduire que le pouvoir de résolution 2). Sachant que Ap est 1 du filtre s 'écrit 7VR p ,où p est un entier. A4 1 - R
+Concours Physique et Chimie Session Juin 2010
+Epreuve de Physique
+Page 5/8
 
+--- page 6 ---
+J(M
+max
+/2 max
+(( M)
+ûigure 2
+C-5- Le filtre F est éclairé en incidence normale par un faisceau parallèle de lumière blanche L'épaisseur e est choisie de sorte que le filtre (F) transmet un maximum d'intensité pour la longueur donde 1 546 nm   correspondante à la raie verte du mercure et qu'il attenu tout le reste du spectre du visible dont les longueurs dondes sont comprises entre 400 nm et 800 nm C-5-a) Montrer que les valeurs possibles de lépaisseur e de la lame de verre sont e = p avec 2n p € IN Quelles valeurs de Fépaisseur e doit-on choisir afin qu' 'il n'y ait qu 'une bande passante autour de 4 dans le visible. C-5-b) Quelle est l'influence de Fépaisseur e sur les performances du filtre C-5-c) Déterminer la bande passante A4 du filtre F ) pour 0,36 um On prendra R = 0,9
+D- Mesure de la bande passante d'un filtre interférentiel
+I-Etude_de Linterféromètre de Michelson réglé_en lamc d'air Un interféromètre de Michelson est plongé dans Tair d'indice égal à Il est constitué de deux miroirs plans Mp et Mz perpendiculaires Fun à /autre et par une lame semi réfléchissante non absorbante; appelé séparatrice Sp dont les facteurs de transmission et de réflexion valent 1/2 , incliné de 45' par rapport à Mp et Mz (voir ûgure 2) On ne tiendra compte; ni des inconvénients liés à Fépaisseur non négligeable de la séparatrice qui sont corrigés grâce à une lame compensatrice; ni des changements de phase par réflexion: Le miroir Mp est fixe et on repère la position du miroir mobile Mz par Fabscisse *x du point Az. Lorigine x correspond au cas où JA1 JA2.
+Concours Physique et Chimic - Session Juin 26110
+Fprruve dc Physiquc
+Pagc G/8
+2 pi
 
+--- page 7 ---
+M,
+A
+Az
+Sp
+Mz
+écran dobservation
+figure3
+On éclaire le dispositif par une source étendue S monochromatique; de nombre donde 0 0 On note I Fintensité du rayon lumineux incident issu de la source $ On place à la sortie du Michelson une lentille mince convergente L d'axe optique (Jy) et de distance focale
+D-I-1- Soit un rayon lumineux incident issu de la source S et faisant un angle avec Taxe (Jx) Donner ]expression de la différence de marche & entre les deux ondes qui interférent au point P en fonction de X et de € D-I-2- En se plaçant dans lapproximation de Gauss, exprimer Fintensité lumineuse I(r au point en fonction de r = F'P , f' 0o , X et de 1o- D-I-3- Grace à un moteur électrique; on translate à vitesse uniforme le miroir Mz. On place au foyer F' de la lentille L un détecteur qui délivre un signal So(x)  proportionnel à I(r = 0) . Montrer que S6 (x) = Som [1 + cos(4rF r)] . Quelle est la période T, de Finterférogramme S(x) 
+II- Bande passante du filtre F On considère; dans cette partie; que $ est une source de lumière blanche devant laquelle on place le filtre ( F de bande passante Ao centrée autour de 0 Dans Fintervalle [0,0 do] lintensité émise par le filtre est dI I, do où Ic est lintensité spectrale du filtre. On admettra que les rayonnements correspondants à chaque intervalle de largeur do sont incohérents L'intensité spectrale 1, du filtre utilisé peut être modélisée par une raie à profil rectangulaire 10 40 Ao 10 si <o 00 Ao 2 =0 ailleurs
+Concours Physique et C'himic Session Juin 200
+Eprcuve de Physiqut
+Page 7/8
 
+--- page 8 ---
+D-II-1- Montrer que le signal délivré par le détecteur est de la forme S(x) 5 [1+ V(*) cos(4rgx)] ct exprimer le facteur de visibilité V(x) de Finterférogramme 2cos(& uo )sin( œa) On donne cos(au ) du D-II-2-a)   Montrer que les positions xq du miroir Mzs pour les   quelles   les interférences sont brouillées sont données par Xq avec 9 € Z' - 2 Ao D-Ll-2-b) Représenter l'allure du facteur de visibilité V(x) . ainsi que celle de l'interférogramme S(x) _ D-II-3- Le miroir Mz peut se translater dans [intervalle +4 avec L = 5 mm Exprimer 2 en fonction de L la plus petite largeur en nombre d'onde Ao que lc dispositif peut discerner. Calculer Ao en cm D-II-4- On compte un nombre de franges brillantes N 100 entre le brouillage x et X, 1 - En déduire la largeur en nombre donde Ao de la bande passante du filtre F ) ensuite en longueur donde 42 On rappelle que 2 546 nm D-II-5- L'erreur théorique du décompte des franges est de deux franges. En déduire Fincertitude absolue 8(44) sur la mesure expérimentale de la largeur de la bande passante du filtre ( F )
+Concours Physique et Chimic_ Session Juln 2010
+Epreuve de Physique
+Page 8/8

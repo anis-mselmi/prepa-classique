@@ -1,16 +1,250 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de /'Enseignement Supérieur Concours natlonaux d'entrée aux cycles dc formaton d'Ingénieurs Scsslon 2005
+9=99)32/2j) ækLlzzls Jsia uibjajuj ùnni-j igj>u 20056,9
+Concours Technologie
+Epreuve de Sciences et Techniques de lIngénieur
+Session Juin 2005
 
+--- page 2 ---
+KEPUBLIQUE TUNISIENNE Ministère de /' 'Enseignement Supérieur Concours nationaux d'cntréc aux cycles dc formation d'ingénicurs Scssion 2005
+4i,914528674) 0@jzlzuis biwubji 2ijli Onl Wugju>ji 2005;3
+Concours Technologie
+Epreuve de Sciences et Techniques de VIngénieur Date Mardi 14 Juin 2005 Heure 8 H Durée : 5 H Nbre de pages :46 et 4 documents de référence: I, II, III et IV. Barème Partie A : 10 points, Partie B 5 points, Partie C : 5 points
+Aucun document n'est autorisé L'usage d'une calculatrice programmable est interdit Les différentes parties de l'épreuve sont indépendantes Les parties A (Technologie de Conception et Technologie de Production) , B (Mécanique générale) et C (Automatique) doivent être traitées sur les documents réponses correspondants qu'il faut rendre en totalité en fin de Vépreuve.
+UNITE DE TRANSFERT
+Mise en situation
+La production industrielle des pièces mécaniques nécessite un contrôle de qualité précis. Pour cela les entreprises   industrielles rapide et développent des outils qui répondent exigences: La figure 1 représente le schéma à ces dun exemple de réalisation dune unité de transfert des pièces à partir d'une trémie de stockage vers un centre de contrôle . Fonctionnement de l'unité de transfert (Figure 1 ) A partir d'une trémie de stockage; les étapes de'transfert des pièces sont assurées par Un convoyeur; entraîné par un moto-réducteur électrique; permet le des pièces mécaniques dans un bol vibrant chargement en vrac Le bol vibrant permettant de stocker les pièces et de les placer dans une position pour alimenter un tapis roulant correcte Le tapis roulant qui transporte des pièces du bol vibrant au poste de chargement Un bras manipulateur permettant de prendre les pièces à partir de lextrémité  du roulant et les placer sur un plateau tourant tapis Le plateau tournant permettant de positionner les pièces en face des différents traitement (non représentés) postes de est commandé par un actionneur  pneumatique  avec fréquence de quatre pièces par tour. une
+Concours Technologic - Scssion Juin 2005
+Epreuve STI
+Page 1/46
 
+--- page 3 ---
+Tapis roulant
+Convoyeur
+Pièce transferée
+Bras manipulateur
+Trémie de stockage
+Plateau tournant
+Bol vibrant
+Actionneur pneumatique de commande et d 'indexage
+Figure 1 : Schéma de lunité de transfert
+PARTIE A TECHNOLOGIE DE CONCEPTION & TECHNOLOGIE DE PRODUCTION
+Dans cette partie, F'étude   portera sur   lactionneur pneumatique qui est   défini par   les documents I et I
+Fonctionnement de l'actionneur pneumatique On appelle Vérin d'indexage V, (en coupe A-A) Fensemble des pièces {9,13,14}. Vérin de la commande de la crémaillère Vz (en coupe B-B), 1ensemble des pièces {4,6,12} . CAVI et CRV1 chambres du vérin V, (voir documents 1) CAVz et CRVz chambres du vérin Vz (voir documents 1). Phase sortie de la crémaillère (4). Elle correspond à la première position du distributeur (30) qui commande l'alimentation simultanée en air comprimé les chambres CAV, et CAVz des deux vérins V, et V2 Cette phase permet Le déverrouillage du plateau (2) par le vérin V, (possibilité de rotation de(2) /(1)) L'embrayage du crabot   (7) avec le pignon (3) assurant la transformation du mouvement de translation de la crémaillère (4) en mouvement de rotation du plateau (2) par rapport au carter (1) Phase retour de la crémaillère (4). Elle correspond à la deuxième position du distributeur (30) qui commande ['alimentation simultanée en air comprimé les chambres CRV, et CRV2 des deux vérins V, et Vz. Cette phase permet Le verrouillage du plateau (2) par le vérin V, (blocage du plateau (2) / (1)) Le  débrayage entre   (7) et (3) assurant le retour de la crémaillère   (4) (sans [entraînement de (2)) NB Le circuit d'alimentation en air comprimé des vérins V1 et Vz n'est pas représenté sur le document I
+Concours ] cchnologic  Scssion Juin 2005
+Eprcuvc STI
+Page 2 /46
 
+--- page 4 ---
+PARTIE B MECANIQUE GENERALE
+tambour motcur
+L'étude portera sur le mécanisme d'entraînement du convoyeur  représenté par la figure-Bl ci-contre
+Cbarge
+Le schéma cinématique de ce mécanisme; représenté par la figure-B2 est constitué principalement de trois blocs un réducteur de vitesse un mécanisme d'intermittence un tapis roulant
+Moto réducteur
+Tapis roulant
+Tambour réceptcur
+Figure-BI Mécanisme dentraînement du convoyeur.
+[3]
+[4]
+MOTEUR
+[6
+7
+0 J
+[0]
+Bloc du réducteur train épicycloidal
+Bloc d'otcrmittcncc
+Bloc du tzpis roulant
+Figure-B2 Schéma cinématique du mécanisme
+Concours Tccbnologic Scssion Juin 2005
+Eprcuvc STI
+Page 19 /46
 
+--- page 5 ---
+1 - Bloc du réducteur épicycloïdal (figure-B3) Il est  composé par  les solides suivants La couronne [ 0], solidaire avec le bâti qui est lié au repère 9(0,} ,Jo,70) supposé galiléen (absolu) Le planétaire [1], auquel est lié le repère 94(0,,4,J,,70 tel que 00 ~a70 Il est en liaison pivot d'axe (0,,72 avec la couronne [0]. Son mouvement est paramétré par F'angle € = (}o,4= ,J) (voir figure-B6.a) Le satellite [2] (au nombre de trois) , auquel est lié le repère 9,(02,12,J1,7  . Il est en liaisons supposées ponctuelles de nommale (,x,) avec le planétaire [1] d'une part, et de norale (J,x) avec la couronne [0] dautre part. Son mouvement est paramétré par Fangle 82 = (o,X)= G6,J) (voir figure-B6.b). On pose 0j= R +, 07 Ro Y et I01 = 0J= Rz+' Le porte satellite [3], qui est lié au repère 98,(0,,75,7,,70 tel que 0,0, =-91 70 . Il est en liaison pivot d'axe (02,70) avec le satellite [2] dune part, et en liaison pivot daxe (0j,70) avec la couronne-[0] d'autre part. Son mouvement est paramétré par langle 0, = (7,8)= (,J) (voir figure-B6.a) 2- Bloc d'intermittence (figure-B4) Il est composé par les solides suivants La manivelle [4]. La croix de malte [5] est liée au repère 93,(05,X5,75,70) tel que 0,0, = 1 f -%, 70 Elle est en liaison pivot daxe (0s,70 avec le bâti [0] d'une part, et en liaison linéaire annulaire d'axe (B,Fs) avec [4] dautre part. Son mouvement est paramétré par ]angle 05 =(7o,Is) =(oJs) (voir figure-B6.b). On pose O,B Rx,- 9,70 et 0,B = M(t) fs +as 70 - 3- Bloc du tapis roulant (figure-B5) Il est composé par les solides suivants Lensemble (tapis roulant +charge) [6], lié au repère $6(G6,F6,76570) . Cet ensemble [6] est entraîné par un tambour moteur solidaire de la croix [5] . On pose a=(o,f6) =@o,J6) un angle constant. Le tambour [7], lié au repère H,(01,07,/7,7) , est en liaison pivot d'axe (01,70) avec le bâti [0] et en contact avec le tapis [8]. Son mouvement est paramétré par langle 07 =(0,17) =(0,J ) (voir' figure-B6.b). On pose 0,G6 x(t) Y6 + R,J6 +a,70
+On posera dans ce qui suit : à; =; (i =1,2,3,4,5,7 )
+Conaurs Technologie Session Juin 2005
+Epreuve STI
+Page 20 /46
 
+--- page 6 ---
+Y 0
+F   , 4 3 Yz
+Bâti
+[5]
+J 5
+Oz
+7o Ig.
+0 7
+[2]
+[3]
+04
+[0]
+0 7
+Figure-B3 Schéma  du bloc réducteur
+Figure-4 Schéma  du bloc dintermittence
+46
+ys
+Jo
+[6]
+y1
+Xo
+Os
+[5]
+M
+07
+OsK =RsJ6 - % 7 MK =Lfs O7M =R Js + as7
+0 7
+IZL
+[0]
+Figure-BS ; Schéma du bloc du tapis roulant yo 0 7=7
+J;
+0 2=7 6,=0; 8;
+6,=0;
+58;
+O;
+O;
+Xo
+Figure-B6.a Mouvement du solide [i] par Figure-B6.b Mouvement du solide [j] par rapport à [O], i=l et 3. rapport à [O], j=2,5 et 7. Concours Tcchnologic Scssion Juin 2005 Eprcuvc STI Page 21 /46
 
+--- page 7 ---
+B-I- Etude Cinématique B-1-1 Tracer le graphe des liaisons du mécanisme représenté dans la figure-B2 _ B-I-2 Déterminer les vecteurs   rotations 5(1/0) , 5(2/0) , @(3/0) , 2(5/0) ,2(6/0) et 5(7/0)
+B-1-3. Etude cinématique du bloc du réducteur B-I-3.1. Exprimer la relation entre   les rayons Ro, R1 et Rz  traduisant la condition géométrique assurant la mise en contact des solides [1], [2] et [3] B-I-3.2. Justifier que V(O,el/3)-6 et en déduire la vitesse V(Iell3)_ B-1-3.3. Déterminer la vitesse V(e2/3) . B-I-3.4. En appliquant la condition de roulement sans glissement au point de contact I entre les solides [1] et [2], déduire la relation entre les vitesses angulaires 01 , @1 et 03 B-I-3.5. Déterminer la vitesse V(Je2/3) _ B-1-3.6. Déterminer la vitesse V(Je3/0) B-I-3.7. En appliquant la condition de roulement sans glissement au point de contact entre les solides [2] et [0], déduire la relation entre les vitesses angulaires @2 et @, B-1-3.8. A partir des relations établies précédemment; déduire lexpression du rapport de transmission @ en fonction du rapport k= R1Ro. 0
+B-I-4
+Etude cinématique du bloc dintermittence
+B-I-4.1. Déterminer la vitesse V(B € 4/0) et ['exprimer dans la base du repère 885. B-I-4.2. Déterminer la vitesse V(Be 5/0) B-1-4.3. Sachant que V(B € 4/5) est portée  par Taxe de la liaison linéaire  annulaire, déduire la relation qui exprime @ en fonction de @, et des caractéristiques géométriques du mécanisme. B-1-4.4. La fin du contact au point B de la manivelle [4] avec la croix [5] est caractérisé par (2(t) = Ama), /angle (0,ÊOs) est égal à ! e langle (BÔ,0) est égal à 3 de façon qu'au tour suivant la manivelle [4] puisse entrer de nouveau en contact avec [5] . Exprimer alors @s en fonction de @,- R et Amar-
+B-I-5. Etude cinématique du bloc du tapis roulant B-1-5.1 Déterminer la vitesse: V(G6 €6/0) B-I-5.2 En appliquant la condition de roulement sans glissement au point de contact K entre [5] et [6] et au point de contact M entre [6] et [7], établir les relations entre x(t) et @s dune part et entrex(t) et @1 d'autre part.
+B-II- Etude Energétique Dans la suite du problème; on ne s'intéresse qu'au bloc du tapis  roulant. Pour cela on suppose que
+le tambour moteur solidaire avec [5] est de masse ms, de centre dinertie Gs situé sur l'axe (Os ,70) et de moment d'inertie Js par rapport à cet axe. Session Juin 2005 Epreuvc STI Page 22 /46 Concours Technologie
 
+--- page 8 ---
+Lensemble [6] est de masse m6 et de centre dinertie G6 la tambour récepteur [7] est de masse m 1 de centre d'inertie G, situé sur laxe (07 ,7o)et de moment d'inertie J, par rapport à cet axe. Toutes les liaisons sont supposées parfaites. Le tapis est inextensible et son contact avec le tambour moteur [5] et le tambour récepteur [7] est réalisé par adhérence. Laction mécanique de [4] sur [5] est représentée par un couple moteur 7m C.7 ~ Le système se trouve dans le champ de la pesanteur z =-gy On suppose que les vitesses de rotation sont constantes.
+B-I-I.
+Calculer le torseur
+'cinétique { '86/ 0}= au point Os, du solide [5] dans son mouvement par rapport au bâti [0].
+B-II-2. Calculer le torseur
+'cinétique {8(6/0)} au point G6, du solide [6] dans son G6 mouvement par rapport au bâti [0]
+B-II-3. Calculer le torseur cinétique
+e{810}o' au point O1 du solide [7] dans son mouvement par rapport au bâti [0]
+B-II-4. Soit le système défini   par lensemble  {E} {5, 6, 7}, Calculer lénergie cinétique du système {E} dans son mouvement par rapport au bâti [0] Ec(/O).
+B-II-5. Ecrire les torseurs des actions mécaniques extérieures et intérieures à {E} B-II-6. Déterminer la puissance développée par les actions mécaniques extérieures et intérieures à {E} dans son mouvement par rapport à Ro.
+B-II-7. En appliquant le théorème de lénergie cinétique; donner la relation permettant de calculer le couple moteur Cm en fonction des différents paramètres du mécanisme.
+Concours Technologie Session Juin 2005
+Epreuve STI
+Page 23 /46
 
+--- page 9 ---
+B-III - Résistance des matériaux.
+On se   propose de vérifier la résistance du levier 8) permettant de commander Pembrayage  de lactionneur   pneumatique (document I). Ce levier est modélisé par une poutre droite; de ligne moyenne (ABC) et de section droite constante de forme carrée.
+figure B7
+Le levier est   actionné par une force F appliquée au point suivant   la direction yo On donne F=20ON, AB = a 40 mm et BC = b = 60 mm Les liaisons mécaniques sont parfaites et laction de la pesanteur est négligée.
+B-III-1. En étudiant l'équilibre statique de cette poutre, déterminer les torseurs dactions mécaniques transmissibles aux points A et B.
+B-III-2. Calculer les composantes du torseur des efforts de cohésion (efforts intérieurs) le Jong de la ligne moyenne de la poutre
+B-III-3. Représenter les diagrammes des efforts de cohésion non nuls.
+B-III-4.Déterminer les dimensions de la section assurant la résistance de la poutre à la flexion On donne la contrainte normale admissible Oadm = 120 MPa)
+B-III-5.Vérifier la résistance du levier au cisaillement   produit par l'effort tranchant On donne la contrainte tangentielle admissible Tadm = 80 MPa)
+Concours Technologie Scssion Juin 2005
+Eprcuve STI
+Page 24 /46
 
+--- page 10 ---
+PARTIE C : AUTOMATIQUE
+NB. Les parties C-l et C-2 sont indépendantes. Les réponses doivent être rédigées sur les documents réponses.
+Description du système < Unité de transfert > L'unitéde transfert des pièces mécaniques (Figure 1, Page 2/46) se compose de trois modules: -Module d'alimentation des pièces_(SA): Il est formé essentiellement par la trémie de stockage, le convoyeur; le bol vibrant et le tapis roulant: Ce module permet de ramener les pièces à contrôler du trémie vers l'extrémité du tapis proche du plateau de contrôle. Module de chargement Il réalise le chargement des pièces vers le plateau de contrôle partir de P'extrémité du tapis. Il s'agit d'un bras manipulateur fommé par un vérin pneumatique à double effet < VI > permettant les mouvements de montée (MVI) et de descente (DVI) Ce vérin est muni à son extrémité par une ventouse K V > servant au maintien de la pièce; il est doté de deux capteurs de fin de courses haute (vIh) et basse (vIb). De même, la ventouse V > est munie d'un capteur (v); #un vérin pneumatique rotatif à double effet V2 > permettant les mouvements de rotation à droite (RDV2) et à gauche (RGV2) correspondant respectivement à l'emplacement de la pièce détectée à lextrémité du tapis par le capteur (prI) et l'emplacement fourni par le capteur (pr2) sur le plateau: De même; ce vérin est doté de deux capteurs de fin de courses droite (v2d) et gauche (v2g) Module_de_contrôle Il est constitué dun plateau rotatif à indexage (RI) et deux postes de contrôle (TI et T2). Le plateau permet de supporter les pièces durant toute la phase de contrôle. La pièce est contrôlée en deux étapes et rendue disponible pour être évacuée à partir de la quatrième position détectée par un capteur (pr3) En effet; la première position (pr2) est réservée pour le placement de la pièce par le module de chargement. Pour signaler la présence dune pièce dans chaque étape de contrôle, le plateau rotatif est muni des deux capteurs de proximité (crl et cr2). Ce plateau est commandé par un dispositif pneumatique. Partie C-1 Commande séquentielle du système < Unité de transfert > L'objectif de cette étude est  l'établissement dune commande séquentielle de lunité de transfert des pièces mécaniques -
+Fonctionnement du système Les conditions initiales nécessaires pour ['amorçage du cycle automatique sont: Vérin V2 en position droite. Vérin Vl en position haute. Ventouse V à l'arrêt Après avoir déclencher la mise en marche du système d'alimentation des pièces (SA) par Fopérateur en mettant le commutateur DépartlArêt cycle en position (dcy). La séquence de mise en place et de contrôle des pièces démarre dés qu'une pièce se présente en face de la ventouse. La présence dune pièce est détectée par le capteur (prI). La séquence de mise en place des pièces et de contrôle est la suivante ~descente du vérin VI (DVI) ; ~mise en marche de la ventouse (MV) ~montée du vérin VI (MVI) ~rotation à gauche du vérin rotatif (RGV2) ~descente du vérin VI (DVI) ~mise en arêt de la ventouse (AV) permettant ainsi de placer la pièce sur le plateau toumnant ~montée du vérin VI (MVI) Concours Technologic Session Juin 2005 Epreuve STI Page 35 /46
 
+--- page 11 ---
+~déroulement simultané du mouvement de rotation à droite du vérin rotatif '(RDVZ) et de la séquence contrôle de la pièce (ce fonctionnement simultané est représenté par la macro étape Mi sur le document réponse DRCI) La séquence de contrôle de la pièce commence par la  rotation de 1/4 de tour du   plateau à indexage pour atteindre la position (crl) puis Pexécution du premier contrôle (TI) durant 2s. Pa la suite; le plateau à indexage effectue une rotation de 1/4 de tour pour placer la pièce en position (cr2) lui permettant d'effectuer le deuxième contrôle (T2) pendant Is. Une demière rotation de 1/4 de tour du plateau à indexage permet de placer la pièce dans la position d'évacuation (pr3)  Une fois la pièce est évacuée, le système est alors disposé à recevoir une nouvelle pièce pour ]exécution d'un nouveau cycle à moins que le commutateur DépartArrêt cycle est positionné sur acy ) Si c'est le cas, le système ne devra repartir que si les conditions initiales sont satisfaites La structure dun modèle GRAFCET du point de vue commande (GI) décrivant le fonctionnement de F'unité de transfert des pièces mécaniques est donnée dans le document réponse (DRCI) .
+Notations utilisées ABREVIATION DESCRIPTION SA Mise en marche du système d' alimentation des pièces MVI Action de montée du vérin VI DVI Action de descente du vérin VI MV Mise en marche de la ventouse V
+AV
+Arrêt de la ventouse V Action de rotation à droite du vérin V2 Action de rotation à gauche du vérin V2 Action de rotation de 1/4 de tour du plateau à indexage Action du premier contrôle de la piëce Action du deuxième contrôle de la pièce Détection dune pièce à Textrémité du tapis proche du plateau Détection d'une pièce à la première position du plateau à indexage Détection dune pièce dans la position dévacuation du plateau à indexage Détection dune pièce dans la position du premier contrôle Détection dune pièce dans la position du deuxieme contrôle Vérin VI en position haute Vérin VI en position basse Vérin V2 en position gauche Vérin V2 en position droite Ventouse en état de marche Fin de la rotation de 174 de tour du plateau à indexage Commutateur DépartAnêt cycle (dcy: départ cycle; acy: arêt cycle)
+RDV2
+RGV2
+RT TI T2 prI pr2 pr3
+CrI
+cr2
+vIh
+vIb
+v2g v2d
+rt4
+dcylacy
+C.1.1) Compléter le Grafcet G1 (document réponse DRCI) en ajoutant les actions et les réceptivités associées aux transitions. C.1.2) Donner [expansion de la macro-étape MI.
+Concours Tcchnologie_ Session Juin 2005
+Epreuvc STI
+Psge 36 /46
 
+--- page 12 ---
+Partie C-2: Etude de Fasservissement de vitesse du plateau entraîné par un vérin rotatif On s'intéresse dans cette partie à la commande en vitesse du plateau tournant entraîné par un vérin pneumatique rotatif.En effet; la vitesse influe directement sur le temps nécessaire pour effectuer une rotation de 1/4 de tour du plateau à indexage, et par conséquent sur la durée du cycle de contrôle des pièces: Le mouvement de l'ensemble vérin ~ charge est commandé au moyen dun distributeur proportionnel.
+Pour représenter les paramètres du système électropneumatique, les notations suivantes sont utilisées: u(t) Tension de commande du distributeur; 9,(t) Vitesse angulaire de sortie Sr (t) Consigne de vitesse. La fonction de transfert du système en boucle ouverte est de la forme: ~2p 2,(p2 e T(p) U(p) 1+10p Avec U(p) est la transformée de Laplace de u(t)_
+C.2.1) Calculer et représenter la réponse à un échelon de position unitaire du système en boucle ouverte. Commenter .
+C.2.2) Ce processus est inséré dans une boucle d'asservissement (figure Cl) contenant un réseau correcteur de fonction de transfert R(p) à déterminer en fonction des performances souhaitées du système en boucle fermée. Sr(p) U(p) Ss(p) R(p) T(p)
+Figure CI
+Le réseau correcteur est de type Proportionnel R(p)=Ki avec Ki>0 C.2.2.1) Justifier la limitation du critère de ROUTH pour étudier la stabilité du système en boucle fermée. C.2.2.2) Des essais harmoniques sur le processus; dentrée u(t) et de sortie 8,(t) , ont conduit au tableau suivant
+(rads)
+0,001 0,010 0,050 0,100 0,200 0,400 0,600 0,800 0,840 1,000 '2,000 0,001 "0,04 -1,00 3,06 "7,00 -12,30 "15,70 "18,20 "18,60 20,10 226,00 [ujw)aB 32 -57 ~86 "122 "150 "175 "180 "200 "318 arg(T(j@) en degré
+C.2.2.2.1) En utilisant uniquement ce tableau, déterminer les marges de gain et de phase. En déduire la valeur du gain limite qui assure la stabilité du système en boucle fermée. Justifier le choix de la méthode fréquentielle pour ['étude de la stabilité C.2.2.2.2) Calculer la valeur de [erreur statique de position €1 (%)
+Concours Tcchnologic - Scssion Juin 2005
+Eprcuvc STI
+Page 37 /46
 
+--- page 13 ---
+2.2.3) Pour améliorer la précision statique du système; on choisit le régulateur forme R(p) de la
+R(p) = Kz - 1+$ 1+ 4q Kz > 0; T > 0
+C.2.3.1) Quelle est la nature de ce régulateur ?
+C.2.3.2) Pour Kz_7, déterminer la valeur de 5 parmi (t 0,1s et 7 8s), qui permet dobtenir une réponse indicielle unitaire apériodique du système en boucle femée. Déduire, dans ce cas, la valeur de ]erreur statique de position: Conclure.
+On donne les transformés de Laplace des fonctions utiles
+f(t) ~0
+F(p)-L(f(t))
+~ai e
+p+a
+21 1-e f(t-r)
+p(l+v p) F(p)e- p
+Concours Technologie Session Juin 2005
+Epreuve STI
+Page 38 /46
 
+--- page 14 ---
+{ {
+{  8 ; 1 1 ; D 4 " < 3 H
+91
+8
+k
+3 ;
+3
+1 %
+8l
+|
+{ oT
 
+--- page 15 ---
+31,31 30 29 28
+Rondelle Distributeur 3/2 Ecrou support Butée support 26 Vis sans tête M14 - 60 25 Ecrou H MI4 24 Vis CHC M6 35 23 Raccord 22 2 Couvercle 21 Couvercle 20 2 Coussinet 19, 19= Bague 18, 18 Vis CHC M6 35 17 Goupille cylindrique 6 x 38 16 Plaquette 15 Vis CHC M6 35 14 Embase C35 XC 38 13 Cylindre C35 XC 38 12 Piston ASI3G 11 Embase 10 Piston Piston Levier Crabot Cylindre de vérin Embase Crémaillère 35 NCrMg 16 35 NCD 16 Pignon Plateau Bâti Rep Nb Désignation Matière Référence Concours Technologie Epreuve STI Session 14 Juin 2005
+UNITE DE TRANSFERT
+PLATEAU TOURNANT PNEUMATIQUE ACTIONNEUR PNEUMATIQUE
+Document II
 
+--- page 16 ---
+~
+{ 5
+; ; Hikk 387 7 3 19 9 11 8 4" 0 5 1 II g 5& H 9 8 Y 1 8 8 DD 8 1 ; ] 8 1 f
+8%
+850
+S2Txo2w
+2 œ
+{
+ZHv2p
+0€0
+2ro=&
 
+--- page 17 ---
+Condi tioo; couDc àlablia: pour < ] 0 Facleurs correclils dans Ie C8s dc Dcrcages prolonds pour vilo31 dc coup pour Wvjacg
+corrigées en fonction du rapport LID (L profondeur du trou et D : diamètre du trou) Yc corrige K1 Vc tablcau f corrige Kz f tablcau La valeur de l'avance est calculée par la formule suivante f = K . D0.76 Avec K constante fonction du matériau de la pièce_ Durée de vie des arêtes de coupe correspond une longueur de perçage ou d' 'alésage fixée à L=4,5 mètres. Perçage en pleine matière. Surépaisseur d'usinage de valeur 0,01 D avec une valeur minimale de 0,1 en alésage.
+3 04 0B DT6 DTB D K, 0,90 0,80 0,70 0,6 5 0,6 K1 0,95 0,90 0,85 0,8 0,8
+Nf € 66-061/061/07]
+Alesoirs noralise:
+Alésoifs carbure
+66.014 66-015 7.109
+Soccial coun)c Oescenuaai
+Pour petils diamet;es monoblocs Duf qrands Guame(fcs plaqueiles brasecs
+TABLEAU des Yaleuas IndicatIvES deS Conditions DE COUPE EN PERÇAGE-ALÉSAGE Doslonalion Porrago liquro Aldsago Taldsoir liguros 2 ot 3 Forots halicoidaux A R.S. Alosolr Ilnltlon ^ A.S Alosoir linltion Rosistanco carburo (trou qune > 11) s6rie courto Exomplos (Irou qualite > 8) liquro 2 Malières (Irou qualit0 (da NImm?) flgur Avanco (mm/tr) nuancos Anglos Avanco (mm/tr) Avanco Durele HB ((m/mln) 0 > 6 0 <6 (dcoros) [(m/mln)l Dlamdtro alesoir Dizanco ( mlasol (m/mIn)l aldsolr ( =kDan (NF) (k'D,n (mm) (Mo) 10 25 50 10 25 50 [singbililé au Mn + $ 35-50 34-38 0,028 0,.020 118 24-32 16-20 0,.12 0,25 0,4 0,6 54-Go Ju Mn + $ 60-80 0.25 40-45 0,020 0.' 0,.6 13 MF Jmcliore, 0,020 110 24-32 12-15 0,10 0.25 0,45 0,6 42-46 0,10 0,25 0,45 0,6 Js Mf 6 C<0.25 % 45-60 27.J0 0,028 0,020 110 24-32 12-15 0,12 0,25 0,45 54-60 C<0,45 % 0,25 60-76 22-25 0,45 Acicrs Ju 0,028 0.6 XC 25 0,020 118 24.32 9.12 0,1 0.4 36-40 0.12 0.25 C<0,65 % 76-95 16-18 0.45 0,6 cirbone 0,025 XC 42 0,015 118 24+32 8-10 0,08 0.3 0,< 31.35 C<0.90 % 0,10 0,.2 95-115 13-15 0,025 0,J 0,5 XC 65 0,015 130 20-30 7. 9 0,08 0.16 0,3 0.4 26-29 0,08 0,18 0,3 0.,45 XC 80 au Cr + Mo 60- 76 10-21 Acicrs 0,028 0,020 118 24-32 8-11 0,08 0.35 0,5 Cr 32-36 76- 95 0.25 Mo 16-18 0.025 0.45 0,015 10 Co alies 118 24-32 0,08 0,3 0,45 23-26 au Ni 95-115 13-15 0,22 0.4 0,017 130 35 CD <S% 0,010 20-30 0,08 0.16 0,3 0,45 17.20 au Cr 0,08 95-115 9-11 0.18 0,3 0,017 0,010 0.*5 130 40 NCO 20-30 0,08 0,16 0,3 0,5 13-16 0,08 0,16 0.3 0.4 10o € 6 Fcrriliques Fontes 120-150 H8 31-15 0.033 0,020 118 18-25 14-18 0,15 0.3 0,5 0,75 50-65 Fcrrlt. Porlil. 190-220 HB 0.12 0,20 27.-31 0.033 0,015 0.45 FI 20 griscs 110 18-25 11.14 0.12 25 0,45 0,6 39-44 Perlillquo 220-260 H8 22-26 0.25 0.45 0,025 0,010 0,6 110 F1 J0 18-25 9-12 0.08 0,2 0,4 0,5 32-36 0,08 0,2 0,$ 0.5 Fl 45 Fontes Forrilique 220-285 HB 13-15 0,033 0,010 118 10-25 0,08 0.16 0,3 0,45 Perlilique 18-21 6.5 140-180 H8 0,08 0,18 0,36 34-38 0,0J1 0,015 0,5 FGS 600- 110 18-25 13-16 0,12 0.25 0,45 0,6 48-53 0,12 0,25 0.45 0,6 FGS 370-17 Fonles cour blanc 180 HB 38-45 0,0JJ 0.020 118 10-25 13-17 0,08 0,2 Makea- 0,5 54-60 cour noir 160-200 HB 29-33 0,12 0,28 0,033 0,015 0.45 0,6 MN 40-10 118 10-25 10-13 0,08 0.2 bls 0,5 40-45 Perliliquo 0,12 200-260 HB 26-30 0,25 0,017 0.6 MN 35-10 0,010 118 18-25 8-11 0,05 0,2 0,$ 0,5 26-J0 0.08 0.25 0. 0.5 MP 60- 3 Adien Martensilique 45-65 22-25 0,020 0,015 135 20-J0 9-12 0,08 0.16 inor 0,3 0,45 32-16 Austeailique 45-65 16-18 0,023 0,25 0,017 0, 0,.6 2 6 CN 10-08 135 20-J0 0,08 0.16 0.,3 0,45 22-26 0,1 0,25 0,6 Z 10 C 13 Qu Cr 70-90 Acico 9-10 0,017 0,010 120 24-32 0.05 0,18 0,3 0-10 Cr + Mo 70-90 0,00 14-16 0.3 0,017 0,45 120 2 200 C 12 Quub 0,010 24-32 0,05 0.16 0,3 0,45 Ju W + Cr 13-16 +V 0,05 70-90 0,16 0, 0,45 9-11 Z <0 Cov 0,017 0,010 120 24-32 3-5 0,00 0.16 0,3 0,45 13-16 0.,10 0.20 0,35 |o.5 30 WCV 15 Zn + Al Lxlons 40-80 45-50 0,020 0,015 118 10-16 30-40 0,08 0.,2 0,5 60-90 Flain 0.12 0.,28 | 0.45 16-24 24-27 0,028 0,6 219 ^6 0.015 118 20-38 14-18 0,08 0.,2 0,4 0.5 50-80 0,12 0,28 0,45 0,5 U. E12 P Cupro-alu_ 40-70 20-23 0,.028 0,015 Bronzes 118 20-30 14-18 0,.08 0,2 0,5 45-70 0.12 Cupro-nickel 0,18 < 240 H8 16+20 0.45 0,6 U. A9 NS Fo 0,025 0,010 118 24-32 8-11 0.08 0.16 0,3 0.45 28-35 0,08 0,18 0.36 0,5 N. U4o €7 au cuivre <30 71-00 Knages 0,042 0,025 140 (30-40 45-65 0.15 0,3 0,5 0,75 100-130/ 0.12 0,20 < 26 56-63 0.45 0,6 au magnasium A-UA NT lésen 0,042 0,025 140 30 40 30-50 0,15 0,3 0,5 0.75 80-!io/ u silicium 0.12 23 0.*5 0,6 < 26 46-52 0,042 0,025 140 A-63 J0-40 10-13 0,08 0.2 0,4 0,5 55- 65| 0,08 0,18 0.36 0,5 4-513 G
+Document IV

@@ -1,3 +1,64 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE
+4a3y)i24j) 6uMats EsUbEea] Jiwjajw inuiluusjyd 2007:w"
+Ministèrc de lEnseignement Supérieur, de la Recherche Scientifique ct dc la Technologie Coocours patouaux d'cntréc Bux cydes dc {ormadop d'ingépicun Scuslon 2007
+Concours en Mathématiques et Physique Epreuve de Mathématiques II
+Durée 3 heures
+Date 09 Juin 2007
+Heure 8 H
+Nb pages 4
+Barème
+Partie I : 5 pts Partie II 7 pts Partie III 5 pts Partie IV : 3 pts
+Une grande importance sera attachée à la rigueur présentation. du raisonnement, L 'usage des à la clarté et au soin de la calculatrices n'est pas autorisé. Il est rappelé que tout résultat énoncé dans le terte n'a pu être démontré. peut être utilisé pour traiter la suite, même s 'il 6G65000 2 95G0G 0G0006
+Mstitu Gire Cieloteque V SAx EruDes  D rpeuts  Notations
+Dans tout le problème; E est un espace vectoriel réel de vectoriel des endomorphismes de E dimension finie n > 2 et S(E) est Fespace Pour tout couple (u,v) d'endomorphismes de E, on note Pour tout entier naturel i Uu Tendomorphisme u' est 7l 0 U où id F'endomorphisme de E défini par récurrence par désigne "'+1 Fautomorphisme identique de E. = 1'" et u0 = id, L 'image. le noyau, la trace et le polynôme caractéristique dun endomorphisne respectivemnent notés Ir(u) , ker(u), U sont tr(u) et Pe On rappelle qu 'un endomorphisme u est nilpotent s'il existe un entier Le pius petit de ces entiers naturel non nul q tel que u? 0 s =0. 'appelle indice de nilpotence de ".
 
+--- page 2 ---
+Partie I
 
+Soit f un cndomorphisme de E et M sa matrice dans une base % de E.
+1 Montrer que si f est nilpotent d'indice q, alors il existe z dans Etel que la famille (I, f(r), f9-1(z)) est libre. En déduire que 9 < n. 2. On suppose que f est nilpotent d indice n. a) Montrer qu'il existe x dans E tel que la famille (z, f(z), fn-I(æ)) est une base de E b) Soit i un entier naturel Montrer que si ker( fi) = ker( fi+1), alors ker(fi) = ker( f'), pour tout entier naturel j 2 i. Montrer que si i < n alors ker(fi) # ker( fi+1). d) En déduire que pour tout k € {0, 1, n} , dim(ker( fk) ) = k 3 Montrer que les assertions suivantes sont équivalentes. (i) f est nilpotent. (ii) Spc(M) = {0}, où Spc(M) désigne le spectre de M sur €. (iii) Pf(X) = (-1)"X" a) Soient X1, X2, Àk des nombres complexes.  Montrer que
+X1 A2 Àg det
+Xk A2
+Ix I (Xj = X;) i=l I<i<jsk
+À4
+Àk b) On suppose que tr(fi) = 0 pour tout i € {1,2, n} Montrer que si la matrice M de f admet X1, X2, Xk comme valeurs propres complexes non nulles; distinctes deux à deux et de multiplicités respectives U1 ; W2, ~k, alors
+01/1 + +WkÀk = 0 "1A2 + +wka? = 0
+"1Ak + '+wkAk = 0
+c) En déduire que f est nilpotent; si et seulement si, tr(fi) = 0 pour tout i € {1,2,
+n} 
+2
 
+--- page 3 ---
+Partie II
+Pour tout couple ( f,g) d'endomorphismes de E, on note [f,g] = fg - gf.
+1. Montrer que pour tout triplet (f,g,h) d'endomorphismes de E, [f.gh] = [f.g]h + g[f,h]  Soit u et v deux endomorphismes de E vérifiant [u,v] = œv où a est un réel non nul.
+2
+a) Montrer que pour tout k € N, [u, v*] = akvk_ b) En déduire que ker 04 est stable par u. c) Montrer que v est nilpotent . Dans la suite de cette partie on suppose que lindice de nilpotence de v est égal à n. 3. a) Soit æ € E tel que vn-I(z) # 0. Pour tout k € {1,2, n}, on pose Ik = un-k (z) Montrer que (x1, I2. Ik) est une base de ker 04 b) Montrer que I1 est un vecteur propre de u dont on notera À1 la valeur propre associée c) Montrer que la matrice de u dans la base (I1,I2, In) est triangulaire supérieure. On notera X1, 12, An les éléments successifs de la diagonale. d) Montrer que pour tout k € {1,2, n = 1}, vu(zk+1) = u(Ik) QIk. e) En déduire que pour tout k € {1,2, n} Xk = X1 - (k _ 1)œ. f) Montrer que u est diagonalisable.  Soit en un vecteur propre de u associé à Xn. Pour tout k € {1,2, n} on note ek vn-k(en) 4 Montrer que u(ek) = Xkek, k € {1,2, n} . b)  Montrer que v(ek) = ek-1, k € {2,3, n}  En déduire que pour tout k € {1,2, n}, ek # 0. c) Vérifier que (e1,e2, en) est une base de E d) Ecrire les matrices de u et v dans (e1, e2, en)  5. Application
+On pose E = R3 Soit 4 et B deux matrices de .Us(R) telles que
+=2
+=1
+21
+A
+et
+B=
+1
+1
+On note u et v les endomorphismes canoniques respectifs associés à 4 et B Calculer {u, v] et montrer que U est nilpotent . b) Déterminer Sp(u) et préciser X3 . c) Trouver une base (e1,e2,e3 selon le procédé décrit dans la question II.5. Ecrire les matrices de u et v dans la base (e1, e2, e3 ) 
+3
+
+--- page 4 ---
+Partie III
+Mn(R) désigne lespace vectoriel des matrices carrées d'ordre n à coefficients réels. Pour tout entier naturel k, on note A* la matrice de  An(R) définie par récurrence par Ak+1 = A*A et AO = I, où I désigne la matrice identité de ~Un(R) +o 1 Pour tout A € Mn(R) on note *A la matrice transposée de A et exp(A) = 2 Ak k! k=0 d Pour tout polynôme P(X) = E Qk-Xk de R[X] P(A) désigne la matrice QkAk. k=0 k=0 On rappelle que si deux matrices A et B commutent alors exp(A+ B) = exp( A) exp( B)  Pour toutes matrices A,B € Mn(R), on pose < A,B >= tr(AB).
+1 Vérifier que (Un(R), <, >) est un espace euclidien
+2. Soit A € Mln(R) et %A lendomorphisme de  n (R) défini par $A(B) = [A; B] = AB BA. a) Montrer que $A = Q:A, où 04 désigne l'adjoint de 04. b) En déduire que Im(%A) = (ker(otA))1, où (ker(oA))L désigne lorthogonal de ker(oA). 3 Soit A € Mn (R). Montrer que A est nilpotente, si et seulement si, A € Im(%A) .
+4 Soit A € n (R) Montrer que si A est semblable à 2A, alors A est nilpotente.
+5 Soit A une matrice nilpotente de Mn (R)
+Montrer qu'il existe B € Mn(R) tel que AB = (I + B)A. b) En déduire que pour tout Q € R[X], AQ(B) = Q(I + B)A Xk c) En prenant Qa(X) = 2 Xk Montrer que A = exp( X) exp( AB)A exp( -AB) k! k=0 d) En déduire que A est semblable à 2A.
+Partie IV
+Dans cette partie A et B sont deux matrices de  An (R) telles que [A, [A, B]] = 0
+1
+a) Montrer que [A, B]k = [A, B[A, B]k-1] pour tout k € N' b) En déduire que [A; B] est nilpotente. 2. Montrer que [Ak , B] = k[A, B]Ak-1 pour tout k € N* .
+3 On suppose de plus A est nilpotente.  Soit ^ une valeur propre complexe de AB et X un vecteur propre associé à / Soit k un entier naturel non nul tel que 4*-lX # 0 et A*X = 0.
+a ) Montrer que si k = 1 alors } = 0
+b) Montrer que si k > 1 alors est une valeur propre complexe de AB k c) Montrer que AB est nilpotente.

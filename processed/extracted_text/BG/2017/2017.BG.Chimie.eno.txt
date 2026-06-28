@@ -1,21 +1,342 @@
+--- page 1 ---
+ [
+InsTRUCTIONS . s Cette épreuve comporte deux parties indépendantes: La première partie (chimie inorganique 50% de la note) comporte 10 pages (p2-pl2) + p13 vide. La deuxième partie (chimie organique 50% de la note) comporte 13 pages (pl4-p23) 4 p24 vide. Tout résultat doit être écrit dans les cadres adéquats. Seul V'usage des calculatrices électroniques de poche non programmables est autorisé Les résultats numériques sans unité ou avec une unité fausse ne seront pas comptabilisés: Aucun échange entre les candidats n'est autorisé. En cas de besoin utiliser la page vide à la fin de chaque partie. Dans ce cas, il faut le signaler dans la case allouée à la réponse remise en fin de cahier. Si au cours de lépreuve, un candidat repère ce qui lui semble être une erreur d'énoncé, il la signale sur sa copie et poursuit sa composition en indiquant les raisons des initiatives qu'il est amené à prendre.   LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 24. PAGES NUMEROTÉES 1 sur 24,2 sur 24,- 24 sur 24.
+47 Xccfif: Fwnemrt Geoior c 1c^    `  La première partie du sujet traite les chapitres suivants '
+I Atomistique-chimie de solution
+IL Cristallograpbie IIL Diagrammes binaires = 'propriétés colligatives IV. Diagramme potentiel-pH
 
 
+1 
+2
+
+Page 1 sur 24
+Concours Biologie et Géologie- Session MailJuin 2017
+
+--- page 2 ---
+Partie I : Chimie inorganique NOTATIONS ET DONNÉES NUMÉRIQUES Les gaz sont supposés parfaits: Lorsqu'aucune mention n'est spécifiée; les ions sont supposés implicitement en solution aqueuse. Sauf indication contraire; les grandeurs qui dépendent de la température sont données à 298 K Les enthalpies de changements d'état sont supposées indépendantes de la température. NOTATIONS Les abréviations suivantes sont utilisées pour désigner l'état physique des constituants (g) pour gazeux; (sd) pour solide; (liq) pour liquide et (aq) pour aqueux.  ' Ln logarithme népérien.  log1o logarithme à base 10. 
+CONSTANTES PHYSIQUES Constante d Avogardro N =6,02x1023 mol-1 Constante des gaz parfaits R =8,314 JK-' mol-1. (RxT)F x Ln(10) = 0,06 V à 298 K. 1   ? . < Pression standard p =lbar . DONNÉES NUMÉRIQUES Masses molaires (g.mol-') Lanthane (La) = 138,91 3 aluminium (Al) = 26,98 cuivre (Cu) = 63,55 ; et oxygène (0) = 15,99 Enthalpie standard de fusion à la température de fusion standard de LazO3 pur Ho fus LazO3 = 78 kJ mol-1 Numéros atomiques Z Sodium = 11 Krypton = 36 ; Rubidium = 37 Potentiels chimiques standard des _entités à 298K; Entité "i" 0 ; kJmol-1 La3+ (9 ~729,4  s La(OH)B(sd) -1309,2  HO (q -157,1 Brzqiq 0,0 no Produit ionique de leau à 298 K : Ke = 10-14. Température de fusion standard de Laz0, Te -fus = 2588 K
+Potentiels redox standard à 298 K et à pH = 0 :
+La 3+ ILa(sa) -2,52
+couples_ Ee
+HH2(g) O2(g) H2O 0,00 1,23
+CONVERSIONS 1 bar =105 Pa 1 pm = 1012 m T(K) = 0(PC) +273.
+Page 2 sur 24
+Concours Biologie et Géologie- Session Mai/Juin 2017
+
+--- page 3 ---
+Partie I : Chimie inorganique
+
+PROBLÈME | : ATOMISTIQUE-CHIMIE DE SOLUTION 1) Donner les structures électroniques de latome de brome 3sBr dans son état fondamental et de lion bromure (Br
+2) A quelle famille du tableau périodique des éléments chimiques appartient Tatome de brome ? Justifier la réponse:
+3) Quel est l'ion alcalin isoélectronique de lion bromure 2
+6 . .
+4) Le dibrome liquide est très peu soluble en solution aqueuse, il se dissout dans l'eau selon l'équilibre
+=
+Brz(liq) Bfz(aq) Calculer la solubilité du dibrome dans l'eau pure à 298 K, sachant que la valeur du potentiel chimique standard du dibrome (à dilution infini) dans l'eau vaut 8,8 HBrz(oq) = 4,11 kJ mol-'
+'   , 2
+   `
+1 1 
+
+Page 3 sur 24
+Concours Biologie et Géologie- Session MailJuin 2017
+
+--- page 4 ---
+Partie I : Chimie inorganique
+PROBLÈME Il : CRISTALLOGRAPHIE La figure ci-dessous est une représentation en perspective de la maille hexagonale de LauC Cuv.
+2e
+légende
+
+La
+1 s
+Cu
+7 1 e
+Les vecteurs de base de la maille sont notés a,b et c 1) Donner les relations liant les différents paramètres de la maille
+  ,  ?
+2) Déterminer les coefficients u et v.
+oiin  ^ : ` .
+
+3) Sachant que les paramètres de la maille a et c sont respectivement de 434 pm et 382 pm; donner lexpression puis calculer la masse volumique de ce composé.
+Page 4 sur 24
+Concours Biologie et Géologie- Session MailJuin 2017
+
+--- page 5 ---
+Partie I : Chimie inorganique
+
+PROBLÈME DIAGRAMMES BINAIRES-PROPRIÉTÉS COLLIGATIVES On considère le diagramme binaire liquide-solide LazO; ~AlzO; à pression constante P = 1 bar), représenté par la figure ci-dessous 2600 2600 pEllbor
+2500
+2500
+2400
+2400
+E 2300 1 2200 2103 * 2100 
+2300 2 (31 1 2200 2184
+2100 122  2000
+205SK
+2000
+[2)
+1900 0
+1900
+0,1
+0,2
+0,3
+0,4 0,5 0,6 fraction molaire
+0,7
+0,8 088,9 Alz0;
+Laz0,
+1) Les deux composés AlzO; et LazO; sont-ils totalement miscibles, partiellement miscibles; ou totalement non miscibles ? à Pétat solide
+à Pétat liquide :
+Page 5 sur 24
+Concours Biologie et Géologie- Session MailJuin 2017
+
+--- page 6 ---
+Partie I : Chimie inorganique
+2) Déterminer les formules des composés intermédiaires et préciser la nature de fusion de chacun de ces composés.  . .  ;
+
+ 1
+2
+3)Indiquer pour chaque domaine ,de (1) à (3), du diagramme binaire (LazO, ~Al2Os) la nature des phases présentes: Domaine (1) :
+Domaine (2) :  
+e
 
 
+ s e
+Domaine (3) : ss  ; 21 4) Identifier  les   segments  invariants du diagramme et donner   les   équations-bilans des transformations correspondantes: '
+Page 6 sur 24
+Concours Biologie et Géologie- Session MailJuin 2017
+
+--- page 7 ---
+Partie I : Chimie inorganique
+5) On considère un mélange constitué de 1,32 g de LazO; et 0,62 g de AlzO;. Tracer lallure de la courbe de refroidissement de ce mélange à partir de la température 2500 K jusqu'à la température 2000 K. Préciser pour chaque tronçon les phases présentes et les transformations qui ont eu lieu.
+
+ 
+
+6) La branche du liquidus relative à Téquilibre entre un mélange liquide (LazO; et AlzO3) et le solide LazO; pur est décrite par la relation ooot 2  2 'fus H9,9 1 In(x1az0, = R To T fus(Laz03 où XLa2O3 désigne la fraction molaire de LazO; dans le mélange liquide et fus H2,, Penthalpie standard de fusion de LazO; à la température de fusion standard de Laz0; pur àTe fus,Laz03 6-a) Pour des solutions très diluées de AlzO; dans Laz03, établir la relation : 'fus H9,9 AT XAlz0; X R (Te fus,Laz03 avec AT = Tfs,Laz0; T où T est la température dapparition des cristaux de LazO; pur lors du refroidissement du mélange (LazO; et AlzOs) de fraction molaire XAl,03
+Page 7 sur 24
+Concours Biologie et Géologie- Session MailJuin 2017
+
+--- page 8 ---
+Partie I : Chimie inorganique
+6-b) Pour une solution diluée de AlzO; dans LazO3, montrer que la molalité de AlzO; (99Al,0; s'écrit en fonction de la fraction molaire XAI2O3 selon l'équation 2 Xalo x1000  s 9t Alz0s M1c 
+6-c) Donner lexpression puis calculer la valeur de la constante cryoscopique Kcr du solvant LazO; définie par AT = Ka *%J AlzO;
+   : ;, . s  : 184 ^  . 1  , A 4 . ii  
+ `  : . { '  [
+ , c
+Page 8 sur 24
+Concours Biologie et Géologie- Session MailJuin 2017
+
+--- page 9 ---
+Partie I : Chimie inorganique
+PROBLÈME IV : DIAGRAMME-POTENTIEL ~PH (E-PH) 1 Le diagramme   potentiel-pH du lanthane   fait  intervenir les   entités suivantes La3+ (aq), La(OH)3(sd) et La(sd) La concentration de chaque entité dissoute du lanthane est égale à 10-2 molL-! 1) Donner, pour chaque entité, le nombre d'oxydation du lanthane "La"
+= La 3+ 2) Soit la réaction : La(OH)3(d) 4 3HO - (1) On note AG8 l'enthalpie libre standard de cette réaction.  0   2-a) Donner l'expression puis calculer la valeur de A,G1 à 298K.
+ 
+2-6) Monter que la valeur du pKs du La(OH)3(sd) est de 18,99 à la température 298 K
+Page 9 sur 24
+Concours Biologie et Géologie- Session MailJuin 2017
+
+--- page 10 ---
+Partie I : Chimie inorganique 2-c) Donner l'expression puis calculer la valeur du pH de début de précipitation de La(OH)B(sd)_pour une solution contenant des ions La3+ à la concentration de tracé Ctra  n  77: { 9i ' , : .  ( s  !aonn){er 77n46187 8 
+ `
+3) Déterminer les équations des lignes frontières délimitant les domaines de stabilités des différentes entités.
+Page 10 sur 24
+Concours Biologie et Géologie- Session Mai/Juin 2017
+
+--- page 11 ---
+Partie I : Chimie inorganique
+4)
+4-a) Tracer le diagramme E-pH du lanthane < La > pour la concentration de tracé Ctra. 1,50
+1,00
+0,50
+0,00
+~0,50
+{ -1,00
+~1,50
+-2,00
+-2,50
+~3,00
+-3,50
+2 3
+4 5
+6
+8
+9  ,
+10
+11
+12
+13
+14
+pH 4-b) Indiquer sur ce diagramme les formes prédominantes dans les différents domaines: Arépondre sur_le diagramme 5) Écrire la demi-équation de réduction du dioxygène O2(g) en H2O(liq) et en déduire Pexpression du potentiel Ea du couple correspondant en fonction du pH pour une pression partielle Poz =l bar
+Page 11 sur 24
+Concours Biologie et Géologie- Session MailJuin 2017
+
+--- page 12 ---
+Partie I : Chimie inorganique 6) Écrire la demi-équation de réduction de HpO(iq) en Hz(g) et en déduire 1expression du potentiel Eb du couple correspondant en fonction du pHpour une pression partielle PHz = Ibar
+5c
+
+7) Tracer sur le même diagramme potentiel-pH du lanthane, les potentiels Ea et Eb en fonction du pH Arépondre sur_le diagramme 8) Le lanthane métal est-il stable dans Teau ? Justifier la réponse 
+o
+ '
+FIN DE LÉNONCÉ DE CHIMIE INORGANIQUE      :  .
+ 7  , { 2 1 !     s  , : ~ 
 
 
+  1 
+Page 12 sur 24
+Concours Biologie et Géologie- Session MailJuin 2017
+
+--- page 13 ---
+Partie II : Chimie organique
+DONNÉES :
+Élément Numéro atomique Z Masse molaire gmol-1
+H
+0 8 16
+6
+12
+TABLE DE DONNÉES DE SPECTROSCOPIE INFRA-ROUGE Groupement Liaison Nombre dondes (cm-') Alcools OH libre 3650-3590 Alcools OH associé 3400-3200 Amines primaires N-H 3500 Aldéhydes C=0 1740-1720 Cétones C-0 1725-1705 Alcènes C=C 1675-1645 EXERCICE 1 On réalise à 25*C lhydrolyse du bromure de tertiopentyle A on isole alors trois produits A1, Az et A3 selon l'équation de la réaction suivante (1) : CH3 H2O H,C_CH2 ~c_CH; A1 +A2 + As
+Br
+Les analyses spectroscopiques de ces trois produits ont donné les résultats suivants Produit A1 Masse molaire moléculaire = 88 g.mol-  . Spectre IR une bande d'absorption vers 3600 cm-' Spectre RMN du 'H : absence de proton éthylénique.  Produit Az Spectre IR une bande dabsorption faible vers 1670 cm-' Spectre RMN du 'H présence d'un seul proton éthylénique.
+Produit A3 Spectre IR une bande d'absorption intense vers 1650 cm-' Spectre RMN du 'H : présence de deux protons éthyléniques.
+1) En tenant compte de ces résultats et sachant que Az et As possèdent la même masse molaire moléculaire égale à 70 g.mol-1. 1-a) Identifier les structures correspondant à ces trois produits.
+Page 14 sur 24
+Concours Biologie et Géologie- Session MailJuin 2017
+
+--- page 14 ---
+Partie II : Chimie organique
+1-b) Attribuer chacune des bandes dabsorption des spectres IR aux liaisons correspondantes.
+2
+
+2)
+2-a) Préciser les types de réaction correspondant à la formation de chacun de ces produits.
+2-6) Sachant que a cinétique de leurs formations ne dépend que de la concentration en bromure A, déduire les noms des mécanismes correspondants. Justifier.
+3) Préciser le type disomérie, s'1l existe, dans chacun des trois produits formés.
+4) Sachant que les proportions de ces produits sont Al = 609 Az = 32%
+A3 = 8%
+Expliquer pourquoi
+4-a) A1 est majoritaire.
+ , 
+4-b) Az est obtenu en quantité plus importante que A3.
+1 . .
+
+Page 15 sur 24
+Concours Biologie et Géologie- Session MailJuin 2017
+
+--- page 15 ---
+Partie II : Chimie organique 5) En traitant, dans les mêmes conditions de la réaction (1)
+Le 2-bromo- 2-méthylpropane B : on obtient un mélange de deux produits dont un alcool B1. Le 3-chloro-2,2,3-triméthylpentane C : on obtient un mélange de trois produits dont un alcool C1. 5-a) Donner les structures des alcools B1 et C1.
+g 1
+ ^ .
+5-b) Comparer la réactivité des trois dérivés halogénés précédents A, Bet C dans les réactions de formation des alcools At, B1 et C1 (Donner un classement par réactivité croissante). Justifier. 2 n
+7
+1!Paoureq `: : -
+
+ on
+EXERCICE 2 On considère la réaction de condensation suivante
+HO
++
+A + B
+H3C-C_H O
+A et B sont deux produits isomères de formule brute CgH1402 (A est majoritaire par rapport à B).
+Page 16 sur 24
+Concours Biologie et Giéologie- Session MailJuin 2017
+
+--- page 16 ---
+Partie II : Chimie organique
+1-a) Détailler les mécanismes de formation des deux produits A et B.
+Mécanisme de formation de A :
+ `
+Mécanisme de formation de B :
+; 2
+1-b) Donner le nom de cette condensation.
+Page 17 sur 24
+Concours Biologie et Géologie- Session MailJuin 2017
+
+--- page 17 ---
+Partie II : Chimie organique 1-c) Expliquer pourquoi A est majoritaire_par rapport à B
+2)
+2-a) Montrer que l'un des deux isomères (A ou B) permet, après deux réactions successives, de retrouver la cétone de départ.
+ 
+2-b) Donner le nom systématique du diacide formé au cours de cette synthèse:
+3) Montrer que lautre isomère permet; après deux étapes similaires, de retrouver laldéhyde de départ;
+ :
+
+Page 18 sur 24
+Concours Biologie et Géologie- Session MailJuin 2017
+
+--- page 18 ---
+Partie II : Chimie organique 4) L'isomère majoritaire A permet, après trois étapes, de retrouver majoritairement la cétone et l'aldéhyde de départ. Détailler cette suite réactionnelle tout en précisant les réactifs nécessaires (Indication utiliser dans lordre suivant les réactions de réduction; déshydratation et ozonolyse).
+  1
+ ,
+ 
+ s
+PROBLÈME On se propose de synthétiser une cétone insaturée appelée la dihydrotagétone (D.HT:) et dont la formule est H3C CH- ~CH2 c-_CH2 ~CH_CH=CH2 H3C  ^ s CH3  ` 1s D.K T. i  7  1s Pour cela, on fait appel à l'un des deux procédés suivants  ~ .  ^
+Ier procédé Il comporte les trois étapes suivantes
+ ,
+1ère étape Synthèse de lalcool crotonique D
+1/ B H3C-CH 2/ H2O/H
+crotonisation (C4HgO2)   . B
+I/LiAIH4 (C4HgO) 2/ 'HpOlH@ D
+A
+Page 19 sur 24
+Concours Biologie et Géologie- Session MailJuin 2017
+
+--- page 19 ---
+Partie II : Chimie organique
+
+1)
+ 
 
 
+1-a) Détailler le mécanisme de synthèse du produit B.
+
+ 
+1-6) Donner les structures des produits C et D.
+ . . 
+ori io
+ ,` 2ème étape Synthèse de laldéhyde F.  
+ 
+La condensation de l'alcool crotonique D et de la forme énolique A' (tautomère de A) donne après déshydratation léther E (C6H1oO) Ce dernier subit, après chauffage pendant 30 min à 150 C, un réarrangement donnant lieu à l'aldéhyde suivant F  inoioio
+HzC=CH-CH-CH2~C-H  < o CH; < ` F    2-a) Détailler le mécanisme de l'équilibre tautomérique A A
+2)
+Page 20 sur 24
+Concours Biologie et Géologie- Session MailJuin 2017
 
 
+--- page 20 ---
+Partie II : Chimie organique 2-b) Donner la structure de léther E.
+2-c) Donner le nom systématique de laldéhyde F
 
+3ème étape Synthèse de la DHT.
+L'aldéhyde F est enfin soumis à la suite réactionnelle suivante
+H,C H CH-C-MgCI H,C H DHT: -100 C
+[oxy] F SOClz  G H
+ ?
+3)
+ 3-a) Donner les structures des composés G et H.  ~ <
+[.
 
+3-b) Détailler le mécanisme de T'étape H
+DKT.  , ` 1 `
+e
+ s
+Page 21 sur 24
+Concours Biologie et Géologie- Session MailJuin 2017
 
+--- page 21 ---
+Partie II Chimie organique 3-c) Donner le_nom systématique de la DHI
+2ème procédé Celui-ci fait intervenir, dans une première étape; la synthèse du cétoacide suivant I : H,C CH CH2 ~C_CH2_CH-C_OH H3C 0 CH3   ; , : d 1
+Ce composé est soumis ensuite aux réactions suivantes CHs~OH /H OH OH 1/ LiAlH4 K (C13H2404) L H 2/ 'HzOlH CrO3 (Ph);P=CH2 HzO/H M N DHT [oxy. douce] Wittig ;! n  onnoni (NB Dans Vétape M>N, Ph désigne le groupe phényle ~CsHs et P désigne l'élément phosphore)
+4) Donner le nom systématique du cétoacide I
+5) Sachant que Téthylène glycol   HO-CH2 CH2 OH (étape J9 K) sert à protéger provisoirement le groupe carbonyle dune cétone selon la réaction
+C=0
+Donner_les_structures des produits J K L Met N
+K
+Page 22 sur 24
+Concours Biologie et Géologie- Session MailJuin 2017
 
-
-
-
-
-
-
-
+--- page 22 ---
+Partie II : Chimie organique
+M
+N
+FIN DE LÉNONCÉ DE CHIMIE ORGANIQUE.
+7
+s
+Page 23 sur 24
+Concours Biologie et Géologie- Session MailJuin 2017

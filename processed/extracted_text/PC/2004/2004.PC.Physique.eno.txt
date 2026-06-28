@@ -1,6 +1,139 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de [Enseignement Supérieur, de la Recherche Scientifique et de la Technologie
+Anstitut ) (oreparaige < bibliotheque Concours Nationaur dEntrée aux 8 Cycles de Formation d'Ingénieurs (EtuDes 5 "Dugexieues > Session : Juin 2004 Concours Physique et Chimie Epreuve de Physique
+Date Jeudi 10 juin 2004
+Heure : 8 H
+Durée : 4 H
+Nbre pages 07
+Barème
+Problèmel 08,5 pts ; Problème2 11,5 pts
+Seules les calculatrices non programmables sont autorisées:
+Si au cours de l'éprewve un candidat repère ce qui lui semble être une erreur d'énoncé il le signale sur sa copie et poursuit sa composition en expliquant les raisons des initiatives qu 'il est amené à prendre.
+L'épreuve est   constituée de deux   problèmes   indépendants. Dans   chaque   problème, certaines   parties nombreuses questions sont indépendantes.
+de
+Un candidat peut toujours se servir dun résultat fourni par l'énoncé pour continuer sa composition:
+PROBLEME NP1
+I - Préliminaires
+1- Enoncer, dans le cas général, le premier principe de la thermodynamique pour un système fermé 2- On considère un système défini par le contenu dune surface (Z)(Figure 1), fixe dans le référentiel du laboratoire   supposé Galiléen   Un tel dispositif peut   représenter une turbine; une tuyère, un compresseur; etc.. 1 est le siège dun écoulement fluide non visqueux en régime stationnaire. On note Sm1 la masse qui est entrée dans (Z) et ôm2 la masse qui en est   sortie au cours d'une évolution entre les instants t et t + dt. Au cours de cette évolution; le fluide dans (Z) échange avec le milieu extérieur une puissance thermique  Pc et une puissance mécanique Pu (puissance  utile). Cette  dernière n'inclut pas la puissance des forces de Pression. On note 9 l'énergie thermique massique associée à P. et w le tavail massique associé à Pu
+Section 2
+ôm1
+Section
+Figure 1
+(Ptn, P)
+Concours Physique et Chimie Session juin 2004
+Epreuve de Physique
+Page 1/7
+6m2
 
+--- page 2 ---
+Les grandeurs  physiques sont repérées par Findice sur la section amont et lindice 2 sur la section aval. Le milieu extérieur est assimilé à un thermostat de température To. On suppose que la variation de lénergie potentielle de pesanteur est nulle en tout point de lécoulement.
+2-1- Montrer, qu'en régime stationnaire, le débit massique Dn se conserve. 2-2- En considérant un système fermé convenablement choisi, montrer que le premier principe s écrit sous la forme Dm hz 4s) -(h1 4c )  =% +Pu où h est ]enthalpie massique du fluide et sa vitesse macroscopique dans le référentiel du laboratoire. 2-3- Décrire lexpérience de la détente de Joule Thomson. En déduire que cette détente est isenthalpique. 3- Enoncer le second principe de la thermodynamique pour un système fermé quelconque en notant $ son entropie. 4- En effectuant un bilan entropique du système fermé considéré dans la question 2-2, montrer que
+52 =S1 2 To où $ est [entropie massique du fluide.
+II- Gaz parfait On considère un gaz parfait ayant pour masse molaire M et pour capacités thermiques massiques Cv et Cp; respectivement à volume constant et à pression constante. Les capacités cv et Cp sont R supposées constantes. On note 1 = et [ = où R = 8,314 JK mol' est la constante des gaz M parfaits. 5- 5-1- Ecrire la relation liant la pression P, la température T et le volume massique du gaz parfait. 5-2- Exprimer la différentielle dh de [enthalpie massique en fonction de I, Y et dT. 5-3- Déterminer la variation élémentaire ds de lentropie massique en fonction des variations élémentaires de Tet P 6- Un gaz parfait subit la détente de Joule Thomson 6-1- Calculer la variation AT de sa température au cours de cette détente. En déduire [énoncée de la deuxième loi de Joule. 6-2- Déterminer la variation de son entropie massique. La détente est-elle réversible ? Justifier. 7- Dans le diagramme entropique S) on porte la température en ordonnée et lentropie massique en abscisse 7-1- On considère lisobare P1. Déterminer la relation entre s(T, P1) et s(T1, P1) = s1- Représenter Tallure de cette isobare 7-2- Pour l'isobare Pz 3P1, déterminer la relation entre s(T, Pz) et s(T, P1). Représenter [allure de cette isobare. 7-3- En déduire que les isobares se déduisent les unes des autres par une simple opération que Ton définira
+Concours Physique et Chimie Session juin 2004
+Epreuve de Physique
+Page 2/7
 
+--- page 3 ---
+ligne
+III _ Gaz réel
+8- En quoi diffère un gaz réel dun gaz parfait ? 9- Dans le modèle de VAN DER WAALS (VDW), l'équation détat d'un gaz réel s'écrit
+la Jelle
+(P+4)(v-b) = rT avec a et b des constantes positives. 9-1- Donner les significations des termes et b. V2 9-2- La quantité de transfert thermique 6q échangée, d'une manière infinitésimale, par lunité de masse de ce gaz   peut 'écrire; a Taide des coefficients   calorimétriques Cv et sous   la forme : 8q=cvdT + ?dv Etablir les relations de Clapeyron {=tlæ) et âcx =Tl%g)
+Hz
+9-3- Montrer que cv est indépendant du volume v. En admettant que cv est aussi indépendant de la température; déterminer la variation de l'énergie interne massique u (T, puis celle de lentropie massique $ (T. v) de ce gaz
+9-4- L'expression approchée de ]enthalpie massique du gaz de VDW est donnée par h =ho + (c,+r)T+( - 24) P où ho est une constante 9-4-1- Calculer êh Discuter   le sens de   variation  de h en fonction de la pression;
+température donnée. 9-4-2- Montrer que la détente de Joule Thomson ne permet de refroidir un gaz réel que si sa température   initiale est inférieure une   températurelimite T; appelée température d'inversion. Exprimer T; en fonction de I, aet b. Calculer T; pour le diazote Nz et le dihydrogène Hz- Peut-on refroidir ces gaz en leur faisant subir une détente de Joule Thomson à partir de la température ambiante ? Justifier.
+On donne
+gaz Hz Nz
+(10" Jmg 6,250 0,165
+b (10 mg) 1,350 0,136
+M(g mol
+28
+IV  Potentiel thermodynamique
+10- Qu'appelle-t-on potentiel thermodynamique ? 11- Déterminer; en justifiant; le potentiel thermodynamique décrivant lévolution dun système therodynamique dans les cas suivants 11-1- un système fermé thermiquement isolé. 11-2- un système fermé qui subit une évolution monotherme sans échange de travail avec Textérieur. 11-3- un système fermé qui subit une évolution à la fois monotherme et monobare . 12- On s'intéresse au système fermé considéré dans la question 2-2. 12-1- Quelle est la puissance maximale récupérable par le milieu extérieur par unité de masse du fluide  12-2- Quel est le travail maximal correspondant ? 12-3- En déduire le potentiel thermodynamique décrivant l'évolution du système.
+Concours Physique et Chimie Session juin 2004
+Epreuve de Physique
+Page 3/7
 
+--- page 4 ---
+2 sur la ose que la
+PROBLEME N?2
+On donne =910? SI et He =10' SI , où 41 €o Areo et Ho   représentent respectivement la permittivité électrique et la perméabilité magnétique du vide.
+principe
+1 Questions préliminaires
+1- Décrire une expérience réalisable dans un laboratoire et permettant de mettre en évidence un phénomène de propagation à une dimension: Préciser la grandeur qui se propage. On rappelle qu'un phénomène ondulatoire se propageant suivant la direction Ox, décrit par une grandeur physique V(x,t), est gouverné par l'équation aux dérivées partielles suivantes aw (xt) 'w(t2 =0 (équation 1) @x' 0 2- Qu'appelle-t-on cette équation ? Ecrire sa solution générale. 3- Que représente la grandeur V ? Préciser son unité .
+ntiel du
+rente est
+que en
+nontrer
+4-1- Définir les ondes transversales et longitudinales. Donner des exemples. 4-2- Dans le cas des ondes sonores et électromagnétiques, quelles sont les grandeurs représentées par la fonction d onde v(x,t) 5 Vérifier que les fonctions d'ondes   v (x,t)=acos (@ (t et V (xst)= a cos (@ (t - sont des solutions de |'équation 1. Que représentent les fonctions V1 et W2 Préciser leurs caractéristiques Déterminer la fonction donde W(xt) résultant   de la superposition des  deux   phénomènes ondulatoires décrits par V1 et W2- Caractériser londe résultante .
+ssiques sont
+es caz
+I- Etude dune ligne de transmission dun signal électromagnétique Pour transmettre un signal  électromagnétique à des grandes distances, on utilise un câble coaxial jouant le rôle de guide dondes électromagnétiques Il peut être modélisé par deux fils conducteurs identiques de faible rayon et parallèles entre eux.
+u gaz
+ations
+LLALiene bifllaire sans perte
+La ligne est constituée de deux fils parfaitement conducteurs de rayon & rectilignes; parallèles Taxe Ox, de longueurs infinies; parcourus par des courants électriques de sens opposés et sont placés dans le vide à une distance 0 Tun de lautre tel que 0>>a Cette ligne; caractérisée par une capacité linéique T = TSL et une inductance propre linéique A = #Log(5) , peut se décomposer Log(2) en cellules élémentaires; de longueur dx, dont une est représentée sur la figure 2. i(xt) i(x+dxt)
+oncée
+er. ropie
+enter
+lure
+dL=Adx
+v(x,t)
+que
+dC= Tdx
+v(x+dx,t)
+Figure 2
+X +dx Epreuve dc Physique
+Concours Physique et Chimic Session juin 2004
+Page 4/7
 
+--- page 5 ---
+La tension entre les fils conducteurs  et lintensitéde courant qui les parcourt sont notées respectivement v(xt) et i(x,t), à labscisse x et à linstant t.
+7-1- En utilisant les lois de lélectrocinétique, établir, au premier ordre, deux équations aux dérivées partielles liant @v(.12 à 94612 dune part; et âi(t2 à 9vaxt2d'autre part @x dt 0 X dt 7-2- Déterminer les équations aux dérivées partielles vérifiées respectivement par v(x,t) et i(xt) En déduire que le signal électrique se propage à la célérité de la lumière dans le vide. Ecrire la forme générale de la solution relative à la propagation du signal électrique représentée par la fonction donde v(xt). 8- La ligne, située dans F'espace x < 0 et alimentée par une tension sinusoïdale de pulsation @, se ferme sur une résistance R située en x = 0 (Figure 3).
+Ligne bifilaire
+R
+X =0
+Figure 3
+La fonction d'onde caractérisant la tension v(x,t) peut s'écrire, en notations complexes
+Xx;t) =[A exp(-j @x) +Bexp(j @x)] exp(j @ t) où A et B sont des constantes . 8-1- Justifier l'écriture de la fonction d'onde 2(x,t). Déduire la fonction donde de courant i(x.I) associée à Y(x,t) 8-2 - Exprimer l'impédance Z(x) Mxt) en tout point de la ligne. On fera apparaître la quantite {x,t) Zc, homogène à une impédance; qu'on exprimera en fonction de Tet A 8-3- Déterminer le rapport B en fonction de R et Zc. Décrire le comportement de londe de courant le Jong de la ligne dans les cas suivants R = Z R=0 et R = % 8-4- On ferme la ligne sur une résistance R = 1500 @ Calculer   l'inductance   linéique propre A et la   capacité   linéique T de cette   ligne   permettant d'empêcher la réflexion du signal électrique en x = 0. 9- Dans cette question; la ligne est supposée infinie (x € ]- œ,+ œ[ ) En x = 0, on relie les deux fils de la ligne par une résistance R = Zc (Figure 4)
+Zc
+X =0 Figure 4
+9-1- Exprimer; en fonction de Zc; Fimpédance de la ligne en X = 0 vue depuis la région x < 0 9-2- En déduire le module p du coefficient de réflexion en courant ou en tension de londe en x = 0.
+Concours Physique et Chimie Session juin 2004
+Epreuve de Physique
+Page 5/7
 
+--- page 6 ---
+ILB Ligne blllaire réelle (avec pertes) :
+notées
+En réalité. la transmission dun signal électrique le Jong de la ligne est accompagnée d'une atténuation et dune distorsion (diminution et déformation de lamplitude du signal) . Ces pertes sont dues au caractère non parfait   du conducteur   constituant la   ligne  bifilaire ainsi   qu'au défaut d'isolation des deux fils de la ligne par un diélectrique. Par conséquent; on peut associer; à chaque cellule élémentaire de longueur dx de la ligne, une résistance linéique r et une conductance linéique g qui s'ajoutent aux caractéristiques précédentes_ Le schéma équivalent de cette cellule est représenté sur la figure 5 . dL = ^ dx i(xt) dR= r dx i(x+dxt)
+5 aux
+i(x,t)
+ee par
+0, se
+v(xt)
+dC= [dx
+dG ga
+Figure 5 v(x+dx,t)
+X+dx
+On note; comme précédemment, v(x,t) la d.d.p entre les deux conducteurs et i(x,t) lintensité du courant qui parcourt chaque  branche de la ligne à labscisse x et à linstant t. 10- En appliquant   les lois de l'électrocinétique; établir   les nouvelles   équations aux   dérivées partielles permettant dexprimer, au premier ordre, âv(xt2 en fonction de i(xt) et @i(xt) puis @x ôt @i(xt) en fonction de v(x,t) et @v(xt) dx dt Montrer que l'équation aux dérivées partielles vérifiée par v(x,t) s'écrit sous la forme
+(Xxt)
+ntité
+ëv(x t2 44v602 -2K ôv(xt) 2 v(x,t) = 0 ât (équation 2) êx ôt
+de
+avec K= {(rT+g 4) et Q'=r gc? 11- Un générateur relié à lentrée de la ligne, délivre une tension sinusoïdale de pulsation @ Une onde; décrite par la fonction donde v(x,t) prend naissance  le long de la ligne. L'amplitude complexe Y(x) de la tension v (xt)=V(x)expljo t) obéit à l'équation suivante 4YG2+k'Y(x) =0 dx? En utilisant l'équation 2, établir la relation de dispersion liant k à @ 12- On se place dans le cas où l'onde de tension est progressive et on pose, k = k1-j kz. k1 et k2 sont des réels positifs. Déterminer 1'expression  générale de la solution de l'équation 2. Caractériser londe décrite par v(x,t). Que peut-on dire lorsque k, est une fonction de @? 13  Généralement,  les pertes le long de la ligne sont faibles et peuvent être considérées comme indépendantes de la pulsation. On se place alors dans les conditions où A@z>r et To>g. En effectuant un développement   limité au second ordre de k(o) déterminer une expression simplifiée du nombre donde complexe k(@) Déduire les expressions de k1(@) et kz(@) 14 Déterminer la vitesse de phase Vo de cette onde progressive le long de la ligne. Commenter.
+tant
+fils
+Concours Physiquc et Chimie Session juin 2004
+Epreuve de Physique
+Page 6/7
 
+--- page 7 ---
+15- Quelle condition (dite de Heaviside) doivent vérifier les quatre paramètres linéiques de la ligne pour éviter la déformation du signal lors de la propagation ? Commenter. 16- On considère une ligne téléphonique caractérisée par les données numériques suivantes A = 5.106 Hm F=2,22 10-12 Fm r= 4,5.10-2 Q m et g = 2.108 ' m 16-1- Vérifier si la condition de Heaviside est satisfaite. 16-2- Calculer, à la fréquence fo = 1 kHz appartenant au domaine des fréquences vocales) , la valeur de kz et la distance Xo (comptée à partir de lentrée de la ligne) au bout de laquelle Famplitude de la tension est divisée par v2 Analyser les résultats numériques obtenus. 17- On se place en dehors de la condition de Heaviside. Pour des fréquences supérieures à 1 MHz Montrer que la propagation du signal électrique est réalisée sans dispersion. Commenter
+FIN DE L'EPREUVE
+Jafa(cifd Iosfufer Fr € 23 0u8ur d0s Drudcs 4s 168 BIBLIo(HeQUi
+Concours Physique ct Chimie Session juip 2004
+Eprcuve dc Physique
+Page 7/7

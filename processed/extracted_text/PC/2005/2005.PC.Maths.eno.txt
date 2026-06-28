@@ -1,4 +1,60 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE
+Ministère de F'Enscigncment Supérieur
+9)Juéd] (WEies Uuus eibli unni iussjalyul 2005 i+>
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs Session 2005
+Concours en Physique Chimie Epreuve de mathématiques
+Durée: heures
+[Jate 10 Juin 2005
+Heure 8 H
+Nb pages 5 Barème:  Exercico (2.;pts)  Problème: Partie I (3pts), Partie II (5.5pts), Partie III (6pts), Fartic IV(3pts).
+Une grande importance sera altachée à la rigueur du raisonnement, à la clarté et au soin de la présentaliol. L'usage des calculatrices n'esl pas autorisé 1 est rappelé que tout résullat énoncé dans le texte peut être utilisé pour traiter la suite; même s'il n a pu être démontré
+Exercice
++o e-tr e-t dt.
+On considère la fonction F définie par F(s) = 1) Montrer que la lonction F est définie sur Jo; +0[ . 2) Montrer que la fonction F' est de classe C' sur ]0, +œ [ . 3) Calculer F' '(z) ct en déduire lexpression de F(z) +o 2t =3t Application calculer dt
+Problème
+Partie I
+€ désigne lespace vectoricl R[X] des polynômes à coficients réels, et pour tout entier naturel n, En esl: le sous-cspace vectoriel Rn[X] de € , formé des polynômes de degré inférieur o1 égal à n.
+"5e5' {ak>
 
+--- page 2 ---
+On considère [cndomorphismc ( de € défini pour tout P élément de € par
+(G(P)(X) = -3XP'(X) + (1 _ X?)P"(X)
+Dans la suitc, on désignera G(P) par GP. 1) Montrer que €n est stable par G. On désigne par Gn lcudomnorphisme de €n induit par G. 2) On note An la mnalrice <l: Gn dans la base canonique (1, X, X") de €n. 2a) Expliciter /2 2b) Donner An, pour n 2 3 2c) En déduire que An est: diagonalisable 3) Montrer qu'il existc une unique base ( Po,~ Pn) de En, formée de vecteurs propres de Gn et vérifiant pour tout entier 0 < k < n : (i) deg Pk k (ii) le coefficient; dominant de Pk est 2*. 4) Pour tout k 0, 229 n, OII note Àk la valeur propre de Gn associée au vecteur propre Pk et on pose Rk(X) = P(-X) 4a) Montrer que Gnlk = X+Rk 4b) En déduire quc Pv(-X) = (~1)*P(X). Quelle est la parité de Pk ?
+Partie II
+Pour tout entier nalurel n, on considère ['équation différentielle
+(En (1 _ z2)y" 3zy + n(n + 2)y = 0.
+On se propose de résoudre (En) sur ]-l, 1[ 1) Quelle est la dlimension de l'espac vectoriel des solutions de (En) sur ]-l, 1[ ? 2) Soit y une solntion de (En) sur ]-1, 1[ On pœse 0 = Arccos æ. Montrer que la lonction définie sur ]0, r[ par z(0) = sin 0 y(cos 0), est solution de ['équation différentielle
+(En z" + (n + 1)?2 = 0.
+3) Déterminer la solulion générale de léquation (En SW Jo; T[puis ælle de léquation (En) sur ]-1, 1[
 
+--- page 3 ---
+4) On se proposc dans ccttæ question de trouver les solutions polynomiales de (En sur ]-1, 1[ Soit y unc telle solution. 4a) Vérifier que limn (vi y(fc)) = 0. Montrer alors que y cst proportionnelle à la fonction
+sin[(n + 1)Arc cos z] 1 22
+4b) En déduirc qu'il existe un polynôme Qn de € tel que sin((n + 1)0) v0 ejo. f[, Qn (cos 0) = sin 0
+4c) Préciser Qo et Q1 et montrer que pour tout entier n,
+Qn+2 2XQn+1 Qn
+Ad) Montrer quc lc coefficient dominant de Qn vaut 2" et que le degré de Qn est n 4e) Conclure que Pn Qr, où Pn est le polynôme défini dans la partie I 5a) Calculer Pn(1) et Pn(-1). 5b) Montrer que Fn admet exactement n racines simples situées dans ]-1, 1[ Préciser ces racines_ 5c) Montrer que Pn+l (cos0) = Pn(cos 0) cos0 + cos((n + 1)0). 5d) En déduire que Væ e[-1, 1], |Pn(z)l <n+1.
+Partie III
+Soit À un réel vérifiant 0 < |A| < 1. On considère la fonction f , 2T - périodique; paire définie par
+ve € [0, 7], f (0)
+2Xcos 0 +12
+1) Vérifier que f cst de clsse Cœ sur R 2) On note (an)n>o et (bn)n?'- les coefficients de Fourier trigonométriques de f . 2a) Quc vaut bn
+2b) Montrer qu1c ao 1 - 12 (On pourra effecluer le changement de variables u tg2) 1+ À2 2c) Montrer que 01 00 21 2d) Montrer qne pour tout n € N, Aan+2 = (1 + A2)0n+1 + Aan 0
+3
 
+--- page 4 ---
+21" 1 - 12
+2e) En déduire qu: pour tout " € N, &n
+3a) Montrer que l séric de Fourier de f converge normalement vers f sur R 3b) Fn déduire quc les séries 2 @n+  sin(n0) et Ean-1 sin(n0) convergent "> [ n?l normalement sur R 3c) On note y la fonction <lélinie sur R par 9(0) = Af (0) sin 0. +0 Montrer que pour tout 0 € R; 9(0) = 2A"sin(ne) n=
+3d) En déduire quc VO € RlaZ. f (0) = 2x" Pn(cos 0) . n=0 sin((n + 1)02) (On rappelle que Pn(cos 0) sin 0 3e) Calculer (" + 1)A" ct E(n+1)(-A)" et montrer que légalité précédente est n--0 vraie sur R 3f) En déduire la convergcnce normale de la srie E"Pn(cos 0) sur R. n20 (On pourra utiliser la question 5d) de la partie II) 4a) Quelle est la nalure de la série Pn(cos 0) n20 4b) Déterminer le rayon de convergcnce de la série entière EP(cos@)z" où 0 est n20 un réel fixé et ~ € C. +0 4c) Pour x rél et |z| 1, calculer 2Pn(cos @)z" . n=0 Partie IV
+On note F 'lespace vcctoriel des lonctions réelles continues sur [-1, 1] muni du produit scalaire ( / :) défini par (f /9) = J vi =Z g(z) f()dz pour toos f,9 € F. On note || Il la norme associée On considère lcndlomorphisme G de € et la famille des polynômes Pn)neN définis dans la partie I. la) Soit P € €. Vérifier que VI z?(GP)(s) = d((1 z?)P(z)] dz 1b) Prouver que pour tous P, Q éléments de €, (GP | Q) = (P / GQ). lc) En déduirc qu; la lamille ( Pn)neN cst orthogonale dans €_ Id) Calculer ||Pnll- (On pxurra effectuer le changement de variables $ COS 0).
 
+--- page 5 ---
+2) Soit 9 un élément de F On suppoe que 9 est C par morœaux sur [1, 1] Pour tout n € N, on pose dn (g) = 2 (P 9) On note h la fonct tion 27- périodique, impaire définie par
+vo € [0, ~], h(0)
+2 (sin 0)g(cos 0) ,
+et on pose bn+1(h) = 2 Jl h(@) sin((n- + 1)0)de. 2a) Montrer quc dn(g) = bn1 1(h) 2b) Montrer que 9 penl-êtrc développée en srie de polynômes Pn suivant la formule
++o
+Vz e]-1, 1[, g(r) = 2 Éd(g)P (r) T n=0
+2c) Montrer que la séric E(dn(9))? est convergente et exprimer sa somme à laide n20 de Ilgll . 3) Réciproquement, soit (an)ncv unesuite réelle telle que E(n+l)an est absolument n20 convergente 3a) Montrer que la série @anPn converge normalement sur [1, 1]. On note sa n20 gomme. 2 3b) Montrer que pour tout n € N; In dn(0)

@@ -1,3 +1,51 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE {*: Ministère de L'Enseignement Supérieur
+Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs Session de Juin 2002
+Concours en Biologie et Géologie Epreuve de Mathématiques
+Durée: 3H Date: 3 Juin 2002 Heure: 8H Nb pages: 4 Barême: Exercice 1: 8pts Excrcic 2 Bpts Exercice 3: 6pts
+Lusage des calculatrices est strictement interdit. Une grande importance sera attachée à la rigueur du raisonnement; à la clarté de la rédaction et au soin de la présentation.  Il est rappelé que tout rêsultat énoncé dans le sujet peut être utilisé pou traiter la quite; même s'i u'a pu être demontre
+Exercice 1
+On rappelle que la fonction cosinus hyperbolique est définie sur R par:
+cht = (e + e-:) 2
+'Cc
+dt est nFI 2 {cht)
+1) Montrer que pour tout { € N, lintégrale impropre convergente, on note par @n 8a valeur_ 2) Calculer a et @1 3) Vérifer que la suite (an) est décroissante.
+1/4
+Jnstttut / (preparatoy  BBLis  8 1?c
 
+--- page 2 ---
+4)a) Moutrer que pour tout t 2 0,
+t2 1+ <cht <et 2
+b) En déduire que pour n € N et t 2 0 on a: 1+ (n +" < (cht)"+1 < e(n+l)t 2
+c) Montrer que pour n € N, 1 S < €n < n+1 V2(n +1)
+d) En déduire que lin vfan =1 n3oo
+5)a) En intégrant par parties la fonction 443 , montrer que pour tout (chz) n€N ORa n+1 On+2 2 @u n+2
+b) En déduire Fexpression de an- ~oo 6)a) Verifer que la série entière anxr a un rayon de convergence R =1 n20 46 b) Etudier la convergence de la série > ain aux points 1 et ~1 n20 +2 7) On pose f(æ) = E @nz" pour r €]-1,1[ ns0 a) Montrer que f verife
+(1 _ 22) f' (r) _ zf (r) =1 ,8i {c| < 1 f (0) ~ 08-
+b) En déduire que
+f(z) = 4 Arcsinz } Yr €}I,l Vi>32 2
+2/4
 
+--- page 3 ---
+8) Pour x € ]~1, I[, on pose 1 h(r) = (f (z) ~ f (-s)) 2
+a) Calculer Jo h(e)de, pour z €]-1,1[. 0 b) En déduire un développement en série entière de la fonction ( Arcsinz)?
+Exercice 2
+Soit (8,A, P) un espace probabilisé   On pose pour 1 > 0,
+Ae Ar 0
+si I 2 0 si I < 0
+4x (2) =
+1)e) Vérifer que 41 est une densité de probabilité sur R. b) Soit X une variable aléatoire réelle définie sur 0, de densité de probabilité {x Déterminer lespérance mathématique E(X) et la variance V(X) c) Déterminer la fonction de répartition F de X 2) Soit 8 UnI élement de lintervalle [0,1] Montrer  que la série de cerme général n = F(n+ 8} 4 F{n),n 2 0, est convergente et calculer sa somMe s 3) Soit Y la variable aléatoire à valeurs dans N définie sur 0 par:
+(Y =n) = (n < X < n+1)
+Calculer la loi et lespérance de Y. 4) Soient Xa, Xz deux variables aléatoires reelles indépendantes de même densite de probabilité 4x On pose U = max (Xi; Xz) e V =min (Xu, X2) a) Vérifier   l'égalité des évènements: (U < t) = (X1 < t)n(Xz < t) et (V 2t) = (Xi 2t)n(Xz > t) b) Calculer P(U < t) et P(V 2 t) , pour t € R. c) En déduire les lois de U et V.
+3/4
 
+--- page 4 ---
+Exercice 3
+On considére R3 muni de sa base canonique B = (e1,eà, es) et f [endomorphisme de R: défini dans la base B par sa matrice
+0 2 2 ~2 5 3 2 24 42
+A =
+1) Montrer que f n' est pas bijective 2) Déterminer le noyau kerf et limage Imf de lendomorphisme f et donner une base pour chacun deux 3) Déterminer les valeurs propres de A classées dans  Vordre croissant X1 < X2 < X3 et en déduire que A est diagonalisable. 4) Déterminer une base B'  ("1, "2, U3) formée par des vecteurs propres associés respectivement & X1, 12; X3 , 5) Déterminer la matrice de passage P de la base B & a base B' = ("1, v' "s) et calculer P-1 6) Calculer 4" an €N 7} On se propose de chercher les fonctions z,y et 2 solutions du svstème différentiel suivant:
+2(t) = 2u(t) + 2z(t) y(t) = ~2z(t) + 53(t) + 3z(t) 2(t) = 22(t) ~ 4y(t) ~ 2z(t), qui vérifient æ(0) = z(0) = 0 et y(0) = ~1. Dans le suite, on pose X(t) = r(t)e1 + y(tJez + z(t)e3. a) Calculer les composantes (u(t),v(t),w(t)) du vecteur U(t) = F-'x(t) dans la base B' b) Montrer que les fonctions %, V, w sont solutions du système dîférentiel
+u(t) = 0 v(t) = v() w(t) = Zw(t)
+et vérifient u(0) = 2,v(0) = ~1et w(0) ~ 42 c) En déduire ]'expression des fonctions I, Y,2.
+4 /4

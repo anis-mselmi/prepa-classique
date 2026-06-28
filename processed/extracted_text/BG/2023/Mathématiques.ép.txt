@@ -1,3 +1,55 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Mipistère de /Enseignement Supérieur et de la Recherche Scientifique Concours Nationaux d'Entrée aux Cycles de Fonation d'Ingénieurs Session 2023
+uisl Z)sa1ll +oel 994i +lll fall jJiw Jsisl Giji 2lblyi QuiJ isUydi 2023 *,> (Preparatolre Hux Eludes € Concours Biologie et Géologie (Bibliothèque ) 8 Epreuve de Mathématiques @ deSlar  rejs 5
+Session 2023
+Date 31/05/2023
+Durée 3 heures
+La qualité de la rédaction et de la présentation, la clarté et la précision des raisonnements entreront pour une part importante dans lappréciation des copies. Tout résultat fourni dans lénoncé peut être admis et utilisé par la suite, même s'iln'a pas été démontré
+[L'usage d'une calculatrice non programmable est autorisé. Lusage de tout autre dispositif électronique est interdit.
+Exercice I
+On note par Mn(R) Yensemble des matrices carrées dordre n à coefficients réels et par M(nm) (R) Yensemble des matrices à n lignes et m colonnes à coefficients réels. On munit R3 de la base canonique notée B et du produit scalaire usuel noté ( )
+On identifie R? avec M(31)  (R) et on considère la matrice non nulle U =
+€ M(s,1) (R)
+et sa transposée 'U = ( b c) € _ M(13) ( (R) Le produit matriciel UU € Ms(R). On note llull Va2 +62 + c = vuu
+On considère @ Yendomorphisme de R3 dont la matrice dans la base B est M = utU. Tulz Q1> Montrer que M est une matrice diagonalisable Q.2 > Etablir que M est la matrice dune projection orthogonale. Q.3 > En déduire les valeurs propres de M. Q4 D Vérifier que le rang de M est égale à 1. Q.5 D En déduire lordre de multiplicité des valeurs propres de M.
 
+--- page 2 ---
+Dans la suite, on prend U =
+1 Q.6 D Vérifier que M = 3
+Q.7 D Justifier que B' {u1,u2, u3} , avec V1 (1,1,-1) 12 12(, ~1,0) et V3 (1,1,2) , v3 v6 est une base orthonormale de R3 formée de vecteurs propres de Yendomorphisme @ Q.8 > Donner une base orthonormale de Im(@) et une base orthonormale de Ker(@) Q.9 D Montrer que Im(@) = {(x,y,z) € RB x = y = -2}  Q.10 D Donner les expressions de P, D et P-1 avec D est la matrice de $ dans la base B' et P est la matrice de passage de la base canonique Bà la base B' . Q.11 D Soit v lendomorphisme de R3 tel que @ + v = idR3 . Démontrer que + est le projecteur orthogonale sur Im(p) = Ker(@) On considère la fonction f R2 _+ R, définie par
+f(x,y) = (x+y -2)2+ (-x+y+1)2+ (2y+1)2
+Q.12 D Trouver C € M(s2) ( (R),W € M(z1) (R) et V € M(s,1) ( (R) tels que f(x,y) = llcw _ vIl?.
+Q.13 D Justifier que CW € Im(p) Q.14 D Trouver alors min f(x,y) (x,y)eR?
+Exercice II
+Soient 0 > 0 un paramètre inconnu et U une variable aléatoire suivant la loi uniforme sur [0,1]. Soit X une variable aléatoire définie par X = eu2 . Q.15 D Rappeler la fonction de répartition de U. Q.16 D Calculer la fonction de répartition Fx de X. Q.17 D Justifier que X admet une densité fx donnée par
+si x €]0,0] , 2vxe 0 si x 4]0,0].
+fx(x)
+Q.18 D Calculer Yespérance E(X) et la variance V(X) de X.
+Page 2 sur 4
 
+--- page 3 ---
+Q.19 D Soient X1 et X2 deux variables aléatoires indépendantes et de même loi que X. Déterminer la loi de la variable aléatoire Y max { X1, Xz}  Q.20 D On suppose que La durée dattente dans un cabinet de médecin (en minutes) suit la loi de X. Déterminer la probabilité que la durée dattente dune personne prise au hasard soit inférieure à minutes. On observe un échantillon X1, Xz, ' .  Xn de taille n, où Xi est une variable aléatoire dé- signant la durée dattente observée pour le ième individu: On suppose que les variables aléatoires X1, Xz, Xn sont indépendantes et de même loi que X. On définit une suite de variables aléatoires (Sn) 1)nz1 par Sn Xk.
+Q.21 D Calculer 1espérance E(Sn) et la variance V(Sn) de Sn. Q.22 > En utilisant le théorème de Bienaymé-Tchebychev, déduire la valeur minimale de n pour que P 13Sn n0| nvsv(x) 2 0,99. Q.23 Donner alors un intervalle de confiance au risque au plus 0,01 de 0.
+On suppose dans la suite que n 2 30 Q.24 D En utilisant le théorème central limite, trouver la valeur minimale de & pour que
+Sn P < & 2 0,99. "(Sn)
+On donne @(2,58) = 0,995.
+Q.25 D Déduire un intervalle de confiance de 0 au risque au plus 0,01 Q.26 D Comparer les deux intervalles trouvés pour la valeur minimale trouvée dans la ques- tion Q.22. Q.27 D Le directeur dun hôpital affirme que le temps d'attente dun patient pour être servi est moins de 30 minutes. À laide dun échantillon de 64 patients testés, on estime la durée dattente moyenne à 7 31 minutes, avec un écart-type 4 minutes. Peut-on affirmer; au risque 5%, que le directeur a tort? On donne @(1,64) 0,95.
+Exercice III
+Soient Xet Y deux variables aléatoires à valeurs dans N et soit p ejo,1[ On suppose que la loi conjointe de X et Y est donnée par
+fchP (4z2) sik < n, P(X =k,Y = n) = sinon.
+Q.28 D Déterminer lexpression de la loi marginale de Y. On rappelle que Ck 2n k=0
+Page 3 sur 4
 
+--- page 4 ---
++o
+Q.29 Sachant que pour tout x €] = 1,1p Eckxn-k = montrer que pour tout (1 -x)k+î' n=k k € N, 2p 2p P(X = k) = 1+p 1+p On considère une variable aléatoire Z suivant une loi exponentielle de paramètre ^ et T = [Z] la partie entière de Z
+Q.30 Donner lexpression de la fonction de répartition de Z. Q.31 D Montrer que pour tout k € N,
+P(T =k) = e-Àk(1 _ e-4)
+Q.32 D Pour quelle valeur de ^, la variable aléatoire T suit-elle la même loi que X?
+On considère la variable aléatoire U = Z - T. Q.33 D Déterminer ]ensemble U(0) des valeurs prises par U. Q.34 D En utilisant le système complet d'évènements (T = k)keN , montrer que
+1 _ e-Àx P(U < x) = 1 -eT
+Vx € [0,1[
+Q.35 D En déduire une densité de U pour la valeur de ^ trouvée dans la question Q.32. Une pompe à irrigation est utilisée dans un champ. Chaque jour; cette pompe a une pro- babilité égale à p de tomber en panne indépendamment des autres jours. Soit N la variable aléafoire égale au nombre de jours de fonctionnement de la pompe avant sa première panne Q.36 D Montrer que N suit une loi géométrique de paramètre p et que N = Y+1. Q.37 D Déterminer P(N k) pour tout k 2 0.
+Dans la suite on considère (N;)1sism une famille de variables aléatoires réelles discrètes indépendantes suivant la même loi que N avec Ni représente le nombre de jours de fonc- tionnement de la ième pompe. Soit V min Ni. I<i<m Q.38 Déterminer Yexpression de P(V > k) pour tout k 2 0. Q.39 En déduire la loi de V Q.40 D On suppose que p 0,01. Dans un champ, on utilise 3 pompes Pour lirrigation. Au bout de combien de jours en moyenne se produira la première panne ?
+Fin de lépreuve *
+Page 4 sur 4

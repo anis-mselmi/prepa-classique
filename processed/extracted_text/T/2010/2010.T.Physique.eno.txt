@@ -1,5 +1,82 @@
+--- page 1 ---
+1 L>ji 552/6321 "Ukglgls Eygap doiw Yibji &1,Bliji uumji jfjleji 2010 6'
+REPUBLAQUEMTUNISUENNEde Ja Ministcre de Enscignement Recherche Scientiliquc
+Concours Nationaux d'Entrée aux Cycles de Formation d'Ingénieurs Session 2010
+Concours Technologie Epreuve de Physique
+Date Jeudi 03 Juin 2010
+Heure 8 Hoo
+Durée : 4 H
+Nbre pages
+Barème
+Problème 1 : 15 pts
+Problème 2 5 pts
+L'usage d'une calculatrice non 'programmable   est autorisé Wsiitur L'épreuve est constituée de deux problèmes indépendants: CIBLOTHEQUe ) N [Tuds5 @ngrns) Formulaire L'espace est rapporté à un système daxes (Ox; Oy, Oz) auquel   est   associée   la   base orthonormée directe ( e x , ey ,ez) En   coordonnées   cylindriques (r,0,z),   Fopérateur rotationnel pour un champ vectoriel G =G, €+Go €+G, € z , est donné par (LâGz_ 4G2)e, + (2G âG2)e0+ ( L@(G22 1 {G,) rot G €1 . 80 âz ôz ôr âr ô0
+Problème 1 LES CONDENSATEURS
+Ce problème comprend trois parties indépendantes liées aux condensateurs . Dans la première partie on $'intéresse à ]étude des conducteurs à léquilibre électrostatique ainsi qu'à /'énergie manquante dans un circuit comportant deux condensateurs. En tenant compte des résistances électriques des fils; on peut retrouver cette énergie Dans la deuxième partie, on aborde Fétude dun condensateur   en régime  variable.  Enfin; on   analyse le fonctionnement  d'un montage à deux amplificateurs opérationnels et on montrera que lensemble, inséré dans un circuit; se comporte comme un dipôle équivalent à un condensateur. Dans tout ce problème; on notera  E(M) _ V(M); P(M) et o(M) respectivement le champ électrique; le potentiel électrique et les densités totales; volumique et surfacique; de charges électriques en tout point M de lespace.
+Concours Technologie Session Juin 2010
+Epreuve de Physique
+Page 1/6
 
+--- page 2 ---
+Données numériques
+Permittivité électrique du vide
+€0
+Fm"' 36t105 Ho = 4T 10-7 H.m"'
+Perméabilité magnétique du vide
+PARTIE 1 Condensateurs en régimes statique et variable
+I.1.a. Enoncer le théorème de Gauss sous ses formes intégrale et locale. LL.b. Définir Féquilibre électrostatique d'un conducteur. LL.c. Que vaul le   champ électrostatique Fintérieur dun conducteur cn équilibre électrostatique Que   peut-on dire   du   potentiel   électrostatique à Vintérieur dun   conducteur en équilibre électrostatique Décrire  la distribution des charges électriques   dans ce conducteur. Justifier   clairement   la réponse . I.I.d. En utilisant le théorème de Coulomb; donner Fexpression du champ extérieur   Eex au voisinage immédiat de la surface externe d'un conducteur en équilibre électrostatique
+1.2. On considère un conducteur  métallique creux (A) en équilibre électrostatique; de   surface  extérieure   (Sext); dans   lequel une cavité vide; de surface (Sc), ne contenant pas de charges (Figure 1) . 1.2.a. Montrer que le potentiel électrostatique à Fintérieur de la cavité ne peut être que constant 1.2.b. En déduire la densité surfacique de charges sur (Sc) .
+Scv
+Sc
+1.3. On place à Fintérieur de la cavité du conducteur (A) un conducteur (B). lié au potentiel Vp>0 et porte sur sa surface extérieure Figure la charge Qn (Figure 2) Le conducteur (A) est lié au potentiel VA < VB et porle sur sa surface intéricure la charge QAi et sur sa Qxc surface extérieure la charge QAe  Les deux conducteurs (A) et (B) sont en équilibre électrostatique. QAi 1.3.a. Etablir la relation entre les charges Qu et QAi Qu 1.3b. Définir la charge Q du condensateur constitué par les deux conducteurs (A) et (B) En déduire sa capacité € en fonction de Q et des potentiels V^ et VB. Figure 2 1.4. Dans la suite, on supposera que le condensateur décrit dans la question   précédente une géométrie  sphérique. Il est   ainsi   constitué   de deux armatures sphériques concentriques de rayons interne Rp et externe Rz (Figure 3). L'armature interne porte une charge Q1 1.4.a. Déterminer le champ électrostatique entre les armatures E 1.4.b En déduire la capacité Cs du condensateur sphérique en fonction vide de Rv Rz et €o. 1.4.c Examiner le cas où Rz = Rp + e avec e < RI 1.4.d Déduire ]expression de la capacité Cp d'un condensateur plan; supposé idéal, en fonction de Fécartement des armatures parallèles e, €0 et Faire $ des armatures en  regard. Figurc 3 Concours Technologic Session Juin 2010 Epreuve de Physiquc Pape 2/6
 
+--- page 3 ---
+1.5. Rappeler ]'expression de 1'énergie électrostatique W emmagasinée dans un condensateur chargé , en fonction de sa charge Q et de sa capacité C. 1.6.Un condensateur de capacité C, est chargé sous une différence de potentiel U1, puis il est isolé 1.6.a. Quelle est Fexpression de ]énergie électrique W; emmagasinée dans ce condensateur 1.6.b. Le condensateur de capacité   C est   relié par ses deux bornes, un deuxième condensateur de capacité C2 initialement non chargé. Quelle est la tension Ur déquilibre aux bornes du condensateur de capacité C1? Quelle est /énergie Wf emmagasinée maintenant dans le circuit ? Exprimer Wr-W; en fonction de C1; C2 et Ujo En tenant compte de la valeur non nulle de la résistance du circuit; cette perte dénergie peut être expliquée dans la question 1-7. 1.,7. Considérons Je circuit ouvert, comprenant; en série; une résistance R et deux condensateurs de capacités respectives C, et C2. Le premier condensateur porte une charge q10. Le second n'est pas chargé 1.7.a. Quelle est l'expression de lénergie électrique   W' emmagasinée dans ce circuit ? 1.7.b. On ferme le circuit Quelle est   l'équation différentielle vérifiée par   la charge 91(t)   pendant la   décharge du condensateur de capacité C? 1.7.c. En déduire Fexpression du courant i(t) circulant dans le circuit puis celle de lénergie WR dissipée dans la résistance. Cette énergie dépend-elle de R ? 1.7.d. Donner la constante de temps du circuit 1.8. L'approximation des régimes quasi-stationnaires est-elle valide pour la question 1-6 ?
+PARTIE 2 Champ électromagnétique dans un condensateur plan Un condensateur plan est constitué de deux armatures métalliques   circulaires de rayon R et de même axe (z' Z), séparées d'une hauteur h (Figure 4) Ce   condensateur est soumis à une tension sinusoïdale U= Uo cos(ot), qui produit à Tinstant dans l'espace vide entre les armatures   un champ électrique   E(t) _ On admet que les variations dans le temps sont suffisamment lentes pour que le champ électrique reste uniforme et donné par Figure 4 E(t) Eo cos(ot) e z où Eo est une constante
+On repère un point de   lespace par ses coordonnées   cylindriques (r,O,z) On notera (er.ef,ez) la base correspondante . 2.1. On   admet   que les variations dans   le temps du champ électrique   créent un champ magnétique B(r, t) de la forme B(M,t) = B(r,t) ee . Déterminer ce champ magnétique en un point M entre les armatures_ 2.2.à. Calculer les densités   volumiques   instantanées des   énergies électrique u, (t) et magnétique Um (t) . emmagasinées dans le condensateur. 2.2.b. On note (u, (t)) et (ur les moyennes temporelles correspondantes à uc et um @r On pose X = (où c est la célérité de la lumière dans le vide) 2c
+Concours Technologie Session Juin 2010
+Epreuvc de Physique
+Page 3/6
 
+--- page 4 ---
+(u Exprimer en fonction de X le rapport (uc Comparer (u, (t)) et (um (t)) dans le cas où R = 10-2 m et () 100 r rad.s'- Commenter le résultat
+2.3.a Déterminer l'expression du vecteur de Poynting en un point M entre les armatures . 2.3.b. En déduire le flux $ du vecteur à travers la surface cylindrique fermée ayant pour bases les armatures du condensateur 2.3.c. Exprimer @ en fonction de la capacité du condensateur C et la tension U. Interpréter le résultat. 2.4. Dans le cas où la pulsation est telle que lapproximation du régime quasi-stationnaire (ARQS) n'est plus valable; que peut-on dire des expressions de E et B calculées dans cette partie ?
+PARTIE 3 Dipôle équivalent à un condensateur On considère le montage schématisé sur la figure 5 comportant deux amplificateurs opérationnels idéaux; deux résistors de résistances Rp et Rz et un condensateur de capacité Co. Ce circuit, soumis à une tension d'entrée Ve; se comporte comme un dipôle placé entre les bornes A et M et parcouru par un courant dintensité i. 3.1. Justifier   le   fonctionnement linéaire des deux   amplificateurs   opérationnels   dans ce montage 3.2. Exprimer la relation entre   le courant et la   charge 9 de Parmature   gauche du condensateur de capacité Co. 3.3. Exprimer Vs1 en fonction de Ve  Préciser à quoi sert le premier amplificateur opérationnel. 3.4.a. Quel est le potentiel du point E ? 3.4.b. En déduire le courant i1 traversant la résistance Rp. 3.5.a. Exprimer Vs2 en fonction de ve et des résistances Rp et Rz. 3.5.b. Exprimer Vs2 en fonction de Vc 9 et Co. 3.5.c. Justifier que le montage se comporte comme un condensateur de   capacité R, + Rz C =Co R,
+E
+Rz
+Rp VsI
+M
+Figure 5
+Concours Technologie Session Juin 2010
+Epreuve de Physique
+Page 4/6
 
+--- page 5 ---
+Problème 2 BILANS THERMIQUES POUR LE FILAMENT D'UNE LAMPE A INCANDESCENCE
+La caractéristique courant-tension dune lampe électrique à incandescence dépend étroitement des phénomènes thermiques se produisant au niveau du filament. Ce filament est constitué de tungstène pur et modélisé par un cylindre  droit, daxe (Ox), de rayon r = 0,03 mm et de longueur L =4cm On note sa masse   volumique, sa conductivité thermique et sa capacité thermique massique.
+1. Conduction thermique dans le filament
+Dans un premier temps, on considère uniquement les transferts thermiques par conduction dans le filament et on ne tient pas compte des pertes thermiques sur les parois latérales La longueur est suffisamment grande pour que Yon adopte une modélisation unidimensionnelle des transferts thermiques (Figure 6). On note T(x,t) la température le long du filament à l'instant t et j le vecteur densité du flux thermique donné par la loi de Fourier
+j =-1 grad IT(x,t) .
+To
+X = 0
+X =L
+Figure 6
+1.1. Déterminer lunité de 2 1.2. Effectuer un bilan d'éncrgie sur un système élémentaire  situé entre les abscisses X et ôj @T X + dx du filament et en déduire une relation entre et
+1.3. Montrer que la température satisfait léquation différentielle ~T =D d?I dx Déterminer l'expression de D et son unité 1.4. On se place en régime permanent. L'extrémité du filament en x = 0 est maintenue à une température constante Iv Lautre extrémité en X =L est   maintenue une  température constante To (Figure 6) 1.4.a. Déterminer [expression de T(x) 1.4.b. Donner, en fonction de ^ L S, Tv et To, Pexpression du flux thermique à travers une section droite du filament de surface $ et de vecteur normale e x
+2. Transferts thermiques par Conduction et par rayonnement Dans la suite, on néglige toujours les échanges thermiques par convection mais on   tient compte des transferts par rayonnement   sur les parois latérales;, en plus du phénomène de conduction thermique le long du filament.
+Concours Technologic Session Juin 2010
+Epreuve dc Physique
+Pagc 5/6
 
+--- page 6 ---
+On se place en régime permanent et on suppose que la température est uniforme sur une section droite du filament le filament rayonne comme un corps noir en équilibre thermique 2.1. Rappeler la loi de Stefan pour un corps noir en précisant la définition et l'unité de chacun des termes utilisés 2.2. Lorsque le filament est parcouru par un courant électrique dintensité I, la puissance thermique reçue par une portion de longueur dx, autre que celui par conduction thermique; est donnée par P [? dx Définir p et donner son unité - 2.3. On suppose que le filament est maintenu toujours à son extrémité X = 0 à la température Tv 420 K alors que pour x suffisamment grand, la température du filament atteint la température déquilibre To 2600 K (Figure 7). Le filament est parcouru par un courant électrique d'intensité 1.
+T=Tn
+Tv
+X = 0
+Xtdx Figure 7
+X = L
+2.3.a. En effectuant un bilan énergétique pour une portion du filament comprise entre X et X + dx , établir l'équation différentielle vérifiée par T(x): 2.3.b. Que devient cette équation au voisinage de [extrémité x = L 2.3.c. Mettre l'équation différentielle sous la forme d?T (T' Is2 =0 où 6 est homogène à une distance. dx ? s2T3 Donner /'expression de & en fonction de To; r, ^ et la constante de Stefan $. 2.4. Une expression approchée de la pente en x = 0 est donnée_par ôT To 2v2 avec Y = dx X=0 8 15 On note Pc la puissance thermique cédée par le filament en x = 0 et Pr la puissance rayonnée par tout le filament supposé à la température To. P Exprimer le rapport en fonction de Y, & , et L P
+Fin_deLépreuve
+Concours Tcchnologie Session Juin 2010
+Epreuve de Physique
+Page 6/6

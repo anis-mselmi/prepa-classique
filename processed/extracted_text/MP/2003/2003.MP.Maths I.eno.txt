@@ -1,4 +1,40 @@
+--- page 1 ---
+RÉPUBLIQUE TUNISIENNE Ministère de l'Enseignement Supérieur; de la Recherche Scientifique et de la Technologie
+Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs Session Juin 2003 Concours en Mathématiques et Physique Epreuve en Mathématiques [
+Durée 4 heures Date 6 Juin2cc3 Heure 8H Nb pages : 5 Barème Exercice 3,5 Problème 9 7,5
+Lusage des calculatrices est strictement interdit. Une grande importance sera attachée à la rigueur du raisonnement, à la clarté de la rédaction et au soin de la présentation .  Il est rappelé que tout résultat énoncé dans le sujet peut être utilisé pour traiter la suite; même sil n 20 pu être démontré.
+Exercice
 
+1) Soit g la fonction 2r-périodique définie par
+T I2 g(r) 1= I ' pour I € [0, 2r [  2 4
+a) Déterminer la série de Fourier de g b) En déduire que pour tout I € [0,r], on a:
+sin? nI n? n=l
+I (T ~ I) 2
+1 /s
+Msiwt PReP; Zmc: 'Cwngekieuss " "SFax
 
+--- page 2 ---
+sin? nz T 2) Montrer que pour tout I > 0, n21 2 n=l 3) Soit (an )nz1 une suite de nombres complexes qui converge vers zéro. On pose pour n 2 1,
+sin? nI àn n?r 0,
+Un(I) =
+si I # 0 si I = 0
+a) Montrer que pour p < 9 et I 2 0, on a T Jun (z)| < sup |œn| 2 n=p n2p b) En déduire que la série Un (r) est convergente et que sa somme est n2l une fonction continue sur R.
+Problème
+On désigne par E lespace vectoriel constitué des fonctions f réelles continues et bornées sur [0, +œ [ et telles que, pour tout I > 0 lintégrale r+0 tf(t) dt soit convergente. 0 2? +t2
+Partie I
+1) On considère les deux fonctions + et " définies sur [0, +o[ par: 1 t si 0 <t<e, 4(t) = et  U(t) 1 1+t2 si t > e. Logt +0 t,(t) a) Montrer que { € E et calculer dt pour I > 0. 0 22 +t2 b) Montrer que v # E   2) Montrer que les fonctions e~t sint et cost sont dans E 3) Soit f une fonction réelle continue sur [0, +o[ telle que lim f(t) =l; leR t=+o
+2 1 s
 
+--- page 3 ---
+a) Montrer que f est bornée sur [0, +o [ b) Montrer que si / = 0 , alors f # E. c) Que peut-on dire si l = 0 ?
++o tf (t) Dans la suite pour f € E et z > 0, on pose Tf(z) = J dt 0 22 +t2 4) On suppose que f est positive sur [0, +cc[: a) Montrer que la fonction Tf est décroissante sur ]0, +a [. +0 f (t) b) Montrer que lim Tf(z) = 1 dt < +c I=0+ c) Montrer que lim Tf(z) =0. 5 0 10 f(t) 5) Soit f € E On suppose que dt converge et qu'il existe deux constantes c > 0 et a > 0 telles que pour tout t 2 0 ; |f(t)| < c t a) Montrer que pour tout I > 0 +c tf(t) 100 +0 f(t)dt = f(rz) dt = dr. 12 +t2 0 r(1+72) +0 f(t)dt. b) En déduire que lim Tf(z) =f I-+0+ 0 t 6) a) Montrer que Vz > 0 et Vt > 0 ; t 1 82 t 6t ) < et *z?)/ < Ôz 22 4t2 22 +t2 ôx?2 22 (x2 +t2)2 b) En déduire que pour toute fonction f € E, la fonction Tf est de classe C2 sur ], +œ[ et on a pour tout I > 0 +0 tf(t) +0 t(322 ~ t2) (Tf)(z) 1= ~2I dt et (Tf)"(r) =2 f(t)dt. 0 (22 + t2)2 (x2 +t2)3 c) Soient f € Eet M = sup |f (t)| M Montrer que Vz > 0 , I(Tf)(z)l < t20 I 3M et I(Tf)"(z)| < I2 a) Montrer que V(z,t) # (0,0) ; 02 t 02 t (~ Ô22 22 4 t2) + Ôt2 12 +t2) = 0.
+3 / w
 
+--- page 4 ---
+Soit f € E telle que f soit de classe C2 sur [0, +oo[ et lim f(t) = 0. t  +0 t b) En intégrant par parties, montrer que pour tout 2 > 0
++o 02 t +0 f0) + t 1 4t)f(t)dt 1 @t2 12 f f"(t)dt. 22 22 +t2  En déduire que Vz > 0 ;  +0  f(o) t (Tf)(z) = -J f"(t)dt. 12 0 2 +t2  Partie II 1o9 sint T 1) On rappelle que dt = 2 +0 Soit f (t) = sint On pose pour I > 0 , v(r) = T(f)(z) = f tsint dt. 2? +t2 40 22 ~t2 a) Montrer que v(z) = cost dt , Vz > 0. (x2 + t2)2 b) En déduire que lim "(r) =0. 1-+0 T c) Montrer que lim v(z) = I=+0+ 2 d) Montrer que Vz > 0, v(z) - v(s) = 0 (utiliser I-7,c) T e) En déduire que Vz > 0, v(z) = e-z 2  +0 t 2) On pose pour I > 0 , w(z) = [ ~tdt  e 0 22 + t2 a) Montrer que lim w(z) = 0.  1=+0 b) Montrer que pour tout z > 0, w"(I) + w(z) = 1 22 +0 c) En déduire que pour tout I > 0 w(z) = 1 + f w(t)dt. I d) Montrer que w est lunique fonction sur ]0, +o[ vérifant: 1 w" (x) + w(z) = 22 lim w(z) = 0. I=+00
+4 / 5
+
+--- page 5 ---
++o[ que 3) VI > 0, a) Montrer 0 < w(z) 6) que 5 1 Montrer I lim 22 et que +00 I2w(z)= pour =l. tout I> 0, w(z) c) En 4 ~LogI_ déduire 7 1 '+00 i) lim w(z) que: 2 e ( 0x Logz  Log(r? ii) ~1 +t Pour tout d) I > 0, w' Montrer '(z) =7 1 2 que W 1 '+00 considère est C e-rz la intégrable 1 +0 fonction sur 1 r2 dr: COS h Jo t définie +o[ dt. et I +t SUI jo calculer +oc trer que +o[ h(z) par: W( luire ~ COS I +00 que h cOS est u r) = 1 de classe Z du 4 22 C2 sin I +oc sUr Jo sia u h(z) '+00 +o[ et 2 du. 4 qu sin t Felle e vérifie pour tout (r + {)zdt I> 0 , VI > 0. h(z) 7 w(z)
+5 / 5

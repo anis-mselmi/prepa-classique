@@ -1,5 +1,107 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de 1Enseignement Supérieur. de la Recherche Scientifique et de la Te-hnologie Concours nationaux d'entrée Jur cycles de formalion d'ingénicurs Scssion 2007
+~sjijxuji Blfsszps Hsybulal Jzhievbli M4idj fi 2007;"
+Concours en Physique et Chimie Epreuve de Physique
+Date Jeudi 07 Juin 2007
+Heure 8 H 00
+Durée 4 H
+Nbre pages 06
+Barème
+Exercice
+05 pts
+Problème 15 pts
+L'usage d 'une calculatrice non programmabie est autorisé
+'épreuve est constituée dun exercice et dun problème  indépendants
+Un candidat peut toujours se servir &un résultat fourni par l'énoncé pour continuer sa composition
+Donnée Dans le système de coordonnées cylindriques; F'opérateur divergence $'écrit Wstitut PmSoiRs div~ = Zâ(rA2 9(A ) ô(Az CBUOTHEQUB cr c0 4 SY< EUDeS Dikggueur  Exercice Viscosimètre à écoulement On considère un capillaire horizontal constitué dun cylindre de rayon R; de longueur L tel que R < L. rempli d'un liquide incompressible de masse volumique P; de viscosité dynamique n et soumis au champ de pesanteur & supposé uniforme: La température est uniforme On s'intéresse à une portion de liquide contenue dans un cylindre (C) de rayon r(r < R ) . compris entre les plans (TI,) et (TIz) distants de L (Figure 1). On notera P. et Pz les pressions au niveau des plans (TIp) et (TIz) respectivement.
+R
+Figure 1
+Capillaire
+(Iz)
+1 - Le fluide est au repos 1-1- Déterminer les forces de pression Fet F qui s' exercent sur les deux sections de ainsi que le poids du fluide qu'il contient. 1-2- En déduire la résultante des forces de pression   Fiat qui s exercent sur la surface latérale de (C) Dans la suite. le liquide s' écoule de façon permanente longitudinalement dans le capillaire depuis (T,) vers (TIz) 
+Concours en Physique et Chumie Session Juin 2007
+Epreuve de Physique
+Page 1/6
 
+--- page 2 ---
+En utilisant le système de coordonnées cvlindriques (r, 0. z) de base (u,,1 6.4z ) . le champ des vitesses $ ecrit sous la forme V(M) = v(r.Z)uz On rappelle que sur la surface latérale S du cylindre (C) s'exerce une force de viscosité ôv(r.z) parallèle à Oz F ~ns 4 êr 2 - Faire le bilan des forces exercées sur cette portion cylindrique du liquide. 3-1- Montrer que le champ des vitesses s écrit sous la forme v(M) = v(r)uz  dv 3-2 - En déduire une équation de la forme =kr où k est une constante qu on exprimera en dr fonction de L. Pu. Pz P et n 3-3- Déterminer   Fexpression de v(r) en précisant la constante dintégration. Faire une représentation du proril de v(r) 4- Déterminer le débit volumique élémentaire dQ. du liquide s'écoulant à travers une couronne de la section du cylindre de rayon compris entre r et r dr. 5-En déduire que le débit volumique à travers le capillaire s' écrit IR' P -P 0 8n Indiquer le nom de la loi obtenue 6- On considère maintenant un viscosimètre constitué du capillaire étudié précédemment communiquant avec un réservoir, de section droite circulaire et de rayon R' (Figure 2) L'ensemble est rempli du liquide dont les caractéristiques sont indiquées précédemment. Les sections (2) et (3) sont en contact avec [air atmosphérique. Préciser la différence de pression P; Ps caractérisant le viscosimètre ci-dessous en fonction des données indiquées sur la figure 2 On supposera que R' >> R de sorte que le liquide dans le réservoir puisse être considéré en équilibre hydrostatique. 2R (3)
+Réservoir
+h(t)
+Figure 2
+2R
+dh (t) Exprimer le débit volumique Q en fonction de R' et où h(t) est la hauteur du fluide dt dans le réservoir à Finstant t. 8- En déduire l'équation différentielle vérifiée par h(t). En notant h(t = 0) = h, déduire   h(t). On fera   apparaître une grandeur caractéristique de lécoulement dont on donnera [expression. Donner son équation aux dimensions. 9- Sachant qu'il 1 fallu minutes pour que le niveau du fluide dans le réservoir baisse de 5 cm, déterminer la viscosité cinématique v du liquide. définie par
+On donne 9 9.81 ms:
+2R = mm
+L =10 cm
+IR' =4 cm
+ho 10 cm
+Concours en Phvsiquc ct Chimic Session Juin 2007
+Eprcuve de Physique
+Page 2/ 6
 
+--- page 3 ---
+Problème Monochromateur à réseau
+Dans ce problème on étudie le   phénomène de diffraction qui présente de  nombreuses applications Il affecte aussi tous les instruments optiques et réduit leurs capacités. Comme exemple nous avons choisi d étudier le principe du monochromateur à réseau.
+Un monochromateur est un dispositif utilise pour sélectionner une gamme la plus etroite possible de longueur d'onde à partir dun faisceau lumineux de gamme de longueurs d'onde plus large Un tel dispositif a beaucoup d intérêt en sciences, car de nombreux phénomènes dépendent de la   longueur d onde de la lumière_ Les spectromètres   utilisés pour des dosages ou de Fanalyse structurale constituent un exemple d appareils basés sur les monochromateurs.
+Pour séparer les différentes longueurs d' onde dun faisceau lumineux; on utilise dans un monochromateur soit la dispersion par un prisme, soit la diffraction par un réseau. Un monochromateur comprend généralement un système mécanique permettant de diriger le faisceau de longueur d onde choisie vers une fente de sortie.
+Préliminaire
+On considère une pupille diffractante (D). contenue dans le plan Oxy . constituée d'une fente F centrée sur ]axe Oz. de largeur suivant Ox: de longueur L >> a et de fonction de transparence t(x) (Figure 3)
+Cette pupille est éclairée par une onde monochromatique de longueur d onde ^ provenant d'une fente source très fine F, parallèle à F et placée au foyer principal objet d'une lentille convergente (L1) de distance focale image f,
+On se propose d' étudier la figure de diffraction de Fraunhofer donnée par cette pupille Sur Un écran qui se trouve au plan focal image d'une lentille convergente (Lz) de distance focale image f_ X
+M (X)
+P(x)
+(L1)
+Ecran
+Figure 3
+1 - Enoncer le principe de Huygens Fresnel. 2- En quoi consiste approximation de Fraunhofer 3- Les lentilles (L1) et (Lz) sont utilisées dans les conditions de ]approximation de Gauss Rappeler ces conditions
+Concours en Physique €t Chimie Session Juin 2007
+Epreuve de Physique
+Page 5 /6
 
+--- page 4 ---
+Partie I : Fente parfaitement transparente Dans cette partie. la fonction de transparence t(x) est donnée par t(x) =1 pour Ix) < 2 t(x) =0 ailleurs Tracer, jusqu 'au point M de ]écran; la marche des rayons diffractés en et en P dans la direction 0. repérée par le vecteur unitaire u (sin 0,0,cos 0) 5- Déterminer  la différence de phase o(M) entre les deux vibrations   associées à ces deux rayons. 6- 6-1- Etablir ]'expression de Famplitude complexe Ao(0) de la vibration lumineuse diffractée par la fente dans la direction 0 6-2 - En déduire ['expression de | intensité lumineuse I(X) diffractée au point M de Fécran
+7-1- Représenter I(X). On précisera les positions des minima et des maxima secondaires_ 7-2 - En déduire la largeur à la base de la tache centrale de diffraction. 7-3- Déterminer   approximativement le   rapport entre Fintensité du   premier maximum secondaire et celle du maximum principal . Commenter. 8 - On translate; dans son plan; la fente diffractante F d'une distance b suivant ]axe Ox. 8-1- Etablir ]'expression de lamplitude complexe A((0) de la vibration lumineuse diffractée dans la direction 0. 8-2- En déduire la relation entre 4i(0) et Ao(0) 8-3- Décrire et justifier ce qu 'on observe sur F'écran.
+Partie II Fente de transparence sinusoïdale
+La fonction de transparence t(x) de la fente est donnée par
+Zzx 1 +cos
+pour Ix| < a
+t(x)
+avec & <<a
+t(x) =0
+ailleurs
+9- Etablir ['expression de ['amplitude complexe A(0) diffractée dans la direction 0. 10- Représenter F'amplitude A(X) diffractée au point M de l'écran. Commenter . 11 - 11-1- Déterminer | intensité lumineuse I(X) diffractée au point M de ]écran. 11-2- Représenter I(X). Commenter . 12- En pratique; comment peut on obtenir une telle fonction de transparence t(x)
+Partie III Réseau plan de N fentes
+La pupille diffractante est remplacée par un réseau plan constitué de N fentes identiques parallèles. parfaitement transparentes; de même largeur a et distantes entre elles de d.
+13- Exprimer   la différence de phase   @(M) entre les deux  vibrations   associées aux rayons lumineux provenant des centres de deux fentes consécutives en fonction de d. X, ^ et 6;; 14- 14-1- Montrer que ['intensité lumineuse diffractée par le réseau en un point M de Técran est donnée par
+Concours en Physique et Chimie Scssion Juin 2007
+Epreuve de Physique
+Page +/6
 
+--- page 5 ---
+No sin IR (M) = IF(X) sin
+14-2- Que représente IF(X) 15- 15-1- Quelles sont les valeurs de 0 et de X correspondant aux maxima principaux de IR(M) ? 15-2 - Pour quelles valeurs de 0 et de X F intensité IR(M) s annule elle d 16- Représenter ] allure de IR(M) dans le cas où 8
+17- En déduire la demi - largeur à la base des pics correspondant aux maxima principaux 18- Déterminer. pour un   ordre donné la   distance sur ]écran entre   les centres des   pics principaux relatifs aux radiations de longueurs d onde ^ et ^ + An (Aà << 7) 19- 19-1- En utilisant le critère de Rayleigh. déterminer la limite de résolution (Aû.)r imposée par le réseau.
+19-2- En déduire le pouvoir de résolution du réseau défini par 9
+20-En pratique le pouvoir de résolution est influencé par la largeur s de la fente source. 20-1- Déterminer. pour une incidence quelconque; la formule fondamentale du réseau 20-2 - Exprimer la largeur s ` de l'image de F, sur ]'écran en fonction de f, fz et s. 20-3- Déterminer pour un ordre p donné. la distance séparant les centres des images de Fi relatives aux radiations de longueur d'onde ^ et ^ A2 . 20-4- En déduire que la 'imite de résolution (Ai.)s imposée par la largeur de la fente source s d s ecrit (42) p f; 20-5- Donner alors [expression du pouvoir de résolution %, du montage 21 - 21-1- Calculer à Tordre les pouvoirs de résolution R et   Rs dans le cas dun réseau comportant 500 traits par millimètre gravés sur une largeur de 2 cm éclairé par une fente de largeur $ 0.1 mm émettant une radiation de longueur d'onde ; = 589 nm On prendra f, fz=50 cm Commenter le resultat. 21-2- Dans ce cas les deux radiations d' une lampe à vapeur de Sodium de longueurs d'onde respectives ^ = 589 nm et ^ 589,6 nm sont elles séparées Justifier . 22-Le réseau précédent est éclairé en incidence normale avec une source lumineuse émettant dans   le visible un spectre avant des radiations  de   longueurs donde comprises dans Fintervalle 21 = 400 nm et ^2 660 nm. En utilisant le résultat de la question 20-1. déterminer ] intervalle angulaire dans lequel on observe le spectre d'ordre 23- Est-ce qu il y a recouvrement entre les spectres d ordres | et 2 pour cette source ? Justifier.
+Partie IV Réalisation dun monochromateur à réseau
+On modifie le montage de la figure 3 pour obtenir celui de la figure 4 Le miroir plan orthogonal au plan de la figure est mobile autour de laxe (4) La fente source F;. placée au plan focal objet de (Li). est supposée infiniment fine
+Concours en Physique et Chimie - Session Juin 2007
+Epreuve de Physique
+Page 5/ 6
 
+--- page 6 ---
+X
+(Li)
+Fz
+Réseau
+Miroir
+(Lz)
+Figure 4
+Le réseau comporte n 1000 traits par millimètre gravés sur une largeur de 2 cm. Il est éclairé par une lumière de radiations comprises dans ['intervalle ^1 = 400 nm et 12 = 660 nm La fente de sortie Fz symétrique par rapport à Oz, est placée au plan focal image de (Lz) de distance focale fz 10 cm. Les angles a,i et 0 sont comptés positivement dans le sens des orientations choisies 24- Calculer le pas d de ce réseau. 25- Tracer la marche dun faisceau lumineux sortant de (L1) 26- Dans sa position   initiale; le miroir   plan est réglé de sorte que le spectre dordre correspondant à la radiation de longueur d'onde 10 500 nm se forme au centre de Fz 26-1- Quelle valeur io doit-on donner à langle d'incidence du faisceau incident sur le réseau ? 26-2 - Quelle est la valeur ao de [angle a correspondant à io 27- On s' intéresse toujours au spectre d'ordre ] 27-1- Entre quelles limites doit-on faire varier a pour pouvoir sélectionner au centre de Fz le spectre $' étendant de 11 à 12 27-2 - De   quel angle faut-il faire tourner le miroir depuis sa position   initiale pour sélectionner les valeurs extrêmes ^1 et 42 du spectre ?
+Dans toute la suite, le miroir se trouve dans sa position initiale (a Qo)
+28-Pour des longueurs d'onde ^ voisines mais différentes de ^0, indiquer le lieu de formation du spectre d'ordre 1 correspondant. Illustrer par un schéma: 29-Soit X ]abscisse du point de convergence de la radiation de longueur d'onde 2, diffractée par le réseau dans [ordre 1 Donner une expression approchée de X en fonction de 10 - ^, fz et d. 30-La fente F: présente une largeur h 0,1 mm elle   laisse passer réellement le domaine 421 441 spectral 1o 10
+30-1- Déterminer 411. 30-2 - Déterminer [intervalle (An)r correspondant au pouvoir de résolution du réseau dans Tordre 1 30-3- Comparer 441 et (A4)r. Conclure sur la limite de résolution du monochromateur
+gi & { '@puàe
+Concours en Physique et Chimie Session Juin 2007
+Epreuve de Physique
+Page 6/6

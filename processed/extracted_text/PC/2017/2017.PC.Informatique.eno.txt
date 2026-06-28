@@ -1,4 +1,57 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministere de FEnseignement Supérieur , de la Recherche Scientifique
+4usul LSaa+l slalzll Êvslls allell asleïll 8,l)> Jsin Liesi 2UELiJI jniikJl Wgsulji 2017 6,93'
+Concours Nationaux d'Entrée aux Cycles de Formation d'Ingénieurs Session 2017
+Concours Mathématiques et Physique, Physique et Chimie et Technologie
+Epreuve dInformatique
+Date Vendredi 26 Mai 2017 Heure 14 H
+Durée 2 H
+Nombre de pages
+Barème
+EXERCICE 1 EXERCICE 2 EXERCICE 3
+points points points
+DOCUMENTS NON AUTORISES
+L'USAGE DES CALCULATRICES EST INTERDIT
+EXERCICE 1
+L'objectif de cet exercice est la manipulation des polynômes creux à une seule variable. Un polynôme creux est un polynôme dont certains coefficients sont nuls. Un polynôme est construit à partir de monômes Un monôme est une expression de la forme ax' où a(a #0) est le coefficient du monôme et n(n20) son degré Un monôme est représenté par un dictionnaire à un élément dont la clé est le degré n et la valeur est le coefficient a. Exemple Le monôme 8x* est représenté par le dictionnaire {2:8 Un polynôme creux est alors défini comme une association de monômes de degrés différents Exemple Le polynôme ~x +8x? _Sx est représenté par le dictionnaire 2 :8 1:-5  4:-1} Le dictionnaire {0:1 _ 5:1 , 8:1} représente le polynôme x +X +] . On se propose de construire la classe PolynomeCreux à coefficients réels dont le squelette compléter) est défini par
+Concours ( Mathématiques et Physiquc, Physiquc et Chimie et Technologie) - Session Mai 2017
+Epreuve d'Informatique Page 1/5
 
+--- page 2 ---
+class PolynomeCreux Manipulation des polynômes creux à une seule variable def init (self) self.data={} #initialisation à un polynôme nul def ajout_monome(self,monome={}) Cette méthode ajoute un monôme saisi au clavier si le paramètre monome est nul ou ajoute le monôme nommé monome sinon " " /1 if   len(monome) 0 #Réponse à la Question 1
+else #Si monome est non vide degre=list(monome keys())[0] #extraction du degré coeff-list(monome values())[0] #extraction du coefficient try assert degre >= 0 assert type(degre) int assert type(coeff) = int or type(coeff) ==float assert len(monome) = ] self. data.update(monome) #ou self.data[degre]=coeff except print (" Erreur d'ajout du monome") def degree(self) #Réponse à la Question 2 
+def
+call _(self,x0) #Réponse à la Question 3
+  1 .
+def add (self,other) #other est un polynôme creux #Réponse à la Question 4
+def mul (self,other) #other est un polynôme creux #Réponse à la Question 5
+def
+str (self) #Réponse à la Question 6
+def primitive(self) #Réponse à la Question Z
+Concours (Mathématiques et Physique, Physique et Chimie et Technologie) - Session Mai 2017
+Epreuve d'Informatique Page 2/5
 
+--- page 3 ---
+Travail demandé
+Question 1 Compléter le script de la méthode ajout_monome On rappelle que cette méthode ajoute un monôme saisi au clavier (en faisant les contrôles nécessaires) si le paramètre monome est nul ou ajoute le monôme nommé monome sinon. Question 2 Ecrire le script de la méthode, nommée degree; qui retourne le degré du polynôme: Question 3 Ecrire le script de la méthode, nommée call qui retourne la valeur du polynôme pour un réel x0 donné Question 4 Ecrire le script de la méthode; nommée add qui retourne le polynôme somme de deux polynômes. Remarque aucun monôme nul ne doit apparaître dans le polynôme résultat . Question 5 Ecrire le script de la méthode; nommée mul qui retourne le polynôme produit de deux polynômes. Remarque aucun monôme nul ne doit apparaître dans le polynôme résultat . Question 6 Ecrire le   script   de la   méthode, nommée str qui retourne la chaîne   représentant Fexpression du polynôme ordonné par ordre décroissant. Pour le polynôme représenté par { 4:4 0:4 ,12:6,9:1,7 : -1} la chaîne retournée est 6*x**12 X**9 x**7 + 4*x**4 + 4 Question Z Ecrire le script de la méthode; nommée primitive; qui retourne le polynôme représentant la [primitive. On suppose que la constante d'intégration est nulle. Question 8
+On définit, Pintégrale dun polynôme creux P en x entre les bornes a et b, par s = [ Pdx Ecrire le script de la fonction; nommée integrale; permettant de retourner la valeur de $ à partir dun polynôme P; de type PolynomeCreux; et des bornes dintégration a et b réels.
+EXERCICE 2 Le schéma relationnel suivant permet de stocker des informations relatives à la gestion dune base de données  Utilisateur IdU Nom Prenom La relation Utilisateur contient tous les utilisateurs de la base IdU identifiant de Futilisateur (entier), clé primaire Nom nom de lutilisateur (chaîne de caractères) Prenom prénom de Futilisateur (chaîne de caractères) Table IdTable IdCreateur La relation Table contient toutes les tables de la base IdTable nom de la table (chaîne de caractères) , clé primaire IdCreateur identifiant du créateur de la table (entier) .
+Concours (Mathématiques et Physique, Physique et Chimie et Technologie) - Session Mai 2017
+Epreuve d'Informatique Page 3/5
 
+--- page 4 ---
+Privilege IdTable , IdU Droit La relation privilege  définit   les droits de manipulation des tables identifiées par IdTable par les utilisateurs identifiés par IdU. (ha" IdTable IdU: clé primaire. Droit appartient {'CREATE' DROP' ALTER' 'SELECT', INSERT' 'UPDATE' DELETE' 'ALL', - } due
+Travail demandé Question ! En   utilisant   le module sqlite3 donner   le script PYTHON permettant   de créer la table Utilisateur dans la base "EXERCICE2.db" en exprimant toutes les contraintes d'intégrité mentionnées ci-dessus Dans  la suite on suppose que les trois tables de la base "EXERCICEZ.db" sont créées et remplies. Donner les requêtes SQL permettant de Question 2 Déterminer le nom et le prénom de tous les utilisateurs lelruio Question 3 Donner le nombre des utilisateurs de la base. 0 Question 4 Déterminer, pour chaque créateur;, le nombre de tables créées Question 5 Déterminer   les identifiants des utilisateurs ayant  le droit de création de nouvelles tables. Question 6 Classer par ordre alphabétique décroissant les noms des utilisateurs. Question Z Déterminer les noms et les prénoms des utilisateurs ayant le droit 'INSERT' associé à la table dont IdTable 'Produit' Question 8 Donner en algèbre relationnelle l'équivalent de la requête écrite à la Question Z
+EXERCICE 3 L'objectif de l'exercice est F'utilisation de la méthode des moindres carrés pour approximer un polynôme partir d'observations. La spécificité de cette méthode est de minimiser la somme des distances entre un polynôme g approximant et n points expérimentaux. Etant donné une observation de points distincts (xp y ), (xz .Yz (x;>Yn) , on cherche à approcher cette observation; au sens des moindres carrés, par un polynôme 'Qzx2 + + OmX" de degré égal n-], donnant une meilleure g(x) =a +ax + approximation des   valeurs Ceci revient à minimiser   la distance qui sépare un point Y; expérimental (x, = du point approximant (x,,g(x,)). Le polynôme donnant la meilleure approximation est celui qui minimise la somme $, des écarts entre les y; et les g(x,), donnée par la formule suivante S (%o,01,02, an ) = ZIly;-(" +a,x, +a,x, +.+umX J Concours (Mathématiques et Physique, Physique et Chimie et Technologie) Session Mai 2017 Epreuve d'Informatique Page 4/5
 
+--- page 5 ---
+Afin d'identifier la distance moyenne  minimale, on cherche lensemble des valeurs   des paramètres a, minimisant   cette somme Ce qui conduit à résoudre le système linéaire suivant
+Zr-i* Znx Zix; Zi-ix
+Zix" 2 m+1 i=1 X;
+Zi*%y Zixy
+ao
+mi=1 Zrix2m-1 @m-1 Zix"- I=1 Zix" Zi=ix" Yi 2m @m ni+] Zi-x" Ziix" Zi- 2 i=] X; yi En posant Uk =Zi-xf et Vk =Zi*ky le système s'écrit alors Uo U U ao Vo U1 Uz 11+1 3 U.a=v Um-1 Um 2m-1 Qm-1 Vm-1 Um U 7+1 Uzm @n Vm
+Travail demandé Dans la suite; on suppose que les n points représentant une observation; sont stockés   dans une liste de tuples Lp; où chaque tuple représente les coordonnées d'un point. Le travail demandé consiste à déterminer  les coefficients a; du polynôme 'interpolation g(x) Question ! Ecrire une fonction python; nommée puiss, qui, pour un réel x et un entier p; crée et retourne la liste 2p
+Question 2 Ecrire une fonction python; nommée list_puiss, qui, à partir dune liste de réels L et dun entier p; crée et retourne une liste de listes contenant; pour chaque réel de L, une liste [r Question 3 Ecrire une fonction python; nommée calcul_mat, qui, partir de la liste de points Lp, crée et retourne la matrice U Question 4 Ecrire une fonction python; nommée calcul_vect; qui à partir de la liste de points Lp. crée et retourne le vecteur Question 5 Ecrire un script python qui détermine   les coefficients du polynôme 'interpolation en faisant les importations adéquates.
+Concours (Mathématiques et Physique, Physique et Chimie et Technologie) Session Mai 2017
+Eprcuve d'Informatique Page 5/5

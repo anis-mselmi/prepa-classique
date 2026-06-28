@@ -1,3 +1,91 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministere de |Enseigncnient Supcricur, de le Rechcrchc Scientifique et dc la Technologic 09 ~Ji
+4598814528438} @lardleaus Essube~s Jin yibj 2jslij Unii iufjyji 20u9 60
+Oinqvonlcaolre Vutouily Tvqaaaf
+Concours Nationaux dEntrée aux Cycles de Formation d'Ingénieurs Session 2009
+Concours Technologie
+Epreuve de Mathématiques
+Date:Lundi 01 Juin 2009 Heure: 8 H Durée: 4 heures Nb pages: Barëme: Exercice: 6 pts, Problème: I 2.5 pts, II :1.5 pts, III: 3 pts, IV: 3 pts, V: 4 pts.
+Une grande importance sera attachée à la rigueur du raisonnement, à la clarté et au soin de la présentation .  L'usage des calculatrices n 'est pas autorisé.  Il est rappelé que tout résultat énoncé dans le texte pent être utilisé pour traiter la suite, même s'il n'a pu être démontré.
+Exercice
+Pour 2 € C et t € R, on pose
+1 _ 22
+NaastitvT PiAnnoiRt @suoTieque ) Eiures Diukes SFar
+g(z) 1 22zcos() + 2
+1. Vérifier que, pour z € C,
+9(2) =-1+ 1 2 zexp(it) 1 _ z exp(-it)
+En déduirc que pour z € C avec |z| < 1, on a:
+9(z) = 1+2 2" cos(nt)
+3 Soit @ € C et a # [~1,1] on pose f(t) =
+pour t € R. cos(t) (a) Montrer que léquation 22 2az + 1 = 0, posséde une racine complexe qu 'on notera W, vérifiant |w| < 1. on pourra raisonner par l'absurde et supposer que les deux racines sont de module égal à 1 ) (b)  Veritier que, pour t € R, on a: 2w 2w f(t) 1 =2cos(t) +02 1 =029()
 
+--- page 2 ---
+Concours Technologie Épreuve de Mathématiques
+(a) Montrer que la fonction f admet le développement en série de Fourier suivant:
+2w f (t) 137[1+2 2 "cos(nt)] n=1
+cos(nt) dt. pour n € N. cos(t)
+(b) En déduire la valeur de Fintégrale
+Problème
+Pour tout entier naturel n € N et r € R, on pose Fn(z) (z? 1)" et on définit la suite de polynômes (Pn)nev coefficients réels par
+Po(z) = 1
+Pn(z) F{") (z) , 2nn! pour n 2 1,
+où F{*) désigne la dérivé k-ieme de la fonction Fn, k étant un cntier positif.
+Partie I
+Expliciter Pu, Pz et P3-
+En utilisanc la formule (r2 _ 1)n = E(-1)*Chr2n-2* montrer que Pn a pOur expression: k=0
+{2) (-1)(2n 2k)! Pn(s) = I"-2k 2"k (n k) (n - 2k) +=0
+où [o] désigne la partie entière du réel Q. (on distinguera le cas n pair ou impair)_
+3. (a) Donner le degré de Pn- (b) Vérifier que le coeficient du monôme de plus haut degré du polynôme Pn est égal (2n)! 2"(n4)2 (c) Vérifier que pour tout n € N et pour tout z € R, on a : Pn(-r) = (~1)"Pn(z) (d) Calculer Pn(o). on distinguera les cas n pair et impair
 
+--- page 3 ---
+Concours Techuologie Épreuve de Mathénatiques
+l:
+Partie II
+En remarquant que (r2 _1)" = (z-1)"(r+1)" et en utilisant la formule de Leibniz montrer que F(z) ='C2( _ 1)( +1)"-* 2n K=u
+Déterminer les valeurs Pn(1) et Pn(-1).
+Calculer la somme E(-1)*(ck)? . 6=0
+la suite de
+(a) Montrer que (ch)? CIn  (on pensera Pn(s)). k=0 (b) Montrer que pour tout $ € [~1,1; on a: |Pn(s)l < C2n'
+Partie III
+(a) Soit k un entier tel que 0 < k < n - 1, montrer que F4*) (~1) = FM:) (1) = 0.
+(b) En déduire que pour tout n > 1, on a
+Pn(t)dt 0
+(a) Soit k un entier tel que 0 < k < n _ 1 montrer que
+t* Pn(t)dt = 0. (b) En déduire que pour tout polynôme P de degré strictement inférieur à TL. On a:
+expression
+J P(t) Pn{t)dt 0 =1
+(a) On pose pour n € N, Jn = J  1)"dz. Trouver une relation entze Jn eG Jn-1, pour n 2 1, puis donner l'expression de Jn - (b)  Montrer que, pour tout n € N,
+Pn est égal
+2n+1 '(nl)2 J t"Pn(t)dt (2n + 1)!
+"Pn(z)
+Soient m et n deux entiers naturels , montrer que:
+si m # n,
+Pm(t)Pn(t)dt
+S1 m = n.
+2n + 1
 
+--- page 4 ---
+Concours Technologie Épreuve de Mathématiques
+Partie IV
+On désigne par € Fespace vectoriel des polynômes à coeficients réels de degré inférieur ou égal à n.
+Montrer que Po. P1,
+Pr est une base orthogonale de €.
+Exer
+Soit P = ajPj un élément de €_ Montrer que pour cout 0 < k < n, on a : 1=-0
+Pour
+1) g(
+2k + 1 ak 2
+P(t)Px{t)dt.
+Soit le polynôme défini par Q(z) xPn-1(z), pour n 2 2 Calculer les coordonnées du 2) poi polynôme dans la base {Po,P,- Pn}  9( En déduire que les polynônes Pn sacisfont la relation de récurrence 3) Soit nPn(z) (2n 1)zP -1(z) + (n 1)Pn-2(x) = 0 vn 2 2 (1)
+Partie V
+b)
+Ou considère la série entière réelle Pn(x)t" de le variable t, I étant considéré comme uD n20 paramètre réel vérifiant -1 < z<1
+Soit R le rayon de convergence de cette série. Montrer que R 2 4 on pourra utiliser II4.b
+On pose f(t, z) la somme de cette série.
+(a) Expliciter f(t; 1) et f(t,~1) (b) Montrer que f(t,0) vI +7 (c) En utilisant la relation de récurrence (1), montrer que f(t, 2) est solution de F'équation: t2 2xt + 1)95(t,æ) + (t ~ z) f(t,z) = 0 @t
+Da
+d'
+(d) Donner l'expression de f(t,r)
+f(
+Fin de lépreuve b) D'api @o(f
+an(f)

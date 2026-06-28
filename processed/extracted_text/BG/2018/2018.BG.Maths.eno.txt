@@ -1,3 +1,75 @@
+--- page 1 ---
+République Tunisienne Ministère de VEnseignement Supérieur et de la Recherche Scientifique Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs Session 2018
+1+uga) 1 Z98 a3) &>1ë:jg(p: gusjegel Ja Zv Z31 91 BaliJi 0+iji 0485 J2lj! 2018 5 493
+412
+Concours Biologie et Géologie Epreuve de Mathématiques
+Date: Jeudi 31 mai 2018
+Heure: 8H
+Durée : 3H
+Nbre de pages : 4
+Barème
+Exercice 1 : 5 points Exercice 2 8 points Exercice 3 : 7 points
+La qualité de la rédaction et de la présentation; la clarté et la précision des raisonnements entreront pour une part importante dans lappré - ciation des copies  Lusage des calculatrices n'est pas autorisé. Tout résultat fourni dans lénoncé peut être admis et utilisé par la suite; même s'il n'a pas été démontré
+Exercice 1  On note par I3 la matrice identité de M3(R) et on donne A la matrice suivante
+2
+~1 =2
+A =
+2
+~1 ~4
+21
+1
+3
+1. Vérifier que les réels 1 et 2 sont deux valeurs propres de A. 2. Donner les dimensions des sous-espaces propres associés à ces valeurs propres. En déduire que A est diagonalisable. 3 Déterminer deux matrices P et D de M3(R) vérifiant les conditions suivantes (i-) P est invers Jle et ses trois éléments diagonaux sont égaux à 1. (ii-) D = (di,j) est diagonale avec d1,1 = 2 (iii-) D = P-1, AP . 4 Donner lexpression de la matrice P-1 5. A tout couple (a,b) de réels; on associe la matrice M définie par
+a + 2b =b
+~2b
+M =
+2b
+a _ b
+~4b
+~b
+b
+a + 3b
+Vérifier que M = al3 +bA et prouver que la matrice A = P-1 MP est une matrice diagonale.
 
+--- page 2 ---
+Concours Biologie et Géologie
+Epreuve de Mathématiques
+Page 2 sur
+6 Montrer que M est inversible si et seulement si est inversible. En déduire une condition nécessaire et suffisante portant sur a et b pour que M soit inver- sible 7. Prouver que M? = I3 si et seulement si 42 = I3. En déduire lexistence de quatre matrices M que lon déterminera; vérifiant M2 = I3 .
+Exercice 2 On rappelle que xn pour tout x € R; on a : = @4 n20 n! n! k'(n =k)! Partie I 1 Soient p €Jo,1[ ^ > 0, U et V deux variables aléatoires indépendantes telles que U suit une loi de Poisson de paramètre Ap et V suit une loi de Poisson de paramètre ^(1 _ p) a) Donner la loi de U + V. b) Montrer que, pour tout n € N la loi de U, sachant (U+V = n), est une loi binomiale de paramètres n et p. 2. On considère deux variables aléatoires T et S indépendantes; discrètes et définies sur un même espace probabilisé à valeurs dans N, vérifiant Pour tout n € N; P(T + S =n) #0. Pour tout k € {0,1,- ,n} P(T=kIT+S=n) = Ckpk(1 ~p)n-k On définit les suites (un)neN, (vn)neN et (Wn)neN par
+n!P(T =n) Un = pn
+n!P(S = n) Un = (1 _ p)n
+Wn = n!P(T +S = n)
+a) Montrer que pour tout k,n € N, tels que k < n, on a : ukun-k = Wn. b) Justifier que vo # 0 et uo + 0. c) Montrer que (un)neN et (vn)neN sont des suites géométriques de raisons respectives 41 = % et 12 11 7o Vo d) Déterminer W1 en fonction de uo et v1, puis en fonction de u1 et vo, en déduire que A1 = A2. e) En déduire que pour tout k € N, on a : (ap) P(T = k) = Vo P(S =k) = v((1P2, k! k!
+où & = A1 = 12.
+f) Trouver les valeurs de uo et v et en déduire que T suit une loi de Poisson de paramètre œp et que S suit une loi de Poisson de paramètre &(1 = p).
 
+--- page 3 ---
+Concours Biologie et Géologie
+Epreuve de Mathématiques
+Page 8 sur 4
+Partie II Dans cette partie, ^ et p désignent deux réels tels que ^ > 0et 0 < p < 1. On considère le couple (X,Y) à valeurs dans N? de loi définie par A"e-Apk(1 = p)n-k si 0 <k <n, P((X=n)n(Y =k)) = k'(n = k)! (9)- 0, sinon.
+1. Vérifier que la relation ( %) définit bien une loi de probabilité sur N? . 2 Déterminer la loi de la variable X, puis celle de Y. Les variables X et Y sont-elles indépen- dantes ? 3 Déterminer la loi conditionnelle de Y sachant X = n 4. Soit Z la variable aléatoire définie par Z = X - Y. Déterminer la loi de Z. 5. Les variables Y et Z sont-elles indépendantes ? 6. Application Pour une certaine race de mammifères, à chaque portée; le nombre X de petits suit une loi de Poisson de paramètre 5. La probabilité pour quun petit soit une femelle est 0,6. On note Y le nombre de femelles par portée. a) Quelle est la loi de Y conditionnellement à X= n? En déduire la loi de (X,Y) b) Sachant qu'une portée est constituée de 7 petits; quelle est la probabilité qu'il y ait 4 mâles et 3 femelles ?  c) Quelle est la probabilité pour qu'une mère donne naissance dans une même portée à 3 mâles exactement ?  s
 
+Exercice 3 On rappelle Tinégalité de Markov pour une variable aléatoire X ayant une espérance donnée par E(X2) Ve > 0, P(IxI 2 e) < Soient a,b € R,a 2 0 et b > 0, on considère léquation différentielle donnée par
+1 y" + by = 0, (E)
+Soit X une variable aléatoire à valeurs réelles dont la fonction de répartition F possède les propriétés suivantes (i) F est continue. (ii) F est nulle pour x 0. (iii) F est solution de léquation (E) pour x 0. 1. Déterminer la fonction de répartition F de X. 2. En déduire que la densité de X sécrit
+1 e "59 six 6 0, sinon.
+fab(x)
+
+--- page 4 ---
+Concours Biologie et Géologie
+Epreuve de Mathématiques
+Page 4 sur
+3 Calculer E(X) et V(X). 4. On considère une suite de variables aléatoires (Xi)icN* mutuellement indépendantes et de même loi que X. On pose Tn = min(X1, - Xn) - a) Sachant que pour tout réel x, (Tn 2 x) = (X1 2 x) n (Xz > x)n...n (Xn 2 x) Déterminer la fonction de répartition de Tn. b) En déduire que Tn suit une loi de densité fa4 c) Calculer E(Tn) et V(Tn) d) En utilisant linégalité de Markov pour la variable (Tn a) , montrer que
+lim   P(lTn a| 2 €) = 0 Ve > 0. n-++0
+5 Soit la variable aléatoire Y = X _ a. 1 a) Montrer que Y suit une loi exponentielle de paramètre b b) Donner son espérance et sa variance c) On modélise le temps dattente de pannes de machines par des variables aléatoires sans mémoire c-à-d,
+P(X > t + s/X > t) = P(X > s)  t 2 0, s 2 0.
+
+Montrer que les lois exponentielles sont sans mémoire.
+6 On considère (Yk)keN* une suite de variables aléatoires mutuellement indépendantes et 1 de même loi que Y. On définit la variable aléatoire Mn par Mn = EY n i=] a) Montrer que Mn est un estimateur sans biais de b ' b) En utilisant le Théorème central limite, montrer que
+b lim P IMn b| < 21-2 =1 _&, n-++0 Vn
+& où 21-4 vérifiant $(z1-;) = 1 _ et $ est la fonction de répartition de la loi normale 2' centrée rédite Mn Vn Mn Vn c) En déduire que lim P <b =1 _ &. n-++0 Vn + z1-f Vn ~ 21-4 d) Donner un intervalle de confiance de b au seuil de risque & 7. On considère un échantillon (Y1,Yz, - Y4oo ) de 400 variables aléatoires indépendantes de 1 loi exponentielle de paramètre On a observé la moyenne empirique b
+400 1 9 = Yi = 0.25. 400
+Au seuil de 1%, cette observation est-elle compatible avec la valeur de b = 0,26? justifier la réponse. (On donne %(2,575) = 0,995).
+Fin de lénoncé

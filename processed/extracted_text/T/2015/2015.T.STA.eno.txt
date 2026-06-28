@@ -1,26 +1,453 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE
+4284283} ælj?isets Ministère de 1Enseignement Supérieur et de la Recherche Scientifique 2Lgb Concours Nationaux dEntrée aux Cycles Js_ {4a Bjbwi de Formation d'Ingénieurs Olui  Jyui Session 2015 2015 82 Concours Technologie Épreuve de Sciences et Techniques de TIngénieur
+Date Vendredi 12 Juin 2015 Heure : 8 Heures Durée : 5 Heures Barème Partie 4 8 points Partie B polnts Partie € : 4 points Partie D : 4 points
+L'épreuve comporte quatre parties A- Technologie de conception B-Technologie de production C- Mécanique & RDM D- Automatique Le sujet de lépreuve remis au candidat comporte deux dossiers Dossier Document Présentations et Hypothèses Dossier Document Réponses. Et trois documents techniques Dessin d'ensemble (DTI et DT2) et Dessins de production (DT3) Y 
+Aucun autre document n'est autorisé L'utilisation des calculatrices de poche non programmables est autorisée. Les différentes parties sont indépendantes et doivent être traitées sur le document réponses. Il n'est fourni au candidat qu'un seul et unique dossier document réponses > qui doit être rendu en totalité, à la fin de lépreuve, même sans réponses
 
+--- page 2 ---
+STI Technologie
+Présentation et Nomenclature
+Dossier Présentation; Données et Hypothèses
+Unité de découpage de marbres
+MISE EN SITUATION Le recyclage est Unl procédé de traitement des déchets industriels ou des   ordures ménagères (recyclage des bouteilles plastiques; recyclage du verre; traitement des eaux usées; -) Il présente deux avantages écologiques majeures
+La réduction du volume des déchets et donc de la pollution La préservation des ressources naturelles (réutilisation de la matière recyclée)
+Bien que ses ressources soient limitées, Yeau représente unl bien naturel indispensable à la vie. C'est pourquoi une partie de leau consommée est recyclée et redistribuée. En effet, une bonne quantité deau utilisée en industrie et en agriculture est issue deaux usées assainies. La gestion et Texploitation de ce recyclage; confiées des   entreprises spécialisées, nécessite des infrastructures lourdes . L'industrie de traitement des marbres (figure 1) est lune des plus polluantes en termes deau usée. Ainsi, nous en ferons notre sujet d'étude. On se propose alors détudier une chaîne de production de plaques gravées en marbre. Elle est composée de quatre unités
+Unité de découpage des plaques Unité de transfert et manipulation; Unité de gravure et de polissage ; Unité de traitement des eaux usées
+Figure Unité de traitement des marbres
+Solides
+Séparateur
+Convoyeur
+Alimentation axiale
+Phase solide
+Phase liquide
+Figure 2: Principe de fonctionnement du système de décantation (séparation des phases solide et liquide)
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2015 Page 1/20
 
+--- page 3 ---
+STI Technologie
+Présentation et Nomenclature
+Dossier Présentation; Données et Hypothèses
+Dans lunité de gravure et de polissage; les plaques en marbre sont destinées à recevoir des textes et des motifs décotatifs; réalisés par enlèvement de matière. L'un des mécanismes utilisé dans cette manipulateur des plaques en marbre (figure C.1) page 13/20 du prése ent document. Il s'agit est un dun mécanisme permettant de
+Déplacer et positionner la plaque par rapport à Yopérateur; pour Iui faciliter les opérations à réaliser Maintenir la plaque en toute sécurité dans la position choisie; pendant le travail
+Ainsi; trois déplacements indépendants peuvent être donnés à la plaque (figure C.1) page 13/20: Elévation et inclinaison réalisées à laide de deux vérins hydrauliques Orientation réalisée manuellement.
+Dans Yunité de traitement des eaux usées (Gigure D.2 page 17/20), Fextraction des déchets (boues) est réalisée par procédé de décantation et   déshydratation  par centrifugation Les opérations de traitement des eaux usées passent par les étapes principales suivantes Traitement préliminaire (dégrillage, dessablage, dégraissage .) Décantation et déshydratation.
+Dans le système de décantation (figure 2), les eaux usées sont introduites axialement à lintérieur vis > 62 (Document Technique DT2) et sont distribuées dans unl cylindre appelé kbob 63. dune La vis 62 et le bol 63 tournent à des fréquences élevées; ce qui permet la centrifugation de la boue donc sa décantation. Les éléments solides des boues sont convoyés vers Yextrémité conique du bol par la vis 62 tandis que le liquide est évacué à Zautre extrémité.
+Concours nationaux Tentrée aux cycles de formation dingénieurs
+Session 2015  Page 2/20
 
+--- page 4 ---
+STI Technologie
+Présentation et Nomenclature
+Dossier Présentation; Données et Hypothèses
+Nomenclature 71 Rondelle 70 Vis CHC
+Flasque de la poulie motrice du VARIATEUR 18 Cr Mo 4 Nitruré Flasque de la poulie réceptrice du VARIATEUR 18 Cr Mo 4 Nitruré Rondelle Socle E275 Tube dalimentation C45 Mécano soudé Bol ~Partie cylindriquc Vis Bol ~Partie conique 60 Bâti 59 Palier 58 Goupille 57 Support du capteur 56 Capteur 55 Clavette parallèle 54 Poulic réceptrice du VARIATEUR 53 Moto-réducteur du VARIATEUR 52 Support 51 Tendeur 50 Capteur du VARIATEUR 49 Courroie du VARIATEUR 48 Poulie motrice du VARIATEUR 18 Cr Mo 4 Nitruré 47 Rondelle dappui 46 Rondelle Entretoise 3 Coupelle Moteur électtique SIEMENS 1MJ6 207 4A60 380V ; P=30kW N=1450 tr/mn Poulie motrice 2 Coupleur hydraulique Arbre intermédiaire C55 Cémcnté 39 Bride daccouplement EN-GJL - 200 38 Clavette parallèle 37 Vis CHC 36 Flasque détanchéité du module REDEX 35 Axes des roues dentées C35 Trempé Revenu Rep. Nbr Désignation Matière Observation Concours nationaux dentrée aux cycles de formation dingénieurs  s Session Concours technologique Epreuve STI 2015 Repère Système de traitement des eaux usées Ech
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2015 Page 3/20
 
+--- page 5 ---
+STI Technologie Partie A : Technologie de conception
+Dossier Présentation; Données et Hypothèses
+34 33 32 31 30 29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 13 12 11 10
+Roue dentée Module REDEX 31 Cr Mo 12 Roue dentée Module REDEX 31 Cr Mo 12 Cage aiguilles Module REDEX Bride C55 Roulement Rigide 4 une rangée de billes Anneau élastique Palier du réducteur GS275 Réducteur CYCLO ZS218/59 Roulement Rigide à une rangée de billes Entretoise C35 Anneau élastique Anneau élastique Flasque détanchéité. E360 Arbre cannelé 31 Cr Mo 12 Moyeu cannelé 41 Cr Al Mo Roulement Rigide à une rangée de billes SKF Arbre secondaire du coté réducteur CYCLO. Cémenté Arbre creux coté bol C35 Arbre creux coté palier C35 Roulement Rigide à une rangée de billes Couvercle du Palier EN-GJL 200 Courroie Trapézoïdale Poulie réceptrice D = 170 mm Joint à lèvre à contact radial Cage porte satellites du module REDEX C35 8 Cage aiguilles Douille Planétaire 31 Cr Mo 12 Moyeu Planétaire 31 Cr Mo 12 Roulement Rigide à une rangée de billes Joint à lèvre à contact radial Clavette parallele Entretoise de liaison Eléments élastique daccouplement STRAFLEX 635-303 Paulstra Rep. Nbr  Désignation Matière Observation Concours nationaux dentrée aux cycles de formation dingénieurs  Concours technologique Epreuve STI Session 2015 Repère Système de traitement des eaux usées Ech
+Concours nationaux d'entrée aux cycles de formation d Tingénieurs
+Session 2015 Page 4/20
 
+--- page 6 ---
+STI Technologie Partie A Technologie de conception
+Dossier Présentation; Données et Hypothèses
+PARTIE A TECHNOLOGIE DE CONCEPTION    
+Mise en situation
 
+Cette partie concerne létude du système de traitement des eaux usées. Les documents Techniques DTI et DT2 définissent le dessin densemble dun décanteur constitué principalement; comme le montre la figure A-1 et le Document Technique DT2  Dun moteur   électrique (43),  Dun variateur à courroies (48,49, 70), Dun réducteur 1 à engrenages , Dun réducteur CYLO (figure A-2), Dun coupleur hydraulique,  Dun système poulie courroies (11, 12, 42) 1
+Le moteur (43) entraine dun côté un coupleur hydraulique et un variateur de vitesse (48,49,70) de lautre côté Le coupleur hydraulique  entraine un système poulie courroies (11, 12, 42) qui transmet s2 puissance au bol 63), au réducteurl et au réducteur CYCLO Le variateur de vitesse (48, 49,70) transmet sa puissance à travers (40) au réducteur CYCLO via le réducteurl Le réducteur CYCLO entraine la vis (62) Bol 63 Coupleur Poulies courroies hydraulique (11,12,42) Moteur 43 Réducteur Variateur à courroies (Réducteur Vis 62 CYCLO (48,49,70)
+Figure A-1 Schéma bloc de transmission de puissance
+0004 Came Flasque excentrique Arbre à grande Disques vilesse doigts à petite Cycloide Couronne   grande Carter vitesse vitesse Elements roulants petite vitesse Figure A-2 Réducteur   CYCLO
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2015  Page 5/20
 
+--- page 7 ---
+STI Technologie Partie A Technologie de conception
+Dossier Présentation; Données et Hypothèses
+Données Moteur: Puissance du moteur électrique usuel à couple variable P = 30 Kw ; Fréquence de rotation du moteur (43): Nm =1450 tr/mn. Poulies courroies (11,12 ,42): Coefficient de frottement entre la courroie et la poulie f 0,3 ; Langle B des gorges de Ja poulie (11) : B =400 Le diamètre primitif de la poulie motrice   (42) :D42 355 mm Le diamètre primitif de la poulie (11): du1 = 170 mm Lentraxe souhaité entre (11) et (42): E=530 mm Le rendement de la transmission par poulies courroie (11, 12 ,42):711,42 =0.9 Le glissement entre les poulies (11) et (42) et la courroie (12) est supposé nul Masse linéique de la courroie (12) est négligeable. Variateur à courroies (48, 49 ,70) Pn Puissance à lentrée du variateur Pev est supposée Pev
+Le rendement de la transmission (48,49 ,70) 748,5 70 =0.9 Le glissement entre les flasques (48, 70) et la courroie 49 est supposé nul Langle € des gorges des poulies des flasques (48) et (70) 0=400 Course des flasques mobiles 3Omm <1 <+ 3Omm Coupleur hydraulique: Puissance à lentrée du coupleur hydraulique Pch est_supposée 2Pn Pch
+Le rendement au niveau du coupleur hydraulique : nch =0.85  Le glissement est supposé nul Réducteur 1 Rendement 71=0.9 Zo=45dents Z7=40 dents Z33=28 dents Z34=20 dents. Réducteur CYCLO Rendement 7 cyclo = 0.9 Rapport de transmission k =Ng Ngz N6z ~N63 Le rapport de transmission k = 59. Caractéristiques du récepteur: Machine irrégulière avec chocs modérés Durée de fonctionnement 08 heures par jour.
+Le travail demandé est 'explicité dans les pages de 1/31à 9/31du dossier document réponses
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2015  Page 6720
 
+--- page 8 ---
+STI Technologie Partie A Technologie de conception
+Dossier Présentation; Données et Hypothèses
+Annexes PARTIE TECHNOLOGIE DE CONCEPTION 1- Variateur de vitesses
+Poulie à flasques mobiles dun variateur de vitesses à courroie trapézoïdale
+Variateur de vitesses à courroie trapézoïdale
+2- Poulies à courroies trapézoïdales
+Rtf
+Rapport de transmission R
+Longueur de référence de la courroie
+Puissance transmissible &une courroie
+R = "L = 2 np
+Pt = Pb x CL x a
+(D_d)2 Lp =2E+1.57(D+d)+ 4E
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2015 Page 7720
 
+--- page 9 ---
+STI  Technologie Partie A Technologie de conception Dossier Présentation; Données et Hypothèses 3. Choix du facteur de service Prime mover Electric motor Inc comb SF motor Moteur bhermique Miachine motrice Verbrennungsmotor Moteur électrique cylinders 4 cylindres Kraftmaschine Zylinder to 3 à 3 Elektromotor bis 3 &more &Plus &mehr cyinders Duration Of operation cyindres Max hous per day Eyinder Duree de sevice Heures max par jour 3h/ 24h /10h/ 24h/24h/ 24h| 3h/ 24h 1Oh/ 24h| 24h/ 24h 3h/ 24h IOh/ 24h 24h/ 24h Tagliche Balricbsdauer Max. Stnden pro Tag Uniform Joad Driven machine Chorgo Uniform? 1,00 1,12 1,18 1,18 1,32 1,40 1,32 1,50 1,60 Gelchm Bclastung Mod. shock loading Machine entrainee Ctocs moderos 1,12 1,25 1,32 1,32 1,50 1,60 1,50 1,70 Mapigo SioBe 1,80 Heavy shock loading Arbeitsmaschine Chocs violants 1,25 1,40 1,50 1,50 1,70 1,80 1,70 1,90 2,00 Heftign SiaBe 4. Choix de la section de coutroie Pc {kYy}
+700 600 500 Zo0
+SrG 200+
+300
+200
+SPB 140*
+8 56
+SEA
+SPZ
+8
+8 8 8 88 R 822* 889 8 8 min'
+5. Longueurs Lp des courroies SPB: longueurs de références standards SPB VP 2 Lp 1250/1400 1600 1800 20o0|2240 [2500 |2720 |2900 |3250 |3650  4120/4620 5300 6700 1280/1450 11650 |1850 |2060|2300 |2530 |2800 3000 3350 3750 4250 4750 | 5600 7100 1320 1500 1700 1900 2120[2360 [2580 [2840 |3070 |3450 | 3870|4370 4870 6000 7500 1360/1550 |1750 |1950 |2180/2430 2650 |2850 3150 |3550 4000 4500 5000 6300 8000 6. Angle de contact; facteur dangle
+0,00
+0,04
+0,11
+0,19
+0,26
+0,32
+0,39
+0,45
+0,51
+0,56
+0,62
+0,67 0,72
+180
+178
+173
+169
+165
+161
+158
+154
+151
+147
+144
+141
+138
+0,99
+0,98
+0,97
+0,96
+0,95
+0,94
+0,93
+0,92
+0,91
+0,90 0,89
+Concours nationaux dentrée aux cycles de formation d Tingénieurs
+Session 2015  Page 8/20
 
+--- page 10 ---
+STI _ Technologie_Partie A Technologie de conception
+Dossier Présentation; Données et Hypothèses
+Puissance brute pour courroies SPB: 1 Pb puissance brute par courroie en fonction de d, nd et R Basic power rating for Pb Puissance brute (W pour 4 3350 mm Brutoieistung nP R = d (mm} ((min 1) 140 150 160 170 180 190 200 212 224 236 250 265 280 300 315 335 355 400 R < 1.06 1,3 1,5 1,8 2.0 2,2 2,4 2,6 2,8 3,1 3,3 3,6 3,9 4,5 4,8 1,3 1,5 89 200 1,922 1,24 8 { 1,9 889888888998 1,25 a 1,59 14 16 1,9 3,4 3,7 5,8 1,60 <R 1,2 1,4 1,6 1,8 2,0 2.2 2,3 2,6 2.8 3,0 2,2 3,5 3,8 4,1 4,4 4,7 5,1 5,8 R < 1,06 5.7 6,7 8,5 5,2 6,2 9,1 10,5 1,06 a 1,11 2,8 6,8 8,6 9,2 10,6 400 1.22a 1,39 888# 8988 5,8 88 8 8 8 g; 9,3 18,3 g4 1,60 < R 3,6 5,6 8,9 9,5 11,0 R < 1,06 3,3 8,9 9,7 10,5 11,4 12,5 13,3 14,4  15,4 17,8 1,92a 1,24 36 8g 9,9 9,8 18, 725 125 136 146 159 18,9 730 8988 888 1,25 a 1.59 3,6 6,0 8,6 9,3 10,1 11,0 11,8 12,9 13,7 14,8 15,9   18,3 1,60 < R 48 53 69 8.1 8,8 9,5 10,3 11,1 12,0 13,1 14,0 15,1 16,2 18,6 R < 1,06 4,9 5,6 64 7,9 8,7 9,5 10,4 11,3 12,3 13,4 14,4 15.8 16.9 18,2 19,5 22,4 1,06 a 1.11 6,6 10,6 71,5   12,5 13,6  14,6 16,0   17,1 18,4 19,7 22,6 970 122a 1.29 988988 88 198 178 123 130 15,8 16,2 172 188 292 228 1,60 = R 5,4 8.6 10,3 11,2 12,1 13,1 14,2 15,3 16,7 17,8 19,1 20,5 23,4 R < 1,06 8,3 9.2 10,1 11,1 12, 13,1 14,3 15,5 16,7 18,3 19,5 21,0 22,5 25,7 1,.05 & 1.11 4,3 88 8 7 8,5 9,410,3 11,3 12,4 13,4 14,5 15,8 17,0 18.6 19,7   21,3 22,8 26,0 1165 1,12a 1,24 5,1 8,7 8,6 10,5 11,5 12,5   13,5 14,7 16,0 17,2 18,8 19,9  21,5 23,0 26,2 1,25 a 1,59 5,2 8,0 8,9 9,8 10,7 11,7 12,8 13,8 15,0   16,2 17,5 19,1 20,2 21,8  23,3 26,5 1 60 < R 5,4 52 1,2 8,2 9,1 10,0 10.9 12,0 13,0 14,1 15,3 16,5   17,8 19,4  20,6   22,2 23.7 26,9 R < 1,06 5,6 8,8 9,9 10,9 12,0 13,2 14,4   15,6 17,0 18,4 19,8 21,6 23,0 24,7 26,3   29,8 1,06 2 1,71 g; 9,1 10.2 12,3 13,5 14,7 15,9 17,3 18,720,1 21,0 23,2 25,0  26,6 30,1 1455 1,12 a 1,24 {; 8 9,3 10,4 # 12,5 13,7 14,9   16,1 17,5 19,0  20,4 22.2 23,5 25,2 26,9 30,3 1,25 0 1,59 8,5 9,6   10,6 12,8 14,0 15,2 16,5 17,8 19,3 20,7 22,5 23,9 25,6 27,3 30,7 1,60 < R 6,4 8,6 9,8 10,9 12,0 13,0 14,3 15,6 16,8 18,2 19,7 21,1 23,0 24,3 26,1   27,8 31,3 R < 1,06 6.3 8,8  10, 11,3 12,5 13,7 15,1 16,5 17,8 19,3 20,9 22,4 24,4 25,8  27,6 29,3 32,6 1,06 a 1,11 6,6 78 9,210,4 11,7 12,9 14,1 15,5 16,8   18,2 19,7   21,3 22,8 24,8   26,2 28,0 29,6 33,0 1745 1,12 2 1,24 6,9 9,4 10,7 11,9  13,1 14,3 15,7 17,1 18,4 20,0 21,6 23,7 25,1 26.5 28,2 29,9 33,3 1-25 a 1,59 8,4 9,7 11,0 12,2 14,6 16, 17,5 18,8   20,4 22,0  23,5 25,5 26,9 28,7 30,4 33,7 1,60 . 4 8.6 9,9 11,2 12,5 124 R 15,0 16,4  17,8 19,2 20,8 22,4 24,0 26,0 27,5 29,.3 31,0 34,4 R < 1,06 7,6 10,8 12,4 13,9 15,3 16,8 18,4 20,0 21,5 23,1 24,8 26,4 28,2 29,4 1,06 a 1,11 9,2 11,3 12,8 14,4 15,8 17,2 18,9 20,5 22,0 23,6  25,3 26,9 28,7 29,9 2400 1,12 a 1,24 8,4 10,0 71,6 13,2 14,7 16,2 17,6 19,2 20,8 22,3 24,0 25,7  27,2 29,1 30,3 1,25 a 1,59 8,7 10,4 12,0 13,6 15,1 16,6   18,1 19,7   21,3 22,9 24,6 26,2 27,8 29,7 31,0 1,60 < R 8,9 10,6 12,3 13,9 15,5 17,0  18,5 20,2 21,8 23,4 25,2 26,9 26,6 30,4 31,7
+R < 1.06 1,06 a 1,11 1412 a 1.24 1,25 & 1,58 1,60 < R
+8,3 10,1 11,9 13,6 15,2 16,7 18,2 19,9 21,5 22,9 24,4   25,9 8,8 10,7 12,4 14,1 15,8 17,3 18,8 20,5 22,1 23,5 25,0 26,5 9,2 71,1 12,8 14,5 24,0   25,5 26,9 182 13 182 29 225 9,6 11,5 13,3 15,0 19, 24,6 26,1 27,6 11,8 13,5 17,1 18,8 20,3 225 9,9 15,4 23,7 25,3 26,9 28,4
+2910
+R < 1,06 1406 a 1,11 I,12a 1,24 1,25a 1,59 1,60 < R
+8,6 10,6 12,4  14,2 15,8 17,3 18,7 20,2 9,3 71,3  13,2 14,9 16,5 18,1 19,4   20,9 9,8 11,8 13,6 15,4 17,1   18,6 20,0 21,4 10,3 12,3 14,2 16,0 17,7 19,2 20,722,2 10,6   12,7 14,7 16,5 18,2   19,8 21,3 22,9
+3600
+R < 1,06 1406 a 1,11 1,12 0 1.24 1,25 a 1,59 1,60 _ R
+1,9 9,8 11,6 13,1 8,8 10,7 12,5 14,0 9,3 11,3 13,1 14,6 10,0  12,0 13,8 15,4 10,4 12,4 14,3 16,0
+4500
+Lp
+1250 1400 1600 1800 2000 2240 2500 2800 3350 3550 4000 4500 5000 5600 6300 7100 8000
+0,82 0,84 0,86 0.88 0,90 0,92 0,94 0,97 1,0o 1,02 1,04
+1,06 1,08 1,10 1,12 1,13 1,15
+Exemple cité ci dessus
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2015 Page 9/20
 
+--- page 11 ---
+STI Technologie
+Partie B : Technologie de Production Dossier Présentation; Données et Hypothèses
+PARTIE B : TECHNOLOGIE DE PRODUCTION PRESENTATION Larbre (17), document technique DT3, sera fabriqué à raison de 300 pièces par mois pendant 10 ans Les surfaces usinées sont repérées par des chiffres. Le matériau de Yarbre (17) doit contenir au minimum 5% de chrome pour résister aux conditions de travail On donne sur le document technique DT3 les dessins De définition de Farbre (17) avec la cotation dimensionnelle et géométrique; 3D de Yatbre (17) selon deux orientations de vue De larbre 7), avec les repères des surfaces usinées De Yarbre (17) avec les surépaisseurs dusinage:
+HYPOTHESES
+Les pièces brutes sont obtenues par forgeage La surépaisseur moyenne pour usinage est de 2mm Lusinage se fait par finition directe Le parc machine est composé de deux tours CN et dune fraiseuse CN 4 axes.
+OBTENTION DU BRUT DE LARBRE (17) Gamme dobtention du brut de Paxe (17) par forgeage Phase Illustré de Opération Yopération Découpage du lopin de 10 départ par oxycoupage (au chalumeau)
+Mise en rond par frappe sur les diagonales
+20
+30
+Etirage rond
+40
+Etirage premier coté
+50
+Etrage deuxième coté
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2015 Page 10/20
 
+--- page 12 ---
+STI _ Technologie Partie B Technologie de Production Dossier Présentation; Données et Hypothèses PROJET DE GAMME DE FABRICATION Lusinage Yarbre (17), est effectué en quatre phases Phase 10 Contrôle de brut Phase 20 Tournage Phase 30 : Tournage Phase 40 Fraisage. Phase 20 réalisation de 1, TR, 2,3,4,5,6 et G1
+Phase 30 réalisation de 7,8,9, G3, 11,G2, 12 et 13
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2015  Page 11/20
 
+--- page 13 ---
+STI Technologie
+Partie B Technologie de Production Dossier Présentation Données et Hypothèses
+ETUDE DE LA COUPE
+Perçage La machine utilisée est un tour à commande numérique de puissance 2,5kW. On donne La vitesse de coupe Vc = 30 m mn, Lavance f =0,059 mm tr; La pression spécifique de coupe Ks 2400 MPa. Cependant si le rapport L/D est supérieur ou égale à 3, des corrections de la vitesse de coupe et davance $ s'imposent. Kl et K2 sont des facteurs correctifs pour la vitesse et lavance à savoir Vccorrigée] KI.VcTableau _ orrigée K2fTableau
+3D 4D 5D 6D 8D 0,90 0,80 0,70 0,65 0,80 0,95 0,90 0,85 0,80 0,80
+K1 K2
+Tableau B.1: Détermination de KI et K2.
+Le temps de coupe enl perçage tc = LIVf Lexpression de leffort de coupe D fcorrigée en perçage Fc = Ks
+Fraisage On utilise une fraise de diamètre D=6 mm avec un nombre de dents 7=2 La hauteur de la rainure est de 3,5 mm.
+Lusinage de la rainure se fait en trois opérations (Ebauche; demi-finition et finition), Lépaisseur de coupe en finition ap= 0,01 x D Lavance par dent fz = 0,03 mm Vitesse davance Vf = 1OOmm mn, Largeur de coupe a La pression spécifique de coupe Ks 2200 MPa, Angle de direction de larête Xr = 909 .
+Fraise * 6
+Lexpression de La puissance de coupe Ks ap ae fz ZVc en fraisage Pc = 7.D.6O
+Le travail demandé est explicité dans les pages de 10/31à 14/31 du dossier document réponses
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2015  Page 12/20
 
+--- page 14 ---
+STI Technologie
+Partie C :Mécanique & RdM Dossier Présentation; Données et Hypothèses
+PARTIE C: MECANIQUE & RDM
+C.1- ETUDE MECANIQUE Présentation L'étude porte sur un mécanisme manipulateur de onentatlon plaques en marbre de 10 cm dépaisseur et Table pouvant atteindre une masse de 400 kg; Plaque Le manipulateur permet de Déplacer et positionner la plaque par rapport à Bras Lcon Popérateur, pour Jui faciliter les opérations Console réaliser. 2 Maintenir la plaque en toute sécurité dans la lon position choisie; pendant le travail Vénn dindinaison Vérin délevation Ainsi; trois déplacements   indépendants   peuvent Sode être donnés à la plaque Elévation et inclinaison réalisées à laide de Figure C.1 Schéma du manipulateur deux vérins hydrauliques Orientation réalisée manuellement.
+Schéma cinématique et repérage Un mécanisme de transmission par chaîne non représenté maintient constamment la console dans une position horizontale. Dans cette position très particulière; le système dinclinaison n'intervient pas. Yo 0 z
+B1 par rapport à Bo.
+(b) B; par rapport à Bo. Figure B.2 Orientation des bases
+Figure B.1 Schéma cinématique du mécanisme.
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2015  Page 13720
 
+--- page 15 ---
+STI _ Technologie
+Partie C :Mécanique & RdM Dossier Présentation; Données et Hypothèses
+Ce mécanisme est composé de Socle (0) auquel est lié le repère R(0,*0,70,2 supposé galiléen (fixe ou absolu). Corps (1), lié au repère R(A,*1,J,,2, est en liaison pivot daxe (A,2 avec le socle (0). Son mouvement est paramétré par Yangle 0=@o,7)=G0,7;) (figure B.2.a) Tige (2), lié au repère R(C,xp,J1,2) , est en liaison glissière daxe (B,y;) avec le corps (1) Bras   (3), lié au repère 3(,X,,ys,2) , est en liaison pivot daxe (,2 avec le socle (0). Il est également en liaison pivot daxe (C,2) avec le piston (2). Son mouvement est paramétré par langle 0=Go,X,) =@o Js) (figure B.2b)  Console (4), liée au repère R(,*0,Jo,2) , est en liaison pivot daxe (E,2 avec le bras (3).
+Données
+OA = a* OD=byo AB =dy, AC=2y1 DC=CE =LX; et EG=hx a, b, d, L et h sont des caractéristiques géométriques du mécanisme (constantes) 1,0 et @ sont les paramètres du mécanisme (variables temporelles).
+Hypothèses Le corps (1) et la tige (2) sont des solides de masses négligeables Le bras (3) est assimilé à une tige homogène de masse m > de centre dinertie C > et de moment principal d'inertie par rapport à laxe (D,2) : < Iz> ; La console (4) est un solide supposé homogène de centre dinertie G et de mase M; L'accélération de la pesanteur est 8 =-gYo La tige (2) est actionnée par une force de pression hydraulique F =Fy (fournie par une pompe non représentée) L'action de la chaîne sur la console est représentée au point E par le torseur 4T { (chaîne 4)}E où Test la tension du brin tendu; r est le rayon du pignon ; 2T r z
+Toutes les autres liaisons sont parfaites En général, le torseur des actions mécaniques transmissibles au niveau de la liaison de centre Q entre deux solides et () est noté {r(i ~)} @4{ Le plan (O,*o,Jo) est supposé être un plan de symétrie du mécanisme.
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2015 Page 14720
 
+--- page 16 ---
+STI Technologie
+Partie C :Mecanique & RdM Dossier Présentation Données et Hypothèses
+C.2- RESISTANCE DES MATERIAUX du bras de levage (3). L'étude sera menée dans la résistance une On se propose de vérifier position choisi par lopérateur (4, 0 et 2 sont constantes) . Le configura tion qui une concegpon drone pesigoe moisnna r oRÉradet .secuon droite constante de forme bras, modélisé par une poutre articulé  aux points € et D (figure C.3). Les actions mécaniques   extérieures tubulaire carrée, est prealablement déterminées Jors de Yétude dynamique sont représentées par exercées sur la poutre et les torseurs suivants
+[24,5 {r(0 = 3)} = -3,5
+(0,5 {r(2 _ 3)}c
+-25 -3,5
+{r(4 _ 3)}E=
+Les forces sont exprimées en kN La masse m de la poutre (3) a été négligée devant la masse M de la console (4) = DC = CE = L = 250 mm ; La section (S) est de forme tubulaire carrée d'épaisseur e = 10 mm et de coté c = 150 mm acier de construction mécanique pour lequel on adopte une contrainte La poutre (3) est en maximale admissible Rpe 80 MPa est le centre de la section droite tel que DG =xX; (x est un paramètre compris entre 0 et 2L)
+0 z
+E
+Figure C.3 Modèle poutre du bras (3) et sa section transversale.
+Le travail demandé est explicité dans les pages de 15/31 à 23/31du dossier document réponses
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2015   Page 15720
 
+--- page 17 ---
+STI Technologie
+Partie D Automatique
+Dossier Présentation; Données et Hypothèses
+PARTIE D: AUTOMATIQUE
+Lobjet de cette étude est délaborer une commande séquentielle dun système dextraction des boues des eaux usées et des déchets   solides En outre un asservissement en vitesse du moteur dentraînement de la vis dArchimède destinée à lévacuation des déchets solides
+Lunité de traitement des eaux usées et des déchets (figure D.1) comporte
+Un dégrilleur permettant de retenir les gros déchets Un dégraisseur permettent déliminer les particules graisseuses Un décanteur primaire permettant la séparation des eaux du déchet solides. Un bassin daération permettant le traitement par oxygénation des eaux provenant du décanteur Un décanteur   secondaire  qui est un bassin circulaire   équipé des  racleurs où seffectue une deuxième sépatation des particules fines des eaux sortant du décanteur primaire:. La boue extraite des deux décanteurs par centrifugation est riche en poudre de marbre et sera réutilisable dans la fabrication des carreaux. Leau propre traitée sera de nouveau exploitée .
+Dégrilleur
+Dégraisseur
+Bassin daération Décanteur secondaire Figure D.1 : Unité de traitement des eaux usées et des déchets Station &épuration Charguia-Tunisie
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2015 Page 16/20
 
+--- page 18 ---
+STI Technologie
+Partie D Automatique
+Dossier Présentation; Données et Hypothèses
+D.1 Commande séquentielle dextraction des boues et des caux du décanteur Le décanteur   secondaire est unl bassin (figure D.2) équipé des électrovannes , des motopompes et des racleurs immergés dans le bassin où s'effectue la séparation par décantation des boues issues du bassin daération et de leau traitée.  Electrovannes d'extraction des boues Eau épurée
+Motopompes d'extraction (MB)r (MEJet (MR)
+Annoire de commande (Départ cycle (Dcy), Lampe de signalisation (H), Sélecteur (s))
+Mise en mnarche Moteurs Ml, M2, M3
+Figure D.2 Extraction des boues et des eaux du décanteur Station &épuration Charguia-Tunisie
+Sur ordre de départ cycle (Dcy), lhélice aérateur et les racleurs   (bras) du décanteur un primaire sont simultanément mis en rotation par la mise en marche des moteurs Mi (KMI=l) et M2 (KM2=1)  La séquence extraction des boues > ou la séquence extraction des eaux > est alors exécutée selon la position choisie dun sélecteur $ et les moteurs M1 et Mz sont arrêtés (KMI=0) et (KM2=0) (figure D.3) Une lampe de signalisation H sallume (H=1) au cours de lexécution de la séquence extraction des eaux > Si s = 1,la séquence < extraction des boues > est la suivante Ouverture de la vanne dextraction des boues (VB+) et mise en rotation des tacleurs du décanteur secondaire par le moteur M; (KM3=1) rotation de la motopompe dextraction des boues (MB) pendant 40s fermeture de la vanne dextraction des boues (VB-) et arrêt moteur Ms (KM3=0).
+Si s = 0,la séquence < extraction des eaux > est la suivante Ouverture de la vanne extraction des eaux (VE+) ; rotation de la motopompe extraction des eaux (ME) pendant 20s Concours nationaux dentrée aux cycles de formation d'ingénieurs  Session 2015 Page 1720
+extraites Boues
 
+--- page 19 ---
+STI Technologie Partie D : Automatique Dossier Présentation; Données et Hypothèses fermeture de la vanne extraction des eaux (VE) et ouverture de la vanne tecirculation des boues (VR+) rotation de la motopompe recirculation des boues pendant 10s (MR) Fermeture de la vanne recirculation des boues (VR-) Le cycle extraction des eaux et les rotations de bras décanteur primaire et lhélice daération (moteurs M1 et M2) sont exécutés 5 fois et ceci est testé par un capteur logique c indiquant létat du compteur (c=1sila séquence est exécutée 5 fois; c=0 sinon)  La condition initiale nécessaire pour lamorçage du cycle automatique capteur logique c=0 (le compteur est initialisé à zéro).
+F
+Eau traitée
+Décanteur secondaire
+Décanteur primaire
+Bassin d'aération
+MB
+M ,
+M
+VB
+VR
+M 2
+Hélice aérateur
+Boues extraites
+Boues recirculées
+Figure D.3. Schéma synoptique dextraction des boues et des eaux Le repérage des entrées et des sorties de la Partie commande est donné dans le tableau D.1 Tableau D.1 Repérage des entrées sorties Entrées Sorties Symbole Désignation Symbole Désignation Dcy Bouton poussoir départ du cycle KMI Commande du moteur   M rotation racleur (bras) du décanteur primaire veo Vanne extraction boues ouverte KM2 Commande du moteur Mz   rotation hélice acrateur vef Vanne extraction boues fermée KM3 Commande du moteur M; rotation racleur du décanteur secondaire Vo Vanne extraction caux ouverte VB Ouvertute vanne extraction boues vf Vanne extraction eaux fermée VB Fermeture vanne extraction boues Capteur logique indiquant Tétat du MB Rotation motopompe extraction boues compteur VIO Vanne recirculation boues ouverte VR' Ouverture vanne recirculation boues vrf Vanne recirculation boues fermée VR Fermeture vanne recirculation boues Sélecteur à deux positions MR Rotation motopompe recirculation boues  VE+ Ouverture vanne extraction eaux VE Fermeture vanne extraction eaux ME Rotation motopompe extraction eaux H Lampe de signalisation
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2015 Page 18/20
+Dcy
 
+--- page 20 ---
+STI Technologie
+Partie D : Automatique
+Dossier Présentation; Données et Hypothèses
+D.2. Asservissement de vitesse du moteur dentraînement de la vis dArchimède Zasservissement de vitesse du moteur dentraînement de la ici vis On s'intéressera dArchimède destinée à Ja recirculation des boues vers le bassin daération (figure D.4). Moteur dentraînement de vis d' Archimède la vis   
 
+Figure D.4. Moteur &entraînement de la vis d' Archimède destinée à la recirculation des boues vers le bassin d'aération Station &épuration Charguia-Tunisie
+La structure de lasservissement en vitesse de la rotation de la vis est donnée par la figure D.5. C(p)
+O(p)
+km Cm(p) R
+Sc(p) ka
+JU(p) C(p)
+Jep
+E(p)
+ke
+Moteur
+ka
+Figure D.5. Schéma fonctionnel d'asservissement en vitesse
+Avec
+Opérateur de Laplace Qc(p) Transformée de Laplace de @c(t), L(@d(t)) = Oc(p) @c(t) Vitesse de consigne en (rd.s-') Vitesse de rotation de Farbre moteur en (rd.s-'), L(o(t)) = Q(p) Cm(t) Couple moteur en (Nm) L(Cm(t)) = Cm(p) Cr(t) Couple résistant sur Farbre de sortie moteur en (Nm) L(CAt)) = CAp) u(t): Tension aux bornes de Finduit en (V); L(u(t)) = U(p) e(t) Force contre électromotrice (f.c.e.m) en (V); L(e(t)) = E(p) Concours nationaux dentrée aux cycles de formation dingénieurs Session 2015 Page 19/20
 
+--- page 21 ---
+STI_ Technologie Partie D Automatique km Constante de couple (km en (N.m/A))
+Dossier Présentation Données et Hypothèses
+ke
+Constante de fc.e.m (ke en (VIrd.s-')), (km = ke)
+R
+Résistance de Finduit en (2) R = 12 Gain du capteur de vitesse (constante d adaptation) en (Vlrd.s-'), ka 0.25 Vlrd.s-1 Inertie équivalente ramenée à Faxe de rotation de larbre moteur en '(kg.m?)
+ka
+Je
+Les diagrammes de Bode du moteur H (P) sont donnés par la figure D.6.
+9
+10-1
+10
+@
+7100
+101 Puksation (radis)
+Figure D.6. Diagrammes de Bode de Hu(p) du moteur CAt)= 0 N.m
+Lasservissement de vitesse du moteur dentraînement de la vis &Archimède doit respecter les performances décrites dans le Tableau D.2: Tableau D.2 : Performances souhaitées du système Performances Valeurs souhaitées Stabilité Marge de Gain MG   (valeur minimale) =15dB Marge de Phase Mp (valeur minimale) 60 Précision Erreur statique nulle pour une entrée en échelon Rapidité Temps de réponse tr(45%) < 0.3s Dépassement (D%) inférieur à 15%
+Le travail demandé est explicité dans les pages de 24/31 à 31/31 du dossier document réponses
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2015 Page 20/20
 
+--- page 22 ---
+B-B partielle ech 1:20
+[ZONE HORS ETUDE
 
+--- page 23 ---
+A-A
+FIXE
+MOBILE
+aatfixe
+FIXE MOBILE
+DT 2
+Concours nationaux dentrée aux cycles de formation d'ingénieurs Concours technologie Epreuve STI Session 2015 Système de traitement Repère Echelle 10 des eaux usées Document DT
 
+--- page 24 ---
+21
+22
+23)
+24
+25
+26
+27
+28
+29
+30
+31
+20
+19
+8
+6
+5
+4
+13
+2
+10
 
+--- page 25 ---
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+8
+5
+3
+70
+2
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs Concours technologie Epreuve STI Session 2015
+Système de traitement des eaux usées
+Repère
+Echelle
+1 : 2
+Document DT 2
+
+--- page 26 ---
+Dessin de Définition
++0.2 1.25 0
+A-A
+12
+372+0.6
+tp | A
+30]
+[19
+032]
+14.5
+58
+tp | A
+1x45'
+A
+tp | A
+8
+9
+8
+8
+tf
+tp A
+3x45'
+15
+tp | A tp | A
+tp C
+tp A
++0.2 1.6 0
++0.2 1.85 0
+tb A
+tp C
+tf tolérance de forme tp tolérance de position tb tolérance de battement Sauf indication IT Général selon la norme ISO
+2
+62
+10
+63
+6
+4
+G1
+3
+8
+5
+3
+2
+4
+
+--- page 27 ---
+B-B
+A
+B 2
+B 21 35
++0.2
+rme ISO 2768 m-k
+Concours nationaux dentrée aux cycles de formation d'ingénieurs Concours technologie Epreuve STI Session 2015 Repère Système de traitement 17 Echelle des eaux usées Document DT 3
+14
+TR

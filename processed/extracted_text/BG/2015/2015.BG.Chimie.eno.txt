@@ -1,18 +1,310 @@
+--- page 1 ---
+7 . /: : : . s
+so ( ' ` s
+INSTRUCTIONS
 
 
+Cette épreuve comporte deux parties indépendantes. La première partie (chimie inorganique 50% de la note) comporte 10 pages (p2-pll). La deuxième partie (chimie organique 50% de la note) comporte 8 pages (pl2-pl9). Tout résultat doit être écrit dans les cadres adéquats.  d oo Seul Vusage des calculatrices électroniques de poche non programmables est autorisé. Les résultats numériques sans unité ou avec une unité fausse ne seront pas comptabilisés Aucun échange entre les candidats n'est autorisé . " En cas de besoin utiliser les pages vides en fin du cahier. Dans ce cas; il faut le signaler dans la case allouée à la réponse remise en fin de cahier. Si au cours de lépreuve; un candidat repère ce qui lui semble être une erreur d'énoncé, il la signale sur sa copie et poursuit sa composition en indiquant les raisons des initiatives qu'il est amené àprendre.
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 19. PAGES NUMEROTÉES 1 sur 19 2 sur 19 19 sur 19.
+9s
+ `
+1 s  ; Concours Biologie et ' ,  2  . ` , Géologie
+Page 1 sur 19
+Concours Biologie et Géologie- Session juin 2015
 
 
+--- page 2 ---
+Partie I : Chimie inorganique NoTATIONS ET DONNÉES NUMÉRIQUES Tous les gaz sont assimilés à des gaz parfaits. sn Lorsqu'aucune mention n'est spécifiée; les ions sont supposés implicitement en solution aqueuse. On assimile les activités ai des espèces dissoutes au rapport de leur concentration à la concentration standard C8 Toutes les deux étant exprimées en molL-- 7 ' . s Notations   ( Les abréviations suivantes sont utilisées pour désigner létat physique des constituants (g) pour gazeux; (sd) pour solide; (liq) pour liquide et (aq) pour aqueux. Ln logarithme népérien. logio logarithme à base 10. ' . 2 Constantes physiques Constante des gaz parfaits R = 8,314 J. K-1 mol-1 .  Constante de Faraday F=96500 C.mol-' 3 (RxT)F x Ln(10) =0,06 V à 298 K Pression atmosphérique Patm =1 atm ~ 1 bar Pression standard p =lbar Concentration standard Ce =1 molI' Numéros atomiques Z de Pargent (Ag) = 47 azote (N) = 7 et Phydrogène (H) = 1. Potentiels redox standard à 298 K et à pH = 0 : Couple redox E' (V) Ag-(aq)/Ag(sd) 0,799 Ht IHz(g) 0,000 O2(g)/H2O 1,230 Produit de solubilité à 298 K : K; (Mg(OH)2(sa) ) = 8,9x10-"2 K (AgClsd) ) = 1,6x10-1. Produit ionique de leau à 298 K: K =10-14 Conversion 1 bar =105 Pa
+Page 2 sur 19
+Concours Biologie et Géologie- Session juin 2015
+
+--- page 3 ---
+i
+ n
+ .
+Partie I Chimie inorganique
+PROBLÈME I : PRÉCIPITATIONS COMPÉTITIVES Dans ce problème la température est fixée à 298K et on suppose qu'il ne se forme pas de complexes. 1) Donner Pexpression puis calculer 1-a) La solubilité de Mg(OH)2(sd) dans leau pure .
+1-b) Le produit de solubilité K (Ag(OH)sd)_ sachant que la solubilité de Ag(OH)(sd) dans 1eau pure est de 1,462x10-4 molL;' .
+ 
+
+1-c) La valeur du pH de la solution saturée en Ag(OH) dans leau_pure
+Page 3 sur 19
+Concours Biologie et Géologie- Session juin 2015
+
+--- page 4 ---
+Partie I : Chimie inorganique
+2) A une solution contenant 10-3 mole par litre de chacun des ions Mg?+ et Ag on ajoute progressivement une solution de soude NaOH assez concentrée pour que le volume varie peu pendant 1expérience. 2-a) Déterminer pour chaque hydroxyde la valeur de la concentration de lion HO- quand il commence à précipiter .
+Pour Mg(OH)2
+Pour Ag(OH)
+2-b) Déduire de ce qui précède, lequel des hydroxydes précipite le premier: Justifier la réponse:
+3) Calculer la quantité de matière de Ag(OH)(sd) que Von peut dissoudre dans une solution de 100 mL de AgNO3(aq) de concentration 10-3 molL-' .
+" 8  d  7
+Page 4 sur 19
+Concours Biologie et Géologie- Session juin 2015
+
+--- page 5 ---
+Partie I : Chimie inorganique
+PROBLÈME II : COMPLEXE 1) Donner la définition dun complexe 2
+2 Donner la structure électronique de latome d'argent à Létat fondamental
+3 Déduire de cette structure la position de argent dans le tableau périodique
+AReprésenter la structure de Lewis de la molécule d'ammoniac NH;
+3
+
+1
+5) Quelle est la géométrie de NHs ? Justifier_par_la théorie VS EPR
+Donner une représentation spatiale de la molécule NH:
+7) En solution aqueuse concentrée en ammoniac, les ions Ag: provenant du chlorure d'argent; se complexent pour former lentité chimique [Ag(NHs)2]  7-a) Donner le nom du complexe_[Ag(NHs)2]
+ 
+Page 5 sur 19
+Concours Biologie et Géologie- Session juin 2015
 
 
+--- page 6 ---
+Partie [ Chimie inorganique
+7-b) Donner /expression puis calculer la constante de formation du complexe [Ag(NHs)2]* à 298 K, sachant que la solubilité de AgCI dans une solution dammoniac de concentration 1 molL-' est s = 5x10-2 mol L-'
 
+PROBLÈME III : ÉQUILIBRE LIQUIDE-VAPEUR DES MÉLANGES BINAIRES A)MÉLANGE IDÉAL : Largent (noté A) et le cuivre (noté B) sont   deux composés   miscibles en phase   liquide et ayant un comportement supposé idéal. En phase gazeuse, le mélange est considéré comme un gaz parfait. 1) Sachant que la phase gazeuse est en équilibre avec le mélange liquide. 1-a) Donner lexpression des pressions partielles pA de (A) et pB de (B) en fonction de la fraction molaire de B dans la phase liquide XB_
+1-b) Déduire de ce qui précède, Pexpression donnant la pression totale p en fonction de la fraction molaire XB en phase liquide, à une température constante.
+2) Représenter sur la figure de la page suivante; les courbes pA fxB) pB fxB) et p = fxB) Répondre_sur la figure de la_page 7. 3) Quel est le composé_le plus_volatil ? Justifier la réponse   `
+B)MÉLANGE RÉEL : Le mélange   réel s 'éloigne cependant de lidéalité   précédente et à Paide   des mesures expérimentales effectuées à 1150'C, on a pu construire les courbes donnant les variations des pressions partielles pA et pB en fonction de la fraction molaire XB en phase liquide (voir page suivante)
+Page 6 sur 19
+Concours Biologie et Géologie- Session juin 2015
 
+--- page 7 ---
+Partie [ Chimie inorganique
 
+8,0
+0,20
+0 = 1150'C
+pAg pCu
+0,183 0,18
+7,27 7,0
+0,16
+6,0 € 5,0 1 8 4,0 1 3,0 [ 2,0 1,0
+0,14 2 0,12 8 0,10 2 0,08 1 0,06 [ 0,04
+0,02
+ 0,00 1 Cu
+0,0 0 Ag
+0,1
+0,2
+0,3
+0,4 0,5 0,6 fraction molaire
+0,7
+0,8
+0,9
+4) Le mélange cuivre-argent se fait-il avec absorption ou dégagement de chaleur 2 Justifier
+5) Déterminer les constantes de Henry de (A) et de (B) à 1150 C
+Page 7 sur 19
+Concours Biologie et Géologie- Session juin 2015
 
+--- page 8 ---
+Partie I : Chimie inorganique
+6) Une solution diluée dargent (A) dans le cuivre (B) de fraction molaire XA =0,003 est mise en équilibre avec sa vapeur à 1150 C. Déterminer les fractions molaires yA et yB dans la phase gazeuse; si on considère qu' à cette composition /argent (A) suit la loi dHenry .
+PROBLÈME IV LECTURE D'UN DIAGRAMME E-PH On se propose détudier le diagramme potentiel-pH simplifié de largent à 298 K. Pour cela; on va considérer les espèces suivantes Ag(sd), Ag(aq) et Ag (OH)sd)~ Les conventions adoptées pour tracer ce diagramme sont La concentration totale en élément dissous est égale à la concentration du tracé Ctra =104 molI-  À la frontière séparant les domaines des deux espèces dissoutes; les concentrations atomiques en élément sont égales. Les demi-équations redox sont écrites en milieu acide 1,40 Ctra 10-4 mol.L;' 1,20
+1,00
+0,80 [Agt 0,60 Ag 0,40
+Ag(OH)
+10,33
+€ 0,20 [ 0,00 0 -0,20
+[pH
+2,00
+4,00
+6,00
+8,po
+10/00
+12/00
+14/00
+-0,40
+-0,60
+-0,80
+-1,00
+Page 8 sur 19
+Concours Biologie et Géologie- Session juin 2015
 
+--- page 9 ---
+Partie [ Chimie inorganique
+1) Donner le nombre d 'oxydation de lélément argent dans les espèces chimiques suivantes Ag(sd) Ag(aq) = et Ag (OH)(sd)~ Présenter les résultats dans un   tableau ordonné par valeurs croissantes du nombre doxydation.
+n o(Ag)
+Espèces_correspondantes
+2) Déterminer à partir du diagramme, le produit de solubilité K, (Ag(OH))
+3)
+3-a) Établir la relation qui permet de calculer la valeur du potentiel standard redox du couple Ag(OH)(sdy Ag(sd) à partir de K (Ag(OH)) et Ke et E Ag 1 Ag )
+1 ` _
+7
+cn
+3-b) Calculer sa valeur .
+Page 9 sur 19
+Concours Biologie et Géologie- Session juin 2015
 
+--- page 10 ---
+Partie I : Chimie inorganique 4) Donner les équations des frontières (1) et (2) sur le diagramme
+Frontière (1)
+Frontière (2)
+5) Écrire la demi-équation de réduction du dioxygène 02(g) en HO et en déduire le potentiel Ea du couple correspondant en fonction du pH et pour Poz =lbar  1 
+6) Écrire la demi-équation de réduction de H2O en Hz(g) et en déduire le potentiel Eb du couple correspondant en fonction du pH et pour Pxz = Ibar
+Page 10 sur 19
+Concours Biologie et Géologie- Session juin 2015
 
+--- page 11 ---
+Partie [ Chimie inorganique qui donnent les variations des potentiels redox en 7) Représenter sur le diagramme ci-dessous, les droites fonction du pH pour les couples H2O/H2(g) et O2(gyH2O. 1,40 Ctra 10-4 mol.L-' 1,20
+1,00
+ `
+0,80 Fag 0,60 Ag 0,40 € 0,20 [ 0,00 0,pO 2,00 ~0,20
+Ag(OH)
+1
+10,33
+[pH
+4,0o
+6,po
+8,00
+10/00
+12/00
+1400
+-0,40
+~0,60
+-0,80
+-1,00
+8) Dans un cristallisoir rempli deau pure; on place un petit morceau dargent métallique. Le métal Ag réagit- il avec Peau ? Justifier.
+'
+ni
+FIN DE LÉNONCÉ DE CHIMIE INORGANIQUE
+Page 11 sur 19
+Concours Biologie et Géologie- Session juin 2015
 
+--- page 12 ---
+Partie II : Chimie organique
+Données Élément Numéro atomique Z Masse molaire (g mol-l)
+H 1 1,0
+N 7 14,0
+CI 17 35,5
+Br 35 79,9
+8 16,0
+12,0
+PROBLÈME I
+On s'intéresse à la suite réactionnelle suivante
+Br Mih CH; KOH "llx Mécanisme:Ez
+CHz + B2
+ `
+B1
+1 
+KMnO4 concentré B1 à chaud
+1) Désigner par un astérisque ( tout carbone asymétrique sur la molécule A. Déterminer; en le justifiant; la configuration de chaque_carbone_chiral
+Br
+H Uini
+CH;
+2) Déterminer; en tenant compte de la configuration; le nom systématique de A
+Br
+H M/1 CH3
+H
 
+Page 12 sur 19
+Concours Biologie et Géologie- Session juin 2015
 
+--- page 13 ---
 
+Partie II Chimie organique axial) et He   (H équatorial) sur le   cyclane, puis déterminer   la 3) Compléter les positions Ha (H configuration de_Newman de A_en considérant les axes de_projections_sous-indiqués . Br
+Projection de Newman
+CH;
 
+ -
+ ,4  .
+
+1` ` < ~  d  1d ,  
+A
+ d  
+de  formation de B1 et de B2. Déterminer, en le justifiant; le produit 4) Détailler   les mécanismes majoritaire
+2 .   1 7s  ` g
+17
+ <
+s
+Justification du produit majoritaire
+Page 13 sur 19
+Concours Biologie et Géologie- Session juin 2015
+
+--- page 14 ---
+Partie II : Chimie organique
+5) Donner la structure de C.
+PROBLÈME II est un anti-inflammatoire non stéroïdien: Il est prescrit dans le traitement du rhumatisme Le Diclofénac spondylarthrite ankylosante; des douleurs dorsales etc. Il possède aigu, de la polyarthrite, de larthrose; de la et antalgiques supérieures à / 'aspirine et Pibuprofène. On se propose également des propriétés antipyrétiques dans ce qui suit détudier sa synthèse à partir de la molécule A
+COOH-
+NH
+= R-COOH
+R
+LiAlH4 (excès) R-COOH (Me, H9
+SOCl2 (Na CN-) R-CHzOH c R-CH2-CN B 2
+2 INaQH R-CH2-COOH 2/ H2O E
+1) Donner la formule brute de A et calculer le pourcentage centésimal du chlore:
+Page 14 sur 19
+Concours Biologie et Géologie- Session juin 2015
+
+--- page 15 ---
+Partie II Chimie organique
+de formation de D, dépend des concentrations [C] et [CN ]. Déterminer, en le justifiant; 2) La cinétique 1 , ~   Tordre de la réaction et détailler le mécanisme.
+Justification de_Lordre de_la réaction
+Mécanisme de_ formation deD:
+3 n
+1  n n: .
+3) Nommer la transformation D _E
+Page 15 sur 19
+Concours Biologie et Géologie- Session juin 2015
+
+--- page 16 ---
+Partie II : Chimie organique
+PROBLÈME III
+2
+Elle inhibe la  réabsorption de la sérotonine et  surtout   la La   désipramine (A3) est un antidépresseur. qui suit de létudier . noradrénaline de la noradrénaline . On se propose dans ce
+La synthèse de la désipramine peut se faire de la manière suivante
+NaNH2
+CI
+Br
+Az
+N
+H
+CH3NH?
+Az
+CH2 -CH2~CH2 ~NH ~CH3 A3
+1) Écrire les structures électroniques de Cl et Br et déduire celles de CI et Br: CI :
+CI-
+Br
+Br
+Page 16 sur 19
+Concours Biologie et Géologie- Session juin 2015
+
+--- page 17 ---
+Partie II Chimie organique 2)   Comparer les rayons atomiques des ions Cl- et Br . Justifier.
+3) En vous aidant des questions précédentes; comparer le caractère nucléofuge des ions CI et Br . Justifier .
+4) Déterminer la structure de Az.
+5) On se propose de déterminer si lazote de la molécule A1 est conjugué avec les cycles phényliques; pour cela nous avons mesuré à 25 C, les pKa de diverses amines. Les résultats obtenus sont consignés ci-après
+Composé
+A1
+CHs-NHz
+CH3-NH-CHs
+(P1)
+Pz)
+P3)
+13,17
+4,87
+10,66
+10,73
+Page 17 sur 19
+Concours Biologie et Géologie- Session juin 2015
+NHz
+pKa
+
+--- page 18 ---
+Partie II : Chimie organique 5-a) Écrire les formes limites de Paniline (P1).
+NH2
+5-b) Expliquer par les effets électroniques (mésomère etlou inductif), la différence d'acidité entre P1) et (Pz)
+5-c) Expliquer par les effets électroniques_la différence d'acidité entre (Pz)et (Ps)
+2
+Page 18 sur 19
+Concours Biologie et Géologie- Session juin 2015
+
+--- page 19 ---
+Partie II Chimie organique
+5-d) La structure de A1 amontré que lazote et les deux cycles phényliques ne se trouvent pas dans le même plan. Déduire, en se basant sur la valeur du pKa; si lazote est conjugué avec les cycles phényliques. Justifier .
+
+FIN DE LÉNONCÉ DE CHIMIE ORGANIQUE
+FIN DE LÉPREUVE
+
+Page 19 sur 19
+Concours Biologie et Géologie- Session juin 2015

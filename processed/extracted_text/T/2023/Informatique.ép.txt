@@ -1,21 +1,304 @@
+--- page 1 ---
+BUr ( 8 (Bibliothèque ) 2 CONSIGNES GÉNÉRALES 5 Veni6 de5 ' IJS > 89 DOCUMENTS NON AUTORISES Slar CE CAHIER D'EXAMEN COMPORTE 22 PAGES + 2 PAGES VIDES LES RÉPONSES DOIVENT ÊTRE ÉCRITES DANS LES ESPACES RÉPONSES DÉDIÉES EN CAS DE BESOIN UTILISER LES PAGES VIDES EN FIN DU CAHIER, DANS CE CAS, IL FAUT LE SIGNALER DANS LES CASES RÉPONSES ALLOUÉES LUSAGE DES CALCULATRICES EST INTERDIT Il FAUT RESPECTER IMPÉRATIVEMENT LES NOTATIONS DE LÉNONCÉ VOUS POUVEZ ÉVENTUELLEMENT UTILISER L'ANNEXE
+Le sujet comporte trois parties qui traitent les aspects suivants Partie I Programmation orientée objet (Q1..Q21) Partie II Programmation procédurale (Q22.Q25) . Partie III Base de données relationnelle (Q26..Q36) .
+Lobjectif des parties et II est détudier la performance de quelques algorithmes dordon- nancement de processus dans un système dexploitation. Un système dexploitation est unl logiciel qui permnet dexploiter les ressources dune machine; à titre d'exemples Windows, Linux, MacOs. Android, etc.
+Un processus cst défini comnmc étant un programnmnc chargé cn mnémnoirc ccntralc cn vuc dêtrc exécuté par le processeur . Un processus  est donc né lors du chargement dun programme et se termine à la fin de lexécution de ce programme. Un processus peut être à lun des états suivants Prêt s'il dispose de toutes les ressources   nécessaires à son exécution à Fexception  du processeur . Elu s'il est en cours dexécution par le processeur . Bloqué s'il est en attente dun événement ou bien dune ressource pour pouvoir continuer Un ordonnanceur est un processus important du système d'exploitation qui gère lallocation du temps processeur . Plusieurs processus peuvent être à létat 'Prêt" dans ce cas Fordonnanceur se charge de choisir parmi eux celui qui devra être traité en premier   lieu selon une stratégie dordonnancement Un ordonnanceur fait face à deux problèmes principaux Comment élire un processus à exécuter parmi les processus prêts Durant  combien de temps le processeur est alloué au processus élu ?
+Concours MP PC et T
+Session Juin 2023
+Epreuve d'Informatique Page 1/22
+
+--- page 2 ---
+Partie I Programmation Orientée Objet
+Dans le but de simuler un ordonnanceur de processus; on propose d'implémenter un ensemble de classes permettant de mettre en place certaines tâches de lordonnanceur Classe Processus modélise les caractéristiques dun processus Classe FileProcessus modélise une liste de processus Classe StrategieOrdonnancement encapsule toutes les données et méthodes communes aux différentes stratégies d'ordonnancement (FCFS, SJF et RR) Elle est dédiée à la spéciali - sation par héritage: Classe FCFS modélise la stratégie dordonnancement  FCFS_(First-Come First-Served) Elle traite les processus dans lordre de leurs soumissions (temps darrivée). L'organisation de la filc dattente des processus prêts cst donc du type "First In First Out" Classe SJF modélise la stratégie d'ordonnancement SJF Shortest Job First ) . Elle favorise les processus présents ayant une durée d'exécution plus courte. Classe RR modélise la stratégie d'ordonnancement RR (Round Robin) . Cest une straté - gie préemptive où le processeur est alloué à chaque processus pour une durée limitée dite quantum Le processus élu selon Fordre de sa soumission est exécuté durant ce quantum, puis remis en queue de la file dattente. Ceci engendre une gestion circulaire de la liste des processus prêts
+Interface de la classe Processus
+Attributs
+nonP chaîne de caractères représentant le nom du processus (supposé unique) . taP , entier représentant le temps darrivée du processus. deP , entier représentant la durée totale dexécution du processus etatP, chaîne de caractères représentant létat du processus trP, entier représentant la duréc restante pour lachèvement  de Fexécution du processus initialisé par deP
+NB le temps est mesuré en nombre de cycles dhorloge du processeur .
+Méthodes implémenter
+Q1. init (. . . ) initialise un processus à partir des paramètres nonP , taP, deP et etatP re- présentant respectivement le nom du processus ; son temps darrivée; sa durée dexécution et son état.
+Exemple 1: Lobjet processus P de nom "P" , ayant un temps darrivée 1, une durée nécessaire dexécution 8 et létat "Elu" est instancié comme suit
+Processus ( "P" 1 , 8 , "Elu" )
+Concours MP, PC et T
+Session Juin 2023
+Epreuve dInformatique Page 2/22
+
+--- page 3 ---
+Espace de réponse pour Q1
+class Processus def init (self nonP taP deP etatP)
+Q2. str__(.. .) représente textuellement un processus (voir Fexemple 2). Exemple 2: pour le processus P créé dans lexemple 1
+>>> str (P) "Nom Temps d'Arrivée
+Durée d'Exécution
+Etat
+Elu"
+Espace de réponse pour Q2
+def
+str
+(self)
+Concours MP; PC et T
+Session Juin 2023
+Epreuve d'Informatique Page 3/22
+
+--- page 4 ---
+Q3. eq-_ ( . . .) retourne un booléen indiquant si les deux processus self et other ont le même nom
+Espace de réponse pour Q3 def eq (self other)
+Q4. changerEtat ( 2) change Pétat courant du processus vers létat ns passé en paramètre.
+Espace de réponse pour Q4 def changerEtat (self ns)
+Interface de la classe FileProcessus
+Attributs
+data, une liste de processus
+
+Méthodes à implémenter
+Q5.
+init (. . .) initialise lattribut data à une liste vide
+Espace de réponse pour Q5 class FileProcessus def init (self)
+Q6
+len (. . . ) retourne le nombre de processus présents dans linstance actuelle de FileProcessus.
+Espace de réponse pour Q6 def len_ (self)
+Concours MP; PC et T
+Session Juin 2023
+Epreuve d'Informatique Page 4/22
+
+--- page 5 ---
+Q7. str (. . -) permet  de représenter un objet de type FileProcessus par une chaîne selon le format suivant
+1[4r
+Liste de processus Wom nomP1 Temps Arrivée Nom nomP2 Temps Arrivée
+taPl taP2
+Durée Erécution Durée d 'Eécution
+deP1 deP2
+Etat Etat
+etatPl, etatP2,
+Espace de réponse pour Q7
+def
+str (self)
+Q8. contains ( filc actucllc
+reçoit un processus P en paramètre et vérifie s'il est présent dans la
+Espace de réponse pour Q8
+def
+contains
+(self ,p)
+Concours MP, PC et T
+Session Juin 2023
+Epreuve d'Informatique Page 5/22
+
+--- page 6 ---
+Q9. ~~getiten (. . .) retourne un processus de la file actuelle dont le nom nomP est passé en paramètre.
+Espace de réponse pour Q9
+def
+getitem (self nonP)
+Q1O nomProcessusElu (self) retourne le nom du premier processus ayant Fétat "Elu" dans la file actuelle; None si aucun processus ne dispose de létat "Elu"
+Espace de réponse pour Q1O
+def nonProcessusElu(self):
+Q11. ajouterProcessus (_ ajoute un processus p passé en paramètre dans la file actuelle (En faisant la gestion des exceptions nécessaires) .
+Espace de réponse pour Q1I
+def ajouterProcessus (self,p)
+Concours MP, PC et T
+Session Juin 2023
+Epreuve dInformatique Page 6/22
+
+--- page 7 ---
+Q12. retirerProcessus ( en paramètre
+retire et retourne de la file actuelle le processus de nonP   passé
+Espace de réponse pour Q12
+def retirerProcessus(self ,nomP
+Interface de la classe StrategieOrdonnancenent Attributs
+fp instance de la classe FileProcessus contenant les processus en cours d'ordonnan- cement . horloge un entier représentant linstant actuel exprimé en cycles dhorloge. stats un dictionnaire où les clés sont les noms des processus en cours dordonnance- ment. Chaque clé est associée à un tuple contenant des mesures reflétant des critères de performances qui seront détaillés ultérieurement.
+Méthodes à implémenter
+Q13. init_ (. . .) initialise lattribut fp stats par un dictionnaire vide
+partir du paramètre fP, horloge à zéro et
+Espace de réponse pour Q13
+class StratégieOrdonnacement def init (self fp)
+La méthode elire( . 2) responsable du choix du processus à exécuter. Cette méthode sera redéfinie dans les classes filles.
+def elire(self) # pour cette classe le script de cette méthode # n'est pas demandé
+Concours MP, PC et T
+Session Juin 2023
+Epreuve dInformatique Page 7/22
+
+--- page 8 ---
+Q14. executer( . . .) prend un paramètre 9 ayant par défaut la valeur None et exécute le processus élu selon la démarche suivante  chercher le nom nomP du premier processus ayant létat "Elu dans fp; si aucun processus de fp n'est élu; incrémenter Thorloge dune unité et interrompre Texécution actuelle sinon retirer de fp le processus P de nom nomP et calculer tep le temps processeur alloué à son exécution si 9 est None affecter à 9 le temps restant pour lachèvement de p; tep prend le minimum entre le temps restant du processus P et 9; mettre à jour horloge en lincrémentant par tep ; mettre à jour le temps restant de lexécution du processus p en le décrémentant par tep si le processus p est achevé (le temps restant devient nul) calculer dans tr le temps de réponse du processus p (voir équation 1) ; calculer dans tat le temps d'attente du processus p (voir équation 2) ; insérer le tuple (tr, tat) dans le dictionnaire stats associé à la clé nomP du processus P; NB Pour un processus Pi quelconque, on a
+trP
+instant actuel de Thorloge
+taP Pi
+Équation 1 temps de réponse dun processus Pi
+et
+tat Pi =tr Pi
+deP Pi
+Équation 2 temps dattcntc d'un processus Pi
+si le processus P n'est pas encore achevé, changer son état à "Prêt" et le remettre dans fp.
+Espace de réponse pour Q14
+def executer(self
+None)
+Concours MP, PC ct T
+Session Juin 2023
+Epreuve d'Informatique Page 8/22
+
+--- page 9 ---
+Suite espace de réponse pour Q14
+Q15. simuler(.. prend en paramètre un entier positif duree (durée totale de la simulation) et applique itérativement les deux étapes suivantes choix du processus à exécuter via la méthode elire exécution du processus élu via la méthode executer La simulation s'arrête quand lhorloge dépasse duree ou bien jusqu'à lachèvement de lexé - cution des processus de la file fp.
+Espace de réponse pour Q15
+def simuler(self duree)
+Q16. criteres(. . .) calcule et retourne un tuple contenant le temps de réponse moyen (TRM) et le temps d'attente moyen (TAM) calculés à partir du dictionnaire stats en se basant sur les formules suivantes
+Concours MP PC et T
+Session Juin 2023
+Epreuve d'Informatique Page 9/22
+
+--- page 10 ---
+TRM moyenne des temps de réponses des processus achevés
+tr Pi i=1 où n est le nombre total de processus achevés.
+TRM
+Équation 3 Le temps de réponse moyen
+TAM moyenne des temps dattentes des processus achevés
+tat Pi 1=1 où n est le nombre total de processus achevés.
+TAM
+Équation 4 Le temps dattente moyen
+Espace de réponse pour Q16
+def criteres(self)
+1 . `  
+Interface de la classe fille FCFS
+7 1  . 
+Méthodes à implémenter
+Q17. elire(.. .) élit le processus ayant le temps darrivée minimal parmi les processus ayant un temps darrivée inférieur ou égal à linstant actuel de Thorloge.
+Espace de réponse pour Q17
+class FCFS (StratégieOrdonnacenent) def elire(self) 1 2  e
+Concours MP; PC et T
+Session Juin 2023
+Epreuve d'Informatique Page 10/22
+
+--- page 11 ---
+Interface de la classe fille SJF
+Méthodes à implémenter
+Q18 elire(. . . ) élit le processus ayant la plus courte durée dexécution avec un temps darrivée inférieur ou égal au temps courant de Thorloge.
+Espace de réponse pour Q18
+class SJF (StratégieOrdonnacement) def elire(self)
+Interface de la classe fille RR Attributs
+entier positif valeur du quantum alloué aux processus
+Méthodes à implémenter
+Q19
+init (
+) initialise un attribut d'instance 9 partir du paramètre 9
+Espace de réponse pour Q19
+class RR (StratégieOrdonnacement) def init (self fp 9
+Concours MP, PC et T
+Session Juin 2023
+Epreuve d'Informatique Page 11/22
+
+--- page 12 ---
+Q20. executer (_ ') exécute le processus élu durant le quantum alloué
+Espace de réponse pour Q20 def executer(self)
+Q21. elire(.. . ) élit le premier processus de la file ayant un temps d'arrivée inférieur ou égal au temps courant de lhorloge.
+Espace de réponse pour Q21
+def elire(self)
+Partie II Programmation Procédurale
+Dans cette partie on s 'intéresse à simuler et à comparer les différentes stratégies dordonnancement appliquécs à unc filc dc proccssus supposés stockés dans un fichicr tcxtc où chaquc lignc cst dc la forme "nomP#taP#deP#etatPln
+A#O#3#Prêt B#l#8#Prêt C#2#6#Prêt D#3#4#Bloqué E#4#4#Prêt F#6#5#Prêt G#8#2#Prêt H#9#1#Prêt
+ 
+FIGURE
+Extrait d'un fichier texte décrivant une file de processus
+Pour un échantillon donné de processus; un algorithme dordonnancement est jugé performant sur la base de la comparaison de deux critères; le temps de réponse moyen (TRM) en premier lieu et le temps dattente moyen (TAM) en second lieu.
+Concours MP, PC et T
+Session Juin 2023
+Epreuve d'Informatique Page 12/22
+
+--- page 13 ---
+Q22 Écrire une fonction nommée processusTxt qui prend en entrée une ligne contenant les informations dun processus  comme illustré par la FIGURE et retourne une instance de la classe Processus Espace de réponse pour Q22
+def ProcessusIxt (ligne)
+Q23. Écrire une fonction nommée chargenent qui prend en entrée nomF le nom d'un fichier texte (comme indiqué sur la figure 1) et retourne une instance de la classe FileProcessus   contenant tous Ics proccssus du fichicr . Espace de réponse pour Q23
+def chargement (nonf)
+Q24. Écrire une fonction nommée sinulerStrategie qui prend en entrée clsStrategie une classe représentant   une stratégie dordonnancement   (FCFS, SJF, RR) . fp la file des processus duree un entier indiquant la durée totale de la simulation. paramètre optionnel qui prend par défaut None (quantum) - La fonction calcule et retourne un tuple contenant Le pourcentage de processus achevés Le temps de réponse moyen TRM (voir équation 3) Le temps dattente moyen TAM (voir équation 4) Ces grandeurs sont mesurées pour une simulation de la stratégie indiquée par la stratégie clsStrategie durant duree (avec un quantum 9 pour la stratégie RR)
+Concours MP; PC et T
+Session Juin 2023
+Epreuve d'Informatique Page 13/22
+
+--- page 14 ---
+Espace de réponse pour Q24
+def simulerStrategie(clsStrategie fp, duree
+Mone)
+Q25 Écrire un script qui permet d'effectuer les étapes suivantes Charger la file des processus à partir du fichier texte "Processus txt (supposé existant ) Demander à lutilisateur de saisir deux entiers positifs d et 9 décrivant respectivement la durée totale de la simulation et le quantum utiliser pour la méthode préemptive Initialiser 3 Matrices mTermines; mTAM et mTRM (np.ndarray)   ayant 3 lignes et d colonnes où Chaque indice de ligne i  représente une stratégie d'ordonnancement 0 pour FCFS, 1 pour SJF et 2 pour RR) Chaque indice de colonne j  représente une durée totale de simulation (j -1) en cycles dhorloge. La simulation se déroule comme suit Pour chaque stratégie dordonnancement (indice de ligne) et pour chaque indice de colonne j. Copier la liste des processus dans un objet cfp (utiliser la fonction deepcopy du module copy voir Annexe) Remplir nTermines, nTAMet mTRM à patir du résultat de la fonction simulerStrategie tel que nTerninesli, jl contiendra le pourcentage de processus   terminés suite à la simulation de la stratégie i pour une durée totale de j --1. mTAMli, jl contiendra le temps dattente moyen suite à la simulation de la stratégie i pour une durée totale de j-1. nTRMli, jl contiendra le temps de réponse moyen suite à la simulation de la stratégie i pour une durée totale de j-l. e) Finalement tracer les courbes illustratives des pourcentage de processus achevés; temps d'attente moyen et temps de réponse moyen pour chaque stratégie et chaque durée de simulation.
+Concours MP, PC et T
+Session Juin 2023
+Epreuve dInformatique Page 14/22
+
+--- page 15 ---
+Espace de réponse pour Q25
+1 .
 
 
+ s
 
 
+Concours MP PC et T
+Session Juin 2023
+Epreuve dInformatique Page 15/22
 
+--- page 16 ---
+Partie III Base de Données Relationnelle
+Le ministère du transport fait appel à votre expertise pour manipuler une base de données rela- tionnelle dans lobjectif de gérer en partie linfrastructure ferroviaire à l'échelle nationale Règles_de_gestion et contraintes à considérer
+Dans notre contexte une gare ferroviaire de voyageurs est un lieu darrêt des trains pour la montée et la descente des passagers Une gare peut jouer le rôle darrêt, de départ et/ou arrêt   transitoire et/ou arrêt  de terminus Dans une gare de départ ou de terminus un train est mis au repos pendant un certain nombre d'heures Une ville peut contenir une ou plusieurs gares_ Un voyage permet de desservir un ensemble de gares. Tout voyage par train doit nécessairement avoir une gare de départ, une gare de terminus et éventuellement un ensemble de gares darrêts transitoires.
+Le schéma relationnel de la base de données ayant le nom 'ferroviaire.db" est défini par les relations suivantes
+Ville(idVille nomVille; nbHabitants La table Ville, stocke les différentes informations relatives aux villes; est caractérisée par les attributs suivants idVille identifiant pour distinguer les différentes villes; clé primaire de type entier . nomVille dénomination dune ville, de type chaîne de caractères nbHabitants nombre dhabitants d'une ville; de type entier
+Gare(idGare; nomGare,#idVille) La table Gare; stocke les informations des gares, est caractérisée par les attributs suivants idGare identifiant de la garc, clé primaire de type chaîne dc caractères_ nomGare dénomination distinctive attribuée à la gare de type chaîne de caractères. idVille référence le numéro de la ville où se trouve la gare, de type entier, clé étrangère qui fait référence à la table Ville.
+Irain(idIrain, dateMiseService,capacite) La table Train; stocke les informations relatives aux trains; est caractérisée par idTrain identifiant du train; clé primaire de type chaîne de caractères. dateMiseService date de mise en service du train, de type Date ("AAAA-MM-JJ") capacite capacité d'accueil maximale du train, de type entier
+Voyage(idVoyage; dateHeureDepart, dateHeureArrivee; #idGareDepart,# idGareTerminus #idTrain) La table Voyage, stocke les informations des voyages; est caractérisée par les attributs suivants idVoyage identifiant du voyage; clé primaire de type chaîne de caractères.
+Concours MP, PC et T
+Session Juin 2023
+Epreuve dInformatique Page 16/22
 
+--- page 17 ---
+dateHeureDepart date et heure de départ pour un voyage assuré par un train partir de sa gare de départ, de type datetime AAAA-MM-JJ HH:MM: SS") dateHeureArrivee date et heure darrivée pour un voyage; assuré par un train; à sa gare terminus; de type datetime ("AAAA-MM-JJ HH:MM:SS") idGareDepart identifiant de la gare de départ de type chaîne de caractères; clé étrangère qui fait référence à la table Gare. idGareTerminus identifiant de la gare terminus de type chaîne de caractères; clé étrangère qui fait référence à la table Gare. idTrain identifiant du train qui assure le voyage de type chaîne de caractères, clé étrangère qui fait référence à la table Train Desservir(#idVoyage #idGareArret; dateHeurePassage _ La table Desservir stocke Tensemble des gares desservies pour un voyage; est caracté- risée par les attributs suivants idVoyage identifiant dun voyage, de type chaîne de caractères; clé étrangère qui fait référence à la table Voyage idGareArret identifiant dune gare de type chaînc de caractères, clé étrangère qui fait référence à la table Gare dateHeurePassage date et heure de passage dun train à la gare, de type datetime ("AAAA-MM-JJ HH:MM:SS" ) . NB idVoyage et idGareArret ensemble   forment la clé primaire de la table Desservir Il est aussi à noter que la table Desservir ne stocke pas les gares de départ et de terminus pour un voyage donné
+Iravail demandé
+Algèbre relationnelle
+Exprimer en algèbre relationnelle les requêtes permettant de Q26. Donner les noms des villes qui contiennent des gares desservies par le voyage didentifiant "V23"
+Espace de réponse pour Q26
+Concours MP; PC et T
+Session Juin 2023
+Epreuve d'Informatique Page 17/22
 
+--- page 18 ---
+Q27.Quels sont les noms des villes dont le nombre dhabitants dépasse 100000 et qui ne contiennent aucune gare.
+Espace de réponse pour Q27
+SQL
+Q28. Écrire la requête SQL qui permet de créer la table Desservir en respectant les contraintes dintégrité déjà su-citées. Les autres tables sont supposées déjà créées.
+Espace de réponse pour Q28
+Dans la suite on suppose que les tables de la base de données sont remplies en respectant   les contraintes et les règles de gestion su-citées
+Répondre aux questions suivantes par des requêtes SQL.
+Q29. Si le train d'identifiant "TR77" circule le premier juin 2023 8h, déterminer   toutes les informations relatives à son voyage.
+Espace de réponse pour Q29
+Concours MP; PC et T
+Session Juin 2023
+Epreuve dInformatique Page 18/22
 
+--- page 19 ---
+Q30. Déterminer le nombre de gares pour chaque ville.
+Espace de réponse pour Q30
+Q31- Donner toutes les informations relatives aux gares qui sont à la fois gare de départ et gare terminus pour un même voyage.
+Espace de réponse pour Q31
+Q32. Déterminez pour chaque voyage le nom de la ville de départ, le nom de la ville d'arrivée ainsi que les dates et heures de départ et darrivée
+Espace de réponse pour Q32
+Concours MP, PC et T
+Session Juin 2023
+Epreuve dInformatique Page 19/22
 
+--- page 20 ---
+Q33 Donner toutes les informations des voyages qui desservent le maximum de gares Espace de réponse pour Q33
+SQLITE
+Dans la suite les fonctions demandées doivent être écrites en Python en désignant par cur le curseur dexécution de requêtes
+Q34 Écrire la fonction trainV qui prend comme paramètres cur le curseur d'exécution des requêtes idV Tidentifiant dun voyagc retourne idT lidentifiant du train qui a assuré le voyage idV. Espace de réponse pour Q34 def TrainV(cur idV)
+Q35. Écrire la fonction circuitVoyage qui prend comme paramètres cur le curseur dexécution des requêtes idV Fidentifiant dun voyage ; retourne un dictionnaire dont la clé est un tuple composé de lidentifiant du voyage idV et Tidentifiant du train qui Fassure. la valeur est une liste de tuples où chaque tuple contient le nom de la ville; la gare; la date et heure dans un ordre chronologique croissant . L'extrait qui suit montre un exemple
+Concours MP, PC et T
+Session Juin 2023
+Epreuve d'Informatique Page 20/22
 
+--- page 21 ---
+{('Vo1 IR1O' ) : [( 'GABES 'GARE-GAB 2023-01-15 11:15:00')_ SFAX GARE-MAH 2023-01-15 12.30:00' ) 'SFAX GARE-SF 2023-01-15 13:15:00' ) SOUSSE GARE-SOU ' 2023-01-15 15:15.00' ) TUNIS GARE-TUN 2023-01-15 18:00:00')]
+Espace de réponse pour Q35 def CircuitVoyage(cur ,idV)
+Concours MP, PC et T
+Session Juin 2023
+Epreuve d'Informatique Page 21/22
 
-
-
-
-
-
-
-
-
-
-
+--- page 22 ---
+Q36.  Écrire la fonction circuitsVoyages qui prend en paramètre cur et retourne la liste des dictionnaires des circuits de tous les voyages en faisant appel à la fonction circuitVoyage de la question Q35. L'extrait qui suit montre un exemple
+{( 'VO1 TR1O' ) : [( 'GABES GARE-GAB 2023-01-15 11:15:00' ) SFAX GARE-MAH 2023-01-15 12:30:00 ' ) SFAX GARE-SF 2023-01-15 13:15:00' ) SOUSSE GARE-SOU ' 2023-01-15 15:15:00' ) TUNIS' GARE-TUN 2023-01-15 18:00:00 ' ) J} , {('VO2' IR12' ) : [( 'TUNIS GARE-TUN 2023-03-01 16:00:00 ' ) SOUSSE GARE-KAL 2023-03-01 17:15:00' ) SOUSSE GARE-SOU ' 2023-03-01 18:00:00' ) J}
+Espace de réponse pour Q36
+def CircuitsVoyages(cur)
+Concours MP, PC et T
+Session Juin 2023
+Epreuve d'Informatique Page 22/22

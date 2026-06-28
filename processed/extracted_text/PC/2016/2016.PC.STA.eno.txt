@@ -1,13 +1,259 @@
+--- page 1 ---
+4981 55234221 &bjxzlgsus {Æ@~Æb
+REPUBLIQUE TUNISIENNE
+Ministère de F'Enseignement Supérieur et de la Recherche Scientifique Concours Nationaux dEntrée aux Cycles de Formation d'Ingénieurs Session 2016
+Jrn ikyl 2jblI ùlll à Ly Ji 2016 52
+Concours Mathématiques-Physique Physique-Chimie Épreuve de Sciences et Techniques de ['Ingénieur
+Date Mardi 31 Mai 2016 Barème : Partie A : 3 points
+Heure 8 Heures Partie B : 10 points
+Durée : 3 Heures Partie C : 7 points
+L'épreuve comporte les trois parties suivantes
+Partie A- Technologie de conception Partie B- Mécanique des solides indéformables Partie C - Automatique
+Le sujet de l'épreuve remis au candidat comporte deux dossiers
+1- Présentation; Données et Hypothèses 2- Document Réponses
+Aucun autre document n'est autorisé . L'utilisation des calculatrices de poche non programmables est autorisée. Les différentes parties sont indépendantes et doivent être traitées sur le document réponses . Il n'est fourni au candidat qu'un seul_et unique dossier document réponses > qui doit être rendu en totalité, à la fin de l'épreuve; même sans réponses
 
+--- page 2 ---
+DOSSIER
+PRESENTATION, DONNEES ET FYPOTHESES
+Ce dossier comporte 12 pages numérotées de 1/12 à 12/12
+Présentation générale
+Pages 1/12 à 2/12 ;
+Données et hypothèses Partie A
+Pages 3/12
+Données et hypothèses Partie B
+Pages : 4/12
+8/12;
+Données et hypothèses Partie C
+Pages 9/12
+12/12;
 
+--- page 3 ---
+STI Mathématiques Physique & Physique Chimie
+Dossier Présentation; Données et Hypothèses
+ATELIER DE FABRICATION DES PIECES MECANIQUE
+Présentation générale
+La figure montre un schéma simplifié dun atelier de fabrication par la mise en forme des pièces mécaniques. Cet atelier est composé principalement des quatre unités suivantes
+Unité 1 Approvisionnement des lopins par gravitation (pièces à déformer) . Unité 2 : Chargement et de chauffage: Unité 3 Transfert /évacuation Unité 4 Presse mécanique de mise en forme (forgeage)
+La pièce à létat initial appelée - lopin arrive par gravitation à lunité 2 Un vérin VI introduit les pièces dans le four de chauffage: Après un temps de chauffage bien étudié, la pièce dont   la température satisfait  le procédé de  la mise en forme, sera transférée   par un robot manipulateur vers une presse mécanique pour être forgée et prend sa forme finie La pièce dont la température n'est pas conforme au procédé de mise en forme sera évacuée; par un vérin V2, vers une benne de récupération.
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2016
+Page 1/12
 
+--- page 4 ---
+1
+4 
+ 1
+1 g ; g ~ 1 ; 2 1 2 P  ; 1
+1 :
+] 1 1 1 1 1 3l 1 1 J 5
+;
+8 1l 8
+6 ;
+s 1 9 1 1 1 | 8 1 ; 1 1 8 6 Ji 9 8 8 5 ] ; 1
+1 8 p 1 4 ; 1 1 1 1
 
+--- page 5 ---
+STI Mathématiques Physique & Physique Chimie
+Dossier Présentation, Données et Hypothèses
+PARTIE A TECHNOLOGIE DE CONCEPTION
+Cette partie comporte Une étude danalyse fonctionnelle de /atelier de fabrication Une étude graphique d'une pièce du robot appelée - <chapes représentée par la figure A.1;
+Figure A1 Vue en 'perspective de la chape.
+Le travail demandé est explicité dans les pages de 1/16 à 2/16 du dossier document réponses.
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2016
+Page 3/12
 
+--- page 6 ---
+STI Mathématiques Physique & Physique Chimie Dossier Présentation; Données et Hypothèses PARTIE B : MÉCANIQUE DES SOLIDES INDÉFORMABLES
+Présentation L'étude porte sur le mécanisme dune presse mécanique; représentée par le schéma cinématique plan équivalent de la figure B.1_ La presse dispose de Un   vilebrequin   (1), figure B.2, muni de trois   excentriques, est entrainé en rotation par un motoréducteur (non représenté sur la figure B.1) Un coulisseau entrainé en translation par Pintermédiaire de la bielle (2), elle-même entrainée par Yexcentrique situé au centre du vilebrequin Un coulisseau entrainé en translation par les deux autres excentriques du vilebrequin et à travers un système {(4,49), (5,59) et (6, 6)} (figure B.2). Les biellettes (4) et (4) sont disposées en parallèle et transmettent des efforts identiques aux manivelles   (5) et (5') qui sont; eux aussi, disposés en parallèles pour agir, respectivement; sur les bielles (6) et (6') . La presse est spécialement conçue pour la mise en forme (déformation plastique) de pièces mécaniques à Caide dun poinçon solidaire du coulisseau (3). La pièce à mettre en forme est placée entre deux matrices Yune inférieure; est fixée au bâti (0) de la presse et Yautre; supérieure; est solidaire du coulisseau (7) . Ainsi la rotation du vilebrequin (1) engendre la translation des coulisseaux (3) et (7). La mise en forme de la pièce exige que les deux moitiés de la matrice soient fermées avant que le coulisseau (3) introduit le poinçon dans la pièce. Le coulisseau (7) descend pour la fermeture et le maintien de la matrice supérieure: Durant le temps de la fermeture; le poinçon; fixé au coulisseau (3), descend pour déformer la pièce: Les figures B.3 et B.4 montrent lévolution des positions et des vitesses des coulisseaux (3) et (7) On donne; dans le tableau B.1 , les caractéristiques techniques de la presse Tableau B. Caractéristiques techniques de la presse Pmot Puissance maximale au niveau du vilebrequin fournie par le moto-réducteur Pmot 45 KW
+Nm Vitesse de rotation du moteur Nr Vitesse de rotation du vilebrequin Course du coulisseau (3)
+Nm 750 tours /min
+Nr 70 tours min
+Amax Amin 0,16 m
+Course du coulisseau
+Umax Lmnin 0,14 m Force maximale du coulisseau (3) pour la mise en forme de la pièce Fs 2.106 N Force maximale du coulisseau pour la mise en forme de la pièce Fr = 4.106 N
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2016
+Page 4/12
 
+--- page 7 ---
+STI Mathématiques Physique & Physique Chimie Dossier Présentation; Données et Hypothèses Schéma cinématique et repérage Le schéma cinématique plan équivalent de la presse ainsi que Yorientation des bases des différents repères liés aux solides sont représentés sur la figure B-1.
+T/6
+Z0
+01
+Yo
+120?
+u
+02
+Xs
+2
+Jo 05 Js
+Xs
+J4
+04
+Ys
+X5
+Y6
+7
+Yo
+X
+X
+Figure B.1 Schéma cinématique plan équivalent du mécanisme de la presse:
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2016
+Page 5/12
 
+--- page 8 ---
+STI Mathématiques Physique & Physique Chimie
+Dossier Présentation; Données et Hypothèses
+Axc fisc
+Are fixe
+Are fise
+6
+Figure B.2
+Le mécanisme équivalent représentant la presse est composé des solides suivants (figure B.1); Un bâti (0) auquel est lié le repère R o (O,fo,Jo, Z0 supposé  galiléen. Laxe (O,Fp) étant vertical descendant Un vilebrequin (1) est en liaison pivot daxe (O, 70 avec le bâti (0). R (O,xpJ, z) et R;(O,u, v,2) sont deux repères liés à (1) tel que (x,u) =(Vv v) = T/6 . Son mouvement par rapport Ro est paramétré par Yangle € (Xo,x1) Une bielle (2) est en liaison pivot daxe (A, Z0 avec le vilebrequin (1). Rz(A,wz,)2, 4) est le repère lié à (2) Son mouvement par rapport à Ro est paramétré par V'angle 0 = (Fo,72) Un coulisseau (3) est en liaison pivot daxe (B, Zo) avec la bielle (2). Il est également en liaison glissière daxe (B,xo avec un coulisseau (7) R , (B,Xo, Yo, zo ) R est le repère lié à (3). Son mouvement
+par rapport à Ro est une translation rectiligne paramétrée par OB =( % + 2)vo Une manivelle 5) est en liaison pivot daxe (D, z0) avec le bâti (0). Rs(D,xs,Ys, 2  est le repère lié à (5). Son mouvement par rapport à Ro est paramétré par l'angle 0, = (*0 ,*5) Une biellette est en liaison pivot daxe (C, zo) avec le vilebrequin (1). Elle est aussi en liaison pivot daxe (E, i0) avec la manivelle (5). R,(E,x,,/4, Z) est le repère lié à (4). Le mouvement de R, par rapport à Rs est paramétré par langle 0 = (v5,X4) ;
+Concours nationaux dentrée aux cycles de formation dinge énieurs
+Session 2016
+Page 6/12
 
+--- page 9 ---
+STI Mathématiques Physique & Physique Chimie
+Dossier Présentation, Données et Hypothèses Un bras est en liaison pivot daxe (F, Z0 avec la manivelle (5). R6(F,X6,V6, Zo) est le repère lié à (6). Son mouvement par rapport à Ro est paramétré par langle € (xo  Un coulisseau est en liaison pivot daxe (G, Z0 avec le bras (6). Il est également   en liaison glissière de direction *o avec le bâti (0). R ,(G,Xo,Vo, Z0 est le repère lié à (7). Son mouvement de translation rectiligne par rapport à Ro est paramétré par OG =(Ho + u)vo- Données et hypothèses
+OA = RF[
+AB = L2x2
+OB = ( % + 4)vo
+OC = Rv ; OD =-axo-byo
+DE = Ls1xs
+EF = L52 %5 EC =Lqj4 ; FG = L6 * OG =(Ho + J)xo. a, b, R, L2, L4, L5l, Ls2 , L6 2o et Hlo sont des grandeurs géométriques constantes 0, 02, 0, 05, 86, 2 et u sont les paramètres du mécanisme (variables temporelles) Tous les mouvements sont dans le plan (O, *o ,yo) (mouvements plan sur plan) Le vilebrequin (1) de centre dinertie G1 (G120) a une masse m1 Son axe (O, 2 est Un axe principal dinertie. Le moment dinertie de (1) par rapport à Paxe (O, 70) est noté I1 ; Le centre dinertie G3 du coulisseau (3), de masse m3, est situé sur laxe (B, *o ) ; Le centre dinertie G7 du coulisseau (7), de masse m , est situé sur laxe (G, *o) ; Pour les autres solides, les masses sont supposées négligeables; Toutes les liaisons sont supposées parfaites sauf pour les deux liaisons glissières de direction xo La liaison du coulisseau (3) avec le coulisseau (7) et celle du coulisseau avec le bâti (0) sont supposées avec frottement de glissement de coefficient f; L'accélération de la pesanteur est g = g *o où g est une constante positive Le vilebrequin est actionné par un motoréducteur produisant un couple :Ce =Ce 70 Lors de la séquence de mise en forme de la pièce (séquence objet de cette étude) , F; *o L'action du coulisseau (3) sur la pièce est modélisée par le glisseur {r(3 _ pièce)} B 0
+F7 *o 9 0
+et l'action du coulisseau
+sur   la 'pièce est modélisée par le glisseur {r(7 _ pièce)}G
+Nota Dans le cas dun mécanisme   plan de normale z0 le torseur des actions mécaniques transmissibles au niveau dune liaison de centre entre deux solides et est noté Bo Xij {z(i > j)}p Yij Avec B , =(K0,Yo, 2,) Nij J0
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2016
+Page 7/12
 
+--- page 10 ---
+STI Mathématiques Physique & Physique Chimie Diagrammes de positions et de vitesses des coulisseaux
+Dossier Présentation; Données et Hypothèses
+et
+Remarque à Pinstant t = 0 s, 0 Trad
+@ 0,16 0,14 1 0,12 0,10 ; 0,08 1 0,06 0,04
+Position du coulisseau Position du coulisseau
+0,02
+Femps
+0,00 0,0
+0,1
+0,2
+0,3
+0,4
+0,5
+0,6
+0,7
+0,8
+0,9
+Figure B.3 : Diagrammes de positions des coulisseaux
+0,80 5 0,60 1 0,40 0,20 # 0,00 1 ~0,20 -0,40 1 ~0,60
+Vitesse du coulisseau Vitesse du coulisseau
+[Temps (s)
+-0,80
+Figure B.4 Diagrammes de vitesses des coulisseaux
+Le travail demandé est explicité dans les pages de 3/16 à 10/16 du dossier document réponses
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2016
+Page 8/12
 
+--- page 11 ---
+STI Mathématiques Physique & Physique Chimie Dossier Présentation; Données et Hypothèses PARTIE C : AUTOMATIQUE
+PRESENTATION
+Le système (figure 1) constitue une partie de latelier  de fabrication des   pièces mécaniques.  Il est construit autour dune unité de chargement et de chauffage des pièces métalliques (opins) , entièrement automatisée. Cette unité comporte un four tunnel à sole motorisée. Ce four est équipé dun pyromètre à nnfrarouge qui mesure la température   des lopins préalablement   chauffés à une température  fixée par le cahier des charges. La présente partie C du sujet de concours comporte deux sections Une première section concerne létude dun système logique permettant de contrôler la température des lopins sortant du four; Une deuxième section s'intéresse à létude du système de régulation de la température du four.
+C.I- ETUDE D'UN SYSTEME LOGIQUE CONTROLANT LA TEMPERATURE DES LOPINS . Il sagit dun circuit de logique combinatoire (figure C.1) qui compare deux températures une de consigne (Tc) fixée préalablement en fonction du matériau de la pièce à chauffer et une autre, (Tm) mesurée par le pyromètre: Ces 2 grandeurs seront converties en code binaire pour être comparées: Nous allons nous limiter dans cette partie à la comparaison des 2 bits du poids le plus élevé. Ainsi; nous considérons Tc (xy)z et Tm (uv)z Le système est composé de deux sorties une (S0) spécifiant Tégalité ou la supériorité de Tm par rapport Tc (S0=1 Tm 2 Tc) et Pautre (S1) si Tm est inférieure à Tc (S1=1: Tm Tc). Dans notre cas (figure C.1), les grandeurs binaires à comparer sont respectivement les 2 bits de sortie du système de mesure (uv) via le capteur infrarouge et ceux (xy) de la consigne
+Système de Mesure de de la température
+Capteur infrarouge
+Tm= (uv)z
+So
+Comparateur (So=1 si Tm2Tc) (S1=1 si Tm<Tc)
+Température de Consigne
+Tc= (xy)z
+S1
+Figure C.1 Synoptique du système logique de comparaison
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2016
+Page 9/12
 
+--- page 12 ---
+STI _ Mathématiques Physique & Physique Chimie
+Dossier Présentation; Données et Hypothèses
+C.2- SYSTEME DE REGULATION DE LA TEMPERATURE DU FOUR Le chauffage des lopins est effectué par élévation de leur température à des niveaux élevés. Cette température nécessite ainsi une régulation optimale afin de ne pas endommager les pièces. Le schéma de principe; de cette régulation; est représenté par la figure C.2
+Four
+Résistance chauffante 9(t)
+Amplificateur de puissance
+Lopin
+Tension de commande u(t)
+Tension Vc(t) image de la consigne de Température Tc(t)
+Régulation
+Tension Vm(t) fournie par le capteur de température T(t)
+Figure C.2 Schéma de principe de la régulation de température dans le four
+Le schéma bloc de la régulation de température est illustré sur la figure C.3. Cette modélisation tient compte de leffet dune perturbation Ta(p) (effet de la température ambiante lors de /ouverture de la porte du four et Yinfluence des lopins froids lors de leur introduction) Toutes les températures utilisées dans la présente étude représentent des valeurs relatives à la température ambiante afin de satisfaire des conditions initiales nulles.
+Ta(p)
+Tc(p)
+Vc(p) kc
+ep
+U(p) C(p) Vm(p)
+Q6p H(p)
+T(p)
+kc
+Figure C.3 Schéma bloc de la régulation de température du four Tc(p) est la consigne en température C), C(p) est la fonction de transfert du correcteur, T(p) est la température du four ( C), Q(p) est la puissance calorifique fournie au four A : est le gain de puissance de valeur A =200 W/V,
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2016
+Page 10/12
 
+--- page 13 ---
+STI Mathématiques Physique & Physique Chimie Kf H(p) avec Kf =0.4 C/W T1 =20s Tz =300s, (1+t1p)(l+rzp) kc est le gain du capteur de température; kc =0.01V/ C,
+Dossier Présentation; Données et Hypothèses
+Notons par F(p) la transformée de la Laplace dune fonction f(t) F(p)= L(f(t)).
+La figure C.4 représente la réponse indicielle en boucle fermée du système; non perturbé; pour deux types de correction 700 correcteur PID correcteur PI 600
+525 500 ! 475 400 1 300 200
+agrandissement
+100
+2000
+250 500 750 10Oo
+1500
+2000 2500 3000 3500 4000 temps (s) Figure C4: Réponse indicielle du système en boucle fermée
+4500
+5000
+Les   performances souhaitées pour le   système de   régulation   de  la   température du four sont représentées dans le tableau C.1:
+Tableau C.1 . Performances souhaitées du Système Performances Valeurs souhaitées Précision Erreur statique nulle avec rejet de perturbation Stabilité Marges de phase 2 45 Marges de gain 28dB Rapidité Temps de réponse à 5% 16 minutes
+Les diagrammes de Bode de la fonction de transfert en boucle ouverte (FTBO) du système corrigé sont donnés à la figure C.5
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2016
+Page 11/12
 
+--- page 14 ---
+STI Mathématiques Physique & Physique Chimie
+Dossier Présentation; Données et Hypothèses
+5 8 =20
+10-2
+10'
+100
+g p 100
+=150
+=200 10-4
+10 !
+10"
+10 ? Pulsation (rad/s)
+Figure C.5 : Diagrammes de Bode de la FTBO du_système avec   correcteur PID.
+La courbe donnant le temps de réponse réduit   (ts%X@b) dun système du second ordre en fonction du coefficient damortissement ! est donnée par la figure C.6: 100
+3
+* 1 1 4 f
+0.1
+Coefficieut damortissement $
+Figure C.6 Temps de réponse réduit en fonction du coefficient damortissement. Le travail demandé est explicité dans Jes pages de 11/16 à 16/16 du dossier document réponses.
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2016
+Page 12/12
+10 ~
+10 *:
+10-?

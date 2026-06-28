@@ -1,9 +1,143 @@
+--- page 1 ---
+A553W15i24*3) #kallisps {lës
+REPUBLIQUE TUNISIENNE Ministère de FEnseignement Supéricur ct de la Recherche Scientifique
+Concours Nationaux dEntrée aux Cycles de Formation d'Ingénieurs Session 2012
+dssal Sibsl @Ljslin) Uhniji issulydi 2012 {9 SitUT Prepara)oips Concours Biologie et Géologie QPUOTHEQUD) Epreuve de Phiysique SFAx Eaudss Dunseairus Date Jeudi 07 Juin 2012 Heure 8 H Durée : 3 H Nbre pages 04 Barème Problème 1 : 12 pts Problème 2 08 pts
+L'usage d'une calculatrice non programmable est autorisé
+L'épreuve est constituée de deux   problèmes   indépendants.
+Un candidat peut toujours se servir d'un résultat fourni par l'énoncé pour continuer sa composition
+Problème 1 :
+1 Préliminaires:
+X
+On considère deux sources ponctuelles cohérentes S1 et S2 repérées;   respectivement; par   leurs N? coordonnées (% 0, ~D) et S1 (~%,0,-D) émettant, dans le a vide, S2 deux ondes   lumineuses de même longueur d'onde 1 et D dintensités respectives Ip et I2. Figure 1 La vibration lumineuse issue de chaque source s'écrit: s(S,t) = Si cos(@t) ; i=1;2 Les deux   vibrations lumineuses issues de S1 et S2 interfèrent en un point M (x,y,0) de l'écran placé à une distance D (voir Figurel) La différence de marche entre ces deux vibrations est détinie par G(M) = (S2M)-(S,M) 1.1. Déterminer les expressions des chemins optiques (S,M) et(SzM) en fonction de x; y, a et D 12. Sachant que   la distance D est tel que D>|| D>lyl et D> @ , montrer   que la différence de marche 8(M) est donnée par 8(M) = %x D 1.3. Donner les expressions des vibrations lumineuses s (M,t)et s2(M,t) qui interfèrent en M. 14. Déterminer l'expression de l'intensité lumineuse résultante I(M) Concours Biologie et Géologie-Session Juin 2012 Epreuve de Physique Page 1/4
 
+--- page 2 ---
+15.
+L5.a) En  déduire   Fexpression du contraste   défini C = Inax Imin par où 1 max et 1 ID sont Imax + Imin respectivement; les valeurs maximale et minimale de T'intensité I. 15.b) Dans quel cas le contraste est-il maximal?
+IL. Miroir_de Lloyd: IL.1 . On considère le dispositif du miroir de Lloyd constitué dun miroir plan; éclairé 4+ par une Figure 2 source ponctuelle monochromatique 5 d'intensité 1o, placé à une distance h du plan du M miroir et à une distance D de F'écran d'observation (E) L'écran (E) est h perpendiculaire au miroir et confondu avec le plan (xOy) (voir figure 2) Le dispositif est plongé dans Vair. b Données: h=2mm D=0.8 m b=0.5 m 1 =540 nm. IL1.1  Représenter schématiquement le champ d'interférences. IL1.2. Déterminer la différence de marche entre deux rayons issus de S et qui interfèrent en M. IL.1.3.  Montrer, alors; que Pintensité Iumineuse s'écrit 4hx I(M) = 21 1 cOS AD IL1.4 Quelle est la nature de la frange qui passe par 0 ? Justifier . IL1.5. Décrire la figure dinterférences observée sur l'écran. IL.1.6. Déterminer les positions des franges brillantes et des franges sombres . IL.1.7. Définir et calculer l'interfrange i. IL.1.8. Calculer la largeur L de la zone dinterférences sur l'écran. Déduire le nombre de brillantes observées . franges IL1.9 Décrire; qualitativement; leffet de la translation de la source $ a) dans la direction (Oy) b) dans la direction (Ox) A x II.2. On considère maintenant; deux sources Figure 3 ponctuelles monochromatiques S1 et S2, S2 de même intensité Io, émettant la même longueur donde 1 placées, h2 S1 respectivement; à des distances h, et h2 hi du plan du miroir . (voir Figure 3) b D I1.2.1. Déterminer l'intensité I(M) en un point de M de lécran. On donne: cos a + cos b = a +b 2cos a -b cos 2 2 I12.2. Déterminer le contraste C(x) . I12.3. Déterminer la valeur de x pour laquelle le contraste C sannule pour la première fois. II.2.4. Tracer l'allure de I(M) I1.2.5. Décrire la figure d'interférences sur l'écran. IL3. On considère, maintenant; que la source ponctuelle S émet de la lumière blanche: Décrire la figure observée sur l'écran.
+Concours Biologie et Géologie-Session Juin 2012
+Epreuve de Physique
+Page 2/4
 
+--- page 3 ---
+Problème 2 : On s 'intéresse à l'étude de phénomènes  liés à la manifestent à la surface de tension superficielle, notéeo qui se séparation entre deux milicux fluides. On suppose que le champ de pesanteur est uniforme g = 9,8m.s 42 I. Formule_de Laplace: Ll. On considère une  goutte de liquide, supposée   sphérique; de augmentation réversible de la rayon R Sachant surface dA qu'1 une montrer la s'accompagne dun travail élémentaire SW que différence de pression entre Yintérieur et Textérievn de le goutte est: 20 Pint Pext = (Formule de Laplace) R 1.2. Les alvéoles pulmonaires sont Jes lieux des échanges gazeux entre l'air et le sang. film mince Une alvéole est assimilée à une sphère de rayon R, couverte par un film mince aqueux (voir Figure 4) MMIN La différence de pression entre les points M Alvéole Ey zoom et N; situés de part et d'autre de l'interface, est donnée par la formule de Laplace. Figure 4 1.2.a. En supposant que le film aqueux est formé de I'eau pure, calculer AP = PM - Pv On donne: R =0.05mm (lors de l'expiration) , 0 eau  72. 10-3_ Nm 2 12b. En réalité, le liquide constituant le film aqueux est un surfactant pulmonaire et la liquide physiologique aqueux appelé différence de pression est AP = 533 Pa Calculer laqalexrapp correspondante: Quel est; alors; le rôle du surfactant 0 II pulmonaire? Angle de raccordement: On considère une goutte de liquide immobile déposée ILL. Définir Vangle de raccordement 0 du sur un support solide. II.2. liquide en contact avec le solide Expliquer, SUr un schéma; la différence   entre un mouillant. Donner un liquide mouillant  et un liquide non exemple pour IIL chaque cas. Loide Jurin; En   plaçant un tube capillaire 2r dans une cuve d'eau, remplie de masse volumique P , on remarque que l'eau N monte à une hauteur h et que Finterface entre Y'eau et l'air est une calotte sphérique de rayon R (voir Figure 5) 8 IIL.1. Exprimer le rayon R de Tinterface entre Yeaur et Yair fonction du rayon r du tube et de Tangle de caccordenem 0 de l'eau avec la surface du tube . IIL.2. En   appliquant la oi de Thydrostatique;   déterminer la différence de pression entre les points Met N. IIL.3.  Montrer; alors; que la hauteur h est donnée B par 2o cos0 h = pgr Figure 5 III.4. 0n remplace Y'eau par du mercure:. Calculer la valeur de h dans r =Imm. Faire un schéma. un tube de verre de rayon Données: 0 mercure} verre = 135,20 p mnercure = 13600kg m ;0 = 0,5N.m 72 nercure
+Concours Biologie et Géologie-Session Juin 2012
+Epreuve de Physique
+Page 3/4
 
+--- page 4 ---
+III.5.  Dans les arbres, la sève conduit l'eau et les éléments nutritifs des racines aux feuilles. Elle est transportée dans des tubes capillaires fins appelés xylèmes. On veut expliquer le mécanisme permettant la montée de la sève dans les grands arbres. Dans la suite, la sève sera assimilée à de Peau pure = 103 kg m ~3 Psève et on s'intéressera à des arbres de hauteur H-SOm. Le rayon d'un xylème est r =1Sum. IIL.5.1. En appliquant la loi de Jurin; calculer la hauteur que peut atteindre la sève dans un arbre. On supposera que la sève est parfaitement mouillante. Commenter. IIL.5.2. L'eau; au niveau des feuilles, s'évapore sous leffet du rayonnement solaire. La pression au niveau des racines est P alm = 1bar . En appliquant la loi de lhydrostatique, déterminer la pression P, au niveau des feuilles. Calculer cette pression: Commenter. III5.3. On veut estimer la pression qu'il faut exercer pour diviser la colonne de sève dans le xylème en deux, ce qui consiste à faire apparaitre deux interfaces air-eau (voir figure 6) Pour cela, on assimilera cette colonne à un cylindre de section S. Une force de traction F, constante, est appliquée au niveau de la face supérieure de la colonne (voir figure 6) IIL.5.3.a. Exprimer le travail W nécessaire pour rompre la colonne en deux en fonction de 0 et $ IIL.5.3.b. En supposant que le travail des forces de courte portée & s'exerçant sur les molécules situées de part et dautre de la surface de séparation est W=Fl, déterminer la valeur de la F pression P = s On prendra : Q =10 nm IIL.5.3.c. En comparant les valeurs des pressions Pr et P; déduire le Figure 6 mécanisme expliquant la montée de la sève dans les arbres
+gin 2 @Gpenzg
+Concours Biologie et Géologie-Session Juin 2012
+Epreuve de Physique
+Page 4/4
 
+--- page 5 ---
+Correction de l'épreuve de phxsique (session 2012) Filière Biologic-Géologic Problème L :
+Question Correction Ll. (S1M) = nS M = SiM (n=1 car dispositif dans le vide) S1 = 4,0, D |;S2 = ~4,0, 2 D |M =(x,y,0) 2
+Barème
+@ a X = X +  2 2 S1M = y ;S2M = y D D
+2
+Ainsi:
+(S1M) = S1M 1
+x _ @ 2 + y + D
+(SzM) = SzM = X + Q 2 +y + D
+I2.
+D>> |x| ; D>> |y] D>> a On a alors:
+a X = y 2 (SiM) = SiM ~ Dl 1+ 2 *_ 2D 2D
+2
+X+ 9 y 2 et (S2M) = S2M ~ Dl1+ 2 + 2D 2D
+Ainsi ô(M) = (SM) -(S;M) Doù ô(M) ~ ax D
+13.
+S (M ,t) = S01 cos(ot Q) = S01 cos @t 27 (s,M ) ) 1 52 (M ,t) = S02 cos(ot 62) = S02 cos (t 27(s,M)) En notation complexe S2 (M,t) = So2e %(-w2) et S (M,t) = So1ei(ot -~9 ) La vibration résultante est
+1.4.
+Correction (Session Juin 2012)
+Epreuve de Physique
+Page 1/6
 
+--- page 6 ---
+s(M,t) = S  (M,t)+ S2 ( M,t) s(M,t) = ej(ot-9) 502 +S01e (0 ~9)7 L'intensité résultante est, alors I(M) = (s(M,t)s (M,t)) I(M) = S01 + $02 +2501802 cos(42 =61) I(M) = I +I2 + 2vI,I2 cos 27 ô(M) Avec : 1 =501 et I2 = 502 15.a) Imax Imin C = Imax + Imin Imax = In+ I2 + 2vI1Iz Imin =I+ I2 = 2vII2 2vIlz D'où C = I1+ I2 I5.b) C =C nax =1 si 1 = I2 ILLl. S' est Timage de S par le plan du miroir. Champ (E) a* M d'interférences
+2
+0.5
+S h
+S'
+D
+II1.2.
+La réflexion sur le miroir introduit un déphasage supplémentaire T 1 càd une différence de marche supplémentaire & sup 2
+0,5
+ax On a : 8 (M) = (S'M) - (SM) = géom D a étant la distance entre les deux sources $ et S', on a : a=2h 2hx On a alors 8géo(M) D Ainsi 8(M) = 2hx+2 D 2 Les intensités des sources S et S' sont égales:  I1 = I2 = Io 278 I(M) = 210 1+cos
++
+0,5
+IL1.3.
+I(M) = 2If1+cos 2z 2b" + 1 2
+Correction (Session Juin 2012)
+Epreuve de Physique
+Page 2/6
 
+--- page 7 ---
+4zhx I(M) =2I0 1 =cos 1D Le point 0 se trouve en x=0 I(0) = I(x = 0) = 0 La frange passant_par O est;_alors; sombre. Les surfaces d'égales intensités sont des plans déquation x=cte. Les   intersections de ces surfaces avec lécran donne des droites parallèles à (Oy) Les franges dinterférences sont, alors; des   franges   rectilignes parallèles à Vaxe (Oy) alternés sombres et brillantes. Eranges_brillantes: I = 1 Mlax = 410 4zhx coS = =1 AD 4zh X = (2n+1)r ; n entier 2D 1)AD X n + 2 2h Eranges_sombres: I = Inin = 0 4zhx cos =1 AD 4zh Xs = 2nz n entier 1D AD Xs" =n 2h L'interfrange iest la distance, sur Técran, entre deux fanges consécutives de même nature . 2D 1 ~Xbmv Xp 2h AN : i = 0,108 mm
+IL1.4.
+0,5
+IL1.5.
+0,5
+IL1.6.
+IL.1.7.
+0,5
+4 0,5
+IL1.8.
+D'après le théorème de Thalès = h D -b b h(D -b) Donc 1 = 6 AN: L =1,2mm 1 1,2 =11,11 1 0,108 On observe; alors, 11 franges brillantes. IL.1.9. I=I(x) . La translation de la source S parallèlement à: a. L'axe (Oy) rien ne change sur lécran. b L'axe (Ox): linterfrange_varie (si h augmente i_diminue) IL.2.1. Source S1: I(M) = 2I 1~cos 4nhx RD 4rh,x Source S2: Iz(M) = 2I 1 ~ cos )D Correction (Session Juin 2012) Epreuve de Physique Page 3/6
+0,5 + 0,5
+0,5
 
+--- page 8 ---
+S; et S2 sont incohérentes entre elles, T'intensité résultante en M est; alors; la somme: I(M) = I(M) + Iz (M) 4rhx 4nhx I(M) = 210 1 =cos +210 1 =cos 1D 2D 27 (h -h)x 2n (h + h)x I(M) = 410 1 =cos cos 1D 1D
+2,5
+II.2.2.
+27 (h = h )x C = cos 2D II.2.3. C(x) s'annule si 2n (h, ~h)x = 1 m + T ; m entier LD 2 1 AD Xm = m + 2 ) 2 (h -h ) La première annulation du contraste est obtenue pour JD X; = 4(h -h) 1I.2.4. I(x)
+0,5
+N II.2.5 En x=0, on observe une frange sombre (I=0) et le contraste est maximal. A partir de O, le contraste diminue; il s'annule pour la Ière fois en X]: on observe un brouillage de la figure (anticoincidance). A partir de Xp, les franges réapparaissent et le contraste augmente, il AD est maximal en x = (coincidance) 2 (h = h IL3. On observe au centre une frange noire (toutes les radiations ont une frange sombre en x=0) puis quelques franges lumineuse blanches irisées; bleues à Tintérieur et rouges à lextérieur (vu que Tinterfrange dépend de la longueur d'onde) . En s'éloignant encore, on observe rapidement un blanc dordre supérieur (qui lui manque quelques radiations 
+1
+Correction (Session Juin 2012)
+Epreuve de Physique
+Page 4/6
 
+--- page 9 ---
+Problème 2 :
+Question Correction LL. Une augmentation du rayon R de la goutte d'une quantité dR, s'accompagne dune augmentation de l'énergie de surface dune quantité  &W = odA (travail des forces de tension superficielle) Le travail effectué pour augmenter le volume de la goutte est: SW = ~(Pnt P cr{ )dV (travail des forces de pression) D'après le théorème de l'énergie cinétique: SW +8W = 0 Pour une sphère: A = 4rR? dA = 8z RdR 4 et V = = TRB dV = 4uR? dR 3 Ainsi odA = ( Pn P CX{ )dV = 0 8u RdRo 4zR? dR( Pnt - Pex ) = 0 4zR? dR ( 20 ( Pn ~Pe) |=0 R AP = P =P 20 Ilt exi R 12.a. = 20 AP = Pv - Pv R AN AP = 2880Pa I2.b. RAP 0 = A.N : * =13,325.10 23 Nm 2 Le surfactant pulmonaire est un tensio-actif il permet de diminuer les tensions qui s'exercent sur la paroi des alvéoles; ce qui empêche de ce fait la survenue d'un collapsus de celles-ci. Sans le surfactant on assisterait à un effondrement des alvéoles sur elles-mêmes qui se videraient de_leur air; empêchant de ce fait les échanges_gazeux. ILl. L'angle de raccordement (ou angle de mouillage) 0 dune goutte de liquide en contact avec un solide est langle que fait le plan tangent à la goutte avec le solide Plus @ est faible;_plus_le_liquide est mouillant. IL.2. Liquide mouillant Liquide non mouillant
+Barème
+3
+0,5
+0,5
+4
+0,5
+(exemple: leau)
+(exemple: le mercure)
+2
+angle aigu
+angle obtus
+Correction (Session Juin 2012)
+Epreuve de Physique
+Page 5/6
 
+--- page 10 ---
+IILL.
+R N
+On a : cos0 = r R r Donc : R = cos 0
+'M
+0,5
+IIL.2.
+Loi de lhydrostatique P = Pa - Pgh On a : Pv = PB = P Ul et 24 = 28 = PA = PB Donc : Pv = PA Ainsi PM = Pv = pgh On a : Pv - Pu = Pgh 20 2cos 0 et Pv - PM R 20cos 0 Par identification; on a : = Pgh
+1,5
+IIL.3.
+2
+20 cos 0 D'où h = (Loi de Jurin) . pgr IIL.4. Dans le cas du mercure: h =-5,32mm
+0,25 + 0,75
+IlL.5.1. h = 0,97m h < H La montée de la sève dans les grands arbres ne peut pas être expliquée par la loi de Jurin IIL.5.2. Ps = P PgH AN: P =-3,9.105 Pa = -3,9bar uon La sève est aspiréc_vers les feuilles depuis les racines. IIL5.3.a. W = 20S IIL.5.3.b. W = 2oS = Fl = B = F 20 S AN: P =144.105 Pa =144bar IIL.5.3.c. P >> P; :la pression exercée au niveau des feuilles n'est pas suffisante pour rompre la colonne de sève: Ainsi; la colonne de sève est aspirée, en bloc, des racines_aux feuilles.
+0,5
+1
+0,5
+1
+0,5
+Correction (Session Juin 2012)
+Epreuve de Physique
+Page 6/6

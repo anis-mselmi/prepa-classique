@@ -1,37 +1,99 @@
 --- page 1 ---
-#siUT Prf; CrlomQus 8 Sax* Goes ' 8 76528s
+sinuT PRF; {lrRe CelK Que) 67udgs 9 @rwesuaks
 Barème
 Problème I Problème II Problème III
 5,0 pts 8,0 pts 7,0 pts
 Instructions
-Cette épreuve comporte 9 pages. Tout résultat doit être écrit dans les cadres adéquats. L'usage des calculatrices électroniques de poche non programmables est autorisé Aucun échange entre les candidats n'est autorisé. Les résultats numériques sans unité ou avec une unité fausse ne seront pas comptabilisés: En cas de besoin utiliser les pages vides en fin du cahier. Dans ce cas; il faut le signaler dans la case allouée à la réponse remise en fin de cahier.
-Données relatives à lensemble du sujet
-Masses molaires (en g.mol-') de For Au = 197 et du nickel Ni = 59. Masses volumiques en phase liquide (en g.cm de For = 17,31 et du nickel = 7,81 . Paramètre de la maille cubique de For a 2 4,08 a.
-mode de réseau cubique primitifP centré [ à faces centrées F
-conditions de diffraction aucune h+k+lz 2n (pair) hk et / tous_pairs ou tous impairs
+Cette épreuve comporte pages. Tout résultat doit être écrit dans les cadres adéquats. L'usage des calculatrices électroniques de poche non programmables est autorisé. Aucun échange entre les candidats n'est autorisé. Les résultats numériques sans unité ou avec une unité fausse ne seront pas comptabilisés: En cas de besoin utiliser les pages vides en fin du cahier. Dans ce cas; il faut le signaler dans la case allouée àla réponse remise en fin de cahier.
+Données relatives à Pensemble du sujet
+Masses molaires (en g.mol de Por Au = 197 et du nickel Ni = 59. Masses volumiques en phase liquide (en g.cm de For = 17,31 et du nickel = 7,81 Paramètre de la maille cubique de For a = 4,08 R
+mode de réseau cubique primitif P centré à faces centrées F
+conditions de diffraction aucune h + k +1 2n (pair) h,k et tous pairs ou tous impairs
 A 298 K : Potentiels redox standard
-couples Eo
-Au IAu(sd) 1,498 = 10 7TT Produit de solubilité de Au(OH)3(sd) Ks
-H' IHz(g) 0
-Oz(gyHzO 1,230
-Produit ionique de Feau Ke = 10-14 RxT -xLn(x) = 0,06x logio (x) (en Volt) F
-Lor se trouve à Fétat métallique dans la nature, on dit à Fétat natif parce qu'il ne se fabrique pas, contrairement par exemple au fer qui se fabrique à partir des minerais de fer naturels (oxydes de fer). L'or se trouve partout sur notre planète, mais en très faible quantité c 'est un matériau très rare. Le symbole < Au > de For vient du latin < aurum 9  A température ambiante, Vor, de couleur jaune très caractéristique; est le métal le plus malléable.
+couples E'
+Au+/Au(sd) 1,498 Produit de solubilité de Au(Ol)3(sd) Ks = 10 244 [
+O2(gyHzO 1,230
+Produit ionique de Feau Ke = 10 RxT Ln(x) =0,06xlogio (x) (en Volt).
+L'or se trouve à Fétat métallique dans la nature, on dit à Fétat  natif parce qu'il ne se fabrique pas, contrairement par exemple au fer qui se fabrique à partir des minerais de fer naturels (oxydes de fer). L'or se trouve partout sur notre planète, mals en très faible quantité c'est un matériau très rare. Le symbole Au > de For vient du latin aurun température ambiante; For, de   couleur jaune très caractéristique, est le métal le plus malléable.
 Concours Technologie Session Juin 2013
+1/Hz(g)
 
 --- page 2 ---
-Situt Preparatons CibloTheque Problème I : Cristallographie Su9je } 05 Afin de déterminer   la structure cristalline dun solide, on peut utiliser méthodé de Debye-Scherrer qui consiste à sonder un échantillon cristallin poudreux en dirigeant sur celui-ci un faisceau monochromatique de rayons X laisceau poudre Les microcristaux; dont la taille peut varier entre 0,01 et incident 0,001 mm; sont orientés de façon aléatoire à Fintérieur de l'échantillon: Chaque microcristal orienté favorablement créé un rayon diffracté formant un angle @ avec Faxe démission du faisceau incident (fig ci- contre). Le rayonnement diffracté est alors analysé par un détecteur pouvant tourner autour dune monture circulaire centrée sur Véchantillon (chambre de Debye-Scherrer) . Le signal reçu présente un ensemble de raies réparties symétriquement par rapport aux orifices dentrée et de sortie du faisceau incident. 1) Donner la relation entre le paramètre < a > dune maille cubique et la distance entre deux_plans réticulaires consécutifs appartenant à la même famille hkl:
-2) En déduire la relation entre Fangle 0 et les indices de Miller h, k et / caractérisant les plans réticulaires responsables du signal reçu.
-3) Eor cristallise selon une maille cubique. La raie correspondant aux indices de Miller (111) est obtenue pour une réflexion de premier ordre pour Fangle @ = 38,149 dans le cas dun faisceau de longueur donde ^ = 1,54 %. Donner ]expression puis calculer le paramètre < a ) de maille.
-4) L expérience montre que, pour For, les  plans indices de Miller (100) et (110) ne diffractent pas_les rayons X. Quel est alors le mode de réseau correspondant ?
+AStiut PrepareIoiRs _ Ghblotheque ) Problème [ : Cristallographie Hr* Afin de déterminer   la structure cristalline dun solide; on peut utiliser e laPmiéthode de Debye-Scherrer qui consiste à sonder un échantillon cristallin poudreux en dirigeant sur celui-ci un faisceau monochromatique de rayons X Les microcristaux; dont la taille peut varier entre 0,01 et faisceau poudre incidenl 0,001 mm; sont orientés de façon aléatoire à Fintérieur de Féchantillon. Chaque microcristal orienté favorablement créé un rayon diffracté formant un angle 0 avec Faxe démission du faisceau incident (fig: ci- contre) . Le rayonnement diffracté est alors analysé par un détecteur pouvant tourner autour &une monture circulaire centrée sur Véchantillon (chambre de Debye-Scherrer) . Le signal reçu présente un ensemble de raies réparties symétriquement par rapport aux orifices d'entrée et de sortie du faisceau incident. 1) Donner la relation entre le paramètre < a > dune maille cubique et la distance entre deux plans_réticulaires_consécutifs appartenant à la même famille hkL
+2) En déduire la relation entre Pangle @ et les indices de Miller h, k et / caractérisant les plans réticulaires responsables du signal reçu:
+3) Lor cristallise selon une maille cubique. La raie correspondant aux indices de Miller (111) est obtenue pour une réflexion de premier ordre pour Fangle @ = 38,14 dans le cas d un faisceau de longueur donde 2 = 1,54 R_ Donner ]expression puis calculer le paramètre < a > de maille
+4) Lexpérience montre que, pour 1or, les   plans indices de Miller (100) et (110) ne diffractent pas_les rayons X_Quel est alors_le mode _de réseau correspondant
 2
 Concours Technologie Session Juin 2013
 
 --- page 3 ---
-Bstitvr PREf/ Crvonequi Ouo Gax 945455
-5) En déduire le rayon métallique_de_Lor
-Préciser les coordonnées_réduites_des plus_grands_sites dans la maille de Lor.
-7) On remplace tous les atomes dor < Au ) qui n'occupent pas les sommets du cube par des atomes dun élément < X >. 7.1) Représenter en perspective la nouvelle maille obtenue et son contenu:
-7.2) Déterminer la formule chimique du nouveau composé.
-73) Quel est le rayon maximum de < Xv pour lequel les atomes d'or deviennent tangents ?
-- 3
+Cstitur PIE?k  GQvonEce  ~RG , cN
+5)_ En déduire le rayon métallique_de Lor.
+Préciser les coordonnées réduites des plus grands sites dans la maille de [or
+On remplace tous les atomes dor < Au > qui n'occupent pas les sommets du cube par des atomes dun élément < X > 7.1) Représenter en perspective la nouvelle maille obtenue et son contenu:
+7.2) Déterminer la formule chimique du nouveau composé .
+7.3) Quel est le rayon maximum de < Xv pour lequel les atomes dor deviennent tangents ?
+3
+Concours Technologie Session Juin 2013
+
+--- page 4 ---
+asniTut Prepararoirs  42 GublotheQue  Problème II : diagramme binaire Or-Nickel On considère le diagramme isobare solide-liquide du binaire Au-Ni p" = 1 bar 0 ( C) 1600
+1400
+1200
+64%
+1000
+t42*,9429€)
+800
+%/,812%C)
+600
+400
+200
+20
+40
+80
+100 Ni
+Au
+pourcentage molaire
+1) Indiquer les phases existantes dans les domaines (1), (2), (3) et (4)
+Domaine (1) Domaine (2) Domaine (3) Domaine (4) 2) Dans quel domaine de température Tor et Ie nickel sont-ils totalement solubles ?
+3) Que représentent les points A B, C et E sur le diagramme Point A Point B Point C Point E 4) Nommer les courbes €, C2 C3 et C4 sur le diagramme: Courbe C1 Courbe C2 Courbe C3 Courbe C, 4 Concours Technologie Session Juin 2013
+
+--- page 5 ---
+SiTUT Pnetaaatcire _ Rruowiaur 5) Donner, au point A, les expressions des potentiels chimiques du constituant pur dans Ies deux phases en équilibre.
+Ecrire la (ou les) relation(s) que doivent vérifier les potentiels chimiques de For et du nickel dans le cas du système représenté par le point  G sur le diagramme.
+Tracer ]allure de la courbe danalyse thermique de refroidissement de 1100*C jusqu'à 600PC pour un mélange 42% molaire en Ni.
+8) A la   température de   1100 C maintenue   constante, on   ajoute progressivement   des quantités croissantes du nickel à 0,50 mL dor pur. 8.a) Décrire les phénomènes observés.
+5 Concours Technologie Session Juin 2013
+
+--- page 6 ---
+AshitUT Creparatoine moles des phases obtenues Ar 8.b) Donner [expression puis calculer   les  quantités (en lorsqu' on a versé 1,33 mL de Ni. Auges
+Problème III diagramme E-pH de Por Construction du diagramme de Pourbaix On se propose de construire le diagramme E-pH de For en considérant les espèces chimiques suivantes Au(sd) Au (aq) et Au(OH)B(sd): La concentration de Fespèce Au3+ en solution est prise égale à Ctra 10-6 molL-' 1) Etablir Fexpression puis calculer le pH de début de précipitation de lhydroxyde Au(OH)B(sd)
+Concours Technologie Session Juin 2013
+
+--- page 7 ---
+(smut = PaepaatqiRe _ CelotkE ?ur  (t {Es; E 4885 2) de E en fonction de E du produit de 2.a) Etablir lexpression Au(OH)u,s/ Au(sly Au 44)  Al{gu } solubilité Ks de Au(OH)a(sd)_et de la constante Ke d'autoprotolyse de Leau
+2.b Calculer sa valeur.
+couples redox mis en jeu et exprimer 3) Ecrire des demi-équations de réaction des différents leurs potentiels en fonction de pH
+Concours Technologie Session Juin 2013
+
+--- page 8 ---
+Sttut afaroine BRUUIMEQUe Gucgs rannne
+Tracer et indexer le diagramme E-pH de For; 2,00 E (V)
+Ctra =10-6 molL-I
+1,50
+1,00
+0,50
+0,00
+-0,50
+41,00
+pH
+2 = 24
+Etude de la dissolution de Por 5) Identifier les zones dimmunité, de passivation et de corrosion de 1or ainsi que la zone de stabilité de leau. Voir diagramme Lor est-il oxydé par les ions hydroniums H' Si oui, écrire Péquation-bilan de la réaction doxydation dune mole de Au métallique par ces ions.
+8
+Concours Technologie Session Juin 2013
+
+--- page 9 ---
+Mstrut (PREtARs owe GsuofHeQur) 7) Expérimentalement, on constaté que For métallique peut être attaque par de Léau régale un mélange d acide nitrique concentré (1/3) et d'acide chlorhydrique concentré (2/3) selon la réaction (non équilibrée) NOs(aq) + Au,sd) = NO,) + AuCl-(aq) 7.a) Quel est le nombre d oxydation de_Lor_présent dans_le composé AuCl; 2
+7.b) Ecrire_les 2 demi-réactions des couples redox considérés et équilibrer la réaction
+FIN DE LEPREUVE
 Concours Technologie Session Juin 2013

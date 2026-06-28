@@ -1,5 +1,119 @@
+--- page 1 ---
+4@8uiu2/4aj| &WE#lszls {4eys Uia Yibsi 2Uhlini Cnni Uucjlci 2010 ;19
+REPUBLIQUE TUNISIENNE
+Ministère de 1'Enscignement Supérieur et de la Recherche Scientifique
+Concours Nationaux d'Entrée aux Cycles de Formation d'Ingénieurs Session 2010
+Concours Mathématiques et Physique Epreuve de Physique
+Date
+Jeudi   03 Juin 2010
+Heure 2 8 H 00
+Durée : 4 H
+Nbre pages 06
+Barème
+Problème 1 : 09 pts
+Problème 2 : 11 pts
+L'usage d'une calculatrice non programmable est autorisé
+L'épreuve est constituée de deux   problèmes   indépendants:
+Un candidat peut toujours se servir d'un résultat fourni par l'énoncé pour continuer sa composition
+Problème 1
+Dans tout le problème lindice de lair sera pris égal à 1.
+Mastitut +"easivins 9 CIBUKQTHEQUE ETuDes ! @IGEInUS SFAx
+I _ Optique géométrique :
+On considère un objet réel AB, un écran d'observation (E) et une lentille convergente mince (L) de centre optique OL et de distance focale image f' , plongée dans [air (Figure 1).
+B
+Axe optique
+A
+F
+OL F'
+I(L)
+Ecran (E)
+Figure 1
+1 - Rappeler brièvement les conditions de Gauss nécessaires pour obtenir une image nette de ['objet AB. Construire l'image A'B' de AB
+Dans toute la suite, on se place désormais dans ces conditions.
+2- Pour déterminer f on utilise la méthode de Bessel Pobjet et lécran sont fixes et distants de D Montrer que si D > 4 f ' il existe deux positions de la lentille; distantes de d, pour lesquelles il y a une image nette sur lécran.
+Concours Mathématiques ct Physique Session Juin 2010
+Eprcuve de Physiquc
+Pagc 1 /6
 
+--- page 2 ---
+3- En déduire lexpression de f en fonction de D et d. 4- Calculer f pour les valeurs expérimentales suivantes D = 1,5 m et d = 86 cm. 5- On se propose de réaliser limage d'un objet réel situé à 0,5 m du centre optique de la lentille. A quelle distance doit-on placer lécran ? 6- Calculer le grandissement transversal de cet objet.
+II ~ Optique Ondulatoire
+On réalise; dans Fair, Fexpérience des fentes dYoung à laide du dispositif schématisé sur la figure 2 . Ces fentes très   fines, distantes de   FJFz = 2, sont éclairées par une onde monochromatique de longueur donde dans le vide 1 = 500 nm; provenant dune fente source très fine Fs placée au foyer principal objet dune lentille convergente (L1) de distance focale image fp Les trois fentes Fss F, et F2 sont parallèles à l'axe (Oy). L'observation se fait sur un écran; de centre O, se trouvant dans le plan focal image d'une lentille convergente (L2) de distance focale image 7- Décrire brièvement la figure observée sur lécran. 8- Tracer la marche des deux rayons issus de Fs et qui interfèrent au point M 9- Détemminer la différence de phase @(M) entre les deux vibrations associées à ces deux rayons . 10- En déduire 1expression de Fintensité lumineuse I(x) au point M de Fécran. On note Io Fintensité au point Mde lécran lorsque lune des fentes d' ~ Young est masquée. 1l-1- Déterminer ['expression de linterfrange i_ Fvire 1application numérique pour a = 1 mm, f = 20 cm et fz =1 m 11-2- Représenter la fonction I(x) 11-3- Déterminer la position de la frange dordre po = 0.
+X
+X
+M (x)
+Fs
+Z
+F2
+(Li)
+(Lz)
+Ecran
+Figure 2
+12- On intercale devant F2 du coté de (L1), une petite lame à faces parallèles d'épaisseur e et d'indice n supposé constant; de sorte que ses faces soient perpendiculaires à laxe (Fsz) 12-1- Déterminer la nouvelle différence de chemin optique entre les rayons qui interfèrent en M. 12-2- Dans quel sens et de quelle distance d la figure dinterférence est elle  translatée ? Justifier. 12-3- En déduire lexpression de l'indice de réfraction n de la lame. Faire 1application numérique pour e = 50 um et do = 25 mm. 12-4- Calculer le nombre de franges qui ont défilé en 0. 13- On supprime la lame à faces parallèles. La source Fs émet maintenant   le doublet jaune de Sodium; formé de deux   radiations monochromatiques de longueurs donde 41 = 589,0 nm et 22 = 589,6 nm. 13-1- Décrire le phénomène observé. 13-2- A quelle distance de la frange centrale les franges disparaissent elles pour la première fois ?
+Concours Mathématiques et Physique Session Juin 2010
+Epreuve de Physique
+Page 2/6
 
+--- page 3 ---
+14- La source Fs émet /onde monochromatique de longueur d'onde dans le vide ^ = 500 nm. On la déplace dans son plan; dune distance Xs > 0- 14-1- Déterminer la nouvelle différence de chemin optique entre les rayons qui interfèrent en M. 14-2- Dans quel sens et de quelle distance d1 la figure dinterférence est elle translatée ? Justifier.
+Influence de la largeur de la fente source
+La fente source Fs possède une largeur b réglable parallèlement à l'axe (OsX) (Figure 3).
+X
+M (x)
+Fs 4
+2
+4
+Fz
+(Li)
+(L2)
+Ecran
+Figure 3
+15- Décrire qualitativement [effet de lélargissement de Fs sur la figure dinterférence. 16- On suppose que l'intensité lumineuse au niveau de Fs est uniforme et on note Io lintensité au point M de l'écran lorsque l'une des fentes d' Young est masquée. 16-1- Déterminer le déphasage 4(M) entre les deux ondes qui interfèrent au point M de lécran et qui proviennent de la source primaire de largeur élémentaire dX, centrée sur un point dabscisse X. 16-2- En déduire lexpression de lintensité lumineuse I(M). max 1 17-1- Déterminer lexpression du contraste défini par C = min Tracer Fallure de C(b) I max +I min 17-2- Décrire lévolution de la figure d'interférence si on augmente progressivement b à partir dune valeur minimale. 18-1- Déterminer la valeur minimale b1 de b pour laquelle on observe un brouillage de franges. Calculer la valeur numérique de b1. On donne a = Imm, f = 20 cm et 2 = 500 nm 18-2- Déterminer la variation de lordre dinterférence, Ap; au niveau dun point M de Pécran b b correspondant au passage de ['extrémité X = - à lextrémité X=+- de la source Fs. 2 2 Calculer Ap pour b = b1. En déduire une condition sur Ap pour qu'5 'il n'y ait pas brouillage de franges.
+Concours Mathématiques et Physique Session Juin 2010
+Epreuve de Physique
+Page 3/6
 
+--- page 4 ---
+Problème 2
+L'espace est rapporté à un référentiel galiléen 3(Oxyz) de base orthonormée directe (",,4,,1,). On note (",,"0,uz) la base cylindrique.
+Haut-parleur électrodynamique
+Un haut-parleur électrodynamique est un exemple de transducteur permettant la conversion de lénergie électrique en énergie mécanique. Le haut-parleur à bobine mobile est le plus utilisé dans le domaine des basses fréquences. Il comporte Un aimant permanent; créant dans lentrefer un champ magnétique B radial et de norme constante au niveau de la bobine (Figure 4) Un ensemble mobile; de masse m, formé dune membrane solidaire à une bobine. Cette bobine; de résistance R et d'inductance L comporte N spires suffisamment serrées pour être assimilables à des spires circulaires de rayon a. Elle est placée dans lentrefer de laimant. On note € la longueur totale de son enroulement.
+A
+Membrane
+4im%nt
+Bobine
+Z
+U^IO
+2
+E(t)
+1A
+Coupe A-A
+Figure 4
+L'ensemble mobile peut effectuer de petits mouvements de translation de vitesse suivant la direction de laxe de symétrie de révolution (z'z) II est   maintenu par une   liaison élastique modélisée par un ressort unique de constante de raideur k. Son mouvement est freiné par une force damortissement visqueux représentée par le terme 7 =-Q v, où & est un coefficient positif. La bobine est parcourue par un courant dintensité i(t) suite à lapplication d'une tension variable E(t) entre ses bornes (Figure 4) 1 - Expliquer brièvement le comportement haut-parleur électrodynamique de ce montage. 2- Déterminer [expression de '<vap' résultante des forces de Laplace; exercée sur la bobine, en fonction de B, i(t) et € 3- En déduire une première équation différentielle liant z(t) et ses dérivées à i(t) 4- Déterminer la force électromotrice induite par le déplacement de la bobine; parcourue par i(t), en fonction de B, V et €. 5-En déduire une deuxième équation différentielle liant i(t) et sa dérivée première à dz(2 dt 6- Etablir une relation liant la variation de [énergie du haut-parleur à la puissance électrique qui lui est fournie par E(t). 7- En régime périodique, déduire la répartition de la puissance électrique moyenne fournie au haut- parleur.
+Concours Methématiques ct Physique Session Juin 2010
+Eprcuvc de Physique
+Page 4/6
 
+--- page 5 ---
+La tension   appliquée à Ia bobine est   sinusoïdale. En notation   complexe; elle s'écri E(t) = Uo ejot avec Uo réeL 8- Etablir deux équations liant les amplitudes complexes U; Iet V des grandeurs E(t), i(t) et dz( dt 9- En déduire que limpédance Z du haut-parleur définie par _=Z I s'écrit 22B2 Z=R+ + jLw _ k jmo + +a jo 10- Montrer que Fimpédance Z est la somme de deux impédances Z =Ze +Zm respectivemen appelées impédance électrique et impédance motionnelle du haut-parleur. Il- 11-1- Montrer que Zm correspond à 1association en parallèle de trois éléments Rms Cm et Lm qu'01 exprimera en fonction des données; 1l-2- Calculer Rm, Cm et Lm pour B=1 T, a = 2cm,m = 10g N=40,k = 1600 N.m ' e a = 5 Ns.m ~1 12- En déduire le schéma électrique équivalent du haut-parleut. 13- On note Zm = Xm(@)+jYm() - 13-1- Déterminer les expressions de Xm() et Ym(0) - 13-2- Montrer que le point P du plan complexe d'affixe Zm décrit un cercle;, lorsque @ varie; don on déterminera le rayon et le centre, 13-3- Tracer ce cercle et placer les  points   Po et P1 qui correspondent   respectivement k 0 = @om et W = % m 14- Sachant que la fréquence de la tension sinusoïdale E(t) appartient au domaine des fréquence: vocales  [3OOHz,35OOHz] , montrer que Fimpédance du haut parleur étudié peut être considérér comme une constante Ro que /on déterminera: Calculer sa valeur numérique. On donne L = 0,1 mH, R = 12 Q
+Filtrage dun signal périodique
+Le haut-parleur précédent; assimilé à la résistance Ro est réellement alimenté, à travers u filtre; par un signal créneau u(t) de période T et damplitude Vo = 1V (Figure 5).
+u(t)
+1 Figure 5
+Concours Mathématlqucs ct Physiquc Session Juin 2010
+Epreuvc de Physique
+Page 5/6
 
+--- page 6 ---
+15- Montrer que la décomposition en série de Fourier du signal u(t) s'écrit Vo 2Vo sin[(2p+1)t] 2i u(t) = où p est un entier et @ = 2 I p=0 (2p+l) T 16- Tracer le spectre de Fourier de ce signal pour les quatre premières harmoniques.
+17- Le filtre utilisé est du type BUTTERWORTH, caractérisé par une fonction de transfert de module HB = où X = 6 Vl+x Wo
+Montrer qu'une fonction de transfert du type I(jx) = répond à ce critère. 1+2jx + 2(jx)? + (jx) 18- Tracer le diagramme de Bode pour le gain GdB =20l0g10 [zl . Préciser la pente de chaque asymptote.
+On s'intéresse au filtre représenté sur la figure 6, composé du quadripôle L1, C, L2 chargé par la résistance Ro.
+U(t)E
+Ro us(t)
+Figure 6
+19- Décrire   qualitativement le comportement de ce circuit en basses fréquences et en hautes fréquences. En déduire la nature de ce filtre. 20- Déterminer la fonction de transfert H jo) =%0 de ce circuit. @e (t) 21- 21-1- Exprimer LI, L2 et C en fonction de Ro et @ pour que H(jo) soit  celle du filtre de BUTTERWORTH décrit précédemment. 21-2- Calculer LI, L2 et C pour Ro = 12 Q et = 20o0r rad.s- ~] @0 22- Sachant que le signal dentrée du filtre est le signal créneau ue(t) = u(t) (Figure 5), déterminer le signal de sortie us(t) pour une 'période T= Ims.
+gin à_[@puuee
+Concours Mathématiques et Physiquc Session Juin 2010
+Epreuve de Pbysique
+Page 6/6

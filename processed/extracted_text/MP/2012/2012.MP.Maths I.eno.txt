@@ -1,4 +1,104 @@
+--- page 1 ---
+~@ay}f2xa)
+REPUBLIQUE TUNISIENNE Ministere & {Enseigoeunnt Supériur #tde la Rechorahw' Scientilique Concpurs Nationaux d'Entrée aux Cydles de Fonnation d'Ingénicurs Session 2012
+{ll lau; éLal Jea1ll &1ibell &l,blinl hne & hlz_I amiaw 2012 410J GistTUT Creparatoire) QBUOTHEQUE Concours Mathématiques et Physique S Gupss Uas Epreuve de Mathématiques I 4 heures Nb pages: 5 4 Juin 2012 Heure: 8 H Durée: Date: 6 pts Partie III: 4 pts Partie IV: 4 pts Barême Partie I: 6 pts Partie II: du raisonnement; à la clarté et au soin de la Unc grande importance sera attachée à la rigueur présentation. L'usage des calculatrices n'est pas autorise. peut être utilisé pour traiter la suite; même Il est rappelé que tout résultat énoncé dans le texte s'il n'a pu être démontré.
+Rappels et Notations Les coefficients de Fourier exponentiels Soit f une fonction 2T périodique continue par morçeaux. de f sont définis par 2n 1 f (t)e-ikt dt, k € €. Ck(f) = 27 ! Les coefficients de Fourier trigonométriques de f sont définis par 2T 1 ao(f) f (t)dt; 2T 1 f (t) cos(nt)dt; n € N* an (f) = T '27 1 f (t)sin(nt)dt, n € N* bn(f) = 7T 
 
+Partie I
+TT t pour tout t € J0, 2r [ et Soit H : R ~ R la fonction 2n-périodique définie par II (t) = 1 2 H (0) = 0. tout n € N*_ bn (H) = 1 Montrer que, pour tout n € N; an (H) =0 et pour (a) +o 1 T2 (b) Montrer que 722 6 n=1 2 . Montrer que, pour tout t € R et z € ]-1,1[ 1 +0 x" e -(n+1)it_ = ~ E 1 5 eit TL=0
+Épreuve de Mathématiques I
+Page 1/5
+Mathématiques et Physique Session Juin 2012 Concours
 
+--- page 2 ---
+3 En déduire que
+1 coS t 22 ~ 2æ cos t + 1
++00 Er" cos((n + I)t) n=0
+4. Montrer que, pour tout t € R et 2 € ]-1, 1[
++00 xn In(z? ~ 2r cos t + 1) = -2 2 cos(nt) 7l==1 7
+5 Soient æ € ]-1, 1[ . On considère Fapplication Gr R =R,t - 2 In(z? 2æ cos t + 1)
+(a) Montrer que Gz est continue; 27-périodique et paire. (b) Montrer que ao (Gæ) = 0 et pour tout n € N* an (Gæ) ~ 2" et bn (G,) = 0. 'Tl (c) Montrer que 2T +0 r2n (In(z? 2z cos t + 1))? dt = 4T E n=1 72
+6 Montrer que
++co 22n Jim 2=1- 7l=1 722
+T2 6
+7 Soient (t, æ) € J0, T[ * ]-1,1[ Montrer que t 22 2 2z cost + 1 COS (2) < 2 = 2 cosi
+1
+sin?([)
+8 En déduire que
+2? 22 cos t In #)s2l (Zsin(o) | 2 = 2cos t
+9. Soit
+G : J0, 2"[ ~R;t - 4 In(2 ~ 2cos t) = ~ In (2sin (4)) (a) Montrer que G est de carré intégrable sur Jo; 2r [ et que 2T lim IGz (t) ~ G (t)l2 dt = 0. 2-+1- Jo  (b) En déduire que 2T 28  Jn (2sin 5) |? dt = 6  Partie II  Pour tout p € N* on considère léquation fonctionnelle
+p-1 Vt € R : g (t) = E, t+2kz p k=0
+(Ep
+d'inconnue g € C2r (R) Fespace vectoriel des applications continues et 2a-périodiques de R dans C.
+Concours Mathématiques et Physique Session Juin '2012
+Épreuve de Mathématiques 1
+Page 2/5
 
+--- page 3 ---
+1 Soit p € N* avec p 2 2. Montrer que lapplication nulle est la seule solution constante de Ep  2 . Soit f € C2m (R) et p € N* . On pose
+p-1 2kr +:R - C, t+ f(t) = Ef t + k=0 p
+et
+fp : R - C; t   fp (t) = f (pt)
+(a) Montrer que f et fp sont continues et 27-périodiques . (b) Montrer que; pour tout n € Z,
+= pCnp (f) et Cnp (fp) =Cn (f)
+3. Soit 9 R = C une application de classe CI , 2r-périodique   On suppose qu'il existe p € N" avec p 2 2 tel que 9 soit solution de (Ep)
+(a) Montrer que % € C2r (R) et que; pour tout t € R, 1p-1 9' (pt) = ~ Eg (t + 2z ) Pk=0 p
+(b) En déduire que, pour tout n € Z,
+Cn (g) = = cpn (g)
+(c) Calculer c (g')- (d) Soit n € 7 non nul. 1 Montrer que, pour tout r € N,
+Cn (g) = cnpr (9)
+ii. En déduire que cn (g) = 0 (e) Montrer alors que g est nulle. (f) En déduire que g est nulle.
+4 Soit
++%sin (2"+) 9 : R - R,t F g (t) = n=0 2"+1
+(a) Montrer que g définit une application continue et 27-périodique sur R (b) Montrer que; pour tout t € R; 9 (#) = 9 (4) + , (4t22) 2
+(c) Calculer 9 (0) et , (z) (d) En déduire que 9 n'est pas constante. (e) Que peut on conclure ?
+Concours Mathématiques et Physique Session Juin 2012
+Épreuve de Mathématiques I
+Page 3/5
+Cnp
 
+--- page 4 ---
+Partie III
+ est solution de Ep pour tout p € N* Soit 9 € C2a (R) On suppose que 9
+1. Soit p € N* et p 2 2 (a) Montrer que, pour tout n € 7,
+Cn (g) = pCpn (g)
+(b) En déduire que = c1(g2 et C-p (g) = 9492 i co (g) = 0, Cp (g) et bp (9) = P avec Q, 8 € €. ii. @o (g) = 0, ap (g) = ? p
+2 Montrer que
++0 2T Jal? '(1=2722 . (t) ~ œGz (#) = BH (t)1? dt = 2 Ig 2 722 7l==L
+3. Montrer que
++0 (1 _ 2")2 lim = 0. n2 2 ] - n=1
+4  Montrer que
+27 2z QG (t) - BH (t)l? dt. (t)i2 dt = Ig (t) = Ig (t) ~ QGz (t) - BH lim 0 1-+1- 0
+5 En déduire que
+27 aG(t) = BH(t)|? dt = 0. I,(t) ~
+Montrer que; POUr tout + € J0, 27 [ , 6 9 (t) = QG(t) + BH (t)
+7 En déduire que g = ù
+Partie IV
+Pour tout n € N* on pose
+nIn!
+4
+Tn : R*+ R,IF z(+1)-(+n)
+et
+R*+ ~ R,I+In(In+1 (æ)) ~ In (Tn (z)) fn : tout n € N* et tout  € R*+ 1 Montrer que, pour fn (æ) = -cIn (1-4)-1 (1+ ai)
+Page 4/5
+Concours Mathématiques et Physique Session Juin 2012
+Épreuve de Mathématiques
+
+--- page 5 ---
+Montrer que la série de fonctions Efn converge simplement sur R*+ et que sa somme est 2. de classe Cl sur R*+ . R*+ vers une fonction 3. En déduire que la suite de fonctions (Tn)n converge simplement sur de classe Cl qu 'on notera F. 4 Soit 2 € R*+
+(a) Montrer que; pour tout n € N* ntI Tn (z +1) = Tn (z) _ n + 1 + 2 (b) En déduire que T (z+ 1) = zI (æ) _
+5 Soit $ € R*+
+(a)  Montrer que; pour tout n € N*
+22n+2 (nl)? vn In (E)Tn (24) = 2 (n)(+2n + TF2n (c)
+(b) En déduire que
+22-1 1(x) = =I '(u)F(24)-
+On pourra utiliser la formule de Stirling n! ~ (V2rn e '~Yn" IND.
+ladmettra ici, que si p € N* et On pourra montrer de manière analogue; et on tout 2 € R*+ 2r-1 2 P -1 p T(x) = IIT (4+ ) P (v27)P-i K=0 6 . Soit A R*+ 4 R*+ une application continue telle que Pour tout x € R*+ A (æ +1) = sA (z)
+Pour tout p € N* et tout I € R*+
+22=1 2 p-1 P A (z) = p-1 IIA (2+) (v27) k=0
+On considère la fonction g : R - R, 2T-périodique et telle que, pour tout 2 € [2T, 47] , 9 (z) = In (T (u)) ~ In (A (#)) (a) Montrer que; pour tout I > 0, 9 (z) = In (F (u)) - In (A (2)) Montrer que 9 est solution de Féquation fonctionnelle (Ep) pour tout p € N* (6) (c) En déduire que A = T.
+Fin 0 0 0
+Concours Mathématiques et Physique Session Juin 2012
+Épreuve de Mathématiquee I
+Page 5/5

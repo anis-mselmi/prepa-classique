@@ -1,21 +1,396 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Mnistère de F'Enseignemnent Supérieur et de la Recbercbe Scieutifique Coucours Nationaux d'Entrée alx Cycles de Foration d'Ingénieurs Session 2023
++igl 4)642l +ali 42419 +lll akai 5olis Jssl uib;i 2l kliJi ùni jgdal > 9 2023 ; )> QUI Eludes ( Concours Physique et Chimie & Technologie (Bibliothèque ) Epreuve de Mathématiques Session 2023 Date 31/05/2023 Durée 4 hevaee deslai Le sujet comporte deux problèmes indépendants. Le candidat peut traiter les questions dans lordre de son choix, à condition de Vindiquer clairement dans la copie. La clarté et la précision de la rédaction seront prises en compte dans Yappréciation de la copie
+L'usage dune calculatrice non programmable est autorisé. L'usage de tout autre dispositif électronique est interdit:
+Notations
+Pour n, p € N* on note Mnp( (R) le R-espace vectoriel des matrices à n lignes et p colonnes . Mn(R) le R-espace vectoriel des matrices carrées d'ordre n. In la matrice identité de Mn(R) 'Ala matrice transposée de A et det( A le déterminant de A. Spec( A) lensemble des valeurs propres de A avec A € Mn(R). Sn(R) lensemble des matrices symétriques de Mn(R) On munit Mn,1(R) et R" du produit scalaire canonique défini par (x,y) = xkyk où k=l X1, Xn et y1, '2 yn sont les composantes de x et y respectivement: On note aussi || Ilz la norme euclidienne associée à ce produit scalaire.
+Problème I Soit E un espace euclidien muni du   produit   scalaire () et de la norne associée || J| Soient X1, X2, Xn des vecteurs de E, on appelle matrice de Gram de la famille de vecteurs (x1, X2, xn) , la matrice de Mn(R) notée Gram(x1, *2, Xn) et définie par Gram(x1, X2, Xn) = ((xi, x;))sijsn c'est-à-dire
+(x1, X1) (x1,X2) (x2, X1 ) (x2, *2)
+(x1' Xn) (x2, Xn)
+Gram (x1 X2,
+Xn)
+(xn, X1) (xn, x2)
+(xn,Xn
+On notera G(x1, X2,
+Xn son déterminant
 
+--- page 2 ---
+Partie A Étude dun exemple Dans cette partie, on considère E = R3 que Yon munit du produit scalaire canonique et notons B (e1,e2,e3) sa base canonique: On considère les vecteurs X1 = (2,-2, -1) X2 (~1,1, -2) et X3 = (1,1,2) Q1D Monter que (x1, X2, x3) est une base de R3 . Q.2 D Soit M Gram(x1, X2, X3) , vérifier que
+~2 ~2 =2 6 ~4 =2 44
+M =
+Q.3 D Sans faire de calculs, prouver que M est diagonalisable dans Ms(R) Q.4 D Montrer que le polynôme caractéristique de M est PM(X) = X3 21X2 + 120X 100.
+Q.5 D Déterminer alors det( M) . Que peut-on dire de la matrice M? Q.6 D Montrer que Spec(M) {1,10} Soient E1 et E1o les sous-espaces propres associés aux valeurs propres 1 et 10 respectivement: Q.7 D Montrer que Eo Vect ((2, ~2,1), (2,1, ~2)) et que ces deux vecteurs forment une base orthogonale de E1o. Q.8 D Montrer que E1 Vect ((1,2,2)) Q.9 D Déterminer une matrice orthogonale P telle que M PD'P avec D diag(1,10,10) la matrice diagonale formée par les valeurs propres de M. Soit x (1,1,0) et soient y et z ses projetés orthogonaux sur E1 et E1o respectivement. 2 2 Q.10 D Montrer que y puis déduire z. 3' 3' 3 Q11 Calculer la distance de x à E1 puis à E1o.
+Partie B Etude du cas général Q.12 D Montrer que si la famille (x1,X2, Xn est liée, alors G(x1, X2, 1 Xn ) =0 On suppose que (x1 X2, Xn est libre. Notons F = Vect(x1, X2, Xn) etsoit B = (e1,e2 - en) une base orthonormale de F. Soit A (a;,j) € Mn(R) la matrice dont les colonnes sont les composantes des vecteurs X1, X2, Xn dans la base B.
+Q.13
+Montrer que (xi, %j) = Lakiak,j pour tout 1 < i,j < n. Q.14 D En déduire que Gram(x1, *2,  Xn) =AA. Q.15 D Déduire que G(x1,X2, - ',Xn) > 0. Q.16 D Vérifier que Gram(x1, X2  Xn) € Sn(R) et déduire que toutes les valeurs propres de Gram(x1, X2, Xn sont réelles et non nulles. Q.17 D Vérifier que pour tout X € Mn,1l  (R), on a tX . Gram(x1, X2, Xn) . X =ll AX |l2 et déduire que les valeurs propres de Gram(x1,X2, ' '  Xn sont strictement positives.
+Page 2 sur 5
 
+--- page 3 ---
+Q.18 D En déduire que pour tout ^ € Spec(Gram(x1,*2,
+Xn)), on a ^ < Ell x; Il2. i=1 On conserve les mêmes hypothèses etnotations que celles données juste après la question Q.12 Soient x € E et PF(x) son projeté orthogonal sur F. Q.19 Justifier que || x |l2=|l pF(x) Il2 + |l x = pF(x) Il2. Q.20 Montrer que G(x1, X2, Xn,x) = G(x1, X2, Xn,X pF(x)) Q.21 D Montrer que G(x1, X2, Xn; X = pF(x)) =| x PF(x) |l2 . G(x1,x2 Xn puis que (G(r1 X2, 2 d(x,F) = 232) G(x1, x2, avec d(x, F) désigne la distance de x au sous-espace F. Q.22 D Montrer alors par récurrence que G(x1, X2, Xn) <Ill x; Il? avec égalité si, et seule- i=1 ment si, (x1, X2, Xn) est une famille orthogonale
+Application Matrices de Hilbert On pose E = Rn-1[X], n 2 1 le R-espace vectoriel des polynômes de degrés inférieur ou égal àn - 1et on le munit du produit scalaire défini par
+(P,Q) = J' P()Q(t) dt VP,Q € E. Pour tout 1 < i < n, on pose Pi(X) = Xi-1. Q.23 D Montrer que (   est un produit scalaire sur E Q.24 D Calculer (Pi, P;) pour tout 1 < i,j < n. Q.25 D On appelle  matrice de Hilbert dordre n > 1,la matrice Hn = (hij) € Mn(R) avec
+hi,j V1 <i,j <n. i+j -1
+Déduire que les valeurs propres de Hn sont strictement positives.
+Problème II
+Partie A
+Q.26 D Soit Ç la fonction définie par
++o 1 Z(x) = n7 n=1
+Montrer que ( est continue, décroissante sur ]1, +o[ et que lim Ç(x) =1 X-++0 +0 Pour tout p € N, on pose Ip tPe-t dt .
+Q.27 Justifier que Ip existe pour tout p € N. Q.-28 D Ecrire Ip+1 en fonction de Ip et déduire une expression simple de Ip
+Page 3 sur 5
 
+--- page 4 ---
+To tPe-at dt
+Q.29 En déduire que pour tout réel a > 0 et tout p € N,on a : p! aP+1 +0 Q.30 D Vérifier que pour tout réel t > 0on a = 2 e-nt et en utilisant le théorème et dintégra - n=l tion terme à terme déduire que, pour tout entier p > 1, on a
++0
+tP dt = p'Ç(p +1) - et  I
+Partie B +o sin(xt) dt ~ et
+Soit f la fonction définie par f(x) Q.31 Montrer que f est bien définie sur Ret que f est impaire: Q.32 Montrer que f est continue sur R. (On rappelle que |sin(t)| < |t| pour tout t € R) Q.33 D Vérifier que pour tout x € Ret t > 0, on a
+sin(xt) 40 (~1)"r2n+1t2n+1 2 et n=0 (2n +1) (et _
+Q.34 D En utilisant le théorème dintégration terme à terme, déduire que pour tout x €] - 1,1[ on a : F f(x) = E(-1)"ç(2n + 2)x2n+1 n=0 et préciser le rayon de convergence de cette série entière Q.35 D Montrer que pour tout x € R et n 2 1, la fonction H sin(xt)e ~nt est intégrable sur +0 [0, +o[ et que sin(xt)e ~nt dt n2 + 22 +0 Q.36 D En déduire que pour tout x € R,ona f(x) = 2 n2 + x2 n=1
+Partie €
+Q.37 D En intégrant par parties , montrer que pour tout x € R* et n € N* , on a
+xsh(ux) Jo (ch(xt) ~ 1) cos(nt) dt = (~1)" n2 + x2
+Q.38
+Montrer que cos(kt) = sin((n + 2)t2 2 pour tout t ejo, n] et n € N* . k=l 2sin(4) Q.39 D En déduire que pour tout x € R* et n € N* , on a : (~1)krsh(zr) T sh(zx) ch(xt) = 1 k2 + x2 2 4 2x 2 sin((n + !)t) dt . K=l sin(4)
+Q.40 Montrer que la fonction % ch(xt) t . 1 se prolonge en une fonction de classe C1 sur [0, 7] , sin(4) puis déduire à laide dune intégration par parties que
+lim n-++0
+"(t) sin((n + _)t) dt = 0 
+Page 4 sur 5
 
+--- page 5 ---
+4o Q.41 D Déduire que pour tout x € R*, on a T 1 E(-1)" n=1 n2 + x2 2sh(nx) 2x Q.42 D En utilisant la question Q.36, montrer que pour tout x € R, on a :
++0 5(-1)"n2 +22 = f (2) - f(r) . n=1
+Tch(ux) 1 On pose $(x) pour tout x € R* et $(0) = 0 2sh(ux) 2x Q.43 Vérifier que $ est continue sur Ret que pour tout x € R*,on a :
+I
+4 (2) -#(x) = 2sh(ux) 2
+Q.44 Déduire que pour tout x € R, on a : 0 (2) -#(r) = f (2) - f(r) . Q.45 D Établir que pour tout x € R,on a : f(x) = #(æ) .
+Partie D
+Q.46 > En utilisant lexpression de f à laide de 4, vérifier que pour tout x € R*,on a: (f(r))2 + 1f(r) 7t2 4f(r) + = 4 Q.47 > En déduire que pour tout x €] - 1,1[ on a : (f(r))2 = 2-29(2) 3 + E(-1)n-1 n + 2 Ç(2n + 2)x2n . n=1
+Q.48 D En utilisant le produit de Cauchy, montrer que pour tout x €] - 1,1[ on a :
++0
+n = (f(r))? = (-1)"-1 Ç(2k + 2)7(2n 2k) +2n n=l
+T2 Q.49 D Déduire que Ç(2) = 6 et que pour tout entier n 2 2,on a :
+n +
+2) z(2n) = Ez(2k) Ç(2n 2k) k=l
+Tt4 Tt6 Q.50 D Vérifier que Ç(4) = et 7(6) 90 945
+Fin de lépreuve *
+Page 5 sur 5
 
+--- page 6 ---
+4sll 4)34 l Yhi 9~4i, (li rki 6,59 Jsbyibji 2 jblyJI bhijDsjal>Ji 2023 ; ,>
+REPUBLIQUE TUNISIEYNE Mnistère de 1'Enseignement Supérieur et de la Rechercbe Scientifique Concours Nationalx d 'Entrée alX Cycles de Foration d'Ingénieurs Session 2023
+Concours Physique et Chimie & Technologie Corigé de 1Epreuve de Mathématiques Date 31/05/2023
+Session 2023
+Durée 4 heures
+Notations
+Pour n, p € N' on note Mn,p(R) le R-espace vectoriel des matrices à n lignes et p colonnes Mn(R) le R-espace vectoriel des matrices carrées d'ordre n In la matrice identité de MnC (R) 'Ala matrice transposée de A et det( A) le déterminant de A Spec( A) lensemble des valeurs propres de A avec A € Mn(R). Sn(R) lensemble des matrices symétriques de Mn(R) On munit Mn,1(R) et R" du produit scalaire canonique défini par (x,y) Xkyk où X1, Xn et y1' .   , Yn sont les composantes de x et y respectivement. On note aussi || Ilz la norme euclidienne associée à ce produit scalaire.
+Problème I Soit un espace euclidien muni du produit scalaire (  et de la norme associée || . |. Soient X1, X2, - Xn des vecteurs de E, on appelle matrice de Gram de la famille de vecteurs (x1, X2, ~ .,Xn), la matrice de Mn(R) notée Gram(x1, X2, Xn) et définie par Gram 1(x1= X2, .  . , Xn) = ((xi, ,x;))1sijsn c'est-à-dire
+(x1, X1) (x1, x2) (x2, X1) (x2, X2)
+(x1,Xn) (x2, Xn)
+Gram(x1, X2, . ,Xn)
+(xn,x1) (xn, X2)
+(xn,= Xn)
+On notera G(x1, *2, "Xn son déterminant.
+Partie A : Étude dun exemple
+Dans cette partie; on considère E R3 que Yon munit du produit scalaire canonique et notons B = (e1,e2,e3) sa base canonique. On considère les vecteurs X1 = (2,-2, -1) , X2 = (~1,1,-2) et X3 (1,1,2). Q1> Montrer que (x1,X2,X3) est une base de R3  On a dim(R3) = 3 et 1/2:libre ou calcul du det et 1/2 pour dim detB (x1,*2, X3) 4-2* 4+2/2 4-|7 :-0+0+2=- 10 # 0 =2 et par suite (x1,X2, 13) est une base de R3
 
+--- page 7 ---
+Q2D Soit M = Gram(x1, X2,X3) , vérifier que
+22 42 ~2 =4
+M =
+On a:
+(x1,*1) = 22+ (-2)2+ (~1)2 = 9, (x1,x3) = (x3, *1) = 2 _ 2 _2 = -2, (x2,x3) = (x3, x2) = -1+1 -4 = -4,
+(x1,x2) = (x2,x1) = -2 -2+2= -2, (x2,x2) = (-1)2+12 + (-2)2 = 6, (x3,x3) = 12 +12+22 = 6.
+=2 ~2 =2 44
+4M =
+Q3 D Sans faire de calculs, prouver que M est diagonalisable dans M3(R) I est clair que M est une matrice symétrique réelle, donc daprès le théorème spectral, elle est diagonalisable dans M3l (R) Q4D Montrer que le polynôme caractéristique de M est = PM(X) = X3 21X2 + 120X 100.
+On a
+Ix = 9 X = 6 X = 6l 2 (x-9|x-6 x4-2/2 x2a+2/x26 ? (X -9) [x2 _ 12X + 20] 2[2X _ 20] + 2/20 2X] [x3 12X2 + 2OX _ 9x2 + 108X _ 180] + 80 _ 8x X3 21X2 + 120X 100 (1)
+Pm(X) det(XI3 = M)
+Q.5D Déterminer alors det(M) . Que peut-on dire de la matrice M? PM(o) det(M) , donc det( M) 100 40 et par suite M est inversible (tt2) Q6D Montrer que Spec( M) {1,10}  On a X3 21X2 + 120X 100 (X = 1)(x2 2OX + 100) (X 1)(X 10)2, doù Spec( M) {1,10} ((1) Soient E1 et E1o les sous-espaces propres associés aux valeurs propres 1 et 10 respectivement.
+Page 2 sur 17
 
+--- page 8 ---
+Q7 Montrer que E1o = Vect ((2,~2,1), (2,1,-2)) et que ces deux vecteurs forment une base orthogonale de E1o: On a 9x = 2y = 2z = 1Ox ~x=2y _ 2z = 0 MX 1oX ~2x + 6y - 4z = 1Oy ~2x _ 4y _ 4z = 0 ~2x 4y + 6z = 10z ~2x _ 4y _ 4z = 0 Donc MX 1OX 44 X+ 2y+ 2z 0. Ainsi E1o est un plan vectoriel de R3. Il est clair que (2,~2,1) et (2,1, -2) appartiennent à E1o, de plus ils ne sont pas colinéaires et donc ils forment une base de E1o. Dautre part, on a ((2,-2,1),(2,1,-2)) = 4 -2 -2 = 0 et donc (2,~2,1) et (2,1,~2) forment une base orthogonale de E1o: Deuxième méthode On a 20 M = 3(4) - 10 =10 1/4 20
+20 ~20 10
+M
+10
+1/4
+Ainsi (2,~2,1) et (2,1,~2) appartiennent à E1o, de plus ils ne sont pas colinéaires et donc ils forment une 1/hfamille libre de E1o et comme dim(E1o) = 2 car M est diagonalisable, alors ils forment une base de E1o or ces vecteurs sont orthogonaux et par conséquent (2,~2,1) et (2,1,~2) forment une base orthogonale de E1o. 1/4 Q.8 D Montrer que E1 Vect ( (1,2,2)) On a
+M
+Ainsi (1,2,2) appartiennent et comme dim(E1) = 1car M est diagonalisable, alors E1 Vect ( (1,2,2))/ (1) 44 Q9 D Déterminer une matrice orthogonale P telle que M PD'P avec D diag(1,10,10) la matrice diagonale formée par les valeurs propres de M. Le théorème spectral assure bien 1existence dune telle matrice orthogonale P Posons 01 (1,2,2), v2 ~2,1) et v3 (2,1,~2), la famille (1, 02,03) est une base orthogonale de 02 vecteurs propres et donc est une base orthonormale de vecteurs propres et par v1 Iz v2 Ilz "3 Ilz (1/2) suite M = PD'P avec 10 et P = 1 3 22 10 =2
+Soit x = (1,1,0) et soient y et z ses projetés orthogonaux sur E1 et E1o respectivement: Q.10 D Montrer que y 3' 3' 3 puis déduire z. 71 Onay = PE1 (x) (x ((1,1,0) (3,}, 3)) (3,},3) (3}, g) 71 71 Ilz Comme x = y+z (car E1 @1 E1o R3 on a alors z = x =y = (3,3, 3) Q.11 D Calculer la distance de x à E1 puis à E1o. d(x,E1) =ll x -y Il2 =I| z Il2 = 1g2+(2+622 =1 (1/2) d(x,E1o) =ll x = z Il2 =Iy Il2 = 1(;)*+ (3)2+(,2 =1 (1/2) Ou bien utiliser le théorème de Pythagore Ilxll? = 2 = d(x,E10)2 + d(*,E1)? => d(x,E1o)? = 2 _ d(*,E1)? = 1.
+Page 3 sur 17
 
+--- page 9 ---
+Partie B Etude du cas général Q.12D Montrer que si la famille (x1,= X2, Xn) est liée, alors G(x1, *2, ',Xn) = 0
+Si (x1,*2, ',Xn) est liée alors il existe
+{1,2,...,n} tel que Xk
+QiX; Par suite (xj,Xk) i=lick (1/4)
+%;(xjp *;) , V1 < j {1l4finsi la k-ème colonne de Gram(*1, *2 _ Xn) est une combinaison linéaire des i=li#k autres colonnes et par conséquent son déterminant est nul cest-à-dire G(x1, *2, ,Xn) = 0. (1/2) On suppose que (x1, X2, ~ Xn) est libre. Notons F Vect(x1, X2,  ,Xn) et soit B (e1,e2,. en) une base orthonormale de F. Soit A (ai,j) € Mn(R) la matrice dont les colonnes sont les composantes des vecteurs X1, X2, Xn dans la base B
+Q.13 D Montrer que (xi,Xj) = Eaiakj pour tout 1 < i,j < n.
+Par définition de A, on a Xi = akiek, V 1 <i < net comme B = (e1,e2,- en) une base orthonormale de kel (1/2) commencer le calcul bilinearité du produit scalaire F, alors
+(xi,xj) = Eakiakj V1 <ij <n (1)
+Q.14 D En déduire que Gram(x1,*2, Xn) =AA
+Ilest clair que 'AA = (cij) avec ci,j
+@kiak,j' pour tous 1 < i,j < n,doù
+Gram(x1, *2,  Xn) ='AA.
+Q15 D Déduire que G(x1, *2, . Xn) > 0. G(x1, X2, - ,Yn) det(t AA) = det(' A)det( A) det(A)2 2 0. (1/2) Or A est inversible car (x1,*2, ,Xn) est libre, donc det( A) + 0. Ainsi
+G(x1, X2,
+> 0
+Q.16 D Vérifier que Gram(x1, X2, Xn) € Sn(R) et déduire que toutes les valeurs propres de Gram(x1, X2, sont réelles et non nulles Comme  (xi, Xi) (xj, x;) pour tous < i,j < n, alors  Gram(x1, X2, Xn est une matrice sy (1/4) métrique réelle. Donc daprès le théorème spectraltqytes ses valeurs propres sont réelles et comme (1/4)G(x1,x2 _ Xn) + 0 alors aucune de ces valeurs propres n'est nulle. Ainsi toutes les valeurs propres de Gram(x1, *2, Xn) sont réelles et non nulles. Q17 D Vérifier que pour tout X € Mn1(R), on a
+tX  Gram(x1, X2, ,Xn) .X=ll AX |l2 et déduire que les valeurs propres de Gram(x1, X2, - Xn) sont strictement positives. 'XGram(x1,*2, Xn)X = 'X'AAX =< AX,AX > = IlAxI? (1/2) Si est une valeur propre de Gram(x1, X2, - 'Xn) alors Mn,1(R) {0} tel que Gram(x1, X2, Xn)V = AV et donc 'VAV IlAvII? AJviz 20. Doù 1 2 0. Or ^ # 0 donc ^ > 0. [14) 7174)
+Page 4 sur 17
 
+--- page 10 ---
+Q.18 D En déduire que pour tout ^ Spec(Gram(x1, x2,
+Xn)), on a ^ <Ellz Il2
+Notons Spec(Gram ((x1= X2,
+Xn )
+{A1, An} On a
+Ai tr(Gram(x1, X2,
+xn))
+Ilxxll?
+(1/2)
+D'après Q.17 toutes les À; sont strictement positives: On déduit donc si n>1
+4 < Ell z Il2 VA € Spec(Gram(x1, *2, Xn)
+On conserve les mêmes hypothèses et notations que celles données juste après la question Q.12. Soient x € Eet PF(x) son projeté orthogonal sur F. Q.19 D Justifier que Il x Il2 =|| pF(z) Il2 + || x PF(x) Il2. Par définition du projeté orthogonal, on a x PF(x) € Fl en 'particulier pF(x) et (x PF(x) ) sont orthogo- naux et par le le théorème de Pythagore; Ilrll? Hlpr(r)ll? + Ilx PF(z)ll?
+Q.20 D Montrer que G(x1, X2, ,Xn x) = G(x1, X2,.   , Xn, x PF(x)) Par multilinéarité de G, on a G(x1, *2,. . . , Xn  x) G(x1, X2,  0 9 { Xn,X = PF(x) + PF(x)) G(x1, X2,  Xn,X = PF(x)) + G(x1, *2.   ,In  PF(x))
+OI (x1,X2, . Xn, PF(x)) est liée, donc G(x1, *2, -
+Xn, PF(x)) = 0et par suite
+G(x1, *2,
+Xn,x) =G(x1,*2,
+Xn,X PF
+Q21 D Montrer que G(x1, X2, .  Xn,X PF(x)) =Il x - PF(x) Il2 . G(x1*2  Xn puis que
+d(x,F) =
+(8223)
+Page 5 sur 17
 
+--- page 11 ---
+avec d(x, F) désigne la distance de x au sous-espace F.
+Gram(x1, X2, PF(x)) ,Xn) On a G(x1,*2,..  ,Xn,x
+(1/4)
+Ilx 'PF(z)Il?| car X = PF(x) € Fl et donc (x _ PF(x),x;) = 0, V1<i<n On développe ce déterminant par rapport à la dernière colonne on obtient
+G(x1, *2,
+Xn,X = PF(x)) Ilx = PF(x)Il?G(x1,*2, Xn)
+(1/4)
+et par la question précédente, on déduit que G(x1, *2, Xn,x) Ilx PF(r)ll?G(x1*2, '"Xn) et comme G(x1, *2, Xn est non nul (daprès Q.15), alors
+(1/4)
+d(x,F) Ilx = PF(r)ll
+G(x1 *2 Xn x) G(*1,*2,- "Xn
+(1/4)
+Q22D Montrer alors par récurrence que G(x1, X2, Xn) sÉ" x; Il? avec égalité si, et seulement si, (x1,X2, ,Xn) est une famille orthogonale Sin = 1, G(x1) = |(x1 x1)| Ilxzll2 vrai (1/4) Soit n 2 1, supposons que G(x1, X2,. . . , Xn) <IIllxill? et qu'on égalité si, et seulement si, (x1, *2,  Xn) est une famille orthogonale et montrons le résultat pour n + 1. On a G(x1, X2, Xn, Xn+1) = |lxn+1 PF(xn+1)ll?G(*1,*2, Xn) Or llxn+1 PF(xn+1)ll? < llxn+1ll? (d'après Q.19). Donc n+l G(x1,*2,. Xn, Xn+1) < |lxn+1ll?G(*1*2, Xn) < Ilxn+zll?IIllx;ll? IIllzl? (1/4) 121 1=1
+De plus on a égalité si, et seulement si, (x1,*2, est une famille orthogonale et |lxn+1 PF(xn+1)ll2 Ilzn+1ll2 cest-à-dire PF(xn+1) 0 ou encore Xn+l € Fl ce qui prouve quon égalité si, et seulement si,(1/2) (x1,*2, Xn, YXn+1) est une famille orthogonale. Le résultat se déduit par récurrence. 1/2 si l'etudiant ne démontre que l'inégalité Application Matrices de Hilbert On pose E Rn-1[X], n 2 1 le R-espace vectoriel des polynômes de degrés inférieur ou égal à n _ 1 et on le munit du produit scalaire défini par
+(P,Q) J P()Q() a VP, Q€ E Pour tout 1 < i < n,on pose P (X) = Xi-1.
+Page 6 sur 17
 
+--- page 12 ---
+Q.23 D Montrer que (, ) est un produit scalaire sur E On a Pour tous P,Q € Rn-1[X], (P,Q) = (Q,P). Ce 'qui montre que ( ,  ) est symétrique. Pour & € R, P1,Pz et Q € Rn-1[X], on a
+(1/4)
+(aP1 + Pz, Q)
+J' (P(t) + P2(t)) Q() dt Jo P()Q() dt + Jo Pa(t)Q(t)dt œ(P1, Q) + (PzQ)
+(1/4)
+ce qui prouve que (vf) est linéaire par rapport à la première variable et par symétrie, on déduit qu'elle est bilinéaire: (P,P) J' (P())? at 2 0,pour tout P € Rn-1[X] c~ qui prouve la positivité. (1/4) (P,P) = 0 <> J' (P())? a 0 et comme la fonction t 1 (P(t))2 est continue positive sur [0,1], alors P(t) 0 Vt € [0,1]. Ce qui implique que P est un polynôme admettant une infinité de racines et par conséquent cest le polynôme nul (1/4) Finalement, on conclut que (, ) est un produit scalaire sur E Q.24 D Calculer (Pi Pj) pour tout 1 <i,j < n. [V1 <ij < n, (Pi, P;) = ti+j-2dt (1) i+j-1 Q25 D On appelle matrice de Hilbert d'ordre n > 1, la matrice Hn (hi,j) € Mn(R) avec
+hi,j = V1 <i,j < n. i+j-1 Déduire que les valeurs propres de Hn sont strictement positives. Hn est la matrice de Gram de P1,. . . , Pn avec la famille (P1,  Pn) est libre car ils'agit dune famille de poly- nômes de degrés deux à deux différents. Par suite, daprès Q.17,les valeurs propres de Hn sont strictement positives. (1)
+Problème II
+Partie A
+Q.26 D Soit Ç la fonction définie par
++0 Z(x) = 5 nx
+Page 7 sur 17
 
+--- page 13 ---
+Montrer que ( est continue, décroissante sur ]1, +o[ et que lim Z(x) =1 1 4+00
+Posons Sn (x) pour tous x €]1, +o[ et n €N. 7+ < Soit [a,b] €]1, +o[ on a Izn(x)| < Vx € [a,b], Vn 2 1 na
+(1/4)
+et comme la série converge (a > 1), alors la série de fonctions Zn converge normalement et donc n2l na n21 uniformément sur tout segment de ]1, +0[ et comme Sn est continue sur ]1, +œ[ pour tout n 2 1, alors ( est continue sur ]1, +œ[ (1/4) On a ISn(x)| n"' Vx € [2,+o|n 2 1 et comme la série n2 converge; alors la série de fonctions _ Zn nzI n21 converge normalement et donc uniformément sur [2, +0[. Or
+lim Sn(x) 1+0
+lim e-rln(n) 14++0
+fo sin 2 2 si n =1
+(1/4)
+alors, daprès le théorème de la double limite, on obtient
+lim Ç(x) 5 xlimo Sn(r) ) =1 1 + +oo
+Pour tout n > 1, la fonction x H nx déduit que ( est décroissante sur ]1, +o[
+~xln(n) est décroissante sur ]1, +o[ et par convergence simple, on (1/4)
+1o #Pe-t dt.
+Pour tout p € N, on pose Ip Q.27 > Justifier que Ip existe pour tout p € N.
+La fonction H tPe-t est continue par morceaux sur [0, +o[ et tPe avec t + intégrable t2++00 sur [1, +o[ donc la fonction t + + tPe -t est intégrable sur [0, +œ[ pour tout p € Net par suite Ip existe pour tout p € N. Q.28 > Ecrire Ip+1 en fonction de Ip et déduire une expression simple de Ip On pose u(t) =[P+1 u(t) = (p+1)tP v (t) =2 e ( v(t) ==e7t
+et en intégrant par parties, on obtient
++0 tP+le-t dt
++0 Loo [~t+1e-'Jo + (p+1) Jo tPe-t dt = (p +1)Ip (1/2)
+Ip+1
+1oo e-tdt = [~e-tJo +00 On a Ip+1 (p+1)Ip, Vp € Net par itération; on obtient Ip p!lo or Io = =let donc Ip p', Vp € N. (1/2)
+1oo tPe-at dt = p! Q.29 D En déduire que pour tout réel a > 0et tout p € N,on a: @P+T du On pose u at, dt = et donc
++co tPe ~at dt =
+du +oo e-" uPe-" du = Ip p! (2)" @P+1 aP+l aP+I
+Q30 D Vérifier que pour tout réel t > 0 on a :
+Ee-nt et en utilisant le théorème dintégration terme à terme n=1
+Page 8 sur 17
 
+--- page 14 ---
+déduire que, pour tout entier p > 1, on a
+4100
+tP dt = pIZ(p +1) . et _ 1
+Pour toutt ej0, +œ[ la série Ee-nt 5(e-')" est convergente comme étant série géométrique avec |e-t| < 1 n2l n21 (car t > 0) et on a 410 2 ent Vt > 0 1 =e7 n=zl et _ 1 (1/4) 10 Daprès la question précédente, on a 2te-nt Vt > 0. Posons gn (t) #Pe-nt,n 2 1ett €]0, +o[ n=l e =1 tPe-t Il est clair la série de fonctions 8n converge simplement sur J0, +0[ vers la fonction g(t) 1 _e-7' t € n2l Jo, +œ[ qui est continue par morceaux sur ]0, +œ[ D 'après Q.29, 8n est intégrable sur ]0, +o[ pour tout n 2 1. 100 40 D'après Q.29, on a #Pe-nt dt p! et comme la série de Riemann p' Ign(+)| dt nP+T converge nz1 nPF{174) (car p +12 2 > 1) alors daprès le théorème dintegration terme à terme, on déduit que
+(1/4)-
++0 +o 5 gn(t) dt )
++0 + 0 +co Egn(t) dt = g(t) dt n=l
++c p! cest-à-dire E nP+I n=l
+100 tPe-t dt ou encore 1 =e-{
+(1/4)
++o0
+dt = pIZ(p +1) Vp 21 et _ 1
+Partie B
++o sin(xt) dt . et _ 1
+Soit f la fonction définie par f(x)
+Q31 D Montrer que f est bien définie sur R et que f est impaire. Soit x € R, la fonction t ~ sinGrt) est continue par morceaux sur J0, +o[1 {DABlongeable ~ par continuité en 0+ effet sin(xt) xt en x et au voisinage de +0,on a sin(rt) 0 ( avec t 4 {2 intégrable sur [1, +œ[ t+0+ ef _ 1 (44) ta++0 7(174) donc la fonction t + + sinl est intégrable sur ]0, +o[ pour tout x € R, ce qui prouve que f est définie sur R. er _ 1 Fco sin(-xt) +60 dt = sin(xt) on a f(-r) = dt = et _ 1 ~f(x) Vx € Ret donc f est impaire: et _ 1 (1/4) Q.32 D Montrer que f est continue sur R. (On rappelle que |sin(t)| < |t| pour tout t € R) |Posons $(x,t) sin(rt) , x € R,t ejo, +o[: et _ 1 Vx € R, la fonction t F + @(x,t) est continue par morceaux sur J0, +o[ Vt €jo, +œ[ la fonction x ' ' @(x,t) est continue sur R. Soit [a,b] € R, on a |sin(xt)  ct læ(x,t)| < Vx € [a,b], Vt ejo, +œ[ (1/2)
+cst avec € max(la|, |bl) et comme la fonction t ++ est intégrable sur ]0, +œ[ (d'après Q.30). Finalement; on et = 1 déduit que f est continue sur R. (1/2) theorem
+Page 9 sur 17
 
+--- page 15 ---
+Q.33 D Vérifier que pour tout x € Ret t > O,ona
+sin(xt) (~1)"22n+1t2n+1 n5o (2n+i)( =1)
+Daprès le développement en série entière de la fonction sin on a 40 (~1)"(rt)2n+1 sin(xt) Vx € R,Vt € R n=0 (2n +1)!
+et donc
+sin(xt) +0 (~1)nx2n+1t2n+1 Vx € R,Vt €j0, +v[ "=0 (2n + 1)(e = 1) (1)
+Q.34 D En utilisant le théorème dintégration terme à terme, déduire que pour tout x €] ~ 1,1[ on a: +0 f(x) E(-1)"ç(2n _ +2)22n+1 n=0 et préciser le rayon de convergence de cette série entière. (1"2"+ t2n+1 [Posons hn (#) € Net t €j0, +œ[ (2n +1)! et _ 1' n Daprès la question précédente la série de fonctions E hn converge simplement sur ]0, +o[ vers la fonc- n20 tion h(t) sin(zt) , t €j0, +o[ qui est continue par morceaux sur ]J0, +œ[; (1/4) Daprès Q.30, hn est intégrable sur ]0, +0[ pour tout n € N. Pour tout n € N; on a +0 Jxl2n+1 +00 {2n+1 lhn (#)| dt = dt Ix|2n+1Z(2n + 2) (2n+1)! et _ 1 Or |xl2n+1Z(2n + 2) |x/2n+1 , car lim Z(r) = 1 et comme la série géométrique Irln converge si na++00 X=++00 n20 Jx| < 1,alors E Jrl"Z(2n +2) converge et d'après le théorème dintegration terme à terme, on déduit que n20
+tc
+oo hn(t) dt
++oo +o Ehn(t) dt = n=l
+too h(t) dt
+n=0
+(1/4)
+Ainsi
++o f(x) E(-1)"Z(2n + 2)22n+1 Vx €] =1,1[ nz0 Finalement, on remarque que pour x 1 cette série diverge car |(~1)"Z(2n + 2) 1 # 0 ce qui n9+0 prouve que le rayon de convergence de cette série entière est R 1. On peut aussi appliquer la règle de D'Alembert (~1)n+1Z(2n+4)x2n+3 Z(2n +4) x2 (i)"((2n + 2)22n+1 Ç(2n +2) n=++0 et on déduit que la série E(-1)"Z(2n + 2)22n+1 converge si |x| < 1 et diverge si |r| > 1ce qui prouve que n20 (1/2) R =1. Q.35 D Montrer que pour tout x € R et n 2 1, la fonction F sin(xt)e 'nt est intégrable sur [0, +0[ et que
+Page 10 sur 17
 
+--- page 16 ---
++00 sin(rt)e-n dt = 72+2 ~ Soit x € Retn 2 1.La fonction t ++ sin(xt)e est continue par morceaux sur [0, +o[ et sin(xt)e ~nt t++0 0(2 avec t 4 2 intégrable sur [1, +o[ donc la fonction t H sin(xt)e est intégrable sur [0, +o[ pour tout x € Ret n 2 1. (1/2) On a +oo +co +0 sin(xt)e-nt dt = Im eixte-nt dt =Im e(-n+ix)t dt
+Or
++0 +oo e(-n+ix)t e(-n+ix)t dt = ~n+ix 10
+n +ix n =1x n2 + x2
+et donc
++00 sin(xt)e-nt dt = Vx € RYn 2 1 n2 + x2
+(1/2)
++oo Q.36 D En déduire que pour tout x € R,on a f(x) = 2 n2 + x2 n=zl sin(xt) On a sin(xt)e-nt , Vx € R, Vt ejo, +o[ et _ 1 nz1 Posons kn(t) = sin(xt)e-nt ,t €J0, +o[ n 2 1 (1/4) sin(xt) I est clair la série de fonctions Ekn converge simplement sur J0, +o[ vers la fonction k(t) et _ 1 ejo, +o[ qui est continue par morceaux sur ]0, +œ[ Daprès la question précédente, kn est intégrable sur ]0, +o[ pour tout n 2 1. On a +0 +0 +00 (1/4) Ikn(#)ldt = sin(xt) |e nt dt < |x] te nt dt = 1 +o0 Ixl (1/4) te dt daprès Q.29) et comme la série de Riemann converge, alors d'après le théorème n2 n2 n21 dintegration terme à terme, on en déduit que
+1oo kn (t) dt
++0 +oo Ekn(t) dt = n=
++o k(t) dt
+c'est-à-dire (1/4)
+100 sin(xt)e-nt dt ) Hx € R
+f(x) 5
+ou encore
+f(x) Vx € R n2 + x n1
+Partie €
+Q.37 En intégrant par parties, montrer que pour tout x €R' etn € N* , on a xsh(nx) (ch(xt) ~ 1) cos(nt) dt = (~1)" n2+2
+Page 11 sur 17
 
+--- page 17 ---
+On pose
+u(t) = ch(xt) = 1 v(t) cos(nt)
+u'(t) = xsh(xt) v(t) 1 sin(nt)
+Jo   (ch(xt) ~ 1) cos (nt) dt
+sin(nt) (ch(xt) ~ 1) | x sh(xt) sin(nt) dt
+(1/2)
+sh(xt) sin(nt) dt
+On pose
+u(t) sh(xt) v (t) sin(nt)
+u' (t) xch(xt) v(t) = cos(nt)
+(ch(xt) _ 1) cos(nt) dt x2 cos(nt) sh(xt) | n2
+ch(xt) cos(nt) dt
+x2 cos(nt) sh(xt) | n2 Jo   (ch(xt) ~ 1) cos(nt) dt + cos(nt) dt
+(1/2)
+xcos(nn) sh(zx) n2
+(ch(xt) 1) cos(nt) dt
+Ainsi (1 +
+xsh(ux) (ch(xt) _ 1) cos(nt) dt = (~1)" doù n2
+xsh(nx) Jo   (ch(xt) 1) cos(nt) dt (~1)" Vx € R*,Vn € N* n2 + x2
+sin((n + 2)t) Q.38 Montrer que cos(kt) 2 pour tout t eJ0,n] et n € N . 'sin(4)
+eikt =Re (ei1= =Re 1 = eint cos(kt) = Re 1 =gil (e4 k= e-i{ _e{ ei{ _ ei(n+{)t iei4 iei(n+4) sin(4 +sin((n +4)t) Re =Re ~2isin(4) 2sin(2) 2sin(4)
+sin((n + 4)t) cos(kt) 2 Vt €jo, n], Vn € N* 2sin(4)
+(1) Q39 D En déduire que pour tout x € R* et n € N* ona: É(-147 sh(z2) + k2 + 22 2 2x 2
+c(rt) = Z sin((n + {)t) dt . sin(4)
+Page 12 sur 17
 
+--- page 18 ---
+Pour tous x € R* et n € N* , on a : É(-1*"(722 k2 + x2
+É (2 ((æt) ~ 1) cos(nt)4) Jo  (ch(xt) ~ 1) = cos(nt) dt ~1É sin((n Jo  (ch(xt) 468322 2 dt
+(1/2)
+(ch(xt) _ 1)dt + 2J" cn2 7 2 sin((n + 2) dt sin(4) sh(x) ch(rt) = 1 sin((n + 2 2 4)0 dt 2x sin(4)
+(1/2)
+Q.40 > Montrer que la fonction + t + chlrt) = 1 se prolonge en une fonction de classe C1 sur [0, r], puis déduire à sin(4) Yaide dune intégration par parties que
+lim n++o
++(t)sin((n + 4)t) dt 0 .
+La fonction $ : t ++ ch(rt) 1 est de classe C1 sur J0, 7] et ch(xt) _ 1 =x2t 0, ce qui prouve sin(4) sin(4) t2+0+ 4 tHO+ (1/4) que w se prolonge par continuité en 0+ en rajoutant le point +(0) 0. On a xsh(xt) sin(4) = ! cos(5) (ch(xt) 1) "(t) (sin(4))2 xsh(rt) cos(5) ch(xt) = 1 Vt €jo, 7] sin(2) (sin(4))2
+xsh(xt) x2t Or 2x2 et ch(rt)= 1 2x2 et par suite lim w(t) x2 et par conséquent  est sin(4) tH+0+ (sin(2))2 t-+0+ 4 t+0+ (1/4) dérivable en 0+ et w(0) = 22 et clairement #' est continue en 0+ . Finalement; la fonction " se prolonge en une fonction de classe C1 sur [0, z]  En intégrant par parties, on a dt "(t)cos((n + 4)) 422] "(t) sin((n + + J "(#) cos((n + 2)0 dt n+ 2 n+ 2 (1/4) J'"(#)cos((n + 2)0 dt n + 2
+(1/4)
+Jo   "(t) sin((n + 24| < J" /w ()at 0, doù le résultat. n + 4 n ++0
++0 Q41 D Déduire que pour tout x €R' on a 2(-1)"n2 + z0 2z 2sh(uz) n=1 En faisant tendre n ~+ +0 dans légalité démontrée dans la question Q.39, on obtient
++0 2(-1)* Vx € R* R2+z2 2sh(ux) 2x kl
+Page 13 sur 17
 
+--- page 19 ---
+Q42D En utilisant la question Q .36, montrer que pour tout x € R, on a :
+5(-1)".+2 =f (2) -f(r). n=1
+Pour tout réel x, on a
+(1/2)
+5(-1)" n + 7 5 n=1 (2n)2 + x n=0 (2n+1)2+z
+et
+10
+x To f(r) = 5n+z =5 (2n)? + x2 + 5@n+2)2+2 n=1 n=1 n=0
++co +00 2x Donc E(-1)" n+22 + f(r) = 5(2n)z+z2 v -0  = f(æ2 (1/2) n=1 n=1 n=1 +o Ce qui prouve que| E(-1)" n2 + 7 =f(2) - f(r) Vx €R
+Tch(ux) On pose #(x) 2x pour tout x € R* et $(0) = 0. 2sh(nx) Q43 D Vérifier que $ est continue sur Ret que pour tout x € R* on a: =@(x) 2 2sh(ux)
+Ilest cair que $ est continue sur R* et Tch(nx) #(x) 2sh(nx) 2x Tx ch(ux) sh(nx) 2xsh(nx) Ix 4722) TX (n32 +0(23) J(nr)? Tt2 278 0 = 2nx2 9(0) 2nx2 + 0(22) x+0
+(1/4)
+(1/4)
+donc @ est continue en 0 et par suite continue sur R Pour tout x € R* on a
+Tch(z) 1 Tch(nx) #(4) - #(r) 2sh(4) 2sh(ux) 2x (1/42 5(28-4)-: 2 2(ch(2))2 2ch@)sh@) 98, 2r # (+4462-4) 2x (1/42 2sh(ux) 2x
+Page 14 sur 17
 
+--- page 20 ---
+Q44 D Déduire que pour tout x € R, on a : % (2) -#(r) = f (2) f(x) - Daprès les questions Q.41 et Q.42 on a
+0(4) - @(r) Vx €R* 2sh(ux) 2x et daprès la question Q.43, on obtient 9(2)_W(r) = f(3) - f(r) Vx € R: . Cette égalité est encore vraie (1) pour x = 0,doù 0(7) -0() = f(;) - f(r) Vx € R Q45 D Établir que pour tout x € R,on a : f(*) = #(*) On a '0(7) @(r) = f(é) - f(r), Vx € Ret donc @(24) ~ @(2) = f(247) - f() Vx € Rk € N. Ainsi
+É(0(z4)-0(0)) =É(f(za)-f(;)) Vx € R,Vn € N. cest-à-dire %( '2nFi) =#(x) =f25)_f(r) Vx € R,Vn € Net lorsque n 4 +0, on obtient $(0) #(x) = f(o) = f(x) Vx € R Doù | f(x) = $(r) Vx €R
+Partie D
+Q.46 P En utilisant Yexpression de f à laide de 4, vérifier que pour tout x € R* on a :
+((*))? + 2f(r) + Zf(*) 72
+(f(r))2 + 2() + 4() (296)-2) 4 (zs '(7 ch? (zz) '(nx) 2) +1 29() 2 n2ch?(nr) 4(+4]+[; 44) + 4] + T sh? (zx) 2x 2x 9(z) 2x2 7
+Tr2 Donc (f(r))2 + 2f() + Zf() Vx € R* (1) Q.47 > En déduire que pour tout x €] - 1,1[ on a :
+(f(r))? = T2 3 27(2) + 3(-1"-'("+2)4(2n+2)22_
+Page 15 sur 17
 
+--- page 21 ---
+On a (f(*))2 2-4f()- Yf() Vx € R* et donc 2 10 (1/4) (f(r))? Ë(-1"(2n +1)Ç(2n- +2)22n  zP(-1)"z(2n + 2)22n+1 n=0 x n=0 +0 4-E(-1(n+ 4)5(2n + 2)x2n E(-1)"(2n + 2)22n (1/4) n=0 n=0 3 4-Ël-i 4 2)7(2n _ 2)22n (1/4) 72 25(2) Ë ((~1)"(n+ 2)5(2n+ 2)x2n Vx €] _ 1,1[| {0} et par continuité de f en 0 cette égalité vraie pour x = 0,doù
+T2 +o (f(*))? 27(2) (~1)"(n + 2)7(2n~ +2)22n , Vx €] = 1,1[ (1/4) n=1
+Q.48 D En utilisant le produit de Cauchy , montrer que pour tout x €] - 1,1[ ona
++00
+(f(x))? = E(-1)"-1 n=1
+Ç(2k +2)4(2n 2k)
++00 On a f(x) (~1)"Z(2n + 2)22n+1 Vx €] _ 1,1[ et comme une série entière converge absolument sur son n=0 disque de convergence, alors par la formule du produit de Cauchy , on obtient
++oo (f(r))? = Ewn Vx €] = 1,1 [ n=0
+avec
+(1/2)
+Wn
+Ê(-1)c(2 +2)22*+1 '(~1)"-*Z(2(n _ k) +2)x2(n-k)+1 (~1)"22n+2 Ç(2k +2)5(2(n = k) +2) k 0
+donc
+(f(r))2
+E(-1" (É-(2k +2)5(2n  2k +2) 22n+2 Vx €] - 1,1[ n=0
+ou encore
++0 (f(r))2 E(-1)"-' (Ez(2k+2)4(2n 2k) +2n Vx €] = 1,1[ n=1
+(1/2)
+Tt2 Q.49 D Déduire que {(2) = et que pour tout entier n 2 2,on a :
+n +
+2)r(2a) Ez(2k)ç(2n _ 2k)
+Page 16 sur 17
 
+--- page 22 ---
+D'après lunicité du développement en série entière, les questions Q.39 et Q.38 donnent 4 23(2) = O (~1)"-1(n+ 2)3(2n_ +2) = (~1)n-1 Ez(2k +2)4(2n 2k) Vn 2 1 (1/4) 20 (1/2) pour zeta(2) T2 7(2) n=2 (n+ 2)5(2n) Ez(2k +2)4(2n 2k = 2) , Vn 2 2 k0 72 5(2) (1/2) pour zeta(2n)=(1/4)+(1/4) (1/4) (n + 45(2n) Ez(2k)z(2n 2k) Vn 2 2
+Tt6 et Ç(6) 90 945
+Q50 D Vérifier que ((4) Daprès la question précédente, on a (pour n = 2)
+(2+
+4)5(4) Es(2)s(4 2k) Ce qui donne 5 {(2)2 et donc | 5(4) 3 T4 (1/2) T4 23(4) 55(2)? 36 90 Pour n = 3,on a 75(6) w-(2)7( - 2k) = 2Ç(2)7(4) et donc
+Tr2 T6 5(6) 45(2)ç(4) 7 90 945
+(1/2)
+* Fin de lépreuve *
+Page 17 sur 17

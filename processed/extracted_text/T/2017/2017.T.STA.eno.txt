@@ -1,17 +1,369 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE
+~às} &bx?ises gUleg <l Je=aV GgibJl Slusliol unwaid ol 19= J=ln 2017 3192
+Ministère de [Enseignement Supérieur et de la Recherche Scientifique
+Concours Nationaux dEntrée
+aux Cycles de Formation dIngénieurs Session 2017
+s      2 Concours Technologie Épreuve de Sciences & Techniques de lIngénieur
+Épreuve 1 : Conception & Fabrication Mécanique (CFM) Épreuve .2 : Systèmes Techniques Automatisés (S.TA)
+Durée estimée 3 Heures
+Durée estimée 2 Heures
+Date Mardi 30 Mai 2017
+Heure 8.00 H
+Durée 5Heures
+Les épreuves 1 et 2 sont indépendantes chaque épreuve comporte deux parties
+Conception & Fabrication Mécanique (CFM Systèmes Techniques Automatisés (STA)
+A- Conception Mécanique (12pts B- Fabrication Mécanique (08pts) A- Mécanique des Solides Indéformables & RDM (13pts) B - Automatique (07pts)
+Le sujet des épreuves remis au candidat comporte trois dossiers
+1- Mise en situation; Données et Hypothèses 2-Document Réponses Épreuve 1 - CFM 3- Document Réponses Épreuve 2 - STA
+Et des documents techniques (DT-01, DT-02, DT- 03, DT- 04, DT- 05, DT- 06, DT-07, DT- 08, DT-09)
+
+NB Le document technique DT-04 est intégré dans le Document Réponses de lépreuve CFM
+Attention Aucun autre document n'est autorisé Seules les calculatrices de poche non programmables sont autorisées Les deux épreuves sont indépendantes et doivent être traitées sur les documents réponses appropriés. Il n'est fourni au candidat qu'une seule et unique   copie des < dossiers document réponses > CFM & STA qui doivent être rendu en totalité, à la fin des épreuves, même sans réponses
+
+--- page 2 ---
+
+
+Dossier
+Mise en situation; Données et Hypothèses Ce dossier comporte 17 pages numérotées de 1 à 17
+Mise en situation
+Page * 1à3 DT-01
+Document Technique
+Données et hypothèses de lépreuve CFM Page - 4à 7 A- Conception Mécanique Page 4 et 5 Document Technique Conception DT-02 à DT-04 & DT-09 B- Fabrication Mécanique Page 6 et 7 Document Technique Fabrication DT-05 à DT-08 Données et hypothèses de Yépreuve STA Page 8à 16 A- Mécanique des solides indéformables & RDM Page 8à 11  : .  B-  Automatique Page 12 à 16   4 , ; `  ;n + : 
+
+ ' { 8 , 
+NB Le document technique DT-04 est intégré dans le Document Réponses de lépreuve CFM  .
+og 1 ; 7  s   1 `
+1   
+
+--- page 3 ---
+Concours Technologie
+Présentation et Nomenclature Mise en situation, Données & Hypothèses
+ÉTUDE DE PALETTISEUR 1- Mise en situation La palettisation fait partie des techniques de manutention qui ont connu un développement spectaculaire au cours des trois dernières décennies. Elle consiste à grouper un certain nombre de paquetages sur un support appelé < palette > ; Yopération de groupage est réalisée par un palettiseur.
+Actuellement, la   palettisation couvre la majorité des   secteurs  dactivités industrielles. La diversification des produits, les quantités fabriquées et les processus de production ont poussé les constructeurs à inventer et à développer une multitude de palettiseurs Le système  proposé à Vétude fait partie des modèles de   palettiseurs  conçus, fabriqués et commercialisés par Tentreprise SANZ, spécialisée dans la recherche de solutions de conditionnement pour lindustrie (Voir DT-01 et figure. 1). L'étude consistera en lanalyse de quelques sous-systèmes dun palettiseur installé sur une ligne de palettisation de sacs de 5 kg garnis de litière pour chats.
+Figure 1. Vue partielle de lunité de dépose du système de palettisation 2-Unités du palettiseur La palettisation est réalisée avec un ensemble rigidifié par une palette en bois sur laquelle sont posées 10 couches de sacs croisés et regroupés En se basant sur les tâches qu'il effectue; on peut répartir Yespace dimplantation du palettiseur en 8 unités, comme Tillustre le document technique DT-01
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2017
+Page 1 | 16
+
+--- page 4 ---
+Concours Technologie
+Présentation et Nomenclature Mise en situation, Données & Hypothèses
+Remarques
+
+L'acheminement des sacs est assuré par un tapis roulant Le stockage des sacs permet d'éviter le temps mort en aval. 3. Un fardeau est constitué par 2 ou 3 sacs mis côte à côte. Un système  gère ses   regroupements afin que le tapis   lanceur   (Unité V envoie successivement les fardeaux dans la tête de dépose (Unité VI) jusqu'au lempilement total dune palette. 5. La prise et le positionnement dun fardeau sont assurés par la tête de dépose. Après réception dun fardeau pris par la pince, la tête se déplace dans un plan horizontal et pivote autour de son axe vertical, afin de placer le fardeau à la position désirée; au-dessus de la palette: Il y a ensuite ouverture rapide de la pince (dépose du fardeau) puis retour en position initiale.
+3- Rôle de lunité de dépose L'unité de dépose VI, illustrée par le diagramme des inter-acteurs (figure. 2) est Yélément de la chaîne de palettisation qui permet le remplissage dune palette suivant un ordre bien précis est commandée par lautomate du système La tête de dépose fait partie de lunité VI, elle constitue l'élément principal de ladite unité. Elle est composée comme le montre la figure 3 par Un caisson faisant office d'un bâti, il est mobile en translation dans le plan horizontal (X,Y) et en rotation autour dun axe vertical Z Ces déplacements sont pilotés grâce à des ensembles formés de motoréducteurs et de systèmes poulie courroie, Trois vérins (V1), (V2) et (V3), Deux pattes douverture et de fermeture de la pince, Une plaque de rive gauche pour le calage des fardeaux (celle de droite étant inutile dans le cas présent) ,
+Fardeau
+FS7
+Tapis lanceur
+Palette
+FP
+FS2
+FS6
+Unité de dépose
+FS3
+FS5
+Réseau électrique
+FS4
+Automate programmable
+Réseau pneumatique
+Figure 2 Diagramme des inter-acteurs de lunité de dépose FP Déposer le fardeau sur la palette FS5 : Alimenter les actionneurs en énergie FS2 : Lancer le fardeau à lintérieur de la pince électrique FS3 : Piloter la tête de dépose et ses vérins FS6 : Sadapter à la palette FS4 : Alimenter en énergie pneumatique les actionneurs FS7 : S'adapter à la forme du fardeau
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2017
+Page 2 | 16
+
+--- page 5 ---
+Concours Technologie
+Présentation et Nomenclature Mise en situation, Données & Hypothèses
+Vérin V2
+Caisson
+Vérin V1
+Pattes d'ouverture des pinces
+Vérin V3
+Plaque de rive
+Barre de serrage
+Figure 3. Tête de dépose
+Le rôle de la tête de dépose consiste en la prise, le positionnement et la mise en place des fardeaux sur une 'palette les sous fonctions de cet ensemble se présentent comme suit Pouverture et la fermeture des pinces réalisées par les pattes douverture et le vérin (VI) ii le calage latéral des fardeaux obtenu par la plaque de rive et le vérin (V2) iii. le serrage vertical des fardeaux assuré par la barre de serrage, le bras presseur et le vérin (V3)
+d 1n1 ` ^
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2017
+Page 3 | 16
+
+--- page 6 ---
+Concours Technologie
+Conception Mécanique
+Mise en situation Données & Hypothèses
+1. Données et hypothèses de Yépreuve CFM Partie A : Conception Mécanique Al-Étudetechnologique La fonction principale de lunité de dépose consiste à positionner les fardeaux sur les palettes en utilisant les énergies électrique et pneumatique. Les mouvements de la tête de dépose s'effectuent simultanément à vitesses uniformes.
+Chacune des translations le Jong des axes (oX) et (OY) est motorisée par un motoréducteur associé à une poulie motrice et une poulie folle de même diamètre entre lesquelles est tendue une courroie synchrone sur laquelle est montée la tête de dépose. La rotation de la tête de dépose, autour de laxe (OZ), est assurée par un ensemble composé dun moteur électrique; dun réducteur à deux étages (engrenages conique et cylindrique) et dun système poulie-courroie synchrone (DT-02, DT-03).
+A2-Calcul du couple transmissible au niveau delarbre (26) Pour changer la vitesse de rotation; la tête de dépose peut être entraînée soit par le système poulie courroie ou bien montée directement sur larbre (26). La rotation de la tête de dépose est assurée par un moteur électrique et un réducteur à deux étages comme Yillustre le document (DT-02). Dans cette partie, on se propose dévaluer le couple transmissible à la sortie de larbre (26). Le moteur utilisé admet une vitesse Nm 750 tr /min et une puissance P = 1,1 KW.Au démarrage, laccélération angulaire du moteur atteint 9 rd/s2. Le couple de démarrage est défini par Cd 2Cn où Cn représente le couple nominal Pour calculer le couple transmissible au niveau de Yarbre (26), tous les mouvements seront supposés bloqués cela concerne les translations le long des axes (OX) et (OY) ainsi que les mouvements des vérins.
+Le poids total de la tête de dépose y compris celui des fardeaux est estimé à Fa 200 daN . Les diamètres de la butée (42) sont respectivement D42 52 mm, d42 30 mm Les  différentes résistances internes à la butée génèrent un couple assimilé à un couple de frottement interne équivalent à : Fa Cfeq Heq' - Fa' Rmoy Où Heq est le coefficient de frottement interne équivalent de la butée à billes et Rmoy est le rayon moyen ; Heq 0,002. @d? L'axe (OZ) de la charge est confondu avec celui de larbre (26). 0D42 Le moment dinertie équivalent des éléments tournants rapporté à cet axe est estimé à: J = 20 Kg. m2 Le rendement de Yengrenage à dentures hélicoïdales (17/24) admet pour valeur 71 0,99; celui de Yengrenage conique (1/16) est n2 = 0,98.
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2017
+Page 4 16
+
+--- page 7 ---
+Concours Technologie
+Conception Mécanique
+Mise en situation, Données & Hypothèses
+A3-Théorie des mécanismes Pour actionner le mécanisme de la pince, présenté par le schéma cinématique (figure 4), le constructeur propose de placer un moteur électrique sur la liaison L1. Les centres des liaisons placées aux points A, D et E admettent dans le repère Ro(O,oJo, Z0) les coordonnées respectives A(-a,0,0) D(-b,0,~c) ; E(-e,0,f ); Le torseur cinématique de la liaison (Li) du solide (j) par rapport au solide (k) en un point arbitraire M sera noté
+Qi Bi Yi
+Ui Vi Wi
+{1(Li)j/k}M
+L4
+70 V
+Figure 4. Schéma cinématique de la pince
+A4Représentation Graphique Le concepteur propose de remplacer la liaison L1 qui est un pivot daxe (A,go) par une liaison rotule (Voir questions A18 et A-19, Document Réponse) , en utilisant deux roulements à billes à contact 'oblique. ' ; A . 'e ' 2;
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2017
+Page 5 | 16
+
+--- page 8 ---
+Concours Technologie
+Fabrication Mécanique
+Mise en situation, Données & Hypothèses
+Partie B : Fabrication Mécanique
+Cette partie est dédiée à la fabrication du couvercle (1F), de la patte de fixation (4F) et de Yentretoise (9F) de la tête de dépose (Voir figure 5) et (DT- 05). Elle se rapporte à une étude du matériau, de mise en forme des tôles, une étude de projet de gamme de fabrication et une étude de la coupe. 1- Étude de fabrication du couvercle (11 (DT-05) (DT-06) Dans cette partie; on s'intéresse à la production du couvercle (DT- 06), réalisé à partir dune tôle mince dépaisseur 3mm en acier de nuance X5 Cr Ni 18-10 (AISI 304) 2- Étude de fabrication dela patte de fixation (4F) (DT-07) (DT-08) La patte de fixation est réalisée en série renouvelable de 300 pièces /mois sur 2 ans, et dont les spécifications sont définies par le document (DT- 07). Les surfaces usinées sont repérées de 1 à 10 et les surfaces brutes sont repérées de B1 à B3 (DT- 08) . Le brut de départ est obtenu par moulage. La gamme prévisionnelle de fabrication proposée prévoit les phases mentionnées dans le tableau 1
+Iableau 1Gamme prévisionnelle de fabrication proposée Opérations Contrôle des pièces brutes
+Phases
+Procédés
+10
+20
+Usinage des surfaces 1, 2 et 6
+Fraisage
+30
+Usinage des surfaces 3,4 et 5
+Fraisage
+40
+Usinage des trous taraudés 7 et 8
+Fraisage
+50
+Usinage des fentes 9 et 10
+Fraisage
+60
+Contrôle final
+3- Étude de fabrication de lentretoise (9F) L'entretoise est réalisée en série renouvelable de 500 pièces et dont les spécifications sont précisées sur la figure 5. Les surfaces à usiner sont représentées en trait fort. Le brut de départ est débité sur une longueur de 44 mm à partir dune barre de diamètre 1oOmm. L'usinage nécessite une opération de dressage (surépaisseur de 1 mm) et un alésage des surfaces intérieures. La machine utilisée est un tour à commande numérique; de marque REALMECA type, T20, de puissance 2 KW, de directeur de commande NUM. Les paramètres et les conditions dusinages de cette pièce sont définis comme suit
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2017
+Page 6 | 16
+
+--- page 9 ---
+Concours Technologie
+Fabrication Mécanique
+Mise en situation, Données & Hypothèses
+3.1 Etude dela coupe
+Durée de vie de loutil de T = 90 min Vitesse de coupe constante Vcc9o 140m/min Avance par tour f 0,08 mm/tr Vitesse maximale de rotation de la broche Nmax 3000 tr /min Loi de Taylor Vc.Tn = € Exposant de Taylor 0,24 Nombre de pièces Np 500 pièces
+3.2-Usinage Commande Numérique
+Outil à aléser de finition T7 D7 Vitesse de coupe constante Vcc 70 m /min Avance par tour f = 0,1 mm/tr Position de changement doutil X = 160 mm Z = 60 mm Distance dapproche et de dégagement de loutil 2 mm 43
+ .
+8
+R4
+ 
+2 x 45
+21
+Tolérances générales 1SO 2768 mk
+Figure 5. Entretoise à usiner
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2017
+Page 7 | 16
+
+
+--- page 10 ---
+Concours Technologie
+Automatique
+Mise en situation Données & Hypothèses
+2. Données et hypothèses de Yépreuve S:TA
+Mécanique des Solides Indéformables & Résistance des Matériaux
+Al-Étude dela phase douverture de la pince
+Al-1. Présentation La pince est constituée, comme lillustre le schéma cinématique (figure 6), des deux bras (1) et (2) articulés respectivement sur le bâti en 0 et en A. Ces deux bras sont reliés par le vérin (V1). Le corps (3) du vérin (V1) est articulé en A sur le bras (2) alors que sa tige (4) est articulée en C au bras (1). Les deux bras sont également articulés respectivement au point E et D sur la biellette (5).
+On se propose détudier la phase douverture de la pince dans le but de déterminer  les caractéristiques fonctionnelles du vérin (V1) telles que course, vitesse et force réelle maximale. Pendant cette phase les deux translations ainsi que la rotation de la tête de dépose sont bloquées
+Al-2. Repères, paramètres et données On lie le repère Ro(O,70}o, Z0) au caisson (0) jouant le rôle de bâti, ce repère sera supposé galiléen; ayant (0,20) pour axe vertical descendant: Le bras (1) est lié au repère R (0,æ1 y1Z1) il est généré par un déplacement angulaire (rotation) autour de laxe (O,]o) (figure 7), ce déplacement est défini par Œ = (:oæ1) = (Z0,71) avec & 2 Qo. Le bras (2) effectue un déplacement angulaire de même amplitude que celui du bras (1) mais de sens opposé. Il est lié au repère Rz(A,72 yz, 22) (figure 6) L'ouverture de la pince est assurée par le vérin (V1) et est contrôlée par le paramètre 2, il est tel que: BC = (Lo + 1)7 ao et Lo sont respectivement les valeurs de & et de la longueur du vérin correspondant à la position fermée de la pince.
+La longueur de la biellette (5) est fixée une valeur d = llDE||  sa position angulaire est représentée par Yangle 0 défini par (x0,w5). Les autres caractéristiques dimensionnelles des bras sont exprimées respectivement par les relations
+O' = -Lro OE ~r1 AB =OC = R , AD =r et B = (AD,-22 Dans la présente étude; on s'intéresse à la phase douverture durant laquelle la norme de la vitesse angulaire du bras (1) par rapport au bâti (0) est constante et doit vérifier à = W
+En négligeant les effets d'inertie des   pattes douverture de la pince, on pourra admettre que (0,71, 71) est un plan de symétrie létude sera réduite à un problème plan. La position du centre dinertie G1 du bras (1) est définie dans le repère Ra par le vecteur 0G1 = ~a7 + bZ avec a > 0 etb > 0.
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2017
+Page 8 16
+
+--- page 11 ---
+Concours Technologie
+Automatique
+Mise en situation, Données & Hypothèses
+Le bras (1) est assimilé à un solide homogène de masse m1 et de moment dinertie I1 par rapport àlaxe (O,j1) supposé axe principal dinertie Il est soumis à laction de la pesanteur avec g g70 (accélération de la pesanteur) .
+7o
+Jo = }1 = }2
+42
+42
+ 70 
+J 71
+
+Figure 6.  Schéma cinématique de la pince
+{1
+Jo = V1
+4 %
+7o
+1
+Figure 7. Représentation plane de la rotation du bras (1)
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2017
+Page 9 | 16
+
+--- page 12 ---
+Concours Technologie
+Automatique
+Mise en situation, Données & Hypothèses
+Toutes les liaisons sont supposées parfaites, les actions de liaison s'appliquant au bras (1) peuvent être modélisées par les torseurs définis dans le tableau 2 On précisera enfin que a, b,L, Lo, d,r, R et B sont des constantes liées à la forme géométrique des bras, alors que 2,œ et 0 sont des paramètres de position (variables) de la pince. Tableau 2. Torseurs des actions mécaniques
+0/1 Xowo + Zo70 Mo(/1) 0
+Caisson (0) au point 0 {To/1}o
+F4/1 Fc*o {r4/1}c Mc(4/1) 0
+Tige (4) au point
+avec Fc 2 0
+Fs/1 FEXs Biellette (5) au point E {Ts/1}E [ME(s/1) oJ
+A2- Résistance des matériaux Etude du dispositif de serrage
+A2-1. Présentation Le dispositif de serrage (figures 8 et 9), incorporé à la tête de dépose; est utilisé pour empêcher les fardeaux de glisser lors des déplacements rapides de celle-ci. Le vérin (V3) articulé par rapport au caisson (0), autorise la rotation du bras presseur (BP3) autour de son articulation en C3 par rapport à la plaque de rive (PR2). Celui-ci exerce alors un effort en A3 sur le fardeau (FA4). L'expérience montre que cet effort doit être au minimum de 5 daN mais il peut atteindre 10 daN.
+Caisson (0)
+Patte d'ancrage
+Vérin (V3)
+Plaque de rive (PRZ)
+Bras presseur (BP3)
+Fardeau (FA4)
+Figure &.  Dispositif de serrage des fardeaux
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2017
+Page 10 | 16
+
+--- page 13 ---
+Concours Technologie
+Automatique
+Mise en situation, Données & Hypothèses
+Lobjectif de cette étude de résistance de matériaux consiste en lanalyse du   chargement mécanique du bras presseur, au cours du serrage des fardeaux A2-2. Modèle de chargement du bras presseur Le bras presseur est assimilé à une poutre droite appuyée simplement à une extrémité au point A3 et est articulée; au point C3 à  autre extrémité. Elle est soumise; de la part des fardeaux (figure 9), à la force F1. Au cours du serrage le vérin (V3) doit exercer la force Fz au point B3, défini par A3B3 cz. L'action de la plaque de rive (PR2) sur le bras presseur est modélisée par
+F3 = Xcx + YcJ
+7%
+Fz
+B3
+A3
+0 z 
 
 
 
+Figure 9. Modèle de chargement du bras presseur Les hypothèses retenues sont pendant le serrage; le caisson, les pinces, la plaque de rive, les vérins (V1) et (V2) sont fixes: les fardeaux (FA4) sont considérés rigides. les poids propres des pièces et les frottements sont négligés. le bras presseur (BP3) est une poutre droite et continue de longueur Lb et de section rectangulaire e x h (figure 10)
+>|
+Figure 10. Modèle géométrique du bras presseur
+A2-3. Données Effort développé par les fardeaux F1 =10 daN Longueur du bras presseur Lb 0.400 m Distance entre A3 et B3 c = 0.145 m Inclinaison de F1 : & = 60" Inclinaison de Fz % = 30 Rapport largeur /hauteur de la section droite du bras presseur
+0.25
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2017
+Page 11 | 16
 
+--- page 14 ---
+Concours Technologie
+Automatique
+Mise en situation; Données & Hypothèses
+Partie B : Automatique
+B.1-Étude dela fonction principale FP : Déposer le fardeau sur la palette Cette partie concerne létude de la fonction Modèle 1 Modèle 2 principale Déposer les fardeaux sur la palette > Notons que ces fardeaux sont de trois modèles dont deux ont la même longueur et un troisième plus long comme le précise la figure 11. La   palette à remplir est posée sur un support permettant; sa mobilité verticale en fonction du remplissage, et son évacuation une fois complètement chargée. Une nouvelle   palette est alors mise sa  place afin dêtre  remplie.  La mobilité verticale et lévacuation des Modèle 3 palettes ne font pas partie de la présente étude. Figure 11 Les 3 modèles de fardeaux à palettiser La palette est remplie couche après couche. Chaque fois que le remplissage dune couche est terminé, le support portant la palette descend, suivant la direction 2 , dun incrément de hauteur égale à celle dun fardeau (voir figure 12). La palette n'est animée daucun autre mouvement lors du chargement. En effet; le positionnement sur palette des différents fardeaux se fait par la tête de dépose qui est animée de deux mouvements de translation selon les directions % et } et une rotation autour de Yaxe z comme le montre la figure 12 g
 
+1
+Sens de Sens de rotation déplacement  selon x
+selon  y déplacement = Sens de
+Fardeau à lancer
 
+Couche type 1
+Couche type 2 Couche type 1
+Palette en cours de chargement
+Figure 12 Vue partielle de lunité de dépose
+Concours nationaux d'entrée aux cycles de formation d Yingénieurs
+Session 2017
+Page 12 16
 
+--- page 15 ---
+Concours Technologie
+Automatique
+Mise en situation; Données & Hypothèses
+On rappelle que la tête de dépose est équipée de trois vérins pneumatiques bistables (figure 14) munis de capteurs de fin de course pour détecter les positions limites du piston Vérin (V1) pour actionner la fermeture /ouverture de la pince, Vérin (V2) de positionnement de la plaque de rive permettant de s'accommoder aux deux gabarits de fardeaux (voir figure 11), Vérin (V3) assurant le serrage du fardeau contre les plaques de la pince. La disposition des fardeaux sur la palette; à raison de cinq par couche; est choisie de manière à avoir une meilleure stabilité de lensemble fini. Pour ce faire, les couches superposées sur la palette sont de deux types type 1 et type 2 (figure 13). Leur remplissage s' effectue toujours en commençant par un fardeau du modèle 3 ensuite le reste des fardeaux, modèles 1 et 2, seront ajoutés dans Yordre mentionné sur la figure 13 (c'est à dire dans Yordre suivant modèles 3-1- 1-2-1).
+Couche type 1
+Couche type 2
+Figure 13. Les deux types de couches à former, les numéros encerclés désignent Yordre de remplissage pour chaque type Conditions initiales Le cycle de remplissage de la palette commence par une consigne de départ cycle "Dcy" issue de Yautomate à la suite des opérations de préparation et dordonnancement des fardeaux. Ainsi, ledit cycle démarre lorsque les conditions suivantes sont satisfaites une palette vide est présente dans la zone de remplissage (p 1), la pince est en position fermée, le vérin V3 de serrage en position levée. Déroulement du cycle La mise en marche du tapis lanceur à commande monostable "Tap' permet denvoyer un premier  fardeau du modèle 3 à lintérieur de la pince et au contact de la plaque de rive déclenchant ainsi le capteur t1 et arrêtant en même temps le tapis lanceur. La plaque de rive étant préalablement positionnée avec le vérin (V2) à la position @ (correspondant à b 1)
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2017
+Page 13 | 16
 
+--- page 16 ---
+Concours Technologie
+Automatique
+Mise en situation, Données & Hypothèses
+adaptée aux grands fardeaux. Le vérin de serrage (V3) vient ainsi serrer le fardeau c1 = 1 et lancer simultanément les opérations de rotation de lensemble tête de dépose (rotation autour de laxe z commandée par les macro-étapes M3O et M1OO) et le mouvement de positionnement en translation (" ,v) au-dessus de la palette: Les macro-étapes M2O (mouvement dallée de la tête de dépose) et M22 (mouvement de son retour) sont relatives à la commande des mouvements de translation (7 ,y) de la tête de dépose entre la position de réception des fardeaux et celle de dépose sur palette. Ces macros-étapes MO et M22 ne seront pas traitées dans la présente étude. Une fois arrivée au-dessus de la palette, la pince entame son mouvement d'ouverture en même temps que le desserrage du fardeau. Une temporisation de 5 secondes après Youverture complète de la pince permet de s'assurer de lévacuation du  fardeau   qui va se déposer convenablement à son emplacement sur la palette. La pince se referme et la plaque de rive doit prendre la position afin de permettre la réception des petits fardeaux (modèle et 2). L'ensemble tête de dépose doit revenir à la position initiale en translation et en rotation afin de recevoir le nouveau fardeau. Un compteur K permet de suivre Iopération de chargement des trois modèles de fardeaux. Ce compteur s'incrémente au fur et à mesure du remplissage et s'initialise en fin de remplissage dune couche.
+Un deuxième compteur N permet de suivre l'évolution du remplissage des couches et s'initialise en fin de remplissage dune palette: Sortie du vérin V2
+Sortie de la tige du vérin V3
+Mouvement pour serrer le fardeau avec le vérin V3
+Passage à la position @ correspondant à un grand fardeau
+Position de sortie de la tige du vérin V1 lors de louverture de la pince
+Capteur de position rentrée de la tige du vérin Capteur de position sortie de la tige du vérin
+Mouvement douverture
+Figure 14. Aperçu partiel de la tête de dépose précisant les mouvements des pièces sous laction des vérins associés
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2017
+Page 14 | 16
 
+--- page 17 ---
+Concours Technologie
+Automatique
+Mise en situation, Données & Hypothèses_
+Le tableau 3 ci-dessous résume les différentes abréviations à utiliser dans la présente partie Iableau 3 Abréviations adoptées pour le système étudié Abréviation Description
+V1 + (resp. V1 -) Sortie (resp. Retour) du vérin V1
+V2 + (resp. V2 =) Sortie (resp. Retour) du vérin V2
+V3 + (resp. V3 =) Sortie (resp. Retour) du vérin V3
+Tap
+Avance rapide du tapis lanceur de fardeaux
+Commande de départ cycle
+ao (resp. a1)
+Présence en position limite rentrée (resp. sortie) du vérin V1
+bo (resp. b1)
+Présence en position limite rentrée (resp. sortie) du vérin V2
+Co (resp. C1)
+Présence en position limite rentrée (resp. sortie) du vérin V3
+Présence du fardeau en contact avec la rive
+Présence d'une palette vide en zone de remplissage
+K
+Compteur des fardeaux (de 1 à5 pour une couche)
+N
+Compteur des couches (de 1 à 10 pour une palette)
+B.2- Étude du positionnement dela tête de dépose L'étude suivante vise à vérifier les performances dune structure de commande dun des deux axes de positionnement de la tête de dépose dans le plan (æ ,y). Le contrôle des déplacements de celle-ci exige une commande en vitesse et en position avec des performances fixées par le cahier des charges. Fonction de service Critère Niveau Dépassement < 19 Positionner la tête de dépose dans le plan Erreur de position nulle Erreur de traînage < 75%
+La figure 15 représente le schéma de principe de lasservissement et de la régulation de la position selon Yaxe z. On désire que celui-ci puisse atteindre une position linéaire consigne xc exigée par lautomate en dépit de la variation du poids de lensemble tête de dépose + fardeau Pour cela, on propose un schéma de commande qui consiste utiliser une tension d'erreur ve (t) _ vs (t) amplifiée par un gain A,à lentrée dun moteur à courant continu dédié au positionnement de la tête de dépose selon l'axe % Le moteur entraîne une poulie motrice par lintermédiaire dun réducteur. Cette poulie est reliée à une courroie sur laquelle on fixe le système de guidage en translation de la tête de dépose de manière à ce que la vitesse de la tête et celle de la courroie soient identiques. La position linéaire de lensemble tête de dépose, notée xs(t) quele système cherche à atteindre
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2017
+Page 15 | 16
+Dcy
 
-
-
-
-
-
-
-
+--- page 18 ---
+Concours Technologie
+Automatique
+Mise en situation, Données & Hypothèses
+est reliée à la position angulaire de la poulie motrice par la simple relation Xs 0s. (d/2) avec d diamètre de la poulie motrice. Asservir en position linéaire Xs revient à asservir la position angulaire de cette poulie motrice 0s. Pour ce faire, un capteur délivrant une tension vs(t), est inséré dans la chaine traduisant cette position angulaire €s
+"s (t)
+Consigne de position Adaptateur ve(t) de gain
+Comparateur u (t) amplificateur
+Réducteur
+Poulie motrice
+Poulie folle
+courroie synchrone
+Capteur de position angulaire
+Tête de dépose
+Fardeau
+Figure 15. Schématisation de la chaine de commande d'un moteur de positionnement de la tête de dépose selon laxe % Commande du système simplifié (Inductance L 0)  Le moteur peut être représenté par la mise en série dune résistanceR, dune inductance (considérée négligeable dans cette étude) et dune f.c.e.m E donnée par la relation E = K.Wm où Wm est la vitesse de rotation du moteur. Nous supposerons que linertie équivalente de Tensemble en mouvement ramenée à larbre du moteur est J et que le couple de frottement est Cf = f .Wm (frottement visqueux) . Soient
+dom (t) Cm (t) = J- fwm(t) dt
+Ve (t) Ka. 8e(t)
+Ws
+Cm (t) = K.i(t)
+(2) < Wm(t)
+u(t) = K.Wm (t) + R.i(t)
+(3)
+u(t) = A. €1 (t)
+des (t) Ws (t) dt
+(4)
+€1 (t) Ve (t) _ vs(t)
+(9)
+vs(t) = K1. 0s (t)
+(5)
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2017
+Page 16 | 16
+Moteur /

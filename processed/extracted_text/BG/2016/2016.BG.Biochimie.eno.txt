@@ -1,3 +1,98 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de l'Enseignement Supérieur et de la Recherche Scientifique
+923j)ui3) æ~-=lb>tBs &ab dsiat "ibsi @1bLiji iunikl insf Jsl>|i 2016 *3
+Concours Nationaux dEntrée aux Cycles de Formation d'Ingénieurs Session 2016
+Concours Biologie & Géologie
+Epreuve de Biochimie, Biologie Cellulaire; Génétique
+Date Mardi 31 Mai 2016
+Heure 8 H
+Durée 2 H
+Nb pages 4
+Barème
+(L'utilisation de la calculatrice est autorisée)
 
+EPREUVE DE GENETIQUE (20 points
+ss  ^
+Exercice 1 : (08 points) La séquence dADN suivante représente le brin non transcrit d'une partie dun gène bactérien dune souche sauvage. Cette partie de la séquence code pour les acides aminés 30 à 38 dune enzyme E qui fait 150 acides aminés 2
+5
+TAGTGATAGATTGTAACGCTCCCAGTTACC .3'
+1. Donner la séquence du brin d'ADN complémentaire ainsi que la séquence de 1ARNm correspondante. i 2. En utilisant le tableau du code génétique et en précisant le sens de lecture, déterminer la séquence du polypeptide correspondant:. 3. A partir de la souche sauvage, trois mutants ont été isolés dont 1= 'analyse des séquences peptidiques de lenzyme E a donné les résultats suivants
+Mutant 1 : Penzyme E ne comporte que les 31 premiers acides aminés. Mutant 2 Pacide aminé 33 est remplacé par le tryptophane. Mutant 3 la séquence de lenzyme E est modifiée à partir de lacide aminé 36
+4. Préciser la nature de chacune de ces 3 mutations en justifiant votre réponse.
+Exercice 2 (12 points) Chez la drosophile on dispose de deux souches mutantes; lune aux yeux rouges vifs vermillon > [v] lautre à soies frisées K singed > [sn] La souche sauvage est aux yeux rouges briques et soies normales. Le croisement de femelles [v] avec des mâles [sn] a fourni une descendance FI composée de 100 femelles [+] et 100 mâles [v]. Le croisement entre les femelles Fl et les mâles Fl a fourni une descendance composée de
+150 femelles [+] et 150 femelles [v] 141 mâles [v], 141 mâles [sn], 9 mâles [+] et 9 mâles [v sn]
+Concours Biologie et Geologie Session Juin 2016
+Epreuve de Biochimie, Biologie Cellulaire, Génétique
+Page 1/4
 
+--- page 2 ---
+1. Interpréter les résultats obtenus en FI et en F2 pour le caractère < couleur des yeux > et pour le caractère < nature des soies > 2. Déterminer si les gènes contrôlant ces caractères sont indépendants ou liés. 3 Dans le cas de la liaison; calculer la distance génétique. 4. Prévoir les résultats théoriques en Fl et en F2 du croisement entre des femelles de la souche sauvage et des mâles double mutants [v sn]
+Code génétique
+U UUU Phe UUC Phe U UUA Leu UUG Leu CUU Leu CUC Leu CUA Leu CUG Leu AUU Ile AUC Ile A AUA Ile AUG Met GUU Val GUC Val G GUA Val GUG Val
+C UCU Ser UCC Ser UCA Ser UCG Ser CCU Pro CCC Pro CCA Pro CCG Pro ACU Thr ACC Thr ACA Thr ACG Thr GCU Ala GCC Ala GCA Ala GCG Ala
+A UAU Tyr UAC Tyr UAA STOP UAG STOP CAU His CAC His CAA GIn CAG GIn AAU Asn AAC Asn AAA Lys AAG Lys GAU Asp GAC Asp GAA Glu GAG Glu
+G UGU Cys UGC Cys UGA STOP UGG Trp CGU Arg CGC Arg CGA Arg CGG Arg AGU Ser AGC Ser AGA Arg AGG Arg GGU Gly GGC Gly GGA Gly GGG Gly
+EPREUVE DE BIOCHIMIE (20 points
+Exercice 1 (10 points) Soit le peptide P suivant : Gln-Val-Lys-Tyr-His-Ala-Asp-Phe-Arg-Asn-Asp-Glu 1  Ce peptide P est soumis à un traitement enzymatique par la chymotrypsine a. Rappeler le rôle de la chymotrypsine b. Indiquer la séquence et la formule semi développée des peptides obtenus après traitement par la chymotrypsine; et leur charge globale nette à pH=6,5.
+2 Les peptides obtenus par ce traitement sont soumis à une électrophorèse à pH 6,5. a. Indiquer sur un schéma, la position de chacun de ces peptides. b D après vous; le pH de 6,5 est il adéquat pour obtenir une bonne séparation ? Si non; donner la valeur de pH qui est adaptée; en justifiant votre réponse.
+Concours biologie et Géologie Session Juin 2016
+Epreuve de Biochimie, Biologie Cellulaire; Génétique
+Page 2/4
 
+--- page 3 ---
+Données tableau des pKa des Acides aminés Acide aminé pK COOH
+pK - NHz
+pK - R:
+Alanine
+2,35
+9,87
+Arginine
+1,82
+8,99
+12,48
+Asparagine
+2,14
+8,72
+Acide aspartique
+1,99
+9,9
+3,9
+Glutamine
+2,17
+9,13
+Acide glutamique
+2,1
+9,47
+4,07
+Histidine
+1,8
+9,33
+6,04
+Lysine Phénylalanine
+2,16
+9,06
+10,54
+2,2
+9,31
+Tyrosine
+2,2
+9,21
+10,46
+Valine
+2,29
+9,74
+Exercice 2 (10 points)
+Soit létude de lactivité de lenzyme E.
+Le suivi de l'apparition du produit P en fonction du temps a permis de mesurer la vitesse initiale Vi pour différentes concentrations de substrat S [S] en M 0,0125 0,025 0,05 Vi en umollminute 133 167 190
+1 . Donner la définition de Vmax et du Km: 2. Déterminer graphiquement les constantes cinétiques de cette enzyme; en précisant les unités .
+Les mêmes expériences sont effectuées mais en ajoutant un effecteur X à une concentration de 0,002 M. On obtient les résultats suivants [S] en M 0,0125 0,025 0,055 Vi en umollminute 28,5 50 90,9
+3 _ Déterminer la nature de laction de cet effecteur X sur 1enzyme, en justifiant votre réponse.
+Concours Biologie et Géologie Session Juin 2016
+Epreuve de Biochimie, Biologie Cellulaire; Génétique
+Page 3/4
+
+--- page 4 ---
+1 . .
+Concours Biologie et Géologie Session Juin 2016
+Epreuve de Biocbimie, Biologie Cellulaire; Génétique
+Page 4/4

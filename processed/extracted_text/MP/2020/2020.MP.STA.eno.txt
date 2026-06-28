@@ -1,37 +1,634 @@
+--- page 1 ---
+~y>4 &bæl?lgï; gUlegl UUsis"2+4l C2LJy @~=ajJ _ vesU 2020 229*
+REPUBLIQUE TUNISIENNE
+Ministère de 1Enseignement Supérieur et de la Recherche Scientifique
+Concours Nationaux d'Entrée aux Cycles de Formation d'Ingénieurs Session 2020
+Concours Mathématiques-Physique & Physique-Chimie Epreuve de Systèmes Techniques Automatisés
+Date Samedi 18 Juillet 2020 Heure : 8 H Durée : 3 heures
+Lépreuve comporte trois parties A Conception mécanique (03 pts) B Mécanique des solides indéformables (09 pts) C - Automatique (08 pts) Le sujet de lépreuve remis au candidat comporte trois dossiers ler "Mise en situation, Données et Hypothèses" , 2ème Trois documents techniques DT-01, DT-02 et DT-03. 3ème "Document Réponses" contenant les questions à traiter. NB. Aucun autre document n'est autorisé. Seules des calculatrices de poche non programmables sont autorisées. Un seul et unique document réponses est fourni au candidat et doit être rendu en totalité, à la fin de lépreuve, même sans réponses. Aucune feuille du document réponses ne doit être supprimée (cet acte est considéré comme étant une tentative de fraude).
+700 0
 
+--- page 2 ---
+Dossier
+Mise en situation, Données et Hypothèses
+Ce dossier comporte 10 pages Mise en situation pages de 1 à 4 Données et hypothèses partie A-Conception mécanique page 4 Données et hypothèses partie B-MSI pages 5 à 7 Données et hypothèses partie C-Automatique pages de 8 à 10
 
+--- page 3 ---
+Concours MP-PC
+Epreuve STA
+Mise en situation, Données et Hypothèses
+PRESSE D' INJECTION DE MATIÈRE PLASTIQUE
+Mise en situation
+Le système présenté par le document technique DT-01 est une "presse d'injection' 80 Tonnes qui permet l'obtention de pièces moulées par injection de la matière plastique (polymère) Ce 'procédé de moulage seffectue selon les trois étapes suivantes chauffer et porter à létat fondu la matière plastique, injecter; sous haute pression; cette matière fondue dans un moule comportant Yem- preinte de la pièce désirée, refroidir rapidement le moule afin de ramener la matière plastique injectée à Yétat solide. Ces étapes, bien qu' 'elles peuvent paraître simples dans leur description, présentent des com - plexités sur le plan physico-technique: En effet; chaque type de matière plastique à injecter doit faire objet de consignes de chauffage, de pression et de vitesse de refroidissement en bonne adéquation Cela permet d'éviter les défauts de fabrication et satisfaire les propriétés de résistance finales désirées. Dans cette épreuve, nous proposons létude de la presse d'injection illustrée par la figure 1_ Cette presse est constituée des sous-systèmes suivants une unité dalimentation en pression hydraulique, un automate programmable, une unité de plastification équipée dun système de régulation de température, une unité de fermeture et de verrouillage du moule, un moule d'injection doté de système de refroidissement:.
+Unité de plastification injection
+Unité de fermeture et de verrouillage
+g 09
+Emplacement du moule d'injection
+Pupitres de commande FIGURE 1 -Sous-systèmes de la presse d'injection
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2020
+Page : 1/10
 
+--- page 4 ---
+Concours MP-PC
+Epreuve S.TA
+Mise en situation, Données et Hypothèses
+Diagramme SADT La figure 2 représente Y'actigramme SADT niveau A-0 de la presse d'injection proposée à létude. Cet actigramme permet de cerner la fonction globale de la machine ainsi que les données de contrôle, les entrées et les sorties secondaires.
+Programmes Ordres Energie Electrique Eau froide Réglages
+colorant
+Informations & Bruit
+Matière première
+Mouler des pièces plastiques par injection
+Pièce moulée par injection A-0 déchets
+Presse d'injection
+FIGURE 2 - Actigramme niveau (A-0) de la presse d'injection
+Description de Yunité de plastification Lélément principal de cette presse d'injection est Yunité de plastification (voir figure 1) C'est le sous-système qui permet la préparation et linjection de la matière plastique Il se compose, comme lindique la figure 3,dune trémie de stockage de la matière première sous forme de poudre, de granulé ou de lentilles. Cette matière passe en premier lieu dans un cylindre pour être emprisonnée entre la paroi de celui-ci et une longue vis ayant des filets à pas variable La matière confinée sera chauffée et mise sous pression pour être ensuite prête  à linjection. Durant le cycle d'injection; la vis en rotation avance sous laction dun vérin pour permettre linjection de la matière fondue à travers une buse dans Yempreinte du moule
+buse
+Trémie de stockage
+Vis
+Clapet 2 Fourreau 5 Vérin d'injection Buse Moteur (plastification)
+3 zones de chauffage
+Zone 3
+Zone 2 T2
+Zone
+Capteur de température 03
+Capteur de température @2
+Capteur de température 01
+FIGURE 3 _ Unité de plastification
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2020
+Page : 2/10
 
+--- page 5 ---
+Concours MP-PC
+Epreuve S.TA
+Mise en situation, Données et Hypothèses
+La figure 4 présente le cycle  d'injection développé en trois phases accostage et dosage de la matière avec moule fermé (figure 4-a), remplissage de lempreinte du moule et compactage de la matière plastique suivie d'un refroidissement (figure 4-b) ouverture du moule et éjection de la pièce finie accompagnée du recul de la vis pour reprendre un nouveau cycle dinjection. moule plastique en granulé partie mobile partie fixe système de chauffage vis piston (a)
+canalisation de
+mouvement de rotation continue
+refroidissement à l'eau
+(b)
+mouvement d'avance lors de l'injection
+5sss
+pièce obtenue
+mouvement de recul après injection
+FIGURE 4 - Schématisation simplifiée des étapes d'injection
+Unité de fermeture et de verrouillage Lunité de fermeture et de verrouillage est destinée au positionnement et à la fixation de moules pouvant avoir différentes tailles et den assurer ensuite le cycle de fermeture, de verrouillage et douverture.
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2020
+Page 3/10
 
+--- page 6 ---
+Concours MP-PC
+Epreuve S.TA.
+Mise en situation, Données et Hypothèses
+Cette unité est composée de deux plateaux, Yun est mobile (plateau mobile) et Yautre est fixe La partie mobile se déplace en respectant un profil de vitesses bien déterminé au cours dun cycle dinjection. Cette unité sert aussi à appliquer la force de fermeture et à centrer les deux parties du moule lors de sa fermeture
+Le moule et le système de refroidissement Afin daugmenter la cadence de production; le moule doit être refroidi rapidement pour solidifier en un minimum de temps la matière injectée dans lempreinte. Le refroidissement est assuré par une circulation deau froide à travers des canalisations percées à lintérieur du moule.
+Partie A Conception Mécanique Système de réglage de lunité de fermeture La figure 5 présente le schéma cinématique simplifié du système de réglage de Yunité de fermeture et de verrouillage. Ce système permet le réglage de la position du sommier (9C) avant le démarrage de la production (opération nécessaire lors dun changement de moule)  Le mouvement de translation de ce sommier s'effectue à faible vitesse, iÏ est produit par un moteur électrique rotatif (16C) et un mécanisme de transmission / transformation de mou- vement.
+Yo
+Partie non concernée par létude de conception
+Y3
+94
+*o
+Moteur
+Sommier
+FIGURE 5 schématisation du système de réglage de la position du sommier (9C)
+Notons que ce sommier (9C) sera considéré fixe et solidaire du bâti dans la partie Bde cette épreuve
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 4/10
 
+--- page 7 ---
+Concours MP-PC
+Epreuve STA
+Mise en situation, Données et Hypothèses
+Partie B Mécanique des solides indéformables Unité de fermeture et de verrouillage du moule
+B.1 Présentation Létude porte sur Yunité de fermeture et de verrouillage mécanique à double genouillères illustrée par la figure 6. Cette unité est constituée dun mécanisme permettant au moule doccuper trois positions position douverture du moule (figure 6-a) position intermédiaire (figure 6-b) position de fermeture et de verrouillage (figure 6-c) Sommier position Biellette ( 2) Bielle (3) Genouillère (4) Colonne de guidage Plateau fixe réglable Plateau mobile (5)
+Vérin
+Croisillon
+Mécanisme de réglage du sommier lors du changement de moule
+position initiale de la genouillère
+(b) position intermédiaire (c) position finale FIGURE 6 _ Configurations possibles du mécanisme de verrouillage. (Pour une meilleure visibilité, des pièces en avant plan ont été cachées )
+B.2 Repères, paramètres et données Le mécanisme de fermeture et de verrouillage de la presse dinjection représenté par le schéma cinématique minimal figure 7 est constitué de un croisillon solidaire dune tige de vérin hydraulique, formant le solide (1) en liaison pivot glissant daxe (O,zo) avec le bâti (0). un plateau mobile (5) en liaison glissière d'axe (I,70) avec le bâti (0) (cette liaison est équivalente à la liaison de (5) avec les quatre colonnes de guidage et la liaison appui plan avec (0)). deux sous-systèmes (S) et (S') identiques de point de vue constituants et symétriques par rapport au plan (0,70,Z). Le sous-système (S) est composé de
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2020
+Page : 5/10
 
+--- page 8 ---
+Concours MP-PC
+Epreuve S.TA
+Mise en situation, Données et Hypothèses
+deux billettes placées symétriquement par rapport au plan (O,70,7o) Cette symé- trie permet de modéliser ces deux billettes par un seul solide (2) situé dans le plan de symétrie. une bielle (3) située dans le plan (O,70,7o) . deux genouillères placées de part et d'autre du plan (0,70,70). Elles seront mo- délisées par le solide (4) situé dans ce même plan. Du point de vue liaisons le solide (2) est articulé au solide (1) au point B , la bielle (3) est articulée dune part en C au bâti (0) et dautre part en D au solide (2), le solide (4) est articulé en F au plateau mobile (5) et en E à la bielle (3). Le moule est composé de deux parties (MI) et (M2) fixées respectivement sur le plateau mobile (5) et le plateau fixe solidaire du bâti (0). Les symétries que possède le mécanisme de fermeture et de verrouillage des moules, per - mettent de simplifier l'étude en ne traitant que le sous-système (S) . Onconvient d'appeler équipage mobile lensemble (Z1) défini par: Z1 = {(1), (2), (3), (4), (5)}
+Jo
+Jo 42
+12 ,
+40
+Zo
+Yo J3 B
+13 
+B__
+B'
+Z0
+Jo
+y4
+Zo
+14
+FIGURE 7 - Schéma cinématique du mécanisme de fermeture
+Tous les mouvements des solides formants (Z1 sont définis par rapport au repère Ro(0,70,70,Z0) lié au bâti (0) de la presse. Ce repère sera supposé 'galiléen ayant pour axe vertical ascendant (0,90) Le mouvement de translation du solide (1) par rapport au bâti (0) est paramétré par 4. Le mouvement de translation du plateau (5) par rapport au bâti (0), est paramétré par ]. On associe aux solides (2), (3) et (4) de l'équipage mobile (E1), les repères suivants R2(B,72,72,Z0) lié au solide (2) tel que sa rotation par rapport au bâti (0) est définie par langle & = (70,72) (J0,92) . Rs(C,z3,73,Z0) lié à la bielle (3) tel que sa rotation par rapport au bâti (0) est définie par Yangle B = (70,73) (70,93)
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2020
+Page 6|10
 
+--- page 9 ---
+Concours MP-PC
+Epreuve STA
+Mise en situation, Données et Hypothèses
+R4(F,74,74,20) repère lié au solide (4) tel que sa rotation par rapport au bâti (0) est définie par Yangle Y (:0,74) (70,94)
+La Figure 8 représente de façon approxima- tive le cycle de fermeture et de verrouillage du moule. Ce cycle s'effectue en quatre étapes I, II, III et IV. La fermeture du moule est réalisée avec une avance uniformément accé - lérée (étape I) suivie dune avance à vitesse constante V (étape II ); le mouvement dap- proche est réalisé avec une avance uniformé- ment décélérée (étape III ) ; létape IV corres- pond à la phase de verrouillage et d'injection.
+IV
+t1   t2
+t3
+t4 temps
+FIGURE 8-Cycle de fermeture et de ver- rouillage
+Données du problème Les paramètres et les données géométriques de léquipage mobile sont définis par les rela - tions vectorielles suivantes OA = Axo  OG uTo AB ago ; BB = Ræ2;Dè = dy3; EB = cy3 ; EF = hga;I6 Lyo. où a, R, c, d, h et L sont des caractéristiques dimensionnelles (constantes) de léquipage mobile, 4, B, Y, H et 4 sont les paramètres de Yéquipage mobile (variables de configuration). Laccélération de la pesanteur est définie par 8 ~gyo. Laction du vérin sur (1), au point A, est modélisée par le torseur Fv7o {9(Vérin-+1)} A 0
+Hypothèses H1 La liaison équivalente entre le plateau (5) et le bâti (0) est une glissière daxe (I,70) Cette liaison se caractérise aussi par un frottement de glissement de coefficient f , cela engendre une action mécanique représentée au point de contact I par le torseur Xos {9(0-+5)}1 Yos Nos Toutes les autres liaisons de Y'équipage mobile seront supposées parfaites. Hz Compte tenu de limportance de la masse M du plateau (5) devant les masses respec- tives des composants (1), (2), (3) et (4), celles-ci seront négligées. Les forces d'inerties associées à ces solides seront considérées négligeables par rapport aux forces transmis- sibles par les liaisons. N.B. I convient de retenir; pour ce problème plan, la notation 60 Xij {9(i-j)}0 Yij Nij pour représenter le torseur des actions mécaniques en un point Q, qu'e exerce un solide sur un solide (j) exprimé dans la base Bo(70,70, 20) Concours nationaux dentrée aux cycles de formation d'ingénieurs Session 2020 Page 7/10
 
+--- page 10 ---
+Concours MP-PC Epreuve S.TA
+Mise en situation, Données et Hypothèses
+Partie C - Automatique : Étude du vérin dinjection C1 Étude combinatoire du déplacement du vérin dinjection Dans cette partie, on s'intéresse au système de mesure du déplacement linéaire du vérin d'injection Une crémaillère est solidaire de la tige de ce vérin, entraine en rotation Yaxe dun codeur incrémental par le biais dun pignon qui lui est solidaire Figure 9(a)) Le codeur incrémental est à trois voies. Il produit trois signaux x, y et z selon les positions des 3 pistes respectives A,B et C ( Figure 9()). Ces signaux permettent de caractériser le sens de déplacement et les deux niveaux de vitesses (lente et rapide) du vérin d'injection. flasque de fixation codeur incrémental
+crémaillère
+piste
+pignon
+piste B
+base à ressort
+piste
+(a) Dispositif de transformation du déplacement li - néaire
+() Compteur incrémental à 3 voies
+FIGURE 9 _ Système de mesure de déplacement linéaire
+Un système combinatoire placé à la sortie de la roue codeuse du codeur incrémental génère une fonction F(x,y,z) pour commander la servovalve via un calculateur. Dans notre cas les grandeurs binaires à Tentrée de ce système sont respectivement x, y et z représentant les 3 bits de sortie de la roue codeuse (Figure 10). Le fonctionnement du système combinatoire de la figure 10, ayant trois entrées binaires x, y et z ainsi que la sortie F(x,y,z) , est représenté par le chronogramme figure 11 où x est le bit du Poids fort alors que z est le bit du poids faible
+C.2 Étude de lasservissement électro-hydraulique du vérin dinjection Mise en situation Lobjectif de cette partie est la modélisation et la commande en pression du vérin de la vis d'injection. En effet; les conditions thermodynamiques du matériau à linjection doivent sa - tisfaire des conditions strictes de pression; de température et de volume C'est pour cela que le vérin dinjection doit être asservi en pression et qu'il est important de s'informer de sa vitesse de translation dune manière continue. Dans ce cadre, nous présentons sur la figure 12 la synoptique de la commande du système électro-hydraulique objet de létude.
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2020
+Page 8/10
 
+--- page 11 ---
+Concours MP-PC
+Epreuve S.TA
+Mise en situation Données et Hypothèses
+Roue codeuse
+0 1 0 2 0 F(x,yz)
+Système combinatoire
+[F(x,y,z)
+FIGURE 11 Chronogramme de fonctionnement du système combinatoire
+FIGURE 10 Synoptique du système combinatoire
+codeur incrémental
+information sur déplacement
+Vérin
+S1
+S2
+P2
+Chambre 2
+Chambre 1
+mesure de la pression
+W
+u(t)
+Calculateur AN & NA
+Ps
+Pr
+Unité de mesure et de commande
+Servovalve
+pression issue de la pompe refoulement vers réservoir
+FIGURE 12 - Synoptique de la commande du système électro-hydraulique d'injection
+1. Distributeur proportionnel 4/3 (Servovalve proportionnelle électro-hydraulique à 3 étages) ; 2 Vérin hydraulique à double effet; 3. Vis d'injection; 4. Capteur de déplacement; 5. Amplificateur:
+Explication qualitative du fonctionnement Par une commande de tension u(t) , une force électromagnétique F créée par le solénoïde permet de déplacer dune distance z(t) le tiroir dun distributeur: La pression P1 dans la chambre 1 du vérin va augmenter et la pression P2 dans la chambre 2 va diminuer (mise au refoulement de la chambre 2).
+Concours nationaux dentrée aux cycles de formation d l'ingénieurs
+Session 2020
+Page  9110
 
+--- page 12 ---
+Concours MP-PC
+Epreuve S.TA
+Mise en situation, Données et Hypothèses
+Cette pression Pa sera transmise à la vis de plastification et va générer une pression d'injec- tion au niveau de la buse. La pression dinjection est mesurée d'une manière continue par un capteur de pression et l'information est systématiquement envoyée au calculateur afin de permettre sa régulation
+Modélisation de la servovalve électro-hydraulique Le schéma de principe de la servovalve électro-hydraulique à trois étages (dite aussi dis- tributeur électro-hydraulique proportionnel 4/3) est donné par la figure 13. Le solénoïde, de résistance R et d'inductance L, engendre une force électromagnétique proportionnelle au courant i(t) F(t) = ke i(t) Cette force entraîne le déplacement z(t) du tiroir de la servovalve: L'équation électrique décrivant le fonctionnement du solénoïde est donnée par Ri(#) + di@2 dt u(t) (2) L'équation décrivant le mouvement du tiroir de la servovalve est donnée par ms 4224+ f4202+k,z(#) = F() dt2 dt (3) où ms désigne la masse du tiroir de la servovalve, fs le coefficient de frottement visqueux et ks la raideur du ressort de rappel.
+solénoïde
+tiroir
+ressort
+i(t)
+u(t)
+7nd;
+P1
+P2
+position z(t)
+FIGURE 13 - Servovalve électro-hydraulique_
+La pression Pi(t) au niveau de la chambre (1) du vérin est proportionnelle à la position z(t) du tiroir P1(t) = kp - z(t) De même, la pression au niveau de la buse P(t) est aussi proportionnelle à la pression du vérin
+P(t) = kb Pi(t)
+(5)
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2020
+Page 10/10
 
+--- page 13 ---
+Concours MP-PC
+Epreuve STA Partie A : Conception Mécanique
+Document Réponses
+Partie A
+Conception Mécanique
+Al: Qu'appelle-t-on le type de transmission du mouvement entre (16C) et (10C) ?
+A2: On considère les données suivantes
+nombre de dents du pignon du motoréducteur Z3sc 10 dents nombre de dents de la grande roue Z18c 100 dents nombre de dents des quatre roues identiques Z1oc = 30 dents pas du système Vis-écrou 3mm vitesse de rotation de Farbre de sortie du motoréducteur N = 3Otr min
+Calculer la vitesse de translation du sommier (9C).
+A3: Le système de réglage contient quatre roues identiques (10C) avec quatre systèmes vis-écrou entre (10C) et (11C). Pourquoi le concepteur ne s'est-il pas limité à une seule roue et un seul système vis-écrou ?
+A.4: Silon se limite à un seul système vis-écrou (10C)-(11C) capable de transmettre 1effort nécessaire à la translation du sommier (9C) et on remplace les 3 autres par des paliers lisses, cette solution conduit à un inconvénient majeur; lequel ? Quel est alors le risque encouru ?
+A5: Donner la fonction de la pièce (35C) dans le mécanisme de fermeture et de verrouillage ("Détail A du DT-02). En se basant sur ses hachures , de quel matériau s'agit-il?
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 1/22
 
+--- page 14 ---
+Concours MP-PC
+Epreuve S.TA.
+Partie B : MSI
+Document Réponses
+Partie B : Mécanique des Solides Indéfor- mables Nota Les parties B.2 et B.3 peuvent être traitées indépendamment lune de lautre_ B.l Étude Cinématique L'objectif de létude cinématique consiste à établir la loi entrée-sortie des vitesses (relation exprimant le rapport des vitesses (p / 1) en fonction des paramètres géométriques du méca - nisme). B.l: Déterminer; dans la base Bo(70,70,20) , les torseurs cinématiques, dans leur mouve- ment par rapport au bâti (0), des solides suivants a. le solide (1) au point A
+Bo
+{Y1/o} A
+b. le solide (2) au point B, puis au point D:
+Bo
+{Yz/o}B
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 2/22
 
+--- page 15 ---
+Concours MP-PC
+Epreuve S.TA
+Partie B : MSI
+Document Réponses
+Bo
+{Yz/o}D
+le solide (3) au point D, en passant par C :
+Bo
+{Ys/o}D
+B2: En déduire a. la vitesse angulaire & en fonction de (À, R, B et (œ  B))
+à
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2020
+Page : 3/22
 
+--- page 16 ---
+Concours MP-PC Epreuve S.TA.
+Partie B : MSI
+Document Réponses
+b. la vitesse angulaire B en fonction de (d, &, (œ - B) et À)
+B
+B.3: Déterminer; dans la base Bo(z0,7o, 20) , les torseurs cinématiques, dans leur mouve- ments par rapport au bâti (0), des solides suivants a. le solide (3) au point_ E, en passant par C 
+Bo
+{Ys/o}E
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 4/22
 
+--- page 17 ---
+Concours MP-PC
+Epreuve S.TA
+Partie B : MSI
+Document Réponses
+b. le solide (4) au point F, en passant par E
+Bo
+{Ya/o}F
+c. le solide (4) au point F en fonction de Ÿ et p :
+Bo
+{Ya/o}F
+B.4: En déduire les relations exprimant la vitesse de translation; |, du plateau mobile (5) par rapport au bâti (0) en fonction de (c, d,h, B, P, Y et
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 5122
 
+--- page 18 ---
+Concours MP-PC
+Epreuve S.TA
+Partie B MSI
+Document Réponses
+b. laccélération ÿ , de (5) par rapport au bâti (0), en fonction de (Ë, P, B,ÿ,Ÿ, Y, c,d et h)
+ü
+la vitesse angulaire ^ en fonction de (c, d,h, B, Pet Y)
+B5]Déduire le rapport des vitesses (p / 1) en fonction de (c, d, % B,et Y)
+ë
+B.6: Donner la relation entre les valeurs critiques Bc et Y (des angles B et Y) réalisant lalignement des points C, Eet F (position de verrouillage du moule)
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 6/22
 
+--- page 19 ---
+Concours MP-PC
+Epreuve S.TA
+Partie B MSI
+Document Réponses
+B.7: Vérifier que, dans cette position de verrouillage, la vitesse de translation & du plateau mobile (5) par rapport au bâti (0) est nulle (p 0)
+B.2 Étude dynamique On se propose de déterminer les efforts transmissibles par léquipage mobile pendant la phase de fermeture et de verrouillage; en considérant lhypothèse H2 page (7/10) du dossier "Mise en situation; Données et Hypothèses' B.8: Les efforts extérieurs appliqués sur le solide (2) par le solide (1) en B et par le solide (3) en D sont notés respectivement par FB et FD : En appliquant le théorème de la résultante dynamique au solide (2) au cours de son mouvement par rapport au bâti (0), montrer que 7B fD
+b. En appliquant le théorème du moment dynamique; au point B, au solide (2) au cours de son mouvement par rapport au bâti (0), déduire la ligne daction des deux forces 7B et qD?
+Exprimer FB et FD dans la base (42,72,Z0) en fonction de FB (intensité de FB)
+FB
+et qD
+B.9: On cherche à déterminer lintensité FB de la force FB.
+En considérant le graphe ci-contre représentant le bilan des actions mécaniques extérieures appliquées au solide (1) écrire les torseurs associés à ces actions en leur point - dap- plication Les exprimer dans la base Bo(70,70,Z0) .
+vérin
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2020
+Page : 7/22
 
+--- page 20 ---
+Concours MP-PC
+Epreuve STA
+Partie B : MSI
+Document Réponses
+b. Écrire les équations scalaires qui découlent du théorème de la résultante dynamique ap- pliqué au solide (1) au cours de son mouvement par rapport au bâti (0). En déduire Yin- tensité FB en fonction de lintensité Fv de laction du vérin sur (1) et de langle &
+FB
+B.10: Détermination de lintensité FE de laction du solide (3) sur le solide (4) au point E Par analogie avec létude précédente, on montre que Yexpression vectorielle de Yeffort FE s'exprime en fonction de son intensité par FE FE74 Donner Yexpression de Yeffort FF exercé au point F par le plateau mobile (5) sur le solide (4) en fonction de FE
+VF
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 8/22
 
+--- page 21 ---
+Concours MP-PC
+Epreuve S.TA.
+Partie B MSI
+Document Réponses
+b. Écrire les torseurs des actions mécaniques extérieures appliquées au plateau mobile (5) en leur point d'application. Les exprimer dans la base Bo(zo,7o,Z0) .
+Écrire les équations scalaires issues du théorème de la résultante dynamique appliqué au plateau mobile (5) au cours de son mouvement par rapport au bâti (0) en projection sur la base Bo(70,70,Z0) 
+d Déduire lexpression de lintensité FE en fonction de (f , M, 8, Y et ji)
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 9122
 
+--- page 22 ---
+Concours MP-PC
+Epreuve S.TA
+Partie B : MSI
+Document Réponses
+FE
+B.ll: Détermination de lintensité de leffort Fv transmis par la pression du vérin au solide (1) Écrire les torseurs des actions mécaniques extérieures appliquées au solide (3) en leur point _ dapplication Les exprimer dans la base Bo(z0,J0,Z0
+b En appliquant le théorème de la résultante dynamique au solide (3) au cours de son mou- vement par rapport au bâti (0), déterminer en fonction FE, Fv et &, lexpression vectorielle de Fc (effort exercé par le bâti (0) sur le solide (3) au point C:Fc = 7o3)
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2020
+Page 10/22
 
+--- page 23 ---
+Concours MP-PC
+Epreuve STA
+Partie B : MSI
+Document Réponses
+Fc
+Écrire léquation scalaire qui découle du théorème du moment dynamique, au point C, appliqué au solide (3) au cours de son mouvement par rapport au bâti (0) qui exprime Fv en fonction de FE et les paramètres (*, B, Y, c et d)
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 11/22
 
+--- page 24 ---
+Concours MP-PC
+Epreuve STA
+Partie B : MSI
+Document Réponses
+Fv
+d. Déduire l'expression de Fv en fonction de (f , M, g, ÿ, œ, B, Y, c et d).
+Fv
+Déduire de nouveau Fv en fonction de (f , M, 8, ÿ) et du rapport des vitesses (p/ À) .
+Fv
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2020
+Page : 12/22
 
+--- page 25 ---
+Concours MP-PC
+Epreuve S.TA.
+Partie B : MSI
+Document Réponses
+f Pour les trois étapes I, II et III du cycle de fermeture du moule (Figure 7), donner Yex- pression de laccélération ÿ en fonction de la vitesse V et du temps. Étape I
+Étape  II
+Étape III
+B.12] Sachant que pendant la phase dinjection, Yaction combinée de verrouillage et din- jection sur le plateau mobile (5) (notée Pi), en son centre d'inertie G, est modélisée par le torseur ~Fixo {9(P;-+5)}G = 6 G donner Yexpression de FE en fonction de (F; et Y)
+FE
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 13/22
 
+--- page 26 ---
+Concours MP-PC
+Epreuve STA
+Partie B : MSI
+Document Réponses
+B.3 Étude énergétique Cette partie sera consacrée à létude de Yeffet engendré par la prise en compte de la masse des genouillères (solides (4) et (4)) sur laction développée par le vérin électro-hydraulique (17C) pendant le cycle de fermeture du moule tout en conservant lhypothèse Hz pour les autres solides. Le solide (4) sera assimilé à une barre homogène de section constante; de longueur h, de masse m et de centre dinertie G4. On admettra que sa matrice centrale dinertie pour expression
+[Ic, (4)]
+2 0 "42 (74,14,20)
+B.13: Déterminer la vitesse du centre d'inertie G4 du solide (4) par rapport au bâti, Yexpri - mer en fonction de (p, y et h)
+G4/0
+B.14: Déterminer 1expression de lénergie cinétique du solide (4) au cours de son mouve- ment par rapport au bâti (0).
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2020
+Ec(4/0)
+Page 14/22
 
+--- page 27 ---
+Concours MP-PC
+Epreuve S.TA
+Partie B MSI
+Document Réponses
+B.15: Déterminer lexpression de lénergie cinétique de Yensemble (E) formé par le plateau mobile (5) et les deux solides (4) et (4) au cours de son mouvement par rapport au bâti (0)
+Ec(E/0) La figure ci-dessous schématise le graphe des actions mécaniques intérieures et extérieures s'exerçant sur les solides formant le système de fermeture du moule (Z)
+Actions extérieures Actions mutuelles intérieures au système
+Corps du vérin
+2 ; 2'
+3 ; 3'
+4 ; 4'
+;
+B.16: Déterminer la puissance développée par les actions mécaniques extérieures et inté- rieures s'exerçant sur le système (Z) en mouvement par rapport au bâti (0).
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 15/22
 
+--- page 28 ---
+Concours MP-PC
+Epreuve STA.
+Partie B MSI
+Document Réponses
+'(E-/0)
+"int(2)
+B17] En appliquant le théorème de lénergie cinétique au système (Z) au cours de son mou- vement par rapport au bâti (0), déduire expression de la force Fv. Que devient cette expres- sion en négligeant la masse m du solide (4)
+Expression de Fv en tenant compte de m
+Fv
+Expression de Fv en négligeant m
+Fv
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 16/22
 
+--- page 29 ---
+Concours MP-PC
+Epreuve STA
+Partie C : Automatique
+Document Réponses
+Partie C : Automatique C1 Étude du système combinatoire à la sortie du codeur On désire caractériser le déplacement linéaire de la charge entraînée par le vérin électro- hydraulique au moyen du codeur (figure 9(a)) CI: A partir de la figure 11, compléter la table de vérité relative à ce système combinatoire. Flxyz) ;  3 5 6 7
+C2: En déduire les deux expressions canoniques en somme de produits (EIet en produit de sommes (IE) de la fonction F(x, y,z)
+C.3: Compléter le tableau de Karnaugh de la fonction F(x,5 y,z)
+xy
+00
+01
+11
+10
+0
+C4: Déterminer Yexpression simplifiée en produit de sommes de F(x,y,z)
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2020
+Page 17/22
 
+--- page 30 ---
+Concours MP-PC
+Epreuve STA
+Partie C : Automatique
+Document Réponses
+C5: Tracer le logigramme de F(x,y,z) en utilisant des NOR à 2 entrées. xy z
+C.2 Étude de lasservissement du vérin électro-hydraulique dinjection C6: Écrire les équations (1) et (2) décrivant le fonctionnement du solénoïde dans le do- maine de Laplace.
+C7: En déduire la fonction de transfert G1 (p)
+C8: Écrire Yéquation (3) décrivant le mouvement du tiroir de la servovalve dans le do- maine de Laplace.
+C9: En déduire la fonction de transfert G2(p)
+Z(p) FTp)
+C1O: Montrer que la fonction de transfert de Yensemble {solénoïde; tiroir} est de la forme
+Z(p) kow? Ti(p) U(p) (1+ Tep)(p? + 2çwop + 0)
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2020
+Page 18/22
 
+--- page 31 ---
+Concours MP-PC
+Epreuve STA
+Partie C : Automatique
+Document Réponses
+Cll: En déduire les expressions de (ko, Wo, Te et 3 en fonction de (R, L, ke, ms, fs et ks)
+C12 Déterminer les paramètres (Te' ko, Wo et 3) de la fonction de transfert Ti(p) sachant que ks 10 N/m,ke 10 N/A, L 0.1H, ms 0.4 Kg fs = 28 Ns/m et R = 10 0
+C13: En négligeant linductance du solénoïde, montrer que la fonction de transfert de Yen- semble {solénoïde; tiroir} est donnée par 25 T2(p) (p2 +7p+25)
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2020
+Page 19/22
 
+--- page 32 ---
+Concours MP-PC
+Epreuve S.TA
+Partie € : Automatique
+Document Réponses
+Commande du système électro-hydraulique Le système de commande est donné par le schéma fonctionnel suivant
+Pc(p)
+e(p) U(p) C(p) Tz(p)
+P1 (p)
+P(p)
+kv
+kb
+Pc(p) et e(p) désignent respectivement la consigne et le signal derreur. On supposera que le produit kv Kb =IN m3 On cherche à concevoir un correcteur C(p) permettant de garantir au système les perfor - mances suivantes
+performances stabilité précision
+exigences système stable erreur statique de position unitaire nulle
+Cas dun correcteur proportionnel C(p) = K cua]Pour quelles valeurs de K, le système est stable en boucle fermée ?
+C1s] Déterminer Yerreur statique de position unitaire en fonction de K, faire Yapplication numérique pour K = 10.
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2020
+Page 20/22
 
+--- page 33 ---
+Concours MP-PC
+Epreuve S.TA
+Partie C : Automatique
+Document Réponses
+C16]Pour cette même valeur de K calculer le dépassement et le temps de pic.
+C1z] Conclure quant aux performances obtenues par ce correcteur:
+Cas dun correcteur intégral C(p) 90
+C18: Avec ce correcteur peut-on assurer une erreur statique de position nulle ? Conclure quant à lefficacité de ce correcteur pour ce système:
+P+Kz) Cas dun correcteur C(p) = K1 où K1 et K2 sont des constantes positives p C.19: De quel type de correcteur s'agit-il ? Donner ses paramètres caractéristiques.
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2020
+Page 21 1l22
 
+--- page 34 ---
+Concours MP-PC
+Epreuve S.TA
+Partie C : Automatique
+Document Réponses
+C20: Étudier la stabilité du système en boucle fermée en fonction de Ki et Kz en déduire le domaine de stabilité dans le plan Kz f(K1);
+C21: Déterminer les erreurs statiques de position et de vitesse unitaires.
+C22: Conclure quant aux performances garanties par ce correcteur dans ce cas de figure.
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2020
+Page 22/22
 
+--- page 35 ---
+2 0 25 3 ; 1 3 8 " 1 ; 8 1 1
+50999 0000 'ëëë
+8
+8
+;
+5
+; 5
+'
+;
+1 1 7 1 & 1 1 1 > 2 1 1 ; 1 1 : 8 8 il Yikhy 8 8 '
+3
+8
+~
+;
+8
 
+--- page 36 ---
+Concours Nationaux d'Entrée aux Cycles de Formation d'Ingénieurs
+Session Concours Épreuve de Date
+2020 MP-PC Systèmes Techniques Automatisés (TSA) Samedi 18 Juillet 2020à 8H
+DOCUMENTS TECHNIQUES
+Sujet : Presse dinjection de matière plastique 8OT
+Ce dossier comporte 03 documents techniques numérotés de DT-01 à DT-03
+DT
+Documents Techniques
+DT-01
+Presse dinjection 8OT
+Dessin 3D
+Détail A
+Dessin 3D (en coupe longitudinale)
+DT-02
+Mécanisme de fermeture et de verrouillage
+Moteur + Système dengrainement
+Vue F
+DT-03
+Nomenclature générale
+Rep. 1C >38C
 
+--- page 37 ---
+;
+2 1 1
+{ 1
+8
+;
+;
+;
+{
+;
+;
+3 ;
+;
+MMaammn
+8
+;
+;
+;
+8
+: ? ; 1
+;
+1 1 1 1 : 1 1 ; 9 4 8 1 5 ; 8 9 1 ; : Ii 1 8 1 1 ; Hiux 8 8 ; 8
+; 9
+nvv
+88
 
+--- page 38 ---
+38C 37c 36c 35c 34c 33C 32c 31c 30c 29c 28c 27c 26c 25c 24c 23c 22c 21c 20c 19c 18C 17c 16c 15c 14c 13C 12c 11c 10c 9c 8C 7c 6c 5c 4c 3C 2c 1c Rep
+Pignon_ du moto-réducteur 16C) 48 Vis CHC M1o Bague_de fixation Coussinet Capteur_de déformation Charnière plateau mobile Genouillère Tige de centrage croisillon Croisillon Biellette Tige de centrage Bielle Galet de centrage de couronne Charnière de sommier Armoire électrique Réservoir d huile Interface de commande de presse Trémie d'évacuation d articles injectés Portes principales Glissière Couronne dentée Vérin électro hydraulique Moto-réducteur Cylindre de_plastification Gorge de trémie Unité de plastification Galet de_guidage de porte Colonne de_guidage Roue dentée Sommier arrière Mécanisme de fermeture et de verrouillage Plateau mobile Plateau fixe Pupitre de commande Trémie de chargement de matière première Séchoir à trémie Servo moteur hydraulique Socle Nbre_[Désignation_ Matériaux Obs Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+; 1 # 9 1
+Presse d'injection de matière plastique 8OT
+Session 2020
+DT-03

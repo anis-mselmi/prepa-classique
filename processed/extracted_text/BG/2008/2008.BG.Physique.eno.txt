@@ -1,3 +1,84 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de lEnseignement
+49ai52x?i &Ujflbsps Iss@suyLwl Ui Yibyi 2Ujbliji unitl Ougjlyji 2008 *
+Supérieur; de la Recherche Scientifique et de la Technologie Concours nationaur dcntréc aur cyclcs dc formation d'ingénicurs Session 2008
+Concours en Biologie et Géologie Epreuve de Physique
+Date : Jeudi 05 Juin 2008
+Heure : 8 H
+Durée : 3 H
+Nbre pages 04
+Barème : Problème 1 : 08.5 / 20
+Problème 2 : 11.5 / 20
+L'usage d'une calculatrice non programmable est autorisé.
+L'épreuve comporte deux problèmes indépendants. Le candidat peut les résoudre dans l'ordre qui lui convient; en respectant néanmoins la numérotation des questions. 1 FREPARAYOrA Problème 1 : Interférences lumineuses p+9 P-9 Guoetk On donne : cos(p) + cos(9) = 2cos| cos 2 2 eunes [ Sfax Pnsnufugs Dans tout le problème lindice de réfraction de lair sera pris égal à 1.
+On réalise, dans lair, lexpérience des fentes dYoung à laide du dispositif schématisé sur la figure 1. Ces fentes, distantes de FiF2 = a, sont éclairées par une onde monochromatique de longueur d'onde ^ = 600 nm; provenant d'une fente source très fine F placée à une distance € >> a du plan (P) contenant F1 et Fz L'observation se fait sur un écran; de centre 0, se trouvant à une distance D >> a du plan (P).
+X1
+X
+Figure 1
+M X
+F,
+Fz
+0
+D
+Ecran
+1- Décrire brièvement la figure dinterférences observée sur lécran. 2-Tracer la marche des deux rayons qui interfèrent au point M de ['écran. 3- Déterminer la différence de chemin optique 8(M) entre les deux vibrations associées à ces deux rayons  4-En déduire [expression de lintensité lumineuse I(x) au point Mde lécran. 5-1- Déterminer l'interfrange i. Faire [application numérique pour a = 1 mm et D =1 m. 5-2- Représenter I(x). 5-3- Quelle est la position de la frange d'ordre po = 0 ?
+Concours en Biologie et Géologie Session Juin 2008
+Epreuve de Physique
+Page 1/4
 
+--- page 2 ---
+6- On intercale devant Fz une petite lame à faces parallèles d'épaisseur e et d'indice n, de sorte que ses faces soient perpendiculaires à l'axe (Oz). 6-1- Déterminer la nouvelle différence de chemin optique entre les rayons qui interfèrent en M. 6-2- Dans quel sens et de quelle distance d la figure d'interférence est elle   translatée ? Justifier. 6-3- En déduire lexpression de lindice de réfraction n de la lame. Faire l : 'application numérique pour e = 40 um et d = 20 mm. 6-4- Calculer le nombre de franges qui ont défilé en 0. 7- On supprime la lame à faces parallèles. On déplace la source F, dans son plan; dune distance X1 = b > 0. 7-1- Déterminer la nouvelle différence de chemin optique entre les rayons qui interfèrent en M. 7-2- Comment est modifiée la figure dinterférence ? Justifier. 8- On ajoute une source F' identique à F et située dans le même plan, à la distance x'1 = - b de laxe (Oz). 8-1- Déterminer la nouvelle répartition de lintensité lumineuse sur lécran. Inax 8-2-En déduire le contraste des franges défini par C = ~piz Imax + Imin 8-3- Tracer l'allure de C en fonction de la distance a = FpF Citer une application de ce phénomène. 9- On supprime la source F' et on ramène la source F à sa position initiale sur laxe (Oz) Elle émet le doublet jaune de Sodium; formé de deux radiations monochromatiques de longueurs donde 11 = 589,0 nm et 12 = 589,6 nm_ 9-1- Décrire le phénomène observé. 9-2- A quelle distance de la frange centrale les franges disparaissent elles pour la première fois ?
+Problème 2 Ecoulement parfait 1- Un réservoir cylindrique, de section S, contient un liquide non visqueux de masse volumique p et de hauteur h maintenue constante (Figure 2) Lévacuation de ce liquide se fait par lintermédiaire dune conduite cylindrique de rayon a et de faible section $ (s << S); reliée à la base du réservoir. Le liquide, en écoulement permanent, est en contact avec /atmosphère de pression Po S Po
+Figure 2
+h
+Réëëïw%r
+Copduite
+s Pa X B
+1-1- Rappeler léquation de Bernoulli. 1-2- Calculer la vitesse VB de lécoulement du liquide à la sortie de la conduite. 1-3- Déduire le débit volumique Qv de lévacuation du liquide du réservoir. On donne h = 1,8 m; Po =105 Pa ; a =5 cm et g =10 ms-2 2- On fixe à lextrémité B de la conduite un embout de rayon a = 2 (Figure 3) Po Figure 3 +x B
+Concours en Biologie et Géologie  Session Juin 2008
+Epreuve de Physique
+Page 2/4
 
+--- page 3 ---
+2-1-Calculer la vitesse Vc découlement à /'extrémité C de [embout. 2-2- Le modèle découlement parfait reste-t-il valable lorsqu'on fait diminuer davantage la section de la conduite ? Justifier . Ecoulement réel 3- Le réservoir précédent est maintenant rempli dun liquide de masse volumique P; de viscosité dynamique n et de hauteur h maintenue constante. Lévacuation de ce liquide se fait par lintermédiaire dune conduite cylindrique de longueur L et de rayon a (Figure 4). Sa section $ est faible devant celle du réservoir de sorte que lécoulement soit permanent. Dans ces conditions; le débit volumique Qv est donné par la loi de Poiseuille T a4 PM ~Py Qv = 8n où Pm et Pv sont les pressions aux points Met N de la conduite horizontale distants de & . 3-1- Rappeler lexpression du nombre de Reynolds R Pour quelle valeurs de R la loi de Poiseuille est-elle valable ? Comment peut-on alors qualifier un tel écoulement ?
+2
+S
+Po
+Figure 4
+ügë#W#
+Conduite s 22882228828288888 Po X P N   X=L
+Dans la suite du problème, on admettra la validité de la loi de Poiseuille
+3-2- Montrer que la vitesse moyenne Vm de l'écoulement dans la conduite est donnée par a2BuB V = 8n p
+4- Pour mesurer la pression en différents points de lécoulement, on fixe sur la conduite cylindrique quatre petits tubes identiques centrés respectivement sur les points A, B, C et D (Figure 5). A la sortie de la conduite; la valeur du débit volumique mesurée est : Qv =5,5 10-6 m's - On donne s =5 mm? ; L=40 cm ; OA = 5 cm ; OB = 10 cm OC = 30 cm et OD = 35 cm ; p=980 kg m ~3 et g =10 m s * Lors de lécoulement du liquide  visqueux;  les hauteurs des niveaux du fluide dans les tubes verticaux situés en B et C sont respectivement hB 60 cm et hc = 20 cm. On néglige leffet de la tension superficielle. 4-1- Quelle est lorigine de la diminution du niveau du fluide dans les différents tubes verticaux ? 4 -2- En exploitant la relation fondamentale de lhydrostatique et la loi de Poiseuille; déterminer les hauteurs hA et hp. Déduire la viscosité dynamique n du fluide.
+Concours en Biologie et Géologie Session Juin 2008
+Epreuve de Physique
+Page 3/4
 
+--- page 4 ---
+P
+Figure 5
+R,sëiÿo0r
+h
+hA
+hB
+hc
+hp
+X
+A
+B
+4-3- On crée un étranglement entre les points B et C (Figure 6) Lécoulement est supposé toujours permanent et on maintient le même débit volumique le long de la conduite horizontale. 43-1- En se basant sur la loi de Poiseuille et la notion de débit volumique déterminer la loi de variation de la pression P(x) avant létranglement. 4 -3-2- Expliquer lévolution des niveaux du fluide dans les quatre tubes verticaux par rapport au cas précédent. Po
+Figure 6
+RésëivoÉt
+b
+h'B;
+hc
+h'Da
+A
+B
+D
+4 -4- Quel phénomène biologique illustre cette situation ? Application 5- Dans la circulation sanguine du corps humain; laorte se ramifie en artères qui se divisent à leur tour en artérioles. Ces dernières se ramifient en capillaires. Les rayons de laorte et dun capillaire sont respectivement a =1 cm et a =10-3 cm La section de tous les capillaires mis en parallèles est S=0,2 m? Le débit volumique total à travers ces capillaires est : Qv =8,3 10-5 m' s *1 5 -1- Calculer la vitesse moyenne de lécoulement du sang dans laorte et dans un capillaire. 5-2-1- En supposant que la loi de Poiseuille reste valable dans les deux cas (aorte et capillaire), calculer la perte de pression par unité de longueur (perte de charge) AP relative à l'écoulement du sang dans laorte et dans un capillaire. On donne viscosité dynamique du sang n=210-* Poiseuille 5-2-2- Que peut-on déduire dune comparaison qualitative entre les deux circulations sanguines ? Quel phénomène physique néglige-t-on ? 5 -3-1- Déterminer le nombre de Reynolds R pour lécoulement du sang dans laorte dune part et dans un capillaire dautre part. 5-3-2- Que peut-on dire de [hypothèse d'un écoulement laminaire dans chaque cas ? On donne la masse volumique du sang p=1,03 103 kg m-'
+FinDe Lepreuve
+Concours en Biologie et Géologie Session Juin 2008
+Epreuve de Physique
+Page 4/4
+h'A

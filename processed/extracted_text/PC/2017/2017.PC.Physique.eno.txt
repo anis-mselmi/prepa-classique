@@ -1,6 +1,92 @@
+--- page 1 ---
+169ji52/42) @lkxzlgzts gL] dyji eialiji Zini jss Jelj 2017 3j9
+REPUBLIQUE TUNISIENNE Ministère de |' 'Enseignement Supérieur et de la Recherche Scientilique Concours Nationaux dEntrée aux Cycles de Formation d'Ingénicurs Session 2017
+Concours Physique et Chimie Epreuve de Physique
+Date Lundi 29 Mai 2017 Barème Problème 1 : 13 pts
+Heure 8 H Durée 4 H Problème 2 : 7 pts
+Nb pages 07
+L'usage dune calculatrice non programmable est autorisé. L'épreuve comporte deux problèmes indépendants, le candidat peut les résoudre dans lordre qui lui convient en respectant néanmoins la numérotation des questions. Un candidat peut toujours se servir dun résultat fourni par l'énoncé pour continuer sa composition.
+Données utiles Vitesse de la lumière dans le vide =3 X 108 ms-1 Perméabilité du vide Ho 41 X 10-7 SI Constante de Planck h = 6,626 x 10-34 Js Constante de Boltzmann kB 1,38 X 10-23 JK-1 SI Unité exprimée dans le système international rot(rotk) grad (div u) Aù
+Problème
+Phénomènes Ondulatoires Les   phénomènes ondulatoires sont nombreux en physiques. Ce   problème traite des phénomènes ondulatoires mécaniques et électromagnétiques
+A- Corde vibrante Une corde homogène et inextensible de masse linéique u est tendue horizontalement avec une tension constante To. T(xtdx) N(x+dx) Un point M quelconque de la corde est repéré par ses coordonnées cartésiennes (x,y,z) de a(ztdx) a (x) bases orthonormée (:x, :y, :z). W(x) Déplacée de sa position déquilibre, la corde acquiert un mouvement décrit par une T(x) élongation verticale faible V(x,t). La corde 3x reste toujours faiblement inclinée par rapport x+dx à /horizontale (Fig. 1) Figure
+Concours Physique Chimie
+Session 2017
+Epreuve de Physique
+Page 1 / 7
 
+--- page 2 ---
+Un élément infinitésimal de la corde compris entre x et x + dx est soumis respectivement aux tensions 7(x,t) et 7(x + dx,t). On négligera la force de pesanteur et les forces de frottements devant la tension. 1- En appliquant la relation fondamentale de la dynamique à cet élément; montrer que le déplacement transversal V(x, t) obéit à l'équation donde de D'Alembert:
+a2w(x,t2 1 92w6,12 = 0 dx2 c2 dt2
+2- Vérifier la dimension de c et la calculer numériquement pour u = 10gm 1 et To = 2N 3- La corde est supposée semi-infinie. Une onde plane   progressive sinusoïdale de pulsation @ se propage dans le sens des x croissants telle que:
+Y(x;t) = Acos(wt kx)
+A est une constante réelle représentant 1amplitude de Ponde. 3.1- Définir une onde plane. 3.2- Déterminer la relation de dispersion et exprimer la vitesse de phase. Les forces de frottement de lair sont désormais prises en compte et sont modélisées par une force de frottement fluide ~rWan dx pour un élément de corde de longueur dx, dt avec [ une constante positive.
+4.1-Montrer que le déplacement transversal 1(x,t) obéit à léquation suivante:
+@2w(x,t2 192w6t2= BBv@t2 dx2 c2 dt? dt B est une constante à expliciter 4.2- On considère une solution de la forme Aei(wt- "(x;t) -kx) Déterminer la nouvelle relation de dispersion. 5- On pose k = k1 ikz et on s'intéresse à londe progressive se propageant selon les x croissants. 5.1- Montrer que lors de sa propagation cette onde illustre un amortissement sur une distance caractéristique datténuation 6. Quelle est la signification physique de 6 ? Lexprimer en fonction de kz. 5.2 - On se place dans les conditions telles que 0 > B c2 . Exprimer k1 et kz en fonction de B, W et c. 5.3- Déterminer la vitesse de phase et la vitesse dè groupe. Le milieu est-il dispersif ? Justifier. La corde est maintenant fixée à ses extrémités x = 0 et x = L et on néglige toute cause damortissement. Il se forme alors un système dondes stationnaires . On notera respectivement l'onde incidente et londe réfléchie par
+J (x,t) Aei(t-kx) et "(x,t) = Arei(ot+kx) 6.1-Le coefficient de réflexion r en amplitude est égal à -1, exprimer Ar en fonction A. 6.2-Déduire l'onde résultante qui s'établit dans la corde. 6.3- Expliquer le qualificatif 'stationnaire  ' attribué à cette onde.
+Concours Physique Chimie
+Session 2017
+Epreuve de Physique Page 2 /7
 
+--- page 3 ---
+7 - Déterminer   les   fréquences   propres fn de   londe   stationnaire en fonction dun entier naturel n, de la vitesse c et de la longueur L de la corde. 8 - Dessiner laspect de la corde vibrante  correspondant aux modes suivants n = 1 et n = 2 9- La corde dun violon ou dune contrebasse peut être assimilée à une corde vibrante homogène de masse linéique p et de longueur L fixée à ses extrémités. 9.1-Le son dun violon et dune contrebasse sont respectivement < aigu > et < grave > Comparer les longueurs de deux instruments. 9.2- La tension To de la corde du violon peut être ajustée à laide d'une cheville. On accorde ce violon à la fréquence fondamentale f1 196Hz. Calculer la tension To. On donne u 2,5 gm-1, L = 30 cm.
+B- Ondes électromagnétiques et conducteurs 10-Pour un métal dans les domaines des radiofréquences et des micro-ondes; le courant de déplacement est négligeable par rapport au courant de conduction 10.1- Ecrire les équations de Maxwell dans un milieu conducteur de conductivité Y constante. On suppose par ailleurs que la densité de charges est nulle. 10.2- Etablir l'équation de propagation (notée (3)) vérifiée par le champ électrique. 11-On considère une onde plane progressive monochromatique se propageant dans le vide et rencontrant en incidence normale la surface plane dun conducteur en aluminium de conductivité Y = 3,8 107SI occupant   l'espace x > 0. On   cherche une   solution de l'équation (3) sous la forme: E Eo ecx-[ iwt éy 111 - Déterminer   % en faisant apparaitre une distance caractéristique 6 11.2- Exprimer le champ électrique de cette onde en fonction de &. Donner sa vitesse de phase. 113- Une feuille d'aluminium alimentaire dépaisseur 500 um empêche t-elle lécoute dune onde radio de fréquence fi 100 MHz? Justifier 12-Lorsqu'une onde électromagnétique est émise par une source située dans une cavité, il se produit un phénomène de résonance pour certaines fréquences. Ceci permet d'amplifier Ponde par émission stimulée. Un laser hélium-néon émet un faisceau lumineux cylindrique de rayon r = 0,75 mm, de longueur donde 1 632,6 nm; de puissance moyenne <P >= 2 mW, assimilé à une onde plane progressive monochromatique de la forme 0 Zoe-i(ot-k7) 12.1- Déterminer l'expression du vecteur de Poynting 7 de cette onde. Calculer son intensité I . 12.2- En déduire les valeurs des amplitudes des champs électrique et magnétique de Ponde rayonnée par ce laser . 12.3- Déterminer le nombre n de photons émis par seconde par ce laser
+Concours Physique Chimie
+Session 2017
+Epreuve de Physique
+Page 3 / 7
 
+--- page 4 ---
+13-Le  rayonnement   de celaser correspond une   transition   électronique faisant   passer Fatome de Néon dun niveau dénergie E2 à une autre d'énergie   E1 E2 . 13.1- On note N1 et Nz le nombre datomes ayant respectivement les énergies E1 et Ez. Calculer le rapport  N2 à T = 300 K. Commenter N1 13.2 - Suite Finteraction entre la matière atomique et le rayonnement électromagnétique; trois processus de conversion d'énergie peuvent avoir lieu: Définir ces processus et donner une figure explicative. 14- On s'intéresse ici à un modèle simple de cavité vide sans perte à une dimension. Elle est constituée de deux conducteurs parfaits dont les surfaces planes sont parallèles (Fig; 2) 14.1- Etablir l'équation de propagation vérifiée par le champ électrique dans la cavité 14.2 - On cherche une solution pour le   champ électrique dans le conducteur sous la forme: @= Eof (z) e [Wt ex. Trouver f (z) une constante multiplicative près. Figure 2 14.3- Exprimer les fréquences propres fn de Yonde stationnaire en fonction dun entier naturel n, de la vitesse c et de la longueur L de la cavité. 14.4- En pratique; une, cavité  possède des pertes en énergie; en donner une cause possible. Décrire qualitativement l'évolution de Famplitude du champ électrique dans la cavité réelle. 15-Dans cette cavité le champ électrique de Fonde laser   peut se mettre sous la forme
+4 = Eo:xe-i(ot-kz) où k = k1 + i4 avec œ et k1 sont deux nombres réels 15.1- Londe se propage selon les croissants. Quels sont les signes de Q et k1 Justifier . 15.2- L'intensité [ du laser est proportionnelle à la valeur moyenne temporelle du carré du champ électrique. Un milieu amplificateur de longueur d est introduit dans la cavité résonnante. Exprimer le gain G 442 de l'amplificateur en fonction de œ I(0) et d en précisant le signe de &.
+C- Fonction €onde associée à une particule
+16- Le mouvement dune particule quantique est décrit par une fonction donde V(x;t) dont |w(x,t)l2 représente la densité de probabilité de présence de la particule. Cette fonction est une solution de l'équation de Schrëdinger:
+h2 a2w(xt) dw(x t2 ih - 2m dx2 dt 16.1 - Donner   la relation de De   Broglie   reliant   la quantité  de mouvement et la longueur d'onde 2 pour une particule libre de masse m. 16.2 - En déduire la relation entre Fénergie Ede cette particule et le nombre d'onde k 16.3 - Représenter la courbe W = f (k). Le milieu est il dispersif? Justifier .
+Concours Physique Chimie
+Session 2017
+Epreuve de Physique
+Page 4/7
 
+--- page 5 ---
+17-La particule est piégée dans Fespace 0 < x < L. On définit ce puits de potentiel (Fig. 3) par 0 < x < L V(x)-{0æ, X < 0 et x > 0 La fonction donde associée à cette particule peut être écrite sous la forme: p(x,t) @(x)e-# 17.1 - Pourquoi un tel état est appelé état stationnaire? 17.2 - Donner les conditions aux limites vérifiées par la fonction @(x) en x 0 et x = L 17.3- Déterminer   l'équation différentielle vérifiée par 6(x). 17.4- Montrer V2mE que @(x) 2 sin x) pour 0 < x < L. Figure 3 17.5- Donner alors les expressions de l'énergie E et de la quantité de mouvement p en faisant apparaitre un nombre quantique n 17.6- Quelle est lorigine de ces diverses quantifications ? 17.7 - Déterminer la différence d'énergie AE entre les niveaux (n + 1) et n. 17.8 - Représenter @(x) correspondant aux modes n = 1 et n = 2
+Problème 2
+Phénomènes de transport
+Les phénomènes de transport ont pour origine l'inhomogénéité dune grandeur physique. Ainsi ce type de phénomène décrit certaines propriétés comme la diffusion de particules; la diffusion thermique; la conductivité électrique  On note D la diffusivité particulaire;, 1 la conductivité thermique et Y la conductivité électrique
+A- Etude préliminaire
+Donner les lois dOhm, de Fick et de Fourier. Décrire très brièvement le phénomène de transport associé à chaque loi 2 Un phénomène de transport est un phénomène irréversible. Ces lois traduisent-elles cette irréversibilité? 3 Préciser les dimensions de D, 1 et Y.
+Concours Physique Chimie
+Session 2017
+Epreuve de Physique
+Page 5 / 7
 
+--- page 6 ---
+B- Modèle de Fatmosphère  isotherme
+Dans cette partie, latmosphère terrestre est supposée isotherme et que   les molécules dair sont toutes identiques et obéissent au  modèle des gaz parfaits. L'air, de masse volumique P, sera toujours considéré en équilibre thermodynamique local. Soit n(z) le nombre de particules par unité de volume à l'altitude z et no n(z 0) celui au niveau du sol. On désignera par p(z) la   pression à laltitude z (Fig. 4)
+(eTC
+Figure 4
+Ecrire léquilibre mécanique d'une tranche d'épaisseur dz de surface $ comprise entre les altitudes z et z + dz. En déduire   que p(z) peut se mettre sous la forme:
+~Mgz p(z) p(z = O)e RT
+M est la masse mo'aire des molécules dair de latmosphère; g la constante de pesanteur; R la constante des gaz parfait et T la température 5- En déduire la loi d'évolution de n(z) en fonction de z, 9, T, de la constante de Boltzmann kB et la masse m d'une particule. 6 - Représenter lallure de l'évolution de n(z) pour deux températures T1 et T2 avec Tz > T1 . 7 - En déduire l'existence dun courant diffusif dont on précisera l'expression et le sens.
+C- Transferts thermiques
+On considère un solide homogène de masse volumique p, de conductivité  thermique 1 et de capacité thermique massique C (Fig.5). Le solide est supposé infini dans les directions y et II occupe le volume compris entre x 0 et x = e. On note T(x) la température en un point du solide et j = j(x):x le vecteur densité de courant thermique_
+Chaleur
+2 Faces isothermes
+r=0 re
+Figure 5
+Les seuls transferts d'énergie à lintérieur du solide sont des transferts par conduction. 8- Pour un volume compris entre X et x + dx, de section $, effectuer un bilan d'énergie entre les   instants et t + dt, en déduire léquation aux dérivées   partielles   vérifiées   par   la température: d2T dT dx2 dt Exprimer la constante a en fonction de p; C et 2
+9- Dans la suite on se place en régime est stationnaire. La paroi en X 0 est maintenue à la température constante T1, celle en x e est maintenue à la température constante Tz T1. Trouver le profil de température_
+Concours Physique Chimie
+Session 2017
+Epreuve de Physique
+Page 6 / 7
 
+--- page 7 ---
+10- Exprimer la puissance thermique transmise à travers la surface S du solide en fonction de S, e,2, T1 et T2. 11-Dresser une analogie entre les grandeurs intervenant dans les lois dOhm et de Fourier 12-Définir la résistance thermique notée Rth. Exprimer Rth en fonction de S, e et 1- 13- Justifier Fappellation résistance thermique > attribuée à Rch: 14-On se propose détudier Fintérêt du double vitrage dans la maîtrise des pertes d'énergie dans un appartement   dont   les   parois   vitrées sont   formées   de trois couches faces parallèles deux lames de verre dépaisseur e chacune séparées par une couche d'air de même épaisseur. Les faces externes de ce système sont maintenues à des températures constantes T(x = 0) = To, et T(x = 3e) Text avec To > Text. Lair seC de conductivité constante; est considéré comme un matériau obéissant à la loi de Fourier. 14.1- Etablir la relation liant les écarts de températures To - Texts To - T(x = e), T(x = e) = T(x = 2e) et T(x = 2e) - Text. 14.2-  Exprimer To T ext en fonction de 1v, JA, e,S, et %double le flux thermique à travers le double vitrage. En déduire Vexpression de la résistance thermique Rth double du système. 14.3- Calculer le rapport $double où #simple est le flux thermique à travers le simple vitrage. Psimple Commenter Données Av 1,3 Wm-IK-1 1A = 2,6 10-2 Wm-'K-1
+D- Ligne électrique
+15-On considère un fil conducteur cylindrique d'axe (Ox), de section circulaire de rayon R, de longueur L et de conductivité électrique Y. Ce conducteur est parcouru par un courant électrique dintensité constante. Entre le fil et lair ambiant à la température To, il s'établit des échanges thermiques superficiels définis par la loi de Newton: hS[T(R) To] où h le coefficient de transfert et $ est la surface latérale du fil. On néglige les effets de bords et on se place en régime stationnaire. 15.1- De quel type de transfert thermique s'agit-il ? Donner la dimension de h. 15.2- Définir une résistance thermique pour ce type de transfert_
+16-Déterminer la puissance   dissipée par effet Joule en fonction de I,Y, R et L. 17-En écrivant la conservation de puissance, déterminer T(R) en fonction de   To, I, Y, h et R 18- Un fil   conducteur en Plomb de rayon R = 0,25 mm et   de conductivité   électrique Y = 0,6 107S.I est parcourue par un courant dintensité 1A. Calculer T(R). Conclure. On donne la température de fusion du Plomb Tf 600 K To = 298 K et h = 1,3 SI.
+Fin de Pépreuve
+Concours Physique Chimie
+Session 2017
+Epreuve de Physique
+Page 7 /7

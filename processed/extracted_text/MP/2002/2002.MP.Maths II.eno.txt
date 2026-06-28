@@ -1,3 +1,51 @@
+--- page 1 ---
+RÉPUBLIQUE TUNISIENNE *$ Ministère de PEnseignement Supérieur
+Concours Nationaux d'Entrée aux Cycles de Formation dIngénieurs Session 4 Juin 2002
+Concours en Mathématiques et Physique Épreuve de Mathématiques II Date 8 Juin 2002 8H Nb pages
+Durée 34
+Barènne
+Partie [ S5pts
+Partie II Zpts,
+Partie III Bpts
+L'usage des calculatrices est strictement interdit. Une grande importance sera attachéc à la rigueur du raisonnement; & 1a darté de la rédaction et au soin de la présentation. n est rappelé que tout résultat énoncé duns le sujet peut être utilisé pour traiter la suiîte, même s'il n'a pu être démontré
+Pour a suice E désigne Pespnce vectoriel Rn rapparté & sa base canonique {en: en muni du produit scalaire usuel noté Si r = Lze; et y = Eyvi, (z,") = 5 riy;: On notera |Illa 1=1 i21 norme sur F ausociée à ce produit scaluire- L(E) désigne Palgèbre des endomorphismes de E. Pour 4€ C(E); o note u" l'adjoint de { relativement au produit scalnire de E Un endomorphisme " de E est dit gymétrique ou autoadjoint si 1 = u Un endomorphisme u de € est dit Zorm4 si u 8u 8* 0uet un endomorpbisme U de E est dit antisyinétrique sî u8 = S4 Ia désigue Tapplication identité de €. On rappelle que toute matrice symnétriqne réellc est-diagonalisable dans une base orthonormée
+Partie [
+Soit F un espace vectoriel de dimension finie sur R et soit " € C(F); avec L(F) Palgèbre des endomnorphismes de F On définif Tapplication 'Pu: C(F) 24 CfF) par: Sv(v) 2 uussu avec Ja convention &0 = 80 ".
+Démontrer par récurrence sur m € Nque si v € Ker ÿu, alors 89 € Kers?v pour tout m- € N b) En déduire que si v € Ker ?u, alors pour tout polynône P € R[X]; P(v) € Ker +v. 2: Soient uetv€ L(F) Montrer que U € Ker {u {€ Kery, e{ ex déduire que si
+1/4
+Hrstut , Pephratoire  Billkoeoss
 
+--- page 2 ---
+" € Ker 4u, alors pour tous polynômcs P,Q de R[X]
+P(v)Q(n) Q{u) P(v) et Ker Q(u} est stable par Plv)
+3. Soit " un endomorphismne dc € On suppose qu'ïl existe un polynôme P de R[X] tel que &` = P(u) Vérifier que u est normal (On rappelle que si P € R[X] ( P(u))- 3 P(u*)) 4 Soit " un endomorphisme normal de € (a) Déduire de ce qui prêcède que pour tous polynômes P;Q de R[X] P(u)Q(æ*) Q(æ)P(u) et que P(u) est un endomorphisme normal. (b) Montrer que pour tout 2 € E; ll (z)lr Jlu(s)ll et en déduire que Ker u = Keru Keru u et Ker u = Ker u2 = Ker n pour tout m € N* (c) En déduire que pour tout polynôme P € R[XJ Ker Pr (u) 7 Ker P(u) ~ Ker P(u~) {d) Caractériser les endomorpbismes norinaux et nilpotents de E
+PartieI Dans cette partie on suppose que E est de dimension 2 On 8e donne 8 2 {ei,e2) une base orthopormée de E, A) 1 Montrer qu 'un endomorphisme v de E est antisymétrique si, et seulement si, pour tont 2 € E, (v(æ)I) =0 2 Soit v un endomorphismne antisymétrique DOI} nul de E.
+0 (a) Montrer que la matrice de v dans B est de la forme ( avec w 48 et en Q dédure que 02 ~w2 Id (b) Soit e &Q vecteur de Ede norme 1 Montrer que (e, 4 @jv(e)) es{ une base ort honormée de E ct retrouver la matrice de { dans cette base
+&
+8 la matrice de u dans B , avec &, $, 7 8
+Soit u un endomorphisme de € et A =
+et & des nombres réefs:
+3; Montrer-que & est normal si, el seulement si, (B Y)(B En déduire que
+=0e (8 _ Y)(a ~ {) = €
+{a) si & ~> alors u est symétrique (b) 81 8 + Y; alors u n'admet pasde valeurs-propres réelles et il existe r > 0 ef 8 € R cos 8 sin 0 tels que A=t sin 8 cos 8
+B) On se propose dë retrouver les résultats précédents d une autre manière
+Soit u UI endonorphisme normal et soit Pu son polynome caractéristique
+2/4
 
+--- page 3 ---
+uns "Cr 4 86 2 normal )  est ; que 0 laquelle 4 74 symétrique est () suppose matrice scindé (b) 84 Montrer que 8 (On 84 8z 2 qu 'il  P0 (9 8i F' # Montrer déduire n'admet s'écrit (d) que que existe Soit Montrer {0} 4 un pas 4 est pour est unique % associé une que un tout' racine Montrer 2 4 2 inversible. valeur sous-espace couple ~ésultats est;  Yendomorphisme € E | {0}, (Q 96 qu l déduire stable propre % 4 existe par 4 % 2 2 9 partie 4 u Exstable (z,u(z)) qu'il 2 est 9 X 2 0 €4 2* % existe admet ~Par { A)) . tel Ce une que déduire Montrer ?v qui forme [ { quil 4 que précède 7u*)2 existe 4e 8 qu'il orthonormée 4 4 que 2 existe % ~472la normal, 84 est 4 <2 de T > 0 tel telle alors 4 dimension que que 8 endomorphisme existe - 2 { R[X] un 23, soit % polynôme 9 une premiers normal  4 se rotat, Ker Q(u) % 2 2 Fidentité propose ez que entre-eux: 0 € R[X]tel  Ve %e Ker Q(u) 4 uote Bezout ) . 4 que montrer 9 restriction son R ôme que 6 % polynôz avee-Q1 deux 2 et caractéristique R(u) | 9 2? sous-espaces 4 à Ker Q(u) <2) deus 9 Q2(u) Ker Q(7) polynômes Fendomorphisme Ugonalix ) premiers Ciagonalisable Cx
 
+--- page 4 ---
+(c) On suppose que Qz(X) = X2 + aX + b avec a et b deux réels i) On suppose qu'il existe ux vecteur non mX € € Ker Q2(u) tel que u(e) = "(e) Montrer que le s011s espace [ engendré par € et u(c) cst stable par u et que &" 2 8 Suf R ii) En déduire que la restriction de u_u sur Ker Q2(u) est injective ef que pOUI tout 1 € Ker Qz(u) "*(r) ~u(r) Ve aI. (On rappelle que Ker Q2(u) = Ker Qz(æ)) {d) En utilisant Videntité de Bezout, montrer qu'ïl existe deux polynômes S) et S2 de R[X] tels que les endomorphismes P1 ~ SHu) et pz = S2(u) soient deux projecteurs vérifiant P1 + p2 = Id, P(E) = Ker Q1(u) et P2(E) ~ Ker Qzu) tie) En deduiræ qu'i] existe un polynôme T tel que 1" = T(u)
+1
+0 0
+0
+3 On se donne Tendornorphisme u de R' de matrice A =
+8 8
+8
+(a) Vérifîer que u est normal. (b) Donner le polynôme caractéristique P  de u. (c) En suivant la démarche de la question précédente; donner un polynôme T de R[X] tel que u 4 T(u)
+4 Pour Je cas général, soit P(X) = IIq; n4 (X) la décomposition en facteurs irréductibles 151 dans R[X] du polynôme caractéristique P de Vendomorphisme u
+(a) Montrer que
+E= 0 Ker Q;(u) Iisk (Il s'agit d'une somme directe de sous-espaces deux à deux orthogonaux)
+(b) En déduire que 8i Pu est scindé, alors u est diagonalisable et donc symétrique (c) Déduire de ce qui précède quil existe u polynôme T tel que u* = Téu)
+4 / 4

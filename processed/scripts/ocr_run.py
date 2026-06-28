@@ -63,18 +63,18 @@ def pick_pilot():
     return picked
 
 
-def page_image(page):
-    pix = page.get_pixmap(dpi=DPI, colorspace=fitz.csGRAY)
+def page_image(page, dpi=DPI):
+    pix = page.get_pixmap(dpi=dpi, colorspace=fitz.csGRAY)
     img = np.frombuffer(pix.samples, dtype=np.uint8).reshape(pix.height, pix.width)
     return img
 
 
-def ocr_file(path, readers, max_pages):
+def ocr_file(path, readers, max_pages, dpi=DPI):
     texts = []
     with fitz.open(path) as doc:
         n = doc.page_count if not max_pages else min(max_pages, doc.page_count)
         for i in range(n):
-            img = page_image(doc[i])
+            img = page_image(doc[i], dpi)
             page_lines = []
             for rd in readers:
                 try:
@@ -96,6 +96,7 @@ def main():
     ap.add_argument("--all", action="store_true")
     ap.add_argument("--list")
     ap.add_argument("--max-pages", type=int, default=0)
+    ap.add_argument("--dpi", type=int, default=DPI)
     ap.add_argument("--arabic", action="store_true")
     args = ap.parse_args()
 
@@ -123,7 +124,7 @@ def main():
         path = os.path.join(REPO, rel)
         ts = time.time()
         try:
-            text = ocr_file(path, readers, args.max_pages)
+            text = ocr_file(path, readers, args.max_pages, args.dpi)
             op = out_path_for(rel)
             os.makedirs(os.path.dirname(op), exist_ok=True)
             with open(op, "w", encoding="utf-8") as f:

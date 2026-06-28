@@ -1,3 +1,52 @@
+--- page 1 ---
+RSPUBLIQUE TUNISIENNE Ministèrc de 1'Enscignement Supéricur, de la Rechercbe Scientifique et de la Technologie
+Concours Nationaux dEntrée aux Cycles de Formation d'Ingénieurs Session Juin 2004 6aeparrisoie Hzruohecfe) Concours Biologie et Géologie 2 Yetudes 5 diNoet Epreuve de Mathématiques
+Date Lundi 07Juin 2004
+Heure : 8 H
+Durée 3 Heures
+Nb   pages 4
+Barème : Ex 1 : 4 pts ;
+Ex 2 : 3 pts;
+Ex 3 : 6 pts ;
+Ex 4 : 7 pts;
+L'usage des calculatrices est strictement interdit. Une grande importance sera attachée à la rigueur du raisonnement, à la clarté de la rédaction et au soin de la présentation. I et rappelé que tout résultat énoncé dans le sujet peut etre utilisé pour traiter la suite; même s'il n'a pu être démontré.
+Exercice 1
+In+1 1. Soit la série entière de la variable réelle I. 'n(n+1) n2l Montrer que son rayon de convergence vaut 1. 1-0 2n+1 On pose S(r) = pour < €]-1 1[ 'n(n+1) 121 2. a) Calculer 5" (~) pour {z| < 1. b) En déduire ['expression de S (z) puis celle de S(æ) pour |zl < 1.
+3. Donner les valeurs des sommes suivantes +0 +0 +o 1 (-1)n+1 1 et (3 n 'n(n+ 1)2" n(n+1)2" n n=l n=1 n=1
 
+--- page 2 ---
+2n-! 4 a) La série converge-t-elle pour  x| = 12 n(n = - 721
+6) Calculer n(n _ 1) 5 _
+Exercice 2 On cherche une fonction y(I) développable en série entière sur un intervalle )-p p@ avec p > 0 qui soit solution de léquation différentielle y" (2) _Y(I) _ Iy(z) = 0 U(o) = 1.
+5o 1. Montrer que si y(I) = 5 anIn verifie sur -0 p[ alors on 4 n=0 0n_1 Qo = 1 01 =0 et @n-!  pour n 2 1. {n ~ 1)2
+2 Déterminer alors l'expression de y(2) et donner son rayon de conver- gence.
+Exercice 3
+1 Soit g(x) = Arcsin vz pour 0 < I < 1. Q Monter que g est dérivable sur `0 1[ et calculer g (r) . 1 6) En déduire la valeur de Fintégrale dz Vr(l ~ 1)
+Calculer les intégrales dz et 0 1 ~ I On pourra poser r = sin? 0)
+Iz
+dz. VI = z
+2. Soit (@. 4. P) un espace probabilisé. On pose pour I = 0 1( 1 f(z) = et on considère une variable aléatoire Tvr1 _ 2) X: Q _10 1 5 de densité f
+2
 
+--- page 3 ---
+losrirue Freparoioiro dos ctudes Ingon @uf d9 ,fu x BiBLIoi#eQuI
+a ) Calculer Fespérance El.X) ec la variance V(X) de la variable aléa- coire Y. 0 Déterminer la fonction de répartition F de le variable aléatoire X Montrer que pour tout + = R F(t) _ F(1 _t) =1 Que vaut P'X < 2)?
+3 u Dérerminer les fonctions de réparticion des variables aléatoires X e6 g(X). 6) En déduire la densité de chacune delle
+Exercice 4 Soit (@. 4 P) un espace probabilisé et soit p = 0 2 Un pion se déplace sur les sommets d'un carré ABCD (cf. figure) selon le prococole suivant: Le pion est sur le sommet 4 au départ. Lorsque le pion est à un instant donné sur un sommet du carré. ilse déplace à Finstant suivant vers un sommet voisin (relié par un coté avec la probabilité p ou vers un sommet opposé (relié par une diagonale) avec la probabilité 1 2p On considère les événements suivants An Le pion se trouve en 4 à linstant n" Bn Le pion se trouve en B à linstant n Cn Le pion se trouve en C à linstant n" Dr Le pion se trouve en D à linstant 72 > Notons par Cn " P(An) bn = P(Bn) Cn = P(Cn) dn = P(Da) et On br Xn = Cn dn
+1. Montrer que pour tout n € N Xn+1 = MXn où p 1 - 2p p p 0 1-2p M = 0 1-2p p p p 1 - 2p p 0
+3
 
+--- page 4 ---
+2 On considère les vecreurs
+1
+ul1 =
+1
+41 41
+U2
+et U4
+21 1
+dans R- muni de sa base canonique. Montrer que (u1 U2 U3 7a est une base de R4 6) Vérifer que Mu; = U1 Muz  (1 4p)u2 M u3  Mu4 (2p = ~ 2p 1)23 et 1) u4 
+3 Soit f Yendomorphisme de R* rel que sa matrice dans la base est V . canonique 0 Ecrire la matrice D de f dans la base (11 U2 U3 U4 ; 6) Détermniner une matrice inversible relle que M = QDQ-1 Calculer Q2 puis en déduire Q-1.
+4 1 a) Montrer que Xn = QD"ÇXo: 4 pour tout n > 1 b /En déduire an 6n Cn et dn en fonction de n et p. Calculer lim On lim bn lim n =+0 Cn er lim n=+o dn . n=+o n=+oo
+4888848884848888888888888888848848488488
+113

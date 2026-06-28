@@ -1,3 +1,69 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de lEnseignement Supérieur et de la Recherche Scientitique
+1 _~38142/6æ1 UWkwlbsls uïwl Jsia ibsi 21 jaliji ixjiNl iss Jal> Ji 2022 6,9
+Concours Nationaux dEntrée aux Cycles de Formation d 'Ingénieurs Session 2022
+Concours Biologie Géologie Epreuve de Biochimie; Biologie Cellulaire Génétique
+Date Vendredi 03 Juin 2022
+Heure 8 H
+Durée 2 H
+Nb pages 4
+Barème 40/2 points
+L'utilisation de la calculatrice est autorisée.
+EPREUVE DE BIOCHIMIE
+EXERCICE N'1 (10 points)
+L'analyse dun polypeptide P, issu de lhydrolyse de protéines dune légumineuse; par une série dexpériences , a abouti aux résultats suivants
+L'hydrolyse acide du polypeptide P a conduit à
+2Ala, Arg, Glu, Gly, 2Lys, Met, Phe, Tyr, Val.
+1. Le peptide P est  traité à pH alcalin par   l'isothiocyanate de phényle (PITC) Ce traitement a abouti à la formation du PTH-Val. a. Quel est le nom de cette méthode 2 b Que permet de mettre en évidence cette réaction?
+2. L'action de la carboxypeptidase B sur P a permis la libération de la Lys. Que permet de mettre en évidence cette réaction?
+3. Le traitement de P par le bromure de cyanogène a libéré deux fragments peptidiques; avec les séquences suivantes Peptide A Ala, Lys, Met, Phe, Val Le peptide A est  traité par l'isothiocyanate de phényle qui a conduit à la formation dun PTH-Val Peptide B: Ala, Arg, Gly; Glu; Lys, Tyr Le peptide B est traité par l'isothiocyanate de phényle qui a abouti à la formation dun PTH-Gly a. Quelle est l'action du bromure de cyanogène?
+Concours Biologie et Géologie - Session Juin 2022
+Epreuve de Biochimie, Biologie Cellulaire & Génétique
+Page 1/4
 
+--- page 2 ---
+b. Interpréter lexpérience en précisant la ou les hypothèse(s) possible(s) et leur acceptation ou rejet, quand à la résolution de la séquence du peptide P
+4. Le traitement de P par la trypsine a donné les trois fragments peptidiques suivants: Peptide C Ala; Lys, Tyr Peptide D Ala, Lys, Phe, Val Peptide E Arg, Glu; Gly; Met a. Quel est le rôle de la trypsine ? b. Interpréter lexpérience en précisant la ou les hypothèse(s) possible(s) quand à la résolution de la séquence du peptide P.
+5. Le traitement de P par la chymotrypsine a donné les trois fragments peptidiques suivants: Peptide E Ala, Phe, Val Peptide G Arg, Gly, Glu; Lys, Met, Tyr Peptide H Ala, Lys a. Quel est le rôle de la chymotrypsine ? b. Interpréter lexpérience en précisant la ou les hypothèse(s) possible(s) quand à la résolution de la séquence du peptide P.
+6 Déduire la séquence complète du peptide P et sa formule chimique semi-développée.
+EXERCICE NP2 : (10 POINTS)
+On considère le triholoside T isolé à partir de branches de palmier dattier (régime sans fruits) suivant
+le B-D-Glucopyranosyl-(1-->2)-B-D-fructofuranosyl-(6-->6)-a-D-glucopyranose
+1. Ecrire la structure chimique du triholoside T, selon la représentation de Haworth.
+2. Lors du chauffage du triholoside T en présence de liqueur de Fehling; se forme un précipité rouge brique. Interpréter ce résultat expérimental.
+3. Le triholoside T a subi une méthylation par du méthanol (CHsOH) en milieu acide, puis une oxydation par l'acide périodique (HIOA).
+s
+a. Quel est   le nom du   produit P obtenu par la réaction de  méthylation du triholoside T ? b. Combien de moles dacide périodique seront nécessaires pour oxyder une mole de ce produit P ? Justifier la réponse. C. Déduire le nombre de moles dacide formique formées (HCOOH) ?
+4. Quels sont les produits obtenus par perméthylation exhaustive (généralisée) suivie d'une hydrolyse acide du triholoside T ? Justifier la réponse.
+Concours Biologie et Géologie Session Juin 2022
+Epreuve de Biochimie; Biologie Cellulaire & Génétique
+Page 2/4
 
+--- page 3 ---
+EPREUVE DE GENETIQUE
+EXERCICE 1 2 (15 POINTS)
+Un chercheur   dispose de   plusieurs souches de drosophiles, mutantes pour différents caractères une souche à yeux vermillon (rouge vif) [v], une souche à ailes courbées [c] et une souche à soies courtes [s]. La souche sauvage étant à soies et ailes normales et yeux rouge brique.
+Le chercheur a pu obtenir un double mutant mâle [c s] qu'il a croisé avec une femelle [+] La descendance a donné une F1 homogène [+]. Les femelles F1 croisées par les mâles [c s] ont fourni une descendance composée de 815 [+], 802 [c s], 195 [c] et 188 [s].
+1. Quel est le déterminisme génétique de chaque caractère ? 2. Donner les génotypes des individus de la descendance et en déduire la relation existante entre les gènes mis en jeu dans ces croisements . 3. Donner les phénotypes; les génotypes ainsi que les proportions des descendants de la F2 (F1 x FI)
+Par ailleurs, le croisement mâle [v] x femelle [c] a donné une descendance F1 homogène sauvage [+] Le croisement dun mâle F1 par une femelle [v] a donné 600 femelles [+] et 600 mâles [v]
+4 Interpréter ces résultats. 5. Prévoir le résultat du croisement réciproque femelle F1 x mâle [v]:
+[X?(ddl =1 et a =5%) = 3,84; XZ(ddl =2 et a =5%) = 5.99 X2(ddl =3 et a =5%) = 7,81]
+EXERCICE 2 : (5 POINTS)
+Chez la levure, on dispose de la séquence dun polypeptide P qui fait 120 acides aminés. La séquence ci-dessous représente une partie; des acides aminés n' 31 à n 40 Par ailleurs, les séquences protéiques de deux souches mutantes ont été établies. Seule la portion qui diffère entre ces souches par rapport à la souche sauvage est représentée ci-dessous.
+(+) NH2 Val Cys Ala Arg Gly Thr Arg Trp Pro Ser COOH (m1) NH2 Val Cys Ala GIn Glu His Ala ~ Gly Leu COOH (m2) NH2 Val Cys Ala Arg COOH
+1. Retrouver à partir de ces séquences en acides aminés; les séquences des ARNm correspondants à la souche sauvage et aux deux souches mutantes. 2. Préciser pour chaque mutant la nature des mutations et leurs positions.
+Concours Biologie et Géologie Session Juin 2022
+Epreuve de Biochimie, Biologie Cellulaire & Génétique
+Page 3/4
 
+--- page 4 ---
+Table du Code Génétique
+PREMIER NUCLEOTIDE
+DEUXIEME NUCLEOTIDE
+TROISIEME NUCLEOTIDE
+UUU UCU PHE UAU UGU TYR UUC UCC CYS UAC SER UGC UUA UCA LEU UAA NS UGA NS UUG UCG UAG NS UGG TRP CUU CCU CAU HIS CGU CUC CCC LEU CAC PRO CGC CUA CCA ARG CAA CGA GLN CUG CCG CAG CGG AUC ACC AAC ASN ILE AGC SER THR AUA ACA AAA AGA LYS AUG MET ARG ACG AAG AGG GUU GCU GAU GGU GUC ASP VAL GCC GAC ALA GGC GUA GLY GCA GAA GGA GLU GUG GCG GAG GGG
+A
+| 7 d c  
+Concours Biologie et Géologie Session Juin 2022
+Epreuve de Biochimie, Biologie Cellulaire & Génétique
+Page 4/4

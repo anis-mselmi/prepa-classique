@@ -1,3 +1,88 @@
+--- page 1 ---
+prep 5 Pahtoire REPUBLIQUE UNISIENNE (Bibtikce) Concours   Nationaux dEntrée aux Ministère de |'Enseignement 2 4 Cycles de Formation dIngénieurs Superieur. de Ia Recherche YEtudes 5 Scunceneuss ? Session Juin 2004 Scientifique er de 'a Technoiogie Concours Biologie et Géologie Epreuve de Physique
+Date Jeudi 10 Juin 2004
+Heure 8 H
+Durée : 3 H
+Nb pages
+Barème Problème 1 : 12 pts
+Problème 2 : 8 pts
+ié€s
+L'usage dune calculatrice   non-programmable est autcrise
+Si. au cours de l'épreuve; un candidat repère ce qui lui semble être une erreur d'énoncé, il le signale sur sa copie et poursuit sa composition en indiquant les raisons des initiaives quil est amené à prendre. L'épreuve comporte deux problèmes ayant des parties indépendantes entre elles. Les candidats peuvent les résoudre dans l'ordre qui leurs convient; en respectant néanmoins la numérotation des questions.
+Problème 1 : Biprisme de Fresnel 1) On considère un prisme de verre d indice n = 15 plongé dans Fair d'indice no 1 et dont la section droite est un triangle ABC isocèle d angle au sommet 4 (figure 1) 19) Rappeler les lois de la réflexion et de la réfraction de Descartes 20) Ecrire la relation entre  ]angle dincidence 1 et B Fangle de refraction r sur la face AB du prisme. H 59) Le rayon réfiacté dans le prisme arrive souS un Figure 1 angle &incidence r sur la face AC. Donner la relation entre r et langle d 'émergence i' du prisme à travers cette face. Préciser la valeur c de langle limite de r pour que le rayon émerge du prisme à travers la face AC 49) Compléter la marche du rayon lumineux incident émergeant du prisme. 59) Déterminer une relation entre les angles A. r et r 6*) Un pinceau  lumineux  cylindrique éclaire ce prisme sous l'incidence i ; sachant que le ravon émergent est perpendiculaire à la face de sortie AC. exprimer l'angle A du prisme en fonction de i. 70 Dans le cas d'une incidence faible. montrer que la déviation D du prisme s'écrit sous la forme D ~ (n D)A.
+II) On coupe le prisme ABC suivant la hauteur AH en deux parties égales afin davoir deux prismes identiques droits A BH et A CH. On accole ces deux prismes par leurs bases comme le montre la figure 2 Langle au sommet A' du biprisme ainsi obtenu est faible de telle sorte que les distances HC et HB sont négligeables devant les autres dimensions . Le biprisme est éclairé par une source lumineuse ponctuelle $S monochromatique de longueur donde ^ située sur Taxe ZZ tel que SH = d = 0,25 m Lécran dobservation E. placé à d = 1.75 m du biprisme, est normal en O à laxe ZZ Le dispositif interférentiel   obtenu est plongé dans [air.
+Concours Biologie et Géologie Session Juin 2004
+Epreuve dc Pbysique
+Page 1/4
 
+--- page 2 ---
+X
+M
+Z
+C 3
+Ol
+Z
+S
+Figure 2
+19) Construire  les deux sources   secondaires  $1 et Sz images de S respectivement   par les prismes A 'BH e 4 CH. Hachurer la zone délimitant le champ d'interférences. 29) En utilisant [expression de la déviation du prisme; montrer que la distance S1Sz = 2 séparant les deux sources secondaires s' écrit sous la forme S1S2 = 2d (n-1) A'.
+IID La source 5 émet une vibration lumineuse   monochromatique d 'amplitude   8o et de pulsation @ s(S.t) = Socosot. 19) Donner les expressions des vibrations s1(Mt) et S2(M,t) qui interfèrent en un point M de [écran dobservation en fonction de SpM. SzM et des données du problème. En deduire ['expression de la vibration résultante s(M,t) en ce point. 29) Quelle est l'intensité lumineuse   resultante I(M) ? 30) a) Déterminer le lieu des points M de lespace où /'intensité est maximale. 6 Déteriner le lieu des points M de lespace où l'intensité est minimale. 40) Qu' observe-t-on sur ]écran E ? 59) Déterminer. en un point M de lécran dabscisse X voisin de 0, la différence de marche 8 = S-M = S[M en fonction de & X d et d 6*) En déduire [expression de l'interfange.
+IV) La lumière  monochromatique  émise est de longueur donde ^ = 0,5 um. Sur Técran dobservation E. la distance entre la troisième frange obscure au dessus de la frange centrale brillante et la quatrième frange obscure au dessous de cette frange centrale est 3 mm 19) Calculer [interfrange. 20) En déduire la distance a qui sépare les deux sources S1 et Sz obtenues   par le biprisme. 39) Trouver ]angle au sommet A du biprisme. 49) On couvre la face de sortie du prisme supérieur A CH dune petite lame transparente à faces parallèles d indice 1.5 et dépaisseur 8 um:. 2) Exprimer la nouvelle différence de marche &' en un point M de ['écran. b) Quelle est la nouvelle position 0' de la frange correspondant à &" = 0 ? c) Déterminer linterfrange. Conclure.
+V) Le dispositif interférentiel de la figure 2 (sans la lame), est éclairé maintenant par une source $ émettant deux radiations de longueurs d'onde ^1 = 0,5 um et ^2 = 0,6 um. 19) Qu'observe-t-on sur ['écran 2 Peut-on avoir interférences entre ces deux radiations 2 Justifier. 20) Déterminer la fonction I(M) donnant la répartition de lintensité sur ]'écran. 39) 4 quelle distance de 0 trouve-t-on la première anri-coïncidence entre les franges brillantes des deux systèmes de franges ?
+Concours Biologic et Géologie Session Juin 2004
+Epreuve de Physiquc
+Page 2/4
 
+--- page 3 ---
+Problème 2 : Alimentation stabilisée I- Le montage  présenté sur la figure 1 permet dobtenir; à partir dune tension alternative sinusoïdale à lentree: une tension continue 1 la sortie. L'ensemble constitue ce que Fon appelle une alimentation stabilisee.
+D4
+Di
+R
+220 SOHz
+Dsl
+Dz
+Dz
+R
+les
+entree
+B
+étage
+étage
+étage ;
+sortie
+de
+Eigure !
+de
+19) Donner le nom et le rôle de chaque étage. 29) 4) Reproduire le schéma de Pétage 1 en plaçant   convenablement   les   diodes a jonction Di(i = 1, 2 3 4) et en lui ajoutant la résistance Rc qu'on placera entre les points A et B (figure 1). b) Préciser; pour chaque alternance; le chemin suivi par le courant I traversant le pont à diodes supposées idéales. C Représenter ]'ailure de la tension Vs aux bornes de la résistance R en fonction du temps. 39) On veut étudier ]étage 3 comportant une résistance R et une diode Zéner Dz inconnue. La figure 2 représente ]'étage 3 relié au transformateur délivrant une tension sinusoïdale et). La borne commune entre la résistance et la diode Zéner est mise à la masse
+che
+ran ale
+R
+220 V
+e(t)
+Dz
+Eigure 2
+ine
+Reproduire SUI votre copie le schéma de la figure 2 et expliquer comment un oscilloscope permet de   visualiser la caractéristique I(U) de la diode Zéner.
+; ?
+I- Après linéarisation par morceau; la caractéristique I(U), donnée par la figure 3. traduit tois modes de fonctionnement.
+tes
+Concours Biologie et Géologie Session Juin 2004
+Eprcuve de Pbysique
+Page 3/4
 
+--- page 4 ---
+pente VRa
+Uz
+Figure :
+Uo
+pente I/Rz
+19) Donner la définition de chacune des grandeurs suivantes Uzs Rzs Uo et Ri. 29) Expliquer Ic comportement de la diode Zéner Dz en fonction de la tension U pour < mode de fonctionnement. 39) Déterminer Fexpression de la tension aux bornes de Dzs pour chaque intervalle fonctionnement. En déduire pour chacun de ces intervalles. le schéma électrique équivalent.
+III- On veut étudier le régulateur Zéner represente par la figure 4 Le montage est constitué d'une diode Zéner ( Uz = 10 V ; Rz = 5 2 ) dune resistance R = -  et dune résistance de charge Rc variable On alimente le circuit par une tension présentar : ondulations importantes autour de la valeur movenne Ue= 30 V. On obtient à la sortie aux cor de Rc traversée par le courant de sortie Is; une tension Us.
+Ie
+R
+Us
+Rc
+Figure _
+19) Représenter la caractézistique Iz f(Us de la diode Zéner. 29) En se place dans le cas où Us >Uz Montrer, en utilisant les lois des nœuds et des mailles . Ue-Uz(l+ R) Rs le courant Iz dans la diode Zéner $' exprime sous la forme : Iz R+Rz(l+ 8) Rc 30) Exprimer la tension de sortie  Us en fonction de Ue Is, Uz; Ret Rz Calculer les facteurs de régulation f = 4: )à Is cte et 1=- 4Ui) à Ue =cte. AIs 49) En considérant que la résistance de charge Rc décroît de l'infini jusqu'à 250 2, calculer 2) les courants maximal et minimal dans la diode Zéner ; b) les tensions de sortie maximale et minimale 7 AU  le taux dondulation en tension défini par avec Usmoyen (Usmax + Usmin Usoycn
+Concours Biologie et Géologie Session Juin 2004
+Epreuve de Physique
+Page 4/4

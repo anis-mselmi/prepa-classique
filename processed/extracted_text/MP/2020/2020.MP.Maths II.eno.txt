@@ -1,3 +1,55 @@
+--- page 1 ---
+République Tunisienne Ministère de lEnseignement Supérieur et de la Recherche Scientifique Concours Nationaur dEntrée aux Cycles de Formatlon dIngénieur Scarion 2020
+19j1 _i4?Ji {1jx?yigape Gusegs Lj4ji =u8li 0+ji 05u21d 2020 {'
+Concours Mathématiques et Physique Epreuve de Mathématiques II
+Session 2020
+Date 21/07/2020
+Heure 8H
+Durée 3 heures
+La qualité de la rédaction et de la présentation; la clarté et la précision des raisonnements entreront pour une part importante dans lappré - ciation des copies. Lusage des calculatrices nest pas autorisé. Tout résultat fourni dans lénoncé peut être admis et utilisé par la suite, même sil n'a pas été démontré
+Notations et rappels Dans tout le problème, n € N* , K=Rou C et Mn(K) est lespace vectoriel des matrices carrées dordre n à coefficients dans K. In est la matrice identité de Mn(K) On note Mn,1 (K) Yespace vectoriel des matrices à une colonne et à coefficients dans K. Mn,1 (K) sera identifié à K" . C' (RCr) désigne Yespace vectoriel des fonctions de classe C1 dune variable réelles et à valeurs dans Cn Sn (R) = {A € Mn (R), *A = A} et ASn (R) = {A € Mn (R), 'A = -A} où 'A désigne la matrice transposée de A. Une matrice A € Mn (R) est dite symétrique définie positive si A € Sn (R) et VU € R"| {0} , 'UAU > 0. On note St+ Yensemble des matrices symétriques définies positives. Une matrice A € Mn (R) est dite orthogonale si 'AA = In. On rappelle que, pour toute matrice M € Mn (C), lexponentielle de M est définie par +0 Mk exp (M) = k0 k! Soit M€ Mn (R) . La fonction tF + exp (tM) est C1 sur Ret sa dévivée est donnée par t+4 Mexp (tM) = exp (tM) M,
+de plus, exp (tM)exp (~tM) In, pour tout réel t.
+Soit A € Mn (R) . On considère léquation différentielle suivante (E) : X' (t) = AX (t) , t € R On note SE le sous-espace vectoriel de C1 (R,C") formé des solutions de (E). On rappelle également que si Xo € Cn , alors lapplication @:t - F etAXo est lunique solution de (E) telle que @ (0) = Xo. On appelle @ la solution de problème de Cauchy.
 
+--- page 2 ---
+Concours Mathématiques et Physique
+Epreuve de Mathématiques II
+Page 2 sur 4
+Questions préliminaires (4 points) 1. Critère de diagonalisation Soient M € Mn (C) et & € C. (a) Montrer que la suite ker ( M &In)k est croissante pour linclusion et quil existe keN un entier naturel p tel que
+Vk 2 p, ker (M &In)k = ker ( M &In)P
+(b) Soit ko € N tel que ker ( M  &In)ko ker ( M ~In) ko+1 Montrer que Vk > ko, ker ( M &In)k = ker (M _ &In)ko (c) Justifier que Cn ker ( M AIn) mx où ma est la multiplicité de la valeur AeSpc(M) propre ^. (d) En déduire que M est diagonalisable dans Mn (C) , si et seulement si Và € Spc (M) , ker ( M AIn) = ker ( M _ AIn)2 2. Matrice associée à un produit scalaire Soit (E, () ) un espace euclidien, B = (e1 . . .  en) unebase de Eet la matrice M = ((eive;))isijsn' (a) Montrer que V(u,v) € E2, (u,v) tUMV avec U = MatB (u) et V = MatB (v) . 11 On rappelle que si u = ukek alors MatB (u) k=1 Un (b) Montrer alors que M € S++ 3 Soit S € Sn(R) vérifiant VU€Rn, tUSU = 0 (a) Montrer que toute valeur propre de S est nulle. En déduire que S = 0.
+Partie I (7,5 points) Cas où A est diagonalisable dans Mn (C) et à valeurs propres imaginaires
+A _ Exemple
+=1
+On considère A =
+1. Soit t € R Sans diagonaliser A, calculer (tA)2* et (tA)2*+1 keN. 2. Déduire etA , t €R. 3. Montrer que, dans ce cas, toutes les solutions de (E) sont bornées sur R B = Généralisation 1. On suppose que A est diagonalisable dans Mn (C) et que Spc (A) € {ia, a € R} (a) Soient ^ € Spc (A) et V un vecteur propre associé à 4. Montrer soigneusement que etAV = eAtV, Vt€R
 
+--- page 3 ---
+Concours_ Mathématiques et Physique
+Epreuve de Mathématiques I
+Page 3 sur 4
+() Soit (Vi.. , Vn) une base de Cn formée par des vecteurs propres de A et on considère les fonctions @ tF>etAVk, 1 <k <n Montrer que P1, - @n) est une base de SE. (c) En déduire que les solutions de (E) sont bornées sur R. 2 Dans cette question; on suppose que toutes les solutions de (E) sont bornées sur R. Soient ^ une valeur propre complexe de A et Vo un vecteur propre associé à 2. (a) En considérant la solution @ de (E) telle que @(0) = Vo, montrer que Re (4) = 0. (b) Soient w € ker ( A = AIn)2 et v = (A - AIn W. Montrer que etAw = eXt (w + tv) , Vt€R ii Montrer que ker ( A _ AIn)2 € ker (A - AIn) iii. En déduire que A est diagonalisable dans Mn(C). c - Application V1 71 On munit C" de la norme suivante Pour U = ec" , llull = vuû, où 0 =
+Vn
+Zn
+On suppose ici que A € ASn (R) 1 Montrer que eA est une matrice orthogonale. 2. Soient t € R,U €Cn. Calculer lletAull? . 3. Conclure que A est diagonalisable dans Mn (C) et que ses valeurs propres sont imagi- naires.
+Partie II (5 points) Cas où les valeurs propres de sont de parties réelles strictement négatives
+On considère une norme quelconque |-|| sur C" 1 Montrer que si VX € SE, lim Ilx(t) ll =0 alors VA € Spc (A), Re (4) < 0. t=++0 2 On note 41, . . . ,Ar les valeurs propres complexes distinctes de A, de multiplicités respectives 711, ' mr. On suppose que, pour tout i € {1,... r} , Re (4;) < 0. Soit U € Cn. On rappelle que U = U1 + -  + Ur, où U; € ker ( A ~ J;In) m; , Vi€ {1,r} (a) Vérifier que pour tout réel t :
+m, =1 #k et(A-M;)U; = 5 (A - A;In)kU; Vi€{1,. r} k2o kI
+(b) En déduire que pour tout réel t :
+m;=1 tk etAU; = =etÀ; 5 F(A - M;In)*U; Vi€{1,.  r} k=0
+(c) Justifier lexistence dune constante C > 0 telle que
+I(A - J;In)*Ull < cllU;Il, Vi€ {1,...,r} et Vk € {0,.. ,mi = 1}
 
+--- page 4 ---
+Concours Mathématiques et Physique
+Epreuve de Mathématiques II
+Page sur 4
+(d) Montrer alors que pour tout réel t IletAusll < Ce'Re(ad) (1 + |tl) "~1 lU;I , Vie{1, ,r} , et déduire que
+lletAull < C(1+|t|)"-1 (ÉvRet4) max Ilu;ll. I<i<r
+(e) Conclure que toute solution de (E) tend vers 0 en +0 3. Vitesse de convergence On suppose quil existe un réel a > 0 tel que Re (4) < ~a, VA € Spc (A) . (a) Montrer que la fonction  + + (1+|tl)"-1 eRe(A)eta est bornée sur R+. (b) En déduire que si X est une solution de (E) alors il existe C' > 0 tel que Ix(t) Il < C'e-a , VteR+.
+Partie III (3,5 points) Application à léquation de Lyapunov
+Dans cette partie; on suppose que la matrice A est à valeurs propres complexes de parties réelles strictement négatives. R" sera muni de son produit scalaire canonique (  ) et de la norme euclidienne associée | |. Pour U,V dans Rn . On pose +0 @(U,V) = (etAU,etAv)dt.
+1. En utilisant linégalité de Cauchy-Schwarz, montrer que $ (U,V) est bien défini 2. Montrer que @ est un produit scalaire sur Rn 3 Montrer que la fonction 9 : Rn _ R, UF+ $(U,U) est différentiable et que
+dq (U) H = 2@(U,H) , V(U,H) €R" x R"
+4. Soit U € Rn . Calculer la dérivée de la fonction f : R-R,t~+ lletAUll? . 5. En déduire que 24 (U,AU) = -llull?, VU€R"_ 6 Soit B = (@ (eiej))1sijsn Mn (R) avec (e1,.. .,en est la base canonique de Rn (a) Montrer que 'UBAU + 'UtABU = ~'UU, VU €Rn. () Conclure que B € S++ et que *AB + BA = -In (appelée équation de Lyapunov).
+Fin de lénoncé

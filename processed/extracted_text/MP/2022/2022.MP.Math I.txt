@@ -1,11 +1,147 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE MInlstere de FEnselguement Supérieur, de la Recberche Sclentifique Concouzs Nationaux d'Eutrée aux Cycles de Formation d'Ingenieurs Session 2022
+4isl Z)s62i <i Gsdly (llall ralal) {Jljs Jyil Silji Gi jkliji Juwikl wsjal>j) 2022 ;,>
+Concours Mathématiques et Physique Epreuve de Mathématiques I
+Date Mercredi 01 Juin 2022
+Heure 8H
+Durée 4H
+Nbre pageb
+La qualite de la rédaction et de la présentation; la clart6 et la précision dee raleonnements entreront pour une part importante dans lappré- ciation doB copios. Documents et calculatrices non autoribés Tout régultat fourni dans lénoncé peut être admis et utilisé par la suite, même &il n'a pag ét6 démontré.
+Notations, Définitions et objectifs. Pour z € C, on désigne par z, Re(z) et Im(z) le conjugé, la partie réelle et la partie imaginaire de z. Si R ejo;+œ[ on note D(O,R) = {z ec:|zl < R} Une fonction f : C _ Cest dite DSER (resp DSEo) gil existe une suite de nombres complexeg (an)neN telle que f(z) = anzn pour tout z € D(O,R) (resp pour tout z €C). n=0 zn Par exemple, la fonction z F  + exp(z) = e = 2 est DSSo. n=0 n! On rappelle que |e| = eRe(z) pour tout z € C. Soit f I=C une fonction continue sur un intervalle I et k € N. On dit que f admet un moment dordre k, noté mk(f), si la fonction t4 #f (t) est intégrable sur I et on pose
+mk(f) = Jf(e)dt:
+On rappelle qu'une variable aléatoire discrète réelle X définie sur (0,A,P) admet un moment dordre k € N si la variable aléatoire Xk est despérance finie et on note dans ce cas le moment dordre k de X le nombre mk(X) = E (x*) = 5 *P(X=r) reX(Q) La problématique est détudier la validité des affirmations suivanteg P1 Si leg fonctions f,g : I R vérifient mk(f) = mk(g) pour tout k € N alors f = 8. P2 Si les variables aléatoires discrèteg réelles X, Y vérifient mk(X) = mk(Y) pour tout k € N alors X et Y suivent la même loi.
+page 1 gur 5
 
+--- page 2 ---
+Préliminaires Leg queetions 1, 2,8 et 4 suivantes gont indépendanteg. 1. Soit & € R Calculer lino 2T eiax dx. (On distinguera le cas & nul) T ~T 2. Soit f : R = C une fonction continue admettant un moment dordre k pour tout k € N. Montrer que f : xF + Jf ()e-izdt - est de classe Co sur R Exprimer, pour tout entier k, f(#) (0) en fonction de mx(f) e ! si x > 0; 3. Soit G la fonction définie gur R par G(x) = 8i non. (a) Montrer que pour tout entier k € N; il existe une fonction polynômiale Pk vérifiant G(k) ((x) = Px(=)e# pour tout x > 0. (b) En déduire que la fonction G est de cla8ge Cœ sur Ret que G(k) (0) = 0 pour tout k € N. (c) La fonction G e8t elle DSER pour un certain R > 0? Soit R ej0,+o[ et f :24 E @nz" une fonction DSER. n=0 (a) Soit r € Jo, R[ et fn : t+ + @nr"e 'eint pour n € N. Montrer que la série de fonctions E fn converge uniformément sur R. n20 2n () Soitn,p € Ndeux entiere non nécesgairement distincts. Que vaut lintégrale ei(n-P)tdt? (c) En déduire que pour tout réel r € JO,R[et pour tout p € N, on a la formule 2I @p f(reit)e-iptdt. Zzrp Caractérisation de la fonction exp
+5. Soit f : 2+ + @nz" une fonction DSEo. On suppoge que f est bornée Bur C et on note n=0 K =suplf (z)|: zec K (a) Soit n € N* . Montrer que |an| < rn pour tout réel r > 0. (b) En déduire que an = 0 pour tout n €N' et que f est une fonction constante. 6. Soit 8 une fonction DSEœ telle que g(0) = 1. On suppoge qwil existe un réel M vérifiant Ig(z)  < MeRe(z) pour tout z €c. (a) Justifier que la fonction f :zF +e-2g(z) eet DSEo. () En déduire que g(z) = e7 pour tout z €€.
+page 2 gur B
 
+--- page 3 ---
+Pi Cas des fonctions continues sur un segment
+On considère lespace C([a,b] ,R) deg fonctions continuee de [0,b] dans R muni de la norme de la convergence uniforme définie par |lpllo sup |P(t)|, pour tout @ € C(la,b] ,R). tela b] 7. Soit f une fonction de C ([a,b] , R) vérifiant mk(f) = 0pourtout k € N,où mx(f) = J'*f()at. (a) Justifier que f(t)Q(t)dt = = 0 pour toute fonction polynômiale Q. (b) Montrer quil existe une suite de fonctiong polynômialee telle que la suite de fonctions (Pnf)neN converge uniformément vers la fonction i0R;)eN gur [0,b] . (c) En déduire que J f2 ()dt = 0, puis que f est nulle. 8. Montrer que P1 est vraie 8i f,g € C([a,b],R). 9. Montrer que P1 eBt vraie 8i f,8 € C(la,b],C). P1 Cas des fonctions dans H Soit H Yespace deg fonctiong h : R+ _ + C de classe Co et vérifiant la propriété quivante Pour tout réel strictement positif & la fonction t F + h(t)e"t est bornée gur R+ +o On munit H de la norme |l-Il1 définie par |kll1 = Jh (t)ldt pour tout h € H 10. Soit f € H. Montrer que pour tout z € C, la fonction t F + f(t)e-izt est intégrable gur R+ +00 Ainsi la fonction f:zF + f(t)e-izt dt est bien définie sur C. 1L On veut montrer que f est DSSo. On fixe z €C (a) Montrer qu'il existe un réel C vérifiant
+t" Izlz 2" |f (t) | < Ce-+ n! pour tout t € R+ et tout n € N. (On pourra obuerver que la fonction t ++ f (#)e(2/z/+1)t egt bornée sur R+) +0 t"zn c (b) En déduire que [f(t) dt < n! 2n (c) Montrer alorg que f eet DSEo et que pour tout z € Con a : +o Î(z) = Ë(-i"m G U)z" +o où mn(f) = n! Jo #"f(t)dt. n=0
+12. On guppose maintenant que f € H et que mn(f) = 0 pour tout n € N. On 8e propoge de démontrer que f et nulle. On fixe un réel a > 0 et on poge F(z) = J' f(t)e-i(t-a)dt pour tout z e c. Ilest clair que F est DSEo (on ne demande pas de démontrer ce régultat) .
+page 3 gur 8
 
+--- page 4 ---
+(a) Vérifier que si Im(z) 20 alors on a linégalité suivante IF(z)| < Ilflli -
+(1)
+(b) Justifier que f est nulle sur C, puig établir que pour tout z € C,
++0 f(t)e ~iz(t-a)dt.
+F(z) =
+(c) Déduire que linégalité (1) reste vraie pour tout z €€. (d) Montrer que lim F(in) =0, puis déduire que F est nulle Bur €. 400 (e) Montrer alors que J f()at = = 0 puig conclure que f est nulle. 13. Montrer que P1 est vraie gi f ,8 € H
+Un contre-exemple 14. Soit @ la fonction définie par @(x) = G(x - 1)G(2 x pour tout x € R, où G est la fonction définie dans la question 3. (a) Montrer que @ est de classe Cœ , que @ est strictement positive sur ]1,2[ , et qu'elle est nulle en déhors de cet intervalle. On poge +(x) @(t)eix dt pour tout x € R 27 (b) Montrer que pour tout n € Non a :
+in +(x) =27xn J %) (#)eitrdt, x#0. En déduire que la fonction x F + x"p(x) est bornée sur R.
+15 Montrer alors que la fonction + admet un moment dordre k pour tout k € N. On admet que {(x) = @(x) pour tout x € R 16. Montrer que pour tout k €N, mk(+) = 0, où mk(+) = tp(t)dt. (On pourra utiliser la question 2) 17. Montrer que P1 nest pag vraie en général. Pz Cas de variables aléatoires bornées Soit (0,A,P) un espace probabilisé. Toutes les variableg aléatoires considérées sont réelles, définieg sur 0 telleg que X(O) soit dénombrable. On fixe une telle variable aléatoire X et on note X(O) = {xn n € N} avec Xn # xm si n # m. On définit la fonction @x par la formule +0 @x(t) Eeitx  P(X = xn) teR n=0 18. Montrer que @x est continue et bornée sur R 19. Montrer que gi X admet une egpérance finie alors @x est de clagge Cl sur R 20.  Déterminer explicitement @x Bi X guit la loi de Poisson de paramètre 1 > 0.
+page 4 gur 5
 
+--- page 5 ---
+21 Soit a € R. (a) Montrer que
+Fco J @x(t)e -itedt = ~T EP(x=*) [T ci(a-a)44 n=0 () En déduire que P(X=a) = lim frox(e ~itedt. T 4+0 2T (c) Montrer que si Y est une variable aléatoire discrète telle que @x = @x alors X et Y ont la même loi. 22. On suppose maintenant que X est bornée; cest-à-dire il existe un réel M tels que |xn| < M pour tout Xn € X(Q) (a) Montrer que X admet un moment dordre k pour tout k (b) Montrer que pour tout z € C,la série EP(X = Xn)eixnz est convergente. 160 On prolonge la fonction @x sur C en posant @x(z) = EP(x= Xn)eixnz 7=0 (e) Montrer que, pour tout z € C,la famille (P(X = *n) %25)(nk)eN? est sommable  kI En déduire que Fco @x(z) = E*"()+ poar tot  z €€ k! 23. Montrer que P2 est vraie si X et Y sont deux variables aléatoires discrètes bornées. Un contre-exemple Soit X une variable aléatoire définie sur 0 dont la loi est donnée par e-n2 +oo P(X = 'e8n) pour tout n € 7,où & = 2 e-n? n= 24. Soit k € N. Montrer que la famille (e-n2+8kn)nez est sommable et que ~1642 co ~n2+8kn = %. 71 En déduire que X admet un moment dordre k et calculer mx(X). 1 25. On définit la fonction 0 sur Z par 0(2k) = 0, 0(4k + 1) = 2 et @(4k = 1) = 2 (a) Montrer que 0(n +4) = @(n) et 0(~n) = ~0(n) pour tout n € Z. 100 () Montrer que, pour tout k € N, 2 @(n)e-n2+8nk = 0. n=z=0 (c)_Soit Y une variable aléatoire dont la loi est définie par
+P(Y = e8n)= e (1 0(n)) pour tout n € Z,
+Montrer que mx(Y) = mx(X), puis déduire que la proprièté Pz nest pas vraie dans le cas géneral.
+* Fin du sujet *
+page 5 sur 5
 
+--- page 6 ---
+Corrigé
+CN 202022
+Partie 1: Préliminaires
+1 JIT eioz dr 2 1 si @ 0. Si & + 0, on 2T lim JT tar dæ = 0 +oa 2T'
+f" eiar dz 2T
+4s22| <
+Donc
+2. Comme |f (t)e izt If(t)| qui est intégrable sur R, donc f est est bien définie sur R. Soit 9(t, r) = f(t)e-izt_
+(a) + (b) z
+9(t, z) est cpm et intégrable sur R, pour tout z € R. 9(t, 2) est de classe C% sur R pour tout t € R et pour tout n € N; a"9 (t,x) (~i)"t" f (t)et ~urt dx"
+0"g (c) Pour tout z € R, (t,2)| < |t" f (#)| qui Ôr" est intégrable.
+Par suite la fonction f est de classe Co et f(n) (z) = JR (~i)"t" f (t)e ixt dt. En particulier pour 1 0, fln) (0) (~i)"mn(f) 3. Soit G la fonction définie sur R par Je-: si z > 0 G(z) = 0 si æ < 0
+(a) On procède par récurrence sur k. Pour k = 0 on a Po(X) = 1. Supposons que le polynôme Pk existe. Pour I > 0 on a
+1 G(k+1) (r) = '(~#P() + #R()e I = Pk+ (Z)e 22 où Pk+ X?(-Pk + Pk) . (b) Soit k € N; On a G est de classe Ci sur R" pour tout 0 < i < k et lim   G() (æ) limn P(X)e-x = 0 = limn G( ( X) 0 + 100 I- ' par croissance comnparées.   D'après le théorème du prolongement  de classe Ck 0n Cn déduit que G est Ck pour tout k, par suite G est C* sur R et G(k) (0) 0 pour tout k € N. (c) Supposons quc G est DSER alors G coincide avec 8a série de Taylor Sc(æ) = G() (023* k! sur un intervalle ouvert de type ]~R, R[, donc G est nulle sur cet intervalle; ce qui est absurde.
 
+--- page 7 ---
+Soit 0 < r < R. On a, pour tout t € R; |fn (t)| Jan| r" lc terme général d'une série convergentc; puisque T < R. Ce qui montre la convergence normale donc uniforme de la série sur R (b) Si n = p alors J8" ei(n-p)dt = J8" dt = 2T Si n # p alors Jl2r ei(n-p)dt (e (n-p)27 n=p 1) = 0 (c) On a
+2T 2n 2T f (rei)e-ipdt = @nTr" ei(n-p)tdt = anrn ei(r-p)t dt = 2Tupr" n=0 n=u La permutation des signes série et intégrale sont justifiés par la continuité de fn : t 4 @nr" 'e4(n-p)t et la convergence uniforme dc la séric Efn sur le segment [0, 2r] .
+Caractérisation de la fonction exp. 5. (a) En utilisant la formule obtenu dans la question 4, c on a pour tout r > 0 27 ipt 2r K Janl < 2rrn Jo If(reit)e - dt < Zurn Joz Hfllo oc dt = rn K (b) Pour n 2 1, on a Jan lim lan| < lim =0 ce qui montre que @n 0 pour tout "+00 t00 'rn entier n > 1 Donc f (z) @p pour tout 2 € € 6 (a) Comme la fonction z € < est DSE de rayon de convergence +0 alors 9 est la somme du la série produit de Cauchy de deux séries définissant f et Comme les deux séries ont un rayon de convergence infinie; alors la rayon de leur produit est %. (b) Par hypothèse; on a |g(-)| = le-'IIf(z)l < e-Re(-) |f (z)l < MI pour tout 2 € C. D'après la question 5.b, on en déduit que g est constante   Donc f(z) 9(0)e? ez pour tout z € €.
+Pi :Cas des fonctions continues sur un segment . 7 Soit f une fonction de €(la,b] , R) vérifiant mn(f) 0 pour tout n € N. (a) On a Ji f(t)t"dt = 0 pour tout n € N; par linéarité de lintégralc on obtient le résultat. (b) Comme f est continue sur la compact [a,6] alors daprès le Théorème de Weirstrass; il existe une suite des fonctions polynômiales (Pn)nen qui converge uniformément   vers la fonction f . Commell Pnf f?Il = IIf(Pn fYL IfI I(Pn f)ll on en déduit que (Pnf)n converge uniformément vers   f? (c) On a0 = Ji Pn (t)f (t)dt Ji f? par convergence uniforme donc J  f? 0. La continuité et la positivité de f? montre quc f = 0.
+8 Si f,g € €(la, b] , R) telles que mn(f) TTEn (g) alors TTlnl (f 9) 0 pour tout n et par suite f = g. Donc P1 est vraie sur les fonctions de C([a,b] , R)
+2
 
+--- page 8 ---
+9. Si f et 9 € €(la, b] , C); on écrit f = f1 + if2 et 9 = 91 + 92 où les f: et les gi sont dans C([a, b] , R), 1 < i < 2 Comme mn(f) 'n(g) alors mn(f1) = mn(f2) et donc f1 = f2 par 8. De même 91 92. Donc f = 9.
+Pi: Cas des fonctions dans H 10. Soit f € H. Soit z = I +iy € €. On a f(t)e-i2t If(t)leyt pour tout t € R+ Il existe C tel que If(t)| < Ce-(lvl+l)t donc
+If(t)e"| < |f(t) elvlt < Ce-(lvl+i)telvlt Ce-t 20 0(
+Donc t
+f(t)eut est intégrable sur R+_ Par suite t 11. On fixe f dans H et z € C.
+f(t)e-izt est intégrable.
+(a) il existe un récl C vérifiant If(t)| < Ce-22lte-t donc t" Jz/" ~2a2+~ |z/" 2" |f (t)| < Ce t n! n1!
+2"t" Jz/" On conclut alors avec < e2lzlt pour tout t € R+ et tout " € N. n! (b) J+o I? %$ +00 e-'dt = C dt < 7 ! 2n +0 +o +00 izt (~i)nz"t" (c) On a f(z) = J f (t)e- dt = Jo f(t) 2 dt 7=0 "6!
+Soit 2 € C. On pose In(t) = (i)"z" f(t)t" pout tout t € RR+. 71!
+In est cpm sur R+ et intégrable car |f(t)|t" = O(e-tt") La série 2gn converge simplement sur R vers la fonction t La question b assure que la série 2J Lo0 Ifnl converge. Le théorème dintégration terme à terme montre que
+f (t)e izt qui est CPM.
+f(z) =
+5(4f2 f(t)dt)2" pour tout 2 € C. Montrer alors que fest DSEo et que n, +0 f(z) = E(-i)"mn(f)z" pour tout 2 € C. n=0
+12. (a) Si Im(z) 2 0 alors
+IF(z)| < 5 |f(t)e-iz(-0) | dt = If(t)leIm(e)(t-a) dt < If(t)l < Ifli
+3
 
+--- page 9 ---
+(b) Comme mn(f) = 0 pour tout n € N alors daprés 11 on a f(z) = 0 pour tout z € C puis 0 = f(z) = F(z) + Ja+o f(t)e-iz(t-a)dt donc
+Fa f(t)e-iz(t-a)dt.
+F(z)= = =
+Si Im z < 0 alors
++o IF(z)| < |f(t)e-iz(t-e)| dt
++00 +00 If(t)| eIm(e)(-a) dt < If(t)| < Iflli
+(c) lim   F(in) = lim J' f(t)en(t-a)dt 0 par application de Théorème de convergence dom - 70o inée car   lim f(t)en(t-a) =0 pour tout t € Jo; a[et If(t)en(t-a)| < |f (t)| qui est intégrable +oo Sur Jo; a[ (d) La fonction F' est DSEoest elle est bornée sur C, daprès la question 5.b, F est constante. Commne lim Fa(in) 0, donc Fa(z) = 0 pour tout 2 € . ~0 (e) On a pour tout @ € R, F(0) = f' f(t)dt = 0. On en déduit par dérivation que nulle 13. Si on a deux fonctions f,g de H qui ont la même moment  alors mn(f 9) 0 pour tout n € N et par suite f = g.
+Un contre exemple. 14. Soit v la fonction définie par +(r) = G(r = 1)G(2
+pour tout I € R
+(a) 4 est le produit de deux fonctions C" donc elle est de classe Cœ De plus si z € ]1, 2[ alors G(æ = 1) > 0 et G(2 _ x) > 0 donc ,(z) > 0. Si æ < 1 ou 2 2 2 alors G(æ - 4) =0 ou G(2 2) 0. On pose %(æ) Jt+o +(t)eitz dt pour tout I € R+ (b) Montrer; par récurence; que pour tout entier k € N on a Pour k =0 le résultat est évident. Supposons quc 4(z) = +oo Jo 4(k) (t)eitz dt Par une intégration par parties, on a
+4(k) (t)eitz dt 1 eitr +(k) (t) | p(k+1) (t)eitz dt 5p(k+1) (t)eur dt ix ix UI Car 8p(k) est nulle en déhors de [1, 2]. Comme pour tout k € N, 4(k) est bornée sur [1, 2], on pose Mk supuel1,2] /+(k) (t)|   Alors Ib(æ)| < & f? |() (t)| dt M {4) Soit n € N; Comme %(z) = 0(z44) alors 2"ph(æ) = O(4) par suite 2 1"6(æ) est intégrable sur R
+On admet qu'il existe un réel X tel que ù(æ) = Xç(æ) pour tout $ € R
 
+--- page 10 ---
+16 . Comme % admet un moment a tous ordres, d'après la question 1,
+4 (n) (0)
+mn (w)
+-6(n) (0) = 0
+car ( est nulle sur 0, 1[
+17. % et la fonction nulle ont la même suite des moments et % est non nulle car + non nulle. Laffirmation P n'cst pas vrai
+Partie 5 Cas discrètes. +00 @x(t) = E eitIn P(X In), n=0
+t€R.
+18. Comme leizr P(X = In)l = P(X = In) et la série EP(X = In) converge on en déduit que la série de fonctions Eeir  P(X = In) converge normalement donc uniformément . De plus pour tout n € Nt itIn P(X In) est continue par suite $x est continue et on a I$x(t)| < 1. 19. Supposons que X admet une espérance finie On pose gn(t)eitzn P(X In) pour tout t € R On a In est de classe CI sur R ct In'(t) = iInE eitzn P(X In)  Donc |g  (t)| < |zn| P(X = In) et la série ElIn| P(X In) converge. Par suite gn converge uniformément sur R Conclusion $x est de classe C1
+20.  Exemple.
+Too +0 Ee*47e - (Aeit)n @x(t) =e-À =e-X+Xei n! 'TL! n=0 72=0
+21 Soit X une variable aléatoire dont X(O2) = {xn n € N} et a € R
++o (a) Comme la série P(X = In nJeit(zn-a) converge normalement donc uniformément sur 7=0 [~T,T] on peut écrie
+roo EP(x In Jeit(æn -a)dt 2T n=0 2,) Jr eit(æn-u) dt
+1 2T
+@x(t)e-ite dt
+Loo 1 P(X 2T n=0
+(b) Soit a € R.
++oa Jins 2 J; "x(t)e ~itadt = T lim 2TP(X = 2,) [, eitn-0 dt 4+00 co n=0
+5
 
+--- page 11 ---
+En appliquant le théorème de la double limite en effet limT -+0 GP(X = 2,) JZT e"(En -a) dt 0 si a # Tn et limr +40 2P(X = In) JZT ei(rn -a) dt P(X = In) si a = In' D'autre part la série E #P(X = In) fZT ei(zn ~a) converge uniformément par rapport à T sur Jo; +o[ Si a # X(O) alors Jimt 7++00 4JZT @x(t)e-ita dt = 0 = P(X = a) Si a = Tk € X((2) alors limr +o0 4 [Zz @x(t)e -iedt = P(X = Ik) = P(X = a) (c) Si $x @Y alors P(X = a) = P(Y = a) pour tout a € R donc X et Y suivent la même loi .
+22 On considère dans cette question une variable aléatoire réelle X bornée; c'est-à-dire il existe un réel M tels que |rnl < M pour tout In € X(n2).
+(a) Pour tout k, [X| < MI donc E(lX| ) existe. (b) Soit 2 € C; IP(x =In Jeirnz P(X In)e Im(:)rn P(X In)ellm z||zn| P(X 2 In)ellm z A1 dont la série converge. +0 On prolonge la fonction $x sur C en posant @x(z) = E P(X = In Jeirnz n=0 zzllzk| +co Izaulz*| (c) Pour tout n € Nla série > P(X = In converge et Sn = 2 P(X = In) k! k=0 k! P(X In)elz llzl et la série EP(X = vnJelznllzl converge daprès la question précédente. On a
++oo +o +0 P(X = In)eiznz = P(X = I)4*2h2k 2 k! n=0 n=0 k=0 +00 400 2k +00 E( P(x = In)zh):*kI E;*mx(X) % k=0 71 ==0 k=0
+@x(z)
+23. Si mk(X) = mk(Y) alors $x = $y donc X et Y suivent la même loi.
+Contre exemple Soit X une variable aléatoire définie sur @ dont la loi est donnée par e-n? P(X = e8n) pour tout n € Z,
++oo où & = ( 2 e-n24 ) . n==D
 
+--- page 12 ---
+24. On pose In ~n? 8kn pour tout n €.Z. La série Eun ct la série U_n convergent car REN nEN: ,~n12+8kn 0(4) et e*n? Bkn 0(27) donc la famillc est sommable. On a roo Loo Foo ~n?+8kn (n+4k)2 16k2 ,16k? ~n2 = @
+n==00
+n =0
+7l=0a
+car l'application n n + 4k est une permutation de Z Soit k € N, X admet un   mnoment dordre k si ct seulement  si (ae 7n? '+8kn)(nk)eN  est som - mable.  Or la série E œe-n?+8kn et la série ae-n?_8kn convergent car e] 7n? 4-8kn 0(4) et nEN nEN: =n? 8kn 0(4) donc la famille est sommable. On Too Foo roa ~n24 8kn 1 (n ~4k)? @ 16k? 16k2 271? 16k?
+n
+n=Q
+n==0
+car Tapplication n
+n + 4k est une permutation de Z 16k? mk( X) e
+25. On définit la fonction 0 sur Z par 0(2k) = 0, 0(4k + 1) = 2 et 0(4k _1) = = 2 (a) Si n paire alors n + 4 et =n sont pairs par suite 0(n) = 0(n + 4) = ~0(n) = 0 Si n congru à 1 mod [4] alors n + 4 congru 1mod [4] et donc 0(n + 4) = @(n) et 77 congru à ~1 mod [4] donc 0(-n) = ~O(n). De même si n congru à ~1 [4] . (b) Montrer que, pOur tout k € N, +co 0(n)e-n?+Bnk e16k2 O(n)e-(n+4k)? e164? 0(n =4k)e-n? n==00 nez nez e16k2 0(n 4k)e-n? + @(n 4k)e-n?) n=1/4] n=-1/] , 16k2 '(46 ~n' e-n? ) =0 n=14| n==1[4] Car 2 2n? 2 e-(~n)? 2 e-n? n=-I[ n=l|) n=ll4] (c) Soit Y une variable aléatoire dont la loi est définie par e-n P(Y = e8n) (1 0(n)) pour tout n € 7, La loi de la variable Y est bien définie puisque n=0 €71 (1 = 0(n)) = 20 n =co n--00 nzOO 7Izoa On a mk(Y) = 2 4e-n?+8kn (1 0(n)) 2 4e-n?+kn 'k( X) . n==0 n=oa
+26. Laffirmation P2 n'est pas vrai puisque Tnk (Y) = mk( X) et X et Y n'ont pas la mnêmc loi

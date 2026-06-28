@@ -1,10 +1,285 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE
+299i52962d1 {Wk#gzys ISse@uala
+Ministère de /'Enseignement Supérieur, de la Recherche Scientifique et de la Technologie
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs Session 2007
+dsiw iesi auli iulipall Zuss Ule: 2007 69
+Concours Technologie (xstITUT (Patraharoire ) Epreuve de Sciences et Techniques de YIngénieurvots @IOLOTHEQUE Pv Fwns SN7
+Date Vendredi 08 Juin 2007
+Heure : 8 H
+Durée : 5 H
+Barème
+Partie A : 8 points, Partie B 4 points, Partie C : 4 points, Partie D : 4 points
+L'épreuve comporte quatre parties A-Technologie de Conception, B- Technologie de Production, C- Mécanique et D- Automatique
+Documents remis au candidat:
+Deux dossiers
+Présentation et travail demandé "et < document réponse >
+Deux documents techniques Dessin densemble et Dessin de définition (3 formats A3).
+Aucun document n'est autorisé_
+L'utilisation des calculatrices de poche non programmable est autorisée Les différentes parties sont indépendantes et doivent être traitées sur le dossier document réponse Un seul dossier document réponse est fourni au candidat et doit  être rendu en totalité, même sans réponses, à la fin de l'épreuve. Le renouvellement de ce dossier est interdit.
+DOSSIER
+PRESENTATION ET TRAVAIL DEMANDE
+cedossier comporte C0pages numérotées de 1à 10
+PrësentItMn Tëxtëqusuj(t
+page pages 2510
 
+--- page 2 ---
+Scienccs ct Tcchniqucs de l'Ingénicur (STI)
+ANTENNE POUR SATELLITES
+PRESENTATION L'observation météorologique, le trafic intercontinental de radiocommunication et la recherche interplanétaire au moyen de satellites nécessitent des antennes puissantes permettant de diffuser et de recevoir des ondes électromagnétiques en utilisant des réflecteurs paraboliques gigantesques. Pour suivre les trajectoires des satellites, les réflecteurs sont entraînés en rotation autour de deux axes l'un vertical   appelé axe azimutal et Vautre horizontal   appelé axe délévation. Ces deux mouvements de rotation doivent être contrôlés avec une grande précision par lintermédiaire des actionneurs asservis.
+Le sujet de cette épreuve porte sur |étude dune antenne pour satellites dont linfrastructure générale est représentée par la figure 1. Cette antenne est constituée principalement D'une nacelle, supportée par un pylône, mobile en rotation autour de laxe vertical  (axe azimutal) par rapport à un bâti fixe D'un support, sur lequel est fixé le réflecteur, mobile en rotation autour de l'axe horizontal (axe d'élévation) par rapport à la nacelle.
+Réflecteur
+Support du réflecteur
+Axe délévation
+Secteur dentée
+Roue dentée
+Nacelle mobile
+Tête émetteur-récepteur
+Pylône
+Axe azimutal
+Bâti
+Figure 1: Infrastructure de lantenne pour satellites à étudier.
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2007
+Page 1
+Technologie
 
+--- page 3 ---
+Scicnccs ct Icchniqucs de lIngénicur (STI)
+Icchnologic
+A
+TECHNOLOGIE DE CONCEPTION
+Dans cette partie, on s'intéresse au système de commande du mouvement délévation autour de Yaxe horizontal du réflecteur de lantenne. Le système de commande est représenté par le diagramme suivant
+Partie commande
+Moteur électrique pas à pas
+Comparateur mécanique
+Mécanisme articulé
+Distributeur rotatif
+Moteur hydraulique
+Réflecteur de Yantenne
+Transmission par engrenages
+Actionneur électro hydraulique
+Lactionneur électro hydraulique (Document 1) fournissant lénergie mécanique nécessaire pour
+assurer le mouvement délévation du réflecteur, est constitué des éléments suivants
+Un moteur hydraulique qui permet de produire la puissance mécanique pour entraîner le réflecteur à travers une transmission par engrenages (non représentés dans le document 1). Un distributeur rotatif, composé principalement des pièces (31, 32), qui assure la circulation dhuile
+alimentant le moteur hydraulique.
+Un moteur électrique pas à pas qui permet, partir dimpulsions électriques, de générer un mouvement de rotation discontinue de la vis (14) par lintermédiaire de Yengrenage cylindrique à denture droite (15, 25). Un comparateur mécanique constituant un système vis-écrou composé principalement des pièces (6, 7,9) pour Y'écrou et (14) pour la vis. Il permet de détecter l'écart angulaire entre les positions de larbre (1) du moteur hydraulique et de la roue dentée (15) Un mécanisme articulé, formé des pièces (21, 10, 41, 42, 43, 44), qui assure, sous laction du comparateur mécanique, l'ouverture et la fermeture du distributeur rotatif.
+Concours natonaux dentréc aux cycles de formation d'ingénieurs
+Session 2007
+Page 2
 
+--- page 4 ---
+Scerces &t Techniques dcCIngénicur (STI)
+Description sommaire du fonctionnement de l'actionneur électrohydraulique Sous "effet dune impulsion electrique, larbre (23) effectue une rotation d'un angle conne
+constant Cette rotation provoque, par   Vintermediaire du comparateur mécanicue du système
+c'asservissement, |ouverture du distributeur rotatif gérant |'alimentaticn en huile scus pressicn du
+roteur hydraulique l'arbre (1) de celui-ci se met à tourner L'écart de la position angulaire entre |'arbre (1) du moteur hydraulique et l'arbre (23) du moteur électrique est continuellement détecté par le comparateur mécanique agissant sur le distributeur.
+Lorsque cet ecart devient nul, le distributeur coupe l'alimentation en huile sous pression du moteur
+hydraulique et celui-ci s' arrête C'est ainsi, qu'à chaque impulsion électrique parvenant au moteur électrique Pas
+pas,
+correspond une rotation d'un angle donné et constant de /'arbre du moteur hydraulique
+Données_numériques et hypothèses
+Moteur Hydraulique
+Fréquence de rotation Nz=75Otr/mn
+Pcissanc? nominale: P1 = 12 KW
+Transmission par engrenages
+Reducteur epicycloïdal
+Rapport de réduction
+=1/86 Rendement 7 =0,95
+Renvoi dangle
+Rapport de réduction
+Rendement
+0.98
+Réducteur à secteur angulaire
+Rapport de réduction k; =1/7 Rendement 7; =0.98
+Au ccurs de la transmission de mouvement et de puissance, cn ne tient compte que des rencements n1 Ozer ?3 Gu aivezu des engrenages. Toutes les autres liaisons mécaniques sont supposées parfaites.
+Les questions relatives à cette partie sont portées sur le dossier document réponse (pages 1 à 9).
+B TECHNOLOGIES DE PRODUCTION
+L2s auestions relatives à cette partie sont portées sur le dossier document réponse (pages 10 à -8) .
+CosColrs Jationssr €275722surcyclesdeiorriron  Jgenieurs
+Zession -Co=
+Tcchrologie
+Page
 
+--- page 5 ---
+Scicnces ct Techniques de IIngénicur (SII)
+Icchnologic
+c
+MECANIQUE
+Le mécanisme dantenne pour satellites, schématisé par la figure C.1, est composé D'un bâti (0) fixé au sol auquel on associe le repère Ro(0,70,70,70) supposé galiléen  Dun pylône (1), en liaison pivot daxe (0,70) avec le bâti (0), auquel on associe le repère Ra(O,7Ja 70) tel que & (xo,*1) = (o J1) ; D'un réflecteur (3), en liaison pivot daxe (A,71) avec le pylône (1), auquel on associe le repère R(A,7vJ,7) tel que B = (Jvy) = (70,7). Cette liaison est assurée à travers un support (2) encastré au réflecteur (3) au point C. En plus, à ce réflecteur (3) on attaché des bras (4) pour maintenir la tête émetteur-récepteur (5).
+Génératrice parabolique
+J1
+Zo
+Jo v1 Ke 7 y FB J1 33
+7 71 Fa 70 Figure C.1 schéma simplifié du mécanisme dantenne pour satellites.
+On donne les vecteurs positions suivants 0A = h z + a y1 AC = by,CB = cy. h, a, b et c sont des constantes positives. a et B sont des paramètres variables en fonction du temps. Le réflecteur (3) est de forme de révolution daxe (C,y) dont léquation est exprimée dans (C,71},7) par r2 = 2.p.yYoù p est une constante positive Il est constitué dune plaque mince homogène de masse m et de densité surfacique 0 Le réfiecteur (3) est entraîné en rotation par rapport au pylône (1) autour de laxe (A,7) par un couple moteur Cm7 L'action du vent sur le réflecteur est représentee, au point C, par le torseur {Fy {T(Vent 3)}
+Le champ de pesanteur est défini par g = -9 70 Le support (2), les bras (4) et la téte (5) sont de masses négligeables. Toutes les liaisons sont supposées parfaites.
+Concours nationaux dentréc aux cycles de formation d'ingénieurs
+Session 2007
+Page 4
 
+--- page 6 ---
+Sciences ct Tcchniques de lIngénicur (STI)
+Tcchnologic
+CI- Géométrie de masses C-1-1- Montrer qu'un élément de surface (dS) associé à un point (P) de la surface du réflecteur (3) est exprimé par dS 2urvi + 7 dy  où |1 = 4 dy
+dI Zdr dy
+et que rv1 + 22 = p 22 + 1 V ? . En déduire que la surface de (3) est
+Zc + 1)
+S = Tp? [k3/2 _ 1]loù k
+dr Remarque on peut vérifier que dy
+2
+dS
+C-1-2- Montrer que le centre d'inertie (G) du réflecteur (3) est situé sur |'axe (C,y) : CG = JGy. En déduire que Ip3 SyG (vk(3k? 5k) + 2). 15 2y 2y 3/2 1/2 Remarque on peut vérifier que 41 = (22+1)ï (2+1) V p C-1-3- Justifier que la matrice dinertie au point C de (3) est principale dans la base du repère R et que les
+moments d'inertie par rapport aux axes (C,*1) et (C,z) sont égaux [Ic(3)] =
+B AJ(1Jæ) C-1-4- Montrer que B 2po J~ y dS En déduire alors lexpression de B en fonction de m, p et ya C-1-5- On se propose dajouter un contre   poids (CP) de masse mo
+concentrée en un point Go afin de ramener le centre dinertie de
+réflecteur (3) au point A AG = 0 Sachant que le bras de maintien de ce contre poids est de masse négligeable, Déterminer, en fonction de YG,
+m et mo la position de Go : AGo
+Bras de maintien de CP
+CI- Etude Energétique
+On considère le système (S) formé par 'e réflecteur (3), le contre poids (CP) , le support (2), le bras (4) et la tête (5) S-{2,3,4,5,CP} Le système (S) est de masse M, de centre d'inertie A et de matrice dinertie au
+point A: [I4(S)] =
+K 0
+(z1jz)
+C-Il-1- Exprimer, dans la base de R, 'e torseur cinématique du mouvement de (S) par rapport à Rc au point A.
+C-Il-2 - Exprimer, dans la base de R, le torseur cinétique au point Ade (S) par rapport à Ro.
+C-1l-3- Exprimer, dans la base de R, le moment dynamique au point 4 de (S) par rapport à Ro.
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2007
+Page 5
 
+--- page 7 ---
+Sciences et Techniques & UIngénicur (STI
+C-Il-4- Faire le bilan des actions mécaniques extérieures exercées sur (S). Chaque action doit être représentée par un torseur réduit au point A et de composantes projetées dans Rz.
+C-Il-5- Appliquer le théorème du moment dynamique, en projection sur *1, au système (S) dans son
+mouvement par rapport à Ro. En déduire le couple moteur Cm.
+40
+C-II- Résistance Des Matériaux
+Zo
+Le pylône (1) guidé en rotation par rapport au bâti   (0) est schématisé par la figure C-2 On   donne les torseurs des actions
+mécaniques extérieures exercées sur ce pylône modélisé par une
+poutre droite (OABC)
+Pylône
+24700/ 5222 /0 {T1} = 7-1710/ {Tz} 2234 0 23 < 2350)0 15ooo0/0 ~522 /0 ~1500) {T3} ~2024 Io {T4} = 1500 Les forces en ~150000/-2350 Kilo-Newton (KN) et les moments en mètre-Kilo-Newton (mKN). Ol=R= 0,5 m, OA=a= 1 m, AB-b= 9 m et BC=c-1m.
+Roue dentée
+Figure €-2 Modèle adopté pour le pylône (1)
+Le matériau du pylône (1) est caractérisé par une limite élastique à /extension Re 480 MPa Le matériau des boulons utilisés pour la fixation de la roue dentée est caractérisé par une limite
+élastique au glissement Rg 560 MPa. On adopte un coefficient de sécurité s=-2
+C-Ill-1- Déterminer le torseur des efforts de cohésion tout au long de cette poutre. C-Ill-2- Tracer le diagramme de moment fléchissant Mfx1' En déduire la valeur maximale Mfx:-Max C-Ill-3- Le pylône est un tube de diamètre intérieur (d) et de diamètre extérieur D établir la relation à respecter entre ces deux diamètre pour que le pylône résiste à la contrainte normale engendrée par le moment fléchissant maximal Mfx1-Mar Boulons (x24) C-Ill-4- La roue dentée est fixée au pylône par 24 boulons placés sur une Roue dentée circonférence de rayon r = 0,45m par rapport au centre 0. Si on considère que le couple transmis par cette roue est distribué uniformément sur tous les boulons
+Déterminer la valeur de la force tangentielle leffort de
+cisaillement) exercée sur chacun de ces boulons
+b Déterminer le diamètre minimal de ces boulons pcur qu'ils résistent à cet effort de cisaillement.
+Concours nationaux dentrée aux cycles , ce formation d'ingenieurs
+Session 2007
+Page 6
+Icchnologie
 
+--- page 8 ---
+D
+AUTOMATIQUE
+N.B. Les parties D-l et D-Il sont indépendantes.
+Description du système
+On s'intéresse dans cette étude aux moteurs pas
+pas électro-hydraulique
+positionnement du réflecteur de l'antenne selon les axes azimutal et d'élévation. La premiè
+consacrée à l'automatisation du positionnement du réflecteur à une position pré-programn deuxième partie, on étudie lasservissement de position angulaire de larbre du moteur positionnement azimutal.
+D-I Automatisation du positionnement du réflecteur à une position préprogrammée
+Lantenne est munie de deux moteurs électro-hydrauliques M1 et M2 perme
+positionnement du réflecteur sur une position donnée, définie par langle délévation Œ et
+azimutal 0 Le moteur M1, agissant sur Vangle délévation, peut être commandé dans les deux $ rotation tandis que le moteur M2 agissant sur langle azimutal, lorsqu'il est actionné, tourne toi dans le même sens.
+sens positif
+réflecteur
+butée b1
+sens négatif
+fin de course f2
+élévation
+moteur M1
+fin de course f1
+butée b2
+moteur M2
+capteur de position angulaire azimutale
+au
+azimut
+marche arrêt d'urgence
+Figure D-1 Représentation de l'antenne.
+Itées réglables bl et b2 permettent didentifier une position particulière définie par les angles
+programmables manuellement par l'utilisateur (b1 = 1 lorsque a = Œo b1 = 0 si a # Œo et b2
+0 = 0 b2 = 0 si 0 = 0 )
+pnaux dentréc aux cycles , de formation dingénieurs
 
+--- page 9 ---
+Scicnces ct Technicues de Inginicr (SII
+Icchrologie
+La course angulaire ce Varbre du mcteur Ml étant imitée à ?0' deux capteurs de fin de course f1 et f2 scnt actives, respectivement, lorsque & =0? et Q = 90c Le systeme c' crientaticn de |antenne est, en outre muni c'un bcuton de mise en marche m et Cun
+bcuton d'arrêt durgence au. Lcrs dun appui sur le bcuton de mise en marche, le fonctionnement souhaite est le suivant langle d'élévation initial étant suppose quelconque (0 < & <909 ), le réflecteur est tout
+d'abord ramene a l'angle d'élevation & = 0
+le reflecteur est ensuite positionne sur la position prédéfinie (4,.0
+Un appui sur le bouton darrêt d'urgence provoque Varrêt des deux moteurs dans leurs positions
+actuelles.
+Donner le Grafcet de niveau 2 décrivant le positionnement de /'antenne à la position predéfinie
+DI : Etude de Yasservissement de position angulaire azimutale Le positionnement de Vantenne selon un angle d'azimut €(t a un instant t est effectué par un
+moteur électro-hydraulique alimente par une servovalve associée à une pompe
+La servovalve est commandée par une tension continue u(t et permet de faire varier le débit de fluide ^(t) injecte dans le moteur. La relation entre la tension u(t) et le debit 9(t) est la suivante 4(t) --d4 = Ku dr cu 7=0.005 s est une constante de temps et K' =0.8 m s/V un coefficient caractéristiques ce la servovalve La vitesse de rotation 22(t) = d0 du moteur est proportionnelle au debit de fluide & 4: Cl:) =K4 t )
+Ou { =- -d m est un coerficient épenaant cu mcteur. Un capteur ge position angulaire est monte sur arcre du moteur et fournit une :ension continue ":)
+prcpcrtionneile Vangle azimutal €
+") =Ko)
+Ou : estla sersibilite cu caDteur de ccsiticn.
+E2 Jtre,la ccsition angulaire +:) de Yantenne seut àtr? scumise ; ure oerturcation 21 : srcvocuee
+car  esintemceries ven: ciuie
+CJECOCIS nationazr _'anctceJu*cscles de iurmazJr dingenleurs
+Session -Co7
+Page ;
 
+--- page 10 ---
+Scicnccs ct Icchniques dclIngénicur (STI)
+Icchnologic
+Ainsi, le schéma-blocs du système en boucle ouverte est donné par la figure D-2
+p(t)
+Qlt
+H (p)
+Kz
+H,(p)
+H(p) Figure D-2
+Les transformées de Laplace utiles sont données dans le tableau suivant
+F(p)
+f(t) pour t >0
+1 p
+(p+a)
+(e-" _e- ) b -a K@ =e-Say sin( @V1-52t V1-52
+(p +a)(p +b = Ko p +250P +@
+D-Il-1. Dans cette partie, on considère que la perturbation p(t) est nulle. 2-1l-1-1. Déterminer les fonctions de transfert H (p) et Hz(p). En déduire la transmittance globale
+#(p) du système en boucle ouverte
+)-1l-1-2. Calculer et tracer la réponse impulsionnelle 0(t) du système de fonction de transfert H (p).
+)-1l-1-3. Tracer les lieux de Bode asymptotiques de H(p)
+)-11-2. On considère à présent lasservissement de position angulaire de la figure D-3 dans lequel €
+St une tension; image de la position angulaire de consigne, et R(p) un régulateur.
+AcourS nadonaux d'enuréc aux cycles de formation d'ingénieurs
+Session 2007
+Page 9
 
+--- page 11 ---
+Scicnces et Techniques de FIngénicur (STI)
+Icchnologic
+p(
+u(t)
+R(p)
+H (p)
+vlt)
+K;
+Figure D-3
+D-ll-2-1. Sachant que le capteur de position angulaire produit une variation de tension de I0V pour une variation angulaire de 360  , calculer le coefficient K; (en V/rad) .
+D-Il-2-2. On considère, dans cette question, un régulateur proportionnel R(p)=K.
+D-Il-2-2-a. Déterminer la fonction de transfert en boucle fermée F(p) = en supposant la 0 (p)
+perturbation p(t) nulle.
+D-Il-2-2-b. Calculer la valeur de K permettant dobtenir une marge de phase de 45'_
+D-Il-2-2-c. On prend à présent €
+=0 Déterminer et tracer la réponse du système en boucle fermée
+à une perturbation p(t) en échelon de position unitaire:
+D-ll-2-2-d. Calculer, en régime permanent, la valeur de l'erreur
+pour une perturbation p(t) =t .
+D-Il-2-3. On considère à présent un correcteur proportionnel-intégral K R(p) = Kp
+D-Il-2-3-a. Etudier, en fonction de K et K , la stabilité du système en boucle fermée.
+D-ll-2-3-b. Quel est lintérêt dun tel régulateur par rapport au régulateur proportionnel ?
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2007
+Page 10

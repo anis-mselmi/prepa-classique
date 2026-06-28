@@ -1,3 +1,63 @@
+--- page 1 ---
+République Tunisienne Ministère de YEnseignement Supérieur de la Recherche Scientifique Concours Nationaux dEntrée aux Cycles de Formation dIngenieurs Seasion 2019
+1gi 1  98~3J1 {214j?gXp: Busirg J,Zw Uilji @1bliJi 0+ji 84 41) 2019 {J
+Concours Mathématiques et Physique Epreuve de Mathématiques II
+Date: Samedi 15 Juin 2019
+Heure: 8H
+Durée 3H
+Nbre de pages
+Barème Part I 8 points Part II : 3 points Part. III : 3 points, Part. IV : 6 points.
+La qualité de la rédaction et de la présentation; la clarté et la précision des raisonnements entreront pour une part importante dans lappré- ciation des copies_ Vusage des calculatrices n'est pas autorisé. Tout résultat fourni dans lénoncé peut être admis et utilisé par la suite, même s'il n'a pas été démontré
+Notations
+Dans tout le problème, n désigne un entier naturel non nul. On note Mn (R) espace vectoriel sur R des matrices à n lignes et à n colonnes, à coefficients réels et In la matrice identité de Mn(R). Le coefficient de la i-ème ligne et de la j-ème colonne dune matrice est noté Aij; On note 'A la matrice transposée de A, la matrice définie par 'Aij Aji pour tous 1 <i,j < n. Soit A € Mn(R). La matrice A est dite symétrique, respectivement antisymétrique, si 'A = A, respective- ment 'A = -A. On désigne par Sn(R) lensemble des matrices symétriques et An (R) Yen- semble des matrices antisymétriques . La matrice A est dite symétrique positive si A est symétrique et ses valeurs propres sont positives ou nulles. On note S; (R) Yensemble des matrices symétriques positives. La matrice A est dite orthogonale si elle vérifie 'AA In. On désigne par On(R) Yensemble des matrices orthogonales. La trace de la matrice A est définie par Tr(A) = 5 Aii. On admet Yégalité 1=I
+Tr(AB) = Tr(BA) pour toutes matrices A,B € Mn(R).
+X1
+Un vecteur X € Rn sera considéré comme un vecteur colonne X =
+et 'X désignera le Xn vecteur ligne obtenu par transposition. On munit Rn du produit scalaire usuel défini par
+X1
+Y1 € R"
+(XlY) = 'XY = Exii pour tous vecteurs X = 1=1 Xn
+et Y =
+Yn
 
+--- page 2 ---
+Concours Mathématiques et Physique
+Epreuve de Mathématiques II
+et de la norme |lxII V(xIX) vobjectif de ce problème est de montrer la décomposition en valeurs singulières dune matrice carrée à Yaide dune inégalité sur la trace; et dappliquer cette décomposition afin de trouver une matrice pseudo- inverse. La partie I est composée des 3 sous parties I.1, I.2 et 1.3 qui sont indépendantes. Les résultats de la partie I peuvent être utilisés dans les autres parties
+I Préliminaires Ll. Matrices symétriques et anti-symétriques Il.1. Montrer que Sn(R) et An(R) sont des sous-espaces vectoriels supplémentaires dans Mn (R) 11.2 Montrer que lon définit un produit scalaire sur Mn(R), en posant (A,B) = Tr(tAB) pour toute matrice A,B € Mn(R).
+11.3. Montrer que Sn (R) =An(R)- , où An(R)I désigne le sous-espace orthogonal à An(R) dans Mn (R).
+12. Groupe orthogonal 12.1 Montrer que On(R) est un sous-groupe du groupe GLn(R) des matrices inversibles de Mn(R). 12.2 Soit U € On(R). Justifier que tout coefficient Uij de U vérifie |Uijl < 1. 12.3 Montrer que On(R) est une partie compacte de Mn(R) 12.4. Soit X un vecteur de R" de norme 1 et Mx la matrice définie par Mx = X'X € Mn(R). 1.2.4.a Montrer que Tr(Mx) = 1. Quel est le rang de la matrice Mx ? 1.2.4.b Montrer que Mx est diagonalisable dans Mn(R) et déterminer une matrice diagonale D sem - blable à Mx. I2.4.c Montrer que la matrice Ux In 2Mx est orthogonale et que Ux représente une symétrie orthogonale
+13. Exponentielle dune matrice. On rappelle que lexponentielle de matrice est lapplication exp Mn (R)  +Mn(R) définie par la for- mule Mk Mk exp(M) =eM_ =In + k=0 k! k5i k! et vérifiant, pour toutes matrices A et B telles que AB = BA, e(A+B) = eAeB 1.3.1. Montrer; soigneusement, que '(eM) e'M et que ePMP-1 PeMp-1 pour toute matrice M et toute matrice inversible P. 1.3.2. Soit A une matrice diagonalisable dans Mn (R). Montrer que eA est diagonalisable, et quil existe un polynôme Q € R [X] tel que A Q(e4). (On pourra utiliser un polynôme interpolateur de La- grange). 13.3. Soit $ une matrice symétrique. Montrer que eS est une matrice symétrique positive 13.4. Soit A une matrice antisymétrique. Montrer que eA est une matrice orthogonale.
+Page sur
 
+--- page 3 ---
+Concours Mathématiques et Physique
+Epreuve de Mathématiques II
+II. Une Caractérisation des matrices symétriques positives On se propose de démontrer dans cette partie le résultat suivant Une matrice $ est symétrique positive; si et seulement si, Tr(US) < Tr(S) pour tout U € On(R) II1 Soit $ une matrice symétrique positive ILl1 Montrer que si D est une matrice diagonale telle que Dii 2 0 pour tout i € {1,2,...,n}, alors Tr(UD) < Tr(D), pour tout U € On(R). (On pourra utiliser la question I.2.2.) II12 En déduire que Tr(US) < Tr(S) , pour tout U € On(R) II2. Inversement, on se donne une matrice $ de Mn (R) vérifiant Tr(US) < Tr(S) , pour tout U € On(R). On fixe une matrice antisymétrique A € An (R). Soit f R ~+Rdéfinie par
+f(x) = Tr(exAS)  pour tout x € R. II.2.1. Montrer que f est dérivable sur R et que f' (x) = Tr( AexAS) , pour tout x € R. II2.2. Justifier que f(x) < f(0) pour tout x € R. En déduire que (S,A) = Tr(AS) = 0. II2.3. Conclure que S est une matrice symétrique. II.2.4. Soit 4 une valeur propre de S et X un vecteur propre de norme 1 associé à ^ Montrer que Tr(SUx) = Tr(S) = 24 , où Ux est la matrice othogonale définie dans la question I.2.4.c II2.5. En déduire que S est une matrice symétrique positive.
+IIL. Décomposition en valeurs singulières Le but de cette partie est de démontrer que toute matrice A dans Mn(R), sécrit UDV, où U et V sont des matrices orthogonales et D est une matrice diagonale dont les coefficients sont positives ou nulles.
+On fixe une matrice A € Mn(R) III1 En utilisant la question 1.2.3., justifier lexistence dune matrice orthogonale Uo vérifiant
+Tr (UoA) max {Tr(UA) : U € On(R)} 
+III.2. En utilisant le résultat de la partie II , montrer que la matrice S = UoA est une matrice symétrique positive. III.3. En déduire quil existe une matrice orthogonale 0 et une matrice symétrique positive $ telles que A = OS III.4. Prouver lexistence dune matrice diagonale D à coefficients positifs et deux matrices orthogonales U et V vérifiant A = UDV Les coefficients diagonaux Diis 1<i < n, de la matrice D sont appelés valeurs singulières de la ma- trice Aet la décomposition ainsi obtenue est appelée décomposition de A en valeurs singulières.
+III.5. Exemple Soit A =
+Montrer que max {Tr(UA); U € O2(R)} = 2
+=1
+En déduire une décomposition en valeurs singulières de la matrice A.
+Page sur
 
+--- page 4 ---
+Concours Mathématiques et Physique
+Epreuve de Mathématiques II
+Page sur 4
+IV. Applications On donne ici deux applications (indépendantes) de la décomposition en valeurs singulières
+Première application Existence dune pseudo-inverse Soit A une matrice de Mn (R) Une matrice A* € Mn(R) est appelée une pseudo-inverse de la matrice A si elle vérifie AA* et A*A sont deux matrices symétriques AA*A = A et A*AA* = A* IV11. Montrer que si A est une matrice inversible; alors A! est une matrice pseudo-inverse de A
+On-k
+IV12. Soit D la matrice définie par blocs D
+€ Mn (R), où D1 est une matrice inversible
+D1
+de Mk(R), k < n. Déterminer une pseudo-inverse de D IV.1.3. Déterminer une matrice pseudo-inverse dune matrice partir de sa décomposition en valeurs singulières. IV1.4. On se donne une matrice A € Mn(R) et un vecteur b € R" IV1.4.a. Montrer quil existe un vecteur Xo € Rn , vérifiant
+IlAXo bll = inf {IlAX = bll; X€ R"} , où || . |l désigne la norme euclidienne dans R" IV1.4b. Soit @ : Rn 74 R définie par
+@(X) = IlAX - bll? = (AX = bJAX = b)
+Montrer que @ est différentiable sur R" et que sa différentielle en X € R" , notée d@(X), est donnée par dp(X) . h = 2 ('AAX 'Ablh) , pour tout h € R" IV.1.4.c. En déduire que inf {IlAX = b|| Xe R"} = |lAA*b bll .
+Deuxième application Sous groupe compact maximal Soit G un sous-groupe compact de GLn(R) qui contient On(R) IV.2.1. Soit D une matrice diagonale Montrer que la suite des matrices (Dk)keN est bornée dans Mn(R), si et seulement si, Diil < 1 pour tout i € {1,2,... ,n}  IV2.2. En déduire que si D est une matrice diagonale appartenant à G, alors |Dii =1, pour tout i€ {1,2.. ,n}  IV2.3. Soit A € G. On écrit A UDV une décomposition en valeurs singulières de A Montrer que la matrice D € G et en déduire que G = On (R). (On(R) est alors un sous-groupe compact maximal de GLn(R))
+Fin de lénoncé

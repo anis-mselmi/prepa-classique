@@ -1,21 +1,402 @@
+--- page 1 ---
+KEYUBLIQUE UYISIENNE Ministère de /'Enseignement Supérieur de La Recherche Scientifique et de La Technologie
+Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs Session Juin 2004
+Concours de Préparation Technologique
+Epreuve de Sciences et Techniques de 1'Ingénieur
+Date Vendredi 11 Juin 2004
+Heure : 8 H
+Durée 5 H
+Nbre pages :21 + 5 documents
+Barème Partie A : 10 points, Partie B : 5 points, Partie C : 5 points Aucun document n'est autorisé Lutilisation de calculatrices de poche non programmables est autorisée Les différentes parties de lépreuve sont indépendantes. Les parties (Technologie de Conception et Technologie de Production)  B(Mécanique générale) et C (Automatique) doivent être traitées sur des copies indépendantes Les documents réponses (de la page 3/21 à la page 14/21 et le document 4/5 seront rendus avec la partie correspondante.
+PRESSE MECANIQUE
+5 (eeparatoiee ^ * (@ELBTkesue) € Yetudes 5 Ducemieuss >
+Mise en situation
+L'étude proposée est celle dune presse mécanique à cames (figure 1) développant une force; particulièrement conçue pour la réalisation des petites pièces embouties (lamelles de contacts électriques; caches et couvercles en tôle; etc. ) Le dessin d'ensemble est donné dans les documents 1/5,2/5 et 3/5
+La came (18), (documents 1/5 et 2/5) solidaire de 1arbre moto réducteur (14) permet au levier (36), par l'intermédiaire du galet (32), d'effectuer un mouvement de rotation autour de laxe fixe (5), ce qui va entraîner ]outil (125) (poinçon) en translation verticale avec le coulisseau (48) par le biais des patins (47). L'entrainement et lindexage du plateau (110) portant le disque (124) (matrice) sont réalisés par la came tambour (109) qui est son tour  entraînée en rotation par larbre du moto réducteur (14) grâce à un système pignons (101-102) / chaîne (106) .
+Pour que la presse   puisse réaliser des pièces demboutissage de petites dimensions; Tutilisateur se charge et en toute sécurité de | 'approvisionnement en pièces brutes et de Pévacuation des pièces embouties sur le disque (124) contenant 24 empreintes. Pour  garantir la sécurité de lutilisateur; le poinçon (125) doit occuper la position haute pendant l'accomplissement des tâches manuelles_ Cette fonction de sécurité est assurée par la synchronisation des mouvements des cames (18) et (109).
+Concours Technologie Session Juin 2004
+Epreuve de STI
+Page 1/21
 
+--- page 2 ---
+Mato-réducteur
+Coulisseau (48) Poinçon (125) retiré
+Plateau (110) Matrice (124) retirée
+Came (109)
+Carter % Prdtection
+10
+Principe d'indexage du plateau (110) par la rotation de la came 109
+102
+Figure 1 : Presse mécanique
+Concours Technologie Session Juin 2004
+Epreuve de STI
+Page 2/21
 
+--- page 3 ---
+REPUBLIQUE TUNISIENNE
+Concours Nationaux d'Entrée aux Cycles Signature des de Formation d 'Ingénieurs survcillantz Session LYy Concours
+MINISTERE DE L'ENSEIGNEMENT SUPERIEUR néete&l ` Epreuve de :0 Nom Cleca?:azw pe Institution d'origine 45  Identifiant
+Prénoms
+Ibral des
+doubes fcuilles
+Série
+Concours Nationaux d'Entrée aux Cycles de Formation d'Ingénieurs Jéate kl> Session Ll Concours 80@ Epreuve de 7@)
+Numcro de la doublc fcuille
+Toual dcs doubles fcuilles
+PARTIE A TECHNOLOGIE DE CONCEPTION TECHNOLOGIE DE PRODUCTION
+A.1. ANALYSE FONCTIONNELLE
+A.1.1. Compléter le diagramme fonctionnel de la presse mécanique
+Came (18)
+Poinçon (125)
+Moto réducteur
+ou
+Pignon (101)
+Plateau (110)
+A.1.2. Compléter le diagramme Pieuvre ci-dessous par: A.1.2.1. les éléments extérieurs à la presse A .1.2.2. les Fonctions Principales FP A.1.2.3. les Fonctions Complémentaires FC
+Concours Technologie Session Juin 2004
+Epreuve de STI
+Page 3/21
 
+--- page 4 ---
+Ne rien écrire ici
+A.1.2.4. Recenser les fonctions FP et FC
+FPI
+A.2. ANALYSE TECHNOLOGIQUE A.2.1. Compléter le tableau suivant représenter les axes de chaque liaison
+Assemblage
+Nom de la liaison
+Schéma normalisé dans le_plan correspondant_
+(125) / (48)
+(125) / (48 et 123)
+(46) / (48)
+(112) / (110)
+(25) / (23) 1
+Concours Technologie Session Juin 2004
+Epreuve de STI
+Page 4/21
 
+--- page 5 ---
+Ne rien écrire ici
+A.2.2. Donner la ou les fonctions de chacune des pièces suivantes:
+Pièce (32)
+Fonction
+(45)
+(119)
+(120)
+(121)
+A.2.3. Critique dune solution constructive: A.2.3.1. Quel est le type de la liaison entre les pièces (5) et (1 et 2) ?
+A.2.3.2. Proposer et représenter une nouvelle solution pour cet assemblage sur la figure Al.
+40
+35
+36
+Figure Al montage de laxe (5)
+Concours Technologie Session Juin 2004
+Epreuve de STI
+Page 5/21
 
+--- page 6 ---
+Ne rien écrire ici
+A .3. COTATION FONCTIONNELLE On considère la partie du mécanisme de ['ensemble représenté par le dessin de la figure A2
+14
+24
+21
+31
+22
+30
+29 25 28
+101
+2
+26
+23
+27
+Figure A2 cotation fonctionnelle
+A.3.1. Justifier ]utilité des conditions Ja entre (14) et (21) et Jb entre (14) et (23) indiquées sur le dessin de la figure A2 Ja Jb
+A.3.2. Tracer, sur la figure A2, la chaîne de cotes minimale relative à la condition Jb A.3.3. Sachant que les intervalles de tolérances (IT) sont IT (Jb) = 1,2 mm IT (23) 0,3 IT (101) 0,2 et IT (22) 0,2 _ déterminer les Intervalles de Tolérance des autres cotes fonctionnelles intervenant dans la chaîne_
+Concours Technologie Session Juin 2004
+Epreuve de STI
+Page 6/21
 
+--- page 7 ---
+REPUBLIQUE TUNISIENNE
+Concours Nationaux dEntrée aux Cycles Signature des de Formation d'Ingénieurs survcillants Session Concours CzCl.:
+MINISTERE DE L'ENSEIGNEMENT SUPERIEUR Aedméahe kl ` Epreuve de Nom accl Institution d'origine Identifiant
+Prénoms
+Total dcs
+doublcs fcuilles
+Série
+Concours Nationaur dEntrée aux Cycles de Formation d'Ingénieurs Numcro de la Total des doubles double fcuille [cuillcs éatkl> Session Concours Abd Epreuve de
+A.4. ETUDE DE CONCEPTION Un roulement rigide à deux   rangées de billes réalise une liaison pivot. Le guidage de ]'arbre (14) par rapport au bâti (11 et 13) avec les roulements (16) et (17) peut être modélisé par le schéma de la figure ci-dessous:
+14
+AB = Q z
+13
+2
+A.4.1. Etablir le graphe des liaisons de ce système.
+A.4.2. Ecrire; au point A et dans la base ( x,y,7 ) , les torseurs statiques des efforts transmissibles par ces liaisons
+Concours Technologique_ Session Juin 2004
+Epreuve STI
+Page 7/21
 
+--- page 8 ---
+REPUBLIQUE TUNISIENNE
+Concours Nationaux d'Entrée aux Cycles Signaturc des de Formation d' Ingénieurs survcillants Session 2l Concours 2Cl
+MINISTERE DE L'ENSEIGNEMENT SUPERIEUR Epreuve de badaéaite&l Nom Eiccl_ 94 Institution d'origine Identifiant
+Prénoms
+Total des
+doubles fcuilles
+42 4
+Série
+Concours Nationaux d'Entrée aux Cycles de Formation d'Ingénieurs éat&l> Session Concours Abd Epreuve de
+Numcro dc la double fcuille
+Toual des doublcs {cuilles
+A.4 ETUDE DE CONCEPTION Un roulement rigide à deux rangées de billes réalise une liaison pivot. Le guidage de larbre (14) par rapport au bâti (11 et 13) avec les roulements (16) et (17) peut être modélisé par le schéma de la figure ci-dessous:
+14
+AB = Q =
+13
+A.4.1. Etablir le graphe des liaisons de ce système.
+A.4.2. Ecrire, au point A et dans la base ( x,y, 7 ) , les torseurs statiques des efforts transmissibles par ces liaisons_
+Concours Technologique Session Juin 2004
+Epreuve STI
+Page 7/21
 
+--- page 9 ---
+Ne rien écrire ici
+A.4.3. Par une étude statique; déterminer les degrés de mobilité (d) et d'hyperstatisme ce système.
+de
+A.4.4. Dans le cas où le système est hyperstatique; modifier les liaisons en A et en B pour rendre le système isostatique. Justifier votre réponse
+A.4.5. Conception On désire remplacer  les roulements rigides à deux rangées de billes (type BF) par deux roulements rigides à une seule rangée de billes (type BC). A.4.5.1. Utiliser le document (3/5) pour déterminer les roulements convenables A.4.5.2. Compléter le document (4/5) par le montage de ces nouveaux roulements A.4.5.3. Prévoir, en particulier: A.4.5.3.1. La lubrification des éléments mobiles; A.4.5.3.2. L'étanchéité A.4.5.3.3. Les ajustements_
+Concours Technologie _ Session Juin 2004
+Epreuve de STI
+Page 8/21
 
+--- page 10 ---
+REPUBLIQUE TUNISIENNE
+Concours Nationaux d'Entrée aux Cycles Signature des MINISTERE DE L'ENSEIGNEMENT survcillants SUPERIEUR de Formation d'Ingénieurs Session ~EC Concours Ùv Jéate&l ` Epreuve de Nom "EEJax Alei  Prénoms Institution d'origine 2 ajl( Total des doubles Identifiant feyilles 21 Série
+Concours Nationaur d'Entrée aux Cycles de Formation d'Ingénieurs éatell ` Session Lels Concours Zlcl Ali e Epreuve de
+Numero de la double feuille
+Total des doubles fcuilles
+A.5. TECHNOLOGIE DE PRODUCTION A5.1 CHOIX DE MATERIAUX A.5.1.1. Compléter le tableau suivant Rep Désignation normalisée Explication de la désignation du Matériau Acier d'usage général ayant une résistance élastique 235 MPa 11 C 35 [XC38]' 14 35 Ni Cr Mol6 [35NCDI6]
+18 80 Mn 8 [80 M 8]
+40 CW 460 K[Cu Sn 8Pb P] 41 Alliage de Zinc moulé à 27% d'Aluminium 113 100 Cr 6 [1ooC6]
+125
+Acier fortement allié à 1.6% de Carbone et 12 % de Chrome
+Correspondance approximative avec Vancienne symbolisation A.5.1.2. Justifier ]utilisation du matériau CW 46OK [Cu Sn 8Pb P] pour le palier de levier (40).
+A.5.1.3. Quelle est [utilité du composant symbolisé par Pb dans ce matériau.
+A.5.2. Elaboration du brut A.5.2.1. Le palier du levier (40), dont le dessin de définition est donné dans le document 5/5 sera fabriqué à raison de 200 pièces par mois pendant deux ans. Les pièces brutes sont obtenues par moulage. Proposer le procédé de moulage à utiliser. Justifier votre réponse. Procédé de moulage
+Justification
+Concours Technologie Session Juin 2004
+Epreuve de STI
+Page 9/21
 
+--- page 11 ---
+Ne rien écrire ici
+A.5.2.2 Si la cadence de production passe à 20000 pièces par mois pendant   deux ans proposer   le nouveau procédé de   moulage utiliser et donner ses principales caractéristiques. Procédé de Moulage Principales caractéristiques: A5.2.3. Pour réaliser la pièce (40), on adopte le moulage en sable avec ]'utilisation dun noyau. Justifier ]utilité de chacune des parties suivantes du moule A.5.2.3.1le modèle
+As
+On 20( A.s
+A.5.2.3.2 le noyau
+A.5.2.4. Compléter sw les figures suivantes:
+A5.2.4.1. la forme de la pièce brute; A.5.2.4.2. la forme du modèle, 5.2.4.3. la forme du noyau.
+AS.
+Dan levi: pièc feui chac
+Pièce brute
+Modèle
+Concours Technologie- Session Juin 2004
+Epreuve de STI
+Page 10/21
+Noyau
+Concour
 
+--- page 12 ---
+Ne rien écrire ici
+A.5.3. USINAGE On se propose détudier dans cette partie; Fusinage du palier du levier (40) en petite série de 200 pièces renouvelable dont le dessin de définition est représenté dans le document 5/5. A.5.3.1. Définir les spécifications suivantes
+Spécification
+Définition détaillée
+0,1
+0c1
+0 0.1
+A.5.3.2. Usinage sur machines conventionnelles Dans cette partie; on utilisera des machines conventionnelles pour [usinage du palier du levier. On dispose dun tour parallèle; dune fraiseuse verticale et d'une perceuse verticale. La pièce brute est un barreau étiré plein de diamètre 75mm et de longueur S8mm, compléter la feuille d'avant projet détude de fabrication donnée dans la page suivante en précisant pour chaque phase: A.5.3.2.1. les surfaces à usiner, 4.5.3.2.2. les surfaces de mise en position (lisostatisme). Préciser la symbolisation géométrique. 4.5.3.2.3. les opérations d'usinage dans Vordre de réalisation; 4.5.3.2.4. la machine à utiliser , A.5.3.2.5. les cotes de fabrication. Le calcul de ces cotes n'est pas demandé
+Concours Technologie Session Juin 2004
+Epreuve de STI
+Page 11/21
 
+--- page 13 ---
+Ne rien écrire ici
+Ensemble : Presse Mécanique Pièce palicr du levier (40)
+AVANT PROJET D'ETUDE DE FABRICATION
+Brut barreau étiré plein
+Matière CW 460 K[Cu Sn 8Pb P] No Désignation 10 Contrôle du_brut 20
+Nombre 200
+Machine
+Croquis
+30
+40 Fraisage
+Fraiseuse verticale
+d
+Cf
+Le référentiel est défini par -Appui plan sur 12 surface € Centrage court sur la surface B
+Surfaçage du meplat L Perçage du trou Taraudage du trou
+50
+Concours Technologie ~ Session Juin 2004
+Epreuve de STI
+Page 12/21
 
+--- page 14 ---
+REPUBLIQUE TUNISIENNE
+Simature des Concours Nationaux d'Entrée aux Cycles surveillants de Formation d'Ingénieurs Ca| Session Concours
+MINISTERE DE L'ENSEIGNEMENT SUPERIEUR éat &l ` Epreuve de 4 Nom 2 Institution d'origine Identifiant
+Prénoms
+Total des
+doubles fcuilles
+Série
+Concours Nationaux d'Entrée aux Cycles de Formation d'Ingénieurs Jéai &l` Session Concours d%0< {@ Epreuve de
+Numero de la double fcuille
+Total dcs doubles feuilles
+4.5.3.3. Usinage sur Machines Outils à Commande Numérique Dans cette partie; on utilise un parc de machines outils à commande numérique. Les surfaces A, D et F de la figure ci-dessous sont usinées sur un tour à commande numérique à 2 axes et à tourelle arrière. On prévoit lusinage en deux opérations ébauche du contour extérieur avec un outil Tl b- finition du contour extérieur avec un outil T2 On 'intéresse uniquement à létude de lopération de finition. L'outil T2 est initialement placé au point Ot de coordonnées X=100, Z-50 par rapport à l'origine programme (Op) La profondeur de passe (p) en finition est égale à 0.5 mm suivant les deux directions X et Z. Les points d'engagement et de dégagement sont à Imm du profil à usiner. 4.5.3.3.1. Schématiser sur la figure ci-dessous la trajectoire de loutil T2 lors de Topération de finition. La finition de lalésage Z24H7 sera effectuée après la finition du contour extérieur.
+T2
+Cycle de finition
+Concours Technologie Session Juin 2004
+Epreuve de STI
+Page 13/21
 
+--- page 15 ---
+Ne rien écrire ici
+45.3.3.2. Compléter le tableau suivant en précisant les coordonnées des différents points limitant  la trajectoire de Toutil par rapport à lorigine programme Op lors de Popération de finition.
+Coordonnées des points en finition
+POINT
+Or 100 50
+A.5.3.3.3. Compléter le programme donné ci-dessous en indiquant uniquement les séquences relatives à la trajectoire de loutil en finition. On rappelle les définitions suivantes GOO interpolation linéaire en avance rapide; G01 interpolation linéaire en avance de travail,
+Séquences du programmation % 01 NIO G90 G71 G92 S2000 XIOO Z5O N2O T2 Dl M6 N3O G96 S180 MO4 MOS N4O G95 FO.08 NSO
+; : 2621a89478 {rs:tv: 00 0 E5 & C{lu?: 1 3 2o6 ;.2 eQua 5ibl12 ;
+1 1
+E
+Concours Technologie Session Juin 2004
+Epreuve de STI
+Page 14/21
 
+--- page 16 ---
+Partie B MECANIQUE GENERALE
+B.1. CINEMATIQUE Etude du mouvement du poinçon (125) On s 'intéresse dans cette partie à létude du système mécanique permettant le dépalcement du poinçon (125). Les principaux solides supposés indéfonmables constituant le mécanisme sont le bâti fixe (So), la came (S1), le levier (Sz) et le poinçon (S;). Le système est défini par le schéma_cinématique simplifié de la figure Bl
+Xo
+B
+Yo
+(So) 31 (So)
+B(t)
+Zo
+(Ss)
+(Sz)
+32
+X;
+7o yo
+X2
+(S1)
+(So)
+Figure Bl Mécanisme de transformation du mouvement
+Les repères orthcnormés directs er les paramètres adoptés sont définis comme suit Ro(O, Yo, 7o, Z0) repère absolu galiléen associé à (So) Ri(O, Yl, 71, 71) repère associé à (S1) avec O(t) =( Xo,7p) suivant Z0 R(,Y,7, 72) repère associé (S2) avec B(t) = ( -Yo,%2 suivant z0 et @(t) =(-Jo;t) Rs(, Y3, 73, 73) repère associé à (S;) en translation suivant Xs = - Xo OI = r(t) 4 ; IA=a0 ; AB=bf2 ; BC= c7 ; CD = x(t) FJ où D est le centre de la liaison (S;)(So) ; OD = k1 Xo -kz yo CE =-d %o Les paramètres a, b, d, kp et kz sont des constantes positives 31 L'angle & est supposé constant au cours du temps (AB,BC ) = B.1.l. Exprimer @ (t) en fonction de B (t) B.1.2. Déterminer, par dérivation; les vecteurs vitesses   VAe(S:)(S0) et Vce(S.V(Sa) dans le repère Ro( O,x ,y , 70 ) B.1.3. Déterminer, au point B et dans le repère Ro( O,xo, yo, 7 ), le torseur cinématique du mouvement de (S2) par rapport au bâti (So) En déduire les vecteurs vitesses des points A et C de (S2)(So). B.1.4. Etablir ]expression de la vitesse du point E du poinçon (S4) par rapport au bâti (So)
+Concours Technologie Session Juin 2004
+Epreuve de STI
+Page 15/21
 
+--- page 17 ---
+B.1.5. En utilisant les résultats des questions B.1.2,, B.1.3.et B.1.4, établir la relation entre X(t) et nt) _ B.1.6. Sachant que la cadence de fonctionnement de la presse est de 32,5 pièces par minute; Calculer en régime permanent la vitesse de rotation du moteur. En déduire léquation horaire du mouvement de la came (S1), soit 0 = f (t)
+B.1.7.En partant du point I1, défini par 01 = 0, Calculer les temps mis pour atteindre les points suivants (figure B2) B.1.7.1.Iz défini par 02, B.1.7.2.I, défini par 03, B.1.7.3. Ldéfini par 04, B.1.7.4. En déduire le temps total dun cycle d'emboutissage.
+Angle de rotation 0 en en (rad) 0 02 52,597 0,9189 03 192,997 3,36934 04 233,947 4.,08405
+Iz
+Echelle 1:2
+Figure B2 profil de la came (18)
+CC' B.1.8. Pour un angle de rotation B(t) du levier (Sz)  (figure B3), déterminer le rapport AA' En déduire une relation entre r(t) et x(t) lorsque CC"~CC' et AA" ~ AA'
+B(t)
+b
+A"
+Xo
+A'
+A
+yo
+Figure B3 levier de transformation de mouvement
+Concours Tecbnologie Session Juin 2004
+Epreuve de STI
+Page 16/21
 
+--- page 18 ---
+B.l.>. Keiever; sur la nlgure B2, les valeurs des rayons polaires r; (t) OI; (i=1 à 4) pour chacune des positions des points I1, I2, I, et I4 et tracer la courbe r (t) en fonction du temps t caractérisant le profil de la came (S;), au cours d'un cycle d'emboutissage ( 1 tour de (S1)) On prendra comme point de départ Ir
+B.1.1O Sachant que r(t) 2 x(t), tracer la courbe x(t) en fonction de pendant un cycle d'emboutissage.
+B.1.11. Identifier les différentes phases du mouvement du poinçon (S;) relatives aux positions Iv, I2, I, et L. Déterminer, pour chacune des phases; la course C, le temps t la vitesse Vet laccélération % du poinçon (S3) par rapport à (So).
+B.2. STATQUE ET RESISTANCE DES MATERIAUX L'effort maximal de travail de la presse est F = 30 KN Les caractéristiques des matériaux sont: du poinçon (125) R 880 MPa du coulisseau (48) Re = 525 MPa Ecrou (123) Re 525 MPa Pour tous les calculs, on prendra comme contrainte de cisaillement [ = Re et un coefficient de sécurité s 5
+B.2.1. Donner, au point J (voir document  1/5), la forme du torseur statique de la liaison (48 et 123) (125), dans la base ( Yo,Vo,Z0) B.2.2. Isoler le poinçon (125) et déterminer les composantes du torseur statique de la liaison en J pour que celui-ci soit en équilibre pendant l'opération d'emboutissage. B.2.3. Définir le type de la sollicitation du poinçon et calculer le diamètre minimal. B.2.4 La liaison en étant  réalisée par un filetage (profil métrique ISO) M2O X 2,5- (Figure B4).
+Dimensions du filetage utilisé
+lo
+ECRou
+Iln
+diamètre D =d = 20 mm Pas p = 2,5 mm Di =dp =d - 1,0825 p Dn = dm = Dz = dz = d - 1,2268 p d, =d _ 1,0825 p H=0,866 p Epaisseur d 'un filet t = 0,75 p
+Il
+? 7 1
+Diamètres de l'écrou
+Diamètres de la vis Figure B4 dimensions dun filetage profil métrique ISO
+B.2.4.1. Calculer la contrainte maximale développée par la partie filetée du poinçon si le coefficient de concentration de contrainte est k 2 Que   peut-on conclure de la résistance du poinçon ? B.2.4.2. Les filets du coulisseau (48) et de l'écrou (123) sont sollicités au cisaillement. Calculer la section cisaillée dun filet. B.2.4.3. Calculer le nombre minimal de filets en prise entre (125) et (48 et 123) pour assurer la résistance au cisaillement B.2.4.4. En déduire la longueur minimale de la partie fileté du poinçon:
+Concours Technologie Session Juin 2004
+Epreuve de STI
+Page 17/21
 
+--- page 19 ---
+PARTIE C : AUTOMATIQUE NB. Les parties C.1, C.2 et C.3 sont indépendantes. Description du système < Emboutissage de pièces > Le système considéré (Figure C.1) schématise un procédé demboutissage de pièces (lames conductrices). Il est construit autour du système presse mécanique (documents 1/5 et 2/5) modifié au niveau des   commandes du plateau d'indexation (110) et du mouvement du poinçon (125). La transmission pignon et chaîne est remplacée par un moto-réducteur (MR2) qui assure la rotation du plateau (110) autour de l'axe X
+(MRI)
+Mdto réducteur
+Comssoau (48) Pançon (125) retkré
+Détecteur p
+Plateau (110)
+Carter de Prdection
+(MR2) Mdto-réducteur
+Figure C.1 Procédé d'emboutissage des lames conductrices. La machine d 'emboutissage se compose de trois modules: ~Module du plateau rotatif à indexations Il permet de supporter un disque portant 24 empreintes (24 pièces) durant  leur  emboutissage. Le plateau   rotatif (110) est muni dun détecteur de proximité (p) pour signaler la présence dune pièce sur 1empreinte située sous le poinçon. Ce plateau est commandé par un moto-réducteur électrique (MR2) Module_de_presse Ce module réalise lemboutissage des pièces. Le poinçon est déplacé   verticalement par un   levier   articulé et entraîné par un mécanisme came Ce mécanisme étant commandé par un moto-réducteur électrique (MRI) Module_de comparaison Ce module compare le nombre de pièces présélectionnées par l'opérateur à Taide dune roue codeuse par rapport au nombre de pièces embouties Ce demier est obtenu à laide dun système de comptage incrémenté par le détecteur (p) Ce module délivre une information d'égalité des pièces embouties et présélectionnées; notée (c) 'L'approvisionnement des pièces à emboutir sur le disque est assuré par lopérateur au début de   chaque cycle. De même; le   système de comparaison de pièces embouties et présélectionnées permet de signaler la fin du cycle. Les pièces embouties sont alors retirées manuellement par lopérateur.
+Concours Technologic Session Juin 2004
+Fpreuve de STI
+Page 18/21
 
+--- page 20 ---
+PARTIE C.1 COMMANDE SEQUENTIELLE DU SYSTEME Lobjectif de cette étude est   létablissement d'une commande   séquentielle du   système d'emboutissage. Fonctionnement du système Les conditions initiales nécessaires pour lamorçage du cycle automatique sont: Présence d'une pièce à emboutir sur ]empreinte située sous le poinçon Poinçon en position haute Présélection de N (I<N<24 pièces à emboutir (c=0) Après   avoir présélectionné N pièces (I<N<24) à emboutir déjà placées sur le disque; Fopérateur met   le système en marche en appuyant sur   le bouton   poussoir Dcy La séquence d'emboutissage est exécutée N fois et ceci tant qu'il existe une pièce SUI empreinte au dessous du poinçon. La séquence d'cmboutissage est la suivante descente du poinçon jusqu'à la position basse par la mise en marche du moto- réducteur (MRI) arrêt du poinçon en position basse pendant 100 millisecondes , montée du poinçon jusqu'à la position haute par la mise en marche du moto- réducteur (MRI) rotation de (1/24) de tour du plateau à indexations (on suppose que le temps nécessaire pour effectuer une rotation de (1/24) de tour est de 500 millisecondes) Une fois le système de comparaison signale la fin de emboutissage de N pièces (c=1), les pièces embouties sont retirées par Fopérateur, la station d'emboutissage est alors prête a Fexécution dun nouveau cycle qui sera amorcé par la présence de nouvelles pièces (p=l) et Tappui sur le bouton poussoir < Dcy > La structure dun modèle Grafcet du point de vue commande (G1), décrivant le fonctionnement de cette station est donnée par la figure €.2
+Abr
+MR
+MR
+p
+h
+b
+Dc
+C.1
+C.1
+C.1
+un co Co
+Séquence d'emboutissage
+MI
+Figure C.2 Grafcet du point de vue commande G1
 
+--- page 21 ---
+Notations utilisées Description
+Abréviation
+MRI
+Action de mise en marche du moto-réducteur MRI
+MR2
+Action de rotation de (1/24) d tour du plateau à indexations Détection dune pièce à emboutir sur Tempreinte située sous le poinçon Poinçon en position haute Poinçon en position basse Indication d égalité entre les pièces embouties et préselectionnées Appui SUr le bouton de départ du cycle
+CL1. Compléter le Grafcet Gl en ajoutant les réceptivités associées aux transitions; C.1.2. Donner [expansion de la macro-étape MI Séquence d'emboutissage > C.1.3. Modifier [expansion de la macro-étape MI pour assurer simultanément la montée du poinçon en position haute et la rotation de (1/24) de tour du plateau à indexations dès que le poinçon quitte la position basse
+PARTIE C-2 ÉTUDE DU COMPARATEUR DE PIECES EMBOUTIES ET PRESELECTIONNEES. Il s'agit dun circuit logique combinatoire qui compare deux grandeurs binaires et produit une sortie désignant égalité entre elles. Dans notre cas (Figure C.3), les grandeurs binaires à comparer sont respectivement les 5 bits de sortie de la roue codeuse et ceux du système de comptage incrémenté par le détecteur p
+Détecteur p
+Système de Comptage
+92
+Q=(949,929190)2
+Comparateur (c=l si Q=R)
+1
+Roue codeuse
+n3 nz
+N=(nan;nznpno)z
+n1
+no
+Figure C.3 Schéma synoptique du circuit combinatoire de comparaison
+Concours Technologie Session Juin 2004
+Epreuve de STI
+Page 20/21
+Dcy
 
+--- page 22 ---
+C.2.1.La synthèse du comparateur peut être effectuée de la manière suivante Considérons d'abord deux nombres de 1 bit. Soient a; et b; deux éléments binaires et F la fonction permettant de calculer (a;=b;): Donner ]expression simplifiée de F en fonction de a; et bi- C.2.2. La comparaison s'étend facilement au delà de deux éléments binaires. Ceci peut se réaliser à l'aide dun circuit combinatoire comparant chacun des éléments binaires pris deux à deux. On propose d'examiner la comparaison des deux nombres à 5 éléments  binaires Q=(9493929190)2 et N=(nn;nzn no)2. Ainsi, on demande de: C.2.2.1. Donner ]expression algébrique de la sortie du comparateur < c > C.2.2.2. En déduire le logigramme de la sortie < € > en utilisant des portes logiques élémentaires à deux entrées (NON, OU, ET, OU-EXCLUSFF).
+PARTIE C.3: ETUDE DE L'ASSERVISSEMENT DE POSITION DU PLATEAU A DINDEXATION
+Le système à étudier est constitué dun moteur à courant continu et à aimant permanent muni dun capteur analogique de position. Nous utilisons les notations suivantes pour représenter les paramètres du système: ua (t) Tension dinduit 8t) Position angulaire @réf (t) : Consigne de position. Comme la charge est couplée à larbre du moteur et le couple résistant est supposé nul, la fonction de transfert du système est de la forme: @p) T(p)= Ua(p) pl+o.Ip)(l+I6p Ce processus est inséré dans une boucle d'asservissement contenant un régulateur à actions proportionnelle et dérivée de la forme : R(p)=G+Ta P _ @ré(p) Ua(p) O(p) R(p) T(p)
+C3.1. Déterminer les valeurs des paramètres du régulateur G et Td qui permettent au système asservi d'éliminer la constante la plus grande de T(p) et d'assurer une marge de phase de 600 C.3.2. Déterminer Texpression de la fonction de transfert en boucle fermée @p) H() = et la mettre sous la forme canonique standard d'un système de Oref (p) second ordre. En déduire   ]expression et la valeur du gain statique K du coefficient d'amortissement m et de la pulsation propre @ C.3.3. Calculer le temps de pic (Tpic) et le dépassement (D%) . C.3.4. Calculer la valeur de lerreur statique de position &1 (%)
+C.3.5. Justifier le choix de ce type de régulateur .
+Concours Technologie Session Juin 2004
+Epreuve de STI
+Page 21/21

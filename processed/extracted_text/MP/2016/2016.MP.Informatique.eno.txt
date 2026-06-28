@@ -1,4 +1,87 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de  Enseignement Supérieur; de la Recherche Scientifique
+4usul Lusa44l aualzl Asuly alell sledl i,l)s bsis Tibsl 2|bLini Uniti DssJalyyi 2016629
+Concours Nationaux dEntrée
+aux Cycles de Formation dIngénieurs Session 2016
+Concours Mathématique et Physique; Physique et Chimie et Technologie Epreuve dInformatique
+Date Vendredi 27 Mai 2016 Heure 14 H
+Durée 2 H
+Nombre de pages 5
+Barème
+EXERCICE 1 (MAPLE) points EXERCICE 2 (MAPLE) 6 points PROBLEME (ALGORITHMIQUE) 10 points
+DOCUMENTS NON AUTORISES
+L'USAGE DES CALCULATRICES EST INTERDIT
+EXERCICE 1 (MAPLE) Le schéma suivant représente un métronome
+m
+où m
+masse du point matériel de rayon négligeable longueur de la tige de masse négligeable constante de raideur du ressort spirale angle entre la tige et la verticale
+k 0
+L'énergie   cinétique ECS et lénergie   potentielle EPS de la sphère sont données respectivement par les expressions suivantes ECS (t) = 1 ml? ôe 2 Ôt EPS (t) = mglcos(0(t)) où t représente le temps et g la constante universelle de gravitation. Concours (Mathématique et Physique, Physique et Chimie et Technologie)  Session Mai 2016 Epreuve dInformatique Page 1/5
 
+--- page 2 ---
+Lénergie potentielle EPR du ressort est donnée par EPR(t) = 1k0? Lénergie du métronome EM est donnée par EM ECS + EPS + EPR Le comportement du métronome est défini par léquation différentielle ci-dessous ô (EM) fe(o) =a =0 (2) avec les conditions initiales (3) ôt (0' (0)=b
+Les équations (2) et (3) constituent le modèle du mouvement du métronome.
+Donner les instructions MAPLE permettant de
+1. définir les fonctions ECS, EPS, EPR et EM dépendantes de t 2. définir Eq, la fonction dérivée de EM 3 . définir Eqd, l'équation différentielle donnée par (2) affecter dans cil et ci2, respectivement les conditions initiales données par (3) ; 5 résoudre formellement l'équation Eqd avec les conditions cil et ci2 6 récupérer dans THETA la résolution numérique de équation Eqd avec les conditions cil et ci2 pour les valcurs a = et b=0 en prenant   g =9.81 , m =0.2, k=0.3 et
+1=0.15; 7 représenter graphiquement THETA pour t e[0,5] 8. définir EP, Pénergie potentielle totale donnée par EP = EPS + EPR 9 représenter sur  le même graphe Pénergie EP, sa dérivéc  première et sa  dérivée seconde; pour t e[0,5] avec m = 0.015 , k = 0.002 et /=0.15
+EXERCICE 2 (MAPLE) Dans cet exercice; on se propose d'étudier en Maple quelques propriétés   associées à des matrices carrées particulières, Une matrice carrée M dordre est celle dun   projecteur si on M2 = M. Ecrire une procédure Maple; nommée EstProjecteur, qui prend comme paramètre une matrice carrée M et retourne true si M est la matrice dun projecteur et false sinon La procédure a pour entête EstProjecteur :=proc(M matrix)
+2 On dit qu'une matrice carrée M dordre est nilpotente s'il existe un entier naturel k, appelé indice de nilpotence; tel que M* est égale à la matrice nulle dordre n avec k <n. Lindice de nilpotence est le plus petit k <n: Ecrire une procédure Maple, nommée IndNilpotence; qui prend comme paramètre une matrice carrée M, supposée non nulle; et retourne lindice de nilpotence s'il existe et 0 sinon La procédure a pour entête : IndNilpotence : =proc(M matrix)
+Concours (Mathématique et Physique, Physique ct Chimie et Technologie)- Session Mai 2016
+Epreuve d'Informatique Page 2/5
 
+--- page 3 ---
+3 On dit qu'une matrice carrée M dordre est circulante si   chaque ligne dindice i (avec 2<i<n) est   la permutation   circulaire vers   la droite de la ligne dindice i -1 .
+b
+1
+b est circulante
+Exemple M = b
+b
+Ecrire une procédure Maple, nommée EstCirculante; qui prend comme paramètre une matrice carréc M et retourne true si M est circulante et   false sinon_ La procédure a pour entête EstCirculante: =proc(M matrix) Sachant que le produit de deux matrices circulantes est une matrice circulante. Ecrire une procédure Maple; nommée ProduitCirculant; qui prend comme paramètre deux matrices carrées A et B de même ordre, supposées circulantes, et retourne leur produit matricicl € en exploitant la propriété des_matrices_circulantes: La procédure a pour entête ProduitCirculant:=proc(A matrix B matrix)
+PROBLEME (ALGORITHMIQUE) La notion de permutation formalise la notion intuitive de réarrangement dobjets. Soient n un entier naturel non nul et En la suite d'enticrs distincts X, Xv' Xn où chaque X; appartient à lintervalle [1,n] On définit   une permutation comme un  réarrangement   des   éléments  de En dans En en appliquant, à chacun des éléments de En une fonction f bijective. Une permutation est donc une fonction bijective de lintervalle [1,n] dans lintervalle [1,n] Chaque permutation sera représentée par un tableau dentiers T à une dimension dont la case dindice 0 stocke n et les différentes cases T[:] (c'est-à-dire les f(i) ) stockent les X;, avec 1<X; <n et I<i<n: Exemple Test une permutation pour n = 8
+T 8 f @ En
+3
+5
+1 | 8 4
+3
+NMAX
+Travail demandé Dans ce qui suit, on suppose avoir déjà effectué les déclarations suivantes
+CONSTANTE NMAX 1000 TYPE PERMUTATION
+tableau [0 NMAX] de entier
+On désigne par € les paramètres passés par valeur et par $ les paramètres passés par variable dans les entêtes des procédures et des fonctions.
+Concours (Mathématique et Physique; Physique et Chimie et Technologie) - Session Mai 2016
+Epreuve d'Informatique Page 3/5
 
+--- page 4 ---
+Question 1 Ecrire une fonction algorithmique; nommée estPermutation;, qui prend en entrée un tableau T et qui retourne vrai si T représente une permutation et faux sinon. La fonction a pour entête Fonction estPermutationŒ T PERMUTATION) booleen Question 2 Ecrire une fonction algorithmique; nommée estIdentite; qui prend en entrée une permutation Tet qui retourne vrai si T est une permutation identité et faux sinon. Exemple T est une permutation identité pour n=8
+T
+3
+4
+5
+4
+NMAX
+La fonction a pour entête Fonction estIdentite€ T PERMUTATION) booleen
+Question 3 Une   transposition est une permutation qui, partir dune  permutation   identité,   échange uniquement deux éléments et laisse les autres inchangés. Ecrire une   fonction   algorithmique; nommée   estTransposition; qui prend en entrée une permutation représentée par un tableau T et retourne vrai si T est une transposition et faux sinon. Exemple Test une transposition associée à une permutation pour n=8
+T
+8
+4
+5
+NMAX
+La fonction a pour entête Fonction estTranspositionŒ T PERMUTATION) booleen Question 4 Ecrire une procédure algorithmique; nommée saisiePermutation; qui saisit la taille n de la permutation; avec 1 <n < NMAX , puis saisit dans un tableau T une permutation quelconque de taille n (qui n'est pas forcément une identité). La procédure a pour entête Procedure saisiePermutation(S entier, S T PERMUTATION) Question 5 On rappelle que la composée g de deux fonctions est donnée par f (g(x)) Ecrire une procédure algorithmique, nommée composer, qui prend en entrée deux permutations TI et T2,  supposées de même taille; et  renvoie dans un tableau T3   la permutation composée de TI par T2. La procédure a pour entête Procedure composer€ Tl, T2 PERMUTATION, $ T3 PERMUTATION) Question 6 On rappelle que la fonction réciproque f-' dune bijection est définie comme associant x f (x) Ecrire une procédure algorithmique; nommée reciproque; qui prend en entrée une permutation T et renvoie dans un tableau T1 sa permutation réciproque.
+Concours (Mathématique et Physique; Physique et Chimie et Technologie)- Session Mai 2016
+Epreuve d'Informatique Page 4/5
 
+--- page 5 ---
+Exemple TI est la permutation réciproque de la permutation T pour n =8
+T
+8
+5
+1
+8
+2
+NMAX
+Tl
+5
+NMAX
+La procédure a pour entête Procedure reciproque(E T : PERMUTATION, S TI PERMUTATION) Question 7 On définit lordre dune permutation T comme étant le plus petit entier naturel k non nul telle que la composée de T avec lui-même k fois est la permutation identité_ En utilisant  impérativement la fonction estIdentite et la procédure  composer; écrire une fonction algorithmique; nommée ordre, qui prend en entrée une permutation T et retourne son ordre k. La fonction a pour entête Fonction ordre(E T : PERMUTATION) entier Question 8 La période dun indice i pour une permutation T est définie comme le plus petit entier naturel k non nul telle que la composée; k fois; de T[i] donne i. Ecrire une fonction algorithmique; nommée periode, qui prend en entrée une permutation T et un indice i et retourne la période de pour T. La fonction a pour entête Fonction periodeE T PERMUTATION Ei: entier) entier Question 9 Lorbite dun indice pour une permutation T est /ensemble des indices j tel qu'il existe k (k ne dépasse jamais la période de i), avec la composée; k fois, de T[i] donne j Ecrire   une fonction   algorithmique, nommée estDansOrbite; qui prend en entrée une permutation T ainsi que deux indices i et j et retourne vrai si lindice j est dans lorbite de Tindice i et faux sinon. La fonction a pour entête Fonction estDansOrbite € T PERMUTATION, Ei,j entier) booleen Question 10 Un cycle est une permutation dont exactement une des   orbites est de taille   strictement supérieure à un Ecrire une fonction algorithmique, nommée estCycle; qui prend en entrée une permutation T et retourne vrai si T est un cycle et faux sinon. La fonction a pour entête Fonction estCycleE T PERMUTATION) booleen
+Concours (Mathématique et Physique, Physique et Chimie et Technologie)  Session Mai 2016
+Epreuve d Informatique Page 5/5

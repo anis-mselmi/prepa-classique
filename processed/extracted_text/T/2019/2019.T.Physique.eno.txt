@@ -1,7 +1,95 @@
+--- page 1 ---
+43y)s8à1 Uuczlglis gLb dssw +hyl Olyaliji {aiisulji 201968
+REPUBLIQUE TUNISIENNE Ministère de l'Enseignement Supérieur et de la Recherche Scientifique
+Concours Nationaux dEntrée aux Cycles de Formation d'Ingénieurs Session 2019
+Concours Physique Technologie Epreuve de Physique
+Date Jeudi 13 Juin 2019
+Heure 8 H
+Durée 4 H
+Nombre de pages 8
+Barème Problème 1: 12,5 pts Problème 2: 7,5 pts L'usage d'une calculatrice non programmable est autorisé L'épreuve comporte deux problèmes indépendants; le candidat peut les résoudre dans l'ordre qui lui convient, er respectant néanmoins la numérotation des questions. Un candidat peut toujours se servir d'un résultat fourni par l'énoncé pour continuer sa composition.
+Données
+grad f = @f4,+4âf4, +@fu, Af = 10 dr ô0 ôz r dr dr 1,6x10-19C C = 3x108 ms-1 h = h '=1,05x10-34Js 9x10? SI 2T ATeo
+1 d2 f 9- en coordonnées cylindriques d0? dz leV= 1,6 x10-19 MeV = 106eV
+i2 =-1
+Problème 1 Le modèle de l'oscillateur harmonique est Vun des modèles les plus rencontrés dans nombreux domaines de la physique. On "'adopte pour   modéliser et   analyser   plusieurs   systèmes   vibratoires   allant   des systèmes industriels jusqu'aux systèmes moléculaires. Nous l'adoptons ici pour l'étude de la membrane dun haut parleur électrodynamique.
+I Le système masse ressort
+On se place dans le référentiel   du laboratoire (0,4,,4,,4 ) supposé galiléen dans lequel on considère une masse M accrochée à un ressort de raideur k , de longueur à vide € et pouvant se déplacer sur un plan horizontal le Jong de /axe Ox (figure 1). Le déplacement de M , supposée ponctuelle; est limité aux petites oscillations autour de la position déquilibre. La masse du ressort est supposée négligeable  comparée M dont le poids A léquilibre est compensé par la réaction du plan. Hors ;x(t) équilibre, on repère la position de M par Pabscisse x(t) comptée partir de sa Hors équilibre position déquilibre. La masse M est aussi soumise à Figure 1 Une force de frottement F d(û, =-0 où Q est une constante positive. dt Une force excitatrice F,= Fo cos(ot)u, avec Fo et @ sont deux constantes positives. Concours Physique Technologie Session 2019 Epreuve de Physique Page 1/8
 
+--- page 2 ---
+1. Etablir ['équation de mouvement de la masse M et la mettre sous la forme canonique dx(2 0o d62+ @gx(t) = 0, e(t) . Donner les expressions de @ Q et e(t) dt? Q dt 2. On se place dans un premier cas où F,=0 et F,=0. Exprimer la solution de cette équation sachant qu'on x(t =0)= X et dx(t) =0. Exprimer les énergies cinétique dt E,(t) et potentielle   E,(t) de cet oscillateur: Vérifier que son énergie mécanique Em est conservée 3 Dans la suite on considère le cas où F#0 et F,#0 _ En régime établi, on exprimera la solution de léquation de mouvement sous la forme x(t)= Xo cos(@t + p) où est une phase à /origine. On cherche une solution r(t) en notation complexe, trouver lamplitude Xo et montrer qu'elle passe par un maximum pour 0 = à condition que 0>72 On suppose 0o 20? que cette condition est vérifiée dans la suite. La résonance observée peut être reliée à sa bande passante A@ = @2 -0 où ct 02 Xo correspondent aux égalités Xo(@) = Xo(02 FKUI dans lesquelles Xo max qE désigne
+1 'amplitude maximale obtenue pour Q>>1_ Montrer alors que A@ = 5. Montrer que la moyenne dans le temps de la variation de lénergie mécanique dE  du dt système masse ressort est nulle. Interpréter
+IL Application à Pétude €un haut-parleur électrodynamique L'étude sera conduite dans le référentiel du laboratoire supposé galiléen; et on se place dans le système de coordonnées cylindriques d'axe Ox et de base orthonormée (u,,",,4,_ Un haut-parleur électrodynamique est essentiellement constitué dune bobine indéformable qui entoure le pôle nord dun aimant annulaire fixe daxe Ox (figure 2) Le pôle sud de laimant entoure le bobinage de telle sorte que le champ magnétique de norme constante engendré par Faimant soit partout orthogonal aux fils constituant la bobine (B= Bu, ) La bobine; comportant   N spires circulaires de rayon alimentée par un courant d'intensité i(t) , est aussi solidaire dune membrane qui peut effectuer des oscillations de faibles amplitudes le long de laxe Ox Hors équilibre; la membrane est ramenée vers sa position déquilibre par une force de rappel élastique modélisée par un ressort de raideur k solidaire à Paimant (figure 2) Lensemble, membrane et bobine; constitue léquipage mobile de masse M repéré par son abscisse x(t) mesurée par rapport à sa position déquilibre. Il est soumis aux forces suivantes Son poids et la réaction du support opposée au poids . La force de rappel du ressort La résultante des forces de Laplace exercées par Faimant sur la bobine.
+Concours Physique Technologie
+Session 2019
+Epreuve de Physique
+Page 2/8
 
+--- page 3 ---
+Une force de frottement fluide F,=-a dxû, = et dont la puissance est égale à la puissance dt sonore émise par le haut parleur.
+membrane
+ressort
+aimant
+coupe A-A
+Figure 2
+6. Exprimer, dans la base cylindrique; la force de Laplace élémentaire s'exerçant sur un élément de courant filiforme i(t)de   de la bobine. En déduire la résultante des forces de Laplace $'exerçant sur /ensemble de la bobine. On posera { =2INa 7. En appliquant le principe fondamental de la dynamique, établir /équation de mouvement de M liant   x(t) et ses dérivées à lintensité   i(t) Cette équation est alors appelée équation mécanique. 8. Justifier 1apparition dune fem induite E(t) aux   bornes de la bobine au cours de son mouvement:. On prendra dans la suite E(t)= Bcdr6)_ dt 9 La bobine dinductance propre L et de résistance électrique Rest connectée à une source idéale de tension u(t) Représenter le circuit électrique équivalent à cette bobine. Ecrire alors léquation électrique du circuit. 10.A partir des deux équations, mécanique et électrique; déduire une seule équation en terme de puissance et la mettre sous la forme
+dW u(t)i(t)= +P + Pm dt
+P = Ri(t)?  est la puissance électrique dissipée par effet Joule; et Pr =0 dx(t) est la
+puissance sonore émise par la membrane. Donner alors Pexpression de W en précisant sa signification physique_ 11. Pour une évolution sinusoïdale des grandeurs électriques et mécaniques à la pulsation 0 exprimer la valeur moyenne (u(t)i(t) ) . Commenter alors la répartition de la puissance moyenne fournie par le générateur. 12. Sachant que le rendement dun haut-parleur mesure son aptitude à transformer la puissance électrique reçue en puissance sonore; proposer une définition du rendement du haut - parleur en fonction de (P) et ( Pn) . Comment peut-on améliorer ce rendement ?
+III.  Analyse dun signal sonore Dans Fobjectif danalyser le spectre dun signal sonore périodique, on utilise un microphone  qui convertit ce signal en unc tension électrique  v (t), puis un filtre qui sélectionne les composantes sinusoïdales de cette tension. Concours Physique Technologie Session 2019 Epreuve de Physique Page 3/8
 
+--- page 4 ---
+Soit v;(t) la tension de sortie du filtre, sa fonction de transfert complexe à la pulsation s'écrit Y H H(io) Ve I+iQ Wo ( Ho, @ et Q sont des grandeurs positives caractéristiques du filtre.
+13. Etude du filtre 13.1 Exprimer le gain réel G(w) =|H(iw) et tracer son allure en fonction de @ _ 13.2 Déduire la pulsation et le gain réel de ce filtre à la résonance. 13.3 Tracer lallure du diagramme asymptotique de Bode (gain en décibel) . Préciser les asymptotes. Quelle est la nature de ce filtre ? 13.4 Déterminer la bande passante Ao correspondante à G(w) = Ho /v2 .
+14. Spectre dun signal carré On   désire   déterminer Ho et @ en   réalisant une expérience dans laquelle le filtre est soumis un signal d'entrée v (t) de forme carrée; d'amplitude Vo , de période T et de fréquence f = 7 (figure 3) La décomposition en série de Fourier de v (t) s'écrit Figure 3 Vo 2Vo ve (t) sin[(2p+1)27 fi] P=0 2p+1 14.1 Décrire le   spectre de ce signal. Exprimer les fréquences   des   quatre   premières composantes non nulles   de ce signal. Tracer   alors le   spectre de ve (t) pour   ces fréquences. 14.2 Les tensions v(t) et v,(t) sont indiquées sur Fécran dun oscilloscope (figure 4). On constate que lorsqu'on fait varier la fréquence f de v(t),l: 'amplitude de v (t)diminue. Les deux voies de loscilloscope sont en mode DC Base de temps 100 pS par carreau Sensibilités des   voies: Tension v (t) (en gras) 1V par carreau Tension v (t) 2V par carreau Figure 4 a - Déterminer graphiquement Vo et f . b-  Tracer le spectre de v(t) . Expliquer sa forme sinusoïdale. Déduire; à partir de la figure 4, la pulsation @ et la valeur de Ho
+15. Comportement intégrateur On se place dans le domaine des hautes   fréquences (0 >> @ )  Donner 1expression approchée de H(io) et justifier le comportement intégrateur du filtre. Quelle serait alors la forme du signal de sortie v (t)?
+Concours Physique Technologie
+Session 2019
+Epreuve de Physique
+Page 4/8
 
+--- page 5 ---
+Problème 2 La première partie de ce problème étudie la superposition des deux ondes pour aboutir à des ondes stationnaires qui peuvent s 'établir dans plusieurs systèmes optiques; entre autres, dans les cavités lasers. Les fonctions d'onde des particules dans Un puits quantique et la notion de paquets d'onde seront aussi abordées. Ce problème sera achevé par l'étude dune méthode de refroidissement d'un laser .
+I- Superposition d'ondes électromagnétiques On considère   dans un repère orthonormé   direct (o,u,,4,,u) une   onde   électromagnétique sinusoïdale de pulsation (notée S ) se propageant dans le vide dans le sens des croissants_ En notation complexe; son champ électrique s'écrit
+E = Eo cos(By)ei(ot-kz) u, +iahy_ Eo, œ , B et k sont des constantes réelles positives. 1. On pose_a = 0 et_B =0 1.1 Ecrire les équations de Maxwell dans le vide en absence de charges et de courants. En déduire [équation de propagation de E 1.2 En déduire une relation entre k , B @ et c la vitesse de la lumière dans le vide. 1.3 Montrer que cette onde résulte de la superposition des deux ondes planes 0; et Oz se propageant dans le plan yOz   symétriquement par rapport à laxe Oz préciser  leur vecteur donde k et kz et donner les expressions de leur champ électrique E et Ez - 1.4 Calculer leur champ magnétique B, et Bz
+2. On pose_B = 0 avec_a eR 2.1 Déterminer léquation de la trajectoire décrite par /extrémité de E dans un plan donde et étudier en fonction de & létat de polarisation de cette onde. dE 2.2 Calculer E et discuter en fonction de & le sens de rotation de E ôt 1=0 2.3 On superpose à londe 5 une onde S' de même pulsation, de même direction de propagation; de même polarisation que londe S , d'amplitude ~Eo mais se propageant en sens inverse. a- Donner lexpression du champ électrique E' de onde S' b - Déterminer [expression du champ Zrs de londe résultante. Quelle est sa nature ?
+3. Dans_ la suite du problème on prendra_a =B=0. 3.1 Donner la   nouvelle   expression du   champ électrique de londe   résultante due à la superposition des ondes $ et S' 3.2 Justifier que cette onde peut correspondre à la superposition des deux ondes S et 52 planes se propageant dans le vide en sens inverse suivant la direction Oz vonde  S2 correspond à celle réfléchie dans le vide sous incidence normale par un miroir M conducteur parfait placé en Z = 0 . Préciser alors les expressions des champs électriques de $1 et $2 Concours Physique Technologie Session 2019 Epreuve de Physique Page 5/8
 
+--- page 6 ---
+3.3 On place un deuxième miroir M conducteur parfait en face de M à Fabscisse z = -d (figure 5). 9 - Appliquer la condition aux limites en z =-d ct exprimer les fréquences des ondes qui s'établissent dans la cavité formée par M et M sous la forme
+Vm = m où m est un entier naturel. Ces ondes sont 2d appelées modes de résonance. b- Décrire le comportement de londe dans cette cavité. En déduire la différence de fréquences Av entre deux modes de résonnance successifs de cette cavité Calculer V1, Vz et Av pour d =30cm
+Figure 5
+II- Interaction matière rayonnement Dans   létude de   linteraction de la   lumière avec la   matière,   le modèle de  lélectron élastiquement lié soumis à une excitation électrique sinusoïdale de faible intensité permet de dégager l'essentiel des propriétés optiques des matériaux. Ce modèle cesse d'être valable lorsque   1excitation est produite par un   laser de forte puissance de  champ électrique comparable au champ de cohésion intra-atomique. Dans cette partie le laser sera décrit par le modèle donde plane dans le vide_ 4.1 Calculer le module du champ électrique associé à la force de Coulomb entre un électron et un proton dun noyau atomique distants de % = 0,529A 4.2 Calculer   pour un   laser He-Ne de   puissance P =lOmW et  de diamètre D=lmm Famplitude du champ électrique Eo de londe associée à ce laser. 4.3 Soit un laser impulsionnel de durée d'impulsion r =I0ns et dénergie par impulsion W =IOOmJ focalisé sur une surface de diamètre D=lum Calculer la puissance de ce laser et déduire Famplitude Eo associée. 4.4 L'effet non linéaire dans un milieu apparait lorsque le champ d'excitation devient du même ordre de grandeur que le champ intra-atomique. Quel est parmi ces deux lasers celui qui permet d'aboutir à un effet non linéaire ? Justifier.
+Particule Quantique 5. L 'amplification de la lumière laser est basée sur lémission   stimulée et  le phénomène dinversion de population; lesquels sont basés sur la   quantification des niveaux d'énergie des atomes et des molécules; et aussi sur la quantification du rayonnement. 5.1. Expliquer la dualité onde corpuscule de la lumière. Citer deux expériences permettant de mettre en évidence ces deux aspects 5.2. Le mouvement dune particule quantique libre non relativiste de masse m est décrit par une fonction donde   complexe '(x,t) qui vérifie l'équation de Schrëdinger:
+h2 ay(x,t) ôY(x,t) =ih 2m dx? dt
+Concours Physique Technologie
+Session 2019
+Epreuve de Physique
+Page 6/8
 
+--- page 7 ---
+a -
+Que représente la grandeur |Y(x,t)f ? Quelle est la dimension de |Y(x,t| ? b- Donncr la relation de De Broglie reliant la quantité de mouvement et la longueur donde 1 associée une particule   libre  de masse m et déduire la relation entre Fénergie E et le nombre donde associés à cette particule. Donner  la relation de dispersion de la particule libre. Commenter 5.3. Les lasers à puits quantiques sont des lasers à semi-conducteur se basant sur le confinement (piégeage) des électrons dans des puits quantiques représentés par une zone de lespace dans laquelle le potentiel ressenti par une particule atteint un minimum. On considère ici une particule piégée dans un puits de potentiel de largeur (figure 6) défini par
+f0 0 <x <L V(x) = (+0 x <0 et x > L La fonction donde associée cette particule dénergie E ~i5' peut s'écrire sous la forme: Y(x,t)=p(x) e a - Pourquoi un tel état est appelé état stationnaire ? Figure 6 b - Donner les conditions aux limites vérifiées par la fonction @(x) en x=0 et x=L Montrer que pour x<O<L, la solution de l'équation de Schrëdinger s'écrit  sous la forme [2 sin V2mE P(x) =  d- Donner alors lexpression de lénergie  En en faisant apparaitre un nombre entier n. Quelle est Porigine de cette quantification ? 6. En réalité létat quantique de la particule libre est décrit par la superposition d'un grand nombre de fonctions donde appelée paquet dondes > Pour des nombres donde compris entre k, et kz la fonction donde associée à ce paquet peut être définie par
+~{@(k)t-kx] goe dk
+pour ki < k < kz
+Y(x,t) = V2z
+avec
+go
+Ak
+ailleurs
+6.1 On pose k; = ko
+et kz = ko + 4 déterminer Y(x,0) 6.2 En   déduire   la densité de probabilité   p(x)=|P(x,of . Déterminer   les   valeurs   qui P(x ) annulent   p(x) et tracer ensuite la courbe où Po =p(x =0) Po 6.3 Montrer que Y(x,0) représente bien létat dune particule libre à Finstant t =0. On sin u donne du =
+6.4 Trouver les positions x; et x_ des premières valeurs de qui annulent p(x) de part et dautre de Forigine des abscisses. Exprimer Ax=x -x_ Calculer le produit Ar. Ak . En déduire Fexpression de Ax. Ap Quel nom donne-t-on à cette relation ? Commenter
+Concours Physique Technologie
+Session 2019
+Epreuve de Physique
+Page 7/8
 
+--- page 8 ---
+IV Transfert thermique On considère un corps homogène; de masse volumique P , de capacité thermique massique C et de conductivité thermique 1 En présence dune source interne de chaleur en W m-3 la température T au sein de ce corps est régie par léquation de la chaleur JAT +9 = pc @T dt 7. Rappeler la loi de Fourier et donner lunité de 1 Dans la suite, on se placera en régime stationnaire. Récrire alors léquation précédente en absence de source interne. 8. Dans cette question on étudie le transfert thermique par conduction le long dun cylindre daxe Oz de rayon a , de longueur et de conductivité thermique dont les extrémités sont maintenues aux températures T(z=0)=T, et T(z=L)=Tz avec Iz < T1 Déterminer le flux thermique @th à travers une section s du cylindre et en déduire sa résistance thermique notée Rt 9. On tient compte aussi du phénomène de convection à travers les deux surfaces de base de ce cylindre. Soit hle coefficient de transfert convectif, exprimer le flux convectif transféré entre un corps solide de   température   Tp et un fluide de   température Tf travers une   surface déchange Se En déduire la résistance thermique   Rcv correspondante. 10. Exprimer alors la résistance thermique totale du cylindre en négligeant  la convection à travers  sa surface latérale; et en supposant que les deux surfaces de base ont le même coefficient h 11. Au cours de leur fonctionnement, les lasers de puissance génèrent une quantité de chaleur importante assimilée à une source interne de chaleur supposée constante_ Cette chaleur doit être évacuée pour éviter la surchauffe et la détérioration de certains composants de ce laser . Le milieu amplificateur du laser considéré est un cristal sous forme dun barreau cylindrique de longueur L de rayon Yo et de conductivité thermique refroidi par un système à effet Peltier qui permet de fixer une température en surface T(r =r) =To . Dans la suite, le transfert thermique est supposé radial, et on se place en régime stationnaire. 11.1 Ecrire la nouvelle équation de la chaleur.
+11.2 Montrer que sa solution peut s'écrire sous la forme T(r) = To + GT ST est une constante à exprimer en fonction de r , 9 et 2  11.3 Tracer le profil de température T(r) de part et dautre de Faxe Oz du barreau. 11.4 Exprimer T(r =0)-To 115 La présence dions dopants à Fintérieur du cristal laser peut modifier sa conductivité thermique. Comment choisir 2 pour un meilleur refroidissement du laser 11.6 Exprimer le flux thermique à travers la surface latérale du cylindre. Calculer sa valeur. On donne ro=3,5 mm, L=l1,5 cm et 9-0,12 WIcm? din de lépreuve
+Concours Physique Technologie
+Session 2019
+Epreuve de Physique
+Page 8/8

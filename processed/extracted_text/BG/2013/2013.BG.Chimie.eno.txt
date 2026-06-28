@@ -1,11 +1,134 @@
+--- page 1 ---
+INSTRUCTIONS
+astitur Caeparntoire , CBUOTHEQUE 5x [2 Durerru6
+Cette épreuve comporte deux parties indépendantes. La première partie (chimie inorganique) comporte 12 pages (pl-pl2) . La deuxième partie (chimie organique) comporte 10 pages (pl3-p22) . Tout résultat doit être écrit dans les cadres adéquats. Seul Vusage des calculatrices électroniques de poche non programmables est autorisé. Les résultats numériques sans unité ou avec une unité fausse ne seront pas comptabilisés: Aucun échange entre les candidats n'est autorisé En cas de besoin utiliser  les pages vides en fin du cahier. Dans ce caS, il faut  le signaler dans la case allouée à la réponse remise en fin de cahier.
 
+--- page 2 ---
+PARTIE I : CHIMIE INORGANIQUE
+BAREME
+Problème [ Problème II Problème III
+3.,375 pts 3500 pts 3,125 pts
+DONNEES RELATIVES A L'ENSEMBLE DU SUJET (CHIMIE INORGANIQUE) Constante d'Avogadro NA 2 6,023x 1023 mol! Masses molaires (en g.5 mol-1 de /or Au = 197 et du chrome Cr = 52. Electronégativités selon Pauling de For Au = 2,54 et de loxygène 0 = 3,44. Masse volumique de For solide p=19,3 g.cm Paramètre de la maille cubique de For :a = 4,08 %. A 298 K :
+Potentiels standard d'oxydoréduction
+Couple E' (V) Au /Ausd) 1,692 Au IAu 1,401 AuzOa(sd/Au 1,422 AuO2sdyAuzOa(sd) 2,465 AuzO3(sdyAUsd) 1,511 RxT -x Ln(x) = 0,06 x logio (x) (Volt) F
+En cristallographie les nombres négatifs sont notés avec une barre dessus. Exemple : -5 = 5
+2
+Concours Physique et Chimie Session Juin 2013
+8 9 Sa
 
+--- page 3 ---
+Destut 9 CPLOIHEqur 1 @ 4v 2us Sa
+PROBLEME I : CRISTALLOGRAPHIE
+CRISTAUX METALLIQUES 1) Ecrire la relation de Bragg et préciser la signification de chaque terme
+2) Donner la relation qui permet le calcul de la distance entre deux plans réticulaires consécutifs en fonction du paramètre < a > d'une maille cubique:
+La diffraction dun   rayonnement   X de 3) Lor cristallise dans une structure cubique. 1,54 1 sur Télément taisceau réflechi longueur   donde 1 = faisceau incident < Au > donne une réflexion du premier ordre pour la famille de plans (111) avec un angle entre le faisceau incident et le faisceau réfléchi égal à 0 = 38,140 . Donner ]expression puis dhkl calculer le paramètre < a > de maille.
+4) Quel est le mode de réseau de Lor ?
+5) En déduire le rayon métallique de lor.
+3
+Concours Physique et Chimie Session Juin 2013
 
+--- page 4 ---
+6) Préciser_les_coordonnées réduites_des_plus_grands sites dans la maille de Lor.
+LES ALLIAGES 7) On remplace tous les atomes d'or < Au > qui n'occupent pas les sommets du cube par des atomes dun élément < X > 7.1) Comment appelle-t-on ce genre d'alliage ?
+7.2) Représenter la maille de Falliage et son contenu:
+7.3) Déterminer la formule chimique de cet alliage:
+7.4) Quel est le rayon maximum de < Xv pour lequel les atomes dor deviennent tangents ?
+4
+Concours Physique et Chimie Session Juin 2013
+eparatous , SuunE  e E2
 
+--- page 5 ---
+PLANS RETICULAIRES ET RANGEES Dans la figure ci-dessous on a représenté une maille cubique. Nommer le plan réticulaire A (hkl) et la rangée B [uvw] AisniUT A Z=1/2 N 8 1 B < 8s {xy
+a
+PROBLEME II : DIAGRAMME BINAIRE OR-CHROME On considère le diagramme isobare solide-liquide du binaire Au-Cr : p = 1 bar T(K) 12180
+2000
+C
+B
+(3)
+0.51
+1490 K
+0,97
+1500
+(2)
+1o00
+Cz
+500
+0,2
+0,4 0,6 fraction molaire 5
+0,8
+Cr
+Au
+Concours Physique et Chimie Session Juin 2013
 
+--- page 6 ---
+1) Indiquer les phases existantes dans les domaines (1), (2), (3) et (4) Domaine (1) : MsTr Domaine (2) Taepnarolg Bswoxeque Domaine (3) 685 0e8 Ve Domaine (4) 2) Que représentent les points A et B sur le diagramme ? Le point A :
+Le point B : 3) Nommer les courbes C1 et C2 sur le diagramme.
+Courbe C1 :
+Courbe Cz 4) Calculer   la masse de chrome qu'il faut ajouter à Ig dor pour obtenir un mélange de fraction molaire XCr  0,4.
+Concours Physique et Chimie Session Juin 2013
 
+--- page 7 ---
+5) Tracer Fallure de la courbe danalyse thermique de refroidissement de 2000 K jusqu'à 1000 K pour un mélange 40% molaire en Cr.
+masntur (Paeparatoire  2 GQUOTHEQUE '025 01ene5 Sx
+6) Nommer et écrire [équation de la transformation qui a lieu à 1490 K.
+7) Une mole du mélange solide de composition 60% molaire en Cr initialement à 500 K, est chauffée; à pression constante; jusqu'à 1490 K. Il apparait alors 0,05 mol de liquide. 7.a) Donner Fexpression de la fraction molaire globale en Cr du mélange initial.
+7.b) Donner les compositions des phases en équilibre à 1490 K
+7
+Concours Physique et Chimie Session Juin 2013
 
+--- page 8 ---
+7.c) Donner la nouvelle expression de la fraction molaire globale en Cr du mélange à 1490 K M: J? repanar< LQE SSurs 7.d) Déterminer les quantités (en mole) des phases présentes à 1490 K.
+8
+Concours Physique et Chimie Session Juin 2013
 
+--- page 9 ---
+PROBLEME III : DIAGRAMME E-PH DE LOR
+CONSTRUCTION DU DIAGRAMME On se propose de compléter la construction du diagramme potentiel-pH de For < Au > représenté sur la figure ci-dessous. On se limite aux espèces suivantes Au(sd) Au Au3+ AuzO3(sd) et AuOz(sd)
+3,500
+Ctra =10-7 mol.L;1
+3, ,0993]
+Auo
+2,500
+2,000 5 1,500
+Au3+
+1
+Auz03
+1,000
+0,500
+0,000 ; 8 8 2 8 8 8 ; 8 ; ; ; ; ; 8 pH
+Les conventions adoptées pour tracer ce diagramme sont La concentration totale en élément Au dissous est égale à la concentration du tracé Ctra =10-7 molL-' A la frontière séparant les domaines des deux espèces dissoutes; les concentrations atomiques en élément Au sont égales.
+Concours Physique et Chimie Session Juin 2013
+stiru7 Paeparatoire , 5 BBUOTHEQUE
 
+--- page 10 ---
+1) Déterminer les degrés d'oxydation de For dans les espèces suivantes Au(sd) AuzO3(sd) et AuOz(sd); SMu7 rusiMode MuoTheQue 
+2) En utilisant des valeurs numériques lues sur le diagramme et éventuellement certaines des données fournies 2.a) Etablir lexpression de la constante déquilibre K298K de la réaction ci-dessous en fonction de pH et Ctra: 2Au 3+ +3H,0 = Auz  03(sd ) + 6H+
+2.b) Calculer sa valeur .
+3+ 2c) Déterminer la valeur du potentiel standard délectrode E8 du couple AuOz(sa) / Au
+3) Etablir les équations E  f(pH) des courbes frontières qui manquent et compléter (tracer les courbes et indexer) le diagramme ci-dessus.
+10
+Concours Physique et Chimie Session Juin 2013
 
+--- page 11 ---
+#STTIUt FRé; ~tOnre , Biruotaeque 4 Eloes SA Diverins
+ETUDE DE LA DISMUTATION : 4) Montrer que ]espèce Au se dismute dans_un domaine_de pH qu' on déterminera.
+5) Ecrire léquation-bilan de la réaction de_dismutation de_Au
+Etablir Fexpression de E du nouveau couple en fonction du pH.
+11
+Concours Physique et Chimie Session Juin 2013
 
+--- page 12 ---
+7) Tracer les droites correspondantes sur le diagramme de la figure ci-dessous et préciser les domaines de prédominance ou dexistence de chaque espèce. Stiuy PrePnnaoe; @lJte QE  Fseee 15 E 3,500 Ctra =10-7 molL;'
+3, ,098 93
+Auo
+2,500
+2,000 5 1,500
+Au3+
+1
+AuzO3
+1,000
+0,500
+0,000 ; 8 8 8 8 8 8 8 [ 8 ; ; 8 8 8 8 pH
+Diagramme tenant compte de la dismutation FIN DE LÉNONCÉ DE CHIMIE INORGANIQUE
+12
+Concours Physique et Chimie Session Juin 2013

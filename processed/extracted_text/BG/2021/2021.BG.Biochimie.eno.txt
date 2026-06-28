@@ -1,2 +1,59 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de ]'Enseignement Supérieur et de la Recherche Scientifique
+2299)=528631
+{@f=lgoËs {b Jian uihsl @iBliji inni @usualyci 2021 *
+Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs Session 2021
+Concours Biologie & Géologie
+Epreuve de Biochimie, Biologie Cellulaire, Génétique
+Date Samedi 19 Juin 2021
+Heure 8 H
+Durée : 2 H
+Nb pages 3
+Barème (20+20) / 2 'utilisation de la calculatrice est autorisée)
+Epreuve de Biochimie
+Exercice 1(1 points)
+Un chercheur veut déterminer la structure dun lipide simple, selon les données suivantes Un gramme dun monoacide gras A à chaîne linéaire est saponifié par 220,4 mg dhydroxyde de potassium KOH. L'indice diode de ce monoacide gras A est égal à 100.
+1 2. 3.
+Définir l'indice de saponification. Définir l'indice d'iode. Etablir la relation théorique entre lindice de saponification et la masse molaire d'un monoacide gras. Déterminer la masse moléculaire de ce monoacide gras A. Justifier la réponse. Déterminer le nombre de double(s) liaison(s) de ce monoacide gras A. Justifier la réponse.
+4 5.
+Par oxydation avec du permanganate de potassium (KMnO4), il est obtenu à partir de ce monoacide gras A, un monoacide à 7 atomes de carbone et un diacide à 9 atomes de carbone_ 1  Quelle est la formule développée de ce monoacide gras A? 2. Quels sont les noms systématique et usuel de A?
+On_donne les masses molaires en g. mol-1 (potassium) 39 0 (oxygène) = 16_ H (hydrogène) = 1 ; / (iode) = 127
+Exercice 2 (10 points)
+Un industriel en nutrition animale développe des formules de concentrés à base de féverole. Il a à sa disposition deux enzymes EA et EB,   capables de dégrader des   composés antinutritionnels: Les paramètres cinétiques de ces deux enzymes EA et EB sont caractérisés dans des conditions croissantes de substrat (mM) et à concentrations saturantes denzymes. Les vitesses initiales sont exprimées en micromoles.min-'
+1
+Donner la signification biochimique de a La constante de Michaelis dune enzyme, b. La vitesse maximale dune enzyme_
 
+--- page 2 ---
+2 Sur la base des résultats d'une première série d'expériences et   daprès la représentation de Lineweaver   et Burk (IN; f(I/[S]) , on obtient   les  équations suivantes
+Equation de la droite IN; = f(1/[S])
+Enzyme EA
+Enzyme Ee
+Y=aX + b
+Y= 0.32 X + 0.008
+Y= 0.05 X + 0.0025
+a. Déterminer les valeurs du Km et de la Vmax des deux enzymes EA et EB.
+3 Dans une seconde expérience; un inhibiteur I1 est ajouté à une concentration de 0.1 mM en présence de lenzyme EA. Dans une troisième expérience, un inhibiteur I2 est ajouté à une concentration de 0.3 mM en présence de lenzyme EB.
+Les représentations de Lineweaver et Burk INi f(1/[S])  ont permis dobtenir les équations suivantes
+Equation de la droite IN = f(I[S]) Enzyme EA Enzyme EB Sans inhibiteur Y= 0.32 X + 0.008 Y= 0.05 X + 0.0025 En présence dinhibiteur h 1  Y= 0.008 X + 0.008 1 ; 2 . . En présence dinhibiteur I2  . .  . Y= 0.05 X + 0.005
+a. Déterminer le type dinhibition de chaque inhibiteur. Justifier la réponse   , . .   ' .
+Epreuve de Génétique
+Exercice 1 (15 points)
+Chez un champignon ascomycète à tétrades ordonnées; deux souches auxotrophes S1 [His-] et S2 [Gly-] ont été isolées. Le croisement de chacune des souches mutantes avec la souche sauvage a fourni les résultats suivants   ., S1 x S2 * His - His His  100% Asques 1 His - His  His  pré-réduits 2 + His His His  + His His His  302 298 130 100 90 80
+1
+Interpréter les résultats de ces croisements.
+Le croisement des deux souches mutantes S1 et S2 entre-elles a fourni, sur 1000 spores analysées, 900 spores incapables de gemmer sur Milieu Minimum (Mm)
+2. Interpréter le résultat de ce croisement et établir la carte génétique.
+2
 
+--- page 3 ---
+Par ailleurs une souche S3 double auxotrophe [Gly- Ade-] a été isolée. Le croisement S3 x S1 a fourni les résultats suivants
+66 spores [His+ Gly  ade+]; 86 spores [His - Gly _ ade+] 86 spores [His+ Gly+ ade-]; 14 spores [His - Gly- ade-]; 334 spores [His+ Gly- ade-] 334 spores [His - Gly+ ade+]; 14 spores [His+ Gly+ ade+]; 66 spores [His-- Gly+ ade-].
+3 Interpréter les résultats de ce croisement en précisant les génotypes des deux souches croisées,  si les gènes sont liés ou indépendants; lordre des gènes ainsi que les distances qui les séparent.
+4. Calculez l'interférence I.
+Exercice 2 (5 points)
+Soient 3 souches Hfr dE coli   qui, par   conjugaison transfèrent   leur   matériel  génétique suivant une séquence différente. On connait le temps de pénétration de gènes marqueurs dans la souche F_ réceptrice.
+Les résultats obtenus sont les suivants
+Hfr 1 Marqueurs His Tyr Met Temps en mn 14 16 30 Hfr 2 Marqueurs Arg Met His Trp Temps en mn 12 18 34 58 Hfr 3 Marqueurs Trp Tyr Arg Cys Temps en mn 3 29 49 63
+Déterminer sur le chromosome bactérien Yordre des gènes et leurs distances en minutes et schématiser pour chaque souche Hfr l'origine et le sens du transfert.
+
+3

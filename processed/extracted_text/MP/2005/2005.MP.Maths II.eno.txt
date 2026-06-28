@@ -1,3 +1,31 @@
+--- page 1 ---
+KEPUBLIQUE TUNDNNE
+ae=)
+Minlsterc de 1'Enscignement Supérieur
+(/aLyl8ss duoln ymub @jri iuh ulfulyc 2005 iss
+Concours nationaux dentne aux cycles de formation d'ingenicurs Session 2005
+Concours en Mathématiques Epreuve de mathématiques [Phxsique
+Durée: 3 heures Date 15 Juin 2005 Heure 8 H Nb pages 5 Barème:  Exercice 4 pts). Probleme; Partie I ( 6 pts) , Partie II 5 pts) Partie III 5 pts) 
+Une grande importance sera attachée à la rigueur du raisonnement, à;la clarté et au soin de la présentation.  L'usage des calculatrices n'est pas autorisé. Il est rBppelé que tout résultat énonce dans le texte peut être utilisé pour traiter la suite; meme 8'il n'a pu etre démontré. Exercice
+Soit E un espace euclidien; muni du produit scalaire < , > et || la norme associée. Pour tout sous-espace vectoriel F de E, o désigne par FL lorthogonal de F et pF le projecteur orthogonal sur F. On désigne par L(E) lespace des endomorphismes de E et O(E) le groupe des endomorpbismes orthogonaux de E. Pour tout endomorphisme u de C(B), on note Im u limage de u, ker u le noyau de u, et u' l'edjoint de u. 1) Soit p € C(E). Montrer que p est un projecteur orthogonal de E gi et seulement si p = p et p = p 2) Soit F un sous-espace vectorie} de E, pr le projecteur orthogonal sur F et g un élément de O(E) 2a) Montrer que 9~1 0 PF 09 = P9-'(F)- 2b) On pose f = pF 0 9. Donner lexpression simplifiée de f 0 f" 0 f.' 2c) Donner une condition nécessaire €t suffisante pOUr que pr 0 g = 9 0 pF- 3) Soit f appartenant à C(E) tel que f 0 f* 0 f = f . 3a) Montrer que f* 0 f est le projecteur orthogonal sur (ker f) 1 . 3b) Montrer que pour tout z € (ker f)1 , Ilf(z)ll = Ilzll . 3c) Montrer qu'il existe une application linéeire 91 qui envoie ker f sur (Im f)1 et telle que |lg(æ)Il = Ilzll, pour tout æ € ker f - 3d) En déduire qu'il existe un gous-cspace vectoriel F et un endomorphisme ortbogonal g de B tels que f = PF 0 9.
+Jastitu7 Fr2vsioke X8;1 @ Sax #
+{Xstit
 
+--- page 2 ---
+Problème
+Pour tout entier p 2 1, on désigne par Mlp; C) lalgèbre des matrices carrées d'ordre p à coefficients complexes; Pour toute matrice A = (ak;)skjSp de Mlp; C),on pose /lAIl = p Sup lakj| . kj On note GLWp; C) le groupe des matrices inversibles de M(p,C) Si A est une matrice de M(p; C), on note (det A) son déterminant et tr(A) sa trace. On désigne par Ip la matrice unité de M(p, C) Partie I
+l)Montrer que pour toutes matrices A, B de Mlp; C), IABI < IJAIl IIBIl A' 2) Pour toute matrice A € M(p; C) et tout entier n, on pose Pn(A) =:%- avec k=0 la convention A' = Ip. Montrer que la suite (pn(A))n20 est convergente dans Mlp, C) : Ak On note exp(A) lim Pn(A) = n++00 k=o ki ~ 3) Soit A et B deux matrices de Mlp, C) qui commutent. Montrer que Aexp(B) = exp(B)A et exp(A) exp(B) = exp(B) exp(A)
+0 4) On poe A = c ~@ ) %ù a,6,c sont des nombres complexe 4a) Déterminer la matrice A? + (det A)I2. 4b) Montrer que si (det A) = 0, alors exp(A) = I2 + A. 4c) On suppose que (det A) = ~02 Q # 0. Montrer que sha exp(A) = chI? =A 4d) Donner lexpression de exp(A) lorsque (det A) = 0?, œ # 0. 5) Soit a et b deux nombres complexes distincts et A une matrice de, M(p; C) vérifiant (A-alp)(A - bIp) = 0. 5a) Déterminer le8 nombres @n et Bn qui vérifent pn() = (a - a)(z ~ b)4n(z) +@n + P (s ~ a); ~ où pn(z) = et 9n est un polynome & coefficients complexes. k! 5b) Exprimer p(A) en fonction A, an et Bn: 5c) Montrer alor; que eb _ e exp(A) = e Ip + ~(A- aIp) 6 - 0 5d) Que devient cette derniere écriture lorsque 0 =b ?
+2
 
+--- page 3 ---
+6a) Montrer que lapplication c : R 74 M(p;C) définie par c(t) = exp(tA) est dérivable et que pour tout t € R; c(t) = Aexp(tA) = exp(tA)A. 6b)Déterminer la dérivée de lapplication d : R = M(p; C) définie par d(t) = exp(tA) exp(-tA). 6c) En déduire que exp( A)exp(-A) = Ip. 7a) Déterminer la dérivée de Papplication ~ : R - Mlp, C) définie par Y(*) = exp(t(A + B)) exp(-tA) exp(-tB). 7b) En déduire que AB = BA = exp(A+ B) = exp( A) exp(B).
+8a) Calculer les exponentielles de8 matrices 2in A = (8 B = 2in 0 ~2in 8b) A-t-on exp(A + B) = exp(A) exp(B) AB = BA ? 9a) Montrer que gi T est une matrice triangulaire superieure alors 'exp(T) est triangulaire supérieure 9) Donner les valeurs propres de exp(T) en fonction de celles de T, 10) Soit A € M(p;C) et P € GLlp;C) 108) Exprimer exp(PAP-1) en fonction de P et de exp(A) . 10b) En déduire lexpression de det(exp( A)) en fonction de tr(A)
+Partie I
+Soit un endomorphisme de et PA(s) = det( ~ sidp) son polynôme caractéristique; où idp désigne lidentité sur CP_ On pose P(z) = É(; ~2)4 , où les Mj sont les valeurs propres distinctes de f de multiplicites respectives @; 9;(z) = IIls - M)" , 1 < j < k 1=1 l+j N; = ker(f = Ajidp)%; , 1 <j < k. 1) Montrer que = 6 Nj j=1
+3
 
+--- page 4 ---
+2a) Montrer qu'il existe des polynômes T1, Tk de C[X] tels que Tjq; =1 j=l 2b) On note Il; = (rjq;) (f), 1 < j < k. Montrer que Il1 + . .. +Ilt = idp 3) Soit m et n deux entiers distincts appartenant à {1,-,k} 3a) Montrer que pour tout v appartenant à Nm, IIn(v) = 0 3b) Montrer que pour tout u € Nm, IIm(v) =u. 3c) En déduire que pour tout 1 < j < k, IIj est le projecteur sur N; parallelement à Nj 1=1 "j 4) Montrer que l'endomorpbisme d = A1Il1 + - . . + XkIIk est diagonalisable. 5) On pose n = f - d. 5a) Montrer que pour tout v € Nj, n% (v) = 0. 5b) En déduire que l'endomorphisme n est nilpotent. 6) Soit 4 un endomorphisme diagonalisable de CP qui commute avec f: 6a) Montrer que d laisse stable Nj, pour tout 1 <j < k. 6b) En déduire que les endomorphismes d et d sont diagonalisables dans une même base de CP_ 7) Montrer que pour tout endomorphisme f de CP, il existe un unique couple (d,n) d'endomorphismes de CP tels que d est. diagonalisable; n est nilpotent, d0 n = n0d et f =d+9 8) En déduire que pour toute matrice A € Mlp; C) il existe un unique couple (D,N) de matrices appartenant à Mlp; C) telles que D est diagonalisable; N est nilpotente; DN = ND et A =D+N. On dira que A = D+ N est la decomposition de Dunford de la matrice ^.
+Partie III
+1) Soit A = D+ N la décomposition de Dunford dune matrice A appartenant à Mlp;C) 1a) Montrer que Ip + N est inversible P1 N; 1b) Montrer que la matrice exp(D)E est nilpotente. j=l j!

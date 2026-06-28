@@ -72,3 +72,12 @@ Caleuler b2 et b4.
 Concours Mathomotiqques et Physique Session Juiu 201 !
 Épreuve de Mathematiquos
 Paso 3 |
+
+--- page 4 ---
+5 Pour n€ N. on pose
+ Bn ( X) = Ec;b -&X* k2o (a) Calculer Bo(X). Bu(X) . B2(X) et BB(X) (b) Montrer que, pour tout Tl 2 2, Bn(0) = bn = Bn( 1 ) (c) Montrer que, pour tout n 2 0. Bn+i(X) = (n + 1) Br(X) (d)  Montrer que, pour tout n 2 1, Bn(t)dt = 0.
+Partie III
+Pour n € N, on considère la fonction 1-périodique 'n R _ > R telle que, Vt€ [0,1[, Yn(t) = Bn{t) Pour p € Z, on note cp(+n) = J F(t) e-2inptdt , le coefficient de Fourier exponentiel de Pn dindice p. 1 Montrer que {n est continue et est de classe €' par morceaux sur R 2 Que peut-on dire de la série de Fourier de Çn. 3 . Soit n € N* . (a) Montrer que co(+n) = 0. (b) Montrer que, pour tout p € Z; n + 1 Cp(un+1) = Cp(sn) 2ipn (c) En déduire que, pour tout p € Z* ~n! Cp( Pn) = (2ipu) n (d) Montrer que, pour tout t € [0,1]. 1oo cos(2rpt) B2n (t) = 2(-1)n+1(2n)! (2rp)2n p  [ (e) En déduire que: 2(-1)7+1(2n)! b2n ((2n)  (2r)2n Donner les valeurs de Ç(2) et Ç(4). En déduire les valeurs des sommes Fo Foo Li)n+1 (~1)n+1 et 172 n! n=] 1 [ 5 bn Montrer que le rayon de convergence de la série entière In est égal à 27 n! n20 6. Montrer que. pour tout I €j - 27,27 [ 4o brz" =l (n + 1)! n! n20 10 7 En déduire que F' est développable en série en 0 et que pour tout I €] 2T.27 [ too 6 Flr) = I n! n=0
+Concours Mathématiques Pt Phvsique Sessioti huin '201/
+Épreuve de Mathématiques
+Fave

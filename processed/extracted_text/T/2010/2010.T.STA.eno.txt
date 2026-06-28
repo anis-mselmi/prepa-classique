@@ -1,17 +1,418 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de 1'Enseignement Supérieur et de la Recherche Scientifique.
+968)52s6ajl "Uj:lgsls Ualal C| Jgiall Zuibsl Gl JaLijl Ùalid~l j9ss jal > 2010 6,9'
+Concours nationaux d'entrée aux cycles de formation dingénieurs Session 2010
+Concours Technologie
+Epreuve de Sciences et Techniques de TIngénieur
+Date Vendredi 04 Juin 2010
+Ieure 8 H
+Durée 5 H
+Barème Partie A
+points Partie B points Partie € : 5 points Partie D points.
+L'épreuve comporte quatre parties A-Technologie de Conception B-Technologie de Production C-Mécanique & RDM D-Automatique. Le sujet de Fépreuve remis au candidat comporte Dcux dossiers Présentation; Données et Hypothèses el Document réponses Deux documents techniques Dessin densemble (A3) et Dessin de détinition (A3). Aucun autre document n 'est autorisé. L'utilisation des calculatrices de poche non programmables est autorisée. Les différentes parties sont indépendantes et doivent être traitées sur le document réponses. Un seul dossier document réponses est fourni au candidat et doit   être rendu en totalité , même sans réponses, à la fin de Fépreuve. Le renouvellement de ce dossier est interdit.
+DOSSIER
+PRESENTATION, DONNEES ET HYPOTHESES
+WSITUT Fre" Mhnusl CHLOTHEQUE) "Dngexicusssn
+
+--- page 2 ---
+Ce dossier comporte 13 pages numérotées de Ià 13: Présentation pages là 3 ; Données et hypothèses Partie A pages 4 et.5 Données et hypothèses Partie B pages 6 à 8; Données et hypothèses Partie € pages 9 et I( Données et hypothèses Partie D pages Il à 13
+
+--- page 3 ---
+1 Icchnologic
+Dossicr Prcscntation Donnees_ct_Hyhothcses
+PORTES MOTORISEES D'AUTOBUS
+MISE EN SITUATION Les portes motorisées dautobus, point dentrée et de sortie des passagers et organes de sécurité, intègrent dans un cadre humain et matériel (Figure 1). Elles permettent principalement douvrir ou de fermer Faccès de Fautobus aux passagers et déviter Fintrusion déléments extérieurs à Fautobus (air, Cau poussières, etc.). Les portes dautobus doivent être Commandées par le conducteur de Fautobus à partir du poste de conduite Adaptées à la géométrie des ouvertures des bus Accessibles en cas d'urgence ou pour la maintenance moyennant un bouton douverture de secours (Figure 1-b). En plus, ces portes ne doivent pas mettre en danger les passagers à travers un équilibre de sécurité et de flexibilité (ne pas écraser les passagers et ne pas s 'ouvrir pendant le trajet) .
+(b)
+Figure 1 (a) portes motorisées dautobus
+(b) bouton exlerieur douverture de secours.
+L'ouverture ou la   fermeture   des   portes dautobus, pour   autoriser  Faccès ou   la   descente   des
+passagers. nécessite Le guidage des portes La manœuvre des portes par production; adaptation et transmission de Fénergie mécanique La détection de Fétat des portes La possibilité deffectuer le débrayage de la motorisation: Le débrayage de la motorisation; nécessite Le développement de Fénergie La transmission de cette énergie L'action sur Faccouplement.
+Concours nationaux dentréc aux cycles de formation dingenieurs
+Session 2010
+Page
+
+--- page 4 ---
+SII = Iechnologic
+Dossicr Présentation Données eL Hypothèses
+DESCRIPTION ET FONCTIONNEMENT
+étude portera sur le mécanisme de motorisation dune porte d'autobus défini par le dessin densemble (Document et sa nomenclature page 3). Chacune des dcux portes de lautobus est commandée par un mécanisme de motorisation logé dans un caisson en dessus de la porte (Figure 2)
+Le mécanisme de motorisation est actionné par un   motoréducteur électrique (22-23) qui assure, à travers un système roue (37) et vis sans fin (5), l'entrainement en rotation du bras (1) qui permet ]ouverture ou la fermeture de la porte. Le réducteur roue (37) et vis-sans-fin (5) étant irréversible; alors, un dispositif de sécurité est utilisé pour libérer la porte de la motorisation. Ce dispositif est activé par un bouton de secours (Figure 1.b) qui coupe Falimentation pncumatique du vérin (16, 18, 19) Le ressort (14) assure alors la sortie de la tige du piston (16) et par suite la rotation de la came (8a) par rapport à la came (8b) ce qui entraîne la montée de Faxe de blocage (35). La forme conique du bout de cet axe permet de faire dégager les   trois billes (43) logées entre la roue (37) et le bras (1) et par suite de les débrayer (Document coupe C-C) Le bras (1) devient alors libre et les portes de lautobus peuvent être ouvertes manuellement . Pour   reprendre le fonctionnement normal du mécanisme (position   embrayée), Il suffit d'alimenter le vérin pneumatique ce qui engendre la rotation de la came (8a) par rapport à la came (8b) en sens inverse. Le ressort (10), qui permet de plaquer lcs deux cames l'une contre 1'autre, assure alors la descente de laxe de blocage (35). La forme conique du bout de cet axe permet alors de loger les trois billes (43) entre la roue (37) et le bras (1) (position embrayée)
+Mécanisme de motorisation
+Rail
+Porte gauche
+Porte droite
+Porte gauche
+Porte droite
+Figure 2 Principe douverturc et de fermeture des portes dautobus (vues extérieures) .
+Concours nationaux dentrée aux cycles de formation dingénicurs
+Session 2010
+Page _
+
+--- page 5 ---
+TI Icchnologic
+Dossicr Presentation Données ct Hypothcscs
+NOMENCLATURE
+23
+Réducteur épicycloïdal Moteur électrique
+22
+45
+Tête du vérin
+21
+Rotule
+44
+Vis CHC
+20
+Entretoise
+43
+Bille
+19
+Piston
+42
+2
+Anneau élastique 2 Rondelle
+18
+Corps du vérin Support du vérin Tige [Support moteur Ressort
+41
+17
+40
+Douille
+16
+39
+2
+Palier autolubrifié
+15
+38
+Bague Roue
+14
+37
+13
+Contre-écrou
+36
+Insert levier
+12
+Rotule
+35
+Axe de blocage Anneau élastique Support de potentiomètre Rondelle dappui 2 Rondelle élastomère
+11
+Vis CHC
+34
+10
+Ressort de la came
+33
+Levier
+32
+8
+Came
+31
+Demi carter haut
+30
+Roulement à contact oblique
+Roulement
+29
+Rondelle
+Vis sans fin à un filet
+28
+Ecrou
+Anneau élastique Demi-carter bas
+27
+Goupille Douille d'accouplement Axe du motoréducteur
+26
+2
+Support de fixation Bras
+25
+24
+Plaque d'adaptation Rep: Nbre Désignation
+Rep: Nbre
+Désignation
+Concours nationaux dentree aux cycles de formation dingénieurs
+Session 2010
+Page 3 -
+
+--- page 6 ---
+STI Icchnologic
+Dossicr Préscntation Données ct Hxpothèses
+PARTIE A TECHNOLOGIE DE CONCEPTION
+DONNEES ET HYPOTHESES
+Moteur électrique (22) Voir caractéristiques figure A.1 Réducteur épicycloïdal (23) (Figure A.2) Nzs Rapport de réduction 1 T1 Nzz 18
+Rendement 91
+0,72
+Nombre de dents des pignons Z22 9, Z23a 36, Z23b 12 Réducteur roue (37) et vis sans fin (5) Rapport de réduction T2 N3z = Ns 4
+Rendement n2
+0,5.
+Bras (1) Vitesse de rotation supposée constante (mouvement uniforme) Angle balayé en phase d'ouverture 87' en 3s (d'après le cahier de charges)
+Couple (NCm) Puissance (W) 40 ooaoi
+35
+30
+25
+20
+15
+10
+trImn 5000
+1000
+2000
+3000
+4000
+Figure A.l Caractéristiques du moteur électrique (22).
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2010
+Page 24
+
+--- page 7 ---
+TI Icchnologic
+Dossicr Prcscntation Donnces cL Hxpothcscs
+232
+23c
+Arbre du Moteur (22)
+Arbre de sortie (25)
+23b
+Figure A.2 Schéma cinématique minimal du réducteur épicycloïdal (23)
+AIDE MEMOIRE Transmission par cannelures La condition de non-matage est définie par F'expression suivante
+5' L. < Padm Rmoy C couple à transmettre (Nmm) S surface réelle dappui par mm de longueur de contact (mm?/mm) L : longueur de contact arbre-alésage (mm) S = $' L surface totale réelle d'appui. Rmoy D+4 rayon moyen à mi-hauteur d'une cannelure (mm) Padm pression admissible sur les flancs des cannelures (MPa)
+7 série légère
+Y séric moyenne
+X séric forte
+80
+Surface soumise au matag
+70 1 60 i 50 1 40 30 p 20 cannelures  30 10 6 cannelures
+'cannelures ho
+cannelures h1o
+n cannelures (ici n=62
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+110
+Diamètres intérieurs d (mm)
+Figure A.2 Détermination de la surface réelle d'appui (S') dans une transmission par cannelures
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2010
+Page - 5
+cannelures
+8 Eannelures 8cannelures
+10 cannelures
+
+--- page 8 ---
+SII Iechnologie
+Dossicr_ Présentation Données ct Hlxpothèscs
+PARTIE B TECHNOLOGIE DE PRODUCTION
+On se propose détudier la fabrication du support moteur (15) dont le dessin de définition est représenté dans le document B.1.
+B.1. OBTENTION DU BRUT Lobtention du brut de la pièce (15) est assurée par moulage en coquille par gravité noyauté (voir annexe page 8) Le matériau utilisé pour le moulage est le GE 295 qui présente un coefficient de retrait de 1,1%. Le moulage est réalisé avec une surépaisseur d'usinage de 1,5 mm. Les surfaces à usiner sont numérotées de 1à 14 et toutes les autres surfaces resteront brutes (Documen: B.1)
+B.2 ETUDE DE FABRICATION Rédaction du projet dusinage Pour Fusinage du support moteur (15), on utilisera des machines outils Numériques (CN ). La gamme prévisionnelle proposée prévoit les phases suivantes
+Commande
+Phases
+Opérations
+Procédés
+10
+Contrôle du brut
+20
+Usinage des   surfaces 1 ,2 ,3 4 et 8. Usinage des   surfaces 5 ,6 ,7 ,9 , 10 , 1l , 12 , 13 et 14 Contrôle final
+Fraisage en CN Fraisage en CN
+30
+40
+La série prévuc est de 400 pièces par an, renouvelable.
+B.3. ETUDE DE LA COUPE vusinage en fraisage des surfaces 5 et 6 du support moteur (15) est réalisé simultanément, sur une fraiseuse à commande numérique; par contournage (Figure B.1). La longueur d'approche (a) et le dégagement (d) de la fraise par rapport à la pièce sont a =d = Smm
+Les données de coupe choisies sont
+Fraise en ARS
+Diamètre 0 32 Nombre de dents z =8
+Vitesse de coupe Vc = 34 mmn Avance par dent fz = 0,06 mmldent
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2010
+Page -
+
+--- page 9 ---
+STI _ Icchnologic
+Dossicr Préscntation_Données ct Hxpothcscs
+approche Smm d : dégagement = Smm RT rayon du trajet de la fraise lors du contournage RF Rayon de la fraise 16 mm
+Cf2
+5
+Fraise_en fin d 'usinage
+Trajet de 1 axe de la fraise rayon RT )
+Ma
+Fraise en fin dusinage :Fu
+Ma
+Mc
+Fraise en début d'usinage Du Figure B.l Usinage des surfaces 5 et 6 par contournage
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2010
+Page _
+
+--- page 10 ---
+STI = Icchnologic
+Dossicr Prcsentation Donnécs ct Hypothcscs
+ANNEXE
+Moulage en coquille par gravité
+C'est un moulage permanent en moule métallique: Il peut supporter plusieurs coulées successives avant sa mise hors service. Le remplissage et Falimentation sont assurés par gravité. Le moule étant appelé coquille d'où la désignation courante de ce procédé de moulage coulée en coquille par gravité.
+Champ dapplication : Ce procédé de moulage permet de réaliser des pièces ayant de bonnes caractéristiques géométriques et dimensionnelles, de précision allant jusqu'à 0,1 mm Les moules en fonte ou en acier permettent de réaliser une production en séries
+Poche de coulée
+Trou de coulée
+Trou d'évent
+Empreinte
+Noyau
+Moule Fermé
+Pied de positionnement
+Coquilles
+Vcrrouillage des coquilles Pendant la coulée du métal en fusion; il est nécessaire de maintenir les coquilles Cn position fermée. Les mécanismes   utilisés sont actionnés manuellement ou mécaniquement.
+Portée du noyau
+Noyau
+Noyaux et Broches : Permettent de réaliser des formes en creux dans les pièces moulées, ceux-ci sont réalisés en acier ou en sable.
+Poteyage = La coulée du métal liquide en fusion entraîne une oxydation de Fempreinte et une dissolution  possible  des éléments de la   composition   chimique du matériau des coquilles; des noyaux et des broches. Pour remédier à cet inconvénient, un revêtement est déposé dans le moule avant la coulée, ce revêtement est appelé poteyage.
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2010
+Page
+
+--- page 11 ---
+TI Icchnologie
+Dossier Présentation Données et Hypothèses
+PARTIE € MÉCANIQUE RDM
+C.1. MÉCANIQUE Le mécanisme de la porte dautobus, modélisé par le schéma cinématique de la figure C.l, est composé de Un châssis d'autobus (0) auquel on attache le repère Ro(O,wo go, 2) supposé galiléen Un bras (1), en liaison pivot d'axe (0,7) avec le châssis (0), auquel on  attache le repère R (O,7vy1 7) tel que a = (wo#;) = (oJL) et 07 = aé, Une porte (2), en liaison pivot d'axe (A,2) avec le bras (1) dune part et en liaison linéaire annulaire daxe (C,J) avec le châssis (0) d'autre part A la porte (2) on attache le repère Rz(0,72 82,7) tel que B = (&, é2) = (yu}2) et OC = bxo + yjo Le bras (1) est assimilé à une tige de longueur a, de masse m et dc centre d'inertie G1- La por est assimilée à une plaque rectangulaire (c x h) infiniment mince; homogène; de masse M et de dinertie G2 (Figure C.2)- Toutes les liaisons sont supposées parfaites . Le bras (1) est entrainé en rotation par un couple : 7 C17. Le champ de pesanteur est définie par g ~92.
+}1
+B w2
+71
+7
+72
+Jo
+yo
+4 0
+i, A B  4x2 2 B )1
+w1
+Figure C.1 Schéma cinématique minimal du mécanisme de la porte d' autobus
+Figure C.2 Modèles adoptés dans létude dynamique du bras (1) et de la porte (2).
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Scssion 2010
+Page
+
+--- page 12 ---
+STI Icchnologie
+Dossier Présentation Donnécs et Hxpothèses
+C.2. STATIQUE ET RESISTANCE DES MATERIAUX
+La vis sans fin (5) et sa classe d'équivalence sont modélisées par la figure C.3 suivante.
+x
+(3+7)
+OA = a = 27 mm, AB b =45 mm, AC = c = 81 mm, BI = r = 12 mm
+Figure C.3: Modèle adopté dans l'étude statique et RDM de la vis sans fin (5).
+L'action dengrènemcnt de la roue (37) sur la vis sans fin (5) est définie au point I, dans la base (x,j,7), par le torseur suivant
+Z1 où X, = Z1-tg(B) Yi = tg(a) Cos(B)
+{T3}
+Y,
+Z1
+avec Q
+20' angle de pression et B = 85' angle d'hélice de la vis sans fin (5).
+Le couple exercé par le motoréducteur sur la vis sans fin (5) est défini par Cm? avec Cm 1,35Nm. La vis sans fin (5) est en acier de caractéristiques Re 0e 360 MPa Rpg Tp 80 MPa E = 2.1 105MPa G = 8 104MPa. La goupille (27) est en acier de caractéristiques Re 0e 260 MPa Rpg = Tp 65 MPa. On prendra; en cas de besoin; un coefficient de sécurité s = 2
+Concours nationaux dcntrée aux cycles de formation dingénieurs
+Session 2010
+Page 10
+
+--- page 13 ---
+SII Icchnologic
+Dossicr PrÉscntation Donnécs ct Hxbothèscs
+PARTIE D AUTOMATIQUE
+La présente étude est composée de deux parties (D.I et 1.2) indépendantes D.1 traite la commande séquentielle des portes motorisées d'autobus D.2 est axéc sur ]asservissement des vitesses des moteurs en vue dassurer l'ouverture ou la fermeture des portes_
+D.L. COMMANDE SEQUENTIELLE L'objectif de cette partie est d'établir une commande séquentielle du système douverture et de fermncture des portes Les deux portes P, et P2, qui permettent de gérer ]accès à /autobus , peuvent se déplacer entre les contacts de fin de course a et bu respectivement a2 et b2. Ces déplacements sont assurés par deux moteurs, double sens de marche commandés par les actions D1 et G1, respectivement D2 et G2 (Figure D.1).
+Mz
+rail
+M,
+b2
+Dz
+D1
+Porte gauche
+Porte droite
+Porte gauche (Pz)
+Porte droite (P1)
+(Pz)
+(P1)
+Position portes fermées
+Position portes ouvertes
+Figure D.l Principe de fonctionnement des portes motorisées d'autobus
+Les notations utilisées sont les sui vantes
+Abréviation D1
+Description
+Action de rotation à droite du moteur ML
+G1
+Action de rotation à gauche du moteur M, Action de rotation à droite du moteur M2 Action de rotation à gauche du moteur Mz Contact de fin de course gauche du moteur MJ Contact de fin de course droite du moteur M1
+Dz
+G2
+91 b1
+a2
+Contact de fin de course droite du moteur Mz Contact de fin de course gauche du moteur Mz
+b2
+Initialement, les deux portes sont fermées et les contacts a1 et a2 sont actionnés (a1=let a2=1)
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2010
+Page - =Il =
+
+--- page 14 ---
+SIL_Icchnologic
+Dossiex Présentation Donnécs ct Hypothcscs
+Cycle de fonctionnement Séquence douverture des portes Lorsque   l'opérateur appuie sur le bouton poussoir (m1) le moteur M, tourne à droite (D1 tandis que le moteur Mz tourne à gauche (Gz) La porte qui atteint sa butée de fin de course s'arrête.
+La fermeture des portes P, et Pz ne peut commencer que lorsque P, arrive en h1 et Pz en b2.
+Séquence de fermeture des portes Lorsque les portes sont ouveres et lopéraleur appuie sur lc bouton   poussoir (m2), le moteur Mp tourne à gauche (GJ tandis que le moteur Mz tourne à droite (Dz) Lc cycle se termine lorsque les portes P1 et Pz sont arrivées respectivement en a et a2 Un nouveau cycle ne peut commnencer que si les deux   portes sont en position de fcrmeture (P1 en a et P2 en a2 et si lopérateur appuie de nouveau sur (m1). Pour des raisons de sécurité, Fappui sur le bouton poussoir (m1 au cours de la séquence de fcrmeture provoque instantanément Fouverture des portes P1 et Pz.
+Les vitesses dc déplacement des portes sont quelconques el les longueurs des rails à parcourir sont identiques_
+D.2. ASSERVISSEMENT Les deux moteurs à courant continu M; et Mz supposés identiques; sont commandés chacun par son induit. On s' intéresse, dans cette partie, à létude de lasservissement de la vitesse du moteur MI. Le comportement électromécanique de ce moteur est définit par les équations suivantes
+u(t) = Ri(t) + Ldi@ + e(t) dt e(t) = Kew(t) Cm(t) Kti(t) Cm(t) = J4(2+ fw(t) + Cr(t) dt
+(2) (3)
+(4)
+Liste des variables
+Liste des paramètres Inductance de Finduit R Résistance de Finduit J Inertie totale rapportée à larbre du moteur f Coefficient des frottements visqueux K, Coefficient du couple moteur Ke Coefficient de la force contre-électromotrice du motcur
+u(t) Tension d' alimcntation du moteur i(t) Courant d'induit du moteur e(t) Force contre-électromotrice du moteur @(t) Vitesse de rotation du moteur Cm(t) Couple moteur CAt) Couple résistant équivalent ramené sur Farbre du moteur
+Concours nationaux dentrée aux cycles de formation dingénicurs
+Session 2010
+Page 12 -
+
+--- page 15 ---
+SII_Icchnologie
+Dossicr Présentation Données ct Hxpothèses
+On suppose que Les conditions initiales de toutes les grandeurs sont nulles p représente lopérateur de Laplace X(p) représente la transforméc dc Laplace de x(t) notée par X(p) = Cx(t)] ; 9(p) rcpréscnte la transformée de Laplace de @(t) notée par 9(p) C[w(t)]
+Le schéma fonctionnel du moteur est donné par la figure D.2 ci-dessous.
+Cm (p) G1 (p)
+G2(p)
+K
+Figure D.2 Schéma fonctionnel du moteur
+Le   schéma fonctionnel du   système en boucle fermée est   donné par   la   figure D.3- Un amplificateur de puissance, de gain A = 5, est inséré dans la chaîne de régulation afin d 'amplifier le signal délivré par lc correcteur. La génératrice tachymétrique, de gain Kg 0.1v/rad /s, délivrc une tension proportionnelle à la vitesse de rotation du moteur @(t). On désigne par C(p) la fonction de transfert du correcteur et par G(p) celle du moteur.
+Consigne Uc(p)
+Correcteur C(p)
+Amplificateur
+U(p)
+Moteur G(p)
+Sortie
+@(p)
+Génératrice tachymétrique Kg
+Figure D.3 : Schéma fonctionnel du système en boucle fermée.
+Concours nationaux dentréc aux cycles de formation dingénicurs
+Session 2010
+Page 13
+
+--- page 16 ---
 
 
+--- page 17 ---
+91 %v : æ
+; ; 9 8 1 9 1 h1 1 8 ; 8 { - 1 { 8 1 2 87 
+1 {2 1 1 2 9 {
+5 8l R 4 8 4 8
+9
+8
+&l
+848 Lui ;
+2
+: g
+9
+8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+--- page 18 ---
+; 2 1 9 : 1 1 ; 5 Il, 1 9 He 1 1 { 9
+, 8 ; 1
+8 "
+CW VZ
+8P aXV -
+8 ;
+{oF 8v 70+ 8[ 3
+3
+9W Snoi
+{ 3 8 8 ~ 8 () 1 @ 1 6
+€IAvz 4405

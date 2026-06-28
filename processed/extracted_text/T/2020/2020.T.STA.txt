@@ -1,105 +1,1080 @@
+--- page 1 ---
+~ni848 @hl?læeis gujegl Ubina+4s QgLiJj O?~JJ 202834J~ 2291
+REPUBLIQUE TUNISIENNE
+Ministère de 1Enseignement Supérieur et de la Recherche Scientifique
+Concours Nationaux dEntrée aux Cycles de Formation d'Ingénieurs Session 2020
+Concours Technologie
+Epreuve de
+Systèmes Techniques Automatisés
+Date Samedi 18 Juillet 2020 Heure : 8 H Durée 3 heures
+L'épreuve comporte trois parties A Mécanique des solides indéformables & Résistance des matériaux (10 pts) B - Automatique (10 pts) Le sujet de lépreuve remis au candidat comporte trois dossiers 1er "Mise en situation, Données et Hypothèses"  2ème Trois documents techniques DT-01, DT-02 et DT-03. 3ème "Document Réponses" contenant les questions à traiter: NB. Aucun autre document n'est autorisé. Seules des calculatrices de poche non programmables sont autorisées. Un seulet unique document réponses est fourni au candidat et doit être rendu en totalité, à la fin de lépreuve, même sans réponses. Aucune feuille du document réponses ne doit être supprimée (cet acte est considéré comme étant une tentative de fraude).
+00
 
+--- page 2 ---
+Dossier
+Mise en situation, Données et Hypothèses  `
+Ce dossier comporte 10 pages Mise en situation Données et hypothèses partie A MSI & RDM Données et hypothèses partie B Automatique
+pages de 1 à 4 pages de 4 à 8 pages de 8 à 10
 
+--- page 3 ---
+Concours Technologie Epreuve S.T.A.
+Mise en situation, Données et Hypothèses
+PRESSE D' INJECTION DE MATIÈRE PLASTIQUE
+Mise en situation
+Le système présenté par le document technique DT-01 est une 'presse d'injection' 80 Tonnes qui permet 1'obtention de pièces moulées par injection de la matière plastique (polymère) Ce procédé de moulage s'effectue selon les trois étapes suivantes chauffer et porter à létat fondu la matière plastique, injecter; sous haute pression, cette matière fondue dans un moule comportant Iem- preinte de la pièce désirée, refroidir rapidement le moule afin de ramener la matière plastique injectée à létat solide_ Ces étapes, bien qu'elles peuvent paraître simples dans leur description, présentent des com- plexités sur le plan physico-technique: En effet, chaque type de matière plastique à injecter doit faire objet de consignes de chauffage, de pression et de vitesse de refroidissement en bonne adéquation. Cela permet d'éviter les défauts de fabrication et satisfaire les propriétés de résistance finales désirées. Dans cette épreuve, nous proposons létude de la presse d'injection illustrée par la figure 1 Cette presse est constituée des sous-systèmes suivants une unité dalimentation en pression hydraulique, un automate programmable, une unité de plastification équipée dun système de régulation de température, une unité de fermeture et de verrouillage du moule, un moule d'injection doté de système de refroidissement.
+Unité de plastification injection
+Unité de fermeture et de verrouillage
+8
+Emplacement du moule d'injection
+Pupitres de commande
+FIGURE 1 - Sous-systèmes de la presse d'injection
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 1/1o
 
+--- page 4 ---
+Concours Technologie Epreuve STA.
+Mise en situation, Données et Hypothèses
+Diagramme SADT La figure 2 représente Yactigramme SADT niveau A-0 de la presse dinjection proposée à létude: Cet actigramme permet de cerner la fonction globale de la machine ainsi que les données de contrôle, les entrées et les sorties secondaires.
+Programmes Ordres Eau froide Réglages Energie Electrique Informations colorant & Bruit Matière Mouler des pièces première plastiques par injection Pièce moulée par injection A-0 déchets Presse d'injection FIGURE 2 - Actigramme niveau (A-0) de la presse d'injection
+Description de lunité de plastification Lélément principal de cette presse d'injection est Yunité de plastification (voir figure 1) C'est le sous-système qui permet la préparation et V'injection de la matière plastique: Il se compose, comme Yindique la figure 3,d 'une trémie de stockage de la matière première sous forme de poudre, de granulé ou de lentilles_ Cette matière passe en premier lieu dans un cylindre pour être emprisonnée entre la paroi de celui-ci et une longue vis ayant des filets à pas variable. La matière confinée sera chauffée et mise sous pression pour être ensuite prête à linjection. Durant le cycle d'injection, la vis en rotation avance sous Yaction dun vérin pour permettre Finjection de la matière fondue à travers une buse dans lempreinte du moule
+buse
+Trémie de stockage
+Vis Clapet 2  Fourreau 5 vérin d'injection Buse Moteur (plastification)
+zones de chauffage
+capteur de présence P Zone 2 Zone
+Zone 3 T3
+Capteur de température @3 Capteur de température 02
+Commandé Par_ KV2
+Capteur de température 01
+FIGURE 3 Unité de plastification
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 2/10
 
+--- page 5 ---
+Concours Technologie Epreuve S.T.A.
+Mise en situation, Données et Hypothèses
+La figure 4 présente le cycle dinjection développé en trois phases accostage et dosage de la matière avec moule fermé (figure 4-a) remplissage de lempreinte du moule et compactage de la matière plastique suivie d'un refroidissement (figure 4-b), ouverture du moule et éjection de la pièce finie accompagnée du recul de la vis pour reprendre un nouveau cycle d'injection.
+moule
+plastique en granulé
+partie mobile partie fixe
+système de chauffage
+vis piston
+(a)
+canalisation de
+mouvement de rotation continue
+refroidissement à l'eau
+(b)
+mouvement d'avance lors de l'injection
+pièce obtenue
+mouvement de recul après injection
+c)
+FIGURE 4 = Schématisation simplifiée des étapes d'injection
+Unité de fermeture et de verrouillage Lunité de fermeture et de verrouillage est destinée au positionnement et à la fixation de moules pouvant avoir différentes tailles et den assurer ensuite le cycle de fermeture, de verrouillage et douverture
+Concours nationaux dentrée aux cycles de formation d Vingénieurs
+Session 2020
+Page 3/10
 
+--- page 6 ---
+Concours Technologie Epreuve S.TA.
+Mise en situation, Données et Hypothèses
+Cette unité est composée de deux plateaux, lun est mobile (plateau mobile) et lautre est fixe. La partie mobile se déplace en respectant un profil de vitesses bien déterminé au cours dun cycle dinjection Cette unité sert aussi à appliquer la force de fermeture et à centrer les deux parties du moule lors de sa fermeture.
+Le moule et le système de refroidissement Afin daugmenter la cadence de production; le moule doit être refroidi rapidement pour solidifier en un minimum de temps la matière injectée dans lempreinte: Le refroidissement est assuré par une circulation deau froide à travers des canalisations percées à lintérieur du moule
+Partie A Mécanique des solides indéformables Résistance des matériaux
+Al Présentation L'étude porte sur Yunité de fermeture et de verrouillage mécanique à double genouillères illustrée par la figure 5. Cette unité est constituée dun mécanisme permettant au moule d'occuper trois positions position d'ouverture du moule (figure 5-a) position intermédiaire (figure 5-b) position de fermeture et de verrouillage (figure 5-c)
+A.2   Repères, paramètres et données Le mécanisme de fermeture et de verrouillage de la presse dinjection représenté par le schéma cinématique minimal figure 6 est constitué de un croisillon solidaire d'une tige de vérin hydraulique, formant le solide (1) en liaison pivot glissant d'axe (O,7) avec le bâti (0). un plateau mobile (5) en liaison glissière daxe (I,70) avec le bâti (0) (cette liaison est équivalente à la liaison de (5) avec les quatre colonnes de guidage et la liaison appui plan avec (0))- deux sous-systèmes (S) et (S') identiques de point de vue constituants et symétriques par rapport au plan (0,70,Z0). Le sous-système (S) est composé de deux billettes placées symétriquement par rapport au plan (0,70,J0) . Cette symé- trie permet de modéliser ces deux billettes par un seul solide (2) situé dans le plan de symétrie. une bielle (3) située dans le plan (0,*0,70). deux genouillères placées de part et dautre du plan (0,70,70). Elles seront mo- délisées par le solide (4) situé dans ce même plan. Du point de vue liaisons le solide (2) est articulé au solide (1) au point B, la bielle (3) est articulée d'une part en C au bâti (0) et dautre part en D au solide (2),
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 4/10
 
+--- page 7 ---
+Concours Technologie Epreuve S.TA
+Mise en situation, Données et Hypothèses
+Sommier position réglable
+Biellette ( 2
+Bielle (3) Colonne de guidage Genouillère (4) Plateau mobile (5)
+Plateau fixe
+Vérin
+Croisilon
+Mécanisme de réglage du sommier lors du changement de moule
+position initiale de la genouillère
+(b) position intermédiaire (c) position finale FIGURE 5 - Configurations possibles du mécanisme de verrouillage. (Pour une meilleure visibilité, des pièces en avant plan ont été cachées )
+le solide (4) est articulé en F au plateau mobile (5) et en E à la bielle (3). Le moule est composé de deux parties (MI_ et (M2) fixées respectivement sur le plateau mobile (5) et le plateau fixe solidaire du bâti (0). Les symétries que possède le mécanisme de fermeture et de verrouillage des moules , per - mettent de simplifier Yétude en ne traitant que le sous-système (S) On convient d'appeler équipage mobile lensemble (21 défini par : 21 {(1), (2), (3), (4), (5)} Tous les mouvements des solides formants (Z1) sont définis par rapport au repère Ro(O,70,70,20 ) lié au bâti (0) de la presse. Ce repère sera supposé galiléen ayant pour axe vertical ascendant (0,7o) Le mouvement de translation du solide (1) par rapport au bâti (0) est paramétré par 2. Le mouvement de translation du plateau (5) par rapport au bâti (0), est paramétré par H. On associe aux solides (2), (3) et (4) de léquipage mobile (Z1), les repères suivants R2(B,72,72,20) lié au solide (2) tel que sa rotation par rapport au bâti (0) est définie par langle & (x0,72) (70,92) Rs(C,73,ÿ3,Z0) lié à la bielle (3) tel que sa rotation par rapport au bâti (0) est définie par Yangle B (70,73) (7o,73)  R4(F,74,74,20) repère lié au solide (4) tel que sa rotation par rapport au bâti (0) est définie par Yangle Y = (70,74) = (70,74).
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2020
+Page 5l10
 
+--- page 8 ---
+Concours Technologie Epreuve S.TA.
+Mise en situation, Données et Hypothèses
+Jo
+Jo 92 
+12
+*o
+Zo Jo 93  B
+73 ,
+B 70
+Zo 4o
+'y4
+Zo
+74
+FIGURE 6 - Schéma cinématique du mécanisme de fermeture
+La Figure représente de façon approxima- tive le cycle de fermeture et de verrouillage du moule. Ce cycle s'effectue en quatre étapes I II, III et IV. La fermeture du moule est réalisée avec une avance uniformément accé - lérée (étape I) suivie dune avance à vitesse constante V (étape II ) ; le mouvement dap- proche est réalisé avec une avance uniformé - ment décélérée (étape III ) ; Yétape IV corres- pond à la phase de verrouillage et dinjection.
+IV
+t1
+t2
+t3
+t4 temps
+FIGURE 7 -Cycle de fermeture et de ver- rouillage
+Données du problème Les paramètres et les données géométriques de Yéquipage mobile sont définis par les rela - tions vectorielles suivantes OA = Axo ; OG uxo; AB ajo BD = Ræz; DC = dy3 ; EB cy3 ; EF = hy4; I6 Lyo. où a, R, c, d, h et L sont des caractéristiques dimensionnelles (constantes) de léquipage mobile, 4, B, Y, u et À sont les paramètres de léquipage mobile (variables de configuration) L'accélération de la pesanteur est définie par 8 g90. Fvxo Laction du vérin sur (1), au point A, est modélisée par le torseur {9 (Vérin-+1)} A = 0 Hypothèses H1 La liaison équivalente entre le plateau (5) et le bâti (0) est une glissière daxe (I,7o) Cette liaison se caractérise aussi par un frottement de glissement de coefficient f Xos Bo cela engendre une action mécanique {9(0-+5)}1 Yos représentée au point de contact I par le torseur Nos
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 6/10
 
+--- page 9 ---
+Concours Technologie Epreuve STA
+Mise en situation, Données et Hypothèses
+Toutes les autres liaisons de léquipage mobile seront supposées parfaites.
+Hz Compte tenu de Yimportance de la masse M du plateau (5) devant les masses respec - tives des composants (1), (2), (3) et (4), celles-ci seront négligées. Les forces d'inerties associées à ces solides seront considérées négligeables par rapport aux forces transmis- sibles par les liaisons. N.B. Ilconvient de retenir; pour ce problème plan, la notation Xij 50 {9(i-j)}0 Yij Nij pour représenter le torseur des actions mécaniques en un point Q, qu'€ exerce un solide sur un solide (j) exprimé dans la base Bo(z0,70,20)
+A.3 Résistance des matériaux On se propose d'étudier la résistance de la bielle (3) vis-à-vis des actions mécaniques ex- térieures qui lui sont appliquées lors de la phase de verrouillage du moule: Létude est menée selon une approche simplifiée dans laquelle la bielle est modélisée par une poutre droite prismatique pleine, de section rectangulaire (S H x e) constante, de longueur CE = d+ c = 300 mm. Dans cette phase, les expressions permettant le calcul des actions mécaniques appliquées sur la bielle (3) ont permis de déterminer leurs valeurs lors dune utilisation de la presse dinjection dans les conditions les plus extrêmes. Ces actions sont exprimées dans la base B(z,9,2) lié à la poutre dont laxe est (C, 7). (figure 8)
+9
+y
+E
+z
+20
+H
+X
+FIGURE 8 - Modèle poutre de la bielle (3) .
+On donne
+383822 ~20933
+{9(0-3)}c
+Torseur d'action mécanique de (0) sur (3) au point C.
+15410 62799
+{9(2-+3)}D
+Torseur daction mécanique de (2) sur (3) au point D.
+399232 41866
+{9(4-3)}E Torseur daction mécanique de (4) sur (3) au point  E Les forces sont exprimées en Newton (N)
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2020
+Page : 7/10
 
+--- page 10 ---
+Concours Technologie Epreuve S.TA
+Mise en situation, Données et Hypothèses
+Le poids , de la bielle (3) est négligeable devant les autres actions mécaniques C = 100 mm et d 200 mm; La section droite (S) est de forme rectangulaire pleine  La bielle est en acier ayant une limite élastique à lextension Re 1275 MPa On adopte un coefficient de sécurité (s 2) et une valeur moyenne dun facteur de concentration des contraintes en traction-compression ou en flexion (Kt 2.5) ; G est le centre de la section droite (S) de la poutre tel que CG x7 (le paramètre x est compris entre 0 et 300 mm)
+Partie B Automatique B.1 Étude de lasservissement électro-hydraulique du vérin dinjection Mise en situation L'objectif de cette partie est la modélisation et la commande en pression du vérin de la vis dinjection. En effet, les conditions thermodynamiques du matériau à linjection doivent sa - tisfaire des conditions strictes de pression, de température et de volume. C'est pour cela que le vérin d'injection doit être asservi en pression et qu'il est important de s'informer de sa vitesse de translation dune manière continue. Dans ce cadre, nous présentons sur la figure 9 la synoptique de la commande du système électro-hydraulique objet de létude.
+Vérin
+S1
+S2
+P2
+Chambre 2
+Chambre 1
+mesure de la pression
+W
+u(t)
+Calculateur AN & NA
+M
+Ps
+Pr
+Unité_de mesure et de_commande
+Servovalve
+pression issue de la pompe refoulement vers réservoir
+FIGURE 9 _ Synoptique de la commande du système électro-hydraulique d'injection 1. Distributeur proportionnel 4/3 (Servovalve proportionnelle électro-hydraulique à 3 étages) ; 2 Vérin hydraulique à double effet; 3. Vis d'injection; 4. Amplificateur:
+Explication qualitative du fonctionnement Par une commande de tension u(t) , une force électromagnétique F créée par le solénoïde permet de déplacer dune distance z(t) le tiroir dun distributeur: La pression P1 dans la
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 8/10
 
+--- page 11 ---
+Concours Technologie Epreuve S.TA.
+Mise en situation, Données et Hypothèses
+chambre 1 du vérin va augmenter et la pression Pz dans la chambre 2 va diminuer (mise au refoulement de la chambre 2). Cette pression P1 sera transmise à la vis de plastification et va générer une pression d'injec- tion au niveau de la buse. La pression dinjection est mesurée dune manière continue par un capteur de pression et linformation est systématiquement envoyée au calculateur afin de permettre sa régulation.
+Modélisation de la servovalve électro-hydraulique Le schéma de principe de la servovalve électro-hydraulique à trois étages (dite aussi dis- tributeur électro-hydraulique proportionnel 4/3) est donné par la figure 10. Le solénoïde, de résistance R et d'inductance L, engendre une force électromagnétique proportionnelle au courant i(t) F(t) = ke ` i(t) Cette force entraîne le déplacement z(t) du tiroir de la servovalve. Léquation électrique décrivant le fonctionnement du solénoïde est donnée par Ri(t) + zdi@) u(t) (2) dt
+L'équation décrivant le mouvement du tiroir de la servovalve est donnée par d?z() ms +fsdz(2 + ksz(t) = F(t) (3) dt2 dt où ms désigne la masse du tiroir de la servovalve; fs le coefficient de frottement visqueux et ks la raideur du ressort de rappel.
+solénoïde
+tiroir
+ressort
+Ps
+u(t)
+7nee] 
+P1
+Pr
+Pz
+position z(t)
+FIGURE 10 _ Servovalve électro-hydraulique_
+La pression P1(t) au niveau de la chambre (1) du vérin est proportionnelle à la position 2(t) du tiroir. P1(t) = kv - 2(t) De même, la pression au niveau de la buse P(t) est aussi proportionnelle à la pression du vérin
+P(t) = kb - P1(t)
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2020
+Page : 910
 
+--- page 12 ---
+Concours Technologie Epreuve S.TA.
+Mise en situation, Données et Hypothèses
+B.2 Étude séquentielle du cycle de plastificationlinjection Nous désignons par 'le cycle de plastification / injection' les étapes successives que suit la matière plastique depuis son point de stockage dans la trémie jusqu'à la phase d'injection proprement dite ! Le lancement du cycle se fait par appui sur le bouton Dcy- La présence de granulés de matière pre- mière dans la trémie doit être confirmée par un capteur de présence (p 1) et le vérin dinjection doit se trouver à sa position sortie (92 1) pour que le cycle puisse être déclenché. Le chauffage des trois zones du cylindre de plastification se fait par trois résistances chauffantes dédiées chacune à une zone spécifique (voir figure 3) Trois capteurs de température permettent à Yautomate de détecter si la zone concernée a atteint ou non la température de consigne désirée. Lautomate doit contrôler continuellement les températures de ces trois zones simultanément avec le déroulement du processus d'injection. En effet; si ['une de ces trois températures se trouve temporai - rement en dessous de la consigne désirée, la résistance dédiée doit être immédiatement alimentée. Le processus d'injection ne pourra se lancer que si les températures des trois zones sont atteintes. Si cest le cas, Vautomate actionne simultanément un moteur électrique entrainant la rotation de la vis de plastification ainsi que l'électrovanne d'alimentation en matière première afin d'acheminer cette matière plastique entre le fourreau et la vis. Ilest à noter que, la rotation de cette vis entraine Vavance de la matière le long du fourreau (voir figure 4) jusqu'à son accumulation au niveau de la buse: Ainsi, la pression de la matière va augmenter de plus en plus ce qui va pousser la vis ainsi que la tige du vérin hydraulique d'injection vers Yarrière petit petit jusqu'à ce que le capteur 91 soit activé. Arrivé à ce stade (position rentrée du vérin hydraulique atteinte (q1 1)), la phase d'injection proprement dite peut commencer: Le vérin hydraulique, commandé par (KV2), pousse ainsi la vis pour injecter la matière fondue dans le moule: Une fois que celle-ci est injectée (vérin arrivant au bout de sa course (92 1)) et tant qu'il y a encore de la matière dans la trémie de stockage (p 1), le cycle de 'plastification recommence après une temporisation de 10s. Si la matière première est épuisée, Yautomate arrête la machine à la fin du cycle en cours.
+TABLE 1 _ Tableau récapitulatif des commandes des actionneurs
+Commande du motoréducteur dentrainement de la vis (monostable) KMI Commande de Télectrovanne d alimentation en matière première (monostable) KVI Commande de la résistance de Chauffe de la zone RI Commande de la résistance de Chauffe de la zone R2 Commande de la résistance de Chauffe de la zone R3 Commande de Télectrovanne de sortie du vérin dinjection KV2
+TABLE 2 Tableau récapitulatif des capteurs
+Présence de matière première (granulés) dans 1a trémie p Appui sur bouton de_'Départ cycle' Dcy Température consigne zone atteinte 01 Température consigne zone atteinte 02 Température consigne zone atteinte 03 Capteur de position rentrée du vérin d injection 91 Vérin d injection en position sortie (fin d injection) 92
+Nous ne traitons pas ici le cycle de fermeture du moule.
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 1O/0
 
+--- page 13 ---
+Concours Nationaux dEntrée aux Cycles de Formation d' TIngénieurs Session 2020 Concours Technologie Épreuve de Systèmes Techniques Automatisés (TSA) Date Samedi 18 Juillet 2020à 8H
+DOCUMENTS TECHNIQUES
+Sujet : Presse dinjection de matière plastique 8OT
+Ce dossier comporte 03 documents techniques numérotés de DT-01 à DT-03
+DT
+Documents Techniques
+DT-01
+Presse dinjection 8OT
+Dessin 3D
+Détail A
+Dessin 3D (en coupe longitudinale)
+DT-02
+Mécanisme de fermeture et de verrouillage
+Moteur + Système dengrainement
+Vue F
+DT-03
+Nomenclature générale
+Rep. 1C 338C
+;
 
+--- page 14 ---
+5 ; 2 I/i In I 8 8 ! ; 1 9 : 0 8 5 ; In f jl 1 1
+9
+g
+9
+2 8
+[
+#
+2 ë
+9
+1 g 1 8 2 8 8 U 8 : 1 8 2 8 ; 8 3
+7,88,L 000
 
+--- page 15 ---
+9
+8 ; 2 7/1 In 2 8 Ju 8 1 i 1 8 8 9 1 1 5 1 g 5 6 ; Il! ; jl 1 1
+8 ;
+1 ; 5 1
+g
+9
+g
+g
+u
+"
+2
+g
+9 "
+3
+8
+g
+:
+8
+1 } 1
+#
+g
+1 9
+nvv
+MU
 
+--- page 16 ---
+38c 37c 36c 35c 34c 33c 32c 31c 30c 29C 28C 27c 26c 25c 24c 23c 22c 21c 20c 19c 18c 17C 16c 15c 14c 13c 12c 11c 10c 9c 8C 7c 6C 5c 4c 3c
+Pignon du moto-réducteur 16C) 48 Vis CHC M1o Bague de fixation Coussinet Capteur de déformation 2 Charnière plateau mobile Genouillère Tige_de centrage croisillon Croisillon Biellette Tige de centrage Bielle Galet de centrage de couronne Charnière de sommier Armoire électrique Réservoir d huile Interface de commande de presse Trémie d évacuation d 'articles injectés Portes principales Glissière Couronne dentée Vérin électro-hydraulique Moto-réducteur Cylindre de plastification Gorge de trémie Unité de plastification Galet de guidage de porte Colonne de guidage Roue dentée Sommier arrière Mécanisme de fermeture et de verrouillage Plateau mobile Plateau fixe Pupitre de commande Trémie de chargement de matière première Séchoir à trémie 2c Servo-moteur hydraulique 1c Socle Rep Nbre Désignation Matériaux Obs Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+5 1 | 1
+Presse d'injection de matière plastique 8OT
+Session 2020
+DT-03
 
+--- page 17 ---
+Dossier
+DOCUMENT REPONSES
+Ce dossier comporte 21 pages numérotées de 1 à 21 Partie A Mécanique des Solides Indéformables & Résistance des Matériaux
+pages de 1 à 15
+Partie B Automatique
+pages de 16 à 21
+Un seul dossier réponse est fourni au candidat et doit être rendu à la fin de lépreuve; en totalité, même sans réponses. Le renouvellement ou la reproduction de ce dossier sont strictement interdits.
 
+--- page 18 ---
+Concours Technologie
+Partie A MSI & RDM
+Document Réponses
+Partie A : Mécanique des Solides Indéfor- mables A.l Étude Cinématique L'objectif de létude cinématique consiste à établir la loi entrée-sortie des vitesses (relation exprimant le rapport des vitesses (p / 1) en fonction des paramètres géométriques du méca- nisme) A.I: Déterminer, dans la base Bo(70,y0,20) , les torseurs cinématiques , dans leur mouve- ment par rapport au bâti (0), des solides suivants le solide (1) au point A
+Bo
+{V1/o} A
+b. le solide (2) au point B, puis au point D
+Bo
+{"2/0} B
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 1/21
 
+--- page 19 ---
+Concours Technologie
+Partie A : MSI & RDM
+Document Réponses
+Bo
+{"2/o}D
+c. le solide (3) au point D, en passant par C :
+Bo
+{2Y3/0}D
+A.2: En déduire a. la vitesse angulaire & en fonction de (4, R, B et (œ B))
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2020
+Page 2/21
 
+--- page 20 ---
+Concours Technologie
+Partie A : MS.I. & RDM
+Document Réponses
+b la vitesse angulaire B en fonction de (d, %, (œ = B) et 1)
+8
+A.3: Déterminer, dans la base Bo(70,70, 20) , les torseurs cinématiques , dans leur mouve- ments par rapport au bâti (0), des solides suivants le solide (3) au point_ E, en passant par C :
+Bo
+{"3/o} E
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2020
+Page : 3/21
 
+--- page 21 ---
+Concours Technologie
+Partie A MSI. & RDM.
+Document Réponses
+b. le solide (4) au point F,en passant par E
+Bo
+{V4/o}F
+c. le solide (4) au point F en fonction de Ÿ et | :
+Bo
+{W4/o}F
+A.4: En déduire les relations exprimant la vitesse de translation; p , du plateau mobile (5) par rapport au bâti (0) en fonction de (c, d,h, B, P, Y et ~
+Concours nationaux dentrée aux cycles de formation d V'ingénieurs
+Session 2020
+Page 4/21
 
+--- page 22 ---
+Concours Technologie
+Partie A : MS.I & RDM
+Document Réponses
+b. Vaccélération j , de (5) par rapport au bâti (0), en fonction de (Ë, P, B, ÿ, Ÿ,Y, c, d et h)
+la vitesse angulaire ~ en fonction de (c, d, h, B, B et Y)
+A.5: Déduire le rapport des vitesses (p/ 1) en fonction de (c, d, &, B, et Y)
+] 1
+A.6: Donner la relation entre les valeurs critiques Bc et Yc (des angles B et Y) réalisant Yalignement des points C, E et F (position de verrouillage du moule)
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2020
+Page : 5/21
 
+--- page 23 ---
+Concours Technologie
+Partie A MSI & RDM
+Document Réponses
+A.7: Vérifier que, dans cette position de verrouillage, la vitesse de translation p du plateau mobile (5) par rapport au bâti (0) est nulle (p = 0)
+A.2 Étude dynamique On se propose de déterminer les efforts transmissibles par Yéquipage mobile pendant la phase de fermeture et de verrouillage, en considérant lhypothèse H2 page (7/10) du dossier "Mise en situation, Données et Hypothèses' A.8: Les efforts extérieurs appliqués sur le solide (2) par le solide (1) en B et par le solide (3) en D sont notés respectivement par FB et FD : En appliquant le théorème de la résultante dynamique_ au solide (2) au cours de son mouvement par rapport au bâti (0) montrer que 7B
+b. En appliquant le théorème du moment dynamique, au point B, au solide (2) au cours de son mouvement par rapport au bâti (0), déduire la ligne daction des deux forces FB et Fp?
+Exprimer FB et Fp dans la base (42,72,Z0  en fonction de FB (intensité de FB).
+FB
+et FD
+A.9: On cherche à déterminer lintensité FB de la force FB.
+En considérant le graphe - ci-contre représentant le bilan des actions mécaniques extérieures appliquées au solide (1), écrire les torseurs associés à ces actions en leur point dap- plication Les exprimer dans la base Bo(70,70,20) .
+vérin
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 6/21
 
+--- page 24 ---
+Concours Technologie
+Partie A : MSI: & RDM.
+Document Réponses
+b. Écrire les équations scalaires qui découlent du théorème de la résultante dynamique ap- pliqué au solide (1) au cours de son mouvement par rapport au bâti (0). En déduire Vin- tensité FB en fonction de lintensité Fv de laction du vérin sur (1) et de langle &.
+FB
+A.10: Détermination de lintensité FE de Yaction du solide (3) sur le solide (4) au point E. Par analogie avec létude précédente, on montre que lexpression vectorielle de leffort FE s'exprime en fonction de son intensité par FE FE74. Donner Yexpression de leffort FF exercé au point F par le plateau mobile (5) sur le solide (4) en fonction de FE
+FF
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 7121
 
+--- page 25 ---
+Concours Technologie
+Partie A MSI. & RDM.
+Document Réponses
+b Écrire les torseurs des actions mécaniques extérieures appliquées au plateau mobile (5) en leur point d'application: Les exprimer dans la base Bo(7o, 70, Z0).
+Écrire les équations scalaires issues du théorème de la résultante dynamique appliqué au plateau mobile (5) au cours de son mouvement par rapport au bâti (0) en projection sur la base Bo(70,%0,Z0)
+d. Déduire Yexpression de lintensité FE en fonction de (f , M, 8, Y et ji)
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2020
+Page : 8/21
 
+--- page 26 ---
+Concours Technologie
+Partie A MSI & RDM
+Document Réponses
+FE
+A.1l: Détermination de lintensité de Yeffort Fv transmis par la pression du vérin au solide (1) Écrire les torseurs des actions mécaniques extérieures appliquées au solide (3) en leur point d'application. Les exprimer dans la base Bo(z0,70,z0
+b En appliquant le théorème de la résultante dynamique au solide (3) au cours de son mou- vement par rapport au bâti (0), déterminer en fonction FE, Fv et & , Yexpression vectorielle de Fc (effort exercé par le bâti (0) sur le solide (3) au point C : 7c 7o3)
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 9121
 
+--- page 27 ---
+Concours Technologie
+Partie A MSI & RDM
+Document Réponses
+7c
+Écrire léquation scalaire qui découle du théorème du moment dynamique, au Point C, appliqué au solide (3) au cours de son mouvement par rapport au bâti (0) qui exprime Fv en fonction de FE et les paramètres (~ , B, Y, c et d) .
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2020
+Page : 10/21
 
+--- page 28 ---
+Concours Technologie
+Partie A MSI & RDM
+Document Réponses
+Fv
+d. Déduire lexpression de Fv en fonction de (f , M, 8, ü, œ B, Y, c et d)
+Fv
+Déduire de nouveau Fv en fonction de (f , M, g, ü) et du rapport des vitesses (p/ À) .
+Fv
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 11/21
 
+--- page 29 ---
+Concours Technologie
+Partie A MSI & RDM.
+Document Réponses
+Pour les trois étapes I, II et III du cycle de fermeture du moule (Figure 7), donner lex- pression de laccélération ji en fonction de la vitesse V et du temps Étape 
+Étape II
+Étape III
+412] Sachant que pendant la phase dinjection, laction combinée de verrouillage et din- jection sur le plateau mobile (5) (notée P;) en son centre d'inertie G, est modélisée par le torseur ~Fixo {7 (P-+5)}c = { 0 donner lexpression de FE en fonction de (F; et y):
+FE
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 12/21
 
+--- page 30 ---
+Concours Technologie
+Partie A MSI & RDM
+Document Réponses
+A.3 Résistance des matériaux
+A.13: Déterminer les composantes du torseur de cohésion tout au long de la ligne moyenne de la poutre (C,E). Préciser le type de sollicitations simples.
+Zone 1
+< x
+{Jcoh} G
+Types de sollicitations simples
+Zone 2 :
+< x <
+{Jcoh} G
+Types de sollicitations simples
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2020
+Page : 13/21
 
+--- page 31 ---
+Concours Technologie
+Partie A MS.I. & RDM
+Document Réponses
+A.14: Étude de la résistance de la poutre au moment fléchissant Tracer le diagramme du moment fléchissant Al fz
+Mt fz( Nm)
+100
+200
+300 x(mm)
+b. Dans quelle section droite de la poutre le moment fléchissant Ml fz est maximal ? Donner sa valeur absolue M fz max
+M fz max|
+En appliquant le critère de résistance à la contrainte normale en flexion; calculer les di- mensions minimales de la section (S H x e)min Pour ce calcul on prendra comme hypothèse
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 14/21
 
+--- page 32 ---
+Concours Technologie
+Partie A MSI & RDM
+Document Réponses
+A.15: Étude de la résistance de la poutre à l'effort normal Tracer le diagramme de leffort normal N. N(N)
+100
+200
+300' 'x(mm)
+b. Dans quelle section droite de la poutre Yeffort normal N est maximal ? Donner sa valeur absolue :| Nmax [
+INmax |
+Pour la section (S = H x e)min calculée précédemment; vérifier la condition de résistance à leffort normal et conclure
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 15/21
 
+--- page 33 ---
+Concours Technologie
+Partie B : Automatique
+Document Réponses
+B.6: En déduire les expressions de (ko, wo, Te et 3 ) en fonction de (R, L, ke' ms' fs et ks)
+B.7: Déterminer les paramètres (Te' ko, wo et 3) de la fonction de transfert T1 (p) sachant que ks 10 N/m, ke 10 N/A, L 0.1 H, ms 0.4 Kg, fs 2.8 N.s/m et R 10 0
+B.8: En négligeant l'inductance du solénoïde; montrer que la fonction de transfert de Yen- semble {solénoïde; tiroir} est donnée par
+25
+T2(p) (p2 +7p + 25)
+Commande du système électro-hydraulique Le système de commande est donné par le schéma fonctionnel suivant
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 17/21
 
+--- page 34 ---
+Concours Technologie
+Partie B : Automatique
+Document Réponses
+Pc(p)
+e(p) U(p) C(p) T2(p)
+P1 (p)
+P(p)
+kv
+kb
+Pc(p) et e(p) désignent respectivement la consigne et le signal d'erreur: On supposera que le produit kv kb IN m3 On cherche à concevoir un correcteur C(p) permettant de garantir au système les perfor- mances suivantes
+performances stabilité précision
+exigences système stable erreur statique de position unitaire nulle
+Cas dun correcteur proportionnel C(p) = K B.9: Pour quelles valeurs de K, le système est stable en boucle fermée ?
+B.1O: Déterminer lerreur statique de position unitaire en fonction de K, faire Yapplication numérique pour K = 10.
+Concours nationaux d'entrée aux cycles de formation d Vingénieurs
+Session 2020
+Page : 18/21
 
+--- page 35 ---
+Concours_Technologie
+Partie B : Automatique
+Document Réponses
+B.11:] Pour cette même valeur de K calculer le dépassement et le temps de pic.
+B.12] Conclure quant aux performances obtenues par ce correcteur:.
+Cas dun correcteur intégral C(p) 90
+B13] Avec ce correcteur peut-on assurer une erreur statique de position nulle? Conclure quant à lefficacité de ce correcteur pour ce système:
+Cas dun correcteur C(p) = K1 p+K2)  où K1 et Kz sont des constantes positives p B.14: De quel type de correcteur s'agit-il? Donner ses paramètres caractéristiques.
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 19|21
 
+--- page 36 ---
+Concours Technologie
+Partie B : Automatique
+Document Réponses
+B.15: Étudier la stabilité du système en boucle fermée en fonction de K1 et Kz, en déduire le domaine de stabilité dans le plan K2 f (K1) ;
+B.16: ] Déterminer les erreurs statiques de position et de vitesse unitaires
+B.17: Conclure quant aux performances garanties par ce correcteur dans ce cas de figure.
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2020
+Page : 20/21
 
+--- page 37 ---
+Concours Technologie
+Partie B Automatique
+Document Réponses
+B.2 Étude séquentielle du système dinjection B.18: Compléter le grafcet de point de vue commande du système d'injection ci-dessous
+1 3
+8
 
- 
- 
+5
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 21/21
 
- 
- 
+--- page 38 ---
+République Tunisienne
+Signature des enseignants
+MINISTERE DE LENSEIGNEMENT SUPERIEUR ET DE LA RECHERCHE SCIENTIFIQUE
+Concours Nationaux d'Entrée aux Cycles de Formation dIngénieurs
+Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs
+Session 2020 Concours Technologie
+Session 2020 Concours Technologie Epreuve de Systèmes Techniques Automatisés Date Samedi 18 Juillet 2020 à 8h
+Epreuve de Systèmes Techniques Automatisés Date Samedi 18 Juillet 2020 à 8h Durée 3 Heures
+Durée 3 heures
+Nom
+Prénom
+Date & lieu de naissance
+Etablissement dorigine N' CIN ou N? du Passeport pour les étrangers
+Série :
+Identifiant
+JC' Nombre de NE RIEXÉCRIRE cahiers remis 01
+1C' NE RIENÉCRIRE
+Nombre de cahiers remis
+01
 
- 
- 
+--- page 39 ---
+Dossier
+DOCUMENT REPONSES
+Ce dossier comporte 21 pages numérotées de 1 à 21
+Partie A Mécanique des Solides Indéformables & Résistance des Matériaux
+pages de 1 à 15
+Partie B - Automatique
+pages de 16 à 21
+Un seul dossier réponse est fourni au candidat et doit être rendu à la fin de Yépreuve, en totalité, même sans réponses_ Le renouvellement ou la reproduction de ce dossier sont strictement interdits.
 
- 
- 
+--- page 40 ---
+Concours Technologie
+Partie A MSI. & RDM
+Document Réponses
+Partie A : Mécanique des Solides Indéfor- mables Nota Les parties A.2 et ?? peuvent être traitées indépendamment Vune de lautre. A.1 Étude Cinématique L'objectif de Yétude cinématique consiste à établir la loi entrée-sortie des vitesses (relation exprimant le rapport des vitesses (p/À) en fonction des paramètres géométriques du méca- nisme) . A.l: Déterminer; dans la base Bo(=o, J0,20) , les torseurs cinématiques , dans leur mouve- ment par rapport au bâti (0), des solides suivants a. le solide (1) au point A
+0 Ào
+{71/o} A
+Bo
+{V1/o} A
+b le solide (2) au Point B, puis au point D
+àZo {"V2/0} B Àvo àzo Àvo +4z0 ^ Rvz = ÀFo- 4 Rayz
+{"2/0}D
+{"Y2/0}
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 1/21
 
- 
- 
+--- page 41 ---
+Concours Technologie
+Partie A : MSI. & RDM.
+Document Réponses
+Bo
+À = Ra sin a Ra cos &
+{"2/0}D
+c. le solide (3) au point D, en passant par C :
+Pzo {"3/o}D = P^CB Pzo (~dyj3) = dPv3
+Bo
+dpcos B dPsin B
+{73/0}D
+En déduire la vitesse angulaire à en fonction de (À, R, B et (a B))
+V De2/3 0 =+ V Dez/0 V De3/0 ainsi , par projection dans la base Bo(70,J0, Z0) on en déduit
+À = Ra sin & dpcos B Ra cos & dpsin B
+Ra cos a tan B = À = Rà sin a
+À tan B
+Àsin 6 Rcos(a B)
+4 à = R(cos a + tan B sin a )
+Àsin 6 Rcos B)
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 2/21
 
- 
- 
+--- page 42 ---
+Concours Technologie
+Partie A MSI. & RDM
+Document Réponses
+b. la vitesse angulaire [ en fonction de (d , ^, (a = B) et À)
+Ra cos a P = dsin 6
+À cos & dcos B)
+À cos a dcos(a B)
+P
+A.3; Déterminer, dans la base Bo(7o, Jo, Z0) , les torseurs cinématiques, dans leur mouve- ments par rapport au bâti (0), des solides suivants a. le solide (3) au point E, en passant par C :
+Bzo
+{"s/o}E = (c + d)P7;
+(c +d)Pcos B (c +d)Psin B 0
+{Y3/o} E
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 3121
 
- 
- 
+--- page 43 ---
+Concours Technologie
+Partie A MSI & RDM.
+Document Réponses
+b le solide (4) au point F, en passant par E :
+7z0
+{Y4/o}F (c +d)Px;
+Au point F
+V Fe4/0
+Ee4/0 + 04/0 ^ EF = (c +d)PT; ~z0 ^ hy4 (c +d)Pæ; + hÿ74
+(c +d)Bcos B + hÿ cos Y (c + d)Psin B = h) sin Y
+{"4/o}F
+c. le solide (4) au point F en fonction de ^ et j :
+Fe4/0
+Fe4/5 + V Fe5/0 = V Ge5/0 = ùo
+}'
+{"4/0}F
+A.4: En déduire les relations exprimant la vitesse de translation, |, du plateau mobile (5) par rapport au bâti (0) en fonction de (c , d,h, B, P,  Y et Ÿ) Par projection de Fe4/0 sur 70 on en déduit : | (c +d)Bcos B + hj cos Y
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 4/21
 
- 
- 
+--- page 44 ---
+Concours Technologie
+Partie A : MSI. & RDM.
+Document Réponses
+ù
+(c +d)Bcos B + hy cos y
+b Vaccélération j, de (5) par rapport au bâti (0), en fonction de (Ë, P, B, ÿ, 9, Y, c, d et h) Par dérivation par rapport au temps de la vitesse | (c +d)Pcos B + hÿ cos Y on aura j = (c +d) |Bcos $ - P? sin B| + h ÿ cos 1 - ?sin 2]
+ji = (c +d) [Pcos B = P? sin B] + h [ÿ cos Y = ~2sin y]
+C.la vitesse angulaire ~ en fonction de (c, d,h, B, B et Y)
+Par projection de Fe4/0 sur Jo on en déduit = 0 = (c + d)Psin 6 = hÿ sin y
+7 (c + d)sin Êp hsin Y
+A.5: Déduire le rapport des vitesses (p/1) en fonction de (c, d, 4, B, et %) (c + d) sin 6 On a : 3 = (c + d)Pcos B + Ivj cos Y et ~ B ainsi hsin Y (c + d)Pcos B + hcos Y (c+d) sin 6 P (c+d) j' = [cos B sin Y + cos 7 sin P] P h sin Y sin y (c + d) sin(B+2p sin 7 icos a (c + d) sin(B + Y) cos a (c + d) sin(6 + 7) cos a Or P Doù À = dcos(a B) dsin 7 cos(a B) dsin 7 cos(a 6)
+1 1
+(c +d) sin(6 + 7) cos & dsin y cos(a B)
+A.6:
+Donner la relation entre les valeurs critiques Bc et Yc (des angles B et réalisant Talignement des points C, E et F (position de verrouillage du moule) Lalignement des points C, E et F entraîne J3 ~J4 5 js AJ4 = 0 = sin(B + %) = 0 = B +7 = 7
+Bc + Yc
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 5121
 
- 
- 
+--- page 45 ---
+Concours Technologie
+Partie A : MSI & RDM.
+Document Réponses
+A.7: Vérifier que, dans cette position de verrouillage, la vitesse de translation j du plateau mobile (5) par rapport au bâti (0) est nulle (p 0) Pour cette situation sin(Bc + Yc) = 0 = @ = 0 ils'en suit ù = 0
+A.2 Étude dynamique On se propose de déterminer les efforts transmissibles par léquipage mobile pendant la phase de fermeture et de verrouillage, en considérant Vhypothèse H2 page (7/10) du dossier "Mise en situation, Données et Hypothèses' A.8: Les efforts extérieurs appliqués sur le solide (2) par le solide (1) en B et par le solide 3) en D sont notés respectivement par FB et FD En appliquant le théorème de la résultante dynamique_au solide (2) au cours de son mouvement par rapport au bâti (0) , montrer que FB ~FD
+9(2+2) = 0 9(1-2) + 9/(3-2) = FB = -FD
+b. En appliquant le théorème du moment dynamique, au point B, au solide (2) au cours de son mouvement par rapport au bâti (0), déduire la ligne daction des deux forces FB et Fp ?
+77B(2-+2) = 0 = 78(1+2) + 77B(3-+2) = 0 = BDA FD = 0 = BBIlFD Ainsi, la ligne daction des deux forces FB et FD est la droite (BD)
+Exprimer FB et Fp dans la base (72, 72, Z0 en fonction de FB (intensité de FB).
+Daprès ce qui précède FB
+FD = FB72
+FB
+FBX2
+et
+FD
+~FB42
+A.9:
+On cherche à déterminer Fintensité FB de la force FB.
+En considérant le graphe ci-contre représentant le bilan des actions mécaniques extérieures appliquées au solide (1), écrire les torseurs associés à ces actions en leur point dap- plication. Les exprimer dans la base Bo(7o,Jo,Z0) .
+vérin
+Bo
+~FB cos & FB sin &
+Action de (2) sur
+en B : {9(2-1)}B
+~FB72
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2020
+Page : 6/21
 
- 
- 
+--- page 46 ---
+Concours Technologie
+Partie A MSI & RDM
+Document Réponses
+Bo
+~FB cos a FB sin &
+Action de (2') sur (1) en B' ~FB72 {9(2+1)}B = 0
+Bo
+Action de (0) sur (1) en A : { 9 7(0-+1)}A
+Yo1 0
+No1 Fv 0
+Bo
+Action du vérin sur (1) en A : {9 (vérin -1)} A
+b. Écrire les équations scalaires qui découlent du théorème de la résultante dynamique ap- pliqué au solide (1) au cours de son mouvement par rapport au bâti (0) En déduire Vin- tensité FB en fonction de lintensité Fv de Yaction du vérin sur (1) et de langle a.
+m(-1) =0 = 9(2-1) + 9(2+1) + 9(0-1) + M (vérin-1) = 0 Ainsi par projection sur 7 : Fv Fv 2FB cos a = 0 = FB = 2cos & par projection sur Jo Yo1 = O
+Fv 2cos &
+FB
+4.10: Détermination de Tintensité FE de Faction du solide (3) sur le solide (4) au point E Par analogie avec Yétude précédente, on montre que Yexpression vectorielle de Yeffort FE s'exprime en fonction de son intensité par 7E FEJ4. a. Donner Texpression de Yeffort FF exercé au point Fpar le plateau mobile (5) sur le solide (4) en fonction de FE
+7(4-4) = 0 = 9(3-4) + 9(5-+4) = 0 4 FE+ FF = 0 = 7F = -7E = ~FE04
+FF
+~FEJ4
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 7/21
 
- 
- 
+--- page 47 ---
+Concours Technologie
+Partie A MSI. & RDM
+Document Réponses
+b. Écrire les torseurs des actions mécaniques extérieures appliquées au plateau mobile (5) en leur point dapplication. Les exprimer dans la base Bo(zo,Jo, 20).
+Bo
+FE sin Y FE cos Y
+Action de (4) sur (5) en F {9(4-5)}F = F0
+Bo
+FE sin Y ~FE cos Y
+FEJ4 Action de (4') sur (5) en F' {9(4+5)}F' =
+Xo1 Yos
+Action de (0) sur (5) en I {9(0-5)}1
+Nos
+Bo
+Action de la pesanteur sur (5) en G : { 9(8-5)}G
+0
+Écrire les équations scalaires issues du théorème de la résultante dynamique appliqué au plateau mobile (5) au cours de son mouvement par rapport au bâti (0) en projection sur la base Bo(7o,J0, Z0)
+98(5+5) Mÿ7o par projection sur 7o : 2FE sin Y + Xos Mji par projection sur Ho Yos Mg > 0
+d Déduire Iexpression de lintensité FE en fonction de (f , M, 8 , Y et ji)
+On a 2FE sin Y + Xos Mji = 2FE sin y
+Mji Xos
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 8/21
+~Mg
 
- 
- 
+--- page 48 ---
+Concours Technologie
+Partie A MSI. & RDM.
+Document Réponses
+Or daprès la loi de Coulomb pour le frottement de glissement
+Xos
+~fYos
+~fMg Mli +fg) On en déduit 2FE sin Y Mji + fMg = FE 2sin Y
+Mlji + fg) FE = 2sin Y
+A.ll: Détermination de Vintensité de Yeffort Fv transmis par la pression du vérin au solide (1) a. Écrire les torseurs des actions mécaniques extérieures appliquées au solide (3) en leur point d'application. Les exprimer dans la base Bo(70,%0,Z0 )
+Bo
+Xo3 Action de (0) sur (3) en C{70-3}c = { 6 } ={ Yo3
+Action de (2) sur (3) en € FBT2 FB cos a {9(2-3)}D 439 } = { ~72 ={ ' < } FB sin &
+Bo
+Action de (4) sur (3) en € {9(4-3)}E @0-9) } ={ ~""
+Bo
+FE sin Y FE cos Y
+b En appliquant le théorème de la résultante dynamique au solide (3) au cours de son mou- vement par rapport au bâti (0), déterminer en fonction FE, Fv et a, lexpression vectorielle de Fc (effort exercé par le bâti (0) sur le solide (3) au Point C : Fc = Fo3)
+Fv 2cos a
+9(5+3) = 0 = Fc ~FBT2 + FEJ4 avec FB
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 9/21
 
- 
- 
+--- page 49 ---
+Concours Technologie
+Partie A MSI. & RDM.
+Document Réponses
+doù
+Fv 42 + FE74 2cos a
+Fc
+Dans la base Bo
+Fv 4 FE sin Y 1o + 2
+Fv tan a + FE cos Jo 2
+Fc =
+Fv 12 + FEJ4 2cos a
+Fc
+Écrire léquation scalaire qui découle du théorème du moment dynamique, au point C appliqué au solide (3) au cours de son mouvement par rapport au bâti (0) qui exprime Fv en fonction de FE et les paramètres (a, 6, Y, c et d)
+Fv 7c(5-3) = 0 = 42 ^ dy3 FEJ4 (c + d)y; = 6 2cos a d cos(B a)Fv ~ (c + d) sin(B + Y)FE | Z = 6 2cos a on en déduit (c + d)2cos & sin(f+2LFE Fv d cos(B
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2020
+Page : 10/21
 
- 
- 
+--- page 50 ---
+Concours Technologie
+Partie A MSI & RDM.
+Document Réponses
+(c +d)2cos & Fv sin(f+2LFE d cos( 6
+d Déduire Vexpression de Fv en fonction de (f , M, 8, ji, a , [, Y, c et d)
+M(ü + fg Nous avons FE 2sin Y en Finjectant dans la relation précédente on aura
+(c + d) cos a sin(B + 2) Fv M(ü + fg) dsin Y cos(B
+(c + d)cos a sin(B+22 M(ji + fg) dsin Y cos(B
+Fv
+Déduire de nouveau Fv en fonction de (f , M, 8, ji) et du rapport des vitesses (p/1) .
+(c + d) cosa sin(B+2) = ù D'après Vétude cinématique dsin Y cos(B = & ) par suite Fv = #M(j + fg) 1
+Fv =
+PM(ji - À + fg)
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2020
+Page 11/21
 
- 
- 
+--- page 51 ---
+Concours Technologie
+Partie A MSI. & RDM
+Document Réponses
+Pour les trois étapes I, II et III du cycle de fermeture du moule (Figure 7), donner Yex- pression de Yaccélération ji en fonction de la vitesse V et du temps. Étape
+j = v t1
+Étape  II
+ji = 0
+Étape III
+V ji = t3 = t2
+412] Sachant que pendant la phase d'injection, Yaction combinée de verrouillage et d'in- jection sur le plateau mobile (5) (notée P;) en son centre d'inertie G, est modélisée par le torseur ~FiFo {J(P-5)}g = 6
+donner ]expression de FE en fonction de (Fi et Y) Au moment de lopération dinjection, Tapplication du théorème de la résultante dy namique au solide (5) en équilibre par rapport au bâti (0) en projection sur 7o donne 2FE sin y Fi = 0
+Fi 2sin y
+FE
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 12/21
 
- 
- 
+--- page 52 ---
+Concours Technologie
+Partie A : MSI & RDM.
+Document Réponses
+A.3 Résistance des matériaux
+A.13: Déterminer les composantes du torseur de cohésion tout au long de la ligne moyenne de la poutre (C, E). Préciser le type de sollicitations simples. Zone 1 : 0 < x 200
+383822 ~20933
+{Jcoh} G
+{9(0-+3)}G
+20933x
+383822 20933
+{Jcoh} G
+20933x
+Types de sollicitations simples Compression avec N 383822 N et flexion simple dans le plan(G,7,j) avec Ty 20933 N et ./l fz(x) = 20933 N.mm
+Zone 2 : 200 < x 300 mm
+399232 41866
+{Jcoh}G = + {9(4-3)}g
+~41866(300 _ x)
+399232 741866
+{Jcoh}G
+741866(300 x)
+Types de sollicitations simples
+Compression avec N = ~399232 N. Flexion simple plane dans le plan (G,4,J) avec Ty et .  fz(x) ~41866(300 x) Nmm.
+41866 N
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 13/21
 
- 
- 
+--- page 53 ---
+Concours Technologie
+Partie A MSI. & RD.M
+Document Réponses
+A.l4: Étude de la résistance de la poutre au moment fléchissant Tracer le diagramme du moment fléchissant ./l fz
+At fz ( Nm)
+100
+200
+300 x(mm)
+4186,6
+b Dans quelle section droite de la poutre le moment fléchissant ./ fz est maximal ? Donner sa valeur absolue Mt fz max
+La section de centre D(x = 200 mm)
+IAt fz max
+4186,6 Nm
+En appliquant le critère de résistance à la contrainte normale en flexion; calculer les di- mensions minimales de la section (S H X e)min Pour ce calcul on prendra comme hypothèse e 4 Utfz ma1 Te Omax k+ - < Rpe (IG,z(S)/v) eH3 H H4 H avec Ic,z (S) e = 4 Ic,2(S) et v = 12 2 24 2 H3 doù (IGz(S)/v) 12 ainsi
+12sk+| /t fz max H > Te
+12 x 2 x 2,5 x 4186600 1275
+58,188 mm
+et
+e 29,09 mm
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 14/21
 
- 
- 
+--- page 54 ---
+Concours Technologie
+Partie A MSI. & RDM
+Document Réponses
+A.15: Étude de la résistance de la poutre à Yeffort normal. Tracer le diagramme de effort normal N. N(N)
+100
+200
+300 X(mm)
+383822 399232
+b. Dans quelle section droite de la poutre leffort normal N est maximal ? Donner sa valeur absolue : | Nmax
+Leffort normal est maximal dans les sections entre x = 200 et x 300 mm
+[Nmax
+399232 N
+c. Pour la section (S H x e)min calculée précédemment, vérifier la condition de résistance à leffort normal et conclure_
+399232
+Te
+Nmax Umax kt 2,5 x 589,56 MPa< Rpe Smin 58,188 x 29.09
+637,5 MPa
+la condition Omax Rpe est vérifiée = La poutre résiste à leffort normal maximal.
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2020
+Page 15/21
 
- 
- 
+--- page 55 ---
+Concours Technologie
+Partie B Automatique
+Document Réponses
+Partie B : Automatique B.1 Étude de lasservissement du vérin électro-hydraulique d'injection B.l: Écrire les équations (1) et (2) décrivant le fonctionnement du solénoïde dans le domaine de Laplace.
+4 F(p) = keI(p) 4 (R+ Lp)I(p) = U(p)
+B.2: En déduire la fonction de transfert G1 (p) = 4P.
+F(p) ke G1 (p) U(p) R + Lp
+B.3: Écrire Yéquation (3) décrivant le mouvement du tiroir de la servovalve dans le do- maine de Laplace.
+(3) = (msp? + fsp + ks)Z(p) = F(p)
+B.4: En déduire la fonction de transfert G2(p)
+Z(p) F(p)
+Z(p) G2(p) F(p) msp2 + fsp + ks
+B.5: Montrer que la fonction de transfert de Vensemble {solénoïde, tiroir} est de la forme
+Z(p) kow? T1 (p) U(p) (1 + Tep)(p2 + 2Zwop + 03)
+ke Z(p) F(p) Rms Ti(p) F(p) U(p) (1 + fsp + ks RP) (p? + Ms Ms
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 16/21
 
- 
- 
+--- page 56 ---
+Concours Technologie
+Partie B : Automatique
+Document Réponses
+B.6: En déduire les expressions de (ko, (O, Te et ; en fonction de (R, L, ke, ms, fs et ks)
+kowg ke Rmts Te L/R "3 ks / ms 2çwo fs/ms
+Wo
+Vks Mls
+Te = L/R
+ko = ke/ ksR
+0.5fs msks
+B.7: Déterminer les paramètres (Te, ko, w0 et ?) de la fonction de transfert T1(p) sachant que ks 10 N/m, ke 10 N/A, L 0.1 H, ms 0.4 Kg' fs 2.8 N.s/m et R 10 @
+= 0, Ols
+ko = 0,1
+W0 = 5 rd /s
+g = 0,7
+B.8: En négligeant Vinductance du solénoïde, montrer que la fonction de transfert de Yen- semble {solénoïde, tiroir} est donnée par
+2.5
+T2(p) (p2 + 7p + 25) 0,1 x 25 si L = 0 = T2(p) = soit p2 + 2 x 0,7 x 5p + 25
+2.5
+T2 (p) (p2 + 7p + 25)
+Commande du système électro-hydraulique Le système de commande est donné par le schéma fonctionnel suivant
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 17/21
 
- 
- 
+--- page 57 ---
+Concours Technologie
+Partie B : Automatique
+Document Réponses
+Pc(p
+U(p) C(p) Tz(p)
+Pi (p)
+P(p)
+kv
+kb
+Pc(p) et e(p) désignent respectivement la consigne et le signal d'erreur: On supposera que le produit : kv kb IN m3 On cherche à concevoir un correcteur C(p) permettant de garantir au système les perfor - mances suivantes
+performances stabilité précision
+exigences système stable erreur statique de position unitaire nulle
+Cas dun correcteur proportionnel C(p) = K B.9: Pour quelles valeurs de K, le système est stable en boucle fermée ?
+p2 + 7p +25 + 2,5K =0le système est stable si et seulement si
+25 + 2,5K > 0
+soit K > -10
+B.10:
+Déterminer lerreur statique de position unitaire en fonction de K, faire Vapplication numérique pour K 10.
+2, 5K
+ETBO. T(p) p2 + 7p + 25 25 système de classe 0 = €p(œ) 25 + 25K pour K = 10 = €p(o) = 0,5
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2020
+Page : 18/21
 
- 
- 
+--- page 58 ---
+Concours Technologie
+Partie B : Automatique
+Document Réponses
+B.ll: Pour cette même valeur de K calculer le dépassement et le temps de pic.
+25
+FTBF
+H(p) p2 +72 + 50 Wo 50 rd / s g = 0,5 2v50 T . 0,5 D% 100exp = 16,3% Vi = 0,52 tpic 0,51s 50(1 0,52)
+B.12:
+Conclure quant aux performances obtenues par ce correcteur:
+Correcteur non performant car Yerreur statique de position unitaire n'est pas nulle.
+Cas dun correcteur intégral C(p) 90
+B.13: Avec ce correcteur peut-on assurer une erreur statique de position nulle ? Conclure quant à lefficacité de ce correcteur pour ce système. 225 FTBO. T(p) p(p2 + 7p + 25 Yintroduction dune intégration dans la boucle entrave à la stabilité du système, d'où la nécessité de la vérifier en premier lieu. L'équation caractéristique est p3 + 7p2 + 25p + 225 la première condition de Routh est vérifiée. le tableay de Routh p 25 p- 225 le système est donc instable avec ce correcteur intégral p ~7,14 p 225 Comme la stabilité n'est pas vérifiée on ne peu tolérer ce correcteur:
+Cas dun correcteur C(p) = K1 p+Kz) où K1 et Kz sont des constantes positives
+B.14: De quel type de correcteur s'agit-il ? Donner ses paramètres caractéristiques. p +Kz) C(p) = K1 = K1 (1 + Kz) il s'agit < dun correcteur PI avec Kp = K1 et Ki = Kz p p ou bien C(p) = Kp + ce qui fait Kp = K1 et = K1Kz
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 19/21
 
- 
- 
+--- page 59 ---
+Concours Technologie
+Partie B : Automatique
+Document Réponses
+Bis] Étudier la stabilité du système en boucle fermée en fonction de K1 et Kz, en déduire le domaine de stabilité dans le plan Kz = f (K1) ;
+2, 5K1 (p + Kz) FTB.O. T(p) p(p? +7p + 25)
+Léquation caractéristique : p3 + 7p2 + (25 + 2,5K1)p + 2,5K1Kz = 0
+La condition de Routh K1Kz 0 ; 25 + 2, 5K1 > 0 = K1 > OK2 > 0 condition déjà vérifiée
+Le tableau de Routh
+p3 25 + 2,5K1 p2 2, 5K] Kz p 25 + 2, 5K1 0,3571K1 Kz 2o 2.5K1Kz
+Le système est stable si et seulement si 70 25 + 2,5K1 0,3571K1K2 > 0 = Kz < + 7 K1
+70 F 7 Ka
+B.16:
+Déterminer les erreurs statiques de position et de vitesse unitaires.
+2,5K1 (p + Kz_ ETBO. : T(p) p(p? 4 7p + 25) Le système est de classe 1 = €p(o) = 0 10 €v(0 K]Kz
+B.17:
+Conclure quant aux performances garanties par ce correcteur dans ce cas de figure:
+Ce correcteur satisfait les performances recherchées.
+Concours nationaux d'entrée aux cycles de formation d 'ingénieurs
+Session 2020
+Page 20/21
+
+--- page 60 ---
+Concours Technologie
+Partie B : Automatique
+Document Réponses
+B.2 Étude séquentielle du système dinjection B.1S: Compléter le grafcet de point de vue commande du système d'injection ci-dessous
+Dcy p . 92
+01
+02
+03
+2
+RI
+R2 R3
+01 02 03
+KMI
+91
+KVI
+KV2
+92
+10s X6
+p
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2020
+Page 21/21

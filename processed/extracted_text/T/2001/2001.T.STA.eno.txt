@@ -1,29 +1,454 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de PEnseignement Supérieur
+Concours Nationaux dEntrée aux Cycles de Formation d'Ingénieurs Session Juin 2001
+Concours de Préparation Technologique Épreuve de Sciences et Techniques de FIngénieur Durée 5 Heures Date 11/06/2001 Heure :8HOO Nbre pages 29 Doc 1 , 2 et 3 Barème Partie A 12 points Partie B : 5 points Partie € : points
+Aucun document n'est autorisé
+Les   différentes   parties de lépreuve sont   indépendantes. Les   parties (Technologie de Conception et Technologie de Production), B (Mécanique) et C (Automatique) doivent être traitées sur des copies indépendantes. Les documents réponses (de la page 3/29 la page 22/29 et le Document 2) seront rendus avec la copie correspondante. Wnstitut (Prepsratgife _ SYSTEME DE CLIMA TISA TION BIBLCITKEQUE ) 2 DPUNE AUTOMOBILE Wugbin 6 SFAX Mise en situation Le climatiseur dune automobile fonctionne comme un réfrigérateur domestique compression. L'air chaud venant de lextérieur par l'intermédiaire dun circuit de traitemert d'air se refroidit en traversant un circuit de réfrigération: L'air traverse une série de bobines situées devant la place du passager que Yon appelle "évaporateur"_ à lintérieur duquel circule un fluide réfrigérant qui doit bouillir à une température de -259C. L'arrivée de cet air refroidi dans lhabitacle est modulée en fonction de la température souhaitée Le fluide réfiigérant, qui change d'état (gazeux ou liquide), de pression et de température dans les différentes zones dun circuit  de réfrigération;   génère un   phénomène de transfert   de chaleur. Les différents composants (Fig: 1) de ce circuit sont a)Le compresseur Le compresseur, entraîné par le moteur du véhicule par l'intermédiaire dune courroie et dun embrayage électromagnétique; aspire le réfrigérant  gazeux à basse pression et à basse température pour le comprimer. Cette compression élève la température du gaz (1189C) qui est ensuite refoulé vers le condenseur . Les   cycles de rotation du compresseur sont régulés par un thermostat "b)Le condenseur Le condenseur est un échangeur thermique placé le plus souvent devant le radiateur, il permet de transformer le fluide gazeux haute pression|en fluide liquide haute pression. Ce changement d'état (gazeux-liquide) est favorisé par une ventilation forcée (électro- ventilateurs   axiaux)   spécialement   asservie Le condenseur a pour but 'd'évacuer la chaleur   prélevée   dans   l'habitacle par un échange   calorifique entre  lair et  le fluide réfrigérant. c)Le réservoir déshydrateur
+Concours Technologie Session Juin 2001
+Épreuve de STI
+Page 1/29
 
+--- page 2 ---
+Situé à la sortie du condenseur, ce réservoir absorbe les à-c coups dus débit de fluide créées par le cycle du aux variations du la soupape de détente compresseur et permet d'alimenter en permanence en liquide Il permet aussi de filtrer_le liquide réfrigérant absorber les éventuelles traces d'humidités et impuretés qui pourraieae subsigée pour circuit. Il est généralement équipé dun pressostat de sécurite dans le fonctionnement en cas danomalie de qui neutralise le cycle de pression dans le circuit. d)Le détendeur Situé à l'entrée de l'évaporateur, ce détendeur permet de réduire la pression du réfrigérant et de régler le débit. fluide A la sortie du détendeur, le gaz et de liquide réfrigérant est un mélange de e) L'évaporateur L'évaporateur a pour rôle dabaisser la température et l'humidité de Fair ambiant arrive dans l'habitacle par Fintermédiaire d'un circuit de traitement dair, qui par un phénomène d'évaporation rapide du fluide Ceci est obtenu réfrigérant. Le fluide se trouve alors à nouveau à l'état de gaz basse pression   Il est ensuite aspiré par le compresseur pour un nouveau cycle
+Evaporateur
+Yentllation lrce
+[conpresseur
+0Mi
+Iherodal
+{endeur
+Condenseur
+dEFEraceu'
+&rgzane de
+Figure 1 : Circuit de réfrigération d'une automobile
+Concours Technologie Session Juin 2001
+Épreuve de STI
+Page 2/29
 
+--- page 3 ---
+République Fanisiennc Ministère de FEnseignement Supérieur
+Concours Nationaux d'Entréc aux Signatures des surveillants Cycles de Formation d'Ingénieurs Session juin 2001 Concours : Technologie Epreuve STI
+Nom
+Prénom Série
+Identification
+PARTIEA TECHNOLOGIE DE CONCEPTION TECHNOLOGIE DE PRODUCTION
+AI)ANALYSE FONCTIONNELLE On s'intéresse dans cette partie à létude du circuit de réfrigération:
+A.L.1) Le schéma de la figure 2 donne une représentation simplifiée du circuit de réfrigération dune automobile. En se basant sur la description de ce système; pour les différents points du circuit   de réfrigération; compléter le tableau   suivant en mettant une croix dans   la case correspondante.
+Fluide réfrigérant Gazeux Haute Basse Haute Basse pression pression température L température
+Points
+Liquide
+B
+D
+Condenseur
+B
+Réservoir déshydrateur
+Compresseur
+Détendeur
+Evaporateur
+Figure 2 Schéma du circuit de réfrigération
+Concours Technologie Session Juin 2001
+Épreuve de STI
+Pagc 3/29
 
+--- page 4 ---
+N e r ie n é c r ir e i c i
+4.1.2) En se basant sur la description du circuit de réfrigération d'une automobile; compléter les actigrammes suivants
+a) vactigramme A-0
+Air chaud ct humide
+Air froid et déshumidifié
+Circuit de réfrigération dune automobile
+b)  Lactigramnme Ao
+Compresseur
+Condenseur et ventilateur
+Réservoir déshydrateur
+Détendeur
+Evaporateur
+Concours Technologie Session Juin 2001
+Épreuve de STI
+Page 4/29
 
+--- page 5 ---
+N e r ie n é c r ir e ic i
+A2LETUDE DE LA PARTIE _OPERATIVE (COMPRESSEURL Dans cette partie; on s'intéresse seulement à létude du compresseur   représente en coupe longitudinale; à l'échelle I:1, dans le plan (0,XpY) fixe par rapport au corps (1) (voir document 1) Ce compresseur est composé de cinq pistons (13) identiques, de diamètre 35 mm disposés axialement.  Lorsque la bobine (18) de l'embrayage  électromagnétique est   alimentée, le champs magnétique exerce un effort d'attraction sur la rondelle flasque (20) de /'embrayage pour ['adhérer sur la poulie (19) qui est alors accouplée avec l'arbre d'entrée (23). Le plateau came (2) et le plateau oscillant (3) transforment le mouvement de rotation continue de l'arbre dentrée  (23) en un mouvement de translation alternatif des pistons   (13) Le   repère (O,X Y 7 est   lié au plateau came (2) solidaire à larbre (23). Le plan incliné du
+plateau came (2) a pour normale X2 avec ( X1' Xz) =a. Le repère (0,Xp72,72 ) est lié à larbre dentrée (23) . NB Mesurer les cotes utiles sur le dessin densemble si-nécessaire
+A.2.1) Analyse technologique
+A.2.1.1) Compléter les figures suivantes par la représentation des clapets (10) et (12) ainsi que par ['indication; au moyen d'une flèche; du sens de circulation du fluide réfrigérant dans les deux cas suivants le compresseur est en phase d' admission, le_compresseur est en phase de refoulement.
+F2
+F2
+Fl
+Fl
+33
+33
+Phase d'admission
+Phase de refoulement
+Concours Technologic Session Juin 2001
+Epreuvc de STI
+Page 5/29
 
+--- page 6 ---
+N e r ie n é c r ir e i c i
+A.2.1.2)   Compléter les figures   suivantes d'embrayage (20), de la rondelle ressont par la   représentation de la rondelle flasque suivants (25) et de la rondelle butée (26) dans les deuxs cas la bobine (18) de lembrayage est alimentée; la bobine (18) de Fembrayage n'est pas alimentée.
+Bobine alimentée
+Bobine non alimentée
+Concours Technologie Session Juin 2001
+Épreuve de STI
+Page 6/29
 
+--- page 7 ---
+Républiquc Tunisienne Ministère de [Enscignement Supérieur
+Concours Nationaux d'Entrée aux [Signatures des surveillants ] Cycles de Formation d'Ingénicurs Session juin 2001 Concours Technologie Epreuve STI
+Nom
+Prénom Série
+Identification
+4.2.1.3) Compléter les figures suivantes par la représentation de la roue conique (4), dans le plan (0,X1Y1) et dans le plan (0,Xp,Z,) , quand ]'arbre moteur (23) a tourné dun quart de tour dans le sens direct (trigonométrique) par rapport à la position représentée sur le document 1_
+Représentation dans le plan (O,XpY1)
+Représentation dans le plan (0, 7p7; A.2.1.4) Donner la fonction de chacune des pièces indiquées dans le tableau suivant Pièce Fonction
+Pièce (33)
+Ressort (8)
+Clavette
+Rondelle ressort (25)
+Goupille élastique (30)
+Concours Technologic Session Juin 2001
+Épreuve de STI
+Page 7 7/29
 
+--- page 8 ---
+N e r ie n é c r ir e ic i
+42.1.5) Préciser lutilité de chacune des formes indiquées dans le tableau suivant
+Forme
+Utilité
+F
+Fz
+Fs
+F
+421.6) Quelle est la fonction de la vis (34)
+A2.1.7) Comment est assurée la lubrification des butées à aiguilles (22,37)
+A2.1.8) Quelle est la fonction de Pensemble des pièces situées dans la zone Fs ?
+9A-2.19 Donner le nom et la fonction de la pièce (35)
+A2.1.10) Comment est assurée la lubrification des roulements
+122.2) Etude des liaisons Cette étude est limitée à la configuration des pièces définies dans le dessin d'ensemble: A.2.2.1) Identifier les différentes-pièces de la classe d 'équivalence à laquelle appartient le corps (1). Cette classe d'équivalence sera repérée par la suite par le numéro de nomenclature (1).
+Concours Technologie Session Juin 2001
+Épreuve de STI
+Page 7 8/29
 
+--- page 9 ---
+N e r ie n é c r ir € i c i
+A.2.2.2) Donner té nom de la liaison de la poulie (19) avec (1) Préciser la solution technologique utilisée pour sa réalisation. Liaison L(19n) Solution technologique. A.2.2.3) Identifier   les   différentes   pièces de la classe & 'équivalence à laquelle appartient 'arbre (23) dans les deux phases de fonctionnement suivantes ~Phase d embrayage
+~Phase de débrayage.
+Cette classe déquivalence sera repérée par la suite par le numéro de nomenclature (23) 42.2.4) Donner le type de la liaison de (23) avec (1). Préciser la solution technologique utilisée pour sa réalisation. Liaison L(an)- Solution technologique. A2.2,5) Donner le type de la liaison de (32) avec (3). Liaison Lo2p) A2.2.6) Préciser le rôle de l'ensemble des pièces (4), (S) et (6)
+42.2.7) Quelle doit être alors la nature de lajustement au niveau de [assemblage cylindrique de (4) avec (32) ?_ 42.2.8) Quel est le type de la liaison de (3) avec (2), préciser la solution technologique utilisée pour sa réalisation et écrire le torseur cinématique associé dans la base (Xz+,7,) avec ses éléments de réduction au point Liaison Lon) Solution technologique. Torseur cinématique
+Concours Technologie Session Juin 2001
+Épreuve de STI
+Page 9/29
 
+--- page 10 ---
+N e r ie n é c r ir e i c i
+4.2.2.9) Donner le type de la liaison de (14) avec (3) préciser la solution technologique utilisée pour sa réalisation et écrire le torseur cinématique associé dans la base (Xv7= 2 ' 7,) avec ses éléments de réduction au point (J) Liaison L(*4n3) - Solution technologique Torseur cinématique
+A.2.2.10) Par une étude cinématique; déterminer   la liaison équivalente L(14/2) aux   deux liaisons L(3n2) et L(14n)
+A.2.2.11) Quel est le type de la liaison de (13) avec (14) ? préciser la solution technologique utilisée pour sa réalisation et écrire le torseur cinématique associé dans la base XL71,71) avec ses éléments de réduction au point Liaison 1l3/14). Solution technologique Torseur Cinématique.
+A.2.2.12) Quel est le type de la liaison de (13) avec Ecrire le torseur cinématique associé à cette liaison dans la base (X,71,71) avec ses éléments de réduction au point () Liaison L<u1s) Torseur Cinématique:.
+Concours Technologie Session Juin 2001
+Épreuve de STI
+Page 10/29
 
+--- page 11 ---
+République Tunisienne Ministère de FEnseignenent Sup érieur
+Concours Nationaux d'Entréc aux Signatures des surveillants Cycles de Formation d'Ingénieurs Session juin 2001 Concours Technologie Epreuvc STI
+Nom
+Prénom
+Identification
+Série
+A.2.2.13) Par une étude cinématique;   déterminer la liaison   équivalente  L(14) aux   deux liaisons L(13/14) et L(I13).
+A.2.2.14) En tenant   compte de lanalyse   précédente;   compléter   le schéma   cinématique minimal relatif à la chaîne fermée- 23
+23
+A.2.2.15) A ce niveau de lanalyse et en fonction du schéma cinématique représenté ci - dessus: 4.2.2.15.1) Montrer par une représentation schématique simplifiée que la bielle (14) n'est pas en équilibre: On suppose que toutes les liaisons sont parfaites:
+Concours Technologie Session Juin 2001
+Épreuve de STI
+Page 11/29
 
+--- page 12 ---
+N e rie n é c r ir e i c i A.2.2.15.2) En déduire le rôle de la pièce intermédiaire (3).
+A.2.3) Calcul du débit du compresseur A.2.3.1) Par une construction graphique dans le plan (0,XL,7) à léchelle 1:1, déterminer la course C du piston (13).
+50
+4.2.3.2) Calculer le volume de la cylindrée pour un seul piston (13).
+A.2.3.3) Sachant que la fréquence de rotation de la poulie (19) est de 3500 thmn, calculer le débit   du   compresseur en litres par minute   (on suppose que le fluide   réfrigérant est incompressible)_
+Concours Technologie Session Juin 2001
+Épreuve de STI
+Page 12/29
+170
 
+--- page 13 ---
+N e rie n é c r ir e i c i
+A.2.4) Etude de /embrayage A.2.4.1) Déterminer le couple Cm à transmettre par lembrayage sachant que la puissance motrice est Pm = 7,8 KW.
+A.2.4.2) Déterminer /effort presseur P exercé sur la poulie (19) en phase d' 'embrayage On donne le coefficient de frottement des surfaces frottantes de Fembrayage f0,3
+A2.4.3) Faire un schéma simplifié qui traduit léquilibre en translation de la rondelle flasque (20) en phase d' embrayage.
+A.2.4.4) Sachantque l'effor: exercé par la rondelle ressort (25) sur la rondelleflasque dembrayage (20) est R=200 N, déduire la force d'attraction magnétique F de la bobine (18) sur la rondelle flasque (20).
+Concours Technologie Session Juin 2001
+Épreuve de STI
+Page 13/29
 
+--- page 14 ---
+N e r ie n é c r ir e ic i
+A.2.4.5) La liaison complète du  plateau came (2) avec Varbre (23) est assurée par une goupille élastique (30). Vérifier la résistance au cisaillement  de la goupille supposée de section droite annulaire. On donne Résistance pratique au cisaillement du matériau de la goupille Rpg 150 N/mm Diamètre extérieur de la goupille Dg=Smm. Diamètre intérieur de la goupille dg=3mm
+A.2.5) Cotation fonctionnelle A.2.5.1) Donner les ajustements qualitatifs des assemblages indiqués dans le tableau suivant Assemblage Ajustement (17)/(19) (17)/(16) (21)/(23) (2)/(23) (6)/(1)
+A2.5.2) Tracer sur les  dessins   ci-dessous   les   chaînes   de côtes   minimales   relatives aux conditions Amin et BMax:
+35 23 23 23
+23 20 19
+19
+31
+18
+Bsla.
+Concours Technologie Session Juin 2001
+Épreuve de STI
+Page 14/29
 
+--- page 15 ---
+République Tuntsienne Ministère de [Enseignement Sup érieur
+Concours Nationaur d'Entrée aux Signatures des surveillants Cycles de Formation d'Ingénieurs Session juin 2001 Concours : Technologie Epreuve STI
+Nom
+Prénom Série
+Identification
+A.2.5.3) Quelle est [utilité de chacune de ces conditions_ Amin-
+BMax:
+A.2.5.4) Compléter le dessin de définition; ci-dessous; de l'arbre (23) par V'inscription des A.2.5.4.1) tolérances dimensionnelles (qualitatives) relatives aux assemblages fonctionnels et aux chaînes de cotes des conditions Amin et BMax, A.2.5.4.2) tolérances géométriques, A.2.5.4.3) états de surfaces
+Concours Technologie Session Juin 2001
+Épreuve de STI
+Page 15/29
 
+--- page 16 ---
+N e r ie n é c r ir e i c i
+A2.6) Etude de conception On se propose de modifier la conception du mécanisme d' 'embrayage assurant [entraînement en rotation de larbre (23) par la poulie (19) La nouvelle conception est schématisée comme suit
+19
+Ressort Flasque mobile
+Bobine
+Flasque fixe
+XI
+23 Disque d'embrayage
+Le disque dembrayage est en liaison glissière avec l'arbre (23). Le flasque mobile est en liaison glissière avec la poulie (19). Lorsque la bobine n'est pas alimentée; l'effort presseur développé par les ressorts permet davoir ladhérence entre le flasque mobile le flasque fixe et le disque d' 'embrayage (phase embrayée) . Lalimentation de la bobine permet dattirer le flasque mobile pour désaccoupler la poulie (19) de larbre (23) (phase débrayée): Compléter, en phase embrayée le dessin du document 2 par la conception de la liaison glissière du flasque mobile avec la poulie (19), la conception de la liaison glissière du disque dembrayage avec ]arbre (23), le montage des ressorts, la cotation des assemblages fonctionnels.
+Concours Technologie - Session Juin 2001
+Épreuve de STI
+Page 16/29
 
+--- page 17 ---
+N e r ie n é c r ir e i c i
+A3)~TECHNOLOGIE DE PRODUCTION On se propose d usiner en série renouvelable à raison de 400 pièces; le couvercle (16) dont le dessin de définition est donné dans le document 3 Les matériaux des outils sont Facier rapide pour les outils de forme les carbures métalliques pour les outils travaillant par génération Le couvercle est en EN-GJL-150 (FGLISO). Les surfaces à usiner sont repérées par des lettres majuscules. Toutes les autres   surfaces resteront brutes.
+A.3.1) Analyse du dessin de définition
+A.3.1.1) Quelle est la définition de la désignation AFNOR du matériau EN-GJL-150 ?
+A.3.1.2) Quelles sont les spécifications caractérisant la surface A
+A3.1.3) Définir les spécifications géométriques suivantes
+Tolérance géométrique
+Définition
+TRI
+00,2 B
+c
+8o,02 / A
+Bls|0,02 /c
+Concours Technologie Session Juin 2001
+Épreuve de STI
+Page 17/29
 
+--- page 18 ---
+N e r ie n é c r ir e i c i
+Ra6,3
+A.3.1.4) Donner une définition détaillée de la spécification de rugosité
+A.3.2) Ordonnancement de /usinage A.3.2.1) Pour obtenir le diamètre @ 22 H7 A.3.2.1.1) définir le nombre nécessaire dopérations.
+43.2.1.2) la désignation de chacune de ces opérations
+A.3.2.2) Définir et justifier l'ordre d'usinage des surfaces (B), (C), (D); (M) et (L)
+4.3.2.3) A quelle étape de la fabrication; seffectue [usinage de A ? Justifier.
+A3.3) Isostatisme et cotation de fabrication 43.3.1) Comment peut on obtenir la contrainte de coaxialité définie entre les surfaces E et A ?
+A.3.3.2) Comment peut on obtenir la contrainte de coaxialité définie entre les surfaces C et A ?
+Concours Technologie Session Juin 2001
+Épreuve de STI
+Page 18/29
 
+--- page 19 ---
+République Tunisienne Ministère de l'Enseignement Sup= érieur
+Concours Nationaux d'Entrée aux Signatures des survcillants Cycles de Formation d'Ingénieurs Session juin 2001 Concours : Technologic Epreuve STI
+Nom
+Prénom
+Identification
+Série
+A.3.3.3) Lusinage des surfaces L, D, B, M, H, I, J, C, P et Q s'effectuera dans la deuxièmt sous phase (sous phase B) de la phase de tournage. On dispose doutils à aléser, doutils dresser et à charioter coudé (Kr 459), d'outils à charioter couteau et doutils à saigner d largeur 5 mm: La pièce brute contient un avant trou de fonderie La finition de la surface C se fait avec /alésoir @ 22 H7 Compléter le document 4 en précisant A.3.3.3.1) ['ordre des opérations, A.3.3.3.2) la schématisation géométrique des éléments de mise en position; A.3.3.3.3) les cotes de fabrication.
+On   repère les sous   phases   par des lettres majuscules et  les   opérations par des   lettres minuscules.
+Concours Technologie Session Juin 2001
+Épreuve de STI
+Page 19/29
 
+--- page 20 ---
+N e r ie n é c r ir e i c i
+Ensemble Compresseur Pièce Couvercle moyeu Matière EN-GJL-150 Nombre 400 pièces Brut Moulé en sable No DESIGNATION Phase 10 Tournage BI
+AVANT PROJET D'ETUDE DE FABRICA TION
+Document 4
+CROQUIS
+b)
+g) 8 2) Chaînes de cotes
+Rao,8
+Re6,3
+Calcul des cotes de fabrication
+Concours Technologie Session Juin 2001
+Épreuve de STI
+Page 20/29
 
+--- page 21 ---
+N e r ie n é c r ir e i c i
+A.3.4) Paramètres et temps de coupe Pour usiner la surface C en tournage, on effectue les opérations suivantes a) Alésage ébauche outil T1 b)   Alésage % finition outil T2 Alésage finition outil T, L'ébauche et la ' finition se font avec des outils à aléser en carbure métallique La pièce contient initialement un avant trou de fonderie de diamètre 14. On s'intéressera à lusinage de C en ébauche
+A3.4.1) Sachant que la profondeur de passe débauche est égale à 3 mm Pour l'opération dalésage; la vitesse de coupe est égale à celle du chariotage corrigée dun facteur égal à 0,7. Utiliser le tableau pour déduire A3.4.1.I)/avance f en ébauche de C.
+A.3.4.1.2) la vitesse de coupe Vc en ébauche de C.
+Désignation
+Chariotage Outil en ARS Outil en carbure Vc de coupe en mmin Vc de coupe en mmin Résistance f =2 f =2 Matière daN/mm 10 Ou HB P=3 à 5 P=0,5 àl P=3 à 5 P=0,5 à 1 Fonte grise EN-GJL-150 Ferritique 120-150 45 60 160 220
+Tableau
+Paramètres de coupe
+A3.4.2) Calculer la vitesse de rotation
+en tlmin. Le diamètre à usiner est D-20 mm
+A.3.4.3) Calculer la vitesse davance (Vi) en mmlmin On notera par (L) la longueur à usiner.
+Concours Technologie Session Juin 2001
+Épreuve de STI
+Page 21/29
 
+--- page 22 ---
+N e r ie n é c r ir e i c i
+A.3.4.4) Exprimer le temps de coupe (t) utile à l'ébauche de (C) A.3.4.4.1) en fonction de la longueur usinée (L) et de la vitesse davance (V;)
+A.3.4.4.2) en fonction de L , f, Vc et D
+A.3.4.5) La durée de vie de l'outil (temps d'utilisation de [outil) s' exprime par: T = 19.106 . V-3,5 Quel est le nombre (No) d'outils (Ti) à utiliser pour effectuer l'ébauche de la surface (C) de 400 pièces
+4.3.4.6) Quelle est la vitesse de coupe à utiliser pour usiner toutes les pièces sans changer Poutil (T) ? L'avance restera constante
+A.3.4.7) On veut déterminer la vitesse maximale qu on pourra utiliser tout en consommant la puissance maximale que peut fournir la machine. Sachant   que lavance restera constante;  calculer la vitesse maximale de coupe cmax) à utiliser pour effectuer ['ébauche de la surface (C) On donne la puissance du tour utilisé Pv = 7 KW le rendement du tour n=0,7 la pression spécifique de coupe Ks =1500 Nlmm?
+Concours Technologie Session Juin 2001
+Épreuve de STI
+Page 22/29
 
+--- page 23 ---
+PARTIE B MECANIQUE
+On 'intéresse dans cette partie à létude mécanique du compresseur . Pour cela, on utilisera | schéma cinématique simplifié de la figure 3 . Les principaux solides du mécanisme sont le bâti (S1) constitué du corps (1) et des pièces qui lui sont solidaires, le solide (S2) constitué du  plateau came (2) et de toutes les pièces qui lui son' solidaires. Ce solide est en liaison pivot daxe (O,X;)avec le bâti (S1), le solide (S3) constitué du plateau oscillant (3) et de toutes les pièces qui lui soni solidaires. Ce solide est en liaison appui plan de normale Xz avec le solide (S2) le solide (S4) constitué de la bielle (14). Ce solide est en liaison rotule de centre avec le solide (S3) dune part et en liaison linéaire annulaire d'axe (I,X;) avec le bâti (S1) dautre part.
+Repères et paramétrage Les repères et les paramètres adoptés sont définis comme suit Rp(O,XpYpZ1) repère galiléen lié au bâti (S1), Rz(O,XpYz,Z2 ) premier repère lié au solide (S2),
+R2 (O,Xz,Y,,22 ) deuxième repère lié au solide (S2),
+R;(O,X, Y3 ,Z3) repère lié au solide (S3), R(I,X0,4) repère lié au solide (S4).
+Tous les repères sont orthonormés directs. Le mouvement de (S3) par rapport au bâti (S1) est décrit de deux façons différentes: une rotation 0=(YpY2) daxe (O,X;) suivie de [inclinaison a =( Xp Xp ) autour
+de Z2 et de la rotation w=(Yz,Y;) daxe (0, une rotation y =(Y1,Y;) daxe (O,Z,) suivie dune rotation %=(Z1,Z,) daxe (O,0;) Les points 0,A et B sont des points fixes par rapport au bâti (S1) 0,B,Y,y et @ paramètres angulaires de position (figure 4), avec B =(XvXA) 1  :paramètre de position linéaire QA = aX, OB = ~cX1 +bY BI = 1X OK = RY; JK = eu 7J =dX, a,b,c,d,e,R et @ sont des constantes positives 
+Concours Technologie Session Juin 2001
+Epreuve de STI
+Page7 23/29
 
+--- page 24 ---
+Données et hypothèses Un couple moteuc Cm est appliqué sur le solide (S2). L'action du fluide sur le solide (S4) est transmise par l'intermédiaire dun piston de section S soumis à une pression p. L'action de la pesanteur est négligeable.   Toutes les liaisons sont supposées   parfaites. Le solide (S2) est caractérisé par son opérateur dinertie Az Fz Fz Bz C2 J(o,X1Y2,z2) Son centre d'inertie est situé sur ['axe (O,X;). Le solide (S3) est caractérisé par son opérateur d'inertie 24, A3 Az 9 3 J(o,x2,Y3,23) Son centre d'inertie est confondu avec le point 0. Le solide (S4) de centre d'inertie G, et de masse M4 , est   caractérisé  par son opérateur dinertie 0 B4 B4 3 = 'J(GaX4F4,Z1) d avec IG4 X4 2
+(S4
+S2
+Xi
+Figure 3 Schéma cinématique simplifié du compresseur:
+Concours Technologie Session Juin 2001
+Epreuve de STI
+Pagc 24/29
 
+--- page 25 ---
+72 ZI
+Y'2 72
+73
+72
+Y2
+x2
+Y3
+0 Yi
+a Xi 41 0
+Y2
+73 Yi
+74   Yî
+Z5
+X4
+ZI
+Y xi Y3 0
+4 Zi
+Figure
+Rotations planes
+BILETUDE GEOMETRIQUE ET CINEMATIQUE
+B.1.1) Ecrire les équations qui découlent de la fermeture de la chaîne cinématique relative au> vecteurs positions en utilisant les points (O, K, J, I, B, 0) dans la base de Rz B.1.2) En dérivant ces équations par rapport au temps, trouver deux relations entre les vitesse: à, B et ; B.1.3) En éliminant B entre ces relations donner Pexpression de ^ en fonction de Y B.1.4) Exprimer le vecteur vitesse angulaire de rotation 6(S3/S1) de deux façons différentes B.1.4.1) en fonction de et Y
+B.1.4.2) en fonction de
+et
+B.1.5) En identifiant ces deux dernières relations en projection dans Ru, trouver trois relations entre les vitesses de rotation $ V , Y et 8 B.1.6) En éliminant @ et V entre ces relations donner ['expression de en fonction de B.1.7) En se basant sur les questions B.1.3 et B.1.6) donner la loi d'entrée sortie de ce mécanisme exprimant 1 en fonction de 0 B.1.8) Donner les éléments de réduction des torseurs cinématiques suivants B.1.8.1) {V(S2/s1)}o dans le repère Rz(o,X,Y2,Z2)
+B.1.8.2) {V(S3/s1)} dans le repère R,(o,X' Y3,Z3) B.1.8.3) {V(S4/ _ SI)}Ga dans le repère R(,Xv04)
+Concours Technologie Session Juin 2001
+Epreuve de STI
+Page 25/29
+41 0
+4)0
+p XI
+10 
 
+--- page 26 ---
+B 2 ETUDE ENERGETIQUE B.2.1) Donner les éléments de réduction des torseurs cinétiques suivants B.2.1.1) {C(S2/RI)} dans le repère Rp(o,X,Y,22 ) B.2.1.2) {C(S3/RI)} dans le repère R,(O,X, Y,, Z,) B.2.1.3) {C(S4/ RI)}Ga dans le repère R(I,vY,Z) B.2.2) Calculer l'énergie cinétique de /ensemble E constitué des solides S2, S3 et S4 dans sor mouvement par rapport au repère R1 B.2.3) Faire le bilan des actions extérieures B.2.4) Calculer la puissance des efforts extérieurs exercées sur > au cours de son mouvemenl par rapport au repère R - On supposera quà un instant trois   pistons fonctionnent simultanément. B.2.5) Appliquer le théorème de lénergie cinétique à lensemble E dans son mouvement par rapport au repère R1, en déduire une relation entre les paramètres cinématiques; le couple moteur Cm et la pression p agissant sur chaque piston. B3) RESISTANCE DES MATERIAUX Une étude préliminaire a montré que le chargement en flexion et en torsion de larbre (23) peut être modélisé comme lindique la figure 5
+Mz
+Mx
+Cm
+z
+Figure 5 Modélisation de larbre (23)
+On notera par E:le module délasticité longitudinal (module d'Young) de larbre. Iz; le moment quadratique de la section droite de larbre par rapport à laxe (G,7) Ic: le moment quadratique polaire de la section droite de /arbre. G est le centre de la section droite supposée circulaire tel que MG = xX On donne Mz =6mN Cm = 1SmN B.3.1) Déterminer le torseur des actions mécaniques de liaison aux points N et P ainsi que Mx B.3.2) Déterminer le torseur des efforts de cohésion tout au long de la ligne moyenne de la poutre droite. En déduire les types de sollicitations pour les différentes parties de la poutre_ B.3.3) Tracer le diagramme des moments de flexion et de torsion tout au long de la ligne moyenne de la poutre B.3.4) Déterminer le diamètre de larbre B.3.4.1) à partir de la condition de résistance à la flexion Rp =0 mxx (adm) = ISOMPa B.3.4.2) à partir de la condition de résistance à la torsion Rpg =1 max (adm) = 8OMPa B.3.5) On suppose que 1arbre a un diamètre d constant, établir l'équation de la déformée en flexion de la ligne moyenne en fonction de x, Eet Iz B.3.6) En déduire lexpression donnant la flèche au point Q
+Concours Technologie Session Juin 2001
+Epreuve de STI
+Page 26/29
 
+--- page 27 ---
+PARTIE C : AUTOMATIQUE Le processus considéré dans cette partie (figure 6) est une régulation de la température de Phabitacle par variation du débit dair II 'agit de maintenir une température désirée; malgré d'éventuelles perturbations; notamment la température extérieure peut varier . Le débit dair est contrôlé par des volets dont louverture est commandée par un servomoteur à courant continu. Le refroidissement de l'air est produit dans l'évaporateur par changement de phase du fluide réfrigérant en passant de ['état liquide à [état gazeux. Servo moteur Tension de Régulaleur Erreur commnande Température Position de consige Fluidc réfrigérant angulair à l'état liquide Air soufflé débit variable Air souffle débit constant Captour de temperalure Habitacle Ta Volots Fluide réfrigérant Ternpérature Félal gazeux Habltacle exlenelre Évaporateur
+Air rejeté
+Figure 6 Schéma de principe du processus   de régulation de température
+On suppose que la température dans [évaporateur est constante (-25*C), le débit dair soufflé est constant, la température de [habitacle est mesurée par un capteur linéaire de coefficient kz 0.1 VIC. Le modèle simplifié de ce processus est donné par le schéma fonctionnel de la figure 7.
+Uth
+P (1+ %P)
+Servomoteur
+Volets
+Habitacle
+Capteur Figure 7 : Schéma fonctionnel simplifié du système à réguler:
+Concours Technologie Session Juin 2001
+Epreuve de STI
+Page 27/29
+[+V,P
+I+9P
 
+--- page 28 ---
+Les grandeurs caractéristiques de ce système (figure 7) sont des grandeurs relatives par rapport à un point de fonctionnement de référence La température de référence est considérée comme la température de confort du conducteur. tension appliquée au servomoteur 8 : position angulaire des volets 92 débit dair à la sortie des volets Tu température de [habitacle UTH tension de sortie du capteur de température Text température extérieure
+CILDETERMINATION DES PARAMETRES DU SYSTEME A REGULER C.1.1) La réponse @(t) du servomoteur à une grandeur d' entrée u(t) = 6(t) (impulsion de Dirac) est représentée à la figure 8 ci-dessous. Déterminer km et Tm.
+0.18
+0.16
+{ 8 0.12 1 9
+0.04
+Tomps En {econdes
+Figure 8 Réponse impulsionnelle de la fonction de transfert p(ltzmp)
+C.1.2) Le lieu de Nyquist de la fonction de transfert est illustré par la figure 9 suivante. I+TP Déterminer k1 et T1-
+=0
+4100
+1 : 4150
+200
+0 = 0.02 rads
+250
+50
+100
+150
+200 250 300 Axe réel
+350
+400
+450
+500
+Figure 9 Lieu de Nyquist de la fonction de transfert 1+T,P
+Concours Technologie Session Juin 2001
+Epreuve de STI
+Page 28/29
 
+--- page 29 ---
+C2 ETUDE DU SYSTEME BOUCLE Le schéma fonctionnel du système en boucle fermée est donné par la figure 10.
+ex
+1+ t,P
+R(p)
+k
+I+tP
+Figure 10 Schéma fonctionnel de régulation de température On donne kv = 0.01 (m'/ 'Is)rad, k1 500 'Cl(m' Is), kz 0.5, T1 = 50 $ et T2 = 600 s Dans cette partie; on néglige la constante de temps Tm devant T1 et T2. C.2.1) Calculer ['expression de Tu(p) en fonction de Ic(p) et Tex(p) C.2.2) On considère un régulateur proportionnel R(p) = k C.2.2.1) Pour Tex=0, donner la fonction de transfert en boucle fermée Tr(p)Tc(p) C.2.2.2) Donner les expressions de la pulsation propre @0 et du coefficient d'amortissement m en fonction des paramètres k, kI, km _ kv k1 et T1. Déterminer k et @ pour un coefficient damortissement m= 0.5- C.2.2.3) Dans ce qui suit (pour les questions C.2.2.3, C.2.2.4 et C.2.2.5) on considère que Tc-0, calculer leneur statique €(%) pour une grandeur Text en rampe unitaire. En déduire lexpression de Tu en régime permanent. C.2.2.4) Pour la valeur de k trouvée dans la question C.2.2.2, donner la valeur- de lerreur statique et la température dans ['habitacle Tu en régime permanent.  C.2.2.5) Déterminer les nouvelles valeurs de k pour que |e(o)< 20%. Déduire les nouvelles valeurs du coefficient d'amortissement et de la pulsation propre. Conclure. C.2.3) On considère un régulateur proportionnel intégral R(p) = k . k, P C.2.3.1) Étudier la stabilité du système en boucle fermée en fonction de ka et k;. En déduire le domaine de stabilité dans le plan ka =f ( k;). C.2.3.2) Pour Tc-0, calculer [erreur statique pour une grandeur Ten en rampe unitaire En déduire la valeur de Tn en régime permanent:. C.2.3.3) Choisir le régulateur le plus approprié entre R(p)-k et R(p)-ka+k , justifier votre P choix.
+Concours Technologie Session Juin 2001
+Epreuve de STI
+Page 29/29
 
+--- page 30 ---
+République Tunisiennc Ministère de F'Enseignement Supérieur
+Concours Nationaux d'Entréc aux Signaturcs des survcillants Cycles de Formation d'Ingénicurs Session juin 2001 Concours Technologie Epreuve STI
+Nom
+Prénom Série
+Identification
+Ministère de ['Enseignement Supérieur Concours  Technologie Epreuve STI
+Document 2
+EMBRAYAGE
+Date: 11 juin 2001
+Ech 1:l

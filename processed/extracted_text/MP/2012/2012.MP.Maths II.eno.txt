@@ -1,3 +1,82 @@
+--- page 1 ---
+4aaay)ii/6) Ylylsigstis [La]É Xosall urihull ulllinl {no$ lal e _i Éuzavunult 2012 1(01
+REPUBLIQUE TUNISIENNE Minislèrz <' [Envwi peunt Supérit etdle lu Recherch Scientilique Connnrs Nationaux &Entrêe aux Cycles de Formation d'Ingénieurs Session 2012
+Astiut Fa4 Ffy CuoihequD Etus Sa DE
+Concours Mathématiques et Physique Épreuve de Mathematiques II 8 H Durée: 3 heures Nb pages: 4 Date: Samedi 9 Juin 2012 Heure Partie I: 5 pts Partie II-A 3 pts  Partie II-B: 10 pts   Partie II-C: 2 pts Barème: attachée à la rigueur du raisonnement , à la clarté et au soin de la Une grande importance sera présentation. L'usage des calculatrices n'est pas autorisé. Il est que tout résultat énoncé dans le texte peut être utilisé pour traiter la suite, mêmne rappelé s'il n'a pu êtrc démontré.
+Rappels et notations
+Pour n et m deux entiers supérieurs ou égaux à 1, on note: vectoriel des matrices à coefficients dans R ayant T lignes et m Mn,m (R) le R-espace colonnes Lorsque n = '06; Mn;n '  (R) est noté plus simplement Mn(R). Pour A € Mn,m  (R), on note tA sa matrice transposée et rg(4) son rang; Ker A est le noyau de A: Ker A = {$ € Mm,1 (R) | As = 0} , Im A est limage de A: Im A = {As| & € Mm,1(R)}- Pour tout k entier naturel; Rk[X] désigne F'espace vectoriel des polynômes à coeflicients réels et de degrés k FL désigne Vorthogonal dun sous espace vectoriel F dun espace euclidien.
+PARTIE I
+ (R) et  Mm,1(R) respectivement à Rn et Rm que Pon Dans  cette partie; on identifiera Mn,= pour tout entier k > 1, en particulier supposera munis de leurs produits scalaires canoniques: k = n ou Tn, < U,V >k = tUV , VU,V € Mk,1 (R) La norme associée à ce produit scalaire sera notée |Ik.
+Soient A € Mn,m(R) et b € Mn,1(R).
+Concours Mathématiques et Physique Session Juin 2012
+Épreuve de Mathématiques II
+Page 1/4
 
+--- page 2 ---
+1 (a) Vérifier que Im A est un sous espace vectoriel de Mn, 1 (R) (b) Soit p la projection orthogonale de Mn,1 1 (R) sur Im A. 1 Justifier qu'il existe $o € Mm,1 1 (R) tel que
+Aso = p(b).
+ii.  Montrer que
+IlAs bl2 > |lAso b412 , Vs € Mm,1 (R) 
+iii. Conclure que
+min
+IlAs blln = IlAso blln; {eMm,1 (R) c'est à dire $o rend minimale la valeur de |As blln; lorsque & décrit Mm,1 (R)
+Dans la suite; S0 sera appelée une pseudo-solution du système:
+As = b
+(S1)
+2 Montrer que si Ker A = {0} , alors le système (S1) admet une pseudo-solution unique.
+3 Montrer que So est unc pseudo-solution du système (S1) si et seulement si, pour tout 4 € Mm,1 (R), As, Aso b >n = 0.
+4 En déduire que $o est une pseudo-solution de (S1) si et seulement si:
+#A ASo = #Ab.
+(S2)
+PARTIE II
+On considère une suite de réels quelconque {yo, Y1, Un } et une suite dentiers {20,I1, ' In} telle que Ti = i, Vi € {0; 1, 288 9 n} . Dans cette partie; on suppose 0 < m < n et on cherche à trouver les polynômes P € Rm[X] tels que la quantité Ym(P) = (Ui P(z;))? 2=0 soit mninimale et à préciser la valeur &m de ce minimum.
+A
+Minimisation dans Rm[X]
+Soit un polynôme P tel que:
+00 01
+m7 P = ) @k-Xk € Rm[X] on lui associe $ = k=0
+€ Mm+l,1 (R)
+Concours Mathématiques et Physique Session  Juin 2012
+Épreuve de Mathématiques II
+Page 2/4
+@m
 
+--- page 3 ---
+1 Calculer P(zi) pour tout i € {0, 1, '8'9 n}
+2. En déduire qu'il existe une matrice A € Mn+l,m+1 (R) telle que
+P(zo) P(z1)
+= As
+P(xn)
+3 . Calculer rg(A). 4 Irouvcr b € Mn+l,1(R) tel que Vm(P) = |lAs bll?+1' 5. Vérifier que min Fm (P) 2 min IlAs b1l2+1 . PeRm [X] {€Mm+1,1 (R)
+6 En déduire qu'il existe un unique Pm € Rm [X] tel que
+min Ym(P) ~ ym( Pm) PeRm [X]
+On pose Jm (Pm) = ôm .
+B Calculs de Pm et &m
+1. Montrer que Fapplication
+(P;Q) F< PQ > = P(æi)Q(æ;) i=0
+munit Rn[X] dune structure despace euclidien. Dans ce qui suit, Fespace Rn[X] est muni de cette structure euclidienne. La norme dun polynôme P est alors ||PI = V<PP>
+2 X _ ck Pour tout i € {0,1, n} , on pose le polynôme Li = II Ii 2 Ik 0 < k < n k # i
+(a) Pour tout i € {0, 1, n} , quel est le degré de L;? (b) Vérifier que; pour tout i,j € {0,1, n} on a
+0 si j # i, si j =i.
+Li(fj) =
+(c) Montrer que la famille ( Lo, Ll, Ln) est une base orthonormale de Rn[X] (d) Pour tout P € Rn[XJ, quelles sont les coordonnées de P dans la base (L;)o<i<n:
+3 A la famille (yi)o<i<n, on associe le polynôme Y = Y;L;. i=0
+(a) Que vaut Y(æj) pour j € {0,1, n} 
+Concours Mathématiques et Physique Session Juin 2012
+Épreuve de Mathématiques Il
+Page 3/4
 
+--- page 4 ---
+(b) Montrer que
+min Vm(P) = min JlY PIl? PEkm[X] PcRm[X]
+(c) En déduire que Pm, défini dans la question A-6, est Je projeté orthogonal de Y SUr Rm[X] 4 On définit une suite (QkJo<k<n de polynômes de Rn[X] par récurrence:
+Qo = 1,
+k1 < Xk =Xk Q;ZQ;, Qk k = 1,2, '0*9 'Yl. TQ1l2 i=0
+
+(a) Calculer Q1. (b) Vérifier que chaque polynôme Qk est de degré k. (c) Montrer la relation dorthogonalité Vk, k € {0,1,-,n} et k # k' , < Qk. Qk' >= 0 (d) Conclure que la famille {Qo,Q1, Qn} est une base orthogonale de Rp[X] (e) Pour k € {1,2, n}, on pose Hx(X) = Qk(æn - X) (le polynôme associé à la fonction '8) polynômiale 1 > Qk(æn 2)) i. Montrer que, pour tout j = 0,1,  (k _ 1), on a < Hk  Xj >= 0 ii. En déduire que Hk est orthogonal au sous espace vectoriel Rk-1[X] de Rn[X] iii. Trouver une relation entre les polynômes Hk et Qk. (f) i. Vérifier que < Pm; Qi >=< Y;Qi > , Vi = 0, 1, 1)m. ii. Montrer que m Pm = 2 <Y Q; ZQi. TQIl? i=0 iii. En déduire que; pour tout m € {1,2, '8'3 n} ; < Y, Qm Pr = Pm-1 + 7 Qm' TQmf? (S3) (< Y;Qm > )2 Sm = Sm-1 71Qm1l?
+iv. Que peut-on dire de Pn et &n?
+C Exemple
+Soit n = 3 On prend Vo = 1, U1 = 2, y2 = 1 et y3 = 2 1 Pour m = 0, trouver Po et 8 (on pourra utiliser le système (S2)) 2 Pour m = 1, trouver P et 41 (on pourra utiliser le système (S3)) . 3. Tracer sur le même graphique les deux fonctions polynômiales Fo(æ) et Pu(æ) avec la suite des points (i, Yi)o<i<3.
+Concours Mathématiques et Physique Session Juin 2012
+Épreuve de Mathématiques II
+Page 4/4

@@ -1,3 +1,53 @@
+--- page 1 ---
+dertruf Prépcrafclr; [dos érudcs :9owi0w8 do #t0  REPUBLIQUE TUNISIENNE Wibhe.heeue 429)=214' Ministère de [Enseignement @Listiexts Supérieur; de La Recherche Scientifiquc 15062u45 et de La Technologie Concours nationaux d'entrée Uiyji 2l1 aux cycles de formation d 'ingenieurs MiJi w >ji Session 2008 2008 :,>
+Concours Technologie Epreuve de Mathématiques
+Wstitl; BiuotheqU8 9 6by {@ygnus
+Durée 4 H
+Date
+2 Juin 2008
+Heure 8H
+Nb de pages
+Barème Ex Ipt. Phl Partie [ 3.Spts Partie 2 2.Spts Partie 3 6pts. Ph: "pts.
+Une grande importance sera attachée à la rigueur du raisonnement; à la clarté et au soin je % présentation. L'usage des calculatrices n'est pas autorisé Il est rappelé que tout résultat énoncé dans le texte peut être utilisé pour traiter la suite. mënv s'il n'a pu être démontré
+Exercice préliminaire
++0 Montrer que la fonction x ~F(x) = J u'-'e du est définie sur Jo. + ~ [ . 2 Montrer que T(r+1) =xF(x) pour tout réel x > 0_ b. En déduire la valeur de F(n+1), n eN.
+On pourra utiliser les résultats de cet exercice dans toute la suite de l'épreuve.
+Problème 1
+Notations Dans ce problëme; 0n adopte les notations ci-dessous €" ([0; +~[) = {f [0; +z [ 3 JR ; f  continue} E ={f € €" ([0, +~[) F f? (()e-' intégrable sur [0. +c[ est  Fensemble des fonctions polynomiales restreintes à [9 +[ Pour tout entier naturel m, Fn = {PeF deg( P) <m}- Pour tout entier naturel k, " est la fonction de F définie par v :1 F > Pour tout endomorphisme u on note v' = id et   u* =44-} 0 Ui pour tout entier k 2 |
 
+--- page 2 ---
+Pour toutc fonction g € F et tout entier naturel k_ on nole 4E la dérivée d'ordre k de ?. dt evec la convcncion 4 g =8 el d'g dg dt" dt d
+Pour tout couple d'entiers naturels ( j .() tel que 0 < { s j . on nore G avec la e(j - 0): convention 0!=1 . Partie 1
+Soit
+Fapplication linéaire qui à tout P€ F associela fonction polynomiale d'P 4(P) t F/ (t)+(4+1) '4P()  dt 1. Montrer que la restriction de à Fr est un endomorphisme que Fon notera ( 2 Déterminer la matrice de 4 dans la base canonique B=(":" "n ) de 3. En déduire les valeurs propres de (m; et montrer qu5 il est diagonalisable_
+Dans toute la suite du problème, on désigne par L;) 12" la suite des fonctions polynomiales de F définies par L; :t H 44 (e*).
+Montrer que L
+,0)-464)4 5. Expliciter L pour j = 0, 1, 2 et 3
+6. Soit m un entier naturel. Montrer que pour tout entier 0 < j < m Pm (L,)=-jL,  b. Montrer que F @RL  . où RL , est la droite vectorielle engendrée par Z; J=
+Partie 2
+1. Soit f .g €E Montrer que la fonction H f (t)g( )e ' est intégrable sur [0.+~[ - 2. Montrer que E est un sous-espace vectoriel de C" ([0, +œ[) Dans toute la suite du problème; on pose (flg) = [ f (t)g()e 'dt . pour tout f ,g @F_ 3 . Montrer que est un produit scalaire sur E On notera Ila norme qui lui est associée 4. Montrer que est un sous-espace vectoriel de E. 5. Calculer ( " pour tout couple d entiers naturels (j , k ) .
 
+--- page 3 ---
+Partie 3
+Soit
+Fapplication linéaire qui à tout P = F associe u (P):t +e
+4 (P()e" )
+dP Expliciter u( P) à Faide de P et dt Montrer que pour tout enzier nalurel j 2 | et tout entier 0 < k < j -1 d 1,0)=44 (( ,)6)e*) b. Montrer que pour tout entier naturel j. L, 47" (,) 3 Montrer que pour tout g.f = F (8Ju (f)) = -g(0)f (0) -{ à|
+Soit un entier   j >2 1 . Montrer que pour tout entier 1< k < j. u' (" )(o) = 0. b. Montrer que pour tout g = F et tout entier naturel j, {g 8 E;) =(1 (4x dt
+5. Montrer que   pour tout couple d'entiers naturels distincts ( j.k) , (L|2) = 0.
+6. Expliciter (" Lx pour tout couple d'cntiers naturels (j ,k )  Montrer que pour tout entier naturel j, Iz; =1
+8. Pour tout entier naturel k, on pose qk+1 :t FtLk () . Montrer que (9 ;+}L;) =(L,/I++ ) , pour tout couple dentiers naturels (j,k) . b. Soit un entier naturel j 22 Montrer que tout entier 0 < k < j -2, (4,+1, ) = 0 . Montrer que (9,/4,) =(2j+1) . Montrer la relation 1L, (t) =~(j+1)L, (t)+(2j+1)1,(1) - jL -  (4) .
+9. Soi deux suites réelles (a, )sn et (ba)keN Montrer Vimplication @; =Él) 3 ba =É(-" G ) b Montrer que 'É(}-y - L, ( ) . k !
 
+--- page 4 ---
+Problème 2
+1. Soit la fonction de la variable réelle t , périodique de période 2z et telle que f ( ) =t, 0<1 2æ Determine: la série de Fourier de f et donner sa somme pour tout réel t. (I" (-1" b. En déduire les valeurs de "=( 2n + | n=( (n + n=w (2n 4.  n +1) cos nt 3t 2 6æt + 212 Montrer que pour tout réel / de [0 2z] n=i (W" b. En déduire les valeurs de (2n +1)7 n=0 n=0 "=9 n +1)'
+3. Soit 0 <4<: Montrer que la série
+converge pour tout réel x> | _ (n +a) Dans toutc la suite du problème, on pose pour tous réels 0<a5 | et x >| . ç(x = a)=5 et 5 (x)=5(x. 1) . n=0 (n+a)' Montrer que la fonction x+ç (x; a) ëst de classe € sur ], +z[ 5.2. Donner les valeurs de 7 (2) et < (4) . h.Donner les valeurs de (2, 2) 2(44) 6. à. Montrer que < J ~'*ç(x, a) . b. En deduire lim &' ç (x ,a) et lima' ç (x,a) r =1 Donner un équivalent de Ç (x. a) quand æ ~ |* _
+7. Montrer que pour tous réels 0 <a<1. x>1 et tout entier naturel k les fonctions x =! {a+k +Ju u H et u | > sont intégrables sur Jo, +œ[ 1 -e 1 -e =u
+8 .
+Montrer   que pour tout entier naturel N, et tous réels 0 <a < ! et x > | . 1-1 +co u x-1,-(N+l+u)u F()É- du Jo du (n+a) 1 -e 7u 7-0 1 e -" + 1 =1 ~(N +l+aW b. Montrer que lim du = 0. N _+o 1-e -" u" ~ki En déduire que pour tous récls 0 <a<1 et x > | , F(x)? (r , a) = 5 cu J -e
+ue du et e2 _ |
+u'@ du e 2" _ ]
+d. Justifier la convergence de chacune des integrales
+et donner leurs valeurs.

@@ -1,3 +1,82 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de |'Enscigncment Supérieur, dc la Rccherche Scientifique et de la Technologic 845ji > iji ~uadl @oli
+aSaa)=2ad) {b@lxs)g*bs Ess@su{És
+dysw uisi 2ijliJi innitjl Dsja>u 2uu9 ?j9'
+Oinqvonlenolre Ur ( Vanniale Thovicaar
+Concours Nationaux dEntrée aux Cycles de Formation d'Ingénieurs Session 2009
+Concours Biologie
+Epreuve de Mathématiques
+Date: Lundi 01 Juin 2009 Heure: 8 H Durée:   3 heures Nb pages: Barème Partie I : 6 pts Partie II 2.5 pts Partie III: 7.5 pts Partie IV: 4 pts
+Une grande importance sera attachée à la rigueur du raisonnement , à la clarté et au soin de la présentation.  L'usage des calculatrices n'est pas autorisé. Il est rappelé que tout résultat énoncé dans le texte peut être utilisé pour traiter la suite; même s'il n'a pu être démontré.
+Notations et rappels: les notations suivantes sont considérés au cours de ce texte:
+YstiTVT KaIAro Gswhiequ)
+R: le corps des réels.
+E: lespace vectoriel des fonctions de R dans R Eo: Tespace vectoriel des fonctions continues de R dans R. Pz: l'espace vectoriel des polynômes à coefficients réels de degré < 2 E1: lespace vectoriel des fonctions continuement dérivables de R dans R. (n,F,P) un espace probabilisé donné Les   variables   aléatoires  notées V.a. sont à valeurs réelles et définies sur le même espace (0,F,P) . P(X  i) désigne la probabilité que la v.a. X prenne la valeur i px( ): la loi de probabilité d'une v.a. discrète X fx( ): la densité de probabilité d'une v.a. continue X. Fx(:): la fonction de répartition d'une v.a. X. E(X): espérance mathématique de la v.a. X.
+Var( X): variance de la va. X.
+P(X,Y) est le coefficient de corrélation entre X et Y.
 
+--- page 2 ---
+Concours Biologie Épreuve de Mathématiques
+2
+0x( ) est la fonction  génératrice des moments de la v.a. @x(t) = EletX).
+X. Elle est donnée par
+On considère lapplication:
+T : Eo 4 E f + Tf
+où Tf est définie par:
+1 22
+tf(t)dt si I #0
+Tf(z)
+f(o)
+si x =0
+Partie I: Propriétés élémentaires de Tf
+Dans cette partie; f désigne un élément de Eo.
+1 Montrer que lapplication T : f + Tf est linéaire par rapport à f .
+2 Montrer que si f est paire alors Tf est paire.
+3 Montrer que si f est impaire alors Tf est impaire
+4 Montrer que si f est positive alors Tf est positive.
+5. Déterminer Tf dans le cas où f est constante puis dans le cas où f € P2. 6 On suppose que a est un réel strictement positif et que sur l'intervalle [~a,a], la fonction f est bornée par un réel M. Montrer qu'il en est de même pour Tf.
+7 En déduire que Tf est   continue en 0, que Tf appartient à Eo puis que T définit un endomorphisme de Eo. 2 (Indication: on remarquera que f (0) = tf(O)dt). 12
+8 . Montrer que, pour tout z # 0, (Tf)' existe et vaut (Tf)(z) = L(f(s)- ~ 2Tf(z)) 2
+où (Tf)' désigne la dérivé de Tf par rapport à 2
 
+--- page 3 ---
+Concours Biologie Épreuve de Mathématiques
+3
+Partie II: Tf et Probabilité discrète
+Dans   cette partie; on suppose que f appartient à P2. On munit P de la base canonique B = (1,X,X2)
+1 Montrer que Tf appartient à P2
+2 Déterminer la matrice A de Tf par rapport à la base B_
+3 Déterminer les valeurs propres et les vecteurs propres associés de A.
+4. Calculer A" pour n entier > 2
+Io Yo 20
+5 Calculer , en fonction de Uo
+la suite de vecteurs colonnes (Un)nzo définie par:
+Un+l = AUn n 2 0,
+In Yn 2n
+où Un =
+6 Soient X, Y et Z trois variables aléatoires discrètes à valeurs dans N et dont les lois de probabilité sont données par px(n) = P(X = n) In  pY(n) = P(Y = n) = Yn et pz(n) = P(Z = n) = zn: Déterminer %o, yo et z pour que In, Yn et zn définissent bien des lois de probabilité.
+Partie III: Calcul de lois
+Dans cette partie; on considère la fonction F de R dans R définie par:
+si t < 0,
+F(t) =
+3t2 2t3 si 0 <t < 1,
+si t > 1.
+1. Vérifier que F est bien une fonction de répartition dune v.a. continue X et déterminer sa densité fx
+2. Soit la fonction G définie par G(z) = 2TF(z) pour tout réel I Montrer que G est une fonction de répartition d'une v.a. continue Y dont on déterminera sa densité fx
+3. Soit la variable aléatoire Z définie par 2 = G(Y). Montrer alors que Z est une variable aléatoire uniforme sur lintervalle [0, 1]-
+4. Calculer E(Z) et Var(Z).
+5 Montrer que, pour tout a > 0, on a P(Z 2 a) < 2a
 
+--- page 4 ---
+Concours Biologie Épreuve de Mathématiques
+1
+6 . Déduire que, pour tout a > 0, on a P(Iz = 4I2a) < 1207 7 . Calculer $z(t) la fonction génératrice des moments de 2. 8 En utilisant un développement limité au voisinage de 0 de %z(t), retrouver E(Z) et Var(Z) 9 On pose U = min(Z,1 ~ Z) et V = max(Z,1 ~ Z)  Déterminer fu la densité de U et fv celle de V .
+10. Calculer E(U + V) et Var(U + V).
+Partie IV: Tendance normale dune v.a. uniforme
+On considère une suite de variables aléatoires Xn, 1 < n < 10, indépendantes et de même loi que la v.a. uniforme Z On note par $ la fonction de répartition d'une v.a. normale centré réduite 10 N(O, 1). On pose H = Xi.
+1 Vérifier qu'on a @(-2) = 1 - @(æ) puis déduire $(0).
+2. Calculer E(H) et Var(H). 5 3 Montrer que P(H 2 6) < 6 4 En utiliser le théorème de la limite centrale, montrer que
+6 P(H > 6) =1 - 9(V 5
+10 6 5 On donne = 0.84. Donner le pourcentage pour que la somme H = X; dépasse @(1 5
+6
+6. On subit à H une transformation affine K = aH + b de telle manière   qu'on aura P(K 2 6) = 0.5 et P(K < 8) = 0.84. Déterminer les valeurs possibles de a et 6. 7 Calculer le coefficient de corrélation p(K, H). Fin de lépreuve

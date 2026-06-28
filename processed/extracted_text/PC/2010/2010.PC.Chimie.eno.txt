@@ -1,8 +1,177 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de /'Enseignement Supérieur et de la Recherche Scientifique
+~asyij26' "Uzisals g:L=L Concours Nationaux d'Entrée aux Cycles de Jsn #jl el ysLiji Formation d'Ingénieurs Dnadi-Ji isUalji Session 2010 2010 ;J3- Concours Physique-et Chimie Epreuve de Chimie Date Mardi juin 2010 Heure 8h Durée 3h Nbre de pages
+Partie A.: Chimie inorganique Problème / : Problème II Problème
+Problème IV
+Barème12/20
+2,25 pts
+2,75 pts
+3,75 pts
+3,25 pts
+Partie B.: Chimie organique Problème Probleme 71
+Problème MIl
+Barème 8/20
+1,5 pts
+2,00 pts
+4,5 pts
+Cette épreuve comporte pages de texte et deux documents annexes à rendre avec la copie.
+Les parties A et B doivent être traitées sur deux copies séparées. Les candidats sont priés de présenter leurs réponses dans l'ordre même de lénoncé L'usage des calculatrices électroniques de poche non programmables est autorisé Aucun échange n'est autorisé entre les candidats.
+WsTTUT raty Raluine _ PARTIEA: CHIMIE INORGANIQUE IBLOTHEQUE ) DEBUT DE L'ENONCE Au 5 Sx (euves Données @WGEMieUas Nombre d'Avogadro NA = 6,023*1023 mol-- Masse volumique de l'eau Peau = 1g cm élément phosphore oxygène hydrogène vanadium numéro atomique Z 15 8 masse molaire 30,97 16,00 atomique (g.mol 1,00 50,94 A la température 298 K: Les potentiels redox standard en milieu acide couple E0 (Volt) HsPO2(aq/P(d) 0,508 HzPOz (aqYP(sd) 0,391
+pK  (H;PO4/HzPOA ) = 2,03; pK  (HsPO;/HzPOs ) = 1,80 ; pK  (HzPO; /HPO;?) = 6,13 RxT xLn (10) = 0,059 V
+Concours Physique et Chimie Session Juin 2010
+Epreuve de Chimie Page 1/9
 
+--- page 2 ---
+Problème I:
+1) Donner pour ]élément phosphore 1-a) la configuration électronique dans son état fondamental 1-b) la position dans la classification périodique 1-c) la représentation de Lewis. 2) Pour la molécule Pz 2-a) en se limitant   aux électrons de valence, construire le diagramme  des orbitale: moléculaires 2-b) déterminer la configuration électronique moléculaire dans son état fondamental 2-c) déduire; en le justifiant; son caractère magnétique . 3) La combustion du phosphore produit une fumée blanche constituée de Foxyde P4O1 qu se dissout facilement dans /eau pour former 1acide phosphorique H;PO4. Ecrire 1équatior bilan de la réaction de dissolution de P4O1o. 4) Donner une formule de Lewis de /acide phosphorique H;PO4.
+Problème II : Cristallographie
+Le composé VP est un solide qui cristallise dans le système hexagonal caractérisé par les deux paramètres a 3,18 B et c = 6,22 %. Les atomes P ont pour coordonnées réduites : (0,0,0) et (2/3,1/3,1/2). Les atomes V occupent tous les sites octaédriques. 1) Compléter la figure de Fannexe 1 en plaçant les atomes Vet P de la structure VP. 2) Vérifier que la structure correspond bien à la formule VP . 3) Donner 1 expression puis calculer 3-a) la densité de VP 3-b) le volume molaire de VP. 4) Hachurer sur la même figure de Fannexe 1, la trace du plan de la famille (002) le plus proche de Forigine. 5) Représenter sur la figure de Fannexe 1, la rangée [111] Quelle est la distance qui sépare deux atomes consécutifs de cette rangée
+Problème III diagramme binaire eau-acide phosphorique
+Le diagramme binaire isobare solide-liquide du système eau-acide phosphorique es' donné sur la figure-1. La composition est exprimée en pourcentage massique %Wu,po; 1) Déterminer la formule du composé intermédiaire défini par la verticale à 91,6% massique en HsPO4 On écrira cette formule sous la forme H3PO4, n HzO. 2) Quelle est ia nature de la fusion de ce composé intermédiaire ? 3) Indiquer la nature des phases présentes dans les domaines numérotés de (1) à (3).
+Concours Physique et Chimie Session Juin 2010
+Epreuve de Chimie   Page 2/9
 
+--- page 3 ---
+4) 4-a) Préciser les températures et les domaines de composition des mélanges pour lesquels on a le maximum de phases en équilibre. 4-b) Donner la nature de ces équilibres etles équations correspondantes. 5) Un mélange formé de 0,030 mol deau et 0,0129 mol dacide phosphorique est refroidi lentement de 20*C jusqu'à -90*C. 5-a) Représenter Yallure de la courbe de température en fonction du temps; lors du refroidissement lent de ce mélange et Indiquer les températures de rupture de pente. 5-b) Déterminer la composition et la masse de chacune des phases en équilibre à (-84,6 E)'C avec € très faible. 5-c) Déterminer la masse minimale de HBPOg quil faut rajouter au mélange initial, pour n'observer qu'une seule phase solide à 20 C.
+0( C) 80
+p0 = ] bar
+0(PC)
+42,4 C 29,3PC 24 3 C Ez ;
+40
+20
+(1):
+-20
+(2)
+~40
+~60
+~80 8i8*c
+-100
+20 40 80 91,6%100 pourcentage massique H3PO4
+HzO
+nigure l-diagramme d'équilibre liquide-solide du système eauacide phosphorique
+Concours Physique et Chimie Session Juin 2010
+Epreuve de Chimie   Page 3/9
 
+--- page 4 ---
+Problème IV diagramme potentiel-pH du phosphore
+On se propose de compléter le diagramme E-pH simplifié du phosphore (Annexe 2). Pour cela, seules les espèces suivantes sont considérées P(sd)   HBPO2(aq) HPO Z(aq ) ' H3PO3(aq) H PO HPO 3(a4 ) 3(aq) HBPO4aq) H,PO 4(aq ) HPOz(aq) et PO43-(aq)
+Les conventions adoptées pour tracer ce diagramme sont La concentration totale en élément P dissous est égale à la concentration du tracé. Ctra =10-5 mol.L-1 A la frontière séparant les domaines des deux espèces dissoutes, les concentrations atomiques en élément P sont égales. 1) Donner le nombre d'oxydation de Yélément phosphore dans les espèces chimiques suivantes P{sd), HBPO3(aq) H3POz(aq) H,PO;(ar) HPO? - 3(aq ) et HzPOz(aq) ' Présenter les résultats dans un tableau ordonné par valeurs croissantes du nombre d 'oxydation: 2) Ecrire les   équations frontières   correspondant aux couples   H;PO2(aqyP(sd) et HzPOz (aqyP(sd); 3) Ecrire Yéquation de l'équilibre entre H3PO2(aq) et H,PO 2(aq) 3-a) S'agit-il dune demi-équation électrochimique ou non 3-b) Ecrire la loi daction de masse correspondant à cet équilibre. 3-c) Calculer la valeur de sa constante d'équilibre. 4) Compléter le diagramme E-pH du phosphore; en traçant la (ou les) frontière(s) manquante(s) et en indiquant les domaines  dexistence ou de prédominance des espèces chimiques 5) Le nickelage chimique est une technique qui permet le dépôt de nickel par réaction électrochimique. Dans ce procédé on utilise lion hypophosphite HzPOz(aq) pour réduire Yion Ni2+ dans une solution tamponnée à pH = 5. Ecrire Y'équation-bilan de la réaction chimique correspondante. FIN DE LENONCE DE CHIMIE INORGANIQUE
+Concours Physique et Chimie Session Juin 2010
+Epreuve de Chimie   Page 4/9
 
+--- page 5 ---
+PARTIEB: CHIMIE ORGANIQUE
+DEBUT DE L'ENONCE
+Problème I :
+Considérons le (1S, 2S)-1,2-diéthyl-1,2-diméthylcyclobutane qu'on notera 4.
+1.1) Donner la représentation de Cram de cette molécule selon le modèle ci-dessus. 1.2) Quels sont les autres stéréoisomères envisageables de A ? Les représenter selon Cram: Lesquels sont optiquement actifs ? Justifier. 1.3) Donner la projection de Newman selon Yaxe CI-C2 du cyclane A. Peut-t-on obtenir par rotation autour de laxe C1-C2 dautres conformations ? Justifier.
+Problème II :
+On donne les pKa des alcools et acides carboxyliques suivants
+OH
+OH
+OH
+OH
+Ai pKa
+A
+Az 15,5
+A: 15,4
+44 13,5
+16
+OH
+OH
+OH
+OH
+B1 pKa
+B1 4,9
+Bz 4,2
+Bg 4,2
+B4 1,9
+IL.1) Classer respectivement les alcools (A) puis les acides (Bi) par ordre dacidité croissant 11.2) Ecrire les formes limites des bases conjuguées de lacide benzoïque et de Yacide prop-2-énoïque. 11.3) Interpréter 1effet de la triple liaison sur lacidité
+Concours Physique et Chimie Session Juin 2010
+Epreuve de Chimie   Page 5/9
+4111
 
+--- page 6 ---
+Problème III
+La tumérone est une molécule naturelle extraite du rhizome de curcuma à laquelle on attribue des propriétés inductrices d'apoptose (le processus par lequel des cellules déclenchent leur autodestruction en réponse à un signal) sur les cellules leucémiques (cancer du sang) On se propose d'étudier sa synthèse par voie chimique. A partir du 1-(chlorométhyl)-4-méthylbenzène (B) qu'on notera R-CHzCI, on procède par la suite réactionnelle suivante
+Mg
+1) COz CI 5 Etz0 anhydre 2) H,O / H+
+SOCI? Pyridine
+B: CH;
+CH,
+2
+E
+Bn
+THF
+E EtsN_CH;L G: THF R
+E + HN
+J)LiAlH TsCI NaCN 1) KOH HzO H: (C1oHj40) ! 1 2) HzO Pyridine ~K:R Alcool 2) H,O / H
+COH
+PCls K Pyridine
+CH,NH(OCH;) M: (C1;HLNO2)
+MgBr 1) M N: 2) H,O / H dilué H;C
+OCH; HzN_
+ar-Tumerone
+IIL.1) Donner la structure de C IIL.2) Détailler le mécanisme de formation de p II1.3) Donner la structure de E
+Concours Physique et Chimie Session Juin 2010
+Epreuve de Chimie Page 6/9
+Bn
+CH;
 
+--- page 7 ---
+11L.4) Comparer en argumentant votre réponse; la réactivité de D et de E vis-à-vis dun nucléophile. [11.5) Détailler le mécanisme de formation de E Il1.6) Laction de lhydrure daluminium et de lithium  (LiAlH4) sur G suivie dune hydrolyse fournit Yalcool H préciser sa structure: IIL.7) Donner la structure de ! II1.8) Quelle est lutilité de J'étape 4~!? 111,9) Déterminer en justifiant votre réponse la cinétique de la réaction !~J Détailler le mécanisme. 1I1.10) Donner la nomenclature de K selon le système international en tenant compte de la stéréochimie. IIL.11) Donner les structures de L et de M. II1.12) Détailler le mécanisme de formation de N
+Données
+1. LiAlH4 est un réducteur, il fournit des ions hydrures (H-). 2. Bn = groupement benzyle = CHzPh 3. La structure de chlorure de tosyle Ts-CI
+Ts-CI
+H,C
+Is Tosyle
+4. Les numéros atomiques H (Z=1), C (Z=6), N (2=-7),0 (Z=8),$ (Z=16) et Cl (Z=17)
+FIN DE LENONCE DE CHIMIE ORGANIQUE FIN DE L'EPREUVE
+Concours Physique et Chimie Session Juin 2010
+Epreuve de Chimie   Page 7/9
 
+--- page 8 ---
+REPUBLIQUE TUNISIENE Concours Nationaux dEntrée aux Cycles de Formation Ministère de dIngénieurs F'Enseignement Supérieur et de la Recherche Scientifique Session Concours Epreuve de Ne xien Nom Prénom écwe ici Institution dorigine
+Sipnature des surveillants
+Identifiant
+Série
+DOCUMENT  ANNEXE (ARENDRE_AVEC LA COPIE)
+Ne vien écuxe ici
+P
+b
+a
+centres de gravité des triangles
+Concours Physique et chimie- Session Juin 2010
+Epreuve de Chimie
+Pagc 8/9
 
+--- page 9 ---
+NE RIEN ECRIRE ICI
+DOCUMENT  ANNEXE 2
+1.40
+1.20
+1.00
+0.80
+0.60
+0.40
+H;POs
+HzPO;
+HPQA?
+PQ=
+0.20 : 0.00 "0.20
+pH
+10 11 NilOH)z( (sd}
+13
+Ni2+
+"0.40
+Ni Isdl
+40.60
+40.80
+41.00
+-1.20
+41.40
+-1.60
+-1.80 Partie du diagramme E-pH simplifié du phosphore en traits continues et du diagramme E-pH simplifié du nickel en pointillés
+Concours Physique et chimie - Session Juin 2010
+Epreuve de Chimie
+Pagc 9/9

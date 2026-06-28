@@ -1,4 +1,86 @@
+--- page 1 ---
+428142883/
+MÆEPUBHGJETUNISIENNE & Rechenle Scintifiqu Conrours Naticnaux d Eutré ax Cycks de Fomation d'hgénieus Sesson 2010
+bUklbels eyüzl ssimaiksl ol Hini ihueoi iefuslyVl 200 3)9'
+Concours Mathématiques et Physique Epreuve de Mathématiques II
+Date: Samedi 05 Juin 2010
+Heure: 8 H
+Durée: 3 H
+Nbre pages: 5
+Barème Partie I: 5 pts Partie II: 8 pts, Partie III: 2 pts Partie IV: 5 pts
+La qualite de 1a rédaction; 1e soin de 1a présentation et 1a rigueur des raisonnements constitueront un élément important pour I'appréciation des copies. Il est rappelé que tout résultat énoncé dans le texte peut être utilisé pour traiter la suite, même s'il n'a pu être démontré. L'usage de tout ouvrage de référence et de tout autre matériel éléctronique est strictement interdit.
+On note N l'ensemble des entiers naturels, N* l'ensemble des entiers naturels non nuls; R le corps des nombres réels, R+ le sous-ensemble de R formé des nombres réels positifs et R+ le sous- ensemble de R formé des nombres réels strictement positifs. Dans tout ce qui suit, on fixe n € N' et on adopte les notations suivantes Rn est F'espace vectoriels des n-uplets à coeflicients réels. Rn est muni de sa base canonique et du produit scalaire canonique noté (') et | Ilz la norme euclidienne associée (Xk)keN désigne des suites de vecteurs de R" Mn  (R) désigne la R algèbre des matrices carrées d'ordre n à coefficients réels; WstituT "PKEPAAATOIRE _ Pour une matrice A de Mnl (R), *A est sa matrice transposée. CeuoTHEQUE 0 I est la matrice identité de Mn (R) W SA Frvrs D = Diag(d1, dn) est une matrice diagonale avec d1, dn les termes diagonaux. Sn(R) le sous espace vectoriel des matrices symétriques de Mn (R) St (R) le sous ensemble des matrices posivites de Sn(R) c'est à dire des matrices A de Mn(R) vérifiant (AX,X) 2 0 pour tout X € R" On (R) le groupe des matrices othogonales de Mn (R). On appelle rayon spectral de la matrice A le réel positif, noté p(A), défini par: p(A) ~ max il I<in An) € Cn sont les   valeurs   propres   de A (comptées avec leur   ordre de où   (XL, X2, multiplicité) .
+Concours Mathématiques et Physique Session Juin 2010
+Épreuve de Mathématiques II
+Page 1/5
 
+--- page 2 ---
+Soient A € Mn (R), X,b € R" . On appelle une méthode itérative pour la résolution du système linéaire AX = b (1) la donnée d'une matrice B € Mn(R); dun vecteur c et dune suite récurrente de vecteurs (xk- )ken vérifiant Xo € R" donné, (2) Xk+1 = BXk + c. qui tend vers la solution exacte X du système (1) quand k tends vers linfini.
+On dit que la méthode itérative (2) est convergente si la suite de solution (Xk)keN est convergente et qu'elle converge vers la solution X du problème (1) On dit que la suite de vecteurs (Xk ')keN de Rn converge vers X € R" si et seulement si lim Ilxk ~ Xll2 = 0 k-++0
+On se propose dans ce problème létude de la convergence dune méthode itérative pour résoudre un système linéaire.
+I - Norme matricielle
+Soit $ la sphère unité de R":
+S = {X € R"; tel que ||Xll2 = 1}
+On note
+IAll2 = sup (IlAX |l2) . Xes
+1 Montrer que |MXll2 < IMllzllXll2 pour tout X € R" et pour tout M € Mn(R).
+2. Montrer que I ll2 définit une norme sur Mn(R). 3 Montrer que, pour tout A et B dans Mn(R); on a lA . Bll2 < IAll2 I Bll2. 4. Soit U € O(n) une matrice orthogonale.  Montrer que lMUlz = IUM Ilz = IM lz. 5. Montrer que; pour tout A € Mn(R); P(A) < IAll2. N 6 Soit B € Mn (R) une matrice telle que IBll2 < 1. Soit SN = Bk k=0
+(a) Montrer que la suite SN est convergente dans Mn (R) muni de la norme | Il2 Or note $ sa limite. (b) Montrer que (I ~ B) est inversible et que son inverse est $.
+7 Soit B € Mn(R): Montrer que si (I ~ B) est non inversible alors IBll2 2 1.
+Concours Mathématiques et Physique Session Juin 2010
+Épreuve de Mathématiques II
+Page 2/,
 
+--- page 3 ---
+II Propriétées des matrices symétriques positives
+Soit A € Sn(R) une matrice symétrique positive. 1 Montrer qu'il existe une matrice P € On(R) et une matrice D = diag( X1, X2, Mn(R) diagonale telles que A = PDP
+An) €
+avec les X; sont les valeurs propres de A.
+2 Montrer que, pour tout 1 <i < n, Xi 2 0.
+3 Soient 0 < X1 < X2 < . . . < Xn les valeurs propres de A rangées suivants lordre croissant et (Vi, '2223 Vn) les vecteurs propres orthogonaux qui leur sont associés. On pose
+9A(X) = (AX,X), VX € R" .
+(a) Montrer que qA(X) < XnllXll?, pour tout X € R" (b) Montrer que qA(X) 2 A1llXll2, pour tout X € R" . (c) En déduire que qA(X) est bornée sur $. (d) Montrer que AX = AnX si et seulement si (AX,X) = nIlXIl? . (e) Montrer que inf (IA(X)) = X1 et sup (qA(X)) = Xn: Xes Xes (f) Montrer que AkX tend vers 0 pour tout choix de X € R", quand k tend vers +0 si et seulement si Xn < 1.
+4 Montrer que IAll2 = Xn -
+5. Soit A € S+ (R) une matrice symétrique définie positive: Soit Y € R+ et B(y) = I _ ~A.
+(a) Montrer que, pour tout 1 <i < n, X; > 0. (b) Exprimer les valeurs propres J;(7) de B(y) pour tout 1 < i < n, de en fonction de ~ et des valeurs propres de A.
+(c) On définit
+fi(y) = |1 _ ~X;l Vy € R+
+et
+f() = max (fi(y)) Vn € R+ I<i<n i. Montrer que f(y) = max(f1(y), fn(v)). ii. Montrer qu'il existe Y > 0 tel que
+f1(y) si 0 < % < y*, f (y) ={ fn(y) si Y* < 7-
+iii. Donner lexpression de ~* . (d) En déduire que 1 - X1y si 0 < Y < y*, p(B(y)) = AnY - 1 si 7* < Y.
+Concours Mathématiques et Physique Session Juin 2010
+Épreuve de Mathématiques II
+Page 3/1
 
+--- page 4 ---
+(e) Montrer que p(B(7)) atteint son minimum en ~* et que An = M1 p(B(y*)) = mig (P(B(7)) = An + X1
+III Valeurs singulières dune matrice
+Soit A € Mn(R).
+1. Montrer que tAA € S+ (R) est une matrice symétrique positive. 2. En déduire qu'il existe une matrice P € On(R) et une matrice D = diag( X1 , An ) une matrice diagonale telles que tAA =t PDP
+avec les X; sont les valeurs propres de *AA.
+On appelle valeurs singulières de A; les valeurs Ti = VX;, pour 1 < i < n.
+3 Montrer que
+Omar sup (IlAXIl2)  et Omin Xes max Ui et Omin = min Oi. I<i<n I<i<n
+inf (IlAXIl2) Xes
+où Omax
+IV- Convergence dune méthode itérative
+Soit Q € R*, A € Mn(R) et b € R"_ On considère le système linéaire I A tA (z ) =(8 ) ~QI
+(3)
+avec (Z,X) € R2n 1. Montrer que si (Z,X) € R2n est solution du système (3) alors X € R" est solution de
+(tAA+ œI)X = Ab .
+2 Montrer que AA + œI) € St (R) est une matrice symétrique définie positive. 3 Montrer que la matrice du système (3) est inversible. 4 Soit Y € R et la matrice B(n) € Mn (R) définie par
+By) = I - ~(tAA + œI) -
+Concours Mathématiques et Physique Session Juin 2010
+Épreuve de Mathématiques II
+Page 4/5
 
+--- page 5 ---
+(a) Montrer que X € Rn est solution du système (4) si et seulement si X € R" est solution du système: X = B(y)X + ~ (tAb)  (b) On considère la méthode itérative:
+X0 € R" donné, Xk+l = B(y)xk + y(*Ab) .
+(5)
+i. Montrer que si la suite de solution (Xk ')ken du problème (5) converge vers X*= alors X* est solution du système (4) ii. Montrer que la méthode itérative (5) est convergente; pour tout choix de X%, si et seulement si p(B(y)) < 1. iii. Donner les valeurs de Y en fonction de œ et les valeurs singulières de A pour que la méthode itérative (5) soit convergente. iv. Trouver la valeur de ? qui minimise p(B(y)).
+Fin de lépreuve
+Concours Mathématiques et Physique Session Juin 2010
+Épreuve de Mathématiques II
+Page 5/5

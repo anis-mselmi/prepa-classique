@@ -1,5 +1,106 @@
+--- page 1 ---
+4a)4l4) @uja;igaus Y5@584IL~b Mys 21,alL] LhLli BfW> f Zim)7 ;,
+REPUBLIQUE TUNISIENNE Ministère de 1'Enseignement Supérieur; de La Recherche Scientiflque et de La Icchnologic Concours nationaux d'enurée Jux cycles de tormauon d'ingenieurs Session 2007
+Concours Mathématiques et physique
+Epreuve de Chimie
+Date Mardi 5 juin 2007
+Heure : 8
+Durée : 2h
+Nbre de pages 6
+Problème I 6,0 pts
+Problème II 4,0 pts
+Problème III 5,5 Pts
+Problème IV Barème/20 4.5 pts Cet énonce comporte 4 pages de texte et 2 pages annexes à rendre avec la copie
+Les candidaus sont priés de présenter leurs réponses dans l'ordre même de l'énoncé. L'usage des calculatrices électroniques de poche non programmables est autorisé. Aucun échange nest autorisé entre les candidats: DEBUT DE L'ENONCE
+Données: Pres Constante des gaz parfaits R = 8,314 JK mol-' Suronre _ Wsntut Masses atomiques (g. mol ' @IBUOTMEQUE SFAK' MN 14,0 Mp 1,0 McI 35,5 MHg 200,6 ; Mp : 19,0 auX5 ETUOEs @"wsbiuis  Température débullition standard du mercure 630 K Ravon ionique du fluor FF- = 1,33 &. Données thermodynamiques à 298 K : ArH? en kJ.mol S" en JK mol Hgua 0 76.0 HgOsd) -90,8 70.3 Oze 0 205.0 Hg 2+ + 2420 = Hg(OH)2(a9 + 2H + pK? = 6,09 pKa(Hg(OH)2(aq /HHgOZ(aq) ) = 14,88. Le produit ionique de /eau Ke = 10-14. Les potentiels normaux (standard) : E 0 '(Hg?+ /Hg;+) = 0,920 V. E 0 (Hg(OH)2(aq/Hgg' ) = 1,279 V. E 0 '(HHgoz(aq/Hg2t = 2,159 V Conversion : RT X Ln(X) = 0,059 x F log1o (X) L'indice (aq) signifie en solution aqueuse
+Concours Mathématiques et physique  Session 2007- Epreuve de chimie
+Page 1
 
+--- page 2 ---
+Problème I : cristallographie Un fluorure de mercure Hgx 4y? cristallise dans une maille de type cubique avec un paramètre a = 5,54 A. La maille élémentaire contient des cations Hg * situés aux sommets du cube et aux centres des faces des anions F situés dans tous les sites interstitiels  tétraédriques du reseau des cations Hg" 4+
+[-1) Dessiner la projection de la maille et son contenu sur le plan (æ,6) en précisant les côtes des ions. 1-2) En justifiant votre réponse, déterminer les coordinences de Hg" et F . 1-3) Calculer le nombre de groupements formulaires par maille 144) En déduire la valeur de x, y et q (charge du cation) 1-5) Quel est le représentant de la famille de composés à laquelle appartient HgxFy ? 1-6) Donner ]expression puis calculer I-6a) le rayon ionique FHg9+. [-6b) La masse volumique de Hgx' 4 I-6c) La compacité de Hgx ^ 
+Problème II : Diagramme dEllingham II-1) Ecrire pour une mole de dioxygène; léquation-bilan doxydation du mercure liquide en oxyde de mercure HgO solide II-2) En appliquant la loi daction de masse et en supposant   que les réactifs et  les produits se comportent de manière   idéale, donner   lexpression de la constante déquilibre KT relative à ce système.
+11-3 ) Donner [expression de /enthalpie libre de la réaction. 11-4) Etablir ]expression numérique de [enthalpie libre standard de cette réaction en se plaçant dans l'approximation dEllingham II-5) Quel est 1effet d'une augmentation de température à pression constante, sur cette réaction ? Justifier.
+1I-6) Quelle est la pression partielle Poz du dioxygène O2 dans ]air ? Concours Mathématiques et physique -Session 2007 - Epreuve de chimie
+Page 2
 
+--- page 3 ---
+II-7) Etablir expression puis calculer la température déquilibre doxydation de Hg(liq) dans [air. II-8) Peut-on obtenir du mercure liquide par simple chauffage de HgOtsd) dans lair ? Justifier votre réponse. 1 
+Problème III : Diagramme binaire HgClz-NHCI Le diagramme isobare des   équilibres   binaires   liquide-vapeur et   liquide-solide entre HgClz et NHCI est donné en annexe [. III-1 ) Que représentent les segments verticaux situés à C1, Cz, C;, C4 et Cs ? III-2) Déterminer la formule chimique du composé correspondant à C;. III-3 ) Quelle est la nature de sa fusion ? III-4) Quelles sont les phases en présence dans les domaines numérotés de (1) à (3) ? III-5) Définir les points représentatifs (F); (K) et (I) III-6) Expliciter léquilibre (nom et équation) ayant lieu sur le palier de température 243,5 C III-7) On refroidit un mélange formé de 0,7 mol de NHCI et 0,3 mol de HgClz de 360 C jusqu'à 320 C III-7a) Représenter sur le diagramme par deux couleurs différentes les chemins suivis par les points représentatifs des phases liquide et vapeur au cours de ce refroidissement. III-7b) A quelle température, le nombre de moles de la phase gazeuse est égal à celui de la phase liquide ? III-8) Tracer sans commenter Vallure de la courbe danalyse thermique obtenue au cours du refroidissement du mélange représenté par le point figuratif P (voir diagramme) III-9) On  procède a une distillation factionnée dun mélange HgClz-NHCI a 30% molaire en NHCI.
+Qu'obtient-on comme résidu et comme distillat ? Justifier .
+Concours Mathématiques et physique Session 2007 - Epreuve de chimie
+Page 3
 
+--- page 4 ---
+Problème IV : Diagramme E-pH On se propose de tracer une portion du diagramme E-pH simplifié du mercure. Pour cela, on va considérer seulement les espèces dissoutes suivantes 2+ 2+ Hg(aq)' Hgz(aq)' Hg(OH)2(aq) et HHgOz(aq) Les conventions adoptées pour tracer ce diagramme sont La concentration totale en élément Hg dissous est égale à la concentration du tracé Ctra =10- molL-1  A la frontière séparant les deux domaines des deux especes dissoutes, les concentrations atomiques en élément Hg sont égales. IV-1) Donner les expressions puis calculer les valeurs des potentiels d'électrode pour les couples redox suivants  IV-a) Hg?+ /Hg2+ IV-b) Hg(OH)2(aq) /Hg2+  ^ IV-c) HHgOz(aq /Hgz+ IV-2) Etablir ]expression puis calculer la valeur de pH IV-2a) pour laquelle Fentité Hg(OH)2(aq) est prépondérante par rapport à Hg?+ IV-2b) pour laquelle Fentité HHgOz(aq) est prépondérante par rapport à Hg(OH) 2(aq). IV-3) En déduire les différentes formes prédominantes de Hg (+II) en fonction du pH IV-4) Tracer et indexer le diagramme E f(pH) simplifié du mercure (document Annexe II à rendre avec la copie)
+FIN DE L'ENONCE
+  
+Concours Mathématiques et physique -Session 2007 - Epreuve de chimie
+Page 4
 
+--- page 5 ---
+Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs
+Signature des surveillants
+REPUBLIQUE TUNISIENNE Ministère de /'Enseignement Supérieur, dc La Recherchc Scientifique et de La Technologie
+Session Epreuve de Nom Institution dorigine
+Concours
+e vien éaireic
+Prénom (s)
+Identifiant
+Série
+@PC
+P =1 bar
+@PC
+380
+P (0%) 360
+F Ccl
+340
+{1)
+330P€
+320 D
+300
+K 280
+260
+213s C
+240
+(2)
+220
+209 C
+200
+E1
+492,590 Ez
+1 (3) 20 335 40 Cs C1 C
+1 60  66,6 80 C. Cs Pourcentage molaire
+100 NH,CI
+HgClz
+Annexe I: Diagramme binaire HgClz-NH,CI
+A RENDRE AVEC LA COPIE)
+Concours Mathématiques et physique Session Juin 2007
+Epreuve de Chimie
+Page 5
+Jsuulk
 
+--- page 6 ---
+NE RIEN ECRRRE ICI
+0,8
+0,6
+0,4
+0,2
+{
+-0,2
+-0,4
+-0,6
+-0,8
+21
+4
+6
+8
+10
+12
+14
+16
+Annexe II : Diagramme E-pH du mercure
+Concours Mathematiques et physique Session Juin 2007
+Epreuve de Chimie
+Page 6
+pH

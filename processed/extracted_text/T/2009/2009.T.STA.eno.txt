@@ -1,14 +1,396 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE
+1F9') @i2ae~| {ukzlazts Edbuuksl Jssw Zibgl el JliLini idinl Disi Jal> Li 2009 629'
+Ministère de FEnscignement Supérieur, de la Recherche Scientifique et de la Technologie
+K
+Clnqvonlcnoirc Vuneoaenic 14aga
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs Session 2009 Msttur Teiaiaroire _ Concours Technologie GKoTHEqUE) (Uoes) {> Epreuve de Sciences et Techniques de IIngénieur Dnonus
+Date Vendredi 05 Juin 2009
+Heure 8 H
+Durée 5 H
+Partie B 4 points Partie € : 4 points Partie D : 4 points Barème Partie A 8 points
+L'épreuve   comporte   quatre   parties A-Technologie de   Conception; B- Technologie de Production; €- Mécanique & RDM et D- Automatique. Documents remis au candidat: Deux dossiers ( Présentation, Données et Hypothèses 9 et < document réponse > Deux documents techniques Dessin d'ensemble et Dessin de définition (2 formats A3). Aucun document n'est autorisé L'utilisation des calculatrices de poche non programmables est autorisée. Les différentes parties sont indépendantes et doivent être traitées sur le document réponse. Un seul dossier document réponse est fourni au candidat et doit être rendu en totalité, même sans réponses à la fin de lépreuve. Le renouvellement de ce dossier est interdit.
+DOSSIER
+PRESENTATION, DONNEES ET HYPOTHESES Ce dossier comporte 11 pages numérotées de 1à 11 Présentation pages 1 à 3 ; Données et hypothèses Partie A pages 4 et 5 ; Données et hypothèses Partie B page 6 ; Données et hypothèses Partie C pages 7 et 8 ; Données et hypothèses Partie D pages 9 à 11.
 
+--- page 2 ---
+STI Technologie
+Dossier Présentation, Données et Hypothèses
+UNITE DE PERÇAGE A CAME CLOCHE
+MISE EN SITUATION Le perçage des trous dans une ligne de production nécessite généralement ]'utilisation dun poste automatisé de perçage . Le sujet de lépreuve concemne létude dun poste de perçage (Figure 1), intégré dans un système de production semi-automatisé pour le perçage de trous de diamètres inférieurs à 14 mm et de profondeur maximale de 60 mm dans des pièces en acier. Il est constitué principalement de Une unité de perçage à came cloche permettant d'exécuter le cycle de perçage Un plateau tournant permettant de maintenir et de positionner la pièce devant lunité de perçage
+Foret
+Plateau tournant
+Unité de perçage à came cloche
+Pièce à percer
+Figure 1: Poste semi-automatisé de perçage.
+FONCTIONNEMENT
+L'étude portera sur lunité de perçage à came cloche, définie par le dessin densemble (Document 1 et sa nomenclature page 3) et par le schéma cinématique simplifié (Figure 2) Le mouvement de coupe (rotation de loutil) est obtenu par un moteur électrique (26) qui assure, en plus, grâce à une came cloche (24) entraînée indirectement par ce moteur, le mouvement d'avance du foret.
+Le foret, non représenté, est monté à l'extrémité de larbre porte broche d'un mandrin ou directement par cônes < Morse >
+soit par 'intermédiaire
+Concours nationaux d' entrée aux cycles de formation dingénieurs
+Session 2009
+Page
 
+--- page 3 ---
+STI Technologie
+Dossier Présentation, Données et Hypothèses
+L'action SUI   un interrupteur extérieur à commande manuelle ou automatique)   déclenche le cycle de perçage suivant La mise en route du moteur électrique (26) et par suite la mise en rotation du foret L'excitation de lélectroaimant (29) de lembrayage; commandée par la présence de la pièce à percer; entraine la mise en rotation de la came cloche (24) Le perçage d'un trou Pavance et la course du foret sont données par le profil de la came (24); La fin du cycle de perçage par Jaction de la butée (35) sur le micro-rupteur (32)
+La rotation de la came cloche (24) est commandée par les organes suivants Un premier réducteur de vitesse composé dune vis sans fin (4) et dune roue dentée (8) Un embrayage électromagnétique (27, 28 et 29) qui permet d'établir temporairement une liaison complète entre l'arbre creux (36) et l'arbre (31) ; Un deuxième réducteur de vitesse comprenant un pignon (37) et une roue dentée (38); Un troisième réducteur de vitesse comprenant une vis sans fin (3) et une roue dentée (9);
+La came cloche (24) prend appui sur le galet (19) lié au bâti (10) moyennant un dispositif qui permet le réglage de la position de lunité et par suite la position du foret par rapport à la pièce à percer. La rotation de la came (24), entraîne la translation de lunité de perçage sur le bâti (10).
+Foret
+37
+38
+37
+3
+38
+10
+Figure 2 Schéma cinématique minimal de Funité de perçage (phase embrayée) .
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2009
+Page 2
 
+--- page 4 ---
+STI Technologie
+Dossier Présentation, Données et Hypothèses
+NOMENCLATURE
+24
+Came cloche
+C10
+23
+Ecrou
+E355
+47
+Ecrou
+E 355
+22
+Vis H, M1O-55
+E355
+46
+Vis
+E355
+21
+Arbre porte-= galet
+C 38
+45
+Ecrou
+E355
+20
+Support
+E 355
+44
+Coussinet
+Z- A4G
+19
+Galet
+C10
+43
+Roulement à billes
+18
+Arbre
+C 10
+42
+Roulement à aiguilles
+17
+Boitier
+EN-GJL-1oo
+41
+Coussinet
+Z- A4G
+16
+Roulement combiné
+40
+Axe
+C38
+15
+Cales de réglage
+E355
+39
+Cale
+E355
+14
+Entretoise
+E355
+38
+Roue dentée Z38=47
+C 38
+13
+Joint détanchéité
+élastomère
+37
+Pignon Z37=24
+C38
+12
+Roulements à billes
+36
+Arbre Creux
+C 10
+11
+2
+Ressort
+45SiCrMo6
+35
+Butée
+E355
+10
+Bâti
+EN-GJL 250
+34
+Couvercle
+EN-GJL 250
+9
+Roue dentée Z,=20
+C 38
+33
+Couvercle
+E355
+8
+Roue dentée Z,=19
+C 38
+32
+Micro-rupteur
+Arbre porte Broche
+C 10
+31
+Arbre
+C10
+6
+Joint d étanchéité
+élastomère
+30
+Goupille
+E 235
+5
+Carter
+EN-GJL 250
+29
+Electro-aimant
+4
+Vis sans fin Z4=1
+C 38
+28
+Flasque
+E 355
+3
+Vis sans fin Z3=1
+C 38
+27
+Disque avec garniture
+2
+Poulie 3 gorges
+MN 350-10
+26
+Moteur
+Poulie 3 gorges
+MN 350-10
+25
+Courroie trapézoïdale
+Rep Nb Désignation
+Matière
+Rep. Nb Désignation
+Matière
+Concours nationaux d entrée aux cycles de formation dingénieurs
+Session 2009
+Page
 
+--- page 5 ---
+Dossier Présentation , Données et Hypothèses
+STI Technologie
+PARTIE A TECHNOLOGIE DE CONCEPTION
+DONNEES ET HYPQTHESES Vitesse de rotation NM 1500 tr /mn Puissance PM 736 W. Moteur Transmission par poulies-courroie (1, 2, 25) Rendement 71 =0,85 Transmission par roues et vis sans fin (4,8) et (3,9)= Rendement par étage 72 = 0,6 ; Nombre de dents Z4 = 1,Z8 19,Z3 = 1 et Z9 20. Transmission par Roues dentées (37-38) Rendement 0, 9 ; Nombre de dents Z37 24 et Z38 =47_ 73 Embrayage électromagnétique (27, 28,29) Surface de fiction de rayons R 28 mm etr = 16 mm Coefficient d'adhérence garniture - flasque : f = 0,3 ; R3_r Couple dadhérence Cadh ZnFf R2-T2 Pression maximale admissible de la garniture PMax ad 2MPa ; Résistance pratique au glissement  de la goupille (30) Rpg 200MPa.
+AIDE MEMQIRE SUR LA IRANSMISSION PAR PQULIES-CQURRQIE : Brin tendu Longueur de référence de la courroie Ld Brin mou (D = d)? Ld = 2a + (D + d) + 2 4a Sens de Angle denroulement 0 rotation D=d Cos 4 = 2a Tension due à la force centrifuge Tc = P v? Motrice Réceptrice masse linéique de la courroie (Kglm) et v vitesse linéaire de la courroie. p Wa Tensions aux niveaux de brin tendu (T) et de brin mou (t) T = Tc = efeo Où fe t = Tc Sina Coefficient de frottement équivalent, f : coefficient de avec   fe frottement poulie-courroie et œ demi-angle au sommet de la courroie. Section dune courroie T+t trapézoïdale (œ 209) Tension de pose To
+Concours nationaux d' entrée aux cycles de formation d'ingénieurs
+Session 2009
+Page
 
+--- page 6 ---
+STI Technologie
+Dossier Présentation, Données et Hypothèses
+DESCRIPTION DE LACAME CLOCHE (24)L; Un cycle complet de perçage (Avance Rapide, Avance Lente puis Retour Rapide) est effectué en un tour de la came cloche. La variation de la position x de ]'outil en fonction de Fangle effectué par la came cloche est donné par la figure A-1. Pour 0 < 0 < = Avance Rapide (A.R) permettant à l'outil de se rapprocher de la pièce Pour < 0 5n Avance Lente (AL:) correspondant à la phase de perçage
+51 Pour
+< ZT Retour Rapide (RR) correspondant au dégagement de Foutil
+(mm)
+Trou à percer
+7
+70
+AL.
+AR
+10
+8 (rad) Zn
+RR
+Sn 3 RR
+6 'AR
+AL: 3 de tour
+Cycle de perçage
+Figure Al Variation de la position x de loutil en fonction de langle 0 effectué par la came.
+ARC BQUTEMENIAU NIVEAU DE LARBRE PORIE-GALET(21L: Lors du réglage, les actions mécaniques exercées sur ]arbre porte-galet (21) sont : 20 En C : Action de la vis (22): F FX ; Z En D Action de la came (24) : N = -NX ; > En A et B : Actions du   support (20) au niveau de la liaison pivot-glissant supposée B avec frottement de coefficient f tg(p): N B À = -AxX + Az' et B = ~BzX _ BzZ ;
+Les paramètres F, N, Ax, Az Bx et Bz sont positifs ou nuls.
+Figure À.2 Actions extérieures sur (21). Concours nationaux dentrée aux cycles de formation d'ingénieurs Session 2009 Page 5
 
+--- page 7 ---
+STI Technologie
+Dossier Présentation Données et Hypothèses
+PARTIE B PRODUCTION MECANIQUE
+On se propose d'étudier la fabrication du boîtier (17) dont le dessin de définition est donné dans le document Bl. Le boîtier est en EN-GJL-100 (FGLIOO). La pièce brute est obtenue par moulage en sable noyauté avec une surépaisseur de 2mm et un retrait de 1,2%. Les surfaces à usiner sont numérotées de à 14 et toutes les autres surfaces resteront brutes (Document B1 ).
+ETUDE DE FABRICATION Rédaction du projet d'usinage Pour la fabrication du boîtier (17), on utilisera des machines outils à Commande Numérique (CN) La gamme prévisionnelle proposée prévoit les phases suivantes Phases Opérations procédés 10 Usinage  des surfaces 1,2 ,3 ,4 ,5,6 et 1l Tournage en CN 20 Usinage des   surfaces 7 ,8 , 9 , 10 et 14. Tournage en CN 30 Usinage des surfaces 12 et 13- Fraisage en CN
+La série prévue est de 500 pièces par an, renouvelable ETUDE DELA CQUPE Lébauche des surfaces 8 et 10 du boîtier (17) est réalisée sur un tour CN avec un outil à aléser et dresser en 3 passes Une passe ébauche sur une longueur de 28 mm et au diamètre 29 mm. Deux passes ébauche sur une longueur de 10 mm et aux diamètres respectivement de 32 mm et de 35 mm_ Les données de coupe établies sont Vitesse de coupe Vc3o 180 mmn Avance F 0,12 mmltr Profondeur de passe ap 1,5 mm Pression spécifique de coupe Ks 280 daN/mm
+Vc3o est la vitesse de coupe pour une durée de vie de 30 mn_
+USINAGE SUR MACHINE QUTILCN On s'intéresse à Fétude de lopération de finition des surfaces 7= 8 9 et 10 (document B1) La machine utilisée est un tour CN à 2 axes et à tourelle arrière. L'usinage est assuré par un outil à aléser et dresser T4 placé initialement au point Ot de coordonnées X=100, Z=100 par rapport à lorigine programme (Op). Les points d'engagement et de dégagement sont à 4 mm du profil à usiner.
+ncours nationaux d entrée aux cycles de formation d' ingénieurs
+Session 2009
+Page
 
+--- page 8 ---
+STI Technologie
+Dossier Présentation, Données et Hypothèses
+PARTIE € MECANIQUE & RDM
+MECANIQUE DQNNEES ET HYPOTHESES L'unité de perçage,   définie par le schéma cinématique minimal (Figure 2, page 2) est modélisée dans cette partie par la Figure C.1. Elle est constituée principalement de Un bâti (10) auquel est associé le repère orthonormé direct R (O,X,7,2) supposé galiléen Un système (2) qui regroupe lensemble des pièces animées en translation par rapport au bâti (10) lorsque Vembrayage est actionné. Le système (Z), de masse M, est en liaison glissière daxe (D,%) avec le bâti (10). Le mouvement de translation de (2) est contrôlé par la forme de la came cloche (24) qui est en liaison pivot daxe (C,<) avec le carter (5). La came cloche (24) de rayon moyen Rc et le carter (5) font partie du système (Z). On pose Oc xX + Rc' où x est paramètre de position du par rapport à (10). La rotation de la came cloche (24) est assurée par un train d'engrenage (Figure 2) et un système poulies- courroie {1,2,25} (Figure C.2) Un galet (19), de centre 0 et de rayon Rg, en liaison pivot daxe (0,7) avec le bâti (10) d'une part et en liaison supposée ponctuelle de normale (I,X) avec la came cloche (24) dautre part tel que 01 Rgx. On notera par @ la vitesse angulaire du solide ( i ) par rapport au carter (5) (i = 1,2,19ou 24) Toutes les liaisons sont supposées parfaites sauf la liaison glissière entre (5) et (10) et la liaison ponctuelle entre (19) et (24). On désigne par f le coefficient de frottement entre (5) et (10) Le contact en [ entre (19) et (24) est maintenu par le ressort (11) qui exerce sur (Z) une action mécanique définie par F(11 9 C) = ~(Fo + kx) où k est la raideur du ressort et Fo est une constante positive (force initiale du ressort)
+L'action de la pièce sur (Z) est définie par ~FpX) {T(Pièce 2)} CpX L'action de (19) sur (24) est définie par R(19 24) = FX+ F,F. Le champ de pesanteur est défini par g = ~g7.
+10
+Figure C.1 Modèle adopté pour l'étude dynamique de Funité de perçage à came cloche_ Concours nationaux dentrée aux cycles de formation a'ingénieurs Session 2009 Page
 
+--- page 9 ---
+STI Technologie
+Dossier Présentation, Données et Hypothèses 7 mg K
+0
+B
+1wz
+5
+25
+Figure C.2 Transmission par poulies-courroie
+RDM DONNEES ET HYPOTHESES : On se propose d'étudier la résistance de l'arbre (3) modélisé par la figure C.3. L'arbre (3) regroupe dans ce modèle la vis sans fin (3) et la roue dentée (38). La liaison de larbre (3) avec le carter (5) est assurée par deux roulements à billes modélisés respectivement  par une linéaire annulaire daxe (L,7) et une rotule de centre F L'arbre (3) est soumis aux actions; du pignon (37) en E et de la roue dentée (9) en Q, modélisées par les torseurs suivants
+{T(37 > 3)} = @,7') Ft ~Xtl0 {T(9 9 3)} = Ya 0 (x7z) Zr Avec Ft 5ooN Fr = Fxtg(a), Zr = Xr Eg(a) et Ya = Xttg(B) où Cos(B) pression et B = 19' est langle dhélice
+20= est   langle de
+38
+7 KE
+IM
+38
+72mm, b 44mm, c = 22mm, MQ =r 8mm, NE =R = 22mm ct Y = 309
+Figure C.3 Modèle adopté pour létude statique et RDM de larbre (3).
+Larbre (3) est en acier C38 de résistance pratique à l'extension Rpe OMax.ad 300MPa et de résistance pratique au glissement. Rpg TMax.ad 200MPa
+cours nationaux d entrée aux cycles de formation dingénieurs
+Session 2009
+Page
 
+--- page 10 ---
+Dossier Présentation , Données et Hypothèses
+STI Technologie
+PARTIE D AUTOMATIQUE
+Dans   cette  partie, on   introduit un système hydraulique pour assurer le mouvement de (Figure 1 , page 1) Ce dernier remplace le système déplacement de Funité de perçage d'entraînement mécanique à base de la came cloche. Toutefois; la rotation du foret dans un seul sens est toujours obtenue par un moteur électrique parties indépendantes la première (Partie D-1) La présente étude est composée de deux du poste de perçage. La   seconde (Partie D-2) traite porte SUr la   commande   séquentielle l'asservissement de vitesse de déplacement de ]'unité de perçage moyennant le système hydraulique  en vue d'assurer les différentes consignes du cycle de perçage (avance rapide, avance lente et et ce retour rapide).
+PARTIE D-1 COMMANDE SEQUENTIELLE DU POSTE DE PERÇAGE L'objectif de cette étude est Fétablissement dune b commande séquentielle du poste de perçage dont le schéma de principe du fonctionnement est illustré par la figure D.1. Les   conditions initiales   nécessaires   pour   lamorçage du RB cycle automatique sont: p Présence d'une pièce à percer sur le plateau tournant AR (p=1) AL Unité de perçage en position initiale (a=1)
+Le cycle de perçage d'un seul trou est le suivant RR Après avoir placer et bloquer la pièce à percer sur le Figure D.l Schéma de principe du plateau tournant, F'opérateur met le système en marche en fonctionnement de poste de perçage appuyant sur  le bouton poussoir  <dcyv, la séquence de perçage sera exécutée comme suit: Avance Rapide (AR) commandée par le système hydraulique jusqu'à la position de début de perçage indiquée par le capteur <bv, Avance Lente (AL) commandée par le système hydraulique jusqu'à la position de fin de perçage indiquée par le capteur <cv, Retour Rapide (RR) commandée par le système hydraulique jusqu'à la position initiale indiquée par le capteur <av La rotation de la broche (RB) est maintenue tout le long de cette séquence par la mise en marche du moteur électrique_ cycles de formation d'ingénieurs Session 2009 Page Concours nationaux dentrée aux
 
+--- page 11 ---
+STI Technologie
+Dossier Préscntation, Données et Hypothèses
+Les notations utilisées dans cette étude sont résumées comme suit
+Abréviation
+Description
+AR
+Action d' avance rapide de lunité de perçage Action d'avance lente de lunité de perçage Action de retour rapide de Funité de perçage Action de rotation de la broche
+AL
+RR
+RB
+RP
+Action de rotation d'un quart de tour du plateau tournant Appui sur le bouton de départ du cycle Détection dune pièce à percer située sur le plateau tournant Unité de perçage en position initiale Unité de perçage en position de début de perçage Unité de perçage en position de fin de perçage Fin dune rotation dun quart de tour du plateau tournant Variable entière de comptage du nombre des trous percés. Exemple ([cp 4]=1) si le nombre de trous est inférieur à quatre
+cp
+PARTIE D-2: ETUDE DE L'ASSERVISSEMENT DE VITESSES DE DEPLACEMENT Le système hydraulique; assurant le mouvement de déplacement horizontal de lunité de perçage, est constitué dune servovalve proportionnelle électro-hydraulique à 3 étages et dun vérin double effet symétrique (Figure D.2) La servovalve est commandée par une solénoïde de résistance R et d'inductance L_
+u(t)
+Pz 92
+Pv 91
+VI2
+S 5
+V/2
+x(t)
+Figure D.2 Schéma de principe du système hydraulique
+'1cours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2009
+Page 10
+dcy
 
+--- page 12 ---
+STI Technologie
+Dossier Présentation, Données et Hypothèses
+Liste des paramètres Abréviation
+Désignation Masse équivalente de ['unité de perçage Coefficient de frottement visqueux du vérin Raideur du vérin hydraulique Section utile du piston du vérin Volume du vérin double effet symétrique. Coefficient de compressibilité du fluide Gain statique de la servovalve Pressions dans les chambres et 2 du vérin. Débits des fluides alimentant les chambres 1 et 2 du vérin Tension d'alimentation de solénoïde Déplacement de lunité de perçage
+mc fe kc 5 V
+B ka Pn Pz 91, 92 u(t) x(t)
+Pour simplifier l'étude de ce système, on adopte les hypothèses suivantes Le phénomène de saturation est négligé dans le solénoïde Les forces de frottements dans la servovalve et le vérin sont supposées proportionnelles aux vitesses de déplacement Le distributeur de la servovalve est parfaitement symétrique Pas de perte de charge Linductance L du solénoïde est supposée négligeable devant la résistance R ; La transformée de Laplace d'une fonction continue f (t) est notée F(p). En plus, toutes les conditions initiales sont supposées nulles. Par une commande positive de tension u(t), une force créée par le solénoïde permet le déplacement du tiroir, ce qui produit ['augmentation de la pression P1 dans la chambre 1 du vérin et la   diminution de la pression Pz dans la chambre 2 Par conséquent; la différence de pression 2 = P1 - Pz génère un déplacement horizontal du piston du vérin entraînant l'unité de perçage de masse Mlc. Les débits q1 et 92 sont identiques (q1=92=9) puisque le vérin est symétrique. Ainsi, les équations régissant le fonctionnement du système hydraulique sont les suivantes
+Léquation de mouvement de Punité de perçage de masse mo est donnée par mc 4*4 fc d2(2+ kcx(t) = S 2(t) (1) dt' dt Léquation de débit est donnée par 9202 + sd202 kau(t) 2B d dt
 
+--- page 13 ---
+Dessin du brut
+B-B
+Repérage des surfaces usinées
+13
+12
+14
+10
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs Concours Technologie Epreuve STI Session 2009
+Repère 17
+Echélle 1:1
+BOITIER
+Document B1
 
+--- page 14 ---
+036 +8,5
+A-A
+@3oH7
+00 + + 8
+3 9
+D
+Détail D
+05
+832H8
+037H7
+B5Oh6
+70,05] 0,051
++21 @30H7 030 0
++25 837H7 037
++39 832H8 832
+B5oh6 @50 -19
+Tolérance non cotée +0,3 Les arrondis non cotées
+Etat de surface Ra=3,2
+sauf indication
+A;B;C: Ra=0,8
+3 trous à 1200 sur un @ 62
+A-B
+%o,08
+4
+062
+R6,5 7 A
+AT
 
+--- page 15 ---
+Vue suivant F pièce 34 enlevée
+'mbrayage Ech 1:1
+37
+27
+38
+28
+3
+36
+32
+35
+A-A
+40
+41 42
+B
+43
+44
+45
+46
+27
+28 29
+22
+30
+36
+31
+3Z
+32
+38
+33
+39
+34
+35
+B
+Joncours nationaux d'entrée aux cycles de formation dingénieurs Session 2009 Ech 1.2 UNITE DE PERCAGE Le 05 / 06 09 A CAME CLOCHE Document 1

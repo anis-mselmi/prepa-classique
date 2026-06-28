@@ -1,6 +1,108 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de ['Enseignement Supérieur; de la Recherche Scientifique et de la Technologie
+Concours Nationaux dEntrée aux Cycles de Formation d'Ingénieurs Session Juin 2004
+Concours en Technologie Epreuve de Physique
+(Eare QbAst;
+Date : Jeudi 10 juin 2004
+Heure : 8 H
+Durée 4 H
+Nb pages
+Barème 1 [èrcPartie 2,5 pts
+2èm Partie : 6 pts
+3èmcPartie 5,5 pts
+{èœ Partie :6 pts
+L'usage d'une calculatrice non programmable est autorisé
+Si, au cours de l'éprewve; u candidat repère ce qui lui semble être we erreur d'énoncé, il le signale sw sa copie et powsuit sa composition en indiquant les raisons des initiatives qu'il est amené à prendre. Le problème comporte quatre parties. Le candidat peut toujours se servir d'un résultat foumi par [énoncé pour continuer sa composition:.
+PRQBLEME: Rayonnement dune molécule soumise à une onde électromagnétique et radar à balayage électronique On rapporte ['espace à un système d axes (Ox, Oy; Oz) de base orthonormée directe Ux , Uy , Uz ) Le milieu vide de charge et de courant est caractérisé par sa permittivité électrique € et sa perméabilité magnétique Ho. La célérité de la lumière dans le vide est c = 3 108 m.s
+PREMIERE PARTIE Action dune onde électromagnétique sur la molécule de monoxyde de carbone On considère la molécule linéaire de monoxyde de carbone; qu' 'on modélise par deux points matériels de masses mo et mc reliés par un ressort de raideur k et de longueur à vide a A cause de la différence d'électronégativité entre [atome doxygène et ]atome de carbone; il apparaît sur Tatome doxygène la charge (~ôe) et sur l'atome de carbone la charge (ôe) avec € la charge élémentaire et 6 une constante positive  inférieure à 1. On envoie sur la molécule, alignée dans la fgure Z direction (Oz), une onde électromagnétique plane progressive monochromatique; de pulsation @ et de   longueur donde 1 Londe; polarisée   rectilignement suivant mo mc Faxe (Oz), se propage suivant ]axe (Ox) . Le champ électrique de cette onde s'écrit E Eocosot 2ux) uz où Eo est une constante réclle positive. On désigne par Zo(t) et z(t) les déplacements respectifs des atomes doxygène et de carbone par rapport à leurs positions déquilibre (figure 1).
+Coocours Tecbnologic Sessiou Juiz 2004
+Eprcuve de Pbysique
+Prge 17
 
+--- page 2 ---
+1.a. Montrer que dans le cas où les vitesses de déplacement des atomes sont négligeables devant la célérité de la lumière c, laction du champ magnétique de londe incidente est négligeable devent celle du champ électrique. 1.b. Sachant que la longueur d'onde ^ est supérieure à 0,4 um, justifier qu'on peut considérer que Je champ électrique de Fonde est uniforme à léchelle moléculaire E Eo cos(ot) uz
+Dans la suite, on supposera que ces deux conditions sont réalisées
+2.& En négligeant   les   interactions  intermoléculaires   ainsi que laction de pesanteur,  écrire dans le référentiel R(O,x,y,z), supposé galiléen  les équations différentielles vérifiées par les déplacements Zo(t) et Z(t) 2b. En déduire que l'équation différentielle vérifiée par u(t) = Z(t) ~ Zo(t) s'écrit d2u 08 u ôeEo cos(@t); avec 1 mo mc et 08 k dt p mo + mc E 2.c Résoudre cette équation en régime sinusoïdal forcé 2.d. Montrer que le vecteur moment dipolaire P de la molécule s'écrit P = [Po + Poi cos(ot)] Uz avec 82e2 Eo Po Sea et Poi Interpréter chaque terme #(@o
+DEUXIEME PARTIE Rayonnement dipolaire
+Z A
+On s'intéresse; dans cette partie; au rayonnement dipolaire émis par la molécule de monoxyde de carbone dotée du moment dipolaire P [Po + Poi cos(ot)] Uz _ déterminé précédemment   (question 2.d de la première partie). On admet que le potentiel scalaire créé par cette molécule; placée en 0 en un point M rpéré par ses coordonnées sphériques (r,8,0) tel que OM >> (figure 2) écrit, en notation complexe
+Ur M x Uq
+Ue
+P
+cos@ 1 V(Mt) Po + Poi (1+j2r)"-?) } 4 1 €0 I
+fgure 2
+1. Simplifier et commenter les expressions du potentiel scalaire V dans les cas suivants molecule isolée (non soumise à une onde incidente)
+molécule soumise à laction d'un champ électrostatique E=Eo Uz molécule soumise à l'action de londe incidente de longueur d'onde 1 avec I <1 molécule soumise à l'action de londe incidente avec r>> 1 Ecrire les relations permettant de déterminer le potentiel vecteur A (Mt) à partir du potentiel scalaire V(M,t) les champs électrique E (Mt) et magnétique B(Mt) à partir des potentiels scalaire V(M,t) et vecteur A (Mt)
+Concoun Tcchnologic Sessioc Juin 2004
+Eprcuve dc Physique
+Prge 277
 
+--- page 3 ---
+int la evant
+On admet, dans la suite, les expressions suivantes pour les champs électrique et magnétique E 2cos@ 1 Po + Poi (1+j4r)e0(+-4) } 4 T €0 Eo sin@1 E (Mt) 4 1 Po + Poi 1+j4r-(@/)e*6-9} €0 Ev = 0
+ue le
+s de ents
+Hosin @ jo B (M,t) Poi I+j @r Jeio(-5) } 4 1 12 Up 3. Par des considérations de symétrie; justifier les directions des champs E et B Que deviennent les expressions de E(Mt) et E(Mt) pour des champs proches (r <<4) ? Même question pour des champs lointains (r >> 1)
+jec
+Dans la suite, on se placera dans la zone des champs lointains ou zone de rayonnement (r >21)
+5. Justifier Faffirmation suivante le modèle de Ponde   électromagnétique plane   progressive monochromatique décrit, localement; la structure de l'onde rayonnée, à grande distance (r >> 1), par un dipôle oscillant Déterminer, en fonction de @, Poi, €0, c, E, t et 0, l'expression du vecteur de Poynting R ainsi que sa moyenne dans le temps <R > L'intensité dune onde électromagnétique; notée I, est la puissance surfacique moyenne que reçoit un détecteur plan placé perpendiculairement à la direction de propagation Vérifier que I = ||<R >   . Tracer ['allure du diagramme polaire de rayonnement I(0). On posera I(r,0 1/2) Lo. Conclure sur la directivité du rayonnement. Montrer   que la puissance   électromagnétique moyenne Pm rayonnée par   la molécule   dans tout P Tespace; c'est à dire à travers une sphère de centre 0 et rayon I, s'écrit Pm I21 €0 Interpréter le fait que la puissance Pm ne dépend pas de r. En traçant ]allure de la courbe donnant Pm en fonction de @, dire pourquoi le modële décrivant les oscillations de la molécule de monoxyde de carbone n'est pas acceptable pour @ @o. 82e2 Eo On rappelle que Poi #(@o @ Préciser le phénomène physique qui n'est pas pris en compte 10. On admet que la puissance rayonnée Pm est égale à la puissance absorbée par la molécule soumise à Taction de l'onde Le spectre dabsorption du monoxyde de carbone  présente une bande centrée sur la pulsation 4 10+14 rad.s Dans quel domaine du spectre électromagnétique la puissance absorbée (et donc rayonnée) est-elle maximale ? Calculer la raideur k du ressort modélisant la liaison chimique. On donne mc = 2 10-27 kg et mo 2,6 10-27 kg. 11. En se rappelant que labsorption et donc ['émission est due à ['apparition du moment dipolaire induit Poi (question 8) expliquer; sans faire de calcul, pourquoi les gaz majoritaires de latmosphère terrestre (O2 et Nz) n'absorbent pas (et donc n'émettent pas) dans l'infrarouge. Ces gaz ne contribuent donc pas au réchauffement de notre planète. On dit qu'ils ne sont pas des gaz à effet de serre
+Concoun Tccbnologic Scssion Juin 2604
+Eprcuve dc Physiquc
+Page 3/
 
+--- page 4 ---
+TROISIEME PARTIE Réchauffement de la terre par effet de serre On se propose; dans cette partie, d'étudier le réchauffement de notre planète par effet de serre. [~Rayonnement du_cops_ noir L1. Donner la définition d un corps noir. On admet qu'un corps noir de température T émet, dans intervalle de fréquence et v+dv, la puissance surfacique dq Mv(vT) dv; avec kB = 1.38 10-23 JK' constante de Bolzmann dp 21hy h = 6,63 10-44 Js constante de Planck dv = Mv(v,T) = c = 3 108 m.s hv célérité de la lumière dans le vide exF  kBT T température en Kelvin fréquence en Hertz 12 Montrer que la puissance surfacique totale émise par un corps noir est donnée par la loi de Stefan @ =0 T. On donne dx 1 Déterminer la valeur numérique de la constante de Stefan 0 15 13.2. Exprimer, en fonction de 2 , la puissance surfacique par intervalle de longueur d'onde M,(à,T)=d d 13.b. En déduire que la valeur 2M; pour laquelle M (^,T) est maximale, obéit à la loi de déplacement de Wien. On admet que Xo = 4,96 est la solution de léquation e* (5 _ X) = 5. [3.c Dans   quel   domaine du   spectre   électromagnétique la   puissance émise   par un corps noir   de températures T, = 300 K est maximale ? Même question pour Tz = 6000 K Pouvez-vous justifier }appellation (noir donnée à ce corps ? II - Iempérature de_la terre ILL. En admettant que le   soleil se comporte comme u corps noir de température Ts: exprimer la puissance totale Ps rayonnée par le soleil en fonction de Ts: Rs et 0, où Rç est le rayon du soleil; supposé sphérique. II2. On désigne par D la distance moyenne de la terre au soleil et par Rr le rayon de la terre supposée TG Rg_R?_Is sphérique. Montrer que la puissance Pr reçue par la terre s'écrit Pt = D I3. On suppose que la terre de température To, absorbant la totalité du rayonnementsolaire qu' elie reçoit, se comporte comme un corps noir. Déterminer la valeur numérique de To. Commenter. On donne Rs 7,0 108 m D =1,5 10"1 m Ts 5700 K IL.4. En réalité; la terre est entourée par son atmosphère qu 'on assimile à une couche sphérique de gaz ce même centre que la terre et de température uniforme Ta. On suppose que l'épaisseur de la couche est négligeable devant Rr (c << Rr) et que la couche a sensiblement le même rayon Rr que la terre. On désigne par T, le température de le surface de la terre en tenant compte de !'atmosphère.
+fgure 2
+rayonnement solaire
+rayonnement de Fatmosphère vers le ciel
+couche d'atmospbère la température T.
+rayonnement de Fatmospbère vers la terre
+{raction (I-a) du rayonnement soleire
+rayonnement de la terre
+surface de le terre la température T,
+Coocoun cu Tcchnologic Scssion Juin 2004
+Epreuve dc Physiquc
+Pege 477
 
+--- page 5 ---
+On suppose; dans le modèle; schématisé sur la figure 3, que la terre et l'atmosphère; de températures respectives T1 et Ta, rayonnent comme des corps noirs Fatmosphère absorbe la fraction a et la terre la fraction (I-a) du rayonnement solaire. La terre absorbe la totalité du rayonnement de latmosphère vers   la terre et Patmosphère absorbe la totalité du rayonnement de la terre. En écrivant les équations traduisant les équilibres   radiatifs pour latmosphère et pour la terre, exprimer la température T1 en fonction de To et a. Calculer T1 pour & = 0,7.
+iv, la
+ide
+QUATRIEME PARTIE: Rayonnement d'un réseau de sources électromagnétiques On considère N sources identiques d'ondes efan électromagnétiques (dipôles oscillants; antennes . ), alignées sU Paxe (Oz) et 1G. disposées à égale distance d (de lordre de 1) dæ les unes des autres (figure 4). d'alimentation ON d1 Un dispositif permet de 't de commander les   amplitudes et les phases 06 1:7; relatives de ces sources. ~:su,: 04 C'est grâce cette commande 4o 9gfoifc de que les Biblioa 1088 8u04 iéseaux dantennes peuvent   produire des Hequl diagrammes de rayonnement ayant des formes voulues. la Une source de rang n placée au point On, eil rayonne le champ électrique E. En un point 02 M, se trouvant dans la zone de sée rayonnement (OM =F>> Na), En s'écrit ûgure 4 en notation complexe 01 sle 4 {0) e( 21Ia+ P En = E ue u0 Avec In = OnM, F = I1 = OjM , @ = n @0, Ao et @ deux constantes_ de f(0) est une fonction caractéristique du rayonnement propre de chaque source. 1 Diagramme de raxonnement Ll. Montrer que la différence de phase w entre deux ondes rayonnées, dans la même direction 8, par deux sources consécutives s'écrit W = Po 24d cose [2. En déduire que 1' 'amplitude complexe du champ En rayonné par la source placée en On (I<n <N), peut se mettre sous la forme En = Do {(0) ei(n-IJ . On exprimera Do en fonction de Ao, 4, F et % 13. Montrer que l'intensité de londe ryonnée par les N sources, constituant le réseau définie par Nw sin I=| E peut se mettre sous la forme I=N?|2f f() F(w) où F(y)= Nsin % 2 Eest le champ électrique résultant:. La fonction F est appelée facteur du réseau. 14 Pour quelles valeurs @m de 8 la fonction F présente-t-elle des maxima principaux ? On introduira un entier relatif m, appelé ordre. 15.4 Vérifier que la condition pour avoir un rayonnement maximal dordre zéro (m=0), s'écrit 1po < 21d . On notera 8 la direction correspondant à ce maximum de rayonnement
+Concours Tccbnologie Session Juin 2004
+Eprcuve ^ Physique
+Prge {7
 
+--- page 6 ---
+L.5.b. En supposant que cette condition est satisfaite, montrer que si d la direction 8 = 8 I+coseol) Tunique direction de rayonnement maximal (on écrira que les ordres m = + ne correspondent pas des directions-de-rayonnement maximal). 16. Pour cette question; on prendra d 1 2 Po = _ T et 8 e[0,1/2] 1.6.2. Calculer 00. 16.b. Vérifier que ce maximum principal d'ordre zéro est unique. 16.c. Sachant que les deux premiers minima nuls de la fonction F(w) de part et d'autre dun maximun principal correspondent à une variation de W de + 2 déterminer la largeur angulaire 40 séparant les deux minima nuls qui entourent [unique maximum principal correspondant à 0 00. On prendra N = 800. L7. Les figures et 6 donnent respectivement le diagramme polaire de rayonnement dun réseau dantennes et la représentation de la fonction F en fonction de 0 La figure 7 est un agrandissement (zoom) de la figure 6 au voisinage du maximum principal 80. En exploitant ces trois figures, déterminer 8o, @0 et N sachant que d = È et N>>1
+ûgure 5
+ûgure 6
+@(rad)
+Plan ((xoy)
+0.6
+Zoom
+fgure Z
+0.76
+0.77
+0.78
+0.79
+0.8
+0.81
+Copcours &n Tcchpologic Scssion Juip 2004
+Epreuve dc Physique
+Page 67
 
+--- page 7 ---
+[I = Principe du radar à balayaqe électronique 8 = 8 Avec une distance d inférieure à 5 on a montré qu' 'ily'a une seule direction de rayonnement maximal et dent pas en prenant Nz>1 (en pratique quelques milliers), on assure une grande directivité du rayonnement émis. On a montré aussi que la direction du maximum de rayonnement fait l'angle 0 = 8 avec laxe du réseau 1 Q s'écrit cos8o 2zd Un déphaseur, dont le principe fera l'objet de la question IL.1, permet de varier %. La variation de @ dans le temps entraîne celle de la direction visée de l'espace. aximum Déterminer la fonction de transfert; HGjo) %s ILL. du montage représenté sur la figure 8 C séparant U et Us désignent respectivement les R amplitudes   complexes des tensions sinusoïdales d'entrée et de sortie. réseau Vérifier que ce montage est un simple R (AO) déphaseur. J0. On exprimera en fonction de la R résistance R et de la capacité variable C du  condensateur, le déphasage  @ Ve Us introduit entre les tensions d'entrée et de sortie. On suppose que Tamplificateur opérationnel idéal utilisé fonctionne ûgure & en régime linéaire IL2 En comparant la fréquence f de l'onde émise à celle de l'onde reçue après réflexion sur l'objet on peut accéder à la composante VT, suivant la direction radar-objet; du vecteur vitesse de  'objet. On admet que la fréquence f' de l'onde reçue est différente de la fréquence f : f-f=fVI Le montage permettant de mesurer Vr (figure 9), comporte un multiplieur de constante B Us(t) = B U((t) x Uz(t) un filtre passe bas de fréquence de coupure fc (à -3dB) H =1 dans la bande passante ad) un dérivateur 'parfait Us(t) dU4(t) dt un voltmètre V permettant de mesurer la tension efficace Uo de la tension de sortie Us(t) On applique à l'entrée du multiplieur les tensions U (t) et Uz(t) correspondant aux signaux émis (de fréquence f ) et reçue (de fréquence f' voisine de f) U (t) = a cos(2nf t) et Uz(t) = b cos(2nf t + a) où a b, et a sont des constantes. IL2.a.  Sachant que |f'-f|<< fc << f'+ f; exprimer les tensions U;(t) et U4(t) en fonction de a b, B, a, f et f' IL2.b. En déduire que lindication Uo du voltmètre permet daccéder à la composante Vr de la vitesse Tobjet mobile.
+Filtre passe bas
+Multiplieur
+Dérivateur
+U (t) Uz(t)
+Uz(t)
+U4(t)
+Us(t)
+ûgure 2
+Concours Technologic Session Juin 2004
+Epreuve dc Physique
+Page 77
+67

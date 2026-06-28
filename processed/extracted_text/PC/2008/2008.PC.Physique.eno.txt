@@ -1,6 +1,115 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de ['Enseignement Supérieur, de la Recherche Scientifique et de la Technologie Concours nationnux dentréc aux cycles _ dc formation d'ingenicurs Session 2008
+494)4282i "uLlgzus Js@be LsL Uoin Yibsi 2ijsliji Ohemtji jucualyi 2008 6j5'
+Concours en Physique et Chimie Epreuve de Physique
+Date Jeudi 05 Juin 2008
+Heure 8 H 00
+Durée 4 H
+Nbre pages 07
+Barème
+Problème 1 : 13 pts
+Problème 2 : 07 pts
+'usage d'une calculatrice non ' programmable est autorisé L'épreuve est constituée de deux problèmes  indépendants. Un candidat peut toujours se servir d'un résultat fourni par l'énoncé pour continuer sa composition.
+Problème 1 Données utiles Le vide est caractérisé par sa permittivité électrique € 10 -9 Fm ' et sa 'perméabilité 361 magnétique Ho = 4T 10-' Hm-' Célérité de la lumière dans le vide c =3.108 m.s ' Charge élémentaire e =1,6 .10-19 C Wstu7 ) (Prfpararo Masse de lélectron m = 9,10.10-31 kg Masse du proton mp = 1,67.10-27 kg (oeliotre?ve) (rKtà) = grwd (diva) - Zà 2 rot 4 {viv%s 4^(6^-)-(4æ)6-(06)5 Le référentiel 9(Oxyz) de base orthonormée directe ('z,6,,4z est supposé galiléen. La terre est entourée dune atmosphère assimilable au vide et d'une couche haute située entre 60 km et 300 km d'altitude appelée ionosphère. Sous l'effet du rayonnement solaire, il se produit une photo ionisation dune partie de molécules présentes. Ainsi, Fionosphère se comporte comme un plasma constitué par des ions positifs de masse mp et des électrons de masse me; de concentrations égales; Le comportant N porteurs de charge par unité de volume; est assez dilué de sorte que les partianzlesc puissent être considérées comme libres (on néglige toute interaction mutuelle) Cela signifie; en particulier; que sa permittivité électrique et sa perméabilité magnétique sont celles du vide. Propagation dune onde électromagnétique dans un plasma Le plasma est soumis à une onde électromagnétique plane progressive monochromatique de champ électrique @(M,t)=0,expi(ot-kz) où Eo est un vecteur uniforme et constant. Concours en Physique et Chimie ~ Session Juin 2008 Epreuve de Physique Page 1/7
 
+--- page 2 ---
+Dans tout le problème; on néglige le poids des porteurs de charges devant la force électrique. 1 - 1-1- Ecrire les équations de Maxwell dans le vide satisfaites par le champ électromagnétique en présence de densités volumiques de charges p(M;t) et de courants J (M;t) 1-2- Préciser brièvement la signification physique de chacune de ces équations
+2- Déterminer l'équation du mouvement dun électron animé d'une vitesse et celle dun ion animé d'une vitesse relativement au référentiel $_ 3- Justifier que Fon puisse négliger la force exercée sur les porteurs de charges par le champ magnétique devant celle exercée par le champ électrique. 4- 4-1- Déterminer; en régime permanent; les expressions de = et Zp 4-2- En déduire ]expression de la densité volumique de courant I(M,t). Ne On pose pulsation plasma; où H est une masse réduite définie par 1=1+ HSo L me mp 5- 5-1- Calculer pour N = 6,1.10"1 m* 5-2- Quelle est la longueur donde dans le vide associée à @p ? Faire lapplication numérique  5-3- Que peut-on dire de la contribution des ions à la densité volumique de courant Justifier En déduire 1expression simplifiée de I(M,t) Cette approximation sera considérée dans toute la suite du problème. €o 6-Montrer que la conductivité complexe du milieu s'écrit Y=-1 7- On se place en régime sinusoïdal permanent avec @# @p 7-1- Montrer alors que la densité volumique de charges est nulle. 7-2- En déduire la structure de londe dans le plasma. 8- Etablir l'équation de propagation satisfaite par le champ électromagnétique. 9-Déterminer la relation de dispersion dans le plasma étudié. 10- On définit Vindice complexe du plasma par n =~k-
+10-1- Déterminer ]expression de n 10-2- En déduire les expressions de p dans les deux cas @ < @p et @ > @p 11- Pour   quelles   fréquences; Ponde électromagnétique se propage sans atténuation dans Pionosphère ? Citer une application de ce phénomène 12- Donner dans ce cas, les expressions réelles E et 6 des champs. On suppose que Eo = Eokz 13- Détemminer les vitesses de phase V, et de groupe Vg; Représenter ces vitesses en fonction de @ 14- Déterminer la moyenne temporelle du vecteur de Poynting <Il>_ 15- Déterminer la moyenne temporelle de la densité d'énergie électromagnétique <Uem et de la densité d'énergie cinétique <e > 16- En déduire la vitesse ve de transport de la densité d'énergie moyenne totale 17- Dans le cas où @ < @p déterminer ]expression du champ électrique de londe dans le plasma. Commenter . Citer une application de ce phénomène 18- Les ondes émises par la chaîne nationale Radio Tunis de fréquence 684 kHz peuvent elles se propager dans lionosphère ? Justifier
+Concours cn Physique et Chimie Session Juin 2008
+Epreuve de Physique
+Page 2/7
 
+--- page 3 ---
+Plasma soumis à un champ magnétique uniforme et constant
+Le plasma précédent est maintenant plongé dans un champ magnétique extérieur uniforme et constant Bo Les conditions de propagation dans le plasma de londe électromagnétique de champ électrique 4(Mt)=Eo expi(ot-kz) dépendent des orientations des champs et du vecteur donde par rapport Bo On se place dans le cas où Bo = Bo uz (Bo > 0)
+19- En régime sinusoïdal, déterminer la densité de charges P et la composante longitudinale Ez du champ électrique. 20- 20-1- Montrer que la densité volumique de courant s' écrit J=-i €0 4-i@4,^4 où @c est une pulsation que lon déterminera_ 1 -
+Que peut on dire de la conductivité du milieu ? 20-2- En déduire les expressions des composantes 1 et C, de &'
+21- En exploitant les équations de Maxwell, obtenir une autre relation entre ] et 0 22 - 22-1- Montrer que les composantes de 7 vérifient le système déquations suivant fa Ex -ip Ey =0 iB Ex +x Ey =0 où a et B sont des fonctions de @ à expliciter- 22-2-En déduire la relation de dispersion 22-3- Montrer que les solutions de cette équation s 'écrivent
+k?
+23- A quelles conditions sur @ les solutions k et k sont réelles ?
+Dans la suite; on suppose que cette condition est réalisée.
+24 - 24-1- Quelles sont les polarisations des ondes planes correspondant respectivement à k, et k ? Justifier 24-2- Expliciter les champs 0 et @ 24-3- Déterminer les conductivités Y et 2_ pour chacune de ces ondes. 24-4- Donner alors les indices optiques n, et n_ correspondants. 25-L'onde plane; polarisée rectilignement suivant Ox; arrive normalement en z = 0 sur le plasma 25-1- Montrer que dans le plan E, cette   onde est toujours polarisée rectilignement: Détemminer sa nouvelle direction de polarisation
+Concours en Physique et Chimie Session Juin 2008
+Epreuve dc Physiquc
+Page 3 / 7
+@(+0)
 
+--- page 4 ---
+25-2- En déduire l'angle de rotation € du plan de polarisation de Fonde que Pon exprimera en fonction de n+ n_ &, @ et c. 25-3- Ce phénomène est appelé (effet Faradaym. Citer un phénomène analogue en optique. Propagation d'une onde électromagnétique entre le sol et lionosphère
+Une onde électromagnétique plane monochromatique   polarisée rectilignement est émise depuis la surface terrestre suivant la direction (Oz) normale à 1'interface atmosphère ionosphère (Figure 1). On néglige 1effet du champ magnétique terrestre.
+Ionasphere:
+Onde 'transmise
+Onde incidente
+Onde réfléchie
+Atmosphère no =1
+Terre
+Figure 1
+Sur linterface; Ponde incidente de champ électrique 7; (M,t)=Eo expi(ot-k,z), donne naissance une onde réfléchie et une onde transmise de champs respectifs 0 (M,t) =Eor expi(ot+koz)4, et 5 (M,t) = Eo expi(ot-kz)ux 26- Déterminer les expressions des champs magnétiques @; @ et @ de ces ondes: 27- Déterminer les coefficients de réflexion I et de transmission $ en amplitude de linterface atmosphère ionosphère en fonction de lindice n du plasma. 28 - 28-1- Déterminer, au plan z = 0, les moyennes temporelles des vecteurs de Poynting incident; réfléchi  et transmis notées respectivement <Iloi > , <Ilo > et <Ilot > _ 28-2- En déduire les expressions des facteurs de réflexion et de transmission en puissance notés respectivement R et T, en fonction de 5,& et n 29- Déterminer explicitement n puis Ret T dans les deux cas @ <@p et @ > @p - Commenter les résultats 30- Dans le cas où [onde est totalement réfléchie par lionosphère; on assimile linterface z = 0 et la surface de la terre à deux plans conducteurs parfaits distants de h 30-1- Déterminer la fréquence la plus basse de l'onde guidée entre les deux plans en fonction de h et c. Faire ['application numérique. 30-2- Dans la transmission des ondes radio, on utilise différentes bandes de fréquences Bande AM (Modulation d Amplitude) [540 kHz, 1600 kHz] Bande FM (Modulation de Fréquence) [88 MHz; 108 MHz] Comparer la portée de chaque transmission.
+Concours en Physique et Chimie Session Juin 2008
+Epreuve de Physique
+Page 4/7
 
+--- page 5 ---
+Problème 2 Changement de pbase dun corps pur
+L'équilibre de phase entre Feau   liquide et sa vapeur est  caractérisé, différentes températures; par les données regroupées dans le tableau figurant à la fin de l'énoncé.
+1- Diagrammes d'équilibre 1-1-Décrire une expérience illustrant la notion de changement de phase dun corps pur. 1-2- 1-2-1- Donner lallure du diagramme détat (P;T) dun corps pur pouvant exister sous trois phases; P et T désignent respectivement la pression et la température du corps pur:. 1-2-2- Préciser la signification des courbes et des domaines qu'elles délimitent. 1-2-3-Définir le point triple et le point critique. 1-2-4- Expliquer la particularité du diagramme détat (P,T) de leau 1-3- 1-3-1- Tracer lallure des isothermes (pour T < Ic T = Tc T> Ic) dans le diagramme de Clapeyron (P;v)dun corps pur constitué de deux phases liquide et vapeur en équilibre; où représente le volume massique de ce corps et Tc est sa température critique. Représenter sur le même diagramme les courbes débullition et de rosée et définir la pression de la vapeur saturante Ps - 1-3-2- Indiquer les caractéristiques de [isotherme critique. 1-4- On désigne par h lenthalpie massique du corps pur. L'indice { est relatif à la phase liquide et lindice v est associé à la phase vapeur Montrer que le titre massique v-Vy h-h en vapeur s'écrit Xv = =Ve h, ~h, 1-5- On désigne par Lvap (T) la chaleur latente de vaporisation dun corps pur à la température T. Donner la relation liant Lvap (T) à h,(T) et h,(T) 2- On dispose dun cylindre indéformable muni dun piston et contenant de Peau pure. L'ensemble constitue un système adiabatique. On rappelle que Pentropie massique dun corps pur sous deux phases liquide _ vapeur en équilibre s'écrit s(x,;T) C LnT X~Lvp (T) I + S0 , où c,est la capacité thermique massique du corps pur à létat liquide et 8 est une constante. Initialement le piston est fixé à une position où le volume du "cylindre est V1 10 litres. On y introduit une masse m 10 g deau pure: Cet état correspond à un équilibre liquide - vapeur à Ja température T; = 373 K On suppose que la vapeur deau se comporte comme un gaz parfait. On donne la   constante de gaz   parfait   R=8,314J K-' mol-I et la masse molaire de leau Mpo =18 g mol-' 2-1- Calculer le titre massique Xv correspondant:. 2-2- À partir de cet état déquilibre; on fait subir à [eau une détente adiabatique réversible jusqu'à la température T2 323 K En supposant que c est indépendante de la température dans le domaine étudié, calculer le titre massique Xv2 àla fin de la détente. On donne c, =4,18kJkg-'K-' . 3- Les centrales thermiques ou nucléaires utilisent un circuit secondaire constitué par une machine à vapeur. Elle permet la rotation dun alternateur produisant ainsi de lénergie électrique
+Concours cn Physique et Chimie - Session Juin 2008
+Epreuve de Physique
+Page 5/7
 
+--- page 6 ---
+Ce circuit secondaire comporte les éléments suivants un générateur de vapeur, une turbine; un condenseur et une pompe d'alimentation (Figure 2)
+Le fonctionnement de cette machine à vapeur peut être modélisé dans une approche simplifiée par le cycle de Rankine, décrit par les transformations suivantes Transformation A 9 B compression adiabatique réversible de leau liquide; réalisée dans la pompe d'alimentation; de Fétat A létat B définis respectivement par (PA 5,6 10-2 bar TA 308 K) et (Pp =69,2 bar Tn ) Cette compression entraîne une élévation AT = TB -IA de la température. Transformation B -> D : échauffement isobare du liquide dans le générateur de vapeur qui amène 1eau liquide de Fétat B à létat   liquide saturant (état D) de pression Pe et de température Ip Transformation D - E vaporisation totale sous la pression PB dans le générateur de vapeur qui amène /eau à létat de vapeur saturante_ Transformation E - F détente adiabatique réversible de la pression Pp PA réalisée dans la turbine calorifugée. Dans létat F, leau se trouve sous deux phases liquide vapeur en équilibre. La turbine entraîne la rotation de ]alternateur. Transformation F - A liquéfaction totale sous la pression PA de la vapeur présente à Pétat F; réalisée dans le condenseur.
+Générateur de vapeur Qz B Réchaufleur Éveporateur
+Turbine calorifugée
+Altemnateur
+Pompe dalimentation
+W pompe
+Wturbine
+Condenseur
+Figure 2
+3-1-  Montrer que, pour un fluide en écoulement permanent; le premier   principe de la thermodynamique; relatif à Punité de masse; s'écrit Ah = Wu +9 où h, Wu et 9 sont des grandeurs massiques et représentent respectivement ]enthalpie; le travail utile et le transfert thermique échangé. On ne tient pas compte des variations des énergies cinétique et potentielle lors de lécoulement du fluide. 3-2- Représenter  le cycle décrivant les transformations que subie leau dans le diagramme de Clapeyron (P;v) . 3-3-La différentielle de lentropie massique du liquide; en fonction des variables P et T s'écrit dT ds = C, Q Vt dP
+Concuurs el Physiquc et Chimnie ~ Session Juin 2008
+Epreuve dc Physiquc
+Page 6/7
+U Q1
 
+--- page 7 ---
+aV sont TT
+La capacité  thermique massique Ce et le coefficient de  dilatation isobare 0 =
+supposés constants. On donne Ve =10- m' kg supposé   indépendant de la   pression c = 4,18 kJ kg-' K- et a =1,5 10-4K-1 Calculer TB et vérifier que AT < TA' Commenter.
+Dans la suite du problème, on prendra TA = TB
+3-4- Calculer le titre massique XvF et ]enthalpie massique hF de leau dans létat F- 3-5- Calculer les quantités d'énergie thermique massiques échangées 91 et 92 , respectivement dans le condenseur et dans le générateur de vapeur. 3-6- Calculer   le travail utile   massique Wu W mrbine échangé au cours du cycle de pompe transformations. 3-7- Calculer le rendement p du circuit secondaire de la centrale de production dénergie électrique.
+Données relatives à l'équilibre liquide vapeur de F'eau
+Pression de la Liquide saturant T (K) vapeur saturante Ps (bar) v, (m'kg-' h  (kJkg-'
+Vapeur saturante
+V (m'kg-') h, (kJkg
+308
+0,056
+1,0010-3
+146,34
+25,24
+2560,67
+323
+0,123
+1,0110-;
+208,96
+12,04
+2587,42
+373
+1,013
+1,04 10-
+418,42
+1,67
+2671,44
+558
+69,200
+1,35 10-3
+1261,11
+0,03
+2768,83
+gin à [Gpzeuze
+Concours cn Physique et Chimie - Session Juin 2008
+Epreuve de Physique
+Page 7/7

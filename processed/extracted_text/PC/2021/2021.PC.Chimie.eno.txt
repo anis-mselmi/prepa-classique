@@ -1,24 +1,313 @@
+--- page 1 ---
+CONSIGNES Cette épreuve comporte 12 pages. Tout résultat doit être écrit dans les cadres adéquats. L'usage des calculatrices électroniques de poche non programmables est autorisé. Aucun échange entre les candidats n'est autorisé Tout calcul doit être précédé dune expression littérale. Les résultats numériques sans unité ou avec une unité fausse ne seront pas comptabilisés. En cas de besoin utiliser la page vide en fin de cahier. Dans ce cas, il faut Ie signaler dans la case allouée à la réponse remise en fin de cahier. Ne joindre aucun brouillon. Si au cours de Fépreuve, un candidat repère ce qui lui semble être une erreur d'énoncé, il la signale sur sa copie et poursuit sa composition en indiquant  les raisons  des initiatives qu'il est amené à prendre.
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 12 PAGES NUMEROTÉES 1 sur 12, 2 sur 12, 12 sur 12.
+Concours Physique et Chimie Chimie inorganique
+Session Juin 2021 Page sur 12
+
+--- page 2 ---
+Épreuve de chimie section PC
+Notations et données numériques États des constituants physicochimiques (sd) solide (liq) liquide (g) gazeux Lorsque aucune mention n'est spécifiée; les ions sont supposés implicitement en solution aqueuse. Les gaz sont considérés comme parfaits: Notations Xi : la fraction molaire de < i > dans la phase liquide. yi : la fraction molaire de < i > en phase vapeur. p pression de vapeur saturante de < i > 4 potentiel chimique du constituant < i v dans la phase < Lexposant signifie corps pur. Lexposant cd signifie phase condensée. Lexposant signifie standard. ESH électrode standard à hydrogène. Constantes physiques Constante des gaz parfaits R = 8,314 Jmoll K1 Constante d'Avogadro NA 6,02*1023 moll Constante de Faraday F 96500 C. moll Pression standard p =Ibar. Concentration standard Ce =lmolL' 1 Données numériques Masses molaires atomiques (g moll ':N=14,0 ; Na = 23,0 Electronégativité dans l'échelle de Pauling Li= 0,98 et N = 3,04. 298 K, 1 Potentiel redox standard à pH 0 : Ee (NzH4a) /NH,OH ( (aa) =0,916V ESH Produit ionique de Veau Ke =1014 Constante dacidité Ka NHA(aq) NH[OH(aq) 5,37x10-10 La constante de Nernst (RxT/F)xLn(1O) =0,06 V
+Equation aux dimensions
+[JC-1] = V
+Page 2 sur 12
+
+--- page 3 ---
+Épreure d chimie section #C
+Problème Tableau périodique-liaison chimique La famille des pnictogène est constituée des éléments chimiques suivants Pazote N, le phosphore P, Parsenic As; Pantimoine Sb et le bismuth Bi. !) Déterminer le nombre délectrons de valence des pnictogène N 2=7 Azote
+P 415 Phosphore
+2) Trouver le numéro de la colonne (groupe) des pnictogène dans le tableau de la classification périodique des éléments chimiques:
+As Zej3 Arseni:
+3) Lantimoine est le quatrième pnictogène. 3-a)Déduire son numéro atomique
+Sb
+3 b)A quelle période appartient-il ?
+Antimcine
+Bi 2=83 Classer par ordre décroissant Télectronégativité de Pauling des éléments Bi, N et As de la famille des pnictogène BismutF
+1 5) Qu'est-ce que le caractère métallique ? Comment évolue le caractère métallique pour la famille des pnictogène ? 1
+6) Quels sont les corps moléculaires dans la liste suivante Nz_Bi et LisN ? Justifier la réponse
+Cristallographie Le sodium forme avec lazote un composé ionique de formule NauNv qui cristallise dans une structure de symétrie cubique. Les traces des ions dans les premiers plans après ceux passant par lorigine des différentes familles de plans réticulaires sont données ci-dessous
+Yat
+0 Y-
+a v2 (110)
+a v2 (17o)
+Plans
+(020)
+(200)
+Page 3 sur 12
+
+--- page 4 ---
+Épruu & chinie section @C
+'Donner une représentation en perspective de la maille cubique et son contenu:
+b
+2) Donner la projection de la maille et de son contenu sur le plan (a,6
+1 1 BDéterminer la formule chimique de ce composé et le nombre de motifs Justifier_la réponse;
+4) Quelles sont les translations permises ?
+5Déduire le mode de_ce réseau
+En se limitant à la maille de la question 1), représenter la rangée [722]
+Page 4 sur 12
+
+--- page 5 ---
+Épreure & chinie section QC
+Z)Déterminer_la distance entre deux ions consécutifs appartenant à cette rangée:
+g)Donner la coordinence des ions N}par rapport aux ions Na Justifier la réponse.
+9) Donner les indices de Miller des quatre premières familles de plans réticulaires diffractant les RX de Jongueur donde 4 =154 pm
+10) Parmi ces quatre familles de plans; il y a une pour laquelle tous les indices de Miller sont impairs pour laquelle langles de diffraction du premier ordre vaut 0=16,380 . Donner Pexpression puis calculer 10-a) le paramètre < a ) de la maille
+1 1 10-b)la masse volumique de ce composé
+Problème étude de léquilibre liquide-vapeur du diazote pur 1) Rappeler la définition du potentiel chimique dun corps pur dans une phase @ H 'P à partir de lenthalpie libre du corps pur G'
+2) Soit un système fermé contenant une certaine quantité dun corps pur dans une phase @. Donner Pexpression de la différentielle de son 1enthalpie libre molaire dG;" .
+Page 5 sur 12
+
+--- page 6 ---
+Épreuue d chimie scction QC
+3) Établir Pexpression du potentiel chimique dun corps pur en phase condensée à une température T en fonction de la pression p et du potentiel chimique standard uo,d à la température T, en supposant que son volume molaire Va indépendant de la pression.
+Nous supposons dans la suite du problème que le terme en Val 'est négligeable Donner ]expression du potentiel chimique dun gaz parfait pur à une température T en fonction de la pression p, de la pression de référence  p' et du potentiel chimique standard Hug
+5) Soit un système fermé contenant du diazote dans deux phases (liquide et gaz) en équilibre 5-a Quelle_est la relation entre les_potentiels_chimiques du diazote_pur à l'équilibre ? 1 5-b) Trouver ]expression du logarithme népérien de la pression d équilibre pEq  entre la phase liquide 1 et la phase gazeuse du diazote pur Ln (pfq /pe en fonction des potentiels chimiques standard p9,Jiq et pog du diazote pur.
+5-c) À partir de la relation 0 (GII2) H = exprimer ôT T2 molaire standard
+/8 Ir ôT
+on notera He 1enthalpie
+5-d)7 Montrer à partir des deux questions précédentes que la différentielle de la pression d équilibre; en fonction de la température T suit la loi différentielle Ln (pfq /pe )] H? vap dT Rx T2 Où vap H2 , désigne lenthalpie molaire standard de vaporisation du diazote; supposée indépendante de la température T. Page 6 sur 12
+
+--- page 7 ---
+Épreuw d chinie section QC
+5-e) Montrer qu'on peut exprimer la pression de vapeur saturante du diazote pur en fonction de la température sous la forme Piiq B Ln =A- 20 T A et B sont des constantes
+1 1
+5-f) Sachant que lenthalpie molaire standard de vaporisation de N2(liq) 4 Fe 5,6kJ mol-' et la Icp température de vaporisation standard Te 77,34 K déterminer les valeurs des constantes A et B wp Jorsque la pression est exprimée en bar et la température absolue T_en K
+Page 7 sur 12
+
+--- page 8 ---
+Épreuw de chimie section QC
+Problème Diagramme déquilibre liquide-solide On envisage de tracer sous la pression de 1 bar; le diagramme de phases d'équilibre solide-liquide de système eau(H2O)-hydrazine(NzH4) On dispose des informations suivantes Les mélanges eau- hydrazine Sont totalement non solubles à létat solide. Donnent un diagramme d'équilibre présentant un composé défini le monohydrate dhydrazine NzH4 HzO(d) . Les températures de fusion de 1eau; Thydrazine et du monohydrate dhydrazine sont respectivement 273 275 et 222 K. Sur ce diagramme binaire on peut noter Pour XN,Hs 0,20 , la formation dun composé défini qui se décompose à une température 193 K inférieure à sa température de fusion. Lexistence de deux points eutectiques le premier à une température T 186 K pour une composition 28% molaire en hydrazine, le second à T = 219 K pour 56 % mole en hydrazine. L'existence dun point péritectique à T= 193 K, pour Xn,H, 0,26 1) Tracer Tallure du diagramme sur la figure ci-dessous. 280 280 P =1bar 270 270
+260
+260
+1 1
+250
+250
+240
+240
+2 230 2220 { [ 210 200 193 190
+230
+220 219 210
+200
+190
+180
+180
+170
+170
+160
+160
+0,1
+0,2
+0,3
+0,4 0,5 0,6 Fractlon molalre
+0.7
+0,8
+0,9
+H,0
+Nzs
+2) Déterminer la formule chimique du composé défini à 20% molaire dhydrazine. Écrire la formule sous la forme (NzHs) *v(H,0)
+3) Indiquer la nature de fusion de chacun des composés définis
+Indiquer sur le diagramme la nature des phases présentes dans trois domaines de votre choix.
+Page 8 sur 13
+
+--- page 9 ---
+Épreuv chimie section QC
+5) Donner la nature de chacune des transformations obtenues à 186 K, 219 K et à 193 K et les équations correspondantes
+6) A quoi sont dues les ruptures de pente observées sur les courbes danalyse thermique, lors du chauffage dun mélange binaire ?
+Comment justifier que Ton observe parfois des paliers de température sur les courbes d analyse thermique_
+8) Donner les allures des courbes danalyse thermique de chauffage jusqu? à 280 K des systèmes représentés par les_points M1 et M2 sur le_ diagramme: 1 1
+Problème : électrochimie 1- Constantes d'équilibres associées aux réactions acido-basique En solution aqueuse, lacide NzH3+ est un diacide dont les constantes d'acidité à 25*C, sont respectivement égales à Kai = 10-0,30 et Kaz = 10-7,9 1) Écrire léquation de la réaction mettant en jeu le couple NzH 6(aq) INzH A(aq)
+2) Sagit-il dune réaction doxydo-réduction ? Justifier la réponse.
+3) Ecrire la loi daction de masse correspondant à cette réaction;
+Page sur 12
+
+--- page 10 ---
+Épreure d chimie section QC
+Déterminer la valeur de sa constante déquilibre.
+II- Détermination des potentiels standard doxydoréduction On donne à 298 K les potentiels redox standard à pH = 0 : Couple Nz(g) INzH 6(aq) Nz(e) NHA (a9) Eo Ox / red) en ESH) 0,196 0,275 5)Écrire léquation bilan de la réaction associée à chacun de ces deux couples redox
+Déduire la valeur du potentiel redox standard du couple NzH8ta 6(aq) NH; (aq )
+1 1
+On donne à 298 K, les potentiels chimiques standard des entités
+Entités
+NzH5(aq) 80,6
+NH*(aq) H2(g) H(aq) -78,0
+pe kJ mol
+7) Montrer que ]'expression du potentiel standard redox du couple redox NzH5(aq) / NHA(aq) s'écrit en fonction des potentiels chimiques standard des différentes entités qui apparaissent dans léquation-bilan de la réaction associée à ce couple Calculer sa valeur:
+Page 10 sur 12
+
+--- page 11 ---
+Épreuve d chimie section QC
+Ill- Étude du diagramme de Pourbaix On se propose détudier le diagramme potentiel-pH simplifié de l'azote à 298 K, pour une concentration totale en atomes d'azote dissous Ctra 0,10 molL-' 8) Déterminer le nombre (degré) doxydation de latome dazote dans chacune des entités suivantes NzHA(ag) NzH5(aq) NzHB(aq) NH 4(aq) et NHOH (aq)
+9) Classer ces entités par nombre doxydation croissant en fonction de pH et déterminer les valeurs des pH limitant les frontières verticaux .
+1 1
+10) Identifier les différents couples redox mis en jeu.
+Page 11 sur 12
+
+--- page 12 ---
+Éprcvve & chimie section #C
+11) Indexer le diagramme ci-dessous en affectant les entités dans les domaines correspondants. 2,00 2,00 Ctr: = 0,1 IoLL-l
+1,50
+1,50
+1,00 1 0,50
+1,00
+0,50
+0,00
+0,00
+0,50
+-0,50
+pH
+1 12) Déterminer Lexpression numérique de la frontière séparant les domaines (3 et (5) en fonction du pH. 1
+FIN DE LÉPREUVE
+Page 12 sur 12
+
+--- page 13 ---
+Instructions Lire attentivement et entièrement le sujet avant de_commencer à le traiter  Cette épreuve comporte 12 pages 2pages vides. Les trois problèmes sont indépendants. Tout résultat doit être écrit dans les cadres adéquats: Aucun échange entre les candidats n'est autorisé Si au cours de Fépreuve; un candidat repère ce qui lui semble être une erreur d'énoncé il la signale sur sa copie et poursuit sa composition en indiquant les raisons des initiatives qu 'il est amené à prendre: Dans tout le sujet à chaque fois qu 'il est demandé la structure de Cram d 'une substance. seuls les centres asvmétriques seront représentés selon Crum
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 14 PAGES NUMEROTÉES surl4 2 sur 14 _ 2,14 surl4
+Chimie organique
+Page sur 14
+Concours Physique-Chimie- Session Juin2021
+
+--- page 14 ---
+Notations et données numériques
+Numéros atomiques Z H =1,C=6,N =7,0=8, CI = 17, Br = 35
+Dans tout le sujet, on utilise les notations suivantes
+CH3 iPr CH `CH; isopropyle
+tBu
+CHs CH; CH; ter-butyle
+Table de RMN_du proton
+Protons_CH3ô ppm
+Protons_CH2S ppm CHz-CI.3CH2-C-0 1.9 CHz-C-CI CHz-C-Br CHz-C-C CHz-Ar CHz-CO-R CH2-NH CH2-03.2-3.4 CHz-O-CO CHz-CI CHz-Br CH2-I
+Protons CH CH-R CH-C-0 1.7-2 CH-C=C 1.9-2.2 CH-Ar 2.3 CH-CO-R 2.6-2.8 CH-NH 2.3-2.4 CH-0 2.4-2.5 CH-CI CH-Br 4.1-4.3 CH-I 3.6-3.7 3.4-3.5 3.2-3.3
+8 ppm 1.5 2.0 2.6 3.0 2.7 2.8 3.7-3.9 4.1-4.3 4.2-4.4 4.3-4.4
+CH;-C CHs-C-0 CH3-C-CI CH,-C-Br CHz-C-I CH;-C=C CHs-Ar CH,-CO-R CH;-NH CH3-0
+0.9 1.3 1.4-1.7 1.6-1.9 1.8-2 1.6 2.1-2.3 2-2.2 2.1-2.3 3.3
+Protons portés par un; ppm hétéroatome R-OH 0.7-5.5 Ar-OH 4.5-7.1 R-NHz (R-NH-) 0.6-5
+Table dInfra-Rouge Liaison
+Nombre dondes en cm 1600-1650 CC 2100-2220 O-H libre 3500-3700 C-O-C (thers , esters 1050-1260 C-O amides 1630-1710 CzO cétonesaldéhydes 1650-1740 C-Oacides carboxyliques 1660-1740 C=O esters 1700-1750 C Ohalogénures d'acides 1785-1815 N-H amines(primaires 3100-3500 secondaires `
+Page 2 sur 14
+Concours Physique-Chimie- Session Juin 2021
+
+--- page 15 ---
+Problème 1(.5 points)
+On considère la structure A de formule brute CioHpClO Pour déterminer la formule semi-développée plane de A, on fait appel à la spectroscopie Infra-Rouge et à la spectroscopie RMN du proton. On obtient les résultats suivants Infra-Rouge Plusieurs bandes dabsorption parmi lesquelles; une vers 1730 cm
+RMN H: Le spectre RMN du proton; fait apparaitre les signaux suivants Un singulet vers 1.20 ppm (9) Un singulet vers 1.64 ppm Un triplet vers 1.77 ppm (2) Un triplet vers 2.40 ppm (2) Les rapports d'intégration sont indiqués entre les parenthèses.
+Indiquer les groupes datomes   pouvant correspondre à la bande d'absorption Infra-Rouge
+2- Proposer pour chaque signal du spectre RMN H, le groupe de protons   pouvant lui correspondre .
+Page 3 sur 14
+Concours Physique-Chimie - Session Juin 2021
+
+--- page 16 ---
+3 - Proposer une formule semi-développée plane pouvant correspondre aux données relatives à A-
+  
 
 
+Problème 2(6.75 points)Autour de_la chimie de Téphédrine
+L'éphédrine, est une molécule extraite de certaines plantes et utilisée contre Fhypotension. Elle se trouve sous la forme de deux énantiomères CI et C3.Le dérivé Clest représenté ci-dessous H OH
+CH; H CH3
+L'énantiomère CI peut être facilement obtenu à partir du benzène selon le processus réactionnel suivant
+CI
+CH3 H CH3
+LiAIH4
+B (CoH13NO)
+C1
+C2
+AICI3
+2) H2O /H+
+1-  Déterminer les configurations absolues des carbones asymétriques de CI. Les réponses doivent être justifiées
+2- Donner le nom complet de CI daprès la nomenclature internationale
+Pagc 4 sur 14
+Concours Physique-Chimie - Session Juin 2021
 
+--- page 17 ---
+3 - Donner la représentation spatiale de Cram de C3.
+4 - Compéter la projection de Newman ci-dessous de CI
+CH;
+OH
+5 - On considère maintenant la projection de Newman dela structure C' suivante
+OH
+CH3 'Ph
+CH3NH
+Déterminer la relation stéréochimique entre C1 et C' . Justifier.
+Page 5 sur 14
+Concours Physique-Chimie- Session Juin 2021
 
+--- page 18 ---
+Compléter la projection de Fisher ci-dessous de CI Ph
+CH3
+7- Détailler le mécanisme de létape A ~9 B et en déduire la structure spatiale de Cram de B
+Page 6 sur 14
+Concours Physique-Chimie- Session Juin 2021
 
+--- page 19 ---
+8 - Déterminer la structure spatiale de Cram de C2 sachant qu'il a la même formule brute que CI et en déduire les configurations absolues de ses carbones asymétriques.
+ '
+Page sur 14
+Concours Physique-Chimie- Session Juin 2021
 
+--- page 20 ---
+9- Un mélange constitué de 50% de C2 et 50% de C3, peut-il avoir un pouvoir rotatoire ? justifier 
+Problème 3(9.75 points)Synthèses à partir d'un alcène cyclique
+On considère alcène cyclique A représenté ci-dessous
+C2Hs
+Donner le nom dc A sclon la nomenclature internationalc.
+2- L'alcène A peut être obtenu à partir de deux alcools différents, Yet Z, par déshydratation en milieu acide. Proposer des structures pouvant correspondre à ces deux alcools; sachant que Z est chiral .
 
+3 - Détailler le mécanisme dobtention de A à partir de Z et en déduire la structure semi-développée plane de lalcène U obtenu avec A. Indiquer lequel parmi A et U est majoritaire.
+Page 8 sur 14
+Concours Physique-Chimie- Session Juin 2021
 
+--- page 21 ---
+On fait maintenant   subir à A la suite réactionnelle suivante
+HBr
+EtO NatIEtOH c chauffage
+A
+1) BH3
+D1
+D2
+2) HzOzINaOH
+Donner les structures semi-développées planes de B et de €.
+5- Sachant que DI et D2 ont la même formule brute, donner leurs structures spatiales de Cram sachant que le carbone asymétrique dc DI est configuré < R > Les configurations   absolues doivent être justifiées.
+6- Loxydation de DI ou D2, permet lobtention de la cétone E :
+H3C
+Page 9 sur 14
+Concours Physique-Chimie- Session Juin 2021
 
+--- page 22 ---
+Proposer un réactif (avec catalyseur si nécessaire) permettant le passage de DI ou D2 à E : Dl ou D2 E
+Laction de Fylure de phosphoreW sur E permet Fobtention du composé F. L'addition de KMnO4 en solution diluée à froid sur F, conduit à un composé unique achiral $
+Ph3P==c CH3 W
+Ph3P
+W
+KMnO4 /H2Ol O C
+W
+2) H2O
+Donner les structures spatiales de F et S et expliquer la < non chiralité > de S.
+Page O sur 14
+Concours Physique-Chimie- Session Juin 2021
+CH;
 
+--- page 23 ---
+On fait maintenant subir à deux moles de E la suite réactionnelle suivante
+CH3 OH
+EtO Na*IEtOH
+2E
+chauffage
+H3C H
+H2SO4 (cc) chauffage
+J + K
+KMnO4 (cc) à chaud
+Détailler le mécanisme dobtention de G et en déduire sa formule plane.
+Page 11 sur 14
+Concours Physique-Chimie- Session Juin 2021
 
+--- page 24 ---
+9- Déterminer à partir du mécanisme de la réaction; les structures semi-développées planes de 1, J et K, sachant que K est le produit minoritaire
+6 e. 2 .
+1
+10- Donner la formule semi-développée plane de L
+Fin
+Page 12 sur 14
+Concours Physique-Chimie- Session Juin 2021
 
-
-
-
-
-
-
-
-
-
-
-
-
+--- page 25 ---
+Page vide
+Page 13 sur 14
+Concours Physique-Chimie - Session Juin 2021

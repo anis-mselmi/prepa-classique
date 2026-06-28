@@ -1,4 +1,55 @@
+--- page 1 ---
+RÉPUBLIQUE TUNISIENNE *** Ministère de 1'Enseignement Supérieur
+Onstitut / (oreparatope ` (Bibliotheque | 2 6 Fomgenieuss 
+Concours Nationaux d'Entrée aux Cycles de Formation dIngénieurs Session: Juin 2000
+Concours en Technologie Épreuve de Mathématiques
+Durée: 4H Date: 5 Juin 2000 Heure: 8H Vb pages: 5 Barème: Problème 1: I:3pts, II:Apts; III: 3pts; Problème 2: I:6pts. II:4pts
+Lusage des calculatrices est strictement interdit Une grande importance sera attachée à la rigueur du raisonnement, à la clarté de la rédaction et au soin de la présentation. Il est rappelé que tout résultat énoncé dans le sujet peut être utilisé pour traiter la suite, même s'il n'a pu être démontré_
+Le long de ce sujet. on désignera par N un entier naturel tel que N 2 2 (e1. ev la base canonique de RY < > le produit scalaire euclidien sur RY défini par
+Ily >= LIU. si I = LIei et y = Euie; 11 1=1 22[
+M(N, RR) Fespace des matrices carrées réelles dordre N.
 
+--- page 2 ---
+Problème 1 Soit J = (aij)sijsv € M(N, R) la matrice diagonale telle que
+@11 = 1, Qii = =1 pour 2 <i < N.
+Partie [ 1/ Montrer que VI, y € RY, < I  Jy > Iy1 ZM2 I;Yi. 2/ Soit A € M(N; R vérifiant la propriété suivante
+(P) VI;5 Y € RY
+Ar | JAy > = < I| Jy >
+a) Montrer qu'on a /' équivalence entre les trois propriétés suivantes: i) A vérifie la prcpriété (P). ii) Vr € Rv < Ax  JAr > =< I| JI > iii) *AJA = J A étant la matrice transposée de A (ieV I,y € RY Ar|y > = < 1/tAy >) b) Soit Gv = {A € M(N,R/A vérifie la propriété (P)} i) Soit A € GN, montrer que |detAl = 1. ii) Montrer que Gv est un groupe pour la multiplication des matrices. Partie II Dans cette partie; on prend N = 2 1/ a) Montrer que
+eb G2 ={( 6 €a J; € {-1,1}, %,6€ Ret a? _ 6? = 1 {
+b) En déduire que
+G2 = {( €1 shlt) €2 'ch{) );e €3 €4 € {~1,1}i =1,2,3; €4 = €1e263; t € R' 2/ On pose G2 A(t) 2h()   2() ) ; te R' Montrer que G2 est un sous-groupe de G2 b) Soit t € R trouver P inversible tel que P-1A(t)P soit diagonale c) Montrer que G2 est isomorphe au groupe (R+) 3/ Soit B a)Calculer BP, p €N b)Montrer que 2n tBk Ft € R A(t) lim n+oo k0 k!
+2
 
+--- page 3 ---
+Partie III Dans cette partie. on prend N=3 Mez sh(t)e1 + ch(t)ez 1/ Déterminer lensemble des matrices M de G, vérifiant Me3 e3 = y(t) 2/ Résoudre le système différentiel y I(t) = 0 3 2 3 / Soit A = 2 2 1 2 2 Montrer que A € G3 Diagonaliser A et calculer AP , p € N Trouver un vecteur V = (a,b,c); a,b,c €Nnon tous nuls; te} que < VIJV > = 0
+Donner une méthode pour construire à partir de V une infinité de solutions de léquation de Fermat: 2? y? + 22 avec I,U;z €N
+Problème 2 Partie I Soit uo une fonction continue à valeurs réelles, de classe Cl par morceaux impaire et 2T-périodique; telle que uo(0) Uo(7) 0. 1/ a) Montrer que
+VI € R uo(z) bk sin(kz) . où bk k=l b) Montrer que limk ~+0 bk = 0.
+2 uo(x)sin(kz) dx
+2/ Pour (z,t) € [0, æ] x {0, +0 [, on considère la fonction u(z;t) =  be-(k?+1)t sin(kz) k=l Montrer que, pour tout & > 0 et tout p €N lim kPlbxle-(k2 +1Ja 0 700 b) En déduire que u est de classe Cœ sur [0, rjxJo; +o [ c) Montrer que u est solution du système: ôu ô2u (I,t) (x,t) + u(z,t) = 0, Vz € [0, T] Ft > 0, #t d52 (S) u(,0) = uo(z), Vz € [0, T] u(0,t) u(T,t) = 0, Vt 2 0.
+3
 
+--- page 4 ---
+3/ Soit u une fonction continue sur [0. 7] [0. +a [, à valeurs réelles. de classe C? SUI [0, r]xjo. +a [. On pose
+G(t) = J "z.t) dz.
+Montrer que G est continue sur [0. +o[ et de classe C2 sur ]0. +o[ b) On suppose que vérifie
+ôv 92v (x.t)  (I.t) + v(I.t) =0, Yr € [0, 7] Vt > 0, #t Mr? v(0.t) = v(T,t) = 0, Ft 2 0.
+Montrer que
+@2v
+Ft > 0 , J "(2,t)022(,t) dr = 5 (#2(2,0) dI.
+ii En déduire que G est décroissante sur [0,+o[ Montrer que si vérifie en plus, la condition initiale
+Vr € [0, ~], v(z,0) = 0, alors u est identiquement nulle sur [0, 7] x [0, +œ[ d) En admettant que la fonction u donnée par (*), est continue sur {0.x] x [0, +o[, montrer que u est ]'unique fonction à valeurs réelles,continue sur [0, 7 [0, +œ[, de classe C2 sur [0, T]xjo; +œ [ qui est solution du système ( S) .
+Partie II Dans cette partie, on cherche une solution approchée du problème (S) . Soit N un entier positif. On divise Fintervalle [0, ~] en ( N + 1) intervalles de longueur égale: h = + On considère alors, la matrice carrée d'ordre N définie par:
+1 Av = h2
+=1 2
 
+--- page 5 ---
+1/ On pose I; ih, i € {0. V + 1} Soit u une fonction de classe C? sur [0, rjx]0, +o [ Montrer , en utilisant la formule de Taylor au point Iv, i € {1,- 2} , que 02u u(I;+1,t) 2u(z;,t) + u(Ii_1, t) Ft > 0 , (I.,t) + e(h). dr2 h2 avec limn _0 e(h) = 0. 2/ Pour p € {1,2, N}, on considère le vecteur U? € RY dont la jeme composante; 1 < j < ', est: PJT u3 = sin( NV + 1 4/ En posant u? = u?+1 = 0, calculer, pour j € 1,2, N, la valeur de
+~23+1 + 223 u3-1 b/ En déduire que, pour p € {1,2, N}, le vecteur UP est un vecteur propre de Ay associé à la valeur propre
+PT
+sin? h2 2(1+T)
+En déduire que la matrice Av est symétrique, définie; positive. d Montrer que les vecteurs U?, 1 < p < N_ forment une base orthogonale de R' 3/ On considère le système différentiel:
+4U(t) + AvU(t) + U(t) = 0, Vt > 0; (T) U(0) Uo ,
+où Uo € RY est donné Pour t 2 0, on pose Qp(t) = < U(t)/UP > Montrer que si U vérifie le système différentiel (T), alors œp est solution du problème de Cauchy:
+4œp(t) + ApŒp(t) + œp(t) 0, Vt > 0; ap(0) = < Uo/UP > b) Déterminer œp(t), t 2 0; et en déduire que < Uo /UP > Vt 2 0, U(t) = 2 e-(Ap+l)tUP p= JUpl?

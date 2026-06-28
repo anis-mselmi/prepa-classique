@@ -45,3 +45,23 @@ Hn+1(z) ~ 2zHn(r) + 2nHp-1(z) =s 0 f- Montrer alors que Vn € N, Vr € R;
 Hn(r) = 2nHn- (æ) g- Montrer que Vn € N, Vr € R, H? (z) 2rHn(r) + 2nHn(s) = 0. Partie III On pose 120 g(x) = e-t? e?itz dt. 0o 1< a- Quel est le domaine de définition de 9 b- Montrer que g est de classe Cœ sur son domaine de définition Expriner ses dérivées successives sous formes intégrales. C- Montrer que 9 vérifie une équation différentielle du premier ordre que Pon déter - minera et que Vr € R g(z) = W(z) = e2? d- Montrer que Vn € N, Hr € R,
 oo Hv(z) = (~1)"(2i)" @2? e-t?t"e2itzdt. VT o0 2' à- Montrer que Vn € N, Vz € R, 22n+1 +00 HznU (z) = (~1)" @2? e-t? t2n cos(2rt)dt.
 3
+
+--- page 4 ---
+b- Déterminer la valeur de lintégrale
+In =
+e*? {2rdt, n € N.
+C- Montrer que Hz, u € R;
+2
++00
+vi + vvF Jo d- Montrer que VI, u € R,
+e I+u? cos(2zt)dt = g(v1 + u2 2) .
+00
+~u2 2? e =
+(~1)"u2n
+H2n (z) n=0 22nn (1 + u2)n+4 3' a- Calculer , après avoir justifier l'existence; la valeur de !' intégrale U 2n Jn 1= du, n € N. (1 + u?)n+ 9 (On pourra commencer par déterminer une relation de récurrence entre Jn et b- En utilisant la Jn-1, n € N. ) question 7" b- (Partie I) , déduire de ce qui précède que Vs € R,
+02? 2 (1 ~ @(c)) (ZI) H2n (z) = 7 22nn! 2n +1 n=0
+Partie IV
+On pose
+Un(z) = e-4 Hn(r) n € N 1' a- Montrer que Un est une solution de Féquation différentielle; y 4 (2n + l)y = 1 2Un(z) b  Montrer que Vn, m € N
+(En)
+(URUm - UnUn)' + 2(n m)UnUn = 0 C- En déduire que Vm, n € N tels que m # n, +90 e`2? Hn(r)Hm(z)dI = 0 o0 d-  Montrer que pour tout entier naturel n > 2, H2(z) + 2(n ~ 1)Hn(z) Hn-2(2) ~ Hn+1(z)Hn-1(z) = 2nH?-1(z) 

@@ -1,4 +1,78 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de "Enseignement Supérieur et de la Recherche Scientifique
+391 42s6a?| 2UfNs)gzü9 zyLzL Jssal Libsl 21 Jaliji ijia nl jasf Jal > Li 2018 3,9
+@
+Concours Nationaux dEntrée aux Cycles de Formation d'Ingénieurs Session 2018
+Concours Biologie Géologie
+Epreuve de Biochimie; Biologie cellulaire et Génétique
+Date Mardi 05 Juin 2018
+Heure 8 H
+Durée 2 H
+Nbr pages 4
+Barème
+(Lemploi de la calculatrice est autorisé)
+EPREUVE DE BIOCHIMIE EXERCICE N'1 (9 points)
+Un peptide P issu de l'hydrolyse de protéines de thon est constitué de la séquence suivante Val-Tyr-Lys-Phe-Ala-Glu-Glu
+Après hydrolyse par la chymotrypsine , une séparation des peptides est effectuée sur une colonne de chromatographie échangeuse danions; en utilisant un tampon de pH 5.9.
+1 Donner la formule développée du peptide P 2 a Rappeler le rôle de la chymotrypsine b Indiquer la   séquence des peptides obtenus après hydrolyse par la E  chymotrypsine 3 Ecrire les réactions dionisation des peptides obtenus sous Faction de la chymotrypsine sur le peptide P 4 Dans quel ordre prédisez-vous   lélution des   peptides obtenus à pH-5.9? Justifiez votre réponse.
+(On donne les cor stantes de dissociations des groupements ionisables des acides a aminés du peptide P)
+Lys Phe Val Tyr Ala Glu pKcooh 2.18 1.83 2.32 2.2 2.34 2.19 pKNH2 10.79 9.13 9.62 9.11 9.69 9.67 pKradical 8.95 10.07 4.25   EXERCICE No2 (11 points)  s   Les ribose-5-phosphate isomerases Rpi (EC 5.3.1.6) sont des enzymes catalysant l'isomérisation réversible du ribose 5-phosphate et le ribulose 5-phosphate Elles sont impliquées dans différentes voies métaboliques telles que la voie des pentoses phosphates ou encore le cycle de Calvin Les plus communs des ribose-5-phosphate isomerases sont les RpiA, présents dans presque tous les organismes. Les RpiB se
+Concours Biologie et Géologie Session Juin 2018
+Epreuve de Biochimie; Biologie Cellulaire, Génétique
+Page 1/4
 
+--- page 2 ---
+trouvent  plutôt dans de nombreuses espèces bactériennes. L'acide 4-phospho-D- érythronohydroxamique (4PEH) apparait comme inhibiteur des enzymes RpiB. On étudie la réaction disomérisation réversible du ribose 5-phosphate et le ribulose 5-phosphate; en mesurant l'absorbance à À = 290 nm, en absence et en présence de linhibiteur 4PEH.
+En absence d'inhibiteur, les résultats expérimentaux ont permis de déduire léquation Hanes-Woolf suivante y=41.8x+87.9 (L'équation Hanes-Woolf met le rapport [S] v en fonction de [S], où [S] est la concentration du substrat (mM) et v est la vitesse initiale de réaction exprimée en mmole.minute ')
+1. Définir   la constante de Michaelis Km et la vitesse maximale Vmax dune enzyme. 2. A partir de léquation de Michaelis Menten; démontrer léquation Hanes- Woolf. 3. Déterminer les valeurs du Km et de Vmax de lenzyme RpiB.
+II.
+On étudie Peffet inhibiteur de 4PEH sur Yenzyme RpiB. Les résultats expérimentaux sont montrés dans le tableau suivant
+[4PEH] (mM) 0 0.01 0.05
+Equation Hanes-Woolf y=41.8x+87.9 y=42.0x+118.4 Y=43.9x+177.7
+[S] est la concentration du substrat (mM) et v est la vitesse initiale de réaction exprimée en mmole minute ' o 1 . Déterminer les paramètres cinétiques de la ribose-5-phosphate isomerase RpiB en présence de 4PEH. 2. Déterminer le type dinhibition de 4PEH sur Yenzyme RpiB. Justifier votre réponse.  
 
+--- page 3 ---
+EPREUVE DE GENETIQUE
+EXERCICE 1 (12 points) Chez une e pèce végétale diploïde; le croisement dune variété à fleurs roses et pétales arrondies par une variété à fleurs blanches et pétales allongées a donné une F1 formée par des plantes à fleurs pourpres et pétales arrondies. Le croisement des plantes de la F1 a donné une F2 composée comme suit
+189 plantes [fleurs roses, pétales arrondies] 373 plantes [fleurs pourpres, pétales arrondies] 190 plantes [fleurs blanches, pétales arrondies] 65 plantes [fleurs roses, pétales allongées] 120 plantes [fleurs pourpres, pétales allongées] 63 plantes [fleurs blanches; pétales allongées]
+1-  Interpréter les   résultats   obtenus en précisant la relation entre   les  gènes impliqués dans le déterminisme génétique des caractères étudiés.
+Concours Biologie et Géologie ~ Session Juin 2018
+Epreuve de Biochimie; Biologie Cellulaire, Génétique
+Page 2/4
 
+--- page 4 ---
+2- Prévoir le résultat (phénotypes; génotypes et leurs proportions) du croisement de plantes à fleurs pourpres et pétales arrondies avec des plantes à fleurs blanches et pétales allongées; prises à partir de la F2. EXERCICE 2 (8 points) La séquence d'ADN suivante représente le début du brin transcrit du gène de la béta-lactamase isolé chez la souche sauvage dE coli :
+5'- GCAGGAACGTTCGCTCAGTTTTAGTTCCATGC- 3'
+1- Donnez la séquence du brin dADN complémentaire ainsi que la séquence de CARNm. 2- Donnez la séquence du polypeptide traduit à partir de cet ARNm.
+A partir de la souche sauvage, on a sélectionné deux souches mutantes m1 et m2 dont les séquences protéiques du début du gène de la béta-lactamase sont représentées ci-dessous.
+m1 NH2-Met-Glu-Leu-Lys-Leu-COOH
+m2 NH2-Met-Glu-Leu-Lys-Arg-Ala-Asn-Val-Pro--Ala-. COOH
+3 - Donnez la séquence de FARNm des mutants m1 et m2 en précisant le type de mutations engendrées.
+Table de distribution de x? (loi de K. Pearson)
+La table donne la probabilité a, en fonction du nombre de degrés de liberté v, pour que x? égale ou dépasse une valeur donnée x? (t a = P (x2 2 x2a)
+(),990
+(.975
+(1.950
+().96)6)
+(.1 (6)
+().()550) ().()25 ().(10) ().()6)1 () .()6)6)2 () .()01() ().(6)39) 0.0158 2.7055 3.8415 5.()239 (.(3349 10.8276 ().()201 ().()56)6 0.1026 ().2107 4.6052 5.9915 7.3778 9.2103 13.8155 (.1148 (.2158 (1,3518 ().558.444 6.2514 7.8147 9.3184 11.3449 16.2662 ().2971 844 (.7107 1,0636 7.7794 9.4877 11.1133 13.2767 18.1668 0.5543 ().8312 1.1455 1.6103 9.2364 11.0705 12.8325 15.0863 '20.5150 ().8721 1.2373 1.6354 2.2641 1(.64416 12.5916 14,4194 16,8119 22.1577 1.2390 1.6899 2.1673 2.8331 12.0170) 14.0671 16.(128 18.1753 24.3219 1.6465 2.1797 '2.7326 3.1895 13.3616 15.5073 17.53445 2().096)2 26.1215 2.(879 2.70()44 3.3251 4.1682 14.6837 166.9190 19.0228 21.6660 27.8772 2.5582 3.2470) 3.9446)3 1.8652 15.9872 18.30)70) '20.1832 23.2093 29.5883
+2 3 4 5 (i 7 8 9) 10)
+Concours Biologie et Géologie Session Juin 2018
+Epreuve de Biochimie, Biologie Cellulaire; Génétique
+Page 3/4
 
+--- page 5 ---
+Table du Code Génétique
+PREMIER NUCLEOTIDE
+DEUXIEME NUCLEOTIDE A
+TROISIEME NUCLEOTIDE
+U
+UUU UCU UAU UGU PHE TYR CYS UUC UCC UAC UGC SER UUA UCA UAA NS UGA NS LEU UUG UCG UAG NS UGG TRP CUU CCU CAU CGU HIS CUC CCC CAC CGC LEU PRO ARG CUA CCA CAA GLN CGA CUG CCG CAG CGG AUC ACC AAC ASN AGC SER ILE THR AUA ACA AAA AGA LYS ARG AUG MET ACG AAG AGG GUU GCU GAU GGU ASP GUC GCC GAC GGC VAL ALA GLY GUA GCA GAA GGA GLU GUG GCG GAG GGG
+U
+A
+|  1 n
+
+1 . . .
+Concours Biologie et Géologie Session Juin 2018
+Epreuve de Biochimie, Biologie Cellulaire; Génétique
+Page 4/4

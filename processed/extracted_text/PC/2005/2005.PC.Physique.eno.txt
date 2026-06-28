@@ -1,10 +1,126 @@
+--- page 1 ---
+Filière Physique et_Chimie
+Session Juin 2005
+Enoncé Session 2005  Filière PC
+Données rot(rot4 ) = grwd(div4) AA Le  vide est caractérisé   par sa permittivité   électrique Eo et sa perméabilité magnétique Ho 47 . 10*7 SI La célérité de la lumière dans le vide est c = 3.10* ms Dans la totalité de lépreuve; F'espace est rapporté à un référentiel galiléen (Oxyz) de base orthonormée directe (0x 0y' 4z)
+Ipt
+PROBLEME N%I
+On se propose dans ce problème détudier quelques propriétés liées à la propagation de la lumière dans un milieu   diélectrique dispersion; atténuation. La   dispersion   peut   être  exploitée; par  exemple, pour |' 'analyse de  la lumière en utilisant un prisme. Cependant,   elle   constitue Fun des   problèmes à confronter   lorsqu'on s'intéresse à la   transmission de Finformation. En   effet; lors d'une propagation dans un milieu dispersif, les spectres des signaux contenant Finformation se déforment ce qui provoque une perte de celle-ci.
+Ipt
+Première Partie Optique Géométrique et Dispersion
+Préliminaires
+1- Enoncer les lois de Snell-Descartes pour la réflexion et la réfraction sur un dioptre séparant deux milieux transparents dindices de réfraction np et n2.
+0,5 pt
+2- Donner Pexpression de F'angle de déviation D En fonction de   1angle d'incidence pour   le   rayon   réfléchi (figurel.a) En fonction de 1 et de langle de réfraction pour le rayon réfracté (figure 1.b).
+0,5 pt
+2 7
+90
 
+--- page 2 ---
+Enoncé
+Session Juin 2005
+n1
+n2
+D 21 n2 Figure 1.a
+Figure 1b
+3 - Faire des   figures claires pour exposer les   différentes situations observées (suivant les valeurs des indices) lors de la réfraction. Préciser les conditions d'existence du rayon réftacté.
+Etude d'un prisme
+4- Un prisme d'angle au sommet A, est taillé dans un milieu transparent; homogène; isotrope et dindice de réfraction n dépendant de la longueur donde ^ dans le vide. Il est plongé dans l'air dont lindice sera pris égal à 1 . Les rayons   lumineux   incidents   sont contenus dans un plan perpendiculaire à larête du prisme (figure 2)
+Figure 2
+4-1- La lumière incidente est monochromatique. Tracer soigneusement la marche dun rayon lumineux qui émerge du prisme. 4-2- Déterminer les relations reliant langle dincidence i à langle de réfraction r à la face dentrée. Pangle démergence i à Fangle de réfraction r' à la face de sortie. Pangle au sommet du prisme A à r et r' . Fangle de déviation D du rayon émergent à i,i' et A. 4-3- Déduire les conditions pour avoir un rayon émergent du prisme: On ie T raisonne  pour un angle dincidence 0, Faire  lapplication 2 ] numérique pour n = 1,52 et A = 609 .
 
+--- page 3 ---
+Filière Physique et Chimie Session Juin 2005 4-4- 44-1- Tracer lallure de la courbe donnant la variation de langle de déviation D en fonction de langle d'incidence i. 4-4-2- Expliquer qualitativement le fait qu'au minimum de déviation Dm, on a i' . En notant im cette valeur, déduire une méthode expérimentale pour mesurer lindice du prisme. Calculer les valeurs de Dm et im 4-5- Sachant que lindice n du prisme peut être donné par la formule b simplifiée de Cauchy_ n(1) =a + où a et b sont des constantes, 1 2 expliquer qualitativement leffet du prisme sur une lumière incidente polychromatique. 4-6- En déduire expression de la dispersion angulaire du prisme; définie dD par au voisinage du minimum de déviation:. d1 i=i Faire / 'application numérique pour A 60" a = 1,491 b = 10-2 (um)? et 1 = 585 nm. 5- Application Le prisme décrit   précédemment est monté sur un goniomètre. La fente source est dans le plan focal objet d'une lentille convergente LI Le spectre de la lumière sortant du prisme est observé sur un écran placé dans le plan focal image dune lentille convergente L2, de distance focale image f2 40 cm- La fente source est éclairée par une lampe spectrale de Mercure. On s'intéresse à la raie verte de longueur d'onde 41 546,1 nm et la raie jaune de longueur d'onde 4 2 = 41 + 44 Le prisme est réglé au minimum de déviation. Les deux images   de la fente source sont   séparées de 1,90 mm SUr Pécran. Déterminer la valeur de la longueur d'onde 12-
+Etude dune fibre optique
+6- Une fibre optique à saut d'indice est constituée dun cœur cylindrique de diamètre d1, homogène et isotrope, dindice de réfraction n1 Ce cœur est entouré dune gaine de diamètre d2, homogène et isotrope; dindice de réfraction n2 (figure 3) 6-1- Quelle est la condition que doivent vérifier les indices n1 et nz pour qu'un rayon lumineux puisse être guidé dans le cœur de la fibre ? Expliquer brièvement le principe de ce guidage. 6-2- Un rayon lumineux arrive au point I sur la face dentrée du guide (figure 3) avec un angle d'incidence 0 3
 
+--- page 4 ---
+Enoncé
+Session Juin 2005
+Air Az no = 1)
+Gainens
+Cœur (nx.
+Figure 3
+Justifier le fait que le trajet parcouru par ce rayon n'est plan que si le plan d'incidence contient ]axe (Ox) de la fibre ?
+On s'intéresse dans la suite au rayon incident dans le plan (xOz) 6-3- Pour que ce rayon reste guidé par le cœur de la fibre, montrer que Pangle dincidence €, doit rester inférieur à un angle limite €a (angle dacceptance) [n} -ng Exprimer @ en fonction de n1 et A = 2n? 6-4- On appelle ouverture numérique ON du   guide la quantité ON no sin €a où no est lindice de réfraction de lair pris égal à 1. Déterminer expression de ON en fonction de np et 4. Calculer ON et 0a pour n, 1,50 et A = 10-2. 6-5- Le mode de transmission numérique par fibre optique consiste à coder ]'information sous forme dune suite déléments binaires appelés bits. Chaque élément binaire vaut 1 ou 0 Dans la fibre, linformation est transmise sous forme d'une succession dimpulsions lumineuses, 1a présence de la lumière étant associée à Fétat 1, son absence à ]état 0. Une impulsion lumineuse arrive à 0, sous forme dun faisceau conique de demi angle au sommet 0a, convergent; au point O On ne considère que l'aspect géométrique de la propagation dans le guide de longueur € 6-5-1- Exprimer la différence &t entre   la durée maximale et la durée minimale de la propagation dans le guide en fonction de {, c, np et 4 Calculer &t pour & = 2 km. 6-5-2- Quelle durée minimale T doit séparer deux impulsions successives pour qu'elles ne se superposent pas à la sortie de la fibre ? En déduire le débit maximal d'une ligne constituée par cette fibre; que Pon exprime en bits par seconde.
 
+--- page 5 ---
+Filière Physique et Chimie_
+Session Juin 2005
+Deuxième Partie optique
+Dispersion intermodale dans une fibre
+1- En un point quelconque du diélectrique formant le cœur de la fibre optique étudiée précédemment; l'état électromagnétique résulte de la superposition des ondes qui ont subi des réflexions aux points Iv, I2, I;,  du plan (xOz) (figure 4)
+Gaïnë(
+d
+Hz
+Cœur (n,)
+H1
+Figure 4
+Dans le but de simplifier notre étude, on ne tient pas compte du déphasage dû à chaque réflexion. Pour une direction   caractérisée par Pangle dincidence avec la normale au dioptre de séparation cœur gaine, on note 2 la surface d'onde associée à la propagation de londe le long du trajet IpIz: 7-1- En considérant les réflexions en Iz et en I,, montrer que la différence 6 de chemin optique due à la propagation de l'onde entre les points H1 et Hz, s'écrit 5 = 2n1 d1 cosi_ 7-2- En déduire la condition dexistence dune onde progressive dans le 1 guide no sin0 = p où p est un entier dont les   valeurs sont 2d1 associées par définition aux modes guidés de la fibre optique. 7-3- En déduire qu'il existe au moins un mode guidé. Exprimer le nombre de modes guidés en fonction de nv, dv 4 et la longueur donde dans le vide ^ 7-4- La fibre optique considérée est éclairée par un rayonnement  de longueur donde dans le vide 4 = 1,SSum. 7-4-1- Pour quelles valeurs de d, la fibre est monomode ? 7-4-2- Déterminer le nombre de modes de la fibre pour dp = 3Oum.
+5
 
+--- page 6 ---
+Enoncé
+Session Juin 2005
+7-5- Montrer que, pour une longueur { de la fibre, la différence des temps de parcours du mode le plus lent et du mode le plus rapide s'écrit St' ~ "124 .
+7-6- Comparer &t et &t trouvée dans la première partie (question 6-5-1) Justifier 1appellation < dispersion intermodale > dans le cas d'une fibre multimode.
+Troisième Partie Dispersion et Atténuation des Ondes Electromagnétiques
+Pour tenir compte des pertes d'énergie lors de la propagation de la lumière dans le cœur de la fibre, on étudie linteraction entre une onde électromagnétique plane   progressive   monochromatique et un milieu diélectrique infini, linéaire, homogène, isotrope (Lh.i) et non magnétique (u Ho), de faible densité N ~ 1020 atomes.m' En labsence de champ électrique, chaque atome possède un moment dipolaire électrique nul:.
+Modèle dun milieu diélectrique linéaire homogène et isotrope
+Dans cette étude, on adopte le modèle de lélectron élastiquement lié. Chaque atome comporte un électron mobile de masse m et de charge (-e) soumis; de la part du reste de latome supposé fixe; à une force de rappel   de la forme Fo =-m 08 7_ où @o est la pulsation propre de Félectron et 1 son vecteur  déplacement par rapport au centre de Patome. Sous laction du champ électromagnétique, lélectron est soumis, en plus de la force de Lorentz; à une force de frottement visqueux de la forme f =_ mv où v est   la vitesse de lélectron et est une constante positive.
+8- Que représente r ? Citer les origines des pertes d'énergie. 9- En supposant que la force magnétique est négligeable devant la force électrique; déterminer léquation différentielle régissant les variations de r 10- Le champ électrique de londe qui excite le milieu s'écrit, en notation complexe E(M,t) = Eo (M)exp(jot) , où Eo(M) représente
+6
 
+--- page 7 ---
+Filière Physique et Chimie Session Juin 2005 Famplitude   complexe. Quelle est, en régime forcé, la solution de Péquation différentielle obtenue ? 11- Lors du déplacement de Vélectron; il y apparition dun moment dipolaire P dépendant du champ excitant E(M,t) Déduire Fexpression complexe du vecteur densité de moment dipolaire électrique induit P (appelé vecteur polarisation). On posera Nez 92 meo
+Propagation dans un milieu diélectrique linéaire homogène isotrope
+12 - On s 'intéresse, dans la suite, à la   propagation dune onde électromagnétique suivant l'axe Ox. Le champ électrique associé à cette onde s 'écrit en notation complexe E(M,t) = Eo expjlot kx) kz, où Eo est un réel positif et k à priori complexe.
+12-1- Rappeler les équations de Maxwell dans un milieu diélectrique Lh.i et non magnétique; dépourvu de charges et de courants libres . 12-2- En tenant compte des caractéristiques du milieu diélectrique (L.h.i), établir l'équation aux déviées partielles
+AE coHo p24 9P Ho grad (divF) àt2 ôt2 €0
+12-3- Etablir la relation de dispersion k = f(@) 12-4- On définit l'indice complexe du milieu   p(0) par 2() = c Jlo) 0 Déterminer n () . 12-5- On pose 2()=n'() - jn"(), où n'() et n"() sont des réels. Donner   leurs   significations   physiques: Décrire  le comportement   de Ponde lors de la propagation: 12-6- Dans quel domaine de pulsations, latténuation sera-t-elle la plus faible ?
 
+--- page 8 ---
+Enoncé
+Session Juin 2005
+Sachant   que @o
+1017 rad.s ' justifier ]'utilisation des sources émettant dans le rouge et le proche infrarouge pour transmettre des informations dans une fibre optique. 12-7- On se place dans le domaine visible 12-7-1- Montrer que lindice du milieu vérifie la formule simplifiée de b Cauchy n(2) = a + où 1 désigne la longueur d'onde dans le vide 22 et a et b sont des constantes à déterminer. Justifier 1utilisation des prismes en verre dans le domaine visible. 12-7-2- Déterminer la vitesse de phase vw et la vitesse de groupe Vg de Ponde.
+PROBLEME No2
+Une corde homogène, inextensible, de longueur L et de masse linéique L, est tendue sous laction dune force de tension de norme constante To. Au repos, cette  corde est confondue avec Faxe Ox.   Lorsqu'elle est excitée, tout point de celle-ci situé en Mo(x; y = 0) au repos se trouve; à F'instant t, en M(x, y) ; labscisse X est invariante et lordonnée y est fonction de X et de t. On se limite à létude des petits mouvements transversaux de la corde dans le plan Oxy de part et dautre de sa position déquilibre: A Finstant t, les   extrémités dun élément de la corde de  longueur curviligne ds et situé entre les abscisses x et x + dx sont soumises aux forces de tension T(x;t) et T(x +dx, t) respectivement: Ces forces sont tangentes à la corde et font avec laxe Ox les angles faibles  a(x,t)au point extrémité de coordonnées   (x,ylx,t)) et a(x + dx, t) au point de coordonnées (x + dx,y(x + dx,t)) ce qui impose Papproximation ôyl < le long de la corde vibrante (figure 5). #x ! Dans tout le problème; on néglige leffet de pesanteur. Leffet de lamortissement ne sera pris en compte que dans la deuxième partie.
 
+--- page 9 ---
+Filière Physique et Chimie
+Session Juin 2005
+y(x,t)
+Figure 5
+y(x+dx;t)
+J%(x+dx,t)
+ds
+y(x;t) a(x,t)) 1 4
+X+dx
+Première Partie Propagation dune Onde Mécanique le long dune Corde Idéale
+1- Montrer que, dans lhypothèse des petits mouvements transversaux, la longueur de lélément de la corde reste pratiquement inchangée ds ~ dx. 2- 21- En appliquant le principe fondamental de la dynamique à un élément de  la corde de longueur dx, montrer que  la norme de la tension T(x,tJest une constante 22- En déduire que le déplacement transversal y(x, t) obéit à léquation de propagation donde a_yl t2 1 ~2ylxt2-0 ôx ôt 2
+Exprimer v en fonction de To et +. Préciser la dimension de v.
+2-3- Application numérique Calculer v pour une corde de nylon de masse M = 2 g, de longueur L 1,5 m et soumise à la tension To = 2 N. 3 - 11- Montrer que la puissance élémentaire dPreçue par l'élément ds de la corde pour des petits mouvements transversaux sécrit
 
+--- page 10 ---
+Enoncé
+Session Juin 2005
+dP = T(à(2)(512))ax dx ât
+3-2- En utilisant léquation de propagation; montrer que la puissance linéique reçue par la corde est de la forme
+p(x,t) = â 4 (%6 %) 4 GTo(  â(xt2)- ôt 2
+Que représentent les deux termes de la somme entre crochets ? 3-3- En déduire que p(x;t) vérifie l'équation locale div 'S(x,t)+ p(x,t) =0 , où S(x,t) est un vecteur qu'on déterminera. Que représente une telle équation ? 4- En faisant un bilan énergétique sur une longueur L de la corde; donner la signification physique de S(x;t) . 5- Calculer sa valeur moyenne temporelle < S(x,t)>  pour une vibration progressive harmonique de pulsation @ se propageant à la célérité v. 6- Les extrémités A(x 0) et B(x = L) de la corde sont fixées. La corde est écartée de sa position d'équilibre et abandonnée à 0 en oscillations libres . 6-1- On admet que la solution de l'équation de propagation y(x; t) est de la forme y(x, t) = yo cos(kx @)cos(t v), où p et y sont des constantes. Décrire la structure de cette onde. Etablir la relation de dispersion. 6-2- En exploitant les conditions aux limites; montrer que les pulsations @n des vibrations de la corde sont des   multiples dune pulsation fondamentale @ (@n n @01 n entier). Exprimer @1 en fonction de To L et 4L. Que représentent les différentes valeurs @n de la pulsation ? 6-3- Déduire les longueurs d'onde possibles 2n en fonction de la longueur L de la corde vibrante 6-4- Exprimer lélongation transversale yn (x,t) de la corde fixée à ses extrémités et vibrant à la   pulsation @n Préciser   le nombre et les positions des nœuds caractérisant la corde vibrante. Représenter, à un instant t, laspect de la corde en mouvement pour n = 1, n = 2 et n = 3. Ao
 
+--- page 11 ---
+Filière_ Physique et Chimie
+Session Juin 2005
+6-5- Calculer la   valeur moyenne temporelle < S(x, t) > relative à cette onde. Commenter.
+Deuxième Partie Effet de /Amortissement
+On suppose maintenant que le milieu dans lequel vibre la corde exerce sur celle-ci une force d'amortissement du type  visqueux. Par conséquent;  chaque élément ds de la corde, animé dun mouvement transversal de faible amplitude y(x;t) est soumis à la force d'amortissement d7 = -h ôy(x t2 dx uy , où h est une constante positive: ôt
+1- Montrer que le déplacement transversal   y(x,t) de la corde obéit à [équation différentielle suivante
+a'ylx,t2 ~v2 a_y(z t2+b ôylx,t2 =0 (E) ât dx 2 ôt
+Exprimer la constante b en fonction de h et |.
+8- On cherche des solutions de la vibration transversale, en notation complexe; sous la forme y(x,t)= a(x)exp(jot) 8-1- Etablir léquation différentielle satisfaite par lamplitude complexe a(x) 8-2- Dans lhypothèse h <0u , montrer que:
+2(x )= a1 exp ((jk +B)x)+a2 exp(-(jk + p)x)
+Exprimer k et B en fonction de @ V, h et L.
+8-3- Déterminer, en notation réelle, la solution y(x,t) de léquation (E) correspondante à des ondes progressives amorties selon les x positifs. Que représente B ?
+A^

@@ -1,3 +1,60 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de /'Enseignement Supérieur, de la Recherche Scientifique et de la Technologie
+Concours Nationaux d'Entrée aux Cycles de Formation d'Ingénieurs Session de Juin 2003
+pREP 5 RARATOIRE  (Bibliotheque ) 2 6 Yetudes S {cungemieuss >
+Concours en Biologie Géologie Epreuve de Mathématiques
+Durée 3 H Date 6 Juin 2003 Heure 8 H Nb pages 4 Barème Exercice 5 points Problème 15 points (3.5 6.5 5)
+Une grande importance sera attachée à la rigueur du raisonnement; à la clarté de la rédaction et au soin de la présentation. Il est rappelé que tout résultat énoncé dans le texte peut être utilisé pour traiter la suite, même s'il n'a pu être démontré L'usage des calculatrices n'est pas autorisé.
+EXERCICE
+On se propose de déterminer les suites réelles un, Un et Un définies pour tout n € N par la relation suivante
+=
+Un-l 3un 2un 2wn Un_: = 3un Un 3wn W;+i = Un 2un
+avec 4o = 0. vo = l et wo = 1.
+Un Pour tout n € N, on note Xn = Un dans la base canonique de R' Wn 1 (a) Montrer qu'on a Xn+i = AXn où A est une matrice qu 'on précisera. (b) En déduire que pour tout n € N, Xn = 4" Xo 2 Déterminer les valeurs propres de 4. 3 La matrice 4 est-elle diagonalisable ?
+1/4
 
+--- page 2 ---
+Détemminer les sous-espaces propres de A. (On classera les valeurs propres par ordre croissant   X1 < X2 < Az et on choisira la dernière composante égale à 1 pour les vecteurs propres associés) 5 (a) Déterminer une matrice inversible P telle que
+A = PDP-1
+X1 0 0 0 Xz 0 0 X3
+D =
+U
+4 U b) Calculer P-1 à V 4 6 (a) Montrer que; pour tout n € N, A" = PD" P-1 ' ! b) Calculer A" pour n 2 1. (c) Exprimer Un, Un et Wn en fonction de n. PROBLÈME
+Soient X et Y deux variables aléatoires de densité conjointe
+Œ e 4(z?_4z) si (I,y) €R x ] = 1, 1[ 0 sinon.
+fxx(s,y) =
+Partie 1
+1 Trouver & pour que fxx(  ) soit une densité de probabilité. 2. Calculer lespérance mathématique E(X.Y) 3 Calculer les densités marginales de X et Y. 4 Préciser les lois de X e Y. 5 X et Y sont-elles indépendantes ?
+Partie 2
+s Soit U la variable aléatoire définie par U =Y | 1. Donner la fonction de répartition de U 4 2 Déduire la densité de U en précisant sa loi. 2 / 4 ~es 0 *  o6 = (x - 9) 0 (x _9
+où
+4
 
+--- page 3 ---
+3. Calculer la fonction génératrice de moments  v(t) = E(etu ) de la variable aleatonre U Donner un développement limité à lordre 2 de Qv(t) 5 Déduirv [espérance E(U) et la variance Var U) . 6 Soit Z la variable aléatoire définie par
+Z = max(l. 1 ~ 2U)
+(a) Montrer que pour V z € J0, 1[ on a
+1 < max(I.1 ~ 2r) < 1 3
+(b) En déduire que
+4 ,  2v, 914( C < 4 2 2"
+P( < Z < 1) = 1 3 (c) Calculer la fonction de répartition de Z (d) Montrer que cette variable aléatoire admet une densité. En donner Texpression et préciser la loi associée. 7 Soit maintenant L une variable aléatoire réelle de densité
+2I si 0 < I < 1 0 sinon
+fL(z) =
+On suppose que L est indépendante de Y. (a) Calculer la fonction génératrice de mogents de la variable aléatoire 1v (b) En déduire la moyenne et la variance de LY_ (c) Suit Un une suite de variables aléatoires indépendantes de même loi que LY On pose k=n Sn = C k=i Montrer que XS. converge vers une loi qu'on précisera. (d) Cue vaut limn_o P(S  > 0)?
+Partie 3
+Soit $ la for:ction de répartition d une variable nc-male centrée réduite. 1 Ecrire `a fonction de répartition de la variasle aléatoire X en fonction de $ 6u 3 / - ( 4 0 96  € A  ~ 2(
 
+--- page 4 ---
+2 Montrer
+1
+P(1 < X < 2) = $(1) 2 3. Donner une valeur approchée à 10-3 près de l'intégrale
+[ e-4 ~4r) dz (On donne $(1) = 0.8413, V2T = 2.5066 et e2 = 7.3891) 4 Soit M une variable aléatoire normale centrée réduite et soient X1 et Xz deux variables indépendantes de même loi que celle de M.
+Calculer la densité de la variable aléatoire M?.
+5 On rappelle que la densité de la somme de deux variables indépendantes; admettant la même densité f est donnée par
++0 g(t) = f(z)f(t ~ I)dz 00
+(a) En faisant le changement de variables I = é(1 + u) dans la formule intégrale ci-dessus; montrer que Vt > 0,
+t +0 t t g(t) = f(2(1+u))f(z(1 - u))du 2 o0
+(b) Déduire alors la densité de la variable aléatoire X1 2 + Xz et préciser la loi associée 6 Soient a > 0 et D(O, va) le disque fermé de R? de centre Û et de rayon V? Soit F la fonction de répartition de la variable aléatoire X? + X?. (a) Montrer que pour tout a > 0;
+F(a) = P ((Xi,X) € D(O; v2))
+(b) Calculer F(a) et retrouver la densité de X;? + X2?
+4

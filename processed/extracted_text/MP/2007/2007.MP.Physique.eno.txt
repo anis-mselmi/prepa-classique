@@ -1,6 +1,85 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE
+4sj)4/l) &Ujs?gsLs SsbuyLwLs Jz,c ohasdH 2007:;>
+Ministère de l'Enseignement Supérieur; de la Recherche Scienti Ifique et de la Technologie Concours nationaux d'entréc Ju1 cyclcs dc formation d'ingénicurs Scssion 2007
+Concours en Mathématiques et Physique
+Epreuve de Physique
+Date : Jeudi 07 Juin 2007
+Heure : 8 H 00
+Durée : 4 H
+nbre de pages 07
+Barème : A (7 pts) ; B (6 pts) ; C (3 pts) ; D (4 pts)
+8s77tu} 2844 L'usage d'une calculatrice non programmable est autorisé. CbloTHEQUB) AUT udes [ Sax Lfépreuve comporte quatre parties indépendantes. Dingmuy Un candidat   peut   toujours se servir dun résultat fourni par Fénoncé   pour continuer Sa composition.
+L'espace est rapporté à un repère (Oxyz) de base orthonormée directe ( ù 1 8 1,' ù,) €o et /o désignent respectivement la permittivité électrique et la perméabilité magnétique du vide et c est la célérité de la lumière dans le vide.
+Données utiles Charge élémentaire Masse dun électron
+e = 1.6 10-19 C m = 9,1 10*31 kg.
+A- CONDUCTION  EFFET HALL
+Dans le cadre de la physique classique; F'étude du phénomène de transport des charges traduisant la conductivité des matériaux se fait en supposant que les porteurs de charges mobiles sont des particules obéissant à la mécanique classique. On considère un milieu conducteur qui est décrit comme un ensemble d'électrons (charge e) évoluant au sein d'un reseau constitue de   charges   positives fixes On désigne par 7 sa conductivité électrique et par n le nombre de charges par unité de volume du conducteur. Le poids des électrons est négligeable devant les forces électrique et magnétique qui lui sont appliquées.
+Concours cn Mathématiqucs ct Physique
+Scssion Juip 2007
+Eprcuve dc Physiquc
+Page  / 7
 
+--- page 2 ---
+ I- Conducteur soumis à un champ électrique Une plaque conductrice, du milieu matériel considéré, de   longueur @ parallèlement a y Faxe Oz, de largeur a parallèlement à Faxc X Ox, d'épaisseur b <<a parallèlement à Faxe Oy (Figure 1) est soumise à Faction dun C champ électrique Eo uniforme et stationnaire dirigé suivant l'axe Oz. L'application de E, @ à la plaque entraîne u mouvement des électrons de conduction qui acquièrent une vitesse densemble v(t) et le conducteur Figure 1 devieni le siège dun courant caractérisé par le vecteur densité volumique de courant 1 Les collisions que subissent les porteurs de charge sont modélisées par une force de frottement opposée au mouvement et proportionnelle à la vitesse v(t) . Chaque porteur de charge est soumis à la force de frottement F m 7 , où 1 est un 1 coefficient positif caractéristique du milieu. 1) Ecrire la relation fondamentale de la dynamique appliquée à un électron de masse m. En déduire ]expression de la vitesse 7(t) en fonction de e, m, t; 1 et Eo Préciser la signification physique de r 2.a) Déterminer; lorsque le régime permanent est atteint, la vitesse limite notée V 2.b) Déterminer lexpression du vecteur densité volumique de courant 2.c) En déduire l'expression de la conductivité électrique Y du conducteur ohmique. 3) On définit; à champ magnétique nul et en régime permanent, la mobilité p dun électron de vitesse v soumis à un champ électrique E par la relation v = -uE 3.a) Quelle est la relation entre Y et u ? On donne pour un matériau (1) : à = 5,4 10- m? s! V-I et n = 7 1028 m 3 pour un matériau (2) u = 62.5 10-5 1 ? S V-l et n = 1024 m 3 Dire en le justifiant lequel des deux matériaux est le plus conducteur . 3.b) Calculer - pour le matériau (1 ). Commenter .
+II- Conducteur soumis à un champ électrique et à un champ magnétique En Tabsence de champ magnétique; les lignes y 4 B de courant sont réparties de manière uniforme. x La présence dun champ magnétique modifie, en général, les lignes de courant. a La plaque électriquement neutre est  toujours soumise à laction du champ électrique constant Eo dirigé selon ]axe Oz. Lorsque le régime permanent est atteint, on lui applique en plus un champ magnétique extérieur uniforme et Figure 2 stationnaire; dirigé   selon Faxe Oy; B = B4,
+Concours en Mathématiques et Physique
+Session Juin 2007
+Epreuve dc Physique
+Page 2/7
 
+--- page 3 ---
+(Figure 2) On néglige le champ magnétique créé par le milieu matériel. On désigne par [ ['intensité de courant traversant la plaque. 1.a) En résonnant qualitativement sur un électron mobile, montrer que Fapplication de B à la plaque  entraîne Fapparition dun champ électrique < perpendiculaire à Faxe (Oz) (appelé champ de Hall) . 1.b) En déduire qu'une différence de potentiel Vh Vzz Vzi > 0 (appelée tension de Hall) prend naissance entre deux faces 21 et Ez de la plaque que 1on précisera.  On ne cherchera   pas à déterminer ['expression de Vu dans cette question: L.c) Représenter Êx ' V# et la vitesse 4 0 en régime permanent sur un schéma.
+Dans_toute_la suite de_cette partie on se_placera en régime_permanent.
+2.a) Déterminer ['expression de E# en fonction de j, B et de la constante de Hall 1 Ru = où q nq est la charge dun porteur mobile. 2.b) En déduire les densités surfaciques de charge G1 et 02 accumulées respectivement sur les faces Z1 et Ez de la plaque. 2.c) Montrer que la différence de potentiel V# qui apparaît entre les deux faces appropriées de la plaque a pour expression V = -Ru Bl H 6 3) Exprimer langle € que font les lignes du champ total E = E + Ex avec les lignes de champ E en fonction de Ru, Y et B. Calculer 0 pour un champ   magnétique très intense B = 1 T dans le cas du cuivre où Ru 2-0,910-10 m' C-' et 7 = 6 107 S m' Commenter le résultat obtenu 4) Application Sonde_de Hall Considérons deux matériaux Fun   qualifié de conducteur   métallique et Fautre de semi - conducteur; dont les caractéristiques sont les suivantes conducteur métallique n = 7 1028 m 9 = -1,6 10-19  C ; semi-conducteur n = 1024 m 9 = -1,6 10-19 C 4.a) Calculer Vu pour les deux cas précédents. On prendra un champ magnétique de 1 Tesla, une intensité de courant de 1 A et une épaisseur 6 = 104 m pour la plaque. 4.b) Pour des mesures plus précises; vaudrait-il mieux utiliser un métal ou un semi conducteur ? Justifier . 4.c) De même; est il préférable d' utiliser une épaisseur b = 10 4 m ou 10-3 m ? Justifier.
+B- PRESSION DE RADIATION
+Le milieu matériel de la plaque étudiée dans la partie A occupe maintenant le demi-espace y 2 0  et le vide occupe le demi-espace y <0 . On envoie sur la surface du milieu en incidence normale une onde électromagnétique plane, monochromatique; polarisée rectilignement le long de Faxe Oz . qui se propage dans le vide vers   les y > 0 On écrit son champ électrique en tout point M(x; y; z) , en notation complexe; sous la forme  i(ky = @t ) E(M,t) = Eo e 4z On suppose que le milieu matériel possède les mêmes propriétés que le vide à savoir une permittivité électrique & et une perméabilité magnétique Ho.
+Concours en Mathématiques et Physique
+Session   Juin 2007
+Epreuve dc Physique
+Page 3 / 7
 
+--- page 4 ---
+Les fréquences considérées sont telles que LAROS (ou ARQP)n 'est pas valable: 1) Déterminer ]expression du champ magnétique 5 (M,t) de londe incidente. 2) Les champs électrique et magnétique à Fintérieur du milieu matériel ( y 2 0 ) sont de la forme : 4(M,t) = E(y,t) æ B (M,t) = B (y,t) u où E, et B, tendent vers zéro lorsque y tend vers linfini. On ne cherchera pas à déterminer les expressions de E, et B. 2.a) En utilisant   léquation de Maxwell-Ampère, déterminer en fonction de ces champs Pexpression en tout point du milieu matériel du vecteur densité de courant J(M,t) 2.b) Déterminer ['expression de la densité volumique de charge p(M,t) dans le milieu matériel. 3.a) Déterminer lexpression de la densité volumique de force ](M,t) exercée par londe sur les charges et les courants du milieu matériel considéré . 3.b) Montrer que la moyenne temporelle de J(M,t) sur une période T doscillation de l'onde se met sous la forme: < f > = 1 B,6y,t) âB@42+ E,E,6st) 'E642 dt ùy T 0 [Ho ôy ôy
+3.c) On considère un volume du milieu matériel de dimension ( {z,2 , ) selon les directions Or et Oz et de profondeur supposée infinie suivant (Oy) Déterminer la moyenne temporelle de la force 4a' notée < FR > , s'exerçant sur ce volume. Montrer qu' elle s 'exprime en fonction de la densité volumique d'énergie électromagnétique moyenne ZUem du champ électromagnétique calculé à la surface du milieu matériel (y = 0) 3.d) En déduire qu'il existe une pression PR dite pression de radiation exercée par Tonde sur le milieu matériel; dont on donnera [expression.
+Dans_la suite_les fréquences _considérées sont telles_que LAROS (ou_AROP) est_valable  4) En utilisant les résultats de la question 3, montrer que < FR > s'écrit sous la forme < B? < FR > = (0,t2Z8,22 2 z 2 2ko 5) On suppose que le milieu matériel est un conducteur parfait. 5.a) Justifier lexistence de londe réfléchie puis décrire brièvement son origine physique. 5.b) Donner les expressions des champs électrique 7r et magnétique B- de londe réfléchie. En déduire les champs 4 et 4 résultants au voisinage du conducteur. Décrire la structure de londe résultante . 5.c) En réalité le conducteur parfait n'est autre qu'un modèle dans lequel le courant est supposé surfacique. L'onde électromagnétique arrivant à la surface du conducteur pénètre dans ce demier sur une épaisseur très faible dans laquelle le courant est plutôt volumique: En utilisant le résultat de la question 4, déterminer 1expression de < FR > en fonction de Eo, 80, & < et / En déduire alors une relation entre la norme de < FR > et la moyenne temporelle de la puissance <P> apportée par londe électromagnétique incidente à la surface du conducteur.
+Concours cn Mathématiques et Physique
+Session  Juip 2007
+Epreuve de Physique
+Page 4/7
 
+--- page 5 ---
+C- RAYONNEMENT DPOLAIRE
+Une onde plane électromagnétique; sinusoïdale de pulsation @ , polarisée rectilignement suivant Oz, de champ électrique en notation complexe E= E e i@t 1;' excite les électrons de la surface dun milieu matériel occupant le demi espace y2 0 Un électron de masse m et de charge e se trouve donc soumis d'une part à un rayonnement électromagnétique et d'autre part à une force de rappel vers sa position déquilibre de la forme mo? 5 où s est le déplacement par rapport à sa position d'équilibre et @ sa pulsation propre Ce modèle permet détudier; pour un électron lié dans un atome ou une molécule, le rayonnement émis dû à son mouvement. On désigne par r la distance séparant un point dobservation de la position d'équilibre de lélectron et par ^ la longueur d'onde du rayonnement incident et du rayonnement émis. On négligera [amortissement du mouvement de lélectron dû au rayonnement émis. d On se placera dans les conditions où Isl << ^ <<r et <<c ; dt La pulsation de londe incidente @ est très petite devant la pulsation @ L'atome ou la molécule constitue un dipôle oscillant. 1) Que signifient ces trois inégalités : Isl << ^ <r ? 2.a)   Montrer que, pour une onde plane, laction du champ magnétique sur   lélectron est négligeable devant celle du champ électrique. 2.b) Déterminer l'équation différentielle en s qui régit le mouvement d'un électron autour de sa position d'équilibre. 2.c) Déterminer en régime forcé, lexpression du déplacement 5 de lélectron par rapport à sa position déquilibre. 2.d) On supposera; pour simplifier; que ]atome est constitué dun électron et d'un proton. En déduire que le moment dipolaire 4(t) dun atome a pour expression eE 2 4(t) ~ e ~lay uz m@ 3) Latome constitue, au fait; un dipôle oscillant analogue à celui constitué de deux charges ponctuelles   9(t) et -9(t) distantes   de C et dépendant   sinusoïdalement du temps et dont  la puissance totale moyenne rayonnée dans tout lespace a pour expression Lo @ 2|eZol < P > = 127 c où I(t) = Zoe =@t désigne lintensité du courant associé au dipôle 3.a) Définir, par analogie, le produit ?Io associé à un atome en fonction de e, m, Eo, @ et @ 3.b) En déduire la puissance totale moyenne < P > émise par lélectron dans tout Pespace. < P > 3.c) Déterminer le rapport où < P > désigne la puissance moyenne de londe incidente < P > 0 par unité de surface, en fonction de e, m et Ho 0o <P > 4) En utilisant lexpression du rapport déterminer la couleur du visible pour laquelle la < Po > puissance rayonnée est maximale. 
+Concours en Mathématiques et Physique
+Session Juin 2007
+Epreuve de Physique
+Page 5/7
 
+--- page 6 ---
+V- 1RANSFERT THERMIQUE
 
+[) Conduction dans une plaque La plaque étudiée dans la partie A, d'épaisseur b suivant laxe Oy est constituée d'un matériau 6 omogène de conductivité thermique constante 2 . Sa face y = _ est maintenue à la 2 6 mpérature T1 et sa face y = est maintenue à la température Tz < T1. 2 1 se place en régime permanent et on suppose que le transfert thermique se fait uniquement par 1duction suivant l'axe (Oy) En faisant un bilan d'énergie sur une tranche du conducteur de longueur dy, comprise entre abscisses y et y + dy, établir l'équation de diffusion thermique (équation de la chaleur) . léduire la loi de variation de la température TW) en un point d'abscisse y du conducteur . 6 6 Déterminer la puissance thermique @ transférée depuis la face y = vers la face y 2 2 'ers une surface $ de la plaque. Etablir un tableau de correspondance entre   les grandeurs   des échanges thermiques par iction et les grandeurs électrocinétiques analogues. Jéfinir alors la résistance thermique Rt dune surface $ de la plaque et déterminer son sion.
+Insfert thermique dans un milieu feuilleté
+pse une plaque (P1) constituée matériau de conductivité 1e 21 et dépaisseur e1 sur une aque (Pz) constituée dun P1Pz de conductivité thermique aisseur e2. Cette association 2s constitue Félément   P1Pz
+Thermostat
+y =+1 2 e
+21
+12
+e2
+N éléments du type PpPz. ainsi un milieu feuilleté . constitué, d'épaisseur livant Taxe Oy; est   placé 'upports respectivement en y = 4 (Figure 3) 2 e transfert thermique par De plus; on suppose contacts thermiques sont )rte   que la   température lans [empilement.
+ 1 y = = 2
+Thermostat Figure 3
+re que les transferts thermiques $' effectuent seulement par conduction selon la purquoi la résistance thermique du matériau constituée d'un empilement de N it équivalente à une association en série de résistances thermiques.
+iques et Physique
+Session  Juin 2007
+Epreuve de Physique
+Page 6/ 7
+
+--- page 7 ---
+L.b) Déterminer  alors la résistance thermique Rt du matériau; de surface S, constitué dun empilement de N éléments P Pz en fonction de N, S, 21, 42, e1, et e2. En déduire que ]empilement est équivalent à un matériau   homogène de surface S dont on exprimera la conductivité thermique équivalente ^e en fonction des données du problème. 1.c) Vérifier la pertinence de ]expression de ^ dans le cas particulier où 11 = 12- 2) Le milieu feuilleté (Figure 3) est considéré comme étant un matériau homogène de conductivité thermique 1, de masse volumique P et de capacité  thermique massique Cm: Les grandeurs 1, P et Cm sont des constantes. Le milieu est initialement porté à la température ambiante Ta: On porte brusquement à t = 0, la température des deux thermostats à To > Ta (Figure 3). To est maintenue constante durant toute la durée de [expérience On prend maintenant en compte; en plus du transfert thermique par conduction; les transferts thermiques entre les plaques et 'air ambiant à la température Ta par les quatre faces latérales (transfert de type conducto-convectif). Un élément de surface latérale dZ à la température T émet vers ]'extérieur à la température Ta une puissance thermique d@ = h (T Ta) dZ ; où h, supposé constant; est appelé coefficient de transfert conducto-convectif 2.a) Les plaques sont au fait des rectangles de côtés a et 2 En faisant un bilan énergétique sur une tranche comprise entre y et y + dy; déterminer l'équation   différentielle que vérifie la température Tly,t) en un point du matériau. 2.b) On se propose de chercher une solution stationnaire de l'équation établie en 2.a) Déterminer la température T(y) en un point du matériau.
+fin d l' {nuuve
+Concours en Mathématiques et Physique
+Session Juin 2007
+Epreuve de Physique
+Page 7/ 7

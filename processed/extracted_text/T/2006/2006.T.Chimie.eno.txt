@@ -1,34 +1,32 @@
 --- page 1 ---
-REPUBLIQUE TUNISIENNE Ministère de PEnseignement Supérieur Concours Nationaur dEntrée aur Cycles de Formation d'Ingénicurs Session : 2006
-4i 1y Vlji wi {Jij, Jsaiks a bll} inuih ixsj>j 200633~ Concours Technologie   1 . Epreuve de Chimie Heure 8h Durée 2h Nbre de pages : 5
-Date
-Mardi 6 juin 2006
-Problème [ Partie I 4 pts
-Problème I 5 pts
-Barème/20
-Partie I : 4 pts
-Partie III : 7 pts
-Cet énoncé comporte 4 pages de texte et un document annexe à rendre avec la copie
-Les candidats sont priés de présenter leurs réponses dans lordre même de l'énoncé L'usage des calculatrices électroniques de poche non programmables est autorisé. Aucun échange n'est autorisé entre les candidats.  ' DEBUT DE LENONCE s Problème I : (15 pts)  Partie I : Diagramme unaire : (4 pts) Le diagramme détat dun élément chimique noté < A > est donné par la figure (Fig. 1) ci- dessous. Cet élément; de masse molaire MA=100 g.mol-1 possède deux variétés allotropiques solides notées Aa (variété stable à haute température) et Ap (variété stable à basse température) Leurs densités respectives sont da=12,2 et de=14,4 P(bar)
-~nrafoirs 22480 tf 20 80f 3eu 03 303 sfgx Bibloihequi
-Po=Ibar-
-G1
-(v)
-Cs
- 01
-500 10Oo 1500 2000 2500 Fig_1 : diagramme détat de A
+REPUBLIQUE TUNISIENNE Ministère de PEnseignement Supérieur Concours Nationaur dEntrée aur Cycles de Formation d'Ingenicurs Scssion 2006
+Yigisy Qwi #ei bij Jssuj ajlj inuihisj>j 2006*~
+Concours Technologie
+Epreuve de Chimie Heure 8 Durée 2h
+Date Mardi 6 iuin 2006
+Nbre de pages 5
+Problème [ Partie II 4 pts
+Problème [ 5 pts
+Barème/2o
+Partie I 4 pts
+Partie III 7 pts
+Cet énoncé comporte 4 pages de texte et un document annexe à rendre avec la copie.
+Les candidats sont priés de présenter leurs réponses dans lordre même de l'énoncé L'usage des calculatrices électroniques de poche non programmables est autorisé. Aucun échange n'est autorisé entre les candidats.
+DEBUT DE LENONCE
+Problème I : (15 pts) Partie I : Diagramme unaire (4 pts) Le diagramme détat dun élément chimique noté < A > est donné par la figure (Fig. 1) ci - dessous . Cet   élément, de masse molaire   MA=10O g.mol-' possède deux variétés allotropiques solides notées Aa (variété stable à haute température) et Ap  (variété stable à basse température)Leurs_densités_respectives_sont d =12,2 et dp=14,4 P(ar)
+~ratoirs 281 0f Sg0uf 30 9aunas 1" sfax HeQui Bieloi
+Po=lbar
+01
+500 100o 1500 2000 2500 Fig_1 : diagramme détat de A
 0 (C)
-. 
-Tournez la page S.VP
- 
+Tournez la page SVP
 Concours Technologie- Session Juin 2006
 Epreuve de Chimie
 Page 1/5
 
 --- page 2 ---
-Sous la pression standard Po =1 bar, la transition de la variété allotropique B à la variété a se fait à la température €? avec une variation denthalpie Ho B->a I-1) Reproduire le diagramme (Fig. 1) ci-dessus sur votre copie. i) Indiquer_ sur le diagramme, les noms des différentes courbes (de C1 à C4) et des différents domaines (de (I) à (IV)) ii) Qu'appelle-t-on les points T1 et 72 ? 1-2) Etablir la relation de Clapeyron relative à léquilibre Ap A 1-3) Montrer que la transition Ap A est endothermique. 14) On procède à un chauffage isobare (P = PO_1 bar) dune quantité de solide < A > de 0 à 02. a) Déterminer les températures standard de fusion @0s débullition 0 eb et de transition €8 b) Tracer et commenter lallure de la courbe danalyse thermique (0 =f (temps)) obtenue au cours de ce chauffage.
-Partie I : Diagramme binaire (4 pts) On se propose dans cette partie de tracer le diagramme solide-liquide dun système binaire A-B souS une pression P-PO_1 bar. Pour cela, on dispose des données expérimentales groupées dans le tableau suivant
-% molaire de A (%oxa 0
+Sous la pression standard Po=1 bar, la transition de la variété allotropique B à la variété a se fait à la température 08 avec une variation denthalpie Ap->H? I-1) Reproduire le diagramme (Fig. 1) ci-dessus sur votre copie. i) Indiquer sur le diagramme; les noms des différentes courbes (de C1 à C4) et des différents domaines (de (I) à (IV)). ii) Qu'appelle-t-on les points T1 et T2 ? 1-2) Etablir la relation de Clapeyron relative à léquilibre Ap 2A 1-3) Montrer que la transition Ap EA est endothermique. 14) On procède à un chauffage isobare (P PO=1 bar) dune quantité de solide < A > de 01 à 02. a) Déterminer les températures standard de fusion @0 débullition 0 fus et de transition 0P b) Tracer et commenter lallure de la courbe danalyse thermique (0= = f(temps)) obtenue au cours de ce chauffage. Partie I : Diagramme binaire (4 pts) On se propose dans cette partie de tracer le diagramme solide-liquide dun système binaire A-B sous une pression P-PO_1 bar. Pour cela, on dispose des données expérimentales groupées dans le tableau suivant
+% molaire de A (%xA)
 Température 1000
 Observations Fusion de B
 Solubilité maximale de la solution solide de A dans B Eutectique < E> Péritectique < P> Fusion de A
@@ -36,21 +34,26 @@ Solubilité maximale de la solution solide de A dans B Eutectique < E> Péritect
 500
 50 60 100
 500 1000
-89s (A) (voir partie I-4a)
-II-1) Tracer lallure du diagramme température en fonction du pourcentage molaire de B (%XB) En supposant que La miscibilité entre les liquides est totale en toute proportion. La solution solide de A dans B est notée < sdy > La courbe présentant la limite de solubilité du solide < A > dans le solide < B > est linéairement croissante en fonction de la température . La limite de solubilité du solide < A > dans le solide < Bv à 250 C est égale à %XA=20%. II-2) Indiquer sur les différents domaines de ce diagramme les phases en équilibre. I1-3) On refroidit un mélange formé de 2 mol de < B v et de 8 mol de < A > de 16009C jusqu'à 250 C a) Représenter  sur une autre copie du diagramme le chemin suivi par le point représentatif de la phase liquide au cours du refroidissement.
-Concours Technologie- Session Juin 2006
+@9s (A) (voir partie I-4a)
+II-1) Tracer Pallure du diagramme température en fonction du pourcentage molaire de B (%XB) En supposant que La miscibilité entre les liquides est totale en toute proportion. La solution solide de A dans B est notée < sdy > La courbe présentant la limite de solubilité du solide < A > dans le solide < B > est linéairement croissante en fonction de la température . La limite de solubilité du solide < A > dans le solide < Bv à 2509C est égale à %xA? =20%. II-2) Indiquer sur les différents domaines de ce diagramme les phases en équilibre. I1-3) On refroidit un mélange formé de 2 mol de < B v et de 8 mol de < A > de 16009C jusqu'à 2509C. a) Représenter sur une autre copie du diagramme le chemin suivi par le point représentatif de la phase liquide au cours du refroidissement.
+Concours Technologie - Session Juin 2006
 Epreuve de Chimie
 Page 2/5
 
 --- page 3 ---
-b) Ecrire les équations des équilibres obtenus sur les paliers invariants en précisant à chaque   fois la   température,   le nom de la transformation et   le signe de Penthalpie correspondante à chaque sens. c) Donner à la température   (500+8) C, avec € infiniment petit,  la composition (en mol) de chacune des phases.
-Partie III : Cristallographie (7 pts) Le solide (A > cité dans la (partie_I), présente deux structures   cristallographiques différentes III-1) La phase a cristallise dans un réseau cubique centré a) Représenter en perspective la maille avec son contenu. b) Indiquer sur   le même   schéma, les positions   des centres de gravité   des sites octaédriques. c) Etablir lexpression permettant le calcul du rayon de latome < A > dans la phase a noté < ra > d) Calculer sa valeur en angstrëm (A) III-2) La phase B cristallise dans un réseau cubique à faces centrées. a) Faire une projection cotée sur le plan de base a, 6) de la maille et de son contenu. b) Indiquer; sur le même schéma, les positions   des centres de gravité des  sites tétraédriques. c)  Etablir   lexpression   permettant le calcul du rayon de Fatome KA > dans   la phase B noté < rR Y d) Calculer sa valeur en angstrëm (A) II-3) Citer au moins deux différences entreles sites   interstitiels dans les empilements cubique à faces centrées et cubique centré . III-4) Le solide <B> cité_dans la_partie IL cristallise dans le réseau cubique à faces centrées. Le rayon des atomes < B > est voisin de rR a) Quelle est la nature   de la  solution   solide K sdy > citée dans_la_partie_I? Justifier . b) Proposer une fommule générale à cette solution solide c) Représenter une maille de la solution solide < sdy > la plus riche en A.
-Donnée Nombre d Avogadro : NA = 6,023.1023 mol-1
+b) Ecrire les équations des équilibres obtenus sur les paliers invariants en précisant a chaque   fois   la température,   le nom de la transformation et le signe de Penthalpie correspondante à chaque sens. c) Donner à la température   (500+8) C, avec & infiniment  petit,   la composition (en mol) de chacune des phases.
+Partie I Cristallographie (7 pts) Le   solide (A > cité dans la (partie_I), présente   deux structures   cristallographiques différentes III-1) La phase a cristallise dans un réseau cubique centré a) Représenter en perspective la maille avec son contenu. b) Indiquer sur le même schéma, les positions des centres   de gravité   des  sites octaédriques. c) Etablir lexpression permettant le calcul du rayon de latome < A > dans la phase a noté < ra d) Calculer sa valeur en angstrëm (%) III-2) La phase B cristallise dans un réseau cubique à faces centrées. a) Faire une projection cotée sur le plan de base a, 6) de la maille et de son contenu. b) Indiquer, sur le même schéma, les   positions des centres de gravité des sites tétraédriques. c)  Etablir   Yexpression   permettant   le calcul du rayon de 1atome A > dans   la phase B noté r8 D . d) Calculer sa valeur en angstrëm (%) IlI-3) Citer  au moins deux  différences entreles sites   interstitiels   dans les empilements cubique à faces centrées et cubique centré III-4) Le solide < B> cité_dans_la_partie_ IL cristallise dans le réseau cubique à faces centrées. Le rayon des atomes < B > est voisin de rB a) Quelle est   la nature de la solution solide sdy > citée_dans_la_partie_I? Justifier . b) Proposer une formule générale à cette solution solide. c) Représenter une maille de la solution solide < sdy > la plus riche en A_
+Donnée Nombre d Avogadro NA = 6,023. 1023 mol-'
  
-9
-  
-
-Tournez la page S.VP
+Tournez la page SVP
 Concours Technologie- Session Juin 2006
 Epreuve de Chimie
 Page 3/5
+
+--- page 4 ---
+Problème I : Diagramme E-pH du beryllium (Be) (5 pts) Donnécs A 298 K: Produit de solubilité de Be(OH)(sd) = Ks=10-26,25 Constante dautoprotolyse de /eau Ke=10-14 Constante déquilibre de la réaction déquation-bilan 2 Be(OH)2()  ~Be,03 2 + 2H* +H,O K? =10-27,67 Potentiels standard (normaux) redox H,O/H2e) : E8 =0 V RT x Ln(x) = 0,06x P 1ogio  (x) Le diagramme potentiel-pH du béryllium donné en document annexe (à rendre avec la copie) est relatif aux espèces suivantes Be 2+ Bez 03 2 = Be(sd) et Be(OH)(sd) La concentration globale des espèces dissoutes est Ctra =106 molL-' 1) Etablir lexpression de logio | Be2+ Jen fonction du pH dans le domaine de variation du pH pour lequel le précipité Be(OH)(sd) existe. 2) En déduire le pH de début de précipitation de Be(OH)(sd) pour une solution aqueuse contenant des ions Be?+ de concentration 106 molL dont on augmente le pH par addition dune base forte sans variation de volume 3) Pour quelle valeur du pH 1entité Bez 03   devient-elle prépondérante par rapport à Be(OH)2(sd) ? 4) En déduire les zones de prédominance et dexistence des espèces du béryllium en fonction du pH 5) Compléter et indexer le diagramme potentiel-pH du béryllium. (document annexe à rendre avec la copie) 6) a) Ecrire léquation de réduction de 1eau et déduire le potentiel Eb du couple H* /Hze) en fonction du pH, pour une pression en dihydrogène égale à 1 bar. b) Représenter la courbe Eb f(pH) sur le diagramme potentiel-pH du béryllium de la question 5). Indexer. 7) On introduit de la poudre de béryllium dans deux   solutions   aqueuses   désaérées notées S1 et S2 telles que a) La solution S1 est de pH acide (HCL, 10-' molL-'). Ecrire léquation bilan de la réaction et décrire le(s) phénomène(s) observé(s) b) La solution S2 est de pH basique (NaOH, 104 moLL-'). Ecrire léquation bilan de la réaction et décrire le(s) phénomène(s) observé(s) .
+FIN DE LENONCE
+FIN DE LEPREUVE
+Concours Technologie - Session Juin 2006
+Epreuve de Chimie
+Page 4/5

@@ -1,37 +1,542 @@
+--- page 1 ---
+' <. .. Instructions  ` : Cette épreuve comporte 16 pages dont 02 blanches.  . . Les trois problèmes sont indépendants. Tout résultat doit être écrit dans les cadres adéquats. Aucun échange entre les candidats n'est autorisé. Si Qu cours de lépreuve, un candidat repère ce qui lui semble être une erreur d'énoncé, il la signale sur sa copie et poursuit sa composition en indiquant les raisons des initiatives qu'il est amené à prendre
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 16 PAGES NUMEROTÉES 1 sur 16,2 sur 16, 16 sur 16.
+'
+1
+1 `
+   s
+ ^` Chimie organique
+Page 1 sur 16
+Concours Biologie et Géologie- Session Juin 2022
 
+--- page 2 ---
+Remarques, notations et données numériques Les trois (03) problèmes sont indépendants. Numéros atomiques Z H=1,C =6,N= 7,0 = 8 Le groupe phényle peut être noté C6Hs-, Ph- ou Déplacements chimiques en RMN 'Hde quelques_groupes Protons CH3 8 ppm Protons   CH2 8 ppm Protons CH CH3-C 0.9 CH2-C 1.3 CH-R
+6 ppm 1.5
+CH3-C-0
+1.3 CH2-C-0
+1.9
+CH-C-0
+2.0
+CH3-C=C
+1.6 CH2-C=C
+2.3
+CH-C-C
+2.6
+CH3-Ar
+2.1-2.3 CH2-Ar
+2.6-2.8
+CH-Ar
+3.0
+CH3-CO-R
+2-2.2
+CH2z-CO-R
+2.3-2.4
+CH-CO-R
+2.7
+CH3-NH2
+2.1-2.3 CH2-N
+2.4-3
+CH-N
+2.8
+CH3-0
+3.3
+CH2-0
+3.2-3.4
+CH-0
+3.7-3.9
+CH3-C-CI
+1.4-1.6 CH2-O-CO
+4.1-4.3
+CH-CI
+4.1-4.3
+CH3-C-Br
+1.6-1.9 CH2-CI
+3.6-3.7
+CH-Br
+4.2-4.4
+CH3-C-CI
+1.8-2 CHz-Br
+3.4-3.5
+CH-I
+4.3-4.4
+CH2-I
+3.2-3.3
+CH-Aromatique (Ph) 6,4-8,5
+Protons portés par un hétéroatome R-OH Ar-OH R-NH2 (R-NH-) Tables Infra-Rouge
+8 ppm
+0.7-5.5 4.5-7.1 0.6-6
+Liaison Nombre dondes en cm C_C 1600-0650 CEC 2100-2220 O-H libre 3500-3700 C-O-C (éthers,_esters " 1050-1260 C=0 amides 1630-1710 COcétones_aldéhydes 1650-1740 C=O acides carboxyliques 1660-1740 C-0 esters 1700-1750 COhalogénures dacides 1785-1815 N-H amines (primaires; 3100-3500 secondaires)
+Page 2 sur 16
+Concours Biologie et Géologie- Session Juin 2022
 
+--- page 3 ---
+Problème I (5.75 points)
+Les deux parties A et B de ce problème sont totalement indépendantes:
+A- Soient les quatre projections de Newman numérotées de Ià IV suivantes
+COOH OH
+COOH COOH
+COOH COOH
+COOH H
+HOOC
+H
+HO
+HO 2
+2
+2
+2
+HO
+H
+OH OH
+H
+OH
+HOOC
+OH
+H
+H
+IV
+En complétant les représentations de CRAM ci-dessous; cocher les cases correspondant aux propositions suivantes; puis justifier votre réponse
+a/ I et II sont énantiomères
+Vrai
+Faux
+HOzC
+HOzC
+OH
+Justification
+b/ I et IV sont diastéréoisomères
+Vrai
+Faux
+HOzC
+IV
+Page 3 sur 16
+Concours Biologie et Géologie- Session Juin 2022
 
+--- page 4 ---
+Justification
+ 
+ 
+  
+3
+c/ I et IlI sont énantiomères
+Vrai
+Faux
+c
+HOOC
+ ' 
+ 
+III
+Justification
 
+d/ III est Thréo
+Vrai D
+Faux
+Justification
+42
+1 n
+Page 4 sur 16
+Concours Biologie et Géologie- Session Juin 2022
 
+--- page 5 ---
+el Donner les projections de Fischer de I et II
+B- Par chauffage du 1-bromo-3,4-diméthylpentane A en présence de NaOH, on obtient un alcène B.
+a/ Représenter la structure plane du substrat A
+bl Représenter la structure plane du produit B obtenu.
+Page 5 sur 16
+Concours Biologie et Géologie- Session Juin 2022
 
+--- page 6 ---
+c/ Cette réaction est en compétition avec une Sv2. Elle engendre dans ce cas un produit C. Ecrire sa structure.
+Problème II (8.25 points)
+La novocaïne est un composé de synthèse; dérivé de la cocaïne, mais de moindre toxicité, que Pon utilise en injections comme anesthésique   local. Sa formule   semi-développée est   la
+suivante
+HzN_
+1' En vous aidant des tables de RMN 'H figurant sur la première page, attribuer clairement à partir du spectre de RMN H de la novocaïne représenté ci-dessous chaque signal au(x) proton(s) correspondant(s) Pour ce faire, il suffira dinscrire les déplacements chimiques dans les cases figurant à cet effet.
+Page 6 sur 16
+Concours Biologie et Géologie- Session Juin 2022
 
+--- page 7 ---
 
+1
+' <
 
+5
+4
+2
+PPM
+ s
+H(
+HzN
+HO
+Hz
+Hz
+H
+G2
+H
+HzC
+'CH;
+2" On remarque sur le spectre Infra-Rouge de la novocaïne; entre autres; une absorption sous forme de deux bandes   fines à 3360 cm-1 et 3410 cm-1 A quelle fonction chimique correspond-elle ?
+Page 7 sur 16
+Concours Biologie et Géologie- Session Juin 2022
+'CH3
 
+--- page 8 ---
+30 L'une des   synthèses   possibles de cet anesthésique est représentée   par la séquence réactionnelle suivante
+Cl2 AlCl;
+A
+B1 (para)
+B2
+HNO: H2SO4
+Mg B1 Et20 anhydre
+1) CO2 2) H,O+
+D
+SOCI2
+E
+NH
+HO
+Novocaine
+a -
+Ecrire toutes les structures chimiques de A à G.
+Page 8 sur 16
+Concours Biologie et Géologie- Session Juin 2022
 
+--- page 9 ---
+b-
+Donner le nom de D
+C-
+Proposer un autre réactif que SOClz permettant la même transformation D > E.
+d-
+Détailler  le mécanisme dobtention de D à partir de C en indiquant le type de
+mécanisme schématisé.
+Page 9 sur 16
+Concours Biologie et Géologie- Session Juin 2022
 
+--- page 10 ---
+e-
+Peut-on passer directement de D à F, en utilisant uniquement le 2-chloroéthanol ? Justifier votre réponse.
+Problème III (6 points) Lanalyse élémentaire d'une cétone chirale A de formule brute CxHyOz et de masse molaire 148 g. mol-1 a donné les résultats suivants %C = 81 %H = 8. La résonance magnétique nucléaire révèle la présence dun groupe Phényle monosubstitué.
+a/ Déterminer la formule brute de A
+ s
+Page 10 sur 16
+Concours Biologie et Géologie- Session Juin 2022
 
+--- page 11 ---
+b- A est traité par liodure déthylmagnésium dans léther anhydre pour donner le composé B Déshydraté en milieu acide; B engendre trois alcènes C1, C2 et C3.
+1) C2HsMgBr 2) H2Ol Ht
+H2SO4 H2O
+A
+B
+C1 + C2 + C;
+Sachant, dune part, que C1 est un alcène tétrasubstitué et majoritaire et que, d'autre part, C, est obtenu minoritairement; déduire les structures semi-développées de A, B, C1, C2 et C:.
 
+ <
+c- Décrire les deux tests complémentaires permettant de caractériser la fonction chimique de
+Page 11 sur 16
+Concours Biologie et Géologie- Session Juin 2022
 
+--- page 12 ---
+d- En réalité, le composé A est de configuration < R"_ Le représenter dans lespace.
+e-Représenter les stéréoisomères de B que lon notera BI(2R3R)) et B2 en précisant la configuration absolue de chaque carbone asymétrique. Quelle est la relation entre B1 et B2 ?
+f- Représenter C2 dans sa configuration géométrique E" et donner la configuration absolue de son carbone asymétrique.
+Page 12 sur 16
+Concours Biologie et Géologie- Session Juin 2022
 
+--- page 13 ---
+g- Dans cette question; on ne tiendra pas compte de laspect stéréochimique des produits.
+On considère la séquence réactionnelle suivante
+1) 03
+C2 2) H20 _ Zn
+A + D
+tBuOK
+A + D
+E (Cétol) 4 F (Aldol)
+tBuOH
+H2SO4 ~H2O
+E
+G (Majoritaire)
+Identifier les composés D, E, F et G.
+Page 13 sur 16
+Concours Biologie et Géologie- Session Juin 2022
 
+--- page 14 ---
+ `
+"
 
+ (  `
+FIN DE LEPREUVE
+Page 14 sur 16
+Concours Biologie et Géologie- Session Juin 2022
 
+--- page 15 ---
+CONSIGNES Cette épreuve comporte 10 pages + 2 pages vides: Tout résultat doit être écrit dans les cadres adéquats. L'usage des calculatrices électroniques de poche non programmables est autorisé. Aucun échange entre les candidats n 'est autorisé Tout calcul doit être précédé dune expression littérale. Les résultats numériques sans unité ou avec une unité fausse ne seront pas comptabilisés. En cas de besoin utiliser la page vide en fin de cahier. Dans ce cas, il faut le signaler dans la case allouée à la réponse remise en fin de cahier. Ne joindre aucun brouillon: Si au cours de Fépreuve, un candidat repère ce qui lui semble être une erreur dénoncé il la signale sur sa copie et poursuit sa composition en indiquant   les raisons des initiatives qu'il est amené à prendre.
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 12 PAGES NUMEROTÉES 1 sur 12, 2 sur 12, 12 sur 12.
+Concours Biologie et Géologie Chimie inorganique
+Session Juin 2022 Page 1 sur 12
 
+--- page 16 ---
+Épreuve de chimie section BG
+Notations et données numériques États des constituants physicochimiques { (sd) solide (liq) liquide (g) gazeux Lorsque aucune mention n'est spécifiée; les ions sont supposés implicitement en solution aqueuse. Les gaz sont considérés comme parfaits. Notations { Lexposant signifie corps pur. Lexposant signifie standard. Xi la fraction molaire de < i > dans la phase liquide. Vi la fraction molaire de < i > en phase vapeur. P pression de vapeur saturante de i > . U; potentiel chimique du constituant < i > dans la phase < ESH électrode standard à hydrogène . HY acide éthylènediamine tétra-acétique. Constantes physiques : Constante des gaz parfaits R = 8,314 J. mol1 K-1 Constante de Faraday F = 96485 C.motl Pression standard : p =lbar . Concentration standard ce =1 molL-' Données numériques 5 1 À 298 K et sous la pression standard : Mg(sd) F2(g) MgF2(sd) 1 A,H (kJ_ mol-1 0 -1124,2 s (JK-' mol-' 32,7 202,8 57,2 C" (JK '_ mol-' 24,9 31,3 61,6 Mg(g)=Mg' (g)+le :E (Mg) = 737 kJ_ mol-' Mg* (g) =Mg? (g)+le :E.z (Mg)=1446kJ_ mol-' Mg(sd) = Mg(g) :4 sub H (Mg)=150 kJ . mol-' K;(MgCOs, sd) = 6,8x10-6 K;(CaCO3; sd) = 4,5x10-9 pK4 (H COs(aq) HCOs(aq)- ) =6,37 pK az (HCOs(aq) /COgaq) ) =10,32 Energie réticulaire de MgF2 : 4 H (MgF 2 ? sd) = 2962 kJ mol-' Enthalpie de dissociation de F2 : A H dis (F,g)=159 kJ.mol- ' 298 K et à pH = 0 Es (Mg 2+ /Mg.a) ) =-2,372v ESH E? (Cu?* /Cu,/) ) = 0,337V / ESH À 298K, la constante de Nernst (RxT/F)xLn(10) = 0,059 V
+Page 2 sur 12
 
+--- page 17 ---
+Épreuve de chimie section BG
+Problème : thermodynamique 1) On considère la réaction d'équation suivante Mg '(sd) +Fue) = MgF(d) 1-a) Donner ]expression puis calculer 1enthalpie libre standard A,G (298K ) de cette réaction:.
+1-b) Établir lexpression de lentropie standard A,S (T) de cette même réaction en fonction de la température T dans le domaine [298K, T] dans lequel Mg et MgF2 sont solides et les capacités calorifiques molaires C (Mg,sd)et € (MgF sd demeurent constantes
+1 1
+2) Calculer ]attachement électronique du fluor correspondant à la transformation F +le =F (g)
+Page 3 sur 12
 
+--- page 18 ---
+Épreuve de chimie section BG
+Problème : Diagramme de phase solide-liquide On donne le diagramme binaire solide-liquide du système NiO-MgO sous la pression de 1 bar. 3200 3200 p =1 bar 3100 3100 3073 3000 3000
+2900
+2900
+2800 0 2700 2600 | 2500 2400
+2800
+2700
+2600
+2500
+2400
+2300
+2300 2233 2200
+2200
+1 1
+2100
+2100
+2000
+2000
+0,1
+0,2
+0,3
+0,4 0,5 0,6 fraction molaire
+0,7
+0,8
+0,9
+Nio
+MgO
+1) Indiquer sur le diagramme ci-dessus;_la nature des_phases présentes dans tous_les domaines:
+2 Nommer les deux courbes (C1)et (C2) Courbe C1 :
+Courbe C2 : 3 Donner la valeur de température de fusion standard de_chacun des oxydes NiOet MgO
+4) Si on considère que les différents mélanges binaires NiO-MgO en phase liquide sont des mélanges idéaux et on note Jiq XMgO la fraction molaire de loxyde de magnésium en phase liquide; donner lexpression du potentiel chimique Jiq de MgO en phase liquide dans la solution en fonction de Jiq T et Jiq UMgo XMgO' HMgo
+Page 4 sur 12
 
+--- page 19 ---
+Épreuve de chimie section BG
+5) Un mélange liquide de MgO et de NiO commence à se solidifier à 2760 K. Déduire du diagramme 5-a) La composition du mélange et celle des premiers cristaux qui apparaissent:
+5-b) La température de solidification finissante et la composition des dernières gouttes du liquide qui disparaissent
+6) On refroidit 5 moles dun mélange liquide contenant 56% molaire de MgO de 2900 K jusqu à 2400 K 6-a) Donner 1allure de la courbe d'analyse thermique de refroidissement:.  Préciser les températures des accidents thermiques:
+1 1 6-b) Déterminer la nature et les quantités de matière des phases présentes à 2600 K
+6-c) Déduire les quantités de matière de MgO présentes respectivement dans la phase solide et dans la phase liquide
+Page 5 sur 12
 
+--- page 20 ---
+Épreuve de chimie section BG
+Problème : équilibres chimiques ICompléter le_tableau suivant Équation bilan de la réaction
+Constante &équilibre associée Vc VD ([CVce x([D]lce K = VB ([A]/ce) x([B] ce)' [u* ] HO Ke = X Ce Ce
+Type de réaction
+VAAa) +v,B (aq ) =vC (aq) +vD (aq)
+Réaction chimique quelconque
+H,0 = Haq) + HO{aq)
+H4Y(aq =H+ '(aq) + H; Y(aq)
+H4Y = 4H + Y4 _ (aq) (aq) (aq)
+Acido-basique
+2+ Mg(aq) + 2HO aq) =Mg(OH) 2(sd)
+2+ 2+ Mg(aq) + 6H,Oqiq) Mg(H,O)_ I(aq )
+1 2) Le carbonate de magnésium MgCO;(sd) (connu sous le nom de magnésite) ainsi que le carbonate de calcium CaCO3(sd)   (connu sous  le nom de calcite) sont deux composés minéraux représentant la source la plus 1 importante de Fobtention respectivement du magnésium ainsi que du calcium. 2-a) Écrire lexpression du produit de solubilité de la magnésite dans /eau pure en négligeant le caractère acido-basique de lion CO;
+2-b) Déterminer la valeur de la solubilité molaire de_ MgCO3(sa dans leau pure à 25 C
+Page 6 sur 12
 
+--- page 21 ---
+Épreuve de chinie section BG
+3) On considère; à 25 C, un litre d'une solution aqueuse contenant initialement du chlorure de magnésium MgClz à la concentration 10-3 mol.L-1 et du chlorure de calcium CaClz à la concentration 10-3 moLL-1 . On y ajoute une faible quantité d'une solution contenant des ions carbonate à la concentration 10-3 molL-1 . On suppose que le volume de la solution reste inchangé. Indiquer s'il yaura dépôt de précipité(s) Si oui lequel (lesquels 2
+Sous /effet du pH de la solution; la solubilité de la magnésite peut varier. En effet ion carbonate CO;? est une entité à caractère basique issue du diacide faible HzCO; (acide carbonique) 4-a) Déterminer la solubilité (en moLL-l)de la magnésite MgCO; dans une solution à pH = 6.
+1 1
+Page 7 sur 12
 
+--- page 22 ---
+Épreuve de chinie section BG
+4-b) Commenter le résultat obtenu.
+5) En milieu aqueux; le magnésium peut former le complexe [Mg(H2O)6]?  5-a) Donner le nom systématique de ce_complexe
+1 5-b) Ce complexe présente, entre autres; certaines propriétés acido-basiques. En effet, il peut être 1 considéré comme un monoacide faible Écrire la réaction dionisation de ce complexe en solution aqueuse.
+5-c) Donner le nom systématique_de sa base conjuguée:
+5-d) Écrire 1expression de la constante d 'acidité du couple acide-base formé.
+Page 8 sur 12
 
+--- page 23 ---
+Épreuve de chimie section BG
+Problème pile Soit la cellule électrochimique schématisée par la chaine suivante Mg(sd) Mg?+(aq, 0,01 mol.L-') % Cu2+(aq, 0,02 mol.L:') Cu(sd) 1) Schématiser avec toutes les indications  utiles, la cellule électrochimique permettant de déterminer le potentiel de_ cette cellule (la force électromotrice)
+2Écrire pour_chacun des_deux_demi-cellules;_les _équations_des_demi-réactions_ qui ont tendance à se produire:
+1 1 3) Écrire ]équation-bilan (1) de la réaction d'oxydoréduction qui a tendance à se dérouler si la pile débite du courant.
+Donner 1expression puis calculer 4-a) la force électromotrice de cette pile.
+Page 9 sur 12
 
+--- page 24 ---
+Épreuve de chimie section BG
+4-b) Lenthalpie libre associé à la réaction de cette cellule. Conclure
+5) Que peut-on dire des concentrations des ions Cu?+, Mg?+ et de la force électromotrice lorsque la pile débite du courant ?
+Calculer les concentrations atteintes par Mg 2+ et Cu 2+ lorsque la cellule ne débite plus de courant électrique:
+1 1
+Déduire la valeur atteint par les_potentiels de chacune des électrodes:
+Fin de Fépreuve
+Page 10 sur 12
 
+--- page 25 ---
+Épreuve de chimie section BG
+Page vide
+1 1
+Page 11 sur 12
 
+--- page 26 ---
+Épreuve de chimie section BG
+Page vide
+1 1
+Page 12 sur 12
 
+--- page 27 ---
+CONSIGNES Cette épreuve comporte 10 pages + 2 pages vides: Tout résultat doit être écrit dans les cadres adéquats. L'usage des calculatrices électroniques de poche non programmables est autorisé. Aucun échange entre les candidats n 'est autorisé Tout calcul doit être précédé dune expression littérale. Les résultats numériques sans unité ou avec une unité fausse ne seront pas comptabilisés. En cas de besoin utiliser la page vide en fin de cahier. Dans ce cas, il faut le signaler dans la case allouée à la réponse remise en fin de cahier. Ne joindre aucun brouillon: Si au cours de Fépreuve, un candidat repère ce qui lui semble être une erreur dénoncé il la signale sur sa copie et poursuit sa composition en indiquant   les raisons des initiatives qu'il est amené à prendre.
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 12 PAGES NUMEROTÉES 1 sur 12, 2 sur 12, 12 sur 12.
+Concours Biologie et Géologie Chimie inorganique
+Session Juin 2022 Page 1 sur 12
 
+--- page 28 ---
+Épreuve de chimie section BG
+Notations et données numériques États des constituants physicochimiques { (sd) solide (liq) liquide (g) gazeux Lorsque aucune mention n'est spécifiée; les ions sont supposés implicitement en solution aqueuse. Les gaz sont considérés comme parfaits. Notations { Lexposant signifie corps pur. Lexposant signifie standard. Xi la fraction molaire de < i > dans la phase liquide. Vi la fraction molaire de < i > en phase vapeur. P pression de vapeur saturante de i > . U; potentiel chimique du constituant < i > dans la phase < ESH électrode standard à hydrogène . HY acide éthylènediamine tétra-acétique. Constantes physiques : Constante des gaz parfaits R = 8,314 J. mol1 K-1 Constante de Faraday F = 96485 C.motl Pression standard : p =lbar . Concentration standard ce =1 molL-' Données numériques 5 1 À 298 K et sous la pression standard : Mg(sd) F2(g) MgF2(sd) 1 A,H (kJ_ mol-1 0 -1124,2 s (JK-' mol-' 32,7 202,8 57,2 C" (JK '_ mol-' 24,9 31,3 61,6 Mg(g)=Mg' (g)+le :E (Mg) = 737 kJ_ mol-' Mg* (g) =Mg? (g)+le :E.z (Mg)=1446kJ_ mol-' Mg(sd) = Mg(g) :4 sub H (Mg)=150 kJ . mol-' K;(MgCOs, sd) = 6,8x10-6 K;(CaCO3; sd) = 4,5x10-9 pK4 (H COs(aq) HCOs(aq)- ) =6,37 pK az (HCOs(aq) /COgaq) ) =10,32 Energie réticulaire de MgF2 : 4 H (MgF 2 ? sd) = 2962 kJ mol-' Enthalpie de dissociation de F2 : A H dis (F,g)=159 kJ.mol- ' À 298 K et à pH = 0 Es (Mg 2+ /Mg.a) ) =-2,372v ESH E? (Cu?* /Cu,/) ) = 0,337V / ESH À 298K, la constante de Nernst (RxT/F)xLn(10) = 0,059 V
+Page 2 sur 12
 
+--- page 29 ---
+Épreuve de chimie section BG
+Problème : thermodynamique 1) On considère la réaction déquation suivante Mg() + Fz(e) = MgFz(sd) 1-a) Donner lexpression puis calculer / enthalpie libre standard AG (298K ) de cette réaction. 4,G8 =AH ~TxAs' A H =A H (MgF 2 ? sd) - A H (Mg, sd) - A H (F,,g) A,S = s (MgF 2 ? sd) - S (Mg,sd) - S (F,g) Application numérique AH = 41124,2-0 -x0 = -1124,2 kJ mol-' AS = 57,2-32,7 -202,8 = -178,3J K-' mol-' On en déduit; A,G =-1124,2-298x (-178,3x10-3 7 = -1071,07 kJ mol-1
+1-b) Établir 1expression de entropie standard 4,S (T ) de cette même réaction en fonction de la température T dans le domaine [298K, T] dans lequel Mg et MgFz sont solides et les capacités calorifiques molaires (Mg,sd)et € (MgF sd) demeurent constantes  A,Cp = € (MgF 2 ? sd) € (Mg, sd) -€ (F,,g) Application numérique A,C = 61,6-24,9-31,3 = 5,4 JK-' mol-' 1 4,S* (T) = A,s (298K) + AC; xdL 298K T dT T 1 4S * (T) = -178,3+ 5,4x =-178,3+5,4x Ln 298K T 298 4,s * (T) =-~209,06+5,4xLn(T) 2) Calculer /attachement électronique du fluor correspondant à la transformation F +le = F (g)
+Mg sd
+Fz (g
+A,H   (MgF_,sd) [MgFz sd
+H suo Mg,sd)
+AàsH (Fzg)
+Mg g
+[2F g
+E, (Mg,g)+ E,2 ( Mg,g
+2x Aa (F,g)
+~AreH (MgFz, sd)
+[Mg 21 (g [2F- (g
+Le principe de état initial et de létat final permet d écrire A,H (MgF,,sd) = A sub H (Mg,sd)+E. (Mg,g)+E z (Mg,g)+^ H' (F,g)+2x4 H (F,g)-AH (MgF sd 4 H (F,8)=1 x| 4 H (MgF ,sd) - 4 sub H (Mg,sd)- E (Mg,g )-E.2 (Mg,g) = ^ ds H* (F,g)+A H ret (MgF 2 > sd 2 Application numérique 4 H (F,g)=1 [~1124,2-150-737-1446-159+ 2962]=-327,1kJ mol-' 2
+Page 3 sur 12
 
+--- page 30 ---
+Épreuve de chimie section BG
+Problème : Diagramme de phase solide-liquide On donne le diagramme binaire solide-liquide du système NiO-MgO sous la pression de 1 bar. 3200 3200 p = 1 bar 3100 3100 3073 3000 Liquide 3000
+2900
+2900
+2800 0 2700 2600 | 2500 2400
+2800
+liquide et solide
+2700
+2600
+2500
+2400
+2300
+2300 2233 2200
+2200
+1 1
+2100
+solide
+2100
+2000
+2000
+0,1
+0,2
+0,3
+0,4 0,5 0,6 fraction molaire
+0,7
+0,8
+0,9
+Nio
+MgO
+1) Indiquer sur le diagramme ci-dessus;_la nature des_phases présentes dans tous_les domaines: Voir diagramme 2 Nommer les deux courbes (C1)et (C2) Courbe C1 liquidus Courbe C2 solidus
+3 Donner la valeur de température de fusion standard de_chacun des oxydes NiOet MgO Te fes (NiO,sd = 3073 K Tfe (MgO,sd) = 2233 K
+Si on considère que les différents mélanges binaires NiO-MgO en phase liquide sont des mélanges idéaux et on note Jiq XMgO la fraction molaire de loxyde de magnésium en phase liquide; donner lexpression du potentiel chimique Jiq de MgO en phase liquide dans la solution en fonction de Jiq T et Jiq UMgo XMgO UMgo Jiq = #Jiq (T)+Vmg Jiq HMgo HMgo m ,MgO *(p-pe)+RxT xLn XMgO Jiq = #Jiq (T,p)+RxT xLn(xugo_ Jiq UMgo UMgo
+Page 4 sur 12
 
+--- page 31 ---
+Épreuve de chimie section BG
+5) Un mélange liquide de MgO et de NiO commence à se solidifier à 2760 K. Déduire du diagramme 5-a) La composition du mélange et celle des premiers cristaux qui apparaissent: La composition du mélange Jiq XMgO = 0,5 La composition des premiers cristaux sd XMgO =0,3 5-b) La température de solidification finissante et la composition des dernières gouttes du liquide qui disparaissent. La température de solidification finissante 2600 K La composition des dernières gouttes du liquide Jiq XMgO =0,7
+6) On refroidit 5 moles d'un mélange liquide contenant 56% molaire de MgO de 2900 K jusqu' à 2400 K. 6-a) Donner 1allure de la courbe d analyse thermique de refroidissement. Préciser les températures des accidents thermiques: T(K)
+XMgo = 0,56
+2720
+1 2540 1 temps 6-b) Déterminer la nature et les quantités de matière des phases présentes à 2600 K À 26OOK, les phases présentes sont liquide et solide. n =3,5 mol Dans ce domaine biphasique; nous appliquons la n Jiq = 1,5 mol règle des segments inverses n sq 0,7 -0,56 = = 2,33 " liq 0,56-0,5 sd n +n Jiq =5 mol 6-c) Déduire les quantités de matière de MgO présentes respectivement dans la phase solide et dans la phase liquide La quantité de matière de MgO dans la phase solide sd sd HlMgo _ XMgO 2 =0,7 = n sd sd =0,7xn sa HMgo =0,7x3,5 = 2,45 mol La quantité de matière de MgO dans la phase liquide : liq Jiq HiMgO _ XMgO = =0,5 = n liq Jiq 2 0,5xn Jiq HMgo =0,5x1,5 =0,75 mol
+Page 5 sur 12
 
+--- page 32 ---
+Épreuve de chimie section BG
+Problème : équilibres chimiques ICompléter le_tableau suivant Équation bilan de la réaction
+Constante &équilibre associée Vc VD ([CVce x([D]lce K = VB ([A]/ce) x([B] ce)' Tu+ ] HO Ke = X Ce 0
+Type de réaction
+VAAa) +v,B (aq ) =vC (aq) +vD (aq)
+Réaction chimique quelconque
+Autoprotolyse de l'eau Dissociation de "eau
+H,0 = Haq) + HO{aq)
+Acido-- basique
+H; Y- 7x [H* H4Y(aq =H+ '(aq) + H; Y(aq) Ka = Échange d'un seul proton: [HAY]x €e Acido-basique [xs-] [H]' H4Y (aq) = 4H (aq) + Y4 _ (aq) K= Échange de quatre protons [H,Y]x(ce)' (ce 2 + Mg(aq) + 2HO aq) =Mg(OH)2(d) Précipitation K = = K [Mg 2+ ][Ho ] 2+ Réaction globale d'association [Mg(H,o)] 2+ Mg(aq) +6H2 Ouiq) [Mg(H,0)_ 1 I(aq ) dun complexe B6 Mg 2+ 2) Le carbonate de magnésium MgCO;(sd) (connu sous le nom de magnésite) ainsi que le carbonate de calcium 1 CaCO3(sd)   (connu sous  le nom de calcite) sont deux composés minéraux représentant la source la plus importante de 1obtention respectivement du magnésium ainsi que du calcium: 2-a) Écrire Fexpression du produit de solubilité de la magnésite dans 1eau pure en négligeant le caractère_ acido-basique de lion CO3 MgCO 2+ 3(sd) Mg(aq) 4 Co2 - 3(aq) À léquilibre, [Mg? ] x[co; ] Le produit de solubilité s écrit : Ks = leq eq (c
+2-b) Déterminer la valeur de la solubilité molaire de_MgCOB(sd)_dans 1eau pure à 25 C = 2+ MgCO Mg(aq) + CO2 - 3(sd) '3(aq) excès s Bilan de matière [[Mg?+ =s leq I[co; =s eq
+K = S =Ce xvK; (cs  Application numérique s =Ix v6,8x10-' =0,0026 molL-'
+Page 6 sur 12
 
+--- page 33 ---
+Épreuve de chinie section BG
+3) On considère; à 25 C, un litre d'une solution aqueuse contenant initialement du chlorure de magnésium MgClz à la concentration 10-3 mol.L-1 et du chlorure de calcium CaClz à la concentration 10-3 moLL-1 . On y ajoute une faible quantité d'une solution contenant des ions carbonate à la concentration 10-3 molL-1 . On suppose que le volume de la solution reste inchangé. Indiquer s'ilyaura dépôt de_précipité(s) Si oui lequel (lesquels 2 M2+ ]lcol Q = = 10-6 avec M2+ Mg?+ ou Ca?+
+Pour MgCO; Q < Ks = 6,8 x 10-6 pas de précipitation Pour CaCO; : Q > Ks = 4,5 X 10-9 précipitation Il y aura précipitation de CaCO3(sd)
+Sous /effet du pH de la solution; la solubilité de la magnésite peut varier. En effet 1ion carbonate CO;" est une entité à caractère basique issue du diacide faible HzCO; (acide carbonique) 4-a) Déterminer la solubilité (en molL-l) de_la magnésite MgCO; dans une solution à pH = 6 Soit < s' la nouvelle solubilité de la magnésite MgCO;(d) = Mgaq) + CO3(a9) 2+ excès s S [Mg? ] x[co; À léquilibre K = eq leq = (s')?
+Bilan de la matière [Mg?+ =s leq I[co; =s = [co; ] + [nco;] + [Hzco] (2) total leq leq Jeq Pour pH = 6, Pespèce prédominante est HzCO; : [Mg?+ =s leq S ~ [Hzcos] (2) leq Hco;] leq * [H,0* ] [co; 2 leq 1 x[H,0* ] K. x K eq eq 92 H,CO; ] xCe HCO; 1 xCe leq eq
+1 1
+[c; ] xFH,o*] K, xK eq eq a1 a2 H,CO, ] *(ce)' leq
+K x K x(ce XS [co; ] a2 Jeq [I,0* ] Ieq
+De léquation (2)
+[Mg?+ K = eq *[co; ] = Ieq (c') (s')? xK x Kaz Ks = [H,0*J eq
+Ka * Ka a2 * (es S XS 2 X Ho* ] leq
+Page 7 sur 12
+
+--- page 34 ---
+Épreuve de chinie section BG
+Il vient alors, 'K,x[H,0*] leq K x10-2pH S = K. xKaz 1 Ka xKaz Application numérique 10-12 s = 476,8x10-6 X 2 0,577 molL-' 10 ~6,37 x10-10,32
+4-b) Commenter le résultat obtenu. Sel ionique ayant un anion à caractère basique, sa solubilité augmente lorsque le pH devient de plus en plus acide.
+5) En milieu aqueux; le magnésium peut former le complexe [Mg(H2O)6]? ~ 5-a) Donner le nom systématique de ce_complexe Ion hexaaquamagnésium (II) 1 Ou bien Ion hexaaquamagnésium (2+) 1 5-b) Ce complexe présente, entre autres; certaines propriétés  acido-basiques. En effet, il peut être considéré comme un monoacide faible Écrire la réaction dionisation de ce complexe en solution aqueuse: 2+ [Mg(H,0) _ I(aq) +H,0 =[Mg(OH)(H,0) Jaq +H,Orq)
+5-c) Donner le nom systématique de sa base conjuguée. Ion pentaaquahydroxomagnésium (II)
+Ou bien Ion pentaaquahydroxomagnésium (+)
+5-d) Écrire 1expression de la constante d acidité du couple acide-base formé A léquilibre, Mg (OI)(1,0)] la *[n,o ] Jeq eq K = [Mg(H,0)]  xCe Jeq
+Page 8 sur 12
+
+--- page 35 ---
+Épreuve de chimie section BG
+Problème : pile Soit la cellule électrochimique schématisée par la chaine suivante Mg(sd) Mg 2+(aq, 0,01 mol.L-') " Cu2+(aq, 0,02 mol.L:') Cu(sd) 1) Schématiser avec toutes les indications utiles, la cellule électrochimique permettant de déterminer le potentiel de_cette_cellule (la force électromotrice) Grande résislauce
+Tollmeire
+Cuiii
+ponl salin
+[Me?+] =0,01 moll'
+[u"+ =1.02 niolI'
+Le voltmètre à haute résistance empêche tout flux d'électrons important; et le potentiel de la cellule en circuit ouvert est mesuré . 2)Écrire pour_chacun des_deux demi-cellules;_les équations des demi-réactions qui ont tendance à seproduire. Pour la demi-cellule à droite; c'est la réduction qui a tendance à se produire. 1 Cu?+ + 2e Cu réduction (D Pour la demi-cellule à gauche, c'est loxydation qui a tendance à se produire. Mg =Mg 2+ + 2e oxydation (G) 1 3) Écrire équation-bilan (1) de la réaction doxydoréduction qui a tendance à se dérouler si la pile débite du courant. Mg + Cu 2+ =Mg 2+ +Cu (1) Donner 1expression puis calculer 4-a) la force électromotrice de cette pile. Potentiel de la cellule : E = E(Cu?/cu)- E(Mg? /Mg) 2+ Potentiel délectrode à gauche : Potentiel délectrode à droite : Mg 2+ 4 2e =Mg Cu 2+ 4 2e = Cu Ha(g) =2H + 2e H2(g) = 2H 4 2e Mg 2+ + =Mg- + 2H Cu2+ + H2(g) Hz(g) =Cu+ 2H 2+ 2+ 0,06 2+ E (Cu?|cu)= Ee E(Mg' IMg =E9 [Mg (Cu?+/cu)+0,03xlog ([Cu?+ ]) (Mg' )+ X log1o ([Mg?+] 0,337+ 0,03x 1og1o (2x10-2) = 0,277v ESH =-2,372+0,03x 1ogio (10-2 )=-2,432v_ ESH
+Application numérique
+E=0,277+ 2,432 = 2, 709V
+Page 9 sur 12
+
+--- page 36 ---
+Épreuve de chinie section BG
+4-b) Lenthalpie libre associé à la réaction de cette cellule. Conclure Mg +Cu?+ = Mg 2+ +Cu AG =-nxF xE =-2x96485x 2,709 =-5,23x105 J.mol-1 < 0 La réaction (1) est possible spontanément dans le sens direct.
+5) Que peut-on dire des concentrations des ions Cu?+, Mg?* et de la force électromotrice lorsque la pile débite du courant ? 2+ 4 2+ La réaction déquation bilan (1) se produit spontanément. Mg +Cu Mg +Cu La concentration en [Mg?+] augmente. La concentration en [Cu?+] diminue. La force électromotrice E diminue . La cellule se décharge avec le temps jusqu'à ce que léquilibre soit finalement atteint. Calculer les concentrations atteintes par Mg?+ et Cu?+ lorsque la cellule ne débite plus de courant électrique. La cellule ne peut plus débiter de courant électrique lorsque son contenu a atteint 1équilibre dynamique alors Q=K? (E-0) Mg +Cu 2+ =Mg 2+ +Cu EI. 0,02 0,01 EF. 0,02-c 0,01+c [Mg 2+ leo (0,01+c) À /équilibre, KT = = [Cu ,2+ (0,02_ c) leq En plus, nxF x(Ee (Cu?* /Cu)- Es (Mg?+ /Mg 2+ 9 4G0 nxFxEe KT = Expl = Expl 4 = Exp' 4 RxT RxT RxT
+1 1 Application numérique 0 2x96485x (0,337+2,372 522,76x103 KI 2 Exp = Expl 2 4,31 x1091 8,314x 298 2477,572 (0,01+c) KT = = 4,31x1091 (0,02_c) La valeur de la constate déquilibre est grand il ne restera presque plus de Cu?+ Effectuant le calcul approché en supposant [Cu?+] ~0 [Cu?+J = 0,02-c ~0 = c=0,02 molL-1 eq [Mg 2+ = 0,01+c ~ 0,03 molL-' leq [Mg 2+ eg 0,03 [Cu?+ ] = = 6,97x10 ~94 molL-1 leq Ke 4,31x1091 7) Déduire la_valeur atteint_par les_potentiels_de_chacune_des_électrodes; À léquilibre AG =-2xF xE = 0 E= E(Cu? /cu)- E(Mg? /Mg) =0 E(Cu?* /cu) = E(Mg 2+ /Mg) E(Mg? /Mg) =-2,372+0,03 x log1o (3x10-2)=-2,42v eq E (Cu?* /cu 2+ 2 0,337+0,03x (6,97x10 -94 log1o )=-2,42v eq Fin de Pépreuve Page 10 sur 12
+
+--- page 37 ---
+Épreuve de chimie section BG
+Page vide
+Question 6) 2ème méthode Àléquilibre 0,059 0,059 E (Cu*/cu)+ X log1o ([cu J,) = Ee (Mg? /Mg)+ X log1o ([Mg'  2 leq 2 leq [Mg 2+ Es (Cu?+ /Cu) - Es (Mg 2+ IMg eg 2,709 1og1o = = 91,= 83 [Cu 0,0295 0,0295 leq [Mg 2+ eg (0,01+c) KI = = 6,77x1091 + 4,31x 1091 [Cu ,2+ (0,02-c) leq
+La valeur de la constate déquilibre est grand il ne restera presque plus de Cu?+_ Effectuant le calcul approché en supposant [Cu?+] ~0 [Cu?+ ~ = 0,02-c ~ 0 = c =0,02 molL-1 leq [Mg? Ja = 0,01+c ~ 0,03 molL-1 [Mg 2+ 2+ eq 0,03 [cu 1 = = 4,43 x10-94 molL-' 1 leq Ke 6,77 x1091 Ee 0,059 (Cu** /cu)+ x logio 4,43x10 ~94 )=-2,42v ESH 2 1 0,059 Es (Mg? /Mg)+ xlog1o (0, 03) =  ~2,42V ESH 2
+3ème méthode
+À léquilibre 0,059 Ee 0,059 (Cu' /Cu) + X log1o ([cu'] J=E (Mg? /Mg)+ X 1og1o (0,03) 2 leq 2 0,059 Ee (Mg /Mg) - E (Cu?+ /Cu)+ X 1og1o (0,03 1og1o ([Cu?+ leq 0,059 2 0,059 ~2,372-0,337 + X log1o (0,03 1og1o ([Cu? = = ~93,35 Jeq 0,059
+[Mg 2+ = e KT [Cu?+ leq
+[cu 2+ = 10 -93,35 1 = 4,43x10-94 molL-1 leq
+0,03 = 6,77 x1091 # 4,31x1091 4,43 x10 794
+Page 11 sur 12
+
+--- page 38 ---
+Épreuve de chimie section BG
+Page vide Ee 0,059 (Cu? /Cu)+ X log1o 4,43x10 ~94 ) =-2,42v ESH 2 Ee 0,059 (Mg?+ /Mg)+ xlog1o (0,03) = ~2,42V ESH 2 tème méthode
+À léquilibre Ee (Cu?+ /Cu)+0,03x log1o ([cu* J4 ) = E? (Mg' /Mg)+0,03 2+ X log1o (0,03) eq
+Es (Mg?+ /Mg)-Es (Cu?+ /Cu)+0,03x log1o (0,03 log1o ([Cu?+ = leq 0,03
+~2,372-0,337+0,03 x log1o (0,03 1og1o ([cu*1 ) = = ~91,83 leq 0,03 [Mg 2+ 1 2+ ~91,83 ~92 leq 0,03 [cu ] = 10 =1,50x10 molL-' K? = = = 2x1090 # 4,31x 1091 leq [Cu 2+ 1,50x10-92 leq Ee (Cuw+ /Cu)+0,03x log1o (1,50 x10-92 1 )=-2,42v ESH Ee (Mg' /Mg)+0,03x log1o (0,03 =-2,42V ESH 1
+Page 12 sur 12

@@ -1,4 +1,74 @@
+--- page 1 ---
+ENSiT} GSUOTHEQWUE  4 EUdes / Saz 822,3
+REPUBLIQUE TUNISIENNE Minisikr c TErseigrenpni Supérkur & de l Rezhereh Saenlifiaue Conours Nationaux d'Entré 8ux Cycie de Formation d [npenicurs Sescion 2013
+~) 49|
+@LJæls Qaaia Jzji Sxlii Lnqal Lk LHFyi 2012 ; 
+Concours Mathématiques et Physique Epreuve de Mathematiques II Date: Samedi 8 Juiz 2013 Heure 8 H Durée: 3 heures Nb pages: 5 Barème:
+Une grande importance sera attachée à la rigueur du raisonnement , présentation à la clarté et au soin de la L'usage des calculatrices n'est pas autorisé Iest rappelé que tout résultat énoncé dans le texte peut être utilisé pour traiter la s'il n'a pu être démontré suite; méme
+Problème Dans tout le problènne, E désigne un C_espace vectoriel de dimension finie 7 € N' Fagèbre des endonorphismes ce € et f est C(E) est un élémer: de L(E) Notations et Définitions On note par: E Yespace dual de € idE l'endonorphisme identité de € fo idE et f*-1 = f 0 fk CiX? Falgèbre des polynônes & une indéterminé? et à coefficients dans € deg( P) Ie degré d'un polynâme P de C[X] Mp{C) "algèbre des matrices carrées d'ordre p ( où p € N') à coefficients dans € Jp{À) l'élénent de Mp(C) défini pa:
+Jp(X) '
+où (X p) € € x N'
+Conccurs Mathematiques &t PhysiçL? Sessiun Juin 2012
+Épreuve de Mathematiques Il
+Pzge !/ €
 
+--- page 2 ---
+As CBUOTHEQVE  Sa EUdes  2 '25a4s Pour tout " € C(E) (resp. M € Mn(C)) , on note par; spc(u) (resp. spc(lf) ) Fensemble des valeurs propres de u (resp. M) dans € Ex(u) le sous espace propre de " associé à le valeur propre X € spc(u) . Pu le polynône caractéristique de u défini par Pv(X) = detfu XidE) Un endomorphisme u` (resp. une matrice Mv) est dit nilpotent (resp. dite nilpotente) s'i] existe p € N' tel que uP 0 (resp. MP 0) L'entier T € N* tel que " = 0 (resp. M' = 0) et u"1 4 0 (resp MT =- # 0) est appelé indice de nilpotence de u (resp. 'de M)  Si 2 est un encomorphisme et  Pu son polynôme caractéristique; alors Pu(u) = 0 (Théorème de Cayley-Hamilton) Si 2 est un endomorphisme nilpotent de E, alors Pu(X) = (~X)" .
+I Polynôme minimal dun endomorphisme
+Posons
+A = {P € C[X] {0} tel que P(f) = 0} , 1 = {deg(P) tel que P € A} 1. Vérifier que 1'ensemble est non vide.
+2 Vérifier que ]ensemble I admet un plus petit élément appartenant à N' Dans la suite de cette partic; on note r = min(I)
+3. Soit Q € 4 de degré I,(X) = 1Q(X) @T
+Posons Q(X )
+(o _ û]X +
++ @rX ul {@r # 0) el
+{a} Vérifier que Il, € A et que deg(Il,) = r (b) Soit $ € A. Montrer que TIf divise 5. (c; En déduire que I, est V'unique polynômne unitaire de A de degré 7. (Ilf est appelé le pciynôme minimal de f) (d) Montrer que f est diagoralisable si et seulement si IIf est scindé à racines simples (e) Soic ^ est une valeur propre de f e; u un vecteur propre de f associé à ^ Montrer que; pour tout k € N, fk(u) = X*u ii En déduire que, pour tout P € C[X} on. a:
+P(f)(u) = P(X)u.
+(f) Scit ^ € C. Montrer que X est une valeur propre de f si et seulement si TI, (X) = 0 (g) Exemple: Dans cet exemple; on prend E = C3 et f l'élément de C(E) canoniquement associé à 0 2 21 A = =3 = 8 4 6 où 8 est un nombre complexe quelconque . =2 2 1 Déterminer Pf ii Déterminer IIf (on pourra discuter selon la valeur de 8)
+Concours Matheratiques et Physique Session Juin '2013
+Épreuve de Ma hematiques II
+Paçe 2/5
 
+--- page 3 ---
+aloere BbUOTNE Que 015 Sa Enee
+II- Décomposition de E en somme directe Dans cette partie on suppose que f est un endomorphisme nilpotent d'indice de nilpotence (0 < r < n) Soit a € E tel que fr=1 (a) % 0. 1 Montrer que II(X) = X'_ 2 Montrer que la famille (a, f(a) fr-'(a)) est libre de E. 3. Soit H un hyperplan de E ne contenant pas f"-I(a) et + € E tel que H = ker + 5=1 Posons L ker(+ 0 fk) et K = Vect (a, f (a) fr-1(a)) le sous espace vectoriel de E K=zd engendré par les vecteurs a, f (a) et ft-1 (a). (a) Montrer que +( fr-1(a)) = 0. (b) Posons Yk = 4 0 fk Calculer 'Pk (f"-k-1(a)) ; pour tout 0 < k < r _ 1 (c) En déduire que ker(+k) est un hyperplan de E. un sous espace vectoriel de E de dimension supérieure ou égale à (d) Montrer que L est n (e) Montrer que KnL = {0} (f) En déduire de ce qui précède qu E= K@E (g) Montrer que K et L sont stables par f .
+III- Réduction de Jordan
+Définition: Pour tout €-espace vectoriel V de dimension finie ! € N* et pour tout endomor- phisme 9 € LlV), un sous espace vectoriel W de V est dit g-indécomposable si et seulerent si:
+W stable par 9. Il n'existe pas de décomposition W = W1 @W? avec W1 W2 srables par 9 et W1 # {0} , W2 # {0} .
+A- Préliminaire
+Soit F un sous espace vectoriel de E stable par f On note par f V'induit Par f sur F 1. Soit G est un sous espace vectoriel de F Montzer G es: 7-indécomposabie si et seulement si G est f-iudécomposable endomorphisme nilpotent dindice de nilpotence n. Montrer que 2. On suppose que f est un E est f-indécomposable
+Concours Mathémztiques €; Physique Session Juia 2013
+Éprevve de Mathémztiques 11
+Page 3/6
 
+--- page 4 ---
+Ias , @buonerue) eures  'purass 9
+B- Étude du cas dun sous espace f-indécomposable
+Soit F un sous espace vectoriel de E de dimension finie m € N' qui est f-indécomposable. On note par f Vinduit par f sur F.
+1. On suppose que I; = A. B avec A et B sont deux polynômes de C[X] premiers entre eux Montrer que A ou B est un polynôme constant . 2 (a) Montrer qu'ils existent } € C et 0 < T < m tels que II;(X) = (X _ X)" . (b) Soit h = ] XidF Montrer que h' = 0 (c) En utilisant la questior II-3, montrer que T = m (d) En déduire l'existence de ^ € F tel que B (h"-1(a), hm-2(a), a) soit une base de F (e) Montrer que la matrice de ] dans B est égale à Jm(X) .
+C- Décomposition de E en somme directe de sous espaces f-indécomposables Dans_cette partie on suppose que_sPc( f) = {Xg M21: :9 Àq} _Pour_tout 1 < i < 9, mi désigne lordre de multiplicité de la valeur propre À; de f ( c'est à dire Pr(X) = (~1)n II(x -4;)7) On ote par F; = ker( f G=l ÀcidE)"; , f: Finduit par f sur F; et h; = f; - AjidF , pour tout 1 < i < 9 1 (a) Montrer; pour tout 1 < i < 9, que F; est stable par f.
+(") Montrer que E = (F: 1 =1
+2 Soit 1 < i < 9. (a) Montrer que h; est nilpotent_ (6) En déduire que Pf(X) = (Xi = X)dim F; (c) Montrer que dim F; 2 Tli.
+3
+(a) On suppose dans cetie question que V'indice de nilpotence de h: est égal à m1. 1 Montrer que Fi est h1-indécomposable. ii . En déduire que Fi est f-indéconnposabie (b) Dans cette question on suppose que Findice de nilpotence de h1 est inférieur strictement à m1. Montrer que Fi = Kp@ L; avec Ka f-indécomposable et L1 est un sous espace vectoriel de € stable par f
+4 Montrer par récurrence Sur Tl que E = Hi, avec H; f-indécomposable; pour Gout ie=] 1 < i < 5.
+Concours Mathématiques et Physique Session Juin 2013
+Épreuve Je Mathémnatiques II
+Page 4/5
 
+--- page 5 ---
+ms;y GUoTHe Que (ues Sn Dasuxtry
+5  En déduire ]'existence d'une base de Etelle que la matrice de f dans cette base soit diagonale par blocs de la forme
+Jœn ( 81)
+Jas (Bs)
+6. Vérifier , pour tout 1 < i < $, que B; est une valeur propre de f .
+IV- Application
+Dans cette partie; on prend € = C? M € Mn(C) et f Vendomorphisme de C" canoniquement associé à M
+1- Supposons que M et-2M-soient-semblables. (a) Montrer que si ) € spc(M) alors; pour tout p € N 2P} € spc(M) (b) En déduire que M est nilpotente. 2 Supposons que M est nilpotente (a) 'Justifer Fexistence d'uue base $ = {01, ê2, ën} de E telle que la matrice de f dars cette base est 01 0
+u2
+Un-1 0
+où v € {0,1} , pour tout 1 < i < n = 1.
+(b) Écrire la matrice de f dans la base B' = (e1, 2e2, 2"-2en-1, 2n=1 en ) 3 En déduire de ce précède que M et  2M sont   semblables   si et seulement SI M qui est nilpotente.
+Concours Mathematiques et Physique Session Juir 2013
+Épreuve de Mazhemnatiques Il
+Page 5/5

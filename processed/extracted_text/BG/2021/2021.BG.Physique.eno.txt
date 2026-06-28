@@ -1,7 +1,98 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de l'Enseignement Supérieur et de la Recherche Scientifique
+~@j)42s6ad|
+4@l#læ<ps &L~1s dusial Sibsi @| sbliji ihaliini insjal>ui 2021 éa8
+Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs Session 2021
+Concours Biologie & Géologie Epreuve de Physique
+Date Jeudi 24 Juin 2021
+Heure 8 H
+Durée 3 H
+Nb pages 8
+Barème
+Exercice 1 : 5 pts
+Exercice 2 : 3 pts
+Problème 12 pts
+L 'usage d'une calculatrice non programmable est autorisé. L'épreuve comporte deux exercices et un problème indépendants, le candidat peut les résoudre dans lordre qui lui convient en respectant néanmoins la numérotation des questions. Le candidat peut toujours se servir d'un résultat fourni par l'énoncé pour continuer sa composition Lannexe doit être obligatoirement remise avec la copie dexamen
+Exercice 1: Un réfractomètre dAbbe est un appareil servant à mesurer  des indices  optiques;   très   utilisé notamment pour la caractérisation rapide déchantillons . Il est utilisé dans Pindustrie agroalimentaire la concentration de sucre dans les jus pourrait être déduite à partir de la mesure de leurs indices de réfraction. Dans cet exercice on se propose détudier la marche dun rayon lumineux à travers ce système optique et de déterminer lindice de réfraction des échantillons. 1- Etude du prisme Soit un prisme ABC de forme triangle rectangle en A, dangle au sommet B en B et dindice de réfraction n Q qui dépend de la longueur donde 2 de la lumière de b Péclairement selon la loi de Cauchy 7 = a + avec na =1 12 a et b constantes positives  caractéristiques (figure 1). Plus lindice de réfraction dun milieu est élevé, plus le B Figure 1 milieu réfracte la lumière .
+1-1 Lois de réfractions 1-1-1 Rappeler la loi de Snell-Descartes pour le passage d'un rayon lumineux à travers un dioptre plan séparant deux milieux dindices n1 et n2, avec i langle dincidence et r langle de réfraction. 1-1-2 Si on se place dans le cas où n1 > n2, définir le phénomène de réflexion totale, et préciser à quelle condition sur i le phénomène de réflexion totale se produit.
+22
+a
+Concours Biologie et Géologie Session Juin 2021
+Epreuve de Physique
+Page 1/8
 
+--- page 2 ---
+1-1-3 Si on se place dans le cas où n1 12, déterminer en fonction de n1 ct nz Pangle limite de réfraction rI 1-2 Sur la figure 1-2 de l'annexe; si le rayon sort par la face CB sous un angle i', tracer la marche du rayon de lumière en indiquant si le rayon se rapproche ou s'éloigne de la normale. 1-3 Par des considérations de géométrie; montrer que B = a +Y, puis exprimer la déviation Dv entre le rayon incident et le rayon sortant par la BC du prisme; en fonction de i,i' et B. 1-4 On 8 'intéresse à deux radiations de la lumière blanche la radiation bleue de longueur donde Ableue = 48Onm et  une autre   rouge de longueur   donde Arouge 65Onm. Lors   du passage à travers le prismc, la radiation bleue est la plus réfractée. Justifier cette observation sans calcul à laide de la loi de Cauchy. 2- Etude du réfractomètre Il est constitué de deux prismes en verre d'indice n entre lesquels   est positionné un mince film de jus liquide dont on se propose de mesurer son indice de Liquide réfraction n1 Lunette Le prisme dentrée (1) est accolé à une lampe à vapeur de sodium et permet déclairer le liquide en incidence   rasante  (rayon(a)). Les   rayons a traversant le prisme (2) sont envoyés sur un miroir dont on peut contrôler linclinaison Après réflexion, TTT ces rayons sont alors observés par lutilisateur à T'aide dune lunette (figure 2). Figure 2 Miroir
+L'observateur règle la position du miroir de sorte à placer la limitc de séparation entre la zone claire et la zone sombre au centre du réticule dune lunette. 2-1 Indiquer pourquoi la lumière blanche semble à priori inadaptée à la mesure de lindice de réfraction de l'échantillon ? Quel phénomène peut gêner la mesure ? 2-2 Sur la figure 2-2 de lannexe; compléter la marche du rayon lumineux (a) en incidence rasante. On suppose que n > nu et au point Ion note r1 langle de réfraction à linterface liquide - verre; iz et r2 respectivement langle dincidence et langle de réfraction sur la face de sortie du prisme. Lindice de lair sera quant à Jui pris égal à 1. 2-3 Montrer l'indice n1 du liquide est lié à Fangle r2 par la relation n1 = n.sin B sin-1 '(in(rz2] Calculer la valeur numérique de n1 pour n = 1,732, 2 = 23,30 et B = 65,09 1expérience ayant été réalisée à 20  C. 24 Dans le tableau suivant; on donne la variation de lindice du liquide n1 en fonction de la concentration du sucre C en gl-1 dans la solution. Indice n1 1,3577 1,3592 1,3607 1,3621 1,3635 1,3650 1,3665 1,3680 1,3694 C en 9l-1 150 160 170 180 190 200 210 220 230
+"2?
+2-4-1 D'après le tableau la variation de lindice n, en fonction de la concentration en sucre est linéaire et elle se met sous la forme n = p.C + 9 déterminer les constantes p et q si /on sais que lindice de leau pure (concentration € = O)est ne = 1. 33. Concours Biologie et Géologie Session Juin 2021 Epreuve de Physique Page 2/8
 
+--- page 3 ---
+2-4-2 En déduire la teneur approximative en sucre de léchantillon de la question 2-3. 2-5 Sur la figure 2-5 de lannexe compléter le chemin parcouru par le rayon (b) et conclure quant au fonctionnement du réfractomètre. 3- Fonctionnement dun réfractomètre portable Pour   les   réfractomètres   portables,  la mesure se fait   par transparence; au moyen dun prisme présentant un indice de réfraction élevé, et peut être lue directement sur l'échelle graduée en degré Brix ( B) de linstrument. La lumière, au passage du dioptre entre l'échantillon et le prisme, est déviée. Le degré Brix représente le pourcentage massique de sucre de léchantillon; c'est-à-dire la masse de sucre dans 100 g = 100mL si cest leau). 3-1 Un utilisateur du réfractomètre pense que < Si l'échantillon est faiblement concentré, l'angle de réfraction est grand, car la différence d'indice de réfraction entre l'échantillon et le prisme est élevée. Si l'échantillon est très concentré, l'angle de réfraction est petit; car la différence d'indice de réfraction entre l'échantillon et le prisme est réduite. 3-1-1 Sur la figure 3-1 de lannexe; indiquer langle Eau sucrée dincidence i1 et langle de réfraction 11' Quelle   est la valeur de i1 ? 3-1-2 Calculer r1 pour la solution étudiée à 50 g/L et pour la solution à 700 g/L pour n = 1,732. prisme 3-1-3 Compte tenu du résultat obtenu dans la question 3-1-2 lutilisateur  avait-il raison? Justifier. Figure 3 3-2 Quelles seraient les valeurs en degré Brix des deux concentrations citées dans la question 3- 1-2 ? 3-3 Application Calcul du taux de sucre dans un jus Après triage des fruits; trempage; puis ou centrifugation lente; on obtient une pulpe pauvre en sucre la mesure par le réfractomètre donne généralement une valeur comprise entre 3 et 10" Brix . Pour que le jus soit suffisamment sucré, on doit lui ajouter du sucre pour atteindre selon les fruits entre 60% et 65" Brix. Cette opération valorise son goût et le protège des micro-organismes indésirables. Prenons 50 Kg de pulpe ayant un B1 = 4%, on désire atteindre une teneur avec un B2 60" il faut donc ajouter une masse ms de sucre à la pulpe 3-3-1 Calculer M81 la masse de sucre contenue dans les 50 kg de pulpe. 3-3-2 Calculer m2 la masse de sucre qu'il faudrait dans les 50 kg de pulpe. 3-3-3 Calculer la masse ms de sucre à rajouter dans le jus.
+Exercice 2 1- Entre deux points A et B dun circuit une branche est constituée dun générateur de tension en série avec une résistance R est parcouru par un courant i. On note par "#fo eà UAB la tension entre les deux points A et B. UAB io AB 1-1 Exprimer la tension UAB en fonction de i, R et e. B B 1-2 La fonction i = f (uAB) est appelée caractéristique électrique du dipôle équivalent. Figure 4 Tracer Pallure de la caractéristique [ = f(uAB), tout en précisant les points dintersection de cette courbe avec les deux axes.
+Concours Biologie et Géologie Session Juin 2021
+Epreuve de Physique
+Page 3/8
 
+--- page 4 ---
+1-3 Montrer qu' 'entre deux points A et B dun circuit, un générateur de tension e, en série avec une résistance R, peut être assimilé à un générateur de courant idéal i0 en parallèle avec cette même résistance R. Exprimer alors i0 en fonction de e et R. 2- On dispose d'un voltmètre de très grande résistance interne supposée infinie; dun générateur de tension (GBF) et des résistances réglables. La force électromotrice du générateur étant fixée en mode continu, on effectue alors entre ses deux bornes les deux mesures suivantes mesure (1) on mesure une tension U = 6 V pour une résistance de charge infinie mesure (2) On branche une résistance de charge égale à 502 aux bornes du générateur et on mesure une tension de 3 V aux bornes de cette résistance. Déduire de ces mesures la résistance interne Rg et la force électromotrice E du générateur étudié. 3- On alimente désormais par ce générateur une association R-C en série, en régime sinusoïdal de pulsation   réglable @ Quelle sera, en module; Vimpédance de charge minimale 2 En déduire à quelle condition (qualitative) on pourra considérer le générateur comme idéal. On supposera cette   condition remplie dans la suite, avec R = 4,7 ko et € = 22 nF. Figure 5 4- En labsence doscilloscope branché sur le circuit. F(jw) s 4-1 Déterminer la fonction de transfert complexe en tension ==si la grandeur de sortie est la tension s(t) aux bornes du condensateur et la tension dentrée la tension e(t) du GBF supposé idéal, quel est le filtrage ainsi réalisé? Comment définit-on la pulsation de coupure jun filtre de cette nature et donner son expression en fonction de Ret C? 4-2 Application numérique Calculer la fréquence de coupure du filtre (à un facteur 10 près) 5- On utilise un oscilloscope dont les   caractéristiques dentrée sont indiquées <1 MS,25 pFs dans la suite; s on désigne par  Ro et Co la résistance et la capacité R correspondantes . Cet appareil, branché sur le filtre précédent; correspond ainsi au circuit figure 6. Co Déterminer simplement le gain en tension à bassc fréquence; noté Ho' Figure 6 6- Exprimer ladmittance complexe Y. Quelle est la limite à basse fréquence du déphasage de la tension $ par rapport à lintensité i parcourant le dipôle équivalent d admittance Y ? 7 - 7-1 En utilisant les équivalences Norton-Thévenin; montrer que ce circuit peut être simplifié en un simple circuit R' ~ C' en série, Déterminer R en fonction de Ret Ro et C en fonction de C et C0 5 7-2 Montrer que la nouvelle fonction de transfert H = 7 peut se mettre sous la forme Ho H(jo) = 1+j 0o 8- Comparer Ho et la nouvelle fréquence de coupure aux   valeurs précédentes (question 5), et conclure quant à 1utilisation de loscilloscope pour étudier le filtre RC.
+Kue0wn?
+Concours Biologie et Géologie Session Juin 2021
+Epreuve de Physique
+Page 4/8
 
+--- page 5 ---
+Problème Etude dun pendule de torsion A- Etude mécanique On considère un pendule de torsion constitué dune tige Y horizontale (T de masse négligeable et de longueur 2l suspendu par son centre 0 par un fil de torsion vertical dont [extrémité supérieure du fil est reliée à un support fixe. Aux extrémités A et B de la tige sont fixées deux petites sphères identiques supposées ponctuelles de même m X masse La tige   peut tourner autour de Faxe Oz 2 B matérialisé par le fil de torsion. Cet axe vertical noté 4 est Figure 7 orienté vers le haut. Le mouvement du pendule est étudié dans un plan (x,0,y) 4un référentiel terrestre R(O,x,y,z) supposé galiléen; auquel on associe la base cartésienne (3,j,7). Dans ce plan on définit le repère des coordonnées polaires (r,0), de vecteurs de base (@r,T), avec Pangle 0 = (7,7r). Le vecteur position lié au point A est OA = lTr Lorsqu'on fait tourner la tige selon l'axe du fil dun angle 0 (figure 7), on "tord" le fil. Lorsqu'on lâche la tige, le fil se "détord" en exerçant sur la tige un couple de rappel M=-Ke où K est la constante de torsion du fil. On suppose qu'au repos, Y'angle de torsion est nul. Pinstant choisi comme origine des temps, le pendule est abandonné avec les conditions initiales t=0, 0=0 et 6 = ! = 0. dt A-1- Etude cinématique A-I-1 Exprimer les coordonnées cartésiennes   (x,y) du point A en fonction de ses coordonnées (l,0) A-1-2 Exprimer les vecteurs 7r et 7 en fonction des vecteurs 7 et j. A-1-3 Exprimer les vecteurs vitesse 7 et accélération @ du point A dans la base (r, u). A-2- Etude Dynamique Dans cette question on se propose de déterminer léquation horaire du mouvement du   pendule à partir du   théorème du moment cinétique. A-2-1 Le système étudié étant constitué par les deux points matériels A et B. Si lon admet que le moment cinétique du système étudié est la somme des moments cinétique de chacun des deux points; montrer alors que le moment cinétique du système par rapport au point 0 s'écrit : Zo = ml?èk. En déduire La, le moment cinétique du système par rapport à laxe de rotation 4 A-2-2 Dresser le bilan des forces qui s'exercent sur la tige. A-2-3 Énoncer le théorème du moment cinétique dans le cas d'un système en rotation par rapport à laxe 4- A-2-4 Seul le moment du couple de force de rappel est non nul, en appliquant le théorème du moment cinétique par rapport au point 0, montrer que léquation différentielle du mouvement peut 0 + K se mettre sous la forme 0 = 0 ml2 A-2-5 Donner dans ce cas la loi horaire (t) du mouvement de la barre, puis exprimer la pulsation @ caractérisant le mouvement du pendule de torsion en fonction de K, m et l
+41a : 8494
+Concours Biologie et Géologie Session Juin 2021
+Epreuve de Physique
+Page 5/8
 
+--- page 6 ---
+A-3- Etude Energétique A-3-1 Enoncer le théorème de lénergie mécanique Em: A-3-2 En   appliquant   le   théorème de lénergie   mécanique au système,   retrouver   ]équation différentielle du mouvement. A-4- Dans la suite du problème on tient compte des frottements s'exerçant sur les deux masses A et B. On les modélise par une force F = -17 n sur chacune des deux masses v étant la vitesse de 2 chacune des deux masses et 2 est une constante positive. On négligera cependant les frottements s'exerçant sur la tige A-4-1 Quelle est lorigine physique des frottements s'exerçant sur chaque masse ? A-4-2 En   appliquant  le   théorème du moment cinétique   au pendule, montrer   que l'équation différentielle du mouvement de l'ensemble {massesttige} est de la forme: d20 de +28 + 080 = dt2 dt et déduire les expressions de B et 60, déterminer leurs dimensions. A-4-3 La solution de cette équation différentielle peut se mettre sous la forme: 0(t) = Per1t + Qer2t où P et Q sont deux constantes avec r1 et r2 sont les deux solutions de léquation   caractéristique r2 + 2Br + @o 2 = 0, décrire brièvement   les   différents   régimes  du mouvement du pendule. A-4-4 A quelle(s) condition(s) sur B peut on avoir 0 (t) = e-Bt  '(C1 cos(Wt) + c2 sin(t ))? Exprimer alors les constantes €1, C2 et 0 en fonction des données. On suppose cette condition vérifiée dans la suite. Tracer la représentation graphique de 0(t ) en fonction du temps, les courbes enveloppes et la tangente à lorigine de lenveloppe. A-4-5 On 8 = ln 0(t) appelle décrément   logarithmique 8 la quantité ou T = 21 est  la 0(t+nT) (u pseudo-période. Exprimer & en fonction de T, n et B. A-5- Le pendule de torsion oscille de 2 pseudo-périodes pendant 12s. L'amplitude des oscillations est réduite d'un facteur 3 au bout de 10 oscillations . On   prendra pour cette   question ml 2 = 2, 6. 10-5 kg. me2 et l = 20 cm. Calculer numériquement à partir de ces valeurs   la pseudo-période T, le décrément logarithmique, la = 1 constante de temps r ~; la pseudo-pulsation w et la pulsation propre € et la constante de torsion du fil K. B- Etude Thermodynamique On reprend le pendule de torsion figure 7 et on suppose que le fil F est caractérisé par sa capacité calorifique C, supposée constante; et par sa < constante > de torsion K(T) qui ne dépend que de la température T. Lors d'une rotation élémentaire  de la tige dun angle d0, le travail dW   reçu (algébriquement) par F est dW M(T,0).d0 où M(T ,0) est le moment du couple de forces imposé à F dont l'expression est M(T,0) = K(T) Cette dernière équation correspond à I'équation d'état du fil: Lors d'une transformation infinitésimale réversible où la température et l'angle de rotation du fil varient respectivement de dT et de de, la quantité de chaleur reçue par le fil s'écrit dQ = CdT 4 b(T,0) de où b(T,0) est un coefficient calorimétrique.
+Concours Biologie et Geologie Session Juin 2021
+Eprcuve de Physique
+Page 6/8
 
+--- page 7 ---
+B-1- B-I-1 Enoncer le premier principe et le second principe de la thermodynamique pour un système physique quelconque. B-1-2  Exprimer   les différentielles   respectives dU et dS de l'énergie interne U et de lentropie $ du fil. B-2- Sachant que ces deux différentielles sont bien des différentielles totales exactes, montrer que dK b(T,0) = ~TO dT B-3- Dans tout ce qui suit; on prendra K(T) = Ko - aT Ko et & sont deux constantes positives et on admettra que cette expression de K(T) reste toujours positive pour les températures considérées. Calculer b(T,0). B-4- Montrer que les fonctions d'état énergie interne U(T,0) et entropie S(T,0) du fil peuvent se mettent sous la forme U = CT + K02 +Uo et $ = Cln Z+402 + S0 2 To 2 Uo et S0 étant deux constantes dintégration. B-5- B-5-1 Quelle est la relation entre M et 0 dans une transformation isotherme du fil ? B-5-2 Quelle est la relation entre M et 0 dans une transformation isentropique du fil ? B-6- On imagine que, par des manipulations qu'il n'est pas nécessaire d'expliciter, le fil subit le cycle de transformations suivantes que l'on supposera toutes réversibles. i) Le fil est initialement dans un état d'équilibre E1 à la température To et à Pangle de rotation nul (00 = 0) Dans une première transformation E1 4 E2, on lui imprime une rotation jusqu'à valeur 01 de langle, tout en le maintenant en contact avec le milieu   ambiant à la  température To (transformation isotherme). ii) La seconde transformation Ez 4 E3 est une rotation adiabatique jusque l'angle 02 > 01' La température du fil est atteint alors T1 < To: iii) La troisième transformation E3 4 E4 est une rotation isotherme à la température T1 faisant passer l'angle de rotation de 02 à 03 avec 03 < 02 iv) Enfin; la quatrième transformation est adiabatique et ramène le fil dans son état initial E1 B-6-1 Pour chacune des transformations, déterminer le travail et la chaleur reçus par le fil en précisant leurs signes respectifs. B-6-2 Démontrer la relation 2 02~ = 2 +01 2 03 = B-6-3 Quel est le travail total W reçu par le fil lors du cycle ? Quel est son signe ? B-6-4 Démontrer que W T1 1 - QAB To Expliquer pourquoi ce résultat était prévisible.
+8 e 6e 
+Concours Biologie et Géologie Session Juin 2021
+Epreuve de Physique
+Page ` 7/8
 
+--- page 8 ---
+REPUBLIQUE TUNISIENNE
+Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs
+Signature des surveillants
+Ministère de 1'Enseignement Supérieur et de la Rechercbe Scientifique
+Session Juin 2021 Concours : Biologie Géologie Epreuve de : Physique
+Ne rien
+Totale des double feuilles remises
+écrire
+Nom
+Prénom :-
+ici
+Institut dorigine
+Identifiant :
+Série
+Annexe
+Ne rien
+écrire
+Liquide
+ici
+60
+J@
+(a)   B
+Figure 1-2
+Figure 2-2
+Eau sucrée
+60
+88 0y {5 098
+prisme
+(a)   B
+Figure 2-5
+Figure 3-1
+Concours Biologie et Géologic Session Juin 2021
+Epreuve de Physique
+Page 8/8

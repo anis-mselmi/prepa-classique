@@ -1,4 +1,76 @@
+--- page 1 ---
+ +ijigecsi `  s  REPUBLIQUE TUNISIEYME Ministere de [Easeimnemert Supéisur et %e Ja  UU)isets s Recherzhe Ssiartifque  ` gLsbs   Concours Nationaur dEntréc Jux Cycles de Formation &'Ingéniears  Jeza,  s Session 2015 483>} 1 . 2018 }  s Concours Biologie et Géologie Epreuve de Physique  ` . .  n 
+Date: Jeudi 11 Juin 2015
+Heure: 8H Durée: 3H s 2 1 Problème B: 7 pts Ai)
+Nbre de pages: 05 Problème C: 5 pts
+Barème: Problème A: 8 pts
+L 'usage dune calculatrice non programmable est autorisé L'épreuve comporte trois problèmes indépendants, le candidat peut les résoudre dans l'ordre qui lui convient, en respectant néanmoins la numérotation des questions. d  8 Un candidat peut toujours se servir d'un résultat fourni par l'énoncé pour continuer sa composition
 
 
+   , s  ` 27
+On donne: cosp + cosq = 2 cos '2+9) coS (P29)
+Problème A 1  `  Cette partie concerne l'étude des ondes acoustiques. On mettra en évidence leur propagation; et leur interférence. Une application est envisagée en vue didentifier un liquide inconnu.  s  A-I- Partie Préliminaire  A-I-1 Décrire une expérience réalisable au laboratoire permettant de mettre en évidence un phénomène de propagation à une dimension. On rappelle qu'un phénomène ondulatoire qui se propage suivant la direction (Ox) peut être décrit par une variable p(x, t), vérifiant l'équation aux dérivées partielles suivante: a2w(x,t) 1 a2w(x,t) Equation 1 dx2 C2 dt2 A-I-2 Qu'appelle-t-on cette équation? Ecrire et caractériser sa solution générale. A-I-3 Que représente la grandeur C? Quelle est son unité dans le système international? A-I-4 Définir une onde transversale et une onde longitudinale. Donner un exemple pour chaque type tout en précisant dans chaque cas la grandeur qui se propage. A-I-5 Vérifier que les fonctions donde: 1  Y1(x, t) =a cos((t et Y2(x,t) = a cos(W(t + sont des solutions de l'équation 1_ A-I-6 Déterminer   la fonction donde V(x,t) résultante de la superposition des deux phénomènes ondulatoires décrits par V1 et V2. Caractériser cette onde.
+A-II- Interférences des ondes sonores Un générateur de basses fréquences alimente deux hauts parleurs A1 et Az identiques placés face à face sur un même axe (Ox) et distants lun de lautre de d = 6,5m Ils  émettent des ondes monochromatiques de même amplitude et de fréquence f = 20OOHz. Le centre de A1 est en x = 0 et le centre de Az en x = d.
+Concours Biologie et Géologie Session Juin 2015
+Epreuve de Physique
+Page 1/5
 
+--- page 2 ---
+Un petit microphone M peut être GBF déplacé sur l'axe (Ox) On envoie sur un oscilloscope le signal du générateur d Al alimentant les deux haut-parleurs et la tension U délivrée par le microphone (Figure 1) 
+M
+x
+A2
+Figure 1
+A-II-1 Décrire le phénomène observé en déplaçant le microphone sur l'axe (Ox) A-II-2 La fonction donde représentée par londe sonore est la surpression.  Celles générées par les un point M d'abscisse X sont notées respectivement P1(x, t) et p2(x,t) On sources   A1 et Az en suppose que le phénomène de réflexion est négligeable et que: p1 (O,t) = p2(d, t) = Pocos(Wt) ou po est une constante positive. Ecrire les expressions de P1(x,t) et p2(x, t) au point M à l'instant t. A-II-3 A-II-3-1 Déterminer la surpression résultante p(x, t) au point M situé entre les deux sources A1 et Az; A-II-3-2 Déterminer les positions des points damplitude maximale et les points damplitude nulle. A-II-4 Calculer la célérité du son dans Vair sachant que l'oscilloscope passe par deux maximums successifs lorsque le microphone est déplacé de 8,5cm. A-II-5 Quelle est l'état vibratoire du point Imilieu de [A1 Az] .
+A-II-6 Pour identifier un liquide inconnu (L), on reprend le montage de la figure 1, et on place devant le microphone Az une cuve de largeur e suivant (Ox) (figure 2) Cette cuve contient un liquide  inconnu. Les points correspondants   au maximum du son se déplacent dune distance d1.
+GBF
+M
+A1
+A2
+Figure 2
+ A-II-6-1 Montrer que la différence de phase entre les deux surpressions p1 et p2 est: Aq = 27 [(2x P2 P1 =  d) + e(1 ~ œ)] 1 Q1 et @2 sont respectivement les phases des surpressions  P1 et p2. a = $ avec V la vitesse de Yonde dans le liquide (L) et C la vitesse de cette onde dans Yair. A-II-6-2 Expliquer le déplacement d1 et indiquer son sens   A-II-6-3 Calculer la vitesse V de propagation de l'onde sonore dans le liquide:    On donne; € = 345 ms-1 et d1 0,386 e A-II-6-4 On rappelle que la vitesse de propagation dune onde sonore dans un liquide de masse  volumique Po et de coefficient de compressibilité isentropique Xs est V = VPoXs En utilisant les données du tableau suivant; identifier le liquide (L)    Po (kgm Xs (Pa-1)   1  Eau 1000 4,5 10-10     ` Alcool   789 11 10-10  Mercure 13600 4,0 10-10 
+Concours Biologie et Géologie Session Juin 2015
+Epreuve de Physique
+Page 2/5
 
+--- page 3 ---
+ 
+  `
+Problème B La photodiode est un dipôle  électrique non   linéaire Sa   caractéristique courant-tension dépend de   l'intensité lumineuse reçue   par ce composant. Le réseau des caractéristiques de la photodiode est donné par la figure 3
+
+4
+7 1
+Figure 3
+P1 201 341 481
+211 31 41
+B-I- Caractéristiques électriques d'une photodiode à l'obscurité. A Pobscurité   la photodiode se comporte comme une diode réelle. B-I-l Tracer l'allure de la caractéristique électrique I(V) dune diode idéale ayant une résistance interne rp et une tension seuil Vs. Préciser les différentes zones de son fonctionnement. Repérer sur la caractéristique la tension seuil Vs et indiquer ce que représente rp. B-I-2 Donner le schéma équivalent de la diode idéale dans les différentes zones de son utilisation tout en précisant l'expression de la tension V entre ses bornes en fonction du courant [ qui la traverse. B-I-3 Le constructeur précise que la tension seuil Vs = 0.7V , la résistance rp = 300 et la puissance maximale admise en direct Pmax = 21mW Sur le même graphique réalisé dans la question B-I-1, tracer l'allure de la courbe I(V) associée à Pmax- Calculer le courant Imax
+B-II Caractéristiques électriques d'une photodiode Dans cette partie on étudie la photodiode lorsqu'elle est éclairée par un flux lumineux variable € B-II-1 Dans quel cadran de la caractéristique devrait se situer le point de fonctionnement (I,V) afin d'avoir un courant proportionnel au flux lumineux. B-II-2 On branche la photodiode en série avec un générateur de tension E et de résistance R B-II-2-1 Proposer alors un schéma de branchement convenable afin de travailler dans le régime désiré pour la photodiode. B-II-2-2 Reprendre sur votre copie la caractéristique associée à un flux 241, puis tracer la droite de charge sur celle de la photodiode; placer le point de fonctionnement de ce circuit ainsi que les points particuliers de la droite de charge.
+B-III- Etude des circuits associés à la photodiode
+Le courant I1 délivré par la photodiode lorsqu'elle est R polarisée en inverse est très   faible, il convient dans un premier temps de le transformer en tension puis Yamplifier . Les amplificateurs opérationnels utilisés dans les montages suivants sont idéaux. Ils fonctionnent en régime linéaire . B-III-1 Pour   transformer   le courant I1 fourni   par une 1 photodiode éclairée par le flux lumineux 61 en tension V1,  s  Figure 4 on utilise le montage de la figure 4 B-III-1-1 Exprimer V1 en fonction de I1. B-III-1-2 La tension Va obtenue par le montage précédent est de signe opposé au courant I1, proposer alors un montage qui permet d'inverser V1 en V'1, soit V' = ~V1. ' ,
+Concours Biologie et Géologie Session Juin 2015
+Epreuve de Physique
+Page 3/5
+
+--- page 4 ---
+B-III-2 Pour amplifier la tension V'1 délivrée par le montage proposé, on utilise le montage de = Vs1  c . . la figure 5. Exprimer le rapport Av V' 7  B-III-3 On utilise le montage de la figure 6 pour comparer deux tensions d'entrée Ve1 et Vez   B-III-3-1 Exprimer la tension de sortie Vs en fonction de Ve1, Vez et du paramètre k.  s 1     3 1 , R  < 1 R
+Rz
+Vs1
+Rz
+V 
+R1
+Ve1 kkRz Vez 1 ,
+2, ` < Figure 5  ^ 1 . 2 d . pose Vd = Vez Ve1 (tension d'entrée en
+Figure 6 6 !
+B-III-3-2 On mode différentiel) et Vc = (Ve1 + Ve2)/2 (tension d'entrée en mode commun). Ecrire la tension de sortie Vs sous la forme Vs = GaVd 4 GcVc, où Ga représente le gain en mode différentiel et Gc représente le gain en mode commun de ce montage . Exprimer Ga et Gc en fonction de k. Pour quelle valeur ko de k, le montage fonctionne-t-il en amplificateur différentiel idéal? B-III-3-3 Dans la pratique; le paramètre k est voisin de la valeur ko' k = ko (1 + a) où le facteur a représente la tolérance sur la valeur de k, a << 1. On définit le taux de réjection en mode commun TRMC = Ga/Gc. Exprimer ce taux en fonction de a. s   s  n   : s  2  Problème C  :  Cette partie traite Pétude de Peffet Venturi sur Pécoulement dun fluide   parfait. Une application de cet effet est portée sur lécoulement sanguin.  ' e   1 '  C-I Partie Préliminaire   Le système étudié est rapporté à un repère galiléen(0,x,Y,z), d'axe (Oz) ascendant. 8 C-I-1 Rappeler l'équation fondamentale de lhydrostatique. 1 C-I-2 Dans cette partie on se propose d'établir la relation de Bernoulli à partir de l'équation dEuler. Le fluide considéré est parfait, incompressible, homogène et de masse volumique p. On se place dans le cas dun écoulement permanent où la force volumique F dérive dun potentiel U. On rappelle que léquation dEuler pour un écoulement irrotationel s'écrit:   1 .  d1 1  F ' gradP grad  ~ = p Equation 2 dt    ` . P et v sont respectivement la pression et la vitesse d'un point M de l'écoulement.  , ? 3 C-1-2-1 En projetant l'équation 2 suivant une direction dl quelconque; montrer que:o 1    ` [ 02) di =0  2  ` . grad P + U + p  s 3 , 2 ' 1  .   ^ s C-I-2-2 La force de volume considérée est la force de pesanteur. Déduire que:
+Concours Biologie et Géologie Session Juin 2015
+Epreuve de Physique
+Page 4/5
+
+--- page 5 ---
+v2 P + pgz + P- =cte (Relation de Bernoulli) . 2
+C-II Le débitmètre de Venturi Le  débitmètre de Venturi   illustré   dans la 2 Section SA Section $B figure 7 comporte: Un tube de Venturi composé d'un cylindre de diamètre D égal à celui de la canalisation; dun D A 7A B ùg convergent de diamètre d avec d < D appelé ZA = ZB d "col du Venturi" et dun divergent dont lextrémité   possède le même diamètre que la ZB, canalisation. B Un manomètre   différentiel à tube en U de h Za A faible section;   rempli de mercure de masse raccordé à lentrée du col du Figure 7 volumique   Pm; Venturi; il indique une dénivellation h Le fluide considéré est Veau, de masse volumique constante P, supposé parfait et incompressible. L'écoulement dans la canalisation et dans le tube de Venturi est supposé permanent. Les champs de vitesse et de pression (vA PA) et (vB,PB) sont considérés uniformes sur les sections droites A et B du tube de Venturi. C-II-1 Ecrire léquation traduisant la conservation du débit volumique entre les deux sections A et B En déduire la vitesse VB de lécoulement au col en fonction de la vitesse VA lorsque D = 3d C-II-2 En appliquant la relation fondamentale de lhydrostatique entre les points A et B' relative à Péquilibre du mercure, déterminer la différence de pression Pa' PB' en fonction de g, Pm, ZA' et ZB' C-II-3 Exprimer la différence de pression PA PA' en fonction de g, P, ZA' et ZA' C-II-4 Exprimer la différence de pression PB  PB' en fonction de g, P, ZB' et ZB. C-II-5 Déduire PA PB en de fonction de Pm; P, g et h. C-II-6 Déterminer [expression de la vitesse d'écoulement VA en fonction de Pms P, g et h. C-II-7 Déduire Pexpression du débit volumique Qv en fonction de D, Pms P, 9 et h.
+C-III Application: Pression sanguine. C-III-1 En supposant que le sang est un fluide non visqueux de vitesse faible et constante dans les artères. En utilisant la relation de Bernoulli; justifier les différences de pression; entre le cœur et le cerveau, puis entre le cœur et les pieds  C-III-2 La pression exercée par le cœur Pcoeur est de lordre de 13.3 kPa et la masse volumique du est de 1060 kg m-3 Les hauteurs du cœur et du cerveau par   rapport aux pieds sont sang respectivement = 1.3 m et hcerveau = 1.8m Calculer les   pressions Pcerveau et hcoeur Ppied respectivement aux niveaux du cerveau et des pieds. C-III-3 L'anévrisme est une dilatation dun vaisseau sanguin. Comment varie la pression au niveau de cette dilatation? Quelle serait alors la conséquence de cet anévrisme sur ['artère? Justifier. C-III-4 Une sténose est une  modification   anatomique qui se traduit   par un rétrécissement   dune structure (canal, vaisseau) . Expliquer comment  varie le régime de lécoulement du sang au niveau dune sténose vasculaire? Conclure.
+Fin de Vépreuve
+Concours Biologie et Géologie Session Juin 2015
+Epreuve de Physique
+Page 5/5

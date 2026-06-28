@@ -1,3 +1,72 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de lEnseignement
+2Wi42yn)
+Supérieur, de La Recherche Scicntifique et de La Technologie Concours natlonaux &entréc auY cycles de forma tion d'ingénicurs Scssiop 2008
+&Gjkyésts Esykeeueb UL iibsi 2UbLij Uii :usulji 20081,9
+Concours Mathématiques et Physique Epreuve de Mathématiques I
+Date 02 Juin 2008
+Heure 8 H
+Durée 4 heures
+Nb pages
+Barème
+Partie I ; 3 pts
+Partie II : 8 pts
+Partie III 4 pts
+Parlie LV 5 pts
+Une grande importance sera attachée à la rigueur du raisonnement, à la clarté et au soin de la présentation L'usage des calculatrices n'est pas autorisé, Il est rappelé que tout résultat énoncé dans le texte peut être utilisé pour traiter la suite, meme 8'il n'a pu être démontré _
+Notations_ Étant donné une #uite de nombres complexes (un )nez on dit que la série Un convergC si les séries ne2 Un et U_n convergent . Dans ce Ca9, on note "EN neN'
++0
+400
++o Un =un + U_n n==8 7=0 =]
+Si f est une fonction d'un intervalle de R dans C p fois dérivable (p € N'), on note f(p) la fonction dérivée p-ème de f . On pote également f(o) = f. Partie (nstituT Fpmanourt Soit f : IR 2 C une fonction continue et integrable sur R BRUkiHEQUr 1 Montrer que pour tout r € R; la fonction t ~e f(t)exp(~itæ) est intégrable sur R. 'Frx; Sfa" On pose alors la fonction 4562*2%
+'+0 F(f) :R -C,I++ f(t) exp(-itæ)dt V2T 0 appelée la transformée de Fourier de f .
+2 Démontrer que la fonction F(f) est continue et bornec: sur R.
 
+--- page 2 ---
+3 Soit k € N* On suppose que pour tout entier p € {1,_ k} _ la fonction fp : R - C,t- +t"f(t) est intégrable sur R. Montrer que F (f) est de classe C* sur R et que pour tout entier p € {1,-,k} (F(f))WP) (z) = (-i)" F (fp) pour tout z € R. 4. (a) On suppose que f est de <lasse CI sur R et que f' est intégrable sur R. (i) Montrer que lim f (z) = lim f(z) = 0. 5~++00 1 ~0 (ii) En déduire que F{f') (r) = isf (f) (r) pour tout $ € R (b) Soit k € N* On suppose que f est de classe Ck sur R et que f' , " , f(k) sont intégrables sur R. Montrer que pour tout entier p € {1,-,k} F (fW))(c) = (iz)? F(f) (z) pour tout 2 € R.
+Partie II
+On note S Vensemble des fonctions f : R - C de classe Cw et telles que pour tous n,m € N lim I" f(m) (2) lim 2" f(m) (4) = 0 4~+0 ~0 Dans toute cette partie f désigne un élément de $. 1 (a) Montrer que, pour tout p € N, la fonction fp R - €, t F tPf(t) est intégrable sur R En déduire que F (f) est de classe Co et que pour tout p € N; (F(f))W (r) = (~i)" F (fp) (æ) pour tout æ € R. (b) Montrer que, pour tout p € N, f(p) est intégrable sur R. En déduire que pour tout p € N; F (f()) (æ) = (iz)" F (f) (æ) pour tout æ € R. (c) Montrer que F (f) € $. 2 (a) Montrer que pour tout h > 0, la série  f (nh) est absolument convergente. nen b) Moutrer que pour tout h > 0, 40 4oo +0 n+l f (z) dz hf (nh) =Eh / (f (th) = f (nh)) dt. n=0 n=0 En déduire, à laide d'une intégration par parties; que +co +0 +80 f (æ) dr Enf (nh) | < h If' (c)| dz n20
+(c) Montrer alors que
++0o lim hf (nh) = h-+0+ n==0
+'+0 f (z) dz.
+(d) Montrer que la série 2 f (~nh) est absolument convergente et que nEN
++oc Jim hf (nh) = h-0+ 11=~0
++00 f (z) dz. =00
+2
 
+--- page 3 ---
+3 Soit T un récl strictement positif.
+(a) Montrer que pour tout 2 € R, la série E f (z + nT) est convergente.  On pose alors nez
++co fr (z) = f (c+ nT) n=~0
+pour tout ~ € R
+(b) Montrer que pour tout æ € R,
+Jim fr (r) = f (r) - Ts+oo (c) Montrer quc fr est de classe C1 et T-périodique.
+4 On pose
+Cn (fr) = # Jo fr (z) exp (=2i412 dx: le n-iènne coefficient de Fourier exponentiel de fr . {a)  Montrer que Cn (fT) = #F(f) (242) (b) En déduire que
+fT '(r) =#EF(f) (242 exp '2i4"2 nez
+pour tont æ € R
+5. Déduire des précédentes questions la formule d'inversion (1) F(F(f))(z) = f (-r) pour tout : € R.
+Partie III
+Soic #o la fonction définie de R dans R par
+exp (3) si r > 0
+4o (r)
+si 2 < 0.
+1
+(a) Montrer que 40 est continue sur R. (b) Montrer que ?0 est de classe C% sur Rt* et que sa dérivée n-ième s'exprime sous la forme (n) 4o (z) = Rn (2)exp (#) pour tout 2 € R+* où Rn est un polynôme de degré 2n. (c) Montrer que 4o est de classe C%o sur R. Soit b € ]1, +œ[ 2. Montrer que Ja fonction fo : R - R,$ + Yo (z 5) Po (b _ 2) est de classe Cœ 1 qu'elle prend des valeurs strictement positives sur 6 et nulle ailleurs  6
+3
 
+--- page 4 ---
+3. On pose 4 = F (9) avec 9 : R - R; * H fo (-2) -
+(a) Vérifer que la fonction % € $. (b) En utilisant la formule dinversion (1) , montrer que (i) Sa transformée de Fourier F (%+) est strictement positive sur ] },b [ et nulle ailleurs. (ii) Pour toult k € N, +œ #*w6  (t)dt = v2m i*F (F (,() ) (0) = 0. ~0o
+Partie IV
+Soit b € ]1, +o[
+COS (2mb"z) 1 Montrer que la série converge poIr tout $ € R. n20 b2 On définit alors la fonction < < de type Weierstress >
+cos (2zb"2) W (æ) = bn n=0
+pour tout æ € R-
+2 Montrer que la fonction W est continue et bornée sur R. Si æ € R, on pose pour tout p € N,
++0 Cp (r) = (2mbr)? W (t) +6 (2mbP (t x)) dt . ~0o
+où V est la fonction construite à la fin de la partie III 3. Soit æ € R.
+(a) Montrer que la définition de Cp (x) a bien un sens En utilisant une intervertion série-intégrale; montrer que 0 p exp Cp (r) 4v (27) (~2inb"z2F (J6) bn (b"~P) _ n=0
+(c) En déduire que
+ICp (2)| = !  (2m)  F (v) (1) . 4. Soit I € R. Supposons que W est dérivable en I- {a) Montrer qu'il existe une fonction €x R - R continue et bornée sur R telle que Iim €z (h) h-0+ et pour tout h € R W (z + h) = W (z) + hW' (z) + hez (h) _ (b) Montrer que 400 Cp (s) = [ s €r (2;;) " (s) ds pour tout p € N. "o (c) En déduire que lim Cp (r) = 0 p-9+Do
+5 Montrer que W n'est dérivable en aucun point de R.

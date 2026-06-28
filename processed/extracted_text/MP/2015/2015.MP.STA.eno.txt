@@ -1,33 +1,607 @@
+--- page 1 ---
+3@sisseai "akslgats gL~b
+REPUBLIQUE TUNISIENNE
+Ministère de 1Enseignement Supérieur et de la Recherche Scientifique
+Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs Session 2015
+Js #kyl cyblli iuusdl ùX Jly Ji 2015 32
+Concours Mathématiques Physique & Physique Chimie Épreuve de Sciences et Techniques de 1Ingénieur
+Date Vendredi 12 Juin 2015 Barème Partie poitls
+Heure 8 Heures Partie B 10 points
+Durée 3 Heures Partie € 7 points
+L'épreuve comporte les trois parties suivantes
+Partie A-Technologie de conception Partie B- Mécanique des solides indéformables Partie C- Automatique
+Le sujet de l'épreuve remis au candidat comporte deux dossiers
+1- Présentation, Données et Hypothèses 2- Document Réponses
+Aucun autre document n'est autorisé .
+L'utilisation des calculatrices de poche non programmables est autorisée_ Les différentes parties sont indépendantes et doivent être traitées sur le document réponses. Il n'est fourni au candidat qu'un seul_et_unique dossier document réponses > qui doit être rendu en totalité, à la fin de lépreuve; même sans réponses.
+
+--- page 2 ---
+
+DOSSIER
+PRESENTATION, DONNEES ET HYPOTHESES 
+Ce dossier comporte 12 pages numérotées de 1/12 12/12
+Présentation
+Page 1/12 ;
+Données et hypothèses Partie A
+Pages 2/12
+4/12;
+Données et hypothèses Partie B
+Pages 5/12
+7/12;
+Données et hypothèses Partie €
+Pages 8/12
+12/12;
+ 1
+ 
+
+ '
+
+--- page 3 ---
+STI Mathématiques Physique & Physique Chimie Dossier Présentation; Données et Hypothèses UNITE DE TRAITEMENT DE MARBRE MISE EN SITUATION Le recyclage est un procédé de traitement des déchets industriels ou des ordures ménagères (recyclage des bouteilles  plastiques, recyclage du verre; traitement des eaux usées, Il présente deux avantages écologiques majeures La réduction du volume des déchets et donc de la pollution La préservation des ressources naturelles (réutilisation de la matière recyclée) .
+Bien que ses ressources soient limitées, Yeau représente un bien naturel indispensable à la vie. C'est pourquoi une partie de Yeau consommée est recyclée et redistribuée. En effet; une bonne quantité d'eau utilisée en industrie et en agriculture est issue deaux usées assainies. La gestion et lexploitation de ce recyclage; confiées à des entreprises spécialisées; nécessite des infrastructures lourdes.
+L'industrie de traitement des marbres est lune des plus polluantes en termes deau usée. Ainsi, nous en ferons notre sujet d'étude. On se propose alors d'étudier une chaîne de production de plaques gravées en marbre composée de quatre unités Unité de découpage des plaques Unité de transfert et manipulation Unité de gravure et de polissage (objet détude des parties A et B); Unité de traitement des eaux usées (objet détude de la partie C)
+Dans lunité de gravure et de polissage, les plaques en marbre sont destinées à recevoir des textes et des motifs décoratifs, réalisés par enlèvement de matière. L'un des mécanismes   utilisé dans cette est un manipulateur des plaques Cn marbre   (figure 1) du présent document. s'agit dun mécanisme permettant de Déplacer et positionner la plaque par rapport fopérateur; pour lui faciliter les   opérations réaliser Maintenir   la plaque en toute sécurité dans la position choisie; pendant le travail Ainsi; trois déplacements indépendants peuvent être donnés à la plaque Elévation et inclinaison réalisées à laide de deux vérins hydrauliques Orientation réalisée manuellement.
+Figure 1 : Manipulateur de plaque en marbre.
+Eau épurée
+Dans lunité de traitement des eaux usées, lextraction des déchets (boues) est réalisée par décantation et centrifugation (figure 2). Les opérations de traitement des eaux usées passent par les étapes principales suivantes Traitement   préliminaire (dégrillage;   dessablage; dégraissage . ) Décantation et centrifugation
+Figure 2 Extraction des boues et des eaux. Session 2015 Page 1/12
+Concours nationaux dentrée aux cycles de formation dingénieurs
+extraites Boues '
+
+--- page 4 ---
+STI Mathématiques Physique & Physique Chimie
+Dossier Présentation; Données et Hypothèses
+PARTIEA : TECHNOLOGIE DE CONCEPTION
+Cette partie est dédiée à Lanalyse fonctionnelle du manipulateur L'étude graphique dun manchon représenté par la figure A.1 (deux vues en perspective:) Assemblage; par des éléments standards; des manchons dun accouplement élastique (figure A.2) Le document technique nécessaire au dimensionnement des éléments normalisés requis pour Yassemblage est fournit en annexe Al ci-dessous .
+Figure A1 Vues en perspective du manchon:
+Figure A2 Accouplement élastique type STARFLEX
+Le travail demandé est explicité dans les pages de 1/20 à 3/20 du dossier document réponses.
+ANNEXEAI : DOCUMENT TECIINIQUE
+1- Dimensions normalisées   d'un écrou hexagonal
+Nominal Pas p
+ML,6 0,35 3,2 1,3
+M2 0,4
+M2,S 0,45
+M3 0,5 5,5 2,4
+M3,5 0,6
+M4 0,7
+M5 0,8
+M6
+M8 1,25 13 6,8
+MIO 1,5 16 8,4
+10 5,2
+Epaisseur
+1,6
+2,8
+3,2
+ 4,7
+Dia Nominal d Pas p
+MIO 1,5 16 8,4
+MI2 1,75 18 10,8
+MI4
+MI6
+M2O 2,5 21 24 ~30 12,8 ( 14,8 F 18
+M24
+M3O 3,5 46 25,6
+M36
+36 21,5
+55 31
+Epaisseur m
+Concours nationaux dentrée aux cycles de fornation dingénieurs
+Session 2015
+Page - 2/12
+
+--- page 5 ---
+STI Mathématiques- Physique & Physique Chimie 2- Dimensions normalisées des vis à tête hexagonale ISO 4014
+Dossier Présentation; Données et Hypothèses
+Nominal Pas p Epaisseur
+M3 0,5
+M4 0,7 2,8
+MS 0,8 3,5
+M6
+M8 MIO MI2 MI4 MI6 M2O 1,25 15 1,76 2,5 5,3 6.4 75 8,8 10 12,5 5.5 10 13 16 18 21 24 30 3.4 4,5 5,5 6,6 13,5 15,5 17,5 22 b 10 12 16 20 25 30 35 40 10 12 16 20 25 30 35 40 45 10 16 20 25 30 35 40 45 50 12 16 20 25 30 35 40 45] 50 55 16 20/ 25 16/ 30/ 18/35] 22 40/ 26/ 45 30/ 50/ 34 551 38 60 20 12 25] 14| 30 16/ 35/18 40/ 22/45 26| 50/ 30 55134 60/ 38 65| 42 25 12 30/ 14 35 16/ 40 18 45122150126 55| 30| 60/34 65 38 70/ 42 30 12 351 14 40 16/ 45 18/50/ 22/551 26 60/ 30/ 65] 34 70/ 38 75| 42 40/ 14 45 16] 50 18] 55 22 60/ 26 65| 30 70/ 34 75| 38 80 42 50 16/ 55 18/60/ 22 65| 26| 70 30 75| 34 80/ 38 85| 42
+Trou Lisse movenne D
+3- Dimensions et caractéristiques des rondelles courantes 3.1- Rondelle plate (moyenne)
+nominal d
+1,6 82 2,5 13 |3,5 35 10 12 14 16 18 1,7 2,2 2,7 | 3,2 | 3,7 4,3 5,3 4,6 8,4 10,5 12 15 217 219 6 5 10 12 14 20 25 30 36 40 0,3 0,3 0,5 0,8 0,8 | 0,8 1,2 1,6 2 2,5 3 | 3
+20 21 50 0,3
+22 23
+dl d2 Epaisseur
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2015
+Page 3/12
+
+--- page 6 ---
+STI Mathématiques Physique & Physique Chimie 3.2- Rondelle à dents intérieures
+Dossier Présentation; Données et Hypothèses
+81
+Idiam. nominal d {dl d2 Epaisseur
+2,5 | 3 10 12 14 16 20 24 30 2,05 2,55 3,05 4,1 5,1 6,1 8,2 10,2 12,3 14,3 16,3 20,5 24,5 30,6 4,5 5,5 9,2 11 14 18 20 24 26 32,5 38 48 0,3 0,3 0.4 0,5 0,6 0,7 | 0,8 0,9 1 11 1.2 1,4 1,5 1,6
+4 - Dimensions normalisées des clavettes de forme
+k 0,16 d - 1,2 d + 1 0,16 Id - 1,8 d + 1,4 0,16 d - 2,5 d + 1,8 0,25 d - 3 d + 2,3 0,25 d - 3,5 d + 2,8 0,25 d - 4 d + 3,3 0.,4 d - 5 d + 3,3 0,4 d - 5 d + 3,3 0,4 d - 5,5 d + 3,8 0,6 d 6 d + 4,3 0,6 d 7 d + 4,4 0,6 d 7,5 d +4,9 d 9 d + 5,4 d 9 d + 5,4 d 10 Id + 6,4 d - 11 |d + 7,4 1,6 d 12 Id + 8,4 1,6 d 13 d + 9,4 1,6 d - 15 d + 10,4 1,6 d - 17 d + 11,4
+De 6 à 8 inclus 8 à 10 10 à 12 12 à 17 17 à 22 22 à 30 30 à 38 38 à 44 44 à 50 50 à 58 58 à 65 65 à 75 75 à 85 85 à 95 95 à 110 110 à 130 130 à 150 150 à 170 170 à 200 200 à 230
+2
+2 3 4 5 6 7
+3 4 5 6 8 10 12 14 16 18 20 22 25 28 32 36 40 45 50
+8
+8 9 10 11 2 16 18 20 22 25 28
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2015
+Page 4/12
+
+--- page 7 ---
+STI Mathématiques Physique & Physique Chimie
+Dossier Présentation Données et Hypothèses
+PARTIE B: MÉCANIQUE DES SOLIDES INDÉFORMABLES
+PRESENTATION L'étude porte sur le mécanisme manipulateur de plaque (figure B.1) On rappelle qu'il permet de Déplacer et positionner la plaque par rapport à lopérateur; pour lui faciliter les opérations réaliser Maintenir la plaque en toute sécurité dans la position choisie; pendant le travail
+Table
+Plaque
+Bras
+Console
+La figure B.2 représente le schéma cinématique minimal du manipulateur: Trois déplacements indépendants peuvent être donnés à la plaque
+Vérin dindinatson
+Jon Vérin délevation
+Elévation et inclinaison réalisées à laide de deux vérins hydrauliques Orientation réalisée manuellement.
+Figure B.1 Schéma du manipulateur.
+SCHEMA CINEMATIQUE ET REPERAGE
+Chaîne
+H
+Plaque
+B A
+1
+Figure B.2 Schéma cinématique minimal du manipulateur de plaque en marbre
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2015
+Page 5/12
+onontatlor
+Socie
+
+--- page 8 ---
+STI _ Mathématiques Physique & Physique Chimie Dossier Présentation; Données et Hypothèses Le mécanisme est composé de Socle auquel est lié le repère Ro(O,7o,yo, Z0 supposé galiléen. Corps dinclinaison (1), lié au tepère R(O,x1,J1,70) , est en liaison pivot daxe (0,z avec le socle (0) Son mouvement est paramétré par Yangle a =(o,*) = Go y)  Tige dinclinaison (2), liée au repère Rz(B,7,,J1,Zo) , est en liaison glissière daxe (A,y) avec le corps (1). Pignon (3), lié au tepère R;(C,7;,J3, Z6) , est en liaison pivot daxe (C,20) avec le socle (0). Il est également en liaison pivot daxe (B,Z) avec la tige (2) Son mouvement   est paramétré  par Yangle B=(o,*;) =Go,73) . Bras   (4), lié au repère R,(C,x4,J4, 70) , est en liaison pivot daxe   (C,70) avec le socle   (0). Son mouvement est paramétré par langle Y=(o,*4) =Go,74) _ Pignon (5), lié au repère Rs(H,x5,Js, Z0) , est en liaison pivot daxe (H,z0) avec le bras Son mouvement est paramétré par langle 0=(4,75) =04,75) - Table (6), liée au repète Rs(Kx5,J6, 76), est en liaison pivot daxe (Kv;) avec le pignon (5). Son mouvement est paramétré par langle @ =G5,76) =(o,76) - Corps de levage (7), lié au repère R,(0,x7,J7, Z0), est en liaison pivot daxe (O7,Z0 avec le socle (0). Son mouvement est paramétré par langle V =(o,17) =0o,y-) Tige de levage (8) , liée au repère Rs(D,*7,J7,Z) , est en liaison glissière daxe (J ) avec le corps Elle est également en liaison pivot daxe (D,z , avec le bras (4)
+DONNEES ET CARACTERISTIQUES GEOMETRIQUES DU MECANISME Les données géométriques du mécanisme sont exprimées par les relations vectorielles OO, = /xo OB = 1y 0,D=uj, CD=DH= ax4 CI =HJ = -Ry,; BC=hys HK = dX; 6a, R,h et d sont des caractéristiques géométriques du mécanisme (constantes) 4, H, %, B, Y, 0, @ et W sont les paramètres du mécanisme (variables temporelles)
+HYPOTHESES L'étude dynamique du mécanisme est menée au cours de lopération dinclinaison de la plaque. Dans ce cas, nous adoptons les hypothèses suivantes
+Létude du problème se tamène à un problème plan parallèle au plan (O,xo,7o) Toutes les liaisons sont supposées parfaites (sans frottement) La masse de Yensemble {E} = {5,6, Plaque} est M ; On note par < Iz > le moment principal dinertie de lensemble {E} par rapport à laxe (H,zo) ; Les masses et les inerties du pignon (3) et de la chaine sont négligeables Le champ de la pesanteur est représenté par g=-gy La tige du vérin (2) exerce sur le pignon un effort axial au point B défini par F(2 -> 3)=Fy ; Laction dun solide sur un solide au centre géométrique de la liaison Q;, exprimée dans la base Bi X; L; est modélisée par le torseur {r(i +i}4 Y; M Zi N;
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2015
+Page 6/12
+
+--- page 9 ---
+STI _ Mathématiques Physique & Physique Chimie Dossier Présentation; Données et Hypothèses action de la chaîne sur la roue (5) au point J est modélisée par le torseur glisseur 4 Tr4 {r(Chaine_ 9 5)}E 2 ZRT70 3
+Les représentations planes des rotations a, B, Y; 0, @ et V sont définies dans la figure B.3.
+Jo
+Y;
+Z0 
+Zo
+La base 31 par rapport à la base 3o
+La base 3, par rapport à la base 30
+La base 34 par rapport à la base 30
+y
+Z6
+Z0
+La base 35 par rapport à la base 34 La base 86 par rapport à la base 35. (1) La base 37 par rapport à la base 30 Figure B.3 : Représentation plane des rotations:
+Le travail demandé est explicité dans le document réponses (pages 04/20 12/20)
 
 
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2015
+Page 7/12
+
+--- page 10 ---
+STI Mathématiques Physique & Physique Chimie
+Dossier Présentation; Données et Hypothèses
+PARTIE C:AUTOMATIQUE
+PRESENTATION Lobjet de cette étude est délaborer une commande séquentielle dun système dextraction des boues, des eaux et des déchets de lunité de traitement des eaux usées et deffectuer un assetvissement de vitesse du moteur dentraînement de la vis &Archimède destinée à la recirculation des boues_ Lunité de traitement des eaux usées et des déchets (figure C.1) comporte Un dégrilleur permettant de retenir les gros déchets un dessablage et un dégraisseur permettent déliminer les déchets solides non organiques ainsi que les particules graisseuses un décanteur primaire qui est un grand bassin dans lequel les matières organiques se déposent au fond. Les eaux passent ensuite dans le bassin daération un bassin daération permettant le traitement biologique par  oxygénation des eaux provenant   du décanteur un décanteur secondaire qui est un bassin circulaire équipé des racleurs où s'effectue la séparation par décantation des boues issues du bassin daération et de leau traitée.
+Les boues extraites du décanteur secondaire sont   déshydratées par   centrifugation permettant daugmenter la siccité finale des boues   (pourcentage de matière  sèche). Leau propre traitée sera de nouveau exploitée:
+Dégrilleur
+() Dessablage
+Dégraisseur
+Bassin daération Décanteur secondaire Figure C.1: Unité de traitement des eaux usées et des déchets Station dépuration Charguia-Tunisie
+C.1- COMMANDE SEQUENTIELLE D'EXTRACTION DES BOUES ET DES EAUX DU DECANTEUR Le décanteur secondaire est un bassin (figure C.2) équipé des électrovannes; des motopompes et des racleurs immergés dans le bassin où s'effectue la séparation par décantation des boues issues du bassin daération et de leau traitée.
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2015
+Page 8/12
+
+--- page 11 ---
+Dossier Présentation_ Données et Hypothèses
+Mathématiques Physique & Physique Chimie STI Electrovannes d'extraction des boues Eau épurée
+Motopompes &'extraction (MB) (Mejet (MR}
+Annoire de comnande (Dépat cycle @Dcy) Lampe de signalisation (H), Sélecteur (s))
+Mise en marche Moteus Ml, M, M3
+Figure C.2 : Extraction des boues et des eaux du décanteur Station dépuration Charguia-Tunisie Thélice aérateur et les racleurs (bras) du décanteur primaire sont Sur un ordre de départ cycle (Dcy), M1 (KMI=1) et Mz (KM2=I) La simultanément mis en rotation par la mise en marche des moteurs extraction des eaux > est alors exécutée selon la position séquence extraction des boues ou la séquence < arrêtés (KMI=0) et (KM2=0) (figure C.3). Une lampe choisie dun sélecteur $ et les moteurs M1 et Mz sont extraction des eaux > de signalisation H sallume (H=1) au cours de Yexécution de la séquence < Si s = 1,la séquence < extraction des boues > est la suivante des boues (VB+) et mise en rotation des racleurs du décanteur Ouverture de la vanne dextraction secondaire par le moteur M; (KM3=1) Roononrde 1 motopompe dextraction des boues (MB) pendant 40s apxtraction des boues (VB-) et arrêt du moteur Ms (KM3=0) Fermeture de la vanne Si s = 0, la séquence extraction des eaux > est la suivante Ouverture de la vanne extraction des eaux (VE+) Rotationde la motopompe extraction des eaux (ME) pendant 20s vanne recirculation des boues Fermeture de la vanne extraction des   eaux (VE;) et ouverture de la (VR+) ; Rotation de la motopompe recirculation des boues pendant 10s (MR) Fermeture de la vanne recirculation des boues (VR-). de bras décanteur primaire et lhélice daération Le cycle extraction des Caux > et les rotations testé capteur logique indiquant létat du sont exécutés 5 fois et ceci est par un (moteurs M1 et Mz) compteur (c=1sila séquence est exécutée 5 fois, c=0 sinon)
+Session 2015
+Page 9/12
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+extraites Boues
+
+--- page 12 ---
+STI Mathématiques Physique & Physique Chimie Dossier Présentation; Données et Hypothèses La condition initiale nécessaire pour Yamorçage du cycle automatique Capteur logique c=0 (le compteur est initialisé à zéro)
+F@
+Eau traitée
+Décanteur secondaire
+Décanteur primaire
+Bassin d'aération
+MB
+M 3
+M 1
+VB
+VR
+M 2
+Hélice aérateur
+Boues extraites
+Boues recirculées
+Figure C.3 : Schéma synoptique dextraction des boues et des eaux
+Le repérage des entrées et des sorties de la partie commande est donné dans le tableau C.1
+Tableau C.1 : Repérage des entrées sorties
+Entrées
+Sorties
+Symbole Désignation Symbole Désignation Bouton poussoir départ du Commande du   moteur   M1 rotation Dcy KMI cycle racleur (bras) du décanteur primaire Vanne extraction boues Commande du moteur Mz rotation veo KM2 ouverte hélice aérateur Vanne extraction boues Commande du moteur   M; rotation vef KM3 fermée racleur du décanteur secondaire Vanne extraction eaux vo VB Ouverture vanne extraction boues ouverte vf Vanne extraction eaux fermée VB Fermeture vanne extraction boues Capteur logique indiquant Rotation motopompe extraction MB Pétat du compteur boues Vanne recirculation boues vro VR Ouverture vanne recirculation boues ouverte Vanne recirculation boues vrf VR Fermeture vanne recirculation boues fermée Rotation motopompe recirculation MR boues VE Ouverture vanne extraction eaux Sélecteur à deux positions VE Fermeture vanne extraction eaux ME Rotation motopompe extraction eaux H Lampe de signalisation
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2015
+Page 10/12
+Dcy
+
+--- page 13 ---
+STI Mathématiques_ Physique & Physique Chimie Dossier Présentation; Données et Hypothèses C.2 - ASSERVISSEMENT DE VITESSE DU MOTEUR D'ENTRAINEMENT DE LA VIS D'ARCHIMEDE On 'intéressera ici à lasservissement de vitesse du moteur dentraînement de la vis dArchimède destinée à la recirculation des boues vers le bassin daération (figure C.4)
+Moteur d entrainenent dela vis
+vis &Archimède
+Figure C.4 Moteur dentraînement de la vis d Archimède destinée à la recirculation des boues vers le bassin daération Station d'épuration Charguia-Tunisie La structure de lasservissement en vitesse de la rotation de la vis est donnée par la figure C.5. CKp)
+Qc(p)
+E(p
+U(p)5 C(p)
+Cm(p) km
+Q(p)
+ka
+Jep
+E(p)
+ke
+Moteur_
+ka
+Figure C.5 : Schéma fonctionnel dasservissement en vitesse:
+Avec
+Opérateur de Laplace Transformée de Laplace de @(t) L(@c(t)) = Se(p) Vitesse de consigne en (rd.s-1) Vitesse de rotation de Parbre moteur en (rd.s-'), L(o(t)) = Q(p) Couple moteur en (Nm), L(Cm(t)) = Cm(p) Couple résistant sur larbre de sortie moteur en (N.m); L(CA(t)) = C (p) Tension aux bornes de linduit en (V), L(u(t)) = U(p) Force contre électromotrice (f.c.em en (V); L(e(t)) = Elp) Constante de couple (km en (NmA))
+Qc(p)
+@c(t)
+@(t)
+Cm(t)
+Cr(t)
+u(t):
+e(t) km
+ke
+Constante de f.c.em (keen (Vlrd.s-')), (km = ke)
+Résistance de linduit en (22), R = 1Q ka Gain du capteur de vitesse (constante dadaptation) en (Vlrd.s-'), ka = 0.25 VIrd.s-' Je Inertie équivalente ramenée à laxe de rotation de larbre moteur en (kgm?) Concours nationaux dentrée aux cycles de formation d'ingénieurs Session 2015
+Page 11/12
+
+--- page 14 ---
+STI Mathématiques Physique & Physique Chimie
+Dossier Présentation; Données et Hypothèses
+Le televé de la réponse indicielle du moteur pour Un échelon en tension damplitude 1OV est donné par la figure C.6.
+Réponse indicielle du moteur
+100
+90
+70
+{ 9 50 p 2 40 , 20
+10
+0.1
+0.4 0.5 0.6 temps (seconds)
+0./
+0.8
+Figure C.6 : Réponse indicielle du moteur H (p) à un échelon de tension u(t) de 10V C(t)= 0 Nm
+Lasservissement de vitesse du moteur   dentraînement de la vis dArchimède doit   respecter les performances décrites dans le Tableau C.2
+Tableau C.2 : Performances souhaitées du système Performances Valeurs souhaitées
+Marge de Gain MG   (valeur minimale) 15dB Marge de Phase Mq (valeur minimale) = 600
+Stabilité
+Précision
+Erreur statique nulle pour une entrée en échelon
+Rapidité
+Temps de réponse t,(15%) < 0.3s Dépassement (D%) inférieur à 15%
+Le travail demandé est 'explicité dans le document réponses (pages 13/20 20/20)
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2015
+Page 12/12
+
+--- page 15 ---
+STI- MP-PC
+Document Réponses
+Partie A Technologie de Conception
+PARTIRA : TECHNOLOGIE DE CONCEPTION
+Al- ANALYSE FONCTIONNELLE A.1.1 - Modéliser le système manipulateur de plaque de marbre en complétant lactigramme A-0 suivant.
+A-0
+Manipulateur de plaques de marbre A.1.2- Modéliser le système manipulateur de plaque de marbre en complétant lactigramme Ao suivant.
+Vérin d'inclinaison chaine
+Vérin d'élévation
+Ao
+A.2-PROJECTION ORTHOGONALE; COUPE ET SECTIONS Compléter; sur le document réponses page 2/20, le dessin de la pièce 2 de la figure A-1 (Manchon type STARFLEX) La vue de face La vue de dessus La vue de gauche en coupe brisée A-A ; la section sortie b-b.
+Figure A-1 Accouplement élastique type STARFLEX
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2015
+Page 1/20
+
+--- page 16 ---
+STI MP-PC
+Document Réponses Partie A Technologie de Conception
+9 H_ 1 8 4 1 2l6 ; WILL 1 8 9
+2
+{
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2015
+Page 2/20
+
+--- page 17 ---
+STI MP-PC
+Document Réponses Partie A Technologie de Conception
+A-3 _ ELEMENTS NORMALISES
+Compléter sur le dessin densemble suivant A.3.1-Le montage du boulon A.3.2-Le montage de la clavette
+Pour voir le montage complet; référer vous à la figure A.1 page 1/20 de ce document. Pour Choisir les dimensions des éléments normalisés, référer vous aux tableaux de lannexe Al du dossier présentation; données et hypothèses   pages de 2/12 à 4/12
+2
 
 
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2015
+Page 3/20
 
+--- page 18 ---
+STI _ MP - PC
+Document Réponses Partie B Mécanique des solides indéformables
+PARTIE B MECANIQUE DES SOLIDES INDEFORMABLES
+B.1-ETUDE CINEMATIQUE B.1.1- Déterminer les torseurs cinématiques B.1.1.1 - De la tige dans son mouvement par rapport au socle (0) au point B, dans la base 3(p71,Z): {9(2/0)}B
+{9(2/0)}B
+B.1.1.2- Du pignon dans son mouvement par rapport au socle   (0) au point B dans la   base 3,(X;, 7s, Z0) {9(8/0}3 :
+{9(3 , /0)}B=
+B.1.2- Déduire deux équations scalaires permettant dexprimer & et B en fonction de i
+à=
+B
+B.1.3- Déterminer les vecteurs vitesses B.1.3.1 - Du point Idu pignon (3) dans son mouvement par rapport au bras V(e3/4) .
+dans la base 34(x4,J4, Zo):
+V(e3/4) =
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2015
+Page 4/20
 
+--- page 19 ---
+Partie B Mécanique des solides indéformables Document Réponses
+STI MP - PC
+rapport au bras dans la base 3,(x,,Y+, Z): Du point J du pignon (5) dans son mouvement par B.1.3.2- VJe5/4) .
+VGe5/4)=
+aux points respectifs I et
+le mouvement de la chaîne par rapport aux pignons et B.1.4- Sachant que déterminer alors la relation entre Q(3/4) et 9(5/4) . J est sans glissement;
+1 
 
+ B.1.5- Déterminer les torseurs cinématiques point D dans la base 3-(,,y , 70 B.1.5.1 - De la tige (8) dans son mouvement par rapport au socle (0) au {9(8/0)}2-
+K{9(8/0)}2
+socle (0) au point D dans la base 3,(7,y-, 7) dans son mouvement par tapport au
+B.1.5.2-Du bras {9(4/0)}2 `
+Session 2015
+Page 5/20
+Concours nationaux dentrée aux cycles de formation dingénieurs
 
+--- page 20 ---
+STI MP - PC
+Document Réponses
+Partie B Mécanique des solides indéformables
+K{9(4/0)}2
+B.1.6- Déduire deux équations scalaires permettant dexprimer V et Y en fonction de /
+Y=
+On considère E = {5,6, Plaque} Yensemble cinématiquement lié à la plaque. Soit G le centre dinertie de {E} défini par HG=LX; B.1.7- Au moment de lopération de levage du bras le vérin dinclinaison V1 {1, 2} constitué par le cotps et la tige (2) est bloqué (lié au socle (0)). Dans ce cas, déterminer B.1.7.1 - Le vecteur rotation du pignon (5) lors de son mouvement par rapport au socle (0) En déduire la nature du mouvement de {E} par rapport au socle (0)
+(5/0) =
+Nature de mouvement de {E} par rapport au socle
+B.1.7.2- Le vecteur vitesse du centre dinertie G de {E} lors de son mouvement par rapport au socle dans la base 34(x4,Y4, Z0
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2015
+Page  6/20
+Y=
 
+--- page 21 ---
+Partie B Mécanique des solides indéformables Document Réponses
+STI MP - PC
+V(G/0)=
+B.1.8- Au moment de lopération dinclinaison de Ja plaque le vérin de levage Vz = {7, 8} constitué par le ce cas, déterminer le vecteur vitesse du centre et la tige est bloqué (lié au socle (0)). Dans donestie G de {Egc au cours de son mouvement par rapport an socle ()
+V(G/0)
+B.2-ETUDE DYNAMIQUE rappelons que dans ce Cette étude est menée au cours de Yopération dinclinaison de la plaque. Nous est bloqué. En conséquence; le le vérin de levage V2 = {7, 8} constitué du corps () ct de la tige cas, socle (0). Les hypothèses à prendre en considération lors de l'étude bras est immobile par rapport au Données et Hypothèses > figurent à la page 6/12 du document < Présentation;, point H, de Yensemble {E} au cours de son mouvement par B.2.1- Déterminer Je torseur cinétique, au rapport au socle (0) dans la base 3,(s,Js,Z)
+{8(E/0)}u
+H, de Yensemble {E} au cours de son mouvement par B.2.2- Déterminer le torseur dynamique, au point rapport au socle (0) dans la base $;(s,ys, 20) Session 2015 Page 7/20 Concours nationaux d'entrée aux cycles de formation d'ingénieurs
 
+--- page 22 ---
+STI MP - PC
+Document Réponses
+Partie B Mécanique des solides indéformables
+{DE/0)}n1
+B.2.3- Tracer le graphe dinteraction et faire le bilan des actions mécaniques extérieures appliquées sur Tensemble {E}. Exprimer le torseur {rŒ > E)} dans la base 3,(x4,J4, 70 -
+{5,6, Plaque}
+RŒ - E) 3 {rŒ _ E)}n Avec MnŒ - E)J
+Concours nationaux d'entree aux cycles de formation d'ingénieurs
+Session 2015
+Page - 8/20
 
+--- page 23 ---
+STI MP - PC
+Document Réponses Partie B Mécanique des solides indéformables
+RE -E)=
+et Mu@7 -E) =
+B.2.4- Ecrire les équations scalaires déduites de Papplication du PFD à Pensemble {E} au cours de son rapport au socle (0) Déduire alors la tension T exercée par la chaine sur le pignon ainsi mouvement par que les autres composantes inconnues des actions mécaniques.
+Les inconnues des actions mécaniques
+1
+"
+T =
+B.2.5- Tracer le graphe d'interaction et faire le bilan des actions mécaniques extérieures appliquées sur le pignon (3) Exprimer le torseur {r(3 _ 3)}c dans la base %Go,Jo,2
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2015
+Page 9/20
 
+--- page 24 ---
+STI _ MP - PC
+Document Réponses Partie B Mécanique des solides indéformables
+)
+R -> 3) 3 {r -3)} Avec Mc(-3)fe
+RG - 3) =
+Mc( - 3) =
+B.2.6- Ecrire les équations scalaires  déduites de lapplication du PFD au pignon au cours de son mouvement par tapport au socle (0) Déduire alors leffort F exercée par la tige (2) sur le bras ainsi que les autres composantes inconnues des actions mécaniques 
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2015
+Page 10/20
+{T6
 
+--- page 25 ---
+STI = MP - PC
+Document Réponses
+Partie B Mécanique des solides indéformables
+Les inconnues des actions mécaniques
+F
+B.2.7- On considère le système {Z} {3, chaîne; E}. Déterminer lénergie cinétique de {Z} dans son mouvement par rapport au socle (0).
+Ec(/0)
+B.2.8- Déterminer les puissances   développées par les actions mécaniques   extérieures   et intérieures au système {E} au cours de son mouvement par rapport au socle (0).
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2015
+Page 11/20
 
+--- page 26 ---
+STI MP - PC
+Document Réponses Partie B Mécanique des solides indéformables
+P int
+PŒ-2/0)
+B.2.9- Appliquer  le  théorème de lénergie cinétique au système au système {2} au cours de son mouvement par rapport au socle (0). En déduire Pexpression de leffort F qu'exerce la tige (2) sur le bras (3) en fonction de la masse M et des données du problème. NB Ilfaudra tenir compte de la réponse à la question B.1.4.
+F
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2015
+Page 12/20
 
+--- page 27 ---
+Document Réponses
+Partie € Automatique
+STI MP -PC
+PARTIE C:AUTOMATIQUE D'EXTRACTION DES BOUES ET DES EAUX DU DECANTEUR C.1- COMMANDE SEQUENTIELLE et actions) de la partie commande dextraction des boues C.1.1- Compléter le Grafcet suivant (réceptivités des eaux du décanteur (Grafcet point de vue commande (niveau 2)). et
+Séquence extraction des eaux
+Séquence extractivn des boues
+MIO
+M2O
+M2O séquence < extraction des eaux suivante C.1.2- Compléter Pexpansion de la macro-€ étape
+M2O
+Expansion de la macro-étape M2O extraction des eaux cycles de formation dingénieurs Session 2015 Concours nationaux dentrée aux
+Page 13/20
 
+--- page 28 ---
+STI MP -PC Document Réponses C.2 Partie C : Automatique ASSERVISSEMENT DE VITESSE DU MOTEUR D ENTRAINEMENT DE LA VIS D ARCHIIEDIE C.2.1- Modélisation du moteur C.2.1.1 - A partir du schéma bloc du moteur de la figure ci dessous; exprimer la vitesse de Q(p) en fonction U(p) et de Cr(p) : Q(p) = H;(p)U(p) Hz (p)Cr(p). Déterminer H; (p) et Hz(p), les mettre sous forme canonique : H; (p) = K1 H2 (p) Kz K1, 1+t1p Exprimer 1+t1p Kz et T1 en fonction des paramètres du moteur kms R, ke et Jew C (p)
+km
+Jep
+E(p)
+ke
+H1(p)
+H2(p)
+K1 = 000022 000
+Kz =
+T1=
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2015
+Page 14/20
+@(p)
 
+--- page 29 ---
+Document Réponses Partie € Automatique STI - MP -PC indicielle du moteur H1 (p) un échelon de C.2.1.2 - Pour Cr(t) 0 Nm et à partit de la réponse présentation; données et hypothèses) , identifier les valeurs de Ki tension u(t) de 1OV (figure C.6 du dossier et Tide la fonction de transfert H1(p) déduire alors les valeurs numériques des paramètres ke, km et Je-du moteur et le On considère R = 12, gain statique Kz de Hz (p)
+K1
+T1
+20
+km
+Je =
+Kz
+AN
+ke
+Le schéma bloc de Fasservissement de Ja figure C.5. (Dossier présentation; données et hypothèses) est mis sous la forme suivante en tenant compte des résultats de la question C.2.1.1. C p)
+Hz(p)
+U(p) {(p C(p) H (p)
+Q(p)
+Qc(p ka
+Moteur
+ka
+Kz 100 rd/sN.m; T1 = 0 2s ; 10 rd/s.V ; Cp)0 Pour toute la suite, on prendra K1
+Session 2015
+Page 15/20
+Concours nationaux dentrée aux cycles de formation dingénieurs
 
+--- page 30 ---
+STI = MP -PC
+Document Réponses
+Partie C : Automatique
+C.2.2- Détermination de Terreur statique On souhaite obtenir une_erreur_statique de position E nulle, deux types de correcteurs sont proposés Correcteur à action proportionnelle (P) C(p) kc et correcteur à action proportionnelle intégrale (PI) C(p) kc + %
+C.2.2.1 - Déterminer lerreur statique de position €() correcteurs
+un échelon   unitaire pour ces deux types de
+C(p) kc
+€(0)
+C(p) =kc + k
+E(c)
+C.2.2.2- Quel est le correcteur qui assure la satisfaction de la performance précision imposée en C.2.2
+C.2.3-Stabilité du système en boucle fermée Dans le cas où C(p) = kc + ki étudier la stabilité du système en boucle fermée en fonction de kc et ki.
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2015
+Page 16/20
 
+--- page 31 ---
+STI MP -PC
+Document Réponses
+Partie C : Automatique
+C.2.4- Réglage des paramètres du correcteur Proportionnel-Intégral (PI) : C(p) = kc + k Les performances souhaitées du correcteur C(p) sont Assurer un temps de réponse t (+5%) <0.3s Obtenir un dépassement maximal D(%) 15% Pour les satisfaire; on se propose de régler les paramètres kc et ki du correcteur C(p) en deux temps.
+C.2.4.1 - Réglage du paramètre kc, (C(p) = kc ; ki =0 ) C.2.4.1.1 - Déterminer la fonction de transfert en boucle fermée H(p) = 22 la mettre sous la forme @c(p) K11 canonique  H(p) Exprimer Ku1 et T en fonction de kc, Ki, T1 et ka 1+Tp
+H(p)
+Ku
+1 =
+C.2.4.1.2- Calculer le gain kc permettant dassurer en boucle ferméc un temps de réponse tr(5%/)=0.3s
+kc
+AN.
+kc
+C.2.4.2- Réglage_du paramètre ki,   ( C(p) = " ;kc = 0 ) C.2.4.1.3- Déterminer la fonction de transfert en boucle fermée H(p) = 2) la mettre sous la forme Qc(p) Donner les expressions du gain statique K de la pulsation propre non canonique H(p) 22+ 2 p+1 03 Wo amortie @0 et du coefficient damortissement 5 en fonction de ki, K1, "1 et ka' C2-21
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2015
+Page 17/20
 
+--- page 32 ---
+STI _ MP -PC
+Document Réponses
+Partie C : Automatique
+H(p)
+K =
+(o
+5
+C.2.4.2.2- Etablir Yexpression du gain ki permettant dobtenir un dépassement maximal D(%) =15%.
+ki =
+AN ki
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2015
+Page 18/20
 
+--- page 33 ---
+STI = MP -PC
+Document Réponses
+Partie € Automatique
+C.2.5. Validation du choix des paramètres du correcteur PI : C(p) kc + k C.2.5.1 - La courbe da la figure C.7 présente la réponse indicielle du système en boucle fermée à un échelon @(t) =200 rds-' pour les paramètres du correcteur calculés aux questions C.2.4.1.2. et C.2.4.2.2
+Réponse indicielle en boucle fermée pour une consigne wc(t) =200 rd.s-1
+250
+5 2 @ ' 1 100 1
+0 04 65 Temps (secondes)
+Figure C.7 : Réponse indicielle du système en boucle fermée à un échelon 0(t) =200 rd.s
+Déterminer les valeurs des Dépassement D
+D(%)
+Temps de réponse tr (+ 5%)
+tr (+ 5%)
+Erreur statique de position
+E(0o
+Les de Bode du système pour les paramètres du cottecteut   calculés C.2.5.2- aux diagrammes questions C.2.4.1.2 et C.2.4.2.2 sont représentés par la figure C.8.
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2015
+Page 19/20
 
-
-
-
-
-
-
-
-
-
-
-
+--- page 34 ---
+STI MP -PC
+Document Réponses
+Partie C : Automatique
+5 1
+1a'
+1 4180
+1a -
+10 Pulsations (radls)
+Figure C.8 : Diagrammes de Bode du système
+Déterminer les valeurs de la Marge de phase Mq
+Marge de gain MG
+MG =
+C.2.5.3. Conclure quant au respect du correcteur PI aux performances imposées Valeurs trouvées aux questions Performances Valeurs imposées C.2.5.1. et C.2.5.2. avec le correcteur PI Rapidité Temps de réponse tr (15%)< 0.3s tr (15%) Marge de gain MG >=15 dB MG Stabilité Marge de phase Mq >= 600 Mq Précision Erreur statique nulle Dépassement Dépassement D(%) inférieur à 15%
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2015
+Page 20/20
+Mo

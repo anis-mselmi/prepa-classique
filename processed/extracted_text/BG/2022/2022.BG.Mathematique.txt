@@ -1,3 +1,61 @@
+--- page 1 ---
+4isdl 4)84+Ji +all eslj cllul flei {Jijs Jsij +si 3 JaalijI Jhuil DsJal >  2022 6)>
+REPUBLIQUE TUNISIENNE Mnistère de FEnseigvement Supérieur. de la Recherche Scientifique Concours Nationaux d'Entrée aux Cycles de Foration d'Ingénieurs Session 2022
+Concours Biologie et Géologie Epreuve de Mathématiques
+Date : Mercredi 01 Juin 2022
+Heure 8H
+Durée : 3H
+Nbre pages : 4
+Barème Exercice 1 (7), Exercice 2 (6) et Exercice 3 (7)
+La qualité de la rédaction et de la présentation; la clarté et la précision des raisonnements entreront pour une part importante dans Yappréciation deg copies. Vusage deg calculatrices non programmables_ est autorisé Tout régultat fourni dans lénoncé peut être admis et utiligé par la suite, même 8il n'a pas été démontré.
 
+ :: ` . ' . 3 . .    . .  `   5 5 ~14 n s  < 6 6 ~16  
+Exercice 1 (7 points) On considère les matrices carrées suivantes  . ? 
+~4 =2 8
+ : . A =  ` 
+0
+=2 4
+et B =
+~2 ~2 6
+5 5 ~14
+On note B = (e1,e2e3) la base canonique de R3 et f et g les endomorphismes de R3 dont les matrices dans la base B sont respectivement A et B. 1 (a) Montrer que 0, -2 et 2 sont les trois valeurs propres de A. En déduire que A est diagonalisable. (b) Soit e = (1,2,1) e= (1,-1,0), 0= (1,1,1) et B' = (e1,02,03) Montrer que B' est une base de vecteurs propres de A et préciser la matrice de passage P de B à B' (c) Calculer P-1 2. Préciser les matrices D et 4 de f et g dans la base B' . Quelle relation existe t-il entre A et D dune part et B et A dautre part 2 3. (a) Vérifier que D3 = 4D. En déduire que D2n+l = 4"D pour tout entier naturel n. (b) En déduire une expression de A2n+1 en fonction de A, puis de A2n+2 en fonc- tion de A2 (c) Montrer que, pour n € N* , il existe deux réels &n et Bn à déterminer tels que An = Qna 2 + BnA. (d) En déduire une relation entre Bn , B2 et B.
+page 1 sur 4
 
+--- page 2 ---
+4. (a) Soit C = A+ B. Sans faire le calcul, justifier que est diagonalisable et donner ges valeurs propres et une base de chacun de ses sous espaces propres correspondants. () Soit @ un endomorphisme de R3 de matrice C dans la base B. On note par F le sous espace vectoriel de R3 définie par F = {u €R3 /9(u) = ~2u}  Montrer que F est le plan déquation x +y _ 2z = 0. (c) Soient u2 5e2 et u3 8 e3. Vérifier que (u2,u3) est une base orthonormale de F. (d) Définir une base orthonormale (u1) de Fl 5 (a) Soit u un vecteur de R3 . Déterminer les coordonnées du projeté orthogonal p(u) dun vecteur u sur FL . Écrire la matrice M de cette projection orthogo- nale p dans la base orthonormale (e1,e2,e3) () En déduire la matrice M' de la projection orthogonale q de E sur le plan vectoriel F. (c) Donner les matrices des projections orthogonales p et q dans la base ("1,u2,u3) .
+Exercice 2 (6 points) Deux joueurs A et B procèdent chacun à une succession de lancers dune même pièce. À chaque lancer, la probabilité dobtenir pile est p (p fixé, p e]0;1[) , et la probabilité dobtenir face est q =1 _ p. Le joueur A commence et il sarrête quand il obtient le premier pile. On note X la variable aléatoire égale au nombre de lancers effectués par le joueur A Le joueur B effectue alors autant de lancers que le joueur A et on note N la variable aléatoire égale au nombre de piles obtenu par le joueur B. On admet que, pour tout x €]o,1[ et pour tout entier naturel n non nul
++0 Ckx" n=k
+xk (1 x)k+1
+1. (a) Déterminer la loi de X. Préciser son espérance et sa variance. (b) Pour tout n € N* Montrer que la loi conditionnelle de N sachant (X = n) est donnée par
+Ckpk(1 _ p)n-k si k <n Vk € N, P(N =klX=n) = sinon.
+(c) Calculer P(N =0), et pour tout k € N* , déterminer P(N =k).
+2. Soient Xet Y deux variables aléatoires indépendantes suivant toutes les deux la loi géométrique de paramètre p. On définit la variable aléatoire Z = |X - YI: (a) Calculer P(Z = 0), puis montrer que 2pq~ Vn € N* ,P(Z = n) = 1+9 (b) Montrer que Z admet une espérance et la calculer. (c) Montrer E((X - Y)2) = 2V(X) (d) En déduire que Z admet une variance et la calculer.
+page 2 sur 4
 
+--- page 3 ---
+3. Dans une population; la probabilité qu' une personne demande à être vaccinée contre la covid 19 est p =0,1. On constitue; dang cette population, un échantillon de n individus et on note U la variable aléatoire comptant le nombre de personnes de léchantillon qui demandent à être vaccinées. (a) Quelle est la loi de U? On suppose maintenant que n = 10000. (b) Donner lespérance et la variance de U. (c) Montrer quon peut approcher U par une loi normale. Donner ces paramètres (d) Pour des raisons de conservation limitée des vaccins, le nombre de vaccins disponibles pour servir cet échantillon de 10000 individus est limité à une valeur &lim qui correspond au nombre maximal de personnes qu'on peut vac- ciner. On appelle Rle risque de ne pas pouvoir répondre à une demande mas - sive de vaccination. Quel nombre Qlim de vaccins faut-il prévoir pour que le risque R soit au plus égal à 1%? (On donne 0(2.33) = 0.99 où 0 est la fonction de répartition de la loi normale centrée réduite).
+Exercice 3 (7 points) Toutes les variables aléatoires rencontrées dans cet exercice sont supposées définies sur un espace probabilisé (0,A,P). On considère la fonction définie par
+3
+si
+x> 1
+f (x)
+0
+sinon
+1 (a) Vérifier que la fonction f peut être considérée comme une densité dune cer- taine variable aléatoire X. (b) Déterminer la fonction de répartition de X. 2. Soit U une variable aléatoire suivant la loi uniforme sur J0,1[ et soit V une va- 1 riable aléatoire définie par V = Vi = (a) Rappeler la fonction de répartition de U. (b) Déterminer la fonction de répartition de V et vérifier que les variables aléa- toires V et X suivent la même loi. 3. On pose Y = 2n(X)  Déterminer la fonction de répartition de Y et déduire que Y suit une loi exponen - tielle de paramètre 1 +0 4. Dans la suite, on souhaite obtenir des valeurs approchées de J = e-23 dx. (a) Justifier que lintégrale J est convergente. (b) On pose que Z = eY-Y3 Justifier que J est lespérance de Z et que Z admet une variance. 5. Soit (Zk)k21 une suite de variables aléatoires indépendantes de même loi que Z. On pose 1 Mn = Ézx et 82 1 É(zk = Mn)? nk=i nk=i
+page 3 sur 4
+
+--- page 4 ---
+(a) Montrer que Mn est un estimateur sans biais de E(Z) (b) Montrer que pour % > 0, lim P Mn E(Z)| < & Sn) =20(0) - 1 n-++0 où @ est la fonction de répartition de la loi normale centrée réduite. (c) Déduire un intervalle de confiance de J en fonction de Mn, Sn et n au risque derreur 5%. On donne @(1,96) = 0,975.   .. . 1 1l . . 4  o   , : .`  ^    1 . * Fin du sujet *
+1 , '
+  `   4 3
+ .
+  ''
+s
+ : ^ [  ` in   ' . . 1 ` n
+ ^
+1 . .     e  1 [ 1   s  ~ . 7  ^ 1 [    
+o  .  :   . ^ `  -
+ n
+ s   1 ^ 
+1  . . .
+page 4 sur 4

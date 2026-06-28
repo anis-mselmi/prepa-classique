@@ -1,7 +1,129 @@
+--- page 1 ---
+4934)42842) (kj#læèbs [9Lzp Y| Jsini Laihsl @llliji ixei-n iss Jaly 2010 624
+REPUBLIQUR TUNISIENNE
+Ministire de [Easeignernene Superieur €: de Ja Recherclc Svienlifique
+Concouxs nationanx {entrée aux cycles de formation & ingéwieurs Sessioe 20541
+Concours Mathématiques et Physique & Physique et Chimie
+Epreuve de Sciences et Techniques de [Ingénieur
+Date Vendredi 04 Juin 2010
+Heure : 8 H
+Durée : 3 H
+Barème :
+Partie A : 3 points
+Partie B : 11 points
+Partie C ; 6 points.
+Lepreuve coinporte trois partics A- Technologie de Conception B- Mécanique C-Automatique. Lx suJet de Fépreuve emis an candisat comporte deux dossiers Preseneatiae, Données et Hypoluèses > & K Document Réponses > . Aucun tulre docuom & 'cst autcrise L'uiisahion des calculatrices Ge Puche {lon programmables est autorisée. Les différeates paties Soit indépendantes et doivent être traitées sur le document réponses. Un seul dossier document réponses est   fourni au candidat et doit   être rendu en totalité, même sans réponses; à la fin de Fépreuve. Le renouvellement de ce dossier est interdit.
+DOSSIER PRESENTATION Ut FT HYPOTHESES
+WsniTUT  Faeparajoirs CbloTHEQUE Aux SFAx etunts 6 Yusiviuxs 5
 
+--- page 2 ---
+Ce dossier comporte 6 pages nurnérutées de l à 6 :
+Présentacion du sujet Page] ; Données €t hypochêses Fartie B : pages 2à4 : DonnÉes et lypothèses Partie € pages 4 à 6.
 
+--- page 3 ---
+Dossicr_Préscntation Donnécs ct Hypothèses UNITE DE SOINS DENTAIRES
+STI MPgPC
+MISE EN SITUATION spécificités opératoires nécessitent linstallation du patient dans une La chirurgie dentaire et ses position couchée particulièrement confortable dans une unité de soins dentaires. Actuellement, cette unité est un ensemble déquipements ultramodernes comportant toutes les commandes et les fonctions dont le praticien de la médicine dentaire doit disposer (Figure 1)
+Scialytique (éclairage)
+Crachoir
+Bras mobile
+Dossier du fauteuil
+Porte
+Assise du fauteuil
+instrunicnts
+Mécanisme dadaptation en hauteur de Passise (Objet de létude)
+Figure 1 : Unité de soins dentaires.
+Je   patient;  représente lélément   principal de lunité et Le   fauteuil, sur  lequel prend place ergonomique. Il peut être réglé de manière à permettre des soins, soit constitue un véritable automate Tarcade dentaire supérieure, soit dans Farcade dentaire inférieure du patient (assise réglable en dans Le dentiste ou chirurgien dentiste est assis sur une chaise à roulettes hauteur, dossier inclinable) . des différents instruments accessibles à portée de main sur un plateau réglable en hauteur et se sert instruments. Le scialytique, servant à éclairer la zone de travail; est fixé sur un bras mobile. En porte-D fauteuil   doit   permettre  de monter un patient  de 200 kg au raison des   contraintes   opératoires, le maximum à une hauteur de 400 mm et à une vitesse confortable de 45 mms.
+Concours nationaux dentréc aux cycles dc formation dingenicurs
+Scssion 2010
+Page = 1 -
 
+--- page 4 ---
+21L-MSPE
+Dossicr_Présentation Données ct Hypothèscs
+PARTIE A : TECHNOLOGIE DE CONCEPTION Les questions relatives à cette partie se trouvent sur le dossier document réponse Pages 1.
+PARTIE B : MÉCANIQUE GÉNÉRALE
+BL. Description fonctionnelle et paramétrage : On se propose détudier   le mécanisme d'adaptation en hauteur de Fassise du fauteuil (siège) Ce mécanisme, représenté par la figure B.2, est modélisé par le schéma cinématique minimal de la figure B.3.Il est essentiellement composé d'un : Figure B.2 : Mécanisme d'adaptation en hauteur de l'assise du fauteuil. Bâti (0) auquel est lié le repère Ro(O,7oÿo 70) supposé galiléen. Bras (1) en liaison pivot d'axe (O,y) avec le bâti (0) Le repère R1(0,7pyo, 21) est lié à (1) tel que à = (7o,71) 2 (70,71) (Figure B.4.1). Bras (2) en liaison linéaire annulaire d'axe (K,}0) avec le bâti (0) dune part et en liaison pivot d'axe (F,yo) avec le bras (1) dautre part. Le repère Rz(A,72 yo, 72) est lié à (2) tel que B = (7072) = (70,42) (Figure B.4.2). Fauteuil (3) en liaison linéaire annulaire d'axe (,*) avec le bras (1) dune part et en liaison pivot d'axe (A,yo) avec le bras (2) d'autre part. Le repère R3(A,xo ]o  70) est lié à (3). Motoréducteur (4) en liaison pivot d'axe (B,Jo) avec le bâti (0). Le repère R,(B,X4]o, 74) est lié à (4) tel que 0 = (x0,74) = (Z0,74) (Figure B.4.3) Arbre-vis (5) en liaison pivot d'axe (C,74) avec le motoréducteur (4). Le repère Rs(C,74ys 25) est lié à (5) tel que < = (vo )s) = (24,25) et @ = 05 (Figure B.4.4). Ecrou (6) en liaison hélicoïdale d'axe (E,74) avec Arbre-vis (5) d'une part et en liaison pivot d'axe (D,yo) avec le bras (1) d'autre part. Le repère R6(D,74 yo ,24) est lié à (6) La mise en rotation de larbre-vis (5) entraîne, en fonction du sens de rotation; la montée ou la descente du fauteuil (3)
+B.2. Données géométriques 0A = z 70 ; OB = ao % ~ bo Z0 ; OD = a1 71 - b1 11 ; BC = b4 %4 ; BE = 1 %4 ; ED = b6 %4 ; OF = Fj = L7 ; AF = FR = L x2 ; OR = Aj = x 7 ; 1, x, z, a, B, 0 et € sont des paramètres variables en fonction du temps ; Qo' bo, 01' b1, b4 b6 et L sont des constantes positives.
+Concours nationaux dentrée aux cycles, de formation d'ingénieurs
+Session 2010
+Page =2
 
+--- page 5 ---
+STI MPgPC
+Dossier Présentation Données et Hxpoth 70
+71
+A
+74
+D
+~
+7
+8
+72
+0 7
+B
+Figure B.3 : Schéma cinématique minimal du mécanisme d adaptation en hauteur de ]assise. 70 20 72 B Q 71 K1 0 Jo j B 7 X2
+Figure B.4.1 Orientation de (I) par rapport à (0).
+Figure B.4.2 Orientation de (2) par rapport à (0)-
+70
+0 = 05
+14
+244 45
+74
+3s
+4 Y
+jo
+7
+74
+Figure B.43 Orientation de (4) par rapport à (0). Figure B.4.4 Orientation de (5) par rapport à (4). Figure B.4 Paramètres d'orientation des bases liées aux différents solides.
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2010
+Page  3 -
 
+--- page 6 ---
+STI MPePC
+Dossier Présentation Données et Hxpothèses
+B.3. Hypothèses Le fauteuil   (3), patient   compris; est de masse M et de centre de   gravité G tel que AG 2 d w + h 70 où d et h sont des constantes positives: Tous les autres solides sont de masses négligeables Le plan (0,æ0,20) est un plan de symétrie pour la géométrie et la répartition des charges du mécanisme étudié On suppose que la liaison; au point J, entre le bras (1) et le fauteuil (3) est assurée avec frottement de coefficient f ; Toutes les autres liaisons sont supposées parfaites Laction  mécanique de lécrou (6) SUr le bras (1) est modélisée par  le torseur suivant 74 { (6 + 1)} = où Fest un réel positif: 0 D
+PARTIE C: AUTOMATIQUE
+La présente étude est composée de deux parties indépendantes La première (C.1) porte sur la commande   séquentielle du système délévation du fauteuil, la deuxième   (C.2) est axée sur lasservissement de la position du fauteuil.
+C.1. Commande séquentielle du fauteuil On se propose d'étudier le système délévation du fauteuil assurée par un mécanisme de bras à pantographe (Figure C.1). Un motoréducteur à deux sens de rotation assure la montée (action Mo) et la descente (action De) du fauteuil. Le fauteuil peut se déplacer verticalement entre quatre positions A, B, C et D (A position initiale; B position intermédiaire 1, C position intermédiaire 2 et D : position finale). Ces positions sont détectées respectivement par les variables booléennes a, b, c et d. la mise sous tension, on suppose que le fauteuil est en arêt à la position A (a = 1) Une lampe (Lo) est allumée (Lo = 1) pour indiquer cette position: Elle s'éteint (Lo = 0) dès que le fauteuil quitte la position initiale. Lappui sur le bouton poussoir (dcy) entraîne la montée du fauteuil. Deux variables booléennes (m et n) sont utilisées pour contrôler le déplacement du fauteuil de la façon suivante Lors de la montée du fauteuil (déplacement de la position A vers la position D) Lorsqu'il atteint la position C sim =n le fauteuil doit changer de sens de déplacement si m # n le fauteuil continue à se déplacer vers la position D. Lorsque le fauteuil atteint la position D, il change de sens de déplacement quelque soit létat des variables (m et n)
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2010
+Page 4
 
+--- page 7 ---
+Lors de la descente du faiteuil (déplacement de la position D vers la position A) Lorsqu'il atteint la position B si m =n le fauteuil continue son déplacement jusqu'à la position A si m = 22 le lauteuil doit changer de sens de déplacement. Lorsqu'il atteini la position A si m = 0 e! % = û.le fauteuil s' arrête et le cycle se termine. Dans le cas contraire, Je fauteuil repart vers la position D Cnz lampe (1,1) est alunée lors de la montée du fauteuil et une lampe (L2) est allumée lors de descente
+Fauteui
+D
+Mo
+Bras de pantographe
+Châssis_ (Bât)
+B
+Motoréducteur
+De
+Base
+Figure C.1 2 Vue générale du mécanismne d' élévation du fauteuil. C.2 Asservissement de la position du fauteail On s'intéresse; dans cette partie; à l'étude de lasservissement de la position du fauteuil. Pour cela, on considère le schéma fonctionnel du système en boucle femée (Figure C.2). Yc(p) e(p) U(p) Y(p) Consigne Correcteur Moto Réducteur + Charge C(p) Signal de G (p) Commande
+Figure C.2 : Schéma fonctionnel du système en boucle fermée. Concous Warionaux dentrec aux cyclcs de {ormation dingénieurs Session 2010
+Page 45
 
+--- page 8 ---
+Lisfés des variables
+Yariable Désignation u(t) Tension &alimentation du moleur (signal de ccmmnande) Yc(t) Consigne d élévatioi du faueuil y(t) Elévazion d0 fautcuil (signæl de sortie) e(t) Ecart d  élévatio" &u fauteuil
+Ou svppose que ; Les conditions ipitieles de {outes les grandeucs sont nulles P représente 1 cperateeur de Laplace X(p) représente ia iransformnéc de Laplace de x(t) notée par : X(p) = L[r(t)] La fonction de transfer? du motoréducteur avec la charge est donaéc por : YWe) 0,5 G(p) U(p) P(1+p)(1+2p)
+Les féponses indicielles unitaires; ën bcucle fcrmée, ootenues âvec un correcteur proportion et liil Comrëcteuï Pcoportionnel Dérivé (PD) sont données par la figure C.3.
+Réponsës indicielles
+Cogaerr F Conecîeur PD
+1
+0.
+0.8
+0ê
+0.4
+0.2
+5
+40
+15
+20 25 30 t (sec)
+35
+40   45
+5{}
+Figure C.3 Réponses indicielies unitaires en boucle fermée.

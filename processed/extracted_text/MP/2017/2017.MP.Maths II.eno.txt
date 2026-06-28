@@ -1,3 +1,53 @@
+--- page 1 ---
+République Tunisienne Ministère de VEnseignement Supérieur et de la Recherche Scientifique Concours Nationaur dEntrée aux Cycles de Formation dIngénieurs Session 2017
+Lsdi 1 Z8643 | {414:3ig3pe guies JZav Vbji 21GliJI 8i~Ni €u5 jij 2017 {493
+Concours Mathématiques et Physique Epreuve de Mathématiques II
+Session 2017
+Date: 31 Mai 2017
+Heure: 8H
+Durée 3 heures
+La qualité de la rédaction et de la présentation; la clarté et la précision des raisonnements entreront pour une part importante dans lappré - ciation des copies. Lusage des calculatrices n'est pas autorisé. Tout résultat fourni dans lénoncé peut être admis et utilisé par la suite, même s'il n'a pas été démontré.
+Notations Soit n € N {0,1} On note ( Mn,1(R) () ) Tespace euclidien des matrices à lignes et une colonne et à coefficients réels muni de son produit scalaire canonique défini par VX,Y € Mn1(R), (X,Y) = tXY, où #X est la transposée de X. On note || I| 1a norme associée à ce produit scalaire et par 0 Yensemble Mn,1(R) {0}  Mn(R) désigne Yespace vectoriel des matrices carrées dordre n et à coefficients réels et Sn(R) (respectivement An(R)) le sous-espace vectoriel de Mn(R) des matrices symé- triques (respectivement antisymétriques) Pour A € Mn(R), on note *A la matrice transposée de A, XA le polynôme caractéristique de A, Sp(A) Yensemble des valeurs propres réelles de A et Ex(A) le sous-espace propre de A associé à une valeur propre ^. In désigne la matrice identité de Mn(R)
+Partie I - Quotient de Rayleigh Cas général Pour A € Mn(R), on définit Yapplication RA (appelée quotient de Rayleigh pour la matrice A) par (AX,X) RA 0 + R, X+ IIxIl2 1. Montrer que RA est continue sur . 2. On note Sn = {Xe Mn1(R) | IlxIl = 1} la sphère unité de Mn,1 (R). (a) Justifier que Sn est un compact de Mn,1 (R). (b) Vérifier que VX € @, RA (nul) RA(X). Comparer RA(Q2) et RA(Sn) . (c) En déduire que RA est une application bornée et atteint ses bornes On note dans la suite m minRA(X) et M = max RA(X). Xen Xen
 
+--- page 2 ---
+Concours Mathématiques et Physique
+Epreuve de Mathématiques II
+Page 2 sur 4
+3. Soient X et Y deux éléments de 0 tels que X + Y. (a) On suppose que (X,Y) est une famille libre. Justifier que pour tout t € [0,1], (1 _ t)X+tY + 0. (b) On suppose maintenant que (X,Y) est liée. Prouver qu'il existe Z € 0 tel que (X,Z) et (Y,Z) soient deux familles libres. (c) Construire explicitement un chemin continu Y [0,1] = 0 dextrémités X et Y. Que peut-on conclure ? En déduire que RA(Q) = [m, M] . 5. (a) Justifier que Mn(R) = Sn(R) 0 An(R). (b) Montrer que si la matrice A est antisymétrique, alors RA(X) = 0, VX € 0 (c) En déduire que pour tout A € Mn(R), on a : RA = R 4+4) 
+Partie II Quotient de Rayleigh Cas dune matrice symétrique On suppose désormais que A est une matrice symétrique réelle de valeurs propres 41,42 . . . ,An comptées avec leurs ordres de multiplicités telles que
+A1 < A2 < <An.
+Soit B = (Vi .. . , Vn) une base orthonormée de Mn,1 (R) formée par des vecteurs propres de A telle que Vi € [1,n], AV; = A;Vi: 6. Justifier lexistence de B
+7. (a) Soit la matrice M = Ea;VV; élément de Mn(R). Montrer que M = A. 1=1
+(b) Montrer que pour tout X = ExV; élément de 0, on a : I=zl
+Ex RA(X) = É x2 8. Calculer RA(V;) pour tout i € [1,n]. 9. (a) Montrer les égalités A1 min RA (X) et An max RA(X). Donner RA(@2). Xen Xen
+(b) Vérifier à laide de la matrice que les égalités de la question 9. (a) ne sont pas vraies lorsque A nest pas symétrique. 10. Montrer que si A (aij)isijsn alors À1 < a;i < An pour tout i € [1,n]- 1l. (a) Montrer que RA est différentiable sur 0 et que pour tout X € 0,
+VRA(X) (AX_ RA(X)X) . TxI?
 
+--- page 3 ---
+Concours Mathématiques et Physique
+Epreuve de Mathématiques II
+Page 3 sur 4
+(b) En déduire que si X € Q est un point critique de RA alors X est un vecteur propre de A et donner la valeur propre qui lui est associée
+12. Dans cette question; on prend A = où a > 0 et det A > 0, et on définit lapplication sur R? par q(x,y) = ax2 + 2bxy + cy? . (a) Montrer que les valeurs propres de A sont strictement positives (b) En déduire quil existe & > 0 tel que q(x,y) 2 œ (x2_ +y2), V(x,y) € R2. Donner une condition nécessaire et suffisante sur A pour qu'on ait une égalité.
+Partie III Théorème de min-max et application On considère les mêmes notations de la deuxième partie. 13. Pour k € [1,n], on note F un sous-espace vectoriel de Mn,1 (R) de dimension k et Uk le sous-espace engendré par (Vk' Vn) (a) Montrer que Fn Uk contient au moins un vecteur non nul. (b) Pour X élément non nul de FnUk, montrer que RA(X) 2 Ak. (c) On pose G le sous-espace engendré par (Vi.  , Vk). Montrer que pour tout X € G {0},RA(X) < Ak. (d) On note Vk Yensemble des sous-espaces vectoriels de Mn,1 (R) de dimension k Montrer le théorème de min-max
+Ak min max RA(X) Fevk XeF| {0}
+14. Application. On considère deux matrices B et C de Mn(R), où B est symétrique et C est inversible. On considère de plus la matrice M € Mzn  (R) définie par blocs
+M = 'C On où On désigne la matrice nulle de Mn(R). (a) Vérifier que M est symétrique; calculer M On In In On et déduire que M est inversible On note (Ak)1skszn les valeurs propres de M comptées avec leurs ordres de multipli - cités et rangées par ordre croissant (b) Soit le sous-espace vectoriel de Mzn,1 (R) de dimension n W ={ X= (On,1 | X1 € Mn1(R) }' X1 où On,1 est le vecteur nul de Mn1 (R). Vérifier que pour tout X € W | {0}, RM(X) = 0 et en déduire que An <0.
 
+--- page 4 ---
+Concours Mathématiques et Physique
+Epreuve de Mathématiques I
+Page sur
+ii En considérant la matrice (~M), montrer que An+1 > 0, et en déduire que M possède exactement n valeurs propres strictement positives et n valeurs propres strictement négatives comptées avec leurs ordres de multiplicités telles que A1 < -  < An < 0 < An+1 < < 2n.
+15. Dans cette question la matrice M € Mzn  (R) est définie par blocs par
+(On M = tC On
+où C € Mn(R) est une matrice inversible (a) Montrer que toutes les valeurs propres de 'CC sont strictement positives. (b) Pour ^ € R, calculer le produit matriciel par blocs
+AIn ~tc AIn
+AIn On
+et en déduire que
+Xm(a) 'Xc'c(A?)
+ii Montrer qu'on a aussi
+Xm(a) X'cc(42), VA €R iii. Trouver une relation entre Sp(M) , Sp('CC) et Sp(Ctc) (c) Soit ^ € Sp(M). On pose X1 HA2 = { X = € M2n,1   (R) | X1 € Exz(CtC) Xz € Xz , Ex('cc) }
+Montrer que Ex (M) € HA2 . ii Établir que E_A(M) Ex(M) = Haz.
+Fin de lénoncé

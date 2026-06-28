@@ -1,7 +1,122 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de FEnseignement Supérieur, de la Recherche Scientifique, des Technologies de 1Information et de la Communication
+uisil v)aaal sulel Al, alLll 4lel 1jl) JLyl, aLslal 4a9,125) Jsulji 2i jlii aosjl 20145"
+Concours Nationaux d'Entrée dux Cycles de Formation d'Ingénieurs Session 2014
+4l
+Concours Mathématiques et Physique Epreuve de Physique
+Date Jeudi 05 Juin 2014
+Heure : 8 H
+Durée : 4 H
+Nbre pages 8
+Barème Partie I : 10/20;
+Partie II : 5/20;
+Partie III
+5/20
+L'usage dune calculatrice (non programmable) est autorisé L'épreuve comporte trois parties indépendantes. Le candidat peut les résoudre dans l'ordre qui lui convient en respectant néanmoins la numérotation des questions. Un candidat peut toujours se servir dun résultat fourni par ['énoncé pour continuer sa composition.
+Partie I : Electromagnétisme. L'espace est rapporté à un repère R ((Oxyz) Un point M de Fespace peut être repéré soit par ses coordonnées cartésiennes (x,y,z) de base orthonormée directe (4,,ù,,u,) soit par ses coordonnées cylindriques (r,@,z) de base orthonormée directe (0,,7,,4,) On donne rot rotz) = grad div4) _ 4A (0 ^b)^6 =(az)6 (bæ)  = 9x109 SI 4760 L-A) Phénomène dinduction.
+On considère un petit cadre conducteur; de côté a, centré sur Faxe (Oz) , de forme carrée; at- taché à Textrémité dun long pendule isolant supposé sans masse; de longueur 2 =0O' tour - nant autour de laxe (0'z) (Figure I-1) Le cadre conducteur est constitué dun seul enroule- ment de fil de cuivre de conductivité Y _ Ce système baigne dans un champ magnétique uniforme B = Buz I-A-l-Détermination du potentiel vecteur. On suppose que B dérive dun potentiel vecteur À défini par : B = rotu que le vecteur A est orienté suivantù , et qu'1 'il ne dépend que de la coordonnée r. I-A-1-1- Ecrire la circulation de À le long dun cercle de rayon r centré en Oet d axe (Oz) Trouver à Faide du théorème de Stokes; Fexpression de 4 I-A-1-2- En passant en coordonnées cartésiennes; montrer que les composantes de A sont données par
+Concours MP Session de Juin 2014
+Epreuve de Physique
+Page 1/8
+
+--- page 2 ---
+Ax =-By 2 Ay =B1 2 Az = 0
+B = Bu
+4
+Figure !-1
+I-A-2-Champ variable. On suppose que le cadre est maintenu immobile mais que le champ magnétique varie au cours du temps suivant la loi B(t) = Bo cos(ot)uz où Boest une constante positive I-A-2-1- Expliquer comment en pratique; on peut créer u tel champ magnétique dépendant du temps. I-A-2-2- Trouver le flux de B à travers la surface du cadre. En déduire la force électromo - trice e induite dans le cadre. Ce résultat est-il conforme à la loi de Lenz que lon rappellera. I-A-2-3- Application numérique Bo = 0,02 T; 0 = 27 f avec f = 50 Hz a = 1 cm, calculer Tamplitude de e I-A-2-4- Retrouver ['expression de e à laide du champ électrique induit E 1-A-2-5- Calculer rot E 7 et commenter le résultat. I-A-3-Chauffage par induetion. On remplace le cadre par un cube métallique; homogène; de conductivité Y et de côté a, dont on suppose qu'il obéit à la loi dOhm locale. Ce cube qui est ici immobile; est soumis au champ variable B(t) 1-A-3-1- Rappeler la définition microscopique du vecteur densité de courant ] régnant dans le cube. I-A-3-2- Ecrire j en fonction de Em ety I-A-3-3- Exprimer la puissance totale dissipée par effet Joule dans le cube de cuivre. LA-3-4-On_assimile_le champ électrique E au champ Em Trouver le_vecteur_densité-de courant de déplacement jp I-A-3-5- Calculer le rapport des amplitudes de Jp et de ] et commenter le résultat. On donne Y = 108 SI et f = 50 Hz I-A-4- Circuit mobile et champ fixe On suppose désormais que le champ B est constant mais que le cube de cuivre supposé indé - formable est mobile; de vitesse 7 que lon supposera parallèle à Ox pour les petites oscilla - tions du pendule. I-A-4-1- Donner ['expression du champ électromoteur E dans ce cas. I-A-4-2- Ecrire lexpression microscopique de la force de Laplace en fonction de ] et B 1-A-4-3- En déduire dans ce cas; la force dF s'exerçant sur un élément de volume drdu cube; puis la force totale s'exerçant sur le cube. I-A-4-4- Commenter le phénomène physique:
+Concours MP Session de Juin 2014
+Epreuve de Physique
+Page 2/8
+2
+
+--- page 3 ---
+I-B) Effet de peau. Un milen conducteur homogène, isotrope et globalement neutre; occupe le demi-espace y > 0. On appelle Y (constante positive) sa conductivité. Dans Tautre demi-espace; qui est le vide; se propage suivant l'axe y' y , une onde électromagnétique plane de pulsation @, polari - sée rectilignement suivant Oz de vecteur d'onde k dirigé dans la direction des y > 0 Le champ électrique s'écrit alors E=Eoe' i(@t-ky)uz , avec i2 = ~let Eo une constante posi - tive. 1-B-1 - Écrire Jes équations de Maxwell dans le conducteur: En déduire l'équation de tion du champ électrique de T'onde, dans ce milieu La réduire connpte tenuq das on vaciprops g problème I-B-2 - En posant Ez = fly)e iot trouver   ]équation différentielle   vérifiée par la fonc - tion fly) I-B-3-La pulsation de Fonde dans le vide vérifie la condition W < < 1 Réduire encore cette €0 équation et l'intégrer. I-B-4- En déduire l'expression de Ez en supposant qu € on néglige londe réfléchie vers le vide par la surface du métal. Donner la vitesse de phase de l'onde dans le conducteur et Famplitude de son champ électrique. On notera 8 = 2 Hoy@ I-B-5- Les expressions trouvées à la question précédente; mettent en évidence deux mènes physiques. Les phéno - indiquer. I-B-6- Un tuyau daxe_y' y , infiniment long dans-la-partie   y-> 0, de dimensions, a sui - vant (Ox) , et b suivant (0z) , est constitué du métal précédent de conductivité 7 On admet que Fexpression du champ électrique trouvée précédemment reste   valable ici. Trouver  la puissance moyenne P dissipée par effet Joule. I-C) Propagation guidée entre deux plans. On considère deux plans métalliques parfaitement conducteurs placés en x = 0 et r = a (Figure [-2). On se propose détudier la propagation dans le vide qui règne entre ces deux plans; d'une onde_électromagnétique de pulsation @ dont le champ électrique_est_donné_en notation complexe par 5 2 Eo-sin 7 X e ilot-k)uy' Où Eo est une constante positive: a X
+Conducteur parfait $
+X =a
+vide
+X=0
+Conducteur parfait $
+Figure [-2
+Concours MP Session de Juin 2014
+Epreuve de Physique
+Page 3/8
+
+--- page 4 ---
+1-C-1-1- Trouver à partir de léquation de propagation du champ électrique;   la relation entre @, k, a et c (vitesse de la lumière dans le vide) . [-C-1-2- En déduire la condition de propagation de cette onde entre les deux plans. Donner la fréquence de coupure I-C-2- Écrire la vitesse de phase Vp de cette onde. Le milieu est-il dispersif ? Justifier et comparer cette vitesse à la vitesse de la lumière dans le vide c. I-C-3- Déterminer la vitesse de groupe 4# comparer à c et commenter? I-C-4- Déterminer le champ magnétique B Est-il transversal? Londe électromagnétique associée à (7,5) est-elle plane? Justifier. I-C-5- Écrire le vecteur de Poynting R(z,t) ainsi que sa valeur moyenne dans le temps. I-C-6- On rappelle que la force élémentaire exercée sur une surface élémentaire ds dun conducteur est; en notation réelle, donnée par dF = 16 E+J, ^ B)ds 2 I-C-6-1- Proposer une explication du facteur 2 2 I-C-6-2- Déterminer les densités surfaciques de charges 0 et G qui apparaissent sur les deux plans conducteurs; situés respectivement en x = 0 et x = a I-C-6-3- Déterminer les densités surfaciques de courant J,et ], qui apparaissent sur les deux plans conducteurs situés respectivement en x = 0 et x = a I-C-6-4- Écrire les forces dF(x = 0) et dF'(x = a). Conclure. I-C-6-5 En déduire que l'onde exerce sur chacun des plans conducteurs une pression P que Ton déterminera. Qu'appelle t-on cette pression? Partie II : Interférences Lumineuses. On donne cos(a) + cos(b) = 2cos( a+b Jcos( a =b 2 2 II-A) Dispositif interférentiel des trous d'Young. Le dispositif interférentiel des trous d' Young est schématisé sur la figure II-1 il comporte une source lumineuse S ponctuelle et monochromatique, placée au foyer objet dune lentille convergente Lo, de distance focale fo = 2,6m La lumière diffractée par les trous 01 et O2 est reçue par une lentille convergente L de distance focale f' = 1,5m Dans le plan focal de L, on place un écran d'observation E. On désigne par 40 = 579,1nm la longueur d'onde dans le vide de la lumière émise par la source et par d =5,0 mm   la distance des deux trous. L'ensemble du dispositif est plongé dans Fair dont Findice de réfraction est no =1 41 Lo E 01 5 M
+C
+fo
+0z
+Figure II- 1 Le dispositif des trous d' 'Young L'axe z'Oz est V'axe optique des lentilles Lo et L. Le point 0 est le foyer image de la lentille L
+Concours MP Session de Juin 2014
+Epreuve de Physique
+Page 4/8
+
+--- page 5 ---
+II-A-1- Reprenez ce schéma sur votre copie et effectuer la construction géométrique des deux rayons issus de $ qui arrivent au point M du plan focal image de la lentille L II-A-2- On note X Tabscisse du point M. Déterminer en fonction de x,d et f la différence de marche 8 des deux ondes qui interfèrent au point M II-A-3- Décrire brièvement le phénomène observé sur 1écran E occupant le plan focal image Oxy de la lentille L. On donnera en particulier la position de la frange brillante dordre p . Calculer littéralement et numériquement linterfrange i II-A-4- On rappelle que l'intensité lumineuse au point M est donnée par 1(x) 2 210 (1 + cos p) où @est le déphasage entre les deux ondes qui interfèrent au point M. Exprimer 6 en fonction de xet i Tracer la courbe représentative de I(x) en fonction de x II-A-5- On suppose que la longueur donde dans le vide de la lumière émise est % = 576,9 nm au lieu de ^0 Calculer la valeur numérique du nouvel interfrange i' II-A-6- La source lumineuse est maintenant dichromatique la lumière émise est composée des deux rayonnements monochromatiques envisagés ci-dessus et dont les longueurs donde dans le vide sont ^et ^ 0 Ces deux composantes monochromatiques ont la même puissance démission I0 Leurs longueurs d'onde étant très voisines; elles paraissent de la même couleur (jaune) sans que [œil puisse distinguer Fune de Fautre. On appelle ordre dinterférence de la composante de longueur d'onde ^o (respectivement 40) le rapport p = 8-(respectivement p' = 8-) 10 10 II-A-6-1- En quels points de lécran les ordres d'interférence p et p' sont-ils égaux? En quels points de Fécran les ordres dinterférence  p et p' diffèrent-ils de 1 2 2 En quels points de lécran les ordres d'interférence p et p' diffèrent-ils de 1? Dans chacun des cas demandés; on exprimera les abscisses des points de lécran en fonction de iet i' et on calculera leurs valeurs numériques. On donnera également les valeurs numé- riques des ordres d'interférence p et p' II-A-6-2- On observe les interférences sur lécran E. Exprimer lintensité lumineuse   I,(x) au point M en fonction de X , i, i' et de sa valeur maximale 1 max Tracer I1 (x) en fonction de x Donner une interprétation sommaire de cette courbe. II-A-6-3- Que se passe-t-il au voisinage des points de lécran où les ordres d'interférence p 1 et p' diffèrent de 2 2 Que se passe-t-il au voisinage des points de lécran où les ordres d'interférence  p et p'diffè - rent de 1? II-B) Mesure de la distance angulaire entre les deux composantes dune étoile double. On utilise le dispositif de la figure II-2 pour observer une étoile double assimilée à deux sources lumineuses ponctuelles de même puissance d'émission Io mutuellement incohérentes S et $'. La distance angulaire entre les étoiles est égale à à 
+Concours MP Session de Juin 2014
+Epreuve de Physique
+Page 5/8
+
+--- page 6 ---
+Le point S' est à Finfini sur laxe optique du système; le point S est dans le plan Oxz et placé de telle sorte que les rayons qu'il émet sont inclinés dun angle & avec laxe optique du sys - tème (Figure II-2) On se place dans le cas où le système ne reçoit qu'une radiation de lon- gueur donde ^o Lentille L Trous d'Young 1A,  lo Rayons M  2 7 0   , Az Vers $    02 Ecran  Rayons 2 Figure II-2  
+II-B-1 - Déterminer Fintensité lumineuse produite au point M par chacune des composantes de Fétoile double. En déduire lintensité totale I,(x) produite par l'étoile double. II-B-2- Montrer que pour certaines  valeurs particulières de la distance d Tintensité devient uniforme. II-B-3- Déterminer la plus petite de ces valeurs; notée dop en fonction de ^eta A. N. Pour ^o = 580nm on mesure do = 1,32m. En déduire & en seconde darc . Partie III : Principes de base de FHolographie: La réalisation dun hologramme est constituée de deux étapes. La première; ]'enregistrement, consiste à garder une trace de la phase dun objet par interférométrie en utilisant une onde de référence. La seconde; la restitution; permet de récupérer la phase en éclairant le film de [enregistrement par la même onde de référence. III-A) Enregistrement. On considère une source ponctuelle monochromatique (Laser) de longueur donde 4 que Pon place au foyer objet dune lentille convergente de focale f' (voir Figure III-1). Le fais- ceau émergent arrive sur un interféromètre de Michelson réglé en coin dair. Par rapport à la position des miroirs correspondant au contact optique; le miroir Mz est incliné d'un angle a Sp correspond à la séparatrice qui divise le faisceau en deux sans apporter de modification dans le chemin optique on suppose donc que la séparatrice n'introduit aucun déphasage sup- plémentaire.  Lair a le même indice que le vide no =1 III-A-1 - Quelle est la nature de londe à la sortie de la lentille convergente 2, parallèle à Mi ? Dans le repère orthogonal Oxyz tel que laxe Oy est confondu avec larête du coin dair, dé- terminer les composantes des vecteurs d'ondes des deux faisceaux issus du Michelson et qui interfèrent, en fonction de la longueur d'onde ^0 Que vaut le déphasage en 0 ? III-A-2 - Déterminer le déphasage A6 entre londe qui s'est réfléchie sur Mz et celle qui s'est réfléchie sur M1 en un point M quelconque du champ dinterférences. III-A-3- Montrer   que lintensitélumineuse; en un point M situé sur lécran dans le plan z = Dest donnée par lexpression : 27 1(x) = 210/1 + cosl xsin(2a)+ D(l cos(2a ))) | 10 III-A-4- Les interférences sont-elles localisées ou non localisées ? Justifier votre réponse.
+Concours MP Session de Juin 2014
+Epreuve de Physique
+Page 6/8
+
+--- page 7 ---
+III-A-5- Préciser la nature des franges observées. En déduire Fexpression de linterfrange i puis sa valeur numérique. Données 10 = 632,8 nm; a = 1". III-A-6- On intercale maintenant entre la lame séparatrice Sp et le miroir ML, une lame de verre à faces parallèles dépaisseur e et dindice n (représentée en pointillés sur la Figure III-2) Cette lame est disposée parallèlement à M . On néglige les phénomènes de réflexion sur cette lame Quel  déphasage supplémentaire cela implique-t-il pour un rayon traversant deux fois cette lame de verre ? Cette lame occasionne-t-elle une avance ou un retard de phase ? La lame atté- nue Tamplitude de londe incidente et celle-ci, qui valait Ao avant le passage dans la lame, vaut €Ao après deux passages, avec € <<] III-A-7- Déterminer ]' 'amplitude résultante au même point M que précédemment:. III-A-8- Trouver lexpression de lintensité lumineuse. Simplifier en tenant compte de la très faible valeur de € (on pourra faire un développement à Pordre 1). III-A-9- Donner lexpression du nouvel interfrange et comparer avec la valeur précédente. Quelle est 1influence de la lame sur la figure dinterférences ? III-A-10- On enregistre cette figure d'interférences sur une plaque photographique de hauteur L dans une direction perpendiculaire aux franges; disposée sur 1écran précédent.  Combien voit-on, à une frange près, de franges brillantes sur cette plaque ? On donne L = 2,0 cm. III-B) Restitution. Si Ton choisit convenablement le temps de pause; la plaque photographique a un facteur de transparence (ou transmittance) t(x)= a+b I(x), avec a et b deux constantes  réelles, et 1 Fintensité lumineuse au niveau de la plaque, que Von a précédemment déterminée en pré- sence de la lame de verre. III-B-1 - Déterminer la transmittance  t(r) de ce film développé que Von appelle également hologramme. On retire maintenant la plaque photographique du dispositif précédent et on la place au niveau dun trou percé dans un écran opaque (Figure III-3). Les dimensions du trou rectangulaire sont L et h avec h>> L>> 10 On éclaire ensuite ce trou par une onde plane monochromatique de longueur donde ^o , en incidence normale; identique à la source utilisée pour lenregistrement. III-B-2 - Rappeler en quelques mots la signification physique du principe d'Huygens-Fresnel. III-B-3 - Pourquoi peut-on se contenter détudier la diffraction selon une direction parallèle à Ox ? III-B-4 Justifier précisément que lamplitude diffractée à Finfini dans la direction faisant un angle 0 petit par rapport à laxe Oz (Figure III-4) peut s'écrire: L/2 1 2r xsin 0 A(e) = h4o (0) f r)e 10 dx ~LI2 III-B-5- En écrivant le cosinus intervenant dans lexpression du facteur de transparence sous forme de deux exponentielles complexes; montrer que cette amplitude diffractée à Tinfini s'exprime comme la superposition de trois termes dont on donnera Famplitude et la direction du maximum de chacun. III-B-6- À quelle condition ces trois termes sont-ils séparés deux à deux 2 III-B-7 - Montrer que Fun de ces trois termes reconstitue londe initiale réfléchie par le miroir Mi. Comment peut-on alors justifier la sensation de relief ? III-B-8- Un autre terme est souvent nommé (K onde jumelle > Justifier également une telle appellation.
+Concours MP Session de Juin 2014
+Epreuve de Physique
+Page 7/8
+
+--- page 8 ---
+a
+X
+K
+X 3
+
+Mz
+Mz
+5
+S
+2
+Sp
+L
+Sp
+n e
+Mi
+MI
+X
+D
+X
+D
+Ecran
+Ecran
+  
+2
+Figure III-1
+Figure III-2
+X
+ 
+Objet diffractant
+h
+X
+0
+5e
+2
+Onde plane 10
+
+Écran percé
+Figure IlI-3
+Figure IlI-4
+
+
+ 
 
 
 
-
-
-
-
+Concours MP Session de Juin 2014
+Epreuve de Physique
+Page 8/8

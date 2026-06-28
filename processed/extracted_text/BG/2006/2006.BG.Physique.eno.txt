@@ -64,3 +64,11 @@ I- Préliminaire La source lumineuse est monochromatique de longueur donde 1. Le
 Concours Biologie et Géologie Session Juin 2006
 Epreuve de Physique
 Page 3/4
+
+--- page 4 ---
+II- Le  diaphragme D est  maintenant   remplacé par deux fentes   fines   identiques (fentes dYoung) de même largeur & parallèles entre elles et distantes de d > a. Les centres de ces fentes sont situés respectivement en X=+9 et X= - g 19) Décrire la figure observée sur 1écran. 29) Calculer la différence de phase entre deux rayons issus des deux centres 01 et O2 de la 1èr et la 2ème fente, et qui interfèrent à Pinfini dans une direction faisant un petit angle & avec laxe optique. 39) Montrer que lintensité lumineuse diffractée au point Mdabscisse X s'écrit sinIax I(x) = 1f cos2 Ixd Iax 2f Af 40) Déterminer linterfrange i dinterférences: 59) Préciser pour d = 4a, le nombre de franges brillantes se trouvant dans la tâche centrale de diffraction. 69) Tracer la courbe de lintensité lumineuse en fonction de x pour d = 4a. 79) Décrire le phénomène observé sur lécran dobservation a) si on diminue simultanément la largeur a des deux fentes. b) si on diminue la distance d séparant les deux fentes.
+III- Les fentes d Young sont remplacées par un réseau par transmission constitué de N fentes fines identiques de même largeur a. On caractérise ce réseau par son pas d (distance entre deux fentes successives) et par sa largeur & 1%) Qu'observe-t-on sur lécran ? 29) Lintensité lumineuse diffractée en un point du plan dobservation s'écrit sous la forme sin =ax sinNzxd IR(x) = IoR Af Jf Iax Nsin% 1f Af Déterminer les positions des maxima principaux d'intensité. On introduira un entier n appelé ordre du spectre. 39) Tracer lallure de IR(x) 49) La source émet maintenant deux radiations de longueur donde voisines 11 et 12 = 11+ 41. a) Pourquoi observe-t-on une double série de lignes lumineuses décalées sur Pécran dobservation ? b) On suppose que la limite de résolution sur [écran dobservation est atteinte pour n donné si, le maximum principal correspondant à la longueur d'onde 12 se trouve sur le   premier minimum   correspondant à la   longueur donde 11 (critère   de Rayleigh) . Déterminer le pouvoir de résolution R =4 du réseau  41
+FIN DE LEPREUVE
+Concours Biologie et Géologie Session Juin 2006
+Epreuve de Physique
+Page 4/4

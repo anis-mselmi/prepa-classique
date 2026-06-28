@@ -1,7 +1,109 @@
+--- page 1 ---
+4Saji@/ji "bjnalgzts g~b Join Yibji 2uslii Nihi Osjlyji 201669
+REPUBLIQUE TUNISIENNE
+Ministère de /'Enseignement Supérieur et de la Recherche Scientifique Concours Nationaux d'Entrée aux Cycles de Formation d'Ingénieurs Session 2016
+Concours Mathématiques et Physique Epreuve de Physique
+Date Lundi 30 Mai 2016 Heure 8 H Durée 4 H Barème Problème 1 : 11 points Problème 2 points
+Nb pages 8
+l'usage dune calculotrice non programmable est autorisé. L'épreuve comporte deux problèmes indépendants, le candidat peut les résoudre dans l'ordre qui lui convient, en respectant néanmoins la numérotation des questions. Un candidat peut toujours se servir dun résultat fourni par l'énoncé pour continuer sa composition;
+Données numériques Permittivité électrique du vide €o =8,85 10 I2SI Vitesse de la lumière dans le vide €= 3 108 ms Constante de Stefan 0 = 5,67 10 Wm ?K4 Température du soleil Ts = 5770 K Distance Terre-Soleil d = 150 109 m Rayon solaire Rs = 108 m
+Formulaires (I+e)" =I+a e+90 12 pour € <<1 grad V(r,0) @Ku,+Zavu, dr 90
+Rappel L'énergie électrostatique W. d'un ensemble de N charges q1 92,. qN, isolées dans le vide et placées en des points M , Mz, Mv s'écrit We av V, est le potentiel créé au point M;. 2 1=1
+Problème 1
+[-Etude dun doublet La figure 1 représente un doublet formé de deux charges électriques ponctuelles fixes 9 et + 9 situées respectivement aux points N et P symétriques par rapport au point 0 origine des coordonnées et séparées par une distance 2a
+Concours Mathématiques et Physique
+Session 2016
+Epreuve de Physique
+Page 1/8
 
+--- page 2 ---
+Un point M quelconque de lespace est repéré par ses coordonnées   sphériques (r,0,4) On se   place dans lapproximation dipolaire 1 = OM >> a. 1. Exprimer   le vecteur moment   dipolaire p de cette distribution.   Quelle est son unité dans le système international ?
+Fig1
+2. En effectuant un développement limité au premier ordre en déterminer en fonction de p, 0,r et €o le potentiel électrostatique V (M) créé par ce doublet. 3- En utilisant   les propriétés de symétrie du dipôle, déterminer  les   composantes et  les paramètres   dont dépend le champ électrostatique E(M) créé par ce dipôle.  En déduire Texpression de E(M)dans la base sphérique. 4. Déterminer les équations des surfaces équipotentielles et des lignes de champ. 5. Déterminer l'énergie électrostatique W. de ce doublet. 6. Le dipôle est maintenant soumis à un champ électrique extérieur Eo uniforme faisant un angle % avec laxe Oz. 6.1 Déterminer la résultante des forces exercées sur le dipôle. Conclure. 6.2 Déterminer, par rapport à lorigine O, le moment 7 du couple de ces forces. 6.3 Déterminer l'énergie potentielle Up de ce dipôle. 6.4 En déduire ses positions déquilibre et discuter sa stabilité
+II- Etude de la molécule de dioxyde de carbone en régime statique. 7 Le dioxyde de carbone (gaz carbonique) est un composé inorganique dont la formule chimique est CO2. Cette molécule est constituée de deux atomes d'oxygènes situés de part et dautre dun atome de carbone à la distance a=116,3 10-"2m (Fig.2) Les  liaisons CO sont polarisées de telle manière  que les atomes O=C=0 doxygène   portent chacun une charge 79 alors que   latome de Fig. 2 carbone possède une charge +29. 7.1 En supposant que ces charges sont ponctuelles, exprimer l'énergie électrostatique W. de cette molécule en fonction de 9 € et a. Conclure . 7.2 On pose 9 = 8 eoù eest la charge de lélectron et 8 un coefficient tel que 0 <8 <1. Calculer We en eV. On donne 8 = 0,25 e =1,6 10-1C leV 1,6 10-19J 8. Latome de carbone de la molécule CO2 est situé au point 0 origine des coordonnées. Les deux atomes doxygène sont situés aux points N1 et Nz (Fig. 3) On se propose de calculer le champ électrostatique créé par cette distribution au point M(r,0,) tel que OM = r >> a 8.1 Sachant que les deux liaisons CO peuvent être assimilées à deux doublets (-9,+9), en déduire le moment dipolaire de la molécule CO2. 8.2 Quelles  sont  parmi les molécules suivantes HzO, NH3, Nz, O2 et HCI, celles qui possèdent un moment dipolaire non nul ? Justifier.
+Concours Mathématiques et Physique
+Session 2016
+Epreuve de Physique
+Page 2/8
 
+--- page 3 ---
+9. Exprimer le potentiel V(M) de la molécule CO2 en fonction de 9,r, Y;, Yp et €0 10. En   faisant un développement   limité au second ordre en 9 on montre que ce potentiel s'écrit
+9a V(M) = = (1-3cos? 0) Aneof
+Fig3
+10.1 Déterminer, dans la base sphérique; les composantes du champ électrostatique 7 (M) . 10.2 Retrouver l'expression du potentiel pour 0=1/2 à partir de la question 9
+III   Interaction de la molécule COz avec une onde électromagnétique. En réalité, les atomes de cette molécule sont en mouvement doscillation autour de leur position déquilibre. On excite le gaz CO2 (supposé occuper tout le vide Baz COz demi espace x>0 (Fig.4)) à laide d'une onde plane monochromatique dans le vide de pulsation @, caractérisée en notation complexe par un champ électrique onde incidente
+|; =Eo eiw-kox) 4, Les   grandeurs Eo et ko sont des constantes Fig. 4 positives . On constate une absorption du rayonnement électromagnétique quand la pulsation de londe incidente coïncide avec la pulsation propre d'oscillation du gaz. Dans ces conditions le gaz est 0 caractérisé par un indice complexe et un nombre donde k qui sont reliés par k=n
+avec n=n-inz et k = ki-ik2 où i est le nombre complexe tel que i? = -1 et n1 n2, k1 et k2 sont des constantes positives. 11. Ecrire en notation complexe lexpression du champ électrique E(xt) de Tonde pour x>0. 12. Lintensité I(x) de cette onde dans le gaz (exprimée en Wm est proportionnelle au carré de Famplitude réelle du champ électrique: Elle est régie par la loi: I(x) = 1 e Box 12.1 Quelle est la dimension de Bo ? 12.2 Exprimer le coefficient d'absorption Bo en fonction de kz, puis en fonction de n2. 12.3 Sachant que pour la longueur donde 1=4,3 pm, Fintensité de Fonde à une profondeur L=10 km est le dixième de celle à lentrée de la couche atmosphérique, déterminer la valeur de Bo. 12.4 En déduire les valeurs de n2 et k2.
+Concours Mathématiques et Physique
+Session 2016
+Epreuve de Physique
+Page 3/8
 
+--- page 4 ---
+IV Veffet de Serre La température de la surface de la terre ne cesse d'augmenter en raison de laccumulation de gaz à effet de serre dans latmosphère. C'est dans ce contexte que s'inscrit la présente étude qui consiste à modéliser ce phénomène afin de retrouver tout dabord la valeur réelle de cette température puis calculer sa variation en fonction de la concentration de  CO2 dans Tatmosphère. Pour toute la suite; le soleil et la terre sont assimilés à des corps noirs de températures respectives Ts et Tr
+IV.1 Equilibre radiatif de la Terre sans atmosphère 13. Donner la définition dun corps noir. 14. Rappeler la loi de Stefan pour ce corps. 15. Dans une première approche, on ne tient pas compte de latmosphère. 15.1 Exprimer   la   puissance Ps émise par le   soleil et calculer sa valeur . En déduire Texpression du flux surfacique  P reçu sur terre en fonction de Ps et de la distance d séparant la terre du soleil. 15.2 On suppose que la puissance du rayonnement solaire reçue par la surface de la terre se réduit à celle reçue par un disque de rayon Rr (Rayon de la terre). Sachant que cette puissance doit être repartie sur toute la surface de la terre, montrer que le flux surfacique Ps Ps reçu au niveau de celle ci s'écrit Ps 167d2 Calculer la valeur de @s. 15.3 En déduire la température Tr de la terre. Conclure_
+IV.2 Modèle parfait de leffet de serre atmosphérique 16 On tient compte maintenant de latmosphère en lassimilant à une vitre de température Ta placée au dessus de la surface de la terre: Celle ci émet le flux surfacique @r , Patmosphère émet le flux   surfacique Pa vers   la terre et Pa vers  le ciel. De plus 1atmosphère est totalement transparente au rayonnement solaire; et se comporte comme un corps noir pour le rayonnement infrarouge émis par la terre. 16.1 Dans une première étude, on néglige   la réflexion du   rayonnement solaire par Patmosphère. Faire les bilans radiatifs pour la terre et pour l'atmosphère. En déduire les températures Tr et Ta. Commenter la valeur de Tr . 16.2 En réalité 22,5% du flux solaire  Ps est réfléchi par latmosphère et le reste atteint la terre. Déterminer le nouveau flux incident €; reçu par la surface de la terre. 16.3 En déduire les nouvelles températures Tr et Ta. Commenter la valeur de Tr
+IV3 Modèle plus réaliste de Peffet de serre atmosphérique Pour se rapprocher davantage de la réalité, on suppose que L'atmosphère absorbe la fractionœ du flux surfacique $ tandis que la terre absorbe la fraction (1-œ) de ce flux (Fig. 5).
+Concours Mathématiques et Physique
+Session 2016
+Epreuve de Physique
+Page  4/8
 
+--- page 5 ---
+L'atmosphère rayonne comme un corps gris. On admet que pour un tel corps, la loi de Stefan s'écrit P = 'EoT où est un coefficient appelé émissivité (0 <e <1) . L= 'atmosphère absorbe seulement une fraction 6 du rayonnement émis par la terre on choisit 8 = e=0,8- 9s, 9-p#| Pa
+('~") 
+Ir
+Fig. 5
+17.En écrivant les équations traduisant les équilibres radiatifs pour latmosphère et la terre, exprimer Tr et Ta en fonction de œ, €, 9s et 0 Calculer Tr et Ta. On donne Q = 0,25 18. En réalité, la valeur de la température de la terre déduite dune mesure par satellite vaut Tr-288 K. Commenter la valeur Tr calculée à la question précédente. Conclure quant au modèle utilisé. Calculer le flux surfacique @r émis par la terre.
+IV.4 Variation de la température de la terre en fonction de la concentration de CO2 La terre est toujours considérée comme un corps noir en équilibre thermique à la température T1-288K. L'atmosphère est modélisée par une couche de gaz à effet de serre. 19. Sachant que le rayonnement émis par la terre est situé dans l'infrarouge, expliquer pourquoi   appelle-t-on le gaz CO2 un gaz à effet de serre. 20. Une   variation AC de la concentration de CO2 conduit à une augmentation de la température de la terre de AT et contribue donc au réchauffement climatique:
+On montre que AT est liée à AC par la relation
+AT = 2 AoT;
+Log 1+Ac) avec Co
+5,35 Wm-2
+Co= 0,0280 % est la concentration de CO2en pourcent dans latmosphère à lannée 1800 prise comme référence.
+20.1 Sachant que cette concentration vaut C-0.0404% au début de l'année 2016, calculer AT durant  la période comprise entre 1800 et 2016. 20.2 Recalculer la variation AT en considérant un triplement de la concentration en CO2 depuis lannée 1800.
+Concours Mathématiques et Physique
+Session 2016
+Epreuve de Physique
+Page 5/8
 
+--- page 6 ---
+Problème 2
+Préambule
+On   considère un dipôle   électrique oscillant   (Fig.1) dont le moment dipolaire en notation complexe s'écrit =i@t p(t) =poe ùz où po est son amplitude. Ce dipôle crée dans Fespace un champ électromagnétique (E,B) dont les expressions en un point M quelconque de   lespace, repéré par ses coordonnées sphériques (r,0,0) sont les suivantes
+2cos0 4= P A7S0 r3
+p sin 0 p P ù, + "0 r2 4180 r3 r? c rc2
+B = Hosin0 P P 41 r2 rc
+où p,P et p sont respectivement le moment dipolaire; sa dérivée première et sa dérivée
+seconde par rapport au temps à linstant
+i(kr-@t) 21 A cet instant, on peut écrire en notation complexe p Pe où k 1 étant la longueur donde de londe émise par le dipôle. 1. Montrer que les expressions complexes des champs E et B peuvent se mettre sous la forme 7=2Pocos@ ( ~ikr)ei(kr - 0t) 0, + Posin8 (1~ikr ~k'r')ei(kr _ @t) < Afeor 4Teo' Ho@Po sin@ (i+kr)e' i(kr _ @t) B = < 4nr2 2. En comparant à 2 , ces expressions peuvent se simplifier. 2.1 Que deviennent les expressions de " et E pour r < ^ ? Commenter 2.2 Dans la région r > ^ , c'est-à-dire dans la zone de rayonnement, exprimer les champs réels 7 et B Montrer que londe présente localement la structure d'une onde plane. 3. Calculer   le   vecteur de Poynting R dans cette zone. En déduire sa valeur   moyenne temporelle ( R) - Déterminer le flux Pm de (R) à travers une sphère de centre 0 et de rayon r. Que représente Pm ? Est-ce que Pm dépend de r ? Commenter.
+II- Antenne rectiligne ILl Etude du cas général
+La figure 2 représente   une antenne rectiligne émettrice dondes hertziennes   constituée dune tige métallique de longueur 2e alimentée en son milieu par un circuit qui délivre un courant alternatif de haute fréquence
+Concours Mathématiques et Physique
+Session 2016
+Epreuve de Physique
+Page 6/8
+Fig 1
 
+--- page 7 ---
+Chaque élément de   longueur dz de   lantenne   peut être considéré comme un dipôle électrique oscillant de moment dipolaire dp tel que Vp=Idzu,. Dans cette antenne ['intensité du courant dépend de z et du temps t suivant la loi I(z,t)=I (1 = H)cos  @t Fig 2 Déterminer à t=0, les positions des nœuds et de ventres du courant. 5. Exprimer le champ électrique élémentaire dE créé en un point M de la zone de rayonnement par un élément de courant Idz situé au point P 6. On admet que le champ électrique total créé par ]antenne au point M peut s'écrire 1 sin @sin' ( @cos €) E= 2c 'sin@(t-') ù, Teo @ recos? 0 L'onde rayonnée étant localement plane, en déduire ]expression de son champ magnétique
+7 Déterminer la valeur moyenne de son vecteur de Poynting R 8. Soit Pm la puissance moyenne temporelle rayonnée par lantenne à travers une sphère de centre 0 (origine de lantenne) et de rayon r, Exprimer cette puissance sous forme dune intégrale simple. 9. Sachant que cette puissance peut s'écrire sous la forme Pm = Rray 1? où RRay  représente 2 la résistance de rayonnement de lantenne, vérifier que
+@lcos0 sin -)sin' 0 2c 2c Rr7 d0 Teo8@7 coS
+IL.2 Etude du cas particulier @ < 2 On se place dans toute la suite du problème dans le cas & < 1  10. Donner la nouvelle expression de E 11. Montrer que Rray peut se mettre sous la forme RRa =a (2) ou a est une constante à exprimer en fonction de c et €o. Calculer RRay On donne sin' 0 d0 4 1=300m et l=1Om
+12. Calculer la valeur de Pm pour Io =IOA 13. Sachant que Io est   constant, sur quels paramètres doit-on agir pour   augmenter   la puissance rayonnée par |'antenne ? Concours Mathématiques et Physique Session 2016 Epreuve de Physique Page 7/8
 
+--- page 8 ---
+14. Dans la suite de cette partie; on se place dans la direction 0= 2 14.1 L 'amplitude Eo du champ électrique à une distance r dans la zone de rayonnement vaut 210 2 Vm ' En déduire r 14.2 Sachant que la puissance minimale par unité de surface détectée par une antenne réceptrice vaut 1,28 10-8 Wm-2, calculer Famplitude minimale E" min du champ électrique. En déduire la portée Ymar de lantenne (distance maximale atteinte par londe) 14.3 Comment peut-on augmenter la portée de lantenne?
+III Antenne circulaire Une antenne circulaire peut être modélisée par un dipôle magnétique constitué par une spire circulaire de rayon et de surface $, parcourue par un courant   sinusoïdal dintensité I=I cos(wt) , et de moment dipolaire magnétique 71 = Io Scos(wt)u, (Fig3) On montre   que les expressions des   champs   électrique et magnétique créés par cette antenne dans la zone de rayonnement s'écrivent È =_Hosin@ 7 4, B =Hosin 0 7 4, Anr Anr c?
+est la dérivée seconde du moment dipolaire magnétique à
+FigJ
+Finstant t
+15. Comment peut-on déduire ces expressions partir de celles obtenues pour un dipôle électrique dans la zone de rayonnement ? 16. Calculer   le vecteur   de Poynting de cette   onde et en  déduire sa valeur moyenne temporelle Montrer   que la   puissance moyenne Pm   rayonnée par le dipôle est
+proportionnelle à
+17. Déterminer lexpression de la résistance de rayonnement de cette antenne. Calculer pour RRay (=a le rapport B = où RRay et RRay   représentent respectivement les résistances RRay de rayonnement magnétique et électrique des deux antennes. Montrer   que Best
+proportionnel à
+18. On veut   comparer   les   performances   des  deux antennes en  supposant qu'elles sont parcourues par le même courant Io. Pour ce faire, calculer le rapport B pour les longueurs donde 11 20a et 12=100a, et discuter de la performance des deux antennes.
+Concours Mathématiques et Physique
+Session 2016
+Epreuve de Physique
+Page 8/8

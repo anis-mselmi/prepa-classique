@@ -1,6 +1,78 @@
+--- page 1 ---
+4sy1552863j1 æWjxgiats Gyy~ys dosa uibsl eleLini inditl jsss Jal> Gi 2019 6,9*
+REPUBLIQUE TUNISIENNE Ministère de FEnseignement Supérieur et de la Recherche Scientifique
+Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs Session 2019
+Concours Biologie Epreuve dInformatique
+Date Mardi 1l Juin 2019
+Heure 12 H
+Durée 2 H
+Nbr pages 7
+Barème PROBLEME 1 10 points PROBLEME 2 10 points
+DOCUMENTS NON AUTORISES
+L'USAGE DES CALCULATRICES EST INTERDIT
+Il FAUT RESPECTER IMPERATIVEMENT LES NOTATIONS DE L'ENONCE Vous POUVEZ EVENTUELLEMENT UTILISER LES FONCTIONS PYTHON DECRITES A L'ANNEXE (PAGE 7)
+Présentation Générale
+L'apprentissage automatique supervisé permet d'élaborer des programmes capables dapprendre automatiquement à partir dun ensemble de données (dataset) comportant des valeurs d'observations et les décisions qui leur sont associées. Il a ainsi pour objectif de produire un modèle capable de prédire la décision à prendre pour des nouvelles valeurs dobservations. Par exemple; on peut donner au programme dapprentissage un ensemble de données contenant les observations relatives à des patients (tension artérielle; âge du patient et présence dune tachycardie sinusoïdale) et expliquer lesquels ont un risque élevé de crise cardiaque (décision = 1) et lesquels ont un risque très faible (décision = 0). Comme illustré dans le tableau suivant, les lignes représentent les valeurs des observations relatives à un patient et la dernière colonne représente la décision finale:. Une fois 1apprentissage terminé, à partir des observations d'un nouveau patient; le programme; appelé aussi classifieur , devra déterminer automatiquement la décision à prendre (0 ou 1)
+tension âge tachycardie décision 110 50 1 0 119 36 0 0 82 72 0 1 81 70 0 1 56 50 1 1
+Table 1 Exemple de données d'apprentissage:.
+Concours Biologie- Session Juin 2019
+Epreuve d'Informatique
+Page I/
+
+--- page 2 ---
+PROBLEME 1
+L'objectif de ce problème est dimplémenter des fonctions  utilitaires pour la construction dun classifieur automatique à partir des données d'apprentissage.
+Description
+On dispose dun fichier  texte nommé 'donneesObservations.txt' contenant   les   observations relatives à un ensemble de patients. La première ligne est réservée aux noms des observations, séparés par '#, les autres lignes contiennent les valeurs de ces observations; séparées par '#, où chaque ligne est relative à un patient. Exemple Les données de la table 1 sont représentées dans le fichier comme suit tension#age#tachycardie#decision 110#50#1#0 119#36#0#0 82#72#0#1 81#70#0#1 56#50#1#1
+DSET est un dictionnaire représentant les données d'apprentissage; construit à partir du fichier 'donneesObservations txt' , dont chaque clé est le nom dune observation, de type chaine de caractères chaque valeur est une liste contenant les valeurs;, de type entier, prises par 1'observation. Exemple Les données d apprentissage illustrées dans la table 1 sont représentées par le dictionnaire suivant DSET={'tension [110,119,82, 81,56] age' [50, 36, 72, 70, 50] _ 'tachycardie' [1, 0 , 0 , 0 , 1 ] decision': [0 , 0 , 1, 1,1] } NB DSET['tension'][0] , DSET['age'J[0], DSET['tachycardie'J[0] et DSET['decision'J[0] décrivent respectivement les valeurs de la tension; l'âge, la tachycardie et la décision associées au premier patient. La taille de chaque liste associée à chaque clé représente le nombre de patients de DSET.
+Iravail demandé NB Dans la suite; les fonctions demandées seront écrites en langage Python en respectant la nomenclature suivante Nom Iype Description DSET dict Dictionnaires représentants des données d' apprentissage DSETI DSET2 fname str Nom physique du fichier des données dapprentissage ayant la même structure que 'donneesObservations txt' obs str Chaine de caractères_représentant le nom dune observation DISTR dict Dictionnaire représentant la distribution des probabilités des décisions QUAL Dict Dictionnaire   indiquant   les observations qualitatives   et les observations quantitatives s float Seuil de découpage Lc list Liste de tuples où chaque tuple est formé par la valeur dune observation et la valeur de_la décision associée vBest float Impureté donnant le meilleur seuil sBest float Meilleur seuil LSeuil list Liste des seuils_possibles de découpage Concours Biologie- Session Juin 2019 Epreuve d'Informatique Page 2/7
+
+--- page 3 ---
+1. Ecrire une fonction LoadFile qui prend en paramètre une chaine caractères fname contenant le nom dun fichier de même format que 'donneesObservations.txt' récupère et retourne son contenu dans le dictionnaire DSET . 2. Ecrire une fonction nommée CountValues qui prend en paramètres DSET et une chaine de caractères obs contenant le nom dune observation et retourne le nombre de valeurs distinctes pour obs. Exemple L appel de CountValues(DSET , 'age') retourne 4 3 Écrire une fonction nommée EvalDistr qui prend en paramètres DSET et retourne un dictionnaire DISTR où chaque clé, notée d, est une valeur de la décision (0 ou 1); chaque valeur est la probabilité dapparition de d dans DSET exprimée par nombre de décisions de DSET égales à d p(decision = dlDSET) = (Eq.1) nombre de décisions de DSET Si DSET est vide, DISTR= {0:0.5, 1:0.5}  Exemple Lappel de EvalDistr(DSET) retourne {0: 0.4, 1: 0.6}
+4. Ecrire une fonction; nommée IsPure; qui prend en paramètre DSET et retourne un booléen égal à Irue si DSET est pur et False sinon; sachant que DSET est pur, si et seulement si, toutes les valeurs des décisions sont égales. 5. Ecrire une fonction IsQualitative qui prend en paramètre DSET et retourne un dictionnaire QUAL dont les clés sont les mêmes que DSET chaque valeur est un booléen égal à True si la clé est une mesure qualitative (0 ou 1) et False si elle est quantitative (valeur numérique pas nécessairement binaire)  Exemple Lappel IsQualitative(DSET) retourne { tension False, age False, tachycardie Irue, decision Irue} 6. Ecrire une fonction Cut qui permet de découper DSET en deux dictionnaires. Elle prend en paramètres un dictionnaire DSET, une chaine de caractères obs correspondant au nom d'une observation, un réel $ représentant le seuil de découpage et prenant la valeur 0.5 par défaut. Cette fonction retourne un tuple formé par deux listes Ll et L2 : Ll contient les dictionnaires DSETI et DSET2 tels que DSETI et DSET2 doivent contenir les mêmes clés que DSET, exceptée obs DSETI est formée par les patients de DSET où la valeur de lobservation obs, notée Vobs, est supérieure ou égale à S DSET2 est formée par les autres patients de DSET ; L2 contient les probabilités p1 et p2 décrites par les équations (Eq.2) et (Eq.3) : nombre de patients de_DSETI P = p(Vobs > SlDSET) = (Eq.2) nombre de patients de DSET nombre de_patients de_DSET2 Pz = p(Vobs < SlDSET) = =1-p (Eq3) nombre de patients de DSET Exemple L appel Cut(DSET , 'age' , 70) retoume le tuple suivant ( [ { 'tension [82, 81 ] tachycardie' [0 , 0 ] 'decision [1, 1] } , {'tension [110,119,56] , tachycardie' [1, 0, 1] , decision [0, 0 , 1] } ] , [0 . 4 , 0 . 6] )
+Concours Biologie- Session Juin 2019
+Epreuve dInformatique
+Page 3/7
+
+--- page 4 ---
+7. Ecrire une fonction Impurity qui prend en paramètres DSET, obs et un seuil S (ayant par défaut la valeur 0.5). Cette fonction retourne un réel mesurant la qualité du découpage de DSET en deux dictionnaires DSETI et DSET2, calculé selon léquation (Eq.4). p xmin de{0,]} (p(decision = d[DSETI)) + pz*min d{0.} ( p(decision =d[DSET2)) (Eq.4) où DSETI et DSET2 résultent du découpage du dictionnaire DSET selon obs et S ; p1 et p2 sont décrites par les équations (Eq.2) et (Eq.3) p(decision = dIDSET ) est donnée par léquation (Eq.1)
+Exemple Limpureté du découpage illustré dans 1exemple de la question 6 est donnée par Impurity(DSET , age' , 70) = 0.4 x min(0, 1) + 0.6 * min (2 1) =0.2 3 3 8. Ecrire une fonction SortObs qui prend en paramètres DSET et obs, puis retourne une liste Lc obtenue en effectuant les étapes suivantes à partir des deux clés obs et 'decision' , créer la liste Lc qui est une liste de tuples (v,d) où v est une valeur de 1observation obs et d la valeur de la décision associée, puis, trier Lc par ordre croissant suivant les valeurs de obs. Exemple L appel de SortObs(DSET, 'age') retourne [ (36,0) (50, 0 ) (50, 1) (70, 1 ) (72,1) ] 9 Ecrire une fonction BestCut qui prend en paramètres DSET, obs et QUAL et retourne un tuple (vBest, sBest) où vBest est la meilleure impureté et sBest est le meilleur seuil de découpage associé . vBest et sBest sont déterminés comme suit  Cas des observations qualitatives   , sBest= 0.5 vBest= Impurity(DSET,obs)  Cas des observations quantitatives Créer Lc; la liste formée par les tuples (visd;) triée par ordre croissant en utilisant la fonction SortObs. Créer à partir de Lc, une liste LSeuil, contenant les seuils possibles de découpage de DSET , selon les conditions suivantes Si DSET est pur alors LSeuil contient la valeur maximale des vide la liste Lc.  Si DSET est Vi 4Vitl impur alors LSeuil est formée par les valeurs pour les tuples 2 adjacents (vi ,d;) et (vi+1 , di+1) de Lc avec di # di+1 ' Déterminer le meilleur seuil sBest de la liste LSeuil associée à la valeur minimale de limpureté, vBest.  e .
+ .   ; . 84
+ 
+
+
+ s 
 
 
 
+Concours Biologie- Session Juin 2019
+Epreuve dInformatique
+Page 4/7
 
 
+--- page 5 ---
+PROBLEME 2
+Soit la base de données relationnelle intitulée 'classifieurs.db' contenant la description des données dapprentissage avec les classifieurs automatiques créés autour de ces données; représentée par le schéma relationnel suivant DataSet (ds_id, ds_name, nb_instances, format, ds_description) La table DataSet décrit les données d'apprentissage; avec les colonnes ds_id identifiant du dataset (entier), clé primaire. ds name nom du dataset (chaîne de caractères) . nb_instances nombre de lignes du dataset (entier) format le format des données du dataset (chaine de caractères) . ds_description le sommaire du dataset (chaine de caractères)
+Classifieur (cls_id, cls_description, error_rate, language; ds_id) La table Classifieur décrit un classifieur automatique construit à partir dun dataset; avec les colonnes cls_id identifiant du classifieur (chaine de caractère)  clé primaire. cls_description description du classifieur (chaine de caractères) . error rate un nombre réel entre 0 et 1 qui décrit le pourcentage des données où les décisions prédites par le classifieur sont différentes de la réalité. language nom du langage de programmation utilisé pour implémenter le classifieur (chaine de caractère) . ds_id identifiant du dataset utilisé pour 1apprentissage du classifieur, clé étrangère.
+Method (m name, category, m_description) La table Method décrit les méthodes utilisées dans le domaine de 1apprentissage automatique pour la construction des classifieurs, avec les colonnes m_name le nom de la méthode (chaine de caractères), clé primaire. category la catégorie de la méthode (chaine de caractères) . m_description la description de la méthode (chaine de caractères).
+Combine (cls_id_m name, description) La table Combine décrit les méthodes de classification utilisées dans chaque classifieur; de clé primaire (cls_id, m_name), avec les colonnes cls_id identifiant du classifieur (chaine de caractère), clé étrangère. m name le nom de la méthode (chaine de caractère), clé étrangère. description stratégie d'intégration de la méthode dans le classifieur (chaine de caractères) .
+Partie 1 : algèbre relationnelle Exprimer en algèbre relationnelle les requêtes suivantes 1. Déterminer les identifiants, les noms et les descriptions des datasets au format 'csv'. 2. Déterminer les descriptions   des classifieurs implémentés en 'Python' et qui utilisent  la méthode de catégorie 'KNN' .
+Concours Biologie- Session Juin 2019
+Epreuve dInformatique
+Page 5/7
 
+--- page 6 ---
+Partie 2 : SQL Exprimer en SQL les requêtes suivantes 3. Modifier dans la table DataSet les formats 'txt' par 'docx 4. Supprimer les classifieurs implémentés avec le langage de programmation 'Pascal' . 5. Donner les identifiant des datasets pour lesquels il existe au moins un classifieur avec un taux d'erreur < 0.3 (error_rate) 6. Donner les noms des datasets contenant le plus grand nombre d'instances. 7. Donner les identifiants et les noms des datasets où tous les classifieurs sont implémentés en 'Python' 8. Donner les identifiants des datasets jamais utilisés par des classifieurs_ 9 Donner le nombre de classifieurs dont le taux derreur est supérieur à la moyenne des taux derreurs de tous les classifieurs . 10. Donner pour chaque dataset le nombre de méthodes de classification utilisées  11. Donner les informations des datasets associés aux classifieurs produisant le taux derreur minimal . 12. Donner les identifiants et les noms des datasets  autours desquels il existe au moins trois classifieurs implémentés en Java'
+Partie 3 : sqlite3 On dispose d'un dictionnaire dict_M contenant des informations relatives aux méthodes utilisées dans le domaine dapprentissage, où chaque clé est le nom de la méthode chaque valeur est une liste contenant respectivement la catégorie et la description. 13. Ecrire les instructions python permettant de Importer le module sqlite3. Se connecter à la base de données 'classifieurs.db'_ Créer le curseur cur dexécution . Créer la table Method en exprimant les contraintes mentionnées ci-dessus. remplir la table Method à partir du dictionnaire dict_M tracer la courbe dont les abscisses sont les identifiants des datasets et les ordonnées sont les taux derreur moyen des classifieurs associés.
+o  
+Concours Biologie- Session Juin 2019
+Epreuve d'Informatique
+Page 677
+
+--- page 7 ---
+ANNEXE
+Quelques fonctions Python
+Opérations utiles sur les itérables (str, tuple; list, dict, etc.) len(it) retourne le nombre déléments de litérable it. range(d,f) retourne la séquence de valeurs entières successives comprises entre d et f exclu. min(it) (resp. max(it) ) retourne la valeur minimale (resp. maximale) de l'itérable it. x in it (resp. x not in it) vérifie si x appartient à it (resp. n' appartient pas). sorted(it) retourne une liste contenant les éléments de it dans lordre croissant. lst.sort( trie la liste Ist dans Tordre croissant. Ist.count(val) retourne le nombre doccurrences de val dans la liste Ist. lst.append(val) ajoute val à la fin de la liste Ist. Ist remove(val) supprime la première occurrence de val dans la liste Ist:. Ist.index(val) retourne Pindice de la première occurrence de val dans Ia liste Ist. source.split(motif)  retoumne une liste formée par des chaines de caractères  résultant  du découpage de la chaine source autour de la chaine motif: d.values( retoumne un itérable formé par les valeurs du dictionnaire d. ditems( retourne un itérable de couples (k,v) ou k est une clé du dictionnaire d et v est la valeur associée. Opérations sur les fichiers f=open (nomF,m) permet d'ouvrir le fichier nomF en mode m où m=r' ou 'w f.close( permet de fermer un fichier. freadO permet de lire et retourner le contenu dun fichier dans une chaine de caractères. freadline( permet de lire et retourner le contenu de la ligne courante dun fichier dans une chaine de caractères . freadlines() permet de lire et retourner le contenu de toutes les lignes dun fichier dans une liste Opérations sur le module matplotlib.pyplot import matplotlib.pyplot as plt permet le chargement du module plt-plot(x,y) crée la courbe où les abscisses sont décrites par les valeurs de litérable X et les ordonnées par ceux de l'itérable y plt.show( affiche une fenêtre contenant le résultat du dessin.
+Concours Biologie- Session Juin 2019
+Epreuve dInformatique
+Page 7/7

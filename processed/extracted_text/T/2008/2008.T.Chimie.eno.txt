@@ -1,4 +1,87 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de FEnseignement Supérieur, de la Recherche Scientifique et de la Technologie. Concours Nationaux d'Entréc aux Cycles de Formation d'Ingénicurs Session 2008 Concours Technologie Épreuve de Chimie
+yiusli Ful rkal ;ii sujleaaji HajJJissj| Jsib u> JaLii Dhni u J8 Jx 2008 :) >
+Date Mardi 03 Juin 2008
+Heure 8 H Problème N'1 Partie II Partie III 3,5
+Durée : 2 H
+Nombre de pages 5 Problème NP2 Partie [ Partie II
+Partie [ 1,75
+Partie IV 4,75
+Barème /20
+Le sujet comporte quatre pages de texte et un document annexe. Les deux problèmes sont indépendants:
+Les candidats sont priés de présenter leurs réponses dans lordre même de Fénoncé. 'usage d'une calculatrice non programmable est autorisé: Aucun échange n'est autorisé entre les candidats. MsnTUF PAEFSoir DÉBUT DE LÉNONCÉ CoUoTHEqUE {TUres 40 @cirux Problème_N'1 Autour de lélément_cobalt (12 pts2
+Le cobalt de numéro atomique 27 est un élément en faible abondance dans la croûte terrestre   (teneur moyenne voisine de 10 ppm) A létat naturel, il est associé sous forme oxydée à dautres éléments. Ses secteurs d'utilisation sont les alliages; la céramique, etc Ce problème s'intéresse à de nombreux aspects de la chimie du cobalt. Les différentes parties sont totalement indépendantes . est précisé   qu'aucune   connaissance   particulière sur la   chimie de cet  élément n'est nécessaire pour la résolution des questions posées.
+Données (à 298 K2 Masse molaire du cobalt Mco7 58,93 g.mol Nombre d' Avogadro N = 6,023 1023 mol-'_ Rayon de [ion 0? Ro' =1,40 A Produit de solubilité de l'hydroxyde Co(OH)z Ks = 10-15 Produit ionique de l'eau Ke = 10-14 Potentiels standard Couple redox Co3/Co?+ E 1,83 V Co ICo Couple redox HzO/H2(g) E, 0,00 V Couple redox Oz(g)HzO Eb = 1,23 V RT x Ln(x) = 0,06 logio (x) F R=8,32 JK mol-'
+Tournez la page S.V.P.
+Concours Technologie Session 2008
+Épreuv : de Chimie
+Page 1/5
 
+--- page 2 ---
+Partie I Eléments d'atomistique (1,75 pts2
+I-1) Donner la   configuration   électronique de Fatome de cobalt dans son état fondamental. I-2) Préciser la position du cobalt (ligne, colonne) dans la classification périodique. A quel bloc déléments (s, p, d ou f) appartient cet élément ? 1-3) Donner les configurations électroniques des ions Co?+ et Co}+ dans leur état fondamental.
+Partie [I Etude structurale_ (35 pts2
+À la température  ambiante, le cobalt cristallise suivant un empilement hexagonal compact (HC) II-1) Donner les coordonnées réduites des atomes de cobalt dans la maille HC. II-2) Le rayon de latome de cobalt dans la structure HC vaut R 1,25 L ; exprimer en fonction de R puis calculer les valeurs des paramètres de la maille HC. II-3) Citer une technique expérimentale permettant de mesurer ces paramètres. II-4) Donner  l'expression puis calculer   la masse   volumique du cobalt dans cette structure_
+L'oxyde de cobalt CoO cristallise dans une structure de type NaCl de paramètre a = 4,26 %. II-5) L'origine étant sur un anion  oxyde. En se limitant à une seule   maille, représenter la trace des ions sur le 1 plan de la famille (110) après celui passant par lorigine. II-6) Donner les coordonnées réduites des cations appartenant à ce plan. II-7) Vérifier que le réseau anionique n'est pas compact. II-8) Calculer le rayon du cation Co?+
+Partie L Diagramme @Ellingham du cobalt (2 pts2
+Soit la réaction
+3Co(s) + O2(g) = ZCo,O4(s) (1) 2 2
+pour laquelle léquation de la droite dEllingham dans l'intervalle de température [298 K 1000 K] est A,G(T)= 455 +0,193x T (en kJ.mol ')- III-1) Déterminer ]enthalpie standard de formation de loxyde Co,04(s) III-2)   Donner   lexpression puis calculer  la pression de dioxygène à [équilibre à T=298 K. III-3) Le cobalt est-il oxydable par loxygène de l'air (P" =0,2 bar ) à T= 298 K ? III-4) Le cobalt peut être obtenu par réduction de loxyde Co,O(s) par le carbone. L'équation de la droite d'Ellingham correspondant à la réaction d'équation-bilan 2 C(s) + O2(g) 22 CO(g) (2) est ArG2(T) = 221-0,179xT (en kJmol-') Concours Technologie Session 2008 Épreuve de Chimie Page 2/5
 
+--- page 3 ---
+Écrire léquation de la réaction de réduction: Déterminer le domaine de température dans lequel cette réduction est possible dans les conditions standard.
+Partie IV Diagramme potentiel pH du_ cobalt (4,75 pts2
+La figure 1 (annexe; page 5/5) représente le diagramme simplifié du cobalt établi pour une concentration en cobalt   dissout Co"* 0,01 mol.L où seules sont considérées les entités suivantes : Co(s) Co?+, Co Co(OH)2(s) et Co(OH);(s). IV-1) Attribuer à chacun des domaines numérotés (3) et (4) l'espèce correspondante en précisant s'il s'agit de domaine de   prédominance ou dexistence IV-2) Établir les expressions puis calculer les grandeurs suivantes a) Le potentiel standard du couple Co?*ICo(s). b) Le pH de début de précipitation de lhydroxyde de cobalt(II). c) Le potentiel standard redox Eco(OH), 'co à partir de E Ke et Ks. Co 'Co(s) IV-3) Établir léquation de la droite frontière (MC) IV-4) Montrer analytiquement que les deux droites frontières (AB) et (CD) sont parallèles . IV-5) Écrire les expressions   des   potentiels   d'électrode pour les   couples   redox HzO/H2(g) et O2(g)HzO (on prendra Pn; Po =lbàr} IV-6) Discuter la stabilité du cobalt métallique en solution aqueuse. IV-7) Les ions Co3+ sont-ils stables en solution aqueuse ? Justifier votre réponse.
+Problème_N?2 Equilibres_liquide-vapeur (8 pts2
+Doppées Température de vaporisation standard de l'eau Tvap =373 K. Volume molaire de leau liquide supposé constant VJiq 18 cm mol-! Masse volumique de 1eau liquide Pe 1 g.cm o ~7 35v Constante des gaz parfaits R= 8,32 JK mol?l Enthalpie molaire de vaporisation de leau supposée constante "16 4 H 42,74 KJ.mol ' vap Masses molaires (g.mol ') eau 18 propan-1-ol 60. =]bar 105 Pa 750 mmHg
+Partie [ Equilibre de vaporisation de leau (2 pts)
+1-1)   Établir, à partir  de la relation de Clapeyron;   l'équation de   la courbe de vaporisation sous la forme Ln 'p = (4) (p en bar et T en Kelvin). Tournez la page S.VP.
+Concours Technologie Session 2008
+Épreuve de Chimie
+Page 3/5
 
+--- page 4 ---
+1-2) Comment appelle-t-on les deux points limitant cette courbe ? Préciser le nombre de phases en chacun de ces points. 1-3) À T 298 K, on introduit un volume Vo 1,5 mL deau dans une enceinte préalablement sous vide et de volume constant V =5 L. a) Calculer la pression de vapeur saturante de leau à cette température. b) Déterminer la composition du système à [équilibre.
+Partie I : Diagramme binaire liquide-vapeur A-B (6 pts2
+La figure 2 (annexe; page 5/5) montre le diagramme isotherme à T 298 K du système binaire eau, noté A, et propan-I-ol, noté B, avec en abscisse la fraction molaire en B et en ordonnée la pression en mmHg.
+Les   fractions molaires en phase liquide sont notées XA et XB alors   qu'en phase gazeuse assimilée à un gaz parfait; ces fractions sont notées yA et yB.
+II-1) Nommer les courbes (a) et (b) du diagramme. II-2) Indiquer le nombre et la nature des phases en équilibre dans les domaines numérotés (l ) et (2) II-3) Le point Z représente un mélange particulier; ses coordonnées sont x2 0,40 et pz = 35,8 mmHg quel est le nom donné à ce mélange ? II-4) Convertir la fraction molaire XB en fraction massique WB' Calculerwz II-5) On comprime, sans changer sa composition; un mélange constitué de 2,8 moles de A et 7,2 moles de B, initialement à pi = 24 mmHg, jusqu'à p2 = 36 mmHg. a) À quelle pression la liquéfaction commence-t-elle et quelle  est la fraction molaire en B de la première goutte de liquide ? b) À quelle pression la dernière bulle de vapeur disparaît-t-elle ? Quelle est alors sa fraction molaire en B ? II-6) On porte le mélange précédent à la pression p, 28,6 mmHg, déterminer a) Les fractions molaires en B dans les deux phases en équilibre. b) Les quantités en moles de liquide et de gaz en présence. c) Le volume total de la phase gazeuse. II-7) Donner les allures des courbes danalyse de pression lors de la compression des mélanges de composition YB =Yz et YB 0,8 préciser   les   pressions de changement de pentes et les phases en présence pour chaque tronçon:
+FIN DE LÉNONCÉ
+FIN DE LÉPREUVE
+Concours Technologie Session 2008
+Épreuve de Chimie
+Page 4/5
 
+--- page 5 ---
+Annexe
+2,5 2 2
+(4) MpH=213)
+Ensrink? 806 érkées Pr8pero agsong 426 stax Ur 2iBhio;hequf
+1,5
+(5)
+C
+0,5
+(2)
+(3)
+D
+8
+10
+12 pH 14
+-0,34 0,5
+A
+(1)
+B
+Figure 1 : Diagramme E-pH du cobalt.
+1=298 K
+38 1 36 34 1 32 30
+28
+26
+24
+22
+20 0.0
+0.2 0.3 Tv tl
+0.4
+0.5
+0.6 0.7 0.8 0.9 1.0 Fraction molaire en B
+Figure 2 Diagramme isotherme A-B. Concours Technologie Session 2008 Épreuve de Chimie
+Page 5i5

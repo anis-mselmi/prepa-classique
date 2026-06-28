@@ -1,10 +1,256 @@
+--- page 1 ---
+RÉPUBLIQUE TUNISIENNE Ministère de [Enseignement Supérieur, de la Recherche Scientifique et de la Technologie
+Insthtut) peparaore  2 BIBLIOTHEQUE  Concours Nationaux dEntrée aux 6 Cycles de Formation d'Ingénieurs etudes ) Somngemeuss 7 Session Juin 2003 Concours Mathématique-Physique et Physique-Chimie Épreuve de Sciences et Techniques de l'Ingénieur
+Date Mardi 10 Juin 2003
+Heure 8 H
+Durée 3 H
+Nbre pages 11
+Barème
+Partie A : 11 points
+Partie B : 2 points
+Partie C : 7 points
+Remarques  1f Lespartiès 4, Bet C sont indépendannset dofzœnt-être rédigées sur des feuillës séparées. 2/ Le document-réponse page 6/11 estaiendre en hp-dépreuve 3/ Calculatrice de poche non programmableaptoriste
+BRAS ROBOTISÉ
+Présentation Lensemble mécanique schématisé (figure 1) est une unité de transfert. Elle est composée principalement d'un bras robotisé permettant au moyen dun moteur à courant continu et de deux réducteurs de générer simultanément deux rotations la première $' effectue autour dun axe fixe horizontal, la seconde autour dun axe toumant dans un plan vertical. Le bras assure le transfert de pièces cylindriques creuses entre deux postes Pl et P2 Ces pièces Sot enfilées; au niveau du poste Pl dans le porte pièce au moyen dun actionneur puis transporées et déposées au niveau du poste P2 pièce porte pièce
+Poste P!
+Motey
+29822 12
+bâc
+Figure 1 Unité de transfert
+Concours Mathema:cuc-Physiquc ct Physique-Chimie Session Juin 2003
+Épreuvc de STI
+Pagc 1/11
 
+--- page 2 ---
+La chaîne cinématique minimale du bras (figure 2) illustre les principaux éléments qui composent ce mécanisme, soient le bâti (0),
+le support (1) en liaison pivot d'axe (O,Xo ) avec le bâti (0) et équipé dun moteur (MC)
+Tensemble (2) en liaison pivot daxe (4, Xo) avec le support (1), cet ensemble est constitué dune roue dentée conique, du coulisseau (C1) et du ressort (RI),
+T'ensemble (3) en liaison pivot daxe (I,Y ) avec le support (1), cet ensemble est constitué dune roue dentée conique; du coulisseau (C2) et du ressort (R2),
+lensemble (4) en liaison pivot daxe (K,Y.)avec le bras (1), 0 est constitué de la pièce à transférer et du porte pièce qui est en liaison plane de normale ( J,Y.) avec ]'ensemble (3)
+le pignon arbré (5), en liaison pivot d'axe (C,Xo) avec le porte satellite (6) et en liaison plane de nomale (B,Xo) avec lensemble (2). I engrène en D avec la roue dentée fixe (C),
+le porte satellite (6) en liaison pivot daxe (0, Xo) avec le bâti(0).
+Repères et paramétrage
+Les repères et les paramètres adoptés sont définis comme suit :
+R, (O,Xo, Yo , Zo ) repère lié au bâti (0) supposé galiléen; tel que l'axe (O,Zo) est vertical ascendant;
+R,(0, Xo, Yu, Z ) repère lié au support (1), tel que   B =(Yo,Y ) =(Zo,Z1)
+Rz (A,Xo , Yz, Z2) repère lié aux ensembles (2) et (5) tel que 0 =(YvYz) = (Z,,Z2) , (0 étant la rotation imposée par le moteur) ,
+R ( K,Xs,Y ,Z; )-repère lié aux ensembles (3) et (4) tel que :V = (Xo, Xs) =(Z,, Zs) .
+Les positions des différents centres de liaison sont décrites par les relations vectorielles
+OA = aY  , AD = 02 Xo = rs Y1 , JK = @, Yv, OI = a, Xo + b Y, ,
+OK = a; Xa + bz Y1, AE = c; Xo+rz Y1 , EI =r; Xo+ €cz Y, .
+C
+Les angles B , 0 et y sont les paramètres angulaires du mécanisme. %1, a2, à; , 04 bi, 62, €1, C2, r2, F3 et rs sont des constantes géométriques.
+Concours Mathématique-Physique et Physique-Chimic Scssion Juin 2003
+Épreuve de STI
+Page 2/1
 
+--- page 3 ---
+IsA
+;
+k
+741
+1 1 N :
+g
+N < 1z ^
+Az 1 ;
+T ^ k
+Is
+24
+;
+>
+49
+Zn Ie
+9 5 (7 1 : 71 2
+1
+As 0
+Concours Mathématiquc-Physique ct Physiquc-Chimie Session Juin 2003
+Épreuve de STI
+Page 3/11
 
+--- page 4 ---
+Partie A : ÉTUDE MÉCANIQUE
+L'ensemble (4) est modélisé (voir figure 3) par un solide  homogène constitué des éléments suivants un disque de rayon R et de masse m une tige de longueur L et de masse m. u cylindre de longueur H, de rayon r et de masse M L'action au point Jde l'ensemble (3) sur 1ensemble (4) est modélisée par le torseur
+FJ=N Y. 1 3/4 M=C,Y, Toutes  les liaisons sont parfaites sauf les liaisons planes coulisseau (C1) roue (5) en B et ensemble (4) coulisseau (C2) en J qui sont obtenues par adhérence caractérisépar le coefficient de frottement f
+Laccélération de la pesanteur est telle que g=-gZo
+Partie A-I : GÉOMÉTRIE DES MASSES
+Tous les calculs d'inertie doivent être effectués dans le repère R; (K; Xs , Y,, Z;) I-1. La position du centre d'inertie G de lensemble (4) est définie par le vecteur KG =xXJ+yY:, exprimer, en fonction des   caractéristiques géométriques et d'inertie de Fensemble   (4), les coordonnées x et y du centre G.
+I-2. Déterminer les matrices d'inertie centrales suivantes a - du disque b - de la tige C - du cylindre plein
+1-3. Montrer que la matrice d'inertie au point K, exprimée dans la base de ( X,, Yv, Zs) , de Fensemble (4) est de la forme
+A ~F 0 [L (4H ~F B K 0
+déterminer alors les moments d'inertie A B, , C et le produit d'inertie F,.
+N.B : Dans la suite des calculs; on ne retiendra que les formes da la matrice [Ix (4)] et du
+vecteur position KG La masse de Pensemble (4) sera notée m4
+Concours Mathématique-Physiquc et Physique-Chimie Session Juin 2003
+Épreuve de STI
+Page 4/;1
 
+--- page 5 ---
+Partie A-II : CINÉMATIQUE
+Dans cette étude, on admettra que les liaisons   (2)-(5) et (3)-(4) sont obtenues par adhérence (Pas de glissement) et que la vitesse de rotation du moteur est constante (0 = 0) Tous les calculs doivent être effectués dans la base ( Xo , Y1, Z:) .
+I-1. Calculer les vecteurs vitesses suivants :V(AI Ro) , V(I/Ro) , V(K/R) , V(Ee2/R,),
+V(Ee3/R;) et V(De5/ Ro) II-2. Écrire les deux relations qui expriment la condition de roulement sans glissement aux points D et E . Déterminer; en fonction de 8 les vitesses angulaires B et  II-3. La vitesse de G (centre d'inertie de lensemble (4)) par rapport àB(O,Xo; Yo;- Zo) est de la forme : V(GIR) =V;Xo+V,Y +V Z1  Déterminer les composantes V ,' V,etV
+II-4.
+L'accélération
+de
+G
+par
+rapport 8(O,_ Xo, Yo; Zo) est de la forme
+F(GI R,) =F, Xo-T, Yu+l Z1 Y Déteminer les composantes [_ 1) TyetT:
+Partie A-III : ÉTUDE DYNAMIQUE
+Dans cette partie on s'intéresse à étude dynamique de lensemble (4) au moment où il occupe la position instantanée définie par : V =0 (v #0) Pour représenter laction du solide (i) sur le solide (j) au Point P, on utilisera la notation suivante Xÿ Lij {a; jSp = Yyj 'Mg Zÿ Ni base
+III-1. Donner les torseurs des actions mécaniques  extérieures appliquées à (4) au point K les exprimer dans la base (Xo, Yv, Z1)
+III-2. Écrire les équations dynamiques qui découlent & théorème de la   résultante dynamique appliqué à (4) dans son mouvement par rapport à Rc (O,Xo , Yo ,  Zo)
+III-3. Écrire les équations dynamiques qui découle du théorème de moment dynamique appliqué à (4) dans son mouvement par rapport à Ro(O,Xo,Yo,Zo)
+III-4. En supposant que la pression de contact ertre le coulisseau (C2) et 1ensemble (4) est unifome sur la totalité de la surface du disque et que Vadhérerce est à la limite du glissement, exprimer en fonction de f; R et N,la valeur absolue du couple C,
+III-5. Déduire alors les inconnues X14, Y14, NJ, Z14, L14, CJ et N1z
+Concours Mathématique-Physique ct Physique-Chimic Session Juin 2003
+Épreuve de STI
+Page S/11
 
+--- page 6 ---
+RÉPUBLIQUE TUNISENNE Ministère de [Enseignement Supéricur; de la Recherche Scientifique et de la Technologie
+Concours Nationaux dEntrée aux Cycles de Formation d'Ingénieurs
+Signature des surveillants
+Session Juin 2003
+concours
+MP-PC
+Épreuve ~STI.
+iscir id Neiien
+Nom
+Prénom (s
+Node la feuille
+Total des doubles feuilles remises
+Institution dorigine
+Identification
+Série
+Node la feuille
+Total dcs doubles feuilles remises
+Partie B : TECHNOLOGIE DE CONCEPTION 1. Quel est le rôle des ressorts (Rl) et (R2) ?
+2. Quelle est la nature des liaisons suivantes ? ~(C1) avec (5 ): (CI) avec les constituants de 1ensemble 2 (C) avec (5) 3. Donner une solution technologique pour assurer la liaison complète entre laxe du bâti (0) et la roue dentée fixe (C) (Préciser les éléments de liaison utilisés et compléter le dessin ci dessous) 
+Concours Mathématique-Physique ct Physique-Chimie Session Juin 2003
+Épreuve de STI
+Page 6/11
 
+--- page 7 ---
+Partie C : AUTOMATIQUE NB Les deux parties C-Iet C-II sont indépendantes. Dans cette partie; on s'intéresse dans un premier temps; à l'étude de la commande séquentielle dun système de transfert de pièces et dans un second temps; à la mise en œuvre d'un asservissement de position angulaire d'un axe du bras robotisé.
+Partie C - I : ÉTUDE DE LA COMMANDE SÉQUENTIELLE DU SYSTÈME DE TRANSFERT DE PIÈCES
+Description du système L'unité de transfert (figure 4) se compose de Un bras robotisé constitué de un servomoteur assurant le mouvement entre les postes Pl, P2 (Tl2 et T21) et deux capteurs de position permettant de repérer la présence du robot soit au poste Pl soit au poste P2 (ppl, Pp2) un porte pièce pour le serrage (S) et le desserrage (D) d'une pièce. La présence d'une pièce est détectée par un capteur de proximité (op2) un poste d'alimentation Pl, qui est constitué de un tapis roulant d'aménage entraîné par un moto-réducteur (MTI), u capteur optique (opl) sert à détecter la présence dune pièce au poste Pl un plateau dentrée (PEl) dont le déplacement vertical est assuré par un vérin à double effet (Vi). Les différentes positions du plateau (PEl) sont détectées par des capteurs de proximité {vlb) et (vlh) un poste d'évacuation P2, qui est composé de un tapis roulant d'évacuation entraîné par un moto-réducteur (MT2), un plateau de sortie (PS2) servant a ramener la   pièce vers le tapis dévacuation. Le déplacement   vertical du plateau (PS2) est assuré par un vérin à double effet (V2). Les différentes positions du plateau (PS2) sont déteciées par des capteurs de proximité (v2b) et (v2h) un vérin à double effet (V3) permettant d'éjecter la pièce du plateau (PS2) vers le tapis d'évacuation: Les différentes positions du vérin (V3) sont détectées à laide de capteurs de proximité (v3a) et (v3r)
+P2
+Pl
+op2
+opl
+V3
+MTI
+v2h v3a vSr
+vlh
+v2b
+vlb
+MT2
+V2
+V1
+Figure 4 : Système de transfert de pièces robotisé
+Concours Mzthématiquc-Physique et Physique-Chimic - Session Juin 2003
+Épreuve de STI
+Page 7/11
 
+--- page 8 ---
+Par ailleurs, on suppose que le système au repos est correctement positionné plateau d'entrée en position basse; plateau de sortie en position haute, vérin d'éjection V3 reculé, bras robotisé présent au niveau du poste P2, absence de pièce dans le porte pièce. Cycle de fonctionnement L'action sur le commutateur de départ cycle ( Dcy ), met en marche   simultanément   les  tapis roulants daménage et d'évacuation le desserrage du porte pièce et le mouvement du bras robotisé vers le poste Pl Lanivé dune pièce sur le plateau d'entrée (PEl), détecté par (opl) entraîne Farrêt du tapis roulant d'aménage. Une fois le robot est prêt à recevoir une pièce; le plateau d'entrée (PEl) monte au niveau du plan de travail, afin que la pièce soit enfilée dans le bras robotisé par serrage. Ensuite le plateau dentrée (PEl) reprend sa position basse et la pièce sera transférée sur le plateau de sortie (PS2) (supposé en position haute) après dessenage. La pièce sera déposée; par la suite, sur le tapis d'évacuation par la descente du plateau de sortie (PS2) puis Tavance du verin (V3). Après évacuation de la pièce, le vérin (V3) et le plateau de sortie (PS2) se mettent en position intiale de repos. Après 40 secondes (temps nécessaire pour évacuer la pièce) le tapis roulant dévacuation s' arrête et le système sera prèt pour exécuter un nouveau cycle. Liste des actions Liste des informations
+T12 Action commandant le bras robotisé pour
+opl
+Détection pièce au poste PI par u
+passer du poste Pl vers le poste P2
+capteur optique Présence pièce dans le porte pièce Présence bras robotisé poste Pl
+T21
+Action commandant le bras robotisé Pour
+op2 ppl pp2
+passer du poste P2 vers le poste Pl 5 Action de serrage du porte pièce D Action de desserrage du porte pièce MVI Montée du vérin VI
+Présence bras robotisé poste P2 Réponse K porte pièce senré > Réponse < porte pièce desseré > Réponse vérin VI en positon basse Réponse vérin Vl en positon haute Réponse vérin V2 en positon basse Réponse vérin V2 en position haute Réponse vérin V3 avancé Réponse vérin V3 reculé Bouton départ cycle Bouton d'arrêt d'urgence Bouton d' acquittement
+DVI Descente du vérin VI
+vIb
+MV2 Montée du vérin V2
+vlb
+DV2 Descente du vérin V2
+v2b
+AV3 Avance du vérin V3
+Y2h
+RV3 Recul du vérin V3
+v3a
+MTI Mise en marche du tapis roulant d'aménage MT2 Mise en marche du tapis roulant d'évacuation
+v3r
+Au
+I-1. Établir le grafcet GI du point de vue commande (niveau 2) du système de transfert d'une pièce SUI ordre de départ de cycle (Dcy) I-2. Modifier le grafcet Gl en tenant compte dun anrêt d'urgence (Au) L'action sur ce demier, au cours du mouvement du bras robotisé de Pl vers P2, entraîne larêt immédiat du bras robotisé et des tapis roulants. Pour des raisons de sécurité, le bras robotisé ne doit en aucun cas, relâcher la pièce en cours de mouvement. La reprise du cycle se fera par action sur un bouton d' 'acquittement (Acq)
+Concours Mathématique-Physique ct Physiquc-Chimie Session Juin 2003
+Épreuve de STI
+Page 8/11
+Dcy
+Acq
 
+--- page 9 ---
+Partie C - II : ASSERVISSEMENT DE POSITION DUN AXE DU BRAS ROBOTISÉ
+Il s'agit ici détudier; d'une manière très simplifiée, le problèmë de positionnement dun axe du bras robotisé dans une configuration particulière (c'est à dire autour dune position d'équilibre) . Pour cela; on considère le   schéma bloc de la figure 5 qui représente la chaîne d'asservissement simplifiée.
+C,
+Organe de consigne
+Régulateur:
+Moteur électrique
+Réducteur
+Charge
+Capteur de position
+Figure 5 : Schéma bloc de la chaîne d'asservissement dun axe du bras robotisé On désigne par Oref ` position angulaire de référence (en rad) U : tension de commande du moteur électrique (en V) Cr : couple résistant caractéristique des variations de la charge (en mN) S2n vitesse de rotation de ]'arbre du moteur électrique (en rad.s ') position angulaire de la charge (en rad)
+Le modèle de Tensemble {moteur   électrique; réducteur,   charge} est donné par le schéma fonctionnel de la figure 6 Dans ce modèle; on suppose que le réducteur est parfait el que le moteur est à couran: continu; fonctionnant à flux constant et dont on néglige !'effet de linductance de son indui:.
+C; 4aQa+() Jc P+ fc
+2 P2 7
+I/p
+ka R
+1 P
+J mP + fm
+P
+ke
+Figure 6 : Schéma fonctionnel de Pensemble moteur électrique; réducteur, charge
+Concours Mathémalique-Physiquc ct Physique-Chimic Session Juir 2005
+Éprcuve de STI
+Page 9/11
 
+--- page 10 ---
+Liste des paramètres Paramètres Désignations R Résistance de l'induit kc Constante du couple moteur ke Constante de la force contre électromotrice Jm Moment d'inertie de la partie_toumante du moteur fm Coefficient de frottement visqueux de larbre moteur p Rapport de réduction Jc Moment dinertie de la charge fc Coefficient de frottement visqueux de la charge
+II-1. Mettre le schéma fonctionnel de la figure 6 sous la forme suivante
+Iz(p)
+Ti (p)
+p P
+Démontrer que les fonctions de transfert T1(p) et Tz(p) peuvent s'écrire
+K, Kz T1(p) = et Iz(p) = 1 +m P 1+Tm p
+avec
+RJ
+<m constante de temps électromécanique kekc + Rfe kc Kp =- gain statique de la fonction de transfert T (p) kekc + Rfe
+R
+Kz = gain statique de la fonction de transfert T(p) P(kzkc + Rfe) J,=Jc +J moment d'inertie équivalent ramené sur ]'arbre du moteur 0? f. = fn +15 coefficient de frottement visqueux équivalent ramené sur 1'arbre du moteur 0?
+II-2. Pour un couple résistant nul (C; = 0), on trace la réponse indicielle (figure 7) de la fonction de transfert T (p) à un échelon de tension d 'amplitude 25 V. Déterminer K, et Tn:
+Concours Mathématiquc-Physique et Physique-Chimie Session Juin 2003
+Épreuve de STI
+Page 10/11
 
+--- page 11 ---
+Reponca hdcialo a ndo {loctrlan à un échelon d tension danotudo 25 V 260
+180
+1 160 { 140 1 120 1 100 8 80 1 60 1 40
+001
+002
+013
+004
+0.05
+0CS
+Tonos (Goc)
+Figure 7 : Réponse indicielle de T (p) à un échelon de tension d'amplitude 25 V 1-3. Dans cette question; on cherche à déterminer convenablement la valeur de 1 'amplificateur (4) de la boucle d'asservissement. Pour cela on considère le schéma bloc de la figure 8 On donne & = 0,8 Vlrad, Kz = 0,75 rad (s.mN)-1 et p = 50
+Tz(p)
+E
+ret
+Ti (p)
+P P
+Organe de consigne
+Amplificateur
+Moteur ëlectrique + réducteur + charge
+Capteur de position angulaire
+Figure 8 : Schéma bloc de Passervissement de position angulaire a. En boucle fermée, mettre Fexpression de la sortie sous la forme suivante 0 (p) = H (p) @ (p) H (p) C (p) Déterminer les fonctions de transfert H (p) et Hz(p) En déduire les exprsssions du coefficient d'amortissement (noté m) et de la pulsation propre non amortie (notée 0) en fonction de K1, Tm, p, Qet A. b. Calculer la valeur de A de façon que le système en boucle fermée présente un coefficient damortissement m 2 0,7. En déduire le dépassement et le temps de pic.
+1 € On pose 41 =0 = € , calculer ['expression de 41 en fonction de @ref et Cr. Pour la ref à valeur de A trouvée dans la question I-3-b, calculer lerreur statique pour une consigne en rampe unitaire et un couple résistant en échelon de position d' 'amplitude 100 mN.
+Concours Mathématique-Physique et Physique-Chimie Session Juin 2003
+Épreuve de STI
+Page 11711

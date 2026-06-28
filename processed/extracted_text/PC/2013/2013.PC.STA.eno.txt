@@ -1,19 +1,302 @@
+--- page 1 ---
+4syij;28eaji REPUBLIQUE TUNISIENNE œ.:l"#lgzl Ministère de ]Enseignennent Supérieur ZULL et de la Recherche Scientifique Conccurs Nationzux d'Entrée aux Cycles Jsi z bslleybli de Formation dIngénieurs Cllei _ c Jy&i Session 2013 2013 8292 nsntur Caeranaon , Chinnie 4 Cromeque Concours Mathématiques Physique & Physique Enoes [ Ak Épreuve de Sciences et Techniques de {'Ingénieur 2322s
+Dale Vendredi 07 Juin 2013 Barème Partie A points
+Heure 8 Heures Partie B 10 points
+Durée 3 Heures Partie € points
+L'épreuve comporte trois parties A- Technologie de conception B- Mécanique des solides indéformables C- Automatique
+Le sujet de l'épreuve remis au candidat comporte dcux dossiers 1- Présentation, Données et Hypothèses 2- Document Képonses
+tur Preracire _ ABuoTHeQue) S hues 016us Aucun autre document n'est autorisé L'utilisation des calculatrices de poche non programmables est autorisée. Les différentes parties sont indépendantes et doivent être traitées sur le document réponses. Il n'est fourni au candidat qu'un scul et unique dossier document réponses > qui doit être rendu en totalité, à la fin de l'épreuve; mêmc sans réponses_
 
+--- page 2 ---
+DOSSIBR
+PRESENTATION, DONNEES ET FYPOTHESES
+Ce dossier comporte 9 pages numérotées de 1 à 9
+Présentation
+Page ] à 2 ,
+Données et hypothèses Partie A
+Page 2 ;
+Données et hypothèses Partie B
+Page 3 à5 ;
+Données et hypothèses Partie €
+Page 6 à 9 ;
+PRepazc; @BLOIHEQUE Wralsy
 
+--- page 3 ---
+STI Mathématiques Physique & Physique Chimie
+Dossier Présentation, Donnees etHypothèses
+GUINDEAU DE LEVAGE DUNE LIGNEDE MOUILLAGE
+MISE EN SITUATION Limmobilisation dun bateau en pleine mner, nécessite son ancrage au fond marin par le biais dune ligne de mouillage constituée dune ancre reliée au bateau par Vintermédiaire dune chaîne (figure 1)
+Si la descente de cette chaîne peut se faire sous Teffct de son propre poids (par gravitation) , sa   renontée nécessite un dispositif appelé guinde eau électrique installé à Vavant du bateau (figure 2)
+Figure Ancrage de bateas en pleine mer
+guindeav , électrique à axe horizontal gvinckan - électrique à axe ventical Figure 2 : Variantes du guindean _ électrique. Le guindeau   peut être comnmandé  électriquement ou manuellement   par un levier inséré dans un volant dentcainement. Ce levier peut aussi pazticiper; avec un système de freinage; au contrôle de la vitesse de descente de lancre (figure 3)
+Levier de commande manuelle
+Volant d'entraînement
+Figure 3 Commande manuelle du gundeau êlectrique
+Concours nationaux dentrée aux cycles de formation d'ingénienrs
+Session 2013
+Page 1/9
+Kuou
 
+--- page 4 ---
+STI Mathematiques Physique & Physique Chimie
+Dossier Présentation, Données et Hypothèses
+Quelque soit Yorientation de son axe; le guindeau est composé principalement Dun barbotin C'est une couronne servant à faire virer la chaîne lors de Topération de levage C'est poulie fixée sur le guindeau qui permet denrouler et de tendre un Dune poupée une cordage Dun mécanisme de transmission de puissance mnécanique. La rotation du barbotin conduit à la remontée de lancze par Yintermédiaire de la chaine guidée Par une rouc folle (roue libre) (Eigure
+Babotin
+Roue folle
+Chaîne
+Puits de stockage
+Ancre
+Fond oari
+Figure 4 Système de levage d'une ligne de mouilloge
+PARTLE A , TECHNOLOGIE DE CONCEPTIOV
+ARoine Joeqlr Uvats 9>
+Cette Partie est dédiée à Lanalyse fonctionnellc du 'guindeau L'étude gcaphique dun flasque représcnté par la figure 5 (deux vues CIl perspective:)
+Figure 5 Vues en " perspective du flasque.
+Le travail demandé est explicité dans les pages 1/19 et 2/19 du dossier documnent réponses.
+Session 2013
+Page 2/9
+Concours nationaux dentrée aux cycles de formation dingénieurs
 
+--- page 5 ---
+S11 Mathématiques Physique & Phvsique Chimie
+Dossier Présentation_Données eL Hypothe ses PARTIE B : MÉCANIQUE DES SOLIDES INDÉFORMABLES L'étude mécanique porte sur la chaîne de transmission de et Ic système de mouillage durant 7 phasea ns 1esagn de,puissance elfet, puissance, nécessaire au fonctionnent du guindcau; est transmise à Yaide dun mécanisme composé dun système rouc et vis sans fin (figure B.1) Cctte   puissancc est maximale  pendant  la phase de levage. Pendant laquelle, Ie barbotin est solidaire avec Tarbre dc transmission et la charge à lever qui est constituée de la chaîne et de lancre Figure B.I Rove et vis sans fin SCHEMA CINEMATIQUE ET REPERAGE
+La Gigure B.2 représente: le schéma cinématique minimal de la chaîne de composéc transmission. Celle ci est
+D'un carter (0) auqucl on lie le repère %(0,*,-}a, supposé galiléen. De lensemble   totatif {1} attache au repère   R(O,x,y,z)  I1 est en double   liaison avec Ic carter La première est une rotule de centre 0. La seconde est (C,20 ). Cet ensemble est constitué Un€ linéaire annulaire daxe principalement du barbotin (11), aEPAATON Jrur de la roue à denture hélicoïdale (12), RBRIeque de larbre (13), dc la poupée (14). Le mouvement de rotation de cet ensemble {1} Cst paramétré par Tangle 0 De la vis (2) à denture hélicoïdale associée (xo,x) =(o,y1)_ au repère R(D,F , ÿv Elle est en liaison pivot &axe (D;xo avec le carter (0). Elle est également en contact supposé ponctuel u point roue avec la (12) (Figure B.3) . Son mouvement de rotation est paramétré par langle 6=G0,/2) =(,2,) Les   paramètres de   position sont  définis   par Ct @, variables en fonction rcprésentations planes des rotations sont définies dans la figure B.4. du   temps. Les
+(12)
+K
+OD
+Figure B.2 : Schému cinématique mnimal de la chaine de transmission
+nacomsau JeneéF axx CyCle] Je Jarmanon (mngeuews
+Session 2013
+Page  3/9
 
+--- page 6 ---
+STI Mathématique s Physique & Physique Chintie
+Dossier PresentationDonnces et Hypotheses
+i0
+(12)
+Figwr B.3 Système de transmnssion rue et 1s Së#s {in
+varasoi Quoikeque) A Qudes D1
+Figure B.4 : Représentation plane des rtations
+DONNEES ET CARACTERISTIQUES GEOMETRIQUES DU MECANISME Les données géométriques du mécanisme sont exprimées par les relations vectorielles OA =a Z OR =-Ro ÿo +b 7 OC = ci DR =d% +Rz yo ; AI = R,J où 2, b, c et d sont des constantes dimensionnelles positives. Ro R, et Rz sont respecuvesent 'es rayons de la roue (12), du barbotin (11) et de la vis (2). Le moteur (non représenté) exerce sur la vis un couple moteur Cn" =Co Y, : Laction mécanique de la vis (2) sur la rouC (12) cst caractérisée, au point de contact K, par le vecteur lié (K,F) Compte tenu des caractéristiques géométriques de la denture hélicoïdale la force devrait s'exprimer; comnmnle le montre la figure B.5, sous la forme vectorielle suivante B F=F% +Fÿ +F, 7, avec : |ul=F
+Figure B.5 : Repvrésenacics Juin} anex bé (K,F) .
+Concours nationaux d'entrée aux cycles de formatian dingenieurs
+Session 2013
+Page 4/9
 
+--- page 7 ---
+Dassier Présentation Données et Hypothèses
+STi Manematiques Physique & Physique Chimie
+{2} le système formé par Pensemble {1} , ha chaîne; Fancre ct la roue folle (lbre) de On désignera par 'Cettsy sernière, assurant le guidage: de' la lignc de mouillage; est en liaison pivot rayon R(figure B.6) avec le carter (0). Les positions des points caractéristiques A, E et de cette roue par daxe (Q7) rapport à Yensemble {1}, sont définies par QE = R* AQ = a %o ~bo y' proportionnelle à longueur courante L Mc=AL (où 1 est la La massC Mc de Ia chaîne Cst et de Tancre sont respectivement _ M1 ct Ma. densité linéique de masse)  Les masses de Yensemble {1} respectifs  G1 > et < Ga sont définies Par les vecteurs Les positions de leurs centres dinertie OG; =h z et EGa =-Lyo
+Où h est une constante positive du centre dinertie Ga de Tancre à partir de la position d'ancrage est paramétré par }a Iæe déplacement variable PaPalOIAE_ ottut @3VOIHEQd Ra AO
+Puits de stockage
+ l
+Eond ma5n
+Figure B.6 : Modèle de chargëment du barbotin
+HYPOTHESES
+Tout au Jong de Pétude, on adopte les hypothèses suivantes
+'Toutes les liaisons sont supposées parfaites L'accélération de la pesanteur cst donnée par 8 = -gyc Les masses respectives de la vis ct de la roue folle sont négligées_
+Session 2013
+Page 5/9
+Concours nationaux dentree aux cycles de formation dingenieurs
 
+--- page 8 ---
+STI Mathématiques Physique & Physique Chinie
+Dassier PrésentationDonnèes et Hypolhè se 5
+PARTIE € : AUTOMATIQUE
+SYSTEME DE POSITIONNEMENT DE L'ANCRE Un système de positionnement de Vancre; figure C.1, permet de faire tourncr le moteur; à 2 sens de rotation (montéc et descente) et à Fitesscs (vitesse lente et vitesse  rapide), afin quil pointe Tancre vcrs une position désiréc {positons basse ou haute) - Lorsqu'un changement de place nécessite de passer dune position 2 uue autc le système de positionnement fait fonctionner le moteur, en une ou plusieurs commandes électriques up down [montée/ descente]
+dr
+mr
+C2d
+Cauzl
+Raeparaouo 8 A QuSu
+Figure €1 Schéma électrique de commande cu guindeai.
+C1-COMIMANDE SEQUENTIELLE DE POSETIONNEMENT DE L'ANCRE Oa desire développer un automatismne capable de contrôler la montée et la descente de lancre par un moteur bidirectionnel à Taide de boutons (figure C.2). Le moteur doit pouvoir monter la charge cescendre 0U rcster Farrêt Les   boutons; MI, mb et dr, dl > correspondent respectivemcnt à des commandes de rotation pour la montéc rapide et lente (mr et ml) et la descente tapide et lente (dr et dl) .
+Montée
+Moteur
+VI
+Chaîne
+V2
+Descente
+V3
+mi Iir Boîte de commande Ancre Figur C.2 Schéra de la commande séquentiell.
+Corours nationaux dentrée aux cycles de formation dingénieurs
+Session 2013
+Page 6/9
 
+--- page 9 ---
+Dossier Présentation Données et Hypothèses
+Physique & Physique Chimnie STI Mathemciiques
+à la position haute signalée  par un voyant vert (VI) Etat initial du système ancre peut être comme il peut être à Pétat bas signalé par un voyant rouge (V2); La logique de commande est la suivante lieu, sur le bouton dl > provoque UnC position haute; Fappui, en premier Si Tancre est à la le bouton dl > soit relâché. En descente lente (DL), qui continue pendant 1Os même après que qui continue pendant 30s démarrera la descente rapide (DR) si < dr v est actionné, second Lieu, Onl relâché  Le mouvement de descente est signalé Par un voyant même après que le bouton < dr soit orangé (V3). lieu, sur le bouton ml > provoque unC position basse, Tappui, cn Premier Si Pancre est à la que le bouton < ml > soIt relâché En continue pendant 10s même après montée lente (ML), qui pendant 305 rapide (MR) si < mr > est actionné, qui continue second lieu; on démarrera la montée soit relâché Le mouvement de montée est signalé par le même même après que le bouton mr   voyant orangé (V3)_ Tableau €.1 Variables &entrée et de sortis àu sutepie Variables de sortie Variables dentrée DL Action descente lente dl Commande descente lente DR Action descente rapide dr Conmande descente capide ML Action montée lente montéc lente MR Action montée rapide ml Conmande VI Signalisation position haute de lancre V2 Signalisation position basse de lancre Mnr Commande montée rapide V3 Signalisation montée er descente de lancre
+C.2-ETUDE DE L'ASSERVISSEMENT DE VITESSE DE L'ANCRE détudier le comportement du système moteur et charge à travers Lobjectif de cette partie est Fasservissement de vitesse de la machine à courant continu: de modéliser le système dont Ventrée est la tension Dans  la première partie; on S€ propose vitesse Q1(t) . Ensuite; on va étudier dalimentation de Tindui du noteur u(t) et dont la sortie est de vitesse de Yancre et le compromis à trouver les problèmes de stabilité posés par Tasservisseme ent entre la stabilité, la Précision et la rapidité C.3 shématise le dispositif mécanique constitué de [ancre; de masse M', commandé par La figure continu. Une chaine est attachée à ceite ancre et entraînée par un ensemble moto-réducteur à courant dans les deux sens à une vitesse précise Tintermédiaire du barbotin. Lc moteur doit pouvoir tourner fonction de la tension consigne.
+Session 2013
+Page 7/9
+Concours nationaux dentrée aux cycles de formation dingenieurs
 
+--- page 10 ---
+STI = Mathénatiques Pnysique & Physique Chimie
+Dossier Présentation_Données et Hypothèses
+i(t)
+A)u(t)
+QL,C1
+Clr
+Jz, Cz
+réducteur
+M1
+Figure C.3 Schéma technologique simplfié du système moteur Qllc7e.
+C.2.1- Modélisation de Fensemble moteur+charge Afin de prévoir le comportemcnt de cet ensemble, il sagit de déterminer un modèle équivalent: Côté électrique; le comportement du moteur ést régi par [équation différentielle suivante ut) = Ri(t) + 14162 + e d6 Où (en V) est la tension dalimentation;, (en V) est la force contre-électromotrice du moteur, R (en @) est la résistance de Pinduit, E (en H) est Yinductance équivalente de Tinduit et i (en ^) est le courant dans celui-ci. Côté mécanique; léquation relative au moteur est donnée par G,()-C;() = J,440+6 9() dl Où C1 (en Nm) est le couple cxercé par le motcur, C;r est lc couple résistant à Yentrée de Tétage de réduction; supposé indépendant de la vitesse Q1 (en rd /s)  J, (en kgm?) est le moment dinertie de la partie tournante sur Parbre du moteur et f (en Nm.s) est le coefficient de frottement visqueux entre les Paliers et Tarbre du moteur. La liaison entre les équations et (2) se fait par les équations électromécaniques du moteir €  10 $2  (t) C(t) = 11 4(*) Où : Ko €t K; représentent respectivement la constante de vitesse et de couple.
+Iéquation mécanique relative à la charge est donnée par C,(t) ~ C,(t) = J,4002+ 6,9,() dt Où C2 (en Nn) est le couple à la sortie du zéducteur; C, est le couple de perturbation; supposé indépendant de la vitesse 0z (en rd/s)  J2 (en kgm2) est le moment dinertic de la chazge et fp (en Nm.s) est le coefficient de frottement visqueux de Ja charge Concours nationaux dentrèe aux cycles de formation dingenieurs Session 2013 Page 8/9
+8 sd
 
+--- page 11 ---
+STI Mathematiques Physique & Physique Chimie
+Dossier Présentation Données et Hypotheses
+Léquation mécanique relative au réducteur est donnée par 22 Cr 91 C2 922 avec r S2, Où r est le rapport ce réduction du réducteur.
+Application numérique : Ianleau €.2 Parainètres caractéristiques de Bensemble Motenr + Charge R = 1.2 @ Ko 0.25 V/rad /s fr 1,5625 103 Nm.s 1 = 0.2 H K, = 0.25 Nm /A 20
+Linertie J? de la charge dépend de son mouvement de montée ou de descente; de la masse de Yancre cette inettie peut varier entre une valeur minimale et de l2 'ongueur de la chaîne. Par conséquent; et une vzleur maximale Jzmar Dans ce cas, Yinertie J, varie entre les deux valeurs suivantes 2n? 0.125 10 4 kg.m? Jrmns 0.125 10-8 kg.%? nni
+C2,2- Asservissement de vitesse du moteur à "asservissement de vitessc du moteuz. On souhaite s'assurer que la   chaîne On {inréresse fonctoncelle d asservissement   permet   de  respecter   les   performances   souhaitées en termes   de stabilité tout en restant peu sensible aux vaziations de Finertie de la chargc précision "pidité transporiée- Dans ce qui suic le couple résistant C,et le moment d'inertie J, valent respecuvement C; 0 et J 0.125 10-* kg.m?
+Le processus esi asseIvi aveC un correcteur proportionnel de gain R(p) uontre la figre C.4 QAclp) Ulp) Sip) R(p) G(p)
+A > 0 comme le
+Qaefafatons TTUT CoIHEQUE) Nilsd
+Figure C.4 Boucle d'asssnissement d la vitesse du moteur.
+Lcs qucstions relatives à la partie C sont explicitécs dans le document réponses (pages 13/19 19/19)
+Session 2013
+Page 9/9
+Concours nationaux dentrée aux cycles de formation dingeneurs
 
+--- page 12 ---
+SVI Mathématiques Physique & Physique Chimte
+Document Réponses Etude mécanique
+P(Z -> Z/0)
+B.3.4- Ecrire   Yéquaton qui découle de   Yapplication du théorème de   Vénergie   cinétique 2u système {E} dans son mouvement par rapport au carter (0),
+B.3.5- Sachant; que le rapport de transmission roue et vis est défini par la   relation [ = déduire Vexpression du couple mnotcur 2a fonction des données du problème Cn régime [ransitoire est une variable dans le temps) 
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2013
+Page 11/19
+77u0es {
 
+--- page 13 ---
+S41 - Maihématiques - Phrysique & Physique - Chimie
+Document Réponses Etude mécanique B.3.6- Quc devient ce couple lors dun régime de fonctionnement normal { = Cte)
+B.3.7- En considérant les données num 1ériques suivantes
+Ro= 50 mn, R,= 45 min, Rz = 18 mn, P==709 à= 20" { = Lo= 25 i, 4 = 2,25 Kg/un, Ma = 25 Kg g= 10 Nm 2 1500 tz / min 56
+B.3.7.1- Calculer le couplc naximnal développé par le moteut associé
+quelke position   de Tancre CSt-il
+Hr )
+B.3.7.2- Calculer Je couple minimal  développé par le motcur_ zssocié ?
+quelle position de Yazcre est-il
+Owi
+(N.mn)
+B.3.7.3- Calculer le nOînbte de tours effectués par [arbre fOtelr pour obtenir Un levage toral de Pancre,
+Concours nationaux &entrée qux cycles de formation d'ingenieurs
+Session 2013
+Page IZ/I9
+aajoirs_ [
 
+--- page 14 ---
+S41-Mathématiques _ Physique & Physique Chimie
+Document Réponses Automatique
+PAITIE €:AUTOMATEQUE
+C1- COMMANDE SEQUENTIELLE DE POSITIONNEMENT' DE L'ANCRE C1.1- Compléter le schéma fonctionnel de Fautomatisme:
+Po
+Paatie Comaande
+Pn-actisaneul
+élentripuc
+Cnteur
+EC
+Partie Opérative
+C1.2 Compléter le grafcet décrivant le fonciionnement du système.
+10
+V1
+20
+V2
+11
+21
+12
+22
+13
+23
+14
+24
+15
+25
+Grafcet du Systèmne de positionneraent de ['ancre Concours nationaux d'entrèe aux cycles de formation dingenieurs
+Session 2013
+Page 13/19
 
+--- page 15 ---
+Document Réponses Automatique STI Mathématiques Physique & Physique Chumnie C.2- ETUDE DE L'ASSERVISSEMENT DE POSITION DE L'ANCRE C.2.1-Modélisation de l'ensemble motcur+charge système dans le domaine de Laplace cn supposaat que les C.2.1.1 - Ecrire les équations de du conditions initiales sont nulles
+les   équations   mécaniques (2), (5) et peuvent C.2.1.2- Montrer que suivante 9()-rC,(t) = J,49,(+ ; 4,() dl
+mnettre sous la   forme
+Avec Jr = JL+rJ2 ct f =f+rf,
+C.2.13- Compléter le schéma fonctionne] ci-après par les tcansmittances manquantes.
+Session 2013
+Page 14/19
+Concours nationaux d'entree @ilx cycles de formation dingenieurs
+Aao?
 
+--- page 16 ---
+STI - Mathématiques - Physique & Physique Chimie
+Document Képonses_ Automatique
+c{p)
+Ulp)
+Ilp)
+C (p)
+S22 (p)
+E{p)
+S21(p)
+C.2.1,4 - Montter que le schéma fonctionnel de question €.2.1.3. peut se micttre souS  la  forme suvante
+Jc-(P)
+U(p)
+I(p)
+Clp)
+{21(p)
+Elp)
+C.21.5- Montrer que Fexpression de la vitessc du moteur en fonction de la tension dinduit et du couple de perturbation Cr sécrit 52, (p) G (p) U(p)+ G2p) C-(p)  En déduirc les expressions dcs fonctions de transfcrt G,(p) ct G2(p)
+C'oncours nationaux dentrée aux cycles de formation dingenieurs
+Session 2013
+Page 15/19
 
+--- page 17 ---
+S77 Mathématiques Physique & Physique Chimie
+Docunent Réponses Automatique
+C.2.1.6- En référant au tableau C.2 du dossier présentation; données er hypothèses; caiculer, Co Sc système G (p) 91(p2 que Yon exprimera sous la forme fonction de J  la fonction de transfert du canoniquc dun système du second ordcc de gain K, de coefficient &amortissement 7} e de Pulsa txon propre Ron anortie @0
+C.2.1.7- En déduire les cxpressions de K, m et 00
+8
+C.2.1.8- Calculer, suivant Pinertie Jnnin ou {nur du système; Je coefficient damortisseient m ct la pulsaüon propre non amortie @0
+Concours nationaux dentrée Qux cycles de formation d'ingénienrs
+Session 2013
+Page 16/19
 
+--- page 18 ---
+STI Mathématiques Physique & Physique Chinie Docurevu Réponses : Automatique C.2.1.9- Dans la figure ci-dessous; 0n donne les réponses indicielles unitaire du système dans les deux cas (Jrmin et naat) . Spécifier la correspondance de chacune des courbes à Jmmin et rkii; Répots# kdivfpli? de 5,1R}
+Teops {s28
+C.2.4.10- Déterminer le temps de stabilisation à 15% correspondants. Conclte sur Yeffet dc
+Conclusion
+repatoire UOIHEQUE)) 72d3 9~
+C.2.2- Asservissenent de vitesse du mOteUT €.2.21- Calculer Vexpression de la fonction de transfert 041 boucle  ouvcrte T(p) puis en boucle fermée H(p)
+Concours nationaux dentyée uux eyeles de fommation d'ingenieurs
+Session 2013
+Page 417/19
 
+--- page 19 ---
+STI _ Maihémaitiques Physique & Physique Chimie
+Document Réponses Automatique
+C.2.2.2- Calculer 22 fonction de A, le gain   statique K, la pulsation  propre non amortie @0 ct le coefficient damortissement m du système en boucle fermée.
+C.2.23- Déterminer la valeur de A qui garantit un dépassement D(%) 16.3 %
+C.2.24- Calculer les erreurs statques de position et de vitesse unitaires en fonction de A
+Dans la suite, on considère la forme suivante du correcteur : RWp) = avec A >0
+C.2.25 - Etudicr la stabilité du système en boucle fermée e1 fonction de A. En décuire la valeur du gain critique Aas - et la période &oscillation correspondante Zasc du système bouclé.
+Cawosrs nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2013
+Page 18/19
+Mefazaon 8 {uby
 
+--- page 20 ---
+STI - Mathématiques - Physique & Physique Chimie
+Document Réponses Autoralique
+C.226- Peut-on assurer une erreur statique de vitcsse unitaire inféricure ou égalc : 2080
+Concours nationaux dentrée aux cycles de formation d Yingénieurs
+Session 2013
+Page 19/19
+Sutur BQuoeQul ,

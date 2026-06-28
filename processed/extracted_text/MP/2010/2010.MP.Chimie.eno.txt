@@ -1,4 +1,85 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de ['Enseignement Supérieur et de la Recherche Scientifique
+4sjij2s6i #Ujxzlssus @#L~L
+Concours Nationaux d'Entrée aux Cycles de Formation d'Ingénieurs
+Jsiall ûibyl 21 Uliji cuui-l isul>yi
+Session 2010
+2010W3
+Concours Mathématiques et Physique Epreuve de Chimie Date Mardi 1 juin 2010 Heure : 8" Durée : 2h
+Nbre de pages : 5
+Problème / 1,5 pts
+Problème II 4,0 pts
+Problème IlI 3,5 pts
+Problème IV 7,5 pts
+Problème V 3,5 pts
+Barème /20
+Cet énoncé comporte 4 pages de texte et un document annexe à rendre avec la copie. Les candidats sont priés de 'présenter leurs réponses dans lordre même de l'énoncé L'usage des calculatrices électroniques de poche non programmables est autorisé Aucun échange n'est autorisé entre les candidats:
+DEBUT DE L'ENONCE
+Données :
+Ws; @ibuotkeque 4 S Etuces Dmgninus 
+Constante des gaz parfaits R = 1,99 cal_ K-1 mol-1 Nombre d'Avogadro ; NA = 6,023*1023 mol-1 Masse molaire atomique (g.mol-1) : P : 30,97;AC; 26,98 ;0 : 16,00 ; Ca : 40,08 ; F: 19,00. Masse volumique de l'eau p= 1 g.cm-3. Enthalpie standard de sublimation de PyO1o Asub Ho = 22,7 kcal. mol-1 Rayon ionique (en pm) : Al3+ = 56 A 298 K : Couple (1) : HzPO3 (aqy HzPOz (aq) E9 =-0,504 V
+Couple (2) : Ni?- (aqy Ni(sd)
+E? 2-0, 25 V
+RxT -xLn(x) = 0,059x 1ogio (x) F Conversion: 1 bar = 105 Pa 1 750 mmHg et 1 cmHg = 10 mmHg.
+Concours Mathématiques et Physique, Session Juin 2010
+Epreuve de Chimie Page 1/5
 
+--- page 2 ---
+Problème I : Atomistique
+1) L'élément phosphore est situé dans   la 3ème   période et la 15ème colonne de la classification   périodique. Déterminer son numéro atomique Z et en déduire sa configuration électronique dans son état fondamental.
+2) Combien le phosphore possède-t-il d'électrons de valence ? 3) Donner la structure électronique de lion P?- et son numéro atomique.
+Problème II : Cristallographie
+Le solide ACP supposé ionique; de densité d = 2,42, cristallise dans une structure cubique de paramètre a = 5,42 %
+1) A quelle structure type appartient ce composé, sachant que Yaxe de symétrie de plus grand ordre est un axe dordre 3 (A3) ?
+2) Dessiner la projection cotée de la maille et son contenu sur le plan de la famille (001) passant par Yorigine
+3) Indiquer la coordinence des ions AQ;+ par rapport aux ions P3- 4) Donner Yexpression puis calculer 4-a) la valeur du rayon ionique de P3- en admettant qu'il est en contact avec lion Al3+ 4-b) la compacité du réseau AlP.
+Problème III : Corps pur
+La variation de la pression de vapeur saturante < p > de loxyde PO1o solide en fonction de la température T, est donnée par la relation 4963 log1o (p) = 9,7163
+Cette relation est valable jusqu' au point triple de PzO1o. La pression de vapeur saturante < p > de loxyde P4O1o liquide en fonction de la température I, est donnée par la relation
+3542 1og1o (p) = 7,6663
+Cette relation est valable de 300 'C jusqu' au point critique de P4O1o-.
+Concours Mathématiques et Physique; Session Juin 2010
+Epreuve de Chimie Page 2/5
 
+--- page 3 ---
+Dans les expressions ci-dessus;, les températures sont exprimées en kelvin et les pressions en cmHg.
+On supposera que
+les  enthalpies molaires de changement détat sont indépendantes  de la température dans les domaines considérés. Le volume molaire du gaz est très supérieur au volume molaire de la phase condensée . Le gaz se comporte comme un gaz parfait. 1) Déterminer les températures d ébullition et de sublimation standard de PzO1o: 2) Déterminer les coordonnées du point triple de PzO1o. 3) Etablir la relation de Clapeyron relative à léquilibre PgO1o(liquide) PgO1ovapeur) 3-a) En déduire lexpression donnant logo(p) = f(T) . 3-b) Calculer Avap H0 de P4O1o- 4) Donner ]expression puis calculer Afus H0 de P4O1o. Problème IV diagramme binaire fluorine-phosphate tricalcique
+L'allure approximative  du diagramme binaire isobare (p = 1bar)  solide-liquide du systè me CaFz-Ca3(PO4)2 est donnée en annexe 1 (à rendre avec la copie). 1) Que représentent les axes verticaux situés aux pourcentages massique 0 et 100% sur le diagramme ?
+2) Donner au point Bla relation entre les potentiels chimiques de Ca3(PO4)z 3) Indiquer la nature des phases présentes dans les domaines (I), (II) et (III) .
+4) Sachant que le composé défini < Cv est la fluoroapatite de formule Cas(PO4)BF.
+4-a) Donner Yexpression puis la valeur du pourcentage massique en Ca3(PO4)z correspondant à la verticale sur le diagramme  de lannexe 1. (L 'échelle des abscisses n'est pas respectée volontairement)
+4-b) Quelle est la nature de sa fusion?
+5) Préciser les températures pour lesquelles on a le maximum de phases en équilibre. Ecrire l'équation de chaque équilibre obtenu et donner le nom de la transformation correspondante.
+Concours Mathématiques et Physique; Session Juin 2010
+Epreuve de Chimie Page 3/5
 
+--- page 4 ---
+6) Tracer lallure des courbes danalyse thermique par refroidissement lent jusqu'à 1000*C, des systèmes représentés par les points A1, Az A3 et A4 sur le diagramme de Yannexe 1. 7) On refroidit lentement 10 g du mélange représenté par le point Az sur le diagramme jusqu'à (1200 + € ) C, æ étant très faible
+7-a) Déterminer la température de début de solidification de ce mélange. 7-b) Déterminer la nature et les masses des phases présentes à (1200 + & ) C 7-c) Représenter sur le diagramme (annexe 1) le chemin suivi par les points représentatifs de la ou des phase(s) solide(s) au cours de ce refroidissement Problème V : Oxydoréduction On considère la réaction électrochimique, en milieu acide; entre les ions HzPO2 et Ni2+ . 1) Ecrire les deux demi-équations électrochimiques   puis Y'équation-bilan de cette réaction.
+2) Donner [expression de Yenthalpie libre associée à la demi-équation électrochimique du couple (1) puis celle associée au couple (2) en fonction des potentiels délectrodes E1 et E2.
+3) En déduire Yexpression de lenthalpie libre AG de la réaction observée entre les ions H2PO2 et Ni2+, 4) Donner lexpression puis calculer la constante déquilibre K' de cette réaction à 298 K Conclure.
+FIN DE L'ENONCE
+Concours Mathématiques et Physique, Session Juin 2010
+Epreuve de Chimie Page 4/5
 
+--- page 5 ---
+REPUBLIQUE TUNISIENE Concours Nationaux dEntrée aux Cycles de Formation Ministère de dIngénieurs 1'Enseignement Supérieur et de la Recherche Scientifique Session Concours Epreuve de Ne vien Nom Prénom (s) écwe ici Institution dorigine
+Signature des surveillants
+Identifiant
+Série
+Vexien 9iixe ici
+DOCUMENT  ANNEXE 1 (A_RENDRE AVECLA COPIE) Température ('C) Température ('C) A4 Az (31%) A1 Bl1670 A [1600 Ez 1500
+1418
+(II)
+1200 C 1E1 (379)
+1000
+(III)
+500
+20
+40
+60
+80
+100 5 pourcentage massique p 8 Allure approximative du diagramme liquide-solide du système CaF2 - Ca2 (PO4) 2 .
+Concours Mathématiques et Physique, Session Juin 2010
+Epreuve de Chimie Page 5/5

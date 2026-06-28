@@ -1,14 +1,255 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE
+AsaJ) "24ad} "W)ælszlis Isss@b{:L=l
+Ministère de F'Enseignement Supérieur; de la Recherche Scientifique et de la Technologie
+Jssj aibsi aljbLiJi isil Ds Ual > (J 20086,9
+Concours nationaux dentrée aux cycles de formation dingénieurs Session 2008
+Concours Mathématiques-Physique et Physique-Chimie
+Epreuve de Sciences et Techniques de FIngenieur
+prePARA (Bubliothezue etudes C Coiceme <
+CONoOU NALONAL 2008 CONCOURS NATIONAL 2008 Session Juin 2008
 
+--- page 2 ---
+REPUBLIQUE TUNISIENNE Ministère de l'Enseignement Supéricur, de la Recherche Scientifique et de la Technologie Concours nationaux dentréc aux cycles de formation d'ingénieurs Session 2008
+4ssd)4i2/4+1 Ubkglvzï; Isss@suulsr Usijll aibsl 2l Lliji iuiJi iss Jl>ji 20086,5'
+Concours Mathématiques et Physique et Physique et Chimie Epreuve de Sciences et Techniques de F'Ingénieur
+Date Vendredi 6 Juin 2008
+Hcure 8 H
+Durée 3 H
+Nbre pages 14
+Barème Partie A Mécanique (11 pts) Partie B : Automatique (5 pts) Partie C : Conception (4 pts)
+Remarques 1/ Les parties A, B et € sont indépendantes et doivent être traitées sur le dossier document réponse. 2/ L'usage dune calculatrice programmable est interdit 3/ Il est demandé aux étudiants de mentionner les principaux passages de leurs raisonnements et les résultats obtenus dans les espaces qui 'leurs sont réservés dans le Documents Réponse 4/ Un seul dossier document réponse Cst fourni Uu candidat et doit être rendu en totalité, même sans réponses, à la fin de Vépreuve Le renouvellement de ce dossier est interdit
+STATION EOLIENNE DE POMPAGE DEAU SOUTERRAINE
+1- Présentation
+On estime que chaque année, le vent distribue entre 2,5 et 5 10'5 kWh ; une énergie très importante mais difficilement récupérable. Cest ce potentiel énorme que représente lénergie éolienne et le manque de ressources superficielles en eau qui ont poussé les hommes à trouver un moyen   toujours   plus   perfectionné   pour   transformer   cette   énergie en énergie électrique ou mécanique afin de pomper les eaux souterraines . Généralement, les éoliennes sont couplées à des pompes à eau utilisées pour irriguer des zones sèches; assécher des zones humides; ou abreuver le bétail .
+Suivant la direction de leur axe, les éoliennes se scindent en deux types. Les éoliennes à axe horizontal  dont le rotor ressemble à une hélice davion; et les éoliennes à un axe vertical . Le principal avantage dune éolienne à axe vertical est qu'elle fonctionne quelle que soit la direction du vent; permettant ainsi de s'affranchir dun dispositif d'orientation de la machine. L'une des éoliennes axe   vertical   les plus   connues est le rotor   Darrieus. Inventée   par lacadémicien français Darrieus au cours des années 1920-1935, elle repose sur Peffet de portance subi par un profil soumis à laction dun vent relatif ; effet qui s'exerce sur laile dun avion. De tels rotors peuvent être de forme cylindrique; tronconique, parabolique. (Figure 1) Palog axe varticel
+Hauban
+Cylindrique
+Tronconiquc
+Parabollque
+Figure-l Différentes formes du rotor de type Darrieus
+Concours Mathématique-Physique et Physique-Chimie Session Juin 2008
+Epreuve de STI
+Page 1/14
 
+--- page 3 ---
+2- Description fonctionnelle du dispositif d'étude cause dune pluviométrie   capricieuse et dun réchauffement climatique   planétaire désastreux, les réserves en eau superficielle se rarélient d'année en année Pour contribuer à la sauvegarde de cette précicuse ressource naturelle; on choisit une région plane et asscz venteuse pour y installer unI système dextraction; Féncrgic éolienne; des eaux profondes. Cette eau servira pour Fabreuvement des animaux d 'élevage et Firrigation des terres agricoles. L'installation (figure-2) est constituéc de deux dispositifs principaux
+Un dispositif de pompage composé D'une éolienne de type Darrieus   assez silencieuse  pour   préserver   la  tranquillité   des animaux aux alentours D'une pompe
+Un dispositif dadduction de l'eau pompée composé D'unc canalisation enterrée pour garder Fcau à une température fraîche D'un réscrvoir permettant d approvisionner les abreuvoirs et les systèmes d'irrigation.
+Pale
+Mécanisme
+Mat
+dentrainement de là pompe
+Rotor
+Réservoir Secondaire
+Réservoir Principal
+Serre agricole
+Abreuvoir
+Socle
+'Fgede l2 palge
+Ganalisarop de distribatian]
+Dispositif dadduction
+Pompe
+Nappe phréatique
+(Source d' eau souterraine)
+Dispositif de pompage
+Figure-2 Dispositif éolien dabreuvement danimaux d'élevage et d'irrigation des terres
+Concours Mathématique-Physique et Physique-Chimie
+Session Juin 2008
+Epreuve de STI
+Page : 2/14
 
+--- page 4 ---
+Dans ce travail, on se limite à létude du dispositif de pompage. La figure-3 représente le schéma cinématique spatial de ce dispositif:
+I
+9 1 8
+H } [ 1 5 ] [ { |
+1 1 | 1 8 1 8 1
+1 1
+1 8
+Concours Mathématique-Physique et Physique-Chimie Session Juin 2008
+Epreuve de STI
+Fage : 3/14
 
+--- page 5 ---
+PARTIE A MECANIQUE GENERALE
+Létude portera sur le dispositif de pompage décrit précédemment par les figures 2 et 3 Cette étude est scindée en deux parties.
+PREMIERE PARTIE
+ETUDE DU MECANISME D'ENTRAINEMENT DE LA POMPE
+La figure-Al représente le schéma cinématique du mécanisme d'entraînement de la pompe constitué principalement des éléments suivants
+Le bâti [0] est lié au repère %(0,*0570,70) supposé galiléen: Lexcentrique [1], lié au repère 9,(0,8,5J,,70) , est en liaison pivot d'axe (0,7) avec le bâti [0]. Son mouvement est paramétré par l'angle a=(x,*,)-(J05J;) (figure-A2.a) La bielle   [2],   liée au   repère R2 (A,x2J2,z0) , est en liaison   pivot daxe (A,zo) avec Pexcentrique [1]. Son mouvement est paramétré par ]angle B=(v0,72)-66572) (figure-A2.b) Le piston [3], lié au repère  R,(D,xp,J6,70 ) , est en liaison pivot daxe (,z avec la bielle [2]. Il est également en liaison glissière d'axe (C,yo) avec le bâti [0]. La biellette [4], liée au repère R, (DX,,J4,70) , est en liaison pivot daxe (D,zo ) avec le piston [3]. Son mouvement est paramétré par langle 0-(56,54)-G0514) (figure-A2.c) Le balancier [5], lié au repère %, (F,xs5s,70) , est en liaison pivot daxe (E,7o) avec la biellette [4]: Il est également en liaison pivot daxe (F,7o avec le bâti [0]. Son mouvement est paramétré par ['angle 0=(*o,x,)=GosJs) (figure-A2.d)
+Le balancier [5] est composé de deux tiges ((EF) et (FM)) soudées au point F et formant entre-elles un angle constant "-y. A lextrémité M est accrochée une masselotte. Pour simplifier le paramétrage et par conséquent les calculs, on introduit une base intermédiaire. Cette base orthonormée directe Bs (4,v,70  est tel que Y=(xs,4)=(Js,v)-Cte (figure-A2.e)
+Les positions des différents points sont définies par les vecteurs suivants 0C =% < CF = b J OA = a1 X1 AB = a2 X2 BD =b; & DE = a, %4 FE = as %s MF = d 1 TD =2 y
+Où : a, B,0 et @ sont les paramètres angulaires du mécanisme 1 est un paramètre de translation 80, a1, a2, 44, a5, bo, b1 et d sont des constantes géométriques du mécanisme.
+Concours Mathématique-Physique et Physique-Chimie
+Session Juin 2008
+Epreuve de STI
+Page : 4/14
 
+--- page 6 ---
+M
+$ = Cte
+F
+[5]
+[2]
+@ 2
+[3]
+Xo
+B
+[0]
+Figure-A.1 Schéma cinématique du mécanisme dentraînement de la pompe
+7
+0 70
+Jo
+Z0
+Z0
+B
+Figure-A2.a Mouvement de [I] par Figure-A2.b Mouvement de [2] par rapport à [0] rapport à [0J Yo
+Figure-A2.c Mouvement de [4] par rapport à [0] "s 7o
+40
+Figure-A2.d Mouvement de [5] par rupport à [0]
+Figure-A2.e Position de la base intermédiaire Bs1 par rapport à la base Bs
+Concours Mathématique-Physique et Physique-Chimie Session Juin 2008
+Epreuve de STI
+Page : 5/14
 
+--- page 7 ---
+A-1. ETUDE CINEMATIQUE
+A-1-1. A-1-2.
+Tracer le graphc des liaisons et identifier les liaisons entre les différents solides. Déterminer les matrices de passage [Pls, [P]: , [P]0 e [P]:. A-1-3. Ecrire; dans la base Bo(xo-J-70) , le système déquations correspondant à la fermetur de la chaine cinématique (OABC) constituée par les solides ([0J-[1]-[2]-[3]). A-1-4. Ecrire; dans la base Bo(xoJo.4o) , le système d'équations correspondant à la fermetur de la chaine cinématique (CDEF) constituée par les solides ([0]-[3]-[4]-[5]). A-1-5. Détcrminer le torseur   cinématique, au point 0 dans la base B(,J,,Zo) ,  d Pexcentrique [1] dans son mouvement par rapport au bâti [0] {Vao)} A-1-6. Déterminer le torseur cinématique, au point A dans la base B (,J,76) , de la biell [2] dans son mouvement par rapport au bâti [0] V(zo A-1-7. Déterminer; en  fonction de i le   torseur   cinématique, au point D dans   la bas Bo (osV0,70) , du piston [3] dans son mouvement par rapport au bâti [0] (3/0) A-1-8. Ecrire la condition cinématique au niveau de la liaison pivot; au point B, entre la biell [2] et le piston [3] En déduire le   système déquations;   projetées sur   la basi Bo (xoVo,70) , qui en découle A-1-9. Déterminer  le torseur   cinématique; au point D dans   la base Bo (XosJo,70) , de l biellette [4] dans son mouvement par rapport au bâti [0] V(4o  A-1-10 Déterminer le torseur cinématique; au point F dans la base Bo(Xp,Jo,70) , du balancie [5] dans son mouvement par rapport au bâti [0] (5/0) En déduire le vecteu
+vitesse V(Me5/0) A-1-11. Ecrire la condition cinématique au niveau de la liaison pivot, au point E, entre | biellette [4] et le balancier [5] . En déduire le système d'équations; projetées sur la bas6 Bo (Xosyo,70) , qui en découle.
+A-2- ETUDE CINETIQUE
+Les différents solides admettent les caractéristiques inertielles suivantes Lexcentrique [1] est de centre dinertie 0 et de moment dinertie J par rapport à laxi (0,70) J= Ioz) C (1) Le piston [3], dont le centre dinertie G, est situé sur laxe (H,yo) , est un solide de masse m La masse totale M du balancier [5] est concentrée au point M La bielle [2] et la biellette [4] sont de masses négligeabies.
+A-2-1.
+Déterminer le torseur cinétique, au point 0 dans la base Bo(xo.7,70) , d lexcentrique [1] dans son mouvement par rapport au bâti [0] {Quo}
+Concours Mathématique-Physique et Physique-Chimie
+Session Juin 2008
+Epreuve de STI
+Page 6/14
 
+--- page 8 ---
+A-2-2.
+Déterminer le torseur cinétique; au point D dans la base Bo(xo.Vo.70) , du piston [3] dans son mouvement par rapport au bâti [0] {C;/o} A-2-3 Déterminer le torseur cinétique; au point F dans la base Bs (4,v,70) , du balancier [5] dans son mouvement par rapport au bâti [0] {Gso} A-2-4. Déterminer lénergic cinétique du système {S} = {1, 2, 3, 4, 5} dans son mouvemcnt par rapport au bâti [0] Ec(S/O)
+A-3- ETUDE ENFRGETIQUE
+Dans cette partie, on suppose que
+Laccélération de la pesanteur est g =-gyo L'action motrice du rotor sur Pexcentrique [1] est représentée par le couple c =-Cm7o Laction de /eau sur le piston [3] est représentée; au point H, par la force F =F y Lfaction de la pesanteur sur l'excentrique [1] scra négligée Toutes les liaisons sont parfaites Pour exprimer le torseur des actions mécaniques transmissibles associé à une liaison Lij de centre entre deux solides [i] et ljl (i < j) on utilisera la notation suivante B Xij Lij {T(i 4 j)}q Yij Mij 7j Nij _ Q S'agissant d un mécanisme plan situé dans le plan de symétrie (O,xo54o) , on précisera alors; chaque fois que c'est nécessaire; les composantes nulles du torseur {T(i ~ j)}0
+A-3-1 .
+Isoler le système   {S} {1, 2, 3, 4, 5} et  faire   Je bilan dcs   actions mécaniques extérieures exercées sur ce système . A-3-2 Ecrire, en leurs points   dapplication; dans la base Bo (Xo,Jo,70)= les   torseurs   des actions mécaniques extérieures exercées sur le systèmc {S} A-3-3 Déterminer la puissance développée par les actions mécaniques extérieures exercées sur Ic système {S} dans son mouvement par rapport au bâti [0]. A-3-4. Ecrire la relation qui découle de lapplication du théorème de lénergie cinétique au système {S} dans son mouvement par rapport au bâti [0]-
+DEUXIEME PARTIE
+ETUDE DES ACTIONS MECANIQUES TRANSMISSIBLES SUR LE MAT
+Le mât dune éolienne de type Darrieus est généralement haubané (c'est-à-dire maintenu au sol par des câbles appelés haubans)  (figurc-l) Il doit être correctement   calculé de façon résister aux efforts transmis par les pales: Ces efforts sont dus, dune part, au vent et dautre part à Ja rotation des pales (forces centrifuges).
+Afin de préparer au calcul de la résislance mécanique du mât, on se propose de déterminer Ics composantes inconnues des torseurs statiques équivalents au niveau dcs liaisons entre les pales et le mât à la base; au point 01, et au sommet, au point 02 (figure-A3). Le calcul, qui devrait être cffectué pour ]ensemble des pales, sera limité à une d'entre elles.
+Concours Mathématique-Physique et Physique-Chimie Session Juin 2008
+Epreuve de STI
+Page 7/14
 
+--- page 9 ---
+un instant   donné, la palc, liée au repère (Oo,0,,vrÿo) et dc forme parabolique; est modélisée dans le plan mobile (Oo,4r'Jo par larche de la cycloïde paramétrée par r(5) = a(1-cos5) y(5) = a(5_sin5) . 5e[0,2æ]; a> 0 Elle est en liaison rotule de ccntre O2 et  linéaire  annulaire d'axe (Oyo) avec le mât (figure-A3)
+A une altitude y donnée, Faction du vent sur une pale produit une force résultante F qui se décompose en Une poussée tangentielle en direction de la rotation F qui crée le couple moteur Dans cette partie; on négligera son effet sur le mat. Une poussée normale F qui, même si elle varie fortement en fonction de laltitude; sera supposée constante.
+la force F s'additionne une force centrifuge Fc qui varie en fonction de la densité et de la géométrie de la pale et de la vitesse de rotation de celle-ci. C'est la somme de ces deux forces qu'on appellera charge sur la pale; notée par S=R(charge ~ pale) =F vn+Fc . Cette action est directement compensée par la résistance mécanique du mât.
+Dans cette étude; on  suppose que laction mécanique s est  caractérisée, en un point quelconque P de la pale, par une densité linéique de force (figure-A3) définie par
+7p(charge ~ pale) =y( r-a) 6,
+Où
+Y est une constante positive On posera R = 2a
+A-4-1.
+Ecrire les torseurs  des  actions mécaniques   transmissibles {T;(mât ~ pale)}o au point 01 et {Tz(mât ~ pale)}02 au point O2, au niveau des liaisons entre la pale et le mât. En déduire le torseur, au point O1, des actions mécaniques transmissibles du mât sur la pale {T(mât 3 pale)}0, A-4-2. Déterminer la résultante $ de la charge sur la pale en fonction de Y et R. A-4-3. Déterminer, en fonction de Y et R, le torseur, au point O1, de laction mécanique de la charge qui s'exerce sur la pale {T(charge pale)}o A-4-4. Par   application   du   principe   fondamental de la   statique à la   pale; au point 01, déterminer, en fonction de Y et R, les inconnues des torseurs statiques équivalents au niveau des liaisons
+2n cos tsin dt
+2T et cos t(t-sin t)sin 4dt
+~4t
+Intégrales utiles
+Concours Mathématique-Physique et Physique-Chimie
+Session Juin 2008
+Epreuve de STI
+Page : 8/14
 
+--- page 10 ---
+V
+R-2a
+x a
+Pale
+y(5)
+Ka
+(ch arge ~pale)
+Figure-A3 Répartition de laction mécanique de la charge S sur la pale de Péolienne
+Concours Mathématique-Physique et Physique-Chimie Session Juin 2008
+Epreuve de STI
+Page : 9/14
 
+--- page 11 ---
+PARTIE B AUTOMATIQUE
+N.B Les parties B-1 et B-2 sont indépendantes: Les réponses doivent être rédigées sur les documents réponses.
+Description du système Il s' agit, dans cette partie; détudicr la commande de Farrosage automatique de pots de fleurs contenus dans une serre; assuré par le déplacement dun bras porte-gicleurs au dessus des pots à airoscr_ Un   réservoir sccondaire deau, dont le   remplissage est effectué par unc électrovanne; alimente le système d'arrosage. La première partie concerne létude des conditions de remplissage du réservoir   sccondaire; tandis que la deuxième   partie sera   consacrée à la commande de la vitesse de déplacement du bras porte-gicleurs en fonction de la quantité d'eau nécessaire à larrosage
+Partie B-1 Automatisation du système de remplissage du réservoir Pour que le système darrosage dc la serre fonctionne normalement; le réservoir secondaire d'eau doit êtrc rempli jusqu'à une certaine hauteur, indiquée par un capteur de niveau a (a = 1 si niveau atteint, 0 sinon). tout en ne dépassant pas le niveau de remplissage maximum du réservoir secondaire; indiqué par le capteur de niveau (b = 1 si niveau atteint; 0 sinon)
+Capteur_ de pression
+Eoliemne
+Vers les selres
+Réservoir Principal
+Electrovane
+Réservoi Secondaire
+Pomnpe
+M Commande de Marche/ Amrêt
+Figure B-1 Représentation du système de remplissage du réservoir deau
+Lorsque le niveau dcau descend en dessous du niveau a, Félectrovanne est actionnée afin de remplir le réservoir secondaire. Une fois lc niveau b atteint; lélectrovanne est arrêtéc.
+Concours Mathématique-Physique et Physique-Chimie
+Session Juin 2008
+Epreuve de STI
+Page : 10/14
 
+--- page 12 ---
+La mise en marche de lélectrovanne ne peut être assurée que si le niveau deau dans le réservoir principal (figure-Bl) est supérieur à un niveau minimum. Lorsque ce niveau est atteint, un capteur de pression d passe à 1, sinon il reste à 0
+B-1-1. Déterminer léquation logique de la commande M de marche arrêt de lélectrovanne (M = 0 si Pélectrovanne doit être arrêtée; M 1 si elle doit être mise en marche) B-1-2. Donner le logigramme correspondant à cette équation logique.
+Partie B-2 : Etude de la commande de la vitesse de déplacement du bras porte-gicleurs
+La quantité deau nécessaire aux plantes est déterminée en fonction du taux d'humidité s ( du sol de la serre; variant entre 0 pour un sol sec et 1 pour un sol saturé deau (s(t) est une grandeur sans dimension). Ainsi, lorsque le taux dhumidité est faible; les plantes nécessitent une quantité d'eau plus importante. Dans ce cas; la vitesse de déplacement v(t) du bras  porte- gicleurs doit être réduite afin daugmenter le temps darrosage des plantes. Dans le cas contraire; la  vitesse de déplacement doit être plus élevée pour que larrosage dure moins de temps; réduisant ainsi la quantité deau fournie aux plantes
+Le bras porte-gicleurs est entraîné en translation par un moteur à courant continu muni dun dispositif de transformation de mouvement tel que la vitesse de déplacement linéaire v(t) soit liée à la vitesse de rotation 2(t) de larbre du moteur par la relation suivante v(t) = K; %(t) Le moteur est commandé par une tension continue  u(t) liée à la vitesse de rotation du moteur par léquation différentielle suivante dQ Tm +2(t) = Km u(t) dt où Tm=O.Is et K" 'm = lOrads Vsont respectivement la constante de temps mécanique et le gain statique du moteur .
+D'autre part; la vitesse de déplacement v(t) du bras porte-gicleurs et le taux dhumidité du sol s(tZ sont liés par la loi suivante ds v(t) dt Kz où Kz =10- mIsls désigne une constante caractéristique de la serre.
+Le taux dhumidité s(t est mesuré par un capteur délivrant une tension w(t) telle que w() = K; s(t) avec K;= I0V.
+Ainsi; le   système darrosage   dela serre   peut   être   représenté   par  le  schéma-blocs de la figure B-2
+Concours Mathématique-Physique et Physique-Chimie Session Juin 2008
+Epreuve de STI
+Page - 11/14
 
+--- page 13 ---
+v(t)
+s(t)
+G ( p)
+K1
+G2 ( p)
+G(p)
+Figure B-2 Schéma-blocs du système darrosage
+Les transformées de Laplace utiles sont données dans le tableau B-1.
+F (p)
+f () pour t > 0
+p+a
+e-5", sin(0,) @p @p 2@n V1 -52
+p? +250p+01
+Tableau B-] Transformées de Laplace utiles
+B-2-1. On considère dans cette partie le système en boucle ouverte_ B-2-1-1.  Sachant que; pour une vitesse de rotation 9(t) =10Oradls , la vitesse de déplacement en translation du bras porte-gicleurs est v(t)=.0Imls , déterminer la valeur du cocfficient K; (en m/rad). B-2-1-2. Déterminer les fonctions de transfert  G (p) et Gz (p). En déduire la fonction de transfert en boucle ouverte G(p) = S (p)/u (p) du système. B-2-1-3. Calculer et tracer la réponse impulsionnelle s(t) du système de fonction de transfert G(p) . B-2-1-4.  Tracer les lieux asymptotiques de Bode de G(p) . B-2-2. On désire à présent asservir le taux dhumidité   s(t du sol à une valeur de consignc (t) , représentant une tension image du taux d'humidité désiré . Pour cela; on réalise le schéma de la figure B-3, où R(p) désigne un régulateur .
+"(t) R(p) G(p)
+s(t
+w(t)
+KJ
+Figure B-3
+Concours Mathématique-Physique et Physique-Chimie
+Session Juin 2008
+Epreuve de STI
+Fage 12/14
 
+--- page 14 ---
+B-2-2-1 Dans   le cas dun régulateur  proportionnel R(p) = Kp = déterminer la fonction de transfert en boucle fermée F(p) =s (p) s  (p) du système. B-2-2-2. Déterminer ]erreur statique du système asservi pour une entrée échelon de position unitaire . B-2-2-3. Etudier, en fonction de Kp, la stabilité du système en boucle fermée. B-2-2-4. Pour K =-1, calculer et tracer la réponse indicielle unitaire du système en boucle fermée B-2-2-5. Calculer la valeur de K, permettant dobtenir une marge de phase de 459
+Concours Mathématique-Physique et Physique-Chimie Session Juin 2008
+Epreuve de STI
+Page : 13/14
 
+--- page 15 ---
+PARTIEC TECHNOLOGIE DE CONCEPTION
+C-1- Etude de conception Montage de la liaison encastrement 'On envisage; dans cette partie, dassurer le montage des éléments permettant   la liaison encastrement   entre le pignon conique et Parbre d'entrée du mécanisme de transmission de puissance (figure-3) Pour cela, on dispose des éléments normalisés représentés à 1'échelle 1:2
+Rondelle plate
+Clavette parallèle 10*8*26
+Contre écrou M32
+Ecrou M32
+C-1-1. Compléter   le dessin de la liaison   encastrement du pignon conique avec l'arbre dentrée à l'échelle du dessin. C-1-2. Donner la désignation normalisée de l'écrou utilisé dans le montage de la liaison.
+C-2- Etude graphique Perspective cavalière La bielle [2] est articulée au piston [3] par Vintermédiaire de la chape définie par la vue de face, la vue de dessus et la vue de gauche. On demande de représenter la vue en perspective cavalière de cette pièce à léchelle 1.2 Toutes les cotes utiles à la représentation seront prises directement sur le dessin ci-dessous qui est représenté à léchelle 1.2. On donne k = 0,5 a = 309 (déjà esquissé)
+Echelle 1:1
+Concours Mathématique-Physique et Physique-Chimie Session Juin 2008
+Epreuve de STI
+Page : 14/14

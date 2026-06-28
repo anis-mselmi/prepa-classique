@@ -1,4 +1,87 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Ministère de l'Enseigncment Supcrieur, dc la Recherchc Scientitique et de la Tcchnologic uwsji & Hasiji
+998j142s6aj)
+8kLGsibèüs sssSbuu {<
+Usiw ~yi Bijsliji uhnil issjlji 2009 6,9
+cinguontenair an
+Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs MsnTuT Session 2009 { Gae 1 [Concours Mathématiques et Physiqug eussvus 551- Épreuve de Chimie Date Mardi 02 Juin 2009 Heure : 8 H Durée : 2 H Nombre de pages : 5 Partie [ Partie II Partie III Partie IV Partie V Partie VI Barème /20 1,50 pt 4,25 pts 1.75 pt 4,00 pts 3,50 pts 5,00 pts
+Cet énoncé comporte quatre pages de texte et un document annexe (page 5). Les candidats sont priés de présenter leurs réponses dans Vordre même de l'énoncé. L'usage des calculatrices électroniques de poche non programmables est autorisé. L'utilisation des téléphones portables en salle d'examen est strictement interdite. Aucun échange n'est autorisé entre les candidats.
+DÉBUT DE LÉNONCÉ
+Le vanadium à été découvert en 1801. Son nom  vient de Vanadis, déesse de la beauté dans la mythologic scandinave. Le vanadium est un métal  gris-blanc; mou et ductile. Il ne réagit pas avec lair humide; ni avec la plupart des bases et des acides à la température ambiante. Il réagit avec les acides concentrés. Il se trouve principalement dans les minerais de patronite (VSA) et de vanadinite [Pbs(VOA)JCI]: Associé avec d'autres métaux; le vanadium constitue des alliages durs et résistants. Le pentoxyde de vanadium (VzOs) est utilisé comme catalyseur, colorant et fixateur.
+Données à 298 K) Numéro atomique du vanadium 23 Masses molaires (g.mol- ') vanadium Mv = 50,9 et zirconium Mzr = 91,2. Nombre d'Avogadro : NA = 6,02.1023 mol-! Constante des gaz parfaits R = 8,32 JK"' mol   RT xLn(x) = 0,06 logio  (x) (en volt) F
+PARTIE L : Structure électronique : (L 50 pt2 I-1) Citer les règles à appliquer lors du remplissage des niveaux électroniques. 1-2) Écrire la structure électronique du vanadium dans son état le plus stable. 1-3) Déduire ses états d' 'oxydation les plus probables. 1-4) Parmi ces degrés doxydation; quels sont les plus stables ?
+Concours Mathématiques et Physique, Session Juin 2009
+Éprcuve de Chimie
+Page 1/5
 
+--- page 2 ---
+PARTIE II Empilement_métallique et_composés interstitiels (4.25 pts2 Le vanadium a une masse volumique p = 6,11.10 kg.m Il cristallise dans le système cubique avec un paramètre de maille a = 3,028 A. II-1 ) Trouver le type de réseau du vanadium. 11-2) Établir 1expression donnant le rayon métallique du vanadium Rv. Le calculer . I1-3) Cet empilement est-il compact ? Justifier en calculant la compacité . 11-4) Représenter une projection cotée de la maille et de son contenu selon ]axe c. II-5) Représenter sur deux projections cotées différentes de la maille selon l'axe c : 9 - les sites octaédriques représentés par le motif < 0 > b- les sites tétraédriques représentés par le motif T> Pour le vanadium, il existe trois composés interstitiels de même réseau cubique Phydrure VHz, le carbure VC et le nitrure VN. Dans chacun de ces trois composés un seul type de site est saturé. II-6) Préciser le type de réseau cubique décrit par le vanadium dans ces composés. II-7) Dans quel type de sites interstitiels seront logés les atomes d'hydrogène ? II-8) Dans que] type de sites interstitiels seront logés les atomes de carbone ? 11-9) En utilisant le rayon Rv de la question II-2, établir lexpression du paramètre avH2 de la maille de   Thydrure de vanadium sachant que le rayon de   latome d'hydrogène vaut Ru  0,534 A. On supposera  que les atomes dhydrogène sont tangents aux atomes de vanadium II-10) Attribuer, en le justifiant; les valeurs des   paramètres de maille suivants a1 = 4,137   et a2 4,172 % aux composés VC et VN: II-11) Établir les expressions des rayons Rc et Rn des atomes 'de carbone et dazote. Les calculer . II-12) Représenter une projection cotée; selon laxe c de la maille et de son contenu de Fhydrure insaturé de formule VH de même réseau que les composés précédents. PARTIE III : Structures ioniques : (1 75 ptE Dans Toxyde de vanadium VO la liaison V-O, supposée ionique pure; a une longueur dv-o 2,036 A. Si le rayon de lion 0?- vaut Roz- = 1,320 % III-1) Calculer Je rayon de lion vanadium Rvz+. III-2) Faire un dessin de la maille de cet oxyde avec son contenu' III-3) Calculer son paramètre de maille avo: III-4) Quels sont le nombre et le polyèdre de coordinence des cations ? PARTIE IV :_ Diagramme de Pourbaix (400 pts) On considère le diagramme de Pourbaix simplifié du vanadium représenté sur la figure au document annexe. IV-1) Attribuer sur la figure (à rendre avec la copie) les domaines numérotés de 1 à 7 aux espèces suivantes V(s), V2+_ v3 , (VO)? , (VO2)' VzO2(s) et VzO3(s) IV-2) Désigner sur la figure les domaines de corrosion; de passivation et d'immunité. IV-3) Établir Fexpression des équations des courbes frontières nommées (a), (b) et (c) pour une concentration des espèces en solution Ctra: IV-4) Trouver Fexpression du pH de formation dune mole de VzOz(s) en fonction de Ka du couple acido-basique V?-/VzO2(s) et de Ctra:
+Concours Mathématiques et Physique, Session Juin 20u9
+Épreuve de Chimie
+Pagc 2I5
 
+--- page 3 ---
+PARTIE V : Diagrammes dEllingham (3,50 pts) Les   diagrammes d'Elligham du vanadium et du carbone pour des   températures comprises entre 0 et 2000 C sont donnés ci-dessous: V-I) Écrire Féquation de loxydation du vanadium en VzOs relative à une mole de dioxygène pour des températures comprises entre 1000 et 1500'C en précisant les états physiques des réactifs et des produits. V-2) Exprimer Penthalpie libre standard de cette réaction en fonction de la température; des enthalpies standard de formation des produits et des réactifs et de leurs entropies standard en respectant ]approximation dEllingham. V-3) En utilisant le diagramme ci-dessous; exprimer numériquement Penthalpie libre standard de cette réaction en fonction de la température en kelvin V-4) En déduire /enthalpie standard de formation du composé VzOs sachant que son enthalpie de fusion vaut Afus Hv,Os(sd) 64 kJ.mo]-' V-5) Écrire  la réaction de réduction de Foxyde VzO; solide par du carbone  pour T<1900 C. V-6) Monter   graphiquement que cette   réaction n est possible   qu'à partir dune température T;- V-7) Donner cette température en kelvin. V-8) Y a-t-il un sous-produit de cette réaction auquel on pourrait s'attendre ? Lequel ? ArG' (T) / KJ moi-1 500 1000 1500 2000
+T/ c
+100
+200
+300
+cO2/c
+400
+500
+~600
+-700
+F: Fusion du métal f: Fusion de l'oxyde
+~800
+Diagrammes dEllingham du vanadium et du carbone
+Concours Mathématiques et Physique, Session Juin 2009
+Épreuve de Chimie
+Page 3/5
+Co2ico V2Os / V
+VzO3/V
+coic
 
+--- page 4 ---
+PARTIE VL:_Diagramme déquilibre de_phases (5,00 pts Sur la figure ci-dessous est présenté le diagramme binaire solide-liquide du couple vanadium (V)-zirconium (Zr) sous la pression normale. VI-1) Donner la   signification des   températures T1 2183 K T2 = 2128 K et T3 = 1136 K. VI-2) Quelle est la nature de la miscibilité solide-solide ? Justifier. VI-3) Que représentent les points C et D ? VI-4)   Quel est le type de fusion du composé intermédiaire stœchiométrique C1 ? Donner les caractéristiques de ce composé. VI-5) Trouver sa formule. VI-6) Indexer les domaines numérotés 1, 2,3 et 4. VI-7) Quel est le nom de la courbe représentée en trait discontinu ? VI-8) Nommer et écrire les équilibres qui se produisent à 1573 Ket à 1538 K. VI-9)   Établir les expressions puis calculer les masses de vanadium (mv) et de zirconium (mzr) à mélanger   pour avoir m = 100 g de mélange de composition Xzr= =0,4 VI-10) Ce mélange est porté à 1800 K puis refroidi à 1200 K. Tracer Fallure de la courbe danalyse   thermique qui accompagne ce refroidissement en commentant chaque accident thermique.
+T(K) 2183 2200
+2128
+2000
+3
+1800
+2 1600 C 5
+47
+1573
+E
+1538 83,5
+57
+1400
+4
+1200
+1136
+1050
+1000
+91,4
+800
+10
+20
+30 40 50 60 70 80 90 Zr C1 96 atorique Diagramme binaire solide-liquide vanadium V)-zirconium (Zr) FIN DE LÉNONCÉ
+Concours Mathématiques et Physique Session Juin 2009
+Épreuve de Chimie
+Page 4/5
 
+--- page 5 ---
+Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs
+Session Epreuve de Nom Institution dorigine
+Concours
+Prénom
+Identifiant :
+Série
+Annexe : Diagramme de Pourbaix simplifié du vanadium
+E (V)
+Vod ,x H2O
+(c)
+{a)
+RENDRE_AVEC LACOPEE
+Concours Mathématiques et Physique, Scssion Juin 2009
+Épreuve de Chimie
+Page 5/5

@@ -1,7 +1,117 @@
+--- page 1 ---
+4Ss2/e21 Bb]#lbZ~s {Lsls Ji Yyi ELJi Umiiuflj 201561
+REPUBLIQUE TUNISIENNE Ministere de VEnsergnement Superieur et de la Recherche Scientifique
+Concours Nationaux d'Entrée aux Cycles de Formation d' 'Ingénieurs Session 2015
+Concours Physique Chimie Epreuve de Physique
+Date Jeudi 11 Juin 2015
+Heure 8 H
+Durée 4 H
+Nbre pages 08
+Barème Problème 1: A : 8 pts, B : 5 pts, C : 2 pts
+Problème 2: 5 pts
+'usage d'une calculatrice non programmable est autorisé L'épreuve comporte deux problèmes indépendants, le candidat peut les résoudre dans V'ordre qui lui convient, en respectant néanmoins la numérotation des questions. Un candidat peut toujours se servir d'un résultat fourni par V'énoncé pour continuer sa composition.
+Données numériques Masse de Félectron Charge électrique élémentaire Vitesse de la lumière dans le vide Permittivité diélectrique du vide
+m =9.1x10-31kg e =1.6*10-19c =3x108 ms-1 E0=8.85*10-12Fm 51
+Formulaires La force gravitationnelle qui s'exerce entre deux corps et B distants   de s'écrit Ifal = G"4m2 où G est la constante universelle de gravitation. rot(rotu) grad [(divu) Au
+Problèmel
+Interactions des ondes électromagnétiques avec la matière A - Réflexion, transmission
+1- On considère une onde électromagnétique plane progressive monochromatique de pulsation 0. se propageant dans Fair assimilé au vide. Cette onde arrive sous incidence normale sur un conducteur  parfait   placé en (Figure] ). Le champ électrique associé cette   onde incidente s écrit sous la forme E(M;t) = Eoeiot-kz) Tx
+Eo et k sont deux constantes positives.
+Concours Physique Chimie Session Juin 2015
+Epreuve de Physique
+Page 1/8
 
+--- page 2 ---
+I-1- Déterminer le champ magnétique Bi de cette onde 1-2- Déterminer < pemi >, la moyenne temporelle de la densité d'énergie électromagnétique. 1-3- Déterminer < R > , la moyenne temporelle du vecteur de Poynting. Montrer Figure que ce vecteur est analogue à celui utilisé pour décrire le mouvement de charges dans le conducteur. Donner alors sa signification physique
+I-4- Que vaut le champ électromagnétique à F'intérieur de ce conducteur Justifier . 1-5- Une onde réfléchie naît dans la région z < 0, décrire le phénomène physique responsable de Fapparition de cette onde 1-6- Que vaut la densité de charge surfacique 0 sur F'interface airlconducteur ? Justifier. 1-7 - Déterminer   le vecteur   densité de courant   surfacique Js qui apparait   sur Finterface air/conducteur . Commenter sa direction par   rapport la   direction du champ électrique incident.
+1-8 - On étudie maintenant; la force exercée par ce courant sur un élément de surface dS de Finterface z=0. Cette force peut s'écrire en notation réelle sous la forme suivante
+dF = JsdS ^ Bs-ds(z = 0-)
+Bs-ds(z = 0-) est le champ magnétique créé par toute la distribution de courant sauf celle due à Félément dS. Exprimer la valeur moyenne temporelle dF en fonction de Eo Eo et dS .
+1-9- En déduire que la   pression moyenne exercée sur |élément de surface dS, appelée pression de radiation; $' écrit sous la forme
+I< dF > p = 2 < Hemi dS
+1-10- L'onde incidente est un faisceau laser de puissance moyenne mW et de section égale à 0,35 mm? calculer la valeur numérique de la pression de radiation. Commenter
+II- Dans cette partie; on traite une application de la pression de radiation liée à Forientation de la queue des   comètes. Celles cisont des petits corps du système   solaire   de quelques kilomètres de diamètre en orbite autour des étoiles. A lapproche du soleil, ils se forment des particules de poussière. le tout formant ce que Ton appelle la queue de la comète (Figure 2).
+Concours Physique Chimie Session Juin 2015
+Epreuve de Physique
+Page 2/ 8
 
+--- page 3 ---
+Lle
+solcl
+t
+Rhyonetnent Boldide | Figure 3
+Une particule de poussière s'apparente à un grain sphérique conducteur parfait de de masse rayon a et volumique (Figure 3). Cette dernière est soumise à Fattraction gravitationnelle solaire ei à une force répulsive due à la pression de radiation . On admettra !'expression suivante de la pression de radiation d'une onde électromagnétique plane, qui frappe sous Fangle d'incidence € par rapport à la normale à la surface du grain EoEZcos20 Eo est /'amplitude du champ électrique de l'onde incidente. II-Il- Exprimez la force dF exercée par le rayonnement   solaire sur un élément   de surface du grain en fonction de Eo. Eo 0, a et 4r
+I-12- En déduire que la force F peut se mettre sous la forme
+<F >=< IRH 1212'
+On donne
+T/2 cos?€ sinfde =
+I1-13- Montrer que si la force due à la pression de radiation Y'emporte sur le force dinteraction gravitationnelle exercée par le soleil. alors le rayon limite ao dun grain de poussière vérifie la relation suivante 3P 30 16ncGpMs Ms est la masse du soleil ei P esi la puissance moyenne rayonnée par le soleil. I1-14- Commeni peui-on expliquer que les grains ne s'échappent pas de la comète ? III- Dans cette partie; on étudie Finteraction de Fonde électromagnétique avec le milieu qui n'est plus un conducteur parfait mais désormais un conducteur métallique réel. Sous ] effet dun champ électrique de la forme E Eoeitot-kz) un électron (charge -e, masse m) de ce conducteur acquiert un mouvement caractérisé par une vitesse de dérive notée Dans le cadre du modèle de Drude. 1'ensemble des collisions aléatoires que subissent les charges du conducteur est modélisé par une force de frottement de la forme 7 où est une constante homogène à un temps.
+Concours Pnysique Chimie Session Juin 2015
+Epreuve de Physique
+Page 3/ 8
+Figure
 
+--- page 4 ---
+On note N le nombre de porteurs de charges par unité de volume Le métal est considéré comme un milieu neutre; homogène; ayant la même permittivité et la même   perméabilité  que celles du vide. On néglige Fapport magnétique sur les forces exercées sur l'électron; et on admet que les dimensions atomiques sont faibles devant la longueur d'onde
+III-15- Ecrire l'équation de mouvement de Félectron  et déterminer ]expression de Z en fonction de m, I,e, @ et E III-16- Le vecteur   densité de courant volumique vérifie la loi d'Ohm locale. Il s'écrit sous la J = oE Déduire que To forme g et exprimer 0o en fonction de N, e, m et € Que 1+lur représente 0o
+Le métal occupe toujours le   demi-espace Le   champ électrique de Fonde électromagnétique dans ce milieu est de la forme : E = {(z)eiot ux.
+III-17- Ecrire les équations de Maxwell dans ce milieu. III-18- En déduire Féquation aux dérivées partielles vérifiée par le champ électrique. Nez III-19- On pose @2 Montrer que {(z) vérifie l'équation suivante Eomn
+d2 f(z) W2 rog '22 f(z) = 0 où 2? = 1 _i dzz @(1+iwr)
+III-20- On pose n = n in et on suppose que et n sont   positifs. Déterminer Fexpression du champ électrique qui se propage dans le sens des Z croissants. On donne Eo = { (z = 0). III-21- Déterminer la vitesse de phase de cette onde. Le milieu est-il dispersif ? Justifier. III-22- Déterminer le champ magnétique associé à cette onde. En déduire la valeur moyenne temporelle du vecteur de Poynting de cette onde. III-23 - Exprimer la puissance moyenne qui traverse une section $ perpendiculaire à (Oz) sous la forme P(z) = Poe] Cz où Po est une constante à exprimer en fonction de n' , S, Eo; c et Eo. Que représente œ Donner son expression en fonction de n et €.
+B- Transparence dun conducteur dans lultraviolet On se propose de déterminer Vexpression de la permittivité diélectrique dun métal linéaire; homogène et isotrope à l'aide du modèle de Drude. On note Z(t) Ieiat le vecteur déplacement dun électron induit par le champ électrique appliqué au métal. Ce champ est de la forme : 5 = Epei(ot-kz) . IV-24- Ecrire l'équation de mouvement dun électron; en déduire Fexpression du vecteur déplacement Z(t). On introduira une force de frottement fluide de type ~ym $ où Y = est un coefficient positif et on négligera la force magnétique exercée sur ]''electron. IV-25- Ecrire ]expression du vecteur polarisation E(t) en fonction du nombre N d'électrons par unité de volume; de la charge de F'électron et du vecteur déplacement I(t).
+Concours Physique Chimie Session Juin 2015
+Epreuve de Physique
+Page 4/ 8
 
+--- page 5 ---
+IV-26- Montrer que la permittivité diélectrique relative Er du milieu métallique s'écrit sous la forme: W2 Er = 1 _ W2 _iyt) Déduire alors Fexpression de :r et €r , sachant que Er Er icr IV-27- Pour les ondes de pulsation telle que @ > Y; montrer que Er peut se mettre sous la wg forme Er ~ €r = 1 = W 2 Dans toute la suite on considère que cette condition est vérifiée
+IV-28- Représenter graphiquement l'allure de er en fonction de Quelle grandeur physique W2 peut-on déterminer à partir de ce graphe ? dE IV-29- Mettre la densité de courant totale dans le conducteur sous la forme JT EoEr dt On exprimera Er en fonction de 0, @ et €o puis en fonction @p et @
+On suppose que le champ électrique appliqué au métal (occupant le demi-espace 220) s'écrit E Eo ei(at-kz)ux' IV-30- Montrer à partir des équations de Maxwell que le champ électromagnétique vérifie 1'equation d'onde 03 AE + &E=6 où Er = 1 W - IV-31- Exprimer la relation de dispersion en fonction de @; c et n. Représenter le graphe k en fonction de @. On rappelle que Findice de réfraction dun milieu s'écrit Er n? IV-32- En déduire que le métal se comporte comme un miroir pour @p et qu'il est transparent pour 0 > @p
+IV-33- L'argent cristallise dans un système cubique à faces centrées de paramètre de maille 0.412 nm Montrer que le nombre d'atomes par unité de volume est En déduire le nombre d'électrons N par unité de volume sachant qu'un atome d'argent comporte un seul électron mobile.
+IV-34- Calculer numériquement la valeur de la pulsation plasma Up pour |'argent. En déduire la longueur d'onde 2p correspondante. quel domaine spectral d'ondes électromagnétiques cette valeur correspond-elle ? IV-35- On rappelle que le coefficient de réflexion en énergie R sous incidence normale dun milieu dindice np (Fair) à un milieu dindice nz (le métal) écrit: lorsqu 'on passe R = 'D1-n2 L'air étant assimilable au vide, calculer R lorsque 0 @p et lorsque W > Wp +nlz Expliquer pourquoi /'argent massif  n'est pas coloré.
+Concours Physique Chimie Session Juin 2015
+Epreuve de Physique
+Page 5/ 8
 
+--- page 6 ---
+C - Superposition de deux ondes électromagnétiques Au cours de leur propagation entre un émetteur et un récepteur, les ondes électromagnétiques peuvent êtrë réfléchies ou diffractées par des obstacles. C'est un phénomène assez général qui peut altérer le signal électromagnétique utile. Le dispositif de la figure ES[ constitué dune source supposee ponctuelle et monochromatique (E); dun récepteur (R) et d un miroir . Le miroir utilisé est   une plaque métallique (supposé un conducteur parfait). On a donc deux trajets distincts un chemin direct et un autre indirect après réflexion Notons ed (respectivement e;) la distance parcourue par le ravon lumineux suivant le trajet direct   (respectivement suivant le trajet   indirect) . Les deux   ondes  électromagnétiques   sont polarisées rectilignement  suivant la même  direction .  On rappelle que la réflexion sur un conducteur parfait introduit un déphasage de T.
+R
+Figure 4
+V-36- Figurer sur un schéma la source (émetteur) fictive du système V-37- Donner les expressions de ed et e; en fonction de d et L V-38- En supposant d < L. donner une expression approchée de e; En déduire la différence de marche géométrique  ôgéo = e; ~ eà. V-39- Soient Ia Fintensité de Fonde issue du chemin direct et I; celle obtenue après réflexion Donner /'expression de F'intensité I(d) de Fonde reçue au niveau du récepteur. Tracer cette intensité en fonction de d2. V-40- Quelle est   la   condition sur  ]; et Id permettant daboutir un contraste maximal ? Justifier. V-41-La condition précédente étani vérifiée. pour quelles valeurs de d le récepteur reçoit-il le triple de F'intensité Ia de Fonde issue du chemin   direct? On donne L 1m et / = 3cm.
+Problème 2 Ondes acoustiques longitudinales dans un métal Un méta] est   modélisé par un réseau   parallélépipédique d'atomes de masse m  dont les liaisons sont représentées par des ressorts. Ces atomes sont disposés aux nœuds de ce réseau. Les plans   atomiques peuvent sE déplacer en bloc sous   |' effet d une perturbation . On 'intéresse à une chaîne d'atomes dans la direction Ox (Figure 5 ). Les actions de la pesanieur et des forces de frottement soni négligées devant les forces de rappel mises en jeu. Les
+Concours Physique Chimie Session Juin 2015
+Epreuve de Physique
+Page 6/ 8
 
+--- page 7 ---
+ressorts parallèles à Ox ont tous une raideur œ et une longueur au repos a et on note Un(t) le déplacement à Finstant t de Fatome de rang n autour de sa position d'équilibre (un(t) < a).
+n+1
+Un+1
+VI-42- Montrer que l'équation du mouvement de Fatome de rang n s'écrit d?un m dt? @(Un+1 + Un-1 Zun) VI-43- À quelle condition sur W et k, une onde du type Un (t) Aeilot - kna) peut-elle se propager le long du métal ? On posera 02 VI-44- Quelle raison nous  permet de considérer  que Vamplitude ne dépend pas de la position de F'atome de rang n? VI-45- Représenter et commenter le graphe 0 en fonction de k. Préciser pourquoi on peut restreindre l'étude de @(k) sur Fintervalle VI-46- Déterminer la vitesse de phase et la vitesse de groupe de cette onde. VI-47- Déterminer ces vitesses pour des longueurs d'onde % > a. Commenter.
+En utilisant l'approximation de milieu continu; il est possible d'écrire Un (t) u(x na, t), Un-1 (t) u(x = na a,t), Un+1(t) = u(x =na +a,t)
+VI-48- Montrer que le déplacement u(x, t) satisfait à Féquation de d' Alembert.
+d2u Oxz
+1 a24 =0 V2 dt?
+Exprimer alors la vitesse de propagation V de Fonde en fonction de m, œ et a. On peut relier les paramètres   microscopiques de   loscillateur élémentaire (m,œ) aux paramètres macroscopiques de Fonde acoustique en se plaçant à Féchelle mésoscopique. Cette onde est caractérisée par sa vitesse de propagation et par son impédance acoustique Z, définie comme le rapport entre Vamplitude de la pression acoustique p et Vamplitude de la vitesse de déplacement. En notant € la déformation   longitudinale et Y le module dYoung  la loi de Hooke en élasticité permet de relier p et € par:
+Concours Physique Chimie Session Juin 2015
+Epreuve de Physique
+Page 7/ 8
+Uu = 1
+Figure
 
+--- page 8 ---
+du
+p = Ye avec Y =
+et € =
+Ox
+VI-49- Situer Féchelle mésoscopique en précisant un ordre de grandeur. VI-50- Quelle est Funité de Y ? VI-51- Montrer que la déformation longitudinale € s'écrit 1 du V dt VI-52 - Exprimer alors Timpédance acoustique Z en fonction de Yet V, puis en fonction de V et p la masse volumique du matériau .
+VI-53- On considère une tranche du matériau d'épaisseur au repos dx, de surface dS et de masse pdSdx (Figure 6) Etablir Féquation donde vérifiée par le déplacement   u(x; t). Exprimer   la vitesse de propagation en fonction de Yet p. Application numérique calculer pour p = 8 920 Kgm-3 et V = 460Oms -1
+dS
+dF
+dF g X
+X+dr
+Fin de Vépreuve
+Concours Physique Chimie Session Juin 2015
+Epreuve de Physique
+Page 8/ 8
+Figure

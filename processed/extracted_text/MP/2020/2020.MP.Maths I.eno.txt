@@ -1,4 +1,97 @@
+--- page 1 ---
+République Tunisienne Ministère de Enseignement Supérieur et de la Recherche Scientifique Concours Nationaur dEntrée aux Cycles de Formation dIngénieurs Session 2020
+1sji _Z964?Ji #1xsss)g(ie Busjegls J,za uji =ublJji 0ai~i 0581>Ji 2020 531
+Concours Mathématiques et Physique Epreuve de Mathématiques I
+Session 2020
+Date 16/07/2020
+Heure 8H
+Durée 4 heures
+La qualité de la rédaction et de la présentation, la clarté et la précision des raisonnements entreront pour une part importante dans lappré- ciation des copies. Lusage des calculatrices n'est pas autorisé . Tout résultat fourni dans lénoncé peut être admis et utilisé par la suite, même s'l n'a pas été démontré
+Exercice (4,5 points On note Mn(R) Yespace vectoriel des matrices carrées réelles dordre n € N* , GLn(R) le groupe des matrices inversibles de Mn(R) et In la matrice identité de Mn(R) On considère Yensemble D des matrices A = (aij)1<ijsn € Mn(R) vérifiants
+@ii > Elaijl pour tout i € {1,2,.. ,n} - j=1 j#i
+1 Pour p € {1,2,.. ,n}, on considère lapplication fp définie par
+1 Mn (R) R
+fp
+A = (aij)1zijsn 1
+@pp Elapil j#p
+(a) Montrer que, pour tout p € {1,2,.. n} , Zapplication fp est continue sur Mn(R) (b) En déduire que D est un ouvert de Mn(R).
+2. Soit A € D et X€ Mn,1(R) tels que AX = 0. Montrer que X = 0. (On pourra considérer la composante de valeur absolue maximale du vecteur X). En déduire que Dc GLn(R) 3. Montrer que D est une partie convexe de Mn(R). 4. Montrer que lapplication det Mn(R) 2 R
+A
+det( A)
+est continue. 5  En déduire que det( A) > 0, pour tout A € D.
 
+--- page 2 ---
+Concours Mathématiqueg et Physique
+Epreuve de Mathématiques
+Page 2 sur 5
+6. Soit A = (aij)1zijzn € Mn(R) telle que Qii 2 Jaij|, pour tout i € {1,2, n}  }i j#i Montrer que det(A + eIn) > 0, pour tout € > 0. En déduire que det(A) 2 0.
+Problème
+Dans ce problème, on désigne par @ la fonction définie sur ]~o,1[ par
+1
+si t + 0. mn(i =t) 2 si t =0.
+@
+Partie 1 (1,5 points) Préliminaires Les deux questions suivantes sont indépendantes.
+1. Montrer que la suite (Yn)neN- définie par Yn = ~In(n) + pour tout n € N* , est conver- k kzl gente. On note Y sa limite +0 2 On pose pour tout x > 0, T(x) = tx-le-dt
+a) Montrer que T est bien définie sur R; et que, pour tout x > 0, T(x+1) = xT(x) (b) En déduire que; pour tout k € N,T(k +1) = k:.
+Partie 2 (5 points) Etude dune intégrale 1 (a) Montrer que est une fonction continue sur ]~0,1 [
+(b) Montrer que
+@(t)dt converge. On note J =
+@(t)dt.
+2. Soit € > 0.
++o e
+(a) Montrer que, pour tout & > 0, Yintégrale
+dt converge et
++0 e~at dt =
++0 e-u du.
++% e-at e-Bt (b) En déduire que, pour tout & > 0 et B > 0, lintégrale dt converge et
++0 e
+e-Bt 'eB e-u dt = du ea
+3. Soient & et B deux réels strictement positifs
+'eB e-u (a) Montrer; à laide dun encadrement, que lim du = In(Ê) 040+
 
+--- page 3 ---
+Concours Mathématiques et Physique
+Epreuve de Mathématiques
+Page 3 sur
+1o
+(b) En déduire que
+e-4t e-Bt dt converge et déterminer sa valeur.
++0 e~u 1 _ e" Montrer que J = e-zh(u)du, où h(u) = 1 _ pour tout u > 0. 1 _ Indication On pourra effectuer le changement de variable u = In(1 _ t). 5. (a) Pour tout n € N* on pose Yn : J0,+œ[ ~ R; uF h(u)e-nu_ Montrer que Yn est intégrable sur ]0,+o[ Et que
++o Iwn (u)|du
+1+In(n) -In(n +1)
+(b) En déduire que =Y-
+Partie 3 (3 points) Développement en série entière de @ On considère la suite de fonctions définies sur [0,1] par
+x (1 x) (n x) uo (x) = x et Vn 2 1, un (x) = pour tout x € [0,1] . (n+1)!
+Montrer que, pour tout x € [0,1] et tout n € N, 0 < un (x) < n+1' En déduire que la suite de fonctions (un)neN converge uniformément vers la fonction nulle sur [0,1]. 2. Montrer que, pour tout t €]-1,1[
+1 - J (1 _t)" dx = t1(t) - 3. (a) Soit x € [0,1]. Justifier que, pour tout t €]-1,1[
++0
+(1 _ t)x
+1 _ Eun-1(x)tn . n=l
+(b) En déduire que, pour tout t €]-1,1[,
++0 @(t) = E @ntn, où @n n=0
+Un (x)dx.
+@n Montrer que Y = (On pourra considérer une primitive de @ sur ] ~1,1[). n=0 n +17
+Partie 4 (6 points) Formule de type Taylor et applications Dans toute la suite, on considère une fonction f : R+ ~Rvérifiant la propriété IA >0et B € Rtels que Vt € Rt If (t)| < Aest . 1 Soit n € N*
 
+--- page 4 ---
+Concours Mathématiques et Physique
+Epreuve de Mathématiques L
+Page sur 5
+(a) Montrer que, pour tout t € R+,la série Efgw k! converge absolument. k2o On pose alors, pour tout t € R+ fn (t) = e-nt Éf44 k=0 k!
+(b) Montrer que la fonction fn est continue sur R+ 2. On fixe x un réel strictement positif, on considère une suite (Xk)keN; de variables aléa- toires indépendantes sur Yespace probabilisé (0,T,P) et on suppose qu elles suivent toutes la loi de Poisson de paramètre x Pour tout n € N* on pose Sn = X1 + .  . + Xn. (a) Montrer que Sn suit la loi de Poisson de paramètre nx. Sn (b) Déterminer lespérance E de Sn et en déduire que E 52 -*)2) =x (c) Montrer que Sn admet une espérance finie donnée par E (f(s)) fn(x) 3. Dans cette question; on fixe n € N* et x un réel strictement positif. On suppose que B <0 et que f est continue en x (a) Soit € > 0 i) Montrer quil existe & > 0 tel que, pour tout t € R+
+A
+If (t) = f (*)1<242(-*)2 + 2
+ii) En déduire que
+A x Ifn  (*) -f(r)<24" + 2
+(b) Montrer alors que
+f(x) lim e-nx Ëf042 n-++0 k! k=0 Dans cette question on fixe n € N* et on suppose que la série Efh converge absolument. k2o Montrer que +oo +0 fn(x)dx = 1 Ef4) k=0 Dans la suite, on suppose que f est continue sur R+ et que B < 0.
+5. Montrer que, pour tout n € N* , la série Ef(k) converge absolument. k20 6. Montrer quil existe no € N* tel que n(ef _ 1) < #, Vn 2 no. En déduire que Ifn (x)| < Ae{x Vx €R+,Vn > no.
 
+--- page 5 ---
+Concours Mathématiques et Physique
+Epreuve de Mathématiquee
+Page sur 5
+7. Montrer alors que f est intégrable sur R+ et que
+to 40 lim 1 f (x)dx 'fg n-++0 n k=0
+8. En appliquant le résultat de la question précédente à une fonction f bien choisie; montrer que T0 Y = Jim In(1 - e-4)+2 n-++0 k=1 n(eÂ =1)
+Fin de lénoncé

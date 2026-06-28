@@ -1,3 +1,110 @@
+--- page 1 ---
+u
+oo
+Mmnaèr & IEseigunet Supjier et d b Recherde Scintifyx
+GyLzÉ Jeswaihsll olshuini Shuxani iofuelyyi 200+908
+Conours Nationux d'Etré ax Cycles de Pamatio d' 'Ingéieurs Sesan 2010
+Concours Biologie
+Epreuve de Mathématiques
+Date: Lundi 31 Mai 2010
+Heure: 8 H
+Durée: 3 H
+Nbre pages: 4
+Barème 2 Parti I: 7 pts, Partie II: 7 pts, Partic III: 6 pts
+Une grande importance sera attachée à la rigueur du raisonnement , à la clarté et au soin de la présentation.  T;usage des calculatrices n'est pas autorisé.  Il est rappelé que tout résultat énoncé dans le texte peut être utilisé pour traiter la suite; même s'il n'a pu être démontré.
+Notations et rappels: les notations suivantes sont considérées au cours de ce texte:
+R: le corps des nombres réels.
+WnstituT Frepanatoire _ 9 CISLIOTHEQUE Fudes [ 0 eeneues SH
+2] I2 13
+R3 est Fespace vectoriels des vecteurs æ =
+coefficients réels.
+On suppose que R3 est muni du produit scalaire canonique < > défini par
+<x,U >= TU1 + I2U2 + 13y3
+M3(R) est l'espace vectoriel des mnatrices carrée d'ordre 3 à coefficients réels. (n,F,P) UII espace probabilisé donné.
+Les   variables   aléatoires   notécs v.a. sont à valeurs  réelles et définies   sur le même espace (0,F,P).
+fx: la densité de probabilité d'une v.a. continue X. Fx: la fonction de répartition dune v.a X. E(X) est /' espérance mathématiquc de la v.a X.
+Var( X) est la variance de la v.a. X.
+Cov(XL, X2) est la covariance de Xp et X2. On notera par N(u,02) la loi normale de paramètres d'espérence u et de variance 0?
+Concours Biologie Session   Juin 2010
+Épreuve de Mathématiques
+Pagc 1/4
 
+--- page 2 ---
+Problème
+Soit la fonctiou f indéfiniment dérivable de R' à valeurs dans R, définie par
+11 12 T3
+f (z) = $12 ~ T]12 + 222 + "3 ~ 13 ; Vx = 2
+€ R3
+Partie I
+1. Vérifier qu'on peut écrire f sous la forme
+T1 12 13
+1 f (æ) = 2
+AI, = 1 > ~ <b,I > , Vx =
+€ R3_
+où A est une matrice de M3(R) et b est un vecteur de R3 donnés par
+2 =1
+A =
+b =
+(:
+df 2 Calculer les dérivées partielles (z) de f pour i = 1,2,3 #T; 3 . Soit le système défini par Ôf (x) =0, Ôx]
+@f(z) = 0, @12
+(1)
+df (z) = 0 dx3
+Montrer que ce système peut se mettre sous la forme Ar " b
+4 Trouver les valeurs propres de la matrice A et les vecteurs propres associés.
+5 La matrice A est -elle diagonalisable?
+6 Montrer que la mnatrice A est inversible.
+7 . En déduire le système Az = b admet unc solution unique z
+8 Calculer Ab. Que remarque-t-on? 9 Vérifier Ax , y >=< I, Ay pour tous vecteurs 2 et y de R3.
+10. Montrer que f(b) = -1 < Ab, b >
+Concours Biologie Session Juin 2010
+Épreuve de Mathématiques
+Page 2/4
 
+--- page 3 ---
+1l. Montrer que
+A(a = 0).2 - b >= (11 - 2 + 4(22)" 4 2(" - 1/ 12. Montrer que; pour tout vecteur 2 de R% , f(æ) - f(b) = ! < Az - b, 2 = b > 13. En déduire que; pour tout vecteur æ de R:, OIJ a f(x) 2 f (b) . 14. Que représente le vecteur b pour la fonction f?
+Partie II
+Dans cette partie; (X1, X2) désigne un couple de variables aléatoires réelles de densité conjointe fxz,X2 définie; pour tout couple ("1.I2) de réels, par
+"1 12 0
+(21,22) = ae g f(r) = ae g(2?-2122+23) fx1X2
+1 =
+1 Dans cette question; a désigne un réel strictement   positif et 6 un réel. En utilisant  les propriétés des lois normales; montrer que +0 V2T (a) e ~ 402 (2+6)? dz =
++00 '2T ve 402(5+6)? dz = ~b 0o +00 '2T 22e-g021? dx = Q8
+(b)
+(c)
+2 Déterminer & pour que fx; ',X2 soit une densité de probabilité. (Indication: On pourra pour cela remarquer F'identité:
+3 22 - 2122 + 22 = (æ1 - 2)? 4 98? et utiliser la question précédente)  3  Déterminer les densités mnarginales de X1 et de Xz. 4 Reconnaître les lois de X] et de X2
+5 Calculer P(X1 > 0) et P(X2 < 0) .
+6 Calculer E(2X1 + 3X2) .
+7. Calculer Var (2X1) et Var (-3X2) .
+8 Calculer E((X1 + X2)2) .
+9 Déduire Cov(X1, X2) puis Var(X1 + X2).
+10. X] et X2 sont-elle indépendantes?
+Concours Biologie Session Juin '2010
+Épreuve de Mathématiques
+Page 3 /4
+€ R3.
 
+--- page 4 ---
+Partie III
+Soient les variables aléatoires Z1 et Z2 indépendantes et identiquement distribuées de loi normale N(0; 1) On rappelle que la densité d'une v.a. normale Z centrée et réduite est donnée par
+fz(z)
+exp( - 2), Vz € R. V2T
+On considère les variables aléatoires T, U, V et W définies par
+U = Z1,
+V = Z1 + Z2,
+T = Z2,
+W = v7.
+1 Déterminer la densité de W en fonction de celle de T
+2 Déterminer la densité fT' de T.
+3 Calculer E(T), E(W); Var(T) et Var(W) . 4. Calculer E(V); E(V2) et Cov(U,V).
+5. Détermniner la loi du couple (Z1, Z2) ainsi que sa densitée 5z1,Z2 définie sur R? 6 On considère la fonction $ : R2 R? (z1, 22) 1> (u, v) telle que U = T1, u 21 + 22.
+(a) Exprimer 21 et 22 en fonction de u et v (b) Calculer la matrice Jacobienne de <. (c) En déduire que la loi du couple (U,V) admet la densité fuv définie sur R? par;
+fu,v(u;v) 27 'exp {-2(? + (v - u)2) {~
+7. Déterminer la densité marginale de V: fv.
+8 U et V sont-elles indépendantes?
+Fin de lépreuve
+Concours Biologie Session Juin 2010
+Épreuve de Mathématiques
+Page 4/4

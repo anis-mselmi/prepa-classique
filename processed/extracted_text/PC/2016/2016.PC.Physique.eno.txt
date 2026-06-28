@@ -1,6 +1,91 @@
+--- page 1 ---
+434ji42/4?ji U.L#lM*ls {Lb Uin Tibsi 21,BLiji Uhi D Jalyji 2016 6~
+REPUBLIQUE TUNISIENNE
+Ministère de lEnscignement Supérieur et de la Recherche Scientifique
+Concours Nationaux d'Entrée aux Cycles dc Formation d'Ingénieurs Session 2016
+Eh
+Concours Physique et Chimie Epreuve de Physique
+Date Lundi 30 Mai 2016 Heure 8 H Durée 4 H Nb pages :07 Barème Problème 1 12 points Problème 2 8 points 'usage d'une calculatrice non programmable est autorisé L'épreuve comporte deux problèmes indépendants; le candidat peut les résoudre dans l'ordre qui lui convient, en respectant néanmoins la numérotation des questions: Un candidat peut toujours se servir d'un résultat fourni par l'énoncé pour continuer sa composition
+Données numériques Vitesse de la lumière dans le vide c =3 108 ms-1 Perminivité diélectique du vide 80-8,85 10-12 Fm-1 Formulaires (3.grad)v = grad _ + rot(ù) ^ v On donne en coordonnées cylindriques div} = 194 2+ 19402 + 9422 AA = ! a + 1 924 02 A 94 dr 00 dz r dr F2 d02 dz2
+Problème 1
+A. Réfraction de latmosphère L'atmosphère terrestre est considérée comme un système optique modifiant les trajectoires des rayons lumineux. L'indice de réfraction de ce système dépend de la température et de la pression lesquelles varient de façon continue avec laltitude. Pour étudier le phénomène de la réfraction atmosphérique; on modélise Fatmosphère par un empilement de   couches   superposées horizontalement et  caractérisées par un   indice de réfraction n décroissant avec laltitude. A très haute altitude lindice est égal à 1, et au niveau du sol lindice vaut no = 1,00029. (Figure 1)
+vide
+atmosphère
+2 = 0 Niveau du sol Figure 1
+sol Figure 2
+Concours Physique Chimie
+Session 2016
+Epreuve de Physique
+Page 1/7
 
+--- page 2 ---
+1. Ecrire la loi de Snell-Descartes pour la   réfraction Pinterface de deux milieux transparents (1) et (2) d'indices respectifs n1 et n2. Représenter la marche dun rayon lumineux ayant subi la réfraction pour n2 > n1. 2. Soient nk-1 et nk les indices de réfraction respectifs des couches k = 1 et k, et @x et @k-1 les angles dincidence et de réfraction à linterface des ces couches Donnerla relation entre ak et ak-1. En déduire la relation entre l'angle a à très haute altitude et &o Tangle d'incidence au niveau du soL 3 Tracer la marche du rayon lumineux pour un système formé de trois couches successives: Soit € a-ao la différence entre les angles & et %, cette différence étant très faible; déterminer alors expression de € en fonction no et %o. Calculer € pour % = 109. 5. Le diamètre angulaire apparent AB du soleil hors atmosphère est 0 0,533" (Figure 2) Au coucher de soleil, les rayons rasants issus de la base B du soleil arrivent sur la haute atmosphère avec un angle dincidence iB n/2. Les   rayons issus du sommet A du soleil arrivent avec un angle iA 0 En appliquant la loi de Snell-Descartes aux rayons issus de A et B, déterminer le diamètre angulaire 0'  apparent du soleil pour un observateur terrestre. Pourquoi au coucher, le soleil apparait aplati?
+B. Rayopnement dipolaire dans Latmosphère Le soleil   rayonne un champ électromagnétique   interagissant avec les molécules constituant   latmosphère, ces molécules M excitées par ce champ se comportent ainsi comme des dipôles O7 =f 4; électriques   oscillants   (Figure 3) On se propose détudier le champ créé par un de ces dipôles de moment dipolaire | = poe iotuz où i est le nombre complexe tel quei? = 41. Le champ électrique rayonné par ce dipôle en un point M défini Figure 3 par ses coordonnées sphériques (r,8,6) est donné par 2cos8 sine pr Pr E p+ 7 + p + 4 7e Aieor3 Aieors Où p etËsont respectivement les dérivées première et seconde par rapport au temps du
+moment dipolaire à linstant
+6. Définir les termes suivants approximation dipolaire, zone de rayonnement_ Donner la dimension de po. Dans la suite de cette partie; on se place dans la zone de rayonnement. Montrer qu'en notation réelle ce champ sécrit sous la forme Pow? sine [ ~ cos [w(t- ~C)Ju, Aieoczr 8. Dans cette zone londe est localement plane, déterminer le champ magnétique de cette onde. En déduire la valeur moyenne temporelle du vecteur de Poynting 7 associé à ce rayonnement. 9 Montrer que la puissance moyenne rayonnée dans [espace par le dipôle est:
+Concours Physique Chimie
+Session 2016
+Epreuve de Physique
+Page 2/ 7
 
+--- page 3 ---
+(P) = "oPgW" 12Tc
+On donne Jo sin? 0d0 = 4
+C. Diffusion Ravleigh de la lumière La diffusion est interprétée à Paide du modèle de lélectron élastiquement lié dans lequel un électron de vecteur position 7 d'une molécule de latmosphère de charge 9= -e de masse m, est soumis au champ électromagnétique rayonné par le soleil, à une force élastique ~mwo7 et m dr à une force de frottement visqueux t dt 10. Que représentent les constantes @0 et r? 11. Etablir lexpression complexe du vecteur position & en déduire lamplitude p du moment dipolaire . 12. On considère le cas où 0 < W et < W. Montrer que la puissance moyenne rayonnée est proportionnelle à () Expliquer la couleur bleu du ciel en plein jour. Ce modèle permet-il dexpliquer la couleur du ciel au coucher ? Justifier. 13. L'éclipse lunaire est une éclipse se produisant à chaque fois où la lune se trouve dans Tombre de la terre Ceci se produit uniquement quand le soleil, la terre et la lune sont alignés. Montrer, en traçant la trajectoire dun rayon solaire entre le soleil et la lune, que lors de cette éclipse, seuls quelques rayons du soleil peuvent atteindre la lune Pourquoi sa couleur parait-elle légèrement rouge ?
+D. Caractérisation d un faisceau lumineux
+On considère un laser de puissance moyenne P = 2mW émettant un faisceau lumineux de section circulaire de rayon r = 0,75 mm. Il produit une onde lumineuse plane, monochromatique (2 = 632,8nm) polarisée rectilignement suivant Ox et se propageant dans le vide suivant les z croissants 14. En notant respectivement Eo et k son amplitude et son vecteur donde, donner en notation   complexe lexpression du  champ électromagnétique (/,B) en un point quelconque de 1espace. 15. En déduire l'expression de la puissance moyenne rayonnée par la section $ du laser . 16. Calculer la valeur de lamplitude Eo.
+E. Superposition de deux ondes lumincuses
+Dans le cadre de 1approximation de l'optique scalaire; on représente le champ électrique dune onde se propageant dans le vide par sa vibration s(M,t). On se propose détudier la superposition de deux ondes électromagnétiques planes_ 17. Entre quelles longueurs donde se situe le spectre des ondes lumineuses visibles ? 18. On considère deux ondes électromagnétiques associées deux faisceaux laser représentées par
+Concours Physique Chimie
+Session 2016
+Epreuve de Physique
+Page 3/ 7
 
+--- page 4 ---
+fs (M,t) = so1el(2t+0-0,9 S2 (M,t) S02et(02t+42-k27) On donne lexpression de l'intensité d'une onde (s(M,t)s(M,t)"), où désigne la moyenne temporelle; et s(M,t)' désigne le complexe conjugué de s(M,t). 18.1 Montrer que lintensité lumineuse résultant de la superposition de ces ondes en M s'écrit: 1 = I1 + I2 + 2vlilz (cos(%)) I1 et I2 sont les intensités au point M des deux ondes prises séparément. Expliciter % en fonction de 01, W2 P1, Q2 k1, k2 et7.
+18.2 Donner les conditions dobservation des interférences. 18.3 Définir et donner 1expression du contraste C- Quelle   est la condition sur I1 et /2 permettant d'aboutir à un contraste maximal ? Justifier. 19. On dispose de deux faisceaux laser faisant un angle 20 entre eux (Figure 4). Dans Ja suite on suppose   que les deux ondes S1(M,t) et S2(M,t) sont cohérentes telles que:
+Js (M,t) Soei(ot-k,r) S2(M,t) = Soei(wt-kzr) Flgure 4 19.1 Pour aboutir à un phénomène dinterférence; les deux   faisceaux   laser   doivent-ils forcément provenir du même faisceau initial ? Justifier. 19.2 Ecrire les composantes des vecteurs donde k1 et kz des ondes 1 et 2. 19.3 En déduire lintensité lumineuse résultante   I(M) dans le champ d'interférence. 19.4 En déduire la forme des franges.  Représenter   le champ dinterférence en faisant apparaître ces franges. 19.5 Définir puis déterminer l'interfrange i.
+F. Mesure de vitesse par interférométrie laser La vélocimétrie laser à franges est une méthode qui permet de mesurer la vitesse d'un fluide en écoulement dans un tuyau transparent.  Cet écoulement est ensemencé avec de petites particules capables de diffuser de la lumière. Ces particules sont entrainées par l'écoulement supposé stationnaire. On peut assimiler leur vitesse à celle du fluide (Figure 5). On considère une particule traversant le champ dinterférence avec une vitesse uniforme v (fluide supposé parfait). Par diffusion; cette particule rayonne un signal lumineux lorsqu'elle traverse une frange brillante Un photodétecteur reçoit la lumière diffusée par cette particule et délivre un signal électrique de période T représentant le temps mis par la particule pour traverser une frange brillante du champ d'interférence. 20 La figure 6 montre le signal lumineux enregistré par le photodétecteur, quelle est la valeur de sa période T ? 21. Expliquer le principe de mesure de la vitesse du fluide et calculer sa valeur pour 2  On donne l'indice de réfraction du fluide n = 1,33.
+Concours Physique Chimie
+Session 2016
+Epreuve de Physique
+Page 4/7
 
+--- page 5 ---
+(urm Trkanikri
+Icuuos (us)
+Lag
+Vhooxr WVI
+Fava :
+Ponnw
+signal électrique
+W
+Figure 5
+Figure 6
+22. Ce  dispositif ne permet   pas de   prévoir   le sens de lécoulement. Pour   lever cette indétermination, on place sur le trajet du faisceau (1) un dispositif optoélectronique composé dune lame transparente d'épaisseur L. Soumis à une tension U(t), lindice de réfraction de cette lame varie linéairement avec cette tension n(t) =1 + a U(t) , où a est une constante positive. 22.1 Quelle est la dimension de la constante a? 22.2 On néglige la déviation du faisceau (1) au niveau de la lame. Déterminer l'expression du nouveau déphasage entre les deux ondes en un point M du champ dinterférence en fonction de U(t), L,a,x,8 et 2. 22.3 En déduire la position des franges brillantes. 22.4 Quelle forme temporelle faut-il donner à U(t) pour obtenir des   franges d'interférences se déplaçant à une vitesse constante v dans la direction x > 0, puis dans la direction x < 0 ? 22.5 Si la particule se déplace suivant x > 0, comparer la nouvelle période T' du signal enregistré à celle sans lame.
+Problème 2
+A. Fluide parfait
+On étudie un écoulement   stationnaire incompressible à la vitesse v d'un fluide newtonien de masse volumique p et de viscosité cinématique H constante L 'équation de Navier-Stokes décrivant le mouvement dune particule fluide est [dv 4 (3.grad). 5 ~grad p +g + |lv [dt 1. Expliquer lorigine de chaque terme de cette équation. 2. Nommer la grandeur H , quelle est son unité dans le système international ?
+Concours Physique Chimie
+Session 2016
+Epreuve de Physique
+Page 5/ 7
+fxxea
 
+--- page 6 ---
+3. Dans un premier temps, on néglige le terme pAv (u ~ 0). Caractériser le fluide. Etablir le v2 théorème de Bernoulli sous la forme + p + gz = cte pour un écoulement irrotationnel- 4 Retrouver la loi fondamentale de lhydrostatique_ 5. Un jardinier arrose sa pelouse. Quand il se trouve limité par la longueur du tuyau; il aurait le réflexe de minimiser la section de sortie de ce tuyau: Ceci lui permettrait d'augmenter considérablement la vitesse de lécoulement et   donc de couvrir un maximum de pelouse. On modélise la partie du tuyau se trouvant dans la main du jardinier par un convergeant cylindrique horizontal présentant deux sections différentes SA et SB SA (Figure 1) 5.1 Déterminer   la   relation entre Ap PA = PB, p,VA et v ( Aet B ont la même hauteur). 5.2 Exprimer  Ap en fonction de p, VB, SA et SB Comparer alors pA et pB 5.3 On introduit une canalisation en U reliant A et B. Cette canalisation contient du mercure de masse volumique p' (Figure 1). Figurel 5.3.1 On observe une différence de niveau h entre les deux surfaces libres du mercure Etablir la relation entre Ap,P, p' ,g et h. 5.3.2 Montrer que le débit massique  Dm peut s'écrire sous la forme Dm [2p(p' ~Pgh où Kest un coefficient de forme que /on exprimera. 5.33 Le débit   massique Dm est proportionnel Vh. Calculer le coefficient de proportionnalité noté à On donne: p = 1000 kg. m-3 p 13579 kg.m-3 , h = 2,5 cm, g = 9,81 m.s-2 SA = 3,0 cm? SB 0,2 cm?
+B. Fluide réel Dans un second temps; nous étudions Fécoulement TR stationnaire du fluide en tenant compte de sa viscosité tout en négligeant   leffet de   pesanteur. Le système est une conduite cylindrique daxe horizontal Oz, de rayon R et de longueur L (Figure 2) Figure 2 En tenant compte de la symétrie du problème, le champ de vitesse et le champ de pression dépendent à priori de r et de z. La vitesse s ' écrit alors sous la forme ù = v(r,z):z: 6. Montrer que v ne dépend pas de z 7. En se basant sur léquation de Navier-Stockes dans la base cylindrique, montrer les deux relations suivantes @p(rz2 = 0 nd et r 42) @p(r 22 = 0 où n est ôr r dr dr dz la viscosité dynamique du fluide. 8. Soient   pE la pression du fluide à la section dentrée et ps la pression à la section de sortie de la conduite. Exprimer p(z) en fonction de pE, ps et L. 9. Déterminer [expression de la vitesse du fluide en fonction de r, R, Ap = pE - Ps , L et n.
+Concours Physique Chimie
+Session 2016
+Epreuve de Physique
+Page 6/ 7
 
+--- page 7 ---
+10. Déduire la vitesse maximale vmax et la vitesse moyenne vm du fluide. 1L. Donner lallure du profil de vitesse. 12. Soit Dv le débit   volumique de   lécoulement. On pose Ap R# Dv Justifier Fappellation de < résistance hydrodynamique > attribuée à R#- Donner son expression et son unité. Dans cette conduite cylindrique de 1 cm de rayon et de 20 m de longueur circule 1 litre deau par seconde. Calculer vm R# et Ap. On donne n 10-3 Pa.s 13. Montrer que la perte de charge; Ap = PE ps peut se mettre sous la forme: 641 L Ap ReZpv  5 Re est le nombre de Reynolds de lécoulement; et D le diamètre de la conduite
+C. Pertc de charge dans unc seringue On considère une seringue cylindrique de rayon R 0,8 cm et de longueur L = 9 cm. Elle est prolongée par une aiguille cylindrique de rayon r = 0,8 mm et de longueur l = 3 cm (Figure 3). Cette seringue contient un sérum de viscosité n = 3 10-3 Pa.s et de masse volumique 0=1,005 10' kg.m-3 . Elle est menue dun piston coulissant sans frottement. Ce sérum est injecté dans la veine dun patient. Soit Ap1 la perte de charge du sérum dans la seringue et Ap2 la perte de charge du sérum dans laiguille. L'ensemble seringuelaiguille est en position horizontale.
+Figure 3
+14. Montrer que Ap1 et Ap2 vérifie léquation Ap2 = 2 (R)^ Ap2 15. Déduire qu'on peut considérer que le fluide est parfait dans la seringue. 16. Déterminer Apz dans laiguille pour linjection d'un volume V =1 cm' pendant une durée At = 2 s. 17. La pression dans la veine du patient vaut 2 104 Pa, déterminer la pression exercée sur le piston pour injecter le sérum. 18. De quel type d'écoulement s'agit-il?
+Concours Physique Chimie
+Session 2016
+Epreuve de Physique
+Page 7/7

@@ -3,9 +3,7 @@ import os
 import re
 import unicodedata
 
-# Repo root: env override, else two levels up from this file (processed/scripts/ -> repo)
-REPO = os.environ.get("PREPA_REPO") or os.path.abspath(
-    os.path.join(os.path.dirname(__file__), "..", ".."))
+REPO = r"D:\prepa-work\prepa-classique"
 TRACKS = {"MP", "PC", "BG", "T"}
 
 # Canonical subject map (key = accent-stripped, lowercased, space-collapsed)

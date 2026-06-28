@@ -1,33 +1,43 @@
 --- page 1 ---
-REPUBLIQUE TUNISENNE Ministère de [Enseignement Supérieur Concours nationaux dentrée aur cycles de formation d'ingénieurs Session 2006
-18sH1 {i2s4sd!  bkWlêsts dsis uibsi eLaii imanias ixssulc r 2006 39 Gon Concours Technologie   Epreuve de Mathématiques  Jnatlfe? d0, sfudes;< Prvpororgire d0 Cociquf8  fex biblio(hequi 
+REPUBLIQUE TUNISIENNE Ministère de ['Enseignement Supérieur Concours nationaur dentrée aux cycles de formation d'ingénieurs Session 2006
+45441{2ssd! Zejglosts dsia (aesi Eui i  a Glc 2006*9
+R Goni
+Concours Technologie Epreuve de Mathématiques Inzttfcr des srudo;  Pr#paroigi do Jfax Gogigufg Biblioihequi
 Durée : 4 H
-Date : 5 Juin 2006
+Date 5 Juin  2006
 Heure : 8 H
-Nb pages : 4
+Nb pages
 Barème :
-Exercice : 5 pts.
-Problème ( I : 5 pts. II : 5 pts. III : 5 pts.
-Une grande importance sera attachée à la rigueur du raisonnement; à la clarté et au soin de la présentation. L'usage des calculatrices n'est pas autorisé Il est rappelé que tout résultat énoncé dans le texte peut être utilisé pour traiter la suite, même s'il n'a pu être démontré.
-I 1 2 1 8 81483thccue Arrivé le Al6 /08
+Exercice 5 pts.
+Problème ( I: 5 pts. II : 5 pts. III : 5 pts.
+Une grande importance sera attachée à la rigueur du raisonnement, à la clarté et au soin de la présentation. L'usage des calculatrices n'est pas autorisé Il est rappelé que tout résultat énoncé dans le texte peut être utilisé pour traiter la suite; même s'il n'a pu être démontré .
+I P. > 1 S. N 21483Trccue Arrivé le %la6 /08
 Exercice
-Pour tout ne Z, on définit les applications   In 2 R >R par c2r V reR cos(nt)e rcos(t) In(r) = dt J0
-1/ Montrer que pour tout   n € Z, In est de classe C 0 sur R et que pour tout r €R, c2I In'(r) = cos(nt) cos(t)ercos(t) dt et 2r 2/ En intégrant deux fois par parties cos(nt)sin 2 (t)e rcos(t) dt déduire de la question Jo précédente que In est solution sur J;+œ[ de léquation différentielle Sfax IPEI y"(r)+/W2_ 7? +I)y(r) = 0 (1) r 2 111300000065 3/ En utilisant la définition de In (r) montrer que pour tout ne Z, on a : 1c r k V reR , In(r) = 2 ( @ cos(nt )(cos(t)) * dt) _ k=0 k!
+Pour tout n € Z, on définit les applications In R~R par f2r V reR cos(nt)e rcos(t) In(r) = dt
+1/ Montrer que pour tout neZ, In est de classe C sur R et que pour tout r €R In'(r) = [2z cos(nt)cos(t)ercos(o) dt et 2r 2/ En intégrant deux fois par parties cos(nt)sin 2 (t)ercos(t) dt déduire de la question précédente que   In est solution sur J;+œ[ de l'équation différentielle Sfax IPE y"(r) + 29-7+Iyr) =0. (1) 111300000065 3/ En utilisant la définition de In (r) montrer que pour tout   neZ,on a : ^< 2 V reR I,(r) = 54([2" cos(nt)(cos(t)) * d) k=0
 
 --- page 2 ---
-4/ On suppose que neN_
-c2I a) Montrer que si 0 <k < n alors Jo cos(nt )(cos(t)) * dt = 0 c21 b) Calculer; pour   k 2 n , cos(nt )(cos(t)) * dt_ J0 +co (r/2) n+2p c) En déduire que VneN ,V r € R In(r) = 27 p=0 p'(n+ p)! 5/ Montrer que   In(r) > 0 pour tout r > 0 et  pour tout n ez
-6/ a) Montrer que r = In(r) J dt est une solution de léquation ( 1 ) t(In(t))2 b) En déduire que toute solution sur Jo;+o[ de ( 1 ) est de la forme
-y(r) = In (r)  œ + B dt où Q et B sont deux constantes réelles. t(In (t))2 c) Trouver toutes les solutions de ( 1 ) sur   Jo;+o[ qui sont prolongeables par continuité en 0 +
+4/ On suppose que neN
+21 a) Montrer que si 0 <k < n alors cos(nt )(cos(t)) * dt = 0
+b)   Calculer; pour   k 2 n , c2I cos(nt )(cos(t)) * dt
+(r/2)n+2p c) En déduire que VneN V r €R In(r) = 2T P=0 pl(n+ p)! 5/ Montrer que   In(r) > 0 pour tout r > 0 et pour tout neZ.
+6/ a) Montrer que ~In(r) [ dt est une solution de léquation ( 1 ) t(In(t))2 b) En déduire que toute solution sur Jo;+œ[ de ( 1 ) est de la forme
+y(r) = In(r)  œ + B f dt où Q ct B sont deux constantes réelles. t(In(t))?' Trouver toutes les solutions de ( 1 ) sur Jo;+œ[ qui sont prolongeables par continuité en 0
 Problème
-Dans ce problème E =R[x] désigne Fespace vectoriel des polynômes à coefficients réels et désigne Papplication définie sur E par A(P)(X) = P(X +1) - P(X)
+Dans ce problème E=R[x] désigne Fespace vectoriel des polynômes à coefficients réels et désigne Fapplication définie suI E par A(P)(X) = P(X +1) - P(X)
 Partie [
-Pour tout   entier naturel n
-on note En le sous espace vectoriel de E constitué  des polynômes de degré inférieur ou égal à n. On désigne par B=(ek )osksn la base canonique de En où ek =xXk 0<k <n. On considère   (hk )kzo la famille de polynômes définie par ho =1 et hx = X(X-I)-(X -k +l) , pour   k 21. 1/ a) Montrer que est un endomorphisme de E b) Déterminer le noyau de 4 c) Déterminer l'image de 2/ Expliciter   A(hk ) pour tout entier  k 3/ Soit n un entier naturel. a) Montrer que B =(hk )ozkzn est une base de En ' b) Montrer que En est stable par 4 4/ On désigne  par 6   Vendomorphisme induit par A sur En a) Déterminer la matrice A de 6 dans la base B b) On définit par récurrence sur lentier p 1endomorphisme 5P par
-2
+Pour tout   entier naturel
+on note En le sous espace vectoriel de E constitué  des polynômes de degré inférieur ou égal à On désigne par B=(ek )osksn la base canonique de En où ek =Xk 0 <k <n On considère   (hk)k2o la famille de polynômes définie par ho =1 et hx X(X -1)_(X -k +1) , pour k 21 1/ a) Montrer que 4 est un endomorphisme de E b) Déterminer le noyau de c) Déterminer Fimage de 4 2/   Expliciter   A(hk  pour  tout entier k 3/ Soit un entier naturel a) Montrer que   B' =(hk)osksn est une base de En b) Montrer que En est stable par 4 4/ On désigne par Pendomorphisme induit par sur En a) Déterminer la matrice de dans la base B' b) On définit par récurrence sur lentier p 1endomorphisme pP par
 
 --- page 3 ---
-0 @ = IdEn et pour tout entier p 2 0 9P+l = 9P 0 (   Montrer que si p e {L,n} alors   6P (En) cEn-p  , c) Montrer   que pour tous entiers naturels p et k on a : 0 , si p > k pP (hk) = k(k ~1_ (k - p +I)hk-p , si k z p  d) Déterminer An puis An+] 5/ Soit P un polynôme dans   En et (a0,01, @n ) ses composantes dans la base B @* (P)6o) k Montrer que @k = k! Application Déterminer le polynôme P dans E3 tel que P(O) = 7 P(I) = 21 P(2) = 29 P(3) = 25
+IdEn et pour tout entier   p 20 @ P+l = @P 6 Montrer que si p e {L,,n} alors   @P (En) cEn-p: c) Montrer   que pour tous entiers naturels p et k on a : 0 , si p > k 9P (hk) k(k ~1)_ (k - p+I)hk-p si k 2 p Déterminer puis A n+1 5/ Soit P un polynôme dans   En et (a0,01 an ses composantes dans la base B' 4 (P)(o) Montrer que @k kl Application Déterminer le polynôme P dans   E; tel que P(O) = 7 P(I) = 21 P(2) = 29 P(3) = 25
 Partie II
-1/ On considère un polynôme P € E de degré p 2 0 et de coefficient dominant 0 p a) Montrer qu'il existe un unique polynôme Qe E vérifiant i) Q'=P ; ii) [ %)dt = 20 On précisera le degré et le coefficient dominant de Q en fonction de p et de 0 p b) En déduire qu'on peut définir par récurrence la suite de polynômes (Bn)neN par : i1) Bo =1 ; i2) Vn21, B' n =nBn-1 3 i3) Vn 21, J Bn(t)dt = 0 c) Déterminer pour n € N le degré et le coefficient dominant du polynôme Bn Les polynômes Bn s? 'appellent les polynômes de Bernouilli. On définit ensuite les nombres de Bernouilli par pour tout neN_ bn = Bn (0) 2/ a) Montrer que pour tout n€ N Bn(X) = Ec"bn-kXk k=0 b) Expliciter B1 B2 B3 et B4 , ainsi que les nombres b1 b2 b3 et b4 3/ Montrer par récurrence que pour tout neN Bn(X) = (~1)" Bn (1 - X)- 4/a) Montrer par récurrence que pour tout   n€ N , Bn(X) = 2"-1| Bn 64x)+B,(2(X+1] b) Montrer que pour tout   p€N B2p+(4) = 0 c) En déduire que pour tout p € N* bzp+l =0 d) Montrer que pour tout n2 2 Bn (1) = Bn (0)
-3
+1/ On considère un polynôme P € E de degré p2 0 et de coefficient dominant @ p a) Montrer qu' 'il existe un unique polynôme QeE vérifiant i) Q= P ii) D %)dt 20 On précisera le degré et le coefficient dominant de Q en fonction de p et de 0 p' b) En déduire qu'on peut définir par récurrence la suite de polynômes (Bn)neN par i1) Bo =1 ; i2) Vn 21, B' n =nBn-1 i3)  Vn21, Bn (t)dt = 0 c) Déterminer pour n € N le degré et le coefficient dominant du polynôme Bn Les polynômes Bn s'appellent les polynômes de Bernouilli. On définit ensuite les nombres de Bernouilli par pour tout neN bn Bn (0) . 2/ a) Montrer que pour tout n€ N Bn (X) = Eckbn-kXk kzo b) Expliciter B1 B2 B3 et B4 , ainsi que les nombres   b1 b2 b3 et  b4 . 3/ Montrer par récurrence que pour tout   n€N Bn(X) = (~1)" Bn(l - X) . 4/a) Montrer par récurrence que pour tout n€N Bn(X) = 2"-1 Bn @ 4x)+B,(4(X+1] b) Montrer que pour tout   p€N' Bzp+ (2) = 0 c) En déduire que pour tout   p € N b2p+l = 0 d) Montrer que pour tout n2 2 Bn (1) = Bn (0).
+
+--- page 4 ---
+5/ Montrer que pour tout n 21 on a ABn nXn-1  ` 6/ a)   Montrer que pour tout n 2 ] et pour tout k 2 2 ,   23- Bk (n) = Bk (0) 1 `  J=0
+b) En déduire la somme Zj j=0
+Partie III
+ 1/ Montrer que pour   N entier naturel non nul et pour tout t e [0,1] on a sin((2N + I)z) 1+2Ecos(2ækt ) k=l sin(zt) 2/ Pour n€N n 21 soit gn la fonction définie sur Jo,1 [ par Bzn() _ B2n(o) gn(t) = sin(;) Montrer que gn est prolongeable par continuité sur   [0,1] et que le prolongement est continûment dérivable. 3/ Montrer que pour toute fonction f de classe  €I sur [0,1], on a : lim 5 f()sin(xt)dt = 0 X+o 4/ Pour k et n entiers positifs, on définit @ n k 5 Bzn (t )cos(2rkt )dt Trouver une relation entre @n.k et @n-Lk  b) En déduire 1expression de @nk en fonction de n et k _ 5/ En utilisant la formule montrer que   pour tous entiers naturels N et p on a : 8 p (()sin[(2N + I)zJdt =2Ea p.k ~bzp k=l +oo 6/ En utilisant   3/ et S/ donner la valeur de en fonction de p et 2 bap' k2p 1oo En déduire les valeurs de et de k2 k" k=l k=l 7/ a) Montrer que pour   tout p entier naturel non nul, la majoration
+<2 k 2 p k=l b) En déduire la majoration kbzp  < (2p)! (472)P
+

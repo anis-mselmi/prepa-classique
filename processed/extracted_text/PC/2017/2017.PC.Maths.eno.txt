@@ -1,3 +1,50 @@
+--- page 1 ---
+République Tunisienne Ministère de lEnseignement Supérieur et de la Recherche Scientifique Concours Nationaux dEntrée aux Cycles de Formation dIngenieure Session 2017
+1jgi L u86~?i {31aLibbe Guiess J>auji @uBuji 0Ji 095 Ullj 2017 63
+CoNcouRs PHYSIQUE ET CHIMIE EPREUVE DE MATHÉMATIQUES
+Session 2017
+Date: 25 mai 2017
+Heure: 8H
+Durée 4 heures
+La qualité de la rédaction et de la présentation; la clarté et la précision des raisonnements entreront pour une part importante dans Tappré- ciation des copies. Lusage des calculatrices n'est pas autorisé Tout résultat fourni dans lénoncé peut être admis et utilise par la suite meme sil n'a pas été démontré_
+Exercice (2 points) On lance un dé non truqué à cinq faces et on regarde le nombre inscrit sur sa face inférieure. On note Pn la probabilité que la somme des résultats obtenus lors des n premiers lancers soit paire. Calculer p1 et p2. Montrer que la suite (pn)n21 vérifie la relation de récurrence Pn+1 5Pn + 5(1 Pn) . En déduire la valeur de pn pour n 2 1 et déterminer lim Pn- 1 =+0 3 . On lance, maintenant, indéfiniment le dé et on appelle X le rang du premier 5 obtenu. On admet que X est une variable aléatoire réelle. (a) Déterminer la loi de probabilité de X. (b) Déterminer la fonction génératrice de X. En déduire lespérance et la variance de X.
+Problème 1 (9 points) Partie I
+10 Pour tout x > 0, on pose T(x) = tr-1e-dt. (a) Montrer que T est définie et continue sur ]0,+0 [ et que, pour tout x > 0, T(x) > 0. b) Vérifier que T(1) = 1 et que, pour tout x > 0, T(x+1) = xT(x) En déduire que, pour tout n € N;T(n+1) = n! JIn(t) | * +a-1, si t €]0,1] , Soit @,b € R tels que 0 < a < b et k € N* . On pose fx(t) = (In(t)) k +b-1 e-t si t €]1,+0 [. Montrer que fk est intégrable sur ]0,+œ[ Montrer que T est de classe C" sur ]0,+o[ et pour tout k € N* et x > 0, 10 F(k) (x) = (In(t))k +-1 e-'dt. (a) En appliquant linégalité de Cauchy-Schwarz aux fonctions t + + +7e3 et t ~+ |In(t)|+*3e3 , montrer que, pour tout x > 0, (F'(x))? < T(x)F" (x) (b) En déduire que la fonction est croissante sur ]0,+0 [.
 
+--- page 2 ---
+CCNCOURS PHYsIquE EI CHIME
+EPREUVE DE MATHÉMATIQUES
+Page sur 4
+Partie II
+Soit $ une fonction définie sur ]0,+o[ strictement positive et dérivable  On suppose que @(x +1) = x @(x), et que la fonction est croissante sur ]0,+o[. On veut montrer que, pour tout x > 0, @(x) = @(1)T(x). Pour cela, on pose Y = Montrer que Y est 1-périodique sur Jo;+œ[ et que Y(1) = @(1) Montrer que pour tout x > 0 : Y @' 54 (b) (x+1) 41 (c) 744 50 1 @(x + 1) @(x) Y'(1) 3. On pose B = Y(1) Montrer que, pour tout x €j0,1] et n € N , F'(n+1) F'(x+n) @'n+1) Tn) T(n +1) Y(x + n) @(n+1) T(n) Montrer que, pour tout x €]0,1] et n € N , f _ 1 Y <B+ 1 Y En déduire qu'il existe une constante C € R telle que, pour tout x > 0, Y(x) = Cexp(B x) Montrer que B = 0 et conclure.
+Partie III
+Montrer que la série numérique n21
+"41)~ est convergente et donner sa somme 2 "41) n=1 2. Soit (un)neN- la suite définie par Vn € N* , un É: In(n). Montrer que la série numérique (un+1 un) est convergente. n21 En déduire que la suite (un)ncN' converge. On note Y = lim Un. 1==00 3. En exprimant Vn+l un) en fonction de Y, montrer que 9(2-n(+1)) =7 71=1 n=l Montrer que la série de fonctions est normalement convergente sur [0,a] , pour tout n21 n +x a > 0. 40 5. On pose pour tout x > 0, H(x) = _1 +9(2- 4) n=1 (a) Montrer que H est de classe CI sur J0,+o[ et donner, pour x > 0, Yexpression de H' (x) sous forme dune série. (b) En déduire que H est croissante sur ]0,+œ[ (c) Vérifier que H(1) = 0 et que; pour tout x > 0, H(x + 1) = H(r) + 1
+On pose pour tout x > 0, M(x) = H(t)dt. (a) Montrer que M(2) = Y. En déduire que, pour tout x > 0, M(x+1) = M(x) + In(x) + %. (b) Montrer que, pour tout x > 0, la série numérique In '(1+7)) converge. n1==
 
+--- page 3 ---
+CoNCOURS PuxsIQuUE Er CHIMIE
+EPREUVE DE MATHÉMATIQUES
+Page 3 sur 4
+En déduire que, pour tout x > 0, M(x) = ~In(r) _ Y+ 2 In '(1+%)) n2l On considère la fonction F définie sur J0,+o[ par F(x) exp(-Yx+ M(x)) (a) Montrer que F vérifie les hypothèses de Zapplication @ de la Partie IL (b) Déduire que, pour tout x > 0, F(x) =e-TT(x) 1' c) Exprimer pour x > 0, en fonction de H(x). En déduire que F'(1) =-Y. Tlx Etablir les formules pour tout x > 0, n*n! =x exp(y x) lim É( +#)ep(-4) puis T(x) lim T(x) 11 7+0 k= n1 ++00 x(x+1)... (x+ n) `
+Problème 2 (9 points) Notations
+Soit n € N; n 2 2 On note ( Mn,1(R), (; ) ) Yespace euclidien des matrices à n lignes et une colonne et à coefficients réels muni de son produit scalaire canonique défini par VX,Y€ Mn1(R) (X,Y) = 'XY, où {X est la transposée de X.
+On note || Il la norme associée à ce produit scalaire. Mn(R) désigne lespace vectoriel des matrices carrées dordre n et à coefficients réels. X1 Un vecteur (x1,. . . ,Xn de Rn est identifié à lélément X = de Mn,1 (R) Xn On note par B = {e1,...,en la base canonique de Rn . Pour A € Mn (R) , on note A la matrice transposée de A et Sp(A) lensemble des valeurs propres réelles de A In désigne la matrice identité de Mn (R)
+Partie I
+Dans cette partie, on suppose que 71 = On considère le sous-espace H = {X= (x1,*2x3) € R3 / x1 + x2 + x3 = 0} et les vecteurs 1 = (1,-1,0), 7  (1,0,-1) et w = (1,1,1) (a) Montrer que (Rw)4 = #. En déduire que R? = He Rw. (b) Vérifier que {u,v} est une base de #.En déduire que {u,v,w} est une base de RB Soient A et D deux matrices carrées dordre 3 définies par A = 8 ) -( 8 (a) Vérifier que {u,v,w} est une base de vecteurs propres de A. Déterminer une matrice orthogonale P telle que A = PD 'P. On note p la projection orthogonale sur H. Soit X € R3 . (a) Déterminer lunique vecteur Y = (y1,y2Y3) € H et lunique réel 1 tels que X =Y+ Aw. En déduire Yexpression de p(X) dans la base canonique B = {e1,e2,e3} . (c) Déterminer le rang et la trace de la projection orthogonale p. 4. Soit b = (4,1,1) € R3 . Pour tout (x1,x2) € R2, on pose f(x1,x2) = |lb _ x1 u - x2 vl2 et Ela surface de RB donnée par 2= {(x1,X2,x3) € RB X3 = f(x1,x2) } 
 
+--- page 4 ---
+CoNcovns PHYsIQUE EI CÆIMIE
+EPREUVE DE MATHÉMATIQUES
+Page sur 4
+(a) Vérifier que f (x1,x2) = 2(12 + x2 + X1x2 3x1 3X2 + 9) df (b) Montrer que f est de classe C~ sur R? et calculer (x1,X2) et (x1, X2) dx1 ax2 (c) Montrer que min f(x1,x2) existe et donner sa valeur. (X1,X2) ER?  (d) Vérifier que M = (1,1,12) est un point régulier de Z et déterminer léquation du plan Iltangent à = en ce point
+Partie II
+Soit A = (aij)1<i,jsn € Mn (R) une matrice symétrique non nulle vérifiant ajj € {0,1}, V(i,j) € {1,,n}2 et @ji = 0, Vi € {1,...,n} 
+On pose Vi € {1,... n} , d; = Eaij, et 4 = max (d;) jz] I<i<n
+Ix]
+Pour tout X =
+€ Mn,1 (R), on définit : |X| = et Q(X) = 'XAX. Ixn| Montrer que admet une base orthonormée de vecteurs propres de Mn,1 (R) On désigne par 41, 12,. Àn les valeurs propres réelles de A rangées par ordre croissant, cest à dire A1 < À2 < < An. On note C = {v1,..  Un la base orthonormée de vecteurs propres, où pour tout i € {1,. ~,n} , v; est le vecteur propre unitaire associé à la valeur propre A;. Montrer quil existe k € {1,... ,n} tel que Ax # 0. Calculer Ea; et en déduire que A1 < 0 < An.
+Montrer que, pour tout X € Mn,1 (R), on a A1lxl? < Q(X) < AnHxIl? . On note S = {X € Mn,1 (R)/IXI = 1} la sphère unité de Mn,1 (R). (a) Montrer que S est un fermé borné de Mn,1 (R) . b) Montrer que Q est continue sur Mn,1 (R) . En déduire que est bornée sur $ et atteint ses bornes (c) Calculer Q(v1) et Q(vn). En déduire que A1 min Q(X) et An max Q(X). Xes Xes Soit X € Mn,1 (R). (a) Montrer que [Q(X)I < alxIl2 et en déduire que An < & = max (d;). 1<i<n (b) Comparer |Q(X)| et Q(IXl). En déduire que, pour tout i € {1,,n}, |;l < An.
+6. Soit An € Mn(R), n > 2,la matrice définie par An
+On note Pn(4) = det( AIn An) le polynôme caractéristique de la matrice An. (a) Etablir que pour 1 € R et n > 2 : Pn+2(4) = APn+1(4) = Pn(A). En déduire que pour tout n 2 2, Pn(2) = n + 1. Montrer que pour toute valeur propre u de An, on a : lu| < 2 (c) En déduire quil existe 0 €JO,z[ tel que : # = Zcos(0)_ sin( (n + 1)0) (d) Montrer que, pour tout 0 €j0,7[, Pn(2cos(0) ) Déterminer alors Sp(An)  sin(0)
+Fin de lénoncé

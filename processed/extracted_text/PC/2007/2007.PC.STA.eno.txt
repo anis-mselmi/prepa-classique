@@ -1,11 +1,293 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE
+4a1528421 "ukwizlis SSe@luesi
+Ministère de /'Enseignement Supérieur, de la Recherche Scientifique et de la Technologie
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs Session 2007
+"1z|
+Ssszayavee 24 2 1 a 2007 ;,9'
+Concours Mathématiques et Physique & Physique et Chimie
+Epreuve de Sciences ec Techniques de 1Ingénicur
+Date Vendredi 08 Juin 2007
+Heure 8 H
+Durée : 3 H
+Barème
+Partie A 4 points, Partie B 10 points, Partie C : 6 points.
+L'épreuve comporte trois parties : A-Technologie de Conception, B- Mécanique et C- Automatique Documents remis au candidat:
+Deux dossiers
+Présentation et travail demandé " et ( document réponse > Aucun document n'est autorise.
+L'utilisation des calculatrices de poche non programmable est autorisée. Les différentes parties sont indépendantes et doivent être traitées sur le dossier document réponse: Un seul dossier document réponse est fourni au candidat et doit être rendu en totalite, même sans réponses, à la fin de siut Pn Vépreuve; Le renouvellement de ce dossier est interdit. Cheloiheque ) Vulchre _ nns[ DOSSIER 'Doicoxues SFMx 
+PRESENTATIOY ET TRAVAIL DEMANDE
+Ce dossier comporte 11 pages numérotées de 1 à 11 Présentation pages 1 à Texte du sujet pages 4 à 11
 
+--- page 2 ---
+Scevrs€Zc arivucsic[ecwico(STl
+MPe PC
+SYSTEVE DE CHARGEMENT DES VERRES
+PRESEYTATIOY
+On se propose d etudier un svsteme de chargement utilisé dans une unité de production des verres Il permet, scus orcres d une partie commande de saisir , à V'aide dune ventouse, des verres acheminés par tapis roulan: et de les placer sur ure brcche {Figure 1). Les verres sont ensuite maintenus par dépression sUT cette broche puis positionnés cevant un cutil qui permet de réaliser des dessins avec des gravures en relief (non représente).
+Systeme de chargement à etudier
+Vérin pneumatique
+Prehenseur
+Plateau came
+Motoreducteur
+Broche
+Tapis roulant
+Ventouse
+Verre
+Fgure 1 : schema descriptif du systeme de chargement des verres.
+Le mécanisme cu systeme de chargement (Figure 2 page 3) est composé
+D'ur bâti fixe {0) auquel cr assccie le repère Ro(0,70jo,7) supposé galiléen. D'un plateau (1) en liaison pivot excentré d axe (0,2) avec le bâti (0). Il est entraîné en roration par un motoreducceur D'une bielle {2) . en liaiscn civot excentre d' axe (4,Z) avec le plateau (1) Dun coulissezu en liaiscn pivot daxe (8,2) avec {a bielle (2) dune part et en liaisor glissière de direcrion (; % avec le bati (0) c autre par D'un levier {4) en liaison civot &axe (€,2  avec le bâti (0). Ce levier est entrainé en rotation car Yintermeciaire C une cane -aille: sur |z facs arriere du plateau (1) . Dur salec 5: e2 iaiscn civot 0 2*e :- i) G.ec 'e ievier ;4} d'une part et en ccntact supoose ponctuei avecle orcril ce 2 Caie € Zutre Car Dune Sie 2 6) enliaison € .ct € 2xe D.2) &vec elevie" =) Dun renvc; (7) en lia son civot c 2ve F = avec 2 cculisseau (2) dune Oart et en liaiscn pivot d'axe E.z a92.2 Die'e { 2 al--e c:"
+Cojcclrsa2--Onl4l 2222 42r ~cles 2cfors2Son€ ngcnclrs
+Session Z0C -
+Page
 
+--- page 3 ---
+Scicnces ct Teciniqqucs dc [Ingonicur (STi)
+MP <PC
+D'un préhenseur (8) constitué dun ensemble dorganes (corps, vérin, ventouse, etc.) qui seront consicéres fixes entre eux Il est en liaiscn pivot daxe (K,z) avec le renvoi (7) et en liaison pivot d'axe (J, Z) avec une biellette (9) . Cette dernière est en liaison pivot daxe (I,7) avec le coulisseau (3).
+Le mécanisme de chargement permet, durant une rotation complète du plateau (1) au préhenseur (8) d'effectuer son mouvement selon les trois phases suivantes
+Phase 1 : se recule (sens 1) horizontalement avec le coulisseau (3) Dans cette phase n'y aucun mouvement relatif entre les solides (3), (7), (8) et (9) qui forment un groupe cinématiquement équivalent (classe déquivalence cinématique)
+Sens
+Phase 1 recule du coulisseau
+Phase 2 : Il effectue une rotation jusqu'à ce qu'il soit vertical pour saisir le verre par ventouse Dans cette phase, le levier (4) prend une position fixe par rapport au bâti (0) (rayon de la came constant) ce qui provoque la rotation du renvoi (7) et par suite la rctation du préhenseur (8). Il est à noter que lorsque le préhenseur (8) prend la position verticale, une ventcuse actionnée par un vérin pneumatique, descend pour saisir le verre (10).
+Vérin
+Ventouse
+Verre
+Verre (10)
+Sens
+Phase 2 Rotation du préhenseur pour atteindre lz position verticale puis saisie du verre par ventouse
+Phase 2 Une fois le verre est Saisie par la ventouse; le préhenseur (8) tourne dans le sens inverse pour reprendre Sa position horizontale er avance (sens 2) avec le coulisseau (3) pour placer le verre sur la broche
+Sens 2
+Phase 2 : avance du coulisseau et rotation cu prerenseur pour reprendre sa positicn horizcntale
+Concours nationaux & entrée aux cycles de formacion d'ingenieurs
+Session ~007
+Pase 2
 
+--- page 4 ---
+Sciences ct Techniques de IIngénicr (STI)
+MP € PC
+PARAMETRAGE ET DONNEES CEOMETR'CU
+A
+7o
+0 z
+OK
+Xg
+09
+Profil de la came
+15  0
+[2
+3
+9
+8
+10
+Figure 2 schéma cinématique simplifié de mécanisme du système de chargement des verres.
+A chaque solide (i) est associé un repère orthonormé direct de base ("iJ;z). Ces bases sont définies de la façon suivante
+Jo 'c<
+fo ^ P 7 y yo 7 êxc % 7 y6 7 %4 7B 3 Yo >20 9 Y4 u 72 76 30 F w 7 Js 40 F 7 y9
+7 71
+3 Yo
+4 7 %-
+Xo 9 *-
+70 4 28
+7o 1 x9
+04 = rz ; AB = LzÆz ; 0B = À70 TD = L4J4; DE = 1,76 FE = b-J-; FK = 0-- ; T = boJ, ; JR = ag7s F =a37 bsJo
+7,12, L4  Ls, b-, 0-, be, 08, Œ3 et b3 scnt des constantes positives.
+c. B. ;. 8.€ U et & soni des paramètres variables en fonczicn cetemps.
+Cc:c"s
+Eonaux d enacaux cycles de forniton dincenieurs
+Session ~00-
+Page 3
 
+--- page 5 ---
+Scicnccs ct Iechniques de lIngénicur (STI)
+MP = PC
+A
+TECHNOLOGIE DE CONCEPTION
+A-I- ANALYSE FONCTIONNELLE
+A-1-1- Compléter l'actigramme A-0 du système de chargement de verres. A-1-2- Identifier |'organe Effecteur ) dans le système de chargement de verres. A-1-3- Que représente un vérin pneumatique dans un système technique (cocher la bonne réponse). A-1-4- Donner la fonction principale dun vérin pneumatique A-2- LIAISONS MECANIQUES Pour les liaisons mécaniques données, compléter le tableau en représentant les symboles normalisés et en indiquant les degrés de liberté sous forme de (Rx, Ry, Rz, Tx,
+Ty, Tz) A-3 ETUDE GRAPHQUE Sur la page 2 de document réponse on vous donne la vue de face complète (formes cachées non représentées) et une vue en perspective du levier (4). Compléter les vues de dessus
+et de droite, la coupe A-A et la section C-C. Seules les formes vues sont demandées.
+B
+MECANIQUE
+B-I DDENTIFICATION DES PARAMETRES DE MOUVEMENT L'objectif   de cette   partie est Videntification des paramètres des mouvements des solides constituants le système de chargement des verres en fonction des données géométriques et de la vitesse de rotation & du plateau (1). Il est à noter que Vangle Y et la vitesse de rotation | , qui dépendent du profil de la cane (fonction de aet de &) , sont supposés donnés.
+B-l-1- Etude de la chaine 0-1-2-3-0 Identification de B et de À :
+B-1-1-1- Ecrire la condition de fermeture geométrique de la chaine 0-1-2-3-0. En déduire deux relations
+scalaires entre a, B et ; B-}-1-2- Ecrire, dans la base du repère Ro, les torseurs cinématiques représentants
+Le mouvement du plateau (1) par rapport au bâti (0) au point 4 ; b. Le mouvement de la bielle (2) par rapport au bâti (0) au point B. les composantes seront exprimées en fonction des paramètres @. B et de leurs dérivées; Le mouvement du coulisseau (3) par rapport au bâti (0) au point B. les composantes seront exprimées en fonction du paramètre ; et de sa dérivee;
+B-1-1-3- En se basant sur la composition du vecteur vitesse au point B, déduire deux relations scalaires entre &, 8 et / (on peut vérifier qu'il s' agit de la dérivée temporelle des relations géométriques
+déterminées dans la première question) .
+Concours nazonaux dentree alX cycles de formation d ingénieurs
+Session 2007
+Page 4
 
+--- page 6 ---
+Sciencez ct Techniques de lIngénicur (STI)
+MP & PC
+B-I-2- Etude de la chaine 0-4-6-7-3-0 : Identification 0 et de @
+B--2-1- Ecrire, dans la base du repère Rc, les torseurs cinématiques représentants Le mouvement du levier (4) par rapport au bâti (0) au point D b. Le mouvement de la bielle (6) par rapport au bâti (0) au point E les composantes scalaires du torseur seront  exprimées en fonction des paramètres %.0 et de leurs dérivées; Le mouvement du renvoi (7) par rapport au bâti (0) au point E. les composantes scalaires du torseur seront exprimées en fonction de ^, @ et de leurs dérivées;
+B-1-2-2- En se basant sur la composition du vecteur vitesse au point E, déduire deux relations scalaires
+entre / ,Ÿ, 0 et @
+B-1-3- Etude de la chaine 3-7-8-9-3 Identification de 8 et de @ :
+B-1-3-1- Ecrire la condition de fermeture géométrique de la chaine 3-7-8-9-3. En déduire, par projection
+dans la base du repère Ro, deux relations scalaires entre <, & et w.
+B-1-3-2- Déduire deux relations scalaires entre + 8 et @
+BI-EQUILBBRAGE STATIQUE ET DYNAMIQUE DU PLATEAU (1)
+L'objectif de cette partie est de vérifier Véquilibrage statique et dynamique du plateau (1).
+Le plateau (1) est assimilé à un disque infiniment mince, homogène, de masse mu de centre C1 et de rayon R. Il comporte deux trous, Vun de
+rayon r: et de centre 0 tel que OC. d1 et l'autre de rayon r2 et de centre
+A tel que OA dz.
+AI
+B-ll-1 - Dérerminer   la densite surfacique (G) du matériau  constituant le
+plateau;
+B-ll-2- Déterminer, en fonction de R, r  Tz, d1 et d2, la position du centre
+0 z
+dinertie du plateau 0G1
+B-Il-3- Afin d'équilibrer statiquement le plateau, son centre dinertie (G1)
+doit être ramené sur laxe de rotation (O,z ) Pour cela on se propose de
+percer un trou de rayon rc €+ de centre Co tel que OCo=do.
+Al
+Montrer que le centre Co doit être sur |'axe (0,1 et exprimer do en fonction du rayon ro et des données R, rz d: et d2.
+Concours nstonaux d entrée aux cycles de forzar: 2 c ingenicurs
+Session 2007
+Pzge 5
 
+--- page 7 ---
+Sciences ct Icchniqucs d VIngénicur (STI)
+MF &PC
+Le plateau (1) équilibré statiquement, sera entrainé en rotation, P-r rappcit 2' bâti (C), autour de laxe (0,7). Pour que le plateau (1) soit équilibré dynamiquement, (0,2) doit être un axe principal d'inertie
+Les éléments d'inertie au point 0 du plateau (1), équilibré statiquement, sont définis par la matrice suivante
+A f ~F B ~E ~D
+=E
+[Io (1)]
+(71J1z)
+B-Il-4-  Indiquer les éléments d'inertie qui doivent être nuls pour que le plateau soit   équilibré
+dynamiquement.
+B-Il-5- Justifier que ces éléments dinertie sont effectivement nuls ?
+B-Il-6- Exprimer, en fonction de G, R, r1 F2 ro, d1, d2 et do, le moment d'inertie C
+Ioz(1)
+BI- CHOIX DU MOTOREDUCTEUR DENTRAINEMENI DU PLATEAU (1)
+L'objectif de cette partie est de déterminer le couple à fournir par le motoréducteur au plateau (1). Ceci permet de choisir convenablement le moteur à utiliser .
+Données
+La masse dun solide (i) est notée m; (i=1, 3,8).
+Le centre dinertie du plateau (1) est le point 0
+Les moments d'inertie de (1) et de (8) sont Ioz(1) = J1 et IGaz(8) = 18. Le levier (4), les bielles (2) et (6), Ie galet (5), le renvoi (7), la billette (9) et le verre (10) sont de masses négligeables Toutes les liaisons mécaniques sont supposées parfaites. Le motoréducteur exerce sur le plateau (1) un couple 6 = Cmz. Le champ de pesanteur est défini par g = ~gyo. Le vecteur vitesse instantanée 7(G8 € 8/0) = U37o + VaJo:
+On désigne par (S) le système regroupant les solides suivznts S = {1,2,3,4,5,6,7,8,9,10}
+Concours rationau - dentrée zuz cycles de forrz-on d'inzezieurs
+Session 2007
+Page 6
 
+--- page 8 ---
+Sciences ct Techniqucs de FIngenicur (STI)
+MP € PC
+B-Ill-1- Déterminer |'expression de l'énergie cinétique du système (S) dans son mouvement par rapport à Ro;
+B-Ill-2- Faire le bilan des actions mécaniques_extérieures exercées sur le système (S) au cours de son mouvement par rapport à Ro. Chaque action doit être exprimée par un torseur en un point de votre
+choix et dans la base de Ro.
+B-Ill-3- Déterminer la puissance des actions mécaniques extérieures exercées sur le système (S) au cours de son mouvement par rapport à Ro. P(S = S/Ro) où $ désigne /'extérieur de (S) .
+B-Ill-4- En appliquant le théorème de |énergie cinétique au système (S) dans son mouvement par rapport à Ro, déterminer |'expression du couple moteur Cm.
+BIV- CHOIX DE LA VENTOUSE
+L'objectif de cette partie est de déterminer Vaction mécanique que doit exercer la ventouse pour maintenir efficacement le verre-au cours de son transfert. Ceci permet de choisir convenablement cette ventouse Jo' 77 Ys On admet que le verre (10) est encastré au préhenseur (8) sous |effet Pk dune dépression p créée par la ventouse liée à (8) sur la base du verre (10). Cette action de maintien est définie au centre (P) de la base du verre
+mg
+par le torseur suivant {T(8 10)}
+YIM avec KP a78 ZIn
+Les éléments de ce torseur sont exprimés dans la base du repère Rg. Le verre (10) est daxe de révolution (P,X), de masse m, de centre d'inertie G tel que PG bx8 et de moment d'inertie par rapport à l'axe (G,7) : IGz(10) = 1 Le vecteur vitesse instantanée du centre G par rapport à Ro est exprimé par V(G € 10/Ro) = Uz8 + Vj8.
+B-IV-1- Exprimer, dans la base de Ra, le vecteur accelération instantanée de centre G par rapport à Ro.
+Les composantes de ce vecteur seront exprimées en fonction de U, V, W et de leurs dérivees.
+Concours nationaux d'entrée aux cycles de formation d ingénieurs
+Session 2007
+Page
 
+--- page 9 ---
+Sciences ct Techniaues de IIngénicur (STI)
+MP & PC
+B-IV-2- Déterminer, au point G, le torseur dynamique du mouvement du verre (10) par rapport à Ro
+{D(10/Ro)}G. Les éléments de réduction de ce torseur seront exprimés en foncticn de U, V, W et de leurs dérivées et projetés dans Rg. B-IV-3- Déterminer, au point G, le torseur des actions mécaniques extérieures exercées sur le verre (10) {T(1o 10)}G. Les éléments de ce torseur seront définis dans la base du repère Rs. 10 désigne Fextérieur de 10.
+B-IV-4  En appliquant le Principe Fordamentale de la Dynamique à (10) dans son mouvement par rapport à Ro, déterminer les composantes du torseur associé à l'action du maintien exercée par la
+ventouse sur le verre
+B-IV-5- Etablir, alors, une condition sur le coefficient dadhérence à respecter lors du choix de la
+ventouse pour que le maintien soit efficace
+Cczcours rstionaux € entréc aux 'cycles de formaricai € irgénicurs
+Session 2007
+Pzge 8
 
+--- page 10 ---
+Scicnces ct Tcchniques de [ Ingénicur (STI)
+MP € PC
+C = AUTOMATIQUE
+L'objectif de cette partie est |étude de Vasservissement de la vitesse du moteur utilise dans le systeme de chargement des verres_
+HYPOTHESE Pour cette étude, on se place dans le cas dun système linéaire, continu et invariant.
+C.1. MODELISATION DU MOTEUR
+Le plateau came (voir figure 1) est entrainé en rotation à travers un réducteur par un moteur à courant
+continu. En négligeant Vinductance et les différents frottements, le modèle de connaissance de ce
+moteur est décrit par les équations électromécaniques suivantes
+(t)=u ( ) -Ri (t ) = K. 0(t ) do(t ) Cm (t ) = K,i (t ) =J dt
+avec
+e(t) Force electromotrice en V. u(t) Tension d'entree en V i(t) Courant d'induit du moteur en A o(t) Vitesse angulaire de Varbre du moteur en rad.s 1 Cm(t) Couple électromécanique délivré par le moteur en m.N_ Résistance de Yinduit en Q Ke Constante de la force électromotrice V/rad.s Kt Constante du couple électromécanique en m.N.A-' Mcment d'inertie équivalent rapporté à /arbre de sortie en Kg.m?
+C.1.1. Ecrire les quatre équations ci-dessus dans le domaine de Laplace (tcutes les conditicns initiales
+sont supposées nulles)
+c.1.2. Completer le schema blocs propcse sur le document réponse
+C.1.3. Déterminer la fonction de transfert H (p) = 2(p de ce moteur. U(p)
+C.1.4, Lors du fonctionnement du moteur en charge, on relevé les diagrammes de Bode (Mocèle de comportement). partir de ces courbes, on donne ci-après les diagrammes   asymptotiques
+correspcndants.
+Concours nationaux d'entrce aux cycles de formation d ingénieurs
+Session Z007
+Page 9
 
+--- page 11 ---
+Scicnccs & Tcchniqucs dc ÜIngcnicur (STI)
+MPsPC
+20log GU0)
+W = Zurad $
+0 dB
+~6 dB
+-20 dB/decade
+argG ( j0)
+-90
+Déterminer Vordre du système ainsi que la constante de temps 7 et le gain statique Ks Ecrire numériquement la fonction de transfert H(p) du moteur sous sa forme canonique
+C.1.5. Les caractéristiques techniques du moteur indiquées par le constructeur sont R =3,4 Q et K;= 0,85 m.N.A-' Calculer 'a valeur de Ke (V/rad.s-1) et de J {Kg.m?) .
+C.1.5. Tracer la réponse temporelle de ce moteur s'il est soumis à un échelon de tensicn d'amplituce
+Uo = 220 V.
+C.2. ASSERVISSEMENT DE LA VITESSE DE ROTATION DU MOTEUR
+Pour assurer Vasservissement de la vitesse de rotation du moteur (donc la rotation du platea
+came), on place dans la chaîne dasservissement un régulateur de fonction de transfert Rlp). La vitess de rotation est mesuree par un capteur tachvmetrique de gain Kc = 0,06 V/rad.s - Le schema fonctionn
+de Vasserissement est donné ci-dessous.
+2 p)
+Uclp)
+8101
+Ulp)
+2lp)
+R
+U
+a  1017 Ciicer 2lrs
+Session ~007
+log
+Flog
+14?)
+Pas
 
+--- page 12 ---
+Secnces ct Technqucs de ?Ingcnicur (STI)
+MP €PC
+Independamment des résultats trouvés precédemment on prendra dans la suite
+0.5 H (p) =- 1-0.05p
+C.2.1. Cas dun régulateur proportionnel Rlp) = Ka. C.2.1.1. Calculer la fonction de transfert F(p) = Q(p) de ce système en boucle fermée en fonction de 2 (p)
+Kc.
+C.2.1.2. Pour Ka 800, tracer la reponse temporelle de cet asservissement s'il est soumis à un échelon
+Qc = 100 rad.s ' En déduire |erreur statique € (écart entre la valeur de la consigne et de la valeur réelle
+quand ( 9*
+C.2.1.3. Quelle valeur faut-il donner à Ka si cn souhaite une erreur statique & < 2%
+C.2.2. Cas dun régulateur de type proportionnel intégral R (p) = K 1 _ Tp
+C.2.2.1. Calculer la fonction de transfert du système en boucle fermée muni de ce régulateur.
+C.2.2.2. Etudier la stabilité du système en bcucle fermée en fonction de Kp et T, C.2.2.3. Quel est Vintérêt dutiliser ce type de régulateur ? Les transformées de Laplace utiles sont données dans le tableau suivant
+F(p)
+f (t) pour t > 0
+1 p
+2
+p -a)
+Le 7e b =a
+{p ~a)(p -b )
+K0
+K@ 20 ( sin  0v-4t) Vl-;
+p +2e@p -0;
+Concours nationaux dentree auX cycles  de formation c ingenieurs
+Session 2007
+Page 11

@@ -1,31 +1,713 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE
+~à8 ebx?lssis gilesy ULli ùs Jly Ji Jsj zlyl cjli 2018;2
+Ministère de  'Enseignement Supérieur et de la Recherche Scientifique
+Concours Nationaux dEntrée
+aux Cycles de Formation dIngénieurs Session 2018
+Concours Technologie Épreuve de
+Systèmes Techniques Automatisés
+Date Mardi 05 Juin 2018
+Heure 8.00 H
+Durée 3 Heures
+L'épreuve comporte deux parties
+A- Mécanique des Solides Indéformables & Résistance des Matériaux (10 pts) B- Automatique (10 pts)
+Le sujet de lépreuve remis au candidat comporte trois dossiers
+1- Mise en situation; Données et Hypothèses 2- Document Réponses 3-Document Technique DT-01
+Important Aucun autre document n'est autorisé. Seules les calculatrices de poche non programmables sont autorisées_ Il n'est fourni au candidat qu'une seule et unique copie du <Dossier document réponses qui doit être rendu en totalité, à la fin de lépreuve; même sans réponses. Le document réponses doit être rendu en intégralité aucune feuille ne doit être supprimée) . Cet acte est considéré comme étant une tentative de fraude.
 
+--- page 2 ---
+Dossier
+Mise en situation; Données et Hypothèses
+Ce dossier comporte 13 pages numérotées de 1à 13 et un document technique DT-01
+Mise en situation
+Page 1 à3
+Document technique
+DT-01
+Données et hypothèses
+Page 4à 13
+Mécanique des Solides   Indéformables (MS.I) & Page - 4 à 8 Résistance des Matériaux (R.D.M) Automatique Page 9 à 13
 
+--- page 3 ---
+Concours Technologie Épreuve STA
+Mise en situation, Données & Hypothèses
+ÉTUDE D'UNE LIGNE DE REMPLISSAGE ET DE BOUCHAGE DE BOUTEILLES
+1- Mise en situation Le système proposé à l'étude représente une chaîne de conditionnement de produits liquides. est constitué, comme l'illustre le document technique DT-01, de trois unités ayant pour fonctions respectives le stockage et Yalimentation en produit, le remplissage du produit   dans des bouteilles et le bouchage des bouteilles: La première unité (Unité I) comporte la cuve de stockage, Vélectrovanne A, la vanne B et un ensemble de tubes assurant le transfert du produit vers Yunité de remplissage (Unité II) . Les éléments constituants lunité II sont principalement
+Un convoyeur linéaire (CLI) formé par le tapis (T1) entrainé en mouvement par Tintermédiaire du motoréducteur (MI). Il assure le transfert des bouteilles remplies vers lunité de bouchage (Unité III) , Un dispositif de remplissage formé de 4 buses, Un ensemble composé de 4 vérins V1, V2, V3 et V4, assurant le mouvement dapproche des buses ainsi que le maintien en position des bouteilles durant la phase de remplissage. L'unité III est formée des éléments suivants
+Un convoyeur linéaire (CL2) formé du tapis (T2) qui est entrainé en mouvement par Tintermédiaire du motoréducteur (M2). Il assure l'évacuation des bouteilles bouchées , Un ensemble constitué dun magasin de stockage de bouchons, dune goulotte et d'un mécanisme de pose de bouchons, Un   mécanisme de transfert   des   bouteilles, formé dun motoréducteur (M3), d'un mécanisme à croix de Malte solidaire d'une étoile de transfert (DT-01), Un dispositif pneumatique formé   principalement par le vérin V5 équipé dun moteur (MS) ayant pour rôle le vissage des bouchons.
+2. Fonctionnement du système Le convoyeur linéaire d'alimentation (CLI) emmène les bouteilles au poste de remplissage: Les vérins V1, V2 et V3 actionnent un dispositif pour bloquer les bouteilles, en position face aux buses d'injection du produit. Le vérin V4 assure le mouvement dapproche des buses dinjection vers les cols des bouteilles .
+Après remplissage, les bouteilles sont guidées vers l'étoile de transfert, celle-ci est liée à un mécanisme à croix de Malte composé; comme Vindique les Figures 1 et 2,du maneton (1),du galet (3)etde lensemble (2) (croix de Malte + étoile de transfert) . Le maneton (1), mis en mouvement par un motoréducteur à courant continu; est en rotation autour de l'axe vertical et entraîne dans son mouvement le galet (3). Au cours dun tour du maneton (1), le galet (3) s'engage dans une rainure de la croix de Malte (ensemble (2)) puis s'en dégage comme le montre la Figure 3. L'ensemble (2) est donc entraîné en rotation autour de son axe de façon intermittente par le maneton (1)
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2018
+Page 1 | 13
 
+--- page 4 ---
+Concours Technologie Épreuve S.TA
+Mise en situation, Données & Hypothèses
+Dans son mouvement, lensemble (2) entraîne létoile de transfert, la bouteille (Bti) est alors amenée par la rainure (j), sous le système de pose de bouchon. La bouteille (Bti+1) prend place dans la rainure (j + 1). Dans son mouvement vers le poste de bouchage, le bouchon est posé sur le col de la bouteille (Bti) via une languette élastique assurant sa stabilité . Sous la tête de bouchage, la bouteille est immédiatement bloquée par le vérin de serrage (V5). Lorsque le bouchon est vissé, le maneton (1) entraîne à nouveau lensemble(2), la bouteille (Bt;) est dirigée vers Tévacuation par le convoyeur linéaire (CL2) et la bouteille (Bti+1) est conduite à son tour sous la tête de vissage.
+Etoile
+transfert
+Iable
+Croix de_Malte
+Maneton
+Motoréducteur
+Figure 1- Mécanisme de guidage et de transfert de bouteilles de Funité III
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 2 | 13
 
+--- page 5 ---
+Concours Technologie Épreuve STA
+Mise en situation, Données Hypothèses
+Maneton_ (1)
+Etoile de transfert
+Galet_(32
+MMotoréducteur
+Croix de_Malte (Ensemble_ (2)2
+Figure 2- Schéma de principe du mécanisme de croix de Malte
+Maneton (1)
+Ensemble (2)
+Galet (3)
+Ensemble (2
+Maneton
+Galet (32
+Figure 3- (a Maneton en position d'engagement; () Maneton en position de dégagement
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 3 | 13
 
+--- page 6 ---
+Concours Technologie Épreuve STA
+MSI &RDM
+Mise en situation, Données & Hypothèses
+Partie A Mécanique des Solides Indéformables (MS.I) & Résistance des Matériaux (RD.M)
+A-1 Mécanique des Solides Indéformables (MS.I) Dans cette partie, on s'intéresse à étude mécanique du sous-système formé du maneton (1), de Yensemble (2) et du galet (3). Ce mécanisme permet de transformer le mouvement de rotation continu du maneton (1), à vitesse angulaire constante @,en un mouvement intermittent de létoile de transfert via la croix de Malte qui lui est solidaire. La Figure 2 illustre V'emplacement du mécanisme par rapport au motoréducteur à courant continu: La Figure 4 schématise le principe de fonctionnement du mécanisme d'entrainement de létoile de transfert:. La Figure 5 présente le schéma cinématique minimal de ce mécanisme_
+Ensemble (2
+Maneton
+Galet (3)
+9>
+Bâti (0)
+Figure 4- Schéma de principe du maneton et de la croix de Malte
+Ayz
+Bâti (0)
+Figure 5- Schéma cinématique minimal du mécanisme de la croix de Malte
+Concours nationaux d'entrée aux cycles de formation d' 'ingénieurs
+Session 2018
+Page 4 | 13
+7%0
 
+--- page 7 ---
+Concours Technologie Épreuve STA
+MSI&RDM
+Mise en situation, Données & Hypothèses
+A-2. Repères et paramètres
+Repères
+Ro(0,*o Vo, 70): Repère   lié au bâti (0), est   pris pour un repère   galiléen avec (0,20) comme axe vertical ascendant; R  (0,x1}1, 71): Repère lié au maneton (1), Rz(B,*2 ]2, 72): Repère lié à lensemble (2),
+Avec Z = 21 = 72 et OB Dxo (D est une constante dimensionnelle du mécanisme)
+Paramètres géométriques
+Les paramètres du mécanisme se présentent comme suit
+La rotation du maneton
+autour de laxe (0,70 est représentée par langle €,il est tel que 8 = (xo,1) = (Jo }1 La rotation de Yensemble (2) autour de Faxe (B,zo) est représentée par Fangle  , il est tel que ; B = (7o,*2) = (Jo }z) La position du centre A du galet (3) est définie par les vecteurs
+OA = R 71 et AB = 2v2, (2 est variable)
+où R1 est une dimension constante liée au maneton et / la distance séparant le centre A du galet (3), du point B.
+A-3. Données relatives à l'étude dynamique et énergétique Caractéristiques dinertie
+L'ensemble (2) formé par la croix de Malte et l'étoile de transfert admet pour
+masse m2
+centre d'inertie G2 avec BG2 T2w2 + hzo
+Az Ez Az ~E2 C2 (B,x2.J2,72)
+matrice d'inertie au point B
+[Iz]B
+Efforts appliqués à Yensemble (2)
+Le galet (3), de masse supposée négligeable, est un composant intermédiaire entre le maneton (1) et lensemble (2) Son rôle consiste à réduire les frottements au niveau de son contact en avec la croix de Malte (ensemble (2)).
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 5 | 13
 
+--- page 8 ---
+Concours Technologie Épreuve STA
+MSI &RDM
+Mise en situation, Données & Hypothèses
+En fonctionnement normal, cet ensemble est soumis aux actions mécaniques suivantes
+poids propre de Yensemble (2) (accélération de la pesanteur g = -g20), action du bâti (0) au point Btransmise par la liaison pivot d'axe (B, 7o) supposée parfaite, couple résistant représentant les frottements des bouteilles appuyées sur la table, il est modélisé par : Cf Cf Z0 avec Cf > 0, action ponctuelle du galet (3) au point 7 :F; = F1Jz avec F; > 0 et Ai = r3]z où r3 est le rayon du galet.
+Données relatives à l'étude énergétique
+Le motoréducteur, schématisé par la Figure 6, est formé dun réducteur et dun moteur à courant continu. À lentrée du réducteur, le moteur développe, à vitesse de rotation constante @ (m 7o, un couple Cm Cm7o:
+Compte tenu du faible diamètre du galet (3) le point de contact / de lensemble (2) avec le galet (3) sera supposé confondu avec le centre A du galet. Le réducteur est caractérisé par son rendement nr et son rapport de réduction Pr défini par Pr (m
+On se propose de déterminer le couple moteur Cm nécessaire à lentrainement de lensemble (2), dans son mouvement par rapport au bâti (0).
+B2
+Moteur à courant continu
+Az
+A4 A3
+Figure 6- Schéma cinématique du motoréducteur M3 (Mécanisme d'entraînement de létoile de transfert)
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 6 | 13
 
+--- page 9 ---
+Concours Technologie Épreuve STA
+MSI &RDM
+Mise en situation, Données & Hypothèses
+A-4. Résistance des matériaux
+NB Les notations utilisées dans cette section sont propres à la partie < résistance des matériaux.
+On s'intéresse au dimensionnement de Yaxe assurant l'entrainement en rotation continue du maneton (1). Cet axe est assimilé à une poutre droite; cylindrique à section supposée uniforme, guidée en rotation par deux roulements montés respectivement sur une plaque inférieure et une plaque supérieure en liaison complète avec le bâti (0) comme le montre la Figure 7. On notera par R(O,x,},z) le repère associé à cet axe
+Au niveau de la section de centre 0, laxe est soumis à leffet du couple développé par le motoréducteur qu'on notera : Co CmrX . La force exercée par lensemble (2) sur le galet (3) est transmise à laxe par lintermédiaire d'une clavette. Cette action engendre au niveau de la section de centre B, une action mécanique représentée par le torseur
+{r}B {F |c}B
+Avec F = -Fz et z = -Cx = -8.Fx
+où F et & sont des constantes positives
+Les roulements de centres respectifs A et C sont modélisés par des linéaires annulaires d'axes confondus avec (0,7)
+2
+L/4
+Figure 7- (a) Modèle réel de laxe; () Modèle simplifié de Vaxe pour le calcul de résistance des matériaux
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 7 | 13
 
+--- page 10 ---
+Concours Technologie Épreuve STA
+MSI & RDM
+Mise en situation Données & Hypothèses
+Le poids propre de laxe et les frottements sont négligés.
+On donne
+Le diamètre minimal de l'axe
+Da 12mm
+La longueur totale de laxe
+Oc 2L
+160 mm
+La distance entre les deux roulements
+AC = L = 80 mm
+La distance
+BC =
+=20 mm
+La constante
+8 = 6 mm
+Le couple à la sortie du motoréducteur
+Cmr =1.2 N.m
+Le matériau de laxe est un acier non allié, ayant pour caractéristiques élastiques
+Module de rigidité longitudinale (Module de Young) E 210 GPa Module de rigidité transversale (Module de Coulomb) =80 GPa Coefficient de Poisson v = 0.3
+Limite élastique Re 200 MPa Contrainte tangentielle limite élastique Te
+100 MPa
+Le coefficient de sécurité sera fixé à s = 2.5
+Pour une section circulaire de diamètre D, on donne
+Le moment d'inertie polaire
+TD4 Igo 32
+TD Le moment dinertie par rapport aux axes (0,}) et (0, 7) Igy Igz 64
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 8 | 13
 
+--- page 11 ---
+Concours Technologie Épreuve STA
+Automatique
+Données & Hypothèses
+Partie B : Automatique
+Lobjet de cette partie est létude de lautomatisation du système d'embouteillage constitué de trois unités comme le montre le document technique DT-01. B-1. Étude séquentielle de Yunité de bouchage des bouteilles Cette unité permet le bouchage des bouteilles remplies et leur évacuation comme le montre la Figure 8.
+V5
+M5
+Arrivée des
+Evacuation des bouteilles bouchées
+bouteilles remplies
+Tapis TI
+Tapis T2
+Vue de face de Funité de bouchage sans Fétoile de transfert
+pb capteur présence bouteille
+Tl : Emménage des bouteilles remplies
+T2 Evacuation des bouteilles bouchées
+Vue de dessus montrant Fétoile de transfert
+Figure 8-Unité de bouchage (Unité III) Description du fonctionnement de Yunité de bouchage Les bouteilles remplies arrivent sur le tapis T1 devant Yétoile de transfert permettant leurs déplacements entre les postes de bouchage et d'évacuation.
+La présence de bouteilles est détectée par un capteur < pb mettant en fonctionnement en même temps le tapis T2 qui permet l'évacuation des bouteilles bouchées et le plateau   (étoile de transfert) qui permet le déplacement des bouteilles devant les postes le poste de mise des bouchons; le poste de vissage des bouchons et le poste dévacuation des bouteilles. (Le moteur M2 du tapis T2 et le moteur M3 du plateau resteront en fonctionnement jusqu' à larrêt du système)
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page /13
 
+--- page 12 ---
+Concours Technologie Épreuve STA
+Automatique
+Données & Hypothèses
+En effet; à chaque quart de tour du plateau détecté par un capteur de position d > on aura simultanément les actions suivantes
+Une bouteille vient se placer devant le poste de mise de bouchons, ce dernier est libéré par action sur un électro-aimant KA, La bouteille ayant eu un bouchon se déplace devant le poste de vissage, un vérin équipé d'un moteur électrique sur l'extrémité de sa tige fait descendre le moteur, ce dernier se met ensuite en rotation pendant 3 secondes (temps nécessaire pour assurer le vissage du bouchon) Une fois les trois secondes sont écoulées, on aura en même temps larrêt du moteur MS et la remontée de la tige du vérin V5, La bouteille   bouchée vient se présenter   devant   le poste   d'évacuation qui se fait automatiquement par le tapis T2
+Le cycle se répète tant qu'une bouteille est présente devant le plateau (pb 1)
+En absence de bouteilles devant le plateau, ce dernier effectuera deux quarts de tour. Le premier quart de tour permet de déplacer la dernière bouteille devant le poste de vissage: Ensuite le deuxième quart de tour servira à l'évacuation de cette bouteille. Le système s'arrête en attendant la présence de nouvelles bouteilles.
+On donne, dans le Tableau 1, les différents repérages des entrées et sorties de la partie commande.
+Tableau -1 : Repérage des différentes entrées et sorties
+Sorties Désignation
+Entrées Désignation
+Symbole
+Symbole
+Moteur M2 d'entrainement du tapis T2
+KM2
+Présence bouteille devant le plateau
+pb
+Capteur indiquant la mise en place du bouchon Capteur de   position qui   indique qu'un quart de tour du plateau est effectué
+Moteur M3 d'entrainement du plateau
+KM3
+Moteur de vissage des bouchons (ne nécessite pas de pré-actionneur)
+M5
+Vérin double effet pour le déplacement du moteur de 'vissage des bouchons
+Capteur indiquant la sortie de la tige du vérin V5
+V5
+a51
+Électro-aimant pour descente du bouchon
+autoriser
+Capteur indiquant la rentrée de la tige du vérin V5
+KA
+a50
+NB :
+Pour lactivation dun actionneur bistable Vn; on utilise la notation Vn: = 1 Pour la désactivation dun actionneur bistable Vn, on utilise la notation Vn = 0
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 10 | 13
 
+--- page 13 ---
+Concours Technologie Épreuve S TA
+Automatique
+Données & Hypothèses
+B-2. Régulation du niveau du liquide dans la cuve de stockage On considère la régulation automatique du niveau du liquide dans une cuve de stockage, de section $ = 0.5 m2 schématisée par la Figure 9.
+Electrovanne
+Capteur Ultrason
+91 (t)
+Vs (t)
+01 (t)
+Réducteurhl (r)
+hs(t)
+0m (t)
+92 (t )
+Vanne
+Eo
+Pc
+A1
+hc (t)
+u(t)
+Vc (t)| Amplificateur
+Figure 9- Schéma de l'asservissement
+Modélisation de la chaîne dasservissement
+Le débit q1 (m3 /s) est réglé par une électrovanne A motorisée il est proportionnel à langle 01 (rad) d'ouverture de cette électrovanne
+91 (t) = k1. 01 (t) avec k1 0.1 m3 / (s.rad)
+42 représente le débit de sortie lié à lutilisation du liquide de la cuve de stockage, commandée manuellement par la vanne B.
+Le moteur M) est alimenté par une  tension u(t), créée par un comparateur   suivi dun amplificateur de gain A1
+u(t)
+A1 [vc(t) vs(t)], A1 > 0
+2)
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 11 | 13
 
+--- page 14 ---
+Concours Technologie Épreuve ST.A
+Automatique
+Données & Hypothèses
+Le moteur (M) tourne à la vitesse @m, son modèle (entrée tension; sortie vitesse) est un premier ordre de fonction de transfert Tm(p) ayant un gain statique Km et une constante de temps Tm; la position angulaire de son arbre est @m(t) Les courbes de Bode caractérisant la fonction harmonique Tm(jw) du moteur sont représentées par la Figure 10.
+Figure 10- Courbes de Bode caractérisant la fonction Tm (jw)
+Le moteur (M ouvre ou ferme Yélectrovanne A par lintermédiaire dun réducteur (r).
+01 (t) r@mC (t) avec r 20
+3)
+Le potentiomètre d'entrée Pc délivre une tension v(t)   proportionnelle au niveau de la consigne hc(t) demandé.
+Vc (t) kchc(t) avec kc 20 V /m
+Le capteur ultrason mesure le niveau hs (t) dans la cuve de stockage. Il délivre une tension vs (t) proportionnelle à hs(t) obéissant à la loi suivante
+vs(t) kshs (t)
+On prendra ks kc
+Les fonctions de transfert de la cuve de stockage sont
+Hs (p) Q1
+Hs (p) et S.p Q2 (p)
+S.p
+L'asservissement de la Figure 9 peut être représenté par le schéma fonctionnel de la Figure 11.
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+'Page 12 | 13
 
+--- page 15 ---
+Concours Technologie Épreuve STA
+Automatique
+Données & Hypothèses
+Cuve de stockage
+Hs (p)
+G (p)
+U (p)
+Qm (p) 0m (p) 01 (p) Q1 (p)
+Hc (p)
+Ve (p)
+Vs (p) G, (p)
+Gz (p
+G; (p) IG, (p
+Gs(p
+Go (p
+Figure 11- Schéma fonctionnel de l'asservissement à étudier
+Amélioration des performances de la chaîne dasservissement
+La régulation par une simple boucle ne permet pas de garantir la stabilité du système. Par conséquent; on propose d'utiliser une structure en cascade (Figure 12) comportant deux boucles imbriquées. Une boucle interne qui contrôle louverture de lélectrovanne A et une boucle externe de régulation de niveau hs(t) dans la cuve de stockage. On mesure avec un autre potentiomètre la position de Vélectrovanne celui-ci délivre une tension Vm (t) telle que vm(t) = b.01 (t) avec b = 20 V/rad le signal de commande est élaboré grâce un comparateur et un amplificateur de gain Az
+Electrovanne
+Capteur Ultrason
+q (t)
+Vs (t)
+81 (t)
+Réducteur HI (r)
+hs (t)
+92 (t)
+Vanne
+@m (t)
+Vm (t)
+Eo
+A2
+Pc
+hc (t)
+u (t)
+U, (t )| Amplificateur
+Vc (t) Amplificateur
+Figure 12- Schéma du nouveau asservissement
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 13 | 13
 
+--- page 16 ---
+1 f
+8
+8 8 1 !
+[
+1 1
+f
+8
+;
+{
+1
+8 1 <
+5
+1
+?
+[P ;
+5
+1
+1 1 1 1 2 1 8 1 { : à [ 8 778 ; 2 1 1 ; 1 { 8 8 # 8 1 1 ill 1" 9 8 6 Lil 3 8 ; 8 8 4
+1 { [ 2 1 1/ 2 1
+1 5 1
+1 5 5 8 9
+g
 
+--- page 17 ---
+Concours Techno - Épreuve ST.A
+Partie A MSI & RDM
+Document Réponses
+Partie A : Mécanique des Solides Indéformables (MS.I) & Résistance des Matériaux (RDM)
+1-Étude cinématique A1. Utiliser la base (71 }1, z1), pour exprimer le torseur cinématique représentant le mouvement
+du maneton (1) par rapport au bâti (0)
+au point
+Mouvement du maneton (1) par rapport au bâti xprotation daxe Z0 = 71 71/0 070 et Vojo 0 Coprectior {1/o}0 4@ 3 b. au centre A du galet : @1/0 0z0 et Va/0 8 @1/0 0z1 ^ R1x1 = R1W y Élém {91/0} reuve 021  |va/ R16 v1} A2. Exprimer, au point B, dans la base (æ2 ]2, 42), le torseur cinématique représentant le mouvement de lensemble (2) par rapport au bâti (0). Mouvement du maneton (2) par rapport au bâti (0) rotation daxe Z0 71
+@2/0 ~Bzo et VB/0 0
+{02/0}B {@2/ = -Bz1 VB/0= =0}
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2018
+Page 1 | 16
 
+--- page 18 ---
+Concours Techno - Épreuve S.T.A
+Partie A MSI&RDM
+Document Réponses
+A3. Déterminer la vitesse du centre A du galet (3) par rapport au bâti (0) , en passant par le point B et lexprimer dans la base (w2 C2, 72).
+dBA dt
+(~172) = À7z @2/0 A 72 >Vajo =-Àz2 + 1Bj2 dt
+Va/o ~Àzz + 1Pyz
+A4. Écrire les relations cinématiques traduisant la fermeture de la chaîne (0 _ 1 - 3 - 2 - 0). D'une part Vajo R1W y1 R1ë(-sinezo + coseyo) D'autre part Vajo ~axz 1Pyz 9 Vajo = ~i(cosBzo sinByo) + 4 0 + cosByo) Vajo (~icosp + ABcosB)vo) Par identification 2 ~R1ësine ~icosB + 1Qy9 Rzicos0 = isinB +{8,8sB A5. En déduire les relations géométri 'qu98 traduisant la fermeture de la chaine (0 _ 1 -3 - 2 _ 0) tout en précisa es valeurs ue doivent vérifier les constantes d'intégration. Montrer alors que la relatior? 59/ Rasin8 0s8 représente la loi entrée-sortie du mécanisme.
+~R1ësine ~icosB + JBsinf (1) > 4 [R cose] = [AcosB] (3) dt dt
+R1ëcose = isinB + 1BcosB (2) > 4 [Risine] dt [1sinB] (4)
+L'intégration des relations (3) et (4) conduit à :
+(3) > Ricos0 + AcosB C1
+(4) > Risine AsinB Cz
+En utilisant la chaine (0-1-2-0) on montre C1 = D et C2 = 0
+Ainsi
+AcosB D Racos0 (5) et
+AsinB Risine
+(6
+Rasine D-Ricose
+En divisant membre à membre (5) et (6), on obtient tgB
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 2 | 16
+Vajo
 
+--- page 19 ---
+Concours Techno - Épreuve STA
+Partie A MSI& RDM
+Document Réponses
+A6. Déterminer, en fonction de D et de R1  les relations exprimant les limites extrêmes Amin et Amax de ^ qui correspondent aux positions respectives (0 = 0, B 0) et (0 30  B 459).
+La position (0 = 0,B = 0) est traduite par la relation R1 + Amin =D
+La position (0 = 30" ,B = 459) est traduite par les relations
+v3 V2 R1 + Amax = D et R1 2
+22 Amax = 0
+Tout calcul fait; on montre
+Amin 2 (v3 -1) Rv Amax
+'ét D (v3 + 1)R1 2
+A7. Exprimer; en fonction de D et de Ra, la course Ckéffectuée parle centre A du galet (3) sachant que celle-ci est définie par la relation Co Amin: Domner les valeurs numériques des rapports et En quoi ces rapports pourront être R, R1 Co Amax 1A4 vz (1 - v2) + D v22 jenfe;) 1) = 1.366 0 Co R1 (Qnnp v2) 1(1-v2)+4(5+1) = 1.073 2 re Il suffit de #xêruhe dimension on peut en déduire les autres A8. Utiliser la loi entrée-sontie de la question A5, pour déterminer la vitesse et l'accélération angulaires de lensemble (2) par rapport au bâti (0) correspondant à la position (0 0, B = 0) ; les exprimer en fonction de R1 W et D_ Risine tgB D Ricos0
+R1wcos8 RZwsin? 0 3 P(1 +tg2B) D _ Ricos0 (D - R1cos0)2
+Compte tenu des valeurs des deux angles on montre que:
+R1w B D = R1
+Le développement des calculs donne B = 0
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 3 | 16
 
+--- page 20 ---
+Concours Techno - Épreuve S.T.A
+Partie A MSI&RDM
+Document Réponses
+2- Étude dynamique Dans cette partie, les calculs développer se rapportent à un fonctionnement normal du mécanisme, lorsque celui-ci se trouve instantanément dans la position de passage (0 = 0,B = 0)
+A.9. Déterminer le torseur dynamique au point B de l'ensemble (2) dans son mouvement par rapport au bâti (0) ; l'exprimer en fonction de m2,T2, Ez, Rp D et @
+Le torseur dynamique est définie au point B par {Dzjo} B {Rz//8B/0} Avec Rzj0 m2 ÎGz/0 7 m2r2(P272 Pyz) et 8B/0 = dt (@B/0) 7B/0 = [Iz]B. @2/0 = ~E887c,Bzo 8B/0 ~EzBxz + + CzBzo Dans la position (0 = 0 ,B = 0) 7 018 La résultante mz Xo R1w Rz/0 fGz/07 m2 D ~R1 Xo de V Le moment dynamique eœB sécrit E2 R1w =R1 Jo
+4URi Rz/0 m Xo [8B/0 = Ez R1w @tI (D -Rz D = R1 7
+{Dzo}
+410. Modéliser, sous fore)de torseurs calculés au point B, toutes les actions extérieures 'exerçant sur l'ensemble (2) (les bases de projections devront être précisées) .
+Action de la pesanteur au point B : {"pe/2}B {Fz/MB(e/2)} @z ~m2gz0
+MB(pe/2) BG2A Pz = ~(r272 + hzo)Amzgzo mzgrzyz Dans la position (0 = 0 ,B = O),le torseur admettra pour expression
+{rperz} B {~m2gzolmzgryo}
+Action du bâti (0) au point B {ro/2}E {Fo/2 XBXo + YBVo + ZBzo[ [MB(/2) LBXo + MBVo}
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2018
+Page 4 | 16
 
+--- page 21 ---
+Concours Techno - Épreuve STA
+Partie A : MSI &RDM
+Document Réponses
+couple résistant :
+{Tri2} B {Fr/2 kJc Cfzo} Action ponctuelle du galet (3) {r3/2} B = {F3/2 Fyz|MB(3/2) BIAF,vz}
+Avec BI BA +Al = -172 + r3yz Cela conduit à MB(3/2) (~172 +rsvz)AFJzù AF,z0 @
+Dans la position (0 = 0 ,B = 0), le torsexadmettra pour expression
+{r3/2}E
+~F
+A11. Écrire les équations dynamiques découlent [tféorème de la résultante dynamique appliqué à lensemble (2) dans san guvement par Kepport au repère galiléen Ro. R1w Théorème de la résultante dyamique mzr2 vo/ YB + F1 = 0; D-R1
+m2g
+A12. Écrire les équations dynamiqûès qui découlent du théorème du moment dynamique appliqué à /'ensenble(2) dans soRmiouvement par rapport au repère galiléen Ro.
+Théorème du moment dyâanque
+LB = 0
+R1w MB + mzgr2 + Ez =0 D = R1
+~F((D = R1) + Cf = ~Fplmin + Cf = 0
+A13. Déterminer Yexpression de laction ponctuelle F, et l'exprimer en fonction de Cf , D et R1.
+Cf Cf F1 Amin D = R1
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 5 | 16
 
+--- page 22 ---
+Concours Techno - Épreuve ST.A
+Partie A MSI& RDM
+Document Réponses
+3- Étude Énergétique A14. Déterminer la puissance développée par laction ponctuelle du galet au point de contact I, dans le mouvement du maneton (1) par rapport au bâti (0). Que devient cette puissance dans la position instantanée (0 = 0,B = 0) ? Pu(F;) = F VAjo = Fivz. R10ÿ1
+Dans la position (0 = 0 ,B = 0) :y2 = y1 = y
+La puissance instantanée à linstant de passage est alors
+Pu(F;) = F,R1W R1 @ A15. Calculer la puissance motrice moteur à Pétrée du réducteur. 72 Cm 301 A16. Déduire le couple par le moteur ètPexprimer en fonction de nr, Pr, Cf, R1 et D. C . Bas PrCfR1 4 (D CmWm D R1)Cm On en déduit Épreuv Cm PrCfR1 nr(D R1) 4- Résistance des Matériaux A17. Déterminer les expressions des actions mécaniques extérieures appliquées à Yaxe aux points A, B et C (Figure 7). {ra}o + {TB}o + {Ic}o + {Text}o {0} O|Cmr ~SF 1ayo ~Zc. 2L { F.Z1 0 {0} Yc. 2L
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2018
+Page 6 | 16
 
+--- page 23 ---
+Concours Techno - Épreuve S.TA
+Partie A : MSI & RDM
+Document Réponses
+Cmr = F
+Cmr SF
+YA + Yc = 0 ZA + Zc = F = 0
+YA + Yc = 0 YA + 2.Yc = 0
+YA = Yc = 0
+Cmr SF = 0
+~ZA.L - Zc.2L+ZL.F = 0 YA. L + Yc. 2L = 0
+ZA + 2.Zc = Z F ZA + Zc = F
+Zc = 4 F ZA = 2 F
+A18. Calculer ces actions aux points A, B et € 8 Cmr 200 N correccuc 9 0 3AN: Zc = YsoN 44 3 50N g 8 Al9. Déterminer Ys expressi6n) des efforts de cohésion tout le long de l'axe Tronçon OA 0 < 8Omm {Icoh} + {Text} = {0} N(x) Mx(x) O|Cmr Ty(x)lMfy(x) = x.Tz(x) 0 {0} Tz(x)|Mfz(x) + x.Ty(x)
+N(x) = 0 Ty(x) = 0 Tz(x) = 0 Mx(x) = ~Cmr Mfy(x) = 0 Mfz(x) = 0
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 7 | 16
 
+--- page 24 ---
+Concours Techno - Épreuve S.T.A
+Partie A MSI &RDM
+Document Réponses
+Tronçon AB 80 mm < X
+140 mm
+{Tcoh}o {rext}o + {ra}o {0} N(x) Mx(x) Cmr Ty(x)lMfy(x) = x.Tz(x) 9%-24 + {e] 0 Tz(x)| Mfz + x.Ty(x) ZA 0
+{0}
+N(x) = 0
+N(x) = 0 Ty(x) + YA = 0 Ty(x) = 0 Tz(x) + ZA = 0 Tz(x) = ~ZA = -2F Mx(x) = ~Cmr 9 Mx(x) = ~Cmr Mfy(x) - xTz(x) = ZA.L = 0 ZA. (x = L) = 1F.(x - L) Mfz(x) + x.Ty(x) = 0 g =0 n2018*, 9 Tronçon BC 140 mm 160 {r {Text}o {0} Éléments _ 3 N(x) Mx(x) 0 'fy - Tz. (2L = x) +{Ycl [0} {0} Ép YMfz + Ty. (2L = x)) (zclo) N(x) = 0 N = 0 ~Ty(x) +Yc = 0 Ty(x) = Yc ~Tz(x) + Zc = 0 Tz(x) = Zc Mx(x) = 0 Mx(x) = 0 Mfy(x) = Tz. (2L = x) = 0 Mfy(x) = Tz. (2L _ x) (Mfz(x) + Ty. (2L _ x) = 0 Mfz(x) = 0 N = 0 Ty(x) = 0 Tz(x) = 3 F Mx(x) = 0 Mfy(x) = ZF.(2L _ x) Mfz(x) = 0
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 8 | 16
 
+--- page 25 ---
+Concours Techno - Épreuve STA
+Partie A MSI &RDM
+Document Réponses
+A20. Calculer les valeurs particulières des efforts internes tout le long de laxe_
+N = 0
+maxllT zll = F =150 N
+max IlMxll = 1.2 N.m 3 maxl]Mfyll FL = 6000 N. mm (au 'point B) 16
+421. Tracer les diagrammes des efforts de cohésion, (@unen précisant toutes les indications nécessaires à la bonne lecture des diagrammes (titrê axes, unités, échelle)
+Effort normal N(x)
+Moment de Torsion
+B
+1209-
+Effort tranchant Ty(x)
+Moment fléchissant Mz(x)
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 9 | 16
 
+--- page 26 ---
+Concours Techno - Épreuve STA
+Partie A : MSI & RDM
+Document Réponses
+Effort tranchant Tz(x)
+Moment fléchissant My(x)
+FL 16
+3F/4
+IA "4l4
+X A22. Identifier la nature des sollicitations Taxe. Tronçon OA torsion 7 8 Tronçon BC : torsion Tronçon BC : flexjo{gimple F 423. Vérifier les conditionssdeÇ@istance peuEshacune des sollicitations simples et conclure max Mfy max% 600@N.mm Re 200 Omax 35.37 MPa 8OMPa (7D3 2.5 Gz/v 32 rel89 mm3 max ax 1200 N.mm Te 100 Imax 3.53 MPa 40MPa (Ico 1B2 '1.123 2.5 16 16 mm3
+Conclusion
+La structure résiste à chacune des sollicitations simples.
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 10 | 16
 
+--- page 27 ---
+Concours Techno - Épreuve ST.A
+Partie B Automatique
+Document Réponses
+Partie B : Automatique 1- Étude séquentielle de lunité de bouchage des bouteilles B.1. Compléter le grafcet de point de vue commande, décrivant le fonctionnement de lunité de bouchage de bouteilles
+Pb
+KM2 KM3
+KA
+Vs:
+a51
+M4.
+Att
+KM2 KM3
+4s/
+Att
+Pb
+Pb . d
+10
+Vs:=l
+a51
+M4
+KM2 KM3
+4s/XI1 12 Vs:=0
+a50 13 Att
+14
+KM2 KM3
+Grafcet de point de vue commande de lunité de bouchage
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 11 | 16
+Vs:= 4 9
 
+--- page 28 ---
+Concours Techno - Épreuve STA
+Partie B Automatique
+Document Réponses
+B.2. On propose une deuxième solution utilisant les macro-tâches. Compléter les grafcets, ci- dessous, de point de vue commande (seulement les 5 réceptivités en pointillées) .
+Pb
+Att
+Pb d. XIIO
+8 Pb d. XTQ 8 XI10 4@ 14 Yool Éléments X2 + X5 10
+KM2
+KM3
+12
+13 Att
+110
+X2 + X5 = X2.X5
+Grafcet de point de vue commande de lunité d bouchage avec Macro tâche
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2018
+Page 12 | 16
+Vs: =
 
+--- page 29 ---
+Concours Techno - Épreuve ST.A
+Partie B Automatique
+Document Réponses
+2 Régulation du niveau du liquide dans la cuve de stockage alimentant les bouteilles B.3. En se référant à la Figure 9, aux équations de (1) à (6) et à la Figure 10 du document <mise en situation; données et hypothèses, déterminer les expressions analytiques des différents blocs fonctionnels de la Figure 11.
+G1 (p)
+kc
+G2 (p)
+A1
+K
+G3 (p)
+1+ Tm p
+G4 (p)
+Gs (p)
+G6 (p)
+k1
+G7(p)
+Sp
+G8 (p)
+8 S.p 2 Go(p) B.4. En déduire les expressions de G3(p), G4(p), Gs(p), G6(p), Gz(p), G8 (p) et G,(p): émens ( G1 (p) 8 G3 (p) G4(p) Gs (p) 0.05 G6 (p) 0.1
+Gz (p)
+0.5p
+G8 (p)
+0.5p
+G, (p) =
+20
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 13 16
 
+--- page 30 ---
+Concours Techno- Épreuve S.TA
+Partie B : Automatique
+Document Réponses
+B.5.Pour 92(t) = 0, montrer que la fonction de transfert T1(p) est donnée par Vs (p) A1 T1 (p) Vc (p) p3 + 10p2 + A1
+A,Kmrk ks G2 G,G, Gs G6 G-G, Sp?(l+ Tmp) ApKmrk ks T (p) 1+G2 G,G4 Gs G6 G,G, A,Kmrk ks 1+ Sp?(l+ mp) + A,Kmrk ks Sp?(l+ Tnp) A A S Sr 0.5 0.05 p? + p' + A1 p2 + p +A1 Kmrk;ks Kmrk;ks 0.05 0.05 A 1g p +10p2+ A1 B.6. Étudier et justifier la stabilité du système de fonction detransfert T1 (p) Le 'système est instable, absence du coefficient en P1 8 0 B.7.En se référant à la Figure 12, compléter le Schéma fonctionne/du nouvel asservissement Hs J8 U1 Hc V AzG; G4 Gs G6 G7 Gg 9 b
+01 (p) B.8. Montrer que la fonction de transfert G(p) est donnée par U1 (p)
+01 (p) 0.05 G(p) U1 (p) p2 1 + 05A2 5A2
+0(p) AzG, G4 Gs G(p) = U (p) 1+bA,G, G, Gs
+rKmAz
+rKmAz 0.05 G(p) 3 G(p) = p(l+ Tmp) + rbK mAz Tm p? p + rbK mAz p? + p+1 5A2 0,5A2 Concours nationaux dentrée aux cycles de formation d'ingénieurs Session 2018 Page 14 | 16
 
+--- page 31 ---
+Concours Techno - Épreuve STA
+Partie B : Automatique
+Document Réponses
+B.9. En déduire les expressions du gain statique K, de la pulsation propre non amortie W et du coefficient damortissement ç en fonction de A2. K = 0.05
+(o
+0o
+25 F38= (o 0,5A2
+VSA 0 A 2
+v5 VA2
+5 =
+B.10. Calculer Az pour avoir le temps de réponse le plus rapide de 01 (t) vs le temps de réponse le plus rapide > 5 = 9 { = 42 > 5 =- 2 VA2 Az Az =10.
+B.11. Pour 92 (t) 0, en considérant une valeur de Az
+étudierdda_stabilité du système de
+Hs(p) G(p) fonction de transfert T2 (p) Hc(p) 1+G2 (p) G(p)
+fonction de A1.
+Tz (p) = Gz G G6 Gz G, > T,  se 70SA ,k k 1+G2 G G6 G,G, Sp( 0,5A p+1) +0.05A,k ks 0.05A,k k @ Tz (p) 0.IA, 0.1 p' 0.01p' + 0.Ip2 + 0,5p +0.IA1 Az Az Poee 8 Équation caractérisîique 0.01p 0,5p +0.IA, =0 Tableau de Routh:
+p3
+0.01
+0.5
+0.1
+0.1A1
+p'
+0.5 0.01A1
+po
+O.1A1
+Conclure sur la stabilité
+A1 étant un réel positif; le système est stable si et seulement si
+0.5 0.01A1 > 0 soit 0.5 > 0.01A1
+0 < A1 < 50
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 15 16
+SA2
+5A 2
 
+--- page 32 ---
+Concours Techno Épreuve ST.A
+Partie B Automatique
+Document Réponses
+Pour la suite de cette étude; on considère le schéma fonctionnel suivant; où ks kc et Az = 10
+Hc (p)
+Hs (p)
+F(p)
+B.12 Déterminer la fonction de transfert F(p) en fonction de A1
+F(p) =G,G2 G G6 G,
+kA, 0.05k ,
+8 F(p) = 0.2A Sp( SA2 p? + 0,5A2 p +1) p( SA2 p? 2u4 9 P + C@T B.13. En se basant sur la question B.12,êalcuer en fonction A1, Yerreur de position unitaire 4 ép (c) et l'erreur de vitesse unitaireg3)  @ @ Système de classe 1 8 Ep (%) 8 Ev (o) 0.2A, B.14. On veut que lerreur de vitesse Ev(%) ne 'dépasse pas les 12.5%, préciser dans quel
+intervalle doit-on alors choisir A1.
+Gv(%) <0.125 0.2A,
+A1 2 40 ayant comme condition de stabilité A1 < 50 donc
+pour avoir une erreur de vitesse &v(%_ qui ne dépasse pas les 12,5%, A1 € [40 ; 50[
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2018
+Page 16 | 16

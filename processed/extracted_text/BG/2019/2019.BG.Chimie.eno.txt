@@ -1,23 +1,334 @@
+--- page 1 ---
+Instructions  . ^ . Cette épreuve comporte 12 pages: Tout résultat doit être écrit dans les cadres adéquats . L'usage des calculatrices électroniques de poche non programmables est autorisé. Aucun échange entre les candidats n'est autorisé Tout calcul doit être précédé dune expression littérale. Les résultats numériques sans unité ou avec une unité fausse ne seront pas comptabilisés  En cas de besoin utiliser la page vide en fin de cahier. Dans ce cas, il faut le signaler dans la case allouée à la réponse remise en fin de cahier. Si au cours de lépreuve, un candidat repère ce qui lui semble être une erreur dénoncé, il la signale sur sa copie et poursuit sa composition en indiquant les raisons des initiatives qu'il est amené à prendre
+8s
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 12 PAGES NUMEROTÉES 1 sur 12, 2 sur 12, 12 sur 12.
+Concours Biologie et Géologie Chimie inorganique   s ino  1  
+s
+
+ , s s s        s - Session Juin 2019 Page 1 sur 12
 
 
+--- page 2 ---
+Épreuve & chimie section BG
+Notations et données numériques États des constituants physicochimiques :  3 (sd) solide ; (liq) liquide (g) gazeux Lorsque aucune mention n'est spécifiée; les ions sont supposés implicitement en solution aqueuse. 1 ' Les gaz sont considérés comme parfaits: Notations  c 1  ` la fraction molaire de < i > dans la phase liquide. rg  `  Xi Yi : la fraction molaire de < i > en phase vapeur. ` : . 4 16    Lexposant signifie corps pur. 1e / . 8 1 ESH électrode standard à hydrogène. `   < ~ Constantes physiques  .  Constante des gaz parfaits R = 8,314 J moll K1  ?  Constante d'Avogadro NA = 6,02*1023 moll Constante de Faraday F = 96500 C. moll Pression standard 0 p =lbar. Données numériques Masses molaires (g.moll) TeF  = 203,6 ; TeOz = 159,6 Enthalpies molaires standard de fusion supposées indépendantes de la température. 'fusHm (TeOz,sd) = 28,9 kJ mol-1 fus Hn (TeF4,sd) = 26,6 kJ mol-1
+Température de fusion standard de TeOz 733 C. À 298 K, ~ Entropie molaire standard TeO2(sa) Te(sd) 0 1 . 2(g) se (Jmol =1 K-I) 79,5 49,7 205,2 Lenthalpie standard de formation de TeO2 solide 4 He (TeO2,sd) 2 ~322,6 kJ mol-1 m Produit ionique de Feau Ke =1014 Les pKa de HzTe et HTe ont pour valeurs respectivement 2,64 et 11,00. Potentiels redox standard (à pH = 0) Couple Tez 2 ITe 2 _ Tez 2- HTe Tez 2 Te(a) / [Tez HTe H,O/H2e) '(aq) E' (V ESH) 0,840 ~1,445 0,640 ~0, 800 0
+1 1
+RxT -xLn(x)=0,06xlogio (x) (en V) F Conversion : T(K) =0( C)+273
+La recherche autour du tellure a sowvent été freinée par Vodeur caractéristique d'ail pourri que possède cet élément. Malgré cela, les applications du tellure ne manquent pas: Sous forme de suboxyde; le tellure est utilisé dans le revêtement des DVD et autres disques réinscriptibles: Des couches minces des panneaux photovoltaïques sont composées de tellurure de cadmium. Sa capacité à transformer la chaleur en électricité, quand il est sous forme de tellurure de bismuth est employée dans les systèmes de réfrigération portables:
+Page 2 sur 12
+
+--- page 3 ---
+Épruw & chimie section BG
+Problème ! : étude structurale Le soufre; le sélénium; le tellure et le polonium font partie de la même famille (groupe) de l'oxygène dans la classification périodique. 1) Qu? 'appelle-t-on cette famille ? M=16,00 guor] M=19,00 "Bmor!
+Z=8
+229
+2 Fluor Donner la configuration électronique de la couche de valence de la famille. Oxygène {(Pauling) =3,4 {(Pauling) =4,0
+M=32,00 'eeor'
+Z# 16
+5
+3) Les éléments de ce groupe peuvent se combiner aux halogènes on connaît en soutre particulier SF4, SeF4, TeF4, alors que loxygène ne peut pas donner OF4. Expliquer ce X(Pauting) *2,6 résultat. M= 78,96 + æor Z"3 Se
+sélénium z(Pauling) =2,6
+
+M=127,6Bnel
+2=52
+Te Tellure xPPauling) =2,1
+Donner la structure de_Lewis de_la molécule SF4
+: 1
+4-a) Déduire la notation de Gillespie (type_VSEPR_et la figure de répulsion_
+
+4-b) Représenter la géométrie spatiale selon la méthode VSEPR et donner les valeurs théoriques de tous les angles de liaisons: 4-c) Le moment dipolaire de cette molécule est-il nul ? Justifier la réponse au moyen dun schéma clair.
+Page 3 sur 12
+
+--- page 4 ---
+Épreuve d chimie section BG
+5Comment expliquer_que SF4 soit gazeux; SeFA liquide et TeFa_solide à_la température ambiante
+
+in
+ 
+Probleme 1I : équilibre chimique On considère la réaction de décomposition de lc 'oxyde de tellure TeO2(sd) 7 = Te(sd) +02(g) 1) Donner lexpression puis calculer 1-a)Lenthalpie standard de la réaction
+1-b) Lénergie interne de la réaction A,UPE 298K
+: 1
+2) La réaction est-elle exothermique ?
+
+puis calculer la constante déquilibre Ke 3) Donner lexpression à 298K.  6 . 2 2 io s   . . . ` ` n
+Quelle est la variance @ un système contenant les trois constituants figurant @ans Péquation chimique @02
+Page sur 12
+
+--- page 5 ---
+Épreure d chimie section BG
+5)
+5-a) Donner expression puis calculer la constante déquilibre  KI à la température 500 K en supposant que 4 He est indépendante de la température.
+5-b)En déduire à cette température la valeur de la pression du dioxygène à léquilibre;
+Problème M/ étude du système TeO2 -TeF4 On envisage détudier le diagramme déquilibre solide-liquide du système TeO2 -TeF4 obtenu à partir des courbes d'analyse thermique réalisées en refroidissant divers alliages fondus de différentes compositions sous la pression de 1 bar. : On suppose que les mélanges sont idéaux. 352 1 300 @ 1 ! 200 1 169 053 Nl12s 100 97 K
+0,90
+IeOz 0,1
+0,2 025 0,3
+0,4 0,5 0,6 fraction molaire
+0,7
+0,8
+0,9
+TeF,
+Diagramme d'équilibre solide-liquide du système TeOz-TeF4
+Page 5 sur 12
+
+--- page 6 ---
+Éprevve & chimie section BG
+1 Préciser les formules chimiques des composés définis
+Indiquer la nature de_leurs fusions
+3) Écrire les équations des transformations obtenues à 979C_et à 1698C et donner leurs noms. A 97"C : À 169 C
+4) On chauffe 5 mol dun mélange TeO2-TeF4 de fraction massique en TeFe4, égale à 0,34 jusqu'à la température (169 + e) C. 4-a) Déterminer à cette température la composition et la quantité de matière en mol de chacune des phases_présentes: ; ; 1
+`
+   , 2 `
+4-b) Tracer lallure de la courbe danalyse thermique relative au chauffage de ce mélange, de la température 100PC jusqu'à 350*C en indiquant les phénomènes observés. Page 6 sur 12
+
+--- page 7 ---
+Épreuve d chimie section BG
+4-b) Tracer lallure de la courbe danalyse thermique relative au chauffage de ce mélange, de la température 10O C jusqu'à 350 C en indiquant les_ phénomènes observés
+5) Grandeurs thermodynamiques associées aux différents types déquilibres solide-liquide 5-a) Établir ]expression donnant   1entropie   molaire de fusion de TeO2(sd) en fonction de la température.
+: 1 5-b) Calculer sa valeur .
+
+6) Propriétés colligatives Établir 1expression puis calculer la température à laquelle il faut refroidir une solution liquide de (TeF4 et TeOz) de composition XTeOz =0,05 , pour qu'apparaissent les cristaux de TeF4 solide pur.
+Page 7 sur 12
+
+--- page 8 ---
+Épreuve d chimie section BG
+Problème IV : diagramme de Pourbaix On se propose de compéter la construction du diagramme potentiel-pH simplifié du tellure  pour une concentration totale en atomes de tellure dissous Ctra = 103 molL-  . Les entités considérées sont TeOz(sd)? 4+ Te(d? Te(aq)? HTeO?(aq) ? 2 - 2 Tez(aq)? Terap)? H2 Terag) et HIe(aq) Sur les droites frontières entre les entités dissoutes, la convention choisie est une égalité des concentrations en élément Tellure. 1 Les droites (a) et (b) représentent le diagramme potentiel-pH de leau: La pression partielle de chacune des espèces gazeuses sera prise égale à 1 bar. 13 1 Te4+
+0,7
+0,4
+0,1
+0,2 5 405 40,589 0,8
+Të(d) (1,61,-0,746
+#E@
+ETe
+~1,1
+~1,4
+~1,7
+2 3 ; { { 3 8 8 { 2 8 8 ; ; 2 2 3 pE Page 8 sur 12
+TeOz(sd)
+
+--- page 9 ---
+Éprcuve d chimie section BG
+I- Pour les valeurs de pH <1,61 1 Donner léquation de la frontière Ez_séparant les espèces Teca)_et H2Te(q)
+2) Déterminer la valeur du potentiel standard délectrode E du couple Te(sd)/ 'H2 Teraq)
+7
+II- Pour les valeurs de pH 21,61 3) Classer les entités Te(sd)? Tez(aq)' Te?an H,Teçaq) et HTe(q) par nombre dc 'oxydation croissant en fonction de_ pH et donner les différentes_positions (valeurs de_pH de frontières verticales. 1 1
+4) Identifier les différents couples redox mis en jeu et exprimer leurs potentiels en fonction de pH si nécessaire.
+' .` 
+Page 9 sur 12
+
+--- page 10 ---
+Épreuve & chimie section BG
+3
+1
+ o
+P)Compléter et indexer le diagramme potentiel pH du tellure
+1,3
+Tes+ 1
+ 0,7
+0,4
+9 4
+0,1
+;
+0,2 { ~0,5 0,589 40,8
+Te(sd) (1,61,-0,746)
+50)
+HTe
+~1,1
+~1,4
+~1,7
+~2 3 ; 2 8 8 8 8 8 8 8 ; 8 8 99  pH
+Discuter la stabilité de Tion Te2?- en solution aqueuse désaérée et écrire les équations-bilans des réactions correspondantes.
+Page 10 sur 12
+TeO2(sd)
+
+--- page 11 ---
+Épruv de chimie section BG
+Problème V : cinétique chimique On se propose détudier, à 298 K, la cinétique de loxydation du tellure Te (IV) sous forme de HTeO; en tellure (VI) sous forme de trioxyde de tellure TeO; par Phexachloroiridate (IV) [IrCl6]?- en milieu aqueux. Léquation bilan de la réaction s'écrit sous la forme HTeO; +2[IrCls] TeOs(sd  +2[IrCl _ +H+ 1) En supposant que le système étudié est de volume constant; donner lexpression de la vitesse volumique de disparition de HTeO; et de IrCl6
+dapparition de [IrCIs]
+2) Quelle relation peut-on écrire entre 1a vitesse volumique de 1a réaction et Tes vitesses de 7a question précédente 1 1 s , 1 3 Écrire la loi de vitesse prévue pour la réaction @
+4) À partir dune solution de 0,02 molL-' en [IrCls] et 0,01 molL-' en HTeO; on a obtenu les résultats suivants temps 90 en h 270 [IrCIs] 0,02 0,01 0,005 en molL-1  ` 4-a)Déterminer lordre_global de_cette réaction
+Page 1l sur 12
+
+--- page 12 ---
+Épreuv d chimie section BG
+3s s
+4   .   ` 15 1  .  ,     1 '  s  
 
 
+ d
+ono
+ : 1 :
+1 1
+4-b)Donner Kexpression puis calculer la constante de vitesse de cette réaction
+ 
+1 . . .  ;
+ [ ;
 
+s
+ s
+FIN DE LÉPREUVE
+ d 1 2
+Page 12 sur 12
 
+--- page 13 ---
+Instructions Cette épreuve comporte 12 pages. Les quatre problèmes sont indépendants: Tout résultat doit être écrit dans les cadres adéquats: Aucun échange entre les candidats n 'est autorisé. Si au cours de Fépreuve, un candidat repère ce qui lui semble être une erreur dénoncé, il la signale sur sa copie et poursuit sa composition en indiquant les raisons des initiatives qu'il est amené à prendre.
+LES CANDIDATS DOIVENT VÉRIFIER QUE LE SUJET COMPREND 12 PAGES NUMEROTÉES 1 sur 12, 2 sur 12, 12 sur 12.
+2
+Chimie organique
+Page 1 sur 12
+Concours Biologie et Géologie- Session mailJuin 2019
 
+--- page 14 ---
+Notations et données numériques
+Numéros atomiques Z : H = 1, C =6, N=7,0 = 8, Br = 35 Notation Groupe phényle C6Hs-, Ph-
+.
+ s
+Page 2 sur 12
+Concours Biologie et Géologie- Session mailJuin 2019
+1 .
 
+--- page 15 ---
+Problème I (4,5 points)
+On considère les composés a, b et c suivants
+NH2
+NH2
+NH2
+CH3 Composé c
+Composé a
+Composé b
+1- Ecrire, s'il y a lieu; pour chaque composé, ses formes mésomères limites.
+1-
+ '
+Page 3 sur 12
+Concours Biologie et Géologie- Session MailJuin 2019
 
+--- page 16 ---
+{ 
+2- En justifiant la réponse; en déduire le classement des composés a, b et c par ordre de basicité décroissante .
+2-
+Page SUI 12
+Concours Biologie et Géologie- Session MailJuin 2019
 
+--- page 17 ---
+Problème II (5,5 points) Le chloramphénicol est un antibiotique bactériostatique de la famille des phénicolés. Sa projection de Ficher est représentée ci-dessous
+CHzOH
+ClzHC-CO-HN
+2
+H
+OH
+p-C6H4NO2
+1
+En indiquant  clairement  lordre de priorité  des substituants; donner les configurations absolues des carbones asymétriques notés 1 et 2 dans le chloramphénicol.
+3
+1 -
 
+2 -
+Compléter sa représentation de Cram selon le modèle ci-dessous
+p-CsH4NO2
+Page 5 sur 12
+Concours Biologie et Géologie- Session MailJuin 2019
+HlIIIn
 
+--- page 18 ---
 
+   2 n: / 2 [  ;
 
+2-
+c
+ s
+1 
 
+1
+3 - Compléter la projection de Newman correspondante selon le modèle ci-dessous. Préciser s'il s'agit dune forme Erythro ou Thréo en justifiant la réponse: 24 H  s
+3-
+6 : . ~.  `
+3 `
+Page 6 sur 12
+Concours Biologie et Géologie - Session MailJuin 2019
 
+--- page 19 ---
+Problème III 10 points)
+On considère les réactions indépendantes suivantes réalisées sur le composé A A CH3-CHz-C-CH-CH;   . . 2 CH3
+Réaction a : CH,-CHz-C-CH-CH; CH;
+B
+Réactif ]
+Réaction b : CH,-CH2-€-CH-CH; CH3
+C: CH3-CH2-Ç-CH2-CH; CH;
+10 03
+Réaction c : CH,-CH2-C-CH-CH; CH3
+D (C4H8O) + E
+2' Zn, HzO/H
+KMnO4 H2O, à froid
+Réaction d : CH,-CH2-€-CH-CH; CH3
+F
+Br
+Réactif 2
+Réaction e : CH;-CH2-C-CH-CH; CH3 7 
+G : CHB-CH2-CH-CH-CH; CH3  , . ~
+Réactif 3
+Réaction f:
+CH3-CH2-C-CH-CH; CH3
+H: CH3-CH2-C-CH-CH; CH3
+Partie I Dans toute cette partie, on ne tiendra pas compte de la stéréochimie et toutes les structures seront représentées en conformations planes.
+L.1 Donner le nom de A selon la nomenclature internationale .
+Page 7 sur 12
+Concours Biologie et Géologie- Session MailJuin 2019
+Brz
 
+--- page 20 ---
+ : . : <
+L
+3
+1.2 Donner les structures chimiques des produits B, D, E et F.
+ ^
+6 ) `
+)  `
+ 
+1.2
+ : 1  . 7 ^ ooeeor
+ 3
+ ` 1 ,
+1.3 Donner les réactifs 1, 2 et 3, respectivement dans les réactions b, e et f.
+n
+. s 
+ ?
+[ . .. .  3s 1.3 . : s r 1 : : { 8    n  , 2
+ : ;7 , ; . . < `
+Page 8 sur 12
+Concours Biologie et Géologie- Session MailJuin 2019
 
+--- page 21 ---
+14 Sans écrire les réactions correspondantes; décrire les deux tests chimiques spécifiques pour chacune des fonctions dans les composés D et E obtenus dans la réaction €
+1.4
+Partie I Dans cette partie; on prendra   uniquement   comme substrat  de départ Pisomère de configuration géométrique E de lalcène A IL.1 Représenter la structure de A dans sa configuration géométrique E
+ILl
+1 `  `
+Page 9 sur 12
+Concours Biologie et Géologie- Session MailJuin 2019
 
+--- page 22 ---
+ `   s  ise II2   Représenter dans lespace le mécanisme réactionnel de la réaction a et les stéréoisomères obtenus .
+II.2
+[` `   1    .   n  3  . , , < . 4 . :`
+Page 10 sur 12
+Concours Biologie et Géologie- Session MailJuin 2019
 
+--- page 23 ---
+IL.3 Donner leurs configurations absolues.
+II.3
+II.4 Quelle est la relation qui relie ces stéréoisomères ?
+II.4
+Partie III :
+IIL.1 A partir du halogéné adéquat, on prépare le bromure de composé méthylmagnésium. Ecrire la réaction correspondante et décrire brièvement les conditions opératoires:
+Page Il sur 12
+Concours Biologie et Géologie- Session MailJuin 2019
 
+--- page 24 ---
+IILI
+IIL.2 On fait réagir cet organomagnésien sur le composé H. Après hydrolyse acide; on isole un produit majoritaire I. Donner sa structure plane.
+III.2
+FIN DE LÉPREUVE
+1 , 12         ,     1
 
-
+Page 12 sur 12
+Concours Biologie et Géologie- Session MailJuin 2019

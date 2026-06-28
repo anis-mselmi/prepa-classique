@@ -1,7 +1,138 @@
+--- page 1 ---
+REPUBLIQUE TUNISIENNE Concours Nationaux dEntrée aux Ministère de ['Enseignement Cycles de Formation d'Ingénieurs Supérieur; de la Recherche Session : Juin 2003 Scientifique et de la Technologie oerephratoiee Eueqve 6 Concours Mathématiques et physique Erubes 5 'Oingenieuss  Epreuve de Physique Date Lundi 09 juin 2003 Heure : 8 H Durée : 4 H Nb pages 8
+Barème : Exercice:3.5/20 Pbl:8/20 (A/1.5,B/2.75,C/3.75) ; Pb2:8.5/20 (A/L.25,B/S;C/2.25)
+L'usage d'une calculatrice (non programmable) est autorisé
+Si, au cours de l'éprewve, un candidat repère ce qui lui semble être une erreur d'énoncé il le signale sur sa copie et poursuit sa composition en indiquant les raisons des initiatives qu 'il est amené à prendre L'épreuve comporte un exercice et deux problèmes indépendants. Le candidat peut les résoudre dans Fordre qui lui convient en respectant néanmoins la numérotation des questions .
+Exercice : Bilan d'énergie pour un écoulement permanent On considère un fluide; assimilé à un gaz parfait; en écoulement permanent dans une canalisation indéformable et calorifugée (parois adiabatiques) . Le fluide anive à une machine (M) avec une température T1, une vitesse C1 , une énergie interne massique up, une enthalpie massique hp et sous une pression P1 Le fluide reçoit algébriquement, de la part de la machine, une puissance thermique Ph et une puissance   mécanique (ou  utile) P u: Cette demière n'inclut pas la puissance des forces de pression. Le fluide est refoulé, après la traversée de la machine, avec une température Tz, une vitesse c2 une énergie interne massique U2, une enthalpie massique hz et sous une pression Pz (cf.figure 1) On suppose que I1, P1, C1, UL , h1, Tz, Pz, C2 , u2 et hz sont des constantes_
+Sens de [écoulement
+Al
+B,
+Az
+Bz
+Pu,Tuscu,hu,u1
+Machine (M
+Pz,Tz,cz,hz,U2
+Pa , P
+fgure !
+Concours Mathematiqucs ct Physique Scssion Juin 2003
+Eprcuve de Physique
+Page 1/8
 
+--- page 2 ---
+1 - Montrer, qu'en régime permanent, le débit   massique Dm Se conserve le long de canalisation.  On rappelle   que Dm dm où dm désigne la masse traversant, pendant dt
+Fintervalle de temps dt, une section de la canalisation: 2 - On considère le système fermé, constitué par le fluide contenu entre les sections A1 et Az à l'instant t,
+entre les sections B1 et Bz à linstant t+dt 2 - On désigne par E(t) et E(t+dt) les énergies totales du système respectivement aux instants t et t+dt. Montrer, qu' en régime permanent, on a : E(t+dt)-E(t) dEz dEv, où dE1 et dEz désignent les énergies totales contenues respectivement entre les sections A! et B, et entre les sections Az et Bz. b- Exprimer dE; en fonction de Dm; dt U; et Ci pour i =1 et i = 2 On supposera que [énergie potentielle de pesanteur est nulle en tout point de la canalisation. C - Montrer que la puissance des forces de pression s' écrit Ppression (P1vI Pzvz)Dm, où v! et V2 désignent respectivement les volumes massiques; supposés constants; du fluide en amont avant ) et en aval après) de la machine. d - En déduire; par application du premier principe de la thermodynamique; que s Dn [(h2-h)+4(c3-c2)] = Pt + P u:
+3 - En négligeant toute variation d'énergie cinétique et en supposant une évolution isentropique, calculer la puissance utile fournie à la machine (M) On donne T1 = 1000 K ; P1 = 10 bar Pz = 2 bar M = 29 g.mol-l Dm = 0,1 kg.s' ; Y = 1,4; R = 8.3 JK 1 mol-! ' est le rapport entre les capacités thermiques molaires à pression constante cpm et à volume
+constant Cvm: M est la masse molaire du gaz et R est la constante des gaz parfaits.
+Fin de l'exercice
+Concours Mathématiques et Physique Session Juin 2003
+Epreuve de Physique
+Page 2/8
 
+--- page 3 ---
+Problème 1 : Conductions simultanées de la chaleur et de l'électricité
+On considère un milieu homogène et isotrope de permittivité électrique €o et de perméabilité magnétique Ho.
+On désigne par p et J respectivement les densités volumiques de charge et de courant électrique.
+On note ( E ,B ) le champ électromagnétique qui règne dans ce milieu, @cm   la densité volumique d'énergie électromagnétique et R le vecteur de Poynting.
+A- Préliminaires
+Localement; le bilan d'énergie électromagnétique s'écrit
+0 @em = divR + J .E ôt
+1 - En utilisant les équations de Maxwell, vérifiées par le champ électromagnétique ( E B ) dans ce milieu; donner; par identification; des expressions simples de @em et R On donne, pour les deux champs de vecteur a et b div ( a A b ) = b . rot a a rot b 2 - Ecrire, en régime permanent;  le bilan d'énergie électromagnétique pour un volume fixe délimité par une surface fermée (S). Donner la signification physique de chaque terme
+B- Bilan dénergie électromagnétique dans un conducteur cylindrique
+Le milieu conducteur considéré est maintenant un cylindre de longueur L, de rayon 2 et de conductivité électrique Y constante Il est parcouru, selon son axe (oz), par un courant électrique  permanent de vecteur   densité
+volumique unifore ] = Jo ez (cffigure 2)
+er
+M
+e0
+figure 2
+ez
+Z
+3 - Donner; en fonction de Y et   Jo, Fexpression du champ électrique E à Fintérieur de ce conducteur ohmique. 4 - En supposant que le cylindre est infini (L>za), justifier que le champ magnétique; en un
+point M de coordonnées cylindriques (r,8,z), s'écrit : B (M) = B(r) ee .
+Concours Mathématiqucs et Physique Session Juin 2003
+Epreuvc de Physique
+Page 3/8
 
+--- page 4 ---
+5 - Déterminer, par application du théorème d'Ampère; Fexpression du champ magnétique tout point Mde Pespace; de coordonnées cylindriques (r,0,z) 6- Déterminer, en un point M à lintérieur du cylindre (r < a), Fexpression du vecteur de
+Poynting R En déduire  ['expression de la puissance qui rentre dans le volume du conducteur (cylindre de rayon a et de longueur L) 7- En déduire ['expression de la résistance électrique Rz de ce conducteur cylindrique. C- Transfert thermique et courant électrique On considère le cylindre décrit précédemment; parcouru toujours par le courant électrique de
+vecteur densité volumique uniforme J 2 Jo e1 . On désigne par 1 sa masse   volumique; par C sa capacité   thermique massique et par ^ sa conductivité thermique.
+On admet que toutes les grandeurs caractérisant le milieu (H,c,A,Y) sont constantes; uniformes et indépendantes de la température T. Le cylindre est mis en contact thermique avec deux thermostats qui maintiennent ses extrémités , z = 0 et 2 = L, respectivement aux températures constantes T, et Tz (cffigure 3). La surface latérale du cylindre est parfaitement calorifugée parois adiabatiques ) de telle sorte que /on peut négliger les transferts thermiques à travers cette surface. Dans toute cette partie; seul le transfert thermique par conduction; régi par la loi de Fourier; est à considérer .
+ûigure 3
+2
+z+dz
+En se limitant à un phénomène unidimensionnel, pour lequel la température T ne dépend que de la variable z et éventuellement du temps t, l'équation différentielle vérifiée par la température T(zt) s'écrit :
+#c@=1'"+J ât Ôz2 Y
+8 - En effectuant un bilan d'énergie sur une tranche du cylindre de longueur élémentaire dz, entre les   instants [ et t+dt, retrouver l'équation de diffusion thermique (1). On expliquera la signification physique du terme   J Y
+Concours Mathématiqucs et Physique Session Juin 2003
+Epreuve dc Physique
+Page 4/8
 
+--- page 5 ---
+Dans la suite du problème, on travaillera en régime permanent 9 - Déterminer, la température T(z) de l'équation de diffusion. 10- Dans le cas Jo = 0, définir et exprimer la résistance thermique Rn de la barre cylindrique. 11 - Pour Jo #0, exprimer la puissance P(z) traversant; dans le sens des z croissants, une section droite d'abscisse z du cylindre. 12- En déduire les expressions des puissances themiques P1 et Pz reçues par les deux thermostats Ecrire alors une relation entre P1, Pz et la puissance P, dissipée, par effet Joule; dans le cylindre. Commenter. 13- On impose; à présent, aux deux extrémités, z = 0 et z = L, une même   température To ( T1 = Iz = To) Vérifier que la température s'écrit alors T(z) 1 To + a (-2? + L z )
+Exprimer a en fonction de Jo, Yet 2 . 14- On désigne par TF la température de fusion du matériau conducteur. Afin d'éviter la fusion; montrer   que lintensité du courant électrique parcourant le cylindre doit être inférieure à une valeur I0 que lon exprimera en fonction de To, TF, ^, Y, a et L. Calculer Io et proposer une application. On donne To = 300 K ; TF = 600 K ; 1 = 102 W.m ! K"' ; Y=4,3 10' S.m ; a = 0,1 mm : L=1 cm.
+Fin du problème 1
 
+1 .
+ .
 
+Concours Mathématiques et Physique Session Juin 2003
+Eprcuve dc Physique
+Page 5/8
 
+--- page 6 ---
+Problème 2 : Diffraction et filtrage des fréquences spatiales On considère une onde plane, monochromatique et de longueur d'onde ^ éclairant, sous une incidence normale, un objet plan; placé en 0 perpendiculairement à l'axe optique (Oz). Cet objet; caractérisé par sa fonction de transparence t(x), est limité, suivant Faxe Ox; par une fente de largeur 4. A une distance d de l'objet, on place une lentille convergente (L), de centrc OL et de distance focale image f' (cf.figure 4).
+X
+Plan de lobjet
+Plan focal image de (L)
+(L)
+X1
+
+figure 4
+M
+onde incidente
+2 2
+P < Ud
+Z
+0;
+2
+
+f
+Dans tout le problème, on supposera satisfaite ['approximation de Gauss de l'optique géométrique. A- Préliminaire 1 - Dans lapproximation de Fraunhofer (ou diffraction à Vinfini), lamplitude complexe de
+Fonde diffractée dans la direction du vecteur ud faisant langle € avec /axe optique (Oz)
+s'écrit :
++a/2
+= OP ) dx où k = 21 A Ao t(x) exp(-i k ud est le vecteur donde, P est un point de a/2 ^ Fobjet dabscisse x et Ao est une constante supposée réelle . +al2 Vérifier que ['= amplitude A peut se mettre sous la forme A (u) = Ao t(x) exp(-i2rxu) dx, 2/2 où u est à exprimer en fonction de 2 et 0 (0 étant faible) 2 - Justifier [appellation fréquence spatiale donnée à u. 3- Quelle est le rôle de la lentille convergente (L) ?
+Concours Mathématiques ct Physiquc Session Juin 2003
+Epreuvc de Physique
+Page 6/8
+
+--- page 7 ---
+B " transparence sinusoidale
+L'objet est caractérisé par la fonction de transparence sinusoïdale t(x) = 1 + cos 2Ix P p est une constante positive, appelée pas ou période.
+4 - Déterminer; pour cet objet, ['expression de lamplitude   A(u) de londe diffractée à [infini. En déduire que A(u) est la somme de trois amplitudes A1 Az et Az centrées respectivement aux fréquences  spatiales ~Uo 0 et +Uo: Exprimer uo en fonction du pas P. 5- En supposant que la_largeur a de_la fente est_très_grande par_Iapport au pas P; représenter, en fonction de la fréquence  spatiale u Fallure de la courbe donnant   les variations  de lamplitude A(u). Cette courbe est appelée spectre de l'objet. 6 - Déterminer; en fonction de u, les intensités I1 Iz et I, associées respectivement aux amplitudes A1 Az et Az. Exprimer; en fonction de X1, f',a , p et ^ Tintensité [de Fonde diffractée en tout point M du plan focal image de la lentille convergente (L). X, désigne Fabscisse de M suivant laxe (OpXp). Représenter [allure de la courbe I(X;) On notera Io l'intensité de ['onde diffractée en Xp = 0 7 - La lentille (L) est placée à une distance d = 2 f' du plan de lobjet (cf. figure 4) A quelle distance d' de la lentille doit-on placer l'écran d'observation (E) sur lequel se forme une image géométrique nette de l'objet ? Calculer le grandissement transversal % 8 - On place, maintenant; dans le plan focal de la lentille (L), une fente de largeur b, centrée sur Vaxe   optique (Oz) (cf.figure 5). Si la   largeur b est  suffisamment   grande, pour que la répartition de la lumière dans le plan focal ne soit pas affectée, limage obtenue sur l'écran d'observation (E) ressemble à lobjet.
+Ecran
+Plan de [objet
+dobservation (E)
+X1
+
+onde incidente
+a
+b
+2
+0
+101
+2 f
+ûgure 5 Page 7/8
+Concours Mathématiques et Physique Session Juin 2003
+Epreuve de Physique
+
+--- page 8 ---
+Ainsi, si on ne perturbe pas le spectre, les fréquences spatiales qu'il contient permettent de restituer sur !'écran (E) une image géométrique identique à l'objet. 2 - En   utilisant la question 6, exprimer en fonction de 2, a et { ' la   largeur AX, dun maximum principal (distance séparant les deux premiers minima nuls qui Fentourent). b- En déduire, en fonction de 2, P, a et f' , la largeur maximale bo de la fente pour que seul le pic central, correspondant à une fréquence spatiale nulle; ne soit pas occulté (masqué). On négligera les maxima secondaires entourant un maximum principal de largeur AX1. C - Décrire ce qu'on observe; comme image; sur [écran d'observation (E) d - En déduire à quoi corespondent les basses fréquences dans le spectre d'un objet. C- Expérience dAbbe On enlève, à présent; la fente qu'on a placé dans le plan focal de (L) et on remplace l'objet par un réseau plan; constitué de N fentes identiques parfaitement transparentes percées dans un écran opaque. Ce réseau; de pas   po; est éclairé sur une largeur utile a L'intensité I de /onde diffractée à l'infini par ce réseau s'écrit
+sin Np = 2 I(o) Io Nsin @ 2
+où Io est une constante et @ désigne le déphasage entre deux ondes diffractées par deux fentes consécutives dans une même direction qui fait l'angle faible € avec ['axe optique (Oz). 9- Exprimer le déphasage @ en fonction de po, ^ et 0 10- En déduire que la fréquence spatiale Uk, correspondant   au maximum   principal dordre k. s'écrit Uk = k Po 11 - On occulte de la figure de diffraction; obtenue dans le plan focal  image de (L), les maxima principaux dordre impair (41,13, ) Justifier que 1' image observée sur [écran (E) est celle obtenue par un autre réseau dont on déterminera son pas P1 . 12- L'étude de la fonction   I(o) montre   que les premiers minima nuls à partir dun maximum
+principal correspondent à 4 = + 22 N Hontr?r que , lorsqu'on ne laisse passer que le maximum principal dordre zéro, l'image observée sur [écran (E) est celle obtenue par une fente de largeur a
+Fin du problème 2 Fin de Vépreuve
+Concours Mathématiques ct Physique Scssion Juin 2003
+Epreuve de Physiquc
+Page 8/8

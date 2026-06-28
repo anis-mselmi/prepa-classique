@@ -1,72 +1,1509 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+--- page 1 ---
+REPUBLIQUE TUNISIENNE
+~à848 @1?lgels &suslegsl Jsisu 1abs AMsl J4a5iaji Jsy JaAlya 2021 1,96
+Ministère de [Enseignement Supérieur et de la Recherche Scientifique
+Concours Nationaux d'Entrée aux Cycles de Formation d'Ingénieurs Session 2021
+Concours Technologie Epreuve de
+Systèmes Techniques Automatisés
+Date Mercredi 23 Juin 2021 Heure : 8 H Durée : 3 heures
+Lépreuve comporte deux parties A Mécanique des solides indéformables & Résistance des matériaux (10 pts) B - Automatique (10 pts) Le sujet de l'épreuve remis au candidat comporte trois dossiers ler "Mise en situation, Données et Hypothèses" 2ème Un document technique "DT-01". 3ème "Document Réponses" contenant les questions à traiter. NB. Aucun autre document n'est autorisé. Seules les calculatrices de poche non programmables sont autorisées_ Un seul et unique document réponses est fourni au candidat et doit être rendu en totalité, à la fin de lépreuve, même sans réponses Aucune feuille du document réponses ne doit être supprimée (cet acte est considéré comme étant une tentative de fraude).
+O
+
+--- page 2 ---
+Dossier
+Mise en situation,  Données et Hypothèses
+Ce dossier comporte 8 pages Mise en situation Données et hypothèses partie A MSI & RDM Données et hypothèses partie B Automatique
+pages de 1 à 1 pages de 1 à 5 pages de 5 à 8
+
+--- page 3 ---
+I8 8 81
+1 1 1 1
+1 1| 8 ; 1 / 1 1 1
+; 2 ; 3
+1 I 1 1 8 1 1 1 1 7 771 8 2 5 ; : # 1 8 8 8 U 1 Ill 8 ; '
+1 1 : 8 1 2 2 !
+;
+1 2 1
+% , 8 1
+3 2
+
+--- page 4 ---
+Concours Technologie Epreuve STA.
+Mise en situation; Données et Hypothèses
+SYSTÈME D' ASSEMBLAGE DE ROTULES DE SUSPENSION
+Mise en situation
+Le système présenté par le document technique DT-01 est destiné à lassemblage de rotules de suspension de voitures (figure 1). Ladite rotule est constituée d'un moyeu à fond sphé- rique, d'une bague entretoise en matériau polymère et dune tige à embout sphérique. Leur assemblage comporte une opération de graissage de Yintérieur de la rotule afin de garantir une meilleure mobilité à Yusage: Afin d empêcher le démontage de la tige, une opération de sertissage consiste à plier le serti (une zone de faible épaisseur du moyeu 1 pour venir au contact avec la tige (3). Cette opération nécessite une pression importante (utilisation dun vérin hydraulique) et un pliage par appui de galets tournants_ (Pièce 1) (Pièce 2) (Pièce 3) moyeu bague tige à embout sphérique entretoise sphérique
+rotule assemblée
+rotule assemblée et sertie
+avant assemblage des trois composants FIGURE 1 _ Rotule de suspension
+Le système dassemblage est ainsi constitué de huit postes successifs permettant chacun deffectuer une opération spécifique 1 positionnement du moyeu sphérique (pièce 1) 2 positionnement de la bague entretoise(pièce 2) 3. graissage de lintérieur du moyeu, 4. positionnement de la tige à embout sphérique, 5. sertissage du moyeu, 6. rodage de la rotule assemblée, 7 . évacuation de la rotule assemblée (système de transfert) , 8. nettoyage de lemplacement du moyeu. Un automate programmable permet la gestion du fonctionnement global de ce système.
+Partie A Mécanique des solides indéformables Résistance des matériaux
+A.l Présentation Létude mécanique porte sur le système de transfert des rotules à la sortie de la chaîne de montage: Ce système est composé, comme lillustre la figure 2, dun moteur (M) d'entraine- ment, dune manivelle (1) et de deux coulisseaux (2) et (3). L'ensemble est monté sur un bâti
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2021
+Page 1/8
+
+--- page 5 ---
+Concours Technologie Epreuve S.TA
+Mise en situation, Données et Hypothèses
+suffisamment rigide pour réduire les vibrations induites par le mouvement rotatif alterné de la manivelle. Le mécanisme permet de transformer une rotation périodique alternée im- posée par un moteur en une translation circulaire alternée de la pince de préhension de la rotule à évacuer.
+Manivelle (en mouvement alterné)
+Moteur
+Coulisseau
+Pince de préhension
+FIGURE 2 - Le système de transfert
+Les figures 3.a et 3.b présentent respectivement les schémas cinématiques réduits 3D et 2D du mécanisme, associé au système de transfert, proposé à létude.
+Jo
+Jo
+Jo
+Jo
+91
+A
+Zo
+B
+Schématisation dans V'espace (3D) b Schématisation plane (2D) FIGURE 3 - Schéma cinématique du mécanisme de transfert
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2021
+Page 2/8
+Coulisseau
+
+--- page 6 ---
+Concours Technologie Epreuve STA
+Mise en situation, Données et Hypothèses
+A.2  Repères, paramètres et données Le mécanisme proposé à l'étude est constitué des solides suivants Le bâti (0) auquel est lié le repère Ro(O,70,70,Zo). Ce repère est considéré galiléen ayant pour axe vertical ascendant (0,Jo) . La manivelle (1) est en liaison pivot daxe (0,20 avec le bâti (0). Elle est entrai- née en rotation par le moteur (M) (voir figure 2). Le repère qui lui est associé est R1(O,71,J1, 2) avec 0 = Yo,71 (J0,71)  Le coulisseau (2) est en liaison pivot daxe (A,Z0) avec la manivelle (1), il est aussi en liaison glissière d'axe (B,Jo) avec le coulisseau (3). Sa translation par rapport au coulisseau (3) est paramétrée par À. R2(A, 70,70,Z) est le repère qui lui est associé Le coulisseau (3) est en liaison glissière daxe (C,fo) avec le bâti (0). Sa translation par rapport à (0) est paramétrée par u. R;(C,70,Jo,Z0 est le repère qui lui est associé Chacun des centres A, B et C des liaisons définies précédemment, décrit une trajectoire si- tuée dans un plan parallèle à (0,7o,*0). Cela permet de modéliser le système proposé à Yétude par un mécanisme plan en considérant les paramètres et les données géométriques présentés par les relations vectorielles suivantes
+OA Lx1 BA = ajo Oc = uxo dyo Cg = Ayo Où L, a et d sont des caractéristiques dimensionnelles (constantes). 0, À et u sont les para - mètres de position du mécanisme; dépendants du temps (variables de configuration)
+A.3   Études cinématique, dynamique et énergétique Dans la partie cinématique on s'intéresse au champ de vitesse des solides (1), (2) et (3) L'étude énergétique et dynamique vise à déterminer le couple développé par le moteur (M) ainsi que les expressions analytiques des actions extérieures s'appliquant au système 2 {1,2,3} Données et hypothèses 0(t) est périodique: L'accélération de la pesanteur est définie par gJo avec g est une constante positive. Laction du moteur sur (1) est modélisée par le torseur couple
+0 {9 (Moteur-1)}0 = CmZo
+Les masses des solides (1), (2) et (3) sont désignées respectivement par m; avec i = 1, 2,3. Sachant que le coulisseau (2) intègre toutes les pièces qui lui sont solidaires y compris le système de préhension (la masse de la rotule est négligée)  Les centres dinertie Gi 1,2,3) de ces solides sont définis par les expressions vectorielles suivantes
+L 0G1 71 AG2 = ~byo CG3 =0 2 où b représente une constante dimensionnelle positive Toutes les liaisons sont supposées parfaites Il convient de retenir; pour ce problème plan, la notation représentant le torseur des actions mécaniques qu'exerce un solide (i) sur un solide (j) au point Q 'centre géo-
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2021
+Page 318
+
+--- page 7 ---
+Concours Technologie Epreuve STA
+Mise en situation, Données et Hypothèses
+métrique de la liaison" , exprimé dans la base Bo(70,Jo,20) Bo Xij {9(i-j)}0 Yij Nij
+La manivelle (1) est représentée par le solide de la figure 4.
+11 +Gy
+FIGURE 4 - Géométrie de la manivelle (1)
+A.4 Résistance des matériaux On se propose de déterminer la condition de résistance de la manivelle (1), sous leffet des actions mécaniques extérieures qui lui sont appliquées, quand le couple moteur est maxi - mal. Une étude préliminaire est effectuée en modélisant la manivelle par une poutre droite prismatique pleine, homogène, à section rectangulaire constante de dimensions H x e * L (figure 5) Pour tenir compte des effets des singularités géométriques on introduit; en plus du coefficient de sécurité, un facteur de concentration de contrainte. La manivelle (1) est en- castrée sur larbre moteur et elle est soumise à laction du coulisseau (2) au point A Cette action modélisée par le torseur {712+1}4 = { 1 avec FA = XA71 + YAJ1
+Z00
+A 71
+H
+FIGURE 5 _ Modèle poutre de la manivelle (1)
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2021
+Page : 4/8
+
+--- page 8 ---
+Concours Technologie Epreuve S.TA
+Mise en situation, Données et Hypothèses
+Hypothèses et données Le poids  de la manivelle (1) est supposé négligeable devant les autres actions méca- niques. Les forces dinertie sont prises en compte dans les données du problème. La manivelle est en acier faiblement allié (17 Cr Ni Mo 6) ayant une limite élastique à Yextension Re 880 MPa et un module d'Young E 210 GPa Le coefficient de sécurité est fixé à s Le facteur de concentration des contraintes en flexion dues aux singularités géomé- triques est Kt 3 Le centre de gravité de la section droite de la poutre est G, sa position est telle que OG XX1 avec 0 < x < 4OOmm Longueur de la poutre L 400 mm Rapport H/e = 5. XA = 47 Net YA = ~750 N
+Partie B Automatique
+B.l Étude du capteur de position angulaire du plateau tournant L'objectif de cette partie est létude du capteur permettant la mesure de la position angulaire du plateau tournant. En effet, pour connaitre avec précision sa position, une des solutions consiste à utiliser un codeur absolu basé sur le code binaire réfléchi (Gray). Cette solution est couramment adoptée pour sa précision Le disque des codeurs absolus comporte des pistes concentriques divisées en segments opaques et transparents. Comme le plateau est à 8 positions, on aura à utiliser un codeur à 3 pistes délivrant trois signaux Go, G1 et G2. Si le codeur Gray est le mieux adapté pour la mesure de la position (de langle du plateau tournant) , on aura besoin du code binaire naturel pour la suite du traitement de linforma- tion C'est la raison pour laquelle on utilisera un transcodeur BR BN à 3 bits.
+B.2 Étude séquentielle L'objectif de cette partie est létude séquentielle du système dassemblage de la rotule: En effet, laction sur un bouton poussoir Dcy >, conditions initiales satisfaites, permet le fonc- tionnement en série des 8 postes pour effectuer les actions suivantes Poste 1 : chargement des moyeux sphériques , (pièce 1). Ilsera placé dans une empreinte cy lindrique solidaire du plateau tournant (actions représentées par la macro étape MIO). Poste 2 : (M2O) chargement de la bague entretoise, pièce 2, (figure 6(a)) Elle sera acheminée jusqu'au-dessus du moyeu sphérique sous leffet d'une enceinte vibrante entrainée par un moteur électrique KM2. Larrivé de cette bague au-dessus du moyeu est détectée par un capteur P2 provoquant larrêt du moteur électrique et la descente de la tige du vérin V2. Ce dernier agit pour enfoncer la bague à lintérieur du moyeu. Arrivant en fin de course (signalée par le capteur L2o) la tige du vérin V2 rebrousse chemin pour remonter à sa position initiale signalée par le capteur de fin de course L21 - Poste 3 : (M3O) lubrification de lintérieur de la bague afin de réduire le frottement interne dela rotule entièrement assemblée (figure 6(b)). L'opération de lubrification commence par la sortie de la tige du vérin Vs entrainant des buses d'injection du lubrifiant (graisse) Arrivant à sa fin de course, (détectée par le capteur L31), une électrovanne KL est ali- mentée assurant ainsi linjection du lubrifiant durant 2s. Ensuite, Yélectrovanne est
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2021
+Page 518
+
+--- page 9 ---
+Concours Technologie Epreuve STA.
+Mise en situation, Données et Hypothèses
+mise hors tension et la tige du vérin revient à sa position initiale actionnant le capteur L3o:
+enceinte vibrante
+bague à insérer
+vérin V3
+'acfonlotemnent des bagues
+buse de graissage
+vérin V2
+Poste (2) chargement des bagues entretoises
+() Poste (3) lubrification (graissage)
+FIGURE 6 - Postes (2) et (3)
+Poste 4 : (M4O) chargement de lembout sphérique (figure 7), celui-ci sera introduit à linté- rieur des deux pièces assemblées et lubrifiées. Ce chargement s' effectue comme suit Déplacement du chariot (1) vers la gauche par la rentrée de la tige du vérin V41. La fin de ce retour est signalée par le capteur L41o: Sortie de la tige du vérin V42 jusqu'à sa fin de course annoncée par le capteur L421 . Ce vérin est responsable de lavance du chariot (2) solidaire du support porte pince. Préhension de Yembout sphérique par la pince pneumatique V43, signalée par le capteur L431 ; Retour vers la droite du chariot (1), mettant ainsi lembout juste au-dessus des deux pièces précédemment assemblées. La fin du retour est détectée par le capteur L411 Retournement de lembout de 1809 , effectué par un moteur électrique M4 à deux sens de rotation KM41. La fin de ce retournement est détectée par un capteur n1. Descente de lembout par le vérin V44 jusqu'à son introduction dans le moyeu sphé- rique signalée par le capteur L441' Lembout est alors libéré par ouverture de la pince et le capteur L43o est alors actionné Montée de la tige du vérin V44 signalée par le capteur L440. Enfin, retour de la tige du vérin Vaz signalée par le capteur L420, et en même temps la pince reprend sa position initiale par un retournement de ~1809 KM42 = 1. La fin de ce pivotement est détectée par le capteur n2 Poste 5 : sertissage du moyeu, en effet pour empêcher Yembout sphérique de quitter son logement; il est nécessaire de le bloquer sans éliminer les degrés de liberté nécessaires au rotulage (MSO) .
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2021
+Page 618
+
+--- page 10 ---
+Concours Technologie Epreuve S.TA.
+Mise en situation, Données et Hypothèses
+enceinte vibrante
+mouvement gauche / droite du chariot
+vérin V42
+vérin V41
+ligne
+d'acheminement des embouts
+vérin V44
+moteur de pivotement de la pince
+pince
+peneumatique V43 vérin V42
+montée et descente du support de pince
+avance et recul du chariot (2)
+FIGURE 7 _ Poste de chargement de lembout sphérique
+Poste 6 rodage et contrôle du jeu fonctionnel. En effet, après sertissage, la rotule peut être légèrement coincée sous leffet de lintensité de serrage. Il faudra ainsi débloquer Yen- semble et vérifier que le jeu fonctionnel est adéquat (M6O) . Poste 7 : évacuation de la rotule assemblée par le système de transfert parallèle (M7O) . Poste 8 nettoyage de lempreinte cylindrique fixée sur le plateau. Ainsi, après chaque éva - cuation dune rotule, il est impératif de s'assurer de lélimination de tout débris ou résidu de graisse (M8O). Dés lachèvement des différentes actions dans les huit postes , le plateau effectue 1/8 de tour (45") grâce au moteur électrique KM qui lentraine La nouvelle position est signalée par un capteur Pr. Si un nouveau moyeu est présent au poste 1, signalé par un capteur P,le cycle recommence automatiquement; si non le système s'arrêtera jusqu'à une nouvelle action sur le bouton poussoir Dcy Remarque tous les vérins utilisés sont à double effet
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2021
+Page 7|8
+
+--- page 11 ---
+Concours Technologie Epreuve STA
+Mise en situation, Données et Hypothèses
+B.3 Étude du système de commande du plateau Deux asservissements sont utilisés pour la commande du plateau
+Asservissement de vitesse du plateau Lasservissement de vitesse du moteur avec le plateau est caractérisé par le schéma de la figure 8
+Cr(p)
+@r (p
+e1 (p) U(p) 10 R(p) 1OFP
+0.2 Qch (p PFT
+FIGURE 8 - Asservissement de vitesse du moteur
+où R(p) est le régulateur Or(p) est lentrée du système (la consigne vitesse de référence)  Qch(p) est la sortie du système (vitesse angulaire) ; Cr(p) est lentrée de perturbation (couple résistant) et €1 (p)est le signal d'erreur.
+Asservissement de position du plateau L'asservissement de position du moteur et du plateau est caractérisé par le schéma de la figure 9
+Cr (p)
+0r(p)
+{2(p) U(p) 10 R(p) lO+p
+0.2
+0 (p p(p+1)
+FIGURE 9 Asservissement de position
+où 0,(p) est lentrée du système (la consigne angle de référence) ; 0 (p) est la sortie du sys- tème (position angulaire) et e2(p) est le signal d'erreur
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2021
+Page 818
+
+--- page 12 ---
+~j82e 81x?18is @uslegy Jsiql uhgl ZsLi] @4uhids Osh JAly 2021 *)95
+REPUBLIQUE TUNISIENNE
+Ministère de 1Enseignement Supérieur et de la Recherche Scientifique
+Concours Nationaux dEntrée aux Cycles de Formation dIngénieurs Session 2021
+Concours Technologie Épreuve de
+Conception & Fabrication Mécanique
+
+
+3
+Date Vendredi 25 Juin 2021
+Heure 08 Hoo
+Durée 4 Heures
+L'épreuve comporte deux parties
+A- Conception Mécanique B- Fabrication Mécanique
+(12 pts)
+(08 pts)
+Le sujet de lépreuve remis au candidat comporte trois dossiers
+1- Mise en situation; Données et Hypothèses 2-Documents Techniques (DT-01 DT-05) 3- Documents Réponses
+Important : Aucun autre document n'est autorisé. Seules les calculatrices de poche non programmables sont autorisées. Un seul et unique document réponses est fourni au candidat et doit être rendu en totalité, à la fin de Yépreuve, même sans réponses. Aucune feuille du document réponses ne doit être supprimée Toute suppression de feuilles du document réponses est considérée comme étant une tentative de fraude.
+
+--- page 13 ---
+Dossier
+Mise en situation; Données et Hypothèses
+Ce dossier comporte 10 pages numérotées de 1 à 10,associé à 5 documents techniques (DT-01à DT-05)
+Mise en situation
+Pages 1 et 2 Pages 3 à 10 Pages 3 à 8
+Données et hypothèses .
+A- Conception Mécanique.
+Documents Techniques associés B- Fabrication Mécanique Documents Techniques associés_
+DT-01 à DT-04
+Pages 9 et 10
+DT-05
+o
+. ' .
+3 -  s
+1 n
+
+--- page 14 ---
+Concours Technologie Épreuve CEM
+Mise en situation Données & Hypothèses
+ÉTUDE D'UN SYSTÈME DE TRANSFERT ROBOTISÉ
+1- Mise en Situation Un atelier de fabrication des pièces mécaniques est équipé d'une ligne d'usinage entièrement automatisée: Le premier module de cette ligne d'usinage, qui fera lobjet de notre étude, est un système de transfert robotisé. Ce système servira pour déplacer des pièces semi-finies dun convoyeur bas vers un convoyeur haut afin de poursuivre les opérations d'usinage (DT-01). Ce déplacement est assuré par un ensemble glissière (Figure 0-1). La rotation de la pince de cet ensemble glissière est assurée par un vérin pneumatique: Un vérin auxiliaire appelé vérin de maintien été conçu afin de maintenir en position lensemble glissière en cas de coupure de courant.
+Courroie crantée
+Colonne de guidage
+Vérin de maintien
+Réducteur
+Moteur
+Pince
+Vérin de pivotement
+Boîtier cache accouplement
+Colonne verticale
+Figure 0- 1 Ensemble glissière
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2021
+Page 1/ 10
+
+--- page 15 ---
+Concours Technologie Épreuve CEM
+Mise en situation Données & Hypothèses
+2- Fonctionnement du système de transfert robotisé
+Les dessins d'ensemble (DT-02, DT-03 et DT-04) représentent le système de transfert robotisé permettant la transmission de mouvement et de puissance de larbre moteur vers lensemble glissière. Le système en question comporte
+Un motoréducteur à engrenages à dentures droites
+moteur électrique (Voir Figure 0-2)
+réducteur à engrenages réduire la vitesse et transmettre la puissance de (52) à (59).
+Un accouplement transmettre la puissance de (59) à (45).
+Une transmission par lien flexible la courroie crantée (69) et les pignon-arbrés (40) (poulie dentée suiveuse) et (45) (poulie dentée motrice) de même diamètre, permettent le déplacement vertical de l'ensemble glissière (9, 70, etc:)
+2,4
+2,2
+2,0
+1,8 2 1,6 1,4 , 1,2 1,0
+0,8
+0,6
+1000
+2000 3000 4000 Vitesse de rotation (trlmn)
+5000
+6000
+Figure 0- 2 Évolution du couple moteur en fonction de la vitesse de rotation
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2021
+Page 2 | 10
+
+--- page 16 ---
+Concours Technologie Épreuve CFM Conception Mécanique Mise en situation; Données & Hypothèses
+3-Données et Hypothèses Partie A : Conception Mécanique Cette partie porte sur Yétude fonctionnelle et technologique du système de transfert robotisé. Elle s'appuie sur les documents techniques (de DT-01 à DT-04) et 5 abaques (de 1 à 5). Cette partie est axée notamment sur L'analyse technologique du système de transfert; L'étude de la chaîne de transmission de mouvement et de puissance, L'étude du système de pivotement de la pince, La cotation fonctionnelle, L'étude graphique. Section Al- Étude technologique
+Lobjectif visé par cette section est l'étude technologique du système de transfert robotisé et des sous-ensembles qui le constituent. Pour cette étude, on s'appuiera sur les documents techniques (DT-02, DT-03 et DT-04)
+Section A2-Étude de la chaîne de transmission de mouvement et de puissance
+Pour létude de la chaîne de transmission de mouvement et de puissance, on s'appuiera sur les données du Tableau 0-1
+Tableau 0- 1 Données utiles_pour la_chaîne de_transmission de mouvement_et de_puissance Fonction Principale Critère Niveau Transmettre la puissance Moteur électrique Nm Nsz 5600 tr /mn entre larbre moteur (52) et la pièce (59)
+Transmettre la puissance de (51) à (59)
+(31), (51), (59), (64)
+Z31 , Z51, Z64 à déterminer
+Rendement
+9 = 0,95
+Transmettre la puissance de (59) à (45)
+Couple maxi transmissible
+CaccMax
+10 Nm
+Poulies-courroie crantée
+D4s D4o 30,33 mm N45 N4o 1600 tr /mn Coefficient de service Ks 1,2
+Masse propre de lensemble glissière (à soulever)
+15,5 Kg pesanteur
+Déplacer verticalement
+9,81 m/s?
+Yensemble glissière
+Force spécifique à transmettre Fu F + Fa + FB + Fv F : Force d'élévation (charge à soulever) FA Force daccélération FB Force d'entrainement Fv Force de pré-tension
+F : Force d'élévation (charge à soulever) FA 48 N FB : = négligeable Fv : négligeable
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2021
+Page 3 10
+
+--- page 17 ---
+Concours Technologie Épreuve CFM Conception Mécanique Mise en situation, Données & Hypothèses
+Étude cinématique globale
+On se propose dans cette partie d'étudier les différentes liaisons mécaniques associées aux groupes constituants Yensemble glissière.
+Étude du réducteur à engrenages à dentures droites
+Cette partie vise dimensionner et analyser les différentes conditions d'engrainement du train dengrenage à axes parallèle du réducteur de vitesse (DT-02 et DT-03).
+Étude de laccouplement
+On se propose de vérifier la capacité de Yaccouplement (54, 55, 56) à transmettre le couple au pignon-arbré (45). On donne le rendement du réducteur 9 0,95 et le couple maximal transmissible par laccouplement CaccMari 10 N.m.
+Étude de la transmission par poulie-courroie
+Lobjectif à atteindre à travers cette partie est le dimensionnement du système poulie-courroie crantée (40, 45 et 69). Le système étudié doit être capable de soulever le poids propre des différents composants constituants tout lensemble glissière (Tableau 0-1) . Les abaques (1 à 5) serviront pour la détermination des caractéristiques de la courroie crantée (69) et des poulies, appelées dans la nomenclature pignon-arbrés (40) et (45).
+Section A3- Étude du système de pivotement de la pince
+Cette partie a pour objectif de démontrer que la liaison équivalente entre (G7) et (G6) est du type pivot-glissant et de déterminer la loi Entrée/Sortie du sous-ensemble pince. Cette loi peut s'écrire sous forme dun système de 2 équations suivant les axes Xo et yo, reliant la course du vérin 1 comme variable d'entrée et l'angle de pivotement B comme variable de sortie.
+Le schéma cinématique du sous-ensemble pince en position de maintien et de serrage de la pièce à transférer est donné par la Figure 0-3. Le système est ramené à un problème plan (O,w0 ,}o), le poids propre des pièces est négligeable et les liaisons sont considérées parfaites.
+La loi de mobilité globale est donnée par 6p Is
+m = h
+p Nombre de solides excepté le bâti Is Nombre des inconnus 'statiques somme des inconnues des efforts de liaisons) m Degré de mobilité du système h Degré dhyperstaticité du système
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2021
+Page 4 10
+
+--- page 18 ---
+Concours Technologie Épreuve CFM Conception Mécanique Mise en situation, Données & Hypothèses
+Paramétrage Ro (0,*0,7o,Z0 repère fixe lié à G5 R6 (0,*6,76,20) repère lié au vérin {G6,G7}
+Y6
+Yo
+y8
+Yo
+X6
+G6
+R8 (B,78,78,Z0) repère lié à la pince G8 O7 = 176 (1 variable) X8 OC = c % - dyo BÀ = a78 + by8 Xo BC = -T 7
+G8
+G5
+Pièce
+Figure 0- 3 Schéma cinématique du sous-ensemble pince
+Section A4 - Cotation fonctionnelle
+On s'intéresse dans cette section à la cotation fonctionnelle et aux tolérances.
+Section AS-Étude graphique Dans cette partie, on adaptera au système de transfert robotisé (DT-01 et DT-02), un dispositif intermédiaire de polissage pour le surfaçage en finition de la surface P5 mentionnée sur le document DT-05.
+Le schéma de principe du dispositif de polissage à concevoir est représenté par la Figure 0-4.
+Meule_ cylindrique
+Liaison_pivot Système_poulie-courroie
+Moteur
+Colonne verticale (1)
+Figure 0- 4 Schéma de principe du dispositif de polissage
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2021
+Page 5 10
+
+--- page 19 ---
+Concours Technologie Épreuve CFM Conception Mécanique Mise en situation, Données & Hypothèses
+Abaques pour létude de la transmission par poulies courroie crantée Abaque 1 : Sections des courroies crantées Abaque 2 Puissance de base des courroies crantées
+Na (tr/min)
+Pb (KW/ 5mm de largeur)
+XX#
+10000
+7000
+5000
+2000
+1000
+XH
+500
+XXH
+XL
+200
+Ps (kW) 100
+(m/s)
+100 0,1
+0,5
+10
+15
+20
+25
+30
+Na X P X Za Na (tr/mn) 60 p (mm)
+Vitesse courroie: V
+Nd Vitesse de la petite poulie
+(tr /mn)
+Kz Coefficient correcteur fonction du nombre de dents en prise Zpr Kb Coefficient correcteur fonction de la largeur des courroies avec PbKb-Kz 2 Ps Fu Force spécifique à transmettre avec Fu F + FA + FB + Fv F : Force délévation (charge à soulever)
+ND
+Vitesse de la grande poulie
+(tr /mn)
+V : Vitesse linéaire de la courroie
+(m/s)
+P : Puissance réelle à transmettre
+(kW)
+Ps Puissance de service ou puissance corrigée Ps Ks.P Pb : Puissance de base de la courroie
+FA : Force daccélération
+I (N)
+(kW)
+FB Force dentraînement
+Ks Coefficient correcteur Jié aux conditions de service de transmission
+Fv
+Force de pré tension
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2021
+Page 6 10
+
+--- page 20 ---
+Concours Technologie Épreuve CFM Conception Mécanique Mise en situation, Données & Hypothèses
+Abaque 3 Puissance transmissible P en kW Nombre de dents 12 14 16 17 18 19
+Vitesse de la petite poulie en trlmn
+10
+20
+21
+22
+Diamètre primitif en mmdela petite poulie 30 ,33 36,37 42,44 48,51 51,54 54,59 57,61 60,63 63,68 66,70 0,04 0,04 0,05 0,06 0,07 0,07 0,07 0,07 0,08 0,09 0,07 0,1 0,11 0,13 0,13 0,14 0,15 0,15 0,16 0,17 0,15 0,18 0,21 0,24 0,26 0,28 0,29 0,31 0,32 0,34 0,23 0,27 0,32 0,37 0,39 0,41 0,43 0,46 0,49 0,51 0,28 0,33 0,38 0,44 0,46 0,50 0,52 0,55 0,58 0,60 0,31 0,37 0,43 0,49 0,52 0,55 0,58 0,61 0,64 0,68 0,37 0,43 0,51 0,58 0,63 0,66 0,69 0,74 0,77 0,81 0,38 0,46 0,54 0,61 0,66 0,69 0,73 0,77 0,80 0,84 0,46 0,55 0,65 0,74 0,78 0,82 0,87 0,91 0,96 0,99 0,55 0,66 0,77 0,88 0,93 0,99 1,05 1,10 1,16 1,21 0,61 0,74 0,85 0,97 1,04 1,1 1,16 1,21 1,27 1,33 0,91 1,07 1,21 1,29 1,36 1,44 1,51 1,58 1,66
+100
+200
+400
+600 720
+800
+960
+1000
+1200
+1450
+1600
+2000
+Abaque 4 : Dimensions des principales courroies crantées (NF ISO 5294 et 5296) Pas (mm) H (mm) (a) deg Largeur < b > (mm) 2a (mm) 5,08 2,3 50 6,4-7,9 - 9,5 0,508
+Type XL
+9,525
+3,6
+40
+12,7 _ 19,1 _ 25,4
+0,762
+H
+12,7
+4,3
+40
+19,1 25,4 38,1 50,8 76,2
+1,372
+XH
+22,23
+11,2
+40
+50,8 76,2 101,6
+2,794
+XXH
+31,5
+15,7
+40
+50,8 76,2 101,6 127
+3,048
+Zc_dents Za dents
+pas
+ligne primitive Lp=pxZe
+de pied
+extérieur: dp-2a
+primitif: dpXZalî
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2021
+Page 7 | 10
+
+--- page 21 ---
+Concours Technologie Épreuve CFM Conception Mécanique Mise en situation; Données & Hypothèses
+Abaque 5 Coefficient correcteur Kp de la largeur des courroies crantées Kb 0,84 1,1 1,45 2,2 3,6 5,1 7,9 10,9 17,1 24,2 31 ,2 b (mm) 6,4 7,9 9,5 12,7 19,1 25,4 38,1 50,8 76,2 101,6 127 Type de H,XH H,XH H,XH XL XL XL Let H Let H H XXH courroie et XXH et XXH et XXH Coefficient correteur Kz Nombre de dents en prise (Zpr) Kz 1,0 0,8 0,6 0,4 0,2 ZD nombre de dents de la grande roue p (ZD Zd avec Zd nombre de dents de la petite roue Zpr Za |0,5 - 2 T2 entraxe
+p pas
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2021
+Page 8 10
+
+--- page 22 ---
+Concours Technologie Épreuve CFM Fabrication Mécanique Mise en situation, Données & Hypothèses
+Partie B Fabrication Mécanique Cette partie de l'épreuve porte sur l'étude de la fabrication de la colonne verticale (1) (DT-01), du boîtier cache-accouplement (8) (DT-01 et DT-02) et de Yembout de raccordement (Pièce saisie par la pince) (DT-05).
+Dans cette épreuve, lanalyse de fabrication sera ramenée à L'étude de Yassemblage soudé de la colonne verticale (1), L'étude de la mise en forme par pliage de la colonne verticale (1), Le moulage du boîtier cache-accouplement (8), L'élaboration partielle de 1'Avant-Projet d'Étude de Fabrication (APEF) de Yembout de raccordement (DT-05)
+Section B.1-Étude de lassemblage soudée de la colonne verticale (1)
+On envisage dans cette section détudier Yassemblage soudé de la colonne verticale (1), la plaque de base et des nervures de renforcement
+Section B.2- Étude dela mise en forme par pliage dela colonne verticale (1)
+On souhaite remplacer la colonne verticale initialement en profilé de section rectangulaire creuse (1) par une colonne de section en forme de U v, obtenue par le procédé de pliage dune tôle d'épaisseur =10mm et de largeur l = 1m. La résistance à la rupture de la tôle à plier Rr 450 N/mm? .
+L'effort de pliage Fp est donné par la relation suivante:
+e2 Fp = C.L.Rrv
+Le coefficient C sera choisi à partir du Tableau 0-2
+Tableau 0-2 Coefficient € 10e 15e 2Oe 1,27 1,22 1,18
+5e 1,45
+25e 1,17
+30e 1,17
+Section B.3- Moulage du boîtier cache-accouplement (8)
+Dans cette partie on va étudier le moulage en sable par gravité du boîtier cache-accouplement (8)
+Section B.4- Élaboration partielle dun Avant-Projet dÉtude de Fabrication (APEF) de Yembout de raccordement (DT-05) On se propose dans cette section détudier la fabrication de Yembout de raccordement présenté par le document DT-05. Lobjectif est de Étudier Yexécution d'une phase d'usinage sur un tour à commande numérique, Étudier la coupe et déterminer les coûts doutillage:
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2021
+Page 9 10
+
+--- page 23 ---
+Concours Technologie Épreuve CFM Fabrication Mécanique Mise en situation, Données & Hypothèses
+Les résultats expérimentaux obtenus à la suite d'essais de chariotage; utilisant deux vitesses de coupe sont regroupés dans le Tableau 0-3. Pour chaque temps d'usinage T, on a pris la valeur de Yusure frontale de loutil utilisé (outil en carbure) 
+Tableau 0- 3 Résultats expérimentaux de lusure en fonction du temps V(m/mn) T(mn) 1,5 12 15 172 Vo (mm) 0,10 0,13 0,18 0,25 0,30 200 Vo(mm) 0,08 0,12 0,19 0,30 0,36
+18
+0,35
+Les paramètres de coupe associés à Yopération de chariotage en tournage sont regroupés dans le Tableau 0-4.
+Tableau 0- 4_Paramètres de coupe _pour les opérations de chariotage en Tournage (Outil carbure) Résistance à Angle de Ébauche Finition la rupture coupe Matière Vc @p max Vc Rr (MPa) Y (%) (m/mn) (mm) (mm/tr) (m/mn) (mm/tr) Acier S235 500 14 150-175 0,2-0,25 200-250 0,10-0,15
+X6 Cr Ni Mo 18 10
+500
+105-115
+0,2-0,25
+115-130
+0,10-0,15
+35CrMo4
+1100
+100-110
+0,2-0,25
+135-160
+0,10-0,15
+CuZn3o
+400
+20
+220-225
+0,2-0,3
+250-260
+0,10-0,15
+NB Pour les calculs, on se limitera à 3 chiffres après la virgule.
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2021
+Page 10 | 10
+
+--- page 24 ---
+Concours Nationaux d'Entrée aux Cycles de Formation d [Ingénieurs Session 2021 Concours Technologie Épreuve de Conception & Fabrication Mécanique (CFM) Date Vendredi 25 Juin 2021 à 8H
+DOCUMENTS TECHNIQUES Sujet Étude dun Système de transfert robotisé
+Ce dossier comporte 5 documents techniques numérotés de DT-01 à DT-05
+DT
+Document Technique
+DT-01
+Phase de fonctionnement du système de transfert
+Détail A
+Coupe B-B Détail D Coupe C-C Détail E Coupe F-F Coupe H-H Coupe [-I Détail G CoupeJ-J CoupeK K
+DT-02
+Système de transfert robotisé
+DT-03
+Système de transfert robotisé
+DT-04
+Nomenclature générale
+DT-05
+Embout de raccordement
+Coupe L-L
+
+--- page 25 ---
+! 1 1 1
+1
+[
+1 G
+1
+8
+1ul 1 1 8 1 1 1
+1
+1 8 5 1
+1 G
+11 1 {
+1 ;
+;
+1
+1 8
+1 1 1 1 9 1 1 1 5 f { 8 8 1 ; 1 ; 1 1l 8 Il 1 1 8 8 1 1/I 8 ; '
+1
+17 1 :
+f
+1
+1 8 8 8 5 8 1
+4e 8
+5
+
+--- page 26 ---
+3
+5 1 8 1 2 f 8 1 9 ' |
+"1 8 M
+3
+5
+" 2
+1 1 1 1 5 1 1 2 : 771 1 8 9 ; 1l 1 8 il Hik 8 ; ;
+1i 8
+
+--- page 27 ---
+1 5 2
+2i 9 8
+1
+F 2
+1 1 7 1 5 1 1 2 : 77 1 8 5 ; : 1 1 8 ilI YNak 8 ; ;
+7
+E
+
+--- page 28 ---
+41
+Vis CHC M12-60 Pignon-arbré suiveur Support lamé colonne de guidage Support colonne de guidage Plaque 35x205 Vis CHC M5-60 Articulation vérin de pivotement Flasque Corps moteur Corps entrée réducteur
+40 39 38 37 36 35 34 33 32 31 30 29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10
+E355
+AlCu4MgSi AlCu4MgSi 8235
+E335
+AlCu4MgSi E335 AlCu4MgSi
+Corps sortie réducteur Plaque de jonction pour courroie crantée Tampon frein X6CrNiMo1810 Ensemble tige piston Corps du vérin de maintien Axe de clame S185 Chape_du vérin de pivotement Vis M6 40 Corps vérin de pivotement Tige du vérin de pivotement Axe d articulation de 1'ensemble pince 2 Mors de serrage Coulisseau porte mors 2 Culbuteur Tige du vérin pince Corps vérin pince Piston vérin pince Couvercle de vérin pince Support_chape Chape du vérin pince 8235 [Chape_de tige rotulée Glissière AlCu4MgSi 8 Boîtier cache accouplement GE335 Support pignon d' entraînement S235 6 Colonne de_guidage Acier Stub 5 Support_capteur 8235 4 Embase AlCu4MgSi 3 Support pignon suiveur 8235 2 Couvercle 8235 Colonne verticale mécano soudée 8235 Rep Nbre Désignation Matériaux Obs Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+5 8
+1 1
+Système de Transfert robotisé
+Session 2021
+DT-04
+
+--- page 29 ---
+71 70 69 68 67 66 65 64 63 62 61 60 59 58 57 56 55 54 53 52 51 50 49 48 47 46 45 44 43 42 Rep
+Clavette 5x5x28 Bague de guidage
+CuAlIOFe Bronze
+Clavette 10x8x25
+CuAlIOFe
+Roulement 6007 2ZR Axe porte-satellite
+S235 8235
+Roulement 6005 2ZR
+Vis de vidange
+Coussinet Vis de pression Manchon d 'accouplement (Côté pignon_ arbré
+CuZn36Pb3
+2
+E335 E335
+Caouchouc
+2
+Vis serrage noix Arbre moteur
+E335 E335
+G Noix de serrage Rotor 1 Stator 2 Vis d ' assemblage entraînement 35CrMo4 1 Pignon-arbré d Roulement 6004 2ZR Boulon d 'assemblage Equerre S235 1 Nbre Désignation Matériaux Obs Concours nationaux d'entrée aux cycles de formation d ingénieurs Système de Transfert robotisé Session 2021 DT-04
+
+--- page 30 ---
+5 1
+1 8 ~ É 0 2 li { Hi |1 1 1 3 8 4 8 ; 1 Jli 2 1 2 5 6 8 2 2 { 8 1 ' | il 2 5 2 8 1 0 0 8 8E ] { 5 0 { 8 9 2 8 8 8 [ 2 8 2 8 2 1 3 1 Ili 1 ? { 6 Ili 1 il 2 1 1
++e0
+920 "0+ 4 4H,ozo
+5
+5
+;
+2
+8
+8 LH €20
+8'0 ey
+8
+820
+8
+%
+
+--- page 31 ---
+Dossier
+Document Réponses
+Ce dossier comporte 23 pages numérotées de 1 à 23
+Partie A- Conception Mécanique
+Page 1à 12
+Partie B- Fabrication Mécanique
+Page 13 à 23
+Important
+Un seul document réponses est fourni au candidat
+Le candidat doit rendre obligatoirement le document réponses avant de quitter la salle
+dExamen.
+Le document réponses doit être rendu en intégralité (aucune feuille ne doit être supprimée) 
+Toute suppression de feuilles du document réponses est considérée comme étant une
+tentative de fraude.
+Le renouvellement ou la reproduction de ce dossier sont strictement interdits.
+
+--- page 32 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+Partie A : Conception Mécanique
+Section Al - Étude technologique
+A-1. Compléter le Tableau -1, en précisant le rôle des pièces indiquées par leurs repères. Tableau 1 Rôle des pièces Pièces Rôles
+(47)
+(54)
+(55)
+(61) et (67)
+(63)
+(69)
+A-2. Quel est le mode de lubrification des engrenages ? Justifier votre réponse.
+Mode
+Justification
+A-3. Quel estle type daccouplement utilisé entre (59) etle pignon dentrainement (45)? Justifier ce choix
+Type daccouplement
+Justification
+Section A2 - Étude de la chaîne de transmission de mouvement et de puissance
+Étude cinématique globale
+A-4. En se basant sur le document technique (DT-03), compléter le diagramme fonctionnel associé à la chaîne de transmission de puissance relatif au mouvement de déplacement vertical de Yensemble glissière.
+Moteur électrique
+Ensemble glissière
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2021, Page 1 23
+
+--- page 33 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+Étude du réducteur à engrenages à dentures droites
+A-7.Le train d'engrenages est-il ordinaire ou épicycloïdal ? Cocher la bonne réponse etla justifier:
+Justification
+Oui
+Non
+A-8. Donner les noms des pièces (31), (51), (59) et (64) associées au train dengrenages
+Rep.
+Nom
+Rep.
+Nom
+Rep.
+Nom
+Nom
+31
+51
+59
+64
+A-9. Compléter le Tableau- 3 relatif aux caractéristiques des engrenages.
+Tableau 3_Caractéristiques des engrenages df (dents) (mm) (mm
+m (mm)
+Roue
+(mm)
+64
+15,5
+Z64 =0,75 Z51
+51
+24
+64
+15,5
+Z64 Z31
+31
+Préciser les relations utilisées et les détails de calcul.
+Dans la suite du sujet on suppose que le train d'engrenages est caractérisé par Z31 60 dents , Z51 24 dents et 264 18 dents
+On donne N51 Nm 5600 tr /mn.
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 20216 Page 3 23
+Rep.
+
+--- page 34 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+A-10. Établir la relation permettant dexprimer la vitesse de rotation Nss en fonction de la vitesse de rotation du pignon dentrée Ns1 puis calculer Ns9.
+AN :
+Nss
+tr Imn
+A-11 Pour que le montage du train épicycloïdal soit possible, il faut respecter  certaines conditions d'assemblage Même module pour les trois roues, Condition sur les entraxes, Condition sur le nombre de dents. Écrire les conditions géométriques liées à lentraxe puis déterminer la relation entre le nombre des dents de Z31, Z51 et Z64- Vérifier cette relation par une application numérique:
+AN :
+Relation
+b. Écrire alors la condition de montage des trois satellites. Vérifier cette relation par une application numérique.
+AN :
+Étude delaccouplement
+A-12 En utilisant les données de la Figure 0-2 ( Page 2/10, relever la valeur du couple maxi du moteur CmMari'
+N.m
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2021, Page 4 | 23
+CmMarl
+
+--- page 35 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+A-13 Calculer la valeur maximale du couple à la sortie du réducteur CsMaxi
+AN :
+~N.m
+A-14 En utilisant le Tableau 0-1 ( Page 3/10, indiquer le couple maximal que peut supporter Yaccouplement élastique Cacc max. Conclure.
+Cacc max
+N.m
+Conclusion
+Étude dela transmission par poulie-courroie crantée
+Dans cette partie; on utilisera les Abaques de 1à5.
+A-15. Justifier le choix dune courroie crantée pour 'déplacer verticalement  ensemble glissière (9,70, etc:).
+A-16. Calculer la force spécifique Fu à transmettre par le système de transfert.
+F
+A-17. Calculer la vitesse linéaire de lensemble glissière Vp:
+m /s
+A-18 Déterminer alors la puissance P4s au niveau du pignon-arbré dentraînement (45).
+P4s
+W
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 20216 Page 5 | 23
+CsMari
+
+--- page 36 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+A-19. Calculer la puissance de service Ps:
+Ps
+W
+A-20 Choisir le type et le pas de la courroie crantée:
+Type:
+Pas
+A-21. Déterminer le nombre de dents 145 du pignon-arbré (45) et son diamètre primitif d45
+Z32
+dents
+d45
+mm
+A-22. Déterminer la puissance de base Pb de la courroie crantée
+Pb
+KW
+A-23. Calculer le nombre de dents en prise 1pr puis déterminer le coefficient correcteur Kz:
+Zpr
+dents
+Kz
+A-24. Calculer le coefficient correcteur Kb puis déterminer la largeur b de la courroie crantée.
+Kb 2
+mm
+A-25. Compléter le Tableau- 4 regroupant les caractéristiques de la courroie crantée
+Tableau - 4_Caractéristiques de la courroie crantée Pas (mm) (mm) (mm)
+Za (mm)
+Type
+Section A3- Étude du système de pivotement de la pince
+A-26. On suppose que la liaison entre la tige du vérin (G7) etle corps (G6) est composée de deux liaisons (L1) en I et (Lj) en du type linéaire annulaire (Figure 0-3 page 5/10.Compléter le graphe de liaisons entre (G7) et (G6) et identifier les liaisons. Concours nationaux dentrée aux cycles de formation dingénieurs Session 2021, Page 6 23
+
+--- page 37 ---
+Concours Technologie_ Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+G6
+G7
+A-27. Écrire les torseurs des actions mécaniques transmissibles pour chaque liaison (Lp) et (Lj).
+NB Pour représenter le torseur des actions mécaniques transmissible par une liaison (Lp) en un point [, exprimé dans le repère R6 (0,76,76,Zo),il convient de retenir la notation suivante
+XplL' R6
+{rL}
+YilM, ZIN 
+{Tz}
+{"u,}
+R6
+R6
+A-28. Déterminer le torseur statique de la liaison équivalente entre (G6) et (G7). En déduire la nature de la liaison équivalente.
+Xeq| Leq R6 Yeq (Meq Zeq Neq
+R6
+{TzEq_
+R6
+On déduit TLEq_
+A-29 On considère la liaison équivalente obtenue en A-28/, compléter le graphe des liaisons de Yensemble < Pince > de la  Figure 2
+L1
+Lc6/G7 Liaison pivot glissant daxe (I,76
+G6
+G7
+G5
+G8
+Figure. 2- Graphe de liaisons
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2021' Page 7 | 23
+TLJf,
+
+--- page 38 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+A-30. Appliquer la loi de mobilité globale et vérifier lisostatisme de lensemble pince.
+h
+Conclusion
+A-31 Procéder au remplacement des liaisons de la Figure 0-3 de façon à rendre le système isostatique.
+A-32 En se basant sur le graphe de liaison (Figure .2) et compte-tenu du schéma cinématique Figure 0-3, déterminer les équations régissant la loi Entrée /Sortie de cet ensemble et reliant la course du vérin (1) à langle de rotation (B)de la pince. (Utiliser la fermeture de la chaîne 0 - A - B - € - 0)
+A-33. Procéder au remplacement des liaisons de façon à rendre le système isostatique
+Section A4- Cotation fonctionnelle
+A-34. Proposer un ajustement qualitatif pour chacun des assemblages suivants (Z/(8 (51/(522 (51)/(622 (322/(62) (58/(59) (56/(592
+(9/(70)
+H7 h6
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2021, Page 8 23
+
+--- page 39 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+On considère une partie du système de transfert robotisé représentée par la Figure 3 A-35. Justifier Yexistence de la cote condition Ja entre (2) et (45).
+Tracer sur la Figure 3 la chaîne de cotes relative à la cote condition Jamax' 69
+55
+46
+43
+45
+44 2
+Ja max
+Figure.  3- Chaîne de cote
+A-36. Écrire la relation permettant dexprimer la cote condition Jamax:
+Jamax
+A-37. Établir la relation qui permet de déterminer lintervalle de tolérance (IT) de la cote condition Ja'
+IT
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2021, Page 9 | 23
+
+--- page 40 ---
+Concours Technologie Épreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+Section A5- Étude graphique
+A-38. On désire dans cette section, compléter la conception dun dispositif intermédiaire de polissage  (Figure 0-4) pour le surfaçage en finition de la surface P5 de Yembout de raccordement présenté sur le document DT-05 On donne sur le Document réponses (Page 11/23) le dessin densemble incomplet du dispositif de polissage en coupe M-M et en demande de compléter Le guidage en rotation de Yarbre (80) par rapport au boîtier (76) par deux roulements rigides à bille (77) et (79). Une clavette 6x6x 25.
+Une vis H- M8 -20.
+Une rondelle plate large d = 8, 5mm; D = 28mm et e 3mm Létanchéité du montage de roulements (voir page 12/23) Sachant que la liaison encastrement entre la meule (72) et Tarbre (80) est assurée par adhérence; compléter le dessin du flasque (74). Indiquer les ajustements nécessaires pour les solutions proposées.
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2021, Page 10 | 23
+
+--- page 41 ---
+Concours Technologie Epreuve CFM
+Partie A : Conception Mécanique
+Document Réponses
+M-M
+96
+95
+94
+93
+92
+90
+89
+88
+87
+86
+85
+84
+83
+80 81
+82
+72 73
+74
+75
+76
+77
+78
+79
+Etude d'un système de transfert robotisé
+Echelle 1:1 Session 2021
+Concours nationaux dentrée aux cvcles de formation dingénieurs
+Session 2021
+Page 11 / 23
+
+--- page 42 ---
+Concours Technologie Epreuve CFM
+Vartie A Conception Mécanique
+Document Réponses
+Clavette
+Joint
+lèvres
+D
+b
+d
+DIN 3760
+H k j
+32 35 40 30 32 35 40 47 32 35 40 47
+35
+18
+25
+40 42 47 52 40 47 52 40 42 47 52
+Clavette (NF
+22 2177) ~j k 0, 16 d -1,2 d+1 0,16 d -1,8 d+1 ,4 0,16 d-2,5 d+1,8 0,25 d-3 d+2,3 0,25 d-3,5 d+2,8 0,25 d-4 d+3,3
+20
+28
+8 inclus 10 10 12 12 à 17 17 à 22 22 à 30
+22
+30
+96 95 94 93 92 9 90 89 88 87 86 85 84 83 82 81 80 79 78 77 76 75 74 73 72 Rep
+Bâti mécano soudé Arbre moteur Vis H M8 25 Clavette 6x6x30 Rondelle plate large Poulie motrice Couvercle Joint à lèvres Graisseur Tendeur à excentrique Vis H M8 25 Rondelle plate large Clavette 6x6x25 Poulie réceptrice 2 Courroie trapézoïdale Joint à lèvres Arbre porte meule Roulement à billes à contact radial Bague_entretoise Roulement billes à contact radial Boîtier de roulements Flasque inférieur Flasque supérieur Vis H M8 -25 Meule cylindrique Nbre Désignation Etude d'un système de transfert robotisé
+8235
+Matériaux
+Obs
+Echelle 1:1 Session 2021
+Concours nationaux dentrée aux cvcles de formation dingénieurs
+Session 2021
+Page 12 | 23
+
+--- page 43 ---
+Concours Technologie Épreuve CFM
+Partie B : Fabrication Mécanique
+Document Réponses
+Partie B : Fabrication Mécanique Section B.1-Étude de lensemble soudé de la colonne verticale (1)
+Le bâti de la Figure. 4 est composé dune plaque de base, de deux nervures et de la colonne en profilé rectangulaire creux.
+Colonne
+Nervures
+Plaque de base
+Figure. 4 Bâti du système de transfert robotisé
+B-1. Quel est le type dassemblage des éléments constitutifs du bâti ?
+B-2. Donner 5 procédés de découpage de la plaque de base:.
+Procédés
+B-3. Donner 5 procédés de soudage permettant de souder les nervures sur la plaque de base.
+Concours nationaux d'entrée aux cycles de formation d'ingénicurs
+Session 2021' Page 13 23
+
+--- page 44 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+Section B.2- Étude dela mise en forme par pliage de la colonne verticale (1) Ila été recommandé de remplacer la colonne verticale en profilé de section rectangulaire creuse par une poutre verticale en forme de < U > (Figure. 5) . Plie
+90'
+200
+Plie
+Figure. 5- Profilé en forme de < U >
+B-4. Calculer la longueur développée La avant Yopération de pliage. Le calcul sera développé par rapport à la fibre neutre, située au milieu de l'épaisseur de la tôle
+Ld
+mm
+B-5. L'opération de pliage sera réalisée sur une presse plieuse, à laide dun poinçon et une matrice en forme de < V v douverture égale à 100 mm. Calculer leffort de pliage Fp (en tonne)
+Fp
+B-6. Déterminer la position de la ligne de pliage L1 par rapport à lextrémité 1 pour réaliser la plie 1, dans le cas de lutilisation dune presse plieuse.
+L1
+mm
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2021, Page 14 | 23
+
+--- page 45 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+Section B.3 - Moulage du boîtier cache-accouplement (8) B-7. Donner le type de moule, permanent (P) ou non permanent (NP) pour les procédés de moulage suivant (répondre par P ou NP).
+Procédé de moulage Type de moule
+En sable
+En coquille En carapace En cire perdue Par centrifugation
+B-8. Le Tableau- 5 regroupe 9 étapes de réalisation du boîtier cache-accouplement (8) par moulage: On demande de compléter ce tableau, en précisant de 1à 9 Yordre chronologique des étapes. Tableau 5 Ordre chronologique de l'opération de moulage en sable Ordre Opération de moulage Ordre Opération de moulage Réalisation des évents, des Préparation du sable masselottes et du canal de coulée
+Nettoyage de la pièce
+Refroidissement
+Extraction de la pièce moulée
+Réalisation des noyaux
+Assemblage du moule
+Coulée de la matière en fusion
+Élaboration des parties du moule
+B-9. Donner les principales caractéristiques du sable utilisé pour le procédé de moulage en sable.
+B-10 Donner les principaux constituants du sable utilisé dans ce procédé de moulage.
+B-11. Citer 3 types de défauts pouvant être rencontrés dans les pièces obtenues par le procédé de moulage en sable
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2021, Page 15 23
+
+--- page 46 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+B-12. Représenter soigneusement sur la Figure: 6 le moule prêt à la coulée de la pièce (8), en précisant le symbole normalisé du plan de joint; le(s) noyau(x) les surépaisseurs dusinage, le brut et les dépouilles, les évents, les jeux de remmoulage, de fermeture et de coiffage les canaux de coulée et dattaque, les masselottes, etc.
+CHASSIS
+CHASSIS 2
+Plan de joint
+Noyau
+Figure: 6- Moule prêt à la coulée du boîtier cache-accouplement (8)
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2021, Page 16 23
+
+--- page 47 ---
+Concours Technologie Épreuve CFM
+Partie B : Fabrication Mécanique
+Document Réponses
+B-13. Donner la signification de la désignation symbolique normalisée des matériaux des pièces citées dans le Tableau- 6.
+Tableau 6 Désignation symbolique normalisée des matériaux Désignation Explication
+Repère
+45
+35Cr Mo 4
+GE 335
+28
+X6 Cr Ni Mo 18 10
+Al Cu 4 Mg Si
+Section B.4- Élaboration partielle de l'Avant-Projet dÉtude de Fabrication (APEF)
+Lembout de raccordement (DT-05) est tiré dans la barre de diamètre brut D 50 mm et de longueur brute de Yordre de L = 94 mm. La gamme opératoire d'usinage de la pièce comporte les phases regroupées dans le Tableau- 7
+Tableau 7_Gamme opératoire d'usinage de lembout de raccordement Phase Opération Outillage Surfaces Contrôle du Diamètre et longueur 10 Mesure longueur + diamètre PC brut bruts Dressage en finition Outil à dresser P5 Chariotage Outil à charioter C6 20 Tournage Perçage Foret @2Omm C3 Alésage Outil à aléser C4, Chanfreinage Outil coudé Ch4 Dressage en finition Outil à dresser P1 Cycle d'ébauche avec gorge Outil à charioter 30 Tournage Contournage en finition Outil à charioter C1, CN, C5, P4, Ch2 Alésage Outil à aléser P2, C2, Chl, 40 Perçage Perçage Foret @4mm 8 trous @4 50 Polissage Polissage Meule cylindrique Superfinition P5
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 20216 Page 17 | 23
+
+--- page 48 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+B-14 Pour garantir la condition de cylindricité, en combien dopérations peut-on réaliser Yalésage 023H7 (C4)? Les désigner.
+B-15. Compléter le Tableau -8 relatif à la phase 30 dusinage de lembout de raccordement réalisé sur un tour à commande numérique à deux axes.
+Tableau 8_Opérations de la phase 30 Désignation
+Opération
+Surfaces
+P1
+Cycle d'ébauche paraxial
+Finition du cycle
+C1, CN, C5, P4 et Ch2
+Chl, C2 et P2
+B-16. Identifier les éléments de la partie active de loutil à charioter (Tableau -9)-
+Tableau 9 Partie active dun outil à charioter Désignation
+Repère
+Surface dappui
+b
+Face de coupe
+Arête de coupe principale
+Face de dépouille principale
+Partie active
+Face de dépouille secondaire
+g
+Arête de coupe secondaire
+h
+Bec de loutil
+Queue de loutil
+B-17. En utilisant le Tableau 0-3 ( Page 10/10, tracer sur le graphique Figure 7, les points représentatifs VB f(T)
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 20216 Page 18 | 23
+
+--- page 49 ---
+Concours Technologie Épreuve CFM Ve (mm)
+Partie B Fabrication Mécanique
+Document Réponses
+0,
+0,3
+0,2
+0,1
+10
+15
+20
+25 T (mn)
+Figure. 7-Courbe Ve = f(T)
+B-18. Déterminer, à partir de la Figure: 7, le temps T correspondant à VB chaque valeur de Vc.
+0,3 mm pour
+Vc (m/min) T (min)
+B-19. Sur le graphique bi-logarithmique Figure  8, représenter la courbe T = f(Vc) pour VB = 0,3 mm. Ln (T) 100
+10
+Ln (Va)
+100
+1000 Figure. 8- Courbe T = f(Va) pour VB 0,3mm Concours nationaux dentrée aux cycles de formation dingénieurs Session 20216 Page 19 | 23
+
+--- page 50 ---
+Concours Technologie Épreuve CFM
+Partie B : Fabrication Mécanique
+Document Réponses
+B-20. À partir de la Figure 8, déterminer les coefficients Cv et n de la loi de Taylor simplifiée:
+B-21. Écrire alors la Ioi de Taylor relative à cet outil
+T
+B-22. En utilisant le Tableau 0-4 ( Page 10/10,déterminer la vitesse de coupe Vc etlavance par tour f , pour une opération de chariotage de finition de loutil en carbure, tout en garantissant Tétat de surface.
+Vc
+m mn
+mm /tr
+B-23. Calculer le temps total dusinage T, que peut réaliser une arête de coupe, en utilisant Fexpression de la loi de Taylor simplifiée relative à cet outil.
+Tt
+B-24. Calculer la vitesse de rotation de la broche N, pour un diamètre moyen D 42 mm, ainsi que la vitesse davance Vf
+N =
+tr /mn
+V
+m mn
+B-25. Dans la phase 30, on veut réaliser la finition du cycle paraxial les surfaces extérieures à partir du point a au point f (DT-05). Déterminer la longueur du parcours dusinage Lu où Poutil est en contact avec la pièce. Les distances dapproche (E) et de dégagement (D sont E = 2 mm
+Lu
+mm
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2021 Page 20 23
+
+--- page 51 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+B-26 Déterminer le temps dusinage Tu de cette opération pour la vitesse davance Vf calculée en B.24/.
+Tu
+mn
+B-27. Déterminer le nombre de pièce (Np) que peut réaliser une arête de coupe.
+Np
+pièces
+B-28 Calculer le coût doutillage Ct pour une série de 1000 pièces dans les conditions suivantes Même outil en carbure, à plaquette rapportée non réversible, Deux arêtes utilisables , Coût dune plaquette SODTN
+Ct
+DTN
+B-29. Sachant que la pression spécifique de coupe Ks 550 daN /mm? , déterminer leffort de coupe Fc relatif à la vitesse de coupe (Fc Ks-S) (on néglige la composante relative à la vitesse d'avance). La profondeur de passe est ap = 3 mm sur le rayon.
+Fc
+B-30. Déterminer la puissance de coupe (Pc)
+Pc
+kW
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2021' Page 21 23
+
+--- page 52 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+B-31. On dispose dun tour à commande numérique à 2 axes, de puissance maximale à la broche Pm 4kW avec un rendement n 0,8. Déterminer la puissance utile Pu
+Pu
+kW
+a - Est-ce que cette machine est capable de réaliser cette opération (du point de vue puissance) ?
+b - Proposer une solution permettant de réaliser cette opération sur cette machine tout en respectant l'état de surface de la pièce proposée:
+B-32. Compléter le programme   dusinage et le commentaire associé, relatif lembout de raccordement (DT-05)
+Programme
+Commentaire Programme numéro 2021 Initialisation Dégagement vers lorigine mesure
+N1O G40 G71 G80 G90 G95 G97
+N2O GO G52 XO ZO
+N130 T2 D2 M6
+N140 GO X34 Z92
+Avance rapide vers le point (a) Rotation broche sens horaire à 1000 tr/mn
+N15o
+N160
+Avance de 0,15 mm/tr et activer lubrification Choix de la correction de loutil
+N170 G42
+N18O G1 Z30
+Point
+N19O X28 Z18
+Point
+N2OO
+Point (d)
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2021, Page 22 23
+
+--- page 53 ---
+Concours Technologie Épreuve CFM
+Partie B Fabrication Mécanique
+Document Réponses
+N210 X46
+Point
+N220
+Point Arrêter rotation broche et lubrification
+N230
+N240 G40
+Annulation de la correction
+N350
+Dégagement vers lorigine mesure Fin de programme
+N360
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2021, Page 23 23
+
+--- page 54 ---
+
+Dossier
+DOCUMENT REPONSES
+Ce dossier comporte 19 pages numérotées de 1 à 19 Partie A Mécanique des Solides Indéformables Résistance des Matériaux
+pages de 1 à 11
+Partie B Automatique
+pages de 12 à 19
+Un seul dossier réponse est fourni au candidat et doit être rendu à la fin de lépreuve; en totalité, même sans réponses. Le renouvellement ou la reproduction de ce dossier sont strictement interdits.
+
+--- page 55 ---
+Concours Technologie
+Partie A MSI & RDM
+Document Réponses
+Partie A : Mécanique des Solides Indéfor- mables A.l Étude Cinématique
+A.l: Déterminer les torseurs cinématiques des solides qui suivent dans leurs mouvements par rapport au bâti (0) a. le solide (1) au point A, Yexprimer dans la base B1 (71,71,Z0), en fonction de L et 0
+{1Vi/o}A
+b le solide (2) au point A, Yexprimer dans la base B1(æ171 Zo), en fonction de L et 6
+{12/0}A
+c. le solide (3) au point . C, lexprimer dans la base Bo(zo,Jo, Z0) , en fonction depL :
+{W3/o}c
+A.2:
+Exprimer; dans la base Bo(70,J0, Z0) , le vecteur position de A en fonction de d, H et 4. En déduire la vitesse de A appartenant au solide (2) dans son mouvement par rapport au bâti (0), en fonction de p et i :
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2021
+Page : 1/19
+
+--- page 56 ---
+Concours Technologie
+Partie A : MSI & RDM
+Document Réponses
+0À
+A€2/0
+A.3: En déduire les expressions de j et / en fonction de L, 0 et 0 :
+On se propose d'analyser Yeffet de la périodicité de 0, sur le couple Cm développé par le mo- teur; en considérant la figure A.1 illustrant approximativement la variation de 0 en fonction du temps et où T est sa période.
+T/2
+FIGURE A.l - Évolution de langle de rotation 0 en fonction du temps
+A.4: Déterminer; en fonction de t et de la période T, les expressions de 0(t) correspondant respectivement à la première demi-période (0 < t < T/2) et la seconde (T/2 < t < T).
+A.5: En déduire la vitesse @ associée à la première demi-période (0 < t < T/2) etla seconde (T/2 <t < T). Déduire que 0 est nulle sur une période.
+Concours nationaux d'entrée aux cycles de formation d ingénieurs
+Session 2021
+Page : 2/19
+
+--- page 57 ---
+Concours Technologie
+Partie A MSI & RDM
+Document Réponses
+A.2 Étude dynamique et énergétique A.6: Donner; après justification, la forme de la matrice d'inertie de la manivelle (1 au point G1 dans la base B1 (71J1 Zo) Cette matrice sera notée [IG  (1)].
+N.B. Dans la suite on notera par Iz le moment d'inertie de (1) par rapport à laxe (G1, Z0) et on gardera Vhypothèse  A.7: Déterminer les torseurs cinétiques et dynamiques des solides suivants dans leurs mou - vements par rapport au bâti (0) Le solide (1) au point G1 ; Yexprimer dans la base B1 (71,J1, Z0 en fonction de m1, Iz, L, 0 et ses dérivées .
+{61/0}G1
+{91/}G1
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2021
+Page : 3/19
+
+--- page 58 ---
+Concours Technologie
+Partie A MSI. & RD.M.
+Document Réponses
+b. Le solide (2) au point Gz ; Yexprimer dans la base B1(71,91,Z0) en fonction de mz, L, 0 et ses dérivées.
+[{62/0} G2
+{92/0} G2
+c. Le solide (3) au point G3 ; Yexprimer dans la base Bo(7o,Jo,Z0  en fonction de m3 L, 0 et ses dérivées.
+{63/0}G;
+G3
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2021
+Page 4/19
+
+--- page 59 ---
+Concours Technologie
+Partie A MSI. & RDM
+Document Réponses
+{93/0}G;
+A.8:
+Déterminer Yexpression de lénergie cinétique du système 2 {1,2,3} dans son mouvement par rapport au bâti (0)
+Ec(z/0)
+A.9: Compléter sur la figure A.2,Finventaire des actions mécaniques extérieures appliquées au système 2 {1,2,3}
+action extérieure actions mutuelles intérieures au système
+Moteur
+2
+3
+FIGURE A.2 - Diagramme des actions mécaniques
+A.IO: Écrire les torseurs des actions extérieures et intérieures au système (Z) en leur point d'application respectif, en les exprimant dans la base Bo(70,J0,2 
+Concours nationaux dentrée aux cycles de formation d 'ingénieurs
+Session 2021
+Page 5l19
+
+--- page 60 ---
+Concours Technologie
+Partie A : MSI & RDM
+Document Réponses
+A.1l: Déterminer les puissances développées par les actions mécaniques extérieures et in- térieures s'exerçant sur le système (Z) dans son mouvement par rapport au bâti (0)
+('+2/0)
+'int (2)
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2021
+Page : 6/19
+
+--- page 61 ---
+Concours Technologie
+Partie A MSI & RDM
+Document Réponses
+A.12:
+Appliquer le théorème de lénergie cinétique au système Z) dans son mouvement par rapport au bâti (0) pour déduire lexpression du couple Cm développé par le moteur:
+Cm
+A.13:
+Montrer que les extremums du couple Cm développé par le moteur sont solutions de cos 20 (m1/2) + m2 8T2 Yéquation sin 0 m3 472L
+A.14: Écrire les équations scalaires issues de Yapplication du théorème de la résultante dynamique pour le système (Z) en projection sur % et Jo
+Concours nationaux dentrée aux cycles de formation d V'ingénieurs
+Session 2021
+Page 7/19
+
+--- page 62 ---
+Concours Technologie
+Partie A MSI & RD.M
+Document Réponses
+A.15: Écrire léquation scalaire issue de Yapplication du théorème de la résultante dyna- mique appliqué au solide (3) dans son mouvement par rapport à (0) en projection sur Jo
+A.16: Écrire Yéquation scalaire issue de Yapplication du théorème du moment dynamique en 0 appliqué au système (E) dans son mouvement par rapport à (0)
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2021
+Page 8/19
+
+--- page 63 ---
+Concours Technologie
+Partie A MSI & RDM
+Document Réponses
+A.17: Utiliser les réponses aux questions B.14, B.15 et B.l6 pour déterminer les actions mécaniques, engendrées par les liaisons extérieures au système (2)
+A.3 Résistance des matériaux
+A.18: A partir de léquilibre de la manivelle (1), déterminer les inconnues du torseur de laction mécanique lencastrement au point 0.
+A.19: Déterminer les composantes du torseur de cohésion tout au long de la ligne moyenne de la poutre: Préciser le_type de sollicitations.
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2021
+Page 919
+
+--- page 64 ---
+Concours Technologie
+Partie A : MSI & RDM
+Document Réponses
+{Jcoh}G
+Types de sollicitations
+A.20:
+Étude de la résistance de la poutre au moment fléchissant Tracer le diagramme du moment fléchissant  /l fz. At fz(Nm)
+100
+200
+300
+400
+(mm)
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2021
+Page 10/19
+
+--- page 65 ---
+Concours Technologie
+Partie A MSI. & RDM
+Document Réponses
+b. Dans quelle section droite de la poutre le moment fléchissant .  fz est maximal ? Donner sa valeur absolue Mt fz
+M fz max
+En appliquant le critère de résistance à la contrainte normale en flexion, calculer la hau- teur minimale Hmin de la section
+d. Déterminer Véquation de la déformée de la ligne moyenne
+Calculer la flèche à lextrémité de la_poutre au point A.
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2021
+Page 11/19
+
+--- page 66 ---
+Concours Technologie
+Partie B : Automatique
+Document Réponses
+Partie B : Automatique B.1 Étude du capteur de position angulaire
+TABLE B.1 - Table de vérité du transcodeur à 3 entrées (GO, G1 et G2) et 3 sorties (Bo, B1 et B2)
+B.l: En se référant à la figure B.1 compléter le code Gray (BR) de la table de vérité ci-contre, où Go représente le bit du poids le plus faible
+Code (Gray ou BR) Code (BN) G2 G1 Go Bz B1 Bo
+0
+0
+1
+0
+1
+0
+FIGURE B.1 Chronogramme des trois si- gnaux Go, G1 et G2
+1
+1
+1 1
+B.2: Compléter les tableaux de Karnaugh des sorties Bo, B1 et B2 placer les groupements et déterminer les équations simplifiées en fonction des entrées du transcodeur sous forme de somme de produits.
+Sortie Bo G1 Go 00 G2
+01
+11
+10
+Bo
+Sortie B1 G1Go 00 G2
+01
+11
+10
+B1
+Sortie B2 G1 Go 00 G2
+01
+11
+10
+B2
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2021
+Page 12/19
+
+--- page 67 ---
+Concours Technologie
+Partie B Automatique
+Document Réponses
+B.3: On veut minimiser le nombre d'opérateurs logiques, une solution consiste à utiliser des multiplexeurs 4/2 (voir figure B.2) , puisque deux multiplexeurs suffiront: Compléter sur la figure B.2 le câblage  relatif aux sorties du transcodeur étudié. On rappelle que la sortie S dun tel multiplexeur est S = iglo + Tyl1 + xgl2 + xyl3
++Vcc OV Go G1 G2
+Mux 2 11 [2 13
+Bo
+1o Mux 12 [3
+B2
+FIGURE B.2 _ logigramme du transcodeur avec des multiplexeurs
+B.2 Étude séquentielle
+B.4: Compléter les Grafcet de point . de vue commande des figures B.3 et B.4
+Dcy (conditions initiales)
+M1O
+M2O
+M3O
+M4O
+M5O
+M6O
+M7O
+M8O
+2
+FIGURE B.3 Grafcet de point de vue commande du système d'assemblage des rotules
+Concours nationaux dentrée aux cycles de formation dingénieurs
+Session 2021
+Page 13/19
+
+--- page 68 ---
+Concours Technologie
+Partie B : Automatique
+Document Réponses
+N.B. La normalisation de la commande dun actionneur bistable Vn exige pour lactivation, Vn := 1, la désactivation, Vn := 0. E4O
+401
+402
+403
+E2O
+E30
+404
+21
+31
+405
+22
+32
+T3
+406
+23
+33
+407
+S20
+S30
+408
+409
+KM42
+S40
+FIGURE B.4 Grafcet des macro-étapes M2O, M3O et M4O relatives respectivement au fonctionnement des postes (2),(3) et (4) Concours nationaux d'entrée aux cycles de formation dingénieurs Session 2021 Page : 14/19
+
+--- page 69 ---
+Concours Technologie
+Partie B Automatique
+Document Réponses
+Asservissement de vitesse du plateau A partir du schéma fonctionnel de lasservissement de vitesse représenté par la figure 8 et en appliquant le théorème de superposition; la sortie du système s'écrit sous la forme Qch (p) H1(p)or(p) H2(p)Cr(p) avec Hp(p) = 94(p2 et H2(p) Och (p) @r (p) Ic;(p) =0 Cr(p) Io;(p)=0 B5: Pour R(p) = K, déterminer les expressions de H1(p)et H2(p)
+H1 (p)
+Hz(p)
+B.6: On considère Cr(p) nul et R(p) = K = 1, mettre H1(p) sous la forme canonique suivante Km H1 (p) 1+ 25p + p2 Wo "8
+H1 (p)
+S:
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2021
+Page 15/19
+
+--- page 70 ---
+Concours Technologie
+Partie B : Automatique
+Document Réponses
+B7] En déduire les paramètres Km, Wo et ;
+Km
+Wo
+B8] Que peut-on dire du premier dépassement D1' ? Justifier
+B.9: En utilisant labaque de la figure B.5 donner le temps de réponse à 5%.
+trs%7o X Wo
+102
+101
+198
+101
+102
+FIGURE B.5 Temps de réponse réduit trs%lo x Wo en fonction du coefficient damortissement g
+Concours nationaux dentrée aux cycles de formation d'ingénieurs
+Session 2021
+Page 16l19
+10=1
+
+--- page 71 ---
+Concours Technologie
+Partie B Automatique
+Document Réponses
+B.10: A partir des figures 8 et 9, donner les expressions des fonctions de transfert en Boucle ouverte T1(p) et T2(p) respectivement des asservissements de vitesse et de position (avec R(p) = Ket Cr(p) = 0)
+T1(p)
+Tz(p)
+B.1l: A partir des courbes de la figure B.6, tracées pour R(p) = 1, identifier les diagrammes des gains |lT1 (jw) lldB et ||T2(jw) IldB ainsi que ceux des arguments @1(jw) et @2(jw) . 30
+@ 9
+30
+60
+90
+120
+30 60 90 ~120 ~150 ~180 210 240 ~270 10-2
+]
+10-1 100 101 Pulsation (rad / s) FIGURE B.6 = Diagrammes de bode
+102
+B.12: Déterminer la bande passante de lasservissement de vitesse.
+Bp
+B.13: Que devient cette bande passante pour lasservissement de position ?
+Bp
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2021
+Page 17/19
+
+--- page 72 ---
+Concours Technologie
+Partie B : Automatique
+Document Réponses
+B.l4: Déterminer les marges de gain _ et de phase relatives aux fonctions Ti(jw) et T2(jw)
+MG1dB
+MG2dB
+Mq1 (%)
+Mpz(%)
+B.15:] Conclure sur la stabilité de chaque asservissement.
+B.16: Pour Yasservissement de position; et en exploitant les diagrammes de Bode de la fi- gure B.6, déterminer la valeur du gain critique de stabilité Kc?
+Kc
+B.17: Pour lasservissement de position; déterminer la valeur de K qui garanti une marge de phase Mo 60"
+Concours nationaux d'entrée aux cycles de formation dingénieurs
+Session 2021
+Page 18/19
+
+--- page 73 ---
+Concours Technologie
+Partie B : Automatique
+Document Réponses
+K
+B.18: Déterminer 1erreur de position unitaire de lasservissement de vitesse pour K = 1.
+€1p (œ)
+B.19: Déterminer lerreur de position unitaire de lasservissement de position pour K = 1.
+€2p (o)
+Concours nationaux d'entrée aux cycles de formation d'ingénieurs
+Session 2021
+Page 19/19
